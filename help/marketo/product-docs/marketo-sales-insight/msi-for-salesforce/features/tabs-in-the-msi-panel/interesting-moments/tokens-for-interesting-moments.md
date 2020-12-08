@@ -1,0 +1,254 @@
+---
+unique-page-id: 1146999
+description: Tokens para momentos interesantes - Documentos de marketing - Documentación del producto
+title: Tokens para momentos interesantes
+translation-type: tm+mt
+source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+workflow-type: tm+mt
+source-wordcount: '266'
+ht-degree: 0%
+
+---
+
+
+# Tokens para momentos interesantes {#tokens-for-interesting-moments}
+
+>[!NOTE]
+>
+>**Requisitos previos**
+>
+>* Aprenda a utilizar el paso [Flujo de momento](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)interesante.
+>* Obtenga más información sobre [los tokens](http://docs.marketo.com/display/docs/tokens).
+
+>
+
+
+
+## Tokens disponibles {#available-tokens}
+
+Consulte [Información general](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) de tokens para ver todos los tokens que puede poner en un momento interesante.
+
+## Activar tokens {#trigger-tokens}
+
+Según el activador utilizado en una campaña inteligente, hay disponibles tokens de activador adicionales.
+
+* `{{trigger.Trigger Name}}` que es siempre el activador mismo. Por ejemplo: Vínculo de clics en correo electrónico.
+* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Vínculo de clics en la página web es la dirección URL en sí, asunto de los activadores de Salesforce, etc.
+* Hay activadores adicionales disponibles en función de las restricciones, que se enumeran a continuación:
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+  </tr> 
+  <tr> 
+   <td>Vínculo de clics en correo electrónico</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Devoluciones de correo electrónico con fuerza</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Devoluciones de correo electrónico en pantalla</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Se entrega el correo electrónico</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Abre el correo electrónico</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Cancelación de suscripciones desde correo electrónico</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Vínculo de clics en correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Correo electrónico de ventas enviado</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Abre el correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+  </tr> 
+  <tr> 
+   <td>Correo electrónico de ventas recibido</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Correo electrónico de ventas facturado</td> 
+   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
+   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+  </tr> 
+  <tr> 
+   <td>Rellena el formulario</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><p><br></p></td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Página Web Visitas*</td> 
+   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+   <td colspan="1"><br></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!NOTE]
+>
+>Si no tiene un cheque ![(visto)](assets/check.svg) entonces devolverá una cadena vacía (nada) en el momento interesante.
+
+*La página **web** Visitas de activador tiene algunos tokens adicionales:
+
+* `{{trigger.Referrer}}`
+* `{{trigger.Search Engine}}`
+* `{{trigger.Search Query}}`
+
+>[!TIP]
+>
+>Pruebe siempre los momentos interesantes para asegurarse de que representan el modo que usted desea.
+>
+>Además, asegúrese de que es interesante para el vendedor, no sólo para usted. ![(wink)](assets/wink.svg)>
+
