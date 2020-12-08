@@ -1,0 +1,37 @@
+---
+unique-page-id: 12978938
+description: Archivar una Campaña Web - Documentos de marketing - Documentación del producto
+title: Archivar una Campaña Web
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '65'
+ht-degree: 0%
+
+---
+
+
+# Archivar una Campaña Web {#archive-a-web-campaign}
+
+1. Vaya a Campañas **** Web.
+
+   ![](assets/one.jpg)
+
+1. Haga clic en la lista desplegable de estado de la campaña web deseada y seleccione **Archivar**.
+
+   ![](assets/two-3.png)
+
+   >[!NOTE]
+   >
+   >Las campañas web archivadas no se mostrarán en el filtro predeterminado. Para verlos, haga clic en el icono Filtro y debajo de **Estado**, seleccione la casilla de verificación **Archivado** y haga clic en **Aplicar**.
+
+>[!NOTE]
+>
+>**Artículos relacionados**
+>
+>* [Eliminar una Campaña Web](delete-a-web-campaign.md)
+
+>
+
+
+
