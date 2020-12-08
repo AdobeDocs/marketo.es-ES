@@ -1,0 +1,24 @@
+---
+unique-page-id: 10095307
+description: Reglas de filtro de sincronización personalizada para una dirección de correo electrónico - Documentos de marketing - Documentación del producto
+title: Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '202'
+ht-degree: 0%
+
+---
+
+
+# Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico {#custom-sync-filter-rules-for-an-email-address}
+
+Para evitar la sincronización de registros que no tienen una dirección de correo electrónico, siga estas reglas.
+
+* Cuando se crea un posible cliente O cuando se actualiza el campo de dirección de correo electrónico del posible cliente, compruebe si el posible cliente tiene una dirección de correo electrónico y, en caso afirmativo, cambie Sincronizar a Mkto a **True**. De lo contrario, cambie a **Falso**
+
+* Cuando se crea un contacto O cuando se actualiza el campo de dirección de correo electrónico del contacto, compruebe si el contacto tiene una dirección de correo electrónico y, en caso afirmativo, cambie Sincronizar a Mkto a **True** y cambie Sincronizar a Mkto a **True** en el registro de cuenta. De lo contrario, cambie a **Falso**
+
+* Cuando se actualice el campo Nombre de Compañía (parentcustomerid) del contacto, compruebe si el campo Sincronizar con mkto del contacto es verdadero. Si es así, cambie Sincronizar a Mkto en la cuenta a **True** también
+* Cuando se actualice el campo Cliente potencial (personalizerid) de la oportunidad o Contacto (parentcontact tid), compruebe si el campo Sincronizar con mkto de la cuenta es verdadero o si el campo Sincronizar con mkto del contacto es verdadero. Si es así, cambie Sincronizar a Mkto en la oportunidad a **True** también
+
