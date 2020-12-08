@@ -1,0 +1,61 @@
+---
+unique-page-id: 2360227
+description: Filtrar recursos en informes de correo electrónico de Campaña - Documentos de marketing - Documentación del producto
+title: Filtrar recursos en informes de correo electrónico de Campaña
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 0%
+
+---
+
+
+# Filtrar recursos en informes de correo electrónico de Campaña {#filter-assets-in-a-campaign-email-reports}
+
+Centre el informe Rendimiento [del correo electrónico de la](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) Campaña en campañas [](http://docs.marketo.com/display/docs/smart+campaigns) inteligentes específicas de sus programas (&#39;recursos locales&#39;) o en las que se han archivado.
+
+1. Vaya al área **Análisis ** (o Actividades **** de marketing).
+
+   ![](assets/image2014-9-16-15-3a57-3a27.png)
+
+1. Seleccione el informe de rendimiento del correo electrónico.
+
+   ![](assets/image2014-9-16-15-3a57-3a31.png)
+
+1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre un filtro.
+
+   ![](assets/image2014-9-16-15-3a57-3a35.png)
+
+   * **Campañas**: Campañas inteligentes activas en la cuenta de Marketing.
+   * **Campañas** archivadas: Campañas inteligentes inactivas y retiradas.
+
+1. Elija las carpetas y campañas inteligentes específicas que desee incluir en el informe.
+
+   ![](assets/image2014-9-16-15-3a57-3a38.png)
+
+   >[!TIP]
+   >
+   >Si selecciona una carpeta, el informe incluirá todo lo que contenga en el momento en que se ejecute el informe.
+
+1. ¡Ya has terminado! Haga clic en la ficha **Informe** para ver el informe filtrado.
+
+   ![](assets/image2014-9-16-15-3a58-3a10.png)
+
+   >[!NOTE]
+   >
+   >**Artículos relacionados**
+   >
+   >    
+   >    
+   >    * [Informe de rendimiento de correo electrónico de campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >    * [Filtrar recursos en un informe de correo electrónico](filter-assets-in-an-email-report.md)
+
+
+   >[!NOTE]
+   >
+   >**Buceo profundo**
+   >
+   >
+   >Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+
