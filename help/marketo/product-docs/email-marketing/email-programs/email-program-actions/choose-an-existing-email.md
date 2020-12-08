@@ -1,0 +1,61 @@
+---
+unique-page-id: 2359451
+description: Elija un correo electrónico existente - Documentos de marketing - Documentación del producto
+title: Elegir un correo electrónico existente
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
+
+---
+
+
+# Elegir un correo electrónico existente {#choose-an-existing-email}
+
+>[!NOTE]
+>
+>**Requisitos previos**
+>
+>* [Crear un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Definir una Audiencia con una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente o [definir una Audiencia mediante la importación de una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>
+
+
+
+Una vez que haya [creado un programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de correo electrónico y definido su audiencia, querrá decidir qué correo electrónico va a enviar. Puede [crear un correo electrónico para un programa](create-an-email-for-an-email-program.md) de correo electrónico desde cero o seleccionar uno que ya exista. Así es como elegir uno que ya existe.
+
+1. Vaya a Actividades **de marketing**.
+
+   ![](assets/login-marketing-activities.png)
+
+1. Busque y seleccione su programa de correo electrónico.
+
+   ![](assets/selectemailprogram.jpg)
+
+1. En el mosaico **Correo electrónico** , seleccione el que desee enviar.
+
+   ` ![](assets/image2014-9-12-11-3a28-3a10.png)
+
+   `
+
+   >[!NOTE]
+   >
+   >Solo se pueden seleccionar correos electrónicos locales. ¿Necesita mover un correo electrónico de un programa a otro? [Aprende cómo aquí](move-an-email.md).
+
+   ¡Dulce!   ![](assets/image2014-9-12-11-3a28-3a51.png)
+
+Ahora que hemos decidido qué correo electrónico enviar, podemos configurar una prueba A/B, o omitirlo y programar el programa por correo electrónico.
+
+>[!NOTE]
+>
+>**Artículos relacionados**
+>
+>* [Añadir una prueba A/B](email-test-a-b-test/add-an-a-b-test.md)
+>* [Programar su Programa de correo electrónico](schedule-your-email-program.md)
+
+>
+
+
+
