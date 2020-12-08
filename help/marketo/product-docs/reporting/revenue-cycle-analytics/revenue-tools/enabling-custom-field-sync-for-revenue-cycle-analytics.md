@@ -1,0 +1,43 @@
+---
+unique-page-id: 3571888
+description: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos - Documentos de marketing - Documentación del producto
+title: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 0%
+
+---
+
+
+# Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+
+Los siguientes pasos le permitirán utilizar campos personalizados en los informes de RCA.
+
+1. Haga clic en **Administración**.
+
+   ![](assets/one.png)
+
+1. Haga clic en Análisis **de ciclo de ingresos** y, a continuación, en Sincronización **de campo** personalizada.
+
+   ![](assets/two.png)
+
+1. Seleccione el nombre **** del campo y, a continuación, haga clic en **Editar opción** de sincronización.
+
+   ![](assets/three.png)
+
+1. En Estado de sincronización, seleccione **Habilitado** y, a continuación, haga clic en **Guardar**.
+
+   ![](assets/four.png)
+
+1. La marca de verificación verde le permite saber que el campo está configurado para la sincronización.
+
+   ![](assets/five.png)
+
+   ¡Y eso es eso!
+
+   >[!NOTE]
+   >
+   >Una vez activado el campo, los datos estarán disponibles en Análisis del ciclo de ingresos al día siguiente.
+
