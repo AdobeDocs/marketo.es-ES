@@ -1,16 +1,12 @@
 ---
-source-git-commit: f8b0acbfd8d43ce002997edf071049421516c532
+source-git-commit: 1a5afcec16cdfa18be647db3a87f3e504f60c223
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 # Artículo de Contribute
-
-| EXL-PR | EXL | Previsualización | Activar | Publicado | Ayuda |
-|--- |--- |--- |--- |--- |--- |
-| [![Estado de compilación](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_pr-exl/lastBuild/) | [![Estado de compilación](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/marketo.en_exl/lastBuild/lastBuild) | [URL de previsualización](https://experienceleague.corp.adobe.com/docs/marketo/sky/home.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [Dirección URL en directo](https://experienceleague.adobe.com/docs/marketo/sky/home.html?lang=en) | [Guía de creación](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 Agradecemos las contribuciones de nuestra comunidad, así como de los empleados de Adobe de fuera de los equipos de documentación.
 
@@ -20,13 +16,13 @@ Este proyecto ha adoptado el Código de Conducta [de Código Abierto de](code-of
 
 ## Acerca de sus contribuciones al contenido del Adobe
 
-Consulte la Guía del colaborador de [Adobe Docs](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html).
+Consulte la Guía del colaborador de [Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
 La forma en que contribuya depende de quién sea y del tipo de cambios que desee aportar:
 
 ### Cambios menores
 
-Si estás aportando actualizaciones menores por la bondad de tu corazón, visita el artículo y haz clic en el vínculo **Editar** en el artículo que va a la fuente de GitHub para el artículo. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Para obtener más información, consulte la guía [general del colaborador de](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html) Adobe Docs.
+Si estás aportando actualizaciones menores por la bondad de tu corazón, visita el artículo y haz clic en el vínculo **Editar** en el artículo que va a la fuente de GitHub para el artículo. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Para obtener más información, consulte la guía [general del colaborador de](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) Adobe Docs.
 
 Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código de esta cesión temporal están cubiertos por las condiciones de uso del Adobe.
 
@@ -40,7 +36,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Principales cambios de los empleados de Adobes
 
-Si usted es un escritor técnico, un administrador de programas o un desarrollador del equipo de productos para una solución de [!UICONTROL Adobe Experience Cloud] y su trabajo es contribuir o crear artículos técnicos, debe utilizar el repositorio privado en `https://git.corp.adobe.com/AdobeDocs`.
+Si es un escritor técnico, un administrador de programas o un desarrollador del equipo de productos para una solución de Adobe Experience Cloud y su trabajo es contribuir o crear artículos técnicos, debe utilizar el repositorio privado en `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -48,7 +44,7 @@ Si usted es un escritor técnico, un administrador de programas o un desarrollad
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para la edición básica o realizar importantes contribuciones.
 
-Consulte la Guía [del colaborador de documentos de](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html) Adobe para obtener más información.
+Consulte la Guía [del colaborador de documentos de](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) Adobe para obtener más información.
 
 ## Cómo utilizar el código desplegable para dar formato al tema
 
