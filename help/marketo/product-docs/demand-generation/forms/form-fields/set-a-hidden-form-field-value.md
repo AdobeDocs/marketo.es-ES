@@ -1,0 +1,96 @@
+---
+unique-page-id: 2359663
+description: Definir un valor de campo de formulario oculto - Documentos de marketing - Documentación del producto
+title: Definir un valor de campo de formulario oculto
+translation-type: tm+mt
+source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+workflow-type: tm+mt
+source-wordcount: '323'
+ht-degree: 0%
+
+---
+
+
+# Definir un valor de campo de formulario oculto {#set-a-hidden-form-field-value}
+
+Los campos ocultos suelen rellenarse dinámicamente. No se muestran a la persona que rellena el formulario. Así es como se establece el valor.
+
+>[!NOTE]
+>
+>**Requisitos previos**
+>
+>[Definir un campo de formulario como oculto](set-a-form-field-as-hidden.md)
+
+## Seleccione el campo {#select-the-field}
+
+1. En el formulario, seleccione el campo oculto y haga clic en **Editar** para relleno **automático**.
+
+   ![](assets/autofill.png)
+
+## Usar valor predeterminado {#use-default-value}
+
+Si selecciona Usar valor predeterminado, puede codificar un valor específico para utilizarlo siempre cuando se envíe este formulario. Introduzca el valor predeterminado y haga clic en Guardar.
+
+![](assets/image2014-9-15-13-3a5-3a27.png)
+
+## Parámetro de URL {#url-parameter}
+
+Si desea capturar los parámetros de URL (cadenas de Consulta) de la página en la que se encuentra la persona al rellenar el formulario, puede utilizar **URL** **Parámetros** para rellenar el campo oculto.
+
+>[!NOTE]
+>
+>Los parámetros son algo técnicos, ¿no es así? Una vez que los consigues, son poderosos. Esta página de [Wikipedia sobre cadenas](http://en.wikipedia.org/wiki/Query_string) de Consulta es de alguna manera útil.
+
+1. Seleccione Parámetro **** URL para **obtener tipo** de valor.
+
+   ![](assets/image2014-9-15-13-3a6-3a48.png)
+
+1. Introduzca el nombre **del** parámetro y haga clic en **Guardar**.
+
+   ![](assets/image2014-9-15-13-3a7-3a35.png)
+
+>[!TIP]
+>
+>Puede introducir un valor predeterminado en caso de que no se encuentre el parámetro de URL.
+
+## Valor de la cookie {#cookie-value}
+
+Si está almacenando datos en cookies, puede utilizar **Cookie** **Value** para recoger datos al enviar el formulario.
+
+1. Seleccione **Cookie** **Value** para **Obtener** **valor** **de**.
+
+   ![](assets/image2014-9-15-13-3a8-3a21.png)
+
+1. Escriba el nombre del parámetro de cookie que desee y haga clic en **Guardar**.
+
+   ![](assets/image2014-9-15-13-3a8-3a43.png)
+
+   >[!TIP]
+   >
+   >Puede introducir un valor predeterminado en caso de que no se encuentre el parámetro o la cookie.
+
+## Parámetro remitente del reenvío {#referrer-parameter}
+
+Si desea capturar datos de la página de la que proviene el visitante antes de rellenar el formulario, puede utilizar **Remitente del reenvío** **Parámetro**.
+
+1. Configure **Get** **Value** **From** to **Remitente del reenvío** **Parameter**.
+
+   ![](assets/image2014-9-15-13-3a9-3a31.png)
+
+1. Introduzca el nombre **del** parámetro que desea extraer de la URL del remitente del reenvío y haga clic en **Guardar**.
+
+   ![](assets/image2014-9-15-13-3a9-3a56.png)
+
+   >[!TIP]
+   >
+   >Puede introducir un **valor** predeterminado **** en caso de que no se encuentre el parámetro de remitente del reenvío.
+
+1. Haga clic en **Finalizar**.
+
+   ![](assets/image2014-9-15-13-3a10-3a26.png)
+
+1. Haga clic en **Aprobar y cerrar**.
+
+   ![](assets/image2014-9-15-13-3a10-3a43.png)
+
+¡Dulce! Lo estás haciendo bastante bien. Hay más información sobre [formularios](http://docs.marketo.com/display/docs/forms).
