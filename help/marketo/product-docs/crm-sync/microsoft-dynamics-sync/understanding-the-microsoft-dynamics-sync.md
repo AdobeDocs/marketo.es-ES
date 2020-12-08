@@ -1,0 +1,60 @@
+---
+unique-page-id: 10098625
+description: Explicación de Microsoft Dynamics Sync - Documentos de marketing - Documentación del producto
+title: Información sobre Microsoft Dynamics Sync
+translation-type: tm+mt
+source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+workflow-type: tm+mt
+source-wordcount: '278'
+ht-degree: 0%
+
+---
+
+
+# Información sobre Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
+
+Marketing y Microsoft Dynamics van juntos. Mantenemos sus datos de ventas y marketing sincronizados.
+
+>[!NOTE]
+>
+>Marketing solo admite certificados SSL compatibles con Java 7 en este momento.
+
+## Funcionamiento de la sincronización {#how-sync-works}
+
+Marketo sincroniza datos continuamente con Microsoft Dynamics todo el día, todos los días. Se realiza mediante sincronización en segundo plano, en lotes, no en tiempo real.
+
+>[!NOTE]
+>
+>La primera sincronización de la suscripción tarda de minutos a horas, según el tamaño de la base de datos. Marketo copia toda la base de datos desde Dynamics. Después de eso, cada sincronización suele tardar segundos o minutos y solo sincroniza los datos que han cambiado.
+
+La sincronización entre Marketing y Dynamics es bidireccional para posibles clientes y contactos. Si realiza cambios en Marketing o Dynamics, las actualizaciones se reflejarán en ambos sistemas. Todos los demás campos, como cuentas y oportunidades, se sincronizan solo de una forma, de Dynamics a Marketing.
+
+## ¿Qué se sincroniza entre Marketing y Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
+
+* [Posibles clientes](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [Contactos](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [Cuentas](microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
+* [Usuarios](microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+* Equipos (grupos de usuarios del sistema)
+* [Oportunidades](microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [Entidades personalizadas](microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+
+>[!NOTE]
+>
+>Las [credenciales introducidas en Marketing para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) se utilizan para sincronizar los datos.
+
+Hay muchos matices y características sobre la sincronización de Dynamics. Consulte los detalles en la sección [Detalles de sincronización de](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft Dynamics.
+
+>[!CAUTION]
+>
+>Actualmente no se admite la actualización del entorno limitado para Marketing Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketing. Póngase en contacto con el administrador de éxito del cliente para obtener más detalles.
+
+>[!NOTE]
+>
+>**Artículos relacionados**
+>
+>* [Sincronizar configuración](http://docs.marketo.com/display/docs/sync+setup)
+   >
+   >
+* [Detalles de Microsoft Dynamics Sync](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)
+
