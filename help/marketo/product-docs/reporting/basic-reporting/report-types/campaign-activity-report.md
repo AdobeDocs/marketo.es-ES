@@ -1,0 +1,65 @@
+---
+unique-page-id: 2360057
+description: Informe de Actividad de campaña - Documentos de marketing - Documentación del producto
+title: Informe Actividad de campaña
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 0%
+
+---
+
+
+# Informe Actividad de campaña {#campaign-activity-report}
+
+Vea el rendimiento de sus campañas [](http://docs.marketo.com/display/docs/smart+campaigns) inteligentes.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
+
+1. [Cree un informe](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe de Actividad [de](report-type-overview.md)Campaña.
+1. [Configure el intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe** .
+1. ¡bueno! Explore el informe para identificar las campañas más efectivas, agrupadas por tipo de campaña.
+
+   ` ![](assets/image2014-9-16-16-3a8-3a45.png)
+
+   `
+
+   >[!TIP]
+   >
+   >Para encontrar las campañas que procesaron la mayor cantidad de personas, por ejemplo, [ordene el](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)informe *Total de personas procesadas* y elija **Ordenar De bajada**.
+
+   Haga clic en el nombre de una campaña inteligente para abrirla.  [Las columnas que puede seleccionar](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de Actividad de Campaña incluyen:
+
+   | Columna | Descripción |
+   |---|---|
+   | Recuento de ejecución por lotes | Número de veces que se ejecutó la campaña. |
+   | Total de personas procesadas | Número de personas que han pasado por el flujo de la campaña. |
+   | Personas en etapa de espera | Si todavía se está ejecutando una campaña, el número de personas que permanecen en el paso *Esperar* . |
+   | Eliminado del flujo | Número de personas que se han eliminado de la campaña. |
+   | Última Actividad | La última vez que la campaña procesó a una persona. |
+
+   Tipos de campaña en el informe:
+
+   | Tipo | Descripción |
+   |---|---|
+   | Lote | Campañas por lotes en la ficha Actividades **de** marketing. |
+   | Ejecutar acción | Acciones personales ejecutadas desde la **base de datos**. |
+   | Activado (activo) | Campañas activadas actualmente en la ficha Actividades **de** marketing. |
+   | Activado (inactivo) | Campañas activadas inactivas en la ficha Actividades **de** marketing. |
+
+   >[!NOTE]
+   >
+   >**Artículos relacionados**
+   >
+   >    
+   >    
+   >    * [Filtrar un informe de Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
+
+
+   Ver más informes en Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+
