@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: 'Mis acciones de token: editar, eliminar, clonar y copiar nombres de token'
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ En la ficha [!UICONTROL Mis tokens] de la carpeta o programa de campaña, haga c
 
 ## Copiar un nombre de token
 
-Para copiar el nombre de un token en el portapapeles (es decir, {{my.Evento Calendar File}}), haga clic con el botón derecho en el token y seleccione [!UICONTROL **Copiar nombre**] de token.
+Para copiar el nombre de un token en el portapapeles (por ejemplo, `{{my.Event Calendar File}}`), haga clic con el botón derecho en el token y seleccione **Copiar nombre** de token.
 
 ![Imagen siete](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
