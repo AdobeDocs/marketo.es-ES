@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: Actualizaciones del registro de Evento ON24 - Documentos de marketing - Documentación del producto
 title: Actualizaciones de registro en Evento ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Si una persona termina sin estar registrada, sino más bien configurada en el er
 
 Marketo extrae automáticamente la información de asistencia a las 11pm aproximadamente Pacific cada noche. Para actualizar manualmente la información de asistencia, haga clic en **Actualizar desde el proveedor** de seminario web en Acciones **de** Evento.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
