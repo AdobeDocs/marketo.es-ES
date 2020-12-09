@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: Habilitar el no borrador para fragmentos - Documentos de marketing - Documentación del producto
 title: Activar sin borrador para fragmentos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ No-Borrador se habilita automáticamente para todas las funciones de administrad
 >
 >Para desactivar Sin borrador, siga los pasos 1 a 4 anteriores, desactive la casilla Sin borrador y haga clic en **Guardar**.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Aprobar un fragmento sin borrador](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
