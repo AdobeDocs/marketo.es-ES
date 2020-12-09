@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: Probar la integración del Evento ON24 - Documentos de marketing - Documentación del producto
 title: Probar la integración del Evento ON24
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ A continuación se muestra cómo se actualizan los datos después de que se prod
 * Marketo recupera los datos de los asistentes de ON24 cada noche.
 * Una vez que los datos del asistente se sincronizan entre Marketo y ON24, Marketo actualiza el estado de pertenencia a Asistentes, Asistentes a petición o Sin mostrar. En la ficha **Resumen** del evento, el estado del evento se actualiza a **Evento completado**.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Ejemplo de integración de Evento ON24](example-on24-event-integration.md)
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
