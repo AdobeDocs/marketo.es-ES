@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: Clonar un fragmento - Documentos de marketing - Documentación del producto
 title: Clonar un fragmento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Clona un fragmento para crear una copia de él que puedas modificar según tus n
 
 ¡Increíble! Ahora puede modificar el fragmento clonado para adaptarlo a sus necesidades.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Editar fragmentos con contenido dinámico](edit-snippets-with-dynamic-content.md)
 
