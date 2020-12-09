@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Enviar correo electrónico de entrega de Oferta de referencia - Documentos de marketing - Documentación del producto
 title: Enviar correo electrónico de descarga de Oferta de referencia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Recompense a sus clientes con cupones y códigos de descuento mediante el correo electrónico de despacho de ofertas.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Usar correos electrónicos en promociones sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Crear una Oferta de referencia](create-a-referral-offer.md)
