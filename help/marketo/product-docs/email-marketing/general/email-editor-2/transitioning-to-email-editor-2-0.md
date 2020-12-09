@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: Transición al Editor de correo electrónico 2.0 - Documentos de marketing - Documentación del producto
 title: Transición al Editor de correo electrónico 2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ Aspectos a tener en cuenta
 
 * En algunos casos **excepcionales** , no se puede abrir un correo electrónico v1.0 en el Editor de correo electrónico 2.0. Si esto sucede, descarte el borrador y póngase en contacto con la asistencia técnica de marketing.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Información general del editor de correo electrónico 2.0](email-editor-v2-0-overview.md)
 >* [Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
