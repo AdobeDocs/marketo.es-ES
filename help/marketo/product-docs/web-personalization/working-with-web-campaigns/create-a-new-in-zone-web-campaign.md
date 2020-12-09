@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Crear una nueva Campaña web en la zona - Documentos de marketing - Documentación del producto
 title: Crear una nueva Campaña web en la zona
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Consulte [Clonar una Campaña](clone-a-web-campaign.md)Web.
 
 1. Aparecerá un mensaje de confirmación para confirmar si desea eliminar la Campaña.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear una nueva Campaña Web de utilidades](create-a-new-widget-web-campaign.md)
 >* [Crear una nueva Campaña web de cuadro de diálogo](create-a-new-dialog-web-campaign.md)
