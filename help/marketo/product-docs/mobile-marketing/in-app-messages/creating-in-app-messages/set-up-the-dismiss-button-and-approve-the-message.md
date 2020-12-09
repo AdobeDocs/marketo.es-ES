@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: Configuración del botón de despido y aprobación del mensaje - Documentos de marketing - Documentación del producto
 title: Configuración del botón Rechazar y aprobación del mensaje
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Tantas opciones, pero ahora tienes un bueno mensaje en la aplicación, ¡listo p
 
 Ahora es el momento de [enviar tu mensaje](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Enviar su mensaje en la aplicación](http://docs.marketo.com/display/docs/send+your+in-app+message)
