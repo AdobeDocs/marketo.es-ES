@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Uso de acciones masivas en Salesforce Classic - Documentos de marketing - Documentación del producto
 title: Uso de acciones masivas en Salesforce Classic
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo realizar acciones masivas, como agregar leads a una campaña, enviar un correo electrónico masivo o enviar leads desde Salesforce a Sales Connect.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Actualice a la versión más reciente del paquete de Sales Connect e instale los botones de acción masiva en la vista de posibles clientes/contactos. [Haga clic aquí para obtener instrucciones](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
