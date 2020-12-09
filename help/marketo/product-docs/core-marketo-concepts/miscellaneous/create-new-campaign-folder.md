@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: Crear nueva carpeta de campaña - Documentos de marketing - Documentación del producto
 title: Crear nueva carpeta de campaña
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    Ahora, al [crear un nuevo programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta campaña como una opción.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear un Programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Crear una nueva Campaña inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
