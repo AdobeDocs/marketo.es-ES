@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Informe de Actividad de página web - Documentos de marketing - Documentación del producto
 title: Informe Actividad de página Web
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ En este informe, puede ver quién está visitando su sitio Web e incluso suscrib
 
 Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el mismo informe.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir código de seguimiento de Munchkin a su sitio web](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
