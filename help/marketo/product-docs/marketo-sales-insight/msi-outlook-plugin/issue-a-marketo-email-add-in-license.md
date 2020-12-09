@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Expedición de una licencia de Añada de correo electrónico de marketing - Documentos de marketing - Documentación del producto
 title: Expedición de una licencia de Añada de correo electrónico de marketing
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Cualquier persona que desee utilizar el Añada de Marketing para Outlook por cor
    >
    >Si los representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla y ya habrá terminado.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Instalación del Añada de Marketing to para Outlook con una clave de empresa](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
