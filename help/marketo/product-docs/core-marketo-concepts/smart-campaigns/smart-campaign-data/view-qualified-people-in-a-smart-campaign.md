@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Vista de personas cualificadas en una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Vista de personas cualificadas en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Vista a las personas que califican para pasar por el flujo cuando se ejecuta una
 
 ¡Dulce! Puede utilizar esta lista para comprobar qué personas pueden pasar por el flujo antes de ejecutar una campaña inteligente.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Miembros de Campañas inteligentes de vista](view-smart-campaign-members.md)
 >* [Vista de personas bloqueadas en una Campaña inteligente](view-blocked-people-in-a-smart-campaign.md)
