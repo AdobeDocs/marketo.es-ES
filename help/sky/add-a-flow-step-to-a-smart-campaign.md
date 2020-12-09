@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-campaña
 description: Añadir un paso de flujo en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un gr
 
 ## Añadir un paso de flujo
 
-1. En Actividades de marketing, seleccione la campaña inteligente y haga clic en [!UICONTROL **Flujo**].
+1. En Actividades de marketing, seleccione la campaña inteligente y haga clic en **[!UICONTROL Flujo]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
