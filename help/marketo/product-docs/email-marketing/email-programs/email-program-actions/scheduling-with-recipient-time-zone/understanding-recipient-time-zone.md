@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: Explicación del huso horario del Destinatario - Documentos de marketing - Documentación del producto
 title: Explicación del huso horario del Destinatario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Si todavía no podemos determinar el huso horario de alguien a partir de una com
 >
 >Marketo vuelve a calcular automáticamente el huso horario de una persona cuando cambia cualquiera de los campos de entrada anteriores.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Programar Programas de correo electrónico con huso horario de Destinatario](schedule-email-programs-with-recipient-time-zone.md)
 >* [Inicio principal para Programas de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
