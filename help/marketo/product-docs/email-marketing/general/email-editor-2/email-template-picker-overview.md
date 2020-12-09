@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Descripción general del selector de plantillas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Información general del selector de plantillas de correo electrónico
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ También puede hacer clic con el botón derecho en una miniatura de plantilla pa
 
 ¡Bastante limpio!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
 >* [Crear un correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
