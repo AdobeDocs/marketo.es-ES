@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: Añadir una Vista móvil para su Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
 title: Añadir una Vista móvil para su Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en 
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Personalización de la Vista móvil para su Página de aterrizaje de forma libre](customize-mobile-view-for-your-free-form-landing-page.md)
 
