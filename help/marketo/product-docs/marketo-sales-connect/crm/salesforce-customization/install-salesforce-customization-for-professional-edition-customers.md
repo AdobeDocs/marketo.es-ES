@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Instalación de la personalización de Salesforce para clientes de Professional Edition - Documentos de marketing - Documentación del producto
 title: Instalación de la personalización de Salesforce para clientes de Professional Edition
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Los clientes con Salesforce Professional Edition deberán seguir estos pasos para instalar la personalización.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* El administrador de Sales Connect debe conectar sus cuentas de Salesforce y Sales Connect.
 >* La instancia de Salesforce utilizada necesita espacio para instalar trece campos de Actividad personalizados.
