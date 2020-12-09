@@ -3,9 +3,9 @@ unique-page-id: 10093159
 description: 'Análisis de contenido: documentos de marketing: documentación del producto'
 title: Análisis de contenido
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,7 @@ Los análisis de contenido adicionales incluyen:
 
 En la página Análisis de contenido, haga clic en el icono Eliminar del contenido que desee eliminar. Aparece un mensaje para confirmar que desea eliminar el contenido.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Habilitar la barra de recomendaciones de contenido](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Habilitar contenido predictivo para medios enriquecidos por Web](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
