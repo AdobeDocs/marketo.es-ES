@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Remercadotecnia personalizada en Facebook - Documentos de marketing - Documentación del producto
 title: Remercadotecnia personalizada en Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La remercadotecnia personalizada le permite volver a interactuar con los usuarios mediante los datos RTP y el poder de la remercadotecnia de Facebook.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* Complete la configuración de datos [de](retargeting-with-web-personalization-data.md) redireccionamiento con personalización web
 >* Revise la documentación de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook sobre audiencias personalizadas y remercadotecnia [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)en Facebook
