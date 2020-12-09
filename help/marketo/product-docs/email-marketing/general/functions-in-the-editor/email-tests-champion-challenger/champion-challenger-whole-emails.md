@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: 'Champion/Challenger: correos electrónicos completos: documentos de marketing: documentación del producto'
 title: 'Campeón/Desafío: correos electrónicos completos'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Probar correos electrónicos completos entre sí. Cuando la prueba haya terminado, envíe el servidor de mayor rendimiento.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir a un campeón de correo electrónico o a un Challenger](add-an-email-champion-challenger.md)
 
