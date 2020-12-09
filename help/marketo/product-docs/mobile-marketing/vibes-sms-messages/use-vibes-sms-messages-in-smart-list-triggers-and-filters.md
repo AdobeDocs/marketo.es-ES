@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: Utilizar mensajes SMS de vídeo en activadores y Filtros de Lista inteligente - Documentos de marketing - Documentación del producto
 title: Usar mensajes SMS de vibraciones en activadores y Filtros de Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Por el contrario, el ** **filtro** Miembro de Lista de Vibes **encuentra** a **c
 
 Después de configurar activadores y filtros de vibraciones en la lista inteligente, puede [definir el flujo](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Definir Lista inteligente para Campaña inteligente | Activador](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Buscar y Añadir Filtros en una Lista inteligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
