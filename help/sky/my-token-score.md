@@ -2,7 +2,7 @@
 title: my-token-score
 description: Mi Puntuación de token
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -20,6 +20,6 @@ A continuación se muestra cómo configurar un token de puntuación para utiliza
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
-1. Escriba un nombre para el nuevo token, escriba un valor de puntuación (por ejemplo: -5, +10, =50) y haga clic en [!UICONTROL **Guardar**].
+1. Escriba un nombre para el nuevo token, escriba un valor de puntuación (por ejemplo: -5, +10, =50) y haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen dos](/help/sky/assets/my-tokens/my-token-score/my-token-score-2.png)
