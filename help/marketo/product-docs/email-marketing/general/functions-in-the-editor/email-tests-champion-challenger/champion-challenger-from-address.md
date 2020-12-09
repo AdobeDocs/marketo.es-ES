@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: Campeón/Desafiante - Desde Dirección - Documentos de marketing - Documentación del producto
 title: Campeón/Desafío - De Dirección
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ¿Quieres probar un From Address diferente sin problemas? Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir a un campeón de correo electrónico o a un Challenger](add-an-email-champion-challenger.md)
 
