@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: Vista de Campañas Web desde una etiqueta específica - Documentos de marketing - Documentación del producto
 title: Vista de Campañas Web desde una etiqueta específica
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Etiquetar sus Campañas Web](label-your-web-campaigns.md)
 >* [Vista de segmentos desde una etiqueta específica](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
