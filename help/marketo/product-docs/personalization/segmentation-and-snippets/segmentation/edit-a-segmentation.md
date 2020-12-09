@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Editar una segmentación - Documentos de marketing - Documentación del producto
 title: Editar una segmentación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
 No dude en experimentar con segmentaciones que no se utilicen en contenido dinámico.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Eliminar una segmentación](delete-a-segmentation.md)
 
