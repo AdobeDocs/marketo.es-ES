@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Usar el Panel de Programa de correo electrónico - Vista de prueba A/B - Documentos de marketing - Documentación del producto
 title: Usar el Panel de Programa de correo electrónico - Vista de prueba A/B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Aquí puede ver un desglose de clics y cancelaciones de suscripción por variant
 
 Panel genial, ¿no crees?
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar el Panel de Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
