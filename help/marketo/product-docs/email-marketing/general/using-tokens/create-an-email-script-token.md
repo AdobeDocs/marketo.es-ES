@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: Creación de un token de script de correo electrónico - Documentos de marketing - Documentación del producto
 title: Creación de un token de script de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Para desarrolladores avanzados, puede utilizar secuencias de comandos [](http://
 
 Ahora puede usar este token en sus correos electrónicos. Ejecutará la secuencia de comandos cada vez que se envíe un correo electrónico.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir un token de script de correo electrónico a su correo electrónico](add-an-email-script-token-to-your-email.md)
 
