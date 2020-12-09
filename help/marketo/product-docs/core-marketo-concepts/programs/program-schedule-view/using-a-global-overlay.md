@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: Uso de una superposición global - Documentos de marketing - Documentación del producto
 title: Uso de una superposición global
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La superposición global de la vista de calandario del programa permite ver el programa en relación con otros recursos programados.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Debe tener una licencia [de calendario](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de marketing para utilizar esta función.
 
