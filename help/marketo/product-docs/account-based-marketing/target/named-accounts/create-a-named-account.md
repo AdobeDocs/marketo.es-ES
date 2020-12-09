@@ -3,9 +3,9 @@ unique-page-id: 12615781
 description: Crear una cuenta con nombre - Documentos de marketing - Documentación del producto
 title: Crear una cuenta con nombre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Siga estos pasos para crear manualmente una cuenta con nombre.
    >
    >Haga clic directamente en una cuenta con nombre para ver su panel.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir personas a una cuenta con nombre](add-people-to-a-named-account.md)
 
