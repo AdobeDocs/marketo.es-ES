@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: Crear un formulario - Documentos de marketing - Documentación del producto
 title: Crear un formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
 ¡Dulce! Ahora que se ha creado el formulario, vayamos y disfrazémoslo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Seleccionar un tema de formulario](select-a-form-theme.md)
 >* [Añadir un FieldSet en un formulario](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
