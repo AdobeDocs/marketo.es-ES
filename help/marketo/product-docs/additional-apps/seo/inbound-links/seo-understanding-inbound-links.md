@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO - Explicación de los vínculos de entrada - Documentos de marketing - Documentación del producto
 title: 'SEO: Explicación de los vínculos de entrada'
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ Los vínculos de entrada indican a los motores de búsqueda que vale la pena hac
 
 ¡Dulce! Ahora que comprende los vínculos de entrada, podemos sugerir más oportunidades de vínculo de entrada para su sitio.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Obtener sugerencias de vínculos de entrada](seo-get-inbound-link-suggestions.md)
 
