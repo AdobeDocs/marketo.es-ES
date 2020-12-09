@@ -3,9 +3,9 @@ unique-page-id: 7504736
 description: Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3 - Documentos de marketing - Documentación del producto
 title: Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 >
 >Una vez que haya sincronizado Marketing con una CRM, no podrá sincronizar una nueva CRM con la instancia de Marketing existente.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Si utiliza Microsoft Dynamics On-Premise, debe tener configurada la implementación [de](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing (IFD) con Servicios [de federación de](https://msdn.microsoft.com/en-us/library/bb897402.aspx) Active Directory 2.0+ (ADFS). Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
