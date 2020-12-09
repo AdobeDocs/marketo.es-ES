@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Habilitar la barra de recomendaciones de contenido - Documentos de marketing - Documentación del producto
 title: Habilitar la barra de recomendaciones de contenido
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 El motor de recomendación de contenido utiliza análisis predictivos y algoritmos de aprendizaje automático para ofrecer contenido relevante a cada visitante web. El motor de recomendaciones predice qué contenido funcionaría mejor por visitante. El contenido del motor se monitorea y controla en la página de Recommendations, lo que le ayuda a optimizar el ROI del contenido.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Antes de habilitar el contenido predictivo, debe:
 >
