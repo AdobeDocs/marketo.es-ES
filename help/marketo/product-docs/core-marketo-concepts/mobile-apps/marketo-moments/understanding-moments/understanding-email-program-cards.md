@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Explicación de las tarjetas de Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Explicación de las tarjetas de Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,7 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
 
 Y esa es la primicia de ver tus campañas de correo electrónico. ¡Ahora eres un profesional!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los momentos del marketing](understanding-marketo-moments.md)
 >* [Explicación de las tarjetas de Evento](understanding-event-cards.md)
