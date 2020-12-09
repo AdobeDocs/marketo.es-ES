@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: Programar Programas de correo electrónico con huso horario de Destinatario - Documentos de marketing - Documentación del producto
 title: Programar Programas de correo electrónico con huso horario de Destinatario
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ En resumen, los programas de correo electrónico programados con el huso horario
 >
 >Cualquier persona que cancele la suscripción entre el momento en que inicio el envío de su correo electrónico y el momento en que se entrega, seguirá recibiendo el correo electrónico. Le recomendamos que ajuste la notificación de cancelación de suscripción para reflejar que la cancelación de suscripciones puede tardar entre 1 y 2 días laborables en procesarse.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación del huso horario del Destinatario](understanding-recipient-time-zone.md)
 >* [Inicio principal para Programas de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
