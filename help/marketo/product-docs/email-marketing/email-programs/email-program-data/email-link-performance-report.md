@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Informe de rendimiento de los vínculos de correo electrónico - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de vínculo de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 >
 >Si desea saber exactamente qué hizo una persona, puede abrir el Registro [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) Actividades en la página Detalle [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) Persona desde la ficha Miembros del programa.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Informe de rendimiento de correo electrónico](email-performance-report.md)
 >* [Filtrar recursos en un informe de correo electrónico](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
