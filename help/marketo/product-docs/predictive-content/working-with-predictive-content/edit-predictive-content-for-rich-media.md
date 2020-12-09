@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Editar contenido predictivo para medios enriquecidos - Documentos de marketing - Documentación del producto
 title: Editar contenido predictivo para medios enriquecidos
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar el contenido predictivo para medios enriquecidos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >El contenido debe estar [aprobado para el contenido](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) predictivo en la página Todo el contenido.
 
