@@ -2,7 +2,7 @@
 title: delete-a-stream
 description: Eliminar un flujo
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Si alguna vez necesita eliminar un flujo del programa de participación, siga es
 
    ![Imagen uno](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Haga clic en la ficha [!UICONTROL **Flujos**] .
+1. Haga clic en la ficha **[!UICONTROL Flujos]** .
 
    ![Imagen dos](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Si alguna vez necesita eliminar un flujo del programa de participación, siga es
    >La eliminación de un flujo provocará la pérdida de datos históricos para
    >el contenido de ese flujo.
 
-1. Haga clic en el icono de engranaje y seleccione [!UICONTROL **Eliminar**].
+1. Haga clic en el icono de engranaje y seleccione **[!UICONTROL Eliminar]**.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
