@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: 'Champion/Challenger: Configurar alertas de informes: documentos de marketing: documentación del producto'
 title: 'Campeón/Desafiante: Configurar alertas de informes'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 El experto en marketing le enviará informes sobre cómo va la prueba de correo electrónico. Así es como programarlo.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Campeón/Desafío: Definir criterios de campeón](champion-challenger-define-champion-criteria.md)
 
