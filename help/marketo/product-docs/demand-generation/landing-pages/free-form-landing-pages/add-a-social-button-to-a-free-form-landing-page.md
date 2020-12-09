@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: Añadir un botón de Social en una Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
 title: Añadir un botón social en una Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ Un botón social anima a las personas a compartir su contenido con sus amigos. C
 
 ¡Felicitaciones! Ha agregado un botón social a su página de aterrizaje. Asegúrese de aprobar la página de aterrizaje.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Ya ha terminado, pero puede cambiar la configuración del botón social si es necesario. Inicio con [personalizar el estilo](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) del botón o [editar los mensajes](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) compartidos que presenta.
