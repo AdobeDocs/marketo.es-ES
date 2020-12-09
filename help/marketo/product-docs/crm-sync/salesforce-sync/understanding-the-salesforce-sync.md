@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Explicación de la sincronización de Salesforce - Documentos de marketing - Documentación del producto
 title: Explicación de la sincronización de Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ La sincronización entre Salesforce y Marketing solo es bidireccional para posib
 
 Hay muchos matices y características sobre la sincronización de Salesforce. Consulte los detalles en la sección [Detalles de sincronización de](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Configuración de sincronización de Salesforce](http://docs.marketo.com/display/docs/setup)
 >* [Detalles de sincronización SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details)
