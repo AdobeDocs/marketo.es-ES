@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Configuración del botón Mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Configuración del botón Mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
 Casi ahí. Su último paso es .
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
