@@ -3,9 +3,9 @@ unique-page-id: 2359862
 description: Buscar imágenes y archivos cargados - Documentos de marketing - Documentación del producto
 title: Buscar imágenes y archivos cargados
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ En Marketing Cloud, encontrar imágenes y archivos es una tarea sencilla.
 
 Levanta los pies - ¡has terminado!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Reemplazar una imagen o archivo cargado](replace-an-uploaded-image-or-file.md)
 >* [Organizar sus imágenes y archivos con carpetas](organize-your-images-and-files-using-folders.md)
