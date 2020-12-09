@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Paso 3 de 3 - Connect Marketing y Dynamics (On-premies 2013) - Documentos de marketing - Documentación del producto
 title: Paso 3 de 3 - Connect Marketing y Dynamics (On-situ 2013)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 ¡Bien! Hemos instalado la solución y configurado el usuario de sincronización. A continuación, debemos conectar Marketing y Dynamics.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Paso 1 de 3: Instalación de la solución de marketing en Dynamics (On-situ 2013)](step-1-of-3-install.md)
 >* [Paso 2 de 3: Configuración del usuario de sincronización para Marketing (On-situ en 2013)](step-2-of-3-configure.md)
