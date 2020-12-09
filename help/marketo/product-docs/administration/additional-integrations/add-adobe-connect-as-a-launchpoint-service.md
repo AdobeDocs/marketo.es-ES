@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: Añadir Adobe Connect como un servicio LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir Adobe Connect como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Marketing administra el registro y la asistencia a los seminarios web de Adobe C
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Aprenda a [crear un evento con Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
