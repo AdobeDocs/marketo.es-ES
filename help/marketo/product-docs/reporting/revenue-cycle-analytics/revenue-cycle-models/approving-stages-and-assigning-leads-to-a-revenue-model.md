@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Cree una regla de Puntuación de posible cliente para asignar los nuevos leads c
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Para aprobar su modelo, lea nuestra página de ayuda en ** [Aprobación y desaprobación de un modelo](approve-unapprove-a-revenue-model.md)de ingresos**.
 
