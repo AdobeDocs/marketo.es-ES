@@ -3,9 +3,9 @@ unique-page-id: 8782024
 description: Descarga de momentos de marketing - Documentos de marketing - Documentación del producto
 title: Descarga de momentos de marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Descargue Momentos de marketing de App Store o Google Play y voila! La magia del
 >
 >El inicio de sesión único con el Lenguaje de marcado de aserción de seguridad (SAML) no es compatible con Marketo Moments.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Explicación de los momentos del marketing](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 
