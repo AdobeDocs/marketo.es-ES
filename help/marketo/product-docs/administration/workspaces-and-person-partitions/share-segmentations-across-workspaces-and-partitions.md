@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Compartir segmentos entre espacios de trabajo y particiones - Documentos de marketing - Documentación del producto
 title: Compartir segmentos entre espacios de trabajo y particiones
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Compartir segmentos entre espacios de trabajo y particiones {#share-segmentations-across-workspaces-and-partitions}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Este artículo es solo para clientes que tienen espacios de trabajo y particiones
 
