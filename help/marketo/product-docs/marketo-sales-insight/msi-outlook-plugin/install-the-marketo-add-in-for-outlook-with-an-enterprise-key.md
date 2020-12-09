@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Instalación del Añada de Marketing to para Outlook con una clave de empresa - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de Marketing to para Outlook con una clave de empresa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Muchas veces, los representantes de ventas no tienen privilegios administrativos en sus portátiles y sus equipos de TI son responsables de instalar todo el software de forma remota. El Añada de Marketing para Outlook se puede instalar de esta manera con la clave de empresa, que se encuentra en la sección Perspectiva de ventas de Administración.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >El administrador debe haber [emitido una licencia](issue-a-marketo-email-add-in-license.md)de Añada por correo electrónico de Marketing to.
 
