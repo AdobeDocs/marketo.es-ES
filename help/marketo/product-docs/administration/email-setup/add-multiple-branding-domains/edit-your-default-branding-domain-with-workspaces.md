@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Editar el dominio de marca predeterminado con espacios de trabajo - Documentos de marketing - Documentación del producto
 title: Editar el dominio de marca predeterminado con espacios de trabajo
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 Ahora puede [agregar dominios](add-an-additional-branding-domain-with-workspaces.md) de marca adicionales que necesite para las áreas de trabajo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir un dominio de marca adicional con espacios de trabajo](add-an-additional-branding-domain-with-workspaces.md)
 
