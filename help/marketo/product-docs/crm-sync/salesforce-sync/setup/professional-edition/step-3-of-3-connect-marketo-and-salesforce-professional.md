@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: Paso 3 de 3 -Connect Marketing y Salesforce (Professional) - Documentos de marketing - Documentación del producto
 title: 'Paso 3 de 3: Connect Marketing y Salesforce (Professional)'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 En este artículo, configurará Marketing para que se sincronice con la instancia de Salesforce configurada.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Paso 2 de 3: Creación de un usuario de Salesforce para Marketing (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
