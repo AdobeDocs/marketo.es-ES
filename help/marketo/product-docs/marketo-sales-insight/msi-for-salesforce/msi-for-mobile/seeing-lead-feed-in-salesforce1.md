@@ -3,9 +3,9 @@ unique-page-id: 7512654
 description: Ver la fuente de posibles clientes en Salesforce1 - Documentos de marketing - Documentación del producto
 title: Visualización de la fuente de posibles clientes en Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ La fuente de posibles clientes es una lista de eventos interesantes hecha por su
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Momentos interesantes en Salesforce1](interesting-moments-in-salesforce1.md)
 >* [Enviar mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
