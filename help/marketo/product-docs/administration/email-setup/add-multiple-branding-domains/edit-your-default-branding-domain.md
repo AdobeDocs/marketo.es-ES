@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: Editar el dominio de marca predeterminado - Documentos de marketing - Documentación del producto
 title: Editar el dominio de marca predeterminado
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Editar el dominio de marca predeterminado es el primer paso para trabajar con dominios de marca.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Asegúrese de que ha [configurado un CNAME en el DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) antes de agregar los dominios de marca en Marketing Cloud.
 
