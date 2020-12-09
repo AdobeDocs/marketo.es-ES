@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Paso 1 de 3 -Añadir campos de marketing a Salesforce (Professional) - Documentos de marketing - Documentación del producto
 title: 'Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional)'
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >La instancia de Salesforce debe tener acceso a la API de Salesforce para sincronizar los datos entre Marketing y Salesforce.
 
