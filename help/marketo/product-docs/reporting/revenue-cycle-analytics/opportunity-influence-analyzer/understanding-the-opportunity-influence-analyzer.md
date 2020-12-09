@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Explicación del analizador de influencia de oportunidades - Documentos de marketing - Documentación del producto
 title: Explicación del analizador de influencia de oportunidades
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Si desea conservar este comportamiento, considere la posibilidad de anular la du
 >
 >Cada vez que cierre una transacción, búsquela en este analizador al día siguiente. Compártalo con el representante de ventas. Se darán cuenta de todo el trabajo duro que haces - además, puedes preguntar por qué ciertas personas &quot;parecen&quot; influyentes pero no tienen un rol asignado en el CRM.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Informe de Marketing Story con un analizador de influencia de oportunidades](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Crear un analizador de influencia de oportunidades](create-an-opportunity-influence-analyzer.md)
