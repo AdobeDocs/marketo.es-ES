@@ -2,7 +2,7 @@
 title: evento-configuración-objetivos
 description: Cómo configurar los objetivos de Evento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Proporcione a sus eventos objetivos específicos y vea cómo funcionan.
 
    ![Imagen dos](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Introduzca el objetivo para [!UICONTROL Registrado] y [!UICONTROL Asistido]y, a continuación, haga clic en [!UICONTROL **Crear**] ([!UICONTROL Descripción] y [!UICONTROL Etiquetas] son opcionales).
+1. Introduzca el objetivo para [!UICONTROL Registrado] y [!UICONTROL Asistido]y, a continuación, haga clic en **[!UICONTROL Crear]** ([!UICONTROL Descripción] y [!UICONTROL Etiquetas] son opcionales).
 
    ![Imagen uno](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
