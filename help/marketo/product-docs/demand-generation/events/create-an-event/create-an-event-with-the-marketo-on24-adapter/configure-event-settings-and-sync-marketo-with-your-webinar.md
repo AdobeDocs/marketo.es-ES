@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Configurar la configuración de Evento y sincronizar el marketing con el seminario web - Documentos de marketing - Documentación del producto
 title: Configuración de Evento y sincronización de marketing con el seminario web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Al configurar un evento asociado a un seminario web ON24, la programación de ev
 
 Ahora puede pasar al siguiente paso: .
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo On24](understanding-marketo-on24-adapter-events.md)
 >* [Crear Campañas secundarias y recursos locales](create-child-campaigns-and-local-assets.md)
