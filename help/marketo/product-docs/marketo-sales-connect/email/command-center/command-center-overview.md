@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Información general del centro de comandos - Documentos de marketing - Documentación del producto
 title: Información general del centro de comandos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Por ejemplo: si agrega 100 personas a una campaña en MSC, es posible que desee 
 
 Bonificación: Si guarda la búsqueda avanzada, funcionará como una lista dinámica y agregará correos electrónicos que cumplan los criterios de participación una vez que el destinatario vista o haga clic en el correo electrónico.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Tareas](http://docs.marketo.com/x/qwDb)
 >* [Información general de búsqueda avanzada](http://docs.marketo.com/x/KQM6Ag)
