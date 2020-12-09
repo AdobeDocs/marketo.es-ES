@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: Usar correos electrónicos en promociones sociales - Documentos de marketing - Documentación del producto
 title: Usar correos electrónicos en promociones sociales
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ En los correos electrónicos, utilice estos tokens:
 
 * **Correo electrónico** de descarga: Utilícelo **`{{social.Promo Code}}`** para enviar a cada ganador un código [de](use-promo-codes-for-offer-fulfillment.md)promoción.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Para poder agregar un correo electrónico a una aplicación social, debe ser *operativo* y *aprobado*. Consulte [Editar configuración para un correo electrónico](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
