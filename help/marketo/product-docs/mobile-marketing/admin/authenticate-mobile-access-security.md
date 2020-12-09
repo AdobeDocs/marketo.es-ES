@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: Seguridad de acceso móvil autenticada - Documentos de marketing - Documentación del producto
 title: Autenticar seguridad de acceso móvil
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Para mejorar la seguridad de los usuarios de Mobile, Marketing proporciona dos I
 
 Para habilitar los ID, debe adquirir los códigos y proporcionarlos a su departamento de TI para que puedan configurar una coincidencia segura.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Para habilitar esta función, póngase en contacto con el servicio de soporte técnico y solicite &quot;Modo seguro de Vespa&quot;.
 
