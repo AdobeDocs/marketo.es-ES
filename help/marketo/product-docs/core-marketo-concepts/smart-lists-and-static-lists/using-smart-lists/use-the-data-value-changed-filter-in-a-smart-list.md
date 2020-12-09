@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Utilizar el filtro de valores de datos cambiados en una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Utilizar el filtro de cambio de valor de datos en una Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Los valores cambian constantemente y se actualizan en la base de datos de Marketing. A veces, en lugar de buscar un valor específico, desea buscar personas que hayan experimentado un cambio de valor. Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
