@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO - Uso del desglose de detalles de la página - Documentos de marketing - Documentación del producto
 title: SEO - Uso del desglose de detalles de página
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Los resultados de optimización de página le indicarán los pasos exactos que d
 
 Bastante dulce, ¿verdad? Obtenga más información sobre las páginas aquí.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Optimizar páginas específicas con palabras clave de objetivo](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
