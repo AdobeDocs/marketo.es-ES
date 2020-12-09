@@ -3,9 +3,9 @@ unique-page-id: 2950553
 description: Personalizar el flujo de recursos compartidos de vídeo - Documentos de marketing - Documentación del producto
 title: Personalizar flujo de recursos compartidos de vídeo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Al [crear un recurso compartido](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >El siguiente paso es [configurar lo que sucede después de compartir](configure-after-share-prompts.md)vídeo.
 
