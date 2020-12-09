@@ -2,7 +2,7 @@
 title: comprensión-mis-tokens
 description: Explicación de mis tokens
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Al crear un nuevo token, otros objetos del árbol pueden hacer referencia a él.
 * **[Distintivo anulado:](/help/sky/override-an-inherited-my-token.md)** El token se heredó, pero se hizo una excepción en este programa o carpeta.
 * **Token heredado:** El token se creó en el árbol en algún lugar de un programa o carpeta de nivel superior.
 
-Puede encontrar estos tres tipos en la ficha [!UICONTROL **Mis tokens**] de su programa o campaña.
+Puede encontrar estos tres tipos en la ficha **[!UICONTROL Mis tokens]** de su programa o campaña.
 
 ![Imagen dos](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
