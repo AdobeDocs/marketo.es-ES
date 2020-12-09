@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Tipos de entrada de Vista de calandario del programa - Documentos de marketing - Documentación del producto
 title: Tipos de entrada de Vista de calandario del programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Existen ocho tipos de entrada integrados diferentes que serán visibles y estar�
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear un tipo de entrada personalizada](create-custom-entry-types.md)
 
