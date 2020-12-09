@@ -2,7 +2,7 @@
 title: priority-override-for-activation-campañas
 description: Anulación de prioridad para Campañas de activador
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Los administradores pueden anular la prioridad determinada de Marketing para act
 
 ## Anular prioridad
 
-1. En la campaña desencadenadora, haga clic en la ficha [!UICONTROL **Programación**] y, a continuación, haga clic en [!UICONTROL **Anular prioridad**].
+1. En la campaña desencadenadora, haga clic en la ficha **[!UICONTROL Programación]** y, a continuación, haga clic en **[!UICONTROL Anular prioridad]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Elija un nuevo nivel de prioridad en la lista desplegable. Haga clic en [!UICONTROL **Confirmar**].
+1. Elija un nuevo nivel de prioridad en la lista desplegable. Haga clic en **[!UICONTROL Confirmar]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ Los administradores pueden anular la prioridad determinada de Marketing para act
 
 ## Restablecer prioridad
 
-1. Para restablecer la prioridad de campaña de nuevo a la predeterminada del sistema, vaya a la ficha [!UICONTROL **Programar**] de la campaña de activación y haga clic en [!UICONTROL **Restablecer prioridad**].
+1. Para restablecer la prioridad de campaña de nuevo a la predeterminada del sistema, vaya a la ficha **[!UICONTROL Programar]** de la campaña de activación y haga clic en **[!UICONTROL Restablecer prioridad]**.
 
    ![Imagen Cuatro](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Haga clic en [!UICONTROL **Restablecer**] para confirmar.
+1. Haga clic en **[!UICONTROL Restablecer]** para confirmar.
 
    ![Imagen cinco](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ Los administradores pueden anular la prioridad determinada de Marketing para act
 >
 >Solo los administradores o usuarios con responsabilidades administrativas deben tener acceso de anulación de prioridad de campaña.
 
-1. En el área [!UICONTROL Administración] , haga clic en [!UICONTROL **Usuarios y funciones**].
+1. En el área [!UICONTROL Administración] , haga clic en **[!UICONTROL Usuarios y funciones]**.
 
    ![Imagen seis](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Haga clic en la ficha [!UICONTROL **Funciones**] , seleccione el usuario al que desea otorgar acceso y, a continuación, haga clic en [!UICONTROL **Editar función**].
+1. Haga clic en la ficha **[!UICONTROL Funciones]** , seleccione el usuario al que desea otorgar acceso y, a continuación, haga clic en **[!UICONTROL Editar función]**.
 
    ![Imagen siete](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. En Actividades [!UICONTROL de mercadotecnia de]acceso, marque [!UICONTROL **Editar prioridad**] de Campaña del activador. Haga clic en [!UICONTROL **Guardar**].
+1. En Actividades [!UICONTROL de mercadotecnia de]acceso, marque **[!UICONTROL Editar prioridad]** de Campaña del activador. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen ocho](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Prioridad de la Campaña de vista en Marketing Classic
 
-Puede vista de la prioridad de campaña en la [!DNL Classic] experiencia haciendo clic en la ficha [!UICONTROL **Programar**] de una campaña desencadenadora.
+Puede vista de la prioridad de campaña en la [!DNL Classic] experiencia haciendo clic en la ficha **[!UICONTROL Programar]** de una campaña desencadenadora.
 
 ![Imagen nueve](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
