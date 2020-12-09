@@ -3,9 +3,9 @@ unique-page-id: 1147120
 description: 'Importar miembros de una hoja de cálculo a un Programa: Documentos de marketing: documentación del producto'
 title: Importación de miembros de una hoja de cálculo en un Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Administrar y Vista de miembros](manage-and-view-members.md)
 
