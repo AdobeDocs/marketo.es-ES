@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Habilitar contenido predictivo para medios enriquecidos en la Web - Documentos de marketing - Documentación del producto
 title: Habilitar contenido predictivo para medios enriquecidos por Web
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 El contenido predictivo atrae a los visitantes web con el contenido más relevante, gracias al aprendizaje automático y a los análisis predictivos. Con los medios enriquecidos en la Web, puede mejorar el contenido con descripciones e imágenes de texto e incrustar varias recomendaciones de contenido predictivo en el sitio Web.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Antes de habilitar el contenido predictivo, debe:
 >
