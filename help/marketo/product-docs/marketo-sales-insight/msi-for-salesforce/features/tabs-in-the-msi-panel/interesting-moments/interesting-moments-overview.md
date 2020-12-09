@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Información general sobre momentos interesantes - Documentos de marketing - Documentación del producto
 title: Información general de momentos interesantes
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Puede utilizar el interesante paso del flujo de tiempo para dar visibilidad a su
 
 También puede usar tokens en momentos interesantes para crear descripciones dinámicas realmente útiles.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Uso de momentos interesantes](using-interesting-moments.md)
 >* [Tokens para momentos interesantes](tokens-for-interesting-moments.md)
