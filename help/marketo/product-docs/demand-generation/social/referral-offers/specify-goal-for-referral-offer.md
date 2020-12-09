@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: Especificar objetivo para la Oferta de referencia - Documentos de marketing - Documentación del producto
 title: Especificar objetivo para la Oferta de referencia
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Objetivos de ejemplo:
 >
 >Hay nuevos filtros y activadores disponibles en campañas inteligentes para supervisar la actividad social. Consulte [Uso de activadores y filtros para actividades](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)sociales.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >A continuación, puede [seleccionar los mensajes de correo electrónico](send-referral-offer-fulfillment-email.md) de registro y de cumplimiento que desea enviar desde la oferta de referencia.
 
