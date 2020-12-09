@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: Crear un nuevo modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Crear un nuevo modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 ¡Se ve afilado! Acaban de entrar en el maravilloso mundo del modelado.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Obtenga más información sobre [el uso de las fases](using-revenue-model-inventory-stages.md)de inventario del modelo de ingresos.
 
