@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Configuración de sincronización de Salesforce - Documentos de marketing - Documentación del producto
 title: Configuración de sincronización de Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Salesforce o en la edición Professional si ha adquirido la integración mediante la API de servicios Web.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Salesforce y el compromiso de ventas deben estar conectados.
 
@@ -47,9 +45,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
 Una vez que active &quot;Correo electrónico a Salesforce (BCC)&quot;, recibirá un CCO de sus correos electrónicos de ventas y los mismos se registrarán como actividades de oportunidades, posibles clientes y contactos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Salesforce y el compromiso de ventas deben estar conectados.
 
