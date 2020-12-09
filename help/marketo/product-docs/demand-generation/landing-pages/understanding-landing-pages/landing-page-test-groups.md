@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: Grupos de pruebas de página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Grupos de pruebas de página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo rastrea el número de vistas de página y finalizaciones de formulario en cada página probada dentro de un grupo de prueba. Puede utilizar los resultados del grupo de prueba para decidir qué Página de aterrizaje es la más convincente. A continuación se explica cómo crear un grupo de prueba.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Cree dos o más páginas de aterrizaje](../../../../getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
 
