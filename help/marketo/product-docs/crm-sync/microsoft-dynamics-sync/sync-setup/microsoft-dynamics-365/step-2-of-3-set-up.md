@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Paso 2 de 3 - Configuración del usuario de sincronización de marketing en Dynamics - Documentos de marketing - Documentación del producto
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de marketing en Dynamics'
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Comencemos creando una cuenta de usuario.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Paso 1 de 3: Instalación de la solución de marketing (en línea)](step-1-of-3-install.md)
 
