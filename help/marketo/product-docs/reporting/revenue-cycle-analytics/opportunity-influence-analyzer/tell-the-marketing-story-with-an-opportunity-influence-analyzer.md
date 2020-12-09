@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Informe a Marketing Story con un Analizador de influencia de oportunidades - Documentos de marketing - Documentación del producto
 title: Informe de Marketing Story con un analizador de influencia de oportunidades
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilice un Analizador de influencia de oportunidades para ilustrar el papel de la mercadotecnia en oportunidades importantes. Muestra cómo el marketing influyó en una oportunidad, desde el primer toque hasta la creación de oportunidades y la victoria, y más allá.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear un analizador de influencia de oportunidades](create-an-opportunity-influence-analyzer.md)
 
