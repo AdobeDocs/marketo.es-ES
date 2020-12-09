@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: Crear una función de usuario solo de API - Documentos de marketing - Documentación del producto
 title: Crear una función de usuario solo de API
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Si desea realizar la integración con Marketing mediante la API [](http://develo
 >
 >Siempre es buena idea conceder únicamente los permisos mínimos requeridos.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >¡Bien hecho! Ahora vamos a [crear un usuario](create-an-api-only-user.md)solo de API.
 
