@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: Rendimiento social de vista - Documentos de marketing - Documentación del producto
 title: Rendimiento social de vista
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Consulte las actividades sociales generadas por las aplicaciones sociales. El Pa
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >También puede utilizar activadores y filtros para ver quién comparte el contenido e interactúa con sus aplicaciones sociales, de modo que pueda actuar en esas interacciones. Consulte [Uso de activadores y Filtros para Actividades](triggers-and-filters-for-social-activities.md)sociales.
 
