@@ -28,35 +28,31 @@ En Actividades de marketing, debe utilizar las carpetas para organizar los progr
 >**Ejemplo**
 >
 >* Programas de mercadotecnia activos
-   >
-   >    
-   * Correos electrónicos
-   >    * Eventos
-
-      >
-      >        
-      * Eventos en directo/espectáculos de carretera
-      >        * Presentaciones comerciales
-      >        * Seminarios web
-   >
-   * Newsletters
-   * Nurtura
-   * Contenido web
-   * formularios web
-* Aprendizaje
-* Operativo
-
-   * Ciclo de vida
-   * Puntuación
-   * gestión de datos
-* Perspectiva de ventas >
-   * Momentos interesantes
-   * Correos electrónicos de ventas
-   * Campañas solicitadas de ventas
-* **Archivo** >
-   * Archivar Eventos >
-      * Archivo 2012
-      * Archivo 2013
+>
+>    * Correos electrónicos
+>    * Eventos
+>
+>        * Eventos en directo/espectáculos de carretera
+>        * Presentaciones comerciales
+>        * Seminarios web
+>   * Newsletters
+>   * Nurtura
+>   * Contenido web
+>   * formularios web
+>* Aprendizaje
+>* Operativo
+>
+>   * Ciclo de vida
+>   * Puntuación
+>   * gestión de datos
+>* Perspectiva de ventas
+>   * Momentos interesantes
+>   * Correos electrónicos de ventas
+>   * Campañas solicitadas de ventas
+>* **Archivo** 
+>   * Archivar Eventos
+>      * Archivo 2012
+>      * Archivo 2013
 
 
 
