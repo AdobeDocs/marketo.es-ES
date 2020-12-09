@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: Prueba A/B de la Campaña Web - Documentos de marketing - Documentación del producto
 title: Prueba A/B de la Campaña Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ Para probar las campañas personalizadas con A/B, puede seleccionar dos o más c
 
 
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear una Campaña de cuadro de diálogo](create-a-new-dialog-web-campaign.md)
 >* [Crear una Campaña RTP en zona](create-a-new-in-zone-web-campaign.md)
