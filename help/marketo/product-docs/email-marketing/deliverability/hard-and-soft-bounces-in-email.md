@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Devoluciones en firme y blandas en correo electrónico - Documentos de marketing - Documentación del producto
 title: Devoluciones en firme y blandas en el correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Hay 5 cadenas de personas en Marketing relacionadas con el envío de correo elec
 >
 >Cuando una persona se marca como no válida **por** correo electrónico, solo se puede restablecer manualmente (lo que recomendamos que haga sólo si sabe que su correo electrónico es válido) desmarcando el cuadro &quot;Correo electrónico no válido&quot; en la ficha Información de persona de su registro.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Siga [estos pasos](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) para crear un informe de rendimiento de correo electrónico, que generará datos de devoluciones.
 
