@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: 'Desinstalar MSI desde la instancia de MS Dynamics: documentos de marketing: documentación del producto'
 title: Desinstalar MSI de la instancia de MS Dynamics
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Para desinstalar MSI de su instancia de MS Dynamics, deberá realizar pasos tanto en Marketing como en MS Dynamics.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Deshabilitar sincronización global de MS Dynamics](http://docs.marketo.com/x/TAA6Ag)
 
