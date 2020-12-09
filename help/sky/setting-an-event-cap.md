@@ -2,7 +2,7 @@
 title: definición de un evento-gorro
 description: Cómo configurar un límite de evento
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Limite la cantidad de personas que pueden registrarse para su evento con un lím
 
    ![Imagen uno](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. En Información general, busque [!UICONTROL Evento Cap] y haga clic en [!UICONTROL **Not Set**].
+1. En Información general, busque [!UICONTROL Evento Cap] y haga clic en **[!UICONTROL Not Set]**.
 
    ![Imagen dos](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Introduzca la cantidad máxima de personas que desea que puedan registrarse en el evento y haga clic en [!UICONTROL **Siguiente**].
+1. Introduzca la cantidad máxima de personas que desea que puedan registrarse en el evento y haga clic en **[!UICONTROL Siguiente]**.
 
    ![Imagen tres](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
@@ -41,7 +41,7 @@ Limite la cantidad de personas que pueden registrarse para su evento con un lím
 
    ![Imagen Cuatro](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Haga clic en la lista desplegable [!UICONTROL **Registro de página**] completa y seleccione la página de aterrizaje que actuará como página completa de registro. Haga clic en [!UICONTROL **Establecer y activar**] cuando termine.
+1. Haga clic en la lista desplegable **[!UICONTROL Registro de página]** completa y seleccione la página de aterrizaje que actuará como página completa de registro. Haga clic en **[!UICONTROL Establecer y activar]** cuando termine.
 
    ![Imagen cinco](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
