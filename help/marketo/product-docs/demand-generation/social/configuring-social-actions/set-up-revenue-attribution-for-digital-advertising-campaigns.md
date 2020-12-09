@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Configuración de la atribución de ingresos para Campañas de publicidad digital - Documentos de marketing - Documentación del producto
 title: Configurar la atribución de ingresos para Campañas de publicidad digital
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Después de configurar el primer programa de publicidad en Marketing, puede clon
 
 Con programas independientes, puede realizar un seguimiento del número de conversiones de cada una y ver sus programas en el Analizador de Programas, el Analizador de influencia de oportunidades y otras funciones de Análisis de marketing.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* Configure una etiqueta de canal con valores de estado y éxito de programa (por ejemplo, publicidad digital o social paga y PPC)
 >* Crear o editar un formulario para pasar una cadena de consulta con la persona
