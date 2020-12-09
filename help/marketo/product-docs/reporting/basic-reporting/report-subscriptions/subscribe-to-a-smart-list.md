@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: Suscripción a una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Suscripción a una Lista inteligente
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -108,9 +108,7 @@ Para eliminar una suscripción, selecciónela en la ficha suscripciones y haga c
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Editar una Suscripción de Lista inteligente](edit-a-smart-list-subscription.md)
 >* [Asegurar la configuración del administrador de Suscripciones](secure-the-subscription-admin-setting.md)
