@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Iniciar una presentación - Documentos de marketing - Documentación del producto
 title: Iniciar una presentación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para la pre
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una presentación](create-a-presentation.md)
 >* [Personalización de una presentación](customize-a-presentation.md)
