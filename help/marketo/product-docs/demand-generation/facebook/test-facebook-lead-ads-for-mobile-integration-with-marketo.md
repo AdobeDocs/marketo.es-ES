@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Probar las publicidades de posibles clientes de Facebook para la integración móvil con Marketing - Documentos de marketing - Documentación del producto
 title: Probar las publicidades de posibles clientes de Facebook para la integración móvil con el marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Después de crear la publicidad de posibles clientes, debe probarla.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Debe [configurar la integración](set-up-facebook-lead-ads.md)de publicidades de posibles clientes de Facebook.
 
