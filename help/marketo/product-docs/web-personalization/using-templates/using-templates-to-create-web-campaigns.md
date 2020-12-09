@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Uso de plantillas para crear Campañas Web - Documentos de marketing - Documentación del producto
 title: Uso de plantillas para crear Campañas Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Acelere y simplifique el proceso de creación de campañas web mediante el uso d
 
 ¡Bien hecho! ¿Vio cuánto tiempo guardó con una plantilla?
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Guardar una Campaña como plantilla](save-your-campaign-as-a-template.md)
 
