@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Administrar datos de Perfiles sociales - Documentos de marketing - Documentación de productos
 title: Administrar datos de Perfiles sociales
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Según la configuración de privacidad de la red y del usuario, se recuperan uno
 >
 >El relleno de formulario social captura la dirección de correo electrónico *únicamente* si la persona la introduce en el formulario. Si necesita la dirección de correo electrónico, debe [convertirla en un campo obligatorio en el formulario](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Para capturar esta información de los formularios, habilite el rellenado [de formularios](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)sociales.
 
