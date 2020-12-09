@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Enviar un mensaje de correo electrónico de ventas de marketing desde Microsoft Dynamics - Documentos de marketing - Documentación del producto
 title: Envío de un correo electrónico de ventas de marketing desde Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ El equipo de ventas puede enviar correos electrónicos y hacer que se rastreen p
 
 ¡Bien hecho! Ahora sabe cómo enviar correos electrónicos rastreados de Marketing a través de Microsoft Dynamics.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir un posible cliente o contacto a una Campaña de marketing de Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
