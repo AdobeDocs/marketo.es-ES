@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Definir un valor de campo de formulario oculto - Documentos de marketing - Documentación del producto
 title: Definir un valor de campo de formulario oculto
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Los campos ocultos suelen rellenarse dinámicamente. No se muestran a la persona que rellena el formulario. Así es como se establece el valor.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Definir un campo de formulario como oculto](set-a-form-field-as-hidden.md)
 
