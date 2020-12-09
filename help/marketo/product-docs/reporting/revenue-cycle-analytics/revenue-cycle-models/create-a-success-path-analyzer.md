@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: Creación de un analizador de rutas de éxito - Documentos de marketing - Documentación del producto
 title: Creación de un analizador de rutas de éxito
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Obtenga una representación visual de la velocidad y el flujo a través del modelo [de ciclo de](http://docs.marketo.com/display/docs/revenue+cycle+analytics)ingresos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Crear un nuevo modelo de ingresos](create-a-new-revenue-model.md)
 
