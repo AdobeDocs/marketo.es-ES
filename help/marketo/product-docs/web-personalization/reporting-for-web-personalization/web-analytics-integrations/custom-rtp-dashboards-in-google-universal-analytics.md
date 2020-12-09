@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Paneles RTP personalizados en Google Universal Analytics - Documentos de marketing - Documentación del producto
 title: Paneles RTP personalizados en Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Paneles RTP personalizados en Google Universal Analytics {#custom-rtp-dashboards-in-google-universal-analytics}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Integrar RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
