@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: Anular restricciones de persona en una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Anular restricciones de persona en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Marketo le permite establecer el número máximo* *de personas que pueden optar 
 >
 >Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Asegúrese de [habilitar las restricciones personales para campañas](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) inteligentes en Administración de marketing.
 
