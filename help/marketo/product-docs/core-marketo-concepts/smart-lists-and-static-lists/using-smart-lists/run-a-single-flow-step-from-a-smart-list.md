@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: Ejecutar un solo paso de flujo desde una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Ejecutar un solo paso de flujo desde una Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo dentro de una lista inteligente en lugar de crear una campaña inteligente completa.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
@@ -49,7 +47,7 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
    ![](assets/personactions-hands.png)
 
-1. Busque y seleccione un **atributo**. En este ejemplo tomaremos todas las personas que tengan el estado &quot;California&quot; y lo cambiaremos a &quot;CA&quot;.
+1. Busque y seleccione un **atributo**. En este ejemplo tomaremos todas las personas que tengan estado &quot;California&quot; y lo cambiaremos a &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
