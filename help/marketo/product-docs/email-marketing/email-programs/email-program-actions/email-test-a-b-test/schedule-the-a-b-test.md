@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Programar la prueba A/B - Documentos de marketing - Documentación del producto
 title: Programar la prueba A/B
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Una vez que haya agregado una prueba A/B a un programa de correo electrónico y haya definido los criterios de ganador, tendrá que programar cuándo comenzará la prueba. Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir una prueba A/B](add-an-a-b-test.md)
 
