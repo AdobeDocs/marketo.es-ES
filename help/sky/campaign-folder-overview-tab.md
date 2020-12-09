@@ -2,7 +2,7 @@
 title: campaña-carpeta-información general-ficha
 description: Ficha Información general de la carpeta de campaña
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Carpeta de campaña: Ficha Información general
 
-Hay dos secciones debajo de la ficha [!UICONTROL Información general] de la carpeta de campañas: [!UICONTROL **Detalles**] e [!UICONTROL **informes**].
+Hay dos secciones debajo de la ficha [!UICONTROL Información general] de la carpeta de campañas: **[!UICONTROL Detalles]** e **[!UICONTROL informes]**.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -22,7 +22,7 @@ La página principal [!UICONTROL Detalles] muestra información general sobre la
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-[!UICONTROL **Acciones de carpeta**]
+**[!UICONTROL Acciones de carpeta]**
 
 Haga clic en la lista desplegable Acciones de carpeta en la parte superior derecha para acceder rápidamente a las funciones básicas.
 
