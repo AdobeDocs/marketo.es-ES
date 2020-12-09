@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Buscar y combinar personas de Duplicado - Documentos de marketing - Documentación del producto
 title: Buscar y combinar personas de Duplicado
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ El marketing elimina automáticamente los duplicados cuando entran nuevos usuari
 >
 >Marketo no desduplicará automáticamente con una sincronización de Salesforce o Microsoft Dynamics, ni cuando introduzca personas manualmente.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Encontrar y combinar duplicados implica el uso de listas [inteligentes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)integradas/del sistema.
 
