@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Añadir módulos a su correo electrónico - Documentos de marketing - Documentación del producto
 title: Añadir módulos a su correo electrónico
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Existen dos formas de mover un módulo.
 
 Eso es todo lo que hay.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
 
