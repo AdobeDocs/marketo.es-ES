@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync - Sincronización de campos - Documentos de marketing - Documentación del producto
 title: Sincronización de Microsoft Dynamics - Sincronización de campos
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Puede [seleccionar los campos que sincronizar](https://docs.marketo.com/pages/vi
 
 Puede agregar campos en cualquier momento y esperar que los datos se actualicen de Dynamics a Marketing. Consulte [Uso de sincronización rápida con Microsoft Dynamics para ver un nuevo campo](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) personalizado para obtener más información.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
 
