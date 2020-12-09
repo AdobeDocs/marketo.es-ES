@@ -2,7 +2,7 @@
 title: add-content-to-an-engagement-stream
 description: Añadir contenido en un flujo de participación
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Una vez creado el programa de participación, debe agregar contenido al flujo pa
 
    ![Imagen uno](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Haga clic en la ficha [!UICONTROL **Flujos**] .
+1. Haga clic en la ficha **[!UICONTROL Flujos]** .
 
    ![Imagen dos](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Haga clic en [!UICONTROL **Añadir contenido**].
+1. Haga clic en **[!UICONTROL Añadir contenido]**.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -42,11 +42,11 @@ Una vez creado el programa de participación, debe agregar contenido al flujo pa
 
    ![Imagen cinco](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Haga clic en la ficha [!UICONTROL **Flujos**] .
+1. Haga clic en la ficha **[!UICONTROL Flujos]** .
 
    ![Imagen seis](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Haga clic en [!UICONTROL **Añadir contenido**].
+1. Haga clic en **[!UICONTROL Añadir contenido]**.
 
    ![Imagen siete](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
