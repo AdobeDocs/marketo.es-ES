@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Perspectiva de ventas para integraciones no nativas de Salesforce - Documentos de marketing - Documentación del producto
 title: Perspectiva de ventas para integraciones no nativas de Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Si su cuenta de Marketing está conectada a Salesforce a través de una integración personalizada o no nativa, utilice este documento para configurar Sales Insight.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* Póngase en contacto con el administrador de éxito del cliente para habilitar la función &quot;MSI no nativo&quot; para la instancia de Marketing.
 >* Cuenta de Salesforce con la configuración del paquete MSI.
