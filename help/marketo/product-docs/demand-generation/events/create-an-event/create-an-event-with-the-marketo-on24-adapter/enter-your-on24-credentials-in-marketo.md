@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Introduzca sus credenciales ON24 en Marketing - Documentos de marketing - Documentación del producto
 title: Introduzca sus credenciales ON24 en Marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Puede editar sus credenciales si la contraseña caduca o necesita realizar un ca
 
 El siguiente paso es [crear el evento del seminario web en ON24](create-your-webinar-event-in-on24.md).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
