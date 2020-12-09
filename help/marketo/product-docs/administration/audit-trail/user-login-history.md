@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Historial de inicio de sesión del usuario - Documentos de marketing - Documentación del producto
 title: Historial de inicio de sesión del usuario
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 El historial de inicio de sesión del usuario ayuda a mantener la responsabilidad y la seguridad al mostrarle exactamente quién ha estado iniciando sesión en su suscripción, incluidos los intentos fallidos de inicio de sesión.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Debe tener una función con el permiso del historial de inicio de sesión de acceso habilitado para la vista del historial de inicio de sesión del usuario.
 
