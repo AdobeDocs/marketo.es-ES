@@ -2,7 +2,7 @@
 title: add-and-remove-labels
 description: Añadir y eliminar etiquetas
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Puede asignar etiquetas a cualquier recurso en Actividades de marketing, lo que 
 Para agregar nuevas etiquetas a un recurso, vaya a la página [!UICONTROL Detalles] del recurso en la ficha [!UICONTROL Información general] .
 <br> 
 
-En la sección [!UICONTROL Etiquetas] , haga clic en [!UICONTROL **Añadir nuevas etiquetas**].
+En la sección [!UICONTROL Etiquetas] , haga clic en **[!UICONTROL Añadir nuevas etiquetas]**.
 
 ![Imagen uno](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Si va a agregar una etiqueta que no ha utilizado anteriormente, escriba el nombre de la etiqueta y haga clic en [!UICONTROL **Crear nuevo ____**].
+Si va a agregar una etiqueta que no ha utilizado anteriormente, escriba el nombre de la etiqueta y haga clic en **[!UICONTROL Crear nuevo ____]**.
 
 ![Imagen dos](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Si va a agregar una etiqueta que ya se ha creado en otra parte, escriba para bus
 
 ## Eliminar etiquetas
 
-Puede eliminar cualquier etiqueta haciendo clic en la [!UICONTROL **X**].
+Puede eliminar cualquier etiqueta haciendo clic en la **[!UICONTROL X]**.
 
 ![Imagen Cuatro](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
