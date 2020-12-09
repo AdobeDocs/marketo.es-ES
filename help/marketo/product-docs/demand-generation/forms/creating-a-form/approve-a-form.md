@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Aprobar un formulario - Documentos de marketing - Documentación del producto
 title: Aprobar un formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ A continuación se muestra cómo aprobar un formulario existente que esté listo
 
 Si está realizando cambios en un formulario, puede aprobar la página directamente desde el editor.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Editar un formulario](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
