@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Añadir el lugar de trabajo por Facebook como un servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir el lugar de trabajo por Facebook como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Existen dos tipos de notificación incluidos en la integración de Workplace:
 >
 >**Se requieren permisos de administración**
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Si no tiene ya habilitadas las notificaciones de lugar de trabajo, [póngase en contacto con la asistencia](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
