@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Paso 2 de 3 -Crear un usuario de Salesforce para Marketing (Professional) - Documentos de marketing - Documentación del producto
 title: 'Paso 2 de 3: Crear un usuario de Salesforce para Marketing (Professional)'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Estos pasos deben ser completados por un administrador de Salesforce
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
