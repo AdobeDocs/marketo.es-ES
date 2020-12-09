@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Información general sobre la función MSI - Documentos de marketing - Documentación del producto
 title: Información general de la función MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic: Añada a la lista de observación, Añada a la Campaña de m
 * Configuración de MSI: Incluye la configuración de la ficha Marketo y el panel de fuerza visual MSI
 * Restablecer perspectiva de ventas de marketing: Incluye la capacidad de eliminar todas las configuraciones
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Ficha Configuración de perspectiva de ventas de marketing en Salesforce](http://docs.marketo.com/x/UoCMAg)
 
