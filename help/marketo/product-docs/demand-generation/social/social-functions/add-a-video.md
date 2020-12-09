@@ -3,9 +3,9 @@ unique-page-id: 2359761
 description: Añadir un vídeo - Documentos de marketing - Documentación del producto
 title: Añadir un vídeo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas
 
 ¡Felicitaciones! Ha agregado un recurso compartido de vídeo a su página de aterrizaje. Apruebe la página de aterrizaje y el uso compartido de vídeo estará activo. También puede [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar el recurso compartido de vídeo en su sitio](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)web.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Ya ha terminado, pero puede cambiar la configuración del uso compartido de vídeo si es necesario. Inicio con [personalizar el flujo](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) de recursos compartidos (cuándo y dónde se abre el mensaje de recursos compartidos).
 
