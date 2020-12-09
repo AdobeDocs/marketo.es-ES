@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: Uso del analizador de rutas de éxito - Documentos de marketing - Documentación del producto
 title: Uso del analizador de rutas de éxito
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilice un analizador de rutas de éxito para explorar los detalles específicos que reflejan tanto el flujo (cantidad) como la velocidad (velocidad, en términos de días) de las personas a través de las etapas del modelo [de ciclo de](understanding-revenue-models.md)ingresos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Creación de un analizador de rutas de éxito](create-a-success-path-analyzer.md)
 
