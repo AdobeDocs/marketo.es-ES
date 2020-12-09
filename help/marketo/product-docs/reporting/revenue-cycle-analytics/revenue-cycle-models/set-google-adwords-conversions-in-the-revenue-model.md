@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Configurar las conversiones de Google AdWords en el modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Configurar las conversiones de Google AdWords en el modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Obtenga más información sobre la función [de importación de conversión sin 
 
 Puede crear una nueva conversión sin conexión de AdWords desde Marketing a si utiliza Acción de etapa.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir Google AdWords como un servicio de LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
