@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Informe de Actividad web de compañía - Documentos de marketing - Documentación del producto
 title: Informe Actividad Web de compañía
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Ver qué compañías visitan el sitio Web. Puede elegir mostrar visitantes conoc
 
 Cree un informe [de Actividad de página](web-page-activity-report.md) Web para ver las personas individuales que visitan el sitio.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Para capturar la actividad de su sitio web en Marketing, primero debe configurar [Munchkin en su sitio](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
