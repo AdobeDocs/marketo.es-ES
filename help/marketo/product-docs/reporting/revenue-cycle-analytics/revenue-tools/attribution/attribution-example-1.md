@@ -3,9 +3,9 @@ unique-page-id: 7514126
 description: Ejemplo de atribución 1 - Documentos de marketing - Documentación del producto
 title: Ejemplo de atribución 1
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ Lea el siguiente escenario e intente determinar los números que deben estar en 
 
 Pruebe todos los ejemplos y usted será un profesional de atribución!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Ejemplo de atribución 2](attribution-example-2.md)
 >* [Ejemplo de atribución 3](attribution-example-3.md)
