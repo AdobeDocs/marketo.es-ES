@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: Crear un correo electrónico para un Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Creación de un correo electrónico para un Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Creación de un correo electrónico para un Programa de correo electrónico {#create-an-email-for-an-email-program}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definir una Audiencia con una Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente o [definir una Audiencia mediante la importación de una Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
