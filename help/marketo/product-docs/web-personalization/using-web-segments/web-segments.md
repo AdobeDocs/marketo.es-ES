@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segmentos web - Documentos de marketing - Documentación del producto
 title: Segmentos Web
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ En la página **Segmentos** , haga clic en **Crear nuevo** debajo del gráfico. 
 
 Defina los parámetros generales del segmento:
 
-1. &#x200B;
+1. 
 
    * **Nombre:**  Asigne un nombre al segmento.
    * **Descripción:**  Proporcione una explicación más detallada de los criterios del segmento.
@@ -109,23 +109,24 @@ Defina los parámetros generales del segmento:
 >
 >1. Usar todos los Filtros (1 y 2 y 3...)
 >1. Usar cualquier Filtros (1, 2 o 3...)
->1. Filtros avanzados (uso y/o expresiones)
->    1. &#x200B;
->       
->       Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
->       * 1 y 2 y 3
->       * 1 o 2 o 3
->
->       La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
->       * 1 y (2 o 3)
->       * (1 y 2) o 3
->
->       Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
->       * (1 y 2) o (3 y 4)
->       * 1 y (2 o (3 y 4)
->
->       Compruebe la lógica después de insertar, eliminar o reordenar.
+>1. Filtros avanzados (uso y/o expresiones) >
+   >    1. >    
+   >       
 
+      >Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.  >
+      >        * 1 y 2 y 3
+      >        * 1 o 2 o 3
+
+      >
+      La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:  >
+      * 1 y (2 o 3)
+      * (1 y 2) o 3
+
+      Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:  >
+      * (1 y 2) o (3 y 4)
+      * 1 y (2 o (3 y 4)
+
+      Compruebe la lógica después de insertar, eliminar o reordenar.
 
 
 
@@ -341,8 +342,7 @@ No se puede eliminar un segmento asociado a una campaña. Primero debe eliminar 
 
 ¡bueno! Ahora que comprende la sección Segmentos, vamos a conocer las campañas.
 
->[!NOTE]
-**Artículos relacionados**
+>[!MORELIKETHIS]
 * [Crear un segmento Web básico](create-a-basic-web-segment.md)
 * [Crear una nueva Campaña web de cuadro de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Crear una nueva Campaña web en la zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
