@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Información general de perspectivas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Información general de perspectivas de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Haga clic en las barras Métricas para traducir los colores en números.
 
 Se incluyen todas las dimensiones estándar de marketing, pero puede agregar hasta 10 dimensiones personalizadas. [Las dimensiones](custom-dimensions-for-email-insights.md) personalizadas consisten en segmentaciones y etiquetas de programa.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Información general de análisis de perspectivas de correo electrónico](email-insights-analytics-overview.md)
 >* [Información general sobre las perspectivas de correo electrónico](email-insights-sends-overview.md)
