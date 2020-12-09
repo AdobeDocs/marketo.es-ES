@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navegación por la Vista de Calandario del programa - Documentos de marketing - Documentación del producto
 title: Navegación por la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 
 ¡bueno! Ahora que sabes cómo vista tu programa, aprendamos las otras cosas geniales que puede hacer.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Creación de una entrada en la Vista Calandario del programa](creating-an-entry-in-the-program-schedule-view.md)
 
