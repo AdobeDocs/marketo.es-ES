@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Elija un correo electrónico existente - Documentos de marketing - Documentación del producto
 title: Elegir un correo electrónico existente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Elegir un correo electrónico existente {#choose-an-existing-email}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definir una Audiencia con una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente o [definir una Audiencia mediante la importación de una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
