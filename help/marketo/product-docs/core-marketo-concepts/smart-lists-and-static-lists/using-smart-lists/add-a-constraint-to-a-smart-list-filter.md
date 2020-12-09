@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: Añadir una restricción a un filtro de Lista inteligente - Documentos de marketing - Documentación del producto
 title: Añadir una restricción a un filtro de Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ En este ejemplo, vamos a agregar algunas restricciones a un filtro ** [Data Valu
 >
 >Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Utilizar el filtro &quot;Valor de datos cambiado&quot; en una Lista inteligente](use-the-data-value-changed-filter-in-a-smart-list.md)
