@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Añadir una aplicación móvil - Documentos de marketing - Documentación del producto
 title: Añadir una aplicación móvil
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Las aplicaciones normalmente se inicio en un entorno de simulación de pruebas, 
 
    ¡Bonito! Ahora vamos a configurar la aplicación para que funcione con dispositivos Android e iOS.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Configuración del acceso push de Android para aplicaciones móviles](configure-mobile-app-android-push-access.md)
 >* [Configuración del acceso push de la aplicación móvil iOS](configure-mobile-app-ios-push-access.md)
