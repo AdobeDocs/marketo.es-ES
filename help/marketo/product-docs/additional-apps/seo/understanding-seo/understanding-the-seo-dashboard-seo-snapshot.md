@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Explicación del Panel SEO - Instantánea SEO - Documentos de marketing - Documentación del producto
 title: Explicación del Panel SEO - Instantánea SEO
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ El gráfico Tendencias de clasificación de palabras clave extrae las palabras c
 
 Fácil, ¿verdad? Ahora veamos la sección de Recommendations de este panel.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Comprensión del Panel: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
