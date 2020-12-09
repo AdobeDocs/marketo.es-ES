@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: Explicación del contenido dinámico - Documentos de marketing - Documentación del producto
 title: Explicación del contenido dinámico
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Una vez que haya creado diferentes segmentos, puede agregar bloques de contenido
 
 Pruébelo y cuéntanos tu éxito!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear una segmentación](create-a-segmentation.md)
 >* [Creación de un fragmento](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
