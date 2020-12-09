@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: Crear un analizador de influencia de oportunidades - Documentos de marketing - Documentación del producto
 title: Crear un analizador de influencia de oportunidades
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Utilice el Analizador de influencia de oportunidades para mostrar la contribuci�
 >
 >También puede ver un vídeo sobre el Analizador de influencia de oportunidades en la Universidad de [Marketo](https://learn.marketo.com). (¡Ahora parece un poco diferente, pero todavía hay mucho que aprender!)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Informe de Marketing Story con un analizador de influencia de oportunidades](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Configurar un analizador de influencia de oportunidades](configure-an-opportunity-influence-analyzer.md)
