@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: Vista del Panel del Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Vista del Panel del Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Como alternativa, si no agregó una prueba A/B *o* si la prueba ha finalizado, s
 >
 >Experimente situando el cursor sobre las utilidades del gráfico. Le mostrará información adicional.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar el Panel de Programa de correo electrónico - Vista de prueba A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [Usar el Panel de Programa de correo electrónico](use-the-email-program-dashboard.md)
