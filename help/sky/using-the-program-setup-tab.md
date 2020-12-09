@@ -2,7 +2,7 @@
 title: using-the-programa-setup-tab
 description: Uso de la ficha Configuración de Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Para cambiar el canal de programa, seleccione otro en la lista desplegable situa
 
 ## Añadir etiquetas
 
-1. En la sección [!UICONTROL Etiquetas] , haga clic en la lista desplegable [!UICONTROL **Atributo**] y elija un atributo de etiqueta en las opciones disponibles.
+1. En la sección [!UICONTROL Etiquetas] , haga clic en la lista desplegable **[!UICONTROL Atributo]** y elija un atributo de etiqueta en las opciones disponibles.
 
    ![Imagen tres](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Haga clic en la lista desplegable [!UICONTROL **Valor**] y elija un valor de etiqueta en las opciones disponibles. Haga clic en [!UICONTROL **Añadir**].
+1. Haga clic en la lista desplegable **[!UICONTROL Valor]** y elija un valor de etiqueta en las opciones disponibles. Haga clic en **[!UICONTROL Añadir]**.
 
    ![Imagen Cuatro](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Para cambiar el canal de programa, seleccione otro en la lista desplegable situa
 
 ## Añadir costos de período
 
-1. En la sección Costos [!UICONTROL de] período, seleccione un mes, introduzca un costo y agregue un nombre o una descripción cortos. Haga clic en [!UICONTROL **Añadir**].
+1. En la sección Costos [!UICONTROL de] período, seleccione un mes, introduzca un costo y agregue un nombre o una descripción cortos. Haga clic en **[!UICONTROL Añadir]**.
 
    ![Imagen seis](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
