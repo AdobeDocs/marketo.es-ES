@@ -2,7 +2,7 @@
 title: archive-and-unarchive-stream-content
 description: Archivar y desarchivar contenido de flujo
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
    ![Imagen uno](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Haga clic en la ficha [!UICONTROL **Flujos**]
+1. Haga clic en la ficha **[!UICONTROL Flujos]**
 
    ![Imagen dos](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
    ![Imagen tres](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Seleccione [!UICONTROL **Archivar**].
+1. Seleccione **[!UICONTROL Archivar]**.
 
    ![Imagen Cuatro](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
    ![Imagen cinco](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Haga clic en la ficha [!UICONTROL **Flujos**] .
+1. Haga clic en la ficha **[!UICONTROL Flujos]** .
 
    ![Imagen seis](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en [!UICONTROL **Mostrar contenido**] archivado.
+1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **[!UICONTROL Mostrar contenido]** archivado.
 
    ![Imagen siete](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
    ![Imagen ocho](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Seleccione [!UICONTROL **Desarchivar**].
+1. Seleccione **[!UICONTROL Desarchivar]**.
 
    ![Imagen nueve](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
