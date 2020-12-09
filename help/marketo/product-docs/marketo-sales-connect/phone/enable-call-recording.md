@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Habilitar la grabación de llamadas - Documentos de marketing - Documentación del producto
 title: Habilitar la grabación de llamadas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Como administrador, puede activar el registro de llamadas para sus llamadas de S
 
    ![](assets/four.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Configuración de consentimiento de dos partes](http://docs.marketo.com/x/dgC1Ag)
 
