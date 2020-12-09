@@ -3,9 +3,9 @@ unique-page-id: 7514009
 description: Explicación del área de Análisis de la etapa de ingresos de Programa - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de la etapa de ingresos de Programa
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,6 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Crear un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
