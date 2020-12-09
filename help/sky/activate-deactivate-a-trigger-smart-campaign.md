@@ -2,7 +2,7 @@
 title: activate-deactivate-a-activation-smart-campaña
 description: Activar/desactivar una Campaña inteligente de activador
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -16,7 +16,7 @@ La activación/desactivación de una campaña inteligente de activador básicame
 
 ## Activar una Campaña de activador
 
-1. En la campaña inteligente, haga clic en la ficha [!UICONTROL **Programar**] .
+1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]** .
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ La activación/desactivación de una campaña inteligente de activador básicame
    >
    >Revise la campaña inteligente antes de activarla.
 
-1. Haga clic en [!UICONTROL **Activar**].
+1. Haga clic en **[!UICONTROL Activar]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ A partir de este momento, cualquiera que califique para la lista inteligente ir�
 
 ## Desactivar una Campaña de activador
 
-1. En la campaña inteligente, haga clic en la ficha [!UICONTROL **Programar**] .
+1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]** .
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Haga clic en [!UICONTROL **Desactivar**].
+1. Haga clic en **[!UICONTROL Desactivar]**.
 
    ![Imagen Cuatro](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
