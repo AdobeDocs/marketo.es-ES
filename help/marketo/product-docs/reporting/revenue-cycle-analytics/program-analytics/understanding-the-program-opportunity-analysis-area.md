@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: Explicación del área de Análisis de oportunidades de Programa - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de oportunidades de Programa
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
 
 **Todas las Oportunidades que dieron cualquier tipo de crédito de atribución a un Programa. Las oportunidades pueden verse influidas por uno o más posibles clientes y por uno o más Programas.*
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Crear un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
