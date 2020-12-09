@@ -3,9 +3,9 @@ unique-page-id: 10097584
 description: Estado de sincronización - Documentos de marketing - Documentación del producto
 title: Estado de sincronización
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Examinar, buscar o exportar leads (y otros objetos) que no se hayan podido sincr
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Tipos de notificaciones](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
