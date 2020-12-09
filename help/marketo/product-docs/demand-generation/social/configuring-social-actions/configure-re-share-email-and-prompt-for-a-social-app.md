@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: Configurar el correo electrónico para volver a compartir y solicitar una aplicación de Social - Documentos de marketing - Documentación del producto
 title: Configurar el correo electrónico para volver a compartir y solicitar una aplicación social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Al crear una oferta [de](../../../../product-docs/demand-generation/social/refer
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >A continuación, puede configurar el flujo de progreso de [seguimiento en una oferta](configure-track-progress-flow-for-a-referral-offer.md)de referencia o hacer clic en **Finalizar > Aprobar y cerrar** para [publicar la oferta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) de referencia o las [apuestas](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 
