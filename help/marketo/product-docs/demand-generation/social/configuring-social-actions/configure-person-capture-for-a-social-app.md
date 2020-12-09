@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: Configuración de la captura de personas para una aplicación social - Documentos de marketing - Documentación del producto
 title: Configuración de la captura de personas para una aplicación social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Al crear una oferta [de](../../../../product-docs/demand-generation/social/refer
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Ahora puede [configurar el flujo](configure-social-sign-up-share-flow.md) de registro social y editar los mensajes compartidos que se publicarán en cada red social.
 
