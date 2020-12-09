@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Usar el Panel de Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Usar el Panel de Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,7 @@ Para ver los datos más actualizados, haga clic en el icono de actualización de
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar el Panel de Programa de correo electrónico - Vista de prueba A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 
