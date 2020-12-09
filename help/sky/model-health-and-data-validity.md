@@ -2,7 +2,7 @@
 title: estado-modelo y validez-de-datos
 description: Mantenimiento del modelo y validez de los datos
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 El rendimiento de los modelos depende de la calidad y exhaustividad de los datos de entrada. Así es como evaluar la salud de su modelo.
 
-Vaya a la sección [!UICONTROL **Modelos y estado**] de datos en Audiencias [!UICONTROL ****] predictivas en el área [!UICONTROL **Administración**] de Marketing Classic. Aquí verá todos sus modelos y sus estados.
+Vaya a la sección **[!UICONTROL Modelos y estado]** de datos en Audiencias **** predictivas en el área **[!UICONTROL Administración]** de Marketing Classic. Aquí verá todos sus modelos y sus estados.
 
 ![Imagen uno](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
