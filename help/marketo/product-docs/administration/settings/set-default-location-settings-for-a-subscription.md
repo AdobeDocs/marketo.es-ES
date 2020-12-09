@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Definir la configuración de ubicación predeterminada para una Suscripción - Documentos de marketing - Documentación del producto
 title: Definir la configuración de ubicación predeterminada para una Suscripción
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Si está cambiando la configuración regional predeterminada para los usuarios, 
 
    ¡Felicitaciones! Ha cambiado la configuración de ubicación de la suscripción.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Seleccione su idioma, configuración regional y huso horario](select-your-language-locale-and-time-zone.md)
 
