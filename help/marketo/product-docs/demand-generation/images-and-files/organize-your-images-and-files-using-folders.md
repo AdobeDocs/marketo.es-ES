@@ -3,9 +3,9 @@ unique-page-id: 2359880
 description: Organizar sus imágenes y archivos con carpetas - Documentos de marketing - Documentación del producto
 title: Organizar sus imágenes y archivos con carpetas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ La creación de carpetas le permite mover imágenes y archivos, ver el conjunto 
 
 ¡Los cinco mejores! Todos están configurados para la utopía de carpetas.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Buscar imágenes y archivos cargados](search-uploaded-images-and-files.md)
 
