@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: Explicación de la puntuación de compromiso - Documentos de marketing - Documentación del producto
 title: Explicación de la puntuación de participación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Las puntuaciones de participación son universales para todos los clientes. Pued
 >
 >El algoritmo propietario también se aplica a la puntuación de participación en programas de correo electrónico.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Programas de compromiso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
