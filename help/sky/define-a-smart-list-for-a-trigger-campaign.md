@@ -2,7 +2,7 @@
 title: define-una-lista-inteligente-para-una-campaña-desencadenadora
 description: Definir una Lista inteligente para una Campaña de activador
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Haga que una campaña inteligente se ejecute en una persona a la vez en función de los eventos en directo agregando activadores.
 
-1. Elija una campaña inteligente y, a continuación, haga clic en Lista [!UICONTROL ****] inteligente.
+1. Elija una campaña inteligente y, a continuación, haga clic en Lista **** inteligente.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
    >
    >Una campaña inteligente con activadores se ejecuta en el modo Activador. Funciona de una persona a la vez en función de los eventos activados y de cualquier filtros adicional.
 
-1. Haga clic en la lista desplegable y elija un operador (por ejemplo, [!UICONTROL **es**], no [!UICONTROL **es**], etc.) para el activador seleccionado.
+1. Haga clic en la lista desplegable y elija un operador (por ejemplo, **[!UICONTROL es]**, no **[!UICONTROL es]**, etc.) para el activador seleccionado.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
