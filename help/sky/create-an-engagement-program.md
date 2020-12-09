@@ -2,7 +2,7 @@
 title: create-an-engagement-programa
 description: Crear un Programa de compromiso
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Puede usar programas de participación en [!DNL Marketo] para llevar a cabo la m
 
    ![Imagen uno](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Haga clic en la lista desplegable [!UICONTROL **Acciones**] de carpeta y seleccione [!UICONTROL **Nuevo Programa**].
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones]** de carpeta y seleccione **[!UICONTROL Nuevo Programa]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ Puede usar programas de participación en [!DNL Marketo] para llevar a cabo la m
    >
    >También puede hacer clic con el botón derecho en la carpeta y seleccionar Nuevo Programa.
 
-1. Introduzca un [!UICONTROL **nombre**] y, en la lista desplegable [!UICONTROL Tipo] , seleccione [!UICONTROL **Participación**].
+1. Introduzca un **[!UICONTROL nombre]** y, en la lista desplegable [!UICONTROL Tipo] , seleccione **[!UICONTROL Participación]**.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Elija un [!UICONTROL espacio de trabajo] y un [!UICONTROL destino]. Añada [!UICONTROL Descripción] y [!UICONTROL etiquetas]opcionales. Haga clic en [!UICONTROL **Añadir**] cuando termine.
+1. Elija un [!UICONTROL espacio de trabajo] y un [!UICONTROL destino]. Añada [!UICONTROL Descripción] y [!UICONTROL etiquetas]opcionales. Haga clic en **[!UICONTROL Añadir]** cuando termine.
 
    ![Imagen Cuatro](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
