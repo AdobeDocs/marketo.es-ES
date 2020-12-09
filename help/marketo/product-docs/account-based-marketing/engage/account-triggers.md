@@ -3,9 +3,9 @@ unique-page-id: 11380734
 description: Activadores de cuentas - Documentos de marketing - Documentación del producto
 title: Desencadenadores de cuentas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Desencadenadores de cuentas {#account-triggers}
 
-Escuche y actúe en actividades de comportamiento importantes a nivel de cuenta en diferentes canales (por ejemplo, correo electrónico, Web o anuncios) mediante activadores a nivel de cuenta.
+Escuche y actúe en actividades de comportamiento importantes a nivel de cuenta en diferentes canales (por ejemplo, correo electrónico, Web, anuncios) mediante activadores a nivel de cuenta.
 
-Seleccione la campaña inteligente y haga clic en Lista inteligente.
+Seleccione la campaña inteligente y haga clic en Lista **** inteligente.
 
 ![](assets/one-1.png)
 
@@ -23,13 +23,14 @@ Introduzca &quot;Cuenta con nombre&quot; en el cuadro de búsqueda para encontra
 
 ![](assets/two-1.png)
 
-Arrastre el activador que desee al lienzo. En este ejemplo utilizamos *Añadido en Cuenta* con nombre.
+Arrastre el activador que desee al lienzo. En este ejemplo utilizamos _Añadido en Cuenta_ con nombre.
 
 ![](assets/three-1.png)
 
 Elija un calificador.
 
-![](assets/four-1.png)\
+![](assets/four-1.png)
+
 Haga clic en la lista desplegable de cuentas con nombre...
 
 ![](assets/five-1.png)
@@ -40,13 +41,7 @@ Haga clic en la lista desplegable de cuentas con nombre...
 
 ¡Eso es todo! Cuando haya terminado el resto de la campaña inteligente, recuerde activarla.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtros de cuenta](account-filters.md)
-
->
-
-
 
