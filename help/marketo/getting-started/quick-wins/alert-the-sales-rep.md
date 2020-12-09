@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Alertar al representante de ventas - Documentos de marketing - Documentación del producto
 title: Alertar al representante de ventas
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 >
 >Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [página de aterrizaje con un formulario](landing-page-with-a-form.md)
 
