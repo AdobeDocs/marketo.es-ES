@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: Informe Rendimiento del correo electrónico - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ En general, tratamos de usar el sentido común para registrar estas estadística
 >
 >Los envíos múltiples desde la misma campaña a la misma persona se cuentan sólo una vez.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtrar recursos en informes de correo electrónico de Campaña](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Informe de rendimiento de vínculo de correo electrónico](email-link-performance-report.md)
