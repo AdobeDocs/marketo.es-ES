@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: Explicación de las Páginas de aterrizaje de forma libre vs. guiadas - Documentos de marketing - Documentación del producto
 title: Explicación de las Páginas de aterrizaje de formulario libre vs. guiadas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ La plantilla que elija determinará en qué modo de edición de páginas de ater
 
 ![](assets/two-1.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Páginas de aterrizaje de forma libre](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
 >* [Páginas de aterrizaje guiadas](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
