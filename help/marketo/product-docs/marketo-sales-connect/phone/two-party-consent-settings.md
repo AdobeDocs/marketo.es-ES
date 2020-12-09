@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Configuración de consentimiento de dos partes - Documentos de marketing - Documentación del producto
 title: Configuración de consentimiento de dos partes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de EE.UU. al grabar llamadas, como administrador puede activar un mensaje pregrabado de su elección para que se reproduzca al principio de las llamadas cuando se grabe.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Antes de seguir los pasos que se describen a continuación, debe [habilitar primero la grabación de llamadas.](http://docs.marketo.com/x/dAC1Ag)
 
