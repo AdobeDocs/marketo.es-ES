@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: 'Explicación de las etiquetas: documentos de marketing: documentación del producto'
 title: Explicación de las etiquetas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Los canales se utilizan para informar sobre cómo se movieron [los miembros](../
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear etiquetas personalizadas](../../../../product-docs/administration/tags/create-custom-tags.md)
 >* [Creación de un Canal de Programa](../../../../product-docs/administration/tags/create-a-program-channel.md)
