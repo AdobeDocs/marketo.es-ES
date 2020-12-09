@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: Explicación del Panel SEO - SEO Recommendations - Marketo Docs - Documentación del producto
 title: Explicación del Panel SEO - Recommendations SEO
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Tener un vínculo de sitios de reputación con el contenido puede aumentar la cl
 
 ¡Ya! Acércate más profundo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Desglose de detalles de página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
