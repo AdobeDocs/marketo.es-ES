@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Cómo funciona el seguimiento de respuestas - Documentos de marketing - Documentación del producto
 title: Funcionamiento del seguimiento de respuestas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 El seguimiento de respuestas se realiza mirando un ID de mensaje que se encuentra en cada correo electrónico enviado. Cada correo electrónico contiene un ID de mensaje único que nos permite tener uno de los mejores seguimientos de respuesta.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >**Conexión con el servidor de correo electrónico:** Sales Connect debe estar conectado con su bandeja de entrada para que sepamos cuándo ha llegado una nueva respuesta. Necesitará tener su cuenta de Sales Connect [conectada a Gmail](http://docs.marketo.com/x/kYMOAQ). Si utiliza Outlook, necesitaremos integrarlo con su servidor [de](http://toutapp.com/next#settings/exchange_settings)intercambio.
 
