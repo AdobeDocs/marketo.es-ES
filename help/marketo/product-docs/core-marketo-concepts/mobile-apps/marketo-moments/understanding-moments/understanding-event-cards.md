@@ -3,9 +3,9 @@ unique-page-id: 8781974
 description: Explicación de las tarjetas de Evento - Documentos de marketing - Documentación del producto
 title: Explicación de las tarjetas de Evento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,7 @@ Hay dos tarjetas de evento. La tarjeta en cubierta, enviada unas horas antes del
 
 ¡Estás bien!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los momentos del marketing](understanding-marketo-moments.md)
 >* [Explicación de las tarjetas de Programa de correo electrónico](understanding-email-program-cards.md)
