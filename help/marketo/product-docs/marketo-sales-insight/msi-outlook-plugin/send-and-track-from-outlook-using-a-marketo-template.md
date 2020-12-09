@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Enviar y realizar un seguimiento desde Outlook mediante una plantilla de marketing - Documentos de marketing - Documentación del producto
 title: Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Si su equipo de mercadotecnia le ha proporcionado plantillas, así puede utiliza
 
    ¡Y ahí tienes! Usted pudo ahorrar un montón de tiempo usando plantillas que su increíble equipo de mercadotecnia hizo para usted.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Registrar correo entrante de los posibles clientes en el mercado](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
