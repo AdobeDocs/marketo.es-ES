@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Añadir posibles clientes a una Audiencia personalizada en Facebook - Documentos de marketing - Documentación del producto
 title: Añadir leads a una Audiencia personalizada en Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ¿Ya tiene una audiencia personalizada en Facebook y desea agregarle más leads? Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una Audiencia personalizada en Facebook](create-a-custom-audience-in-facebook.md)
 >* [Acepte los términos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de audiencias personalizadas de Facebook en su cuenta de Facebook.
