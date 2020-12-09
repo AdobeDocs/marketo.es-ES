@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 'Añadir un experto/desafiante de correo electrónico: documentos de marketing: documentación del producto'
 title: Añadir a un campeón de correo electrónico o a un Challenger
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Es una buena idea probar cualquier correo electrónico que utilice con frecuenci
 El correo electrónico existente que está probando se considera el campeón. Cualquier variante que cree dentro de una prueba se considerará como aspirante. Usted determina el porcentaje de personas que reciben el contenido campeón o el contenido del aspirante. Si ha definido varios aspirantes, se distribuirán equitativamente entre el grupo de aspirantes.\
 Así es como empezar.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear un Programa](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Crear un correo electrónico](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
