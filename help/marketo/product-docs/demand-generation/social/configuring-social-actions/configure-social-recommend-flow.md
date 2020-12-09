@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Configurar el flujo recomendado de Social - Documentos de marketing - Documentación del producto
 title: Configurar el flujo recomendado de Social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ Si elige , los valores de las etiquetas OpenGraph de la página (og:title, og:ca
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >El siguiente paso es [agregar el recurso compartido](customize-video-share-flow.md) de vídeo o la [encuesta](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) a una página de aterrizaje, Facebook o su propio sitio web.
 
