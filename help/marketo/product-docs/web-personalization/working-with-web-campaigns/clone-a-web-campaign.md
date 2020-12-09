@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Clonar una Campaña Web - Documentos de marketing - Documentación del producto
 title: Clonar una Campaña Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Utilice la función de clonación de la página Campañas web para copiar la con
    >
    >Todo el contenido de la campaña web se copia en la campaña de clonación excepto la prueba dividida, por lo que no olvide agregar un grupo de prueba dividido a la campaña clonada si desea probarlo con otros.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear una nueva Campaña web en la zona](create-a-new-in-zone-web-campaign.md)
 >* [Crear una nueva Campaña Web de utilidades](create-a-new-widget-web-campaign.md)
