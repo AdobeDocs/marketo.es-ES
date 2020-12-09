@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Explicación de los modelos de ingresos - Documentos de marketing - Documentación del producto
 title: Explicación de los modelos de ingresos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Aclarar exactamente cómo un posible cliente se mueve de un escenario a otro uti
 
 Estos son algunos vínculos que pueden ser útiles para albergar esperanzas. (o con suerte de ayuda - ¡escoja!)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Crear un nuevo modelo de ingresos](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Añadir una etapa de la ruta de éxito feliz   ![](assets/image2015-6-12-10-3a10
 
 Perdido es bueno para agregar, pero fíjese en que no está en el camino verde. Esto se debe a que no es un &quot;éxito&quot;.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Informe sobre el modelo de ingresos](report-on-your-revenue-model.md)
 >
