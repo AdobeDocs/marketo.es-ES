@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Páginas Web vistas, Informe Actividad de página Web - Documentos de marketing - Documentación del producto
 title: Páginas Web vistas, informe Actividad de página Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Desde un informe [de Actividad de página](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Web, puede ver las páginas específicas que vieron las personas en el informe.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Para capturar la actividad de su sitio web en Marketing, primero debe [configurar Munchkin en su sitio](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
