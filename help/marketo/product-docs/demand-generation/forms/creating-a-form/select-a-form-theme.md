@@ -3,9 +3,9 @@ unique-page-id: 2359400
 description: Seleccionar un tema del formulario - Documentos de marketing - Documentación del producto
 title: Seleccionar un tema de formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Hicimos un montón de bonitas temáticas para sus formularios. ¿Cuál te gusta 
 
 ¡¿Qué tan fácil fue eso?! Puede dejar que su libro HTML/CSS recopile algo de polvo ahora.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Editar la CSS de un tema de formulario](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Añadir un campo en un formulario](add-a-field-to-a-form.md)
