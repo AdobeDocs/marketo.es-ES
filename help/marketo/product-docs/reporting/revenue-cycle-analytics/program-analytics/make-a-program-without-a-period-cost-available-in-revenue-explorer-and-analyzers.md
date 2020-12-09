@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Hacer que un Programa sin costo de período esté disponible en el Explorador de ingresos y en los analizadores - Documentos de marketing - Documentación del producto
 title: Hacer que un Programa sin costo de período esté disponible en el Explorador de ingresos y en los analizadores
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Es posible que algunos programas deban incluirse aunque no tengan un costo de pe
 
 ¡Buen trabajo! Ahora cualquier programa que utilice el canal modificado se incluirá en el explorador de ingresos y en los analizadores sin necesidad de un costo de período.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Anular comportamiento de Analytics en el nivel de Programa](override-analytics-behavior-at-the-program-level.md)
 
