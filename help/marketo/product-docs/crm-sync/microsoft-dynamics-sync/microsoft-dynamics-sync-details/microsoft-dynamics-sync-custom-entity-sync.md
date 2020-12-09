@@ -3,9 +3,9 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Sincronización de entidades personalizadas - Documentos de marketing - Documentación del producto
 title: Microsoft Dynamics Sync - Sincronización de entidades personalizadas
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 >
 >**Se requieren permisos de administración**
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Para utilizar un objeto personalizado, debe asociarse a un [objeto de posible cliente](microsoft-dynamics-sync-lead-sync.md), [contacto](microsoft-dynamics-sync-contact-sync.md)o [](microsoft-dynamics-sync-account-sync.md)cuenta en Dynamics.
 
