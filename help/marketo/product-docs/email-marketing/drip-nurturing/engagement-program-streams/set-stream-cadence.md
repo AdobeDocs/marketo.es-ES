@@ -3,9 +3,9 @@ unique-page-id: 2359665
 description: Establecer secuencia de flujo - Documentos de marketing - Documentación del producto
 title: Definir secuencia de flujo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
 Ahora ya sabes cómo configurar una cadencia de flujo!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación del huso horario del Destinatario](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Programar Programas de participación con huso horario de Destinatario](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
