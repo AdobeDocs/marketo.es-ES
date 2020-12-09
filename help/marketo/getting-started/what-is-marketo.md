@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: ¿Qué es Marketing? - Documentos de marketing - Documentación del producto
 title: ¿Qué es Marketing?
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
