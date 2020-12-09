@@ -3,9 +3,9 @@ unique-page-id: 7512432
 description: 'Configurar el acceso push de Android de aplicación móvil: documentos de marketing: documentación del producto'
 title: Configuración del acceso push de Android para aplicaciones móviles
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    Dulce. Asegúrese de configurar la aplicación con iOS.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Configuración del acceso push de la aplicación móvil iOS](configure-mobile-app-ios-push-access.md)
 
