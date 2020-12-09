@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: Creación de un analizador de Programas - Documentos de marketing - Documentación del producto
 title: Creación de un analizador de Programas
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Descubrir qué programas y canales le están dando el mayor impulso a su inversi
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Comparar la eficacia de los Canales con el analizador de Programas](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [Comparar la eficacia de los Programas con el analizador de Programas](compare-program-effectiveness-with-the-program-analyzer.md)
