@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Añadir medidas personalizadas en un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Añadir medidas personalizadas en un informe del Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ A veces, desea una medida personalizada en un informe. Es fácil crear uno propi
 
 En el ejemplo siguiente, está creando una medida calculada para devoluciones en blanco, que toma las métricas que ya están en el informe y utiliza matemáticas básicas para crear una nueva métrica. También puede crear otros tipos de medidas.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Necesita al menos una métrica en el informe, pero no tiene por qué ser una de las medidas que utilice para definir la medida personalizada.
 
