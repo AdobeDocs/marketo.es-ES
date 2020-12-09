@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Paso 3 de 3 -Connect Marketing y Salesforce (Enterprise/Unlimited) - Documentos de marketing - Documentación del producto
 title: 'Paso 3 de 3: Connect Marketing y Salesforce (Enterprise/Unlimited)'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 En este artículo, configurará Marketing para que se sincronice con la instancia de Salesforce configurada.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Paso 1 de 3: Añadir campos de marketing a Salesforce (Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [Paso 2 de 3: Crear un usuario de Salesforce para el marketing (Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
