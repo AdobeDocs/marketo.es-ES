@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Añadir una URL de Destinatario a una Campaña Web - Documentos de marketing - Documentación del producto
 title: Añadir una dirección URL de Destinatario en una Campaña Web
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ Al hacer clic en el icono del signo más (![—](assets/image2015-2-18-8-3a40-3a
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**Artículos relacionados**
+>[!MORELIKETHIS]
 * [Crear una nueva Campaña web de cuadro de diálogo](create-a-new-dialog-web-campaign.md)
 * [Crear una nueva Campaña web en la zona](create-a-new-in-zone-web-campaign.md)
 * [Crear una nueva Campaña Web de utilidades](create-a-new-widget-web-campaign.md)
