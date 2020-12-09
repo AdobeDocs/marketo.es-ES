@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Información general de pista de auditoría - Documentos de marketing - Documentación del producto
 title: Información general de pista de auditoría
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Sólo puede vista de datos de 30 días en su instancia. Para obtener un valor de
 >
 >**Desconocido:** En la pista de auditoría, puede ver el nombre y el correo electrónico de un usuario como &quot;Desconocido&quot;. Esto sucede cuando se realizan cambios en los valores de la lista de selección en el CRM. Estos valores aparecen en formularios y páginas de aterrizaje de marketing. Al realizar esta actualización en CRM, se borrarán automáticamente las páginas de aterrizaje que hagan referencia al formulario. En la pista de auditoría, capturaremos que la página de aterrizaje se ha redactado, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que no podemos capturar la información del usuario desde el lado de CRM.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Habilitar pista de auditoría](enable-audit-trail.md)
 
