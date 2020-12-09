@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: Botón Personalizar aplicación social - Documentos de marketing - Documentación del producto
 title: Botón Personalizar aplicación social
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/f
 >
 >En una oferta de referencia, también puede personalizar el botón **Rastrear progreso** . Vaya a Configuración **de** aplicación > **Seguimiento del estilo** de progreso y siga los mismos pasos que se han indicado anteriormente.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Para un botón social, [configure cuándo se abre](configure-when-social-button-opens.md). Para una oferta de referencia, [especifique el objetivo](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)de oferta.
 
