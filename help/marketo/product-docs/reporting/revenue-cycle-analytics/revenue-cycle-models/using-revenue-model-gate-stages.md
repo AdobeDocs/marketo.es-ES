@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: Uso de las etapas de la puerta del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Uso de las etapas de la puerta del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Edite el Nombre, la Descripción y ajuste el Tipo de la etapa de la Puerta. Tamb
 
 ¡Felicidades! Ahora entienden el maravilloso mundo de las etapas de la puerta.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Uso de las fases de inventario del modelo de ingresos](using-revenue-model-inventory-stages.md)
 >* [Uso de las fases SLA del modelo de ingresos](using-revenue-model-sla-stages.md)
