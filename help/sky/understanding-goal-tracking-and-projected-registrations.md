@@ -2,7 +2,7 @@
 title: comprensión-objetivo-seguimiento-y-registros-proyectados
 description: Explicación del seguimiento de objetivos y los registros proyectados
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Después de [establecer objetivos](/help/sky/setting-event-goals.md)de evento y 
 
 ## Seguimiento de objetivos y registros proyectados
 
-1. Puede encontrar los detalles del seguimiento de objetivos en la ficha [!UICONTROL **Informes**] del programa de evento. En este ejemplo particular, hasta ahora hay 150 miembros registrados contra un objetivo de 200 (75%).
+1. Puede encontrar los detalles del seguimiento de objetivos en la ficha **[!UICONTROL Informes]** del programa de evento. En este ejemplo particular, hasta ahora hay 150 miembros registrados contra un objetivo de 200 (75%).
 
    ![Imagen uno](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-También verá los registros [!UICONTROL **proyectados**] . Pase el ratón sobre el icono de información para ver un desglose de este número por segmento de probabilidad.
+También verá los registros **[!UICONTROL proyectados]** . Pase el ratón sobre el icono de información para ver un desglose de este número por segmento de probabilidad.
 
 ![Imagen dos](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ En la parte superior de la página Informes, puede encontrar recomendaciones dir
 
 ## predicciones de nivel de persona
 
-Haga clic en la ficha [!UICONTROL **Miembros**] para vista de todos los miembros del programa. Pase el ratón sobre las barras de probabilidad [!UICONTROL **de**] registro o probabilidad de [!UICONTROL **asistencia**] para ver los porcentajes y las categorías exactos. A continuación, puede realizar acciones en los miembros de una categoría en particular (por ejemplo, todos los miembros de la categoría &quot;Menos probable&quot; para registrar) y, específicamente, destinatarios para aumentar potencialmente sus números de registro.
+Haga clic en la ficha **[!UICONTROL Miembros]** para vista de todos los miembros del programa. Pase el ratón sobre las barras de probabilidad **[!UICONTROL de]** registro o probabilidad de **[!UICONTROL asistencia]** para ver los porcentajes y las categorías exactos. A continuación, puede realizar acciones en los miembros de una categoría en particular (por ejemplo, todos los miembros de la categoría &quot;Menos probable&quot; para registrar) y, específicamente, destinatarios para aumentar potencialmente sus números de registro.
 
 ![Imagen siete](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
