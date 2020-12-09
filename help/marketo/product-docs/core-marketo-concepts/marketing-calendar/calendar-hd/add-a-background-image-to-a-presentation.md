@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: Añadir una imagen de fondo en una presentación - Documentos de marketing - Documentación del producto
 title: Añadir una imagen de fondo en una presentación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Personalice una presentación seleccionando una imagen de fondo.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una presentación](create-a-presentation.md)
 
