@@ -3,9 +3,9 @@ unique-page-id: 2359734
 description: Previsualización de una Página de aterrizaje con contenido dinámico - Documentos de marketing - Documentación del producto
 title: Previsualización de una Página de aterrizaje con contenido dinámico
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Previsualización la página de aterrizaje después de añadir contenido dinámico para asegurarse de que todo se ve como debería.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Uso de contenido dinámico en una Página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Previsualización de una Página de aterrizaje](preview-a-landing-page.md)
