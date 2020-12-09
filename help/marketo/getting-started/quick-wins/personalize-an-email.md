@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Personalización de un correo electrónico - Documentos de marketing - Documentación del producto
 title: Personalización de un correo electrónico
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
 >* [Enviar una explosión de correo electrónico](send-an-email.md)
