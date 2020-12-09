@@ -2,7 +2,7 @@
 title: campaña-carpeta-actividades-ficha
 description: 'Ficha Actividades de carpetas de campaña '
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Carpeta de campaña: Ficha actividades
 
-Busque información clave sobre sus campañas en la ficha [!UICONTROL **Actividades**] .
+Busque información clave sobre sus campañas en la ficha **[!UICONTROL Actividades]** .
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-Utilice la lista desplegable [!UICONTROL **Filtrar por**] para filtrar las campañas por tipo de actividad. También puede buscar por campaña, tipo de actividad, etc.
+Utilice la lista desplegable **[!UICONTROL Filtrar por]** para filtrar las campañas por tipo de actividad. También puede buscar por campaña, tipo de actividad, etc.
 
 ![Imagen dos](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
