@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Envío de correos electrónicos por correo electrónico del grupo - Documentos de marketing - Documentación del producto
 title: Envío de correos electrónicos a través del correo electrónico del grupo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
    >
    >Puede realizar ediciones masivas en el correo electrónico o la plantilla al enviar un correo electrónico de grupo, pero no puede realizar ediciones únicas para destinatarios específicos de la lista.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Opciones de envío masivo](http://docs.marketo.com/x/HwQ6Ag)
 >* [Uso de una plantilla en la ventana Redacción](http://docs.marketo.com/x/MQQ6Ag)
