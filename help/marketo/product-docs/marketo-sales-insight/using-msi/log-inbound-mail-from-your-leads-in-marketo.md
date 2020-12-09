@@ -3,9 +3,9 @@ unique-page-id: 2949285
 description: Registrar correo entrante desde los posibles clientes en el marketing - Documentos de marketing - Documentación del producto
 title: Registrar correo entrante de los posibles clientes en el mercado
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Debe ver la misma confirmación que el otro método.
 
 Registre las respuestas de los posibles clientes para agregarlas a su historial en Marketing Cloud.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Envío y seguimiento de un correo electrónico con el Añada de correo electrónico de marketing para Outlook](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
