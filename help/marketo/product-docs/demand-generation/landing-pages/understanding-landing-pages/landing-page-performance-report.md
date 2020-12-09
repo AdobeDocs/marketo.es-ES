@@ -3,9 +3,9 @@ unique-page-id: 2359713
 description: Informe Rendimiento de página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Informe Rendimiento de página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,9 @@ Ver cuántas personas llenaron el `forms` contenido en tu `landing pages`y cuán
 >
 >**Buceo profundo**
 >
->Obtenga información sobre otros informes interesantes en la inmersión profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) Básico.
+>Obtenga información sobre otros informes interesantes en el buceo profundo del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Filtre el informe](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) de rendimiento de la página de aterrizaje por recursos locales o globales.
 
