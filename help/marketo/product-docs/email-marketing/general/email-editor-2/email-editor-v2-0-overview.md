@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Descripción general del Editor de correo electrónico v2.0 - Documentos de marketing - Documentación del producto
 title: Información general del editor de correo electrónico v2.0
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,7 @@ Muchas de las buenas nuevas características! ¡Diviértete!
 >
 >Si desea profundizar aún más, vea este [útil vídeo](https://nation.marketo.com/videos/1463).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
 
