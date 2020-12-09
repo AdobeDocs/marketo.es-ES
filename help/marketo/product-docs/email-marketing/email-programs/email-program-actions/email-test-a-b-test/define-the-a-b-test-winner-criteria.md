@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definir los criterios del ganador de la prueba A/B - Documentos de marketing - Documentación del producto
 title: Definir los criterios del ganador de la prueba A/B
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electrónico, deberá elegir un tipo de prueba, [programar la prueba](schedule-the-a-b-test.md)A/B y luego definir los criterios de ganador. Así es como decidir qué correo electrónico gana.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir una prueba A/B](add-an-a-b-test.md)
 
