@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Campeón/Challenger - Línea de Asunto - Documentos de marketing - Documentación del producto
 title: Campeón/Desafío - Línea de sujeto
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Puede probar fácilmente varias líneas de asunto. Cuando finalice la prueba, envíe correos electrónicos con el más efectivo. Así es como hacerlo.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir a un campeón de correo electrónico o a un Challenger](add-an-email-champion-challenger.md)
 
