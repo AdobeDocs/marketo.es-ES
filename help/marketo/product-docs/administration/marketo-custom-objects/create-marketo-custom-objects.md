@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Creación de objetos personalizados de marketing - Documentos de marketing - Documentación del producto
 title: Crear objetos personalizados de marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
 
    El siguiente paso es [agregar campos](add-marketo-custom-object-link-fields.md) de vínculo para conectar el objeto intermediario con una persona o compañía y un objeto personalizado.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir campos de objeto personalizados de marketing](add-marketo-custom-object-fields.md)
 >* [Añadir campos de vínculo de objeto personalizado de marketing a](add-marketo-custom-object-link-fields.md)
