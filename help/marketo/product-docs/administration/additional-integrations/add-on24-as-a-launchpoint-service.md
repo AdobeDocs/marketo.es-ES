@@ -3,9 +3,9 @@ unique-page-id: 7512276
 description: Añadir ON24 como un servicio LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir ON24 como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Marketing gestiona el registro y la asistencia a los seminarios Web ON24.
 
    ![](assets/on24.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Aprenda a [crear su evento de seminario web en ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
