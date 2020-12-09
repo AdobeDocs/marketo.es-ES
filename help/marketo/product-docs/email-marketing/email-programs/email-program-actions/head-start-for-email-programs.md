@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Inicio principal para Programas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Inicio principal para Programas de correo electrónico
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Inicio principal para Programas de correo electrónico {#head-start-for-email-programs}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
