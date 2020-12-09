@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: Crear su Evento de seminario web en ON24 - Documentos de marketing - Documentación del producto
 title: Cree su Evento de seminario web en ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ En la creación de su seminario web ON24 hay ciertas opciones que Marketo y otro
 
 El siguiente paso es [crear un evento en Marketing](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
