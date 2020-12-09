@@ -3,9 +3,9 @@ unique-page-id: 7515069
 description: Explicación de los elementos y las variables en las plantillas guiadas - Documentos de marketing - Documentación del producto
 title: Explicación de los elementos y las variables en las plantillas guiadas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Existen tres tipos de variables: variables de cadena, variables de color y varia
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Creación de una plantilla de Página de aterrizaje guiada](create-a-guided-landing-page-template.md)
 
