@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Añadir campos de vínculo de objeto personalizado de marketing - Documentos de marketing - Documentación de producto
 title: Añadir campos de vínculo de objeto personalizado de marketing a
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ A continuación se muestra cómo crear un campo de vínculo en un objeto persona
 
 A continuación se muestra cómo crear un campo de vínculo en un objeto intermedio para utilizarlo en una estructura de varios a varios.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Debe haber creado ya el objeto intermediario y los objetos personalizados con los que desea vincularlo.
 
