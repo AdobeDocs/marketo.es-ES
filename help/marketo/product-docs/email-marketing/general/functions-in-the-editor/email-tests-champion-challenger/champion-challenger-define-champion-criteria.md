@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Campeón/Desafiante - Definir criterios de campeón - Documentos de marketing - Documentación del producto
 title: 'Campeón/Desafiante: definir criterios de campeón'
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Una vez configurado el tipo de prueba, debe definir los criterios de campeón. Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir a un campeón de correo electrónico o a un Challenger](add-an-email-champion-challenger.md)
 
