@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Explicación de los objetos personalizados de marketing - Documentos de marketing - Documentación del producto
 title: Explicación de los objetos personalizados de marketing
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ Los objetos personalizados solo pueden vincularse directamente a un único regis
 
 Consulte [Importar datos](import-custom-object-data.md) de objeto personalizados para obtener más información.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear objetos personalizados de marketing](create-marketo-custom-objects.md)
 >* [Aprobar un objeto personalizado](approve-a-custom-object.md)
