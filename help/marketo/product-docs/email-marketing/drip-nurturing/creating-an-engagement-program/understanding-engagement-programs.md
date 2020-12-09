@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Explicación de los Programas de compromiso - Documentos de marketing - Documentación del producto
 title: Explicación de los Programas de compromiso
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ Una vez que una persona ha recibido cada fragmento de contenido en un flujo, lla
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Personas que han caducado el contenido](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ Una vez que una persona ha recibido cada fragmento de contenido en un flujo, lla
 
 El nivel de participación en el contenido es una puntuación de 0 a 100 puntos que el Marketing proporcionará a su contenido. Este número está determinado por una fórmula sofisticada que utiliza aperturas, clics, cancelaciones de suscripción, éxito de programas y otros factores.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de la puntuación de participación](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
