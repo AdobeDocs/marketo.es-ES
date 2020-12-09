@@ -3,9 +3,9 @@ unique-page-id: 2360352
 description: Configuración de la API de SOAP - Documentos de marketing - Documentación del producto
 title: Configuración de la API de SOAP
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 >
 >El extremo SOAP y el ID de usuario serán únicos; no envíe la captura de pantalla de este artículo a su desarrollador.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Documentación de API SOAP](http://developers.marketo.com/documentation/soap/)
 
