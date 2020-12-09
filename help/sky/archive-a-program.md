@@ -2,7 +2,7 @@
 title: archive-a-programa
 description: Archivar un Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Para archivar un programa, deberá moverlo a una carpeta de archivo independiente.
 
-1. Cree una nueva carpeta de campañas haciendo clic con el botón derecho en el globo de trabajo y seleccionando [!UICONTROL **Nueva carpeta**] de campaña.
+1. Cree una nueva carpeta de campañas haciendo clic con el botón derecho en el globo de trabajo y seleccionando **[!UICONTROL Nueva carpeta]** de campaña.
 
    ![Imagen uno](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Escriba un nombre para la nueva carpeta y, a continuación, agregue una descripción opcional. Haga clic en [!UICONTROL **Crear**].
+1. Escriba un nombre para la nueva carpeta y, a continuación, agregue una descripción opcional. Haga clic en **[!UICONTROL Crear]**.
 
    ![Imagen dos](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Para archivar un programa, primero agréguelo a la carpeta recién creada haciendo clic con el botón secundario en el árbol y seleccionando [!UICONTROL **Mover**].
+1. Para archivar un programa, primero agréguelo a la carpeta recién creada haciendo clic con el botón secundario en el árbol y seleccionando **[!UICONTROL Mover]**.
 
    ![Imagen tres](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Escriba para buscar la nueva carpeta y selecciónela en la lista desplegable. Haga clic en [!UICONTROL **Mover**].
+1. Escriba para buscar la nueva carpeta y selecciónela en la lista desplegable. Haga clic en **[!UICONTROL Mover]**.
 
    ![Imagen Cuatro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Haga clic con el botón derecho en la carpeta y seleccione [!UICONTROL **Convertir en carpeta**] de archivo.
+1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Convertir en carpeta]** de archivo.
 
    ![Imagen cinco](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
