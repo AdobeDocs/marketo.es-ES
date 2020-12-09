@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: Administración de valores de etiquetas - Documentos de marketing - Documentación del producto
 title: Administración de valores de etiqueta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Crear una nueva etiqueta de Programa y valores de etiqueta](create-a-new-program-tag-and-tag-values.md)
 
