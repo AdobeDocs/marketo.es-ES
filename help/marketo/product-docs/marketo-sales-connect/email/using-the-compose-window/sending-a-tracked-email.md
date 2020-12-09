@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envío de un correo electrónico rastreado - Documentos de marketing - Documentación del producto
 title: Envío de un correo electrónico rastreado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se realizará un seguimiento de las vistas (se abre un correo electrónico) y los clics (se hace clic en los vínculos).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Deberá comprobar la identidad y configurar un canal de envío de correo electrónico antes de enviar un correo electrónico rastreado.
 >
