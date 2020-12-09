@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Uso de la página de detalles de la persona - Documentos de marketing - Documentación del producto
 title: Uso de la página Detalles de Persona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 >
 Obtenga más información sobre los campos [administrados por](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)el sistema.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Creación de una ficha personalizada para la página Detalles de persona](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
