@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: Informes de correo electrónico de grupo por segmentos - Documentos de marketing - Documentación del producto
 title: Agrupar informes de correo electrónico por segmentos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Las segmentaciones no son solo para contenido dinámico. También puede agrupar el informe [de rendimiento del](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) correo electrónico por [segmentaciones](http://docs.marketo.com/display/docs/segmentation+and+snippets).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Aprobar una segmentación](approve-a-segmentation.md)
 
