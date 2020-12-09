@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: 'Explicación de los estados de Programa de seminario web: documentos de marketing: documentación del producto'
 title: Explicación de los estados de Programa de seminario web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Esta es una breve descripción de los estados de programa asociados al canal de 
 >
 >Para que Marketing obtenga el estado No Mostrar, las personas deben estar registradas *en Marketing*. No podemos capturar No se muestran los datos procedentes de la fuente de datos On24.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
