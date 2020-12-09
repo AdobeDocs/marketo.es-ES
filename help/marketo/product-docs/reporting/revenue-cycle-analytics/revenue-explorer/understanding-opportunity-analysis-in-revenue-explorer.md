@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: Explicación de la Análisis de oportunidades en el Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Explicación de la Análisis de oportunidades en el Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ La Análisis de oportunidades le permite acceder a todas las dimensiones relacio
    | Cantidad de oportunidad (abierta) | Importe total de las oportunidades abiertas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación de posible cliente. |
    | Cantidad de oportunidad (Ganada) | Importe total de las oportunidades ganadas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación de posible cliente. |
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear un informe del Explorador de ingresos](create-a-revenue-explorer-report.md)
 >* [Añadir campos en un informe del Explorador de ingresos](adding-fields-to-a-revenue-explorer-report.md)
