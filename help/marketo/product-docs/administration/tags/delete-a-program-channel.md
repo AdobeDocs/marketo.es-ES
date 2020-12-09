@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Eliminar un Canal de Programa - Documentos de marketing - Documentación del producto
 title: Eliminar un Canal de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Si hace uno por accidente o ya no necesita uno, puede eliminarlo.
 
 ¡Bam! También puede [eliminar estados específicos de canales](delete-a-program-status-from-a-program-channel.md).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Eliminar un estado de Programa de un Canal de Programa](delete-a-program-status-from-a-program-channel.md)
 
