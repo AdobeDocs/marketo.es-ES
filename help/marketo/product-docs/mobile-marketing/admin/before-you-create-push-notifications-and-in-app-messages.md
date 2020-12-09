@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Antes de crear notificaciones push y mensajes en la aplicación - Documentos de marketing - Documentación del producto
 title: Antes de crear notificaciones push y mensajes en la aplicación
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ En el caso de la mensajería en la aplicación, el activador de visualización s
 
 Una vez que haya terminado toda la preparación de los mensajes en la aplicación y las notificaciones push, es hora de empezar.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear un mensaje en la aplicación](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
