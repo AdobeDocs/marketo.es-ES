@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Explicación de las conversiones sin conexión de Facebook - Documentos de marketing - Documentación del producto
 title: Explicación de las conversiones sin conexión de Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Puede [configurar las conversiones](set-up-facebook-offline-conversions.md) sin 
 1. Asigne las etapas del modelo de ciclo de ingresos a las etapas de conversión sin conexión en Facebook.
 1. Cuando se genera un posible cliente de Facebook a partir de un anuncio de posible cliente de Facebook y llega a una etapa asignada, Marketing envía datos de conversión sin conexión a Facebook varias veces al día mediante una API automatizada y segura. Los datos aparecen en el informe Administrador de publicidades de Facebook.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Configurar conversiones sin conexión de Facebook](set-up-facebook-offline-conversions.md)
 
