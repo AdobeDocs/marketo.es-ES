@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: Usar la prueba A/B "Fecha/Hora" - Documentos de marketing - Documentación del producto
 title: Usar la prueba A/B "Fecha/Hora"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Puede probar fácilmente los correos electrónicos con A/B. Una prueba es la prueba **Fecha/Hora **prueba. Esto prueba la mejor hora del día o día de la semana para enviar correos electrónicos. Así es como configurarlo.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir una prueba A/B](add-an-a-b-test.md)
 
