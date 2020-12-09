@@ -3,9 +3,9 @@ unique-page-id: 10095358
 description: Información y Actividades de persona y cuenta de vista en Google Mail - Documentos de marketing - Documentación del producto
 title: Información y Actividades de persona y cuenta de vista en Google Mail
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Haga clic en el icono de marketing para abrir el panel.
 
 ![](assets/image2015-10-6-15-3a32-3a52.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Uso de perspectivas de marketing para Google Chrome](using-marketo-insights-for-google-chrome.md)
 
