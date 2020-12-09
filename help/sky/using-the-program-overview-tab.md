@@ -2,7 +2,7 @@
 title: using-the-programa-overview-tab
 description: Uso de la ficha Información general de Programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Hay tres secciones en la ficha Información general [!UICONTROL de] Programa: [!UICONTROL **Detalles**], [!UICONTROL **programación**] e [!UICONTROL **informes**]. Aquí hay una mirada rápida a cada uno.
+Hay tres secciones en la ficha Información general [!UICONTROL de] Programa: **[!UICONTROL Detalles]**, **[!UICONTROL programación]** e **[!UICONTROL informes]**. Aquí hay una mirada rápida a cada uno.
 
 ## Detalles
 
@@ -22,7 +22,7 @@ La página de detalles principal muestra información general sobre el programa.
 
 ![Imagen uno](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-En la parte inferior de la página hay dos secciones: [!UICONTROL **Estadísticas**] de programa y [!UICONTROL **utilizadas por**]. [!UICONTROL **Estadísticas**] de programa muestra las métricas clave sobre el rendimiento de los programas, y [!UICONTROL **Utilizado por**] es una manera fácil de ver dónde se está utilizando el programa en Marketing.
+En la parte inferior de la página hay dos secciones: **[!UICONTROL Estadísticas]** de programa y **[!UICONTROL utilizadas por]**. **[!UICONTROL Estadísticas]** de programa muestra las métricas clave sobre el rendimiento de los programas, y **[!UICONTROL Utilizado por]** es una manera fácil de ver dónde se está utilizando el programa en Marketing.
 
 ![Imagen dos](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
