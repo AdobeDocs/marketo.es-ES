@@ -2,7 +2,7 @@
 title: local-assets-expiration
 description: Caducidad de recursos locales
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Establezca una fecha y hora de caducidad para cancelar la publicación de páginas de aterrizaje, desactivar campañas desencadenadoras o detener campañas recurrentes por lotes. Esta función se encuentra en la sección [!UICONTROL **Caducidad**] de la ficha [!UICONTROL **Recursos**] .
+Establezca una fecha y hora de caducidad para cancelar la publicación de páginas de aterrizaje, desactivar campañas desencadenadoras o detener campañas recurrentes por lotes. Esta función se encuentra en la sección **[!UICONTROL Caducidad]** de la ficha **[!UICONTROL Recursos]** .
 
 ![Imagen uno](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## Establecer una fecha de caducidad
 
-1. Compruebe los recursos para los que desea establecer una fecha de caducidad y, a continuación, haga clic en [!UICONTROL **Establecer caducidad**].
+1. Compruebe los recursos para los que desea establecer una fecha de caducidad y, a continuación, haga clic en **[!UICONTROL Establecer caducidad]**.
 
    ![Imagen dos](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ Establezca una fecha y hora de caducidad para cancelar la publicación de págin
 
    ![Imagen tres](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. Revise los recursos afectados y haga clic en [!UICONTROL **Confirmar**].
+1. Revise los recursos afectados y haga clic en **[!UICONTROL Confirmar]**.
 
    ![Imagen Cuatro](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->Para editar una fecha de caducidad existente, simplemente marque los recursos y haga clic en [!UICONTROL **Establecer caducidad**].
+>Para editar una fecha de caducidad existente, simplemente marque los recursos y haga clic en **[!UICONTROL Establecer caducidad]**.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Establezca una fecha y hora de caducidad para cancelar la publicación de págin
 
 ## Eliminar una fecha de caducidad
 
-1. Para eliminar una fecha de caducidad, marque los recursos y haga clic en [!UICONTROL **Eliminar caducidad**].
+1. Para eliminar una fecha de caducidad, marque los recursos y haga clic en **[!UICONTROL Eliminar caducidad]**.
 
    ![Imagen cinco](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. Revise los recursos afectados y haga clic en [!UICONTROL **Confirmar**].
+1. Revise los recursos afectados y haga clic en **[!UICONTROL Confirmar]**.
 
    ![Imagen seis](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
