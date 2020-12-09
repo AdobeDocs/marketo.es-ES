@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: Habilitar límites de comunicación - Documentos de marketing - Documentación del producto
 title: Habilitar límites de comunicación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Haga clic en Editar.
    >
    >Los límites de comunicación se aplican automáticamente a todos los programas de correo electrónico y participación.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Aplicar límites de comunicación a la Campaña inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
