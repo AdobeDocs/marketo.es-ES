@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: Uso de la lógica de reglas de Lista inteligente estándar - Documentos de marketing - Documentación del producto
 title: Uso de la lógica de regla de Lista inteligente estándar
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Los activadores siempre se evalúan como O aunque la configuración anterior est
 La lista inteligente anterior en palabras:
 `<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Por lo tanto, si una persona rellena el formulario **o visita** la página, la campaña evaluará a esa persona basándose en **todos **o **cualquier **de los filtros posteriores, dependiendo de la configuración utilizada.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Uso de la lógica avanzada de reglas de Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
