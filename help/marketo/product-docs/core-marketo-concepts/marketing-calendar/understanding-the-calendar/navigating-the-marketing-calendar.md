@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navegación por el calendario de marketing - Documentos de marketing - Documentación del producto
 title: Navegación por el calendario de mercadotecnia
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Navegar por el Calendario de mercadotecnia es fácil como uno, dos, tres!
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Asegúrese de que dispone de una licencia [del Calendario de](issue-revoke-a-marketing-calendar-license.md) marketing; de lo contrario, el mosaico del Calendario de marketing no se mostrará en Mi marketing.
 
