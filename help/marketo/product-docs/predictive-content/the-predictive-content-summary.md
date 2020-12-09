@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: Resumen de contenido predictivo - Documentos de marketing - Documentación del producto
 title: Resumen de contenido predictivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Compare cómo sus vistas de todo el contenido coinciden con el contenido predict
 >
 >Si hace clic en un vínculo de categoría (ejemplos en la imagen anterior: leader, correo electrónico, etc.) abre la página de contenido Todos con la categoría en la que hizo clic y que se agregó al filtro, mostrando los análisis de contenido en esa categoría.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Uso de todo el contenido](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [Uso de contenido predictivo](http://docs.marketo.com/display/docs/working+with+predictive+content)
