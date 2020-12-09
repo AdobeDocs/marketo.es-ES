@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Crear un Evento en Marketing - Documentos de marketing - Documentación del producto
 title: Creación de un Evento en Marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Cuando cree el evento de marketing, seleccione **Seminario** web como tipo de Ca
 
 El siguiente paso es [configurar los ajustes de evento y sincronizar el marketing con el seminario](https://docs.marketo.com/x/IRCa)web.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
