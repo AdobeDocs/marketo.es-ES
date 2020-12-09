@@ -3,9 +3,9 @@ unique-page-id: 3571813
 description: 'Paso 1 de 3: Instalación de la solución de marketing en Dynamics (On-premies 2013) - Documentos de marketing - Documentación del producto'
 title: 'Paso 1 de 3: Instalación de la solución de marketing en Dynamics (On-premies 2013)'
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Para poder sincronizar Microsoft Dynamics On-Premises y Marketing, primero debe 
 >
 >Después de sincronizar Marketing con una CRM, no podrá realizar una nueva sincronización sin reemplazar la instancia.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Debe tener [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) con [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 o 3.0 (ADFS) configurados. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
