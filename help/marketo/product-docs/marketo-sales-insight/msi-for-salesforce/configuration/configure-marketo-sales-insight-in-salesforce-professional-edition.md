@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configurar la perspectiva de ventas de marketing en Salesforce Professional Edition - Documentos de marketing - Documentación del producto
 title: Configuración de la perspectiva de ventas de marketing en Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A continuación se indican los pasos que debe seguir para configurar la perspectiva de ventas de marketing en Salesforce Professional Edition. Empecemos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Instalación de Marketing en Salesforce Professional Edition](http://docs.marketo.com/display/docs/professional+edition)
 >
