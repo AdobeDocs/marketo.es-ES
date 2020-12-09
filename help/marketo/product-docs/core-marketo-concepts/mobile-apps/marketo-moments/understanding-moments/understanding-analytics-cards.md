@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Explicación de las tarjetas de Analytics - Documentos de marketing - Documentación del producto
 title: Explicación de las tarjetas de Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ La tarjeta **Cancelar suscripciones** muestra un informe de tendencias mes tras 
 
 Ahora ya sabes.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los momentos del marketing](understanding-marketo-moments.md)
 >* [Explicación de las tarjetas de Evento](understanding-event-cards.md)
