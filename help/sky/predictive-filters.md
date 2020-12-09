@@ -2,7 +2,7 @@
 title: filtros predictivos
 description: Filtros predictivos
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Esto filtros la audiencia en cuanto a si tienen una alta o baja probabilidad de 
 
 Estos dos filtros ayudan a expandir la audiencia actual al destinar leads adicionales que son similares a miembros de otro programa o Lista inteligente. Los filtros de búsqueda similar tienen en cuenta más de 50 factores, incluidos los atributos de posible cliente, la actividad por correo electrónico, la actividad web y la participación.
 
-Haga clic en [!UICONTROL **Añadir restricción**] para elegir los criterios de éxito de los miembros de los programas seleccionados.
+Haga clic en **[!UICONTROL Añadir restricción]** para elegir los criterios de éxito de los miembros de los programas seleccionados.
 
 Haga clic en el icono + situado junto a la lista desplegable programa para agregar fácilmente varios programas o listas inteligentes a un filtro.
 
