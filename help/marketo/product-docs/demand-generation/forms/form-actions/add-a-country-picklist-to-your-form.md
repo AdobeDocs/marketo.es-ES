@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: Añadir una lista de selección de país en el formulario - Documentos de marketing - Documentación del producto
 title: Añadir una lista de selección de país en el formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
 Como eso fue tan fácil, ¿por qué no hacer más? ¿Qué sucede si se muestra dinámicamente el campo Estado cuando un usuario selecciona Estados Unidos como país en la lista? Consulte el artículo relacionado a continuación para saber cómo hacerlo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Alternar dinámicamente la visibilidad de un campo de formulario](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
