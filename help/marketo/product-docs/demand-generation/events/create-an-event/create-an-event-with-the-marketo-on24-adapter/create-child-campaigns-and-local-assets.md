@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Crear Campañas secundarias y recursos locales - Documentos de marketing - Documentación del producto
 title: Crear Campañas secundarias y recursos locales
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ El paso **Enviar correo electrónico** DEBE ser el segundo paso. El mensaje de c
 
 El siguiente paso es [probar la integración](test-your-on24-event-integration.md)de evento ON24.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 >* [Ejemplo de integración de Evento ON24](example-on24-event-integration.md)
