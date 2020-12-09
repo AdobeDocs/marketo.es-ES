@@ -3,9 +3,9 @@ unique-page-id: 10096679
 description: Ejemplo de integración de Evento ON24 - Documentos de marketing - Documentación del producto
 title: Ejemplo de integración de Evento ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ Aquí hay un evento de muestra, incluyendo campañas, para un seminario web sobr
 
 ![](assets/ten.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
 
