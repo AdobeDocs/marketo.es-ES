@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Crear una Audiencia coincidente en LinkedIn - Documentos de marketing - Documentación del producto
 title: Crear una Audiencia coincidente en LinkedIn
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Cree audiencias coincidentes a partir de sus Listas de cuenta ABM para la segmentación de publicidad de LinkedIn.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >[Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](http://docs.marketo.com/x/I4Fy)
 
