@@ -2,7 +2,7 @@
 title: create-a-basic-entry-in-programa-schedule-vista
 description: Crear una entrada básica en la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Puede crear nuevas entradas básicas directamente desde la vista calandario del programa.
 
-1. Seleccione el programa en el árbol y, a continuación, vaya a la ficha [!UICONTROL **Programar**] en [!UICONTROL **Información general**].
+1. Seleccione el programa en el árbol y, a continuación, vaya a la ficha **[!UICONTROL Programar]** en **[!UICONTROL Información general]**.
 
    ![Imagen uno](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Pase el ratón sobre el día en el que desee agregar una entrada y, a continuación, haga clic en [!UICONTROL **Añadir**].
+1. Pase el ratón sobre el día en el que desee agregar una entrada y, a continuación, haga clic en **[!UICONTROL Añadir]**.
 
    ![Imagen dos](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ Puede crear nuevas entradas básicas directamente desde la vista calandario del 
    >
    >También puede seguir pasos similares para crear una entrada básica desde las vistas Día, Semana o Agenda.
 
-1. Escriba un nombre para la nueva entrada básica y, a continuación, cambie [!UICONTROL **Tipo**] a Entrada  básica si es necesario. También puede modificar el [!UICONTROL **Inicio y la fecha**] de finalización, y desmarcar [!UICONTROL **Abrir en la Vista**] de la agenda si desea permanecer en el calendario después de crear la entrada. Haga clic en [!UICONTROL **Guardar**].
+1. Escriba un nombre para la nueva entrada básica y, a continuación, cambie **[!UICONTROL Tipo]** a Entrada  básica si es necesario. También puede modificar el **[!UICONTROL Inicio y la fecha]** de finalización, y desmarcar **[!UICONTROL Abrir en la Vista]** de la agenda si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen tres](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
