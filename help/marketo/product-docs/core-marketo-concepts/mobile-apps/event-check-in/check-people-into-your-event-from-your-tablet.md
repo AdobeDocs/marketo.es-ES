@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: Consulte a las personas en su Evento desde su tableta - Documentos de marketing - Documentación del producto
 title: Registrar personas en el Evento desde la tableta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ La aplicación funciona igual tanto en iPad como en Android, excepto por diferen
 >
 >Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* Cree un evento en Marketing y rellénelo con Personas invitadas y registradas.
 >* Descargar la aplicación para tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
