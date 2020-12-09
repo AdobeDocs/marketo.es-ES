@@ -3,9 +3,9 @@ unique-page-id: 4720236
 description: Crear un segmento con una Lista de cuenta - Documentos de marketing - Documentación del producto
 title: Crear un segmento con una Lista de cuenta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo crear un segmento mediante una Lista de cuenta.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una nueva Lista de cuenta](../../../product-docs/account-based-marketing/target/account-lists.md)
 
