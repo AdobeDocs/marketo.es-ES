@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurar notificaciones push móviles - Documentos de marketing - Documentación del producto
 title: Configurar notificaciones push móviles
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ Un URI de vínculo profundo consta de tres partes: nombre, ruta e identificador 
 
 Dicho esto, la estructura de vínculos profundos de la aplicación puede ser diferente del ejemplo anterior. El desarrollador tiene muchas opciones para definir URI de vínculo profundo, por lo tanto, pida al desarrollador que le envíe los URI (vínculos) de las páginas que le interesen utilizar. Esto garantizará que los URI que introduzca en los mensajes push apunten a los lugares adecuados. El desarrollador puede [encontrar más información aquí](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Enviar una notificación push móvil](send-a-mobile-push-notification.md)
 
