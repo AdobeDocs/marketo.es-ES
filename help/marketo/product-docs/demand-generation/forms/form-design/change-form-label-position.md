@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Cambiar la posición de la etiqueta del formulario - Documentos de marketing - Documentación del producto
 title: Cambiar posición de etiqueta de formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Al [crear un formulario](../../../../product-docs/demand-generation/forms/creati
 
 ¡Bien hecho! ¿Qué tan fácil era cambiar las posiciones de las etiquetas en un formulario? Bien, veamos qué podemos hacer para cambiar la fuente de las etiquetas de formulario.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Cambiar la familia de fuentes del formulario](change-the-form-font-family.md)
 
