@@ -3,9 +3,9 @@ unique-page-id: 10100642
 description: Crear texto de mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Crear texto de mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Haga clic en el área de texto para trabajar con el estilo y el contenido del te
 
 Eres dorado. A continuación, debe [configurar el botón](set-up-the-in-app-message-button.md)de mensajes en la aplicación.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
