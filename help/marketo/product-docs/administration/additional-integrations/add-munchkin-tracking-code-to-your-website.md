@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Añadir código de seguimiento de Munchkin a su sitio web - Documentos de marketing - Documentación del producto
 title: Añadir código de seguimiento de Munchkin a su sitio web
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 El código de seguimiento personalizado de JavaScript de Marketing, llamado Munchkin, rastrea a todas las personas que visitan el sitio web para que pueda reaccionar a sus visitas con campañas de marketing automatizadas. Incluso los visitantes anónimos son rastreados junto con sus direcciones IP y otra información. ** Sin este código de seguimiento, no podrá rastrear visitas u otras actividades en su sitio web!**
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Asegúrese de tener acceso a un desarrollador de JavaScript experimentado. La asistencia técnica de marketing no está configurada para ayudar a solucionar problemas de JavaScript personalizado.
 
