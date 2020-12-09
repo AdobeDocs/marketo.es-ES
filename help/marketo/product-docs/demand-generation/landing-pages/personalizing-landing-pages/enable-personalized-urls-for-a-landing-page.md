@@ -3,9 +3,9 @@ unique-page-id: 2359803
 description: Habilitar direcciones URL personalizadas para una Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Habilitar direcciones URL personalizadas para una Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Las direcciones URL personalizadas son buenas para campañas de correo de impresión.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Habilitar direcciones URL personalizadas para su cuenta](enable-personalized-urls-for-your-account.md)
 
