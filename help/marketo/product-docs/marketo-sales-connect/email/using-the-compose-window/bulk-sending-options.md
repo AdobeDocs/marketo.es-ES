@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Opciones de envío masivo - Documentos de marketing - Documentación del producto
 title: Opciones de envío masivo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Uso de Seleccionar y enviar
 
 De forma predeterminada, editará todos los destinatarios. Pero también puede seleccionar cada correo electrónico individual para realizar ediciones personalizadas. Esto puede resultar bueno para agregar una o más líneas únicas de personalización a destinatarios con los que desee adoptar un enfoque más personalizado.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Redacción de correos electrónicos masivos con Seleccionar y enviar](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [Envío de correos electrónicos a través del correo electrónico del grupo](http://docs.marketo.com/x/KAQ6Ag)
