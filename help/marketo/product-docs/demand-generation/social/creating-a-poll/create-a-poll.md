@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Crear una encuesta - Documentos de marketing - Documentación del producto
 title: Crear una encuesta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Atraer a la gente con una encuesta en la que pueden votar y compartir con sus am
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de marketing antes de empezar. Añada una imagen de 60 x 60 píxeles para cada entrada de encuesta. Consulte [Añadir imágenes y archivos en el marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
