@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Llamar a Webgancho - Documentos de marketing - Documentación del producto
 title: Llamar a Webock
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Llamar a Webock {#call-webhook}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Creación de un enlace web](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
 
