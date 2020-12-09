@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: Añadir zoom como servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir zoom como un servicio LaunchPoint
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Marketo administra el registro y la asistencia de zoom.
 >
 >Al actualizar la contraseña en Zoom, también debe actualizar la contraseña en Marketing Cloud.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >Aprenda a [crear un evento con zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
 
