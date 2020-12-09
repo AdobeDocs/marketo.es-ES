@@ -3,9 +3,9 @@ unique-page-id: 42762519
 description: Configuración para clientes existentes - Documentos de marketing - Documentación del producto
 title: Configuración para clientes existentes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Configure la siguiente configuración para empezar a utilizar el nuevo Panel de perspectivas.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Asegúrese de haber actualizado el paquete de Salesforce a la versión más reciente
 
