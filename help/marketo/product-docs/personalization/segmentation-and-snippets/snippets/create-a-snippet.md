@@ -3,9 +3,9 @@ unique-page-id: 2359459
 description: Crear un fragmento - Documentos de marketing - Documentación del producto
 title: Creación de un fragmento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Los fragmentos se pueden utilizar como bloques de contenido dinámico en **corre
 
 ¡Buen trabajo! Simplifique su trabajo creando fragmentos para el contenido dinámico. Ahora puede continuar y [agregar contenido a su nuevo fragmento](add-content-to-a-snippet.md).
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir contenido en un fragmento](add-content-to-a-snippet.md)
 >* [Explicación del contenido dinámico](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
