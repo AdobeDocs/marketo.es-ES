@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: Añadir Slack como servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir Slack como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ La integración de Slack incluye dos tipos de notificación:
 >
 >**Se requieren permisos de administración**
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Si no tiene las notificaciones del sistema de Slack ya habilitadas, [póngase en contacto con el servicio de asistencia técnica](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
 
