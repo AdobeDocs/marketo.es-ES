@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publicar Páginas de aterrizaje en Facebook - Documentos de marketing - Documentación del producto
 title: Publicar Páginas de aterrizaje en Facebook
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Puede publicar sus páginas de aterrizaje en Facebook, reuniéndose con su audie
 >
 >SMB Spark, Standard y Select. Enterprise con una función con licencia independiente.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Su página debe tener al menos 2000 &quot;Me gusta&quot; antes de poder publicar en Facebook.
 
