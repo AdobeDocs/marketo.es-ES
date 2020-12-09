@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: Añadir un vínculo a una imagen en una Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
 title: Añadir un vínculo a una imagen en una Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ¿Desea que una imagen de su página de aterrizaje sea un vínculo a otra página o sitio? Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Añadir una imagen en una Página de aterrizaje de forma libre](add-an-image-to-a-free-form-landing-page.md)
 
