@@ -3,9 +3,9 @@ unique-page-id: 2359876
 description: Reemplazar una imagen o archivo cargado - Documentos de marketing - Documentación del producto
 title: Reemplazar una imagen o archivo cargado
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 ¡Lo hiciste!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Buscar imágenes y archivos cargados](search-uploaded-images-and-files.md)
 >* [Buscar la dirección URL de una imagen o archivo cargado](find-the-url-of-an-uploaded-image-or-file.md)
