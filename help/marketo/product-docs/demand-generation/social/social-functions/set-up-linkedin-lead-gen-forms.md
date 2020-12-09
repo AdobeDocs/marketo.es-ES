@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Configuración de LinkedIn Lead Gen Forms - Documentos de marketing - Documentación del producto
 title: Configuración de LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 >
 >Solo puede autorizar una única cuenta de usuario de LinkedIn. Si tiene varias cuentas de negocio que desea vincular a MarketingTo, asegúrese de que la cuenta de LinkedIn del usuario que está siendo autorizada tenga permisos de administrador de formularios de generación de posibles clientes para la cuenta de negocio en LinkedIn.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar Filtros de formulario de generación de posibles clientes de LinkedIn y activadores en una Campaña inteligente](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
