@@ -3,9 +3,9 @@ unique-page-id: 2359671
 description: Añadir texto de sugerencia en un campo de formulario - Documentos de marketing - Documentación del producto
 title: Añadir texto de sugerencia en un campo de formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Las sugerencias e [instrucciones](add-tooltip-instructions-to-a-form-field.md) a
 
 ¡Echa un vistazo! Sigamos y agreguemos algunas [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir instrucciones de información sobre herramientas en un campo de formulario](add-tooltip-instructions-to-a-form-field.md)
 
