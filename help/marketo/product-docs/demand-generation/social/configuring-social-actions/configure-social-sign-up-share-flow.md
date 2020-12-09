@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: Configurar el flujo de participación/registro social - Documentos de marketing - Documentación del producto
 title: Configuración del flujo de participación/registro social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Si elige los valores de las etiquetas de la página (og:title, og:caption y og:d
 >
 >Si carga una imagen, no la verá aquí hasta que cierre y vuelva a abrir el editor de la aplicación social.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >A continuación, puede hacer clic en **Finalizar > Aprobar y cerrar** y colocar la aplicación social en una página de aterrizaje. También puede configurar la captura [de](configure-person-capture-for-a-social-app.md) personas o el mensaje de [reuso compartido](configure-re-share-email-and-prompt-for-a-social-app.md).
 
