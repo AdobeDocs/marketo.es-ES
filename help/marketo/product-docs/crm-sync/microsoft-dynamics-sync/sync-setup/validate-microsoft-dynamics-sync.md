@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validar Microsoft Dynamics Sync - Documentos de marketing - Documentación del producto
 title: Validar Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Es muy importante ejecutar la herramienta Validar sincronización para asegurars
    >
    >Actualmente no se admite la actualización del entorno limitado para Marketing Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketing. Póngase en contacto con el administrador de éxito del cliente para obtener más detalles.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Corregir problemas de sincronización de validación de Dynamics](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
