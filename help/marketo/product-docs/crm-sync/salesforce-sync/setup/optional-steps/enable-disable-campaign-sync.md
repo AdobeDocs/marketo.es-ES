@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: Activar/Deshabilitar la sincronización de Campañas - Documentos de marketing - Documentación del producto
 title: Activar/Desactivar sincronización de Campaña
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Esta opción permite a Marketing sincronizar su pertenencia a programa y sus est
 
 Ahí lo tienes. Solo tiene que dar un poco de tiempo a la sincronización para extraer los datos de Salesforce y ya está listo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Sincronización SFDC: Sincronización de campaña](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [Definir los valores predeterminados de Compañía y apellido de posible cliente](set-default-person-last-name-and-company-name.md)
