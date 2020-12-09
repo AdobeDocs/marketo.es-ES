@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Cómo conectar las ventas a su Simulador para pruebas de Salesforce - Documentos de marketing - Documentación del producto
 title: Cómo conectar las ventas a su Simulador para pruebas de Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Cómo conectar las ventas a su Simulador para pruebas de Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >La cuenta de Sales Connect no se puede conectar a Salesforce al establecer una conexión con el simulador para pruebas. Si es así, [asegúrese de desconectar](http://docs.marketo.com/x/FoDq) antes de seguir los pasos de este artículo.
 
