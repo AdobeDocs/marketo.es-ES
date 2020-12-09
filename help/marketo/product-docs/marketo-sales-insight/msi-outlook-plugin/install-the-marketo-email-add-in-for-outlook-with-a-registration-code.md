@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Si los usuarios pueden acceder a la configuración de administración de sus equ
 
 Si no ha recibido un correo electrónico de invitación, pídale al administrador de marketing que le invite.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* Se le debe [otorgar una licencia](issue-a-marketo-email-add-in-license.md)de Añada por correo electrónico de Marketing to.
 
