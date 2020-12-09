@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Instalación y configuración de Marketingto Sales Insight en Microsoft Dynamics 365 - Documentos de marketing - Documentación del producto
 title: Instalación y configuración de Marketingto Sales Insight en Microsoft Dynamics 365
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 La perspectiva de ventas de marketing es una herramienta fantástica para dar a su equipo de ventas una &quot;ventana&quot; a la abundancia de datos que posee el equipo de mercadotecnia. A continuación se explica cómo instalar y configurar.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Complete la integración [de Marketing con Microsoft](http://docs.marketo.com/x/E4A2).
 >
