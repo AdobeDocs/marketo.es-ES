@@ -3,9 +3,9 @@ unique-page-id: 1146976
 description: Usar una fecha específica en un paso de flujo de espera - Documentos de marketing - Documentación del producto
 title: Usar una fecha específica en un paso de flujo de espera
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ Puede utilizar el paso de flujo de **espera** para pausar el viaje de una person
    Especifique la hora (opcional) y haga clic en Guardar.
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar una duración en un paso de flujo de espera](use-a-duration-in-a-wait-flow-step.md)
 >* [Usar un token de fecha en un paso de flujo de espera](use-a-date-token-in-a-wait-flow-step.md)
