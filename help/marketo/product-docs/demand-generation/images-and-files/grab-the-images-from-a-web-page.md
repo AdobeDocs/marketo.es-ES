@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: Capturar las imágenes de una página web - Documentos de marketing - Documentación del producto
 title: Toma de imágenes de una página Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Para agregar imágenes de una página web, copie la dirección web (URL) de la p
 
 ¡Buen trabajo, maestro de imágenes!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir imágenes y archivos para comercializar](add-images-and-files-to-marketo.md)
 >* [Organizar sus imágenes y archivos con carpetas](organize-your-images-and-files-using-folders.md)
