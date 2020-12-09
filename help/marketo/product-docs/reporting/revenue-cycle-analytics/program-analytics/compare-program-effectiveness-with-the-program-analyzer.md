@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Comparar la eficacia de los Programas con el analizador de Programas - Documentos de marketing - Documentación del producto
 title: Comparar la eficacia de los Programas con el analizador de Programas
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Utilice el analizador de Programas para identificar los programas más y menos efectivos, comparando los costos de programa, la adquisición de miembros, la tramitación y los ingresos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Creación de un analizador de Programas](create-a-program-analyzer.md)
 
