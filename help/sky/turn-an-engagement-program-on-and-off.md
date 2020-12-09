@@ -2,7 +2,7 @@
 title: activar y desactivar un programa de participación
 description: Activar y desactivar un Programa de compromiso
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Puede desactivar un programa de participación con el botón de un conmutador. E
 
    ![Imagen uno](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Haga clic en la ficha [!UICONTROL **Configuración**] .
+1. Haga clic en la ficha **[!UICONTROL Configuración]** .
 
    ![Imagen dos](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ Puede desactivar un programa de participación con el botón de un conmutador. E
    >
    >Los programas de participación están activados de forma predeterminada, a menos que supere el límite de suscripciones.
 
-1. Hay un botón de [!UICONTROL Programa] a la derecha. Seleccione [!UICONTROL **Activado**] o [!UICONTROL **Desactivado**].
+1. Hay un botón de [!UICONTROL Programa] a la derecha. Seleccione **[!UICONTROL Activado]** o **[!UICONTROL Desactivado]**.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
