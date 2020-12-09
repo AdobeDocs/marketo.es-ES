@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: Eliminar una imagen o archivo cargado - Documentos de marketing - Documentación del producto
 title: Eliminar una imagen o archivo cargado
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 ¡Bien hecho!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Reemplazar una imagen o archivo cargado](replace-an-uploaded-image-or-file.md)
 >* [Buscar imágenes y archivos cargados](search-uploaded-images-and-files.md)
