@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited - Documentos de marketing - Documentación del producto
 title: Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A continuación se indican los pasos que debe seguir para configurar la perspectiva de ventas de marketing en las ediciones Enterprise/Unlimited de Salesforce. Empecemos.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Configurar la sincronización de campos de Marketo en Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
