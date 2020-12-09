@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: Usar contenido dinámico en una Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Uso de contenido dinámico en una Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Uso de contenido dinámico en una Página de aterrizaje {#use-dynamic-content-in-a-landing-page}
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear una segmentación](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Creación de una Página de aterrizaje de forma libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
