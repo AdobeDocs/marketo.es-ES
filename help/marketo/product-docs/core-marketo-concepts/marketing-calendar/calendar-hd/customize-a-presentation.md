@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Personalizar una presentación - Documentos de marketing - Documentación del producto
 title: Personalización de una presentación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Configure la presentación del calendario para que refleje los objetivos y activ
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Crear objetivos](create-a-custom-goal.md) personalizados o objetivos de Lista [inteligente](create-a-smart-list-goal.md)
    >
