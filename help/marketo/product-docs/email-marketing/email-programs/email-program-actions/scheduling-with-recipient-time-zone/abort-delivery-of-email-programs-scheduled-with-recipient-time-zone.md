@@ -3,9 +3,9 @@ unique-page-id: 13795727
 description: Anular Envío de Programas de correo electrónico programados con el huso horario de Destinatario - Documentos de marketing - Documentación del producto
 title: Anular Envío de Programas de correo electrónico programados con el huso horario de Destinatario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Dado que los programas de correo electrónico programados con el huso horario de
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explicación del huso horario del Destinatario](understanding-recipient-time-zone.md)
 >* [Programar Programas de correo electrónico con huso horario de Destinatario](schedule-email-programs-with-recipient-time-zone.md)
