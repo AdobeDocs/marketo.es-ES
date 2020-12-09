@@ -3,9 +3,9 @@ unique-page-id: 2359587
 description: Campeón/Desafiante - Descartar una prueba por correo electrónico - Documentos de marketing - Documentación del producto
 title: 'Campeón/Desafiante: descartar una prueba de correo electrónico'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Si, en cualquier momento, decide que no desea seguir ejecutando la prueba de correo electrónico, puede descartarla. Así es como.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* [Campeón/Desafío: Aprobar la prueba de correo electrónico](champion-challenger-approve-your-email-test.md)
 
