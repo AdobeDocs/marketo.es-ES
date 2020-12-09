@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: Exportación de un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Exportación de un informe del Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ Puede exportar cualquier informe del explorador de ingresos y compartirlo con cu
 
    ¡Dulce! Envíe este archivo e impresione a sus compañeros con sus habilidades de mercadotecnia al estilo ninja.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Suscripción a un informe del Explorador de ingresos](subscribe-to-a-revenue-explorer-report.md)
 
