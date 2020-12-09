@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce - Documentos de marketing - Documentación del producto
 title: Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesfo
 
 ¡bueno trabajo! Ahora ha instalado e implementado MarketingTo Sales Insight. Adelante y configúrelo para su equipo de ventas y observe el aumento de ventas.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Configuración de la perspectiva de ventas de marketing en Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
