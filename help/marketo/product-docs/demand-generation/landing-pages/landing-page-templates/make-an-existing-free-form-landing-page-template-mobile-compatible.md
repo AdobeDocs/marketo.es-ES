@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Conversión de plantillas de Página de aterrizaje de forma libre existentes en móviles compatibles - Documentos de marketing - Documentación del producto
 title: Conversión de una plantilla de Página de aterrizaje de forma libre existente en compatible con móviles
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Cuando edita una página de aterrizaje y hace clic en la ficha móvil, a veces s
 
 ¡Increíble! Ahora puede [personalizar la vista](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) móvil de todas las páginas de aterrizaje que utilicen esta plantilla.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Personalización de la Vista móvil para su Página de aterrizaje de forma libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
