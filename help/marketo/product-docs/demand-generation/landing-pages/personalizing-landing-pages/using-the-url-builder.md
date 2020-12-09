@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Uso del Generador de direcciones URL - Documentos de marketing - Documentación del producto
 title: Uso del Generador de direcciones URL
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ El Generador de direcciones URL ayuda a construir direcciones URL que pueden rel
 >
 >Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >Obtenga información sobre cómo crear campos ocultos en formularios y editar su configuración en [Definir un campo de formulario como oculto](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
