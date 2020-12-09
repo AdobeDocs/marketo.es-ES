@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: Buscar la URL de una imagen o archivo cargado - Documentos de marketing - Documentación del producto
 title: Buscar la dirección URL de una imagen o archivo cargado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 ¡Dése una palmadita en la espalda por un trabajo bien hecho!
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Reemplazar una imagen o archivo cargado](replace-an-uploaded-image-or-file.md)
 
