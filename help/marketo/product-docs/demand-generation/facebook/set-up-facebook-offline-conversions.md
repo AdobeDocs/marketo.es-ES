@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurar conversiones sin conexión de Facebook - Documentos de marketing - Documentación del producto
 title: Configurar conversiones sin conexión de Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Al enviar datos de conversión sin conexión de vuelta a Facebook para las personas creadas mediante Lead Ads, su equipo de publicidad puede optimizar su inversión en publicidad mejor que nunca. Así es como configurarlo.
 
->[!NOTE]
->
->**Requisitos previos**
+>[!PREREQUISITES]
 >
 >* Debe [configurar las Publicidades de posibles clientes](set-up-facebook-lead-ads.md)de Facebook.
 >* Debe tener un modelo aprobado en el [módulo de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+models).
