@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Configurar protocolos para el marketing - Documentos de marketing - Documentación del producto
 title: Configuración de protocolos para el marketing
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '712'
 ht-degree: 1%
 
 ---
@@ -15,9 +15,17 @@ ht-degree: 1%
 
 Su grupo de marketing está usando Marketing para crear páginas de aterrizaje de campaña de marca y correos electrónicos. Para garantizar que esas páginas de aterrizaje y correos electrónicos funcionen, necesitan un poco de ayuda de TI. Configure los siguientes protocolos con la información que su grupo de mercadotecnia debería haberle enviado por correo electrónico.
 
+Este artículo debe compartirse con el departamento de TI de la compañía que desee aplicar estos protocolos.
+
 >[!NOTE]
 >
->Este artículo específico debe ser consultado por el departamento de TI de la compañía que desee implementar estos protocolos.
+>Si su equipo de TI restringe el acceso a la Web mediante una lista de permitidos, pídale que agregue los siguientes dominios (incluido el asterisco) para permitir todos los recursos y webósforos de Marketing:
+
+* `*.marketo.com`
+
+* `*.marketodesigner.com`
+
+* `*.mktoweb.com`
 
 ## Paso 1: Crear registros DNS para Páginas de aterrizaje y correo electrónico {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -25,14 +33,15 @@ Su grupo de marketing está usando Marketing para crear páginas de aterrizaje d
 
 Su equipo de mercadotecnia debería haberle enviado dos solicitudes de nuevos registros CNAME. El primero es para las direcciones URL de página de aterrizaje, de modo que las páginas de aterrizaje aparezcan en direcciones URL que reflejen su dominio y no en Marketing (el host real). El segundo es para los vínculos de seguimiento que se incluyen en los correos electrónicos que envían desde Marketing.
 
-1 - **Añadir CNAME para Páginas de aterrizaje**
+`1` **Añadir CNAME para Páginas de aterrizaje**
 
 Añada el CNAME de página de aterrizaje que le han enviado al registro DNS, de modo que `[YourLandingPageCNAME]` apunte a la cadena de cuenta única asignada a sus páginas de aterrizaje de marketing. Inicie sesión en el sitio del registrador de dominios e introduzca el CNAME de página de aterrizaje y la cadena de cuenta. Generalmente, esto incluye tres campos:
 
-・ Alias: Escriba `[YourLandingPageCNAME]` (proporcionado por la mercadotecnia) ・ Tipo: CNAME\
-・ Apunte a: Intro `[MarketoAccountString].mktoweb.com` (proporcionado por marketing)
+* Alias: Intro `[YourLandingPageCNAME]` (proporcionado por marketing)
+* Tipo: CNAME
+* Apunta a: Intro `[MarketoAccountString].mktoweb.com` (proporcionado por marketing)
 
-2 - **Añadir CNAME para vínculos de Seguimiento del correo electrónico**
+`2` **Añadir CNAME para vínculos de Seguimiento del correo electrónico**
 
 Añada el correo electrónico que le envió la mercadotecnia CNAME, de modo que `[YourEmailCNAME]` apunte a [MktoTrackingLink], el vínculo de seguimiento predeterminado asignado por Marketing, en el formato:\
 `[YourEmailCNAME].[YourDomain].com` EN CNAME `[MktoTrackingLink]`
@@ -41,7 +50,7 @@ Por ejemplo:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
-3 - **Notificar a su equipo de mercadotecnia**
+`3` **Notificar al equipo de mercadotecnia**
 
 Notifique al equipo de mercadotecnia cuando haya completado este proceso.
 
@@ -52,7 +61,7 @@ Cuando su grupo de marketing utiliza Marketing para enviar correos electrónicos
 Añada estas direcciones IP a su lista de permitidos corporativa:
 
 199.15.212.0/22\
-192.28.144.0/20\
+192.28.144.0/20
 192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
@@ -64,7 +73,7 @@ Algunos sistemas antispam utilizan el campo de ruta de retorno de correo electr�
 
 >[!NOTE]
 >
->Postini emplea una tecnología única y requiere intervalos de IP de inclusión en la lista de permitidos. Consulte [Inclusión en la lista de permitidos con Postini](http://nation.marketo.com/docs/DOC-1066).
+>Postini emplea una tecnología única y requiere intervalos de IP de inclusión en la lista de permitidos. Consulte [Inclusión en la lista de permitidos con Postini](https://nation.marketo.com/docs/DOC-1066).
 
 ## Paso 3: Configuración de SPF y DKIM {#step-set-up-spf-and-dkim}
 
@@ -73,10 +82,10 @@ Su equipo de mercadotecnia también debería haberle enviado información de DKI
 1. Para configurar SPF, agregue la línea siguiente a nuestras entradas DNS:
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   incluir: [mktomail.com](http://mktomail.com/) ~all
+   incluir: mktomail.com ~all
 
    Si ya tenemos un registro SPF existente en nuestra entrada DNS, simplemente agregue lo siguiente:\
-   incluir: [mktomail.com](http://mktomail.com)
+   incluir: mktomail.com
 
    Reemplazar CompanyDomain por el dominio principal del sitio web (por ejemplo: &quot;`(company.com/)`&quot;) y CorpIP con la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: &quot;255.255.255.255&quot;). Si va a enviar correos electrónicos desde varios dominios a través de Marketing, debe hacer que el personal de TI agregue esta línea para cada dominio (en una línea).
 
@@ -86,7 +95,7 @@ Su equipo de mercadotecnia también debería haberle enviado información de DKI
 
    `[DKIMDomain2]`:: El registro de host es `[HostRecord2]` y el valor de TXT es `[TXTValue2]`.
 
-   Copie HostRecord y TXTValue para cada DKIMDomain que haya configurado después de seguir las [instrucciones aquí](https://docs.marketo.com/display/public/DOCS/Set+up+a+Custom+DKIM+Signature). No olvide comprobar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
+   Copie HostRecord y TXTValue para cada DKIMDomain que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide comprobar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
 
 ## Paso 4: Configurar registros MX para su dominio {#step-set-up-mx-records-for-your-domain}
 
