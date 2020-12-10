@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Lista de comprobación de configuración - Documentos de marketing - Documentación del producto
 title: Lista de comprobación de configuración
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Lista de comprobación de configuración {#setup-checklist}
 
-¡Bienvenido a Marketing! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Encontrará más detalles en Pasos [de configuración](../../getting-started/setup-steps.md).
+¡Bienvenido a Marketing! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Encontrará más detalles en Pasos [de configuración](/help/marketo/getting-started/setup-steps.md).
 
 ## Inicio de sesión en Marketing Cloud y creación de usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
 
-1. Inicio de sesión en Marketing
+1. Iniciar sesión en Marketing
 1. Crear usuarios adicionales
 
 ## Configurar un contacto de asistencia técnica autorizada {#set-up-an-authorized-support-contact}
@@ -34,7 +34,7 @@ ht-degree: 0%
 1. Solicite a TI que configure un registro DNS para su CNAME de correo electrónico
 1. Solicitar a TI el marketing de lista de permitidos
 1. Configuración de DKIM y SPF en el área de administración
-1. Configurar MX para [FromDomain1]
+1. Configurar MX para `[FromDomain1]`
 1. Cuando termine con el CNAME de correo electrónico, configure el CNAME de correo electrónico en Marketing
 
 ## Envío de una dirección URL para plantillas de Página de aterrizaje y correo electrónico {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Pasos de configuración](../../getting-started/setup-steps.md)
-
+>[Pasos de configuración](/help/marketo/getting-started/setup-steps.md)
