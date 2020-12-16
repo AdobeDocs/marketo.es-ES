@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Información general sobre los tokens - Documentos de marketing - Documentación del producto
 title: Información general de tokens
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Información general de tokens {#tokens-overview}
 
 Un token es una variable que se puede utilizar en los pasos de flujo de campaña [](http://docs.marketo.com/display/DOCS/Smart+Campaigns) inteligente de Marketing, [correos electrónicos](http://docs.marketo.com/display/DOCS/General), [páginas de aterrizaje](http://docs.marketo.com/display/DOCS/Landing+Pages), [fragmentos](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)y campañas [](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)web.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Explicación de los valores predeterminados {#understanding-default-values}
 
