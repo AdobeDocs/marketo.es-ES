@@ -3,21 +3,15 @@ unique-page-id: 2953455
 description: Sincronización de SFDC - Sincronización de posibles clientes - Documentos de marketing - Documentación del producto
 title: 'Sincronización de SFDC: sincronización de posibles clientes'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 
 # Sincronización SFDC: Sincronización de posibles clientes {#sfdc-sync-lead-sync}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ¿Sabía que Marketing se sincroniza desde la base de datos de Salesforce? Se sincroniza, espera 5 minutos y luego se sincroniza nuevamente. Todo el día, todos los días. A continuación se proporcionan algunos detalles sobre cómo trata Marketing a los posibles clientes de Salesforce de forma específica.
 
