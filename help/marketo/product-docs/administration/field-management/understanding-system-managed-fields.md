@@ -3,9 +3,9 @@ unique-page-id: 5472615
 description: Explicación de los campos administrados por el sistema - Documentos de marketing - Documentación del producto
 title: Explicación de los campos administrados por el sistema
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Explicación de los campos administrados por el sistema {#understanding-system-managed-fields}
 
 Es posible que haya notado que la página [de detalles de la](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona tiene una serie de campos no editables creados por Marketing. Estos datos provienen de varias fuentes y hay innumerables valores que podrían mostrarse.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Tipos de campos {#field-types}
 
