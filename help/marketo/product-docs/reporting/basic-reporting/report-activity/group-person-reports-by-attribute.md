@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Informes de personas de grupo por atributo - Documentos de marketing - Documentación del producto
 title: Informes de persona de grupo por atributo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Informes de persona de grupo por atributo {#group-person-reports-by-attribute}
 
 Puede agrupar los informes [de](http://docs.marketo.com/display/docs/basic+reporting) personas por cualquier persona o atributo de compañía.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vaya al área Actividades **** de marketing (o **Analytics**).
 
