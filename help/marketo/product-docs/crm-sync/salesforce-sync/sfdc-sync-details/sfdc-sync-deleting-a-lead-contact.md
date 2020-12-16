@@ -3,21 +3,15 @@ unique-page-id: 7515131
 description: Sincronización de SFDC - Eliminación de un posible cliente/contacto - Documentos de marketing - Documentación del producto
 title: 'Sincronización de SFDC: eliminación de un posible cliente o contacto'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Sincronización SFDC: Eliminación de un posible cliente o contacto {#sfdc-sync-deleting-a-lead-contact}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Aquí están algunos de los detalles:
 
