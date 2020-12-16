@@ -3,9 +3,9 @@ unique-page-id: 4718687
 description: Aprobar/desaprobar un modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Aprobar o desaprobar un modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Aprobar o desaprobar un modelo de ingresos {#approve-unapprove-a-revenue-model}
 
 Sólo puede tener un modelo aprobado en un momento dado.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!CAUTION]
 >
