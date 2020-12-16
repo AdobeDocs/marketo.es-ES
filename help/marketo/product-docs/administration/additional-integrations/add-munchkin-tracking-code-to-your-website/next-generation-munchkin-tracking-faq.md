@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Preguntas más frecuentes sobre el seguimiento de Munchkin de próxima generación - Documentos de marketing - Documentación del producto
 title: Preguntas más frecuentes sobre el seguimiento de Munchkin de próxima generación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Preguntas más frecuentes sobre el seguimiento de Munchkin de próxima generación {#next-generation-munchkin-tracking-faq}
 
 Estamos emocionados de anunciar que pronto comenzaremos un lanzamiento gradual de nuestra tecnología de seguimiento web de próxima generación.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Aquí están las cosas más importantes que hay que saber:
 
