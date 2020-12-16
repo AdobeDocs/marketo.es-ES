@@ -3,21 +3,15 @@ unique-page-id: 1147034
 description: Añadir a la Campaña de SFDC - Documentos de marketing - Documentación del producto
 title: Añadir a la Campaña de SFDC
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 
 # Añadir a la Campaña de SFDC {#add-to-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
