@@ -3,9 +3,9 @@ unique-page-id: 10097447
 description: Panel de base de datos - Documentos de marketing - Documentación del producto
 title: Panel de base de datos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Panel de base de datos {#database-dashboard}
 
 El Panel Base de datos sirve como instantánea para ayudarle a determinar rápidamente los atributos clave de las personas dentro de un espacio de trabajo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
