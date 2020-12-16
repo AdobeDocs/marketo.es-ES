@@ -3,9 +3,9 @@ unique-page-id: 1146997
 description: Usar un token de fecha en un paso de flujo de espera - Documentos de marketing - Documentación del producto
 title: Usar un token de fecha en un paso de flujo de espera
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Usar un token de fecha en un paso de flujo de espera {#use-a-date-token-in-a-wait-flow-step}
 
 Puede utilizar el paso Flujo de espera para pausar el viaje de una persona a través de una campaña inteligente hasta una fecha concreta que utilice un token de fecha. También puede modificar la fecha de finalización en un número determinado de días.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
