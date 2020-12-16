@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: Configuración de la captura de personas para una aplicación social - Documentos de marketing - Documentación del producto
 title: Configuración de la captura de personas para una aplicación social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Configuración de la captura de personas para una aplicación social {#configure-person-capture-for-a-social-app}
 
 Al crear una oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) referencia o una [apuesta](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede configurar la información que solicita y la información que necesita de las personas para participar.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
