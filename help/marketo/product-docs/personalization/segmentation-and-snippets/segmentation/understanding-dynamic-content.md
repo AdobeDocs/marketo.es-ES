@@ -3,9 +3,9 @@ unique-page-id: 2953417
 description: Explicación del contenido dinámico - Documentos de marketing - Documentación del producto
 title: Explicación del contenido dinámico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Explicación del contenido dinámico {#understanding-dynamic-content}
 
 Hay mucho más en la personalización que sólo &quot;Hi `{{First Name}}`&quot;. Con el contenido dinámico de Marketing to, puede personalizar la forma en que las distintas personas ven una página de aterrizaje o un correo electrónico.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ![](assets/artboard-1.png)
 
