@@ -3,21 +3,15 @@ unique-page-id: 1147013
 description: Cambiar la cadencia de Programa de compromiso - Documentos de marketing - Documentación del producto
 title: Cambiar la cadencia del Programa de compromiso
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # Cambiar la cadencia del Programa de compromiso {#change-engagement-program-cadence}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Información general
 
