@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Administrar datos de Perfiles sociales - Documentos de marketing - Documentación de productos
 title: Administrar datos de Perfiles sociales
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Administrar datos de Perfiles sociales {#manage-social-profile-data}
 
 Cuando alguien interactúa con una aplicación [](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)social de marketing o autoriza a su red social a rellenar previamente un formulario de marketing con relleno [de formulario](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)social, Marketing captura todos los datos disponibles en su perfil social. Puede vista esta información en la página [Detalles de la](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)persona o agregarla como columna en una vista [personalizada de una lista](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)inteligente.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 El relleno de formularios sociales y las aplicaciones sociales capturan conjuntos de campos ligeramente diferentes; consulte la sección de cada uno de ellos a continuación.
 
