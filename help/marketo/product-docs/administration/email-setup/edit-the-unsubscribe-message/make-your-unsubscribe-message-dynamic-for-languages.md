@@ -3,21 +3,15 @@ unique-page-id: 6848782
 description: Hacer que el mensaje de cancelación de suscripciones sea dinámico para los idiomas - Documentos de marketing - Documentación del producto
 title: Dinamizar el mensaje de cancelación de suscripción para los idiomas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
 
 
 # Dinamizar el mensaje de cancelación de suscripción para los idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 El mensaje y el vínculo predeterminados de cancelación de suscripción están en inglés. Puede utilizar contenido dinámico para mostrarlo en distintos idiomas.
 
