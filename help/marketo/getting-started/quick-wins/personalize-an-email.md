@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Personalización de un correo electrónico - Documentos de marketing - Documentación del producto
 title: Personalización de un correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Misión: Personalice sus correos electrónicos agregando tokens de datos {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
->* [Enviar una explosión de correo electrónico](send-an-email.md)
->* [Perforación, Perforación, Nurtura](drip-drip-nurture.md)
+>* [Configurar y Añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Enviar una explosión de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Perforación, Perforación, Nurtura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Paso 1: Seleccionar un correo electrónico para personalizar {#step-select-an-email-to-personalize}
 
-1. Seleccione uno de los correos electrónicos de formación creados en la [anterior victoria](drip-drip-nurture.md) rápida y haga clic en **Editar borrador**.
+1. Seleccione uno de los correos electrónicos de formación creados en la [anterior victoria](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) rápida y haga clic en **Editar borrador**.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Esto crea una copia del correo electrónico como borrador. Debe aprobar el borrador para que los cambios se activen.
 
-   **Editar borrador**
-
-Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo electrónico se abrirá en una nueva ficha o ventana. En caso contrario, haga clic dos veces.
+Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo electrónico se abrirá en una nueva ficha o ventana. De lo contrario, haga clic en **Editar borrador** dos veces.
 
 ## Paso 2: Convertir al vendedor en el remitente {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo e
 
 >[!TIP]
 >
->¿Necesita un repaso rápido sobre cómo enviarse el correo electrónico? Consulte [Enviar una explosión](send-an-email.md)de correo electrónico.
-
-### Ver un video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>¿Necesita un repaso rápido sobre cómo enviarse el correo electrónico? Consulte [Enviar una explosión](/help/marketo/getting-started/quick-wins/send-an-email.md)de correo electrónico.
 
 ### Misión completada {#mission-complete}
 
@@ -120,4 +108,6 @@ Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo e
 
 <br> 
 
-[◄ Misión 6: Drip, Drip, Nurture](drip-drip-nurture.md) [Mission 8: Alerta al representante de ventas ►](alert-the-sales-rep.md)
+[◄ Misión 6: Perforación, Perforación, Nurtura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Misión 8: Alerta al representante de ventas ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
