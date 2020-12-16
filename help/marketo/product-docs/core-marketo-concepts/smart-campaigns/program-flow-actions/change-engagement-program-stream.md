@@ -3,21 +3,15 @@ unique-page-id: 1147015
 description: Cambiar flujo de Programa de compromiso - Documentos de marketing - Documentación del producto
 title: Cambiar flujo de Programa de compromiso
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 
 # Cambiar flujo de Programa de compromiso {#change-engagement-program-stream}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Información general {#overview}
 
