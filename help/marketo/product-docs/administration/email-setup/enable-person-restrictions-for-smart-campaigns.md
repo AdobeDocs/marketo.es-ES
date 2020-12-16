@@ -3,21 +3,15 @@ unique-page-id: 2360243
 description: Habilitar restricciones personales para Campañas inteligentes - Documentos de marketing - Documentación del producto
 title: Habilitar restricciones personales para Campañas inteligentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 
 # Habilitar restricciones personales para Campañas inteligentes {#enable-person-restrictions-for-smart-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Existe una función en Marketing para limitar el ***máximo ***número de personas que pueden calificar para una campaña inteligente. Esto evita enviar por correo electrónico accidentalmente toda la base de datos.
 
