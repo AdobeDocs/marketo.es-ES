@@ -3,21 +3,15 @@ unique-page-id: 6848747
 description: Descripciones de los permisos de funciones - Documentos de marketing - Documentación del producto
 title: Descripciones de los permisos de funciones
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1154'
 ht-degree: 0%
 
 ---
 
 
 # Descripciones de los permisos de funciones {#descriptions-of-role-permissions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 A continuación se muestra una lista de todos los permisos disponibles que puede asignar a sus funciones. Los permisos generalmente se asocian con áreas funcionales específicas dentro de Marketing y pueden ayudarle a controlar a qué áreas y funcionalidades tienen acceso los distintos usuarios.
 
