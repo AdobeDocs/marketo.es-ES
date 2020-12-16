@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: página de aterrizaje con un formulario - Documentos de marketing - Documentación del producto
 title: página de aterrizaje con un formulario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## Misión: Cree una página de aterrizaje con un formulario para adquirir nuevos usuarios. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
-
+>[Configurar y Añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## PASO 1: Crear un Programa {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. Seleccione la carpeta** Learning** creada en la [anterior victoria](send-an-email.md)rápida.
+1. Seleccione la carpeta **Aprendizaje** creada en la [anterior victoria](/help/marketo/getting-started/quick-wins/send-an-email.md)rápida.
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Introduzca un **nombre** de programa, seleccione un Canal*** y haga clic en** Crear**.
+1. Introduzca un **nombre** de programa, seleccione un **Canal** y haga clic en **Crear**.
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >Incluya sus iniciales al final del Nombre del programa para que sea único.
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definición**
-   >
-   >
-   >Un programa es una iniciativa de marketing específica. El **canal** está diseñado para ser el mecanismo de envío, como seminario web, patrocinio o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal.](../../product-docs/administration/tags/create-a-program-channel.md)
+   >Un programa es una iniciativa de marketing específica. El **canal** está diseñado para ser el mecanismo de envío, como seminario web, patrocinio o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ ht-degree: 0%
 
 ## PASO 2: Crear un formulario {#step-create-a-form}
 
-1. Con el programa seleccionado, haga clic en **Nuevo** y luego** Nuevo recurso local**.
+1. Con el programa seleccionado, haga clic en **Nuevo** y luego en **Nuevo recurso** local.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Asegúrese de marcar la casilla **Abrir en editor** . Si no es así, deberá hacer clic en la **ficha****Editar formulario.**
+   >Asegúrese de marcar la casilla **Abrir en editor** . Si no es así, deberá hacer clic en la ficha **Editar formulario** .
 
    >[!TIP]
    >
-   >¿No ve el editor de formularios? Es probable que el explorador haya bloqueado la ventana. Active las ventanas emergentes de [app.marketo.com](http://app.marketo.com/) en el navegador y haga clic en Editar borrador en la barra de menús superior.
+   >¿No ve el editor de formularios? Es probable que el explorador haya bloqueado la ventana. Active las ventanas emergentes de [app.marketo.com](https://app.marketo.com/) en el navegador y haga clic en Editar borrador en la barra de menús superior.
 
-1. Seleccione el campo** Dirección de correo electrónico** y marque Es **obligatorio**.
+1. Seleccione el campo Dirección **de** correo electrónico y marque **Es obligatorio**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Haga clic en** Siguiente**.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definición**
-   >
-   >En la página de seguimiento se redirige el visitante después de rellenar el formulario. La URL externa es una opción, pero hay más. Consulte [Establecer una página](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)de agradecimiento de formulario.
+   >En la página de seguimiento se redirige el visitante después de rellenar el formulario. La URL externa es una opción, pero hay más. Consulte [Establecer una página](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)de agradecimiento de formulario.
 
 1. Haga clic en **Finalizar**.
 
@@ -136,7 +121,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Introduzca un nombre de página***, seleccione una plantilla y haga clic en **Crear**.
+1. Introduzca un **nombre** de página, seleccione una plantilla y haga clic en **Crear**.
 
    >[!NOTE]
    >
@@ -168,9 +153,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definición**
-   >
-   >
    >La aprobación de la página de aterrizaje hará que esté disponible y en directo en Internet.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ ht-degree: 0%
 
 ## PASO 5: Probar el formulario {#step-test-your-form}
 
-1. Seleccione la página de aterrizaje y haga clic en** Vista Página aprobada**.
+1. Seleccione la página de aterrizaje y haga clic en **Vista Página** aprobada.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄ Enviar un mensaje de correo electrónico con una puntuación](send-an-email.md) [simple ►](simple-scoring.md)
+[◄ Enviar una explosión de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[Puntuación simple ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
