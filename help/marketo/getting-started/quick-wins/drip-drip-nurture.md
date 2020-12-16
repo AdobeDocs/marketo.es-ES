@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Derivación, goteo, nutrición - Documentos de marketing - Documentación del producto
 title: Perforación, Perforación, Nurtura
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketing. ¡Así es!
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
->* [Importar una Lista de personas](import-a-list-of-people.md)
-
->
-
+>* [Configurar y Añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Importar una Lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Paso 1: Crear un Programa de compromiso {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    >[!NOTE]
    >
-   >¿No ve el editor de correo electrónico? Es probable que el explorador haya bloqueado la ventana. Active las ventanas emergentes de [app.marketo.com](http://app.marketo.com) en el navegador y haga clic en **Editar borrador** en la barra de menús superior.
+   >¿No ve el editor de correo electrónico? Es probable que el explorador haya bloqueado la ventana. Active las ventanas emergentes de [app.marketo.com](https://app.marketo.com) en el navegador y haga clic en **Editar borrador** en la barra de menús superior.
 
 1. Introduzca un asunto.
 
@@ -92,9 +83,6 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >No te olvides de aprobar tus correos electrónicos o no podrás activarlos más tarde.
 
 1. A continuación, cree otro correo electrónico repitiendo las acciones del paso 2.
@@ -104,6 +92,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 ## Paso 3: Añadir contenido a su flujo {#step-add-content-to-your-stream}
 
 1. Ahora es el momento de crear un flujo de contenido para el programa de participación mediante los correos electrónicos que ha creado.
+
 1. Seleccione el programa de participación y haga clic en la ficha **Flujos** .
 
    ![](assets/fourteen-2.png)
@@ -114,11 +103,11 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    >[!TIP]
    >
-   >También puede utilizar el botón **Añadir contenido** o el icono de flujo **+ **.
+   >También puede utilizar el botón **Añadir contenido** o el icono de flujo **+** .
 
 ## Paso 4: Activar contenido de flujo {#step-activate-stream-content}
 
-1. Para activar todo el contenido a la vez, haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **Activar todo el contenido** .
+1. Para activar todo el contenido a la vez, haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **Activar todo el contenido**.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -134,7 +123,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    ![](assets/seventeen.png)
 
-1. Edite la configuración para que coincida con la programación que desee y haga clic en **GUARDAR**.
+1. Edite la configuración para que coincida con la programación que desee y haga clic en **Guardar**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
    ![](assets/twenty-two.png)
 
 1. Misión finalizada
+
 1. Debe recibir un correo electrónico a la hora y la cadencia que ha especificado.
 
    >[!NOTE]
    >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga más información sobre los Programas [de compromiso](http://docs.marketo.com/display/docs/drip+nurturing).
+   >Obtenga más información sobre los Programas [de compromiso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
-[◄ Misión 5: Importar una Lista de posibles clientes](import-a-list-of-people.md) [Misión 7: Personalización de un correo electrónico ►](personalize-an-email.md)
+[◄ Misión 5: Importación de una Lista de leads](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Misión 7: Personalización de un correo electrónico ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
