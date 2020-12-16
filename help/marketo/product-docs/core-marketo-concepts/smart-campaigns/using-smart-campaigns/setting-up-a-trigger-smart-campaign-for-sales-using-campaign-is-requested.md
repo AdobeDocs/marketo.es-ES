@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Configuración de una Campaña inteligente de activación para ventas mediante "Campaña solicitada" - Documentos de marketing - Documentación del producto
 title: Configuración de una Campaña inteligente de activación para ventas mediante "Campaña solicitada"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Configuración de una Campaña inteligente de activación para ventas mediante &quot;Campaña solicitada&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Una de las mejores características de Marketing es la capacidad de permitir que los vendedores participen en el esfuerzo de mercadotecnia. Están en la primera línea, interactuando con la gente. Los representantes de ventas deben tener la capacidad de dirigir la mercadotecnia en la dirección correcta.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
