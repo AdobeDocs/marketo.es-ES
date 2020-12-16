@@ -3,9 +3,9 @@ unique-page-id: 1900579
 description: Deshabilitar el seguimiento de un vínculo de correo electrónico - Documentos de marketing - Documentación del producto
 title: Deshabilitar el seguimiento de un vínculo de correo electrónico
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Deshabilitar el seguimiento de un vínculo de correo electrónico {#disable-tracking-for-an-email-link}
 
 A veces no desea habilitar la dirección URL **de seguimiento de** marketing en un vínculo de un correo electrónico. Esto resulta útil cuando la página de destino no admite parámetros de URL y puede resultar en un vínculo dañado.
-
->[!NOTE]
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 1. Seleccione el correo electrónico y haga clic en **Editar** **borrador**.
 
