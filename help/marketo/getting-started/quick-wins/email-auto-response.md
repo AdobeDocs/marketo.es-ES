@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Respuesta automática por correo electrónico - Documentos de marketing - Documentación del producto
 title: Respuesta automática de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Misión: Enviar un correo electrónico de agradecimiento cuando una persona rellene un formulario {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
->* [página de aterrizaje con un formulario](landing-page-with-a-form.md)
-
->
-
+>* [Configurar y Añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## Paso 1: Crear un correo electrónico {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Se abrirá un editor de correo electrónico en una nueva ventana o ficha. Si las ventanas emergentes están bloqueadas, haga clic en** Editar borrador** en la página de resumen de recursos para acceder al correo electrónico.
+   Se abrirá un editor de correo electrónico en una nueva ventana o ficha. Si las ventanas emergentes están bloqueadas, haga clic en **Editar borrador** en la página de resumen de recursos para acceder al correo electrónico.
 
 1. Introduzca una línea de asunto y, a continuación, haga clic con el doble en el área editable del correo electrónico.
 
    ![](assets/five-2.png)
 
-   Se abrirá un editor de texto enriquecido en la parte superior del editor de correo electrónico.
+   _Se abrirá un editor de texto enriquecido en la parte superior del editor de correo electrónico._
 
 1. Resalte el contenido de correo electrónico existente.
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Vaya a la ficha **Lista inteligente **.
+1. Vaya a la ficha Lista **** inteligente.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Estamos configurando esta campaña para que se ejecute siempre que una persona rellene el formulario que ha creado en [**Página de aterrizaje con un formulario**](landing-page-with-a-form.md).
+   Estamos configurando esta campaña para que se ejecute siempre que una persona rellene el formulario que ha creado en [**Página de aterrizaje con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
 1. Busque y arrastre el activador **Rellenar formulario** al lienzo izquierdo.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Seleccione **Mi formulario** en la lista desplegable. Haga clic en la ficha **Flujo **ficha.
+1. Seleccione **Mi formulario** en la lista desplegable. Haga clic en la ficha **Flujo** .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Arrastre la acción de flujo **Enviar correo electrónico **al lienzo izquierdo.
+1. Arrastre la acción **Enviar flujo de correo electrónico** al lienzo izquierdo.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Seleccione el correo electrónico **de respuesta** automática y vaya a la ficha **Programar **Etapa.
+1. Seleccione el correo electrónico **de respuesta** automática y vaya a la ficha **Programar** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Haga clic en **Editar**.
 
    ![](assets/8.png)
-Seleccione cada vez y haga clic en Guardar .
+
+1. Seleccione **cada vez** y haga clic en **Guardar**.
+
    ![](assets/9.png)
 
 1. Haga clic en **Activar**.
 
    ![](assets/10.png)
 
-1. Haga clic en **Activar **en la pantalla de confirmación.
+1. Haga clic en **Activar** en la pantalla de confirmación.
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ Seleccione cada vez y haga clic en Guardar .
 
 ## Paso 3: Rellenar el formulario {#step-fill-out-the-form}
 
-1. Seleccione **Mi página**. Esto se creó en la [Página de aterrizaje con una victoria rápida de Form](landing-page-with-a-form.md) .
+1. Seleccione **Mi página**. Esto se creó en la [Página de aterrizaje con una victoria rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ En pocos minutos debería ver el correo electrónico de respuesta automática en
 
 <br> 
 
-[◄ Misión 3: Simple Scoring](simple-scoring.md) [Mission 5: Importar una Lista de posibles clientes ►](import-a-list-of-people.md)
+[◄ Misión 3: Puntuación simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Misión 5: Importar una Lista de posibles clientes ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
