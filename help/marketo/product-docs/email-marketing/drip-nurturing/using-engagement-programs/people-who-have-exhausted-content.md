@@ -3,21 +3,15 @@ unique-page-id: 2359953
 description: Personas que han caducado el contenido - Documentos de marketing - Documentación del producto
 title: Personas que han caducado el contenido
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 
 # Personas que han caducado el contenido {#people-who-have-exhausted-content}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agotado todas las posibilidades y esperará inactiva hasta que se agregue más. Se puede encontrar personas que están &quot;agotadas&quot; de varias maneras.
 
