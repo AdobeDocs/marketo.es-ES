@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Enviar a un vínculo de amigo en correos electrónicos - Documentos de marketing - Documentación del producto
 title: Enviar a un vínculo de amigo en correos electrónicos
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Añadir el vínculo &quot;Avanzar a amigo&quot; a sus correos electrónicos le permite rastrear a las personas que han recibido un correo electrónico reenviado a través de este vínculo y automáticamente lo agrega como una persona nueva si no están ya en la base de datos.
 
 Por ejemplo, supongamos que Keith utiliza el vínculo &quot;Avanzar a amigo&quot; para reenviar el correo electrónico a una persona desconocida, Mark. Mark se agrega automáticamente como una persona nueva, se le asigna su propia cookie y cualquiera de sus correos electrónicos y actividades web se le vincula. Sin embargo, si Keith utiliza el botón de reenvío en su cliente de correo electrónico, Mark recibe una cookie incorrecta como Keith y su actividad se registra como Keith.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Añadir el vínculo a una plantilla de correo electrónico {#add-the-link-to-an-email-template}
 
