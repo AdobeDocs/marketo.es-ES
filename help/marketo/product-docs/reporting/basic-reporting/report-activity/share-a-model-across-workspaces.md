@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Uso compartido de un modelo en espacios de trabajo - Documentos de marketing - Documentación del producto
 title: Uso compartido de un modelo en áreas de trabajo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Uso compartido de un modelo en áreas de trabajo {#share-a-model-across-workspaces}
 
 Marketo le permite compartir un modelo en varias áreas de trabajo. Así es como.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vaya a la sección **Análisis** .
 
