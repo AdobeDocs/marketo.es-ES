@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Enviar un correo electrónico de muestra - Documentos de marketing - Documentación del producto
 title: Enviar un correo electrónico de muestra
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Enviar un correo electrónico de muestra {#send-a-sample-email}
 
 Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un correo electrónico con contenido dinámico, consulte [Previsualización de un correo electrónico con contenido](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)dinámico.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
