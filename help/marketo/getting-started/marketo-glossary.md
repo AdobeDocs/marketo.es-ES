@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glosario de marketing - Documentos de marketing - Documentación del producto
 title: Glosario de marketing
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td><strong>Posible cliente</strong></td> 
-   <td>En <strong>Marketo Engage</strong>, el término principal es el término anterior (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">sustituido por <strong>persona</strong></a>) utilizado para describir a una persona de la <strong>base</strong> de datos de Marketing con la que interactúa a través de sus campañas de marketing. En su <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, un individuo asociado con una <strong>oportunidad</strong>), independientemente de la funcionalidad de Marketing.</td> 
+   <td>En <strong>Marketo Engage</strong>, el término principal es el término anterior (sustituido por <strong>persona</strong>) utilizado para describir a una persona de la <strong>base de datos</strong> de Marketing con la que interactúa a través de sus campañas de marketing. En su <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, un individuo asociado con una <strong>oportunidad</strong>), independientemente de la funcionalidad de Marketing.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Base de datos de posibles clientes</strong></td> 
