@@ -3,21 +3,15 @@ unique-page-id: 2951259
 description: Glosario de tipo de campo personalizado - Documentos de marketing - Documentación del producto
 title: Glosario de tipo de campo personalizado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 
 # Glosario de tipo de campo personalizado {#custom-field-type-glossary}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Al crear un campo personalizado en Marketing, tiene una lista de tipos para elegir.
 
