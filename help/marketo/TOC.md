@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guía de mercadotecnia
 user-guide-description: Documentación del producto de marketing
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7840'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,6 @@ ht-degree: 0%
       + [Elementos que desproteger](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Aspectos a revisar: Capacidades principales](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Formas de obtener ayuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-   + [Explicación y uso del paquete de lanzamiento](getting-started/understanding-and-using-the-launch-pack.md)
-   + [Actualizaciones de la terminología de marketing](getting-started/updates-to-marketo-terminology.md)
 + Documentos del producto {#product-docs}
    + Mercadotecnia basada en cuenta {#account-based-marketing}
       + Configuración {#setup}
@@ -783,7 +781,7 @@ ht-degree: 0%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
