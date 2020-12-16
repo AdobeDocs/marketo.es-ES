@@ -3,21 +3,15 @@ unique-page-id: 3571809
 description: 'Paso 3 de 3: Conectar Microsoft Dynamics con Marketing (On-premies 2011) - Documentos de marketing - Documentación del producto'
 title: 'Paso 3 de 3: Conectar Microsoft Dynamics con Marketing (On-situ 2011)'
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
 
 # Paso 3 de 3: Conectar Microsoft Dynamics con Marketing (On-situ 2011) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ¡Bien! Hemos instalado la solución y configurado el usuario de sincronización. A continuación, debemos conectar Marketing y Dynamics.
 
