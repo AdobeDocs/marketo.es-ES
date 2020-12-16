@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Puntuación simple - Documentos de marketing - Documentación del producto
 title: Puntuación simple
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # Puntuación simple {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
 >* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
 >* [página de aterrizaje con un formulario](landing-page-with-a-form.md)
-
->
-
 
 
 ## Paso 1: Crear una Campaña de puntuación {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Si completó la [Página de aterrizaje con una victoria rápida de Formulario](landing-page-with-a-form.md) , debe tener el formulario. Si ha utilizado un nombre diferente para el formulario, selecciónelo.
+   >Si completó la [Página de aterrizaje con una victoria rápida de Formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) , debe tener el formulario. Si ha utilizado un nombre diferente para el formulario, selecciónelo.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Haga clic en la ficha **Flujo **ficha.
+1. Haga clic en la ficha **Flujo** .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Las buenas campañas de puntuación son clave para ofrecer a las ventas personas de alta calidad. Lea [**La Guía Definitiva de Puntuación**](http://www.marketo.com/definitive-guides/lead-scoring/)de Posibles Clientes.
+   >Las buenas campañas de puntuación son clave para ofrecer a las ventas personas de alta calidad. Lea [**La Guía Definitiva de Puntuación**](https://www.marketo.com/definitive-guides/lead-scoring/)de Posibles Clientes.
 
 1. Haga clic en la ficha **Programar** y en el botón **Activar** .
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## Paso 2: Rellenar el formulario {#step-fill-out-the-form}
 
-1. Seleccione la página de aterrizaje que ha creado en la [Página de aterrizaje con una victoria rápida de formulario](landing-page-with-a-form.md) .
+1. Seleccione la página de aterrizaje que ha creado en la [Página de aterrizaje con una victoria rápida de formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico, luego haga clic en **Enviar** .
+1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **Enviar**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ Los detalles de la persona se abrirán en una nueva ficha o ventana. ¡¿Ve cóm
 ![](assets/twenty.png)
 
 **¡Felicitaciones!** Ha creado una campaña de puntuación.
-[◄ Misión 2: página de aterrizaje con una](landing-page-with-a-form.md) misión de formulario [4: Respuesta automática por correo electrónico ►](email-auto-response.md)
+[◄ Misión 2: página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Misión 4: Respuesta automática por correo electrónico ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
