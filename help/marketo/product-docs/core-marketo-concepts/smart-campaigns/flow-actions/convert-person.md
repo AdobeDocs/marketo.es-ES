@@ -3,9 +3,9 @@ unique-page-id: 1147019
 description: Convertir persona - Documentos de marketing - Documentación del producto
 title: Convertir persona
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Sólo disponible cuando se integra con Salesforce.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Información general {#overview}
 
