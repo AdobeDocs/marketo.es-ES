@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Editar reglas de cualificación en una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Editar reglas de cualificación en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Editar reglas de cualificación en una Campaña inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
 Las reglas de cualificación controlan cuántas veces alguien puede pasar por el flujo en una campaña inteligente. De forma predeterminada, aunque alguien active una campaña inteligente varias veces, solo se enviará una vez a través del flujo. A continuación se explica cómo modificar esta configuración.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. En la campaña inteligente, haga clic en la ficha **Programar** y, a continuación, **Editar configuración**.
 
