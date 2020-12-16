@@ -3,9 +3,9 @@ unique-page-id: 2359965
 description: Información general sobre el tipo de informe - Documentos de marketing - Documentación del producto
 title: Información general del tipo de informe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Información general del tipo de informe {#report-type-overview}
 
 Cuando [cree un informe en un programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), elija el tipo de informe que desee.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Informes más utilizados {#most-used-reports}
 
