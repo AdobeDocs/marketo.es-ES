@@ -3,21 +3,15 @@ unique-page-id: 2360360
 description: Creación de un Webgancho - Documentos de marketing - Documentación del producto
 title: Creación de un enlace web
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 
 # Creación de un enlace web {#create-a-webhook}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 Utilice los enlaces web para aprovechar los servicios web de terceros para enviar mensajes de texto, ampliar los datos personales y mucho más.
 
