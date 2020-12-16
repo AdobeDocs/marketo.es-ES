@@ -3,21 +3,15 @@ unique-page-id: 7515133
 description: Sincronización de SFDC - Combinación de un posible cliente/contacto/persona - Documentos de marketing - Documentación del producto
 title: 'Sincronización de SFDC: combinación de un posible cliente, contacto o persona'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 
 # Sincronización SFDC: Combinación de un posible cliente, un contacto o una persona {#sfdc-sync-merging-a-lead-contact-person}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 A veces es mejor sólo lista las reglas. Aquí vamos:
 
