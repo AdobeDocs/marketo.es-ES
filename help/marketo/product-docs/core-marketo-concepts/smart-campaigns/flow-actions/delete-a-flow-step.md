@@ -3,21 +3,15 @@ unique-page-id: 1146987
 description: Eliminar un paso de flujo - Documentos de marketing - Documentación del producto
 title: Eliminar un paso de flujo
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 
 # Eliminar un paso de flujo {#delete-a-flow-step}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!CAUTION]
 >
