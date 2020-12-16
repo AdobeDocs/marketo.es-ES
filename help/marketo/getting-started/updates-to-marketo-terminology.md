@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Actualizaciones de la terminología de marketing - Documentos de marketing - Documentación del producto
 title: Actualizaciones de la terminología de marketing
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes
 >Los mosaicos visibles en la pantalla de inicio reflejarán los módulos comprados.
 
 Gracias por su paciencia durante esta actualización.
-
