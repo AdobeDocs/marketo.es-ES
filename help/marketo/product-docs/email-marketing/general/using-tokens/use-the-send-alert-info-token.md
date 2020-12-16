@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Usar el testigo de información de alerta de envío {{SP_Send_Alert_Info}} - Documentos de marketing - Documentación del producto
 title: Usar el testigo Enviar información de alerta
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Usar el testigo Enviar información de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
 
 El `{{SP_Send_Alert_Info}}` token es un token especial que se utiliza al crear mensajes de correo electrónico de alerta para el equipo de ventas.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!TIP]
 >
