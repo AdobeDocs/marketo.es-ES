@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: Crear una segmentación - Documentos de marketing - Documentación del producto
 title: Crear una segmentación
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Crear una segmentación {#create-a-segmentation}
 
 La segmentación le permite agrupar personas en perfiles distintos para el sistema de informes y el contenido dinámico. Así es como crearlos.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vaya a **Base de datos**.
 
