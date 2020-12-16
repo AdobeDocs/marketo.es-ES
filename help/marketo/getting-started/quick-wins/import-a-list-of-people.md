@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Importar una Lista de personas - Documentos de marketing - Documentación del producto
 title: Importar una Lista de personas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## Misión: Importar una lista de hoja de cálculo de asistentes a la presentación de informes en la base de datos {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [Configurar y Añadir una persona](get-set-up-and-add-a-person.md)
+>[Configurar y Añadir una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  En este tutorial, aprenderá a importar personas de un archivo de hoja de cálculo en Marketing.
+En este tutorial, aprenderá a importar personas de un archivo de hoja de cálculo en Marketing.
 
 ## Paso 1: Descargar y editar una hoja de cálculo {#step-download-and-edit-a-spreadsheet}
 
-1. Para inicio, descargue nuestro archivo de hoja de cálculo de prácticas (** [asistentes a la presentación.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) en su equipo.
+1. Para inicio, descargue nuestro archivo de hoja de cálculo de prácticas ([**comercio-asistentes.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) en su equipo.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Al importar una fecha, utilice este formato: **21/9/15** (Mes/Día/Año).
+   >Al importar una fecha, utilice este formato: **21/9/20** (Mes/Día/Año).
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Asigne un nombre** al programa &quot;Mi Programa de presentación&quot; y seleccione &quot;Evento&quot; para el tipo de **Programa.**
+1. **Asigne un nombre** al programa &quot;Mi Programa de presentación&quot; y seleccione &quot;Evento&quot; para el tipo **de** Programa.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Los programas de evento se producen en fechas específicas. Más información sobre [**Eventos**](http://docs.marketo.com/display/docs/events).
+>Los programas de evento se producen en fechas específicas. Más información sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Paso 3: Importar la hoja de cálculo en Marketing {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >En el modo de importación de Listas, si elige **Omitir nuevas personas y actualizaciones** , no afectará a los registros de personas existentes ni registrará actividades. Utilice este modo si desea una lista estática rápida y prefiltrada de las personas existentes para utilizarla en sus actividades de marketing. Al seleccionar este modo:
    >
-   >    
-   >    
-   >    * Omitir la creación de nuevas personas
-   >    * Omitir actualizaciones de campo de persona
-   >    * Omitir registro de actividades
+   > * Omitir la creación de nuevas personas
+   > * Omitir actualizaciones de campo de persona
+   > * Omitir registro de actividades
 
 
 1. Asigne los campos Columna de Lista a su correspondiente Campo de marketing y haga clic en **Siguiente**.
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Los encabezados de columna siempre deben coincidir exactamente con el campo (distinguen mayúsculas de minúsculas) para obtener los mejores resultados de asignación automática. Si está utilizando campos personalizados y no los ve en la lista desplegable, vuelva atrás y [cree los](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) campos para que se conviertan en opciones.
+   >Los encabezados de columna siempre deben coincidir exactamente con el campo (distinguen mayúsculas de minúsculas) para obtener los mejores resultados de asignación automática. Si está utilizando campos personalizados y no los ve en la lista desplegable, vuelva atrás y [cree los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) campos para que se conviertan en opciones.
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Puede analizar el éxito de su programa mediante el seguimiento de la pertenencia a programas. Más información sobre [**Programas**](http://docs.marketo.com/display/docs/programs).
+>Puede analizar el éxito de su programa mediante el seguimiento de la pertenencia a programas. Más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Misión completada {#mission-complete}
 
@@ -158,4 +138,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄ Misión 4: Respuesta](email-auto-response.md) automática por correo electrónico [Misión 6: Derivación, Derivación, Nurtura ►](drip-drip-nurture.md)
+[◄ Misión 4: Respuesta automática de correo electrónico](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Misión 6: Derivación, Derivación, Nurtura ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
