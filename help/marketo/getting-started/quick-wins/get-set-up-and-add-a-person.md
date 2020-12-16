@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Configurar y Añadir una persona - Documentos de marketing - Documentación del producto
 title: Configurar y Añadir una persona
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Hay algunas cosas que hacer antes de comenzar las misiones.
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 ## Paso 1: Iniciar sesión en Marketing {#step-log-in-to-marketo}
 
-1. [Inicie sesión en Marketing](http://app.marketo.com) con las credenciales que recibió por correo electrónico.
+1. [Inicie sesión en Marketing](https://app.marketo.com) con las credenciales que recibió por correo electrónico.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ Añada usted mismo como una persona en Marketing para poder enviarse correos ele
 
    ![](assets/seven.png)
 
-1. Escriba su nombre y apellidos, dirección de correo electrónico y nombre de compañía, luego haga clic en **Crear **para agregarse como persona.
+1. Escriba su nombre y apellidos, dirección de correo electrónico y nombre de compañía, luego haga clic en **Crear** para agregarse como persona.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ Añada usted mismo como una persona en Marketing para poder enviarse correos ele
 
    ![](assets/nine.png)
 
-1. Haga clic en la ficha **Personas **ficha. Deberías verte en la base de datos.
+1. Haga clic en la ficha **Personas** . Deberías verte en la base de datos.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Añada usted mismo como una persona en Marketing para poder enviarse correos ele
 
 <br> 
 
-[Misión 1: Enviar una explosión de correo electrónico ►](send-an-email.md)
+[Misión 1: Enviar una explosión de correo electrónico ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
