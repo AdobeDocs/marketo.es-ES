@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Informe Personas por estado - Documentos de marketing - Documentación del producto
 title: Informe Personas por estado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Informe Personas por estado {#people-by-status-report}
 
 Revise la eficacia con la que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen cada mes en el valor de Estado *de* persona.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Cree un informe](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe [Personas por estado](report-type-overview.md).
 1. [Configure el intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe** .
