@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: Crear una Lista estática - Documentos de marketing - Documentación del producto
 title: Crear una Lista estática
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Crear una Lista estática {#create-a-static-list}
 
 Las listas estáticas son un grupo de personas que ya están en la base de datos. Así es como crear uno.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vaya a **Base de datos**.
 
