@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Preparación para su Evento - Documentos de marketing - Documentación del producto
 title: Preparar para su Evento
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Preparar para su Evento {#prepare-for-your-event}
 
 Hay varias cosas que tienes que hacer para prepararte para el evento.
-
->[!NOTE]
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](/help/marketo/getting-started/updates-to-marketo-terminology.md).
 
 ## Crear una nueva función de marketing {#create-a-new-marketo-role}
 
