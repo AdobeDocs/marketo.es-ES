@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Explicación de las Campañas inteligentes por lotes y activadoras - Documentos de marketing - Documentación del producto
 title: Explicación de las Campañas inteligentes por lotes y activadoras
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Explicación de las Campañas inteligentes por lotes y activadoras {#understanding-batch-and-trigger-smart-campaigns}
 
 Existen dos tipos de campañas inteligentes: Lote y activador.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Campaña inteligente por lotes {#batch-smart-campaign}
 
