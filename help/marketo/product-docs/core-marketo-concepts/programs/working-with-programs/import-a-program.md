@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importar un Programa - Documentos de marketing - Documentación del producto
 title: Importación de un Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Importación de un Programa {#import-a-program}
 
 Un programa se puede importar de una suscripción de marketing a otra. Por ejemplo, puede crear un programa en un simulador para pruebas y luego importarlo en la suscripción activa. Además, puede importar un programa precompilado desde la Biblioteca de Programas de Marketing to.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ## Importación de un Programa {#import-a-program-1}
 
