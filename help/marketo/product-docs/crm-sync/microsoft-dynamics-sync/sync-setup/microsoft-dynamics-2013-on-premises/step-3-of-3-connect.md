@@ -3,21 +3,15 @@ unique-page-id: 3571819
 description: Paso 3 de 3 - Connect Marketing y Dynamics (On-premies 2013) - Documentos de marketing - Documentación del producto
 title: Paso 3 de 3 - Connect Marketing y Dynamics (On-situ 2013)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
 
 # Paso 3 de 3: Connect Marketing y Dynamics (locales de 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 ¡Bien! Hemos instalado la solución y configurado el usuario de sincronización. A continuación, debemos conectar Marketing y Dynamics.
 
