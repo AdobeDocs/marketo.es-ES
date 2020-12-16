@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Asignar particiones de persona a espacios de trabajo - Documentos de marketing - Documentación del producto
 title: Asignar particiones de persona a espacios de trabajo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Asignar particiones de persona a espacios de trabajo {#assign-person-partitions-to-workspaces}
 
 A continuación se muestra cómo editar las asignaciones de partición de persona/espacio de trabajo:
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
