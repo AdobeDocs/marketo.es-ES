@@ -3,21 +3,15 @@ unique-page-id: 10098812
 description: Configuración de la atribución de ingresos para Campañas de publicidad digital - Documentos de marketing - Documentación del producto
 title: Configurar la atribución de ingresos para Campañas de publicidad digital
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
 
 
 # Configurar la atribución de ingresos para Campañas de publicidad digital {#set-up-revenue-attribution-for-digital-advertising-campaigns}
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 A continuación se muestra cómo configurar la atribución de ingresos para canales y campañas de publicidad digital. Una vez configurada, puede realizar la atribución de ingresos de primer toque y de varios toques para anuncios digitales de la misma manera que en otros programas de marketing.
 
