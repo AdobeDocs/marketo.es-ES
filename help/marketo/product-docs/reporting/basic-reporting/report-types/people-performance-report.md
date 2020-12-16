@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Informe Rendimiento de las personas - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de personas
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Informe de rendimiento de personas {#people-performance-report}
 
 Utilice un informe de rendimiento de personas para medir el crecimiento de la base de datos con el paso del tiempo. Puede ver cuántas personas agregó y cuándo. Obtenga más información sobre las personas y evalúe sus programas. Agrupe los resultados por cualquier persona o atributo de compañía, o por [segmentación](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. [Cree un informe](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe Rendimiento de [personas](report-type-overview.md).
 1. [Configure el intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe** .
