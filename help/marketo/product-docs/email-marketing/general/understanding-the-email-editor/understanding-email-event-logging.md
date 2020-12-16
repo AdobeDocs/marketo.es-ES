@@ -3,9 +3,9 @@ unique-page-id: 1147356
 description: Explicación del registro de Eventos de correo electrónico - Documentos de marketing - Documentación del producto
 title: Explicación del registro de Eventos de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Explicación del registro de Eventos de correo electrónico {#understanding-email-event-logging}
 
 Al enviar mensajes de correo electrónico, Marketo registra diferentes puntos de datos en los registros de actividad de la persona. Aquí están los básicos.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 | Evento | Descripción |
 |---|---|
