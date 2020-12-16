@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Alertar al representante de ventas - Documentos de marketing - Documentación del producto
 title: Alertar al representante de ventas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Para enviar automáticamente correos electrónicos de alerta a los representantes de ventas, todo lo que necesita es un correo electrónico de alerta y una campaña por correo electrónico. Así es como hacerlo.
 
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
-
 >[!PREREQUISITES]
 >
->* [página de aterrizaje con un formulario](landing-page-with-a-form.md)
-
->
-
-
+>[página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Paso 1: Crear un correo electrónico de alerta {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    ![](assets/one-5.png)
 
-1. Seleccione **Mi Programa** que ha creado en la [Página de aterrizaje con una ganancia rápida de formulario](landing-page-with-a-form.md) y, a continuación, en **Nuevo** , haga clic en **Nuevo recurso** local.
+1. Seleccione **Mi Programa** que ha creado en la [Página de aterrizaje con una ganancia rápida de formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) y, a continuación, en **Nuevo** , haga clic en **Nuevo recurso** local.
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} es un token especial para los mensajes de correo electrónico de alerta. Consulte [Uso del testigo](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar información de alerta para obtener más información.
+   >{{SP_Send_Alert_Info}} es un token especial para los mensajes de correo electrónico de alerta. Consulte [Uso del testigo](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar información de alerta para obtener más información.
 
 1. Haga clic en **Guardar**.
 
@@ -87,7 +77,7 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
 ## Paso 2: Crear una Campaña de desencadenador de alertas {#step-create-an-alert-trigger-campaign}
 
-1. Seleccione **Mi Programa** creado anteriormente y, a continuación, en **Nuevo **haga clic en **Nueva Campaña** inteligente.
+1. Seleccione **Mi Programa** creado anteriormente y, a continuación, en **Nuevo** , haga clic en **Nueva Campaña** inteligente.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    ![](assets/nineteen-2.png)
 
-1. Vaya a la ficha **Programar** y haga clic en el botón **Activar **Ver.
+1. Vaya a la ficha **Programación** y haga clic en el botón **Activar** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Configure las reglas **de** cualificación en **cada vez** (editando la Campaña inteligente) para permitir que la misma persona active las alertas varias veces.
 
@@ -135,9 +124,6 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >No te olvides de aprobar páginas de aterrizaje; no se activan hasta que se aprueban.
 
@@ -155,4 +141,6 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
 <br> 
 
-[◄ Misión 7: Personalice un correo electrónico](personalize-an-email.md) [de Misión 9: Actualizar datos de posibles clientes ►](update-person-data.md)
+[◄ Misión 7: Personalización de un correo electrónico](personalize-an-email.md)
+
+[Misión 9: Actualizar datos de posibles clientes ►](update-person-data.md)
