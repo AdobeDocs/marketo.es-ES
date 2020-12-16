@@ -3,9 +3,9 @@ unique-page-id: 1146897
 description: Eliminar personas en una Lista o Lista inteligente - Documentos de marketing - Documentación del producto
 title: Eliminar personas en una Lista o Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Eliminar personas en una Lista o Lista inteligente {#delete-people-in-a-smart-list-or-list}
 
 Puede eliminar rápida y fácilmente a algunas o todas las personas que se encuentran en una lista o en una lista inteligente.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!PREREQUISITES]
 >
