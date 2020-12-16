@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Mostrar formulario HTML personalizado para personas conocidas - Documentos de marketing - Documentación del producto
 title: Mostrar formulario HTML personalizado para personas conocidas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Mostrar formulario HTML personalizado para personas conocidas {#show-custom-html-form-for-known-people}
 
 Si un visitante recibe una cookie (una persona conocida que proporcionó una dirección de correo electrónico en el pasado), ¿por qué molestarse con el formulario? Simplemente déles el botón de descarga. Así es como.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 1. Vaya a **Marketing** **Actividades**.
 
