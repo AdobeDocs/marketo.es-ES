@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Crear un nuevo espacio de trabajo - Documentos de marketing - Documentación del producto
 title: Crear un nuevo espacio de trabajo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,6 @@ Los espacios de trabajo son útiles para subdividir la compañía. Las razones p
 * Unidad de negocio A frente a unidad de negocio B
 
 A continuación se explica cómo crear un nuevo espacio de trabajo.
-
->[!NOTE]
->
->**FYI**
->
->Marketo ahora está estandarizando el idioma en todas las suscripciones, por lo que puede ver posibles clientes/posibles clientes en su suscripción y persona/personas en docs.marketo.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Más información](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology).
 
 >[!NOTE]
 >
