@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir un token de script de correo electrónico a su correo electrónico {#add-an-email-script-token-to-your-email}
 
-Después de [crear el script de correo electrónico,](create-an-email-script-token.md)querrá agregarlo a un mensaje de correo electrónico para verlo en acción. Así es como.
+Una vez que haya [creado el script de correo electrónico,](create-an-email-script-token.md)querrá agregarlo a un mensaje de correo electrónico para verlo en acción. Así es como.
 
 >[!NOTE]
 >
@@ -55,6 +55,6 @@ Después de [crear el script de correo electrónico,](create-an-email-script-tok
 >
 >**Recordatorio**
 >
->No te olvides de [aprobar el correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>No olvide [aprobar el correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 ¡Eso es todo! Cuando se envía este correo electrónico, la secuencia de comandos que hay detrás del token se ejecuta y rellena el contenido.
