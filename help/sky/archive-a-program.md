@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Para archivar un programa, deberá moverlo a una carpeta de archivo independiente.
 
-1. Cree una nueva carpeta de campañas haciendo clic con el botón derecho en el globo de trabajo y seleccionando **[!UICONTROL Nueva carpeta]** de campaña.
+1. Cree una nueva carpeta de campaña haciendo clic con el botón derecho en el globo de trabajo y seleccionando **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![Imagen uno](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
@@ -30,7 +30,7 @@ Para archivar un programa, deberá moverlo a una carpeta de archivo independient
 
    ![Imagen Cuatro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Convertir en carpeta]** de archivo.
+1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Convertir en carpeta de archivo]**.
 
    ![Imagen cinco](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
@@ -49,7 +49,7 @@ El icono de carpeta cambiará a un archivador de archivos, como se muestra a con
 
 >
 >
-Las siguientes funcionalidades **no cambian** al archivar:
+Las siguientes funcionalidades **no** cambian al archivar:
 >
 >* La búsqueda global aún encuentra resultados en carpetas archivadas.
 >* Un recurso que está en uso seguirá funcionando incluso después de archivarlo.
