@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Después de crear un objeto personalizado, debe agregarle campos para satisfacer sus necesidades comerciales.
 
-Los campos definen la información específica utilizada por un objeto personalizado. Los campos de vínculo tienen un trabajo especial para conectar objetos personalizados y se tratan en un artículo [](add-marketo-custom-object-link-fields.md)independiente.
+Los campos definen la información específica utilizada por un objeto personalizado. Los campos de vínculo tienen un trabajo especial para conectar objetos personalizados y se tratan en un [artículo independiente](add-marketo-custom-object-link-fields.md).
 
-1. Haga clic en **Administración** y, en Administración **de** bases de datos, seleccione **Comercializar objetos** personalizados.
+1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +25,7 @@ Los campos definen la información específica utilizada por un objeto personali
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. En la ficha **Campos**, haga clic en **Nuevo campo**.
+1. En la ficha **Campos **, haga clic en **Nuevo campo**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -60,7 +60,7 @@ Los campos definen la información específica utilizada por un objeto personali
    >**Recordatorio**
    >
    >
-   >Si está creando una estructura de uno a varios, debe agregar un campo Vínculo al objeto personalizado. Para una estructura de varios a varios, no necesita un campo de vínculo en el objeto personalizado, pero debe agregar dos campos de vínculo en el objeto intermedio. Consulte [Añadir campos](add-marketo-custom-object-link-fields.md) de vínculo de objeto personalizados de marketing para crear los campos de vínculo y [Explicación de los objetos](understanding-marketo-custom-objects.md) personalizados de marketing para obtener más información sobre los tipos de objetos personalizados.
+   >Si está creando una estructura de uno a varios, debe agregar un campo Vínculo al objeto personalizado. Para una estructura de varios a varios, no necesita un campo de vínculo en el objeto personalizado, pero debe agregar dos campos de vínculo en el objeto intermedio. Consulte [Añadir campos de vínculo de objeto personalizado de marketing](add-marketo-custom-object-link-fields.md) para crear los campos de vínculo y [Explicación de los objetos personalizados de marketing](understanding-marketo-custom-objects.md) para obtener más información sobre los tipos de objetos personalizados.
 
 >[!MORELIKETHIS]
 >
