@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Explicación y uso del paquete de lanzamiento {#understanding-and-using-the-launch-pack}
+# Explicación y uso del Launch Pack {#understanding-and-using-the-launch-pack}
 
 ![](assets/coming-soon.png)
 
