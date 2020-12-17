@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Personas que han caducado el contenido {#people-who-have-exhausted-content}
+# Personas que han agotado el contenido {#people-who-have-exhausted-content}
 
 Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agotado todas las posibilidades y esperará inactiva hasta que se agregue más. Se puede encontrar personas que están &quot;agotadas&quot; de varias maneras.
 
-## Miembro del filtro Programa de compromiso {#member-of-engagement-program-filter}
+## Miembro del filtro de Programa de compromiso {#member-of-engagement-program-filter}
 
-1. Cree una nueva lista inteligente y, a continuación, busque y arrastre el filtro de Programa **** Miembro de compromiso.
+1. Cree una nueva lista inteligente, luego busque y arrastre el Programa **Miembro de compromiso**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. En **Añadir restricción**, seleccione **Contenido** agotado.
+1. En **Añadir restricción**, seleccione **Contenido agotado**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Establezca **Contenido** agotado en **true**.
+1. Establezca **Contenido agotado** en **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
 ## Ficha Miembros {#members-tab}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione el programa de participación y vaya a la ficha **Miembros** .
+1. Seleccione el programa de participación y vaya a la ficha **Miembros**.
 
    ![](assets/memberstab.jpg)
 
-1. Observe la columna denominada **Contenido** agotado.
+1. Observe la columna denominada **Contenido agotado**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
