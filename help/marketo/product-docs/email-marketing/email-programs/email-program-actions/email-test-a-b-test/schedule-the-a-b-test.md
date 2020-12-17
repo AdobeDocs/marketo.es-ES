@@ -31,7 +31,7 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Seleccione la hora de **envío de prueba** .
+1. Seleccione la hora **Enviar prueba**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -39,7 +39,7 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
    >
    >Enviar prueba y enviar ganador deben tener al menos 4 horas de diferencia. Sin embargo, para los envíos más grandes puede que desee esperar 24 horas para permitir tiempo suficiente para obtener buenos resultados.
 
-1. Haga lo mismo con **Send Winner**. Introduzca destinatarios de notificación (opcional) y haga clic en **Siguiente**.
+1. Haga lo mismo con **Enviar ganador**. Introduzca destinatarios de notificación (opcional) y haga clic en **Siguiente**.
 
    >[!NOTE]
    >
@@ -52,12 +52,12 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
    >[!NOTE]
    >
-   >Si elige declarar un ganador manualmente, definirá la fecha y hora de envío **de** informes en lugar de la fecha y hora de **finalización del envío** .
+   >Si elige declarar un ganador manualmente, definirá **Envío de informe** fecha y hora en lugar de **Finalizar envío de correo** fecha y hora.
 
    ¡Super! Ya ha terminado, solo tiene que revisar el resumen y hacer clic en Cerrar.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Observará que el mosaico **Programar** se ha actualizado.
+   Observará que el mosaico **Schedule** se ha actualizado.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
