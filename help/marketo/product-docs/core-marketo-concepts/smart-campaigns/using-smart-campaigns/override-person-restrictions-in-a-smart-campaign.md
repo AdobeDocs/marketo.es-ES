@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Anular restricciones de persona en una Campaña inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo le permite establecer el número máximo* *de personas que pueden optar a una campaña inteligente; esto le ayuda a evitar enviar por correo electrónico accidentalmente toda la base de datos. Si quieres *anular* este límite, así es como.
+Marketo le permite establecer el número máximo* *de personas que pueden optar a una campaña inteligente; esto le ayuda a evitar enviar por correo electrónico accidentalmente toda la base de datos. Si desea *sobrescribir* este límite, así es como.
 
 >[!PREREQUISITES]
 >
->Asegúrese de [habilitar las restricciones personales para campañas](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) inteligentes en Administración de marketing.
+>Asegúrese de [habilitar las restricciones personales para campañas inteligentes](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) en Administración de mercadotecnia.
 
-1. En Actividades de marketing, vaya a la campaña**** inteligente y haga clic en **Programar**.
+1. En Actividades de marketing, vaya a la campaña****inteligente y haga clic en **Programar**.
 
    ![](assets/one.png)
 
@@ -30,7 +30,7 @@ Marketo le permite establecer el número máximo* *de personas que pueden optar 
    >
    >El límite predeterminado es el establecido en Administración.
 
-1. Introduzca un nuevo límite y haga clic en **Guardar.**
+1. Escriba un nuevo límite y haga clic en **Guardar.**
 
    ![](assets/three.png)
 
