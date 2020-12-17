@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede exportar los resultados de las palabras clave para compartirlos con su equipo o para crear un informe.
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
