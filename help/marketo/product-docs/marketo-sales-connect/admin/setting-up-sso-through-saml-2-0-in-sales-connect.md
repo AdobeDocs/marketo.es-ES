@@ -19,7 +19,7 @@ Se admite SSO mediante la especificación SAML 2.0. Sin embargo, no tenemos inte
 >
 >**Recordatorio**
 >
->Esto solo es aplicable a los clientes de **Marketingto Sales Connect** . Si no dispone de Sales Connect pero desea obtener más información, póngase en contacto con el administrador de éxito del cliente.
+>Esto solo se aplica a los clientes de **Marketing Sales Connect**. Si no dispone de Sales Connect pero desea obtener más información, póngase en contacto con el administrador de éxito del cliente.
 
 ## Requisitos {#requirements}
 
@@ -31,8 +31,8 @@ Se admite SSO mediante la especificación SAML 2.0. Sin embargo, no tenemos inte
 
 El archivo metadata.xml de la instancia de SSO de su equipo debe contener la dirección URL del emisor, el punto final para la validación y una clave pública.
 
-También necesitaremos la ubicación SSO para que la cuenta SSO de su compañía sea un dominio único. Por ejemplo, nos `require a unique subdomain` gusta ‘toutapp.pingidentity.com&#39; o similar. Sin este tipo de identificador único, no podremos configurar SAML desde el panel.
+También necesitaremos la ubicación SSO para que la cuenta SSO de su compañía sea un dominio único. Por ejemplo, nos gusta `require a unique subdomain` ‘toutapp.pingidentity.com&#39; o similar. Sin este tipo de identificador único, no podremos configurar SAML desde el panel.
 
-Un inicio de sesión y Okta no siempre proporcionan identificadores únicos al asignar una dirección URL. Si utiliza Okta o un inicio de sesión significa que no podremos configurar un inicio de sesión desde el botón de panel. Todavía podremos configurarlo desde el botón Registro único de la aplicación [](http://toutapp.com/login)web.
+Un inicio de sesión y Okta no siempre proporcionan identificadores únicos al asignar una dirección URL. Si utiliza Okta o un inicio de sesión significa que no podremos configurar un inicio de sesión desde el botón de panel. Todavía podremos configurarlo desde el botón Registro único en la [aplicación Web](http://toutapp.com/login).
 
 Una vez que tengamos esa información, trabajaremos con nuestro equipo de ingeniería para configurar esto para su suscripción.
