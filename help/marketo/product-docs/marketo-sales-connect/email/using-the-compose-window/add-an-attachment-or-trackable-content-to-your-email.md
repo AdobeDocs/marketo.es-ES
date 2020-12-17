@@ -55,7 +55,7 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
 
    ![](assets/three-4.png)
 
-1. Seleccione el contenido que desee agregar, haga clic en el control deslizante **Contenido rastreado** y, a continuación, haga clic en **Insertar**.
+1. Seleccione el contenido que desee agregar, haga clic en el deslizador **Contenido rastreado** y haga clic en **Insertar**.
 
    ![](assets/four-4.png)
 
