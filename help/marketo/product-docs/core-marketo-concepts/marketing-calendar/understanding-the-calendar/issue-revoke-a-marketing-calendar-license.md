@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Emitir o revocar una licencia de calendario de mercadotecnia {#issue-revoke-a-marketing-calendar-license}
+# Emitir/Revocar una licencia de calendario de mercadotecnia {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-Para utilizar las licencias del Calendario [de](http://docs.marketo.com/display/docs/marketing+calendar) marketing, debe otorgar licencias a los usuarios que necesiten acceder a ellas. Así es como.
+Para utilizar sus [licencias del Calendario de mercadotecnia](http://docs.marketo.com/display/docs/marketing+calendar), debe otorgar licencias a los usuarios que necesiten acceso. Así es como.
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/adminhand.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Haga clic en **Usuarios y roles**.
 
    ![](assets/2.png)
 
-1. Seleccione los usuarios y haga clic en Licencia de **publicación.**
+1. Seleccione los usuarios y haga clic en **Licencia de emisión.**
 
    >[!TIP]
    >
@@ -35,7 +35,7 @@ Para utilizar las licencias del Calendario [de](http://docs.marketo.com/display/
 
    ![](assets/3.png)
 
-1. Marque **Activar licencia** y haga clic en **Guardar.**
+1. Marque **Habilitar licencia** y haga clic en **Guardar.**
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Para utilizar las licencias del Calendario [de](http://docs.marketo.com/display/
 
    ![](assets/4.png)
 
-   ¡Bien hecho! ¿Ve la marca de verificación verde en **Calendario**?
+   ¡Bien hecho! Consulte la marca de verificación verde en **Calendario**?
 
    ![](assets/5.png)
 
