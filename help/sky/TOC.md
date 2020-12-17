@@ -14,13 +14,13 @@ ht-degree: 0%
 ---
 
 
-# Documentos Marketo Sky {#sky}
+# Documentos de Marketo Sky {#sky}
 
 + [Inicio](home.md)
 + Introducción {#getting-started}
    + [Funciones de Marketo Sky](marketo-sky-features.md)
    + [Cómo empezar](how-to-enable-roles-for-marketo-sky.md)
-+ Programas evento {#event-programs}
++ Programas de evento {#event-programs}
    + [Configuración de un tapón de Evento](setting-an-event-cap.md)
    + [Configuración de los objetivos de Evento](setting-event-goals.md)
 + Carpetas de campaña {#campaign-folders}
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Recursos locales: Acciones masivas](local-assets-mass-actions.md)
    + [Uso de la ficha Información general de Programa](using-the-program-overview-tab.md)
    + [Uso de la ficha Configuración de Programa](using-the-program-setup-tab.md)
-+ vista calandario del programa {#program-schedule-view}
++ vista de calandario del programa {#program-schedule-view}
    + [Crear una entrada básica en la Vista Calandario del programa](create-a-basic-entry-in-program-schedule-view.md)
    + [Crear una Campaña inteligente por lotes en la Vista de Calandario del programa](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Creación de un Programa de correo electrónico en la Vista de Calandario del programa](create-an-email-program-in-program-schedule-view.md)
