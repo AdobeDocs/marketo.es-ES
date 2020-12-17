@@ -23,7 +23,7 @@ A veces es necesario realizar cambios en un espacio de trabajo. Es fácil.
 >
 >**Buceo profundo**
 >
->Despliegue espacios de trabajo con [Explicación de espacios de trabajo y particiones](understanding-workspaces-and-person-partitions.md)personales.
+>Despliegue espacios de trabajo con [Explicación de espacios de trabajo y particiones personales](understanding-workspaces-and-person-partitions.md).
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones**.
 
@@ -40,13 +40,13 @@ A veces es necesario realizar cambios en un espacio de trabajo. Es fácil.
    >**Recordatorio**
    >
    >
-   >Puede [crear más particiones](create-a-person-partition.md) personales si las necesita.
+   >Puede [crear más particiones personales](create-a-person-partition.md) si las necesita.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >La casilla de verificación **Todas las particiones** personales** **significa que este espacio de trabajo puede utilizar todas las particiones de posible cliente del sistema.
+   >La casilla de verificación **Todas las particiones de persona**** **significa que este espacio de trabajo puede utilizar todas las particiones de posible cliente del sistema.
 
    >[!NOTE]
    >
