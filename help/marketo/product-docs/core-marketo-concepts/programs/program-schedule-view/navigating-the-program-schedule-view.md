@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Navegación por la Vista Calandario del programa {#navigating-the-program-schedule-view}
+# Navegación por la Vista de Calandario del programa {#navigating-the-program-schedule-view}
 
 Aquí se describen los conceptos básicos para ayudarle a navegar por la vista de calandario del programa.
 
 ## Buscar la Vista Programar {#find-the-schedule-view}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione su programa. Haga clic en la lista desplegable **Vista** . Seleccione **Programar**.
+1. Seleccione su programa. Haga clic en la lista desplegable **Vista**. Seleccione **Programar**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -53,7 +53,7 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
-## Vista a pantalla completa {#full-screen-view}
+## Vista de pantalla completa {#full-screen-view}
 
 1. Puede hacer clic en el icono de pantalla en la esquina superior derecha para vista del calandario del programa en modo de pantalla completa.
 
