@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Uso de direcciones URL en mis tokens {#using-urls-in-my-tokens}
+# Uso de direcciones URL en Mis tokens {#using-urls-in-my-tokens}
 
 Siga los pasos a continuación para usar Mis tokens para insertar direcciones URL en los correos electrónicos.
 
-1. Seleccione su programa y haga clic en **Mis tokens**.
+1. Seleccione el programa y haga clic en **Mis tokens**.
 
    ![](assets/one-4.png)
 
@@ -29,7 +29,7 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    >[!CAUTION]
    >
-   >Para asegurarse de que los clics se rastrean en el correo electrónico, **no escriba** http:// dentro del valor del token.
+   >Para asegurarse de que se rastrean los clics en el correo electrónico, **no** escriba http:// dentro del valor del token.
 
 1. Seleccione el correo electrónico en el programa.
 
