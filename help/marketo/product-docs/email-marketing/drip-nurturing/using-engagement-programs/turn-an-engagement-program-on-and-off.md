@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede desactivar un programa de participación con el botón de un conmutador. Esto impedirá que se envíe cualquier contenido. Así es como.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ Puede desactivar un programa de participación con el botón de un conmutador. E
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Haga clic con el botón doble en Estado **de Programa**.
+1. Haga clic en el doble **Estado del Programa**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
