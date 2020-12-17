@@ -29,7 +29,7 @@ Habilite o deshabilite los tokens de persona y compañía utilizados en los corr
 
    ![](assets/admin.png)
 
-1. Seleccione Administración **de campos**.
+1. Seleccione **Administración de campos**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ Habilite o deshabilite los tokens de persona y compañía utilizados en los corr
 
    ![](assets/five.png)
 
-1. Marque la casilla Codificar tokens de **HTML en correos electrónicos** para habilitar y desmarcar para deshabilitar.
+1. Marque la casilla **Codificar tokens de HTML en correos** para habilitar y desmarcar para deshabilitar.
 
    ![](assets/six.png)
 
