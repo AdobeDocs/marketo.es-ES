@@ -23,9 +23,9 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
 
 
-## Criterios estándar de campeón {#standard-champion-criteria}
+## Criterios Campeones Estándar {#standard-champion-criteria}
 
-1. Elija uno de los criterios **** campeones disponibles.
+1. Elija uno de los **Criterios de campeón** disponibles.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
    >
    >Seguiremos esta métrica y le enviaremos un informe con los datos por correo electrónico.
 
-1. Si ha seleccionado uno de los criterios **de** campeón predeterminados, continúe con [Champion/Challenger: Configurar alertas](champion-challenger-configure-report-alerts.md)de informes
+1. Si seleccionó uno de los **Criterios de campeón** predeterminados, continúe y continúe con [Campeón/Desafío: Configurar alertas de informes](champion-challenger-configure-report-alerts.md)!
 
 ## Criterios de campeón personalizados {#custom-champion-criteria}
 
-1. Si desea ponerse de acuerdo, puede ir a la página personalizada seleccionando Conversión **** personalizada y haciendo clic en **Editar**.
+1. Si desea ponerse de acuerdo, puede ir a la personalización seleccionando **Conversión personalizada** y haciendo clic en **Editar**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
