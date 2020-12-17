@@ -27,7 +27,7 @@ Si ya tiene personas asignadas a un propietario, puede utilizar este paso de flu
    >
    >Salesforce no permite que los contactos se asignen a colas de posibles clientes. Para un registro que es un contacto SFDC:
    >
-   >1. Marketo creará un lead de duplicado **solo** cuando el contacto se sincronice con Salesforce. En otras palabras, si utiliza el paso de flujo **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketing creará un lead de duplicado en Salesforce y lo asignará a la cola de posibles clientes.
+   >1. Marketing creará un posible cliente de duplicado **solamente** cuando el contacto se sincronice con Salesforce. En otras palabras, si utiliza el paso de flujo **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketing creará un lead de duplicado en Salesforce y lo asignará a la cola de posibles clientes.
       >
       >
    2. Si intenta utilizar el paso de flujo **Cambiar propietario** en un contacto, no se creará ningún duplicado en Salesforce.
