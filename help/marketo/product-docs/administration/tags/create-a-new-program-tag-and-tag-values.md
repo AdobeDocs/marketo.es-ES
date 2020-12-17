@@ -31,11 +31,11 @@ Puede crear [etiquetas](../../../product-docs/core-marketo-concepts/programs/wor
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. Haga clic en **Nuevo** y seleccione **Nuevo tipo** de etiqueta.
+1. Haga clic en **Nuevo** y seleccione **Nuevo tipo de etiqueta**.
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Introduzca el tipo **de** etiqueta y un **valor** de etiqueta. A continuación, haga clic en **Añadir otro**.
+1. Escriba el **Tipo de etiqueta** y una etiqueta **Valor**. A continuación, haga clic en **Añadir otro**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
@@ -47,13 +47,13 @@ Puede crear [etiquetas](../../../product-docs/core-marketo-concepts/programs/wor
    >
    >Puede seleccionar varios tipos de programa. Cuando se realiza un nuevo programa, este tipo de etiqueta estará disponible.
 
-1. Marque **Obligatorio** y haga clic en **Crear**.
+1. Marque **Requerido** y haga clic en **Crear**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
    >[!NOTE]
    >
-   >Si el tipo de etiqueta es **Obligatorio**, los usuarios deberán introducir un valor para la etiqueta al crear un nuevo programa.
+   >Si el tipo de etiqueta es **Requerido**, los usuarios deberán introducir un valor para la etiqueta al crear un nuevo programa.
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 
