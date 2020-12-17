@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creación de un informe de llamadas de prioridad de Salesforce con datos de Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Crear un informe de llamada de prioridad de Salesforce con datos de Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Obtenga información sobre cómo crear una lista de llamadas/informes de Salesforce mediante los datos de participación de correo electrónico de Sales Connect para centrarse en las personas u oportunidades con impulso.
 
