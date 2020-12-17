@@ -23,11 +23,11 @@ Como administrador, puede activar el registro de llamadas para sus llamadas de S
 
    ![](assets/two.png)
 
-1. Desplácese hacia abajo hasta Configuración de teléfono de Sales Connect y seleccione el **botón Activar grabación** de llamada.
+1. Desplácese hacia abajo hasta Configuración de teléfono de Sales Connect y seleccione el **Activar grabación de llamadas** alternador.
 
    ![](assets/three.png)
 
-1. Si desea que los vendedores puedan activar o desactivar la grabación de llamadas, haga clic en** Grabación opcional para todos los integrantes del equipo. **Si desea que todas las llamadas se registren automáticamente, haga clic** en Grabar todas las llamadas.**
+1. Si desea que los vendedores puedan activar o desactivar la grabación de llamadas, haga clic en** Grabación opcional para todos los integrantes del equipo. **Si desea que todas las llamadas se registren automáticamente,** haga clic en Grabar todas las llamadas.**
 
    ![](assets/four.png)
 
