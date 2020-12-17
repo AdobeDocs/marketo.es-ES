@@ -16,7 +16,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un token de número para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de **número** al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **Number** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
