@@ -19,11 +19,11 @@ ht-degree: 0%
 
 No todos los campos de Salesforce son útiles para la mercadotecnia. Puede optimizar el rendimiento de la sincronización incluyendo solo los campos que necesite. Así es como se puede ocultar un campo de Marketing.
 
-1. Haga clic en el menú de nombre y seleccione **Ajustes**.
+1. Haga clic en el menú de nombre y seleccione **Configuración**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Introduzca **perfiles** en la barra de búsqueda y haga clic en **Perfiles** en **Administrar usuarios**.
+1. Escriba **perfiles** en la barra de búsqueda y haga clic en **Perfiles** en **Administrar usuarios**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,7 +31,7 @@ No todos los campos de Salesforce son útiles para la mercadotecnia. Puede optim
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. En la sección Seguridad **a nivel de** campo, haga clic en **Vista** al lado del objeto que contiene el campo destinatario.
+1. En la sección **Seguridad a nivel de campo**, haga clic en **Vista** al lado del objeto que contiene el campo destinatario.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
