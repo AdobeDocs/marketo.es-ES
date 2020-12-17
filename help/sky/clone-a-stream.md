@@ -20,7 +20,7 @@ Clonar un flujo por varias razones, incluida la prueba de diferentes pedidos y d
 
    ![Imagen uno](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
