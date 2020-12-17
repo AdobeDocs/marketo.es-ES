@@ -20,6 +20,6 @@ Siga estos sencillos pasos para eliminar una plantilla.
 >Al eliminar una plantilla también se eliminarán TODOS los análisis y el seguimiento asociados a ella.
 
 1. Seleccione la plantilla que desee eliminar.
-1. Haga clic en el menú desplegable de la parte superior derecha y, a continuación, haga clic en **Eliminar**.
+1. Haga clic en la lista desplegable de menú en la parte superior derecha y, a continuación, haga clic en **Eliminar**.
 1. Haga clic en **Eliminar** para confirmar.
 
