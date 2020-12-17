@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Historial de inicio de sesión del usuario {#user-login-history}
+# Historial de inicio de sesión de usuario {#user-login-history}
 
 El historial de inicio de sesión del usuario ayuda a mantener la responsabilidad y la seguridad al mostrarle exactamente quién ha estado iniciando sesión en su suscripción, incluidos los intentos fallidos de inicio de sesión.
 
@@ -29,11 +29,11 @@ El historial de inicio de sesión de usuario identifica a las personas que inici
 
 Para vista del historial de inicio de sesión del usuario:
 
-1. Haga clic en la ficha **Administración** y, en Seguridad, haga clic en **Usuarios y funciones**.
+1. Haga clic en la ficha **Administración** y, en Seguridad, haga clic en **Usuarios y roles**.
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Haga clic en la ficha Historial **de** inicio de sesión. La lista muestra los inicios de sesión más recientes.
+1. Haga clic en la ficha **Historial de inicio de sesión**. La lista muestra los inicios de sesión más recientes.
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,13 +49,13 @@ Para vista del historial de inicio de sesión del usuario:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Seleccione usuarios en la lista desplegable **Usuarios** .** **
+1. Seleccione usuarios en la lista desplegable **Usuarios**.** **
 
    ** ![](assets/user-dropdown.jpg)
 
    **
 
-1. Marque la casilla **Solo inicios de sesión** fallidos para mostrar únicamente los inicios de sesión fallidos en la búsqueda.
+1. Marque la casilla **Solo inicios de sesión fallidos** para mostrar solamente los inicios de sesión fallidos en la búsqueda.
 
    ![](assets/only-failed-logins.jpg)
 
