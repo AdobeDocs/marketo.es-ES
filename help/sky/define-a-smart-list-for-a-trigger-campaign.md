@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Haga que una campaña inteligente se ejecute en una persona a la vez en función de los eventos en directo agregando activadores.
 
-1. Elija una campaña inteligente y, a continuación, haga clic en Lista **** inteligente.
+1. Elija una campaña inteligente y haga clic en **[!UICONTROL Lista inteligente]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
    >
    >Una campaña inteligente con activadores se ejecuta en el modo Activador. Funciona de una persona a la vez en función de los eventos activados y de cualquier filtros adicional.
 
-1. Haga clic en la lista desplegable y elija un operador (por ejemplo, **[!UICONTROL es]**, no **[!UICONTROL es]**, etc.) para el activador seleccionado.
+1. Haga clic en la lista desplegable y elija un operador (p. ej. **[!UICONTROL is]**, **[!UICONTROL no es]**, etc.) para el activador seleccionado.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -48,4 +48,4 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 >
 >Con varios activadores, una persona pasa por el flujo si ALGUNO de los activadores está activado.
 >
->Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [definir la Lista inteligente para la Campaña inteligente | Lote](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir Lista inteligente para Campaña inteligente | Lote](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
