@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Probar un flujo de participación {#test-an-engagement-stream}
+# Probar un flujo de compromiso {#test-an-engagement-stream}
 
 Una vez que haya agregado todo el contenido a un flujo, puede probarlo de una en una.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Una vez que haya agregado todo el contenido a un flujo, puede probarlo de una en
 
    ![](assets/two.png)
 
-1. Haga clic en** Acciones de Programa** y seleccione **Probar flujo**.
+1. Haga clic en** Acciones de Programa** y seleccione **Flujo de prueba**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Una vez que haya agregado todo el contenido a un flujo, puede probarlo de una en
    Haga clic en Flujo inicial, seleccione el flujo que desee probar y haga clic en Ejecutar retransmisión.
    ![](assets/five-rubiks.png)
 
-1. Después de que la persona pase por las reglas [de](transition-people-between-engagement-streams.md) transición que configuró anteriormente, haga clic en el icono Actualizar.
+1. Después de que la persona pase por las [reglas de transición](transition-people-between-engagement-streams.md) que configuró anteriormente, haga clic en el icono Actualizar.
 
    ![](assets/six-rubiks.png)
 
