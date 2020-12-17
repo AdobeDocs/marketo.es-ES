@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Utilice el menú Acciones de objeto personalizado para editar o eliminar un objeto personalizado.
 
-1. Haga clic en **Administración** y, en Administración **de** bases de datos, seleccione **Comercializar objetos** personalizados.
+1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -29,7 +29,7 @@ Utilice el menú Acciones de objeto personalizado para editar o eliminar un obje
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
-1. Haga clic en la ficha Acciones **de objeto** personalizado y, a continuación, en **Editar objeto**.
+1. Haga clic en la ficha **Acciones de objeto personalizado** y haga clic en **Editar objeto**.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
@@ -41,7 +41,7 @@ Utilice el menú Acciones de objeto personalizado para editar o eliminar un obje
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Asegúrese de aprobar [el objeto](approve-a-custom-object.md)editado.
+1. Asegúrese de aprobar [el objeto editado](approve-a-custom-object.md).
 
 ## Eliminar un objeto personalizado {#delete-a-custom-object}
 
@@ -51,7 +51,7 @@ Es fácil eliminar un objeto personalizado, pero hay que tener cuidado. Los obje
 >
 >No se puede restaurar un objeto personalizado después de eliminarlo.
 
-1. Haga clic en **Administración** y, en Administración **de** bases de datos, seleccione **Comercializar objetos** personalizados.
+1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
@@ -59,7 +59,7 @@ Es fácil eliminar un objeto personalizado, pero hay que tener cuidado. Los obje
 
    ![](assets/image2015-9-23-16-3a29-3a5.png)
 
-1. Haga clic en Acciones **de objeto** personalizadas y seleccione **Eliminar objeto**.
+1. Haga clic en **Acciones de objetos personalizados** y seleccione **Eliminar objeto**.
 
    ![](assets/image2015-9-23-11-3a39-3a5.png)
 
@@ -71,7 +71,7 @@ Es fácil eliminar un objeto personalizado, pero hay que tener cuidado. Los obje
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. Si el objeto personalizado ya está aprobado, existe un riesgo bueno si lo elimina. Así que obtendrás esta advertencia más severa. Ingrese **lo que entiendo**, marque la casilla **No se puede deshacer** y haga clic en **Eliminar**.
+1. Si el objeto personalizado ya está aprobado, existe un riesgo bueno si lo elimina. Así que obtendrás esta advertencia más severa. Escriba **Entiendo**, marque la casilla **No se puede deshacer** y haga clic en **Eliminar**.
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
