@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Añadir contenido en un flujo {#add-content-to-a-stream}
+# Añadir contenido a un flujo {#add-content-to-a-stream}
 
 Una vez que haya creado el programa de participación, deberá agregar contenido a los flujos. Puede agregar correos electrónicos o programas a un flujo.
 
-## Añadir un correo electrónico en un flujo {#add-an-email-to-a-stream}
+## Añadir un correo electrónico a un flujo {#add-an-email-to-a-stream}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el programa de participación y vaya a la ficha **Flujos** .
+1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
 
 **Botón añadir contenido**
 
-1. Haga clic en el botón **Añadir contenido** .
+1. Haga clic en el botón **Añadir contenido**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Deje el **tipo** establecido en **Correo electrónico** y, a continuación, seleccione el correo electrónico que desee agregar.
+1. Deje el **Tipo** establecido en **Correo electrónico**, luego seleccione el correo electrónico que desee agregar.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
 
 **Flujo + icono**
 
-1. Haga clic en el icono de flujos **+** , deje **Tipo** como **Correo electrónico** y seleccione el correo electrónico que desee agregar.
+1. Haga clic en el icono de secuencias **+**, deje **Tipo** como **Correo electrónico** y seleccione el correo electrónico que desee agregar.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -55,11 +55,11 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
 
 ## Añadir un Programa en un flujo {#add-a-program-to-a-stream}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el programa de participación y vaya a la ficha **Flujos** .
+1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
 
    ![](assets/streamstab.jpg)
 
@@ -71,7 +71,7 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
 
    ![](assets/image2014-9-15-15-3a45-3a51.png)
 
-1. Cambiar **Tipo** a Programa.
+1. Cambie **Tipo** a Programa.
 
    ![](assets/image2014-9-15-15-3a46-3a0.png)
 
@@ -88,7 +88,7 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
    >**Recordatorio**
    >
    >
-   >La campaña inteligente debe tener el Programa **** Miembro de compromiso para que funcione correctamente.
+   >La campaña inteligente debe tener el Programa **Miembro de compromiso** filtro para que esto funcione correctamente.
 
 **Flujo + icono**
 
