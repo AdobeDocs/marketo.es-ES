@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Comprobación de cancelación de suscripción a Marketing {#marketo-unsubscribe-check}
+# Comprobación de cancelación de suscripción de marketing {#marketo-unsubscribe-check}
 
 La comprobación de cancelación de suscripciones de Marketing utiliza la conexión de su equipo con Marketing para evitar que los correos electrónicos se dirijan a personas que no están suscritas en el sistema de gestión de posibles clientes de Marketing. Cuando un usuario de ventas envía un correo electrónico con Sales Connect, se realiza una llamada de API a Marketing para comprobar si se ha cancelado la suscripción al ID de correo electrónico. Si es así, bloquearemos el envío del correo electrónico.
 
@@ -19,7 +19,7 @@ La comprobación de cancelación de suscripciones de Marketing utiliza la conexi
 >
 >**Se requieren permisos de administración**
 
-## Activación {#turning-it-on}
+## Activándolo {#turning-it-on}
 
 1. En la aplicación web, haga clic en el icono de engranaje y seleccione **Configuración**.
 
@@ -37,7 +37,7 @@ La comprobación de cancelación de suscripciones de Marketing utiliza la conexi
 
    ![](assets/four-2.png)
 
-## Cosas que saber {#things-to-know}
+## Cosas que hay que saber {#things-to-know}
 
 La comprobación de cancelación de suscripción de Marketing to...
 
