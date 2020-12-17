@@ -29,7 +29,7 @@ Los espacios de trabajo pueden ser por cualquier motivo (como la unidad de negoc
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. En la ficha **Usuarios**, seleccione el usuario y haga clic en **Editar usuario**.
+1. En la ficha **Usuarios **seleccione el usuario y haga clic en **Editar usuario**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
