@@ -39,7 +39,7 @@ Puede optar por eliminar las credenciales de API de Rest en SFDC y utilizar solo
 
 De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de posible cliente para calcular estrellas y llamas. Pero si quieres elegir un campo diferente, así es como:
 
-1. En el área **Administración** de Marketing, haga clic en Perspectiva de **ventas**.
+1. En el área **Administración** de Marketing, haga clic en **Perspectiva de ventas**.
 
    ![](assets/four.png)
 
@@ -89,4 +89,4 @@ Cuando se habilita, los usuarios de MSI no podrán editar plantillas al enviar c
 
 **Habilitar fuente RSS:**
 
-Cuando está habilitada, los usuarios de MSI pueden vista su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes en Salesforce)**.**
+Cuando está habilitada, los usuarios de MSI pueden vista de su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes en Salesforce)**.**
