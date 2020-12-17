@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-La puntuación de participación facilita la visualización de la eficacia del contenido en el programa de participación. La puntuación va de 0 a 100. Consulte [el Panel](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) de participación para ver cómo puede rastrear el rendimiento del contenido.
+La puntuación de participación facilita la visualización de la eficacia del contenido en el programa de participación. La puntuación va de 0 a 100. Consulte [el Panel de compromiso](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) para ver cómo puede rastrear el rendimiento del contenido.
 
 ![Imagen uno](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
