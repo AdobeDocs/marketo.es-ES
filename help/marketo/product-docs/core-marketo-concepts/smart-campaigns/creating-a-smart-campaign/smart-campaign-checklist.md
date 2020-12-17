@@ -17,7 +17,7 @@ Siga los pasos a continuación para garantizar el correcto funcionamiento de la 
 
 1. Deshacerse de los errores de Lista inteligente
 
-   En la campaña inteligente, haga clic en Lista **** inteligente. Elimine las líneas rojas de calambres que ve corrigiendo los errores.
+   En la campaña inteligente, haga clic en **Lista inteligente**. Elimine las líneas rojas de calambres que ve corrigiendo los errores.
 
    ![](assets/image2014-9-22-16-3a9-3a13.png)
 
@@ -33,7 +33,7 @@ Siga los pasos a continuación para garantizar el correcto funcionamiento de la 
    >**Recordatorio**
    >
    >
-   >Usar **miembro de Lista** inteligente podría tener errores en esa otra lista. Mira ahí también.
+   >El uso de **Miembro de Lista inteligente** podría tener errores en esa otra lista. Mira ahí también.
 
 1. Obtener errores de flujo
 1. En la campaña inteligente, haga clic en **Flujo**. Elimine las líneas rojas de calambres que ve corrigiendo los errores.
@@ -45,23 +45,23 @@ Siga los pasos a continuación para garantizar el correcto funcionamiento de la 
    >Pase el ratón por encima de la línea roja de forma sarcástica para ver los detalles del error.
 
 1. Revisar la ficha Programar
-1. En la ficha **Programación** , marque **Smart** **Lista** **Status (Estado** de la  inteligente) para ver si hay errores en la campaña inteligente que deban corregirse.
+1. En la ficha **Programar**, verifique **Inteligente** **Lista** **Estado** para ver si hay algún error en la campaña inteligente que necesite corregirse.
 
    ![](assets/three.png)
 
 1. Comprobar límite de restricciones de persona
-1. En la ficha **Programar** , asegúrese de que el número de personas cualificadas no excede el límite de restricción de personas.
+1. En la ficha **Programar**, asegúrese de que el número de personas cualificadas no exceda el límite de restricción de personas.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Si es necesario, puede [anular las restricciones de persona en una campaña](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)inteligente.
+   >Si es necesario, puede [anular las restricciones de persona en una campaña inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Recordatorio**
 >
->Si la campaña inteligente sigue fallando, aprenda a [comprender las notificaciones](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para averiguar qué ha fallado y cómo corregirlo.
+>Si su campaña inteligente sigue fallando, aprenda a [comprender las notificaciones](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para averiguar qué falló y cómo corregirlo.
 
 ¡bueno trabajo! Mantenga esta lista de comprobación a mano antes de ejecutar una campaña inteligente.
