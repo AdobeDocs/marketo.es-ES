@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Definir el nombre de la persona y el nombre de la Compañía predeterminados {#set-default-person-last-name-and-company-name}
+# Definir el apellido de la persona y el nombre de la Compañía predeterminados {#set-default-person-last-name-and-company-name}
 
 Salesforce requiere un apellido (mínimo) y un nombre de compañía para sus posibles clientes y contactos. Los registros incompletos no se sincronizarán con Salesforce. Si desea sincronizar registros parciales, debe establecer los valores predeterminados para que Marketing pueda usarlos con Salesforce.
 
-1. Vaya a **Administrador** y haga clic en **Salesforce**.
+1. Vaya a **Administración** y haga clic en **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Haga clic en **Editar opciones** de sincronización.
+1. Haga clic en **Editar opciones de sincronización**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Introduzca un apellido **de persona** predeterminado y una compañía ****Predeterminado **** persona y haga clic en **Guardar**.
+1. Introduzca un **apellido de persona predeterminado** y un **Predeterminado ****compañía de persona** y haga clic en **Guardar**.
 
    ![](assets/sync-options-hands.png)
 
