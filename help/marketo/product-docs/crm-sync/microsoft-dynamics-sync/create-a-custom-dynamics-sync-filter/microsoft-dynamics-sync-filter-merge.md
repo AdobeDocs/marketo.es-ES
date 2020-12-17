@@ -22,7 +22,7 @@ Es cuando un registro es verdadero y uno es falso que se vuelve complicado.
 | Si el filtro de sincronización para el registro perdedor es: | y el filtro de sincronización para el registro ganador es: | Este es el resultado de Marketing |
 |---|---|---|
 | True | True | El registro ganador continúa sincronizándose con Marketing |
-| False | False | El registro ganador **no se sincroniza** con Marketing |
+| False | False | El registro ganador continúa **no** sincronizándose con Marketing |
 | False | True | El registro ganador se sincronizará con Marketing |
 | True | False | El registro ganador no se sincronizará con Marketing |
 
