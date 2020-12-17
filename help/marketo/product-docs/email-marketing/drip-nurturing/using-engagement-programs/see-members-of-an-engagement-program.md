@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Consulte Miembros de un Programa de compromiso {#see-members-of-an-engagement-program}
+# Ver Miembros de un Programa de compromiso {#see-members-of-an-engagement-program}
 
 Puede ver rápidamente a los miembros de un programa de participación. Así es como.
 
-1. En el programa de participación, haga clic con el botón derecho y seleccione Miembros de **Vista.**
+1. En el programa de participación, haga clic con el botón derecho y seleccione **Miembros de Vista.**
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >El valor de la columna Contenido [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) agotado se actualiza después de cada conversión.
+   >El valor de la columna [Contenido agotado](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) se actualiza después de cada conversión.
 
 1. Ahora puede ver todos los miembros de su programa.
 
