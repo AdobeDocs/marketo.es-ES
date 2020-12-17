@@ -20,7 +20,7 @@ Puede crear nuevas entradas básicas directamente desde la vista calandario del 
 
    ![Imagen uno](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Pase el ratón sobre el día en el que desee agregar una entrada y, a continuación, haga clic en **[!UICONTROL Añadir]**.
+1. Pase el ratón sobre el día en el que desee agregar una entrada y haga clic en **[!UICONTROL Añadir]**.
 
    ![Imagen dos](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ Puede crear nuevas entradas básicas directamente desde la vista calandario del 
    >
    >También puede seguir pasos similares para crear una entrada básica desde las vistas Día, Semana o Agenda.
 
-1. Escriba un nombre para la nueva entrada básica y, a continuación, cambie **[!UICONTROL Tipo]** a Entrada  básica si es necesario. También puede modificar el **[!UICONTROL Inicio y la fecha]** de finalización, y desmarcar **[!UICONTROL Abrir en la Vista]** de la agenda si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un nombre para la nueva entrada básica y, a continuación, cambie **[!UICONTROL Tipo]** a [!UICONTROL Entrada básica] si es necesario. También puede modificar la **[!UICONTROL Fecha de Inicio y finalización]** y desmarcar **[!UICONTROL Abrir en la Vista del programa]** si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen tres](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ Puede crear nuevas entradas básicas directamente desde la vista calandario del 
 
 **Artículos relacionados**
 
-También puede crear una campaña [inteligente](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) por lotes o un programa [de](/help/sky/create-an-email-program-in-program-schedule-view.md) correo electrónico a partir de la vista de programación.
+También puede crear una [campaña inteligente por lotes](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) o [programa de correo electrónico](/help/sky/create-an-email-program-in-program-schedule-view.md) a partir de la vista de programación.
