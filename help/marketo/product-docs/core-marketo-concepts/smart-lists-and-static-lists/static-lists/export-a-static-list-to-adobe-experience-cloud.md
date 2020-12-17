@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportación de una Lista estática a Adobe Experience Cloud {#export-a-static-list-to-adobe-experience-cloud}
+# Exportar una Lista estática a Adobe Experience Cloud {#export-a-static-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 ## Aplicaciones de destino admitidas {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**solo** si posee una licencia de Adobe Audience Manager)
+* Adobe Analytics (**sólo** si posee una licencia de Adobe Audience Manager)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Plataforma de datos de clientes en tiempo real de Adobe
@@ -36,15 +36,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Haga clic en la lista desplegable Acciones **de** Lista y seleccione **Enviar al Experience Cloud**.
+1. Haga clic en la lista desplegable **Acciones de Lista** y seleccione **Enviar al Experience Cloud**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la lista desplegable Carpeta **del** Audience Manager y seleccione la carpeta de destino que desee en el Experience Cloud.
+1. Haga clic en la lista desplegable **Carpeta de Audience Manager** y seleccione la carpeta de destino que desee en el Experience Cloud.
 
    ![](assets/three-1.png)
 
-1. Elija si desea crear una nueva audiencia o sobrescribir una existente (en este ejemplo estamos creando una nueva). Introduzca el nuevo nombre de audiencia y haga clic en **Enviar**.
+1. Elija si desea crear una nueva audiencia o sobrescribir una existente (en este ejemplo estamos creando una nueva). Escriba el nombre de la nueva audiencia y haga clic en **Enviar**.
 
    ![](assets/four.png)
 
