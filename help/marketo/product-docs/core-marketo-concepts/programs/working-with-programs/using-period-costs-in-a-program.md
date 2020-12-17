@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Uso de los costos de período en un Programa {#using-period-costs-in-a-program}
+# Uso de Costos de Período en un Programa {#using-period-costs-in-a-program}
 
-Un costo [de](understanding-period-costs.md) período es la cantidad que gasta en un programa. Puede durar uno o más meses y se utiliza para el retorno de la inversión en sistemas de informes.
+Un [costo del período](understanding-period-costs.md) es la cantidad que gasta en un programa. Puede durar uno o más meses y se utiliza para el retorno de la inversión en sistemas de informes.
 
 >[!NOTE]
 >
 >**Buceo profundo**
 >
-> Obtenga más información sobre [los análisis](http://docs.marketo.com/display/docs/revenue+cycle+analytics)del ciclo de ingresos.
+> Obtenga más información sobre [Análisis del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## Añadir un costo de período  {#add-a-period-cost}
+## Añadir un costo de período {#add-a-period-cost}
 
 1. Vaya a la ficha **Configuración** del programa.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Arrastre y suelte Costo **de período** en el lienzo.
+1. Arrastre y suelte **Costo de período** en el lienzo.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
@@ -35,7 +35,7 @@ Un costo [de](understanding-period-costs.md) período es la cantidad que gasta e
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Introduzca un costo **** de período (sin decimales ni comas). Haga clic en **Guardar**.
+1. Introduzca un **Costo de período** (sin decimales ni comas). Haga clic en **Guardar**.
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ Un costo [de](understanding-period-costs.md) período es la cantidad que gasta e
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Haga clic con el botón derecho en el **costo** del período. Seleccione **Editar**.
+1. Haga clic con el botón derecho en el **Costo de período**. Seleccione **Editar**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -72,7 +72,7 @@ Un costo [de](understanding-period-costs.md) período es la cantidad que gasta e
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Haga clic con el botón derecho en el **costo** del período. Seleccione **Eliminar**.
+1. Haga clic con el botón derecho en el **Costo de período**. Seleccione **Eliminar**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
