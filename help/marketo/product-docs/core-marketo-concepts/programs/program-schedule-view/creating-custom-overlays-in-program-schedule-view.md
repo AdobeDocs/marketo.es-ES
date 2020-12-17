@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Creación de superposiciones personalizadas en la Vista Calandario del programa {#creating-custom-overlays-in-program-schedule-view}
+# Creación de superposiciones personalizadas en la Vista de Calandario del programa {#creating-custom-overlays-in-program-schedule-view}
 
 Puede crear superposiciones personalizadas para las entradas de vista que sean relevantes para sus necesidades.
 
-1. Haga clic en la lista desplegable **Agenda** .
+1. Haga clic en la lista desplegable **Agenda**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,7 +27,7 @@ Puede crear superposiciones personalizadas para las entradas de vista que sean r
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. También puede filtrar por [programa](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. También puede filtrar por [etiquetas de programa](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
