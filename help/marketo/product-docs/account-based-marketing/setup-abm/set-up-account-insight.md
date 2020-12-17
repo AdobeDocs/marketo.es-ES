@@ -23,7 +23,7 @@ A continuación se explica cómo configurar la perspectiva de cuenta.
 
    ![](assets/admin-1.png)
 
-1. Haga clic en **ABM** en el árbol y, a continuación, en la ficha Ventas **de** ABM.
+1. Haga clic en **ABM** en el árbol y, a continuación, en la ficha **ABM Sales**.
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ A continuación se explica cómo configurar la perspectiva de cuenta.
 
    >[!NOTE]
    >
-   >Si la configuración de la Puntuación de [](http://docs.marketo.com/display/DOCS/Account+Score) cuenta se actualiza en cualquier momento, un administrador debe actualizar la configuración de Ventas ABM para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
+   >Si la [configuración de puntuación de cuenta](http://docs.marketo.com/display/DOCS/Account+Score) se actualiza en cualquier momento, un administrador debe actualizar la configuración de ventas de ABM para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
 
 1. Haga clic en **Guardar**.
 
