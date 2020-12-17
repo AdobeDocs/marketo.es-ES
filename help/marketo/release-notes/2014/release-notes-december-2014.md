@@ -17,7 +17,7 @@ Las siguientes funciones se incluyen en la versión de diciembre de 2014. Verifi
 
 ## Informes de perspectiva de ventas {#sales-insight-reports}
 
-El informe [Rendimiento de correo electrónico de perspectiva de](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) ventas permite ver las métricas de correo electrónico por correo electrónico y representante de ventas. Admite los correos electrónicos enviados a través de Salesforce, Microsoft Dynamics, el complemento de Outlook y el complemento Gmail.
+El [Informe de rendimiento de correo electrónico de perspectiva de ventas](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite ver las métricas de correo electrónico por correo electrónico y representante de ventas. Admite los correos electrónicos enviados a través de Salesforce, Microsoft Dynamics, el complemento de Outlook y el complemento Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ El informe [Rendimiento de correo electrónico de perspectiva de](../../product-
 
 ## Audiencias personalizadas de Facebook {#facebook-custom-audiences}
 
-Una vez que el administrador de marketing haya agregado [Facebook mediante Administración > Punto de inicio](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puede crear, actualizar o [reemplazar fácilmente una Audiencia personalizada de Facebook con leads desde una lista](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)estática o inteligente de Marketing to. Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
+Una vez que el administrador de marketing haya agregado [Facebook mediante Administración > Punto de inicio](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puede crear, actualizar o [reemplazar fácilmente una Audiencia personalizada de Facebook con leads desde una lista estática o inteligente de Marketing](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Busque el nuevo icono de Facebook en la parte inferior de la cuadrícula de posibles clientes de cualquier lista estática o inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
-## Clonación mejorada en áreas de trabajo  {#improved-cloning-across-workspaces}
+## Clonación mejorada en áreas de trabajo {#improved-cloning-across-workspaces}
 
-[La clonación de un programa](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) en otro espacio de trabajo nunca ha sido más fácil. Al hacer clic en clonar, se selecciona el espacio de trabajo de destino. ¡Ya no hay que clonar en una carpeta y luego mover la carpeta!
+[Clonar un ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programa en otro espacio de trabajo nunca ha sido tan fácil. Al hacer clic en clonar, se selecciona el espacio de trabajo de destino. ¡Ya no hay que clonar en una carpeta y luego mover la carpeta!
 
 >[!NOTE]
 >
@@ -41,17 +41,17 @@ Una vez que el administrador de marketing haya agregado [Facebook mediante Admin
 
 ## Lista inteligente de referencia {#reference-smart-list}
 
-[Las listas inteligentes que se comparten con otro espacio de trabajo se pueden](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)consultar al crear una lista o un flujo inteligentes.
+[Las listas inteligentes que se comparten con otro espacio de trabajo se pueden ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)consultar al crear una lista o un flujo inteligentes.
 
 ## Mejoras en la importación de listas {#list-import-improvements}
 
-[Importe archivos](../../getting-started/quick-wins/import-a-list-of-people.md) codificados en UTF-16, Shift-JIS o EUC-JP. Seguimos admitiendo archivos con codificación UTF-8.
+[Importe ](../../getting-started/quick-wins/import-a-list-of-people.md) archivos codificados en UTF-16, Shift-JIS o EUC-JP. Seguimos admitiendo archivos con codificación UTF-8.
 
 ## Seguimiento de vínculos en secuencias de comandos de correo electrónico {#link-tracking-in-email-scripting}
 
 Los vínculos dentro de las secuencias de comandos de correo electrónico ahora se rastrearán y estarán disponibles en el informe Rendimiento de los vínculos de correo electrónico.
 
-## Configuración de codificación de tokens {#token-encoding-setting}
+## Configuración de codificación de token {#token-encoding-setting}
 
 Hemos implementado una nueva función de seguridad para codificar automáticamente tokens HTML, que se habilitará de forma predeterminada en marzo de 2015. Hasta entonces, cambie esta funcionalidad en Administración de campos para probar el comportamiento con antelación. Todos los tokens de posibles clientes y compañías se codificarán cuando se inserten en correos electrónicos o páginas de aterrizaje. Las opciones también estarán disponibles para campos individuales.
 
@@ -73,7 +73,7 @@ Hemos realizado varias mejoras menores en Munchkin para garantizar que se siga c
 
 El despliegue se realizará a partir de mediados de diciembre y continuará durante los próximos meses.
 
-## Aspecto y presentación actualizados del Explorador de ingresos {#revenue-explorer-upgraded-look-and-feel}
+## Aspecto actualizado del Explorador de ingresos {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
