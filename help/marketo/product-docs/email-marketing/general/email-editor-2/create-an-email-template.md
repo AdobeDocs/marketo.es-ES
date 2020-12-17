@@ -25,7 +25,7 @@ Siga estos pasos para crear una nueva plantilla de correo electrónico.
 
    ![](assets/designstudio.png)
 
-1. Haga clic en **Nuevo** y, a continuación, seleccione **Nueva plantilla** de correo electrónico.
+1. Haga clic en **Nuevo** y seleccione **Nueva plantilla de correo electrónico**.
 
    ![](assets/ds-two.png)
 
@@ -45,19 +45,19 @@ Siga estos pasos para crear una nueva plantilla de correo electrónico.
 
 Si ha creado un mensaje de correo electrónico que desea guardar como plantilla para uso futuro, siga estos sencillos pasos.
 
-1. Haga clic en Actividades **de marketing**.
+1. Haga clic en **Actividades de mercadotecnia**.
 
    ![](assets/one.png)
 
-1. Busque y seleccione su correo electrónico y, a continuación, haga clic en **Editar borrador**.
+1. Busque y seleccione su correo electrónico, luego haga clic en **Editar borrador**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la lista desplegable Acciones **de** correo electrónico y seleccione **Guardar como plantilla**.
+1. Haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Guardar como plantilla**.
 
    ![](assets/four-1.png)
 
-1. Haga clic en la lista desplegable **Carpeta** , seleccione dónde desea que viva la plantilla y haga clic en **Guardar**.
+1. Haga clic en la lista desplegable **Carpeta**, seleccione dónde desea que viva la plantilla y haga clic en **Guardar**.
 
    ![](assets/five-1.png)
 
