@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hacer visible una Campaña para los usuarios de Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
+# Hacer que una Campaña sea visible para los usuarios de ventas de Connect {#make-a-campaign-visible-to-sales-connect-users}
 
 Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 
@@ -19,7 +19,7 @@ Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 
    ![](assets/one.png)
 
-1. Haga clic en la ficha Lista **** inteligente.
+1. Haga clic en la ficha **Lista inteligente**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 
    ![](assets/three.png)
 
-1. Para el origen, elija &quot;es&quot; API **de servicio** Web.
+1. Para el origen, elija &quot;is&quot; **Web Service API**.
 
    ![](assets/4.png)
 
-1. Haga clic en la ficha **Flujo** .
+1. Haga clic en la ficha **Flujo**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 
    ![](assets/six.png)
 
-1. En Tipo, seleccione **Web**.
+1. Para Tipo, seleccione **Web**.
 
    ![](assets/seven.png)
 
@@ -47,7 +47,7 @@ Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 
    ![](assets/eight.png)
 
-1. Haga clic en la ficha **Programar** y **active** la campaña.
+1. Haga clic en la ficha **Programar** y **Activar** la campaña.
 
    ![](assets/nine.png)
 
