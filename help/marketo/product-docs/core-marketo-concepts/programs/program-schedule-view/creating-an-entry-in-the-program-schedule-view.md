@@ -17,11 +17,11 @@ Puede crear entradas desde la vista de calandario del programa para complementar
 
 ## Crear una entrada básica {#create-a-basic-entry}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione su programa. Haga clic en la lista desplegable **Vista** . Seleccione **Programar**.
+1. Seleccione su programa. Haga clic en la lista desplegable **Vista**. Seleccione **Programar**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -51,15 +51,15 @@ Puede crear entradas desde la vista de calandario del programa para complementar
 
 ## Cambiar tipo de entrada {#change-entry-type}
 
-1. Seleccione una entrada básica en la vista **Agenda** .
+1. Seleccione una entrada básica en la vista **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Seleccione la lista desplegable **Tipo** . Elija un nuevo tipo de entrada.
+1. Seleccione la lista desplegable **Tipo**. Elija un nuevo tipo de entrada.
 
    >[!NOTE]
    >
-   >Hacer es una entrada [personalizada](create-custom-entry-types.md). Puede realizar tareas y otras entradas personalizadas para realizar un seguimiento de los elementos de la agenda que no sean de marketing.
+   >El procedimiento es una [entrada personalizada](create-custom-entry-types.md). Puede realizar tareas y otras entradas personalizadas para realizar un seguimiento de los elementos de la agenda que no sean de marketing.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ Puede crear entradas desde la vista de calandario del programa para complementar
 
 >[!NOTE]
 >
-> También puede crear una campaña [](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) inteligente o un programa [de](creating-a-new-email-program-in-the-schedule-view.md) correo electrónico a partir de la vista de programación.
+> También puede crear una [campaña inteligente](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programa de correo electrónico](creating-a-new-email-program-in-the-schedule-view.md) a partir de la vista de programación.
 
