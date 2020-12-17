@@ -17,7 +17,7 @@ La vista de detalles de persona proporciona un perfil detallado de cada persona 
 
 ## Cómo acceder {#how-to-access}
 
-1. Para acceder a la vista de detalles de la persona, haga clic en la ficha **Personas** .
+1. Para acceder a la vista de detalles de la persona, haga clic en la ficha **Personas**.
 
    ![](assets/people-tab.png)
 
@@ -29,7 +29,7 @@ La vista de detalles de persona proporciona un perfil detallado de cada persona 
    >
    >En casi cualquier lugar donde se vea el nombre de una persona, se puede hacer clic en él y llegar a la Vista de detalles de la persona.
 
-## Ficha Acerca de {#about-tab}
+## Acerca de la ficha {#about-tab}
 
 Incluye toda la información de contacto de la persona.
 
