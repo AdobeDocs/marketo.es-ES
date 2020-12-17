@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Importación de un Programa {#import-a-program}
+# Importar un Programa {#import-a-program}
 
 Un programa se puede importar de una suscripción de marketing a otra. Por ejemplo, puede crear un programa en un simulador para pruebas y luego importarlo en la suscripción activa. Además, puede importar un programa precompilado desde la Biblioteca de Programas de Marketing to.
 
-## Importación de un Programa {#import-a-program-1}
+## Importar un Programa {#import-a-program-1}
 
-1. Vaya a Actividades **de marketing.**
+1. Vaya a **Actividades de mercadotecnia.**
 
    ![](assets/ma.png)
 
@@ -27,24 +27,24 @@ Un programa se puede importar de una suscripción de marketing a otra. Por ejemp
 
    >[!NOTE]
    >
-   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de Programa habilitado. Obtenga más información sobre la [administración de funciones y permisos](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)de usuario.
+   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de Programa habilitado. Obtenga más información sobre [administración de funciones y permisos de usuario](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
-   >Para conectar una cuenta de simulación de pruebas a la suscripción activa, póngase en contacto con la asistencia técnica [de marketing](http://www.marketo.com/services/support/).
+   >Para conectar una cuenta de simulación de pruebas a la suscripción activa, póngase en contacto con [Soporte técnico de marketing](http://www.marketo.com/services/support/).
 
-1. Seleccione una **Suscripción** de marketing y un programa para importar. Haga clic en **Siguiente**.
+1. Seleccione una **Suscripción** de Marketing y un programa para importar. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Especifique una carpeta **de** Campaña para el programa importado. Haga clic en **Siguiente.**
+1. Especifique una **carpeta de Campaña** para el programa importado. Haga clic en **Siguiente.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Asegúrese de que** ****Usar reglas de conflicto** predeterminadas está seleccionado. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
+   >Asegúrese de que*** ****Usar reglas de conflicto** predeterminadas está seleccionado. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
 
-1. Detalles de previsualización e **Importar** el programa.
+1. Detalles de previsualización y **Importar** el programa.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -77,7 +77,7 @@ La biblioteca de Programas de Marketing Cloud contiene programas creados previam
 1. **Sincronizar nuevas personas con CRM.** La campaña que sincroniza nuevos usuarios con el sistema CRM. Asigna un estado de persona de tal manera que se reconoce que no está listo para las ventas.
 1. **Seminario web con adaptador de Evento.** Un conjunto completo de correos electrónicos, como invitaciones y recordatorios, además de páginas de aterrizaje con formularios y campañas para mover personas a través del programa. Este programa recibe actualizaciones sobre registro, asistencia, etc. de proveedores de eventos en línea como WebEx.
 1. **Seminario web sin adaptador de Evento.** Igual que antes, pero con procesos manuales para registrar el registro, la asistencia, etc.
-1. **Programa** de Puntuación de Sirius Decisions. Este programa está diseñado para apoyar el modelo de puntuación estándar Sirius Decisions, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed. Vista [este](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF para obtener más información.
+1. **Programa** de Puntuación de Sirius Decisions. Este programa está diseñado para apoyar el modelo de puntuación estándar Sirius Decisions, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed. Vista [este PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)para obtener más información.
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 
 >[!CAUTION]
 >
->Al importar un programa, se omitirán las páginas de aterrizaje o correos electrónicos que contengan contenido [](http://docs.marketo.com/x/yRAt) dinámico.
+>Al importar un programa, se omitirán las páginas de aterrizaje o correos electrónicos que contengan [contenido dinámico](http://docs.marketo.com/x/yRAt).
 
 ## Ver un video {#watch-a-video}
 
