@@ -19,11 +19,11 @@ Debe aprobar un objeto personalizado para poder utilizarlo. El proceso es ligera
 
 Ha creado un objeto personalizado completamente nuevo. Así es como aprobarlo.
 
-1. En Administración, haga clic en **Comercializar objetos** personalizados y seleccione un objeto que esté en estado Borrador.
+1. En Administración, haga clic en **Marcar objetos personalizados** y seleccione un objeto que esté en estado Borrador.
 
    ![](assets/one.png)
 
-1. Haga clic en la lista desplegable Acciones **de objeto** personalizado y seleccione **Aprobar objeto**.
+1. Haga clic en la lista desplegable **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
 
    ![](assets/two.png)
 
@@ -33,16 +33,16 @@ Ha creado un objeto personalizado completamente nuevo. Así es como aprobarlo.
 
    >[!NOTE]
    >
-   >Un objeto personalizado utilizado en una estructura *de* uno a varios debe tener al menos un campo de desduplicación, un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado para ser aprobado.
+   >Un objeto personalizado utilizado en una estructura *uno a varios* debe tener al menos un campo de desduplicación, un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado para ser aprobado.
    >
    >
-   >Un objeto personalizado que se utiliza en una estructura *de* varios a varios **no necesita** un campo de vínculo, un nombre de objeto vinculado o un nombre de campo vinculado al aprobarlo (porque residen en el objeto intermedio).
+   >Un objeto personalizado utilizado en una *estructura de varios a varios* **no necesita** un campo de vínculo, un nombre de objeto vinculado o un nombre de campo vinculado al aprobarlo (porque residen en el objeto intermedio).
    >
    >
-   >Un objeto personalizado utilizado como objeto ** intermediario requiere un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado, pero **no requiere** un campo de desduplicación.
+   >Un objeto personalizado utilizado como *objeto intermediario* requiere un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado, pero **no requiere** un campo de desduplicación.
    >
    >
-   >Consulte [Explicación de los objetos](understanding-marketo-custom-objects.md) personalizados de marketing para obtener más información.
+   >Consulte [Explicación de los objetos personalizados de marketing](understanding-marketo-custom-objects.md) para obtener más información.
 
 ¡Eso es todo! Ahora, puede seleccionar el objeto personalizado con las restricciones de sus filtros y activadores para utilizarlo en sus campañas.
 
@@ -54,7 +54,7 @@ Después de editar un objeto personalizado aprobado, debe aprobar el borrador pa
 
    ![](assets/four.png)
 
-1. Cuando esté listo para aprobar el borrador, haga clic en la lista desplegable Acciones **de objeto** personalizado y seleccione **Aprobar objeto**.
+1. Cuando esté listo para aprobar el borrador, haga clic en la lista desplegable **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
 
    ![](assets/five-1.png)
 
