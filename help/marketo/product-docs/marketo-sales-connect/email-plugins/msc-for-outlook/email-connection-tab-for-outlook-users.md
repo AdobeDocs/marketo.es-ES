@@ -19,7 +19,7 @@ Obtenga información sobre cómo conectar su cuenta de Sales Connect con Outlook
 >
 >Cada usuario debe conectarse a Outlook desde su cuenta de Sales Connect.
 
-## Conexión a Outlook en línea {#connecting-to-outlook-online}
+## Conectando con Outlook en línea {#connecting-to-outlook-online}
 
 Conectarse a Outlook significa recibir el seguimiento de respuestas, el acceso al canal de envío de Outlook, la capacidad de programar correos electrónicos en Outlook y el envío de cumplimiento.
 
@@ -27,19 +27,19 @@ Conectarse a Outlook significa recibir el seguimiento de respuestas, el acceso a
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione Configuración **de correo electrónico**.
+1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha Conexión **de** correo electrónico.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Introducción**.
 
    ![](assets/four.png)
 
-1. Seleccione **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **Utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
@@ -63,13 +63,13 @@ Conectarse a Outlook significa recibir el seguimiento de respuestas, el acceso a
 
    ![](assets/nine-a.png)
 
-   Puede utilizar esta conexión para rastrear correos electrónicos y también [como canal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)de envío.
+   Puede utilizar esta conexión para rastrear correos electrónicos y también [como canal de envío](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
    >[!NOTE]
    >
    >Cuando se usa Outlook como canal de envío, no se pueden enviar más de 300 correos electrónicos masivos a la vez.
 
-## Conexión a Exchange in situ {#connecting-to-exchange-on-premise}
+## Conexión a Exchange local {#connecting-to-exchange-on-premise}
 
 Conectarse a Exchange in situ significa que recibirá seguimiento de respuestas, acceso al canal de envío de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar información de cumplimiento.
 
@@ -77,19 +77,19 @@ Conectarse a Exchange in situ significa que recibirá seguimiento de respuestas,
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione Configuración **de correo electrónico**.
+1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha Conexión **de** correo electrónico.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Introducción**.
 
    ![](assets/four.png)
 
-1. Seleccione **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccione **Utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
@@ -101,7 +101,7 @@ Conectarse a Exchange in situ significa que recibirá seguimiento de respuestas,
    |---|---|
    | **Intercambio local** | Incluye Exchange 2013 y 2016 |
 
-1. Introduzca sus credenciales y haga clic en **Connect**.
+1. Introduzca sus credenciales y haga clic en **Conectar**.
 
    ![](assets/seven-b.png)
 
