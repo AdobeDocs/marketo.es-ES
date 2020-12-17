@@ -18,7 +18,7 @@ Para poder sincronizar Microsoft Dynamics 365 y Marketing, primero debe instalar
 >[!CAUTION]
 >
 >* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Si tiene Multi-Factor Authentication (MFA) habilitado para Dynamics Sync, debe deshabilitarlo para que Dynamics se sincronice correctamente con Marketing. Para obtener más información, póngase en contacto con la asistencia técnica [de marketing](http://nation.marketo.com/community/support_solutions).
+>* Si tiene Multi-Factor Authentication (MFA) habilitado para Dynamics Sync, debe deshabilitarlo para que Dynamics se sincronice correctamente con Marketing. Para obtener más información, póngase en contacto con [Soporte técnico de marketing](http://nation.marketo.com/community/support_solutions).
 
 >
 
@@ -36,11 +36,11 @@ Para poder sincronizar Microsoft Dynamics 365 y Marketing, primero debe instalar
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Haga clic en ![](assets/image2015-3-16-16-3a1-3a13.png)el menú y seleccione **CRM**.
+1. Haga clic en el menú ![](assets/image2015-3-16-16-3a1-3a13.png)y seleccione **CRM**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Haga clic en ![](assets/image2015-5-13-10-3a5-3a8.png) menú. En el menú desplegable, seleccione **Configuración **y, a continuación, seleccione **Soluciones**.
+1. Haga clic en el menú ![](assets/image2015-5-13-10-3a5-3a8.png). En el menú desplegable, seleccione **Configuración **y, a continuación, seleccione **Soluciones**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
@@ -50,11 +50,11 @@ Para poder sincronizar Microsoft Dynamics 365 y Marketing, primero debe instalar
 
    **
 
-1. Haga clic en **Elegir archivo.** Seleccione la solución de administración de posibles clientes de marketing que [descargó](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **Siguiente**.
+1. Haga clic en **Elegir archivo.** Seleccione la solución de administración de posibles clientes de marketing que  [descargó](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **Siguiente**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. Vista de la información de la solución y haga clic en **Vista de los detalles** del paquete de la solución.
+1. Vista la Información de la solución y haga clic en **Detalles del paquete de la solución de Vista**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
@@ -90,7 +90,7 @@ Para poder sincronizar Microsoft Dynamics 365 y Marketing, primero debe instalar
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Seleccione **Administración** de posibles clientes de Marketing y haga clic en **Publicar todas las personalizaciones.**
+1. Seleccione **Administración de posibles clientes de marketing** y haga clic en **Publicar todas las personalizaciones.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
