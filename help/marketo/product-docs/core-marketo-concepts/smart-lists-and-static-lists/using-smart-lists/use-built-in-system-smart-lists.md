@@ -23,11 +23,11 @@ Marketing tiene algunas listas inteligentes incorporadas muy útiles. ¡Vamos a 
 
    ![](assets/db.png)
 
-1. Abra la carpeta Listas **inteligentes** del sistema para mostrar la colección.
+1. Abra la carpeta **Listas inteligentes del sistema** para mostrar la colección.
 
    ![](assets/two.png)
 
-1. Para ver un ejemplo: Seleccione **Todas las personas** y, a continuación, haga clic en la ficha **Personas** .
+1. Para ver un ejemplo: Seleccione **Todas las personas** y haga clic en la ficha **Personas**.
 
    ![](assets/three.png)
 
