@@ -19,9 +19,9 @@ Las siguientes funciones se incluyen en la versión del 20 de febrero. Compruebe
 >
 >**Disponibilidad**
 >
->Las funciones identificadas por una estrella ( ![(estrella)](assets/star-yellow.svg)) son complementos de pago. Comuníquese con el representante de su Marketo Engage para obtener más información.
+>Las funciones identificadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Comuníquese con el representante de su Marketo Engage para obtener más información.
 
-***Versiones*** trimestrales Las siguientes funciones se lanzaron el 21 **de febrero de 2020**.
+***Versiones trimestrales*** Las siguientes funciones se lanzaron el 21  **de febrero de 2020**.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
@@ -38,7 +38,7 @@ Las siguientes funciones se incluyen en la versión del 20 de febrero. Compruebe
 ***Publicación durante todo el trimestre***
 
 Las siguientes funciones están en un ciclo no trimestral y se publicarán en los próximos meses.
-**Bizable ![(estrella)](assets/star-yellow.svg)
+**Bizable ![(star)](assets/star-yellow.svg)
 
 **
 
@@ -46,7 +46,7 @@ Las siguientes funciones están en un ciclo no trimestral y se publicarán en lo
 * **Guardando Filtros**: Guarde filtros específicos de panel exclusivos para cada usuario a fin de analizar sus paneles de forma rápida y coherente.
 * **Exportar a PDF**: Comparta valiosas perspectivas en su organización mediante la exportación de Paneles bisibles como archivos PDF.
 
-## Conexión de ventas  {#sales-connect}
+## Sales Connect {#sales-connect}
 
 * **Actualizaciones** de la ventana de composición: Hemos simplificado el proceso de selección de plantillas y envío de correos electrónicos a través de Sales Connect. Utilice la ventana Redactar de nuestro cliente web y Salesforce como una ventanilla única para vendedores, con la capacidad de guardar categorías de plantilla, programar correos electrónicos, enviar correos electrónicos de forma masiva y enviar correos electrónicos con vista y rastreo de clics.
 * **Actualizaciones** del centro de comandos: Estamos reconstruyendo el Centro de comandos de Sales Connect para ofrecer a los vendedores una visión detallada de todos sus correos electrónicos, llamadas y Tareas iniciados desde Sales Connect. También pueden vista información como la participación en el correo electrónico y la capacidad de entrega desde el Centro de comandos.
@@ -57,9 +57,9 @@ Las siguientes funciones están en un ciclo no trimestral y se publicarán en lo
 
 * **Centro** de éxito del Marketo Engage: Estamos lanzando el Centro de Éxito de Marketing en febrero de 2020. El Centro de éxito es un centro de ayuda dentro del producto que le permite buscar documentos de producto y la comunidad, iniciar guías de procedimientos, acceder a contenido de adopción, como vídeos de prácticas recomendadas de la Universidad de Marketo y otros, directamente desde la instancia de Marketo Engage. **Nota**: Esta función se lanzará como una versión beta en ANZ y se lanzará a Norteamérica más adelante en el trimestre.
 
-## Desventajas {#deprecations}
+## Desuso {#deprecations}
 
-* **Parámetro**&quot;_method&quot; de la API de recursos: Después de septiembre de 2020, los extremos de la API de recursos ya no aceptarán &quot;_method&quot; para pasar parámetros de Consulta en un cuerpo de POST para evitar las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requieren este parámetro, el límite de URI para las API de recursos se aumentará de 6KiB a 65KiB, de modo que se puedan enviar los URI de solicitud larga.
+* **Parámetro** &quot;_method&quot; de la API de recursos: Después de septiembre de 2020, los extremos de la API de recursos ya no aceptarán &quot;_method&quot; para pasar parámetros de Consulta en un cuerpo de POST para evitar las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requieren este parámetro, el límite de URI para las API de recursos se aumentará de 6KiB a 65KiB, de modo que se puedan enviar los URI de solicitud larga.
 * **Desaprobación** de compatibilidad con Internet Explorer: A partir de nuestra versión del 31 de julio de 2012, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
 
-***Seminario*** web sobre la versión del producto [Únase a nosotros](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) el 3 de marzo a las 11:00AM PT / 2:00PM ET para un seminario web en directo organizado por nuestro equipo de productos y conozca más sobre las funciones incluidas en esta versión.
+***Seminario*** [web sobre la versión del productoÚnase ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) al sitio el 3 de marzo a las 11:00AM PT / 2:00PM ET para un seminario web en directo organizado por nuestro equipo de productos y obtenga más información sobre las funciones incluidas en esta versión.
