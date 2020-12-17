@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# SEO - Resultados de palabras clave de Vista en motor de búsqueda {#seo-view-keyword-results-in-search-engine}
+# SEO - Resultados de palabras clave de Vista en el motor de búsqueda {#seo-view-keyword-results-in-search-engine}
 
 Si desea ver el aspecto que tiene el contenido dentro de un motor de búsqueda, hemos agregado un pequeño y práctico método abreviado.
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Pase el ratón sobre una palabra clave. Haga clic en Resultados **de** vista.
+1. Pase el ratón sobre una palabra clave. Haga clic en **resultados de vista**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
