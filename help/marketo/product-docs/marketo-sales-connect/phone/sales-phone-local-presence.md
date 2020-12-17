@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Presencia local del teléfono de ventas {#sales-phone-local-presence}
+# Presencia local de teléfono de ventas {#sales-phone-local-presence}
 
-Cuando quiera que parezca que está llamando desde el mismo código de área de alguien, simplemente marque la casilla Presencia **** local antes de realizar la llamada.
+Cuando quiera que parezca que llama desde el mismo código de área de alguien, simplemente marque la casilla **Presencia local** antes de realizar la llamada.
 
 ## Preguntas más frecuentes sobre la presencia local {#local-presence-faq}
 
