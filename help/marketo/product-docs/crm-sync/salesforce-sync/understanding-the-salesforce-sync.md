@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo y Salesforce van juntos como guisantes y zanahorias. Mantenemos sus datos de ventas y marketing sincronizados.
 
-## Funcionamiento de la sincronización {#how-sync-works}
+## Cómo funciona la sincronización {#how-sync-works}
 
 Marketo se sincroniza con Salesforce todo el día, todos los días. Cada sincronización tarda un tiempo y, a continuación, se pausa durante 5 minutos y, a continuación, se vuelven a realizar inicios.
 
@@ -40,9 +40,9 @@ La sincronización entre Salesforce y Marketing solo es bidireccional para posib
 
 >[!NOTE]
 >
->Las [credenciales introducidas en Marketing para Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar los datos. Solo se incluirán los datos a los que tienen acceso esas credenciales.
+>Las [credenciales introducidas en Marketing para Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar datos. Solo se incluirán los datos a los que tienen acceso esas credenciales.
 
-Hay muchos matices y características sobre la sincronización de Salesforce. Consulte los detalles en la sección [Detalles de sincronización de](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC.
+Hay muchos matices y características sobre la sincronización de Salesforce. Consulte los detalles en la sección [Detalles de sincronización de SFDC](http://docs.marketo.com/display/docs/sfdc+sync+details).
 
 >[!MORELIKETHIS]
 >
