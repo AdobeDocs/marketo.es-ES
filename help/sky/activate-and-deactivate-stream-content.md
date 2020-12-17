@@ -20,7 +20,7 @@ El contenido del flujo está desactivado de forma predeterminada. Active el cont
 
    ![Imagen uno](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -46,7 +46,7 @@ El contenido del flujo está desactivado de forma predeterminada. Active el cont
 
    ![Imagen cinco](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen seis](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
