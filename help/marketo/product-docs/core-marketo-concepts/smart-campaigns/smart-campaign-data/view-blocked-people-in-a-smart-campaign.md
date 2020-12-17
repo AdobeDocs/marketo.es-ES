@@ -19,13 +19,13 @@ Las personas bloqueadas en la base de datos de Marketing están marcadas como in
 >
 >Marketing está en proceso de cambiar términos como Lista negra y Lista blanca a Lista de bloqueados y Lista de permitidos en nuestro producto. Durante esta actualización, puede ver los términos antiguos en nuestra interfaz de usuario y en las capturas de pantalla de documentación, así como los nuevos términos en el texto de la documentación. Pedimos disculpas por cualquier confusión.
 
-1. En la campaña inteligente, haga clic en **Programar**. En Estado **de Lista** inteligente, haga clic en el segundo vínculo.
+1. En la campaña inteligente, haga clic en **Programar**. En **Estado de Lista inteligente** haga clic en el segundo vínculo.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Las personas que han llegado a sus límites de comunicación también pueden verse bloqueadas de recibir correos. Obtenga información sobre cómo [editar los límites](../../../../product-docs/administration/email-setup/enable-communication-limits.md) de comunicación en la sección Administración.
+   >Las personas que han llegado a sus límites de comunicación también pueden verse bloqueadas de recibir correos. Descubra cómo [editar los límites de comunicación](../../../../product-docs/administration/email-setup/enable-communication-limits.md) en la sección Administración.
 
    La ficha Personas bloqueadas muestra las personas que podrían no recibir correos.
 
