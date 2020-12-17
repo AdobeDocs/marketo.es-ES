@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Volver a ejecutar una Campaña inteligente en la Vista Calandario del programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Volver a ejecutar una Campaña inteligente en la Vista de Calandario del programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente directamente desde la vista de calandario del programa.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente
 
    >[!TIP]
    >
-   >También puede hacerlo desde el enfoque [del](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)programa.
+   >También puede hacerlo desde el [enfoque de programa](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 ¡Boom! Así de simple, has programado otra carrera para esa campaña inteligente. Si esa campaña inteligente contenía pasos para enviar correos electrónicos, ¡también los verá!
