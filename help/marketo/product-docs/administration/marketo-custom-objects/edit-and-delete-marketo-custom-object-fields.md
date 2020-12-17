@@ -21,7 +21,7 @@ A veces es necesario editar un campo que aún no está aprobado.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. En la ficha Campos, haga clic en Acciones **de** campo y **Editar campo**.
+1. En la ficha Campos, haga clic en **Acciones de campo** y **Editar campo**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
@@ -41,7 +41,7 @@ A veces es necesario editar un campo que aún no está aprobado.
 
 Cuando ya no necesite un campo en un objeto personalizado, puede eliminarlo.
 
-1. En la ficha Campos, haga clic en Acciones **de** campo y **Eliminar campo**.
+1. En la ficha Campos, haga clic en **Acciones de campo** y **Eliminar campo**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
