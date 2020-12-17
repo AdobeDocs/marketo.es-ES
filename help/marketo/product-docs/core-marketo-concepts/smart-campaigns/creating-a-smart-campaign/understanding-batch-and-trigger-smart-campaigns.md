@@ -27,14 +27,14 @@ Las campañas inteligentes por lotes solo tendrán filtros dentro de la sección
 
 ![](assets/batch-filter.png)
 
-Al hacer clic en la ficha **Programar** , se confirmará que la campaña inteligente está configurada en &quot;Lote&quot;.
+Al hacer clic en la ficha **Programar** se confirmará que la campaña inteligente se ha definido como &quot;Lote&quot;.
 
 ![](assets/batch-c4.png)
 
 **Campañas inteligentes por lotes**
 
 * Se puede programar para recurrencias como, por ejemplo, diarias, semanales y mensuales. También se pueden ejecutar una sola vez.
-* Están visibles en la vista [del](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)calandario del programa.\
+* Están visibles en la vista [calandario del programa](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
    *Tenga en cuenta que no se incluirá en la vista nada después de un paso &quot;Esperar&quot; dentro de la campaña inteligente.
 
 <br> 
@@ -51,7 +51,7 @@ Si una campaña inteligente utiliza al menos un activador dentro de la sección 
 
 ![](assets/trigger.png)
 
-Al hacer clic en la ficha **Programar** , se confirmará que la campaña inteligente está configurada en &quot;Activada&quot;.
+Al hacer clic en la ficha **Programar** se confirmará que la campaña inteligente se ha definido como &quot;Activada&quot;.
 
 ![](assets/trigger2.png)
 
@@ -60,11 +60,11 @@ Al hacer clic en la ficha **Programar** , se confirmará que la campaña intelig
 * No se puede programar para recurrencias. Solo se pueden configurar como activas o inactivas.
 * Puede configurar más de un activador. Sin embargo, si se activa algún activador, se ejecutarán las acciones de campaña.
 
-## Ver un vídeo sobre la creación de Campañas de correo electrónico activadas {#watch-a-video-on-creating-triggered-email-campaigns}
+## Vea un vídeo sobre la creación de Campañas de correo electrónico activadas {#watch-a-video-on-creating-triggered-email-campaigns}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
 >[!TIP]
 >
->Utilice el registro [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) actividades para ver qué ha ocurrido paso a paso dentro de sus campañas inteligentes. Puede encontrar el registro de actividades en la última ficha de la página de detalles de una persona.
+>Utilice el [registro de actividades](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) para ver qué ha ocurrido paso a paso dentro de sus campañas inteligentes. Puede encontrar el registro de actividades en la última ficha de la página de detalles de una persona.
 
