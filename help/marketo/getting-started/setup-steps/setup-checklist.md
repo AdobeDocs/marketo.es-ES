@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Lista de comprobación de configuración {#setup-checklist}
 
-¡Bienvenido a Marketing! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Encontrará más detalles en Pasos [de configuración](/help/marketo/getting-started/setup-steps.md).
+¡Bienvenido a Marketing! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Encontrará más detalles en [Pasos de configuración](/help/marketo/getting-started/setup-steps.md).
 
-## Inicio de sesión en Marketing Cloud y creación de usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
+## Inicie sesión en Marketingto y cree usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
 
 1. Iniciar sesión en Marketing
 1. Crear usuarios adicionales
 
-## Configurar un contacto de asistencia técnica autorizada {#set-up-an-authorized-support-contact}
+## Configurar un contacto de asistencia técnica autorizado {#set-up-an-authorized-support-contact}
 
 1. Configurar un contacto de asistencia técnica autorizado
 1. Personalización de direcciones URL de Página de aterrizaje
@@ -37,7 +37,7 @@ ht-degree: 0%
 1. Configurar MX para `[FromDomain1]`
 1. Cuando termine con el CNAME de correo electrónico, configure el CNAME de correo electrónico en Marketing
 
-## Envío de una dirección URL para plantillas de Página de aterrizaje y correo electrónico {#submit-a-url-for-landing-page-and-email-templates}
+## Enviar una dirección URL para plantillas de correo electrónico y Página de aterrizaje {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Rellene el formulario para enviar una dirección URL para nuevas plantillas
 
