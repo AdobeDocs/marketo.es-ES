@@ -17,9 +17,9 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
 >[!PREREQUISITES]
 >
->Complete la integración [de Marketing con Microsoft](http://docs.marketo.com/x/DoA2).
+>Complete la integración [de Marketing a Microsoft](http://docs.marketo.com/x/DoA2).
 >
->[Descargue la solución](http://docs.marketo.com/x/LoJo) correcta para su versión de Microsoft Dynamics CRM.
+>[Descargue la ](http://docs.marketo.com/x/LoJo) solución correcta para su versión de Microsoft Dynamics CRM.
 
 ## Importar solución {#import-solution}
 
@@ -40,7 +40,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
    >**Recordatorio**
    >
    >
-   >Ya debería haber [instalado y configurado](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) la solución de marketing antes de avanzar.
+   >Ya debe tener [instalado y configurado](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) la solución de Marketing para avanzar.
 
 1. Haga clic en **Examinar**. Seleccione la solución de perspectiva de ventas de marketing que [descargó](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Haga clic en **Siguiente**.
 
@@ -70,7 +70,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    ![](assets/image2015-5-4-11-3a8-3a27.png)
 
-## Connect Marketing y perspectiva de ventas  {#connect-marketo-and-sales-insight}
+## Connect Marketing y perspectiva de ventas {#connect-marketo-and-sales-insight}
 
 >[!NOTE]
 >
@@ -80,11 +80,11 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. En la sección **Perspectiva de ventas **haga clic en **Editar configuración** de API.
+1. En la sección **Perspectiva de ventas **haga clic en **Editar configuración de API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copie el host **de** marketing, la URL **de la** API y el ID **de usuario de la** API para utilizarlos en un paso posterior. Introduzca una clave **secreta de** API de su elección y haga clic en **GUARDAR**.
+1. Copie el **host de marketing**, **URL de API** y el **ID de usuario de API** para usarlos en un paso posterior. Escriba una **Clave secreta de API** de su elección y haga clic en **GUARDAR**.
 
    >[!CAUTION]
    >
@@ -94,7 +94,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    >[!NOTE]
    >
-   >Para que funcionen los campos siguientes se deben sincronizar con Marketing para que *tanto Posible cliente como Contacto* para la perspectiva de ventas:
+   >Los siguientes campos deben sincronizarse con Marketing para *Posible cliente y Contacto* para que Sales Insight funcione:
    >
    >    
    >    
@@ -106,15 +106,15 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
    >    
    >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Vuelva a Dynamics y seleccione **Configuración**.
+1. Vuelva a Dynamics, seleccione **Configuración**.
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. Seleccione Configuración **de API de marketing** en el árbol.
+1. Seleccione **Configuración de API de marketing** en el árbol.
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
-1. Haga clic en Configuración **** predeterminada.
+1. Haga clic en **Configuración predeterminada**.
 
    ![](assets/image2015-5-4-11-3a26-3a10.png)
 
@@ -128,7 +128,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    **
 
-## Definir acceso de usuario {#set-user-access}
+## Establecer acceso de usuario {#set-user-access}
 
 Configure las funciones de usuario para que los usuarios específicos tengan acceso a la perspectiva de ventas.
 
@@ -148,7 +148,7 @@ Configure las funciones de usuario para que los usuarios específicos tengan acc
 
    ![](assets/image2015-5-4-11-3a35-3a8.png)
 
-1. Seleccione la función **de perspectiva** de ventas de marketing y haga clic en **Aceptar**.
+1. Seleccione la función **Marketing to Sales Insight** y haga clic en **Aceptar**.
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
