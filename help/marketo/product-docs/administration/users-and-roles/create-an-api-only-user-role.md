@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Crear una función de usuario solo de API {#create-an-api-only-user-role}
+# Crear una función de usuario de solo API {#create-an-api-only-user-role}
 
-Si desea realizar la integración con Marketing mediante la API [](http://developers.marketo.com/documentation/rest/)REST, la práctica recomendada es [asignar a un usuario la función](create-an-api-only-user.md) Solo API y, a continuación, [crear un servicio personalizado para utilizarlo con la API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)de ReST. A continuación se explica cómo crear la función de usuario solo de API.
+Si desea realizar la integración con Marketing a través de la [API de REST](http://developers.marketo.com/documentation/rest/), lo mejor es [asignar a un usuario la función Solo API](create-an-api-only-user.md) y luego [crear un servicio personalizado para utilizarlo con la API de ReST](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). A continuación se explica cómo crear la función de usuario solo de API.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Si desea realizar la integración con Marketing mediante la API [](http://develo
 
    ![](assets/adminhand-1.png)
 
-1. En Seguridad, haga clic en **Usuarios y funciones**.
+1. En Seguridad, haga clic en **Usuarios y roles**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha **Roles **y, a continuación, en **Nueva función**.
+1. Haga clic en la ficha **Roles **y luego **Nueva función**.
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
-1. Introduzca un nombre de función, seleccione los permisos de acceso de API que desea otorgar y haga clic en **Crear.**
+1. Escriba un nombre de rol, seleccione los permisos de acceso de API que desea otorgar y haga clic en **Crear.**
 
    ![](assets/image2014-9-16-13-3a47-3a36.png)
 
@@ -41,5 +41,5 @@ Si desea realizar la integración con Marketing mediante la API [](http://develo
 
 >[!MORELIKETHIS]
 >
->¡Bien hecho! Ahora vamos a [crear un usuario](create-an-api-only-user.md)solo de API.
+>¡Bien hecho! Ahora [crearemos un usuario solo de API](create-an-api-only-user.md).
 
