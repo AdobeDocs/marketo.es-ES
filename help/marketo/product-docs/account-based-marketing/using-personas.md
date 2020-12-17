@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las personas son una buena manera de segmentar su audiencia y mercado ABM a un subconjunto específico de personas.
 
-## Añadir una persona {#add-a-persona}
+## Añadir una Persona {#add-a-persona}
 
 1. En Mi marketing, haga clic en **Administración**.
 
@@ -45,7 +45,7 @@ Las personas son una buena manera de segmentar su audiencia y mercado ABM a un s
    >
    >Sólo los campos personalizados de Salesforce de tipo &quot;picklist&quot; que se han sincronizado con la instancia de Marketo están disponibles en la lista desplegable de campos de persona al crear una persona.
 
-## Vista de sus personas {#view-your-personas}
+## Vista de las personas {#view-your-personas}
 
 Vista de las personas visitando una cuenta con nombre específica.
 
@@ -53,7 +53,7 @@ Vista de las personas visitando una cuenta con nombre específica.
 
    ![](assets/one-a.png)
 
-1. Haga clic en la ficha **Personas** .
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/two-a.png)
 
