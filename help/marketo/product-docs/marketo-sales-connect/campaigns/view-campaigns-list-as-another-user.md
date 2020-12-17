@@ -19,7 +19,7 @@ Como administrador, puede vista de campañas como cualquier usuario.
 >
 >**Se requieren permisos de administración**
 
-1. En la aplicación web, haga clic en **Campañas**.
+1. En la aplicación Web, haga clic en **Campañas**.
 
    ![](assets/one-5.png)
 
