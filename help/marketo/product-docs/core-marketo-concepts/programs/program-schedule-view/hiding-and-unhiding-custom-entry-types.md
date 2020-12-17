@@ -17,7 +17,7 @@ Los tipos de entrada personalizados se pueden ocultar en la sección Administrac
 
 ## Ocultar un tipo de entrada personalizada {#hide-a-custom-entry-type}
 
-1. Vaya a la sección **Administración** y haga clic en **Calendario** **Tipos de entrada******.
+1. Vaya a la sección **Administración** y haga clic en **Calendario** **Entrada** **Tipos**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
