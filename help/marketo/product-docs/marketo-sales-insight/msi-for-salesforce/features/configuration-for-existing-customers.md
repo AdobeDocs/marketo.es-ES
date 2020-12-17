@@ -22,15 +22,15 @@ Configure la siguiente configuración para empezar a utilizar el nuevo Panel de 
 ## Configurar la perspectiva de ventas en Marketing {#configure-sales-insight-in-marketo}
 
 1. Abra una nueva ficha en el explorador para obtener las credenciales de perspectivas de ventas de marketing de su cuenta de Marketing to.
-1. Vaya al área **Administración** .
+1. Vaya al área **Administración**.
 
    ![](assets/configure-1.png)
 
-1. Haga clic en Perspectiva **de ventas**.
+1. Haga clic en **Perspectiva de ventas**.
 
    ![](assets/configure-2.png)
 
-1. Haga clic en **Vista** para rellenar las credenciales de la API de descanso.
+1. Haga clic en **Vista** para rellenar las credenciales de API de descanso.
 
    ![](assets/configure-3.png)
 
@@ -42,11 +42,11 @@ Configure la siguiente configuración para empezar a utilizar el nuevo Panel de 
 
    ![](assets/sfdc-1.png)
 
-1. Busque y seleccione Configuración del sitio **remoto**.
+1. Busque y seleccione **Configuración del sitio remoto**.
 
    ![](assets/sfdc-2.png)
 
-1. Haga clic en **Nuevo sitio** remoto.
+1. Haga clic en **Nuevo sitio remoto**.
 
    ![](assets/sfdc-3.png)
 
