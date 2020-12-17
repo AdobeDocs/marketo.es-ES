@@ -27,17 +27,17 @@ Esto requerirá una descarga del nuevo complemento. Puede descargarlo desde [aqu
 
 Cuando envía un correo electrónico de prueba desde Sales Insight, los tokens actuales del correo electrónico no se resuelven y se envía el valor predeterminado. Esta mejora garantiza que los tokens se resuelvan en los correos electrónicos de prueba.
 
-## Personalización de porcentajes para estrellas y llamas {#customize-percentages-for-stars-and-flames}
+## Personalizar porcentajes para estrellas y llamas {#customize-percentages-for-stars-and-flames}
 
-[Configure el porcentaje](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) de posibles clientes que obtienen 1, 2 o 3 estrellas y llamas.
+[Establezca el ](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) porcentaje de posibles clientes que obtienen 1, 2 o 3 estrellas y llamas.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## API de Lead ReST {#lead-rest-api}
 
-Cree, lea y actualice leads mediante programación a través de nuestra nueva API de ReST. Para comenzar con ReST, debe [crear un servicio](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) personalizado en Marketing. A continuación, diríjase al sitio [de](http://developers.marketo.com/documentation/rest/) desarrolladores para obtener detalles sobre el uso de esta API.
+Cree, lea y actualice leads mediante programación a través de nuestra nueva API de ReST. Para comenzar con ReST, debe [crear un servicio personalizado](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) en Marketing. Luego ingrese al [sitio de desarrolladores](http://developers.marketo.com/documentation/rest/) para obtener detalles sobre cómo usar esta API.
 
-## Actualización de la página de Campañas de la Personalización en tiempo real (RTP) de Marketing to {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Actualización de la página de Campañas de la Personalización en tiempo real (RTP) de Marketing a {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 Las Campañas RTP ahora incluyen un nuevo diseño con vistas en miniatura y rendimiento de campaña. Además, puede [organizar sus campañas](../../product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) según la fecha o el rendimiento superior.
 
@@ -47,6 +47,6 @@ Las Campañas RTP ahora incluyen un nuevo diseño con vistas en miniatura y rend
 
 Anexe todos sus datos RTP en su plataforma de análisis web.
 
-La integración con [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ahora está habilitada de forma predeterminada, por lo que en Configuración de la cuenta active el conmutador para el cual desee enviar datos a variables y eventos personalizados de GA.
+La integración con [Google Analytics](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ahora está habilitada de forma predeterminada, por lo que en Configuración de cuenta active el conmutador para el cual desee enviar datos a variables y eventos personalizados de GA.
 
 También hemos completado la integración con [Adobe SiteCatalyst](../../product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
