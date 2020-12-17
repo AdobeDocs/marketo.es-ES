@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Actualizar el Añada de correo electrónico de marketing para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Actualice el Añada de correo electrónico de marketing para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Cuando haya disponible una nueva versión del Añada de correo electrónico de marketing para Outlook, siga estas instrucciones para actualizar.
 
