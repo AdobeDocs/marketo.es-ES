@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Envío y seguimiento de un correo electrónico con el Añada de correo electrónico para Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Enviar y rastrear un correo electrónico con el Añada de correo electrónico para Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 Puede enviar y rastrear correos electrónicos con Marketing directamente desde Outlook.
 
 >[!PREREQUISITES]
 >
->Si aún no lo ha hecho, instale el complemento de correo electrónico de [Marketing para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si aún no lo ha hecho, instale el complemento de correo electrónico [Marketing para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Abra Microsoft Outlook y cree un nuevo correo electrónico.
 
@@ -27,7 +27,7 @@ Puede enviar y rastrear correos electrónicos con Marketing directamente desde O
    >
    >Si incluye varios destinatarios en el correo electrónico, toda la actividad se rastreará en el primer destinatario.
 
-1. Redacte el correo electrónico como lo haría normalmente y, a continuación, haga clic en **Enviar y realizar un seguimiento**.
+1. Redacte su correo electrónico como lo haría normalmente y haga clic en **Enviar y realizar el seguimiento**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -37,7 +37,7 @@ Puede enviar y rastrear correos electrónicos con Marketing directamente desde O
 
    >[!TIP]
    >
-   >Si desea utilizar una plantilla de marketing, consulte [Enviar y realizar un seguimiento desde Outlook con una plantilla](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Si desea utilizar una plantilla de Marketing, consulte [Enviar y realizar un seguimiento desde Outlook usando una plantilla](send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Eche un vistazo a la previsualización y haga clic en **Enviar**.
 
