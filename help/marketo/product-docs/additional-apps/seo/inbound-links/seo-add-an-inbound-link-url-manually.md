@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO: Añadir una URL de vínculo de entrada de forma manual {#seo-add-an-inbound-link-url-manually}
+# SEO - Añadir una URL de vínculo entrante de forma manual {#seo-add-an-inbound-link-url-manually}
 
 Puede agregar vínculos de entrada manualmente. Así es como:
 
-1. Vaya a la sección Vínculos **de** entrada.
+1. Vaya a la sección **Vínculos de entrada**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -29,7 +29,7 @@ Puede agregar vínculos de entrada manualmente. Así es como:
 
    >[!TIP]
    >
-   >¿Sabía que puede [agregar el vínculo de entrada a una lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)nueva o existente? ¡Echa un vistazo!
+   >¿Sabía que puede [agregar el vínculo de entrada a una lista nueva o existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? ¡Echa un vistazo!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
