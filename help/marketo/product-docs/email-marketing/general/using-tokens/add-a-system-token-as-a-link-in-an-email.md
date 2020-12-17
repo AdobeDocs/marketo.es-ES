@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir un token del sistema como vínculo en un correo electrónico {#add-a-system-token-as-a-link-in-an-email}
+# Añadir un testigo del sistema como vínculo en un mensaje de correo electrónico {#add-a-system-token-as-a-link-in-an-email}
 
 Puede utilizar estos tokens del sistema para personalizar la posición de los vínculos especiales en los correos electrónicos.
 
@@ -23,11 +23,11 @@ Los siguientes tokens pueden utilizarse como vínculos en una plantilla de corre
 
 >[!NOTE]
 >
->Estos tokens **no se pueden** hacer clic a menos que se encuentre dentro de un vínculo de anclaje. Además, **no pueden** incrustarse en un Mi token.
+>Estos tokens **no** se podrán hacer clic a menos que se encuentre dentro de un vínculo de anclaje. Además, pueden **no** incrustarse en un Mi token.
 
 A continuación se muestra cómo agregarlos a un correo electrónico:
 
-1. Busque y seleccione su correo electrónico y, a continuación, haga clic en **Editar borrador**.
+1. Busque y seleccione su correo electrónico, luego haga clic en **Editar borrador**.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ A continuación se muestra cómo agregarlos a un correo electrónico:
 
    ![](assets/two-1.png)
 
-1. Resalte el texto que desee convertir en un vínculo que tenga el token y haga clic en el botón **Insertar/Editar vínculo** .
+1. Resalte el texto que desee convertir en un vínculo que tenga el token y haga clic en el botón **Insertar/Editar vínculo**.
 
    ![](assets/three-1.png)
 
-1. Introduzca el token en la URL del vínculo y haga clic en **Insertar**.
+1. Escriba el token en la URL del vínculo y haga clic en **Insertar**.
 
    ![](assets/four-1.png)
 
@@ -55,6 +55,6 @@ A continuación se muestra cómo agregarlos a un correo electrónico:
 >
 >**Recordatorio**
 >
->No te olvides de [aprobar tu correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) cuando termine.
+>No olvide [aprobar su correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) cuando termine.
 
 ¡Bien hecho! Ahora sabe cómo agregar un token del sistema como vínculo en un correo electrónico.
