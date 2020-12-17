@@ -21,9 +21,9 @@ Añada una identidad cuando tenga varias direcciones de correo electrónico para
 
    >[!NOTE]
    >
-   >Obtenga más información sobre cómo [Añadir firmas a sus identidades](https://docs.marketo.com/x/6BnG).
+   >Obtenga más información sobre [Añadir firmas a sus identidades](https://docs.marketo.com/x/6BnG).
 
-1. Introduzca la información (los campos Correo electrónico y Nombre son obligatorios) y haga clic en **Crear** cuando termine.
+1. Escriba la información (el correo electrónico y el nombre son campos obligatorios), haga clic en **Crear** cuando termine.
 1. Haga clic en el vínculo del correo electrónico de verificación que reciba.
 
    Al enviar un mensaje de correo electrónico** **en Sales Connect, puede alternar entre identidades.
