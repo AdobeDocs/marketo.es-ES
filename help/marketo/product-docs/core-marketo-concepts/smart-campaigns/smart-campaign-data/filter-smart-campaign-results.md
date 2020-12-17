@@ -25,7 +25,7 @@ Filtre los resultados de campaña inteligente para ver actividades específicas 
 
 ## Filtrar por Filtros guardados {#filter-by-saved-filters}
 
-1. En la ficha **Resultados** de campaña inteligente, haga clic en **Filtro** y seleccione un filtro guardado.
+1. En la ficha **Resultados** de la campaña inteligente, haga clic en **Filtro** y seleccione un filtro guardado.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,11 +35,11 @@ Filtre los resultados de campaña inteligente para ver actividades específicas 
 
 ## Crear un filtro personalizado {#create-a-custom-filter}
 
-1. Haga clic en **Filtro** y luego en **Personalizado**.
+1. Haga clic en **Filtro** y luego **Personalizado**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Seleccione los tipos de actividad que desee ver y haga clic en **Guardar como** .
+1. Seleccione los tipos de actividad que desee ver y haga clic en **Guardar como**.
 
    ![](assets/activityfiltersettings-hands.png)
 
