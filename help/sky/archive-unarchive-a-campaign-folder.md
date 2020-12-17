@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Convertir en carpeta de archivo
 
-Haga clic con el botón derecho en cualquier carpeta y seleccione **[!UICONTROL Convertir en carpeta]** de archivo.
+Haga clic con el botón derecho en cualquier carpeta y seleccione **[!UICONTROL Convertir en carpeta de archivo]**.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
