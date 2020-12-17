@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## PASO 1: Crear un Programa {#step-create-a-program}
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/ma.png)
 
-1. Seleccione la carpeta **Aprendizaje** creada en la [anterior victoria](/help/marketo/getting-started/quick-wins/send-an-email.md)rápida.
+1. Seleccione la carpeta **Learning** creada en la [victoria rápida anterior](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Introduzca un **nombre** de programa, seleccione un **Canal** y haga clic en **Crear**.
+1. Introduzca un programa **Nombre**, seleccione un **Canal** y haga clic en **Crear**.
 
    >[!NOTE]
    >
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## PASO 2: Crear un formulario {#step-create-a-form}
 
-1. Con el programa seleccionado, haga clic en **Nuevo** y luego en **Nuevo recurso** local.
+1. Con el programa seleccionado, haga clic en **Nuevo** y luego en **Nuevo recurso local**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -59,19 +59,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Introduzca un **nombre** de formulario y haga clic en **Crear**.
+1. Escriba un formulario **Nombre** y haga clic en **Crear**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Asegúrese de marcar la casilla **Abrir en editor** . Si no es así, deberá hacer clic en la ficha **Editar formulario** .
+   >Asegúrese de marcar la casilla **Abrir en editor**. Si no es así, deberá hacer clic en la ficha **Editar formulario**.
 
    >[!TIP]
    >
-   >¿No ve el editor de formularios? Es probable que el explorador haya bloqueado la ventana. Active las ventanas emergentes de [app.marketo.com](https://app.marketo.com/) en el navegador y haga clic en Editar borrador en la barra de menús superior.
+   >¿No ve el editor de formularios? Es probable que el explorador haya bloqueado la ventana. Habilite ventanas emergentes de [app.marketo.com](https://app.marketo.com/) en el explorador y haga clic en Editar borrador en la barra de menús superior.
 
-1. Seleccione el campo Dirección **de** correo electrónico y marque **Es obligatorio**.
+1. Seleccione el campo **Dirección de correo electrónico** y marque **Es obligatorio**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. En la sección Página de agradecimiento, seleccione Dirección URL **** externa para el **seguimiento con**.
+1. En la sección Página de agradecimiento, seleccione **Dirección URL externa** para **Seguimiento con**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >En la página de seguimiento se redirige el visitante después de rellenar el formulario. La URL externa es una opción, pero hay más. Consulte [Establecer una página](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)de agradecimiento de formulario.
+   >En la página de seguimiento se redirige el visitante después de rellenar el formulario. La URL externa es una opción, pero hay más. Consulte [Establecer una página de agradecimiento de formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
 1. Haga clic en **Finalizar**.
 
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 ## PASO 3: Crear una Página de aterrizaje y Añadir el formulario {#step-create-a-landing-page-and-add-your-form}
 
-1. Con el programa seleccionado, haga clic en **Nuevo** y, a continuación, en **Nuevo recurso** local.
+1. Con el programa seleccionado, haga clic en **Nuevo** y luego en **Nuevo recurso local**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Introduzca un **nombre** de página, seleccione una plantilla y haga clic en **Crear**.
+1. Escriba una página **Nombre**, seleccione una plantilla y haga clic en **Crear**.
 
    >[!NOTE]
    >
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 ## PASO 4: Aprobar su Página de aterrizaje {#step-approve-your-landing-page}
 
-1. Seleccione la página de aterrizaje, en Acciones **de** Página de aterrizaje haga clic en **Aprobar**.
+1. Seleccione la página de aterrizaje, en **Acciones de Página de aterrizaje** haga clic en **Aprobar**.
 
    >[!NOTE]
    >
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 ## PASO 5: Probar el formulario {#step-test-your-form}
 
-1. Seleccione la página de aterrizaje y haga clic en **Vista Página** aprobada.
+1. Seleccione la página de aterrizaje y haga clic en **Página aprobada de Vista**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -171,7 +171,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Vaya al área **Base de datos** .
+1. Vaya al área **Base de datos**.
 
    ![](assets/db-1.png)
 
