@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ¿Desea administrar sus páginas? Puede hacerlo fácilmente creando una lista. Puede utilizar listas para organizar páginas o filtrar datos en paneles.
 
-## Añadir página en una Lista {#add-page-to-a-list}
+## Añadir página a una Lista {#add-page-to-a-list}
 
-1. Vaya a la sección **Páginas** .
+1. Vaya a la sección **Páginas**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
