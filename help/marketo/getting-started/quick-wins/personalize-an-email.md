@@ -22,9 +22,9 @@ ht-degree: 0%
 >* [Perforación, Perforación, Nurtura](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
-## Paso 1: Seleccionar un correo electrónico para personalizar {#step-select-an-email-to-personalize}
+## Paso 1: Seleccione un correo electrónico para personalizar {#step-select-an-email-to-personalize}
 
-1. Seleccione uno de los correos electrónicos de formación creados en la [anterior victoria](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) rápida y haga clic en **Editar borrador**.
+1. Seleccione uno de los correos electrónicos de formación creados en la [victoria rápida anterior](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) y haga clic en **Editar borrador**.
 
    ![](assets/one-4.png)
 
@@ -36,31 +36,31 @@ Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo e
 
 ## Paso 2: Convertir al vendedor en el remitente {#step-make-the-salesperson-the-sender}
 
-1. Seleccione el campo **Desde** , resalte y **elimine** el nombre actual.
+1. Seleccione el campo **De**, resalte y **elimine** el nombre actual.
 
    ![](assets/two-5.png)
 
-1. Haga clic en el icono **Token** a la derecha del campo **Desde** .
+1. Haga clic en el icono **Token** a la derecha del campo **Desde**.
 
    ![](assets/three-4.png)
 
-1. Busque y seleccione el **`{{lead.Lead Owner First Name}}`** token.
+1. Busque y seleccione el token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/four-3.png)
 
-1. Escriba el nombre de la compañía y un guión para el valor **** predeterminado para asegurarse de que se muestra algo en caso de que el nombre del representante de venta no esté disponible. Haga clic en **Insertar**.
+1. Escriba el nombre de la compañía y un guión para el **Valor predeterminado** para asegurarse de que se muestra algo en caso de que el nombre del representante de venta no esté disponible. Haga clic en **Insertar**.
 
    ![](assets/five-4.png)
 
-1. Pulse la barra espaciadora del campo **Desde** , asegurándose de que el cursor parpadea un espacio después del token que acaba de insertar. A continuación, vuelva a hacer clic en el icono **Token** .
+1. Pulse la barra espaciadora del campo **De**, asegurándose de que el cursor parpadea un espacio después del token que acaba de insertar. A continuación, vuelva a hacer clic en el icono **Token**.
 
    ![](assets/six-4.png)
 
-1. Busque y seleccione el **`{{lead.Lead Owner Last Name}}`** token.
+1. Busque y seleccione el token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/seven-5.png)
 
-1. Escriba &quot;Ventas&quot; para el Valor **** predeterminado y haga clic en **Insertar**.
+1. Escriba &quot;Ventas&quot; para el **Valor predeterminado** y haga clic en **Insertar**.
 
    ![](assets/eight-3.png)
 
@@ -70,15 +70,15 @@ Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo e
 
    ![](assets/nine-2.png)
 
-1. Añada un espacio después de &quot;Hola&quot; y coloque el cursor delante de la coma y, a continuación, haga clic en el icono **Insertar token** .
+1. Añada un espacio después de &quot;Hello&quot; y coloque el cursor delante de la coma y, a continuación, haga clic en el icono **Insertar token**.
 
    ![](assets/ten-4.png)
 
-1. Busque y seleccione el **`{{lead.First Name}}`** token.
+1. Busque y seleccione el token **`{{lead.First Name}}`**.
 
    ![](assets/eleven-4.png)
 
-1. Escriba &quot;Amigo&quot; (o cualquier etiqueta que desee) en el campo Valor **** predeterminado y haga clic en **Insertar**.
+1. Escriba &quot;Amigo&quot; (o cualquier etiqueta que desee) en el campo **Valor predeterminado** y haga clic en **Insertar**.
 
    ![](assets/twelve-3.png)
 
@@ -94,13 +94,13 @@ Si no ha habilitado un bloqueador de elementos emergentes, el editor de correo e
 
    ![](assets/fourteen-3.png)
 
-1. En Acciones **de** correo electrónico, seleccione **Aprobar borrador**.
+1. En **Acciones de correo electrónico**, seleccione **Aprobar borrador**.
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->¿Necesita un repaso rápido sobre cómo enviarse el correo electrónico? Consulte [Enviar una explosión](/help/marketo/getting-started/quick-wins/send-an-email.md)de correo electrónico.
+>¿Necesita un repaso rápido sobre cómo enviarse el correo electrónico? Consulte [Envío de una prueba de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Misión completada {#mission-complete}
 
