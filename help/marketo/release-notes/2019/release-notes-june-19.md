@@ -22,15 +22,15 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 ## Servicios principales de marketing {#marketo-core-services}
 
 * **Suma** de comprobación del archivo de extracción masiva: Compruebe que se recuperó un archivo completo comparando el hash del archivo con la cadena de suma de comprobación de los trabajos de extracción completados.
-* **Migración automatizada de Email 1.0 a Email 2.0:** Email 2.0 es totalmente compatible con los correos electrónicos y las plantillas de Email 1.0. Disfrute de nuevas funciones, como la capacidad de agrupar elementos de contenido (imágenes, texto, etc.) en módulos, defina variables como Cadena, Color, Imagen, etc. dentro de las plantillas y aproveche las plantillas de inicio totalmente adaptables. También incluye un selector de plantillas de correo electrónico visual.
+* **La migración automatizada de Email 1.0 a Email 2.0:** Email 2.0 es totalmente compatible con las plantillas y los correos electrónicos de Email 1.0. Disfrute de nuevas funciones, como la capacidad de agrupar elementos de contenido (imágenes, texto, etc.) en módulos, defina variables como Cadena, Color, Imagen, etc. dentro de las plantillas y aproveche las plantillas de inicio totalmente adaptables. También incluye un selector de plantillas de correo electrónico visual.
 
 >[!CAUTION]
 >
->A partir del 18 de junio de 2019, Email 1.0 ya no estará disponible. Puede obtener más información sobre Email 2.0 y el desuso de Email 1.0 [aquí](http://nation.marketo.com/docs/DOC-7038).
+>A partir del 18 de junio de 2019, Email 1.0 ya no estará disponible. Puede obtener más información sobre Email 2.0 y la obsolescencia de Email 1.0 [aquí](http://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
-* **Coincidencia`<sup>BETA</sup>`** de cuentas de LinkedIn: Ahora hay disponible una nueva función ABM en versión beta, que le ofrece la posibilidad de enviar listas de cuentas conocidas y de espacio en blanco directamente desde Marketing a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketing para ABM.
+* **Coincidencia`<sup>BETA</sup>`**  de cuentas de LinkedIn: Ahora hay disponible una nueva función ABM en versión beta, que le ofrece la posibilidad de enviar listas de cuentas conocidas y de espacio en blanco directamente desde Marketing a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketing para ABM.
 
 <br> 
 
@@ -40,14 +40,14 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 
 ## Marketo Sky {#marketo-sky}
 
-* **Las tapas** de evento y los objetivos **de** Evento generalmente están disponibles en Marketo Sky en el complemento Eventos Premium.
+* **Las** Capas de evento y los  **Eventos** Goalsestán disponibles en Marketo Sky en el complemento Eventos Premium.
 
    * Cápsulas de evento: Optimice la experiencia del cliente para sus eventos y seminarios web con topes de registro, redirecciones de página y funciones de espera.
    * Objetivos de evento: Establezca los objetivos de registro y asistencia a los eventos y rastree el progreso en tiempo real.
 
 * **Vínculos** de navegación completos: Hemos habilitado la navegación en todas las aplicaciones con permiso, como Hootsuite, Calendario, etc.
 * **Vistas** de correo electrónico, Página de aterrizaje, fragmento, formulario, imagen y Lista de archivos: Vista, búsqueda y realización de acciones masivas en cualquiera de los recursos de Design Studio.
-* **Página** de detalles de imagen, archivo y fragmento: Obtenga detalles rápidos sobre los recursos con metadatos como *creados por* o por y acciones como *eliminar* y *aprobar*.
+* **Página** de detalles de imagen, archivo y fragmento: Obtenga detalles rápidos sobre los recursos con metadatos como  *creados en y* por y acciones como  ** eliminar y  *aprobar*.
 * **Utilidad Publicaciones del blog de la comunidad**: Acceda a publicaciones recientes de la Comunidad dentro de Mi marketing.
 * **Caduca Pronto Widget**: Añada la utilidad &quot;Caduca pronto&quot; en el panel Mi marketing para ver qué campañas y páginas de aterrizaje están configuradas para caducar a continuación.
 * **Tarjetas** de Lista más inteligentes: Segmenta y destinatario correctamente con tarjetas de lista inteligentes adicionales, incluido el paso de flujo &quot;Crear Tarea&quot;, las reglas de lista inteligente de CRM y mucho más.
@@ -63,10 +63,10 @@ Conexión de ventas de marketing
 
 * **Plantillas** de correo electrónico del sistema: Se han actualizado las capacidades de diseño, capacidad de respuesta e internacionalización.
 
-## Bisible por marca {#bizible-by-marketo}
+## Bisible por el comerciante {#bizible-by-marketo}
 
 * **Compatibilidad con varias monedas para Dynamics**: Ahora, lo bisible se adapta a las tablas de moneda de Microsoft Dynamics para que pueda cambiar fácilmente entre las monedas corporativas y las locales. (Nota: La compatibilidad con SFDC se lanzó en el primer trimestre de 2019).
 * **Integración** de la derivación: Comprender el impacto de las conversaciones de deriva en el viaje del cliente. Bizsible también extraerá direcciones de correo electrónico de las conversaciones para crear un nuevo lead o conectar el touchpoint a un lead existente.
 * **Localización**: Bizbible ahora está disponible en todos los idiomas compatibles con el marketing (inglés, japonés, alemán, español, francés y portugués).
 
-***Seminario*** web sobre la versión de productos Vea la grabación de nuestro seminario web sobre innovaciones de la versión del 19 de junio [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+***Seminario*** web de lanzamiento de productosVea la grabación de nuestro seminario web sobre innovaciones de la versión del 19 de junio  [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
