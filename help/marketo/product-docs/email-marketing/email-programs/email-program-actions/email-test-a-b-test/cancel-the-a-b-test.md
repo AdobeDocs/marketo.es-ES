@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # Cancelar la prueba A/B {#cancel-the-a-b-test}
 
-Si ha [agregado una prueba](add-an-a-b-test.md) A/B a su programa de correo electrónico y ha decidido que ya no la desea, se deshace fácilmente. Así es como.
+Si ha [agregado una prueba A/B](add-an-a-b-test.md) a su programa de correo electrónico y ha decidido que ya no la desea, se deshace fácilmente. Así es como.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
 1. Seleccione su programa de correo electrónico.
 1. ![](assets/selectemailprogram-1.jpg)
 
-1. En el mosaico **Correo electrónico** , haga clic en **Eliminar prueba** A/B.
+1. En el mosaico **Correo electrónico**, haga clic en **Eliminar prueba A/B**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 
@@ -31,6 +31,6 @@ Si ha [agregado una prueba](add-an-a-b-test.md) A/B a su programa de correo elec
    >**Recordatorio**
    >
    >
-   >El programa de correo electrónico debe estar sin aprobar para poder eliminar la prueba A/B. Consulte [Aprobar/Desaprobar un Programa](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) de correo electrónico para obtener más información.
+   >El programa de correo electrónico debe estar sin aprobar para poder eliminar la prueba A/B. Consulte [Aprobar/Desaprobar un Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) para obtener más información.
 
 ¿Ven? ¡Fácil!
