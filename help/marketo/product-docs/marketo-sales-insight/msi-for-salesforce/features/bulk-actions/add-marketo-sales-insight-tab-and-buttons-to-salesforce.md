@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Añadir la ficha y los botones de perspectiva de ventas de marketing a Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
+# Añadir la ficha y los botones de perspectiva de ventas de Marketing to Salesforce {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
 Puede agregar botones y fichas personalizados de perspectiva de ventas de marketing a su vista de Salesforce para facilitar el acceso. ¿Interesado? Así es como.
 
-## Añadir la ficha Comercialización  {#adding-the-marketo-tab}
+## Añadir la ficha Comercialización {#adding-the-marketo-tab}
 
 1. Haga clic en** + **y haga clic en **Personalizar mis fichas**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Seleccione Marcado en la lista izquierda. A continuación, haga clic en **Añadir** para agregarla a las fichas **seleccionadas**.
+1. Seleccione Marcado en la lista izquierda. A continuación, haga clic en **Añadir** para agregarla a las **fichas seleccionadas**.
 
    >[!TIP]
    >
-   >Utilice las flechas **Arriba** y **Abajo** para reordenar las fichas.
+   >Utilice la flecha **Arriba** y **Abajo** para reordenar las fichas.
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -39,7 +39,7 @@ Puede agregar botones de marketing a los diseños de Salesforce. A continuación
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. Haga clic en **Configuración**. Busque &quot;Diseño de búsqueda&quot; y haga clic en **Buscar diseños** en **Posibles clientes**.
+1. Haga clic en **Configuración**. Busque &quot;presentación de búsqueda&quot; y haga clic en **Buscar diseños** en **Posibles clientes**.
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
@@ -47,7 +47,7 @@ Puede agregar botones de marketing a los diseños de Salesforce. A continuación
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. Añada **Añadir a Campaña** de marketing, **Enviar mensaje de correo electrónico** de marketing y **Añada a los botones de Lista** de Watch a los botones **** seleccionados y **Guardar**.
+1. Añada **Añada a Campaña de marketing**, **Enviar correo electrónico de marketing** y **Añada a los botones de Lista de observación** en los botones **Botones seleccionados** y **Guardar**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
