@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Eliminar contenido del flujo {#remove-stream-content}
+# Eliminar contenido de flujo {#remove-stream-content}
 
-Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminación del contenido de flujo, el [archivado](archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no te importa perder las estadísticas históricas de algún contenido y quieres eliminarlo, así es como hacerlo.
+Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminación del contenido del flujo, [el archivado](archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no te importa perder las estadísticas históricas de algún contenido y quieres eliminarlo, así es como hacerlo.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el programa de participación y, a continuación, haga clic en la ficha **Flujos** .
+1. Seleccione el programa de participación y, a continuación, haga clic en la ficha **Flujos**.
 
    ![](assets/cloneasteam-3.jpg)
 
