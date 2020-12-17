@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Borrar valores de campo {#clear-field-values}
 
-** [Cambiar valor](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de datos** es bueno, pero ¿cómo *elimina* el valor por completo? ¡Buena pregunta!
+** [Cambiar valor de datos](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** es bueno, pero ¿cómo *elimina* el valor por completo? ¡Buena pregunta!
 
-1. En el paso de flujo, elija el campo que desea borrar y escriba **NULL ** (todos mayúsculas) como **Nuevo valor**.
+1. En el paso de flujo, elija el campo que desea borrar y escriba **NULL ** (todos los mayúsculas) como **Nuevo valor**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
