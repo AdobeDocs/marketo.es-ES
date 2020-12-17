@@ -31,7 +31,7 @@ Estas reglas se aplicarán *cuando la persona no se encuentre actualmente en [Sa
   </tr> 
   <tr> 
    <td>Cambiar estado en la Campaña SFDC</td> 
-   <td>Sincronizar persona con Campaña<br>SFDCAd a SFDC</td> 
+   <td>Sincronizar persona con SFDC<br>Añadir a la Campaña de SFDC</td> 
   </tr> 
   <tr> 
    <td>Cambiar propietario</td> 
@@ -48,7 +48,7 @@ Estas reglas se aplicarán *cuando la persona no se encuentre actualmente en [Sa
  </tbody> 
 </table>
 
-Puede filtrar los registros SFDC en una Lista inteligente mediante el filtro de tipo **** SFDC con el operador definido como &quot;no está vacío&quot;. Todos los registros SFDC tienen un valor en este campo.
+Puede filtrar los registros SFDC en una Lista inteligente mediante el filtro **Tipo SFDC** con el operador establecido en &quot;no está vacío&quot;. Todos los registros SFDC tienen un valor en este campo.
 
 Recuerde que estas acciones automáticas solo se producen si el posible cliente no está actualmente en [Salesforce.com](http://Salesforce.com)
 
