@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Usar la prueba A/B de &quot;línea de asunto&quot; {#use-subject-line-a-b-testing}
+# Usar la prueba A/B &quot;Línea de asunto&quot; {#use-subject-line-a-b-testing}
 
-Puede probar fácilmente los correos electrónicos con A/B. Una de las pruebas más comunes es la prueba de línea **de** asunto.
+Puede probar fácilmente los correos electrónicos con A/B. Una de las pruebas más comunes es la prueba **Línea de asunto**.
 
 >[!PREREQUISITES]
 >
@@ -37,9 +37,9 @@ Puede probar fácilmente los correos electrónicos con A/B. Una de las pruebas m
 
    >[!TIP]
    >
-   >Puede hacer clic en el **signo más****** para agregar más líneas de asunto.
+   >Puede hacer clic en el signo **más***** para agregar más líneas de asunto.
 
-1. Utilice el control deslizante para elegir el porcentaje de la audiencia que desea que reciba la prueba A/B y haga clic en **Siguiente**.
+1. Use el control deslizante para elegir qué porcentaje de la audiencia desea recibir la prueba A/B y haga clic en **Siguiente**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 
@@ -51,7 +51,7 @@ Puede probar fácilmente los correos electrónicos con A/B. Una de las pruebas m
    >
    >Las diferentes variaciones de sujeto tomarán partes iguales del tamaño de muestra de prueba seleccionado.
 
-   Bien, ya casi llegamos. Ahora tenemos que [definir los criterios](define-the-a-b-test-winner-criteria.md)del ganador de la prueba A/B.
+   Bien, ya casi llegamos. Ahora necesitamos [definir los criterios ganadores de la prueba A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
