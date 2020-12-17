@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Referencia a una Lista o Lista inteligente en espacios de trabajo {#reference-a-list-or-smart-list-across-workspaces}
+# Hacer referencia a una Lista o Lista inteligente en espacios de trabajo {#reference-a-list-or-smart-list-across-workspaces}
 
 Se pueden compartir y hacer referencia a listas y listas inteligentes en todas las áreas de trabajo para facilitar su reutilización desde la base de datos.
 
 >[!NOTE]
 >
->Se aplican las reglas de partición de persona (las listas inteligentes y las listas estáticas en un espacio de trabajo solo muestran a las personas que son miembros de la lista *y miembros del* espacio de trabajo actual).
+>Se aplican las reglas de partición de persona (las listas inteligentes y las listas estáticas en un espacio de trabajo solo muestran a las personas que son miembros de la lista *y* del espacio de trabajo actual).
 
-## Compartir una Lista o una Lista inteligente  {#share-a-list-or-smart-list}
+## Compartir una Lista o Lista inteligente {#share-a-list-or-smart-list}
 
-1. Vaya a la **base de datos**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/db-1.png)
 
