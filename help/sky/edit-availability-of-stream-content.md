@@ -20,7 +20,7 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
 
    ![Imagen uno](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -32,7 +32,7 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
 
    ![Imagen Cuatro](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Seleccione la fecha [!UICONTROL Activo desde] y las fechas [!UICONTROL Activo hasta] .
+1. Seleccione la fecha [!UICONTROL Activa desde] y las fechas [!UICONTROL Activa hasta].
 
    ![Imagen cinco](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
@@ -42,7 +42,7 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
 
 >[!TIP]
 >
->Puede dejar [!UICONTROL Activo] en blanco para que el contenido esté disponible para siempre.
+>Puede dejar [!UICONTROL Activo a través] en blanco para que el contenido esté disponible para siempre.
 
 ¡Perfecto! Verá un icono de reloj junto al contenido programado. Se activará e inactivará según la programación establecida.
 
