@@ -27,5 +27,5 @@ Para obtener más información sobre esta función, consulte el [Email Delivery 
 >
 >**Buceo profundo**
 >
->Para obtener instrucciones específicas, consulte la Guía [del usuario de entrega de marketing](https://250ok.com/guides/marketo/).
+>Para obtener instrucciones específicas, consulte la Guía del usuario de entrega de marketing [](https://250ok.com/guides/marketo/).
 
