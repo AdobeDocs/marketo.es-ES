@@ -22,6 +22,6 @@ Si te preguntas qué necesitas para iniciar sesión y usar Marketing, aquí tien
 * Equipo o portátil que ejecuta Windows, OS X o Linux
 * Teclado y ratón
 * Monitor con una resolución mínima de 1280 x 768
-* Navegador actualizado, consulte Exploradores [](supported-browsers.md) admitidos para obtener más información
+* Navegador actualizado, consulte [Exploradores admitidos](supported-browsers.md) para obtener más información
 * Conexión a Internet
 
