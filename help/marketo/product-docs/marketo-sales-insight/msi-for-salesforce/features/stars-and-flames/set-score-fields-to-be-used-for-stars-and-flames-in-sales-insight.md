@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación** de posibles clientes para calcular estrellas y llamas. Pero si quieres elegir un campo diferente, así es como:
+De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación de posible cliente** para calcular estrellas y llamas. Pero si quieres elegir un campo diferente, así es como:
 
 >[!TIP]
 >
->Si todavía no tiene los campos de puntuación personalizados, así se puede [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)crearlos.
+>Si todavía no tiene los campos de puntuación personalizados, aquí se explica cómo [crearlos](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
@@ -34,11 +34,11 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación** 
 
 
 
-1. En **Administración**, haga clic en Perspectiva **de ventas**.
+1. En **Administración**, haga clic en **Perspectiva de ventas**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. En Configuración **de puntuación de** posibles clientes, haga clic en **Editar**.
+1. En **Configuración de puntuación de posibles clientes**, haga clic en **Editar**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
@@ -46,7 +46,7 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación** 
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Seleccione el campo que desee utilizar para **llamas**.
+1. Seleccione el campo que desee utilizar para **Flamas**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
