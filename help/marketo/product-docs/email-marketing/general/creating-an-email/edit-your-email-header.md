@@ -32,7 +32,7 @@ Si desea utilizar un token, haga clic primero dentro del campo deseado y, a cont
 
 ![](assets/two-3.png)
 
-También puede hacer que el campo sea dinámico mediante segmentos.
+También puede hacer que el campo sea dinámico utilizando segmentos.
 
 ![](assets/three-2.png)
 
