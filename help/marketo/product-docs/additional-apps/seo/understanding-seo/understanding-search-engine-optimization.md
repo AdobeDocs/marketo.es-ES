@@ -19,17 +19,23 @@ Primero, deberías aprender lo básico con este práctico glosario.
 
 ## Glosario SEO {#seo-glossary}
 
-**Optimización de motores de búsqueda (SEO)** Una combinación de estrategias y técnicas utilizadas para aumentar el tráfico del sitio al obtener una ubicación de alto rango en las páginas de resultados de los motores de búsqueda (SERP).
+**Optimización de motores de búsqueda (SEO)**
+Una combinación de estrategias y técnicas utilizadas para aumentar el tráfico del sitio al obtener una ubicación de alto rango en las páginas de resultados de los motores de búsqueda (SERP).
 
-**Palabra clave** Una palabra clave es la palabra o frase que las personas escriben en motores de búsqueda como Google, Yahoo o Bing.
+**Palabra**
+claveUna palabra clave es la palabra o frase que las personas escriben en motores de búsqueda como Google, Yahoo o Bing.
 
-**Vínculos** entrantes Vínculos en otros sitios que dirigen el tráfico a su sitio. Cuanto mayor sea la reputación del sitio de vinculación, más valioso será este vínculo de entrada.
+**Vínculos**
+de entradaVínculos en otros sitios que dirigen el tráfico a su sitio. Cuanto mayor sea la reputación del sitio de vinculación, más valioso será este vínculo de entrada.
 
-**La clasificación** SERP equivale a la página de resultados del motor de búsqueda. Los motores de búsqueda devuelven varias páginas de resultados. La clasificación SERP es la página en la que aparece el vínculo. Generalmente hay 10 resultados por página.
+**SERP**
+rankingRepresenta la página de resultados del motor de búsqueda. Los motores de búsqueda devuelven varias páginas de resultados. La clasificación SERP es la página en la que aparece el vínculo. Generalmente hay 10 resultados por página.
 
-**Vista** del motor de búsqueda La forma en que un equipo con motor de búsqueda percibe su sitio en lugar de la manera en que lo percibe un ser humano.
+**Vista del motor de búsqueda**
+La forma en que un equipo con motor de búsqueda percibe su sitio en lugar de la forma en que lo percibe un ser humano.
 
-**Términos** de búsqueda de encabezados grasos Palabras clave genéricas que arrojan una red muy grande. Representan aproximadamente el 19% de todos los términos de búsqueda utilizados.
+**Términos**
+de búsqueda de encabezados grasosPalabras clave genéricas que arrojan una red muy grande. Representan aproximadamente el 19% de todos los términos de búsqueda utilizados.
 
 >[!NOTE]
 >
@@ -61,7 +67,8 @@ Palabras clave superespecíficas. Se utilizan alrededor del 70% de las veces.
 
 La Puntuación de optimización es una puntuación de mercadotecnia patentada que mide todas las páginas del sitio en una escala de 1 a 100. Se basa en una recopilación de docenas de mejores prácticas. Un puntaje de 70 o más indica un sitio que está bastante bien optimizado.
 
-**Optimización** en la páginaMedidas que se pueden tomar directamente dentro del propio sitio Web para mejorar su posición en las páginas de resultados del motor de búsqueda.
+**Optimización**
+en la páginaMedidas que se pueden tomar directamente dentro del propio sitio Web para mejorar su posición en las páginas de resultados del motor de búsqueda.
 
 >[!NOTE]
 >
@@ -83,8 +90,8 @@ Mira, eso no fue tan malo.
 
 ## ¿Cómo empiezo? {#how-do-i-get-started}
 
-1. Desarrollar su estrategia con [Explicación de las palabras clave](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+1. Desarrolle su estrategia con [Explicación de las palabras clave](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 1. Corregir problemas existentes en [Explicación de las páginas](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-1. Amplíe su alcance [mediante Explicación de los vínculos de entrada](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+1. Amplíe su alcance [Explicación de los vínculos de entrada](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
 Su objetivo es estar tan cerca de la primera página (y del primer resultado) para las palabras clave que le importan a su negocio.
