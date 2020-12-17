@@ -29,23 +29,23 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
    >
    >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y enviar.
 
-1. Haga clic en el botón **Enviar correo electrónico seleccionado** .
+1. Haga clic en el botón **Correo electrónico seleccionado**.
 
    ![](assets/three-2.png)
 
-1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe o [](http://docs.marketo.com/x/GAQ6Ag)programe el correo electrónico.
+1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe/ [programación](http://docs.marketo.com/x/GAQ6Ag)el correo electrónico.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Si ha seleccionado una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Previsualización Campos** dinámicos. Asegúrese de que todos los destinatarios de la barra lateral masiva estén seleccionados para la previsualización de todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Previsualización Campos** dinámicos, solo se obtendrá una vista previa de ese correo electrónico.
+   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Campos dinámicos de Previsualización**. Asegúrese de que todos los destinatarios de la barra lateral masiva estén seleccionados para la previsualización de todos los correos electrónicos. Si selecciona un mensaje de correo electrónico y hace clic en **Campos dinámicos de Previsualización**, solo se verá la vista previa de ese mensaje de correo electrónico.
 
 ## Edición de correos electrónicos {#editing-emails}
 
 **Ediciones masivas**
 
-1. Siga los pasos 1 a 3 de la sección [](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)Envío de correos electrónicos.
+1. Siga los pasos 1 a 3 de la sección [Envío de correos electrónicos](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
    >
    >Puede hacer clic en un destinatario de correo electrónico específico para ver los cambios propagados a ese correo electrónico.
 
-1. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos los destinatarios las actualizaciones de correo electrónico masivo que haya realizado.
+1. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Complete las actualizaciones masivas antes de personalizar cada correo electrón
    >
    >Puede hacer clic en otros destinatarios para ver que no se muestran los cambios realizados en el destinatario seleccionado anteriormente.
 
-1. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos los destinatarios las actualizaciones de correo electrónico masivo que haya realizado.
+1. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
 
    ![](assets/each-four.png)
 
