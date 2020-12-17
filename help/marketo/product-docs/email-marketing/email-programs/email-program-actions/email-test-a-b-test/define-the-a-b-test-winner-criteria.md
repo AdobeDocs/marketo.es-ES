@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definir los criterios del ganador de la prueba A/B {#define-the-a-b-test-winner-criteria}
 
-Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electrónico, deberá elegir un tipo de prueba, [programar la prueba](schedule-the-a-b-test.md)A/B y luego definir los criterios de ganador. Así es como decidir qué correo electrónico gana.
+Cuando [agregue una prueba A/B](add-an-a-b-test.md) a su programa de correo electrónico, deberá elegir un tipo de prueba, [programe la prueba A/B](schedule-the-a-b-test.md) y luego definir los criterios ganadores. Así es como decidir qué correo electrónico gana.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electróni
 
 ## Criterios del ganador {#winner-criteria}
 
-1. Las opciones de Criterios **de** ganador predeterminadas aparecen en primer lugar.
+1. Las opciones predeterminadas **Criterios del ganador** se enumeran en primer lugar.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electróni
    |---|---|
    | **Clics** | De forma predeterminada, los vínculos de los mensajes de correo electrónico tienen un seguimiento incrustado que permite ver quién hizo clic en qué vínculo, cuántos vínculos totales se pulsaron, etc. |
    | **Haga clic para abrir %** | Porcentaje de correos electrónicos que se abrieron y en los que se hizo clic en un vínculo en el correo electrónico. Esto mide la relevancia y el contexto de un mensaje de correo electrónico al tomar el número de clics únicos dividido por el número de aperturas únicas y multiplicarse por 100 para mostrarlo como porcentaje. |
-   | **Puntuación de participación** | La puntuación [de](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) participación le ayuda a determinar la eficacia del contenido. |
+   | **Puntuación de participación** | La [puntuación de participación](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) le ayuda a determinar la eficacia del contenido. |
 
    >[!TIP]
    >
-   >Si elige Puntuación de participación, la prueba tendrá que ejecutarse durante al menos 24 horas. Obtenga más información sobre la [comprensión del índice](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)de participación.
+   >Si elige Puntuación de participación, la prueba tendrá que ejecutarse durante al menos 24 horas. Obtenga más información sobre [cómo comprender la puntuación de participación](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    También puede personalizar sus criterios seleccionando Conversión personalizada y haciendo clic en Editar.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -54,7 +54,7 @@ Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electróni
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre listas [inteligentes y listas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)estáticas.
+   >Obtenga más información sobre [listas inteligentes y listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    Defina el activador.
    ![](assets/image2014-9-12-15-3a53-3a11.png)
@@ -79,7 +79,7 @@ Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electróni
    >**Recordatorio**
    >
    >
-   >Si está realizando una prueba **de fecha y hora** A/B, sólo puede elegir **Manual**.
+   >Si está realizando una **prueba A/B de fecha y hora**, sólo puede elegir **Manual**.
 
    Una vez finalizada la prueba A/B, Marketo puede enviar automáticamente el correo electrónico ganador a la hora programada, o puede revisar los resultados y decidir qué correo electrónico se envía.
 
@@ -89,7 +89,7 @@ Al [agregar una prueba](add-an-a-b-test.md) A/B al programa de correo electróni
 
    >[!TIP]
    >
-   >Si elige **Manual** , se enviará la prueba y esperará a que declare un ganador. Recibirá un informe de los resultados.
+   >Si elige **Manual** se enviará la prueba y esperará a que declare un ganador. Recibirá un informe de los resultados.
 
    [programar la prueba A/B](schedule-the-a-b-test.md)
 
