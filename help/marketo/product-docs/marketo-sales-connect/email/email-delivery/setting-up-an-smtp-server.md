@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **¿Qué es un servidor SMTP?**
 
-**** Simple **** Mail **** Transfer **** Protocol, este es el servidor responsable de enviar su correo saliente. Cuando envía un correo electrónico desde el cliente de correo electrónico, está utilizando este mismo servicio para enviar el correo electrónico.
+**** Simple  **** Mail  **** Transfer  **** Protocol, este es el servidor responsable de enviar su correo saliente. Cuando envía un correo electrónico desde el cliente de correo electrónico, está utilizando este mismo servicio para enviar el correo electrónico.
 
 **¿Por qué deseo configurar mi servidor SMTP con Sales Connect?**
 
@@ -52,13 +52,13 @@ Cons
 * Cada usuario debe configurarlo por sí mismo
 * Si se cambia la contraseña de O365 de un usuario, se interrumpirá la conexión
 
-Si utiliza Office365 o Exchange Online, puede conectarse al servidor SMTP mediante un conjunto estándar de credenciales. Tenga en cuenta que Office365 no es un servicio de envío de correo electrónico masivo, aunque esto funcionará bien para enviar correos electrónicos únicos. Al enviar correos electrónicos masivos, Office365 puede reducir los correos electrónicos, lo que puede provocar errores en el envío. Para obtener más información sobre este artículo, consulte el artículo de Microsoft sobre [cómo configurar el envío](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4)de cliente SMTP.
+Si utiliza Office365 o Exchange Online, puede conectarse al servidor SMTP mediante un conjunto estándar de credenciales. Tenga en cuenta que Office365 no es un servicio de envío de correo electrónico masivo, aunque esto funcionará bien para enviar correos electrónicos únicos. Al enviar correos electrónicos masivos, Office365 puede reducir los correos electrónicos, lo que puede provocar errores en el envío. Para obtener más información sobre este artículo de Microsoft sobre [cómo configurar el envío de cliente SMTP](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 `<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
 Si decide utilizar Office365 como canal de envío, deberá introducir estas credenciales. No se pueden usar las mismas credenciales en todo el equipo porque Office365 utiliza el correo electrónico y la contraseña del usuario para conectarse.
 
 Envío masivo y de Microsoft
 
-[Haga clic aquí](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) para conocer el envío masivo en Office365.
+[Haga clic ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) aquí para conocer el envío masivo en Office365. 
 `<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
 **¿Y si mi compañía usa Gmail?**
 
@@ -70,7 +70,7 @@ No necesitará obtener las credenciales SMTP si su equipo desea utilizar Gmail c
 
 Esto depende del canal de envío que utilice. Por ejemplo, los servicios como Sparkpost permiten que las credenciales estén basadas en dominios, de modo que cualquiera que envíe con un dominio específico se autentica para enviarlas a través de ese servidor. Si este es el caso, entonces sí, puede compartir las credenciales con el equipo.
 
-Si se está conectando a Office365, las credenciales se basan en direcciones de correo electrónico. Esto significa que solo la dirección de correo electrónico que estableció la conexión se autenticará para enviar correos electrónicos a través de ese canal de envío, por lo que **no se deben** compartir las credenciales.
+Si se está conectando a Office365, las credenciales se basan en direcciones de correo electrónico. Esto significa que solo la dirección de correo electrónico que estableció la conexión se autenticará para enviar correos electrónicos a través de ese canal de envío, por lo que las credenciales deben **no** compartirse.
 
 ![](assets/3.png)
 
