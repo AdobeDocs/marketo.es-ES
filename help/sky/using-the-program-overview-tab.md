@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Hay tres secciones en la ficha Información general [!UICONTROL de] Programa: **[!UICONTROL Detalles]**, **[!UICONTROL programación]** e **[!UICONTROL informes]**. Aquí hay una mirada rápida a cada uno.
+Hay tres secciones en la ficha [!UICONTROL Información general de Programa]: **[!UICONTROL Detalles]**, **[!UICONTROL Programación]** e **[!UICONTROL Informes]**. Aquí hay una mirada rápida a cada uno.
 
 ## Detalles
 
@@ -22,7 +22,7 @@ La página de detalles principal muestra información general sobre el programa.
 
 ![Imagen uno](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-En la parte inferior de la página hay dos secciones: **[!UICONTROL Estadísticas]** de programa y **[!UICONTROL utilizadas por]**. **[!UICONTROL Estadísticas]** de programa muestra las métricas clave sobre el rendimiento de los programas, y **[!UICONTROL Utilizado por]** es una manera fácil de ver dónde se está utilizando el programa en Marketing.
+En la parte inferior de la página hay dos secciones: **[!UICONTROL Estadísticas de Programa]** y **[!UICONTROL Utilizadas por]**. **[!UICONTROL Los]** estados de programa muestran las métricas clave sobre el rendimiento de los programas, y  **[!UICONTROL Utilizado por]** Byis es una manera fácil de ver dónde se está utilizando el programa en Marketing.
 
 ![Imagen dos](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,7 +34,7 @@ La vista de calandario del programa es una potente función que le permite crear
 
 **Buceo profundo**
 
-* Aprenda a [utilizar la vista](/help/sky/navigating-program-schedule-view.md)de calandario del programa.
+* Obtenga información sobre cómo [utilizar la vista de calandario del programa](/help/sky/navigating-program-schedule-view.md).
 
 ## Informes
 
