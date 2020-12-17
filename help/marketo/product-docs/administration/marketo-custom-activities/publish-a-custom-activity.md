@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Publicación de una Actividad personalizada {#publish-a-custom-activity}
+# Publicar una Actividad personalizada {#publish-a-custom-activity}
 
 Tienes tu actividad personalizada exactamente como la quieres. ¡Ahora es el momento de publicarlo!
 
@@ -19,7 +19,7 @@ Tienes tu actividad personalizada exactamente como la quieres. ¡Ahora es el mom
 
    ![](assets/one-2.png)
 
-1. En Administración **** de bases de datos, haga clic en **Comercializar Actividades** personalizadas.
+1. En **Administración de bases de datos** haga clic en **Actividades personalizadas de marketing**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ Tienes tu actividad personalizada exactamente como la quieres. ¡Ahora es el mom
 
    ![](assets/three-2.png)
 
-1. Haga clic en la lista desplegable Acciones **de Actividad** personalizadas y seleccione **Publicar Actividad**.
+1. Haga clic en la lista desplegable **Acciones de Actividad personalizadas** y seleccione **Publicar Actividad**.
 
    ![](assets/four-2.png)
 
