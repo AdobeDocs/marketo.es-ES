@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Activar/Desactivar sincronización de objetos personalizados {#enable-disable-custom-object-sync}
+# Habilitar/Deshabilitar sincronización de objetos personalizados {#enable-disable-custom-object-sync}
 
 Los objetos personalizados creados en la instancia de Salesforce también pueden formar parte de Marketing. Así es como configurarlo.
 
-## Activar/Desactivar sincronización de objetos personalizados {#enable-disable-custom-object-sync-1}
+## Habilitar/Deshabilitar sincronización de objetos personalizados {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    **
 
-1. En el menú Administración de bases de datos, haga clic en **Salesforce** **Objects Sync**.
+1. En el menú Administración de bases de datos, haga clic en **Salesforce** **Objetos Sincronizar**.
 
    ![](assets/two-2.png)
 
-1. Si este es su primer objeto personalizado, haga clic en **Sincronizar esquema.** De lo contrario, haga clic en **Actualizar Esquema** para asegurarse de que dispone de la última versión.
+1. Si este es su primer objeto personalizado, haga clic en **Sincronizar esquema.** De lo contrario, haga clic en  **Actualizar** esquema para asegurarse de que dispone de la última versión.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Si se está ejecutando la sincronización global, deberá deshabilitarla haciendo clic en **Deshabilitar sincronización global.**
+1. Si se está ejecutando la sincronización global, tendrá que deshabilitarla haciendo clic en **Deshabilitar sincronización global.**
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -47,7 +47,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Seleccione el objeto que desee sincronizar y haga clic en **Activar sincronización**.
+1. Seleccione el objeto que desee sincronizar y haga clic en **Habilitar sincronización**.
 
    >[!TIP]
    >
@@ -55,23 +55,23 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Vuelva a hacer clic en **Habilitar sincronización** .
+1. Vuelva a hacer clic en **Habilitar la sincronización**.
 
    ** ![](assets/image2014-12-10-10-3a15-3a40.png)
 
    **
 
-1. Vuelva a la ficha **Salesforce** y haga clic en **Activar sincronización**.
+1. Vuelva a la ficha **Salesforce** y haga clic en **Habilitar sincronización**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
-## Uso de objetos personalizados {#using-your-custom-objects}
+## Uso de los objetos personalizados {#using-your-custom-objects}
 
 >[!NOTE]
 >
 >No se pueden utilizar objetos personalizados en campañas inteligentes con activadores.
 
-1. En la lista inteligente, arrastre el ratón sobre el **filtro** Tiene oportunidad y defina **como verdadero**.
+1. En la lista inteligente, arrastre el ratón sobre el filtro **Tiene oportunidad** y defina en **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
