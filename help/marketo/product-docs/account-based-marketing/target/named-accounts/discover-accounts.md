@@ -21,13 +21,13 @@ Identifique las cuentas de destinatario potenciales de su CRM.
 
 >[!NOTE]
 >
->Después de conectar su CRM a ABM de Marketing, las cuentas **de CRM de** Discover mostrarán todas las cuentas de CRM y la información relevante para ayudarle a elegir las cuentas con nombre correctas. Marketo agrega información adicional sobre lo que se ha recibido de CRM.
+>Después de conectar su CRM a ABM de Marketing, **Cuentas de CRM de Discover** mostrará todas las cuentas de CRM e información relevante para ayudarle a elegir las cuentas con nombre correctas. Marketo agrega información adicional sobre lo que se ha recibido de CRM.
 
-**Personas** (En Cuentas CRM de Discover y Compañías de Marketing de Discover): Incluye Contactos y Posibles clientes. Los posibles clientes se pueden descubrir mediante la coincidencia [de](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching)cliente potencial a cuenta de Marketing. **Posibles personas** (en cuentas CRM de Discover y Compañías de marketing de Discover): Muestra cuántos posibles clientes encontrados por el Marketing que podrían pertenecer a una cuenta CRM.
+**Personas**  (En Cuentas CRM de Discover y Compañías de Marketing de Discover): Incluye Contactos y Posibles clientes. Los posibles clientes se pueden descubrir mediante la coincidencia [de cliente potencial a cuenta](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching) de Marketing. **Posibles personas**  (En las cuentas CRM de Discover y en las Compañías de marketing de Discover): Muestra cuántos posibles clientes encontrados por el Marketing que podrían pertenecer a una cuenta CRM.
 
-**Campo** CRM personalizado (solo en cuentas CRM de Discover): Esto le ayudará a alinear su organización de ventas y marketing para seleccionar las cuentas de destinatario correctas. Una vez que [asigne el campo](http://docs.marketo.com/x/1wnG) CRM personalizado a ABM de Marketing, le mostraremos los datos asignados para ayudarle a identificar sus cuentas de destinatario.
+**Campo**  CRM personalizado (solo en cuentas CRM de Discover): Esto le ayudará a alinear su organización de ventas y marketing para seleccionar las cuentas de destinatario correctas. Una vez que [asigne el campo CRM personalizado](http://docs.marketo.com/x/1wnG) a ABM de Marketing, le mostraremos los datos asignados para ayudarle a identificar sus cuentas de destinatario.
 
-1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione Cuentas **CRM de** Discover.
+1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione **Cuentas CRM de Discover**.
 
    ![](assets/disc-crm-one.png)
 
@@ -43,7 +43,7 @@ Identifique las cuentas de destinatario potenciales de su CRM.
 
    ![](assets/disc-four.png)
 
-## Compañías de mercadotecnia de Discover {#discover-marketo-companies}
+## Compañías de Discover Marketing {#discover-marketo-companies}
 
 Identifique las compañías correctas para la segmentación.
 
@@ -51,7 +51,7 @@ Identifique las compañías correctas para la segmentación.
 >
 >En las Compañías de Discover Marketing, verá compañías de Marketing que no provienen de su CRM.
 
-1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione Compañías **de mercadotecnia de** Discover.
+1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione **Compañías de Discover Marketing**.
 
    ![](assets/one-1.png)
 
@@ -65,18 +65,18 @@ Identifique las compañías correctas para la segmentación.
    >
    > * Encuentra personas de la base de datos de Marketing que tienen esa compañía en su registro. Si ve varios valores para algunos de los atributos (por ejemplo, industria), es porque Marketing encontró valores diferentes enumerados para esas personas individuales. El atributo con la mayor cantidad de visitas gana
    >
-   >Solo en **Discover CRM** , Marcado automáticamente:
+   >Solo en **CRM de Discover**, Marcado automáticamente:
    >
    > * Sincroniza y asocia contactos de CRM con la cuenta con nombre
    >
-   >Solo en Compañías **de** Discover Marketing, Marcado automáticamente:
+   >Solo en **Compañías de Discover Marketing to**, Marcado automáticamente:
    >
-   > * Filtros la mayoría de los Proveedores de servicio de Internet y los dominios públicos (por ejemplo, [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) como nombres de compañía
+   > * Filtros en la mayoría de los Proveedores de servicio de Internet y dominios públicos (p. ej. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) como nombres de compañía
       >
       > 
    * Desduplica las cuentas de CRM. Si tiene &quot;Acme&quot; en un registro y &quot;Acme Inc&quot; (o cualquiera de los sufijos siguientes: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, LP, Ltd, PA, PC, PLC, PLLC), los fusionaremos en ABM como simplemente &quot;Acme&quot;.
    >
-   >Si desea que Marketing desduplice cuentas por ID de CRM o Propietario de cuenta en lugar de por nombre de Compañía, póngase en contacto con la asistencia técnica [de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si desea que Marketing desduplice cuentas por ID de CRM o Propietario de cuenta en lugar de por nombre de Compañía, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Haga clic en la flecha hacia abajo situada debajo de la columna Cuenta con nombre para mostrar la lista desplegable.
 
@@ -86,7 +86,7 @@ Identifique las compañías correctas para la segmentación.
    >
    >A partir de ahora, cualquier persona nueva de estas compañías seleccionadas se asignará automáticamente a sus respectivas cuentas con nombre. Compruebe con el doble estas compañías y asegúrese de que están asignadas a la cuenta con nombre correcta.
 
-1. Para seleccionar una cuenta existente, haga clic en la lista desplegable Cuenta **** con nombre, elija la cuenta que desee y haga clic en **Siguiente**.
+1. Para seleccionar una cuenta existente, haga clic en la lista desplegable **Cuenta con nombre**, elija la cuenta que desee y haga clic en **Siguiente**.
 
    ![](assets/disc-comp-four.png)
 
