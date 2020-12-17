@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuración de una firma DKIM personalizada {#set-up-a-custom-dkim-signature}
+# Configure una firma DKIM personalizada {#set-up-a-custom-dkim-signature}
 
 Con el fin de garantizar la entrega de primera calidad, firmamos automáticamente todos los correos salientes con una firma compartida de Marketing a DKIM.
 
@@ -21,7 +21,7 @@ Con el fin de garantizar la entrega de primera calidad, firmamos automáticament
 
 Puede personalizar la firma DKIM para que refleje los dominios de su elección. Así es como.
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/adminhand.png)
 
@@ -30,11 +30,11 @@ Puede personalizar la firma DKIM para que refleje los dominios de su elección. 
    >
    >Si configuras una firma DKIM personalizada de la manera antigua, seguirá funcionando y debería aparecer aquí.
 
-1. Haga clic en **Correo electrónico**, luego en la ficha **DKIM** y, finalmente, **Añada el dominio**.
+1. Haga clic en **Correo electrónico**, luego en la ficha **DKIM** y, finalmente, **Añadir dominio**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Introduzca el dominio que va a utilizar en los correos electrónicos de marketing como Dirección de origen y haga clic en **Añadir**.
+1. Escriba el dominio que va a usar en los correos electrónicos de Marketing como Dirección de origen y haga clic en **Añadir**.
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ Puede personalizar la firma DKIM para que refleje los dominios de su elección. 
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Envíe el registro **de** host y el valor **TXT** a su TI. Pídale que cree el registro por usted y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketing requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que se firma DKIM.
+1. Envíe el **Registro de host** y **Valor TXT** a su TI. Pídale que cree el registro por usted y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketing requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que se firma DKIM.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
