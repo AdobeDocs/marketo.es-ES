@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Carpeta de campaña: Ficha Mis tokens
 
-La ficha [!UICONTROL Mis tokens] lista todos los tokens de la carpeta campaña.
+La ficha [!UICONTROL Mis tokens] lista todos los tokens de la carpeta de campañas.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
