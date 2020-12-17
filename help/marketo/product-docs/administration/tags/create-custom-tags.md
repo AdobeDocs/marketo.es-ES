@@ -29,7 +29,7 @@ Las etiquetas le ayudarán a organizar sus programas, mientras que los canales l
 
 Para crear un nuevo tipo de etiqueta:
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
@@ -41,7 +41,7 @@ Para crear un nuevo tipo de etiqueta:
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
-1. Escriba un nombre para el tipo **de** etiqueta.
+1. Escriba un nombre para el **Tipo de etiqueta**.
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
