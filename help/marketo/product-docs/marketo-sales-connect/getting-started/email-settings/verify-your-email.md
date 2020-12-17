@@ -19,7 +19,7 @@ Si tiene una identidad de correo electrónico no verificada, siga los pasos a co
 
    ![](assets/verify-your-email-1.png)
 
-1. En Mi cuenta, haga clic en Configuración **de correo electrónico**.
+1. En Mi cuenta, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/verify-your-email-2.png)
 
