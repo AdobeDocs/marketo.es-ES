@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Una lista de cuenta es una colección de cuentas con nombre que se pueden dirigir juntas. Las listas de cuenta le permiten realizar destinatarios de cuentas con nombre por sector, ubicación o tamaño de la compañía.
 
-Además de las listas de cuenta, también puede crear listas de cuenta dinámicas que se generan a partir de Vistas de cuenta de CRM públicas. Una Vista de cuenta de CRM es un conjunto de reglas que actúa como filtro al mostrar las cuentas. Por ejemplo: puede utilizarla para encontrar cuentas en las que la industria es la salud *y los* ingresos superan los 100 millones de dólares.
+Además de las listas de cuenta, también puede crear listas de cuenta dinámicas que se generan a partir de Vistas de cuenta de CRM públicas. Una Vista de cuenta de CRM es un conjunto de reglas que actúa como filtro al mostrar las cuentas. Por ejemplo: puede utilizarla para encontrar cuentas en las que la industria es *de salud y* los ingresos superan los 100 millones de dólares.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Las listas de cuenta creadas en Marketing basado en cuentas de marketing están disponibles automáticamente al crear listas inteligentes y campañas web en Personalización [](http://docs.marketo.com/display/DOCS/RTP+Segments)web.
+>Las listas de cuenta creadas en Marketing basado en cuentas de marketing están disponibles automáticamente al crear listas inteligentes y campañas web en [Personalización web](http://docs.marketo.com/display/DOCS/RTP+Segments).
 
 ## Crear una nueva Lista de cuenta {#create-a-new-account-list}
 
-1. Haga clic en la lista desplegable **Nueva** y seleccione **Crear nueva Lista** de cuenta.
+1. Haga clic en la lista desplegable **Nuevo** y seleccione **Crear nueva Lista de cuenta**.
 
    ![](assets/1a.png)
 
@@ -33,7 +33,7 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
    ![](assets/three-0.png)
 
-1. Después de crear la lista de cuenta, ¡comience a [agregarle cuentas con nombre](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Después de crear la lista de la cuenta, comience [agregándole cuentas con nombre](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
 
    >[!NOTE]
    >
@@ -41,11 +41,11 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
 ## Crear una nueva Lista de cuenta dinámica {#create-a-new-dynamic-account-list}
 
-1. Haga clic en la lista desplegable **Nueva** y seleccione **Crear nueva Lista** dinámica.
+1. Haga clic en la lista desplegable **Nuevo** y seleccione **Crear nueva Lista dinámica**.
 
    ![](assets/1.png)
 
-1. En el cuadro de diálogo, seleccione una Vista **de cuenta de** CRM en la lista desplegable o escriba el nombre para buscarla.
+1. En el cuadro de diálogo, seleccione una **Vista de cuenta de CRM** en la lista desplegable o escriba el nombre para buscarla.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -61,13 +61,13 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
 >[!NOTE]
 >
->Estos pasos solo se aplican a listas de cuenta. *Las listas de cuentas dinámicas* utilizan el nombre de sus Vistas de cuentas de CRM asociadas.
+>Estos pasos solo se aplican a listas de cuenta. *Las listas de* cuentas dinámicas utilizan el nombre de sus Vistas de cuentas de CRM asociadas.
 
-1. Seleccione la cuenta a la que desee cambiar el nombre, haga clic en la lista desplegable Acciones **de Lista de** cuenta y seleccione **Cambiar el nombre de la Lista** de cuenta.
+1. Seleccione la cuenta a la que desea cambiar el nombre, haga clic en la lista desplegable **Acciones de Lista de cuenta** y seleccione **Cambiar el nombre de la Lista de cuenta**.
 
    ![](assets/three.png)
 
-1. Introduzca el nuevo nombre y haga clic en **Cambiar nombre**.
+1. Escriba el nuevo nombre y haga clic en **Cambiar nombre**.
 
    ![](assets/four.png)
 
@@ -81,7 +81,7 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 >
 >Estos pasos son los mismos tanto para las listas de cuenta como para las listas de cuentas dinámicas.
 
-1. Seleccione la cuenta que desee eliminar, haga clic en la lista desplegable Acciones **de Lista de** cuenta y seleccione **Eliminar Lista** de cuenta.
+1. Seleccione la cuenta que desee eliminar, haga clic en la lista desplegable **Acciones de Lista de cuenta** y seleccione **Eliminar Lista de cuenta**.
 
    ![](assets/five.png)
 
