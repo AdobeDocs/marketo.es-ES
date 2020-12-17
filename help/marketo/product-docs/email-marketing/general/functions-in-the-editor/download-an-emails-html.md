@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Descargar el HTML de un correo electrónico {#download-an-emails-html}
+# Descargar el HTML {#download-an-emails-html} de un mensaje de correo electrónico
 
 Para realizar copias de seguridad y otros fines, Marketo le permite descargar el contenido HTML de un correo electrónico.
 
-1. Busque el correo electrónico y selecciónelo. En la lista desplegable Acciones **de** correo electrónico, haga clic en **Descargar HTML**.
+1. Busque el correo electrónico y selecciónelo. En la lista desplegable **Acciones de correo electrónico** haga clic en **Descargar HTML**.
 
    ![](assets/one-4.png)
 
