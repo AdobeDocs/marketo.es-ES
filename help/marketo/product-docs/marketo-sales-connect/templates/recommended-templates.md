@@ -17,7 +17,7 @@ Las plantillas recomendadas de Sales Connect le ayudan a obtener los mensajes ad
 
 1. Vaya a la ficha Plantillas.
 1. Seleccione la plantilla que desee recomendar y haga clic en **Editar**.
-1. Para habilitar la funcionalidad Plantilla recomendada en la plantilla, marque Sugerir **automáticamente esta plantilla cuando** lo desee.
+1. Para habilitar la funcionalidad Plantilla recomendada en la plantilla, marque **Sugerir automáticamente esta plantilla cuando**.
 
 ## Todos vs. Cualquiera {#all-vs-any}
 
@@ -25,7 +25,7 @@ Ahora es el momento de seleccionar la configuración de criterios. Seleccione **
 
 ## Definición de criterios {#setting-criteria}
 
-Sus criterios establecerán las condiciones para las que se recomendarán las plantillas. Puede definir un máximo de 3 partes de criterios. Primero seleccione los campos [](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) dinámicos a los que desea que se apunte en la plantilla.
+Sus criterios establecerán las condiciones para las que se recomendarán las plantillas. Puede definir un máximo de 3 partes de criterios. Primero seleccione los [Campos dinámicos](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) a los que desea que se le señale en la plantilla.
 
 ## Condiciones {#conditions}
 
