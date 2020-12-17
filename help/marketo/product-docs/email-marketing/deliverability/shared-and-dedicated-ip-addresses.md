@@ -35,12 +35,12 @@ Como de costumbre, ambas opciones tienen ventajas y desventajas.
 
 **Reputación** : Usted es totalmente propietario de su reputación y capacidad de entrega.\
 **Monitoreo** : el monitoreo del sistema de informes de la capacidad de entrega le permite responder rápidamente a los cambios en las métricas de envío.\
-**Resolución** de problemas: Es más fácil investigar, entender y resolver problemas de envío.
+**Resolución**  de problemas: Es más fácil investigar, entender y resolver problemas de envío.
 
 *Cons*
 
-**Cambios** de volumen: los picos de volumen pueden afectar negativamente a su reputación y es necesario administrarlos.\
-**Proceso** de calentamiento de IP: la reputación se genera con el tiempo. Algunos Proveedores de servicio de Internet (ISP) eliminan direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación en las primeras semanas (Marketo puede ayudarle a guiarle).\
+**Cambios**  de volumen: los picos de volumen pueden afectar negativamente a su reputación y es necesario administrarlos.\
+**Proceso**  de calentamiento de IP: la reputación se genera con el tiempo. Algunos Proveedores de servicio de Internet (ISP) eliminan direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación en las primeras semanas (Marketo puede ayudarle a guiarle).\
 **Coste** : Generalmente, existe un cargo adicional para enviar desde una IP dedicada a cualquier proveedor.
 
 **Ventajas de una IP compartida**
@@ -53,7 +53,7 @@ Como de costumbre, ambas opciones tienen ventajas y desventajas.
 
 *Cons*
 
-**Compañeros** malos - Si la gente con la que comparte su IP se involucra en malas prácticas de envío, sus campañas de correo electrónico podrían verse afectadas negativamente.\
+**Compañeros**  malos: Si la gente con la que comparte su IP se involucra en malas prácticas de envío, sus campañas de correo electrónico podrían verse afectadas negativamente.\
 **Control **- Usted tiene mucho menos control sobre su reputación de remitente.\
 **Resolución de problemas **- A menudo puede resultar más difícil resolver un problema al enviar desde direcciones IP compartidas.
 
