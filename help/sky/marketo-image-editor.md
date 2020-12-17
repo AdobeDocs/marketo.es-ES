@@ -14,17 +14,17 @@ ht-degree: 0%
 
 <br> 
 
-El editor de imágenes le permite realizar ediciones rápidas y ligeras en sus imágenes [!DNL Marketo].
+El editor de imágenes permite realizar ediciones rápidas y ligeras en las imágenes dentro de [!DNL Marketo].
 
-1. En [!DNL Marketo Sky], abra [!UICONTROL Design Studio].
+1. En [!DNL Marketo Sky], abra el [!UICONTROL Estudio de diseño].
 
    ![Imagen uno](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-1.png)
 
-1. Busque la imagen ([!UICONTROL Recursos] recientes de Design Studio o [!UICONTROL Imágenes y archivos]) y haga clic en el nombre del archivo.
+1. Busque la imagen ([!UICONTROL Recursos de Design Studio recientes] o [!UICONTROL Imágenes y archivos]) y haga clic en su nombre de archivo.
 
    ![Imagen dos](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Haga clic en el botón **[!UICONTROL Editar imagen]** .
+1. Haga clic en el botón **[!UICONTROL Editar imagen]**.
 
    ![Imagen tres](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
