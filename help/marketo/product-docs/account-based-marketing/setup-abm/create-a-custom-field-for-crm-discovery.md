@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Crear un campo personalizado para la detección de CRM {#create-a-custom-field-for-crm-discovery}
+# Crear un campo personalizado para detección de CRM {#create-a-custom-field-for-crm-discovery}
 
 Añada los campos personalizados a las cuentas, asígnelos a su CRM y utilícelos para la detección de cuentas de CRM en Marketing Cloud.
 
@@ -19,11 +19,11 @@ Añada los campos personalizados a las cuentas, asígnelos a su CRM y utilícelo
 
    ![](assets/admin.png)
 
-1. Haga clic en Administración **de campos** y, a continuación, en **Nuevo campo** personalizado.
+1. Haga clic en **Administración de campos**, luego **Nuevo campo personalizado**.
 
    ![](assets/two-4.png)
 
-1. Haga clic en la lista desplegable **Objeto** y seleccione Cuenta **** con nombre.
+1. Haga clic en la lista desplegable **Objeto** y seleccione **Cuenta con nombre**.
 
    ![](assets/three-3.png)
 
@@ -31,15 +31,15 @@ Añada los campos personalizados a las cuentas, asígnelos a su CRM y utilícelo
 
    ![](assets/four-3.png)
 
-1. Introduzca un **nombre** (el nombre de la API se rellenará automáticamente) y haga clic en **Crear**.
+1. Escriba un **Nombre** (el nombre de la API se rellenará automáticamente) y haga clic en **Crear**.
 
    ![](assets/five-3.png)
 
-1. Una vez creado el campo, selecciónelo en el árbol de la derecha. Haga clic en la lista desplegable Acciones **de** campo y seleccione **Asignar al campo** CRM.
+1. Una vez creado el campo, selecciónelo en el árbol de la derecha. Haga clic en la lista desplegable **Acciones de campo** y seleccione **Asignar a campo CRM**.
 
    ![](assets/six-2.png)
 
-1. Seleccione el campo de cuenta de CRM al que desea asignar y haga clic en **Guardar**.
+1. Seleccione el campo de cuenta de CRM al que desee asignar y haga clic en **Guardar**.
 
    ![](assets/seven-1.png)
 
