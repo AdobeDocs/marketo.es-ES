@@ -17,11 +17,11 @@ El contenido del flujo está desactivado de forma predeterminada. Active el cont
 
 ## Activar contenido de flujo {#activate-stream-content}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa de participación y haga clic en la ficha **Flujos** .
+1. Seleccione el programa de participación y haga clic en la ficha **Flujos**.
 
    ![](assets/cloneasteam.jpg)
 
@@ -41,7 +41,7 @@ El contenido del flujo está desactivado de forma predeterminada. Active el cont
 
 ## Desactivar contenido del flujo {#deactivate-stream-content}
 
-1. Seleccione el programa de participación y haga clic en la ficha **Flujos** .
+1. Seleccione el programa de participación y haga clic en la ficha **Flujos**.
 
    ![](assets/cloneasteam.jpg)
 
