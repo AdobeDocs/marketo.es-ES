@@ -19,7 +19,7 @@ Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
 >
 >No necesita ser administrador de Marketing para instalar la extensión.
 
-1. Instale el Añada [de Marketo Insights para Google Chrome en extensión](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) desde la tienda web de Chrome.
+1. Instale la [Marketo Insights for Google Chrome Añada en la extensión](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) desde el Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,17 +27,17 @@ Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
 
    ![](assets/two.png)
 
-1. Introduzca el código **** Reg, la dirección **de correo electrónico**, el **nombre** y el **apellido**. Haga clic en **Verificar y guardar**.
+1. Introduzca su **código de registro**, **dirección de correo electrónico**, **nombre** y **apellido**. Haga clic en **Verificar y guardar**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Asegúrese de utilizar su cuenta **de correo electrónico** principal al registrarse, ya que no se admiten los alias para este complemento.
+   >Asegúrese de utilizar su **cuenta de correo electrónico principal** al registrarse, ya que no es compatible con el uso de alias para este complemento.
 
    >[!NOTE]
    >
-   >El código Reg estará en el correo electrónico enviado después de que un administrador de marketing [le envíe](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) una licencia de Añada [de correo electrónico de Marketing](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Expira después de 14 días.**
+   >El código Reg estará en el mensaje de correo electrónico enviado después de que un administrador de marketing [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [le envíe una licencia de Añada de correo electrónico de Marketing](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Expira después de 14 días.**
 
 1. Haga clic en** Permitir **para permitir el acceso sin conexión.
 
