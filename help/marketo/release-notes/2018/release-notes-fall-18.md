@@ -38,7 +38,7 @@ La personalización web ahora admite varios espacios de trabajo.
 
 ## Marketo Sky {#marketo-sky}
 
-Para obtener más información y actualizaciones, consulte nuestras notas de la versión de [Sky](https://help.marketo.com).
+Para obtener más información y actualizaciones, consulte nuestras [notas de la versión de Sky](https://help.marketo.com).
 
 * **Actualizaciones del sistema de diseño**
 
@@ -56,7 +56,7 @@ Para obtener más información y actualizaciones, consulte nuestras notas de la 
 * Vistas de Lista de Design Studio: Los usuarios ahora pueden vista plantillas de página de aterrizaje y plantillas de correo electrónico en formato de vista de listas, lo que permite una navegación rápida y acciones masivas en un solo tipo de recurso.
 * Páginas de detalles de recursos de Design Studio: Ahorre tiempo y problemas de cabeza al ver, organizar y realizar acciones masivas en todos los recursos en un solo lugar.
 * **Programas predeterminados ahora disponibles en Marketo Sky**: Marketo Sky ahora admite programas predeterminados, el estilo versátil de programa que le permite crear cualquier campaña que pueda imaginar.
-* **Programas de correo electrónico - Fase 1**: Ahora puede vista programas de correo electrónico en Sky. Eche un vistazo al nuevo diseño y [háganoslo saber lo que piensa](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas de correo electrónico - Fase 1**: Ahora puede vista programas de correo electrónico en Sky. Eche un vistazo al nuevo diseño y [avísenos lo que piensa](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
