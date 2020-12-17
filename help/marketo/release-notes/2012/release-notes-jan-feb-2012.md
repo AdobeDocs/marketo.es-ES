@@ -19,7 +19,7 @@ Las siguientes funciones se incluyen en la versión de enero y febrero. Comprueb
 >
 >**Buceo profundo**
 >
->Para obtener otras versiones, consulte las notas de la [versión](http://docs.marketo.com/display/docs/release+notes) en profundidad.
+>Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Contenido dinámico avanzado {#advanced-dynamic-content}
 
@@ -29,7 +29,7 @@ Con el contenido dinámico avanzado, puede crear interesantes comunicaciones por
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentación  {#segmentation}
+## Segmentación {#segmentation}
 
 *Disponible para las versiones Pro y Enterprise*
 
@@ -37,7 +37,7 @@ La segmentación es un grupo de segmentos, que son un grupo de individuos objeti
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Recortes {#snippets}
+## Fragmentos {#snippets}
 
 *Disponible para las versiones Pro y Enterprise*
 
@@ -53,7 +53,7 @@ Los especialistas en mercadotecnia de direcciones URL personalizadas (PURL) ahor
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Compatibilidad con la Directiva de privacidad de la UE {#eu-privacy-directive-support}
+## Compatibilidad con la directiva de privacidad de la UE {#eu-privacy-directive-support}
 
 Las nuevas funciones para respetar la configuración &quot;No rastrear&quot; del explorador incluyen la capacidad de deshabilitar el seguimiento de posibles clientes anónimos; esto facilita el cumplimiento de las regulaciones de seguimiento de la privacidad más estrictas de la UE.
 
@@ -73,7 +73,7 @@ Una vista de texto y HTML paralela
 
 En el editor se muestran los campos Desde nombre, Desde correo electrónico, Responder a (NUEVO) y Asunto. Se puede acceder a todos los demás ajustes mediante el botón Editar configuración.
 
-## Compatibilidad con navegadores {#browser-support}
+## Compatibilidad con exploradores {#browser-support}
 
 * Mozilla Firefox 9.0
 * Google Chrome 16
@@ -86,7 +86,7 @@ La administración simplificada de programas mejora la facilidad de uso con la e
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## Cancelar suscripción al informe Suscripción {#unsubscribe-from-subscription-report}
+## Cancelar suscripción al informe de Suscripción {#unsubscribe-from-subscription-report}
 
 Ahora puede cancelar la suscripción a la suscripción directamente desde el informe.
 
@@ -100,7 +100,7 @@ Comprender la contribución de marketing a los ingresos de oportunidades individ
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Análisis de la etapa de ingresos de programa {#program-revenue-stage-analysis}
+## Análisis de etapa de ingresos de programa {#program-revenue-stage-analysis}
 
 Obtenga una perspectiva sobre la velocidad de programa de los posibles clientes al comprender qué programas adquirieron los impulsores más rápidos
 
