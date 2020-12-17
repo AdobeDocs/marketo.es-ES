@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Añadir Google AdWords como un servicio de punto de lanzamiento con una cuenta de administrador {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Vincule su cuenta de Google AdWords a Marketing para cargar automáticamente datos de conversión sin conexión de Marketing a Google AdWords. Luego, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics generaron posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas](https://support.google.com/adwords/answer/3073556) personalizadas en AdWords. Esta información no aparece en la interfaz de usuario de Marketing to.
+Vincule su cuenta de Google AdWords a Marketing para cargar automáticamente datos de conversión sin conexión de Marketing a Google AdWords. Luego, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics generaron posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556) en AdWords. Esta información no aparece en la interfaz de usuario de Marketing to.
 
-Si tiene varias cuentas de Google Adwords, puede utilizar una cuenta [del administrador de](https://www.google.com/adwords/manager-accounts/) Google AdWords (anteriormente denominada My Client Center) para integrarlas con Marketing.
+Si tiene varias cuentas de Google Adwords, puede utilizar una [cuenta del administrador de Google AdWords](https://www.google.com/adwords/manager-accounts/) (anteriormente denominada My Client Center) para integrarlas con Marketing.
 
-Obtenga más información sobre la función [de importación de conversión sin conexión de](https://support.google.com/adwords/answer/2998031?hl=en)Google.
+Obtenga más información sobre la [función de importación de conversión sin conexión de Google](https://support.google.com/adwords/answer/2998031?hl=en).
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ Obtenga más información sobre la función [de importación de conversión sin 
 
 >[!NOTE]
 >
->También puede integrar una cuenta [independiente de Google AdWords como servicio](add-google-adwords-as-a-launchpoint-service.md)de Launchpoint.
+>También puede integrar una [cuenta independiente de Google AdWords como servicio de punto de inicio](add-google-adwords-as-a-launchpoint-service.md).
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/login-admin-1.png)
 
@@ -59,15 +59,15 @@ Obtenga más información sobre la función [de importación de conversión sin 
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. El estado se mostrará como **correcto**. Seleccione **Siguiente**.
+1. El estado se mostrará como **Éxito**. Seleccione **Siguiente**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Cargue las conversiones sin conexión de Marketing a Google AdWords **Semanal **o **Diariamente**.
+1. Cargue las conversiones sin conexión de Marketing a Google AdWords **Semanal **o **Diario**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
-1. Conversión de atributos al **primer clic** o al **último clic**.
+1. Conversión de atributos a **Primer clic** o **Último clic**.
 
    | Tipo | Definición |
    |---|---|
@@ -78,7 +78,7 @@ Obtenga más información sobre la función [de importación de conversión sin 
 
    >[!NOTE]
    >
-   >[El etiquetado](https://support.google.com/adwords/answer/1752125?hl=en) automático debe estar seleccionado para que esta función funcione. Debe activarse dentro de AdWords.
+   >[Para que esta función funcione, se debe seleccionar ](https://support.google.com/adwords/answer/1752125?hl=en) etiquetado automático. Debe activarse dentro de AdWords.
 
 1. Haga clic en **Siguiente**.
 
