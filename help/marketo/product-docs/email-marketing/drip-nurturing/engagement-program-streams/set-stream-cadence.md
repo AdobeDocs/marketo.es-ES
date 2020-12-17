@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Puede enviar contenido de participación en cualquier intervalo que desee. Por ejemplo: una vez a la semana o cada tres martes del mes.
 
-## Establecer la cadencia {#set-cadence}
+## Configurar la cadencia {#set-cadence}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Busque y seleccione el programa de participación, haga clic en la ficha **Streams **y, a continuación, haga clic en **Definir secuencia** de flujo.
+1. Busque y seleccione el programa de participación, haga clic en la ficha **Streams **y, a continuación, haga clic en **Set Stream Cadence**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Seleccione la frecuencia con la que desea que se repita la cadencia. Puede elegir** semanal** o **mensual**.
+1. Seleccione la frecuencia con la que desea que se repita la cadencia. Puede elegir** Semanal** o **Mensual**.
 
 ## Semanal {#weekly}
 
@@ -51,9 +51,9 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
    >[!TIP]
    >
-   >Puede configurar la cadencia para que se ejecute todos los días seleccionando **Repeticiones: Semanal** /** Cada: 1 Semana** /** ****El**: todos los días.
+   >Puede configurar la cadencia para que se ejecute todos los días seleccionando **Repeticiones: Semanal** /** Cada: 1 Semana** /** ****En**: todos los días.
 
-   Ahora elija la hora. Marque la casilla si desea utilizar el huso horario del [Destinatario](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(es decir, entregar según los husos horarios locales) y haga clic en Guardar.
+   Ahora elija la hora. Marque la casilla si desea utilizar [Huso horario de Destinatario](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (es decir, entregar según los husos horarios locales) y luego haga clic en Guardar.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -92,7 +92,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
    >
    >También puede elegir el día de la semana.
 
-1. Elija una **Hora** y haga clic en **Guardar**.
+1. Elija **Tiempo** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
