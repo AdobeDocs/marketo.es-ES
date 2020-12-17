@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mejores apuestas en Salesforce1 {#best-bets-in-salesforce}
 
-Tus [mejores apuestas](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) son tus leads y contactos con la mayor urgencia y puntuación relativa. Solo los leads que posea serán visibles en esa lista y la lista se actualizará a medida que cambien las puntuaciones de los leads.
+Sus [Mejores apuestas](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) son sus posibles clientes y contactos con la mayor urgencia y puntuación relativa. Solo los leads que posea serán visibles en esa lista y la lista se actualizará a medida que cambien las puntuaciones de los leads.
 
 1. Vaya al área de marketing de la aplicación de Salesforce.
 
