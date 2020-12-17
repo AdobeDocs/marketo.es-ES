@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Así es como eliminar un programa.
 
-1. Busque el programa que desea eliminar y, a continuación, seleccione **[!UICONTROL Eliminar]** en la lista desplegable Acciones [!UICONTROL de] Programa.
+1. Busque el programa que desea eliminar y, a continuación, seleccione **[!UICONTROL Eliminar]** en la lista desplegable [!UICONTROL Acciones de Programa].
 
    ![Imagen uno](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Revise los efectos secundarios de la eliminación del programa y, a continuación, marque **[!UICONTROL Eliminar todos los elementos enumerados arriba]**. Haga clic en **[!UICONTROL Enviar]**.
+1. Revise los efectos secundarios de la eliminación del programa y luego marque **[!UICONTROL Eliminar todos los elementos enumerados arriba]**. Haga clic en **[!UICONTROL Enviar]**.
 
    ![Imagen dos](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ Así es como eliminar un programa.
 
 >[!CAUTION]
 >
->Al eliminar un programa se eliminarán todos los datos asociados. Para conservar los datos, es posible que desee [colocar el programa en una carpeta](/help/sky/archive-a-program.md) de archivo.
+>Al eliminar un programa se eliminarán todos los datos asociados. Para conservar cualquier dato, puede [colocar el programa en una carpeta de archiving](/help/sky/archive-a-program.md) en su lugar.
