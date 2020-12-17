@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # El Panel de compromiso {#the-engagement-dashboard}
 
-El Panel de participación es la forma más sencilla de ver el rendimiento del contenido de los programas [de](http://docs.marketo.com/display/docs/drip+nurturing) participación.
+El Panel de compromiso es la forma más sencilla de ver el rendimiento del contenido de sus [programas de participación](http://docs.marketo.com/display/docs/drip+nurturing).
 
 >[!NOTE]
 >
->La puntuación de participación se calcula 72 horas después de cada emisión. Obtenga más información sobre la puntuación de [participación](understanding-the-engagement-score.md).
+>La puntuación de participación se calcula 72 horas después de cada emisión. Obtenga más información sobre la [puntuación de participación](understanding-the-engagement-score.md).
 
 ## Vista del Panel de compromiso {#view-the-engagement-dashboard}
 
@@ -27,9 +27,9 @@ Seleccione el programa de participación y haga clic en **Vista > Panel**.
 
 >[!TIP]
 >
->Consulte el informe [de rendimiento del flujo de](engagement-stream-performance-report.md) participación para obtener estadísticas más detalladas.
+>Consulte el [informe de rendimiento del flujo de participación](engagement-stream-performance-report.md) para obtener estadísticas más detalladas.
 
-## Comprender la utilidad Agotamiento {#understand-the-exhaustion-widget}
+## Comprender la utilidad de agotamiento {#understand-the-exhaustion-widget}
 
 Esta utilidad le ayuda a anticipar cuándo los posibles clientes habrán agotado todo el contenido. La puntuación de agotamiento se calcula inmediatamente después de cada fundido. El ejemplo siguiente muestra que en 1 cast, 195 leads habrán agotado todo el contenido.
 
@@ -37,13 +37,13 @@ Esta utilidad le ayuda a anticipar cuándo los posibles clientes habrán agotado
 
 >[!NOTE]
 >
->Para ver el gráfico anterior, vaya a la ficha Ajustes y asegúrese de que las Notificaciones de contenido agotadas están **activadas** . Si están desactivados, el gráfico tendrá un aspecto diferente.
+>Debe ir a la ficha Ajustes y asegurarse de que las Notificaciones de contenido agotadas están **activadas** para ver el gráfico anterior. Si están desactivados, el gráfico tendrá un aspecto diferente.
 
 >[!CAUTION]
 >
 >Las personas &quot;exhaustas&quot; no recibirán ninguna comunicación en la próxima emisión.
 
-## Comprender la utilidad Participación a través del tiempo {#understand-the-engagement-over-time-widget}
+## Comprender la utilidad Participación en el transcurso del tiempo {#understand-the-engagement-over-time-widget}
 
 Muestra la puntuación de participación promedio a lo largo del tiempo y el impacto de las ediciones de contenido.
 
@@ -69,11 +69,11 @@ Para cambiar la clasificación, haga clic en el icono de engranaje y seleccione 
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Las versiones más recientes* y las más *antiguas* se basan en el tiempo de la última aprobación.
+** Newestand y  ** Oldestare según el tiempo de la última aprobación.
 
 >[!NOTE]
 >
 >**Buceo profundo**
 >
->Obtenga más información en la sección [Crear un Programa](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) de compromiso profunda.
+>Obtenga más información en la sección [Crear un Programa de compromiso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) profunda.
 
