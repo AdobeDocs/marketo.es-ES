@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Uso compartido de un momento {#sharing-a-moment}
+# Compartir un momento {#sharing-a-moment}
 
 ¿Desea proporcionar una actualización a su equipo? Tiene dos opciones para seleccionar compartir:
 
-1. Puntee en el icono **Compartir** de la tarjeta.
+1. Toque el icono **Compartir** en la tarjeta.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
