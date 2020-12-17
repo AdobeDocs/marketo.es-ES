@@ -29,22 +29,22 @@ Limite la cantidad de personas que pueden registrarse para su evento con un lím
 
    ![Imagen uno](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. En Información general, busque [!UICONTROL Evento Cap] y haga clic en **[!UICONTROL Not Set]**.
+1. En Información general, busque [!UICONTROL Tapón de Evento] y haga clic en **[!UICONTROL No definido]**.
 
    ![Imagen dos](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Introduzca la cantidad máxima de personas que desea que puedan registrarse en el evento y haga clic en **[!UICONTROL Siguiente]**.
+1. Escriba la cantidad máxima de personas que desee que puedan registrarse en el evento y haga clic en **[!UICONTROL Siguiente]**.
 
    ![Imagen tres](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. Haga clic en la lista desplegable Página [!UICONTROL de] registro y seleccione la página de aterrizaje que actuará como página de registro.
+1. Haga clic en la lista desplegable [!UICONTROL Página de registro] y seleccione la página de aterrizaje que actuará como página de registro.
 
    ![Imagen Cuatro](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Haga clic en la lista desplegable **[!UICONTROL Registro de página]** completa y seleccione la página de aterrizaje que actuará como página completa de registro. Haga clic en **[!UICONTROL Establecer y activar]** cuando termine.
+1. Haga clic en la lista desplegable **[!UICONTROL Página completa de registro]** y seleccione la página de aterrizaje que actuará como página completa de registro. Haga clic en **[!UICONTROL Configurar y Habilitar]** cuando termine.
 
    ![Imagen cinco](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   Todos están listos. Si decide que desea editar los detalles de la tapa de evento, haga clic en el texto azul junto a la [!UICONTROL tapa] de Evento y repita desde el paso 3.
+   Todos están listos. Si decide que desea editar los detalles del límite de evento, haga clic en el texto azul junto a [!UICONTROL Tapón de Evento] y repita desde el paso 3.
 
    ![Imagen seis](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)
