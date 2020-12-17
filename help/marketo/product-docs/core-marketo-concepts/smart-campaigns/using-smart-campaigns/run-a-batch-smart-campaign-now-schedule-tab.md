@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ejecutar una Campaña inteligente por lotes ahora | Ficha Programación {#run-a-batch-smart-campaign-now-schedule-tab}
+# Ejecutar una Campaña inteligente por lotes ahora | Ficha Programar {#run-a-batch-smart-campaign-now-schedule-tab}
 
 Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutarla ahora o más tarde. Así es como ejecutarlo inmediatamente.
 
@@ -19,7 +19,7 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Asegúrese de que **Ejecutar ahora **está seleccionado y haga clic en **Ejecutar**.
+1. Asegúrese de que **Run Now **está seleccionado y haga clic en **Run**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
