@@ -22,7 +22,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
    ![Imagen uno](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** y, a continuación, haga clic en **[!UICONTROL Definir secuencia]**.
+1. Haga clic en la ficha **[!UICONTROL Flujos]** y, a continuación, haga clic en **[!UICONTROL Configurar secuencia]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
@@ -52,9 +52,9 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
    >[!TIP]
    >
-   >Puede configurar la cadencia para que se ejecute todos los días seleccionando **[!UICONTROL Repeticiones: Semanal]** / **[!UICONTROL Cada: 1 semana]** / **[!UICONTROL el:]** todos los días.
+   >Puede configurar la cadencia para que se ejecute todos los días seleccionando **[!UICONTROL Repeticiones: Semanal]** / **[!UICONTROL Cada: 1 semana]** / **[!UICONTROL El:]** todos los días.
 
-1. Ahora elija la hora. Marque la casilla si desea utilizar el huso horario del [Destinatario](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (es decir, entregar según los husos horarios locales) y, a continuación, haga clic en **[!UICONTROL Guardar]**.
+1. Ahora elija la hora. Marque la casilla si desea utilizar [Huso horario de Destinatario](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) (es decir, entregar según los husos horarios locales), luego haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen siete](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
 ## Mensual
 
-1. Seleccione **[!UICONTROL Mensual]** para la frecuencia con la que se repite.
+1. Seleccione **[!UICONTROL Mensual]** para ver la frecuencia con la que se repite.
 
    ![Imagen nueve](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
    >
    >También puede elegir el día de la semana.
 
-1. Elija una [!UICONTROL Hora] y haga clic en **[!UICONTROL Guardar]**.
+1. Elija [!UICONTROL Tiempo] y haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen trece](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
