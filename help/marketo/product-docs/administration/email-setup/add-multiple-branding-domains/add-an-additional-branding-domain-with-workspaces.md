@@ -17,11 +17,11 @@ Si tiene espacios de trabajo, puede agregar dominios de marca adicionales.
 
 >[!PREREQUISITES]
 >
->Primero debe [editar el dominio](edit-your-default-branding-domain.md) de marca predeterminado.
+>Debe [editar primero su dominio de marca predeterminado](edit-your-default-branding-domain.md).
 >
->Primero debe [reemplazar el vínculo](edit-your-default-branding-domain-with-workspaces.md) de seguimiento genérico por un dominio de marca antes de agregar dominios de marca adicionales.
+>Primero debe [reemplazar el vínculo de seguimiento genérico](edit-your-default-branding-domain-with-workspaces.md) por un dominio de marca antes de agregar dominios de marca adicionales.
 
-1. Vaya a **Administración **y, a continuación, haga clic en **Correo electrónico**.
+1. Vaya a **Administración **y haga clic en **Correo electrónico**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
