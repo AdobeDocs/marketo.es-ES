@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Editar asignaciones iniciales de campos {#edit-initial-field-mappings}
+# Editar asignaciones iniciales de campo {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
 >**Recordatorio**
 >
->A esta función solo se puede acceder antes de la sincronización inicial con Salesforce. Una vez presionado el botón **Sincronizar ahora** , ya no se puede hacer.
+>A esta función solo se puede acceder antes de la sincronización inicial con Salesforce. Una vez que se pulsa el botón **Sincronizar ahora**, ya no se puede hacer.
 
 Durante la sincronización inicial con Salesforce, Marketo combina automáticamente campos personalizados con nombres similares en un único campo del lado de Marketing para garantizar que los datos se puedan intercambiar con los objetos Posible cliente y Contacto en CRM. En este artículo se explica cómo personalizar estas asignaciones.
 
@@ -29,7 +29,7 @@ Cuando ve un campo en la carpeta Campos sin asignar, significa que no está asig
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Abra la carpeta Campos **personalizados** sin asignar.
+1. Abra la carpeta **Campos personalizados sin asignar**.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ Cuando ve un campo en la carpeta Campos sin asignar, significa que no está asig
 
    ![](assets/four.png)
 
-## Desglose de la asignación existente {#break-existing-mapping}
+## Romper la asignación existente {#break-existing-mapping}
 
 Si tiene campos con nombres similares en el lead y el objeto de contacto Marketing los asignará automáticamente. Puede considerar que son diferentes y que contienen datos diferentes. Rompa la asignación de esta manera.
 
@@ -53,7 +53,7 @@ Si tiene campos con nombres similares en el lead y el objeto de contacto Marketi
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Resalte un campo asignado y haga clic en **Dividir asignación** para separar los campos.
+1. Resalte un campo asignado y haga clic en **Asignación de saltos** para separar los campos.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
@@ -65,7 +65,7 @@ Si tiene campos con nombres similares en el lead y el objeto de contacto Marketi
 
 ## Restablecer Esquema {#reset-schema}
 
-1. Si realiza algunos cambios en el esquema en Salesforce mientras trabaja en las asignaciones, puede extraer los cambios haciendo clic en **Restablecer Esquema**.
+1. Si realiza algunos cambios en el esquema de Salesforce mientras trabaja en las asignaciones, puede extraer los cambios haciendo clic en **Restablecer Esquema**.
 
    * Se restablecerán todos los cambios de asignación.
    * Restablecer el esquema solo agregará campos, no se eliminará (aunque los oculte del usuario de sincronización).
