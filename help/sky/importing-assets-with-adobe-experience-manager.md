@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-El Selector de recursos permite a [!DNL Marketo] los clientes acceder, seleccionar e importar AEM recursos en [!DNL Marketo's] Design Studio . Debe ser administrador para realizar estos pasos.
+El Selector de recursos permite a [!DNL Marketo] clientes acceder, seleccionar e importar recursos AEM en [!DNL Marketo's] [!UICONTROL Design Studio]. Debe ser administrador para realizar estos pasos.
 
 >[!NOTE]
 >[!DNL Adobe Experience Manager (AEM)] es un producto independiente y debe comprarse por separado. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
 >[!IMPORTANT]
->Asegúrese de que ya ha realizado la [AEM Configuración](https://docs.marketo.com/x/FwPLAQ) en [!DNL Marketo Classic].
+>Asegúrese de que ya ha realizado la [Configuración de AEM](https://docs.marketo.com/x/FwPLAQ) en [!DNL Marketo Classic].
 
 >[!CAUTION]
 >
@@ -50,16 +50,16 @@ El Selector de recursos permite a [!DNL Marketo] los clientes acceder, seleccion
    >
    >Las imágenes no pueden superar los 100 MB de tamaño.
 
-1. Verifique las imágenes que ha elegido, seleccione la carpeta de destino ([!UICONTROL Imágenes y archivos] es la predeterminada) y haga clic en **[!UICONTROL Siguiente]**.
+1. Compruebe las imágenes que ha elegido, seleccione la carpeta de destino ([!UICONTROL Imágenes y archivos] es la predeterminada) y haga clic en **[!UICONTROL Siguiente]**.
 
    ![Imagen seis](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-¡Y eso es todo! Haga clic en **[!UICONTROL Cerrar]** para volver a Imágenes y archivos.
+¡Y eso es todo! Haga clic en **[!UICONTROL Cerrar]** para regresar a Imágenes y archivos.
 
 ![Imagen siete](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
 ## Aspectos a tener en cuenta
 
-* [!DNL Marketo] actualmente es compatible con [!DNL Adobe Experience Manager] las versiones 6.4 y 6.5.
+* [!DNL Marketo] actualmente admite  [!DNL Adobe Experience Manager] las versiones 6.4 y 6.5.
 * Todos los usuarios de la instancia podrán realizar vistas o acceder a las imágenes importadas.
-* Las imágenes no se actualizan automáticamente. Si una imagen importada en [!DNL Marketo] Design Studio [!UICONTROL se actualiza en AEM, debe volver a importarla manualmente en] [!DNL Marketo].
+* Las imágenes no se actualizan automáticamente. Si una imagen importada en [!DNL Marketo] [!UICONTROL Design Studio] se actualiza en AEM, debe volver a importarla manualmente en [!DNL Marketo].
