@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede utilizar el paso de flujo de espera para pausar el viaje de una persona a través de una campaña inteligente durante un tiempo determinado. También puede especificar criterios para el día de la semana y la hora en que finaliza.
 
-1. En la ficha **Flujo** de campaña inteligente, arrastre el ratón sobre el paso de flujo de **espera** .
+1. En la ficha **Flujo** de la campaña inteligente, arrastre el ratón sobre el paso de flujo **Espera**.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -43,7 +43,7 @@ Puede utilizar el paso de flujo de espera para pausar el viaje de una persona a 
    >Una persona desencadena una campaña inteligente el viernes a las 5 pm. Se ha avanzado el paso de espera: 48 horas y debe terminar el lunes-viernes a las 9 de la mañana.
    >
    >
-   >El resultado sería que la persona continuaría en el flujo el **lunes 9 a.m**. Esta es la primera fecha M-F después de 48 horas.
+   >El resultado sería que la persona continuaría en el flujo el **lunes, a las 9am**. Esta es la primera fecha M-F después de 48 horas.
 
    >[!NOTE]
    >
