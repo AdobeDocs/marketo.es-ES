@@ -17,12 +17,12 @@ Le permitimos personalizar sus plantillas de correo electrónico con atributos p
 
 >[!TIP]
 >
->Los campos &quot;first_name&quot; y &quot;compañía&quot; son los `only fields that will look to both Sales Connect and Salesforce.` que significan que si un contacto no existe en la aplicación [](http://toutapp.com/login)web, buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico coincidente. Luego usamos la información de ese registro para rellenar el campo.
+>El campo &quot;first_name&quot; y &quot;compañía&quot; son los `only fields that will look to both Sales Connect and Salesforce.`. Esto significa que si no existe un contacto en la [aplicación Web](http://toutapp.com/login), buscamos en Salesforce para ver si podemos encontrar un registro de contacto/posible cliente con una dirección de correo electrónico coincidente. Luego usamos la información de ese registro para rellenar el campo.
 
 ## Insertar un campo dinámico en una plantilla {#insert-a-dynamic-field-into-a-template}
 
 1. En **Plantillas y Campañas**, busque la plantilla que desee editar y haga clic en **Editar plantilla**.
-1. Haga clic en **Extraer campos** dinámicos.
+1. Haga clic en **Tout Dynamic Fields**.
 
    >[!NOTE]
    >
