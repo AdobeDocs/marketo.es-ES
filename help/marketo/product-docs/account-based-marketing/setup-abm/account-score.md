@@ -34,7 +34,7 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 >
 >**Explicación**
 >
->Para calcular las puntuaciones de cuenta, primero debe crear puntuaciones de posible cliente. Marketo ABM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (*Cuenta *Puntuación *de interés del producto* y Puntuación ** de participación en Web de la cuenta).
+>Para calcular las puntuaciones de cuenta, primero debe crear puntuaciones de posible cliente. Marketo ABM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (*Cuenta **Puntuación de interés del producto* y *Puntuación de participación en Web de la cuenta*).
 >
 >En primer lugar, cree campos de puntuación de posibles clientes que capturen detalles relevantes de cada posible cliente de una cuenta de destinatario.\
 >A continuación, asigne las puntuaciones de posible cliente a sus puntuaciones de cuenta respectivas:\
@@ -63,7 +63,7 @@ Una vez configurada la puntuación de posibles clientes, siga los pasos a contin
    >
    >Puede elegir hasta **cinco **campos para calcular la puntuación de cuenta.
 
-1. Introduzca el nombre de la puntuación de cuenta, haga clic en la lista desplegable **Seleccionar puntuación** de persona y seleccione la puntuación correspondiente.
+1. Introduzca el nombre de la puntuación de cuenta, haga clic en la lista desplegable **Seleccionar puntuación de persona** y seleccione la puntuación correspondiente.
 
    ![](assets/four.png)
 
