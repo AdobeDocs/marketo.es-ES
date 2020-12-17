@@ -17,13 +17,13 @@ Si alguna vez desea enviar correos electrónicos de solo texto, así se puede cr
 
 >[!NOTE]
 >
->Dado que las aperturas son rastreadas por el destinatario que descarga las imágenes del correo electrónico (que incluye un píxel de seguimiento invisible), las aperturas **no pueden** rastrearse para los correos electrónicos de solo texto.
+>Dado que el destinatario que descarga las imágenes del correo electrónico rastrea las aperturas (que incluye un píxel de seguimiento invisible), las aperturas **no** se pueden rastrear para los correos electrónicos de solo texto.
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/one-1.png)
 
-1. Seleccione el programa, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo recurso** local.
+1. Seleccione el programa, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/two-1.png)
 
@@ -31,27 +31,27 @@ Si alguna vez desea enviar correos electrónicos de solo texto, así se puede cr
 
    ![](assets/three-1.png)
 
-1. Introduzca un **nombre**, seleccione una plantilla y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione una plantilla y haga clic en **Crear**.
 
    ![](assets/four-1.png)
 
-1. En el editor de correo electrónico, haga clic en Configuración **de correo electrónico**.
+1. En el editor de correo electrónico, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/five.png)
 
-1. Marque Solo **** texto y haga clic en **Guardar**.
+1. Marque **Solo texto** y haga clic en **Guardar**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Los vínculos no se rastrean automáticamente en correos electrónicos de solo texto. Consulte cómo [Añadir vínculos rastreados en un mensaje de texto](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Los vínculos no se rastrean automáticamente en correos electrónicos de solo texto. Consulte cómo [Añadir vínculos rastreados a un mensaje de texto](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >También puede editar un correo electrónico existente y cambiar esta configuración. No te olvides de aprobar el borrador.
 
-1. Desmarque la casilla de verificación Copiar **automáticamente desde HTML** .
+1. Desmarque la casilla **Copiar automáticamente desde HTML**.
 
    ![](assets/seven.png)
 
