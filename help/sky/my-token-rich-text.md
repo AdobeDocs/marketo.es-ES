@@ -16,7 +16,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un token de texto enriquecido para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de texto **** enriquecido al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un distintivo **Texto enriquecido** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
