@@ -33,11 +33,11 @@ El informe de ventas de ABM es un correo electrónico personalizado y semanal en
 
    ![](assets/four-4.png)
 
-1. Para determinar la presentación del correo electrónico, haga clic en la lista desplegable **Ordenar por** y seleccione una opción.
+1. Para determinar el diseño del correo electrónico, haga clic en la lista desplegable **Ordenar por** y realice una selección.
 
    ![](assets/five-3.png)
 
-1. Marque la casilla **Usuarios** , luego haga clic en la lista desplegable y seleccione quién desea recibir el correo electrónico.
+1. Marque la casilla **Usuarios**, luego haga clic en la lista desplegable y seleccione quién desea recibir el correo electrónico.
 
    ![](assets/six-2.png)
 
@@ -53,7 +53,7 @@ El informe de ventas de ABM es un correo electrónico personalizado y semanal en
 
 ## Cómo cancelar la suscripción {#how-to-unsubscribe}
 
-Cada informe viene con la opción de exclusión. Para ello, haga clic en **Cancelar suscripción** en la parte inferior del correo electrónico.
+Cada informe viene con la opción de exclusión. Para ello, haga clic en **Cancelar la suscripción** en la parte inferior del correo electrónico.
 
 ![](assets/eight-1.png)
 
@@ -75,7 +75,7 @@ Cada informe viene con la opción de exclusión. Para ello, haga clic en **Cance
 
    ![](assets/ten.png)
 
-1. Seleccione el usuario al que desea volver a recibir correos electrónicos y haga clic en **Volver a suscribirse**.
+1. Seleccione el usuario al que desea volver a recibir correos electrónicos y haga clic en **Volver a suscribir**.
 
    ![](assets/eleven.png)
 
