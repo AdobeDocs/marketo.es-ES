@@ -19,14 +19,14 @@ Es posible que haya notado la opción &quot;Usar filtros&quot; al crear listas i
 
 >[!NOTE]
 >
->El cambio de la lógica de reglas de lista inteligente solo se aplica a filtros, **no** a activadores.
+>El cambio de la lógica de reglas de lista inteligente solo se aplica a filtros, **no** activadores.
 
 Los activadores siempre se evalúan como O aunque la configuración anterior esté establecida en ALL.  A continuación se muestra un ejemplo:
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 La lista inteligente anterior en palabras:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Por lo tanto, si una persona rellena el formulario **o visita** la página, la campaña evaluará a esa persona basándose en **todos **o **cualquier **de los filtros posteriores, dependiendo de la configuración utilizada.
+`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Por lo tanto, si una persona rellena el formulario **o** visita la página, la campaña luego evaluará a esa persona en base a **all **o **any **de los filtros posteriores, según la configuración utilizada.
 
 >[!MORELIKETHIS]
 >
