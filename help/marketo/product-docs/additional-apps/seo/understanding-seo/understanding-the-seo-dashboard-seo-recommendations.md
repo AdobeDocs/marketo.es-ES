@@ -19,9 +19,9 @@ También puede averiguar cómo mejorar con la sección Recommendations. ¡Sumerg
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Problemas de optimización de página principales {#top-page-optimization-issues}
+## Problemas principales de optimización de página {#top-page-optimization-issues}
 
-Esto le mostrará cinco maneras de alto impacto de inicio para optimizar su sitio de inmediato. Haga clic en cualquiera de los vínculos para vista del detalle de [página completo Desglose](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md).
+Esto le mostrará cinco maneras de alto impacto de inicio para optimizar su sitio de inmediato. Simplemente haga clic en cualquiera de los vínculos para vista del [desglose de detalles de página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) completo.
 
 >[!TIP]
 >
