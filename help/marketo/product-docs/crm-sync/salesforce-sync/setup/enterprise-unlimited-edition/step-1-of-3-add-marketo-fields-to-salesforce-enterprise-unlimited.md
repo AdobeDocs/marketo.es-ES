@@ -79,7 +79,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
    <td>Puntuación</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Longitud 10<br>decimales 0 </td> 
+   <td>Longitud 10<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Fecha de adquisición</td> 
@@ -112,12 +112,12 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
 1. Especifique la configuración de acceso y haga clic en Siguiente:
 
-   * Definir todas las funciones como **Visible **y de Solo **lectura**
+   * Configure todos los roles en **Visible **y **Sólo lectura**
 
-   * Desactive la casilla de verificación Solo **** lectura para el perfil del usuario de sincronización:
+   * Desactive la casilla **Sólo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de un administrador *del* sistema como usuario de sincronización, desactive la casilla de verificación de sólo **** lectura para el perfil del administrador del sistema (como se muestra a continuación)
-      * Si ha creado un perfil ** personalizado para el usuario de sincronización, desactive la casilla de verificación Solo **** lectura para ese perfil personalizado
+      * Si tiene un usuario con el perfil de *Administrador del sistema* como usuario de sincronización, desactive la casilla **Sólo lectura** del perfil Administrador del sistema (como se muestra a continuación)
+      * Si ha creado un *perfil personalizado* para el usuario de sincronización, desactive la casilla **Sólo lectura** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -159,7 +159,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
    <td>ID de Programa de adquisición</td> 
    <td>mkto71_Acquisition_Programa_Id</td> 
    <td>Número</td> 
-   <td>Longitud 18<br>decimales 0 </td> 
+   <td>Longitud 18<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Remitente del reenvío original</td> 
@@ -248,7 +248,7 @@ Un campo personalizado del objeto de posible cliente en Salesforce debe asignars
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vaya a la sección Campos y relaciones personalizados de posibles clientes y haga clic en **Asignar campos** de posibles clientes.
+1. Vaya a la sección Campos y relaciones personalizados de posibles clientes y haga clic en **Asignar campos de posibles clientes**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -269,7 +269,7 @@ Un campo personalizado del objeto de posible cliente en Salesforce debe asignars
 >
 >**Buceo profundo**
 >
->Aquí hay un enlace a un [video de todo el procedimiento](https://nation.marketo.com/videos/1475) que debería hacerlo más claro.
+>Aquí hay un vínculo a un [video de todo el procedimiento](https://nation.marketo.com/videos/1475) que debería hacerlo más claro.
 
 >[!NOTE]
 >
