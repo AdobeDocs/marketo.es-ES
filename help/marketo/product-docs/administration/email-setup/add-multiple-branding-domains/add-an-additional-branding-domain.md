@@ -17,9 +17,9 @@ Añada un dominio de marca adicional cuando esté ejecutando varias marcas desde
 
 >[!PREREQUISITES]
 >
->Debe [reemplazar el vínculo](edit-your-default-branding-domain.md) de seguimiento genérico por un dominio con marca antes de agregar dominios con marca adicionales.
+>Debe [reemplazar el vínculo de seguimiento genérico](edit-your-default-branding-domain.md) por un dominio de marca antes de agregar dominios de marca adicionales.
 
-1. En Mi marketing, haga clic en **Administración **y, a continuación, en el vínculo **Correo electrónico** .
+1. En Mi marketing, haga clic en **Administración **y, a continuación, en el vínculo **Correo electrónico**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
