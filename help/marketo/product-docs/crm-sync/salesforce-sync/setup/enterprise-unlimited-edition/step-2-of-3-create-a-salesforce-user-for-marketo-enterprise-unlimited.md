@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Paso 2 de 3: Crear un usuario de Salesforce para el marketing (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Paso 2 de 3: Crear un usuario de Salesforce para Marketing (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ En este artículo, configurará los permisos de usuario en Salesforce perfil y c
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Escriba &quot;perfiles&quot; en la barra de búsqueda de Nav y haga clic en el vínculo **Perfiles** .
+1. Escriba &quot;perfiles&quot; en la barra de búsqueda de Nav y haga clic en el vínculo **Perfiles**.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -41,17 +41,17 @@ En este artículo, configurará los permisos de usuario en Salesforce perfil y c
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Seleccione Usuario **** estándar, asigne al perfil el nombre &quot;Marketo-Salesforce Sync&quot; y haga clic en **Guardar**.
+1. Seleccione **Usuario estándar**, asigne al perfil el nombre &quot;Marketing-Salesforce Sync&quot; y haga clic en **Guardar**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Definir permisos de Perfil {#set-profile-permissions}
 
-1. Haga clic en **Editar** para definir los permisos de seguridad.
+1. Haga clic en **Editar** para establecer los permisos de seguridad.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. En la sección Permisos **** administrativos, asegúrese de marcar las siguientes casillas:
+1. En la sección **Permisos administrativos**, asegúrese de marcar las siguientes casillas:
 
    * API habilitada
    * Editar plantillas HTML
@@ -62,7 +62,7 @@ En este artículo, configurará los permisos de usuario en Salesforce perfil y c
 
    >[!TIP]
    >
-   >Asegúrese de marcar la casilla **Contraseña nunca caduca** .
+   >Asegúrese de marcar la casilla **La contraseña nunca caduca**.
 
 1. En la sección Permisos generales de usuario, asegúrese de marcar las siguientes casillas:
 
@@ -98,7 +98,7 @@ En este artículo, configurará los permisos de usuario en Salesforce perfil y c
    >
    >Este paso evitará que los campos que no necesite que aparezcan en Marketing Cloud, lo que reducirá el desorden y acelerará la sincronización.
 
-1. En la página de detalles del perfil, vaya a la sección Seguridad **en el nivel de** campo. Haga clic en **Vista** para editar la accesibilidad de los objetos:
+1. En la página de detalles del perfil, vaya a la sección **Seguridad a nivel de campo**. Haga clic en **Vista** para editar la accesibilidad de los objetos:
 
    * `Lead`
    * `Contact`
@@ -115,7 +115,7 @@ En este artículo, configurará los permisos de usuario en Salesforce perfil y c
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Busque los campos no necesarios, asegúrese de que **Acceso de lectura **** y Editar acceso **están desactivados. Haga clic en **Guardar** cuando haya terminado.
+1. Busque los campos innecesarios, asegúrese de que **Acceso de lectura **y** Editar acceso **están desactivados. Haga clic en **Guardar** cuando haya terminado.
 
    >[!NOTE]
    >
@@ -157,11 +157,11 @@ En este artículo, configurará los permisos de usuario en Salesforce perfil y c
 >
 >Cree una cuenta de Salesforce dedicada (p. ej. [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) para distinguir los cambios realizados por Marketing con respecto a otros usuarios de Salesforce.
 
-1. Escriba &quot;Administrar usuarios&quot; en la barra de búsqueda de Nav y, a continuación, haga clic en **Usuarios**. Haga clic en **Nuevo usuario**.
+1. Escriba &quot;Administrar usuarios&quot; en la barra de búsqueda de Nav y luego haga clic en **Usuarios**. Haga clic en **Nuevo usuario**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Rellene los campos obligatorios. A continuación, seleccione la licencia **de usuario: Salesforce** y el Perfil que creó anteriormente. Haga clic en **Guardar** cuando haya terminado.
+1. Rellene los campos obligatorios. A continuación, seleccione la **Licencia de usuario: Salesforce** y el Perfil que creó anteriormente. Haga clic en **Guardar** cuando haya terminado.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
