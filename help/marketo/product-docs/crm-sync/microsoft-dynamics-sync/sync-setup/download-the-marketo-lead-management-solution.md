@@ -21,13 +21,13 @@ Deberá descargar e instalar una solución de marketing en su cuenta de Microsof
 
 >[!CAUTION]
 >
->Es imperativo descargar la última solución de marketing *antes* de realizar cualquier actualización.
+>Es imperativo descargar la última solución de marketing *antes de* realizar cualquier actualización.
 
 >[!NOTE]
 >
 >Marketing solo admite certificados SSL compatibles con Java 7 en este momento.
 
-1. Vaya al área **Administración** .
+1. Vaya al área **Administración**.
 
    ![](assets/admin.png)
 
@@ -39,7 +39,7 @@ Deberá descargar e instalar una solución de marketing en su cuenta de Microsof
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Seleccione **Descargar solución** de marketing.
+1. Seleccione **Descargar solución de marketing**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
