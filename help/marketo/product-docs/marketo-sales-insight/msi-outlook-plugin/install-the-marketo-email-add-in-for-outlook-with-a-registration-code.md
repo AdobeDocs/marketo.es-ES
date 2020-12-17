@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Instalar el Añada de correo electrónico de marketing para Outlook con un código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si los usuarios pueden acceder a la configuración de administración de sus equipos portátiles, puede enviarles un código de registro directamente.
 
@@ -19,7 +19,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 >[!PREREQUISITES]
 >
->* Se le debe [otorgar una licencia](issue-a-marketo-email-add-in-license.md)de Añada por correo electrónico de Marketing to.
+>* Debe recibir [una licencia de Añada de correo electrónico de Marketing](issue-a-marketo-email-add-in-license.md).
 
 >
 
@@ -27,7 +27,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 ## Descargar instalador {#download-installer}
 
-1. Identifique la versión de [Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifique su [versión de Microsoft Outlook](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. Haga clic en el vínculo para descargar el instalador adecuado para su versión de Microsoft Outlook.
 
    >[!NOTE]
@@ -71,7 +71,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Rellene **Nombre**, **Apellido**, Dirección **de** correo electrónico y, a continuación, copie y pegue el **Código de registro **del correo electrónico en el formulario y haga clic en **Siguiente**.
+1. Rellene **Nombre**, **Apellidos**, **Dirección de correo electrónico**, luego copie y pegue el **código de registro **del correo electrónico en el formulario y haga clic en **Siguiente**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -91,7 +91,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si recibe un mensaje de seguridad sobre un editor desconocido, haga clic en **Sí**.
 
-1. La instalación se ha completado y haga clic en **Cerrar**.
+1. La instalación ya se ha completado, haga clic en **Cerrar**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
