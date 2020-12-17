@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Usar la opción Añadir en un paso de flujo {#use-add-choice-in-a-flow-step}
+# Usar Añadir opción en un paso de flujo {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 
 
-**Añadir opción** le permite utilizar un paso de flujo y decir &quot;Depende&quot; al elegir los detalles.
+**Añada las** opciones que utiliza un paso de flujo y diga &quot;Depende&quot; al elegir los detalles.
 
-1. En la ficha **Flujo** de la campaña inteligente, agregue cualquier paso de flujo y luego haga clic en **Añadir opción**.
+1. En la ficha **Flujo** de la campaña inteligente, agregue cualquier paso de flujo y haga clic en **Añadir opción**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Los tokens **no funcionarán** en la parte de condición de un paso de flujo de opciones.
+   >Los tokens **no** funcionarán en la parte de condición de un paso de flujo de opciones.
 
 1. Repita los pasos anteriores para agregar varias opciones y, a continuación, agregue o ajuste el valor predeterminado.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Solo se aplica la primera opción coincidente al paso de flujo. Aprenda a [reordenar &quot;Añadir opción&quot; en una acción](reorder-add-choice-in-a-flow-step.md)de flujo.
+   >Solo se aplica la primera opción coincidente al paso de flujo. Aprenda a [reordenar &quot;Añadir opción&quot; en una acción de flujo](reorder-add-choice-in-a-flow-step.md).
 
    >[!NOTE]
    >
