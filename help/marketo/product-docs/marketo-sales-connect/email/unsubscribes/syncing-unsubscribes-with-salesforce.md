@@ -31,15 +31,15 @@ Cuando habilite la sincronización de cancelación de suscripción (paso 3 a con
 
 Los usuarios pueden decidir si desean sincronizar sus cancelaciones de suscripción con el campo Exclusión correo electrónico estándar con el que Marketing también puede sincronizar, o si pueden sincronizarse con el campo Exclusión ventas de marketing para que se puedan diferenciar las cancelaciones de ventas y las cancelaciones de suscripción de marketing.
 
-1. Vaya a la aplicación [](http://toutapp.com/login)web, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. Vaya a la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one-1.png)
 
-1. En Configuración de administración, seleccione **Cancelar suscripciones**.
+1. En Configuración de administración, seleccione **Anula suscripciones**.
 
    ![](assets/two-2.png)
 
-1. Haga clic en **Sincronizar con Salesforce** y, a continuación, habilite la sincronización por la noche.
+1. Haga clic en **Sincronización con Salesforce** y habilite la sincronización por la noche.
 
    ![](assets/three-2.png)
 
@@ -49,7 +49,7 @@ Los usuarios pueden decidir si desean sincronizar sus cancelaciones de suscripci
 
    | **Sincronizar con el campo Exclusión de Salesforce** | Seleccionado de forma predeterminada, solo actualiza el campo Exclusión de Salesforce. |
    |---|---|
-   | **Sincronizar con el campo Exclusión ventas de marketing** | Si desea separar las cancelaciones de ventas y de marketing, elija esta opción para actualizar el campo Exclusión [de ventas de marketing adicional.](#msoo) |
+   | **Sincronizar con el campo Exclusión ventas de marketing** | Si desea separar las cancelaciones de ventas y de marketing, elija esta opción para actualizar el campo adicional [Exclusión ventas de marketing.](#msoo) |
 
 ## Instalación del campo Exclusión en el diseño de página {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -69,11 +69,11 @@ Exclusión correo electrónico es un campo estándar de Salesforce que se puede 
 
    ![](assets/seven-1.png)
 
-1. Seleccione Diseños **de página**.
+1. Seleccione **Diseños de página**.
 
    ![](assets/eight-1.png)
 
-1. Seleccione **Editar** junto al diseño de página al que desea agregar el campo.
+1. Seleccione **Editar** al lado del diseño de página al que desea agregar el campo.
 
    ![](assets/nine.png)
 
