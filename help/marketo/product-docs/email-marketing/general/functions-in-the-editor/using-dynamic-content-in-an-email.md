@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso de contenido dinámico en un correo electrónico {#using-dynamic-content-in-an-email}
+# Uso de contenido dinámico en un mensaje de correo electrónico {#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Utilice el contenido dinámico en los correos electrónicos para enviar la infor
 
    ![](assets/1.2.png)
 
-1. En este ejemplo estamos haciendo dinámica la línea de asunto. Haga clic en el campo Asunto y, a continuación, haga clic en el botón **Convertir en dinámico** .
+1. En este ejemplo estamos haciendo dinámica la línea de asunto. Haga clic en el campo Asunto y, a continuación, haga clic en el botón **Convertir en dinámico**.
 
    ![](assets/1.3.png)
 
