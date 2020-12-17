@@ -19,7 +19,7 @@ Las direcciones URL personalizadas son buenas para campañas de correo de impres
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a Administrador**** y haga clic en **Páginas de aterrizaje**.
+1. Vaya a** Administración** y haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-24-11-3a38-3a51.png)
 
@@ -27,11 +27,11 @@ Las direcciones URL personalizadas son buenas para campañas de correo de impres
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Marque la casilla **Habilitar direcciones URL** personalizadas y haga clic en **S****Guardar**.
+1. Marque la casilla **Habilitar direcciones URL personalizadas** y haga clic en **S***ave**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
-¡bueno trabajo! Ahora que ha habilitado las direcciones URL para su cuenta, puede [habilitarlas para páginas de aterrizaje](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)individuales.
+¡bueno trabajo! Ahora que ha habilitado las direcciones URL para su cuenta, puede [habilitarlas para páginas de aterrizaje individuales](../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
