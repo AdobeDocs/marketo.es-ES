@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Cuando tienes muchos programas de mercadotecnia y campañas inteligentes funcionando, es bueno verlo todo, pero tal vez quieras enfocarte solamente en tu propio trabajo.
 
-Active **Mostrar solo mis momentos** para mostrar solo sus propios programas de correo electrónico y campañas inteligentes.
+Active **Mostrar sólo mis momentos** para mostrar solo sus propios programas de correo electrónico y campañas inteligentes.
 
 ![](assets/image2015-7-16-15-3a53-3a24.png)
 
-O bien, desactive **Mostrar solo mis momentos** para vista de todas las campañas inteligentes y los programas de correo electrónico a los que tenga acceso.
+O bien, deshabilite **Mostrar solo mis momentos** para vista de todas las campañas inteligentes y los programas de correo electrónico a los que tenga acceso.
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)
 
