@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Exporte los resultados inteligentes de la campaña a Excel para utilizarlos fuera de Marketing.
 
-1. En la campaña inteligente, haga clic en **Resultados** y, a continuación, en el icono de exportación de la parte inferior.
+1. En la campaña inteligente, haga clic en **Resultados** y, a continuación, en el icono de exportación en la parte inferior.
 
    ![](assets/exportexcel-hands.png)
 
