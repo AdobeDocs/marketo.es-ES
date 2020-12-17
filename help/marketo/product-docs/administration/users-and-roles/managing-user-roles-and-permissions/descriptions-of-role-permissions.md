@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Descripciones de los permisos de funciones {#descriptions-of-role-permissions}
+# Descripciones de los permisos de roles {#descriptions-of-role-permissions}
 
 A continuación se muestra una lista de todos los permisos disponibles que puede asignar a sus funciones. Los permisos generalmente se asocian con áreas funcionales específicas dentro de Marketing y pueden ayudarle a controlar a qué áreas y funcionalidades tienen acceso los distintos usuarios.
 
@@ -23,11 +23,11 @@ Información adicional sobre permisos:
 
 ## Permisos disponibles {#available-permissions}
 
-Al [crear o editar una función](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite esa función marcando las casillas correspondientes.
+Cuando [crea o edita una función](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite esa función marcando las casillas correspondientes.
 
 ![](assets/createnewrole.png)
 
-## Administrador de acceso  {#access-admin}
+## Administración de acceso {#access-admin}
 
 Vista y realice cambios en la configuración en la sección Mi cuenta de Administración.
 
@@ -35,7 +35,7 @@ Vista y realice cambios en la configuración en la sección Mi cuenta de Adminis
 * Canales de acceso: proporciona a los usuarios acceso solo para modificar la etiqueta de Canal, no otras etiquetas personalizadas
 * Límite de comunicación de acceso: otorga a los usuarios acceso para habilitar un límite de comunicación en el administrador
 * Access CRM: otorga a los usuarios acceso a CRM, como Salesforce o Microsoft Dynamics, en Administración
-* Acceso a [Data.com](http://Data.com) : otorga a los usuarios acceso a la acción de flujo de Data.com
+* Acceso [Data.com](http://Data.com): otorga a los usuarios acceso a la acción de flujo de Data.com
 * Administración de correo electrónico de acceso: otorga a los usuarios acceso al administrador de correo electrónico para cambiar la configuración predeterminada, como los dominios de cancelación de suscripción y marca
 * Acceso a socios de Evento: otorga a los usuarios acceso a LaunchPoint en Administración
 * Access Field Management - Proporciona a los usuarios acceso a Administración de campos en Administración
@@ -59,9 +59,9 @@ Vista y realice cambios en la configuración en la sección Mi cuenta de Adminis
 * Acceso a Webhooks: Proporciona a los usuarios los Webhooks en el Administrador para configurar detalles y asignaciones de respuesta
 * Acceso a espacios de trabajo y particiones: otorga a los usuarios acceso para crear, editar y eliminar espacios de trabajo y particiones en el administrador
 
-## API de acceso  {#access-api}
+## API de acceso {#access-api}
 
-Proporciona a los usuarios con el acceso **API Only** **Role** a las API individuales enumeradas a continuación.
+Proporciona a los usuarios acceso a las **API Only** **Role** individuales que se detallan a continuación.
 
 * Aprobar recursos
 * Ejecutar Campaña
@@ -108,7 +108,7 @@ Permite a los usuarios acceder a la ficha Design Studio y a la vista del árbol,
 
    * Editar correo electrónico: otorga a los usuarios permiso para editar, crear y clonar correos electrónicos
 
-      * Hacer que el correo electrónico funcione: otorga a los usuarios permiso para hacer operativo un correo electrónico. Consulte: [Hacer que el correo electrónico funcione](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Hacer que el correo electrónico funcione: otorga a los usuarios permiso para hacer operativo un correo electrónico. Consulte: [Hacer operativo un mensaje de correo electrónico](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * Aprobar correo electrónico: permite a los usuarios aprobar correos electrónicos.
    * Eliminar correo electrónico: permite a los usuarios eliminar correos electrónicos.
    * Definir dominio de marca: permite a los usuarios trabajar con dominios de marca. Consulte: [Añadir varios dominios de marca](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
@@ -172,7 +172,7 @@ Vista de la base de datos, así como vista y edición de listas inteligentes/est
 * Importar objeto personalizado
 * Importar Lista
 * Combinar personas
-* Ejecutar acciones de flujo único: permite a los usuarios ejecutar el paso **Cambiar el flujo del valor** de los datos en las personas de la base de datos
+* Ejecutar acciones de flujo único: permite a los usuarios ejecutar el paso de flujo **Cambiar valor de datos** en las personas de la base de datos
 
 * Datos de oportunidad de vista: oculta la información de oportunidad en la página de detalles de la persona
 
