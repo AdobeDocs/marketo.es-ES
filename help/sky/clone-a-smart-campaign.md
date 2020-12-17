@@ -24,7 +24,7 @@ Clonar campañas le ahorra tiempo. No es necesario construir todo desde cero, ya
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. Haga clic en la lista desplegable **[!UICONTROL Destino]** y elija un programa o carpeta de destino.
+1. Haga clic en la lista desplegable **[!UICONTROL Destino]** y elija una programa o carpeta de destino.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
