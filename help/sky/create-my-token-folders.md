@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Aquí se explica cómo clasificar los tokens en carpetas.
 
-1. En la ficha [!UICONTROL Mis tokens] de la carpeta o programa de campaña, haga clic en el icono [!UICONTROL Crear carpeta] en la parte superior derecha.
+1. En la ficha [!UICONTROL Mis tokens] de la carpeta o programa de la campaña, haga clic en el icono [!UICONTROL Crear carpeta] en la parte superior derecha.
 
    ![Imagen uno](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Escriba un nombre para la nueva carpeta y, a continuación, seleccione Tokens **** locales o Tokens **** anulados en la lista desplegable de destino. Haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un nombre para la nueva carpeta y, a continuación, seleccione **[!UICONTROL Tokens locales]** o **[!UICONTROL Tokens anulados]** en la lista desplegable de destino. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen dos](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
