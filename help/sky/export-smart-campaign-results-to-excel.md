@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Exporte los resultados de la campaña inteligente a Excel para utilizarlos fuera de [!DNL Marketo].
 
-1. En la ficha [!UICONTROL Información general] de la campaña inteligente, haga clic en la ficha **[!UICONTROL Informes]** .
+1. En la ficha [!UICONTROL Información general] de la campaña inteligente, haga clic en la ficha **[!UICONTROL Informes]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
