@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Consulte las buenas estadísticas de sus programas con este informe.
 
-1. [Cree un informe en un programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe Rendimiento del [Programa](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Haga clic en la ficha **Informe** .
+1. [Cree un informe en un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el tipo **de puerto de** [Programa ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
+1. Haga clic en la ficha **Informe**.
 1. ¡Estás ahí! Explore el informe para ver cómo funcionan sus programas.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
@@ -58,5 +58,5 @@ Las columnas de un informe de rendimiento de Programa incluyen:
 >
 >**Buceo profundo**
 >
->Obtenga más información en Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Obtenga más información en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
