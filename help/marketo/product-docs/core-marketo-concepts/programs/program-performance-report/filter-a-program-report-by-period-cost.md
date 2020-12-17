@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar un informe de Programa por costo de período {#filter-a-program-report-by-period-cost}
 
-Centre el informe [de rendimiento de](create-a-program-performance-report.md) programas en un intervalo de tiempo de costo de período específico.
+Centre su [informe de rendimiento de programa](create-a-program-performance-report.md) en un intervalo de tiempo de costo de período específico.
 
 1. Vaya a **Marketing** **Actividades** (o **Analytics**).
 
@@ -23,11 +23,11 @@ Centre el informe [de rendimiento de](create-a-program-performance-report.md) pr
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre sobre Costo **de período**.
+1. Haga clic en la ficha **Configuración** y arrastre sobre **Costo de período**.
 
    ![](assets/lm-86194-1.png)
 
-1. Introduzca las fechas **De** y **A** para los costes incurridos y haga clic en **Aplicar**.
+1. Introduzca las fechas **De** y **A** para los costos incurridos y haga clic en **Aplicar**.
 
    ![](assets/lm-86194-2a-hands.png)
 
@@ -49,5 +49,5 @@ Centre el informe [de rendimiento de](create-a-program-performance-report.md) pr
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
