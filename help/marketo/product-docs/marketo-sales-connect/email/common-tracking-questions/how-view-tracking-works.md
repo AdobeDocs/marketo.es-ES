@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Funcionamiento del seguimiento de Vistas {#how-view-tracking-works}
+# Cómo funciona el seguimiento de Vistas {#how-view-tracking-works}
 
 Para rastrear las aperturas de correo electrónico, colocamos una imagen invisible dentro de los correos electrónicos que envía.
 
