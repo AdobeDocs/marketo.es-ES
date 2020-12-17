@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir contenido destacado en el correo electrónico {#adding-highspot-content-to-your-email}
+# Añadir contenido destacado en su correo electrónico {#adding-highspot-content-to-your-email}
 
 Si es cliente de Highspot, puede insertar fácilmente contenido de Highspot en los correos electrónicos de Sales Connect.
 
@@ -23,7 +23,7 @@ Si es cliente de Highspot, puede insertar fácilmente contenido de Highspot en l
 
    ![](assets/two-5.png)
 
-1. Haga clic en el punto del mensaje de correo electrónico en el que desee insertar el contenido de la zona resaltada. Haga clic en la lista desplegable de flechas (junto al icono de datos adjuntos) y seleccione **Resaltado**.
+1. Haga clic en el punto del mensaje de correo electrónico en el que desee insertar el contenido de la zona resaltada. Haga clic en la lista desplegable de flechas (junto al icono de datos adjuntos) y seleccione **Punto resaltado**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Si es cliente de Highspot, puede insertar fácilmente contenido de Highspot en l
 
    ![](assets/four-5.png)
 
-1. Seleccione el contenido que desee y haga clic en el botón **Añadir contenido** .
+1. Seleccione el contenido que desee y haga clic en el botón **Añadir contenido**.
 
    ![](assets/five-3.png)
 
