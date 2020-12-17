@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Uso de un enlace web en una Campaña inteligente {#use-a-webhook-in-a-smart-campaign}
+# Utilizar un Webgancho en una Campaña inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para utilizar un [webgancho](http://developers.marketo.com/documentation/webhooks/), agréguelo a una campaña [](add-a-flow-step-to-a-smart-campaign.md) inteligente como una acción de flujo.
+Para utilizar un [webgancho](http://developers.marketo.com/documentation/webhooks/), agréguelo a una [campaña inteligente](add-a-flow-step-to-a-smart-campaign.md) como acción de flujo.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Para utilizar un [webgancho](http://developers.marketo.com/documentation/webhook
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. [Cree una campaña](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)inteligente.
+1. [Cree una campaña](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) inteligente.
 
    >[!NOTE]
    >
    >Los enlaces web solo se pueden usar en campañas desencadenadoras.
 
-1. Vaya a la ficha **Flujo** y arrastre la acción **Llamar a flujo de Webgancho** .
+1. Vaya a la ficha **Flujo** y arrastre la acción de flujo **Llamar a Webgancho**.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -39,7 +39,7 @@ Para utilizar un [webgancho](http://developers.marketo.com/documentation/webhook
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Finalmente, puede utilizar Webhooks en **Añadir Elección** en un paso de flujo.
+1. Finalmente, puede utilizar Webhooks en **Añadir opción** en un paso de flujo.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
 
