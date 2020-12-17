@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Añadir un posible cliente o contacto a una Campaña de marketing de Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+# Añadir un posible cliente/contacto a una Campaña de marketing de Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
 Puede agregar rápida y fácilmente leads/contactos a campañas inteligentes de Marketing to directamente desde Microsoft Dynamics. Así es como.
 
-1. En Dynamics, vaya al área **Ventas** .
+1. En Dynamics, vaya al área **Ventas**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +27,7 @@ Puede agregar rápida y fácilmente leads/contactos a campañas inteligentes de 
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Haga clic**...** y seleccione **Añadir a la Campaña** de marketing.
+1. Haga clic**...** y seleccione **Añadir a la Campaña de marketing**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Puede agregar rápida y fácilmente leads/contactos a campañas inteligentes de 
 
    >[!NOTE]
    >
-   >Para que la campaña aparezca en la lista desplegable, utilice el activador [**Solicitud** de](http://docs.marketo.com/pages/viewpage.action?pageId=7514898)Campaña, con Perspectiva de ventas como origen, cuando configure la campaña.
+   >Para que la campaña aparezca en la lista desplegable, utilice el activador [**Campaña solicitada**](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), con perspectiva de ventas como origen, cuando configure la campaña.
 
 ¡Y eso es todo amigos! Ahora tiene el poder de las campañas inteligentes de Marketing to en sus manos directamente desde Dynamics.
