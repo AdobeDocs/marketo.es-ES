@@ -29,25 +29,25 @@ Marketing to Sales Insight utiliza estrellas y llamas para priorizar los posible
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. En la sección Configuración **de puntuación de** posibles clientes, haga clic en **Editar**.
+1. En la sección **Configuración de puntuación de posibles clientes** haga clic en **Editar**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Seleccione el método **de** puntuación que desee.
+1. Seleccione el **Método de puntuación** de su elección.
 
    >[!NOTE]
    >
    >**Definición**
    >
    >
-   >**Dinámico** : es un valor de porcentaje que se deriva de los datos [](priority-urgency-relative-score-and-best-bets.md)relativos. Increíble. Se recomienda este método.
+   >**Dinámico** : es un valor de porcentaje que se deriva de los datos [ ](priority-urgency-relative-score-and-best-bets.md)relativos. Increíble. Se recomienda este método.
    >
    >
    >**Estático** : Permite definir números de puntuación exactos, no más porcentajes, no más salsas secretas.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Edite los corchetes de porcentaje según sus preferencias y **guarde**.
+1. Edite los corchetes de porcentaje según sus preferencias y **Guardar**.
 
    >[!TIP]
    >
