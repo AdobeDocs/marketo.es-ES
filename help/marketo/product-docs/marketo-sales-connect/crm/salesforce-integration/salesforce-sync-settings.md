@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configuración de sincronización de Salesforce {#salesforce-sync-settings}
 
-## Registro de Actividad por correo electrónico a Salesforce mediante API {#logging-email-activity-to-salesforce-via-api}
+## Registrando Actividad por correo electrónico a Salesforce mediante API {#logging-email-activity-to-salesforce-via-api}
 
 Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Salesforce o en la edición Professional si ha adquirido la integración mediante la API de servicios Web.
 
@@ -21,7 +21,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 >
 >Salesforce y el compromiso de ventas deben estar conectados.
 
-1. En Participación en ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En Participación de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
    ![](assets/two-2.png)
 
-1. Haga clic en la ficha **Sincronizar configuración** .
+1. Haga clic en la ficha **Configuración de sincronización**.
 
    ![](assets/three-1.png)
 
@@ -37,11 +37,11 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
    ![](assets/four-1.png)
 
-1. Haga clic en la ficha **API** de Salesforce. En esta tarjeta puede configurar su preferencia para registrar información en Salesforce. Haga clic en **Guardar** cuando termine.
+1. Haga clic en la ficha **API de Salesforce**. En esta tarjeta puede configurar su preferencia para registrar información en Salesforce. Haga clic en **Guardar** cuando termine.
 
    ![](assets/five.png)
 
-## Registro de la Actividad por correo electrónico a Salesforce mediante correo electrónico a Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## Registrando Actividad por correo electrónico a Salesforce mediante correo electrónico a Salesforce (BCC) {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
 Una vez que active &quot;Correo electrónico a Salesforce (BCC)&quot;, recibirá un CCO de sus correos electrónicos de ventas y los mismos se registrarán como actividades de oportunidades, posibles clientes y contactos.
 
@@ -51,7 +51,7 @@ Una vez que active &quot;Correo electrónico a Salesforce (BCC)&quot;, recibirá
 
 **Para registrar sus correos electrónicos en Salesforce por correo electrónico (BCC)**
 
-1. En Participación en ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En Participación de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-3.png)
 
@@ -59,11 +59,11 @@ Una vez que active &quot;Correo electrónico a Salesforce (BCC)&quot;, recibirá
 
    ![](assets/two-3.png)
 
-1. Haga clic en la ficha **Sincronizar configuración** .
+1. Haga clic en la ficha **Configuración de sincronización**.
 
    ![](assets/three-1.png)
 
-1. Haga clic en la ficha **Correo electrónico a Salesforce (CCO)** y haga clic en **Activar**.
+1. Haga clic en la ficha **Correo electrónico para Salesforce (BCC)** y haga clic en **Activar**.
 
    ![](assets/six-2.png)
 
@@ -87,7 +87,7 @@ Si no ve Mi correo electrónico a Salesforce en Configuración, es posible que e
 >Necesitará privilegios de administrador para configurarlo.
 
 1. Haga clic en **Configuración *.* **
-1. Haga clic en Administración **de correo electrónico *.* **
+1. Haga clic en **Administración de correo electrónico *.* **
 1. Haga clic en **Enviar correo electrónico a Salesforce *.* **
 1. Haga clic en **Editar**.
 1. Marque la casilla junto a &quot;Activo*&quot;.*
@@ -103,7 +103,7 @@ Si no ve Mi correo electrónico a Salesforce en Configuración, es posible que e
 
    ![](assets/two-2.png)
 
-1. Haga clic en la ficha **Sincronizar configuración** .
+1. Haga clic en la ficha **Configuración de sincronización**.
 
    ![](assets/three-1.png)
 
