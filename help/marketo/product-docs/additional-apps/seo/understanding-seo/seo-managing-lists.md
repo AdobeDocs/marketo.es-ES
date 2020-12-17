@@ -29,7 +29,7 @@ Puede agregar cosas a las listas al agregar palabras clave, páginas, problemas 
 
    >[!TIP]
    >
-   >Puede crear una nueva lista en la lista desplegable. Escriba un título, pulse la tecla de retorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >Puede crear una nueva lista en la lista desplegable. Escriba un título, pulse la tecla de retorno.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
 1. Haga clic en **GUARDAR**.
 
