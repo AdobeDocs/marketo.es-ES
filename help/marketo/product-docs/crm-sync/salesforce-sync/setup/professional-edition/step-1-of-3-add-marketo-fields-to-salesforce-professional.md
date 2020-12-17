@@ -45,7 +45,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Elija el tipo de campo apropiado (para Puntuación — **número**; Programa de adquisición — **texto**; Fecha de adquisición — **Fecha y hora**).
+1. Elija el tipo de campo apropiado (para Puntuación — **número**; Programa de adquisición — **text**; Fecha de adquisición — **Fecha/Hora**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -81,7 +81,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
    <td>Puntuación</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Longitud 10<br>decimales 0 </td> 
+   <td>Longitud 10<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Fecha de adquisición</td> 
@@ -114,13 +114,13 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
 1. Especifique la configuración de acceso y haga clic en **Siguiente**:
 
-   * Definir todas las funciones como **Visible **y de Solo **lectura**
+   * Configure todos los roles en **Visible **y **Sólo lectura**
 
-   * Desactive la casilla de verificación Solo **** lectura para el perfil del usuario de sincronización:
+   * Desactive la casilla **Sólo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de un administrador *del* sistema como usuario de sincronización, desactive la casilla de verificación de sólo **** lectura para el perfil del administrador del sistema (como se muestra a continuación)
+      * Si tiene un usuario con el perfil de *Administrador del sistema* como usuario de sincronización, desactive la casilla **Sólo lectura** del perfil Administrador del sistema (como se muestra a continuación)
 
-      * Si ha creado un perfil ** personalizado para el usuario de sincronización, desactive la casilla de verificación Solo **** lectura para ese perfil personalizado
+      * Si ha creado un *perfil personalizado* para el usuario de sincronización, desactive la casilla **Sólo lectura** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -148,7 +148,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
    <td>ID de Programa de adquisición</td> 
    <td>mkto71_Acquisition_Programa_Id</td> 
    <td>Número</td> 
-   <td>Longitud 18<br>decimales 0 </td> 
+   <td>Longitud 18<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Remitente del reenvío original</td> 
@@ -225,7 +225,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
  </tbody> 
 </table>
 
-## Asignar campos personalizados para conversiones  {#map-custom-fields-for-conversions}
+## Asignar campos personalizados para conversiones {#map-custom-fields-for-conversions}
 
 Un campo personalizado del objeto de posible cliente en Salesforce debe asignarse a un campo de contacto del objeto de contacto para que los datos se transfieran cuando se produce una conversión.
 
