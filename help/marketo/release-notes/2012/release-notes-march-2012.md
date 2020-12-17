@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para obtener otras versiones, consulte las notas de la [versión](http://docs.marketo.com/display/docs/release+notes) en profundidad.
+>Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
 >
 >## Resolver mis tokens {#resolve-my-tokens}>
 
