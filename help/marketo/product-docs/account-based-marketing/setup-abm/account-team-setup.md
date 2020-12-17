@@ -31,7 +31,7 @@ Un equipo de cuentas es un grupo de partes interesadas que trabajan juntas en un
    >
    >En Función de cuenta, asígnele un nombre y asócielo al campo de búsqueda de usuario deseado en su CRM.
 
-1. Escriba el nombre de la función de cuenta y seleccione el campo **CRM** . Añada hasta 10.
+1. Escriba el nombre de la función de cuenta y seleccione el campo **CRM**. Añada hasta 10.
 
    ![](assets/four-2.png)
 
