@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # Crear una nueva plantilla {#create-a-new-template}
 
-1. Vaya a la ficha **Plantillas **y haga clic en **Crear plantilla**.
-1. Elija una **Categoría** y un **nombre***** ***para la plantilla de correo electrónico y, a continuación, haga clic en** Crear ***.*
+1. Vaya a la ficha **Templates **tab y haga clic en **Crear plantilla**.
+1. Elija una **Categoría** y **Nombre***** ***para la plantilla de correo electrónico, luego haga clic en** Crear ***.*
 1. En el editor de plantillas, cree una línea de asunto para el correo electrónico y escriba el mensaje que desee. Utilice las herramientas de edición (fuente, tamaño de texto, etc.) para personalizar el aspecto.
 1. Haga clic en **Guardar** para finalizar los cambios.
 
