@@ -23,7 +23,7 @@ Siga estos sencillos pasos para programar un correo electrónico.
 
    ![](assets/one-1.png)
 
-1. Cuando haya terminado de redactar el correo electrónico, haga clic en **Programar** en la parte inferior derecha
+1. Cuando haya terminado de componer su correo electrónico, haga clic en **Programar** en la parte inferior derecha
 
    ![](assets/two-1.png)
 
