@@ -23,11 +23,11 @@ Una vez al trimestre, Marketo encontrará campañas inteligentes que han permane
 
 Por supuesto! Una vez al trimestre, recibirá una notificación con una semana de anticipación que le mostrará cada campaña que planee desactivar.
 
-1. Vaya a la ficha **Notificaciones** .
+1. Vaya a la ficha **Notificaciones**.
 
    ![](assets/notifications.png)
 
-1. Haga clic en **Activador inactivo Limpieza de Campaña programada**. A continuación, haga clic en el **vínculo **Se desactivarán estas Campañas del activador de inactividad.** **
+1. Haga clic en **Limpieza de Campaña de activador inactivo programada**. A continuación, haga clic en **Estas Campañas del activador de inactividad se desactivarán **vínculo.** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Se restablecerá el contador de 6 meses.
 
 Absolutamente: una semana después de la notificación original, desactivaremos las campañas enumeradas (menos las que cualificaron al menos a una persona o que fueron desactivadas o reactivadas) y publicaremos una notificación de confirmación.
 
-1. Seleccione la **notificación de limpieza de Campaña del activador de inactividad programada **notificación. Haga clic en el vínculo **Estas Campañas** del activador de inactividad.
+1. Seleccione la **notificación de limpieza de Campaña del activador de inactividad programada **notificación. Haga clic en el vínculo **Estas Campañas del activador de inactividad**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
