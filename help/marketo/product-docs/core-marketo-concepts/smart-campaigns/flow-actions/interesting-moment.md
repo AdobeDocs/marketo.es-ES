@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Si tiene [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php), puede utilizar el paso de flujo de **momentos** interesantes para dar visibilidad a su equipo de ventas sobre las cosas geniales que su gente está haciendo.
+Si tiene [Perspectiva de ventas de marketing](http://docs.marketo.com/display/docs/assets/sales-insight.php), puede utilizar el paso de flujo **Momento interesante** para dar visibilidad a su equipo de ventas sobre las cosas interesantes que está haciendo su gente.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Uso {#usage}
 
-1. Seleccione el interesante **tipo** de momento que desee utilizar.
+1. Seleccione el momento interesante **tipo** que desee utilizar.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
