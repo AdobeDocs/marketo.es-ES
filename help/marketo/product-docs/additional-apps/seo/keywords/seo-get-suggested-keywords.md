@@ -17,11 +17,11 @@ La optimización para motores de búsqueda de mercadotecnia puede sugerir qué p
 
 ## Obtener sugerencias de palabra clave usando una palabra clave {#get-keyword-suggestions-using-a-keyword}
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Haga clic en SUGERENCIAS **DE GET**.
+1. Haga clic en **SUGERENCIAS DE GET**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
@@ -31,7 +31,7 @@ La optimización para motores de búsqueda de mercadotecnia puede sugerir qué p
 
    >[!TIP]
    >
-   >¿Sabía que puede [agregar su palabra clave a una lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nueva o existente aquí?
+   >¿Sabía que puede [agregar la palabra clave a una lista nueva o existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) justo aquí?
 
 1. Seleccione las palabras clave sugeridas. Haga clic en **AÑADIR SELECCIONADO**.
 
@@ -43,13 +43,13 @@ La optimización para motores de búsqueda de mercadotecnia puede sugerir qué p
 
    ¡Sí! Ahora que ya sabe cómo obtener sugerencias de palabra clave basadas en una palabra clave, intente obtener sugerencias basadas en una dirección URL.
 
-## Obtener sugerencias de palabras clave desde una dirección URL  {#get-keyword-suggestions-from-a-url}
+## Obtener sugerencias de palabra clave de una dirección URL {#get-keyword-suggestions-from-a-url}
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Haga clic en SUGERENCIAS **DE GET**.
+1. Haga clic en **SUGERENCIAS DE GET**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
@@ -57,13 +57,13 @@ La optimización para motores de búsqueda de mercadotecnia puede sugerir qué p
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Introduzca una **dirección URL** y haga clic en **SUGER PALABRAS CLAVE**.
+1. Escriba una **URL** y haga clic en **SUGERIR PALABRAS CLAVE**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >¿Sabía que puede [agregar su palabra clave a una lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) nueva o existente aquí?
+   >¿Sabía que puede [agregar la palabra clave a una lista nueva o existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) justo aquí?
 
 1. Seleccione las palabras clave sugeridas. Haga clic en **AÑADIR SELECCIONADO**.
 
