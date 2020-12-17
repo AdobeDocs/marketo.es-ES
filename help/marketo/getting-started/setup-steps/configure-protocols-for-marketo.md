@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Configuración de protocolos para el marketing {#configure-protocols-for-marketo}
+# Configurar protocolos para el marketing {#configure-protocols-for-marketo}
 
 Su grupo de marketing está usando Marketing para crear páginas de aterrizaje de campaña de marca y correos electrónicos. Para garantizar que esas páginas de aterrizaje y correos electrónicos funcionen, necesitan un poco de ayuda de TI. Configure los siguientes protocolos con la información que su grupo de mercadotecnia debería haberle enviado por correo electrónico.
 
@@ -35,16 +35,16 @@ Su equipo de mercadotecnia debería haberle enviado dos solicitudes de nuevos re
 
 `1` **Añadir CNAME para Páginas de aterrizaje**
 
-Añada el CNAME de página de aterrizaje que le han enviado al registro DNS, de modo que `[YourLandingPageCNAME]` apunte a la cadena de cuenta única asignada a sus páginas de aterrizaje de marketing. Inicie sesión en el sitio del registrador de dominios e introduzca el CNAME de página de aterrizaje y la cadena de cuenta. Generalmente, esto incluye tres campos:
+Añada el CNAME de página de aterrizaje que le enviaron al registro DNS, de modo que `[YourLandingPageCNAME]` apunte a la cadena de cuenta única que se asigna a sus páginas de aterrizaje de marketing. Inicie sesión en el sitio del registrador de dominios e introduzca el CNAME de página de aterrizaje y la cadena de cuenta. Generalmente, esto incluye tres campos:
 
-* Alias: Intro `[YourLandingPageCNAME]` (proporcionado por marketing)
+* Alias: Escriba `[YourLandingPageCNAME]` (proporcionado por la mercadotecnia)
 * Tipo: CNAME
-* Apunta a: Intro `[MarketoAccountString].mktoweb.com` (proporcionado por marketing)
+* Apunta a: Escriba `[MarketoAccountString].mktoweb.com` (proporcionado por la mercadotecnia)
 
 `2` **Añadir CNAME para vínculos de Seguimiento del correo electrónico**
 
 Añada el correo electrónico que le envió la mercadotecnia CNAME, de modo que `[YourEmailCNAME]` apunte a [MktoTrackingLink], el vínculo de seguimiento predeterminado asignado por Marketing, en el formato:\
-`[YourEmailCNAME].[YourDomain].com` EN CNAME `[MktoTrackingLink]`
+`[YourEmailCNAME].[YourDomain].com` EN CNAME  `[MktoTrackingLink]`
 
 Por ejemplo:
 
@@ -75,7 +75,7 @@ Algunos sistemas antispam utilizan el campo de ruta de retorno de correo electr�
 >
 >Postini emplea una tecnología única y requiere intervalos de IP de inclusión en la lista de permitidos. Consulte [Inclusión en la lista de permitidos con Postini](https://nation.marketo.com/docs/DOC-1066).
 
-## Paso 3: Configuración de SPF y DKIM {#step-set-up-spf-and-dkim}
+## Paso 3: Configurar SPF y DKIM {#step-set-up-spf-and-dkim}
 
 Su equipo de mercadotecnia también debería haberle enviado información de DKIM para agregarla al registro de recursos DNS (también se enumera a continuación). Siga los pasos para configurar correctamente DKIM y SPF, luego notifique a su equipo de mercadotecnia que se ha actualizado.
 
@@ -91,9 +91,9 @@ Su equipo de mercadotecnia también debería haberle enviado información de DKI
 
 1. Para DKIM, cree registros de recursos DNS para cada dominio que desee configurar. A continuación se muestran los registros de host y los valores TXT de cada dominio para el que firmaremos:
 
-   `[DKIMDomain1]`:: El registro de host es `[HostRecord1]` y el valor de TXT es `[TXTValue1]`.
+   `[DKIMDomain1]`:: El registro de host es  `[HostRecord1]` y el valor de TXT es  `[TXTValue1]`.
 
-   `[DKIMDomain2]`:: El registro de host es `[HostRecord2]` y el valor de TXT es `[TXTValue2]`.
+   `[DKIMDomain2]`:: El registro de host es  `[HostRecord2]` y el valor de TXT es  `[TXTValue2]`.
 
    Copie HostRecord y TXTValue para cada DKIMDomain que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide comprobar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
 
