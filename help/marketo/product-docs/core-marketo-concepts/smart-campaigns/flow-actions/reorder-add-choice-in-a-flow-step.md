@@ -19,7 +19,7 @@ Dado que sólo la primera opción coincidente se aplica a una persona, el pedido
 
    ![](assets/one.png)
 
-1. Vamos a subir la elección 3 por encima de la opción 2. Haga clic en **Opción 3** y luego en **Subir**.
+1. Vamos a subir la elección 3 por encima de la opción 2. Haga clic en **Opción 3** y luego haga clic en **Subir**.
 
    >[!NOTE]
    >
