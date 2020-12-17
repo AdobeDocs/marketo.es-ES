@@ -15,9 +15,9 @@ ht-degree: 0%
 
 A continuación se muestra cómo enviar o editar correos electrónicos mediante la opción Agrupar correo electrónico.
 
-## Envío de un correo electrónico de grupo {#sending-a-group-email}
+## Envío de un mensaje de correo electrónico de grupo {#sending-a-group-email}
 
-1. Haga clic en la ficha **Personas** .
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
    ![](assets/two-3.png)
 
-1. Haga clic en el botón Acciones de grupo y seleccione Grupo **de** correo electrónico.
+1. Haga clic en el botón Acciones de grupo y seleccione **Grupo de correo electrónico**.
 
    ![](assets/three-3.png)
 
@@ -48,7 +48,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
    ![](assets/edit-four.png)
 
-1. Haga clic en **Previsualización Campos** dinámicos y vista la previsualización de la derecha.
+1. Haga clic en **Campos dinámicos de Previsualización** y vista la previsualización a la derecha.
 
    ![](assets/edit-five.png)
 
