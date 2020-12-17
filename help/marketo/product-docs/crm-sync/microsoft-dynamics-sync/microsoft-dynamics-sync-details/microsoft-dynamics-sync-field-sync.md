@@ -31,15 +31,15 @@ No, no se admite actualmente.
 
 ## He creado un campo en Dynamics. ¿Puedo sincronizarlo con Marketing? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Sí, puede [sincronizar el campo](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) siempre que el usuario de sincronización tenga acceso a él en Dynamics.
+Sí, puede [sincronizar el campo](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) siempre y cuando el usuario de sincronización tenga acceso a él en Dynamics.
 
 ¿Qué campos se sincronizarán con Marketing?
 
-Puede [seleccionar los campos que sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configuración.
+Puede [seleccionar campos para sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configuración.
 
 ## ¿Qué sucede si necesito agregar un campo personalizado después de sincronizar Marketing y Dynamics? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-Puede agregar campos en cualquier momento y esperar que los datos se actualicen de Dynamics a Marketing. Consulte [Uso de sincronización rápida con Microsoft Dynamics para ver un nuevo campo](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) personalizado para obtener más información.
+Puede agregar campos en cualquier momento y esperar que los datos se actualicen de Dynamics a Marketing. Consulte [Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) para obtener más información.
 
 >[!MORELIKETHIS]
 >
