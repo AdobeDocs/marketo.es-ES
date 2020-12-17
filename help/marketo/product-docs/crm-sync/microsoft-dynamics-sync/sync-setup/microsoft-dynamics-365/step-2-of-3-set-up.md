@@ -21,7 +21,7 @@ Comencemos creando una cuenta de usuario.
 
 ## Crear un nuevo usuario {#create-a-new-user}
 
-1. Inicie sesión en Dynamics. Haga clic en el icono Configuración y seleccione Configuración **avanzada**.
+1. Inicie sesión en Dynamics. Haga clic en el icono Configuración y seleccione **Configuración avanzada**.
 
    ![](assets/one.png)
 
@@ -37,7 +37,7 @@ Comencemos creando una cuenta de usuario.
 
    ![](assets/four.png)
 
-1. Haga clic en **Añadir usuarios** con licencia en la nueva ventana.
+1. Haga clic en **Añadir y autorizar usuarios** en la nueva ventana.
 
    ![](assets/five.png)
 
@@ -57,7 +57,7 @@ Comencemos creando una cuenta de usuario.
    >
    >Este nombre debe ser un usuario de sincronización dedicado y no una cuenta de usuario de CRM existente. No necesita ser una dirección de correo electrónico real.
 
-1. Introduzca el correo electrónico para recibir las nuevas credenciales de usuario y haga clic en **Enviar correo electrónico y cerrar**.
+1. Introduzca el correo electrónico para recibir las credenciales de usuario nuevas y haga clic en **Enviar correo electrónico y cerrar**.
 
    ![](assets/nine.png)
 
@@ -81,35 +81,35 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    ![](assets/twelve.png)
 
-1. Marque **para sincronizar usuario** y haga clic en **Aceptar**.
+1. Marque **Usuario de sincronización de marketing** y haga clic en **Aceptar**.
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >Las actualizaciones realizadas en su CRM por el usuario de sincronización **no se sincronizarán** de nuevo con Marketing.
+   >Cualquier actualización realizada en su CRM por el usuario de sincronización **no** se sincronizará de nuevo con Marketing.
 
 ## Configurar la solución de marketing {#configure-marketo-solution}
 
 ¡Casi ahí! Todo lo que nos queda es informar a la solución de marketing sobre el nuevo usuario creado.
 
-1. Vuelva a la sección Configuración avanzada y haga clic en el ![](assets/image2015-5-13-15-3a49-3a19.png)icono situado junto a Configuración y seleccione Configuración **de marketing**.
+1. Vuelva a la sección Configuración avanzada y haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png)situado junto a Configuración y seleccione **Configuración de marketing**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Si no ve Configuración **de marketing** en el menú Configuración, actualice la página. Si esto no funciona, intente [publicar la solución](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) de marketing de nuevo [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) o cierre la sesión y vuelva a iniciarla.
+   >Si no ve **Configuración de marketing** en el menú Configuración, actualice la página. Si eso no funciona, intente [publicar de nuevo la solución de marketing](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) o cierre la sesión y vuelva a iniciarla.
 
 1. Haga clic en **Predeterminado**.
 
    ![](assets/fifteen.png)
 
-1. Haga clic en el botón de búsqueda en el campo Usuario **de** marketing y seleccione el usuario de sincronización que ha creado.
+1. Haga clic en el botón de búsqueda del campo **Usuario de marketing** y seleccione el usuario de sincronización que ha creado.
 
    ![](assets/sixteen.png)
 
-1. Haga clic en el ![](assets/image2015-3-13-15-3a10-3a11.png)icono en la esquina inferior derecha para guardar los cambios.
+1. Haga clic en el icono ![](assets/image2015-3-13-15-3a10-3a11.png)en la esquina inferior derecha para guardar los cambios.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,11 +117,11 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    ![](assets/seventeen.png)
 
-1. Haga clic en el ![](assets/image2015-5-13-15-3a49-3a19-1.png)icono junto a Configuración y seleccione **Soluciones**.
+1. Haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19-1.png)junto a Configuración y seleccione **Soluciones**.
 
    ![](assets/eighteen.png)
 
-1. Haga clic en el botón **Publicar todas las personalizaciones** .
+1. Haga clic en el botón **Publicar todas las personalizaciones**.
 
    ![](assets/nineteen.png)
 
