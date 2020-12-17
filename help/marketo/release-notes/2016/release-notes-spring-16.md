@@ -55,7 +55,7 @@ Cree impresionantes mensajes en la aplicación directamente en Marketing Cloud. 
 
 ## [Actividades personalizadas](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Los administradores de marketing ahora pueden definir y administrar sus tipos de actividad personalizados mediante el modelador de definición de Actividad personalizada de marketing. Al igual que el modelador de objetos personalizado de marketing (y junto con él), los administradores ahora pueden ampliar el modelo de datos para adaptarlo a sus necesidades comerciales exactas. Los detalles sobre cómo utilizar esta funcionalidad están disponibles en el sitio [de documentación de](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)Marketing to.
+Los administradores de marketing ahora pueden definir y administrar sus tipos de actividad personalizados mediante el modelador de definición de Actividad personalizada de marketing. Al igual que el modelador de objetos personalizado de marketing (y junto con él), los administradores ahora pueden ampliar el modelo de datos para adaptarlo a sus necesidades comerciales exactas. Los detalles sobre cómo utilizar esta funcionalidad están disponibles en el [sitio de documentación de Marketing](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
 ## [página de aterrizaje, plantilla de Página de aterrizaje y API de formulario](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -63,7 +63,7 @@ Las API de Marketing to REST ahora admiten el control de las páginas de aterriz
 
 ## [INCLUSIÓN EN LA LISTA DE PERMITIDOS IP para el acceso a API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-De forma similar a la función de inclusión en la lista de permitidos IP para los inicios de sesión de usuario de Marketing to, los administradores de Marketing Cloud ahora pueden configurar una lista de permitidos de direcciones IP que puedan acceder a las API de REST y SOAP de Marketo, bloqueando así el acceso desde direcciones IP no autorizadas. Esto proporciona un nivel de seguridad adicional a la instancia de MarketingTo y garantiza que el acceso a la API solo se pueda producir desde la red de la organización. Los detalles sobre cómo configurar esta configuración están disponibles en el sitio [de documentación de](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)Marketing to.
+De forma similar a la función de inclusión en la lista de permitidos IP para los inicios de sesión de usuario de Marketing to, los administradores de Marketing Cloud ahora pueden configurar una lista de permitidos de direcciones IP que puedan acceder a las API de REST y SOAP de Marketo, bloqueando así el acceso desde direcciones IP no autorizadas. Esto proporciona un nivel de seguridad adicional a la instancia de MarketingTo y garantiza que el acceso a la API solo se pueda producir desde la red de la organización. Los detalles sobre cómo configurar esta configuración están disponibles en el [sitio de documentación de Marketing](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
 
 ## [Nuevo conector de sincronización de Microsoft Dynamics de alta velocidad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -75,13 +75,13 @@ Construido sobre la arquitectura Orion, el nuevo conector de dinámica de alta v
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Ficha** Administración de errores de sincronización:  Examinar, buscar o exportar leads (y otros objetos) que no se hayan podido sincronizar con detalles como operación, dirección, código de error y mensaje de error.
+**Ficha** Administración de errores de sincronización: Examinar, buscar o exportar leads (y otros objetos) que no se hayan podido sincronizar con detalles como operación, dirección, código de error y mensaje de error.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: Connector está completamente certificado para las versiones en línea y in situ de Dynamics 2016.
 
-**Las actualizaciones de complementos ya están documentadas:** Consulte el artículo [Documentos de actualizaciones de](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)complementos.
+**Las actualizaciones de complementos ya están documentadas:** consulte el artículo [ de documentos de actualizaciones de ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)complementos.
 
 ## [Nombre de instancia práctico](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
