@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personalización de las direcciones URL de su Página de aterrizaje con un CNAME (administración) {#customize-your-landing-page-urls-with-a-cname-administration}
+# Personalice las direcciones URL de su Página de aterrizaje con un CNAME (Administración) {#customize-your-landing-page-urls-with-a-cname-administration}
 
 Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL debe personalizarse para su compañía.
 
@@ -37,7 +37,7 @@ Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL debe person
 
    * **vaya**.YourCompany.com/NameOfPage.html
    * **información**.YourCompany.com/NameOfPage.html
-   * **páginas**.YourCompany.com/NameOfPage.htmlás
+   * **páginas** .YourCompany.com/NameOfPage.htmlás
 
    La única palabra (más YourCompany.com) se denomina CNAME. Necesitarás esto más tarde, así que haz una nota.
 
@@ -47,7 +47,7 @@ Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL debe person
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. En la ficha **Páginas de aterrizaje** , copie la cadena de cuenta de la sección Configuración.
+1. En la ficha **Páginas de aterrizaje**, copie la cadena de cuenta de la sección Configuración.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,9 +55,9 @@ Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL debe person
 
 1. Enviar solicitud a TI.
 
-1. Pida a su personal de TI que configure el siguiente CNAME (reemplace la palabra [CNAME] y [ACCOUNT STRING] por el texto del paso anterior):
+1. Pida al personal de TI que configure el siguiente CNAME (reemplace la palabra [CNAME] y [CADENA DE CUENTA] por el texto del paso anterior):
 
-   [CNAME].YourCompany.com > [CADENA]DE CUENTA.mktoweb.com
+   [CNAME].YourCompany.com >  [CADENA] DE CUENTA.mktoweb.com
 
 1. Completar la configuración de CNAME.
 
@@ -65,11 +65,11 @@ Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL debe person
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. En la sección **Configuración** , haga clic en **Editar**.
+1. En la sección **Configuración**, haga clic en **Editar**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Introduzca su CNAME en el nombre **de dominio para Páginas de aterrizaje**, introduzca su página **de** reserva, introduzca su **página de inicio** y haga clic en **Guardar**.
+1. Escriba su CNAME en **nombre de dominio para Páginas de aterrizaje**, escriba su **página de reserva**, escriba su **página de inicio** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
