@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear una lista de llamadas/informes prioritaria mediante los datos de participación de correo electrónico de ToutApp para centrar su tiempo en las personas u oportunidades con impulso.
 
-1. Vaya a su cuenta en la aplicación [](http://toutapp.com/login)web. Una vez que complete los pasos a continuación, tendrá una &quot;Lista de llamada prioritaria&quot; guardada en Sales Connect para priorizar sus posibles clientes/cuentas más cálidas, volver a comprometer los posibles clientes/cuentas que se hayan oscurecido, capturar los resultados inmediatos y reducir el tiempo de conexión entre los toques de campaña.
+1. Vaya a su cuenta en la [aplicación Web](http://toutapp.com/login). Una vez que complete los pasos a continuación, tendrá una &quot;Lista de llamada prioritaria&quot; guardada en Sales Connect para priorizar sus posibles clientes/cuentas más cálidas, volver a comprometer los posibles clientes/cuentas que se hayan oscurecido, capturar los resultados inmediatos y reducir el tiempo de conexión entre los toques de campaña.
 1. Complete los siguientes pasos.
 
    * Haga clic en ‘Opciones de Vista’
