@@ -22,7 +22,7 @@ Marketo le permite crear entradas directamente en el Calendario de mercadotecnia
 
 Así es como.
 
-1. Vaya al **calendario**.
+1. Vaya al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -39,7 +39,7 @@ Así es como.
 
    >[!TIP]
    >
-   >Tenga en cuenta que también puede crear Campañas **** inteligentes, Programas **de** correo electrónico y entradas **** básicas de la misma manera.
+   >Tenga en cuenta que también puede crear **Campañas inteligentes**, **Programas de correo electrónico** y **Entradas básicas** de la misma manera.
 
 1. Cuando haya terminado de editar, cierre el modo de enfoque de programa.
 
