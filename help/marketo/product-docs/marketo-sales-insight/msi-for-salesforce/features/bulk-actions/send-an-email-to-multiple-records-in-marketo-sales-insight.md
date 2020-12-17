@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Enviar un correo electrónico a varios registros en Marketingto Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
+# Enviar un mensaje de correo electrónico a varios registros en Marketingto Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
 Es muy fácil enviar un correo electrónico de marketing a varias personas mediante MarketingTo Sales Insight. Empecemos.
 
-1. En Salesforce, haga clic en **Posibles clientes** o en **Contactos**.
+1. En Salesforce, haga clic en **Posibles clientes** o **Contactos**.
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
@@ -33,7 +33,7 @@ Es muy fácil enviar un correo electrónico de marketing a varias personas media
 
    >[!TIP]
    >
-   >¿No ves el botón? Asegúrese de haber [agregado los botones de marketing a la vista](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)de lista.
+   >¿No ves el botón? Asegúrese de haber [agregado los botones de marketing a la vista de lista](add-marketo-sales-insight-tab-and-buttons-to-salesforce.md).
 
 1. Adelante y redacta tu correo electrónico. Haga clic en **Enviar con el marcador **cuando termine.
 
@@ -41,7 +41,7 @@ Es muy fácil enviar un correo electrónico de marketing a varias personas media
 
    >[!TIP]
    >
-   >Puede [publicar un correo electrónico en Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) y elegir entre esos correos electrónicos.
+   >Puede [publicar correos electrónicos en Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) y elegir entre esos correos electrónicos.
 
    >[!NOTE]
    >
