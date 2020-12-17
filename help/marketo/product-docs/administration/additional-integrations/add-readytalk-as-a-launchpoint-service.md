@@ -29,15 +29,15 @@ Marketo administra el registro y la asistencia al seminario web de ReadyTalk.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Seleccione **Nuevo** y, a continuación, **Nuevo** **servicio**.
+1. Seleccione **Nuevo** y luego **Nuevo** **Servicio**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Introduzca un **** nombre **** para mostrar. En **Servicio**, seleccione** ReadyTalk**.
+1. Introduzca un **Nombre** **de visualización**. En **Servicio**, seleccione** ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Introduzca el número **de** acceso y el **código** de acceso ****.
+1. Introduzca su **Número de acceso** y **Acceso** **Código**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
@@ -45,11 +45,11 @@ Marketo administra el registro y la asistencia al seminario web de ReadyTalk.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. ¡Fenomenal! Su cuenta de **ReadyTalk** ahora está sincronizada con Marketing.
+1. ¡Fenomenal! Su cuenta **ReadyTalk** ahora se sincroniza con Marketing.
 
    ![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear un evento con ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
+>Obtenga información sobre cómo [crear un evento con ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
 
