@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Explicación de la cancelación de suscripción {#understanding-unsubscribe}
+# Explicación de la cancelación de suscripciones {#understanding-unsubscribe}
 
 En realidad hay varios tipos diferentes de cancelaciones integradas en Marketing. Todos están representados por campos en el objeto de persona, como Nombre.
 
@@ -19,13 +19,13 @@ En realidad hay varios tipos diferentes de cancelaciones integradas en Marketing
 >
 >Marketing está en proceso de cambiar términos como Lista negra y Lista blanca a Lista de bloqueados y Lista de permitidos en nuestro producto. Durante esta actualización, puede ver los términos antiguos en nuestra interfaz de usuario y en las capturas de pantalla de documentación, así como los nuevos términos en el texto de la documentación. Pedimos disculpas por cualquier confusión.
 
-Todos estos campos están integrados en la suscripción de marketing. Todos son de tipo booleano (casilla de verificación). Se pueden usar en Forms o en los pasos del flujo [Cambiar valor](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) de datos.
+Todos estos campos están integrados en la suscripción de marketing. Todos son de tipo booleano (casilla de verificación). Pueden utilizarse en pasos de flujo de Forms o [Cambiar valor de datos](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
-## No suscrito {#unsubscribed}
+## Suscrito {#unsubscribed}
 
-Se utiliza en la página de cancelación de suscripción estándar. Si una persona marca esta casilla o hace clic en el vínculo de cancelación de suscripción en un mensaje de correo electrónico, ya no recibirá correos electrónicos de marketing. Sin embargo, recibirán correos electrónicos [](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)operativos.
+Se utiliza en la página de cancelación de suscripción estándar. Si una persona marca esta casilla o hace clic en el vínculo de cancelación de suscripción en un mensaje de correo electrónico, ya no recibirá correos electrónicos de marketing. Sin embargo, recibirán [correos electrónicos operativos](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-## Comercialización suspendida {#marketing-suspended}
+## Mercadotecnia suspendida {#marketing-suspended}
 
 Este campo lo define el usuario para colocar personas en una cancelación temporal de suscripción. Las personas solo pueden obtener este estado si se modifican manualmente o si se utiliza un paso para cambiar el flujo del valor de los datos.
 
@@ -39,7 +39,7 @@ Este estado bloquea el envío de correo de una persona durante 24 horas después
 
 ## Incluido en la lista de bloqueados {#blocklisted}
 
-[Usa esto para personas como competidoras](http://docs.marketo.com/x/uwOQ). Cualquiera que **no quiera recibir** correos electrónicos: operativos, de marketing, etc. ¡No tienen nada!
+[Usa esto para personas como competidoras](http://docs.marketo.com/x/uwOQ). Cualquiera que desee recibir **correos electrónicos no**: operacionales, de mercadotecnia, etc. ¡No tienen nada!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
 
