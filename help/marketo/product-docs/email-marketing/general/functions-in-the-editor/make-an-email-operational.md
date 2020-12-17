@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hacer que el correo electrónico funcione {#make-an-email-operational}
+# Hacer operativo un mensaje de correo electrónico {#make-an-email-operational}
 
 Los mensajes de correo electrónico operativos omiten los estados No suscrito y Suspendido de marketing. Ellos envían lo que sea.
 
@@ -29,11 +29,11 @@ Los mensajes de correo electrónico operativos omiten los estados No suscrito y 
 >
 >Solo debe utilizar los correos electrónicos operativos para los correos electrónicos críticos y los respondedores automáticos. No están pensados para correos electrónicos de marketing.
 
-1. Una vez que se abra el editor, haga clic en Configuración **de correo electrónico**.
+1. Una vez que se abra el editor, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/two-1.png)
 
-1. Marque Correo electrónico **** operativo y haga clic en **Guardar**.
+1. Marque **Correo electrónico operativo** y haga clic en **Guardar**.
 
    ![](assets/three.png)
 
