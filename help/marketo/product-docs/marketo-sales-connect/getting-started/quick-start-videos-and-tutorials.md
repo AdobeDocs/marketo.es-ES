@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Vídeos y Tutorials de Inicio rápido {#quick-start-videos-and-tutorials}
+# Tutorials y videos de Inicio rápido {#quick-start-videos-and-tutorials}
 
 >[!NOTE]
 >
 >El compromiso de ventas de marketing cambió recientemente el nombre de Conexión de marketing a ventas. Estamos actualizando todos los vídeos, pero algunos pueden seguir mostrando el nombre antiguo.
 
-## Activación de perspectivas de marketing {#enabling-marketing-insights}
+## Habilitación de perspectivas de mercadotecnia {#enabling-marketing-insights}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
