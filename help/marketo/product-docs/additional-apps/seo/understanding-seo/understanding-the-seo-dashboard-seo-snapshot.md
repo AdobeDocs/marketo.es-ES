@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilice el panel para obtener una vista de alto nivel de cómo se definen las tendencias en la clasificación de palabras clave y de qué manera se optimiza el sitio para la optimización para SEO.
 
-Para saber en qué centrarse para mejorar los esfuerzos de SEO, utilice la sección de [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) de este panel.
+Para saber en qué centrarse para mejorar los esfuerzos de SEO, utilice la sección [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) de este panel.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Resumen de clasificación de palabras clave {#keyword-rank-summary}
 
-Esta sección muestra cómo se clasifica el sitio para las [palabras clave objetivo](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta sección le muestra cómo se clasifica el sitio para las [palabras clave que está dirigiendo](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Esta sección muestra cómo se clasifica el sitio para las [palabras clave objet
 
 >[!TIP]
 >
->También puede vista el rendimiento de una lista [](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) específica de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
+>También puede vista el rendimiento de una [lista específica](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
 
 ¡Vamos! Sigamos adelante.
 
