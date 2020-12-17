@@ -21,7 +21,7 @@ Haga clic en los vínculos de título para vista de artículos detallados para c
 
 Hemos realizado mejoras en la infraestructura central de Marketing, incluyendo mejor secuenciación, menos desajustes y una mejor estabilidad de Munchkin.
 
-## Rendimiento de sincronización SFDC {#sfdc-sync-performance}
+## Rendimiento de sincronización de SFDC {#sfdc-sync-performance}
 
 Aproveche una sincronización más rápida y enriquecida entre Marketing y Salesforce. Los cambios de datos que requieren actualizaciones masivas en cuentas o posibles clientes pueden dividirse en colas paralelas para evitar los retrasos. Los eventos y tareas ahora también se sincronizan hasta un 50 % más rápido.
 
@@ -60,36 +60,36 @@ Hemos lanzado dos funciones como parte de nuestra nueva integración de Slack:
 
 Marketo ABM ahora sincroniza y muestra cuentas CRM sin contactos. Incluya nuevas cuentas sin ventas ni historiales de marketing anteriores y rastree el progreso haciendo coincidir los posibles clientes subsiguientes con las cuentas.
 
-## `<sup>AI </sup>`ContentAnalytics {#contentai-analytics}
+## Contenido`<sup>AI </sup>`Análisis {#contentai-analytics}
 
-** [Nuevo filtro](https://docs.marketo.com/x/1BPG) de Lista de cuenta ABM **
+** [Nuevo filtro de Lista de cuenta ABM](https://docs.marketo.com/x/1BPG) **
 
-Vista y compare el rendimiento del contenido en las Listas de cuentas ABM para optimizar el contenido existente. El contenido`<sup>AI</sup>` muestra:
+Vista y compare el rendimiento del contenido en las Listas de cuentas ABM para optimizar el contenido existente. Content`<sup>AI</sup>` le muestra:
 
 * contenido más visto
 * contenido convertido principal
 * Contenido sugerido por AI para actividades de marketing
 
-## Mejoras en la personalización de la Web {#web-personalization-enhancements}
+## Mejoras en la personalización de Web {#web-personalization-enhancements}
 
-** [Tokens for Web Campañas](https://docs.marketo.com/x/SwJI)**
+** [Tokens para Campañas Web](https://docs.marketo.com/x/SwJI)**
 
 Los tokens ahora están disponibles para su uso en campañas web. Aproveche los tokens para ofrecer contenido y mensajes personalizados a fin de aumentar la participación en sus campañas web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** Imágenes [de Design Studio en el Editor](https://docs.marketo.com/x/SwJI)de Campañas web**
+** [Imágenes de Design Studio en el Editor de Campañas Web](https://docs.marketo.com/x/SwJI)**
 
 Ahorre tiempo reutilizando elementos creativos e imágenes en varios canales de Marketing.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integración  {#integration}
+## Integración {#integration}
 
-** API [de Previsualización de correo electrónico](https://developers.marketo.com/rest-api/assets/emails/)**
+** [API de Previsualización de correo electrónico](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Ahora puede realizar la previsualización remota del correo electrónico fuera de Marketing, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 
-** [Reemplazar la API](https://developers.marketo.com/rest-api/assets/emails/)HTML**
+** [Reemplazar API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Los desarrolladores pueden actualizar el contenido HTML de los recursos de correo electrónico de forma remota, lo que les permite trabajar en un único sistema para mantener los recursos.
