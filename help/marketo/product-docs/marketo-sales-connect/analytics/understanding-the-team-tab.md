@@ -15,7 +15,7 @@ ht-degree: 0%
 
 En la ficha Equipo, resaltamos tres métricas importantes.
 
-## Correos electrónicos enviados con plantilla {#emails-sent-with-template}
+## Correos electrónicos enviados con la plantilla {#emails-sent-with-template}
 
 De los correos electrónicos que se han enviado, cuántos de ellos utilizaron una plantilla.
 
