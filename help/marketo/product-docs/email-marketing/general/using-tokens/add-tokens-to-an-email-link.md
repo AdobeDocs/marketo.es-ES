@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para insertar parámetros adicionales y específicos de la persona en los vínculos, puede utilizar tokens. Así es como.
 
-1. Seleccione el correo electrónico y haga clic en la ficha **Editar borrador** .
+1. Seleccione el correo electrónico y haga clic en la ficha **Editar borrador**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Para insertar parámetros adicionales y específicos de la persona en los víncu
 
    ![](assets/two.png)
 
-1. Busque o escriba el texto del vínculo. Resalte y haga clic en el icono **Insertar/Editar vínculo** .
+1. Busque o escriba el texto del vínculo. Resalte el elemento y haga clic en el icono **Insertar/Editar vínculo**.
 
    ![](assets/three.png)
 
-1. Escriba los tokens deseados en la **dirección URL** y haga clic en **Insertar**.
+1. Escriba los tokens deseados en **URL** y haga clic en **Insertar**.
 
    ![](assets/four.png)
 
