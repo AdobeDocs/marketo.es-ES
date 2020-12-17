@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Editar caducidad de vínculo en informes y alertas {#edit-link-expiration-in-reports-and-alerts}
+# Editar la caducidad del vínculo en informes y alertas {#edit-link-expiration-in-reports-and-alerts}
 
 Los vínculos de los mensajes de correo electrónico de suscripción de informes caducan pasados tres días. Para cambiar la caducidad de estos vínculos, siga estos pasos.
 
@@ -19,11 +19,11 @@ Los vínculos de los mensajes de correo electrónico de suscripción de informes
 >
 >**Se requieren permisos de administración**
 
-1. En **Administración**, haga clic en Configuración **de inicio de sesión**.
+1. En **Administración**, haga clic en **Configuración de inicio de sesión**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Haga clic en **Editar caducidad** de URL.
+1. Haga clic en **Editar caducidad de URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
