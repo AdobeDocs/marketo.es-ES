@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Notas de la versión: Septiembre de 2013 {#release-notes-september}
 
-Las siguientes funciones se incluyen en la versión de septiembre. Compruebe la disponibilidad de las funciones [de la edición](http://docs.marketo.com/display/docs/assets/pricing.php) de marketing.
+Las siguientes funciones se incluyen en la versión de septiembre. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la comunidad para ver los artículos detallados de la base de conocimiento de cada función.
+Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
 ## Direcciones URL más cortas {#shorter-urls}
 
@@ -39,13 +39,13 @@ Al enviar una muestra de correo electrónico, puede seleccionar el nombre de un 
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## Sincronización de campos adicional para GoToWebinar {#additional-field-sync-for-gotowebinar}
+## Sincronización de campos adicional para el seminario Web GoToWebinar {#additional-field-sync-for-gotowebinar}
 
 Puede sincronizar el nombre de la Compañía y el título del trabajo desde el formulario de marketing en GoToWebinar. Para habilitar estos campos adicionales, vaya a Socios de Evento y marque &quot;Habilitar campos adicionales&quot;.
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## Restringir el inicio de sesión de usuario sólo a SSO {#restrict-user-login-to-sso-only}
+## Restringir el inicio de sesión de usuario a SSO solamente {#restrict-user-login-to-sso-only}
 
 Configure suscripciones para permitir que los usuarios de marketing inicien sesión solo mediante SSO y no a través de la pantalla de inicio de sesión normal
 
@@ -53,7 +53,7 @@ Configure suscripciones para permitir que los usuarios de marketing inicien sesi
 
 Los archivos cargados en Design Studio ahora se analizan automáticamente y se bloquean si contienen virus
 
-## Exportar analizador de influencia de oportunidades {#export-opportunity-influence-analyzer}
+## Analizador de influencia de oportunidad de exportación {#export-opportunity-influence-analyzer}
 
 Ahora puede exportar los datos en el Analizador de influencia de oportunidades a Excel. Cada archivo de Excel exportado contiene todas las interacciones de mercadotecnia de todos los posibles clientes (incluidos aquellos que no tienen un rol en la oportunidad), así como todas las oportunidades que se ofrecen en la cuenta seleccionada en el analizador. Las filas de oportunidades se resaltan en verde. Puede utilizar las funciones nativas de filtrado de datos de Excel si necesita centrarse en posibles clientes o actividades de marketing específicas.
 
@@ -69,12 +69,12 @@ La opción Explícita solo examina los contactos con funciones (comportamiento a
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Perspectiva de ventas disponible en francés y alemán (solo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## Perspectiva de ventas disponible en francés y alemán (sólo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
 
 Descargue la versión más reciente de Administración de posibles clientes de Marketing y Perspectiva de ventas de Marketing Cloud desde AppExchange para que los vendedores franceses y alemanes puedan ver el contenido de perspectiva de ventas en su idioma preferido.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
-## Interfaz de usuario de cobalto {#cobalt-user-interface}
+## Interfaz de usuario Cobalt {#cobalt-user-interface}
 
 En los próximos meses, se está desarrollando un nuevo tema en diferentes partes de la aplicación. Este mes, puede que observe más ventanas modales azules nuevas.
