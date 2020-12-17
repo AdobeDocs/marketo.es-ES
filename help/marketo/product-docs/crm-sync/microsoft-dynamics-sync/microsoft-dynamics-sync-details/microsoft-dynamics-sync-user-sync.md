@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync: Sincronización del usuario {#microsoft-dynamics-sync-user-sync}
+# Microsoft Dynamics Sync: Sincronización de usuario {#microsoft-dynamics-sync-user-sync}
 
 ¿Sabía que Marketing sincroniza toda la base de datos con Dynamics? Se sincroniza, luego espera 5 minutos y luego se sincroniza de nuevo, todo el día, todos los días. A continuación se proporcionan algunos detalles sobre cómo trata Marketing específicamente las cuentas de Dynamics.
 
@@ -27,4 +27,4 @@ No. Marketing no puede crear usuarios en Dynamics.
 
 ## ¿Qué campos se sincronizarán con Marketing? {#which-fields-will-sync-to-marketo}
 
-Puede [seleccionar los campos que sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configuración. Sin embargo, Marketing solo sincronizará los campos a los que tiene acceso el usuario de sincronización de Dynamics.
+Puede [seleccionar campos para sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configuración. Sin embargo, Marketing solo sincronizará los campos a los que tiene acceso el usuario de sincronización de Dynamics.
