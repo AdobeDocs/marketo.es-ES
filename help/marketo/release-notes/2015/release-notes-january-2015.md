@@ -19,9 +19,9 @@ Las siguientes funciones se incluyen en la versión de enero de 2015. Verifique 
 
 **Nuevas fotos de Rick DeCosta!**
 
-Rick es un cliente de Marketing de SmartBear y tiene una [increíble colección de fotos](https://www.flickr.com/photos/rickdecosta). ¡Échenlos!
+Rick es cliente de Marketing de SmartBear y tiene una [increíble colección de fotos](https://www.flickr.com/photos/rickdecosta). ¡Échenlos!
 
-## Páginas de aterrizaje fáciles de usar para dispositivos móviles {#mobile-friendly-landing-pages}
+## Páginas de aterrizaje fáciles de usar para móviles {#mobile-friendly-landing-pages}
 
 Ahora puede [crear vistas móviles para páginas de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) desde el editor de páginas de aterrizaje. Distribuya su mensaje de forma eficaz, independientemente del dispositivo, y aumente la participación adaptando su contenido para facilitar el consumo sobre la marcha. Esta función se despliega gradualmente durante la semana siguiente a la versión.
 
@@ -45,7 +45,7 @@ Ahora acceda a los objetos personalizados asociados con el objeto Account desde 
 
 **Remercadotecnia personalizada para Google y Facebook**
 
-La remercadotecnia muestra publicidades a las personas que han visitado el sitio web. Ahora puede personalizar sus campañas de remarketing en [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) y [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) con los datos de Personalización en tiempo real. Remercadotecnia a audiencias de diferentes industrias, listas de cuentas con nombre, tamaños de compañías o cualquier dato de posibles clientes conocidos.
+La remercadotecnia muestra publicidades a las personas que han visitado el sitio web. Ahora puede personalizar sus campañas de remarketing en [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) y [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) mediante el uso de datos de Personalización en tiempo real. Remercadotecnia a audiencias de diferentes industrias, listas de cuentas con nombre, tamaños de compañías o cualquier dato de posibles clientes conocidos.
 
 [Módulo de Lista de cuentas con nombre](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -59,13 +59,13 @@ Las mejoras en el módulo Cuentas con nombre mejorarán las tasas de coincidenci
 
 Opciones de etiqueta RTP actualizadas
 
-[Las opciones de etiqueta](http://docs.marketo.com/display/docs/rtp+tag+implementation) RTP en Configuración de cuenta se han actualizado para incluir:
+[Las opciones de ](http://docs.marketo.com/display/docs/rtp+tag+implementation) etiquetas RTP en Configuración de cuenta se han actualizado para incluir:
 
 1. CDN y asincrónico (etiqueta recomendada)
 1. CDN y sincrónico (alta velocidad)
 1. Etiqueta asincrónica sin CDN
 1. Etiqueta sincrónica sin CDN
 
-Para un mejor rendimiento, se recomienda colocar la etiqueta en la parte superior del encabezado en la página web posterior `<head>`. Todas las etiquetas permiten el uso de la API [](http://developers.marketo.com/documentation/websites/rtp-js-api/)RTP. Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para un mejor rendimiento, se recomienda colocar la etiqueta en la parte superior del encabezado en la página web después de `<head>`. Todas las etiquetas permiten el uso de la [API de RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
