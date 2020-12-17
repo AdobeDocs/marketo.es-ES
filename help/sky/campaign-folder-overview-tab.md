@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Carpeta de campaña: Ficha Información general
 
-Hay dos secciones debajo de la ficha [!UICONTROL Información general] de la carpeta de campañas: **[!UICONTROL Detalles]** e **[!UICONTROL informes]**.
+Hay dos secciones debajo de la ficha Carpeta de campaña [!UICONTROL Información general]: **[!UICONTROL Detalles]** y **[!UICONTROL Informes]**.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -28,7 +28,7 @@ Haga clic en la lista desplegable Acciones de carpeta en la parte superior derec
 
 [!UICONTROL ## Informes]
 
-En la sección [!UICONTROL Informes] , puede encontrar información clave sobre las distintas campañas de la carpeta.
+En la sección [!UICONTROL Informes], puede encontrar información clave sobre las diferentes campañas de la carpeta.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
