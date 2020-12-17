@@ -26,7 +26,7 @@ En el caso de futuras campañas inteligentes que están programadas pero que aú
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. La tarjeta de detalles le permite acceder a la información sobre los filtros de Lista inteligente, Flujo y Resumen de correo electrónico.
-1. Toque Lista **** inteligente.
+1. Toque **Lista inteligente**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -34,7 +34,7 @@ En el caso de futuras campañas inteligentes que están programadas pero que aú
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Puntee **Flujo**.
+1. Toque **Flujo**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -42,7 +42,7 @@ En el caso de futuras campañas inteligentes que están programadas pero que aú
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Haga clic en Resumen **de correo electrónico**.
+1. Haga clic en **Resumen de correo electrónico**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -66,11 +66,11 @@ Es una buena idea echar un vistazo a un correo electrónico antes de que salga. 
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Toque [Enviar correo electrónico de muestra](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Previsualización](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
+1. Toque [Enviar muestra](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [correo electrónico de Previsualización](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Confirmación de una ejecución de Campañas inteligentes {#confirming-a-smart-campaign-run}
+## Confirmación de una ejecución de Campaña inteligente {#confirming-a-smart-campaign-run}
 
 Las tarjetas para campañas inteligentes no confirmadas son grises hasta que las confirme. Luego, se vuelven naranjas.
 
@@ -82,7 +82,7 @@ Las tarjetas para campañas inteligentes no confirmadas son grises hasta que las
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toque **Confirmar** para finalizar el trabajo o **No importa** si tiene una segunda opinión.
+1. Toque **Confirmar** para finalizar el trabajo, o **No importa** si tiene pensamientos secundarios.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -90,7 +90,7 @@ Las tarjetas para campañas inteligentes no confirmadas son grises hasta que las
    >
    >¡Ahora tu carta se volverá a naranja!
 
-## Cancelación de una ejecución de Campañas inteligentes {#canceling-a-smart-campaign-run}
+## Cancelación de una ejecución de Campaña inteligente {#canceling-a-smart-campaign-run}
 
 Puede cancelar una ejecución de campaña inteligente programada y confirmada.
 
