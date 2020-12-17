@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO: elija la región o el país del motor de búsqueda {#seo-pick-region-country-for-your-search-engine}
+# SEO: Elija la región o el país del motor de búsqueda {#seo-pick-region-country-for-your-search-engine}
 
 Los administradores de SEO podrán elegir la región para el motor de búsqueda que desee para obtener la información de clasificación de palabras clave.
 
