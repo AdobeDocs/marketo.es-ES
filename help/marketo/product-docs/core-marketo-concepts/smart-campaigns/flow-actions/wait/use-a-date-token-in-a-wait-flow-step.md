@@ -19,7 +19,7 @@ Puede utilizar el paso Flujo de espera para pausar el viaje de una persona a tra
 >
 >Esto solo se aplica a campañas desencadenadoras. No puede utilizar esta función en campañas por lotes.
 
-1. En la ficha **Flujo** de campaña inteligente, arrastre el ratón sobre el paso de flujo de **espera** .
+1. En la ficha **Flujo** de la campaña inteligente, arrastre el ratón sobre el paso de flujo **Espera**.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +27,7 @@ Puede utilizar el paso Flujo de espera para pausar el viaje de una persona a tra
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. En la lista desplegable **Tipo** , seleccione Token **de fecha**.
+1. En la lista desplegable **Tipo**, seleccione **Testigo de fecha**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +54,7 @@ Puede utilizar el paso Flujo de espera para pausar el viaje de una persona a tra
 
    >[!NOTE]
    >
-   >También puede especificar el número de días utilizando un token `{{lead.` o `{{company.` que represente un campo entero o un `{{my.` token de tipo numérico.
+   >También puede especificar el número de días utilizando un token `{{lead.` o `{{company.` que represente un campo entero o un token `{{my.` de tipo numérico.
 
 1. Haga clic en Guardar.
 
