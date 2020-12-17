@@ -24,7 +24,7 @@ Deberá tener esta configuración para poder realizar inicios mediante Sales Ins
 * La API de Soap y Rest tiene tiempos de espera separados que puede establecer en función de las necesidades de su organización. El tiempo máximo permitido es de 120 segundos
 * Desactivación del Panel de perspectivas: Puede eliminar las credenciales de la API de descanso y utilizar únicamente la API de Soap. Al hacerlo, se desactivará la ficha Panel de perspectivas en todos los paneles de fuerza visual MSI
 
-## Configuración MSI {#msi-configuration}
+## Configuración de MSI {#msi-configuration}
 
 Las configuraciones se aplican a todos los usuarios de MSI y no son específicas de los perfiles.
 
