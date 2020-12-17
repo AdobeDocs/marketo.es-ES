@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esta versión incluye funciones sociales integradas y muy anticipadas y objetivos de gestión de clientes potenciales. Nota: las funciones sociales están disponibles como complemento o como parte de paquetes seleccionados.
 
-## Publicación de vídeos de YouTube con uso compartido en redes sociales {#publish-a-youtube-video-with-social-sharing}
+## Publicar un vídeo de YouTube con uso compartido en redes sociales {#publish-a-youtube-video-with-social-sharing}
 
 Amplíe la audiencia de sus vídeos animando a sus visitantes a compartirlos socialmente, utilizando el nuevo Compartir vídeos en sus páginas de aterrizaje.
 
@@ -27,7 +27,7 @@ Personalice completamente los mensajes compartidos y la apariencia de un nuevo c
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
-## Inicio de sesión en Social {#social-sign-on}
+## Inicio de sesión social {#social-sign-on}
 
 Obtenga información y reduzca las fricciones permitiendo que los posibles clientes rellenen formularios con información de sus redes sociales.
 
