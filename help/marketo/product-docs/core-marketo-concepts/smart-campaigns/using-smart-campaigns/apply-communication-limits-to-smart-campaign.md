@@ -41,6 +41,6 @@ No es una buena idea enviar un correo electrónico a alguien varias veces al dí
 
 >[!TIP]
 >
->Para que sea la opción predeterminada, edite los límites [de](../../../../product-docs/administration/email-setup/enable-communication-limits.md) comunicación en la sección Administración.
+>Para que esto sea lo predeterminado, edite los [límites de comunicación](../../../../product-docs/administration/email-setup/enable-communication-limits.md) en la sección Administración.
 
 Dulce. Ahora puede estar seguro de que no está enviando accidentalmente demasiados correos electrónicos a su audiencia.
