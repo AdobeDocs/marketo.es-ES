@@ -39,7 +39,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:No se pueden eliminar </strong> los correos electrónicos enviados como parte de una campaña.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:No se pueden eliminar </strong> los correos electrónicos enviados como parte de una campaña.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:No se pueden eliminar </strong> los correos electrónicos enviados como parte de una campaña.</p></td> 
   </tr> 
  </tbody> 
 </table>
