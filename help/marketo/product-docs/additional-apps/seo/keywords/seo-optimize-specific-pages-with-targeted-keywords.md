@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Algunas palabras clave van muy bien con ciertas páginas. Así es como se relaciona la palabra clave perfecta con su página perfecta. Esto proporcionará los datos más precisos y las mejores recomendaciones para mejorar.
 
-1. Vaya a la sección **Páginas** .
+1. Vaya a la sección **Páginas**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
