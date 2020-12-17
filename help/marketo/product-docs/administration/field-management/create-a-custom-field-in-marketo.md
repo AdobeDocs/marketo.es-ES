@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creación de un campo personalizado en Marketing {#create-a-custom-field-in-marketo}
+# Crear un campo personalizado en Marketing {#create-a-custom-field-in-marketo}
 
 Si necesita un nuevo campo personalizado en Marketing para almacenar o capturar datos, así se puede crear uno.
 
@@ -31,7 +31,7 @@ Si necesita un nuevo campo personalizado en Marketing para almacenar o capturar 
 
    >[!TIP]
    >
-   >Consulte el glosario Tipos de campos [personalizados](custom-field-type-glossary.md).
+   >Consulte el [Glosario de tipos de campos personalizados](custom-field-type-glossary.md).
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
