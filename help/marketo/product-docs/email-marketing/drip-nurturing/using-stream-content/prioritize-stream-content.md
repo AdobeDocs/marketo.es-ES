@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Después de agregar contenido al flujo, es posible que desee cambiar la prioridad. El contenido siempre se envía de arriba a abajo en cada conversión y no se envía dos veces a la misma persona.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione el programa de participación y haga clic en la ficha **Flujos** .
+1. Seleccione el programa de participación y haga clic en la ficha **Flujos**.
 
    ![](assets/cloneasteam-1.jpg)
 
