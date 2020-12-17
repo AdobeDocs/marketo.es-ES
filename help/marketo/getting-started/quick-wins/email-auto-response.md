@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Respuesta automática de correo electrónico {#email-auto-response}
+# Respuesta automática por correo electrónico {#email-auto-response}
 
-## Misión: Enviar un correo electrónico de agradecimiento cuando una persona rellene un formulario {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Misión: Envíe un correo electrónico de agradecimiento cuando una persona rellene un formulario {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >* [página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Paso 1: Crear un correo electrónico {#step-create-an-email}
+## Paso 1: Crear un mensaje de correo electrónico {#step-create-an-email}
 
 1. Vaya al área Actividades de marketing.
 
@@ -65,33 +65,33 @@ ht-degree: 0%
 
 ## Paso 2: Crear una Campaña inteligente {#step-create-a-smart-campaign}
 
-1. Haga clic con el botón secundario en **Mi Programa** y, a continuación, en **Nueva Campaña** inteligente.
+1. Haga clic con el botón secundario en **Mi Programa** y haga clic en **Nueva Campaña inteligente**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Asigne un nombre** a la campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en **Crear**.
+1. **Asigne un** nombre a la campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en  **Crear**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Vaya a la ficha Lista **** inteligente.
+1. Vaya a la ficha **Lista inteligente**.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Estamos configurando esta campaña para que se ejecute siempre que una persona rellene el formulario que ha creado en [**Página de aterrizaje con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Estamos configurando esta campaña para que se ejecute cada vez que una persona rellene el formulario que creó en [**Página de aterrizaje con un Formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
 1. Busque y arrastre el activador **Rellenar formulario** al lienzo izquierdo.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Seleccione **Mi formulario** en la lista desplegable. Haga clic en la ficha **Flujo** .
+1. Seleccione **Mi formulario** en la lista desplegable. Haga clic en la ficha **Flujo**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Arrastre la acción **Enviar flujo de correo electrónico** al lienzo izquierdo.
+1. Arrastre la acción de flujo **Enviar correo electrónico** al lienzo izquierdo.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Seleccione el correo electrónico **de respuesta** automática y vaya a la ficha **Programar** .
+1. Seleccione su **Correo electrónico de respuesta automática** y vaya a la ficha **Programar**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -115,19 +115,19 @@ ht-degree: 0%
 >
 >Una vez activa, esta campaña se ejecutará cada vez que una persona rellene el formulario especificado. La campaña seguirá funcionando hasta que se desactive.
 
-## Paso 3: Rellenar el formulario {#step-fill-out-the-form}
+## Paso 3: Rellene el formulario {#step-fill-out-the-form}
 
-1. Seleccione **Mi página**. Esto se creó en la [Página de aterrizaje con una victoria rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Seleccione **Mi página**. Esto se creó en la Página de aterrizaje [con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Haga clic en **Vista Página** aprobada.
+1. Haga clic en **Página aprobada de Vista**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
    La página de aterrizaje &quot;Prueba gratuita&quot; se abrirá en una nueva pestaña.
 
-1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **Enviar**.
+1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico, luego haga clic en **Enviar**.
 
    ![](assets/image2014-9-24-12-3a0-3a28.png)
 
