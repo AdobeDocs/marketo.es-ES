@@ -19,7 +19,7 @@ Estos campos *deben* sincronizarse con Marketing para que funcionen tanto el pos
 * Urgencia
 * Puntuación relativa
 
-Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, desproteja la instancia para asegurarse de que los campos están sincronizados tanto para **posible cliente** como para **contacto**. Si no, agréguelas.
+Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, desproteja la instancia para asegurarse de que los campos están sincronizados para **posible cliente** y **contacto**. Si no, agréguelas.
 
 A continuación se muestra cómo comprobar y agregar campos de sincronización.
 
