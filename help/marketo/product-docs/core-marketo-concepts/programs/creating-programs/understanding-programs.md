@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Explicación de los Programas {#understanding-programs}
 
-Los programas representan una única iniciativa de marketing. Se puede pensar en esto como un contenedor con todas las cosas que se necesitan para que el programa funcione - estas se llaman recursos locales e incluyen **páginas de aterrizaje**, **correo electrónico**, campañas **** inteligentes, etc. Los programas hacen mucho, pero es fácil empezar.
+Los programas representan una única iniciativa de marketing. Puede pensarlo como un contenedor con todas las cosas que necesita para que el programa funcione: se denominan recursos locales e incluyen **páginas de aterrizaje**, **correo electrónico**, **campañas inteligentes** y más. Los programas hacen mucho, pero es fácil empezar.
 
 Existen cuatro tipos de programas:
 
 **Programas evento**
 
-**[Los eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** tienen una fecha y hora específicas. Le ayudan a coordinar, facilitar y rastrear sus eventos en vivo y en línea.
+**[Los](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** eventos tienen una hora y una fecha específicas. Le ayudan a coordinar, facilitar y rastrear sus eventos en vivo y en línea.
 
 **Programas de participación**
 
-**[La Nurturación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** por goteo se utiliza para alimentar a las personas con un programa periódico establecido.
+**[Las](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** enfermeras de goteo se utilizan para alimentar a las personas con una pauta periódica establecida.
 
 **Programas de correo electrónico**
 
-La **[clásica explosión](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)** de correo. Cuenta con excelentes funciones integradas, como pruebas A/B y Inicio **[de](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)** Email Head.
+La **[explosión de correo clásica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Cuenta con excelentes funciones integradas, como la prueba A/B y **[Inicio de responsable de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Programas predeterminados**
 
