@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Definición:** Un miembro es una persona que tiene un estado en un programa.
+>**Definición:** un miembro es una persona que tiene un estado en un programa.
 
 ## Cómo las personas se convierten en miembros de un Programa {#how-people-become-members-of-a-program}
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 
    1. La persona tendrá automáticamente el primer estado en la progresión.
 
-1. Los miembros se [importan al programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) desde un archivo CSV.
+1. Puede [importar miembros en el programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) desde un archivo CSV.
 
    1. La persona tendrá automáticamente el primer estado en la progresión.
 
-1. Utilice el paso [Cambiar el flujo de estado](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) del programa.
-1. Una persona registra o asiste a un [seminario web sincronizado con un programa](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)de evento.
-1. Se [crea una persona mediante la aplicación](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)de registro de Marketing para iPad.
+1. Utilice el paso de flujo [cambiar el estado del programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md).
+1. Una persona registra o asiste a un [seminario web sincronizado con un programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md).
+1. Se [crea una persona mediante la aplicación de registro de Marketing para iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Se agrega una persona a una Campaña SFDC, que se [sincroniza con el programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
@@ -58,9 +58,9 @@ El propósito de un programa es crear una interacción significativa con la pers
 >
 >Para un seminario web, registrarse no es una interacción significativa si no ven el seminario web. La asistencia es un éxito en este caso.
 
-## Programa de adquisición  {#acquisition-program}
+## Programa de adquisición {#acquisition-program}
 
-Cuando un nuevo nombre entra en el sistema como miembro de programa, Marketing configura automáticamente ese programa como &quot;adquisición&quot;. Esto establece el crédito por atribución [](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)de primer toque.
+Cuando un nuevo nombre entra en el sistema como miembro de programa, Marketing configura automáticamente ese programa como &quot;adquisición&quot;. Esto establece el crédito por [atribución de primer toque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >
