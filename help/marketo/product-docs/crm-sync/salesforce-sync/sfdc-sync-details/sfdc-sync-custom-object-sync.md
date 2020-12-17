@@ -21,15 +21,15 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
 >[!PREREQUISITES]
 >
->Para utilizar un objeto personalizado, debe asociarse a un objeto [lead](sfdc-sync-lead-sync.md), [](sfdc-sync-contact-sync.md)contactor [](sfdc-sync-account-sync.md)accountobject en Salesforce.
+>Para utilizar un objeto personalizado, debe asociarse a un objeto [lead](sfdc-sync-lead-sync.md), [contact](sfdc-sync-contact-sync.md)o [account](sfdc-sync-account-sync.md)en Salesforce.
 
-## Habilitar objeto personalizado  {#enable-custom-object}
+## Habilitar objeto personalizado {#enable-custom-object}
 
-1. Haga clic en **Administrador** y en el **vínculo** Sincronizar objetos de Salesforce***.*
+1. Haga clic en **Administración** y en el vínculo*** Sincronización de objetos de Salesforce ****.**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Si este es su primer objeto personalizado, haga clic en **Sincronizar Esquema.**
+1. Si este es su primer objeto personalizado, haga clic en **Esquema de sincronización.**
 
    ![](assets/rtaimage-2.png)
 
@@ -51,11 +51,11 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
    >
    >Los objetos personalizados deben tener nombres únicos. Marketo no admite dos objetos personalizados diferentes con el mismo nombre.
 
-1. Haga clic en **Activar sincronización.**
+1. Haga clic en **Habilitar sincronización.**
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Vuelva a hacer clic en **Habilitar sincronización** .
+1. Vuelva a hacer clic en **Habilitar la sincronización**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -70,11 +70,11 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Haga clic en **Activar sincronización.**
+1. Haga clic en **Habilitar sincronización.**
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para realizar la vista de todos los objetos personalizados de Salesforce, haga clic en **Administrador** y en el vínculo **Sincronizar objetos de Salesforce** (igual que el paso 1 anterior).
+1. Para realizar la vista de todos los objetos personalizados de Salesforce, haga clic en **Administración** y en el vínculo **Sincronizar objetos de Salesforce **(igual que el paso 1 anterior).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
