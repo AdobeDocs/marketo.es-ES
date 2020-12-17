@@ -23,7 +23,7 @@ Existe una manera sencilla de anexar datos a un campo. Así es como.
 
 
 
-1. En la ficha **Flujo** , arrastre el paso **Cambiar valor** de datos.
+1. En la ficha **Flujo**, arrastre el paso **Cambiar valor de datos**.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
