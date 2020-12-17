@@ -29,4 +29,4 @@ Así que tome su bebida favorita y eche un vistazo a su alrededor.
 * [Aspectos a revisar: Capacidades principales](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Formas de obtener ayuda](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Si ya conoce su camino alrededor de su instancia y se siente cómodo con los conceptos principales de Marketo, consulte los documentos de producto de Marketo o visite la comunidad en línea de [Marketing Nation](https://nation.marketo.com/) para ver lo que otros usuarios de Marketing Cloud están diciendo.
+Si ya conoce su camino alrededor de su instancia y se siente cómodo con los conceptos principales de Marketo, consulte los documentos de productos de Marketing o visite la comunidad en línea [Marketing Nation](https://nation.marketo.com/) para ver lo que otros usuarios de Marketing están diciendo.
