@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. En Configuración de administración, seleccione Administración **de equipos**.
+1. En Configuración de administración, seleccione **Administración de equipos**.
 
    ![](assets/two-1.png)
 
-1. Al lado de Todos los equipos, haga clic en **+**.
+1. Junto a Todos los equipos, haga clic en **+**.
 
    ![](assets/three-1.png)
 
-1. Introduzca un nombre de equipo (y una descripción opcional) y haga clic en **Crear**.
+1. Escriba un nombre de equipo (y una descripción opcional) y haga clic en **Crear**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Añadir personas a su subequipo {#add-people-to-your-sub-team}
 
-1. En Administración de equipos, seleccione el grupo **Todos** .
+1. En Administración de equipos, seleccione el grupo **Todos**.
 
    ![](assets/five-1.png)
 
