@@ -17,7 +17,7 @@ Clonar un programa clona *todo*. A veces solo desea clonar un recurso. Así es c
 
 >[!NOTE]
 >
->Deberá realizar pasos adicionales para [clonar un grupo](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)de prueba de página de aterrizaje.
+>Deberá realizar pasos adicionales para [clonar un grupo de prueba de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Clonar un recurso local {#clone-a-local-asset}
 
@@ -33,7 +33,7 @@ Clonar un programa clona *todo*. A veces solo desea clonar un recurso. Así es c
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Cada tipo de recurso presenta un cuadro de diálogo diferente. Simplemente rellene la información y haga clic en **Clonar.**
+1. Cada tipo de recurso presenta un cuadro de diálogo diferente. Simplemente complete la información y haga clic en **Clonar.**
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
