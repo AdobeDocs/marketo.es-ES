@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Añadir un paso de flujo en una Campaña inteligente {#add-a-flow-step-to-a-smart-campaign}
+# Añadir un paso de flujo a una Campaña inteligente {#add-a-flow-step-to-a-smart-campaign}
 
 Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un grupo de personas que califican. Son sus instrucciones, y la campaña inteligente hará su oferta!
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Escriba para buscar un paso de flujo, luego arrástrelo y suéltelo en el lienzo
 >**Buceo profundo**
 >
 >
->Obtenga más información sobre los distintos pasos [de](http://docs.marketo.com/display/DOCS/Flow+Actions)flujo.
+>Obtenga más información sobre los diferentes [pasos de flujo](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Haga clic en la lista desplegable y elija una opción adecuada.
 
@@ -47,7 +47,7 @@ Escriba para buscar un paso de flujo, luego arrástrelo y suéltelo en el lienzo
    >**Recordatorio**
    >
    >
-   >Los pasos de flujo se ejecutan en el orden en que aparecen en la lista.  [Reordene los pasos](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) de flujo para asegurarse de que están en la secuencia correcta.
+   >Los pasos de flujo se ejecutan en el orden en que aparecen en la lista.  [Reordene los ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) pasos de flujo para asegurarse de que están en la secuencia correcta.
 
    >[!TIP]
    >
