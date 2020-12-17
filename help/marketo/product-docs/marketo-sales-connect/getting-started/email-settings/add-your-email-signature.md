@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir la firma de correo electrónico {#add-your-email-signature}
+# Añada su firma de correo electrónico {#add-your-email-signature}
 
 Queremos que el envío por correo electrónico desde Sales Connect se sienta como una experiencia perfecta al enviar desde su propio cliente de correo electrónico. Una buena manera de hacerlo es agregar su firma de correo electrónico.
 
@@ -19,7 +19,7 @@ Queremos que el envío por correo electrónico desde Sales Connect se sienta com
 
    ![](assets/add-your-email-signature-1.png)
 
-1. En Mi cuenta, seleccione Configuración **de correo electrónico**.
+1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
 
    ![](assets/add-your-email-signature-2.png)
 
@@ -31,7 +31,7 @@ Queremos que el envío por correo electrónico desde Sales Connect se sienta com
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Introduzca el texto (o las imágenes) que desee y haga clic en **Guardar**.
+1. Escriba el texto (o las imágenes) que desee y haga clic en **Guardar**.
 
    ![](assets/add-your-email-signature-5.png)
 
