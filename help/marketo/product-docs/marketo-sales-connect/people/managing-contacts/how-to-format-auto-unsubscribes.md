@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Cómo aplicar formato a las anulaciones automáticas {#how-to-format-auto-unsubscribes}
+# Cómo aplicar formato a las cancelaciones automáticas {#how-to-format-auto-unsubscribes}
 
-1. En Configuración, haga clic en **Husos horarios y cancelar suscripciones**.
+1. En Configuración, haga clic en **Husos horarios y cancelaciones de suscripción**.
 1. Escriba el texto que desea que aparezca en la parte inferior del correo electrónico para cancelar suscripciones.
 1. Resalte las palabras que desee que el hipervínculo de los destinatarios haga clic para cancelar la suscripción.
 1. Haga clic en **Guardar cambios**.
