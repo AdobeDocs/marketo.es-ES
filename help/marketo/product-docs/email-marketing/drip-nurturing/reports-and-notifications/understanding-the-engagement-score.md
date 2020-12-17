@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Explicación de la puntuación de participación {#understanding-the-engagement-score}
+# Explicación de la puntuación de compromiso {#understanding-the-engagement-score}
 
-La puntuación de participación facilita la visualización de la eficacia del contenido en el programa de participación. La puntuación va de 0 a 100. Consulte [el Panel](the-engagement-dashboard.md) de participación para ver cómo puede rastrear el rendimiento del contenido.
+La puntuación de participación facilita la visualización de la eficacia del contenido en el programa de participación. La puntuación va de 0 a 100. Consulte [el Panel de compromiso](the-engagement-dashboard.md) para ver cómo puede rastrear el rendimiento del contenido.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -23,7 +23,7 @@ La puntuación se basa en un algoritmo propietario que tiene en cuenta el compor
 
 >[!NOTE]
 >
->Cuando se utilizan programas como contenido en flujos, la puntuación de participación se basa en la pertenencia a programas y el estado de éxito, **no** en la interacción por correo electrónico (clics, aperturas, cancelaciones de suscripción).
+>Cuando se utilizan programas como contenido en flujos, la puntuación de participación se basa en la pertenencia a programas y el estado de éxito, **no en** la interacción por correo electrónico (clics, aperturas, cancelaciones de suscripción).
 
 Las puntuaciones de participación son universales para todos los clientes. Puede compararlos para ver quién tiene el contenido más atractivo.
 
