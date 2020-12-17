@@ -15,7 +15,7 @@ ht-degree: 0%
 
 El complemento Sales Connect para Gmail se ejecuta a través de una extensión de explorador. Debe eliminarlo para eliminar Sales Connect en Gmail.
 
-1. En **Chrome**, haga clic en las tres líneas de la esquina superior derecha de la ventana del navegador.
+1. En **Chrome**, haga clic en las tres líneas de la esquina superior derecha de la ventana del explorador.
 1. Haga clic en **Más herramientas**.
 1. Haga clic en **Extensiones**.
 1. Haga clic en el icono de la papelera situado junto a **ToutApp para Chrome**.
