@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Preparación de la perspectiva de ventas para el soporte multilingüe en Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Prepare Sales Insight para Soporte Multi-Lingüal en Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -32,11 +32,11 @@ Marketing to Sales Insight se almacena por idioma. Por lo tanto, si desea que fu
 Cualquier otro idioma tiene el valor predeterminado de inglés.
 
 1. Añadir un nuevo idioma para la perspectiva de ventas de marketing
-1. Inicie sesión en Salesforce. En la lista desplegable debajo de su nombre en la esquina superior derecha, haga clic en **Configuración**.
+1. Inicie sesión en Salesforce. En la lista desplegable con su nombre en la esquina superior derecha, haga clic en **Configuración**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. En** Mi información personal**, haga clic en Información **personal**.
+1. En** Mi información personal**, haga clic en **Información personal**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -56,15 +56,15 @@ Cualquier otro idioma tiene el valor predeterminado de inglés.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Vaya a Marketing. Busque los detalles [de configuración **de la** API de Marketing Cloud Sales Insight](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) .
+1. Vaya a Marketing. Busque los detalles de [configuración de API de Marketing to Sales Insight ****](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Introduzca los detalles de la API en Marketing y haga clic en **Guardar**.
+1. Introduzca los detalles de API en Marketing y haga clic en **Guardar**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Cambiar Salesforce de nuevo a inglés {#change-salesforce-back-to-english}
+## Volver a cambiar Salesforce a inglés {#change-salesforce-back-to-english}
 
 Cuando haya terminado de personalizar su organización de Salesforce, aquí le explicamos cómo devolver su configuración personal al inglés.
 
@@ -76,7 +76,7 @@ Cuando haya terminado de personalizar su organización de Salesforce, aquí le e
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Haga clic en Información **** personal en **Mi información** personal.
+1. Haga clic en **Información personal** en **Mi información personal**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
