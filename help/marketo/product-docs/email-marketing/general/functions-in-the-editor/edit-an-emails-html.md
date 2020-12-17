@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Editar el HTML de un correo electrónico {#edit-an-emails-html}
+# Editar el HTML {#edit-an-emails-html} de un mensaje de correo electrónico
 
 A veces es posible que necesite modificar el HTML subyacente de un correo electrónico. A veces puede utilizar un sistema externo para diseñar y generar el código de su correo electrónico. De cualquier forma, puede importar y/o editar código fácilmente desde el editor de correo electrónico.
 
 ## Editar HTML {#edit-html}
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
    ![](assets/teamspidey.jpg)
 
@@ -33,17 +33,17 @@ A veces es posible que necesite modificar el HTML subyacente de un correo electr
    >
    >Cambia lo que quieras. Puede reemplazar todo el HTML o realizar ajustes menores.
 
-1. Haga clic en la lista desplegable Acciones **de** código para descargar el código como archivo .html, en línea con el CSS o validar el HTML.
+1. Haga clic en la lista desplegable **Acciones de código** para descargar el código como archivo .html, en línea con su CSS o validar el HTML.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >La práctica recomendada para los correos electrónicos es poner todos los estilos en línea. Varios clientes de correo electrónico no admiten CSS dentro de la `<head>` sección.
+   >La práctica recomendada para los correos electrónicos es poner todos los estilos en línea. Varios clientes de correo electrónico no admiten CSS en la sección `<head>`.
 
 ## Romper un correo electrónico de su plantilla {#breaking-an-email-from-its-template}
 
-Estos cambios en el código no **provocarán** que se interrumpa un mensaje de correo electrónico de su plantilla:
+Estos cambios en el código **no harán** romper un correo electrónico de su plantilla:
 
 * Edición del contenido de cualquier módulo (incluida la adición de nuevos elementos dentro del módulo)
 * Añadir un nuevo módulo al Contenedor
@@ -52,7 +52,7 @@ Estos cambios en el código no **provocarán** que se interrumpa un mensaje de c
 * Cambiar atributos específicos de mkto (por ejemplo, &quot;mktoName&quot; o &quot;mktoImgUrl&quot;) de cualquier elemento fuera de un módulo
 * Edición del contenido de cualquier elemento (texto enriquecido, imagen, vídeo, etc.) fuera de un módulo
 
-Estas acciones que puede realizar en el editor de código **provocarán** que se interrumpa el correo electrónico de su plantilla:
+Estas cosas que puede hacer en el editor de código **provocarán** la interrupción del correo electrónico de su plantilla:
 
 * Cambio de cualquier elemento del código fuera de un elemento o módulo
 * Añadir o cambiar atributos que no sean mkto (por ejemplo, &quot;id&quot; o &quot;estilo&quot;) de cualquier elemento fuera de un módulo
@@ -66,7 +66,7 @@ Utilice la funcionalidad Código de búsqueda para buscar y reemplazar de forma 
 
    ![](assets/five-2.png)
 
-1. Escriba lo que desee encontrar y haga clic en **Buscar siguiente** para buscar hacia adelante o en **Buscar anterior** para buscar hacia atrás. También tiene la opción de **Reemplazar** y **Reemplazar todo**.
+1. Escriba lo que desee encontrar y haga clic en **Buscar siguiente** para buscar hacia adelante o **Buscar anterior** para buscar hacia atrás. También tiene la opción de **Reemplazar** y **Reemplazar todo**.
 
    ![](assets/six-1.png)
 
@@ -76,6 +76,6 @@ Utilice la funcionalidad Código de búsqueda para buscar y reemplazar de forma 
 
    >[!NOTE]
    >
-   >El código de búsqueda también está disponible en el editor [de plantillas de](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)correo electrónico.
+   >El código de búsqueda también está disponible en el [editor de plantillas de correo electrónico](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
 
 Le recomendamos que continúe editando sus correos electrónicos utilizando la funcionalidad integrada de Marketing, pero este editor de código proporciona flexibilidad si lo necesita.
