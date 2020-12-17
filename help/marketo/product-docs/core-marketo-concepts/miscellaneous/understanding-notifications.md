@@ -43,5 +43,5 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 
 >[!TIP]
 >
->¿Desea cancelar la suscripción de los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el vínculo **Cancelar suscripción a Notificaciones** en la parte inferior del correo electrónico.
+>¿Desea cancelar la suscripción de los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el vínculo **cancelar la suscripción de Notificaciones** en la parte inferior del correo electrónico.
 
