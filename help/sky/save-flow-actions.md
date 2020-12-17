@@ -18,7 +18,7 @@ Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un gr
 
 ## Guardar acciones de flujo
 
-1. En Actividades de marketing, seleccione la campaña inteligente (o cree una nueva).
+1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente (o cree una nueva).
 
    ![Imagen uno](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
@@ -32,7 +32,7 @@ Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un gr
 
    ![Imagen Cuatro](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Cuando haya terminado de agregar filtros/activadores, haga clic en la lista desplegable Acciones **[!UICONTROL de Campaña]** inteligente y seleccione **[!UICONTROL Guardar nuevo flujo]**.
+1. Cuando termine de agregar filtros/activadores, haga clic en la lista desplegable **[!UICONTROL Acciones de Campaña inteligente]** y seleccione **[!UICONTROL Guardar nuevo flujo]**.
 
    ![Imagen cinco](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
@@ -44,7 +44,7 @@ Y ya terminaste. La próxima vez que cree una campaña inteligente, tendrá acce
 
 ## Uso de acciones de flujo guardado
 
-1. En Actividades de marketing, seleccione la campaña inteligente (o cree una nueva).
+1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente (o cree una nueva).
 
    ![Imagen siete](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
@@ -52,7 +52,7 @@ Y ya terminaste. La próxima vez que cree una campaña inteligente, tendrá acce
 
    ![Imagen ocho](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Haga clic en la lista desplegable Flujos **** guardados.
+1. Haga clic en la lista desplegable **[!UICONTROL Flujos guardados]**.
 
    ![Imagen nueve](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
