@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Activar una Campaña inteligente de activador | Ficha Programación {#activate-a-trigger-smart-campaign-schedule-tab}
+# Activar una Campaña inteligente de activador | Ficha Programar {#activate-a-trigger-smart-campaign-schedule-tab}
 
 Activar una campaña inteligente de activación es como activarla. Esto es lo que hay que hacer.
 
-1. En la ficha **Programación** de la campaña inteligente, haga clic en **Activar**.
+1. En la ficha **Programar** de la campaña inteligente, haga clic en **Activar**.
 
    ![](assets/activateprogram-hands.png)
 
@@ -23,7 +23,7 @@ Activar una campaña inteligente de activación es como activarla. Esto es lo qu
    >
    >Revise la campaña inteligente antes de activarla.
 
-1. Vuelva a hacer clic en **Activar** .
+1. Vuelva a hacer clic en **Activar**.
 
    ![](assets/activatecampaign-hand.png)
 
