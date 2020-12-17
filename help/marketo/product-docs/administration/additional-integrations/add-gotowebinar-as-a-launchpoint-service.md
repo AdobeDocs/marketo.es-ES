@@ -41,15 +41,15 @@ Marketo administra el registro y la asistencia al seminario web de GoToWebinar.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. A continuación, haga clic en **Iniciar sesión** en **GoToWebinar**.
+1. A continuación, haga clic en **Iniciar sesión** **GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Si desea sincronizar el nombre de la Compañía y el título del trabajo del formulario de marketing con GoToWebinar, seleccione el cuadro **Activar campos** adicionales.
+   >Si desea sincronizar Nombre de Compañía y Título de trabajo del formulario de marketing con GoToWebinar, seleccione el cuadro **Habilitar campos adicionales**.
 
-1. En la ventana emergente Iniciar sesión en GoToWebinar, introduzca el correo electrónico y la contraseña de **GoToWebinar** y haga clic en **Iniciar sesión**.
+1. En la ventana emergente Iniciar sesión en GoToWebinar, escriba su **GoToWebinar** dirección de correo electrónico y contraseña y haga clic en **Iniciar sesión**.
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
@@ -57,7 +57,7 @@ Marketo administra el registro y la asistencia al seminario web de GoToWebinar.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. ¡bueno! Su cuenta de **GoToWebinar** ahora está sincronizada con Marketing.
+1. ¡bueno! Su cuenta **GoToWebinar** ahora se sincroniza con Marketing.
 
    ![](assets/goto-webinar.png)
 
@@ -67,5 +67,5 @@ Marketo administra el registro y la asistencia al seminario web de GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear un evento con GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
+>Obtenga información sobre cómo [crear un evento con GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
 
