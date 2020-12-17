@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Editar la versión de texto de un correo electrónico {#edit-the-text-version-of-an-email}
+# Editar la versión de texto de un mensaje de correo electrónico {#edit-the-text-version-of-an-email}
 
 Al crear un mensaje de correo electrónico, es posible que desee que su versión de texto esté redactada de forma distinta a la versión HTML. De forma predeterminada, Marketo copia automáticamente el contenido de texto de cualquier elemento de texto enriquecido que se encuentre en el mensaje de correo electrónico a la versión de texto. Así es como editarlo.
 
 >[!NOTE]
 >
->No se trata de un artículo sobre la creación de un correo electrónico de solo texto. Para obtener más información, consulte [Creación de un correo electrónico](create-a-text-only-email.md)de solo texto.
+>No se trata de un artículo sobre la creación de un correo electrónico de solo texto. Para obtener más información, consulte [Creación de un correo electrónico de solo texto](create-a-text-only-email.md).
 
 1. En el editor de correo electrónico, haga clic en la ficha **Texto** en la parte inferior del correo electrónico.
 
