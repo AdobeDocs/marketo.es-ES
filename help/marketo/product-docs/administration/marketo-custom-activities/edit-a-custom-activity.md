@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. En Administración **de bases de datos** , haga clic en Actividades **personalizadas**.
+1. En **Administración de bases de datos** haga clic en **Actividades personalizadas**.
 
    ![](assets/two-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Haga clic en Acciones **de Actividad** personalizadas y seleccione **Editar Actividad**.
+1. Haga clic en **Acciones de Actividad personalizadas** y seleccione **Editar Actividad**.
 
    ![](assets/four-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five-1.png)
 
-1. Introduzca su nueva información y haga clic en **Enviar**.
+1. Introduzca la nueva información y haga clic en **Enviar**.
 
    ![](assets/six-1.png)
 
