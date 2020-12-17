@@ -31,8 +31,8 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 >
 >En este punto, deberá configurar una función de usuario y un usuario de API solo de API para restringir los permisos que BrightTALK tendrá en la instancia de Marketing. Porque ya tenemos artículos para esos pasos, los enlazaremos a ellos.
 
-1. Crear una función [de usuario solo](http://docs.marketo.com/x/iwMk)API.
-1. [Cree un usuario](http://docs.marketo.com/x/jwMk)de API mediante la función de API BrightTALK que creó durante el paso 4.
+1. Cree una [función de usuario solo de API](http://docs.marketo.com/x/iwMk).
+1. [Cree un usuario](http://docs.marketo.com/x/jwMk) de API mediante la función de API BrightTALK que creó durante el paso 4.
 1. Vuelva al área Administración.
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
    ![](assets/three.png)
 
-1. Introduzca un nombre para mostrar de su elección. Haga clic en la lista desplegable Servicio y seleccione **Personalizado** ( **no** seleccione BrightTALK).
+1. Introduzca un nombre para mostrar de su elección. Haga clic en la lista desplegable Servicio y seleccione **Personalizado** (haga **no** seleccione BrightTALK).
 
    ![](assets/four.png)
 
@@ -57,19 +57,19 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
    ![](assets/five.png)
 
-1. Haga clic en Detalles **de** Vista para el servicio personalizado que acaba de crear.
+1. Haga clic en **Detalles de Vista** para el servicio personalizado que acaba de crear.
 
    ![](assets/six.png)
 
-1. Copie (y guarde) el ID **de** cliente y el secreto **de cliente**. Haga clic en **Cerrar**.
+1. Copie (y guarde) el **ID del cliente** y **Secreto del cliente**. Haga clic en **Cerrar**.
 
    ![](assets/eight-1.png)
 
-1. En Integración, seleccione Servicios **Web**.
+1. En Integración, seleccione **Servicios Web**.
 
    ![](assets/nine-1.png)
 
-1. En Rest API, copie (y guarde) el **extremo** y la **identidad**.
+1. En Rest API, copie (y guarde) el **Extremo** y **Identidad**.
 
    ![](assets/ten.png)
 
@@ -77,5 +77,5 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
 1. Vuelva a la pantalla de configuración del conector BrightTALK del paso 3 e introduzca las credenciales guardadas en los pasos 12 y 14.
 
-   Una vez autenticadas las credenciales, ha conectado oficialmente BrightTALK a Marketing. El siguiente paso es determinar [qué campos de datos desea sincronizar](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   Una vez autenticadas las credenciales, ha conectado oficialmente BrightTALK a Marketing. El siguiente paso es determinar [los campos de datos que desea sincronizar](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
 
