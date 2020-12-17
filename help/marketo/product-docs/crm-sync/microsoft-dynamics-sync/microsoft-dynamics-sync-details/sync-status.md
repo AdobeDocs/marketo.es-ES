@@ -17,11 +17,11 @@ Puede mantener un registro del rendimiento actual y del trabajo pendiente del pr
 
 ## Ficha Estado de sincronización {#sync-status-tab}
 
-1. Haga clic en **Administrador** y **Microsoft Dynamics**.
+1. Haga clic en **Administración** y **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Haga clic en la ficha **Sincronizar estado** .
+1. Haga clic en la ficha **Estado de sincronización**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Puede mantener un registro del rendimiento actual y del trabajo pendiente del pr
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Haga clic en la **Vista: **menú desplegable** **y seleccione **Última hora **para obtener información sobre el rendimiento de la vista.
+1. Haga clic en la **Vista: **menú desplegable** **y seleccione **Última hora **a información de rendimiento de vista.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
