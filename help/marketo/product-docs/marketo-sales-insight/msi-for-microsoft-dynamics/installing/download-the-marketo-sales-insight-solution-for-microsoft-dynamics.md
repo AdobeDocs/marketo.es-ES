@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Deberá descargar e instalar una solución de marketing para perspectiva de ventas en su cuenta de Microsoft Dynamics para iniciar la sincronización.
 
-1. Vaya al área **Administración** .
+1. Vaya al área **Administración**.
 
    ![](assets/mainnavhand.png)
 
@@ -31,7 +31,7 @@ Deberá descargar e instalar una solución de marketing para perspectiva de vent
 
    ![](assets/image2016-5-3.png)
 
-1. Seleccione **Descargar solución** de marketing.
+1. Seleccione **Descargar solución de marketing**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
