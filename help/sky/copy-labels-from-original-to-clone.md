@@ -30,4 +30,4 @@ Cuando clona un recurso, puede copiar todas las etiquetas del recurso original. 
 
 >[!NOTE]
 >
->Este es el único lugar donde puede copiar etiquetas originales en un recurso de clonación. Una vez creado el recurso de clonación, solo podrá [copiar etiquetas del recurso](/help/sky/copy-labels-from-parent-to-child.md)principal.
+>Este es el único lugar donde puede copiar etiquetas originales en un recurso de clonación. Una vez creado el recurso de clonación, sólo podrá [copiar etiquetas del recurso principal](/help/sky/copy-labels-from-parent-to-child.md).
