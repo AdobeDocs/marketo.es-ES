@@ -23,7 +23,7 @@ Account Insight es un complemento de Chrome que presenta información sobre cuen
 
 >[!CAUTION]
 >
->El complemento de perspectiva de cuenta no funcionará en suscripciones que tengan habilitado solo [](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) SSO (inicio de sesión único).
+>El complemento de perspectiva de cuenta no funcionará en suscripciones que tengan [solo SSO](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (inicio de sesión único) habilitado.
 >
 >El contexto CRM funciona para Salesforce al iniciar el complemento desde una cuenta, un posible cliente o un contacto. El contexto de CRM no funcionará para Dynamics al iniciar el complemento desde una cuenta, un posible cliente o un contacto. Para los usuarios de Dynamics, se recomienda utilizar el complemento de perspectiva de cuenta.
 
@@ -71,7 +71,7 @@ La fuente de actividad muestra la actividad reciente, que se remonta a siete dí
 
 ![](assets/af1.png)
 
-Haga clic en la lista desplegable **Filtro** para filtrar por distintos tipos de actividades.\
+Haga clic en la lista desplegable **Filtro** para filtrar por diferentes tipos de actividades.\
 ![](assets/af2.png)
 
 Se puede hacer clic en varios elementos. Haga clic en la cuenta con nombre para ver sus detalles. Haga clic en el nombre del usuario para ver su actividad. Haga clic en Más Actividades para ver más actividades.
