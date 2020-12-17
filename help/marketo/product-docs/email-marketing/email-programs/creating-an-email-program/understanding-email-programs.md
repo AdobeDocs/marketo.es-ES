@@ -17,7 +17,7 @@ Saluda a tu nuevo amigo de Marketing, el programa de correo electrónico. Envíe
 
 ## Panel de control de Campaign {#control-panel}
 
-Cuatro cajas te mantienen concentrado. **La audiencia** define el &quot;quién&quot;, el **correo electrónico** proporciona el &quot;qué&quot;, el **programa** define &quot;cuándo&quot; y la **aprobación** lo prepara.
+Cuatro cajas te mantienen concentrado. **** Audience define el &quot;quién&quot;,  **** El correo electrónico proporciona el &quot;qué&quot;,  **** Programledefine &quot;cuándo&quot; y  **** Aprobaciones lo prepara para su uso.
 
 ![](assets/emailprogram.png)
 
@@ -44,7 +44,7 @@ Disfruta de los frutos de tu trabajo. Los paneles muestran el rendimiento de la 
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## Anidación {#nesting}
+## Anidado {#nesting}
 
 Los programas de correo electrónico funcionan bien con otros programas.
 
@@ -62,7 +62,7 @@ Use un programa de correo electrónico dentro de un programa predeterminado para
 
 >[!NOTE]
 >
->Los programas de correo electrónico no se pueden anidar en programas [de](../../../../getting-started/quick-wins/drip-drip-nurture.md)participación. Tampoco se pueden reenviar y solo se puede ejecutar una prueba a la vez.
+>Los programas de correo electrónico no se pueden anidar en [programas de participación](../../../../getting-started/quick-wins/drip-drip-nurture.md). Tampoco se pueden reenviar y solo se puede ejecutar una prueba a la vez.
 
 ## Configuración de programación {#schedule-settings}
 
