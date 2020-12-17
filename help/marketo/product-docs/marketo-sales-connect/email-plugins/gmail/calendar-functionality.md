@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Funcionalidad del calendario {#calendar-functionality}
 
-Haga clic en el botón **Calendario** para informar a sus destinatarios de cuándo está disponible. Extrae el calendario de Google y le permite agregar fechas y horas específicas que usted es gratis, y el destinatario puede responder con una hora que funcione para ellos.
+Informe a sus destinatarios cuando esté disponible pulsando el botón **Calendario**. Extrae el calendario de Google y le permite agregar fechas y horas específicas que usted es gratis, y el destinatario puede responder con una hora que funcione para ellos.
