@@ -15,7 +15,7 @@ ht-degree: 0%
 
 1. Vaya a [esta página en appexchange](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 1. Inicie sesión en la instancia de Salesforce (la que esté conectada a la instancia de Marketing, puede ser un simulador para pruebas o producción) desde la esquina superior derecha de la página desde el paso uno. Debe tener privilegios de administrador para instalar o actualizar un paquete administrado en Salesforce.
-1. Haga clic en el botón **Obtenerlo ahora** . Se le pedirá que elija dónde desea instalar. Se le dará la opción de actualizar porque ya tiene una versión anterior de MSI. Elija una opción en función de la cuenta en la que haya iniciado sesión durante el paso uno.
+1. Haga clic en el botón **Get It Now**. Se le pedirá que elija dónde desea instalar. Se le dará la opción de actualizar porque ya tiene una versión anterior de MSI. Elija una opción en función de la cuenta en la que haya iniciado sesión durante el paso uno.
 
    >[!TIP]
    >
