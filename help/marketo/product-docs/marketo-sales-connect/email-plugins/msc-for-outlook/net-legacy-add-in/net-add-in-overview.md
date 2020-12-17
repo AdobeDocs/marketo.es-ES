@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Este es nuestro antiguo complemento. Si ya lo tiene instalado, seguirá funcionando hasta 2020. Si es un usuario nuevo, instale nuestro nuevo complemento [Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Este es nuestro antiguo complemento. Si ya lo tiene instalado, seguirá funcionando hasta 2020. Si es un usuario nuevo, instale nuestro nuevo [complemento de Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Adjuntar un fragmento de contenido {#attaching-a-piece-of-content}
 
@@ -25,16 +25,16 @@ Cualquier contenido cargado anteriormente aparecerá para que lo seleccione en l
 
 ## Funcionalidad del calendario {#calendar-functionality}
 
-Haga clic en el botón **Calendario** para informar a sus destinatarios de cuándo está disponible.
+Informe a sus destinatarios cuando esté disponible pulsando el botón **Calendario**.
 
 Esto extrae el calendario de Outlook y le permite agregar fechas y horas específicas y agregar la información al correo electrónico.
 
 ## Extracción de una plantilla {#pulling-in-a-template}
 
-Para insertar una plantilla Tout predefinida en el mensaje de Outlook, pulse el botón **Plantillas** .
+Para insertar una plantilla Tout predefinida en el mensaje de Outlook, presione el botón **Templates**.
 
-Estamos `sync with all of your personal templates and any shared templates` entre el equipo. También extraemos automáticamente la última plantilla usada y la plantilla utilizada con más frecuencia para facilitar el acceso.
+Nosotros `sync with all of your personal templates and any shared templates` entre el equipo. También extraemos automáticamente la última plantilla usada y la plantilla utilizada con más frecuencia para facilitar el acceso.
 
-## El Botón Tout It {#the-tout-it-button}
+## Botón Tout It {#the-tout-it-button}
 
-Una vez que el correo electrónico personalizado se haya rellenado y esté listo para continuar, asegúrese de pulsar siempre el botón **Tout It** para realizar el seguimiento. Aparecerá un cuadro con la leyenda &quot;aguantar, estamos agregando magia de seguimiento&quot;.
+Una vez que el correo electrónico personalizado se haya rellenado y esté listo para continuar, asegúrese de pulsar siempre el botón **Tout It** para obtener el seguimiento. Aparecerá un cuadro con la leyenda &quot;aguantar, estamos agregando magia de seguimiento&quot;.
