@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Marketo puede enviar una alerta por correo electrónico con información personal a cualquier persona: el propietario de la venta, un socio u otra persona. Utilice el paso **Enviar alerta** .
+Marketo puede enviar una alerta por correo electrónico con información personal a cualquier persona: el propietario de la venta, un socio u otra persona. Utilice el paso de flujo **Enviar alerta**.
 
 ![](assets/one-1.png)
 
@@ -29,7 +29,7 @@ Marketo puede enviar una alerta por correo electrónico con información persona
    >
    >**Recordatorio**
    >
-   >La alerta por correo electrónico debe contener toda la información del encabezado y estar en el estado **Aprobado** .
+   >La alerta por correo electrónico debe contener toda la información del encabezado y estar en el estado **Aprobado**.
 
 1. Puede hacer clic en el icono de previsualización para asegurarse de que ha seleccionado el correo electrónico correcto.
 
@@ -39,7 +39,7 @@ Marketo puede enviar una alerta por correo electrónico con información persona
    >
    >**Recordatorio**
    >
-   >Asegúrese de utilizar el token **Enviar información** de alerta en su correo electrónico.
+   >Asegúrese de utilizar el distintivo **Enviar información de alerta** en su correo electrónico.
 
 1. Seleccione el destinatario de alerta. Puede elegir Propietario de ventas o Propietario de cuenta.
 
@@ -51,9 +51,9 @@ Marketo puede enviar una alerta por correo electrónico con información persona
 
    >[!TIP]
    >
-   >En las campañas desencadenadoras, puede utilizar tokens en **A otros correos electrónicos** , como `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` siempre que los valores sean direcciones de correo electrónico válidas. Los tokens de **A otros correos electrónicos** no funcionarán en una campaña por lotes.
+   >En las campañas desencadenadoras, puede utilizar tokens en **A otros correos electrónicos** como `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` siempre y cuando los valores sean direcciones de correo electrónico válidas. Los tokens de **A otros correos electrónicos** no funcionarán en una campaña por lotes.
 
-¡Eso es todo! Ahora sabe cómo usar el paso **Enviar alerta** .
+¡Eso es todo! Ahora sabe cómo utilizar el paso de flujo **Enviar alerta**.
 
 >[!MORELIKETHIS]
 >
