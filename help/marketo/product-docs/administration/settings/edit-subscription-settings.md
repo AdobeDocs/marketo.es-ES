@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si tiene acceso a varias suscripciones de marketing y desea asegurarse de cuál utiliza, pruebe a darle a cada una un nombre único. Ese nombre se muestra en la parte superior de la página de suscripción.
 
-Por ejemplo, si trabaja en las instancias de producción y de simulación de pruebas, puede asignar un nombre a la suscripción Producción **de** marketing y el otro **Simulador para pruebas** de marketing.
+Por ejemplo, si trabaja en las instancias de producción y simulación de pruebas, puede asignar un nombre a una suscripción **Producción de marketing** y el otro **Simulador para pruebas de marketing**.
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
@@ -27,7 +27,7 @@ Por ejemplo, si trabaja en las instancias de producción y de simulación de pru
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Haga clic en **Editar información** de Suscripción.
+1. Haga clic en **Editar información de Suscripción**.
 
    ![](assets/image2016-5-24-10-3a34-3a32.png)
 
