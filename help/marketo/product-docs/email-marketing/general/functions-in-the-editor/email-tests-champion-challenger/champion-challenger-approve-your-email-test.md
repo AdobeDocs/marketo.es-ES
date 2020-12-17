@@ -23,11 +23,11 @@ El último paso para configurar la prueba de correo electrónico para aprobarla.
 
 
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Busque y haga clic con el botón secundario en la prueba **de** correo electrónico y, a continuación, haga clic en **Aprobar prueba**.
+1. Busque y haga clic con el botón secundario en la **prueba de correo electrónico**, luego haga clic en **Aprobar prueba**.
 
    ![](assets/champion3.jpg)
 
@@ -36,11 +36,11 @@ El último paso para configurar la prueba de correo electrónico para aprobarla.
    >**Recordatorio**
    >
    >
-   >Al aprobar una prueba de correo electrónico **completo*******, apruebe primero el correo electrónico del aspirante.
+   >Al aprobar una **prueba de correo electrónico completo******, apruebe primero el correo electrónico del aspirante.
 
    >[!NOTE]
    >
-   >Para enviar la prueba, seleccione el correo electrónico al que agregó la prueba en el paso **Enviar flujo de correo electrónico** de la campaña desencadenadora. También tiene la opción de insertar ese correo electrónico en un flujo de un programa de participación. Los correos de Champion/Challenger no funcionarán en campañas por lotes.
+   >Para enviar la prueba, elija el correo electrónico al que agregó la prueba en el paso de flujo **Enviar correo electrónico** de la campaña desencadenadora. También tiene la opción de insertar ese correo electrónico en un flujo de un programa de participación. Los correos de Champion/Challenger no funcionarán en campañas por lotes.
 
    ¿No fue tan fácil? Una vez que reciba unos cuantos informes, querrá declarar un campeón.
 
