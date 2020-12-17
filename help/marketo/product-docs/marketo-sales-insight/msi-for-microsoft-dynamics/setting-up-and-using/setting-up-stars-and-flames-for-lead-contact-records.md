@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Las estrellas y las llamas de los registros de contacto/posible cliente dependen de: Campos Puntuación de posible cliente, Puntuación relativa, Urgencia y Prioridad. Estos campos están disponibles de forma predeterminada después de instalar y configurar la solución MSI. Si no tiene Estrellas y llamas, una configuración/personalización previa podría haber provocado que se eliminaran. Siga los pasos a continuación para agregarlos.
 
-1. En Microsoft Dynamics, haga clic en la lista desplegable Ventas y seleccione **Configuración**. Haga clic en **Personalizaciones** y, a continuación, en **Personalizar el sistema**.
+1. En Microsoft Dynamics, haga clic en la lista desplegable Ventas y seleccione **Configuración**. Haga clic en **Personalizaciones** y luego **Personalizar el sistema**.
 1. En el panel izquierdo, haga clic en **Entidades**.
-1. Busque y haga clic en **Lead**, luego en **Forms** y, a continuación, seleccione el formulario que desee editar.
+1. Busque y haga clic en **Posible cliente**, luego **Forms**, luego seleccione el formulario que desee editar.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Haga clic en **Marketo Sales Insight** en el panel izquierdo. En el panel de la derecha, haga clic en la lista desplegable Filtro y seleccione Campos **personalizados**.
+1. Haga clic en **Perspectiva de ventas de marketing** en el panel izquierdo. En el panel de la derecha, haga clic en la lista desplegable Filtro y seleccione **Campos personalizados**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
