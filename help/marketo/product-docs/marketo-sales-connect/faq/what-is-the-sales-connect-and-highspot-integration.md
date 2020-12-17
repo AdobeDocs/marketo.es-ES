@@ -29,11 +29,11 @@ Además de trabajar en Sales Connect en un navegador, la integración de Highspo
 >
 >La extensión Sales Connect Gmail no admite actualmente la integración de Highspot
 
-## Activación de la integración de conexión de ventas y puntos destacados {#enabling-the-sales-connect-and-highspot-integration}
+## Habilitación de la integración de conexión de ventas y puntos altos {#enabling-the-sales-connect-and-highspot-integration}
 
-Si está interesado en habilitar la integración de Highspot para su equipo, póngase en contacto con la asistencia técnica [de marketing](http://support.marketo.com).
+Si le interesa habilitar la integración de puntos altos para su equipo, póngase en contacto con [Soporte técnico de mercadotecnia](http://support.marketo.com).
 
-## Cómo utilizar la integración {#how-to-use-the-integration}
+## Cómo usar la integración {#how-to-use-the-integration}
 
 Una vez activado, se explica cómo acceder al contenido de Highspot en Sales Connect.
 
