@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desinstalación del complemento de Marketing to Outlook por TI {#marketo-outlook-plugin-uninstall-by-it}
+# Desinstalación del complemento de Marketingto Outlook por parte de TI {#marketo-outlook-plugin-uninstall-by-it}
 
 Así es como TI puede desinstalar el complemento de Marketing to Outlook de forma remota.
 
@@ -41,4 +41,4 @@ Para especificar una ubicación de los archivos de registro, puede especificar l
 >
 >Al desinstalar el complemento de forma remota, se cerrará Outlook de forma forzada en el equipo del usuario.
 
-Consulte la lista completa de switches [de](https://support.microsoft.com/en-us/kb/227091) Microsoft si desea probar diferentes niveles de registro o niveles de interfaz de usuario.
+Consulte la [lista completa de switches](https://support.microsoft.com/en-us/kb/227091) de Microsoft si desea probar diferentes niveles de registro o niveles de interfaz de usuario.
