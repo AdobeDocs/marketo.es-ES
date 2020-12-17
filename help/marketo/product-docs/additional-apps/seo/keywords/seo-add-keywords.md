@@ -17,9 +17,9 @@ Las palabras clave son frases que las personas escriben en los motores de búsqu
 
 >[!NOTE]
 >
->Si tiene muchas palabras clave, puede [importarlas con un archivo](seo-importing-keywords-with-a-csv.md)CSV.
+>Si tiene muchas palabras clave, puede [importarlas con un archivo CSV](seo-importing-keywords-with-a-csv.md).
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
