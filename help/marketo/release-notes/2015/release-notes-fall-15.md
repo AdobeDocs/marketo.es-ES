@@ -46,7 +46,7 @@ Cree fácilmente objetos personalizados desde la interfaz de usuario del adminis
 
 [Perspectivas de marketing para Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Nos complace anunciar el lanzamiento de una actualización a nuestra extensión de perspectiva de ventas de Google Mail. Vista en la Tienda [](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)Chrome.
+Nos complace anunciar el lanzamiento de una actualización a nuestra extensión de perspectiva de ventas de Google Mail. Vista en la [Tienda Chrome](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Esta actualización incluye muchas funciones nuevas:
 
@@ -56,7 +56,7 @@ Esta actualización incluye muchas funciones nuevas:
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Compromiso con dispositivos móviles de marketing: tokens, enviar muestra y Previsualización {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Compromiso con dispositivos móviles de Marketing: tokens, enviar muestra y Previsualización {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Enviar muestra](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
@@ -87,7 +87,7 @@ Las estadísticas de los correos electrónicos enviados a través de Campañas i
 
 ## RTP: Content Analytics y Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content Analytics](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) y Recommendations
+[Content ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) Analytics y Recommendations
 
 RTP Content Analytics muestra el rendimiento de los recursos de contenido web a partir de visitas web regulares y también las visitas generadas a partir del motor de recomendación de contenido de RTP.
 
@@ -97,12 +97,12 @@ RTP Content Analytics muestra el rendimiento de los recursos de contenido web a 
 
 La página Recursos de RTP ahora se divide en Content Analytics y Content Recommendations.
 
-* **Análisis de contenido:** Muestra las vistas y los posibles clientes directos de todo el contenido web descubierto y definido, lo que le ayuda a analizar el contenido con mejor rendimiento
-* **Recommendations** de contenido: Muestra impresiones y clics del contenido recomendado de RTP y la atribución de posible cliente asociada. También puede editar y activar las recomendaciones de contenido desde esta página para la [barra](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) y las recomendaciones de medios [](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) enriquecidos.
+* **Análisis de contenido:** muestra las vistas y los posibles clientes directos de todo el contenido web descubierto y definido, lo que le ayuda a analizar el mejor rendimiento del contenido
+* **Recommendations** de contenido: Muestra impresiones y clics del contenido recomendado de RTP y la atribución de posible cliente asociada. También puede editar y habilitar las recomendaciones de contenido de esta página para las recomendaciones [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) y [medios enriquecidos](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine).
 
 * Todos los datos de posibles clientes directos de estas dos páginas se han actualizado retrospectivamente desde el inicio del año (1 de enero de 2015).
 
-## RTP: Clonar una Campaña RTP {#rtp-clone-an-rtp-campaign}
+## RTP - Clonar una Campaña RTP {#rtp-clone-an-rtp-campaign}
 
 [RTP: Clonar una Campaña RTP](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
@@ -167,7 +167,7 @@ Esta nueva herramienta de administración ejecuta una serie de comprobaciones pa
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## Añadir campos a la sincronización de objetos personalizados de CRM {#add-fields-to-crm-custom-object-sync}
+## Añadir campos a CRM Custom Object Sync {#add-fields-to-crm-custom-object-sync}
 
 Agregue fácilmente campos nuevos a objetos personalizados sincronizados desde Salesforce y Dynamics. Ahora puede agregar campos nuevos a la sincronización de objetos personalizada sin deshabilitar y habilitar todo el objeto personalizado.
 
