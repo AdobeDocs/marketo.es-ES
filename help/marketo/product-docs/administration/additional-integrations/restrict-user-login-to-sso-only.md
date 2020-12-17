@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Restringir el inicio de sesión de usuario sólo a SSO {#restrict-user-login-to-sso-only}
+# Restringir el inicio de sesión de usuario a SSO solamente {#restrict-user-login-to-sso-only}
 
-Si está [utilizando SSO](add-single-sign-on-to-a-portal.md) y desea asegurarse de que los usuarios no pueden eludir la seguridad SSO, siga estas instrucciones.
+Si está [usando SSO](add-single-sign-on-to-a-portal.md) y desea asegurarse de que los usuarios no pueden evitar la seguridad SSO, siga estas instrucciones.
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Si está [utilizando SSO](add-single-sign-on-to-a-portal.md) y desea asegurarse 
 
 >[!TIP]
 >
->Si selecciona **Requerir SSO**, puede excluir una función [de](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) usuario de esta restricción marcando la opción **Omitir el inicio de sesión** único al configurar la función. Esto permitirá a los usuarios iniciar sesión con normalidad. Por ejemplo, es posible que los usuarios administradores necesiten iniciar sesión en Marketing a través de la pantalla de inicio de sesión.
+>Si selecciona **Requerir SSO**, puede excluir una [función de usuario](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) de esta restricción marcando la opción **Omitir el inicio de sesión único** al configurar la función. Esto permitirá a los usuarios iniciar sesión con normalidad. Por ejemplo, es posible que los usuarios administradores necesiten iniciar sesión en Marketing a través de la pantalla de inicio de sesión.
 
 >[!CAUTION]
 >
->Cuando se invita a nuevos usuarios, reciben correos electrónicos de invitación. Sin embargo, si se selecciona **Requerir SSO** , no recibirán estos correos electrónicos, a menos que se les asigne una función que esté configurada para **Omitir el inicio de sesión**&#x200B;único.
+>Cuando se invita a nuevos usuarios, reciben correos electrónicos de invitación. Sin embargo, si **Requerir SSO** está seleccionado, no recibirán estos mensajes de correo electrónico, a menos que estén asignados a una función que esté configurada como **Omitir el inicio de sesión único**.
 
 ¡Eso es todo! Ahora todos los usuarios (excepto los usuarios con permiso para omitir el inicio de sesión único) estarán restringidos a usar solo el inicio de sesión SSO.
