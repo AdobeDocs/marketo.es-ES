@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de mejora de ABM del 17 de abril. Compruebe la disponibilidad de las funciones en la edición de marketing.
 
-## Sincronización de los campos estándar asignados a CRM {#synching-of-crm-mapped-standard-fields}
+## Sincronización de campos estándar asignados por CRM {#synching-of-crm-mapped-standard-fields}
 
 El ABM de marketing está cambiando el comportamiento relacionado con CRM. A partir de ahora, Marketo ABM establece y mantiene una relación de 1 a 1 entre las cuentas ABM y las cuentas en la CRM. Esto permite a Marketing mantener los campos de cuenta asignados sincronizados con CRM.
 
