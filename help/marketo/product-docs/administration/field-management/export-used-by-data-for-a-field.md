@@ -23,7 +23,7 @@ Como administrador, puede exportar recursos relacionados de un campo para poder 
 
    ![](assets/one.png)
 
-1. Haga clic en Administración **de campos**.
+1. Haga clic en **Administración de campos**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ Como administrador, puede exportar recursos relacionados de un campo para poder 
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable Acciones **de** campo y seleccione **Exportar usadas por**.
+1. Haga clic en la lista desplegable **Acciones de campo** y seleccione **Exportar usadas por**.
 
    ![](assets/four.png)
 
