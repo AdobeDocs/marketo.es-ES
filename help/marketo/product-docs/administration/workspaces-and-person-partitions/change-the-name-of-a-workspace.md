@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cambio del nombre de un espacio de trabajo {#change-the-name-of-a-workspace}
+# Cambiar el nombre de un espacio de trabajo {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Los usuarios pueden cambiar el nombre de un espacio de trabajo. Es bastante simp
 >
 >**Buceo profundo**
 >
->Comprender primero [las particiones](understanding-workspaces-and-person-partitions.md)personales y los espacios de trabajo.
+>Comprender primero con [Explicación de los espacios de trabajo y las particiones personales](understanding-workspaces-and-person-partitions.md).
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones.**
 
@@ -37,7 +37,7 @@ Los usuarios pueden cambiar el nombre de un espacio de trabajo. Es bastante simp
 
    ![](assets/two-4.png)
 
-1. Introduzca un nuevo **nombre** para el espacio de trabajo y haga clic en **Guardar.**
+1. Escriba un nuevo **nombre** para el espacio de trabajo y haga clic en **Guardar.**
 
    ![](assets/three-4.png)
 
