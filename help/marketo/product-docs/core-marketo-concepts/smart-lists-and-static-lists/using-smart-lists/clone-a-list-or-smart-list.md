@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Clonar una Lista o una Lista inteligente {#clone-a-list-or-smart-list}
+# Clonar una Lista o Lista inteligente {#clone-a-list-or-smart-list}
 
 En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una similar y realizando cambios. Así es como.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una s
 
    ![](assets/smartlist-find.png)
 
-1. En Acciones **de** Lista, haga clic en **Clonar Lista** inteligente.
+1. En **Acciones de Lista**, haga clic en **Clonar Lista inteligente**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Introduzca un **Nombre** y haga clic en **Clonar**.
+1. Escriba un **Nombre** y haga clic en **Clonar**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
