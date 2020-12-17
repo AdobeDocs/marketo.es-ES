@@ -37,5 +37,5 @@ Si alguna vez necesita eliminar un flujo del programa de participación, siga es
 
    >[!NOTE]
    >
-   >Si el flujo tiene gente dentro, se te pedirá que los [muevas](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) primero.
+   >Si el flujo tiene personas en él, se le pedirá que [las mueva](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) primero.
 
