@@ -23,7 +23,7 @@ Existe una función en Marketing para limitar el ***máximo ***número de person
 >
 >Esto se aplica solamente a campañas por lotes y programas de correo electrónico.
 
-1. Haga clic en **Administración ** y, a continuación, en Campaña **** inteligente.
+1. Haga clic en **Administración **y luego en **Campaña inteligente**.
 
    ![](assets/image2014-9-18-15-3a58-3a29.png)
 
@@ -48,7 +48,7 @@ Existe una función en Marketing para limitar el ***máximo ***número de person
    >[!CAUTION]
    >
    >
-   >Este límite se aplica a todas las campañas inteligentes, pero se puede anular a nivel de campaña. Aprenda a [anular las restricciones de persona en una campaña](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)inteligente.
+   >Este límite se aplica a todas las campañas inteligentes, pero se puede anular a nivel de campaña. Obtenga información sobre cómo [anular las restricciones de persona en una campaña inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 ¡Bingo! Acaba de encender el interruptor de seguridad. Buena idea, ¿verdad?
 
