@@ -23,7 +23,7 @@ Probar correos electrónicos completos entre sí. Cuando la prueba haya terminad
 
 
 
-1. En el editor de pruebas de correo electrónico, seleccione **Correos electrónicos** completos en la lista desplegable **Tipo de prueba **Lista desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Mensajes de correo electrónico completos** en la lista desplegable **Tipo de prueba **desplegable.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -31,7 +31,7 @@ Probar correos electrónicos completos entre sí. Cuando la prueba haya terminad
    >
    >Recuerde: El correo electrónico original es el campeón. Los aspirantes compiten contra él.
 
-1. Busque y seleccione los correos electrónicos de **Challenger** , luego haga clic en **Clonar**.
+1. Busque y seleccione los **correos electrónicos** de Desafíos y haga clic en **Clonar**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -50,7 +50,7 @@ Probar correos electrónicos completos entre sí. Cuando la prueba haya terminad
    >
    >En la distribución mostrada arriba, el 15% de la audiencia total especificada en la lista inteligente obtiene uno de los correos electrónicos del aspirante y el 85% recibe el correo electrónico del campeón. Los correos electrónicos de varios aspirantes comparten el 15 % por igual. Una vez finalizada la prueba, puede declarar un ganador manualmente. A partir de entonces, todas las personas futuras recibirán el contenido con mejor rendimiento.
 
-   [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval)estadística.
+   [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval) estadística.
 
 1. Haga clic en **Siguiente**.
 
