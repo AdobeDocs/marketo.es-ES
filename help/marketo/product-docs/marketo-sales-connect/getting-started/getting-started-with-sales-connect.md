@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Introducción a Sales Connect {#getting-started-with-sales-connect}
 
-Si desea ver estos pasos en lugar de leerlos, vaya directamente a las Instrucciones de [vídeo que se muestran a continuación](#video).
+Si prefiere ver estos pasos en lugar de leerlos, vaya directamente a las [Instrucciones de video a continuación](#video).
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Si desea ver estos pasos en lugar de leerlos, vaya directamente a las Instruccio
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
-## Qué necesita para empezar {#what-you-need-to-get-started}
+## Qué debe comenzar {#what-you-need-to-get-started}
 
 * Suscripción de marketing
 * Suscripción de conexión de ventas
 * Suscripción de Salesforce (con llamadas de API y Clases de Apex activadas)
 
-## A quién debe empezar {#who-you-need-to-get-started}
+## ¿Quién necesita comenzar {#who-you-need-to-get-started}?
 
 * Usuario administrador de marketing
 * Administrador de Sales Connect
@@ -51,13 +51,13 @@ Opcionalmente, también puede:
 
 ## Conectar la cuenta de Sales Connect con Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Para conectar su cuenta de Sales Connect a su cuenta de Salesforce, como administrador o como no administrador, siga los pasos de [este artículo](http://docs.marketo.com/x/JwDb).
+Para conectar su cuenta de Sales Connect a su cuenta de Salesforce, como administrador o como no administrador, siga los pasos descritos en [este artículo](http://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
 >La instancia de Salesforce a la que se conecta debe ser la misma instancia que está (o estará) conectada a Marketing.
 
-## Adquisición de credenciales antes de conectar la conexión de ventas con Marketing {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Adquirir credenciales antes de conectar Sales Connect con Marketing {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 Tendrá que obtener un conjunto de credenciales desde Marketing. Estas credenciales serán utilizadas posteriormente por el administrador de Sales Connect para conectar Marketing con Sales Connect.
 
@@ -65,7 +65,7 @@ Tendrá que obtener un conjunto de credenciales desde Marketing. Estas credencia
 
    ![](assets/one.png)
 
-1. En el árbol, haga clic en Conexión **de ventas**.
+1. En el árbol, haga clic en **Conexión de ventas**.
 
    ![](assets/two.png)
 
@@ -77,23 +77,23 @@ Tendrá que obtener un conjunto de credenciales desde Marketing. Estas credencia
    >
    >Cuando copie y pegue la información anterior, asegúrese de que no se agreguen espacios.
 
-## Conectar ventas a Marketing {#connect-sales-connect-to-marketo}
+## Conectar ventas con marketing {#connect-sales-connect-to-marketo}
 
 1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/four.png)
 
-1. En Configuración de administración, seleccione **Marcado**.
+1. En Ajustes de administración, seleccione **Comercializar**.
 
    ![](assets/eight.png)
 
-1. Introduzca las credenciales de marketing proporcionadas por el administrador de marketing y haga clic en **Connect**.
+1. Introduzca las credenciales de marketing proporcionadas por el administrador de marketing y haga clic en **Conectar**.
 
    ![](assets/credentials.png)
 
-## Invitar o aprovisionar usuarios {#invite-provision-users}
+## Invitar/Aprovisionar usuarios {#invite-provision-users}
 
-Si ya hay algún usuario en su cuenta (anteriormente de ToutApp), se mostrará en la ficha Acceso **al** equipo de la sección Comercialización de Sales Connect.
+Si algún usuario ya existe en su cuenta (anteriormente desde ToutApp), aparecerá en la ficha **Acceso al equipo** de la sección Comercialización de Sales Connect.
 
 Desde esta página puede aprovisionar su equipo como usuario de conexión de marketing para ventas. Si nunca ha utilizado ToutApp o aún no ha invitado a usuarios, siga los pasos de [este artículo](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
@@ -101,7 +101,7 @@ Desde esta página puede aprovisionar su equipo como usuario de conexión de mar
 >
 >Espere diez minutos después de conectar Sales Connect con Marketing para realizar estos pasos.
 
-1. Seleccione uno o varios usuarios y haga clic en **Connect**.
+1. Seleccione uno o varios usuarios y haga clic en **Conectar**.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ Desde esta página puede aprovisionar su equipo como usuario de conexión de mar
 
    >[!NOTE]
    >
-   >Si desea agregar usuarios nuevos, vaya a la sección Administración de equipos de Configuración de administración y haga clic en el botón **Invitar usuarios** .
+   >Si desea agregar usuarios nuevos, vaya a la sección Administración de equipos de Configuración de administración y haga clic en el botón **Invitar a usuarios**.
 
 Puede agregar usuarios desde la página Administración de equipos y seguir los pasos anteriores para conectarlos.
 
