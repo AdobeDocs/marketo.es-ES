@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Crear un correo electrónico de seguimiento {#create-a-follow-up-email}
 
-Con la función [Campañas](http://docs.marketo.com/display/TEST/Campaigns) de Sales Connect, la creación de un correo electrónico de seguimiento es sencilla.
+Con la función [Campañas](http://docs.marketo.com/display/TEST/Campaigns) de Sales Connect, crear un correo electrónico de seguimiento es sencillo.
 
-En la ficha **Configurar** de la campaña, marque la casilla de verificación para crear un correo electrónico como seguimiento, lo que vinculará automáticamente el correo electrónico anterior al siguiente de la campaña.
+En la ficha **Configurar** de su campaña, marque la casilla de verificación para crear un correo electrónico como seguimiento, lo que automáticamente vinculará el correo electrónico anterior al siguiente correo electrónico de la campaña.
 
