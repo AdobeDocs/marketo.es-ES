@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ubicación incorrecta del Destinatario {#incorrect-recipient-location}
+# Ubicación de Destinatario incorrecta {#incorrect-recipient-location}
 
 Si nos equivocamos en la ubicación de sus destinatarios, aquí hay tres posibilidades para lo que pudo haber pasado:
 
@@ -19,4 +19,4 @@ Si nos equivocamos en la ubicación de sus destinatarios, aquí hay tres posibil
 
 -Si alguien en el campo CC o CCO ha reenviado o abierto su correo electrónico, intentamos mostrar con precisión la ubicación de esas personas.
 
-En general, determinaremos las ubicaciones con la mayor precisión posible en función del seguimiento de IP, pero lamentablemente `isn't an exact science`.
+En general, determinaremos las ubicaciones con la mayor precisión posible según el seguimiento de IP, pero lamentablemente `isn't an exact science`.
