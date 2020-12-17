@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportación de una Lista de usuarios y funciones {#export-a-list-of-users-and-roles}
+# Exportar una Lista de usuarios y funciones {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Es bastante fácil exportar una lista completa de sus usuarios y funciones de us
 
    >[!TIP]
    >
-   >Para exportar funciones, vaya primero a la ficha **Funciones****** y, a continuación, exporte.
+   >Para exportar funciones, vaya a la ficha **Roles***** **primero y luego a exportar.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
