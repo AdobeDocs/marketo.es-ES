@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desactivar notificaciones por correo electrónico para el propietario del posible cliente {#turn-off-email-notifications-to-lead-owner}
+# Desactivar las notificaciones por correo electrónico para el propietario de posibles clientes {#turn-off-email-notifications-to-lead-owner}
 
 Puede desactivar las notificaciones de correo electrónico automáticas que se envían a los propietarios de posibles clientes en Salesforce tras la asignación de posibles clientes. Así es como.
 
@@ -23,11 +23,11 @@ Puede desactivar las notificaciones de correo electrónico automáticas que se e
 
    ![](assets/adminsalesforce.png)
 
-1. En Opciones **de** sincronización, haga clic en **Editar**.
+1. En **Opciones de sincronización**, haga clic en **Editar**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Desmarque la casilla **Enviar notificación por correo electrónico al propietario en Salesforce al asignar** posibles clientes. Haga clic en **Guardar**.
+1. Desmarque la casilla **Enviar notificación por correo electrónico al propietario en Salesforce al asignar posible cliente**. Haga clic en **Guardar**.
 
    ![](assets/new-screen.png)
 
