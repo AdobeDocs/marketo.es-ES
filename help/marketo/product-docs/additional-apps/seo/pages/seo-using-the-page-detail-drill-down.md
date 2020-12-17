@@ -44,9 +44,9 @@ Puede ver mucha información sobre las páginas mediante el desglose detallado d
 | Cantidad de &quot;Me gusta&quot; de Facebook | Número de veces que se ha dado &quot;Me gusta&quot; a este recurso compartido de página en Facebook. |
 | Clics en Facebook | Número de clics del recurso compartido de Facebook. |
 
-## Palabras clave para las que está optimizada la página  {#keyword-s-that-page-is-optimized-for}
+## Palabras clave para las que la página está optimizada {#keyword-s-that-page-is-optimized-for}
 
-Aquí es donde [selecciona la palabra clave para la que intenta optimizar la página](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Aquí es donde [selecciona la palabra clave que intenta optimizar la página para](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
