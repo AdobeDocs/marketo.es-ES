@@ -42,9 +42,9 @@ Por ejemplo, supongamos que Keith utiliza el vínculo &quot;Avanzar a amigo&quot
 
    >[!CAUTION]
    >
-   >No se recomienda utilizar la **posición de estilo:relativo** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización del cuadro &quot;Avanzar a amigo&quot;.
+   >No se recomienda utilizar el estilo **posición:relativa** en la plantilla de correo electrónico. Puede crear problemas con la posición y la visualización del cuadro &quot;Avanzar a amigo&quot;.
 
-1. Haga clic en Borrador **de** Previsualización para asegurarse de que la plantilla tiene el aspecto deseado.
+1. Haga clic en **Borrador de Previsualización** para asegurarse de que la plantilla tiene el aspecto deseado.
 
    ![](assets/four-5.png)
 
@@ -65,11 +65,11 @@ También puede agregar el vínculo &#39;Avanzar a amigo&#39; directamente a un c
 
    ![](assets/five-4.png)
 
-1. Coloque el cursor donde desee que aparezca el vínculo y haga clic en el botón **Insertar token** .
+1. Coloque el cursor donde desee que aparezca el vínculo y haga clic en el botón **Insertar token**.
 
    ![](assets/six-2.png)
 
-1. Seleccione el **`{{system.forwardToFriendLink}}`** token.
+1. Seleccione el token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -81,11 +81,11 @@ También puede agregar el vínculo &#39;Avanzar a amigo&#39; directamente a un c
 
    ![](assets/seven-1.png)
 
-1. Corte el **`{{system.forwardToFriendLink}}`** token mediante Ctrl+X (Windows) o Cmd+X (Mac). Resalte &quot;Avanzar a un amigo&quot; y haga clic en el botón **Insertar/Editar vínculo** .
+1. Corte el token **`{{system.forwardToFriendLink}}`** mediante Ctrl+X (Windows) o Cmd+X (Mac). Resalte &quot;Avanzar a un amigo&quot; y haga clic en el botón **Insertar/Editar vínculo**.
 
    ![](assets/eight-1.png)
 
-1. Pegue el **`{{system.forwardToFriendLink}}`** token en el cuadro **URL** mediante Ctrl/Cmd+V y, a continuación, haga clic en** Insertar*.
+1. Pegue el token **`{{system.forwardToFriendLink}}`** en el cuadro **URL** mediante Ctrl/Cmd+V y haga clic en** Insertar*.
 
    ![](assets/nine.png)
 
@@ -101,7 +101,7 @@ También puede agregar el vínculo &#39;Avanzar a amigo&#39; directamente a un c
 
 Puede ver quién reenvió y recibió los correos electrónicos en el registro de Actividades de la persona.
 
-1. Vaya al **`Database`**.
+1. Vaya a **`Database`**.
 
    ![](assets/db.png)
 
@@ -109,7 +109,7 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    ![](assets/fourteen.png)
 
-1. Vaya a la ficha Registro **de** Actividades. Haga clic con el botón doble **Recibir correo electrónico** de envío a amigo o **Enviar a amigo correo electrónico** para ver los detalles.
+1. Vaya a la ficha **Registro de Actividad**. Haga clic con el botón doble **Recibió el correo electrónico de reenvío a amigo** o **Enviado a amigo por correo electrónico** para ver los detalles.
 
    ![](assets/fifteen.png)
 
@@ -131,16 +131,16 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    >[!NOTE]
    >
-   >Haremos que el ID **de** persona haga clic y se vincule directamente a la persona en un parche próximo.
+   >Haremos que **ID de persona** se pueda hacer clic y se vincule directamente a la persona en un parche próximo.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Si el amigo que recibe el envío es una persona desconocida, se crea una nueva persona con &quot;Avanzar a amigo&quot; marcado como **fuente** de la persona.\
-   >Si el correo electrónico es un recurso local de un programa, el programa se marca como el Programa **de** adquisición de la persona.
+   >Si el amigo que recibe el envío es una persona desconocida, se crea una nueva persona con &quot;Avanzar a amigo&quot; marcado como **Origen** de la persona.\
+   >Si el correo electrónico es un recurso local de un programa, el programa se marca como el **Programa de adquisición** de la persona.
 
-## Activar o filtrar con la Actividad Reenviar {#trigger-or-filter-using-forwarding-activity}
+## Activar o filtrar mediante la Actividad de reenvío {#trigger-or-filter-using-forwarding-activity}
 
 Existen seis activadores/filtros que puede utilizar para activar acciones de flujo o para filtrar personas mediante la actividad &quot;De reenvío a amigo&quot; enviada y recibida.
 
@@ -150,4 +150,4 @@ En una lista inteligente de una campaña inteligente, si busca &quot;adelante&qu
 
 ## Probar hacia delante a amigo {#test-forward-to-friend}
 
-Para probar &quot;Avanzar a amigo&quot;, envíese un correo electrónico con el vínculo de reenvío. Asegúrese de enviarlo a través del paso **Enviar correo electrónico** , *no* a través de **Enviar correo electrónico** de prueba.
+Para probar &quot;Avanzar a amigo&quot;, envíese un correo electrónico con el vínculo de reenvío. Asegúrese de enviarlo a través del paso de flujo **Enviar correo electrónico**, *no* a través de **Enviar correo electrónico de prueba**.
