@@ -11,20 +11,20 @@ ht-degree: 0%
 ---
 
 
-# Elegir un correo electrónico existente {#choose-an-existing-email}
+# Elija un correo electrónico existente {#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [Crear un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir una Audiencia con una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente o [definir una Audiencia mediante la importación de una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una Audiencia con un ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listador inteligente  [Definir una Audiencia importando una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >
 
 
 
-Una vez que haya [creado un programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de correo electrónico y definido su audiencia, querrá decidir qué correo electrónico va a enviar. Puede [crear un correo electrónico para un programa](create-an-email-for-an-email-program.md) de correo electrónico desde cero o seleccionar uno que ya exista. Así es como elegir uno que ya existe.
+Una vez que haya [creado un programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) y haya definido su audiencia, querrá decidir qué correo electrónico va a enviar. Puede [crear un correo electrónico para un programa de correo electrónico](create-an-email-for-an-email-program.md) desde cero o elegir uno que ya exista. Así es como elegir uno que ya existe.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Una vez que haya [creado un programa](../../../../product-docs/email-marketing/e
 
    ![](assets/selectemailprogram.jpg)
 
-1. En el mosaico **Correo electrónico** , seleccione el que desee enviar.
+1. En el mosaico **Correo electrónico**, seleccione el que desee enviar.
 
    ` ![](assets/image2014-9-12-11-3a28-3a10.png)
 
