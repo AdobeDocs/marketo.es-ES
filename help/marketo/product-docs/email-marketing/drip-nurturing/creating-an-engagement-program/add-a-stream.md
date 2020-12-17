@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Los programas de participación pueden contener más de un flujo. Así es como agregar uno nuevo.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el programa de participación y haga clic en la ficha **Flujos** .
+1. Seleccione el programa de participación y haga clic en la ficha **Flujos**.
 
    ![](assets/streamstablifecycle.jpg)
 
