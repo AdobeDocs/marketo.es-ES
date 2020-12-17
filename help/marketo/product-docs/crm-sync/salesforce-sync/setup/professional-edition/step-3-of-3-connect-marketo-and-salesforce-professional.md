@@ -24,21 +24,21 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
 
 
 
-## Recuperar token de seguridad de usuario de sincronización {#retrieve-sync-user-security-token}
+## Recuperar el autentificador de seguridad del usuario de sincronización {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
 >Si ya tiene el distintivo de seguridad, vaya directamente a Definir credenciales de usuario de sincronización y felicitaciones para la preparación.
 
-1. Inicie sesión en Salesforce con el usuario de sincronización de marketing, haga clic en el nombre del usuario de sincronización y, a continuación, en **Mi configuración**.
+1. Inicie sesión en Salesforce con el usuario de sincronización de marketing, haga clic en el nombre del usuario de sincronización y, a continuación, haga clic en **Mi configuración**.
 
    ![](assets/image2015-5-21-14-3a11-3a17.png)
 
-1. En la barra de búsqueda de Nav, escriba &quot;reset&quot; y haga clic en **Restablecer mi token** de seguridad.
+1. En la barra de búsqueda de Nav, escriba &quot;reset&quot; y haga clic en **Reset My Security Token**.
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
-1. Haga clic en **Restablecer token** de seguridad.
+1. Haga clic en **Restablecer token de seguridad**.
 
    ![](assets/image2015-5-21-14-3a13-3a5.png)
 
@@ -46,7 +46,7 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
 
 ## Definir credenciales de usuario de sincronización {#set-sync-user-credentials}
 
-1. En Marketing, vaya a **Administrador**, seleccione **CRM** y haga clic en **Sincronizar con [Salesforce.com](http://Salesforce.com)**
+1. En Marketing, vaya a **Administración**, seleccione **CRM** y haga clic en **Sincronizar con [Salesforce.com](http://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
@@ -55,9 +55,9 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
    >**Recordatorio**
    >
    >
-   >Asegúrese de [ocultar todos los campos que no necesite](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) en Marketing desde el usuario de sincronización antes de hacer clic en **Sincronizar campos**. Una vez que haga clic en Sincronizar campos, todos los campos que pueda ver el usuario se crearán en el Editor de forma permanente y no se podrán eliminar.
+   >Asegúrese de [ocultar todos los campos que no necesita](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) en Marketing del usuario de sincronización antes de hacer clic en **Campos de sincronización**. Una vez que haga clic en Sincronizar campos, todos los campos que pueda ver el usuario se crearán en el Editor de forma permanente y no se podrán eliminar.
 
-1. Introduzca las credenciales de usuario de sincronización de Salesforce creadas en la parte 2 de la configuración de Salesforce ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) y haga clic en **Sincronizar campos**.
+1. Introduzca las credenciales de usuario de sincronización de Salesforce creadas en la parte 2 de la configuración de Salesforce ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) y haga clic en **Campos de sincronización**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,11 +71,11 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
 
    >[!CAUTION]
    >
-   >Si quieres ver las [asignaciones y personalizarlas](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), esta es tu única oportunidad para hacerlo. Una vez que haga clic en Inicio Salesforce Sync, ya estará listo.
+   >Si desea ver las [asignaciones y personalizarlas](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md), esta es su única oportunidad de hacerlo. Una vez que haga clic en Inicio Salesforce Sync, ya estará listo.
 
 ## Inicio Salesforce Sync {#start-salesforce-sync}
 
-1. Haga clic en **Inicio de sincronización** de Salesforce para iniciar la sincronización persistente de Marketing y Salesforce.
+1. Haga clic en **Inicio Salesforce Sync** para iniciar la sincronización persistente de Marketing-Salesforce.
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -83,7 +83,7 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
    >
    >Marketo no desduplicará automáticamente una sincronización de Salesforce o cuando introduzca leads manualmente.
 
-1. Haga clic en **INICIO SINCRONIZACIÓN**.
+1. Haga clic en **INICIO SYNC**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -91,7 +91,7 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
    >
    >El tiempo para completar la sincronización inicial varía según el tamaño y la complejidad de la base de datos.
 
-## Verificar sincronización {#verify-sync}
+## Verificar la sincronización {#verify-sync}
 
 Marketo proporciona mensajes de estado para la sincronización de Salesforce en el área Administración. Puede comprobar que la sincronización funciona correctamente siguiendo estos pasos.
 
@@ -99,7 +99,7 @@ Marketo proporciona mensajes de estado para la sincronización de Salesforce en 
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. El estado de sincronización está visible en la esquina superior derecha. Mostrará uno de los tres mensajes: **Última sincronización**, **sincronización en curso** o **error**.
+1. El estado de sincronización está visible en la esquina superior derecha. Mostrará uno de los tres mensajes: **Última sincronización**, **Sincronización en curso** o **Error**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 
