@@ -27,5 +27,5 @@ Al enviar mensajes de correo electrónico, Marketo registra diferentes puntos de
 
 >[!CAUTION]
 >
->Si el mismo correo electrónico se envía dos veces a la misma persona desde la misma campaña, el evento **Abierto** se registrará un máximo de 1 vez.
+>Si el mismo correo electrónico se envía dos veces a la misma persona desde la misma campaña, el evento **Opened** se registrará un máximo de 1 vez.
 
