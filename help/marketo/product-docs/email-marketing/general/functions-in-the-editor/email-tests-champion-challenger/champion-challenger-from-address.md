@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campeón/Desafío: Desde dirección {#champion-challenger-from-address}
+# Campeón/Desafío: De la dirección {#champion-challenger-from-address}
 
 ¿Quieres probar un From Address diferente sin problemas? Así es como.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >La primera dirección de origen se designa como **campeona**. Después de las direcciones se llaman **Desafíos**.
+   >La primera dirección de origen se designa como **Campeón**. Las direcciones posteriores se denominan **Desafíos**.
 
 1. Introduzca el nombre del origen (izquierda) y la dirección del origen*** (derecha) para los aspirantes.
 
@@ -50,7 +50,7 @@ ht-degree: 0%
    >
    >En la distribución que se muestra arriba, el 15 % de la audiencia total especificada en la lista inteligente obtiene uno de los correos electrónicos con un aspirante Desde dirección y el 85 % recibe el correo electrónico con el campeón Desde dirección. Los correos electrónicos para varios aspirantes Desde Direcciones comparten el 15 % por igual. Una vez finalizada la prueba, puede declarar un ganador manualmente. A partir de entonces, todas las personas futuras recibirán el contenido con mejor rendimiento.
 
-   Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas como para que la prueba sea válida. No te engañes con resultados inconclusos.  [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval)estadística.
+   Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas como para que la prueba sea válida. No te engañes con resultados inconclusos.  [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval) estadística.
 
 1. Haga clic en **Siguiente**.
 
