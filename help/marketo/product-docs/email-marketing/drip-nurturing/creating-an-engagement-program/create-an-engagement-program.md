@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Puede utilizar programas de participación en Marketing para llevar a cabo la mejora del correo electrónico con facilidad.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Seleccione la carpeta en la que desea crear el programa de participación y, a continuación, haga clic en **Nuevo** y **Nuevo Programa**.
 1. ![](assets/newprogramlifecycle.jpg)
 
-1. Introduzca un **nombre**, seleccione **Participación** para el tipo **de** Programa y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione **Participación** para **Tipo de Programa** y haga clic en **Crear**.
 1. ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. Bien, ahora que tienes un programa de compromiso, avancemos y disfrazémoslo.
