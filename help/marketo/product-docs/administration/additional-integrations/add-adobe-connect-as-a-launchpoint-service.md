@@ -33,19 +33,19 @@ Marketing administra el registro y la asistencia a los seminarios web de Adobe C
 
    ![](assets/image2015-4-22-11-3a33-3a51.png)
 
-1. Seleccione **Nuevo** y, a continuación, **Nuevo servicio**.
+1. Seleccione **Nuevo** y luego **Nuevo servicio**.
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. Introduzca un **nombre** para mostrar. En **Servicio**, seleccione Adobe Connect.
+1. Escriba un **Nombre para mostrar**. En **Servicio**, seleccione Adobe Connect.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Introduzca el **nombre de usuario** y el código **de acceso**.
+1. Escriba su **Nombre de usuario** y **Código de acceso**.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Complete el proceso introduciendo la URL **de la carpeta de** reuniones y la **contraseña** de **participante**** **y, a continuación, haga clic** en Crear.**
+1. Complete el proceso ingresando su **URL de la carpeta de reuniones** y **participante** **contraseña**,** **luego haga clic** Crear.**
 
    ** ![](assets/image2015-4-22-11-3a55-3a36.png)
 
@@ -60,13 +60,13 @@ Marketing administra el registro y la asistencia a los seminarios web de Adobe C
    >**Ejemplo**
    >
    >
-   >Una vez que haya iniciado sesión en su cuenta de Adobe Connect, seleccione la ficha **Seminarios** . Sin explorar en profundidad ningún seminario específico, copie la URL de la barra del explorador en la **configuración** de URL de la carpeta de **reuniones.**
+   >Una vez que haya iniciado sesión en su cuenta de Adobe Connect, seleccione la ficha **Seminarios**. Sin explorar en profundidad ningún seminario específico, copie la dirección URL de la barra del explorador en la **configuración de la dirección URL de la carpeta de reuniones****.**
 
-1. ¡Fenomenal! El servicio **de** Adobe Connect ahora está sincronizado con Marketing.
+1. ¡Fenomenal! Su **servicio de Adobe Connect** ahora se sincroniza con Marketing.
 
    ![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear un evento con Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Obtenga información sobre cómo [crear un evento con Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
