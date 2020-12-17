@@ -29,7 +29,7 @@ Cree una presentación para proyectar las vistas y los objetivos del calendario 
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Haga clic en Acciones **de** presentación y seleccione **Nueva presentación**.
+1. Haga clic en **Acciones de presentación** y seleccione **Nueva presentación**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
