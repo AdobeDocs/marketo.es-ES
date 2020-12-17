@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir ON24 como un servicio de LaunchPoint {#add-on-as-a-launchpoint-service}
+# Añadir ON24 como un servicio LaunchPoint {#add-on-as-a-launchpoint-service}
 
 Marketing gestiona el registro y la asistencia a los seminarios Web ON24.
 
@@ -27,23 +27,23 @@ Marketing gestiona el registro y la asistencia a los seminarios Web ON24.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Seleccione **Nuevo** y, a continuación, **Nuevo** **servicio**.
+1. Seleccione **Nuevo** y luego **Nuevo** **Servicio**.
 
    ![](assets/on24-new-service.png)
 
-1. Introduzca un **** nombre **** para mostrar. En **Servicio**, seleccione **ON24**.
+1. Introduzca un **Nombre** **de visualización**. En **Servicio**, seleccione **ON24**.
 
    ![](assets/new-service-on24.png)
 
-1. Complete el proceso ingresando la **clave** de **cliente** y el **ID** de **cliente** en **Configuración** **** y luego haga clic enCrear.
+1. Complete el proceso ingresando su **Cliente** **Clave** y **Cliente** **ID** en **Configuración** y luego haga clic en **Crear**.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. Su cuenta **ON24** ahora está sincronizada con Marketing.
+1. Su cuenta **ON24** ahora se sincroniza con Marketing.
 
    ![](assets/on24.png)
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear su evento de seminario web en ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
+>Descubra cómo [crear su evento de seminario web en ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
