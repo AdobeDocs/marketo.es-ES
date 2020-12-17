@@ -19,11 +19,11 @@ Añadir competidoras le permitirá rastrear el rendimiento de los mismos para la
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Haga clic en la ficha **Competidoras** .
+1. Haga clic en la ficha **Competidoras**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +31,7 @@ Añadir competidoras le permitirá rastrear el rendimiento de los mismos para la
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Escriba el **nombre** y la **dirección URL** de su competidora.
+1. Escriba el **Nombre** y **URL** de su competidora.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
