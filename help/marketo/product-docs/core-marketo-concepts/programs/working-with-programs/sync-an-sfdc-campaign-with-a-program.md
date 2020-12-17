@@ -17,13 +17,13 @@ Marketing le permite sincronizar sus programas con campañas de Salesforce para 
 
 >[!PREREQUISITES]
 >
->Tendrá que [activar primero la sincronización](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) de campañas de Salesforce.
+>Primero deberá [habilitar la sincronización de campañas de Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
 
 >[!CAUTION]
 >
 >Al sincronizar una campaña SFDC con un programa de marketing, las acciones SFDC implícitas (por ejemplo, agregar a la Campaña SFDC, Sincronizar con SFDC) se desactivarán para las campañas secundarias del programa.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,7 +31,7 @@ Marketing le permite sincronizar sus programas con campañas de Salesforce para 
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Haga clic en Acciones **de** Programa y, a continuación, seleccione **Sincronización** de Campaña de Salesforce.
+1. Haga clic en **Acciones de Programa** y, a continuación, seleccione **Sincronización de Campaña de Salesforce**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
@@ -39,7 +39,7 @@ Marketing le permite sincronizar sus programas con campañas de Salesforce para 
 
    >[!TIP]
    >
-   >Si selecciona una campaña existente de Salesforce, asegúrese de [coincidir con los estados de programa de la campaña de Salesforce y el programa](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)de Marketing.
+   >Si selecciona una campaña existente de Salesforce, asegúrese de [coincidir con los estados de programa de la campaña de Salesforce y el programa de marketing](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Escriba un nombre para la nueva campaña y haga clic en **Guardar**.
 
