@@ -25,9 +25,9 @@ Una persona recibe un correo electrónico que se envía desde el motor de compro
 |---|---|---|
 | Una campaña en un programa independiente, independiente y predeterminado independiente | No es miembro del programa predeterminado | Sí |
 | Una campaña en un programa independiente, independiente y predeterminado independiente | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del **mismo** programa CEE | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del **mismo** programa CEE | No es miembro del programa predeterminado | Sí |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de un programa CEE **diferente** | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de un programa CEE **diferente** | No es miembro del programa predeterminado | Sí |
-| Un programa CEE **diferente** que utiliza un flujo inteligente | Miembro de ambos programas de Europa Central y Oriental | No |
+| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del programa **same** CEE | Un miembro del programa predeterminado | No |
+| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del programa **same** CEE | No es miembro del programa predeterminado | Sí |
+| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de un programa **CEE diferente** | Un miembro del programa predeterminado | No |
+| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de un programa **CEE diferente** | No es miembro del programa predeterminado | Sí |
+| Un programa **diferente** CEE que utiliza un flujo inteligente | Miembro de ambos programas de Europa Central y Oriental | No |
 
