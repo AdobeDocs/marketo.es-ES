@@ -20,7 +20,7 @@ Si alguna vez necesita eliminar un flujo del programa de participación, siga es
 
    ![Imagen uno](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
