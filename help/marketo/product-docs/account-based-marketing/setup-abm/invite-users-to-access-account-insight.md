@@ -19,7 +19,7 @@ Siga estos pasos para proporcionar a los usuarios acceso a la perspectiva de cue
 
    ![](assets/admin-1.png)
 
-1. Haga clic en **Usuarios y funciones** en el árbol. A continuación, haga clic en la ficha Usuarios **** de ventas e **invite a un nuevo usuario** de ventas.
+1. Haga clic en **Usuarios y roles** en el árbol. A continuación, haga clic en la ficha **Usuarios de ventas** e **Invitar a nuevo usuario de ventas**.
 
    ![](assets/two-6.png)
 
@@ -29,7 +29,7 @@ Siga estos pasos para proporcionar a los usuarios acceso a la perspectiva de cue
    >
    >Al invitar a usuarios nuevos (que no sean de marketing) mediante la lista de usuario de CRM, puede invitar a varias personas a la vez. La invitación por correo electrónico es 1 para 1.
 
-1. Haga clic en la lista desplegable Usuario **de** CRM y seleccione el usuario que desee.
+1. Haga clic en la lista desplegable **Usuario de CRM** y seleccione el usuario que desee.
 
    ![](assets/three-5.png)
 
@@ -45,7 +45,7 @@ Siga estos pasos para proporcionar a los usuarios acceso a la perspectiva de cue
 
    ![](assets/five-5.png)
 
-1. Marque la casilla de verificación **Perspectiva** de cuenta y haga clic en **Siguiente**.
+1. Marque la casilla **Perspectiva de cuenta** y haga clic en **Siguiente**.
 
    ![](assets/six-3.png)
 
