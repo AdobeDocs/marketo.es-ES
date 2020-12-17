@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. En Seguimiento **de personas**, haga clic en **Editar**.
+1. En **Seguimiento de personas**, haga clic en **Editar**.
 
    ![](assets/three-2.png)
 
-1. Seleccione **Asistencia** y haga clic en **Guardar**.
+1. Seleccione **Soporte** y haga clic en **Guardar**.
 1. ![](assets/four-1.png)
 
    Después de guardar los cambios, verá la actualización.
