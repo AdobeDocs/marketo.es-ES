@@ -21,11 +21,11 @@ Siga los pasos a continuación para vista la participación en la plantilla.
 
    Debajo de esto, la vista se divide en tres secciones:
 
-   **Arma** secreta - Una plantilla `not yet shared` en todo el equipo que está obteniendo toneladas de compromiso
+   **Arma**  secreta: una plantilla  `not yet shared` en todo el equipo que está obteniendo toneladas de compromiso
 
-   **Participación** máxima: plantilla `already shared` en todo el equipo que la mata en la participación
+   **Participación**  máxima: plantilla  `already shared` en todo el equipo que la mata en la participación
 
-   **Participación** menor: plantilla que necesita reajustar su tasa de participación (esta plantilla `can either be shared or unshared` en todo el equipo)
+   **Participación**  menor: plantilla que necesita reajustar su tasa de participación (esta plantilla  `can either be shared or unshared` en todo el equipo)
 
    Desde allí, desplácese hacia abajo y vea todas las plantillas creadas en su equipo en función de las tasas de vista dentro de ese intervalo de fechas seleccionado. En un nivel de plantilla individual puede ver: quién lo creó, sea o no compartido, el número de correos electrónicos que se usaron con él y el seguimiento de datos (vistas, clics, respuestas).
 
