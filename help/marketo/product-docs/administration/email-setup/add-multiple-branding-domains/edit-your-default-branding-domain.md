@@ -17,9 +17,9 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ha [configurado un CNAME en el DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) antes de agregar los dominios de marca en Marketing Cloud.
+>Asegúrese de [configurar un CNAME en su DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) antes de agregar sus dominios de marca en Marketing.
 
-1. Vaya a **Administrador** y haga clic en **Correo electrónico**.
+1. Vaya a **Administración** y haga clic en **Correo electrónico**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,5 +35,5 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Ahora puede [agregar cualquier dominio](add-an-additional-branding-domain.md) de marca adicional que necesite.
+Ahora puede [agregar cualquier dominio de marca adicional](add-an-additional-branding-domain.md) que necesite.
 
