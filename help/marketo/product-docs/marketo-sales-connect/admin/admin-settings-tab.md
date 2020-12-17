@@ -15,9 +15,9 @@ ht-degree: 0%
 
 La ficha Ajustes de administración permitirá al administrador de cualquier cuenta ver la configuración de su equipo (con respecto a los límites del plan), así como controlar masivamente la forma en que los correos electrónicos de su equipo se registran en Salesforce.
 
-Si selecciona la casilla de verificación **Anular toda la configuración de sincronización de Salesforce para mi equipo** , verá la opción de permitir solo el registro a través de BCC o solo mediante API.
+Si selecciona la casilla de verificación **Anular toda la configuración de sincronización de Salesforce para mi equipo**, verá la opción de permitir solo el registro a través de BCC o solo mediante API.
 
-Si elige el registro **de** API, todas las opciones seleccionadas para Oportunidades, Posibles clientes, Contactos `will be set for the entire team after you click **Save Changes**.`
+Si elige **Registro de API**, todas las configuraciones seleccionadas para Oportunidades, Posibles clientes, Contactos `will be set for the entire team after you click **Save Changes**.`
 
 A partir de aquí, también podrá activar en forma masiva Oportunidades y Sincronización de Tarea en todo el equipo.
 
