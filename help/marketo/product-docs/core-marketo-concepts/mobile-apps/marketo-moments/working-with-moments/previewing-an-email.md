@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vista previa de un correo electrónico {#previewing-an-email}
+# Vista preliminar de un mensaje de correo electrónico {#previewing-an-email}
 
 Haga clic con el botón secundario en una tarjeta de correo electrónico para previsualización antes de apretar el activador.
 
@@ -19,7 +19,7 @@ Haga clic con el botón secundario en una tarjeta de correo electrónico para pr
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Toque Correo electrónico **de Previsualización**.
+1. Toque **Correo electrónico de Previsualización**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
