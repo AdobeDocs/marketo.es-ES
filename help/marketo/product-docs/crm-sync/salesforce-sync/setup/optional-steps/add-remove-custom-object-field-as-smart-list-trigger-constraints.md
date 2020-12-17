@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir/quitar el campo de objeto personalizado como restricciones de Lista inteligente/activador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Añadir/Eliminar el campo de objeto personalizado como Lista inteligente/Restricciones de activador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo proporciona un control preciso sobre la sincronización de objetos personalizados de Salesforce. Esto le permite seleccionar los campos disponibles como restricciones en filtros de objetos personalizados y utilizarlos como activadores en campañas inteligentes.
 
@@ -23,11 +23,11 @@ Marketo proporciona un control preciso sobre la sincronización de objetos perso
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Haga clic en **Administración** y, a continuación, en Sincronizar objetos **de Salesforce.**
+1. Haga clic en **Administración** y luego **Sincronización de objetos de Salesforce.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **La sincronización** de objetos de Salesforce aparece en la columna izquierda.
+1. **Síntomas de objetos de Salesforce en la columna izquierda.** 
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo proporciona un control preciso sobre la sincronización de objetos perso
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Haga clic en **Editar campos** visibles.
+1. Haga clic en **Editar campos visibles**.
 
    >[!TIP]
    >
-   >Si el botón **Editar campos** visibles está atenuado, el objeto se está utilizando en una lista inteligente o en una campaña inteligente. Elimine todas las asociaciones para continuar.
+   >Si el botón **Editar campos visibles** está atenuado, el objeto se está utilizando actualmente en una lista inteligente o en una campaña inteligente. Elimine todas las asociaciones para continuar.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Si la sincronización global está activada, haga clic en **Deshabilitar sincronización** global.
+1. Si la sincronización global está habilitada, haga clic en **Deshabilitar sincronización global**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Marque las casillas situadas junto a las restricciones de filtro/activador necesarias y haga clic en **Guardar**.
+1. Marque las casillas junto a las restricciones de filtro/activador necesarias y haga clic en **Guardar**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
