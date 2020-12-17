@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Notas de la versión: Enero de 2014 {#release-notes-january}
 
-Las siguientes funciones se incluyen en la versión de enero de 2014. Compruebe la disponibilidad de las funciones [de la edición](http://www.marketo.com/pricing/) de marketing.
+Las siguientes funciones se incluyen en la versión de enero de 2014. Consulte su [edición de marketing](http://www.marketo.com/pricing/) para conocer la disponibilidad de las funciones.
 
 ## Forms 2.0 {#forms}
 
-Mirando hacia arriba: La documentación de Forms 2.0 estará disponible próximamente. Mientras tanto, conozca más abajo, y en el [vídeo](http://docs.marketo.com/display/docs/forms)de introducción!
+Mirando hacia arriba: La documentación de Forms 2.0 estará disponible próximamente. Mientras tanto, conozca más a continuación y en el [vídeo de introducción](http://docs.marketo.com/display/docs/forms)!
 
-Controle el proceso de creación de formularios y dé un descanso a los desarrolladores web. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 está diseñado para potenciar a los especialistas en marketing para crear formularios sólidos tanto visual como funcionalmente sin necesidad de conocimientos de programación.
+Controle el proceso de creación de formularios y dé un descanso a los desarrolladores web. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 está diseñado para que los especialistas en marketing puedan crear formularios sólidos tanto visual como funcionalmente sin necesidad de conocimientos de programación.
 
 **Proporcione a su Forms la configuración visual que merecen:**
 
@@ -38,17 +38,17 @@ Atrás quedan los días de extraer código HTML de los formularios colocados en 
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Obtenga más información en el vídeo [de introducción a](http://docs.marketo.com/display/docs/forms)Forms 2.0. (¡La documentación llega pronto al profundo buceo de [Forms](http://docs.marketo.com/display/docs/forms) !)
+Obtenga más información en el [vídeo de introducción a Forms 2.0](http://docs.marketo.com/display/docs/forms). (La documentación llega pronto a [Forms](http://docs.marketo.com/display/docs/forms) buceo profundo!)
 
 ## Límites de comunicación para el Programa de correo electrónico {#communication-limits-for-email-program}
 
-[Establezca Límites de comunicación en un programa](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) de correo electrónico para asegurarse de no sobrecomunicarse con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
+[Establezca Límites de comunicación en un ](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programa de correo electrónico para asegurarse de no sobrecomunicarse con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campos adicionales en la Análisis de pertenencia a Programa {#additional-fields-in-program-membership-analysis}
 
-Ahora puede agregar y agrupar las métricas de Análisis [de pertenencia a](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Programas por atributos de compañía y posible cliente. Por ejemplo, puede agregar el campo Industria para ver la división de los miembros del programa y los éxitos.
+Ahora puede agregar y agrupar las métricas de [Análisis de pertenencia a Programas](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por atributos de posible cliente y compañía. Por ejemplo, puede agregar el campo Industria para ver la división de los miembros del programa y los éxitos.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
 
