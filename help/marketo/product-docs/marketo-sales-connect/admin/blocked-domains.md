@@ -33,5 +33,5 @@ Ayude a su equipo de ventas a lograr el éxito impidiéndoles enviar por correo 
 
    >[!NOTE]
    >
-   >Los mensajes de correo electrónico que forman parte de un envío de correo electrónico [de](http://docs.marketo.com/x/KAQ6Ag) grupo y que fallan al enviarse a un dominio de correo electrónico bloqueado fallarán en silencio y no aparecerán en la carpeta de correo electrónico con errores.
+   >Los correos electrónicos que forman parte de un envío [de correo electrónico de grupo](http://docs.marketo.com/x/KAQ6Ag) que falla debido a que se envían a un dominio de correo electrónico bloqueado fallarán en silencio y no aparecerán en la carpeta de correo electrónico fallida.
 
