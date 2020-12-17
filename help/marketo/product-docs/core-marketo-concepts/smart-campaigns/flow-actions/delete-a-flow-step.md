@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->La eliminación de los pasos de flujo, *especialmente los pasos* de espera de las campañas inteligentes activas, puede tener resultados inesperados. **Lea este artículo detenidamente.**
+>La eliminación de los pasos de flujo, *especialmente los pasos de espera* de las campañas inteligentes activas, puede tener resultados inesperados. **Lea este artículo detenidamente.**
 
 Primero hagamos lo básico. A continuación se explica cómo eliminar un paso de flujo no deseado de una campaña inteligente. 1. En Flujo de campaña inteligente, haga clic en el icono X para eliminar cualquier paso de flujo.
 
@@ -29,7 +29,7 @@ Primero hagamos lo básico. A continuación se explica cómo eliminar un paso de
 
    >[!CAUTION]
    >
-   >La eliminación, adición y desplazamiento de pasos dentro de una campaña **activa** puede tener definitivamente resultados inesperados. Considere la posibilidad de crear una nueva campaña, probarla y, a continuación, cambiar.
+   >La eliminación, adición y desplazamiento de pasos dentro de una campaña **activa** definitivamente puede tener resultados inesperados. Considere la posibilidad de crear una nueva campaña, probarla y, a continuación, cambiar.
 
    Se pueden realizar cambios en una campaña activa, pero pueden tener consecuencias imprevistas. A continuación se detallan los detalles:
 
@@ -40,7 +40,7 @@ Primero hagamos lo básico. A continuación se explica cómo eliminar un paso de
    1. **Nunca huí.** Realice todos los cambios que desee. No afectará a nadie hasta que corras esa campaña.
    1. **Es una campaña inteligente recurrente.** Los cambios afectarán a las personas en las ejecuciones futuras, no en las anteriores.
    1. **Ya se ejecutó SIN pasos de espera.** Ninguna persona se verá afectada porque la campaña está inactiva después de correr.
-   1. **Se está ejecutando ahora mismo.** Los cambios pueden provocar un comportamiento inesperado en función del tiempo y los detalles de la eliminación. Se recomienda NO editar una campaña por lotes que se esté ejecutando activamente. En casos de emergencia, aprenda a [cancelar una campaña](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)inteligente en ejecución.
+   1. **Se está ejecutando ahora mismo.** Los cambios pueden provocar un comportamiento inesperado en función del tiempo y los detalles de la eliminación. Se recomienda NO editar una campaña por lotes que se esté ejecutando activamente. Para casos de emergencia, aprenda a [cancelar una campaña inteligente en ejecución](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    1. **Ya se ejecutó CON los pasos de espera.** Varios detalles sobre este.\
       Cuando una persona entra en un paso de espera, la persona baja la duración y a qué PASO NUMÉRICO volver. Consulte el ejemplo siguiente.
@@ -62,11 +62,11 @@ Primero hagamos lo básico. A continuación se explica cómo eliminar un paso de
    >   * PASO 2. Esperar 1 semana
    >   * PASO 3. Enviar correo electrónico n.º 2
    >
-   >1. Las personas que hayan llegado al **paso 2** esperarán una semana antes de pasar al **paso 3**.
-   >1. Se elimina el **paso 2** durante la semana.
+   >1. Las personas que visiten **Paso 2** esperarán una semana antes de pasar al **Paso 3**.
+   >1. Usted elimina **Paso 2** durante la semana.
    >1. La gente seguirá esperando la semana. (No vuelven a aparecer automáticamente en el flujo).
-   >1. Cuando finalmente regresen, tratarán de ir al **Paso 3**. No lo encontrarán.
-   >1. **IMPORTANTE:** Dado que ahora solo hay 2 pasos, las *personas no recibirán el correo electrónico 2.*
+   >1. Cuando finalmente regresen, intentarán ir al **Paso 3**. No lo encontrarán.
+   >1. **IMPORTANTE:** Dado que ahora solo hay 2 pasos, las  *personas no recibirán el correo electrónico 2.*
 
 
 Realización de cambios en una Campaña activa
