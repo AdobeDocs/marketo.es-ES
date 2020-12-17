@@ -18,11 +18,11 @@ Guardar reglas de lista inteligentes es una manera buena de ahorrarse un tiempo 
 
 ## Guardar reglas de Lista inteligente
 
-1. En Actividades de marketing, seleccione la campaña inteligente (o cree una nueva).
+1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente (o cree una nueva).
 
    ![Imagen uno](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Haga clic en Lista **** inteligente.
+1. Haga clic en **[!UICONTROL Lista inteligente]**.
 
    ![Imagen dos](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,7 +32,7 @@ Guardar reglas de lista inteligentes es una manera buena de ahorrarse un tiempo 
 
    ![Imagen Cuatro](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Cuando haya terminado de agregar filtros/activadores, haga clic en la lista desplegable Acciones **[!UICONTROL de Campaña]** inteligente y seleccione **[!UICONTROL Guardar regla]** de Lista inteligente.
+1. Cuando termine de agregar filtros/activadores, haga clic en la lista desplegable **[!UICONTROL Acciones de Campaña inteligente]** y seleccione **[!UICONTROL Guardar regla de Lista inteligente]**.
 
    ![Imagen cinco](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -44,15 +44,15 @@ Guardar reglas de lista inteligentes es una manera buena de ahorrarse un tiempo 
 
 ## Uso de las reglas de Lista inteligente guardadas
 
-1. En Actividades de marketing, seleccione la campaña inteligente (o cree una nueva).
+1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente (o cree una nueva).
 
    ![Imagen siete](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Haga clic en Lista **** inteligente.
+1. Haga clic en **[!UICONTROL Lista inteligente]**.
 
    ![Imagen ocho](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Haga clic en la lista desplegable Regla **** guardada.
+1. Haga clic en la lista desplegable **[!UICONTROL Regla guardada]**.
 
    ![Imagen nueve](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
