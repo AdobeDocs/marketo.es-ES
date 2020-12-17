@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # SEO - Importación de palabras clave con un CSV {#seo-importing-keywords-with-a-csv}
 
-1. Puede [agregar palabras clave](seo-add-keywords.md) manualmente, [obtener sugerencias](seo-get-suggested-keywords.md) de palabras clave e incluso importar palabras clave desde un archivo CSV. A continuación se muestra cómo realizar la importación.
-1. Vaya a la sección **Palabras clave** .
+1. Puede [agregar palabras clave](seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](seo-get-suggested-keywords.md) e incluso importar palabras clave desde un archivo CSV. A continuación se muestra cómo realizar la importación.
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
