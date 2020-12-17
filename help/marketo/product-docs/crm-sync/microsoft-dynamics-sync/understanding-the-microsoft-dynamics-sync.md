@@ -19,7 +19,7 @@ Marketing y Microsoft Dynamics van juntos. Mantenemos sus datos de ventas y mark
 >
 >Marketing solo admite certificados SSL compatibles con Java 7 en este momento.
 
-## Funcionamiento de la sincronización {#how-sync-works}
+## Cómo funciona la sincronización {#how-sync-works}
 
 Marketo sincroniza datos continuamente con Microsoft Dynamics todo el día, todos los días. Se realiza mediante sincronización en segundo plano, en lotes, no en tiempo real.
 
@@ -41,9 +41,9 @@ La sincronización entre Marketing y Dynamics es bidireccional para posibles cli
 
 >[!NOTE]
 >
->Las [credenciales introducidas en Marketing para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) se utilizan para sincronizar los datos.
+>Las [credenciales introducidas en Marketing para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) se utilizan para sincronizar datos.
 
-Hay muchos matices y características sobre la sincronización de Dynamics. Consulte los detalles en la sección [Detalles de sincronización de](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft Dynamics.
+Hay muchos matices y características sobre la sincronización de Dynamics. Consulte los detalles en la sección [Detalles de sincronización de Microsoft Dynamics](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
 >[!CAUTION]
 >
