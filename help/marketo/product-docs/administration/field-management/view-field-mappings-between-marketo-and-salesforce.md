@@ -19,7 +19,7 @@ Es posible que desee saber a qué campos de Salesforce está vinculado un campo 
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administración** y haga clic en Administración **de campos**.
+1. Vaya a **Administración** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
