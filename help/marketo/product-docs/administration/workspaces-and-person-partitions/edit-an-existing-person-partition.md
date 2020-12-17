@@ -31,11 +31,11 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. En la ficha Particiones **de** persona, seleccione la partición de persona que desee editar y haga clic en **Editar partición de persona**.
+1. En la ficha **Particiones de personas**, seleccione la partición de personas que desee editar y haga clic en **Editar partición de personas**.
 
    ![](assets/two-5.png)
 
-1. Introduzca el **nombre** de la partición de personas, el **espacio de trabajo **al que pertenecen y haga clic en **Guardar**.
+1. Introduzca la partición de persona **Nombre**, los **espacios de trabajo **a a los que pertenecen y haga clic en **Guardar**.
 
    ![](assets/three-5.png)
 
