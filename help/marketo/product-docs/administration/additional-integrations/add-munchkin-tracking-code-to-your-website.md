@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir código de seguimiento de Munchkin a su sitio web {#add-munchkin-tracking-code-to-your-website}
+# Añadir código de seguimiento de Munchkin a su sitio Web {#add-munchkin-tracking-code-to-your-website}
 
 El código de seguimiento personalizado de JavaScript de Marketing, llamado Munchkin, rastrea a todas las personas que visitan el sitio web para que pueda reaccionar a sus visitas con campañas de marketing automatizadas. Incluso los visitantes anónimos son rastreados junto con sus direcciones IP y otra información. ** Sin este código de seguimiento, no podrá rastrear visitas u otras actividades en su sitio web!**
 
@@ -25,7 +25,7 @@ El código de seguimiento personalizado de JavaScript de Marketing, llamado Munc
 >
 >Los clientes de Adobe Experience Cloud también pueden utilizar la integración de Marketo en Adobe Launch para incluir el script Munchkin en sus páginas web. Obtenga la aplicación [aquí](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
-1. Vaya al **administrador** y haga clic en **Munchkin** en el árbol de la izquierda.
+1. Vaya a **Administración** y haga clic en **Munchkin** en el árbol de la izquierda.
 
    ![](assets/image2015-8-25-16-3a21-3a14.png)
 
@@ -49,7 +49,7 @@ El código de seguimiento personalizado de JavaScript de Marketing, llamado Munc
    >
    >Coloque el código de seguimiento en las páginas Web que desee rastrear. Puede ser cada página para sitios más pequeños o sólo páginas clave en sitios que tengan muchas páginas Web generadas dinámicamente, foros de usuarios, etc.
 
-   Para obtener los mejores resultados, utilice el código Munchkin asincrónico y colóquelo dentro de los `<head>` elementos de sus páginas. Si está utilizando el código simple (no recomendado), esto es justo antes de la `</body>` etiqueta .
+   Para obtener los mejores resultados, utilice el código Munchkin asincrónico y colóquelo dentro de los elementos `<head>` de sus páginas. Si está utilizando el código simple (no recomendado), esto es justo antes de la etiqueta `</body>`.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
@@ -84,7 +84,7 @@ Si utiliza Workspaces en su cuenta de Marketing, probablemente también tenga pr
 >
 >No utilice el código que se muestra en esta captura de pantalla: debe utilizar el código único que aparece en la cuenta.
 
-1. Coloque el código de seguimiento en las páginas web del `<head>` elemento . Las personas nuevas que visiten esta página se asignarán a esta partición.
+1. Coloque el código de seguimiento en las páginas Web en el elemento `<head>`. Las personas nuevas que visiten esta página se asignarán a esta partición.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -104,7 +104,7 @@ Hay 3 tipos de códigos de seguimiento Munchkin que puede elegir. Cada uno de el
 1. **Asincrónico**: reduce el tiempo de carga de la página web.
 1. **jQuery** asincrónico: reduce el tiempo de carga de la página web y también mejora el rendimiento del sistema. Este código supone que ya tiene jQuery y no comprueba para cargarlo.
 
-## Compruebe si el código Munchkin está funcionando {#test-if-your-munchkin-code-is-working}
+## Compruebe si el código Munchkin funciona {#test-if-your-munchkin-code-is-working}
 
 Para comprobar que su código Munchkin está funcionando después de haberlo agregado:
 
@@ -113,15 +113,15 @@ Para comprobar que su código Munchkin está funcionando después de haberlo agr
 
    ![](assets/mainnav-analytics-hand.png)
 
-1. Haga clic en Actividad **de página** Web.
+1. Haga clic en **Actividad de página Web**.
 
    ![](assets/webanalytics.png)
 
-1. Haga clic en la ficha **Configuración** , haga clic con el botón doble en Origen **de** Actividad y cámbielo a Visitantes **anónimos (incluidos los ISP)**.
+1. Haga clic en la ficha **Configuración**, haga clic con el doble **Origen de Actividad** y cámbielo a **Visitantes anónimos (incluidos los ISP)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Haga clic en la ficha **Informe** . Si no ve ningún dato, espere unos minutos y luego haga clic en el icono de actualización en la parte inferior.
+1. Haga clic en la ficha **Informe**. Si no ve ningún dato, espere unos minutos y luego haga clic en el icono de actualización en la parte inferior.
 
