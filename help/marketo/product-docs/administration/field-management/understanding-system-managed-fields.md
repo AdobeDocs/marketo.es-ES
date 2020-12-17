@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de los campos administrados por el sistema {#understanding-system-managed-fields}
 
-Es posible que haya notado que la página [de detalles de la](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona tiene una serie de campos no editables creados por Marketing. Estos datos provienen de varias fuentes y hay innumerables valores que podrían mostrarse.
+Es posible que haya notado que la [página de detalles de persona](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tiene una serie de campos no editables creados por Marketing. Estos datos provienen de varias fuentes y hay innumerables valores que podrían mostrarse.
 
 ## Tipos de campos {#field-types}
 
@@ -35,7 +35,7 @@ Es posible que haya notado que la página [de detalles de la](../../../product-d
 | Área metropolitana vinculada | La mejor conjetura del comerciante (basada en IP) del área metropolitana de la persona |
 | Código de área telefónica inducida | La mejor conjetura del comerciante (basada en la IP) del código de área de la persona |
 
-## Valores posibles para el tipo de origen original y de origen de registro {#possible-values-for-original-and-registration-source-type}
+## Valores posibles para el tipo de origen de registro y original {#possible-values-for-original-and-registration-source-type}
 
 Debajo hay algunos valores posibles y lo que significan.
 
