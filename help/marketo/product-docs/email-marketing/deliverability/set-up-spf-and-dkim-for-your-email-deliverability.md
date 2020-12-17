@@ -23,8 +23,8 @@ Un método rápido para mejorar las tasas de envío de correo electrónico es in
 
 **Si NO tiene un registro SPF en su dominio**
 
-Pida al administrador de red que agregue la línea siguiente a sus entradas DNS. Reemplazar [dominio] por el dominio principal de su sitio web (por ejemplo: &quot;compañía.com&quot;) y [corpIP] con la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: &quot;255.255.255.255&quot;). Si envía correos electrónicos desde varios dominios a través de Marketing, debe agregarlos a cada dominio (en una línea).
-[dominio] EN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all\
+Pida al administrador de red que agregue la línea siguiente a sus entradas DNS. Reemplace [domain] por el dominio principal de su sitio Web (por ejemplo: &quot;compañía.com&quot;) y [corpIP] con la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: &quot;255.255.255.255&quot;). Si envía correos electrónicos desde varios dominios a través de Marketing, debe agregarlos a cada dominio (en una línea).
+[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
 Si NO tiene un registro SPF en su dominio
 
 Si ya tiene un registro SPF en la entrada DNS, agregue lo siguiente:
@@ -45,7 +45,7 @@ Después de configurar la clave pública en el registro DNS y activar el dominio
 
 ¿Cómo configuro DKIM?
 
-Consulte [Configuración de una firma](set-up-a-custom-dkim-signature.md)DKIM personalizada.
+Consulte [Configuración de una firma DKIM personalizada](set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
