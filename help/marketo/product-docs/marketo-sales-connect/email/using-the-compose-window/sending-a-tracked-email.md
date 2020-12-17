@@ -20,7 +20,7 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
 >Deberá comprobar la identidad y configurar un canal de envío de correo electrónico antes de enviar un correo electrónico rastreado.
 >
 >* [Verifique su dirección de correo electrónico](http://docs.marketo.com/x/ewPh)
->* Configuración de un Canal de Envío para [Outlook](http://docs.marketo.com/x/Z4AOAQ) o [Gmail](http://docs.marketo.com/x/kYMOAQ)
+>* Configure un Canal de Envío para [Outlook](http://docs.marketo.com/x/Z4AOAQ) o [Gmail](http://docs.marketo.com/x/kYMOAQ)
 
 >
 
@@ -30,7 +30,7 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
 
    ![](assets/one.png)
 
-1. Escriba el nombre o el correo electrónico de un destinatario en el campo **Para** .
+1. Escriba el nombre o el correo electrónico de un destinatario en el campo **A**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
 
    >[!NOTE]
    >
-   >Si alguien que ha sido CC’d o BCC’d abre el correo electrónico, ese abrir se registrará como una vista en el registro de la persona en el campo **Para** .
+   >Si alguien que ha sido CC’d o BCC’d abre el correo electrónico, ese abrir se registrará como una vista en el registro de la persona en el campo **To**.
 
 1. Añada una línea de asunto.
 
@@ -52,7 +52,7 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
 
    >[!NOTE]
    >
-   >Se requiere una línea de asunto y un destinatario para enviar el correo electrónico. Guardaremos **automáticamente el borrador** una vez que se haya agregado una línea de asunto y un destinatario.
+   >Se requiere una línea de asunto y un destinatario para enviar el correo electrónico. Se **guardará automáticamente el borrador** una vez que se hayan agregado una línea de asunto y un destinatario.
 
 1. Redacte su correo electrónico con el editor. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag), si lo prefiere) cuando termine.
 
