@@ -25,7 +25,7 @@ La pista de auditoría está disponible para todos los clientes y está controla
 
    ![](assets/one-2.png)
 
-1. Seleccione **Usuarios y funciones** y haga clic en **Funciones**.
+1. Seleccione **Usuarios y roles** y haga clic en **Roles**.
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ La pista de auditoría está disponible para todos los clientes y está controla
    >
    >También tiene la opción de crear una nueva función y otorgarle acceso a la pista de auditoría.
 
-1. Expanda el permiso de administración **de** Access. Seleccione **Acceso a pista** de auditoría y/o **Acceso al historial** de inicio de sesión, según sus necesidades. Haga clic en **Guardar**.
+1. Expanda el permiso **Administración de acceso**. Seleccione **Ruta de auditoría de acceso** y/o **Historial de inicio de sesión de acceso**, según sus necesidades. Haga clic en **Guardar**.
 
    ![](assets/four-1.png)
 
@@ -46,18 +46,18 @@ La pista de auditoría está disponible para todos los clientes y está controla
    >**Definición**
    >
    >
-   >**Acceso a pista de auditoría:** Permite a los usuarios acceder a la pista de auditoría de recursos y a la pista de auditoría de administración.
+   >**Acceso a pista de auditoría:** proporciona a los usuarios acceso a la pista de auditoría de recursos y a la pista de auditoría de administración.
    >
    >
-   >**Acceso al historial de inicio de sesión:** Permite a los usuarios acceder al historial de inicio de sesión [del usuario](user-login-history.md).
+   >**Acceso al historial de inicio de sesión:** otorga a los usuarios acceso al historial [ de inicio de sesión ](user-login-history.md)del usuario.
 
-## Asignar función de pista de auditoría a un usuario {#assign-audit-trail-role-to-a-user}
+## Asignar la función de pista de auditoría a un usuario {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Cree](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) o [habilite](#Enable) una función existente, otorgándole permisos de pista de auditoría.
+>[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Cree o  [](#Enable) habilite una función existente, otorgándole permisos de pista de auditoría.
 
-1. En **Usuarios y funciones**, haga clic en **Usuarios**.
+1. En **Usuarios y roles**, haga clic en **Usuarios**.
 
    ![](assets/five-1.png)
 
@@ -75,7 +75,7 @@ La pista de auditoría está disponible para todos los clientes y está controla
 
    >[!CAUTION]
    >
-   >Si tiene habilitadas las áreas de trabajo, asegúrese de marcar la casilla de verificación de la función, que selecciona todas las áreas de trabajo. Si se anula la selección de un espacio de trabajo individual, se ocultará la pista de auditoría. Esto significa que verá los datos de la pista de auditoría de cada espacio de trabajo. Tiene la opción de ocultar espacios de trabajo al [filtrar](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Si tiene habilitadas las áreas de trabajo, asegúrese de marcar la casilla de verificación de la función, que selecciona todas las áreas de trabajo. Si se anula la selección de un espacio de trabajo individual, se ocultará la pista de auditoría. Esto significa que verá los datos de la pista de auditoría de cada espacio de trabajo. Tiene la opción de ocultar espacios de trabajo cuando [filtra](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
 
 1. Haga clic en **Guardar**.
 
