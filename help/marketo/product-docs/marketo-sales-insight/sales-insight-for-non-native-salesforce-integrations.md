@@ -19,8 +19,8 @@ Si su cuenta de Marketing está conectada a Salesforce a través de una integrac
 >
 >* Póngase en contacto con el administrador de éxito del cliente para habilitar la función &quot;MSI no nativo&quot; para la instancia de Marketing.
 >* Cuenta de Salesforce con la configuración del paquete MSI.
->* La API de REST de Marketing [se configuró](http://developers.marketo.com/rest-api/)correctamente. Las API de CRUD expuestas serán la base para realizar la sincronización no nativa.
->* Lea [esta entrada](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) de blog para comprender el objeto y las relaciones.
+>* La API de REST de Marketing to [configuró correctamente](http://developers.marketo.com/rest-api/). Las API de CRUD expuestas serán la base para realizar la sincronización no nativa.
+>* Lea [esta entrada de blog](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) para comprender el objeto y las relaciones.
 >* Configure los objetos de Salesforce para que muestren el identificador único global que distingue entre mayúsculas y minúsculas de 18 caracteres en lugar del identificador único global que distingue entre mayúsculas y minúsculas de 15 caracteres.
 
 >
@@ -31,11 +31,11 @@ Si su cuenta de Marketing está conectada a Salesforce a través de una integrac
 >
 >La configuración de la API de REST en el panel de administración de MSI de Marketing to no se puede usar para la sincronización no nativa.
 
-## La sincronización no nativa correcta para MSI requiere lo siguiente {#successful-non-native-sync-for-msi-requires-the-following}
+## La sincronización no nativa correcta para MSI requiere lo siguiente: {#successful-non-native-sync-for-msi-requires-the-following}
 
 1. Sincronice el usuario de ventas de Salesforce con el comerciante.
 
-   El usuario de ventas de Salesforce es un usuario externo propietario de los posibles clientes/contactos en Salesforce. Es necesario actualizar a un vendedor de marketing para el usuario de ventas de Salesforce. El campo *externalSalesPersonId* tiene el mandato de mantener al vendedor.
+   El usuario de ventas de Salesforce es un usuario externo propietario de los posibles clientes/contactos en Salesforce. Es necesario actualizar a un vendedor de marketing para el usuario de ventas de Salesforce. El campo *externalSalesPersonId* tiene el mandato de mantener al Vendedor.
 
 <table> 
  <colgroup> 
@@ -168,7 +168,7 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
 
 1. Sincronizar funciones de contacto de Salesforce con Marketing.
 
-   Las funciones de contacto de Salesforce para una oportunidad de Salesforce se pueden sincronizar mediante la función de oportunidad de marketing. El registro de la función de oportunidad establece los campos *externalOpportunityId*, *role* y *leadId* .
+   Las funciones de contacto de Salesforce para una oportunidad de Salesforce se pueden sincronizar mediante la función de oportunidad de marketing. El registro de la función de oportunidad establece los campos *externalOpportunityId*, *role* y *leadId*.
 
 <table> 
  <colgroup> 
@@ -207,7 +207,7 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
 
    Una vez que los objetos de Salesforce estén correctamente sincronizados con Marketing, podrá aprovechar las funciones MSI. Los campos Último momento interesante/Puntuación del MSI se exponen en la API de REST para posibles clientes. Los MSI calculan estos campos y son de solo lectura.
 
-   Los campos Último momento interesante/Puntuación de un posible cliente de marketing deberán sincronizarse regularmente con Salesforce mediante el extremo de posible cliente de la API de REST. Consulta este extremo para un posible cliente de marketing usando *externalPersonId* como filterType y pasando el GUID de posible cliente de Salesforce como filterValue.
+   Los campos Último momento interesante/Puntuación de un posible cliente de marketing deberán sincronizarse regularmente con Salesforce mediante el extremo de posible cliente de la API de REST. Consulta este extremo para un posible cliente de marketing usando el *externalPersonId* como filterType y pasando el GUID de posible cliente de Salesforce como filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -228,7 +228,7 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
   </tr> 
   <tr> 
    <td>msiLastInterestingMomentType</td> 
-   <td>Etiqueta: Último<br>tipo de momento interesanteNombre: Last_Interesting_Moment_Type__c</td> 
+   <td>Etiqueta: Último tipo de momento interesante<br>Nombre: Last_Interesting_Moment_Type__c</td> 
    <td>Tipo del último momento interesante para el posible cliente</td> 
   </tr> 
   <tr> 
