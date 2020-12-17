@@ -21,7 +21,7 @@ En este informe, puede ver cómo se clasifica en las palabras clave con el paso 
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Haga clic en Tendencias de clasificación de **palabras clave**.
+1. Haga clic en **Tendencias de clasificación de palabras clave**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -48,7 +48,7 @@ En este informe, puede ver cómo se clasifica en las palabras clave con el paso 
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Exportación de datos  {#exporting-data}
+## Exportación de datos {#exporting-data}
 
 >[!TIP]
 >
