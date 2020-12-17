@@ -31,7 +31,7 @@ Al hacer clic en la ficha **[!UICONTROL Programar]** se confirmará que la campa
 **Campañas inteligentes por lotes**
 
 * Se puede programar para recurrencias como, por ejemplo, diarias, semanales y mensuales. También se pueden ejecutar una sola vez.
-* Están visibles en la vista [del](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)calandario del programa.
+* Están visibles en la vista [calandario del programa](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
 * No se incluirá en la vista nada después de un paso &quot;Esperar&quot; dentro de la campaña inteligente.
 
 ## Activar Campaña inteligente
@@ -42,7 +42,7 @@ Si una campaña inteligente utiliza al menos un activador dentro de la sección 
 
 ![Imagen tres](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Al hacer clic en la ficha **[!UICONTROL Programar]** , se confirmará que la campaña inteligente está configurada en &quot;Activar&quot;.
+Al hacer clic en la ficha **[!UICONTROL Programar]** se confirmará que la campaña inteligente se ha definido como &quot;Activar&quot;.
 
 ![Imagen Cuatro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
@@ -53,4 +53,4 @@ Al hacer clic en la ficha **[!UICONTROL Programar]** , se confirmará que la cam
 
 >[!TIP]
 >
->Utilice el registro [de](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) actividades para ver qué ha ocurrido paso a paso dentro de sus campañas inteligentes. Puede encontrar el registro de actividades en la última ficha de la página de detalles de una persona.
+>Utilice el [registro de actividades](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) para ver qué ha ocurrido paso a paso dentro de sus campañas inteligentes. Puede encontrar el registro de actividades en la última ficha de la página de detalles de una persona.
