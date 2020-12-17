@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Recordatorio**
 >
->Clientes existentes, [actualice el paquete](http://docs.marketo.com/x/_gU6Ag) MSI antes de continuar.
+>Clientes existentes, [Actualice su paquete MSI](http://docs.marketo.com/x/_gU6Ag) antes de continuar.
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Si tiene Salesforce Professional:
 >La perspectiva de ventas de marketing en Salesforce1 incluye: Mejores apuestas, Alimentación de posibles clientes, Momentos interesantes y Añadir a la Campaña de marketing.
 
 1. Habilitar la aplicación móvil de Salesforce1
-1. Haga clic en **Configuración** y, a continuación, en Administración **móvil**.
+1. Haga clic en **Configuración** y luego **Administración de móviles**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -51,11 +51,11 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Haga clic en **Salesforce1 Settings**.
+1. Haga clic en **Configuración de Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Haga clic en **Habilitar la aplicación** del navegador móvil de Salesforce1.
+1. Haga clic en **Habilitar la aplicación del explorador móvil de Salesforce1**.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
@@ -63,11 +63,11 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. Seleccione Administración **móvil**.
+1. Seleccione **Administración móvil**.
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Haga clic en **Administrar el menú** de navegación móvil.
+1. Haga clic en **Administrar el menú de navegación móvil**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,7 +75,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Seleccione **Marcado**, muévalo **Subir **a un área deseada y haga clic en **Guardar**.
+1. Seleccione **Marketo**, muévalo **Up **a un área deseada y haga clic en **Guardar**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
@@ -96,7 +96,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. En Configuración **de** tabulación, seleccione el *primer* **marcador**.
+1. En **Configuración de tabulación**, seleccione *first* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
@@ -121,11 +121,11 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Seleccione **Marketo** y **Añadir **en las fichas seleccionadas.
+1. Seleccione **Marketo** y **Añadir **it a las fichas seleccionadas.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Seleccione **Marcado**, muévalo **Subir **a un área deseada y haga clic en **Guardar**.
+1. Seleccione **Marketo**, muévalo **Up **a un área deseada y haga clic en **Guardar**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
@@ -134,7 +134,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Haga clic en **Configuración**, escriba Diseños **de página** y haga clic en Diseños **de página** en Posibles clientes.
+1. Haga clic en **Configuración**, escriba **Diseños de página** y haga clic en **Diseños de página** en Posibles clientes.
 
    >[!NOTE]
    >
@@ -146,7 +146,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Haga clic en **Páginas de VisualForce **y, a continuación, arrastre** Móvil de posibles clientes **a la sección Tarjetas móviles.
+1. Haga clic en **Visualforce Pages **y, a continuación, arrastre** Lead Mobile **a la sección Mobile Cards (Tarjetas móviles).
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +154,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Haga clic en **Campos** y arrastre **Añadir a la Campaña de marketing **a la sección de perspectiva de ventas de marketing **** .
+1. Haga clic en **Campos** y arrastre **Añadir a la Campaña de marketing **a la sección** Perspectiva de ventas de marketing **s.
 
    ![](assets/configure-step-6.png)
 
