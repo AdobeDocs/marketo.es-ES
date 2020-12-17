@@ -17,7 +17,7 @@ La ficha de inicio del programa le proporciona una vista de alto nivel de lo que
 
 ## Vista de resumen {#summary-view}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -43,7 +43,7 @@ La ficha de inicio del programa le proporciona una vista de alto nivel de lo que
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Haga clic en la lista desplegable **Vista** . Seleccione **Utilizado por**.
+1. Haga clic en la lista desplegable **Vista**. Seleccione **Utilizado por**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -51,13 +51,13 @@ La ficha de inicio del programa le proporciona una vista de alto nivel de lo que
 
    ![](assets/image2014-9-18-17-3a6-3a4.png)
 
-## Vista de pertenencia {#membership-view}
+## Vista de membresía {#membership-view}
 
 1. En Actividades de marketing, seleccione un programa.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Haga clic en la lista desplegable **Vista** . Seleccione **Membresía**.
+1. Haga clic en la lista desplegable **Vista**. Seleccione **Membresía**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ La ficha de inicio del programa le proporciona una vista de alto nivel de lo que
 
    >[!NOTE]
    >
-   >**Histórico** significa cualquiera que haya pasado por el programa, mientras que **Actual** solo incluye a personas que están en el programa.
+   >**** Histórico significa que cualquiera que haya pasado por el programa, mientras que  **** Actualmente solo incluye personas que están actualmente en el programa.
 
    >[!NOTE]
    >
