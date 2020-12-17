@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activar o desactivar las funciones de tesorería {#enable-or-disable-treasure-chest-features}
+# Habilitar o deshabilitar las funciones de tesorería {#enable-or-disable-treasure-chest-features}
 
 El Treasure Chest posee divertidas características experimentales que no son totalmente compatibles.
 
@@ -19,7 +19,7 @@ El Treasure Chest posee divertidas características experimentales que no son to
 >
 >**Se requieren permisos de administración**
 
-1. En **Administración **haga clic en **Tesoro**.
+1. En **Admin **haga clic en **Treasure Chest**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -27,7 +27,7 @@ El Treasure Chest posee divertidas características experimentales que no son to
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Marque la casilla **Habilitado** para habilitar, o desmarque para deshabilitar y haga clic en **Guardar**.
+1. Marque la casilla **Habilitado** para habilitar o desmarcar para deshabilitar y haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
