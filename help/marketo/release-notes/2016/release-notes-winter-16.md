@@ -17,7 +17,7 @@ Las siguientes funciones se incluyen en la versión 16 de invierno. Haga clic en
 
 ## [Es un filtro anónimo](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-El filtro Es anónimo se ha eliminado para Listas inteligentes. Consulte el documento de preguntas frecuentes [sobre el seguimiento de Munchkin de](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) próxima generación para obtener más información. Este cambio no afecta a la Personalización web (RTP), que continúa identificando visitantes web anónimos y conocidos y personalizando contenido en tiempo real para estos visitantes.
+El filtro Es anónimo se ha eliminado para Listas inteligentes. Consulte el documento [Next Generation Munchkin Tracking FAQ](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) para obtener más detalles. Este cambio no afecta a la Personalización web (RTP), que continúa identificando visitantes web anónimos y conocidos y personalizando contenido en tiempo real para estos visitantes.
 
 ## [Panel de base de datos](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -27,11 +27,11 @@ La base de datos de posibles clientes tiene un Panel de resumen actualizado que 
 
 ## [Microsoft Edge Browser](../../product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Hemos agregado Microsoft Edge a la [lista de navegadores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) admitidos por Marketing.
+Hemos agregado Microsoft Edge a la [lista de exploradores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) admitida por Marketing.
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Ahora se admite Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) .
+[Ahora ](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) se admite Microsoft Outlook 2016.
 
 ## [Inicio de encabezado de Programa de correo electrónico](../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -49,7 +49,7 @@ Para utilizar esta función, el programa de correo electrónico debe programarse
 
 ## [Mejoras en la mercadotecnia móvil](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Compatibilidad con PhoneGap:** Ahora se ha oferta la compatibilidad de PhoneGap con su aplicación móvil. [Más información](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Compatibilidad con PhoneGap: ahora** se oferta la compatibilidad con PhoneGap para su aplicación móvil. [Más información](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Compatibilidad con las aplicaciones** de Simulador para pruebas:
 
@@ -61,7 +61,7 @@ Crear, actualizar y clonar programas mediante la API de REST. Esto no incluye la
 
 ## [Mejoras de Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** Estado [de](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)sincronización:** Mantenga las fichas sobre el rendimiento actual y el trabajo pendiente del proceso de sincronización. Desglose por número de inserciones y actualizaciones por objeto.
+** [Estado de sincronización](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Mantenga las fichas sobre el rendimiento actual y el trabajo pendiente del proceso de sincronización. Desglose por número de inserciones y actualizaciones por objeto.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ Ahora puede crear relaciones de varios a varios entre posibles clientes y cuenta
 
 ## [Publicidades de posibles clientes de Facebook](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Los anuncios](https://www.facebook.com/business/a/lead-ads) de posibles clientes de Facebook son una manera más directa para que un negocio pueda ejecutar campañas de generación de posibles clientes en Facebook. Las personas rellenan un formulario para expresar interés en un producto o servicio, de modo que la empresa pueda seguir su ejemplo. La integración de Marketing to con Publicidades de posibles clientes de Facebook captura automáticamente la información que proporciona un posible cliente en el formulario de publicidad de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo activador Rellenar publicidades de posibles clientes de Facebook.
+[Los líderes de Facebook ](https://www.facebook.com/business/a/lead-ads) admiten una manera más directa de que un negocio dirija campañas de generación de posibles clientes en Facebook. Las personas rellenan un formulario para expresar interés en un producto o servicio, de modo que la empresa pueda seguir su ejemplo. La integración de Marketing to con Publicidades de posibles clientes de Facebook captura automáticamente la información que proporciona un posible cliente en el formulario de publicidad de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo activador Rellenar publicidades de posibles clientes de Facebook.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
