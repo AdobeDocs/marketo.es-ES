@@ -23,18 +23,18 @@ Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesfo
 >
 >Marketing to Sales Insight es compatible con el cifrado de la plataforma Salesforce (Shield).
 
-1. Vaya a la página de [AppExchange de Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) y haga clic en **Obtener ahora**.
+1. Vaya a la página de [AppExchange de Marketing to Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) y haga clic en **Get it Now**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Iniciar sesión en el botón de AppExchange** e inicie sesión con las credenciales de Salesforce.
-1. Introduzca el inicio de sesión de la cuenta de Salesforce conectada y haga clic en **Instalar en producción**.
+1. Haga clic en **Iniciar sesión en el botón AppExchange** e inicie sesión con las credenciales de Salesforce.
+1. Introduzca el inicio de sesión de cuenta de Salesforce conectado y haga clic en **Instalar en producción**.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Si desea probarlo primero en el simulador para pruebas, elija **Instalar en Simulador para pruebas**.
+   >Si desea probarlo primero en el simulador para pruebas, elija **Instalar en el Simulador para pruebas**.
 
 1. Lea y acepte los términos y condiciones, luego haga clic en** Confirmar e instalar**.
 
@@ -56,7 +56,7 @@ Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesfo
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Busque &quot;objetos&quot; y, a continuación, haga clic en **Objetos** en **Crear**.
+1. Busque &quot;objetos&quot; y haga clic en **Objetos** en **Crear**.
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
@@ -68,7 +68,7 @@ Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesfo
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. En la sección Estado **** de implementación, seleccione **Implementado** y haga clic en **Guardar**.
+1. En la sección **Estado de implementación**, seleccione **Implementado** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
