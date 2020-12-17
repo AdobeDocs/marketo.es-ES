@@ -19,15 +19,15 @@ Conectarse a Gmail significa recibir el seguimiento de respuestas, el acceso al 
 
    ![](assets/one.png)
 
-1. En Mi cuenta, seleccione Configuración **de correo electrónico**.
+1. En Mi cuenta, seleccione **Configuración de correo electrónico**.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha Conexión **de** correo electrónico.
+1. Haga clic en la ficha **Conexión de correo electrónico**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Comenzar**.
+1. Haga clic en **Introducción**.
 
    ![](assets/four.png)
 
@@ -51,5 +51,5 @@ Conectarse a Gmail significa recibir el seguimiento de respuestas, el acceso al 
 
    ![](assets/nine.png)
 
-   Puede utilizar esta conexión para rastrear correos electrónicos y también [como canal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)de envío.
+   Puede utilizar esta conexión para rastrear correos electrónicos y también [como canal de envío](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
