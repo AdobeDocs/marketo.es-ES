@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Si recibe el mensaje de error &quot;No hemos podido autenticar su solicitud&quot; al intentar conectar Sales Connect con Salesforce, puede haber una restricción en su acceso a la API de Salesforce. Póngase en contacto con el administrador de Salesforce para asegurarse de que existen los siguientes elementos.
 
-## Habilitar API en permisos de usuario {#enable-api-in-user-permissions}
+## Habilitar API en Permisos de usuario {#enable-api-in-user-permissions}
 
 1. Tener un registro de administrador de Salesforce en SFDC.
 1. Seleccione **Configuración**.
 1. Seleccione **Administrar usuarios**.
 1. Seleccione **Perfiles**.
 1. Busque el Perfil en el que se encuentran los usuarios de ToutApp y haga clic en **Editar**.
-1. Desplácese hacia abajo hasta Permisos **** administrativos y asegúrese de que la opción **API habilitada** está activada.
+1. Desplácese hacia abajo hasta **Permisos administrativos** y asegúrese de que **API habilitada** está marcada.
 
 ## Compruebe si Salesforce bloquea la conexión de Sales Connect {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. Inicie sesión en SFDC con el administrador de Salesforce.
 1. Seleccione **Configuración**.
 1. Seleccione **Administrar aplicaciones**.
-1. Seleccione **Aplicaciones conectadas Uso de OAuth**.
+1. Seleccione **Uso de OAuth de aplicaciones conectadas**.
 1. Asegúrese de que Sales Connect muestra &quot;Bloque&quot; junto a él. Si ve &quot;Desbloquear&quot;, haga clic en el botón para desbloquear el acceso de Sales Connect a Salesforce.
 
