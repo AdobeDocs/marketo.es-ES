@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Paso 2 de 3: Configuración del usuario de sincronización de marketing en Dynamics (On-premies 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Paso 2 de 3: Configurar usuario de sincronización de marketing en Dynamics (On-premies 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Bueno trabajo al completar los pasos anteriores, sigamos avanzando.
 
@@ -43,11 +43,11 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. Aquí verá una lista de usuarios. Seleccione el usuario de sincronización de Marketing dedicado o póngase en contacto con el administrador de [Active Directory Federation Services (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) para crear un nuevo usuario dedicado a Marketing. Haga clic en **Administrar funciones**.
+1. Aquí verá una lista de usuarios. Seleccione el usuario de sincronización de Marketing dedicado o póngase en contacto con el administrador de [Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) para crear un nuevo usuario dedicado a Marketing. Haga clic en **Administrar funciones**.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
-1. Marque **para sincronizar usuario** y haga clic en **Aceptar**.
+1. Marque **Usuario de sincronización de marketing** y haga clic en **Aceptar**.
 
    ![](assets/image2015-4-2-14-3a15-3a0.png)
 
@@ -57,7 +57,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    >[!NOTE]
    >
-   >Las actualizaciones realizadas en su CRM por el usuario de sincronización **no se sincronizarán** de nuevo con Marketing.
+   >Cualquier actualización realizada en su CRM por el usuario de sincronización **no** se sincronizará de nuevo con Marketing.
 
 ## Configurar la solución de marketing {#configure-marketo-solution}
 
@@ -69,7 +69,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    >[!NOTE]
    >
-   >Si falta la configuración de Marketing to, intente actualizar la página. Si el problema persiste, [publique de nuevo](step-1-of-3-install.md) la solución de marketing o cierre la sesión y vuelva a iniciarla.
+   >Si falta la configuración de Marketing to, intente actualizar la página. Si el problema persiste, [vuelva a publicar la solución de Marketing to](step-1-of-3-install.md) o cierre la sesión y vuelva a iniciarla.
 
 1. Haga clic en **Predeterminado**.
 
