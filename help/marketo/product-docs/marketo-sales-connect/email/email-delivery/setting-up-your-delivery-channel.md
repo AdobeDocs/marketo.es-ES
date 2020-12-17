@@ -17,25 +17,25 @@ Al realizar el inicio con MarketingTo Sales Connect, deberá configurar un servi
 
 >[!NOTE]
 >
->Además de configurar el servidor SMTP, debe comprobar [su identidad de](http://docs.marketo.com/x/ewPh) correo electrónico antes de poder enviar correos electrónicos.
+>Además de configurar el servidor SMTP, su identidad de [correo electrónico debe verificarse](http://docs.marketo.com/x/ewPh) para poder enviar correos electrónicos.
 
 Puede elegir entre enviar correos electrónicos mediante un servidor SMTP personalizado, un servidor SMTP de equipo o Gmail como canal de envío. Pasemos cada opción.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Inicie sesión en la aplicación [](http://toutapp.com/login)web, haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/one.png)
 
-1. En Mi cuenta, haga clic en Configuración **de correo electrónico**.
+1. En Mi cuenta, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/two.png)
 
-1. Seleccione **Servidor** SMTP.
+1. Seleccione **Servidor SMTP**.
 
    ![](assets/three.png)
 
-1. Introduzca las credenciales del servidor SMTP y haga clic en **Connect**.
+1. Introduzca las credenciales del servidor SMTP y haga clic en **Conectar**.
 
    ![](assets/four.png)
 
@@ -47,11 +47,11 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
 
    ![](assets/five.png)
 
-1. Busque la identidad de correo electrónico para la que desea elegir un canal de envío y haga clic en **Elegir Canal** de Envío.
+1. Busque la identidad de correo electrónico para la que desea elegir un canal de envío y haga clic en **Elegir Canal de Envío**.
 
    ![](assets/six.png)
 
-1. En la Tarjeta de entrega, haga clic en **Editar**.
+1. En la tarjeta de entregabilidad, haga clic en **Editar**.
 
    ![](assets/seven-new.png)
 
@@ -65,13 +65,13 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
 
    **Ver un video**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
-## Team SMTP Server {#team-smtp-server}
+## Servidor SMTP de equipo {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. Inicie sesión en la aplicación [](http://toutapp.com/login)web, haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/nine.png)
 
@@ -79,7 +79,7 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
 
    ![](assets/ten.png)
 
-1. Introduzca las credenciales del servidor SMTP y haga clic en **Connect**.
+1. Introduzca las credenciales del servidor SMTP y haga clic en **Conectar**.
 
    ![](assets/eleven.png)
 
@@ -91,15 +91,15 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
 
 ## Gmail {#gmail}
 
-1. Inicie sesión en la aplicación [](http://toutapp.com/login)web, haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/twelve.png)
 
-1. En Mi cuenta, haga clic en Configuración **de correo electrónico**.
+1. En Mi cuenta, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/thirteen.png)
 
-1. Haga clic en Sincronizar **correo electrónico**.
+1. Haga clic en **Sincronización de correo electrónico**.
 
    ![](assets/fourteen.png)
 
