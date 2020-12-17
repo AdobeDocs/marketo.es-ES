@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Probar correo electrónico no mostrado como visualizado {#test-email-not-showed-as-viewed}
+# Probar correo electrónico no mostrado como visto {#test-email-not-showed-as-viewed}
 
 Aunque hayas enviado tu mensaje a otra dirección de correo electrónico, no te registraremos viendo ningún correo electrónico que te hayas enviado en la fuente en directo. Nuestro seguimiento está basado en dispositivos; siempre que utilice un equipo con el que haya iniciado sesión en Sales Connect, filtraremos esa actividad.
 
@@ -19,7 +19,7 @@ Aunque hayas enviado tu mensaje a otra dirección de correo electrónico, no te 
 
 Así es como llegar al único lugar donde mostraremos el auto-seguimiento.
 
-1. Vaya al Centro [de comandos](http://toutapp.com/next#emails/command_center).
+1. Vaya al [Centro de comandos](http://toutapp.com/next#emails/command_center).
 1. Busque el correo electrónico que se envió en la carpeta Enviados y selecciónelo.
-1. Haga clic en el botón **Detalles** . Deberías ver tus propias vistas que aparecen ahí.
+1. Haga clic en el botón **Detalles**. Deberías ver tus propias vistas que aparecen ahí.
 
