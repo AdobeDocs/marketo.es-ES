@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bienvenido a Documentos de marketing {#welcome-to-marketo-docs}
+# Bienvenido a Marketo Docs {#welcome-to-marketo-docs}
 
 Documentación del producto de marketing
 
