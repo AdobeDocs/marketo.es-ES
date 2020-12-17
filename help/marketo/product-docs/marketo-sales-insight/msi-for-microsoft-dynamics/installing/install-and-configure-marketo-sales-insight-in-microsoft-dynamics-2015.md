@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Instalación y configuración de Marketingto Sales Insight en Microsoft Dynamics 2015 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics 2015 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 La perspectiva de ventas de marketing es una herramienta fantástica para dar a su equipo de ventas una &quot;ventana&quot; a la abundancia de datos que posee el equipo de mercadotecnia. A continuación se muestra cómo instalarlo y configurarlo en Microsoft Dynamics 2011
 
 >[!PREREQUISITES]
 >
->Complete la integración [de Marketing con Microsoft](http://docs.marketo.com/x/ZwBd).
+>Complete la integración [de Marketing a Microsoft](http://docs.marketo.com/x/ZwBd).
 >
->[Descargue la solución](http://docs.marketo.com/x/LoJo) correcta para su versión de Microsoft Dynamics CRM.
+>[Descargue la ](http://docs.marketo.com/x/LoJo) solución correcta para su versión de Microsoft Dynamics CRM.
 
 ## Importar solución {#import-solution}
 
@@ -88,11 +88,11 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. En la sección Perspectiva de ventas, haga clic en **Editar configuración** de API.
+1. En la sección Perspectiva de ventas, haga clic en **Editar configuración de API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copie el host **de** marketing, la URL **de la** API y el ID **de usuario de la** API para utilizarlos en un paso posterior. Introduzca una clave secreta de API de su elección y haga clic en **Guardar**.
+1. Copie el **host de marketing**, **URL de API** y el **ID de usuario de API** para usarlos en un paso posterior. Introduzca una clave secreta de API de su elección y haga clic en **Guardar**.
 
    >[!CAUTION]
    >
@@ -102,7 +102,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    >[!NOTE]
    >
-   >Para que funcionen los campos siguientes se deben sincronizar con Marketing para que *tanto Posible cliente como Contacto* para la perspectiva de ventas:
+   >Los siguientes campos deben sincronizarse con Marketing para *Posible cliente y Contacto* para que Sales Insight funcione:
    >
    >    
    >    
@@ -118,7 +118,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. En **Configuración**, haga clic en **Configuración** de la API de marketing.
+1. En **Configuración**, haga clic en **Configuración de API de marketing**.
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
@@ -130,7 +130,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/image2014-12-12-9-3a8-3a17.png)
 
-## Definir acceso de usuario {#set-user-access}
+## Establecer acceso de usuario {#set-user-access}
 
 Por último, tiene que dar acceso a usuarios específicos para utilizar la Perspectiva de ventas de Marketing to.
 
@@ -146,7 +146,7 @@ Por último, tiene que dar acceso a usuarios específicos para utilizar la Persp
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. Seleccione los usuarios a los que desea dar acceso a la perspectiva de ventas y haga clic en **Administrar funciones**.
+1. Seleccione los usuarios a los que desea dar acceso a Sales Insight y haga clic en **Administrar funciones**.
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
