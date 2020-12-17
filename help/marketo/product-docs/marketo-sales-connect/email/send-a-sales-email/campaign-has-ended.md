@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Campaña finalizada {#campaign-has-ended}
+# La campaña ha finalizado {#campaign-has-ended}
 
 Si ve un mensaje de correo electrónico en la carpeta Envío fallido que dice &quot;la campaña ha finalizado&quot;, significa que este mensaje de correo electrónico en particular fue un correo electrónico programado en su campaña.
 
-## Posibles razones por las que falló {#possible-reasons-it-failed}
+## Posibles razones por las que se produjo un error {#possible-reasons-it-failed}
 
 * El correo electrónico antes de la devolución
 * Un contacto respondió y puso fin a la campaña
