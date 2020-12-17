@@ -23,7 +23,7 @@ Personalice una presentación seleccionando una imagen de fondo.
 
 
 
-1. Haga clic con el botón derecho en una presentación y seleccione Ajustes de **Vista**.
+1. Haga clic con el botón derecho en una presentación y seleccione **Configuración de Vista**.
 
    >[!NOTE]
    >
@@ -39,7 +39,7 @@ Personalice una presentación seleccionando una imagen de fondo.
 
    >[!TIP]
    >
-   >Para obtener el aspecto más limpio, utilice una imagen de **1920 x 1080** o **1280 x 720**.
+   >Para obtener el aspecto más limpio, utilice una imagen que sea **1920 x 1080** o **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
