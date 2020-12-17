@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reprogramación de una Campaña inteligente por lotes en la Vista de Calandario del programa {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Reprogramar una Campaña inteligente por lotes en la Vista de Calandario del programa {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 ¿Desea volver a programar una ejecución de campañas inteligentes por lotes? Arrástrelos y suéltelos en el futuro en la vista de calandario del programa.
 
