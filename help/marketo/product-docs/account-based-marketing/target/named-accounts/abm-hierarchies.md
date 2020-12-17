@@ -35,7 +35,7 @@ Uso de la jerarquía
 >
 >La interfaz de Marketing solo se mostrará en 10 niveles (cuentas secundarias y de nietos de la cuenta principal), pero no hay límite en el número de cuentas secundarias que puede crear.
 
-Destinatario e informe de jerarquías enteras con [un solo clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Destinatario e informe de jerarquías enteras con [un clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
 
 ![](assets/member.png)
 
