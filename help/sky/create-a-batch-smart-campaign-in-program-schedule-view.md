@@ -24,7 +24,7 @@ Puede crear nuevas campañas inteligentes por lotes directamente en el calendari
 
    ![Imagen uno](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-1.png)
 
-1. Pase el ratón sobre el día en el que desee agregar una entrada y, a continuación, haga clic en **[!UICONTROL Añadir]**.
+1. Pase el ratón sobre el día en el que desee agregar una entrada y haga clic en **[!UICONTROL Añadir]**.
 
    ![Imagen dos](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
 
@@ -32,7 +32,7 @@ Puede crear nuevas campañas inteligentes por lotes directamente en el calendari
    >
    >También puede seguir pasos similares para crear una campaña inteligente por lotes a partir de las vistas Día, Semana o Agenda.
 
-1. Escriba un nombre para la nueva campaña inteligente y, a continuación, cambie **[!UICONTROL Tipo]** a Campaña inteligente. También puede modificar la fecha **[!UICONTROL de]** Inicio y desmarcar la Vista **** Abrir en la agenda si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un nombre para la nueva campaña inteligente y luego cambie **[!UICONTROL Tipo]** a [!UICONTROL Campaña inteligente]. También puede modificar la **[!UICONTROL Fecha de Inicio]** y desmarcar **[!UICONTROL Abrir en la Vista del programa]** si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen tres](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
