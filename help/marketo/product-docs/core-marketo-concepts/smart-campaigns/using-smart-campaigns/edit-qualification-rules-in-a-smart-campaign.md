@@ -36,7 +36,7 @@ Las reglas de cualificación controlan cuántas veces alguien puede pasar por el
    >**Recordatorio**
    >
    >
-   >Los límites de comunicación no se aplican a campañas inteligentes de forma predeterminada. Aprenda a [aplicar límites de comunicación a una campaña](apply-communication-limits-to-smart-campaign.md)inteligente.
+   >Los límites de comunicación no se aplican a campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicar límites de comunicación a una campaña inteligente](apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
