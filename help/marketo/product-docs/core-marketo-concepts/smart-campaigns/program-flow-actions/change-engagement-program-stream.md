@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Normalmente, se utilizan reglas [de transición de](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) flujo para conseguirlo, pero si se desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que se debe utilizar.
+Normalmente, se usarían [reglas de transición de flujo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para lograrlo, pero si se desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que se debe utilizar.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
