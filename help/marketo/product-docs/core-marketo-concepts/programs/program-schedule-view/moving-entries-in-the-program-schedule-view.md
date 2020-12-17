@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Movimiento de entradas en la Vista Calandario del programa {#moving-entries-in-the-program-schedule-view}
+# Movimiento de entradas en la Vista de Calandario del programa {#moving-entries-in-the-program-schedule-view}
 
 Si se mueven entradas en la vista de programación, se volverán a programar automáticamente.
 
