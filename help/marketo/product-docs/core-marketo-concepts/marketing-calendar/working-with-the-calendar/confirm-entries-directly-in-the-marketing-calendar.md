@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Las campañas inteligentes y los programas de correo electrónico pueden crearse como entradas tentativas y deben confirmarse para que cualquier cosa pueda suceder realmente. Así es como.
 
-1. Vaya al **calendario**.
+1. Vaya al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Seleccione la entrada que desee confirmar y haga clic en **Mostrar enfoque** de Programa.
+1. Seleccione la entrada que desee confirmar y haga clic en **Mostrar enfoque de Programa**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
