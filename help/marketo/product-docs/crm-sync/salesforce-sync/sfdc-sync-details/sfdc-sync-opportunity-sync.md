@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sincronización SFDC: Sincronización de oportunidades {#sfdc-sync-opportunity-sync}
+# Sincronización SFDC: Sincronización de oportunidad {#sfdc-sync-opportunity-sync}
 
 ## ¿Cómo se mantienen sincronizados los detalles de oportunidad entre los dos sistemas? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -19,7 +19,7 @@ La sincronización es de una manera: de Salesforce a Marketing. Las actualizacio
 
 >[!NOTE]
 >
->Las [credenciales introducidas en Marketing para Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar los datos. Solo se incluirán los datos a los que tienen acceso esas credenciales.
+>Las [credenciales introducidas en Marketing para Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar datos. Solo se incluirán los datos a los que tienen acceso esas credenciales.
 
 ## ¿Puedo iniciar una sincronización de oportunidad? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,15 +27,15 @@ No, no puedes. Los cambios realizados en cualquier oportunidad de Salesforce se 
 
 ## ¿Es compatible Marketing con más de una moneda en la cantidad de oportunidad? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo solo admite una moneda. La cantidad de oportunidad se sincronizará desde Salesforce, pero la moneda será la moneda [predeterminada](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) en la suscripción de marketing.
+No, Marketo solo admite una moneda. La cantidad de oportunidad se sincronizará desde Salesforce, pero la moneda será la [divisa predeterminada](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription) en la suscripción de Marketing.
 
 ## ¿Cómo asocia Marketing a oportunidades y contactos? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo asocia oportunidades y contactos mediante las funciones [de contacto de](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)oportunidad. Las oportunidades sin ninguna función de contacto asignada se sincronizarán con Marketing, pero no pertenecerán a nadie. Por ejemplo, la persona no calificará el filtro Tiene oportunidad.
+Marketing asocia oportunidades y contactos mediante [Funciones de contacto de oportunidad](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). Las oportunidades sin ninguna función de contacto asignada se sincronizarán con Marketing, pero no pertenecerán a nadie. Por ejemplo, la persona no calificará el filtro Tiene oportunidad.
 
 ## ¿Cómo puedo ver todas las oportunidades de una persona? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-Puede vista de una lista de oportunidades en la ficha Información **de** oportunidad de la página Detalles [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persona.
+Puede vista de una lista de oportunidades en la ficha **Información de oportunidad** de la página [Detalles de persona](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ## ¿Cuáles son los activadores/filtros relacionados con la oportunidad? {#what-are-the-triggers-filters-related-to-opportunity}
 
