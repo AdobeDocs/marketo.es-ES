@@ -31,16 +31,16 @@ Puede agregar fácilmente leads o contactos a campañas inteligentes de Marketin
 
    ![](assets/three.png)
 
-1. En el registro, desplácese hacia abajo hasta el área de perspectiva de ventas de marketing, haga clic en la lista desplegable **Acciones** , seleccione **Añadir a la Campaña de marketing** y haga clic **en Ir.**
+1. En el registro, desplácese hacia abajo hasta el área de perspectiva de ventas de Marketing to, haga clic en la lista desplegable **Acciones**, seleccione **Añadir a Campaña de marketing,** y haga clic **Ir.**
 
    ![](assets/four.png)
 
-1. Haga clic en la lista desplegable Nombre **de la** Campaña, seleccione la campaña de marketing que desee y haga clic en **Añadir a la Campaña** de marketing.
+1. Haga clic en la lista desplegable **Nombre de la Campaña**, seleccione la campaña de marketing que desee y haga clic en **Añadir a la Campaña de marketing**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Para que la campaña aparezca en la lista desplegable, utilice el activador [**de** Campaña solicitada](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con **Sales Insight** como fuente, cuando configure la campaña.
+   >Para que la campaña aparezca en la lista desplegable, utilice el activador [**Campaña solicitada**](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con **perspectiva de ventas** como origen, cuando configure la campaña.
 
 ¡Y eso es todo! La persona se agrega a la campaña de marketing.
