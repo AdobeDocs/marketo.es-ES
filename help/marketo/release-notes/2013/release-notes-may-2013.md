@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Notas de la versión: Mayo de 2013 {#release-notes-may}
 
-Las siguientes funciones se incluyen en la versión de mayo. Consulte la disponibilidad de funciones en [Marketing](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) .
+Las siguientes funciones se incluyen en la versión de mayo. Verifique la disponibilidad de las funciones [Marketing](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php).
 
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la comunidad para ver los artículos detallados de la base de conocimiento de cada función.
+Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
 ## Archivos de calendario para Páginas de aterrizaje {#calendar-files-for-landing-pages}
 
@@ -35,7 +35,7 @@ Encuentre acciones de flujo más rápido con el árbol de acciones de flujo reci
 
 ![](assets/image2014-9-22-16-3a3-3a58.png)
 
-## Acciones de flujo con nombre cambiado {#renamed-flow-actions}
+## Acciones de flujo renombradas {#renamed-flow-actions}
 
 Cambiar estado de progresión ahora es Cambiar estado de Programa. Cambiar datos de Programa ahora cambia el éxito de Programa
 
