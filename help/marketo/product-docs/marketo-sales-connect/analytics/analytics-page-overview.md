@@ -21,9 +21,9 @@ La página de análisis se actualiza cada diez minutos.
 
 ## ¿Qué significan los números? {#what-do-the-numbers-mean}
 
-Los números dentro del `radials` están calculando el número total de eventos en todos los correos electrónicos enviados. Así que si `single same email is viewed five times, it will add five views`a este número. La misma idea se aplica a los clics y las respuestas contadas dentro del círculo.
+Los números dentro de `radials` calculan el número total de eventos en todos los correos electrónicos enviados. Así que si `single same email is viewed five times, it will add five views`a este número. La misma idea se aplica a los clics y las respuestas contadas dentro del círculo.
 
-Todas nuestras estadísticas dentro del `table` se calcularán mirando las vistas únicas, los clics y las respuestas a sus correos electrónicos. Si `one email is viewed five times, we will count that as one view.` es por eso que pueden ver una gran diferencia en los números en las tablas frente a los números en el radio.
+Todas las estadísticas que se mantienen dentro del `table` se calcularán mirando las vistas, clics y respuestas únicas a sus correos electrónicos. Si `one email is viewed five times, we will count that as one view.` es por eso que puede ver una gran diferencia en los números de las tablas frente a los números del radio.
 
 ## Fichas analíticas {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Aquí puede ver estadísticas y clasificaciones de todo su equipo. También pued
 
 La ficha de contenido contiene estadísticas sobre plantillas, contenido y vínculos. Puede filtrar por todos o por equipos que los administradores hayan creado.
 
-Si aparece texto azul debajo de la columna de asunto, significa que la plantilla está `shared`. Puede hacer clic en el texto azul para ir a esa plantilla. Haga clic en Análisis **de plantilla** para vista de su uso.
+Si aparece texto azul bajo la columna de asunto, significa que la plantilla es `shared`. Puede hacer clic en el texto azul para ir a esa plantilla. Haga clic en **Análisis de plantillas** para vista de su uso.
 
 Los &quot;clics en contenido&quot; se cuentan cuando un destinatario hace clic en un vínculo del correo electrónico.
