@@ -20,7 +20,7 @@ A continuación se muestra cómo configurar un token de Campaña de CRM para uti
 >
 >CAMPAÑA CRM Mis tokens solo están disponibles para integraciones de Salesforce.
 
-1. En la ficha Mis tokens del programa o la carpeta, arrastre un distintivo de Campaña **** CRM al lienzo de tokens locales.
+1. En la ficha Mis tokens del programa o la carpeta, arrastre un distintivo **[!UICONTROL Campaña de CRM]** al lienzo de tokens locales.
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
