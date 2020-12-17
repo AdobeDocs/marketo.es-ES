@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede clonar rápida y fácilmente un programa completo y todos sus recursos en lugar de reconstruir todo manualmente. Así es como.
 
-1. Busque y seleccione el programa que desea clonar y, a continuación, en Acciones **de** Programa, haga clic en **Clonar.**
+1. Busque y seleccione el programa que desea clonar, luego en **Acciones de Programa** haga clic en **Clonar.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Puede clonar rápida y fácilmente un programa completo y todos sus recursos en 
 
    >[!NOTE]
    >
-   >Los programas se pueden clonar en [campañas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) de [carpetas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [espacios de trabajo](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Asegúrese de compartir todos los recursos dependientes subyacentes (correos electrónicos, fragmentos de código, plantillas de página de aterrizaje, etc.) con el espacio de trabajo de destino antes de clonar.
+   >Los programas se pueden clonar en [campaña](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [carpetas](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [espacios de trabajo](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Asegúrese de compartir todos los recursos dependientes subyacentes (correos electrónicos, fragmentos de código, plantillas de página de aterrizaje, etc.) con el espacio de trabajo de destino antes de clonar.
 
    ![](assets/cloneto.png)
 
@@ -47,7 +47,7 @@ Puede clonar rápida y fácilmente un programa completo y todos sus recursos en 
 
    >[!TIP]
    >
-   >Utilice esta técnica junto con [los tokens](http://docs.marketo.com/display/docs/using+tokens) para crear nuevos programas de forma instantánea.
+   >Utilice esta técnica junto con [tokens](http://docs.marketo.com/display/docs/using+tokens) para hacer que la creación de un nuevo programa sea instantánea.
 
    >[!CAUTION]
    >
