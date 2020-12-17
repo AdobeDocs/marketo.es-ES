@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Las reglas de cualificación controlan cuántas veces alguien puede pasar por el flujo en una campaña inteligente. De forma predeterminada, aunque alguien active una campaña inteligente varias veces, solo se enviará una vez a través del flujo. A continuación se explica cómo modificar esa configuración.
 
-1. Seleccione la campaña y vaya a la ficha **[!UICONTROL Programar]** .
+1. Seleccione la campaña y vaya a la ficha **[!UICONTROL Programar]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
@@ -30,7 +30,7 @@ Las reglas de cualificación controlan cuántas veces alguien puede pasar por el
 
    >[!NOTE]
    >
-   >Cuando establece una regla por una vez cada día, [!DNL Marketo] la convierte en horas. Por ejemplo: si establece la regla para una vez por día y una persona cumple los requisitos a las 10 p.m. de un domingo por la noche, no podrá volver a cumplir los requisitos hasta las 10 p.m. del lunes por la noche.
+   >Cuando configura una regla por una vez cada día, [!DNL Marketo] la convierte en horas. Por ejemplo: si establece la regla para una vez por día y una persona cumple los requisitos a las 10 p.m. de un domingo por la noche, no podrá volver a cumplir los requisitos hasta las 10 p.m. del lunes por la noche.
    >
    >Esta lógica también se aplica cuando se utilizan semanas o meses. Un mes siempre se cuenta como 30 días.
 
@@ -42,4 +42,4 @@ Las reglas de cualificación controlan cuántas veces alguien puede pasar por el
 
 **Recordatorio**
 
-Los límites de comunicación no se aplican a campañas inteligentes de forma predeterminada. Aprenda a [aplicar límites de comunicación a una campaña](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign)inteligente.
+Los límites de comunicación no se aplican a campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicar límites de comunicación a una campaña inteligente](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign).
