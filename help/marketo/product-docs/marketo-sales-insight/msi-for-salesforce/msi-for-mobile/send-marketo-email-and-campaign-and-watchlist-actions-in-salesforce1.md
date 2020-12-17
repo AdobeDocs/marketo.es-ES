@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Enviar mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Enviar un mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Vaya al área Detalle de posibles clientes en Salesforce1 y haga clic en la ficha **Relacionado** .
+1. Vaya al área Detalle de posibles clientes en Salesforce1 y haga clic en la ficha **Relacionado**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >¿Qué campañas inteligentes aparecen? Los activadores con &quot;Campaña solicitada&quot;. Obtenga información sobre cómo configurar una campaña [activada mediante &quot;Campaña solicitada](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >¿Qué campañas inteligentes aparecen? Los activadores con &quot;Campaña solicitada&quot;. Obtenga información sobre cómo configurar una [campaña desencadenada mediante &quot;Campaña solicitada](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Genial, ahora los vendedores pueden participar activamente en el esfuerzo de mercadotecnia.
 
