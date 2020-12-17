@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Cuando una persona es miembro de un programa de participación, recibirá contenido hasta que haya [agotado todo el contenido](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Puede utilizar el paso de flujo de Cadencia [de Programa de compromiso de](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) cambio para evitar que las personas reciban contenido aunque aún no lo hayan agotado.
+Cuando una persona es miembro de un programa de participación, recibirá contenido hasta que [haya agotado todo el contenido](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). Puede utilizar el paso de flujo [Cambiar la cadencia de Programa de compromiso](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) para evitar que las personas reciban contenido aunque aún no lo hayan agotado.
 
-1. En la campaña inteligente, elija la persona o personas que desee pausar en la lista inteligente. A continuación, en el flujo, busque y arrastre la acción de flujo de Programa de **[!UICONTROL cambio de compromiso]** .
+1. En la campaña inteligente, elija la persona o personas que desee pausar en la lista inteligente. A continuación, en el flujo, busque y arrastre la acción de flujo **[!UICONTROL Cambiar la secuencia de Programa de compromiso]**.
 
    ![Imagen uno](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -24,11 +24,11 @@ Cuando una persona es miembro de un programa de participación, recibirá conten
 
    ![Imagen dos](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. Seleccione **[!UICONTROL Pausado]** como nuevo valor para evitar que la persona reciba contenido.
+1. Seleccione **[!UICONTROL Pausado]** como Nuevo valor para evitar que la persona reciba contenido.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-Puede volver a establecer la persona en **[!UICONTROL Normal]** si desea que comience a recibir contenido de nuevo. Se reanudarán donde se quedaron.
+Puede volver a establecer la persona en **[!UICONTROL Normal]** si desea que comience a recibir contenido nuevamente. Se reanudarán donde se quedaron.
 
 >[!NOTE]
 >
