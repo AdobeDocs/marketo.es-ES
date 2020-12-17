@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga estos pasos para realizar inicios mediante la generación de perfiles de cuenta.
 
-1. En Mi marketing, abra Marketing **basado en** cuenta.
+1. En Mi marketing, abra **Marketing basado en cuenta**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Siga estos pasos para realizar inicios mediante la generación de perfiles de cu
 
    ![](assets/two-1.png)
 
-1. La ficha Modelo se abre de forma predeterminada. Haga clic en **Comenzar**.
+1. La ficha Modelo se abre de forma predeterminada. Haga clic en **Introducción**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Siga estos pasos para realizar inicios mediante la generación de perfiles de cu
 
    ![](assets/five.png)
 
-1. Para ver los resultados del modelo, haga clic en **Ver resultado** del modelo.
+1. Para ver los resultados de su modelo, haga clic en **Ver resultado del modelo**.
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ Siga estos pasos para realizar inicios mediante la generación de perfiles de cu
 
    >[!TIP]
    >
-   >Ahora que se ha creado el modelo, aprenda a ajustarlo en Información general sobre [perfiles de](http://docs.marketo.com/x/NIDv)cuenta.
+   >Ahora que se ha creado el modelo, aprenda a ajustarlo en la [Información general de perfil de cuenta](http://docs.marketo.com/x/NIDv).
 
