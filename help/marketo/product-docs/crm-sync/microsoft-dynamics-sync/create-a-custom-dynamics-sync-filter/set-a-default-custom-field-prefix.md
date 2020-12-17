@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definir un prefijo de campo personalizado predeterminado {#set-a-default-custom-field-prefix}
 
-El prefijo predeterminado de Microsoft Dynamics para los campos personalizados debe ser **nuevo** para que los campos propietarios de Marketing se sincronizen correctamente. A continuación se explica cómo cambiar el prefijo predeterminado.
+El prefijo predeterminado de Microsoft Dynamics para los campos personalizados debe ser **nuevo** para que los campos propietarios de Marketing puedan sincronizarse correctamente. A continuación se explica cómo cambiar el prefijo predeterminado.
 
 1. Vaya a Configuración y seleccione **Personalizaciones.**
 
@@ -29,7 +29,7 @@ El prefijo predeterminado de Microsoft Dynamics para los campos personalizados d
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Cambie el prefijo a **nuevo**. Haga clic en **Guardar y cerrar**.
+1. Cambie el prefijo a **new**. Haga clic en **Guardar y cerrar**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
