@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Programar Programas de participación con huso horario de Destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
-Cuando se [programa una secuencia](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) de programa de participación y la zona horaria de destinatario está activa, la emisión de programa se inicio cuando se ejecuta a medianoche en la primera zona horaria (UTC +14:00). Le pedimos que programe la primera emisión **al menos 25 horas** en el futuro porque puede haber personas que califiquen para la emisión en cada zona horaria en todo el mundo. El inicio del procesamiento en este momento en el primer huso horario garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada destinatario.
+Cuando [programe un flujo de programas de participación](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) y el huso horario de destinatario esté activo, el reparto de programas se inicio cuando se ejecute a medianoche en el primer huso horario (UTC +14:00). Le solicitamos que programe el primer reparto **al menos 25 horas** en el futuro, porque puede haber personas que califiquen para el reparto en cada zona horaria en todo el mundo. El inicio del procesamiento en este momento en el primer huso horario garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada destinatario.
 
 1. En el programa de participación, vaya a la ficha **Flujos** y haga clic en el programa de cadencia de un flujo para editarlo.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Configure](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) la cadencia como lo haría normalmente y, a continuación, marque la casilla **Zona horaria del Destinatario ***a. Recuerde que su primer reparto debe ser de al menos 25 horas en el futuro. Haga clic en **Guardar**.
+1. [Configure la ](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) configuración de cadencia como lo haría normalmente y, a continuación, marque la casilla **Zona horaria del Destinatario **. Recuerde que su primer reparto debe ser de al menos 25 horas en el futuro. Haga clic en **Guardar**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
