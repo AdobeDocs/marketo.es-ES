@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# El complemento Sales Connect no se muestra en Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
+# El complemento de Sales Connect no se muestra en Gmail {#sales-connect-plugin-not-showing-up-in-gmail}
 
 A partir de nuestra experiencia, puede probar algunas cosas si la barra de herramientas no aparece.
 
@@ -21,10 +21,10 @@ A partir de nuestra experiencia, puede probar algunas cosas si la barra de herra
 
 - Esto puede ser obvio, pero intente salir del explorador y abrir una ventana completamente nueva.
 
-- Diríjase a la aplicación [](http://toutapp.com/login) web y asegúrese de haber iniciado sesión allí.
+- Vaya a la [aplicación Web](http://toutapp.com/login) y asegúrese de haber iniciado sesión allí.
 
 - Asegúrese de que las cookies están habilitadas. Si utiliza Chrome, vaya a Configuración > Mostrar configuración avanzada > Configuración de contenido > Desmarcar &quot;Bloquear cookies de terceros y datos del sitio&quot;.
 
 - Intente desconectar y, a continuación, vuelva a conectar la extensión del explorador de Sales Connect.
 
-Si ninguno de los consejos anteriores ayudó, por favor [envíe un caso](http://nation.marketo.com/community/support_solutions) a Asistencia.
+Si ninguna de las sugerencias anteriores ayudó, [envíe un caso](http://nation.marketo.com/community/support_solutions) al Soporte técnico.
