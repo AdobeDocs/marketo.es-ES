@@ -18,7 +18,7 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
 >[!TIP]
 >
->También puede [volver a programar una campaña inteligente por lotes en la vista](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)de calandario del programa.
+>También puede [volver a programar una campaña inteligente por lotes en la vista de calandario del programa](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View).
 
 1. Seleccione la campaña inteligente por lotes que desee ejecutar.
 
@@ -28,7 +28,7 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. Seleccione **[!UICONTROL Establecer fecha y hora]** de ejecución, luego haga clic en el icono de calendario y seleccione la fecha en la que desee que se ejecute la campaña inteligente.
+1. Seleccione **[!UICONTROL Establecer fecha/hora de ejecución]**, luego haga clic en el icono del calendario y seleccione la fecha en la que desea que se ejecute la campaña inteligente.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
