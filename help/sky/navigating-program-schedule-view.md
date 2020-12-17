@@ -18,7 +18,7 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 
 ## Buscar la Vista Programar
 
-Seleccione el programa del árbol. En la ficha [!UICONTROL Detalles] , haga clic en [!UICONTROL Programar].
+Seleccione el programa del árbol. En la ficha [!UICONTROL Detalles], haga clic en [!UICONTROL Programar].
 
 ![Imagen uno](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ La Agenda muestra todas las entradas de un mes en particular.
 
 ## Configuración de vista
 
-En la esquina superior derecha de la vista de calandario del programa, haga clic en Configuración [!UICONTROL de] Vista para filtrar las entradas por [!UICONTROL Tentativa], [!UICONTROL Confirmada]o [!UICONTROL Finalizada].
+En la esquina superior derecha de la vista de calandario del programa, haga clic en [!UICONTROL Configuración de Vista] para filtrar las entradas por [!UICONTROL Tentative], [!UICONTROL Confirmed] y/o [!UICONTROL Finalizado].
 
 ![Imagen Cuatro](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
