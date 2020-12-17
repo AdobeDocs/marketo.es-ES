@@ -16,11 +16,11 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un token de vínculo para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de **vínculo** al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **Link** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-link/my-token-link-1.png)
 
-1. Escriba un nombre para el nuevo token de vínculo. A continuación, introduzca el [!UICONTROL texto]para mostrar, la [!UICONTROL URL]y el [!UICONTROL título] (etiqueta de título) y elija un [!UICONTROL Destinatario] en la lista desplegable.
+1. Escriba un nombre para el nuevo token de vínculo. A continuación, introduzca [!UICONTROL Mostrar texto], [!UICONTROL URL] y [!UICONTROL Título] (etiqueta de título) y elija un [!UICONTROL Destinatario] en la lista desplegable.
 
    ![Imagen dos](/help/sky/assets/my-tokens/my-token-link/my-token-link-2.png)
 
@@ -31,7 +31,7 @@ A continuación se muestra cómo configurar un token de vínculo para utilizarlo
    * Principal: Si hay marcos anidados en la página, abrirá el vínculo un nivel hacia arriba
    * Cuerpo completo: Abre el vínculo en la ventana principal
 
-1. Marque las casillas en el vínculo [!UICONTROL Rastrear para] elegir dónde desea que se rastreen los vínculos.
+1. Marque las casillas en [!UICONTROL Seguimiento del vínculo] para elegir dónde desea que se rastreen los vínculos.
 
    ![Imagen tres](/help/sky/assets/my-tokens/my-token-link/my-token-link-3.png)
 
