@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir vínculos rastreados a un correo electrónico de texto {#add-tracked-links-to-a-text-email}
+# Añadir vínculos rastreados a un mensaje de correo electrónico de texto {#add-tracked-links-to-a-text-email}
 
 >[!PREREQUISITES]
 >
