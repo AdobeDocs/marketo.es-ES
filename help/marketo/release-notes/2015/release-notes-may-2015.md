@@ -29,7 +29,7 @@ Estamos publicando un nuevo modo de edición de páginas de aterrizaje y una nue
 
 ¿Has hecho clic en Enviar antes de que un programa de correo electrónico estuviera listo para salir? Tire de los frenos con el nuevo botón de programa de correo electrónico de anulación. Esto detendrá los programas de correo electrónico en vuelo directamente en sus pistas.
 
-## Capacidad de entrega de correo electrónico  {#email-deliverability}
+## Capacidad de entrega de correo electrónico {#email-deliverability}
 
 Marketing ahora ejecutará comprobaciones automáticas de SPF y DKIM semanales en los dominios agregados. Manténgase a la altura de esto comprobando sus notificaciones.
 
@@ -37,7 +37,7 @@ Marketing ahora ejecutará comprobaciones automáticas de SPF y DKIM semanales e
 
 A partir de esta versión, los comentarios HTML válidos ahora se permiten y no se eliminan al crear nuevos correos electrónicos.
 
-## RTP: Editor de segmentos de arrastrar y soltar {#rtp-drag-and-drop-segment-editor}
+## RTP: Arrastrar y soltar el editor de segmentos {#rtp-drag-and-drop-segment-editor}
 
 RTP: [Editor de segmentos de arrastrar y soltar](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
