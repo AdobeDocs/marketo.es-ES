@@ -17,14 +17,14 @@ ht-degree: 0%
 
 Asegúrese de que está correctamente configurado con los tipos correctos de acceso e información. Realice estos sencillos pasos para que pueda comprobar algunas cosas de su lista de trabajo de inmediato.
 
-* Vea una breve descripción general de [**lo que hace**](https://pages2.marketo.com/demoFull.html)Marketing.
+* Vea una breve descripción general de [**lo que hace Marketing**](https://pages2.marketo.com/demoFull.html).
 
-* **Configure el perfil** en la comunidad de [**Marketing Nation**](https://nation.marketo.com/) (se requiere nombre de usuario y contraseña).
+* **Configure el** perfil en la comunidad  [**de Marketing**](https://nation.marketo.com/) Nationcommunity (se requiere nombre de usuario y contraseña).
 
-* Conozca cómo interactuar con la comunidad de [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) para obtener respuestas a sus preguntas.
+* Conozca cómo interactuar con la comunidad [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) para obtener respuestas a sus preguntas.
 
-* Haga clic en **Sus lugares** en el perfil de la comunidad de Marketing Nation para ver la página de cuenta de su compañía.
+* Haga clic en **Sus lugares** en el perfil de la comunidad de Marketingto Nation para ver la página de cuenta de su compañía.
 
-* Obtenga información sobre cómo [**enviar un caso**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) de asistencia (y confirmar que está [**configurado como contacto**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)de asistencia autorizado).
+* Descubra cómo [**enviar un caso de soporte**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) (y confirme que está [**configurado como un contacto de soporte autorizado**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)).
 
-* [**Administre usuarios**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) y elimine los que hayan abandonado la compañía.
+* [**Administre**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) usuarios y elimine los que hayan abandonado la compañía.
