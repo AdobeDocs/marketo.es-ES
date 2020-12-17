@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga estos pasos para crear manualmente una cuenta con nombre.
 
-1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione **Crear cuenta** con nombre.
+1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione **Crear cuenta con nombre**.
 
    ![](assets/two-1.png)
 
