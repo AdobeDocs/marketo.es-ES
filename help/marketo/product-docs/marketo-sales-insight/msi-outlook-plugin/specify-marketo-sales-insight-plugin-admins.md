@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede especificar los contactos que desea que aparezcan en el aviso de correo electrónico que envía a los usuarios cuando los invita a configurar MSI en Outlook.
 
-1. En Mi marketing, haga clic en **Administración** y, a continuación **, en Perspectiva de ventas.**
+1. En Mi marketing, haga clic en **Administración** y luego en **Perspectiva de ventas.**
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Haga clic en la ficha **Añadir** correo electrónico.
+1. Haga clic en la ficha **Añadir por correo electrónico**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Haga clic en **Especificar contacto** del complemento.
+1. Haga clic en **Especificar contacto del complemento**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
