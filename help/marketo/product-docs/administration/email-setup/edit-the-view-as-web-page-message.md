@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Editar el mensaje &quot;Vista como página web&quot; {#edit-the-view-as-web-page-message}
+# Editar el mensaje &quot;Vista como página Web&quot; {#edit-the-view-as-web-page-message}
 
-Si necesita editar el texto &quot; [Vista como página](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)web&quot;, así es como.
+Si necesita editar la Vista &quot; [como página Web](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, así es como.
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-## Editar el mensaje &quot;Vista como página web&quot; {#edit-the-view-as-web-page-message-1}
+## Editar el mensaje &quot;Vista como página Web&quot; {#edit-the-view-as-web-page-message-1}
 
 1. En **Administración**, haga clic en **Correo electrónico**.
 
@@ -36,7 +36,7 @@ Si necesita editar el texto &quot; [Vista como página](../../../product-docs/em
    >    
    >La segunda parte ##MKT_TOK## es la cookie munchkin de esa persona. Se asegura de que se les recopile correctamente al hacer clic en el vínculo.
 
-1. Edite la **Vista como HTML** de página web y **Vista como texto de página web **versiones a su gusto y haga clic en **Guardar cambios**.
+1. Edite la **Vista como HTML** de la página Web y **Vista como texto de la página Web **versiones a su gusto y haga clic en **Guardar cambios**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -53,11 +53,11 @@ Si necesita editar el texto &quot; [Vista como página](../../../product-docs/em
 
 Ahí lo tienes. Envíe mensajes de correo electrónico de prueba para garantizar el formato.
 
-## Texto predeterminado de &quot;Vista como página web&quot; {#default-view-as-web-page-text}
+## Texto predeterminado de &quot;Vista como página Web&quot; {#default-view-as-web-page-text}
 
 Si alguna vez necesita volver a la &quot;Vista como página Web&quot; predeterminada del sistema, copie o pegue lo siguiente:
 
-**Vista como HTML de página web:**
+**Vista como página web HTML:**
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Vista como texto de página web:**
 
 Para vista este correo electrónico como página web, vaya a la siguiente dirección:
