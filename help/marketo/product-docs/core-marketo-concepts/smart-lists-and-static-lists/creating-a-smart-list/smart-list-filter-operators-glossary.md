@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Glosario de operadores de filtros de Lista inteligente {#smart-list-filter-operators-glossary}
 
-Un operador es una parte de la lista [](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) inteligente que le ayuda a ser específico. Le permite describir el filtro o activador en un lenguaje sencillo. Los operadores disponibles son diferentes para cada tipo de campo.\
+Un operador es una parte de la [lista inteligente](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) que le ayuda a ser específica. Le permite describir el filtro o activador en un lenguaje sencillo. Los operadores disponibles son diferentes para cada tipo de campo.\
 Aquí hay un glosario que describe cada conjunto de operadores.
 
 ## Campos de fecha {#date-fields}
@@ -51,11 +51,11 @@ Solo tiene que escribir el número y la unidad juntos y funcionará.
 
 >[!NOTE]
 >
->En el pasado **incluye** el día (hasta el momento, no después) que crea la lista inteligente.
+>En el pasado **sí** incluye el día (hasta el momento, no después), usted crea su lista inteligente.
 
 >[!CAUTION]
 >
->Cuando crea una lista inteligente con un filtro de campo de fecha (por ejemplo, Fecha de nacimiento, Fecha de creación de SFDC) y utiliza el **antes** , **en o antes** de restricciones, la lista inteligente también incluirá personas que no tengan ningún valor en dicho campo de fecha.
+>Cuando crea una lista inteligente con un filtro de campo de fecha (por ejemplo, Fecha de nacimiento, Fecha de creación de SFDC) y utiliza las restricciones **antes** o **antes o antes de**, la lista inteligente también incluirá personas que no tengan valor en dicho campo de fecha.
 
 Utilice el diagrama siguiente para comprender la diferencia entre los operadores de fecha.
 
@@ -136,7 +136,7 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">está vacío</td> 
-   <td colspan="1" rowspan="1">Registros que no tienen valor (NULL): cero es un número, <em>no es</em> NULL</td> 
+   <td colspan="1" rowspan="1">Registros que no tienen valor (NULL): cero es un número, es <em>no</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">no está vacío</td> 
