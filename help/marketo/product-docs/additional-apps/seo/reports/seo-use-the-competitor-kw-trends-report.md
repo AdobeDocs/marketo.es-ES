@@ -21,7 +21,7 @@ En este informe, puede ver cómo usted y sus competidoras se clasifican en palab
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Haga clic en Tendencias **de clasificación KW competitivas**.
+1. Haga clic en **Tendencias de clasificación KW competitivas**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -48,7 +48,7 @@ Este gráfico muestra el porcentaje de palabras clave que se clasifican en un ra
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportación de datos  {#exporting-data}
+## Exportación de datos {#exporting-data}
 
 >[!TIP]
 >
