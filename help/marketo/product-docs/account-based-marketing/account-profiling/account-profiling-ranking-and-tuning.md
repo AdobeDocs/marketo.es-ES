@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Clasificación y ajuste de perfiles de cuenta {#account-profiling-ranking-and-tuning}
+# Clasificación y ajuste de perfiles de cuentas {#account-profiling-ranking-and-tuning}
 
 La generación de perfiles de cuenta identifica el Perfil ideal del cliente (ICP), clasifica las compañías en la base de datos en función del PCI y agrega datos del indicador ICP a las cuentas promocionadas como cuentas con nombre.
 
@@ -21,7 +21,7 @@ Los resultados muestran todas las cuentas conocidas desglosadas por categoría. 
 
 ![](assets/results.png)
 
-Aunque es opcional, se recomienda seleccionar la casilla de verificación Promocionar automáticamente, ya que le ahorrará un montón de tiempo. Sin embargo, si desea pasar por cada cuenta y [agregarla manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), simplemente deje la casilla sin marcar.
+Aunque es opcional, se recomienda seleccionar la casilla de verificación Promocionar automáticamente, ya que le ahorrará un montón de tiempo. Sin embargo, si desea pasar por cada cuenta y [agregarlas manualmente](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts), simplemente deje la casilla sin marcar.
 
 <table> 
  <tbody> 
@@ -56,7 +56,7 @@ Aunque es opcional, se recomienda seleccionar la casilla de verificación Promoc
  </tbody> 
 </table>
 
-## Ajuste de modelo {#model-tuning}
+## Ajuste del modelo {#model-tuning}
 
 En la ficha Modelo, haga clic en el botón Ajustar modelo.
 
@@ -89,13 +89,13 @@ Haga clic en la lista desplegable Añadir indicador ICP para insertar indicadore
 
 ![](assets/add-icp.png)
 
-Si activa la casilla Exportar, podrá ver el indicador ICP en la página Detalles de la cuenta con nombre, así como utilizar el indicador ICP seleccionado como restricciones en filtros [de cuenta](http://docs.marketo.com/display/DOCS/Account+Filters)con nombre.
+Si activa la casilla Exportar, podrá ver el indicador ICP en la página Detalles de la cuenta con nombre, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](http://docs.marketo.com/display/DOCS/Account+Filters).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Los indicadores del PCI se incluyen como limitaciones en **Miembro de los activadores y Filtros de cuentas** designadas.
+>Los indicadores del PCI se incluyen como restricciones en los Filtros y activadores **Miembro de la cuenta designada**.
 
 La ponderación del indicador es lo que controla el nivel de importancia que cada indicador recibe en su modelo.
 
