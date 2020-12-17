@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - Gráfico de tendencias de palabras clave {#seo-keyword-trends-chart}
 
-Es importante monitorear cómo las clasificaciones [SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) de palabras clave van cambiando con el tiempo. Consulte esta buena tabla para supervisar el progreso.
+Es importante monitorear la forma en que la palabra clave [clasificación SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) se está convirtiendo en tendencia con el tiempo. Consulte esta buena tabla para supervisar el progreso.
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ Es importante monitorear cómo las clasificaciones [SERP](../../../../product-do
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   ¿Ven? Muestra la clasificación [SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) de los últimos 30 días:
+   ¿Ven? Muestra su [clasificación SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) durante los últimos 30 días:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
