@@ -25,13 +25,13 @@ Dado que los programas de correo electrónico programados con el huso horario de
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Después de la cancelación, la cuadrícula de **resultados** de su programa de correo electrónico tendrá un aspecto similar al de abajo. Los envíos posteriores se cancelan y se mostrarán como &quot;Correo electrónico con aviso publicitario&quot; en la columna Tipo **de** Actividad.
+1. Después de la cancelación, la cuadrícula **Resultados** del programa de correo electrónico tendrá un aspecto similar al de abajo. Los envíos posteriores se cancelan y se mostrarán como &quot;Correo electrónico anunciado como no deseado&quot; en la columna **Tipo de Actividad**.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Los mensajes de correo electrónico cancelados **no aparecerán** como una devolución en blanco *hasta* que se programó originalmente para enviarse en sus respectivas zonas horarias. Hasta ese momento, se mostrarán como &quot;Enviar correo electrónico&quot;.
+   >Los correos electrónicos cancelados **no** aparecerán como una devolución en blanco *hasta* la hora en que originalmente se programó que se enviaran en sus respectivos husos horarios. Hasta ese momento, se mostrarán como &quot;Enviar correo electrónico&quot;.
 
 1. Desde la cuadrícula, puede hacer clic en cualquier correo electrónico para ver los detalles de la actividad de vista. Para un envío cancelado, la ventana emergente de detalles tendrá este aspecto:
 
