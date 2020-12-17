@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Acciones masivas en el rayo de Salesforce {#bulk-actions-in-salesforce-lightning}
+# Acciones masivas en Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
 
 A continuación se explica cómo configurar acciones masivas en Salesforce Lightning.
 
-1. En Salesforce, haga clic en el icono Ajustes y seleccione **Ajustes**.
+1. En Salesforce, haga clic en el icono Ajustes y seleccione **Configuración**.
 
    ![](assets/one.png)
 
-1. Haga clic en la ficha **Administrador** de objetos.
+1. Haga clic en la ficha **Administrador de objetos**.
 
    ![](assets/two.png)
 
-1. Busque y seleccione la etiqueta **Posible cliente** .
+1. Busque y seleccione la etiqueta **Posible cliente**.
 
    ![](assets/three-2.png)
 
@@ -35,7 +35,7 @@ A continuación se explica cómo configurar acciones masivas en Salesforce Light
 
    ![](assets/five.png)
 
-1. En Botones personalizados, busque y seleccione **Añadir a la Campaña de marketing (relámpago)** y **Enviar correo electrónico de marketing (relámpago)**. Haga clic en el botón **Añadir** .
+1. En Botones personalizados, busque y seleccione **Añadir a Campaña de marketing (relámpago)** y **Enviar correo electrónico de marketing (relámpago)**. Haga clic en el botón **Añadir**.
 
    ![](assets/six.png)
 
