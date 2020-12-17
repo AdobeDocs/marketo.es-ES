@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Cambiar la etiqueta predeterminada de correo electrónico y de origen {#change-the-default-from-email-and-from-label}
+# Cambiar el valor predeterminado de Correo electrónico y de Etiqueta {#change-the-default-from-email-and-from-label}
 
-Cada usuario administrador tiene la capacidad de cambiar los valores predeterminados de **Desde correo electrónico** y **Desde etiqueta** para que, al crear nuevos correos electrónicos, se utilicen esos valores predeterminados.
+Cada usuario administrador tiene la capacidad de cambiar los valores predeterminados de **Desde correo electrónico** y **Desde etiqueta** para que, cuando cree nuevos correos electrónicos, se usen esos valores predeterminados.
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Cada usuario administrador tiene la capacidad de cambiar los valores predetermin
 
    ![](assets/image2014-9-18-16-3a27-3a19.png)
 
-1. Introduzca los valores predeterminados que desee para **Desde correo electrónico** y **Desde etiqueta** y, a continuación, haga clic en **Guardar cambios**.
+1. Introduzca los valores predeterminados que desee para **Desde correo electrónico** y **Desde etiqueta** y haga clic en **Guardar cambios**.
 
    ![](assets/change-default-hands.png)
 
