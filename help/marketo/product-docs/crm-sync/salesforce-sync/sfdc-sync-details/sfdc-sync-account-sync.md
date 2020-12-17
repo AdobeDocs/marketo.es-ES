@@ -29,7 +29,7 @@ No. Una cuenta puede tener muchos contactos, un contacto solo puede tener una cu
 
 ## ¿Puedo crear cuentas desde Marketing? {#can-i-create-accounts-from-marketo}
 
-En su mayoría, no. Sin embargo, si utiliza el paso [Convertir persona](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) en una persona, creará un nuevo contacto, una nueva cuenta y una nueva oportunidad.
+En su mayoría, no. Sin embargo, si utiliza el paso de flujo [Convertir persona](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) en una persona, creará un nuevo contacto, una nueva cuenta y una nueva oportunidad.
 
 >[!CAUTION]
 >
