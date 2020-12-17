@@ -17,5 +17,5 @@ ht-degree: 0%
 1. Introduzca la dirección de correo electrónico del destinatario.
 1. Escriba el asunto del correo electrónico.
 1. Seleccione una plantilla de correo electrónico o escriba un nuevo mensaje.
-1. Cuando el correo electrónico esté listo para enviarse, haga clic en el botón **Enviar y conectar** . Haga clic en ese botón en lugar del botón de envío normal `will ensure your email is sent with tracking applied`. Sales Connect realizará un seguimiento del momento en que se abre el correo electrónico y del momento en que alguien hace clic en los vínculos.
+1. Cuando el correo electrónico esté listo para enviarse, haga clic en el botón **Enviar y conectar**. Haga clic en ese botón en lugar del botón de envío normal `will ensure your email is sent with tracking applied`. Sales Connect realizará un seguimiento del momento en que se abre el correo electrónico y del momento en que alguien hace clic en los vínculos.
 
