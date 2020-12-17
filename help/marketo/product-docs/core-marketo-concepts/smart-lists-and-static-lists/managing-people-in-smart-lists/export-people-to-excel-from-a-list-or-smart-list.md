@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si necesita resultados de lista o lista inteligente fuera de Marketing, puede exportar fácilmente a Excel. Así es como.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione la lista o lista inteligente que desee exportar y vaya a la ficha **Personas** .
+1. Seleccione la lista o lista inteligente que desee exportar y vaya a la ficha **Personas**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,17 +27,17 @@ Si necesita resultados de lista o lista inteligente fuera de Marketing, puede ex
 
    ![](assets/exportpeople.png)
 
-1. Seleccione Columnas **** visibles y haga clic en **Exportar**.
+1. Seleccione **Columnas visibles** y haga clic en **Exportar**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Si selecciona **Todas las columnas**, la exportación tendrá un tamaño mayor y tardará más en generarse o descargarse.
+   >Si elige **Todas las columnas**, la exportación tendrá un tamaño mayor y tardará más en generarse/descargarse.
 
    >[!TIP]
    >
-   >Si los registros de personas contienen caracteres extranjeros que no se procesan correctamente al exportarlos, intente cambiar el tipo de archivo en la lista desplegable **Formato** .
+   >Si los registros de personas contienen caracteres extranjeros que no se están representando correctamente al exportarlos, intente cambiar el tipo de archivo en la lista desplegable **Format**.
 
 1. Se ejecutará la exportación. Una vez terminado, puede hacer clic en **Descargar ahora** para capturar el archivo.
 
@@ -45,7 +45,7 @@ Si necesita resultados de lista o lista inteligente fuera de Marketing, puede ex
 
    >[!TIP]
    >
-   >Si la exportación está tardando un tiempo, siempre puede cerrar la sesión y volver a ella más tarde. Se puede acceder al vínculo **Descargar ahora** seleccionando **Mostrar estado** de exportación en el menú Acciones **de** Lista y es válido durante una semana.
+   >Si la exportación está tardando un tiempo, siempre puede cerrar la sesión y volver a ella más tarde. Se puede acceder al vínculo **Descargar ahora** seleccionando **Mostrar estado de exportación** en el menú **Acciones de Lista** y es válido durante una semana.
 
    Después de exportar una lista inteligente a Excel, Marketing almacenará automáticamente en caché la lista. La próxima vez que inicie sesión o actualice el explorador, verá un pequeño clip de papel y una nota adhesiva en el icono de lista inteligente.
 
