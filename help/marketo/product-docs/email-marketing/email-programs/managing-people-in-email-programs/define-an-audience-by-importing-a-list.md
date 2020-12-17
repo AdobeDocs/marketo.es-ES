@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[Creación de un correo electrónico para un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Una vez que haya creado un programa de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacerlo [creando una lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente o importando una lista. Así se consigue importando una lista.
+Una vez que haya creado un programa de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacerlo [creando una lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando una lista. Así se consigue importando una lista.
 
 >[!NOTE]
 >
@@ -25,14 +25,14 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 >Los campos de fecha y hora que se importan se tratan como Hora central. Si tiene campos de fecha y hora en un huso horario diferente, puede utilizar una fórmula de Excel para transformarla en hora central (América/Chicago).
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
    Seleccione el programa de correo electrónico y, a continuación, haga clic en Importar Lista en el mosaico de Audiencia.
    ![](assets/importlist.png)
 
-1. Se abrirá la ventana de importación de listas, haga clic en **Examinar** y seleccione el archivo que desee importar. Una vez seleccionada la lista de personas, haga clic en Siguiente.
+1. Se abre la ventana de importación de listas, haga clic en **Examinar** y seleccione el archivo que desee importar. Una vez seleccionada la lista de personas, haga clic en Siguiente.
 1. ![](assets/importlist1.png)
 
    >[!CAUTION]
@@ -46,7 +46,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
    >
    >Marketo recordará las asignaciones para futuras importaciones!
 
-1. Introduzca un **nombre** para la lista y haga clic en **Importar**.
+1. Escriba un **Nombre** para la lista y haga clic en **Importar**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -70,7 +70,7 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 >
 Haga clic en el número para ver una lista detallada de las personas bloqueadas de los envíos de correo.
 >
->Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36-1.png) del mosaico de la **Audiencia** para ver cuántas personas cumplen los requisitos para recibir el correo electrónico según los criterios de lista inteligente. Reste el número Bloqueado del número Personas para obtener el número total de personas que recibirán el correo electrónico.
+>Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36-1.png) del mosaico **Audiencia** para ver cuántas personas cumplen los requisitos para recibir el correo electrónico según los criterios de lista inteligente. Reste el número Bloqueado del número Personas para obtener el número total de personas que recibirán el correo electrónico.
 
 >[!TIP]
 >
