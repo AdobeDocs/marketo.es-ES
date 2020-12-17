@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Al ejecutar una oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) referencia o una [apuesta](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede dar crédito al remitente del reenvío mediante diferentes métodos:
+Al ejecutar una [oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [apuesta](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede dar crédito al remitente del reenvío mediante diferentes métodos:
 
 * Visitas referidas
 * Firmas Ups referidas
 * **Activador de Lista inteligente**
 * Evento personalizado de JavaScript
 
-Si ha elegido utilizar la opción Activador **de Lista** inteligente para especificar un objetivo, deberá utilizar el paso **Dar crédito** **al flujo de Remitentes del reenvío** .   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Si elige utilizar la opción **Activador de Lista inteligente** para especificar un objetivo, deberá utilizar el paso de flujo **Dar crédito** **a Remitente del reenvío**.   ![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Uso {#usage}
 
@@ -35,6 +35,6 @@ Si ha elegido utilizar la opción Activador **de Lista** inteligente para especi
    >**Recordatorio**
    >
    >
-   >Asegúrese de que la aplicación social está configurada para utilizar el activador de Lista inteligente. Consulte [Especificar objetivo para Oferta](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) de referencia para obtener más detalles.
+   >Asegúrese de que la aplicación social está configurada para utilizar el activador de Lista inteligente. Consulte [Especificar objetivo para la Oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obtener más detalles.
 
 ¡Excelente! Cualquier persona procesada por este paso de flujo ahora dará crédito a su remitente del reenvío.
