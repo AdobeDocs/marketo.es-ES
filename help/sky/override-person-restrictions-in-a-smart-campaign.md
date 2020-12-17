@@ -18,13 +18,13 @@ Marketo le permite establecer el número máximo de personas que pueden optar a 
 
 >[!IMPORTANT]
 >
->Asegúrese de [habilitar las restricciones personales para campañas](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) inteligentes en el [!UICONTROL administrador]de marketing.
+>Asegúrese de [habilitar las restricciones personales para campañas inteligentes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) en Marketing [!UICONTROL Administración].
 
 1. Busque su campaña inteligente y haga clic en **[!UICONTROL Programar]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Haga clic en Reglas **[!UICONTROL de cualificación]**.
+1. Haga clic en **[!UICONTROL Reglas de clasificación]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
