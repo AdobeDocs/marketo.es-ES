@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir un fragmento de código en un mensaje de correo electrónico {#add-a-snippet-to-an-email}
+# Añadir un fragmento de código a un mensaje de correo electrónico {#add-a-snippet-to-an-email}
 
 Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que puede utilizar en sus correos electrónicos y páginas de aterrizaje.
 
@@ -22,7 +22,7 @@ Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que pu
 
 >[!NOTE]
 >
->No se puede incrustar ningún fragmento [de sintaxin de correo electrónico de](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)Marketing a; **no funcionará** en un mensaje de correo electrónico. Los fragmentos solo deben ser contenido de cuerpo (HTML + TEXTO).
+>No puede incrustar ninguna sintaxis de correo electrónico [de marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos de código; **no** funcionará en un mensaje de correo electrónico. Los fragmentos solo deben ser contenido de cuerpo (HTML + TEXTO).
 
 1. Busque su correo electrónico, selecciónelo y haga clic en **Editar borrador**.
 
@@ -44,6 +44,6 @@ Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que pu
 
    >[!NOTE]
    >
-   >Cada vez que actualice y apruebe el fragmento, los cambios se reflejarán en el mensaje de correo electrónico. El correo electrónico se redactará a menos que apruebe el fragmento con [Sin borrador](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Cada vez que actualice y apruebe el fragmento, los cambios se reflejarán en el mensaje de correo electrónico. El mensaje de correo electrónico se redactará a menos que apruebe el fragmento con [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
 Es una forma rápida y sencilla de reutilizar el contenido dinámico.
