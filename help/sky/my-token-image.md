@@ -16,7 +16,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un distintivo de imagen para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **de imagen** al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un distintivo **Image** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
