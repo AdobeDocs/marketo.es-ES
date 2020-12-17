@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Error al enviar desde la Aplicación web {#error-when-sending-from-the-web-application}
 
-Normalmente, cuando se produce un error desde la aplicación [](http://toutapp.com/login)web, se debe a un problema con el formato del correo electrónico o los campos dinámicos. Asegúrese de que todo se rellena correctamente en la ventana de composición e intente enviar de nuevo.
+Normalmente, cuando se produce un error desde la [aplicación Web](http://toutapp.com/login), se debe a un problema con el formato del correo electrónico o los campos dinámicos. Asegúrese de que todo se rellena correctamente en la ventana de composición e intente enviar de nuevo.
