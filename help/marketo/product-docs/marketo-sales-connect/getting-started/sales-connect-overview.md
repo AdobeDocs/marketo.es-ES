@@ -21,15 +21,15 @@ Marketingto Sales Connect es una solución de soporte de ventas multifacética c
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
-## La fuente en vivo {#the-live-feed}
+## La fuente en directo {#the-live-feed}
 
-Los representantes de ventas pueden vista la participación [en tiempo](http://docs.marketo.com/x/d4TS) real tanto del contenido de marketing como del de ventas.
+Los representantes de ventas pueden vista [compromiso en tiempo real](http://docs.marketo.com/x/d4TS) tanto del contenido de ventas como del marketing.
 
 ![](assets/engagement.jpg)
 
 ## Vista de detalles de persona {#person-detail-view}
 
-Acceda a estadísticas [detalladas de personas](http://docs.marketo.com/x/e4TS).
+Acceda a [estadísticas de personas detalladas](http://docs.marketo.com/x/e4TS).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -63,7 +63,7 @@ Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
   </tr> 
   <tr> 
    <td colspan="1"><p>Recibir llamada de ventas</p></td> 
-   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor utilizando el teléfono <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">de ventas</a>.</p></td> 
+   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor utilizando el <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">teléfono de ventas</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Añadir a Campaña de ventas</p></td> 
@@ -82,7 +82,7 @@ Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
 
 ## Compartir Campañas de mercadotecnia {#share-marketing-campaigns}
 
-Cree una campaña inteligente simple para dar a los usuarios de ventas acceso a los datos [de campaña de](http://docs.marketo.com/x/NwDh)marketing.
+Cree una campaña inteligente simple para dar a sus usuarios de ventas acceso a [datos de campaña de marketing](http://docs.marketo.com/x/NwDh).
 
 ![](assets/campaign-is-requested.jpg)
 
