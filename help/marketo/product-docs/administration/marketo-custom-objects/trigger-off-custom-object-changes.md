@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >
 >
-Póngase en contacto con la asistencia técnica [de marketing](http://support.marketo.com) para habilitar los activadores de cambio de objetos personalizados.
+Póngase en contacto con [Soporte técnico de marketing](http://support.marketo.com) para habilitar los activadores de cambio de objeto personalizados.
 
 En la lista inteligente de una campaña inteligente, puede activar una acción de flujo cuando se agrega un objeto personalizado a una persona o compañía. También puede crear una lista inteligente que utilice un *cambio* en un objeto personalizado como activador. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice el nombre de un curso.
 
@@ -31,7 +31,7 @@ En la lista inteligente de una campaña inteligente, puede activar una acción d
 >
 >No se crea una entrada de registro de actividad cuando se cambia un registro de objeto personalizado.
 
-1. En Marketing, vaya a Actividades **de marketing.**
+1. En Marketing, vaya a **Actividades de marketing.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
