@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Usar una fecha específica en un paso de flujo de espera {#use-a-specific-date-in-a-wait-flow-step}
 
-Puede utilizar el paso de flujo de **espera** para pausar el viaje de una persona a través de una campaña inteligente hasta una fecha concreta.
+Puede utilizar el paso de flujo **Espera** para pausar el viaje de una persona a través de una campaña inteligente hasta una fecha concreta.
 
-1. En la ficha **Flujo** de campaña inteligente, arrastre el ratón sobre el paso de flujo de **espera** .
+1. En la ficha **Flujo** de la campaña inteligente, arrastre el ratón sobre el paso de flujo **Espera**.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
