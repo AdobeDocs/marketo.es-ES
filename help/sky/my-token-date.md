@@ -16,7 +16,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un token de fecha para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de **[!UICONTROL fecha]** al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **[!UICONTROL Date]** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
