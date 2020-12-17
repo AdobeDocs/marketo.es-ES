@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Registrar personas en el Evento desde la tableta {#check-people-into-your-event-from-your-tablet}
+# Consulte a las personas en su Evento desde su tableta {#check-people-into-your-event-from-your-tablet}
 
 Cuando las personas aparecen en el evento, puede encontrar su información en la aplicación. Después de registrarse, se convierten en asistentes al sincronizar con Marketing.
 
@@ -20,7 +20,7 @@ La aplicación funciona igual tanto en iPad como en Android, excepto por diferen
 >[!PREREQUISITES]
 >
 >* Cree un evento en Marketing y rellénelo con Personas invitadas y registradas.
->* Descargar la aplicación para tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Descargue la aplicación para tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 >
 
@@ -29,11 +29,11 @@ La aplicación funciona igual tanto en iPad como en Android, excepto por diferen
 ## Registrar invitados registrados {#check-in-registered-guests}
 
 1. Toque el icono de la aplicación en su iPad o tablet Android.
-1. Toque **Iniciar sesión** para iniciar la aplicación de Marketing Evento.
+1. Toque **Iniciar sesión** para iniciar la aplicación de Evento de Marketing to.
 
    ![](assets/1.jpg)
 
-1. Introduzca su nombre de usuario y contraseña de Marketing y haga clic en **Iniciar sesión**.
+1. Introduzca su nombre de usuario y contraseña de Marketing y haga clic en **Inicio de sesión**.
 
    >[!NOTE]
    >
@@ -63,7 +63,7 @@ La aplicación funciona igual tanto en iPad como en Android, excepto por diferen
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Toque el nombre seleccionado y, en el registro de persona, toque **Proteger**.
+1. Toque el nombre seleccionado y, en el registro de persona, toque **Registro**.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -95,7 +95,7 @@ Puede agregar manualmente invitados que no sean personas existentes en la base d
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Complete todos los campos de información básicos que pueda y toque **Finalizado**.
+1. Complete todos los campos de información básicos que pueda y toque **Listo**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -109,9 +109,9 @@ Puede agregar manualmente invitados que no sean personas existentes en la base d
 
 La nueva persona está registrada como protegida en su evento y se agregará a la base de datos de Marketing con el estado de Asistencia cuando sincronice con Marketing.
 
-## Invertir un ingreso {#reverse-a-check-in}
+## Invertir un registro {#reverse-a-check-in}
 
-Si ha seleccionado a una persona por error, *antes de sincronizarla con Marketing*, puede revertir el estado de Asistencia.
+Si ha registrado a una persona por error, *antes de sincronizarla con Marketing*, puede revertir el estado de Asistencia.
 
 1. Toque el nombre en la lista y, en el registro de personas, toque **Deshacer**.
 
@@ -119,7 +119,7 @@ Si ha seleccionado a una persona por error, *antes de sincronizarla con Marketin
 
    ¡Todo arreglado!
 
-## Editar un registro de persona al registrarse {#edit-a-person-record-at-check-in}
+## Editar un registro de persona en el registro {#edit-a-person-record-at-check-in}
 
 Puede agregar y modificar la información de los invitados, justo en el evento!
 
