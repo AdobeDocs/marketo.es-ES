@@ -17,7 +17,7 @@ Obtenga más información sobre las funciones disponibles en su panel de perspec
 
 >[!PREREQUISITES]
 >
->Debe tener el paquete y la [configuración](http://docs.marketo.com/x/F4GMAg)MSI SFDC más recientes.
+>Debe tener el paquete MSI SFDC más reciente y [configuración](http://docs.marketo.com/x/F4GMAg).
 
 ![](assets/one.png)
 
@@ -103,7 +103,7 @@ Ficha evento:
 
 ![](assets/four.png)
 
-## Diseño de la cuenta {#account-layout}
+## Diseño de cuenta {#account-layout}
 
 **Cuadrícula de velocidad de participación**
 
@@ -156,7 +156,7 @@ Ficha evento:
 * La barra de resumen semanal mostrará Momentos interesantes, Correo electrónico y Actividad Web para esa semana. Se puede hacer clic en cada icono y se puede utilizar como filtros para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximas Campañas de correo electrónico y Campañas de correo electrónico de Eventos** :
+**Próximas Campañas de correo electrónico y** eventosFicha Campañas de correo electrónico:
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
 * No es específica del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketing). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
