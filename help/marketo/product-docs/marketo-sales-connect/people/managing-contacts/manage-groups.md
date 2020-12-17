@@ -17,7 +17,7 @@ Obtenga información sobre cómo administrar los grupos en Sales Connect.
 
 ## Crear un grupo {#create-a-group}
 
-1. En la página Personas, haga clic en el signo **** más junto a Grupos.
+1. En la página Personas, haga clic en el **signo más** junto a Grupos.
 
    ![](assets/one-4.png)
 
@@ -33,7 +33,7 @@ Obtenga información sobre cómo administrar los grupos en Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Haga clic en Acciones **** de grupo y seleccione **Crear contacto**.
+1. Haga clic en **Acciones de grupo** y seleccione **Crear contacto**.
 
    ![](assets/four-3.png)
 
@@ -41,7 +41,7 @@ Obtenga información sobre cómo administrar los grupos en Sales Connect.
    >
    >Esto agregará un contacto a la vez. Para agregar varios contactos al mismo tiempo, siga [estos pasos](http://docs.marketo.com/x/VADb).
 
-1. Complete la información del contacto y haga clic en **Crear** (o en **Crear y Añadir nuevo** para agregar otro).
+1. Rellene la información del contacto y haga clic en **Crear** (o **Crear y Añadir nuevo** para agregar otro).
 
    ![](assets/five-3.png)
 
@@ -81,7 +81,7 @@ Obtenga información sobre cómo administrar los grupos en Sales Connect.
 
    ![](assets/eleven.png)
 
-1. Haga clic en la **X** junto al equipo con el que compartió el grupo y, a continuación, haga clic en fuera del modal.
+1. Haga clic en la **X** al lado del equipo con el que compartió el grupo y, a continuación, haga clic fuera del modal.
 
    ![](assets/twelve.png)
 
