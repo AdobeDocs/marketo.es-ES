@@ -32,7 +32,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="15">Programa predeterminado<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crear</td> 
-   <td>Tipo de canal "tipo de canal"<br><br>o Clonado desde "nombre de programa"</td> 
+   <td>Tipo de canal "tipo de canal"<br>o<br>Clonado desde "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -40,7 +40,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de Campañas" o "programa de participación" Nombre del programa <br>clonado "nuevo nombre"</td> 
+   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de Campaña" o "programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -93,7 +93,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="18">Correo electrónico<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crear</td> 
-   <td>Creada con la plantilla "nombre de plantilla" <br>o <br>Clonada con "nombre de recurso"</td> 
+   <td>Creada con la plantilla "nombre de plantilla" <br>o <br>Clonada a partir de "nombre de recurso"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -145,11 +145,11 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Estudio de diseño" en la carpeta "nombredecarpeta" Nombre de recurso <br>clonado "nombre"<br><br>o Clonado para "Actividades de marketing" en el programa "nombre de programa"Nombre de recurso<br>clonado "nombre"</td> 
+   <td>Clonado en "Estudio de diseño" en la carpeta "nombrecarpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "nombre"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "estudio de diseño" a la carpeta "nombre de carpeta"<br><br>o se ha trasladado a "actividades de marketing" al programa "nombre de programa"</td> 
+   <td>Se ha movido a "Estudio de diseño" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "actividades de marketing" al programa "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -161,12 +161,12 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Borrador</td> 
-   <td>El correo electrónico se redactó porque el fragmento "nombre del fragmento" fue<br><br>aprobadorCorreo electrónico se redactó porque se aprobó la plantilla "nombre de plantilla"</td> 
+   <td>Se redactó el mensaje de correo electrónico porque se aprobó el fragmento "nombre de fragmento"<br>o<br>Se redactó el mensaje de correo electrónico porque se aprobó la plantilla "nombre de plantilla"</td> 
   </tr> 
   <tr> 
    <td rowspan="17">Programa de correo electrónico</td> 
    <td>Crear</td> 
-   <td>Tipo de canal "tipo de canal"<br><br>o Clonado desde "nombre de programa"</td> 
+   <td>Tipo de canal "tipo de canal"<br>o<br>Clonado desde "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Cambiar nombre</td> 
@@ -174,7 +174,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de Campaña o programa de participación" Nombre del programa <br>clonado "nuevo nombre"</td> 
+   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de Campaña o programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -214,7 +214,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Modificar configuración de programa</td> 
-   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>Nombre de comportamiento anterior</td> 
+   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>"nombre de comportamiento" de comportamiento antiguo</td> 
   </tr> 
   <tr> 
    <td>Modificar configuración de programa</td> 
@@ -255,7 +255,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "nombre de carpeta" <br> Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "nombre de carpeta" <br> Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -276,7 +276,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de Campaña o programa de participación" Nombre del programa <br>clonado "nuevo nombre"</td> 
+   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de Campaña o programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -300,19 +300,19 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Modificar flujo de programa</td> 
-   <td>Añadir<br>contenidoNombre de flujo "nombre de flujo"<br>Tipo "Correo electrónico" o "Programa"<br>Nombre de correo electrónico" o "Nombre de programa"Campaña<br>inteligente "nombre de campaña inteligente"</td> 
+   <td>Añadir contenido<br>Nombre de flujo "nombre de flujo"<br>Escriba "Correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>Campaña inteligente "nombre de campaña inteligente"</td> 
   </tr> 
   <tr> 
    <td>Modificar flujo de programa</td> 
-   <td>Activar<br>contenidoNombre del flujo "nombre del flujo"Nombre del<br>contenido "nombre del correo electrónico" o "nombre del programa"</td> 
+   <td>Activar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre del contenido "nombre del correo electrónico" o "nombre del programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar flujo de programa</td> 
-   <td>Desactivar<br>contenidoNombre del flujo "nombre del flujo"Nombre del<br>contenido "nombre del correo electrónico" o "nombre del programa"</td> 
+   <td>Desactivar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre del contenido "nombre del correo electrónico" o "nombre del programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar flujo de programa</td> 
-   <td>Eliminar<br>contenidoNombre del flujo "nombre del flujo"Nombre del<br>contenido "nombre del correo electrónico" o "nombre del programa"</td> 
+   <td>Eliminar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre del contenido "nombre del correo electrónico" o "nombre del programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar token de programa</td> 
@@ -332,7 +332,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Modificar configuración de programa</td> 
-   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>Nombre de comportamiento anterior</td> 
+   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>"nombre de comportamiento" de comportamiento antiguo</td> 
   </tr> 
   <tr> 
    <td>Modificar configuración de programa</td> 
@@ -361,7 +361,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="18">Programa evento</td> 
    <td>Crear</td> 
-   <td>Tipo de canal "tipo de canal"<br><br>o Clonado desde "nombre de programa"</td> 
+   <td>Tipo de canal "tipo de canal"<br>o<br>Clonado desde "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -373,7 +373,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de campañas" o "programa de participación" Nombre del programa <br>clonado "nuevo nombre"</td> 
+   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de campaña" o "programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -405,7 +405,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Modificar configuración de programa</td> 
-   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>Nombre de comportamiento anterior</td> 
+   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>"nombre de comportamiento" de comportamiento antiguo</td> 
   </tr> 
   <tr> 
    <td>Modificar configuración de programa</td> 
@@ -479,11 +479,11 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Estudio de diseño" en la carpeta "nombredecarpeta" Nombre de recurso <br>clonado "nombre"<br><br>o Clonado para "Actividades de marketing" en el programa "nombre de programa"Nombre de recurso<br>clonado "nombre"</td> 
+   <td>Clonado en "Estudio de diseño" en la carpeta "nombrecarpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "nombre"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "estudio de diseño" a la carpeta "nombre de carpeta"<br><br>o se ha trasladado a "actividades de marketing" al programa "nombre de programa"</td> 
+   <td>Se ha movido a "Estudio de diseño" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "actividades de marketing" al programa "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -493,7 +493,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="9">página de aterrizaje</td> 
    <td>Crear</td> 
-   <td>Creada con la plantilla "nombre de plantilla" <br>o <br>Clonada con "nombre de recurso"</td> 
+   <td>Creada con la plantilla "nombre de plantilla" <br>o <br>Clonada a partir de "nombre de recurso"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -509,11 +509,11 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Estudio de diseño" en la carpeta "nombredecarpeta"<br>Nombre de recurso clonado "nombre"URL de recurso<br>clonado "www.url.com"<br><br>o Clonado en "Actividades de marketing" en el programa "nombre de programa" Nombre de recurso <br>clonado "nombre"URL de recurso<br>clonado "www.url.com"</td> 
+   <td>Clonado en "Estudio de diseño" en la carpeta "nombredecarpeta"<br>Nombre del recurso clonado "nombre"<br>URL del recurso clonado "www.url.com"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre del programa" <br>Nombre del recurso clonado "nombre"<br>URL del recurso clonado "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "estudio de diseño" a la carpeta "nombre de carpeta"<br> o<br> se ha trasladado a "actividades de marketing" al programa "nombre de programa"</td> 
+   <td>Se ha movido a "Estudio de diseño" a la carpeta "nombre de carpeta"<br> o<br> Se ha movido a "actividades de marketing" al programa "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -530,7 +530,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="8">Plantilla de página de aterrizaje</td> 
    <td>Crear</td> 
-   <td><p><br><br>BlankorClonado desde "nombre de recurso"</p></td> 
+   <td><p>En blanco<br>o<br>Clonado desde "nombre de recurso"</p></td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -546,7 +546,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "nombre de carpeta" Nombre de recurso <br>clonado "nombre"</td> 
+   <td>Clonado en "nombre de carpeta" <br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -571,7 +571,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Base de datos de personas" en la carpeta "nombredecarpeta" Nombre de recurso <br>clonado "nombre"<br><br>o Clonado en "Actividades de marketing" en el programa "nombre de programa"Nombre de recurso<br>clonado "nombre"</td> 
+   <td>Clonado en "Base de datos de personas" en la carpeta "nombrecarpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -600,7 +600,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Programas" en el programa "nombre del programa"<br><br>o se ha movido a "Carpetas" en la carpeta "nombre de la carpeta"</td> 
+   <td>Se ha movido a "Programas" en el programa "nombre del programa"<br>o<br>Se ha movido a "Carpetas" a la carpeta "nombre de la carpeta"</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -616,7 +616,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Programas" en el programa "nombre del programa" <br>Nombre del recurso clonado "nombre"<br><br>o Clonado en "carpeta" en la carpeta "nombre de la carpeta"Nombre del recurso<br>clonado "nombre"</td> 
+   <td>Clonado en "Programas" en el programa "programa name" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Folder" en "folder name"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuración de lista inteligente</td> 
@@ -653,7 +653,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Base de datos de personas" en la carpeta "nombredecarpeta" Nombre de recurso <br>clonado "nombre"<br><br>o Clonado en "Actividades de marketing" en el programa "nombre de programa" Nombre de recurso <br>clonado "nombre"</td> 
+   <td>Clonado en "Base de datos de personas" en la carpeta "nombrecarpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "nombre"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuración de lista inteligente</td> 
@@ -662,7 +662,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="11">Fragmento</td> 
    <td>Crear</td> 
-   <td><p><br><br>BlankorClonado desde "nombre de fragmento"</p></td> 
+   <td><p>En blanco<br>o<br>Clonado desde "nombre de fragmento"</p></td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -690,7 +690,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "nombre de carpeta" Nombre de fragmento <br>clonado "nombre"</td> 
+   <td>Clonado en "nombre de carpeta" <br>Nombre de fragmento clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -751,7 +751,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Función editada de "nombre anterior" a "nuevo nombre" (NOTA: si necesita información detallada sobre los permisos editados, póngase en contacto con el servicio de asistencia): <br>muestra una instantánea de los permisos asignados a la función<br></td> 
+   <td>Función editada de "nombre anterior" a "nuevo nombre" (NOTA: si necesita información detallada sobre los permisos editados, póngase en contacto con el servicio de soporte técnico): <br>muestra una instantánea de los permisos asignados a la función<br></td> 
   </tr> 
   <tr> 
    <td>Informe Lista inteligente</td> 
@@ -761,7 +761,7 @@ Audit Trail oferta una buena cantidad de información sobre quién está haciend
   <tr> 
    <td rowspan="7">Usuario<br><br><br><br></td> 
    <td>Crear (invitar)</td> 
-   <td>Usuario invitado con: Correo electrónico "dirección de correo electrónico", Nombre "nombre y apellidos", Access caduca "en blanco o con una fecha", Usuario de API "verdadero o falso": <br>muestra una instantánea de las funciones y los espacios de trabajo asignados al usuario</td> 
+   <td>Usuario invitado con: Correo electrónico "dirección de correo electrónico", Nombre "nombre y apellidos", Access caduca "en blanco o con una fecha", Usuario de API "true o false" - <br>muestra una instantánea de las funciones y los espacios de trabajo asignados al usuario</td> 
   </tr> 
   <tr> 
    <td colspan="1">Eliminar</td> 
