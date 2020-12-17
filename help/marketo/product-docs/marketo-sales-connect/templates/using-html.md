@@ -20,5 +20,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Si aparece el error &quot;Error: para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no se admite. Debe buscar en el código fuente la palabra estilo y eliminar todo de `<style>` a `</style>`.
+>Si aparece el error &quot;Error: para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no se admite. Debe buscar en el código fuente el estilo de palabra y eliminar todo desde `<style>` a `</style>`.
 
