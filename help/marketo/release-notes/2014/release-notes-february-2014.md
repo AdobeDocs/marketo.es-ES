@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de febrero de 2014. Verifique la disponibilidad de las funciones en la edición de marketing. Después de la versión, asegúrese de volver para encontrar vínculos a artículos detallados de la Base de conocimiento para cada función.
 
-## Puntuación de participación como criterios de ganancia {#engagement-score-as-winning-criteria}
+## Puntuación de participación como criterios ganadores {#engagement-score-as-winning-criteria}
 
-[Use la puntuación](../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) de participación para determinar la variante ganadora en la prueba de división A/B o en la prueba Champion/Challenger. La prueba debe ejecutarse durante un mínimo de 24 horas para obtener una puntuación de participación adecuada.
+[Use el ](../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) marcador de participación para determinar la variante ganadora en la prueba de división A/B o en la prueba Champion/Challenger. La prueba debe ejecutarse durante un mínimo de 24 horas para obtener una puntuación de participación adecuada.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
 ## Ficha Resultados del Programa de correo electrónico {#email-program-results-tab}
 
-[Vista los resultados](../../product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) y actividades registrados para el programa de correo electrónico.
+[Vista los ](../../product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) resultados y actividades registrados para el programa de correo electrónico.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
 ## Personas y posibles clientes bloqueados del correo electrónico {#people-leads-blocked-from-mailing}
 
-[Haga clic en las personas o leads bloqueadas del número de correo](../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) para ver quién no recibirá el correo electrónico por haber sido cancelado, haber sido incluidos en la lista negra, tener una dirección de correo electrónico no válida o en blanco o haber sido suspendido en el marketing.
+[Haga clic en el número de ](../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) correo de las personas o leads bloqueadas para ver quién no recibirá el correo electrónico debido a que se canceló la suscripción, a que aparecen en la lista negra, a que tienen una dirección de correo electrónico no válida o en blanco o a que se ha suspendido la comercialización.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
@@ -39,17 +39,17 @@ Las siguientes funciones se incluyen en la versión de febrero de 2014. Verifiqu
 
 ## Puntuación de participación en el informe Rendimiento del flujo de participación {#engagement-score-in-engagement-stream-performance-report}
 
-Hemos agregado la puntuación de participación al informe [Rendimiento del flujo de](../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) participación para ayudarle a ver la eficacia del contenido en su programa de participación.
+Hemos agregado la puntuación de participación al [Informe de rendimiento del flujo de participación](../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para ayudarle a ver la eficacia del contenido en su programa de participación.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
-## Detalles de programa en Análisis de correo electrónico {#program-details-in-email-analysis}
+## Detalles de programa en la Análisis de correo electrónico {#program-details-in-email-analysis}
 
 [Ahora puede agrupar las métricas de correo electrónico por nombre de Programa, Canal y etiquetas](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). El nombre del programa se agrega al campo Nombre del correo electrónico cuando el correo electrónico es un recurso local del Programa. El nuevo campo Nombre del Programa muestra el nombre del programa de la campaña inteligente que envió el correo electrónico. Podría ser diferente del programa del campo Nombre de correo electrónico si el correo electrónico es un recurso local de un programa diferente.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
-## Actualizar a Filtros de vínculos de clics y activador {#update-to-clicks-link-filters-and-trigger}
+## Actualizar a Filtros de vínculos de clics y activar {#update-to-clicks-link-filters-and-trigger}
 
 Se han actualizado los siguientes nombres de filtro y desencadenador:
 
@@ -61,7 +61,7 @@ Se han actualizado los siguientes nombres de filtro y desencadenador:
 
 ## Mejoras de Forms 2.0 {#forms-enhancements}
 
-Con esta versión, hemos proporcionado a Forms 2.0 varias actualizaciones de &quot;calidad de vida&quot;. Además de habilitar la generación de perfiles progresivos en formularios incrustados, hemos realizado cambios en el flujo de trabajo y el UX que facilitarán el uso de la funcionalidad más avanzada en el editor, [incluidas las reglas](../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)de visibilidad, las páginas de agradecimiento avanzadas y los campos ocultos.
+Con esta versión, hemos proporcionado a Forms 2.0 varias actualizaciones de &quot;calidad de vida&quot;. Además de habilitar la generación de perfiles progresivos en formularios incrustados, hemos realizado cambios en el flujo de trabajo y el UX que harán más fácil el uso de la funcionalidad más avanzada en el editor, [incluidas las reglas de visibilidad](../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), las páginas de agradecimiento avanzadas y los campos ocultos.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)
 
