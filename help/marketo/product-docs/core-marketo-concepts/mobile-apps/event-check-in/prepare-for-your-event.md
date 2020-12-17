@@ -17,17 +17,17 @@ Hay varias cosas que tienes que hacer para prepararte para el evento.
 
 ## Crear una nueva función de marketing {#create-a-new-marketo-role}
 
-Marketing tiene una función de usuario especial para la aplicación de registro de evento.  [Cree una nueva función](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) de marketing para usuarios de iPad o Android, con permiso para acceder a la aplicación móvil.
+Marketing tiene una función de usuario especial para la aplicación de registro de evento.  [Cree una nueva ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) función de marketing para usuarios de iPad o Android, con permiso para acceder a la aplicación móvil.
 
-## Invitar a nuevos usuarios de tablets al Evento {#invite-new-tablet-users-to-the-event}
+## Invitar a nuevos usuarios de tableta al Evento {#invite-new-tablet-users-to-the-event}
 
-[Invite a nuevos usuarios de tabletas al evento](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) y asígneles la nueva función.
+[Invite a nuevos usuarios de tabletas al ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) evento y asígneles la nueva función.
 
 ## Crear un nuevo Programa de Evento de marketing {#create-a-new-marketo-event-program}
 
-[Cree un nuevo programa](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) de evento de marketing para capturar el estado de sus personas a medida que avanzan en diferentes etapas y obtienen mediciones precisas del ROI para sus iniciativas de marketing.
+[Cree un nuevo ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) programa de evento de marketing para capturar el estado de sus personas a medida que avanzan en diferentes etapas y obtener mediciones precisas del ROI para sus iniciativas de marketing.
 
-## Especificar las fechas de Evento {#specify-the-event-dates}
+## Especifique las fechas de Evento {#specify-the-event-dates}
 
 Es una sorpresa establecer las fechas de evento.
 
@@ -35,7 +35,7 @@ Es una sorpresa establecer las fechas de evento.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Desplácese para cambiar **Tentativo** a **Confirmado**.
+1. Desplácese para cambiar **Tentative** a **Confirmed**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -43,23 +43,23 @@ Es una sorpresa establecer las fechas de evento.
    >
    >Si la fecha del Evento es más de una semana antes o después de la fecha actual, el evento no aparecerá en la aplicación. **Sugerencia**: Para probarla, establezca temporalmente las fechas en una semana de hoy. Recuerde devolver el evento a las fechas correctas después de probarlo.
 
-## Añadir personas a tu Evento {#add-people-to-your-event}
+## Añadir personas a su Evento {#add-people-to-your-event}
 
-Ahora que sabes *cuándo*, es hora de agregar el *quién*.
+Ahora que conoce el *cuándo*, es hora de agregar el *quién*.
 
-1. Si ya tiene una lista de personas, en Mi marketing, haga clic en el mosaico **Base de datos** .
+1. Si ya tiene una lista de personas, en Mi marketing, haga clic en el mosaico **Base de datos**.
 
    ![](assets/db.png)
 
-1. Seleccione una lista con personas y haga clic en la ficha **Personas** .
+1. Seleccione una lista con personas y haga clic en la ficha **Personas**.
 
    ![](assets/four.png)
 
-1. Seleccione las personas para el evento en la lista. Utilice **Ctrl** (o **Comando** en un Mac) para hacer clic en varias personas o **Seleccionar todo** para marcarlas todas.
+1. Seleccione las personas para el evento en la lista. Utilice **Ctrl** (o **Comando** en un Mac) para hacer clic en varias personas o **Seleccionar todo** para marcarlos todas.
 
    ![](assets/five.png)
 
-1. Haga clic en Acciones **** personales, pase el ratón sobre **Programas** y seleccione **Cambiar estado** de Programa.
+1. Haga clic en **Acciones personales**, pase el ratón por encima de **Programas** y seleccione **Cambiar estado de Programa**.
 
    ![](assets/six.png)
 
@@ -67,7 +67,7 @@ Ahora que sabes *cuándo*, es hora de agregar el *quién*.
 
    ![](assets/seven.png)
 
-1. Haga clic en la lista desplegable **Nuevo estado** y seleccione **Presentación > Registrado**. Haga clic en **Ejecutar ahora**.
+1. Haga clic en la lista desplegable **Nuevo estado** y seleccione **Presentación de ruta > Registrado**. Haga clic en **Ejecutar ahora**.
 
    ![](assets/eight.png)
 
