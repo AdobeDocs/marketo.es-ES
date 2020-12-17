@@ -20,7 +20,7 @@ Puede desactivar un programa de participación con el botón de un conmutador. E
 
    ![Imagen uno](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Configuración]** .
+1. Haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ Puede desactivar un programa de participación con el botón de un conmutador. E
    >
    >Los programas de participación están activados de forma predeterminada, a menos que supere el límite de suscripciones.
 
-1. Hay un botón de [!UICONTROL Programa] a la derecha. Seleccione **[!UICONTROL Activado]** o **[!UICONTROL Desactivado]**.
+1. Hay un botón [!UICONTROL Programa] a la derecha. Seleccione **[!UICONTROL Activado]** o **[!UICONTROL Desactivado]**.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
