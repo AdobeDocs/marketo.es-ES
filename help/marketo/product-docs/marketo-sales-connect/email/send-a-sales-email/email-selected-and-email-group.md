@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Enviar correo electrónico seleccionado y grupo de correo electrónico {#email-selected-and-email-group}
+# Grupo de correo electrónico seleccionado y grupo de correo electrónico {#email-selected-and-email-group}
 
 Una vez creado un grupo y agregados los contactos, tiene dos opciones al enviar un correo electrónico de grupo de destino.
 
 ## Correo electrónico seleccionado {#email-selected}
 
-Con el correo electrónico seleccionado, puede `select specific recipients in the group` ponerse en contacto con él. Este método también `allows you to edit each email before they get sent out`.
+Si utiliza el correo electrónico seleccionado, puede `select specific recipients in the group` con el que desea ponerse en contacto. Este método también `allows you to edit each email before they get sent out`.
 
 >[!NOTE]
 >
 >Este método se recomienda si desea enviar un correo electrónico de unos 15 destinatarios o menos y desea editar cada correo electrónico.
 
-Puede ser `add specific content` relevante para cada destinatario antes de que se envíe el correo electrónico del grupo.
+Puede `add specific content` ser relevante para cada destinatario antes de que se envíe el correo electrónico del grupo.
 
 ## Enviar todo el grupo por correo electrónico {#email-entire-group}
 
@@ -33,4 +33,4 @@ También le damos la opción de enviar un correo electrónico a todos los miembr
 >
 >Este método se recomienda cuando se realizan envíos de grupos más grandes.
 
-En el grupo, seleccione Grupo **de** correo electrónico. Lo hará `pull in everyone in the group for you to email`.  Aquí puede utilizar una plantilla designada y seleccionar previsualización para obtener una visión del aspecto que tendrá el correo electrónico antes de enviarlo. Una vez que todo se vea bien, simplemente pulse Enviar!
+En el grupo, seleccione **Grupo de correo electrónico**. Será `pull in everyone in the group for you to email`.  Aquí puede utilizar una plantilla designada y seleccionar previsualización para obtener una visión del aspecto que tendrá el correo electrónico antes de enviarlo. Una vez que todo se vea bien, simplemente pulse Enviar!
