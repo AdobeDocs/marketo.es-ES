@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Visualización de la fuente de posibles clientes en Salesforce1 {#seeing-lead-feed-in-salesforce}
+# Ver la fuente de posibles clientes en Salesforce1 {#seeing-lead-feed-in-salesforce}
 
 La fuente de posibles clientes es una lista de eventos interesantes hecha por sus clientes.
 
-1. Vaya al área **de Marketing** en Salesforce1.
+1. Vaya al área **Comercialización** de Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ La fuente de posibles clientes es una lista de eventos interesantes hecha por su
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Toque **Fuente** de posibles clientes.
+1. Toque **Fuente de posibles clientes**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
