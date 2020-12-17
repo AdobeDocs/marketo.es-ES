@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Registrar correo entrante de los posibles clientes en el mercado {#log-inbound-mail-from-your-leads-in-marketo}
+# Registrar correo entrante de sus posibles clientes en el mercado {#log-inbound-mail-from-your-leads-in-marketo}
 
 Puede registrar las respuestas de los leads directamente en Outlook con el Añada de correo electrónico de Marketing to.
 
