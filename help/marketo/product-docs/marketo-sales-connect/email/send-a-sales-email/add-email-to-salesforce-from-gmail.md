@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Añadir correo electrónico a Salesforce le permite insertar cualquier correo electrónico que reciba en Gmail en su cuenta de Salesforce. Realizamos la búsqueda en función del remitente del correo electrónico, por lo que actualmente sólo podemos utilizar este botón para los correos electrónicos que ha recibido.
 
-Estamos trabajando en cambiar la funcionalidad para permitirle registrar los correos electrónicos que ya ha enviado. Mientras tanto, si no se registró automáticamente al enviarse, o si aparece en sus actividades con errores en el registro [de](http://toutapp.com/next#settings/crm/salesforce/activity)actividades, puede reenviarlo a su dirección de correo electrónico de [Salesforce BCC.](http://docs.marketo.com/x/soLS)
+Estamos trabajando en cambiar la funcionalidad para permitirle registrar los correos electrónicos que ya ha enviado. Mientras tanto, si no se registró automáticamente al enviarse, o si aparece en las actividades fallidas en el [registro de actividades](http://toutapp.com/next#settings/crm/salesforce/activity), puede reenviarlo a su [dirección de correo electrónico de Salesforce BCC.](http://docs.marketo.com/x/soLS)
