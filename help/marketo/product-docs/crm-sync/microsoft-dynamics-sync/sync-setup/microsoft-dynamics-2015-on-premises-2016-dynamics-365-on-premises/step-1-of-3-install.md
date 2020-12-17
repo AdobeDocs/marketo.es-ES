@@ -23,9 +23,9 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
 >[!PREREQUISITES]
 >
->Si utiliza Microsoft Dynamics On-Premise, debe tener configurada la implementación [de](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) Internet Facing (IFD) con Servicios [de federación de](https://msdn.microsoft.com/en-us/library/bb897402.aspx) Active Directory 2.0+ (ADFS). Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
+>Si utiliza Microsoft Dynamics On-Premise, debe tener [Implementación de Internet Facing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurados. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
->[Descargue la solución](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) de administración de posibles clientes de Marketing to antes de realizar el inicio.
+>[Descargue la ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solución de administración de posibles clientes de Marketing to antes de realizar el inicio.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 >
 >Necesita privilegios de administrador de CRM para realizar esta sincronización.
 
-1. Inicie sesión en **Dynamics.** Haga clic en el menú desplegable **Microsoft Dynamics CRM** y seleccione **Configuración**.
+1. Inicie sesión en **Dynamics.** Haga clic en el menú desplegable  **Microsoft Dynamics** CRM y seleccione  **Configuración**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -49,7 +49,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Vista de la información de la solución y haga clic en **Vista de los detalles** del paquete de la solución.
+1. Vista la Información de la solución y haga clic en **Detalles del paquete de la solución de Vista**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -81,7 +81,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. La Administración de posibles clientes de Marketing Cloud ahora aparecerá en la página **Todas las soluciones** .
+1. La Administración de posibles clientes de Marketing Cloud ahora aparecerá en la página **Todas las soluciones**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
