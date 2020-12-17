@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Si tiene Multi-Factor Authentication (MFA) habilitado para Dynamics Sync, debe deshabilitarlo para que Dynamics se sincronice correctamente con Marketing. Para obtener más información, póngase en contacto con la asistencia técnica [de marketing](http://nation.marketo.com/community/support_solutions).
+>Si tiene Multi-Factor Authentication (MFA) habilitado para Dynamics Sync, debe deshabilitarlo para que Dynamics se sincronice correctamente con Marketing. Para obtener más información, póngase en contacto con [Soporte técnico de marketing](http://nation.marketo.com/community/support_solutions).
 
 ## Ejecutar Validar sincronización en Marketing {#run-validate-sync-in-marketo}
 
 Es muy importante ejecutar la herramienta Validar sincronización para asegurarse de que Microsoft Dynamics Sync con Marketing está correctamente configurado antes de establecer la conexión final entre ellos. El proceso genera una lista de siete pasos de configuración que señalan dónde se producen problemas. La verificación de que se han realizado correctamente puede ahorrar mucho tiempo más tarde.
 
-1. Haga clic en la ficha **Administración** y, a continuación, en el vínculo **Microsoft Dynamics** del área Integración.
+1. Haga clic en la ficha **Administración** y luego en el vínculo **Microsoft Dynamics** en el área Integración.
 
    ![](assets/image2015-9-28-16-3a7-3a51.png)
 
@@ -29,7 +29,7 @@ Es muy importante ejecutar la herramienta Validar sincronización para asegurars
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
-1. Haga clic en la ficha **Validar configuración** de sincronización.
+1. Haga clic en la ficha **Validar configuración de sincronización**.
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 
@@ -39,13 +39,13 @@ Es muy importante ejecutar la herramienta Validar sincronización para asegurars
 
    >[!NOTE]
    >
-   >Si se ha sincronizado antes, **CRM** en el árbol izquierdo leerá **Microsoft Dynamics** y los datos del formulario anterior pueden rellenarse previamente.
+   >Si ha sincronizado antes, **CRM** en el árbol izquierdo leerá **Microsoft Dynamics**, y los datos del formulario anterior pueden rellenarse previamente.
 
 1. Si todo está bien, Validar sincronización genera una lista de comprobación llena de marcas de verificación verdes ![—](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Si ve un ![—](assets/delete.png), ese paso tiene un problema. Consulte [Corregir problemas](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) de sincronización de validación de Dynamics para identificar y corregir el problema. A continuación, vuelva a ejecutar los pasos de validación de sincronización hasta que el resultado sea como la imagen anterior.
+1. Si ve un ![—](assets/delete.png), entonces ese paso tiene un problema. Consulte [Solucionar problemas de sincronización de validación de Dynamics](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) para identificar y solucionar el problema. A continuación, vuelva a ejecutar los pasos de validación de sincronización hasta que el resultado sea como la imagen anterior.
 
    >[!CAUTION]
    >
