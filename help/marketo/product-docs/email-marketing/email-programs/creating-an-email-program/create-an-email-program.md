@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Utilice los programas de correo electrónico para enviar rápida y fácilmente un correo electrónico a un grupo de personas.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/one.png)
 
@@ -23,13 +23,13 @@ Utilice los programas de correo electrónico para enviar rápida y fácilmente u
 
    ![](assets/two.png)
 
-1. Introduzca un nombre, seleccione **Correo electrónico** como tipo de Programa y haga clic en **Crear**.
+1. Escriba un Nombre, seleccione **Correo electrónico** como Tipo de Programa y haga clic en **Crear**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Al seleccionar **Correo electrónico** como Tipo de Programa, el Canal se establecerá automáticamente en Envío **por** correo electrónico. Puede cambiarlo si lo desea.
+   >Al seleccionar **Correo electrónico** como Tipo de Programa, el Canal se establecerá automáticamente en **Enviar correo electrónico**. Puede cambiarlo si lo desea.
 
    ![](assets/four.png)
 
