@@ -19,11 +19,11 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Haga clic en la lista desplegable **Tipo** de **entrada** .
+1. Haga clic en la lista desplegable **Entrada** **Tipo**.
 
    >[!NOTE]
    >
-   >Los tipos de entrada predeterminados serán **Correo electrónico** **Programas** y **Campañas** **inteligentes** **con** **** Correo electrónico.
+   >Los tipos de entrada predeterminados serán **Correo electrónico** **Programas** y **Campañas** **Inteligentes** **con** **Correo electrónico**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    >[!TIP]
    >
-   >Para obtener descripciones de los tipos de entrada estándar, consulte Tipos [de entrada de Vista de](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)Calandario del programa.
+   >Para obtener descripciones de los tipos de entrada estándar, consulte [Tipos de entrada de Vista de Calandario del programa](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Seleccione las etiquetas de programa que le interesen.
 
