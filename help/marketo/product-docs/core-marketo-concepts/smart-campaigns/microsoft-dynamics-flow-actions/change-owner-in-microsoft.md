@@ -17,7 +17,7 @@ Si ya tiene personas asignadas a un propietario, puede utilizar este paso de flu
 
 >[!NOTE]
 >
->Este paso de flujo **solo funcionará cuando se utilice con activadores**, no filtros, en la campaña inteligente.
+>Este paso de flujo sólo funcionará **cuando se utilice con activadores**, no filtros, en la campaña inteligente.
 
 ![](assets/one-1.png)
 
