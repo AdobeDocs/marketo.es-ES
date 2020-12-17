@@ -19,7 +19,7 @@ Si tiene una antigua campaña inteligente que ya no necesita, puede eliminarla. 
 >
 >Asegúrese de eliminar. Una vez que elimine una campaña inteligente, no se podrá restaurar.
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -27,7 +27,7 @@ Si tiene una antigua campaña inteligente que ya no necesita, puede eliminarla. 
 
    >[!TIP]
    >
-   >Para cancelar el procesamiento de una campaña inteligente activa sin eliminarla del todo, aprenda a [cancelar una campaña](abort-a-smart-campaign.md)inteligente.
+   >Para cancelar el procesamiento de una campaña inteligente activa sin eliminarla por completo, aprenda a [cancelar una campaña inteligente](abort-a-smart-campaign.md).
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -37,6 +37,6 @@ Si tiene una antigua campaña inteligente que ya no necesita, puede eliminarla. 
 
    >[!CAUTION]
    >
-   >NO **elimine** una campaña inteligente activa con personas en los pasos de flujo. Es probable que la campaña se siga ejecutando.
+   >**NOT** elimina una campaña inteligente activa con personas en los pasos de flujo. Es probable que la campaña se siga ejecutando.
 
 ¡Bonito!
