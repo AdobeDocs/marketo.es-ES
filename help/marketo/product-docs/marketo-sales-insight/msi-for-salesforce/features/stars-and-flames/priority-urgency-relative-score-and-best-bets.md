@@ -43,7 +43,7 @@ Las Mejores Apuestas son sus posibles clientes y contactos con la mayor urgencia
 
 >[!NOTE]
 >
->Si sus mejores apuestas no coinciden con los mejores leads y contactos que posee, hable con alguien de su compañía que tenga acceso a Marketing para actualizar sus reglas [de puntuación](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Si sus mejores apuestas no coinciden con los mejores leads y contactos que posee, hable con alguien de su compañía que tenga acceso a Marketing para actualizar sus [Reglas de Puntuación](../../../../../getting-started/quick-wins/simple-scoring.md).
 
 ### Cómo se calcula la urgencia y la puntuación relativa
 
