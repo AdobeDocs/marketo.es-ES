@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketing tiene una función de usuario especial para la aplicación de registro de evento. A continuación se explica cómo crear una nueva función con permiso para usar la aplicación.
 
-## Crear una nueva función de usuario para móvil {#create-a-new-user-role-for-mobile}
+## Crear una nueva función de usuario para dispositivos móviles {#create-a-new-user-role-for-mobile}
 
 1. Haga clic en **Administración**.
 
@@ -29,7 +29,7 @@ Marketing tiene una función de usuario especial para la aplicación de registro
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Escriba un nombre para la nueva función y una descripción opcional. Marque la casilla **Acceder a la aplicación** móvil y haga clic en **Crear**.
+1. Escriba un nombre para la nueva función y una descripción opcional. Marque la casilla **Acceder a la aplicación móvil** y haga clic en **Crear**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,7 +37,7 @@ Marketing tiene una función de usuario especial para la aplicación de registro
 
 ## Invitar a nuevos usuarios a la aplicación de registro {#invite-new-users-for-the-check-in-app}
 
-1. Haga clic en la ficha **Usuarios** .
+1. Haga clic en la ficha **Usuarios**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
