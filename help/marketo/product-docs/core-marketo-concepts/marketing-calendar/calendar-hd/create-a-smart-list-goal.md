@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Los objetivos son formas de seguir el progreso y motivar a su equipo. Se pueden combinar con listas inteligentes para rastrear todo tipo de cosas en Marketing. Además, después de configurar un objetivo de lista inteligente, se actualizará automáticamente cada 2 horas cuando se utilice en una presentación.
 
-Al igual que las presentaciones, los objetivos son específicos del [espacio](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)de trabajo.
+Al igual que las presentaciones, los objetivos son específicos del [espacio de trabajo](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vaya al **calendario**.
+1. Vaya al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -29,15 +29,15 @@ Al igual que las presentaciones, los objetivos son específicos del [espacio](..
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Arrastre y suelte **Smart Lista Goal** en el lienzo.
+1. Arrastre y suelte **Objetivo de Lista inteligente** en el lienzo.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Escriba un nombre para el objetivo e introduzca un Destinatario **de** objetivo. A continuación, haga clic en **Crear**.
+1. Escriba un nombre para el objetivo e introduzca un **Destinatario de objetivo**. A continuación, haga clic en **Crear**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Defina la lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)inteligente. ¡Las posibilidades son infinitas!
+1. [Defina la lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) inteligente. ¡Las posibilidades son infinitas!
 
    ![](assets/mql.png)
 
