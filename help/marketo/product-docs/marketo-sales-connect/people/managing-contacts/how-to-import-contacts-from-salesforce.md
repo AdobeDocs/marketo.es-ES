@@ -18,6 +18,6 @@ Nuestro botón &quot;Insertar en contacto con las ventas&quot; tomará una lista
 1. En una lista de posibles clientes de Salesforce, seleccione las personas que desee que se incluyan en el compromiso de ventas.
 1. Seleccione **Insertar en MSC**.
 1. Aparecerá una nueva ventana que verifica los posibles clientes que desea insertar.
-1. Seleccione **Continuar con el grupo**. Sales Connect agregará este grupo llamado &#39;SFDC-......*&#39;* a la página Personas de la aplicación [](http://toutapp.com/)web.
+1. Seleccione **Continuar con el grupo**. Sales Connect agregará este grupo llamado &#39;SFDC-......*&#39;* a la página Personas en la aplicación [ ](http://toutapp.com/)web.
 1. Seleccione **Enviar correo electrónico a todo el grupo** para enviar a este grupo de contactos un correo electrónico de grupo.
 
