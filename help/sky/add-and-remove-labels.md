@@ -12,14 +12,14 @@ ht-degree: 0%
 
 # Añadir y eliminar etiquetas
 
-Puede asignar etiquetas a cualquier recurso en Actividades de marketing, lo que convierte la organización y la búsqueda de recursos en una tarea sencilla.
+Puede asignar etiquetas a cualquier recurso en [!UICONTROL Actividades de marketing], lo que convierte la organización y la búsqueda de recursos en una tarea sencilla.
 
 ## Añadir etiquetas
 
-Para agregar nuevas etiquetas a un recurso, vaya a la página [!UICONTROL Detalles] del recurso en la ficha [!UICONTROL Información general] .
+Para agregar nuevas etiquetas a un recurso, navegue a la página [!UICONTROL Detalles] del recurso en la ficha [!UICONTROL Información general].
 <br> 
 
-En la sección [!UICONTROL Etiquetas] , haga clic en **[!UICONTROL Añadir nuevas etiquetas]**.
+En la sección [!UICONTROL Etiquetas], haga clic en **[!UICONTROL Añadir nuevas etiquetas]**.
 
 ![Imagen uno](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
@@ -37,6 +37,6 @@ Si va a agregar una etiqueta que ya se ha creado en otra parte, escriba para bus
 
 ## Eliminar etiquetas
 
-Puede eliminar cualquier etiqueta haciendo clic en la **[!UICONTROL X]**.
+Puede eliminar cualquier etiqueta haciendo clic en **[!UICONTROL X]**.
 
 ![Imagen Cuatro](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
