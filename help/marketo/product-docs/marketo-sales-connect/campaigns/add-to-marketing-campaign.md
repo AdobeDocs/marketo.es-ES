@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Para agregar una persona a una Campaña de marketing desde Sales Connect, Sales Connect debe tener el ID de posible cliente de marketing de la persona. [Aprenda a capturar los ID de marketing aquí](http://docs.marketo.com/x/CQXLAQ).
 
-1. Haga clic en la ficha **Personas** .
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/one-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. Haga clic en Campaña **** de mercadotecnia.
+1. Haga clic en **Campaña de mercadotecnia**.
 
    ![](assets/six-1.png)
 
@@ -63,9 +63,9 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-## Añadir un grupo en una Campaña {#add-a-group-to-a-campaign}
+## Añadir un grupo a una Campaña {#add-a-group-to-a-campaign}
 
-1. Haga clic en la ficha **Personas** .
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    ![](assets/thirteen.png)
 
-1. Seleccione Campaña **de mercadotecnia**.
+1. Seleccione **Campaña de mercadotecnia**.
 
    ![](assets/six-1.png)
 
