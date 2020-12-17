@@ -17,17 +17,17 @@ Añadir una cuenta con nombre en una lista de cuenta es sencillo.
 
 >[!NOTE]
 >
->Esto se aplica solamente a Listas de cuenta, **no** a Listas de cuentas dinámicas.
+>Esto se aplica solamente a Listas de cuenta, **no** Listas de cuenta dinámica.
 
 1. Seleccione la fila de la cuenta con nombre a la que desee agregar.
 
    ![](assets/four-1.png)
 
-1. Haga clic en la lista desplegable Acciones **de cuenta** con nombre y seleccione **Añadir a la Lista** de cuenta.
+1. Haga clic en la lista desplegable **Acciones de cuenta con nombre** y seleccione **Añadir a la Lista de cuenta**.
 
    ![](assets/five-1.png)
 
-1. Haga clic en la lista desplegable Lista **de** cuenta, seleccione la lista de cuenta que desee y haga clic en **Añadir**.
+1. Haga clic en la lista desplegable **Lista de cuenta**, seleccione la lista de cuenta que desee y haga clic en **Añadir**.
 
    ![](assets/six-1.png)
 
