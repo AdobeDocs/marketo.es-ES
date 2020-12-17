@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir zoom como un servicio LaunchPoint {#add-zoom-as-a-launchpoint-service}
+# Añadir Zoom como servicio de LaunchPoint {#add-zoom-as-a-launchpoint-service}
 
 Marketo administra el registro y la asistencia de zoom.
 
@@ -57,5 +57,5 @@ Marketo administra el registro y la asistencia de zoom.
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear un evento con zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Obtenga información sobre cómo [crear un evento con Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
 
