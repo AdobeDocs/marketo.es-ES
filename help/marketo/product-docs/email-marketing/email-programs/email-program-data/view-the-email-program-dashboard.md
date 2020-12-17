@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Vista del Panel del Programa de correo electrónico {#view-the-email-program-dashboard}
+# Vista del Panel de Programa de correo electrónico {#view-the-email-program-dashboard}
 
 Compruebe el rendimiento del programa de correo electrónico (con o sin una prueba A/B) con este panel.
 
-## Seleccione el Programa de correo electrónico {#select-your-email-program}
+## Seleccione su Programa de correo electrónico {#select-your-email-program}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
