@@ -43,7 +43,7 @@ Imaginemos que en su reciente presentación, una persona te dio información de 
 
    >[!TIP]
    >
-   >Existen muchas formas de actualizar los datos de las personas en Marketing Cloud. Consulte [Importación de una Lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) y [Cambio del valor](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de los datos.
+   >Existen muchas formas de actualizar los datos de las personas en Marketing Cloud. Consulte [Importación de una Lista de Personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) y [Cambio del valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Actualizar los datos de persona {#update-the-person-data}
 
