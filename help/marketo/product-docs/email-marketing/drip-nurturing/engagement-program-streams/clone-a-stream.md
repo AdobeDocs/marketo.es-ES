@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Clonar un flujo por varias razones, incluida la prueba de diferentes pedidos y distintas cadencias.
 
-1. Seleccione el programa de participación y vaya a la ficha **Flujos** .
+1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
 
    ![](assets/cloneasteam.jpg)
 
