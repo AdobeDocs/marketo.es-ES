@@ -25,7 +25,7 @@ Cuando se elige una fecha y hora para un Programa de correo electrónico, se det
 
 ## Inicio de cabezal estándar {#standard-head-start}
 
-1. Haga clic en Actividades **de marketing**.
+1. Haga clic en **Actividades de mercadotecnia**.
 
    ![](assets/one-1.png)
 
@@ -37,7 +37,7 @@ Cuando se elige una fecha y hora para un Programa de correo electrónico, se det
    >
    >El Inicio de cabezal no se puede utilizar con la prueba A/B.
 
-1. En el mosaico Programar, programe el correo electrónico y, a continuación, seleccione el cuadro **Inicio** de encabezado.
+1. En el mosaico Programar, programe el correo electrónico y, a continuación, seleccione el cuadro **Inicio de encabezado**.
 
    ![](assets/three-1.png)
 
@@ -53,10 +53,10 @@ Cuando se elige una fecha y hora para un Programa de correo electrónico, se det
 
    Después de la aprobación del programa, puede que aparezcan cuatro estados diferentes en el mosaico Aprobación.
 
-   * **Esperando para ejecutar:** Después de aprobar el programa.
-   * **Procesamiento iniciado, esperando para ejecutarse:** El procesamiento está en curso.
-   * **Procesamiento terminado, esperando para ejecutarse:** Procesamiento completado, correo electrónico que está esperando el inicio programado.
-   * **Finalizó:** Programa completado.
+   * **Esperando para ejecutar:** una vez aprobado el programa.
+   * **Procesamiento iniciado, esperando para ejecutarse:** Procesamiento en curso.
+   * **Procesamiento terminado, esperando para ejecutarse:** procesamiento completado, correo electrónico que está esperando el inicio programado.
+   * **Finalizado:** Programa completado.
 
    >[!TIP]
    >
@@ -68,13 +68,13 @@ Cuando se elige una fecha y hora para un Programa de correo electrónico, se det
 
 ## Inicio principal con zona horaria de Destinatario {#head-start-with-recipient-time-zone}
 
-Nuestra función de Inicio de cabezal actual requiere que el programa se programe con al menos 12 horas de anticipación. ¿Qué significa eso para el huso horario de Destinatario? Recuerde que cuando el huso horario de Destinatario está activo, se ejecuta el inicio de ejecutar el programa de correo electrónico a medianoche en el huso horario más antiguo (UTC +14:00). Por lo tanto, para habilitar **tanto** el Inicio principal como el huso horario de Destinatario, los programas deben programarse **al menos 12 horas antes del primer huso horario (UTC +14:00**).
+Nuestra función de Inicio de cabezal actual requiere que el programa se programe con al menos 12 horas de anticipación. ¿Qué significa eso para el huso horario de Destinatario? Recuerde que cuando el huso horario de Destinatario está activo, se ejecuta el inicio de ejecutar el programa de correo electrónico a medianoche en el huso horario más antiguo (UTC +14:00). Por lo tanto, para habilitar **tanto** Inicio principal como Huso horario de Destinatario, los programas deben programarse **al menos 12 horas antes del primer huso horario (UTC +14:00**).
 
-Esto significa que si usted está en América/Los Ángeles y desea habilitar tanto el Inicio principal como el huso horario del Destinatario, debe programar el programa **34 horas** antes. ¿Cómo llegamos a este número?
+Esto significa que si se encuentra en América/Los Ángeles y desea habilitar tanto el Inicio principal como el huso horario del Destinatario, debe programar el programa **34 horas** con antelación. ¿Cómo llegamos a este número?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Obtenga más](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) información sobre cómo programar programas de correo electrónico con el huso horario de Destinatario.
+[Obtenga ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) más información sobre cómo programar programas de correo electrónico con el huso horario de Destinatario.
 
 >[!NOTE]
 >
