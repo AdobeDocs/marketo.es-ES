@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Compartir un grupo de leads o contactos con su equipo es bastante sencillo en Sales Connect.
 
-1. Vaya a la ficha **Personas** .
+1. Vaya a la ficha **Personas**.
 
    ![](assets/one-1.png)
 
