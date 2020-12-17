@@ -23,7 +23,7 @@ Si, en cualquier momento, decide que no desea seguir ejecutando la prueba de cor
 
 
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -37,5 +37,5 @@ Si, en cualquier momento, decide que no desea seguir ejecutando la prueba de cor
 
    `
 
-   ¡Ya has terminado! Si alguna vez decide que desea volver a configurar una prueba, siga adelante y [agregue un campeón/aspirante](add-an-email-champion-challenger.md)de correo electrónico.
+   ¡Ya has terminado! Si alguna vez decide que desea volver a configurar una prueba, siga adelante y [agregue un campeón/aspirante de correo electrónico](add-an-email-champion-challenger.md).
 
