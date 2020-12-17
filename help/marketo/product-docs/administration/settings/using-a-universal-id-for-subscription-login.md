@@ -19,13 +19,13 @@ Con el ID universal, sigue creando tickets de asistencia para cada una de sus su
 
 Se respetan los ajustes del nivel de suscripción para los usuarios que utilizan el identificador universal, por ejemplo, funciones, permisos y políticas de contraseña. Los cambios en el nivel de perfil del usuario se reflejan en todas las suscripciones, por ejemplo, el nombre, los apellidos y la dirección de correo electrónico.
 
-## Configuración de un ID universal {#setting-up-a-universal-id}
+## Configuración de un identificador universal {#setting-up-a-universal-id}
 
-Desde cada instancia individual, el administrador de marketing debe invitarlo a cada una de sus diferentes suscripciones con el mismo inicio de sesión. Marketing no puede combinar automáticamente los inicios de sesión existentes. Una vez activado el ID universal, **la instancia de Marketing no estará disponible** durante un máximo de 30 minutos. Si tiene una base de usuarios más grande, podría ser un poco más larga.
+Desde cada instancia individual, el administrador de marketing debe invitarlo a cada una de sus diferentes suscripciones con el mismo inicio de sesión. Marketing no puede combinar automáticamente los inicios de sesión existentes. Una vez que habilite el ID universal, **la instancia de Marketing no estará disponible** durante un máximo de 30 minutos. Si tiene una base de usuarios más grande, podría ser un poco más larga.
 
 >[!CAUTION]
 >
->Si el ID único o el ID universal están activados para un usuario, sus funciones y espacios de trabajo **no se pueden** editar después de la configuración inicial.
+>Si el ID único o el ID universal están activados para un usuario, sus funciones y espacios de trabajo pueden **no** editarse tras su configuración inicial.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Con un ID universal, puede ver la suscripción en la que ha iniciado sesión y s
 
 Al cerrar sesión y volver a iniciarla, Marketing inicia sesión automáticamente en la suscripción en la que inició sesión por última vez. Luego puede cambiar a una suscripción diferente si es necesario.
 
-## Perfiles comunitarios {#community-profiles}
+## Perfiles de la comunidad {#community-profiles}
 
 Si tiene varias suscripciones, puede tener varios perfiles de comunidad. Le recomendamos que elija el inicio de sesión vinculado a su perfil de comunidad más activo.
 
