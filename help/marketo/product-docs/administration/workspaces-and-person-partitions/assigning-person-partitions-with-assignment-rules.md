@@ -35,7 +35,7 @@ Al utilizar particiones personales, configure reglas de asignación para enrutar
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. En la ficha **Particiones de personas **, haga clic en Reglas **de asignación**.
+1. En la ficha **Particiones de personas **, haga clic en **Reglas de asignación**.
 
    ![](assets/two-6.png)
 
