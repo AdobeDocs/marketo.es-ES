@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Crear un usuario solo de API {#create-an-api-only-user}
 
-Si desea realizar la integración con Marketing mediante la API [](http://developers.marketo.com/documentation/rest/)REST, deberá crear un usuario solo de API. Así es como.
+Si desea realizar la integración con Marketing mediante la [API de REST](http://developers.marketo.com/documentation/rest/), deberá crear un usuario solo de API. Así es como.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Si desea realizar la integración con Marketing mediante la API [](http://develo
 >
 >**Se requieren permisos de administración**
 
-1. En **Administración**, haga clic en **Usuarios y funciones.**
+1. En **Administración**, haga clic en **Usuarios y roles.**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
@@ -43,7 +43,7 @@ Si desea realizar la integración con Marketing mediante la API [](http://develo
    >
    >Añada un motivo opcional o una fecha de caducidad de acceso. Las fechas de caducidad de acceso son prácticas para los empleados a corto plazo.
 
-1. Seleccione la función Solo **** API y marque la casilla Solo **** API. Haga clic en **Siguiente**.
+1. Seleccione la función **API Only** y marque la casilla **API Only**. Haga clic en **Siguiente**.
 
    ![](assets/four.png)
 
