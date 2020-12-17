@@ -19,7 +19,7 @@ Crear Tarea en Microsoft crea una tarea en Actividades relacionadas con la Perso
 
 >[!NOTE]
 >
->Este paso de flujo **solo funcionará cuando se utilice con activadores**, no filtros, en la campaña inteligente.
+>Este paso de flujo sólo funcionará **cuando se utilice con activadores**, no filtros, en la campaña inteligente.
 
 De forma predeterminada, el paso de flujo tendrá este aspecto:   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Personalice todos los campos para crear la tarea como desee.   ![](assets/msd2.p
 
 >[!TIP]
 >
->Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}``{{campaign.tokens}}` y `{{system.tokens}}` en el **Asunto** y la **Descripción**. Consulte [Tokens para ver los pasos](http://docs.marketo.com/x/c4AR) de flujo para obtener más información.
+>Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` y `{{system.tokens}}` en **Subject** y **Description**. Consulte [Tokens para pasos de flujo](http://docs.marketo.com/x/c4AR) para obtener más información.
 
