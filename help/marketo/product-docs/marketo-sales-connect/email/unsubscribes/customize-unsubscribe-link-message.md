@@ -21,7 +21,7 @@ Siempre hemos permitido a los equipos personalizar sus mensajes de enlace de can
 
 ## Personalizar la mensajería para usted mismo {#customize-messaging-for-yourself}
 
-1. Inicie sesión en la aplicación [](http://toutapp.com/login)web, haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Siempre hemos permitido a los equipos personalizar sus mensajes de enlace de can
 
 ## Configurar la mensajería de cancelación de suscripciones para su equipo {#set-unsubscribe-messaging-for-your-team}
 
-1. Inicie sesión en la aplicación [](http://toutapp.com/login)web, haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/six.png)
 
