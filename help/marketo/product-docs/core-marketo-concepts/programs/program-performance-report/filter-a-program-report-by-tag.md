@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Filtrar un informe de Programa por etiqueta {#filter-a-program-report-by-tag}
 
-Centre el informe [de rendimiento del](create-a-program-performance-report.md)programa en [etiquetas](http://docs.marketo.com/display/docs/tags)específicas.
+Centre su [informe de rendimiento de programa](create-a-program-performance-report.md)en [etiquetas](http://docs.marketo.com/display/docs/tags) específicas.
 
 1. Vaya a **Marketing** **Actividades** (o **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el informe Rendimiento **de** Programa.
+1. Seleccione el informe **Rendimiento del Programa**.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre uno de los filtros de **Etiquetas** .
+1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre uno de los filtros **Etiquetas**.
 
    ![](assets/prospects.jpg)
 
@@ -35,7 +35,7 @@ Centre el informe [de rendimiento del](create-a-program-performance-report.md)pr
 
    ![](assets/prospect2.jpg)
 
-1. ¡Listo! Haga clic en la ficha **Informe** para ver *solo* los programas que coinciden con las etiquetas seleccionadas en el informe.
+1. ¡Listo! Haga clic en la ficha **Informe** para ver *sólo* los programas que coinciden con las etiquetas seleccionadas en el informe.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
@@ -53,5 +53,5 @@ Centre el informe [de rendimiento del](create-a-program-performance-report.md)pr
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
