@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cree un informe de rendimiento de los vínculos de correo electrónico para ver el rendimiento de los vínculos de los mensajes de correo electrónico.
 
-1. [Cree un informe en un programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione Rendimiento **de vínculo de** correo electrónico como tipo de informe.
+1. [Cree un informe en un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione  **Rendimiento del vínculo de correo electrónico** como tipo de informe.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -23,7 +23,7 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Haga clic con el doble en **Fecha de Actividad** en **Configuración**.
+1. Haga clic con el botón doble en **Fecha de Actividad** en **Configuración**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
@@ -39,7 +39,7 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Las columnas disponibles](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para un informe de rendimiento de vínculo de correo electrónico incluyen:
+[Las columnas ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles para un informe Rendimiento de vínculo de correo electrónico incluyen:
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 
 >[!TIP]
 >
->Si desea saber exactamente qué hizo una persona, puede abrir el Registro [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) Actividades en la página Detalle [de](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) Persona desde la ficha Miembros del programa.
+>Si desea saber exactamente qué hizo una persona, puede abrir el [Registro de Actividades](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) en la página [Detalle de persona](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) desde la ficha Miembros del programa.
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Obtenga más información sobre [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
