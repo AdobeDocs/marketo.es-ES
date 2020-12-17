@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir texto con hipervínculos {#add-hyperlinked-text}
+# Añadir texto hiperenlazado {#add-hyperlinked-text}
 
 1. Escriba el texto que desee que esté hipervinculado (por ejemplo, haga clic aquí).
 1. Seleccione el texto.
