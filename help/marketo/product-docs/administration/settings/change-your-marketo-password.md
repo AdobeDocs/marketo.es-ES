@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Cambie la contraseña de Marketo con estos sencillos pasos.
 
-1. Cualquier usuario de Marketing Cloud puede hacer clic en su nombre y en **Mi cuenta**.
+1. Cualquier usuario de Marketing Cloud puede hacer clic en su nombre y **Mi cuenta**.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Los administradores también pueden hacer clic en **Administrador** y, a continuación, en **Cambiar contraseña** para cambiar su contraseña de administrador.
+1. Los administradores también pueden hacer clic en **Administración** y luego **Cambiar contraseña** para cambiar su contraseña de administrador.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
