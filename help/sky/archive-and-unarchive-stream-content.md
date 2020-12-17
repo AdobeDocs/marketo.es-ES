@@ -45,11 +45,11 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
    ![Imagen cinco](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen seis](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **[!UICONTROL Mostrar contenido]** archivado.
+1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **[!UICONTROL Mostrar contenido archivado]**.
 
    ![Imagen siete](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
