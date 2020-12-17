@@ -14,7 +14,7 @@ ht-degree: 0%
 # SEO - Eliminar una palabra clave {#seo-remove-a-keyword}
 
 1. Si tiene una palabra clave para la que no desea continuar la optimización, a continuación se muestra cómo eliminarla:
-1. Haga clic para ir a la sección **Palabras clave** .
+1. Haga clic para ir a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Vuelva a hacer clic en **DELETE** para confirmar.
+1. Haga clic en **DELETE** nuevamente para confirmar.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
 
