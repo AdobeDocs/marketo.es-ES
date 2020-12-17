@@ -22,7 +22,7 @@ ht-degree: 0%
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
 Se ha actualizado el editor de texto con un aspecto moderno, que incluye formato de texto optimizado, edición de imágenes, inserción de vínculos y edición de HTML. El editor HTML ahora cuenta con una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se lanzará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración** del editor. Si nota problemas con la nueva versión del editor de texto, ¡queremos saberlo! Envíe una breve descripción a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se lanzará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**. Si nota problemas con la nueva versión del editor de texto, ¡queremos saberlo! Envíe una breve descripción a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -36,7 +36,7 @@ Alternar la versión del editor de texto.
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## Inicio único de sesión de entrega por correo electrónico {#email-deliverability-single-sign-on}
+## Entregabilidad por correo electrónico Registro único {#email-deliverability-single-sign-on}
 
 Al hacer clic en el mosaico de la entrega por correo electrónico, ya no necesita proporcionar sus credenciales de inicio de sesión.
 
@@ -50,7 +50,7 @@ Al hacer clic en el mosaico de la entrega por correo electrónico, ya no necesit
 
 **Acceso a objetos de compañía mediante la API** REST: La API de REST ahora proporciona acceso a la Compañía de Marketing (también conocida como Account). Esto significa que puede leer, actualizar y eliminar objetos de compañía creados en Marketing y asociar leads con dichas compañías mediante la API de posibles clientes actualizada.
 
-Obtenga [más](http://developers.marketo.com/documentation/company-api/) información en nuestra guía de referencia para la API de Compañía.
+Obtenga más información [más](http://developers.marketo.com/documentation/company-api/) en nuestra guía de referencia para la API de Compañía.
 
 ## Acceder a la capacidad de entrega de correo electrónico {#access-email-deliverability}
 
