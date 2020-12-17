@@ -24,7 +24,7 @@ Con Campañas puede:
 
 Entonces, ¿cómo se configura una Campaña?
 
-1. Haga clic en la ficha **Campañas** .
+1. Haga clic en la ficha **Campañas**.
 
    ![](assets/one-1.png)
 
@@ -56,7 +56,7 @@ Entonces, ¿cómo se configura una Campaña?
    >
    >&quot;Días&quot; no es el número de días entre acciones, sino el día dentro de la secuencia. Por ejemplo, si la campaña va a durar 7 días, si se introduce &#39;3&#39; significa que la acción saldrá el día 3 de 7, **no **3 días después.
 
-1. Asegúrese de personalizar las opciones de programación y respuesta, como saltarse los fines de semana (algo sorprendente), visitando la ficha **Configuración** de la Campaña.
+1. Asegúrese de personalizar las opciones de programación y respuesta, como saltarse los fines de semana (algo sorprendente), visitando la **ficha Configuración** de su Campaña.
 
    ![](assets/seven.png)
 
