@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Información general de la función MSI {#msi-feature-overview}
+# Información general de la característica MSI {#msi-feature-overview}
 
 MSI cuenta con las siguientes funciones disponibles en Salesforce Lightning y Classic.
 
@@ -85,7 +85,7 @@ Campos:
 * Puntuación de posibles clientes de Mkto
 * Perspectiva de ventas: abre la página de lista completa del contacto
 
-## Diseño de la cuenta {#account-layout}
+## Diseño de cuenta {#account-layout}
 
 Páginas de VisualForce:
 
@@ -120,7 +120,7 @@ Las siguientes funciones **no están disponibles** en la página Diseño de opor
 * Acciones: Añadir a la Campaña de marketing, enviar mensaje de correo electrónico de marketing, Añadir/eliminar de la Lista de observación
 * Estrellas y llamas
 
-## Vista de Lista de posibles clientes y contactos (acciones masivas) {#lead-and-contact-list-view-bulk-actions}
+## Vista de Lista de posible cliente y contacto (acciones masivas) {#lead-and-contact-list-view-bulk-actions}
 
 Salesforce Lightning: Añada a la lista de observación, Añada a la Campaña de marketing y a los botones de acción masiva Enviar mensaje de correo electrónico de marketing en la vista de lista de posible cliente y contacto.
 
@@ -176,7 +176,7 @@ Salesforce Classic: Añada a la lista de observación, Añada a la Campaña de m
 
 Vista del rendimiento de los correos electrónicos enviados a través de Salesforce, Microsoft Dynamics o un complemento de Gmail o Outlook
 
-## MSI para dispositivos móviles {#msi-for-mobile}
+## MSI para móvil {#msi-for-mobile}
 
 Las funciones MSI son compatibles con la aplicación móvil de Salesforce
 
