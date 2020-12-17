@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al igual que la ficha Resultados de campañas inteligentes, puede ver la misma información en los programas de correo electrónico.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Al igual que la ficha Resultados de campañas inteligentes, puede ver la misma i
 
    ![](assets/controlpanelview.jpg)
 
-1. En el mosaico de la **Audiencia** , haga clic en Resultados **de** Vista.
+1. En el mosaico **Audiencia**, haga clic en **Resultados de la Vista**.
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ Al igual que la ficha Resultados de campañas inteligentes, puede ver la misma i
 >
 >**Buceo profundo**
 >
->¿Desea obtener más información sobre los Programas [de](http://docs.marketo.com/display/docs/email+program+actions)correo electrónico?
+>¿Desea obtener más información sobre [Programas de correo electrónico](http://docs.marketo.com/display/docs/email+program+actions)?
 
