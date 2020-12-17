@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las siguientes funciones están disponibles en la nueva solución MSI.
 
-## Panel de perspectiva de ventas de marketing en el diseño de posibles clientes  {#marketo-sales-insight-panel-in-lead-layout}
+## Panel de perspectiva de ventas de marketing en el diseño de posibles clientes {#marketo-sales-insight-panel-in-lead-layout}
 
 * Estrellas y llamas
 * Momento interesante
@@ -23,24 +23,24 @@ Las siguientes funciones están disponibles en la nueva solución MSI.
 * Puntuación
 * Correo electrónico (abrir y hacer clic)
 
-## Campos personalizados de perspectiva de ventas de marketing en el diseño de posibles clientes  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Campos personalizados de perspectiva de ventas de marketing en el diseño de posibles clientes {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Puntuación de posible cliente
 * Puntuación relativa
 * Prioridad
 * Urgencia
 
-## Botón de llamada a acción de perspectiva de marketing para ventas en el diseño de posibles clientes  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Botón de llamada a acción de Marketo Sales Insight en Diseño de posibles clientes {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Añadir a la Campaña de marketing
 * Enviar correo electrónico de marketing
 
-## Botón de acción masiva de perspectiva de marketing para ventas en la vista de lista de posibles clientes  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Botón de acción masiva de perspectiva de marketing para ventas en la vista de lista de posibles clientes {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Añadir a la Campaña de marketing
 * Enviar correo electrónico de marketing
 
-## Panel Perspectiva de ventas de marketing en el diseño Contacto  {#marketo-sales-insight-panel-in-contact-layout}
+## Panel de perspectiva de ventas de marketing en el diseño de contacto {#marketo-sales-insight-panel-in-contact-layout}
 
 * Estrellas y llamas
 * Momento interesante
@@ -48,24 +48,24 @@ Las siguientes funciones están disponibles en la nueva solución MSI.
 * Puntuación
 * Correo electrónico (abrir y hacer clic)
 
-## Campos personalizados de perspectiva de ventas de marketing en el diseño Contacto  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Campos personalizados de perspectiva de ventas de marketing en el diseño de contacto {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Puntuación de posible cliente
 * Puntuación relativa
 * Prioridad
 * Urgencia
 
-## Botón de llamada a acción de MarketingTo Sales Insight en el diseño Contacto  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Botón de llamada a acción de Marketingto Sales Insight en el diseño de contacto {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Añadir a la Campaña de marketing
 * Enviar correo electrónico de marketing
 
-## Botón de acción masiva de perspectiva de marketing para ventas en la vista de lista de contacto  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Botón de acción masiva de perspectiva de marketing para ventas en la vista de lista de contacto {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Añadir a la Campaña de marketing
 * Enviar correo electrónico de marketing
 
-## Página Mejores Apuestas de Marketing  {#marketo-best-bets-page}
+## Página Marketo Best Bets {#marketo-best-bets-page}
 
 * Prioridad (estrellas y llamas)
 * Nombre (hipervinculado a la página de posible cliente/contacto)
