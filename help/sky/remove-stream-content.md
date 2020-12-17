@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminación del contenido de flujo, el [archivado](/help/sky/archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no te importa perder las estadísticas históricas de algún contenido y solo quieres eliminarlo, así es como hacerlo.
+Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminación del contenido del flujo, [el archivado](/help/sky/archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no te importa perder las estadísticas históricas de algún contenido y solo quieres eliminarlo, así es como hacerlo.
 
 1. Seleccione el programa de participación.
 
    ![Imagen uno](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
