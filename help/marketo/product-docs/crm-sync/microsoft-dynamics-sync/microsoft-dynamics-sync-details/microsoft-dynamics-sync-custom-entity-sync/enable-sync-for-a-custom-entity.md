@@ -19,7 +19,7 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
@@ -32,15 +32,15 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Haga clic en el vínculo **Sincronizar esquema** .
+1. Haga clic en el vínculo **Sincronizar esquema**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Seleccione la entidad que desee sincronizar y haga clic en **Activar sincronización**.
+1. Seleccione la entidad que desee sincronizar y haga clic en **Habilitar sincronización**.
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Seleccione los campos que desee sincronizar o utilizar como [restricciones](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) o activadores en listas inteligentes. Cuando termine, haga clic en **Activar sincronización**.
+1. Seleccione los campos que desee sincronizar o utilizar como [restricciones](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o activadores en listas inteligentes. Cuando termine, haga clic en **Habilitar sincronización**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
