@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Una vez que haya ejecutado un programa de correo electrónico y tenga algunos datos en el panel, puede exportar esos datos sin procesar para obtener más análisis. Así es como.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ Una vez que haya ejecutado un programa de correo electrónico y tenga algunos da
 >
 >**Buceo profundo**
 >
->¿Desea obtener más información sobre los Programas [de](http://docs.marketo.com/display/docs/email+programs)correo electrónico?
+>¿Desea obtener más información sobre [Programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs)?
 
