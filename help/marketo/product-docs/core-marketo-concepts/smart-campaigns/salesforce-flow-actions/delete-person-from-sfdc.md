@@ -19,7 +19,7 @@ Si necesita eliminar un conjunto específico de leads de Salesforce pero dejarlo
 >
 >Sólo disponible cuando se integra con Salesforce.
 
-1. En la base de datos, haga clic en la persona que desee eliminar de Salesforce. A continuación, haga clic en **Acciones** personales y seleccione **Salesforce**.
+1. En la base de datos, haga clic en la persona que desee eliminar de Salesforce. A continuación, haga clic en **Acciones personales** y seleccione **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
@@ -27,7 +27,7 @@ Si necesita eliminar un conjunto específico de leads de Salesforce pero dejarlo
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Asegúrese de que la opción **Eliminar en marketing** es **falsa** y, a continuación, haga clic en **Ejecutar ahora**.
+1. Asegúrese de que la configuración **Eliminar en Marketing** es **false** y haga clic en **Ejecutar ahora**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,5 +35,5 @@ Si necesita eliminar un conjunto específico de leads de Salesforce pero dejarlo
 
    >[!CAUTION]
    >
-   >Si establece **Eliminar en Marketing** en **true** y elimina las personas de Marketing y los leads de Salesforce, éstas desaparecerán para siempre. Esto no se puede deshacer.
+   >Si establece **Eliminar en Marketing** en **true** y elimina las personas de Marketing y los posibles clientes de Salesforce, éstas desaparecerán para siempre. Esto no se puede deshacer.
 
