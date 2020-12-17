@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Aprenda a utilizar el paso [Flujo de momento](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)interesante.
->* Obtenga más información sobre [los tokens](http://docs.marketo.com/display/docs/tokens).
+>* Aprenda a utilizar el paso [Flujo de momento interesante](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>* Obtenga más información sobre [tokens](http://docs.marketo.com/display/docs/tokens).
 
 >
 
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 ## Tokens disponibles {#available-tokens}
 
-Consulte [Información general](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) de tokens para ver todos los tokens que puede poner en un momento interesante.
+Consulte [Información general de tokens](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
 
-## Activar tokens {#trigger-tokens}
+## Tokens desencadenadores {#trigger-tokens}
 
 Según el activador utilizado en una campaña inteligente, hay disponibles tokens de activador adicionales.
 
@@ -236,9 +236,9 @@ Según el activador utilizado en una campaña inteligente, hay disponibles token
 
 >[!NOTE]
 >
->Si no tiene un cheque ![(visto)](assets/check.svg) entonces devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene una marca de verificación ![(tic)](assets/check.svg), devolverá una cadena vacía (nada) en el momento interesante.
 
-*La página **web** Visitas de activador tiene algunos tokens adicionales:
+*El activador **Visitas a la página Web** tiene algunos tokens adicionales:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
