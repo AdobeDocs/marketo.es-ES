@@ -21,7 +21,7 @@ La pista de auditoría le permite obtener un historial completo (seis meses) de 
 
 ![](assets/one.png)
 
-## ¿Qué es la pista de auditoría? {#what-is-audit-trail}
+## ¿Qué es la pista de auditoría {#what-is-audit-trail}
 
 La pista de auditoría captura, en tiempo real, una lista completa de acciones y eventos que se producen dentro de una suscripción de marketing. Incluye una forma de autoservicio de acceder a un historial de datos de seis meses para responder preguntas como:
 
@@ -31,9 +31,9 @@ La pista de auditoría captura, en tiempo real, una lista completa de acciones y
 
 ¿Quién está iniciando sesión en nuestra cuenta?
 
-## Qué auditamos {#what-we-audit}
+## Lo que auditamos {#what-we-audit}
 
-Marketo auditará las acciones de [creación, edición y eliminación](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) para:
+Marketo auditará las acciones [crear, editar y eliminar](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail) para:
 
 * Diseñar recursos de estudio
 * Todos los programas de marketing
@@ -46,27 +46,27 @@ Marketo auditará las acciones de [creación, edición y eliminación](http://do
 
 >[!NOTE]
 >
->Marketo **no audita** los cambios realizados en Personalización web, Contenido predictivo o Perspectiva de ventas en este momento.
+>Marketing es **no** auditar los cambios realizados en la Personalización Web, el Contenido predictivo o la Perspectiva de ventas en este momento.
 
 ## Componentes de pista de auditoría {#audit-trail-components}
 
 La pista de auditoría consta de tres componentes.
 
-**1) Pista de auditoría de [activos](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1) Pista de auditoría de  [activos](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
 
 Consulte actividad a recursos específicos.
 
-**2) Seguimiento de auditoría [del administrador](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2) Seguimiento de auditoría  [del administrador](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
 
 Monitorear los detalles basados en el usuario.
 
-**3) Historial [de inicio de sesión del usuario](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3) Historial  [de inicio de sesión del usuario](http://docs.marketo.com/display/DOCS/User+Login+History)**
 
 Ver quién ha estado iniciando sesión en tu suscripción y cuándo. También incluye los intentos fallidos de inicio de sesión.
 
 >[!TIP]
 >
->Hay tanto que puede auditar usando la pista de auditoría, ¡asegúrese de utilizar [el filtrado](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>Hay tanto que puede auditar usando la pista de auditoría, asegúrese de utilizar [Filtering](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
 
 ## Exportación de datos {#exporting-data}
 
