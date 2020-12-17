@@ -17,9 +17,9 @@ La superposición global de la vista de calandario del programa permite ver el p
 
 >[!PREREQUISITES]
 >
->Debe tener una licencia [de calendario](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de marketing para utilizar esta función.
+>Debe tener una [licencia del Calendario de mercadotecnia](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esta función.
 
-## Uso de la superposición global {#use-the-global-overlay}
+## Usar la superposición global {#use-the-global-overlay}
 
 1. Seleccione su programa.
 
@@ -39,7 +39,7 @@ La superposición global de la vista de calandario del programa permite ver el p
 
 ## Usar un filtro guardado como superposición {#use-a-saved-filter-as-an-overlay}
 
-Si ha [guardado un filtro en el calendario](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)de marketing, puede utilizarlo como una superposición en la vista de calandario del programa.
+Si ha [guardado un filtro en el Calendario de mercadotecnia](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), puede utilizarlo como superposición en la vista de calandario del programa.
 
 1. Haga clic en la lista desplegable **Superposición** y seleccione la definición del filtro.
 
