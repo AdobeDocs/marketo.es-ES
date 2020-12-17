@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Autorización del complemento de MarketingTo Outlook {#authorize-the-marketo-outlook-plugin}
+# Autorizar el complemento de MarketingTo Outlook {#authorize-the-marketo-outlook-plugin}
 
 Para utilizar el complemento MSI de MarketingTo en Outlook, debe autorizarlo.
 
