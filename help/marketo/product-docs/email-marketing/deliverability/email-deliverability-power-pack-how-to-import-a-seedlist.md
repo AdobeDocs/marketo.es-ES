@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Power Pack de capacidad de entrega de correo electrónico: Cómo importar una lista de elementos {#email-deliverability-power-pack-how-to-import-a-seedlist}
+# Power Pack de capacidad de entrega de correo electrónico: Cómo importar una lista de elementos principales {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
 Una lista de inicialización es una lista de cuentas de correo electrónico en varios proveedores de buzones de correo, incluyendo Google Apps, Hotmail, Yahoo!, etc., que se utilizan para aproximar la tasa de entrega de las carpetas de correo electrónico en comparación con correo no deseado. A continuación se muestra cómo introducir esa lista en la instancia de Marketing to.
 
@@ -23,11 +23,11 @@ Una lista de inicialización es una lista de cuentas de correo electrónico en v
 
 ## Importar una lista de elementos principales {#import-a-seedlist}
 
-1. Vaya a Herramientas **de entrega**.
+1. Vaya a **Herramientas de entrega**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en Informador **de bandeja de entrada**.
+1. Haga clic en **Informador de bandeja de entrada**.
 
    ![](assets/two-1.png)
 
@@ -41,9 +41,9 @@ Una lista de inicialización es una lista de cuentas de correo electrónico en v
 
    >[!NOTE]
    >
-   >Elija **Optimizar Lista** si desea 250 ok para [optimizar su lista](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) . Elija*** Personalizar Lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
+   >Elija **Optimizar Lista** si desea 250ok para [optimizar su lista](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) por usted. Elija*** Personalizar Lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
 
-1. Tras la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recuperarla e [importarla](../../../getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketing como lista estática.
+1. Tras la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recuperarla y [importarla](../../../getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketing to como una lista estática.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Una lista de inicialización es una lista de cuentas de correo electrónico en v
 
    >[!CAUTION]
    >
-   >Se obtiene una cantidad limitada de estas Campañas del Informador de la Bandeja de entrada por mes. Para ver la cantidad de usuarios que obtiene, consulte la Configuración **de** cuenta de 250 ok. Para obtener más información, póngase en contacto con su representante de ventas de Marketing to.
+   >Se obtiene una cantidad limitada de estas Campañas del Informador de la Bandeja de entrada por mes. Para ver la cantidad de usuarios que obtiene, consulte su configuración de cuenta de 250 ok **a1/>.** Para obtener más información, póngase en contacto con su representante de ventas de Marketing to.
 
 ## Adquisición de nuevas listas de elementos principales {#acquiring-new-seedlists}
 
