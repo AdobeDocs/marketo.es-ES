@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Localización del registro de Actividades de una persona {#locate-the-activity-log-for-a-person}
+# Localice el registro de Actividades para una persona {#locate-the-activity-log-for-a-person}
 
 El registro de actividades es la última fuente de verdad. Esta es la historia completa del viaje de una persona en Marketing.
 
@@ -23,11 +23,11 @@ El registro de actividades es la última fuente de verdad. Esta es la historia c
 
    ![](assets/two-6.png)
 
-1. Haga clic en la ficha **Personas** . Seleccione un número **de ID** de persona.
+1. Haga clic en la ficha **Personas**. Seleccione un número **Id** de persona.
 
    ![](assets/three-5.png)
 
-1. Haga clic en Registro **de Actividades**.
+1. Haga clic en **Registro de Actividad**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ El registro de actividades es la última fuente de verdad. Esta es la historia c
    >**Artículos relacionados**
    >
    >
-   >Obtenga más información sobre [el filtrado del](filter-activity-types-in-the-activity-log-of-a-person.md)registro de actividad para ver actividades de personas específicas.
+   >Obtenga más información sobre [filtrado del registro de actividades](filter-activity-types-in-the-activity-log-of-a-person.md)para ver actividades de personas específicas.
 
