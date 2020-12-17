@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Aprobar o desaprobar un Programa de correo electrónico {#approve-unapprove-an-email-program}
+# Aprobar/Desaprobar un Programa de correo electrónico {#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Crear un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir una Audiencia con una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente o [definir una Audiencia importando una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una Audiencia con un ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listador inteligente mediante la  [definición de una Audiencia mediante la importación de una Lista](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Elija un correo electrónico](choose-an-existing-email.md) existente o [cree un correo electrónico para un Programa de correo electrónico](create-an-email-for-an-email-program.md)
+* [Elija un ](choose-an-existing-email.md) correo electrónico existente o  [cree un correo electrónico para un Programa de correo electrónico](create-an-email-for-an-email-program.md)
    >
    >
 * [Programar su Programa de correo electrónico](schedule-your-email-program.md)
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Ahora que su programa está listo para irse, el paso final es aprobarlo. Así es como:
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ Ahora que su programa está listo para irse, el paso final es aprobarlo. Así es
    >
    >Si no aprueba su programa de correo electrónico, el correo electrónico no se publicará.
 
-1. En el mosaico **Aprobación** , siga adelante y haga clic en **Aprobar Programa**.
+1. En el mosaico **Aprobación**, adelante y haga clic en **Aprobar Programa**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -60,7 +60,7 @@ Ahora que su programa está listo para irse, el paso final es aprobarlo. Así es
 
 Si cambias de opinión y decides que no quieres que salga, puedes desaprobar el programa de correo electrónico.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ Si cambias de opinión y decides que no quieres que salga, puedes desaprobar el 
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. En el mosaico **Aprobación** , haga clic en **Desaprobar Programa**.
+1. En el mosaico **Aprobación**, haga clic en **Desaprobar Programa**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
