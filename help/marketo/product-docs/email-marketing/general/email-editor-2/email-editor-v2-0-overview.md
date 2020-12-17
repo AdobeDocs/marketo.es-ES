@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Información general del editor de correo electrónico v2.0 {#email-editor-v-overview}
+# Descripción general del Editor de correo electrónico v2.0 {#email-editor-v-overview}
 
 Cuando decida activar el Editor de correo electrónico v2.0, verá varias funciones nuevas.
 
 **Selector de plantilla de correo electrónico**
 
-Al crear un nuevo correo electrónico, se le redirige al selector de plantillas de [correo electrónico](email-template-picker-overview.md).
+Al crear un nuevo correo electrónico, se le redirige al [Selector de plantilla de correo electrónico](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -41,7 +41,7 @@ El cambio entre la versión HTML y las versiones de texto del correo electrónic
 
 **Encabezado de correo electrónico**
 
-¿Quieres más espacio de diseño? El encabezado del correo electrónico se puede ocultar una vez que haya terminado de [editarlo](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simplemente haga clic en este icono...
+¿Quieres más espacio de diseño? El encabezado del correo electrónico se puede ocultar una vez que haya terminado de [de editarlo](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simplemente haga clic en este icono...
 
 ![](assets/five-4.png)
 
@@ -73,7 +73,7 @@ La vista predeterminada es el escritorio...
 
 **Acciones de correo electrónico**
 
-En Acciones **por** correo electrónico, verá algunas funciones nuevas. **Cargue una imagen o archivo** y **tome imágenes de la web**. También puede guardar el correo electrónico como una nueva plantilla de correo electrónico. Todo lo que tienes que hacer es darle un nombre y un destino.
+En **Acciones de correo electrónico**, verá algunas funciones nuevas. **Cargue una imagen o archivo** y  **tome imágenes de la web**. También puede guardar el correo electrónico como una nueva plantilla de correo electrónico. Todo lo que tienes que hacer es darle un nombre y un destino.
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ En Acciones **por** correo electrónico, verá algunas funciones nuevas. **Cargu
 
 >[!NOTE]
 >
->** [Capturar imágenes de la Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona igual que en Design Studio.
+>** [Tomar imágenes de la Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona igual que en Design Studio.
 
-**Deshabilite Abrir seguimiento** en Configuración **de** correo electrónico, puede deshabilitar el seguimiento abierto si es necesario.
+**Deshabilitar Abrir** seguimientoEn Configuración **de** correo electrónico, puede deshabilitar el seguimiento abierto si es necesario.
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ Muchas de las buenas nuevas características! ¡Diviértete!
 >
 >**Buceo profundo**
 >
->Si desea profundizar aún más, vea este [útil vídeo](https://nation.marketo.com/videos/1463).
+>Si desea profundizar aún más, consulte este [vídeo útil](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
