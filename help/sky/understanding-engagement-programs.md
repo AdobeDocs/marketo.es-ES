@@ -18,7 +18,7 @@ Los programas de compromiso están diseñados para comercializar a las personas 
 
 >[!NOTE]
 >
->Existe un límite de 100 programas de participación _activa_ por suscripción.
+>Existe un límite de 100 _programas de participación activos_ por suscripción.
 
 ## Programa de participación
 
