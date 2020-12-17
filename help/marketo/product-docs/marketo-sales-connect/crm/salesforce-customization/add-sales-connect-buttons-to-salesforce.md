@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Añadir botones de conexión de ventas a Salesforce {#add-sales-connect-buttons-to-salesforce}
 
-## Conexión push a ventas de marketing {#push-to-marketo-sales-connect}
+## Insertar en MarketingTo Sales Connect {#push-to-marketo-sales-connect}
 
 1. Vaya a **Configuración** y luego **Personalizar**.
-1. En Contactos/Posibles clientes/Cuentas, abra **Buscar diseños**.
+1. En Contactos/Posibles clientes/Cuentas, abra **Diseños de búsqueda**.
 1. Edite la Vista de Lista de posibles clientes y arrastre **Insertar en MSC **en los botones seleccionados.
 
 ## Enviar correo electrónico de ventas de marketing {#send-marketo-sales-email}
 
 1. Edite el diseño de página para Posible cliente/Contacto/Cuenta.
 1. Seleccione la sección Botones.
-1. Tome el botón **Enviar correo electrónico** MSC y arrástrelo a la sección Botones **** personalizados de Detalles.
+1. Tome el botón **Enviar correo electrónico MSC** y arrástrelo a la sección **Botones personalizados** de Detalles.
 
 ## Llamada con MarketingTo Sales Connect {#call-with-marketo-sales-connect}
 
 1. Edite el diseño de página para Posible cliente/Contacto/Cuenta.
 1. Seleccione la sección Botones.
-1. Tome el botón **Llamar con MSC **y arrástrelo a la sección Botones **** personalizados de los Detalles.
+1. Tome el botón **Llamar con MSC **y arrástrelo a la sección **Botones personalizados** de Detalles.
 
 ## Añadir a Campaña {#add-to-campaign}
 
 1. Edite el diseño de página para Posible cliente/Contacto/Cuenta.
 1. Seleccione la sección Botones.
-1. Tome el botón **Añadir a Campaña** MSC y arrástrelo a la sección Botones **** personalizados de Detalles.
+1. Tome el botón **Añadir a la Campaña de MSC** y arrástrelo a la sección **Botones personalizados** de Detalles.
 
