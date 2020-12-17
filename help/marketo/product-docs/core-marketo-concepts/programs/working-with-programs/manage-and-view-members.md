@@ -19,13 +19,13 @@ Puede administrar y vista de sus miembros en sus programas mediante la ficha Mie
 >
 >**Buceo profundo**
 >
-> Sumérjase más en el [programa de membresía](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+> Profundizar en [membresía de programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Buscar un miembro {#search-for-a-member}
 
 En la parte inferior de la sección Miembros, utilice el campo de búsqueda para buscar miembros del programa por nombre, correo electrónico, cargo o compañía.
 
-1. Haga clic en la ficha **Miembros** de su programa.
+1. Haga clic en la ficha **Miembros** del programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -63,17 +63,17 @@ Puede exportar la lista de miembros haciendo clic en el icono de Excel situado j
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrar la cuadrícula Miembros  {#filter-the-members-grid}
+## Filtrar la cuadrícula Miembros {#filter-the-members-grid}
 
-1. Haga clic en la lista desplegable **Filtro** y seleccione un paso de progresión por el que ordenar.
+1. Haga clic en la lista desplegable **Filtro** y seleccione un paso de progresión por el que clasificar.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## Administrar estado de persona en la cuadrícula Miembros {#manage-person-status-in-the-members-grid}
+## Administrar el estado de la persona en la cuadrícula de miembros {#manage-person-status-in-the-members-grid}
 
 Puede cambiar el estado de las personas dentro de la cuadrícula de miembros.
 
-1. Mantenga pulsada **Ctrl/Cmd** y seleccione las personas.
+1. Mantenga pulsada la tecla **Ctrl/Cmd** y seleccione las personas.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
