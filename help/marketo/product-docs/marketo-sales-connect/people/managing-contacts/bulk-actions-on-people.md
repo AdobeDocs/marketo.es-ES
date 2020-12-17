@@ -19,7 +19,7 @@ El primer paso para todas las acciones masivas disponibles es seleccionar dos o 
 
 ![](assets/one-3.png)
 
-## Añadir personas a grupos {#add-people-to-group}
+## Añadir personas para que agrupen {#add-people-to-group}
 
 Añadir varias personas a un grupo al mismo tiempo.
 
@@ -37,7 +37,7 @@ Asignamos automáticamente una fuente a cada contacto que entre en la base de da
 
 ## Autorización {#authorization}
 
-De conformidad con el [RGPD](http://eugdpr.org/), utilice la autorización para indicar cómo recibió el permiso para participar en estos contactos.
+De conformidad con [GDPR](http://eugdpr.org/), utilice la autorización para indicar cómo recibió el permiso para participar en estos contactos.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,7 @@ Realice una cancelación masiva de la suscripción a los contactos que ya no des
 
 ## Eliminar {#delete}
 
-Eliminar contactos de forma masiva. Los pasos completos se pueden encontrar [aquí](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Eliminar contactos de forma masiva. Se pueden encontrar pasos completos [aquí](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
 
 ![](assets/delete.png)
 
