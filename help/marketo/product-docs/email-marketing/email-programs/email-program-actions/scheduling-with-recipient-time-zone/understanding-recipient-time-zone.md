@@ -17,31 +17,31 @@ Los programas de correo electrónico y participación se pueden configurar para 
 
 >[!NOTE]
 >
->El huso horario de destinatario **solo** funciona actualmente con contenido de correo electrónico. No funcionará para los programas de participación predeterminados.
+>El huso horario de destinatario funciona **sólo** con contenido de correo electrónico. No funcionará para los programas de participación predeterminados.
 
 ## Programas de correo electrónico {#email-programs}
 
-Existen dos escenarios principales al [programar un programa](schedule-email-programs-with-recipient-time-zone.md)de correo electrónico:
+Existen dos escenarios principales cuando [programa un programa de correo electrónico](schedule-email-programs-with-recipient-time-zone.md):
 
 1. Programando la ejecución del programa en las próximas 25 horas.
 1. Programando el programa para que se ejecute más de 25 horas en el futuro (es decir, la próxima semana).
 
-Para poder acomodar cada huso horario, los programas de correo electrónico programados con el inicio de huso horario de Destinatario se ejecutan a medianoche en el **primer/primer** huso horario del mundo (UTC +14:00).
+Para poder acomodar todos los husos horarios, los programas de correo electrónico programados con el inicio de huso horario de Destinatario se ejecutan a medianoche en el **primer/primer** huso horario del mundo (UTC +14:00).
 
 ## Programas de participación {#engagement-programs}
 
-Cuando [programe un flujo](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) de programa de participación y el huso horario de Destinatario esté activo, el inicio de programa se ejecutará a medianoche en UTC +14:00. Le pedimos que programe la primera emisión al menos 25 horas en el futuro (24 horas + un poco de tiempo para iniciar la campaña) porque la gente puede calificar para la emisión en cada huso horario en todo el mundo. Empezar el procesamiento en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este envío.
+Cuando [programe un flujo de programas de participación](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y el huso horario de Destinatario esté activo, el reparto de programas se inicio cuando se ejecute a medianoche en UTC +14:00. Le pedimos que programe la primera emisión al menos 25 horas en el futuro (24 horas + un poco de tiempo para iniciar la campaña) porque la gente puede calificar para la emisión en cada huso horario en todo el mundo. Empezar el procesamiento en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este envío.
 
 ## Calcular huso horario {#calculating-time-zone}
 
 Marketo calcula la zona horaria en función de la ciudad, el estado, el país o el código postal de una persona. Si no podemos calcular la zona horaria de alguien a partir de estos valores, volvemos a nuestros campos Ciudad Inferior, Estado Inferior, País Inferior y Código Postal Inferido.
 
-En los casos en que tenemos **solamente **País o **solamente** Estado disponible:
+En los casos en los que tenemos **solamente **País o **sólo** Estado disponible:
 
 * Para países con tres o menos husos horarios, seleccionamos la zona horaria media.
 * Para los estados con dos husos horarios, seleccionamos el anterior de los dos.
 
-Si todavía no podemos determinar el huso horario de alguien a partir de una combinación de estos campos, **no asignaremos** un huso horario y el correo electrónico se enviará en función de su huso horario de suscripción de Marketing to. Por lo tanto, si el programa está programado para las 9:00 a.m. PDT, las personas sin zona horaria asignada recibirán el correo electrónico a las 9:00 a.m. PDT.
+Si todavía no podemos determinar el huso horario de alguien a partir de una combinación de estos campos, **no** asignaremos un huso horario y el correo electrónico se enviará en función del huso horario de suscripción de Marketing to. Por lo tanto, si el programa está programado para las 9:00 a.m. PDT, las personas sin zona horaria asignada recibirán el correo electrónico a las 9:00 a.m. PDT.
 
 >[!NOTE]
 >
