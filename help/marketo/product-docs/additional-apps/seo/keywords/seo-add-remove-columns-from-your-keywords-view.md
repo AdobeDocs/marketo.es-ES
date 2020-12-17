@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Añadir/Eliminar columnas de la Vista Palabras clave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Añadir/Eliminar columnas de la Vista de palabras clave {#seo-add-remove-columns-from-your-keywords-view}
 
 Puede ajustar la vista de palabras clave para mostrar los datos que más le interesen.
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
