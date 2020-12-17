@@ -16,7 +16,7 @@ Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un gr
 
 ## Añadir un paso de flujo
 
-1. En Actividades de marketing, seleccione la campaña inteligente y haga clic en **[!UICONTROL Flujo]**.
+1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente y haga clic en **[!UICONTROL Flujo]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un gr
 
 **Buceo profundo**
 
-Obtenga más información sobre los distintos pasos [de](http://docs.marketo.com/display/DOCS/Flow+Actions)flujo.
+Obtenga más información sobre los diferentes [pasos de flujo](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Haga clic en la lista desplegable y elija una opción adecuada.
 
@@ -38,13 +38,13 @@ Obtenga más información sobre los distintos pasos [de](http://docs.marketo.com
 
 **Recordatorio**
 
-Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reordene los pasos](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) de flujo para asegurarse de que están en la secuencia correcta.
+Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reordene los ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) pasos de flujo para asegurarse de que están en la secuencia correcta.
 
 >[!TIP]
 >
 >Aparece una línea roja en caso de una entrada no válida. Pase el ratón sobre la línea para ver cómo corregirla.
 >
->Asegúrese de [revisar y validar la campaña](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) inteligente antes de programarla o activarla.
+>Asegúrese de [revisar y validar la campaña inteligente](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) antes de programarla o activarla.
 
 ## Reordenar pasos de flujo
 
