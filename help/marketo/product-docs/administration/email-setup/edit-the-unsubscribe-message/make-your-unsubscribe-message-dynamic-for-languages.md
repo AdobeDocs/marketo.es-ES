@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dinamizar el mensaje de cancelación de suscripción para los idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
+# Conversión de su mensaje de cancelación de suscripción en dinámico para idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
 
 El mensaje y el vínculo predeterminados de cancelación de suscripción están en inglés. Puede utilizar contenido dinámico para mostrarlo en distintos idiomas.
 
@@ -20,23 +20,23 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 >Hemos preparado este pequeño tutorial para usted. Representa una práctica recomendada, pero esto puede lograrse de otras maneras.
 
 1. Preparación de los datos
-1. [Cree un](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizado denominado &quot;Idioma preferido&quot;. (Configúrelo en su CRM si desea sincronizar este campo).
+1. [Cree un ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)campo personalizado denominado &quot;Idioma preferido&quot;. (Configúrelo en su CRM si desea sincronizar este campo).
 
    >[!TIP]
    >
    >En el futuro, utilice este campo cuando [cree un formulario](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) para capturar las preferencias de idioma.
 
 1. Crear segmentación
-1. Vaya a la **base de datos**.
+1. Vaya a la **Base de datos**.
 ** ![](assets/db.png)
 
    **
 
-1. En la lista desplegable **Nueva** , haga clic en **Nueva segmentación**.
+1. En la lista desplegable **Nuevo**, haga clic en **Nueva segmentación**.
 
    ![](assets/two.png)
 
-1. Asigne un nombre al idioma **** preferido de segmentación. Haga clic en **Añadir segmento**. Escriba un idioma.
+1. Asigne un nombre al **Idioma preferido** de la segmentación. Haga clic en **Añadir segmento**. Escriba un idioma.
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -52,7 +52,7 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Vaya a la ficha Lista **** inteligente. Introduzca el idioma **** preferido en el campo de búsqueda. Arrastre y suelte el filtro en el lienzo.
+1. Vaya a la ficha **Lista inteligente**. Escriba **Idioma preferido** en el campo de búsqueda. Arrastre y suelte el filtro en el lienzo.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/seven.png)
 
-1. Repita el proceso para todos los idiomas diferentes. A continuación, seleccione la lista desplegable Acciones **de** segmentación y haga clic en **Aprobar**.
+1. Repita el proceso para todos los idiomas diferentes. A continuación, seleccione la lista desplegable **Acciones de segmentación** y haga clic en **Aprobar**.
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
@@ -69,13 +69,13 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/ds.png)
 
-1. En el menú desplegable **Nuevo** , haga clic en **Nuevo fragmento**.
+1. En la lista desplegable **Nuevo**, haga clic en **Nuevo fragmento**.
 
    ** ![](assets/ten.png)
 
    **
 
-1. Asigne un nombre al fragmento de código Mensaje **de** cancelación de suscripción. Haga clic en **Crear**.
+1. Asigne un nombre al fragmento de código **Mensaje de cancelación de suscripción**. Haga clic en **Crear**.
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -83,7 +83,7 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Copie y pegue este token: **`{{system.unsubscribeLink}}`** en el campo URL **del** vínculo. Haga clic en **Insertar**.
+1. Copie y pegue este token: **`{{system.unsubscribeLink}}`** en el campo **URL del vínculo**. Haga clic en **Insertar**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -91,7 +91,7 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
-1. En la lista desplegable Segmentación, escriba **Preferido** y seleccione **Idioma** preferido. Haga clic en **Guardar**.
+1. En la lista desplegable Segmentación, escriba **Preferred** y seleccione **Preferred Language**. Haga clic en **Guardar**.
 
    ![](assets/image2015-3-9-8-3a44-3a32.png)
 
@@ -99,18 +99,18 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Copie y pegue el mismo token: **`{{system.unsubscribeLink}}`** en el campo URL **del** vínculo. Haga clic en **Insertar**.
+1. Copie y pegue el mismo token: **`{{system.unsubscribeLink}}`** en el campo **URL del vínculo**. Haga clic en **Insertar**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Repita el proceso para todos los segmentos. A continuación, vuelva a Design Studio, haga clic en la lista desplegable Acciones **de** fragmento y, a continuación, haga clic en **Aprobar**.
+1. Repita el proceso para todos los segmentos. A continuación, vuelva a Design Studio, haga clic en la lista desplegable **Acciones de fragmento** y haga clic en **Aprobar**.
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
    Increíble. Casi ahí.
 
 1. Usar fragmento de código en un mensaje de correo electrónico
-1. Dentro del editor de correo electrónico, haga clic en el elemento editable. A continuación, haga clic en el icono de engranaje y seleccione **Reemplazar con fragmento**. Si selecciona un elemento de fragmento editable, haga clic en el icono de engranaje y seleccione **Editar**.
+1. Dentro del editor de correo electrónico, haga clic en el elemento editable. A continuación, haga clic en el icono de engranaje y seleccione **Reemplazar con fragmento**. Si está seleccionando un elemento de fragmento editable, haga clic en el icono de engranaje y seleccione **Editar**.
 
    ![](assets/4.1.png)
 
@@ -122,7 +122,7 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
 
    ![](assets/4.3.png)
 
-1. ...a continuación, la ficha **Dinámica** .
+1. ...a continuación, la ficha **Dynamic**.
 
    ![](assets/4.4.png)
 
@@ -165,5 +165,5 @@ El mensaje y el vínculo predeterminados de cancelación de suscripción están 
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre el contenido [](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) dinámico y todo lo interesante que puede hacer.
+   >Obtenga más información sobre [contenido dinámico](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) y todo lo interesante que puede hacer.
 
