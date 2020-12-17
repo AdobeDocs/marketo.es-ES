@@ -17,10 +17,10 @@ Pruebe los correos electrónicos para mejorar su puntuación de participación. 
 
 ## Prueba A/B {#a-b-testing}
 
-Esto es para correos electrónicos de una sola vez que usan programas [de](http://docs.marketo.com/display/docs/email+programs)correo electrónico. Añada la prueba [A/B](add-an-a-b-test.md) y un pequeño grupo obtendrá la prueba y el resto obtendrá la victoria.
+Esto es para correos electrónicos de una sola vez que utilizan [programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs). Añada [Prueba A/B](add-an-a-b-test.md) y un grupo pequeño obtendrá la prueba y el resto obtendrá la victoria.
 
-## Campeón de correo electrónico/Desafiante {#email-champion-challenger}
+## Email Champion/Challenger {#email-champion-challenger}
 
-Para los correos electrónicos en curso utilizados en campañas inteligentes de activación o programas [de](http://docs.marketo.com/display/docs/drip+nurturing)participación, puede agregar pruebas de campeón/aspirante [de](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) correo electrónico. Esto supondrá variaciones en un porcentaje constante de los destinatarios.
+Para los mensajes de correo electrónico en curso que se utilizan en campañas inteligentes desencadenadoras o [programas de participación](http://docs.marketo.com/display/docs/drip+nurturing), puede agregar [pruebas de desafío/campeón de correo electrónico](http://docs.marketo.com/pages/viewpage.action?pageid=2359551). Esto supondrá variaciones en un porcentaje constante de los destinatarios.
 
 ¡Feliz Prueba!
