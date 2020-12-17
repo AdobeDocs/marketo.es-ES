@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Cómo Añadir una plantilla {#how-to-add-a-template}
 
-1. En un mensaje nuevo, haga clic en **Plantillas**.
+1. En un nuevo mensaje, haga clic en **Plantillas**.
 1. De forma predeterminada, mostraremos las plantillas usadas recientemente.
 
    >[!TIP]
