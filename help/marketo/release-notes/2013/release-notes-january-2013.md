@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Notas de la versión: Enero de 2013 {#release-notes-january}
 
-El lanzamiento de enero amplía nuestra oferta social con Ofertas **de** referencia. Además, los usuarios de Administración de posibles clientes de Marketing Cloud pueden establecer su zona horaria, idioma y preferencias de configuración regional. Tenga en cuenta que las funciones marcadas con un * solo están disponibles en la edición Select.
+La versión de enero amplía nuestra oferta social con **Ofertas de referencia**. Además, los usuarios de Administración de posibles clientes de Marketing Cloud pueden establecer su zona horaria, idioma y preferencias de configuración regional. Tenga en cuenta que las funciones marcadas con un * solo están disponibles en la edición Select.
 
 ## Ofertas de referencia {#referral-offers}
 
-Una Oferta **de** remisión le da a sus posibles clientes un incentivo para derivar a sus amigos. Cree objetivos y recompensas para referencias exitosas. Puede utilizarla en páginas de aterrizaje, su sitio web e incluso Facebook.
+Una **Oferta de referencia** le ofrece a sus posibles clientes un incentivo para derivar a sus amigos. Cree objetivos y recompensas para referencias exitosas. Puede utilizarla en páginas de aterrizaje, su sitio web e incluso Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
