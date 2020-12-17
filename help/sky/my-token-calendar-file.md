@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Un token de archivo [!UICONTROL de] calendario le permite agregar un vínculo de evento de calendario (.ics) a sus correos electrónicos y páginas de aterrizaje de marketing. A continuación se explica cómo configurar una para utilizarla en las carpetas de programas y campañas.
+Un token [!UICONTROL Archivo de calendario] le permite agregar un vínculo de evento de calendario (.ics) a sus correos electrónicos y páginas de aterrizaje de marketing. A continuación se explica cómo configurar una para utilizarla en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de archivo **[!UICONTROL de]** calendario al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **[!UICONTROL Archivo de calendario]** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
