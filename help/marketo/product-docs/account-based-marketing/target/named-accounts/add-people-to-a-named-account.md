@@ -25,15 +25,15 @@ Existen tres formas diferentes de agregar personas manualmente a una cuenta con 
 
    ![](assets/two.png)
 
-1. Haga clic en la persona para seleccionarla. Haga clic en la lista desplegable Acciones **de** persona, haga clic en **Marketing** y seleccione **Añadir a cuenta** con nombre.
+1. Haga clic en la persona para seleccionarla. Haga clic en la lista desplegable **Acciones de persona**, haga clic en **Marketing** y seleccione **Añadir a cuenta con nombre**.
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable Cuenta **con nombre, seleccione la cuenta con nombre que desee y haga clic en** Ejecutar ahora ****.
+1. Haga clic en la lista desplegable **Cuenta con nombre**, seleccione la cuenta con nombre que desee y haga clic en **Ejecutar ahora**.
 
    ![](assets/four.png)
 
-## Etapa de flujo de Campaña inteligente {#smart-campaign-flow-step}
+## Paso de flujo de Campaña inteligente {#smart-campaign-flow-step}
 
 1. Seleccione la Campaña inteligente y haga clic en **Flujo**.
 
@@ -47,7 +47,7 @@ Existen tres formas diferentes de agregar personas manualmente a una cuenta con 
 
    ![](assets/seven.png)
 
-1. Haga clic en la lista desplegable Cuenta **** con nombre y seleccione la cuenta con nombre que desee.
+1. Haga clic en la lista desplegable **Cuenta con nombre** y seleccione la cuenta con nombre que desee.
 
    ![](assets/eight.png)
 
@@ -55,7 +55,7 @@ Existen tres formas diferentes de agregar personas manualmente a una cuenta con 
 
 ## Importación de listas {#list-import}
 
-1. Seleccione la lista, haga clic en la lista desplegable Acciones **de** Lista y seleccione **Importar Lista**.
+1. Seleccione la lista, haga clic en la lista desplegable **Acciones de Lista** y seleccione **Importar Lista**.
 
    ![](assets/nine.png)
 
@@ -63,7 +63,7 @@ Existen tres formas diferentes de agregar personas manualmente a una cuenta con 
 
    ![](assets/ten.png)
 
-1. Asigne los campos que desee. Asegúrese de que el campo Cuenta **con** nombre está asignado.
+1. Asigne los campos que desee. Asegúrese de que el campo **Cuenta con nombre** está asignado.
 
    ![](assets/eleven.png)
 
