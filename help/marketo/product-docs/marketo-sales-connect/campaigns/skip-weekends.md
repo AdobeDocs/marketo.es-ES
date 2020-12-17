@@ -27,7 +27,7 @@ Al automatizar una campaña, probablemente no quiera que sus correos electrónic
 
    ![](assets/three-2.png)
 
-1. Seleccione la casilla **Omitir fines de semana** .
+1. Seleccione la casilla **Omitir fines de semana**.
 
    ![](assets/four-2.png)
 
