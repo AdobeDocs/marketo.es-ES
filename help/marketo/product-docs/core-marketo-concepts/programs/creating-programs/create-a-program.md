@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Los programas son uno de los elementos más importantes de Marketing. ¡Los vas a usar mucho!
 
-1. Vaya a Actividades **de marketing.**
+1. Vaya a **Actividades de mercadotecnia.**
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Los programas son uno de los elementos más importantes de Marketing. ¡Los vas 
 
    ![](assets/leadlifecycle.jpg)
 
-1. Introduzca un **Nombre*****,** seleccione un [Canal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)*** en la lista desplegable y haga clic en **Crear.**
+1. Escriba un **Nombre****,** seleccione un ** [Canal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** en la lista desplegable y haga clic en **Crear.**
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ Los programas son uno de los elementos más importantes de Marketing. ¡Los vas 
 >
 >**Buceo profundo**
 >
->Más información sobre [programas](http://docs.marketo.com/display/docs/programs).
+>Obtenga más información sobre [programas](http://docs.marketo.com/display/docs/programs).
 
