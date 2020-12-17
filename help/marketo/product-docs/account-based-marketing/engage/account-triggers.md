@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Escuche y actúe en actividades de comportamiento importantes a nivel de cuenta en diferentes canales (por ejemplo, correo electrónico, Web, anuncios) mediante activadores a nivel de cuenta.
 
-Seleccione la campaña inteligente y haga clic en Lista **** inteligente.
+Seleccione la campaña inteligente y haga clic en **[!UICONTROL Lista inteligente]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Introduzca &quot;Cuenta con nombre&quot; en el cuadro de búsqueda para encontra
 
 ![](assets/two-1.png)
 
-Arrastre el activador que desee al lienzo. En este ejemplo utilizamos _Añadido en Cuenta_ con nombre.
+Arrastre el activador que desee al lienzo. En este ejemplo utilizamos _Añadido en Cuenta con nombre_.
 
 ![](assets/three-1.png)
 
