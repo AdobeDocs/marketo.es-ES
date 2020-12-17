@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Enviar un correo electrónico de muestra {#send-a-sample-email}
 
-Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un correo electrónico con contenido dinámico, consulte [Previsualización de un correo electrónico con contenido](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)dinámico.
+Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un correo electrónico con contenido dinámico, consulte [Previsualización de un correo electrónico con contenido dinámico](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->Debe tener el permiso **Access Database - Run Single Flow Actions** para enviar correos electrónicos de ejemplo.
+>Debe tener el permiso **Base de datos de Access - Ejecutar acciones de flujo único** para enviar correos electrónicos de ejemplo.
 
 ## Enviar un correo electrónico de muestra {#send-a-sample-email-1}
 
-1. Busque y seleccione su correo electrónico. Haga clic en la lista desplegable Acciones **de** correo electrónico y seleccione **Enviar muestra**.\
+1. Busque y seleccione su correo electrónico. Haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Enviar muestra**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -41,15 +41,15 @@ Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un co
 
    >[!TIP]
    >
-   >Si desea resolver los tokens como una persona específica, elija dicha persona en la lista desplegable **de** personas del paso 2.
+   >Si desea resolver los tokens como una persona específica, elija dicha persona en la lista desplegable **persona** del Paso 2.
 
-## Envío de un correo electrónico de muestra durante la edición {#send-a-sample-email-while-editing}
+## Enviar un correo electrónico de muestra al editar {#send-a-sample-email-while-editing}
 
-1. Busque su correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador** .
+1. Busque su correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador**.
 
    ![](assets/three-281-29.jpg)
 
-1. Haga clic en Acciones **de** correo electrónico y seleccione **Enviar muestra**.
+1. Haga clic en **Acciones de correo electrónico**, seleccione **Enviar muestra**.
 
    ![](assets/four.png)
 
@@ -59,15 +59,15 @@ Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un co
 
    >[!NOTE]
    >
-   >El campo desencadenador solo se aplica a aquellos que utilizan secuencias de comandos [de](http://developers.marketo.com/documentation/velocity-script/)correo electrónico.
+   >El campo desencadenador solo se aplica a aquellos que utilizan [secuencias de comandos de correo electrónico](http://developers.marketo.com/documentation/velocity-script/).
 
-## Envío de un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
+## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
 >[Aplique segmentación al correo electrónico](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 
-1. Busque su correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador** .
+1. Busque su correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador**.
 
    ![](assets/three-281-29.jpg)
 
@@ -93,6 +93,6 @@ Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un co
 
    >[!TIP]
    >
-   >También puede enviar un correo electrónico de muestra basado en un segmento en el modo de edición del correo electrónico. Haga clic en la lista desplegable Acciones **de** correo electrónico, seleccione **Enviar muestra** y, a continuación, elija el segmento.
+   >También puede enviar un correo electrónico de muestra basado en un segmento en el modo de edición del correo electrónico. Haga clic en la lista desplegable **Acciones de correo electrónico**, seleccione **Enviar muestra** y elija el segmento.
 
 Es muy importante muestrear el contenido antes de lanzar una campaña. Medir dos veces, cortar una vez!
