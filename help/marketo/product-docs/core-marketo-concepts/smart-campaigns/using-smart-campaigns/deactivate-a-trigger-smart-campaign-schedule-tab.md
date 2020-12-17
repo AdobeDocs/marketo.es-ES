@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desactivar una Campaña inteligente de activador | Ficha Programación {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# Desactivar una Campaña inteligente de activador | Ficha Programar {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 Si tiene una campaña desencadenadora antigua que necesita desactivar, siga estos pasos:
 
@@ -29,5 +29,5 @@ Si tiene una campaña desencadenadora antigua que necesita desactivar, siga esto
 
 >[!NOTE]
 >
->Esto impedirá que *nuevas* personas entren en el flujo, pero las personas en los pasos de espera o en cualquier otro paso del flujo seguirán moviéndose a través del flujo hasta que termine.
+>Esto impedirá que *personas nuevas* ingresen al flujo, pero las personas en los pasos de espera o en cualquier otro paso de flujo continuarán moviéndose a través del flujo hasta que termine.
 
