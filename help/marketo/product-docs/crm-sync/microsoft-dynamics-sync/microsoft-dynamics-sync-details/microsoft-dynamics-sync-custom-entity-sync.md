@@ -21,7 +21,7 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
 >[!PREREQUISITES]
 >
->Para utilizar un objeto personalizado, debe asociarse a un [objeto de posible cliente](microsoft-dynamics-sync-lead-sync.md), [contacto](microsoft-dynamics-sync-contact-sync.md)o [](microsoft-dynamics-sync-account-sync.md)cuenta en Dynamics.
+>Para utilizar un objeto personalizado, debe asociarse a un objeto [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) o [account](microsoft-dynamics-sync-account-sync.md)en Dynamics.
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Instale una versión de Microsoft Dynamics que admita la sincronización de entidades personalizada (después de 2_0_0_2). Consulte Versiones [del complemento de marketing para MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Instale una versión de Microsoft Dynamics que admita la sincronización de entidades personalizada (después de 2_0_0_2). Consulte [Versiones del complemento de marketing para MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 1. Proporcione al usuario de sincronización de marketing acceso de lectura a todas las entidades que desee sincronizar.
 1. En Administración de bases de datos, haga clic en el vínculo** Sincronización de entidades de Dynamics**.
 
@@ -45,7 +45,7 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Después de sincronizar la lista, seleccione los campos que desee sincronizar y los que desee utilizar como [restricciones](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) o activadores en listas inteligentes. Cuando termine, haga clic en **Activar sincronización**.
+1. Después de sincronizar la lista, seleccione los campos que desee sincronizar y los que desee utilizar como [restricciones](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o activadores en listas inteligentes. Cuando termine, haga clic en **Habilitar sincronización**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
