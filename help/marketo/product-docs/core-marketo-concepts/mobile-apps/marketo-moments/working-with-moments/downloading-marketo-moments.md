@@ -17,7 +17,7 @@ Descargue Momentos de marketing de App Store o Google Play y voila! La magia del
 
 ## Para iPhone {#for-iphone}
 
-1. Vaya a [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
+1. Vaya a la [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
 1. Busque Momentos de marketing y selecciónelo.\
