@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir una Audiencia con una Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) inteligente o [definir una Audiencia importando una Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir una Audiencia con un ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listador inteligente mediante la  [definición de una Audiencia mediante la importación de una Lista](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Elija un correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente o [cree un correo electrónico para un Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [Elija un ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) correo electrónico existente o  [cree un correo electrónico para un Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 La prueba es una buena manera de optimizar los correos electrónicos para una mejor participación. Así es como empezar.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -36,7 +36,7 @@ La prueba es una buena manera de optimizar los correos electrónicos para una me
 
    ![](assets/selectemailprogram.jpg)
 
-1. En el mosaico **Correo electrónico** , haga clic en **Añadir prueba** A/B.
+1. En el mosaico **Correo electrónico**, haga clic en **Añadir prueba A/B**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -44,11 +44,11 @@ La prueba es una buena manera de optimizar los correos electrónicos para una me
    >
    >Al agregar una prueba A/B, el correo electrónico seleccionado ya no estará disponible para su uso en ningún otro programa.
 
-1. Se abrirá una nueva ventana con diferentes tipos **de** prueba para elegir. Explore uno de los artículos relacionados a continuación para continuar.
+1. Se abrirá una nueva ventana con diferentes **tipos de prueba** para elegir. Explore uno de los artículos relacionados a continuación para continuar.
 
    >[!CAUTION]
    >
-   >Si tiene registros de duplicados en la base de datos, dichos registros recibirán **tanto** la prueba como los correos electrónicos ganadores. Para evitar que esto ocurra, asegúrese de [encontrar y combinar personas](http://docs.marketo.com/x/G4EI) duplicados en la base de datos.
+   >Si tiene registros de duplicados en la base de datos, dichos registros recibirán **tanto** como los correos electrónicos ganadores y de prueba. Para evitar que esto ocurra, asegúrese de [buscar y combinar personas de duplicado](http://docs.marketo.com/x/G4EI) en la base de datos.
 
 >[!NOTE]
 >
