@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Puede usar programas de participación en [!DNL Marketo] para llevar a cabo la mejora del correo electrónico con facilidad.
+Puede usar programas de participación en [!DNL Marketo] para llevar a cabo la promoción del correo electrónico con facilidad.
 
 1. En [!DNL Marketing Activities], seleccione la carpeta en la que desea crear el programa de participación.
 
    ![Imagen uno](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Haga clic en la lista desplegable **[!UICONTROL Acciones]** de carpeta y seleccione **[!UICONTROL Nuevo Programa]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de carpeta]** y seleccione **[!UICONTROL Nuevo Programa]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ Puede usar programas de participación en [!DNL Marketo] para llevar a cabo la m
    >
    >También puede hacer clic con el botón derecho en la carpeta y seleccionar Nuevo Programa.
 
-1. Introduzca un **[!UICONTROL nombre]** y, en la lista desplegable [!UICONTROL Tipo] , seleccione **[!UICONTROL Participación]**.
+1. Introduzca un **[!UICONTROL Nombre]** y, en la lista desplegable [!UICONTROL Tipo], seleccione **[!UICONTROL Participación]**.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Elija un [!UICONTROL espacio de trabajo] y un [!UICONTROL destino]. Añada [!UICONTROL Descripción] y [!UICONTROL etiquetas]opcionales. Haga clic en **[!UICONTROL Añadir]** cuando termine.
+1. Elija un [!UICONTROL espacio de trabajo] y [!UICONTROL destino]. Añada [!UICONTROL Descripción] y [!UICONTROL Etiquetas] opcionales. Haga clic en **[!UICONTROL Añadir]** cuando termine.
 
    ![Imagen Cuatro](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
