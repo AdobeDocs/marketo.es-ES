@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La página de detalles de la persona contiene toda la información que el comerciante conoce sobre una persona. Puede editar datos directamente desde esta página.
 
-## Página de detalles de personas {#getting-to-person-detail-page}
+## Página Detalles de Persona {#getting-to-person-detail-page}
 
 Hay muchas maneras de abrir personas específicas. A continuación se enumeran algunos ejemplos.
 
@@ -23,10 +23,10 @@ Hay muchas maneras de abrir personas específicas. A continuación se enumeran a
 >
 >**Ejemplo**
 >
->* Desde la **base de datos**, puede buscar en la búsqueda rápida
->* Cualquier **lista** o lista inteligente
->* **Ficha Miembros** de un programa
->* **Miembros** de Campaña de vista en una Campaña inteligente
+>* Desde la **base de datos**, puede buscar en la Búsqueda rápida
+>* Cualquier lista **inteligente** o lista
+>* **** Miembros de un programa
+>* **Campaña de vista** Miembros en una Campaña inteligente
 >* Algunos **informes**
 
 >
@@ -41,7 +41,7 @@ Hay muchas maneras de abrir personas específicas. A continuación se enumeran a
 
    ![](assets/two-5.png)
 
-## Organización de la página: Salesforce {#page-organization-salesforce}
+## Organización de la página - Salesforce {#page-organization-salesforce}
 
 La información de la persona se clasifica en las fichas siguientes:
 
@@ -98,7 +98,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 >
 >**Buceo profundo**
 >
->Algunos campos *no son* editables:
+>Algunos campos son *no* editables:
 >
 >* Información de compañía
 >* Oportunidades para contactos de SFDC
@@ -107,7 +107,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 
 >
 >
-Obtenga más información sobre los campos [administrados por](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)el sistema.
+Obtenga más información sobre [Campos administrados por el sistema](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
