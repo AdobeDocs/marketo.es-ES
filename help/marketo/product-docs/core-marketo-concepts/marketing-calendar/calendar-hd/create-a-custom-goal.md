@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Los objetivos son formas de seguir el progreso y motivar a su equipo. Una vez creadas, deben actualizarse manualmente.
 
-Al igual que las presentaciones, los objetivos son específicos del [espacio](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)de trabajo.
+Al igual que las presentaciones, los objetivos son específicos del [espacio de trabajo](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vaya al **calendario**.
+1. Vaya al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -29,11 +29,11 @@ Al igual que las presentaciones, los objetivos son específicos del [espacio](..
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Arrastre y suelte el objetivo **personalizado** en el lienzo.
+1. Arrastre y suelte **Objetivo personalizado** en el lienzo.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Escriba un nombre para el objetivo. Seleccione una **moneda**.
+1. Escriba un nombre para el objetivo. Seleccione una **Moneda**.
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Al igual que las presentaciones, los objetivos son específicos del [espacio](..
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Introduzca un valor para el Destinatario **de** objetivo y el valor **** actual (si no hay ninguno, **introduzca 0**). A continuación, haga clic en **Crear**.
+1. Escriba un valor para el **Destinatario de objetivo** y el **Valor actual** (si no hay uno, **escriba 0**). A continuación, haga clic en **Crear**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
