@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Si los usuarios de Marketing to desean vista de su fuente de posibles clientes no solo en Salesforce, sino también en una fuente RSS, un administrador de marketing debe activarla primero. Es fácil.
 
-1. En Mi marketing, haga clic en **Administración** y, a continuación, en Perspectiva **de ventas**.
+1. En Mi marketing, haga clic en **Administración** y luego en **Perspectiva de ventas**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. En Configuración, haga clic en **Editar**. Tenga en cuenta que la fuente RSS se muestra como **Desactivada**.
+1. En Configuración, haga clic en **Editar**. Tenga en cuenta que la fuente RSS se muestra como **Deshabilitada**.
 
    ![](assets/rss-settings-tab.png)
 
-   En el cuadro de diálogo Editar configuración, marque la casilla de verificación de la fuente **** RSS y haga clic en **Guardar**.
+   En el cuadro de diálogo Editar configuración, marque la casilla **fuente RSS** y haga clic en **Guardar**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
