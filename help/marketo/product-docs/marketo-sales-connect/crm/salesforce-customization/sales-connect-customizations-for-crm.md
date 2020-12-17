@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizaciones de Sales Connect para CRM {#sales-connect-customizations-for-crm}
 
-Los campos y botones siguientes son creados por la API de metadatos en Salesforce CRM. Una vez creados los campos, los administradores deben configurar los diseños de página en su CRM para exponerlos. Las instrucciones pueden encontrarse [aquí](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+Los campos y botones siguientes son creados por la API de metadatos en Salesforce CRM. Una vez creados los campos, los administradores deben configurar los diseños de página en su CRM para exponerlos. Las instrucciones se pueden encontrar [aquí](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Los campos y botones siguientes son creados por la API de metadatos en Salesforc
 
    ![](assets/two.png)
 
-1. Haga clic en Personalizaciones **de Connect** de Marketing para ventas.
+1. Haga clic en **Personalizaciones de Connect de Marketing para ventas**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Los campos y botones siguientes son creados por la API de metadatos en Salesforc
 
 ## Campos de Actividad personalizados {#custom-activity-fields}
 
-Marketo detectará la creación de los nuevos campos y, a continuación, realizará un relleno único de datos, una reasignación y una sincronización continua de valores solo en los campos **nuevos** . Los campos antiguos no se actualizarán.
+Marketo detectará la creación de los nuevos campos y, a continuación, realizará un relleno único de datos, una reasignación y una sincronización continua de valores únicamente en los campos **new**. Los campos antiguos no se actualizarán.
 
 | **Nombre del campo** | **Descripción** |
 |---|---|
@@ -61,7 +61,7 @@ Marketo detectará la creación de los nuevos campos y, a continuación, realiza
 | URL de correo electrónico de MSE | Al hacer clic en esta URL se abrirá el Centro de comandos en MSE y se abrirá la ficha Historial de Vistas de detalles de personas, donde podrá ver el correo electrónico enviado. |
 | Correo electrónico de MSE visualizado | Registra una marca de verificación cuando el destinatario vista un correo electrónico. |
 
-## Campos de registro de resumen {#roll-up-logging-fields}
+## Campos de registro resumidos {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -140,7 +140,8 @@ Marketo detectará la creación de los nuevos campos y, a continuación, realiza
 
 [MSE para Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
 
-## Vídeos relacionados {#related-videos}
+## Videos relacionados {#related-videos}
 
-**Cómo instalar personalizaciones en Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** La ventaja de utilizar personalizaciones en Salesforce**
+**Cómo instalar personalizaciones en Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** La ventaja de utilizar personalizaciones en Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
