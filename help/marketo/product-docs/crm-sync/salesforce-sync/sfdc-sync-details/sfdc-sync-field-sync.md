@@ -57,7 +57,7 @@ Los campos de búsqueda en SFDC sincronizan el ID pero no el nombre al que se ha
 
 ## ¿Qué sucede con los campos de fórmula de SFDC? {#what-about-sfdc-formula-fields}
 
-Los campos de fórmula se sincronizan, sin embargo, las actualizaciones de las referencias de la fórmula no se sincronizan hasta que no se actualice la marca [de método del sistema](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+Los campos de fórmula se sincronizan, sin embargo, las actualizaciones de las referencias de la fórmula no se sincronizan hasta que haya una actualización de [Marca de método del sistema](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
 
 ## ¿Qué sucede cuando elimino un campo de Salesforce que se sincronizaba previamente con Marketing? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
