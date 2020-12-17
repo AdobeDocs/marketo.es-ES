@@ -19,13 +19,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Puede ver la lista de personas que fueron procesadas por la campaña inteligente haciendo clic en Miembros [de Campaña de](view-smart-campaign-members.md)Vista.
+   >Puede ver la lista de personas que fueron procesadas por la campaña inteligente haciendo clic en [Miembros de Campaña de Vista](view-smart-campaign-members.md).
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >También puede filtrar los resultados según el tipo de actividad. Descubra cómo [filtrar los resultados](filter-smart-campaign-results.md)de campaña inteligente.
+   >También puede filtrar los resultados según el tipo de actividad. Obtenga información sobre cómo [filtrar los resultados de campaña inteligente](filter-smart-campaign-results.md).
 
 1. Haga clic en un **ID** para vista más detallada sobre esa actividad en particular.
 
