@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# PANEL principal de ABM {#abm-main-dashboard}
+# PANEL principal ABM {#abm-main-dashboard}
 
 El panel principal proporciona un resumen de los esfuerzos de mercadotecnia basada en cuentas. Puede ver las cuentas de destinatario o las listas de cuenta que muestran éxito y las que necesitan más atención.
 
@@ -25,7 +25,7 @@ Para filtrar por lista de cuenta, haga clic en la lista desplegable Vista...
 
 ![](assets/three.png)
 
-Para vista del Panel [de Lista de](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)cuentas, haga clic en el nombre de la lista de cuenta que seleccionó...
+Para vista del [Panel de Lista de cuenta](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard), haga clic en el nombre de la lista de cuenta que seleccionó...
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ Para vista del Panel [de Lista de](http://docs.marketo.com/display/DOCS/Account+
 
 ![](assets/five.png)
 
-Si en lugar de ver el Panel de Lista de cuenta desea profundizar en una cuenta con nombre, haga clic en **Más detalles** bajo su nombre...
+Si en lugar de ver el Panel de Lista de cuenta que desea explorar en profundidad en una cuenta con nombre, haga clic en **Más detalles** bajo su nombre...
 
 ![](assets/six.png)
 
-...y vista las perspectivas [de la cuenta](http://docs.marketo.com/display/DOCS/Named+Account+Insights)designada.
+...y vista las [perspectivas de la cuenta con nombre](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
 
 ![](assets/seven.png)
 
