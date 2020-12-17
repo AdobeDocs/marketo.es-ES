@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## Buscar todos los miembros de una etapa de ingresos específica {#find-all-members-of-a-specific-revenue-stage}
 
-1. En una lista inteligente, haga clic en la ficha **Lista inteligente **, busque el filtro de la etapa **de** ingresos y arrástrelo al lienzo.
+1. En una lista inteligente, haga clic en la ficha **Lista inteligente **, busque el filtro **Fase de ingresos** y arrástrelo al lienzo.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Seleccione una etapa **de ingresos**.
+1. Seleccione una **etapa de ingresos**.
 
    ![](assets/two.jpg)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ## Ejecutar un paso de flujo en los miembros de una etapa de ingresos {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Ahora que ya saben qué personas están en cada etapa de ingresos, pueden comercializar directamente con ellos. Además de elegir la etapa **de** ingresos como filtro de lista inteligente, también puede elegirla como filtro &quot;if&quot; en el flujo.
+Ahora que ya saben qué personas están en cada etapa de ingresos, pueden comercializar directamente con ellos. Además de elegir **Fase de ingresos** como un filtro de lista inteligente, también puede elegirlo como un filtro &quot;if&quot; en el flujo.
 
-1. En el paso de flujo deseado, haga clic en **Añadir opción** y seleccione **Nivel** de ingresos en la lista desplegable.
+1. En el paso de flujo deseado, haga clic en **Añadir opción** y seleccione **Fase de ingresos** en la lista desplegable.
 
    ![](assets/six.png)
 
