@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Las listas inteligentes permiten encontrar grupos específicos de personas mediante filtros simples. Así es como crear uno.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
 1. Seleccione el programa en el que desea crear la lista inteligente.
 1. ![Esta es una prueba](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. En **Nuevo**, haga clic en **Nuevo recurso** local.
+1. En **Nuevo**, haga clic en **Nuevo recurso local**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Seleccione Lista **** inteligente.
+1. Seleccione **Lista inteligente**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Introduzca un **Nombre** y haga clic en **Crear**.
+1. Escriba un **Nombre** y haga clic en **Crear**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
