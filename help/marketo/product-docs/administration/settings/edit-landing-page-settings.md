@@ -23,7 +23,7 @@ Puede editar el nombre de dominio y la página de reserva, activar o desactivar 
 
    ![](assets/image2014-9-10-9-3a47-3a40.png)
 
-1. En la sección **Páginas de aterrizaje** , haga clic en **Editar**.
+1. En la sección **Páginas de aterrizaje**, haga clic en **Editar**.
 
    ![](assets/image2014-9-10-9-3a47-3a12.png)
 
@@ -32,24 +32,24 @@ Puede editar el nombre de dominio y la página de reserva, activar o desactivar 
    | Término | Definición |
    |---|---|
    | Nombre de dominio para páginas de aterrizaje | Este es su CNAME. Un CNAME es la primera parte de la URL que se proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `http://go.yourCompany.com`, la palabra &quot;go&quot; es el CNAME. Se pueden tener múltiples, pero la mayoría de la gente simplemente usa uno. |
-   | Página de reserva | Aquí es a dónde ir si la página de aterrizaje no existe o no está. Obtenga más información sobre las [páginas](set-a-fallback-page.md)de reserva. |
+   | Página de reserva | Aquí es a dónde ir si la página de aterrizaje no existe o no está. Obtenga más información sobre [páginas de reserva](set-a-fallback-page.md). |
    | Página principal | Introduzca la dirección URL del sitio corporativo. |
 
    ![](assets/three.png)
 
-1. Marque la casilla de verificación **Completar** formulario para permitir que los formularios rellenen previamente la información de personas conocidas (con cookies). Desmarcar para bloquear.
+1. Marque la casilla **Completar previamente el formulario** para permitir que los formularios rellenen previamente la información de personas conocidas (con cookies). Desmarcar para bloquear.
 
    ![](assets/four.png)
 
-1. Si desea evitar que un sitio malintencionado aparentemente aloje su contenido, marque la casilla **No permitir que las páginas de marketing se incrusten en páginas** web externas.
+1. Si desea evitar que un sitio malintencionado aparentemente aloje su contenido, marque la casilla **No permitir que las páginas de marketing se integren en páginas web externas**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Si desea que la etiqueta de relleno previo `<script>` aparezca al final de la `<head>` etiqueta en el código, marque la casilla **Inyectar script de relleno previo al final del encabezado** . Deje sin marcar si desea que aparezca al principio.
+   >Si desea que la etiqueta `<script>` de relleno previo aparezca al final de la etiqueta `<head>` en el código, marque la casilla **Inyectar script de relleno previo al final del encabezado**. Deje sin marcar si desea que aparezca al principio.
    >
-   >Marque **Eliminar los vínculos** de favoritos predeterminados para evitar que Marketo inserte cualquier vínculo de favicon en el código.
+   >Marque **Eliminar los vínculos de favicon predeterminados** para evitar que Marketo inserte cualquier vínculo de favicon en el código.
 
 1. Después de realizar las selecciones, haga clic en **Guardar.**
 
