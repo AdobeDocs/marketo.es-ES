@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Explicación de las páginas {#seo-understanding-pages}
 
-## Utilidad Puntuación de optimización de página / tarea pendiente {#page-optimization-score-to-do-widget}
+## Puntuación de optimización de página / Utilidad para tareas {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
