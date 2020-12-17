@@ -26,13 +26,13 @@ Estos pasos incluyen:
 
 >[!NOTE]
 >
->Solo necesita realizar estos pasos si su compañía es **nueva en Marketing**. Si no es así, es posible que la configuración ya se haya realizado.
+>Solo debe realizar estos pasos si la compañía es **nueva en Marketing**. Si no es así, es posible que la configuración ya se haya realizado.
 
 Algunos pasos requieren la ayuda de su equipo de TI.
 
 >[!TIP]
 >
->Si [imprime esta lista](/help/marketo/getting-started/setup-steps/setup-checklist.md)de comprobación, puede desactivar los elementos al completarlos.
+>Si [imprime esta lista de comprobación](/help/marketo/getting-started/setup-steps/setup-checklist.md), puede desactivar los elementos al completarlos.
 
 1. Inicie sesión y cree más usuarios de marketing
 
@@ -42,7 +42,7 @@ Algunos pasos requieren la ayuda de su equipo de TI.
 
 ¡Felicitaciones! Ahora está en Marketo y puede explorar inicios. Puede que desee invitar a sus colegas del equipo de mercadotecnia para que se unan a usted. Puede hacerlo agregando nuevos usuarios.
 
-Vaya al área **Administración** .
+Vaya al área **Administración**.
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Seleccione una función y haga clic en **Siguiente**. Los usuarios estándar tie
 
 >[!NOTE]
 >
->Además de las cinco funciones integradas, también puede crear funciones personalizadas. Obtenga más información sobre la [administración de funciones y permisos](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)de usuario.
+>Además de las cinco funciones integradas, también puede crear funciones personalizadas. Obtenga más información sobre [Administración de roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 No dude en modificar el texto de la invitación. Haga clic en **Enviar**.
 
@@ -100,7 +100,7 @@ El nuevo usuario aparece ahora en la ficha Usuarios y debe recibir un correo ele
 
 1. Configurar los contactos de asistencia técnica autorizados
 
-   Es posible que haya recibido un mensaje de correo electrónico de la asistencia técnica de marketing en el que se indica que es el administrador de asistencia al cliente de Marketing to para su compañía. Si es así, puede configurar contactos **de asistencia** autorizados para su equipo. Solo los contactos de asistencia autorizados pueden ponerse en contacto directamente con el servicio de asistencia al cliente de Marketing [to a través del portal](https://support.marketo.com)de asistencia técnica de marketing.
+   Es posible que haya recibido un mensaje de correo electrónico de la asistencia técnica de marketing en el que se indica que es el administrador de asistencia al cliente de Marketing to para su compañía. Si es así, puede configurar **contactos de soporte autorizados** para su equipo. Sólo los contactos de asistencia autorizados pueden ponerse en contacto directamente con el servicio de asistencia al cliente de Marketing a través del [Portal de asistencia técnica de marketing](https://support.marketo.com).
 
    >[!NOTE]
    >
@@ -160,12 +160,12 @@ Configure las opciones de dominio para que las páginas de aterrizaje utilicen e
 
    1. **Marque sus vínculos** de seguimiento. Puede elegir un CNAME para usar su propio dominio (en lugar de Marketo) en los vínculos que incluye en los correos electrónicos de Marketing. Esto refuerza la marca del dominio y aumenta la confianza y la capacidad de entrega con sus destinatarios.
    1. **Añada Marketing a su lista de permitidos de correo electrónico corporativa.** Se recomienda enviar correos electrónicos de prueba a las cuentas de prueba antes de enviarlos a personas reales. Con el Marcador de inclusión en la lista de permitidos, puede evitar que esos correos electrónicos de prueba se bloqueen o marquen como correo no deseado.
-   1. **Configure SPF y DKIM.** Estas tecnologías garantizan a sus destinatarios que los correos electrónicos de marketing no son spam. Para evitar que los filtros de correo no deseado de los destinatarios rechacen los mensajes de correo electrónico de marketing, siga estos pasos para [configurar un SPF y DKIM para la entrega](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)por correo electrónico.
+   1. **Configure SPF y DKIM.** Estas tecnologías garantizan a sus destinatarios que los correos electrónicos de marketing no son spam. Para evitar que los filtros de correo no deseado de los destinatarios rechacen sus correos electrónicos de marketing, siga estos pasos para [Configurar un SPF y DKIM para su capacidad de entrega por correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
    1. **Configure un registro MX para su dominio.** Un registro MX permite recibir correo al dominio desde el que se envía un correo electrónico para procesar las respuestas y los respondedores automáticos. Si va a enviar desde su dominio corporativo, es probable que ya tenga esto configurado. Si no es así, normalmente puede configurarse para asignar al registro MX del dominio corporativo.
    1. **Configuración recomendada para la dirección Desde.** Debe usar un dominio de correo electrónico válido, existente y en funcionamiento en la dirección de correo electrónico de todas las campañas de correo electrónico. Puede resultar beneficioso configurar un subdominio del dominio corporativo en lugar de enviarlo desde el dominio corporativo. Esto garantizará que los problemas del flujo de correo corporativo no afecten al flujo de correo de Marketing to y viceversa. Además, enviar correo desde something@nonexistentdomain.com provocará que el correo electrónico se filtre o bloquee. Cualquier dominio utilizado en la dirección del remitente debe tener una cuenta válida y de funcionamiento de postmaster@ y de abuso@.
 Si está utilizando aplicaciones de Google para alojar el correo electrónico corporativo, no podrá crear correos electrónicos de tipo &quot;abuse@&quot; o &quot;postmaster@&quot; bajo su dominio. Para evitar esto, debe crear grupos llamados &quot;abuso&quot; y &quot;administrador de publicidad&quot;. Los usuarios que sean miembros de estos grupos recibirán correos electrónicos enviados a esas direcciones (por ejemplo, postmaster@domain.com). Encontrará instrucciones detalladas para crear grupos [aquí](https://support.google.com/a/answer/33343#adminconsole).
 
-   Elija un CNAME para los vínculos de seguimiento del correo electrónico (elija uno que sea _diferente_ del CNAME de página de aterrizaje que eligió en el paso 3). Algunos ejemplos:
+   Elija un CNAME para los vínculos de seguimiento del correo electrónico (elija uno que sea _diferente_ del CNAME de página de aterrizaje elegido en el paso 3). Algunos ejemplos:
 
    * go2.[CompanyDomain].com
    * em.[CompanyDomain].com
@@ -177,7 +177,7 @@ Si está utilizando aplicaciones de Google para alojar el correo electrónico co
    >
    >Los CNAME de correo electrónico y Página de aterrizaje deben ser diferentes. Además, evite los CNAME como ‘track’ o ‘link’. A menudo se marca como correo no deseado
 
-   Para encontrar el vínculo de seguimiento de marketing, vaya al área **Administración** .
+   Para encontrar el vínculo de seguimiento de marketing, vaya al área **Administración**.
 
    ![](assets/admin.png)
 
@@ -191,11 +191,11 @@ Si está utilizando aplicaciones de Google para alojar el correo electrónico co
 
    ![](assets/email-tracking-link-hand.jpg)
 
-   Este es tu `[MktoTrackingLink]`. Guárdalo. Tendrá que dárselo a TI en el paso 5.
+   Éste es su `[MktoTrackingLink]`. Guárdalo. Tendrá que dárselo a TI en el paso 5.
 
-   Recopilar dominios &quot;De&quot;. Realice una lista de todos los dominios &quot;De&quot; (como en `[Sender]@[FromDomain].com`) que desee utilizar para enviar correos electrónicos desde Marketing. Para la mayoría, hay sólo uno.
+   Recopilar dominios &quot;De&quot;. Realice una lista de todos los dominios &quot;De&quot; (como `[Sender]@[FromDomain].com`) que planea utilizar para enviar correos electrónicos desde Marketing. Para la mayoría, hay sólo uno.
 
-   Por ejemplo: &#39;marketo.com,&#39; &#39;info.marketo.com,&#39;. Son `[FromDomain1]`,`[FromDomain2]`etc. Guárdalos. Tendrá que entregárselos a TI en el paso 5.
+   Por ejemplo: &#39;marketo.com,&#39; &#39;info.marketo.com,&#39;. Son `[FromDomain1]`,`[FromDomain2]`, etc. Guárdalos. Tendrá que entregárselos a TI en el paso 5.
 
    Ahora tiene toda la información que necesita para enviar su solicitud al departamento de TI.
 
@@ -213,7 +213,7 @@ Si está utilizando aplicaciones de Google para alojar el correo electrónico co
 
    >[!NOTE]
    >
-   >Consulte los pasos 3 y 4 para determinar el texto que se va a reemplazar con los marcadores de posición. Recuerden eso `[LandingPageCNAME]` y `[EmailTrackingCNAME]` deben ser diferentes.
+   >Consulte los pasos 3 y 4 para determinar el texto que se va a reemplazar con los marcadores de posición. Recuerde que `[LandingPageCNAME]` y `[EmailTrackingCNAME]` deben ser diferentes.
 
 `---------------------------------------------`
 
@@ -221,9 +221,9 @@ Estimado e impresionante administrador de TI:
 
 Nuestro equipo de mercadotecnia está usando la plataforma de mercadotecnia para comunicarse con nuestra gente. Para garantizar la buena entrega por correo electrónico, debemos realizar los siguientes cambios:
 
-`1)` Para nuestras páginas de aterrizaje, agregue una entrada DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, apuntando a **[AccountString]**.mktoweb.com.
+`1)` Para nuestras páginas de aterrizaje, agregue una entrada DNS (CNAME) para  **[LandingPageCNAME]**.**[CompanyDomain]**.com, apuntando a  **[AccountString]**.mktoweb.com.
 
-`2)` Para nuestros vínculos de seguimiento en el correo electrónico, agregue una entrada DNS (CNAME) para **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, que señala a **[MktoTrackingLink]**.
+`2)` Para nuestros vínculos de seguimiento en el correo electrónico, agregue una entrada DNS (CNAME) para  **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, que señala a  **[MktoTrackingLink]**.
 
 `3)` Marcador de lista de permitidos.
 
@@ -255,23 +255,24 @@ NOTA: Póngase en contacto con la asistencia técnica de marketing si desea una 
 
 `a.` Para configurar SPF, agregue la siguiente línea a nuestras entradas DNS:
 
-EN TXT **[desde dominio]**:  v=spf1 mx ip4:IP **[corporativa(s)]**<br/>incluyen: mktomail.com ~all
+IN TXT **[Desde el dominio]**:  v=spf1 mx ip4:**[IP de la empresa]**
+<br/>incluyen: mktomail.com ~all
 
 Si ya tenemos un registro SPF existente en nuestra entrada DNS, simplemente agregue lo siguiente:
 
 include:mktomail.com
 
-`[`Reemplazar **de dominio** por su correo electrónico de dominio (por ejemplo: compañía.com) y **CorpIP** con la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: 255 255 255 255).  Si va a enviar correos electrónicos desde varios dominios a través de Marketing, debe hacer que el personal de TI agregue esta línea para cada dominio (en una línea).`]`
+`[`Reemplazar  **de** dominio por su correo electrónico de dominio (por ejemplo: compañía.com) y  **** CorpIPcon la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: 255 255 255 255).  Si va a enviar correos electrónicos desde varios dominios a través de Marketing, debe hacer que el personal de TI agregue esta línea para cada dominio (en una línea).`]`
 
 `b.` Para DKIM, cree Registros de recursos DNS para cada dominio que desee configurar. A continuación se muestran los registros de host y los valores TXT de cada dominio para el que firmaremos:
 
-**`[DKIMDomain1]`**:: El registro de host es **`[HostRecord1]`** y el valor TXT es **[TXTValue1]**.
+**`[DKIMDomain1]`**:: El registro de host es  **`[HostRecord1]`** y el valor TXT es  **[TXTValue1]**.
 
-**`[DKIMDomain2]`**:: El registro de host es **`[HostRecord2]`** y el valor de TXT es **`[TXTValue2]`**.
+**`[DKIMDomain2]`**:: El registro de host es  **`[HostRecord2]`** y el valor de TXT es  **`[TXTValue2]`**.
 
-`[`Copie **HostRecord** y **TXTValue** para cada **DKIMDomain** que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide comprobar cada dominio en **Administración > Correo electrónico > DKIM** después de que su personal de TI haya completado este paso.`]`
+`[`Copie  **** HostRecordand  **** TXTValuepara cada  **** DKIMDomainque haya configurado después de seguir las  [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide verificar cada dominio en **Administración > Correo electrónico > DKIM** después de que su personal de TI haya completado este paso.`]`
 
-`5)` Debemos asegurarnos de que hay un registro MX válido para nuestros dominios **[FromDomain1]**, **[FromDomain2]**, etc. ¿Puedes confirmar? Si no es así, configúrelo para asignarlo a nuestro registro MX de dominio corporativo. Esto asegurará que podamos procesar las respuestas/respuestas automáticas a nuestros envíos de correo de Marketing to.
+`5)` Debemos asegurarnos de que hay un registro MX válido para nuestros dominios  **[FromDomain1]**,  **[FromDomain2]**, etc. ¿Puedes confirmar? Si no es así, configúrelo para asignarlo a nuestro registro MX de dominio corporativo. Esto asegurará que podamos procesar las respuestas/respuestas automáticas a nuestros envíos de correo de Marketing to.
 
 Hágame saber cuando haya completado estos pasos, para que pueda completar el proceso de configuración con Marketing.
 
@@ -289,7 +290,7 @@ Envíe el correo electrónico a TI. Entendemos que la TI puede tardar algún tie
 
    Una vez que TI haya completado sus tareas, siga estos pasos para agregar su página de aterrizaje y enviar por correo electrónico los CNAME, y para activar la firma de DKIM.
 
-   Vaya al área **Administración** para Añadir el CNAME de su Página de aterrizaje
+   Vaya al área **Administración** para Añadir el CNAME de Página de aterrizaje
 
    ![](assets/admin.png)
 
@@ -329,7 +330,7 @@ Envíe el correo electrónico a TI. Entendemos que la TI puede tardar algún tie
    >
    >Estas plantillas personalizadas solo están disponibles para los clientes de Launch Pack.
 
-   Vaya al formulario Diseño y compilación [de la plantilla de](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html) marketing. Complete la información de compañía.
+   Vaya al formulario [Diseño y generación de plantillas de marketing](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Complete la información de compañía.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
@@ -337,7 +338,7 @@ Envíe el correo electrónico a TI. Entendemos que la TI puede tardar algún tie
 
    ![](assets/image2014-9-12-11-3a5-3a7.png)
 
-   En CNAME, introduzca el CNAME de página de aterrizaje seleccionado en el paso 3 (`[LandingPageCNAME]`). Envíe su solicitud.
+   Para CNAME, introduzca el CNAME de página de aterrizaje que seleccionó en el paso 3 (`[LandingPageCNAME]`). Envíe su solicitud.
 
    ![](assets/image2014-9-12-11-3a5-3a17.png)
 
@@ -366,7 +367,7 @@ Envíe el correo electrónico a TI. Entendemos que la TI puede tardar algún tie
 >
 >¿Es cliente de Launch Pack? Puede omitir este paso. Su consultor le proporcionará las instrucciones de código Munchkin en su documento de instrucciones de configuración de TI.
 
-Marketo tiene JavaScript de seguimiento personalizado (llamado Munchkin) que puede utilizar para rastrear actividades personales en cualquier página web. Munchkin debe integrar su sitio web en Marketo. Siga estos pasos para [Añadir el código de seguimiento de Munchkin en su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+Marketo tiene JavaScript de seguimiento personalizado (llamado Munchkin) que puede utilizar para rastrear actividades personales en cualquier página web. Munchkin debe integrar su sitio web en Marketo. Siga estos pasos para [Añadir código de seguimiento de Munchkin en su sitio Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 >[!NOTE]
 >
