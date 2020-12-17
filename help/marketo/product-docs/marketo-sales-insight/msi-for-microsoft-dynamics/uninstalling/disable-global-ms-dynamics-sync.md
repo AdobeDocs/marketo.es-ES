@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Deshabilitar sincronización global de MS Dynamics {#disable-global-ms-dynamics-sync}
+# Deshabilitar Global MS Dynamics Sync {#disable-global-ms-dynamics-sync}
 
 Siga estos sencillos pasos para desactivar la sincronización de MS Dynamics.
 
@@ -29,5 +29,5 @@ Siga estos sencillos pasos para desactivar la sincronización de MS Dynamics.
 
    >[!NOTE]
    >
-   >Si no ve el botón Deshabilitar sincronización en su instancia, póngase en contacto con la asistencia técnica [de marketing](http://nation.marketo.com/community/support_solutions).
+   >Si no ve el botón Deshabilitar sincronización en su instancia, póngase en contacto con [Asistencia técnica de marketing](http://nation.marketo.com/community/support_solutions).
 
