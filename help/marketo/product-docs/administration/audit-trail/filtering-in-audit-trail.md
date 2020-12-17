@@ -19,7 +19,7 @@ Filtre por intervalo de tiempo, tipo de recurso, usuarios, acción realizada, et
 
    ![](assets/one-1.png)
 
-1. En **Seguridad**, seleccione **Auditoría**.
+1. En **Seguridad**, seleccione **Pista de auditoría**.
 
    ![](assets/two-1.png)
 
@@ -29,13 +29,13 @@ Filtre por intervalo de tiempo, tipo de recurso, usuarios, acción realizada, et
 
    >[!NOTE]
    >
-   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo se encuentra: *todos los correos electrónicos - editados por cualquiera - en los últimos siete días*.
+   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo se encuentra: *todos los correos electrónicos - editados por cualquiera - en los siete días anteriores*.
 
 1. Haga clic en la lista desplegable **Período** y seleccione **Últimos 7 días**.
 
    ![](assets/four.png)
 
-1. Haga clic en la lista desplegable Tipo **de** recurso y seleccione **Correo electrónico**.
+1. Haga clic en la lista desplegable **Tipo de recurso** y seleccione **Correo electrónico**.
 
    ![](assets/five.png)
 
