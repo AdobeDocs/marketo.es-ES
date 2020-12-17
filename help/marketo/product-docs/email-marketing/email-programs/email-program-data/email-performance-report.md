@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Para ver el rendimiento de los mensajes de correo electrónico con estadísticas como entregados, abiertos, en los que se hizo clic, etc., cree un informe de rendimiento de correo electrónico.
 
-1. [Cree un informe en un Programa](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe Rendimiento [de](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)correo electrónico.
-1. [Cambie el intervalo](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) de tiempo del informe y haga clic en la ficha **Informe** .
+1. [Cree un informe en un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el tipo **** [de ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)informe Rendimiento de correo electrónico.
+1. [Cambie el ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) marco temporal del informe y haga clic en la ficha  **** Informe.
 1. ¡Estás ahí! Ahora explore el informe para ver el rendimiento de sus correos electrónicos.
 
    >[!NOTE]
@@ -32,9 +32,9 @@ Para ver el rendimiento de los mensajes de correo electrónico con estadísticas
    >[!NOTE]
    >
    >
-   >Un informe de rendimiento de correo electrónico incluye actividades para todas las personas, incluidas las que se han eliminado desde que se envió el correo electrónico. A veces, desea ver actividades solo para personas activas. En ese caso, debe filtrar las personas eliminadas del informe. Utilice la ficha Lista **** inteligente para [crear una lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente para el informe. Si no está filtrando ningún campo específico, establezca el filtro Dirección de correo electrónico en: **no está vacío**.
+   >Un informe de rendimiento de correo electrónico incluye actividades para todas las personas, incluidas las que se han eliminado desde que se envió el correo electrónico. A veces, desea ver actividades solo para personas activas. En ese caso, debe filtrar las personas eliminadas del informe. Utilice la ficha **Lista inteligente** para [crear una lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para el informe. Si no está filtrando ningún campo específico, establezca el filtro Dirección de correo electrónico en: **no está vacío**.
 
-   [Las columnas](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) de informes seleccionadas para un informe de rendimiento de correo electrónico incluyen:
+   [Seleccionar columnas ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) de informes para un informe de rendimiento de correo electrónico incluye:
 
    | Columna | Descripción |
    |---|---|
@@ -50,13 +50,13 @@ Para ver el rendimiento de los mensajes de correo electrónico con estadísticas
 
 En general, tratamos de usar el sentido común para registrar estas estadísticas. Por ejemplo, si alguien hizo clic en un vínculo de un mensaje de correo electrónico, obviamente lo abrió primero. Seguimos estas reglas específicas para el informe Rendimiento del correo electrónico:
 
-* **Artículo 1**: Cada registro de actividad de correo electrónico se establece en uno, y solo uno, de los siguientes valores: *Entregado*, *Abandonado* duro, Abandonado ** suave o *Pendiente*.
+* **Artículo 1**: Cada registro de actividad de correo electrónico se establece en uno, y solo uno, de los siguientes valores:  *Entregado*,  *Abandonado* duro, Abandonado ** suave o  *Pendiente*.
 
-* **Artículo 2**: Si el registro de correo electrónico muestra *Abierto*, se cuenta como *Enviado*.
+* **Artículo 2**: Si el registro de correo electrónico muestra  *Abierto*, se cuenta como  *Enviado*.
 
-* **Artículo 3**: Si el registro de correo electrónico muestra Correo electrónico ** en el que se hizo clic o *Suscrito*, se cuenta como *Enviado* y *Abierto*.
+* **Artículo 3**: Si el registro de correo electrónico muestra  *Se hizo clic en* Correo electrónico o  *Se canceló la suscripción*, se cuenta como  ** Enviado y  *Abierto*.
 
-* **Artículo 4**: Si el correo electrónico está *abierto*, se omiten las devoluciones. Si el correo electrónico no se ha abierto, la opción *Rebotado* tiene prioridad sobre *Rebotado* suave y *Enviado*.
+* **Artículo 4**: Si el correo electrónico está  *abierto*, se omiten las devoluciones. Si el correo electrónico no se ha abierto, *Suspendido* tiene prioridad sobre *Suspendido blando* y *Enviado*.
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ En general, tratamos de usar el sentido común para registrar estas estadística
 >
 >**Buceo profundo**
 >
->Obtenga más información en Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Obtenga más información en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
