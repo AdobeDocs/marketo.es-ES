@@ -21,7 +21,7 @@ Obtenga información sobre cómo enviar un correo electrónico a un grupo comple
 
    ![](assets/one-6.png)
 
-1. Haga clic en el botón **Agrupar acciones** y seleccione Grupo **de** correo electrónico.
+1. Haga clic en el botón **Acciones de grupo** y seleccione **Grupo de correo electrónico**.
 
    ![](assets/two-5.png)
 
@@ -31,13 +31,13 @@ Obtenga información sobre cómo enviar un correo electrónico a un grupo comple
 
    Y eso es todo. Todos los miembros de ese grupo recibirán el correo electrónico.
 
-## Acción de grupo: Añadir a Campaña de ventas {#group-action-add-to-sales-campaign}
+## Acción de grupo: Añadir a la Campaña de ventas {#group-action-add-to-sales-campaign}
 
 1. Seleccione el grupo que desee agregar a una campaña.
 
    ![](assets/one-6.png)
 
-1. Haga clic en el botón **Agrupar acciones** y seleccione **Añadir grupo en Campaña**.
+1. Haga clic en el botón **Acciones de grupo** y seleccione **Añadir grupo a Campaña**.
 
    ![](assets/four-4.png)
 
@@ -47,7 +47,7 @@ Obtenga información sobre cómo enviar un correo electrónico a un grupo comple
 
    >[!NOTE]
    >
-   >Puede ver una opción para agregar a una Campaña de marketing. [Ese es un artículo](http://docs.marketo.com/x/CwDh)diferente.
+   >Puede ver una opción para agregar a una Campaña de marketing. [Ese es un artículo](http://docs.marketo.com/x/CwDh) diferente.
 
 1. Seleccione una campaña (puede seleccionar una categoría para reducir los resultados) y haga clic en **Siguiente**.
 
