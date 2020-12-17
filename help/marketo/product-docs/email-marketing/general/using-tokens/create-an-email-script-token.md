@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Creación de un token de script de correo electrónico {#create-an-email-script-token}
+# Crear un token de script de correo electrónico {#create-an-email-script-token}
 
-Para desarrolladores avanzados, puede utilizar secuencias de comandos [](http://velocity.apache.org/engine/1.7/user-guide.html) Velocity en sus correos electrónicos. Así es como hacerlo.
+Para desarrolladores avanzados, puede utilizar [scripts de Velocity](http://velocity.apache.org/engine/1.7/user-guide.html) en sus correos electrónicos. Así es como hacerlo.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,7 +23,7 @@ Para desarrolladores avanzados, puede utilizar secuencias de comandos [](http://
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. En la ficha **Mis tokens** , arrastre un token de script **de** correo electrónico.
+1. En la ficha **Mis tokens**, arrastre un distintivo **Script de correo electrónico**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
@@ -31,7 +31,7 @@ Para desarrolladores avanzados, puede utilizar secuencias de comandos [](http://
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Utilice el árbol de la derecha para arrastrar en los tokens **Persona, Oportunidad** u Objeto **** personalizado.
+1. Utilice el árbol de la derecha para arrastrar los tokens **Persona, Oportunidad** o **Objeto personalizado**.
 
    ![](assets/five-2.png)
 
