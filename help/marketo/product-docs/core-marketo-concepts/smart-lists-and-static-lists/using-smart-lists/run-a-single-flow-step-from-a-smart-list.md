@@ -23,11 +23,11 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
 
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione una lista o lista inteligente con personas y, a continuación, vaya a la ficha **Personas** .
+1. Seleccione una lista o lista inteligente con personas y, a continuación, vaya a la ficha **Personas**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -41,9 +41,9 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
    >[!NOTE]
    >
-   >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar todo** se seleccionarán todas las personas de todas las páginas.
+   >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar todo** se seleccionarán todas las personas en todas las páginas.
 
-1. En **Persona** **Acciones**, seleccione el paso de flujo que desee. En este ejemplo usaremos [Cambiar valor](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)de datos.
+1. En **Persona** **Acciones**, seleccione el paso de flujo que desee. En este ejemplo usaremos [Cambiar valor de datos](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
@@ -55,7 +55,7 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Si está cambiando los valores de datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga clic en **Ir**.
+1. Si está cambiando los valores de datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga clic en **Ir por ella**.
 
    ![](assets/changedatavalue.jpg)
 
