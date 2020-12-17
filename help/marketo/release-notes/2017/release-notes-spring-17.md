@@ -19,9 +19,9 @@ Haga clic en los vínculos de título para vista de artículos detallados para c
 
 ## [Forms de LinkedIn Lead Gen](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) es una forma más directa para que un negocio pueda ejecutar campañas de generación de posibles clientes en LinkedIn. Las personas pueden rellenar formularios para expresar interés en un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketing, donde pueden producirse procesos de seguimiento automáticos y actividades de enrutamientos de posibles clientes.
+[Los ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) formularios de generación de posibles clientes de LinkedIn son una forma más directa de que un negocio ejecute campañas de generación de posibles clientes en LinkedIn. Las personas pueden rellenar formularios para expresar interés en un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketing, donde pueden producirse procesos de seguimiento automáticos y actividades de enrutamientos de posibles clientes.
 
-La integración de Marketing Cloud con LinkedIn Lead Gen Forms captura automáticamente la información que un posible cliente proporciona en el formulario de generación de posibles clientes. Las acciones y notificaciones de seguimiento se pueden automatizar mediante el nuevo activador y filtro **Rellenar formulario** de generación de posibles clientes de LinkedIn.
+La integración de Marketing Cloud con LinkedIn Lead Gen Forms captura automáticamente la información que un posible cliente proporciona en el formulario de generación de posibles clientes. Las acciones y notificaciones de seguimiento se pueden automatizar mediante el nuevo activador y filtro **Rellena el formulario de generación de posibles clientes de LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -41,23 +41,23 @@ Transfiera fácilmente grandes cantidades de datos de persona y actividad de Mar
 
 ## Mejoras de ABM {#abm-enhancements}
 
-** Campos [personalizados en cuentas](https://docs.marketo.com/x/1wnG)con nombre ABM**
+** [Campos personalizados en cuentas con nombre ABM](https://docs.marketo.com/x/1wnG)***
 
 Marketo ABM ahora le permite crear hasta 10 campos personalizados en sus cuentas con nombre. Puede asignar estos campos personalizados a los campos del objeto Cuenta de CRM y Marketo ABM sincronizará los datos, lo que le permitirá ampliar sus cuentas con nombre de ABM y ayudarle a dirigir su mercadotecnia.
 
-** Puntuación [del porcentaje en cuentas](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)con nombre ABM**
+** [Puntuación del percentil en cuentas con nombre ABM](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)***
 
 Las puntuaciones de cuenta con nombre pueden variar considerablemente. Marketo ABM ahora calcula automáticamente un percentil para cada una de sus puntuaciones, de modo que puede ver de un vistazo dónde cada cuenta con nombre se clasifica entre las demás cuentas con nombre.
 
-** API de Lista de cuentas [ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [API de Lista de cuentas ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Aproveche las integraciones de socios ABM sólidas y enriquecidas con la compatibilidad mejorada de API para Listas de cuentas con nombre.
 
-## Mejoras en la personalización de la Web {#web-personalization-enhancements}
+## Mejoras en la personalización de Web {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
-** Campaña [Web tras desplazamiento](https://docs.marketo.com/x/2grG)**
+** [Campaña Web al desplazarse](https://docs.marketo.com/x/2grG)***
 
 Los nuevos efectos de Campaña web proporcionan a sus visitantes web una experiencia más personalizada. Configure las Campañas web personalizadas para que solo se muestren cuando un visitante web se desplace hacia abajo en la página web. Puede configurar las Campañas web de cuadro de diálogo para que se muestren al desplazarse en función de:
 
@@ -65,23 +65,23 @@ Los nuevos efectos de Campaña web proporcionan a sus visitantes web una experie
 * píxel alcanzado
 * desplazamiento por debajo del pliegue de la página
 
-** Campaña [Web al instante](https://docs.marketo.com/x/2grG)de salida**
+** [Campaña Web tras intención de salida](https://docs.marketo.com/x/2grG)**
 
 Capturar la atención del visitante antes de que cierre la página. Configure las Campañas web personalizadas para que solo se muestren cuando un gesto del ratón indique que el visitante está abandonando la página.
 
-** Efectos [de animación para Campañas](https://docs.marketo.com/x/JgNI)web**
+** [Efectos de animación para Campañas Web](https://docs.marketo.com/x/JgNI)**
 
 Configure los efectos de animación para la Campaña web de cuadro de diálogo para personalizar el modo en que aparece una campaña al entrar o salir de la página web. Puede seleccionar entre 6 efectos diferentes y controlar el tiempo y la dirección del cuadro de diálogo.
 
 ![](assets/animationoptins.png)
 
-** Personalización [del botón Cerrar cuadro de diálogo](https://docs.marketo.com/x/JgNI)**
+** [Personalización de botón de cierre de cuadro de diálogo](https://docs.marketo.com/x/JgNI)**
 
 Personalice el botón Cerrar para los cuadros de diálogo. Seleccione entre una serie de opciones que se utilizan en Campañas web de estilo de cuadro de diálogo transparente. Seleccione el icono, el color y la posición para el botón Cerrar. También puede añadir su propia imagen de botón.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Archivar Campañas](https://docs.marketo.com/x/_grG)Web**
+** [Archivar Campañas Web](https://docs.marketo.com/x/_grG)**
 
 Archivar es un nuevo estado de Campaña Web que le permite archivar Campañas Web y ocultarlas de la vista de Campaña Web predeterminada. Esto le permite centrarse en sus campañas activas más relevantes y recuperar campañas archivadas antiguas según demanda.
 
