@@ -24,13 +24,13 @@ La integración de Slack incluye dos tipos de notificación:
 
 >[!PREREQUISITES]
 >
->Si no tiene las notificaciones del sistema de Slack ya habilitadas, [póngase en contacto con el servicio de asistencia técnica](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>Si no tiene Notificaciones del sistema Slack ya habilitadas, [comuníquese con la asistencia técnica](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
 
-1. Vaya a **LaunchPoint** y, a continuación, en **Nuevo** , haga clic en **Nuevo servicio**.
+1. Vaya a **LaunchPoint** y, a continuación, en **Nuevo** haga clic en **Nuevo servicio**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Escriba un nombre para mostrar para la integración de Slack. En la lista desplegable **Servicio** , seleccione **Slack**. Haga clic en **Crear**.
+1. Escriba un nombre para mostrar para la integración de Slack. En la lista desplegable **Servicio**, seleccione **Slack**. Haga clic en **Crear**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
@@ -38,7 +38,7 @@ La integración de Slack incluye dos tipos de notificación:
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
-1. En la nueva ficha Slack, introduzca la dirección URL del espacio de trabajo y haga clic en **Continuar**.
+1. En la nueva ficha Slack, introduzca la dirección URL de su espacio de trabajo y haga clic en **Continuar**.
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
@@ -46,7 +46,7 @@ La integración de Slack incluye dos tipos de notificación:
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. En la lista desplegable **Publicar para** , seleccione el canal en el que desea que se publiquen las notificaciones de Marketing. Revise los permisos solicitados y haga clic en **Autorizar**.
+1. En la lista desplegable **Publicar en**, seleccione el canal en el que desea que se publiquen las notificaciones de Marketing. Revise los permisos solicitados y haga clic en **Autorizar**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
