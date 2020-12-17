@@ -27,7 +27,7 @@ A veces la gente quiere volver a recibir correos electrónicos. A continuación 
 >
 >Si tiene activada la sincronización de cancelación de suscripción, debe eliminar la cancelación de suscripción de ToutApp y desmarcar el exclusión en Salesforce para que el registro de persona no se sincronice de nuevo.
 
-1. Vaya a la aplicación [](http://toutapp.com/login) web y haga clic en **Personas**.
+1. Vaya a la [aplicación Web](http://toutapp.com/login) y haga clic en **Personas**.
 1. Seleccione la persona para abrir la vista de detalles de la persona.
 
    ![](assets/two.png)
@@ -36,7 +36,7 @@ A veces la gente quiere volver a recibir correos electrónicos. A continuación 
 
    ![](assets/three.png)
 
-1. Seleccione el motivo por el que la persona ha vuelto a seleccionar para recibir correos electrónicos y, a continuación, haga clic en **Eliminar cancelación de suscripción**.
+1. Seleccione el motivo por el que la persona ha vuelto a seleccionar para recibir correos electrónicos y haga clic en **Eliminar cancelación de suscripción**.
 
    ![](assets/four.png)
 
