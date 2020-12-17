@@ -19,7 +19,7 @@ Es muy importante no sobrecomunicarte con tu gente. El establecimiento de límit
 >
 >**Se requieren permisos de administración**
 
-1. En **Administración**, haga clic en Límites **de comunicación**.
+1. En **Administración**, haga clic en **Límites de comunicación**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 Haga clic en Editar.
@@ -36,19 +36,19 @@ Haga clic en Editar.
 
    >[!TIP]
    >
-   >También puede elegir **Personalizado** si ninguna de las opciones de ajustes preestablecidos funcionan correctamente.
+   >También puede elegir **Personalizado** si ninguna de las opciones preestablecidas funciona automáticamente.
 
 1. Haga clic en la lista desplegable **Por 7 días** y seleccione el límite deseado. En este ejemplo elegimos 5.
 
    ![](assets/four.png)
 
-1. Seleccione **Bloquear correos electrónicos** no operativos.
+1. Seleccione **Bloquear correos electrónicos no operativos**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Obtenga más información sobre los correos electrónicos [](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) operativos.
+   >Obtenga más información sobre los [correos electrónicos operativos](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational).
 
 1. Haga clic en **Guardar**.
 
@@ -59,7 +59,7 @@ Haga clic en Editar.
    >**Ejemplo**
    >
    >
-   >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico al día** o más de **5 en un período** de siete días.
+   >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico por día** o más de **5 en un período de siete días**.
 
    >[!NOTE]
    >
