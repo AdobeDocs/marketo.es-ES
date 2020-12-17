@@ -27,7 +27,7 @@ Los filtros de oportunidad le permiten explorar en profundidad los posibles clie
 * Se eliminó la oportunidad
 * Se actualizó la oportunidad
 
-Si está buscando los campos Oportunidad (personalizado o estándar), utilice el filtro **Tiene oportunidad** o **Oportunidad fue`[Added/Removed/Updated]`** filtros o activadores.
+Si está buscando los campos Oportunidad (personalizados o estándar), utilice el filtro **Tiene oportunidad** o **La oportunidad era`[Added/Removed/Updated]`** filtros o activadores.
 
 **Número de opciones, cantidad total de la opción, total de ingresos esperados de la opción**
 
@@ -37,7 +37,7 @@ Con estos filtros, puede encontrar posibles clientes en función del número tot
 
 **La oportunidad, Añadida a la oportunidad, fue eliminada de la oportunidad**
 
-Si busca posibles clientes que tengan oportunidades basadas en una combinación de criterios, utilice el filtro **Tiene oportunidad**, **Se Añadió a Oportunidad** o **Se eliminó del filtro Oportunidad** . Le dicen:
+Si busca posibles clientes que tengan oportunidades basadas en una combinación de criterios, utilice el filtro **Tiene oportunidad**, **Se Añadió a Oportunidad** o **Se eliminó del filtro de oportunidad**. Le dicen:
 
 * **Tiene oportunidad**: Si este posible cliente tiene actualmente alguna oportunidad de coincidencia
 * **Se Añadió a Oportunidad**: Si este lead alguna vez se agregó a una oportunidad de coincidencia
@@ -49,7 +49,7 @@ Añada los criterios de búsqueda como **Restricciones** en el filtro. Las restr
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Por ejemplo: supongamos que desea encontrar posibles clientes que tengan oportunidades abiertas de al menos $5.000. Arrastre en el filtro **Tiene oportunidad** y utilice las restricciones **Está cerrado** y **Cantidad** :
+Por ejemplo: supongamos que desea encontrar posibles clientes que tengan oportunidades abiertas de al menos $5.000. Arrastre el filtro **Tiene oportunidad** y utilice las restricciones **Está cerrado** y **Importe**:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -77,7 +77,7 @@ Por ejemplo, puede utilizar esta Lista inteligente para activar cuando se añada
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Para activar los campos personalizados de oportunidad, utilice el activador **Oportunidad actualizada** y seleccione el campo en el menú desplegable:
+Para activar los campos personalizados de oportunidad, utilice el activador **Oportunidad actualizada** y seleccione el campo en el desplegable:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
 
