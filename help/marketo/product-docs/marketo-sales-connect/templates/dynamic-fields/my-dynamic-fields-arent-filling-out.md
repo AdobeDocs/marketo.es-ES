@@ -17,13 +17,13 @@ Los campos dinámicos solo funcionarán cuando se utilice una plantilla. Los cor
 
 ## Qué comprobar {#what-to-check}
 
-Hay tres tipos de campos dinámicos en Sales Connect: Básico, Personalizado y Salesforce. Los formatos Básico y Personalizado permiten extraer información de la aplicación [](http://toutapp.com/login)web. Si la información no existe en la aplicación web, los campos estarán en blanco. Los campos de Salesforce extraen información de [Salesforce.com](http://salesforce.com).
+Hay tres tipos de campos dinámicos en Sales Connect: Básico, Personalizado y Salesforce. Tanto Basic como Custom buscan extraer información de la [aplicación Web](http://toutapp.com/login). Si la información no existe en la aplicación web, los campos estarán en blanco. Los campos de Salesforce extraen información de [Salesforce.com](http://salesforce.com).
 
 `**Troubleshooting Salesforce Fields**`
 
 Campos de Salesforce: p. ej. `{{sfdc_account_name}}`
 
-* Asegúrese de que está correctamente conectado con Sales Connect. Vaya a la página [Configuración](http://toutapp.com/next#settings) y haga clic en **Administrar** junto a su CRM.
+* Asegúrese de que está correctamente conectado con Sales Connect. Vaya a la página [Configuración](http://toutapp.com/next#settings) y haga clic en **Administrar** al lado de su CRM.
 
 **Resolución de problemas de campos básicos y personalizados**
 
@@ -31,7 +31,7 @@ Campos básicos de Tout: p. ej. `{{company}}`
 
 Campos personalizados de Tout: p. ej. `{{custom_field_favorite_movie}}`
 
-* T `he corresponding field needs to be saved for your contact` en la página [](http://toutapp.com/next#relationships) Personas para que nuestro campo dinámico haga referencia. Por ejemplo, si estás enviando un correo electrónico a Mary y usando el `{{company}}` campo, pero su registro de contacto no lista una compañía, no seremos capaces de completar eso.
+* T `he corresponding field needs to be saved for your contact` en la [página Personas](http://toutapp.com/next#relationships) para que nuestro campo dinámico haga referencia. Por ejemplo: si envía un correo electrónico a Mary y utiliza el campo `{{company}}`, pero su registro de contacto no lista una compañía, no podremos cumplimentar eso.
 
 ## ¿Por Qué Se Envió Mi Correo Electrónico Sin Rellenar Todos Los Campos Dinámicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -49,5 +49,5 @@ Sales Connect impedirá que se envíen sus correos electrónicos si no podemos r
 
 >[!NOTE]
 >
->El `{{first_name}}` campo buscará información tanto en Sales Connect como en Salesforce. Todos los demás campos de esta lista solo buscan en Sales Connect para rellenar el campo.
+>El campo `{{first_name}}` buscará información tanto en Sales Connect como en Salesforce. Todos los demás campos de esta lista solo buscan en Sales Connect para rellenar el campo.
 
