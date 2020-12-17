@@ -17,11 +17,11 @@ Identifique y comprometa las cuentas con nombre y las personas que las componen 
 
 ## FILTROS ABM {#abm-filters}
 
-1. Seleccione la campaña inteligente y haga clic en Lista **** inteligente.
+1. Seleccione la campaña inteligente y haga clic en **Lista inteligente**.
 
    ![](assets/one.png)
 
-1. Haga clic en **+** para expandir la carpeta de Filtros **de** cuenta.
+1. Haga clic en **+** para expandir la carpeta **Filtros de cuenta**.
 
    ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Para utilizar este filtro, haga clic en la lista desplegable de lista de cuenta.
 
    ![](assets/eight.png)
 
-1. Si utiliza el calificador &quot;es cualquiera&quot;, puede utilizar [restricciones](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) para limitar los resultados de búsqueda. ¡añade tantos como quieras!
+1. Si utiliza el calificador &quot;es cualquiera&quot;, puede utilizar [restricciones](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) para reducir los resultados de búsqueda. ¡añade tantos como quieras!
 
    ![](assets/nine.png)
 
