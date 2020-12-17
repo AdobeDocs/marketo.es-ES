@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La única razón por la que debería eliminar por completo el contenido de cancelación de suscripción del área &quot;Administración > Correo electrónico&quot; es si decide crear el vínculo de cancelación de suscripción en las plantillas de correo electrónico. El cuadro de texto tiene una validación que no le permite guardar sin contenido. Puede evitarlo agregando un pequeño comentario HTML. El comentario HTML no se mostrará en el cliente de correo electrónico porque está representando el correo electrónico en HTML y los comentarios se omiten. Así es como hacerlo.
 
-1. Vaya a **Administrador** y haga clic en **Correo electrónico**.
+1. Vaya a **Administración** y haga clic en **Correo electrónico**.
 
    ![](assets/image2016-8-26-13-3a57-3a9.png)
 
