@@ -20,7 +20,7 @@ Después de agregar contenido al flujo, es posible que desee cambiar la priorida
 
    ![Imagen uno](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Flujos]** .
+1. Haga clic en la ficha **[!UICONTROL Flujos]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
