@@ -53,7 +53,7 @@ Ahora puede asignar equipos de cuenta a cuentas con nombre en Marketing basado e
 
 **API REST**
 
-Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketing to. Para obtener más información sobre las operaciones de API, visite el sitio web [de desarrolladores de](http://developers.marketo.com/rest-api/lead-database/named-accounts)Marketing to.
+Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketing to. Para obtener más información sobre las operaciones de API, visite el [sitio web de desarrolladores de Marketing to](http://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Mejoras en la pista de auditoría](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Atrás quedan los días en los que tenía que preocuparse de que los usuarios en
 
 **Editar restricciones de Campaña**
 
-¿Por qué establecer restricciones [de](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) campaña si no se pueden aplicar? Al definir la configuración de límite de Campaña para restringir el número de personas de la base de datos que pueden ser objetivo con una sola campaña, ahora puede restringir qué usuarios pueden anular esta configuración al programar una campaña.
+¿Por qué establecer [restricciones de campaña](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) si no puede aplicarlas? Al definir la configuración de límite de Campaña para restringir el número de personas de la base de datos que pueden ser objetivo con una sola campaña, ahora puede restringir qué usuarios pueden anular esta configuración al programar una campaña.
 
 ## [Sonido para notificaciones push móviles](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
