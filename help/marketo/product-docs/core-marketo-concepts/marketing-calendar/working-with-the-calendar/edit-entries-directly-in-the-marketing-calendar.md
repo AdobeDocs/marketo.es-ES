@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Una vez en el modo de enfoque de programa, puede realizar cambios rápidamente en las entradas de calendario. Así es como.
 
-## Activar enfoque de Programa {#enable-program-focus}
+## Habilitar enfoque en Programa {#enable-program-focus}
 
-1. Vaya al **calendario**.
+1. Vaya al **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Seleccione una entrada que pertenezca al programa en el que desea centrarse y haga clic en **Mostrar enfoque** de Programa.
+1. Seleccione una entrada que pertenezca al programa en el que desea centrarse y haga clic en **Mostrar enfoque de Programa**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
-## Reprogramar entrada {#reschedule-entry}
+## Reprogramar Entrada {#reschedule-entry}
 
 1. Basta con arrastrar y soltar una entrada para volver a programarla.
 
@@ -46,7 +46,7 @@ Una vez en el modo de enfoque de programa, puede realizar cambios rápidamente e
    >También puede editar la descripción.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Convertir tipo de entrada {#convert-entry-type}
 
