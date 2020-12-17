@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Transición de personas entre flujos de participación {#transition-people-between-engagement-streams}
 
-Los programas de participación pueden tener más de un flujo. Si [agrega un flujo](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), querrá definir una manera de que las personas se muevan de un flujo a otro. Se llaman reglas de **transición.**
+Los programas de participación pueden tener más de un flujo. Si [agrega un flujo](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), querrá definir una manera de que las personas se muevan de un flujo a otro. Se llaman **reglas de transición.**
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,7 +23,7 @@ Los programas de participación pueden tener más de un flujo. Si [agrega un flu
 
    ![](assets/multistream.jpg)
 
-1. Haga clic en Reglas **de** Transición para el flujo que desee extraer de otros flujos y, a continuación, haga clic en **Editar reglas de Transición. **
+1. Haga clic en **Reglas de Transición** para el flujo que desee extraer de otros flujos y, a continuación, haga clic en **Editar reglas de Transición. **
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -58,5 +58,5 @@ Los programas de participación pueden tener más de un flujo. Si [agrega un flu
 
    >[!NOTE]
    >
-   >Los pasos descritos anteriormente *se aplican* también a las personas que están [en pausa](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) .
+   >Los pasos descritos anteriormente *do* se aplican también a las personas que estén [en pausa](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program).
 
