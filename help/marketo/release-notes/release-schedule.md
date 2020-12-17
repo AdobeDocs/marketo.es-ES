@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programa de lanzamiento {#release-schedule}
+# Programa de versiones {#release-schedule}
 
 **Versión**: Marketing utiliza un programa de versiones principales trimestral. Una vez disponibles, cada una de las notas de la versión estará vinculada en la tabla siguiente.
 
