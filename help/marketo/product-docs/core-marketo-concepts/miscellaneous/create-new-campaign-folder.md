@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y irá camino a la magia de la automatización.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Seleccione **Nueva carpeta** de campaña.
+1. Seleccione **Nueva carpeta de campaña**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Introduzca un **nombre** para la carpeta de campaña.
+1. Escriba un **Nombre** para la carpeta de campaña.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Opcional: Introduzca una **Descripción** y haga clic en** Crear. **
+1. Opcional: Escriba una **Descripción** y haga clic en** Crear. **
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ahora, al [crear un nuevo programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta campaña como una opción.
+   Ahora, cuando [cree un nuevo programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campañas como una opción.
 
 >[!MORELIKETHIS]
 >
