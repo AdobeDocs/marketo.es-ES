@@ -25,23 +25,23 @@ No-Borrador se habilita automáticamente para todas las funciones de administrad
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administración** y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
 
    ![](assets/usersandroles.png)
 
-1. Vaya a la ficha **Funciones** , seleccione una función y, a continuación, haga clic en **Editar función**.
+1. Vaya a la ficha **Roles**, seleccione una función y haga clic en **Editar rol**.
 
    ![](assets/editrole2.png)
 
-1. Expanda la opción **Access Design Studio** .
+1. Expanda la opción **Access Design Studio**.
 
    ![](assets/expanddesignstudio.png)
 
-1. Expanda la opción **Obtener acceso a fragmento** .
+1. Expanda la opción **Fragmento de acceso**.
 
    ![](assets/expandsnippet.png)
 
-1. Expanda el permiso **Aprobar fragmento** y marque la casilla **Sin borrador** . A continuación, haga clic en **Guardar**.
+1. Expanda el permiso **Aprobar fragmento** y marque la casilla **Sin borrador**. A continuación, haga clic en **Guardar**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
