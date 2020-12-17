@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Para copiar etiquetas de un recurso principal a otro secundario, vaya a la página [!UICONTROL Detalles] del recurso en la ficha [!UICONTROL Información general] .
+Para copiar etiquetas de un recurso principal a un recurso secundario, navegue a la página [!UICONTROL Detalles] del recurso en la ficha [!UICONTROL Información general].
 
-En la sección [!UICONTROL Rótulos] , haga clic en **[!UICONTROL Copiar etiquetas desde elemento principal]**.
+En la sección [!UICONTROL Etiquetas], haga clic en **[!UICONTROL Copiar etiquetas de principal]**.
 
 ![Imagen uno](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
