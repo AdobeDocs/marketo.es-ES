@@ -21,11 +21,11 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
 ## Archivar contenido del flujo {#archive-stream-content}
 
-1. Seleccione el programa de participación y vaya a la ficha **Flujos** .
+1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Pase el ratón sobre el correo electrónico que desea archivar y, a continuación, en el icono de engranaje, haga clic en **Archivar**.
+1. Pase el ratón sobre el correo electrónico que desee archivar y, a continuación, en el icono de engranaje, haga clic en **Archivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
