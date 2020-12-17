@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definir una Audiencia con una Lista inteligente {#define-an-audience-with-a-smart-list}
 
-Una vez que [cree un programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacerlo [importando una lista de personas](define-an-audience-by-importing-a-list.md) o con una lista inteligente. Así es como lograr esto con una lista inteligente.
+Una vez que [cree un programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), querrá decirle a quién enviar el correo electrónico. Puede hacerlo [importando una lista de personas](define-an-audience-by-importing-a-list.md) o con una lista inteligente. Así es como lograr esto con una lista inteligente.
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ Una vez que [cree un programa](../../../../product-docs/email-marketing/email-pr
 >
 >La definición de la audiencia solo funcionará cuando no se apruebe el programa de correo electrónico.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa de correo electrónico y, a continuación, haga clic en **Editar Lista** inteligente en el mosaico de la **Audiencia** .
+1. Seleccione el programa de correo electrónico y haga clic en **Editar Lista inteligente** en el mosaico **Audiencia**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -54,13 +54,13 @@ Una vez que [cree un programa](../../../../product-docs/email-marketing/email-pr
    >**Buceo profundo**
    >
    >
-   >Consulte listas [inteligentes y listas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) estáticas para obtener más información sobre el uso y la definición de filtros.
+   >Consulte [listas inteligentes y listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) para obtener más información sobre el uso y la definición de filtros.
 
 1. Cuando haya terminado de agregar y definir filtros, vuelva a la ficha de programa principal. Verá cuántas personas califican.
 
    ![](assets/myemailprogram.jpg)
 
-   ¡Excelente trabajo! Ahora es el momento de [elegir un correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente o de [crear un correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) para enviarlo a estas personas.
+   ¡Excelente trabajo! Ahora es hora de [elegir un correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente o de [crear un correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) para enviarlo a estas personas.
 
 >[!NOTE]
 >
@@ -76,7 +76,7 @@ Una vez que [cree un programa](../../../../product-docs/email-marketing/email-pr
 
 >
 >
-Haga clic en el número para ver una lista detallada de las personas bloqueadas de los envíos de correo. **Tenga en cuenta:** Los correos electrónicos operativos se enviarán a las personas marcadas como no suscritas y se suspenderá la comercialización.
+Haga clic en el número para ver una lista detallada de las personas bloqueadas de los envíos de correo. **Nota: Los correos electrónicos** operativos se enviarán a las personas marcadas como no suscritas y la mercadotecnia se suspenderá.
 >
 >Utilice el botón ![—](assets/image2014-10-23-16-3a32-3a36.png) del mosaico de la Audiencia para ver cuántas personas recibirán el correo electrónico.
 
