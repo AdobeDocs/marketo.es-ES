@@ -23,7 +23,7 @@ El selector de recursos permite a los clientes de Marketing Cloud acceder, selec
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ya ha realizado la configuración [AEM](https://docs.marketo.com/x/FwPLAQ).
+>Asegúrese de que ya ha realizado la [Configuración de AEM](https://docs.marketo.com/x/FwPLAQ).
 
 >[!CAUTION]
 >
