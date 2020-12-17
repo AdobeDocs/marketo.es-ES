@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Notas de la versión: Abril de 2013 {#release-notes-april}
 
-Las siguientes funciones se incluyen en la versión de abril. Compruebe la disponibilidad de las funciones [de la edición](http://docs.marketo.com/display/docs/assets/pricing.php) de marketing.
+Las siguientes funciones se incluyen en la versión de abril. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la comunidad para ver los artículos detallados de la base de conocimiento de cada función.
+Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
-## Integración de cajas {#box-integration}
+## Integración de cuadros {#box-integration}
 
 Conecte Marketing con su cuenta de caja para copiar fácilmente archivos en el estudio de diseño.
 
