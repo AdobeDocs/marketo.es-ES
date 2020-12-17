@@ -27,7 +27,7 @@ Los valores cambian constantemente y se actualizan en la base de datos de Market
 
    ![](assets/ma.png)
 
-1. Seleccione la lista inteligente y haga clic en la ficha Lista **** inteligente.
+1. Seleccione la lista inteligente y haga clic en la ficha **Lista inteligente**.
 
    ![](assets/two-1.png)
 
@@ -39,7 +39,7 @@ Los valores cambian constantemente y se actualizan en la base de datos de Market
 
    ![](assets/four.png)
 
-Este filtro buscará a todas las personas que hayan cambiado su estado (cualquier cambio). Si desea mejorar aún más, intente [agregar una restricción a un filtro](add-a-constraint-to-a-smart-list-filter.md)de lista inteligente.
+Este filtro buscará a todas las personas que hayan cambiado su estado (cualquier cambio). Si desea mejorar aún más, intente [agregar una restricción a un filtro de lista inteligente](add-a-constraint-to-a-smart-list-filter.md).
 
 >[!NOTE]
 >
