@@ -23,7 +23,7 @@ Se trata de una plantilla de correo electrónico que aún no se ha compartido co
 
 Esta es la plantilla compartida que está obteniendo el mayor nivel de participación en todos los ámbitos.
 
-## Participación mínima {#lowest-engagement}
+## Participación menor {#lowest-engagement}
 
 Se puede compartir o no, esta es la plantilla con la menor cantidad de participación.
 
