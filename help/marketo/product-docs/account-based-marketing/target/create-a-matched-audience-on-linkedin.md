@@ -19,7 +19,7 @@ Cree audiencias coincidentes a partir de sus Listas de cuenta ABM para la segmen
 >
 >[Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](http://docs.marketo.com/x/I4Fy)
 
-1. En ABM, haga clic en la ficha Listas **de** cuenta.
+1. En ABM, haga clic en la ficha **Listas de cuenta**.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Cree audiencias coincidentes a partir de sus Listas de cuenta ABM para la segmen
 
    ![](assets/two.png)
 
-1. Haga clic en la lista desplegable Acciones **de Lista de** cuenta y seleccione **Enviar mediante AdBridge**.
+1. Haga clic en la lista desplegable **Acciones de Lista de cuenta** y seleccione **Enviar a través de AdBridge**.
 
    ![](assets/three-1.png)
 
@@ -35,11 +35,11 @@ Cree audiencias coincidentes a partir de sus Listas de cuenta ABM para la segmen
 
    ![](assets/four-1.png)
 
-1. Haga clic en la lista desplegable **Audiencia** . Puede seleccionar una audiencia existente o crear una nueva. En este ejemplo, crearemos uno nuevo (si selecciona una audiencia existente, vaya al paso 7).
+1. Haga clic en la lista desplegable **Audiencia**. Puede seleccionar una audiencia existente o crear una nueva. En este ejemplo, crearemos uno nuevo (si selecciona una audiencia existente, vaya al paso 7).
 
    ![](assets/five-1.png)
 
-1. Haga clic en la lista desplegable Cuenta **de** publicidad y seleccione la cuenta de publicidad de destinatario.
+1. Haga clic en la lista desplegable **Cuenta de publicidad** y seleccione la cuenta de publicidad de destinatario.
 
    ![](assets/six-1.png)
 
