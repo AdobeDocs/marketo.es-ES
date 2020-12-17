@@ -33,7 +33,7 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
    >
    >Si ya está en la lista que va a usar, tendrá que ejecutarla de nuevo seleccionándola en la lista desplegable para asegurarse de que aparecen los botones de acción masiva de MSC. Es un comportamiento de Salesforce que no se puede cambiar.
 
-1. Haga clic en la flecha desplegable (en el extremo derecho de la pantalla) y seleccione **Correo electrónico con MSC**.
+1. Haga clic en el menú desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Correo electrónico con MSC**.
 
    ![](assets/two-6.png)
 
@@ -52,15 +52,15 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
 
    ![](assets/four-4.png)
 
-1. Haga clic en la lista desplegable de flechas (en el extremo derecho de la pantalla) y seleccione **Añadir a la Campaña** de MSC.
+1. Haga clic en el menú desplegable de flecha (en el extremo derecho de la pantalla) y seleccione **Añadir a la Campaña de MSC**.
 
    ![](assets/five-4.png)
 
-1. Aparecerá la ventana emergente &quot;Añadir personas a tu Campaña&quot;. Haga clic en **Siguiente** y vaya por el flujo de campaña típico para activar una campaña de MSC.
+1. Aparecerá la ventana emergente &quot;Añadir personas a tu Campaña&quot;. Haga clic en **Siguiente** y vaya a través del flujo de campaña típico para activar una campaña de MSC.
 
    ![](assets/six-1.png)
 
-## Conexión push a ventas de marketing {#push-to-marketo-sales-connect}
+## Insertar en MarketingTo Sales Connect {#push-to-marketo-sales-connect}
 
 1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, elija la lista de los leads deseados.
 
@@ -70,7 +70,7 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
 
    ![](assets/eight-2.png)
 
-1. Se abrirá una nueva ficha llamada &quot;Puente de Salesforce&quot;. Haga clic en el botón **Continuar con el grupo →** .
+1. Se abrirá una nueva ficha llamada &quot;Puente de Salesforce&quot;. Haga clic en el botón **Continuar con el grupo →**.
 
    ![](assets/nine-2.png)
 
