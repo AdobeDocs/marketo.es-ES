@@ -69,7 +69,7 @@ Al visualizarlo en Salesforce, cada elemento tiene:
  </tbody> 
 </table>
 
-## Obtención de actualizaciones de RSS {#getting-rss-updates}
+## Obtención de actualizaciones RSS {#getting-rss-updates}
 
 También puede obtener las actualizaciones de fuentes de posibles clientes mediante la fuente RSS.  Una fuente RSS le permite recibir actualizaciones de sus leads aunque no esté conectado a Salesforce. La fuente tiene la misma información que la fuente de posibles clientes en Salesforce, así como lo siguiente (cuando está disponible):
 
@@ -82,7 +82,7 @@ También puede obtener las actualizaciones de fuentes de posibles clientes media
 
 >[!NOTE]
 >
->El administrador de marketing de su compañía debe [habilitar los canales](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) RSS para que funcionen.
+>El administrador de marketing de su compañía debe [habilitar los recursos RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que esto funcione.
 
 Para obtener actualizaciones RSS, necesitará dos cosas: el vínculo RSS y un lector de fuentes RSS. Para obtener el vínculo RSS, haga clic en el icono RSS de la fuente de posibles clientes:   ![](assets/three.png)
 
