@@ -25,11 +25,11 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
 
 ## Correo electrónico masivo {#bulk-email}
 
-1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, en el botón **Ir** .
+1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, en el botón **Ir**.
 
    ![](assets/one-5.png)
 
-1. Elija los leads deseados y haga clic en el botón **Correo electrónico con MSC (Classic)** .
+1. Elija los leads deseados y haga clic en el botón **Correo electrónico con MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -45,29 +45,29 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
 
 ## Añadir a Campaña {#add-to-campaign}
 
-1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, en el botón **Ir** .
+1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, en el botón **Ir**.
 
    ![](assets/four-3.png)
 
-1. Elija los leads deseados y haga clic en el botón **Añadir a Campaña de MSC (Classic)** .
+1. Elija los leads deseados y haga clic en el botón **Añadir a Campaña de MSC (Classic)**.
 
    ![](assets/five-3.png)
 
-1. Aparecerá la ventana emergente &quot;Añadir personas a tu Campaña&quot;. Haga clic en **Siguiente** y vaya por el flujo de campaña típico para activar una campaña de MSC.
+1. Aparecerá la ventana emergente &quot;Añadir personas a tu Campaña&quot;. Haga clic en **Siguiente** y vaya a través del flujo de campaña típico para activar una campaña de MSC.
 
    ![](assets/six.png)
 
-## Conexión push a ventas de marketing {#push-to-marketo-sales-connect}
+## Insertar en MarketingTo Sales Connect {#push-to-marketo-sales-connect}
 
-1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, en el botón **Ir** .
+1. En Salesforce, haga clic en la ficha **Posibles clientes** y, a continuación, en el botón **Ir**.
 
    ![](assets/seven-1.png)
 
-1. Elija los leads deseados y haga clic en el botón **Insertar en MSC (Classic)** .
+1. Elija los leads deseados y haga clic en el botón **Insertar en MSC (Classic)**.
 
    ![](assets/eight-1.png)
 
-1. Se abrirá una nueva ficha llamada &quot;Puente de Salesforce&quot;. Haga clic en el botón **Continuar con el grupo →** .
+1. Se abrirá una nueva ficha llamada &quot;Puente de Salesforce&quot;. Haga clic en el botón **Continuar con el grupo →**.
 
    ![](assets/nine-1.png)
 
