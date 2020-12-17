@@ -23,7 +23,7 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
 
 
 
-## Envío de un correo electrónico con perspectivas de marketing {#send-an-email-with-marketo-insights}
+## Enviar un correo electrónico con perspectivas de marketing {#send-an-email-with-marketo-insights}
 
 1. En la ventana Redactar, haga clic en el icono Comercialización.
 
@@ -45,7 +45,7 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Seleccione una plantilla **** disponible y haga clic en **Aceptar.**
+1. Seleccione una **plantilla disponible** y haga clic en **Aceptar.**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,7 +55,7 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
 
    >[!NOTE]
    >
-   >Los mensajes solo se rastrean cuando el botón **Enviar** es púrpura.
+   >Los mensajes solo se rastrean cuando el botón **Enviar** es morado.
 
 1. El mensaje de correo electrónico aparecerá pronto en la perspectiva de ventas de marketing y se realizará un seguimiento de los clics y las aperturas.
 
