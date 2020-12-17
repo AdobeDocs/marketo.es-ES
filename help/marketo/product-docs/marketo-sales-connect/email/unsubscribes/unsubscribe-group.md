@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cancelar suscripción de grupo {#unsubscribe-group}
+# Cancelar suscripción del grupo {#unsubscribe-group}
 
 Vea y gestione todas las personas que no están suscritas en un solo lugar.
 
