@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Error de autenticación {#authentication-unsuccessful-error}
+# Error de autenticación incorrecto {#authentication-unsuccessful-error}
 
 ¿Ve los correos electrónicos en Envío fallido con un error de &quot;Autenticación fallida&quot;? Esto significa que no hemos podido autenticar la conexión con su servidor SMTP. Lo más probable es que la contraseña haya cambiado recientemente y tenga que autenticar sus nuevas credenciales.
 
-1. Vaya a la Configuración [](http://toutapp.com/next#settings/email-servers/smtp/configure) SMTP donde debería ver el mismo mensaje de error &quot;Autenticación fallida&quot;.
+1. Vaya a su [Configuración SMTP](http://toutapp.com/next#settings/email-servers/smtp/configure) donde debería ver el mismo mensaje de error &quot;Autenticación fallida&quot;.
 1. Actualice sus credenciales y haga clic en **Autenticar y guardar**.
 1. Vaya a los Envíos fallidos e intente reenviar esos correos electrónicos.
 
-Si sigue teniendo problemas, [envíe un caso](http://nation.marketo.com/community/support_solutions) de asistencia.
+Si sigue teniendo problemas, [envíe un caso](http://nation.marketo.com/community/support_solutions) para soporte técnico.
