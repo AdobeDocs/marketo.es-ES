@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Importación de una Lista de caracteres no latinos {#import-a-non-latin-characters-list}
+# Importar una Lista de caracteres no latinos {#import-a-non-latin-characters-list}
 
 ¿Está intentando importar un archivo que no está en inglés? La lista se ve perfecta cuando se abre con Excel.
 
@@ -23,11 +23,11 @@ Pero al importarlo a Marketing, es posible que vea que los caracteres que no son
 
 Esto se debe a que el archivo no se guarda correctamente para que Marketing reconozca todos los caracteres no latinos. La buena noticia es que hay algunos pasos sencillos que puedes seguir para arreglarlo.
 
-1. Seleccione **Guardar como...** en el menú **Archivo** de Excel.
+1. Seleccione **Guardar como...** del menú **Archivo** en Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Elija Texto Unicode **UTF-16 (.txt)** como opción **Formato** . Esto codificará el archivo de la forma en que Marketing puede mostrarlos.
+1. Elija **Texto Unicode UTF-16 (.txt)** como opción **Formato**. Esto codificará el archivo de la forma en que Marketing puede mostrarlos.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Esto se debe a que el archivo no se guarda correctamente para que Marketing reco
 
    >[!TIP]
    >
-   >Puede abrir el archivo de texto con el **Bloc de notas** si utiliza Windows o **TextEdit** si utiliza un Mac.
+   >Puede abrir el archivo de texto utilizando **Bloc de notas** si utiliza Windows o **TextEdit** si utiliza un Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,7 +47,7 @@ Esto se debe a que el archivo no se guarda correctamente para que Marketing reco
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Seleccione **Buscar y reemplazar...** en el menú **Editar** .
+1. Seleccione **Buscar y reemplazar...** del menú **Editar**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
