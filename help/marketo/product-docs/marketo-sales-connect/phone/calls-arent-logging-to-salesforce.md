@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Si desea que las llamadas desde el teléfono de ventas se registren automáticamente en Salesforce, asegúrese de que se dispone de lo siguiente.
 
-Necesitará que su cuenta de Sales Connect esté conectada a su cuenta [de](http://docs.marketo.com/x/q4LS) Salesforce a través de la conexión API.
+Necesitará que su cuenta de Sales Connect esté conectada a su [cuenta de Salesforce](http://docs.marketo.com/x/q4LS) a través de la conexión API.
 
-Si llama desde la aplicación [](http://toutapp.com/login)web, necesitará un ID de Salesforce guardado en ese contacto. [Haga clic aquí](http://docs.marketo.com/x/G4PS) para ver cómo puede asegurarse de que todos los contactos de Sales Connect tienen un ID de Salesforce asociado.
+Si llama desde la [aplicación Web](http://toutapp.com/login), necesitará un ID de Salesforce guardado en ese contacto. [Haga clic ](http://docs.marketo.com/x/G4PS) aquí para comprobar si todos los contactos de Sales Connect tienen un ID de Salesforce asociado.
 
 >[!NOTE]
 >
