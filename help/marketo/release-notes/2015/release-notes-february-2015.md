@@ -17,11 +17,11 @@ Las siguientes funciones se incluyen en la versión de febrero de 2015. Verifiqu
 
 ## Mejoras en la automatización de mercadotecnia {#marketing-automation-enhancements}
 
-** [Mover Campaña](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)inteligente**
+** [Mover Campaña inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 ¡Regocijaos! Ahora puede mover campañas inteligentes dentro y fuera de los programas mediante la función de arrastrar y soltar o la función Mover del árbol.
 
-** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- compatible
+** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- compatible!
 
 **Cambios de certificados HTTPS**
 
@@ -33,7 +33,7 @@ y reemplazará los protocolos de seguridad utilizados actualmente (SHA-1 y SSL) 
 
 `·` [marketo.com](http://marketo.com) (aplicaciones SaaS principales)
 
-Esto ocurrirá poco después de esta versión. El protocolo SHA-1 será admitido temporalmente en el dominio [mktoapi.com](http://mktoapi.com) hasta diciembre de 2015 para permitir a los propietarios de sistemas y aplicaciones heredados actualizar sus sistemas con compatibilidad con SHA-2.
+Esto ocurrirá poco después de esta versión. El protocolo SHA-1 será admitido temporalmente en el dominio [mktoapi.com](http://mktoapi.com) hasta diciembre de 2015 para permitir que los propietarios de sistemas y aplicaciones heredados actualicen sus sistemas con compatibilidad con SHA-2.
 
 **Secure Munchkin**
 
@@ -41,12 +41,12 @@ Estamos eliminando nuestra compatibilidad con SSL3. Hasta ahora hemos mantenido 
 
 ## Mejoras en la personalización en tiempo real {#real-time-personalization-enhancements}
 
-** URL [de Destinatario para Campañas](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
+** [URL de Destinatario para Campañas](../../product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)**
 
 Seleccione las páginas en las que desee que se muestre la campaña en tiempo real con &quot;Añadir una dirección URL de Destinatario&quot;. Esta función funciona con todos los tipos de campañas (cuadro de diálogo, en zona, utilidades), pero es especialmente valiosa para las campañas en zona en las que una campaña se representará en el Id. de zona solo para la URL de destinatario seleccionada. Es compatible con la adición de varias direcciones URL en destinatario de diferentes páginas web.
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [País y Estado Añadidos a la determinación de objetivos](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)basados en la cuenta**
+** [País y estado Añadidos a la determinación de objetivos basada en la cuenta](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
 
 Ahora puede agregar País y Estado a sus Listas de cuenta con nombre. Clientes potenciales de cuentas clave de destinatario de ubicaciones específicas.
