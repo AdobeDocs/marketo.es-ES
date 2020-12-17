@@ -19,11 +19,11 @@ La versión de febrero incluye una función muy solicitada, compatibilidad con A
 
 Las últimas versiones de Apple Safari para Mac y Windows son totalmente compatibles con la administración de posibles clientes de Marketing to. Nota: Safari en iOS no es totalmente compatible.
 
-## Mejoras en los Webhooks {#webhooks-enhancements}
+## Mejoras en Webhooks {#webhooks-enhancements}
 
 Los Webhooks se mejoran para crear tokens de escape en la URL/carga útil y también pueden actualizar los campos de posibles clientes de Marketing to analizando las respuestas XML/JSON de sistemas de terceros (no disponibles en Spark SMB Edition).
 
-## Extremo de API de SOAP actualizado {#updated-soap-api-endpoint}
+## Extremo de API SOAP actualizado {#updated-soap-api-endpoint}
 
 Se ha actualizado el extremo de API de SOAP preferido, que se muestra en Administración -> API de SOAP. Actualice sus llamadas para utilizar este nuevo extremo. Las llamadas de API al punto final anterior están en desuso, pero seguirán funcionando. (La API de SOAP no está disponible en Spark SMB Edition)
 
@@ -33,4 +33,4 @@ Las fichas de Facebook publicadas desde Marketing detectarán dispositivos móvi
 
 ## Muy pronto: Compatibilidad con varios modelos {#coming-soon-support-for-multiple-models}
 
-Estamos sentando las bases para apoyar varios modelos de ciclos de ingresos, la idea votada #1 para RCA en la Comunidad, en una futura versión. En esta versión, observará algunos cambios, como filtros de Lista [inteligente y Añadir opciones en pasos](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) de flujo para admitir la selección de un modelo y una etapa. También se están moviendo los campos Fase de ingresos de posibles clientes y Modelo de ciclo de ingresos de posibles clientes de la ficha de cuadrícula Posible cliente de Lista inteligente.
+Estamos sentando las bases para apoyar varios modelos de ciclos de ingresos, la idea votada #1 para RCA en la Comunidad, en una futura versión. En esta versión, observará algunos cambios, como [filtros de Lista inteligente y Añadir opciones en pasos de flujo](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para admitir la selección de un modelo y una etapa. También se están moviendo los campos Fase de ingresos de posibles clientes y Modelo de ciclo de ingresos de posibles clientes de la ficha de cuadrícula Posible cliente de Lista inteligente.
