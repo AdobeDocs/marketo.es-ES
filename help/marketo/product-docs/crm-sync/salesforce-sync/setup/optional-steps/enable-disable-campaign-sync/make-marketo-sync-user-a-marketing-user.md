@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Hacer que el usuario de mercadotecnia sincronice con el usuario {#make-marketo-sync-user-a-marketing-user}
+# Convertir al usuario de Marketing en usuario de mercadotecnia {#make-marketo-sync-user-a-marketing-user}
 
-El usuario [de sincronización de](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) Marketing para que la sincronización de campañas de Salesforce funcione correctamente debe ser un usuario de marketing. A continuación se muestra cómo convertir al usuario en un usuario de Marketing en Salesforce.
+El [usuario de sincronización de Marketing para](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) debe ser un usuario de Marketing para que la sincronización de campaña de Salesforce funcione correctamente. A continuación se muestra cómo convertir al usuario en un usuario de Marketing en Salesforce.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ El usuario [de sincronización de](../../../../../../product-docs/crm-sync/sales
 
    ![](assets/image2015-7-8-14-3a29-3a7.png)
 
-1. Marque la casilla de verificación Usuario **de** marketing y haga clic en **Guardar**.
+1. Marque la casilla de verificación **Usuario de mercadotecnia** y haga clic en **Guardar**.
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
