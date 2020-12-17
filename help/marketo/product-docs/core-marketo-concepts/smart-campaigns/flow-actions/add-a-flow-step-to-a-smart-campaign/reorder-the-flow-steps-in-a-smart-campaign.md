@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Reordenación de los pasos de flujo en una Campaña inteligente {#reorder-the-flow-steps-in-a-smart-campaign}
+# Reordenar los pasos de flujo en una Campaña inteligente {#reorder-the-flow-steps-in-a-smart-campaign}
 
 Los pasos de flujo se ejecutan de arriba abajo. A continuación se muestra cómo reordenar los pasos de flujo para adaptarlos a sus necesidades.
 
