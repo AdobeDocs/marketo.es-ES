@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Añadir/Eliminar valores de lista de selección {#add-remove-picklist-values}
+# Añadir/Eliminar valores de lista de reproducción {#add-remove-picklist-values}
 
 A continuación se indican algunas cosas que debe saber sobre la adición y eliminación de valores de listas de selección en Salesforce.
 
-## Añadir valores de listas de reproducción {#adding-picklist-values}
+## Añadir valores de lista de reproducción {#adding-picklist-values}
 
-1. Si se agrega un valor adicional en Salesforce a un tipo de campo de lista de selección, recibirá una [notificación](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) que identifica los formularios a los que afectará.
+1. Si se agrega un valor adicional en Salesforce a un tipo de campo de lista de selección, recibirá una [notificación](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) que identifica los formularios que esto afectará.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Vaya al editor de formularios y [agregue el valor](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) adicional a la lista de sugerencias.
+1. Vaya al editor de formularios y [agregue el valor adicional](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) a la lista de sugerencias.
 
 ## Eliminar valores de lista de reproducción {#remove-picklist-values}
 
