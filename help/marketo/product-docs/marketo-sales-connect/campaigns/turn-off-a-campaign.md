@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Desactivar una Campaña para una persona {#turn-off-a-campaign-for-one-person}
 
-Después de crear la campaña, vaya a la ficha **Configuración** y elija cómo desea que la campaña se comporte si alguien responde.
+Después de crear la campaña, vaya a la ficha **Configuración** y elija cómo desea que se comporte la campaña si alguien responde.
 
 Ambas opciones finalizarán la campaña y el destinatario no recibirá más correos electrónicos de su parte.
 
-## Desactivación de una Campaña para varias personas {#turn-off-a-campaign-for-multiple-people}
+## Desactivar una Campaña para varias personas {#turn-off-a-campaign-for-multiple-people}
 
 En la carpeta enviada, seleccione los contactos para quitarlos de la campaña con el filtro configurado en &quot;Todos&quot; para capturar a cualquier persona que haya recibido una campaña.
 
