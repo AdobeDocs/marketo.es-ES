@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de las fechas tentativas/confirmadas {#understanding-tentative-confirmed-dates}
 
-Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para ser marcados como **Tentativos** o **confirmados**. Así es como funcionan.
+Las campañas inteligentes y los programas de correo electrónico tienen una poderosa capacidad para ser marcados como **Tentative** o **Confirmados**. Así es como funcionan.
 
 ## Tentativo {#tentative}
 
@@ -41,9 +41,9 @@ Las entradas confirmadas definitivamente se ejecutarán. Tienen reglas, recursos
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Finalizado  {#finished}
+## Finalizó {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez ejecutada una entrada y **finalizada**, no puede moverla ni convertirla en tentativa. (Sin cambiar la realidad ni interrumpir el continuo del flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez ejecutada una entrada y **Finalizada**, no puede moverla ni convertirla en tentativa. (Sin cambiar la realidad ni interrumpir el continuo del flujo de tiempo).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
