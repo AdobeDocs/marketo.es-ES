@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Comprender/Activar el enfoque de Programa {#understand-enable-program-focus}
+# Comprender/Activar enfoque en Programa {#understand-enable-program-focus}
 
-El Calendario de mercadotecnia le proporciona una vista visual de las cosas, pero también permite algunas interacciones. Puede [crear](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)y [confirmar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interactuar con las entradas, primero debe centrarse en un programa.
+El Calendario de mercadotecnia le proporciona una vista visual de las cosas, pero también permite algunas interacciones. Puede [crear](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) y [confirmar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interactuar con las entradas, primero debe centrarse en un programa.
 
-1. Vaya al **Calendario de** mercadotecnia ****.
+1. Vaya al **Calendario** **de mercadotecnia**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Seleccione una entrada y haga clic en **Mostrar enfoque** de Programa.
+1. Seleccione una entrada y haga clic en **Mostrar enfoque de Programa**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
