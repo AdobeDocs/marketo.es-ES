@@ -23,15 +23,15 @@ Cuando se habilita la opción de compartir configuración, solo los administrado
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 
-1. En la aplicación [](http://toutapp.com/login)web, vaya a la página Configuración.
+1. En la [aplicación Web](http://toutapp.com/login), vaya a la página Configuración.
 
    ![](assets/one-2.png)
 
-1. En Ajustes de administración, seleccione **Compartir acceso**.
+1. En Configuración de administración, seleccione **Acceso compartido**.
 
    ![](assets/two-2.png)
 
-1. Asegúrese de que la configuración **de uso compartido** está habilitada. De forma predeterminada, solo los administradores podrán compartir plantillas en sus categorías de plantilla.
+1. Asegúrese de que **Configuración de uso compartido** está activada. De forma predeterminada, solo los administradores podrán compartir plantillas en sus categorías de plantilla.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Cuando se habilita la opción de compartir configuración, solo los administrado
 
    ![](assets/four-2.png)
 
-1. Haga clic en **Añadir equipos para obtener acceso**.
+1. Haga clic en **Añadir equipos para Access**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Cuando se habilita la opción de compartir configuración, solo los administrado
    >
    >Si no ve ningún equipo, deberá ir a Administración de equipos y crear un equipo de usuarios.
 
-1. Haga clic en **Añadir equipos para el acceso** para guardar.
+1. Haga clic en **Añadir equipos para Access** para guardar.
 
    ![](assets/seven-1.png)
 
