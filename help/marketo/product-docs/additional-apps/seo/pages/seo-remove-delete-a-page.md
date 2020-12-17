@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Eliminar o eliminar una página {#seo-remove-delete-a-page}
+# SEO - Eliminar/Eliminar una página {#seo-remove-delete-a-page}
 
 ¿Desea eliminar una página? Sin sudor, así es como:
 
-1. Vaya a la sección **Páginas** .
+1. Vaya a la sección **Páginas**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
