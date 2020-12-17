@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir a un campeón de correo electrónico o a un Challenger {#add-an-email-champion-challenger}
+# Añadir un campeón de correo electrónico/Challenger {#add-an-email-champion-challenger}
 
 Es una buena idea probar cualquier correo electrónico que utilice con frecuencia para asegurarse de que funciona. Una forma es comparar la eficacia de un correo electrónico con otras versiones o con otros competidores. En una prueba de campeón/aspirante, puede probar todo el correo electrónico, la línea de asunto o la dirección de formulario.\
 El correo electrónico existente que está probando se considera el campeón. Cualquier variante que cree dentro de una prueba se considerará como aspirante. Usted determina el porcentaje de personas que reciben el contenido campeón o el contenido del aspirante. Si ha definido varios aspirantes, se distribuirán equitativamente entre el grupo de aspirantes.\
@@ -28,9 +28,9 @@ Así es como empezar.
 
 >[!CAUTION]
 >
->Los correos electrónicos de campeón/Challenger solo funcionan con campañas desencadenadoras y flujos de programas de participación. Para los envíos por lotes, utilice la funcionalidad [de prueba](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B del programa de correo electrónico.
+>Los correos electrónicos de campeón/Challenger solo funcionan con campañas desencadenadoras y flujos de programas de participación. Para los envíos por lotes, utilice la [funcionalidad de prueba A/B](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) del programa de correo electrónico.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -43,9 +43,9 @@ Así es como empezar.
    >**Buceo profundo**
    >
    >
-   >Para las explosiones de un solo correo, obtenga más información sobre los programas [de](http://docs.marketo.com/display/docs/email+programs)correo electrónico.
+   >Para las explosiones de un solo correo, obtenga más información sobre [programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs).
 
-1. En Acciones **de** correo electrónico, haga clic en **Nueva prueba**.
+1. En **Acciones de correo electrónico**, haga clic en **Nueva prueba**.
 
    ![](assets/chmapion2.jpg)
 
