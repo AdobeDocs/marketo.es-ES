@@ -25,13 +25,13 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
 >[!CAUTION]
 >
->Los espacios de trabajo y las particiones de persona pueden ser complejos. Póngase en contacto con el servicio de asistencia técnica [de marketing](http://support.marketo.com/) para obtener ayuda sobre su configuración.
+>Los espacios de trabajo y las particiones de persona pueden ser complejos. Póngase en contacto con [Soporte técnico de Marketing](http://support.marketo.com/) para obtener ayuda sobre cómo configurarlas.
 
 1. En Administración, haga clic en Espacios de trabajo y particiones.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Seleccione el espacio de trabajo y haga clic en **Editar espacio de trabajo**.
+1. Seleccione su espacio de trabajo y haga clic en **Editar espacio de trabajo**.
 
    ![](assets/two-3.png)
 
@@ -43,7 +43,7 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
    ![](assets/three-3.png)
 
-   Las particiones personales primarias son la opción predeterminada en la que se introducen todos los pueblos. Utilice los pasos [de](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) flujo o las reglas [de](assigning-person-partitions-with-assignment-rules.md) asignación para desplazar a las personas.
+   Las particiones personales primarias son la opción predeterminada en la que se introducen todos los pueblos. Utilice [pasos de flujo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](assigning-person-partitions-with-assignment-rules.md) para mover a las personas.
 
 1. Haga clic en **Guardar**.
 
@@ -59,5 +59,5 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 >
 >**Buceo profundo**
 >
->[Explicación de los espacios de trabajo y las particiones](understanding-workspaces-and-person-partitions.md)personales.
+>[Explicación de los espacios de trabajo y las particiones](understanding-workspaces-and-person-partitions.md) personales.
 
