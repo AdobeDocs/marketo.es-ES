@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminar personas de una Campaña {#remove-people-from-a-campaign}
+# Quitar personas de una Campaña {#remove-people-from-a-campaign}
 
 Puede finalizar automáticamente una Campaña cuando un destinatario responde. Y se puede elegir que esa marca la Campaña como un &quot;éxito&quot; para ese destinatario.
 
@@ -21,7 +21,7 @@ Además, puede eliminar personas de la propia campaña, eliminar personas de una
 
 ## Quitar una persona directamente de una Campaña {#remove-a-person-directly-from-a-campaign}
 
-1. En Sales Connect, haga clic en la ficha **Campañas** .
+1. En Sales Connect, haga clic en la ficha **Campañas**.
 
    ![](assets/one.png)
 
@@ -43,7 +43,7 @@ Además, puede eliminar personas de la propia campaña, eliminar personas de una
 
 ## Eliminar a una persona de una Campaña dentro de la página Personas {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. En Sales Connect, haga clic en la ficha **Personas** .
+1. En Sales Connect, haga clic en la ficha **Personas**.
 
    ![](assets/one-a.png)
 
@@ -51,13 +51,13 @@ Además, puede eliminar personas de la propia campaña, eliminar personas de una
 
    ![](assets/two-a.png)
 
-1. El panel Vista Detalles de persona se abre a la derecha. Haga clic en la ficha **Historial** seguida del botón **Eliminar** .
+1. El panel Vista Detalles de persona se abre a la derecha. Haga clic en la ficha **Historial** seguida del botón **Eliminar**.
 
    ![](assets/three-a.png)
 
-## Eliminar un grupo de personas de una Campaña {#remove-a-group-of-people-from-a-campaign}
+## Quitar un grupo de personas de una Campaña {#remove-a-group-of-people-from-a-campaign}
 
-1. En Sales Connect, haga clic en la ficha **Personas** .
+1. En Sales Connect, haga clic en la ficha **Personas**.
 
    ![](assets/one-b.png)
 
@@ -69,7 +69,7 @@ Además, puede eliminar personas de la propia campaña, eliminar personas de una
 
    ![](assets/three-b.png)
 
-1. Haga clic en **Acciones** y elija **Quitar selección de la Campaña**.
+1. Haga clic en **Acciones** y elija **Eliminar selección de la Campaña**.
 
    ![](assets/four-b.png)
 
