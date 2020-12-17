@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Enviar un correo electrónico {#send-an-email}
+# Enviar un mensaje de correo electrónico {#send-an-email}
 
 Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde Marketing!
 
@@ -21,15 +21,15 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 ## Crear un Programa de correo electrónico {#create-an-email-program}
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/one-1.png)
 
-1. Seleccione la carpeta **Aprendizaje** . Haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo Programa**.
+1. Seleccione la carpeta **Aprendizaje**. Haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo Programa**.
 
    ![](assets/two-1.png)
 
-1. Introduzca un **nombre** y seleccione **Correo electrónico** para el tipo de **Programa.**
+1. Escriba un **Nombre** y seleccione **Correo electrónico** para **Tipo de Programa.**
 
    >[!TIP]
    >
@@ -37,13 +37,13 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    ![](assets/three.png)
 
-1. En **Canal**, seleccione Enviar **** correo electrónico y haga clic en **Crear**.
+1. En **Canal**, seleccione **Enviar correo electrónico** y haga clic en **Crear**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Definir la Audiencia {#define-your-audience}
+## Defina la Audiencia {#define-your-audience}
 
-1. Haga clic en **Editar Lista** inteligente en el mosaico de la Audiencia.
+1. Haga clic en **Editar Lista inteligente** en el mosaico de la Audiencia.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    >[!TIP]
    >
-   >Utilice **Buscar** en la parte superior de la lista Filtros para encontrar el filtro con mayor facilidad.
+   >Utilice **Buscar** en la parte superior de la lista de Filtros para encontrar el filtro con mayor facilidad.
 
 1. Busque y seleccione su dirección de correo electrónico.
 
@@ -73,13 +73,13 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    Deberías ver que el recuento de personas sube a 1. ¡Esa eres tú!
 
-## Crear un correo electrónico {#create-an-email}
+## Crear un mensaje de correo electrónico {#create-an-email}
 
 1. En el mosaico Correo electrónico, haga clic en **Nuevo correo electrónico**.
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Introduzca un **nombre**, seleccione una **plantilla** y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione una **Plantilla** y haga clic en **Crear**.
 
    ![](assets/ten-1.png)
 
@@ -89,7 +89,7 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    >[!NOTE]
    >
-   >Si tiene un bloqueador de elementos emergentes, haga clic en **Editar borrador** para introducir el editor de correo electrónico.
+   >Si tiene un bloqueador de elementos emergentes, haga clic en **Editar borrador** para ingresar al editor de correo electrónico.
 
 1. Seleccione el área que desee editar, haga clic en el icono de engranaje de la derecha y, a continuación, seleccione **Editar** (también puede hacer clic con el doble en la sección editable para editarla).
 
@@ -103,13 +103,13 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    ![](assets/fourteen.png)
 
-1. Haga clic en la lista desplegable Acciones **de** correo electrónico y seleccione **Aprobar**.
+1. Haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >¿Desea enviarse una muestra rápida para ver el aspecto de su correo electrónico antes del lanzamiento? Seleccione **Enviar muestra** en el menú de arriba o haga clic en Acciones **de** correo electrónico y, a continuación, [**Enviar muestra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >¿Desea enviarse una muestra rápida para ver el aspecto de su correo electrónico antes del lanzamiento? Seleccione **Enviar muestra** en el menú de arriba o haga clic en **Acciones de correo electrónico** y, a continuación, [**Enviar muestra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Seleccione el Programa Correo electrónico en el árbol izquierdo.
 
@@ -125,9 +125,9 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    >[!TIP]
    >
-   >¿El huso horario predeterminado no es suyo? Aprenda a [actualizarlo aquí](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+   >¿El huso horario predeterminado no es suyo? Aprenda a [actualizarla aquí](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
-1. Haga clic en **Aprobar Programa** en el mosaico Aprobación y ya ha terminado.
+1. Haga clic **Aprobar Programa** en el mosaico Aprobación y ya ha terminado.
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
