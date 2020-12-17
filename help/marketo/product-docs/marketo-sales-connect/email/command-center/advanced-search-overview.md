@@ -17,11 +17,11 @@ Al utilizar la búsqueda avanzada para clientes potenciales de destinatario que 
 
 ## Cómo acceder a la búsqueda avanzada {#how-to-access-advanced-search}
 
-1. Haga clic en Centro **de comandos**.
+1. Haga clic en **Centro de comandos**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Correo electrónico**.
+1. Haga clic en **Mensajes de correo electrónico**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Al utilizar la búsqueda avanzada para clientes potenciales de destinatario que 
 
    ![](assets/three.png)
 
-1. Haga clic en **Búsqueda** avanzada.
+1. Haga clic en **Búsqueda avanzada**.
 
    ![](assets/four.png)
 
