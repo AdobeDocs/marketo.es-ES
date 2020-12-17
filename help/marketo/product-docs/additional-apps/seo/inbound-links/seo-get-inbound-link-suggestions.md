@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO - Obtener sugerencias de vínculos de entrada {#seo-get-inbound-link-suggestions}
 
-Marketing puede sugerir qué vínculos de entrada son valiosos para la optimización [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)fuera de la página.
+Marketo puede sugerir qué vínculos entrantes son valiosos para la [optimización fuera de la página](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Vaya a la sección Vínculos **de** entrada.
+1. Vaya a la sección **Vínculos de entrada**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. Haga clic en SUGERENCIAS **DE GET**.
+1. Haga clic en **SUGERENCIAS DE GET**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
@@ -33,7 +33,7 @@ Marketing puede sugerir qué vínculos de entrada son valiosos para la optimizac
 
    >[!TIP]
    >
-   >¿Sabía que puede [agregar su vínculo a una lista](seo-add-remove-an-inbound-link-url-from-a-list.md)nueva o existente? ¡Echa un vistazo!
+   >¿Sabía que puede [agregar su vínculo a una lista nueva o existente](seo-add-remove-an-inbound-link-url-from-a-list.md)? ¡Echa un vistazo!
 
 1. ¡Increíble! Ahora se realizará un seguimiento de estos vínculos agregados.
 
