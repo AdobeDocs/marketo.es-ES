@@ -27,7 +27,7 @@ Vista de personas que ya han pasado por el flujo de campaña inteligente; es dec
 >
 >Puede vista de miembros de campaña desde cualquier lugar dentro de una campaña inteligente.
 
-1. La ficha Miembros **de** Campaña muestra las personas que ya se han ejecutado a través del flujo de campaña inteligente.
+1. La ficha **Miembros de la Campaña** muestra las personas que ya han pasado por el flujo de campaña inteligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
