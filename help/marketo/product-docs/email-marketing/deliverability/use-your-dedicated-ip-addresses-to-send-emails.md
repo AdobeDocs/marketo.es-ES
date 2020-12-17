@@ -32,7 +32,7 @@ Un consultor dedicado a la entrega proporciona:
 * Configuración y activación de la IP dedicada
 * Un registro durante la fase de calentamiento para apoyar su éxito
 
-## Aumento de la rampa de IP dedicada {#dedicated-ip-ramp-up}
+## Aumento de rampa de IP dedicada {#dedicated-ip-ramp-up}
 
 Para maximizar la capacidad de entrega a largo plazo, la oferta de los consultores de entrega  las recomendaciones personalizadas para aumentar lentamente el volumen de campaña de correo electrónico en su dirección IP dedicada. Lo llamamos &quot;calentamiento de su IP&quot;. Inicio frío y enviar correo lo calienta. Las direcciones IP en frío que envían un gran volumen de correo electrónico suelen ver su velocidad de envío reducida y normalmente se clasifican como correo no deseado.
 
@@ -40,9 +40,9 @@ Para maximizar la capacidad de entrega a largo plazo, la oferta de los consultor
 
 >[!TIP]
 >
->Mantenga la base de datos limpia para mantener alta la capacidad de entrega. [Adobe requiere](http://www.adobe.com/legal/terms/aup.html) que los clientes envíen únicamente comunicaciones de marketing a las personas que hayan adhesión o solicitado recibir correo electrónico. No spam.
+>Mantenga la base de datos limpia para mantener alta la capacidad de entrega. [El Adobe ](http://www.adobe.com/legal/terms/aup.html) requiere que los clientes envíen únicamente comunicaciones de marketing a las personas que hayan adhesión o solicitado recibir correo electrónico. No spam.
 
 >[!CAUTION]
 >
->Si ve un número elevado de devoluciones, o cualquier otro problema, póngase en contacto con la asistencia técnica [de marketing](http://nation.marketo.com/t5/Support/ct-p/Support). Si desea una asistencia más enfocada para aprender a mantener una base de datos limpia y aumentar la participación con su programa, los asesores de entrega de correo electrónico de Marketing Cloud pueden participar en un paquete de servicios personalizados.
+>Si ve un número elevado de devoluciones o algún otro problema, póngase en contacto con [Soporte técnico de Marketing](http://nation.marketo.com/t5/Support/ct-p/Support). Si desea una asistencia más enfocada para aprender a mantener una base de datos limpia y aumentar la participación con su programa, los asesores de entrega de correo electrónico de Marketing Cloud pueden participar en un paquete de servicios personalizados.
 
