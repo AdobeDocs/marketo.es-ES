@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Expedición de una licencia de Añada de correo electrónico de marketing {#issue-a-marketo-email-add-in-license}
+# Expedición de una licencia de Añada de correo electrónico de Marketing a {#issue-a-marketo-email-add-in-license}
 
 Cualquier persona que desee utilizar el Añada de Marketing para Outlook por correo electrónico debe recibir primero una licencia. Existen dos maneras de proporcionar la licencia.
 
@@ -32,11 +32,11 @@ Cualquier persona que desee utilizar el Añada de Marketing para Outlook por cor
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. En la ficha **Añadir por correo electrónico **, haga clic en **Expedir licencia**.
+1. En la ficha **Email Añadir-in **, haga clic en **Issue License**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Introduzca las direcciones de correo electrónico de los representantes de ventas que necesitan autorización para utilizar el complemento y haga clic en Licencia **de** emisión.
+1. Introduzca las direcciones de correo electrónico de los representantes de ventas que deben estar autorizados para utilizar el complemento y haga clic en **Licencia de emisión**.
 
    ![](assets/image2016-8-31-9-3a37-3a8.png)>
 
@@ -46,7 +46,7 @@ Cualquier persona que desee utilizar el Añada de Marketing para Outlook por cor
 
    >[!NOTE]
    >
-   >Para instalar el complemento de forma remota, deje la casilla de verificación sin marcar y envíe a su equipo de TI su clave [empresarial](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Para instalar el complemento de forma remota, deje la casilla de verificación sin marcar y envíe a su equipo de TI su [Clave de empresa](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Si los representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla y ya habrá terminado.
 
