@@ -24,8 +24,8 @@ Algunas actividades se dan antes del evento, como crear una nueva función e inv
 
 Antes del evento:
 
-* [Crear una nueva función](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) de marketing para usuarios de iPad o Android para el evento
-* [Invitar a nuevos usuarios de tabletas al evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) y asignarles la nueva función
+* [Crear una nueva ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) función de marketing para usuarios de iPad o Android para el evento
+* [Invitar a nuevos usuarios de tabletas al ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) evento y asignarles la nueva función
 * [Crear un nuevo programa de evento de marketing](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Especifique las fechas de evento
 * Añadir personas a su evento
