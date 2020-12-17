@@ -27,7 +27,7 @@ Puede eliminar rápida y fácilmente a algunas o todas las personas que se encue
 
    ![](assets/ma-1.png)
 
-1. Seleccione la lista inteligente/lista que contiene todas las personas que desea eliminar y vaya a la ficha **Personas** .
+1. Seleccione la lista inteligente/lista que contiene todas las personas que desee eliminar y vaya a la ficha **Personas**.
 
    ![](assets/two-1.png)
 
@@ -35,15 +35,15 @@ Puede eliminar rápida y fácilmente a algunas o todas las personas que se encue
    >
    >Al eliminar a una persona, no solo la elimina de la lista, sino que se eliminará por completo de la base de datos.
 
-1. Haga clic en **Seleccionar** **todo**. También puede elegir a mano algunos registros mediante Ctrl/Cmd y haciendo clic.
+1. Haga clic en **Seleccionar** **Todo**. También puede elegir a mano algunos registros mediante Ctrl/Cmd y haciendo clic.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar** **todo** se seleccionarán todas las personas de todas las páginas.
+   >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar** **Todo** se seleccionarán todas las personas en todas las páginas.
 
-1. Para eliminar por completo a las personas de Marketing, haga clic en **Eliminar** **persona**.
+1. Para eliminar por completo a las personas de Marketing, haga clic en **Eliminar** **Persona**.
 
    ![](assets/four-1.png)
 
@@ -59,17 +59,17 @@ Puede eliminar rápida y fácilmente a algunas o todas las personas que se encue
    >
    >Si el Marketing no está vinculado a su CRM, la opción aparece atenuada como en la captura de pantalla.
 
-1. Haga clic en **Ejecutar** **ahora**.
+1. Haga clic en **Ejecutar** **Ahora**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Si está eliminando más de 50 personas, verá esto. Escriba el número de personas que va a eliminar, marque la casilla **No se puede deshacer** y haga clic en **Eliminar**.
+1. Si está eliminando más de 50 personas, verá esto. Escriba el número de personas que está eliminando, marque la casilla **No se puede deshacer** y haga clic en **Eliminar**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Para vista de los resultados de la eliminación masiva, haga clic en Resultados **de la** Vista en el cuadro emergente Acción de flujo único en la esquina superior derecha de la pantalla. Los tiempos de eliminación pueden variar considerablemente, según varios factores.
+   >Para vista de los resultados de la eliminación masiva, haga clic en **Resultados de la Vista** en el cuadro emergente Acción de flujo único en la esquina superior derecha de la pantalla. Los tiempos de eliminación pueden variar considerablemente, según varios factores.
 
    Esta es una característica buena, ¡ten cuidado al usarla!
 
