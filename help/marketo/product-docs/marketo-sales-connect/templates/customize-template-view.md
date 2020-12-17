@@ -15,5 +15,5 @@ ht-degree: 0%
 
 En la lista desplegable **Vista **puede elegir ver: todas las plantillas, plantillas, plantillas compartidas o plantillas no utilizadas (plantillas que no se han utilizado en los últimos 90 días).
 
-Además, puede agregar o eliminar columnas en la vista de la plantilla haciendo clic en el icono de configuración a la derecha de la **Vista.**
+Además, puede agregar o eliminar columnas en la vista de plantilla haciendo clic en el icono de configuración a la derecha de **Vista.**
 
