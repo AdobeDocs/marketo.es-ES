@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Llamar a Webock {#call-webhook}
+# Llamar a Weblink {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -35,7 +35,7 @@ Los Webhooks le permiten interactuar con servicios de terceros. Envíe o reciba 
 
 ## Uso {#usage}
 
-Seleccione un **enlace web** en la lista desplegable.
+Seleccione un **Webgancho** en la lista desplegable.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
