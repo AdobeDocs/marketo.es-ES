@@ -17,8 +17,8 @@ Las siguientes funciones se incluyen en la versión de junio de 2015. Verifique 
 
 ## [Informe Correo electrónico de atribución](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Consulte la personalización de valores y las ofertas de contenido recomendado para sus actividades de marketing. [El informe](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Correo electrónico de atribución muestra los leads directos y asistidos atribuidos por la personalización de RTP y las campañas de contenido recomendadas. En RTP, Configuración de usuario e Informe de correo electrónico, agregue el informe Correo electrónico de atribución para recibir correos electrónicos mensuales o trimestrales.
+Consulte la personalización de valores y las ofertas de contenido recomendado para sus actividades de marketing. [Los ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) informes de correo electrónico de atribución muestran los leads directos y asistidos atribuidos por la personalización de RTP y las campañas de contenido recomendadas. En RTP, Configuración de usuario e Informe de correo electrónico, agregue el informe Correo electrónico de atribución para recibir correos electrónicos mensuales o trimestrales.
 
 ## ¿Quieres influir en nuestra hoja de ruta? {#want-to-influence-our-roadmap}
 
-Clasificar en Marketing con esta tarjeta [](https://www.surveymonkey.com/s/VG9YCT5)de informe rápido. ¡Estamos utilizando sus aportes para ayudar a planificar 2016 y más allá!
+Clasifique el Marketing con esta [tarjeta de informe rápido](https://www.surveymonkey.com/s/VG9YCT5). ¡Estamos utilizando sus aportes para ayudar a planificar 2016 y más allá!
