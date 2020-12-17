@@ -25,7 +25,7 @@ El comerciante gana. Es raro que este tipo de colisión de datos ocurra.
 
 ## ¿Puedo crear un posible cliente en Salesforce mediante Marketing? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Sí, utilice la acción de flujo [Sincronizar persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) . Esto creará un posible cliente en Salesforce si el posible cliente no existe.
+Sí, utilice la acción de flujo [Sincronizar persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md). Esto creará un posible cliente en Salesforce si el posible cliente no existe.
 
 ## ¿Puedo forzar manualmente la sincronización de una persona en Marketing con un posible cliente en Salesforce? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
