@@ -17,20 +17,20 @@ Inicio de correo electrónico en estado borrador. Generalmente no están disponi
 
 ## Aprobar mediante el menú Acciones de correo electrónico {#approve-it-using-the-email-actions-menu}
 
-1. Busque y seleccione su correo electrónico, haga clic en la lista desplegable Acciones **de** correo electrónico y seleccione **Aprobar**.
+1. Busque y seleccione su correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar**.
 
    ` ![](assets/one.png)  
 `
 
 ## Aprobar directamente en el árbol {#approve-it-directly-in-the-tree}
 
-1. Busque y seleccione su correo electrónico, haga clic con el botón derecho y seleccione **Aprobar**.
+1. Busque y seleccione su correo electrónico, haga clic con el botón derecho en él y seleccione **Aprobar**.
 
    ![](assets/approveemail.png)
 
 ## Aprobar su correo electrónico en el Editor de correo electrónico {#approve-your-email-in-the-email-editor}
 
-1. En el correo electrónico, haga clic en la lista desplegable Acciones **de** correo electrónico y seleccione **Aprobar y cerrar**.
+1. En el correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar y cerrar**.
 
    ![](assets/three.png)
 
