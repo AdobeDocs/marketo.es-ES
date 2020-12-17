@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Información general del teléfono de ventas {#sales-phone-overview}
+# Información general de teléfono de ventas {#sales-phone-overview}
 
 ## ¿Por qué vender el teléfono? {#why-sales-phone}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## ¿Cómo puedo configurarme rápidamente con el teléfono de ventas? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Número de teléfono:** Sólo tendrá que escribirlo una vez. Sales Connect recordará su número para todas las llamadas futuras.
+**Número de teléfono: solo** tendrá que escribirlo una vez. Sales Connect recordará su número para todas las llamadas futuras.
 
-**Presencia local:** Sólo tendrá que comprobar &quot;usar presencia local&quot; y registrar la llamada para su primera llamada. Sales Connect recordará la configuración de todas las llamadas futuras.
+**Presencia local: solo** tendrá que marcar &quot;usar presencia local&quot; y registrar la llamada para la primera llamada. Sales Connect recordará la configuración de todas las llamadas futuras.
 
 Si desea que Sales Connect cree automáticamente una actividad de llamada en Salesforce, consulte [este artículo](http://docs.marketo.com/x/joLS).
 
@@ -37,6 +37,6 @@ En el Centro de comandos, puede utilizar la &quot;lista de llamada&quot; desde l
 
 Una vez que llame o realice una llamada, Sales Connect obtendrá el número de teléfono del posible cliente o contacto de Salesforce. Si no aparece ningún número en Salesforce, Sales Connect extraerá el número de teléfono del registro de la cuenta.
 
-Para los equipos que utilicen otro CRMS, Sales Connect extraerá el número de teléfono del número del registro en Sales Connect. Estos datos pueden estar fácilmente disponibles a través de una carga [](http://docs.marketo.com/x/HIPS)CSV.
+Para los equipos que utilicen otro CRMS, Sales Connect extraerá el número de teléfono del número del registro en Sales Connect. Estos datos pueden estar fácilmente disponibles a través de una [carga de CSV](http://docs.marketo.com/x/HIPS).
 
-Pulse el botón grande verde **Call** . Tu teléfono sonará entonces al inicio. Recoge tu teléfono y Sales Connect llamará automáticamente al posible cliente o contacto.
+Pulse el botón verde grande **Llamar**. Tu teléfono sonará entonces al inicio. Recoge tu teléfono y Sales Connect llamará automáticamente al posible cliente o contacto.
