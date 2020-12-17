@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Si utiliza una de nuestras cuentas de equipo, todas sus plantillas seguirán siendo privadas de forma predeterminada. Haga clic en el botón verde **Compartir** en la parte superior de la plantilla para compartirla con el resto de su equipo.
 
-## Cómo encontrar plantillas compartidas  {#how-to-find-shared-templates}
+## Cómo encontrar plantillas compartidas {#how-to-find-shared-templates}
 
 Las plantillas que se han compartido con usted se mostrarán en el encabezado **Plantillas de equipo **a la izquierda de la página Plantillas.
 
