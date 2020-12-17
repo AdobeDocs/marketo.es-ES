@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Envío de un correo electrónico de ventas de marketing desde Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Enviar un mensaje de correo electrónico de ventas de marketing desde Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
 El equipo de ventas puede enviar correos electrónicos y hacer que se rastreen para abrir y hacer clic directamente desde Microsoft Dynamics. Así es como.
 
-1. En Dynamics, vaya al área **Ventas** .
+1. En Dynamics, vaya al área **Ventas**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Seleccione una Vista **del sistema**.
+1. Seleccione una **Vista del sistema**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ El equipo de ventas puede enviar correos electrónicos y hacer que se rastreen p
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Haga clic en **...** y, a continuación, haga clic en **Enviar correo electrónico** de marketing.
+1. Haga clic en **...**, luego haga clic en **Enviar correo electrónico de marketing**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -39,7 +39,7 @@ El equipo de ventas puede enviar correos electrónicos y hacer que se rastreen p
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   Puede hacer clic en **Enviar correo electrónico** de prueba primero y se le enviará el correo electrónico (dirección de correo electrónico principal en Microsoft Dynamics) antes de enviar el correo electrónico real.
+   Puede hacer clic en **Enviar correo electrónico de prueba** primero y el correo electrónico se le enviará (dirección de correo electrónico principal en Microsoft Dynamics) antes de enviar el correo electrónico real.
 
 ¡Bien hecho! Ahora sabe cómo enviar correos electrónicos rastreados de Marketing a través de Microsoft Dynamics.
 
