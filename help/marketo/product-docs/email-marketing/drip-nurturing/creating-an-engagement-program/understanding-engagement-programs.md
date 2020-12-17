@@ -17,7 +17,7 @@ Los programas de compromiso están diseñados para comercializar a las personas 
 
 >[!NOTE]
 >
->Existe un límite de 100 programas de participación **activa** por suscripción.
+>Existe un límite de 100 **programas de participación activos** por suscripción.
 
 ## Programa de participación {#engagement-program}
 
@@ -54,17 +54,17 @@ Artículos relacionados:
 * [Eliminar contenido del flujo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 * [Archivar y desarchivar contenido de flujo](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Cast {#cast}
+## Fundido {#cast}
 
-Un **envío** es el evento de enviar correos electrónicos desde un Programa de compromiso.
+Un **cast** es el evento de enviar correos electrónicos desde un Programa de compromiso.
 
 >[!NOTE]
 >
 >Los Programas de participación no están diseñados para utilizarse con correos electrónicos operativos.
 
-## Cadenas de flujo {#stream-cadence}
+## Cadencia de flujo {#stream-cadence}
 
-Usted decide cuándo se produce un reparto configurando la cadencia **del flujo**. Así es como se programa la salida del contenido a intervalos regulares.
+Usted decide cuándo se produce un reparto configurando **cadencia de flujo**. Así es como se programa la salida del contenido a intervalos regulares.
 
 ` ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,9 +74,9 @@ Artículo relacionado:
 
 * [Definir secuencia de flujo](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## Persona Cadence {#person-cadence}
+## Persona de cadencia {#person-cadence}
 
-Una cadencia **de** persona es un estado que define su capacidad para recibir contenido de un programa de participación. Puede utilizar el paso **Cambiar el flujo de Programa de compromiso** para cambiar esto a En pausa o Normal.
+Una **cadencia de personas** es un estado que define su capacidad para recibir contenido de un programa de participación. Puede utilizar el paso de flujo **Cambiar la cadencia de Programa de compromiso** para cambiar esto a En pausa o Normal.
 
 ` ![](assets/image2014-9-15-15-3a25-3a55.png)
 
