@@ -28,11 +28,11 @@ A continuación se explica cómo crear un nuevo espacio de trabajo.
 >
 >**Buceo profundo**
 >
->Comprender primero [las particiones](understanding-workspaces-and-person-partitions.md)personales y los espacios de trabajo.
+>Comprender primero con [Explicación de los espacios de trabajo y las particiones personales](understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Para obtener más información sobre las prácticas recomendadas de Workspace, póngase en contacto con [Marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)Professional Services.
+>Para obtener más información sobre las optimizaciones de Workspace, póngase en contacto con [Marketing to Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones**.
 
@@ -42,20 +42,20 @@ A continuación se explica cómo crear un nuevo espacio de trabajo.
 
    ![](assets/two-1.png)
 
-1. Introduzca un** Nombre** y seleccione las particiones de **persona que desee utilizar** . Elija una partición de persona **principal**.
+1. Escriba un** Nombre** y seleccione las **Particiones de personas** que desee utilizar. Elija una **partición de persona principal**.
 
    >[!NOTE]
    >
    >**Recordatorio**
    >
    >
-   >Asegúrese de [crear particiones](create-a-person-partition.md) personales si aún no lo ha hecho.
+   >Asegúrese de [crear particiones personales](create-a-person-partition.md) si aún no lo ha hecho.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La casilla de verificación **Todas las particiones** personales** **significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
+   >La casilla de verificación **Todas las particiones de persona**** **significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
 
    >[!NOTE]
    >
