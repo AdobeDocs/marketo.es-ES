@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso de cuentas personales {#using-person-accounts}
+# Uso de cuentas de persona {#using-person-accounts}
 
 Las cuentas de persona se pueden configurar en Salesforce para que se ajusten a las necesidades de su organización. Así es como Marketo trata las cuentas personales.
 
@@ -33,11 +33,11 @@ Una cuenta de persona se sincroniza con Marketing como compañía y como persona
 
 ## ¿Cómo diferencio las cuentas de empresa y las cuentas de persona? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilice el filtro **Cuenta** personal de su lista inteligente para separar las cuentas personales de las cuentas comerciales estándar.
+Utilice el filtro **Es cuenta de persona** de la lista inteligente para separar las cuentas de persona de las cuentas comerciales estándar.
 
 ## ¿Dónde se muestra la información de las cuentas personales en la Perspectiva de ventas de Marketing to? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Las actividades relacionadas con las cuentas personales se muestran en el panel **Cuenta** .
+Las actividades relacionadas con las cuentas personales se muestran en el panel **Cuenta**.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ El marketing depende de la función de contacto de oportunidad para determinar a
 
 ## ¿Qué campo de correo electrónico debo usar para las cuentas personales? {#which-email-field-should-i-use-for-person-accounts}
 
-Hay dos campos de correo electrónico para una cuenta de persona. Utilice el campo Dirección **de** correo electrónico de los formularios (no la dirección **de correo electrónico de la** persona) para asegurarse de que la anulación de duplicación de Marketing y otros procesos de correo electrónico funcionan correctamente.
+Hay dos campos de correo electrónico para una cuenta de persona. Utilice el campo **Dirección de correo electrónico** en los formularios (no la **Dirección de correo electrónico de la persona**) para asegurarse de que la anulación de duplicación de Marketing y otros procesos de correo electrónico funcionen correctamente.
