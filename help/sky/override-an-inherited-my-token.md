@@ -16,11 +16,11 @@ ht-degree: 0%
 
 A continuación se explica cómo anular un token heredado en un programa secundario o una carpeta de campaña.
 
-1. En la ficha [!UICONTROL Mis tokens] , busque el token que desea anular en la sección Tokens  heredados.
+1. En la ficha [!UICONTROL Mis tokens], busque el token que desea anular en la sección [!UICONTROL Tokens heredados].
 
    ![Imagen uno](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
 
-1. Haga clic en el **[!UICONTROL valor]** del token y cámbielo. Si se cambia el valor de este token, automáticamente se moverá a la sección Tokens  anulados.
+1. Haga clic en el token **[!UICONTROL Value]** y cámbielo. Si se cambia el valor de este token, automáticamente se moverá a la sección [!UICONTROL Tokens ignorados].
 
    ![Imagen dos](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
 
