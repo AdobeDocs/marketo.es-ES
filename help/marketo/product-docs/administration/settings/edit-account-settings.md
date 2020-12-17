@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Seleccione **Editar configuración** de cuenta.
+1. Seleccione **Editar configuración de cuenta**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
