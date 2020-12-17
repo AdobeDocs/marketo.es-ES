@@ -19,13 +19,13 @@ El Panel Cuenta con nombre proporciona una vista de 360 grados de una cuenta de 
 
 ## Panel {#dashboard}
 
-El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentro de una cuenta con nombre, evitando así la necesidad de ir a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentro de una cuenta con nombre, evitando así la necesidad de ir a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Perspectivas de correo electrónico](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
 
 >[!NOTE]
 >
 >Los gráficos muestran perspectivas de los últimos 90 días.
 
-**Participación de cuenta a lo largo del tiempo** Haga clic en la lista desplegable de **Vista** de la derecha para cambiar la vista. Además de Puntuación de cuenta, puede realizar vistas por Ingresos totales...
+**Participación de la cuenta a lo largo del** tiempoHaga clic en el menú  **** desplegable de la derecha para cambiar la vista. Además de Puntuación de cuenta, puede realizar vistas por Ingresos totales...
 
 ![](assets/two-new.png)
 
@@ -52,19 +52,19 @@ El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentr
 
 **Momentos interesantes**
 
-Disponible para los usuarios de [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), consulte los momentos interesantes resumidos a nivel de cuenta.
+Disponible para los usuarios de [Perspectiva de ventas de marketing](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), vea los momentos interesantes resumidos en una cuenta.
 
 ![](assets/int-mom.png)
 
 **Personas más populares**
 
-Estas personas se calculan en función de prioridades basadas en la actualidad o urgencia mostradas por personas de cuentas con nombre (igual que las [mejores apuestas](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) en perspectiva de ventas) o puntuaciones definidas por el usuario. **La prioridad** solo está disponible para los usuarios de la Perspectiva de ventas de Marketing to.
+Estas personas se calculan en base a prioridades que se basan en la actualización o urgencia mostradas por personas de cuentas con nombre (igual que [Mejores apuestas](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) en perspectiva de ventas) o puntuaciones definidas por el usuario. **La** prioridad solo está disponible para los usuarios de la perspectiva de ventas de marketing.
 
 ![](assets/top-ten.png)
 
 **Incluye elementos secundarios**
 
-Haga clic en **Incluye elementos secundarios** para ver y elegir las cuentas secundarias de la cuenta designada seleccionada y vista sus análisis acumulados.
+Haga clic en **Incluye elementos secundarios** para ver y elegir las cuentas secundarias de la cuenta con nombre seleccionada y vista sus análisis acumulados.
 
 ![](assets/abm.png)
 
@@ -84,7 +84,7 @@ Una vista resumida de todas las oportunidades abiertas a nivel de cuenta, que ay
 
 ![](assets/four-1.png)
 
-## Posibles personas {#potential-people}
+## Personas potenciales {#potential-people}
 
 La coincidencia de cliente potencial a cuenta utiliza una lógica borrosa para encontrar coincidencias débiles que se pueden resolver en la ficha Personas potenciales.
 
@@ -92,9 +92,9 @@ La coincidencia de cliente potencial a cuenta utiliza una lógica borrosa para e
 
 >[!NOTE]
 >
->Para agregar cualquiera de las personas de la lista, selecciónelas y haga clic en **Añadir personas**.
+>Para agregar cualquiera de las personas incluidas en la lista, selecciónelas y haga clic en **Añadir personas**.
 
-## Utilizado por {#used-by}
+## Usado por {#used-by}
 
 Esta ficha muestra qué campañas inteligentes, campañas web, listas inteligentes o informes hacen referencia actualmente a cuentas o listas de cuenta con nombre específicas.
 
@@ -108,9 +108,9 @@ Los miembros del equipo de la cuenta de vista, agregar o eliminar miembros, incl
 
 >[!NOTE]
 >
->Haga clic en la lista desplegable Acciones **del equipo de** cuentas para agregar o quitar miembros de la cuenta o asignar un propietario de la cuenta.
+>Haga clic en la lista desplegable **Acciones del equipo de cuentas** para agregar o quitar miembros de la cuenta o asignar un propietario de la cuenta.
 
-## Indicadores del PCI {#icp-indicators}
+## Indicadores PCI {#icp-indicators}
 
 Vista los indicadores ICP que seleccionó para exportar cuando [ajustó el modelo](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
 
