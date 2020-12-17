@@ -24,13 +24,13 @@ Existen dos tipos de notificación incluidos en la integración de Workplace:
 
 >[!PREREQUISITES]
 >
->Si no tiene ya habilitadas las notificaciones de lugar de trabajo, [póngase en contacto con la asistencia](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
+>Si no tiene las notificaciones de Workplace ya habilitadas, [comuníquese con la asistencia técnica](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
-1. Vaya a **LaunchPoint** y, a continuación, en **Nuevo** , haga clic en **Nuevo servicio**.
+1. Vaya a **LaunchPoint** y, a continuación, en **Nuevo** haga clic en **Nuevo servicio**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Escriba un nombre para mostrar para la integración de Workplace. En la lista desplegable **Servicio** , seleccione **Lugar de trabajo por Facebook**. Haga clic en **Crear**.
+1. Escriba un nombre para mostrar para la integración de Workplace. En la lista desplegable **Servicio**, seleccione **Lugar de trabajo por Facebook**. Haga clic en **Crear**.
 
    ![](assets/newservice.png)
 
@@ -42,7 +42,7 @@ Existen dos tipos de notificación incluidos en la integración de Workplace:
 
    ![](assets/authorize.png)
 
-1. En la nueva ficha Lugar de trabajo, escriba el nombre de usuario de su dirección de correo electrónico profesional o de su lugar de trabajo y haga clic en **Continuar**.
+1. En la nueva ficha Lugar de trabajo, escriba el nombre de usuario de su correo electrónico comercial o de su lugar de trabajo y haga clic en **Continuar**.
 
    ![](assets/workplacelogin.png)
 
