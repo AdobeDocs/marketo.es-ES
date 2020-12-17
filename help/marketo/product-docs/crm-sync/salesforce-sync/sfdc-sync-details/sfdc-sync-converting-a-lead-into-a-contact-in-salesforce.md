@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Sincronización SFDC: Conversión de un posible cliente en un contacto en Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Imagine tres escenarios diferentes en Salesforce: (no se utiliza el paso [Convertir persona en](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) Marketing)
+Imagine tres escenarios diferentes en Salesforce: (no se utiliza el [paso de flujo de Convertir persona](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) en Marketing)
 
-1. Conversión de un posible cliente en un **nuevo contacto y una nueva cuenta**
-1. Conversión de un posible cliente en un **nuevo contacto** en una cuenta **existente**
+1. Conversión de un posible cliente en un **nuevo contacto y nueva cuenta**
+1. Conversión de un posible cliente en un **nuevo contacto** en una **cuenta existente**
 
-1. Conversión de un posible cliente en un contacto **** existente en una cuenta **** existente (funciona igual que la [combinación](sfdc-sync-merging-a-lead-contact-person.md))
+1. Conversión de un posible cliente en un **contacto existente** en una **cuenta existente** (funciona igual que [combinación](sfdc-sync-merging-a-lead-contact-person.md))
 
-En los tres casos terminas con **1 contacto y sin posibles clientes en Salesforce y 1 contacto y ninguna persona en Marketing.**
+En los tres casos, usted termina con **1 contacto y ningún posible cliente en Salesforce y 1 contacto y ninguna persona en Marketing.**
 
 En Marketing, el registro ahora tendrá un tipo SFDC = Contacto.
 
 >[!TIP]
 >
->Al realizar la conversión en Salesforce, asegúrese de que los campos personalizados de [posibles clientes están bien](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)asignados. No desea perder ningún dato.
+>Al realizar la conversión en Salesforce, asegúrese de que los campos personalizados de [posibles clientes están correctamente asignados](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). No desea perder ningún dato.
 
 Puede activar y filtrar mediante: &quot;El posible cliente es convertido&quot; y &quot;El posible cliente fue convertido&quot;.
