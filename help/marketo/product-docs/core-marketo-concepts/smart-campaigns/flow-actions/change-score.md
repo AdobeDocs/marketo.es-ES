@@ -37,8 +37,8 @@ La puntuación de personas es fácil y poderosa para ayudar a que su equipo de v
 
    * **+5** para incrementar
    * **-5** disminuirá (se permiten números negativos)
-   * **=5** hará que la puntuación sea ese número exacto
-   * **=-5** hará que la puntuación sea exactamente el número negativo
+   * **=5** hará la puntuación que sea el número exacto
+   * **=-5** hará la puntuación con un número negativo exacto
 
    Obtén una puntuación básica rápidamente y luego retoca los resultados con el tiempo. ¡Eso es lo que hicimos!
 
