@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hay muchas maneras de llevar a una persona a Marketing. Si necesita crear uno manualmente, así es como hacerlo.
 
-1. Vaya a la **base de datos**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/db-1.png)
 
