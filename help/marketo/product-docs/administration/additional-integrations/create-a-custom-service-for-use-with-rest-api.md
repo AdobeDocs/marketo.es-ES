@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Crear un servicio personalizado para utilizarlo con la API de ReST {#create-a-custom-service-for-use-with-rest-api}
+# Crear un servicio personalizado para usar con la API de ReST {#create-a-custom-service-for-use-with-rest-api}
 
 Si desea realizar la integración con Marketing mediante la API de ReST, deberá crear un servicio personalizado. Así es como.
 
@@ -32,7 +32,7 @@ Si desea realizar la integración con Marketing mediante la API de ReST, deberá
 >
 >**Buceo profundo**
 >
->Consulte la documentación de nuestros desarrolladores para obtener más información sobre la API [de](http://developers.marketo.com/documentation/rest/)ReST. También tenemos la API [](http://developers.marketo.com/documentation/soap/) SOAP si es lo que necesita.
+>Consulte la documentación de nuestros desarrolladores para obtener más información sobre la [API de ReST](http://developers.marketo.com/documentation/rest/). También tenemos la [API de SOAP](http://developers.marketo.com/documentation/soap/) si es lo que necesita.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Si desea realizar la integración con Marketing mediante la API de ReST, deberá
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Introduzca un **nombre** para mostrar para el servicio. Seleccione el usuario **solo de** API [creado](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)anteriormente.
+1. Escriba un **Nombre para mostrar** para el servicio. Seleccione el **Usuario solo de API** [creado anteriormente](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
@@ -64,13 +64,13 @@ Si desea realizar la integración con Marketing mediante la API de ReST, deberá
 
    ¡Oh sí! Ahora se ha creado el servicio, sigamos adelante y obtengamos todas las credenciales para proporcionar acceso.
 
-## Credenciales para el acceso a API {#credentials-for-api-access}
+## Credenciales de acceso a API {#credentials-for-api-access}
 
 1. Vaya a **Administración** y haga clic en **LaunchPoint**.
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Haga clic en Detalles **de** Vista para el servicio LaunchPoint personalizado creado anteriormente.
+1. Haga clic en **Detalles de Vista** para el servicio LaunchPoint personalizado creado anteriormente.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
@@ -78,7 +78,7 @@ Si desea realizar la integración con Marketing mediante la API de ReST, deberá
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Proporcione el** ID de cliente**, el secreto **de** cliente, el usuario **** autorizado y el **autentificador** a la persona encargada de establecer la conexión.
+1. Proporcione el** ID de cliente**, **Secreto de cliente**, **Usuario autorizado** y **Token** a la persona encargada de establecer la conexión.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
