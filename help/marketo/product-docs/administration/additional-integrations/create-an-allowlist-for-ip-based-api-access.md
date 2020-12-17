@@ -19,15 +19,15 @@ A veces, solo desea proporcionar acceso a API a una dirección IP específica o 
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administración** y haga clic en Servicios **Web**.
+1. Vaya a **Administración** y haga clic en **Servicios Web**.
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. En el área Restricciones de IP, haga clic en **Editar **o haga clic** en Editar restricciones de IP **en la esquina superior izquierda.
+1. En el área Restricciones de IP, haga clic en **Editar, **o haga clic** Editar restricciones de IP **en la esquina superior izquierda.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
-1. Marque la casilla **Habilitar restricciones** de IP e introduzca las direcciones IP que desee lista de permitidos.
+1. Marque la casilla **Habilitar restricciones de IP** e introduzca las direcciones IP que desee lista de permitidos.
 
    ![](assets/image2016-2-25-9-3a18-3a28.png)
 
