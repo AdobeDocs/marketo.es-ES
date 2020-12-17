@@ -16,18 +16,18 @@ ht-degree: 0%
 
 Puede ver rápidamente a los miembros de un programa de participación.
 
-1. Seleccione el programa de participación, haga clic con el botón derecho y seleccione Miembros de **[!UICONTROL Vista]**.
+1. Seleccione el programa de participación, haga clic con el botón derecho y seleccione **[!UICONTROL Miembros de Vista]**.
 
    ![Imagen uno](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-1.png)
 
 >[!NOTE]
 >
->El valor de la columna Contenido  agotado se actualiza después de cada conversión.
+>El valor de la columna [!UICONTROL Contenido agotado] se actualiza después de cada conversión.
 
-1. Haga clic en la ficha **[!UICONTROL Miembros]** .
+1. Haga clic en la ficha **[!UICONTROL Miembros]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. Haga clic en la lista desplegable Acciones **[!UICONTROL de]** personas para realizar varias funciones con sus miembros.
+1. Haga clic en la lista desplegable **[!UICONTROL Acciones de personas]** para realizar varias funciones con sus miembros.
 
    ![Imagen tres](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
