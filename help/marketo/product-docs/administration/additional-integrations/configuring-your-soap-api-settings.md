@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administración** y haga clic en Servicios **Web**.
+1. Vaya a **Administración** y haga clic en **Servicios Web**.
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. Configure una clave **de** cifrado adecuada, haga clic en **Guardar cambios** y pase toda la información a su desarrollador.
+1. Configure una **Clave de cifrado** adecuada, haga clic en **Guardar cambios** y pase toda la información a su programador.
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
