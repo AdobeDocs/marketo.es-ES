@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Usar la prueba A/B de &quot;correo electrónico completo&quot; {#use-whole-email-a-b-testing}
+# Usar la prueba A/B &quot;Correo electrónico completo&quot; {#use-whole-email-a-b-testing}
 
-Puede probar fácilmente los correos electrónicos con A/B. Una buena prueba es la prueba Correo electrónico **completo** . Así es como configurarlo.
+Puede probar fácilmente los correos electrónicos con A/B. Una buena prueba es la prueba **Correo electrónico completo**. Así es como configurarlo.
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ Puede probar fácilmente los correos electrónicos con A/B. Una buena prueba es 
 
 `
 
-1. Se abre una nueva ventana. Haga clic en la lista desplegable **Tipo** de prueba y seleccione **Correos electrónicos** completos.
+1. Se abre una nueva ventana. Haga clic en la lista desplegable **Tipo de prueba** y seleccione **Mensajes de correo electrónico completos**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic en **Restablecer prueba** de forma segura.
+1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic **Restablecer prueba** de forma segura.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -65,13 +65,13 @@ Puede probar fácilmente los correos electrónicos con A/B. Una buena prueba es 
 
    >[!NOTE]
    >
-   >Las diferentes variaciones se enviarán a partes iguales del tamaño **de muestra de la** prueba elegida.
+   >Las diferentes variaciones se enviarán a partes iguales del **Tamaño de la muestra de prueba** seleccionado.
 
    >[!CAUTION]
    >
-   >**Le recomendamos que evite establecer el tamaño de la muestra en 100%**. Si está utilizando una lista estática, al establecer el tamaño de la muestra en 100 %, se envía el correo electrónico a todos los usuarios de la audiencia y el ganador no va a nadie. Si está utilizando una lista **inteligente** , al establecer el tamaño de la muestra en 100%, se envía el correo electrónico a todos los usuarios de la audiencia *en ese momento. *Cuando el programa de correo electrónico se ejecute nuevamente más tarde, cualquier persona nueva que califique para la lista inteligente también recibirá el correo electrónico ya que ahora se incluye en la audiencia.
+   >**Le recomendamos que evite establecer el tamaño de la muestra en 100%**. Si está utilizando una lista estática, al establecer el tamaño de la muestra en 100 %, se envía el correo electrónico a todos los usuarios de la audiencia y el ganador no va a nadie. Si está utilizando una lista **inteligente**, al establecer el tamaño de la muestra en 100%, se envía el correo electrónico a todos los usuarios de la audiencia *en ese momento. *Cuando el programa de correo electrónico se ejecute nuevamente más tarde, cualquier persona nueva que califique para la lista inteligente también recibirá el correo electrónico ya que ahora se incluye en la audiencia.
 
-   Bien, ya casi llegamos. Ahora tenemos que [definir los criterios](define-the-a-b-test-winner-criteria.md)del ganador de la prueba A/B.
+   Bien, ya casi llegamos. Ahora necesitamos [definir los criterios ganadores de la prueba A/B](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
