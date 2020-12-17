@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al principio de cada mes, Momentos de marketing proporciona tres tarjetas de informes diferentes: Posibles clientes adquiridos, Nuevos clientes potenciales y Cancelaciones de suscripciones. Cada uno muestra el rendimiento mensual y la tendencia a lo largo de un período de seis meses.
 
-## Tarjetas de Analytics {#analytics-cards}
+## Tarjetas de análisis {#analytics-cards}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Al tocar una tarjeta de Analytics, puede:
 
@@ -45,15 +45,15 @@ La tarjeta **Posibles clientes adquiridos **le muestra un informe de tendencias 
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## Nuevos leads {#new-leads}
+## Nuevos posibles clientes {#new-leads}
 
-La tarjeta **Nuevos posibles clientes** muestra un informe de tendencias mes tras mes sobre la cantidad total de nuevos posibles clientes en su instancia durante los últimos seis meses.
+La tarjeta **Nuevos posibles clientes** muestra un informe de tendencias mes tras mes del número total de nuevos posibles clientes en su instancia durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Cancelar suscripciones {#unsubscribes}
+## Anula la suscripción {#unsubscribes}
 
-La tarjeta **Cancelar suscripciones** muestra un informe de tendencias mes tras mes de la tasa de cancelación de suscripciones en los últimos seis meses.
+La tarjeta **Cancelaciones de suscripciones** muestra un informe de tendencias mes tras mes de la tasa de cancelación de suscripciones en los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
