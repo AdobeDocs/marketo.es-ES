@@ -15,27 +15,27 @@ ht-degree: 0%
 
 ¿Ya tiene un CSV lleno de cuentas de destinatario potenciales? Importarlos directamente en ABM!
 
-1. Haga clic en la lista desplegable **Nueva** y seleccione **Importar cuentas** con nombre.
+1. Haga clic en la lista desplegable **Nuevo** y seleccione **Importar cuentas con nombre**.
 
    ![](assets/inaone.png)
 
-1. Se abrirá una nueva ventana. Haga clic en **Examinar** y, a continuación, seleccione el archivo de las cuentas con nombre que desee importar.
+1. Se abrirá una nueva ventana. Haga clic en **Examinar** y, a continuación, seleccione el archivo de cuentas con nombre que desee importar.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >En el archivo, proporcione [toda la información](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) posible. Solo puede agregar información firmográfica; nada calcula el Marketing (es decir, la canalización). Para crear cuentas con nombre basadas en cuentas de CRM, simplemente exporte el nombre de cuenta y el ID de CRM de su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta de CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta de CRM.
+   >En el archivo, proporcione [tanta información](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) como sea posible. Solo puede agregar información firmográfica; nada calcula el Marketing (es decir, la canalización). Para crear cuentas con nombre basadas en cuentas de CRM, simplemente exporte el nombre de cuenta y el ID de CRM de su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta de CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta de CRM.
 
-1. Elija entre dos modos de desduplicación: Nombre de cuenta o Nombre de dominio. En este ejemplo elegiremos Cuenta. Haga clic en la lista desplegable **Modos** y seleccione **Por nombre** de cuenta.
+1. Elija entre dos modos de desduplicación: Nombre de cuenta o Nombre de dominio. En este ejemplo elegiremos Cuenta. Haga clic en la lista desplegable **Modos** y seleccione **Por nombre de cuenta**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Si selecciona **Por modo** de dominio, se deben incluir tanto los campos de cuenta con nombre como los campos de dominio.
+   >Si elige **Por modo de dominio**, se deben incluir tanto los campos de cuenta con nombre como los de dominio.
 
-1. Para elegir a qué lista de cuenta se agrega su cuenta con nombre, haga clic en la lista desplegable **Cuenta Lista** y realice la selección.
+1. Para elegir a qué lista de cuenta se agrega su cuenta con nombre, haga clic en la lista desplegable **Lista de cuenta** y realice la selección.
 
    ![](assets/inafour.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >También puede crear una nueva Lista de cuenta simplemente escribiendo su nombre en el cuadro desplegable.
 
-1. Para enviar una notificación de la importación, haga clic en la lista desplegable **Enviar alerta a** y seleccione un usuario de marketing. No *puede* introducir manualmente una dirección de correo electrónico.
+1. Para enviar una notificación de la importación, haga clic en la lista desplegable **Enviar alerta a** y seleccione un usuario de Marketing to. *no puede* introducir manualmente una dirección de correo electrónico.
 
    ![](assets/inafive-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/inasix-2.png)
 
-1. Asigne cada campo haciendo clic con el doble en la lista desplegable Campo **de** marketing y seleccionando el campo correspondiente. Haga clic en **Siguiente** cuando termine.
+1. Asigne cada campo haciendo clic con el doble en la lista desplegable **Campo de marketing** y seleccionando el campo correspondiente. Haga clic en **Siguiente** cuando termine.
 
    ![](assets/inaseven.png)
 
