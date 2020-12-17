@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Mueva una campaña inteligente entre diferentes programas o carpetas mediante la función de arrastrar y soltar o la función de mover del árbol.
 
-## Utilizar arrastrar y soltar {#use-drag-and-drop}
+## Usar Arrastrar y soltar {#use-drag-and-drop}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Mueva una campaña inteligente entre diferentes programas o carpetas mediante la
    >
    >Las reglas de tu campaña inteligente no cambiarán - simplemente estará anidada en un lugar diferente.
 
-## Uso de la función Mover {#use-the-move-feature}
+## Utilice la función Mover {#use-the-move-feature}
 
 Las campañas inteligentes también se pueden mover mediante la función de movimiento del árbol.
 
