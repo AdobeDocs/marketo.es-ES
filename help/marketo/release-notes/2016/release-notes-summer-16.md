@@ -20,8 +20,8 @@ Las siguientes funciones se incluyen en la versión del verano de 2016. Comprueb
 La mercadotecnia basada en cuentas de marketing proporciona todos los elementos esenciales en una plataforma unificada:
 
 * **Destinatario** : detección de cuentas, coincidencia de posibles clientes con cuentas y Listas de cuentas con nombre
-* **Participación** : Personalización basada en cuentas, compromiso entre canales y Flujos de trabajo específicos de la cuenta
-* **Medida** : perspectivas de nivel de cuenta y Lista, puntuación de participación en la cuenta e impacto en la canalización y los ingresos
+* **Participación** : Personalización basada en cuentas, participación en varios canales y Flujos de trabajo específicos de la cuenta
+* **Medición** : perspectivas de nivel de cuenta y Lista, puntuación de participación en la cuenta e impacto en la canalización y los ingresos
 
 ![](assets/abm-5-acme.png)
 
@@ -60,7 +60,7 @@ Anteriormente, todas las variables especificadas en las plantillas de correo ele
 **Actualizaciones de sintaxis**
 
 * Ahora puede utilizar &quot;mktoAddByDefault&quot; en los módulos especificados en las plantillas de correo electrónico 2.0 para indicar qué módulos deben mostrarse en los nuevos correos electrónicos de forma predeterminada. Esto resulta mucho más práctico si está creando una plantilla de correo electrónico con grandes cantidades de módulos.
-* En los elementos de imagen, ahora puede especificar si las propiedades &quot;height&quot; y &quot;width&quot; del elemento `<img>` HTML subyacente deben bloquearse o editarse para el usuario final. mktoLockImgSize=&quot;true&quot; bloqueará la altura y la anchura (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; bloqueará la propiedad &quot;style&quot;.
+* En los elementos de imagen, ahora puede especificar si las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML subyacente deben bloquearse o editarse para el usuario final. `<img>` mktoLockImgSize=&quot;true&quot; bloqueará la altura y la anchura (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; bloqueará la propiedad &quot;style&quot;.
 
 **Búsqueda de código**
 
