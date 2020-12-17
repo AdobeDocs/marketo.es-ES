@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO: Explicación de las palabras clave {#seo-understanding-keywords}
+# SEO - Explicación de las palabras clave {#seo-understanding-keywords}
 
 Las palabras clave son la columna vertebral de su estrategia SEO. Su objetivo es estar en la primera página, lo más cerca posible de #1 para las palabras clave relevantes para su negocio.
 
-La sección de palabras clave le mostrará el éxito del sitio en lograr esto y la manera en que se apilan según [su competencia.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+La sección de palabras clave le mostrará el éxito del sitio en lograr esto y la manera en que se apilará hasta [su competencia.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
 
 ## Palabras clave: Vista de resumen {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ La sección de palabras clave le mostrará el éxito del sitio en lograr esto y 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Clasificación y tendencia</td> 
-   <td colspan="1" rowspan="1"><p>Clasificación del sitio para esta palabra clave. Las flechas muestran la tendencia de la clasificación de palabras clave con respecto a la semana anterior </p><p><img alt="--" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = clasificación hacia arriba</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = clasificación inferior</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= clasificación igual</p></td> 
+   <td colspan="1" rowspan="1"><p>Clasificación del sitio para esta palabra clave. Las flechas muestran la tendencia de la clasificación de palabras clave con respecto a la semana anterior </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">  = clasificación hacia arriba</p><p><img alt="—" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—"> = clasificación inferior</p><p> <img alt="—" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="—">= clasificación igual</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Nivel de competencia</td> 
@@ -52,7 +52,7 @@ La sección de palabras clave le mostrará el éxito del sitio en lograr esto y 
  </tbody> 
 </table>
 
-## Palabras clave: Vista del Competidora {#keywords-competitor-view}
+## Palabras clave - Vista del Competidora {#keywords-competitor-view}
 
 También puede realizar una vista del rendimiento de sus competidoras con las mismas métricas haciendo clic en la lista desplegable de vistas y seleccionando competidoras.
 
