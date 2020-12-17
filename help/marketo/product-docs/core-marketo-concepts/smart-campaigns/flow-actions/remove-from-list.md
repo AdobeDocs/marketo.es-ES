@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Ya que tiene la capacidad de ** [Añadir a la Lista](add-to-list.md)***, también necesita una manera de eliminar personas de las listas.
+Ya que tiene la capacidad de ** [Añadir a la Lista](add-to-list.md)**, también necesita una manera de eliminar personas de las listas.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
