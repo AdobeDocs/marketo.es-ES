@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede configurar activadores y filtros para una campaña inteligente de aplicación móvil.
 
-Para la mayoría de las actividades, hay un activador, un filtro y un filtro de inactividad. Use filtros de inactividad para rastrear una acción, como tocar una notificación push, que *no se produjo* .
+Para la mayoría de las actividades, hay un activador, un filtro y un filtro de inactividad. Use filtros de inactividad para rastrear una acción, como tocar una notificación push, que *no se produjo*.
 
 * Se instaló o se instaló la aplicación móvil
 * Se abrió o se abrió la aplicación móvil
@@ -27,7 +27,7 @@ Solo hay filtros para esta actividad:
 
 * Notificación push de envío: filtro y filtro de inactividad
 
-Busque la aplicación **** móvil en el panel derecho para realizar la lista de todos los activadores y filtros de la aplicación móvil.
+Busque **aplicación móvil** en el panel derecho para realizar la lista de todos los activadores y filtros de aplicaciones móviles.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -57,9 +57,9 @@ Algunos activadores y filtros oferta restricciones adicionales, como:
 
 * Duración de la sesión (segundos): tiempo de sesión cuando la aplicación está en primer plano
 
-* Es push habilitado: **True** significa que se pueden enviar notificaciones push. **Falso** significa que no pueden; por ejemplo, es posible que la persona haya exclusión de recibir notificaciones push
+* Es push habilitado: **True** significa que se pueden enviar notificaciones push. **** Falsemans que no pueden; por ejemplo, es posible que la persona haya exclusión de recibir notificaciones push
 
-## Activadores y Filtros {#triggers-and-filters}
+## Desencadenadores y Filtros {#triggers-and-filters}
 
 **Tiene una aplicación móvil**
 
@@ -129,7 +129,7 @@ Las restricciones de acción permiten utilizar el activador y los filtros para r
 >
 >**Ejemplo**
 >
->En el tipo de acción *Compras*, hay una acción muy específica, con las otras restricciones que la definen:
+>En el tipo de acción *Shopping*, se muestra una acción muy específica, con las otras restricciones que la definen:
 >
 >* Compró una camisa
 >  * Era rojo
@@ -180,7 +180,7 @@ Tapas/notificaciones push de toque
 >
 >Utilice el filtro de inactividad Notificación push no capturada para buscar personas que no tocaron una notificación push recientemente enviada a ellas, de modo que pueda realizar un seguimiento por correo electrónico.
 
-**Notificación** push de envío Esta actividad solo está disponible como filtro.
+**Notificación push** de envíoEsta actividad solo está disponible como filtro.
 
 * Se envió notificación push - filtro
 
