@@ -31,11 +31,11 @@ El filtrado es una buena manera de reducir los datos rápidamente.
 
    ![](assets/filter-2.png)
 
-1. Haga clic en la lista desplegable **País** y seleccione Estados **Unidos**.
+1. Haga clic en la lista desplegable **País** y seleccione **Estados Unidos**.
 
    ![](assets/filter-3.png)
 
-1. En **Empleados**, escriba &quot;0&quot; en el campo **Mín** , &quot;10000&quot; en el campo **Máx** y, a continuación, haga clic en **Aplicar**.
+1. En **Empleados**, escriba &quot;0&quot; en el campo **Min**, &quot;10000&quot; en el campo **Max** y haga clic en **Aplicar**.
 
    ![](assets/four-2.png)
 
