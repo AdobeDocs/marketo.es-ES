@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Eliminar del flujo {#remove-from-flow}
+# Quitar del flujo {#remove-from-flow}
 
 Imagine que tiene un flujo de campaña inteligente que utiliza &quot;Enviar alerta&quot; para recordar a un representante de ventas que debe llamar a un cliente potencial activo. Envía un mensaje todos los días hasta que el representante realiza la llamada. Puede utilizar &quot;Eliminar del flujo&quot; en una campaña desencadenadora una vez que se haya contactado con el cliente potencial para detener nuevas alertas. Es como un asiento de eyector de campaña inteligente para una persona.
 
@@ -21,7 +21,7 @@ Imagine que tiene un flujo de campaña inteligente que utiliza &quot;Enviar aler
 
 ## Información general {#overview}
 
-Puede eliminar personas del flujo de una campaña mediante el paso **Eliminar del flujo** .
+Puede eliminar personas del flujo de una campaña mediante el paso de flujo **Eliminar del flujo**.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +33,7 @@ Busque y seleccione la campaña inteligente de la que desea quitar personas.
 
 >[!NOTE]
 >
->Puede elegir una campaña inteligente específica o elegir &quot;esta campaña&quot; en la lista desplegable de **Campaña** para seleccionar la campaña en la que se encuentra físicamente en ese momento.
+>Puede elegir una campaña inteligente específica o elegir &quot;esta campaña&quot; en la lista desplegable **Campaña** para seleccionar la campaña en la que se encuentra físicamente en ese momento.
 
 >[!NOTE]
 >
