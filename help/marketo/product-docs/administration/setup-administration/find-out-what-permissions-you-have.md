@@ -19,7 +19,7 @@ Si te preguntas qué permisos tienes o no en Marketing, hay una manera fácil de
 
    ![](assets/login-marketing-activities.png)
 
-1. Haga clic en Acceso **** completo para ver los permisos que tiene.
+1. Haga clic en **Acceso total** para ver los permisos que tiene.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
