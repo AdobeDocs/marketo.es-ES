@@ -27,9 +27,9 @@ En este artículo, encontrará información sobre el comportamiento esperado aso
    * Filtros predictivos - [!DNL Sky/Classic]
    * Registros proyectados - [!DNL Sky/Classic]
    * Predicciones de probabilidad de nivel de posible cliente: [!DNL Sky/Classic]
-   * Objetivos y seguimiento: [!DNL Sky] solo
-   * Perspectivas y recomendaciones: [!DNL Sky] solo
-* [La activación](/help/sky/getting-started-with-predictive-audiences.md) inicial tarda entre **24 y 48 horas** en completar todos los procesos una vez habilitada la PA. Verá todas las funciones de Audiencias predictivas y Filtros predictivos en la interfaz, pero estas funciones pueden tardar hasta 24 horas en empezar a funcionar.
+   * Objetivos y seguimiento: solo [!DNL Sky]
+   * Perspectivas y recomendaciones: [!DNL Sky] solamente
+* [La ](/help/sky/getting-started-with-predictive-audiences.md) activación inicial tarda entre **24 y 48** horas en completar todos los procesos una vez que se ha habilitado PA. Verá todas las funciones de Audiencias predictivas y Filtros predictivos en la interfaz, pero estas funciones pueden tardar hasta 24 horas en empezar a funcionar.
 * **Las predicciones solo se generarán para las nuevas campañas que se creen después de activar la función.**
 
 ## Existen algunas consideraciones adicionales específicas de los filtros predictivos:
@@ -39,9 +39,9 @@ En este artículo, encontrará información sobre el comportamiento esperado aso
 * Los filtros predictivos no están disponibles para campañas desencadenadoras.
 * Para ejecutar una campaña inteligente, es necesario utilizar filtros de probabilidad junto con otros filtros normales.
 * La función Reglas guardadas no está disponible para su uso en campañas que contienen filtros predictivos.
-* Puede usar **hasta 5** filtros predictivos en una lista inteligente.
-* Los filtros predictivos pueden procesar un **máximo de 1 millón de posibles clientes** cualificados.
-* Puede tener **hasta 50 programas** activos con filtros predictivos. Un programa activo es cualquier programa que utiliza filtros predictivos y que se ha programado al menos una vez.
+* Puede utilizar **hasta 5** filtros predictivos en una lista inteligente.
+* Los filtros predictivos pueden procesar un **máximo de 1 millón de posibles clientes calificados**.
+* Puede tener **hasta 50 programas activos** con filtros predictivos. Un programa activo es cualquier programa que utiliza filtros predictivos y que se ha programado al menos una vez.
 
 ## ¿Cuándo no están disponibles los registros proyectados?
 
