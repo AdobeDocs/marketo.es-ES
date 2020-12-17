@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # ¿Por qué no se envía a los contactos a Sales Connect? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Si no se ha presionado ningún contacto, es posible que tenga una conexión de Salesforce no válida. Vaya a la configuración [de](http://toutapp.com/next#settings/crm/salesforce/configure) Salesforce y desconecte y vuelva a conectarse. Espere unos 20 minutos para restablecer completamente. Si después de eso sigue siendo cero, por favor [envíe un caso](http://nation.marketo.com/community/support_solutions) a la Asistencia.
+Si no se ha presionado ningún contacto, es posible que tenga una conexión de Salesforce no válida. Vaya a su [configuración de Salesforce](http://toutapp.com/next#settings/crm/salesforce/configure) y desconecte y vuelva a conectarse. Espere unos 20 minutos para restablecer completamente. Si después de eso sigue siendo cero, [envíe un caso](http://nation.marketo.com/community/support_solutions) al Soporte técnico.
