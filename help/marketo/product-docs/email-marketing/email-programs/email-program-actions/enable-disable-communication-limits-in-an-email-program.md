@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Habilitar/deshabilitar límites de comunicación en un Programa de correo electrónico {#enable-disable-communication-limits-in-an-email-program}
 
-Al ejecutar un programa de correo electrónico, puede elegir ignorar o respetar los límites [de comunicación del nivel de](../../../../product-docs/administration/email-setup/enable-communication-limits.md) administrador [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Así es como hacerlo.
+Al ejecutar un programa de correo electrónico, puede elegir ignorar o respetar el [límite de comunicación de nivel de administrador](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Así es como hacerlo.
 
 >[!NOTE]
 >
 >**Definición**
 >
->Los límites de comunicación se [establecen en la sección](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Administración y le ayudan a evitar el envío de demasiados correos electrónicos a una persona.
+>Los límites de comunicación se [establecen en la sección Administración](../../../../product-docs/administration/email-setup/enable-communication-limits.md) y le ayudan a evitar enviar demasiados correos electrónicos a una persona.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -29,13 +29,13 @@ Al ejecutar un programa de correo electrónico, puede elegir ignorar o respetar 
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. En la ficha **Configuración** , haga clic con el doble en el elemento de línea de límite de comunicaciones.
+1. En la ficha **Configuración**, haga clic con el doble en el elemento de línea de límite de comunicaciones.
 
    ![](assets/blockoperational.png)
 
-1. De forma predeterminada, los correos electrónicos no operativos se bloquean si se alcanzan los límites de comunicación, pero si desea omitirlos, desactive la casilla de verificación y haga clic en **Guardar**.
+1. De forma predeterminada, los correos electrónicos no operativos se bloquean si se alcanzan los límites de comunicación, pero si desea omitirlos, desactive la casilla y haga clic en **Guardar**.
 
    ![](assets/ifaperson.jpg)
 
-   Si se deja **Bloquear correos electrónicos** no operativos, se evitará enviar el correo electrónico a cualquier persona que haya recibido más correos electrónicos de los que permite la configuración de administración.
+   Si se deja **Bloquear correos electrónicos no operativos** marcado evitará enviar el correo electrónico a cualquier persona que haya recibido más correos electrónicos de los que permite la configuración de administración.
 
