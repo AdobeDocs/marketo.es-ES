@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Perforación, Perforación, Nurtura {#drip-drip-nurture}
 
-## Misión: Aprenda a las personas que asistieron a su reciente feria {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Misión: Aprenda a las personas que asistieron a su reciente presentación {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketing. ¡Así es!
 
@@ -25,27 +25,27 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
 ## Paso 1: Crear un Programa de compromiso {#step-create-an-engagement-program}
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/one-3.png)
 
-1. Seleccione la carpeta **Aprendizaje** , haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo Programa**.
+1. Seleccione la carpeta **Aprendizaje**, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo Programa**.
 
    ![](assets/two-4.png)
 
-1. Introduzca un **nombre** y seleccione **Participación** para el tipo **de** Programa.
+1. Escriba un **Nombre** y seleccione **Participación** para el **Tipo de Programa**.
 
    ![](assets/three-3.png)
 
-1. Asegúrese de que el campo **Canal** sea **Nurtura** y haga clic en **Crear**.
+1. Asegúrese de que el campo **Canal** es **Enurgia** y haga clic en **Crear**.
 
    ![](assets/four-2.png)
 
    Ahora ha creado un programa de participación.
 
-## Paso 2: Crear un correo electrónico {#step-create-an-email}
+## Paso 2: Crear un mensaje de correo electrónico {#step-create-an-email}
 
-1. Seleccione el programa de participación y, a continuación, haga clic en **Nuevo** y seleccione **Nuevo recurso** local.
+1. Seleccione el programa de participación, luego haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/five-3.png)
 
@@ -53,23 +53,23 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    ![](assets/six-3.png)
 
-1. Introduzca un **nombre**, seleccione la **plantilla** que desee utilizar y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione la **Plantilla** que desee utilizar y haga clic en **Crear**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >¿No ve el editor de correo electrónico? Es probable que el explorador haya bloqueado la ventana. Active las ventanas emergentes de [app.marketo.com](https://app.marketo.com) en el navegador y haga clic en **Editar borrador** en la barra de menús superior.
+   >¿No ve el editor de correo electrónico? Es probable que el explorador haya bloqueado la ventana. Habilite ventanas emergentes de [app.marketo.com](https://app.marketo.com) en el explorador y haga clic en **Editar borrador** en la barra de menús superior.
 
 1. Introduzca un asunto.
 
    ![](assets/eight-2.png)
 
-1. Seleccione el área del correo electrónico que desea editar, haga clic en el icono de engranaje y seleccione **Editar**.
+1. Seleccione el área del correo electrónico que desee editar, haga clic en el icono de engranaje y seleccione **Editar**.
 
    ![](assets/nine-1.png)
 
-1. Edite el correo electrónico y haga clic en **Guardar**.
+1. Edite su correo electrónico y haga clic en **Guardar**.
 
    ![](assets/ten-3.png)
 
@@ -77,7 +77,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    ![](assets/eleven-3.png)
 
-1. En Acciones **de** correo electrónico, haga clic en **Aprobar**.
+1. En **Acciones de correo electrónico**, haga clic en **Aprobar**.
 
    ![](assets/twelve-2.png)
 
@@ -93,7 +93,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
 1. Ahora es el momento de crear un flujo de contenido para el programa de participación mediante los correos electrónicos que ha creado.
 
-1. Seleccione el programa de participación y haga clic en la ficha **Flujos** .
+1. Seleccione el programa de participación y haga clic en la ficha **Flujos**.
 
    ![](assets/fourteen-2.png)
 
@@ -103,7 +103,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    >[!TIP]
    >
-   >También puede utilizar el botón **Añadir contenido** o el icono de flujo **+** .
+   >También puede utilizar el botón **Añadir contenido** o el icono de flujo **+**.
 
 ## Paso 4: Activar contenido de flujo {#step-activate-stream-content}
 
@@ -117,9 +117,9 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    ¡bueno trabajo! Un paso más y el programa de participación está listo.
 
-## Paso 5: Definición de la secuencia {#step-set-the-stream-cadence}
+## Paso 5: Definir la secuencia de flujo {#step-set-the-stream-cadence}
 
-1. Haga clic en **Definir secuencia** de flujo.
+1. Haga clic en **Definir secuencia de flujo**.
 
    ![](assets/seventeen.png)
 
@@ -135,7 +135,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
 ## Paso 6: Añadir una persona de prueba en el Programa de compromiso {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vaya al área **Base de datos** .
+1. Vaya al área **Base de datos**.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    ![](assets/twenty-one.png)
 
-1. Seleccione el **Programa** y el **flujo** y, a continuación, haga clic en **Ejecutar ahora**.
+1. Seleccione su **Programa** y **Flujo**, luego haga clic en **Ejecutar ahora**.
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ Puede crear fácilmente un sistema de crianza avanzado y sofisticado en Marketin
 
    >[!NOTE]
    >
-   >Obtenga más información sobre los Programas [de compromiso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >Obtenga más información sobre [Programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
 
 <br> 
 
