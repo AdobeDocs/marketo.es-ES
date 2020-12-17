@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede compartir una muestra de un momento de correo electrónico directamente con alguien. Hay dos maneras de hacerlo.
 
-## El camino regular {#the-regular-way}
+## La forma regular {#the-regular-way}
 
 1. Abra el menú de la tarjeta.
 
@@ -29,7 +29,7 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## El modo rápido {#the-quick-way}
+## La forma rápida {#the-quick-way}
 
 1. Toque el icono del avión de papel en la pantalla Previsualización por correo electrónico para enviar una muestra directamente desde la previsualización.\
    ![](assets/image2015-9-25-10-3a28-3a47.png)
