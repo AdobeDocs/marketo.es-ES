@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Notas de la versión: Junio de 2013 {#release-notes-june}
 
-Las siguientes funciones se incluyen en la versión de junio. Compruebe la disponibilidad de las funciones [de la edición](http://docs.marketo.com/display/docs/assets/pricing.php) de marketing.
+Las siguientes funciones se incluyen en la versión de junio. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la comunidad para ver los artículos detallados de la base de conocimiento de cada función.
+Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
 ## Idiomas de usuario adicionales {#additional-user-languages}
 
@@ -23,7 +23,7 @@ Vista la interfaz de gestión de posibles clientes de Marketing Cloud en su idio
 
 ![](assets/image2014-9-22-16-3a25-3a54.png)
 
-## Interfaz de usuario de cobalto {#cobalt-user-interface}
+## Interfaz de usuario Cobalt {#cobalt-user-interface}
 
 Durante los próximos meses se notará un nuevo tema en diferentes partes de la aplicación; por ejemplo, impactando en las ventanas modales.
 
