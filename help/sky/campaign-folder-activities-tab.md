@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Carpeta de campaña: Ficha actividades
 
-Busque información clave sobre sus campañas en la ficha **[!UICONTROL Actividades]** .
+Busque información clave sobre sus campañas en la ficha **[!UICONTROL Actividades]**.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
