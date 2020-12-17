@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Una vez que haya instalado el paquete Enterprise en Salesforce, puede instalar los campos de evento de Sales Connect en la sección del historial de actividades. Los campos de evento de Sales Connect incluyen información como vistas, clics y campañas. Esto le permite tener información sobre sus correos electrónicos importados directamente en Salesforce.
 
-Asegúrese de ponerse en contacto con el administrador de Salesforce al realizar estos pasos. En este ejemplo, instalaremos los campos en el diseño **de página de** posibles clientes. También puede instalar los campos en los diseños de página Contacto, Cuenta y Oportunidad. Recuerde que, al registrar correos electrónicos en Cuentas y oportunidades, necesitará el contacto que está enviando por correo electrónico asociado como función de contacto.
+Asegúrese de ponerse en contacto con el administrador de Salesforce al realizar estos pasos. En este ejemplo instalaremos los campos en el **Diseño de página de posibles clientes**. También puede instalar los campos en los diseños de página Contacto, Cuenta y Oportunidad. Recuerde que, al registrar correos electrónicos en Cuentas y oportunidades, necesitará el contacto que está enviando por correo electrónico asociado como función de contacto.
 
 1. Haga clic en **Configuración**.
 1. Haga clic en **Personalizar**.
 1. Haga clic en **Posibles clientes**.
-1. Haga clic en Diseños **de página**.
-1. Haga clic en **Editar** junto al diseño de página que desee cambiar.
+1. Haga clic en **Diseños de página**.
+1. Haga clic en **Editar** al lado del diseño de página que desee cambiar.
 
    >[!NOTE]
    >
