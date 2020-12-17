@@ -22,4 +22,4 @@ Actualmente, Marketing admite los siguientes exploradores:
 | [Apple Safari](http://support.apple.com/downloads/#safari) | más reciente |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | más reciente |
 
-Para disfrutar de la mejor experiencia, **mantenga su navegador actualizado**.
+Para disfrutar de la mejor experiencia, **mantenga su explorador actualizado**!
