@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cambio del nombre de un flujo {#rename-a-stream}
+# Cambiar el nombre de un flujo {#rename-a-stream}
 
 Si desea mantenerse organizado, puede cambiar el nombre de los flujos. Así es como hacerlo.
 
@@ -23,7 +23,7 @@ Si desea mantenerse organizado, puede cambiar el nombre de los flujos. Así es c
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Introduzca el nuevo **nombre** de flujo y haga clic en **Guardar**.
+1. Introduzca el nuevo flujo **Nombre** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
