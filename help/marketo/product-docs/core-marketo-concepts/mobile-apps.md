@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Aplicaciones móviles {#mobile-apps}
 
-** ![Evento Check-](assets/mobile-checkin-icon.png)inEvent Check-in** Los clientes del registro de [Evento a sus eventos desde una tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketo](assets/moments-icon.png)MomentsMomentos de marketing** Momentos [de marketing Vea lo que es importante, cuando es importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+** ![Registro de Eventos](assets/mobile-checkin-icon.png)Registro de Eventos** [Evento de los clientes de facturación/check-in a sus eventos desde una tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **  ![Marketo ](assets/moments-icon.png)MomentsMomentos de marketing** Momentos  [de marketing Vea lo que es importante, cuando es importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
