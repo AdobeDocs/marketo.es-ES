@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Editar elementos en un correo electrónico {#edit-elements-in-an-email}
+# Editar elementos en un mensaje de correo electrónico {#edit-elements-in-an-email}
 
 Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enriquecido, Imágenes, Recortes y Vídeo. Así es como editar cada uno.
 
@@ -29,7 +29,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    ![](assets/three.png)
 
-1. Añada/Edite el texto y pulse **Guardar**.
+1. Añada o edite el texto y presione **Guardar**.
 
    ![](assets/four.png)
 
@@ -38,7 +38,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
    >**Recordatorio**
    >
    >
-   >También puede agregar imágenes, tokens, tablas y otros elementos. Consulte [Uso del editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)de texto enriquecido.
+   >También puede agregar imágenes, tokens, tablas y otros elementos. Consulte [Uso del Editor de texto enriquecido](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -82,13 +82,13 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    ![](assets/ten.png)
 
-   Cambie las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, pulse **Intercambiar**.
+   Cambie las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, presione **Intercambiar**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si va a reemplazar una imagen, deberá marcar la casilla **Sobrescribir imagen** existente que aparece debajo de la dirección URL o el nombre de la imagen.
+   >Si va a reemplazar una imagen, deberá marcar la casilla **Sobrescribir la imagen existente** que aparece debajo de la dirección URL/nombre de la imagen.
 
    **Design** StudioPara insertar una imagen desde Design Studio, simplemente localícela...
 
@@ -127,7 +127,7 @@ Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las 
 
    ![](assets/twenty.png)
 
-1. Pegue la URL del vídeo desde Vimeo o YouTube. A continuación, haga clic fuera del cuadro URL para que se cargue la previsualización. Modifique las dimensiones para adaptarlas a sus necesidades, agregue Texto alternativo (opcional) y, a continuación, pulse **Insertar**.
+1. Pegue la URL del vídeo desde Vimeo o YouTube. A continuación, haga clic fuera del cuadro URL para que se cargue la previsualización. Cambie las dimensiones para adaptarlas a sus necesidades, agregue Texto alternativo (opcional) y, a continuación, presione **Insertar**.
 
    ![](assets/twentyone.png)
 
