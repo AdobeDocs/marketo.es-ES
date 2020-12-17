@@ -20,13 +20,13 @@ Como parte de Audiencias predictivas, Marketing oferta un grupo de filtros basad
 
 ## Probabilidad de asistir
 
-Este filtro se utiliza para reducir la audiencia de forma efectiva. Esto le ayuda a organizar destinatarios e invitar a posibles clientes con mayor probabilidad de **asistir** a su seminario web o evento. Tenga en cuenta que &quot;[!UICONTROL Probabilidad de asistir al programa]&quot; será su programa de evento actual.
+Este filtro se utiliza para reducir la audiencia de forma efectiva. Esto le ayuda a organizar destinatarios e invitar a posibles clientes que tengan una mayor probabilidad de **asistir** a su seminario web o evento. Tenga en cuenta que la &quot;[!UICONTROL probabilidad de asistir al programa]&quot; será su programa de evento actual.
 
 ![Imagen dos](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Posibilidad de registrarse
 
-De forma similar al filtro [!UICONTROL _Probabilidad de asistir_], utilice este filtro para reducir la audiencia y los posibles clientes de destinatario que tienen una mayor probabilidad de **registrarse** en el seminario web o evento.
+De forma similar al filtro [!UICONTROL _Probabilidad de asistir_], utilice este filtro para reducir la audiencia y los posibles clientes del destinatario que tienen una mayor probabilidad de **registrarse** para el seminario Web o evento.
 
 ![Imagen tres](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +44,7 @@ Esto filtros la audiencia en cuanto a si tienen una alta o baja probabilidad de 
 
 Estos dos filtros ayudan a expandir la audiencia actual al destinar leads adicionales que son similares a miembros de otro programa o Lista inteligente. Los filtros de búsqueda similar tienen en cuenta más de 50 factores, incluidos los atributos de posible cliente, la actividad por correo electrónico, la actividad web y la participación.
 
-Haga clic en **[!UICONTROL Añadir restricción]** para elegir los criterios de éxito de los miembros de los programas seleccionados.
+Haga clic en **[!UICONTROL Añadir restricción]** para elegir los criterios de éxito para los miembros de los programas seleccionados.
 
 Haga clic en el icono + situado junto a la lista desplegable programa para agregar fácilmente varios programas o listas inteligentes a un filtro.
 
