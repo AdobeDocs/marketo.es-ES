@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Explicación de las carpetas {#understanding-folders}
 
-Las carpetas dentro de un programa se pueden utilizar para organizar sus campañas y recursos inteligentes. Son diferentes de las carpetas [de](create-new-campaign-folder.md)campaña.
+Las carpetas dentro de un programa se pueden utilizar para organizar sus campañas y recursos inteligentes. Son diferentes de [carpetas de campañas](create-new-campaign-folder.md).
 
 ## Crear una carpeta {#create-a-folder}
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/ma.png)
 
@@ -35,11 +35,11 @@ Las carpetas dentro de un programa se pueden utilizar para organizar sus campañ
 
 Está bien cambiar de opinión.
 
-1. Haga clic con el botón derecho en la carpeta y seleccione **Cambiar nombre de la carpeta**.
+1. Haga clic con el botón derecho en la carpeta y seleccione **Cambiar el nombre de la carpeta**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Escriba un nuevo nombre y pulse **Intro**.
+1. Escriba un nombre nuevo y presione **Intro**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -70,7 +70,7 @@ Al archivar una carpeta:
 * Las plantillas archivadas no están disponibles al crear un correo electrónico o una página de aterrizaje en Design Studio
 * Las páginas archivadas no se pueden usar en grupos de prueba de página de aterrizaje
 
-Funcionalidad que **no cambiará** al archivar:
+Funcionalidad que **no** cambiará al archivar:
 
 * La búsqueda global aún encuentra resultados en carpetas archivadas
 * Un recurso que está en uso seguirá funcionando incluso después de archivarlo
