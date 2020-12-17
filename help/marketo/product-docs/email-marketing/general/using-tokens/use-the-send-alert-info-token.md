@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Usar el testigo Enviar información de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
 
-El `{{SP_Send_Alert_Info}}` token es un token especial que se utiliza al crear mensajes de correo electrónico de alerta para el equipo de ventas.
+El token `{{SP_Send_Alert_Info}}` es un token especial que se utiliza al crear correos electrónicos de alerta para su equipo de ventas.
 
 >[!TIP]
 >
->Este token solo funciona como se espera al enviar el correo electrónico que lo contiene con el paso [Enviar alerta](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) . No funcionará cuando se utilice en un paso de flujo de correo electrónico de envío.
+>Este token sólo funciona como se espera al enviar el correo electrónico que lo contiene con el paso de flujo [Enviar alerta](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). No funcionará cuando se utilice en un paso de flujo de correo electrónico de envío.
 
 Ejemplo de alerta:   ![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->¡Cabeza! Las direcciones URL de las alertas tienen fechas de caducidad, por lo que asegúrese de que tienen una cadencia que admita estos tipos de mensajes. Las fechas de caducidad las [configura un administrador](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>¡Cabeza! Las direcciones URL de las alertas tienen fechas de caducidad, por lo que asegúrese de que tienen una cadencia que admita estos tipos de mensajes. Las fechas de caducidad son [configuradas por un administrador](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 La siguiente información se incluye como parte del `{{SP_Send_Alert_Info}}`:
 
@@ -46,11 +46,11 @@ La siguiente información se incluye como parte del `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Sitúe el cursor donde desee que esté el token y, a continuación, haga clic en el botón **Insertar token** .
+1. Sitúe el cursor donde desee que esté el token y, a continuación, haga clic en el botón **Insertar token**.
 
    ![](assets/three-3.png)
 
-1. Busque y seleccione el **`{{SP_Send_Alert_Info}}`** token y haga clic en **Insertar**.
+1. Busque y seleccione el token **`{{SP_Send_Alert_Info}}`** y haga clic en **Insertar**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
