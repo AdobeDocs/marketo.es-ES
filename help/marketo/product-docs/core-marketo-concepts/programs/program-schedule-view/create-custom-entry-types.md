@@ -19,11 +19,11 @@ Puede crear tipos de entrada personalizados para utilizarlos en la Vista de Cala
 
    ![](assets/admintags.png)
 
-1. Haga clic en Tipo **de entrada** de calendario.
+1. Haga clic en **Tipo de entrada de calendario**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Haga clic en la lista desplegable **Nuevo** y seleccione Tipo **** de entrada.
+1. Haga clic en la lista desplegable **Nuevo** y seleccione **Tipo de entrada**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ Puede crear tipos de entrada personalizados para utilizarlos en la Vista de Cala
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Seleccione un color **de entrada**.
+1. Seleccione un **Color de entrada**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
