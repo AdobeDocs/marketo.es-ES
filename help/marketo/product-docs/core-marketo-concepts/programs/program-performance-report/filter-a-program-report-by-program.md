@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar un informe de Programa por Programa {#filter-a-program-report-by-program}
 
-Centre el informe [de rendimiento de](create-a-program-performance-report.md) programa en programas específicos para comparar su rendimiento.
+Centre su [informe de rendimiento de programa](create-a-program-performance-report.md) en programas específicos para comparar su rendimiento.
 
 1. Vaya a **Marketing** **Actividades** (o **Analytics**).
 
@@ -23,7 +23,7 @@ Centre el informe [de rendimiento de](create-a-program-performance-report.md) pr
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre **Programas**.
+1. Haga clic en la ficha **Configuración** y arrastre sobre **Programas**.
 
    ![](assets/prospect3.jpg)
 
@@ -53,5 +53,5 @@ Centre el informe [de rendimiento de](create-a-program-performance-report.md) pr
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
