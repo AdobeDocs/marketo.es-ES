@@ -32,7 +32,7 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para la pre
 
 >[!TIP]
 >
->Asegúrese de realizar la **Previsualización de una presentación** antes de iniciarla.
+>Asegúrese de **Previsualización de una presentación** antes de iniciar.
 
 1. Haga clic en **Iniciar**.
 
@@ -44,5 +44,5 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para la pre
 
    >[!TIP]
    >
-   >La presentación se iniciará en una nueva ficha. Si es necesario, desplace la ficha a un monitor o televisor externo para que se muestre y haga clic en **Pantalla** completa (o pulse **F11 **en el teclado si utiliza Internet Explorer).
+   >La presentación se iniciará en una nueva ficha. Si es necesario, mueva la ficha a un monitor o televisor externo para que se muestre y haga clic en **Pantalla completa** (o presione **F11 **en el teclado si está utilizando Internet Explorer).
 
