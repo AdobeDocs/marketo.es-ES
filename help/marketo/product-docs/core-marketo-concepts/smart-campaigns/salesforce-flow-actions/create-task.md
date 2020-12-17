@@ -19,7 +19,7 @@ Como especialista en mercadotecnia, tiene información que puede ayudar a las ve
 
 >[!NOTE]
 >
->Cuando el usuario de sincronización de marketing está creando tareas, **Vencimiento** es un campo obligatorio para la tarea que se va a crear en Salesforce. Marketo ingresará cinco días de forma predeterminada si no hay ningún valor.
+>Cuando el usuario de sincronización de marketing está creando tareas, **Vencimiento** es un campo requerido para que la tarea se cree en Salesforce. Marketo ingresará cinco días de forma predeterminada si no hay ningún valor.
 
 De forma predeterminada, el paso de flujo tendrá este aspecto:   ![](assets/image2014-9-22-14-3a54-3a49.png)
 
@@ -29,5 +29,5 @@ Personalice todos los campos para crear la tarea como desee.
 
 >[!TIP]
 >
->Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}``{{campaign.tokens}}` y `{{system.tokens}}` en el **Asunto** y la **Descripción**. Consulte [Tokens para ver los pasos](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) de flujo para obtener más información.
+>Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` y `{{system.tokens}}` en **Subject** y **Description**. Consulte [Tokens para pasos de flujo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) para obtener más información.
 
