@@ -21,11 +21,11 @@ El marketing se sincroniza sobre Eventos y Tareas asociadas con un posible clien
 
 ## ¿Cómo se mantienen sincronizados los detalles de actividad entre los dos sistemas? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-La sincronización es de una manera, desde Salesforce hasta Marketing. Pero puede crear una tarea en Salesforce mediante el paso [Crear flujo de Tarea](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) o [Personalizar la sincronización](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) de Actividades con Salesforce.
+La sincronización es de una manera, desde Salesforce hasta Marketing. Pero puede crear una tarea en Salesforce mediante el paso de flujo [Crear Tarea](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) o [Personalizar Actividades Sincronizar](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) con Salesforce.
 
 ## ¿Puedo crear una tarea con Marketing? {#can-i-create-a-task-using-marketo}
 
-Sí, puede utilizar la acción [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)Crear flujo de Tarea.
+Sí, puede utilizar la acción [Crear flujo de Tarea](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## ¿Cuáles son los activadores/filtros relacionados con la actividad? {#what-are-the-triggers-filters-related-to-activity}
 
