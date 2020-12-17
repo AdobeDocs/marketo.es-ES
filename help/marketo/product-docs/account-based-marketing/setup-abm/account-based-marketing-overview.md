@@ -27,19 +27,19 @@ Marketing to unifica ABM y la administración de posibles clientes en una soluci
 
 El ABM de marketing consta de tres componentes:
 
-**1) [Destinatario](http://docs.marketo.com/display/docs/target)**
+**1)  [Destinatario](http://docs.marketo.com/display/docs/target)**
 
 * Detección de cuentas
 * Coincidencia de posibles clientes con cuentas
 * Listas de cuenta con nombre
 
-**2) [Participación](http://docs.marketo.com/display/docs/engage)**
+**2)  [Participación](http://docs.marketo.com/display/docs/engage)**
 
 * Personalización basada en cuentas
 * Participación entre Canales
 * Flujos de trabajo específicos de la cuenta
 
-**3) [Medida](http://docs.marketo.com/display/docs/measure)**
+**3)  [Medida](http://docs.marketo.com/display/docs/measure)**
 
 * Perspectivas de nivel de cuenta y Lista
 * Puntuación de participación en la cuenta
@@ -47,11 +47,11 @@ El ABM de marketing consta de tres componentes:
 
 Marketing basado en cuentas de marketing también oferta varias herramientas para personalizar la experiencia de cuenta con nombre en distintos canales.
 
-* Correo electrónico y [personalización de Páginas de aterrizaje](http://docs.marketo.com/display/DOCS/Personalization)
-* Personalización [web](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* Personalización [de URL](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Personalización [de publicidad](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [Remercadotecnia personalizada](http://docs.marketo.com/display/DOCS/Website+Retargeting)
+* Correo electrónico y Página de aterrizaje [Personalización](http://docs.marketo.com/display/DOCS/Personalization)
+* Web [Personalización](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
+* Dirección URL [Personalización](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
+* Publicidad [Personalización](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
+* [Remercadotecnia ](http://docs.marketo.com/display/DOCS/Website+Retargeting) personalizada
 
 ¡Estoy adentro! ¿Cómo empiezo?
 
@@ -59,6 +59,6 @@ Marketing basado en cuentas de marketing también oferta varias herramientas par
 
 >[!NOTE]
 >
->Se puede acceder a las cuentas con nombre administradas en Marketing ABM directamente desde Web ABM para satisfacer las necesidades de personalización de la Web. Más información [aquí](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Se puede acceder a las cuentas con nombre administradas en Marketing ABM directamente desde Web ABM para satisfacer las necesidades de personalización de la Web. Obtenga más información [aquí](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
 
 Bienvenidos a Marketo ABM y disfrute de la mercadotecnia dirigida!
