@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Cancelación de suscripción duradera {#durable-unsubscribe}
+# Cancelación duradera de la suscripción {#durable-unsubscribe}
 
 Marketing ha mejorado el comportamiento de la funcionalidad de cancelación de suscripción para que sea &quot;duradera&quot;. Hemos agregado un estado de correo electrónico principal, que es independiente del indicador de cancelación de suscripción visible en el registro de detalles de la persona.
 
-Si el indicador de cancelación de suscripción se establece de false a true, el estado del correo electrónico maestro se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se elimina y se vuelve a crear una persona, o si se crea un nuevo registro con la misma dirección de correo electrónico, el indicador de cancelación de suscripción **no se sobrescribirá** .
+Si el indicador de cancelación de suscripción se establece de false a true, el estado del correo electrónico maestro se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se elimina y se vuelve a crear una persona, o si se crea un nuevo registro con la misma dirección de correo electrónico, se sobrescribirá el indicador de cancelación de suscripción **no**.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Si el indicador de cancelación de suscripción se establece de false a true, el
 
 Hay varias formas de volver a suscribirse a una persona.
 
-En Salesforce, **desactive** el campo Exclusión correo electrónico en el registro del posible cliente o contacto. Esto se sincronizará con Marketing.
+En Salesforce, **borre** el campo Exclusión correo electrónico en el registro del posible cliente o contacto. Esto se sincronizará con Marketing.
 
 ![](assets/one.png)
 
-En Marketing, **desactive** el cuadro sin suscribir en la ficha Información del registro de la persona.
+En Marketing, **borre** el cuadro sin suscribir de la ficha Información del registro de la persona.
 
 ![](assets/two.png)
 
-Ejecute un paso para **cambiar el valor** de los datos como se muestra a continuación en una o varias personas.
+Ejecute un paso de flujo **Cambiar valor de datos** como se muestra a continuación en una o varias personas.
 
 ![](assets/three.png)
 
@@ -55,7 +55,7 @@ De la misma manera que una cancelación de suscripción haría que todas las per
 
 ## Registro de actividades {#activity-log}
 
-Valor de los datos Las definiciones de cambio para *updateLeadEmailStatus* y *resetLeadEmailStatus* se encuentran en [este artículo](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)de la comunidad.
+Las definiciones de cambio de valor de datos para *updateLeadEmailStatus* y *resetLeadEmailStatus* se encuentran en [este artículo de comunidad](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
