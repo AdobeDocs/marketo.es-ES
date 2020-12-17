@@ -17,7 +17,7 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 ## Paso 1: Iniciar sesión en Marketing {#step-log-in-to-marketo}
 
-1. [Inicie sesión en Marketing](https://app.marketo.com) con las credenciales que recibió por correo electrónico.
+1. [Inicie sesión en ](https://app.marketo.com) Marketing mediante las credenciales recibidas por correo electrónico.
 
    ![](assets/one.png)
 
@@ -25,11 +25,11 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 Vamos a crear una carpeta para guardar todo lo que harás en las misiones.
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/two.png)
 
-1. Haga clic en la lista desplegable **Nueva** y seleccione **Nueva carpeta** de campaña.
+1. Haga clic en la lista desplegable **Nuevo** y seleccione **Nueva carpeta de campaña**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
@@ -41,11 +41,11 @@ Vamos a crear una carpeta para guardar todo lo que harás en las misiones.
 
    ![](assets/image2014-9-24-10-3a54-3a9.png)
 
-## Paso 3: Añade como persona {#step-add-yourself-as-a-person}
+## Paso 3: Añada usted mismo como una persona {#step-add-yourself-as-a-person}
 
 Añada usted mismo como una persona en Marketing para poder enviarse correos electrónicos de prueba más adelante.
 
-1. Vaya al área **Base de datos** .
+1. Vaya al área **Base de datos**.
 
    ![](assets/db.png)
 
@@ -61,11 +61,11 @@ Añada usted mismo como una persona en Marketing para poder enviarse correos ele
 
    ![](assets/nine.png)
 
-1. Haga clic en la ficha **Personas** . Deberías verte en la base de datos.
+1. Haga clic en la ficha **Personas**. Deberías verte en la base de datos.
 
    ![](assets/ten.png)
 
-## Configuración completada {#set-up-complete}
+## Configuración completa {#set-up-complete}
 
 ¡Estás listo para empezar tu primera misión!
 
