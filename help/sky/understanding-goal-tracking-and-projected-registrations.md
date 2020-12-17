@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Después de [establecer objetivos](/help/sky/setting-event-goals.md)de evento y enviar invitaciones a través de una campaña [](/help/sky/create-a-smart-campaign.md)inteligente, aquí se muestra cómo rastrear el progreso de su objetivo y comprender las predicciones de Marketing.
+Después de [configurar los objetivos de evento](/help/sky/setting-event-goals.md) y enviar invitaciones a través de una [campaña inteligente](/help/sky/create-a-smart-campaign.md), se explica cómo rastrear el progreso de su objetivo y comprender las predicciones de Marketing.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Después de [establecer objetivos](/help/sky/setting-event-goals.md)de evento y 
 
    ![Imagen uno](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-También verá los registros **[!UICONTROL proyectados]** . Pase el ratón sobre el icono de información para ver un desglose de este número por segmento de probabilidad.
+También verá los registros **[!UICONTROL Proyectados]**. Pase el ratón sobre el icono de información para ver un desglose de este número por segmento de probabilidad.
 
 ![Imagen dos](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,7 +44,7 @@ Todos los miembros (registrados y aún no registrados) se clasifican según la p
 
 >[!NOTE]
 >
->Los números de predicción se actualizan cada 24 horas hasta el día del evento. Los miembros que se incluyan como _Procesamiento_ se incluirán en el siguiente ciclo de cálculo.
+>Los números de predicción se actualizan cada 24 horas hasta el día del evento. Todos los miembros que se incluyan como _Procesamiento_ se incluirán en el siguiente ciclo de cálculo.
 
 ## Programas similares
 
@@ -69,7 +69,7 @@ En la parte superior de la página Informes, puede encontrar recomendaciones dir
 
 ## predicciones de nivel de persona
 
-Haga clic en la ficha **[!UICONTROL Miembros]** para vista de todos los miembros del programa. Pase el ratón sobre las barras de probabilidad **[!UICONTROL de]** registro o probabilidad de **[!UICONTROL asistencia]** para ver los porcentajes y las categorías exactos. A continuación, puede realizar acciones en los miembros de una categoría en particular (por ejemplo, todos los miembros de la categoría &quot;Menos probable&quot; para registrar) y, específicamente, destinatarios para aumentar potencialmente sus números de registro.
+Haga clic en la ficha **[!UICONTROL Miembros]** para vista de todos los miembros del programa. Pase el ratón sobre las barras **[!UICONTROL Probabilidad de registro]** o **[!UICONTROL Probabilidad de asistencia]** para ver los porcentajes y las categorizaciones exactos. A continuación, puede realizar acciones en los miembros de una categoría en particular (por ejemplo, todos los miembros de la categoría &quot;Menos probable&quot; para registrar) y, específicamente, destinatarios para aumentar potencialmente sus números de registro.
 
 ![Imagen siete](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Ponemos los valores de probabilidad en tres segmentos:
 * Probabilidad de registrar >25% a &lt;50% = Segmento probable
 * Probabilidad de registrar &lt;25% = segmento menos probable
 
-Cuando una persona tiene la probabilidad de registrarse, la predicción caerá en uno de estos segmentos (toda persona que sea miembro de un programa caerá en uno de ellos). Por ejemplo, si un programa de evento tiene 1000 miembros en función de las predicciones de probabilidad, esos 1000 se distribuirían en segmentos _con alta probabilidad_, _probabilidad_ o _menos probabilidad_ .
+Cuando una persona tiene la probabilidad de registrarse, la predicción caerá en uno de estos segmentos (toda persona que sea miembro de un programa caerá en uno de ellos). Por ejemplo: si un programa de evento tiene 1000 miembros en base a las predicciones de probabilidad, esos 1000 se distribuirían en _Segmentos con alta probabilidad_, _probable_ o _menos probable_.
 
 Por lo tanto, las personas que se incluyen en el segmento Muy probable tendrán una mayor posibilidad de registrarse para el evento.
 
@@ -117,9 +117,9 @@ v. En cualquier momento, si desea comprender por qué se muestra un número proy
 
 A: Tres barras, cada una que representa un segmento (Muy probable, Probable, Menos probable).
 
-**Línea de puntos púrpura:** Tasa media de conversión al registro en ese segmento, según programas similares anteriores.
+**Línea con puntos púrpura:** tasa de conversión promedio al registro en ese segmento, según programas similares anteriores.
 
-**Barra azul:** Porcentaje de registro de todas las personas de ese segmento.
+**Barra azul: porcentaje** de registro de todas las personas de ese segmento.
 
 ![Imagen nueve](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-9.png)
 
