@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al realizar cambios importantes en la configuración de la sincronización o del campo, debe deshabilitar la sincronización mientras configura. Así es como:
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
