@@ -23,7 +23,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando finalice la prueba, en
 
 
 
-1. En el editor de pruebas de correo electrónico, seleccione Línea **de** asunto en la lista desplegable **Tipo de prueba **desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Línea de asunto** en la lista desplegable **Tipo de prueba **desplegable.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -31,7 +31,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando finalice la prueba, en
    >
    >En una prueba de sujeto, la primera línea de asunto introducida se designa como **Campeón**. Las líneas de asunto subsiguientes se denominan **Desafíos**.
 
-1. Introduzca la(s) línea(s) de asunto(s) de los **Desafíos**.
+1. Introduzca las líneas de asunto para los **Desafíos**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -50,7 +50,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando finalice la prueba, en
    >
    >En la distribución mostrada arriba, el 10% de la audiencia total especificada en la lista inteligente obtiene uno de los correos electrónicos con la línea de asunto del aspirante y el 90% recibe correos electrónicos con la línea de asunto del campeón. Los correos electrónicos con varias líneas temáticas de aspirante comparten el 10 % por igual. Una vez finalizada la prueba, puede declarar un ganador manualmente. A partir de entonces, todas las personas futuras recibirán el contenido con mejor rendimiento.
 
-   Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluye suficientes personas, de modo que la prueba sea válida. No te engañes con resultados inconclusos.  [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval)estadística.
+   Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluye suficientes personas, de modo que la prueba sea válida. No te engañes con resultados inconclusos.  [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval) estadística.
 
 1. Haga clic en **Siguiente**.
 
