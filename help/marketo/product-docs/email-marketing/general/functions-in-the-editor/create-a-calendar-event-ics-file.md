@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Un token de archivo de calendario permite agregar un vínculo de evento de calendario (.ics) a los correos electrónicos y páginas de aterrizaje de marketing.
 
-1. Dentro de tu programa, ve a la ficha **Mis tokens** .
+1. Dentro del programa, vaya a la ficha **Mis tokens**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Arrastre un token de archivo **de** calendario al lienzo.
+1. Arrastre un token **Archivo de calendario** al lienzo.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Introduzca un nombre **de token** y **edite**.
+1. Escriba un **Nombre del token** y **Editar**.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
