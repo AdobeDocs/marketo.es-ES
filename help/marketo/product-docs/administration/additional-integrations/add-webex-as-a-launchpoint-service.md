@@ -37,15 +37,15 @@ Marketo administra el registro y la asistencia a los seminarios WebEx.
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. Seleccione **Nuevo** y, a continuación, **Nuevo servicio**.
+1. Seleccione **Nuevo** y luego **Nuevo servicio**.
 
    ![](assets/webex-new-service.png)
 
-1. Introduzca un **nombre** para mostrar. En **Servicio**, seleccione **WebEx**.
+1. Escriba un **Nombre para mostrar**. En **Servicio**, seleccione **WebEx**.
 
    ![](assets/new-service-webex.png)
 
-1. Introduzca su **nombre de usuario** y **contraseña**.
+1. Escriba su **Nombre de usuario** y **Contraseña**.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
@@ -59,5 +59,5 @@ Marketo administra el registro y la asistencia a los seminarios WebEx.
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear un evento con WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Obtenga información sobre cómo [crear un evento con WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
 
