@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >Se requiere el permiso de acceso a aplicaciones móviles. Póngase en contacto con el administrador de marketing para [actualizar su función](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Introducción de momentos {#introducing-moments}
+## Introducción a Momentos {#introducing-moments}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
 
@@ -45,7 +45,7 @@ Aquí están los diferentes flujos en Moments.
 
 Bien, ahora que lo hemos sacado del camino, vamos a echar un vistazo a Marketo Moments por teléfono!
 
-## Tres clases de tarjetas {#three-kinds-of-cards}
+## Tres tipos de tarjetas {#three-kinds-of-cards}
 
 Momentos de marketing le ofrece tres tarjetas diferentes para seguir el progreso de su correo electrónico:
 
@@ -53,11 +53,11 @@ Momentos de marketing le ofrece tres tarjetas diferentes para seguir el progreso
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**latido** del corazón - Hey - este correo electrónico está siendo enviado ahora! Y aquí también hay estadísticas. Adelante y compártalo.
+**latido** - Hey - este correo electrónico se está enviando ahora! Y aquí también hay estadísticas. Adelante y compártalo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultados** : Así fue el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
+**Resultados** : Así es como lo hizo el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -105,11 +105,11 @@ En la sección Más adelante se muestran las próximas actividades.
 
    >[!NOTE]
    >
-   >Según el [Libro Guinness de Récords](http://www.guinnessworldrecords.com/world-records/largest-hamburger)Mundiales, la hamburguesa más grande del mundo pesaba 2014 libras.
+   >Según el [Libro Guinness de Récords Mundiales](http://www.guinnessworldrecords.com/world-records/largest-hamburger), la hamburguesa más grande del mundo pesaba 2.014 libras.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Toque **Más Tarde**.
+1. Toque **Más adelante**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -129,7 +129,7 @@ Para eventos, verá el número total de miembros y su estado.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
-## Tarjetas de Analytics {#analytics-cards}
+## Tarjetas de análisis {#analytics-cards}
 
 Las tarjetas de momento de Analytics muestran el rendimiento mensual de sus correos electrónicos y eventos durante los últimos seis meses, para:
 
@@ -147,7 +147,7 @@ Las tarjetas de campaña inteligentes representan una sola ejecución de una cam
 
 ## Confirmar o cancelar una acción {#confirm-or-cancel-an-action}
 
-Cada paso del camino, puede confirmar o cancelar una acción. Si cambias de opinión, toca **Nunca importa**.
+Cada paso del camino, puede confirmar o cancelar una acción. Si cambia de opinión, toque **No importa**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -164,7 +164,7 @@ Cada paso del camino, puede confirmar o cancelar una acción. Si cambias de opin
 
 
 
-## Versiones admitidas  {#supported-versions}
+## Versiones admitidas {#supported-versions}
 
 Marketo Moments admite estas versiones del sistema operativo:
 
