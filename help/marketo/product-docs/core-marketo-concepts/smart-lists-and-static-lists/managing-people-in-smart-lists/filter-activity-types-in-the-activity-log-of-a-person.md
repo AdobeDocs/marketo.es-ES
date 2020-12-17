@@ -19,19 +19,19 @@ Busque actividades que le importen más en el registro de actividades.
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre [el registro](locate-the-activity-log-for-a-person.md)de actividades.
+>Obtenga más información sobre [el registro de actividades](locate-the-activity-log-for-a-person.md).
 
-1. Vaya a la página Detalles de **persona** . Haga clic en la ficha Registro **de** Actividades.
+1. Vaya a la página **Detalles de la persona**. Haga clic en la ficha **Registro de Actividad**.
 
    ![](assets/one.png)
 
-1. Seleccione la lista desplegable **Filtro** .
+1. Seleccione la lista desplegable **Filtro**.
 
    ![](assets/two-3.png)
 
 ## Creación de Filtros personalizados {#creating-custom-filters}
 
-1. Haga clic en la lista desplegable **Filtro** . Seleccione **Personalizado**.
+1. Haga clic en la lista desplegable **Filtro**. Seleccione **Personalizado**.
 
    ![](assets/three-3.png)
 
@@ -39,7 +39,7 @@ Busque actividades que le importen más en el registro de actividades.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Introduzca un nombre **de filtro** personalizado. Haga clic en **Guardar**.
+1. Escriba un **nombre de filtro personalizado**. Haga clic en **Guardar**.
 
    ![](assets/five-1.png)
 
@@ -49,13 +49,13 @@ Busque actividades que le importen más en el registro de actividades.
 
 ## Filtros guardados de referencia {#reference-saved-filters}
 
-Se puede acceder a los filtros guardados desde la lista desplegable **Filtro** .
+Se puede acceder a los filtros guardados desde la lista desplegable **Filter**.
 
-1. Haga clic en la lista desplegable **Filtros** . Seleccione **Personalizado**.
+1. Haga clic en la lista desplegable **Filtros**. Seleccione **Personalizado**.
 
    ![](assets/seven-1.png)
 
-1. Haga clic en **Filtros** guardados. Los filtros guardados se enumeran a continuación.
+1. Haga clic en **Filtros guardados**. Los filtros guardados se enumeran a continuación.
 
    ![](assets/eight.png)
 
