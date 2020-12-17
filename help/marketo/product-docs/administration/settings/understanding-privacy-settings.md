@@ -22,19 +22,19 @@ Marketing proporciona a los especialistas en mercadotecnia una manera de obtener
 
 O bien, el especialista en mercadotecnia puede realizar el seguimiento de los usuarios, pero puede utilizar una IP anónima.
 
-Estos métodos pueden afectar al valor y la funcionalidad de Marketing en áreas específicas. Sin embargo, si el especialista en mercadotecnia *no* cambia nada en la configuración de Marketing, la funcionalidad de Marketing permanece igual.
+Estos métodos pueden afectar al valor y la funcionalidad de Marketing en áreas específicas. Sin embargo, si el especialista en mercadotecnia *no cambia nada en la configuración de Marketing, la funcionalidad de Marketing sigue siendo la misma.*
 
-## Configuración del explorador para No rastrear {#browser-settings-for-do-not-track}
+## Configuración del explorador para no rastrear {#browser-settings-for-do-not-track}
 
 Los visitantes Web pueden configurar su explorador para evitar el seguimiento por cualquier sitio Web seleccionando &quot;No rastrear&quot; (DNT). Esto evita el seguimiento de este navegador y dispositivo en particular. Consulte la configuración de privacidad del explorador para obtener más información.
 
-En Munchkin, un especialista en mercadotecnia puede [decidir si admite o ignora la configuración](edit-do-not-track-browser-support-settings.md)de DNT del navegador.
+En Munchkin, un especialista en mercadotecnia puede [decidir si admite o ignora la configuración de DNT del explorador](edit-do-not-track-browser-support-settings.md).
 
-En Personalización web, un especialista en mercadotecnia puede decidir si [admite o ignora la configuración](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)de DNT del explorador.
+En Personalización web, un especialista en mercadotecnia puede decidir si [admite o ignora la configuración de DNT del explorador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
-## exclusión desde un sitio web específico {#opt-out-from-a-specific-website}
+## exclusión desde un sitio Web específico {#opt-out-from-a-specific-website}
 
-También puede permitir que los visitantes del sitio exclusión el seguimiento del sitio web desde el sitio web, independientemente de si se ha configurado o no la configuración **del explorador No rastrear** . Esto permite al visitante del sitio especificar sus preferencias de seguimiento directamente desde el sitio web.
+También puede permitir que los visitantes del sitio exclusión el seguimiento del sitio web desde el sitio web, independientemente de si **El explorador no realiza el seguimiento** está configurado o no. Esto permite al visitante del sitio especificar sus preferencias de seguimiento directamente desde el sitio web.
 
 Para ello, debe agregar un parámetro a un vínculo exclusión en una página web que tenga habilitado el seguimiento de munchkin. Puede ser cualquier página web, pero el vínculo de la página web debe contener el siguiente parámetro:
 
@@ -52,7 +52,7 @@ Puede crear y publicar una página de aterrizaje como una página de seguimiento
 
 Cuando se hace clic en el vínculo, Marketo agrega una cookie llamada **mkto_opt_out** al explorador del visitante que deshabilita el seguimiento de Munchkin para el visitante del sitio que hace clic en el vínculo con el parámetro anterior.
 
-Para validar que la cookie se puede plantar, verifique que es un lead de cookie y haga clic en el vínculo. A continuación, compruebe las cookies del explorador para comprobar que se agregó la **cookie mkto_opt_out** .
+Para validar que la cookie se puede plantar, verifique que es un lead de cookie y haga clic en el vínculo. A continuación, compruebe las cookies del explorador para verificar que se agregó la cookie **mkto_opt_out**.
 
 ![](assets/opt-out-3.png)
 
@@ -72,7 +72,7 @@ Los especialistas en marketing pueden preservar la privacidad rastreando a los u
 
    >[!NOTE]
    >
-   >El uso de este parámetro requiere que Munchkin V2 esté habilitado. Para habilitarla para su suscripción, póngase en contacto con la asistencia técnica [de marketing](http://nation.marketo.com/community/support_solutions).
+   >El uso de este parámetro requiere que Munchkin V2 esté habilitado. Para habilitarla para su suscripción, póngase en contacto con [Asistencia técnica de marketing](http://nation.marketo.com/community/support_solutions).
 
 * En Personalización web (RTP), agregue esto a javascript:
 
