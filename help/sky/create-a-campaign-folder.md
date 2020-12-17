@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y irá camino a la magia de la automatización.
 
-1. Haga clic con el botón derecho en el globo del espacio de trabajo o en una carpeta existente y seleccione **[!UICONTROL Nueva carpeta]** de campaña.
+1. Haga clic con el botón derecho en el globo del espacio de trabajo o en una carpeta existente y seleccione **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![Imagen uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
