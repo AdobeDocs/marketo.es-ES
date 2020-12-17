@@ -19,7 +19,7 @@ Suceden cosas. En ocasiones, es necesario descargar el registro de actividades p
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Busque el servicio Google AdWords y haga clic en **Descargar registro** de Actividades.
+1. Busque el servicio Google AdWords y haga clic en **Descargar registro de Actividades**.
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
