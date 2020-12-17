@@ -19,7 +19,7 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    ![](assets/db-1.png)
 
-1. Haga clic en **Nuevo** y seleccione **Importar datos** de objeto personalizados.
+1. Haga clic en **Nuevo** y seleccione **Importar datos de objeto personalizados**.
 
    ![](assets/image2016-4-7-10-6-54.png)
 
@@ -37,7 +37,7 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    >[!NOTE]
    >
-   >Utilice los campos Desduplicación como identificadores únicos al crear o actualizar registros de objetos personalizados. En este ejemplo se utiliza el campo Dedupe del objeto personalizado **car** : vin (número de identificación del vehículo). Si solo está actualizando registros de objetos personalizados, puede seleccionar la Guía de marketing como modo de depuración.
+   >Utilice los campos Desduplicación como identificadores únicos al crear o actualizar registros de objetos personalizados. En este ejemplo se utiliza el campo Dedupe del objeto personalizado **car** vin (número de identificación del vehículo). Si solo está actualizando registros de objetos personalizados, puede seleccionar la Guía de marketing como modo de depuración.
 
 1. Asigne cada columna a un campo de marketing, seleccionándolo en la lista desplegable.
 
@@ -61,7 +61,7 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    >[!TIP]
    >
-   >Escriba su dirección de correo electrónico en **Enviar alerta a:** y Marketing le enviarán un correo electrónico cuando finalice la importación.
+   >Escriba su dirección de correo electrónico en el campo **Enviar alerta a:** y Marketing le enviará un correo electrónico cuando finalice la importación.
 
 1. En la esquina superior derecha de la pantalla, verá una notificación mientras se ejecuta la importación y los resultados finales cuando se complete.
 
