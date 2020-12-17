@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Puede combinar valores de varios campos o generar un valor condicional mediante un campo Fórmula de marketing.
 
-1. Vaya a **Administración** y haga clic en Administración **de campos**.
+1. Vaya a **Administración** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
-1. Haga clic en **Nuevo campo** personalizado.
+1. Haga clic en **Nuevo campo personalizado**.
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Seleccione **Fórmula** para el **tipo**.
+1. Seleccione **Fórmula** para el **Tipo**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Escriba un **nombre** para el campo y haga clic en **Crear**.
+1. Escriba un **Nombre** para el campo y haga clic en **Crear**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
-1. Busque y seleccione el campo de fórmula y, a continuación, haga clic en **Editar reglas**.
+1. Busque y seleccione el campo de fórmula y haga clic en **Editar reglas**.
 
    ![](assets/image2014-9-19-9-3a46-3a13.png)
 
@@ -39,7 +39,7 @@ Puede combinar valores de varios campos o generar un valor condicional mediante 
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Obtenga más información sobre [los tokens para los pasos](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)de flujo.
+   Obtenga más información sobre [tokens para los pasos de flujo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Ahora puede agregar el campo de fórmula como token en un correo electrónico.
 
