@@ -17,9 +17,9 @@ Las siguientes funciones se incluyen en la versión de agosto de 2014. Compruebe
 
 ## Licencias del calendario de mercadotecnia {#marketing-calendar-licenses}
 
-A partir del 5 de septiembre de 2014, solo 5 usuarios pueden tener acceso gratuito al calendario de marketing. Asegúrese de [emitir/revocar una licencia](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) de calendario de marketing a los usuarios que desee antes de ese momento para obtener acceso sin interrupciones.
+A partir del 5 de septiembre de 2014, solo 5 usuarios pueden tener acceso gratuito al calendario de marketing. Asegúrese de [Publicar/Revocar una licencia del calendario de mercadotecnia](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) a los usuarios de su elección antes de hacerlo para obtener acceso sin interrupciones.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nuevos permisos de usuario {#new-user-permissions}
 
@@ -33,9 +33,9 @@ Se agregaron los siguientes permisos de usuario nuevos:
 | Activar Campaña de activador | Controlar quién puede y quién no puede activar campañas desencadenadoras. |
 | Programar Campaña por lotes | Controlar quién puede y quién no puede programar ejecuciones de campaña por lotes. |
 
-## Exportar usuarios y funciones desde el administrador {#export-users-and-roles-from-admin}
+## Exportar usuarios y roles desde el administrador {#export-users-and-roles-from-admin}
 
-Ahora puede [exportar una Lista de usuarios y funciones](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketing. También puede incluir una marca de hora &quot;Último inicio de sesión&quot; en la exportación.
+Ahora puede [Exportar una Lista de usuarios y funciones](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketing. También puede incluir una marca de hora &quot;Último inicio de sesión&quot; en la exportación.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ Para mejorar la capacidad de entrega, todos los correos electrónicos salientes 
 >
 >DKIM se implementará lentamente, puede que no lo vea durante unas semanas.
 
-## Actualizaciones de personalización en tiempo real {#real-time-personalization-updates}
+## Actualizaciones de Personalización en tiempo real {#real-time-personalization-updates}
 
 Hemos agregado etiquetas a la página de campaña para que pueda etiquetar el contenido de sus corazones.
 
