@@ -20,6 +20,6 @@ Los iconos del árbol pueden proporcionarle mucha información sobre sus campañ
 
 ## Carga bajo demanda
 
-Un icono de carpeta vacío indica que la carpeta contiene recursos que no se han modificado dentro del intervalo [de fechas](/help/sky/configuring-the-tree.md) seleccionado y que, por lo tanto, están ocultos. Para vista de estos recursos, coloque el puntero sobre el icono de carpeta, que cambiará al icono de actualización que se muestra a continuación. Haga clic en para actualizar y cargar todos los recursos.
+Un icono de carpeta vacío indica que la carpeta contiene recursos que no se han modificado dentro del [intervalo de fechas seleccionado](/help/sky/configuring-the-tree.md) y que, por lo tanto, están ocultos. Para vista de estos recursos, coloque el puntero sobre el icono de carpeta, que cambiará al icono de actualización que se muestra a continuación. Haga clic en para actualizar y cargar todos los recursos.
 
 ![Imagen dos](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-2.png)
