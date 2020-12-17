@@ -41,7 +41,7 @@ Los especialistas en mercadotecnia buscan crear experiencias de cliente que se s
 La manera en que los especialistas en mercadotecnia abordan estas mayores expectativas en cuanto a la recopilación, el uso y la seguridad de los datos personales que se utilizan habitualmente en el curso de su trabajo es clave, y Marketing puede ayudar a satisfacer esas expectativas.\
 Existen dos aspectos clave del RGPD en los que los especialistas en mercadotecnia deben revisar las prácticas pasadas, actuales y futuras. El primero es el consentimiento del individuo para procesar sus datos personales, y el segundo es la rendición de cuentas, es decir, poder demostrar cómo se siguen los principios del RGPD.
 
-Proporcionamos amplia información sobre el consentimiento y la rendición de cuentas dentro de la plataforma de Marketing en nuestro libro electrónico, [RGPD y The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). En este artículo, sin embargo, nos centraremos específicamente en las nuevas funciones de Marketing Cloud Sales Connect que ayudarán a su organización a adherirse a las reglas de RGPD.
+Proporcionamos amplia información sobre el consentimiento y la rendición de cuentas dentro de la plataforma de Marketing en nuestro libro electrónico, [GDPR y The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). En este artículo, sin embargo, nos centraremos específicamente en las nuevas funciones de Marketing Cloud Sales Connect que ayudarán a su organización a adherirse a las reglas de RGPD.
 
 ## Cumplimiento del RGPD en MarketingTo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -118,7 +118,7 @@ Después de seleccionar el tipo de origen correcto para los contactos selecciona
 
 ![](assets/12.png)
 
-## Exportación de datos de contacto desde MarketingTo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
+## Exportación de datos de contacto de Marketing a Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
 Puede exportar la información de contacto desde la Vista Detalles de persona. La exportación descargará un archivo .CSV con las siguientes columnas:
 
@@ -166,20 +166,20 @@ Puede exportar la información de contacto desde la Vista Detalles de persona. L
 >
 >Esto sólo se puede hacer de uno en uno. Actualmente no existe ninguna funcionalidad que permita la exportación masiva de contactos.
 
-Para exportar la información de contacto, haga clic en los tres puntos verticales del encabezado de Vista de detalles de persona y seleccione **Exportar**. El archivo .CSV se descargará automáticamente.   ![](assets/thirteen.png)
+Para exportar la información de contacto, haga clic en los tres puntos verticales del encabezado de Vista de detalles de la persona y seleccione **Exportar**. El archivo .CSV se descargará automáticamente.   ![](assets/thirteen.png)
 
 >[!NOTE]
 >
 >El RGPD también requiere la capacidad de eliminar contactos de la interfaz de usuario, pero MarketingTo Sales Connect ya posee esta funcionalidad.
 
-## Cancelar suscripciones {#unsubscribes}
+## Anula la suscripción {#unsubscribes}
 
 Una esfera del RGPD que se suele malinterpretar incluye los contactos que se cancelan de la base de datos de la organización. Para cumplir las nuevas reglas de protección de datos de quienes decidan cancelar la suscripción, se ha incluido la siguiente funcionalidad en Marketingto Sales Connect:
 
-**Cancelar suscripción de vínculos:** Los vínculos de cancelación de suscripción se anexarán automáticamente a todos los correos electrónicos enviados desde la aplicación web de Sales Connect para garantizar que los contactos tengan una forma accesible de desactivar la suscripción.\
-**Cancelar la suscripción de la sincronización:** Los usuarios pueden sincronizar las cancelaciones de suscripción con y desde su CRM (Salesforce) para garantizar que las exclusiones estén actualizadas.\
-**Historial de cancelación de suscripción:** Los usuarios pueden ver las exclusiones y las exclusiones históricas en la Vista Detalles de la persona.\
-**Eliminar cancelación de suscripción:** Para volver a seleccionar un contacto no suscrito, es necesario que el usuario tenga privilegios de administrador y que demuestre que el contacto ha dado un nuevo consentimiento para ponerse en contacto con ellos.
+**Vínculos de cancelación de suscripción:los vínculos de** cancelación de suscripción se anexarán automáticamente a todos los mensajes de correo electrónico enviados desde la aplicación web de Sales Connect para garantizar que los contactos tengan una forma accesible de desactivar la suscripción.\
+**Cancelar suscripción Sincronización:** los usuarios pueden sincronizar las cancelaciones de suscripción con y desde su CRM (Salesforce) para garantizar que las notificaciones de exclusión estén actualizadas.\
+**Historial de cancelación de suscripciones:** los usuarios pueden ver las exclusiones y las exclusiones históricas en la Vista Detalles de la persona.\
+**Eliminación de la cancelación de la suscripción:** para volver a seleccionar un contacto no suscrito, el usuario debe tener privilegios de administrador y demostrar que el contacto ha dado un nuevo consentimiento para ponerse en contacto con ellos.
 
 ## Actualizaciones futuras {#future-updates}
 
