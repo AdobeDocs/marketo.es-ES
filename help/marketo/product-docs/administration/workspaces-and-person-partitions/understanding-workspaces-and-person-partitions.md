@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Explicación de los espacios de trabajo y las particiones personales {#understanding-workspaces-and-person-partitions}
 
-## Workspaces {#workspaces}
+## Espacios de trabajo {#workspaces}
 
 >[!CAUTION]
 >
->Los espacios de trabajo pueden ser complejos de configurar.  Póngase en contacto con [la asistencia técnica](http://support.marketo.com/) de marketing para averiguar si son adecuados para usted.
+>Los espacios de trabajo pueden ser complejos de configurar.  Póngase en contacto con [Soporte técnico de marketing](http://support.marketo.com/) para averiguar si son los correctos para usted.
 
 Los espacios de trabajo son áreas independientes en Marketing que contienen recursos de marketing como programas, páginas de aterrizaje, correos electrónicos y más. Pueden ser usadas por varias personas. Cada usuario tiene acceso a uno o varios espacios de trabajo.
 
@@ -40,7 +40,7 @@ En cada caso, la separación se debe a que los recursos de marketing son complet
 >
 >Obtenga información sobre cómo crear [un nuevo espacio de trabajo](create-a-new-workspace.md).
 
-## Uso compartido en espacios de trabajo {#sharing-across-workspaces}
+## Uso compartido entre espacios de trabajo {#sharing-across-workspaces}
 
 A continuación se muestra cómo compartir recursos entre espacios de trabajo. Funciona igual para cualquier cosa que quieras compartir; este ejemplo muestra las segmentaciones.
 
@@ -95,7 +95,7 @@ Para los recursos que no son plantillas, es mejor clonar los recursos como recur
 >
 >Al clonar recursos que tienen plantillas, estas plantillas deben compartirse con el espacio de trabajo de destino.
 
-## Desplazamiento de recursos a otros espacios de trabajo {#moving-assets-to-other-workspaces}
+## Mover recursos a otros espacios de trabajo {#moving-assets-to-other-workspaces}
 
 Para mover recursos a un nuevo espacio de trabajo, colóquelos en una carpeta y arrastre la carpeta al otro espacio de trabajo.
 
@@ -105,9 +105,9 @@ Para mover recursos a un nuevo espacio de trabajo, colóquelos en una carpeta y 
 
 ## Particiones de persona {#person-partitions}
 
-Las particiones personales actúan como bases de datos separadas. Cada partición tiene su propia gente que no desduplica ni combina con otras particiones. Si cree que tiene un caso de uso comercial que puede requerir tener registros de duplicados con la misma dirección de correo electrónico, póngase en contacto con la asistencia técnica [de marketing](http://support.marketo.com).
+Las particiones personales actúan como bases de datos separadas. Cada partición tiene su propia gente que no desduplica ni combina con otras particiones. Si cree que tiene un caso de uso comercial que puede requerir tener registros de duplicados con la misma dirección de correo electrónico, póngase en contacto con [Asistencia técnica de marketing](http://support.marketo.com).
 
-Puede asignar particiones de persona a [espacios](create-a-new-workspace.md) de trabajo en las siguientes configuraciones:
+Puede asignar particiones de persona a [espacios de trabajo](create-a-new-workspace.md) en las siguientes configuraciones:
 
 * partición de un espacio de trabajo a una persona (1:1)
 * un espacio de trabajo para muchas particiones personales (1:x)
@@ -134,5 +134,5 @@ Puede asignar particiones de persona a [espacios](create-a-new-workspace.md) de 
 >
 >**Buceo profundo**
 >
-> Aprenda a [crear una partición](create-a-person-partition.md)de persona.
+> Obtenga información sobre cómo [crear una partición de persona](create-a-person-partition.md).
 
