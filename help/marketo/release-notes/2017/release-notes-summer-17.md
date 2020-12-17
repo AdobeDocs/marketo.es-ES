@@ -35,17 +35,17 @@ Garantice la coherencia del contenido y del mensaje evitando que se editen las p
 
 Haga coincidir a las personas con los nombres de compañías en japonés en el idioma local.
 
-** Integración de [ABM y LeanData](https://docs.marketo.com/x/pKmt)**
+** [Integración de ABM y LeanData](https://docs.marketo.com/x/pKmt)**
 
 La integración de LeanData ahora permite la coincidencia de cliente potencial a cuenta en Marketing. Mantenga la alineación de ventas y mercadotecnia al tener los mismos posibles clientes asociados con las cuentas dentro de los sistemas de ventas y mercadotecnia de registro. Las opciones más flexibles proporcionan a las operaciones de mercadotecnia y ventas más control sobre las reglas de coincidencia de cliente potencial a cuenta, de modo que pueden lograr el nivel de precisión deseado.
 
-## Mejoras en la personalización de la Web {#web-personalization-enhancements}
+## Mejoras en la personalización de Web {#web-personalization-enhancements}
 
-** Mejoras en la Previsualización [de Campañas](https://docs.marketo.com/x/fQGa)**
+** [Mejoras en la Previsualización de Campañas](https://docs.marketo.com/x/fQGa)**
 
-Los profesionales de marketing ahora pueden garantizar que sus campañas web tengan un aspecto bueno en cualquier dispositivo *antes* de iniciarlas. Con estas mejoras, vea cómo se representarán sus campañas web en equipos de escritorio, dispositivos móviles y tablets. El nuevo complemento para Chrome también oferta previsualizaciones más coherentes y precisas.
+Los profesionales de mercadotecnia ahora pueden garantizar que sus campañas web tengan un aspecto bueno en cualquier dispositivo *antes de* iniciarlas. Con estas mejoras, vea cómo se representarán sus campañas web en equipos de escritorio, dispositivos móviles y tablets. El nuevo complemento para Chrome también oferta previsualizaciones más coherentes y precisas.
 
-** Mejoras [en la Campaña de utilidades](https://docs.marketo.com/x/KgNI)**
+** [Mejoras en la Campaña de utilidades](https://docs.marketo.com/x/KgNI)**
 
 Ya están disponibles nuevas opciones para Campañas de utilidades, entre las que se incluyen:
 
@@ -55,7 +55,7 @@ Ya están disponibles nuevas opciones para Campañas de utilidades, entre las qu
 
 ## Contenido`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics y sugerencias](https://docs.marketo.com/x/1BPG)**
+** [Contenido`<sup>AI </sup>`Análisis y sugerencias](https://docs.marketo.com/x/1BPG)**
 
 Aumente el retorno en la mercadotecnia de contenido con análisis más profundos y sugerencias de contenido con tecnología AI para aumentar la participación.** **Los análisis potentes muestran el rendimiento del contenido recomendado, incluidas las vistas populares, de tendencias y basadas en audiencias. También verá sugerencias para incluir contenido adicional.
 
