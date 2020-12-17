@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Instalación y configuración de la perspectiva de ventas de marketing en Microsoft Dynamics Online {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
+# Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics Online {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
 La perspectiva de ventas de marketing es una herramienta fantástica para dar a su equipo de ventas una &quot;ventana&quot; a la abundancia de datos que posee el equipo de mercadotecnia. A continuación se muestra cómo instalarlo y configurarlo en Microsoft Dynamics Online.
 
 >[!PREREQUISITES]
 >
->Complete la integración [de Marketing con Microsoft](http://docs.marketo.com/x/E4A2).
+>Complete la integración [de Marketing a Microsoft](http://docs.marketo.com/x/E4A2).
 >
->[Descargue la solución](http://docs.marketo.com/x/LoJo) correcta para su versión de Microsoft Dynamics CRM.
+>[Descargue la ](http://docs.marketo.com/x/LoJo) solución correcta para su versión de Microsoft Dynamics CRM.
 
 ## Importar solución {#import-solution}
 
 >[!NOTE]
 >
->Si está utilizando la interfaz unificada, antes del paso 1 a continuación, haga clic en el icono Configuración en la esquina superior derecha y seleccione Configuración **avanzada**.
+>Si está utilizando la interfaz unificada, antes del Paso 1 a continuación, haga clic en el icono Configuración en la esquina superior derecha y seleccione **Configuración avanzada**.
 
 1. En Microsoft Dynamics CRM, haga clic en **Configuración**.
 
@@ -75,7 +75,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para dar a 
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Publicar personalización**.
+1. Haga clic en **Personalización de publicación**.
 
    >[!NOTE]
    >
@@ -93,11 +93,11 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. En la sección Perspectiva de ventas, haga clic en **Editar configuración** de API.
+1. En la sección Perspectiva de ventas, haga clic en **Editar configuración de API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. Copie el host **de** marketing, la URL **de la** API y el ID **de usuario de la** API para utilizarlos en un paso posterior. Introduzca una clave secreta de API de su elección y haga clic en **Guardar**.
+1. Copie el **host de marketing**, **URL de API** y el **ID de usuario de API** para usarlos en un paso posterior. Introduzca una clave secreta de API de su elección y haga clic en **Guardar**.
 
    >[!CAUTION]
    >
@@ -107,7 +107,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    >[!NOTE]
    >
-   >Para que funcionen los campos siguientes se deben sincronizar con Marketing para que *tanto Posible cliente como Contacto* para la perspectiva de ventas:
+   >Los siguientes campos deben sincronizarse con Marketing para *Posible cliente y Contacto* para que Sales Insight funcione:
    >
    >    
    >    
@@ -123,7 +123,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. En **Configuración**, haga clic en **Configuración** de la API de marketing.
+1. En **Configuración**, haga clic en **Configuración de API de marketing**.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
@@ -145,7 +145,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/enable-two.png)
 
-1. Haga clic en **Activar sincronización**.
+1. Haga clic en **Habilitar sincronización**.
 
    ![](assets/enable-three.png)
 
@@ -153,11 +153,11 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/enable-four.png)
 
-1. Esto seleccionará *automáticamente* los campos MSI que se han deshabilitado anteriormente (Urgencia, Puntuación relativa y Prioridad). Simplemente haga clic en **Guardar** en en inicio para sincronizar datos.
+1. Esto *automáticamente* seleccionará los campos MSI que anteriormente estaban deshabilitados (Urgencia, Puntuación relativa y Prioridad). Simplemente haga clic en **Guardar** en para sincronizar datos de inicio.
 
    ![](assets/enable-five.png)
 
-## Definir acceso de usuario {#set-user-access}
+## Establecer acceso de usuario {#set-user-access}
 
 Por último, tiene que dar acceso a usuarios específicos para utilizar la Perspectiva de ventas de Marketing to.
 
@@ -173,7 +173,7 @@ Por último, tiene que dar acceso a usuarios específicos para utilizar la Persp
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 
-1. Seleccione los usuarios a los que desea dar acceso a la perspectiva de ventas y haga clic en **Administrar funciones**.
+1. Seleccione los usuarios a los que desea dar acceso a Sales Insight y haga clic en **Administrar funciones**.
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
