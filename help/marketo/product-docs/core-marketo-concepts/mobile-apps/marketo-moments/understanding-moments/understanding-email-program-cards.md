@@ -41,7 +41,7 @@ Después de enviar el correo electrónico, la tarjeta muestra otra información 
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toque **Confirmar **para terminar el trabajo, o **No importa** si tuvo una segunda opinión.
+1. Toque **Confirmar **para terminar el trabajo, o **No importa** si tuvo dudas.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -97,11 +97,11 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Vista previa de un correo electrónico {#previewing-an-email}
+## Vista preliminar de un mensaje de correo electrónico {#previewing-an-email}
 
 Haga clic con el botón derecho en una tarjeta de correo electrónico para previsualización.
 
-1. Toque Correo electrónico **de Previsualización**.
+1. Toque **Correo electrónico de Previsualización**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
