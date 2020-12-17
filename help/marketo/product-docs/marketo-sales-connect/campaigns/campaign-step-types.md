@@ -31,9 +31,9 @@ Redacte un nuevo correo electrónico o utilice una plantilla preexistente.
 
 >[!TIP]
 >
->Conozca los detalles sobre las opciones [de](http://docs.marketo.com/x/7QDb)envío.
+>Conozca los detalles sobre las [opciones de envío](http://docs.marketo.com/x/7QDb).
 
-## Llamada {#call}
+## Llamar a {#call}
 
 Configure un recordatorio para realizar un seguimiento con un contacto por teléfono. También puede guardar notas para utilizarlas como una pista de conversación durante la llamada.
 
