@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Eliminar o eliminar una URL de vínculo de entrada {#seo-remove-delete-an-inbound-link-url}
+# SEO - Eliminar/Eliminar una URL de vínculo de entrada {#seo-remove-delete-an-inbound-link-url}
 
 A veces querrá eliminar los vínculos entrantes. Así es como:
 
-1. Vaya a la sección Vínculos **de** entrada.
+1. Vaya a la sección **Vínculos de entrada**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
