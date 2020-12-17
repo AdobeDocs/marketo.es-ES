@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronización SFDC: Cola de posibles clientes {#sfdc-sync-lead-queue}
 
-Marketing permite agregar personas a las colas [de posibles clientes de](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) Salesforce para ayudar en la distribución de posibles clientes. Aquí están los detalles.
+Marketo le permite agregar personas a [colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ayudar con la distribución de posibles clientes. Aquí están los detalles.
 
 ## ¿Cómo asignar una persona a una cola de Marketing? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
