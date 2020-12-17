@@ -19,7 +19,7 @@ Cuando se lanza una nueva solución de Microsoft Dynamics para Sales Insight, pu
 >
 >**Se requieren permisos de administración**
 
-1. Vaya al área **Administración** .
+1. Vaya al área **Administración**.
 
    ![](assets/mainnavhand.png)
 
@@ -27,7 +27,7 @@ Cuando se lanza una nueva solución de Microsoft Dynamics para Sales Insight, pu
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Seleccione **Descargar solución** de marketing.
+1. Seleccione **Descargar solución de marketing**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
