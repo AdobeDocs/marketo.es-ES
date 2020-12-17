@@ -18,7 +18,7 @@ Instale fácilmente Call con MarketingTo Sales Connect, Enviar correo electróni
 1. Inicie sesión en [Salesforce.com.](http://Salesforce.com)
 1. Haga clic en **Personalizar**.
 1. Haga clic en **Posibles clientes**.
-1. Haga clic en Diseños **de página**.
+1. Haga clic en **Diseños de página**.
 1. Haga clic en **Editar **junto al diseño de posibles clientes al que desee agregar los botones.
 1. Haga clic en **Botones**.
 1. Arrastre y suelte los botones de conexión de ventas en la sección Detalles del posible cliente.
