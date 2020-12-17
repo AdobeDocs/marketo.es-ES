@@ -17,13 +17,13 @@ Si desea configurar una campaña inteligente por lotes para que se ejecute en al
 
 >[!TIP]
 >
->También puede [volver a programar una campaña inteligente por lotes en la vista](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)de calandario del programa.
+>También puede [volver a programar una campaña inteligente por lotes en la vista de calandario del programa](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
 1. Seleccione la campaña inteligente por lotes que desee ejecutar, vaya a la ficha **Programar** y haga clic en **Ejecutar una vez**.
 
    ![](assets/scheduledruns2.png)
 
-1. Haga clic en **Ejecutar más tarde** y, a continuación, haga clic en el icono del calendario y seleccione el día en que desea que se ejecute la campaña inteligente.
+1. Haga clic en **Ejecutar más tarde**, luego haga clic en el icono del calendario y seleccione el día en el que desea que se ejecute la campaña inteligente.
 
    ![](assets/runonce.png)
 
@@ -35,7 +35,7 @@ Si desea configurar una campaña inteligente por lotes para que se ejecute en al
 
    ![](assets/runoncetimesave.png)
 
-1. Para confirmar la ejecución programada, consulte la ficha **Programar** .
+1. Puede confirmar la ejecución programada consultando la ficha **Programar**.
 
    ![](assets/scheduledrunsbox.png)
 
