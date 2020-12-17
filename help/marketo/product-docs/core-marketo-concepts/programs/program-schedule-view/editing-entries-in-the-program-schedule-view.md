@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Edición de entradas en la Vista Calandario del programa {#editing-entries-in-the-program-schedule-view}
+# Edición de entradas en la Vista de Calandario del programa {#editing-entries-in-the-program-schedule-view}
 
 Puede realizar modificaciones en los distintos elementos del programa en la vista de programación.
 
@@ -21,7 +21,7 @@ Puede realizar modificaciones en los distintos elementos del programa en la vist
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Escriba un nuevo nombre y pulse **Intro/Retorno** en el teclado para confirmar el cambio.
+1. Escriba un nombre nuevo y presione **Intro/Retorno** en el teclado para confirmar el cambio.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
