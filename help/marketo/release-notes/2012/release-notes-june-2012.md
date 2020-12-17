@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para obtener otras versiones, consulte las notas de la [versión](http://docs.marketo.com/display/docs/release+notes) en profundidad.
+>Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Mejoras en la administración de posibles clientes de marketing {#marketo-lead-management-enhancements}
 
@@ -63,15 +63,15 @@ La adición de líneas de cuadrícula de página de aterrizaje facilita la aline
 
 ![](assets/image2014-9-23-10-3a24-3a33.png)
 
-## Posibles clientes bloqueados a partir de correos {#leads-blocked-from-mailings}
+## Posibles clientes bloqueados de correspondencia {#leads-blocked-from-mailings}
 
 Al programar una campaña, puede hacer clic en el vínculo para ver la lista de posibles clientes que están bloqueados en su correo.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Paso de espera: autentificador de posibles clientes y mi testigo {#wait-step-lead-token-and-my-token}
+## Paso de espera: autentificador de posibles clientes y mi autentificador {#wait-step-lead-token-and-my-token}
 
-En nuestra versión de mayo, agregamos opciones avanzadas al paso de flujo de espera. Con estos cambios, puede especificar un día hábil, una fecha y una hora. En esta versión, hemos agregado la capacidad de usar un token en el paso de espera. Por ejemplo: puede que desee usar `{{lead.Birthday}}` para enviar un correo electrónico el cumpleaños o `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
+En nuestra versión de mayo, agregamos opciones avanzadas al paso de flujo de espera. Con estos cambios, puede especificar un día hábil, una fecha y una hora. En esta versión, hemos agregado la capacidad de usar un token en el paso de espera. Por ejemplo: puede que desee utilizar `{{lead.Birthday}}` para enviar un mensaje de correo electrónico el cumpleaños o utilizar `{{my.Event Date}}` para enviar un recordatorio final de seminario Web.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
@@ -85,9 +85,9 @@ Nota: A partir de esta versión, la ordenación anterior de las cuadrículas de 
 
 Recordatorio: La actualización del informe Rendimiento del correo electrónico está en curso.
 
-## Mejoras en los análisis de ciclo de ingresos de marketing {#marketo-revenue-cycle-analytics-enhancements}
+## Mejoras en los análisis del ciclo de ingresos de marketing {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nuevas métricas en la Análisis de oportunidades de Programa  {#new-metrics-in-program-opportunity-analysis}
+### Nuevas métricas en la Análisis de oportunidades de Programa {#new-metrics-in-program-opportunity-analysis}
 
 Ahora puede obtener perspectivas sobre el número promedio de toques de mercadotecnia antes de crear o cerrar las oportunidades, así como el valor promedio de un toque de mercadotecnia.
 
@@ -101,13 +101,13 @@ La función de varios gráficos permite mostrar varios gráficos en un único in
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
-## Tipo de gráfico de cuadrícula de calor  {#heat-grid-chart-type}
+## Tipo de gráfico de cuadrícula de calor {#heat-grid-chart-type}
 
 Las cuadrículas térmicas le permiten visualizar datos para que pueda identificar patrones de rendimiento de Marketing. Este tipo de visualización codificará los resultados con colores para que pueda vista análisis empresarial compleja en una visualización fácil de entender.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
-## Tipo de gráfico de puntos  {#scatter-chart-type}
+## Tipo de gráfico de puntos {#scatter-chart-type}
 
 Los gráficos de puntos ayudan a visualizar datos en varias dimensiones en un gráfico. Este tipo de visualización trazará una burbuja en un gráfico en función de los atributos utilizados. A continuación, puede utilizar una medida para codificar el color de la burbuja y/o utilizar una medida para especificar el tamaño de la burbuja.
 
