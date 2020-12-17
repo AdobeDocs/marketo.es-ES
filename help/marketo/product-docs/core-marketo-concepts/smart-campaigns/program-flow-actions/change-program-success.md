@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cambio del éxito del Programa {#change-program-success}
+# Cambiar el éxito del Programa {#change-program-success}
 
 ## Información general {#overview}
 
@@ -29,7 +29,7 @@ Si alguna vez tiene un grupo de personas marcadas con Éxito de Programa acciden
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Seleccione **Éxito** o** Fecha de éxito** como atributo.
+1. Seleccione **Success** o** Success Date** como el atributo.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Si alguna vez tiene un grupo de personas marcadas con Éxito de Programa acciden
    >
    >Si se establece la fecha de éxito en cualquier valor, automáticamente se establece el valor de éxito en true. Si se establece Success en true, automáticamente se establece la fecha de éxito en la fecha actual.
 
-1. Establezca el **Nuevo valor** en **Verdadero** o **Falso**.
+1. Establezca **Nuevo valor** en **True** o **False**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
