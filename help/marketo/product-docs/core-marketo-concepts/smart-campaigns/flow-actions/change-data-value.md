@@ -21,7 +21,7 @@ Puede utilizar Marketo para actualizar el valor de un campo. Para ello, debe uti
 
 >[!NOTE]
 >
->También puede bloquear la actualización de un campo. Consulte [Bloquear actualizaciones en un campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) para obtener más información.
+>También puede bloquear la actualización de un campo. Consulte [Bloqueo de actualizaciones en un campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) para obtener más información.
 
 ## Uso {#usage}
 
@@ -42,7 +42,7 @@ Puede utilizar Marketo para actualizar el valor de un campo. Para ello, debe uti
 
    >[!TIP]
    >
-   >Puede introducir &#39;NULL&#39; (sin comillas, todo mayúsculas) en **Nuevo valor** para borrar el campo. Consulte [Borrar valores](change-data-value/clear-field-values.md) de campo para obtener más información.
+   >Puede escribir &#39;NULL&#39; (sin comillas, todo mayúsculas) en **Nuevo valor** para borrar el campo. Consulte [Borrar valores de campo](change-data-value/clear-field-values.md) para obtener más información.
 
    >[!NOTE]
    >
