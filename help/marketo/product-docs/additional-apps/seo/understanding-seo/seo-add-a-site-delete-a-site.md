@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO: Añadir un sitio o eliminar un sitio {#seo-add-a-site-delete-a-site}
+# SEO - Añadir un sitio/Eliminar un sitio {#seo-add-a-site-delete-a-site}
 
 Para que Marketing pueda extraer datos (vínculos de entrada y recomendaciones) relevantes para las páginas del sitio, debe definir la dirección URL del sitio aquí.
 
@@ -35,11 +35,11 @@ Para que Marketing pueda extraer datos (vínculos de entrada y recomendaciones) 
 
    ![](assets/two.png)
 
-1. Introduzca el **nombre, la dirección URL** del sitio web y haga clic en **Guardar**.
+1. Escriba el **Nombre, URL del sitio web** y haga clic en **Guardar**.
 
    >[!TIP]
    >
-   >También puede agregar una dirección URL **de** blog**** si tiene una.
+   >También puede agregar una** ****URL de blog** si tiene una.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -67,5 +67,5 @@ Confirme que desea eliminar.
 
    >[!NOTE]
    >
-   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un reinicio seleccionando el sitio y haciendo clic en **Restablecer**. Restablecer un sitio *elimina todos los datos* del mismo y vuelve a crearlo.
+   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un reinicio seleccionando el sitio y haciendo clic en **Restaurar**. El restablecimiento de un sitio *elimina todos los datos del sitio* y vuelve a crearlo.
 
