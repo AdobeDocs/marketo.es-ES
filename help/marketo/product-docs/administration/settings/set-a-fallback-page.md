@@ -23,11 +23,11 @@ Las páginas de reserva son la última línea de defensa si la página de aterri
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. En la ficha **Páginas de aterrizaje** , haga clic en **Editar**.
+1. En la ficha **Páginas de aterrizaje**, haga clic en **Editar**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Introduzca una página **de** reserva en el cuadro de diálogo y haga clic en **Guardar**.
+1. Escriba una **página de reserva** en el cuadro de diálogo y haga clic en **Guardar**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
