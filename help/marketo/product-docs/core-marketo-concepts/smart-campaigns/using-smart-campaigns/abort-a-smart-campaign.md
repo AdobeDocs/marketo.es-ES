@@ -19,7 +19,7 @@ ht-degree: 0%
 
 A veces lanzas una campaña inteligente y te das cuenta inmediatamente de que fue un error. Aquí se explica cómo tirar del freno de emergencia y detener la campaña inteligente a medio camino.
 
-1. En Actividades **** de marketing, seleccione la campaña inteligente y vaya a la ficha **Programar** .
+1. En **Actividades de marketing**, seleccione la campaña inteligente y vaya a la ficha **Programar**.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
