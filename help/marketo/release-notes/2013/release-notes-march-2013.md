@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Notas de la versión: Marzo de 2013 {#release-notes-march}
 
-Las siguientes funciones se incluyen en la versión de marzo. Compruebe la disponibilidad de las funciones [de la edición](http://docs.marketo.com/display/docs/assets/pricing.php) de marketing.
+Las siguientes funciones se incluyen en la versión de marzo. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la comunidad para ver los artículos detallados de la base de conocimiento de cada función.
+Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
 ## Archivos de calendario de marketing {#marketo-calendar-files}
 
-Cree un archivo de calendario como **Mi token** para utilizarlo en los correos electrónicos de confirmación y recordatorio de evento. Este archivo de calendario integrado (p. ej. .ics) representará todos los tokens, incluidos Mis tokens y el `{{member.webinar URL}}` token.
+Cree un archivo de calendario como **Mi token** para utilizarlo en los correos electrónicos de confirmación y recordatorio de evento. Este archivo de calendario integrado (p. ej. .ics) representará todos los tokens, incluidos Mis tokens y el token `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
-## Esperar hasta +/- {#wait-until}
+## Espera +/- {#wait-until}
 
 Crear pasos de espera que pueden ejecutarse un número especificado de días antes o después de un token de fecha. Por ejemplo, puede crear un paso de espera que esperará 3 días antes de la fecha de evento y, a continuación, enviar un recordatorio.
 
@@ -37,7 +37,7 @@ Una apuesta te da la oportunidad de ganar un premio y contar a tus amigos sobre 
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Idiomas adicionales del mensaje de error del formulario {#additional-form-error-message-languages}
+## Idiomas adicionales del mensaje de error de formulario {#additional-form-error-message-languages}
 
 Se han agregado más de una docena de idiomas a los mensajes de error de formulario.
 
