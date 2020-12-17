@@ -17,7 +17,7 @@ Reciba un correo electrónico semanal con sus principales cuentas y sus tendenci
 
 >[!NOTE]
 >
->Obtenga información sobre cómo configurar este informe [aquí](https://docs.marketo.com/x/drat).
+>Descubra cómo configurar este informe [aquí](https://docs.marketo.com/x/drat).
 
 El informe comparte:
 
