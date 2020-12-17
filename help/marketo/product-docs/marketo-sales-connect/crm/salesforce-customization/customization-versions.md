@@ -15,6 +15,8 @@ ht-degree: 0%
 
 A continuación se proporcionan detalles sobre las actualizaciones realizadas en las personalizaciones de conexión de marketing para Salesforce.
 
-**Campos de** Actividad de la versión 1, Campos de contacto, Campos de posible cliente, Campos de cuenta, Campos de oportunidad, Botones, [estos campos](http://docs.marketo.com/x/wQDh)de marketing.
+**Campos de**
+Actividad de la versión 1, Campos de contacto, Campos de posible cliente, Campos de cuenta, Campos de oportunidad, Botones,  [estos campos](http://docs.marketo.com/x/wQDh) de marketing.
 
-**Los campos de** Actividad de la versión 1.1, los campos de contacto, los campos de posibles clientes, los campos de la cuenta, los campos de oportunidad, los botones y los campos de marketing ya están disponibles en el diseño de página de Salesforce Lightning.
+**Los campos de**
+Actividad de la versión 1.1, los campos de contacto, los campos de posibles clientes, los campos de la cuenta, los campos de oportunidad, los botones y los campos de marketing ya están disponibles en el diseño de página de Salesforce Lightning.
