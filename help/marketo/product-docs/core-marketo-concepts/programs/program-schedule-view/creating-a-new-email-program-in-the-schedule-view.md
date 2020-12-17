@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede crear un programa de correo electrónico desde la vista de calandario del programa. Así es como.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -35,9 +35,9 @@ Puede crear un programa de correo electrónico desde la vista de calandario del 
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configure el programa](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) de correo electrónico y haga clic en **Aprobar Programa**.
+1. [Configure el ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programa de correo electrónico y haga clic en  **Aprobar Programa**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Además del panel detallado, una ventaja de usar un programa [de](http://docs.marketo.com/display/docs/email+programs) correo electrónico en lugar de una campaña inteligente es la capacidad de implementar fácilmente una prueba [](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B. ¡Disfrútelo!
+   Además del panel detallado, la ventaja de utilizar un [programa de correo electrónico](http://docs.marketo.com/display/docs/email+programs) en lugar de una campaña inteligente es la capacidad de implementar fácilmente una [prueba A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). ¡Disfrútelo!
 
