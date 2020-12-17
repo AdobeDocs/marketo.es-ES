@@ -17,9 +17,9 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
 >[!NOTE]
 >
->Solo puede asignar tareas para los contactos compartidos. Antes de colaborar con tareas compartidas, querrá [compartir un grupo de contactos](http://docs.marketo.com/x/fwDb) con los integrantes del equipo.
+>Solo puede asignar tareas para los contactos compartidos. Antes de colaborar con tareas compartidas, [compartirá un grupo de contactos](http://docs.marketo.com/x/fwDb) con los integrantes del equipo.
 
-1. Haga clic en el Centro **de comandos**.
+1. Haga clic en el **Centro de comandos**.
 
    ![](assets/one-1.png)
 
