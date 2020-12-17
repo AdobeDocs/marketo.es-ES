@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Crear un correo electrónico {#create-an-email}
+# Crear un mensaje de correo electrónico {#create-an-email}
 
 Existen dos maneras principales de crear un correo electrónico en Marketing. Veamos ambos.
 
-## Creación de un correo electrónico en Design Studio {#create-an-email-in-the-design-studio}
+## Crear un correo electrónico en Design Studio {#create-an-email-in-the-design-studio}
 
 1. Vaya a **Design Studio**.
 
@@ -31,13 +31,13 @@ Existen dos maneras principales de crear un correo electrónico en Marketing. Ve
 
 ¡Simple! Ahora por el otro lado...
 
-## Creación de un correo electrónico en Actividades de marketing {#create-an-email-in-marketing-activities}
+## Crear un correo electrónico en Actividades de marketing {#create-an-email-in-marketing-activities}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/three-3.png)
 
-1. Seleccione el programa al que desee agregar el correo electrónico, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo recurso** local.
+1. Seleccione el programa al que desee agregar el correo electrónico, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/four-3.png)
 
@@ -55,7 +55,7 @@ El método que elija le llevará al selector de plantillas.
 
    >[!NOTE]
    >
-   >Puede elegir entre una colección de plantillas de correo electrónico adaptables listas para usar o una plantilla guardada seleccionando primero **Mis plantillas** y siguiendo los mismos pasos.
+   >Puede elegir entre una colección de plantillas de correo electrónico adaptables listas para usar o una plantilla guardada seleccionando **Mis plantillas** primero y siguiendo los mismos pasos.
 
 1. Introduzca una línea de asunto. Hay un contador a la derecha para informarte si estás por debajo del máximo recomendado de 50 caracteres.
 
