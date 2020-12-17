@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Eliminar una Categoría de plantilla {#delete-a-template-category}
 
-1. Haga clic en el icono de menú situado junto a una categoría y, a continuación, haga clic en **Eliminar**.
+1. Haga clic en el icono de menú junto a una categoría y, a continuación, haga clic en **Eliminar**.
 1. Haga clic en **Eliminar **para confirmar.
 
 >[!NOTE]
