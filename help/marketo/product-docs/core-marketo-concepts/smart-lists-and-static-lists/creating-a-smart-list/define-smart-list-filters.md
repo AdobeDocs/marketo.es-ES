@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-Ahora que ha [creado una lista](create-a-smart-list.md) inteligente y [agregado filtros](find-and-add-filters-to-a-smart-list.md) , definamos los filtros. Así es como.
+Ahora que [ha creado una lista inteligente](create-a-smart-list.md) y [le ha agregado filtros](find-and-add-filters-to-a-smart-list.md), vamos a definir los filtros. Así es como.
 
 Siguiendo nuestro ejemplo, definamos estos filtros para encontrar a todas las personas en California con una puntuación superior a 50.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione la lista inteligente y haga clic en la ficha Lista **** inteligente.
+1. Seleccione la lista inteligente y haga clic en la ficha **Lista inteligente**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Busque y seleccione **CA** para el filtro de **estado** .
+1. Busque y seleccione **CA** para el filtro **Estado**.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,9 +43,9 @@ Siguiendo nuestro ejemplo, definamos estos filtros para encontrar a todas las pe
    >**Recordatorio**
    >
    >
-   >Es posible que esté almacenando tanto **California** como **CA**. Para filtrar por ambos valores e incluir *todas las *personas de California, aprenda a [agregar varios valores a un filtro](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)de lista inteligente.
+   >Puede que esté almacenando **California** y **CA**. Para filtrar por ambos valores e incluir *todas las *personas de California, aprenda a [agregar varios valores a un filtro de lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
-1. Seleccione el operador **bueno que** e introduzca **50**.
+1. Elija el operador **bueno que** e introduzca **50**.
 
    ![](assets/smartlistfilter-personscore.png)
 
@@ -55,5 +55,5 @@ Siguiendo nuestro ejemplo, definamos estos filtros para encontrar a todas las pe
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre listas [inteligentes y listas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)estáticas.
+>Obtenga más información sobre [listas inteligentes y listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
