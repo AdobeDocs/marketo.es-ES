@@ -16,7 +16,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un token de texto para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de **texto** al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de **texto** al lienzo de [!UICONTROL tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-text/my-token-text-1.png)
 
