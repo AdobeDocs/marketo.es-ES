@@ -25,7 +25,7 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 
    >[!NOTE]
    >
-   >Una campaña inteligente con activadores se ejecuta en el modo **Activador** . Funciona de una persona a la vez en función de los eventos activados y de cualquier filtros adicional.
+   >Una campaña inteligente con activadores se ejecuta en el modo **Activador**. Funciona de una persona a la vez en función de los eventos activados y de cualquier filtros adicional.
 
 1. Haga clic en la lista desplegable y elija un operador.
 
@@ -45,7 +45,7 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 
    >[!NOTE]
    >
-   >Con varios activadores, una persona pasa por el flujo si **CUALQUIERA** de los activadores se activa.
+   >Con varios activadores, una persona pasa por el flujo si **ANY** se activa uno de los activadores.
 
    [Definir Lista inteligente para Campaña inteligente | Lote](define-smart-list-for-smart-campaign-batch.md)
 
