@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filtros diferidos {#inferred-filters}
+# Filtros inducidos {#inferred-filters}
 
 Cuando alguien visita su sitio web, [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) los cookies y los coloca en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de información buena. Echa un vistazo.
 
@@ -34,7 +34,7 @@ Cuando se utiliza cualquiera de estos filtros en una lista inteligente, los resu
 >Utilice estos filtros en un informe de actividad web. Utilice los territorios de los representantes de ventas y suscríbase a un informe diario personalizado con visitantes del sitio web en las últimas 24 horas. ¡Les encantará!
 >
 >* Página Web visitada - Últimas 24 horas
->* El Estado indiciado es [seleccionado su territorio]
+>* El Estado Inferido [selecciona su territorio]
 
 >
 
@@ -46,5 +46,5 @@ Estos visitantes anónimos se convierten automáticamente en personas cuando hac
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre la actividad [anónima y los leads](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Obtenga más información sobre la [actividad anónima y leads](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
 
