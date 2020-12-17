@@ -16,7 +16,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar un token de puntuación para utilizarlo en las carpetas de programas y campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token de **puntuación** al lienzo de tokens  locales.
+1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **Puntuación** al lienzo [!UICONTROL Testigos locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
