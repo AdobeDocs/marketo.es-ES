@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Asignación de campo de Salesforce predeterminada {#default-salesforce-field-mapping}
+# Asignación de campo predeterminada de Salesforce {#default-salesforce-field-mapping}
 
 Cuando inicialmente sincroniza su cuenta de Marketing con Salesforce, Marketing crea automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketing. Marketo también sincronizará los campos personalizados de los posibles clientes, las cuentas, las oportunidades y los contactos.
 
@@ -94,7 +94,7 @@ Cuando inicialmente sincroniza su cuenta de Marketing con Salesforce, Marketing 
 | Tipo de cuenta | Tipo SFDC |
 | Sitio web | Sitio web |
 
-## Campos del sistema relacionados con Salesforce en el marketing (solo lectura) {#salesforce-related-system-fields-in-marketo-read-only}
+## Campos del sistema relacionados con Salesforce en Marketing (solo lectura) {#salesforce-related-system-fields-in-marketo-read-only}
 
 Estos campos se crean en Marketing, pero los clientes no pueden ajustarlos.
 
