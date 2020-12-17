@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir una reunión web de nivel 3 como servicio de LaunchPoint {#add-level-web-meeting-as-a-launchpoint-service}
+# Añadir una reunión Web de nivel 3 como un servicio de LaunchPoint {#add-level-web-meeting-as-a-launchpoint-service}
 
 Marketo administra la inscripción y asistencia a una reunión web de nivel 3.
 
@@ -29,15 +29,15 @@ Marketo administra la inscripción y asistencia a una reunión web de nivel 3.
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. Seleccione **Nuevo** y, a continuación, **Nuevo** **servicio**.
+1. Seleccione **Nuevo** y luego **Nuevo** **Servicio**.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Introduzca un **** nombre **** para mostrar. En **Servicio**, seleccione Reunión **Web de** nivel 3.
+1. Introduzca un **Nombre** **de visualización**. En **Servicio**, seleccione **Reunión Web de nivel 3**.
 
    ![](assets/new-service-level-3.png)
 
-1. Introduzca su **Access** **Number**, **Access** **Code** y **Passcode****** y, a continuación, haga clic enCreate.
+1. Introduzca su **acceso** **número**, **acceso** **código** y **código de acceso**, luego haga clic en **Crear**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
@@ -47,5 +47,5 @@ Marketo administra la inscripción y asistencia a una reunión web de nivel 3.
 
 >[!MORELIKETHIS]
 >
->Aprenda a [crear un evento con una reunión](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)web de nivel 3.
+>Obtenga información sobre cómo [crear un evento con una reunión Web de nivel 3](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
 
