@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Crear, eliminar, editar y cambiar una función de usuario {#create-delete-edit-and-change-a-user-role}
 
-**Las funciones** agrupan un grupo de permisos. **Los permisos** le permiten hacer cosas en Marketing. Usted asigna una **función** a un usuario. Fácil como pastel.
+**** Rolesgroup juntos un montón de permisos. **Los** permisos te permiten hacer cosas en Marketing. Usted asigna una **función** a un usuario. Fácil como pastel.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Crear una función {#create-a-role}
 
-1. Vaya a **Administración **y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administración **y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vaya a la ficha** Funciones** y haga clic en **Nueva función**.
+1. Vaya a la ficha** Roles** y haga clic en **Nueva función**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## Eliminar una función {#delete-a-role}
 
-1. En Administración,** **haga clic en **Usuarios y funciones**.
+1. En Administración,** **haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 >
 >Para editar su propia función de usuario, deberá iniciar sesión como otro usuario con derechos de administrador.
 
-1. Vaya a **Administración** y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
@@ -83,11 +83,11 @@ ht-degree: 0%
 
 ## Cambiar la función de un usuario {#change-a-users-role}
 
-1. Vaya a **Administración** y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Seleccione el usuario al que desea asignar una función diferente y haga clic en **Editar usuario.**
+1. Seleccione el usuario al que desee asignar una función diferente y haga clic en **Editar usuario.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
