@@ -19,7 +19,7 @@ El panel de Lista de cuentas oferta una vista de perspectivas agregadas de todas
 >
 >El ABM de marketing determina automáticamente las cuentas con mayor nombre dentro de una lista de cuenta en función de las puntuaciones de participación de la cuenta o de la canalización generada.
 
-## Panel de Lista de cuenta {#account-list-dashboard}
+## Panel de Lista de cuentas {#account-list-dashboard}
 
 Para ver el panel de una Lista de cuentas, simplemente haga clic en su nombre...
 
@@ -44,15 +44,15 @@ Para ver el panel de una Lista de cuentas, simplemente haga clic en su nombre...
 
 ## Ficha Cuentas con nombre {#named-accounts-tab}
 
-Haga clic en la ficha Cuentas **** con nombre para ver qué cuentas con nombre pertenecen a esa lista de cuenta.
+Haga clic en la ficha **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuenta.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Para eliminar una cuenta con nombre en esta ficha, selecciónela y haga clic en **Eliminar cuentas** con nombre.
+>Puede eliminar una cuenta con nombre en esta ficha seleccionándola y haciendo clic en **Eliminar cuentas con nombre**.
 
-## Utilizado por ficha {#used-by-tab}
+## Utilizado por la ficha {#used-by-tab}
 
 Haga clic en la ficha **Utilizado por** para ver qué recursos hacen referencia a esa Lista de cuenta.
 
