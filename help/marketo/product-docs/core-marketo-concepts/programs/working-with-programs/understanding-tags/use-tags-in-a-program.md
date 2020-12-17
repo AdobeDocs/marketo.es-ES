@@ -39,7 +39,7 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
 ## Editar una etiqueta {#edit-a-tag}
 
-1. Vaya a la ficha **Configuración** . Haga clic con el botón secundario en la etiqueta . Seleccione **Editar**.
+1. Vaya a la ficha **Configuración**. Haga clic con el botón secundario en la etiqueta . Seleccione **Editar**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -55,9 +55,9 @@ Las etiquetas son atributos que describen sus programas y se utilizan para agrup
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Eliminar una etiqueta  {#delete-a-tag}
+## Eliminar una etiqueta {#delete-a-tag}
 
-1. Vaya a la ficha **Configuración** . Haga clic con el botón derecho en la etiqueta y seleccione **Eliminar**.
+1. Vaya a la ficha **Configuración**. Haga clic con el botón derecho en la etiqueta y seleccione **Eliminar**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
