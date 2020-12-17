@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Normalmente, los nuevos campos personalizados de Salesforce se sincronizan automáticamente con Marketing. De lo contrario, es posible que los campos no estén visibles para el usuario de sincronización de marketing. Así es como puedes arreglar esto.
 
-1. Haga clic en su nombre y, a continuación, seleccione **Ajustes**.
+1. Haga clic en su nombre y seleccione **Configuración**.
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Introduzca el **perfil** en la barra de búsqueda izquierda y haga clic en **Perfiles** en **Administrar usuarios**.
+1. Escriba **perfil** en la barra de búsqueda izquierda y haga clic en **Perfiles** en **Administrar usuarios**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,7 +31,7 @@ Normalmente, los nuevos campos personalizados de Salesforce se sincronizan autom
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. En la sección Seguridad **a nivel de** campo, haga clic en **Vista** junto al objeto que contiene el campo.
+1. En la sección **Seguridad a nivel de campo**, haga clic en **Vista** junto al objeto que contiene el campo.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
@@ -39,7 +39,7 @@ Normalmente, los nuevos campos personalizados de Salesforce se sincronizan autom
 
    ![](assets/image2015-6-30-14-3a24-3a28.png)
 
-1. Marque la casilla **Visible** para el campo que desee agregar a la sincronización y haga clic en **Guardar**.
+1. Marque la casilla **Visible** del campo que desee agregar a la sincronización y haga clic en **Guardar**.
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
