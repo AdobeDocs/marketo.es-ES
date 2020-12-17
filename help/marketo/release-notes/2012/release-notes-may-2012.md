@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para obtener otras versiones, consulte las notas de la [versión](http://docs.marketo.com/display/docs/release+notes) en profundidad.
+>Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Rediseño del informe Rendimiento del correo electrónico {#email-performance-report-redesign}
 
@@ -73,7 +73,7 @@ Buscando una plantilla específica al crear el correo electrónico o la página 
 
 Figura 7. Previsualización de la plantilla seleccionada
 
-## Cumplimentación previa de formulario configurable {#configurable-form-prefill}
+## Precumplimento de formulario configurable {#configurable-form-prefill}
 
 Controlar la prepoblación de datos de formulario en el nivel de suscripción y la sobrescritura en el nivel de página de aterrizaje. Sin la prepoblación, puede asegurarse de que el posible cliente proporcione la información más actualizada.
 
@@ -119,11 +119,11 @@ Ahora puede organizar las plantillas de correo electrónico compartidas con Mark
 
 Figura 13. Elija una carpeta para los correos electrónicos
 
-## Acceso al Analizador de oportunidades desde la perspectiva de ventas {#access-opportunity-analyzer-from-sales-insight}
+## Acceda al Analizador de oportunidades desde la perspectiva de ventas {#access-opportunity-analyzer-from-sales-insight}
 
 Proporcione a sus representantes de ventas una perspectiva sobre las actividades de mercadotecnia que impulsan la participación, mediante el acceso directo al Analizador de oportunidades desde la perspectiva de ventas de marketing. Nota: Requiere una licencia de Revenue Cycle Analytics.
 
-## Campo personalizado para el estado de contacto {#custom-field-for-contact-status}
+## Campo personalizado para estado de contacto {#custom-field-for-contact-status}
 
 Ahora puede asignar un campo personalizado en Salesforce para rellenar el campo Estado de Contactos en Mis mejores apuestas, Mis mejores apuestas de equipo y vistas personalizadas.
 
@@ -139,7 +139,7 @@ Desglose hasta las páginas vistas por un posible cliente anónimo desde la vist
 
 Figura 15. Consulte actividad web anónima
 
-## Suscripción de contacto y posible cliente mejorada {#enhanced-lead-and-contact-subscribe}
+## Suscripción de posible cliente y contacto mejorada {#enhanced-lead-and-contact-subscribe}
 
 Siga un posible cliente o póngase en contacto en cualquier momento con el nuevo botón Suscribirse en la página de detalles del registro.
 
