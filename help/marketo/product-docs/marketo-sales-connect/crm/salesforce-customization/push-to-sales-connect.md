@@ -17,15 +17,15 @@ Nuestro botón Push to Tout tomará una lista de sus posibles clientes/contactos
 
 ## Requisitos {#requirements}
 
-* Paquete [Sales Connect](http://docs.marketo.com/x/C4PS) Salesforce instalado por `Salesforce Admin`
+* Sales Connect [Paquete de Salesforce](http://docs.marketo.com/x/C4PS) instalado por `Salesforce Admin`
 
-* `Push to Sales Connect`botón instalado en la vista de lista por `Salesforce Admin`
+* `Push to Sales Connect`botón instalado en la vista de lista por  `Salesforce Admin`
 
 * Conexión de Salesforce realizada con Sales Connect para que el usuario realice la inserción
 
-## Instrucciones de uso {#how-to}
+## Cómo {#how-to}
 
-1. Haga clic en la ficha **Posible cliente/Contacto** de Salesforce.
+1. Haga clic en la ficha **Posible cliente/contacto** en Salesforce.
 1. Cambie a la Vista de Lista que desea que Push to Sales Connect junto al botón Ir.
 1. Haga clic en **Ir**.
 1. Seleccione todos los leads/contactos a los que desee insertar.
@@ -34,7 +34,7 @@ Nuestro botón Push to Tout tomará una lista de sus posibles clientes/contactos
 
    >[!NOTE]
    >
-   >Sales Connect agregará este grupo llamado &quot;SFDC-...&quot; a la página Relaciones de la aplicación [](http://toutapp.com/login)web.
+   >Sales Connect agregará este grupo llamado &quot;SFDC-...&quot; a la página Relaciones en la [aplicación Web](http://toutapp.com/login).
 
 1. Seleccione **Enviar correo electrónico a todo el grupo** para enviar el correo electrónico de este grupo.
 
