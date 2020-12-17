@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Las campañas inteligentes son la herramienta más importante de [!DNL Marketo]. Pueden activarse en una persona y realizar acciones, o resumir millones de personas y ejecutar una serie de pasos de flujo.
+Las campañas inteligentes son la herramienta más importante en [!DNL Marketo]. Pueden activarse en una persona y realizar acciones, o resumir millones de personas y ejecutar una serie de pasos de flujo.
 
-1. En Actividades de marketing, seleccione el programa o la carpeta en la que desea que viva su campaña inteligente.
+1. En [!UICONTROL Actividades de mercadotecnia], seleccione el programa o la carpeta en la que desea que viva su campaña inteligente.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. Haga clic con el botón derecho en la selección y elija **[!UICONTROL Crear Campaña]** inteligente.
+1. Haga clic con el botón derecho en la selección y elija **[!UICONTROL Crear Campaña inteligente]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ Las campañas inteligentes son la herramienta más importante de [!DNL Marketo].
 >
 >Puede crear campañas inteligentes como recursos locales de cualquier programa.
 
-1. Asigne un nombre a la campaña inteligente (y agregue una descripción o etiquetas opcionales) y haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre a la campaña inteligente (y agregue una descripción/etiquetas opcionales) y haga clic en **[!UICONTROL Crear]**.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
