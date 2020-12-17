@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuración de la tablet para iPad o Android {#set-up-the-ipad-or-android-tablet}
+# Configuración de la tableta de iPad o Android {#set-up-the-ipad-or-android-tablet}
 
 Para disfrutar de una experiencia fluida en el día del evento, prepare su iPad o tablet Android y pruebe la aplicación de Eventos de marketing antes del evento.
 
@@ -33,7 +33,7 @@ Si su iPad no tiene instalada la aplicación de Eventos de marketing, aquí se e
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. En el cuadro de búsqueda, escriba **Marcado** y en Sugerencias, toque **Comercializar eventos**.
+1. En el cuadro de búsqueda, escriba **Comercialización** y en Sugerencias, toque **eventos de marketing**.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
@@ -45,7 +45,7 @@ Si su tablet Android aún no tiene instalada la aplicación de Eventos de market
 
 1. Abra la tablet y toque la aplicación** Google Play Store**.
 1. En el cuadro Buscar, escriba **Marcado** y toque **Retorno**.
-1. En los resultados de la búsqueda, toque la aplicación de Eventos **de** marketing.
+1. En los resultados de la búsqueda, toque la aplicación **Eventos de marketing**.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -83,13 +83,13 @@ Sincronice para asegurarse de que las personas que ha agregado están allí.
 
 Asegúrese de que los registros funcionan desde el iPad o la tablet antes del evento.
 
-1. En la aplicación, [marque un lead de prueba](check-people-into-your-event-from-your-tablet.md).
+1. En la aplicación, [compruebe un posible cliente de prueba en](check-people-into-your-event-from-your-tablet.md).
 1. Toque el icono **Sincronizar** para sincronizar la aplicación.
 1. En Marketing, abra el evento y haga clic en **Miembros**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
 
-1. Confirme que el estado de la persona se ha cambiado a **Asistido** y que Éxito está marcado.
+1. Confirme que el estado de la persona se ha cambiado a **Asistido** y que el éxito está marcado.
 
    ![](assets/image2016-4-18-14-3a11-3a36.png)
 
