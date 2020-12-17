@@ -21,11 +21,11 @@ El marketing elimina automáticamente los duplicados cuando entran nuevos usuari
 
 >[!PREREQUISITES]
 >
->Encontrar y combinar duplicados implica el uso de listas [inteligentes](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)integradas/del sistema.
+>Encontrar y combinar duplicados implicará el uso de [listas inteligentes integradas/del sistema](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Buscar Duplicados {#find-duplicates}
 
-1. Vaya al área **Base de datos** .
+1. Vaya al área **Base de datos**.
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ El marketing elimina automáticamente los duplicados cuando entran nuevos usuari
    >
    >Es posible que la combinación de personas en Marketing no funcione si utiliza una cuenta de persona de Salesforce. Si es posible, combine los registros en Salesforce.
 
-1. Seleccione la lista inteligente del sistema de **Posibles** **Duplicados** y haga clic en la ficha **Personas** .
+1. Seleccione la lista inteligente del sistema **Posible** **Duplicados** y haga clic en la ficha **Personas**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >También puede [buscar personas Duplicados con lógica](find-duplicate-people-with-custom-logic.md)personalizada.
+   >También puede [Buscar personas de Duplicado con lógica personalizada](find-duplicate-people-with-custom-logic.md).
 
 ## Combinar personas manualmente {#merge-people-manually}
 
 >[!CAUTION]
 >
->Al combinar personas, si la persona perdedora tiene un objeto personalizado de marketing, **no se volverá** a asociar con la persona ganadora. Vuelva a propagar el objeto personalizado antes de realizar la combinación.
+>Al combinar personas, si la persona perdedora tiene un objeto personalizado de marketing, **no** se volverá a asociar con la persona ganadora. Vuelva a propagar el objeto personalizado antes de realizar la combinación.
 
 Para seleccionar los duplicados, mantenga presionada la tecla Ctrl/Cmd y haga clic en Combinar personas.
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Para seleccionar los duplicados, mantenga presionada la tecla Ctrl/Cmd y haga cl
 >
 >Podría tener dos o más duplicados para la misma persona; selecciónelos todos a la vez.
 
-1. Verá los valores entre los registros que *no* coinciden. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando termine. Si no desea ningún valor, puede marcar **Personalizado** e introducir un valor de su elección.
+1. Verá los valores entre los registros que *no coinciden*. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando termine. Si no desea ningún valor, puede marcar **Personalizado** e introducir un valor de su elección.
 
    ![](assets/four.png)
 
@@ -78,7 +78,7 @@ Para conocer los detalles del comportamiento de Salesforce al combinar posibles 
     * [Fusión de leads de Duplicado](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
     * [Fusión de contactos de Duplicado](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Fusión masiva {#bulk-merging}
+## Combinación masiva {#bulk-merging}
 
 Si tiene demasiados duplicados para combinar manualmente, póngase en contacto con el administrador de éxito del cliente para analizar sus opciones.
 
