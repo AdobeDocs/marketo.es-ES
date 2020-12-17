@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Me bloqueé de mi cuenta. ¿Qué hago? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Si ha superado el número de intentos de inicio de sesión, se le bloqueará la cuenta. Póngase en contacto con [](http://nation.marketo.com/community/support_solutions)Asistencia para obtener ayuda para desbloquearlo.
+Si ha superado el número de intentos de inicio de sesión, se le bloqueará la cuenta. Póngase en contacto con [Soporte](http://nation.marketo.com/community/support_solutions)para obtener ayuda para desbloquearlo.
