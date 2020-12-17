@@ -33,26 +33,26 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
  <tbody> 
   <tr> 
    <td>Actualizar el campo Desc de momento interesante</td> 
-   <td><p>Copiar de: Última participación de marketing<br>DescCopy a: Último momento interesante Desc</p></td> 
+   <td><p>Copiar de: Desc. de compromiso de último comerciante<br>Copiar en: Último momento interesante Desc</p></td> 
   </tr> 
   <tr> 
    <td>Actualizar el campo Tipo de momento interesante</td> 
-   <td><p>Copiar de: Último<br>tipo de compromiso de marketingCopiar en: Último tipo de momento interesante</p></td> 
+   <td><p>Copiar de: Último tipo de compromiso de marketing<br>Copiar en: Último tipo de momento interesante</p></td> 
   </tr> 
   <tr> 
    <td>Actualizar el campo Origen de momento interesante</td> 
-   <td><p>Copiar de: Última<br>copia de origen de compromiso de marketing en: Última fuente de momento interesante</p></td> 
+   <td><p>Copiar de: Origen de compromiso del último comerciante<br>Copiar en: Última fuente de momento interesante</p></td> 
   </tr> 
   <tr> 
    <td>Actualizar fecha de momento interesante, campo</td> 
-   <td><p>Copiar de: Última<br>fecha de compromiso de marketingCopiar en: Fecha del último momento interesante</p></td> 
+   <td><p>Copiar de: Fecha del último compromiso de marketing<br>Copiar en: Fecha del último momento interesante</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instrucciones {#instructions}
 
-1. Después de hacer clic en **Configuración**, busque **Flujo de trabajo** y seleccione Reglas **de flujo de trabajo**.
+1. Después de hacer clic en **Configuración**, busque **Flujo de trabajo** y seleccione **Reglas de flujo de trabajo**.
 
    ![](assets/one-1.png)
 
@@ -60,15 +60,15 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
 
    ![](assets/two-1.png)
 
-1. Haga clic en la lista desplegable Objeto, seleccione **Posible cliente** y, a continuación, haga clic en **Siguiente**.
+1. Haga clic en la lista desplegable Objeto y seleccione **Posible cliente**, luego haga clic en **Siguiente**.
 
    ![](assets/three-1.png)
 
-1. Escriba &quot;Actualizar el campo Desc del momento interesante&quot; como nombre de regla. Seleccione el botón de radio **creado y cada vez que se edite**. En la lista desplegable Criterios de regla, la **fórmula seleccionada se evalúa como verdadera**. Busque y seleccione la función ISCHANGED. A continuación, resalte el valor de campo predeterminado y haga clic en **Insertar campo**.
+1. Escriba &quot;Actualizar el campo Desc del momento interesante&quot; como nombre de regla. Seleccione el botón de radio **creado y cada vez que se edite**. En la lista desplegable Criterios de regla, seleccione **la fórmula se evalúa como true**. Busque y seleccione la función ISCHANGED. A continuación, resalte el valor de campo predeterminado y haga clic en **Insertar campo**.
 
    ![](assets/four-1.png)
 
-1. En la ventana emergente &quot;Insertar campo&quot;, elija **Último registro de participación de marketing** y haga clic en **Insertar**.
+1. En la ventana emergente &quot;Insertar campo&quot;, elija **Desc. de compromiso de último marketing** y haga clic en **Insertar**.
 
    ![](assets/five-1.png)
 
@@ -76,23 +76,23 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
 
    ![](assets/6.png)
 
-1. En la lista desplegable Añadir acción de flujo de trabajo, seleccione **Nueva actualización** de campo.
+1. En la lista desplegable Añadir acción de flujo de trabajo, seleccione **Nueva actualización de campo**.
 
    ![](assets/seven.png)
 
-1. En el campo Nombre, escriba &quot;Actualizar el campo Desc de momento interesante&quot; (el nombre único se generará automáticamente). En la lista desplegable Campo que actualizar, elija **Último desfase interesante**. Seleccione el botón de opción **Usar una fórmula para definir un nuevo valor** y, a continuación, haga clic en **Mostrar editor** de fórmulas.
+1. En el campo Nombre, escriba &quot;Actualizar el campo Desc de momento interesante&quot; (el nombre único se generará automáticamente). En la lista desplegable Campo que actualizar, elija **Desc. último momento interesante**. Seleccione el botón de opción **Utilice una fórmula para establecer el nuevo valor** y haga clic en **Mostrar editor de fórmulas**.
 
    ![](assets/eight.png)
 
-1. Haga clic en el botón **Insertar campo** .
+1. Haga clic en el botón **Insertar campo**.
 
    ![](assets/9a.png)
 
-1. Seleccione **Último índice de participación de marketing** y haga clic en **Insertar**. En la página siguiente, haga clic en **Guardar**.
+1. Seleccione **Desc. de compromiso del último comerciante** y haga clic en **Insertar**. En la página siguiente, haga clic en **Guardar**.
 
    ![](assets/nine.png)
 
-1. Haga clic en **Finalizado**.
+1. Haga clic en **Listo**.
 
    ![](assets/twelve.png)
 
