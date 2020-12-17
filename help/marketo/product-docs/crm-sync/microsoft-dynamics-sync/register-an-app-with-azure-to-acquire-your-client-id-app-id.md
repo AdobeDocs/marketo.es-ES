@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Registrar una aplicación con Azure para adquirir el ID de cliente o de aplicación {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# Registre una aplicación con Azure para adquirir el ID de cliente o de aplicación {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory amplía los directorios locales a la nube, lo que proporciona compatibilidad con MS Dynamics 365 CRM con autenticación ADFS local.
 
-## Registro de una aplicación nueva {#registering-a-new-app}
+## Registro de una nueva aplicación {#registering-a-new-app}
 
-1. [Inicie sesión](http://manage.windowsazure.com/) en el portal de administración de Microsoft Azure con una cuenta con permisos de administrador. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 si expande el elemento **Administrador** en el panel de navegación izquierdo y selecciona **Azure AD**.
+1. [Inicie sesión ](http://manage.windowsazure.com/) en el portal de administración de Microsoft Azure con una cuenta con permisos de administrador. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 si expande el elemento **Administrador** en el panel de navegación izquierdo y selecciona **Azure AD**.
 
    >[!CAUTION]
    >
@@ -28,13 +28,13 @@ Azure Active Directory amplía los directorios locales a la nube, lo que proporc
    >Si no tiene una cuenta de Azure, puede [registrarse](https://azure.microsoft.com/en-us/free/) para una. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez que haya creado una cuenta de Azure, puede registrar una o varias aplicaciones mediante el procedimiento que se describe a continuación.
    >
    >
-   >Si tiene una cuenta de Azure pero la suscripción de Office 365 con Microsoft Dynamics 365 no está disponible en la suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) para asociar las dos cuentas.
+   >Si tiene una cuenta de Azure pero la suscripción de Office 365 con Microsoft Dynamics 365 no está disponible en su suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) para asociar las dos cuentas.
 
 1. Busque y haga clic en **Azure Active Directory** en el panel de navegación izquierdo.
 
    ![](assets/two.png)
 
-1. En Administrar, haga clic en Registros **de** aplicación.
+1. En Administrar, haga clic en **Registros de aplicaciones**.
 
    ![](assets/three.png)
 
@@ -46,21 +46,21 @@ Azure Active Directory amplía los directorios locales a la nube, lo que proporc
 
    ![](assets/five.png)
 
-1. Ahora debería ver la aplicación en la ficha Registros **de la** aplicación.
+1. Ahora debería ver su aplicación en la ficha **Registros de la aplicación**.
 
    ![](assets/six.png)
 
 ## Configuración de los permisos de la aplicación {#configuring-app-permissions}
 
-1. En la ficha Registros **de** aplicación de Active Directory, haga clic en la aplicación para la que desee configurar los permisos.
+1. En la ficha **Registros de aplicación** de Active Directory, haga clic en la aplicación para la que desee configurar los permisos.
 
    ![](assets/seven.png)
 
-1. En Administrar, haga clic en Permisos **** de API.
+1. En Administrar, haga clic en **Permisos de API**.
 
    ![](assets/eight.png)
 
-1. Haga clic en el botón **Añadir un permiso** .
+1. Haga clic en el botón **Añadir un permiso**.
 
    ![](assets/nine.png)
 
@@ -68,7 +68,7 @@ Azure Active Directory amplía los directorios locales a la nube, lo que proporc
 
    ![](assets/ten.png)
 
-1. Marque la casilla **Acceso a servicios comunes de datos como usuario de la organización****s** y, a continuación, haga clic en **Añadir permisos.**
+1. Marque la casilla **Acceso a servicios comunes de datos como usuario de la organización****s** y luego haga clic en **Añadir permisos.**
 
    ![](assets/eleven.png)
 
@@ -76,7 +76,7 @@ Azure Active Directory amplía los directorios locales a la nube, lo que proporc
 
    ![](assets/twelve.png)
 
-1. Haga clic en el botón **Conceder consentimiento** de administrador.
+1. Haga clic en el botón **Conceder consentimiento de administrador**.
 
    ![](assets/thirteen.png)
 
