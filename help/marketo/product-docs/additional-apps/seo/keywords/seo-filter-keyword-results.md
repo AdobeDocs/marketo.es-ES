@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # SEO - Filtrar resultados de palabras clave {#seo-filter-keyword-results}
 
-Es posible que tenga muchas [palabras clave](seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos:
+Puede tener muchas [palabras clave](seo-understanding-keywords.md). A continuación se indican diferentes formas de filtrarlos:
 
 ## Filtrar por lista {#filter-by-list}
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -27,7 +27,7 @@ Es posible que tenga muchas [palabras clave](seo-understanding-keywords.md). A c
 
    >[!NOTE]
    >
-   >Si no ve ninguna lista, [aprenderá](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) a [hacer una lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)de palabra clave.
+   >Si no ve ninguna lista, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [aprenda a hacer una lista de palabra clave](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 ¡Dulce! Ahora sólo estará mirando las palabras clave de esa lista.
 
@@ -37,7 +37,7 @@ Es posible que tenga muchas [palabras clave](seo-understanding-keywords.md). A c
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Los cuadrados anaranjados definen los límites superior (izquierda) e inferior (derecha). El filtro funciona con la clasificación [](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)SERP de la palabra clave.
+   Los cuadrados anaranjados definen los límites superior (izquierda) e inferior (derecha). El filtro funciona con la [clasificación SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) de la palabra clave.
 
 1. Deslice los cuadrados de naranja hacia la izquierda/derecha para filtrar los resultados.
 
@@ -47,7 +47,7 @@ Es posible que tenga muchas [palabras clave](seo-understanding-keywords.md). A c
 
 También puede encontrar las palabras clave que busca utilizando el campo de búsqueda en la esquina superior derecha.
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
