@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Pause a una persona en un flujo de campaña inteligente con el práctico paso **de** espera.
+Pause a una persona en un flujo de campaña inteligente con el práctico **paso de espera**.
 
 ![](assets/wait-overview.png)
 
-Observe cómo puede escribir en lenguaje natural como &quot;4 horas&quot;. Sin embargo, **no** abreviar las palabras (es decir, 4 horas). La campaña inteligente se seguiría ejecutando, pero se ignoraría el paso de espera.
+Observe cómo puede escribir en lenguaje natural como &quot;4 horas&quot;. No obstante, **no** abreviar las palabras (es decir, 4 horas). La campaña inteligente se seguiría ejecutando, pero se ignoraría el paso de espera.
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ Observe cómo puede escribir en lenguaje natural como &quot;4 horas&quot;. Sin e
 
 >[!TIP]
 >
->Si ya tiene a alguien en un paso de espera y no desea que avance una vez finalizado el período de espera, inserte [eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) inmediatamente después del paso de espera. Especifique quién desea eliminar mediante la opción [Agregar opción](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
+>Si ya tiene a alguien en un paso de espera y no desea que avance una vez finalizado el período de espera, inserte [eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) justo después del paso de espera. Especifique quién desea eliminar mediante la opción [agregar opción](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 ## Uso {#usage}
 
