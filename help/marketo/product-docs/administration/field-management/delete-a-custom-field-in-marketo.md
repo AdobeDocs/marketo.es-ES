@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-Es posible que desee deshacerse de un campo que haya creado en el pasado si ya no lo utiliza. Desafortunadamente, no puede eliminar campos en Marketing, pero *puede* ocultarlos en la interfaz de usuario.
+Es posible que desee deshacerse de un campo que haya creado en el pasado si ya no lo utiliza. Desafortunadamente no puede eliminar campos en Marketing, pero *puede* ocultarlos en la interfaz de usuario.
 
-1. En **Administración**, vaya a **Administración de campos **y seleccione su campo. En Acciones **** de campo, haga clic en **Ocultar campo**.
+1. En **Administración**, vaya a **Administración de campos **y seleccione su campo. En **Acciones de campo**, haga clic en **Ocultar campo**.
 
    ![](assets/image2014-9-19-9-3a49-3a10.png)
 
-   Para obtener instrucciones detalladas paso a paso, consulte [Ocultar y mostrar un campo](hide-and-unhide-a-field.md).
+   Para obtener instrucciones detalladas paso a paso, consulte [ocultar y mostrar un campo](hide-and-unhide-a-field.md).
 
