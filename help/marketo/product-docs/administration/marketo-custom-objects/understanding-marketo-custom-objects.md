@@ -45,7 +45,7 @@ Muchos objetos personalizados utilizan dos campos de vínculo, que forman parte 
 
 ## Acceso a objetos personalizados de marketing {#accessing-marketo-custom-objects}
 
-1. Para crear o editar objetos personalizados de marketing, haga clic en **Administración ** y, a continuación, en el vínculo **Marcado a** objetos personalizados.
+1. Para crear o editar objetos personalizados de marketing, haga clic en **Administración **y, a continuación, en el vínculo **Objeto personalizado de marketing** s.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -63,7 +63,7 @@ Muchos objetos personalizados utilizan dos campos de vínculo, que forman parte 
 
    ![](assets/image2016-6-10-15-3a15-3a29.png)
 
-## Vista de objetos personalizados asociados a una persona {#view-custom-objects-associated-to-a-person}
+## Objetos personalizados de vista asociados a una persona {#view-custom-objects-associated-to-a-person}
 
 Después de crear la estructura de objetos personalizada, al cargar los datos de objetos personalizados específicos, los objetos personalizados se asocian automáticamente a las personas de la base de datos mediante el campo de vínculo del objeto personalizado. Puede realizar la vista de información desde la ficha Objetos personalizados de la página de detalles de la persona.
 
@@ -71,11 +71,11 @@ Después de crear la estructura de objetos personalizada, al cargar los datos de
 
    ![](assets/db.png)
 
-1. Abra la base de datos y haga clic en la ficha **Personas** . Haga clic con el doble en el registro de una persona asociada a un objeto personalizado.
+1. Abra la base de datos y haga clic en la ficha **Personas**. Haga clic con el doble en el registro de una persona asociada a un objeto personalizado.
 
    ![](assets/five.png)
 
-1. En la página de detalles de la persona, haga clic en la ficha Objetos **** personalizados. Seleccione el objeto en la lista desplegable.
+1. En la página de detalles de la persona, haga clic en la ficha **Objetos personalizados**. Seleccione el objeto en la lista desplegable.
 
    ![](assets/six.png)
 
@@ -91,7 +91,7 @@ Si hay varias personas en Marketing que son registros en los registros de CRM o 
 
 Los objetos personalizados solo pueden vincularse directamente a un único registro. Esto significa que cuando el tipo de objeto personalizado está vinculado por el campo de compañía, debe asegurarse de que los registros de personas están asociados a una compañía mediante la conversión de contactos en su CRM o mediante el campo externoCompanyId, si administra compañías mediante las API REST de Marketing. Para los registros de personas que no están vinculados explícitamente a registros de compañía, los objetos personalizados vinculados mediante compañía se vincularán aleatoriamente a un único registro, aunque el valor del campo de compañía se comparta entre muchas personas.
 
-Consulte [Importar datos](import-custom-object-data.md) de objeto personalizados para obtener más información.
+Consulte [Importar datos de objeto personalizados](import-custom-object-data.md) para obtener más información.
 
 >[!MORELIKETHIS]
 >
