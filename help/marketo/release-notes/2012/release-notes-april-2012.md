@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para obtener otras versiones, consulte las notas de la [versión](http://docs.marketo.com/display/docs/release+notes) en profundidad.
+>Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
 
 ¿destinatario el mismo grupo de posibles clientes de manera consistente? Si es así, utilice la segmentación en sus listas inteligentes para segmentar posibles clientes. Con la segmentación, toda la base de datos de posibles clientes siempre se segmenta y se puede reutilizar en los programas para lograr coherencia. Los resultados de la segmentación se obtienen rápidamente porque no requieren que la lista inteligente se ejecute en el momento de la solicitud.
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
-## Inserte valores externos en el contenido del correo electrónico y otros pasos de flujo mediante capacidades de API ampliadas {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
+## Inserte valores externos en el contenido del correo electrónico y otros pasos de flujo a través de las capacidades de API ampliadas {#insert-external-values-into-email-content-and-other-flow-steps-through-expanded-api-capabilities}
 
 * La API de Campaña de solicitudes ahora le permite enviar valores para Mis tokens para esa ejecución concreta de la campaña, lo que resulta especialmente útil para rellenar el contenido del correo electrónico a través de la API
 * Las nuevas API de carga a Lista y programación de Campañas admiten lo anterior para listas de posibles clientes y campañas por lotes.
@@ -46,7 +46,7 @@ Nota: En este momento, esta función no es compatible con Internet Explorer debi
 
 ![](assets/image2014-9-23-10-3a4-3a46.png)
 
-## Mover texto a un correo electrónico {#move-text-in-an-email}
+## Mover texto en un mensaje de correo electrónico {#move-text-in-an-email}
 
 Puede reordenar los bloques de texto en un mensaje de correo electrónico. En el editor de texto, seleccione un bloque de texto; al hacer clic en el icono de edición, verá la opción de mover el bloque hacia arriba o hacia abajo.
 
