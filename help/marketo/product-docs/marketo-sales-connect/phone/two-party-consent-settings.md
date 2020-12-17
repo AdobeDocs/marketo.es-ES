@@ -17,7 +17,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
 >[!PREREQUISITES]
 >
->Antes de seguir los pasos que se describen a continuación, debe [habilitar primero la grabación de llamadas.](http://docs.marketo.com/x/dAC1Ag)
+>Antes de seguir los pasos a continuación, debe [habilitar la grabación de llamadas.](http://docs.marketo.com/x/dAC1Ag)
 
 1. Haga clic en el icono Configuración y seleccione **Configuración**.
 
@@ -27,7 +27,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/two-1.png)
 
-1. Desplácese hacia abajo hasta Configuración de teléfono de Sales Connect y haga clic en **Administrar aviso** de grabación.
+1. Desplácese hacia abajo hasta Configuración de teléfono de Sales Connect y haga clic en **Administrar aviso de grabación**.
 
    ![](assets/three-1.png)
 
@@ -43,7 +43,7 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
    ![](assets/five.png)
 
-1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso** de consentimiento. Haga clic en **Aceptar** cuando termine.
+1. Una vez completada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como aviso de consentimiento**. Haga clic en **Aceptar** cuando termine.
 
    ![](assets/six.png)
 
