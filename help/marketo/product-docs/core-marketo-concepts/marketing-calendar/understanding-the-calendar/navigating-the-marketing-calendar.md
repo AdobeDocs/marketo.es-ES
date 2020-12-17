@@ -17,9 +17,9 @@ Navegar por el Calendario de mercadotecnia es fácil como uno, dos, tres!
 
 >[!PREREQUISITES]
 >
->Asegúrese de que dispone de una licencia [del Calendario de](issue-revoke-a-marketing-calendar-license.md) marketing; de lo contrario, el mosaico del Calendario de marketing no se mostrará en Mi marketing.
+>Asegúrese de que tiene una [licencia del Calendario de mercadotecnia](issue-revoke-a-marketing-calendar-license.md); de lo contrario, el mosaico del Calendario de mercadotecnia no se mostrará en Mi mercadotecnia.
 
-1. Vaya al Calendario **de mercadotecnia**.
+1. Vaya al **Calendario de mercadotecnia**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -29,7 +29,7 @@ Navegar por el Calendario de mercadotecnia es fácil como uno, dos, tres!
 
 ## Cambiar entre modos {#change-between-modes}
 
-1. Haga clic en las fichas **3 semanas** o **Mes** para cambiar de modo.
+1. Haga clic en las fichas **3 semanas** o **Mes** para cambiar entre modos.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -43,7 +43,7 @@ La vista Agenda muestra todas las entradas como una lista.
 
    `
 
-1. Seleccione la vista **Agenda** .
+1. Seleccione la vista **Agenda**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -51,7 +51,7 @@ La vista Agenda muestra todas las entradas como una lista.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Navegación a través del tiempo {#navigate-through-time}
+## Navegar por el tiempo {#navigate-through-time}
 
 ¡Sin un DeLorean! Haga clic en los botones de navegación.
 
