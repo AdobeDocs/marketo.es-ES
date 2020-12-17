@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Programar un correo electrónico {#schedule-an-email}
 
-1. En la ventana Redactar, haga clic en **Programar: Botón Enviar ahora** .
+1. En la ventana Redactar, haga clic en **Programar: Botón Enviar ahora**.
 1. En la ventana de programación, seleccione la hora a la que se debe enviar el mensaje.
 1. Haga clic en **Programar**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Cancelar un correo electrónico programado {#cancel-a-scheduled-email}
 
-1. Vaya a la aplicación [](http://toutapp.com/login) web y vaya al `Command` Centro.
-1. Haga clic en el filtro [Programado](http://toutapp.com/next#emails/filter/sent/1) .
-1. Haga clic en **Eliminar** junto al mensaje.
+1. Vaya a la [aplicación Web](http://toutapp.com/login) y navegue al `Command` Centro.
+1. Haga clic en el filtro [Programado](http://toutapp.com/next#emails/filter/sent/1).
+1. Haga clic en **Eliminar** al lado del mensaje.
 
