@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportar una Lista de todos los nombres de campos de la API de marketing {#export-a-list-of-all-marketo-api-field-names}
+# Exportar una Lista de todos los nombres de campos de API de Marketing {#export-a-list-of-all-marketo-api-field-names}
 
 Si está utilizando nuestra API SOAP o Munchkin, necesitará una lista de todos sus campos y sus nombres de API. Así es como conseguir esta lista.
 
@@ -19,11 +19,11 @@ Si está utilizando nuestra API SOAP o Munchkin, necesitará una lista de todos 
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administración** y haga clic en Administración **de campos**.
+1. Vaya a **Administración** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. Haga clic en **Exportar nombres** de campo para descargar la hoja de cálculo.
+1. Haga clic en **Exportar nombres de campo** para descargar la hoja de cálculo.
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 
