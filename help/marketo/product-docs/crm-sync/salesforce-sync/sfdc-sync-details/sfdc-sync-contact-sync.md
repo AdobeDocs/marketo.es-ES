@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sincronización SFDC: Sincronización de contactos {#sfdc-sync-contact-sync}
+# Sincronización SFDC: Comuníquese con la sincronización {#sfdc-sync-contact-sync}
 
 ¿Sabía que Marketing sincroniza toda la base de datos con Salesforce? Se sincroniza, luego espera 5 minutos y luego se sincroniza de nuevo, todo el día, todos los días. A continuación se proporcionan algunos detalles sobre cómo trata Marketing a los contactos de Salesforce de forma específica.
 
@@ -33,7 +33,7 @@ Sí, utilice la acción de flujo ** [Convertir persona](../../../../product-docs
 
 ## ¿Puedo forzar manualmente la sincronización de un contacto? {#can-i-manually-force-a-sync-of-a-contact}
 
-Sí, utilice la acción ** [Sincronizar persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **flujo y se sincronizará en tiempo real.
+Sí, utilice la acción de flujo ** [Sincronizar persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **y se sincronizará en tiempo real.
 
 ## ¿Se sincroniza cada campo estándar con Marketing? {#does-every-single-standard-field-sync-to-marketo}
 
