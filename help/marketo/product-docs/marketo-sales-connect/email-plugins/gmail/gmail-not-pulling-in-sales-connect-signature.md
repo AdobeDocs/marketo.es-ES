@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # Gmail no extrae la firma de Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
 
-En realidad, usamos su firma Gmail en Gmail, en lugar de insertar su firma [](http://toutapp.com/next#settings)Sales Connect.
+En realidad, usamos su firma Gmail en Gmail, en lugar de insertar su [firma de Sales Connect](http://toutapp.com/next#settings).
 
 Puede editar su firma en Gmail [aquí](http://mail.google.com/mail/u/0/#settings/general).
