@@ -39,7 +39,7 @@ En el Editor de correo electrónico 2.0, un módulo es una sección del correo e
 
    ![](assets/five-3.png)
 
-## Desplazamiento de un módulo dentro de un correo electrónico {#moving-a-module-within-an-email}
+## Mover un módulo dentro de un mensaje de correo electrónico {#moving-a-module-within-an-email}
 
 Existen dos formas de mover un módulo.
 
