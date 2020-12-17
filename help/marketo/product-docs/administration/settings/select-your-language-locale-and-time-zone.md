@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Seleccione su idioma, configuración regional y huso horario {#select-your-language-locale-and-time-zone}
+# Seleccione su idioma, configuración regional y zona horaria {#select-your-language-locale-and-time-zone}
 
 ¿El inglés no es tu primer idioma? No te preocupes, te tenemos cubierto. Aquí se explica cómo cambiar su propio idioma, configuración regional y huso horario.
 
