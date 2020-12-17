@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Ocultar/mostrar un Canal de Programa {#hide-unhide-a-program-channel}
+# Ocultar/Mostrar un Canal de Programa {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-Puede [eliminar un canal](delete-a-program-channel.md) de programa si no lo está utilizando ningún programa.  Sin embargo, una vez que se utiliza, tenemos que mantenerlo.  Sin embargo, puede ocultarlo si ya no lo necesita.
+Puede [eliminar un canal de programa](delete-a-program-channel.md) si no lo está utilizando ningún programa.  Sin embargo, una vez que se utiliza, tenemos que mantenerlo.  Sin embargo, puede ocultarlo si ya no lo necesita.
 
 ## Ocultar un Canal de Programa {#hide-a-program-channel}
 
@@ -29,7 +29,7 @@ Puede [eliminar un canal](delete-a-program-channel.md) de programa si no lo est�
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
-1. En Acciones **de** etiqueta, haga clic en **Ocultar**.
+1. En **Acciones de etiqueta**, haga clic en **Ocultar**.
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 
