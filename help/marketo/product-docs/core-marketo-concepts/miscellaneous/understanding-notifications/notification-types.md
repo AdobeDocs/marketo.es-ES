@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Tipos de notificaciones {#notification-types}
+# Tipos de notificación {#notification-types}
 
 Existen varios tipos de notificaciones.
 
-## Error de campaña  {#campaign-failure}
+## Error de campaña {#campaign-failure}
 
 Los errores de campaña le notifican los errores de sus campañas inteligentes.
 
@@ -47,7 +47,7 @@ Si intenta enviar leads a Facebook sin aceptar los términos del servicio, o si 
 
 Limpieza de Campaña del activador inactivo
 
-Desactivar Campañas inteligentes activadas que ya no reciben ninguna actividad. Obtenga más información sobre la limpieza [](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)automática de campañas desencadenadoras.
+Desactivar Campañas inteligentes activadas que ya no reciben ninguna actividad. Obtenga más información sobre [limpieza automática de campañas desencadenadoras](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,5 @@ Recibirá una notificación cuando alcance su cuota diaria. La cuota se restable
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en nuestra Documentación [](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)para desarrolladores.
+>Algunos de los códigos de error que puede recibir se describen en nuestra [Documentación para desarrolladores](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
 
