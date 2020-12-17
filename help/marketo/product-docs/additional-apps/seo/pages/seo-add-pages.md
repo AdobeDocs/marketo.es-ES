@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ¡Tienes páginas! La optimización para motores de búsqueda de mercadotecnia rastreará automáticamente su sitio y lo rastreará. En caso de que nos hayamos perdido unos pocos, tráigalos en la aplicación SEO de esta manera:
 
-1. Vaya a la sección **Páginas** .
+1. Vaya a la sección **Páginas**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿Sabía que puede [agregar su página a una lista](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)nueva o existente? ¡Echa un vistazo!
+   >¿Sabía que puede [agregar su página a una lista nueva o existente](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? ¡Echa un vistazo!
 
    Es posible que los datos de la página tarden un momento en cargarse. Espere el mensaje de alerta verde y actualice la página para actualizar la visualización.
    ![](assets/image2014-9-18-12-3a57-3a10.png)
