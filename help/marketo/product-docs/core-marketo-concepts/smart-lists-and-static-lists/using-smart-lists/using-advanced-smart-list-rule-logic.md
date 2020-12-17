@@ -30,19 +30,19 @@ Puede encontrar las personas exactas que necesita aplicando la lógica de regla 
 
 ## Añadir la lógica en una Lista inteligente {#add-logic-to-a-smart-list}
 
-De forma predeterminada, su lista inteligente encontrará las personas que coinciden con **TODOS** los filtros (filtros 1 *y 2* y ** 3). Puede cambiar la lógica de la regla para buscar personas que coincidan con **CUALQUIER** filtros definido (filtros 1 *o* 2 *o* 3), o utilizar filtros avanzados (filtros 1 ** y 2 *o *3).
+De forma predeterminada, su lista inteligente encontrará las personas que coinciden con los filtros **ALL** (filtros 1 *y* 2 *y* 3). Puede cambiar la lógica de la regla para buscar personas que coincidan con **CUALQUIER** de los filtros definidos (filtros 1 *o* 2 *o* 3), o utilizar filtros avanzados (filtros 1 *y* 2 *o *3).
 
-En este ejemplo, supongamos que desea encontrar personas en California *y con una puntuación de al menos 50 puntos* o ** con un estado de &quot;Ventas calificadas&quot;.
+En este ejemplo, supongamos que desea encontrar personas en California *y* con una puntuación de al menos 50 puntos *o* con un estado de &quot;Ventas calificadas&quot;.
 
-1. Seleccione **Usar** **filtros** **avanzados** en la lista desplegable.
+1. Seleccione **Usar** **Avanzadas** **filtros** en la lista desplegable.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >El uso de filtros **avanzados** reduce la necesidad de crear listas inteligentes con el filtro Miembro de Lista inteligente. Esto ayuda a optimizar el rendimiento.
+   >El uso de filtros **Advanced** reduce la necesidad de crear listas inteligentes con el miembro del filtro de Lista inteligente. Esto ayuda a optimizar el rendimiento.
 
-1. El cuadro de texto **Avanzadas** **filtros** mostrará &quot;y&quot; como el valor predeterminado entre todos los filtros.
+1. El cuadro de texto **filtros** **avanzados** mostrará &quot;y&quot; como el valor predeterminado entre todos sus filtros.
 
    ![](assets/two-2.png)
 
@@ -58,13 +58,13 @@ En este ejemplo, supongamos que desea encontrar personas en California *y con un
 
    ![](assets/four-1.png)
 
-## Utilizar paréntesis al mezclar &quot;Y&quot; y &quot;O {#use-parentheses-when-mixing-and-and-or}
+## Usar paréntesis al mezclar &quot;And&quot; y &quot;Or {#use-parentheses-when-mixing-and-and-or}
 
 La combinación de la lógica &quot;y&quot; y &quot;o&quot; requiere paréntesis para dejar clara su intención.
 
 ![](assets/advancedfilters-parent.png)
 
-## Usar paréntesis anidados para cuatro o más Filtros si es necesario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Utilice paréntesis anidados para cuatro o más Filtros si es necesario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Según su intención, es posible que necesite agregar paréntesis anidados al usar cuatro o más filtros.
 
