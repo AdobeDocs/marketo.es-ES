@@ -21,11 +21,11 @@ Si ya no tiene uso para un campo en Marketing, puede ocultarlo en la interfaz de
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a **Administración** y haga clic en Administración **de campos**.
+1. Vaya a **Administración** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Busque el campo, selecciónelo y, a continuación, en Acciones **de** campo, haga clic en **Ocultar campo**.
+1. Busque el campo, selecciónelo y, a continuación, en **Acciones de campo** haga clic en **Ocultar campo**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -44,11 +44,11 @@ Si ya no tiene uso para un campo en Marketing, puede ocultarlo en la interfaz de
 
 ## Mostrar un campo {#unhide-a-field}
 
-1. Vaya a **Administración** y haga clic en Administración **de campos**.
+1. Vaya a **Administración** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Busque y seleccione el campo y, a continuación, en Acciones **de** campo, haga clic en **`Unhide Field`**.
+1. Busque y seleccione el campo y, a continuación, en **Acciones de campo** haga clic en **`Unhide Field`**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
