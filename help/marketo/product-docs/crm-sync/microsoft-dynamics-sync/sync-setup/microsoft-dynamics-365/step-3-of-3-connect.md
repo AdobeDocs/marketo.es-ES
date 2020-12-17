@@ -30,7 +30,7 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 >
 >**Se requieren permisos de administración**
 
-## Especifique la información del usuario de Dynamics Sync {#enter-dynamics-sync-user-information}
+## Escriba la información del usuario de Dynamics Sync {#enter-dynamics-sync-user-information}
 
 1. Inicie sesión en Marketing y haga clic en **Administración**.
 
@@ -44,7 +44,7 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Haga clic en **Editar** en el **paso 1: Introduzca las credenciales**.
+1. Haga clic en **Editar** en **Paso 1: Escriba Credentials**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -52,17 +52,17 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
    >
    >Asegúrese de que sus credenciales son correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de marketing.
 
-1. Introduzca el **nombre de usuario**, la **contraseña** y la **dirección URL** de Microsoft Dynamics (el ID de cliente y el secreto de cliente son opcionales). Haga clic en **Guardar** cuando termine.
+1. Introduzca **Nombre de usuario**, **Contraseña** y Microsoft Dynamics **URL** (el ID de cliente y el secreto de cliente son opcionales). Haga clic en **Guardar** cuando termine.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >El nombre de usuario de Marketing debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) o DOMINIO\usuario.
+   >El nombre de usuario de Marketing debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) o DOMAIN\user.
 
 ## Seleccionar campos para sincronizar {#select-fields-to-sync}
 
-1. Haga clic en **Editar** en el **paso 2: Seleccione Campos para sincronizar**.
+1. Haga clic en **Editar** en **Paso 2: Seleccione Campos para sincronizar**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -78,7 +78,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Haga clic en **Editar** en detalles de sincronización de campo.
+1. Haga clic en **Editar** en Detalles de sincronización de campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -88,7 +88,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
 ## Habilitar sincronización {#enable-sync}
 
-1. Haga clic en **Editar** en el **paso 3: Habilitar sincronización**.
+1. Haga clic en **Editar** en **Paso 3: Habilite Sincronizar**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -96,7 +96,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
    >
    >Marketo no desduplicará automáticamente una sincronización con Microsoft Dynamics o cuando introduzca personas o leads manualmente.
 
-1. Lea todo lo que aparece en la ventana emergente, escriba su dirección de correo electrónico y haga clic en Sincronización de **Inicio**.
+1. Lea todo en la ventana emergente, escriba su dirección de correo electrónico y haga clic en **Sincronización de Inicio**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
