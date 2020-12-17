@@ -19,11 +19,11 @@ Habilite la configuración de Publicar en perspectiva de ventas para que un corr
 
    ![](assets/one.png)
 
-1. Una vez que se abra el editor, haga clic en Configuración **de correo electrónico**.
+1. Una vez que se abra el editor, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/two.png)
 
-1. Marque **Publicar en perspectiva** de ventas de marketing.
+1. Marque **Publicar en Marketingto Sales Insight**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Habilite la configuración de Publicar en perspectiva de ventas para que un corr
 
 >[!NOTE]
 >
->[Mis tokens](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) no se resolverán al enviar un correo electrónico desde Sales Insight en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, Compañía, etc.). Sin embargo, los valores predeterminados para los tokens funcionarán.
+>[Mis ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) tokens no se resolverán al enviar un correo electrónico desde Sales Insight en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, Compañía, etc.). Sin embargo, los valores predeterminados para los tokens funcionarán.
 
 >[!TIP]
 >
