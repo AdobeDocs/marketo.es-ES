@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# Sincronización de Actividades personalizadas {#customize-activities-sync}
+# Sincronización de Actividades personalizada {#customize-activities-sync}
 
-Si no utiliza [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketing puede crear registros del historial de Actividades de Salesforce para determinados eventos. Así es como habilitarlos.
+Si no utiliza [Perspectiva de ventas](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketing puede crear registros del historial de Actividades de Salesforce para determinados eventos. Así es como habilitarlos.
 
 1. Vaya a **Administración. **
 
    ![](assets/admin.png)
 
-1. Haga clic en **Salesforce** y, a continuación, en **Editar opciones** de sincronización.
+1. Haga clic en **Salesforce** y, a continuación, haga clic en **Editar opciones de sincronización**.
 
    ![](assets/two-1.png)
 
-1. Marque las casillas situadas junto a actividades que desee que Marketing envíe a Salesforce y haga clic en **Guardar**.
+1. Marque las casillas junto a actividades que desee que Marketing envíe a Salesforce y haga clic en **Guardar**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Una vez habilitado, Marketing impulsará tres meses de historia de actividad. En función de la cantidad de datos, *esto podría tardar varios días en completarse*. Las actualizaciones que se producen durante la inserción de Actividades iniciales pueden retrasarse hasta que se complete la sincronización de Actividades iniciales.
+   >Una vez habilitado, Marketing impulsará tres meses de historia de actividad. Según la cantidad de datos, *esto podría llevar varios días para completarse*. Las actualizaciones que se producen durante la inserción de Actividades iniciales pueden retrasarse hasta que se complete la sincronización de Actividades iniciales.
 
 <table> 
  <colgroup> 
@@ -99,9 +99,9 @@ Si no utiliza [Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales
 >**Recordatorio**
 >
 >
->&quot;Correo electrónico de ventas recibido&quot; **no significa que** se haya enviado. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
+>&quot;Correo electrónico de ventas recibido&quot; significa **no** entregado. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
 
 >[!TIP]
 >
->Si le interesa obtener más información sobre el marketing en Salesforce, consulte nuestro producto [de Marketing Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) .
+>Si está interesado en obtener más información sobre el marketing en Salesforce, consulte nuestro [producto de Marketing to Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 
