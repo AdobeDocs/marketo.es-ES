@@ -27,9 +27,9 @@ En Marketing, tiene la opción de crear una asignación uno a uno entre un progr
 
 ![](assets/image2015-7-8-9-3a43-3a8.png)
 
-El costo [del](../../../../product-docs/administration/tags/create-a-program-channel.md) canal **** [y del](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** período ** en Marketing para sincronizar con Salesforce como tipo **de** campaña y costo **** real. Esta sincronización es de **una manera**, desde el Marketing hasta el Salesforce.
+El ** [canal](../../../../product-docs/administration/tags/create-a-program-channel.md) **y ** [costo del período](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)** en Marketing para sincronizar con Salesforce como el **tipo de campaña** y **costo real**. Esta sincronización es **de una manera**, de Marketing a Salesforce.
 
-Los miembros **del** programa de marketing y sus estados [de](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)progresión *** se mantienen sincronizados con los miembros **de la campaña de** Salesforce y las estatuas **de los miembros de la** campaña. Se trata de una **sincronización** bidireccional ****, por lo que cualquier cambio realizado en Marketing o Salesforce se refleja en ambos sistemas.
+Los **miembros del programa** del marketing y sus [estados de progresión](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)** se mantienen sincronizados con los **miembros de la campaña de Salesforce** y **estatuas de miembros de la campaña**. Se trata de una **sincronización** **bidireccional**, por lo que cualquier cambio realizado en Marketing o Salesforce se refleja en ambos sistemas.
 
 >[!NOTE]
 >
@@ -49,26 +49,26 @@ Filtros:
 
 ## ¿Puedo agregar personas con marketing a mi campaña de SFDC? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-Sí, utilice la acción [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)Añadir a flujo de campaña SFDC. Si esta persona no existe en Salesforce, Marketing lo creará en Salesforce y luego lo agregará a la campaña.
+Sí, utilice la acción [Añadir a flujo de campaña SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Si esta persona no existe en Salesforce, Marketing lo creará en Salesforce y luego lo agregará a la campaña.
 
 ## ¿Puedo eliminar miembros de mi campaña de SFDC mediante Marketing? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Sí, utilice la acción [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)Eliminar del flujo de Campaña de SFDC.
+Sí, utilice la acción [Eliminar de flujo de Campaña SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md).
 
 ## ¿Puedo cambiar el estado de los miembros de la campaña mediante el uso de Marketing? {#can-i-change-campaign-member-status-using-marketo}
 
-Sí, utilice la acción [](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)Cambiar estado en el flujo de Campaña SFDC.
+Sí, utilice la acción [Cambiar estado en la acción de flujo de Campaña SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md).
 
 ## ¿Por qué no puedo ver ninguna de mis campañas de Salesforce? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 A continuación se muestran algunas cosas que puede comprobar:
 
-1. Asegúrese de que la sincronización de [campañas está activada](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. Confirme que el usuario [de sincronización de](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) Marketing to es un usuario [de](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) marketing en Salesforce.
+1. Asegúrese de que la sincronización de [campaña está habilitada](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+1. Confirme que el [usuario de sincronización de marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) es [usuario de marketing](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) en Salesforce.
 
 >[!NOTE]
 >
->Si la campaña de Salesforce y el programa de marketing asignado tienen estados de programa incompatibles, puede recibir un mensaje de error. Se recomienda que [coincida con los estados de programa antes de la sincronización](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+>Si la campaña de Salesforce y el programa de marketing asignado tienen estados de programa incompatibles, puede recibir un mensaje de error. Le recomendamos que [coincida con los estados de programa antes de la sincronización](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 >[!MORELIKETHIS]
 >
