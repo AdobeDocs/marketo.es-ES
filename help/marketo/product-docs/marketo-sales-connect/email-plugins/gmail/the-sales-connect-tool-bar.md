@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Al iniciar sesión, se agregarán cinco botones de conexión de ventas a la parte superior de la página de Gmail.
 
-| **Live Feed, botón** | Abre la fuente [en](http://toutapp.com/next#live) directo de Sales Connect, donde puede obtener información de seguimiento en tiempo real de sus correos electrónicos. |
+| **Live Feed, botón** | Abre su conexión de ventas [fuente en directo](http://toutapp.com/next#live), donde puede obtener información de seguimiento en tiempo real de sus correos electrónicos. |
 |---|---|
 | **Botón tareas** | Muestra una lista desplegable de todas las tareas. |
-| **Botones Plantillas y *Conversaciones*** | Abre la página Plantillas de la aplicación [](http://toutapp.com/login)web y la página Conversaciones, respectivamente. Todo dentro de la página de Gmail. |
+| **Botones Plantillas **y conversaciones** | Abre la página Plantillas de la [aplicación Web](http://toutapp.com/login) y la página Conversaciones, respectivamente. Todo dentro de la página de Gmail. |
 | **Botón Gong ventas ** | Te permite celebrar tus acuerdos cerrados/ganados con tus compañeros de equipo. |
 
