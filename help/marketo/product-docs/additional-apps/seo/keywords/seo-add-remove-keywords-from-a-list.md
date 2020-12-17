@@ -17,7 +17,7 @@ Puede mantener todas las palabras clave en buen estado y organizadas mediante li
 
 ## Añadir a una Lista {#add-to-a-list}
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -41,7 +41,7 @@ Puede mantener todas las palabras clave en buen estado y organizadas mediante li
 
 También puede eliminar palabras clave de una lista.
 
-1. Vaya a la sección **Palabras clave** .
+1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
