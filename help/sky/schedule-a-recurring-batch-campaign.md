@@ -22,7 +22,7 @@ En este ejemplo elegimos una vez por semana, martes a las 8:00 a.m.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Vaya a la ficha **[!UICONTROL Programar]** y haga clic en **[!UICONTROL Definir periodicidad]**.
+1. Vaya a la ficha **[!UICONTROL Programar]** y haga clic en **[!UICONTROL Configurar periodicidad]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
@@ -30,15 +30,15 @@ En este ejemplo elegimos una vez por semana, martes a las 8:00 a.m.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Haga clic en el icono de calendario junto a Fecha **[!UICONTROL de Inicio de]** periodicidad y seleccione el día de la primera ejecución y la hora. Para este ejemplo, utilizamos el próximo martes disponible. Haga clic fuera del calendario cuando termine.
+1. Haga clic en el icono de calendario junto a **[!UICONTROL Fecha de Inicio de periodicidad]** y seleccione el día para la primera ejecución y la hora. Para este ejemplo, utilizamos el próximo martes disponible. Haga clic fuera del calendario cuando termine.
 
    ![Imagen Cuatro](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. Establezca **[!UICONTROL Repetir cada]** en 1 y seleccione **[!UICONTROL Martes]**.
+1. Establezca **[!UICONTROL Repita cada]** en 1 y seleccione **[!UICONTROL Martes]**.
 
    ![Imagen cinco](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Haga clic en el icono de calendario junto a **[!UICONTROL Finalizar el]** y elija una fecha de finalización. Haga clic en **[!UICONTROL Confirmar]** cuando termine.
+1. Haga clic en el icono de calendario junto a **[!UICONTROL Finalizando el]** y elija una fecha de finalización. Haga clic en **[!UICONTROL Confirmar]** cuando termine.
 
    ![Imagen seis](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
