@@ -26,7 +26,7 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-## Especifique la información del usuario de Dynamics Sync {#enter-dynamics-sync-user-information}
+## Escriba la información del usuario de Dynamics Sync {#enter-dynamics-sync-user-information}
 
 1. Inicie sesión en Marketing y haga clic en **Administración**.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Haga clic en **Editar** en el **paso 1: Introduzca las credenciales**.
+1. Haga clic en **Editar** en **Paso 1: Escriba Credentials**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -48,21 +48,21 @@ ht-degree: 0%
    >
    >Asegúrese de que sus credenciales son correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de marketing.
 
-1. Introduzca el **nombre de usuario**, la **contraseña** , una **dirección URL** de Microsoft Dynamics y un identificador **de** cliente opcional. Haga clic en **Guardar** cuando termine.
+1. Introduzca **Nombre de usuario**, **Contraseña** una dirección URL **de Microsoft Dynamics** y un **Id. de cliente** opcional. Haga clic en **Guardar** cuando termine.
 
    ![](assets/client-id.png)
 
    >[!NOTE]
    >
-   >El nombre de usuario de Marketing debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) o DOMINIO\usuario.
+   >El nombre de usuario de Marketing debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) o DOMAIN\user.
 
    >[!TIP]
    >
-   >¿No conoce la dirección URL? Aquí le mostraremos cómo encontrar la URL [del servicio de organización de](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dynamics.
+   >¿No conoce la dirección URL? Aquí le mostraremos cómo encontrar su [URL del servicio de organización de Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Seleccionar campos para sincronizar {#select-fields-to-sync}
 
-1. Haga clic en **Editar** en el **paso 2: Seleccione Campos para sincronizar**.
+1. Haga clic en **Editar** en **Paso 2: Seleccione Campos para sincronizar**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -78,7 +78,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Haga clic en **Editar** en detalles de sincronización de campo.
+1. Haga clic en **Editar** en Detalles de sincronización de campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -88,7 +88,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
 ## Habilitar sincronización {#enable-sync}
 
-1. Haga clic en **Editar** en el **paso 3: Habilitar sincronización**.
+1. Haga clic en **Editar** en **Paso 3: Habilite Sincronizar**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
@@ -96,7 +96,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
    >
    >Marketo no desduplicará automáticamente una sincronización con Microsoft Dynamics o cuando introduzca personas manualmente.
 
-1. Lea todo lo que aparece en la ventana emergente, escriba su correo electrónico y haga clic en Sincronización de **Inicio**.
+1. Lea todo en la ventana emergente, escriba su correo electrónico y haga clic en **Sincronización de Inicio**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
