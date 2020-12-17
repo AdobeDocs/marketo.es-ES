@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Administración de valores de etiqueta {#managing-tag-values}
 
-[Las etiquetas](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) se utilizan para describir programas. Puede crear tantos como necesite, cada uno con valores únicos. Así es como administrar esos valores.
+[](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) Las etiquetas se utilizan para describir programas. Puede crear tantos como necesite, cada uno con valores únicos. Así es como administrar esos valores.
 
 >[!NOTE]
 >
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Haga clic en** Nuevo** y, a continuación, en **Nuevo valor** de etiqueta.
+1. Haga clic en** Nuevo**, luego **Nuevo valor de etiqueta**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Seleccione el tipo **de** etiqueta.
+1. Seleccione el **Tipo de etiqueta**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 Las etiquetas pueden ser utilizadas por programas antiguos. Puede desactivarlos para su uso futuro ocultando el tipo de etiqueta.
 
-1. Seleccione la *** ****Etiqueta** y seleccione el **valor** que desee ocultar.
+1. Seleccione la *** ****Etiqueta** y seleccione el **Valor** que desee ocultar.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. En Acciones **** de etiqueta, seleccione **Ocultar**.
+1. En **Acciones de etiqueta**, seleccione **Ocultar**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
