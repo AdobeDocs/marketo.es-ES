@@ -19,7 +19,7 @@ Tener contactos en la página Personas es importante porque es desde donde extra
 
    ![](assets/one.png)
 
-1. Haga clic en Acciones **** de grupo y seleccione **Importar CSV**.
+1. Haga clic en **Acciones de grupo** y seleccione **Importar CSV**.
 
    ![](assets/two.png)
 
