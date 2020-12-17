@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si busca un conjunto específico de campos en los detalles de la persona una y otra vez, considere la posibilidad de crear un diseño personalizado para facilitar las cosas.
 
-1. Vaya a **Administración** y haga clic en Administración **de campos**.
+1. Vaya a **Administración** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Haga clic en la ficha Diseñador **de diseños** personalizados.
+1. Haga clic en la ficha **Diseñador de diseños personalizados**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
