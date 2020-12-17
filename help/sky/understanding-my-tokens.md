@@ -21,7 +21,7 @@ Mis tokens son variables personalizadas que se pueden crear y utilizar en las ca
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Para acceder a Mis tokens y crearlos, seleccione el programa o la campaña y vaya a la ficha [!UICONTROL Mis tokens] . Arrastre y suelte cualquier token en el lienzo de tokens  locales.
+Para acceder a Mis tokens y crearlos, seleccione el programa o la campaña y vaya a la ficha [!UICONTROL Mis tokens]. Arrastre y suelte cualquier token en el lienzo [!UICONTROL Tokens locales].
 
 ![Imagen uno](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -41,9 +41,9 @@ Para acceder a Mis tokens y crearlos, seleccione el programa o la campaña y vay
 
 Al crear un nuevo token, otros objetos del árbol pueden hacer referencia a él. Puede anular las variables globales en los niveles inferiores del árbol. Hay una estructura de nombres para la que se creó el token para facilitar la administración.
 
-* **Token local:** El token se creó directamente en ese programa o carpeta.
-* **[Distintivo anulado:](/help/sky/override-an-inherited-my-token.md)** El token se heredó, pero se hizo una excepción en este programa o carpeta.
-* **Token heredado:** El token se creó en el árbol en algún lugar de un programa o carpeta de nivel superior.
+* **Token local:** el token se creó directamente en ese programa o carpeta.
+* **[Token anulado:](/help/sky/override-an-inherited-my-token.md)** el token se heredó, pero se hizo una excepción en este programa o carpeta.
+* **Token heredado:** el token se creó en el árbol en algún lugar de un programa o carpeta de nivel superior.
 
 Puede encontrar estos tres tipos en la ficha **[!UICONTROL Mis tokens]** de su programa o campaña.
 
