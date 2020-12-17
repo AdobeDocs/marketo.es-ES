@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Automatizar una alerta para posibles personas Duplicados {#automate-an-alert-for-possible-duplicate-people}
+# Automatizar una alerta para posibles personas de Duplicado {#automate-an-alert-for-possible-duplicate-people}
 
 ¿Desea una alerta cada vez que se cree una persona de duplicado posible? A continuación se muestra cómo configurar una Campaña inteligente para hacerlo.
 
-1. [Cree una nueva campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)inteligente. Defina la siguiente lista inteligente:
+1. [Cree una nueva campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) inteligente. Defina la siguiente lista inteligente:
 
 * Activador: **Persona creada**
-* Filtro: **Campos de duplicado.** El nombre del campo **es el nombre completo**
+* Filtro: **Campos de Duplicado.** El nombre del campo  **es el nombre completo**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ ht-degree: 0%
    >
    >Sé creativo. Experimente con diferentes campos para obtener mejores resultados de filtrado.
 
-1. En el paso de flujo, elija [Enviar acción de flujo de alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) .
+1. En el paso de flujo, elija [Enviar acción de flujo de alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md).
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Uso del token [](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) Enviar información de alerta para incluir un vínculo a la persona en su CRM.
+   >Usar el [token de información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para incluir un vínculo a la persona en su CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >Además, dos personas con el mismo nombre no significa automáticamente que sean la misma persona.
 
-1. Active la campaña en la ficha **Programación** .
+1. Active la campaña en la ficha **Programar**.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
