@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Si ha programado una ejecución para una de sus campañas por lotes y desea cancelarla, así es como.
 
-1. Seleccione la campaña y vaya a la ficha **[!UICONTROL Programar]** .
+1. Seleccione la campaña y vaya a la ficha **[!UICONTROL Programar]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Haga clic en Ejecuciones **[!UICONTROL programadas]**.
+1. Haga clic en **[!UICONTROL Ejecuciones programadas]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Busque la ejecución programada que desee cancelar y haga clic en la **[!UICONTROL X]** situada en el extremo derecho.
+1. Busque la ejecución programada que desee cancelar y haga clic en la **[!UICONTROL X]** en el extremo derecho.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
