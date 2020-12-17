@@ -17,7 +17,7 @@ El teléfono de ventas le permite grabar y guardar sus grabaciones de llamadas. 
 
 ## Copiar vínculo de grabación de los detalles de la persona en la Aplicación web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Vaya a la aplicación [](http://toutapp.com/login)web.
+1. Vaya a la [aplicación Web](http://toutapp.com/login).
 1. Abra los detalles de la persona.
 1. Busque la Actividad Llamada en la lista actividad.
 1. Haga clic con el botón derecho en la grabación de la llamada y copie la URL del vínculo.
