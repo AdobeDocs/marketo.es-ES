@@ -23,11 +23,11 @@ Los estados de programa ayudan a realizar un seguimiento de cómo las personas a
 
 ## Uso {#usage}
 
-1. Arrastre el cursor en el paso **Cambiar estado** de Programa.
+1. Arrastre el paso de flujo **Cambiar estado de Programa**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Seleccione el **nuevo estado** que desee establecer. La persona también se convertirá en miembro del programa si aún no lo era.
+1. Seleccione el **Nuevo estado** que desea establecer. La persona también se convertirá en miembro del programa si aún no lo era.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
