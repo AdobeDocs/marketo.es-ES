@@ -17,11 +17,11 @@ El lienzo del recurso es una representación visual del programa. Puede utilizar
 
 ## Añadir recursos {#adding-assets}
 
-En el área Actividades **de** marketing, haga clic en la ficha **Recursos** . Elija cualquiera de los recursos siguientes y agréguelos a su programa.
+En el área **Actividades de marketing**, haga clic en la ficha **Recursos**. Elija cualquiera de los recursos siguientes y agréguelos a su programa.
 
 ![](assets/programassets.png)
 
-## Administrar su Programa  {#manage-your-program}
+## Administrar su Programa {#manage-your-program}
 
 Cuando haya recursos en el programa, los verá en la lista.
 
