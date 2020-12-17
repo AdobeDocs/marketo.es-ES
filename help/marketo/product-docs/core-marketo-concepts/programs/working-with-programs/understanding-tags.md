@@ -23,7 +23,7 @@ Los tipos de etiquetas identifican el tipo de información por la que se desea o
 
 >[!TIP]
 >
->Si desea crear etiquetas personalizadas, póngase en contacto con el administrador [de marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) .
+>Si desea crear etiquetas personalizadas, póngase en contacto con el [administrador de marketing](http://docs.marketo.com/display/DOCS/Create+Custom+Tags).
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Cada tipo de etiqueta tendrá valores para elegir.
 
 ## Canal {#channel}
 
-Los canales se utilizan para informar sobre cómo se movieron [los miembros](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) a través del programa. Cada canal tiene un conjunto de estados de progresión y un estado que se establece en igual éxito.
+Los canales se utilizan para informar cómo [miembros](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) se movieron a través del programa. Cada canal tiene un conjunto de estados de progresión y un estado que se establece en igual éxito.
 
 >[!NOTE]
 >
