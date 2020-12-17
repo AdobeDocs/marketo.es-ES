@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede sobrescribir el dominio de marca principal por correo electrónico. Esto cambiará la marca de los vínculos al enviar el correo electrónico.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
