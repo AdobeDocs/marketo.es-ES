@@ -14,17 +14,17 @@ ht-degree: 0%
 
 <br> 
 
-Cuando las personas agotan todo el contenido de un flujo, [!DNL Marketo] pueden enviarle una notificación. Puede deshabilitar o habilitar las notificaciones según sus necesidades.
+Cuando las personas agotan todo el contenido de un flujo, [!DNL Marketo] puede enviarle una notificación. Puede deshabilitar o habilitar las notificaciones según sus necesidades.
 
 1. Seleccione el programa de participación.
 
    ![Imagen uno](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Haga clic en la ficha **[!UICONTROL Configuración]** .
+1. Haga clic en la ficha **[!UICONTROL Configuración]**.
 
    ![Imagen dos](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Desplácese hacia abajo hasta [!UICONTROL Configuración] y seleccione **[!UICONTROL Desactivado]** (o [!UICONTROL Activado]).
+1. Desplácese hacia abajo hasta [!UICONTROL Configuración] y seleccione **[!UICONTROL Desactivado]** (o [!UICONTROL En]).
 
    ![Imagen tres](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
