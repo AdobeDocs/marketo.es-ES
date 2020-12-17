@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Editar configuración de comportamiento de Analytics {#edit-analytics-behavior-settings}
 
-Puede establecer el comportamiento de [análisis en el nivel de administrador en canales](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), pero también puede editarlo en el nivel de programa. Así es como.
+Puede establecer el comportamiento [de análisis en el nivel de administrador en canales](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), pero también puede editarlo en el nivel de programa. Así es como.
 
 1. Vaya a Actividades de marketing.
 
