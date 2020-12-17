@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar el Panel de Programa de correo electrónico - Vista de prueba A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Compruebe el rendimiento de la prueba [A/B de programa de](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) correo electrónico con este panel.
+Compruebe el rendimiento de la prueba A/B del [programa de correo electrónico](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) con este panel.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
