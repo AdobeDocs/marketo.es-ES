@@ -19,7 +19,7 @@ Los momentos interesantes son la clave para comunicarse con el equipo de ventas 
 >
 >**Disponibilidad**
 >
->Solo están disponibles para los clientes de Marketing [to Sales Insight](http://docs.marketo.com/x/2Akt) y MarketingTo Sales Connect.
+>Están disponibles para [Marketing to Sales Insight](http://docs.marketo.com/x/2Akt) y clientes de Marketing to Sales Connect solamente.
 
 ## ¿Qué es un momento interesante?  {#what-is-an-interesting-moment}
 
@@ -31,11 +31,11 @@ Los momentos interesantes son la clave para comunicarse con el equipo de ventas 
 
 ## ¿Cómo creo un momento interesante? {#how-do-i-create-an-interesting-moment}
 
-1. Elija una campaña [](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) s [](http://docs.marketo.com/display/docs/smart+campaigns)mart, preferiblemente una que su equipo de ventas encuentre interesante si se activa.
+1. Elija una [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [campaña inteligente](http://docs.marketo.com/display/docs/smart+campaigns), preferiblemente una que su equipo de ventas encuentre interesante si se activa.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Arrastre el cursor sobre el paso de flujo de momentos **interesantes** .
+1. Arrastre el ratón sobre el paso de flujo **Momentos interesantes**.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
@@ -53,7 +53,7 @@ Los momentos interesantes son la clave para comunicarse con el equipo de ventas 
 
 ## ¿Cómo se ve un momento interesante en el mercado?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Los momentos interesantes se mostrarán en el registro [de actividades de un](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)posible cliente.
+Los momentos interesantes se mostrarán en un [registro de actividades del posible cliente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
