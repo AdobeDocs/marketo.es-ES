@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-En la ficha [!UICONTROL Configuración] del programa, puede seleccionar un canal, agregar etiquetas y costes de período, y cambiar la configuración.
+En la ficha [!UICONTROL Configuración] del programa, puede seleccionar un canal, agregar etiquetas y costos de período, y cambiar la configuración.
 
 ![Imagen uno](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,7 +30,7 @@ Para cambiar el canal de programa, seleccione otro en la lista desplegable situa
 
 ## Añadir etiquetas
 
-1. En la sección [!UICONTROL Etiquetas] , haga clic en la lista desplegable **[!UICONTROL Atributo]** y elija un atributo de etiqueta en las opciones disponibles.
+1. En la sección [!UICONTROL Etiquetas], haga clic en la lista desplegable **[!UICONTROL Atributo]** y elija un atributo de etiqueta en las opciones disponibles.
 
    ![Imagen tres](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
@@ -44,11 +44,11 @@ Para cambiar el canal de programa, seleccione otro en la lista desplegable situa
 
 >[!NOTE]
 >
->Aprenda a [crear etiquetas de programa en Marketing](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) Classic y haga que estén disponibles las opciones de la lista desplegable.
+>Obtenga información sobre cómo [crear etiquetas de programa en Marketingto Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) y hacer que estén disponibles las opciones en la lista desplegable.
 
 ## Añadir costos de período
 
-1. En la sección Costos [!UICONTROL de] período, seleccione un mes, introduzca un costo y agregue un nombre o una descripción cortos. Haga clic en **[!UICONTROL Añadir]**.
+1. En la sección [!UICONTROL Costos de período], seleccione un mes, introduzca un costo y agregue un nombre o una descripción cortos. Haga clic en **[!UICONTROL Añadir]**.
 
    ![Imagen seis](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Para cambiar el canal de programa, seleccione otro en la lista desplegable situa
 
 ## Cambiar configuración
 
-En la sección [!UICONTROL Configuración] , puede elegir una campaña de CRM para sincronizar (si la suscripción tiene integración de CRM) y/o cambiar el comportamiento de análisis para su programa.
+En la sección [!UICONTROL Configuración], puede elegir una campaña CRM para sincronizar con (si la suscripción tiene integración con CRM) y/o cambiar el comportamiento de análisis para su programa.
 
 ![Imagen ocho](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
