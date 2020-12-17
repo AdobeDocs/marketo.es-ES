@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Restringir los inicios de sesión de marketing en función de la IP {#restrict-marketo-logins-based-on-ip}
+# Restringir inicios de sesión de marketing en base a IP {#restrict-marketo-logins-based-on-ip}
 
 Puede restringir o habilitar el acceso de los usuarios a Marketing en función de sus direcciones IP. Así es como.
 
@@ -23,11 +23,11 @@ Puede restringir o habilitar el acceso de los usuarios a Marketing en función d
 >
 >La información de este artículo sólo se aplica a los inicios de sesión directos en login.marketo.com. No es posible aplicar restricciones de IP en los inicios de sesión únicos (SSO) en este momento.
 
-1. En **Administración**, haga clic en Configuración **de inicio de sesión**.
+1. En **Administración**, haga clic en **Configuración de inicio de sesión**.
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
-1. Haga clic en **Editar restricciones** de IP.
+1. Haga clic en **Editar restricciones de IP**.
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
