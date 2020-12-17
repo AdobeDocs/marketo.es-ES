@@ -23,7 +23,7 @@ Se produce una devolución forzada cuando se produce un error en un correo elect
 
 >[!NOTE]
 >
->¿Desea configurar Sales Connect para que pase por su propio proveedor SMTP? Sólo ve [aquí](http://docs.marketo.com/x/zYTS).
+>¿Desea configurar Sales Connect para que pase por su propio proveedor SMTP? Sólo vaya [aquí](http://docs.marketo.com/x/zYTS).
 
 ## Lista de correos electrónicos devueltos {#list-of-bounced-emails}
 
