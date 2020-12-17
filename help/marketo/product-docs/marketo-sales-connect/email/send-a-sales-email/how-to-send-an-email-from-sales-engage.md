@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Cómo enviar un correo electrónico desde el compromiso de ventas {#how-to-send-an-email-from-sales-engage}
 
-1. Haga clic en el botón **Componer** en la parte superior derecha del Centro de comandos.
+1. Haga clic en el botón **Componer** en la esquina superior derecha del Centro de comandos.
 1. Escriba la dirección de correo electrónico y el nombre del destinatario.
 1. Escriba el asunto del correo electrónico.
 1. Seleccione una plantilla de correo electrónico o escriba un nuevo mensaje.
