@@ -25,15 +25,15 @@ Marketo es bueno en elegir sólo a las personas adecuadas para un programa o una
 >
 >**Buceo profundo**
 >
->Aprenda [a crear segmentaciones](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Obtenga más información sobre [cómo crear segmentaciones](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Una vez configuradas estas personas (**y que** utilice espacios de trabajo), querrá compartirlas entre los espacios de trabajo. A continuación se presentan algunas cosas buenas que saber:
+Una vez que tenga configuradas estas personas (**y** utiliza espacios de trabajo), querrá compartirlas entre los espacios de trabajo. A continuación se presentan algunas cosas buenas que saber:
 
 ## Reglas y sugerencias {#rules-tips}
 
-* Cada suscripción de marketing puede contener hasta 20 segmentos &quot;en total&quot; en varias áreas de trabajo (**no 20 por espacio de trabajo**).
+* Cada suscripción de Marketing to puede contener hasta 20 segmentos &quot;total&quot; en varios espacios de trabajo (**no 20 por espacio de trabajo**).
 * Solo puede compartir una segmentación con espacios de trabajo a los que tenga acceso.
-* Asegúrese de crear y utilizar un espacio de trabajo **Predeterminado que tenga visibilidad en todas las particiones**.
+* Asegúrese de crear y utilizar un **espacio de trabajo predeterminado que tenga visibilidad en todas las particiones**.
 
 * El procesamiento de la segmentación solo se ejecuta en las personas del espacio de trabajo donde se crea la segmentación.
 
@@ -52,7 +52,7 @@ Una vez configuradas estas personas (**y que** utilice espacios de trabajo), que
 >
 >Algunas de estas reglas son un poco complejas. La manera más fácil de empezar es probarla con personas específicas. Siempre puede crear nuevas segmentaciones y deshacerse de las antiguas.
 
-## Escenarios de ejemplo {#example-scenarios}
+## Ejemplos de escenarios {#example-scenarios}
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
