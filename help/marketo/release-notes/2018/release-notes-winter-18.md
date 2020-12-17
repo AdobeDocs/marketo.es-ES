@@ -25,9 +25,9 @@ Marketo aprovecha nuestra arquitectura de datos de gran tamaño para aumentar el
 
 Tenemos dos mejoras en nuestra integración de CRM de Salesforce:
 
-* [Notificaciones](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) de administrador de marketing para determinados errores de sincronización de CRM (credenciales caducadas, límites de API alcanzados, etc.)
+* [Notificaciones del administrador de marketing para ](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) determinados errores de sincronización de CRM (credenciales caducadas, límites de API alcanzados, etc.)
 
-* [Posibilidad de desactivar las notificaciones](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) por correo electrónico a los propietarios de posibles clientes tras la asignación de posibles clientes
+* [Posibilidad de desactivar ](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) las notificaciones por correo electrónico a los propietarios de posibles clientes tras la asignación de posibles clientes
 
 Estas mejoras se implementarán en 2018.
 
@@ -43,39 +43,39 @@ Explore cómo sus campañas y canales afectan los resultados comerciales con an�
 
 ## Mejoras de mercadotecnia basadas en cuentas {#account-based-marketing-enhancements}
 
-** Jerarquías [ABM](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+** [Jerarquías ABM](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 Para los clientes ABM con Salesforce o Microsoft Dynamics, ABM heredará (y mostrará) automáticamente las relaciones padre-hijo establecidas en la CRM. Podrá usar estas relaciones tanto en el sistema de informes de resumen como en la ejecución de campañas.
 
 ## Marketing por correo electrónico {#email-marketing}
 
-** Secuencia de comandos [de correo electrónico](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)dinámica**
+** [Script de correo electrónico dinámico](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
 Ahora, los mensajes de correo electrónico que utilizan contenido dinámico admiten las secuencias de comandos Velocity. Combine la velocidad y el contenido dinámico basado en la segmentación para crear correos electrónicos altamente personalizados.
 
 **Huso horario del destinatario**
 
-* ** [Cecilla ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**de la nutrición mensual:** **Hemos agregado la capacidad de programar programas de crianza en una cadencia mensual.
+* ** [Cadencia de nutrientes mensuales ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **Hemos agregado la capacidad de programar programas de crianza en una cadencia mensual.
 
 * ** [Detener Envío](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Ahora puede detener los envíos restantes a mitad de ejecución.
 
 ## Integraciones de red de publicidad {#ad-network-integrations}
 
-** Integración [de coincidencias con clientes de Google](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+** [Integración de coincidencias con clientes de Google](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 Con esta integración, puede enviar una audiencia de marketing a Google para que sea el objetivo mediante Google AdWords, así como también audiencias de redestinatario en YouTube, Search y Gmail.
 
-** Mejora [de la API de Audiencias coincidentes de LinkedIn](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+** [Mejora de la API de Audiencias coincidentes de LinkedIn](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Nuestra nueva API de LinkedIn ahora le permite volver a realizar el destinatario de personas en la base de datos de Marketing en varias cuentas del Administrador de Campañas de LinkedIn.
 
-## Personalización web {#web-personalization}
+## Personalización Web {#web-personalization}
 
 **Fuente de datos japonesa para la personalización web**
 
 Marketo está agregando una fuente de datos japonesa adicional para la Personalización web a fin de mejorar la identificación de visitantes web (búsqueda IP inversa) y la personalización de visitantes procedentes de Japón. Los nombres de organización se mostrarán en japonés.
 
-** [Crear un segmento web con Listas](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)estáticas**
+** [Crear un segmento Web usando Listas estáticas](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 La personalización web ahora puede personalizar el contenido para un visitante web conocido que forme parte de una lista estática definida en Actividades de marketing (MLM). Con esta mejora, ahora puede comercializar listas estáticas en canales y personas de destinatario en estas listas con contenido personalizado en su sitio web.
 
@@ -83,11 +83,11 @@ La personalización web ahora puede personalizar el contenido para un visitante 
 
 **Mejora del algoritmo predictivo**
 
-El contenido recomendado mediante los algoritmos de`<sup>AI </sup>`contenido optimizados de Marketing genera hasta el doble de clics que el contenido aleatorio.
+El contenido recomendado mediante los algoritmos de contenido optimizado`<sup>AI </sup>`de Marketing genera hasta el doble de clics que el contenido aleatorio.
 
 ## Integración {#integration}
 
-** [Activar/Desactivar API](http://developers.marketo.com/rest-api/assets/campaigns/)de Campaña**
+** [Activar/Desactivar API de Campaña](http://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Esta nueva API le permite activar y desactivar de forma remota campañas desencadenadoras, por lo que ahora puede crear plantillas de programa totalmente automatizadas. Cree una plantilla de programa una vez, luego automatice la clonación, las actualizaciones de material publicitario de marketing y ahora la activación/programación de campañas inteligentes.
 
@@ -95,7 +95,7 @@ Esta nueva API le permite activar y desactivar de forma remota campañas desenca
 
 **Cancelar suscripción**
 
-A partir del 1 de marzo de 2018, todos los correos electrónicos enviados desde [ToutApp.com](http://ToutApp.com) (y mediante el botón &quot;Correo electrónico con salida&quot; en Salesforce) tendrán un vínculo de cancelación de suscripción anexado al final.
+A partir del 1 de marzo de 2018, todos los correos electrónicos enviados desde [ToutApp.com](http://ToutApp.com) (y mediante el botón &quot;Correo electrónico con Tout&quot; en Salesforce) tendrán un vínculo de cancelación de suscripción anexado al final.
 
 **Actualización de fuente en directo**
 
