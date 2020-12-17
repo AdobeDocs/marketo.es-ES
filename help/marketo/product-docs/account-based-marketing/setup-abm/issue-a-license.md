@@ -23,15 +23,15 @@ Deberá configurar los usuarios con una licencia para utilizar ABM. Así es como
 
    ![](assets/one.png)
 
-1. Haga clic en **Usuarios y funciones**. Seleccione el usuario al que desea otorgar la licencia, haga clic en la lista desplegable **Expedir licencia** y seleccione Marketing **basado en** cuenta.
+1. Haga clic en **Usuarios y funciones**. Seleccione el usuario al que desea otorgar la licencia, haga clic en la lista desplegable **Licencia de emisión** y seleccione **Marketing basado en cuenta**.
 
    ![](assets/two.png)
 
-1. Marque la casilla **Activar licencia** y haga clic en **Guardar**.
+1. Marque la casilla **Habilitar licencia** y haga clic en **Guardar**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Para eliminar una licencia de usuario, siga el paso 1, luego ** desmarque la casilla y haga clic en **Guardar**.
+   >Para quitar una licencia de usuario, siga el paso 1 y *un* marque la casilla de verificación y haga clic en **Guardar**.
 
