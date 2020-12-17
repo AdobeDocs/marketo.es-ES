@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Evitar las Vistas personales {#preventing-self-views}
+# Evitar Vistas {#preventing-self-views}
 
 ## Información general {#overview}
 
@@ -37,15 +37,15 @@ El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel d
 
    ![](assets/win-2.png)
 
-1. En el cuadro de diálogo Opciones de Outlook, haga clic en Centro de **confianza**.
+1. En el cuadro de diálogo Opciones de Outlook, haga clic en **Centro de confianza**.
 
    ![](assets/win-3.png)
 
-1. En el Centro de confianza de Microsoft Outlook, haga clic en Configuración **del centro de confianza**.
+1. En Centro de confianza de Microsoft Outlook, haga clic en **Configuración del centro de confianza**.
 
    ![](assets/win-4.png)
 
-1. Haga clic en Descarga automática en el menú de la izquierda y seleccione la casilla de verificación **No descargar imágenes automáticamente en correos electrónicos HTML o elementos** RSS.
+1. Haga clic en Descarga automática en el menú de la izquierda y seleccione la casilla de verificación **No descargar imágenes automáticamente en el correo electrónico HTML o elementos RSS**.
 
    ![](assets/win-5.png)
 
@@ -65,11 +65,11 @@ El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel d
 
    ![](assets/mac-1.png)
 
-1. En Correo electrónico, seleccione **Leer**.
+1. En Correo electrónico, elija **Lectura**.
 
    ![](assets/mac-2.png)
 
-1. En Seguridad, haga clic en el botón de opción **Nunca** .
+1. En Seguridad, haga clic en el botón de opción **Nunca**.
 
    ![](assets/mac-3.png)
 
