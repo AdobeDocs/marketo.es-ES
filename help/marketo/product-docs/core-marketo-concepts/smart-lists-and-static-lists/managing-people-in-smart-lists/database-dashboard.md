@@ -19,7 +19,7 @@ El Panel Base de datos sirve como instantánea para ayudarle a determinar rápid
 >
 >Cada espacio de trabajo tiene su propia base de datos.
 
-Para llegar allí, puede hacer clic en el mosaico **Base de datos** en la pantalla de inicio...   ![](assets/db-3.png)
+Para llegar allí, puede hacer clic en el mosaico **Base de datos** en la pantalla principal...   ![](assets/db-3.png)
 
 O bien, haga clic en el logotipo de Marketing y seleccione **Base de datos**.
 
@@ -31,7 +31,7 @@ Los gráficos indican el número total de personas, el número de personas comer
 
 >[!TIP]
 >
->¿Quieres obtener información más específica o oportuna sobre tu gente? Pruebe un informe [de rendimiento de](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)personas.
+>¿Quieres obtener información más específica o oportuna sobre tu gente? Pruebe un [Informe de rendimiento de personas](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de personas:** El número de personas que no han estado en ese espacio de trabajo.  **Personas comercializables:** El número de personas que no han estado en el espacio de trabajo, *menos lo siguiente*: personas sin una dirección de correo electrónico, personas cuyo correo electrónico se ha rebotado, personas incluidas en la lista de bloqueados, personas que no se han suscrito, personas que actualmente están configuradas como Mercadotecnia suspendida.
+**Total de personas:** el número de personas que no han estado en ese espacio de trabajo.  **Personas comercializables:** el número de personas que no han pasado por ningún tiempo en el espacio de trabajo,  *menos lo siguiente*: personas sin una dirección de correo electrónico, personas cuyo correo electrónico se ha rebotado, personas incluidas en la lista de bloqueados, personas que no se han suscrito, personas que actualmente están configuradas como Mercadotecnia suspendida.
 
