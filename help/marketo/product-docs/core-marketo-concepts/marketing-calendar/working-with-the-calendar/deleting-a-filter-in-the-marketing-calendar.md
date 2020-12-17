@@ -19,7 +19,7 @@ Si desea eliminar un filtro en el calendario de marketing, ha llegado al lugar c
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Haga clic en la **x** roja.
+1. Haga clic en el color rojo **x**.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
