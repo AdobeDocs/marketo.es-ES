@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Crear usuarios {#create-users}
 
-1. Vaya a **Administración** y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Introduzca la dirección **de** correo electrónico, el **nombre** y el **Apellido. **
+1. Escriba la **dirección de correo electrónico**, **Nombre** y **Apellidos. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
    **
 
-1. De forma opcional, introduzca un motivo para la invitación y seleccione una fecha de caducidad en el campo **Acceso caduca** con el selector de fechas.
+1. De forma opcional, introduzca un motivo para la invitación y seleccione una fecha de caducidad en el campo **El acceso caduca** mediante el selector de fechas.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
@@ -103,7 +103,7 @@ El usuario recibirá un mensaje de correo electrónico con instrucciones de rest
 
 ## Cambiar permisos y editar información de usuario {#change-permissions-and-edit-user-information}
 
-1. Vaya a **Administración** y haga clic en **Usuarios y funciones.**
+1. Vaya a **Administración** y haga clic en **Usuarios y roles.**
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
