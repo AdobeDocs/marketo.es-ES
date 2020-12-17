@@ -19,7 +19,7 @@ Añadir a los miembros del equipo es rápido y fácil!
 
    ![](assets/one.png)
 
-1. En Configuración de administración, seleccione Administración **de equipos**.
+1. En Configuración de administración, seleccione **Administración de equipos**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ Añadir a los miembros del equipo es rápido y fácil!
 
    ![](assets/three.png)
 
-1. Introduzca las direcciones de correo electrónico de las personas que desee agregar y haga clic en **Siguiente**.
+1. Escriba las direcciones de correo electrónico de las personas que desee agregar y haga clic en **Siguiente**.
 
    ![](assets/four.png)
 
