@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Previsualización el correo electrónico después de agregar contenido dinámico para verificarlo.
 
-1. Seleccione el correo electrónico y haga clic en Correo electrónico **de Previsualización**.
+1. Seleccione su correo electrónico y haga clic en **Correo electrónico de Previsualización**.
 
    ![](assets/one-3.png)
 
@@ -32,7 +32,7 @@ Previsualización el correo electrónico después de agregar contenido dinámico
 
 También puede previsualización de contenido dinámico directamente en el editor de correo electrónico.
 
-1. En **Contenido**, haga clic en la ficha **Dinámico** .
+1. En **Contenido**, haga clic en la ficha **Dinámico**.
 
    ![](assets/five-1.png)
 
