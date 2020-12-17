@@ -11,18 +11,18 @@ ht-degree: 0%
 ---
 
 
-# Añadir campos de vínculo de objeto personalizado de marketing a {#add-marketo-custom-object-link-fields}
+# Añadir campos de vínculo de objeto personalizado de marketing {#add-marketo-custom-object-link-fields}
 
 Al crear objetos personalizados, debe proporcionar campos de vínculo para conectar el registro de objetos personalizado con el registro principal correcto.
 
 * Para una estructura personalizada de uno a varios, utilice el campo de vínculo del objeto personalizado para conectarlo a una persona o una compañía.
 * Para una estructura de varios a varios, se utilizan dos campos de vínculo, conectados desde un objeto intermedio creado por separado (que también es un tipo de objeto personalizado). Un vínculo se conecta a personas o compañías de la base de datos y el otro se conecta al objeto personalizado. En este caso, el campo de vínculo no se encuentra en el propio objeto personalizado.
 
-## Creación de un campo de vínculo para una estructura de uno a varios {#create-a-link-field-for-a-one-to-many-structure}
+## Crear un campo de vínculo para una estructura de uno a varios {#create-a-link-field-for-a-one-to-many-structure}
 
 A continuación se muestra cómo crear un campo de vínculo en un objeto personalizado para una estructura de uno a varios.
 
-1. Haga clic en **Administración** y, en Administración **de** bases de datos, seleccione **Comercializar objetos** personalizados.
+1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +30,7 @@ A continuación se muestra cómo crear un campo de vínculo en un objeto persona
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. En la ficha **Campos** , haga clic en **Nuevo campo**.
+1. En la ficha **Campos**, haga clic en **Nuevo campo**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -65,7 +65,7 @@ A continuación se muestra cómo crear un campo de vínculo en un objeto persona
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
-## Creación de un campo de vínculo para una estructura de varios a varios {#create-a-link-field-for-a-many-to-many-structure}
+## Crear un campo de vínculo para una estructura de varios a varios {#create-a-link-field-for-a-many-to-many-structure}
 
 A continuación se muestra cómo crear un campo de vínculo en un objeto intermedio para utilizarlo en una estructura de varios a varios.
 
@@ -73,7 +73,7 @@ A continuación se muestra cómo crear un campo de vínculo en un objeto interme
 >
 >Debe haber creado ya el objeto intermediario y los objetos personalizados con los que desea vincularlo.
 
-1. Haga clic en **Administración** y, en Administración **de** bases de datos, seleccione **Comercializar objetos** personalizados.
+1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de marketing**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -81,7 +81,7 @@ A continuación se muestra cómo crear un campo de vínculo en un objeto interme
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. En la ficha **Campos**, haga clic en **Nuevo campo**.
+1. En la ficha **Campos **, haga clic en **Nuevo campo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
