@@ -17,19 +17,19 @@ La coincidencia a la derecha lleva a las cuentas con nombre a la derecha mediant
 
 >[!NOTE]
 >
->**La coincidencia** de cliente potencial a cuenta es una característica integrada de la mercadotecnia basada en cuentas de marketing. Utiliza una lógica borrosa para hacer coincidir automáticamente los leads con las cuentas con nombre correctas en tiempo casi real. Estas cuentas con nombre pueden ser cuentas CRM o compañías de marketing.
+>**La** coincidencia de posibles clientes con cuentas es una característica integrada de la mercadotecnia basada en cuentas de marketing. Utiliza una lógica borrosa para hacer coincidir automáticamente los leads con las cuentas con nombre correctas en tiempo casi real. Estas cuentas con nombre pueden ser cuentas CRM o compañías de marketing.
 
 La coincidencia de posibles clientes con respecto a la cuenta de Marketing sigue un proceso de cuatro pasos:
 
-**Paso 1:** nuestro proceso de coincidencia comienza con la información clave de los registros de posibles clientes, como:
+**Paso 1:** Nuestro proceso de coincidencia comienza con la información clave de los registros de posibles clientes, como:
 
 * Dominio de correo electrónico (por ejemplo, acme.com)
 * Nombre de compañía preferido de la dirección IP
 * Nombre de la compañía: puede ser el nombre de la cuenta de CRM o el atributo del nombre de la compañía de posible cliente, por ejemplo, proviene del formulario de cumplimentación
 
-**Paso 2 -** Normalizamos los nombres de compañías que encontramos en base a varios atributos de posibles clientes (por ejemplo, Acme Inc. y Acme Corp se normalizan automáticamente en Acme). Este paso garantiza que contamos con una sola representación de la cuenta con nombre en Marketing y que podemos ver todos los leads dentro de una única cuenta con nombre.
+**Paso 2:** normalizamos los nombres de compañías que encontramos en función de varios atributos de posibles clientes (por ejemplo, Acme Inc. y Acme Corp se normalizan automáticamente en Acme). Este paso garantiza que contamos con una sola representación de la cuenta con nombre en Marketing y que podemos ver todos los leads dentro de una única cuenta con nombre.
 
-**Paso 3 -** La partición coincidió con los leads en dos bloques: Coincidencia fuerte y coincidencia débil.
+**Paso 3:** Los leads coincidentes de partición se dividen en dos bloques: Coincidencia fuerte y coincidencia débil.
 
 * Los posibles clientes que no coinciden aparecen en las cuentas con nombre, lo que puede resolverse manualmente.
 
@@ -39,7 +39,7 @@ Dado que la coincidencia de posibles clientes de marketing con cuentas es una ca
 
 >[!NOTE]
 >
->Si usa LeanData en Salesforce para hacer la coincidencia de posibles clientes con cuentas, Marketing tiene una integración que sincronizará esas coincidencias con su instancia de Marketing. Para habilitar esa función, póngase en contacto con la asistencia técnica [de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si usa LeanData en Salesforce para hacer la coincidencia de posibles clientes con cuentas, Marketing tiene una integración que sincronizará esas coincidencias con su instancia de Marketing. Para habilitar esa función, póngase en contacto con [Soporte técnico de Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >
