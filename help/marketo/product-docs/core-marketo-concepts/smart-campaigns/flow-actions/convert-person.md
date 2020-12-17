@@ -33,11 +33,11 @@ Utilice este paso de flujo para convertir a una persona en un contacto en Salesf
    >
    >La conversión de una persona en Marketing resultará en una nueva cuenta y oportunidad en Salesforce. Si no desea cuentas de duplicado, utilice Salesforce para convertir.
 
-1. Seleccione si desea que se envíe una **notificación** al propietario o no.
+1. Elija si desea que se envíe una **notificación** al propietario o no.
 
    ![](assets/three-2.png)
 
-1. Seleccione el estado **** convertido.
+1. Seleccione el **estado convertido**.
 
    ![](assets/four-3.png)
 
