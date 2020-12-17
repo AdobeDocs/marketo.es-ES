@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Encuentre a una persona a partir de los resultados de una lista o lista inteligente mediante la búsqueda rápida.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione la lista inteligente que desee buscar y, a continuación, haga clic en la ficha **Personas** .
+1. Seleccione la lista inteligente que desee buscar y, a continuación, haga clic en la ficha **Personas**.
 
    ![](assets/smartlistpeople.png)
 
-## Buscar personas con información personal {#find-people-using-personal-info}
+## Buscar personas usando información personal {#find-people-using-personal-info}
 
-1. En el cuadro Búsqueda **** rápida de la parte inferior de la pantalla, escriba una palabra clave (nombre **** personal, dirección **de** correo electrónico o título **de** trabajo).
+1. En el cuadro **Búsqueda rápida** de la parte inferior de la pantalla, escriba una palabra clave (**nombre personal**, **dirección de correo electrónico** o **puesto de trabajo**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Encuentre a una persona a partir de los resultados de una lista o lista intelige
 
 ## Buscar personas con un nombre de Compañía {#find-people-using-a-company-name}
 
-1. Para buscar una compañía, escriba [**compañía**] en el cuadro Búsqueda **** rápida, seguido de cualquier parte del nombre de la compañía que esté buscando.
+1. Para encontrar una compañía, escriba [**compañía**] en el cuadro **Búsqueda rápida**, seguido de cualquier parte del nombre de la compañía que esté buscando.
 
    ![](assets/supersmartlistsearch.jpg)
 
