@@ -27,11 +27,11 @@ Si un posible cliente no existe en Salesforce o aún no es miembro de la campañ
 
 ## Uso {#usage}
 
-1. Primero busque y seleccione la **Campaña** de Salesforce en la que se encuentra el registro.
+1. Primero busque y seleccione la Campaña **de Salesforce** en la que se encuentra el registro.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. A continuación, seleccione el **nuevo** **estado** que desea establecer y ya ha terminado.
+1. A continuación, seleccione el **Nuevo** **Estado** que desea configurar y ya ha terminado.
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
