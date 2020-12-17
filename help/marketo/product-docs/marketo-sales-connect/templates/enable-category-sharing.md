@@ -15,4 +15,4 @@ ht-degree: 0%
 
 De forma predeterminada, su equipo no podrá compartir contenido en su suscripción. Puede desactivar esta opción en cualquier momento y restringir los equipos (o solo los administradores del equipo) al contenido a categorías específicas. Esto no agrega ni elimina el acceso de vista a estas categorías de plantilla, solo la capacidad de compartir contenido nuevo en una categoría.
 
-Puede habilitar o deshabilitar el uso compartido de categorías desde la Configuración **de administración**.
+Puede habilitar/deshabilitar el uso compartido de categorías desde **Configuración de administración**.
