@@ -17,7 +17,7 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 ## Crear una Vista {#create-a-view}
 
-1. Vaya a una lista o lista inteligente, haga clic en la ficha **Personas** y, a continuación, haga clic en **Crear** **Vista** en la lista desplegable **Vista** .
+1. Vaya a una lista o lista inteligente, haga clic en la ficha **Personas** y haga clic en **Crear** **Vista** en la lista desplegable **Vista**.
 1. ![](assets/smartlist-createview.png)
 
 1. Asigne un nombre a la vista y busque la columna que desee agregar o eliminar.
@@ -30,11 +30,11 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 >[!TIP]
 >
->Para buscar rápidamente, utilice el cuadro **Buscar** .
+>Para buscar rápidamente, utilice el cuadro **Buscar**.
 
 ## Cambiar Vistas {#switch-views}
 
-1. Haga clic en la lista desplegable **Vista** y, a continuación, seleccione la vista que desee. Cambie de una vista a otra según sea necesario.
+1. Haga clic en la lista desplegable **Vista** y seleccione la vista que desee. Cambie de una vista a otra según sea necesario.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -44,11 +44,11 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 ## Editar una Vista {#edit-a-view}
 
-1. Asegúrese de que la vista que desea editar está seleccionada en la lista desplegable **Vista** .
+1. Asegúrese de que la vista que desea editar está seleccionada en la lista desplegable **Vista**.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Haga clic en la opción **Editar** .
+1. Haga clic en la opción **Editar**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -60,7 +60,7 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
 ## Eliminar una Vista {#delete-a-view}
 
-1. Seleccione la opción **Editar** de la vista que desee eliminar en la lista desplegable **Vista** .
+1. Seleccione la opción **Editar** para la vista que desee eliminar de la lista desplegable **Vista**.
 
    ![](assets/smartlist-editcustomview.png)
 
