@@ -21,11 +21,11 @@ Las campañas inteligentes son la herramienta más importante de Marketing. Pued
 >
 >Las campañas inteligentes son super geniales. Obtenga más información sobre ellos [aquí](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Elija un **Programa** y, a continuación, en **Nuevo** , haga clic en **Nuevo recurso** local.
+1. Elija un **Programa** y, a continuación, en **Nuevo** haga clic en **Nuevo recurso local**.
 
    ![](assets/program-localassethands.png)
 
@@ -33,11 +33,11 @@ Las campañas inteligentes son la herramienta más importante de Marketing. Pued
    >
    >Puede crear campañas inteligentes como recursos locales de cualquier programa.
 
-1. Haga clic en Campaña **** inteligente.
+1. Haga clic en **Campaña inteligente**.
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 
-1. Introduzca el nombre de la campaña inteligente y haga clic en **Crear**.
+1. Escriba el nombre de la campaña inteligente y haga clic en **Crear**.
 
    ![](assets/image2014-9-19-15-3a10-3a41.png)
 
