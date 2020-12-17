@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Crear el informe {#create-the-report}
 
-1. Busque y seleccione el programa de participación y, a continuación, en **Nuevo** , haga clic en **Nuevo recurso** local.
+1. Busque y seleccione el programa de participación y, a continuación, en **Nuevo** haga clic en **Nuevo recurso local**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -44,24 +44,24 @@ ht-degree: 0%
 
    ![](assets/engagementperformancereport.jpg)
 
-1. En la ficha **Configuración** , haga clic con el doble en el filtro Correo electrónico **del Programa de** participación.
+1. En la ficha **Configuración**, haga clic con el doble en el filtro **Correo electrónico del Programa de participación**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Seleccione los mensajes de correo electrónico sobre los que desea crear un informe y haga clic en **Aplicar**.
+1. Seleccione los correos electrónicos sobre los que desea crear un informe y haga clic en **Aplicar**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Ejecutar informe {#run-report}
 
-1. Para ejecutar el informe, haga clic en la ficha **Informe** .
+1. Para ejecutar el informe, haga clic en la ficha **Informe**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Aunque no se ilustra, la puntuación de participación es una columna en este informe. Consulte [Explicación de la puntuación](understanding-the-engagement-score.md) de participación para obtener más información sobre qué es.
+   >Aunque no se ilustra, la puntuación de participación es una columna en este informe. Consulte [Explicación de la puntuación de compromiso](understanding-the-engagement-score.md) para obtener más información sobre qué es.
 
    ¡bueno trabajo! Observe que el informe se agrupa por programa de participación.
 
