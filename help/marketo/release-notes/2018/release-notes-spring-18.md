@@ -17,7 +17,7 @@ Las siguientes funciones se incluyen en la versión de primavera del 2018. Compr
 
 Haga clic en los vínculos de título para vista de artículos detallados para cada función. Nota: Algunas de las funciones incluidas en esta versión no tienen artículos asociados. Si un tema tiene varios subtítulos, los vínculos se colocan allí.
 
-## Actualizaciones del compromiso de ventas de Marketing to, Launch y ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
+## Actualizaciones de compromiso de ventas, lanzamiento y aplicación de marketing {#marketo-sales-engage-launch-and-toutapp-updates}
 
 * [Compromiso de ventas de marketing](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Iniciar](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -35,7 +35,7 @@ Aumente el flujo y los ingresos al potenciar las ventas con inteligencia, conten
 * **Actualización** de directiva de contraseñas: Mantenga sus datos más seguros con requisitos más estrictos para la creación, restablecimiento y caducidad de contraseñas (cumple con los requisitos de cumplimiento de Soc II - Tipo 1).
 * **Experiencia** de configuración de cuenta optimizada: Configure su cuenta y conéctela a Gmail, Outlook y otros sistemas más rápido.
 
-## Marketo Sky Abrir Beta {#marketo-sky-open-beta}
+## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
 [Marketo Sky Abrir Beta](https://help.marketo.com/hc/en-us)
 
@@ -69,11 +69,11 @@ Comparta fácilmente sus gráficos rápidos con otros usuarios de perspectivas d
 
 La navegación optimizada y los flujos de trabajo mejorados le dan visibilidad a los criterios de éxito de los Programas y acceso a los detalles de los Programas.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Contenido<sup>AI</sup> {#contentai}
 
 [Configuración de objetivo](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Establezca el objetivo del algoritmo de optimización de<sup>ContentAI</sup> para generar más vistas, clics o conversiones.
+Establezca el objetivo del algoritmo de optimización de contenido<sup>AI</sup> para generar más vistas, clics o conversiones.
 
 ## Integración y API {#integration-and-apis}
 
@@ -85,7 +85,7 @@ Envíe notificaciones del sistema y momentos interesantes al área de trabajo de
 
 Administre listas entre Marketing y otros sistemas más fácilmente con las nuevas API bidireccionales para crear, leer, actualizar y eliminar listas estáticas de forma remota sin realizar ninguna acción en la interfaz de usuario de Marketing Cloud.
 
-## Mejoras en la privacidad {#privacy-enhancements}
+## Mejoras de privacidad {#privacy-enhancements}
 
 [Privacidad de seguimiento web](http://developers.marketo.com/javascript-api/lead-tracking/)
 
