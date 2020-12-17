@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Usar Filtros de inactividad en una Lista inteligente {#use-inactivity-filters-in-a-smart-list}
 
-¿Sabías que puedes buscar personas en una Lista inteligente que *no* hicieron algo? Consulte estos filtros de inactividad.
+¿Sabía que puede buscar personas en una Lista inteligente que *no* hicieron algo? Consulte estos filtros de inactividad.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione la lista inteligente que desee editar y, a continuación, haga clic en la ficha Lista **** inteligente.
+1. Seleccione la lista inteligente que desee editar y, a continuación, haga clic en la ficha **Lista inteligente**.
 
    ![](assets/smartlist-choose.png)
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Hay muchos filtros en la carpeta Filtros **de** inactividad. Busque **Not** y desprotéjalo.
+   >Hay muchos filtros en la carpeta **Filtros de inactividad**. Busque **Not** y extráigalos.
 
-1. Seleccione **es cualquier** operador. Encontrará a todas las personas que no han visitado ninguna página en los últimos 30 días.
+1. Seleccione el operador **es cualquier**. Encontrará a todas las personas que no han visitado ninguna página en los últimos 30 días.
 
    ![](assets/mysmartlist-people.jpg)
 
