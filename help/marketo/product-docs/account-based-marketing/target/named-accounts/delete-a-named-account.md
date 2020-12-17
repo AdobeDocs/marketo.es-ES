@@ -23,7 +23,7 @@ Siga estos pasos rápidos para eliminar una cuenta con nombre.
    >
    >Ctrl+clic (Windows) o Cmd+clic (Mac) para seleccionar varias cuentas con nombre.
 
-1. Haga clic en la lista desplegable Acciones **de cuenta** con nombre y seleccione **Eliminar cuenta** con nombre.
+1. Haga clic en la lista desplegable **Acciones de cuenta con nombre** y seleccione **Eliminar cuenta con nombre**.
 
    ![](assets/eight-1.png)
 
