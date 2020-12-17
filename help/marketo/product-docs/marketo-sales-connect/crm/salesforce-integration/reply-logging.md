@@ -20,11 +20,11 @@ Sales Connect le permite registrar automáticamente las respuestas de sus client
 * Debe registrar correos electrónicos mediante el registro de API
 * Debe poder [rastrear una respuesta](http://docs.marketo.com/x/BYPS)
 * Debe estar conectado con Salesforce
-* Debe tener disponibles las llamadas [de](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) API de Salesforce
+* Debe tener disponibles las llamadas de API de Salesforce [](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)
 
 ## Habilitar registro de respuesta {#enable-reply-logging}
 
-1. Para habilitar el registro de respuestas, puede dirigirse a la página de configuración [de](http://docs.marketo.com/pages/assets/external-link.jspa) Salesforce. Una vez que el registro de la API se haya desmarcado, verá la opción de comprobar *Respuestas de registro.\
+1. Para habilitar el registro de respuestas, puede dirigirse a la página [Configuración de Salesforce](http://docs.marketo.com/pages/assets/external-link.jspa). Una vez que el registro de la API se haya desmarcado, verá la opción de comprobar *Respuestas de registro.\
    *
 
    >[!NOTE]
@@ -33,11 +33,11 @@ Sales Connect le permite registrar automáticamente las respuestas de sus client
 
 ## Configuración del tipo para responder en Salesforce {#setting-type-to-reply-in-salesforce}
 
-Es importante obtener datos significativos de los informes de Salesforce. Tener la capacidad de rellenar el campo Tipo como &#39;Respuesta&#39; le permite obtener esos datos en los informes. Asociarse con su `Salesforce admin` equipo para obtener esta configuración.
+Es importante obtener datos significativos de los informes de Salesforce. Tener la capacidad de rellenar el campo Tipo como &#39;Respuesta&#39; le permite obtener esos datos en los informes. Asocie con su `Salesforce admin` para obtener esta configuración.
 
-1. Vaya a **Configuración **> **Personalizar **> **Actividades **> Campos **** de Tarea.
+1. Vaya a **Configuración **> **Personalizar **> **Actividades **> **Campos de Tarea**.
 1. Haga clic en **Tipo**.
-1. En Tipo de Tarea Valores de lista de selección, haga clic en **Nuevo**.
+1. En Tipo de Tarea Valores de lista de , haga clic en **Nuevo**.
 1. Escriba &quot;Responder&quot; en el cuadro vacío. Asegúrese de que pone en mayúscula la &#39;R&#39; y haga clic en **Guardar**.
 
    >[!NOTE]
