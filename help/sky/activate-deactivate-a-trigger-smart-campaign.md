@@ -16,7 +16,7 @@ La activación/desactivación de una campaña inteligente de activador básicame
 
 ## Activar una Campaña de activador
 
-1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]** .
+1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -36,7 +36,7 @@ A partir de este momento, cualquiera que califique para la lista inteligente ir�
 
 ## Desactivar una Campaña de activador
 
-1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]** .
+1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]**.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
@@ -46,4 +46,4 @@ A partir de este momento, cualquiera que califique para la lista inteligente ir�
 
 >[!NOTE]
 >
->Esto impedirá que _nuevas_ personas entren en el flujo, pero las personas en los pasos de espera o en cualquier otro paso del flujo seguirán moviéndose a través del flujo hasta que termine.
+>Esto impedirá que _personas nuevas_ ingresen al flujo, pero las personas en los pasos de espera o en cualquier otro paso de flujo continuarán moviéndose a través del flujo hasta que termine.
