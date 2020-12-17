@@ -61,7 +61,7 @@ Las cuentas con nombre retienen a las personas de las compañías a las que va a
   </tr> 
   <tr> 
    <td><strong>Código SIC</strong></td> 
-   <td><span><strong></strong>Clasificación <strong></strong>Industrial Estándar <strong></strong>- código de cuatro dígitos para clasificar industrias<br></span></td> 
+   <td><span><strong></strong>Clasificación  <strong></strong>Industrial Estándar  <strong></strong>- código de cuatro dígitos para clasificar industrias<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Ingresos</strong></td> 
