@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO: Explicación de los vínculos de entrada {#seo-understanding-inbound-links}
+# SEO - Explicación de los vínculos de entrada {#seo-understanding-inbound-links}
 
 Los vínculos de entrada indican a los motores de búsqueda que vale la pena hacer referencia a su sitio. ¡Eso es bueno!
 
