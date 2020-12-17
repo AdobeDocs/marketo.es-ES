@@ -18,7 +18,7 @@ ht-degree: 0%
 Es fácil agregar un correo electrónico a un flujo en un programa de participación, y funciona bien. Sin embargo, si sus necesidades comerciales son más complejas, puede que tenga sentido colocar el correo electrónico dentro de un programa. Por ejemplo, puede que desee:
 
 * Envío de un correo electrónico a un subgrupo de personas del flujo
-* Envío de *distintos* correos electrónicos a subgrupos dentro del flujo
+* Enviar mensajes de correo electrónico *diferentes* a subgrupos dentro del flujo
 * Incluir páginas de aterrizaje, formularios u otros recursos en la alimentación
 * Habilitar atribución multitáctil
 * Añadir pasos de flujo adicionales, como correos electrónicos de alerta
@@ -31,17 +31,17 @@ Cuando se utiliza un programa anidado, la decisión de enviar un correo electró
 * Si eres miembro del programa, no recibirás el correo electrónico
 * Si ya no eres miembro pero has recibido el correo electrónico anteriormente a través de ese programa, no recibirás el correo electrónico
 
-Cuando se utiliza un programa en un flujo, no importa si ya ha recibido ese correo electrónico específico anteriormente. Siempre y cuando el correo electrónico no se haya enviado antes *en ese programa* específico, puede volver a recibirlo.
+Cuando se utiliza un programa en un flujo, no importa si ya ha recibido ese correo electrónico específico anteriormente. Siempre y cuando el correo electrónico no se haya enviado antes de *en ese programa específico*, puede volver a recibirlo.
 
 Puede resultar complicado mezclar correos electrónicos y programas en un programa de participación. Es posible que desee usar uno u otro.
 
 >[!TIP]
 >
->Asegúrese de utilizar un filtro de Programa **** Miembro de compromiso en su lista inteligente.
+>Asegúrese de utilizar un filtro **Miembro del Programa de compromiso** en su lista inteligente.
 
 ## ¿Qué pasa con las personas que no cumplen los criterios de lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-En el evento de que alguien se filtra fuera de la lista inteligente de la campaña inteligente de un programa anidado, no pasa al siguiente contenido durante la conversión actual. Pasarán al siguiente contenido del flujo para el *siguiente* lanzamiento.
+En el evento de que alguien se filtra fuera de la lista inteligente de la campaña inteligente de un programa anidado, no pasa al siguiente contenido durante la conversión actual. Pasarán al siguiente fragmento de contenido del flujo para la conversión *siguiente*.
 
 ## ¿Qué contiene un programa anidado? {#what-does-a-nested-program-contain}
 
