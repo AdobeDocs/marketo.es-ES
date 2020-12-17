@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir columnas de estado de Programa en un informe de Programa {#add-program-status-columns-to-a-program-report}
 
-Añada estadísticas sobre el estado del programa en el informe [de rendimiento del](create-a-program-performance-report.md)programa.
+Añada estadísticas sobre el estado del programa a su [informe de rendimiento del programa](create-a-program-performance-report.md).
 
 1. Vaya a Actividades de marketing (o Analytics).
 
@@ -33,7 +33,7 @@ Añada estadísticas sobre el estado del programa en el informe [de rendimiento 
 
    >[!TIP]
    >
-   >Para mostrar las columnas de estado de programa, el informe debe filtrarse *sólo con un* canal.
+   >Para mostrar las columnas de estado de programa, el informe debe filtrarse por *un solo canal*.
 
 1. Marque la opción Mostrar columnas de estado de programa. Haga clic en Aplicar.
 
@@ -59,5 +59,5 @@ Añada estadísticas sobre el estado del programa en el informe [de rendimiento 
 >
 >**Buceo profundo**
 >
->Obtenga más información en Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Obtenga más información en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
