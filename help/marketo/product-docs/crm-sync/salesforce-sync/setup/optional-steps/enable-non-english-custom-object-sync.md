@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Habilitar sincronización de objetos personalizados que no están en inglés {#enable-non-english-custom-object-sync}
+# Habilitar la sincronización de objetos personalizados que no están en inglés {#enable-non-english-custom-object-sync}
 
 Si el usuario de sincronización de Marketing to está configurado en un idioma distinto al inglés, puede producirse un error al intentar habilitar una sincronización de objetos personalizada.
 
@@ -19,7 +19,7 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Cómo rodearlo {#getting-around-it}
+## Alcanzar su entorno {#getting-around-it}
 
 1. Inicie sesión en Salesforce con el usuario de sincronización de marketing.
 
@@ -29,7 +29,7 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. En Información **personal**, haga clic en **Mi información** personal.
+1. En **Información personal**, haga clic en **Mi información personal**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -37,7 +37,7 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Cambiar el **idioma** al **inglés**.
+1. Cambie el **Idioma** a **Inglés**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,11 +45,11 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. De nuevo en Marketing, en **Administración > Salesforce > Objetos** , haga clic en **Actualizar Esquema**.
+1. De nuevo en Marketing, en **Administración > Salesforce > Objetos** haga clic en **Actualizar Esquema**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Esto extraerá la lista de objetos en inglés. Ahora seleccione el objeto que desee y haga clic en **Activar sincronización**.
+1. Esto extraerá la lista de objetos en inglés. Ahora seleccione el objeto que desee y haga clic en **Habilitar sincronización**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
