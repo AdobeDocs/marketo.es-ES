@@ -21,11 +21,11 @@ Los campos personalizados de miembros de programa permiten recopilar datos espec
 
    ![](assets/one.png)
 
-1. Haga clic en Administración **de campos**.
+1. Haga clic en **Administración de campos**.
 
    ![](assets/two.png)
 
-1. Haga clic en **Nuevo campo** personalizado.
+1. Haga clic en **Nuevo campo personalizado**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Los campos personalizados de miembros de programa permiten recopilar datos espec
 
    >[!NOTE]
    >
-   >Los tipos admitidos para los campos personalizados de Miembros de Programa son: booleano, fecha, fecha y hora, flotante, entero, cadena, URL. [Obtenga más información sobre los tipos](http://docs.marketo.com/x/Wwgt)de campo.
+   >Los tipos admitidos para los campos personalizados de Miembros de Programa son: booleano, fecha, fecha y hora, flotante, entero, cadena, URL. [Obtenga más información sobre los tipos](http://docs.marketo.com/x/Wwgt) de campo.
 
 ## Descripciones de objetos {#object-descriptions}
 
@@ -54,13 +54,13 @@ Los campos personalizados de miembros de programa permiten recopilar datos espec
 | Persona | Persona de la base de datos de Marketing con la que interactúa mediante campañas de marketing. |
 | Miembro programa | Persona que también es miembro de un programa |
 
-## Activadores y Filtros {#triggers-and-filters}
+## Desencadenadores y Filtros {#triggers-and-filters}
 
-Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [](http://docs.marketo.com/x/PoAR)activadores y/o [filtros](http://docs.marketo.com/x/2YAI).
+Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [activadores](http://docs.marketo.com/x/PoAR)y/o [filtros](http://docs.marketo.com/x/2YAI).
 
 ![](assets/six.png)
 
-## Cosas que saber {#things-to-know}
+## Cosas que hay que saber {#things-to-know}
 
 * Los campos personalizados de miembros de programa solo están disponibles en los recursos locales. No son compatibles con Design Studio porque no hay forma de vincularlos a un programa específico.
 * No se puede clonar ni mover a Design Studio un formulario (o una página de aterrizaje con un formulario) que contenga campos personalizados Miembros de Programa.
@@ -68,7 +68,7 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 * El objeto Miembro de Programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
 * Cuando elimina un miembro de un programa, si tiene datos en el campo personalizado Miembro del Programa, los datos se eliminarán de ese campo.
 * Para vista de los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
-* Se admiten la importación y exportación mediante [](http://docs.marketo.com/x/egAk)la [](http://developers.marketo.com/)API de LiveCycle.
+* Se admiten la importación y exportación mediante [lista](http://docs.marketo.com/x/egAk)y [API](http://developers.marketo.com/).
 * Cuando combina dos personas, se utilizarán los datos de campo personalizados de miembro de Programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
 
 >[!MORELIKETHIS]
