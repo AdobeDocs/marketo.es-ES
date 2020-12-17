@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-De la misma manera que puede [Añadir a](add-to-sfdc-campaign.md)Campaña y [Cambiar estado de SFDC en la Campaña](change-status-in-sfdc-campaign.md)de SFDC, también puede eliminar personas o leads de una campaña de Salesforce.
+De la misma manera que puede [Añadir a la Campaña de SFDC](add-to-sfdc-campaign.md)y [Cambiar estado en la Campaña de SFDC](change-status-in-sfdc-campaign.md), también puede eliminar personas o leads de una campaña de Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
