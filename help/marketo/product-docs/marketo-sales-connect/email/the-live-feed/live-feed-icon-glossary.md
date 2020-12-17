@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Glosario de iconos de la fuente activa {#live-feed-icon-glossary}
 
-| ![--](assets/1.png) | Alguien ha visto tu correo electrónico. |
+| ![—](assets/1.png) | Alguien ha visto tu correo electrónico. |
 |---|---|
-| ![--](assets/2.png) | Alguien hizo clic en un vínculo de su correo electrónico. |
-| ![--](assets/3.png) | Alguien ha visto un archivo adjunto que se puede rastrear o ha visitado su sitio web. |
+| ![—](assets/2.png) | Alguien hizo clic en un vínculo de su correo electrónico. |
+| ![—](assets/3.png) | Alguien ha visto un archivo adjunto que se puede rastrear o ha visitado su sitio web. |
 
 Si estás viendo a alguien que vista tu correo electrónico una y otra vez en tu fuente en vivo, podrían haber reenviado el correo electrónico a destinatarios adicionales. Es muy probable que este sea el caso si observa el inicio de ubicación que se va a cambiar para esas vistas.
