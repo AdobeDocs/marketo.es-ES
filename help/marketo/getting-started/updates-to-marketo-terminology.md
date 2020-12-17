@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Actualizaciones de la terminología de marketing {#updates-to-marketo-terminology}
+# Actualizaciones de terminología de marketing {#updates-to-marketo-terminology}
 
 Estamos haciendo algunos cambios en nuestra plataforma, que afectarán lo que se llama algunas cosas. Si tiene una nueva instancia de Marketing a partir de marzo de 2016, o si su compañía se ha renovado después de julio de 2016, es posible que esté viendo la nueva terminología ahora.
 
@@ -71,15 +71,15 @@ En algunos casos, la palabra &quot;posible cliente&quot; se elimina simplemente.
  </tbody> 
 </table>
 
-Plomo y Persona **son lo mismo**.
+El posible cliente y la persona **son lo mismo**.
 
 ## Tokens {#tokens}
 
-Los tokens con la palabra &quot;lead&quot; no **están cambiando**. Pedimos disculpas por cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería un montón de tokens que se utilizan actualmente. Así que aún verán tokens como &quot;`{{lead.First Name}}`&quot;. No hay tokens específicos de la persona.
+Los tokens con la palabra lead en ellos **no cambian**. Pedimos disculpas por cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería un montón de tokens que se utilizan actualmente. De modo que aún verá tokens como &quot;`{{lead.First Name}}`&quot;. No hay tokens específicos de la persona.
 
 >[!NOTE]
 >
->Hay *un token* llamado &quot;Notas personales&quot;, pero ese token siempre estuvo ahí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hace.
+>Hay *es* un token llamado &quot;Notas personales&quot;, pero ese token siempre estuvo ahí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hace.
 
 ## Administración de campos {#field-management}
 
@@ -110,9 +110,9 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 >[!NOTE]
 >
->Para obtener una lista completa de los nombres de campo afectados, visite este artículo [de](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)soporte técnico.
+>Para obtener una lista completa de los nombres de campo afectados, visite este [Artículo de soporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
 
-## La personalización en tiempo real (RTP) es ahora la personalización web {#real-time-personalization-rtp-is-now-web-personalization}
+## La Personalización en tiempo real (RTP) es ahora Personalización Web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,11 +139,11 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes:
 
-| ** Personalización [web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
+| ** [Personalización Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
 |---|---|
-| ** Marketing [Web basado en](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)cuenta** | Accesible a través del mosaico de Personalización web |
-| ** [Targeting](http://docs.marketo.com/display/DOCS/Website+Retargeting)personalizado** | Accesible a través del mosaico de Personalización web |
-| ** [Contenido](http://docs.marketo.com/display/DOCS/Predictive+Content)predictivo** | Tiene su propio mosaico en la pantalla de inicio |
+| ** [Marketing web basado en cuentas](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accesible a través del mosaico de Personalización web |
+| ** [Retargeting personalizado](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accesible a través del mosaico de Personalización web |
+| ** [Contenido predictivo](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Tiene su propio mosaico en la pantalla de inicio |
 
 >[!NOTE]
 >
