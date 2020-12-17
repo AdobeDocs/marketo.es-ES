@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Envío de archivos adjuntos en el correo electrónico {#sending-file-attachments-in-your-email}
+# Envío de archivos adjuntos en su correo electrónico {#sending-file-attachments-in-your-email}
 
 Enviar un archivo adjunto es una buena manera de acortar su correo electrónico y dejar que su equipo de mercadotecnia hable. Sin embargo, enviar un correo electrónico con un archivo grande podría impedir que el destinatario lo hiciera.
 
@@ -21,4 +21,4 @@ Normalmente, cualquier archivo de más de 20 MB será demasiado grande para entr
 >
 >Al utilizar Tout como canal de envío de correo electrónico, recomendamos archivos de 19 MB o menos al enviar correos electrónicos.
 
-Si necesita enviar un archivo grande, intente comprimirlo primero o cárguelo como un archivo adjunto [](http://docs.marketo.com/x/3oPS) rastreable en la aplicación [](http://toutapp.com/login)web.
+Si necesita enviar un archivo grande, intente comprimirlo primero o cárguelo como [archivo adjunto rastreable](http://docs.marketo.com/x/3oPS) en la [aplicación Web](http://toutapp.com/login).
