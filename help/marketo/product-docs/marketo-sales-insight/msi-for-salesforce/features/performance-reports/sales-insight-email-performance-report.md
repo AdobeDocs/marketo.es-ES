@@ -21,15 +21,15 @@ Vista el rendimiento de los correos electrónicos enviados a través de Salesfor
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Haga clic en Rendimiento **de correo electrónico de perspectiva de ventas**.
+1. Haga clic en **Rendimiento de correo electrónico de perspectiva de ventas**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Haga clic en la ficha **Configuración** y elija los valores que desee.
+1. Haga clic en la ficha **Configuración** y elija los valores deseados.
 
    ![](assets/three.png)
 
-1. Haga clic en la ficha **Informe** .
+1. Haga clic en la ficha **Informe**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,15 +43,15 @@ Vista el rendimiento de los correos electrónicos enviados a través de Salesfor
 >
 >Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa de correo electrónico.
 
-## Agrupar por representante de ventas {#group-by-sales-rep}
+## Grupo por representante de ventas {#group-by-sales-rep}
 
 Puede realizar la vista de este informe agrupado por representante de ventas cambiando la configuración.
 
-1. Haga clic en **Configuración**. Haga clic con el doble en **Correo electrónico**.
+1. Haga clic en **Configuración**. Haga clic en el doble **Correo electrónico**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Seleccione Correos electrónicos de grupo por representante **de ventas**.
+1. Seleccione Correos electrónicos de grupo por **Representante de ventas**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Puede realizar la vista de este informe agrupado por representante de ventas cam
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Haga clic en la ficha **Informe** .
+1. Haga clic en la ficha **Informe**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
