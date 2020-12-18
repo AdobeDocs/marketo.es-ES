@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Correo electrónico del informe, rendimiento de la Campaña en áreas de trabajo {#report-email-campaign-performance-across-workspaces}
+# Correo electrónico del informe, rendimiento de la Campaña en todos los espacios de trabajo {#report-email-campaign-performance-across-workspaces}
 
-Active Sistema de informes global para incluir datos de todos los [espacios](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) de trabajo de Marketing en los informes Rendimiento [del](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)correo electrónico, Rendimiento [del vínculo de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)correo electrónico y Actividad [de](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) Campaña.
+Active Global Sistema de informes para incluir datos de todos los espacios de trabajo de Marketing [](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) en los informes [Rendimiento de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Rendimiento de los vínculos de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) y [Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
 
-1. Vaya al área **Análisis** (o Actividades **de marketing**).
+1. Vaya al área **Analytics** (o **Actividades de marketing**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,7 +23,7 @@ Active Sistema de informes global para incluir datos de todos los [espacios](../
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Haga clic en la ficha **Configuración** y, con el doble presionado, haga clic en Sistema de informes **** global.
+1. Haga clic en la ficha **Configuración** y haga clic con el doble **Sistema de informes global**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -49,5 +49,5 @@ Active Sistema de informes global para incluir datos de todos los [espacios](../
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
