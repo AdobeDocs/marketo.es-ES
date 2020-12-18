@@ -19,7 +19,7 @@ Clona un fragmento para crear una copia de él que puedas modificar según tus n
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Vaya a su fragmento y, a continuación, en** Acciones de fragmento***, haga clic en **Clonar**.
+1. Vaya a su fragmento y, a continuación, debajo de** Acciones de fragmento***, haga clic en **Clonar**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
