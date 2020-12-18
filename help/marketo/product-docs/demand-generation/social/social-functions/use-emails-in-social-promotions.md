@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar correos electrónicos en promociones sociales {#use-emails-in-social-promotions}
 
-Al crear una oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) referencia o una apuesta [](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede incluir correos electrónicos para enviar cuando la persona se registre y otra vez cuando la persona haya ganado la recompensa.
+Al crear una [oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [apuesta](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede incluir correos electrónicos para enviar cuando la persona se registre y nuevamente cuando la persona haya ganado la recompensa.
 
 >[!TIP]
 >
@@ -21,15 +21,15 @@ Al crear una oferta [de](../../../../product-docs/demand-generation/social/refer
 
 En los correos electrónicos, utilice estos tokens:
 
-* **Correo electrónico** de registro: Utilícelo **`{{social.Share Url}}`** para enviar a cada persona participante un vínculo compartido personalizado.
+* **Correo electrónico** de registro: Utilícelo  **`{{social.Share Url}}`** para enviar a cada persona participante un vínculo compartido personalizado.
 
-* **Correo electrónico** de descarga: Utilícelo **`{{social.Promo Code}}`** para enviar a cada ganador un código [de](use-promo-codes-for-offer-fulfillment.md)promoción.
+* **Correo electrónico** de descarga: Utilícelo  **`{{social.Promo Code}}`** para enviar un código [ de ](use-promo-codes-for-offer-fulfillment.md)promoción a cada ganador.
 
 >[!PREREQUISITES]
 >
->Para poder agregar un correo electrónico a una aplicación social, debe ser *operativo* y *aprobado*. Consulte [Editar configuración para un correo electrónico](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Para poder agregar un correo electrónico a una aplicación social, debe estar *operativo* y *aprobado*. Consulte [Editar configuración para un correo electrónico](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -37,7 +37,7 @@ En los correos electrónicos, utilice estos tokens:
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. En el editor de la aplicación social, vaya a Ajustes de **aplicación > Detalles** de Oferta (o Detalles de **apuestas**).
+1. En el editor de la aplicación social, vaya a **Configuración de la aplicación > Detalles de la Oferta** (o **Detalles de las apuestas**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,14 +59,14 @@ En los correos electrónicos, utilice estos tokens:
 
 >[!NOTE]
 >
->En una apuesta, el correo electrónico de despacho siempre se envía automáticamente cuando se [selecciona al ganador](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>En una apuesta, el correo electrónico de despacho siempre se envía automáticamente cuando [selecciona al ganador](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**Definición**
 >
 >* **objetivo** automático: El correo electrónico de cumplimiento se envía automáticamente a medida que cada participante cumple el objetivo.
->* **enviar** manualmente: Una vez que las personas tengan inicios para cumplir el objetivo, vuelva a la oferta de referencia para [enviar manualmente el correo electrónico](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)de cumplimiento.
+>* **enviar** manualmente: Una vez que las personas tengan inicios para cumplir el objetivo, vuelva a la oferta de referencia para  [enviar manualmente el correo electrónico](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) de cumplimiento.
 
 >
 
@@ -76,5 +76,5 @@ En los correos electrónicos, utilice estos tokens:
 >
 >**Artículos relacionados**
 >
->A continuación, puede [elegir la URL](choose-the-share-url-for-a-social-app.md) compartida o, en su oferta de referencia, puede [cargar los códigos](use-promo-codes-for-offer-fulfillment.md) de promoción que enviará.
+>A continuación, puede [elegir la dirección URL de uso compartido](choose-the-share-url-for-a-social-app.md) o, en su oferta de referencia, puede [cargar los códigos de promoción](use-promo-codes-for-offer-fulfillment.md) que enviará.
 
