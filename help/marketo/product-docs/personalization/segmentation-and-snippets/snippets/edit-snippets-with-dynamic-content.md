@@ -30,7 +30,7 @@ Utilice la segmentación en fragmentos para administrar fácilmente el contenido
 
    ![](assets/designstudio-1.png)
 
-1. Haga clic en su **Fragmento de código **y, a continuación, **Editar borrador**.
+1. Haga clic en su **Fragmento de código **y luego **Editar borrador**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
@@ -38,7 +38,7 @@ Utilice la segmentación en fragmentos para administrar fácilmente el contenido
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Introduzca **Segmentación **y haga clic en **Guardar**.
+1. Escriba **Segmentación **y haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
