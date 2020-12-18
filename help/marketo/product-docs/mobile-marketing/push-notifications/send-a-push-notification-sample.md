@@ -36,13 +36,13 @@ Puede enviar una muestra para comprobar que la notificación push funciona corre
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   O bien, haga clic en **Añadir dispositivo** para [agregar un nuevo dispositivo](adding-a-new-test-device.md) de prueba a la que enviar la muestra.
+   O bien, haga clic en **Añadir dispositivo** para [agregar un nuevo dispositivo de prueba](adding-a-new-test-device.md) para enviar la muestra.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Tiene dos formas de conectar el dispositivo a la aplicación.
 
-   Con la primera opción, haga clic en el botón **Visitar URL con dispositivo** , copie la URL del campo y envíela en un mensaje de correo electrónico o de texto a su dispositivo. Desde el dispositivo, toque la dirección URL. Cuando el estado muestre la conexión, haga clic en **Enviar**.
+   Con la primera opción, haga clic en el botón **Visitar URL con dispositivo**, copie la dirección URL del campo y envíela en un mensaje de correo electrónico o de texto a su dispositivo. Desde el dispositivo, toque la dirección URL. Cuando el estado muestre la conexión, haga clic en **Enviar**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
@@ -52,7 +52,7 @@ Puede enviar una muestra para comprobar que la notificación push funciona corre
 
    >[!TIP]
    >
-   >¿Ha agregado correctamente un dispositivo de prueba, pero no lo ve en el campo **Enviar a** ? Compruebe estos puntos para solucionar problemas:
+   >¿Ha agregado correctamente un dispositivo de prueba, pero no lo ve en el campo **Enviar a**? Compruebe estos puntos para solucionar problemas:
    >
    >    
    >    
