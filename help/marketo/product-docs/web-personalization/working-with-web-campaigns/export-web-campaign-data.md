@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Exportar datos de Campaña web {#export-web-campaign-data}
+# Exportar datos de Campaña Web {#export-web-campaign-data}
 
 Siga estos sencillos pasos para exportar los datos de campaña web.
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/one-2.png)
 
