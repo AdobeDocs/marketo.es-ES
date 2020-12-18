@@ -17,11 +17,11 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
 
 >[!NOTE]
 >
->Este artículo se aplica únicamente a los clientes Web ABM heredados. Si adquirió Web ABM después de septiembre de 2016, por favor siga los pasos de [este artículo](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .
+>Este artículo se aplica únicamente a los clientes Web ABM heredados. Si adquirió Web ABM después de septiembre de 2016, siga los pasos de [este artículo](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) en su lugar.
 
 ## Crear una nueva Lista de cuenta {#create-a-new-account-list-1}
 
-1. Vaya a Listas **de cuenta**.
+1. Vaya a **Listas de cuenta**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
@@ -29,7 +29,7 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Seleccione **Examinar** y cargue el archivo CSV (asegúrese de que el archivo csv cumple los criterios). Añada un **Nombre** y una **Descripción**. Haga clic en **Guardar**.
+1. Seleccione **Examinar** y cargue el archivo CSV (asegúrese de que el archivo csv cumple los criterios). Añada un **Nombre** y **Descripción**. Haga clic en **Guardar**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -71,7 +71,7 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
 
 ## Editar una Lista de cuenta {#edit-an-account-list}
 
-En la página Listas **de** cuenta, haga clic en el icono **Editar **en la lista.
+En la página **Listas de cuenta**, haga clic en el icono **Editar **en la lista.
 
 ![](assets/create-new-account-list-edit.jpg)
 
