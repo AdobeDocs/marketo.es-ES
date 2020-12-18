@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso de un formulario en un Lightbox {#use-a-form-in-a-lightbox}
+# Utilizar un formulario en un Lightbox {#use-a-form-in-a-lightbox}
 
 Un Lightbox es una técnica que abre un formulario delante del contenido cuando se desea que se muestre. Así es como.
 
@@ -23,7 +23,7 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. En **Formulario** **Acciones**, haga clic en **Incrustar** **código**.
+1. En **Formulario** **Acciones**, haga clic en **Incrustar** **Código**.
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Establezca **Code** **Type** en **Lightbox**.
+1. Establezca **Código** **Tipo** en **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
