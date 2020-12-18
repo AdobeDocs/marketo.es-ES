@@ -21,7 +21,7 @@ Puede editar estas columnas directamente en la ficha Suscripciones, que aparece 
 * Finalizar Envío
 * Formato
 
-1. Seleccione **Base de datos** (la estamos utilizando en este ejemplo, pero Marketing Actividades funciona exactamente igual).
+1. Seleccione **Base de datos** (la estamos utilizando en este ejemplo, pero Actividades de marketing funciona exactamente igual).
 
    ![](assets/db-1.png)
 
@@ -45,7 +45,7 @@ Puede editar estas columnas directamente en la ficha Suscripciones, que aparece 
    >
    >Las columnas debajo de Columnas de marketing son las columnas del informe, no las que se utilizan en la ficha del informe Suscripciones.
 
-1. Haga clic en la columna Fecha **de** finalización para editar la fecha de finalización. Seleccione **Nunca** o **Fecha**. Para una fecha, introdúzcala o selecciónela en el calendario. Haga clic en **Aprobar**.
+1. Haga clic en la columna **Fecha de finalización** para editar la fecha de finalización. Seleccione **Nunca** o **Fecha**. Para una fecha, introdúzcala o selecciónela en el calendario. Haga clic en **Aprobar**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
