@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Generar un informe de Análisis de correo electrónico que Lista los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
+# Genere un informe de Análisis de correo electrónico que Lista los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
 
 >[!NOTE]
 >
