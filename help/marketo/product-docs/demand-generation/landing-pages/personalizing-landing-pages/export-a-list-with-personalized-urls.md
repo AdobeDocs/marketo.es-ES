@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Exportación de una Lista con direcciones URL personalizadas {#export-a-list-with-personalized-urls}
+# Exportar una Lista con direcciones URL personalizadas {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Marque **Incluir dirección URL** personalizada, busque y seleccione la página de aterrizaje para la que desee generar direcciones URL.
+1. Marque **Incluir URL personalizada**, busque y seleccione la página de aterrizaje para la que desee generar direcciones URL.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Seleccione la **dirección URL**.
+1. Seleccione la **URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
