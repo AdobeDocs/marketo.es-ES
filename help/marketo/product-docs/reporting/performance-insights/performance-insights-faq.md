@@ -41,7 +41,7 @@ Puede controlar la visibilidad de sus programas estableciendo el comportamiento 
 
 >[!NOTE]
 >
->Obtenga más información sobre la configuración del comportamiento de los análisis [aquí](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Obtenga más información sobre la configuración del comportamiento de análisis [aquí](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
 
 ## Estoy ejecutando una campaña de varios canales para un nuevo lanzamiento de producto. ¿Cómo puedo vista el rendimiento de esta campaña en todos los canales en un solo lugar? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -63,7 +63,7 @@ También es posible que falten oportunidades debido a que el costo de Programa n
 
 >[!NOTE]
 >
->El costo de período **debe** configurarse para el sistema de informes de éxito y nuevos nombres en el panel de compromiso. Este panel utiliza los datos de costo de período para los éxitos acumulados y los nuevos nombres. Si el costo de período no está configurado, el panel de participación no informará correctamente independientemente de la configuración de comportamiento de Analytics anterior.
+>El costo del período **tiene** que configurarse para el éxito y el sistema de informes de nuevos nombres en el panel de compromiso. Este panel utiliza los datos de costo de período para los éxitos acumulados y los nuevos nombres. Si el costo de período no está configurado, el panel de participación no informará correctamente independientemente de la configuración de comportamiento de Analytics anterior.
 
 ## ¿Por qué estoy perdiendo algunas oportunidades en el MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Los campos personalizados, el tipo de oportunidad y los Filtros ABM son atributo
 
 ## Deseo utilizar un campo de oportunidad de Salesforce personalizado para el sistema de informes de ingresos en lugar del campo de cantidad de oportunidad de Salesforce estándar. ¿El MPI me permitirá hacer eso? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sí. [La asistencia técnica](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) de marketing puede reasignar el campo Importe de oportunidad de marketing a un campo de oportunidad de Salesforce personalizado, siempre que el tipo de campo sea moneda. Dado que MPI apunta al campo de cantidad Oportunidad de marketing, MPI puede utilizar los datos del campo de Salesforce personalizado reasignado.
+Sí. [La ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) asistencia técnica de marketing puede reasignar el campo Importe de oportunidad de marketing a un campo de oportunidad de Salesforce personalizado, siempre que el tipo de campo sea moneda. Dado que MPI apunta al campo de cantidad Oportunidad de marketing, MPI puede utilizar los datos del campo de Salesforce personalizado reasignado.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI está diseñado para permitirle medir el rendimiento del programa desde la p
 
 ## ¿Puedo medir el éxito de las estrategias basadas en cuentas en MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sí. MPI se integra con [Marketo ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para extraer listas de cuentas ABM en MPI sin problemas. Puede utilizar el filtro de Lista de cuenta ABM para elegir la lista ABM deseada para filtrar los datos.
+Sí. MPI se integra con [ABM de marketing](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) para extraer listas de cuentas ABM en MPI sin problemas. Puede utilizar el filtro de Lista de cuenta ABM para elegir la lista ABM deseada para filtrar los datos.
 
 ## ¿La atribución está disponible al instante cuando compro MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Las capacidades de atribución de marketing están disponibles para nuestros clientes cuando compran MPI. Sin embargo, se requiere una configuración [](http://docs.marketo.com/x/mRPG) adecuada para garantizar que las oportunidades y los datos de programa fluyan correctamente en MPI.
+Las capacidades de atribución de marketing están disponibles para nuestros clientes cuando compran MPI. Sin embargo, se requiere [configuración adecuada](http://docs.marketo.com/x/mRPG) para garantizar que las oportunidades y los datos de programa fluyan correctamente en MPI.
 
 ## ¿Qué tengo que hacer para configurar la atribución? {#what-do-i-have-to-do-to-set-up-attribution}
 
