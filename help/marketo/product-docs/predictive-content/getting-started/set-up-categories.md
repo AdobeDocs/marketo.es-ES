@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Cree categorías en Contenido predictivo para agrupar los resultados predictivos en la Web o en el correo electrónico. Por ejemplo, solo puede trabajar con blogs o con contenido en un idioma determinado. También permite buscar y filtrar la vista de la página.  Las categorías se muestran en las páginas Todo el contenido y Contenido predictivo para facilitar la referencia.
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Cuando edite contenido descubierto, agregue categorías en la pantalla de edición. Haga clic en el campo **Categorías** y selecciónelo en la lista desplegable.
+Cuando edite contenido descubierto, agregue categorías en la pantalla de edición. Haga clic en el campo **Categorías** y selecciónelas en la lista desplegable.
 
 ![](assets/two.png)
 
@@ -33,7 +33,7 @@ Al agregar contenido, puede etiquetarlo con categorías seleccionadas en la vent
 
 A continuación se explica cómo crear etiquetas de categoría.
 
-1. Vaya a Configuración **de contenido**.
+1. Vaya a **Configuración de contenido**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
@@ -45,7 +45,7 @@ A continuación se explica cómo crear etiquetas de categoría.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Para eliminar una etiqueta de categoría, haga clic en la **x** situada junto a ella.
+1. Puede eliminar una etiqueta de categoría haciendo clic en la **x** que se encuentra junto a ella.
 
    ![](assets/remove-category-tag-updated.png)
 
