@@ -19,7 +19,7 @@ ht-degree: 0%
 
 La ficha Segmentos muestra todos los segmentos definidos personalizados que configuró en función de varios atributos.  **Un segmento es una colección de visitantes que cumplen los criterios especificados definidos en la página ‘Definir un segmento’.**  Un segmento puede ser visitantes de una industria, ubicación o según la actividad en el sitio del visitante.
 
-En Personalización web, un visitante puede coincidir con más de un segmento. Por ejemplo, si hay un segmento para visitantes estadounidenses y otro para compañías financieras, un visitante web de Bank of America coincidiría **tanto** con el segmento para visitantes estadounidenses como con el segmento para compañías financieras.
+En Personalización web, un visitante puede coincidir con más de un segmento. Por ejemplo, si hay un segmento para visitantes estadounidenses y otro para compañías financieras, un visitante web de Bank of America coincidiría con **tanto** el segmento para visitantes estadounidenses como el segmento para compañías financieras.
 
 **GRÁFICO:**  La página Segmentos muestra un gráfico de barras de los segmentos seleccionados según el número de visitantes del segmento (eje y) y el nombre del segmento (eje x).
 
@@ -80,23 +80,23 @@ Para habilitar o deshabilitar un segmento, seleccione la casilla de verificació
 
 ## Crear segmentos {#create-segments}
 
-El segmento que cree cumple los criterios específicos que defina en la página **Definir segmento** . También puede personalizar los segmentos en función de una combinación de criterios, dirigiéndose a una audiencia específica de la campaña.
+El segmento que cree cumple los criterios específicos que defina en la página **Definir segmento**. También puede personalizar los segmentos en función de una combinación de criterios, dirigiéndose a una audiencia específica de la campaña.
 
 Para crear un nuevo segmento
 
-En la página **Segmentos** , haga clic en **Crear nuevo** debajo del gráfico. Aparece la siguiente pantalla.
+En la página **Segmentos**, haga clic en **Crear nuevo** debajo del gráfico. Aparece la siguiente pantalla.
 
 ![](assets/four.png)
 
 Defina los parámetros generales del segmento:
 
-1. &#x200B;
+1. 
 
-   * **Nombre:**  Asigne un nombre al segmento.
-   * **Descripción:**  Proporcione una explicación más detallada de los criterios del segmento.
-   * **Dominios:**  Seleccione los dominios que desee incluir en el segmento.
-   * **Lógica de regla de segmento:**  Seleccione una lógica Y/O para generar cada atributo de segmentación
-   * **Temporización:** Defina el nivel de compromiso de visitante que desee en la campaña
+   * **Nombre:**  asigne un nombre al segmento.
+   * **Descripción:**  proporcione una explicación más detallada de los criterios del segmento.
+   * **Dominios:**  seleccione los dominios que desee incluir en el segmento.
+   * **Lógica de regla de segmento:**  seleccione una lógica Y / O para generar cada atributo de segmentación
+   * **Temporización:** defina el nivel de compromiso de visitante que desee en la campaña
 
       * **Entrada**: La participación del visitante llega al sitio web
       * **Después del primer - noveno clic**: Participación del visitante después de una cantidad específica de clics en el sitio web
@@ -109,22 +109,24 @@ Defina los parámetros generales del segmento:
 >
 >1. Usar todos los Filtros (1 y 2 y 3...)
 >1. Usar cualquier Filtros (1, 2 o 3...)
->1. Filtros avanzados (uso y/o expresiones)
->    1. &#x200B;
->       
->       Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
->       * 1 y 2 y 3
->       * 1 o 2 o 3
->
->       La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
->       * 1 y (2 o 3)
->       * (1 y 2) o 3
->
->       Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
->       * (1 y 2) o (3 y 4)
->       * 1 y (2 o (3 y 4)
->
->       Compruebe la lógica después de insertar, eliminar o reordenar.
+>1. Filtros avanzados (uso y/o expresiones) >
+   >    1. >    
+   >       
+
+      >Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.  >
+      >        * 1 y 2 y 3
+      >        * 1 o 2 o 3
+
+      >
+      La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:  >
+      * 1 y (2 o 3)
+      * (1 y 2) o 3
+
+      Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:  >
+      * (1 y 2) o (3 y 4)
+      * 1 y (2 o (3 y 4)
+
+      Compruebe la lógica después de insertar, eliminar o reordenar.
 
 
 
@@ -144,19 +146,19 @@ Arrastre y suelte **Ubicación **en el editor de segmentos.
 * Seleccione uno de los parámetros siguientes:
 
    * **Incluir **- Seleccione si desea que la campaña incluya o excluya una ubicación.
-   * **Seleccionar país para agregar** : en el cuadro desplegable, seleccione el país que desee incluir en el segmento. El nombre del país aparece a la derecha. Puede elegir varios países.
+   * **Seleccione el país que desee agregar**  : en el cuadro desplegable, seleccione el país que desee incluir en el segmento. El nombre del país aparece a la derecha. Puede elegir varios países.
 
 Una vez agregado el país, también puede especificar el estado, la ciudad y el código postal del segmento.
 
 * **Seleccione Estado o provincia para agregar** : en el cuadro desplegable, seleccione el estado de EE.UU. o la provincia canadiense que desee incluir. Puede realizar varias selecciones.
-* **Código** postal: introduzca el código postal que desea incluir en el segmento.
-* **Ciudades** - Entrar en la ciudad o ciudades que desee incluir. Utilice un punto y coma entre las ciudades.
+* **Código**  postal: introduzca el código postal que desea incluir en el segmento.
+* **Ciudades** - Introduzca la ciudad o ciudades que desee incluir. Utilice un punto y coma entre las ciudades.
 
 >[!TIP]
 >
 >**¿Qué condiciones de segmento selecciono? ¿‘AND’ o ‘OR’? **OR funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo necesitan cumplir un criterio de los múltiples criterios seleccionados dentro de cada campo para poder calificar para el segmento. (Por ejemplo, los clientes potenciales pueden ser de EE.UU. *o* de la industria de defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, los clientes potenciales deben ser tanto de EE.UU. como de la industria de defensa). Dentro de cada perfil de segmentación, cada campo por separado puede funcionar como ambos, ya sea &quot;Y&quot; o &quot;O&quot;, dependiendo de la condición de segmento seleccionada.
 
-**Industrias** En la sección Segmentación **de** Perfiles, marque la casilla junto a **Industria**.
+**** IndustriasEn la sección  **Perfil** Segmentación, marque la casilla junto a  **Industria**.
 
 * Seleccione uno de los parámetros siguientes:
 
@@ -165,7 +167,7 @@ Una vez agregado el país, también puede especificar el estado, la ciudad y el 
 
 **Grupo de organización**
 
-En la sección Segmentación **de** Perfiles, marque la casilla junto a Grupo **de organización.**
+En la sección **Segmentación de Perfil**, marque la casilla junto a **Grupo de organización.**
 
 * En el cuadro desplegable, seleccione una de las siguientes opciones:
 
@@ -184,17 +186,17 @@ En la sección Segmentación **de** Perfiles, marque la casilla junto a Grupo **
    * **Es de estas compañías (nombres específicos)**
 
       * Seleccione compañía a destinatario en la lista desplegable &#39;Seleccionar compañía para agregar&#39;.
-      * Puede escribir el nombre exacto de la organización que desee destinatario. *Siempre se *recomienda utilizar Listas de cuenta con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver más abajo).*
+      * Puede escribir el nombre exacto de la organización que desee destinatario. *Siempre *se recomienda utilizar Listas de cuenta con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver más abajo).*
 
 **Lista de cuenta con nombre**
 
-Seleccione entre una Lista [de cuenta](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) con nombre para segmentar las cuentas con objetivo clave
+Seleccione una [Lista de cuenta con nombre](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar las cuentas con objetivo clave
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->El número entre corchetes junto al nombre de la Lista de cuenta con nombre se utiliza como referencia de índice para la lista de la API [de](http://developers.marketo.com/documentation/websites/rtp-js-api/)lectura de personalización web.
+>El número entre corchetes junto al nombre de la Lista de cuenta con nombre se utiliza como referencia de índice para la lista de la API de lectura [de personalización de Web](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Excluir ISP**
 
@@ -206,7 +208,7 @@ Excluye a los Proveedores de servicio de Internet (ISP) del segmento.
 
 La personalización de Web se integra con la base de datos de Marketing, lo que le permite segmentar y personalizar campañas según los datos y atributos de las personas conocidas.
 
-Seleccione Base de datos y seleccione un campo de datos de persona en la lista desplegable. Seleccione las **+** para agregar campos en la lista desplegable.
+Seleccione Base de datos y seleccione un campo de datos de persona en la lista desplegable. Seleccione el   **+** para agregar campos desde la lista desplegable.
 
 ![](assets/seven.png)
 
@@ -218,7 +220,7 @@ Puede agregar o quitar campos de datos de personas de Configuración de cuenta >
 >
 >Por ejemplo: &quot;Puesto de trabajo es igual a CMO&quot; y &quot;Puntuación es menor o igual a 50&quot;
 
-**Segmento de Campaña** por correo electrónico de marketing y personalice campañas mediante la referencia por correo electrónico de un visitante que haga clic en un correo electrónico de marketing y llegue al sitio. Segmento por nombre de Programa de marketing o nombre de Campaña y continúe la conversación de correo electrónico a Web. Seleccione + para agregar campos en la lista desplegable.
+**Campaña de marketing por correo electrónico** Segmentar y personalizar campañas mediante referencia por correo electrónico desde un visitante que hace clic en un correo electrónico de marketing y llega al sitio. Segmento por nombre de Programa de marketing o nombre de Campaña y continúe la conversación de correo electrónico a Web. Seleccione + para agregar campos en la lista desplegable.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -247,7 +249,7 @@ Defina el segmento según el estado del cliente potencial: conocido o anónimo.
       * En el cuadro de texto de la derecha, escriba el número de visitante que desee rastrear. El número de identificación exclusivo del visitante de personalización web se puede encontrar al hacer clic en un visitante (en la página visitantes) y en la Campaña de conjunto en el panel derecho. El ID de Visitante se encuentra en la sección Configuración avanzada. El ID de visitante también se encuentra en la URL (por ejemplo: VISITANTE=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 
-**Términos** de búsqueda: defina un segmento según los términos de búsqueda de un cliente potencial.
+**Términos**  de búsqueda: defina un segmento según los términos de búsqueda de un cliente potencial.
 
 * 
 
@@ -284,13 +286,13 @@ Arrastre y suelte Mobile OS en el editor de segmentos
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Tipo de Visitante **
-   **Sistema operativo** móvil: en el cuadro desplegable, seleccione uno o varios sistemas operativos móviles. El sistema operativo móvil seleccionado aparece a continuación.
+   **Sistema operativo**  móvil: en el cuadro desplegable, seleccione uno o varios sistemas operativos móviles. El sistema operativo móvil seleccionado aparece a continuación.
 
    * El visitante está usando cualquier dispositivo móvil ** **
    * El visitante utiliza este dispositivo o sistema operativo específico
    * El visitante no utiliza ningún dispositivo móvil
 
-* **Dispositivo** : en la lista desplegable, seleccione uno o varios dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Los dispositivos seleccionados aparecen a continuación.
+* **Dispositivo**  : en la lista desplegable, seleccione uno o varios dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry, etc.). Los dispositivos seleccionados aparecen a continuación.
 
 **Explorador**
 
@@ -303,17 +305,17 @@ Visitante de destinatario que utiliza tipos y/o versiones de explorador específ
 
 ### API {#api}
 
-**Eventos** de datos: visitantes de segmentos que activan Eventos de datos personalizados específicos
+**Eventos**  de datos: visitantes de segmentos que activan Eventos de datos personalizados específicos
 
 Añada el valor de Evento que desee destinatario. Por ejemplo, de fuentes de datos de terceros.
 
 **API de contexto de usuario**
 
-Llamada de API de personalización web para [leer más sobre ella aquí.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Llamada de API de personalización web [lea más aquí.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Uso de comodines - **Cuando desee incluir cualquier término de búsqueda o dirección URL que contenga algo dentro de él, por ejemplo: &quot; [google.com](http://google.com)&quot; o &quot;search term product&quot;, llamamos a esto comodín y debería introducirse con un asterisco - este pequeño tipo* - en cada extremo. Así que todo lo que venga de [google.com](http://google.com) debe introducirse como * [google.com](http://google.com)*
+>**Uso de comodines - **Cuando desee incluir cualquier término de búsqueda o dirección URL que contenga algo dentro de él, por ejemplo: &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, lo llamamos comodín y debería introducirse con un asterisco - este pequeño tipo* - en cada extremo. Así que todo lo que venga de [google.com](http://google.com) debe introducirse como * [google.com](http://google.com)*
 
 ## Editar segmentos {#edit-segments}
 
@@ -323,7 +325,7 @@ Puede editar un segmento que se haya creado.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. En la tabla **Segmentos** , haga clic en el icono de edición ( ![](assets/segment-edit.png)) del segmento que desee editar. La página **Definir segmento** se abre con el segmento seleccionado.
+1. En la tabla **Segmentos**, haga clic en el icono de edición ( ![](assets/segment-edit.png)) del segmento que desee editar. Se abre la página **Definir segmento** con el segmento seleccionado.
 1. Aplique las modificaciones o cambios que desee realizar en el segmento.
 1. Haga clic en **Guardar**.
 
