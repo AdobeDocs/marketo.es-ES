@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Plantilla 3D {#template-d}
+# Plantilla 3-D {#template-d}
 
 [Descargar plantilla 3-D](http://docs.marketo.com/download/attachments/8160090/template3-d.html?version=1&amp;modificationdate=1434390935000&amp;api=v2)
 
