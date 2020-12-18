@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Filtrar un informe de Actividad de Campaña {#filter-a-campaign-activity-report}
 
-Centre el informe [de Actividad de](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)Campaña en campañas [](http://docs.marketo.com/display/docs/smart+campaigns)inteligentes específicas.
+Centre su [informe de Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)en campañas [inteligentes](http://docs.marketo.com/display/docs/smart+campaigns) específicas.
 
-1. Vaya a Actividades **** de marketing (o **Analytics**) y seleccione su informe de actividad de campañas.
+1. Vaya a **Actividades de marketing** (o **Analytics**) y seleccione su informe de actividad de campaña.
 
    ![](assets/image2014-9-16-16-3a13-3a56.png)
 
-1. Haga clic en la ficha **Configuración** y haga clic con el doble en **Campañas.**
+1. Haga clic en la ficha **Configuración** y haga clic con el doble **Campañas.**
 
    ![](assets/image2014-9-16-16-3a14-3a1.png)
 
@@ -31,7 +31,7 @@ Centre el informe [de Actividad de](../../../../product-docs/reporting/basic-rep
    >
    >Si selecciona una carpeta, el informe incluirá todo lo que contenga en el momento en que se ejecute el informe.
 
-1. ¡Ya has terminado! Haga clic en la ficha **Informe** para ver *solo* las campañas inteligentes seleccionadas en el informe.
+1. ¡Ya has terminado! Haga clic en la ficha **Informe** para ver *sólo* las campañas inteligentes seleccionadas en el informe.
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
@@ -47,5 +47,5 @@ Centre el informe [de Actividad de](../../../../product-docs/reporting/basic-rep
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
