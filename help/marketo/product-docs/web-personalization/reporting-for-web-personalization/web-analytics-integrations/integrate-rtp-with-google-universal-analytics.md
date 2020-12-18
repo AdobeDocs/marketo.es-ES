@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Integrar RTP con Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
 
-## Introducción {#intro}
+## Intro {#intro}
 
 Aproveche Google Universal Analytics (GUA) con datos de personalización y firmografía de la Personalización en tiempo real (RTP) de Marketo para medir y analizar mejor sus esfuerzos de mercadotecnia en línea.
 
@@ -43,10 +43,10 @@ Google Universal Analytics con los datos de RTP le ofrece una mejor comprensión
 
 1. En Google Analytics,
 
-   1. Ir al **administrador**
+   1. Vaya a **Administración**
    1. Seleccione la **cuenta.**
    1. Seleccione la **propiedad.**
-   1. Seleccione **Definiciones personalizadas **y Dimension **personalizados.**
+   1. Seleccione **Definiciones personalizadas **y **Dimension personalizados.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
@@ -54,7 +54,7 @@ Google Universal Analytics con los datos de RTP le ofrece una mejor comprensión
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Añada los siguientes Dimension **personalizados:**
+1. Añada los siguientes **Dimension personalizados:**
 
 <table> 
  <tbody> 
@@ -66,31 +66,31 @@ Google Universal Analytics con los datos de RTP le ofrece una mejor comprensión
   <tr> 
    <td><p><strong>RTP-Organization</strong></p></td> 
    <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">xib</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Industry</strong></p></td> 
    <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">xib</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Categoría RTP</strong></p></td> 
    <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">xib</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>RTP-Group</strong></p></td> 
    <td><p>Sesión</p></td> 
-   <td><p align="center">✓</p></td> 
+   <td><p align="center">xib</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->**Los nombres** de Dimension personalizados deben ser los mismos que se definen en la tabla anterior (de lo contrario, los informes y paneles RTP personalizados en GUA no se mostrarán correctamente)
+>**Los** nombres de Dimension personalizados deben ser exactamente los definidos en la tabla anterior (de lo contrario, los informes y paneles RTP personalizados en GUA no se mostrarán correctamente)
 
-1. Añada el **Nombre. **Seleccione el ámbito como **sesión.** Haga clic en **Crear.**
+1. Añada el **Nombre. **Seleccione el ámbito como **Sesión.** Haga clic en  **Crear.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -100,16 +100,16 @@ La lista del Dimension personalizado debería tener este aspecto.
 
 Una vez activados los Dimension personalizados en GUA, vaya a la plataforma RTP para habilitar estas dimensiones dentro de RTP.
 
-## Activar la integración de GUA en su cuenta RTP {#activate-the-gua-integration-in-your-rtp-account}
+## Active la integración de GUA en su cuenta RTP {#activate-the-gua-integration-in-your-rtp-account}
 
-1. En la plataforma RTP, vaya a Configuración **de cuenta.**
+1. En la plataforma RTP, vaya a **Configuración de la cuenta.**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. En Configuración **de cuenta**, haga clic en **Dominio.**
+1. En **Configuración de cuenta**, haga clic en **Dominio.**
 1. En **Analytics, **haga clic en **Google Universal Analytics**.
-1. Active **los Dimension y Eventos personalizados relevantes** para anexar estos datos de RTP a Google Universal Analytics.
-1. Introduzca el número **de** índice de la dimensión alineada con el número de índice en GUA.
+1. Active **Los Dimension y Eventos personalizados relevantes para anexar estos datos de RTP a Google Universal Analytics.**
+1. Introduzca el **número de índice** de la dimensión alineada con el número de índice en GUA.
 1. Haga clic en **Guardar**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
@@ -122,7 +122,7 @@ Una vez activados los Dimension personalizados en GUA, vaya a la plataforma RTP 
 
 ## Eliminar Paneles antiguos en Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. En Google Analytics. Ve al **Sistema de informes.**
+1. En Google Analytics. Vaya a **Sistema de informes.**
 1. Haga clic en **Paneles.**
 1. Seleccione un **Panel **(Rendimiento RTP B2B o RTP)
 1. Haga clic en **Eliminar Panel**.
