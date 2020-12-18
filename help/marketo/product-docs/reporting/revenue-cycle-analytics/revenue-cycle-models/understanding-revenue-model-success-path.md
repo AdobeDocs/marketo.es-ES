@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Ruta de éxito {#success-path}
 
-En el modelo, la ruta verde, conocida como la ruta **de** éxito, es la ruta óptima de cómo un posible cliente transición linealmente a un negocio cerrado o ganado.
+En el modelo, la ruta verde conocida como **Ruta de éxito** es la ruta óptima de cómo un posible cliente realiza transiciones lineales a un negocio cerrado o ganado.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Ejemplo de etapas en una ruta de éxito:
 
@@ -31,9 +31,9 @@ Ejemplo de etapas en una ruta de éxito:
 
 >[!TIP]
 >
->El verde es por dinero. Todo en el camino del verde está en el camino del éxito! Por eso solo hay flechas verdes en el Analizador [de rutas de](using-the-success-path-analyzer.md)éxito.
+>El verde es por dinero. Todo en el camino del verde está en el camino del éxito! Por eso solo hay flechas verdes en el [Analizador de ruta de éxito](using-the-success-path-analyzer.md).
 
-## Detenciones {#detours}
+## Detours {#detours}
 
 Al reconocer que no todos los leads siguen una &quot;ruta de éxito&quot; lineal, también debe definir sus &quot;etapas de desvío&quot; para capturar los leads que no están calificados o que requieren algunas rondas de formación antes de estar listos. Por ejemplo:
 
