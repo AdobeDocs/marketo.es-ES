@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Información general sobre el Sistema de informes de Programa avanzado {#advanced-program-reporting-overview}
+# Información general de Sistema de informes de Programa avanzado {#advanced-program-reporting-overview}
 
-**El Explorador** del ciclo de ingresos incluye varias áreas de análisis y una amplia variedad de métricas nuevas que le permiten medir la efectividad del programa.
+**Revenue Cycle** Explorer incluye varias áreas de análisis y una amplia variedad de métricas nuevas que le permiten medir la efectividad del programa.
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ Las áreas de análisis contienen diferentes conjuntos de datos y métricas dent
 
 ## Áreas de Análisis de programa {#program-analysis-areas}
 
-* ** Análisis [de costos de](understanding-the-program-cost-analysis-area.md) Programa **- Vea el ROI de todos sus programas.
+* ** [Análisis de costos de Programa](understanding-the-program-cost-analysis-area.md) **- Vea el ROI de todos sus programas.
 
-* ** [Programa Análisis](understanding-the-program-membership-analysis-area.md) de afiliación **- Ver resultados por canal, participación, criterios de éxito, etc.
+* ** [Análisis de membresía en Programa](understanding-the-program-membership-analysis-area.md) **- Ver resultados por canal, participación, criterios de éxito, etc.
 
-* ** Análisis [de oportunidades de](understanding-the-program-opportunity-analysis-area.md) Programa **- Oportunidades generadas en función de la distribución, sus ingresos y el retorno de la inversión.
+* ** [Análisis de oportunidades de Programa](understanding-the-program-opportunity-analysis-area.md) **- Oportunidades generadas en función de la distribución, sus ingresos y el retorno de la inversión.
 
-* ** Análisis [de la etapa de ingresos de](understanding-the-program-revenue-stage-analysis-area.md) Programas **- Nuevos nombres que han alcanzado etapas de éxito específicas dentro del modelo de ciclo de ingresos.
+* ** [Análisis de la etapa de ingresos de Programas](understanding-the-program-revenue-stage-analysis-area.md) **- Nuevos nombres que han alcanzado etapas de éxito específicas dentro del modelo de ciclo de ingresos.
 
-## Análisis de programa {#program-analyzers}
+## Analizadores de programa {#program-analyzers}
 
-* **Analizador** de programa: identifique rápidamente los programas que se han realizado correctamente o no y concentre los recursos correctamente.
+* **Analizador**  de programas: identifique rápidamente los programas que se han realizado correctamente o no, y concentre los recursos correctamente.
 
-* **Analizador** de influencia de oportunidades: pruebe la contribución de Marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
+* **Analizador**  de influencia de oportunidades: pruebe la contribución de Marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
 
 ## Opciones del informe {#report-options}
 
