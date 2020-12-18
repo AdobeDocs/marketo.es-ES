@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Los vínculos de los mensajes de correo electrónico de suscripción de informes caducan pasados tres días. Para cambiar la caducidad de estos vínculos, siga estos pasos.
 
-1. En **Administración**, haga clic en Configuración **de inicio de sesión**.
+1. En **Administración**, haga clic en **Configuración de inicio de sesión**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
