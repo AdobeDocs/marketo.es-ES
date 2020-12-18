@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear una Audiencia personalizada en Facebook](create-a-custom-audience-in-facebook.md)
->* [Acepte los términos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de audiencias personalizadas de Facebook en su cuenta de Facebook.
+>* [Acepte los ](https://www.facebook.com/ads/manage/customaudiences/tos.php) términos de audiencias personalizados de Facebook en su cuenta de Facebook.
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Seleccione la ficha **Posibles clientes** y haga clic en el icono **Enviar por puente de publicidad **en la parte inferior.
+1. Seleccione la ficha **Posibles clientes** y haga clic en el icono **Enviar por el puente de publicidad **en la parte inferior.
 
    ![](assets/two-1.png)
 
@@ -36,13 +36,13 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable de **Audiencia** , seleccione la audiencia a la que desee agregar los leads y haga clic en **Actualizar**.
+1. Haga clic en la lista desplegable **Audiencia**, seleccione la audiencia a la que desee agregar los leads y haga clic en **Actualizar**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Añadir leads en audiencia:** solo estarán disponibles las audiencias de Facebook con un subtipo personalizado.\
+   >**Añadir lleva a la audiencia:** solo estarán disponibles las audiencias de Facebook con un subtipo personalizado.\
    >**Eliminar leads de la audiencia**: quita los leads de la lista estática o inteligente de una audiencia de Facebook.
 
 1. Cuando termine, se actualizará el estado.
