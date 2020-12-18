@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede realizar algunas modificaciones en los anuncios de la página Todo el contenido.
 
-1. En la página **Todo el contenido** , pase el ratón sobre la fila del título que desee editar y haga clic en el icono de edición.
+1. En la página **Todo el contenido**, pase el ratón por encima de la fila del título que desee editar y haga clic en el icono de edición.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -27,7 +27,7 @@ Puede realizar algunas modificaciones en los anuncios de la página Todo el cont
 
    ![](assets/edit-content-3.png)
 
-1. Marque la casilla **Aprobar contenido** predictivo para aprobar o desmarque la casilla para desaprobar. Haga clic en **Guardar** cuando termine.
+1. Marque la casilla **Aprobar contenido predictivo** para aprobar o desmarque la casilla para desaprobar. Haga clic en **Guardar** cuando termine.
 
    ![](assets/edit-content-4.png)
 
