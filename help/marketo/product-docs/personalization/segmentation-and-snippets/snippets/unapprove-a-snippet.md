@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Desaprobar un fragmento {#unapprove-a-snippet}
+# Desaprobar fragmento {#unapprove-a-snippet}
 
 Un fragmento no aprobado no se puede usar en correos electrónicos o páginas de aterrizaje.
 
@@ -19,13 +19,13 @@ Un fragmento no aprobado no se puede usar en correos electrónicos o páginas de
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Vaya al fragmento de código y asegúrese de que no lo **utiliza** ningún recurso.
+1. Vaya a su fragmento de código y asegúrese de que **no lo utiliza** ningún recurso.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Si otros recursos utilizan el fragmento de código, elimine dichas asociaciones antes de continuar.
 
-1. En Acciones **de** fragmentos, haga clic en **Desaprobar**.
+1. En **Acciones de fragmento**, haga clic en **Desaprobar**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
