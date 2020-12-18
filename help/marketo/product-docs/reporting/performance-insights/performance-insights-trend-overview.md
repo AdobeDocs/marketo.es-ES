@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Información general de tendencia de perspectivas de rendimiento {#performance-insights-trend-overview}
+# Información general de tendencias de perspectivas de rendimiento {#performance-insights-trend-overview}
 
 La tendencia muestra el rendimiento de los canales durante un período de tiempo.
 
@@ -23,7 +23,7 @@ Haga clic en la ficha **Tendencia** para acceder a esta vista.
 
 ![](assets/2-1.png)
 
-Seleccione la métrica por la que desee realizar la vista del rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Seleccione la métrica por la que desee realizar la vista del rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [Primer toque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 
