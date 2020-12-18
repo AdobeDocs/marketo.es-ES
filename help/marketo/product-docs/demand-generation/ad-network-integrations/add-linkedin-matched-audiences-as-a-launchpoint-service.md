@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Conecte la cuenta de Marketingto con Audiencias coincidentes de LinkedIn para utilizar una lista estática de Marketing o una lista inteligente como un segmento de audiencia de LinkedIn.
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/admin.png)
 
@@ -31,7 +31,7 @@ Conecte la cuenta de Marketingto con Audiencias coincidentes de LinkedIn para ut
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Introduzca un nombre **para mostrar** y elija **Audiencias** coincidentes de LinkedIn. Haga clic en **Crear**.
+1. Escriba un **Nombre para mostrar** y elija **Audiencias coincidentes de LinkedIn**. Haga clic en **Crear**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
