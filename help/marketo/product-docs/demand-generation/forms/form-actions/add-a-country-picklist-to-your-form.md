@@ -19,7 +19,7 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/editform-1.png)
 
@@ -35,7 +35,7 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Edite** los **valores** para agregar la lista de países entre los que los usuarios pueden elegir.
+1. **** Edite los  **** valores para agregar la lista de países entre los que los usuarios pueden elegir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
