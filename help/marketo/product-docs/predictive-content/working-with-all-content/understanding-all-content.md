@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 La página Todo el contenido muestra todo el contenido que se ha descubierto o agregado manualmente.   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,11 +30,11 @@ Los campos de página incluyen:
 
 Puede agregar un nuevo contenido y rastrearlo, eliminar un fragmento de contenido o aprobar un fragmento de contenido. Después de aprobar el contenido, puede editarlo en la página Contenido predictivo.
 
-## Filtrar contenido por Categorías  {#filter-content-by-categories}
+## Filtrar contenido por Categorías {#filter-content-by-categories}
 
 Para filtrar el contenido, seleccione una o varias categorías. A continuación, configure la fecha o el intervalo de fechas para el análisis de contenido mediante la configuración estándar o personalizada.
 
-1. En la página **Todo el contenido** , haga clic en el icono de filtro y, en **Categoría**, seleccione una o varias categorías de contenido.
+1. En la página **Todo el contenido**, haga clic en el icono de filtro y, en **Categoría**, seleccione una o varias categorías de contenido.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Para filtrar el contenido, seleccione una o varias categorías. A continuación,
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-## Mostrar análisis para una fecha o un intervalo de fechas {#display-analytics-for-a-date-or-date-range}
+## Mostrar Analytics para una fecha o un intervalo de fechas {#display-analytics-for-a-date-or-date-range}
 
 1. Para mostrar los datos de una fecha o intervalo de fechas específicos, haga clic en el icono de calendario y, a continuación, seleccione en el panel izquierdo. Para un intervalo de fechas personalizado, haga clic en el primer y último día del intervalo de fechas en el calendario (como se muestra). Haga clic en **Aplicar**.
 
