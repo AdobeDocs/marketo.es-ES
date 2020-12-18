@@ -19,11 +19,11 @@ Acceda a ella iniciando sesión en la plataforma de personalización web de Mark
 
 ## Definir la región del usuario {#define-the-users-region}
 
-Para definir los datos de organización y Visitante que se ven en Personalización web de marketing por región, país o estado, vaya a Configuración [de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) y seleccione los países o estados.
+Para definir los datos de organización y Visitante que se ven en Personalización web de marketing por región, país o estado, vaya a [Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) y seleccione los países o estados.
 
-## Configuración de informes de correo electrónico diarios o semanales {#set-up-daily-or-weekly-email-reports}
+## Configurar informes de correo electrónico diarios o semanales {#set-up-daily-or-weekly-email-reports}
 
-En Configuración [de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puede configurarse para recibir informes de correo electrónico diarios o semanales, enviados por la mañana temprano. Los principales informes de interés para un ejecutivo de ventas incluyen los informes Organizaciones y Posibles clientes, que muestran las principales organizaciones visitadas y los posibles clientes enviados, incluido su comportamiento, desde la región específica del usuario.
+En [Configuración de usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puede configurar para recibir informes de correo electrónico diarios o semanales, enviados por la mañana temprano. Los principales informes de interés para un ejecutivo de ventas incluyen los informes Organizaciones y Posibles clientes, que muestran las principales organizaciones visitadas y los posibles clientes enviados, incluido su comportamiento, desde la región específica del usuario.
 
 >[!NOTE]
 >
