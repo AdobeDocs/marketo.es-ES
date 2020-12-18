@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >No haga clic en el nombre real de la página de aterrizaje, son vínculos y lo llevarán a la página misma.
 
-1. Con las páginas de aterrizaje seleccionadas, vaya a Acciones **de** Página de aterrizaje y haga clic en **Aprobar.**
+1. Con las páginas de aterrizaje seleccionadas, vaya a **Acciones de Página de aterrizaje** y haga clic en **Aprobar.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
