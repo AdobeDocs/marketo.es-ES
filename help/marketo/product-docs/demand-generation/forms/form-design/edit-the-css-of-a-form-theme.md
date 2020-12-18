@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Editar la CSS de un tema de formulario {#edit-the-css-of-a-form-theme}
 
-Usted tiene algunas [temáticas preconstruidas entre las que puede elegir](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Pero si le encanta editar CSS, puede realizar los cambios que desee. Así es como.
+Tiene algunas [temáticas prediseñadas que puede elegir entre](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Pero si le encanta editar CSS, puede realizar los cambios que desee. Así es como.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Usted tiene algunas [temáticas preconstruidas entre las que puede elegir](../..
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Vaya a **Configuración del formulario** **Configuración**.
+1. Vaya a **Configuración** **Configuración**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ Usted tiene algunas [temáticas preconstruidas entre las que puede elegir](../..
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Bajo el icono de engranaje, haga clic en **Vista Tema CSS**.
+1. Bajo el icono de engranaje, haga clic en **CSS del tema de Vista**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ Usted tiene algunas [temáticas preconstruidas entre las que puede elegir](../..
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Bajo el icono de engranaje, haga clic en **Editar** **CSS** personalizada ****.
+1. Bajo el icono de engranaje, haga clic en **Editar** **Personalizado** **CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
