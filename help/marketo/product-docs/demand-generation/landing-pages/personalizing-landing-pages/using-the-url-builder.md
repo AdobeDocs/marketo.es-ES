@@ -19,7 +19,7 @@ El Generador de direcciones URL ayuda a construir direcciones URL que pueden rel
 >
 >Obtenga información sobre cómo crear campos ocultos en formularios y editar su configuración en [Definir un campo de formulario como oculto](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Seleccione una página de aterrizaje, haga clic en Acciones **de** Página de aterrizaje, pase el ratón por encima de Herramientas **de** URL y, a continuación, haga clic en Generador **de** URL.
+1. Seleccione una página de aterrizaje, haga clic en **Acciones de Página de aterrizaje**, pase el ratón sobre **Herramientas URL** y, a continuación, haga clic en **Generador de URL**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
@@ -29,6 +29,6 @@ El Generador de direcciones URL ayuda a construir direcciones URL que pueden rel
 
    >[!NOTE]
    >
-   >Si no ve ningún campo disponible en el generador, asegúrese de que el formulario tiene campos ocultos y de que están [configurados para aceptar parámetros](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter)de URL.
+   >Si no ve ningún campo disponible en el generador, asegúrese de que el formulario tiene campos ocultos y de que [están configurados para aceptar parámetros de URL](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter).
 
 ¡bueno trabajo! Ahora puede copiar y pegar la URL y utilizarla en la web.
