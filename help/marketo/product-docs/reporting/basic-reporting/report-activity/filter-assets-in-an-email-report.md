@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar recursos en un informe de correo electrónico {#filter-assets-in-an-email-report}
 
-Centre el informe Rendimiento [del](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) correo electrónico o Rendimiento [del vínculo de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) correo electrónico en los mensajes de correo electrónico de los programas (&#39;recursos locales&#39;), en los de Design Studio (&#39;recursos globales&#39;) o en los archivados.
+Centre su [Rendimiento del correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Rendimiento de los vínculos de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en el informe de los correos electrónicos de sus programas (&#39;activos locales&#39;), en los de Design Studio (&#39;activos globales&#39;) o en los que se han archivado.
 
-1. Vaya al área **Análisis** (o Actividades **de marketing**).
+1. Vaya al área **Analytics** (o **Actividades de marketing**).
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -23,7 +23,7 @@ Centre el informe Rendimiento [del](../../../../product-docs/email-marketing/ema
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre un filtro.
+1. Haga clic en la ficha **Configuración** y arrastre sobre un filtro.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
@@ -55,5 +55,5 @@ Centre el informe Rendimiento [del](../../../../product-docs/email-marketing/ema
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
