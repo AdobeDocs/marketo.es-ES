@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >Esto solo se aplica a páginas de aterrizaje de formato libre.
 
-1. Seleccione la imagen que ha agregado a la página de aterrizaje y expanda la hoja de **propiedades.**
+1. Seleccione la imagen que agregó a la página de aterrizaje y expanda la **hoja de propiedades.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Escriba el vínculo mailto en la dirección URL del **vínculo.**
+1. Escriba el vínculo mailto en la **URL del vínculo.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
