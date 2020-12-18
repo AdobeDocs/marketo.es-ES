@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La personalización web tiene varios informes útiles que se envían por correo electrónico. Así es como suscribirse a ellos.
 
-1. Inicie sesión en Personalización web. En el nombre de inicio de sesión, haga clic en Configuración **de usuario**.
+1. Inicie sesión en Personalización web. Bajo su nombre de inicio de sesión, haga clic en **Configuración de usuario**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
