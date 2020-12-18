@@ -27,7 +27,7 @@ En este ejemplo, elegiremos la tarifa abierta para las primeras tres semanas de 
 
    ![](assets/two-2.png)
 
-1. Cuando se seleccione el intervalo de fechas, haga clic en **Aplicar**.
+1. Cuando el intervalo de fechas esté seleccionado, haga clic en **Aplicar**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ En este ejemplo, elegiremos la tarifa abierta para las primeras tres semanas de 
 
    ![](assets/5.png)
 
-1. En el lado derecho del gráfico, haga clic en el icono de exportación y seleccione **Guardar como gráfico** rápido.
+1. En el lado derecho del gráfico, haga clic en el icono de exportación y seleccione **Guardar como gráfico rápido**.
 
    ![](assets/six.png)
 
@@ -65,11 +65,11 @@ En este ejemplo, elegiremos la tarifa abierta para las primeras tres semanas de 
 
 ¿Desea eliminar uno de los gráficos rápidos? ¡Es fácil!
 
-1. Haga clic en el icono **Gráficos** rápidos.
+1. Haga clic en el icono **Gráficos rápidos**.
 
    ![](assets/nine.png)
 
-1. Pase el ratón sobre el gráfico deseado, pero no haga clic en él. Al pasar el ratón por encima, aparecerá una X. Haga clic en la **X**.
+1. Pase el ratón sobre el gráfico deseado, pero no haga clic en él. Al pasar el ratón por encima, aparecerá una X. Haga clic en **X**.
 
    ![](assets/ten.png)
 
