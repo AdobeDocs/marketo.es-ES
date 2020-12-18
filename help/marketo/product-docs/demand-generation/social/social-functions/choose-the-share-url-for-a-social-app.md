@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Al crear una aplicación social, puede elegir qué URL se compartirán en las publicaciones de los participantes.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Al crear una aplicación social, puede elegir qué URL se compartirán en las pu
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. En el editor de aplicaciones sociales, vaya a Configuración **de** aplicación y, a continuación, a Opciones **** avanzadas.
+1. En el editor de la aplicación social, vaya a **Configuración de la aplicación** y, a continuación, a **Opciones avanzadas**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
