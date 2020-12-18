@@ -19,7 +19,7 @@ Los juegos de campo son geniales. Agrupan un montón de campos juntos. ¡Tambié
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -27,11 +27,11 @@ Los juegos de campo son geniales. Agrupan un montón de campos juntos. ¡Tambié
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Seleccione el **conjunto** de campos e introduzca una **etiqueta**.
+1. Seleccione el **conjunto de campos** e introduzca una **etiqueta**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Arrastre los campos que desee al **conjunto** de campos.
+1. Arrastre los campos que desee al **conjunto de campos**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,5 +43,5 @@ Los juegos de campo son geniales. Agrupan un montón de campos juntos. ¡Tambié
 
 >[!TIP]
 >
->Puede ocultar o mostrar dinámicamente todo el conjunto de campos en función de otro campo. Obtenga información sobre las reglas [de](dynamically-toggle-visibility-of-a-form-field.md)visibilidad.
+>Puede ocultar o mostrar dinámicamente todo el conjunto de campos en función de otro campo. Obtenga información sobre [reglas de visibilidad](dynamically-toggle-visibility-of-a-form-field.md).
 
