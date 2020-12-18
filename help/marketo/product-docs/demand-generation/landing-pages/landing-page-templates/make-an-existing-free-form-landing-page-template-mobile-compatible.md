@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Conversión de una plantilla de Página de aterrizaje de forma libre existente en compatible con móviles {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Hacer compatible una plantilla de Página de aterrizaje de forma libre existente con dispositivos móviles {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 >[!NOTE]
 >
->Las plantillas de páginas de aterrizaje creadas antes de la versión [de enero de 2015 deben](../../../../release-notes/2015/release-notes-january-2015.md)actualizarse para que sean compatibles con dispositivos móviles.
+>Las plantillas de páginas de aterrizaje que se crearon antes de la [versión de enero de 2015](../../../../release-notes/2015/release-notes-january-2015.md)deben actualizarse para que sean compatibles con dispositivos móviles.
 
 Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Páginas de aterrizaje.
 
@@ -29,7 +29,7 @@ Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Pági
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Seleccione una plantilla en la que Compatible con **móviles** sea **No**.
+1. Seleccione una plantilla donde **Compatible con móviles** sea **No**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -71,11 +71,11 @@ Si realiza cambios en la plantilla, haga clic en Acciones de plantilla y selecci
 
 Cuando edita una página de aterrizaje y hace clic en la ficha móvil, a veces se da cuenta de que la plantilla no se ha actualizado. ¡No teman! Puede actualizarlo aquí mismo.
 
-1. Haga clic en la ficha **Móvil** .
+1. Haga clic en la ficha **Móvil**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Haga clic en la casilla de verificación y en **Activar**.
+1. Haga clic en la casilla de verificación y haga clic en **Activar**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -83,7 +83,7 @@ Cuando edita una página de aterrizaje y hace clic en la ficha móvil, a veces s
    >
    >Al activar la versión móvil de una plantilla, se crearán borradores de cualquier página de aterrizaje que la utilice.
 
-¡Increíble! Ahora puede [personalizar la vista](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) móvil de todas las páginas de aterrizaje que utilicen esta plantilla.
+¡Increíble! Ahora puede [personalizar la vista móvil](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas las páginas de aterrizaje que utilicen esta plantilla.
 
 >[!MORELIKETHIS]
 >
