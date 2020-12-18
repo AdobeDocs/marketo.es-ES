@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Suscripción a un informe del Explorador de ingresos {#subscribe-to-a-revenue-explorer-report}
 
-Para recibir actualizaciones de los informes del Explorador [del ciclo de](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ingresos y compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
+Para recibir actualizaciones de los informes [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics) y compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
 
-1. Vaya a **Analytics** y seleccione **Nuevo > Nueva Suscripción de informes.**
+1. Vaya a **Analytics** y seleccione **Nuevo > Nueva Suscripción de informe.**
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Para suscribirse a un informe básico creado en un programa, consulte [Suscripción a un informe básico.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Para suscribirse a un informe básico que creó en un programa, consulte [Suscribirse a un informe básico.](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Para Origen **** de informes, seleccione** Explorador de ingresos**.
+1. Para **Origen del informe**, seleccione** Explorador de ingresos**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,11 +45,11 @@ Para recibir actualizaciones de los informes del Explorador [del ciclo de](http:
 
 >[!MORELIKETHIS]
 >
->Obtenga información sobre cómo [administrar todas las suscripciones](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) de informes en un solo lugar.
+>Obtenga información sobre cómo [administrar todas sus suscripciones de informes](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) en un solo lugar.
 
 >[!NOTE]
 >
 >**Buceo profundo**
 >
->Vea más de las cosas que puede hacer con los análisis avanzados de Marketing en la inmersión profunda del Explorador [del ciclo de](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ingresos.
+>Vea más de las cosas que puede hacer con los análisis avanzados de Marketing en la [navegación profunda del Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
