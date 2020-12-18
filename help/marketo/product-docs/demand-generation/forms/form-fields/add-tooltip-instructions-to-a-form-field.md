@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Añadir instrucciones de información sobre herramientas en un campo de formulario {#add-tooltip-instructions-to-a-form-field}
+# Añadir instrucciones de información sobre herramientas a un campo de formulario {#add-tooltip-instructions-to-a-form-field}
 
-[Las sugerencias](add-hint-text-to-a-form-field.md) e instrucciones ayudan a las personas a rellenar formularios. A continuación se explica cómo agregar instrucciones de información sobre herramientas.
+[Las ](add-hint-text-to-a-form-field.md) sugerencias e instrucciones ayudan a las personas a rellenar formularios. A continuación se explica cómo agregar instrucciones de información sobre herramientas.
 
 >[!NOTE]
 >
 >**Definición**
 >
->Las **sugerencias** para el formulario son texto que aparece dentro del campo y que desaparece cuando el visitante comienza a escribir en el campo.
+>El formulario **Sugerencias** es texto que aparece dentro del campo y que desaparece cuando el visitante comienza a escribir en el campo.
 >
->Las **instrucciones** de formulario son pequeños consejos sobre herramientas que aparecen cuando el visitante se sitúa sobre el campo.
+>Las **Instrucciones** del formulario son pequeñas sugerencias que aparecen cuando el visitante se sitúa sobre el campo.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**Recordatorio**
    >
    >
-   >No olvide [aprobar el borrador](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de página de aterrizaje creado por los cambios del formulario.
+   >No olvide [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios de formulario.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
@@ -58,5 +58,5 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Hay tanto que se puede hacer con [formularios](http://docs.marketo.com/display/docs/forms).
+>Hay tanto que puede hacer con [formularios](http://docs.marketo.com/display/docs/forms).
 
