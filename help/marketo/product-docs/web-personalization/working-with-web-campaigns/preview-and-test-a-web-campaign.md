@@ -35,11 +35,11 @@ Este artículo muestra diferentes formas de previsualización de una campaña we
 
    >[!NOTE]
    >
-   >También tiene la opción de instalar un complemento de navegador ( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia de vista previa de la campaña. Consulte la sección siguiente.
+   >También tiene la opción de instalar un complemento de explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia de vista previa de la campaña. Consulte la sección siguiente.
 
 ## Previsualización de una Campaña Web en la página de creación mediante el complemento del explorador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Siga los pasos 1 y 2 desde la `section above`.
+1. Siga los pasos 1 y 2 desde `section above`.
 1. Haga clic en el vínculo al complemento del navegador (en este caso, estamos utilizando Chrome).
 
    ![](assets/4-1.png)
@@ -60,15 +60,15 @@ Este artículo muestra diferentes formas de previsualización de una campaña we
 
    ![](assets/campaign-preview.png)
 
-## Previsualización de una Campaña Web en la página Campañas Web {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Previsualización de una Campaña Web en la página de Campañas Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Al consultar la lista de campañas web, simplemente elija una campaña y haga clic en el icono de **Previsualización** .
+1. Mientras observa la lista de sus campañas web, simplemente elija una campaña y haga clic en el icono **Previsualización**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
    ¡Fácil!
 
-## Previsualización de una Campaña Web en el sitio Web {#preview-a-web-campaign-on-your-website}
+## Previsualización de una Campaña Web en su sitio Web {#preview-a-web-campaign-on-your-website}
 
 Cree un segmento de simulación de pruebas y una campaña.
 
