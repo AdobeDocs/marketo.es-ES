@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ¿Desea cambiar la configuración regional de usuario para ver solo los datos de su región específica?
 
-1. Vaya a Configuración **de usuario**.
+1. Vaya a **Configuración de usuario**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
