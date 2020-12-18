@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creación de un analizador de Programas {#create-a-program-analyzer}
+# Crear un analizador de Programas {#create-a-program-analyzer}
 
 Descubrir qué programas y canales le están dando el mayor impulso a su inversión en mercadotecnia. Utilice el analizador de programas para examinar y comparar todos los costes y volver en detalle, por programa o por canal.
 
@@ -19,11 +19,11 @@ Descubrir qué programas y canales le están dando el mayor impulso a su inversi
 >
 >**Recordatorio**
 >
->Para obtener buenos datos de un analizador de programa, asegúrese de que los contactos de CRM tienen funciones en las oportunidades y de que los programas de marketing están completamente configurados, con los costes [de](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)período, los estados de programa y el éxito definidos.
+>Para obtener buenos datos de un analizador de programa, asegúrese de que los contactos de CRM tengan funciones en las oportunidades y de que los programas de Marketing Cloud estén completamente configurados, con [costos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), estados de programa y definición de éxito.
 
 >[!TIP]
 >
->Para que los programas sin costo aparezcan en el analizador de programas, [establezca el costo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) del período en $0.
+>Para que aparezcan programas sin costo en el analizador de programas, [establezca su costo de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) en $0.
 
 1. Haga clic en el mosaico de Analytics.
 
@@ -51,7 +51,7 @@ Descubrir qué programas y canales le están dando el mayor impulso a su inversi
 
    >[!TIP]
    >
-   >Para seleccionar un rango específico, seleccione **Personalizado** y utilice los campos **Desde** y **Hasta** .
+   >Para seleccionar un intervalo específico, seleccione **Personalizado** y utilice los campos **De** y **A**.
 
 1. Si desea guardar el nuevo analizador personalizado, en la lista desplegable Acciones del analizador, seleccione Guardar como.
 
@@ -75,8 +75,8 @@ Descubrir qué programas y canales le están dando el mayor impulso a su inversi
 
 >[!NOTE]
 >
->Muchas de las métricas que puede elegir en el analizador de programa están disponibles con cálculos de primer toque (FT) y de varios toques (MT). Es importante comprender la [diferencia entre la atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)de FT y MT.
+>Muchas de las métricas que puede elegir en el analizador de programa están disponibles con cálculos de primer toque (FT) y de varios toques (MT). Es importante comprender la [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!NOTE]
 >
->Obtenga más información en el Explorador [de Sistemas de informes](http://docs.marketo.com/display/docs/basic+reporting) y ciclos de [ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics)básicos.
+>Obtenga más información en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) y [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
