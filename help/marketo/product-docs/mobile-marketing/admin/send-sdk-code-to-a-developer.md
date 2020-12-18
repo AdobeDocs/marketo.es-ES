@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Envío del código SDK a un desarrollador {#send-sdk-code-to-a-developer}
+# Enviar código SDK a un desarrollador {#send-sdk-code-to-a-developer}
 
 Para poder crear mensajes en la aplicación o notificaciones push, el desarrollador debe configurar e inicializar el SDK de la aplicación móvil para las plataformas Android e iOS.
 
 * [Instrucciones para Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [Instrucciones para iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## Envío del código SDK a un desarrollador {#send-sdk-code-to-a-developer-1}
+## Enviar código SDK a un desarrollador {#send-sdk-code-to-a-developer-1}
 
 A veces, un administrador debe enviar algún código SDK a un desarrollador.
 
@@ -38,7 +38,7 @@ Así es como lo haces.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Haga clic en Acciones **de aplicación** móvil y seleccione **Enviar a desarrollador**.
+1. Haga clic en **Acciones de aplicaciones móviles** y seleccione **Enviar al desarrollador**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
