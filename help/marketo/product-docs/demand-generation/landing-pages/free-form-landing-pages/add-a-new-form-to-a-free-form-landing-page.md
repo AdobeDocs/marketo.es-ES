@@ -28,7 +28,7 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Busque la página de aterrizaje y haga clic en **Editar** **borrador**.
+1. Busque su página de aterrizaje y haga clic en **Editar** **Borrador**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -59,4 +59,4 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
    ¡Bien hecho!
 
-Basta con cerrar el editor de páginas de aterrizaje y [aprobar el borrador](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)de página de aterrizaje.
+Basta con cerrar el editor de páginas de aterrizaje y [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
