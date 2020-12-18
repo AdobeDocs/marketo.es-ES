@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Crear una nueva Campaña web en la zona {#create-a-new-in-zone-web-campaign}
+# Crear una nueva Campaña Web en la zona {#create-a-new-in-zone-web-campaign}
 
-Una campaña web es una reacción personalizada asociada a un segmento específico y puede ser un cuadro [de](create-a-new-dialog-web-campaign.md) diálogo en su sitio web, un reemplazo de zona, una función [de](create-a-new-widget-web-campaign.md) utilidad o una alerta por correo electrónico. Una campaña web en la zona sustituye un elemento del sitio web basado en la identificación de la zona por contenido o pancartas gráficas.
+Una campaña Web es una reacción personalizada asociada a un segmento específico y puede ser un [cuadro de diálogo](create-a-new-dialog-web-campaign.md) en su sitio Web, un reemplazo de zona, una [función de utilidad](create-a-new-widget-web-campaign.md) o una alerta por correo electrónico. Una campaña web en la zona sustituye un elemento del sitio web basado en la identificación de la zona por contenido o pancartas gráficas.
 
-## Creación de una Campaña web en la zona {#create-an-in-zone-web-campaign}
+## Crear una Campaña Web en la zona {#create-an-in-zone-web-campaign}
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
@@ -25,7 +25,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Seleccione el tipo de campaña **En zona** . Personalice y agregue una identificación **de zona.** Establezca la campaña en **Fijo** y agregue su elemento creativo al editor. Añada la dirección URL de la página en previsualización y haga clic en **Previsualización** para ver cómo reaccionará la campaña en el sitio.
+1. Seleccione el tipo de campaña **En zona**. Personalice y agregue un **Id. de zona.** Configure la campaña en  **** Pegatina y agregue el elemento creativo al editor. Añada la dirección URL de la página en previsualización y haga clic en **Previsualización** para ver cómo reaccionará la campaña en el sitio.
 
    ![](assets/new-3-1.png)
 
@@ -40,7 +40,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
    >Un Id. de zona es donde desea que la campaña web &quot;En la zona&quot; esté ubicada en el sitio. Para encontrar un &quot;Id. de zona&quot;, simplemente ingrese a su sitio web y seleccione el área que desee reemplazar con una campaña web y haga clic con el botón derecho. En Chrome, la opción es &quot;Elemento Inspect&quot;, y en otros exploradores puede variar.
    >
    >
-   >Luego, desea encontrar la &quot;identificación&quot; asociada con esta sección del sitio web, que se resalta porque está inspeccionando ese elemento. Por ejemplo, si una vez que hace clic con el botón secundario en Chrome, el texto resaltado indica `<div id="featured-slider">` , &quot;deslizador de funciones&quot; es lo que debe escribir en la sección &quot;id de zona&quot;. Generalmente se usa &quot;div id&quot;, pero también se puede usar cualquier ID, como h1 id, p id, etc.
+   >Luego, desea encontrar la &quot;identificación&quot; asociada con esta sección del sitio web, que se resalta porque está inspeccionando ese elemento. Por ejemplo, si una vez que hace clic con el botón derecho en Chrome, el texto resaltado indica `<div id="featured-slider">`, entonces &quot;deslizador de funciones&quot; es lo que debe escribir en la sección &quot;id de zona&quot;. Generalmente se usa &quot;div id&quot;, pero también se puede usar cualquier ID, como h1 id, p id, etc.
 
 <table> 
  <thead> 
@@ -85,21 +85,21 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!TIP]
 >
->Acelere y simplifique el proceso de creación de campañas mediante el uso de las plantillas [](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) integradas o [guardando la campaña](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) existente como plantilla para su reutilización.
+>Acelere y simplifique el proceso de creación de campañas mediante el uso de [plantillas integradas](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) o [guardando la campaña existente](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) como una plantilla para reutilizarla.
 
 >[!NOTE]
 >
->**¿Desea realizar una prueba A/B de sus campañas web?** Se puede probar una o varias campañas web [A/B para obtener resultados](ab-test-your-web-campaign.md)óptimos. Con la función de ajuste automático, la plataforma reconoce automáticamente las campañas de mejor rendimiento, continúa con las campañas de conversión más elevadas y pone en pausa las demás.
+>**¿Desea realizar una prueba A/B de sus campañas web?** Se puede probar una o varias campañas web  [A/B para obtener resultados](ab-test-your-web-campaign.md) óptimos. Con la función de ajuste automático, la plataforma reconoce automáticamente las campañas de mejor rendimiento, continúa con las campañas de conversión más elevadas y pone en pausa las demás.
 
 ## Editar una Campaña Web {#edit-a-web-campaign}
 
-En la página Campañas **** Web, haga clic en **Editar** en la Campaña.
+En la página **Campañas Web**, haga clic en **Editar** en la Campaña.
 
 ![](assets/in-zone-web-campaign-edit.png)
 
 >[!NOTE]
 >
->Para facilitar la búsqueda de la campaña deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+>Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
 
 ## Previsualización de una Campaña Web {#preview-a-web-campaign}
 
@@ -109,7 +109,7 @@ En la página Campañas **** Web, haga clic en **Editar** en la Campaña.
 
 ## Clonar una Campaña Web {#clone-a-web-campaign}
 
-Consulte [Clonar una Campaña](clone-a-web-campaign.md)Web.
+Consulte [Clonar una Campaña Web](clone-a-web-campaign.md).
 
 ## Eliminar una Campaña Web {#delete-a-web-campaign}
 
