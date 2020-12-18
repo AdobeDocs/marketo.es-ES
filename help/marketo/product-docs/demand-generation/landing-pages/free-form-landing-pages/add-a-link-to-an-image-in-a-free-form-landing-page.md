@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/click-on-image.png)
 
-1. Expanda la **hoja** de propiedades.
+1. Expanda la **hoja de propiedades**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
