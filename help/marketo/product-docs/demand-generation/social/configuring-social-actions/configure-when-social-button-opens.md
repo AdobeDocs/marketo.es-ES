@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configurar al abrir el botón Social {#configure-when-social-button-opens}
+# Configurar cuando se abra el botón Social {#configure-when-social-button-opens}
 
-Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)social, puede configurar cuándo el botón presenta el mensaje para compartir.
+Al crear un [botón social](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), puede configurar cuándo el botón presenta el mensaje para compartir.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma-3.png)
 
@@ -23,7 +23,7 @@ Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/f
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
-1. En el editor de aplicaciones sociales, vaya a Configuración **de** aplicación > Opciones **avanzadas.**
+1. En el editor de aplicaciones sociales, vaya a **Configuración de aplicación** > **Opciones avanzadas.**
 
    ![](assets/image2014-9-22-16-3a36-3a6.png)
 
@@ -31,14 +31,14 @@ Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/f
 
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
-   * **Al hacer clic:** Cuando una persona hace clic en el botón social.
-   * **Al cargar la página:** Tan pronto como se cargue la página de aterrizaje que contiene el botón social en el explorador de una persona.
-   * **Al pasar el ratón:** Cuando una persona pasa el ratón sobre el botón social.
+   * **Al hacer clic:** cuando una persona hace clic en el botón social.
+   * **Al cargar la página:** tan pronto como la página de aterrizaje que contiene el botón social se carga en el explorador de una persona.
+   * **Al pasar el ratón:** cuando una persona pasa el ratón sobre el botón social.
 
    >[!NOTE]
    >
    >**Artículos relacionados**
    >
    >
-   >Una vez que la persona haya compartido, puede solicitar su dirección de correo electrónico o presentar un mensaje de confirmación. Obtenga información sobre cómo [configurar las indicaciones](configure-after-share-prompts.md)posteriores al uso compartido.
+   >Una vez que la persona haya compartido, puede solicitar su dirección de correo electrónico o presentar un mensaje de confirmación. Obtenga información sobre cómo [configurar los mensajes posteriores al uso compartido](configure-after-share-prompts.md).
 
