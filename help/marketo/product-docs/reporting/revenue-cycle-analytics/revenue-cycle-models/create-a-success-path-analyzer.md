@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Creación de un analizador de rutas de éxito {#create-a-success-path-analyzer}
+# Crear un analizador de rutas de éxito {#create-a-success-path-analyzer}
 
-Obtenga una representación visual de la velocidad y el flujo a través del modelo [de ciclo de](http://docs.marketo.com/display/docs/revenue+cycle+analytics)ingresos.
+Obtenga una representación visual de la velocidad y el flujo a través del [Modelo de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ Obtenga una representación visual de la velocidad y el flujo a través del mode
 
    >[!NOTE]
    >
-   >Si recibe una advertencia de que no se encontraron datos en el intervalo de tiempo especificado, haga clic en **Cerrar** para cambiar el intervalo de tiempo. Si no se le solicita, pero desea cambiar el intervalo de tiempo, vaya a **Configuración** y haga clic con el botón de doble** ****Intervalo** de tiempo.
+   >Si recibe una advertencia de que no se encontraron datos en el intervalo de tiempo especificado, haga clic en **Cerrar** para cambiar el intervalo de tiempo. Si no se le solicita, pero desea cambiar el intervalo de tiempo, vaya a **Configuración** y haga clic con el botón doble** ****Intervalo de tiempo**.
 
 1. Si no tiene datos o está cambiando el intervalo de tiempo, seleccione uno en la lista desplegable y haga clic en Guardar.
 
@@ -37,7 +37,7 @@ Obtenga una representación visual de la velocidad y el flujo a través del mode
 
    >[!TIP]
    >
-   >Para seleccionar un rango específico, seleccione **Personalizado** y utilice los campos **Desde** y **Hasta** .
+   >Para seleccionar un intervalo específico, seleccione **Personalizado** y utilice los campos **De** y **A**.
 
 1. Si tiene más de un modelo de ciclo de ingresos, seleccione el que desee en la ficha Configuración.
 
@@ -55,7 +55,7 @@ Ahora puede explorar el movimiento de cada etapa al siguiente.
 
 >[!TIP]
 >
->¿Desea guardar el informe? Haga clic en la lista desplegable Acciones **del** analizador y seleccione **Guardar como**.
+>¿Desea guardar el informe? Haga clic en la lista desplegable **Acciones del analizador** y seleccione **Guardar como**.
 
 >[!NOTE]
 >
