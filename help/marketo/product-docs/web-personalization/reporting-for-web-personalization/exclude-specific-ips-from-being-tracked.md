@@ -21,15 +21,15 @@ Puede excluir direcciones IP individuales y todas o parte de un rango de direcci
 >
 >Este proceso puede tardar hasta cinco minutos en completarse.
 
-1. Inicie sesión en Personalización web y, en su inicio de sesión, haga clic en Configuración **de cuenta**.
+1. Inicie sesión en Personalización web y, bajo su inicio de sesión, haga clic en **Configuración de cuenta**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Desplácese hacia abajo hasta el área de exclusión **** IP. Si está excluyendo direcciones IP por primera vez, haga clic en el campo **Excluir direcciones** IP vacío.
+1. Desplácese hacia abajo hasta el área **IP exclude**. Si está excluyendo las direcciones IP por primera vez, haga clic en el campo vacío **Excluir direcciones IP**.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Introduzca las direcciones IP individuales o los intervalos de direcciones IP que desea excluir del seguimiento y el sistema de informes y haga clic en **Guardar**.
+1. Escriba las direcciones IP individuales o los intervalos de direcciones IP que desee excluir del seguimiento y el sistema de informes y haga clic en **Guardar**.
 
    ![](assets/exclude-ips-form-hands.png)
 
