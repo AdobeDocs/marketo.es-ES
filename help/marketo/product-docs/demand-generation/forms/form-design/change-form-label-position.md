@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Cambiar posición de etiqueta de formulario {#change-form-label-position}
 
-Al [crear un formulario](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), puede cambiar la posición de las etiquetas de los campos de formulario con mucha facilidad. Así es como.
+Cuando [crea un formulario](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), puede cambiar la posición de las etiquetas de campo del formulario con mucha facilidad. Así es como.
 
 1. Vaya a **Marketing** **Actividades**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Al [crear un formulario](../../../../product-docs/demand-generation/forms/creati
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Seleccione la **etiqueta** **Posición** que desee.
+1. Seleccione la **Etiqueta** **Posición** que desee.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
