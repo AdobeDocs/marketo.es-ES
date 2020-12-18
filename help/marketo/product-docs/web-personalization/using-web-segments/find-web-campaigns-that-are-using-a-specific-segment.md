@@ -18,7 +18,7 @@ ht-degree: 0%
 1. Vaya a **Segmentos**.\
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Busque un **segmento**. Seleccione el nombre **del segmento**. En el panel derecho, haga clic en Campañas **** asociadas para realizar la vista de las campañas asociadas a este segmento específico.\
+1. Busque un **segmento**. Seleccione el **Nombre del segmento**. En el panel derecho, haga clic en **Campañas asociadas** para vista de las campañas asociadas a este segmento específico.\
    ![](assets/image2014-11-26-14-21-59.png)
 
 1. Vista las **Campañas** asociadas al segmento seleccionado.\
@@ -28,5 +28,5 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre [los segmentos](web-segments.md) y cómo [crear un segmento](create-a-basic-web-segment.md)básico.
+>Obtenga más información sobre [segmentos](web-segments.md) y cómo [crear un segmento básico](create-a-basic-web-segment.md).
 
