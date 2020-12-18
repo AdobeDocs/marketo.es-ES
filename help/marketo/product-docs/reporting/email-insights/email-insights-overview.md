@@ -29,19 +29,19 @@ Utilice [Analytics](email-insights-analytics-overview.md) para explorar los dato
 
 **Filtros **
 
-Se utilizan [filtros](filtering-in-email-insights.md) avanzados para desglosar los resultados por Audiencia, contenido o plataforma. Los mismos filtros se aplican tanto a Analytics como a Envíos.
+Se utilizan [filtros](filtering-in-email-insights.md) avanzados para desglosar los resultados por Audiencia, Contenido o Plataforma. Los mismos filtros se aplican tanto a Analytics como a Envíos.
 
 ![](assets/filter.png)
 
 **Gráficos rápidos**
 
-[Los gráficos](email-insights-quick-charts.md) rápidos son miniaturas que se crean y guardan, lo que proporciona una vista rápida de los gráficos que son importantes para usted.
+[Las miniaturas de ](email-insights-quick-charts.md) gráficos rápidos se crean y guardan, lo que proporciona una vista rápida de los gráficos que son importantes para usted.
 
 ![](assets/three.png)
 
 ## Envía {#sends}
 
-En la página [Envíos](email-insights-sends-overview.md) , examine las características de la comunicación por correo electrónico reciente.
+En la página [Envíos](email-insights-sends-overview.md), examine las características de la comunicación por correo electrónico reciente.
 
 ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Haga clic en las barras Métricas para traducir los colores en números.
 
 ## Dimension personalizados {#custom-dimensions}
 
-Se incluyen todas las dimensiones estándar de marketing, pero puede agregar hasta 10 dimensiones personalizadas. [Las dimensiones](custom-dimensions-for-email-insights.md) personalizadas consisten en segmentaciones y etiquetas de programa.
+Se incluyen todas las dimensiones estándar de marketing, pero puede agregar hasta 10 dimensiones personalizadas. [Las ](custom-dimensions-for-email-insights.md) dimensiones personalizadas constan de segmentaciones y etiquetas de programa.
 
 >[!MORELIKETHIS]
 >
