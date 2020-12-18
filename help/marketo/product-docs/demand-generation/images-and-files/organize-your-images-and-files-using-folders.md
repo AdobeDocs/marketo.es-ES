@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La creación de carpetas le permite mover imágenes y archivos, ver el conjunto de imágenes que desea y cargar directamente en una carpeta específica.
 
-1. Vaya a **Design** **Studio**.
+1. Vaya al **Diseño** **Estudio**.
 
    ![](assets/designstudio-7.png)
 
