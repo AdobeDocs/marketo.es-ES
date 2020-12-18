@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Existen dos formas de cambiar el tamaño tanto del ancho de la etiqueta del campo como del ancho del campo.
 
-## Arrastrar y soltar la anchura {#drag-and-drop-the-width}
+## Arrastre y suelte la anchura {#drag-and-drop-the-width}
 
-1. En el editor [de](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)formularios, seleccione el campo cuyo tamaño desee cambiar.
+1. En el [editor de formularios](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleccione el campo cuyo tamaño desee cambiar.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -25,7 +25,7 @@ Existen dos formas de cambiar el tamaño tanto del ancho de la etiqueta del camp
 
    ![](assets/image2014-9-15-15-3a24-3a14.png)
 
-## Introduzca la anchura manualmente {#enter-the-width-manually}
+## Escriba la anchura manualmente {#enter-the-width-manually}
 
 1. Seleccione el campo cuyo tamaño desee cambiar.
 
