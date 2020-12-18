@@ -29,11 +29,11 @@ Para poder crear y enviar mensajes en la aplicación para su aplicación móvil,
 
 ## Paso 1: Administradores y programadores realizan configuraciones iniciales {#step-admin-and-developer-perform-initial-setups}
 
-El administrador de marketing y el desarrollador de aplicaciones móviles trabajan juntos para configurarlo. Consulte [Antes de crear notificaciones push y mensajes](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) en la aplicación para obtener más información.
+El administrador de marketing y el desarrollador de aplicaciones móviles trabajan juntos para configurarlo. Consulte [Antes de crear notificaciones push y mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) para obtener más información.
 
 ## Paso 2: Crear un mensaje en la aplicación {#step-create-an-in-app-message}
 
-Puede [crear un mensaje](http://docs.marketo.com/display/docs/create+an+in-app+message) en la aplicación con el editor en línea.
+Puede [crear un mensaje en la aplicación](http://docs.marketo.com/display/docs/create+an+in-app+message) con el editor en línea.
 
 ## Paso 3: ¡Enviar! {#step-send}
 
