@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ¿Cambiar de opinión? No es un problema. Es fácil cambiar el nombre de una etapa en el modelador de ciclo de ingresos.
 
-1. Vaya al área **Análisis** .
+1. Vaya al área **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Seleccione la etapa que desee actualizar e introduzca un nuevo **nombre**.
+1. Seleccione la etapa que desee actualizar e introduzca un nuevo **Nombre**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
    Haga clic en Cerrar.
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   ¿Ven? ¡Fácil! Recuerde [aprobar el modelo](approve-unapprove-a-revenue-model.md).
+   ¿Ven? ¡Fácil! Recuerde [Aprobar el modelo](approve-unapprove-a-revenue-model.md).
 
