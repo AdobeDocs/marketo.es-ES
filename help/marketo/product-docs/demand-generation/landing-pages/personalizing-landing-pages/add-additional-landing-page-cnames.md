@@ -21,7 +21,7 @@ Puede que desee agregar CNAME de página de aterrizaje para permitir que distint
 
 >[!TIP]
 >
->**El mismo dominio de nivel superior - ¡Bien! Las cookies son shared.go**.mycompany.com > **info**.mycompany.**comDominios de nivel superior diferentes - ¡Malos! Las cookies no se comparten.**
+>**El mismo dominio de nivel superior - ¡Bien! Las cookies son compartidas.go**.miempresa.com > **información**.miempresa.com **Dominios de nivel superior diferentes - Malos! Las cookies no se comparten.**
 >vaya.**miempresa**.com > ir.**mynewcompany**.com
 
 >[!NOTE]
@@ -34,17 +34,17 @@ Puede que desee agregar CNAME de página de aterrizaje para permitir que distint
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Copie la cadena **de** cuenta de la sección **Configuración** .
+1. Copie la **Cadena de cuenta** de la sección **Configuración**.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
 1. Anote esto para el paso siguiente.
 
-## Enviar solicitud al departamento de TI {#send-request-to-it}
+## Enviar solicitud a TI {#send-request-to-it}
 
-1. Pida a su departamento de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] por el CNAME de su elección y [ACCOUNT STRING] por el texto del paso anterior).
+1. Pida a su departamento de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] por el CNAME de su elección y [CADENA DE CUENTA] por el texto del paso anterior).
 
-   [CNAME].YourCompany.com > [CADENA]DE CUENTA.mktoweb.com
+   [CNAME].YourCompany.com >  [CADENA] DE CUENTA.mktoweb.com
 
 ## Añadir un nuevo CNAME {#add-a-new-cname}
 
@@ -52,11 +52,11 @@ Puede que desee agregar CNAME de página de aterrizaje para permitir que distint
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Haga clic en **Nuevo** y, a continuación, seleccione **Nuevo alias** de dominio.
+1. Haga clic en **Nuevo** y seleccione **Nuevo alias de dominio**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Introduzca el alias **de dominio.** La página **** predeterminada se muestra si el visitante no incluye una dirección URL. Ingrese adónde deben ir en ese caso.
+1. Escriba el alias de **dominio.** La  **página** predeterminada se muestra si el visitante no incluye una dirección URL. Ingrese adónde deben ir en ese caso.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Puede que desee agregar CNAME de página de aterrizaje para permitir que distint
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Introduzca la página **** predeterminada y haga clic en **Crear**.
+1. Escriba la **Página predeterminada** y haga clic en **Crear**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
