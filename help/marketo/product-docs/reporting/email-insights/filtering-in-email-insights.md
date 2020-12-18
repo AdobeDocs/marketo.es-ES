@@ -61,9 +61,9 @@ Elija entre intervalos de fechas preestablecidos comunes, seleccione fechas espe
 >
 >Los intervalos de fechas se aplican tanto a la página de Analytics como a la página de envíos. Sin embargo, la opción **Comparar** solo se aplica a la página Análisis.
 
-## Mercadotecnia basada en cuenta {#account-based-marketing}
+## Marketing basado en cuentas {#account-based-marketing}
 
-Si utiliza la mercadotecnia [basada en](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)cuentas, existen filtros específicos para usted.
+Si utiliza [Marketing basado en cuentas](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), existen filtros específicos para usted.
 
 ![](assets/abm.png)
 
