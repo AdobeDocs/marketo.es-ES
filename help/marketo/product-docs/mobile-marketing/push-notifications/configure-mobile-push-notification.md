@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurar notificaciones push móviles {#configure-mobile-push-notification}
+# Configurar la notificación push móvil {#configure-mobile-push-notification}
 
 1. Vaya al área Actividades de marketing.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Escriba el texto del mensaje o seleccione el icono del token para agregar tokens. A continuación, seleccione una **acción** de toque.
+1. Escriba el texto del mensaje o seleccione el icono del token para agregar tokens. A continuación, seleccione una **Acción de toque**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >Existen tres tipos de acciones de toque***:**
    >
    >
-   >**Iniciar aplicación** : **Esta aplicación** abre la página de inicio de la aplicación cuando se toca la notificación. **Personalizado** utiliza un vínculo profundo para abrir otras áreas de la aplicación o cualquier otra aplicación a la que tenga el vínculo (consulte URI [de vínculo](#Deeplink) profundo más abajo para obtener más detalles).
+   >**Iniciar aplicación** :  **esto** sustituye la página de inicio de la aplicación cuando se toca la notificación. **Los** clientes utilizan un vínculo profundo para abrir otras áreas de la aplicación o cualquier otra aplicación a la que tenga el vínculo (consulte  [URI de vínculo profundo ](#Deeplink) más abajo para obtener más detalles).
    >
    >
    >**página de aterrizaje** : lo lleva a una página de aterrizaje de marketing especificada.
    >
    >
-   >**Dirección URL** externa: lo lleva a una página de aterrizaje que no es de marketing.
+   >**Dirección URL**  externa: lo lleva a una página de aterrizaje que no es de marketing.
 
-   Para insertar un vínculo profundo para una acción de toque personalizada, haga clic en Personalizado e introduzca el URI [de vínculo](#Deeplink) profundo en el campo.
+   Para insertar un vínculo profundo para una acción de toque personalizada, haga clic en Personalizado e introduzca el [URI de vínculo profundo](#Deeplink) en el campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 ¡Felicitaciones! Ahora la notificación push está lista para enviarse.
 
-## URI de vínculos profundos {#deep-link-uris}
+## URI de vínculo profundo {#deep-link-uris}
 
 Cuando los suscriptores hacen clic en un botón de un mensaje push, puede llevarlo a la página de inicio de la aplicación o directamente a una página específica de la aplicación. Un vínculo profundo es una referencia única a una página específica de la aplicación y se parece mucho al vínculo de un sitio web.
 
