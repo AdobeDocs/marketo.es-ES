@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Clonación de un modelo de ingresos de ejemplo de marketing {#cloning-a-marketo-example-revenue-model}
+# Clonar un modelo de ingresos de ejemplo de marketing {#cloning-a-marketo-example-revenue-model}
 
 Marketo tiene ejemplos de modeladores de ingresos para ayudarle a inspirarle. Clona estos modelos y hazlos suyos. Así es como:
 
-1. Vaya al área **Análisis** .
+1. Vaya al área **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Seleccione la carpeta **Revenue Cycle Modeler **y haga clic en Ejemplos **de marketing**.
+1. Seleccione la carpeta **Revenue Cycle Modeler **y haga clic en **Ejemplos de marketing**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
