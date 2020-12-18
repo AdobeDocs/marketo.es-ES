@@ -21,11 +21,11 @@ Todos los leads y cuentas conocidos residen inicialmente en la etapa de inventar
 
 ## Añadir Una Etapa De Inventario {#add-an-inventory-stage}
 
-1. Para agregar una nueva etapa de inventario del modelo de ciclo de ingresos, haga clic en el botón **Análisis** en la pantalla de inicio **Mi marketing** .
+1. Para agregar una nueva etapa de inventario del modelo de ciclo de ingresos, haga clic en el botón **Análisis** en la pantalla de inicio **Mi marketing**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. En la sección **Análisis** , seleccione el modelo existente o [cree uno](create-a-new-revenue-model.md)nuevo.
+1. En la sección **Analytics**, seleccione el modelo existente o [cree uno nuevo](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -33,17 +33,17 @@ Todos los leads y cuentas conocidos residen inicialmente en la etapa de inventar
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para agregar una nueva etapa de inventario, haga clic en el botón **Inventario** y, a continuación, arrastre y suelte en cualquier lugar dentro del lienzo.
+1. Para agregar una nueva etapa de inventario, haga clic en el botón **Inventario** y luego arrastre y suelte en cualquier lugar dentro del lienzo.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Puede editar el nombre, agregar una descripción y ajustar el tipo después de agregar un escenario. También puede seleccionar ** Seguimiento de [Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
+1. Puede editar el nombre, agregar una descripción y ajustar el tipo después de agregar un escenario. También puede seleccionar ** [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Editar una etapa de inventario {#edit-an-inventory-stage}
 
-Al seleccionar un icono de inventario, puede editar el **nombre**, agregar una **descripción** o ajustar el **tipo**. También puede seleccionar Seguimiento de [Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md).
+Al seleccionar un icono de inventario, puede editar el **Nombre**, agregar una **Descripción** o ajustar el **Tipo**. También puede seleccionar [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Haga clic en un icono de inventario.
 
@@ -53,7 +53,7 @@ Al seleccionar un icono de inventario, puede editar el **nombre**, agregar una *
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Seleccione el menú desplegable **Tipo** que desea editar.
+1. Seleccione el menú desplegable **Tipo** para editar.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Al seleccionar un icono de inventario, puede editar el **nombre**, agregar una *
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. También puede eliminar un escenario haciendo clic en él y, a continuación, en la lista desplegable Acciones **de la** etapa, seleccione **Eliminar**.
+1. También puede eliminar una etapa haciendo clic en ella y, en la lista desplegable **Acciones de la etapa**, seleccione **Eliminar**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
