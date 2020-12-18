@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar recursos en informes de correo electrónico de Campaña {#filter-assets-in-a-campaign-email-reports}
 
-Centre el informe Rendimiento [del correo electrónico de la](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) Campaña en campañas [](http://docs.marketo.com/display/docs/smart+campaigns) inteligentes específicas de sus programas (&#39;recursos locales&#39;) o en las que se han archivado.
+Centre el informe [Rendimiento del correo electrónico de la Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) en campañas [inteligentes](http://docs.marketo.com/display/docs/smart+campaigns) específicas de sus programas (&#39;activos locales&#39;) o en las que se han archivado.
 
-1. Vaya al área **Análisis ** (o Actividades **** de marketing).
+1. Vaya al área **Analytics **(o **Actividades de marketing**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,7 +23,7 @@ Centre el informe Rendimiento [del correo electrónico de la](../../../../produc
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre un filtro.
+1. Haga clic en la ficha **Configuración** y arrastre sobre un filtro.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -57,5 +57,5 @@ Centre el informe Rendimiento [del correo electrónico de la](../../../../produc
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
