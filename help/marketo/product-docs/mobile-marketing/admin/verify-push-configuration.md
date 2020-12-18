@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verificar configuración push {#verify-push-configuration}
+# Verificar la configuración push {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Compruebe la configuración push para asegurarse de que todo se sincroniza corre
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Seleccione Aplicaciones **móviles**.
+1. Seleccione **Aplicaciones móviles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -37,7 +37,7 @@ Compruebe la configuración push para asegurarse de que todo se sincroniza corre
 
    Confirme que las plataformas que desee lean están verificadas y haga clic en CERRAR.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   ¡Todo listo! Ahora puede enviar inicios push ![(sonrisa)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)   ¡Todo listo! Ahora puede enviar inicios de notificaciones push ![(sonrisa)](assets/smile.svg)
 
 >[!NOTE]
 >
