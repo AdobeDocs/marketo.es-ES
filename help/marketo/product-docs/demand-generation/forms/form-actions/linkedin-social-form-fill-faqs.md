@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Preguntas más frecuentes sobre LinkedIn Social Form Fill {#linkedin-social-form-fill-faqs}
+# Preguntas más frecuentes sobre el relleno de formularios sociales de LinkedIn {#linkedin-social-form-fill-faqs}
 
 La directiva de API revisada de LinkedIn requería que elimináramos LinkedIn Social Form Fill de nuestro producto.
 
-## Cosas importantes que debe saber {#important-things-to-know}
+## Aspectos importantes que debe saber {#important-things-to-know}
 
 * Los botones de relleno de formularios sociales de LinkedIn ya no son una opción para agregar a Marketing desde el 28 de abril de 2016
 
@@ -61,11 +61,11 @@ No, los formularios de los que hemos eliminado esta funcionalidad permanecieron 
 
 No, solo se eliminará el botón LinkedIn del formulario. Siempre que se aplique Relleno de formulario social a un formulario, se creará un contenedor encima que contendrá los botones Rellenar formulario social. Antes del 28 de abril de 2016, si LinkedIn era la única opción, el aspecto del contenedor se parecía a esta imagen:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Después del 28 de abril de 2016, queda un contenedor vacío en la parte superior de cualquier formulario en el que se ha eliminado el relleno de formulario social de LinkedIn:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
