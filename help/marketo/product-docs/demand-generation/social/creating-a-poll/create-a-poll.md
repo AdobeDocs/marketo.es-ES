@@ -23,13 +23,13 @@ Atraer a la gente con una encuesta en la que pueden votar y compartir con sus am
 
 >[!PREREQUISITES]
 >
->Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de marketing antes de empezar. Añada una imagen de 60 x 60 píxeles para cada entrada de encuesta. Consulte [Añadir imágenes y archivos en el marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de marketing antes de empezar. Añada una imagen de 60 x 60 píxeles para cada entrada de encuesta. Consulte [Añadir imágenes y archivos a Marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Dentro del programa, seleccione **Nuevo** > **Nuevo recurso local.**
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. En la Galería de recursos **locales,** haga clic en **Encuesta.**
+1. En la **Galería de recursos local,** haga clic en **Encuesta.**
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -39,7 +39,7 @@ Atraer a la gente con una encuesta en la que pueden votar y compartir con sus am
 
    >[!TIP]
    >
-   >Para ahorrar tiempo, puede utilizar la opción **Clonar desde** para copiar toda la configuración de un recurso compartido de vídeo existente.
+   >Para ahorrar tiempo, puede utilizar la opción **Clonar de** para copiar toda la configuración de un recurso compartido de vídeo existente.
 
 1. Proporcione un titular a la encuesta (generalmente una pregunta corta).
 
@@ -65,7 +65,7 @@ Atraer a la gente con una encuesta en la que pueden votar y compartir con sus am
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Haga clic en **Aprobar** y **cerrar.**
+1. Haga clic en **Aprobar** y **Cerrar.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -73,7 +73,7 @@ El editor de encuestas se abre en una ventana nueva. La configuración predeterm
 
 >[!TIP]
 >
->Para cambiar cualquiera de los valores predeterminados de la encuesta, haga clic en **Atrás**. Para guardar el trabajo más tarde sin aprobarlo, haga clic en **Cerrar**.
+>Para cambiar cualquiera de los valores predeterminados de la encuesta, haga clic en **Atrás**. Para guardar el trabajo para después sin aprobarlo, haga clic en **Cerrar**.
 
 Si hay algún problema en la encuesta, se le pedirá que lo aborde antes de que se apruebe la encuesta. ¡Felicitaciones! Ha creado la encuesta.
 
@@ -81,5 +81,5 @@ Si hay algún problema en la encuesta, se le pedirá que lo aborde antes de que 
 >
 >**Artículos relacionados**
 >
->El siguiente paso es [publicar la encuesta](publish-a-poll.md), pero puede cambiar la configuración de la encuesta si es necesario. Inicio con [personalizar la configuración](customize-poll-settings.md)de la encuesta.
+>El paso siguiente es [publicar la encuesta](publish-a-poll.md), pero puede cambiar la configuración de la encuesta si es necesario. Inicio con [personalización de la configuración de la encuesta](customize-poll-settings.md).
 
