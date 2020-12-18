@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar un informe de rendimiento de Página de aterrizaje {#filter-a-landing-page-performance-report}
 
-Centre el informe [de rendimiento de la](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) página de aterrizaje en páginas de aterrizaje de los programas (recursos locales), en los de Design Studio (recursos globales) o en los archivados.
+Centre su [informe de rendimiento de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) en páginas de aterrizaje de sus programas (recursos locales), en las de Design Studio (recursos globales) o en las que se han archivado.
 
-1. Vaya a **Analytics** (o Actividades **de marketing**).
+1. Vaya a **Analytics** (o **Actividades de marketing**).
 
    ![](assets/analyticstile.png)
 
@@ -27,9 +27,9 @@ Centre el informe [de rendimiento de la](../../../../product-docs/demand-generat
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Páginas de aterrizaje de Design Studio:** Recursos globales, administrados en Design Studio.
-   * **Páginas de aterrizaje de Actividades de marketing:** Recursos locales en programas en la ficha Actividades de marketing.
-   * **Páginas de aterrizaje archivadas:** Páginas de aterrizaje retiradas inactivas.
+   * **Páginas de aterrizaje de Design Studio:recursos** globales, administrados en Design Studio.
+   * **Páginas de aterrizaje de Actividades de marketing:recursos** locales en programas en la ficha Actividades de marketing.
+   * **Páginas de aterrizaje archivadas: páginas de aterrizaje** inactivas y retiradas.
 
 1. Elija las carpetas y páginas de aterrizaje específicas que desee incluir en el informe.
 
@@ -47,5 +47,5 @@ Centre el informe [de rendimiento de la](../../../../product-docs/demand-generat
 >
 >**Buceo profundo**
 >
->Obtenga información sobre los informes en sistemas de informes [](http://docs.marketo.com/display/docs/basic+reporting)básicos.
+>Obtenga información sobre los informes en [sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
