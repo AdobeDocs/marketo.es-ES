@@ -24,11 +24,11 @@ Envíe una notificación push a las personas que utilicen su aplicación móvil.
 
 
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Seleccione la campaña inteligente y haga clic en Lista **** inteligente.
+1. Seleccione la campaña inteligente y haga clic en **Lista inteligente**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
