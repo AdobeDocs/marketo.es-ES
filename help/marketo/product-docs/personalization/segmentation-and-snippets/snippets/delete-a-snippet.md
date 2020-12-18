@@ -27,7 +27,7 @@ Elimine un fragmento que ya no necesite.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Vaya al fragmento y, a continuación, en Acciones **de** fragmento, haga clic en **Eliminar**.
+1. Vaya a su fragmento y, a continuación, en **Acciones de fragmento** haga clic en **Eliminar**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
