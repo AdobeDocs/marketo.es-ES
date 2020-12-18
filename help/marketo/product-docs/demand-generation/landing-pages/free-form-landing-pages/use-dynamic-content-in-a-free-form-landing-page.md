@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uso de contenido dinámico en una Página de aterrizaje de formato libre {#use-dynamic-content-in-a-free-form-landing-page}
+# Usar contenido dinámico en una Página de aterrizaje de formato libre {#use-dynamic-content-in-a-free-form-landing-page}
 
 El uso de contenido dinámico en Páginas de aterrizaje involucra a su audiencia con información de objetivo.
 
@@ -27,7 +27,7 @@ El uso de contenido dinámico en Páginas de aterrizaje involucra a su audiencia
 
 ## Añadir segmentación {#add-segmentation}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -51,13 +51,13 @@ El uso de contenido dinámico en Páginas de aterrizaje involucra a su audiencia
 >
 >Todos los elementos de página de aterrizaje son estáticos de forma predeterminada.
 
-## Convertir elementos en dinámicos {#make-element-dynamic}
+## Hacer dinámico el elemento {#make-element-dynamic}
 
-1. Arrastre y suelte los elementos de contenido dinámico desde debajo de **Estático** a **Dinámico.**
+1. Arrastre y suelte los elementos de contenido dinámico desde **Estático** a **Dinámico.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. También puede hacer que los elementos sean **estáticos** o **dinámicos** desde la **configuración del elemento.**
+1. También puede crear elementos **Estáticos** o **dinámicos** desde el elemento **Configuración.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
