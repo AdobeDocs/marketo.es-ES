@@ -11,42 +11,42 @@ ht-degree: 0%
 ---
 
 
-# Crear un Evento con el seminario web GotoWebinar {#create-an-event-with-gotowebinar}
+# Crear un Evento con GotoWebinar {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
 >
 >* [Añadir GoToWebinar como un servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las acciones de [flujo adecuadas para](http://docs.marketo.com/display/DOCS/Flow+Actions)realizar el seguimiento de la participación
+>* Configure las [acciones de flujo adecuadas](http://docs.marketo.com/display/DOCS/Flow+Actions)para rastrear la participación
 
 
 Primero cree su seminario web en GoToWebinar. Marketo utiliza ciertos ajustes en la creación de su GoToWebinar y algunos solo los utiliza GoToWebinar.
 
-Después de crear un evento de marketing y asociar el GoToWebinar con él, los sistemas podrán compartir la información de registro y asistencia. Para obtener ayuda sobre la creación de un seminario Web de GoToWebinar, consulte la Guía [del usuario de](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)GoToWebinar.
+Después de crear un evento de marketing y asociar el GoToWebinar con él, los sistemas podrán compartir la información de registro y asistencia. Para obtener ayuda para crear un seminario GoToWebinar, consulte la [Guía del usuario de GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
 
 A continuación se muestra una lista de la configuración utilizada por Marketing.
 
 ## Título y descripción {#title-and-description}
 
-**Nombre** del seminario web: introduzca el nombre del seminario web. Este nombre se podrá ver en Marketing.
+**Nombre**  del seminario web: introduzca el nombre del seminario web. Este nombre se podrá ver en Marketing.
 
-**Descripción** (opcional): introduzca la descripción del seminario web. La descripción será`visible en Marketing.
+**Descripción**  (opcional): introduzca la descripción del seminario web. La descripción será`visible en Marketing.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## Fecha y hora {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adaptador. Si realiza cambios en esta información, debe hacer clic en el vínculo &quot;**Actualizar desde proveedor** de seminario web&quot; en Acciones **de** Evento, para que Marketing pueda ver los cambios.
+`Enter the following information for your webinar and it will be pulled into Marketo via the`adaptador. Si realiza cambios en esta información, debe hacer clic en el vínculo &quot;**Actualizar desde el proveedor de seminario web**&quot; en **Acciones de Evento**, para que Marketing pueda ver los cambios.
 
-**Fecha** de inicio: introduzca la fecha de inicio. Esto se podrá ver en Marketing.
+**Fecha**  de inicio: introduzca la fecha de inicio. Esto se podrá ver en Marketing.
 
-**Hora** del inicio: introduzca la hora del inicio. Esto se podrá ver en Marketing.
+**Hora**  del inicio: introduzca la hora del inicio. Esto se podrá ver en Marketing.
 
-**Hora** de finalización: introduzca la hora de finalización. Esto se podrá ver en Marketing.
+**Hora**  de finalización: introduzca la hora de finalización. Esto se podrá ver en Marketing.
 
-**Huso horario** : seleccione el huso horario aplicable. Será visible en Marketing.
+**Huso horario** : seleccione el huso horario correspondiente. Será visible en Marketing.
 
-**Escriba -** definido en **Una sesión**.
+**Escriba -** establecido en  **Una sesión**.
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
@@ -56,19 +56,19 @@ A continuación se muestra una lista de la configuración utilizada por Marketin
 
 >[!TIP]
 >
->Hay campos adicionales que configurará en GoToWebinar que NO afectarán a la integración. Consulte la Guía [del usuario de](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) GoToWebinar para obtener información adicional sobre estos campos, ya que no se tratarán en este artículo. Si necesita ayuda adicional de GoToWebinar, visite su sitio [de ayuda](http://support.logmeininc.com/gotowebinar).
+>Hay campos adicionales que configurará en GoToWebinar que NO afectarán a la integración. Consulte la [Guía del usuario de GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) para obtener información adicional sobre estos campos, ya que no se tratarán en este artículo. Si necesita ayuda adicional de GoToWebinar, visite su [sitio de ayuda](http://support.logmeininc.com/gotowebinar).
 
 Ahora, ¡saltemos al mercado!
 
-1. Seleccione un evento. Haga clic en Acciones **de** Evento y elija Configuración **de Evento**.
+1. Seleccione un evento. Haga clic en **Acciones de Evento** y elija **Configuración de Evento**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
    >[!NOTE]
    >
-   >El tipo de canal del evento seleccionado debe ser **seminario** web.
+   >El tipo de canal del evento seleccionado debe ser **seminario web**.
 
-1. Elija **Ir a seminario** web en la Lista **Evento** **Partner** .
+1. Elija **GoToWebinar** en la Lista **Evento** **Socio**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -84,7 +84,7 @@ Ahora, ¡saltemos al mercado!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. ¡Excelente! Ahora el evento se sincroniza y programa mediante **GoToWebinar**.
+1. ¡Excelente! Ahora el evento está sincronizado y programado por **GoToWebinar**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -106,13 +106,13 @@ Ahora, ¡saltemos al mercado!
 
    >[!TIP]
    >
-   >Los datos pueden tardar hasta 48 horas en aparecer en Marketing. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar desde el proveedor** de seminario web en el menú Acciones de Evento de la ficha **Resumen** de su evento.
+   >Los datos pueden tardar hasta 48 horas en aparecer en Marketing. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar desde el proveedor de seminario web** en el menú Acciones de Evento de la ficha **Resumen** del evento.
 
 Las personas que se registren en el seminario web se enviarán a su proveedor de seminarios web a través del paso Cambiar el estado del Programa cuando el estado nuevo se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de que el paso 1 del flujo de cambio de estado de Programa y el paso 2 del flujo de envío de correo electrónico.
 
-## Visualización de la programación  {#viewing-the-schedule}
+## Visualización del programa {#viewing-the-schedule}
 
-En la vista [de](http://docs.marketo.com/display/docs/program+schedule+view)calandario del programa, haga clic en la entrada de calendario del evento. Puede ver la programación en el lado derecho de la pantalla.
+En la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view), haga clic en la entrada de calendario del evento. Puede ver la programación en el lado derecho de la pantalla.
 
 >[!NOTE]
 >
