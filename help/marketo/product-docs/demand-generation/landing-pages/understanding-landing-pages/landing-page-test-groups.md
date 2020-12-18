@@ -19,7 +19,7 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
 >
 >[Cree dos o más páginas de aterrizaje](../../../../getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
 
-1. En Design Studio, haga clic en **Nuevo**. En el menú desplegable, seleccione **Nuevo grupo** de pruebas.
+1. En Design Studio, haga clic en **Nuevo**. En el menú desplegable, seleccione **Nuevo grupo de pruebas**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -30,7 +30,7 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
    >    
    >    
    >    * Haga clic con el botón derecho en una página de aterrizaje del árbol y seleccione **Convertir en grupo de pruebas**
-   >    * Crear un grupo de prueba de Página de aterrizaje en un programa seleccionando Grupo **de prueba** A/B en el menú **Nuevo recurso** local
+   >    * Cree un grupo de prueba de Página de aterrizaje en un programa seleccionando **Grupo de prueba AB** en el menú **Nuevo recurso local**
 
 
 1. Escriba un nombre y una descripción opcional. Seleccione las Páginas de aterrizaje que desee probar y haga clic en **Crear**.
@@ -45,7 +45,7 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
 
    ![](assets/three-1.png)
 
-1. Haga clic en la lista desplegable Opciones **de grupo de** prueba y seleccione **Aprobar grupo** de prueba.
+1. Haga clic en la lista desplegable **Opciones de grupo de prueba** y seleccione **Aprobar grupo de prueba**.
 
    ![](assets/four-1.png)
 
@@ -55,5 +55,5 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
 
    >[!TIP]
    >
-   >Si alguna vez desea eliminar el grupo de prueba, haga clic en Acciones **del grupo** de prueba y seleccione **Eliminar grupo** de prueba.
+   >Si alguna vez desea eliminar el grupo de prueba, haga clic en **Acciones del grupo de prueba** y seleccione **Eliminar grupo de prueba**.
 
