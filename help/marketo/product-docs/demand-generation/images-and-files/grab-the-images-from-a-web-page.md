@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Para agregar imágenes de una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y siga estos sencillos pasos.
 
-1. Vaya a **Design** **Studio**.
+1. Vaya a **Diseño** **Estudio**.
 
    ![](assets/designstudio-2.png)
 
-1. Haga clic en **Nuevas** y **Capturar imágenes desde la Web**.
+1. Haga clic en **Nuevas** y **Tomar imágenes de la Web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Seleccione la carpeta **Imágenes y archivos** , pegue la dirección web (URL) en el cuadro de texto URL y haga clic en **Siguiente.**
+1. Seleccione la carpeta **Imágenes y archivos**, pegue la dirección Web (URL) en el cuadro de texto URL y haga clic en **Siguiente.**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
