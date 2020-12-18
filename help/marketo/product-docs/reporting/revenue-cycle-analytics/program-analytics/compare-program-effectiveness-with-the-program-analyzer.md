@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Comparar la eficacia de los Programas con el analizador de Programas {#compare-program-effectiveness-with-the-program-analyzer}
+# Compare la eficacia de los Programas con el analizador de Programas {#compare-program-effectiveness-with-the-program-analyzer}
 
 Utilice el analizador de Programas para identificar los programas más y menos efectivos, comparando los costos de programa, la adquisición de miembros, la tramitación y los ingresos.
 
@@ -54,7 +54,7 @@ Utilice el analizador de Programas para identificar los programas más y menos e
 
    >[!TIP]
    >
-   >También puede intentar mejorar su vista cambiando de una escala lineal a una logarítmica o viceversa. Utilice el menú **Escala** de la parte superior.
+   >También puede intentar mejorar su vista cambiando de una escala lineal a una logarítmica o viceversa. Utilice el menú **Escala** en la parte superior.
 
 1. Explore el gráfico resultante.
 
@@ -68,13 +68,13 @@ Utilice el analizador de Programas para identificar los programas más y menos e
 
    >[!NOTE]
    >
-   >Muchas de las métricas que puede elegir en el analizador de programa están disponibles con cálculos de primer toque (FT) y de varios toques (MT). Es importante comprender la [diferencia entre la atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)de FT y MT.
+   >Muchas de las métricas que puede elegir en el analizador de programa están disponibles con cálculos de primer toque (FT) y de varios toques (MT). Es importante comprender la [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Observe el tamaño de las burbujas en el gráfico.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Al agregar **(FT) Revenue Won**, vemos rápidamente que, mientras que la Expo Origami adquirió muchos nombres nuevos, resulta en ingresos comparativamente bajos. Además, vemos que el programa del Festival de Papel 12 está obteniendo menos nombres pero mejores, ya que influye en más ingresos ganados (burbuja mayor).
+   Al agregar **(FT) Ingresos Ganados**, vemos rápidamente que, aunque la Expo de Origami adquirió muchos nombres nuevos, resulta en ingresos comparativamente bajos. Además, vemos que el programa del Festival de Papel 12 está obteniendo menos nombres pero mejores, ya que influye en más ingresos ganados (burbuja mayor).
 
 1. Utilice la lista desplegable Color para agregar una cuarta métrica. Vamos a mirar (FT) Ingresos a la Inversión.
 
@@ -88,7 +88,7 @@ Vemos que el programa del Festival de Papel 12 no sólo influye en más ingresos
 
 >[!TIP]
 >
->Puede comparar rápidamente los programas de un canal con los de otro. Utilice el filtro **de** Canal en la parte superior de la ventana para añadir más canales.
+>Puede comparar rápidamente los programas de un canal con los de otro. Utilice el **filtro de Canal** en la parte superior de la ventana para agregar más canales.
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ Vemos que el programa del Festival de Papel 12 no sólo influye en más ingresos
 
 >[!NOTE]
 >
->Obtenga más información sobre los análisis avanzados en el Explorador del ciclo de [ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Obtenga más información sobre los análisis avanzados en [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
