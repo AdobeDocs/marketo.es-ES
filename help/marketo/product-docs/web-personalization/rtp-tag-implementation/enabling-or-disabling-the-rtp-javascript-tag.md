@@ -21,17 +21,17 @@ La etiqueta RTP JavaScript controla si la Personalización web rastrea o no la a
 
 ## Habilitar o deshabilitar la etiqueta {#enable-or-disable-the-tag}
 
-1. Vaya a Configuración **de cuenta**.
+1. Vaya a **Configuración de la cuenta**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. En Configuración de dominio y dominio, en Etiqueta, seleccione **Desactivado** para deshabilitar la etiqueta JavaScript.
+1. En Configuración de dominio y dominio, en Etiqueta, seleccione **Desactivado** para deshabilitar la etiqueta de JavaScript.
 
    ![](assets/account-settings-domain-tag.jpg)
 
    Cuando la etiqueta está desactivada, el código Javascript se desactiva y la personalización web no rastrea ninguna actividad web ni ejecuta ninguna campaña o recomendación de contenido en el sitio web.
 
-1. Para habilitar la etiqueta RTP, en Configuración de dominio y dominio, en Etiqueta, seleccione la opción **Activado** .
+1. Para habilitar la etiqueta RTP, en Configuración de dominio y dominio, en Etiqueta, seleccione la opción **Activado**.
 
    Fácil.
 
