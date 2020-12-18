@@ -23,7 +23,7 @@ El gráfico siguiente muestra el proceso de integración.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-¿Listo para empezar? Inicio con [Crear un Evento con el adaptador](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)ON24.
+¿Listo para empezar? Inicio con [Cree un Evento con el adaptador ON24](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
 >[!MORELIKETHIS]
 >
