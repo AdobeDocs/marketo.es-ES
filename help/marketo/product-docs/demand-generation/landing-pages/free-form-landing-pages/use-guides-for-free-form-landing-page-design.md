@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Uso de guías para el diseño de Páginas de aterrizaje de forma libre {#use-guides-for-free-form-landing-page-design}
+# Usar guías para el diseño de Páginas de aterrizaje de forma libre {#use-guides-for-free-form-landing-page-design}
 
 Al diseñar una página de aterrizaje de forma libre, puede utilizar guías para ayudar a alinear los componentes.
 
 >[!NOTE]
 >
->Las guías solo están disponibles en el editor de páginas de aterrizaje de **forma gratuita****** .
+>Las guías solo están disponibles en el editor de páginas de aterrizaje **Free**-**form**.
 
 1. Seleccione una **Página de aterrizaje** y haga clic en **Editar borrador**.
 
