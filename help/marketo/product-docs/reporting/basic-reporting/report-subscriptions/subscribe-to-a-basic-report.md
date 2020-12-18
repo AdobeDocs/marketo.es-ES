@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Suscripción a un informe básico {#subscribe-to-a-basic-report}
 
-Para recibir actualizaciones automáticas de un informe [](http://docs.marketo.com/display/docs/basic+reporting)básico o compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
+Para recibir actualizaciones automáticas de un [informe básico](http://docs.marketo.com/display/docs/basic+reporting), o para compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
 
 >[!NOTE]
 >
->Para obtener suscripciones de informes del Explorador [de ciclos de](http://docs.marketo.com/display/docs/revenue+cycle+analytics) ingresos, consulte [Suscripción a un informe](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)del Explorador de ingresos.
+>Para obtener suscripciones de informes [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics), consulte [Suscribirse a un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Vaya al área **Actividades de mercadotecnia **.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Suscripciones** .
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Suscripciones**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >También puede suscribirse a los informes desde la ficha **Análisis** .
+   >También puede suscribirse a informes desde la ficha **Analytics**.
 
-1. Haga clic en **Nueva Suscripción** de informe.
+1. Haga clic en **Nueva Suscripción de informe**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -52,12 +52,12 @@ Para recibir actualizaciones automáticas de un informe [](http://docs.marketo.c
    >**Artículos relacionados**
    >
    >
-   >Obtenga información sobre cómo [administrar todas las suscripciones](manage-report-subscriptions.md) de informes en un solo lugar.
+   >Obtenga información sobre cómo [administrar todas sus suscripciones de informes](manage-report-subscriptions.md) en un solo lugar.
 
    >[!NOTE]
    >
    >**Buceo profundo**
    >
    >
-   >Ver qué más se puede hacer con los informes en la inmersión profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
