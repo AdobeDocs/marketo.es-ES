@@ -25,23 +25,23 @@ Utilice el Analizador de influencia de oportunidades para mostrar la contribuci�
 
    ![](assets/analytics.png)
 
-1. Haga clic en Analizador **de influencia de oportunidad**.
+1. Haga clic en **Analizador de influencia de oportunidades**.
 
    ![](assets/two.png)
 
-1. Seleccione la cuenta en el panel **Configuración** .
+1. Seleccione la cuenta en el panel **Configuración**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >Si recibe una advertencia de que no hubo actividades durante el período de tiempo, haga clic en **Cerrar**. Volveremos a eso después del próximo paso.
+   >Si recibe una advertencia de que no hubo actividades durante el intervalo de tiempo, haga clic en **Cerrar**. Volveremos a eso después del próximo paso.
 
 1. Seleccione la oportunidad en esa cuenta.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Establezca el período de tiempo. Haga clic en la ficha **Configuración** y, a continuación, haga clic con el botón doble en **Intervalo** de tiempo.
+1. Establezca el período de tiempo. Haga clic en la ficha **Configuración** y haga clic con el doble **Intervalo de tiempo**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
@@ -52,7 +52,7 @@ Utilice el Analizador de influencia de oportunidades para mostrar la contribuci�
    >[!TIP]
    >
    >
-   >En la mayoría de los casos, **Todo el tiempo** es la opción más simple.
+   >En la mayoría de los casos, **Todo el tiempo** es la opción más sencilla.
 
 1. ¡Estás ahí! Haga clic en la ficha principal para ver los momentos interesantes y los éxitos involucrados en la oportunidad.
 
@@ -60,7 +60,7 @@ Utilice el Analizador de influencia de oportunidades para mostrar la contribuci�
 
 >[!TIP]
 >
->También puede ver un vídeo sobre el Analizador de influencia de oportunidades en la Universidad de [Marketo](https://learn.marketo.com). (¡Ahora parece un poco diferente, pero todavía hay mucho que aprender!)
+>También puede ver un vídeo sobre el Analizador de influencia de oportunidades en la [Universidad de mercadotecnia](https://learn.marketo.com). (¡Ahora parece un poco diferente, pero todavía hay mucho que aprender!)
 
 >[!MORELIKETHIS]
 >
@@ -75,5 +75,5 @@ Utilice el Analizador de influencia de oportunidades para mostrar la contribuci�
 >
 >**Buceo profundo**
 >
->Para otros analizadores, consulte Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Para otros analizadores, consulte [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
