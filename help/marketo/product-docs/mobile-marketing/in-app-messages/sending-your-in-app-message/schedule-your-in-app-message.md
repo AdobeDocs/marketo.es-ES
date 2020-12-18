@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Envíe su mensaje ahora o programe su envío para más tarde.
 
-1. Para programar un mensaje en la aplicación, seleccione **Establecer fecha** futura y elija una fecha de inicio en el calendario desplegable.
+1. Para programar un mensaje en la aplicación, seleccione **Establecer fecha futura** y elija una fecha de inicio en el calendario desplegable.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -31,4 +31,4 @@ Envíe su mensaje ahora o programe su envío para más tarde.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-¡Fácil! Por último, pero no menos importante, es el paso [Aprobación](approve-your-in-app-message.md) .
+¡Fácil! Por último, pero no menos importante es el paso [Aprobación](approve-your-in-app-message.md).
