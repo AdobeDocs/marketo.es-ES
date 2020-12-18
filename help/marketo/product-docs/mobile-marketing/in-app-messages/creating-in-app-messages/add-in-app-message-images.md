@@ -23,11 +23,11 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    >[!TIP]
    >
-   >¿Cuál es la diferencia entre las plantillas? Consulte [Elegir un diseño para el mensaje](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) en la aplicación antes de empezar.
+   >¿Cuál es la diferencia entre las plantillas? Consulte [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) antes de empezar.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Haga clic en la ficha **Estilo** y en el área de imagen de la plantilla.
+1. Haga clic en la ficha **Estilo** y haga clic en el área de imagen de la plantilla.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
@@ -67,7 +67,7 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Seleccione un margen (activado o desactivado). **On** es la configuración predeterminada.
+1. Seleccione un margen (activado o desactivado). **** Onis es la configuración predeterminada.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    >[!NOTE]
    >
-   >Para las acciones de toque de imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma distinta para Apple y Android. Si el mensaje va solo a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
+   >Para las acciones de toque de imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma distinta para Apple y Android. Si el mensaje va solamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
 
-¡bueno trabajo! Ahora, es hora de [crear el texto para el mensaje](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)en la aplicación.
+¡bueno trabajo! Ahora, es hora de [crear el texto para su mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
