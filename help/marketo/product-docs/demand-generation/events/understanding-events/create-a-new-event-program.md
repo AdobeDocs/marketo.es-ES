@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ¡Los eventos le permiten automatizar eventos en línea y sin conexión! Capture el estado de sus personas a medida que avanzan en diferentes etapas y obtenga mediciones precisas del ROI para sus iniciativas de mercadotecnia.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Elija un nombre para el evento. A continuación, en Tipo **de** Programa, seleccione **Evento**.
+1. Elija un nombre para el evento. A continuación, en **Tipo de Programa**, seleccione **Evento**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Los canales definen los distintos estados que puede tener una persona en un programa. Obtenga más información sobre la afiliación [al](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) programa aquí.
+   >Los canales definen los distintos estados que puede tener una persona en un programa. Obtenga más información sobre [membresía de programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) aquí.
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-¡Ta-da! El nuevo evento aparecerá en el árbol. Una vez creado el evento, cree las [páginas de aterrizaje](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formularios](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)y [correos electrónicos](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para invitar a sus invitados. También querrás familiarizarte con la vista [del](http://docs.marketo.com/display/docs/program+schedule+view)calandario del programa.
+¡Ta-da! El nuevo evento aparecerá en el árbol. Una vez creado el evento, cree las [páginas de aterrizaje](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formularios](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) y [correos](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para invitar a sus invitados. También querrá familiarizarse con la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >
