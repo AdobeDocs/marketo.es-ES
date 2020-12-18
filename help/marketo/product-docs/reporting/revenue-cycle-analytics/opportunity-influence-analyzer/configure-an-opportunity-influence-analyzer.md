@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar un analizador de influencia de oportunidades {#configure-an-opportunity-influence-analyzer}
 
-Una vez [creado el Analizador](create-an-opportunity-influence-analyzer.md)de influencia de oportunidad, puede configurar los tipos de momentos [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) interesantes que se incluyen.
+Una vez que [cree un Analizador de influencia de oportunidad](create-an-opportunity-influence-analyzer.md), puede configurar los tipos de [momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) que se incluyen.
 
 >[!PREREQUISITES]
 >
@@ -49,7 +49,7 @@ Una vez [creado el Analizador](create-an-opportunity-influence-analyzer.md)de in
 
 >[!NOTE]
 >
->Para otros analizadores, consulte Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+>Para otros analizadores, consulte [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
 >[!MORELIKETHIS]
 >
