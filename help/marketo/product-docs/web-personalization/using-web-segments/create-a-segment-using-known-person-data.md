@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Crear un segmento con datos de persona conocidos {#create-a-segment-using-known-person-data}
+# Crear un segmento usando datos de persona conocidos {#create-a-segment-using-known-person-data}
 
 A continuación se muestra cómo crear un segmento con los valores de Datos de persona conocidos.
 
@@ -57,7 +57,7 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
    ![](assets/nine.png)
 
-1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir Campaña **para guardar y acceder a la página Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir Campaña **para guardar y visitar la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
