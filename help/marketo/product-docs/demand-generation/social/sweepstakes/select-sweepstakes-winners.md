@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Seleccionar apuestas ganadoras {#select-sweepstakes-winners}
 
-Cuando [publica una apuesta](publish-a-sweepstakes.md), debe seleccionar los ganadores de cada dibujo. Al hacerlo, se les enviará automáticamente el correo electrónico [de](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) despacho.
+Cuando [publica una apuesta](publish-a-sweepstakes.md), debe seleccionar los ganadores para cada dibujo. Cuando lo haga, su [correo electrónico de cumplimiento](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) se les enviará automáticamente.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Cuando [publica una apuesta](publish-a-sweepstakes.md), debe seleccionar los gan
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Cuando [publica una apuesta](publish-a-sweepstakes.md), debe seleccionar los gan
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Haga clic en **Elegir** **ganadores**.
+1. Haga clic en **Elegir** **Ganadores**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -43,9 +43,9 @@ Cuando [publica una apuesta](publish-a-sweepstakes.md), debe seleccionar los gan
 
    >[!NOTE]
    >
-   >Si selecciona 0 ganadores para un dibujo en particular, esa información no se muestra en la ficha **Ganadores** .
+   >Si elige 0 ganadores para un dibujo en particular, esa información no se muestra en la ficha **Ganadores**.
 
-1. Haga clic en **Finalizar** para enviar el correo electrónico [de](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) cumplimiento a los ganadores enumerados.
+1. Haga clic en **Finalizar** para enviar el [correo electrónico de cumplimiento](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) a los ganadores enumerados.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
