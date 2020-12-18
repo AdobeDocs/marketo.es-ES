@@ -25,7 +25,7 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 
 ## Habilitar y personalizar la barra de recomendaciones de contenido {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vaya a Configuración **de contenido**.
+1. Vaya a **Configuración de contenido**.
 
    ![](assets/settings-dropdown-hand.png)
 
@@ -33,7 +33,7 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Para habilitar la barra de recomendaciones para una dirección URL, haga clic en **Activado** y, a continuación, en **Guardar**.
+1. Para habilitar la barra de recomendaciones para una dirección URL, haga clic en **Activado** y luego **Guardar**.
 
    ![](assets/bar-enable.png)
 
@@ -53,9 +53,9 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
    * Este campo distingue entre mayúsculas y minúsculas
 
 
-## Consideraciones sobre la barra de recomendaciones {#recommendation-bar-considerations}
+## Consideraciones de la barra de recomendaciones {#recommendation-bar-considerations}
 
-* Para que el motor de Recomendaciones funcione, necesita al menos una parte de contenido para la barra de recomendaciones definida como **Activado** en la página de Recommendations. Si no hay contenido habilitado y la barra está configurada en **Activado**, el efecto de flecha se mostrará en la parte inferior derecha de la página web, pero no aparecerá ningún contenido recomendado.
+* Necesita al menos una parte de contenido para la barra de recomendaciones establecida en **Activado** en la página de Recommendations para que el motor de Recomendaciones funcione. Si no hay contenido habilitado y la barra está configurada en **On**, el efecto de flecha se mostrará en la parte inferior derecha de la página web, pero no aparecerá ningún contenido recomendado.
 
 * Cuanto mayor sea el contenido que se ejecuta en el motor de recomendaciones, mejor será para que el algoritmo pruebe y conozca qué contenido funciona mejor. Se recomienda empezar con entre 10 y 20 fragmentos de contenido en ejecución y activos, y seguir agregando nuevos.
 * La parte de contenido que habilite para la recomendación debe incluir la etiqueta RTP Javascript. Esto ayuda al algoritmo a rastrear y optimizar el contenido recomendado.
