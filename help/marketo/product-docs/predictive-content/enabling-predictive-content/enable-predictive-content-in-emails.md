@@ -27,21 +27,21 @@ Haga predictivas una o más imágenes en el correo electrónico, lo que personal
 >* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## Añadir contenido predictivo con el editor de correo electrónico 2.0 {#adding-predictive-content-using-the-email-editor}
+## Añadir contenido predictivo con el Editor de correo electrónico 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Haga clic en Actividades **de marketing**.
+1. Haga clic en **Actividades de mercadotecnia**.
 
    ![](assets/one.png)
 
-1. Seleccione el correo electrónico y haga clic en **Editar borrador**.
+1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
    ![](assets/two.png)
 
-1. Haga clic en la imagen que desee hacer predictiva. Cuando aparezca el icono de engranaje, haga clic en él y seleccione **Activar contenido`AI`** (el contenido`AI` es el nombre anterior para el contenido predictivo).
+1. Haga clic en la imagen que desee hacer predictiva. Cuando aparezca el icono de engranaje, haga clic en él y seleccione **Habilitar contenido`AI`** (Contenido`AI` es el nombre anterior para Contenido predictivo).
 
    ![](assets/three.png)
 
-1. Para seleccionar una o varias categorías, haga clic en la lista desplegable **Categorías** , realice las selecciones y haga clic en **Aplicar**.
+1. Para seleccionar una o varias categorías, haga clic en la lista desplegable **Categorías**, realice la selección y haga clic en **Aplicar**.
 
    ![](assets/four.png)
 
@@ -53,11 +53,11 @@ Haga predictivas una o más imágenes en el correo electrónico, lo que personal
 
    ![](assets/five.png)
 
-1. Para previsualización del correo electrónico, haga clic en **Previsualización** en la esquina superior derecha.
+1. Para previsualización de su correo electrónico, haga clic en **Previsualización** en la esquina superior derecha.
 
    ![](assets/six.png)
 
-1. Para vista de distintas imágenes posibles, haga clic en **Actualizar**.
+1. Para vista de diferentes imágenes posibles, haga clic en **Actualizar**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ Haga predictivas una o más imágenes en el correo electrónico, lo que personal
    >
    >La imagen no se selecciona **_hasta que el destinatario abre el correo electrónico_**. Lo que ven en la previsualización es sólo un ejemplo, y no necesariamente la imagen que ve el destinatario.
 
-1. Cuando haya terminado de obtener una vista previa del correo electrónico, haga clic en la lista desplegable Acciones **de** Previsualización y seleccione **Aprobar y cerrar**. O si todavía tiene que editar, haga clic en **Editar borrador** a la derecha.
+1. Una vez que haya terminado de obtener la vista previa del correo electrónico, haga clic en la lista desplegable **Acciones de Previsualización** y seleccione **Aprobar y cerrar**. O si todavía tiene que editar, haga clic en **Editar borrador** a la derecha.
 
    ![](assets/eight.png)
 
@@ -81,9 +81,9 @@ Después de aprobar su correo electrónico, estará equipado con Contenido predi
 
 ## Añadir contenido predictivo cuando no se utiliza el editor de correo electrónico 2.0 {#adding-predictive-content-when-not-using-the-email-editor}
 
-Si no utiliza una plantilla de [correo electrónico 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) , la adición de contenido predictivo al correo electrónico se puede realizar simplemente etiquetando una imagen en la plantilla como elemento de imagen editable de marketing.
+Si no utiliza una plantilla [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md), puede agregar contenido predictivo al correo electrónico simplemente etiquetando una imagen en la plantilla como elemento de imagen editable de Marketing to.
 
-Obtenga información sobre la sintaxis específica de [Marketing aquí](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
+Obtenga más información sobre la sintaxis [específica del marketing aquí](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
 
 A continuación se muestra un ejemplo de cómo debería verse el código (este es sólo un ejemplo, no copie el código siguiente exactamente).
 
