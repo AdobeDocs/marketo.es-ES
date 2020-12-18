@@ -23,7 +23,7 @@ El informe Resumen es una vista mensual de todas las campañas y del rendimiento
 >
 >Conversión asistida: Un visitante web que rellena cualquier formulario en el sitio web y abandona su dirección de correo electrónico, que en una visita anterior (en los últimos 6 meses) hizo clic en una campaña personalizada o en un recurso de contenido recomendado.
 
-En Personalización web,** **vaya a **Análisis** e Informe **de resumen**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
+En Personalización web,** **vaya a **Analytics** y **Informe de resumen**.   ![](assets/image2016-4-6-10-3a15-3a58.png)
 
 Seleccione** Mes** y haga clic en **Mostrar informe**.
 
@@ -33,10 +33,10 @@ La primera parte del informe se relaciona con las campañas de Personalización 
 
 * **Clics** : todos los clics en campañas de personalización web
 * **Conversiones directas **- todos los visitantes que hicieron clic en una campaña de personalización web durante la visita y rellenaron un formulario
-* **Tasa de conversión** directa: el porcentaje de visitantes que se convirtieron en un posible cliente directo después de hacer clic en una campaña de Personalización web. Directos directos divididos por clics
-* **Conversiones** asistidas: todos los visitantes que rellenaron un formulario y hicieron clic en una campaña de personalización web en una visita anterior (en los últimos 6 meses)
+* **Tasa de conversión**  directa: el porcentaje de visitantes que se convirtieron en un posible cliente directo después de hacer clic en una campaña de Personalización web. Directos directos divididos por clics
+* **Conversiones**  asistidas: todos los visitantes que rellenaron un formulario y hicieron clic en una campaña de Personalización web en una visita anterior (en los últimos 6 meses)
 * **Sugerencias** : sugerencias para optimizar el rendimiento de la campaña de la personalización web
-* **Campañas** principales: las campañas de mayor rendimiento durante el período de tiempo seleccionado, ordenadas por número de clics
+* **Campañas**  principales: las campañas de mayor rendimiento durante el período de tiempo seleccionado, ordenadas por número de clics
 
 ![](assets/3.png)
 
@@ -44,10 +44,10 @@ La segunda parte del informe se relaciona con Contenido recomendado del motor de
 
 * **Clics** : todos los clics en el contenido recomendado para la Personalización web
 * **Conversiones directas **- todos los visitantes que hicieron clic en el contenido recomendado durante su visita y rellenaron un formulario
-* **Tasa de conversión** directa: el porcentaje de visitantes que se convirtieron en un posible cliente directo después de hacer clic en el contenido recomendado. Directos directos divididos por clics
+* **Tasa de conversión**  directa: el porcentaje de visitantes que se convirtieron en un posible cliente directo después de hacer clic en el contenido recomendado. Directos directos divididos por clics
 * **Conversiones asistidas ** - todos los visitantes que rellenaron un formulario y hicieron clic en el contenido recomendado en una visita anterior (en los últimos 6 meses)
 * **Sugerencias** : sugerencias para optimizar el uso del motor de recomendación de contenido
-* **Recommendations** principal: el contenido recomendado de mayor rendimiento durante el período de tiempo seleccionado, ordenado por número de clics
+* **Recommendations**  principal: el contenido recomendado de mayor rendimiento durante el período de tiempo seleccionado, ordenado por número de clics
 
 >[!NOTE]
 >
