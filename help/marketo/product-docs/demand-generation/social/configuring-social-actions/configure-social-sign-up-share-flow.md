@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Configuración del flujo de participación/registro social {#configure-social-sign-up-share-flow}
+# Configurar el flujo de participación/registro social {#configure-social-sign-up-share-flow}
 
-Al crear una aplicación [](http://docs.marketo.com/display/docs/social)social, puede configurar las opciones de red social y las indicaciones que un usuario encuentra cuando se registra.
+Al crear una [aplicación social](http://docs.marketo.com/display/docs/social), puede configurar las opciones de red social y las indicaciones que un usuario encuentra cuando se registra.
 
 ## Seleccionar redes para compartir {#select-networks-for-sharing}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -25,7 +25,7 @@ Al crear una aplicación [](http://docs.marketo.com/display/docs/social)social, 
 
    ![](assets/image2014-9-22-13-3a57-3a43.png)
 
-1. En el editor de aplicaciones sociales, haga clic en Flujo **de** registro > Redes **** sociales**.**
+1. En el editor de aplicaciones sociales, haga clic en **Flujo de registro** > **Redes sociales***.**
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Al crear una aplicación [](http://docs.marketo.com/display/docs/social)social, 
 
 ## Configurar el mensaje de Facebook {#configure-the-facebook-message}
 
-1. Vaya a **Registro** **Flujo** > **Compartir** **mensajes**.
+1. Vaya a **Registrarse** **Flujo** > **Compartir** **Mensajes**.
 
    ![](assets/five.png)
 
@@ -47,25 +47,25 @@ Al crear una aplicación [](http://docs.marketo.com/display/docs/social)social, 
    >
    >En un uso compartido de vídeo, la miniatura se genera automáticamente.
 
-   **Añadir contenido dinámico,****** OpenGraphSi elige **Añadir contenido estático,** escriba el título, el rótulo, la descripción y cargue una imagen. Consulte los dos pasos siguientes.
+   **Añadir contenido dinámico,****** OpenGraphSi elige  **Añadir contenido estático,** introduzca el título, el rótulo, la descripción y cargue una imagen. Consulte los dos pasos siguientes.
 
-1. En la ventana Vista y edición, haga clic en **Mostrar ediciones** y edite el mensaje y el mensaje compartidos que aparecerán en las publicaciones de Facebook.
+1. En la ventana Vista y edición, haga clic en **Mostrar ediciones** y edite el mensaje y mensaje compartidos que aparecerán en las publicaciones de Facebook.
 
    >[!TIP]
    >
-   >Para obtener más información, consulte [Editar configuración](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)de anuncios enriquecidos de Facebook.
+   >Para obtener más información, consulte [Editar configuración de anuncios enriquecidos de Facebook](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-13-3a59-3a57.png)
 
    >[!NOTE]
    >
-   >La dirección URL [del](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) recurso compartido se agrega automáticamente a todos los mensajes compartidos.
+   >La [URL de uso compartido](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) se agrega automáticamente a todos los mensajes compartidos.
 
-1. Si elige **Añadir** contenido **estático** arriba, edite el título, el rótulo y la descripción, y cargue una imagen personalizada (desde las imágenes [**** y los **** archivos ****](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)**de marketing).**
+1. Si elige **Añadir contenido estático** **más arriba, edite el título, el rótulo y la descripción y cargue una imagen personalizada (desde sus[** imágenes de marketing **** y **** archivos **](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)**).&lt;a 10/>****
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
-   Consulte [Añadir imágenes y archivos en el marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Consulte [Añadir imágenes y archivos a Marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -93,11 +93,11 @@ Si elige los valores de las etiquetas de la página (og:title, og:caption y og:d
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   Si elige **Añadir** contenido **dinámico**, los valores de las etiquetas de páginas (título y descripción) y la miniatura se agregan automáticamente a las publicaciones de LinkedIn. Vea el siguiente paso.
+   Si elige **Añadir contenido dinámico** **a3/>, los valores de las etiquetas de páginas (título y descripción) y la miniatura se agregan automáticamente a las publicaciones de LinkedIn.** Vea el siguiente paso.
 
-   Si elige **Añadir contenido estático,** escriba el título, el rótulo y la descripción, y cargue una imagen. Consulte los dos pasos siguientes.
+   Si elige **Añadir contenido estático,** escriba el título, el rótulo y la descripción y cargue una imagen. Consulte los dos pasos siguientes.
 
-1. En la ventana **Vista** **&amp;** **Editar** , haga clic en **Mostrar modificaciones** y edite el mensaje y el mensaje compartidos que aparecerán en las publicaciones de LinkedIn.
+1. En la ventana **Vista** **&amp;** **Editar**, haga clic en **Mostrar ediciones** y edite el mensaje y mensaje compartidos que aparecerán en las publicaciones de LinkedIn.
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
@@ -105,7 +105,7 @@ Si elige los valores de las etiquetas de la página (og:title, og:caption y og:d
    >
    >Utilice {html_title} en el texto del anuncio para mostrar automáticamente el título de la página.
 
-1. Si elige **Añadir** contenido **estático** arriba, edite el título y la descripción y cargue una imagen personalizada (desde las imágenes [**** y los **** archivos ****](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) de Marketing).
+1. Si elige **Añadir contenido estático** **más arriba, edite el título y la descripción y cargue una imagen personalizada (desde sus[** imágenes de marketing **** y **** archivos **](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).**
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
@@ -115,5 +115,5 @@ Si elige los valores de las etiquetas de la página (og:title, og:caption y og:d
 
 >[!MORELIKETHIS]
 >
->A continuación, puede hacer clic en **Finalizar > Aprobar y cerrar** y colocar la aplicación social en una página de aterrizaje. También puede configurar la captura [de](configure-person-capture-for-a-social-app.md) personas o el mensaje de [reuso compartido](configure-re-share-email-and-prompt-for-a-social-app.md).
+>A continuación, puede hacer clic en **Finalizar > Aprobar y cerrar** y colocar la aplicación social en una página de aterrizaje. También puede configurar [captura de persona](configure-person-capture-for-a-social-app.md) o el [mensaje de reuso compartido](configure-re-share-email-and-prompt-for-a-social-app.md).
 
