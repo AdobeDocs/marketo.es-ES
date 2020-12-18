@@ -19,11 +19,11 @@ Los campos de formulario ocultos pueden capturar datos de forma silenciosa sin l
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Seleccione el campo y establezca el **campo** **Tipo** en **Oculto.**
+1. Seleccione el campo y establezca el **Campo** **Tipo** en **Oculto.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
