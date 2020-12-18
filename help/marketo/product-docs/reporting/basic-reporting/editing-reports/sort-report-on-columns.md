@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Ordenar informe por columnas {#sort-report-on-columns}
+# Ordenar informe de columnas {#sort-report-on-columns}
 
 Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de las cifras más importantes.
 
-1. Vaya a **Analytics** (o Actividades **de marketing**).
+1. Vaya a **Analytics** (o **Actividades de marketing**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe** .
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de 
    >**Buceo profundo**
    >
    >
-   >Conozca todo el poder de trabajar con informes en Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Conozca todo el poder de trabajar con informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
