@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de las Páginas de aterrizaje de formulario libre vs. guiadas {#understanding-free-form-vs-guided-landing-pages}
 
-La plantilla que elija determinará en qué modo de edición de páginas de aterrizaje trabajará. Hay dos rutas posibles: [forma](http://docs.marketo.com/display/docs/free-form+landing+pages) libre y [guiado](http://docs.marketo.com/display/docs/guided+landing+pages). A continuación encontrará un breve resumen de las importantes diferencias.
+La plantilla que elija determinará en qué modo de edición de páginas de aterrizaje trabajará. Hay dos rutas posibles: [forma libre](http://docs.marketo.com/display/docs/free-form+landing+pages) y [guiado](http://docs.marketo.com/display/docs/guided+landing+pages). A continuación encontrará un breve resumen de las importantes diferencias.
 
 ## Páginas de formato libre {#free-form-pages}
 
