@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. Cuando haya terminado de realizar cambios en el modelo, vuelva a aprobarlo seleccionando **Aprobar borrador** de modelo en el menú Acciones **de** modelo.
+1. Cuando haya terminado de realizar cambios en el modelo, vuelva a aprobarlo seleccionando **Aprobar borrador del modelo** en el menú **Acciones del modelo**.
 
    ![](assets/four.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 >
 >Si desaprueba el modelo, se eliminarán todos sus leads y se eliminará su historial en el modelo. Considere editar su modelo en lugar de desaprobarlo.
 
-1. Seleccione el modelo que desee desaprobar. En el menú Acciones **** de modelo, seleccione **Desaprobar modelo**.
+1. Seleccione el modelo que desee desaprobar. En el menú **Acciones de modelo**, seleccione **Desaprobar modelo**.
 
    ![](assets/five.png)
 
