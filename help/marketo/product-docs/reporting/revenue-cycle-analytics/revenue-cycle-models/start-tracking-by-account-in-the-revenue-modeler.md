@@ -17,25 +17,25 @@ Con el Modelador de etapas de ingresos y el Explorador de ingresos, puede obtene
 
 >[!NOTE]
 >
->Asegúrese de que el modelo aprobado tenga etapas en la ruta de éxito con el seguimiento de **Inicios por cuenta** marcado
+>Asegúrese de que el modelo aprobado tenga etapas en la ruta de éxito con **Seguimiento de Inicios por cuenta** marcado
 
-1. Después de que haya transcurrido tiempo suficiente para recopilar datos útiles, seleccione Explorador **de** ingresos en la página principal **** Mi marketing.
+1. Después de que haya transcurrido tiempo suficiente para recopilar datos útiles, seleccione **Explorador de ingresos** en la **Página principal de Mi marketing**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Para crear un nuevo informe, haga clic en **Archivo** y seleccione **Nuevo** y luego **Informe**.
+1. Para crear un nuevo informe, haga clic en **Archivo** y seleccione **Nuevo** luego **Informe**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Seleccione Análisis **de rendimiento del modelo (Compañías)** como área de análisis y haga clic en **Aceptar**.
+1. Seleccione **Análisis de rendimiento del modelo (Compañías)** como área de análisis y haga clic en **Aceptar**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. Se recomienda arrastrar los campos **Fase**, **Mes** y Equilibrio **** final para mostrar la progresión de las compañías a través del modelo por mes. Use filtros para seleccionar los meses que desee.
+1. Se recomienda arrastrar los campos **Etapa**, **Mes** y **Saldo final** para mostrar la progresión de las compañías a través del modelo por mes. Use filtros para seleccionar los meses que desee.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Cuando haya terminado de configurar el informe, haga clic con el botón derecho en **Es Compañía** de seguimiento y seleccione **Filtro**. Usaremos esto para limitar el informe a solo las etapas en las que se selecciona **Seguimiento por cuenta** .
+1. Cuando haya terminado de configurar el informe, haga clic con el botón derecho en **Es Compañía de seguimiento** y seleccione **Filtro**. Usaremos esto para limitar el informe a solo las etapas en las que se selecciona **Seguimiento por cuenta**.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
