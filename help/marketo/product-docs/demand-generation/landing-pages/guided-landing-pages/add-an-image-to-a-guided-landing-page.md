@@ -31,7 +31,7 @@ A diferencia de las páginas de aterrizaje de forma libre, las páginas de aterr
 
    >[!NOTE]
    >
-   >El modo en que se cambia el tamaño de la imagen depende de la plantilla. Obtenga más información sobre las plantillas de Página de aterrizaje [guiadas](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >El modo en que se cambia el tamaño de la imagen depende de la plantilla. Obtenga más información sobre [Plantillas de Página de aterrizaje guiada](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
