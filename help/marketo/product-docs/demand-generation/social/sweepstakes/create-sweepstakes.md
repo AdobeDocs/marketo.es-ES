@@ -21,11 +21,11 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. Dentro del programa, seleccione **Nuevo > Nuevo recurso** local.
+1. Dentro del programa, seleccione **Nuevo > Nuevo recurso local**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. En la Galería de recursos locales, haga clic en **Apuestas**.
+1. En la Galería de recursos local, haga clic en **Apuestas**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -35,7 +35,7 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
 
    >[!TIP]
    >
-   >Para ahorrar tiempo, puede utilizar la opción **Clonar desde** para copiar toda la configuración de una apuesta existente.
+   >Para ahorrar tiempo, puede utilizar la opción **Clonar de** para copiar toda la configuración de una apuesta existente.
 
 1. Haga clic en **Apuestas** **Detalles**.
 
@@ -61,19 +61,19 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
 
    >[!NOTE]
    >
-   >En esta pantalla, también puede agregar un vínculo de política de privacidad. Consulte [Añadir su política de privacidad en una aplicación](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)social.
+   >En esta pantalla, también puede agregar un vínculo de política de privacidad. Consulte [Añadir su política de privacidad en una aplicación social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Haga clic en **Aprobar** **y** cerrar ****.
+1. Haga clic en **Aprobar** **y** **Cerrar**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Para cambiar cualquiera de los valores predeterminados de las apuestas, haga clic en **Atrás**. Para guardar el trabajo más tarde sin aprobarlo, haga clic en **Cerrar**.
+   >Para cambiar cualquiera de los valores predeterminados de las apuestas, haga clic en **Atrás**. Para guardar el trabajo para después sin aprobarlo, haga clic en **Cerrar**.
 
    ¡Felicitaciones! Ha creado una apuesta.
 
@@ -81,6 +81,6 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
    >
    >**Artículos relacionados**
    >
-   >El siguiente paso es [publicar las apuestas](publish-a-sweepstakes.md), pero puede cambiar el aspecto y la configuración de las apuestas. Inicio con [personalizar los estilos](customize-sweepstakes-styles.md)de apuestas.
+   >El siguiente paso es [publicar sus apuestas](publish-a-sweepstakes.md), pero puede cambiar el aspecto y la configuración de sus apuestas. Inicio con [personalizar los estilos de apuestas](customize-sweepstakes-styles.md).
 
 El editor de apuestas se abre en una ventana nueva. La configuración predeterminada es correcta, pero aún necesita configurar algunos detalles. Le mostraremos cómo hacerlo en los próximos pasos.                    Si hay algún problema en las apuestas, se le pedirá que lo aborde antes de aprobar las apuestas.
