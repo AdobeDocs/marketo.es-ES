@@ -169,15 +169,15 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
   </tr> 
   <tr> 
    <td>Atributos de oportunidad</td> 
-   <td><p>Oportunidad<br>ClosedOpportunity Name*<br>Oportunidad Propietario<br>NombreOportunidad<br>StageTipo de oportunidad</p></td> 
+   <td><p>Oportunidad cerrada<br>Nombre de oportunidad*<br>Nombre de propietario de oportunidad<br>Fase de oportunidad<br>Tipo de oportunidad</p></td> 
   </tr> 
   <tr> 
    <td>Intervalo de tiempo de oportunidad</td> 
-   <td><p>Oportunidad Año/Trimestre/<br>MesOportunidad creada año/trimestre/mes</p></td> 
+   <td><p>Oportunidad año/trimestre/mes cerrado<br>Oportunidad creada año/trimestre/mes</p></td> 
   </tr> 
   <tr> 
    <td>Atributos de programa</td> 
-   <td><p>Nombre<br>del programa de canal de programa</p></td> 
+   <td><p>Canal de programa<br>Nombre de Programa</p></td> 
   </tr> 
   <tr> 
    <td>Intervalo de tiempo de costo de programa</td> 
@@ -186,7 +186,7 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
  </tbody> 
 </table>
 
-**Todas las Oportunidades que dieron cualquier tipo de crédito de atribución a un Programa. Las oportunidades pueden verse influidas por uno o más posibles clientes y por uno o más Programas.*
+**Todas las Oportunidades que dieron cualquier tipo de crédito de atribución a un Programa. Las oportunidades pueden estar influidas por uno o más posibles clientes y por uno o más Programas.*
 
 >[!MORELIKETHIS]
 >
