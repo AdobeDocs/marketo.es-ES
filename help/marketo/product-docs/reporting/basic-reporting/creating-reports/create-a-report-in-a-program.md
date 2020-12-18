@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ejecute un informe para analizar personas, programas, páginas de aterrizaje, correos electrónicos y recursos sociales.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Seleccione un programa.
@@ -24,7 +24,7 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
 
    >[!NOTE]
    >
-   >También puede crear informes desde la ficha **Análisis** .
+   >También puede crear informes desde la ficha **Analytics**.
 
    Haga clic con el botón derecho en el programa y seleccione Nuevo recurso local.
 
@@ -34,7 +34,7 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Seleccione el **tipo** de informe.
+1. Seleccione el informe **Tipo**.
 
    ![](assets/choosereport.png)
 
@@ -50,7 +50,7 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
    >
    >Para facilitar la navegación por los informes más adelante, incluya una referencia al tipo de informe en el nombre.
 
-   Configure el intervalo de tiempo del informe. Consulte [Cambio de un intervalo](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) de tiempo del informe para obtener más detalles.
+   Configure el intervalo de tiempo del informe. Consulte [Cambio de un intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obtener más detalles.
 
 1. Haga clic en la ficha **Informe** para ver las estadísticas.
 
@@ -61,7 +61,7 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
    >**Buceo profundo**
    >
    >
-   >De forma predeterminada, los informes cubren toda la actividad de su cuenta, en todos los programas. Para conocer las muchas formas en que puede filtrar el informe, consulte la sección profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >De forma predeterminada, los informes cubren toda la actividad de su cuenta, en todos los programas. Para conocer las muchas maneras de filtrar el informe, consulte la [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) buceo profundo.
 
    >[!NOTE]
    >
@@ -75,5 +75,5 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
    >**Artículos relacionados**
    >
    >
-   >Puede [cambiar un intervalo](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)de tiempo del informe, [suscribirse a un informe](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)básico, [exportar un informe a Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)inteligente, [etc](http://docs.marketo.com/display/docs/basic+reporting).
+   >Puede [cambiar un intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscribirse a un informe básico](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar un informe a Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) y [más](http://docs.marketo.com/display/docs/basic+reporting).
 
