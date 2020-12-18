@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Informe Personas por etapa de ingresos {#people-by-revenue-stage-report}
+# Informe Etapa de personas por ingresos {#people-by-revenue-stage-report}
 
-Puede crear un informe que muestre en qué etapa del modelo [de ciclo de](http://docs.marketo.com/display/docs/revenue+cycle+models) ingresos se encuentran sus usuarios. El informe incluye cualquier etapa del modelo especificado siempre que haya un saldo de persona para el intervalo de fechas dado del informe.
+Puede crear un informe que muestre en qué etapa del [Modelo de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+models) se encuentra su gente. El informe incluye cualquier etapa del modelo especificado siempre que haya un saldo de persona para el intervalo de fechas dado del informe.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Puede crear un informe que muestre en qué etapa del modelo [de ciclo de](http:/
 
    **
 
-1. Haga clic en el informe de **Personas por etapa** de ingresos.
+1. Haga clic en el informe para **Personas por etapa de ingresos**.
 
    ** ![](assets/image2017-3-27-15-3a46-3a27.png)
 
    **
 
-1. Haga clic en la ficha **Configuración** . Haga clic con el botón doble en el campo **Persona creada en** para definir el intervalo de tiempo deseado para el informe.
+1. Haga clic en la ficha **Configuración**. Haga clic con el botón doble en el campo **Persona creada en** para establecer el intervalo de tiempo deseado en el que desee generar el informe.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
@@ -41,7 +41,7 @@ Puede crear un informe que muestre en qué etapa del modelo [de ciclo de](http:/
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Haga clic en la ficha **Informe** . Ahora puede ver en qué etapa del modelo de ingresos se encuentra su gente y centrarse en cualquier cuellos de botella.
+1. Haga clic en la ficha **Informe**. Ahora puede ver en qué etapa del modelo de ingresos se encuentra su gente y centrarse en cualquier cuellos de botella.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)
 
@@ -50,5 +50,5 @@ Puede crear un informe que muestre en qué etapa del modelo [de ciclo de](http:/
    >**Buceo profundo**
    >
    >
-   >Obtenga información sobre cómo agregar columnas y más en Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting)básico.
+   >Obtenga información sobre cómo agregar columnas y más en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
