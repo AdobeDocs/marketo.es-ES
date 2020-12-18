@@ -16,15 +16,15 @@ Hay varios pasos para crear el mensaje perfecto en la aplicación. Inicio aquí,
 
 Después de crear el mensaje en la aplicación, vaya [aquí](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver cómo enviarlo.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![Imagen uno](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
-1. Haga clic con el botón derecho en un programa y seleccione **Nuevo recurso** local.
+1. Haga clic con el botón derecho en un programa y seleccione **Nuevo recurso local**.
 
    ![Imagen dos](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Seleccione Mensaje **en la aplicación**.
+1. Seleccione **Mensaje en la aplicación**.
 
    ![Imagen tres](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
