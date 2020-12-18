@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Editar un Canal de Evento {#edit-an-event-channel}
 
-Puede editar el tipo de canal desde la ficha **Resumen** del evento o desde la ficha **Configuración** .
+Puede editar el tipo de canal desde la ficha **Resumen** del evento o desde su ficha **Configuración**.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Puede editar el tipo de canal desde la ficha **Resumen** del evento o desde la f
 
 >[!NOTE]
 >
->Un programa es una iniciativa de marketing específica. El **canal** está diseñado para ser el mecanismo de envío, como Seminario web, Presentación comercial o Publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Un programa es una iniciativa de marketing específica. El **canal** está diseñado para ser el mecanismo de envío, como seminario web, presentación o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
 ## Desde la ficha Resumen {#from-the-summary-tab}
 
-1. En Actividades **** de marketing, seleccione el evento en el árbol.
+1. En **Actividades de mercadotecnia**, seleccione su evento en el árbol.
 
    ![](assets/eventprogramseelct.png)
 
-1. Vaya a la vista **Resumen** .
+1. Vaya a la vista **Summary**.
 
    ![](assets/eventprogramsummary.png)
 
-1. En la categoría **Configuración** , seleccione el **Canal** actual que se muestra como hipervínculo.
+1. En la categoría **Settings**, seleccione el **Canal** actual que se muestra como hipervínculo.
 
    ![](assets/channeltypeevent.png)
 
@@ -53,7 +53,7 @@ También se puede asignar un nuevo tipo de canal desde la ficha **Configuración
 
    ![](assets/eventprogramseelct.png)
 
-1. Vaya a la ficha **Configuración** . Haga clic con el doble en el **Canal** actual.
+1. Vaya a la ficha **Configuración**. Haga clic con el doble en el **Canal** actual.
 
    ![](assets/setuptabchangechannel.png)
 
