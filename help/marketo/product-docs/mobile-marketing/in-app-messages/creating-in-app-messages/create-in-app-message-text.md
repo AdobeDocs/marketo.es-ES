@@ -77,7 +77,7 @@ Haga clic en el área de texto para trabajar con el estilo y el contenido del te
 
    Los cambios que realice en los tokens utilizados en un programa de mensajes en la aplicación aprobado no tendrán efecto en el mensaje en la aplicación hasta que el programa se ponga en pausa y se reanude.
 
-Eres dorado. A continuación, debe [configurar el botón](set-up-the-in-app-message-button.md)de mensajes en la aplicación.
+Eres dorado. A continuación, debe [configurar el botón de mensaje en la aplicación](set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
