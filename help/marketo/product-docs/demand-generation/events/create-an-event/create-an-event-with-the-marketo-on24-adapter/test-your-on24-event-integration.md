@@ -24,7 +24,7 @@ Asegúrese de probar la integración de evento a fondo.
 
    >[!NOTE]
    >
-   >Debe utilizar el `{{member.webinar url}}` token en el correo electrónico de confirmación para que la dirección URL única se muestre en el correo electrónico de cada registrado.
+   >Debe utilizar el token `{{member.webinar url}}` en el correo electrónico de confirmación para que la dirección URL única se muestre en el correo electrónico de cada registrado.
 
 ## Después del Evento {#after-the-event}
 
