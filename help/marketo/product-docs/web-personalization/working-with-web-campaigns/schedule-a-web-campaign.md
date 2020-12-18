@@ -23,13 +23,13 @@ Puede programar la campaña web en función de la hora del visitante web o de un
 >
 >La programación de las fechas de inicio y parada es buena para un evento programado, como un seminario web, que se ejecuta durante un período específico. Las repeticiones son perfectas para una oferta especial que se ejecuta cada semana sólo en un día en particular.
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
 
 1. Abra el menú Estado de Campaña y seleccione **Programar**.
 
@@ -51,7 +51,7 @@ Puede programar la campaña web en función de la hora del visitante web o de un
    >
    >Puede seleccionar la fecha y la hora en el menú desplegable y en el calendario, o bien introducirlas manualmente. Los horarios están en las 12 horas a.m./p.m.
 
-1. De forma predeterminada, la campaña se ejecuta todos los días entre el inicio y la fecha de finalización. Si desea ejecutar la campaña solo en días específicos o en momentos específicos, utilice la configuración **Repetir** . Seleccione el día, el inicio y la hora de finalización para mostrar la campaña. Utilice el signo + para agregar días adicionales.
+1. De forma predeterminada, la campaña se ejecuta todos los días entre el inicio y la fecha de finalización. Si desea ejecutar la campaña solo en días específicos o en momentos específicos, utilice la configuración **Repetir**. Seleccione el día, el inicio y la hora de finalización para mostrar la campaña. Utilice el signo + para agregar días adicionales.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
@@ -65,5 +65,5 @@ Puede programar la campaña web en función de la hora del visitante web o de un
 
    >[!NOTE]
    >
-   >El estado de campaña permanece como **Programado** aunque la campaña se esté ejecutando durante las horas programadas seleccionadas. Cuando ha pasado una fecha de finalización programada, el estado de la campaña cambia a **Pausado**.
+   >El estado de campaña permanece como **Programado** incluso cuando la campaña se está ejecutando durante las horas programadas seleccionadas. Cuando ha pasado una fecha de finalización programada, el estado de la campaña cambia a **Pausado**.
 
