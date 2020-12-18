@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Informe Personas por estado {#people-by-status-report}
 
-Revise la eficacia con la que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen cada mes en el valor de Estado *de* persona.
+Revise la eficacia con la que está moviendo a las personas a través del proceso comprobando cuántas de ellas aparecen en cada valor de *Estado de la persona* cada mes.
 
-1. [Cree un informe](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe [Personas por estado](report-type-overview.md).
-1. [Configure el intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe** .
+1. [Cree un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) informe y seleccione el tipo **de informe** [Personas por ](report-type-overview.md)estado.
+1. [Configure el intervalo de tiempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) informe y haga clic en la ficha  **** Informe.
 1. ¡bueno! Ahora puede ver cuántas personas estaban en cada estado de persona, de un mes a otro.
 
    ` ![](assets/image2017-3-27-11-3a17-3a4.png)
@@ -32,12 +32,12 @@ Revise la eficacia con la que está moviendo a las personas a través del proces
    >**Artículos relacionados**
    >
    >
-   >[Utilice una lista inteligente para filtrar el informe](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) a personas específicas.
+   >[Utilice una lista inteligente para filtrar el ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) informe a personas específicas.
 
    >[!NOTE]
    >
    >**Buceo profundo**
    >
    >
-   >Aprenda a añadir columnas y más en la inmersión profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Obtenga información sobre cómo agregar columnas y más en el subárbol [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) profundo.
 
