@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es fácil ver cómo funcionan las notificaciones push.
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,7 +23,7 @@ Es fácil ver cómo funcionan las notificaciones push.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Haga clic en **Vista: Resumen** y seleccione **Panel**.
+1. Haga clic en **Vista: Sumario** y seleccione **Panel**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
@@ -33,7 +33,7 @@ Es fácil ver cómo funcionan las notificaciones push.
 
    >[!NOTE]
    >
-   >La métrica **Enviado** puede reflejar más envíos que el número exacto de personas a las que se envió la notificación push. Esto se debe a que se calcula en función del *número de dispositivos* que cumplen los requisitos para recibir la notificación push. Por ejemplo, si una sola persona tiene tres dispositivos, el panel registra tres envíos, no uno.
+   >La métrica **Enviada** puede reflejar más envíos que el número exacto de personas a las que se envió la notificación push. Esto se debe a que se calcula en función del *número de dispositivos* que cumplen los requisitos para recibir la notificación push. Por ejemplo, si una sola persona tiene tres dispositivos, el panel registra tres envíos, no uno.
 
    >[!NOTE]
    >
