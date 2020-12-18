@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. En Configuración **de formulario,** haga clic en **Configuración**.
+1. En **Configuración del formulario,** haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Seleccione el **idioma** de **error** que necesita.
+1. Seleccione el **Error** **Idioma** que necesita.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
