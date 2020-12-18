@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Información general sobre perspectivas de rendimiento {#performance-insights-overview}
+# Información general de perspectivas de rendimiento {#performance-insights-overview}
 
 Las perspectivas de rendimiento de marketing le ayudan a optimizar la combinación de canales para lograr la máxima eficacia, como así también a descubrir las tendencias a largo plazo para identificar estrategias ganadoras coherentes.
 
@@ -29,7 +29,7 @@ Para acceder a las perspectivas de rendimiento, haga clic en su icono en la pant
 
 ## Contribución {#contribution}
 
-Evaluar la [contribución de Marketing a los](http://docs.marketo.com/x/QAvG)ingresos en función de la adquisición, la influencia, la conversión e incluso el crecimiento base instalado del cliente.
+Evalúe la [contribución de Marketing a los ingresos](http://docs.marketo.com/x/QAvG)como una función de adquisición, influencia, conversión e incluso crecimiento base instalado por parte del cliente.
 
 ![](assets/two.png)
 
@@ -39,19 +39,19 @@ De forma predeterminada, los datos mostrados reflejan el rendimiento por partici
 
 ## Tendencia {#trend}
 
-Descubrir tendencias [a](http://docs.marketo.com/x/QgvG) largo plazo para identificar estrategias ganadoras coherentes.
+Descubrir [tendencias a largo plazo](http://docs.marketo.com/x/QgvG) para identificar estrategias ganadoras consistentes.
 
 ![](assets/4.png)
 
 ## Configuración {#settings}
 
-En los paneles Ingresos y Canalización, haga clic en el icono [Configuración](http://docs.marketo.com/x/pIDS) para definir parámetros adicionales.
+En los paneles Ingresos y Canalización, haga clic en el icono [Configuración](http://docs.marketo.com/x/pIDS) para establecer parámetros adicionales.
 
 ![](assets/5.png)
 
 ## Exportar datos {#export-data}
 
-Puede exportar los datos y los gráficos en PowerPoint o Excel. También puede guardarlos como un gráfico [rápido](https://docs.marketo.com/x/iRLG).
+Puede exportar los datos y los gráficos en PowerPoint o Excel. También puede guardarlos como [Gráfico rápido](https://docs.marketo.com/x/iRLG).
 
 ![](assets/6.png)
 
