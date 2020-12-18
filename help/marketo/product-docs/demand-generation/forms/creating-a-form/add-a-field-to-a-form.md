@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Añadir un campo en un formulario {#add-a-field-to-a-form}
 
-Una vez [creado el formulario](create-a-form.md) y [seleccionado un tema](select-a-form-theme.md), es posible que desee agregar campos adicionales para que los usuarios los rellenen. Así es como.
+Una vez que [haya creado el formulario](create-a-form.md) y [haya seleccionado un tema](select-a-form-theme.md), puede que desee agregar campos adicionales para que los usuarios lo rellenen. Así es como.
 
 1. Vaya a **Marketing** **Actividades**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/editform-1.png)
 
-1. Haga clic en el signo **+** .
+1. Haga clic en el signo **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
