@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Crear una función de usuario de personalización web {#create-a-web-personalization-user-role}
 
-1. Vaya a la sección **Administración** y, a continuación, haga clic en **Usuarios y funciones**.
+1. Vaya a la sección **Administración** y haga clic en **Usuarios y roles**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Haga clic en **Funciones**.
+1. Haga clic en **Roles**.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Introduzca un nombre de rol y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)de trabajo).
+1. Introduzca un nombre de rol y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios de trabajo](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Para otorgar a los usuarios permiso para acceder a todo lo que se encuentra en Segmentación y personalización, asegúrese de seleccionar *todas* las casillas de verificación.
+   >Para otorgar a los usuarios permiso para acceder a todo lo que se encuentra en Segmentación y personalización, asegúrese de seleccionar *todo* las casillas de verificación.
 
 ## Permisos de usuario de contenido predictivo y personalización de Web {#web-personalization-and-predictive-content-user-permissions}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **Iniciador** de Campaña web: El usuario tiene acceso a todas las funciones de la aplicación de personalización web, excepto a la configuración de la cuenta y el contenido. El permiso permite crear, editar, eliminar e iniciar campañas web.
 
-## Asignar función de WP al usuario {#assign-wp-role-to-user}
+## Asignar la función de WP al usuario {#assign-wp-role-to-user}
 
 1. Vaya a **Usuarios**.
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Los usuarios recién habilitados verán el mosaico Personalización **** web en Mi marketing la próxima vez que inicien sesión.
+1. Los usuarios recién habilitados verán el mosaico **Personalización web** en Mi marketing la próxima vez que inicien sesión.
 
    ![](assets/eight.png)
