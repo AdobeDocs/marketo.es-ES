@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personalización de la Vista móvil para su Página de aterrizaje de forma libre {#customize-mobile-view-for-your-free-form-landing-page}
+# Personalizar la Vista móvil para su Página de aterrizaje de forma libre {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -31,13 +31,13 @@ La vista móvil de la página de aterrizaje de forma libre es principalmente aut
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Haga clic en la ficha **Móvil** .
+1. Haga clic en la ficha **Móvil**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Vista móvil vs. de escritorio {#mobile-vs-desktop-view}
 
-En Elementos de página, verá un icono ![](assets/image2015-1-22-18-3a39-3a53.png) (de escritorio) y un icono ![](assets/image2015-1-22-18-3a40-3a31.png) (móvil). Esto le permite mostrar u ocultar distintos elementos de forma dinámica.
+En Elementos de página, verá un icono ![](assets/image2015-1-22-18-3a39-3a53.png) (escritorio) y un icono ![](assets/image2015-1-22-18-3a40-3a31.png) (móvil). Esto le permite mostrar u ocultar distintos elementos de forma dinámica.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -86,15 +86,15 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 >[!TIP]
 >
->La vista móvil también puede tener una disposición diferente de elementos de página. Mueva las cosas por la página de aterrizaje de forma libre o reordene los objetos enumerados en Elementos de **página** mediante la función de arrastrar y soltar.
+>La vista móvil también puede tener una disposición diferente de elementos de página. Mueva las cosas por la página de aterrizaje de forma libre o reordene los objetos enumerados en **Elementos de página** con la función de arrastrar y soltar.
 
 ## Vista móvil de previsualización {#preview-mobile-view}
 
-1. Haga clic en Borrador **de** Previsualización.
+1. Haga clic en **Borrador de Previsualización**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. ¿Quieres ver algo genial? Seleccione **En paralelo**.
+1. ¿Quieres ver algo genial? Seleccione **Lado a Lado**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
