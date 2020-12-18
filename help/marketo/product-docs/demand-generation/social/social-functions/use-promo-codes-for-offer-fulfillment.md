@@ -17,7 +17,7 @@ Al crear una oferta de referencia o una apuesta, puede enviar un código de prom
 
 ## Cargar códigos de promoción {#upload-promo-codes}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,11 +25,11 @@ Al crear una oferta de referencia o una apuesta, puede enviar un código de prom
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. En el editor de ofertas de referencia, vaya a Configuración **de aplicación** y, a continuación, Detalles de **Oferta.**
+1. En el editor de ofertas de referencia, vaya a **Configuración de la aplicación** y luego **Detalles de la Oferta.**
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. En Correo electrónico, seleccione **Usar códigos** de promoción y, en Códigos de carga, haga clic en **Examinar** para seleccionar el archivo de códigos de promoción del sistema.
+1. En Correos electrónicos, seleccione **Usar códigos de promoción** y, en Códigos de carga, haga clic en **Examinar** para seleccionar el archivo de códigos de promoción del sistema.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -52,16 +52,16 @@ Una vez que los participantes inicios en ganar la recompensa de su oferta, puede
 
 >[!NOTE]
 >
->Solo los usuarios de Marketing Cloud con permiso de *Access Awards* tienen acceso a esta información. Consulte [Administración de funciones y permisos](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)de usuario.
+>Solo los usuarios de Marketing Cloud con permiso *Access Awards* tienen acceso a esta información. Consulte [Administración de roles y permisos de usuario](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione la oferta o apuestas de referencia y haga clic en la ficha **Participantes** .
+1. Seleccione la oferta o apuestas de referencia y haga clic en la ficha **Participantes**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Aquí debería ver algunas entradas. Haga clic en el número de la columna Códigos **** de promoción para ver los códigos de promoción que se enviaron a ese participante y cuándo.
+1. Aquí debería ver algunas entradas. Haga clic en el número de la columna **Códigos de promoción** para ver los códigos de promoción que se enviaron a ese participante y cuándo.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)
