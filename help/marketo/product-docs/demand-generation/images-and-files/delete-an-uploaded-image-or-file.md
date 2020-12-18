@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Eliminar una imagen o archivo cargado {#delete-an-uploaded-image-or-file}
 
-1. Vaya a **Design** **Studio**.
+1. Vaya al **Diseño** **Estudio**.
 
    ![](assets/designstudio-5.png)
 
-1. Seleccione **Imágenes** y **archivos** en el menú de la izquierda y, a continuación, haga clic en junto al nombre del archivo que desea eliminar.
+1. Seleccione **Imágenes** y **Archivos** en el menú de la izquierda, luego haga clic en junto al nombre del archivo que desee eliminar.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Las imágenes y los archivos eliminados se eliminan completamente de Marketing y no se pueden recuperar.  Ya no se mostrarán en ninguna página de aterrizaje o correo electrónico en los que estuvieran en uso.
 
-1. Volverá a la página **Imágenes** y **Archivos** , donde verá que se ha eliminado el archivo.
+1. Volverá a la página **Images** y **Files**, donde verá que se eliminó el archivo.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
