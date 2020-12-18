@@ -25,7 +25,7 @@ Primero, necesitarás dividir a tu gente en subgrupos. Esto se denomina [segment
 >
 >**Definición**
 >
->La segmentación categoriza la audiencia en diferentes subgrupos en función de una [listruación](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)inteligente. Estos grupos se denominan segmentos.
+>La segmentación categoriza la audiencia en diferentes subgrupos según una regla [de Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Estos grupos se denominan segmentos.
 
 Por ejemplo: si tenemos una segmentación denominada Industria, algunos de los segmentos podrían ser: Salud, tecnología, finanzas, bienes de consumo, etc.   ![](assets/artboard-2.png)
 
@@ -35,9 +35,9 @@ Una vez que haya creado diferentes segmentos, puede agregar bloques de contenido
 
 ![](assets/artboard-3.png)
 
-## Recortes {#snippets}
+## Fragmentos {#snippets}
 
-[Los fragmentos](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) son una herramienta útil en Marketing. Cree una vez y utilícela en varios lugares. Si actualiza el fragmento, todos los recursos (páginas de aterrizaje o correos electrónicos) que utilicen el fragmento se actualizarán automáticamente.
+[Los ](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) recortes son una herramienta útil en Marketing. Cree una vez y utilícela en varios lugares. Si actualiza el fragmento, todos los recursos (páginas de aterrizaje o correos electrónicos) que utilicen el fragmento se actualizarán automáticamente.
 
 >[!NOTE]
 >
