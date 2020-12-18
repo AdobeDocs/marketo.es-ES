@@ -51,13 +51,13 @@ Supongamos que está lanzando un nuevo libro, puede llegar a parte de su audienc
    >
    >Deberá utilizar una cuenta que tenga permisos de administrador para la página de Facebook en la que desee publicar la página de aterrizaje de marketing.
 
-1. Seleccione la página **de** Facebook en la que desee publicar la página de aterrizaje e introduzca el nombre por el que debe aparecer la página de aterrizaje de marketing.
+1. Seleccione la **Página de Facebook** donde desee publicar la página de aterrizaje e introduzca el nombre por el cual debe aparecer la página de aterrizaje de marketing.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Para reemplazar páginas de aterrizaje de marketing que ya ha publicado en Facebook, seleccione **Reemplazar ficha** existente y elija la ficha que desea reemplazar en la lista desplegable. Tenga en cuenta que esto no reemplazará a las fichas que no sean de marketing.
+   >Para reemplazar páginas de aterrizaje de marketing que ya ha publicado en Facebook, seleccione **Reemplazar ficha existente** y elija la ficha que desea reemplazar en la lista desplegable. Tenga en cuenta que esto no reemplazará a las fichas que no sean de marketing.
 
 1. Los posibles clientes ahora pueden visitar su página de aterrizaje directamente en la página de Facebook. Haga clic en el nombre de la ficha debajo de la imagen de portada.
 
