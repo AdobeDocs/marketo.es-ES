@@ -27,7 +27,7 @@ Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y conte
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. En el editor de páginas de aterrizaje, arrastre el ratón sobre el elemento **Fragmento** .
+1. En el editor de páginas de aterrizaje, arrastre el ratón sobre el elemento **Fragmento**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -41,6 +41,6 @@ Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y conte
 
    >[!NOTE]
    >
-   >Si desea añadir un fragmento a una Página de aterrizaje guiada, consulte [este artículo](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
+   >Si desea agregar un fragmento a una Página de aterrizaje guiada, consulte [este artículo](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template).
 
 ¡Buen trabajo! Ahora ya sabes cómo agregar fragmentos a tus páginas de aterrizaje.
