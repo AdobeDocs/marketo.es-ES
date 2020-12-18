@@ -27,7 +27,7 @@ Los fragmentos son bloques de contenido dinámico que cambian según las reglas 
 
    ![](assets/designstudio-3.png)
 
-1. Haga clic en el fragmento de código y, a continuación, en Fragmento de **Previsualización**.
+1. Haga clic en el fragmento y, a continuación, **Fragmento de Previsualización**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
