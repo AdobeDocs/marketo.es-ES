@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437559
-description: Plantilla 11-F - Documentos de marketing - Documentación del producto
+description: Plantilla 11-B - Documentos de marketing - Documentación del producto
 title: Plantilla 11-B
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
