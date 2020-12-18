@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/designstudio-4.png)
 
-1. Haga clic en **Imágenes** **y** Archivos **** en el menú de la izquierda y, a continuación, seleccione el archivo para el que desea la dirección URL.
+1. Haga clic en **Imágenes** **y** **Archivos** en el menú de la izquierda y, a continuación, seleccione el archivo para el que desea la dirección URL.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. La **dirección URL** se muestra en la página de detalles. Haga clic con el botón secundario en la **dirección URL** y haga clic en **Copiar** en el menú que aparece.
+1. La **URL** se muestra en la página de detalles. Haga clic con el botón secundario en la **URL** y haga clic en **Copiar** en el menú que aparece.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
