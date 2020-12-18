@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 A continuación se muestra cómo configurar el contenido predictivo para los correos electrónicos.
 
 >[!PREREQUISITES]
 >
->El contenido debe estar [aprobado para el contenido](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) predictivo en la página Todo el contenido.
+>El contenido debe [aprobarse para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
 
 1. En la página Contenido predictivo, haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Se abre la página de edición. **El correo electrónico** se muestra de forma predeterminada.
+1. Se abre la página de edición. **De forma predeterminada,** se muestran correos electrónicos.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -74,4 +74,4 @@ A continuación se muestra cómo configurar el contenido predictivo para los cor
 
    >[!NOTE]
    >
-   >En el Editor de correo electrónico de marketing v2.0, también puede [vista de las plantillas](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) de diseño que utilice mientras activa el contenido.
+   >En el Editor de correo electrónico de marketing v2.0, también puede [vista de las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que utiliza mientras activa el contenido.
