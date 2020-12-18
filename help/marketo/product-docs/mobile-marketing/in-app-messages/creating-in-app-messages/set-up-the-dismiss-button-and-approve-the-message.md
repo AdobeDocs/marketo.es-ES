@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Configuración del botón Rechazar y aprobación del mensaje {#set-up-the-dismiss-button-and-approve-the-message}
+# Configure el botón Descartar y apruebe el mensaje {#set-up-the-dismiss-button-and-approve-the-message}
 
-## Configuración de las propiedades del botón Rechazar  {#configure-dismiss-button-properties}
+## Configurar las propiedades del botón de anulación {#configure-dismiss-button-properties}
 
 El botón Rechazar tiene muchas opciones para permitirle configurarlo como desee.
 
@@ -49,7 +49,7 @@ El botón Rechazar tiene muchas opciones para permitirle configurarlo como desee
 
 Todas las selecciones de gráficos, texto y botones se guardaron automáticamente. Ahora, estás listo para terminar el trabajo.
 
-1. Para previsualización del mensaje en la aplicación, haga clic en la lista desplegable Acciones **de** mensaje y seleccione **Previsualización**.
+1. Para previsualización del mensaje en la aplicación, haga clic en la lista desplegable **Acciones de mensaje** y seleccione **Previsualización**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Todas las selecciones de gráficos, texto y botones se guardaron automáticament
 
    >[!NOTE]
    >
-   >También puede seleccionar **Aprobar y cerrar** directamente en la lista desplegable Acciones de mensajes (consulte el paso 1), pero ¿por qué no realizar la previsualización del mensaje primero, sólo para estar seguros?
+   >También puede seleccionar **Aprobar y cerrar** directamente en la lista desplegable Acciones de mensajes (consulte el paso 1), pero ¿por qué no previsualización el mensaje primero, sólo para estar a salvo?
 
 1. Para cerrar el editor sin aprobarlo, simplemente cierre la ficha. Se guarda automáticamente para que pueda volver y aprobarlo más tarde.
 
@@ -71,7 +71,7 @@ Todas las selecciones de gráficos, texto y botones se guardaron automáticament
 
 Tantas opciones, pero ahora tienes un bueno mensaje en la aplicación, ¡listo para continuar!
 
-Ahora es el momento de [enviar tu mensaje](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Ahora es el momento de [enviar su mensaje](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
