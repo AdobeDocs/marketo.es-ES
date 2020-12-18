@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Configurar el flujo de progreso del seguimiento para una Oferta de referencia {#configure-track-progress-flow-for-a-referral-offer}
 
-Al [crear una oferta](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de referencia, puede configurar las indicaciones que muestran a los participantes su progreso hacia la recompensa.
+Cuando [crea una oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede configurar las indicaciones que muestran a los participantes su progreso hacia la recompensa.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,11 +23,11 @@ Al [crear una oferta](../../../../product-docs/demand-generation/social/referral
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. En el editor de ofertas de referencia, vaya a **Seguimiento del flujo** de progreso > Redes **** sociales.
+1. En el editor de ofertas de referencia, vaya a **Seguimiento del flujo de progreso** > **Redes sociales**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. En la ventana **Vista** **&amp;** **Editar** , edite el mensaje que recuerda a los participantes que inicien sesión en la misma red social que utilizaron para registrarse en la oferta.
+1. En la ventana **Vista** **&amp;** **Editar**, edite el mensaje que recuerda a los participantes que inicien sesión en la misma red social que utilizaron para registrarse en la oferta.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,5 @@ Al [crear una oferta](../../../../product-docs/demand-generation/social/referral
 
 >[!MORELIKETHIS]
 >
->A continuación, haga clic en **Finalizar > Aprobar y cerrar** y [publique la oferta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)de referencia.
+>A continuación, haga clic en **Finalizar > Aprobar y cerrar** y [publicar su oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
 
