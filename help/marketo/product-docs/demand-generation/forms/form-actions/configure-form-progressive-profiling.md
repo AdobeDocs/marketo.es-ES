@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Configurar la creación progresiva de perfiles de formulario {#configure-form-progressive-profiling}
+# Configurar la generación progresiva de perfiles de formulario {#configure-form-progressive-profiling}
 
 ¡Los formularios cortos son buenos! Cuando alguien regresa a un formulario, puede presentar nuevos campos y rellenar progresivamente el perfil del visitante. Así es como.
 
 >[!NOTE]
 >
->Para que esta función funcione correctamente, asegúrese de que Prerellenar el formulario está habilitado para los campos visibles y [desactivado](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) para los campos ocultos.
+>Para que esta función funcione correctamente, asegúrese de que Prerellenar el formulario está habilitado para los campos visibles y [deshabilitado](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) para los campos ocultos.
 
 1. Vaya a **Marketing** **Actividades**.
 
    ![](assets/ma-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. En **Configuración** de **formulario**, haga clic en **Configuración**.
+1. En **Formulario** **Configuración**, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Bien, ahora configúrelo. Vaya a **Field** **Details**.
+1. Bien, ahora configúrelo. Vaya a **Campo** **Detalles**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Arrastre y suelte todos los campos que forman parte del conjunto de perfiles progresivos.
@@ -47,9 +47,9 @@ Arrastre y suelte todos los campos que forman parte del conjunto de perfiles pro
 
    >[!NOTE]
    >
-   >Los campos fuera del cuadro **Perfiles** progresivos **** siempre se mostrarán en el formulario, aunque se hayan rellenado.
+   >Los campos fuera del cuadro **Progresivo** **Perfiles** siempre se mostrarán en el formulario, aunque se hayan rellenado.
 
-1. Seleccione el cuadro **Perfiles** progresivos **** .
+1. Seleccione la casilla **Progresivo** **Perfiles**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Arrastre y suelte todos los campos que forman parte del conjunto de perfiles pro
    >
    >Tenga cuidado al usar los campos obligatorios en Perfiles progresivos. Estos campos podrían quedar en blanco si el visitante introduce una nueva dirección de correo electrónico (que crearía una nueva persona) después de haber enviado previamente datos para los demás campos, ya que se suprimirían en el formulario más reciente.
 
-1. Ahora elija cuántos campos en blanco desea que vean las personas en el cuadro **Perfiles** progresivos **en un momento dado** .
+1. Ahora elija cuántos campos en blanco desea que vean las personas en el cuadro **Progresivo** **Perfiles** en un momento dado.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Arrastre y suelte todos los campos que forman parte del conjunto de perfiles pro
    >**Ejemplo**
    >
    >
-   >Si elige **Número** **de** **campos** **en blanco** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
+   >Si elige **Número** **de** **Campo en blanco** **Campos** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
    >
    >    
    >    
