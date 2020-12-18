@@ -19,15 +19,15 @@ Al trabajar con formularios internacionales, querrá mostrar las fechas y horas 
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. En **Configuración** de **formulario**, haga clic en **Configuración**.
+1. En **Formulario** **Configuración**, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Seleccione la **configuración regional** que desee.
+1. Seleccione la **configuración regional** de su elección.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
@@ -48,7 +48,7 @@ Al trabajar con formularios internacionales, querrá mostrar las fechas y horas 
    >**Recordatorio**
    >
    >
-   >Recuerde [aprobar el borrador](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de página de aterrizaje creado por los cambios del formulario.
+   >Recuerde [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
 
 1. 
 1. ¡Eso es eso! Las personas pueden ver la fecha y hora que se muestra en la configuración regional correcta.
