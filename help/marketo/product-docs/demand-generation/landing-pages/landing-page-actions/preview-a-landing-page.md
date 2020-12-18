@@ -35,13 +35,13 @@ Probablemente quieras ver cómo se ve tu página de aterrizaje antes de hacerla 
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
-## Previsualización de un borrador de Página de aterrizaje durante la edición {#preview-a-landing-page-draft-while-editing}
+## Previsualización de un borrador de Página de aterrizaje al editar {#preview-a-landing-page-draft-while-editing}
 
-1. Seleccione una página de aterrizaje y haga clic en **Editar** **borrador**.
+1. Seleccione una página de aterrizaje y haga clic en **Editar** **Borrador**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. En cualquier momento del trabajo en el editor de páginas de aterrizaje, puede hacer clic en Borrador de **Previsualizaciones.**
+1. En cualquier momento del trabajo en el editor de páginas de aterrizaje, puede hacer clic en **Borrador de Previsualizaciones.**
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
