@@ -23,7 +23,7 @@ Puede editar cualquier plantilla de página de aterrizaje dentro de Marketing.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Seleccione la **plantilla** que desee editar. Haga clic en** Editar borrador*.
+1. Seleccione la **Plantilla** que desee editar. Haga clic en** Editar borrador*.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
