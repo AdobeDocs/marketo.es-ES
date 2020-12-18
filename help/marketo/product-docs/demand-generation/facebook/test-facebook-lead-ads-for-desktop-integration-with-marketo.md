@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Probar las publicidades de posible cliente de Facebook para la integración de escritorio con Marketing {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Probar las publicidades de posible cliente de Facebook para la integración de escritorio con el producto de marketing {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Después de crear la publicidad de posibles clientes, debe probarla. Así es como hacerlo en su escritorio.
 
 >[!PREREQUISITES]
 >
->Debe [configurar la integración](set-up-facebook-lead-ads.md)de publicidades de posibles clientes de Facebook.
+>Debe [configurar la integración de publicidades de posibles clientes de Facebook](set-up-facebook-lead-ads.md).
 
 1. En el Editor de energía de Facebook, seleccione una campaña, una publicidad y haga clic en **Editar**.
-1. En **Vínculos**, haga clic en el vínculo **Vista en Fuente** de noticias.
+1. En **Vínculos**, haga clic en el vínculo **Vista en fuente de noticias**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -40,7 +40,7 @@ Después de crear la publicidad de posibles clientes, debe probarla. Así es com
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. ¡Aquí es donde sucede la magia! Una vez que haya enviado el formulario, [cree una lista inteligente en Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que utiliza el filtro Formulario de anuncios de posibles clientes de Facebook rellenado. Inserte el nombre del formulario de publicidad de posibles clientes del formulario que acaba de enviar.
+1. ¡Aquí es donde sucede la magia! Una vez que haya enviado el formulario, [genere una lista inteligente en Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos que utiliza el filtro Formulario de posibles clientes de Facebook rellenado. Inserte el nombre del formulario de publicidad de posibles clientes del formulario que acaba de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
