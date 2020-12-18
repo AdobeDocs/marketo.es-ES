@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Introducción {#introduction}
 
-Para los nuevos clientes de Marketing to, la personalización en tiempo real se divide en cuatro aplicaciones, a las que se accede mediante estos dos mosaicos: Personalización web y contenido`<sup>AI</sup>`.
+Para los nuevos clientes de Marketing to, la personalización en tiempo real se divide en cuatro aplicaciones, a las que se accede mediante estos dos mosaicos: Personalización y contenido web`<sup>AI</sup>`.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->El contenido`<sup>AI</sup>` y la personalización de la Web están disponibles en todos los idiomas admitidos en el mercado (inglés, francés, alemán, japonés, portugués, español).
+>El contenido y la personalización web`<sup>AI</sup>` están disponibles en todos los idiomas compatibles con el marketing (inglés, francés, alemán, japonés, portugués, español).
 
 Los clientes existentes siguen accediendo a las aplicaciones a través del mosaico de Personalización en tiempo real hasta la renovación, momento en el que utilizarán el inicio de sesión anterior.
 
@@ -36,13 +36,13 @@ Las cuatro aplicaciones son:
 * Resegmentación de sitios web
 * Contenido`<sup>AI</sup>`
 
-El **mosaico de Personalización web** es el punto de acceso para** **crear campañas web personalizadas.** **Mercadotecnia Web basada en cuentas y redireccionamiento Web. Puede agregar contenido en la página Análisis de contenido.
+El mosaico de Personalización web** **es el punto de acceso para** **crear campañas web personalizadas.** **Mercadotecnia Web basada en cuentas y redireccionamiento Web. Puede agregar contenido en la página Análisis de contenido.
 
-**El marketing** web basado en cuentas funciona con la personalización web y con las cuentas con nombre. La página Cuentas con Nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
+**La** mercadotecnia web basada en cuentas funciona con la personalización web y las funciones de cuentas con nombre. La página Cuentas con Nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
 
-**El redireccionamiento** de sitios web le da la capacidad de remercadotecnia a audiencias segmentadas. Puede definir segmentos, pero no puede utilizar Cuentas con nombre en el filtro.
+**La** resegmentación de sitios web le da el poder de remercadotecnia a audiencias segmentadas. Puede definir segmentos, pero no puede utilizar Cuentas con nombre en el filtro.
 
-**El contenido`<sup>AI</sup>`** es el lugar donde se ofrecen recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
+**`<sup>AI</sup>`** Contiene el lugar donde se ofrecen recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ El panel derecho de la página Organizaciones oferta las siguientes funciones y 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icono</strong>de hoja de cálculo: Situado en la parte superior derecha del panel, el icono descarga la tabla Organizaciones en formato CSV para uso sin conexión</p><p><strong>Establecer alerta</strong>de correo electrónico: Envía al usuario que ha iniciado sesión un correo electrónico cada vez que la organización seleccionada visita el sitio Web</p><p><strong>Posibles clientes</strong>: Abre la tabla de leads de la organización seleccionada</p><p><strong>Compartir</strong>: Abre una ventana emergente para enviar por correo electrónico y compartir los detalles de la organización que visitó la página web</p><p><strong>Icono</strong>de ubicación: Muestra el país y la ciudad de la organización seleccionada</p><p><strong>Vínculos</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre una nueva ventana con información adicional de la página web respectiva que ofrece una perspectiva adicional sobre la organización seleccionada</p><p><strong>Buscar</strong>: Muestra la palabra clave utilizada si el visitante llegó a través de un motor de búsqueda</p><p><strong>Remitentes del reenvío</strong>: Muestra el vínculo de la dirección URL de la página que dirigió el tráfico a su sitio</p><p><strong>Visitantes</strong>: Muestra el número de visitas, el número de páginas vistas por la organización seleccionada y su dirección de correo electrónico (si completó un formulario de envío), así como la hora y la fecha de la última visita</p><p><strong>Clickstream</strong>: Muestra una tabla de la actividad del usuario y la ruta de URL en el sitio y el tiempo que han visitado cada página</p></td> 
+   <td><p><strong>Icono</strong> de hoja de cálculo: Situado en la parte superior derecha del panel, el icono descarga la tabla Organizaciones en formato CSV para uso sin conexión</p><p><strong>Establecer alerta</strong> de correo electrónico: Envía al usuario que ha iniciado sesión un correo electrónico cada vez que la organización seleccionada visita el sitio Web</p><p><strong>Posibles clientes</strong>: Abre la tabla de leads de la organización seleccionada</p><p><strong>Compartir</strong>: Abre una ventana emergente para enviar por correo electrónico y compartir los detalles de la organización que visitó la página web</p><p><strong>Icono</strong> de ubicación: Muestra el país y la ciudad de la organización seleccionada</p><p><strong>Vínculos</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre una nueva ventana con información adicional de la página web respectiva que ofrece una perspectiva adicional sobre la organización seleccionada</p><p><strong>Buscar</strong>: Muestra la palabra clave utilizada si el visitante llegó a través de un motor de búsqueda</p><p><strong>Remitentes del reenvío</strong>: Muestra el vínculo de la dirección URL de la página que dirigió el tráfico a su sitio</p><p><strong>Visitantes</strong>: Muestra el número de visitas, el número de páginas vistas por la organización seleccionada y su dirección de correo electrónico (si completó un formulario de envío), así como la hora y la fecha de la última visita</p><p><strong>Clickstream</strong>: Muestra una tabla de la actividad del usuario y la ruta de URL en el sitio y el tiempo que han visitado cada página</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
