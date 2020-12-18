@@ -19,15 +19,15 @@ Así es como crear un mensaje SMS de Vibes.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Haga clic en **Nuevo recurso** local.
+1. Haga clic en **Nuevo recurso local**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >También puede hacer clic en la lista desplegable **Nueva** .
+   >También puede hacer clic en la lista desplegable **Nuevo**.
 
-1. Haga clic en Mensaje **** SMS.
+1. Haga clic en **Mensaje SMS**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -67,7 +67,7 @@ Así es como crear un mensaje SMS de Vibes.
    >
    >Los dos vínculos de seguimiento están seleccionados de forma predeterminada.
 
-1. Si desea utilizar una URL externa en su lugar, haga clic en el botón URL **externa** e introduzca la URL en el campo URL. Haga clic en **Insertar**.
+1. Si desea utilizar una URL externa en su lugar, haga clic en el botón **URL externa** e introduzca la URL en el campo URL. Haga clic en **Insertar**.
 
    ![](assets/insert-link-url-hands.jpg)
 
