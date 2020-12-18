@@ -19,11 +19,11 @@ Si ya no necesita un campo en el formulario, puede eliminarlo fácilmente. Así 
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Seleccione el campo y haga clic en el icono **Eliminar** .
+1. Seleccione el campo y haga clic en el icono **eliminar**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Haga clic en Finalizar.
@@ -37,6 +37,6 @@ Haga clic en Finalizar.
 >
 >**Recordatorio**
 >
->No olvide [aprobar el borrador](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de página de aterrizaje creado por los cambios del formulario.
+>No olvide [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios de formulario.
 
 ¿Qué tan difícil crees que sería eliminar un campo?
