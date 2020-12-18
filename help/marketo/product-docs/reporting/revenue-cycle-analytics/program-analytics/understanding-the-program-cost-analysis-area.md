@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Explicación del área de Análisis de Costes de Programa {#understanding-the-program-cost-analysis-area}
+# Explicación del área de Análisis de costos de Programa {#understanding-the-program-cost-analysis-area}
 
 El área de Análisis de Costes de Programa permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal durante un período de tiempo determinado.
 
