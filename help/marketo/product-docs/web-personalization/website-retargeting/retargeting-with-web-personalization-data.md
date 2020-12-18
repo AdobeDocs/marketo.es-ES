@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Disponibilidad**
 >
->El redireccionamiento de sitios web ahora se encuentra en el mosaico Personalización web. Si solo compró Retargeting, verá este mosaico y accederá al producto de Personalización web con **solo** las funciones de redireccionamiento habilitadas. Esto le permite acceder a la configuración de la cuenta, la página de redireccionamiento, los segmentos y las páginas de seguimiento adicionales.
+>El redireccionamiento de sitios web ahora se encuentra en el mosaico Personalización web. Si solo compró Retargeting, verá este mosaico y accederá al producto de Personalización web con **sólo** características de redireccionamiento habilitadas. Esto le permite acceder a la configuración de la cuenta, la página de redireccionamiento, los segmentos y las páginas de seguimiento adicionales.
 
 Destinatarios de remercadotecnia clientes potenciales que han visitado su sitio en el pasado con anuncios en pantalla basados en quiénes son y qué han hecho. La reorientación personalizada destinatario audiencias específicas con anuncios relevantes basados en el sector, cuentas con nombre y datos de personas conocidas.
 
@@ -79,11 +79,11 @@ Personalización web envía los siguientes datos a las plataformas de remercadot
 
    >[!NOTE]
    >
-   >Debe tener [Facebook Custom Audiencia](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixelinstall en el sitio web para que esta función funcione.
+   >Debe tener [Píxel de Audiencia personalizada de Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)instalado el sitio web para que esta función funcione.
 
    ![](assets/three.png)
 
-## Creación de Audiencias segmentadas {#creating-segmented-audience}
+## Creación de Audiencia segmentada {#creating-segmented-audience}
 
 Una Audiencia segmentada le permite seleccionar un segmento existente como audiencia para usar para volver a segmentar campañas. Por ejemplo, si selecciona los segmentos de Persona conocida.
 
@@ -91,7 +91,7 @@ Una Audiencia segmentada le permite seleccionar un segmento existente como audie
 >
 >No es necesario crear una Audiencia segmentada para datos del sector u otros datos que ya se han enviado en la Configuración de dominio. Es mejor utilizar Audiencias segmentadas para segmentos basados en datos de personas conocidas.
 
-1. Haga clic en **Crear Audiencia** segmentada.
+1. Haga clic en **Crear Audiencia segmentada**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
