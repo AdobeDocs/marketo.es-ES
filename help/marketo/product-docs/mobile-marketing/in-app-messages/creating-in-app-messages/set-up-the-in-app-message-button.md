@@ -19,7 +19,7 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Para cambiar el color del botón estándar, haga clic en el botón **Color** .
+1. Para cambiar el color del botón estándar, haga clic en el botón **Color**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,7 +31,7 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Si desea utilizar su propia imagen para un botón, haga clic en el botón Imagen y en **Seleccionar imagen**.
+1. Si desea utilizar su propia imagen para un botón, haga clic en el botón Imagen y haga clic en **Seleccionar imagen**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
