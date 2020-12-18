@@ -25,7 +25,7 @@ Las ofertas de remisión dan a la gente un incentivo para referirse a sus amigos
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. En la Galería de recursos **locales,** haga clic en Oferta **de referencia.**
+1. En la **Galería de recursos local,** haga clic en **Oferta de referencia.**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -35,31 +35,31 @@ Las ofertas de remisión dan a la gente un incentivo para referirse a sus amigos
 
    >[!TIP]
    >
-   >Para ahorrar tiempo, puede utilizar la opción **Clonar desde** para copiar toda la configuración de una oferta de referencia existente.
+   >Para ahorrar tiempo, puede utilizar la opción **Clonar de** para copiar toda la configuración de una oferta de referencia existente.
 
    El editor de ofertas de referencia se abre en una ventana nueva. La configuración predeterminada es correcta, pero debe agregar un vínculo a las reglas de la oferta (términos y condiciones). El vínculo aparecerá en la parte inferior de las pantallas de mensajes compartidos. Le mostraremos cómo hacerlo en el próximo paso.
 
-1. Haga clic en Opciones **avanzadas.**
+1. Haga clic en **Opciones avanzadas.**
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Añada un vínculo a las reglas de su oferta. Introduzca la **dirección URL.**
+1. Añada un vínculo a las reglas de su oferta. Escriba la **dirección URL.**
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >En esta pantalla, también puede agregar un vínculo de política de privacidad. Consulte [Añadir su política de privacidad en una aplicación](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)social.
+   >En esta pantalla, también puede agregar un vínculo de política de privacidad. Consulte [Añadir su política de privacidad en una aplicación social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Haga clic en **Finalizar.**
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Haga clic en **Aprobar** **y** cerrar **.**
+1. Haga clic en **Aprobar** **y** **Cerrar.**
 
    >[!TIP]
    >
-   >Para cambiar cualquiera de los valores predeterminados de la oferta de referencia, haga clic en **Atrás**. Para guardar el trabajo más tarde sin aprobarlo, haga clic en **Cerrar.**
+   >Para cambiar cualquiera de los valores predeterminados de la oferta de referencia, haga clic en **Atrás**. Para guardar el trabajo para después sin aprobarlo, haga clic en **Cerrar.**
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -69,7 +69,7 @@ Si hay algún problema en la oferta de referencia, se le pedirá que lo aborde a
 
 >[!MORELIKETHIS]
 >
->El siguiente paso es [publicar la oferta](publish-a-referral-offer.md) de referencia en una página de aterrizaje, en el sitio web o en Facebook.
+>El siguiente paso es [publicar la oferta de referencia](publish-a-referral-offer.md) en una página de aterrizaje, en su sitio web o en Facebook.
 
 >[!NOTE]
 >
