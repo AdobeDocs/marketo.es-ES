@@ -28,19 +28,19 @@ El contenido predictivo atrae a los visitantes web con el contenido más relevan
 
 Una vez que haya preparado el título, la descripción y la imagen del contenido para los medios enriquecidos, puede activar fragmentos de contenido individuales o múltiples.
 
-1. Para habilitar un título individual, haga clic en un título para abrir el editor. Haga clic en Medios enriquecidos, luego marque la casilla **Habilitado para contenido predictivo en medios** enriquecidos y haga clic en **Guardar**.
+1. Para habilitar un título individual, haga clic en un título para abrir el editor. Haga clic en Medios enriquecidos, luego marque la casilla **Habilitado para contenido predictivo en medios enriquecidos** y haga clic en **Guardar**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Para varios fragmentos de contenido, en la página Contenido **** predictivo, marque las casillas situadas junto a los títulos.
+1. Para varios fragmentos de contenido, en la página **Contenido predictivo**, marque las casillas junto a los títulos.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Haga clic en la lista desplegable Acciones **de** contenido y seleccione **Habilitar para medios** enriquecidos en la Web.
+1. Haga clic en la lista desplegable **Acciones de contenido** y seleccione **Habilitar para medios enriquecidos en Web**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## Personalización del código Javascript e incrustación en el sitio web  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## Personalice el código Javascript e introdúzcalo en su sitio Web {#customize-the-javascript-code-and-embed-it-into-your-website}
 
 Consulte la documentación de la plantilla de recomendación de medios enriquecidos [en el sitio Desarrolladores de marketing.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Esto explica cómo personalizar la plantilla para el sitio web.
 
