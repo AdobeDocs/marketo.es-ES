@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir la coincidencia de clientes de Google como un servicio de LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
+# Añadir la coincidencia de clientes con Google como un servicio de LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
 Con esta integración, puede enviar una audiencia de marketing a Google para que sea el objetivo mediante Google AdWords, así como también audiencias de redestinatario en YouTube, Search y Gmail.
 
@@ -31,7 +31,7 @@ Con esta integración, puede enviar una audiencia de marketing a Google para que
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Introduzca un **Nombre para mostrar **y seleccione** Coincidencia de clientes de Google **en la lista desplegable **Servicio** . Haga clic en **Crear**.
+1. Escriba un **Nombre para mostrar **y seleccione** Coincidencia de cliente de Google **en la lista desplegable **Servicio**. Haga clic en **Crear**.
 
    ![](assets/chooseservice.png)
 
