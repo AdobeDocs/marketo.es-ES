@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivar una Campaña Web {#archive-a-web-campaign}
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/one.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Las campañas web archivadas no se mostrarán en el filtro predeterminado. Para verlos, haga clic en el icono Filtro y debajo de **Estado**, seleccione la casilla de verificación **Archivado** y haga clic en **Aplicar**.
+   >Las campañas web archivadas no se mostrarán en el filtro predeterminado. Para verlos, haga clic en el icono Filtro y, en **Estado**, seleccione la casilla **Archivado** y haga clic en **Aplicar**.
 
 >[!MORELIKETHIS]
 >
