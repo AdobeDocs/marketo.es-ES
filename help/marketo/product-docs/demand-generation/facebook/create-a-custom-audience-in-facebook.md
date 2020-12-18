@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añada Audiencias personalizadas de Facebook como un servicio](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint en la sección Administración.
->* [Acepte los términos](https://www.facebook.com/ads/manage/customaudiences/tos.php) de Audiencias personalizadas de Facebook en su cuenta de Facebook.
+>* [Añada Audiencias personalizadas de Facebook como un ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) servicio de LaunchPoint en la sección Administración.
+>* [Acepte los ](https://www.facebook.com/ads/manage/customaudiences/tos.php) términos de Audiencias personalizadas de Facebook en su cuenta de Facebook.
 
 >
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Obtenga más información sobre audiencias [personalizadas en Facebook](https://www.facebook.com/help/341425252616329).
+>Obtenga más información sobre [audiencias personalizadas en Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Busque y seleccione la lista inteligente o estática que contiene los leads desde los que desea crear la audiencia.
 
    ![](assets/1.png)
 
-1. Seleccione la ficha **Posibles clientes** y haga clic en el icono **Enviar por puente de publicidad **en la parte inferior.
+1. Seleccione la ficha **Posibles clientes** y haga clic en el icono **Enviar por el puente de publicidad **en la parte inferior.
 
    ![](assets/222.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Escriba un nombre **de Audiencia**. Haga clic en **Actualizar**.
+1. Escriba un **Nombre de Audiencia**. Haga clic en **Actualizar**.
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿Desea intercambiar una nueva audiencia con una existente que esté asociada actualmente a un grupo o conjunto de publicidad? Active la casilla de verificación **Reemplazar una audiencia** existente. Al hacer esto **no se eliminará** la audiencia que se va a reemplazar.
+   >¿Desea intercambiar una nueva audiencia con una existente que esté asociada actualmente a un grupo o conjunto de publicidad? Active la casilla de verificación **Reemplazar una audiencia existente**. Al hacer esto **no** se eliminará la audiencia que se está reemplazando.
 
 1. Cuando termine, se actualizará el cuadro de diálogo de estado.
 
    ![](assets/six.png)
 
-   ¡Y eso es todo! En Facebook verá la nueva audiencia en Administrador de **publicidades > Audiencias**.
+   ¡Y eso es todo! En Facebook verá la nueva audiencia en **Administrador de publicidades > Audiencias**.
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulte la ruta de aprendizaje de [Facebook para clientes](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi)de Marketing to. Abarca todo lo que necesita saber, desde la creación de una página de Facebook hasta el objetivo de las publicidades de Facebook mediante las integraciones de la red de publicidad de Marketing Cloud.
+   >Consulte la [ruta de aprendizaje de Facebook para clientes de Marketing](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Abarca todo lo que necesita saber, desde la creación de una página de Facebook hasta el objetivo de las publicidades de Facebook mediante las integraciones de la red de publicidad de Marketing Cloud.
 
    >[!NOTE]
    >
