@@ -21,7 +21,7 @@ Los campos ocultos suelen rellenarse dinámicamente. No se muestran a la persona
 
 ## Seleccione el campo {#select-the-field}
 
-1. En el formulario, seleccione el campo oculto y haga clic en **Editar** para relleno **automático**.
+1. En el formulario, seleccione el campo oculto y haga clic en **Editar** para **Rellenar automáticamente**.
 
    ![](assets/autofill.png)
 
@@ -37,13 +37,13 @@ Si desea capturar los parámetros de URL (cadenas de Consulta) de la página en 
 
 >[!NOTE]
 >
->Los parámetros son algo técnicos, ¿no es así? Una vez que los consigues, son poderosos. Esta página de [Wikipedia sobre cadenas](http://en.wikipedia.org/wiki/Query_string) de Consulta es de alguna manera útil.
+>Los parámetros son algo técnicos, ¿no es así? Una vez que los consigues, son poderosos. Esta [página de Wikipedia en cadenas de Consulta](http://en.wikipedia.org/wiki/Query_string) es de alguna manera útil.
 
-1. Seleccione Parámetro **** URL para **obtener tipo** de valor.
+1. Seleccione **Parámetro de URL** para **Obtener tipo de valor**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Introduzca el nombre **del** parámetro y haga clic en **Guardar**.
+1. Introduzca el **Nombre de parámetro** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -51,11 +51,11 @@ Si desea capturar los parámetros de URL (cadenas de Consulta) de la página en 
 >
 >Puede introducir un valor predeterminado en caso de que no se encuentre el parámetro de URL.
 
-## Valor de la cookie {#cookie-value}
+## Valor de cookie {#cookie-value}
 
-Si está almacenando datos en cookies, puede utilizar **Cookie** **Value** para recoger datos al enviar el formulario.
+Si está almacenando datos en cookies, puede utilizar **Cookie** **Value** para recoger datos cuando se envíe el formulario.
 
-1. Seleccione **Cookie** **Value** para **Obtener** **valor** **de**.
+1. Seleccione **Cookie** **Valor** para **Obtener** **Valor** **Desde**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -67,21 +67,21 @@ Si está almacenando datos en cookies, puede utilizar **Cookie** **Value** para 
    >
    >Puede introducir un valor predeterminado en caso de que no se encuentre el parámetro o la cookie.
 
-## Parámetro remitente del reenvío {#referrer-parameter}
+## Parámetro de remitente del reenvío {#referrer-parameter}
 
 Si desea capturar datos de la página de la que proviene el visitante antes de rellenar el formulario, puede utilizar **Remitente del reenvío** **Parámetro**.
 
-1. Configure **Get** **Value** **From** to **Remitente del reenvío** **Parameter**.
+1. Establezca **Get** **Valor** **De** a **Remitente del reenvío** **Parámetro**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Introduzca el nombre **del** parámetro que desea extraer de la URL del remitente del reenvío y haga clic en **Guardar**.
+1. Introduzca el **Nombre de parámetro** que desea extraer de la URL de remitente del reenvío y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Puede introducir un **valor** predeterminado **** en caso de que no se encuentre el parámetro de remitente del reenvío.
+   >Puede introducir un **Valor predeterminado** **Valor** en caso de que no se encuentre el parámetro de remitente del reenvío.
 
 1. Haga clic en **Finalizar**.
 
