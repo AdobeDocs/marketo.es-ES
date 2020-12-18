@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aproveche los datos de persona para la personalización web seleccionando los campos de persona que se utilizarán en la segmentación.
 
-1. Vaya a Configuración **de cuenta**.\
+1. Vaya a **Configuración de la cuenta**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
 1. Vaya a **Base de datos**.\
@@ -23,7 +23,7 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
 
 ## Añadir un campo Persona nueva {#adding-a-new-person-field}
 
-1. Seleccione **Campo para agregar** de la lista desplegable para agregar un campo de datos de persona a la lista.
+1. Seleccione **Campo para agregar** en la lista desplegable para agregar un campo de datos de persona a la lista.
 
    ![](assets/add-a-person-field-hand.jpg)
 
