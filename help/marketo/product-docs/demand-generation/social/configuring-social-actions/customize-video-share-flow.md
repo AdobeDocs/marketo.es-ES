@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Personalizar flujo de recursos compartidos de vídeo {#customize-video-share-flow}
+# Personalizar el flujo de recursos compartidos de vídeo {#customize-video-share-flow}
 
-Al [crear un recurso compartido](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)de vídeo, puede personalizar cuándo y dónde aparece el mensaje compartido.
+Al [crear un recurso compartido de vídeo](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), puede personalizar cuándo y dónde aparecerá el mensaje compartido.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Al [crear un recurso compartido](../../../../product-docs/demand-generation/land
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. En el editor de uso compartido de vídeo, vaya a Configuración **de** aplicación > Opciones **avanzadas.**
+1. En el editor de uso compartido de vídeo, vaya a **Configuración de aplicación** > **Opciones avanzadas.**
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,5 +33,5 @@ Al [crear un recurso compartido](../../../../product-docs/demand-generation/land
 
 >[!MORELIKETHIS]
 >
->El siguiente paso es [configurar lo que sucede después de compartir](configure-after-share-prompts.md)vídeo.
+>El siguiente paso es [configurar lo que sucede después de compartir vídeo](configure-after-share-prompts.md).
 
