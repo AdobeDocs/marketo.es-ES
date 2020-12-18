@@ -17,7 +17,7 @@ En Analytics, explore los datos acumulados para el envío y la participación de
 
 ![](assets/emailanalytics-1.jpg)
 
-[El filtrado](filtering-in-email-insights.md) está disponible para ayudarle a explorar en profundidad métricas específicas.
+[El ](filtering-in-email-insights.md) filtrado está disponible para ayudarle a explorar en profundidad métricas específicas.
 
 ![](assets/filter-field.png)
 
@@ -50,7 +50,7 @@ El gráfico muestra los criterios filtrados. Para ocultar uno de sus filtros, ha
 ` ![](assets/chart2.png)  
 `
 
-Si crea un gráfico que desea usar de nuevo, hágalo un gráfico [](email-insights-quick-charts.md)rápido.
+Si crea un gráfico que desea usar nuevamente, hágalo un [gráfico rápido](email-insights-quick-charts.md).
 
 ` ![](assets/quick-chart.png)  
 `
