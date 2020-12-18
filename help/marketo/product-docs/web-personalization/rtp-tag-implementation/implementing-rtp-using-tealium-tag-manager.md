@@ -17,7 +17,7 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Inicie sesión en su cuenta del Administrador de etiquetas de torio.
 1. Vaya a la ficha Etiquetas y agregue la etiqueta de Contenedor personalizado de torio, ubicada en la ficha Misc del mercado de etiquetas.
-1. En el campo Título, introduzca **Marketo RTP** y haga clic en **Finalizar**.
+1. En el campo Título, escriba **RTP de marketing** y haga clic en **Finalizar**.
 1. Guarde los cambios.
 
    >[!NOTE]
@@ -26,7 +26,7 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Una vez guardado el perfil, haga clic en su nombre o dirección de correo electrónico en la esquina superior derecha de la consola de iQ de Tealium.
 1. En el menú Administración, haga clic en **Administrar plantillas** en Administración de cuentas.
-1. Seleccionar Contenedor personalizado **de torio: Marque RTP** desde la lista desplegable para abrir la plantilla Tag.
+1. Seleccione **Contenedor personalizado de tealio: Marque RTP** desde la lista desplegable para abrir la plantilla Tag.
 1. Inicie sesión en su cuenta RTP.
 1. Vaya a Configuración de cuenta.
 
@@ -34,7 +34,7 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
    >
    >Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 11.
 
-1. En Dominio, busque el dominio relevante y haga clic en **Generar etiqueta**.
+1. En Dominio, localice el dominio relevante y haga clic en **Generar etiqueta**.
 1. Copie la etiqueta de JavaScript de RTP y péguela entre el código de la biblioteca de etiquetas de Inicio y el código de la biblioteca de etiquetas final en la plantilla de Perfil de torio.
 
    >[!NOTE]
@@ -45,5 +45,5 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
    >
    >Elimine las etiquetas `<script type='text/javascript'>` y `</script>` del código que coloque en este archivo.
 
-1. **Haga clic en Guardar plantilla** de Perfil y publique el nuevo perfil.
+1. **Haga clic en Guardar** plantilla de Perfil y publique el nuevo perfil.
 
