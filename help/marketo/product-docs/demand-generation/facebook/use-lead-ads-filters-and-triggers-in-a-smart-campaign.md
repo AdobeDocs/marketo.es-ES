@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Usar Filtros y activadores de anuncios de posibles clientes en una Campaña inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# Usar Filtros y activadores de posibles clientes en una Campaña inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
 Cuando habilite Publicidades de posibles clientes de Facebook, puede utilizarlas en sus campañas inteligentes para ver el éxito del programa. Cuando las personas envían su información en una unidad de Publicidad de posibles clientes de Facebook, la información se envía inmediatamente a Marketing.
 
-1. Utilice el filtro **Rellenar formulario** de posibles clientes o el activador.
+1. Utilice el filtro o activador **Rellena el formulario de posibles clientes**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
