@@ -25,15 +25,15 @@ La participación de dispositivos móviles de Marketing Cloud le permite crear, 
 
 ## Paso 1: Administradores y programadores realizan configuraciones iniciales {#step-admin-and-developer-perform-initial-setups}
 
-El administrador de marketing y el desarrollador de aplicaciones móviles trabajan juntos para configurarlo. Consulte [Antes de crear notificaciones push y mensajes](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) en la aplicación para obtener más información.
+El administrador de marketing y el desarrollador de aplicaciones móviles trabajan juntos para configurarlo. Consulte [Antes de crear notificaciones push y mensajes en la aplicación](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) para obtener más información.
 
 ## Paso 2: Crear una notificación push {#step-create-a-push-notification}
 
-[Cree sus mensajes](create-a-push-notification.md) y previsualizaciones de cómo se muestran en dispositivos Android e iOS.
+[Cree sus ](create-a-push-notification.md) mensajes y previsualización en cómo se muestran en dispositivos Android e iOS.
 
 ## Paso 3: ¡Enviar! {#step-send}
 
-[Las notificaciones push se pueden enviar](send-a-mobile-push-notification.md) mediante campañas inteligentes por lotes y desencadenadoras. Muy bien, ¿eh?
+[Las notificaciones push pueden ](send-a-mobile-push-notification.md) enviar campañas inteligentes por lotes y desencadenantes. Muy bien, ¿eh?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
