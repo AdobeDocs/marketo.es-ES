@@ -21,7 +21,7 @@ Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento.
 
 >[!NOTE]
 >
->No se puede incrustar ninguna sintaxis [de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) de marketing en fragmentos de código; **no funcionará** en un mensaje de correo electrónico. Los fragmentos solo deben ser contenido de cuerpo (HTML + TEXTO).
+>No puede incrustar ninguna sintaxis de correo electrónico [de marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos de código; **no** funcionará en un mensaje de correo electrónico. Los fragmentos solo deben ser contenido de cuerpo (HTML + TEXTO).
 
 1. Vaya a **Design Studio.**
 
@@ -35,17 +35,17 @@ Puede agregar tres tipos de contenido a un fragmento.
 
 ## Añadir token {#add-token}
 
-1. Arrastre y suelte el elemento **Token** .
+1. Arrastre y suelte el elemento **Token**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Introduzca **el token** y haga clic en **Insertar**.
+1. Introduzca **Token** y haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Añadir imagen/archivo {#add-image-file}
 
-1. Arrastre y suelte el elemento **Imagen/Archivo** .
+1. Arrastre y suelte el elemento **Imagen/archivo**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -71,7 +71,7 @@ Puede agregar tres tipos de contenido a un fragmento.
    >
    >Utilice las herramientas de formato para personalizar el texto.
 
-1. Para los mensajes de correo electrónico, haga clic en la ficha Versión **** de texto.
+1. Para los correos electrónicos, haga clic en la ficha **Versión de texto**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
