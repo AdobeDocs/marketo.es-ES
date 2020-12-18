@@ -23,7 +23,7 @@ Seleccione la métrica por la que desee realizar la vista del rendimiento. En es
 
 >[!NOTE]
 >
->Obtenga información sobre [primer toque y multitoque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Obtenga información sobre [Primer toque y Multitoque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Elija para qué período desea ver las métricas. En este ejemplo estamos viendo el año actual (año hasta la fecha).   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ El gráfico de barras muestra el rendimiento del programa en todos los canales (
 
 >[!TIP]
 >
->Si desea que las barras del gráfico se escalen a medida que se desplaza por los grupos, seleccione la casilla de verificación **Escalar el eje Y para ajustar** .
+>Si desea que las barras del gráfico se escalen a medida que se desplaza por los grupos, seleccione la casilla **Escalar eje Y para que encaje**.
 
 Pase el ratón sobre una barra para ver más detalles.   ![](assets/seven.png)
 
