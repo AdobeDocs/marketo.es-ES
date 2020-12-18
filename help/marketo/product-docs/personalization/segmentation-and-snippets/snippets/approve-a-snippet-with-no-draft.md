@@ -21,7 +21,7 @@ No se activa el borrador cada vez que se aprueba un fragmento. Esto incluye un f
 
    ![](assets/go-to-design-studio.png)
 
-1. Seleccione un fragmento y, en la lista desplegable Acciones **de** fragmento, elija **Aprobar**.
+1. Seleccione un fragmento y, en la lista desplegable **Acciones de fragmento**, elija **Aprobar**.
 
    ![](assets/approve-snippet.png)
 
