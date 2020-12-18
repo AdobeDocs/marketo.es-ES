@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Crear un Evento con una reunión web de nivel 3 {#create-an-event-with-level-web-meeting}
+# Crear un Evento con una reunión Web de nivel 3 {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
 >* [Añadir una reunión web de nivel 3 como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las acciones de [flujo adecuadas para](https://docs.marketo.com/x/k8Kt)realizar el seguimiento de la participación
+>* Configure las [acciones de flujo adecuadas](https://docs.marketo.com/x/k8Kt)para rastrear la participación
 
 >
 
 
 
-Primero cree su seminario web en el nivel 3. Si necesita ayuda, consulte la biblioteca [de recursos de](http://www.level3.com/en/resource-library/)nivel 3. Encontrarás que es muy similar a BrightTalk.  Marketo utiliza un pequeño subconjunto de campos de Nivel 3:
+Primero cree su seminario web en el nivel 3. Si necesita ayuda, consulte la [Biblioteca de recursos de nivel 3](http://www.level3.com/en/resource-library/). Encontrarás que es muy similar a BrightTalk.  Marketo utiliza un pequeño subconjunto de campos de Nivel 3:
 
 * **Nombre** : el nombre del webcast.
-* **Fecha** de inicio: fecha de inicio del webcast.
-* **Fecha** de finalización: fecha de finalización del webcast.
+* **Fecha**  de inicio: fecha de inicio del webcast.
+* **Fecha**  final: fecha de finalización del webcast.
 * **Huso horario** : el huso horario establecido para el webcast.
-* **Descripción** : la descripción del webcast.
+* **Descripción** : descripción del webcast.
 
-1. Seleccione su nuevo evento. Haga clic en Acciones de **Evento,** luego en Configuración de **Evento.**
+1. Seleccione su nuevo evento. Haga clic en **Acciones de Evento,** y luego **Configuración de Evento.**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. En Socio de Evento, seleccione Reunión **Web de** nivel 3.
+1. En Socio de Evento, seleccione **Reunión Web de nivel 3**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -53,8 +53,8 @@ Primero cree su seminario web en el nivel 3. Si necesita ayuda, consulte la bibl
 
    ¡Muy excelente! ¡Has conectado tu evento al nivel 3!
 
-## Visualización de la programación  {#viewing-the-schedule}
+## Visualización del programa {#viewing-the-schedule}
 
-En la vista [de](http://docs.marketo.com/display/docs/program+schedule+view)calandario del programa, haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
+En la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view), haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
