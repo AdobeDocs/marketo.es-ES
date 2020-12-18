@@ -17,7 +17,7 @@ Cuando se conoce un visitante web (con cookies), los formularios de marketing re
 
 >[!NOTE]
 >
->**El relleno** previo del formulario está habilitado de forma predeterminada. La configuración de relleno previo de nivel de página de aterrizaje y la configuración de relleno previo de nivel de administrador superan la configuración de nivel de formulario:
+>**El** archivo previo del formulario está habilitado de forma predeterminada. La configuración de relleno previo de nivel de página de aterrizaje y la configuración de relleno previo de nivel de administrador superan la configuración de nivel de formulario:
 >
 >Formulario &lt; Página de aterrizaje &lt; Administración
 
@@ -25,7 +25,7 @@ Cuando se conoce un visitante web (con cookies), los formularios de marketing re
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Cuando se conoce un visitante web (con cookies), los formularios de marketing re
    >
    >El relleno previo del formulario no funciona al incrustar un formulario en sus propias páginas. Solo funciona en páginas de aterrizaje de marketing.
 
-1. Seleccione uno de los campos y defina **Formulario** **Precompletado** como **Desactivado** ****.
+1. Seleccione uno de los campos y defina **Formulario** **Previo**-**relleno** como **Deshabilitado**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -55,5 +55,5 @@ Cuando se conoce un visitante web (con cookies), los formularios de marketing re
 >
 >**Buceo profundo**
 >
->¿Desea obtener más información sobre [los formularios](http://docs.marketo.com/display/docs/forms)?
+>¿Desea obtener más información sobre [formularios](http://docs.marketo.com/display/docs/forms)?
 
