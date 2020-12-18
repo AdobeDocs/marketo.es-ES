@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vea cómo incrustar un formulario de marketing en una campaña web (cuadro de diálogo, en zona o utilidad).
 
-1. Haga clic con el botón derecho en un formulario aprobado. Seleccione **Código** incrustado.
+1. Haga clic con el botón derecho en un formulario aprobado. Seleccione **Código incrustado**.
 
    ** ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -25,7 +25,7 @@ Vea cómo incrustar un formulario de marketing en una campaña web (cuadro de di
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. En Personalización web, vaya a Campañas **** web.
+1. En Personalización Web, vaya a **Campañas Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
@@ -80,7 +80,7 @@ Para agregar código CSS a la secuencia de comandos:
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Haga clic en **Previsualización** para ver cómo se procesará en una campaña (el formulario no se mostrará en la vista del editor). A continuación se muestra un ejemplo de cómo se procesa el código de formulario anterior en una campaña con una imagen de fondo.
+1. Haga clic en **Previsualización** para ver cómo se representará en una campaña (el formulario no se mostrará en la vista del editor). A continuación se muestra un ejemplo de cómo se procesa el código de formulario anterior en una campaña con una imagen de fondo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
