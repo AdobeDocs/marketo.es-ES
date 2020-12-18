@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Añadir columnas de oportunidad en un informe de posible cliente {#add-opportunity-columns-to-a-lead-report}
 
-Para ver las estadísticas de las oportunidades en los informes [de](http://docs.marketo.com/display/docs/basic+reporting)persona, puede agregar columnas de oportunidades.
+Para ver las estadísticas de las oportunidades en los [informes de personas](http://docs.marketo.com/display/docs/basic+reporting), puede agregar columnas de oportunidades.
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/ma.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Configuración** .
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Configuración**.
 
    ![](assets/two.png)
 
-1. Doble y haga clic en **Columnas** de oportunidad.
+1. Haga clic con el doble **Columnas de oportunidad**.
 
    ![](assets/three.png)
 
-1. Seleccione **Mostrar** en el menú desplegable.
+1. Seleccione **Mostrado** en el menú desplegable.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
@@ -39,7 +39,7 @@ Para ver las estadísticas de las oportunidades en los informes [de](http://docs
    >
    >Desplácese hacia la derecha para ver más columnas.
 
-1. Para [agregar o eliminar columnas del informe](select-report-columns.md), haga clic en cualquier encabezado de columna y seleccione **Columnas**.
+1. Para [agregar o quitar columnas del informe](select-report-columns.md), haga clic en cualquier encabezado de columna y seleccione **Columnas**.
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ Para ver las estadísticas de las oportunidades en los informes [de](http://docs
 
    | Columna | Descripción |
    |---|---|
-   | Sin oportunidad | Número de personas que *no son* un contacto de oportunidad principal. |
-   | Días sin oportunidad | Media de edad, en días, de personas que *no son* un contacto principal. |
+   | Sin oportunidad | Número de personas que son *no* un contacto de oportunidad principal. |
+   | Días sin oportunidad | Edad media, en días, de las personas que son *no* un contacto principal. |
    | Tiene oportunidad | Número de personas que son un contacto de oportunidad principal. |
    | Tiene oportunidad % | Porcentaje de personas que son un contacto de oportunidad principal. |
    | Días hasta la oportunidad | Promedio de días para la conversión de persona a contacto de oportunidad principal. |
@@ -78,5 +78,5 @@ Para ver las estadísticas de las oportunidades en los informes [de](http://docs
    >**Buceo profundo**
    >
    >
-   >Ver qué más se puede hacer con los informes en la inmersión profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
