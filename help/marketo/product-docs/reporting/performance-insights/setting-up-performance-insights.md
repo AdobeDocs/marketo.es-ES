@@ -21,13 +21,13 @@ Siga los pasos a continuación para configurar MPI.
 
    ![](assets/admin.png)
 
-1. Haga clic en Análisis **del ciclo de ingresos**.
+1. Haga clic en **Análisis del ciclo de ingresos**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si no tiene RCA, deberá seleccionar Análisis **de** Programa para el paso 2.
+   >Si no tiene RCA, deberá seleccionar **Análisis de Programa** para el paso 2.
 
 1. En Atribución, haga clic en **Editar**.
 
@@ -59,7 +59,7 @@ Siga los pasos a continuación para configurar MPI.
 
 Actualice los costes de programa durante al menos 12 meses. Puede hacerlo manualmente o mediante la API de programa. En este ejemplo lo hacemos manualmente.
 
-1. Haga clic en Actividades **de marketing**.
+1. Haga clic en **Actividades de mercadotecnia**.
 
    ![](assets/ma.png)
 
@@ -67,11 +67,11 @@ Actualice los costes de programa durante al menos 12 meses. Puede hacerlo manual
 
    ![](assets/select-program.png)
 
-1. Haga clic en la ficha **Configuración** .
+1. Haga clic en la ficha **Configuración**.
 
    ![](assets/setup-tab.png)
 
-1. Arrastre Costo **de período** al lienzo.
+1. Arrastre **Costo de período** al lienzo.
 
    ![](assets/period-cost.png)
 
@@ -101,7 +101,7 @@ A continuación, revise el comportamiento de los análisis para indicar si se de
 
    ![](assets/channel-click.png)
 
-1. Haga clic en la lista desplegable Comportamiento **de** Analytics y seleccione el comportamiento que desee.
+1. Haga clic en la lista desplegable **Comportamiento de Analytics** y seleccione el comportamiento que desee.
 
    ![](assets/edit-channel.png)
 
@@ -113,7 +113,7 @@ A continuación, revise el comportamiento de los análisis para indicar si se de
 
    ![](assets/save.png)
 
-## Vincular el Programa a la persona {#tie-the-program-to-the-person}
+## Enlazar el Programa con la persona {#tie-the-program-to-the-person}
 
 1. Asegúrese de que el Programa de adquisición y la fecha de adquisición se han establecido para cada persona de la base de datos para que funcione la atribución de primer toque.
 1. Asegúrese de que sus programas estén configurando los estados de éxito para su gente.
