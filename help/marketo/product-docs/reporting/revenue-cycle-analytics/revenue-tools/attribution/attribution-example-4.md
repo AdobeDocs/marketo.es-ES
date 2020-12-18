@@ -19,8 +19,8 @@ Lea el siguiente escenario e intente determinar los números que deben estar en 
 * 15 de abril | John asiste (seminario web) - Éxito
 * 22 de abril | (Oportunidad 1) creada por $3.000
 * 24 de abril | (Oportunidad 2) creada por 5.000 dólares
-* 25 de abril | John y Michelle están asociados a **ambos** Optys
-* 29 de abril | [Opty 1] is Closed-Won
+* 25 de abril | John y Michelle están asociados a **ambas** Optys
+* 29 de abril | [La opción 1] está cerrada-ganada
 
 | Nombre del programa | (Contenido) | (Seminario web) |
 |---|---|---|
