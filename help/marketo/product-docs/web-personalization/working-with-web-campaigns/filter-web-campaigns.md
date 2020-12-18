@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Filtrar Campañas web {#filter-web-campaigns}
+# Filtrar Campañas Web {#filter-web-campaigns}
 
 Después de haber creado cientos de campañas de personalización de la web, es de gran ayuda poder usar filtros para vista solo de los que te interesen.
 
-1. Vaya a Campañas **web.**
+1. Vaya a **Campañas Web.**
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. En la página Campañas Web, haga clic en **Filtro**.
+1. En la página Campañas Web, haga clic en **Filtrar**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Marque la casilla de verificación Estado y/o Tipo de campaña que desee filtrar para, por ejemplo, **Pausado** o **Cuadro de diálogo**. Haga clic en **Aplicar**.
+1. Marque la casilla de verificación Estado y/o Tipo de campaña que desee filtrar para, por ejemplo, **Cuadro de diálogo** o **en pausa**. Haga clic en **Aplicar**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
