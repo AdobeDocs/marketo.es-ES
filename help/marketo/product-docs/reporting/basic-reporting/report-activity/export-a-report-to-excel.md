@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede exportar cualquier informe a un archivo de Excel para trabajar con los datos de otro software.
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe** .
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Informe**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Haga clic en el botón **Exportar** .
+1. Haga clic en el botón **Exportar**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -34,12 +34,12 @@ Puede exportar cualquier informe a un archivo de Excel para trabajar con los dat
    >**Artículos relacionados**
    >
    >
-   >Si el archivo descargado es demasiado grande, puede [cambiar el tamaño](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) del informe.
+   >Si el archivo descargado es demasiado grande, puede [cambiar el tamaño del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
 
    >[!NOTE]
    >
    >**Buceo profundo**
    >
    >
-   >Vea todas las demás cosas útiles que puede hacer con los informes en la inmersión profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Vea todas las demás cosas útiles que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
 
