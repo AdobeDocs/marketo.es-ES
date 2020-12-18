@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
-Después de [aprobar un título para contenido](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)predictivo, trabajará en él aquí. La página Contenido predictivo muestra todos los títulos aprobados para el contenido predictivo.
+Después de que [apruebe un título para contenido predictivo](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), trabajará en él aquí. La página Contenido predictivo muestra todos los títulos aprobados para el contenido predictivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -58,7 +58,7 @@ El filtrado de análisis de contenido habilitado le permite ver el rendimiento d
 
 ## Datos de tabla de vista para contenido predictivo {#view-table-data-for-predictive-content}
 
-En la tabla, puede realizar la vista de los orígenes habilitados para el contenido predictivo, de izquierda a derecha: Barra de recomendaciones, correo electrónico y medios enriquecidos. Las fuentes habilitadas se muestran en verde. Estos se activan al [editar el contenido](http://docs.marketo.com/display/docs/edit+predictive+content).
+En la tabla, puede realizar la vista de los orígenes habilitados para el contenido predictivo, de izquierda a derecha: Barra de recomendaciones, correo electrónico y medios enriquecidos. Las fuentes habilitadas se muestran en verde. Los habilita cuando [edita el contenido](http://docs.marketo.com/display/docs/edit+predictive+content).
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
