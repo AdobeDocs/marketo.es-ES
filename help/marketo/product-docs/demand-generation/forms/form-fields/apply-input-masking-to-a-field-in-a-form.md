@@ -19,19 +19,19 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleccione el campo y asegúrese de que el **campo** **Tipo** está definido como **Texto**.
+1. Seleccione el campo y asegúrese de que el **Campo** **Tipo** está establecido en **Texto**.
 
    >[!NOTE]
    >
-   >La máscara de entrada solo funciona con tipos **de campo de** texto.
+   >El enmascaramiento de entrada solo funciona con **Tipos de campo de texto**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Haga clic en el vínculo **Máscara** **Entrada** .
+1. Haga clic en el vínculo **Máscara** **Entrada**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
