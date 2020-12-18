@@ -17,11 +17,11 @@ El objetivo de cumplimiento se define al crear una oferta de referencia. Si la a
 
 ## Recuperar la secuencia de comandos de conversión {#retrieve-the-conversion-script}
 
-1. Dentro del editor de ofertas de referencia, haga clic en Detalles **de** Oferta y, a continuación, seleccione Evento **de JavaScript de** cliente en la lista desplegable de objetivos de cumplimiento.
+1. Dentro del editor de ofertas de referencia, haga clic en **Detalles de la Oferta** y, a continuación, seleccione **Evento de JavaScript del cliente** en la lista desplegable de objetivos de cumplimiento.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copie la secuencia de comandos superior del cuadro gris y colóquela en la página web dentro de las `<body>` etiquetas . La secuencia de comandos inferior se coloca dentro de las `<header>` etiquetas .
+1. Copie la secuencia de comandos superior del cuadro gris y colóquela en la página web dentro de las etiquetas `<body>`. La secuencia de comandos inferior se coloca dentro de las etiquetas `<header>`.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -34,11 +34,11 @@ El objetivo de cumplimiento se define al crear una oferta de referencia. Si la a
 
 ## Recuperar la secuencia de comandos del cargador {#retrieve-the-loader-script}
 
-1. Seleccione la oferta de referencia en el árbol y, a continuación, haga clic en Acciones **de Oferta de** referencia y **Código** incrustado.
+1. Seleccione la oferta de referencia en el árbol y haga clic en **Acciones de Oferta de referencia** y **Código incrustado**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Haga clic con el botón secundario en el código **de** encabezado e insértelo en el encabezado de la página web. A continuación, haga lo mismo con el Código **de** cuerpo.
+1. Haga clic con el botón secundario en el **Código de encabezado** e insértelo en el encabezado de la página web. A continuación, haga lo mismo con el **Código de trabajo**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -48,7 +48,7 @@ Pegue las secuencias de comandos de conversión en el HTML para el cuerpo y el e
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
-## Conexión de la secuencia de comandos de conversión {#connecting-the-conversion-script}
+## Conexión del script de conversión {#connecting-the-conversion-script}
 
 Aquí es donde escribirá una función de JavaScript que utiliza la identificación HTML específica del elemento de página en el que desee activar la finalización de objetivos. Por ejemplo:
 
