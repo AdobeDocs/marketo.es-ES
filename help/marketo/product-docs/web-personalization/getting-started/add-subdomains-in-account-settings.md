@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo agregar subdominios a los dominios principales en Configuración de cuenta. Esto le permitirá administrar subdominios relacionados con el Javascript RTP específico de su dominio principal. Se recomienda implementar la etiqueta Javascript en cualquier subdominio agregado.
 
-1. En Personalización web, vaya a Configuración **de cuenta**.
+1. En Personalización web, vaya a **Configuración de cuenta**.
 
    ![](assets/image2014-12-1-23-3-12.png)
 
@@ -37,5 +37,5 @@ A continuación se muestra cómo agregar subdominios a los dominios principales 
 
    >[!NOTE]
    >
-   >Si desea agregar dominios *principales* a su cuenta, póngase en contacto con la asistencia técnica [de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
+   >Si desea agregar *dominios principales* a su cuenta, póngase en contacto con [Soporte técnico de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133).
 
