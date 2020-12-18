@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuración del fondo de los mensajes en la aplicación {#set-up-the-in-app-message-background}
+# Configurar el fondo de los mensajes en la aplicación {#set-up-the-in-app-message-background}
 
 La selección de un fondo de mensaje es un paso importante para finalizar el mensaje en la aplicación.
 
@@ -23,7 +23,7 @@ La selección de un fondo de mensaje es un paso importante para finalizar el men
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Para definir un color, haga clic en **Color** y, a continuación, en el cuadrado de selección de color. Seleccione el color haciendo clic en él o introduciendo los códigos hexadecimales o RGB en el selector de color.
+1. Para establecer un color, haga clic en **Color** y, a continuación, en el cuadrado de selección de color. Seleccione el color haciendo clic en él o introduciendo los códigos hexadecimales o RGB en el selector de color.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,7 +31,7 @@ La selección de un fondo de mensaje es un paso importante para finalizar el men
    >
    >El blanco normal, el valor predeterminado, suele ser un ganador.
 
-1. Si desea utilizar un fondo, haga clic en **Imagen** y, a continuación, en el vínculo **Seleccionar imagen** .
+1. Si desea utilizar un fondo, haga clic en **Imagen** y, a continuación, en el vínculo **Seleccionar imagen**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
@@ -65,7 +65,7 @@ La selección de un fondo de mensaje es un paso importante para finalizar el men
 
    >[!NOTE]
    >
-   >Para tocar acciones para fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma distinta para Apple y Android. Si el mensaje va solo a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
+   >Para tocar acciones para fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma distinta para Apple y Android. Si el mensaje va solamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
 
    [configuración del botón Rechazar](set-up-the-dismiss-button-and-approve-the-message.md)
 
