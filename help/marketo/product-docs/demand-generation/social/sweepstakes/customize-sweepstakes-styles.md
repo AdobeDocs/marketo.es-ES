@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personalizar estilos de apuestas {#customize-sweepstakes-styles}
 
-Al [crear una apuesta](create-sweepstakes.md), puede personalizar el aspecto de la página de aterrizaje.
+Cuando [crea una apuesta](create-sweepstakes.md), puede personalizar su aspecto en la página de aterrizaje.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Al [crear una apuesta](create-sweepstakes.md), puede personalizar el aspecto de 
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione las apuestas y haga clic en **Editar** **borrador**.
+1. Seleccione las apuestas y haga clic en **Editar** **Borrador**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. En el editor Apuestas, vaya a **Ajustes de aplicación** **Configuración** **>** **Aspecto**.
+1. En el editor Apuestas, vaya a **App** **Settings** **** **Appearance**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -40,13 +40,13 @@ Al [crear una apuesta](create-sweepstakes.md), puede personalizar el aspecto de 
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Ejemplo de CSS para el botón ****Enter:
+   Ejemplo de CSS para **Botón Enter**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` Imagen de ejemplo para el botón ****Enter:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Si utiliza una imagen con texto, recuerde quitar el texto del campo **Intro** **Botón **Debajo de Texto superior.
+   >Si utiliza una imagen con texto, recuerde quitar el texto del campo **Intro** **Botón **debajo de Texto de arriba.
 
 1. A medida que realiza cada cambio, el resultado se muestra en la previsualización Vista y edición.
 
@@ -64,5 +64,5 @@ Al [crear una apuesta](create-sweepstakes.md), puede personalizar el aspecto de 
    >**Artículos relacionados**
    >
    >
-   >El siguiente paso es agregar correos electrónicos de [registro y cumplimiento a las apuestas](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >El siguiente paso es agregar [correos electrónicos de registro y cumplimiento a sus apuestas](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
