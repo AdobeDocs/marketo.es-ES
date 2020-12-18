@@ -34,13 +34,13 @@ Puede ver estadísticas detalladas de programas y canales en el Analizador de Pr
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Para ver las estadísticas específicas de un canal o programa (según la **Vista** seleccionada), haga clic en la burbuja correspondiente.
+1. Para ver las estadísticas específicas de un canal o programa (según la **Vista** que seleccione), haga clic en la burbuja correspondiente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Muchas de las métricas que puede elegir en el analizador de programa están disponibles con cálculos de primer toque (FT) y de varios toques (MT). Es importante comprender la [diferencia entre la atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)de FT y MT.
+   >Muchas de las métricas que puede elegir en el analizador de programa están disponibles con cálculos de primer toque (FT) y de varios toques (MT). Es importante comprender la [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Para comparar todos los programas de un solo canal, haga clic en el nombre del canal en el cuadro de diálogo emergente.
 
@@ -60,4 +60,4 @@ Puede ver estadísticas detalladas de programas y canales en el Analizador de Pr
 
    >[!NOTE]
    >
-   >Obtenga más información sobre los análisis avanzados en el Explorador de [ingresos](http://docs.marketo.com/display/docs/revenue+explorer).
+   >Obtenga más información sobre los análisis avanzados en [Explorador de ingresos](http://docs.marketo.com/display/docs/revenue+explorer).
