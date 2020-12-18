@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informes de correo electrónico {#email-reports}
 
-Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la sección [Configuración](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)del usuario.
+Para personalizar qué informe de correo electrónico automatizado recibe el usuario, consulte la sección [Configuración del usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Informes de correo electrónico de personalización de Web {#web-personalization-email-reports}
 
@@ -39,7 +39,7 @@ El informe de personas diario o semanal envía al usuario un correo electrónico
 
 El informe Campañas en tiempo real de mayor rendimiento envía al usuario un mensaje de correo electrónico con las campañas en tiempo real de mayor rendimiento, en el que se muestra el nombre de la campaña, las impresiones, los clics, el segmento al que la campaña reaccionó y la tasa de conversión de la campaña.
 
-## Informe de recursos de mayor rendimiento {#top-performing-assets-report}
+## Informe Recursos de mayor rendimiento {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
@@ -69,4 +69,4 @@ El informe de resumen envía al usuario un mensaje de correo electrónico (mensu
 >
 >Personalización web de marketing captura la dirección de correo electrónico del visitante web para cualquier formulario completado en el sitio web. Esto se ve en la página Personas con Personalización Web y es la persona que se utiliza en el informe Resumen.
 
-Para personalizar el informe de correo electrónico automatizado que recibe el usuario, consulte la sección [Configuración](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)del usuario.
+Para personalizar qué informe de correo electrónico automatizado recibe el usuario, consulte la sección [Configuración del usuario](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
