@@ -22,27 +22,27 @@ Los iconos importantes del editor de texto enriquecido incluyen:
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
+   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
    <td colspan="1"><strong>Editar código fuente HTML</strong></td> 
    <td colspan="1">Permite la vista del código fuente HTML</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
+   <td colspan="1"><img alt="—" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
    <td colspan="1"><p><strong>Insertar/Editar imagen</strong><br></p></td> 
    <td colspan="1">Inserta una URL de imagen para que las imágenes gráficas aparezcan en el editor</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
+   <td colspan="1"><img alt="—" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
    <td colspan="1"><strong>Insertar imagen de Design Studio</strong></td> 
-   <td colspan="1"><em>Después</em> de hacer clic en el icono <strong>Insertar/Editar imagen</strong> , utilícelo para seleccionar imágenes de Marketing Design Studio</td> 
+   <td colspan="1"><em></em> Después de hacer clic en el icono  <strong>Insertar/Editar </strong> imagen, utilícelo para seleccionar imágenes de Marketing Design Studio</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
+   <td colspan="1"><img alt="—" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
    <td colspan="1"><p><strong>Insertar/Editar vínculo</strong><br></p></td> 
    <td colspan="1">Usar para agregar hipervínculos a texto o imágenes</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
+   <td colspan="1"><img alt="—" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
    <td colspan="1"><strong>Insertar/Editar token</strong></td> 
    <td colspan="1">Utilice tokens de compañía o de persona para personalizar la campaña web</td> 
   </tr> 
@@ -51,7 +51,7 @@ Los iconos importantes del editor de texto enriquecido incluyen:
 
 >[!NOTE]
 >
->Los tokens web utilizan datos [de](http://docs.marketo.com/display/DOCS/Manage+Person+Data) personas de la base de datos de Marketing que se administra en Personalización web en Configuración de cuenta > Base de datos. Si el token web es un nuevo campo de base de datos que aún no se encuentra en Configuración de cuenta > Base de datos, se agregará automáticamente y puede tardar hasta 24 horas en activarse.
+>Los tokens Web utilizan [datos de personas](http://docs.marketo.com/display/DOCS/Manage+Person+Data) de la base de datos de Marketing que se administra en Personalización Web en Configuración de cuenta > Base de datos. Si el token web es un nuevo campo de base de datos que aún no se encuentra en Configuración de cuenta > Base de datos, se agregará automáticamente y puede tardar hasta 24 horas en activarse.
 
 >[!MORELIKETHIS]
 >
