@@ -23,13 +23,13 @@ En Marketing Cloud, encontrar imágenes y archivos es una tarea sencilla.
 
    ![](assets/image2014-9-16-11-3a44-3a4.png)
 
-1. En el cuadro Búsqueda **** rápida de la parte inferior de la pantalla, escriba el nombre del archivo que busca y haga clic en **Entrar**.
+1. En el cuadro **Búsqueda rápida** de la parte inferior de la pantalla, escriba el nombre del archivo que está buscando y haga clic en **Intro**.
 
    ![](assets/image2014-9-16-11-3a46-3a32.png)
 
 >[!TIP]
 >
->Para realizar un inicio de una nueva búsqueda, haga clic en la **x** en el cuadro **Búsqueda rápida** de **búsqueda** .
+>Para inicio de una nueva búsqueda, haga clic en el cuadro **x** en el cuadro **Búsqueda** **Buscar**.
 
 Levanta los pies - ¡has terminado!
 
