@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Editar título y metadatos de Página de aterrizaje {#edit-landing-page-title-and-metadata}
+# Editar el título y los metadatos de la Página de aterrizaje {#edit-landing-page-title-and-metadata}
 
-Marketo le permite editar las [etiquetas meta de página de aterrizaje con fines](http://www.w3schools.com/tags/tag_meta.asp) SEO, así como personalizar la `<head>` parte del HTML.
+Marketo le permite editar las etiquetas [meta de la página de aterrizaje con fines SEO](http://www.w3schools.com/tags/tag_meta.asp), así como personalizar la porción `<head>` del HTML.
 
-1. Seleccione una página de aterrizaje y haga clic en **Editar** **borrador**.
+1. Seleccione una página de aterrizaje y haga clic en **Editar** **Borrador**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,20 +23,20 @@ Marketo le permite editar las [etiquetas meta de página de aterrizaje con fines
    >
    >El diseñador de Páginas de aterrizaje se abrirá en una ventana nueva.
 
-1. En Acciones de **Página de aterrizaje,** haga clic en **Editar etiquetas** meta de página.
+1. En **Acciones de Página de aterrizaje,** haga clic en **Editar etiquetas de meta de página**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Escriba el **Título,** las **Palabras clave** y la **Descripción** de la página. Seleccione la opción **Robots** que desee e introduzca el contenido personalizado que desee en la `<head>` sección HTML. Haga clic en **Guardar.**
+1. Escriba el **Título,** **Palabras clave** y **Descripción** para la página. Seleccione la opción **Robots** que desee e introduzca el contenido personalizado que desee para la sección HTML `<head>`. Haga clic en **Guardar.**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**¿Qué significan [los robots](http://www.robotstxt.org/meta.html) ?**
+   >**¿Qué significa  [](http://www.robotstxt.org/meta.html) robotssignifica?**
    >
    >
-   >**index:** en la Web. **siga:** los motores de búsqueda pueden seguir los vínculos de las páginas indizadas.
+   >**index:** page se puede buscar en la web. **seguir:los motores** de búsqueda pueden seguir los vínculos en páginas indizadas.
 
 1. Edite las etiquetas en cualquier momento y apruebe la página de aterrizaje.
 
