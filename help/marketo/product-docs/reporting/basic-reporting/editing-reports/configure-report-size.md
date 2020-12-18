@@ -19,11 +19,11 @@ De forma predeterminada, los informes de marketing están limitados a un máximo
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Configuración** .
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Configuración**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Haga clic con el botón doble en **Exportar filas disponibles**.
+   Haga clic con el botón doble **Exportar filas disponibles**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -48,5 +48,5 @@ De forma predeterminada, los informes de marketing están limitados a un máximo
    >
    >Ahora puede [exportar el informe](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con el nuevo límite.
 
-   Vea más formas de configurar los informes en la inmersión profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   Vea más formas de configurar sus informes en la [curva profunda del ](http://docs.marketo.com/display/docs/basic+reporting) Sistema de informes básico.
 
