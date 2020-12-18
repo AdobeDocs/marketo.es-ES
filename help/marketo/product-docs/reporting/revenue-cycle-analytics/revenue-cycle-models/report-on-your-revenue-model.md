@@ -23,15 +23,15 @@ Para cada modelo de ciclo de ingresos, puede generar un informe sobre cuántos p
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Haga clic en **Posibles clientes por etapa** de ingresos.
+1. Haga clic en **Posibles clientes por etapa de ingresos**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Haga clic en la ficha **Configuración** y, a continuación, debajo de la sección de filtro, haga clic con el botón doble en Modelo **de ciclo de** ingresos.
+1. Haga clic en la ficha **Configuración** y, a continuación, debajo de la sección de filtro, haga clic con el doble **Modelo de ciclo de ingresos**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Seleccione el **modelo** aprobado.
+1. Seleccione el **Modelo** aprobado.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
