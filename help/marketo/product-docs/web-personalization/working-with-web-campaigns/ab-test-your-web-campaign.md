@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La prueba es una buena manera de optimizar sus campañas web para una mejor participación. Así es como empezar.
 
-Para probar las campañas personalizadas con A/B, puede seleccionar dos o más campañas, asociarlas al mismo grupo de pruebas **** divididas y seleccionar Ajuste **automático** para continuar automáticamente con la campaña de mejor rendimiento.
+Para que A/B pruebe sus campañas personalizadas, puede seleccionar dos o más campañas, asociarlas al mismo grupo **Prueba de división** y seleccionar **Ajustar automáticamente** para continuar automáticamente con la campaña de mejor rendimiento.
 
 >[!TIP]
 >
@@ -29,25 +29,25 @@ Para probar las campañas personalizadas con A/B, puede seleccionar dos o más c
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
 
 1. Seleccione la primera campaña que desee para la prueba A/B. Haga clic en **Editar**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. En la página campaña, seleccione **Dividir prueba** y haga clic en **Crear nueva**.
+1. En la página campaña, seleccione **Prueba dividida** y haga clic en **Crear nuevo**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Introduzca el nombre **del grupo de pruebas** dividido y haga clic en **Crear.** Seleccione **Ajustar automáticamente.**
+1. Escriba el **Nombre del grupo de prueba dividido** y haga clic en **Crear.****SelectAuto-Tune.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Guardar **o** iniciar **la campaña.
+1. **Guardar **o** Iniciar **la campaña.
 
    >[!TIP]
    >
-   >Al seleccionar Ajuste **automático** , la plataforma de personalización web puede reconocer automáticamente la campaña de prueba dividida de mejor rendimiento y continúa con la campaña de conversión más alta mientras se pausan las demás.
+   >La selección de **Ajustar automáticamente** permite que la plataforma de Personalización Web reconozca automáticamente la campaña de prueba dividida de mejor rendimiento y continúe con la campaña de conversión más alta mientras se pausan las demás.
 
 1. Repita el proceso anterior con la segunda campaña.
 1. Seleccione la segunda campaña que desee probar A/B. Haga clic en **Editar**.
@@ -56,13 +56,13 @@ Para probar las campañas personalizadas con A/B, puede seleccionar dos o más c
 
    **
 
-1. En la página **Establecer Campaña** , seleccione **S****Dividir prueba** y elija el **grupo** en la lista desplegable. Seleccione** Auto-Tune**.
+1. En la página **Establecer Campaña**, seleccione **S****dividir prueba** y elija el **grupo** en la lista desplegable. Seleccione** Auto-Tune**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
 1. **Guardar **o **Iniciar **la campaña.
 1. Repita este proceso para que se realice la prueba con una tercera o cuarta campaña.
-1. En **Web** **Campañas** puede ver las campañas de prueba divididas indicadas por el icono A/B.
+1. En **Campañas** **Web** puede ver las campañas de prueba divididas indicadas por el icono A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
