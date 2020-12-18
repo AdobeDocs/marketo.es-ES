@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aprobar un fragmento {#approve-a-snippet}
+# Aprobar un fragmento de código {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Es necesario aprobar un fragmento antes de su uso.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Haga clic en el **fragmento** y, a continuación, en Acciones **de fragmento** , haga clic en **Aprobar**.
+1. Haga clic en su **Fragmento** y luego en **Acciones de fragmento** haga clic en **Aprobar**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
