@@ -25,25 +25,25 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. En **Configuración de formulario** **Configuración** , haga clic en **Configuración**.
+1. En **Formulario** **Configuración** haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Desplácese hacia abajo hasta la sección **Gracias** **por** **página** .
+1. Desplácese hacia abajo hasta la sección **Gracias** **Usted** **Página**.
 
 ## Permanecer en la página {#stay-on-page}
 
 La opción Permanecer en la página mantendrá el visitante en la misma página cuando se envíe el formulario.
 
-1. Seleccione **Permanecer** **en** **página** para **Seguir** **hasta** **** con.
+1. Seleccione **Permanecer** **En** **Página** para **Seguir** **Arriba** **Con**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
-## URL externa {#external-url}
+## Dirección URL externa {#external-url}
 
 La configuración de URL externa permite definir cualquier dirección URL como página de seguimiento. Una vez que el usuario haya enviado el formulario, se le dirigirá a la dirección URL especificada.
 
-1. Seleccione **Dirección** URL **externa** para **seguir** **con** **las**.
+1. Seleccione **URL** **externa** para **Seguir** **arriba** **con**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -59,7 +59,7 @@ La configuración de URL externa permite definir cualquier dirección URL como p
 
 Puede seleccionar cualquier página de aterrizaje de marketing aprobada como seguimiento.
 
-1. Configure **Seguimiento con** en **Página de aterrizaje**.
+1. Configure **Seguimiento con** como **Página de aterrizaje**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ Puede seleccionar cualquier página de aterrizaje de marketing aprobada como seg
 
 Puede agregar varias opciones y generar opciones para mostrar a las personas diferentes seguimientos según sus respuestas.
 
-1. Haga clic en **Añadir** **opción**.
+1. Haga clic en **Añadir** **Opción**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Elija la página adecuada para el tipo **Seguir** **con** **con** .
+1. Elija la página adecuada para el tipo **Seguir** **Arriba** **Con**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
