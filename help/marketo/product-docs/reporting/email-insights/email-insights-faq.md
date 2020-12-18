@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Preguntas más frecuentes sobre las perspectivas de correo electrónico {#email-insights-faq}
+# Preguntas más frecuentes sobre perspectivas de correo electrónico {#email-insights-faq}
 
 ## ¿Existen diferencias entre las métricas de proporción con las perspectivas de correo electrónico y otros sistemas de informes de marketing y correo electrónico? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
