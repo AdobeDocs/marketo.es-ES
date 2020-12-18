@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Informes de persona de grupo por atributo {#group-person-reports-by-attribute}
 
-Puede agrupar los informes [de](http://docs.marketo.com/display/docs/basic+reporting) personas por cualquier persona o atributo de compañía.
+Puede agrupar los [informes de persona](http://docs.marketo.com/display/docs/basic+reporting) por cualquier persona o atributo de compañía.
 
-1. Vaya al área Actividades **** de marketing (o **Analytics**).
+1. Vaya al área **Actividades de marketing** (o **Análisis**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Seleccione el informe de persona en el árbol de navegación y haga clic en la ficha **Configuración** .
+1. Seleccione el informe de persona en el árbol de navegación y haga clic en la ficha **Configuración**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Haga clic con el botón doble **Agrupar personas por**.
+1. Haga clic en el doble **Agrupar personas por**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
@@ -37,7 +37,7 @@ Puede agrupar los informes [de](http://docs.marketo.com/display/docs/basic+repor
 
    >[!TIP]
    >
-   >Si selecciona un atributo con un valor numérico, como *Creado en* o Ingresos ** anuales, seleccione las métricas en la lista desplegable **Unidades** de la derecha.
+   >Si elige un atributo que tiene un valor numérico, como *Creado en* o *Ingresos anuales*, seleccione las métricas en la lista desplegable **Unidades** de la derecha.
 
    ¡Eso es todo! Haga clic en la ficha Informe para ver el informe agrupado según corresponda.
 
@@ -48,7 +48,7 @@ Puede agrupar los informes [de](http://docs.marketo.com/display/docs/basic+repor
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de personas y otros tipos de informes en la sección [Básico de informes](http://docs.marketo.com/display/docs/basic+reporting)en profundidad.
+   >Obtenga más información sobre los informes de personas y otros tipos de informes en la [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting)división profunda.
 
    >[!NOTE]
    >
