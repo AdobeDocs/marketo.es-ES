@@ -20,14 +20,14 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
    1. Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 3.\
       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. En Dominio, busque el dominio relevante y haga clic en **Generar etiqueta**.
+1. En Dominio, localice el dominio relevante y haga clic en **Generar etiqueta**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Copie la etiqueta RTP JavaScript.
 1. Inicie sesión en su cuenta de WordPress como usuario administrador
 
-   1. En **Apariencia**, vaya a JavaScript **personalizado**.
+   1. En **Aspecto**, vaya a **JavaScript personalizado**.
    1. Pegue la etiqueta RTP Javascript justo después del código existente.
 
       ![](assets/image2014-12-3-17-3a51-3a46.png)
