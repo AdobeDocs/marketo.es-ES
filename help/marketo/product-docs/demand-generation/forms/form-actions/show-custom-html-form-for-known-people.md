@@ -19,19 +19,19 @@ Si un visitante recibe una cookie (una persona conocida que proporcionó una dir
 
    ![](assets/login-marketing-activities-5.png)
 
-1. En **Marketing** **Actividades**, seleccione el formulario y haga clic en **Editar** **formulario**.
+1. En **Marketing** **Actividades**, seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. En **Configuración** de **formulario**, haga clic en **Configuración**.
+1. En **Formulario** **Configuración**, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Establezca Si **Se Conoce** El **Visitante, Mostrar**: a **Personalizar** **HTML**.
+1. Definir si **Visitante conocido** **muestra**: a **Personalizado** **HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML** personalizado **** que se mostrará a las personas conocidas.
+1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML** **personalizado** que se mostrará a personas conocidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,8 +45,8 @@ Si un visitante recibe una cookie (una persona conocida que proporcionó una dir
    |---|---|
    | `{{lead.FirstName}}` | Esto mostrará el nombre de la persona. |
    | `{{lead.LastName}}` | Esto mostrará el apellido de la persona. |
-   | `{{form.Button:default=Download}}` | Se mostrará el botón de formulario. Reemplace el área después del botón `=` para cambiar el texto del botón. |
-   | `{{form.NotYou:default=Not you?}}` | Esto mostrará un vínculo en caso de que la persona sea otra. Reemplace el área después del `=` para cambiar el texto del vínculo. |
+   | `{{form.Button:default=Download}}` | Se mostrará el botón de formulario. Reemplace el área después de `=` para cambiar el texto del botón. |
+   | `{{form.NotYou:default=Not you?}}` | Esto mostrará un vínculo en caso de que la persona sea otra. Reemplace el área después de `=` para cambiar el texto del vínculo. |
 
    >[!CAUTION]
    >
@@ -69,7 +69,7 @@ Si un visitante recibe una cookie (una persona conocida que proporcionó una dir
    >**Recordatorio**
    >
    >
-   >Recuerde [aprobar el borrador](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) de página de aterrizaje creado por los cambios del formulario.
+   >Recuerde [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
