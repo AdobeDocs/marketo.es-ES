@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Prioridad de las Campañas Web {#prioritizing-web-campaigns}
+# Priorización de Campañas Web {#prioritizing-web-campaigns}
 
 Asigne prioridad a las campañas web cuando dos o más campañas web se superpongan estableciendo una puntuación de prioridad.
 
@@ -34,7 +34,7 @@ Una campaña En la zona y una campaña (Utilidad o Diálogo) pueden reaccionar e
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña Web deseada, utilice la función [filter](filter-web-campaigns.md).
 
 1. En la página Editar Campaña, establezca la puntuación de prioridad (9999 = prioridad más alta 1 = prioridad más baja).
 
