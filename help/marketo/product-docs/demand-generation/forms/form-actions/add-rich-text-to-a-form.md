@@ -19,15 +19,15 @@ Utilice Texto enriquecido en un formulario para agregar instrucciones u otra inf
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Haga clic en el signo **+** .
+1. Haga clic en el signo **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Seleccione Texto **** enriquecido.
+1. Seleccione **Texto enriquecido**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -59,6 +59,6 @@ Utilice Texto enriquecido en un formulario para agregar instrucciones u otra inf
 >
 >**Buceo profundo**
 >
->Obtenga más información sobre [los formularios](http://docs.marketo.com/display/docs/forms).
+>Obtenga más información sobre [formularios](http://docs.marketo.com/display/docs/forms).
 
-¿Sabía que también puede [agregar reglas](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) de visibilidad a un bloque de texto enriquecido?
+¿Sabía que también puede [agregar reglas de visibilidad](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un bloque de texto enriquecido?
