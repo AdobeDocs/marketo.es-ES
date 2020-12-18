@@ -28,11 +28,11 @@ Puede utilizar listas inteligentes con estos tipos de informes:
 * [Actividad Web de compañía](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Actividad de página Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Seleccione el informe en el árbol de navegación y haga clic en la ficha Lista **** inteligente.
+1. Seleccione el informe en el árbol de navegación y haga clic en la ficha **Lista inteligente**.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -55,5 +55,5 @@ Puede utilizar listas inteligentes con estos tipos de informes:
    >**Buceo profundo**
    >
    >
-   >Para obtener más información sobre cómo utilizar los informes, consulte la sección profunda del Sistema de informes [](http://docs.marketo.com/display/docs/basic+reporting) básico.
+   >Para obtener más información sobre cómo utilizar los informes, consulte la sección [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) profunda.
 
