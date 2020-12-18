@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Anular comportamiento de Analytics en el nivel de Programa {#override-analytics-behavior-at-the-program-level}
+# Ignorar comportamiento de Analytics en el nivel de Programa {#override-analytics-behavior-at-the-program-level}
 
-Puede establecer el comportamiento de [análisis en el nivel de administrador en canales](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) , pero también puede omitirlo en el nivel de programa. Así es como:
+Puede establecer el comportamiento [de análisis en el nivel de administrador en canales](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) pero también puede omitirlo en el nivel de programa. Así es como:
 
 1. Vaya al área Actividades de marketing.
 
@@ -39,7 +39,7 @@ Puede establecer el comportamiento de [análisis en el nivel de administrador en
 
    >[!NOTE]
    >
-   >El comportamiento predeterminado (si no se aplica esta configuración) es que el programa se incluiría en Analytics **SOLAMENTE si hay al menos un costo** de período, incluso uno con cero dólares asignados.
+   >El comportamiento predeterminado (si no se aplica esta configuración) es que el programa se incluiría en Analytics **SOLAMENTE si hay al menos un costo de período**, incluso uno con cero dólares asignados.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
