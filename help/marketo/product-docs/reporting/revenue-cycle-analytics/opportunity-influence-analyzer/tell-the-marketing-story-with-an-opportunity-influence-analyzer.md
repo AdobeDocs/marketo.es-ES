@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Informe de Marketing Story con un analizador de influencia de oportunidades {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Informe a Marketing Story con un analizador de influencia de oportunidades {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Utilice un Analizador de influencia de oportunidades para ilustrar el papel de la mercadotecnia en oportunidades importantes. Muestra cómo el marketing influyó en una oportunidad, desde el primer toque hasta la creación de oportunidades y la victoria, y más allá.
 
@@ -23,19 +23,19 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel de l
 
 
 
-1. Vaya a **Analytics** y seleccione el Analizador de influencia de **oportunidades**.
+1. Vaya a **Analytics** y seleccione el **Analizador de influencia de oportunidad**.
 
    ![](assets/analytics-opportunityhand.png)
 
    El Analizador de influencia de oportunidades es una representación visual de las interacciones y los éxitos de programas y eventos que implican esa oportunidad. Veamos el gráfico:
 
-   * ![:](assets/image2014-10-3-13-3a43-3a21.png)**los puntos** naranja representan momentos [](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) interesantes en la oportunidad (correos electrónicos abiertos, visitas a las cabinas comerciales, descargas de documentos técnicos, etc.). Los puntos más grandes indican más interacciones.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Los** puntos naranja representan momentos  [interesantes ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) en la oportunidad (correos electrónicos abiertos, visitas a las cabinas comerciales, descargas de documentos técnicos, etc.). Los puntos más grandes indican más interacciones.
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      ` Los iconos **del** enlace indican los éxitos [del programa](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) .
+      ` **Los iconos del enlace** indican [éxitos de programa](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM).
 
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Los iconos del calendario** indican los éxitos del [evento](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) .
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Los iconos del calendario** indican [éxitos de evento](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM).
 
    * **Período** de oportunidad. El área verde representa la oportunidad misma, desde la creación de oportunidades hasta el cierre de oportunidades (ganado o perdido).
    * **Ciclo** de vida de oportunidad. Las áreas grises antes y después del período de oportunidad verde muestran las interacciones que condujeron y siguieron a la oportunidad.
@@ -43,7 +43,7 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel de l
    El panel **Configuración** lista a las personas de la cuenta:
 
    * El **número entre paréntesis** es el número de interacciones con ese contacto.
-   * ![:](assets/image2014-10-3-13-3a45-3a9.png)la estrella **** amarilla indica el contacto principal.
+   * ![: ](assets/image2014-10-3-13-3a45-3a9.png)el  **amarillo** estelar indica el contacto principal.
 
 
 1. Pase el ratón sobre un nombre para ver el puesto de esa persona y la fuente de su participación en la oportunidad.
