@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cualquier informe de **Mis informes **solo es visible para usted. ¿Qué sucede si desea que el informe sea accesible para todos los demás? Así es como se puede hacer eso:
 
-1. En el área **Análisis **, haga clic en el informe [que desee](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)guardar.
+1. En el área **Analytics **, haga clic en el [informe guardado](../../../../product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) que desee.
 1. ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
@@ -26,15 +26,15 @@ Cualquier informe de **Mis informes **solo es visible para usted. ¿Qué sucede 
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Clonar para** un **análisis (grupo)** y seleccionar una **carpeta**.
+1. **Clona** Toa  **Analytics (Grupo)** y selecciona una  **carpeta**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Asigne un nombre** al informe y haga clic en **Clonar**.
+1. **Asigne un** nombre al informe y haga clic en  **Clonar**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   ¡Genial! El informe ahora aparecerá en los informes **de grupo.**
+   ¡Genial! El informe ahora aparecerá en **Informes de grupo.**
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
 
