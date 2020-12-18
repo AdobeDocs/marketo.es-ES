@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cambiar texto del botón de envío de formulario {#change-form-submit-button-text}
+# Cambiar el texto del botón Enviar formulario {#change-form-submit-button-text}
 
 Puede cambiar rápida y fácilmente un botón de formulario de &quot;Enviar&quot; a cualquier otra palabra. Así es como.
 
@@ -19,11 +19,11 @@ Puede cambiar rápida y fácilmente un botón de formulario de &quot;Enviar&quot
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Seleccione el botón y cambie la **etiqueta**.
+1. Seleccione el botón y cambie la **Etiqueta**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
