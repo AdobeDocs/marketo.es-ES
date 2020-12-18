@@ -23,15 +23,15 @@ Antes de publicar, puede ver el formulario en esta vista previa rápida y sencil
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. En **Acciones de** formulario **, haga clic en** Previsualización ****.
+1. En **Formulario** **Acciones**, haga clic en **Previsualización**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. El editor de formularios se abrirá en modo de **previsualización** .
+1. El editor de formularios se abrirá en modo **previsualización**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Haga clic en **Editar** **borrador** para volver al modo de **edición** .
+1. Haga clic en **Editar** **Borrador** para volver al modo **editar**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -40,7 +40,7 @@ Antes de publicar, puede ver el formulario en esta vista previa rápida y sencil
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre [los formularios](http://docs.marketo.com/display/docs/forms).
+   >Obtenga más información sobre [formularios](http://docs.marketo.com/display/docs/forms).
 
 1. Vuelva fácilmente haciendo clic en **Previsualización** **Borrador**.
 
