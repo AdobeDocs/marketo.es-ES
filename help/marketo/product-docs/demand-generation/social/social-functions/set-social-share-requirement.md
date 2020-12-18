@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Establecer requisito de uso compartido en redes sociales {#set-social-share-requirement}
 
-Al [crear una oferta](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)de referencia, puede requerir que las personas compartan la oferta para registrarse o que sea opcional.
+Cuando [crea una oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede requerir que las personas compartan la oferta para registrarse o que sea opcional.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -23,7 +23,7 @@ Al [crear una oferta](../../../../product-docs/demand-generation/social/referral
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. En el editor de ofertas de referencia, vaya a Ajustes **de** aplicación y, a continuación, a Pasos **de flujo de** registro.
+1. En el editor de ofertas de referencia, vaya a **Configuración de la aplicación** y luego **Pasos de flujo de registro**.
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ Al [crear una oferta](../../../../product-docs/demand-generation/social/referral
    * **Captura de persona > Compartir**: La persona puede omitir el uso compartido y simplemente registrarse.
    * **Compartir > Captura** de persona: La persona debe compartir para poder registrarse.
 
-1. Para cada opción, consulte la previsualización en la ventana **Vista y edición** .
+1. Para cada opción, consulte la previsualización en la ventana **Vista y edición**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
