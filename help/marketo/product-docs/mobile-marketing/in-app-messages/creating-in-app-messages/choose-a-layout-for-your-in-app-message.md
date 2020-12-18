@@ -58,7 +58,7 @@ El tercer diseño de pantalla completa es el mismo que el segundo, excepto el se
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Ahora que conoce las plantillas, es hora de elegir una cuando [cree las imágenes](add-in-app-message-images.md)de los mensajes en la aplicación.
+Ahora que conoce las plantillas, es hora de elegir una cuando [cree sus imágenes de mensajes en la aplicación](add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
