@@ -17,16 +17,16 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
 >[!PREREQUISITES]
 >
->* Debe [configurar las Publicidades de posibles clientes](set-up-facebook-lead-ads.md)de Facebook.
->* Debe tener un modelo aprobado en el [módulo de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+models).
+>* Debe [configurar Publicidades de posibles clientes de Facebook](set-up-facebook-lead-ads.md).
+>* Debe tener un modelo aprobado en [Modelador de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+models).
 
 >
 
 
 
-## Configuración del administrador {#admin-configuration}
+## Configuración de administración {#admin-configuration}
 
-1. Vaya a Administrador **de marketing**.
+1. Vaya a Administrador de mercadotecnia ****.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
@@ -34,15 +34,15 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
    >[!NOTE]
    >
-   >Si no lo has hecho, sigue adelante y [configura los anuncios](set-up-facebook-lead-ads.md)de posibles clientes de Facebook, y vuelve aquí.
+   >Si no lo ha hecho, siga adelante y [Configure Publicidades de posibles clientes de Facebook](set-up-facebook-lead-ads.md) y vuelva aquí.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Si lo desea, edite el **Nombre** para mostrar para incluir Conversiones sin conexión. Haga clic en **Siguiente**.
+1. Si lo desea, edite **Nombre para mostrar** para incluir Conversiones sin conexión. Haga clic en **Siguiente**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Marque **Habilitar conversiones** sin conexión y haga clic en **Siguiente**.
+1. Marque **Habilitar conversiones sin conexión** y haga clic en **Siguiente**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
@@ -58,7 +58,7 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuración del modelo de ciclo de ingresos {#revenue-cycle-modeler-configuration}
+## Configuración del módulo de ciclo de ingresos {#revenue-cycle-modeler-configuration}
 
 1. Vaya a **Analytics**.
 
@@ -86,7 +86,7 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
    >    * Vistas de contenido
 
 
-1. Seleccione el escenario al que desee asignar y, en la lista desplegable Conversión **de** Facebook, seleccione el Evento de Facebook al que desee asignarlo. Repita este paso para asignar todas las etapas del RCM a las etapas de conversión sin conexión en Facebook.
+1. Seleccione el escenario al que desee asignar y, en la lista desplegable **Conversión de Facebook**, seleccione el Evento de Facebook al que desee asignarlo. Repita este paso para asignar todas las etapas del RCM a las etapas de conversión sin conexión en Facebook.
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
    >[!CAUTION]
    >
-   >Compruebe su cuenta de Facebook y asegúrese de que todas [las publicidades están asociadas](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al conjunto de Eventos de conversiones sin conexión de Marketing a sin conexión. Si no lo son, la atribución de publicidad puede no funcionar.
+   >Compruebe su cuenta de Facebook y asegúrese de que todas las [publicidades están asociadas](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al conjunto de Eventos de conversiones sin conexión de Marketing a sin conexión. Si no lo son, la atribución de publicidad puede no funcionar.
 
    >[!NOTE]
    >
