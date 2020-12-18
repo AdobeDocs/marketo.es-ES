@@ -36,7 +36,7 @@ Las capacidades incluyen:
 
    * Por ejemplo, una persona busca, ve y hace clic en una publicidad y luego completa un formulario en línea. Después de eso, recibe una demostración sin conexión y se convierte en una oportunidad CRM. Ahí es donde el anunciante lo destinatario
 
-* Resegmentación de visitantes de sitios web, mediante la Personalización [](http://docs.marketo.com/display/docs/web+personalization)web, para devolverlos a su sitio web
+* Resegmentación de visitantes de sitios web, mediante [Personalización web](http://docs.marketo.com/display/docs/web+personalization), para devolverlos a su sitio web
 
    * Personalización por segmento o vertical
 
@@ -52,9 +52,9 @@ Puede utilizar integraciones para:
 
 |  | Datos de audiencia | Ingesta de posibles clientes | Conversión sin conexión |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
 ## Ver un video {#watch-a-video}
 
