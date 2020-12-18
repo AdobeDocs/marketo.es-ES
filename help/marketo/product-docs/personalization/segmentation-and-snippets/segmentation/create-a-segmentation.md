@@ -19,7 +19,7 @@ La segmentación le permite agrupar personas en perfiles distintos para el siste
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Haga clic en **Nuevo ** y, a continuación, en **Nueva segmentación**.
+1. Haga clic en **Nuevo **y luego **Nueva segmentación**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ La segmentación le permite agrupar personas en perfiles distintos para el siste
    >
    >Puede crear hasta 20 segmentaciones.
 
-1. Escriba un **nombre**, haga clic en** Añadir* **segmento** y asígnele un nombre.
+1. Escriba un **Nombre**, haga clic en** Añadir** **Segmento** y asígnele un nombre.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -44,15 +44,15 @@ La segmentación le permite agrupar personas en perfiles distintos para el siste
    >El número total de segmentos que puede crear en una segmentación depende del número y el tipo de filtros utilizados y también de la complejidad de la lógica de los segmentos. Aunque puede crear hasta 100 segmentos mediante campos estándar, el uso de otros tipos de filtros puede aumentar la complejidad y la segmentación podría no aprobarse. Algunos ejemplos son: campos personalizados, miembro de lista, campos de propietario de posibles clientes y etapas de ingresos.
    >
    >
-   >Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con la asistencia técnica [de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a).
+   >Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a).
 
-1. Arrastre y suelte los segmentos para cambiar su orden. Una vez terminado, haga clic en **Crear**.
+1. Arrastre y suelte los segmentos para cambiar su orden. Una vez hecho, haga clic en **Crear**.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 
    >[!NOTE]
    >
-   >Una persona cumple los requisitos para el primer segmento coincidente del [pedido](segmentation-order-priority.md) definido.
+   >Una persona cumplirá los requisitos para el primer segmento coincidente en el [pedido](segmentation-order-priority.md) definido.
 
    >[!NOTE]
    >
