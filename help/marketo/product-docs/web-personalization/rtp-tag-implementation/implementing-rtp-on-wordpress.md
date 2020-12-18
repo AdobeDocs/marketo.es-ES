@@ -15,30 +15,30 @@ ht-degree: 0%
 
 Para implementar la etiqueta RTP, siga las instrucciones de instalación a continuación:
 
-1. Abra el **archivo header.php** de su tema **de** WordPress.
+1. Abra el archivo **header.php** del **tema de WordPress**.
 
    Puede utilizar un cliente FTP para acceder al servidor o editar los archivos de temas directamente desde el panel de WordPress. El editor de archivos se encuentra en la ficha **Aspecto** del menú de la barra lateral.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. En la lista de archivos de plantilla a la derecha del editor de texto, busque **header.php** y ábralo.
-1. Vaya a Configuración **de cuenta.**
+1. Vaya a **Configuración de la cuenta.**
 
    Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. En Dominio, busque el dominio relevante y haga clic en **Generar etiqueta**.
+1. En Dominio, localice el dominio relevante y haga clic en **Generar etiqueta**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
 1. Copie la etiqueta RTP JavaScript y péguela en las plantillas de sitio web.
 
-   Asegúrese de que es la primera secuencia de comandos en el encabezado de la página, entre las **`<head> </head>`** etiquetas.
+   Asegúrese de que es la primera secuencia de comandos en el encabezado de la página, entre las etiquetas **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Haga clic en **Actualizar archivo** para el archivo header.php.
-1. Compruebe que aparece en todas las `pages including` páginas de aterrizaje y subdominios.
+1. Compruebe que aparece en todas las páginas de aterrizaje y subdominios `pages including`.
 
-   Para ello, haga clic con el botón derecho en la `website’s` página. Vaya a Origen de página de **Vista.** Busque **RTP** para localizar la etiqueta.
+   Para ello, haga clic con el botón derecho en la página `website’s`. Vaya a **Origen de página de Vista.** Busque  **** RTP para localizar la etiqueta.
