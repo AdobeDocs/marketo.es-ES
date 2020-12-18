@@ -17,10 +17,10 @@ Después de crear la publicidad de posibles clientes, debe probarla.
 
 >[!PREREQUISITES]
 >
->Debe [configurar la integración](set-up-facebook-lead-ads.md)de publicidades de posibles clientes de Facebook.
+>Debe [configurar la integración de publicidades de posibles clientes de Facebook](set-up-facebook-lead-ads.md).
 
 1. En el Editor de energía de Facebook, seleccione una campaña, una publicidad y haga clic en **Editar**.
-1. En **Vínculos**, haga clic en el vínculo de la **Vista en la aplicación** móvil.
+1. En **Vínculos**, haga clic en el vínculo **Vista en la aplicación móvil**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
@@ -44,7 +44,7 @@ Después de crear la publicidad de posibles clientes, debe probarla.
    >
    >Este es sólo un ejemplo, que utiliza una llamada a acción &quot;Más información&quot;. La llamada a acción de la unidad de publicidad principal puede ser diferente.
 
-1. ¡Aquí es donde sucede la magia! Una vez que haya enviado el formulario, [cree una lista inteligente en Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos de posibles clientes que utilice el filtro Formulario **de anuncios de posibles clientes de Facebook** rellenado. Inserte el nombre del formulario de publicidad de posibles clientes del formulario que acaba de enviar.
+1. ¡Aquí es donde sucede la magia! Una vez que haya enviado el formulario, [genere una lista inteligente en Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de un programa o en la base de datos de posibles clientes que utiliza el filtro **Formulario de publicidades de posibles clientes de Facebook**. Inserte el nombre del formulario de publicidad de posibles clientes del formulario que acaba de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
