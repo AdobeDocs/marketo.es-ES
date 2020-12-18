@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
-Al establecer patrones de contenido, el contenido se descubre automáticamente cuando un visitante web hace clic en la página web HTML relevante para el patrón de contenido. Se utiliza para agregar páginas HTML (anuncios de blog, comunicados de prensa, artículos de noticias) como artículos de contenido a la página Todo el contenido. Cuando el descubrimiento automático se basa en patrones de contenido, detecta y rastrea páginas HTML relacionadas con el patrón de URL definido cuando un visitante web vista o hace clic en un vínculo a la página. Esta parte de contenido (la dirección URL, el nombre de página y los metadatos, incluida la dirección URL de la imagen y la descripción) se agrega a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como archivos PDF y vídeos incrustados, debe [habilitar la detección](enable-content-discovery.md)de contenido.
+Al establecer patrones de contenido, el contenido se descubre automáticamente cuando un visitante web hace clic en la página web HTML relevante para el patrón de contenido. Se utiliza para agregar páginas HTML (anuncios de blog, comunicados de prensa, artículos de noticias) como artículos de contenido a la página Todo el contenido. Cuando el descubrimiento automático se basa en patrones de contenido, detecta y rastrea páginas HTML relacionadas con el patrón de URL definido cuando un visitante web vista o hace clic en un vínculo a la página. Esta parte de contenido (la dirección URL, el nombre de página y los metadatos, incluida la dirección URL de la imagen y la descripción) se agrega a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como archivos PDF y vídeos incrustados, debe [habilitar la detección de contenido](enable-content-discovery.md).
 
-1. Vaya a Configuración **de contenido**.
+1. Vaya a **Configuración de contenido**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Haga clic en Patrones **URL**.
+1. Haga clic en **Patrones de URL**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -37,7 +37,7 @@ Al establecer patrones de contenido, el contenido se descubre automáticamente c
 
    >[!NOTE]
    >
-   >Los elementos de la lista desplegable de la derecha reflejan las categorías que configuró al [crear categorías](set-up-categories.md).
+   >Los elementos de la lista desplegable de la derecha reflejan las categorías que configuró cuando [creó categorías](set-up-categories.md).
 
 1. Haga clic en **+ **para agregar otra ruta.
 
@@ -75,7 +75,7 @@ Para *domain.com*:
    <td><p>Descubre todo el contenido que coincide con el patrón domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>Descubre cualquier dirección URL que contenga la palabra "hojas de datos:"</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
