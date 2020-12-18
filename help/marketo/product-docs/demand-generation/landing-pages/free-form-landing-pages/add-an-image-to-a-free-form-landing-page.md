@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. Seleccione la página de aterrizaje de forma libre y haga clic en **Editar** **borrador**.
+1. Seleccione la página de aterrizaje de forma libre y haga clic en **Editar** **Borrador**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. En el editor, arrastre el ratón sobre el elemento **Imagen** .
+1. En el editor, arrastre el ratón sobre el elemento **Imagen**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
