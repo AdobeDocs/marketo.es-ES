@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Configurar el correo electrónico para volver a compartir y solicitar una aplicación social {#configure-re-share-email-and-prompt-for-a-social-app}
+# Configurar el reuso del correo electrónico y solicitar una aplicación social {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Al crear una oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) referencia o una [apuesta](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede invitar a los participantes a compartir su oferta con más amigos como parte del proceso de registro, así como proporcionar texto predeterminado para el correo electrónico compartido.
+Al crear una [oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o [apuestas](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede invitar a los participantes a compartir su oferta con más amigos como parte del proceso de registro, así como proporcionar texto predeterminado para el correo electrónico compartido.
 
 >[!NOTE]
 >
 >En una oferta de referencia, también puede [hacer que compartir la oferta sea un requisito](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) para registrarse.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Al crear una oferta [de](../../../../product-docs/demand-generation/social/refer
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. En el editor de ofertas de referencia, vaya a Flujo **de** registro > Mensaje de **volver a compartir.**
+1. En el editor de ofertas de referencia, vaya a **Flujo de registro** > **Mensaje de reuso compartido.**
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,11 +37,11 @@ Al crear una oferta [de](../../../../product-docs/demand-generation/social/refer
    >
    >El correo electrónico incluye automáticamente la dirección URL de uso compartido única de su participante.
 
-1. En la ventana **Vista** y **edición** , haga clic en **Mostrar ediciones** y edite la invitación para compartir, así como las instrucciones de seguimiento de progreso.
+1. En la ventana **Editar** &amp; **Editar**, haga clic en **Mostrar ediciones** y edite la invitación para compartir, así como las instrucciones de seguimiento de progreso.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->A continuación, puede configurar el flujo de progreso de [seguimiento en una oferta](configure-track-progress-flow-for-a-referral-offer.md)de referencia o hacer clic en **Finalizar > Aprobar y cerrar** para [publicar la oferta](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) de referencia o las [apuestas](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>A continuación, puede configurar el [flujo de progreso de seguimiento en una oferta de referencia](configure-track-progress-flow-for-a-referral-offer.md) o hacer clic en **Finalizar > Aprobar y cerrar** para [publicar su oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) o [apuestas](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
 
