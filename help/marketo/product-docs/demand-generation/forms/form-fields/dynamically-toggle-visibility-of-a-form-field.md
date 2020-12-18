@@ -21,7 +21,7 @@ ht-degree: 0%
 
 
 
-Una característica realmente interesante de los formularios de Marketo es que puede ocultar o mostrar dinámicamente campos o conjuntos de [campos](add-a-fieldset-to-a-form.md).
+Una característica realmente interesante de los formularios de Marketing es que puede ocultar o mostrar dinámicamente campos de formulario o [conjuntos de campos](add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ Una característica realmente interesante de los formularios de Marketo es que p
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/editform-1.png)
 
-1. Seleccione el campo que desee ocultar/mostrar dinámicamente y haga clic en el vínculo de **Reglas de visibilidad** ****.
+1. Seleccione el campo que desee ocultar/mostrar dinámicamente y haga clic en el vínculo para **Visibilidad** **Reglas**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -75,5 +75,5 @@ Una característica realmente interesante de los formularios de Marketo es que p
 >
 >**Buceo profundo**
 >
->¿Desea obtener más información sobre [los formularios](http://docs.marketo.com/display/docs/forms)?
+>¿Desea obtener más información sobre [formularios](http://docs.marketo.com/display/docs/forms)?
 
