@@ -17,7 +17,7 @@ La página Análisis de contenido muestra el contenido existente descubierto (ca
 
 ## Análisis de contenido de vista {#view-content-analytics}
 
-Vaya a Análisis **de contenido**.
+Vaya a **Análisis de contenido**.
 
 ![](assets/one.png)
 
@@ -48,8 +48,8 @@ La tabla Análisis proporciona los siguientes detalles:
    <td colspan="1" rowspan="1">Nombre del recurso de contenido digital. Haga clic en <strong>Título</strong> para abrir la URL de contenido en una nueva ficha.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icono </strong><strong>de recomendación</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Indica si la parte de contenido se ha agregado para <a href="#">Content Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>Icono  </strong><strong>de recomendación</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">Indica si la parte de contenido se ha agregado para <a href="#">Recommendations de contenido</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Vistas</strong></p></td> 
@@ -60,11 +60,11 @@ La tabla Análisis proporciona los siguientes detalles:
    <td colspan="1" rowspan="1">Visitantes Web que vieron el contenido y rellenaron un formulario en la misma visita</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icono de Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icono de Analytics</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Vea más análisis sobre el contenido</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Eliminar icono</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Eliminar icono</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Elimina el contenido de Content Analytics</td> 
   </tr> 
  </tbody> 
@@ -90,7 +90,7 @@ Los análisis de contenido adicionales incluyen:
 
 **Tendencias**
 
-* Un gráfico de **tendencias** que muestra los últimos 30 días de vistas del contenido específico. Pase el ratón sobre el gráfico de líneas para ver el número de vistas de contenido de un día específico
+* Un gráfico **Tendencias** que muestra los últimos 30 días de vistas del fragmento de contenido específico. Pase el ratón sobre el gráfico de líneas para ver el número de vistas de contenido de un día específico
 
 ## Eliminar contenido {#delete-content}
 
