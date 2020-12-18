@@ -27,7 +27,7 @@ Las direcciones URL personalizadas son buenas para campañas de correo de impres
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Marque la casilla **Habilitar direcciones URL** personalizadas y haga clic en **Guardar**.
+1. Marque la casilla **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
