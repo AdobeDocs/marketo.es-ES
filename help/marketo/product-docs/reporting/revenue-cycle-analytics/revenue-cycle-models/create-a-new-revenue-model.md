@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Crear un nuevo modelo de ingresos {#create-a-new-revenue-model}
 
-1. Para crear un nuevo modelo de ciclo de ingresos, haga clic en el botón **Análisis** en la pantalla de inicio Mi marketing.
+1. Para crear un nuevo modelo de ciclo de ingresos, haga clic en el botón **Analytics** en la pantalla de inicio Mi marketing.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. En la ficha **Analytics** , haga clic en **Nuevo** y seleccione **Nuevo modelo** de ciclo de ingresos.
+1. En la ficha **Analytics**, haga clic en **Nuevo** y seleccione **Nuevo modelo de ciclo de ingresos**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Aparece una ventana modal **Nuevo modelo** de ciclo de ingresos. Escriba un nombre y haga clic en **Crear**.
+1. Aparece una ventana modal **Nuevo modelo de ciclo de ingresos**. Escriba un nombre y haga clic en **Crear**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Obtenga más información sobre [el uso de las fases](using-revenue-model-inventory-stages.md)de inventario del modelo de ingresos.
+>Obtenga más información sobre [Uso de las etapas de inventario del modelo de ingresos](using-revenue-model-inventory-stages.md).
 
