@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# Personalización de las direcciones URL de su Página de aterrizaje con un CNAME {#customize-your-landing-page-urls-with-a-cname}
+# Personalice las direcciones URL de su Página de aterrizaje con un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL puede personalizarse totalmente. Aspecto del producto sin un CNAME:
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` El aspecto que debería tener:
+`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` El aspecto que debe tener:
 `<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
 
 ## Elija un CNAME {#choose-a-cname}
@@ -37,29 +37,29 @@ La única palabra (más [YourCompany.com](http://YourCompany.com)) se denomina C
    >
    >**Se requieren permisos de administración**
 
-1. En la ficha **Páginas** de **aterrizaje** , copie la **cadena de cuenta****de la sección** Configuración **** .
+1. En la ficha **Aterrizaje** **Páginas**, copie la **Cuenta** **Cadena** de la sección **Configuración**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
 1. Necesitarás más tarde, así que haz una nota.
 
-## Enviar solicitud al departamento de TI {#send-request-to-it}
+## Enviar solicitud a TI {#send-request-to-it}
 
-Pida a su personal de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] y [ACCOUNT STRING] con el texto del paso anterior).
+Pida a su personal de TI que configure el siguiente CNAME: (Reemplace la palabra [CNAME] y [CADENA DE CUENTA] por el texto del paso anterior).
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > CADENA [DE CUENTA]. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) > CADENA  [DE CUENTA]. [mktoweb.com](http://mktoweb.com/)
 
 ## Configuración completa de CNAME {#complete-cname-setup}
 
-1. Una vez que el departamento de TI haya creado el CNAME, vaya a **Administración** y haga clic en **Páginas de aterrizaje******.
+1. Una vez que el departamento de TI haya creado el CNAME, vaya a **Administración** y haga clic en **Aterrizaje** **Páginas**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
-1. En la sección **Configuración** , haga clic en **Editar**.
+1. En la sección **Configuración**, haga clic en **Editar**.
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Introduzca su CNAME en el **nombre** de **dominio** **para** las **páginas** de **aterrizaje****** ******** ****, introduzca suFallbackpage, introduzca suPágina de inicioy haga clic en Guardar.
+1. Introduzca su CNAME en **Dominio** **nombre** **para** **Aterrizaje** **Páginas**, introduzca su **reserva** **página** escriba su **Página principal** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
