@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gráficos De Resultados Desde El Explorador De Ingresos {#graphing-results-from-revenue-explorer}
+# Gráficos de resultados desde el Explorador de ingresos {#graphing-results-from-revenue-explorer}
 
 De forma predeterminada, los informes del Explorador de ingresos se muestran como una tabla. También tiene la opción de mostrar los resultados como un gráfico en varios formatos.
 
