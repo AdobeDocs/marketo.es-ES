@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Información general sobre las perspectivas de correo electrónico {#email-insights-sends-overview}
+# Información general sobre los envíos de perspectiva de correo electrónico {#email-insights-sends-overview}
 
 En la página Envíos, examine las características de la comunicación por correo electrónico reciente.
 
 ![](assets/one.png)
 
-Utilice el [filtrado](filtering-in-email-insights.md) para especificar los correos electrónicos que desea ver.
+Utilice [filtro](filtering-in-email-insights.md) para especificar los correos electrónicos que desea ver.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ En la parte derecha de la página hay varios fragmentos de información sobre lo
 
 ![](assets/two-1.png)
 
-**El tipo** indica el tipo de recurso utilizado.\
-**Número de destinatario** es el número de personas a las que se envió el correo electrónico.\
-**Métricas** de envío le proporciona una vista rápida de cuántos correos electrónicos se entregaron, están pendientes o han rebotado.\
-**Métricas** de participación le proporciona una vista rápida de cuántos destinatarios se han abierto, en los que se ha hecho clic y se ha cancelado la suscripción desde un correo electrónico.\
-**La puntuación** es la puntuación de [participación](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)del correo electrónico.
+**** Tipo indica el tipo de recurso utilizado.\
+**** Número de destinatario es el número de personas a las que se envió el correo electrónico.\
+**Las** métricas de envío le proporcionan una vista rápida de cuántos correos electrónicos se entregaron, están pendientes o han rebotado.\
+**Las** métricas de participación le proporcionan una vista rápida de cuántos destinatarios se han abierto, en los que se ha hecho clic y se ha cancelado la suscripción desde un correo electrónico.\
+**El** marcador es la puntuación de  [participación](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) del correo electrónico.
 
 De forma predeterminada, los mensajes de correo electrónico se ordenan por los más recientes, pero puede ordenarlos por cualquier métrica disponible.
 
