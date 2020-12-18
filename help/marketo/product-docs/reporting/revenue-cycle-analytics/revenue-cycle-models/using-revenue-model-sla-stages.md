@@ -21,11 +21,11 @@ SLA significa &quot;acuerdo de nivel de servicio&quot;. Estas etapas se utilizan
 
 ## Añadir una etapa de SLA {#add-an-sla-stage}
 
-1. Para agregar una nueva etapa de SLA del modelo de ciclo de ingresos, haga clic en el botón **Análisis** en la pantalla de inicio Mi marketing.
+1. Para agregar una nueva etapa de SLA del modelo de ciclo de ingresos, haga clic en el botón **Analytics** en la pantalla de inicio Mi marketing.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. En la sección Análisis, seleccione el modelo existente o [cree uno](create-a-new-revenue-model.md)nuevo.
+1. En la sección Análisis, seleccione el modelo existente o [cree uno nuevo](create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -33,17 +33,17 @@ SLA significa &quot;acuerdo de nivel de servicio&quot;. Estas etapas se utilizan
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para agregar una nueva etapa de SLA, haga clic en el botón **SLA** y, a continuación, arrástrela y suéltela a cualquier lugar dentro del lienzo.
+1. Para agregar una nueva etapa de SLA, haga clic en el botón **SLA** y, a continuación, arrastre y suelte en cualquier lugar dentro del lienzo.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Puede editar el **nombre**, agregar una **descripción** y ajustar el **tipo** después de agregar un escenario. También puede seleccionar ** Seguimiento de [Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
+1. Puede editar el **Nombre**, agregar una **Descripción** y ajustar el **Tipo** después de agregar una etapa. También puede seleccionar ** [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
 ## Editar una etapa de SLA {#edit-an-sla-stage}
 
-Al seleccionar un icono de etapa de SLA, puede editar el Nombre, agregar una Descripción y ajustar el Tipo. También puede seleccionar Seguimiento de [Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md).
+Al seleccionar un icono de etapa de SLA, puede editar el Nombre, agregar una Descripción y ajustar el Tipo. También puede seleccionar [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Haga clic en un icono de etapa de SLA.
 
@@ -53,7 +53,7 @@ Al seleccionar un icono de etapa de SLA, puede editar el Nombre, agregar una Des
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Seleccione el menú desplegable **Tipo** que desea editar.
+1. Seleccione el menú desplegable **Tipo** para editar.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
