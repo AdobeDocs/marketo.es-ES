@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Creación de una plantilla de Página de aterrizaje de forma libre {#create-a-free-form-landing-page-template}
+# Crear una plantilla de Página de aterrizaje de formato libre {#create-a-free-form-landing-page-template}
 
 Las páginas de aterrizaje de forma libre requieren menos conocimientos técnicos que sus homólogos guiados. Para crear una plantilla para páginas de aterrizaje futuras, siga los pasos a continuación.
 
@@ -19,11 +19,11 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    ![](assets/one.png)
 
-1. Haga clic en **Nuevo** y, a continuación, seleccione **Nueva plantilla** de Página de aterrizaje.
+1. Haga clic en **Nuevo** y seleccione **Nueva plantilla de Página de aterrizaje**.
 
    ![](assets/two.png)
 
-1. Elija la carpeta y asigne un nombre a la plantilla. Formato libre es el modo de edición predeterminado, por lo que después de asignar un nombre a la plantilla, haga clic en **Crear**.
+1. Elija la carpeta y asigne un nombre a la plantilla. El modo de edición predeterminado es el formato libre, por lo que después de asignar un nombre a la plantilla, haga clic en **Crear**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
    >
    >La asistencia técnica de marketing no está configurada para ayudar a solucionar problemas de HTML personalizado. Para obtener ayuda sobre HTML, consulte a un desarrollador web.
 
-1. Cuando haya terminado de realizar modificaciones, haga clic en Acciones **** de plantilla y, a continuación, seleccione **Aprobar y cerrar**.
+1. Cuando haya terminado de realizar ediciones, haga clic en **Acciones de plantilla** y, a continuación, seleccione **Aprobar y cerrar**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
 
    >[!NOTE]
    >
-   >Seleccione **Deshabilitar el seguimiento** Munchkin si desea evitar que los formularios se rellenen previamente o simplemente no desea rastrear el comportamiento de Web en una página específica.\
-   >Seleccione **Validar compatibilidad** móvil para asegurarse de que el código es compatible con dispositivos móviles.
+   >Seleccione **Deshabilitar el seguimiento de Munchkin** si desea evitar que los formularios se rellenen previamente o simplemente no desea rastrear el comportamiento de Web en una página específica.\
+   >Seleccione **Validar compatibilidad móvil** para asegurarse de que el código sea compatible con dispositivos móviles.
 
    >[!NOTE]
    >
