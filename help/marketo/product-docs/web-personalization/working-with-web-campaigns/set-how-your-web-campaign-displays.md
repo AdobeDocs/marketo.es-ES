@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configurar el modo en que se muestra la Campaña Web {#set-how-your-web-campaign-displays}
+# Configurar la forma en que se muestra la Campaña Web {#set-how-your-web-campaign-displays}
 
 Existen varios métodos que se pueden utilizar cuando se trata de cuándo y cómo se muestra la campaña web.
 
@@ -25,21 +25,21 @@ Seleccionado de forma predeterminada, esta opción simplemente muestra la campa�
 
 Especifique un tiempo de espera (en segundos totales) para que las campañas web reaccionen en el sitio web.
 
-1. Haga clic en la lista desplegable **Mostrar al** y seleccione **Retraso**.
+1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Retraso**.
 
    ![](assets/d1.png)
 
-1. Haga clic en la lista desplegable **Esperar** y seleccione la cantidad de tiempo deseada.
+1. Haga clic en la lista desplegable **Espere** y seleccione la cantidad de tiempo deseada.
 
    ![](assets/d2.png)
 
 ## Desplazar {#scroll}
 
-1. Haga clic en la lista desplegable **Mostrar al** y seleccione **Desplazamiento**.
+1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Desplazarse**.
 
    ![](assets/s1.png)
 
-1. Haga clic en la lista desplegable **Cuándo** y seleccione cuándo desea que se muestre la campaña web.
+1. Haga clic en la lista desplegable **Cuándo** y seleccione cuándo desea que se muestre la campaña Web.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Especifique un tiempo de espera (en segundos totales) para que las campañas web
 
 La calidad de salida mostrará la campaña web al salir del explorador con el cursor del ratón.
 
-1. Haga clic en la lista desplegable **Mostrar al** y seleccione Calidad **de salida**.
+1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Calidad de salida**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ La calidad de salida mostrará la campaña web al salir del explorador con el cu
 
 >[!TIP]
 >
->¿Quieres ver cómo se verán los efectos elegidos con antelación? Échelos a través de una Previsualización [de Campaña](preview-and-test-a-web-campaign.md)Web.
+>¿Quieres ver cómo se verán los efectos elegidos con antelación? Échenlos a través de una [Previsualización de Campaña Web](preview-and-test-a-web-campaign.md).
 
