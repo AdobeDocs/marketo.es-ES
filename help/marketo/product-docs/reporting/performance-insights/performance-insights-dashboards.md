@@ -25,7 +25,7 @@ El panel de compromiso le ayuda a medir la eficacia de su crianza y los nuevos p
 
 Medición del compromiso de Audiencia
 
-Elija la métrica **Éxitos** para medir el compromiso de audiencia en sus programas de crianza. El éxito es una medida de la interacción significativa en Marketing.
+Elija la métrica **Éxitos** para medir el compromiso de audiencia en los programas de crianza. El éxito es una medida de la interacción significativa en Marketing.
 
 ![](assets/3-4.png)
 
