@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definir valores en un campo seleccionado o de radio en un formulario {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Una vez que haya [definido un tipo](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) de campo para que sea un botón de radio o un tipo de selección, querrá definir los valores que el usuario puede elegir. Así es como.
+Una vez que haya [configurado un tipo de campo](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de radio o un tipo de selección, querrá definir los valores que el usuario puede elegir. Así es como.
 
 1. Vaya a **Marketing** **Actividades**.
 
    ![](assets/ma.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -40,7 +40,7 @@ Una vez que haya [definido un tipo](../../../../product-docs/administration/fiel
    >**Definición**
    >
    >
-   >**Mostrar valor:** Qué se muestra al visitante.
+   >**Valor de visualización:** lo que se muestra en el visitante.
    >
    >
    >**Valor almacenado:** Qué se registra en Marketing.
@@ -55,7 +55,7 @@ Una vez que haya [definido un tipo](../../../../product-docs/administration/fiel
 
    >[!TIP]
    >
-   >Haga clic en Editor **** avanzado para copiar/pegar una lista de valores si lo desea. Puede ser un salvador en tiempo real.
+   >Haga clic en **Editor avanzado** para copiar/pegar una lista de valores si lo desea. Puede ser un salvador en tiempo real.
 
 1. Haga clic en **Finalizar**.
 
@@ -65,4 +65,4 @@ Una vez que haya [definido un tipo](../../../../product-docs/administration/fiel
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-¡Super trabajo! Lo estás haciendo muy bien. Obtenga más información sobre [los formularios](http://docs.marketo.com/display/docs/forms).
+¡Super trabajo! Lo estás haciendo muy bien. Obtenga más información sobre [formularios](http://docs.marketo.com/display/docs/forms).
