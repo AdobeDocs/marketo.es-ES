@@ -35,7 +35,7 @@ Las aplicaciones normalmente se inicio en un entorno de simulación de pruebas, 
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Escriba un nombre. En la lista desplegable **Tipo** , seleccione el tipo de entorno que está utilizando: Simulador para pruebas o Producción. Haga clic en **Guardar**.
+1. Escriba un nombre. En la lista desplegable **Tipo**, seleccione el tipo de entorno que está utilizando: Simulador para pruebas o Producción. Haga clic en **Guardar**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
