@@ -36,15 +36,15 @@ Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lis
 
 ## Crear una Suscripción de Lista inteligente {#create-a-smart-list-subscription}
 
-1. Vaya a la **base de datos** o a las **Actividades** de marketing.
+1. Vaya a **Base de datos** o **Actividades de mercadotecnia**.
 
    ![](assets/db.png)
 
-1. Seleccione la lista inteligente para la que desea crear una suscripción. Haga clic en Acciones **de** Lista y seleccione** Nueva Suscripción de Lista inteligente**.
+1. Seleccione la lista inteligente para la que desea crear una suscripción. Haga clic en **Acciones de Lista** y seleccione** Nueva Suscripción de Lista inteligente**.
 
    ![](assets/three.png)
 
-1. Asigne un **Nombre** a la suscripción y, a continuación, seleccione o introduzca las direcciones de correo electrónico de los **Destinatarios**.
+1. Asigne a su suscripción un **Nombre**, luego seleccione o introduzca las direcciones de correo electrónico de los **Destinatarios**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
@@ -58,7 +58,7 @@ Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lis
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Haga clic en **Formato** y elija una de las listas.
+1. Haga clic en **Formato** y elija entre las opciones de la lista.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -82,7 +82,7 @@ Los destinatarios recibirán un correo electrónico con una opción para descarg
 
 >[!NOTE]
 >
->Si la configuración de Administración [de Suscripción](secure-the-subscription-admin-setting.md) segura está establecida en **Sí**, solo las personas con acceso a la instancia de Marketing podrán descargar el informe.
+>Si la configuración de [Administración de Suscripción segura](secure-the-subscription-admin-setting.md) está establecida en **Sí**, sólo las personas con acceso a la instancia de Marketing podrán descargar el informe.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
