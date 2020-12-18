@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Explicación de los estados de Programa de seminario web {#understanding-webinar-program-statuses}
 
-Los estados de programa representan los distintos estados de evento que una persona avanza como miembro del evento. Están asociados a un tipo de canal. Marketing tiene un tipo de canal integrado llamado **seminario** web. Los estados se pueden utilizar en campañas de activación y de lote.
+Los estados de programa representan los distintos estados de evento que una persona avanza como miembro del evento. Están asociados a un tipo de canal. Marketo tiene un tipo de canal integrado llamado **Seminario web**. Los estados se pueden utilizar en campañas de activación y de lote.
 
-Las personas se mueven a través de los estados de programa de forma lineal y no regresan al estado. Por ejemplo, una persona con un estado de **asistente** no puede volver a **Registrado**.
+Las personas se mueven a través de los estados de programa de forma lineal y no regresan al estado. Por ejemplo, una persona con el estado **Asistencia** no puede volver a **Registrada**.
 
 Esta es una breve descripción de los estados de programa asociados al canal de seminario web.
 
 >[!TIP]
 >
->Para actualizar manualmente los estados, haga clic en **Actualizar desde el proveedor** de seminarios web en la lista desplegable Acciones **de** Evento.
+>Para actualizar manualmente los estados, haga clic en **Actualizar desde el proveedor de seminario web** en la lista desplegable **Acciones de Evento**.
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
@@ -29,15 +29,15 @@ Esta es una breve descripción de los estados de programa asociados al canal de 
 
 ** Invitado** - Utilice este estado para agregar personas al evento.
 
-**Pendiente de aprobación** : utilice este estado para retener el envío de un correo electrónico de confirmación a sus usuarios. Consulte &quot;Aprobación manual de registros&quot; en [ON24 Actualizaciones](on24-event-registration-updates.md) de registro de Evento para obtener más información.
+**Pendiente de aprobación** : utilice este estado para retener el envío de un correo electrónico de confirmación a sus usuarios. Consulte &quot;Aprobación manual de registros&quot; en [Actualizaciones de registro de Evento en ON24](on24-event-registration-updates.md) para obtener más información.
 
-**Lista** de espera: use este estado para mantener a algunas personas esperando hasta que haya más asientos disponibles.
+**Lista**  de espera: use este estado para mantener a algunas personas esperando hasta que haya más asientos disponibles.
 
 **Rechazado** : Utilice este estado para rechazar el registro de una persona en su Evento.
 
-**Registrado** : Este estado lleva a las personas a ON24 cuando utiliza la integración de ON24. El estado de la persona se actualiza cuando ON24 responde que la persona se registró correctamente.
+**Registrado** : Este estado lleva a las personas a ON24 cuando se utiliza la integración de ON24. El estado de la persona se actualiza cuando ON24 responde que la persona se registró correctamente.
 
-**Error** de registro: este estado refleja que el usuario encontró un error al intentar registrarse en el Evento.
+**Error**  de registro: este estado refleja que el usuario encontró un error al intentar registrarse en el Evento.
 
 >[!NOTE]
 >
@@ -45,13 +45,13 @@ Esta es una breve descripción de los estados de programa asociados al canal de 
 
 **Asistida**- Al finalizar el seminario, ON24 devuelve una lista de personas que asistieron. Este estado se extrae automáticamente en Marketing.
 
-**Asistencia a petición** : las personas que asistieron a la versión archivada del seminario web reciben este estado.
+**Asistencia bajo demanda** : las personas que asistieron a la versión archivada del seminario web reciben este estado.
 
-**No Mostrar** - Al final del seminario web y después de extraer los datos de asistencia de ON24, el estado de las personas que se registraron pero no asistieron se actualiza a No Mostrar. El ON24 puede tardar entre 30 minutos y 3 horas en preparar la información de asistencia final y ponerla a disposición en Marketing.
+**No Mostrar** : Al final del seminario web y después de extraer los datos de asistencia de ON24, el estado de las personas que se registraron pero no asistieron se actualiza a No Mostrar. El ON24 puede tardar entre 30 minutos y 3 horas en preparar la información de asistencia final y ponerla a disposición en Marketing.
 
 >[!NOTE]
 >
->Para que Marketing obtenga el estado No Mostrar, las personas deben estar registradas *en Marketing*. No podemos capturar No se muestran los datos procedentes de la fuente de datos On24.
+>Para que Marketing pueda extraer el estado No mostrar, las personas deben haberse registrado *en Marketing*. No podemos capturar No se muestran los datos procedentes de la fuente de datos On24.
 
 >[!MORELIKETHIS]
 >
