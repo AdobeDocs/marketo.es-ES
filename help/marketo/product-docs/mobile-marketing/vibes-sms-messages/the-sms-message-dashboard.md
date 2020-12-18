@@ -17,7 +17,7 @@ El Panel de mensajes SMS muestra información útil sobre su mensaje SMS.
 
 ![](assets/converted-dashboard-image.png)
 
-El gráfico de progresión **** SMS muestra el total enviado y el total enviado. Las cantidades se encuentran a la derecha y, si pasa el ratón por encima de una barra, se muestra el porcentaje.
+El gráfico **Progresión de SMS** muestra el total enviado y el total entregado. Las cantidades se encuentran a la derecha y, si pasa el ratón por encima de una barra, se muestra el porcentaje.
 
 ![](assets/sms-progression-hand-border.png)
 
@@ -25,7 +25,7 @@ El gráfico **Resumen** muestra la Tasa de salida hacia otro sitio calculada com
 
 ![](assets/hover-over-summary-hands-thin-border.png)
 
-El gráfico **Actividad en el transcurso del tiempo** le permite seleccionar Total enviado o Total enviado. Seleccione un intervalo adecuado en el selector de intervalo de fechas.
+El gráfico **Actividad en el transcurso del tiempo** permite seleccionar Total enviado o Total entregado. Seleccione un intervalo adecuado en el selector de intervalo de fechas.
 
 ![](assets/activity-over-time-hands.png)
 
