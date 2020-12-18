@@ -23,27 +23,27 @@ Los paneles de Canalización e Ingresos de MPI pueden filtrar por campos de mark
 >
 >Este artículo es solo para usuarios que **no** tienen [RCA](http://docs.marketo.com/x/lwIk). Si tiene RCA, siga los pasos de [este artículo](http://docs.marketo.com/x/FQQk).
 
-1. Vaya a la sección **Administración** .
+1. Vaya a la sección **Administración**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. En Otros elementos, seleccione Análisis **de** Programa.
+1. En Otros elementos, seleccione **Análisis de Programa**.
 
    ![](assets/2-3.png)
 
-1. Haga clic en la ficha Sincronización **de campo** personalizada.
+1. Haga clic en la ficha **Sincronización de campo personalizada**.
 
    ![](assets/3-5.png)
 
-1. Seleccione el campo para el que desea habilitar la sincronización y haga clic en **Editar opción** de sincronización.
+1. Seleccione el campo para el que desea habilitar la sincronización y haga clic en **Editar opción de sincronización**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Cambie el estado **de** sincronización a **Habilitado**.
+1. Cambie el **Estado de sincronización** a **Habilitado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Seleccione el tipo **** RCA que desee y haga clic en **Guardar**.
+1. Seleccione el **Tipo de RCA** de su elección y haga clic en **Guardar**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
