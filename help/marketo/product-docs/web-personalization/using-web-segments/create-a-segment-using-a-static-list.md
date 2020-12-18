@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Crear un segmento con una Lista estática {#create-a-segment-using-a-static-list}
+# Crear un segmento usando una Lista estática {#create-a-segment-using-a-static-list}
 
-Segmente los visitantes web conocidos cuando visiten el sitio web en función de si están o no en una de las listas [](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists)estáticas de Marketing to.
+Segmente los visitantes web conocidos cuando visiten su sitio web en función de si están o no en una de sus [listas estáticas](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists) de Marketing.
 
 1. Vaya a **Segmentos**.
 
@@ -31,23 +31,23 @@ Segmente los visitantes web conocidos cuando visiten el sitio web en función de
 
    ![](assets/four-2.png)
 
-1. Haga clic en la lista desplegable para seleccionar **es** o no **es** (según lo que desee) y escriba el nombre de la lista estática.
+1. Haga clic en la lista desplegable para seleccionar **is** o **is not** (según lo que desee) y escriba el nombre de la lista estática.
 
    ![](assets/five-2.png)
 
-1. Si desea agregar varias listas, debe crear una nueva línea para cada una haciendo clic en las **+**. Si solo desea una lista, vaya al [paso 8](#eight).
+1. Si desea agregar varias listas, debe crear una nueva línea para cada una haciendo clic en **+**. Si sólo desea una lista, vaya al [Paso 8](#eight).
 
    ![](assets/six-1.png)
 
-1. Para varias listas (o varias listas &quot;no es&quot;), repita los pasos que ha aprendido en el [paso 5](#five).
+1. Para varias listas (o varias listas &quot;no es&quot;), repita los pasos que ha aprendido en [Paso 5](#five).
 
    ![](assets/seven-2.png)
 
    >[!NOTE]
    >
-   >La lista desplegable y/o es sólo eso. Haga clic en él para seleccionar **y**, **o**, **y/o**.
+   >La lista desplegable y/o es sólo eso. Haga clic en él para seleccionar **y**, **o**, o **y/o**.
 
-1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir Campaña **para guardar y acceder a la página Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir Campaña **para guardar y visitar la página Campañas.
 
    ![](assets/eight-1.png)
 
