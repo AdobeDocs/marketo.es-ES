@@ -17,11 +17,11 @@ Un panel es una combinación de informes del Explorador de ingresos para obtener
 
 ## Creación de un nuevo Panel {#creating-a-new-dashboard}
 
-1. Haga clic en Explorador **de ingresos**.
+1. Haga clic en **Explorador de ingresos**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Crear nuevo** y, a continuación, en **Panel**.
+1. Haga clic en **Crear nuevo** y luego en **Panel**.
 
    ![](assets/two.png)
 
@@ -37,11 +37,11 @@ Un panel es una combinación de informes del Explorador de ingresos para obtener
 
    ![](assets/four.png)
 
-1. Doble y haga clic en Explorador **de ingresos**.
+1. Haga clic en el doble **Explorador de ingresos**.
 
    ![](assets/five.png)
 
-1. Haga clic con el doble en **Todos los informes y Paneles**.
+1. Haga clic en el doble **Todos los informes y Paneles**.
 
    ![](assets/six.png)
 
@@ -61,17 +61,17 @@ Un panel es una combinación de informes del Explorador de ingresos para obtener
 
    ![](assets/ten.png)
 
-1. Para guardar, haga clic en el icono Guardar, escriba un nombre de archivo, haga clic con el botón doble en la carpeta del Explorador de ingresos hasta que llegue a la carpeta deseada para el panel y haga clic en **Guardar**.
+1. Para guardar, haga clic en el icono Guardar, escriba un nombre de archivo, haga clic con el doble en la carpeta del Explorador de ingresos hasta que llegue a la carpeta deseada para el panel y haga clic en **Guardar**.
 
    ![](assets/eleven.png)
 
 ## Edición de un Panel {#editing-a-dashboard}
 
-1. Haga clic en Explorador **de ingresos**.
+1. Haga clic en **Explorador de ingresos**.
 
    ![](assets/one.png)
 
-1. Haga clic con el botón doble en la carpeta Explorador **de** ingresos. Navegue hasta donde vive su panel.
+1. Haga clic con el doble en la carpeta **Revenue Explorer**. Navegue hasta donde vive su panel.
 
    ![](assets/thirteen.png)
 
@@ -81,11 +81,11 @@ Un panel es una combinación de informes del Explorador de ingresos para obtener
 
 ## Eliminación de un Panel {#deleting-a-dashboard}
 
-1. Haga clic en Explorador **de ingresos**.
+1. Haga clic en **Explorador de ingresos**.
 
    ![](assets/one.png)
 
-1. Haga clic con el botón doble en la carpeta Explorador **de** ingresos. Navegue hasta donde vive su panel.
+1. Haga clic con el doble en la carpeta **Revenue Explorer**. Navegue hasta donde vive su panel.
 
    ![](assets/thirteen.png)
 
