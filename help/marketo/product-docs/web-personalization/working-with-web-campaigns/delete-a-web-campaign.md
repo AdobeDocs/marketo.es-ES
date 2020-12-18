@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Eliminar una Campaña Web {#delete-a-web-campaign}
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña Web deseada, utilice la función [filter](filter-web-campaigns.md).
 
 1. En la página Campañas Web, haga clic en **Eliminar **en la campaña que desee eliminar.
 
