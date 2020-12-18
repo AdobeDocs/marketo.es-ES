@@ -17,7 +17,7 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
 
 ## Aprobar una Página de aterrizaje {#approve-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a Acciones **de** Página de aterrizaje y haga clic en **Aprobar**.
+1. Seleccione una página de aterrizaje, vaya a **Acciones de Página de aterrizaje** y haga clic en **Aprobar**.
 
    >[!TIP]
    >
@@ -37,21 +37,21 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
    >Una vez aprobado, el icono de página de aterrizaje tendrá una marca de verificación verde.
 
 1. Desaprobar una Página de aterrizaje
-1. Seleccione una página de aterrizaje, vaya a Acciones **de** Página de aterrizaje y haga clic en **Desaprobar**.
+1. Seleccione una página de aterrizaje, vaya a **Acciones de Página de aterrizaje** y haga clic en **Desaprobar**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. También puede hacer clic con el botón secundario en la página de aterrizaje y hacer clic en **Desaprobar**.
+1. También puede hacer clic con el botón secundario en su página de aterrizaje y hacer clic en **Desaprobar**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->La página de aterrizaje no aprobada ya no se publica en la web y no generará ninguna actividad adicional. Los visitantes a páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [página](../../../../product-docs/administration/settings/set-a-fallback-page.md)de reserva.
+>La página de aterrizaje no aprobada ya no se publica en la web y no generará ninguna actividad adicional. Los visitantes a páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [Página de reserva](../../../../product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminar una Página de aterrizaje {#delete-a-landing-page}
 
-1. Seleccione una página de aterrizaje, vaya a Acciones **de** Página de aterrizaje y haga clic en **Eliminar**.
+1. Seleccione una página de aterrizaje, vaya a **Acciones de Página de aterrizaje** y haga clic en **Eliminar**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -59,7 +59,7 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
    >
    >No puede eliminar una página de aterrizaje aprobada. Desaprobarlo primero.
 
-1. También puede hacer clic con el botón secundario en la página de aterrizaje y hacer clic en **Eliminar**.
+1. También puede hacer clic con el botón secundario en su página de aterrizaje y hacer clic en **Eliminar**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -79,7 +79,7 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
    >
    >También puede utilizar ctrl+clic para eliminar varias páginas de aterrizaje que no son secuenciales.
 
-1. Haga clic en la lista desplegable Acciones **de** Página de aterrizaje y seleccione **Eliminar**.
+1. Haga clic en la lista desplegable **Acciones de Página de aterrizaje** y seleccione **Eliminar**.
 
    ![](assets/three.png)
 
