@@ -24,17 +24,17 @@ Es necesario aprobar una segmentación antes de que pueda utilizarse.
 
 
 
-1. Vaya a la **base de datos**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. En la Segmentación, haga clic en Acciones **** de segmentación y, a continuación, en **Aprobar**.
+1. En la Segmentación, haga clic en **Acciones de segmentación** y luego **Aprobar**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >El estado cambia a Aprobación con una rueda giratoria ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mientras la aprobación está en curso.
+   >El estado cambia a Aprobación con una rueda giratoria ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mientras la aprobación está en proceso.
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Es necesario aprobar una segmentación antes de que pueda utilizarse.
    >
    >El número de personas de cada segmento se muestra entre corchetes junto al nombre del segmento.
 
-1. La ficha **Personas** del **segmento** ahora muestra la lista final de personas para el segmento.
+1. La ficha **Personas** del **Segmento** ahora muestra la lista final de personas para el segmento.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
@@ -55,7 +55,7 @@ Es necesario aprobar una segmentación antes de que pueda utilizarse.
 >
 >El número total de segmentos que puede crear en una segmentación depende del número y el tipo de filtros utilizados y también de la complejidad de la lógica de los segmentos. Aunque puede crear hasta 100 segmentos mediante campos estándar, el uso de otros tipos de filtros puede aumentar la complejidad y la segmentación podría no aprobarse. Algunos ejemplos son: campos personalizados, miembro de lista, campos de propietario de posibles clientes y etapas de ingresos.
 >
->Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con la asistencia técnica [de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
 >[!NOTE]
 >
