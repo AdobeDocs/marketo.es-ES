@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantillas de Página de aterrizaje guiadas {#guided-landing-page-templates}
 
-Explore nuestra colección de plantillas de ejemplo para utilizarlas con el Editor [de Páginas de aterrizaje](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)guiadas. Cada plantilla responde plenamente y se basa en el marco de Bootstrap.
+Explore nuestra colección de plantillas de ejemplo para utilizarlas con el [Editor de Páginas de aterrizaje guiadas](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla responde plenamente y se basa en el marco de Bootstrap.
 
 >[!NOTE]
 >
@@ -24,10 +24,10 @@ Para importar una plantilla en Marketing:
 1. Haga clic en el nombre de la plantilla para obtener una vista mayor.
 1. Descargue la plantilla seleccionada.
 1. En Marketing, vaya a **Design Studio.**
-1. Haga clic en **Páginas de aterrizaje** en el árbol de la izquierda y, a continuación, seleccione **Plantillas.**
+1. Haga clic en **Páginas de aterrizaje** en el árbol izquierdo y, a continuación, seleccione **Plantillas.**
 
 1. En la barra de menús, haga clic en **Plantilla de importación.**
-1. Elija el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición está **Guiado**).
+1. Elija el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guiado**).
 
 |  |  |  |
 |---|---|---|
