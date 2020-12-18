@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Aprobar o desaprobar un modelo de ingresos {#approve-unapprove-a-revenue-model}
+# Aprobar/desaprobar un modelo de ingresos {#approve-unapprove-a-revenue-model}
 
 Sólo puede tener un modelo aprobado en un momento dado.
 
 >[!CAUTION]
 >
->[Las etapas individuales deben aprobarse](approving-stages-and-assigning-leads-to-a-revenue-model.md) y se deben agregar personas antes de aprobar un modelo completo.
+>[Se deben ](approving-stages-and-assigning-leads-to-a-revenue-model.md) aprobar etapas individuales y se deben agregar personas antes de aprobar un modelo completo.
 
 ## Aprobar {#approve}
 
-1. Vaya al área **Análisis** .
+1. Vaya al área **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,7 +29,7 @@ Sólo puede tener un modelo aprobado en un momento dado.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. En el menú **Acciones** de modelo, elija **Aprobar modelo**.
+1. En el menú **Acciones de modelo**, elija **Aprobar modelo**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
@@ -45,7 +45,7 @@ Sólo puede tener un modelo aprobado en un momento dado.
 >
 >Si desaprueba su modelo, todas sus personas se eliminan del modelo y se elimina su historial en el modelo.
 
-1. Vaya al área **Análisis** .
+1. Vaya al área **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,7 +53,7 @@ Sólo puede tener un modelo aprobado en un momento dado.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Haga clic en el menú **Acciones** de modelo y seleccione **Desaprobar modelo**.
+1. Haga clic en el menú **Acciones de modelo** y elija **Desaprobar modelo**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
