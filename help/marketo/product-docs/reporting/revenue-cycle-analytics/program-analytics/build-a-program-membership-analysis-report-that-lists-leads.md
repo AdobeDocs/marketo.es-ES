@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cree un informe de Análisis de pertenencia a Programas que Lista los posibles clientes {#build-a-program-membership-analysis-report-that-lists-leads}
+# Genere un informe de Análisis de membresía de Programa que Lista los posibles clientes {#build-a-program-membership-analysis-report-that-lists-leads}
 
 Siga estos pasos para crear un informe de Análisis de pertenencia a Programa que muestre todos los nombres de miembros de programa.
 
@@ -49,7 +49,7 @@ Siga estos pasos para crear un informe de Análisis de pertenencia a Programa qu
 
 ![](assets/seven.png)
 
-Puede agregar rápidamente un atributo de posible cliente como Nombre **completo** para ver quiénes son los miembros.
+Puede agregar rápidamente un atributo de posible cliente como **Nombre completo** para ver quiénes son los miembros.
 
 >[!TIP]
 >
