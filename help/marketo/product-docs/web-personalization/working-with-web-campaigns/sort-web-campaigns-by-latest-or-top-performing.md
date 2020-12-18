@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Ordenar Campañas Web por rendimiento más reciente o mayor {#sort-web-campaigns-by-latest-or-top-performing}
+# Ordenar Campañas Web por el rendimiento más reciente o más alto {#sort-web-campaigns-by-latest-or-top-performing}
 
 Puede ordenar las campañas web de un par de formas diferentes.
 
-1. Vaya a Campañas **web.**
+1. Vaya a **Campañas Web.**
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -26,10 +26,10 @@ Puede ordenar las campañas web de un par de formas diferentes.
    >**Definición**
    >
    >
-   >**Última** : se ordenará en función de la fecha en que se creó la campaña. Campaña más reciente en la parte superior.
+   >**La última**  clasificación se ordenará en función de la fecha en que se creó la campaña. Campaña más reciente en la parte superior.
    >
    >
-   >**Mayor** **rendimiento** : clasificará las campañas en función de la tasa de pulsaciones. Pulsaciones más elevadas en la parte superior.
+   >**** **Superior** : clasificará las campañas en función de la tasa de pulsaciones. Pulsaciones más elevadas en la parte superior.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 
