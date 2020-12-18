@@ -19,10 +19,10 @@ Es fácil agregar un nuevo dispositivo de prueba para insertar notificaciones.
 >
 >**Se requieren permisos de administración**
 
-1. Haga clic en **Administración **y, a continuación, en el vínculo Aplicaciones **móviles** .\
+1. Haga clic en **Administración **y, a continuación, en el vínculo **Aplicaciones móviles**.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Haga clic en la ficha **Probar dispositivos** y en **Nuevo dispositivo** de prueba.
+1. Haga clic en la ficha **Probar dispositivos** y **Nuevo dispositivo de prueba**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
