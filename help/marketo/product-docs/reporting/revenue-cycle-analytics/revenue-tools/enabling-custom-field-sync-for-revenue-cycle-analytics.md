@@ -19,15 +19,15 @@ Los siguientes pasos le permitirán utilizar campos personalizados en los inform
 
    ![](assets/one.png)
 
-1. Haga clic en Análisis **de ciclo de ingresos** y, a continuación, en Sincronización **de campo** personalizada.
+1. Haga clic en **Análisis del ciclo de ingresos** y luego en **Sincronización del campo personalizado**.
 
    ![](assets/two.png)
 
-1. Seleccione el nombre **** del campo y, a continuación, haga clic en **Editar opción** de sincronización.
+1. Seleccione su **Nombre de campo** y haga clic en **Editar opción de sincronización**.
 
    ![](assets/three.png)
 
-1. En Estado de sincronización, seleccione **Habilitado** y, a continuación, haga clic en **Guardar**.
+1. En Estado de sincronización, seleccione **Habilitado** y haga clic en **Guardar**.
 
    ![](assets/four.png)
 
