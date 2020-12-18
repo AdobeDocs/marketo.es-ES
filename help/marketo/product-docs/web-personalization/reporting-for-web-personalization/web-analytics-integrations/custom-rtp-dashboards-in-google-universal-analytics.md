@@ -28,7 +28,7 @@ En esta publicación se explica cómo configurar paneles RTP en Google Universal
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Seleccione **Lienzo** en blanco, agregue un nombre **de** Panel y haga clic en **Crear Panel**.
+1. Seleccione **Lienzo en blanco**, agregue un **nombre de Panel** y haga clic en **Crear Panel**.
 
 1. Haga clic en **Añadir utilidad** para crear una nueva utilidad.\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
@@ -139,7 +139,7 @@ El panel consta de 3 columnas
     <ul> 
      <li>Nombre: Sesiones y objetivos por segmentos principales</li> 
      <li>Tipo: Tabla<br></li> 
-     <li>Muestre las siguientes columnas: <br>Etiqueta evento | Sesiones | Tasa de conversión de objetivos</li> 
+     <li>Muestre las siguientes columnas: <br>Etiqueta de Evento | Sesiones | Tasa de conversión de objetivos</li> 
      <li>Filtro: <br>Mostrar sólo | Categoría de Evento (que contiene) RTP-Segments</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
@@ -157,7 +157,7 @@ Este panel permite a los usuarios analizar el rendimiento de la campaña RTP y l
    * Participación (impresiones y clics en una campaña personalizada)
    * Clics en el motor de recomendación y en el contenido recomendado principal
 
-Cree un nuevo panel llamado Panel **de compromiso** RTP y defina las siguientes utilidades:
+Cree un nuevo panel llamado **Panel de compromiso RTP** y defina los siguientes widgets:
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -182,21 +182,21 @@ Cree un nuevo panel llamado Panel **de compromiso** RTP y defina las siguientes 
      <li>Nombre: <strong>Llamada a acción total (participación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la métrica siguiente: <strong>Eventos totales</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (contiene): Acción de Evento RTP-Campañas</strong><br><strong>[solo mostrar] (coincidencia exacta): Etiqueta de Evento Impresión</strong><strong>[no mostrar] (que contiene): #</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (contiene): Acción de Evento RTP-Campañas</strong><br><strong>[mostrar solamente] (coincidencia exacta): Impresión</strong><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Nombre: <strong>Llamada a acción total (pulsación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la métrica siguiente: <strong>Eventos totales</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (contiene): Acción de Evento RTP-Campañas</strong><br><strong>[solo mostrar] (exactamente coincidente): Etiqueta de Evento de clics</strong><strong>[no mostrar] (que contiene): #</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (contiene): Acción de Evento RTP-Campañas</strong><br><strong>[mostrar solamente] (exactamente coincidente): Clics</strong><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Nombre: <strong>CRE - Total de clics</strong></li> 
-     <li>Tipo: <strong>2.1 Métrica</strong><br></li> 
+     <li>Tipo: <strong>Métrica 2.1</strong><br></li> 
      <li>Mostrar la métrica siguiente: <strong>Vistas de página</strong></li> 
-     <li>Filtro: <strong>[mostrar solamente] Página (que contiene): rcmd</strong></li> 
+     <li>Filtro: <strong>[solamente mostrar] Página (que contiene): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -205,21 +205,21 @@ Cree un nuevo panel llamado Panel **de compromiso** RTP y defina las siguientes 
      <li>Nombre: <strong>Promedio Duración de la sesión (compromiso)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la métrica siguiente: <strong>Promedio Duración de la sesión</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (exactamente coincidente): Acción de Evento RTP-Campañas</strong><br><strong>[solo mostrar] (exactamente coincidente): Etiqueta de Evento de impresión</strong><strong>[no mostrar] (que contiene): #</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (coincidencia exacta): Acción de Evento RTP-Campañas</strong><br><strong>[mostrar solamente] (exactamente coincidente): impresiones</strong><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Nombre: <strong>Promedio Duración de la sesión (pulsación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la métrica siguiente: <strong>Promedio Duración de la sesión</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (exactamente coincidente): Acción de Evento RTP-Campañas</strong><br><strong>[solo mostrar] (exactamente coincidente): clicks</strong><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (coincidencia exacta): Acción de Evento RTP-Campañas</strong><br><strong>[mostrar solamente] (exactamente coincidente): clicks</strong><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Nombre: <strong>CRE - Contenido recomendado más importante</strong></li> 
+     <li>Nombre: <strong>CRE - Contenido recomendado principal</strong></li> 
      <li>Tipo: <strong>Tabla</strong><br></li> 
      <li>Muestre las siguientes columnas: <br><strong>Título de página | Vistas de página</strong><br></li> 
-     <li>Filtros:<br>Filtro: <strong>[mostrar solamente] Página (que contiene): rcmd</strong></li> 
+     <li>Filtros:<br>Filtro: <strong>[solamente mostrar] Página (que contiene): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -228,7 +228,7 @@ Cree un nuevo panel llamado Panel **de compromiso** RTP y defina las siguientes 
      <li>Nombre: <strong>Páginas / Sesión (compromiso)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la métrica siguiente: <strong>Páginas / Sesión</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (exactamente coincidente): Campañas RTP</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (coincidencia exacta): Campañas RTP</strong></li> 
      <li><strong>Acción de Evento [solo mostrar] (exactamente coincidente): impresión</strong></li> 
      <li><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
@@ -237,7 +237,7 @@ Cree un nuevo panel llamado Panel **de compromiso** RTP y defina las siguientes 
      <li>Nombre: <strong>Páginas / Sesión (pulsación)</strong></li> 
      <li>Tipo: <strong>2.1 Métrica </strong></li> 
      <li>Mostrar la métrica siguiente: <strong>Páginas / Sesión</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (exactamente coincidente): Campañas RTP</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (coincidencia exacta): Campañas RTP</strong></li> 
      <li><strong>Acción de Evento [solo mostrar] (exactamente coincidente): clics</strong></li> 
      <li><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -246,17 +246,17 @@ Cree un nuevo panel llamado Panel **de compromiso** RTP y defina las siguientes 
   <tr> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Impresiones por CTA</strong></li> 
+     <li>Nombre: <strong>Impresiones de CTA</strong></li> 
      <li>Tipo: <strong>Tabla</strong></li> 
-     <li>Muestre las siguientes columnas: <strong>Etiqueta evento | Eventos totales | Usuarios</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (exactamente coincidente): Acción de Evento RTP-Campañas</strong><br><strong>[solo mostrar] (exactamente coincidente): Etiqueta de Evento de impresión</strong><strong>[no mostrar] (que contiene): #</strong></li> 
+     <li>Muestre las siguientes columnas: <strong>Etiqueta de Evento | Eventos totales | Usuarios</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (coincidencia exacta): Acción de Evento RTP-Campañas</strong><br><strong>[mostrar solamente] (exactamente coincidente): impresiones</strong><strong>[no mostrar] Etiqueta de Evento (que contiene): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nombre: <strong>Pulsaciones por CTA</strong></li> 
+     <li>Nombre: <strong>Pulsación por CTA</strong></li> 
      <li>Tipo: <strong>Tabla</strong></li> 
-     <li>Muestre las siguientes columnas: <strong>Etiqueta evento | Eventos totales | Usuarios</strong></li> 
-     <li>Filtros:<br><strong>Categoría de Evento [solo mostrar] (exactamente coincidente): Acción de Evento RTP-Campañas</strong><br><strong>[solo mostrar] (exactamente coincidente): clics</strong></li> 
+     <li>Muestre las siguientes columnas: <strong>Etiqueta de Evento | Eventos totales | Usuarios</strong></li> 
+     <li>Filtros:<br><strong>[mostrar solamente] Categoría de Evento (coincidencia exacta): Acción de Evento RTP-Campañas</strong><br><strong>[mostrar solamente] (exactamente coincidente): clicks</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
