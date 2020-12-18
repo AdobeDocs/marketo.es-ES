@@ -21,7 +21,7 @@ Haga clic en el inicio + para agregar filtros.
 
 >[!NOTE]
 >
->En este momento, los atributos personalizados solo están disponibles en filtros para los clientes que tienen [RCA](http://docs.marketo.com/x/lwIk) habilitado.
+>En este momento, los atributos personalizados solo están disponibles en filtros para clientes que tengan [RCA](http://docs.marketo.com/x/lwIk) habilitada.
 
 Al hacer clic en una categoría se revelan varias subcategorías.
 
