@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Uso de plantillas para crear Campañas Web {#using-templates-to-create-web-campaigns}
 
-Acelere y simplifique el proceso de creación de campañas web mediante el uso de nuestras plantillas integradas o [guardando las suyas](save-your-campaign-as-a-template.md).
+Acelere y simplifique el proceso de creación de campañas web mediante el uso de las plantillas integradas o [guardando su propia](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Acelere y simplifique el proceso de creación de campañas web mediante el uso d
 
    >[!TIP]
    >
-   >Para campañas móviles, seleccione una plantilla en la sección **móvil** .
+   >Para campañas móviles, seleccione una plantilla en la sección **mobile**.
 
 1. Personalice la plantilla.
 
