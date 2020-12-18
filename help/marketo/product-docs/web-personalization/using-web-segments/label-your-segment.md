@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Etiquetar un segmento {#tag-a-segment}
 
-1. Inicie sesión en Personalización web y vaya a **Segmentos**.
+1. Inicie sesión en Personalización Web y vaya a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. O bien, para crear una nueva etiqueta, haga clic en **Definir etiqueta**, escriba el nuevo nombre de la etiqueta y haga clic en **Crear nueva**.
+1. O bien, para crear una nueva etiqueta, haga clic en **Establecer etiqueta**, escriba el nuevo nombre de la etiqueta y haga clic en **Crear nueva**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
