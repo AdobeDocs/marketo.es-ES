@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Publicar una encuesta {#publish-a-poll}
 
-Después de [crear una encuesta](create-a-poll.md), puede publicarla en sus páginas de aterrizaje de marketing, en Facebook y en su sitio web.
+Después de [crear una encuesta](create-a-poll.md), puede publicarla en sus páginas de aterrizaje de Marketing, en Facebook y en su sitio web.
 
 1. Vaya a la página de aterrizaje y ábrala para editarla.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Arrastre el ratón sobre **Encuesta** desde la paleta de la derecha.
+1. Arrastre **Encuesta** desde la paleta de la derecha.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
@@ -33,7 +33,7 @@ Después de [crear una encuesta](create-a-poll.md), puede publicarla en sus pág
 >
 >Debe aprobar la encuesta para que esté disponible aquí.
 
-¡Felicitaciones! Apruebe la página de aterrizaje y la encuesta esté activa. También puede [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar la encuesta en el sitio web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+¡Felicitaciones! Apruebe la página de aterrizaje y la encuesta esté activa. También puede [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar la encuesta en su sitio Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
