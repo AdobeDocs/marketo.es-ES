@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Cargar imágenes y archivos desde cuadro {#upload-images-and-files-from-box}
+# Cargar imágenes y archivos desde el cuadro {#upload-images-and-files-from-box}
 
 Puede cargar archivos desde Box para utilizarlos en páginas de aterrizaje y correos electrónicos.
 
-1. Vaya a **Design** **Studio**.
+1. Vaya a **Diseño** **Estudio**.
 
    ![](assets/designstudio-3.png)
 
-1. Vaya a** Imágenes y archivos**. Haga clic en Acciones **** de archivo y seleccione **Capturar imágenes de la Web**.
+1. Vaya a** Imágenes y archivos**. Haga clic en **Acciones de archivo** y seleccione **Capturar imágenes de Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
@@ -35,7 +35,7 @@ Puede cargar archivos desde Box para utilizarlos en páginas de aterrizaje y cor
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Elija dónde desea guardar los archivos. A continuación, seleccione la carpeta **Cuadro** desde la que desea cargar. Haga clic en **Siguiente**.
+1. Elija dónde desea guardar los archivos. A continuación, seleccione la carpeta **Box** desde la que desea cargar. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
