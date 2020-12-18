@@ -15,7 +15,7 @@ ht-degree: 0%
 
 En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede elegir qué sucede después de que una persona comparta el contenido en su red social.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,22 +23,22 @@ En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. En el editor de aplicaciones sociales, vaya a Ajustes **de** aplicación**** y, a continuación, a Opciones **** avanzadas.
+1. En el editor de la aplicación social, vaya a **Configuración de la aplicación***** y, a continuación, a **Opciones avanzadas**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. En **Después de compartir**, seleccione el comportamiento que desee.
+1. Para **Después de compartir**, seleccione el comportamiento que desee.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Mensaje de confirmación:** Una vez que la persona haya compartido, muestre una confirmación.
-   * **Captura de correo electrónico:** Una vez que la persona haya compartido, solicite su dirección de correo electrónico.
+   * **Mensaje de confirmación:** una vez que la persona haya compartido, muestre una confirmación.
+   * **Captura de correo electrónico:** una vez que la persona haya compartido, solicite su dirección de correo electrónico.
 
    >[!NOTE]
    >
-   >Si selecciona Captura **de** correo electrónico, la solicitud solo se muestra si la persona no ha proporcionado ya su información.
+   >Si elige **Captura de correo electrónico**, la solicitud solo se muestra si la persona no ha proporcionado ya su información.
 
-1. Si elige Mensaje **de confirmación:** Vaya a Flujo **** compartido y, a continuación, **Mensaje** de confirmación.
+1. Si elige **Mensaje de confirmación:** Vaya a **Flujo de recurso compartido** y luego **Mensaje de confirmación**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +46,11 @@ En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Si ha seleccionado Captura **de** correo electrónico (en lugar de confirmación): Vaya a Flujo **** compartido y, a continuación, a Captura de **correo electrónico**.
+1. Si elige **Captura de correo electrónico** (en lugar de confirmación): Vaya a **Flujo compartido** y luego a **Captura de correo electrónico**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Seleccione si desea incluir un mensaje de marketing y si esa casilla de verificación está seleccionada de forma predeterminada (**Exclusión**) o no (**Adhesión**).
+1. Elija si desea incluir un mensaje de marketing y si esa casilla de verificación está seleccionada de forma predeterminada (**Exclusión**) o no (**Adhesión**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 
