@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Publicar una apuesta {#publish-a-sweepstakes}
 
-Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en las páginas de aterrizaje de marketing, en el sitio web y en Facebook.
+Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en sus páginas de aterrizaje de marketing, en su sitio web y en su Facebook.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en las 
    >
    >Debe aprobar sus apuestas para que estén disponibles aquí.
 
-   [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [poner las apuestas en su sitio web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publicar la página de aterrizaje en ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook colocar las apuestas en el sitio web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en las 
 
    >[!NOTE]
    >
-   >Una vez que las personas inicios de registrarse, ¡recuerda volver a la aplicación para [seleccionar a los ganadores](select-sweepstakes-winners.md)de apuestas!
+   >Una vez que las personas inicios de registrarse, recuerde volver a la aplicación para [seleccionar los ganadores de apuestas](select-sweepstakes-winners.md)!
 
 ¡Felicitaciones! Apruebe la página de aterrizaje y sus apuestas están activas. También puede o .
