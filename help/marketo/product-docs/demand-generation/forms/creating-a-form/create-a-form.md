@@ -17,7 +17,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
 >[!NOTE]
 >
->Descubra lo que Marketing está haciendo para [mantener los formularios seguros](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Descubra lo que Marketing está haciendo para [mantener seguros los formularios](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Vaya a **Marketing** **Actividades**.
 
@@ -27,7 +27,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
    ![](assets/programseelct.png)
 
-1. En **Nuevo**, haga clic en **Nuevo** **recurso** **local**.
+1. En **Nuevo**, haga clic en **Nuevo** **Local** **Recurso**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Cree y utilice un formulario en una página de aterrizaje para generar nuevos no
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Introduzca un **nombre** de formulario y haga clic en **Crear**.
+1. Escriba un formulario **Nombre** y haga clic en **Crear**.
 
    ![](assets/newformwithhands.png)
 
