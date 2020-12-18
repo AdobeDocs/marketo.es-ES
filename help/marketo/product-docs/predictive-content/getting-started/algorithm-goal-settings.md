@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La Configuración de objetivos de algoritmo le permite establecer el objetivo final del algoritmo de inteligencia artificial de contenido predictivo para que se ajuste a sus objetivos comerciales.
 
-1. En Contenido predictivo, haga clic en el nombre de inicio de sesión y seleccione Configuración **de contenido**.
+1. En Contenido predictivo, haga clic en el nombre de inicio de sesión y seleccione **Configuración de contenido**.
 
    ![](assets/1.png)
 
