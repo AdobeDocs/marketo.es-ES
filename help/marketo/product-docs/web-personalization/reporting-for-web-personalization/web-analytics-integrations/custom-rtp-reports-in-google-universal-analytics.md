@@ -34,17 +34,17 @@ Esta publicación explica cómo configurar informes personalizados RTP para Goog
 
 ## Informe RTP B2B {#rtp-b-b-report}
 
-1. Asigne un nombre al informe **RTP B2B**.
+1. Asigne un nombre al informe **Informe RTP B2B**.
 1. Asigne un nombre a la primera ficha **Sector **
 
-   1. (Nota: duplicado **de esta ficha** y creación de otras similares - paso 5)
+   1. (Nota: **Duplicado esta ficha** y creará otras similares - paso 5)
 
 1. Seleccione el tipo de informe** Explorador**.\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
 
    **
 
-1. En la sección Grupos **de** métricas, seleccione las métricas que sean relevantes para su negocio.
+1. En la sección **Grupos de métricas**, seleccione las métricas que son relevantes para su negocio.
 
    1. Recomendamos lo siguiente:\
       ** ![](assets/image2015-3-22-16-3a16-3a40.png)
@@ -61,7 +61,7 @@ Esta publicación explica cómo configurar informes personalizados RTP para Goog
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. En la sección Desgloses **del** Dimension, defina las dimensiones relevantes para cada ficha como se muestra a continuación.
+1. En la sección **Desgloses de Dimension** establezca las dimensiones relevantes para cada ficha como se muestra a continuación.
 
 <table> 
  <thead> 
@@ -106,12 +106,12 @@ Esta publicación explica cómo configurar informes personalizados RTP para Goog
 
 ## Informe de participación de RTP {#rtp-engagement-report}
 
-1. Asigne un nombre al informe de compromiso de **RTP.**
+1. Asigne un nombre al informe **Informe de participación de RTP.**
 1. Establezca el nombre de la primera ficha en **Todos los compromisos**
 
    1. (Nota: duplicado esta ficha y creará otras similares - paso 5)
 
-1. Seleccione el tipo de informe **Explorador** .\
+1. Seleccione el tipo de informe **Explorador**.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. En la sección Grupos de métricas, seleccione las métricas que son relevantes para su negocio. Esta es una recomendación:\
@@ -127,7 +127,7 @@ Esta publicación explica cómo configurar informes personalizados RTP para Goog
 
    ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
 
-1. En la sección Desgloses **del** Dimension, defina las dimensiones relevantes para cada ficha como se muestra a continuación:
+1. En la sección **Desgloses de Dimension** establezca las dimensiones relevantes para cada ficha como se muestra a continuación:
 
 <table> 
  <thead> 
