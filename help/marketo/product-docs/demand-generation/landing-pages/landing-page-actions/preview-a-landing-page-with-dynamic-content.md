@@ -24,11 +24,11 @@ Previsualización la página de aterrizaje después de añadir contenido dinámi
 
 
 
-1. Seleccione una página de aterrizaje y haga clic en Página **de Previsualización.**
+1. Seleccione una página de aterrizaje y haga clic en **Página de Previsualización.**
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Haga clic en la lista desplegable y seleccione un **segmento** para previsualización.
+1. Haga clic en la lista desplegable y seleccione un **Segmento** para previsualización.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
