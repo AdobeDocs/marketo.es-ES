@@ -17,9 +17,9 @@ Los gráficos rápidos son miniaturas que puede personalizar y guardar, lo que p
 
 ## Crear un nuevo gráfico rápido {#create-a-new-quick-chart}
 
-Los gráficos rápidos se derivan de los datos que especifique. En este ejemplo, elegiremos: **nuevas oportunidades (primer toque), tipo de oportunidad = nueva empresa, año actual hasta la fecha**.
+Los gráficos rápidos se derivan de los datos que especifique. En este ejemplo, elegiremos: **nuevas oportunidades (primer toque), tipo de oportunidad = nuevo negocio, año actual hasta la fecha**.
 
-1. Haga clic en el filtro de fechas y elija Año **actual (año actual)**.
+1. Haga clic en el filtro de fechas y elija **Año actual (YTD)**.
 
    ![](assets/1-2.png)
 
@@ -31,7 +31,7 @@ Los gráficos rápidos se derivan de los datos que especifique. En este ejemplo,
 
    ![](assets/3-3.png)
 
-1. Haga clic en el icono Exportar y seleccione **Guardar como gráfico** rápido.
+1. Haga clic en el icono Exportar y seleccione **Guardar como gráfico rápido**.
 
    ![](assets/4-2.png)
 
@@ -49,7 +49,7 @@ El gráfico rápido ahora está con los demás.
 
 ## Vista de gráficos rápidos existentes {#view-existing-quick-charts}
 
-1. Para vista de los gráficos rápidos existentes, haga clic en el icono **Gráficos** rápidos.
+1. Para vista de los gráficos rápidos existentes, haga clic en el icono **Gráficos rápidos**.
 
    ![](assets/7-1.png)
 
@@ -57,11 +57,11 @@ El gráfico rápido ahora está con los demás.
 
 Si necesita eliminar un gráfico rápido, siga estos sencillos pasos.
 
-1. Haga clic en el icono **Gráficos** rápidos.
+1. Haga clic en el icono **Gráficos rápidos**.
 
    ![](assets/8-1.png)
 
-1. Pase el ratón sobre el gráfico deseado, pero no haga clic en él. Al pasar el ratón por encima, aparecerá una X. Haga clic en la **X**.
+1. Pase el ratón sobre el gráfico deseado, pero no haga clic en él. Al pasar el ratón por encima, aparecerá una X. Haga clic en **X**.
 
    ![](assets/9-2.png)
 
