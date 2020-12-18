@@ -23,7 +23,7 @@ Puedes enviar mensajes SMS a las personas de tus listas de Vibes y usar la activ
 >
 >Necesita permisos de administrador de marketing y una cuenta de vibraciones activa para completar esta configuración. Las credenciales solicitadas en el paso 4 a continuación son las credenciales de su cuenta de Vibes.
 
-1. En Mi marketing, haga clic en **Administración** y, a continuación, en **LaunchPoint**.
+1. En Mi marketing, haga clic en **Administración** y luego en **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
@@ -31,7 +31,7 @@ Puedes enviar mensajes SMS a las personas de tus listas de Vibes y usar la activ
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
-1. Introduzca un nombre para mostrar y, en la lista desplegable, seleccione **Vibes**.
+1. Introduzca un nombre para mostrar y, en el menú desplegable, seleccione **Vibes**.
 
    ![](assets/new-service-vibes.png)
 
