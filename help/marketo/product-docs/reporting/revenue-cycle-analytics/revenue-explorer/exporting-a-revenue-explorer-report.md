@@ -30,7 +30,7 @@ Puede exportar cualquier informe del explorador de ingresos y compartirlo con cu
    >    * CSV
 
 
-1. Seleccione el formato **y la** orientación **de la** página que desee y haga clic en **Exportar**.
+1. Seleccione el **Formato de página** y **Orientación** que desee y haga clic en **Exportar**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
