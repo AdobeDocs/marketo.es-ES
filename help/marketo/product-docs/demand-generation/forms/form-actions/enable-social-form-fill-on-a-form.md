@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Habilitar el relleno de formulario social en un formulario {#enable-social-form-fill-on-a-form}
+# Habilitar relleno de formulario social en un formulario {#enable-social-form-fill-on-a-form}
 
 Permita que los visitantes rellenen el formulario con sus redes sociales. Usted obtendrá automáticamente datos adicionales y ellos obtendrán una experiencia más rápida.
 
@@ -25,11 +25,11 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Usted 
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. En **Configuración** de **formulario** , haga clic en **Configuración**.
+1. En **Formulario** **Configuración** haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,7 +39,7 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Usted 
 
    >[!TIP]
    >
-   >Observe qué [datos capturará](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) Marketing si las personas utilizan los botones sociales.
+   >Observe qué [Data Marketing capturará](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
 
 1. Haga clic en **Finalizar**.
 
