@@ -23,11 +23,11 @@ Explore en profundidad un informe de rendimiento de personas para ver informaci�
 
    ![](assets/two.png)
 
-1. Haga clic en **Explorar**.
+1. Haga clic en **Detallar**.
 
    ![](assets/three.png)
 
-1. En la ventana emergente **Detallado** , seleccione el atributo al que desea profundizar. A continuación, haga clic en** Detallado**.
+1. En la ventana emergente **Detallar**, seleccione el atributo al que desee profundizar. A continuación, haga clic en** Detallado**.
 
    ![](assets/four.png)
 
