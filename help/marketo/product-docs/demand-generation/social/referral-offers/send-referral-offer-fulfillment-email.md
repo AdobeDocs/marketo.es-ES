@@ -30,17 +30,17 @@ Recompense a sus clientes con cupones y códigos de descuento mediante el correo
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. En Configuración **de aplicación**, seleccione Detalles de **Oferta.**
+1. En **Configuración de aplicación**, seleccione **Detalles de Oferta.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. Seleccione un correo electrónico **de registro**.
+1. Seleccione un **correo electrónico de registro**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Seleccione un correo electrónico **de descarga**.
+1. Seleccione un **correo electrónico de descarga**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,19 +49,19 @@ Recompense a sus clientes con cupones y códigos de descuento mediante el correo
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre el [uso de correos electrónicos en las promociones](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)sociales.
+   >Obtenga más información sobre [el uso de correos electrónicos en promociones sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Haga clic en la lista desplegable **Envío** de descarga y seleccione **Automático en el objetivo**.
+1. Haga clic en la lista desplegable **Envío de descarga** y seleccione **Automático en gol**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   El mensaje seleccionado en Correo electrónico **de** descarga se enviará automáticamente a las personas que alcancen el objetivo.
+   El mensaje seleccionado en **Correo electrónico de descarga** se enviará automáticamente a las personas que alcancen el objetivo.
 
 ## Envío manual {#manual-send}
 
 Puede enviar un correo electrónico de cumplimiento manualmente a una persona una vez que haya cumplido el objetivo.
 
-1. Seleccione la oferta de referencia y haga clic en la ficha **Participantes** .
+1. Seleccione la oferta de referencia y haga clic en la ficha **Participantes**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
@@ -77,7 +77,7 @@ Puede enviar un correo electrónico de cumplimiento manualmente a una persona un
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Haga clic con el botón derecho y seleccione **Enviar correo electrónico** de descarga.
+1. Haga clic con el botón derecho y seleccione **Enviar correo electrónico de descarga**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
