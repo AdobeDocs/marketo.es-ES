@@ -17,11 +17,11 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
 ## Crear un borrador de segmentación {#create-a-segmentation-draft}
 
-1. Vaya a la **base de datos**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/db.png)
 
-1. En la segmentación, haga clic en Acciones **** de segmentación y, a continuación, **Crear borrador**.
+1. En la segmentación, haga clic en **Acciones de segmentación** y luego **Crear borrador**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
 ## Añadir, editar o eliminar segmentos {#add-edit-or-delete-segments}
 
-1. En la segmentación, haga clic en Acciones **** de segmentación y, a continuación, en **Editar segmentos**.
+1. En la segmentación, haga clic en **Acciones de segmentación** y luego **Editar segmentos**.
 
    ![](assets/four.png)
 
@@ -49,11 +49,11 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
    >[!CAUTION]
    >
-   >La eliminación afecta a todo el contenido dinámico asociado en correos electrónicos, Páginas de aterrizaje y fragmentos. **No hay deshacer**. Marque la ficha **Utilizado por** para ver qué utiliza ese segmento.
+   >La eliminación afecta a todo el contenido dinámico asociado en correos electrónicos, Páginas de aterrizaje y fragmentos. **No hay deshacer**. Consulte la ficha **Utilizado por** para ver qué utiliza ese segmento.
 
 ## Editar reglas de segmentos {#edit-segment-rules}
 
-1. En el **segmento** Borrador, vaya a Lista **** inteligente. Aplique reglas similares a [Definición de reglas](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)de segmentos.
+1. En el Segmento borrador ****, vaya a **Lista inteligente**. Aplique reglas similares a [Definición de reglas de segmentos](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
