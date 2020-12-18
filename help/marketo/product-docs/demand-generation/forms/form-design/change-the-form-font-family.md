@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cambiar la familia de fuentes del formulario {#change-the-form-font-family}
+# Cambiar la familia de fuentes de formulario {#change-the-form-font-family}
 
 Las fuentes de Google son increíbles y las incorporamos directamente en el editor de formularios. ¡Echa un vistazo!
 
@@ -23,19 +23,19 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. En **Configuración del formulario** **Configuración**, seleccione **Configuración**.
+1. En **Formulario** **Configuración**, seleccione **Configuración**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Seleccione la familia **de** fuentes que desee.
+1. Seleccione la **Familia de fuentes** que desee.
 
    >[!TIP]
    >
-   >Hay un montón de [fuentes](http://www.google.com/fonts) de Google disponibles para su uso.
+   >Hay un grupo de [fuentes de Google](http://www.google.com/fonts) disponibles para su uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
