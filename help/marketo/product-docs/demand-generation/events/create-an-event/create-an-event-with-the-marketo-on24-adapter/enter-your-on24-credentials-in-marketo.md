@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Introduzca sus credenciales ON24 en Marketing {#enter-your-on-credentials-in-marketo}
+# Escriba las credenciales de ON24 en Marketing {#enter-your-on-credentials-in-marketo}
 
 Empecemos con la integración de evento ON24. Si alguna vez necesita editar o eliminar sus credenciales, estos pasos también se incluyen a continuación.
 
-## Especificar credenciales {#enter-credentials}
+## Escriba las credenciales {#enter-credentials}
 
 1. Inicie sesión en Marketing y haga clic en **Administración**.
 
@@ -25,17 +25,17 @@ Empecemos con la integración de evento ON24. Si alguna vez necesita editar o el
 
    ![](assets/image2015-12-22-13-3a15-3a38.png)
 
-1. En Servicios instalados, haga clic en **Nuevo** y, a continuación, en **Nuevo servicio**.
+1. En Servicios instalados, haga clic en **Nuevo** y luego **Nuevo servicio**.
 
    ![](assets/image2015-12-22-13-3a18-3a54.png)
 
 1. En el cuadro de diálogo Nuevo servicio, introduzca esta información:
 
-   * **Nombre** para mostrar: introduzca un nombre para utilizarlo en el marketing. Puede ser su nombre o el nombre de su grupo si comparte sus credenciales.
-   * **Servicio** : seleccione **On24** en el menú desplegable.
+   * **Nombre**  para mostrar: introduzca un nombre para utilizarlo en el marketing. Puede ser su nombre o el nombre de su grupo si comparte sus credenciales.
+   * **Servicio** : seleccione  **On24** en el menú desplegable.
 
-   * **Clave** de cliente: introduzca la clave de cliente ON24 que utiliza para iniciar sesión. La clave de cliente es una cadena de 32 dígitos que contiene una mezcla de letras y números.
-   * **ID** de cliente: introduzca el ID de cliente ON24 de 4 dígitos que utiliza para iniciar sesión. Puede obtener el ID de cliente y la clave de cliente directamente del administrador de cuentas de ON24.
+   * **Clave**  de cliente: introduzca la clave de cliente ON24 que utiliza para iniciar sesión. La clave de cliente es una cadena de 32 dígitos que contiene una mezcla de letras y números.
+   * **ID**  de cliente: introduzca el ID de cliente ON24 de 4 dígitos que utiliza para iniciar sesión. Puede obtener el ID de cliente y la clave de cliente directamente del administrador de cuentas de ON24.
 
    ![](assets/image2015-12-22-13-3a38-3a52.png)
 
@@ -59,7 +59,7 @@ Puede editar sus credenciales si la contraseña caduca o necesita realizar un ca
 
 ## Eliminar un servicio {#delete-a-service}
 
-1. En la ficha Servicios instalados, seleccione el servicio que desee eliminar, haga clic en la lista desplegable Acciones **de** servicio y seleccione **Eliminar servicio**.
+1. En la ficha Servicios instalados, seleccione el servicio que desee eliminar, haga clic en la lista desplegable **Acciones de servicio** y seleccione **Eliminar servicio**.
 
    ![](assets/eight.png)
 
