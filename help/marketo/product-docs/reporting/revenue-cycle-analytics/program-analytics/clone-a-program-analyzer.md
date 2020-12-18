@@ -19,15 +19,15 @@ Después de guardar un analizador, es fácil clonarlo para crear uno nuevo. A co
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Haga clic en el mosaico del Analizador de **Programas** .
+1. Haga clic en el mosaico **Analizador de Programa**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Mientras el analizador guardado está abierto, abra la lista desplegable Acciones del analizador y seleccione Analizador **de clonar**.
+1. Mientras el analizador guardado está abierto, abra la lista desplegable Acciones del analizador y seleccione **Analizador de clonar**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Seleccione la ubicación del analizador clonado en las listas desplegables **Clonar para** y **Carpeta** .
+1. Seleccione la ubicación del analizador clonado en las listas desplegables **Clonar a** y **Carpeta**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
