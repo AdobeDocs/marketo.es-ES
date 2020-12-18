@@ -31,11 +31,11 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha **Personas** .
+1. Haga clic en la ficha **Personas**.
 
    ![](assets/three-1.png)
 
-1. Haga clic en el icono** Enviar por el puente de publicidad ** ![—](assets/image2015-4-20-18-3a18-3a41.png) en la parte inferior de la lista.
+1. Haga clic en el** Enviar por puente de publicidad **icono ![—](assets/image2015-4-20-18-3a18-3a41.png) en la parte inferior de la lista.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Seleccione una Audiencia **de LinkedIn**.
+1. Seleccione una **Audiencia de LinkedIn**.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
    >
    >LinkedIn dejó de utilizar las API utilizadas para el tipo de inserción &quot;Borrar audiencia y agregar leads&quot; en marzo de 2018. Esta opción ya no está disponible a partir de la versión del primer trimestre de 2018 de Marketing Cloud.
 
-1. Seleccione un tipo **de** inserción. Haga clic en **Actualizar**.
+1. Seleccione un **Tipo de inserción**. Haga clic en **Actualizar**.
 
    ![](assets/7.png)
 
