@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Publicación de una Oferta de referencia {#publish-a-referral-offer}
+# Publicar una Oferta de referencia {#publish-a-referral-offer}
 
-Después de [crear una oferta](create-a-referral-offer.md)de referencia, puede publicarla en sus páginas de aterrizaje de marketing, en Facebook y en su sitio web.
+Después de [crear una oferta de referencia](create-a-referral-offer.md), puede publicarla en sus páginas de aterrizaje de marketing, en Facebook y en su sitio web.
 
 1. Vaya a la página de aterrizaje y ábrala para editarla.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Arrastre el ratón sobre la Oferta **** de referencia desde la paleta de la derecha.
+1. Arrastre el ratón sobre **Oferta de referencia** desde la paleta de la derecha.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
@@ -33,7 +33,7 @@ Después de [crear una oferta](create-a-referral-offer.md)de referencia, puede p
 >
 >Debe aprobar su oferta de referencia para que esté disponible aquí.
 
-¡Felicitaciones! Apruebe la página de aterrizaje y su oferta de referencia está activa. También puede [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar la oferta en su sitio web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+¡Felicitaciones! Apruebe la página de aterrizaje y su oferta de referencia está activa. También puede [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar la oferta en su sitio Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
