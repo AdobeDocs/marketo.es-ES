@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
-Para utilizar contenido predictivo, debe generar y configurar el RTP (Personalización web) `tag.`
+Para utilizar contenido predictivo, debe generar y configurar el RTP (Personalización Web) `tag.`
 
 ## Generar etiqueta {#generate-tag}
 
-1. Inicie sesión en su cuenta de contenido predictivo. Vaya a Configuración **de cuenta**.
+1. Inicie sesión en su cuenta de contenido predictivo. Vaya a **Configuración de la cuenta**.
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. En Configuración **** de dominio, localice el dominio relevante y haga clic en **Generar etiqueta.**
+1. En **Configuración de dominio**, localice el dominio relevante y haga clic en **Generar etiqueta.**
 
    ![](assets/generate-tag.png)
 
@@ -35,8 +35,8 @@ Para utilizar contenido predictivo, debe generar y configurar el RTP (Personaliz
 
    >[!NOTE]
    >
-   >Copie la etiqueta JavaScript de Personalización web y péguela como la primera secuencia de comandos en el encabezado de las páginas, entre las `<head> </head>` etiquetas. Consulte las instrucciones [de implementación más detalladas aquí](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Copie la etiqueta JavaScript de Personalización web y péguela como la primera secuencia de comandos en el encabezado de las páginas, entre las etiquetas `<head> </head>`. Consulte las [instrucciones de implementación más detalladas aquí](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
 
-1. Compruebe que la etiqueta aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios. Marque esta opción haciendo clic con el botón secundario en la `website’s` página. Vaya a Origen **de página de** Vista en un explorador Web. Buscar: &quot;RTP&quot;.
-1. Confirme que la opción de alternancia de etiquetas está **activada**.
+1. Compruebe que la etiqueta aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios. Marque esto haciendo clic con el botón derecho en su página `website’s`. Vaya a **Origen de página de Vista** en un explorador Web. Buscar: &quot;RTP&quot;.
+1. Confirme que el alternador de etiquetas está establecido en **ON**.
 
