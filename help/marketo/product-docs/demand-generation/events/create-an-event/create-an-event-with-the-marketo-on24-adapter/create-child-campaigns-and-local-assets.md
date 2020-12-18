@@ -38,7 +38,7 @@ Con el paso de flujo adecuado añadido a la campaña de registro, la gente será
 
 Cree los mensajes de correo electrónico de invitación, confirmación, seguimiento y agradecimiento mediante MarketingTo.
 
-## Autentificador de URL y correo electrónico de confirmación de marketing {#marketo-confirmation-email-and-url-token}
+## Token de dirección URL y correo electrónico de confirmación de marketing {#marketo-confirmation-email-and-url-token}
 
 Utilice Marketing para enviar el correo electrónico de confirmación de su evento. Cuando una persona se registra, recibe una dirección URL única para entrar en el evento.
 
@@ -48,11 +48,11 @@ Utilice Marketing para enviar el correo electrónico de confirmación de su even
 >
 >Para completar el correo electrónico de confirmación con esta dirección URL única, utilice el siguiente token en el correo electrónico: `{{member.webinar url}}`. Al enviar la dirección URL de confirmación, este token se resuelve automáticamente en la dirección URL de confirmación única de la persona.
 >
->Establezca el tipo de correo electrónico de confirmación en **Operativo** para asegurarse de que las personas que se registren reciban la información de confirmación, incluso si se cancelan las suscripciones.
+>Establezca el tipo de correo electrónico de confirmación en **Operativo** para asegurarse de que las personas que se registren reciban la información de confirmación, incluso si no están suscritas.
 
 >[!TIP]
 >
->Puede configurar ON24 para enviar correos electrónicos de confirmación, recordatorio o seguimiento. Consulte el [sitio](http://webcastelitehelp.on24.com) de ayuda de ON24 para obtener más información.
+>Puede configurar ON24 para enviar correos electrónicos de confirmación, recordatorio o seguimiento. Consulte el [Sitio de ayuda de ON24](http://webcastelitehelp.on24.com) para obtener más información.
 
 ## Requisitos de Campaña secundaria de registro {#registration-child-campaign-requirements}
 
@@ -67,7 +67,7 @@ Ejemplos de campañas infantiles son una campaña de invitación, una campaña d
 **Registro/Confirmación (Campaña desencadenadora)**
 
 * Lista inteligente
-* Activador basado en **Rellenar formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Añadir restricción**, especialmente si se utiliza el mismo formulario en varias páginas de aterrizaje.
+* Activador basado en **Rellena el formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Añadir restricción**, especialmente si se utiliza el mismo formulario en varias páginas de aterrizaje.
 
 >[!CAUTION]
 >
@@ -75,29 +75,29 @@ Ejemplos de campañas infantiles son una campaña de invitación, una campaña d
 
 >[!NOTE]
 >
->Si está utilizando un formulario de marketing en una página de aterrizaje que no sea de marketing, el activador será **Rellenar formulario** con el nombre del formulario.
+>Si está utilizando un formulario de marketing en una página de aterrizaje que no sea de marketing, el activador será **Rellena el formulario** con el nombre del formulario.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flujo**
 
-* **Cambiar estado** de Programa - Establecer como seminario web -> Registrado.
+* **Cambiar estado**  de Programa- Establecer en seminario web -> Registrado.
 
 Este paso de flujo es necesario como PRIMER PASO DE FLUJO al configurar la campaña infantil. Cuando el estado de programa de una persona cambia a Registrado, Marketo coloca la información de registro en ON24. Ningún otro estado empujará a la persona.
 
 * **Enviar correo electrónico** : correo electrónico de confirmación. Establezca este mensaje de correo electrónico en **Operativo** para que las personas que se han registrado aún lo reciban.
 
-El paso **Enviar correo electrónico** DEBE ser el segundo paso. El mensaje de correo electrónico de confirmación contiene el `{{member.webinar url}}`, que se rellena con la información que se devuelve a Marketing desde ON24.
+El paso de flujo **Enviar correo electrónico** DEBE ser el segundo paso. El mensaje de correo electrónico de confirmación contiene el `{{member.webinar url}}`, que se rellena con la información devuelta a Marketing desde ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->El orden de estos pasos de flujo es importante debido al orden en que se realizan las acciones en Marketing. El paso **Cambiar estado** de Programa envía a la persona a ON24 para registrarse y se genera una dirección URL única. Después de esto, puede enviar el correo electrónico de confirmación que incluye esta dirección URL única mediante el `{{member.webinar URL}}` token.
+>El orden de estos pasos de flujo es importante debido al orden en que se realizan las acciones en Marketing. El paso **Cambiar estado de Programa** envía a la persona a ON24 para registrarse y se genera una dirección URL única. Después de esto, puede enviar el correo electrónico de confirmación que incluye esta dirección URL única mediante el token `{{member.webinar URL}}`.
 >
 >Si la persona es devuelta con un error de registro, no recibirá la confirmación por correo electrónico.
 
-El siguiente paso es [probar la integración](test-your-on24-event-integration.md)de evento ON24.
+El siguiente paso es [probar la integración de evento ON24](test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
