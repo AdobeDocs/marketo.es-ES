@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
 
 1. Seleccione las campañas que desee etiquetar con una etiqueta.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Etiquetar](create-a-new-in-zone-web-campaign.md) un [segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [](create-a-new-in-zone-web-campaign.md) [Etiquetar un segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
