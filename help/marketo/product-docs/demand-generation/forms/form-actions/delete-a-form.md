@@ -23,7 +23,7 @@ Si tiene un formulario que no necesita y no se está utilizando, puede eliminarl
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. En **Acciones de** formulario **, haga clic en** Eliminar **** formulario ****.
+1. En **Formulario** **Acciones**, haga clic en **Eliminar** **Formulario**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
