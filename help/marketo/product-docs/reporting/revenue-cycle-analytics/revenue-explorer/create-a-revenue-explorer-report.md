@@ -25,7 +25,7 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Haga clic en **Crear nuevo** y, a continuación, seleccione **Informe**.
+1. Haga clic en **Crear nuevo** y luego seleccione **Informe**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
