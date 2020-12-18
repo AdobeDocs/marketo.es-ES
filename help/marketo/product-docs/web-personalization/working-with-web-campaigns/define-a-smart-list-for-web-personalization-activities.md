@@ -17,7 +17,7 @@ Puede utilizar actividades de personalización web en filtros y activadores al d
 
 Utilice un activador para enviar un correo electrónico o una alerta, o para cambiar un valor o una puntuación según los visitantes que hayan hecho clic y participado en una llamada a acción de Personalización web. También puede filtrar y vista los leads que hicieron clic en una llamada a acción de Personalización web.
 
-1. En la campaña inteligente, haga clic en la ficha Lista **** inteligente.
+1. En la campaña inteligente, haga clic en la ficha **Lista inteligente**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -26,7 +26,7 @@ Utilice un activador para enviar un correo electrónico o una alerta, o para cam
    >**Buceo profundo**
    >
    >
-   >Las Listas inteligentes pueden hacer cosas increíbles. Obtenga más información en la Lista [inteligente de buceo profundo](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Las Listas inteligentes pueden hacer cosas increíbles. Obtenga más información en la [Lista inteligente de buceo profundo](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Busque el activador y luego arrástrelo y suéltelo en el lienzo.
 
