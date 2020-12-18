@@ -21,7 +21,7 @@ A veces ya no desea que los visitantes del sitio envíen formularios con un perf
 >
 >No todos los clientes han adquirido esta funcionalidad.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-10.png)
 
@@ -29,7 +29,7 @@ A veces ya no desea que los visitantes del sitio envíen formularios con un perf
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. En Configuración del formulario, haga clic en **Configuración**.
+1. En Configuración de formulario, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
