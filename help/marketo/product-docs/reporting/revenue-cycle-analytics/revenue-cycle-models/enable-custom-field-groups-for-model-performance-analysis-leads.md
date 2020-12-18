@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Clasifique los campos estándar o personalizados en grupos para su sistema de informes a través del Organizador de campos de Marketing. Para obtener más información, consulte [Creación de grupos de campos personalizados mediante el Organizador](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)de campos.
+>Clasifique los campos estándar o personalizados en grupos para su sistema de informes a través del Organizador de campos de Marketing. Para obtener más información, consulte [Creación de grupos de campos personalizados mediante el Organizador de campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
@@ -35,7 +35,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>¿Qué sucede cuando se activa un grupo de campos personalizado asociado a una persona o campo de compañía personalizado?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>El grupo de campos personalizado está habilitado para el sistema de informes en el área de Análisis de rendimiento del modelo (leads)</p></td> 
-   <td colspan="1" rowspan="1"><p>El propio campo personalizado está habilitado para el sistema de informes en las áreas de Análisis de oportunidades, Análisis de Campañas y Análisis de posibles clientes.</p><p><strong>NOTA:</strong> Los grupos de campos personalizados NO se admiten en estas áreas de análisis, por lo que las asociaciones de grupos no se muestran en el Explorador de ciclos de ingresos,<em>solo</em> en el campo personalizado.</p></td> 
+   <td colspan="1" rowspan="1"><p>El propio campo personalizado está habilitado para el sistema de informes en las áreas de Análisis de oportunidades, Análisis de Campañas y Análisis de posibles clientes.</p><p><strong>NOTA:</strong> Los grupos de campos personalizados NO son compatibles con estas áreas de análisis, por lo que las asociaciones de grupos no se muestran en el Explorador de ciclo de ingresos, <em></em> solo en el campo personalizado.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -46,7 +46,7 @@ Siga estos pasos para habilitar un grupo de campos personalizado para el sistema
 
    ![](assets/one-1.png)
 
-1. Haga clic en Análisis **del ciclo de ingresos**.
+1. Haga clic en **Análisis del ciclo de ingresos**.
 
    ![](assets/two-1.png)
 
