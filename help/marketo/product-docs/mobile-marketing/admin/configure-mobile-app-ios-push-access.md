@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuración del acceso push de la aplicación móvil iOS {#configure-mobile-app-ios-push-access}
+# Configurar el acceso push de la aplicación móvil iOS {#configure-mobile-app-ios-push-access}
 
 1. Haga clic en Administración.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Necesitará un **certificado** y una **contraseña** de su desarrollador de aplicaciones móviles. El desarrollador los recibe iniciando sesión en el Centro de miembros del desarrollador de Apple, configurando y descargando un certificado de notificación push para la aplicación y exportando el contenido. El desarrollador establece la contraseña al realizar la exportación. **IMPORTANTE**: El certificado debe ser apropiado para el tipo de entorno que está utilizando — Simulador para pruebas o Producción. Compruebe esto con el administrador de marketing o el desarrollador de aplicaciones móviles.
+   >Necesitará un **certificado** y **contraseña** de su desarrollador de aplicaciones móviles. El desarrollador los recibe iniciando sesión en el Centro de miembros del desarrollador de Apple, configurando y descargando un certificado de notificación push para la aplicación y exportando el contenido. El desarrollador establece la contraseña al realizar la exportación. **IMPORTANTE**: El certificado debe ser apropiado para el tipo de entorno que está utilizando — Simulador para pruebas o Producción. Compruebe esto con el administrador de marketing o el desarrollador de aplicaciones móviles.
 
 1. Seleccione el certificado, introduzca su contraseña y haga clic en Guardar.
 
