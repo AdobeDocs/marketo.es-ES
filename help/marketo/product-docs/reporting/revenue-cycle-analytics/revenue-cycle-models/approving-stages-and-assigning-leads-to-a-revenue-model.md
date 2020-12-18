@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Ponga en marcha **el** modelo **** de ingresos agregando leads existentes, creando reglas de asignación para cualquier posible cliente nuevo.
+Ponga en marcha el **Modelo** **de ingresos** agregando leads existentes, creando reglas de asignación para cualquier posible cliente nuevo.
 
 ## Aprobación de etapas {#approving-stages}
 
 Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
-1. Vaya al **área **Análisis.** **
+1. Vaya al área **Analytics **.** **
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,7 +27,7 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. En Acciones **** de modelo, seleccione **Aprobar** **etapas**.
+1. En **Acciones de modelo**, seleccione **Aprobar** **Etapas**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
@@ -39,9 +39,9 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
 ## Asignación de leads existentes {#assigning-existing-leads}
 
-[Cree una Lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) inteligente para identificar los leads de una etapa del modelo en la base de datos de posibles clientes.
+[Cree una ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) lista inteligente para identificar los leads de una etapa del modelo en la base de datos de posibles clientes.
 
-1. Una vez que haya [creado la Lista](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)inteligente, haga clic en la ficha **Posibles clientes** .
+1. Una vez que haya [creado la Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), haga clic en la ficha **Posibles clientes**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -49,7 +49,7 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Abra la lista desplegable **Acciones** de posibles clientes y seleccione **Especial**. Haga clic en **Cambiar etapa** de ingresos.
+1. Abra la lista desplegable **Acciones de posibles clientes** y seleccione **Especial**. Haga clic en **Cambiar etapa de ingresos**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
@@ -65,7 +65,7 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 >
 >Si el modelo está en el estado Fases aprobadas, no verá ningún evento de la etapa de cambio de ingresos en los registros de actividades de leads. Si el modelo está totalmente aprobado, este paso de flujo se omitirá si mueve un lead a la misma etapa en la que se encuentra actualmente.
 
-## Nuevos leads: Crear reglas de asignación  {#new-leads-create-assignment-rules}
+## Nuevos leads: Crear reglas de asignación {#new-leads-create-assignment-rules}
 
 1. Vuelva a hacer clic en** Inicio de marketing** y seleccione **Analytics**.
 
@@ -83,16 +83,16 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
 Cree una regla de Puntuación de posible cliente para asignar los nuevos leads con una puntuación mínima a un paso adecuado.
 
-1. En **Si**, seleccione **Puntuación** de posible cliente. A continuación, elija **al menos**.
+1. En **Si**, seleccione **Puntuación de posible cliente**. A continuación, elija **al menos**.
 ` ![](assets/image2015-4-29-13-3a27-3a8.png)
 
    `
 
-1. Introduzca **40** en el campo y seleccione Líder **de** ventas como etapa. Haga clic en **Guardar** para finalizar.
+1. Escriba **40** en el campo y seleccione **Líder de ventas** como una etapa. Haga clic en **Guardar** para completar.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
 >[!MORELIKETHIS]
 >
->Para aprobar su modelo, lea nuestra página de ayuda en ** [Aprobación y desaprobación de un modelo](approve-unapprove-a-revenue-model.md)de ingresos**.
+>Para aprobar su modelo, lea nuestra página de ayuda en ** [Aprobación y desaprobación de un modelo de ingresos](approve-unapprove-a-revenue-model.md)**.
 
