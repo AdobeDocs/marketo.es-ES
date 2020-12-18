@@ -37,9 +37,9 @@ De forma predeterminada, un nuevo modelo le inicio con seis etapas de ingresos. 
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observe que todos están en un fondo verde. Esto se denomina Ruta de **éxito**. Obtenga más información sobre la ruta de éxito [aquí](understanding-revenue-model-success-path.md).
+Observe que todos están en un fondo verde. Esto se denomina **Ruta de éxito**. Obtenga más información sobre la ruta de éxito [aquí](understanding-revenue-model-success-path.md).
 
-**Las etapas** son los hitos en una progresión de la dirección hacia sus objetivos.
+**Las** etapas son los hitos en una progresión de la dirección hacia sus objetivos.
 
 **Transiciones **se muestran como flechas y controlan cómo se mueven los leads entre etapas.
 
@@ -53,13 +53,13 @@ Cada compañía es diferente. Puede agregar cosas al modelo arrastrándolo desde
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Fase de inventario {#inventory-stage}
+## Etapa de inventario {#inventory-stage}
 
 Se parece a una caja y es la más básica de las etapas. Analytics realizará un seguimiento de la entrada, salida y equilibrio de esta fase.
 
-## Fase de SLA {#sla-stage}
+## Etapa de SLA {#sla-stage}
 
-Esto es poco tiempo para la etapa de acuerdo **de nivel de** servicio. La intención aquí es que en algunas etapas se quiera imponer un límite de tiempo.
+Esto es breve para **Acuerdo de Nivel de Servicio** etapa. La intención aquí es que en algunas etapas se quiera imponer un límite de tiempo.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ La etapa Puerta está pensada para situaciones en las que desea filtrar los lead
 >
 >**Ejemplo**
 >
->Se puede utilizar una puerta para clientes potenciales que formen parte de una lista **de cuenta** con nombre para separar esto del proceso normal.
+>Se puede utilizar una puerta para clientes potenciales que formen parte de una **lista de cuenta con nombre** para separar esto del proceso normal.
 
 ## Transiciones {#transitions}
 
