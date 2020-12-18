@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Guardar la Campaña como plantilla {#save-your-campaign-as-a-template}
+# Guardar la Campaña como una plantilla {#save-your-campaign-as-a-template}
 
 ¿Alguna vez has dedicado tiempo a crear la campaña web perfecta? Ahora puede guardarla como plantilla para volver a utilizarla fácilmente en el futuro.
 
