@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Configuración de LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
+# Configurar el Forms de LinkedIn Lead Gen {#set-up-linkedin-lead-gen-forms}
 
 Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedIn y generar leads para Marketing.
 
@@ -19,7 +19,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a Administrador **de marketing**.
+1. Vaya a Administrador de mercadotecnia ****.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -27,11 +27,11 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Introduzca un nombre **para** mostrar para el servicio, seleccione el servicio **LinkedIn Lead Gen **en la lista desplegable y haga clic en **Siguiente**.
+1. Escriba un **Nombre para mostrar** para el servicio, seleccione el servicio **Generación de posibles clientes de LinkedIn **en la lista desplegable y haga clic en **Siguiente**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo abre una nueva ficha en el mismo navegador en [www.linkedin.com](http://www.linkedin.com). Inicie sesión en LinkedIn con la cuenta que desee utilizar para la integración.
+1. Marketo abre una nueva ficha en el mismo explorador para [www.linkedin.com](http://www.linkedin.com). Inicie sesión en LinkedIn con la cuenta que desee utilizar para la integración.
 
    >[!NOTE]
    >
@@ -67,13 +67,13 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 
    >[!CAUTION]
    >
-   >Marketo admite la asignación de dos campos de LinkedIn a un solo campo de Marketo, **pero solo cuando** los dos campos de LinkedIn no están en el mismo formulario. Si asigna dos campos del mismo formulario LinkedIn a un solo campo de marketing, es posible que las personas no puedan introducir la base de datos de marketing.
+   >Marketo admite la asignación de dos campos de LinkedIn a un solo campo de marketing, **pero solo cuando** los dos campos de LinkedIn no están en el mismo formulario. Si asigna dos campos del mismo formulario LinkedIn a un solo campo de marketing, es posible que las personas no puedan introducir la base de datos de marketing.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >Solo los campos de LinkedIn que ya se hayan guardado en una plantilla [de](https://www.linkedin.com/help/lms/answer/79634) formulario en el Administrador de Campañas de LinkedIn se mostrarán como campos de LinkedIn que se pueden asignar a los campos de Marketo.
+   >Solo los campos de LinkedIn que ya se han guardado en una [plantilla de formulario](https://www.linkedin.com/help/lms/answer/79634) en el Administrador de Campañas de LinkedIn se mostrarán como campos de LinkedIn que se pueden asignar a los campos de Marketo.
 
    ![](assets/linkedin-installed-services.png)
 
