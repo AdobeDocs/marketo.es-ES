@@ -23,7 +23,7 @@ Después de ver un informe, Marketing lo almacena en la base de datos para que s
 
    ![](assets/two.png)
 
-1. También puede actualizar el informe haciendo clic en el menú Acciones **del** informe y seleccionando **Actualizar informe**.
+1. También puede actualizar el informe haciendo clic en el menú **Acciones del informe** y seleccionando **Actualizar informe**.
 
    ![](assets/three.png)
 
