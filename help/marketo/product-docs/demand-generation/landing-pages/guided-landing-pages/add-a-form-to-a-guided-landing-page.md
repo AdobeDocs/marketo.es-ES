@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Añadir un formulario en una Página de aterrizaje guiada {#add-a-form-to-a-guided-landing-page}
+# Añadir un formulario a una Página de aterrizaje guiada {#add-a-form-to-a-guided-landing-page}
 
 Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplimentar formulario.
 
@@ -23,11 +23,11 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
 
 
-1. Vaya al área Actividades **de** marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/one.png)
 
-1. Busque y seleccione la página de aterrizaje y haga clic en **Editar borrador**.
+1. Busque y seleccione su página de aterrizaje y haga clic en **Editar borrador**.
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
    >
    >Los elementos disponibles en las páginas de aterrizaje guiadas se definen mediante la plantilla. Si no ve ningún formulario en el panel Elementos, seleccione una plantilla nueva o póngase en contacto con el creador de la plantilla.
 
-1. Haga clic con el botón doble en el **formulario** en el panel de elementos.
+1. Haga clic con el doble en el **Formulario** del panel de elementos.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -61,4 +61,4 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ahora cierre el editor de páginas de aterrizaje y [apruebe el borrador](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)de página de aterrizaje.
+Ahora cierre el editor de páginas de aterrizaje y [apruebe el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
