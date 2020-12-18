@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Añadir ReadyTalk como un servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las acciones de [flujo adecuadas para](http://docs.marketo.com/display/DOCS/Flow+Actions)realizar el seguimiento de la participación
+>* Configure las [acciones de flujo adecuadas](http://docs.marketo.com/display/DOCS/Flow+Actions)para rastrear la participación
 
 
-Primero configure su evento en el centro de conferencias ReadyTalk. Si necesita ayuda, consulte el Centro de recursos [ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Al elegir el tipo de registro, seleccione **preinscribirse antes de la reunión**. Si selecciona *registrarse en el momento de la reunión*, Marketing **no capturará** un estado de registro para su gente y solo obtendrá un estado de persona de Asistencia *después* de que finalice el seminario web.
+Primero configure su evento en el centro de conferencias ReadyTalk. Si necesita ayuda, consulte el [Centro de recursos de ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Al elegir el tipo de registro, seleccione  **preinscribirse antes de la reunión**. Si selecciona *registrarse en el momento de la reunión*, Marketing **no** capturará un estado Registrado para su gente y solo obtendrá un estado de persona de Asistencia *después de* que el seminario web finalice.
 
-Dejarme **notificarme de nuevos registros por correo electrónico** sin marcar.
+Deje **notificarme los nuevos registros por correo electrónico** sin marcar.
 
 ![](assets/image2015-5-28-21-3a18-3a39.png)
 
@@ -30,11 +30,11 @@ Si utiliza ReadyTalk para enviar correos electrónicos de confirmación, tambié
 
 >[!NOTE]
 >
->Para programar un Evento asistido por un operador, haga clic en el vínculo **Solicitar servicios** de Evento ubicado en la parte izquierda de la pantalla de inicio del Centro de conferencias para programar un evento con nuestro equipo de Eventos.
+>Para programar un Evento asistido por un operador, haga clic en el vínculo **Solicitar servicios de Evento** ubicado en la parte izquierda de la pantalla de inicio del Centro de conferencias para programar un evento con nuestro equipo de Eventos.
 
 Ahora está listo para vincular su evento a Marketing.
 
-1. Seleccione el evento, haga clic en Acciones **de** Evento y, finalmente, en Configuración de **Evento.**
+1. Seleccione el evento, luego haga clic en **Acciones de Evento** y, finalmente, **Configuración de Evento.**
 
    ![](assets/image2015-5-18-12-3a46-3a47.png)
 
@@ -42,7 +42,7 @@ Ahora está listo para vincular su evento a Marketing.
    >
    >El tipo de canal del evento seleccionado debe ser **seminario web.**
 
-1. En **Evento Partner,** seleccione **ReadyTalk**.
+1. En **Socio de Evento,** seleccione **ReadyTalk**.
 
    ![](assets/image2015-5-18-12-3a47-3a59.png)
 
@@ -50,7 +50,7 @@ Ahora está listo para vincular su evento a Marketing.
 
    ![](assets/image2015-5-18-12-3a48-3a48.png)
 
-1. En **Evento**, seleccione el evento que desea vincular y haga clic en **Guardar**.
+1. En **Evento**, seleccione el evento que desee vincular y haga clic en **Guardar**.
 
    ![](assets/image2015-5-18-12-3a51-3a35.png)
 
@@ -74,11 +74,11 @@ Ahora está listo para vincular su evento a Marketing.
 
    >[!TIP]
    >
-   >Los datos pueden tardar hasta 48 horas en aparecer en Marketing. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar desde el proveedor** de seminario web en el menú Acciones de Evento de la ficha **Resumen** de su evento.
+   >Los datos pueden tardar hasta 48 horas en aparecer en Marketing. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar desde el proveedor de seminario web** en el menú Acciones de Evento de la ficha **Resumen** del evento.
 
-## Visualización de la programación  {#viewing-the-schedule}
+## Visualización del programa {#viewing-the-schedule}
 
-En la vista [de](http://docs.marketo.com/display/docs/program+schedule+view)calandario del programa, haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
+En la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view), haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
