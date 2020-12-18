@@ -17,9 +17,9 @@ Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en 
 
 >[!NOTE]
 >
->La vista móvil funciona en pantallas de 480 px de ancho (o menos). En otras palabras, los smartphones. Aquí hay más [información sobre las resoluciones](http://mydevice.io/devices/.)de dispositivos.
+>La vista móvil funciona en pantallas de 480 px de ancho (o menos). En otras palabras, los smartphones. A continuación encontrará más [información sobre las resoluciones del dispositivo](http://mydevice.io/devices/.).
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,7 +31,7 @@ Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en 
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Haga clic en la ficha **Móvil** .
+1. Haga clic en la ficha **Móvil**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -41,13 +41,13 @@ Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en 
 
    >[!CAUTION]
    >
-   >Es posible que sea necesario actualizar la plantilla de formulario libre. Si ve ese mensaje, lea rápidamente cómo [hacer compatible](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles.
+   >Es posible que sea necesario actualizar la plantilla de formulario libre. Si ve ese mensaje, lea rápidamente cómo [hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
 1. ¡bueno! Ha activado la versión móvil de la página de aterrizaje. Haga clic en **Cerrar. **
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Ahora puede [personalizar su vista](customize-mobile-view-for-your-free-form-landing-page.md)móvil.
+   Ahora puede [personalizar su vista móvil](customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
 
