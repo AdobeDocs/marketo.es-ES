@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Puede agregar fácilmente contenido manualmente a la página Todo el contenido.
 
@@ -35,9 +35,9 @@ Puede agregar fácilmente contenido manualmente a la página Todo el contenido.
 
    ![](assets/all-content-add-hand.png)
 
-1. El nuevo título ahora aparece en la página **Todo el contenido** . Tenga en cuenta que aún no está aprobado para contenido predictivo.
+1. El nuevo título ahora aparece en la página **Todo el contenido**. Tenga en cuenta que aún no está aprobado para contenido predictivo.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. A continuación se muestra cómo agregarlo al Contenido [](http://docs.marketo.com/x/Vbet)predictivo.
+1. A continuación se muestra cómo agregarlo a [Contenido predictivo](http://docs.marketo.com/x/Vbet).
 
