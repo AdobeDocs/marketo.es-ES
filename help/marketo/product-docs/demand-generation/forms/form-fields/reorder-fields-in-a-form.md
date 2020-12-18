@@ -19,7 +19,7 @@ Es fácil reordenar los campos en un formulario de marketing. Así es como.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ Es fácil reordenar los campos en un formulario de marketing. Así es como.
 >
 >**Buceo profundo**
 >
->¿Desea obtener más información sobre [los formularios](http://docs.marketo.com/display/docs/forms)?
+>¿Desea obtener más información sobre [formularios](http://docs.marketo.com/display/docs/forms)?
 
