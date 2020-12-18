@@ -29,7 +29,7 @@ Los organizadores de campos se utilizan en la Análisis de rendimiento del model
 
    ![](assets/db.png)
 
-1. En **Nuevo**, seleccione **Nuevo organizador** de campos.
+1. En **Nuevo**, seleccione **Nuevo organizador de campos**.
 
    ![](assets/two-1.png)
 
