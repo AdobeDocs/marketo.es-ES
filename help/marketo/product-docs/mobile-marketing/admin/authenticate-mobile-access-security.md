@@ -21,7 +21,7 @@ Para habilitar los ID, debe adquirir los códigos y proporcionarlos a su departa
 >
 >Para habilitar esta función, póngase en contacto con el servicio de soporte técnico y solicite &quot;Modo seguro de Vespa&quot;.
 
-1. En Marketing, seleccione **Administración **y haga clic en Aplicaciones y dispositivos **móviles**.
+1. En Marketing, seleccione **Administración **y haga clic en **Aplicaciones y dispositivos móviles**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
