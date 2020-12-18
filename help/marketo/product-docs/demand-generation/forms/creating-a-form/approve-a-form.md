@@ -27,7 +27,7 @@ A continuación se muestra cómo aprobar un formulario existente que esté listo
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. En Acciones **** de formulario, haga clic en **Aprobar**.
+1. En **Acciones de formulario**, haga clic en **Aprobar**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ A continuación se muestra cómo aprobar un formulario existente que esté listo
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Está aprobado y listo para ser [agregado a una página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Está aprobado y listo para [agregarse a una página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
