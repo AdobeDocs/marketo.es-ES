@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Activadores y Filtros para Actividades sociales {#triggers-and-filters-for-social-activities}
+# Desencadenadores y Filtros para Actividades sociales {#triggers-and-filters-for-social-activities}
 
 Las aplicaciones sociales en Marketing tienen sus propios activadores y filtros especiales.
 
@@ -21,7 +21,7 @@ Las aplicaciones sociales en Marketing tienen sus propios activadores y filtros 
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. Para utilizar *activadores* sociales, seleccione la campaña inteligente y haga clic en la ficha Lista **** inteligente. A la derecha, haga clic en + para expandir **Desencadenadores** y, a continuación, en **Social**.
+1. Para utilizar activadores *sociales*, seleccione la campaña inteligente y haga clic en la ficha **Lista inteligente**. A la derecha, haga clic en + para expandir **Desencadenadores** y luego **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
