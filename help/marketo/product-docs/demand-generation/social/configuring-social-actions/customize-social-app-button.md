@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Botón Personalizar aplicación social {#customize-social-app-button}
 
-Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) social o una oferta [de](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)referencia, puede personalizar el aspecto de los botones.
+Al crear un [botón social](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o una [oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede personalizar el aspecto de los botones.
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/f
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. En el editor de la aplicación social, vaya a Configuración **de** aplicación > Estilo **de botón** (o Estilo de **registro,** para ofertas de referencia).
+1. En el editor de aplicaciones sociales, vaya a **Configuración de aplicación** > **Estilo de botón** (o **Estilo de registro,** para ofertas de referencia).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/f
 
    >[!NOTE]
    >
-   >Para ofertas de referencia, seleccione sus redes en **2. Flujo de registro > Redes** sociales.
+   >Para ofertas de referencia, seleccione sus redes en **2. Flujo de registro > Redes sociales**.
 
 1. Elija un tipo de botón.
 
@@ -45,21 +45,21 @@ Al crear un botón [](../../../../product-docs/demand-generation/landing-pages/f
 
    >[!TIP]
    >
-   >Si elige **Cargar imágenes en Estilo** de botón arriba, las siguientes secciones le permiten cargar imágenes de botón en lugar de editar el texto.
+   >Si elige **Cargar imágenes en Estilo de botón** arriba, las siguientes secciones le permiten cargar imágenes de botón en lugar de editar el texto.
 
 1. Edite las etiquetas del botón antes y después de hacer clic en él.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. A medida que realice cada elección, revise el resultado en la ventana **Vista y edición** .
+1. A medida que realice cada elección, revise el resultado en la ventana **Vista y edición**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->En una oferta de referencia, también puede personalizar el botón **Rastrear progreso** . Vaya a Configuración **de** aplicación > **Seguimiento del estilo** de progreso y siga los mismos pasos que se han indicado anteriormente.
+>En una oferta de referencia, también puede personalizar el botón **Seguimiento del progreso**. Vaya a **Configuración de la aplicación** > **Seguimiento del estilo de progreso** y siga los mismos pasos que se describen arriba.
 
 >[!MORELIKETHIS]
 >
->Para un botón social, [configure cuándo se abre](configure-when-social-button-opens.md). Para una oferta de referencia, [especifique el objetivo](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)de oferta.
+>Para un botón social, [configure cuando se abra](configure-when-social-button-opens.md). Para una oferta de referencia, [especifique el objetivo de oferta](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
