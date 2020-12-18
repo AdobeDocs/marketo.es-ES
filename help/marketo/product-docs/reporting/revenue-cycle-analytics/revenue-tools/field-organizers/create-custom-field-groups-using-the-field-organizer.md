@@ -36,11 +36,11 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
 
 ## Crear grupo de campos personalizados - Editor de cadenas {#create-custom-field-group-string-editor}
 
-1. Haga clic en **Base de datos** de posibles clientes.
+1. Haga clic en **Base de datos de posibles clientes**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Nuevo** y seleccione **Nuevo organizador** de campos.
+1. Haga clic en **Nuevo** y seleccione **Nuevo organizador de campos**.
 
    ![](assets/two.png)
 
@@ -92,11 +92,11 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
 
 ## Crear grupo de campos personalizados - Editor de enteros {#create-custom-field-group-integer-editor}
 
-1. Haga clic en **Base de datos** de posibles clientes.
+1. Haga clic en **Base de datos de posibles clientes**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Nuevo** y seleccione **Nuevo organizador** de campos.
+1. Haga clic en **Nuevo** y seleccione **Nuevo organizador de campos**.
 
    ![](assets/two.png)
 
@@ -118,7 +118,7 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
 
    El editor de enteros permite crear varios subgrupos para definir cada subgrupo por tamaño. En este ejemplo, se crearán tres grupos para las empresas pequeñas, medianas y empresariales.
 
-1. Para agregar el primer grupo, escriba un nombre en el campo Nombre **** del grupo (ejemplo: Pequeño) e introduzca un valor máximo en el campo Intervalo **de** grupo (ejemplo: 200000). Haga clic en **Añadir grupo**.
+1. Para agregar el primer grupo, escriba un nombre en el campo **Nombre del grupo** (ejemplo: Pequeño) e introduzca un valor máximo en el campo **Intervalo de grupo** (ejemplo: 200000). Haga clic en **Añadir grupo**.
 
    ![](assets/twelve.png)
 
@@ -146,11 +146,11 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
 
 ## Crear grupo de campos personalizados - Editor de fechas {#create-custom-field-group-date-editor}
 
-1. Haga clic en **Base de datos** de posibles clientes.
+1. Haga clic en **Base de datos de posibles clientes**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Nuevo** y seleccione **Nuevo organizador** de campos.
+1. Haga clic en **Nuevo** y seleccione **Nuevo organizador de campos**.
 
    ![](assets/two.png)
 
@@ -172,7 +172,7 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
 
    El editor de fechas permite crear varios subgrupos y definir cada subgrupo por fecha. En este ejemplo, se crearán tres grupos: Posibles clientes en el primer trimestre-15, en el segundo trimestre-15 y en el tercer trimestre-15.
 
-1. Para agregar el primer grupo, escriba un nombre en el campo Nombre **** del grupo (ejemplo: P1-15 Posibles clientes) e introduzca una fecha en el campo de fecha que represente la fecha en la que se adquirió el posible cliente o antes (ejemplo: 31/03/2015 para el último día del primer trimestre (15). Haga clic en **Añadir grupo**.
+1. Para agregar el primer grupo, escriba un nombre en el campo **Nombre del grupo** (ejemplo: P1-15 Posibles clientes) e introduzca una fecha en el campo de fecha que represente la fecha en la que se adquirió el posible cliente o antes (ejemplo: 31/03/2015 para el último día del primer trimestre (15). Haga clic en **Añadir grupo**.
 
    ![](assets/sixteen.png)
 
