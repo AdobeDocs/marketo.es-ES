@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar publicidades de posibles clientes de Facebook {#set-up-facebook-lead-ads}
 
-Use Publicidades de posibles clientes de [Facebook](https://www.facebook.com/business/a/lead-ads) para ejecutar campañas de publicidad en Facebook y generar posibles clientes para Marketing.
+Use [Publicidades de posibles clientes de Facebook](https://www.facebook.com/business/a/lead-ads) para ejecutar campañas de publicidad en Facebook y generar posibles clientes para Marketing.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Use Publicidades de posibles clientes de [Facebook](https://www.facebook.com/bus
 >
 >Para agregar publicidades de posibles clientes de Facebook a su instancia, póngase en contacto con el administrador de éxito del cliente.
 
-1. Vaya a Administrador **de marketing**.
+1. Vaya a Administrador de mercadotecnia ****.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -33,11 +33,11 @@ Use Publicidades de posibles clientes de [Facebook](https://www.facebook.com/bus
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Introduzca un nombre **para** mostrar para el servicio, seleccione el servicio Publicidades **de posibles clientes de** Facebook en la lista desplegable y haga clic en **Crear**.
+1. Escriba un **Nombre para mostrar** para el servicio, seleccione el servicio **Publicidades de posibles clientes de Facebook** en la lista desplegable y haga clic en **Crear**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Abra una nueva ficha en el mismo navegador y vaya a [www.facebook.com.](http://www.facebook.com.) Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
+1. Abra una nueva ficha en el mismo explorador y vaya a [www.facebook.com.](http://www.facebook.com.) Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
 
    >[!NOTE]
    >
@@ -49,7 +49,7 @@ Use Publicidades de posibles clientes de [Facebook](https://www.facebook.com/bus
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. Si se le solicita, haga clic en **Aceptar** para aceptar la instalación de la aplicación de marketing en Facebook.
+1. Si se le solicita, haga clic en **Aceptar** para aceptar la instalación de la aplicación de Marketing to en Facebook.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -65,11 +65,11 @@ Use Publicidades de posibles clientes de [Facebook](https://www.facebook.com/bus
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Para aceptar asignaciones de campo predeterminadas de Facebook a Marketo, haga clic en **Crear**.
+1. Para aceptar asignaciones de campo predeterminadas de Facebook a Marketing, haga clic en **Crear**.
 
    >[!TIP]
    >
-   >Al modificar las asignaciones, puede personalizar dónde se almacenan los datos de las publicidades de posible cliente en Marketing. También puede [extraer datos de las preguntas](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)personalizadas de posibles clientes.
+   >Al modificar las asignaciones, puede personalizar dónde se almacenan los datos de las publicidades de posible cliente en Marketing. También puede [extraer datos de las preguntas personalizadas de posibles clientes](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
