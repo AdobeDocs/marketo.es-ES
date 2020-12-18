@@ -19,7 +19,7 @@ Si encuentra el botón de envío estándar apagado, o si necesita algo más sofi
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
