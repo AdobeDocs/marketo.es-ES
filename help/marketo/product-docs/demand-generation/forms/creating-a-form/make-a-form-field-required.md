@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Hacer necesario un campo de formulario {#make-a-form-field-required}
+# Hacer que un campo de formulario sea obligatorio {#make-a-form-field-required}
 
-Al [agregar campos a un formulario](add-a-field-to-a-form.md) , es posible que desee que algunos de ellos sean necesarios para la persona que los rellene. Así es como.
+Cuando [agregue campos a un formulario](add-a-field-to-a-form.md) puede que desee hacer que algunos de ellos sean necesarios para la persona que los rellene. Así es como.
 
 1. Vaya a **Marketing** **Actividades**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **formulario**.
+1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
 
    ![](assets/editform-2.png)
 
@@ -39,6 +39,6 @@ Al [agregar campos a un formulario](add-a-field-to-a-form.md) , es posible que d
 >
 >**Recordatorio**
 >
->No olvide [aprobar cualquier página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) que este formulario siga vigente para que los cambios se hagan efectivos.
+>No olvide [aprobar cualquier página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) en la que se encuentre este formulario para que los cambios se activen.
 
-¿Es necesario [reordenar los campos agregados al formulario](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+¿Necesita [reordenar los campos agregados al formulario](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
