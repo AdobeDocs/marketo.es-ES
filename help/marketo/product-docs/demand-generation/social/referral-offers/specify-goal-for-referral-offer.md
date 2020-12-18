@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Especificar objetivo para la Oferta de referencia {#specify-goal-for-referral-offer}
 
-Cuando [crea una oferta](create-a-referral-offer.md)de referencia, debe definir el objetivo de cumplimiento. El objetivo se puede definir por actividad de persona en la página web, como visitas a la página o suscripciones. Incluso puede utilizar un evento [JavaScript](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)personalizado.
+Cuando [crea una oferta de referencia](create-a-referral-offer.md), debe definir el objetivo de cumplimiento. El objetivo se puede definir por actividad de persona en la página web, como visitas a la página o suscripciones. Incluso puede utilizar un [evento personalizado de JavaScript](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Como alternativa, puede utilizar un activador [de lista](specify-goal-for-referral-offer.md) inteligente en Marketing para esperar cualquier hito, como una oportunidad que se esté creando para la persona a la que se hace referencia.
+Como alternativa, puede utilizar un [activador de lista inteligente](specify-goal-for-referral-offer.md) en Marketing para esperar cualquier hito, como una oportunidad que se esté creando para la persona a la que se hace referencia.
 
 Objetivos de ejemplo:
 
@@ -25,7 +25,7 @@ Objetivos de ejemplo:
 * 2 compras de comercio electrónico referidas
 * 5 asistentes de seminario web referidos
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -33,29 +33,29 @@ Objetivos de ejemplo:
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. En el editor de ofertas de referencia, vaya a Ajustes de **aplicación** > Detalles de **Oferta.**
+1. En el editor de ofertas de referencia, vaya a **Configuración de la aplicación** > **Detalles de la Oferta.**
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. En **Configuración**, elija un tipo de evento en la lista desplegable Objetivo **de** cumplimiento.
+1. En **Configuración**, elija un tipo de evento en la lista desplegable **Objetivo de cumplimiento**.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->Si planea utilizar el paso **Dar crédito al flujo de Remitentes del reenvío** , debe seleccionar Activador **de Listas** inteligentes como tipo de objetivo de cumplimiento aquí.
+>Si planea utilizar el paso de flujo **Dar crédito a Remitente del reenvío**, debe seleccionar **Activador de Lista inteligente** como tipo de objetivo de cumplimiento aquí.
 
 * Visitas referidas: Los participantes de la oferta obtienen crédito por cada visita de un amigo a la página que aloja su oferta.
 * Firmas Referidas: Los participantes de la oferta reciben crédito por cada amigo que se inscribe en la oferta.
-* Activador de Lista inteligente: Los participantes de la oferta obtienen crédito por cada amigo que cumple las condiciones de un activador de lista [](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) inteligente en una campaña [](http://docs.marketo.com/display/docs/smart+campaigns)inteligente. Por ejemplo, puede utilizar un activador que se active cuando un cliente potencial referido se registre en un seminario web.
+* Activador de Lista inteligente: Los participantes de la oferta obtienen crédito por cada amigo que cumple las condiciones de un [activador de lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) en una [campaña inteligente](http://docs.marketo.com/display/docs/smart+campaigns). Por ejemplo, puede utilizar un activador que se active cuando un cliente potencial referido se registre en un seminario web.
 
-* Evento personalizado de JavaScript: Los participantes de la oferta obtienen crédito por cada amigo que activa un evento JavaScript definido en la página. Consulte Secuencia de comandos [de conversión para Eventos](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)personalizados.
+* Evento personalizado de JavaScript: Los participantes de la oferta obtienen crédito por cada amigo que activa un evento JavaScript definido en la página. Consulte [Secuencia de comandos de conversión para Eventos personalizados](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->Hay nuevos filtros y activadores disponibles en campañas inteligentes para supervisar la actividad social. Consulte [Uso de activadores y filtros para actividades](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)sociales.
+>Hay nuevos filtros y activadores disponibles en campañas inteligentes para supervisar la actividad social. Consulte [usar activadores y filtros para actividades sociales](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->A continuación, puede [seleccionar los mensajes de correo electrónico](send-referral-offer-fulfillment-email.md) de registro y de cumplimiento que desea enviar desde la oferta de referencia.
+>A continuación, puede [seleccionar los mensajes de correo electrónico de registro y cumplimiento](send-referral-offer-fulfillment-email.md) para enviarlos desde la oferta de referencia.
 
