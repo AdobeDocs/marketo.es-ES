@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Configurar las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
+# Configure las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Vincule su cuenta de Google AdWords a Marketing para cargar automáticamente datos de conversión sin conexión de Marketing a Google AdWords. Luego, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics generaron posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas](https://support.google.com/adwords/answer/3073556) personalizadas en AdWords.
+Vincule su cuenta de Google AdWords a Marketing para cargar automáticamente datos de conversión sin conexión de Marketing a Google AdWords. Luego, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics generaron posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556) en AdWords.
 
-Si tiene varias cuentas de Google Adwords, puede utilizar una cuenta [del administrador de](https://www.google.com/adwords/manager-accounts/) Google AdWords (anteriormente denominada My Client Center) para integrarlas con Marketing.
+Si tiene varias cuentas de Google Adwords, puede utilizar una [cuenta del administrador de Google AdWords](https://www.google.com/adwords/manager-accounts/) (anteriormente denominada My Client Center) para integrarlas con Marketing.
 
 Puede asignar las conversiones sin conexión de AdWords a una o varias etapas en un modelo de ingresos. Existen dos maneras:
 
@@ -38,11 +38,11 @@ Asigne una conversión de AdWords en Acciones de la etapa.
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. En la lista desplegable Acciones **de la** etapa, seleccione **Establecer conversión** de AdWords.
+1. En la lista desplegable **Acciones de etapa**, seleccione **Configurar conversión de AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Establezca una conversión **de AdWords**.
+1. Establezca una **Conversión de AdWords**.
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ Asigne una conversión de AdWords en Acciones de la etapa.
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
-1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las etapas de ingresos, vuelva a la página de resumen. Seleccione Acciones **** de modelo y elija **Aprobar etapas**.
+1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las etapas de ingresos, vuelva a la página de resumen. Seleccione **Acciones de modelo** y elija **Aprobar etapas**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
@@ -70,7 +70,7 @@ Asigne una conversión de AdWords en Acciones de la etapa.
 >
 >Las nuevas conversiones creadas a partir de Marketing tienen habilitada la configuración de &quot;optimización&quot;. Esto significa que las estrategias de oferta de AdWords pueden optimizar las ofertas para esas conversiones. Puede cambiar esta configuración desde la cuenta de AdWords.
 
-1. En la lista desplegable Acciones **de la** etapa, seleccione **Establecer conversión** de AdWords.
+1. En la lista desplegable **Acciones de etapa**, seleccione **Configurar conversión de AdWords**.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
@@ -80,13 +80,13 @@ Asigne una conversión de AdWords en Acciones de la etapa.
 
    **
 
-1. Introduzca un nombre **de conversión**. Haga clic en **Guardar**.
+1. Escriba un **Nombre de conversión**. Haga clic en **Guardar**.
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 
    ¡Excelente! Esta nueva conversión aparecerá en su cuenta de AdWords.
 
-## Usar asignación de AdWords {#use-adwords-mapping}
+## Usar la asignación de AdWords {#use-adwords-mapping}
 
 Puede asociar todas las etapas del modelo con la conversión de AdWords en un solo lugar mediante asignaciones de AdWords.
 
@@ -94,7 +94,7 @@ Puede asociar todas las etapas del modelo con la conversión de AdWords en un so
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Seleccione la cuenta **** AdWords que desee y la conversión **de** AdWords que desee para cada etapa que desee rastrear.
+1. Seleccione la **Cuenta de AdWords** deseada y **Conversión de AdWords** deseada para cada etapa que desee rastrear.
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
@@ -102,8 +102,8 @@ Puede asociar todas las etapas del modelo con la conversión de AdWords en un so
 
    ![](assets/image2015-3-27-17-3a30-3a48.png)
 
-1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las etapas de ingresos, vuelva a la página de resumen. Seleccione Acciones **** de modelo y elija **Aprobar etapas**.
+1. Una vez que haya terminado de asignar todas las conversiones de AdWords a las etapas de ingresos, vuelva a la página de resumen. Seleccione **Acciones de modelo** y elija **Aprobar etapas**.
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Para realizar la vista de los datos de conversión sin conexión, deberá iniciar sesión en su cuenta de AdWords. Le recomendamos que utilice la función [Columnas](https://support.google.com/adwords/answer/3073556) personalizadas para crear columnas de recuento de conversiones para cada conversión sin conexión que importe desde Marketing.
+Para realizar la vista de los datos de conversión sin conexión, deberá iniciar sesión en su cuenta de AdWords. Le recomendamos que utilice la función [Columnas personalizadas](https://support.google.com/adwords/answer/3073556) para crear columnas de recuento de conversiones para cada conversión sin conexión que importe desde Marketing.
