@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Explicación del área de Análisis de pertenencia a Programa {#understanding-the-program-membership-analysis-area}
+# Explicación del área de Análisis de membresía de Programa {#understanding-the-program-membership-analysis-area}
 
 El área de Análisis de membresía de Programa le permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal durante un período de tiempo determinado.
 
@@ -29,7 +29,7 @@ El área de Análisis de membresía de Programa le permite analizar la efectivid
 
 ![](assets/three-2.png)
 
-## Dimension y medidas de la Análisis para la composición de los programas {#program-membership-analysis-dimensions-and-measures}
+## Dimension y medidas para la Análisis de membresía en programa {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ El área de Análisis de membresía de Programa le permite analizar la efectivid
 | Canal programa | Canal programa |
 | Nombre del programa | Nombre del programa |
 
-### Intervalo de tiempo de pertenencia a programa {#program-membership-timeframe}
+### Intervalo de tiempo de pertenencia a programas {#program-membership-timeframe}
 
 | Dimension | Descripción |
 |---|---|
