@@ -17,7 +17,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Crear Listas inteligentes móviles {#create-mobile-smart-lists}
 
-1. Vaya a Actividades **de marketing**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -25,11 +25,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/two-1.png)
 
-1. En **Nuevo**, seleccione **Nuevo recurso** local.
+1. En **Nuevo**, seleccione **Nuevo recurso local**.
 
    ![](assets/three-1.png)
 
-1. Haga clic en Lista **** inteligente.
+1. Haga clic en **Lista inteligente**.
 
    ![](assets/four-1.png)
 
@@ -41,7 +41,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/six-1.png)
 
-1. Definir correo electrónico como **es cualquiera**.
+1. Establecer correo electrónico en **es cualquiera**.
 
    ![](assets/seven.png)
 
@@ -65,11 +65,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Crear un informe de rendimiento de personas {#create-a-people-performance-report}
 
-1. En Actividades de marketing, seleccione el programa que aloja sus listas inteligentes de **iOS** y **Android** .
+1. En Actividades de marketing, seleccione el programa que aloja sus **listas inteligentes de &lt;a0/>iOS** y **Android**.
 
    ![](assets/ten.png)
 
-1. En **Nuevo**, seleccione **Nuevo recurso** local.
+1. En **Nuevo**, seleccione **Nuevo recurso local**.
 
    ![](assets/eleven.png)
 
@@ -77,7 +77,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/twelve.png)
 
-1. Defina el tipo en Rendimiento **de** personas.
+1. Establezca Type en **People Performance**.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Añadir Listas inteligentes móviles como columnas {#add-mobile-smart-lists-as-columns}
 
-1. En el informe que acaba de crear, haga clic en **Configuración** y, a continuación, arrastre Columnas **** personalizadas al lienzo.
+1. En el informe que acaba de crear, haga clic en **Configuración** y luego arrastre **Columnas personalizadas** al lienzo.
 
    ![](assets/fifteen.png)
 
