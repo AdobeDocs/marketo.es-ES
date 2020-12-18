@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Creación de una plantilla de Página de aterrizaje guiada {#create-a-guided-landing-page-template}
+# Crear una plantilla de Página de aterrizaje guiada {#create-a-guided-landing-page-template}
 
 >[!NOTE]
 >
->**Buceo profundo:** ¿Cansado de leer? [Vea este vídeo](https://youtu.be/3O7e4GdZKsM) genial con instrucciones paso a paso.
+>**Buceo profundo: ¿** Cansado de leer? [Vea este fantástico ](https://youtu.be/3O7e4GdZKsM) vídeo con instrucciones paso a paso.
 
 Las plantillas de página de aterrizaje guiadas tienen una sintaxis especial. Utilice esta sintaxis para especificar qué es personalizable y dónde terminará el contenido en cada página de aterrizaje creada a partir de la plantilla. Solo las regiones o variables que especifique como editables estarán disponibles para la personalización dentro del editor de páginas de aterrizaje &quot;Guiado&quot;.
 
@@ -34,7 +34,7 @@ Los elementos se declaran agregando un elemento DOM normal a la plantilla y, a c
 
 ## Texto {#text}
 
-Si define una región como texto enriquecido, los usuarios podrán editar su contenido [con el Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)de texto enriquecido de Marketing Cloud.
+Si define una región como texto enriquecido, los usuarios podrán editar su contenido [con el Editor de texto enriquecido](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) de Marketing Cloud.
 
 Atributos requeridos:\
 **clase**: &quot;mktoText&quot;\
@@ -50,7 +50,7 @@ Ejemplo:
 
 ### Imagen {#image}
 
-Existen dos opciones para definir elementos de imagen editables. Puede utilizar un `<div>`, que especifica un contenedor en el que se insertará la imagen, o bien una `<img>` etiqueta.
+Tiene dos opciones para definir elementos de imagen editables. Puede utilizar una etiqueta `<div>`, que especifica un contenedor en el que se insertará la imagen, o una etiqueta `<img>`.
 
 ## Opción 1: Usar una <div> {#option-use-a-div}
 
@@ -61,13 +61,13 @@ id: Cadena de ID. Contiene sólo letras, números, guión &quot;-&quot; y guión
 mktoName : Cadena. Es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Se recomienda utilizar un nombre descriptivo.
 
 Opcional:\
-mktoImgClass: Cadena. El valor aquí se agregará al atributo de clase del `<img>` elemento dentro del div.
+mktoImgClass: Cadena. El valor aquí se agregará al atributo de clase del elemento `<img>` dentro del div.
 
 Ejemplo:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Opción 2: Usar una `<img>` {#option-use-a-img}
+## Opción 2: Usar un `<img>` {#option-use-a-img}
 
 Atributos requeridos:\
 class: &quot;mktoImg&quot;\
@@ -83,7 +83,7 @@ Ejemplo:
 
 >[!NOTE]
 >
->Al utilizar la `<img>` versión, el HTML procesado contendrá un envoltorio div generado alrededor de la `<img>` etiqueta . Se establecerá en la clase .&quot;mktoImg.mktoGen,&quot; y se mostrará:inline-block.
+>Al utilizar la versión `<img>`, el HTML procesado contendrá un envoltorio div generado alrededor de la etiqueta `<img>`. Se establecerá en la clase .&quot;mktoImg.mktoGen,&quot; y se mostrará:inline-block.
 
 ## Formulario {#form}
 
@@ -116,14 +116,15 @@ Ejemplo:
 
 `<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
 
-## Vídeo {#video}
+## Video {#video}
 
 >[!NOTE]
 >
 >Cuando se utiliza el elemento de vídeo en una página de aterrizaje, Marketing solo admite vídeos de YouTube. Si utiliza otro servicio, recomendamos utilizar un cuadro de texto enriquecido y pegar en el código incrustado del vídeo.
 
 Atributos requeridos:
-**clase**: &quot;mktoVideo&quot;**id**: Cadena de ID. Contiene sólo letras, números, guión &quot;-&quot; y guión bajo &quot;_&quot;. No se permiten espacios. Debe ser único.
+**clase**: &quot;mktoVideo&quot;
+**id**: Cadena de ID. Contiene sólo letras, números, guión &quot;-&quot; y guión bajo &quot;_&quot;. No se permiten espacios. Debe ser único.
 **mktoName** : Cadena. Es el nombre para mostrar que se mostrará en el editor de páginas de aterrizaje. Se recomienda utilizar un nombre descriptivo.
 
 Ejemplo:
@@ -173,7 +174,7 @@ Ejemplo:
 
 **Declaración:**
 
-Las variables se declaran como etiquetas meta dentro del `<head>` elemento de la plantilla. Existen tres tipos de variables disponibles para su uso: Cadena, Color y Booleano.
+Las variables se declaran como etiquetas meta dentro del elemento `<head>` de la plantilla. Existen tres tipos de variables disponibles para su uso: Cadena, Color y Booleano.
 
 ## Cadena {#string}
 
