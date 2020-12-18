@@ -17,8 +17,8 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
 >[!PREREQUISITES]
 >
->* Complete la configuración de datos [de](retargeting-with-web-personalization-data.md) redireccionamiento con personalización web
->* Revise la documentación de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook sobre audiencias personalizadas y remercadotecnia [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)en Facebook
+>* Complete la configuración de [redireccionamiento con datos de personalización web](retargeting-with-web-personalization-data.md)
+>* Revise la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentación de Facebook sobre Audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)y remercadotecnia
 
 >
 
@@ -26,16 +26,16 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
 ## Creación de una Audiencia en Facebook {#creating-an-audience-in-facebook}
 
-1. En Facebook, vaya a la ficha [](https://www.facebook.com/ads/audience_manager) Audiencia en el Administrador de publicidad.
+1. En Facebook, vaya a la ficha [Audiencia](https://www.facebook.com/ads/audience_manager) en el Administrador de publicidad.
 1. Haga clic en **Herramientas** y seleccione **Audiencias**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en **Crear una Audiencia** personalizada.
+1. Haga clic en **Crear una Audiencia personalizada**.
 
    ![](assets/two-1.png)
 
-1. Seleccione Tráfico **del** sitio web.
+1. Seleccione **Tráfico del sitio Web**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -51,7 +51,7 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Para este ejemplo, seleccione Industria para que contenga **Educación**. Introduzca **Educación** y edite **En el último** período de 180 días. Escriba el nombre de la Audiencia: **Sector** educativo. Haga clic en **Crear Audiencia**.
+1. Para este ejemplo, seleccione Industria para contener **Educación**. Escriba **Educación** y edite **En el último** para que sea de 180 días. Escriba el nombre de la Audiencia: **Sector educativo**. Haga clic en **Crear Audiencia**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -106,13 +106,13 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
 ## Destinatario de su Audiencia con una publicidad {#target-your-audience-with-an-ad}
 
-Para obtener más información, consulte la documentación [de](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)Facebook.
+Para obtener más información, consulte la [documentación de Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
 1. Vaya al Administrador de publicidad, haga clic en **Crear publicidad**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Seleccione **Enviar personas a su sitio web** como objetivo de su campaña.
+1. Seleccione **Enviar personas a su sitio Web** como objetivo de su campaña.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
