@@ -23,11 +23,11 @@ Marketo facilita la redirección de una ruta de URL a cualquier página que elij
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Haga clic en la ficha **Reglas** y, a continuación, haga clic en **Nuevo ** y **Nueva regla** de redirección.
+1. Haga clic en la ficha **Reglas** y, a continuación, haga clic en **Nueva **y **Nueva regla de redirección**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Haga clic en la primera lista desplegable URL **** original y seleccione el CNAME de marketing.
+1. Haga clic en la primera lista desplegable **URL original** y seleccione el CNAME de marketing.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -36,17 +36,17 @@ Marketo facilita la redirección de una ruta de URL a cualquier página que elij
    >**Recordatorio**
    >
    >
-   >Recuerde que sólo puede redireccionar direcciones URL que inicio con el [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)de marketing.
+   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Escriba la ruta de URL (o página específica) que desee redireccionar en el segundo campo URL **** original de la derecha.
+1. Escriba la ruta de URL (o página específica) que desee redirigir en el segundo campo **URL original** a la derecha.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Haga clic en **Usar Página de aterrizaje** que no sea de marketing, escriba la página a la que desee redirigir visitantes en el campo **Redireccionar URL** y haga clic en **Crear**.
+1. Haga clic en **Usar Página de aterrizaje que no sea de marketing**, escriba la página a la que desee redirigir los visitantes en el campo **Redireccionar URL** y haga clic en **Crear**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   También puede [usar páginas de aterrizaje](https://docs.marketo.com/x/vAEk) de marketing como destino.
+   También puede [usar páginas de aterrizaje de marketing](https://docs.marketo.com/x/vAEk) como destino.
 
 ¡Felicitaciones!  Ha redireccionado correctamente la ruta URL.
 
