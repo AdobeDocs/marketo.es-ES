@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Puede desaprobar cualquier título para contenido predictivo en la página Todo el contenido o en la ventana emergente Editar contenido.
 
@@ -25,7 +25,7 @@ Puede desaprobar cualquier título para contenido predictivo en la página Todo 
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Haga clic en la lista desplegable Acciones **de** contenido y seleccione **Desaprobar contenido** predictivo.
+1. Haga clic en la lista desplegable **Acciones de contenido** y seleccione **Desaprobar contenido predictivo**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -37,7 +37,7 @@ Puede desaprobar un título mientras lo está editando.
 
    ![](assets/click-icon-hand.png)
 
-1. Desmarque la casilla **Aprobar contenido** predictivo y haga clic en **Guardar**.
+1. Desmarque la casilla **Aprobar contenido predictivo** y haga clic en **Guardar**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
