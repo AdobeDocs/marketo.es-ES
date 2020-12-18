@@ -17,7 +17,7 @@ Cambie la configuración, como la zona horaria o los informes de correo electró
 
 ## Perfil del usuario / Contraseñas / Husos horarios {#user-profile-passwords-time-zones}
 
-1. Haga clic en su nombre y seleccione Configuración **de usuario.**
+1. Haga clic en su nombre y seleccione **Configuración de usuario.**
 
    ![](assets/one.png)
 
@@ -45,7 +45,7 @@ Cambie la configuración, como la zona horaria o los informes de correo electró
 
 ## Seleccionar informes de correo electrónico {#select-email-reports}
 
-Seleccione qué informe [de](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) correo electrónico asociar al usuario y la frecuencia (diaria, semanal o trimestral) en que se enviará el informe.
+Seleccione qué [informe de correo electrónico](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) asociar con el usuario y la frecuencia (diaria, semanal o trimestral) cuando se enviará el informe.
 
 ![](assets/three.png)
 
