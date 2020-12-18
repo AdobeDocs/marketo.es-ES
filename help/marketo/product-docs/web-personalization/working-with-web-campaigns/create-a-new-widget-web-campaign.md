@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Crear una nueva Campaña Web de utilidades {#create-a-new-widget-web-campaign}
 
-Una campaña web es una reacción personalizada asociada a un segmento específico y puede ser un cuadro [de](create-a-new-dialog-web-campaign.md) diálogo en el sitio web, un reemplazo [de zona](create-a-new-in-zone-web-campaign.md)en el sitio, una función de utilidad o una alerta por correo electrónico. La campaña web Widget es un texto o una pancarta que aparece en la parte vertical de la página web con la capacidad de expandirse y contraerse, mientras se mantiene fija en la página web durante toda la visita.
+Una campaña Web es una reacción personalizada asociada a un segmento específico y puede ser un [cuadro de diálogo](create-a-new-dialog-web-campaign.md) en su sitio Web, un [reemplazo de zona](create-a-new-in-zone-web-campaign.md), una función de utilidad o una alerta por correo electrónico. La campaña web Widget es un texto o una pancarta que aparece en la parte vertical de la página web con la capacidad de expandirse y contraerse, mientras se mantiene fija en la página web durante toda la visita.
 
 ## Crear una Campaña Web de utilidades {#create-a-widget-web-campaign}
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Seleccione **Crear nueva Campaña** Web.
+1. Seleccione **Crear nueva Campaña Web**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Seleccione el tipo de campaña **Widget** .
+1. Seleccione el tipo de campaña **Utilidad**.
 
    ![](assets/3.png)
 
@@ -51,7 +51,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mostrar en</strong></td> 
-   <td colspan="1">Permite <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña web.</td> 
+   <td colspan="1">Permite <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animar entrada/salida</strong></td> 
@@ -86,7 +86,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
    <td colspan="1">Campañas de previsualización antes de que se inicien.<br> 
     <ul> 
      <li>URL: introduzca una URL de ejemplo en la que se ejecutaría la campaña para ver un ejemplo de previsualización de cómo se vería la campaña en directo.</li> 
-     <li>Previsualización: haga clic en <strong>Previsualización </strong>para abrir una nueva ventana de la URL de ejemplo para ver cómo reacciona la campaña (Añada la extensión <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">de</a> Chrome para la mejor experiencia de previsualización de Campaña web). </li> 
+     <li>Previsualización: haga clic en <strong>Previsualización </strong>para abrir una nueva ventana de la URL de ejemplo para ver cómo reacciona la campaña (Añada la <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensión de Chrome</a> para obtener la mejor experiencia de previsualización de Campaña Web). </li> 
      <li>Compartir: utilice el botón Compartir para enviar un correo electrónico a un colega con un vínculo para ver la campaña proxy.</li> 
     </ul></td> 
   </tr> 
@@ -95,7 +95,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
 
 >[!NOTE]
 >
->**¿Desea probar A/B sus campañas web?** Se puede probar una o varias campañas web [A/B para obtener resultados](ab-test-your-web-campaign.md)óptimos. Con la función de ajuste automático, la plataforma reconoce automáticamente las campañas de mejor rendimiento, continúa con las campañas de conversión más elevadas y pone en pausa las demás.
+>**¿Desea probar A/B sus campañas web?** Se puede probar una o varias campañas web  [A/B para obtener resultados](ab-test-your-web-campaign.md) óptimos. Con la función de ajuste automático, la plataforma reconoce automáticamente las campañas de mejor rendimiento, continúa con las campañas de conversión más elevadas y pone en pausa las demás.
 
 ## Editar una Campaña Web {#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ En la página Campañas Web, haga clic en **Editar** en la Campaña.
 
 >[!NOTE]
 >
->Para facilitar la búsqueda de la campaña deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+>Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
 
 ## Clonar una Campaña Web {#clone-a-web-campaign}
 
-Consulte [Clonar una Campaña](clone-a-web-campaign.md)Web.
+Consulte [Clonar una Campaña Web](clone-a-web-campaign.md).
 
 ## Previsualización de una Campaña Web {#preview-a-web-campaign}
 
