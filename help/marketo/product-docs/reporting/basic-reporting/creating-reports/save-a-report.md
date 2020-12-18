@@ -15,10 +15,10 @@ ht-degree: 0%
 
 En ocasiones, es posible que tenga que volver a guardar un informe predeterminado en vista más tarde. Así es como se puede hacer eso:
 
-1. Vaya al área **Análisis** .
+1. Vaya al área **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Seleccione un tipo [de](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)informe.
+1. Seleccione un [tipo de informe](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -26,11 +26,11 @@ En ocasiones, es posible que tenga que volver a guardar un informe predeterminad
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Guardar en** una ubicación y seleccionar una **carpeta**.
+1. **Guardar** en una ubicación y seleccionar una  **carpeta**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Asigne un nombre** al informe y haga clic en **Guardar**.
+1. **Asigne un** nombre al informe y haga clic en  **Guardar**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
