@@ -23,11 +23,11 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. En la ficha **Reglas** , haga clic en **Nuevo** y, a continuación, en **Nueva** **regla** de redirección ****.
+1. En la ficha **Reglas**, haga clic en **Nueva** y, a continuación, en **Nueva** **Redireccionar** **Regla**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la **primera** lista desplegable **Original** **URL** y seleccione el [CNAME](customize-your-landing-page-urls-with-a-cname.md)de marketing.
+1. Haga clic en la lista desplegable **first** **Original** **URL** y seleccione el archivo de marketing [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -36,9 +36,9 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >**Recordatorio**
    >
    >
-   >Recuerde que sólo puede redireccionar direcciones URL que inicio con el [CNAME](customize-your-landing-page-urls-with-a-cname.md)de marketing.
+   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
-1. Elija la página de aterrizaje que desea redirigir en el **segundo campo URL** original.
+1. Elija la página de aterrizaje que desee redirigir en el campo **segunda URL original**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -46,7 +46,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >
    >Puede introducir cualquier ruta de URL, incluso si la página o el directorio no existen.
 
-1. Haga clic en la lista desplegable **Redirigir** la **dirección URL** y seleccione la página a la que desee redirigir los visitantes.
+1. Haga clic en la lista desplegable **Redireccionar** **URL** y seleccione la página a la que desee redirigir los visitantes.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -56,7 +56,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
 
    >[!TIP]
    >
-   >Para redireccionar a una página web fuera de Marketing, haga clic en **Usar Página de aterrizaje** que no sea de marketing.
+   >Para redireccionar a una página Web fuera de Marketing, haga clic en **Usar Página de aterrizaje que no sea de Marketing**.
 
    >[!NOTE]
    >
