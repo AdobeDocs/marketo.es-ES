@@ -17,19 +17,19 @@ Utilice la función de clonación de la página Campañas web para copiar la con
 
 ## Crear una Campaña de clon {#create-a-clone-campaign}
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña Web deseada, utilice la función [filter](filter-web-campaigns.md).
 
 1. Para la campaña web, haga clic en **Clonar**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. El proceso de clonación de campañas copia todo el contenido de la campaña web existente en la nueva campaña clonada. La nueva campaña web clonada se titula &quot;Copia del nombre[de la] CAMPAÑA&quot;.
+1. El proceso de clonación de campañas copia todo el contenido de la campaña web existente en la nueva campaña clonada. La nueva campaña web clonada se titula &quot;[NOMBRE DE CAMPAÑA] Copiar&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
