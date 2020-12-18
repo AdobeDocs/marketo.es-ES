@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Editar una Campaña Web existente {#edit-an-existing-web-campaign}
 
-1. Vaya a Campañas **** Web.
+1. Vaya a **Campañas Web**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. En la página Campañas **** Web, haga clic en **Editar **en la campaña que desee editar.
+1. En la página **Campañas Web**, haga clic en **Editar **en la campaña que desee editar.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web deseada, utilice la función [de](filter-web-campaigns.md)filtro.
+   >Para facilitar la búsqueda de la campaña Web deseada, utilice la función [filter](filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
 >* [Eliminar una Campaña Web](delete-a-web-campaign.md)
->* [Iniciar/pausar una](launch-pause-a-web-campaign.md) [Campaña](launch-pause-a-web-campaign.md)
+>* [Iniciar/pausar ](launch-pause-a-web-campaign.md) [una campaña](launch-pause-a-web-campaign.md)
 
 >
 
