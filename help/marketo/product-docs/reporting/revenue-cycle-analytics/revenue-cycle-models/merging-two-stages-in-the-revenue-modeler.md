@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Una vez aprobado el modelo, no se pueden eliminar etapas al editar un borrador. En su lugar, puede combinar ese escenario con otro.
 
-1. Haga clic en **Marcado a inicio** y seleccione **Análisis**.
+1. Haga clic en **Inicio de marketing** y seleccione **Analytics**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -43,5 +43,5 @@ Una vez aprobado el modelo, no se pueden eliminar etapas al editar un borrador. 
 
 >[!NOTE]
 >
->Seleccione **Ninguno** en la lista desplegable Fase de combinación para eliminar los leads del modelo
+>Elija **Ninguno** en la lista desplegable de la etapa de combinación para eliminar los leads del modelo
 
