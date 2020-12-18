@@ -27,11 +27,11 @@ Puede implementar aplicaciones sociales en su propio sitio web para atraer a su 
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Seleccione **Incrustar** **código***** **en Acciones de aplicación de Social.
+1. Seleccione **Incrustar** **Código**** **en Acciones de aplicación de Social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copie el código del encabezado (`<head>`) y el cuerpo (`<body>`) de la página del sitio.
+1. Copie el código del encabezado de página del sitio (`<head>`) y del cuerpo (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
