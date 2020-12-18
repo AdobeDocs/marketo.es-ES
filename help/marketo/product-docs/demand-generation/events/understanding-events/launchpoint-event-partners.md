@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Partners de Evento de LaunchPoint {#launchpoint-event-partners}
+# Asociados de negocios de LaunchPoint Evento {#launchpoint-event-partners}
 
 Conecte Marketing a un socio de Evento de LaunchPoint para automatizar sus eventos en línea. Al conectarlos, puede:
 
