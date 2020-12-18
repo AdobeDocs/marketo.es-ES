@@ -31,7 +31,7 @@ Vamos a crear un segmento básico dirigido a todos los visitantes web de EE.UU. 
 
    ![](assets/location-drag-hand.jpg)
 
-1. Seleccione un país para agregar en la lista desplegable. Seleccione Estados **Unidos**.
+1. Seleccione un país para agregar en la lista desplegable. Seleccione **Estados Unidos**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -43,13 +43,13 @@ Vamos a crear un segmento básico dirigido a todos los visitantes web de EE.UU. 
 
    ![](assets/industries-hand.jpg)
 
-1. Seleccione Industrias para agregar en la lista desplegable. Seleccione **Servicios financieros ****Sector**.
+1. Seleccione Industrias para agregar en la lista desplegable. Seleccione el **Servicio financiero ****Sector**.
 
    ![](assets/segment-industries.png)
 
    Ahora ha configurado un segmento básico para todos los clientes potenciales que visitan su sitio web desde los Estados Unidos y el sector financiero.
 
-1. Haga clic en** Guardar **para guardar el segmento o en **Guardar y definir Campaña** para ir a la página Campañas.
+1. Haga clic** Guardar **para guardar el segmento o **Guardar y definir Campaña** para ir a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
