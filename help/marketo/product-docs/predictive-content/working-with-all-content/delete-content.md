@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido`<sup>AI</sup>`predictivo de marketing o Contenido. Para aquellos que utilizan contenido predictivo, Marketing`<sup>AI</sup>` está activando las funciones de Content Analytics hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido`<sup>AI</sup>`de marketing.
+>Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Cuando ya no se necesita un fragmento de contenido, es fácil deshacerse de él.
 
@@ -23,7 +23,7 @@ Cuando ya no se necesita un fragmento de contenido, es fácil deshacerse de él.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Haga clic en la lista desplegable Acciones **de** contenido y seleccione **Eliminar contenido**.
+1. Haga clic en la lista desplegable **Acciones de contenido** y seleccione **Eliminar contenido**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 
