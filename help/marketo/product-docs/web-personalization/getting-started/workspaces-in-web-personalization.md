@@ -21,13 +21,13 @@ Para cambiar entre espacios de trabajo en personalización web, haga clic en el 
 
 ![](assets/ss7.png)
 
-## Cambio del espacio de trabajo de un segmento {#change-a-segments-workspace}
+## Cambiar el espacio de trabajo de un segmento {#change-a-segments-workspace}
 
-1. Vaya a la página **Segmentos** , seleccione un segmento y haga clic en el icono de edición.
+1. Vaya a la página **Segmentos**, seleccione un segmento y haga clic en el icono de edición.
 
    ![](assets/ss4.png)
 
-1. Seleccione un espacio de trabajo diferente en la lista desplegable **Espacio de trabajo** .
+1. Seleccione un espacio de trabajo diferente en la lista desplegable **Workspace**.
 
    ![](assets/ss6.png)
 
@@ -35,5 +35,5 @@ Para cambiar entre espacios de trabajo en personalización web, haga clic en el 
 
 >[!NOTE]
 >
->Los usuarios solo podrán ver campañas web y segmentos asociados a los espacios de trabajo a los que tienen acceso. A continuación se muestra cómo [dar acceso a un usuario a uno o varios espacios de trabajo](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Los usuarios solo podrán ver campañas web y segmentos asociados a los espacios de trabajo a los que tienen acceso. A continuación se muestra cómo [dar acceso a un usuario a uno o más espacios de trabajo](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
 
