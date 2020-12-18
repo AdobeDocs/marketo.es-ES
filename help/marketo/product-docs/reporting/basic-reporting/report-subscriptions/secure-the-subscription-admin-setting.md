@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Asegurar la configuración del administrador de Suscripciones {#secure-the-subscription-admin-setting}
+# Asegurar la configuración de administración de Suscripciones {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Un administrador puede elegir requerir el inicio de sesión para poder realizar la vista de un informe.
 
-1. Haga clic en **Administración** y, a continuación, en Configuración **de inicio de sesión**.
+1. Haga clic en **Administración** y luego **Configuración de inicio de sesión**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Haga clic en **Editar** para la configuración de informes de Lista inteligente.
+1. Haga clic en **Editar** para Configuración de informes de Lista inteligente.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
