@@ -41,7 +41,7 @@ Debe aprobar el envío antes de que salga el mensaje en la aplicación.
 
    Puede pausar o detener un programa activo, pero hay una gran diferencia entre esas dos opciones.
 
-1. Haga clic en **Pausar Programa** si necesita detener el programa por un tiempo pero reanudarlo más tarde. Cambiará al estado **Pausado** .
+1. Haga clic en **Pausar Programa** si necesita detener el programa por un tiempo pero reanudarlo más tarde. Cambiará al estado **Pausado**.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -65,11 +65,11 @@ Debe aprobar el envío antes de que salga el mensaje en la aplicación.
 
    >[!NOTE]
    >
-   >Cuando se detiene un programa, ya no se ejecuta y no se puede reanudar. Si quieres ejecutarlo de nuevo, tendrás que reconstruirlo. Así que, ¡asegúrate de haber terminado con un programa antes de hacer clic en **Detener Programa**!
+   >Cuando se detiene un programa, ya no se ejecuta y no se puede reanudar. Si quieres ejecutarlo de nuevo, tendrás que reconstruirlo. Por lo tanto, asegúrese de haber terminado con un programa antes de hacer clic en **Detener Programa**!
 
 ## Panel en la aplicación {#in-app-dashboard}
 
-Después de ejecutar el programa, puede supervisar su rendimiento con el Panel en la aplicación, que aparece automáticamente después de aprobar el programa. Para volver al programa, haga clic en el vínculo en la parte superior derecha y seleccione **Panel de control de Campaign**.
+Después de ejecutar el programa, puede supervisar su rendimiento con el Panel en la aplicación, que aparece automáticamente después de aprobar el programa. Para volver al programa, haga clic en el vínculo en la esquina superior derecha y seleccione **Panel de control de Campaign**.
 
 ¡Eso es todo, amigos!
 
