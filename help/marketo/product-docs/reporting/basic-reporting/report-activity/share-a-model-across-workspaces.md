@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Uso compartido de un modelo en áreas de trabajo {#share-a-model-across-workspaces}
+# Compartir un modelo en espacios de trabajo {#share-a-model-across-workspaces}
 
 Marketo le permite compartir un modelo en varias áreas de trabajo. Así es como.
 
-1. Vaya a la sección **Análisis** .
+1. Vaya a la sección **Análisis**.
 
    ![](assets/analytics.png)
 
@@ -27,7 +27,7 @@ Marketo le permite compartir un modelo en varias áreas de trabajo. Así es como
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Arrastre los modelos que desee compartir a la carpeta **** Compartir.
+1. Arrastre los modelos que desee compartir a la **Carpeta compartida**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
@@ -44,4 +44,4 @@ Marketo le permite compartir un modelo en varias áreas de trabajo. Así es como
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-¡Es tan fácil! Ahora las personas de otros espacios de trabajo pueden moverse por el modelo compartido. Es posible que desee ejecutar la asignación de personas en ese espacio de trabajo; consulte [Inicio del modelo](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) de ciclo de ingresos para obtener más detalles.
+¡Es tan fácil! Ahora las personas de otros espacios de trabajo pueden moverse por el modelo compartido. Puede que desee ejecutar la asignación de personas en ese espacio de trabajo, consulte [Inicio del modelo de ciclo de ingresos](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) para obtener más detalles.
