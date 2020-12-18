@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La Análisis de oportunidades en el Explorador de ingresos le permite examinar las oportunidades en un nivel más profundo. Dividir y asignar los datos en función de cualquier atributo de posible cliente/compañía, como origen de posibles clientes, industria o geografía. Analizar la creación de oportunidades y cerrar según el nombre, la etapa o la probabilidad. Averiguar las contribuciones de mercadotecnia a la canalización.
 
-## Análisis de ejemplo {#example-analysis}
+## Ejemplo de análisis {#example-analysis}
 
 Estos son algunos informes que puede crear en el área de Análisis Oportunidad.
 
