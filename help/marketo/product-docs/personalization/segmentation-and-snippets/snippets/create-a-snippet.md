@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Creación de un fragmento {#create-a-snippet}
+# Crear un fragmento de código {#create-a-snippet}
 
-Los fragmentos se pueden utilizar como bloques de contenido dinámico en **correos electrónicos** y **páginas de aterrizaje.**
+Los fragmentos pueden utilizarse como bloques de contenido dinámico en **correos electrónicos** y **páginas de aterrizaje.**
 
 1. Vaya a **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Haga clic en **Nuevo ** y, a continuación, en **Nuevo fragmento**.
+1. Haga clic en **Nuevo **y luego **Nuevo fragmento**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
