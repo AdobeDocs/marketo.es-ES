@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >En este artículo se muestra cómo usar el antiguo Google Standard Analytics, pero se recomienda cambiar a Universal Analytics.
 >
->Si todavía no utiliza el código [de seguimiento](https://developers.google.com/analytics/devguides/collection/analyticsjs/)analytics.js, Google recomienda enfáticamente volver a etiquetar el sitio para utilizarlo. Google está dejando de utilizar lo siguiente:
+>Si todavía no utiliza el código de seguimiento [analytics.js](https://developers.google.com/analytics/devguides/collection/analyticsjs/), Google recomienda enfáticamente que vuelva a etiquetar el sitio para utilizarlo. Google está dejando de utilizar lo siguiente:
 >
 >* ga.js
 >* urchin.js
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Vea cómo integrar la personalización [web con Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Consulte cómo integrar la [Personalización web con Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
 ## Introducción {#introduction}
 
@@ -66,15 +66,15 @@ Mida sus campañas RTP y correlaciónelas con el promedio general del sitio. Con
 
 ## Configuración de RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Añada el correo electrónico [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b), como usuario de lectura y análisis, a su cuenta de GA. Para obtener más información, consulte [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
-1. En su cuenta RTP. Vaya a Configuración **de cuenta**.
+1. Añada el correo electrónico [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) como un usuario de lectura y análisis en su cuenta de GA. Para obtener más información, consulte [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
+1. En su cuenta RTP. Vaya a **Configuración de la cuenta**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. En Configuración **** de cuenta, **Dominio** y **análisis**
+1. En **Configuración de cuenta**, **Dominio** y **Análisis**
 1. Haga clic en Google Analytics**.**
-1. Active las variables **y los** Eventos **** personalizados relevantes para anexar estos datos de RTP a Google Analytics.
-1. Introduzca el número de **ranura** para enviar datos de variables personalizadas (el valor predeterminado es 1,2).
+1. Active las **variables personalizadas** y **Eventos** relevantes para anexar estos datos de RTP a Google Analytics.
+1. Introduzca el número **Ranura** para enviar datos de variables personalizadas (el valor predeterminado es 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
@@ -82,12 +82,12 @@ Haga clic en **GUARDAR**.
 
 >[!NOTE]
 >
->Para enviar datos de segmentos a GA, en la página [](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) Editar segmento en la plataforma RTP, seleccione la casilla de verificación **Enviar Evento a Google Analytics en coincidencia** de segmentos.
+>Para enviar datos de segmentos a GA, en la [página Editar segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plataforma RTP, seleccione la casilla **Enviar Evento a Google Analytics en coincidencia de segmento**.
 
 ## Configuración de informes de Google Analytics con datos RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
 En Google Analytics puede utilizar paneles, segmentación de GA y sistemas de informes para vista de los datos de RTP:
 
-* [Los paneles](https://support.google.com/analytics/answer/1068216?hl=en) proporcionan información general sobre el rendimiento del sitio web.
-* Un segmento GA está diseñado para filtrar visitantes en la interfaz GA y para vista del tráfico por segmento. Vea cómo crear un segmento [aquí](https://support.google.com/analytics/answer/3124493?hl=en).
-* Creación de informes [](https://support.google.com/analytics/answer/1033013?hl=en) personalizados para la vista o configuración de correos electrónicos programados. Consulte en Personalización > Nuevo informe personalizado.
+* [Los ](https://support.google.com/analytics/answer/1068216?hl=en) tableros proporcionan información general sobre el rendimiento del sitio web.
+* Un segmento GA está diseñado para filtrar visitantes en la interfaz GA y para vista del tráfico por segmento. Vea cómo generar un segmento [aquí](https://support.google.com/analytics/answer/3124493?hl=en).
+* Creación de [informes personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para la vista y/o configuración de correos electrónicos programados. Consulte en Personalización > Nuevo informe personalizado.
