@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Una cuadrícula de calor representa visualmente los datos en una cuadrícula de color para que pueda identificar patrones buenos y malos de forma más fácil y rápida.
 
-1. En el informe, haga clic en el icono del gráfico y, a continuación, en **Cuadrícula** de calor.
+1. En el informe, haga clic en el icono del gráfico y, a continuación, **Cuadrícula de calor**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Para realizar cambios en la cuadrícula **de** calor, vaya al área **Propiedades **1.
+1. Para realizar cambios en su **Cuadrícula de calor**, vaya al área **Propiedades **1.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   ¡Increíble! ¡Ahora tienes tu **Cuadrícula** de Calor!
+   ¡Increíble! Ahora tiene su **Cuadrícula de calor**!
 
