@@ -21,7 +21,7 @@ Se incluyen todas las dimensiones estándar de marketing, pero puede agregar has
 
 >[!CAUTION]
 >
->Las dimensiones personalizadas **NO SE PUEDEN** eliminar o reemplazar, por lo que elija las 10 con cuidado.
+>Las dimensiones personalizadas **NO PUEDEN** eliminarse o reemplazarse, así que elija las 10 cuidadosamente.
 
 1. En Perspectivas de correo electrónico, haga clic en el icono de engranaje en la parte superior derecha de la página.
 
