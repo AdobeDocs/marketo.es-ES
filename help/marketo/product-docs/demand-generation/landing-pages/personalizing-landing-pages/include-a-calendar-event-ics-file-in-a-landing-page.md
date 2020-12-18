@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Incluir un archivo ICS de Evento de calendario en una Página de aterrizaje {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-Un token de archivo **de** calendario le permite agregar un vínculo de evento de calendario (.ics) a sus páginas de aterrizaje de marketing.
+Un token **Archivo de calendario** le permite agregar un vínculo de evento de calendario (.ics) a sus páginas de aterrizaje de marketing.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ Un token de archivo **de** calendario le permite agregar un vínculo de evento d
 
 
 
-1. En el editor de páginas de aterrizaje, haga clic **{...}** para insertar un token.
+1. En el editor de páginas de aterrizaje, haga clic en **{...}** para insertar un token.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Seleccione el token de archivo **de** calendario y haga clic en **Insertar**.
+1. Seleccione el token **Archivo de calendario** y haga clic en **Insertar**.
 
    >[!CAUTION]
    >
