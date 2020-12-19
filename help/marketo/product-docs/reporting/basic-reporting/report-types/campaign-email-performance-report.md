@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Informe de rendimiento de correo electrónico de campaña {#campaign-email-performance-report}
 
-Para ver las estadísticas de rendimiento del correo electrónico agrupadas por campaña [](http://docs.marketo.com/display/docs/smart+campaigns)inteligente, ejecute un informe de rendimiento del correo electrónico de Campaña.
+Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [campaña inteligente](http://docs.marketo.com/display/docs/smart+campaigns), ejecute un informe de rendimiento del correo electrónico de Campaña.
 
-1. [Cree un informe](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione el tipo **de** informe Rendimiento [del correo electrónico de](report-type-overview.md)Campaña.
-1. [Configure el intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) y haga clic en la ficha **Informe** .
+1. [Cree un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) informe y seleccione el tipo **de puerto de** [Campaña de ](report-type-overview.md)rendimiento de correo electrónico.
+1. [Configure el intervalo de tiempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) informe y haga clic en la ficha  **** Informe.
 1. Ahora explore el informe para ver el rendimiento de cada correo electrónico de sus campañas.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +25,7 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
    >
    >Haga clic en el nombre de un correo electrónico para abrirlo en la vista previa de correo electrónico.
 
-   [Las columnas que puede](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)seleccionar para un informe Rendimiento de correo electrónico de Campaña incluyen:
+   [Las columnas que puede ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)seleccionar para un informe Rendimiento de correo electrónico de Campaña incluyen:
 
    | Columna | Descripción |
    |---|---|
@@ -37,7 +37,7 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
 
    >[!NOTE]
    >
-   >En general, tratamos de usar el sentido común para registrar estas estadísticas. Por ejemplo, si alguien hizo clic en un vínculo en un mensaje de correo electrónico, obviamente lo abrió primero. Para ver las reglas específicas que seguimos, consulte el informe Rendimiento del [correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >En general, tratamos de usar el sentido común para registrar estas estadísticas. Por ejemplo, si alguien hizo clic en un vínculo en un mensaje de correo electrónico, obviamente lo abrió primero. Para ver las reglas específicas que seguimos, consulte el [Informe de rendimiento de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!NOTE]
    >
@@ -54,5 +54,5 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
    >**Buceo profundo**
    >
    >
-   >Obtenga más información en Sistema de informes [básico.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Obtenga más información en [Sistema de informes básico.](http://docs.marketo.com/display/docs/basic+reporting)
 
