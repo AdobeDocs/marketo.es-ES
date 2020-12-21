@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: Uso de personas - Documentos de marketing - Documentación del producto
 title: Uso de personas
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Vista de las personas visitando una cuenta con nombre específica.
 1. Utilice filtros personales en una lista inteligente para comercializar a un grupo específico de personas.
 
 ![](assets/one-b.png)
-
