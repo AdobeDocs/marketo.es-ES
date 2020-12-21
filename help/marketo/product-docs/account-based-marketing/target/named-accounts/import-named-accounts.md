@@ -3,9 +3,9 @@ unique-page-id: 12615800
 description: Importar cuentas con nombre - Documentos de marketing - Documentación del producto
 title: Importar cuentas con nombre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >En el archivo, proporcione [tanta información](http://docs.marketo.com/display/DOCS/Named+Account+Overview#NamedAccountOverview-NamedAccountAttributes) como sea posible. Solo puede agregar información firmográfica; nada calcula el Marketing (es decir, la canalización). Para crear cuentas con nombre basadas en cuentas de CRM, simplemente exporte el nombre de cuenta y el ID de CRM de su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta de CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta de CRM.
+   >En el archivo, proporcione [tanta información](/help/marketo/product-docs/account-based-marketing/target/named-accounts/named-account-overview.md#named-account-attributes) como sea posible. Solo puede agregar información firmográfica; nada calcula el Marketing (es decir, la canalización). Para crear cuentas con nombre basadas en cuentas de CRM, simplemente exporte el nombre de cuenta y el ID de CRM de su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta de CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta de CRM.
 
 1. Elija entre dos modos de desduplicación: Nombre de cuenta o Nombre de dominio. En este ejemplo elegiremos Cuenta. Haga clic en la lista desplegable **Modos** y seleccione **Por nombre de cuenta**.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >También puede crear una nueva Lista de cuenta simplemente escribiendo su nombre en el cuadro desplegable.
 
-1. Para enviar una notificación de la importación, haga clic en la lista desplegable **Enviar alerta a** y seleccione un usuario de Marketing to. *no puede* introducir manualmente una dirección de correo electrónico.
+1. Para enviar una notificación de la importación, haga clic en la lista desplegable **Enviar alerta a** y seleccione un usuario de Marketing to. _no puede_ introducir manualmente una dirección de correo electrónico.
 
    ![](assets/inafive-2.png)
 
@@ -63,14 +63,16 @@ ht-degree: 0%
    >
    >&quot;Verificar estado de importación&quot; solo muestra los últimos tres días de actividad.
 
+Escenarios cuando desduplica por nombre de cuenta:
+
 <table> 
  <tbody> 
   <tr> 
-   <td>Importación de registros con el nombre de cuenta con nombre existente</td> 
+   <td><strong>Importación de registros con el nombre de cuenta con nombre existente</strong></td> 
    <td><p>Actualizaremos el registro existente</p></td> 
   </tr> 
   <tr> 
-   <td>Importación de registros con el nuevo nombre de cuenta con nombre</td> 
+   <td><strong>Importación de registros con el nuevo nombre de cuenta con nombre</strong></td> 
    <td>Crearemos un nuevo registro</td> 
   </tr> 
  </tbody> 
@@ -78,16 +80,29 @@ ht-degree: 0%
 
 Escenarios cuando desduplica por nombre de dominio:
 
-| **Importación de registros con un nuevo nombre de cuenta y un nuevo nombre de dominio** | Crearemos una nueva cuenta con nombre con la información proporcionada |
-|---|---|
-| **Importación de registros con un nombre de cuenta existente y un nombre de dominio existente** | Actualizaremos la cuenta con nombre existente |
-| **Importación de registros con un nuevo nombre de cuenta y un nombre de dominio existente** | Anexaremos el nuevo nombre de cuenta a la cuenta con nombre existente que coincida con el nombre de dominio y actualizaremos otra información (por ejemplo, industria, estado, etc.) |
-| **Importación de registros con el nombre de cuenta con nombre existente y el nuevo nombre de dominio** | Anexaremos el nuevo nombre de dominio a la cuenta con nombre existente que coincida con el nombre de la cuenta y actualizaremos otra información (por ejemplo, industria, estado, etc.) |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Importación de registros con un nuevo nombre de cuenta y un nuevo nombre de dominio</strong></td> 
+   <td>Crearemos una nueva cuenta con nombre con la información proporcionada</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Importación de registros con un nombre de cuenta existente y un nombre de dominio existente</strong></td> 
+   <td>Actualizaremos la cuenta con nombre existente</td> 
+  </tr> 
+   <tr> 
+   <td><strong>Importación de registros con un nuevo nombre de cuenta y un nombre de dominio existente</strong></td> 
+   <td>Anexaremos el nuevo nombre de cuenta a la cuenta con nombre existente que coincida con el nombre de dominio y actualizaremos otra información (por ejemplo, industria, estado, etc.)</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Importación de registros con el nombre de cuenta con nombre existente y el nuevo nombre de dominio</strong></td> 
+   <td>Anexaremos el nuevo nombre de dominio a la cuenta con nombre existente que coincida con el nombre de la cuenta y actualizaremos otra información (por ejemplo, industria, estado, etc.)</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 >[!NOTE]
 >
 >Cuando Marketing agrega una cuenta con nombre, se actualiza una regla (entre bastidores) que permite identificar a las personas que deberían formar parte de la cuenta con nombre. Ejemplo: si actualiza &quot;IBM&quot; a &quot;IBM, EE.UU.&quot;, las personas con cualquiera de los nombres de compañía se asociarán a la cuenta con nombre.
 
 Si Marketing encuentra registros que vemos como duplicados, sólo procesaremos el primero.
-
-Escenarios cuando desduplica por nombre de cuenta:
