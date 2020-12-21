@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Puntuación de cuenta - Documentos de marketing - Documentación del producto
 title: Puntuación de cuenta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ En el complejo mundo de los procesos de compra B2B, es raro que un solo individu
 
 >[!NOTE]
 >
->**Explicación**
->
->Para calcular las puntuaciones de cuenta, primero debe crear puntuaciones de posible cliente. Marketo ABM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (*Cuenta **Puntuación de interés del producto* y *Puntuación de participación en Web de la cuenta*).
+>Para calcular las puntuaciones de cuenta, primero debe crear puntuaciones de posible cliente. Marketo ABM agrega automáticamente puntuaciones de posibles clientes a puntuaciones de cuenta. A modo de ejemplo, tomaremos dos de los ejemplos anteriores (_Puntuación de interés del producto de la cuenta_ y _Puntuación de participación en Web de la cuenta_).
 >
 >En primer lugar, cree campos de puntuación de posibles clientes que capturen detalles relevantes de cada posible cliente de una cuenta de destinatario.\
 >A continuación, asigne las puntuaciones de posible cliente a sus puntuaciones de cuenta respectivas:\
@@ -61,17 +59,16 @@ Una vez configurada la puntuación de posibles clientes, siga los pasos a contin
 
    >[!NOTE]
    >
-   >Puede elegir hasta **cinco **campos para calcular la puntuación de cuenta.
+   >Puede elegir hasta **cinco** campos para calcular la puntuación de cuenta.
 
 1. Introduzca el nombre de la puntuación de cuenta, haga clic en la lista desplegable **Seleccionar puntuación de persona** y seleccione la puntuación correspondiente.
 
    ![](assets/four.png)
 
-1. Haga clic en **+Añadir **para agregar más puntuaciones.
+1. Haga clic en **+Añadir** para agregar más puntuaciones.
 
    ![](assets/five.png)
 
 1. Añada todas las puntuaciones deseadas. Haga clic en **Guardar** cuando termine.
 
    ![](assets/six.png)
-
