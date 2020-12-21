@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Listas de cuenta - Documentos de marketing - Documentación del producto
 title: Listas de cuenta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
 >[!NOTE]
 >
->Las listas de cuenta creadas en Marketing basado en cuentas de marketing están disponibles automáticamente al crear listas inteligentes y campañas web en [Personalización web](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Las listas de cuenta creadas en Marketing basado en cuentas de marketing están disponibles automáticamente al crear listas inteligentes y campañas web en [Personalización web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Crear una nueva Lista de cuenta {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
    ![](assets/three-0.png)
 
-1. Después de crear la lista de la cuenta, comience [agregándole cuentas con nombre](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Después de crear la lista de la cuenta, comience [agregándole cuentas con nombre](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
 >[!NOTE]
 >
->Estos pasos solo se aplican a listas de cuenta. *Las listas de* cuentas dinámicas utilizan el nombre de sus Vistas de cuentas de CRM asociadas.
+>Estos pasos solo se aplican a listas de cuenta. _Las listas de_ cuentas dinámicas utilizan el nombre de sus Vistas de cuentas de CRM asociadas.
 
 1. Seleccione la cuenta a la que desea cambiar el nombre, haga clic en la lista desplegable **Acciones de Lista de cuenta** y seleccione **Cambiar el nombre de la Lista de cuenta**.
 
@@ -91,10 +91,6 @@ Además de las listas de cuenta, también puede crear listas de cuenta dinámica
 
 >[!MORELIKETHIS]
 >
->* [Añadir una cuenta con nombre existente en una Lista de cuenta](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Perspectivas de Lista de cuentas](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [Añadir una cuenta con nombre existente en una Lista de cuenta](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Perspectivas de Lista de cuentas](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
