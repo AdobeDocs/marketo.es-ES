@@ -3,7 +3,7 @@ unique-page-id: 12615781
 description: Crear una cuenta con nombre - Documentos de marketing - Documentación del producto
 title: Crear una cuenta con nombre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -29,9 +29,4 @@ Siga estos pasos para crear manualmente una cuenta con nombre.
 
 >[!MORELIKETHIS]
 >
->* [Añadir personas a una cuenta con nombre](add-people-to-a-named-account.md)
-
->
-
-
-
+>[Añadir personas a una cuenta con nombre](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
