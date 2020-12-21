@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Eliminar una cuenta con nombre - Documentos de marketing - Documentación del producto
 title: Eliminar una cuenta con nombre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Siga estos pasos rápidos para eliminar una cuenta con nombre.
    >[!NOTE]
    >
    >Las cuentas que se han sincronizado con su CRM no se pueden eliminar en ABM. Si la opción de eliminación no está disponible, o si recibe el mensaje &quot;Estas cuentas no se pueden eliminar porque se ha seleccionado una o más cuentas de CRM&quot;, deben eliminarse directamente en la CRM.
-
