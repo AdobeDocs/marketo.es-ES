@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Cuentas de Discover - Documentos de marketing - Documentación del producto
 title: Cuentas de Discover
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ Identifique las cuentas de destinatario potenciales de su CRM.
 >
 >Después de conectar su CRM a ABM de Marketing, **Cuentas de CRM de Discover** mostrará todas las cuentas de CRM e información relevante para ayudarle a elegir las cuentas con nombre correctas. Marketo agrega información adicional sobre lo que se ha recibido de CRM.
 
-**Personas**  (En Cuentas CRM de Discover y Compañías de Marketing de Discover): Incluye Contactos y Posibles clientes. Los posibles clientes se pueden descubrir mediante la coincidencia [de cliente potencial a cuenta](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching) de Marketing. **Posibles personas**  (En las cuentas CRM de Discover y en las Compañías de marketing de Discover): Muestra cuántos posibles clientes encontrados por el Marketing que podrían pertenecer a una cuenta CRM.
+**Personas**  (En Cuentas CRM de Discover y Compañías de Marketing de Discover): Incluye Contactos y Posibles clientes. Los posibles clientes se pueden descubrir mediante la coincidencia [de cliente potencial a cuenta](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md) de Marketing.
 
-**Campo**  CRM personalizado (solo en cuentas CRM de Discover): Esto le ayudará a alinear su organización de ventas y marketing para seleccionar las cuentas de destinatario correctas. Una vez que [asigne el campo CRM personalizado](http://docs.marketo.com/x/1wnG) a ABM de Marketing, le mostraremos los datos asignados para ayudarle a identificar sus cuentas de destinatario.
+**Posibles personas**  (En las cuentas CRM de Discover y en las Compañías de marketing de Discover): Muestra cuántos posibles clientes encontrados por el Marketing que podrían pertenecer a una cuenta CRM.
+
+**Campo**  CRM personalizado (solo en cuentas CRM de Discover): Esto le ayudará a alinear su organización de ventas y marketing para seleccionar las cuentas de destinatario correctas. Una vez que [asigne el campo CRM personalizado](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) a ABM de Marketing, le mostraremos los datos asignados para ayudarle a identificar sus cuentas de destinatario.
 
 1. En Cuentas con nombre, haga clic en la lista desplegable **Nueva** y seleccione **Cuentas CRM de Discover**.
 
@@ -63,17 +65,17 @@ Identifique las compañías correctas para la segmentación.
    >
    >En las Compañías de mercadotecnia de Discover y en CRM de Discover, Marketo automáticamente:
    >
-   > * Encuentra personas de la base de datos de Marketing que tienen esa compañía en su registro. Si ve varios valores para algunos de los atributos (por ejemplo, industria), es porque Marketing encontró valores diferentes enumerados para esas personas individuales. El atributo con la mayor cantidad de visitas gana
+   >* Encuentra personas de la base de datos de Marketing que tienen esa compañía en su registro. Si ve varios valores para algunos de los atributos (por ejemplo, Industria), es porque Marketing encontró valores diferentes enumerados para esas personas individuales. El atributo con la mayor cantidad de visitas gana
    >
    >Solo en **CRM de Discover**, Marcado automáticamente:
    >
-   > * Sincroniza y asocia contactos de CRM con la cuenta con nombre
+   >* Sincroniza y asocia contactos de CRM con la cuenta con nombre
    >
    >Solo en **Compañías de Discover Marketing to**, Marcado automáticamente:
    >
-   > * Filtros en la mayoría de los Proveedores de servicio de Internet y dominios públicos (p. ej. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) como nombres de compañía
+   >* Filtros a la mayoría de los Proveedores de servicio de Internet y Dominios públicos (por ejemplo, yahoo.com, gmail.com) como nombres de compañía
       >
-      > 
+      >
    * Desduplica las cuentas de CRM. Si tiene &quot;Acme&quot; en un registro y &quot;Acme Inc&quot; (o cualquiera de los sufijos siguientes: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, LP, Ltd, PA, PC, PLC, PLLC), los fusionaremos en ABM como simplemente &quot;Acme&quot;.
    >
    >Si desea que Marketing desduplice cuentas por ID de CRM o Propietario de cuenta en lugar de por nombre de Compañía, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
@@ -116,5 +118,4 @@ Identifique las compañías correctas para la segmentación.
 
 >[!MORELIKETHIS]
 >
->* [Coincidencia de posibles clientes con cuentas](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[Coincidencia de posibles clientes con cuentas](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
