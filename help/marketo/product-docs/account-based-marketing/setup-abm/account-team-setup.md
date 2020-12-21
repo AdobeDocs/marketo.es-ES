@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Configuración del equipo de cuentas - Documentos de marketing - Documentación del producto
 title: Configuración del equipo de cuentas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ Un equipo de cuentas es un grupo de partes interesadas que trabajan juntas en un
 
    >[!NOTE]
    >
-   >**Explicación**
+   >Cuando varias cuentas de CRM con diferentes propietarios de cuentas se combinan en una cuenta con nombre, Marketing elegirá un &quot;propietario de cuenta&quot; y agregará otros propietarios de cuentas como &quot;copropietarios de cuentas&quot;
    >
-   >    
-   >    
-   >    * Cuando varias cuentas de CRM con diferentes propietarios de cuentas se combinan en una cuenta con nombre, Marketing elegirá un &quot;propietario de cuenta&quot; y agregará otros propietarios de cuentas como &quot;copropietarios de cuentas&quot;
-   >    * Si más adelante se cambia el nombre o se elimina un campo &quot;Función&quot; de CRM, Marketo ABM dejará de sincronizar los valores actualizados hasta que el usuario actualice manualmente la configuración en ABM
-
-
+   >Si más adelante se cambia el nombre o se elimina un campo &quot;Función&quot; de CRM, Marketo ABM dejará de sincronizar los valores actualizados hasta que el usuario actualice manualmente la configuración en ABM
