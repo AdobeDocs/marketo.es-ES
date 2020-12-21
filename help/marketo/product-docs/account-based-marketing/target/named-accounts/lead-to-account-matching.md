@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: Coincidencia de posibles clientes con cuentas - Documentos de marketing - Documentación del producto
 title: Coincidencia de posibles clientes con cuentas
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,7 +25,7 @@ La coincidencia de posibles clientes con respecto a la cuenta de Marketing sigue
 
 * Dominio de correo electrónico (por ejemplo, acme.com)
 * Nombre de compañía preferido de la dirección IP
-* Nombre de la compañía: puede ser el nombre de la cuenta de CRM o el atributo del nombre de la compañía de posible cliente, por ejemplo, proviene del formulario de cumplimentación
+* Nombre de la compañía: puede ser el nombre de la cuenta CRM o el atributo del nombre de la compañía de posible cliente (por ejemplo, proviene del formulario de rellenado)
 
 **Paso 2:** normalizamos los nombres de compañías que encontramos en función de varios atributos de posibles clientes (por ejemplo, Acme Inc. y Acme Corp se normalizan automáticamente en Acme). Este paso garantiza que contamos con una sola representación de la cuenta con nombre en Marketing y que podemos ver todos los leads dentro de una única cuenta con nombre.
 
@@ -43,5 +43,4 @@ Dado que la coincidencia de posibles clientes de marketing con cuentas es una ca
 
 >[!MORELIKETHIS]
 >
->* [Cuentas de Discover](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[Cuentas de Discover](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
