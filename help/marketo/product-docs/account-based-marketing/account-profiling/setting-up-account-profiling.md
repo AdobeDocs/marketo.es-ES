@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Configuración de perfiles de cuenta - Documentos de marketing - Documentación del producto
 title: Configuración de perfiles de cuenta
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ Siga estos pasos para realizar inicios mediante la generación de perfiles de cu
 
    >[!TIP]
    >
-   >Ahora que se ha creado el modelo, aprenda a ajustarlo en la [Información general de perfil de cuenta](http://docs.marketo.com/x/NIDv).
-
+   >Ahora que se ha creado el modelo, [aprenda a ajustarlo](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md).
