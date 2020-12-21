@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Guía de mercadotecnia
 user-guide-description: Documentación del producto de marketing
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [Filtrado de cuentas con nombre](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [Eliminar una cuenta con nombre](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [Jerarquías ABM](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Crear una jerarquía](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [Crear una jerarquía](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [Listas de cuenta](product-docs/account-based-marketing/target/account-lists.md)
          + [Crear una Audiencia coincidente en LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + Participación {#engage}
