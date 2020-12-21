@@ -3,9 +3,9 @@ unique-page-id: 12255457
 description: Introducción a ABM - Documentos de marketing - Documentación del producto
 title: Introducción a ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -19,25 +19,21 @@ ht-degree: 0%
 >
 >Haga clic con el botón derecho (Ctrl+clic en Mac) en los vínculos para abrir cada artículo en una nueva ficha.
 
-Paso uno: * [Emitir una licencia](issue-a-license.md)* - Decidir quién del equipo va a usar ABM.
+**Paso uno:  [Emitir una licencia](/help/marketo/product-docs/account-based-marketing/setup-abm/issue-a-license.md)** : decida quién de su equipo va a utilizar ABM.
 
-Paso dos: *Establecer [Permisos](permissions.md)*: asignar aspectos específicos de ABM a determinados usuarios o simplemente otorgar acceso ABM completo.
+**Paso dos: Definir  [permisos](/help/marketo/product-docs/account-based-marketing/setup-abm/permissions.md)** : asignar aspectos específicos de ABM a determinados usuarios, o simplemente conceder acceso ABM completo.
 
-Paso tres: *Configure su [Puntuación de cuenta](account-score.md)* - La Puntuación de cuenta es uno de los elementos clave en Marketing basado en cuentas. Le ayuda a determinar el nivel de participación de cada cuenta.
+**Paso tres: Configure la puntuación [ de la](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)** cuenta: la puntuación de la cuenta es uno de los elementos clave de la mercadotecnia basada en la cuenta. Le ayuda a determinar el nivel de participación de cada cuenta.
 
-Paso cuatro: * [Crear un campo personalizado para detección de CRM](http://docs.marketo.com/x/1wnG) *- Asignar un campo de cuenta de CRM existente a un nuevo campo personalizado de cuenta con nombre (si no utiliza un CRM, omita este paso).
+**Paso cuatro:  [Crear un campo personalizado para detección](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)**  de CRM: asigne un campo de cuenta de CRM existente a un nuevo campo personalizado de cuenta con nombre (si no utiliza un CRM, omita este paso).
 
 Paso cinco: *Crear **Cuentas con nombre* - Las cuentas con nombre retienen a las personas de las compañías que tiene como objetivo. Existen cuatro formas de crear una cuenta con nombre:
 
-* [Importar cuentas](../../../product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)  con nombre: cargue una lista de cuentas de destinatario potenciales directamente en ABM (puede ser una lista que haya exportado desde su CRM)
-* [Cuentas](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)  de CRM de Discover: Vista de una lista de todas las cuentas de CRM sincronizadas en Marketing y filtrado mediante atributos clave (es decir, sector) para crear cuentas con nombre
-* [Compañías](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverMarketoCompanies)  de mercadotecnia de Discover: Vista de una lista de compañías de orígenes distintos de su CRM y filtrado mediante atributos clave para crear cuentas con nombre
-* [Crear una cuenta con nombre manualmente](http://docs.marketo.com/display/DOCS/Create+a+Named+Account) : si crea una cuenta con nombre manualmente, el siguiente paso es  [rellenarla con ](http://docs.marketo.com/display/DOCS/Add+People+to+a+Named+Account) personas manualmente
+* [Importar cuentas](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)  con nombre: cargue una lista de cuentas de destinatario potenciales directamente en ABM (puede ser una lista que haya exportado desde su CRM)
+* [Cuentas](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts)  de CRM de Discover: Vista de una lista de todas las cuentas de CRM sincronizadas en Marketing y filtrado mediante atributos clave (es decir, sector) para crear cuentas con nombre
+* [Compañías](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-marketo-companies)  de mercadotecnia de Discover: Vista de una lista de compañías de orígenes distintos de su CRM y filtrado mediante atributos clave para crear cuentas con nombre
+* [Crear una cuenta con nombre manualmente](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md) : si crea una cuenta con nombre manualmente, el siguiente paso es  [rellenarla con ](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md) personas manualmente
 
-Paso opcional: * [Crear y configurar Listas de cuenta](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)* - Agrupar cuentas en listas que le permitan realizar destinatarios de cuentas con nombre por sector, ubicación o tamaño de la compañía.
+**Paso opcional:  [Crear y configurar Listas](/help/marketo/product-docs/account-based-marketing/target/account-lists.md#create-a-new-account-list)**  de cuenta: agrupe cuentas en listas para que pueda realizar destinatarios en cuentas con nombre por sector, ubicación o tamaño de la compañía.
 
-Después de seguir los pasos anteriores, usted está listo para el inicio usando ABM! Obtenga más información sobre cómo utilizar [filtros y activadores](http://docs.marketo.com/display/DOCS/Engage) específicos de ABM y [medir](http://docs.marketo.com/display/DOCS/Measure) el rendimiento de ABM.
-
-## Ver un video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/hXyKn8KosV3PjhsvnsA4PX.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+Después de seguir los pasos anteriores, usted está listo para el inicio usando ABM!
