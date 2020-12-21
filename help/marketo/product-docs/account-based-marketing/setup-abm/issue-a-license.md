@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: Expedir una licencia - Documentos de marketing - Documentación del producto
 title: Emitir una licencia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ Deberá configurar los usuarios con una licencia para utilizar ABM. Así es como
 
    >[!NOTE]
    >
-   >Para quitar una licencia de usuario, siga el paso 1 y *un* marque la casilla de verificación y haga clic en **Guardar**.
-
+   >Para eliminar una licencia de usuario, siga el paso 1, desmarque la casilla y haga clic en **Guardar**.
