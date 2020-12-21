@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Perspectivas de cuenta con nombre - Documentos de marketing - Documentación del producto
 title: Perspectivas de cuenta con nombre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ El Panel Cuenta con nombre proporciona una vista de 360 grados de una cuenta de 
 
 ## Panel {#dashboard}
 
-El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentro de una cuenta con nombre, evitando así la necesidad de ir a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Perspectivas de correo electrónico](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentro de una cuenta con nombre, evitando así la necesidad de ir a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentr
 
 **Momentos interesantes**
 
-Disponible para los usuarios de [Perspectiva de ventas de marketing](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), vea los momentos interesantes resumidos en una cuenta.
+Disponible para los usuarios de Marketing Cloud Sales Insight, consulte los momentos interesantes resumidos a nivel de cuenta.
 
 ![](assets/int-mom.png)
 
 **Personas más populares**
 
-Estas personas se calculan en base a prioridades que se basan en la actualización o urgencia mostradas por personas de cuentas con nombre (igual que [Mejores apuestas](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) en perspectiva de ventas) o puntuaciones definidas por el usuario. **La** prioridad solo está disponible para los usuarios de la perspectiva de ventas de marketing.
+Estas personas se calculan en base a prioridades que se basan en la actualización o urgencia mostradas por personas de cuentas con nombre (igual que [Mejores apuestas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) en perspectiva de ventas) o puntuaciones definidas por el usuario. **La** prioridad solo está disponible para los usuarios de la perspectiva de ventas de marketing.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Los miembros del equipo de la cuenta de vista, agregar o eliminar miembros, incl
 
 ## Indicadores PCI {#icp-indicators}
 
-Vista los indicadores ICP que seleccionó para exportar cuando [ajustó el modelo](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning).
+Vista los indicadores ICP que seleccionó para exportar cuando [ajustó el modelo](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)
-
