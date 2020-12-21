@@ -3,9 +3,9 @@ unique-page-id: 11385183
 description: Informe de ventas de ABM - Documentos de marketing - Documentación del producto
 title: Informe de ventas de ABM
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Reciba un correo electrónico semanal con sus principales cuentas y sus tendenci
 
 >[!NOTE]
 >
->Descubra cómo configurar este informe [aquí](https://docs.marketo.com/x/drat).
+>Descubra cómo configurar este informe [aquí](/help/marketo/product-docs/account-based-marketing/measure/abm-report-setup.md).
 
 El informe comparte:
 
@@ -30,8 +30,35 @@ El informe comparte:
 
 ## Clave de informe de ventas {#sales-report-key}
 
-| **Puntuación de cuenta** | Tendencia semanal por puntuación de cuenta (seleccionada en la configuración), seguida de puntuación de cuenta actual |
-|---|---|
-| **Canalización de ventas** | Tendencia semanal por oleoducto, seguida por el total de oleoductos actuales y número de oportunidades abiertas |
-| **Vistas de página** | Tendencia semanal de las vistas de página, seguida de la cantidad total de vistas de página y de visitantes únicos |
-| **Momentos interesantes** | Número total de momentos interesantes que ocurrieron durante la semana |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Puntuación de cuenta</strong></td> 
+   <td> 
+    <div>
+      Tendencia semanal por puntuación de cuenta (seleccionada en la configuración), seguida de puntuación de cuenta actual 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Canalización de ventas</strong></td> 
+   <td> 
+    <div>
+      Tendencia semanal por oleoducto, seguida por el total de oleoductos actuales y número de oportunidades abiertas 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vistas de página</strong></td> 
+   <td> 
+    <div>
+      Tendencia semanal de las vistas de página, seguida de la cantidad total de vistas de página y de visitantes únicos 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Momentos interesantes</strong></td> 
+   <td> 
+    <div>
+      Número total de momentos interesantes que ocurrieron durante la semana 
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
