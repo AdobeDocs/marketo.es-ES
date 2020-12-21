@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Crear una Audiencia coincidente en LinkedIn - Documentos de marketing - Documentación del producto
 title: Crear una Audiencia coincidente en LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Cree audiencias coincidentes a partir de sus Listas de cuenta ABM para la segmen
 
 >[!PREREQUISITES]
 >
->[Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](http://docs.marketo.com/x/I4Fy)
+>[Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. En ABM, haga clic en la ficha **Listas de cuenta**.
 
@@ -49,13 +49,6 @@ Cree audiencias coincidentes a partir de sus Listas de cuenta ABM para la segmen
 
    Y eso es todo. Su audiencia se ha transferido a LinkedIn.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
