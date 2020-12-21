@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: Guía de mercadotecnia
 user-guide-description: Documentación del producto de marketing
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [Crear una jerarquía](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [Listas de cuenta](product-docs/account-based-marketing/target/account-lists.md)
          + [Crear una Audiencia coincidente en LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + Participación {#engage}
+         + [Filtros de cuenta](product-docs/account-based-marketing/engage/account-filters.md)
+         + [Desencadenadores de cuentas](product-docs/account-based-marketing/engage/account-triggers.md)
+      + Medida {#measure}
+         + [PANEL principal de ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [Configuración de informes ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [Informe de ventas de ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [Perspectivas de Lista de cuentas](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [Dimension de cuentas con nombre en RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [Perspectivas de cuenta con nombre](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [Uso de personas](product-docs/account-based-marketing/using-personas.md)
    + Perfiles de cuentas {#account-profiling}
       + [Configuración de perfiles de cuenta](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [Clasificación y ajuste de perfiles de cuenta](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [Nueva detección de cuentas](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + Participación {#engage}
-      + [Filtros de cuenta](product-docs/account-based-marketing/engage/account-filters.md)
-      + [Desencadenadores de cuentas](product-docs/account-based-marketing/engage/account-triggers.md)
-   + Medida {#measure}
-      + [PANEL principal de ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [Configuración de informes ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [Informe de ventas de ABM](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [Perspectivas de Lista de cuentas](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [Dimension de cuentas con nombre en RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [Perspectivas de cuenta con nombre](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [Uso de personas](product-docs/account-based-marketing/using-personas.md)
    + Aplicaciones adicionales {#additional-apps}
       + SEO {#seo}
          + Explicación de SEO {#understanding-seo}
