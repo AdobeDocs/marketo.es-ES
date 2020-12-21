@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Configuración de la perspectiva de cuenta - Documentos de marketing - Documentación del producto
 title: Configurar perspectiva de cuenta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A continuación se explica cómo configurar la perspectiva de cuenta.
 
 >[!PREREQUISITES]
 >
->La puntuación de cuenta ABM [debe configurarse](http://docs.marketo.com/display/DOCS/Account+Score) primero.
+>La puntuación de cuenta ABM [debe configurarse](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) primero.
 
 1. Haga clic en **Administración**.
 
@@ -37,9 +37,8 @@ A continuación se explica cómo configurar la perspectiva de cuenta.
 
    >[!NOTE]
    >
-   >Si la [configuración de puntuación de cuenta](http://docs.marketo.com/display/DOCS/Account+Score) se actualiza en cualquier momento, un administrador debe actualizar la configuración de ventas de ABM para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
+   >Si la [configuración de puntuación de cuenta](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) se actualiza en cualquier momento, un administrador debe actualizar la configuración de ventas de ABM para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
 
 1. Haga clic en **Guardar**.
 
    ![](assets/five-4.png)
-
