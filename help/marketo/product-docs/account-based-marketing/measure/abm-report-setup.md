@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: Configuración de informes ABM - Documentos de marketing - Documentación del producto
 title: Configuración de informes ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Cada informe viene con la opción de exclusión. Para ello, haga clic en **Cance
 1. Seleccione el usuario al que desea volver a recibir correos electrónicos y haga clic en **Volver a suscribir**.
 
    ![](assets/eleven.png)
-
