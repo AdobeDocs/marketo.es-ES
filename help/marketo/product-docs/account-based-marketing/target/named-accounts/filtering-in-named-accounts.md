@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filtrado en cuentas con nombre - Documentos de marketing - Documentación del producto
 title: Filtrado de cuentas con nombre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ El filtrado es una buena manera de reducir los datos rápidamente.
 
    >[!NOTE]
    >
-   >Existen varias combinaciones de parámetros de búsqueda. En este ejemplo se encuentra: *Industria = Banca, País = Estados Unidos, Número máximo de empleados = 10000*.
+   >Existen varias combinaciones de parámetros de búsqueda. En este ejemplo se encuentra: _Industria = Banca, País = Estados Unidos, Número máximo de empleados = 10000_.
 
 1. Haga clic en la lista desplegable **Industria** y seleccione **Banca**.
 
@@ -44,4 +44,3 @@ El filtrado es una buena manera de reducir los datos rápidamente.
    >[!NOTE]
    >
    >Para agregar más filtros para elegir, haga clic en **Añadir filtro** en la parte inferior izquierda del formulario.
-
