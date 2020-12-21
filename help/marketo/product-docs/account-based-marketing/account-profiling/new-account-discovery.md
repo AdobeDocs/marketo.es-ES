@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Descubrimiento de nueva cuenta - Documentos de marketing - Documentación del producto
 title: Nueva detección de cuentas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La nueva detección de cuentas puede ayudarle a encontrar nuevas cuentas para de
 
 >[!PREREQUISITES]
 >
->[Configuración de perfiles de cuenta](http://docs.marketo.com/x/FgAKAQ)
+>[Configuración de perfiles de cuenta](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ La nueva detección de cuentas puede ayudarle a encontrar nuevas cuentas para de
 
    >[!TIP]
    >
-   >Una vez guardadas las cuentas, puede utilizar una [audiencia coincidente en LinkedIn](http://docs.marketo.com/x/rYGZAQ) para destinatario.
-
+   >Una vez guardadas las cuentas, puede utilizar una [audiencia coincidente en LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md) para destinatario.
