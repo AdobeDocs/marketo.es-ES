@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: Jerarquías ABM - Documentos de marketing - Documentación del producto
 title: Jerarquías ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Uso de la jerarquía
 >
 >La interfaz de Marketing solo se mostrará en 10 niveles (cuentas secundarias y de nietos de la cuenta principal), pero no hay límite en el número de cuentas secundarias que puede crear.
 
-Destinatario e informe de jerarquías enteras con [un clic](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Destinatario e informe de jerarquías enteras con [un clic](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-
