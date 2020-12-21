@@ -3,9 +3,9 @@ unique-page-id: 11380778
 description: Permisos - Documentos de marketing - Documentación del producto
 title: Permisos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Tendrá que configurar permisos para que los usuarios puedan utilizar ABM. Así 
 
    ![](assets/four-1.png)
 
-1. Para seleccionar *todos* permisos, simplemente marque la casilla **Acceder a Marketing basado en cuenta**.
+1. Para seleccionar _todos_ permisos, simplemente marque la casilla **Acceder a Marketing basado en cuenta**.
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ Tendrá que configurar permisos para que los usuarios puedan utilizar ABM. Así 
 
 1. Haga clic en **+** para abrir el menú Administración de Access. Marque la casilla de verificación **Access ABM Admin**.
 
-   ![](assets/six-1.png)\
-   Su nueva función ABM ya está lista para [asignarse a un usuario](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   ![](assets/six-1.png)
+
+   Su nueva función ABM ya está lista para [asignarse a un usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
 
    ![](assets/seven.png)
-
