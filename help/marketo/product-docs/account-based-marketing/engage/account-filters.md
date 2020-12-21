@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Filtros de cuenta - Documentos de marketing - Documentación del producto
 title: Filtros de cuenta
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Para utilizar este filtro, haga clic en la lista desplegable de lista de cuenta.
 
    ![](assets/eight.png)
 
-1. Si utiliza el calificador &quot;es cualquiera&quot;, puede utilizar [restricciones](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) para reducir los resultados de búsqueda. ¡añade tantos como quieras!
+1. Si utiliza el calificador &quot;es cualquiera&quot;, puede utilizar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para reducir los resultados de búsqueda. ¡añade tantos como quieras!
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ Para utilizar este filtro, haga clic en la lista desplegable de lista de cuenta.
 
 >[!MORELIKETHIS]
 >
->* [Desencadenadores de cuentas](account-triggers.md)
-
+>[Desencadenadores de cuentas](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
