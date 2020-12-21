@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Dimension de cuentas con nombre en RCA - Documentos de marketing - Documentación del producto
 title: Dimension de cuentas con nombre en RCA
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Cree informes basados en ingresos mediante la dimensión Cuenta con nombre espec
 
 >[!NOTE]
 >
->**Definición**
->
->**Dimension **- atributos (representados por puntos amarillos) que dan diferentes vistas de las medidas.
+>**Dimension** : atributos (representados por puntos amarillos) que dan diferentes vistas de las medidas.
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ Los siguientes informes tienen acceso a la dimensión Cuenta con nombre:
 * Análisis de pertenencia a programa
 
 >[!NOTE]
->
->**Ejemplo**
 >
 >A continuación se presentan algunos ejemplos de ABM de marketing en los análisis de ciclo de ingresos.
 
@@ -55,12 +51,3 @@ Eficacia del programa e impacto en el balance final
 Cobertura de posibles clientes de calidad y participación dentro de cuentas con nombre
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [Análisis del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
