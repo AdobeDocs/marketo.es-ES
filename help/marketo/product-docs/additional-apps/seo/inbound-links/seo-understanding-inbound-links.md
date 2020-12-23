@@ -3,7 +3,7 @@ unique-page-id: 2949226
 description: SEO - Explicación de los vínculos de entrada - Documentos de marketing - Documentación del producto
 title: 'SEO: Explicación de los vínculos de entrada'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -32,9 +32,4 @@ Los vínculos de entrada indican a los motores de búsqueda que vale la pena hac
 
 >[!MORELIKETHIS]
 >
->* [Obtener sugerencias de vínculos de entrada](seo-get-inbound-link-suggestions.md)
-
->
-
-
-
+>[Obtener sugerencias de vínculos de entrada](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
