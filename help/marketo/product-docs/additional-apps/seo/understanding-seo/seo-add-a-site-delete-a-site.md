@@ -3,9 +3,9 @@ unique-page-id: 2949194
 description: SEO - Añadir un sitio/Eliminar un sitio - Documentos de marketing - Documentación del producto
 title: 'SEO: Añadir un sitio o eliminar un sitio'
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Para que Marketing pueda extraer datos (vínculos de entrada y recomendaciones) relevantes para las páginas del sitio, debe definir la dirección URL del sitio aquí.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
@@ -39,7 +37,7 @@ Para que Marketing pueda extraer datos (vínculos de entrada y recomendaciones) 
 
    >[!TIP]
    >
-   >También puede agregar una** ****URL de blog** si tiene una.
+   >También puede agregar una **URL de blog** si tiene una.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -62,10 +60,11 @@ Si está rastreando más de un sitio, también puede eliminar un sitio que ya no
 1. Haga clic en **Eliminar**.
 
    ![](assets/seven.png)
-Confirme que desea eliminar.
+
+1. Confirme que desea **Eliminar**.
+
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un reinicio seleccionando el sitio y haciendo clic en **Restaurar**. El restablecimiento de un sitio *elimina todos los datos del sitio* y vuelve a crearlo.
-
+   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un reinicio seleccionando el sitio y haciendo clic en **Restaurar**. El restablecimiento de un sitio _elimina todos los datos del sitio_ y vuelve a crearlo.
