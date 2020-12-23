@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO - Añadir/eliminar una URL de vínculo de entrada de una Lista - Documentos de marketing - Documentación del producto
 title: 'SEO: Añadir/eliminar una URL de vínculo de entrada de una Lista'
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Puede organizar las direcciones URL de los vínculos de entrada en el contenido 
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Pase el ratón sobre la dirección URL del vínculo de entrada que desee categorizar. Haga clic en Agregar o quitar de la lista.
+1. Pase el ratón sobre la dirección URL del vínculo de entrada que desee categorizar. Haga clic en **Añadir/Quitar de la Lista**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ Puede organizar las direcciones URL de los vínculos de entrada en el contenido 
 
 ## Quitar una URL de vínculo de entrada de una Lista {#remove-an-inbound-link-url-from-a-list}
 
-1. A veces, querrá eliminar una URL de vínculo de entrada de una lista.
+A veces, querrá eliminar una URL de vínculo de entrada de una lista.
+
+1. Haga clic en **Vínculos de entrada**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Haga clic en la lista desplegable Filtrar por lista. Haga clic en la lista que desee limpiar.
+1. Haga clic en la lista desplegable **Filtrar por lista**. Haga clic en la lista que desee limpiar.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Pase el ratón sobre la dirección URL del vínculo de entrada que desee eliminar. Haga clic en Agregar o quitar de la lista.
+1. Pase el ratón sobre la dirección URL del vínculo de entrada que desee eliminar. Haga clic en **Añadir/Quitar de la Lista**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
