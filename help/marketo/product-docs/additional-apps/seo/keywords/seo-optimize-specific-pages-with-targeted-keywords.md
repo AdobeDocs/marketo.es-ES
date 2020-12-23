@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO - Optimizar páginas específicas con palabras clave de objetivo - Documentos de marketing - Documentación del producto
 title: SEO - Optimizar páginas específicas con palabras clave de objetivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Algunas palabras clave van muy bien con ciertas páginas. Así es como se relaci
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Seleccione la palabra clave para la que intenta optimizar la página. Haga clic en **ACTUALIZAR**.
+1. Seleccione la palabra clave para la que intenta optimizar la página. Haga clic en **Actualizar**.
 
    >[!TIP]
    >
@@ -32,4 +32,3 @@ Algunas palabras clave van muy bien con ciertas páginas. Así es como se relaci
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    ¡Ya! Haga esto para tantas páginas y palabras clave como sea posible.
-
