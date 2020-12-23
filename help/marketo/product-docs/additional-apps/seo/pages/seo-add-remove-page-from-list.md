@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO - Añadir/eliminar página de la Lista - Documentos de marketing - Documentación del producto
 title: SEO - Añadir/eliminar página de la Lista
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Pase el ratón sobre la página que desee agregar a una lista. Haga clic en **AÑADIR/QUITAR DE LISTA**.
+1. Pase el ratón sobre la página que desee agregar a una lista. Haga clic en **Añadir/Quitar de la Lista**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. ¡Sí! Ahora debería ver que la página se agregó a la lista.
+¡Sí! Ahora debería ver que la página se agregó a la lista.
 
 ## Eliminar página de una Lista {#remove-page-from-a-list}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Pase el ratón sobre la página que desee eliminar. Haga clic en **AÑADIR/QUITAR DE LISTA**.
+1. Pase el ratón sobre la página que desee eliminar. Haga clic en **Añadir/Quitar de la Lista**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. Boom. Listo. La página se elimina de la lista.
-
+Listo. La página se elimina de la lista.
