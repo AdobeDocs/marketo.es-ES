@@ -3,9 +3,9 @@ unique-page-id: 2949192
 description: SEO - Añadir Competidoras - Documentos de marketing - Documentación del producto
 title: SEO - Añadir Competidoras
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Añadir competidoras le permitirá rastrear el rendimiento de los mismos para la
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Haga clic en **AÑADIR COMPETIDORA**.
+1. Haga clic en **Añadir Competidora**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
@@ -41,13 +41,8 @@ Añadir competidoras le permitirá rastrear el rendimiento de los mismos para la
 
    ¡Felicidades! Estás un paso más cerca de aplastarlo por completo.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Añadir palabras clave](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >    * [Explicación de las palabras clave (Vista del Competidora)](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
+   >* [Añadir palabras clave](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [Explicación de las palabras clave (Vista del Competidora)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
