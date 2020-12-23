@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO - Añadir/eliminar problema de página de una Lista - Documentos de marketing - Documentación del producto
 title: 'SEO: Añadir/eliminar un problema de página de una Lista'
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,15 @@ Puede organizar los problemas de la página en listas. También puede eliminar p
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
 1. En la ficha Páginas, haga clic en **Problemas**.
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Pase el ratón sobre el problema de página que desee agregar. Haga clic en **AÑADIR/QUITAR DE LISTA**.
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+1. Pase el ratón sobre el problema de página que desee agregar. Haga clic en **Añadir/Quitar de la Lista**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    Haga clic en la lista a la que desee agregar el número de página.
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
@@ -49,7 +51,7 @@ Puede organizar los problemas de la página en listas. También puede eliminar p
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Pase el ratón sobre el problema de página que desee eliminar. Haga clic en **AÑADIR/QUITAR DE LISTA**.
+1. Pase el ratón sobre el problema de página que desee eliminar. Haga clic en **Añadir/Quitar de la Lista**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
