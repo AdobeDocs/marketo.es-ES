@@ -3,9 +3,9 @@ unique-page-id: 2949264
 description: SEO - Eliminar/Eliminar un problema de página - Documentos de marketing - Documentación del producto
 title: SEO - Eliminar o eliminar un problema de página
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Eliminar/Eliminar un problema de página {#seo-remove-delete-a-page-issue}
 
-Es posible que no todos los problemas de página le resulten útiles. A continuación se explica cómo eliminar uno:
+Es posible que no todos los problemas de página le resulten útiles. Así es como eliminar uno.
 
 1. Vaya a la sección **Páginas**.
 
@@ -23,11 +23,11 @@ Es posible que no todos los problemas de página le resulten útiles. A continua
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Pase el ratón sobre el problema de página que desee eliminar. Haga clic en **QUITAR**.
+1. Pase el ratón sobre el problema de página que desee eliminar. Haga clic en **Eliminar**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Al hacer clic en **DELETE** se eliminará permanentemente este problema de página.
+1. Al hacer clic en **Eliminar** se eliminará permanentemente este problema de página.
 
    >[!CAUTION]
    >
@@ -35,5 +35,4 @@ Es posible que no todos los problemas de página le resulten útiles. A continua
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-   ¡Dulce! El problema de la página se ha eliminado.
-
+¡Dulce! El problema de la página se ha eliminado.
