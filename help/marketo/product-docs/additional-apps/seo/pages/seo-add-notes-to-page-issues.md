@@ -3,9 +3,9 @@ unique-page-id: 2949220
 description: SEO - Añadir notas a problemas de página - Documentos de marketing - Documentación del producto
 title: SEO - Añadir notas a problemas de página
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. En la ficha Páginas, haga clic en Problemas.
+1. En la ficha Páginas, haga clic en **Problemas**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Pase el ratón sobre el problema al que desee agregar una nota. Haga clic en AÑADIR NOTA ESTÁTICA.
+1. Pase el ratón sobre el problema al que desee agregar una nota. Haga clic en **Añadir nota adhesiva**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Puede eliminar la nota haciendo clic en la x pequeña en la esquina superior izquierda.
+>Puede eliminar la nota haciendo clic en la pequeña **x** en la esquina superior izquierda.
 
 ## Añadir notas en el desglose de detalles de página {#add-notes-in-page-detail-drill-down}
 
@@ -47,15 +47,14 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Pase el ratón sobre el problema de la página al que desee agregar una nota y haga clic en **AÑADIR NOTA**.
+1. Pase el ratón sobre el problema de la página al que desee agregar una nota y haga clic en **Añadir nota**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Escriba la nota. Haga clic en **GUARDAR**.
+1. Escriba la nota. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Groovy. Se agregó la nota.
+   ¡Se ha agregado su nota!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-
