@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO - Utilizar el informe Tendencias de palabras clave - Documentos de marketing - Documentación del producto
 title: SEO - Utilizar el informe Tendencias de palabras clave
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -62,10 +62,5 @@ En este informe, puede ver cómo se clasifica en las palabras clave con el paso 
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Uso del informe Tendencias de clasificación KW competitivas](seo-use-the-competitor-kw-trends-report.md)
-
+   >[Uso del informe Tendencias de clasificación KW competitivas](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
 
