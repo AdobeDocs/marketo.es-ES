@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Seleccionar región/país para el motor de búsqueda - Documentos de marketing - Documentación del producto
 title: 'SEO: elija la región o el país del motor de búsqueda'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Los administradores de SEO podrán elegir la región para el motor de búsqueda 
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a la sección Administración.
+1. Vaya a la sección **Administración**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Haga clic en la ficha Motores de búsqueda.
+1. Haga clic en la ficha **Motores de búsqueda**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Elija para qué país o ciudad desea optimizar y haga clic en GUARDAR.
+1. Elija para qué país o ciudad desea optimizar y haga clic en **Guardar**.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Excelente trabajo. Ahora verá las clasificaciones de palabras clave para el pa�
 
 >[!MORELIKETHIS]
 >
->* [Comprensión del Panel: Instantánea de SEO](understanding-the-seo-dashboard-seo-snapshot.md)
->* [Comprensión del Panel: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
+>* [Comprensión del Panel: Instantánea de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+>* [Comprensión del Panel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
 
