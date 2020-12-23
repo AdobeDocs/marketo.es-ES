@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO - Añadir/eliminar palabras clave de una Lista - Documentos de marketing - Documentación del producto
 title: SEO - Añadir/eliminar palabras clave de una Lista
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Puede mantener todas las palabras clave en buen estado y organizadas mediante li
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Pase el ratón sobre la palabra clave que desee agregar a una lista. Haga clic en **AÑADIR/QUITAR DE LISTA**.
+1. Pase el ratón sobre la palabra clave que desee agregar a una lista. Haga clic en **Añadir/Quitar de la lista**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -45,7 +45,7 @@ También puede eliminar palabras clave de una lista.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Pase el ratón sobre la palabra clave que desee eliminar de una lista. Haga clic en **AÑADIR/QUITAR DE LISTA**.
+1. Pase el ratón sobre la palabra clave que desee eliminar de una lista. Haga clic en **Añadir/Quitar de la lista**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,15 +53,12 @@ También puede eliminar palabras clave de una lista.
 
    >[!NOTE]
    >
-   >Todas las listas a las que pertenece la palabra clave actualmente tendrán una marca de verificación. Una vez retirada de la lista, la comprobación desaparece. ¡Magia!
+   >Todas las listas a las que pertenece la palabra clave actualmente tendrán una marca de verificación. Una vez retirada de la lista, la comprobación desaparece.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Perfecto, la palabra clave ya no está en esta lista. Actualice la página para actualizar la visualización.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >    
-   >* [Explicación de las palabras clave (Vista de resumen)](seo-understanding-keywords.md)
-
+   >[Explicación de las palabras clave (Vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
