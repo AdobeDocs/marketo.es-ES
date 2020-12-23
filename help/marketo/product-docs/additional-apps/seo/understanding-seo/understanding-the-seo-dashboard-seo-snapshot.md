@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: Explicación del Panel SEO - Instantánea SEO - Documentos de marketing - Documentación del producto
 title: Explicación del Panel SEO - Instantánea SEO
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilice el panel para obtener una vista de alto nivel de cómo se definen las tendencias en la clasificación de palabras clave y de qué manera se optimiza el sitio para la optimización para SEO.
 
-Para saber en qué centrarse para mejorar los esfuerzos de SEO, utilice la sección [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) de este panel.
+Para saber en qué centrarse para mejorar los esfuerzos de SEO, utilice la sección [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este panel.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Resumen de clasificación de palabras clave {#keyword-rank-summary}
 
-Esta sección le muestra cómo se clasifica el sitio para las [palabras clave que está dirigiendo](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta sección le muestra cómo se clasifica el sitio para las [palabras clave que está dirigiendo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Esta sección le muestra cómo se clasifica el sitio para las [palabras clave qu
 
 >[!TIP]
 >
->También puede vista el rendimiento de una [lista específica](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
+>También puede vista el rendimiento de una [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
 
 ¡Vamos! Sigamos adelante.
 
@@ -63,9 +63,4 @@ Fácil, ¿verdad? Ahora veamos la sección de Recommendations de este panel.
 
 >[!MORELIKETHIS]
 >
->* [Comprensión del Panel: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[Comprensión del Panel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
