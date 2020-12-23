@@ -3,9 +3,9 @@ unique-page-id: 2949680
 description: SEO - Gráfico de tendencias de palabras clave - Documentos de marketing - Documentación del producto
 title: SEO - Gráfico de tendencias de palabras clave
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Gráfico de tendencias de palabras clave {#seo-keyword-trends-chart}
 
-Es importante monitorear la forma en que la palabra clave [clasificación SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) se está convirtiendo en tendencia con el tiempo. Consulte esta buena tabla para supervisar el progreso.
+Es importante monitorear la forma en que la palabra clave [clasificación SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) se está convirtiendo en tendencia con el tiempo. Consulte esta buena tabla para supervisar el progreso.
 
 1. Vaya a la sección **Palabras clave**.
 
@@ -23,18 +23,12 @@ Es importante monitorear la forma en que la palabra clave [clasificación SERP](
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   ¿Ven? Muestra su [clasificación SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) durante los últimos 30 días:
+   ¿Ven? Muestra su [clasificación SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) durante los últimos 30 días:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
    Bastante ingenioso, ¿eh? Puede obtener más información sobre la clasificación de palabras clave en el informe Tendencias de palabras clave.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Uso del informe Tendencias de palabras clave](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-
-
+   >[Uso del informe Tendencias de palabras clave](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
