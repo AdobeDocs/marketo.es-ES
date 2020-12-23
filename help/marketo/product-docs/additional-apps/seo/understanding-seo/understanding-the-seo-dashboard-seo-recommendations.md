@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Explicación del Panel SEO - SEO Recommendations - Marketo Docs - Documentación del producto
 title: Explicación del Panel SEO - Recommendations SEO
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ También puede averiguar cómo mejorar con la sección Recommendations. ¡Sumerg
 
 ## Problemas principales de optimización de página {#top-page-optimization-issues}
 
-Esto le mostrará cinco maneras de alto impacto de inicio para optimizar su sitio de inmediato. Simplemente haga clic en cualquiera de los vínculos para vista del [desglose de detalles de página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) completo.
+Esto le mostrará cinco maneras de alto impacto de inicio para optimizar su sitio de inmediato. Simplemente haga clic en cualquiera de los vínculos para vista del [desglose de detalles de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) completo.
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Tener un vínculo de sitios de reputación con el contenido puede aumentar la cl
 
 >[!MORELIKETHIS]
 >
->* [Desglose de detalles de página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Desglose de detalles de página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
