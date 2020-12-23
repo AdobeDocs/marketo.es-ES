@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Explicación de las palabras clave - Documentos de marketing - Documentación del producto
 title: 'SEO: Explicación de las palabras clave'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las palabras clave son la columna vertebral de su estrategia SEO. Su objetivo es estar en la primera página, lo más cerca posible de #1 para las palabras clave relevantes para su negocio.
 
-La sección de palabras clave le mostrará el éxito del sitio en lograr esto y la manera en que se apilará hasta [su competencia.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+La sección de palabras clave le mostrará el éxito que tiene su sitio en lograr esto y cómo se apilan hasta [su competencia](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Palabras clave: Vista de resumen {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ También puede realizar una vista del rendimiento de sus competidoras con las mi
 
 >[!MORELIKETHIS]
 >
->* [Explicación de las páginas](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Explicación de los vínculos de entrada](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Explicación de las páginas](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Explicación de los vínculos de entrada](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
