@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO - Eliminar/Eliminar una URL de vínculo entrante - Documentos de marketing - Documentación del producto
 title: SEO - Eliminar o eliminar una URL de vínculo de entrada
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ A veces querrá eliminar los vínculos entrantes. Así es como:
 1. Pase el ratón sobre la dirección URL del vínculo de entrada que desee eliminar.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-Haga clic en QUITAR.
+
+1. Haga clic en **Eliminar**.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   ¡Levántate! Ha eliminado este vínculo de entrada.
-
+Ha eliminado este vínculo de entrada.
