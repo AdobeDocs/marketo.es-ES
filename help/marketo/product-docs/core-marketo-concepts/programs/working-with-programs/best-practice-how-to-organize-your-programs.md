@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Práctica recomendada - Cómo organizar sus Programas - Documentos de marketing - Documentación del producto
 title: 'Práctica recomendada: Cómo organizar sus Programas'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,36 +28,28 @@ En Actividades de marketing, debe utilizar las carpetas para organizar los progr
 >**Ejemplo**
 >
 >* Programas de mercadotecnia activos
->
->    * Correos electrónicos
->    * Eventos
->
->        * Eventos en directo/espectáculos de carretera
->        * Presentaciones comerciales
->        * Seminarios web
->   * Newsletters
->   * Nurtura
->   * Contenido web
->   * formularios web
+   >   * Correos electrónicos
+   >   * Eventos
+      >      * Eventos en directo/espectáculos de carretera
+      >      * Presentaciones comerciales
+      >      * Seminarios web
+   >   * Newsletters
+   >   * Nurtura
+   >   * Contenido web
+   >   * formularios web
 >* Aprendizaje
 >* Operativo
->
->   * Ciclo de vida
->   * Puntuación
->   * gestión de datos
+   >   * Ciclo de vida
+   >   * Puntuación
+   >   * gestión de datos
 >* Perspectiva de ventas
->   * Momentos interesantes
->   * Correos electrónicos de ventas
->   * Campañas solicitadas de ventas
->* **Archivo** 
->   * Archivar Eventos
->      * Archivo 2012
->      * Archivo 2013
-
-
-
-
-
+   >   * Momentos interesantes
+   >   * Correos electrónicos de ventas
+   >   * Campañas solicitadas de ventas
+>* **Archivo**
+   >   * Archivar Eventos
+      >      * Archivo 2012
+      >      * Archivo 2013
 
 
 Cada uno de los mencionados en el ejemplo es una carpeta. Observe cómo se les asigna un nombre único. Puede tener nombres de duplicado (más sencillos) de las carpetas DENTRO de los programas, pero no en la raíz del árbol.
