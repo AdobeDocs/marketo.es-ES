@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Segmentos web - Documentos de marketing - Documentación del producto
 title: Segmentos Web
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -101,38 +101,32 @@ Defina los parámetros generales del segmento:
 
 >[!TIP]
 >
->**Lógica de regla de segmento**
+>**Segmentregellogik**
 >
->Existen tres opciones de filtro:
+>Es gibt drei Filteroptionen:
 >
->1. Usar todos los Filtros (1 y 2 y 3...)
->1. Usar cualquier Filtros (1, 2 o 3...)
->1. Filtros avanzados (uso y/o expresiones)
+>1. Filtro Alle verwenden (1, 2 y 3...)
+>1. Filtro Alle verwenden (1 orden 2 orden 3...)
+>1. Filtro de iteración (mit und/order Ausdrücken)
 
    >
    >    
-   Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
-   >
-   >    
-   * 1 y 2 y 3
-   >    * 1 o 2 o 3
+   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternummern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
 
-   >
-   La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
+   * 1 und 2 und 3
+   * 1 orden 2 orden 3
 
-   * 1 y (2 o 3)
-   * (1 y 2) o 3
+   Das Mischen von &quot;y&quot;und &quot;or&quot;erfordert Klammern, um die Logikabsicht zu verdeutlichen. z. B. &quot;1 oder 2 a 3&quot; muss con geschrieben folgt sein:
 
-   Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
+   * 1 und (2 orden 3)
+   * (1 y 2) orden 3
 
-   * (1 y 2) o (3 y 4)
-   * 1 y (2 o (3 y 4)
+   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
 
-   Compruebe la lógica después de insertar, eliminar o reordenar.
+   * Orden (1 y 2) (3 y 4)
+   * 1 y 2 órdenes 3 y 4)
 
-
-
-
+   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
 
 
 Arrastre y suelte los atributos del segmento desde la columna del lado derecho en el editor de segmentos del lado izquierdo:
@@ -157,8 +151,7 @@ Una vez agregado el país, también puede especificar el estado, la ciudad y el 
 * **Ciudades** - Introduzca la ciudad o ciudades que desee incluir. Utilice un punto y coma entre las ciudades.
 
 >[!TIP]
->
->**¿Qué condiciones de segmento elijo? ¿‘AND’ o ‘OR’?** O funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo necesitan cumplir un criterio de los múltiples criterios seleccionados dentro de cada campo para poder calificar para el segmento. (Por ejemplo, los clientes potenciales pueden ser de EE.UU. *o* de la industria de defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, los clientes potenciales deben ser tanto de EE.UU. como de la industria de defensa). Dentro de cada perfil de segmentación, cada campo por separado puede funcionar como ambos, ya sea &quot;Y&quot; o &quot;O&quot;, dependiendo de la condición de segmento seleccionada.
+**¿Qué condiciones de segmento elijo? ¿‘AND’ o ‘OR’?** O funciona como una opción adicional dentro de cada campo. Los clientes potenciales solo necesitan cumplir un criterio de los múltiples criterios seleccionados dentro de cada campo para poder calificar para el segmento. (Por ejemplo, los clientes potenciales pueden ser de EE.UU. *o* de la industria de defensa). Y funciona como un parámetro obligatorio adicional que debe cumplirse para este segmento. (Por ejemplo, los clientes potenciales deben ser tanto de EE.UU. como de la industria de defensa). Dentro de cada perfil de segmentación, cada campo por separado puede funcionar como ambos, ya sea &quot;Y&quot; o &quot;O&quot;, dependiendo de la condición de segmento seleccionada.
 
 **** IndustriasEn la sección  **Perfil** Segmentación, marque la casilla junto a  **Industria**.
 
@@ -195,8 +188,7 @@ Seleccione una [Lista de cuenta con nombre](../../../product-docs/web-personaliz
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
->
->El número entre corchetes junto al nombre de la Lista de cuenta con nombre se utiliza como referencia de índice para la lista de la API de lectura [de personalización de Web](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+El número entre corchetes junto al nombre de la Lista de cuenta con nombre se utiliza como referencia de índice para la lista de la API de lectura [de personalización de Web](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Excluir ISP**
 
@@ -215,10 +207,8 @@ Seleccione Base de datos y seleccione un campo de datos de persona en la lista d
 Puede agregar o quitar campos de datos de personas de Configuración de cuenta > Base de datos
 
 >[!TIP]
->
->Cree los criterios del segmento según todos los campos de datos de persona desde Personas con marketing como, por ejemplo, Cargo de trabajo; Puntuación; Función; etc...
->
->Por ejemplo: &quot;Puesto de trabajo es igual a CMO&quot; y &quot;Puntuación es menor o igual a 50&quot;
+Cree los criterios del segmento según todos los campos de datos de persona desde Personas con marketing como, por ejemplo, Cargo de trabajo; Puntuación; Función; etc...
+Por ejemplo: &quot;Puesto de trabajo es igual a CMO&quot; y &quot;Puntuación es menor o igual a 50&quot;
 
 **Campaña de marketing por correo electrónico** Segmentar y personalizar campañas mediante referencia por correo electrónico desde un visitante que hace clic en un correo electrónico de marketing y llega al sitio. Segmento por nombre de Programa de marketing o nombre de Campaña y continúe la conversación de correo electrónico a Web. Seleccione + para agregar campos en la lista desplegable.
 
@@ -299,8 +289,7 @@ Añada el valor de Evento que desee destinatario. Por ejemplo, de fuentes de dat
 Llamada de API de personalización web [lea más aquí.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
->
->**Uso de comodines:** cuando desee incluir cualquier término de búsqueda o dirección URL que contenga algo dentro de él, por ejemplo: &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, llamamos a esto comodín y debería introducirse con un asterisco - este pequeño tipo* - en cada extremo. Así que todo lo que venga de [google.com](http://google.com) debe introducirse como * [google.com](http://google.com)*
+**Uso de comodines:** cuando desee incluir cualquier término de búsqueda o dirección URL que contenga algo dentro de él, por ejemplo: &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, llamamos a esto comodín y debería introducirse con un asterisco - este pequeño tipo* - en cada extremo. Así que todo lo que venga de [google.com](http://google.com) debe introducirse como * [google.com](http://google.com)*
 
 ## Editar segmentos {#edit-segments}
 
