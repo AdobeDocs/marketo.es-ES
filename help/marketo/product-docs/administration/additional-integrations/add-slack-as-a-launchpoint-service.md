@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: Añadir Slack como servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir Slack como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ La integración de Slack incluye dos tipos de notificación:
 
 >[!PREREQUISITES]
 >
->Si no tiene Notificaciones del sistema Slack ya habilitadas, [comuníquese con la asistencia técnica](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>Si no tiene Notificaciones del sistema de Slack ya habilitadas, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Vaya a **LaunchPoint** y, a continuación, en **Nuevo** haga clic en **Nuevo servicio**.
 
@@ -61,4 +61,3 @@ La integración de Slack incluye dos tipos de notificación:
    Las notificaciones ahora empezarán a publicarse en el canal seleccionado en el paso 6. Se verán así:
 
    ![](assets/samplenotification.png)
-
