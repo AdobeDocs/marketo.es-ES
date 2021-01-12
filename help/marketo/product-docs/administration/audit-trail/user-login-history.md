@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Historial de inicio de sesión del usuario - Documentos de marketing - Documentación del producto
 title: Historial de inicio de sesión del usuario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ Para vista del historial de inicio de sesión del usuario:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Seleccione usuarios en la lista desplegable **Usuarios**.** **
+1. Seleccione los usuarios en la lista desplegable **Usuarios**.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. Marque la casilla **Solo inicios de sesión fallidos** para mostrar solamente los inicios de sesión fallidos en la búsqueda.
 
@@ -69,10 +67,4 @@ Para vista del historial de inicio de sesión del usuario:
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Información general de pista de auditoría](audit-trail-overview.md)
-
-
+   >[Información general de pista de auditoría](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
