@@ -3,7 +3,7 @@ unique-page-id: 7512607
 description: Descargar el registro de Actividad de GoogleAdwords - Documentos de marketing - Documentación del producto
 title: Descargar el registro de Actividades de GoogleAdwords
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Suceden cosas. En ocasiones, es necesario descargar el registro de actividades p
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
 1. Se descargará un archivo .zip en el equipo.
-
