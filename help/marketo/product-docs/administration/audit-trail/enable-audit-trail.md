@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Habilitar pista de auditoría - Documentos de marketing - Documentación del producto
 title: Habilitar pista de auditoría
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ La pista de auditoría está disponible para todos los clientes y está controla
    >
    >**Definición**
    >
-   >
    >**Acceso a pista de auditoría:** proporciona a los usuarios acceso a la pista de auditoría de recursos y a la pista de auditoría de administración.
    >
-   >
-   >**Acceso al historial de inicio de sesión:** otorga a los usuarios acceso al historial [ de inicio de sesión ](user-login-history.md)del usuario.
+   >**Acceso al historial de inicio de sesión:** otorga a los usuarios acceso al historial [ de inicio de sesión ](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)del usuario.
 
 ## Asignar la función de pista de auditoría a un usuario {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Cree o  [](#Enable) habilite una función existente, otorgándole permisos de pista de auditoría.
+>[](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) Cree o  [](#enable-audit-trail) habilite una función existente, otorgándole permisos de pista de auditoría.
 
 1. En **Usuarios y roles**, haga clic en **Usuarios**.
 
@@ -75,9 +73,8 @@ La pista de auditoría está disponible para todos los clientes y está controla
 
    >[!CAUTION]
    >
-   >Si tiene habilitadas las áreas de trabajo, asegúrese de marcar la casilla de verificación de la función, que selecciona todas las áreas de trabajo. Si se anula la selección de un espacio de trabajo individual, se ocultará la pista de auditoría. Esto significa que verá los datos de la pista de auditoría de cada espacio de trabajo. Tiene la opción de ocultar espacios de trabajo cuando [filtra](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Si tiene habilitadas las áreas de trabajo, asegúrese de marcar la casilla de verificación de la función, que selecciona todas las áreas de trabajo. Si se anula la selección de un espacio de trabajo individual, se ocultará la pista de auditoría. Esto significa que verá los datos de la pista de auditoría de cada espacio de trabajo. Tiene la opción de ocultar espacios de trabajo cuando [filtra](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Haga clic en **Guardar**.
 
    ![](assets/eight-1.png)
-
