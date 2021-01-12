@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Añadir el inicio de sesión único en un portal - Documentos de marketing - Documentación del producto
 title: Añadir el inicio de sesión único en un portal
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Una vez activado el inicio de sesión único, el IdP puede validar las credencia
 
 SSO está deshabilitado de forma predeterminada. Siga estos pasos para habilitar SAML y configurarlo.
 
-1. Vaya a **Administración **y haga clic en **Inicio de sesión único**.
+1. Vaya a **Administración** y haga clic en **Inicio de sesión único**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Si no ve **Inicio de sesión único** en **Administración**, póngase en contacto con [`[email protected]`](http://mailto:support@marketo.com).
+   >Si no ve **Inicio de sesión único** en **Administración**, póngase en contacto con [[Soporte técnico de marketing]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. En la sección **Configuración de SAML**, haga clic en **Editar**.
 
@@ -102,4 +102,3 @@ SSO está deshabilitado de forma predeterminada. Siga estos pasos para habilitar
    >[!NOTE]
    >
    >Ambas páginas deben estar disponibles para el público.
-
