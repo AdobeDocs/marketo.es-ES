@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Añadir Google AdWords como un servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir Google AdWords como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Obtenga más información sobre la [función de importación de conversión sin 
 
 >[!NOTE]
 >
->También puede integrar un [Google AdWords como servicio de punto de inicio con una cuenta de administrador](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
+>También puede integrar un [Google AdWords como servicio de punto de inicio con una cuenta de administrador](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md).
 
 1. Vaya a la sección **Administración**.
 
@@ -61,7 +61,7 @@ Obtenga más información sobre la [función de importación de conversión sin 
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Cargue las conversiones sin conexión de Marketing a Google AdWords **Semanal **o **Diario**.
+1. Cargue las conversiones sin conexión de Marketing a Google AdWords **semanalmente** o **diariamente**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Obtenga más información sobre la [función de importación de conversión sin 
    >
    >[Para que esta función funcione, se debe seleccionar ](https://support.google.com/adwords/answer/1752125?hl=en) etiquetado automático. La desactivación debe realizarse dentro de AdWords.
 
-   >[!NOTE]
-   >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Configurar las conversiones de Google AdWords en el modelo de ingresos](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 ¡bueno! Ahora consulte el artículo relacionado a continuación para aprender a asignar conversiones sin conexión de AdWords en el modelo de ingresos.
+
+>[!MORELIKETHIS]
+>
+>[Configurar las conversiones de Google AdWords en el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
