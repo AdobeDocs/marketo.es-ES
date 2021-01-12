@@ -3,9 +3,9 @@ unique-page-id: 7512278
 description: Añadir ReadyTalk como un servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir ReadyTalk como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,21 @@ Marketo administra el registro y la asistencia al seminario web de ReadyTalk.
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >Se necesita una suscripción existente a ReadyTalk y los derechos de administración para este paso. Tenga a mano la siguiente configuración: Número de acceso, Código de acceso y Contraseña.
 
 1. Vaya a **Administración** y haga clic en **ReadyTalk**.
 
    ![](assets/image2015-4-23-10-3a50-3a23.png)
 
-1. Seleccione **Nuevo** y luego **Nuevo** **Servicio**.
+1. Seleccione **Nuevo** y luego **Nuevo servicio**.
 
    ![](assets/readytalk-new-service.png)
 
-1. Introduzca un **Nombre** **de visualización**. En **Servicio**, seleccione** ReadyTalk**.
+1. Escriba un **Nombre para mostrar**. En **Servicio**, seleccione **ReadyTalk**.
 
    ![](assets/new-service-readytalk.png)
 
-1. Introduzca su **Número de acceso** y **Acceso** **Código**.
+1. Escriba su **Número de acceso** y **Código de acceso**.
 
    ![](assets/image2015-4-24-18-3a53-3a2.png)
 
@@ -45,11 +43,10 @@ Marketo administra el registro y la asistencia al seminario web de ReadyTalk.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-1. ¡Fenomenal! Su cuenta **ReadyTalk** ahora se sincroniza con Marketing.
+Su cuenta **ReadyTalk** ahora se sincroniza con Marketing.
 
-   ![](assets/readytalk.png)
+![](assets/readytalk.png)
 
 >[!MORELIKETHIS]
 >
->Obtenga información sobre cómo [crear un evento con ReadyTalk](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
-
+>Obtenga información sobre cómo [crear un evento con ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
