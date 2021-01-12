@@ -3,9 +3,9 @@ unique-page-id: 15695874
 description: Connect BrightTALK to Marketing - Documentos de marketing - Documentación del producto
 title: Connect BrightTALK to Marketing
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 >
 >En este punto, deberá configurar una función de usuario y un usuario de API solo de API para restringir los permisos que BrightTALK tendrá en la instancia de Marketing. Porque ya tenemos artículos para esos pasos, los enlazaremos a ellos.
 
-1. Cree una [función de usuario solo de API](http://docs.marketo.com/x/iwMk).
-1. [Cree un usuario](http://docs.marketo.com/x/jwMk) de API mediante la función de API BrightTALK que creó durante el paso 4.
+1. Cree una [función de usuario solo de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+1. [Cree un usuario](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) de API mediante la función de API BrightTALK que creó durante el paso 4.
 1. Vuelva al área Administración.
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
    ![](assets/three.png)
 
-1. Introduzca un nombre para mostrar de su elección. Haga clic en la lista desplegable Servicio y seleccione **Personalizado** (haga **no** seleccione BrightTALK).
+1. Introduzca un nombre para mostrar de su elección. Haga clic en la lista desplegable Servicio y seleccione **Personalizado** (haga _no_ seleccione BrightTALK).
 
    ![](assets/four.png)
 
@@ -73,9 +73,8 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
    ![](assets/ten.png)
 
-## Pasos en BrightTALK {#steps-in-brighttalk-1}
+## Pasos adicionales en BrightTALK {#additional-steps-in-brighttalk}
 
 1. Vuelva a la pantalla de configuración del conector BrightTALK del paso 3 e introduzca las credenciales guardadas en los pasos 12 y 14.
 
    Una vez autenticadas las credenciales, ha conectado oficialmente BrightTALK a Marketing. El siguiente paso es determinar [los campos de datos que desea sincronizar](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
-
