@@ -3,9 +3,9 @@ unique-page-id: 11378468
 description: Filtrado en pista de auditoría - Documentos de marketing - Documentación del producto
 title: Filtrado en pista de auditoría
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Filtre por intervalo de tiempo, tipo de recurso, usuarios, acción realizada, et
 
    >[!NOTE]
    >
-   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo se encuentra: *todos los correos electrónicos - editados por cualquiera - en los siete días anteriores*.
+   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo se encuentra: _todos los correos electrónicos - editados por cualquiera - en los siete días anteriores_.
 
 1. Haga clic en la lista desplegable **Período** y seleccione **Últimos 7 días**.
 
@@ -57,12 +57,6 @@ Filtre por intervalo de tiempo, tipo de recurso, usuarios, acción realizada, et
    >
    >Si tiene habilitadas las áreas de trabajo, verá los datos de auditoría de todas las áreas de trabajo. Si aplica un filtro de espacio de trabajo, Marketo recuerda el valor del espacio de trabajo anterior cada vez que utilice una pista de auditoría. Se aplican los permisos de espacio de trabajo en el nivel de recurso.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Cambiar detalles en pista de auditoría](change-details-in-audit-trail.md)
-
-
+   >[Cambiar detalles en pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
