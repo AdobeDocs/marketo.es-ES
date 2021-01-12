@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Añadir código de seguimiento de Munchkin a su sitio web - Documentos de marketing - Documentación del producto
 title: Añadir código de seguimiento de Munchkin a su sitio web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir código de seguimiento de Munchkin a su sitio Web {#add-munchkin-tracking-code-to-your-website}
 
-El código de seguimiento personalizado de JavaScript de Marketing, llamado Munchkin, rastrea a todas las personas que visitan el sitio web para que pueda reaccionar a sus visitas con campañas de marketing automatizadas. Incluso los visitantes anónimos son rastreados junto con sus direcciones IP y otra información. ** Sin este código de seguimiento, no podrá rastrear visitas u otras actividades en su sitio web!**
+El código de seguimiento personalizado de JavaScript de Marketing, llamado Munchkin, rastrea a todas las personas que visitan el sitio web para que pueda reaccionar a sus visitas con campañas de marketing automatizadas. Incluso los visitantes anónimos son rastreados junto con sus direcciones IP y otra información. **Sin este código de seguimiento, no podrá rastrear visitas u otras actividades en su sitio web**.
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ El código de seguimiento personalizado de JavaScript de Marketing, llamado Munc
 
 >[!TIP]
 >
->Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), recomendamos que opte por no rastrear a personas anónimas. [Más información.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), recomendamos que opte por no rastrear a personas anónimas. [Más información](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
 
 ## Añadir código de seguimiento al utilizar varias áreas de trabajo {#add-tracking-code-when-using-multiple-workspaces}
 
 Si utiliza Workspaces en su cuenta de Marketing, probablemente también tenga presencias web independientes que se correspondan con sus espacios de trabajo. En ese caso, puede utilizar el Javascript de seguimiento de Munchkin para asignar a sus personas anónimas el espacio de trabajo y la partición correctos.
 
-1. Vaya a Administración y haga clic en Munchkin en el árbol de la izquierda.
+1. Vaya a **Administración** y haga clic en **Munchkin** en el árbol de la izquierda.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. Seleccione el espacio de trabajo adecuado para las páginas Web que desee rastrear.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >Si no utiliza el código Munchkin del espacio de trabajo especial, las personas se asignarán a la partición predeterminada que se creó cuando se configuró su cuenta. Al principio se llama &quot;Predeterminado&quot;, pero es posible que lo haya cambiado en su propia cuenta de Marketing.
 
-1. Seleccione Asincrónico para Tipo de código de seguimiento.
+1. Seleccione **Asincrónico** para Tipo de código de seguimiento.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. Haga clic y copie el código de seguimiento de JavaScript para colocarlo en el sitio web.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->No utilice el código que se muestra en esta captura de pantalla: debe utilizar el código único que aparece en la cuenta.
+   >[!CAUTION]
+   >
+   >No utilice el código que se muestra en esta captura de pantalla: debe utilizar el código único que aparece en la cuenta.
 
 1. Coloque el código de seguimiento en las páginas Web en el elemento `<head>`. Las personas nuevas que visiten esta página se asignarán a esta partición.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -98,7 +98,7 @@ Si utiliza Workspaces en su cuenta de Marketing, probablemente también tenga pr
 
 ## Tipos de códigos de seguimiento de Munchkin {#types-of-munchkin-tracking-codes}
 
-Hay 3 tipos de códigos de seguimiento Munchkin que puede elegir. Cada uno de ellos tiene un impacto diferente en el tiempo de carga de la página web.
+Existen tres tipos de códigos de seguimiento Munchkin que puede elegir. Cada uno de ellos tiene un impacto diferente en el tiempo de carga de la página web.
 
 1. **Simple**: tiene la menor cantidad de líneas de código, pero no se optimiza para el tiempo de carga de la página web. Este código carga la biblioteca jQuery cada vez que se carga una página web.
 1. **Asincrónico**: reduce el tiempo de carga de la página web.
@@ -109,6 +109,7 @@ Hay 3 tipos de códigos de seguimiento Munchkin que puede elegir. Cada uno de el
 Para comprobar que su código Munchkin está funcionando después de haberlo agregado:
 
 1. Visite su página web.
+
 1. Vaya a **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Para comprobar que su código Munchkin está funcionando después de haberlo agr
    ![](assets/activitysource.png)
 
 1. Haga clic en la ficha **Informe**. Si no ve ningún dato, espere unos minutos y luego haga clic en el icono de actualización en la parte inferior.
-
