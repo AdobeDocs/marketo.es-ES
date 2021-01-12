@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: Añadir Google AdWords como un servicio de punto de lanzamiento con una cuenta de administrador - Documentos de marketing - Documentación del producto
 title: Añadir Google AdWords como un servicio de punto de lanzamiento con una cuenta de administrador
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Obtenga más información sobre la [función de importación de conversión sin 
 
 >[!NOTE]
 >
->También puede integrar una [cuenta independiente de Google AdWords como servicio de punto de inicio](add-google-adwords-as-a-launchpoint-service.md).
+>También puede integrar una [cuenta independiente de Google AdWords como servicio de punto de inicio](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Vaya a la sección **Administración**.
 
@@ -63,7 +63,7 @@ Obtenga más información sobre la [función de importación de conversión sin 
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Cargue las conversiones sin conexión de Marketing a Google AdWords **Semanal **o **Diario**.
+1. Cargue las conversiones sin conexión de Marketing a Google AdWords **semanalmente** o **diariamente**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Obtenga más información sobre la [función de importación de conversión sin 
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   ¡Yippee! Ahora consulte el artículo relacionado a continuación para ver cómo asignar las conversiones sin conexión de AdWords en el modelo de ingresos.
+   Ahora consulte el artículo relacionado a continuación para ver cómo asignar las conversiones sin conexión de AdWords en el modelo de ingresos.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Configurar las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Configurar las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
