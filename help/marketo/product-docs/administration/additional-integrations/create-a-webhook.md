@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Creación de un Webgancho - Documentos de marketing - Documentación del producto
 title: Creación de un enlace web
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Utilice los enlaces web para aprovechar los servicios web de terceros para enviar mensajes de texto, ampliar los datos personales y mucho más.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. Vaya a **Admin **y haga clic en **Webhooks**.
+1. Vaya a **Administración** y haga clic en **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ Utilice los enlaces web para aprovechar los servicios web de terceros para envia
 
 >[!NOTE]
 >
->**Buceo profundo**
->
 >Obtenga más información en los [webhooks](http://developers.marketo.com/documentation/webhooks/) buceo profundo.
-
