@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: Añadir Adobe Connect como un servicio LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir Adobe Connect como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,6 @@ Marketing administra el registro y la asistencia a los seminarios web de Adobe C
 >**Se requieren permisos de administración**
 
 >[!NOTE]
->
->**Recordatorio**
 >
 >Para este paso se necesita una suscripción existente a Adobe Connect y derechos de administración. Tenga a mano la siguiente configuración: nombre de usuario, contraseña, contraseña de participante y URL de la carpeta de reuniones.
 
@@ -45,11 +43,9 @@ Marketing administra el registro y la asistencia a los seminarios web de Adobe C
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Complete el proceso ingresando su **URL de la carpeta de reuniones** y **participante** **contraseña**,** **luego haga clic** Crear.**
+1. Complete el proceso ingresando su **URL de la carpeta de reuniones** y **Contraseña del participante** y luego haga clic en **Crear**.
 
-   ** ![](assets/image2015-4-22-11-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
@@ -57,16 +53,12 @@ Marketing administra el registro y la asistencia a los seminarios web de Adobe C
 
    >[!NOTE]
    >
-   >**Ejemplo**
-   >
-   >
-   >Una vez que haya iniciado sesión en su cuenta de Adobe Connect, seleccione la ficha **Seminarios**. Sin explorar en profundidad ningún seminario específico, copie la dirección URL de la barra del explorador en la **configuración de la dirección URL de la carpeta de reuniones****.**
+   >Una vez que haya iniciado sesión en su cuenta de Adobe Connect, seleccione la ficha **Seminarios**. Sin explorar en profundidad en ningún seminario específico, copie la URL de la barra del explorador en la configuración **URL de la carpeta de reuniones**.
 
-1. ¡Fenomenal! Su **servicio de Adobe Connect** ahora se sincroniza con Marketing.
+El servicio de Adobe Connect se ha sincronizado con Marketing Cloud.
 
-   ![](assets/adobe-connect-service.png)
+![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Obtenga información sobre cómo [crear un evento con Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
-
+>Obtenga información sobre cómo [crear un evento con Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
