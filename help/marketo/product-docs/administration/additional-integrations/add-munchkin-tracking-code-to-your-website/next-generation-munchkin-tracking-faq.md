@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Preguntas más frecuentes sobre el seguimiento de Munchkin de próxima generación - Documentos de marketing - Documentación del producto
 title: Preguntas más frecuentes sobre el seguimiento de Munchkin de próxima generación
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Si ya está utilizando este filtro en una Lista inteligente (por ejemplo, en una
 
 >[!NOTE]
 >
->**Ejemplo**
->
->**Activador**: Página Web Visitas, Página Web Precios\
->**Flujo**: Cambiar puntuación +10 y momento interesante,  **Web**: Página Precios visualizados
+>**Déclencheur**: Página Web Visitas, Página Web Precios\
+>**Flujo**: Cambiar puntuación +10 y momento interesante
+>**Web**: Página Precios visualizados
 >
 >Con Munchkin V2, si una persona anónima visita la página de precios, no entra en la campaña inmediatamente. En el momento en que la persona anónima sea conocida, le haremos esta campaña. Ella:
 >
@@ -60,9 +59,6 @@ Si ya está utilizando este filtro en una Lista inteligente (por ejemplo, en una
    >
    >
 * Se ha registrado una actividad &quot;Persona nueva&quot;, como sucede hoy
-
->
-
 
 
 ## ¿Qué pasa con mis Listas inteligentes que ya tienen el filtro &quot;Es anónimo&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Consulte estos vínculos:
 
 ## ¡Tengo más preguntas! ¿Cómo obtengo respuestas? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Póngase en contacto con la [comunidad](https://nation.marketo.com/welcome). También puede enviar un mensaje de correo electrónico a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Ellos estarán encantados de responder sus preguntas.
+Póngase en contacto con la [comunidad](https://nation.marketo.com/welcome). También puede ponerse en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support). Ellos estarán encantados de responder sus preguntas.
