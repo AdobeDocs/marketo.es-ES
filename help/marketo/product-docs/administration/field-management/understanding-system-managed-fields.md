@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Explicación de los campos administrados por el sistema - Documentos de marketing - Documentación del producto
 title: Explicación de los campos administrados por el sistema
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de los campos administrados por el sistema {#understanding-system-managed-fields}
 
-Es posible que haya notado que la [página de detalles de persona](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tiene una serie de campos no editables creados por Marketing. Estos datos provienen de varias fuentes y hay innumerables valores que podrían mostrarse.
+Es posible que haya notado que la [página de detalles de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) tiene una serie de campos no editables creados por Marketing. Estos datos provienen de varias fuentes y hay innumerables valores que podrían mostrarse.
 
 ## Tipos de campos {#field-types}
 
@@ -67,4 +67,3 @@ Debajo hay algunos valores posibles y lo que significan.
 | API de Munchkin | Se convirtió en una persona a través de la API Munchkin de Marketo |
 | Aplicación social | Se convirtió en una persona a través de una utilidad social |
 | Socio de evento | Se convirtió en una persona a través de un servicio de seminario web vinculado |
-
