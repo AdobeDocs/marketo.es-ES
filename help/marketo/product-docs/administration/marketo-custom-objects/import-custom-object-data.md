@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: Importar datos de objeto personalizados - Documentos de marketing - Documentación de producto
 title: Importar datos de objeto personalizados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Importar datos de objeto personalizados {#import-custom-object-data}
 
-Es fácil importar datos de objetos personalizados en la base de datos. Si utiliza objetos personalizados con compañías, consulte [Uso de objetos personalizados con Compañías](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies) para obtener más información.
+Es fácil importar datos de objetos personalizados en la base de datos. Si utiliza objetos personalizados con compañías, consulte [Uso de objetos personalizados con Compañías](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) para obtener más información.
 
 1. En Mi marketing, vaya a **Base de datos**.
 
@@ -71,9 +71,4 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los objetos personalizados de marketing](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[Explicación de los objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
