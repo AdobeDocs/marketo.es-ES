@@ -3,7 +3,7 @@ unique-page-id: 2360291
 description: Bloquear actualizaciones de un campo - Documentos de marketing - Documentación del producto
 title: Bloquear actualizaciones de un campo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -33,5 +33,4 @@ Bloquear actualizaciones en un campo permite escribir en él una vez y, a contin
 
    >[!CAUTION]
    >
-   >Cuando se realiza una importación de listas, el estado de un campo que se está bloqueando en la Previsualización Importar solo se mostrará si el campo se reconoce automáticamente mediante Marketing según el nombre del campo que coincide con **exactamente** (o si se han establecido alias). Si el campo se elige manualmente desde la lista desplegable Campo de marketing, el estado bloqueado no se mostrará en la Previsualización de importación, pero se seguirá implementando el bloqueo de actualizaciones en ese campo.
-
+   >Cuando se realiza una importación de listas, el estado de un campo que se está bloqueando en la Previsualización Importar solo se mostrará si el campo se reconoce automáticamente mediante Marketing según el nombre del campo que coincide con _exactamente_ (o si se han establecido alias). Si el campo se elige manualmente desde la lista desplegable Campo de marketing, el estado bloqueado no se mostrará en la Previsualización de importación, pero se seguirá implementando el bloqueo de actualizaciones en ese campo.
