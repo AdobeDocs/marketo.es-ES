@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Añadir/Editar/Eliminar campos de Actividad personalizados de marketing - Documentos de marketing - Documentación del producto
 title: Añadir/Editar/Eliminar campos de Actividad personalizados de marketing a
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Es posible que deba agregar, cambiar o incluso deshacerse de un campo de activid
 
    >[!TIP]
    >
-   >¿No sabe qué seleccionar? ¡Te hemos cubierto! Todos los tipos de datos disponibles se definen en [este artículo](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >¿No sabe qué seleccionar? ¡Te hemos cubierto! Todos los tipos de datos disponibles se definen en [este artículo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Asigne un nombre al campo. El nombre de la API se rellena automáticamente. Cuando haya terminado, haga clic en **Guardar**.
 
@@ -94,4 +94,3 @@ Se ha editado el campo.
    ![](assets/thirteen.png)
 
    ¡Es tan fácil!
-
