@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: Editar una Actividad personalizada - Documentos de marketing - Documentación del producto
 title: Editar una Actividad personalizada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Si la actividad era un borrador en el momento de la edición, sigue siendo un borrador. Si se ha publicado, el estado cambia a Publicado con borrador.
-
