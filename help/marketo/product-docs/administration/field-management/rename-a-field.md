@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: Cambiar el nombre de un campo - Documentos de marketing - Documentación del producto
 title: Cambiar el nombre de un campo
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-1. Vaya a Administración y haga clic en Administración de campos.
+1. Vaya a Administración y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/changefieldname.png)
 
-1. Cambie el nombre del campo y haga clic en Guardar.
+1. Cambie el nombre del campo y haga clic en **Guardar**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >Si cambia el nombre de la API en Salesforce, Marketo creará un nuevo campo y dejará el antiguo atrás.
-
