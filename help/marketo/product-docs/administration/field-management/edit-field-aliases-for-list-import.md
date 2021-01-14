@@ -3,9 +3,9 @@ unique-page-id: 2360346
 description: Editar alias de campo para la importación de Listas - Documentos de marketing - Documentación del producto
 title: Editar alias de campo para importación de Lista
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 >
 >**Se requieren permisos de administración**
 
-1. En Administración, haga clic en Administración de campos.
+1. En **Administración**, haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-19-9-3a56-3a22.png)
 
@@ -27,11 +27,11 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 
    ![](assets/fieldmanagement-findfield.png)
 
-1. En Acciones de campo, haga clic en Editar alias de importación.
+1. En la lista desplegable Acciones de campo, haga clic en **Editar alias de importación**.
 
    ![](assets/fieldmanageemnt-editimport.png)
 
-1. Introduzca un alias y haga clic en Guardar.
+1. Introduzca un alias y haga clic en **Guardar**.
 
    ![](assets/image2014-9-19-9-3a57-3a1.png)
 
@@ -39,5 +39,6 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 >
 >Haga clic en **Añadir otro** e introduzca más alias si los necesita.
 
-¡Miren eso! Ahora, si importa una hoja de cálculo con una columna denominada &quot;DOB&quot;, Marketo la reconocerá automáticamente como &quot;Fecha de nacimiento&quot; e importará los datos en el campo correcto.  ![](assets/image2014-9-19-9-3a57-3a20.png)
+¡Miren eso! Ahora, si importa una hoja de cálculo con una columna denominada &quot;DOB&quot;, Marketo la reconocerá automáticamente como &quot;Fecha de nacimiento&quot; e importará los datos en el campo correcto.
 
+![](assets/image2014-9-19-9-3a57-3a20.png)
