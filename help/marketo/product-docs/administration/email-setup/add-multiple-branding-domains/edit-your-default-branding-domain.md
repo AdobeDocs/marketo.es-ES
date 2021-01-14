@@ -3,7 +3,7 @@ unique-page-id: 11377392
 description: Editar el dominio de marca predeterminado - Documentos de marketing - Documentación del producto
 title: Editar el dominio de marca predeterminado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
 
 >[!PREREQUISITES]
 >
->Asegúrese de [configurar un CNAME en su DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) antes de agregar sus dominios de marca en Marketing.
+>Asegúrese de [configurar un CNAME en su DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) antes de agregar sus dominios de marca en Marketing.
 
 1. Vaya a **Administración** y haga clic en **Correo electrónico**.
 
@@ -35,5 +35,4 @@ Editar el dominio de marca predeterminado es el primer paso para trabajar con do
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Ahora puede [agregar cualquier dominio de marca adicional](add-an-additional-branding-domain.md) que necesite.
-
+Ahora puede [agregar cualquier dominio de marca adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) que necesite.
