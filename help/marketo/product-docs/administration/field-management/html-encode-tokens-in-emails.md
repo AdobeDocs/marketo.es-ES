@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: Tokens de codificación HTML en correos electrónicos - Documentos de marketing - Documentación del producto
 title: Codificar tokens HTML en correos electrónicos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Habilite o deshabilite los tokens de persona y compañía utilizados en los corr
 
 >[!NOTE]
 >
->**Definición**
->
->La codificación convierte los caracteres en sus versiones de código HTML para evitar confusiones al transmitirse (p. ej. &quot;&amp;&quot; se ha cambiado a &quot;&amp;&quot;). Para obtener más información, consulte a su desarrollador web.
+>La codificación convierte los caracteres en sus versiones de código HTML para evitar confusiones al transmitirse (p. ej. &quot;&amp;&quot; se cambia a `&amp;`). Para obtener más información, consulte a su desarrollador web.
 
 1. Vaya a **Administración**.
 
@@ -42,4 +40,3 @@ Habilite o deshabilite los tokens de persona y compañía utilizados en los corr
    ![](assets/six.png)
 
    ¡Y eso es todo! Puede hacerlo para tantos campos individuales como desee.
-
