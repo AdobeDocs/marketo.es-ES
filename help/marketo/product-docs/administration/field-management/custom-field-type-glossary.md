@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Glosario de tipo de campo personalizado - Documentos de marketing - Documentación del producto
 title: Glosario de tipo de campo personalizado
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ Al crear un campo personalizado en Marketing, tiene una lista de tipos para eleg
 
 >[!PREREQUISITES]
 >
->* [Creación de un campo personalizado en Marketing](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Creación de un campo personalizado en Marketing](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Según el tipo de campo, los operadores [filter/desencadenador](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) serán diferentes.
+>Según el tipo de campo, los operadores de filtro/déclencheur [](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) serán diferentes.
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ Al crear un campo personalizado en Marketing, tiene una lista de tipos para eleg
 
 **Nombre de ejemplo:Correo electrónico** alternativo: Mantenga una dirección de correo electrónico alternativa para sus usuarios (en realidad no puede enviar correos electrónicos a este campo como el campo de dirección de correo electrónico predeterminada, ese campo es especial)
 
-**Valores de ejemplo:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**Valores de ejemplo:** name@company.com
 
 **Operadores**: es, no es, inicios con, no inicios con, contiene, no contiene, está vacío, no está vacío
 
@@ -81,7 +77,7 @@ Al crear un campo personalizado en Marketing, tiene una lista de tipos para eleg
 
 ## Fórmula {#formula}
 
-**Nombre de ejemplo:** Saludos: utilice este campo especial en una  [solución para obtener el ](create-and-use-a-concatenated-string-formula-field.md) saludo correcto según el sexo
+**Nombre de ejemplo:** Saludos: utilice este campo especial en una  [solución para obtener el ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) saludo correcto según el sexo
 
 **Valores de ejemplo:** comprobar la solución vinculada
 
