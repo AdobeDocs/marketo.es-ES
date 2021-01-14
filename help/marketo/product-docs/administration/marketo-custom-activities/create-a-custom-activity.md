@@ -3,7 +3,7 @@ unique-page-id: 10098479
 description: Crear una Actividad personalizada - Documentos de marketing - Documentación del producto
 title: Crear una Actividad personalizada
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Siga estos pasos para crear una nueva actividad personalizada.
    >
    >Si decide cambiar el nombre de la API, asegúrese de que no entre en conflicto con los campos de otras actividades personalizadas.
 
-1. Defina el **filtro** y **activador** y haga clic en **Siguiente**.
+1. Defina el **Déclencheur** y **** y haga clic en **Siguiente**.
 
    ![](assets/five.png)
 
@@ -51,9 +51,4 @@ Siga estos pasos para crear una nueva actividad personalizada.
 
 >[!MORELIKETHIS]
 >
->* [Explicación de las Actividades personalizadas](understanding-custom-activities.md)
-
->
-
-
-
+>[Explicación de las Actividades personalizadas](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
