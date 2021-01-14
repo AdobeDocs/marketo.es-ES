@@ -3,7 +3,7 @@ unique-page-id: 2360295
 description: Exportar una Lista de todos los nombres de campos de la API de marketing - Documentos de marketing - Documentación del producto
 title: Exportar una Lista de todos los nombres de campos de la API de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Si está utilizando nuestra API SOAP o Munchkin, necesitará una lista de todos 
 >[!NOTE]
 >
 >El límite de caracteres para los nombres de API de MLM es de 255.
-
