@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: Exportación utilizada por datos para un campo - Documentos de marketing - Documentación del producto
 title: Exportación utilizada por datos para un campo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Como administrador, puede exportar recursos relacionados de un campo para poder 
    >[!TIP]
    >
    >Cada recurso relacionado es un vínculo en el que se puede hacer clic y que se abrirá en Marketing Cloud.
-
