@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: Sobrescribir dominio principal para correos electrónicos - Documentos de marketing - Documentación del producto
 title: Sobrescribir dominio principal para correos electrónicos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Puede sobrescribir el dominio de marca principal por correo electrónico. Esto c
    >[!NOTE]
    >
    >No todos los usuarios tienen permisos para establecer el dominio de marca por correo electrónico. Póngase en contacto con el administrador si no ve la lista desplegable Dominios de marca.
-
