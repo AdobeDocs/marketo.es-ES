@@ -3,7 +3,7 @@ unique-page-id: 10093192
 description: Creación de objetos personalizados de marketing - Documentos de marketing - Documentación del producto
 title: Crear objetos personalizados de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Utilice objetos personalizados en Marketing para rastrear métricas específicas
 
 >[!NOTE]
 >
->Puede configurar objetos personalizados para que funcionen de uno a varios o de varios a varios. El objeto inicial se crea del mismo modo, pero los pasos son diferentes cuando se inicio agregar campos al objeto. Consulte [Explicación de los objetos personalizados de marketing](understanding-marketo-custom-objects.md) para obtener más información.
+>Puede configurar objetos personalizados para que funcionen de uno a varios o de varios a varios. El objeto inicial se crea del mismo modo, pero los pasos son diferentes cuando se inicio agregar campos al objeto. Consulte [Explicación de los objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información.
 
 >[!NOTE]
 >
@@ -29,9 +29,7 @@ En este ejemplo se muestra un objeto personalizado Car, que se utiliza en una es
 
 1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de marketing**.
 
-   ** ![](assets/image2016-1-18-13-3a12-3a19.png)
-
-   **
+   ![](assets/image2016-1-18-13-3a12-3a19.png)
 
 1. Haga clic en **Nuevo objeto personalizado**.
 
@@ -49,7 +47,7 @@ En este ejemplo se muestra un objeto personalizado Car, que se utiliza en una es
    >
    >Puede editar estos campos cuando los esté creando, pero una vez guardados, sólo puede editar el campo Nombre plural y el control deslizante **Mostrar en detalle de posible cliente**.
 
-1. Tire del control deslizante **Mostrar en detalle de posibles clientes **para mostrar **Mostrar** si desea realizar la vista de datos de objetos personalizados en la página Base de datos de posibles clientes. Haga clic en **Guardar**.
+1. Extraiga el control deslizante **Mostrar en detalle de posibles clientes** para mostrar **Mostrar** si desea realizar la vista de datos de objetos personalizados en la página Base de datos de posibles clientes. Haga clic en **Guardar**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,11 +55,11 @@ En este ejemplo se muestra un objeto personalizado Car, que se utiliza en una es
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   El siguiente paso es agregar campos a [generar el objeto personalizado](add-marketo-custom-object-fields.md).
+   El siguiente paso es agregar campos a [generar el objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >Solo puede rellenar Objetos personalizados de marketing mediante una importación de lista o la [API](http://developers.marketo.com/documentation/rest/).
+   >Solo puede rellenar Objetos personalizados de marketing mediante una importación de lista o la [API](https://developers.marketo.com/documentation/rest/).
 
 ## Crear un objeto personalizado para una estructura de varios a varios {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -87,7 +85,7 @@ En este ejemplo se muestra un objeto personalizado de curso que se utilizará pa
    >
    >Puede editar estos campos cuando los esté creando, pero una vez guardados, sólo puede editar el campo Nombre plural y el control deslizante **Mostrar en detalle de posible cliente**.
 
-1. Tire del control deslizante **Mostrar en detalle de posibles clientes **para mostrar Mostrar si desea realizar la vista de datos de objetos personalizados en la página Base de datos de posibles clientes. Haga clic en **Guardar**.
+1. Extraiga el control deslizante **Mostrar en detalle de posibles clientes** para mostrar **Mostrar** si desea realizar la vista de datos de objetos personalizados en la página Base de datos de posibles clientes. Haga clic en **Guardar**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -97,7 +95,7 @@ En este ejemplo se muestra un objeto personalizado de curso que se utilizará pa
 
    >[!NOTE]
    >
-   >Solo puede rellenar Objetos personalizados de marketing mediante una importación de lista o la [API](http://developers.marketo.com/documentation/rest/).
+   >Solo puede rellenar Objetos personalizados de marketing mediante una importación de lista o la [API](https://developers.marketo.com/documentation/rest/).
 
 El siguiente paso es crear el objeto intermediario (ver más abajo). Pero antes de eso, se necesita crear un campo para vincularlo con él.
 
@@ -125,21 +123,17 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
    >
    >Puede editar estos campos cuando los esté creando, pero una vez guardados, solo podrá editar el campo Nombre plural y el control deslizante Mostrar en detalle de posible cliente.
 
-1. Extraiga el control deslizante **Mostrar en detalle de posibles clientes** para mostrar Mostrar si desea vista de datos de objetos personalizados en la página Base de datos de posibles clientes. Haga clic en **Guardar**.
+1. Extraiga el control deslizante **Mostrar en detalle de posibles clientes** para mostrar **Mostrar** si desea realizar la vista de datos de objetos personalizados en la página Base de datos de posibles clientes. Haga clic en **Guardar**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. La información del objeto personalizado muestra el contenido introducido. Observe que está en estado Borrador.
 
-   El siguiente paso es que [agregue campos de vínculo](add-marketo-custom-object-link-fields.md) para conectar el objeto intermediario con una persona/compañía y un objeto personalizado.
+   El siguiente paso es que [agregue campos de vínculo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar el objeto intermediario con una persona/compañía y un objeto personalizado.
 
 >[!MORELIKETHIS]
 >
->* [Añadir campos de objeto personalizados de marketing](add-marketo-custom-object-fields.md)
->* [Añadir campos de vínculo de objeto personalizado de marketing a](add-marketo-custom-object-link-fields.md)
->* [Explicación de los objetos personalizados de marketing](understanding-marketo-custom-objects.md)
-
->
-
-
+>* [Añadir campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Añadir campos de vínculo de objeto personalizado de marketing a](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Explicación de los objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
