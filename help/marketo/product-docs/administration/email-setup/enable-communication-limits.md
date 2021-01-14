@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: Habilitar límites de comunicación - Documentos de marketing - Documentación del producto
 title: Habilitar límites de comunicación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ Es muy importante no sobrecomunicarte con tu gente. El establecimiento de límit
 1. En **Administración**, haga clic en **Límites de comunicación**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-Haga clic en Editar.
+
+1. Haga clic en **Editar**.
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >Por día se basa en el día natural del huso horario de suscripción (medianoche-medianoche).
 
@@ -48,7 +49,7 @@ Haga clic en Editar.
 
    >[!NOTE]
    >
-   >Obtenga más información sobre los [correos electrónicos operativos](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational).
+   >Obtenga más información sobre los [correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Haga clic en **Guardar**.
 
@@ -58,15 +59,12 @@ Haga clic en Editar.
    >
    >**Ejemplo**
    >
-   >
    >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico por día** o más de **5 en un período de siete días**.
 
    >[!NOTE]
-   >
    >
    >Los límites de comunicación se aplican automáticamente a todos los programas de correo electrónico y participación.
 
 >[!MORELIKETHIS]
 >
->[Aplicar límites de comunicación a la Campaña inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[Aplicar límites de comunicación a la Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
