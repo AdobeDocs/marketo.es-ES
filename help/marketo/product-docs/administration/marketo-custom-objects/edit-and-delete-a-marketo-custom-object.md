@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Editar y eliminar un objeto personalizado de marketing - Documentos de marketing - Documentación del producto
 title: Editar y eliminar un objeto personalizado de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Utilice el menú Acciones de objeto personalizado para editar o eliminar un obje
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Asegúrese de aprobar [el objeto editado](approve-a-custom-object.md).
+1. Asegúrese de aprobar [el objeto editado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Eliminar un objeto personalizado {#delete-a-custom-object}
 
@@ -81,5 +81,4 @@ Es fácil eliminar un objeto personalizado, pero hay que tener cuidado. Los obje
 
 >[!MORELIKETHIS]
 >
->[Aprobar un objeto personalizado](approve-a-custom-object.md)
-
+>[Aprobar un objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
