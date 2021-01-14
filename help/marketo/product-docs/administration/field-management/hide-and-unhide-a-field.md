@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Ocultar y mostrar un campo - Documentos de marketing - Documentación del producto
 title: Ocultar y mostrar un campo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,10 @@ Si ya no tiene uso para un campo en Marketing, puede ocultarlo en la interfaz de
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
    >Para ocultar un campo, no debe asociarse con ningún otro activo (incluidos los archivados). Asegúrese de quitar el campo de todas las listas inteligentes, opciones de pasos de flujo, formularios, correos electrónicos, etc., antes de ocultarlo.
 
-   Haga clic en Ocultar para confirmar.
+1. Haga clic en **Ocultar** para confirmar.
+
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
    ¡Buen trabajo! Ahora sabe cómo ocultar un campo de la interfaz de usuario de Marketing to.
@@ -48,7 +47,7 @@ Si ya no tiene uso para un campo en Marketing, puede ocultarlo en la interfaz de
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Busque y seleccione el campo y, a continuación, en **Acciones de campo** haga clic en **`Unhide Field`**.
+1. Busque y seleccione el campo. En la lista desplegable Acciones de campo, haga clic en **Mostrar campo**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +55,4 @@ Si ya no tiene uso para un campo en Marketing, puede ocultarlo en la interfaz de
 
    >[!TIP]
    >
-   >¿Necesita que se realice un ocultamiento/revelado masivo? Póngase en contacto con el servicio profesional de marketing: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
-
+   >¿Necesita que se realice un ocultamiento/revelado masivo? Póngase en contacto con el servicio profesional de marketing: services@marketo.com.
