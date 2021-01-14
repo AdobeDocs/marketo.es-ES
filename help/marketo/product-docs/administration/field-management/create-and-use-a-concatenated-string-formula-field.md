@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Crear y utilizar un campo de cadena concatenada (Fórmula) - Documentos de marketing - Documentación del producto
 title: Crear y utilizar un campo de cadena concatenada (fórmula)
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Puede combinar valores de varios campos o generar un valor condicional mediante 
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Obtenga más información sobre [tokens para los pasos de flujo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Obtenga más información sobre [tokens para los pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Ahora puede agregar el campo de fórmula como token en un correo electrónico.
 
@@ -50,4 +50,3 @@ Puede combinar valores de varios campos o generar un valor condicional mediante 
 >[!NOTE]
 >
 >Los campos de fórmula se pueden utilizar en columnas de páginas de aterrizaje, correos electrónicos y listas inteligentes; no se exportan. Los correos electrónicos con campos de fórmula no se pueden enviar mediante campañas por lotes
-
