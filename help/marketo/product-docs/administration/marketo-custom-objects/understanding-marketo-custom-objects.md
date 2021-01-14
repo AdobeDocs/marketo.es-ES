@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Explicación de los objetos personalizados de marketing - Documentos de marketing - Documentación del producto
 title: Explicación de los objetos personalizados de marketing
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,14 @@ ht-degree: 0%
 
 Utilice objetos personalizados para rastrear métricas específicas de su negocio.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-Utilice objetos personalizados como filtros y activadores en sus campañas inteligentes. Por ejemplo:
+Utilice objetos personalizados como filtros y déclencheur en sus campañas inteligentes. Por ejemplo:
 
 * **Filtro**: Enviar correos electrónicos sólo a los propietarios de una marca de vehículo específica
-* **Activador**: Enviar un correo electrónico cuando se añada un objeto personalizado a una persona o compañía.
+* **Déclencheur**: Enviar un correo electrónico cuando se añada un objeto personalizado a una persona o compañía.
 
 Puede configurar objetos personalizados en una relación de uno a varios o de varios a varios. Por ejemplo:
 
@@ -45,7 +43,7 @@ Muchos objetos personalizados utilizan dos campos de vínculo, que forman parte 
 
 ## Acceso a objetos personalizados de marketing {#accessing-marketo-custom-objects}
 
-1. Para crear o editar objetos personalizados de marketing, haga clic en **Administración **y, a continuación, en el vínculo **Objeto personalizado de marketing** s.
+1. Para crear o editar objetos personalizados de Marketing to, haga clic en **Administración** y luego en el vínculo **Objetos personalizados de Marketing to**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ Si hay varias personas en Marketing que son registros en los registros de CRM o 
 
 Los objetos personalizados solo pueden vincularse directamente a un único registro. Esto significa que cuando el tipo de objeto personalizado está vinculado por el campo de compañía, debe asegurarse de que los registros de personas están asociados a una compañía mediante la conversión de contactos en su CRM o mediante el campo externoCompanyId, si administra compañías mediante las API REST de Marketing. Para los registros de personas que no están vinculados explícitamente a registros de compañía, los objetos personalizados vinculados mediante compañía se vincularán aleatoriamente a un único registro, aunque el valor del campo de compañía se comparta entre muchas personas.
 
-Consulte [Importar datos de objeto personalizados](import-custom-object-data.md) para obtener más información.
+Consulte [Importar datos de objeto personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) para obtener más información.
 
 >[!MORELIKETHIS]
 >
->* [Crear objetos personalizados de marketing](create-marketo-custom-objects.md)
->* [Aprobar un objeto personalizado](approve-a-custom-object.md)
->* [Editar y eliminar un objeto personalizado de marketing](edit-and-delete-a-marketo-custom-object.md)
->* [Añadir campos de objeto personalizados de marketing](add-marketo-custom-object-fields.md)
->* [Editar y eliminar campos de objetos personalizados de marketing](edit-and-delete-marketo-custom-object-fields.md)
->* [Importar datos de objeto personalizados](import-custom-object-data.md)
-
->
-
-
+>* [Crear objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Aprobar un objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Editar y eliminar un objeto personalizado de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Añadir campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Editar y eliminar campos de objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Importar datos de objeto personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
