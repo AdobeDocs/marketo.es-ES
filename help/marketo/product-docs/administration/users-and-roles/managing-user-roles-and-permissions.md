@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Administración de funciones y permisos de usuario - Documentos de marketing - Documentación del producto
 title: Administración de funciones y permisos de usuario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ Por ejemplo, un usuario de marketing suele necesitar un amplio acceso en toda la
 
 Marketo proporciona varias funciones integradas, con diferentes niveles de acceso:
 
-* **Administración **- todas las partes de la aplicación, incluida la sección Administración
-* **Usuario estándar **- todas las partes de la aplicación, excepto la sección Administración
+* **Administración** : todas las partes de la aplicación, incluida la sección Administración
+* **Usuario**  estándar: todas las partes de la aplicación, excepto la sección Administración
 * **Usuario**  de marketing: todas las partes de la aplicación, excepto la sección Administración
-* **Diseñador web **- solo Design Studio
-* **Usuario de Analytics **- solo la sección Análisis
+* **Diseñador**  web: solo Design Studio
+* **Usuario**  de Analytics: solo la sección Analytics
 
 No puede editar las funciones de administrador y usuario estándar, pero sí las demás. También puede crear nuevas funciones personalizadas para que coincidan con las estructuras organizativas específicas de la compañía.
 
 ## Asignar funciones a un usuario {#assign-roles-to-a-user}
 
-Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) o [edite un usuario existente](managing-marketo-users.md).
+Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o [edite un usuario existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Para editar un usuario existente, vaya a **Administración** y haga clic en **Usuarios y roles**.
 
@@ -49,25 +49,25 @@ Puede asignar funciones a un usuario cuando [cree usuarios por primera vez](http
 
    >[!NOTE]
    >
-   >Para obtener más información sobre cada función, consulte [Descripciones de los permisos de roles](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Para obtener más información sobre cada función, consulte [Descripciones de los permisos de roles](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Crear una nueva función {#create-a-new-role}
 
 A veces, su organización tiene empleados con funciones muy específicas que requieren una combinación personalizada de permisos.
 
-1. Para crear una nueva función de usuario, vaya a Administración y haga clic en Usuarios y funciones.
+1. Para crear una nueva función de usuario, vaya a Administración y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. Haga clic en la ficha Funciones.
+1. Haga clic en la ficha **Roles**.
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Haga clic en Nueva función.
+1. Haga clic en **Nueva función**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Introduzca un nombre de función, una descripción (opcional) y seleccione los permisos que necesitarán los usuarios de esta función.
+1. Escriba un **Nombre de rol**, una **Descripción** (opcional) y seleccione los permisos que necesitarán los usuarios en esta función.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -79,7 +79,7 @@ Si necesita cambiar los permisos asociados a una función existente, puede edita
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. Haga clic en la ficha **Funciones **Funciones.
+1. Haga clic en la ficha **Roles**.
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
@@ -87,7 +87,7 @@ Si necesita cambiar los permisos asociados a una función existente, puede edita
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Cambie el **Nombre de rol** y **Descripción **si es necesario, y luego cambie la selección de **Permisos** asociados.
+1. Cambie el **Nombre de rol** y **Descripción** si es necesario, y luego cambie la selección de **Permisos** asociados.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -99,28 +99,18 @@ Si necesita cambiar los permisos asociados a una función existente, puede edita
 
 Si una función se vuelve innecesaria, puede eliminarla.
 
-1. Vaya a Administración y haga clic en Usuarios y funciones.
+1. Vaya a Administración y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. Haga clic en la ficha Funciones.
+1. Haga clic en la ficha **Roles**.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. En la lista, seleccione la función que desee eliminar y haga clic en Eliminar función.
+1. En la lista, seleccione la función que desee eliminar y haga clic en **Eliminar función**.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. Haga clic en Eliminar para confirmar.
+1. Haga clic en **Eliminar** para confirmar.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
-
->[!MORELIKETHIS]
->
->Obtenga más información sobre cómo crear usuarios adicionales y asignarles funciones en [Introducción a Marketing](../../../getting-started.md).
-
->[!NOTE]
->
->**Buceo profundo**
->
->Obtenga más información sobre otras tareas administrativas en la [unidad profunda de ](http://docs.marketo.com/display/docs/administration) administración.
