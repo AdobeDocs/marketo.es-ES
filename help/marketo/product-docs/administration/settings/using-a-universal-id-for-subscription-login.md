@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: Uso de un ID universal para el inicio de sesión de Suscripción - Documentos de marketing - Documentación del producto
 title: Uso de un ID universal para el inicio de sesión de Suscripción
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ Si tiene varias suscripciones, puede tener varios perfiles de comunidad. Le reco
 ## Plataforma móvil {#mobile-platform}
 
 Los usuarios con ID universal pueden ver sus datos en Momentos de marketing y en la aplicación de registro de evento para iPad desde la suscripción en la que iniciaron sesión por última vez. No puede cambiar suscripciones desde la propia plataforma móvil.
-
