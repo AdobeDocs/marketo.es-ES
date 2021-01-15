@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: Editar la configuración de compatibilidad con navegadores "No rastrear" - Documentos de marketing - Documentación del producto
 title: Editar la configuración de compatibilidad con navegadores "No rastrear"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >&quot;No rastrear&quot; se configurará en Ignorar de forma predeterminada, por lo que si eso es lo que desea, no tendrá que realizar ningún paso.
 
-1. Haga clic en** Administrador**.
+1. Haga clic en **Administración**.
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. Seleccione **Soporte** y haga clic en **Guardar**.
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    Después de guardar los cambios, verá la actualización.
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >Para obtener más información sobre &quot;No rastrear&quot; y cómo funciona, visite [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).
-
