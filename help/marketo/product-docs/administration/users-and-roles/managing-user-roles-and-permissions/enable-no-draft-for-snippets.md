@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: Habilitar el no borrador para fragmentos - Documentos de marketing - Documentación del producto
 title: Activar sin borrador para fragmentos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -51,5 +51,4 @@ No-Borrador se habilita automáticamente para todas las funciones de administrad
 
 >[!MORELIKETHIS]
 >
->[Aprobar un fragmento sin borrador](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
-
+>[Aprobar un fragmento sin borrador](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
