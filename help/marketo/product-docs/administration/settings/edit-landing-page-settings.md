@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Editar configuración de Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Editar configuración de Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Puede editar el nombre de dominio y la página de reserva, activar o desactivar 
    | Término | Definición |
    |---|---|
    | Nombre de dominio para páginas de aterrizaje | Este es su CNAME. Un CNAME es la primera parte de la URL que se proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `http://go.yourCompany.com`, la palabra &quot;go&quot; es el CNAME. Se pueden tener múltiples, pero la mayoría de la gente simplemente usa uno. |
-   | Página de reserva | Aquí es a dónde ir si la página de aterrizaje no existe o no está. Obtenga más información sobre [páginas de reserva](set-a-fallback-page.md). |
+   | Página de reserva | Aquí es a dónde ir si la página de aterrizaje no existe o no está. Obtenga más información sobre [páginas de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Página principal | Introduzca la dirección URL del sitio corporativo. |
 
    ![](assets/three.png)
@@ -56,4 +56,3 @@ Puede editar el nombre de dominio y la página de reserva, activar o desactivar 
    ![](assets/six.png)
 
    ¡bueno trabajo! Sus páginas de aterrizaje ahora tienen la información correcta y deben trabajar de inmediato en inicio.
-
