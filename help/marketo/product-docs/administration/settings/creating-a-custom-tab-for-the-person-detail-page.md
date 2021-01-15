@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Creación de una ficha personalizada para la página de detalles de la persona - Documentos de marketing - Documentación del producto
 title: Creación de una ficha personalizada para la página Detalles de persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ Si busca un conjunto específico de campos en los detalles de la persona una y o
    >
    >Tiene dos columnas con las que trabajar.
 
-   Si decide eliminar un campo, haga clic con el botón secundario en el campo que desee eliminar y haga clic en Eliminar.
+   Si decide eliminar un campo, haga clic con el botón secundario en el campo que desee eliminar y haga clic en **Eliminar**.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    ¡Increíble trabajo! Ahora, cuando carga los detalles de una persona, puede utilizar el diseño personalizado para acceder a la información que le interesa.
 
    ![](assets/six-1.png)
-
