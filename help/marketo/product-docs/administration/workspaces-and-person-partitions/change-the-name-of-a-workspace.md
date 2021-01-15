@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: Cambiar el nombre de un espacio de trabajo - Documentos de marketing - Documentación del producto
 title: Cambio del nombre de un espacio de trabajo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Crear un nuevo espacio de trabajo](create-a-new-workspace.md)
+>[Crear un nuevo espacio de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Los usuarios pueden cambiar el nombre de un espacio de trabajo. Es bastante simple.
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Comprender primero con [Explicación de los espacios de trabajo y las particiones personales](understanding-workspaces-and-person-partitions.md).
+>Comprender primero con [Explicación de los espacios de trabajo y las particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones.**
 
@@ -44,4 +42,3 @@ Los usuarios pueden cambiar el nombre de un espacio de trabajo. Es bastante simp
 1. Después de guardar, debería ver los cambios.
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
