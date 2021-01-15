@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Editar un espacio de trabajo - Documentos de marketing - Documentación del producto
 title: Editar un espacio de trabajo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ A veces es necesario realizar cambios en un espacio de trabajo. Es fácil.
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Despliegue espacios de trabajo con [Explicación de espacios de trabajo y particiones personales](understanding-workspaces-and-person-partitions.md).
+>Despliegue espacios de trabajo con [Explicación de espacios de trabajo y particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones**.
 
@@ -37,25 +35,19 @@ A veces es necesario realizar cambios en un espacio de trabajo. Es fácil.
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Puede [crear más particiones personales](create-a-person-partition.md) si las necesita.
+   >Puede [crear más particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) si las necesita.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >La casilla de verificación **Todas las particiones de persona**** **significa que este espacio de trabajo puede utilizar todas las particiones de posible cliente del sistema.
+   >La casilla **Todas las particiones de persona** significa que este espacio de trabajo puede utilizar todas las particiones de posible cliente del sistema.
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >La partición** de persona principal** actúa como predeterminada y es donde se asignará a todas las personas.
+   >La **partición de persona principal** actúa como predeterminada y es donde se asignarán todas las personas.
 
-   Si ha habilitado varios dominios con marca, puede cambiar a un dominio con marca principal diferente. Haga clic en Guardar.
+   Si ha habilitado varios dominios con marca, puede cambiar a un dominio con marca principal diferente. Haga clic en **Guardar**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ A veces es necesario realizar cambios en un espacio de trabajo. Es fácil.
 
 >[!MORELIKETHIS]
 >
->* [Crear un nuevo espacio de trabajo](create-a-new-workspace.md)
->* [Explicación de los espacios de trabajo y las particiones personales](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Crear un nuevo espacio de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Explicación de los espacios de trabajo y las particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
