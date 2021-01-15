@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Editar caducidad de vínculo en informes y alertas - Documentos de marketing - Documentación del producto
 title: Editar caducidad de vínculo en informes y alertas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,4 @@ Genial, ha editado la configuración de caducidad del vínculo de correo electr�
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >Recuerde que solo se aplican a los vínculos de los informes y las alertas, no a los correos electrónicos de marketing.
-
