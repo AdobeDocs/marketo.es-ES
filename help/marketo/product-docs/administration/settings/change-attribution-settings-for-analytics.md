@@ -3,7 +3,7 @@ unique-page-id: 2360217
 description: Cambiar la configuración de atribución para Analytics - Documentos de marketing - Documentación del producto
 title: Cambiar la configuración de atribución para Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede cambiar la forma en que Marketing vincula los contactos con las oportunidades de atribución de primer toque y de varios toques, las métricas de conversión de posibles clientes y el indicador de oportunidad influenciado por el marketing.
 
-Esta configuración afectará los informes del Explorador de ingresos en las áreas [Análisis de oportunidad de Programa](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análisis de oportunidad](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) y Análisis de posibles clientes. Esto también afectará al informe Analizador de Programas.
+Esta configuración afectará los informes del Explorador de ingresos en las áreas [Análisis de oportunidad de Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análisis de oportunidad](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) y Análisis de posibles clientes. Esto también afectará al informe Analizador de Programas.
 
 1. En la sección **Administración**, haga clic en **Análisis del ciclo de ingresos**.
 
@@ -37,16 +37,12 @@ Esta configuración afectará los informes del Explorador de ingresos en las ár
    >
    >**Definición**
    >
-   >
    >**Explícita**: Solo contactos con funciones (predeterminado).
    >
-   >
    >**Híbrido**: Contactos con funciones si están disponibles. Si no hay ninguno disponible, utiliza todos los contactos de las cuentas.
-   >
    >
    >**Implícito**: Todos los contactos, independientemente de su función.
 
 >[!CAUTION]
 >
->Al utilizar **Implícito**, Marketing siempre examinará todos los contactos asociados a la cuenta independientemente de la función. **Marketing to recomienda enfáticamente utilizar el modo explícito.** El uso de Implícito puede crear falsos positivos; es decir, personas a las que se atribuye una oportunidad a pesar de no tener una influencia real en la oportunidad. Utilice Implícito con precaución.
-
+>Al utilizar **Implícito**, Marketing siempre examinará todos los contactos asociados a la cuenta independientemente de la función. **Marketo recomienda enfáticamente utilizar el modo** explícito. El uso de Implícito puede crear falsos positivos; es decir, personas a las que se atribuye una oportunidad a pesar de no tener una influencia real en la oportunidad. Utilice Implícito con precaución.
