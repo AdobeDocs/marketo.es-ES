@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: Editar configuración de Suscripción - Documentos de marketing - Documentación del producto
 title: Editar configuración de Suscripción
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Por ejemplo, si trabaja en las instancias de producción y simulación de prueba
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
    ¡Ta-da! Su suscripción tiene un nombre nuevo.
-
