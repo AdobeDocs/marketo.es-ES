@@ -3,7 +3,7 @@ unique-page-id: 2359920
 description: Establecer una página de reserva - Documentos de marketing - Documentación del producto
 title: Establecer una página de reserva
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
