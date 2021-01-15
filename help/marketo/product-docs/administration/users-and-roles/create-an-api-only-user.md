@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Crear un usuario solo de API - Documentos de marketing - Documentación del producto
 title: Crear un usuario solo de API
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Crear un usuario solo de API {#create-an-api-only-user}
 
-Si desea realizar la integración con Marketing mediante la [API de REST](http://developers.marketo.com/documentation/rest/), deberá crear un usuario solo de API. Así es como.
+Si desea realizar la integración con Marketing mediante la [API de REST](https://developers.marketo.com/documentation/rest/), deberá crear un usuario solo de API. Así es como.
 
 >[!PREREQUISITES]
 >
->* [Crear una función de usuario solo de API](create-an-api-only-user-role.md)
-
->
-
+>[Crear una función de usuario solo de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ Si desea realizar la integración con Marketing mediante la [API de REST](http:/
 
 ¡Bien, entonces! Ahora vamos a crear el servicio personalizado.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Crear un servicio personalizado para utilizarlo con la API de ReST](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[Crear un servicio personalizado para utilizarlo con la API de ReST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
