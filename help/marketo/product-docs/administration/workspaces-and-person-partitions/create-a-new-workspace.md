@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Crear un nuevo espacio de trabajo - Documentos de marketing - Documentación del producto
 title: Crear un nuevo espacio de trabajo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ A continuación se explica cómo crear un nuevo espacio de trabajo.
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Comprender primero con [Explicación de los espacios de trabajo y las particiones personales](understanding-workspaces-and-person-partitions.md).
+>Comprender primero con [Explicación de los espacios de trabajo y las particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Para obtener más información sobre las optimizaciones de Workspace, póngase en contacto con [Marketing to Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>Para obtener más información sobre las optimizaciones de Workspace, póngase en contacto con [Marketing to Professional Services](mailto:services@marketo.com).
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones**.
 
@@ -42,33 +40,25 @@ A continuación se explica cómo crear un nuevo espacio de trabajo.
 
    ![](assets/two-1.png)
 
-1. Escriba un** Nombre** y seleccione las **Particiones de personas** que desee utilizar. Elija una **partición de persona principal**.
+1. Escriba un **Nombre** y seleccione las **Particiones de personas** que desee utilizar. Elija una **partición de persona principal**.
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Asegúrese de [crear particiones personales](create-a-person-partition.md) si aún no lo ha hecho.
+   >Asegúrese de [crear particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) si aún no lo ha hecho.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >La casilla de verificación **Todas las particiones de persona**** **significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
-
-   >[!NOTE]
+   >La casilla **Todas las particiones de persona** significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
    >
-   >**Recordatorio**
-   >
-   >
-   >La partición** de persona principal** actúa como predeterminada y es donde se asignará a todas las personas.
+   >La **partición de persona principal** actúa como predeterminada y es donde se asignarán todas las personas.
 
    Si ha habilitado varios dominios con marca, debe elegir un dominio con marca principal.
 
    ![](assets/four-1.png)
 
-   Seleccione el idioma del espacio de trabajo.
+1. Seleccione el idioma del espacio de trabajo.
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ A continuación se explica cómo crear un nuevo espacio de trabajo.
    Después de crear el espacio de trabajo, debería ver la actualización.
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
