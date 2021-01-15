@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Editar una partición de persona existente - Documentos de marketing - Documentación del producto
 title: Editar una partición de persona existente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
 >[!PREREQUISITES]
 >
->* [Crear una partición de persona](create-a-person-partition.md)
-
->
-
-
+>[Crear una partición de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. En **Administración**, haga clic en **Espacios de trabajo y particiones**.
 
@@ -35,7 +31,7 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
    ![](assets/two-5.png)
 
-1. Introduzca la partición de persona **Nombre**, los **espacios de trabajo **a a los que pertenecen y haga clic en **Guardar**.
+1. Introduzca la partición de persona **Nombre**, los **espacios de trabajo** a los que pertenecen y haga clic en **Guardar**.
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
    ![](assets/four-4.png)
 
-   Eso es todo. Parece que una característica tan poderosa debería ser compleja, pero no lo es.
+Eso es todo. Parece que una característica tan poderosa debería ser compleja, pero no lo es.
 
-   >[!CAUTION]
-   >
-   >Mida dos veces, corte una vez. No desea asignar una partición al espacio de trabajo incorrecto.
-
+>[!CAUTION]
+>
+>Mida dos veces, corte una vez. No desea asignar una partición al espacio de trabajo incorrecto.
