@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: Definir la configuración de ubicación predeterminada para una Suscripción - Documentos de marketing - Documentación del producto
 title: Definir la configuración de ubicación predeterminada para una Suscripción
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ En este artículo se describe cómo un administrador puede realizar la vista y e
 
 ## Establecer la configuración de ubicación predeterminada para una Suscripción {#set-default-location-settings-for-a-subscription-1}
 
-Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios siempre pueden [cambiar sus preferencias de idioma, configuración regional y zona horaria](select-your-language-locale-and-time-zone.md) en sus cuentas individuales.
+Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios siempre pueden [cambiar sus preferencias de idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) en sus cuentas individuales.
 
-1. En **Administración**,** **haga clic **Ubicación**.
+1. En **Administración**, haga clic en **Ubicación**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ Cuando un administrador cambia la configuración de ubicación predeterminada, l
 
    >[!NOTE]
    >
-   >Marketing to Sales Insight para [Salesforce.com](http://salesforce.com/) admite francés, alemán, japonés, portugués y español.
+   >Marketing to Sales Insight para [Salesforce.com](https://salesforce.com/) admite francés, alemán, japonés, portugués y español.
 
 ## Establecer la configuración de moneda predeterminada para una Suscripción {#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ Si está cambiando la configuración regional predeterminada para los usuarios, 
 
 >[!MORELIKETHIS]
 >
->* [Seleccione su idioma, configuración regional y huso horario](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [Seleccione su idioma, configuración regional y huso horario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
