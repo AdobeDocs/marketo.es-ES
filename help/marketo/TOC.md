@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guía de mercadotecnia
 user-guide-description: Documentación del producto de marketing
 translation-type: tm+mt
-source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '7840'
+source-wordcount: '7829'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 0%
          + [Crear una Audiencia coincidente en LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + Participación {#engage}
          + [Filtros de cuenta](product-docs/account-based-marketing/engage/account-filters.md)
-         + [Desencadenadores de cuentas](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [Déclencheur de cuenta](product-docs/account-based-marketing/engage/account-triggers.md)
       + Medida {#measure}
          + [PANEL principal de ABM](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
          + [Configuración de informes ABM](product-docs/account-based-marketing/measure/abm-report-setup.md)
@@ -209,7 +209,7 @@ ht-degree: 0%
          + [Editar y eliminar un objeto personalizado de marketing](product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
          + [Editar y eliminar campos de objetos personalizados de marketing](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [Importar datos de objeto personalizados](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
-         + [Desencadenar cambios de objetos personalizados](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
+         + [Déclencheur de cambios de objetos personalizados](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
       + Configuración {#settings}
          + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Cambiar la contraseña de marketing](product-docs/administration/settings/change-your-marketo-password.md)
@@ -263,21 +263,21 @@ ht-degree: 0%
       + Campañas inteligentes {#smart-campaigns}
          + [Explicación de las Campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + Creación de una Campaña inteligente {#creating-a-smart-campaign}
-            + [Explicación de las Campañas inteligentes por lotes y activadoras](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+            + [Explicación de las Campañas inteligentes por lotes y Déclencheur](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Crear una nueva Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
             + [Definir Lista inteligente para Campaña inteligente | Lote](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-            + [Definir Lista inteligente para Campaña inteligente | Activador](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+            + [Definir Lista inteligente para Campaña inteligente | Déclencheur](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [Lista de comprobación de Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + Uso de Campañas inteligentes {#using-smart-campaigns}
             + [Anular una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
-            + [Activar una Campaña inteligente de activador | Ficha Programación](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Activar una Campaña Déclencheur Smart | Ficha Programación](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/activate-a-trigger-smart-campaign-schedule-tab.md)
             + [Aplicar límites de comunicación a la Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-            + [Limpieza automática de Campañas de activador](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+            + [Limpieza automática de Campañas de Déclencheur](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
             + [Acciones de campaña: Clonar una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-clone-a-smart-campaign.md)
             + [Acciones de campaña: Eliminar una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [Cancelar una ejecución de Campaña por lotes programada](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [Cancelar una ejecución de Campaña por lotes recurrentes programada](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
-            + [Desactivar una Campaña inteligente de activador | Ficha Programación](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Desactivación de una Campaña Déclencheur Smart | Ficha Programación](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
             + [Editar reglas de cualificación en una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Mover una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Anular restricciones de persona en una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
@@ -285,7 +285,7 @@ ht-degree: 0%
             + [Ejecutar una Campaña inteligente por lotes ahora | Ficha Programación](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Programar una Campaña inteligente por lotes para que se ejecute posteriormente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Programar una Campaña por lotes recurrente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
-            + [Configuración de una Campaña inteligente de activación para ventas mediante &quot;Campaña solicitada&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
+            + [Configuración de una Campaña inteligente de Déclencheur para ventas mediante &quot;Se solicita la Campaña&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [Uso de la lógica de regla de Lista inteligente estándar](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Acciones de flujo {#flow-actions}
             + [Añadir un paso de flujo en una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
@@ -309,7 +309,7 @@ ht-degree: 0%
             + [Solicitud de Campaña](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Enviar alerta](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [Enviar correo electrónico](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-            + [Activadores y Filtros para Campañas inteligentes móviles](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
+            + [Déclencheur y Filtros para Campañas inteligentes móviles](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [Uso de un enlace web en una Campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Usar la opción Añadir en un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [Usar tokens en pasos de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
@@ -357,7 +357,7 @@ ht-degree: 0%
             + [Clonar una Lista o una Lista inteligente](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/clone-a-list-or-smart-list.md)
             + [Crear y cambiar Vistas para Listas y Listas inteligentes](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
             + [Filtros diferidos](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/inferred-filters.md)
-            + [Filtros y activadores de oportunidad](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/opportunity-filters-and-triggers.md)
+            + [Filtros y Déclencheur de oportunidad](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/opportunity-filters-and-triggers.md)
             + [Referencia a una Lista o Lista inteligente en espacios de trabajo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
             + [Actualizar una Lista o Lista inteligente](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.md)
             + [Ejecutar un solo paso de flujo desde una Lista inteligente](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
@@ -549,7 +549,7 @@ ht-degree: 0%
             + [Paso 2 de 3: Creación de un usuario de Salesforce para Marketing (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
             + [Paso 3 de 3: Connect Marketing y Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
          + Pasos opcionales {#optional-steps}
-            + [Añadir/quitar el campo de objeto personalizado como restricciones de Lista inteligente/activador](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [Añadir/quitar el campo de objeto personalizado como restricciones de Lista/Déclencheur inteligentes](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [Sincronización de Actividades personalizadas](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
             + [Editar asignaciones iniciales de campos](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
             + [Activar/Desactivar sincronización de Campaña](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [Probar las publicidades de posible cliente de Facebook para la integración de escritorio con Marketing](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [Probar las publicidades de posibles clientes de Facebook para la integración móvil con el marketing](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Explicación de las conversiones sin conexión de Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
-         + [Usar Filtros y activadores de anuncios de posibles clientes en una Campaña inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+         + [Usar Filtros y Déclencheur de posibles clientes en una Campaña inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Forms {#forms}
          + Creación de un formulario {#creating-a-form}
             + [Crear un formulario](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
@@ -781,7 +781,7 @@ ht-degree: 0%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -867,10 +867,10 @@ ht-degree: 0%
             + [Administrar datos de Perfiles sociales](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [Establecer requisito de uso compartido en redes sociales](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
             + [Configuración de LinkedIn Lead Gen Forms](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
-            + [Activadores y Filtros para Actividades sociales](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
+            + [Déclencheur y Filtros para Actividades sociales](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Usar correos electrónicos en promociones sociales](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [Usar Filtros de formulario de generación de posibles clientes de LinkedIn y activadores en una Campaña inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Usar Filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una Campaña inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Usar códigos de promoción para el cumplimiento de Ofertas](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Rendimiento social de vista](product-docs/demand-generation/social/social-functions/view-social-performance.md)
          + Apuestas {#sweepstakes}
@@ -1120,7 +1120,6 @@ ht-degree: 0%
             + [Probar correo electrónico no mostrado como visualizado](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + Envío de correo electrónico {#email-delivery}
             + [Información general del Canal de envío](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Cómo configurar el servidor SMTP de Outlook365 con Sales Connect](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [Configuración de un servidor SMTP](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [Configuración del Canal de Envío](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
          + Enviar Un Correo Electrónico De Ventas {#send-a-sales-email}
@@ -1374,7 +1373,7 @@ ht-degree: 0%
          + [Añadir un paso de flujo para SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Crear un mensaje SMS de Vibes](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
          + [El Panel de mensajes SMS](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
-         + [Usar mensajes SMS de vibraciones en activadores y Filtros de Lista inteligente](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [Utilizar mensajes SMS de vídeo en Déclencheur y Filtros de Lista inteligente](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalización {#personalization}
       + Segmentación y fragmentos {#segmentation-and-snippets}
          + Segmentación {#segmentation}
