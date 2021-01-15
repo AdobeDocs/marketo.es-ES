@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Crear un Canal de Programa - Documentos de marketing - Documentación del producto
 title: Creación de un Canal de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Un programa es una iniciativa de marketing específica. El canal está diseñado
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Obtenga más información sobre [programas](http://docs.marketo.com/display/docs/programs), el elemento más importante de Marketing.
+>Obtenga más información sobre [programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), el elemento más importante de Marketing.
 
 1. En la sección **Administración**, haga clic en **Etiquetas**.
 
@@ -45,27 +43,20 @@ Un programa es una iniciativa de marketing específica. El canal está diseñado
    >
    >**Ejemplo**
    >
-   >
    >Canal: Valla
    >
-   >    
-   >    
-   >    * Aplicar a: Predeterminado
-   >    * Progresión: Miembro, comprometido (si hay dudas, estos funcionan bien)
-   >    * Correcto: Comprometido
+   >* Aplicar a: Predeterminado
+   >* Progresión: Miembro, comprometido (si hay dudas, estos funcionan bien)
+   >* Correcto: Comprometido
 
-   >    
-   >    
+   >
    >Canal: Parte
    >
-   >    
-   >    
-   >    * Aplicar a: Evento
-   >    * Progresión: Invitado, registrado, sin mostrar y asistido
-   >    * Correcto: Asistente
+   >* Aplicar a: Evento
+   >* Progresión: Invitado, registrado, sin mostrar y asistido
+   >* Correcto: Asistente
 
-   >    
-   >    
+   >
    >Consulte las Progresiones de canales existentes para obtener una idea de cómo utilizarlos.
 
 1. Vamos con el ejemplo del canal del Partido. Asigne un nombre al nuevo **Canal** y seleccione el tipo de programa al que se aplicará.
@@ -113,10 +104,7 @@ Un programa es una iniciativa de marketing específica. El canal está diseñado
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Solo las personas con **Estado de registro móvil****** de **Registradas** y **Asistidas** serán visibles en las [Aplicaciones de registro móvil](http://docs.marketo.com/display/docs/events).
+   >Solo las personas con **Estado de registro móvil** de **Registradas** y **Asistidas** serán visibles en las [Aplicaciones de registro móvil](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Un programa es una iniciativa de marketing específica. El canal está diseñado
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    ¡Bien hecho! Cuando realice un nuevo programa de ese tipo, este nuevo canal será una de las opciones.
-
