@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Compartir segmentos entre espacios de trabajo y particiones - Documentos de marketing - Documentación del producto
 title: Compartir segmentos entre espacios de trabajo y particiones
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Este artículo es solo para clientes que tienen espacios de trabajo y particiones
+>Este artículo es solo para clientes que tienen espacios de trabajo y particiones.
 
 ## ¿Qué es una segmentación? {#whats-a-segmentation}
 
@@ -23,11 +23,9 @@ Marketo es bueno en elegir sólo a las personas adecuadas para un programa o una
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Obtenga más información sobre [cómo crear segmentaciones](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Obtenga más información sobre [cómo crear segmentaciones](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Una vez que tenga configuradas estas personas (**y** utiliza espacios de trabajo), querrá compartirlas entre los espacios de trabajo. A continuación se presentan algunas cosas buenas que saber:
+Una vez que tenga configuradas estas personas (_y_ utiliza espacios de trabajo), querrá compartirlas entre los espacios de trabajo. A continuación se presentan algunas cosas buenas que saber:
 
 ## Reglas y sugerencias {#rules-tips}
 
@@ -38,12 +36,10 @@ Una vez que tenga configuradas estas personas (**y** utiliza espacios de trabajo
 * El procesamiento de la segmentación solo se ejecuta en las personas del espacio de trabajo donde se crea la segmentación.
 
    * Cree la segmentación que desee compartir dentro del espacio de trabajo predeterminado.
-
       * Aprobar la segmentación
       * El espacio de trabajo compartido ve una carpeta bloqueada y la segmentación es de solo lectura.
       * No se puede editar la versión compartida. Solo puede editar la segmentación original donde se creó.
    * Al hacer clic en un segmento (por ejemplo, de salud) dentro de una segmentación compartida, las personas que vea serán sólo las personas en la partición asociadas con el espacio de trabajo que esté viendo.
-
       * Si crea una segmentación en Workspace 1 (WS1) y la comparte con WS2 y WS1 no tiene acceso a la partición para WS2, NO volverá a calcular la segmentación.
       * Si crea una segmentación en un espacio de trabajo que tiene particiones limitadas y luego la comparte con otro espacio de trabajo, ese espacio de trabajo que recibió la segmentación compartida solo verá a las personas si se superponen.
 
@@ -56,17 +52,15 @@ Una vez que tenga configuradas estas personas (**y** utiliza espacios de trabajo
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
-** ![](assets/image2015-5-27-16-3a26-3a48.png)
-
-**
+![](assets/image2015-5-27-16-3a26-3a48.png)
 
 ## Compartir una segmentación {#share-a-segmentation}
 
-1. Vaya a la base de datos.
+1. Vaya a la **Base de datos**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Haga clic con el botón derecho en Segmentos y seleccione Nuevas carpetas.
+1. Haga clic con el botón derecho en **Segmentaciones** y seleccione **Nuevas carpetas**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
@@ -78,11 +72,11 @@ Una vez que tenga configuradas estas personas (**y** utiliza espacios de trabajo
 
    ![](assets/image2017-3-29-8-3a41-3a3.png)
 
-1. Haga clic con el botón derecho en la carpeta y seleccione Compartir carpeta.
+1. Haga clic con el botón derecho en la carpeta y seleccione **Compartir carpeta**.
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Seleccione los espacios de trabajo con los que desea compartir la carpeta. Haga clic en Guardar.
+1. Seleccione los espacios de trabajo con los que desea compartir la carpeta. Haga clic en **Guardar**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
@@ -91,10 +85,3 @@ Una vez que tenga configuradas estas personas (**y** utiliza espacios de trabajo
    >El cuadro de diálogo muestra los espacios de trabajo con los que tiene permiso para vista, por lo que Marketing recomienda crear y compartir segmentos desde el espacio de trabajo Predeterminado que tiene visibilidad en todos los espacios de trabajo y particiones.
 
 La carpeta de origen se muestra en el árbol Base de datos con una flecha que indica que se comparte con otros espacios de trabajo. Desde el espacio de trabajo compartido, la carpeta se muestra con un bloqueo para indicar que el contenido de la carpeta se ha compartido desde otro espacio de trabajo y es de sólo lectura.
-
->[!NOTE]
->
->**Artículos relacionados**
->
->[Segmentación y recortes](http://docs.marketo.com/display/docs/segmentation+and+snippets)
-
