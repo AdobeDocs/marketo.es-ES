@@ -3,7 +3,7 @@ unique-page-id: 2359912
 description: Exportar una Lista de usuarios y funciones - Documentos de marketing - Documentación del producto
 title: Exportación de una Lista de usuarios y funciones
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -35,11 +35,10 @@ Es bastante fácil exportar una lista completa de sus usuarios y funciones de us
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
-1. Haga clic en el icono **Exportar **1.
+1. Haga clic en el icono **Exportar**.
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 
    ¡Y eso es todo amigos! Debe descargar el nuevo archivo de Excel.
 
    ![](assets/image2014-9-10-9-3a26-3a17.png)
-
