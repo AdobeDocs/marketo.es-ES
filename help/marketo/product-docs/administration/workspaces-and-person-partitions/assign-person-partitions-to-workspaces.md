@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Asignar particiones de persona a espacios de trabajo - Documentos de marketing - Documentación del producto
 title: Asignar particiones de persona a espacios de trabajo
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
 >[!PREREQUISITES]
 >
->[Crear un nuevo espacio de trabajo](create-a-new-workspace.md)
+>[Crear un nuevo espacio de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 >[!CAUTION]
 >
->Los espacios de trabajo y las particiones de persona pueden ser complejos. Póngase en contacto con [Soporte técnico de Marketing](http://support.marketo.com/) para obtener ayuda sobre cómo configurarlas.
+>Los espacios de trabajo y las particiones de persona pueden ser complejos. Póngase en contacto con [Soporte técnico de Marketing](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener ayuda sobre cómo configurarlas.
 
-1. En Administración, haga clic en Espacios de trabajo y particiones.
+1. En Administración, haga clic en **Espacios de trabajo y particiones**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -43,7 +43,7 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
    ![](assets/three-3.png)
 
-   Las particiones personales primarias son la opción predeterminada en la que se introducen todos los pueblos. Utilice [pasos de flujo](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](assigning-person-partitions-with-assignment-rules.md) para mover a las personas.
+   Las particiones personales primarias son la opción predeterminada en la que se introducen todos los pueblos. Utilice [pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para mover a las personas.
 
 1. Haga clic en **Guardar**.
 
@@ -53,11 +53,8 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-   ¡Felicitaciones! Ha editado correctamente su espacio de trabajo.
+¡Felicitaciones! Ha editado correctamente su espacio de trabajo.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Buceo profundo**
->
->[Explicación de los espacios de trabajo y las particiones](understanding-workspaces-and-person-partitions.md) personales.
-
+>[Explicación de los espacios de trabajo y las particiones](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) personales.
