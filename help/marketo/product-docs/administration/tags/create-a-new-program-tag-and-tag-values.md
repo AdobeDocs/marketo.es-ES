@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: Crear una nueva etiqueta de Programa y valores de etiqueta - Documentos de marketing - Documentación del producto
 title: Crear una nueva etiqueta de Programa y valores de etiqueta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Se requieren permisos de administración**
 
-Puede crear [etiquetas](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para sus programas y asignar valores a la etiqueta.
+Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para sus programas y asignar valores a la etiqueta.
 
 >[!NOTE]
 >
