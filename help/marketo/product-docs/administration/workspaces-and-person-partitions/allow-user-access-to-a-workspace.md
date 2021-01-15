@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: Permitir el acceso del usuario a un espacio de trabajo - Documentos de marketing - Documentación del producto
 title: Permitir el acceso del usuario a un espacio de trabajo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Los espacios de trabajo pueden ser por cualquier motivo (como la unidad de negoc
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Obtenga más información sobre [espacios de trabajo](understanding-workspaces-and-person-partitions.md).
+>Obtenga más información sobre [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. En Administración, haga clic en Usuarios y funciones.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. En la ficha **Usuarios **seleccione el usuario y haga clic en **Editar usuario**.
+1. En la ficha **Usuarios**, seleccione el usuario y haga clic en **Editar usuario**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ Los espacios de trabajo pueden ser por cualquier motivo (como la unidad de negoc
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   ¡bueno! Ahora, cuando inicien sesión, verán todos los espacios de trabajo a los que les dieron acceso.
-
+¡bueno! Ahora, cuando inicien sesión, verán todos los espacios de trabajo a los que les dieron acceso.
