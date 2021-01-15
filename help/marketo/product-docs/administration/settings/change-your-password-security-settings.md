@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Cambiar la configuración de seguridad de contraseña - Documentos de marketing - Documentación del producto
 title: Cambiar la configuración de seguridad de contraseña
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ Controle la normativa de contraseñas de su suscripción. Así es como.
 
    >[!NOTE]
    >
-   >**Definición**
-   >
-   >
    >Una plantilla es sólo una configuración prediseñada. Standard es bueno. La Alta Seguridad es la más fuerte. Personalizado le permite crear su propio.
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ Controle la normativa de contraseñas de su suscripción. Así es como.
    >
    >En **Personalizado**, marque las casillas para indicar qué características desea que incluyan los usuarios al crear contraseñas.
 
-1. Establezca la **Caducidad**.** **Esta función requiere automáticamente que los usuarios restablezcan sus contraseñas después de un determinado período de tiempo. Esto incluye también al usuario administrador.
+1. Establezca la **Caducidad**. Esta función requiere automáticamente que los usuarios restablezcan sus contraseñas después de un determinado período de tiempo. Esto incluye también al usuario administrador.
 
    >[!CAUTION]
    >
-   >No se notificarán los cambios a los usuarios existentes. Establezca **Caducidad **en 30 días primero para asegurarse de que todos se han actualizado a la nueva configuración y, a continuación, vuelva a cambiarla a la cadencia original.
+   >No se notificarán los cambios a los usuarios existentes. Establezca **Caducidad** en 30 días primero para asegurarse de que todos se han actualizado a la nueva configuración y, a continuación, vuelva a cambiarla a la cadencia original.
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ Controle la normativa de contraseñas de su suscripción. Así es como.
    ![](assets/inactivesession.png)
 
    La seguridad es un asunto serio. Te dimos la espalda.
-
