@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descripciones de los permisos de funciones - Documentos de marketing - Documentación del producto
 title: Descripciones de los permisos de funciones
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Información adicional sobre permisos:
 
 ## Permisos disponibles {#available-permissions}
 
-Cuando [crea o edita una función](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite esa función marcando las casillas correspondientes.
+Cuando [crea o edita una función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite esa función marcando las casillas correspondientes.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ Vista y realice cambios en la configuración en la sección Mi cuenta de Adminis
 * Canales de acceso: proporciona a los usuarios acceso solo para modificar la etiqueta de Canal, no otras etiquetas personalizadas
 * Límite de comunicación de acceso: otorga a los usuarios acceso para habilitar un límite de comunicación en el administrador
 * Access CRM: otorga a los usuarios acceso a CRM, como Salesforce o Microsoft Dynamics, en Administración
-* Acceso [Data.com](http://Data.com): otorga a los usuarios acceso a la acción de flujo de Data.com
+* Acceso [Data.com](https://Data.com): otorga a los usuarios acceso a la acción de flujo de Data.com
 * Administración de correo electrónico de acceso: otorga a los usuarios acceso al administrador de correo electrónico para cambiar la configuración predeterminada, como los dominios de cancelación de suscripción y marca
 * Acceso a socios de Evento: otorga a los usuarios acceso a LaunchPoint en Administración
 * Access Field Management - Proporciona a los usuarios acceso a Administración de campos en Administración
@@ -105,14 +105,12 @@ Permite a los usuarios acceder a las presentaciones de calendario ??- ¿permite 
 Permite a los usuarios acceder a la ficha Design Studio y a la vista del árbol, pero no a los detalles.
 
 * Acceso a correo electrónico
-
    * Editar correo electrónico: otorga a los usuarios permiso para editar, crear y clonar correos electrónicos
+      * Hacer que el correo electrónico funcione: otorga a los usuarios permiso para hacer operativo un correo electrónico. Consulte: [Hacer operativo un mensaje de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Hacer que el correo electrónico funcione: otorga a los usuarios permiso para hacer operativo un correo electrónico. Consulte: [Hacer operativo un mensaje de correo electrónico](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * Aprobar correo electrónico: permite a los usuarios aprobar correos electrónicos.
-   * Eliminar correo electrónico: permite a los usuarios eliminar correos electrónicos.
-   * Definir dominio de marca: permite a los usuarios trabajar con dominios de marca. Consulte: [Añadir varios dominios de marca](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * Aprobar correo electrónico: permite a los usuarios aprobar correos electrónicos.
+      * Eliminar correo electrónico: permite a los usuarios eliminar correos electrónicos.
+      * Definir dominio de marca: permite a los usuarios trabajar con dominios de marca. Consulte: [Añadir un dominio de marca adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acceder a la plantilla de correo electrónico
 
@@ -193,7 +191,7 @@ Vista de la ficha Actividades de marketing, campañas y carpetas de campaña.
    * Editar notificación push
 
 * Premios Access
-* Activar Campaña de activador
+* Activar Campaña Déclencheur
 * Aprobar Programa de correo electrónico
 * Clonar recurso de marketing
 * Eliminar recurso de mercadotecnia
@@ -220,5 +218,3 @@ Administración del espacio de trabajo
 
 * Acceso de administrador para un espacio de trabajo específico (solo si tiene habilitados los espacios de trabajo)
 * Mover recursos entre espacios de trabajo (solo si tiene habilitados espacios de trabajo)
-
-Acceso a la aplicación móvil
