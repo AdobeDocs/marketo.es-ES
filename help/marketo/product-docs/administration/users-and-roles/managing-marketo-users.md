@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Administración de usuarios de marketing - Documentos de marketing - Documentación del producto
 title: Administración de usuarios de mercadotecnia
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Escriba la **dirección de correo electrónico**, **Nombre** y **Apellidos. **
+1. Introduzca la **dirección de correo electrónico**, **Nombre** y **Apellidos**.
 
-   ** ![](assets/image2016-5-24-9-3a45-3a30.png)
-
-   **
+   ![](assets/image2016-5-24-9-3a45-3a30.png)
 
 1. De forma opcional, introduzca un motivo para la invitación y seleccione una fecha de caducidad en el campo **El acceso caduca** mediante el selector de fechas.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
    >
    >Cuando llega la fecha de caducidad, el usuario recibe una notificación de caducidad y su cuenta está bloqueada.
 
-1. Seleccione el **Rol **de su elección y haga clic en **Siguiente**.
+1. Seleccione la **función** de su elección y haga clic en **Siguiente**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -67,29 +65,29 @@ El nuevo usuario aparece ahora en la ficha Usuarios y recibirá un correo electr
 
 ## Eliminar usuarios {#delete-users}
 
-1. Vaya a Administración y haga clic en Usuarios y funciones.
+1. Vaya a Administración y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Seleccione el usuario que desee eliminar y haga clic en Eliminar usuario.
+1. Seleccione el usuario que desee eliminar y haga clic en **Eliminar usuario**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Confirme haciendo clic en Aceptar.
+1. Confirme haciendo clic en **Aceptar**.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Restablecer contraseñas de usuario {#reset-user-passwords}
 
-1. Vaya a Administración y haga clic en Usuarios y funciones.
+1. Vaya a Administración y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Seleccione un usuario y haga clic en Restablecer contraseña.
+1. Seleccione un usuario y haga clic en **Restablecer contraseña**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Haga clic en Cerrar para descartar el mensaje.
+1. Haga clic en **Cerrar** para descartar el mensaje.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
