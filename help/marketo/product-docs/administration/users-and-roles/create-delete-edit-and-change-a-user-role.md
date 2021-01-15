@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Crear, eliminar, editar y cambiar una función de usuario - Documentos de marketing - Documentación del producto
 title: Crear, eliminar, editar y cambiar una función de usuario
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Crear una función {#create-a-role}
 
-1. Vaya a **Administración **y haga clic en **Usuarios y roles**.
+1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vaya a la ficha** Roles** y haga clic en **Nueva función**.
+1. Vaya a la ficha **Funciones** y haga clic en **Nueva función**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## Eliminar una función {#delete-a-role}
 
-1. En Administración,** **haga clic en **Usuarios y roles**.
+1. En **Administración**, haga clic en **Usuarios y roles**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. En la ficha **Roles **seleccione una función y haga clic en **Eliminar función**.
+1. En la ficha **Funciones**, seleccione una función y haga clic en **Eliminar función**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Haga clic en la ficha **Funciones **Funciones.
+1. Haga clic en la ficha **Roles**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Seleccione la función que desee editar y haga clic en** Editar función**.
+1. Seleccione la función que desee editar y haga clic en **Editar función**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿Desea actualizar la dirección de correo electrónico de la cuenta? [Aprende cómo aquí](http://docs.marketo.com/x/3wFI).
+   >¿Desea actualizar la dirección de correo electrónico de la cuenta? [Aprende cómo aquí](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Cambiar la función de un usuario {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Si deja varias funciones seleccionadas, Marketo pasará de forma predeterminada al permiso más restrictivo.
-
-Increíble, ¡ahora estás en un rollo!  (¿Entiendes?)
