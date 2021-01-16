@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Editar reglas de cualificación en una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Editar reglas de cualificación en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Editar reglas de cualificación en una Campaña inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
-Las reglas de cualificación controlan cuántas veces alguien puede pasar por el flujo en una campaña inteligente. De forma predeterminada, aunque alguien active una campaña inteligente varias veces, solo se enviará una vez a través del flujo. A continuación se explica cómo modificar esta configuración.
+Las reglas de cualificación controlan cuántas veces alguien puede pasar por el flujo en una campaña inteligente. De forma predeterminada, incluso si alguien déclencheur una campaña inteligente varias veces, solo se enviará una vez a través del flujo. A continuación se explica cómo modificar esta configuración.
 
 1. En la campaña inteligente, haga clic en la ficha **Programar** y, a continuación, **Editar configuración**.
 
@@ -33,18 +33,10 @@ Las reglas de cualificación controlan cuántas veces alguien puede pasar por el
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Los límites de comunicación no se aplican a campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicar límites de comunicación a una campaña inteligente](apply-communication-limits-to-smart-campaign.md).
+   >Los límites de comunicación no se aplican a campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicar límites de comunicación a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Aplicar límites de comunicación a Campañas inteligentes](apply-communication-limits-to-smart-campaign.md)
-
+   >[Aplicar límites de comunicación a Campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 ¡Misión cumplida! Ahora sabe cómo controlar las reglas de cualificación en una campaña inteligente.
