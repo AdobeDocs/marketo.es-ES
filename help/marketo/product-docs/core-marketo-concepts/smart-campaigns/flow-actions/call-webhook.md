@@ -3,9 +3,9 @@ unique-page-id: 1147023
 description: Llamar a Webgancho - Documentos de marketing - Documentación del producto
 title: Llamar a Webock
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creación de un enlace web](../../../../product-docs/administration/additional-integrations/create-a-webhook.md)
-
->
-
-
+>[Creación de un enlace web](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
 ## Información general {#overview}
 
@@ -29,9 +25,7 @@ Los Webhooks le permiten interactuar con servicios de terceros. Envíe o reciba 
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Conozca las muchas cosas fascinantes que [Webhooks](http://developers.marketo.com/documentation/webhooks/) puede hacer por usted.
+>Conozca las muchas cosas fascinantes que [Webhooks](https://developers.marketo.com/documentation/webhooks/) puede hacer por usted.
 
 ## Uso {#usage}
 
@@ -41,13 +35,6 @@ Seleccione un **Webgancho** en la lista desplegable.
 
 ¡Eso es todo! Su webgancho ahora se invocará siempre que las personas entren en el flujo de campaña inteligente.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Uso de un enlace web en una Campaña inteligente](use-a-webhook-in-a-smart-campaign.md)
-
->
-
-
-
+>[Uso de un enlace web en una Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
