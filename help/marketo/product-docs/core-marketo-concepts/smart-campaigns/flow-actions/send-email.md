@@ -3,9 +3,9 @@ unique-page-id: 1146948
 description: 'Enviar correo electrónico: documentos de marketing: documentación del producto'
 title: Enviar correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-El paso **Enviar correo electrónico **flujo se puede usar como parte de campañas o como un solo paso de flujo para enviar correos electrónicos a tu gente.
+El paso de flujo **Enviar correo electrónico** puede utilizarse como parte de campañas o como un solo paso de flujo para enviar correos electrónicos a sus usuarios.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -29,14 +29,10 @@ Puede previsualización del correo electrónico seleccionado desde el paso de fl
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >El correo electrónico debe aprobarse si desea seleccionarlo en el paso de flujo.
 
 1. Haga clic en el icono de previsualización para ver el correo electrónico seleccionado.
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 
-   Se abrirá una nueva ficha o ventana donde podrá ver el correo electrónico.
-
+Se abrirá una nueva ficha o ventana donde podrá ver el correo electrónico.
