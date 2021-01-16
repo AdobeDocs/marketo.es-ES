@@ -3,9 +3,9 @@ unique-page-id: 1147060
 description: Cancelar una ejecución de Campaña por lotes recurrentes programada - Documentos de marketing - Documentación del producto
 title: Cancelar una ejecución de Campaña por lotes recurrentes programada
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Haga clic en **Programar** **Periodicidad**.
+1. Haga clic en **Programar periodicidad**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >Puede cancelar una sola ejecución haciendo clic en ![—](assets/image2014-9-22-16-3a45-3a42.png) al lado. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](cancel-a-scheduled-batch-campaign-run.md).
+   >Puede cancelar una sola ejecución haciendo clic en ![rojo x](assets/image2014-9-22-16-3a45-3a42.png) al lado. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
 1. Establezca Schedule en **None** y luego **Save**.
 
@@ -37,12 +37,6 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
    >
    >Esto cancela futuras ejecuciones, pero si se está ejecutando una campaña inteligente, no podrá cancelarla.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Cancelar una ejecución de Campaña por lotes programada](cancel-a-scheduled-batch-campaign-run.md)
-
-
+   >[Cancelar una ejecución de Campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
