@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Usar Añadir opciones en un paso de flujo - Documentos de marketing - Documentación del producto
 title: Usar la opción Añadir en un paso de flujo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir un paso de flujo en una Campaña inteligente](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[Añadir un paso de flujo en una Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **Añada las** opciones que utiliza un paso de flujo y diga &quot;Depende&quot; al elegir los detalles.
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Solo se aplica la primera opción coincidente al paso de flujo. Aprenda a [reordenar &quot;Añadir opción&quot; en una acción de flujo](reorder-add-choice-in-a-flow-step.md).
+   >Solo se aplica la primera opción coincidente al paso de flujo. Aprenda a [reordenar &quot;Añadir opción&quot; en una acción de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
 
-   >[!NOTE]
+   ¡bueno! Ahora puede crear una sola campaña inteligente con opciones de paso de flujo en lugar de crear varias campañas inteligentes para cada opción.
+
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Reordenar &quot;Añadir opción&quot; en un paso de flujo](reorder-add-choice-in-a-flow-step.md)
-
-
-¡bueno! Ahora puede crear una sola campaña inteligente con opciones de paso de flujo en lugar de crear varias campañas inteligentes para cada opción.
+   >[Reordenar la opción Añadir en un paso de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
