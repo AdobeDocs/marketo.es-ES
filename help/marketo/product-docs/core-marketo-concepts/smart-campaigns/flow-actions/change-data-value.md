@@ -3,9 +3,9 @@ unique-page-id: 1146960
 description: Cambiar valor de datos - Documentos de marketing - Documentación del producto
 title: Cambiar valor de datos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Puede utilizar Marketo para actualizar el valor de un campo. Para ello, debe utilizar la acción **Cambiar valor de datos **flujo.
+Puede utilizar Marketo para actualizar el valor de un campo. Para ello, utilizará la acción de flujo **Cambiar valor de datos**.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
 >[!NOTE]
 >
->También puede bloquear la actualización de un campo. Consulte [Bloqueo de actualizaciones en un campo](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) para obtener más información.
+>También puede bloquear la actualización de un campo. Consulte [Bloqueo de actualizaciones en un campo](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md) para obtener más información.
 
 ## Uso {#usage}
 
@@ -35,22 +35,14 @@ Puede utilizar Marketo para actualizar el valor de un campo. Para ello, debe uti
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >También puede utilizar tokens en **Nuevo valor**.
 
    >[!TIP]
    >
-   >Puede escribir &#39;NULL&#39; (sin comillas, todo mayúsculas) en **Nuevo valor** para borrar el campo. Consulte [Borrar valores de campo](change-data-value/clear-field-values.md) para obtener más información.
+   >Puede escribir &#39;NULL&#39; (sin comillas, todo mayúsculas) en **Nuevo valor** para borrar el campo. Consulte [Borrar valores de campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md) para obtener más información.
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Tokens para pasos de flujo](use-tokens-in-flow-steps.md)
-   >    * [Anexar datos a un campo](append-data-to-a-field.md)
-
+   >* [Tokens para pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
+   >* [Anexar datos a un campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
 
