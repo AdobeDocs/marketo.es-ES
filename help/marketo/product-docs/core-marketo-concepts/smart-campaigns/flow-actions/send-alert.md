@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Enviar alerta - Documentos de marketing - Documentación del producto
 title: Enviar alerta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo puede enviar una alerta por correo electrónico con información persona
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
    >La alerta por correo electrónico debe contener toda la información del encabezado y estar en el estado **Aprobado**.
 
 1. Puede hacer clic en el icono de previsualización para asegurarse de que ha seleccionado el correo electrónico correcto.
@@ -36,8 +34,6 @@ Marketo puede enviar una alerta por correo electrónico con información persona
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
    >
    >Asegúrese de utilizar el distintivo **Enviar información de alerta** en su correo electrónico.
 
@@ -51,11 +47,10 @@ Marketo puede enviar una alerta por correo electrónico con información persona
 
    >[!TIP]
    >
-   >En las campañas desencadenadoras, puede utilizar tokens en **A otros correos electrónicos** como `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` siempre y cuando los valores sean direcciones de correo electrónico válidas. Los tokens de **A otros correos electrónicos** no funcionarán en una campaña por lotes.
+   >En campañas de déclencheur, puede utilizar tokens en **A otros correos electrónicos** como `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` siempre y cuando los valores sean direcciones de correo electrónico válidas. Los tokens de **A otros correos electrónicos** no funcionarán en una campaña por lotes.
 
 ¡Eso es todo! Ahora sabe cómo utilizar el paso de flujo **Enviar alerta**.
 
 >[!MORELIKETHIS]
 >
->[Crear un correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Crear un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
