@@ -1,9 +1,9 @@
 ---
 unique-page-id: 1146935
-description: Activar una Campaña inteligente de activador | Ficha Programación - Documentos de marketing - Documentación del producto
-title: Activar una Campaña inteligente de activador | Ficha Programación
+description: Activar una Campaña Déclencheur Smart | Ficha Programación - Documentos de marketing - Documentación del producto
+title: Activar una Campaña Déclencheur Smart | Ficha Programación
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Activar una Campaña inteligente de activador | Ficha Programar {#activate-a-trigger-smart-campaign-schedule-tab}
+# Activar una Campaña Déclencheur Smart | Ficha Programar {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Activar una campaña inteligente de activación es como activarla. Esto es lo que hay que hacer.
+Activar una campaña inteligente de déclencheur es como activarla. Esto es lo que hay que hacer.
 
 1. En la ficha **Programar** de la campaña inteligente, haga clic en **Activar**.
 
