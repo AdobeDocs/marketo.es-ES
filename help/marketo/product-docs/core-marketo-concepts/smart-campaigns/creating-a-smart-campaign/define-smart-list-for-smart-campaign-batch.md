@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: Definir Lista inteligente para Campaña inteligente | Lote - Documentos de marketing - Documentación del producto
 title: Definir Lista inteligente para Campaña inteligente | Lote
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,7 @@ Las listas inteligentes son el mecanismo a lo largo del Marketing para definir &
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Puede hacer que una campaña inteligente se ejecute en una persona a la vez en función de eventos en directo agregando activadores, lo que coloca la campaña inteligente en el modo **Activador**.
+   >Puede hacer que una campaña inteligente se ejecute en una persona a la vez en función de eventos en directo agregando déclencheur, lo que coloca la campaña inteligente en modo **Déclencheur**.
 
 1. Haga clic en la lista desplegable y elija un operador de filtro para el filtro que elija.
 
@@ -48,17 +45,12 @@ Las listas inteligentes son el mecanismo a lo largo del Marketing para definir &
 
    >[!NOTE]
    >
-   >De forma predeterminada, las personas que cumplen TODAS las reglas de lista inteligente están cualificadas. Esto se puede modificar para adaptarlo a sus necesidades de campaña. Consulte [Reglas de Lista inteligentes para Lógica compleja](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) para obtener más información.
+   >De forma predeterminada, las personas que cumplen TODAS las reglas de lista inteligente están cualificadas. Esto se puede modificar para adaptarlo a sus necesidades de campaña. Consulte [Reglas de Lista inteligentes para Lógica compleja](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) para obtener más información.
 
-   Para activar eventos activos de una persona a la vez, aprenda a [Definir Lista inteligente para Campaña inteligente | Activador](define-smart-list-for-smart-campaign-trigger.md).
+   Para realizar déclencheur en eventos activos de una persona a la vez, aprenda a [Definir Lista inteligente para Campaña inteligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Definir Lista inteligente para Campaña inteligente | Activador](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [Añadir un paso de flujo en una Campaña inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [Definir Lista inteligente para Campaña inteligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [Añadir un paso de flujo en una Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
