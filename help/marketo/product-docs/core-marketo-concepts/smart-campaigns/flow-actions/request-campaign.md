@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Campaña de solicitudes - Documentos de marketing - Documentación del producto
 title: Solicitud de Campaña
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Puede colocar personas en una campaña específica mediante el paso de flujo ún
 
 >[!NOTE]
 >
->La campaña en la que está colocando a la persona debe estar activa y tener el activador ** [Campaña solicitada](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>La campaña en la que está colocando a la persona debe estar activa y tener el déclencheur **[Se solicita](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** la Campaña.
 
 1. En la **Base de datos**, busque y seleccione la persona o personas que desee.
 
@@ -43,5 +43,4 @@ Puede colocar personas en una campaña específica mediante el paso de flujo ún
 
 >[!TIP]
 >
->Utilice el activador o filtro **Campaña solicitada** para encontrar las personas afectadas por este paso de flujo.
-
+>Utilice el déclencheur o el filtro **Campaña se solicita** para encontrar las personas afectadas por este paso de flujo.
