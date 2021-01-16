@@ -3,7 +3,7 @@ unique-page-id: 6094949
 description: Mover una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Mover una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Las campañas inteligentes también se pueden mover mediante la función de movi
    ¡Los cinco mejores! Esta campaña inteligente se ha movido.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-
