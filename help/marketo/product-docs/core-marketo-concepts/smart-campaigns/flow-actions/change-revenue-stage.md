@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Etapa de cambio de ingresos - Documentos de marketing - Documentación del producto
 title: Etapa de cambio de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Si está utilizando el módulo de ciclo de ingresos y tiene un modelo aprobado, 
    >[!CAUTION]
    >
    >El almacén de datos presta especial atención al momento en que los posibles clientes se desplazan entre etapas. Esto puede crear datos incorrectos si se utilizan incorrectamente.
-
