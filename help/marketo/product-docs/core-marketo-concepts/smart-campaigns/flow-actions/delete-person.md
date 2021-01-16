@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: Eliminar persona - Documentos de marketing - Documentación del producto
 title: Eliminar persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ Puede eliminar de Marketing y no de su CRM, de este modo:
 >[!NOTE]
 >
 >Eliminar a la persona de su CRM **solo funciona con Salesforce**. Si elimina una persona de Marketing y decide mantenerla en Salesforce, se volverá a crear en Marketing si su registro de Salesforce se actualiza alguna vez.
-
