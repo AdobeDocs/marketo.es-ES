@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: Acciones de campaña - Clonar una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: 'Acciones de campaña: Clonar una Campaña inteligente'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Clonar campañas puede ahorrarle tiempo. No es necesario construir todo desde ce
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Elija la opción **Clonar a **adecuada. En este ejemplo, vamos a elegir **Programas**.
+1. Elija la opción **Clonar a** correspondiente. En este ejemplo, vamos a elegir **Programas**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ Clonar campañas puede ahorrarle tiempo. No es necesario construir todo desde ce
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   ¡Y listo! No trabajes duro, trabaja inteligente.
-
+¡Y listo!
