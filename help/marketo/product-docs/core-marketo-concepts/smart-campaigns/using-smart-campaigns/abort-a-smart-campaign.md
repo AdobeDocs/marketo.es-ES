@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: Anular una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Anular una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ A veces lanzas una campaña inteligente y te das cuenta inmediatamente de que fu
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Haga clic en la lista desplegable** Acciones de Campaña**. Seleccione **Anular Campaña**.
+1. Haga clic en la lista desplegable **Acciones de Campaña**. Seleccione **Anular Campaña**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
@@ -33,19 +33,16 @@ A veces lanzas una campaña inteligente y te das cuenta inmediatamente de que fu
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >El aborto no deshace los pasos ya finalizados, simplemente evita que se produzcan más. (Ejemplo: Los correos electrónicos no se pueden entregar).
 
    ![](assets/image2014-9-22-16-3a20-3a0.png)
 
    >[!NOTE]
    >
-   >Observe la ficha **Resultados** de la campaña inteligente para ver qué acciones se realizaron antes de la anulación. También encontrará una [notificación](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con detalles adicionales.
+   >Observe la ficha **Resultados** de la campaña inteligente para ver qué acciones se realizaron antes de la anulación. También encontrará una [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con detalles adicionales.
 
    >[!TIP]
    >
-   >¿Desea eliminar una persona del flujo en una campaña desencadenadora? Consulte [Eliminar del flujo](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >¿Desea eliminar una persona del flujo de una campaña de déclencheur? Consulte [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Compruebe siempre el doble de su trabajo, pero este freno de emergencia puede resultar útil en el futuro.
