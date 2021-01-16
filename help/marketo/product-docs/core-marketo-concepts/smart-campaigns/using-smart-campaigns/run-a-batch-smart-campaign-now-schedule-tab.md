@@ -3,9 +3,9 @@ unique-page-id: 1146933
 description: Ejecutar una Campaña inteligente por lotes ahora | Ficha Programación - Documentos de marketing - Documentación del producto
 title: Ejecutar una Campaña inteligente por lotes ahora | Ficha Programación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Asegúrese de que **Run Now **está seleccionado y haga clic en **Run**.
+1. Asegúrese de que **Ejecutar ahora** está seleccionado y haga clic en **Ejecutar**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,15 +27,10 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   ¡Fácil! También puede [programar ejecuciones para más adelante](schedule-a-batch-smart-campaign-to-run-later.md) si lo prefiere.
+   ¡Fácil! También puede [programar ejecuciones para más adelante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) si lo prefiere.
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Programar una Campaña inteligente por lotes para que se ejecute posteriormente](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [Programar una Campaña por lotes recurrente](schedule-a-recurring-batch-campaign.md)
-
+   >* [Programar una Campaña inteligente por lotes para que se ejecute posteriormente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Programar una Campaña por lotes recurrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
