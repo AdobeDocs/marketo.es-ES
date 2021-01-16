@@ -3,9 +3,9 @@ unique-page-id: 1147324
 description: Borrar valores de campo - Documentos de marketing - Documentación del producto
 title: Borrar valores de campo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Borrar valores de campo {#clear-field-values}
 
-** [Cambiar valor de datos](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** es bueno, pero ¿cómo *elimina* el valor por completo? ¡Buena pregunta!
+[Cambiar ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valores de datos es bueno, pero ¿cómo se  __ elimina el valor por completo? ¡Buena pregunta!
 
-1. En el paso de flujo, elija el campo que desea borrar y escriba **NULL ** (todos los mayúsculas) como **Nuevo valor**.
+1. En el paso de flujo, elija el campo que desea borrar y escriba **NULL** (todos mayúsculas) como **Nuevo valor**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
@@ -26,7 +26,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Dejar el nuevo valor en blanco o simplemente introducir un ESPACIO no vaciará realmente el campo. Debe escribir NULL. Además, recuerde que los pasos de flujo no se pueden deshacer después de ejecutarse.
-
-   ![(sonrisa)](assets/smile.svg)
-
-Por cierto, esta pequeña técnica está en el examen de certificación de Marketing. ¡No les digas que lo dijimos!
