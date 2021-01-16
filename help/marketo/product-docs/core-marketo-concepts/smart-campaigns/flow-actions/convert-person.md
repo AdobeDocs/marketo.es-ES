@@ -3,7 +3,7 @@ unique-page-id: 1147019
 description: Convertir persona - Documentos de marketing - Documentación del producto
 title: Convertir persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -41,5 +41,4 @@ Utilice este paso de flujo para convertir a una persona en un contacto en Salesf
 
    ![](assets/four-3.png)
 
-   ¡Y ahí tienes!
-
+¡Y ahí tienes!
