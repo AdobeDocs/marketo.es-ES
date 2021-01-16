@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Explicación del contenido predictivo - Documentos de marketing - Documentación del producto
 title: Explicación del contenido predictivo
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
-Después de que [apruebe un título para contenido predictivo](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), trabajará en él aquí. La página Contenido predictivo muestra todos los títulos aprobados para el contenido predictivo.
+Después de que [apruebe un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), trabajará en él aquí. La página Contenido predictivo muestra todos los títulos aprobados para el contenido predictivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
