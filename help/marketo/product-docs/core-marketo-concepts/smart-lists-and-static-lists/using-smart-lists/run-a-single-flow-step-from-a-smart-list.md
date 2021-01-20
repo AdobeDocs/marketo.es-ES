@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: Ejecutar un solo paso de flujo desde una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Ejecutar un solo paso de flujo desde una Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Vaya a **Actividades de marketing**.
 
@@ -35,7 +31,7 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
    >
    >Tanto las listas estáticas como las listas inteligentes tienen esta funcionalidad.
 
-1. Haga clic en **Seleccionar todo**. También puede utilizar** Ctrl/Cmd** y hacer clic para seleccionar algunos registros manualmente.
+1. Haga clic en **Seleccionar todo**. También puede utilizar **Ctrl/Cmd** y hacer clic para seleccionar algunos registros manualmente.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
    >
    >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar todo** se seleccionarán todas las personas en todas las páginas.
 
-1. En **Persona** **Acciones**, seleccione el paso de flujo que desee. En este ejemplo usaremos [Cambiar valor de datos](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. En **Persona** **Acciones**, seleccione el paso de flujo que desee. En este ejemplo usaremos [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
