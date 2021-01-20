@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: Eliminar persona de SFDC - Documentos de marketing - Documentación del producto
 title: Eliminar persona de SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Si necesita eliminar un conjunto específico de leads de Salesforce pero dejarlo
    >[!CAUTION]
    >
    >Si establece **Eliminar en Marketing** en **true** y elimina las personas de Marketing y los posibles clientes de Salesforce, éstas desaparecerán para siempre. Esto no se puede deshacer.
-
