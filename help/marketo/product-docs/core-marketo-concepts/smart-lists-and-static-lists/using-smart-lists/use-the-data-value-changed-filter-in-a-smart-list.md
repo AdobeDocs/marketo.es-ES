@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Utilizar el filtro de valores de datos cambiados en una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Utilizar el filtro de cambio de valor de datos en una Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ Los valores cambian constantemente y se actualizan en la base de datos de Market
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Vaya al área **Actividades de mercadotecnia **.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ Los valores cambian constantemente y se actualizan en la base de datos de Market
 
    ![](assets/four.png)
 
-Este filtro buscará a todas las personas que hayan cambiado su estado (cualquier cambio). Si desea mejorar aún más, intente [agregar una restricción a un filtro de lista inteligente](add-a-constraint-to-a-smart-list-filter.md).
-
->[!NOTE]
->
->**Artículos relacionados**
->
->* [Añadir una restricción a un filtro de Lista inteligente](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+Este filtro buscará a todas las personas que hayan cambiado su estado (cualquier cambio). Si desea mejorar aún más, intente [agregar una restricción a un filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
