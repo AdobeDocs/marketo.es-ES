@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: Usar una duración en un paso de flujo de espera - Documentos de marketing - Documentación del producto
 title: Usar una duración en un paso de flujo de espera
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar una duración en un paso de flujo de espera {#use-a-duration-in-a-wait-flow-step}
 
-Puede utilizar el paso de flujo de espera para pausar el viaje de una persona a través de una campaña inteligente durante un tiempo determinado. También puede especificar criterios para el día de la semana y la hora en que finaliza.
+Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a través de una campaña inteligente durante un tiempo determinado. También puede especificar criterios para el día de la semana y la hora en que finaliza.
 
 1. En la ficha **Flujo** de la campaña inteligente, arrastre el ratón sobre el paso de flujo **Espera**.
 
@@ -39,9 +39,7 @@ Puede utilizar el paso de flujo de espera para pausar el viaje de una persona a 
    >
    >**Ejemplo**
    >
-   >
-   >Una persona desencadena una campaña inteligente el viernes a las 5 pm. Se ha avanzado el paso de espera: 48 horas y debe terminar el lunes-viernes a las 9 de la mañana.
-   >
+   >Una persona déclencheur una campaña inteligente el viernes a las 5 pm. Se ha avanzado el paso de espera: 48 horas y debe terminar el lunes-viernes a las 9 de la mañana.
    >
    >El resultado sería que la persona continuaría en el flujo el **lunes, a las 9am**. Esta es la primera fecha M-F después de 48 horas.
 
@@ -49,13 +47,8 @@ Puede utilizar el paso de flujo de espera para pausar el viaje de una persona a 
    >
    >La duración, las fechas, las horas y los días utilizados se basan en el huso horario de la suscripción.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Usar una fecha específica en un paso de flujo de espera](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [Usar un token de fecha en un paso de flujo de espera](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [Usar una fecha específica en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Usar un token de fecha en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
