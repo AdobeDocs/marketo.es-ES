@@ -3,7 +3,7 @@ unique-page-id: 557273
 description: Buscar y Añadir Filtros a una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Buscar y Añadir Filtros en una Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Buscar y Añadir Filtros a una Lista inteligente {#find-and-add-filters-to-a-smart-list}
 
-Una vez que haya [creado una lista inteligente](create-a-smart-list.md), debe agregar y [definir](define-smart-list-filters.md) filtros. Así es como encontrar y agregar filtros.
+Una vez que haya [creado una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), debe agregar y [definir](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md) filtros. Así es como encontrar y agregar filtros.
 
 En este ejemplo, encontremos a todas las personas en California con una puntuación superior a 50.
 
@@ -41,10 +41,6 @@ En este ejemplo, encontremos a todas las personas en California con una puntuaci
 
 >[!MORELIKETHIS]
 >
->* [Crear una Lista inteligente](create-a-smart-list.md)
->* [Definir Filtros de Lista inteligente](define-smart-list-filters.md)
-
->
-
-
+>* [Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Definir Filtros de Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
