@@ -3,7 +3,7 @@ unique-page-id: 557318
 description: Actualizar una Lista o Lista inteligente - Documentos de marketing - Documentación del producto
 title: Actualizar una Lista o Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -31,9 +31,4 @@ Si ha ejecutado una lista inteligente y han transcurrido unos minutos, los resul
 
 >[!MORELIKETHIS]
 >
->* [Exportar personas a Excel desde una Lista o Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
-
->
-
-
-
+>[Exportar personas a Excel desde una Lista o Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
