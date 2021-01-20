@@ -3,7 +3,7 @@ unique-page-id: 1147036
 description: Eliminar de la Campaña de SFDC - Documentos de marketing - Documentación del producto
 title: Quitar de la Campaña SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-De la misma manera que puede [Añadir a la Campaña de SFDC](add-to-sfdc-campaign.md)y [Cambiar estado en la Campaña de SFDC](change-status-in-sfdc-campaign.md), también puede eliminar personas o leads de una campaña de Salesforce.
+De la misma manera que puede [Añadir a la Campaña de SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md) y [Cambiar estado en la Campaña de SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md), también puede eliminar personas o leads de una campaña de Salesforce.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
