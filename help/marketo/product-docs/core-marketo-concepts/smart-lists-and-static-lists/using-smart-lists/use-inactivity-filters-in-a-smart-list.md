@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: Usar Filtros de inactividad en una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Usar Filtros de inactividad en una Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ ht-degree: 0%
 1. Seleccione el operador **es cualquier**. Encontrará a todas las personas que no han visitado ninguna página en los últimos 30 días.
 
    ![](assets/mysmartlist-people.jpg)
-
-   ¿No fue tan fácil?
-
