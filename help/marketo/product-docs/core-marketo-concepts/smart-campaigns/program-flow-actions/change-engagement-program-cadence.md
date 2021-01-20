@@ -3,7 +3,7 @@ unique-page-id: 1147013
 description: Cambiar la cadencia de Programa de compromiso - Documentos de marketing - Documentación del producto
 title: Cambiar la cadencia del Programa de compromiso
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Puede volver a establecer la persona en **Normal** si desea que comience a recibir contenido nuevamente.
-
+Puede volver a establecer la persona en **Normal** si desea que comience a recibir contenido nuevamente.
