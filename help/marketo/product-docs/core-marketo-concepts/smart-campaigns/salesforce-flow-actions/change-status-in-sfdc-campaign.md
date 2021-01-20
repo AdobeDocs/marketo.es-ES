@@ -3,7 +3,7 @@ unique-page-id: 1147029
 description: Cambiar estado en la Campaña de SFDC - Documentos de marketing - Documentación del producto
 title: Cambiar estado en la Campaña SFDC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -31,7 +31,6 @@ Si un posible cliente no existe en Salesforce o aún no es miembro de la campañ
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. A continuación, seleccione el **Nuevo** **Estado** que desea configurar y ya ha terminado.
+1. A continuación, seleccione el **Nuevo estado** que desea configurar y ya ha terminado.
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
-
