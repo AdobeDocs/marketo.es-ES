@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: Crear y cambiar Vistas para Listas y Listas inteligentes - Documentos de marketing - Documentación del producto
 title: Crear y cambiar Vistas para Listas y Listas inteligentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 ## Crear una Vista {#create-a-view}
 
 1. Vaya a una lista o lista inteligente, haga clic en la ficha **Personas** y haga clic en **Crear** **Vista** en la lista desplegable **Vista**.
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. Asigne un nombre a la vista y busque la columna que desee agregar o eliminar.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Añada o elimine las columnas que desee y haga clic en Crear.
+1. Añada o elimine las columnas que desee y haga clic en **Crear**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías 
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## Eliminar una Vista {#delete-a-view}
 
 1. Seleccione la opción **Editar** para la vista que desee eliminar de la lista desplegable **Vista**.
@@ -72,10 +71,6 @@ Solo usted puede ver las vistas personalizadas que usted crea en la lista desple
 
 >[!MORELIKETHIS]
 >
->* [Usar Listas inteligentes integradas/del sistema](use-built-in-system-smart-lists.md)
->* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Usar Listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
