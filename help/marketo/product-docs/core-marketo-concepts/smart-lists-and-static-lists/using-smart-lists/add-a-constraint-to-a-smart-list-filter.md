@@ -3,7 +3,7 @@ unique-page-id: 2949413
 description: Añadir una restricción a un filtro de Lista inteligente - Documentos de marketing - Documentación del producto
 title: Añadir una restricción a un filtro de Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # Añadir una restricción a un filtro de Lista inteligente {#add-a-constraint-to-a-smart-list-filter}
 
-Al crear listas inteligentes, algunos filtros tienen opciones avanzadas denominadas *restricciones. *Estas son condiciones adicionales que puede agregar a filtros y activadores para ayudar a reducir aún más la búsqueda.
+Al crear listas inteligentes, algunos filtros tienen opciones avanzadas llamadas &quot;restricciones&quot;. Estas son condiciones adicionales que puede agregar a filtros y déclencheur para ayudar a reducir aún más la búsqueda.
 
-En este ejemplo, vamos a agregar algunas restricciones a un filtro ** [Valor de datos cambiado](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** para encontrar personas que han tenido un cambio de estado de MQL a SQL.
+En este ejemplo, vamos a agregar algunas restricciones a un filtro **[Valor de datos cambiado](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** para encontrar personas que han tenido un cambio de estado de MQL a SQL.
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Utilizar el filtro &quot;Valor de datos cambiado&quot; en una Lista inteligente](use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Utilizar el filtro &quot;Valor de datos cambiado&quot; en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 >
 
@@ -51,4 +51,3 @@ En este ejemplo, vamos a agregar algunas restricciones a un filtro ** [Valor de 
    ![](assets/six.png)
 
 1. ¡Bien hecho! Haga clic en la ficha **Personas** para ver todas las personas que han tenido un **Estado** cambio de **MQL** a **SQL** en los últimos 30 días.
-
