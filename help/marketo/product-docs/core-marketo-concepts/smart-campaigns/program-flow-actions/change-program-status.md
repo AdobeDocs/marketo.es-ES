@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: Cambiar estado de Programa - Documentos de marketing - Documentación del producto
 title: Cambiar estado de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Información general {#overview}
 
-Los estados de programa ayudan a realizar un seguimiento de cómo las personas avanzan a través de un programa o evento. Encontrará más información en [Personalizar, crear y administrar Canales](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Los estados de programa ayudan a realizar un seguimiento de cómo las personas avanzan a través de un programa o evento. Encontrará más información en [Personalizar, crear y administrar Canales](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
