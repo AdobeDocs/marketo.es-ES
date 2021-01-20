@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: Cambiar propietario - Documentos de marketing - Documentación del producto
 title: Cambiar propietario
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Si ya tiene personas asignadas a un propietario, puede utilizar este paso de flu
    >1. Marketing creará un posible cliente de duplicado **solamente** cuando el contacto se sincronice con Salesforce. En otras palabras, si utiliza el paso de flujo **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketing creará un lead de duplicado en Salesforce y lo asignará a la cola de posibles clientes.
       >
       >
-   2. Si intenta utilizar el paso de flujo **Cambiar propietario** en un contacto, no se creará ningún duplicado en Salesforce.
+   1. Si intenta utilizar el paso de flujo **Cambiar propietario** en un contacto, no se creará ningún duplicado en Salesforce.
 
 
    >[!NOTE]
