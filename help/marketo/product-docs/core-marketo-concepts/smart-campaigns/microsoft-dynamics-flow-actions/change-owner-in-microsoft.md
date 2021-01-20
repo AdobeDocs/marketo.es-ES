@@ -3,7 +3,7 @@ unique-page-id: 37356426
 description: Cambiar propietario en Microsoft - Documentos de marketing - Documentación del producto
 title: Cambiar propietario en Microsoft
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Si ya tiene personas asignadas a un propietario, puede utilizar este paso de flu
 
 >[!NOTE]
 >
->Este paso de flujo sólo funcionará **cuando se utilice con activadores**, no filtros, en la campaña inteligente.
+>Este paso de flujo sólo funcionará **cuando se utilice con déclencheur**, no filtros, en su campaña inteligente.
 
 ![](assets/one-1.png)
 
@@ -30,4 +30,3 @@ Si ya tiene personas asignadas a un propietario, puede utilizar este paso de flu
    >[!NOTE]
    >
    >Si el registro aún no existe en su cuenta de Dynamics, lo sincronizaremos de nuevo y luego lo asignaremos al usuario seleccionado.
-
