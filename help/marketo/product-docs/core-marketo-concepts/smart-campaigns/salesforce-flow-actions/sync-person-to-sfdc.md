@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: Sincronizar persona con SFDC - Documentos de marketing - Documentación del producto
 title: Sincronizar persona con SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Este paso de flujo insertará a las personas creadas en el mercado como posibles
    >[!CAUTION]
    >
    >Salesforce no permite asignar &quot;Contactos&quot; a las colas de posibles clientes. En este caso, Marketing creará un duplicado &quot;Posible cliente&quot; en Salesforce.
-
