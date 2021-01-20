@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: Uso de la lógica avanzada de reglas de Lista inteligente - Documentos de marketing - Documentación del producto
 title: Uso de la lógica avanzada de reglas de Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Puede encontrar las personas exactas que necesita aplicando la lógica de regla 
 
 >[!PREREQUISITES]
 >
->* [Buscar y Añadir Filtros en una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Definir Filtros de Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Buscar y Añadir Filtros en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definir Filtros de Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ Puede encontrar las personas exactas que necesita aplicando la lógica de regla 
 
 ## Añadir la lógica en una Lista inteligente {#add-logic-to-a-smart-list}
 
-De forma predeterminada, su lista inteligente encontrará las personas que coinciden con los filtros **ALL** (filtros 1 *y* 2 *y* 3). Puede cambiar la lógica de la regla para buscar personas que coincidan con **CUALQUIER** de los filtros definidos (filtros 1 *o* 2 *o* 3), o utilizar filtros avanzados (filtros 1 *y* 2 *o *3).
+De forma predeterminada, su lista inteligente encontrará las personas que coinciden con los filtros **ALL** (filtros 1 _y_ 2 _y_ 3). Puede cambiar la lógica de la regla para buscar personas que coincidan con **CUALQUIER** de los filtros definidos (filtros 1 _o_ 2 _o_ 3), o utilizar filtros avanzados (filtros 1 _y_ 2 _o_ 3).
 
-En este ejemplo, supongamos que desea encontrar personas en California *y* con una puntuación de al menos 50 puntos *o* con un estado de &quot;Ventas calificadas&quot;.
+En este ejemplo, supongamos que desea encontrar personas en California _y_ con una puntuación de al menos 50 puntos _o_ con un estado de &quot;Ventas calificadas&quot;.
 
-1. Seleccione **Usar** **Avanzadas** **filtros** en la lista desplegable.
+1. Seleccione **Usar filtros avanzados** en la lista desplegable.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ En este ejemplo, supongamos que desea encontrar personas en California *y* con u
    >
    >El uso de filtros **Advanced** reduce la necesidad de crear listas inteligentes con el miembro del filtro de Lista inteligente. Esto ayuda a optimizar el rendimiento.
 
-1. El cuadro de texto **filtros** **avanzados** mostrará &quot;y&quot; como el valor predeterminado entre todos sus filtros.
+1. El cuadro de texto **filtros avanzados** mostrará &quot;y&quot; como el valor predeterminado entre todos los filtros.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ Según su intención, es posible que necesite agregar paréntesis anidados al us
 >[!TIP]
 >
 >Si introduce una regla no válida, verá una línea roja debajo de la regla. Desplácese por el texto para ver el mensaje de error relacionado.
-
