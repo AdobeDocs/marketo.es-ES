@@ -3,7 +3,7 @@ unique-page-id: 1147011
 description: Añadir al Programa de compromiso - Documentos de marketing - Documentación del producto
 title: Añadir al Programa de compromiso
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -32,4 +32,3 @@ La campaña inteligente que genera con este paso de flujo será la puerta de enl
    >[!NOTE]
    >
    >No se puede agregar una persona a varios flujos dentro del mismo programa.
-
