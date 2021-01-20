@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Glosario de operadores de filtros de Lista inteligente - Documentos de marketing - Documentación del producto
 title: Glosario de operadores de filtros de Lista inteligente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # Glosario de operadores de filtros de Lista inteligente {#smart-list-filter-operators-glossary}
 
-Un operador es una parte de la [lista inteligente](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) que le ayuda a ser específica. Le permite describir el filtro o activador en un lenguaje sencillo. Los operadores disponibles son diferentes para cada tipo de campo.\
+Un operador es una parte de la lista inteligente que le ayuda a ser específico. Permite describir el filtro o el déclencheur en lenguaje sencillo. Los operadores disponibles son diferentes para cada tipo de campo.
+
 Aquí hay un glosario que describe cada conjunto de operadores.
 
 ## Campos de fecha {#date-fields}
@@ -51,7 +52,7 @@ Solo tiene que escribir el número y la unidad juntos y funcionará.
 
 >[!NOTE]
 >
->En el pasado **sí** incluye el día (hasta el momento, no después), usted crea su lista inteligente.
+>&quot;Anteriormente&quot; **incluye** el día (hasta el momento, no después) que se crea la lista inteligente.
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Operador</th> 
-   <th colspan="1" rowspan="1"><p>Descripción</p></th> 
+   <th colspan="1" rowspan="1">Descripción</th> 
   </tr> 
  </thead> 
  <tbody> 
