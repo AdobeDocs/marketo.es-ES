@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: 'Hacer referencia a una Lista o Lista inteligente en espacios de trabajo: documentos de marketing: documentación del producto'
 title: Referencia a una Lista o Lista inteligente en espacios de trabajo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Se pueden compartir y hacer referencia a listas y listas inteligentes en todas l
 
    ![](assets/four-3.png)
 
-1. Elija un **espacio de trabajo **con el que compartir. Seleccione **Guardar**.
+1. Elija un **espacio de trabajo** con el que compartir. Seleccione **Guardar**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Se pueden compartir y hacer referencia a listas y listas inteligentes en todas l
    >[!NOTE]
    >
    >En Actividades de marketing, solo puede compartir carpetas de nivel superior. En Base de datos, puede compartir carpetas de nivel superior así como un nivel inferior.
-
