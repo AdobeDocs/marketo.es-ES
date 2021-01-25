@@ -3,9 +3,9 @@ unique-page-id: 1147095
 description: Crear un Programa - Documentos de marketing - Documentación del producto
 title: Crear un Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,14 @@ Los programas son uno de los elementos más importantes de Marketing. ¡Los vas 
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione la carpeta para el nuevo programa. Seleccione **Nuevo** y haga clic en **Nuevo Programa****.**
+1. Seleccione la carpeta para el nuevo programa. Seleccione **Nuevo** y haga clic en **Nuevo Programa**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Escriba un **Nombre****,** seleccione un ** [Canal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** en la lista desplegable y haga clic en **Crear.**
+1. Escriba un **Nombre**, seleccione un **[Canal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** en la lista desplegable y haga clic en **Crear**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Buceo profundo**
->
->Obtenga más información sobre [programas](http://docs.marketo.com/display/docs/programs).
-
+>[Explicación de los Programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
