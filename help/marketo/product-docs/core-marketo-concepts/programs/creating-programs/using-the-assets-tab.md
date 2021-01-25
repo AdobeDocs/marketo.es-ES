@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: Uso de la ficha Recursos - Documentos de marketing - Documentación del producto
 title: Uso de la ficha Recursos
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ En el área **Actividades de marketing**, haga clic en la ficha **Recursos**. El
 
 Cuando haya recursos en el programa, los verá en la lista.
 
-| Naranja | Activar Campaña |
+| Naranja | Campaña déclencheur |
 |---|---|
 | Verde | Campaña por lotes |
 
@@ -37,6 +37,8 @@ Puede hacer clic con el botón derecho en el encabezado si desea interactuar con
 >
 >Arrastre y suelte para reorganizar las columnas de recursos.
 
-Los recursos que no sean locales del programa tendrán este aspecto:  ![](assets/image2014-9-18-16-3a30-3a33.png)
+Los recursos que no sean locales del programa tendrán este aspecto:
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 La ficha Recursos es un bueno panel para todo lo que se encuentra dentro y al que se hace referencia en el programa.
