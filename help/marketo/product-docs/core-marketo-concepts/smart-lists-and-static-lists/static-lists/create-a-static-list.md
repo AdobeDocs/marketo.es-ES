@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: Crear una Lista estática - Documentos de marketing - Documentación del producto
 title: Crear una Lista estática
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Las listas estáticas son un grupo de personas que ya están en la base de datos
 
    ![](assets/three.png)
 
-   Ahora tiene una lista vacía lista para rellenar. Aprenda a agregar personas [aquí](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   Ahora tiene una lista vacía lista para rellenar. Aprenda a agregar personas [aquí](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list).
 
    >[!NOTE]
    >
    >Puede agregar una persona a su lista tantas veces como desee, pero solo aparecerá una vez. Las personas permanecen en la lista hasta que las quitas.
-
