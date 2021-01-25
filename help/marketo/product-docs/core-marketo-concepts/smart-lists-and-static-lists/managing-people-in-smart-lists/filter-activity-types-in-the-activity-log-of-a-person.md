@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Filtrar tipos de Actividades en el registro de Actividades de una persona - Documentos de marketing - Documentación del producto
 title: Filtrar tipos de Actividad en el registro de Actividades de una persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Busque actividades que le importen más en el registro de actividades.
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Obtenga más información sobre [el registro de actividades](locate-the-activity-log-for-a-person.md).
+>Obtenga más información sobre [el registro de actividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Vaya a la página **Detalles de la persona**. Haga clic en la ficha **Registro de Actividad**.
 
@@ -58,4 +56,3 @@ Se puede acceder a los filtros guardados desde la lista desplegable **Filter**.
 1. Haga clic en **Filtros guardados**. Los filtros guardados se enumeran a continuación.
 
    ![](assets/eight.png)
-
