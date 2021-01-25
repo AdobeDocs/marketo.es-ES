@@ -3,7 +3,7 @@ unique-page-id: 1147148
 description: Eliminar un Programa - Documentos de marketing - Documentación del producto
 title: Eliminar un Programa
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Se puede archivar un programa, pero a veces sólo se quiere deshacerse de él pe
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Haga clic en Acciones de Programa. Haga clic en Eliminar.
+1. Haga clic en **Acciones de Programa**. Haga clic en **Eliminar**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Seleccione la opción Eliminar todo. Revise los efectos secundarios de la eliminación del programa y, a continuación, haga clic en Eliminar para confirmar.
+1. Seleccione la opción Eliminar todo. Revise los efectos secundarios de la eliminación del programa y haga clic en **Eliminar** para confirmar.
 
 >[!TIP]
 >
@@ -43,9 +43,8 @@ Para solucionar el problema, es posible que necesite explorar en profundidad y d
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Haga clic en **Utilizado** **Por** para ver dónde se está utilizando el recurso.
+1. Haga clic en **Usado por** para ver dónde se está utilizando el recurso.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
    Una vez que sepa dónde se está utilizando el recurso, vaya a él y desapruebe/elimine. A continuación, intente eliminar el programa de nuevo.
-
