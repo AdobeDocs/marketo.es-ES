@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campos personalizados de miembros de programa - Documentos de marketing - Documentación del producto
 title: Campos personalizados de miembros de programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Campos personalizados de miembros de programa {#program-member-custom-fields}
 
-Los campos personalizados de miembros de programa permiten recopilar datos específicos de programa para cada miembro. Pueden utilizarse en: Formularios de marketing, filtros y activadores de Listas inteligentes y acciones de flujo de Campañas inteligentes. Los datos se pueden ver en la ficha Miembros del programa.
+Los campos personalizados de miembros de programa permiten recopilar datos específicos de programa para cada miembro. Pueden utilizarse en: Formularios de marketing, filtros y déclencheur de Listas inteligentes y acciones de flujo de Campañas inteligentes. Los datos se pueden ver en la ficha Miembros del programa.
 
 ## Crear un campo personalizado de miembro de Programa {#create-a-program-member-custom-field}
 
@@ -43,7 +43,7 @@ Los campos personalizados de miembros de programa permiten recopilar datos espec
 
    >[!NOTE]
    >
-   >Los tipos admitidos para los campos personalizados de Miembros de Programa son: booleano, fecha, fecha y hora, flotante, entero, cadena, URL. [Obtenga más información sobre los tipos](http://docs.marketo.com/x/Wwgt) de campo.
+   >Los tipos admitidos para los campos personalizados de Miembros de Programa son: booleano, fecha, fecha y hora, flotante, entero, cadena, URL. [Obtenga más información sobre los tipos](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) de campo.
 
 ## Descripciones de objetos {#object-descriptions}
 
@@ -54,9 +54,9 @@ Los campos personalizados de miembros de programa permiten recopilar datos espec
 | Persona | Persona de la base de datos de Marketing con la que interactúa mediante campañas de marketing. |
 | Miembro programa | Persona que también es miembro de un programa |
 
-## Desencadenadores y Filtros {#triggers-and-filters}
+## Déclencheur y Filtros {#triggers-and-filters}
 
-Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [activadores](http://docs.marketo.com/x/PoAR)y/o [filtros](http://docs.marketo.com/x/2YAI).
+Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) y/o [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 * El objeto Miembro de Programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
 * Cuando elimina un miembro de un programa, si tiene datos en el campo personalizado Miembro del Programa, los datos se eliminarán de ese campo.
 * Para vista de los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
-* Se admiten la importación y exportación mediante [lista](http://docs.marketo.com/x/egAk)y [API](http://developers.marketo.com/).
+* Se admiten la importación y exportación mediante [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)y [API](https://developers.marketo.com/).
 * Cuando combina dos personas, se utilizarán los datos de campo personalizados de miembro de Programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
 
 >[!MORELIKETHIS]
 >
->[Creación de un campo personalizado en Marketing](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Creación de un campo personalizado en Marketing](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
