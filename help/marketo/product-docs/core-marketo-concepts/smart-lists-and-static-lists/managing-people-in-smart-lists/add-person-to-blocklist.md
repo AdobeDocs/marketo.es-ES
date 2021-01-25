@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: Añadir persona a Lista de bloqueados - Documentos de marketing - Documentación del producto
 title: Añadir persona a Lista de bloqueados
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Añadir personas a tu Lista de bloqueados impide que reciban tu correspondencia.
 >
 >Marketing está en proceso de cambiar términos como Lista negra y Lista blanca a Lista de bloqueados y Lista de permitidos en nuestro producto. Durante esta actualización, puede ver los términos antiguos en nuestra interfaz de usuario y en las capturas de pantalla de documentación, así como los nuevos términos en el texto de la documentación. Pedimos disculpas por cualquier confusión.
 
-1. [Cree un nuevo ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programa predeterminado y asígnele el nombre que  **Añada a la Lista de bloqueados**.
+1. [Cree un nuevo ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) programa predeterminado y asígnele el nombre que  **Añada a la Lista de bloqueados**.
+
 1. Haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ Añadir personas a tu Lista de bloqueados impide que reciban tu correspondencia.
 
    >[!TIP]
    >
-   >Cree una [campaña inteligente de activación](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) mediante **Cambiar valor de datos** con **Bloque enumerado es verdadera** para todas las personas en el futuro que tengan atributos que permitan la lista de bloqueados.
-
+   >Crear una [campaña inteligente de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) mediante **Cambiar valor de datos** con **Bloque enumerado es verdadera** para todas las personas en el futuro que tengan atributos que permitan la lista de bloqueados.
