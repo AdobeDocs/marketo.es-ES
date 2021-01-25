@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Exportación de una Lista estática a Adobe Experience Cloud - Documentos de marketing - Documentación del producto
 title: Exportación de una Lista estática a Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurar el uso compartido de Audiencias de Adobe Experience Cloud](http://docs.marketo.com/x/D4GMAg)
+>[Configurar el uso compartido de Audiencias de Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Aplicaciones de destino admitidas {#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Compartir con Adobe Analytics**
 
-Para los clientes que son propietarios de Adobe Audience Manager y Adobe Analytics, esta integración permitirá que las audiencias se compartan desde Marketing a sus grupos de informes de Adobe Analytics; sin embargo, hay que realizar algunos pasos de configuración adicionales en Adobe Audience Manager para habilitarlos. Consulte la documentación de Adobe Audience Manager para obtener más información sobre cómo configurarla: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Para los clientes que son propietarios de Adobe Audience Manager y Adobe Analytics, esta integración permitirá que las audiencias se compartan desde Marketing a sus grupos de informes de Adobe Analytics; sin embargo, hay que realizar algunos pasos de configuración adicionales en Adobe Audience Manager para habilitarlos. Consulte la documentación de Adobe Audience Manager para obtener más información sobre cómo configurarla: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Uso de características para clientes de Adobe Audience Manager**
 
@@ -80,4 +80,4 @@ En el capó, la integración de audiencias funciona sincronizando las cookies de
 
 Cuando la sincronización de cookies está habilitada para su Suscripción de Marketing, el archivo munchkin.js de Marketing intentará capturar y almacenar los ECID de Adobe para la organización de IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de marketing correspondiente. Esto permite a los perfiles de usuarios anónimos de Marketing enriquecer los ECID de Adobe.
 
-Se requiere un paso más para asociar el perfil de usuario anónimo a un Perfil de posibles clientes, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona esto aquí: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Se requiere un paso más para asociar el perfil de usuario anónimo a un Perfil de posibles clientes, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona esto aquí: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
