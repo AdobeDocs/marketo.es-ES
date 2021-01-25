@@ -3,7 +3,7 @@ unique-page-id: 557339
 description: Buscar y combinar personas de Duplicado - Documentos de marketing - Documentación del producto
 title: Buscar y combinar personas de Duplicado
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -21,7 +21,7 @@ El marketing elimina automáticamente los duplicados cuando entran nuevos usuari
 
 >[!PREREQUISITES]
 >
->Encontrar y combinar duplicados implicará el uso de [listas inteligentes integradas/del sistema](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Encontrar y combinar duplicados implicará el uso de [listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
 ## Buscar Duplicados {#find-duplicates}
 
@@ -33,13 +33,13 @@ El marketing elimina automáticamente los duplicados cuando entran nuevos usuari
    >
    >Es posible que la combinación de personas en Marketing no funcione si utiliza una cuenta de persona de Salesforce. Si es posible, combine los registros en Salesforce.
 
-1. Seleccione la lista inteligente del sistema **Posible** **Duplicados** y haga clic en la ficha **Personas**.
+1. Seleccione la lista **Posibles Duplicados** del sistema inteligente y haga clic en la ficha **Personas**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >También puede [Buscar personas de Duplicado con lógica personalizada](find-duplicate-people-with-custom-logic.md).
+   >También puede [Buscar personas de Duplicado con lógica personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
 ## Combinar personas manualmente {#merge-people-manually}
 
@@ -47,14 +47,15 @@ El marketing elimina automáticamente los duplicados cuando entran nuevos usuari
 >
 >Al combinar personas, si la persona perdedora tiene un objeto personalizado de marketing, **no** se volverá a asociar con la persona ganadora. Vuelva a propagar el objeto personalizado antes de realizar la combinación.
 
-Para seleccionar los duplicados, mantenga presionada la tecla Ctrl/Cmd y haga clic en Combinar personas.
-![](assets/three.png)
+1. Seleccione los duplicados manteniendo presionada la tecla Ctrl/Cmd y haciendo clic en y, a continuación, haga clic en **Combinar personas**.
 
->[!TIP]
->
->Podría tener dos o más duplicados para la misma persona; selecciónelos todos a la vez.
+   ![](assets/three.png)
 
-1. Verá los valores entre los registros que *no coinciden*. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando termine. Si no desea ningún valor, puede marcar **Personalizado** e introducir un valor de su elección.
+   >[!TIP]
+   >
+   >Podría tener dos o más duplicados para la misma persona; selecciónelos todos a la vez.
+
+1. Verá los valores entre los registros que _no coinciden_. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando termine. Si no desea ningún valor, puede marcar **Personalizado** e introducir un valor de su elección.
 
    ![](assets/four.png)
 
@@ -70,13 +71,13 @@ Para seleccionar los duplicados, mantenga presionada la tecla Ctrl/Cmd y haga cl
 
 Si tiene la integración de Salesforce, hay algunas notas sobre el efecto de Fusionar leads en Salesforce.
 
-    * Cuando se combinan solo los posibles clientes o solo los contactos, se combinan según las reglas normales de Salesforce.
-    * Al combinar leads y contactos, todos los leads se convierten en Contactos antes de combinarse según las reglas normales de Salesforce.
+* Cuando se combinan solo leads o contactos, se combinan según las reglas normales de Salesforce.
+* Al combinar leads y contactos, todos los leads se convierten en Contactos antes de combinarse según las reglas normales de Salesforce.
 
 Para conocer los detalles del comportamiento de Salesforce al combinar posibles clientes o contactos, consulte los siguientes documentos de Salesforce:
 
-    * [Fusión de leads de Duplicado](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-    * [Fusión de contactos de Duplicado](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Combinación de posibles clientes de Duplicado](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
+* [Combinación de contactos de Duplicado](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
 ## Combinación masiva {#bulk-merging}
 
