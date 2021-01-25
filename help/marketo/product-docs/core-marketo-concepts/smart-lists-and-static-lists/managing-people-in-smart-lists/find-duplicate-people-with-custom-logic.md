@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: Buscar personas Duplicados con lógica personalizada - Documentos de marketing - Documentación del producto
 title: Buscar personas Duplicados con lógica personalizada
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ Marketo tiene una lista inteligente del sistema que encuentra personas con dupli
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Vaya al área Actividades de marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
 ![](assets/ma-2.png)
 
-1. Seleccione la lista inteligente, haga clic en la ficha Lista inteligente.
+1. Seleccione la lista inteligente, haga clic en la ficha **Lista inteligente**.
 
    ![](assets/two-4.png)
 
-1. Busque y arrastre el filtro Campos de Duplicado al lienzo.
+1. Busque y arrastre el filtro **Campos de Duplicado** al lienzo.
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ Marketo tiene una lista inteligente del sistema que encuentra personas con dupli
    ![](assets/four-2.png)
 
    ¡Listo! Ejecute la lista inteligente para buscar personas con el mismo valor en el campo seleccionado anteriormente.
-
