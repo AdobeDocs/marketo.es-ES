@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Administrar y Vista de miembros - Documentos de marketing - Documentación del producto
 title: Administrar y Vista de miembros
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Puede administrar y vista de sus miembros en sus programas mediante la ficha Mie
 
 >[!NOTE]
 >
->**Buceo profundo**
->
-> Profundizar en [membresía de programa](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Profundizar en [membresía de programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Buscar un miembro {#search-for-a-member}
 
@@ -41,21 +39,21 @@ Puede exportar la lista de miembros haciendo clic en el icono de Excel situado j
 
 ## Administrar columnas en la cuadrícula Miembros {#manage-columns-in-the-members-grid}
 
-* Arrastre y suelte las columnas para cambiar su orden. El par de flechas azules indica hacia dónde irá la columna.
+Arrastre y suelte las columnas para cambiar su orden. El par de flechas azules indica hacia dónde irá la columna.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Haga clic con el botón secundario en el encabezado de la columna para ordenarla alfabéticamente, ya sea ascendente o descendente.
+Haga clic con el botón secundario en el encabezado de la columna para ordenarla alfabéticamente, ya sea ascendente o descendente.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Elija qué columnas son visibles en la cuadrícula {#choose-which-columns-are-visible-in-the-grid}
 
-1. Haga clic en la lista desplegable **Vista **y seleccione **Crear Vista**.
+1. Haga clic en la lista desplegable **Vista** y seleccione **Crear Vista**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Asigne un nombre a la vista personalizada. Seleccione los títulos de columna. Haga clic en** Añadir **y** Eliminar **para mover columnas y crear una vista.
+1. Asigne un nombre a la vista personalizada. Seleccione los títulos de columna. Haga clic en **Añadir** y **Eliminar** para mover columnas y crear una vista.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ Tantas características, pero todas son bastante simples. ¡Disfrútelo!
 
 >[!MORELIKETHIS]
 >
->* [Crear un informe de rendimiento de Programa](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Crear un informe de rendimiento de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
