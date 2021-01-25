@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Buscar a todas las personas en una etapa de ingresos - Documentos de marketing - Documentación del producto
 title: Buscar a todas las personas en una etapa de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Buscar todos los miembros de una etapa de ingresos específica {#find-all-members-of-a-specific-revenue-stage}
 
-1. En una lista inteligente, haga clic en la ficha **Lista inteligente **, busque el filtro **Fase de ingresos** y arrástrelo al lienzo.
+1. En una lista inteligente, haga clic en la ficha **Lista inteligente**, busque el filtro **Fase de ingresos** y arrástrelo al lienzo.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Ahora que ya saben qué personas están en cada etapa de ingresos, pueden comerc
    ![](assets/six.png)
 
    Desde allí puede elegir qué miembros se verán afectados por qué aspecto del paso de flujo. ¡Diversión!
-
