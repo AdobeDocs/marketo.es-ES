@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: 'Importar miembros de una hoja de cálculo a un Programa: Documentos de marketing: documentación del producto'
 title: Importación de miembros de una hoja de cálculo en un Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
    >[!CAUTION]
    >
-   >Cuando importe una fecha en un campo de fecha, utilice este formato: 23/9/13 (Mes/Día/Año).
+   >Cuando importe una fecha en un campo de fecha, utilice este formato: 29/9/13 (Mes/Día/Año).
 
 ## Importar su CSV en Marketing {#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
 >[!MORELIKETHIS]
 >
->* [Administrar y Vista de miembros](manage-and-view-members.md)
-
->
-
-
-
+>[Administrar y Vista de miembros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
