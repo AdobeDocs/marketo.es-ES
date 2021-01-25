@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: Localizar el registro de Actividades de una persona - Documentos de marketing - Documentación del producto
 title: Localización del registro de Actividades de una persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Localice el registro de Actividades para una persona {#locate-the-activity-log-for-a-person}
 
-El registro de actividades es la última fuente de verdad. Esta es la historia completa del viaje de una persona en Marketing.
+El registro de actividades es la última fuente de verdad. Esta es la historia completa del recorrido de una persona en Marketing.
 
-1. Vaya a la base de datos****.
+1. Vaya a la **Base de datos**.
 
    ![](assets/db-2.png)
 
@@ -35,10 +35,6 @@ El registro de actividades es la última fuente de verdad. Esta es la historia c
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >
-   >Obtenga más información sobre [filtrado del registro de actividades](filter-activity-types-in-the-activity-log-of-a-person.md)para ver actividades de personas específicas.
-
+   >Obtenga más información sobre [filtrado del registro de actividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)para ver actividades de personas específicas.
