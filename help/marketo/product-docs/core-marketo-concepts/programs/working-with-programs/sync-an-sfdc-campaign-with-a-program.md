@@ -3,7 +3,7 @@ unique-page-id: 1147154
 description: Sincronizar una Campaña SFDC con un Programa - Documentos de marketing - Documentación del producto
 title: Sincronizar una Campaña SFDC con un Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketing le permite sincronizar sus programas con campañas de Salesforce para 
 
 >[!PREREQUISITES]
 >
->Primero deberá [habilitar la sincronización de campañas de Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+>Primero deberá [habilitar la sincronización de campañas de Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketing le permite sincronizar sus programas con campañas de Salesforce para 
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Seleccione **Crear nuevo **o elija una campaña de Salesforce existente.
+1. Seleccione **Crear nuevo** o elija una campaña existente de Salesforce.
 
    >[!TIP]
    >
-   >Si selecciona una campaña existente de Salesforce, asegúrese de [coincidir con los estados de programa de la campaña de Salesforce y el programa de marketing](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Si selecciona una campaña existente de Salesforce, asegúrese de [coincidir con los estados de programa de la campaña de Salesforce y el programa de marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Escriba un nombre para la nueva campaña y haga clic en **Guardar**.
 
@@ -50,4 +50,3 @@ Marketing le permite sincronizar sus programas con campañas de Salesforce para 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    ¡Excelente! Ahora cualquier cambio de estado de programa en Marketing se sincroniza con la campaña SFDC y viceversa.
-
