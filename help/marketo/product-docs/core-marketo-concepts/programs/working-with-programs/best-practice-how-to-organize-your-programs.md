@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: Práctica recomendada - Cómo organizar sus Programas - Documentos de marketing - Documentación del producto
 title: 'Práctica recomendada: Cómo organizar sus Programas'
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Cada uno de los mencionados en el ejemplo es una carpeta. Observe cómo se les a
 
 >[!TIP]
 >
->La carpeta &quot;Archivar&quot; es un tipo especial de carpeta diseñada para eliminar elementos de listas seleccionadas así como sistemas de informes. Esto ayudará a que el sistema se ejecute más rápido. Obtenga más información sobre [carpetas](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>La carpeta &quot;Archivar&quot; es un tipo especial de carpeta diseñada para eliminar elementos de listas seleccionadas así como sistemas de informes. Esto ayudará a que el sistema se ejecute más rápido. Obtenga más información sobre [carpetas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
 Sin duda, puede agregar más carpetas según lo desee. Sólo tenga en cuenta que las futuras generaciones de especialistas en mercadotecnia de su compañía vivirán con sus decisiones sobre cómo nombrar y organizar las cosas.
 
@@ -76,15 +76,12 @@ La nominación es crítica, ya que las funciones de Marketing utilizan un lengua
 >1. Boletín NL 2015-06
 >1. Tema del seminario web WBN 2015-12-01 aquí
 
->
 
-
-
-Los nombres de programas deben ser únicos en su suscripción, incluso en diferentes [espacios de trabajo](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para los recursos locales dentro de programas, la regla es **mantener el nombre simple**. Solo tiene que nombrar una invitación como &quot;Invitación&quot;, a diferencia de &quot;Invitación a seminario web de junio de 2015&quot;. Dado que se encuentran en un programa, el programa principal forma parte del nombre automáticamente al seleccionarlo en otro lugar. Dicho de otro modo, los recursos locales sólo deben ser únicos dentro del programa. Puede tener cientos de recursos con el nombre &quot;Invitar&quot;, cada uno en un programa diferente y esto no te hará perder.
+Los nombres de programas deben ser únicos en su suscripción, incluso en diferentes [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para los recursos locales dentro de programas, la regla es **mantener el nombre simple**. Solo tiene que nombrar una invitación como &quot;Invitación&quot;, a diferencia de &quot;Invitación a seminario web de junio de 2015&quot;. Dado que se encuentran en un programa, el programa principal forma parte del nombre automáticamente al seleccionarlo en otro lugar. Dicho de otro modo, los recursos locales sólo deben ser únicos dentro del programa. Puede tener cientos de recursos con el nombre &quot;Invitar&quot;, cada uno en un programa diferente y esto no te hará perder.
 
 ## Tokens {#tokens}
 
-Los tokens utilizan carpetas y programas como vehículo para configurar variables que se utilizarán en páginas de aterrizaje, correos electrónicos y otros recursos. Obtenga más información sobre [tokens](http://docs.marketo.com/display/docs/tokens).
+Los tokens utilizan carpetas y programas como vehículo para configurar variables que se utilizarán en páginas de aterrizaje, correos electrónicos y otros recursos.
 
 La organización mencionada anteriormente le permite colocar tokens en la carpeta de Eventos para que se almacenen en cascada en todos los eventos.
 
@@ -102,7 +99,7 @@ Un Evento suele tener muchas partes móviles, entre ellas: invitaciones, página
 
 ## Programas de participación {#engagement-programs}
 
-Obtenga información [sobre los programas de participación](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). La mejor manera de organizar el programa de participación es con las carpetas. Cree una carpeta para cada flujo y, a continuación, coloque los correos electrónicos o programas en esa carpeta. Incluya una carpeta de archivo en cada flujo cuando el contenido se quede obsoleto y desee eliminarlo.
+Obtenga información [sobre los programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). La mejor manera de organizar el programa de participación es con las carpetas. Cree una carpeta para cada flujo y, a continuación, coloque los correos electrónicos o programas en esa carpeta. Incluya una carpeta de archivo en cada flujo cuando el contenido se quede obsoleto y desee eliminarlo.
 
 ## Programas operativos {#operational-programs}
 
@@ -110,7 +107,7 @@ Estos se utilizan con fines de limpieza de datos. Tenga carpetas para las fechas
 
 ## Anidación de Programas de correo electrónico {#nesting-email-programs}
 
-Los Programas de correo electrónico están diseñados para ser su herramienta de limpieza de correo. Puede colocarlos dentro de Eventos u otros programas para promociones, invitaciones y recordatorios. Incluyen un panel fantástico y otras funciones de prueba A/B. Además, se pueden manipular fácilmente en la [vista de calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view).
+Los Programas de correo electrónico están diseñados para ser su herramienta de limpieza de correo. Puede colocarlos dentro de Eventos u otros programas para promociones, invitaciones y recordatorios. Incluyen un panel fantástico y otras funciones de prueba A/B. Además, son fáciles de manipular en la vista de calandario del programa.
 
 También puede realizar un programa por correo electrónico como programa independiente. No se permiten programas de correo electrónico dentro de otros programas de correo electrónico. ¡Eso sería una locura!
 
@@ -126,4 +123,4 @@ Algunas personas incluso abstraen la mayor parte del texto de los correos electr
 
 ## Resumen {#summary}
 
-Como pueden ver, hay mucho poder en el mercado. Aquí hemos explicado lo básico, pero consideremos algunos [servicios adicionales de expertos en marketing](http://www.marketo.com/services/) para perfeccionar y configurarse para el éxito.
+Como pueden ver, hay mucho poder en el mercado. Aquí hemos explicado lo básico, pero consideremos algunos [servicios adicionales de expertos en marketing](https://www.marketo.com/services/) para perfeccionar y configurarse para el éxito.
