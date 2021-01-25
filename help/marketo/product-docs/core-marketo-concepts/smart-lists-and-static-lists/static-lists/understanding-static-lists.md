@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: Explicación de las Listas estáticas - Documentos de marketing - Documentación del producto
 title: Explicación de las Listas estáticas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ La diferencia entre una Lista estática y una inteligente es crucial para entend
 
 >[!CAUTION]
 >
->Uno de los errores más comunes es pensar que se puede eliminar a una persona de una lista simplemente &quot;eliminándola&quot;. **Esto está mal.** Al eliminar a la persona, ésta se eliminará de toda  **la base de datos**, no sólo de la lista.
+>Uno de los errores más comunes es pensar que se puede eliminar a una persona de una lista simplemente &quot;eliminándola&quot;. **Esto está mal**. Al eliminar la persona, ésta se eliminará de **toda la base de datos**, no sólo de la lista.
 
 ## Formas de Añadir/eliminar personas de una Lista {#ways-to-add-remove-people-from-a-list}
 
-1. Paso de flujo de campaña inteligente ([Añadir a Lista](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Quitar de Lista](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Paso de flujo de campaña inteligente ([Añadir a Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Quitar de Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
-1. [Paso de flujo de acción único](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [Paso de flujo de acción único](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. Arrastrar personas a una lista del árbol
-1. [Importación de listas](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [Importación de listas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## Algunos usos de una Lista estática {#some-uses-of-a-static-list}
 
@@ -48,5 +48,4 @@ La diferencia entre una Lista estática y una inteligente es crucial para entend
 
 >[!MORELIKETHIS]
 >
->[Crear una Lista estática](https://docs.marketo.com/x/ecKt)
-
+>[Crear una Lista estática](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
