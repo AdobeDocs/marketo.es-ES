@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Importar un Programa - Documentos de marketing - Documentación del producto
 title: Importación de un Programa
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Un programa se puede importar de una suscripción de marketing a otra. Por ejemp
 
    ![](assets/ma.png)
 
-1. Haga clic en **Nuevo **desplegable. Seleccione **Importar Programa**.
+1. Haga clic en la lista desplegable **Nuevo**. Seleccione **Importar Programa**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de Programa habilitado. Obtenga más información sobre [administración de funciones y permisos de usuario](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de Programa habilitado. Obtenga más información sobre [administración de funciones y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >Para conectar una cuenta de simulación de pruebas a la suscripción activa, póngase en contacto con [Soporte técnico de marketing](http://www.marketo.com/services/support/).
+   >Para conectar una cuenta de simulación de pruebas a la suscripción activa, póngase en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Seleccione una **Suscripción** de Marketing y un programa para importar. Haga clic en **Siguiente**.
 
@@ -42,7 +41,7 @@ Un programa se puede importar de una suscripción de marketing a otra. Por ejemp
 
    >[!NOTE]
    >
-   >Asegúrese de que*** ****Usar reglas de conflicto** predeterminadas está seleccionado. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
+   >Asegúrese de seleccionar **Usar reglas de conflicto** predeterminadas. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
 
 1. Detalles de previsualización y **Importar** el programa.
 
@@ -56,7 +55,7 @@ Recibirá una confirmación por correo electrónico una vez finalizada la import
 
 >[!NOTE]
 >
->Tendrá que volver a programar campañas de lote importadas y activar campañas de desencadenador. El sistema desactiva automáticamente los programas de campañas y activa campañas en el programa importado.
+>Tendrá que volver a programar campañas de lote importadas y activar campañas de déclencheur. El sistema desactiva automáticamente los programas de campañas y las campañas de déclencheur en el programa importado.
 
 ## Identifique los Programas pregenerados en la biblioteca de Programas de marketing {#identify-pre-built-programs-in-the-marketo-program-library}
 
@@ -77,7 +76,7 @@ La biblioteca de Programas de Marketing Cloud contiene programas creados previam
 1. **Sincronizar nuevas personas con CRM.** La campaña que sincroniza nuevos usuarios con el sistema CRM. Asigna un estado de persona de tal manera que se reconoce que no está listo para las ventas.
 1. **Seminario web con adaptador de Evento.** Un conjunto completo de correos electrónicos, como invitaciones y recordatorios, además de páginas de aterrizaje con formularios y campañas para mover personas a través del programa. Este programa recibe actualizaciones sobre registro, asistencia, etc. de proveedores de eventos en línea como WebEx.
 1. **Seminario web sin adaptador de Evento.** Igual que antes, pero con procesos manuales para registrar el registro, la asistencia, etc.
-1. **Programa** de Puntuación de Sirius Decisions. Este programa está diseñado para apoyar el modelo de puntuación estándar Sirius Decisions, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed. Vista [este PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)para obtener más información.
+1. **Programa** de Puntuación de Sirius Decisions. Este programa está diseñado para apoyar el modelo de puntuación estándar Sirius Decisions, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed.
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ La biblioteca de Programas de Marketing Cloud contiene programas creados previam
 
 Los programas utilizan recursos externos como plantillas de correo electrónico, plantillas de página de aterrizaje, imágenes, formularios, tokens y etiquetas de programa. Tiene la capacidad de configurar la forma en que se administran las plantillas de página de aterrizaje y las etiquetas de programa, y Marketing administra automáticamente el resto.
 
-**Plantillas de correo electrónico: **Las plantillas de correo electrónico se importan y crean automáticamente a menos que exista una con el mismo nombre.
+**Plantillas de correo electrónico:las plantillas de** correo electrónico se importan y crean automáticamente a menos que exista una con el mismo nombre.
 
-**Plantillas de Página de aterrizaje: **Las plantillas de Página de aterrizaje se importan al estudio de diseño. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se agregará un número a una plantilla de página de aterrizaje si existe una con el mismo nombre. Por ejemplo, se creará una plantilla de página de aterrizaje denominada Plantilla estándar 1 si existe una plantilla estándar con el nombre Plantilla estándar.
+**Plantillas de página de aterrizaje:las plantillas de** Página de aterrizaje se importan en el estudio de diseño. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se agregará un número a una plantilla de página de aterrizaje si existe una con el mismo nombre. Por ejemplo, se creará una plantilla de página de aterrizaje denominada Plantilla estándar 1 si existe una plantilla estándar con el nombre Plantilla estándar.
 
-**Imágenes: **Las imágenes utilizadas por las páginas de aterrizaje se importan al estudio de diseño a menos que exista una con el mismo nombre.
+**Imágenes:** Las imágenes utilizadas por páginas de aterrizaje se importan al estudio de diseño a menos que exista una con el mismo nombre.
 
-**Tokens: **Los tokens que viven fuera de un programa se convertirán en tokens locales durante el proceso de importación.
-
->[!CAUTION]
->
->El tipo de imagen de mis tokens no es compatible con las importaciones de programa. Si se importa un programa con un tipo de imagen, se importarán mis tokens, **no **se introducirán tokens.
-
-**Etiquetas de Programa: **Puede utilizar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existan en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede omitir las etiquetas.  **Forms: **Los formularios externos se importarán automáticamente al estudio de diseño a menos que exista uno con el mismo nombre.
+**Tokens:** Los tokens que viven fuera de un programa se convertirán en tokens locales durante el proceso de importación.
 
 >[!CAUTION]
 >
->Al importar un programa, se omitirán las páginas de aterrizaje o correos electrónicos que contengan [contenido dinámico](http://docs.marketo.com/x/yRAt).
+>El tipo de imagen de mis tokens no es compatible con las importaciones de programa. Si se importa un programa con un tipo de imagen, se importarán los tokens **no**.
 
-## Ver un video {#watch-a-video}
+**Etiquetas de programa:** puede usar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existan en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede omitir las etiquetas. **Forms:Los formularios** externos se importarán automáticamente en el estudio de diseño a menos que exista uno con el mismo nombre.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>Al importar un programa, se omitirán las páginas de aterrizaje o correos electrónicos que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).
