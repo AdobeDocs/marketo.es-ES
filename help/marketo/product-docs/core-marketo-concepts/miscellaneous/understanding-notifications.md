@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Explicación de las notificaciones - Documentos de marketing - Documentación del producto
 title: Explicación de las notificaciones
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 
 1. Seleccione el tipo de notificación e introduzca las direcciones de correo electrónico a las que desea enviar las notificaciones.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 >[!TIP]
 >
 >¿Desea cancelar la suscripción de los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el vínculo **cancelar la suscripción de Notificaciones** en la parte inferior del correo electrónico.
-
