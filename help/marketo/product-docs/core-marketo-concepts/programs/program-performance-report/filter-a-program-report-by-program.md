@@ -3,9 +3,9 @@ unique-page-id: 2360047
 description: Filtrar un informe de Programa por Programa - Documentos de marketing - Documentación del producto
 title: Filtrar un informe de Programa por Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar un informe de Programa por Programa {#filter-a-program-report-by-program}
 
-Centre su [informe de rendimiento de programa](create-a-program-performance-report.md) en programas específicos para comparar su rendimiento.
+Centre su [informe de rendimiento de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) en programas específicos para comparar su rendimiento.
 
 1. Vaya a **Marketing** **Actividades** (o **Analytics**).
 
@@ -35,23 +35,10 @@ Centre su [informe de rendimiento de programa](create-a-program-performance-repo
    >
    >Si selecciona una carpeta, el informe incluirá todo lo que contenga en el momento en que se ejecute el informe.
 
-1. ¡Eso es todo! Haga clic en la ficha **Informe** para ver *sólo* los programas seleccionados en el informe.
+1. ¡Eso es todo! Haga clic en la ficha **Informe** para ver _sólo_ los programas seleccionados en el informe.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Filtrar un informe de Programa por etiqueta](filter-a-program-report-by-tag.md)
-
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrar un informe de Programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
