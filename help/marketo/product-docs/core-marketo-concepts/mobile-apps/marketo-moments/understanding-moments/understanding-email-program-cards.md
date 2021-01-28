@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Explicación de las tarjetas de Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Explicación de las tarjetas de Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Utilice Momentos de marketing para vista de sus Programas de correo electrónico
 
 ## Tarjetas de Programa de correo electrónico {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` Al tocar cualquier tarjeta de Programa de correo electrónico, puede:
+Al tocar cualquier tarjeta de Programa de correo electrónico, puede:
 
-* [Convertir un correo electrónico en favorito](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marcar un correo electrónico como hecho](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compartir una tarjeta de hora de correo electrónico](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Convertir un correo electrónico en favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marcar un correo electrónico como hecho](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compartir una tarjeta de hora de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 En una tarjeta de programa de correo electrónico para un correo electrónico que aún no se ha enviado, encontrará información sobre el estado y la audiencia de ese programa de correo electrónico.
 
@@ -41,7 +41,7 @@ Después de enviar el correo electrónico, la tarjeta muestra otra información 
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toque **Confirmar **para terminar el trabajo, o **No importa** si tuvo dudas.
+1. Toque **Confirmar** para finalizar el trabajo, o **No importa** si tuvo dudas.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   De esta manera, usted sabe que su correo electrónico es perfecto antes de apretar el gatillo!\
+   De esta manera, usted sabe que su correo electrónico es perfecto antes de sacar el déclencheur!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    ¡Excelente!
@@ -114,12 +115,7 @@ Y esa es la primicia de ver tus campañas de correo electrónico. ¡Ahora eres u
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los momentos del marketing](understanding-marketo-moments.md)
->* [Explicación de las tarjetas de Evento](understanding-event-cards.md)
->* [Explicación de las tarjetas de Analytics](understanding-analytics-cards.md)
->* [Programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Explicación de los momentos del marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Explicación de las tarjetas de Evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Explicación de las tarjetas de Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
