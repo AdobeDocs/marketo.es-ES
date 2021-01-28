@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: 'Configuración de la tableta de iPad o Android: documentos de marketing: documentación del producto'
 title: Configuración de la tablet para iPad o Android
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Si su iPad no tiene instalada la aplicación de Eventos de marketing, aquí se e
 
 Si su tablet Android aún no tiene instalada la aplicación de Eventos de marketing, así es como obtenerla.
 
-1. Abra la tablet y toque la aplicación** Google Play Store**.
+1. Abra la tablet y toque la aplicación **Google Play Store**.
 1. En el cuadro Buscar, escriba **Marcado** y toque **Retorno**.
 1. En los resultados de la búsqueda, toque la aplicación **Eventos de marketing**.
 
@@ -69,7 +69,7 @@ Antes de asignar iPads o tablets al personal de la feria, compruebe que las cred
 Sincronice para asegurarse de que las personas que ha agregado están allí.
 
 1. Abra el evento en la aplicación de iPad o Android.
-1. Busca a la gente. Si no los ve, toque **Sincronizar **para sincronizar la aplicación y volver a cargar la lista de Eventos de personas.
+1. Busca a la gente. Si no los ve, toque **Sincronizar** para sincronizar la aplicación y volver a cargar la lista de personas con Eventos.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Sincronice para asegurarse de que las personas que ha agregado están allí.
 
 Asegúrese de que los registros funcionan desde el iPad o la tablet antes del evento.
 
-1. En la aplicación, [compruebe un posible cliente de prueba en](check-people-into-your-event-from-your-tablet.md).
+1. En la aplicación, [compruebe un posible cliente de prueba en](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Toque el icono **Sincronizar** para sincronizar la aplicación.
 1. En Marketing, abra el evento y haga clic en **Miembros**.
 
@@ -96,4 +96,3 @@ Asegúrese de que los registros funcionan desde el iPad o la tablet antes del ev
    >[!TIP]
    >
    >Utilícese como persona de prueba.
-
