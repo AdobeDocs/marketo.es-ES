@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Consulte a las personas en su Evento desde su tableta - Documentos de marketing - Documentación del producto
 title: Registrar personas en el Evento desde la tableta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ La aplicación funciona igual tanto en iPad como en Android, excepto por diferen
 >* Cree un evento en Marketing y rellénelo con Personas invitadas y registradas.
 >* Descargue la aplicación para tablet para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
->
-
-
 
 ## Registrar invitados registrados {#check-in-registered-guests}
 
 1. Toque el icono de la aplicación en su iPad o tablet Android.
+
 1. Toque **Iniciar sesión** para iniciar la aplicación de Evento de Marketing to.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ La aplicación funciona igual tanto en iPad como en Android, excepto por diferen
    >
    >El proceso es el mismo en iPad y Android, pero las pantallas difieren y los elementos pueden estar en diferentes ubicaciones. Este artículo incluye la interfaz del iPad. Compare la pantalla de Android de esta sección para obtener referencia.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ La nueva persona está registrada como protegida en su evento y se agregará a l
 
 ## Invertir un registro {#reverse-a-check-in}
 
-Si ha registrado a una persona por error, *antes de sincronizarla con Marketing*, puede revertir el estado de Asistencia.
+Si ha registrado a una persona por error, _antes de sincronizarla con Marketing_, puede revertir el estado de Asistencia.
 
 1. Toque el nombre en la lista y, en el registro de personas, toque **Deshacer**.
 
@@ -146,6 +146,7 @@ La aplicación de Eventos de marketing funciona de forma independiente hasta que
 >Después de sincronizar, no podrá revertir un registro desde la aplicación.
 
 1. En la tablet, abra la aplicación y vaya al evento.
+
 1. Toque **Sincronizar**.
 
    El evento se actualiza con nuevos registros en la base de datos de Marketing. El contador rojo del botón Sincronizar se borra hasta que se registra a otra persona.
@@ -170,4 +171,3 @@ Si le preocupa el acceso a Internet en el lugar de celebración, puede que desee
 >[!NOTE]
 >
 >La aplicación cierra la sesión automáticamente tras ocho horas de inactividad.
-
