@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Tipos de notificaciones - Documentos de marketing - Documentación del producto
 title: Tipos de notificaciones
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Facebook
 
 Si intenta enviar leads a Facebook sin aceptar los términos del servicio, o si intenta enviar leads a Facebook después de quitar la aplicación de marketing.
 
-Limpieza de Campaña del activador inactivo
+Limpieza de Campaña de Déclencheur inactivo
 
-Desactivar Campañas inteligentes activadas que ya no reciben ninguna actividad. Obtenga más información sobre [limpieza automática de campañas desencadenadoras](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desactivar Campañas inteligentes activadas que ya no reciben ninguna actividad. Obtenga más información sobre [limpieza automática de campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ Recibirá una notificación cuando alcance su cuota diaria. La cuota se restable
 
 >[!NOTE]
 >
->Algunos de los códigos de error que puede recibir se describen en nuestra [Documentación para desarrolladores](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>Algunos de los códigos de error que puede recibir se describen en nuestra [Documentación para desarrolladores](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
