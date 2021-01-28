@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navegación por el calendario de marketing - Documentos de marketing - Documentación del producto
 title: Navegación por el calendario de mercadotecnia
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Navegar por el Calendario de mercadotecnia es fácil como uno, dos, tres!
 
 >[!PREREQUISITES]
 >
->Asegúrese de que tiene una [licencia del Calendario de mercadotecnia](issue-revoke-a-marketing-calendar-license.md); de lo contrario, el mosaico del Calendario de mercadotecnia no se mostrará en Mi mercadotecnia.
+>Asegúrese de que tiene una [licencia del Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md); de lo contrario, el mosaico del Calendario de mercadotecnia no se mostrará en Mi mercadotecnia.
 
 1. Vaya al **Calendario de mercadotecnia**.
 
@@ -39,9 +39,7 @@ La vista Agenda muestra todas las entradas como una lista.
 
 1. Haga clic en la lista desplegable **Filtro**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. Seleccione la vista **Agenda**.
 
@@ -67,9 +65,6 @@ También puede utilizar estos métodos abreviados de teclado.
 
 ¡Increíble! Estos son los conceptos básicos. También puede personalizar la vista con filtros.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Filtrado del calendario de mercadotecnia](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[Filtrado del calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
