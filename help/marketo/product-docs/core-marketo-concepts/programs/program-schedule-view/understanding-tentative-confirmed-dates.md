@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: Explicación de las fechas tentativas/confirmadas - Documentos de marketing - Documentación del producto
 title: Explicación de las fechas tentativas/confirmadas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Las campañas inteligentes y los programas de correo electrónico tienen una pod
 
 ## Tentativo {#tentative}
 
-Las fechas tentativas transmiten la intención. Piensen en esto como *rodeando *algo en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
+Las fechas tentativas transmiten la intención. Considere esto como algo _que se escribe_ en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ Las fechas tentativas transmiten la intención. Piensen en esto como *rodeando *
 
 Es igual que aprobar un recurso, por lo que las entradas deben estar totalmente configuradas para poder confirmarlas. Una vez que todos los patos están en una fila, puede confirmar las entradas deslizando la ficha tentativa a la derecha.
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->¿Por qué el perro? Él es un recuperador de oro. Está buscando tus datos.
+>¿Por qué el perro? Él es un Recuperador. Está buscando tus datos.
 
 ## Confirmado {#confirmed}
 
