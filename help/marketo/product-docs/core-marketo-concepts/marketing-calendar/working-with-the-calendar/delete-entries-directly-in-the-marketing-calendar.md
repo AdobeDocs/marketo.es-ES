@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Eliminar entradas directamente en el calendario de marketing - Documentos de marketing - Documentación del producto
 title: Eliminar entradas directamente en el calendario de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Eliminar entradas directamente en el calendario de marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Además de [crear](create-entries-directly-in-the-marketing-calendar.md) y [editar](edit-entries-directly-in-the-marketing-calendar.md) entradas, puede eliminarlas directamente en el Calendario de mercadotecnia. Así es como.
+Además de [crear](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) y [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) entradas, puede eliminarlas directamente en el Calendario de mercadotecnia. Así es como.
 
 1. Vaya al **Calendario**.
 
@@ -31,9 +31,4 @@ Según la entrada, es posible que tenga que confirmar la eliminación. ¡Pero es
 
 >[!MORELIKETHIS]
 >
->* [Confirmar entradas directamente en el calendario de mercadotecnia](confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Confirmar entradas directamente en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
