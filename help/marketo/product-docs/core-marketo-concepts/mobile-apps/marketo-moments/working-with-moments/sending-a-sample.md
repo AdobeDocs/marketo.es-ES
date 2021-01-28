@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Envío de una muestra - Documentos de marketing - Documentación del producto
 title: Envío de una muestra
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
 ## La forma rápida {#the-quick-way}
 
-1. Toque el icono del avión de papel en la pantalla Previsualización por correo electrónico para enviar una muestra directamente desde la previsualización.\
+1. Toque el icono del avión de papel en la pantalla Previsualización por correo electrónico para enviar una muestra directamente desde la previsualización.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 ¡Misión cumplida!
