@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Editar entradas directamente en el calendario de marketing - Documentos de marketing - Documentación del producto
 title: Editar entradas directamente en el calendario de mercadotecnia
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,7 @@ Una vez en el modo de enfoque de programa, puede realizar cambios rápidamente e
    >
    >También puede editar la descripción.
    >
-   >
-   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## Convertir tipo de entrada {#convert-entry-type}
 
@@ -68,9 +67,4 @@ Puede acceder rápidamente a las distintas áreas de las entradas para editarlas
 
 >[!MORELIKETHIS]
 >
->* [Eliminar entradas directamente en el calendario de marketing](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
-
->
-
-
-
+>[Eliminar entradas directamente en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
