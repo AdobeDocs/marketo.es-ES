@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Preparación para su Evento - Documentos de marketing - Documentación del producto
 title: Preparar para su Evento
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Hay varias cosas que tienes que hacer para prepararte para el evento.
 
 ## Crear una nueva función de marketing {#create-a-new-marketo-role}
 
-Marketing tiene una función de usuario especial para la aplicación de registro de evento.  [Cree una nueva ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) función de marketing para usuarios de iPad o Android, con permiso para acceder a la aplicación móvil.
+Marketing tiene una función de usuario especial para la aplicación de registro de evento. [Cree una nueva ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) función de marketing para usuarios de iPad o Android, con permiso para acceder a la aplicación móvil.
 
 ## Invitar a nuevos usuarios de tableta al Evento {#invite-new-tablet-users-to-the-event}
 
-[Invite a nuevos usuarios de tabletas al ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) evento y asígneles la nueva función.
+[Invite a nuevos usuarios de tabletas al ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) evento y asígneles la nueva función.
 
 ## Crear un nuevo Programa de Evento de marketing {#create-a-new-marketo-event-program}
 
