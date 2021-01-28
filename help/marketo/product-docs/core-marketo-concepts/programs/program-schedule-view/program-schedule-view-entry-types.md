@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: Tipos de entrada de Vista de calandario del programa - Documentos de marketing - Documentación del producto
 title: Tipos de entrada de Vista de calandario del programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tipos de entrada de Vista de calandario del programa {#program-schedule-view-entry-types}
 
-Existen ocho tipos de entrada integrados diferentes que serán visibles y estarán disponibles para su uso en la vista de calandario del programa. También puede [crear tipos de entrada personalizados](create-custom-entry-types.md) en la sección Administración.
+Existen ocho tipos de entrada integrados diferentes que serán visibles y estarán disponibles para su uso en la vista de calandario del programa. También puede [crear tipos de entrada personalizados](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) en la sección Administración.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Existen ocho tipos de entrada integrados diferentes que serán visibles y estar�
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Crear un tipo de entrada personalizada](create-custom-entry-types.md)
-
->
-
-
-
