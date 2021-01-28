@@ -3,9 +3,9 @@ unique-page-id: 1147138
 description: Reprogramación de un Programa completo desde la Vista de programación - Documentos de marketing - Documentación del producto
 title: Reprogramación de un Programa completo desde la Vista Programar
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Cuando clona un programa o evento con fechas, es probable que desee volver a pro
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleccione la lista desplegable Acción de Evento. Elija Reprogramar entradas.
+1. Seleccione la lista desplegable Acción de Evento. Elija **Reprogramar entradas**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,11 +31,11 @@ Cuando clona un programa o evento con fechas, es probable que desee volver a pro
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Haga clic en Reprogramar.
+1. Haga clic en **Reprogramar**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. ¡Woof! Nuestros recuperadores de datos desaprobarán, reprogramarán y reaprobarán todos sus recursos con las fechas correctas.
+1. Nuestros recuperadores de datos desaprobarán, reprogramarán y reaprobarán todos sus recursos con las fechas correctas.
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
@@ -43,5 +43,6 @@ Cuando clona un programa o evento con fechas, es probable que desee volver a pro
 >
 >Los recursos que ya se han ejecutado no se moverán.
 
-¡Loco! Ahora todo está reprogramado. Ajuste las fechas específicas según sea necesario.    ![](assets/image2014-9-23-15-3a19-3a58.png)
+Ahora todo está reprogramado. Ajuste las fechas específicas según sea necesario.
 
+![](assets/image2014-9-23-15-3a19-3a58.png)
