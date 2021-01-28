@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Explicación de los momentos del marketing - Documentos de marketing - Documentación del producto
 title: Explicación de los momentos del marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 >
 >**Disponibilidad**
 >
->Se requiere el permiso de acceso a aplicaciones móviles. Póngase en contacto con el administrador de marketing para [actualizar su función](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
-## Introducción a Momentos {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>Se requiere el permiso de acceso a aplicaciones móviles. Póngase en contacto con el administrador de marketing para [actualizar su función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Flujos {#streams}
 
@@ -35,13 +31,11 @@ Aquí están los diferentes flujos en Moments.
 >
 >**Definición**
 >
->Momentos- Todo lo que acaba de correr, o está a punto de correr va aquí.
->
->Favoritos - Cualquier cosa que hagas un favorito va aquí.
->
->Más tarde - Cualquier cosa que tenga lugar más tarde de este momento entra aquí.
->
->Listo - Cualquier cosa que haya terminado de correr o marcado como hecho va aquí.
+>* Momentos: Todo lo que acaba de correr o está a punto de correr va aquí.
+>* Favoritos: Todo lo que hagas favorito va aquí.
+>* Más adelante: Cualquier cosa que suceda después de este momento entra aquí.
+>* Listo: Cualquier cosa que haya terminado de correr o que haya marcado como hecho va aquí.
+
 
 Bien, ahora que lo hemos sacado del camino, vamos a echar un vistazo a Marketo Moments por teléfono!
 
@@ -53,7 +47,7 @@ Momentos de marketing le ofrece tres tarjetas diferentes para seguir el progreso
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**latido** - Hey - este correo electrónico se está enviando ahora! Y aquí también hay estadísticas. Adelante y compártalo.
+**Latido** - Hey - este correo electrónico se está enviando ahora! Y aquí también hay estadísticas. Adelante y compártalo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -93,19 +87,12 @@ Al tocar los tres puntos se abre un menú de acción de tarjeta.
 >* Enviar muestra (solo correo electrónico): Utilice esto para permitir que otros usuarios vean el aspecto de sus correos electrónicos antes de enviarlos.
 >* Correo electrónico de previsualización (solo correos electrónicos): Siempre es buena idea consultar tus correos electrónicos con antelación.
 
->
-
-
 
 ## Momentos posteriores {#later-moments}
 
 En la sección Más adelante se muestran las próximas actividades.
 
 1. Inicio tocando el menú de hamburguesas.
-
-   >[!NOTE]
-   >
-   >Según el [Libro Guinness de Récords Mundiales](http://www.guinnessworldrecords.com/world-records/largest-hamburger), la hamburguesa más grande del mundo pesaba 2.014 libras.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Cada paso del camino, puede confirmar o cancelar una acción. Si cambia de opini
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-¿Listo para aprender más?
-
->[!MORELIKETHIS]
->
->* [Explicación de las tarjetas de Programa de correo electrónico](understanding-email-program-cards.md)
->* [Explicación de las tarjetas de Evento](understanding-event-cards.md)
->* [Explicación de las tarjetas de Analytics](understanding-analytics-cards.md)
->* [Explicación de las tarjetas de Campaña inteligentes](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## Versiones admitidas {#supported-versions}
 
 Marketo Moments admite estas versiones del sistema operativo:
 
 * Apple iOS 8.0 y superior.
 * Android versión 4.1 y superior (básicamente, Jellybean y superior).
+
+¿Listo para aprender más?
+
+>[!MORELIKETHIS]
+>
+>* [Explicación de las tarjetas de Programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Explicación de las tarjetas de Evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Explicación de las tarjetas de Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Explicación de las tarjetas de Campaña inteligentes](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
