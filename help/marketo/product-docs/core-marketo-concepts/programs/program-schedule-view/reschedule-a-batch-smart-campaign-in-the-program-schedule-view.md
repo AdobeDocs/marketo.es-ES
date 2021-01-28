@@ -3,7 +3,7 @@ unique-page-id: 7514985
 description: Reprogramación de una Campaña inteligente por lotes en la Vista de Calandario del programa - Documentos de marketing - Documentación del producto
 title: Reprogramación de una Campaña inteligente por lotes en la Vista de Calandario del programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
-1. Arrastre y suelte hasta la nueva fecha en la que desee que se ejecute la campaña. ![](assets/image2015-5-19-12-3a12-3a1.png)
+1. Arrastre y suelte hasta la nueva fecha en la que desee que se ejecute la campaña.
+
+![](assets/image2015-5-19-12-3a12-3a1.png)
 
 1. ¡bueno! La campaña inteligente se ha reprogramado. La hora también se puede cambiar desde la lista desplegable **Fecha** en los detalles de entrada.
 
@@ -27,5 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Reprogramación de un Programa completo desde la Vista Programar](rescheduling-an-entire-program-from-the-schedule-view.md)
-
+>[Reprogramación de un Programa completo desde la Vista Programar](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md)
