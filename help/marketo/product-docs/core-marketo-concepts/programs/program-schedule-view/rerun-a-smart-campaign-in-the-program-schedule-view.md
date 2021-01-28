@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: Volver a ejecutar una Campaña inteligente en la Vista Calandario del programa - Documentos de marketing - Documentación del producto
 title: Volver a ejecutar una Campaña inteligente en la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente
 
    >[!TIP]
    >
-   >También puede hacerlo desde el [enfoque de programa](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >También puede hacerlo desde el [enfoque de programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 ¡Boom! Así de simple, has programado otra carrera para esa campaña inteligente. Si esa campaña inteligente contenía pasos para enviar correos electrónicos, ¡también los verá!
