@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configurar el uso compartido de Audiencias de Adobe Experience Cloud - Documentos de marketing - Documentación del producto
 title: Configurar el uso compartido de Audiencias de Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Para compartir datos de audiencia con las aplicaciones de Adobe, primero debe in
 
    ![](assets/three-2.png)
 
-1. Introduzca su ID de organización de IMS de Adobe (descubra cómo puede encontrar [aquí](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)) y haga clic en **Aceptar**.
+1. Introduzca su ID de organización de IMS de Adobe (descubra cómo puede encontrar [aquí](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) y haga clic en **Aceptar**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Para compartir datos de audiencia con las aplicaciones de Adobe, primero debe in
    >
    >Por motivos de seguridad, debe ser administrador de organización de la organización de Adobe a la que desee asignar. Si no lo están, la acción fallará.
 
-1. Si ya ha iniciado sesión *no*, aparecerá un elemento emergente en una nueva ficha o ventana. Inicie sesión en la organización de Adobe (esta acción valida el acceso a la organización).
+1. Si ya ha iniciado sesión _no_, aparecerá un elemento emergente en una nueva ficha o ventana. Inicie sesión en la organización de Adobe (esta acción valida el acceso a la organización).
 
-   ¡Y eso es todo! Ahora puede comenzar [compartiendo datos de audiencia](http://docs.marketo.com/x/ogI6Ag).
-
+   ¡Y eso es todo! Ahora puede comenzar [compartiendo datos de audiencia](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).
