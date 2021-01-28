@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: Crear un informe de rendimiento de Programa - Documentos de marketing - Documentación del producto
 title: Crear un informe de rendimiento de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Consulte las buenas estadísticas de sus programas con este informe.
 
-1. [Cree un informe en un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el tipo **de puerto de** [Programa ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
+1. [Cree un informe en un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el tipo **de puerto de** [Programa ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
 1. Haga clic en la ficha **Informe**.
 1. ¡Estás ahí! Explore el informe para ver cómo funcionan sus programas.
 
@@ -23,7 +23,7 @@ Consulte las buenas estadísticas de sus programas con este informe.
 
 >[!TIP]
 >
->Para encontrar los programas con el *costo por éxito* más bajo, por ejemplo, [ordene el informe](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Ordenar De subida**.
+>Para encontrar los programas con el *costo por éxito* más bajo, por ejemplo, [ordene el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Ordenar De subida**.
 
 Las columnas de un informe de rendimiento de Programa incluyen:
 
@@ -53,10 +53,3 @@ Las columnas de un informe de rendimiento de Programa incluyen:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Buceo profundo**
->
->Obtenga más información en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
-
