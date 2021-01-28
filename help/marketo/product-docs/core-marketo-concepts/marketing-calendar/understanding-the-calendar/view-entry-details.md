@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: Detalles de entrada de vista - Documentos de marketing - Documentación del producto
 title: Detalles de entrada de vista
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,10 +23,6 @@ Cuando vista los detalles de entrada en el Calendario de mercadotecnia, puede ve
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-`
-
 >[!TIP]
 >
 >Intente hacer clic con el botón derecho en los detalles de la derecha. Puede ver menús para desplazarse o mostrar los editores. Bien, ¿verdad?
-
