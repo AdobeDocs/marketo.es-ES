@@ -3,9 +3,9 @@ unique-page-id: 1147144
 description: Creación de un nuevo Programa de correo electrónico en la Vista Programación - Documentos de marketing - Documentación del producto
 title: Creación de un nuevo Programa de correo electrónico en la Vista Programar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Puede crear un programa de correo electrónico desde la vista de calandario del 
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Escriba un nombre. Seleccione **Correo electrónico** **Programa**.
+1. Escriba un nombre. Seleccione **Programa de correo electrónico**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,9 +35,8 @@ Puede crear un programa de correo electrónico desde la vista de calandario del 
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configure el ](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programa de correo electrónico y haga clic en  **Aprobar Programa**.
+1. [Configure el ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) programa de correo electrónico y haga clic en  **Aprobar Programa**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Además del panel detallado, la ventaja de utilizar un [programa de correo electrónico](http://docs.marketo.com/display/docs/email+programs) en lugar de una campaña inteligente es la capacidad de implementar fácilmente una [prueba A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). ¡Disfrútelo!
-
+   Además del panel detallado, la ventaja de utilizar un [programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) en lugar de una campaña inteligente es la capacidad de implementar fácilmente una [prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). ¡Disfrútelo!
