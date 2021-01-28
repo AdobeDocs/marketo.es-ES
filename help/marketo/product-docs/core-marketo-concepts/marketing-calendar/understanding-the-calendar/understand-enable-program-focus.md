@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Comprender/Habilitar el enfoque en el Programa - Documentos de marketing - Documentación del producto
 title: Comprender/Activar el enfoque de Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Comprender/Activar enfoque en Programa {#understand-enable-program-focus}
 
-El Calendario de mercadotecnia le proporciona una vista visual de las cosas, pero también permite algunas interacciones. Puede [crear](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) y [confirmar](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interactuar con las entradas, primero debe centrarse en un programa.
+El Calendario de mercadotecnia le proporciona una vista visual de las cosas, pero también permite algunas interacciones. Puede [crear](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) y [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interactuar con las entradas, primero debe centrarse en un programa.
 
-1. Vaya al **Calendario** **de mercadotecnia**.
+1. Vaya al **Calendario de mercadotecnia**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -39,12 +39,8 @@ El Calendario de mercadotecnia le proporciona una vista visual de las cosas, per
 
 >[!MORELIKETHIS]
 >
->* [Crear entradas directamente en el calendario de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
->* [Editar entradas directamente en el calendario de mercadotecnia](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
->* [Eliminar entradas directamente en el calendario de marketing](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
->* [Confirmar entradas directamente en el calendario de mercadotecnia](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
+>* [Crear entradas directamente en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
+>* [Editar entradas directamente en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
+>* [Eliminar entradas directamente en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>* [Confirmar entradas directamente en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
 
