@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: Cambiar el nombre de un recurso de marketing - Documentos de marketing - Documentación del producto
 title: Cambiar el nombre de un recurso de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -25,5 +25,4 @@ Se puede cambiar fácilmente el nombre de las carpetas, los programas y los recu
 
    >[!NOTE]
    >
-   >No puede cambiar el nombre de los archivos y las imágenes que se han cargado ni de un recurso al que se esté haciendo referencia en una Lista inteligente o una Campaña inteligente (en filtros, activadores, pasos de flujo, etc.).
-
+   >No puede cambiar el nombre de los archivos y las imágenes que se han cargado ni de un recurso al que se esté haciendo referencia en una Lista inteligente o una Campaña inteligente (en filtros, déclencheur, pasos de flujo, etc.).
