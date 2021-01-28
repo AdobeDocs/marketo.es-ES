@@ -3,9 +3,9 @@ unique-page-id: 1147235
 description: Filtrar un informe de Programa por etiqueta - Documentos de marketing - Documentación del producto
 title: Filtrar un informe de Programa por etiqueta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar un informe de Programa por etiqueta {#filter-a-program-report-by-tag}
 
-Centre su [informe de rendimiento de programa](create-a-program-performance-report.md)en [etiquetas](http://docs.marketo.com/display/docs/tags) específicas.
+Centre su [informe de rendimiento de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) en [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) específicas.
 
 1. Vaya a **Marketing** **Actividades** (o **Analytics**).
 
@@ -35,23 +35,10 @@ Centre su [informe de rendimiento de programa](create-a-program-performance-repo
 
    ![](assets/prospect2.jpg)
 
-1. ¡Listo! Haga clic en la ficha **Informe** para ver *sólo* los programas que coinciden con las etiquetas seleccionadas en el informe.
+1. ¡Listo! Haga clic en la ficha **Informe** para ver _sólo_ los programas que coinciden con las etiquetas seleccionadas en el informe.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Filtrar un informe de Programa por costo de período](filter-a-program-report-by-period-cost.md)
-
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrar un informe de Programa por costo de período](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
