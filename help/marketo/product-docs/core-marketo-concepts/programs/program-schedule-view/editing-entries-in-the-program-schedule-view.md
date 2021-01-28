@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Edición de entradas en la Vista Calandario del programa - Documentos de marketing - Documentación del producto
 title: Edición de entradas en la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Puede realizar modificaciones en los distintos elementos del programa en la vist
 >[!NOTE]
 >
 > Las entradas de campaña inteligente y programa de correo electrónico que ya se han ejecutado no se pueden mover al pasado.
-
