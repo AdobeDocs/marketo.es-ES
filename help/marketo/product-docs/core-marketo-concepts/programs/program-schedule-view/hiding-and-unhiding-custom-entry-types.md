@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: Ocultar y mostrar tipos de entrada personalizados - Documentos de marketing - Documentación del producto
 title: Ocultar y mostrar tipos de entrada personalizados
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Los tipos de entrada personalizados se pueden ocultar en la sección Administrac
 
 ## Ocultar un tipo de entrada personalizada {#hide-a-custom-entry-type}
 
-1. Vaya a la sección **Administración** y haga clic en **Calendario** **Entrada** **Tipos**.
+1. Vaya a la sección **Administración** y haga clic en **Entrada de calendario** **Tipos**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ Si desea mostrar un tipo de entrada personalizado, también es fácil.
    ¡Ta-da! El tipo de entrada personalizada ahora está oculto.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
