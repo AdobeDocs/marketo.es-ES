@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Explicación de las tarjetas de Analytics - Documentos de marketing - Documentación del producto
 title: Explicación de las tarjetas de Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Al principio de cada mes, Momentos de marketing proporciona tres tarjetas de inf
 
 ## Tarjetas de análisis {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Al tocar una tarjeta de Analytics, puede:
+Al tocar una tarjeta de Analytics, puede:
 
-* [Hacerlo favorito](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marque como hecho](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compartir](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Hacerlo favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marque como hecho](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compartir](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Toque una tarjeta de Analytics para mostrar:
 
@@ -37,7 +37,7 @@ En este ejemplo, rojo indica que el valor ha disminuido en el intervalo de fecha
 
 ## Posibles clientes adquiridos {#acquired-leads}
 
-La tarjeta **Posibles clientes adquiridos **le muestra un informe de tendencias mes tras mes sobre el número de nuevos posibles clientes.
+La tarjeta **Posibles clientes adquiridos** muestra un informe de tendencias mes tras mes sobre la cantidad de nuevos posibles clientes.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Ahora ya sabes.
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los momentos del marketing](understanding-marketo-moments.md)
->* [Explicación de las tarjetas de Evento](understanding-event-cards.md)
->* [Explicación de las tarjetas de Programa de correo electrónico](understanding-email-program-cards.md)
+>* [Explicación de los momentos del marketing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Explicación de las tarjetas de Evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Explicación de las tarjetas de Programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Hecho divertido: El primer correo electrónico enviado fue por Ray Tomlinson en 1971.
