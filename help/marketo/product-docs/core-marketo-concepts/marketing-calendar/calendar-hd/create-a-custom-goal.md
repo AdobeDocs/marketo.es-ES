@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: Crear un objetivo personalizado - Documentos de marketing - Documentación del producto
 title: Crear un objetivo personalizado
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Los objetivos son formas de seguir el progreso y motivar a su equipo. Una vez creadas, deben actualizarse manualmente.
 
-Al igual que las presentaciones, los objetivos son específicos del [espacio de trabajo](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Al igual que las presentaciones, los objetivos son específicos del [espacio de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Vaya al **Calendario**.
 
@@ -25,7 +25,7 @@ Al igual que las presentaciones, los objetivos son específicos del [espacio de 
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Seleccione la ficha** Objetivos**.
+1. Seleccione la ficha **Objetivos**.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ Al igual que las presentaciones, los objetivos son específicos del [espacio de 
    Se ha creado su objetivo personalizado.
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
