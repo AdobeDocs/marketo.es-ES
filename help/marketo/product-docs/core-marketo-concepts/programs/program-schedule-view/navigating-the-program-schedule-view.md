@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navegación por la Vista de Calandario del programa - Documentos de marketing - Documentación del producto
 title: Navegación por la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Ahora verán la vista programada de su programa.
+   Ahora verán la vista programada de su programa.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 >
 >La vista del calandario del programa es pegajosa. Una vez configurada, todos los programas se configurarán de forma predeterminada en la vista de programación.
 
-1. Cambio entre entradas
+## Cambio entre entradas {#switching-between-entries}
+
 1. En los detalles de entrada, haga clic en las flechas para desplazarse a la siguiente entrada programada.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Menú contextual de vista
+## Menú contextual de vista {#view-context-menu}
+
 1. Haga clic con el botón secundario en cualquier programa para realizar modificaciones en el Programa, la Lista inteligente, la configuración, mis tokens o los miembros.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Aquí se describen los conceptos básicos para ayudarle a navegar por la vista d
 
 >[!MORELIKETHIS]
 >
->* [Creación de una entrada en la Vista Calandario del programa](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Creación de una entrada en la Vista Calandario del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
