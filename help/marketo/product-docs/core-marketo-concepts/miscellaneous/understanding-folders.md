@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Explicación de las carpetas - Documentos de marketing - Documentación del producto
 title: Explicación de las carpetas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de las carpetas {#understanding-folders}
 
-Las carpetas dentro de un programa se pueden utilizar para organizar sus campañas y recursos inteligentes. Son diferentes de [carpetas de campañas](create-new-campaign-folder.md).
+Las carpetas dentro de un programa se pueden utilizar para organizar sus campañas y recursos inteligentes. Son diferentes de [carpetas de campañas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Crear una carpeta {#create-a-folder}
 
@@ -76,4 +76,3 @@ Funcionalidad que **no** cambiará al archivar:
 * Un recurso que está en uso seguirá funcionando incluso después de archivarlo
 * Puede utilizar un filtro para seleccionar los recursos archivados y utilizarlos en los informes
 * Los recursos archivados no se desactivan. También deben desactivarse si desea que dejen de ejecutarse
-
