@@ -3,7 +3,7 @@ unique-page-id: 1147142
 description: Creación de una Campaña inteligente por lotes en la Vista Calandario del programa - Documentos de marketing - Documentación del producto
 title: Creación de una Campaña inteligente por lotes en la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Creación de una Campaña inteligente por lotes en la Vista de Calandario del programa {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Puede crear nuevas campañas inteligentes y [volver a ejecutar las existentes](rerun-a-smart-campaign-in-the-program-schedule-view.md) dentro del programa desde la vista de calandario del programa.
+Puede crear nuevas campañas inteligentes y [volver a ejecutar las existentes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) dentro del programa desde la vista de calandario del programa.
 
 >[!NOTE]
 >
->En esta vista solo se pueden crear campañas inteligentes por lotes. No se admiten campañas de activador.
+>En esta vista solo se pueden crear campañas inteligentes por lotes. No se admiten campañas de déclencheur.
 
 1. Seleccione la fecha en la que desea que se ejecute la nueva campaña inteligente.
 
@@ -27,7 +27,7 @@ Puede crear nuevas campañas inteligentes y [volver a ejecutar las existentes](r
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Haga clic en la lista desplegable **Tipo** y elija **Inteligente** **Campaña**.
+1. Haga clic en la lista desplegable **Tipo** y elija **Campaña inteligente**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Puede crear nuevas campañas inteligentes y [volver a ejecutar las existentes](r
 
    ![](assets/four.png)
 
-1. Elija las reglas [de campaña inteligente](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. Elija las reglas [de campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
    ![](assets/changeprogramstatus-hands.png)
 
