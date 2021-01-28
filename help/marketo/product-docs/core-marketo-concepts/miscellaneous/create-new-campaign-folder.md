@@ -3,7 +3,7 @@ unique-page-id: 2953207
 description: Crear nueva carpeta de campaña - Documentos de marketing - Documentación del producto
 title: Crear nueva carpeta de campaña
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Opcional: Escriba una **Descripción** y haga clic en** Crear. **
+1. Opcional: Escriba una **Descripción** y haga clic en **Crear**.
 
    >[!TIP]
    >
@@ -43,14 +43,10 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ahora, cuando [cree un nuevo programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campañas como una opción.
+   Ahora, cuando [cree un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campañas como una opción.
 
 >[!MORELIKETHIS]
 >
->* [Crear un Programa](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Crear una nueva Campaña inteligente](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>* [Crear un Programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Crear una nueva Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
