@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: Creación de una entrada en la Vista Calandario del programa - Documentos de marketing - Documentación del producto
 title: Creación de una entrada en la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Puede crear entradas desde la vista de calandario del programa para complementar
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Asigne un nombre a la entrada. Pulse **Intro **para confirmar el nombre.
+1. Asigne un nombre a la entrada. Presione **Intro** para confirmar el nombre.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ Puede crear entradas desde la vista de calandario del programa para complementar
 
    >[!NOTE]
    >
-   >El procedimiento es una [entrada personalizada](create-custom-entry-types.md). Puede realizar tareas y otras entradas personalizadas para realizar un seguimiento de los elementos de la agenda que no sean de marketing.
+   >El procedimiento es una [entrada personalizada](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). Puede realizar tareas y otras entradas personalizadas para realizar un seguimiento de los elementos de la agenda que no sean de marketing.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ Puede crear entradas desde la vista de calandario del programa para complementar
 
 >[!NOTE]
 >
-> También puede crear una [campaña inteligente](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programa de correo electrónico](creating-a-new-email-program-in-the-schedule-view.md) a partir de la vista de programación.
-
+> También puede crear una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) o [programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) a partir de la vista de programación.
