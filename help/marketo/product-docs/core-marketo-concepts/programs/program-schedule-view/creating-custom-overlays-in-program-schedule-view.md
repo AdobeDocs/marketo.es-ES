@@ -3,7 +3,7 @@ unique-page-id: 1147251
 description: Creación de superposiciones personalizadas en la Vista de Calandario del programa - Documentos de marketing - Documentación del producto
 title: Creación de superposiciones personalizadas en la Vista Calandario del programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,11 +27,10 @@ Puede crear superposiciones personalizadas para las entradas de vista que sean r
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. También puede filtrar por [etiquetas de programa](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. También puede filtrar por [etiquetas de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
    Increíble. Ahora, la superposición solo mostrará las entradas definidas.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)
-
