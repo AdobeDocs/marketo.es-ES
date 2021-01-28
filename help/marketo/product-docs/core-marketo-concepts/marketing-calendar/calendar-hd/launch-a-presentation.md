@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Iniciar una presentación - Documentos de marketing - Documentación del producto
 title: Iniciar una presentación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para la pre
 
 >[!PREREQUISITES]
 >
->* [Crear una presentación](create-a-presentation.md)
->* [Personalización de una presentación](customize-a-presentation.md)
-
->
-
+>* [Crear una presentación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Personalización de una presentación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para la pre
 
    >[!TIP]
    >
-   >La presentación se iniciará en una nueva ficha. Si es necesario, mueva la ficha a un monitor o televisor externo para que se muestre y haga clic en **Pantalla completa** (o presione **F11 **en el teclado si está utilizando Internet Explorer).
-
+   >La presentación se iniciará en una nueva ficha. Si es necesario, mueva la ficha a un monitor o televisor externo para que se muestre y haga clic en **Pantalla completa** (o presione **F11** en el teclado si utiliza Internet Explorer).
