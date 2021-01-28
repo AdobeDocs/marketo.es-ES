@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: Conceder acceso a los usuarios a la aplicación de registro - Documentos de marketing - Documentación del producto
 title: Conceder acceso a los usuarios a la aplicación de registro
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Marketing tiene una función de usuario especial para la aplicación de registro
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Haga clic en** Invitar a nuevo usuario**.
+1. Haga clic en **Invitar a nuevo usuario**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
