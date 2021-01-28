@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: Confirmar entradas directamente en el calendario de marketing - Documentos de marketing - Documentación del producto
 title: Confirmar entradas directamente en el calendario de mercadotecnia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Las campañas inteligentes y los programas de correo electrónico pueden crearse
    La confirmación ejecuta una serie de procesos de validación y si todo se cierra, la entrada se confirmará.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
