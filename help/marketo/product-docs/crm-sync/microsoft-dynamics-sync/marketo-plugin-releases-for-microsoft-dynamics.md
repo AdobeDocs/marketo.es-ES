@@ -3,7 +3,7 @@ unique-page-id: 10099389
 description: Publicaciones del complemento de marketing para Microsoft Dynamics - Documentos de marketing - Documentación del producto
 title: Versiones del complemento de marketing para Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Al sincronizar por primera vez con Microsoft Dynamics, descargará la versión más reciente de los complementos de Marketing. De forma periódica, Marketing actualiza estos complementos para que pueda volver al mismo lugar para descargar la nueva versión.
 
-[Descargue el ](sync-setup/download-the-marketo-lead-management-solution.md) complemento más reciente correspondiente a su versión de Dynamics.
+[Descargue el ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) complemento más reciente correspondiente a su versión de Dynamics.
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ La siguiente tabla muestra las versiones más recientes.
 
 >[!MORELIKETHIS]
 >
->* [Descargar la solución de administración de posibles clientes de Marketing to](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[Descargar la solución de administración de posibles clientes de Marketing to](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
