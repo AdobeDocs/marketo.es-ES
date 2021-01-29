@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Corregir problemas de sincronización de validación de Dynamics - Documentos de marketing - Documentación del producto
 title: Corregir problemas de sincronización de validación de Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -79,7 +79,7 @@ Si tiene un ![—](assets/delete.png) aquí, vaya a Microsoft Dynamics para veri
 
    ![](assets/one.png)
 
-1. Haga clic en **Configuración **y seleccione **Soluciones.**
+1. Haga clic en **Configuración** y seleccione **Soluciones.**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ Si tiene un ![—](assets/delete.png) aquí, asegúrese de que el usuario de sin
 
    ![](assets/one.png)
 
-1. Haga clic en **Configuración **y seleccione **Configuración de marketing**.
+1. Haga clic en **Configuración** y seleccione **Configuración de marketing**.
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ Si tiene un ![—](assets/delete.png) aquí, asegúrese de asignar el usuario de
 
 >[!MORELIKETHIS]
 >
->[Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Validar Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
