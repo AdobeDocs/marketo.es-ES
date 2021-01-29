@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notas de la versión - Winter '19 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '19
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Haga clic en los vínculos de título para vista de artículos detallados para c
 
 >[!NOTE]
 >
->Microsoft está impulsando a todos los clientes en línea a actualizar a la versión más reciente de Microsoft Dynamics. Si está integrando su instancia de Marketing con Dynamics Online, deberá [actualizar a la versión más reciente de la Solución de Marketing](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) antes del **31 de enero de 2019** para asegurarse de que su integración seguirá funcionando.
+>Microsoft está impulsando a todos los clientes en línea a actualizar a la versión más reciente de Microsoft Dynamics. Si está integrando su instancia de Marketing con Dynamics Online, deberá [actualizar a la versión más reciente de la Solución de Marketing](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) antes del **31 de enero de 2019** para asegurarse de que su integración seguirá funcionando.
 
 >[!NOTE]
 >
