@@ -3,7 +3,7 @@ unique-page-id: 6848922
 description: Descargar la solución de administración de posibles clientes de Marketing to - Documentos de marketing - Documentación del producto
 title: Descargar la solución de administración de posibles clientes de Marketing to
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Deberá descargar e instalar una solución de marketing en su cuenta de Microsof
 
 >[!CAUTION]
 >
->Es imperativo descargar la última solución de marketing *antes de* realizar cualquier actualización.
+>Es imperativo descargar la última solución de marketing _antes de_ realizar cualquier actualización.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Deberá descargar e instalar una solución de marketing en su cuenta de Microsof
 
 1. Vaya al área **Administración**.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Haga clic en **CRM**.
 
@@ -45,7 +45,6 @@ Deberá descargar e instalar una solución de marketing en su cuenta de Microsof
 
 1. Seleccione la solución adecuada para su versión de Microsoft Dynamics.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    ¡Increíble! Ahora se descargará en el dispositivo un archivo zip de la solución.
-
