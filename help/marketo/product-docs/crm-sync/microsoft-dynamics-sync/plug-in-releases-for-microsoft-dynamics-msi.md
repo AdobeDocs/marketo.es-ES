@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Versiones de complementos para Microsoft Dynamics MSI - Documentos de marketing - Documentación del producto
 title: Versiones de complementos para Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Al sincronizar por primera vez con Microsoft Dynamics, descargue e instale la versión más reciente de los complementos para Marketing to Sales Insight (MSI). De forma periódica, Marketing actualiza estos complementos para que pueda volver al mismo lugar para descargar la nueva versión.
 
-[descargue el complemento más reciente](http://docs.marketo.com/x/LoJo) correspondiente a su versión de Dynamics.
+[descargue el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Al sincronizar por primera vez con Microsoft Dynamics, descargue e instale la ve
 
 ## Actualización de la solución MSI {#updating-your-msi-solution}
 
-1. Importe la versión más reciente de la solución con respecto a la versión existente de Dynamics CRM (por ejemplo: si su Dynamics CRM tiene la versión 1.4 y la versión más reciente es 1.5, importaría *sobre* la versión 1.4).
+1. Importe la versión más reciente de la solución con respecto a la versión existente de Dynamics CRM (por ejemplo: si su Dynamics CRM tiene la versión 1.4 y la versión más reciente es 1.5, importaría _sobre_ la versión 1.4).
 1. Verá la siguiente ventana emergente. Seleccione las opciones **Actualizar** y **Sobrescribir personalización**, luego haga clic en **Importar**.
 
    ![](assets/one.png)
@@ -69,4 +69,3 @@ Al sincronizar por primera vez con Microsoft Dynamics, descargue e instale la ve
   </tr> 
  </tbody> 
 </table>
-
