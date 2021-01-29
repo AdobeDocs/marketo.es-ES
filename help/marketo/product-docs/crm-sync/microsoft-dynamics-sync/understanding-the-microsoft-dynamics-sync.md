@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Explicación de Microsoft Dynamics Sync - Documentos de marketing - Documentación del producto
 title: Información sobre Microsoft Dynamics Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -31,28 +31,18 @@ La sincronización entre Marketing y Dynamics es bidireccional para posibles cli
 
 ## ¿Qué se sincroniza entre Marketing y Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [Posibles clientes](microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
-* [Contactos](microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-* [Cuentas](microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
-* [Usuarios](microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
+* [Posibles clientes](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [Contactos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
+* [Cuentas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
+* [Usuarios](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * Equipos (grupos de usuarios del sistema)
-* [Oportunidades](microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [Entidades personalizadas](microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [Oportunidades](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
+* [Entidades personalizadas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
 >[!NOTE]
 >
 >Las [credenciales introducidas en Marketing para Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) se utilizan para sincronizar datos.
 
-Hay muchos matices y características sobre la sincronización de Dynamics. Consulte los detalles en la sección [Detalles de sincronización de Microsoft Dynamics](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
-
 >[!CAUTION]
 >
 >Actualmente no se admite la actualización del entorno limitado para Marketing Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketing. Póngase en contacto con el administrador de éxito del cliente para obtener más detalles.
-
->[!MORELIKETHIS]
->
->* [Sincronizar configuración](http://docs.marketo.com/display/docs/sync+setup)
-   >
-   >
-* [Detalles de Microsoft Dynamics Sync](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)
-
