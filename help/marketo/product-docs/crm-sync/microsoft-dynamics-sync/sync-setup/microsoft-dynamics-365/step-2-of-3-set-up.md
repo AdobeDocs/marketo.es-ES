@@ -3,7 +3,7 @@ unique-page-id: 3571827
 description: Paso 2 de 3 - Configuración del usuario de sincronización de marketing en Dynamics - Documentos de marketing - Documentación del producto
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de marketing en Dynamics'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
 >[!NOTE]
 >
->Esto se aplica a la versión 4.0.0.14 y posterior de Marketing. Para las versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketing, consulte [Actualización de la solución de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Esto se aplica a la versión 4.0.0.14 y posterior de Marketing. Para las versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketing, consulte [Actualización de la solución de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Vuelva a la ficha Usuarios habilitados y actualice la lista de usuarios.
 
