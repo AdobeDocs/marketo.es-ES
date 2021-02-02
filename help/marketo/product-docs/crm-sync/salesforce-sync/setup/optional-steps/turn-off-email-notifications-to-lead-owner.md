@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: Desactivar las notificaciones por correo electrónico para el propietario principal - Documentos de marketing - Documentación del producto
 title: Desactivar notificaciones por correo electrónico para el propietario del posible cliente
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Puede desactivar las notificaciones de correo electrónico automáticas que se e
 1. Desmarque la casilla **Enviar notificación por correo electrónico al propietario en Salesforce al asignar posible cliente**. Haga clic en **Guardar**.
 
    ![](assets/new-screen.png)
-
