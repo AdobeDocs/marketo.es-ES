@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: Sincronización de Actividades personalizadas - Documentos de marketing - Documentación del producto
 title: Sincronización de Actividades personalizadas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Sincronización de Actividades personalizada {#customize-activities-sync}
 
-Si no utiliza [Perspectiva de ventas](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), Marketing puede crear registros del historial de Actividades de Salesforce para determinados eventos. Así es como habilitarlos.
+Si no utiliza la perspectiva de ventas de marketing, Marketing puede crear registros del historial de Actividades de Salesforce para determinados eventos. Así es como habilitarlos.
 
-1. Vaya a **Administración. **
+1. Vaya a **Administración**.
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ Si no utiliza [Perspectiva de ventas](http://docs.marketo.com/display/DOCS/Marke
 
    >[!NOTE]
    >
-   >Una vez habilitado, Marketing impulsará tres meses de historia de actividad. Según la cantidad de datos, *esto podría llevar varios días para completarse*. Las actualizaciones que se producen durante la inserción de Actividades iniciales pueden retrasarse hasta que se complete la sincronización de Actividades iniciales.
+   >Una vez habilitado, Marketing impulsará tres meses de historia de actividad. Según la cantidad de datos, _esto podría llevar varios días para completarse_. Las actualizaciones que se producen durante la inserción de Actividades iniciales pueden retrasarse hasta que se complete la sincronización de Actividades iniciales.
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ Si no utiliza [Perspectiva de ventas](http://docs.marketo.com/display/DOCS/Marke
 
 >[!NOTE]
 >
->**Recordatorio**
->
->
 >&quot;Correo electrónico de ventas recibido&quot; significa **no** entregado. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
 
 >[!TIP]
 >
->Si está interesado en obtener más información sobre el marketing en Salesforce, consulte nuestro [producto de Marketing to Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
-
+>Si está interesado en obtener más información sobre el marketing en Salesforce, consulte nuestro [producto de Marketing to Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
