@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: Reglas de filtro de sincronización personalizada para una dirección de correo electrónico - Documentos de marketing - Documentación del producto
 title: Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ Para evitar la sincronización de registros que no tienen una dirección de corr
 
 * Cuando se actualice el campo Nombre de Compañía (parentcustomerid) del contacto, compruebe si el campo Sincronizar con mkto del contacto es verdadero. Si es así, cambie Sincronizar a Mkto en la cuenta a **True** también
 * Cuando se actualice el campo Cliente potencial (personalizerid) de la oportunidad o Contacto (parentcontact tid), compruebe si el campo Sincronizar con mkto de la cuenta es verdadero o si el campo Sincronizar con mkto del contacto es verdadero. Si es así, cambie Sincronizar a Mkto en la oportunidad a **True** también
-
