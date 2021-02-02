@@ -3,7 +3,7 @@ unique-page-id: 8782944
 description: Hacer que el usuario de sincronización de marketing sincronice con el mercado - Documentos de marketing - Documentación del producto
 title: Hacer que el usuario de mercadotecnia sincronice con el usuario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Convertir al usuario de Marketing en usuario de mercadotecnia {#make-marketo-sync-user-a-marketing-user}
 
-El [usuario de sincronización de Marketing para](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) debe ser un usuario de Marketing para que la sincronización de campaña de Salesforce funcione correctamente. A continuación se muestra cómo convertir al usuario en un usuario de Marketing en Salesforce.
+El [usuario de sincronización de Marketing para](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) debe ser un usuario de Marketing para que la sincronización de campaña de Salesforce funcione correctamente. A continuación se muestra cómo convertir al usuario en un usuario de Marketing en Salesforce.
 
 >[!NOTE]
 >
@@ -36,4 +36,3 @@ El [usuario de sincronización de Marketing para](../../../../../../product-docs
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
    ¡bueno! Este usuario de sincronización de Marketing para ahora es un usuario de marketing.
-
