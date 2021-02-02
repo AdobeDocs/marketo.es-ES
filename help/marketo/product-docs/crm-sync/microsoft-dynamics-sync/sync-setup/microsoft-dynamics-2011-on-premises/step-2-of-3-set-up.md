@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: Paso 2 de 3 - Configuración del usuario de sincronización de marketing en Dynamics (On-premies 2011) - Documentos de marketing - Documentación del producto
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de marketing en Dynamics (On-premies 2011)'
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Bueno trabajo al completar los pasos anteriores, sigamos avanzando.
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 3: Instalación de la solución de marketing (locales para 2011)](step-1-of-3-install.md)
-
->
-
-
+>[Paso 1 de 3: Instalación de la solución de marketing (locales para 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
 
 ## Asignar función de usuario de sincronización {#assign-sync-user-role}
 
@@ -29,7 +25,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
 >[!NOTE]
 >
->Esto se aplica al complemento de marketing versión 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketing, consulte [Actualización de la solución de marketing para Microsoft Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Esto se aplica al complemento de marketing versión 4.0.0.14 y posterior. Para las versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketing, consulte [Actualización de la solución de marketing para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. En el menú inferior izquierdo, seleccione **Configuración**.
 
@@ -53,7 +49,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    >[!TIP]
    >
-   >Si no ve la función, vuelva al [paso 1 de 3](step-1-of-3-install.md) e importe la solución.
+   >Si no ve la función, vuelva al [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) e importe la solución.
 
    >[!NOTE]
    >
@@ -63,13 +59,13 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
 ¡Casi terminado! Solo tenemos algunas últimas piezas de configuración antes de pasar al siguiente artículo.
 
-1. Seleccione **Configuración**. A continuación, seleccione **Configuración de marketing **en el árbol.
+1. Seleccione **Configuración**. A continuación, seleccione **Configuración de marketing** en el árbol.
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
    >
-   >Si falta la configuración de Marketing to, intente actualizar la página. Si el problema persiste, [vuelva a publicar la solución de Marketing to](step-1-of-3-install.md) o cierre la sesión y vuelva a iniciarla.
+   >Si falta la configuración de Marketing to, intente actualizar la página. Si el problema persiste, [vuelva a publicar la solución de Marketing to](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) o cierre la sesión y vuelva a iniciarla.
 
 1. Haga clic en **Predeterminado**.
 
@@ -93,15 +89,12 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
 ## Antes de continuar con el paso 3 {#before-proceeding-to-step}
 
-    * Si desea restringir el número de registros que sincroniza, [configure un filtro de sincronización personalizado](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ahora.
-    * Ejecute el proceso [Validar Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Verifica que la configuración inicial se realizó correctamente.
+    * Si desea restringir el número de registros que sincroniza, [configure un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ahora.
+    * Ejecute el proceso [Validar Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Verifica que la configuración inicial se realizó correctamente.
     * Inicie sesión en el usuario de sincronización de marketing en Microsoft Dynamics CRM.
 
 ¡bueno trabajo!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->[Paso 3 de 3: Conectar Microsoft Dynamics con Marketing (On-situ 2011)](step-3-of-3-connect.md)
-
+>[Paso 3 de 3: Conectar Microsoft Dynamics con Marketing (On-situ 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
