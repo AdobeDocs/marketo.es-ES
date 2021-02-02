@@ -3,9 +3,9 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync - Sincronización de posibles clientes - Documentos de marketing - Documentación del producto
 title: 'Microsoft Dynamics Sync: sincronización de posibles clientes'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ La sincronización es bidireccional. Si realiza cambios en un posible cliente de
 
 >[!NOTE]
 >
->Las eliminaciones no siempre se sincronizan automáticamente en ambas direcciones. Consulte [Eliminación de un posible cliente o contacto](http://docs.marketo.com/x/agO1Ag).
+>Las eliminaciones no siempre se sincronizan automáticamente en ambas direcciones. Consulte [Eliminación de un posible cliente o contacto](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
 
 ## ¿Qué sucede si se realizan cambios en el mismo campo en ambos sistemas al mismo tiempo? (Colisión de datos) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,21 +29,20 @@ Aunque esto es raro, Marketo ganará para las personas (posibles clientes) y Dyn
 
 ## ¿Puedo crear un lead en Dynamics con Marketing? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Sí, utilice la acción de flujo [Sincronizar persona con Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Esto creará un posible cliente en Dynamics si el posible cliente no existe. Si el lead existe, el paso de flujo no realizará ninguna acción.
+Sí, utilice la acción de flujo [Sincronizar persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Esto creará un posible cliente en Dynamics si el posible cliente no existe. Si el lead existe, el paso de flujo no realizará ninguna acción.
 
 >[!NOTE]
 >
->Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña desencadenadora), el posible cliente o contacto se creará en tiempo real en Dynamics.
+>Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña de déclencheur), el lead/contact se creará en tiempo real en Dynamics.
 
 ## ¿Puedo forzar manualmente la sincronización de una persona de Marketing a un posible cliente en Dynamics? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-No, la sincronización en segundo plano automatizada es la única manera de sincronizar las actualizaciones entre Marketing y Dynamics. La acción de flujo [Sincronizar persona con Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) no forzará una sincronización del posible cliente.
+No, la sincronización en segundo plano automatizada es la única manera de sincronizar las actualizaciones entre Marketing y Dynamics. La acción de flujo [Sincronizar persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) no forzará una sincronización del posible cliente.
 
 ## ¿Qué campos se sincronizarán con Marketing? {#what-fields-will-sync-to-marketo}
 
-Puede [seleccionar campos para sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configuración.
+Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante la configuración.
 
 ## ¿Respetará Marketing las reglas de validación de Dynamics? {#will-marketo-respect-the-dynamics-validation-rules}
 
 Sí. La sincronización fallará si el formato de datos es incorrecto o si falta la información de campo requerida. Marketo registrará el resultado en el registro de Actividad de la persona si esto sucede.
-
