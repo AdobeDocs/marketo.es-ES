@@ -3,7 +3,7 @@ unique-page-id: 7504770
 description: Vista de la URL del servicio de organización - Documentos de marketing - Documentación del producto
 title: Vista de la URL del servicio de organización
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo necesita que la URL del servicio de organización se sincronice con las 
 
    ![](assets/one.png)
 
-1. Haga clic en** Configuración** y seleccione **Personalizaciones**.
+1. Haga clic en **Configuración** y seleccione **Personalizaciones**.
 
    ![](assets/two.png)
 
@@ -27,9 +27,8 @@ Marketo necesita que la URL del servicio de organización se sincronice con las 
 
    ![](assets/three.png)
 
-1. La dirección URL del servicio de organización se encuentra en** Service Endpoints**.
+1. La dirección URL del servicio de organización se encuentra en **Extremos de servicio**.
 
    ![](assets/four.png)
 
 1. Copie y pegue esta dirección URL en Marketing y disfrute del resto de la sincronización.
-
