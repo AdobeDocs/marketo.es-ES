@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: Habilitar la sincronización para una entidad personalizada - Documentos de marketing - Documentación del producto
 title: Habilitar sincronización para una entidad personalizada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 1. Seleccione **Microsoft Dynamics** y haga clic en **Deshabilitar sincronización**.
 
    Debe deshabilitar la sincronización global temporalmente para habilitar o deshabilitar una entidad personalizada.
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. En Administración de bases de datos, haga clic en el vínculo** Sincronización de entidades de Dynamics**.
+1. En Administración de bases de datos, haga clic en el vínculo **Sincronización de entidades de Dynamics**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Seleccione los campos que desee sincronizar o utilizar como [restricciones](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o activadores en listas inteligentes. Cuando termine, haga clic en **Habilitar sincronización**.
+1. Seleccione los campos que desee sincronizar o utilizar como [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o déclencheur en listas inteligentes. Cuando termine, haga clic en **Habilitar sincronización**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
