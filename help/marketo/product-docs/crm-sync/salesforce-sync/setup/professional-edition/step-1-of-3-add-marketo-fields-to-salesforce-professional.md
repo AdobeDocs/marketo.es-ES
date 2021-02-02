@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Paso 1 de 3 -Añadir campos de marketing a Salesforce (Professional) - Documentos de marketing - Documentación del producto
 title: 'Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional)'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
 1. Inicie sesión en Salesforce y haga clic en **Configuración.**
 
-   ** ![](assets/image2016-5-23-13-3a15-3a21.png)
-
-   **
+   ![](assets/image2016-5-23-13-3a15-3a21.png)
 
 1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Campos**.
 
@@ -114,13 +112,13 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
 1. Especifique la configuración de acceso y haga clic en **Siguiente**:
 
-   * Configure todos los roles en **Visible **y **Sólo lectura**
+   * Configure todas las funciones como **Visible** y **Sólo lectura**
 
    * Desactive la casilla **Sólo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de *Administrador del sistema* como usuario de sincronización, desactive la casilla **Sólo lectura** del perfil Administrador del sistema (como se muestra a continuación)
+      * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla **Sólo lectura** del perfil Administrador del sistema (como se muestra a continuación)
 
-      * Si ha creado un *perfil personalizado* para el usuario de sincronización, desactive la casilla **Sólo lectura** para ese perfil personalizado
+      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, desactive la casilla **Sólo lectura** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -132,7 +130,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar **y seleccione **Contactos**. Haga clic en **Campos**.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Contactos**. Haga clic en **Campos**.
 1. Realice los pasos del 3 al 10 para los campos de Programa Puntuación, Fecha de adquisición y Adquisición en el objeto de contacto, tal como lo hizo para el objeto principal.
 1. Opcionalmente, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
 
@@ -256,17 +254,8 @@ Lo suficientemente fácil, ¿verdad?
 
 >[!NOTE]
 >
->**Buceo profundo**
->
 >Aquí hay un [video de todo el proceso](https://nation.marketo.com/videos/1475) que debería hacerlo más claro.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Paso 2 de 3: Creación de un usuario de Salesforce para Marketing (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
-
-
+>[Paso 2 de 3: Creación de un usuario de Salesforce para Marketing (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
