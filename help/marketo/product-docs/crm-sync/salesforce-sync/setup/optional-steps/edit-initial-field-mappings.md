@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: Editar asignaciones iniciales de campos - Documentos de marketing - Documentación del producto
 title: Editar asignaciones iniciales de campos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >A esta función solo se puede acceder antes de la sincronización inicial con Salesforce. Una vez que se pulsa el botón **Sincronizar ahora**, ya no se puede hacer.
 
 Durante la sincronización inicial con Salesforce, Marketo combina automáticamente campos personalizados con nombres similares en un único campo del lado de Marketing para garantizar que los datos se puedan intercambiar con los objetos Posible cliente y Contacto en CRM. En este artículo se explica cómo personalizar estas asignaciones.
@@ -25,7 +23,7 @@ Durante la sincronización inicial con Salesforce, Marketo combina automáticame
 
 Cuando ve un campo en la carpeta Campos sin asignar, significa que no está asignado a un campo similar en el posible cliente o contacto de Salesforce. Puedes arreglar eso.
 
-1. Haga clic en Editar asignaciones.
+1. Haga clic en **Editar asignaciones**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ Si tiene campos con nombres similares en el lead y el objeto de contacto Marketi
 
    * Se restablecerán todos los cambios de asignación.
    * Restablecer el esquema solo agregará campos, no se eliminará (aunque los oculte del usuario de sincronización).
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
