@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: Habilitar la sincronización de objetos personalizados que no están en inglés - Documentos de marketing - Documentación del producto
 title: Habilitar sincronización de objetos personalizados que no están en inglés
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >No olvide actualizar el Esquema una última vez para recuperar los objetos en su idioma.
-
