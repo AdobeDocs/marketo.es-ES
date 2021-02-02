@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719300
-description: Añadir/quitar el campo de objeto personalizado como Lista inteligente/Restricciones de activador - Documentos de marketing - Documentación del producto
-title: Añadir/quitar el campo de objeto personalizado como restricciones de Lista inteligente/activador
+description: Añadir/quitar el campo de objeto personalizado como restricciones de Lista/Déclencheur inteligentes - Documentos de marketing - Documentación del producto
+title: Añadir/quitar el campo de objeto personalizado como restricciones de Lista/Déclencheur inteligentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
 
-# Añadir/Eliminar el campo de objeto personalizado como Lista inteligente/Restricciones de activador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Añadir/quitar el campo de objeto personalizado como restricciones de Lista/Déclencheur inteligentes {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo proporciona un control preciso sobre la sincronización de objetos personalizados de Salesforce. Esto le permite seleccionar los campos disponibles como restricciones en filtros de objetos personalizados y utilizarlos como activadores en campañas inteligentes.
+Marketo proporciona un control preciso sobre la sincronización de objetos personalizados de Salesforce. Esto le permite seleccionar los campos disponibles como restricciones en filtros de objetos personalizados y utilizarlos como déclencheur en campañas inteligentes.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Marketo proporciona un control preciso sobre la sincronización de objetos perso
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Marque las casillas junto a las restricciones de filtro/activador necesarias y haga clic en **Guardar**.
+1. Marque las casillas junto a las restricciones de filtro/déclencheur necesarias y haga clic en **Guardar**.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -61,18 +61,10 @@ Marketo proporciona un control preciso sobre la sincronización de objetos perso
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >No olvide volver a habilitar la sincronización global.
 
 ¡Guau! Ahora sus listas inteligentes y sus campañas inteligentes tienen aún más poder.
 
 >[!MORELIKETHIS]
 >
->* [Activar/Desactivar sincronización de objetos personalizados](enable-disable-custom-object-sync.md)
-
->
-
-
-
+>[Activar/Desactivar sincronización de objetos personalizados](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
