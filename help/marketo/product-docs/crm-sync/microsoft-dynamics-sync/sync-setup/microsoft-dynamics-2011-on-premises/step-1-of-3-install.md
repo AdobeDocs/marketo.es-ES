@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Paso 1 de 3 - Instalación de la solución de marketing (On-premies 2011) - Documentos de marketing - Documentación del producto
 title: 'Paso 1 de 3: Instalación de la solución de marketing (On-premies 2011)'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Para poder sincronizar Microsoft Dynamics On-Premises y Marketing, primero debe 
 
 >[!PREREQUISITES]
 >
->Debe tener [Implementación de Internet Facing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 o 3.0 (ADFS) configurados. **Nota**: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
+>Debe tener [Implementación de Internet Facing](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 o 3.0 (ADFS) configurados. **Nota**: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
->[Descargue la ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solución de administración de posibles clientes de Marketing to antes de realizar el inicio.
+>[Descargue la ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solución de administración de posibles clientes de Marketing to antes de realizar el inicio.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Para poder sincronizar Microsoft Dynamics On-Premises y Marketing, primero debe 
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Haga clic en **Examinar**. Seleccione la solución Administración de posibles clientes de Marketing to que [descargó](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **Siguiente**.
+1. Haga clic en **Examinar**. Seleccione la solución Administración de posibles clientes de Marketing to que [descargó](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Haga clic en **Siguiente**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ Para poder sincronizar Microsoft Dynamics On-Premises y Marketing, primero debe 
 >
 >Si se deshabilita cualquiera de los procesos de mensajería de Marketing para SDK, se producirá una instalación dañada.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->[Paso 2 de 3: Configuración del usuario de sincronización de marketing en Dynamics (On-premies 2011)](step-2-of-3-set-up.md)
+>[Paso 2 de 3: Configuración del usuario de sincronización de marketing en Dynamics (On-premies 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
