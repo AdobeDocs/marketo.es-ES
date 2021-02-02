@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Filtro de sincronización de Microsoft Dynamics - Combinar - Documentos de marketing - Documentación del producto
 title: Filtro de sincronización de Microsoft Dynamics - Combinar
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Es cuando un registro es verdadero y uno es falso que se vuelve complicado.
 | False | False | El registro ganador continúa **no** sincronizándose con Marketing |
 | False | True | El registro ganador se sincronizará con Marketing |
 | True | False | El registro ganador no se sincronizará con Marketing |
-
