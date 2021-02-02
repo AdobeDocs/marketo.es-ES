@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Definir el nombre de la persona y el nombre de la Compañía predeterminados - Documentos de marketing - Documentación del producto
 title: Definir el nombre de la persona y el nombre de la Compañía predeterminados
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Salesforce requiere un apellido (mínimo) y un nombre de compañía para sus pos
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Introduzca un **apellido de persona predeterminado** y un **Predeterminado ****compañía de persona** y haga clic en **Guardar**.
+1. Introduzca un **apellido de persona predeterminado** y una **compañía de persona predeterminada** y haga clic en **Guardar**.
 
    ![](assets/sync-options-hands.png)
 
