@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Paso 2 de 3 -Crear un usuario de Salesforce para Marketing (Professional) - Documentos de marketing - Documentación del producto
 title: 'Paso 2 de 3: Crear un usuario de Salesforce para Marketing (Professional)'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[Paso 1 de 3: Añadir campos de marketing a Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 En este artículo, personalizará los permisos de campo con un diseño de página de Salesforce y creará un usuario de sincronización de Marketing-Salesforce.
 
@@ -92,9 +88,6 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Asegúrese de que el campo **Evento de todo el día** se ha agregado al **Diseño de página de Evento**.
 
 ## Crear usuario de sincronización {#create-sync-user}
@@ -123,13 +116,6 @@ Marketo requiere credenciales para acceder a Salesforce. Esto se realiza mejor c
 
 ¡Excelente! Ahora tiene una cuenta que Marketing puede utilizar para conectarse a Salesforce. Hagámoslo.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Paso 3 de 3: Connect Marketing y Salesforce (Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[Paso 3 de 3: Connect Marketing y Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
