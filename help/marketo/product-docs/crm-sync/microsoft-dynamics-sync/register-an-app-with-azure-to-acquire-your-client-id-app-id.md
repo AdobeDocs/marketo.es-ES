@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Registre una aplicación con Azure para adquirir su ID de cliente/ID de aplicación - Documentos de marketing - Documentación del producto
 title: Registrar una aplicación con Azure para adquirir el ID de cliente o de aplicación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Azure Active Directory amplía los directorios locales a la nube, lo que proporc
 
    ![](assets/three.png)
 
-1. Haga clic en **Nuevo registro **en la parte superior de la página.
+1. Haga clic en **Nuevo registro** en la parte superior de la página.
 
    ![](assets/four.png)
 
