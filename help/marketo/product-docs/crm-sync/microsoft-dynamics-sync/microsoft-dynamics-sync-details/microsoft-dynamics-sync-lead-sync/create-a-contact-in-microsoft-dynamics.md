@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: Crear un contacto en Microsoft Dynamics - Documentos de marketing - Documentación del producto
 title: Crear un contacto en Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Haga clic en **Acciones personales** y **Microsoft,** y seleccione **Sincronizar persona con Microsoft**.
+1. Haga clic en **Acciones personales** y **Microsoft** y seleccione **Sincronizar persona con Microsoft**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña desencadenadora), el posible cliente o contacto se creará en tiempo real en Dynamics.
+   >Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña de déclencheur), el lead/contact se creará en tiempo real en Dynamics.
 
 1. Marketo califica ese registro de posibles clientes en Dynamics en un contacto que no está asociado a ninguna cuenta en Dynamics.
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. Ahora puede seleccionar **Contacto** cuando utilice la restricción Sincronizar como en un filtro de campaña inteligente.
 
    ![](assets/five.png)
-
