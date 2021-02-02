@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado - Documentos de marketing - Documentación del producto
 title: Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Haga clic en** Microsoft Dynamics**.
+1. Haga clic en **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Elija **Actualizado **y seleccione un intervalo de fechas con los selector de fechas. Haga clic en **Guardar**.
+1. Elija **Actualizado** y seleccione un intervalo de fechas utilizando los selectores de fechas. Haga clic en **Guardar**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ En el caso poco frecuente de que un campo Dinámica y Marketing no estén sincro
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    ¡Eso debería arreglarlo!
-
