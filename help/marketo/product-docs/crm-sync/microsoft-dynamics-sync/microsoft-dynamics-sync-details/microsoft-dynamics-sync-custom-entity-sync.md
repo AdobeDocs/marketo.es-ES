@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Sincronización de entidades personalizadas - Documentos de marketing - Documentación del producto
 title: Microsoft Dynamics Sync - Sincronización de entidades personalizadas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
 >[!PREREQUISITES]
 >
->Para utilizar un objeto personalizado, debe asociarse a un objeto [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) o [account](microsoft-dynamics-sync-account-sync.md)en Dynamics.
+>Para utilizar un objeto personalizado, debe asociarse a un objeto [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md), [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md) o [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)en Dynamics.
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Instale una versión de Microsoft Dynamics que admita la sincronización de entidades personalizada (después de 2_0_0_2). Consulte [Versiones del complemento de marketing para MIcrosoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Instale una versión de Microsoft Dynamics que admita la sincronización de entidades personalizada (después de 2_0_0_2). Consulte [Versiones del complemento de marketing para MIcrosoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+
 1. Proporcione al usuario de sincronización de marketing acceso de lectura a todas las entidades que desee sincronizar.
-1. En Administración de bases de datos, haga clic en el vínculo** Sincronización de entidades de Dynamics**.
+
+1. En Administración de bases de datos, haga clic en el vínculo **Sincronización de entidades de Dynamics**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Después de sincronizar la lista, seleccione los campos que desee sincronizar y los que desee utilizar como [restricciones](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o activadores en listas inteligentes. Cuando termine, haga clic en **Habilitar sincronización**.
+1. Después de sincronizar la lista, seleccione los campos que desee sincronizar y los que desee utilizar como [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) y/o déclencheur en listas inteligentes. Cuando termine, haga clic en **Habilitar sincronización**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ Si necesita habilitar la sincronización de entidad personalizada inicial para q
 
    >[!NOTE]
    >
-   >Los nombres de entidad pueden tener un máximo de** 33 caracteres**.
+   >Los nombres de entidades pueden tener un máximo de **33 caracteres**.
 
 ¡Estás bien!
