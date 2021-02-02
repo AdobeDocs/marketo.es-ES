@@ -3,7 +3,7 @@ unique-page-id: 10092977
 description: Filtro de sincronización de Microsoft Dynamics - Cualificar - Documentos de marketing - Documentación del producto
 title: 'Filtro de sincronización de Microsoft Dynamics: calificar'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -29,4 +29,3 @@ A continuación se muestra cómo funcionan los filtros durante el proceso de con
 >[!CAUTION]
 >
 >Solo se admite el proceso de conversión de Cualificación lista para usar.
-
