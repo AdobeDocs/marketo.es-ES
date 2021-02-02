@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Paso 1 de 3 -Añadir campos de marketing a Salesforce (Enterprise/Unlimited) - Documentos de marketing - Documentación del producto
 title: 'Paso 1 de 3: Añadir campos de marketing a Salesforce (Enterprise/Unlimited)'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Añada tres campos personalizados en los objetos de contacto y de posible client
 
 Realice los siguientes pasos para cada uno de los tres campos personalizados y agréguelos. Inicio con Puntuación.
 
-1. Inicie sesión en Salesforce y haga clic en Configuración.
+1. Inicie sesión en Salesforce y haga clic en **Configuración**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. En el menú Generar de la izquierda, haga clic en Personalizar y seleccione Posibles clientes. Haga clic en Campos.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Campos**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Haga clic en Nuevo en la sección Campos y relaciones personalizados en la parte inferior de la página.
+1. Haga clic en **Nuevo** en la sección Campos y relaciones personalizados en la parte inferior de la página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,7 +47,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Haga clic en Siguiente.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,18 +106,18 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 >
 >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Haga clic en Siguiente.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Especifique la configuración de acceso y haga clic en Siguiente:
+1. Especifique la configuración de acceso y haga clic en **Siguiente**:
 
-   * Configure todos los roles en **Visible **y **Sólo lectura**
+   * Configure todas las funciones como **Visible** y **Sólo lectura**
 
    * Desactive la casilla **Sólo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de *Administrador del sistema* como usuario de sincronización, desactive la casilla **Sólo lectura** del perfil Administrador del sistema (como se muestra a continuación)
-      * Si ha creado un *perfil personalizado* para el usuario de sincronización, desactive la casilla **Sólo lectura** para ese perfil personalizado
+      * Si tiene un usuario con el perfil de _Administrador del sistema_ como usuario de sincronización, desactive la casilla **Sólo lectura** del perfil Administrador del sistema (como se muestra a continuación)
+      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, desactive la casilla **Sólo lectura** para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados y a
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Haga clic en Guardar y nuevo para volver atrás y crear cada uno de los otros dos campos personalizados. Haga clic en Guardar con lo que ha terminado con los tres.
+1. Haga clic en **Guardar y nuevo** para volver atrás y crear cada uno de los otros dos campos personalizados. Haga clic en **Guardar** con los tres.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. En el menú Generar de la izquierda, haga clic en Personalizar y seleccione Contactos. Haga clic en Campos.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione Contactos. Haga clic en Campos.
 1. Realice los pasos del 3 al 10 para los campos de Programa Puntuación, Fecha de adquisición y Adquisición en el objeto de contacto, tal como lo hizo para el objeto principal.
 1. Opcionalmente, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
 
@@ -261,23 +261,15 @@ Un campo personalizado del objeto de posible cliente en Salesforce debe asignars
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repita los pasos anteriores para cualquier otro campo que haya creado.
+
 1. Haga clic en **Guardar** cuando haya terminado.
 
    Lo suficientemente fácil, ¿verdad?
 
 >[!NOTE]
 >
->**Buceo profundo**
->
 >Aquí hay un vínculo a un [video de todo el procedimiento](https://nation.marketo.com/videos/1475) que debería hacerlo más claro.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Paso 2 de 3: Crear un usuario de Salesforce para el marketing (Enterprise/Unlimited)](step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-
->
-
-
-
+>[Paso 2 de 3: Crear un usuario de Salesforce para el marketing (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
