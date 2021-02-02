@@ -3,9 +3,9 @@ unique-page-id: 3571833
 description: Microsoft Dynamics Sync - Sincronización de contactos - Documentos de marketing - Documentación del producto
 title: Microsoft Dynamics Sync - Sincronización de contactos
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,19 @@ Aunque esto es raro, Marketo ganará para las personas y Dynamics ganará para l
 
 ## ¿Puedo crear un contacto con Marketing? {#can-i-create-a-contact-using-marketo}
 
-Sí. [Así es como](microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
+Sí. [Así es como](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md).
 
 >[!NOTE]
 >
->Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña desencadenadora), el posible cliente o contacto se creará en tiempo real en Dynamics.
+>Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña de déclencheur), el lead/contact se creará en tiempo real en Dynamics.
 
 ## ¿Puedo forzar manualmente la sincronización de una persona o un contacto? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-No, la sincronización en segundo plano automatizada es la única manera de sincronizar las actualizaciones entre Marketing y Dynamics. La [Persona de sincronización con Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) no forzará una sincronización del posible cliente.
+No, la sincronización en segundo plano automatizada es la única manera de sincronizar las actualizaciones entre Marketing y Dynamics. La [Persona de sincronización con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) no forzará una sincronización del posible cliente.
 
 ## ¿Qué campos se sincronizarán con Marketing? {#what-fields-will-sync-to-marketo}
 
-Puede [seleccionar campos para sincronizar](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) durante la configuración. Sin embargo, Marketing solo sincronizará los campos a los que tiene acceso el usuario de sincronización de Dynamics.
+Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante la configuración. Sin embargo, Marketing solo sincronizará los campos a los que tiene acceso el usuario de sincronización de Dynamics.
 
 ## ¿Respetará Marketing las reglas de validación de Dynamics? {#will-marketo-respect-the-dynamics-validation-rules}
 
