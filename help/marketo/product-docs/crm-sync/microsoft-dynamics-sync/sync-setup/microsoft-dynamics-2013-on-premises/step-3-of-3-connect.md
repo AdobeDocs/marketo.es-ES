@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Paso 3 de 3 - Connect Marketing y Dynamics (On-premies 2013) - Documentos de marketing - Documentación del producto
 title: Paso 3 de 3 - Connect Marketing y Dynamics (On-situ 2013)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 3: Instalación de la solución de marketing en Dynamics (On-situ 2013)](step-1-of-3-install.md)
->* [Paso 2 de 3: Configuración del usuario de sincronización para Marketing (On-situ en 2013)](step-2-of-3-configure.md)
-
->
-
+>* [Paso 1 de 3: Instalación de la solución de marketing en Dynamics (On-situ 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Paso 2 de 3: Configuración del usuario de sincronización para Marketing (On-situ en 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -42,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Haga clic en **EDITAR** en **Paso 1: Escriba Credentials**.
+1. Haga clic en **Editar** en **Paso 1: Escriba Credentials**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -50,23 +47,23 @@ ht-degree: 0%
    >
    >Asegúrese de que sus credenciales son correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, tendrá que obtener una nueva suscripción de marketing.
 
-1. Introduzca **Nombre de usuario**, **Contraseña** y Microsoft Dynamics **URL** y haga clic en **GUARDAR**.
+1. Introduzca **Nombre de usuario**, **Contraseña** y Microsoft Dynamics **URL** y haga clic en **Guardar**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >El nombre de usuario de Marketing debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e) o DOMAIN\user.
+   >El nombre de usuario de Marketing debe coincidir con el nombre de usuario del usuario de sincronización en CRM. El formato puede ser user@domain.com o DOMINIO\usuario.
 
    >[!TIP]
    >
-   >¿No conoce la dirección URL? Aquí le mostraremos cómo encontrar la [URL del servicio de organización de Dynamics](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >¿No conoce la dirección URL? Aquí le mostraremos cómo encontrar la [URL del servicio de organización de Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Seleccionar campos para sincronizar {#select-fields-to-sync}
 
 Ahora necesitamos seleccionar los campos que queremos sincronizar.
 
-1. Haga clic en **EDIT **en **Paso 2: Seleccione Campos para sincronizar**.
+1. Haga clic en **Editar** en **Paso 2: Seleccione Campos para sincronizar**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +89,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
 ## Habilitar sincronización {#enable-sync}
 
-1. Haga clic en **EDIT **en **Paso 3: Habilite la sincronización**.
+1. Haga clic en **Editar** en **Paso 3: Habilite Sincronizar**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -100,7 +97,7 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
    >
    >Marketo no desduplicará automáticamente una sincronización con Microsoft Dynamics o cuando introduzca personas o leads manualmente.
 
-1. Lea todo lo que aparece en la ventana emergente, escriba su correo electrónico y haga clic en **INICIO SYNC**.
+1. Lea todo en la ventana emergente, escriba su correo electrónico y haga clic en **Sincronización de Inicio**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
@@ -110,13 +107,6 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
 ¡Excelente trabajo! Acaba de liberar el poder de la sincronización bidireccional entre Marketing y Microsoft Dynamics. Si ha adquirido Marketo Sales Insight, puede ser más divertido:
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics 2013](../../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-
->
-
-
-
+>[Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
