@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Conecte la cuenta de Marketingto con Audiencias coincidentes de LinkedIn para ut
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Escriba un **Nombre para mostrar** y elija **Audiencias coincidentes de LinkedIn**. Haga clic en **Crear**.
+1. Introduzca un **Nombre para mostrar** y elija **Audiencias coincidentes de LinkedIn**. Haga clic en **Crear**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -61,9 +61,4 @@ Conecte la cuenta de Marketingto con Audiencias coincidentes de LinkedIn para ut
 
 >[!MORELIKETHIS]
 >
->* [Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
