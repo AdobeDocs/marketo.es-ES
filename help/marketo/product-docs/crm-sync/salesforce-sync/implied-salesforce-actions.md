@@ -3,9 +3,9 @@ unique-page-id: 4719304
 description: Acciones implícitas de Salesforce - Documentos de marketing - Documentación del producto
 title: Acciones de Salesforce implícitas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cuando se ejecuta un paso de flujo específico de Salesforce, a veces se realizan pasos adicionales automáticamente. Estas son las reglas, así que ya saben:
 
-Estas reglas se aplicarán *cuando la persona no se encuentre actualmente en [Salesforce.com](http://Salesforce.com)* como contacto o posible cliente.
+Estas reglas se aplicarán _cuando la persona no se encuentre actualmente en [Salesforce.com](http://Salesforce.com)_ como contacto o posible cliente.
 
 <table> 
  <thead> 
@@ -50,6 +50,4 @@ Estas reglas se aplicarán *cuando la persona no se encuentre actualmente en [Sa
 
 Puede filtrar los registros SFDC en una Lista inteligente mediante el filtro **Tipo SFDC** con el operador establecido en &quot;no está vacío&quot;. Todos los registros SFDC tienen un valor en este campo.
 
-Recuerde que estas acciones automáticas solo se producen si el posible cliente no está actualmente en [Salesforce.com](http://Salesforce.com)
-
-La sincronización de Salesforce es genial, ¿verdad?
+Recuerde que estas acciones automáticas solo se producen si el posible cliente no está actualmente en [Salesforce.com](https://salesforce.com)
