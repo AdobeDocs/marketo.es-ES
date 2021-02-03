@@ -3,7 +3,7 @@ unique-page-id: 10096677
 description: Probar la integración del Evento ON24 - Documentos de marketing - Documentación del producto
 title: Probar la integración del Evento ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -35,10 +35,6 @@ A continuación se muestra cómo se actualizan los datos después de que se prod
 
 >[!MORELIKETHIS]
 >
->* [Ejemplo de integración de Evento ON24](example-on24-event-integration.md)
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
+>* [Ejemplo de integración de Evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
