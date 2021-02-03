@@ -3,7 +3,7 @@ unique-page-id: 11383945
 description: Explicación de las conversiones sin conexión de Facebook - Documentos de marketing - Documentación del producto
 title: Explicación de las conversiones sin conexión de Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -40,17 +40,12 @@ Eso significa que el anuncio 1, a pesar de generar menos posibles clientes, tuvo
 >
 >Sin conversiones sin conexión, el anunciante probablemente invertiría más dinero en la publicidad 3. Con los datos de conversión sin conexión, es más probable que el anunciante invierta en la publicidad 1.
 
-Puede [configurar las conversiones sin conexión de Facebook](set-up-facebook-offline-conversions.md) para enviar el rendimiento de la publicidad sin conexión a Facebook.
+Puede [configurar las conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar el rendimiento de la publicidad sin conexión a Facebook.
 
-1. Asegúrese de que la [integración de LaunchPoint de Facebook](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) está actualizada.
+1. Asegúrese de que la [integración de LaunchPoint de Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) está actualizada.
 1. Asigne las etapas del modelo de ciclo de ingresos a las etapas de conversión sin conexión en Facebook.
 1. Cuando se genera un posible cliente de Facebook a partir de un anuncio de posible cliente de Facebook y llega a una etapa asignada, Marketing envía datos de conversión sin conexión a Facebook varias veces al día mediante una API automatizada y segura. Los datos aparecen en el informe Administrador de publicidades de Facebook.
 
 >[!MORELIKETHIS]
 >
->* [Configurar conversiones sin conexión de Facebook](set-up-facebook-offline-conversions.md)
-
->
-
-
-
+>[Configurar conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
