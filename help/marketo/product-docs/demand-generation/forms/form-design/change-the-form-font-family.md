@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: Cambiar la familia de fuentes de formulario - Documentos de marketing - Documentación del producto
 title: Cambiar la familia de fuentes del formulario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 >
 >Esta configuración afecta a la etiqueta del formulario, al texto de entrada y al texto enriquecido.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. En **Formulario** **Configuración**, seleccione **Configuración**.
+1. En **Configuración del formulario**, seleccione **Configuración**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
@@ -35,7 +35,7 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 
    >[!TIP]
    >
-   >Hay un grupo de [fuentes de Google](http://www.google.com/fonts) disponibles para su uso.
+   >Hay un grupo de [fuentes de Google](https://www.google.com/fonts) disponibles para su uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -53,9 +53,6 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Recuerde aprobar el borrador de página de aterrizaje creado por los cambios del formulario.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
@@ -64,9 +61,4 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 
 >[!MORELIKETHIS]
 >
->* [Cambiar el tamaño de fuente del formulario](change-the-form-font-size.md)
-
->
-
-
-
+>[Cambiar el tamaño de fuente del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
