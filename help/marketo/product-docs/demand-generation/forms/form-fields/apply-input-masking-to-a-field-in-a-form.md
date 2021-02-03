@@ -3,7 +3,7 @@ unique-page-id: 2359667
 description: Aplicar máscara de entrada a un campo de un formulario - Documentos de marketing - Documentación del producto
 title: Aplicar máscara de entrada a un campo de un formulario
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puede restringir la entrada del visitante mediante una máscara de entrada. Por ejemplo, puede que desee que los visitantes introduzcan números de teléfono únicamente en un formato específico.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleccione el campo y asegúrese de que el **Campo** **Tipo** está establecido en **Texto**.
+1. Seleccione el campo y asegúrese de que el **Tipo de campo** está establecido en **Texto**.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Haga clic en el vínculo **Máscara** **Entrada**.
+1. Haga clic en el vínculo **Entrada de máscara**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
