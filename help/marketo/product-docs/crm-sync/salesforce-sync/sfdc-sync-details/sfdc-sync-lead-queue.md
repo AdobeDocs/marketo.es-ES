@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: Sincronización de SFDC - Cola de posibles clientes - Documentos de marketing - Documentación del producto
 title: 'Sincronización SFDC: Cola de posibles clientes'
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketo le permite agregar personas a [colas de posibles clientes de Salesforce]
 
 Puede asignar una persona a una cola de posibles clientes de Salesforce mediante cualquiera de estas acciones de flujo:
 
-* [Sincronizar persona con SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Cambiar propietario](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Cambiar propietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Si un posible cliente es propiedad de una cola de Salesforce, estos campos de pr
 * Título del propietario de ventas
 * Número de teléfono del propietario de ventas
 * Dirección de correo electrónico del propietario de ventas
-
