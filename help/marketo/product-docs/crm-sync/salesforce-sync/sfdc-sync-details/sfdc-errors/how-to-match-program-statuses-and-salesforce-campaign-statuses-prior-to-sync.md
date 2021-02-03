@@ -3,7 +3,7 @@ unique-page-id: 2360370
 description: Cómo hacer coincidir estados de Programa y estados de Campaña de Salesforce antes de la sincronización - Documentos de marketing - Documentación del producto
 title: Cómo hacer coincidir estados de Programa y estados de Campaña de Salesforce antes de la sincronización
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,5 +27,4 @@ En este mensaje de error puede optar por:
 1. Puede cancelar, corregir los errores de estado e intentar sincronizar una vez que se hayan reparado los errores. Para corregir los errores de estado, realice una de las siguientes acciones:
 
    * Inicie sesión en Salesforce y elimine o cambie el nombre de los Estados miembros de la Campaña incompatible para asignarlos a los estados de Programa de marketing utilizados para el tipo de canal asociado al Programa de marketing.
-   * Modifique los estados de Programa en Marketing para asignarlos a los Estados miembros de la Campaña de Salesforce que tenga establecidos. Esta es una función de administrador de marketing. Para obtener más información, consulte [Creación de un Canal de Programa](../../../../../product-docs/administration/tags/create-a-program-channel.md).
-
+   * Modifique los estados de Programa en Marketing para asignarlos a los Estados miembros de la Campaña de Salesforce que tenga establecidos. Esta es una función de administrador de marketing. Para obtener más información, consulte [Creación de un Canal de Programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
