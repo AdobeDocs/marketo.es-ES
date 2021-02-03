@@ -3,7 +3,7 @@ unique-page-id: 4719310
 description: Activar/desactivar la sincronización de Salesforce - Documentos de marketing - Documentación del producto
 title: Habilitar/Deshabilitar la sincronización de Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,9 +17,7 @@ Al realizar cambios importantes en la configuración de la sincronización o del
 
 1. Vaya a la sección **Administración**.
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. En **Salesforce**, haga clic en **Deshabilitar sincronización**.
 
@@ -30,4 +28,3 @@ Al realizar cambios importantes en la configuración de la sincronización o del
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. Realice los cambios y vuelva a habilitar la sincronización. Es el mismo botón.
-
