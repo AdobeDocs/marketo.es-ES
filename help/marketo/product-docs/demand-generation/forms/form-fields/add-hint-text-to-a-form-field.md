@@ -3,9 +3,9 @@ unique-page-id: 2359671
 description: Añadir texto de sugerencia en un campo de formulario - Documentos de marketing - Documentación del producto
 title: Añadir texto de sugerencia en un campo de formulario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir texto de sugerencia en un campo de formulario {#add-hint-text-to-a-form-field}
 
-Las sugerencias e [instrucciones](add-tooltip-instructions-to-a-form-field.md) ayudan a los usuarios a rellenar formularios. Así es como agregar una pista.
+Las sugerencias e [instrucciones](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) ayudan a los usuarios a rellenar formularios. Así es como agregar una pista.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Las sugerencias e [instrucciones](add-tooltip-instructions-to-a-form-field.md) a
 >
 >Las **Instrucciones** del formulario son pequeñas sugerencias que se muestran cuando el visitante se sitúa sobre el campo.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Seleccione el campo e introduzca la **sugerencia** **Texto**.
+1. Seleccione el campo e introduzca el **Texto de sugerencia**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -45,20 +45,8 @@ Las sugerencias e [instrucciones](add-tooltip-instructions-to-a-form-field.md) a
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >No olvide [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios de formulario.
+   >No olvide [aprobar el borrador de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios de formulario.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
 ¡Echa un vistazo! Sigamos adelante y agregemos algunas [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.
-
->[!MORELIKETHIS]
->
->* [Añadir instrucciones de información sobre herramientas en un campo de formulario](add-tooltip-instructions-to-a-form-field.md)
-
->
-
-
-
