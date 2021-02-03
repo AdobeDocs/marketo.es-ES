@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: Editar un Canal de Evento - Documentos de marketing - Documentación del producto
 title: Editar un Canal de Evento
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Puede editar el tipo de canal desde la ficha **Resumen** del evento o desde su f
 
 >[!NOTE]
 >
->Un programa es una iniciativa de marketing específica. El **canal** está diseñado para ser el mecanismo de envío, como seminario web, presentación o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Un programa es una iniciativa de marketing específica. El **canal** está diseñado para ser el mecanismo de envío, como seminario web, presentación o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## Desde la ficha Resumen {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ También se puede asignar un nuevo tipo de canal desde la ficha **Configuración
 
    ![](assets/tradeshowchange.png)
 
-1. Haga clic en **Guardar.**
+1. Haga clic en **Guardar**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
