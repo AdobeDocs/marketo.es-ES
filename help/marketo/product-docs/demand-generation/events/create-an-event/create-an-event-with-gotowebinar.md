@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Crear un Evento con GotoWebinar - Documentos de marketing - Documentación del producto
 title: Crear un Evento con el seminario web GotoWebinar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [Añadir GoToWebinar como un servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las [acciones de flujo adecuadas](http://docs.marketo.com/display/DOCS/Flow+Actions)para rastrear la participación
+>* Configure las [acciones de flujo adecuadas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
 
 
 Primero cree su seminario web en GoToWebinar. Marketo utiliza ciertos ajustes en la creación de su GoToWebinar y algunos solo los utiliza GoToWebinar.
 
-Después de crear un evento de marketing y asociar el GoToWebinar con él, los sistemas podrán compartir la información de registro y asistencia. Para obtener ayuda para crear un seminario GoToWebinar, consulte la [Guía del usuario de GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf).
+Después de crear un evento de marketing y asociar el GoToWebinar con él, los sistemas podrán compartir la información de registro y asistencia.
 
 A continuación se muestra una lista de la configuración utilizada por Marketing.
 
@@ -36,7 +36,7 @@ A continuación se muestra una lista de la configuración utilizada por Marketin
 
 ## Fecha y hora {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`adaptador. Si realiza cambios en esta información, debe hacer clic en el vínculo &quot;**Actualizar desde el proveedor de seminario web**&quot; en **Acciones de Evento**, para que Marketing pueda ver los cambios.
+Introduzca la siguiente información para el seminario web y se colocará en el equipo de marketing a través del adaptador. Si realiza cambios en esta información, debe hacer clic en el vínculo &quot;**Actualizar desde el proveedor de seminario web**&quot; en **Acciones de Evento**, para que Marketing pueda ver los cambios.
 
 **Fecha**  de inicio: introduzca la fecha de inicio. Esto se podrá ver en Marketing.
 
@@ -56,7 +56,7 @@ A continuación se muestra una lista de la configuración utilizada por Marketin
 
 >[!TIP]
 >
->Hay campos adicionales que configurará en GoToWebinar que NO afectarán a la integración. Consulte la [Guía del usuario de GoToWebinar](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) para obtener información adicional sobre estos campos, ya que no se tratarán en este artículo. Si necesita ayuda adicional de GoToWebinar, visite su [sitio de ayuda](http://support.logmeininc.com/gotowebinar).
+>Si necesita ayuda adicional de GoToWebinar, visite su [sitio de ayuda](https://support.logmeininc.com/gotowebinar).
 
 Ahora, ¡saltemos al mercado!
 
@@ -68,7 +68,7 @@ Ahora, ¡saltemos al mercado!
    >
    >El tipo de canal del evento seleccionado debe ser **seminario web**.
 
-1. Elija **GoToWebinar** en la Lista **Evento** **Socio**.
+1. Elija **GoToWebinar** en la Lista **Socio de Evento**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Las personas que se registren en el seminario web se enviarán a su proveedor de
 
 ## Visualización del programa {#viewing-the-schedule}
 
-En la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view), haga clic en la entrada de calendario del evento. Puede ver la programación en el lado derecho de la pantalla.
+En la vista calandario del programa, haga clic en la entrada de calendario del evento. Puede ver la programación en el lado derecho de la pantalla.
 
 >[!NOTE]
 >
