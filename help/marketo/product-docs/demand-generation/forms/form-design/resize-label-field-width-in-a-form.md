@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: Cambiar el tamaño de la etiqueta o del ancho del campo en un formulario - Documentos de marketing - Documentación del producto
 title: Cambiar el tamaño de la etiqueta o el ancho del campo en un formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Existen dos formas de cambiar el tamaño tanto del ancho de la etiqueta del camp
 
 ## Arrastre y suelte la anchura {#drag-and-drop-the-width}
 
-1. En el [editor de formularios](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleccione el campo cuyo tamaño desee cambiar.
+1. En el [editor de formularios](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleccione el campo cuyo tamaño desee cambiar.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
