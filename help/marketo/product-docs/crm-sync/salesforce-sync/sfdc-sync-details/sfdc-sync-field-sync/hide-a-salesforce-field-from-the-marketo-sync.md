@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Ocultar un campo de Salesforce de la sincronización de marketing - Documentos de marketing - Documentación del producto
 title: Ocultar un campo de Salesforce de la sincronización de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ No todos los campos de Salesforce son útiles para la mercadotecnia. Puede optim
 
    ¡Eso es todo! Ya no verá este campo en el Explorador de mercadotecnia una vez finalizada la siguiente sincronización.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Ocultar y mostrar un campo](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[Ocultar y mostrar un campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
