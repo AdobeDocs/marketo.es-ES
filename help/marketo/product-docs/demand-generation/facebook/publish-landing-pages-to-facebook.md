@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Publicar Páginas de aterrizaje en Facebook - Documentos de marketing - Documentación del producto
 title: Publicar Páginas de aterrizaje en Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Puede publicar sus páginas de aterrizaje en Facebook, reuniéndose con su audiencia donde ya se cuelgan y generando más tráfico para sus programas.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard y Select. Enterprise con una función con licencia independiente.
 
@@ -65,8 +63,4 @@ Supongamos que está lanzando un nuevo libro, puede llegar a parte de su audienc
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Para eliminar la página de aterrizaje de Facebook, desaprobarla en Marketing y, cuando se le solicite, seleccione la opción para eliminar la ficha Facebook.
-
