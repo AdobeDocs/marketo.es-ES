@@ -3,7 +3,7 @@ unique-page-id: 2359400
 description: Seleccionar un tema del formulario - Documentos de marketing - Documentación del producto
 title: Seleccionar un tema de formulario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Hicimos un montón de bonitas temáticas para sus formularios. ¿Cuál te gusta más?
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/editform.png)
 
-1. Vaya a **Configuración** **Configuración**.
+1. Vaya a **Configuración del formulario**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Alterne hacia atrás y adelante para elegir el **Formulario** **Tema** de su preferencia.
+1. Alterne hacia atrás y adelante para elegir el **Tema de formulario** de su preferencia.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,7 +43,7 @@ Hicimos un montón de bonitas temáticas para sus formularios. ¿Cuál te gusta 
 
    >[!TIP]
    >
-   >También puede [editar la CSS del tema del formulario](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >También puede [editar la CSS del tema del formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 1. Haga clic en **Siguiente** para configurar otras opciones de formulario, o haga clic en **Finalizar** si sólo desea cambiar el tema del formulario.
 
@@ -53,10 +53,6 @@ Hicimos un montón de bonitas temáticas para sus formularios. ¿Cuál te gusta 
 
 >[!MORELIKETHIS]
 >
->* [Editar la CSS de un tema de formulario](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Añadir un campo en un formulario](add-a-field-to-a-form.md)
-
->
-
-
+>* [Editar la CSS de un tema de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Añadir un campo en un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
 
