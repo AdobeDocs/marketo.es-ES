@@ -3,9 +3,9 @@ unique-page-id: 2359677
 description: Usar un formulario en un Lightbox - Documentos de marketing - Documentación del producto
 title: Uso de un formulario en un Lightbox
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Un Lightbox es una técnica que abre un formulario delante del contenido cuando se desea que se muestre. Así es como.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,18 +23,15 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. En **Formulario** **Acciones**, haga clic en **Incrustar** **Código**.
+1. En **Acciones de formulario**, haga clic en **Código incrustado**.
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >El formulario debe aprobarse para que el elemento de código incrustado sea visible o utilizable.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Establezca **Código** **Tipo** en **Lightbox**.
+1. Establezca **Tipo de código** en **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
