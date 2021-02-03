@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: Cambiar estilo y color del botón de envío - Documentos de marketing - Documentación del producto
 title: Cambiar estilo y color del botón Enviar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Si encuentra el botón de envío estándar apagado, o si necesita algo más sofisticado, no dude en elegir entre una amplia gama de estilos de botón listos para usar.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ Si encuentra el botón de envío estándar apagado, o si necesita algo más sofi
    >[!NOTE]
    >
    >Al igual que muchos elementos gráficos, el botón puede tener un aspecto diferente según el navegador que utilice.
-
