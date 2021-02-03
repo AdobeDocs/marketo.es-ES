@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Crear una Audiencia personalizada en Facebook - Documentos de marketing - Documentación del producto
 title: Crear una Audiencia personalizada en Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añada Audiencias personalizadas de Facebook como un ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) servicio de LaunchPoint en la sección Administración.
+>* [Añada Audiencias personalizadas de Facebook como un ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) servicio de LaunchPoint en la sección Administración.
 >* [Acepte los ](https://www.facebook.com/ads/manage/customaudiences/tos.php) términos de Audiencias personalizadas de Facebook en su cuenta de Facebook.
 
 >
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Seleccione la ficha **Posibles clientes** y haga clic en el icono **Enviar por el puente de publicidad **en la parte inferior.
+1. Seleccione la ficha **Posibles clientes** y, a continuación, haga clic en el icono **Enviar por puente de publicidad** en la parte inferior.
 
    ![](assets/222.png)
 
-1. Seleccione **Facebook **y haga clic en **Siguiente**.
+1. Seleccione **Facebook** y haga clic en **Siguiente**.
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Añadir leads a una Audiencia personalizada en Facebook](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[Añadir leads a una Audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
