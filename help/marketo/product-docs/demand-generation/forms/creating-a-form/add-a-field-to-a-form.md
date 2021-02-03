@@ -3,9 +3,9 @@ unique-page-id: 2359543
 description: Añadir un campo a un formulario - Documentos de marketing - Documentación del producto
 title: Añadir un campo en un formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Añadir un campo en un formulario {#add-a-field-to-a-form}
 
-Una vez que [haya creado el formulario](create-a-form.md) y [haya seleccionado un tema](select-a-form-theme.md), puede que desee agregar campos adicionales para que los usuarios lo rellenen. Así es como.
+Una vez que [haya creado el formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) y [haya seleccionado un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), puede que desee agregar campos adicionales para que los usuarios lo rellenen. Así es como.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/editform-1.png)
 
@@ -39,14 +39,12 @@ Una vez que [haya creado el formulario](create-a-form.md) y [haya seleccionado u
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Ahora haga clic en** Aprobar y cerrar**.
+1. Ahora haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >Asegúrese de aprobar los borradores de página de aterrizaje creados debido a los cambios en el formulario.
 
-Nada mal. ¡Sigue el buen trabajo! ¿Qué tal si aprendemos a [hacer que un campo de formulario sea necesario](make-a-form-field-required.md) a continuación?
+Nada mal. ¡Sigue el buen trabajo! ¿Qué tal si aprendemos a [hacer que un campo de formulario sea necesario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) a continuación?
