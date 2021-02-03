@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: Crear un Evento con ReadyTalk - Documentos de marketing - Documentación del producto
 title: Crear un Evento con ReadyTalk
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Añadir ReadyTalk como un servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las [acciones de flujo adecuadas](http://docs.marketo.com/display/DOCS/Flow+Actions)para rastrear la participación
+>* Configure las [acciones de flujo adecuadas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
 
 
-Primero configure su evento en el centro de conferencias ReadyTalk. Si necesita ayuda, consulte el [Centro de recursos de ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Al elegir el tipo de registro, seleccione  **preinscribirse antes de la reunión**. Si selecciona *registrarse en el momento de la reunión*, Marketing **no** capturará un estado Registrado para su gente y solo obtendrá un estado de persona de Asistencia *después de* que el seminario web finalice.
+Primero configure su evento en el centro de conferencias ReadyTalk. Si necesita ayuda, consulte el [Centro de recursos ReadyTalk](https://www.readytalk.com/resources/readytalk). Al elegir el tipo de registro, seleccione **pre-registrarse antes de la reunión**. Si selecciona _registrarse en el momento de la reunión_, Marketing **no** capturará un estado Registrado para su gente y solo obtendrá un estado de persona de Asistencia _después de_ que el seminario web finalice.
 
 Deje **notificarme los nuevos registros por correo electrónico** sin marcar.
 
@@ -78,7 +78,7 @@ Ahora está listo para vincular su evento a Marketing.
 
 ## Visualización del programa {#viewing-the-schedule}
 
-En la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view), haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
+En la vista calandario del programa, haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
