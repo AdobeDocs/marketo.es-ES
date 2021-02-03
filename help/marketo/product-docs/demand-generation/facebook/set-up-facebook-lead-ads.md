@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Configuración de publicidades de posibles clientes de Facebook - Documentos de marketing - Documentación del producto
 title: Configurar publicidades de posibles clientes de Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Use [Publicidades de posibles clientes de Facebook](https://www.facebook.com/bus
 >
 >**Se requieren permisos de administración**
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >Para agregar publicidades de posibles clientes de Facebook a su instancia, póngase en contacto con el administrador de éxito del cliente.
 
@@ -37,7 +35,7 @@ Use [Publicidades de posibles clientes de Facebook](https://www.facebook.com/bus
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Abra una nueva ficha en el mismo explorador y vaya a [www.facebook.com.](http://www.facebook.com.) Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
+1. Abra una nueva ficha en el mismo explorador y vaya a [facebook.com](http://www.facebook.com). Inicie sesión en Facebook con la cuenta que desee utilizar para la integración.
 
    >[!NOTE]
    >
@@ -69,7 +67,7 @@ Use [Publicidades de posibles clientes de Facebook](https://www.facebook.com/bus
 
    >[!TIP]
    >
-   >Al modificar las asignaciones, puede personalizar dónde se almacenan los datos de las publicidades de posible cliente en Marketing. También puede [extraer datos de las preguntas personalizadas de posibles clientes](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Al modificar las asignaciones, puede personalizar dónde se almacenan los datos de las publicidades de posible cliente en Marketing. También puede [extraer datos de las preguntas personalizadas de posibles clientes](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Use [Publicidades de posibles clientes de Facebook](https://www.facebook.com/bus
 
 >[!MORELIKETHIS]
 >
->* [Usar Filtros y activadores de anuncios de posibles clientes en una Campaña inteligente](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Asignar campos personalizados al marketing](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Usar Filtros y Déclencheur de posibles clientes en una Campaña inteligente](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Asignar campos personalizados al marketing](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
