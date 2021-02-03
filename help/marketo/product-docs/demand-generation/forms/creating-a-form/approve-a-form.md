@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Aprobar un formulario - Documentos de marketing - Documentación del producto
 title: Aprobar un formulario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Para agregar un formulario a una de sus páginas de aterrizaje, debe aprobarse. 
 
 A continuación se muestra cómo aprobar un formulario existente que esté listo para su uso.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ A continuación se muestra cómo aprobar un formulario existente que esté listo
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Está aprobado y listo para [agregarse a una página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Está aprobado y listo para [agregarse a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ Si está realizando cambios en un formulario, puede aprobar la página directame
 
 >[!PREREQUISITES]
 >
->* [Editar un formulario](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [Editar un formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. Haga clic en **Finalizar**.
@@ -63,8 +60,6 @@ Si está realizando cambios en un formulario, puede aprobar la página directame
 
 >[!NOTE]
 >
->**Recordatorio**
->
->Recuerde que si edita el formulario después de aprobarlo, deberá [aprobar la página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) para ver los cambios.
+>Recuerde que si edita el formulario después de aprobarlo, deberá [aprobar la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) para ver los cambios.
 
 ¡Eso es todo! Tan fácil como pueda ser.
