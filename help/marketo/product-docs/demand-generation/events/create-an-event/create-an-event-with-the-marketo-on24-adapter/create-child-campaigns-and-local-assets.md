@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Crear Campañas secundarias y recursos locales - Documentos de marketing - Documentación del producto
 title: Crear Campañas secundarias y recursos locales
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ Utilice Marketing para enviar el correo electrónico de confirmación de su even
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >Para completar el correo electrónico de confirmación con esta dirección URL única, utilice el siguiente token en el correo electrónico: `{{member.webinar url}}`. Al enviar la dirección URL de confirmación, este token se resuelve automáticamente en la dirección URL de confirmación única de la persona.
 >
 >Establezca el tipo de correo electrónico de confirmación en **Operativo** para asegurarse de que las personas que se registren reciban la información de confirmación, incluso si no están suscritas.
 
 >[!TIP]
 >
->Puede configurar ON24 para enviar correos electrónicos de confirmación, recordatorio o seguimiento. Consulte el [Sitio de ayuda de ON24](http://webcastelitehelp.on24.com) para obtener más información.
+>Puede configurar ON24 para enviar correos electrónicos de confirmación, recordatorio o seguimiento. Consulte el [Sitio de ayuda de ON24](https://webcastelitehelp.on24.com) para obtener más información.
 
 ## Requisitos de Campaña secundaria de registro {#registration-child-campaign-requirements}
 
@@ -64,10 +62,10 @@ Ejemplos de campañas infantiles son una campaña de invitación, una campaña d
 >
 >Para que el adaptador pueda realizar su trabajo, debe crear una campaña de registro. Esta campaña debe activarla la persona que rellena un formulario y el primer paso debe cambiar el estado de programa de la persona a **Registrada**. A continuación, la campaña envía un correo electrónico de confirmación. Consulte el resto de este artículo para obtener más información.
 
-**Registro/Confirmación (Campaña desencadenadora)**
+**Registro/Confirmación (Campaña de Déclencheur)**
 
 * Lista inteligente
-* Activador basado en **Rellena el formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Añadir restricción**, especialmente si se utiliza el mismo formulario en varias páginas de aterrizaje.
+* Déclencheur basado en **Rellena el formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Añadir restricción**, especialmente si se utiliza el mismo formulario en varias páginas de aterrizaje.
 
 >[!CAUTION]
 >
@@ -75,7 +73,7 @@ Ejemplos de campañas infantiles son una campaña de invitación, una campaña d
 
 >[!NOTE]
 >
->Si está utilizando un formulario de marketing en una página de aterrizaje que no sea de marketing, el activador será **Rellena el formulario** con el nombre del formulario.
+>Si está utilizando un formulario de marketing en una página de aterrizaje que no sea de marketing, su déclencheur será **Rellena el formulario** con el nombre del formulario.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
@@ -97,16 +95,11 @@ El paso de flujo **Enviar correo electrónico** DEBE ser el segundo paso. El men
 >
 >Si la persona es devuelta con un error de registro, no recibirá la confirmación por correo electrónico.
 
-El siguiente paso es [probar la integración de evento ON24](test-your-on24-event-integration.md).
+El siguiente paso es [probar la integración de evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
->* [Ejemplo de integración de Evento ON24](example-on24-event-integration.md)
->* [Explicación de los estados de Programa de seminario web](understanding-webinar-program-statuses.md)
->* [Probar la integración del Evento ON24](test-your-on24-event-integration.md)
-
->
-
-
+>* [Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [Ejemplo de integración de Evento ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Explicación de los estados de Programa de seminario web](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
