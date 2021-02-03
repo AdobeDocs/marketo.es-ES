@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Configurar conversiones sin conexión de Facebook - Documentos de marketing - Documentación del producto
 title: Configurar conversiones sin conexión de Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
 >[!PREREQUISITES]
 >
->* Debe [configurar Publicidades de posibles clientes de Facebook](set-up-facebook-lead-ads.md).
->* Debe tener un modelo aprobado en [Modelador de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+models).
-
->
-
+>* Debe [configurar Publicidades de posibles clientes de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Debe tener un modelo aprobado en [Modelador de ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Configuración de administración {#admin-configuration}
@@ -34,7 +31,7 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
 
    >[!NOTE]
    >
-   >Si no lo ha hecho, siga adelante y [Configure Publicidades de posibles clientes de Facebook](set-up-facebook-lead-ads.md) y vuelva aquí.
+   >Si no lo ha hecho, siga adelante y [Configure Publicidades de posibles clientes de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) y vuelva aquí.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
    >
    >Actualmente, hay 10 eventos de Facebook que puede asignar a las siguientes etapas del ciclo de ingresos:
    >
-   >    
-   >    
-   >    * Añadas de información de pago
-   >    * Añade al carro
-   >    * Añade a la Lista de deseo
-   >    * Registros completados
-   >    * Cierres de compras iniciados
-   >    * Persona
-   >    * Otros
-   >    * Compra
-   >    * Búsquedas
-   >    * Vistas de contenido
+   >* Añadas de información de pago
+   >* Añade al carro
+   >* Añade a la Lista de deseo
+   >* Registros completados
+   >* Cierres de compras iniciados
+   >* Persona
+   >* Otros
+   >* Compra
+   >* Búsquedas
+   >* Vistas de contenido
 
 
 1. Seleccione el escenario al que desee asignar y, en la lista desplegable **Conversión de Facebook**, seleccione el Evento de Facebook al que desee asignarlo. Repita este paso para asignar todas las etapas del RCM a las etapas de conversión sin conexión en Facebook.
@@ -108,13 +103,6 @@ Al enviar datos de conversión sin conexión de vuelta a Facebook para las perso
    >
    >Los datos de conversión sin conexión se envían de Marketing a Facebook varias veces al día.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Explicación de las conversiones sin conexión de Facebook](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Explicación de las conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
