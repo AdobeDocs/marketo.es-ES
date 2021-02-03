@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Configurar la configuración de Evento y sincronizar el marketing con el seminario web - Documentos de marketing - Documentación del producto
 title: Configuración de Evento y sincronización de marketing con el seminario web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -53,16 +53,8 @@ Al configurar un evento asociado a un seminario web ON24, la programación de ev
    >
    >Si actualiza cualquier información de evento en ON24, debe hacer clic en **Actualizar desde proveedor de seminario web** en el menú Acciones de Evento para ver los nuevos datos completados.
 
-   [creación de campañas secundarias y recursos locales](create-child-campaigns-and-local-assets.md)
-
-Ahora puede pasar al siguiente paso: .
+Ahora puede pasar al siguiente paso: [crear campañas secundarias y recursos locales](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo On24](understanding-marketo-on24-adapter-events.md)
->* [Crear Campañas secundarias y recursos locales](create-child-campaigns-and-local-assets.md)
-
->
-
-
-
+>[Explicación de los Eventos del adaptador de Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
