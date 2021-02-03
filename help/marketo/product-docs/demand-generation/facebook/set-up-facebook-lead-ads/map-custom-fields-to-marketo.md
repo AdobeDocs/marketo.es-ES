@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: Asignar campos personalizados al marketing - Documentos de marketing - Documentación del producto
 title: Asignar campos personalizados al marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Es posible que desee recopilar más información que la información estándar que almacena Facebook de forma predeterminada, como la frecuencia con la que alguien utiliza su servicio de envío en línea. Esto se puede lograr [creando preguntas personalizadas](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) en las publicidades de posible cliente de Facebook.
 
-Sin embargo, **Marketing no inicio automáticamente la recopilación de estos datos**.** **Para que Marketing to inicio capture valores de campo personalizados, **debe** asignar esos campos personalizados a un campo en Marketing.
+Sin embargo, **Marketing no inicio automáticamente la recopilación de estos datos**. Para que Marketing to inicio capture valores de campo personalizados, **debe** asignar esos campos personalizados a un campo de Marketing.
 
 A continuación se muestra cómo configurarlo en el área LaunchPoint de Administración.
 
@@ -41,9 +41,7 @@ A continuación se muestra cómo configurarlo en el área LaunchPoint de Adminis
 
 1. Aquí es donde se asigna el campo personalizado de Facebook al campo de marketing. Haga clic en **Añadir.**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. En la fila nueva, introduzca el nombre del campo personalizado de Facebook.
 
@@ -59,9 +57,8 @@ A continuación se muestra cómo configurarlo en el área LaunchPoint de Adminis
 
    >[!NOTE]
    >
-   >Si todavía no tiene un campo en Marketing para asignar el campo Facebook, aprenda a [crear campos personalizados](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Si todavía no tiene un campo en Marketing para asignar el campo Facebook, aprenda a [crear campos personalizados](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
 >Usted **debe** pasar por este proceso para cualquier nuevo campo de Facebook a fin de que Marketing pueda recopilar los datos.
-
