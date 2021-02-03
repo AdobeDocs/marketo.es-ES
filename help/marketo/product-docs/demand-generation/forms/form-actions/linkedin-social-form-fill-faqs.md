@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: Preguntas más frecuentes sobre el relleno de formularios sociales de LinkedIn - Documentos de marketing - Documentación del producto
 title: Preguntas más frecuentes sobre LinkedIn Social Form Fill
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La directiva de API revisada de LinkedIn requería que elimináramos LinkedIn So
 
 ## Aspectos importantes que debe saber {#important-things-to-know}
 
-* Los botones de relleno de formularios sociales de LinkedIn ya no son una opción para agregar a Marketing desde el 28 de abril de 2016
+* Los botones de relleno de formularios sociales de LinkedIn ya no eran una opción para agregar a Marketing el 28 de abril de 2016
 
 * Se ha eliminado el botón Rellenar formulario social de LinkedIn de todos los formularios que lo tenían habilitado
 
