@@ -3,9 +3,9 @@ unique-page-id: 2950555
 description: Editar la configuración de anuncios enriquecidos de Facebook - Documentos de marketing - Documentación del producto
 title: Editar configuración de anuncios enriquecidos de Facebook
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # Editar la configuración de anuncios enriquecidos de Facebook {#edit-facebook-rich-post-settings}
 
-Personalice las publicaciones cuando las personas [lo compartan](http://docs.marketo.com/display/docs/social) en Facebook.
+Personalice las publicaciones cuando las personas lo compartan en Facebook.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-Las [aplicaciones sociales](http://docs.marketo.com/display/docs/social) de Marketing permiten que sus leads compartan sus páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas OpenGraph de Facebook (OG) permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
+Las [aplicaciones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) de Marketing permiten que sus leads compartan sus páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas OpenGraph de Facebook (OG) permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
 
 ## Seleccionar opciones de anuncios enriquecidos {#select-rich-post-options}
 
@@ -35,20 +33,19 @@ Puede especificar los tipos de información de página que se utilizarán en las
 
    * Añadir contenido estático: Seleccione esta opción para introducir manualmente el título, el rótulo y la descripción.
 
-      ![](assets/image2014-9-22-16-3a48-3a0.png)
+   ![](assets/image2014-9-22-16-3a48-3a0.png)
 
    * Añadir contenido dinámico: La aplicación social puede utilizar las etiquetas `<TITLE>`, `<CAPTION>` y `<DESCRIPTION>` de su página de aterrizaje para rellenar la publicación enriquecida.
 
-      ![](assets/image2014-9-22-16-3a48-3a9.png)
+   ![](assets/image2014-9-22-16-3a48-3a9.png)
+
    >[!NOTE]
    >
-   >Éstos ya deberían existir en el origen de la página, pero para obtener más control, puede [agregar etiquetas OG de Facebook específicas a la página de aterrizaje](edit-facebook-rich-post-settings.md).
+   >Éstos ya deberían existir en el origen de la página, pero para obtener más control, puede agregar etiquetas OG de Facebook específicas a la página de aterrizaje.
 
    * No agregar contenido enriquecido: Limita las publicaciones de Facebook de su página de aterrizaje solo al mensaje y vínculo principales.
 
-      ![](assets/image2014-9-22-16-3a48-3a18.png)
-
-
+   ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Añadir etiquetas OG de Facebook en una Página de aterrizaje {#add-facebook-og-tags-to-a-landing-page}
 
@@ -60,7 +57,7 @@ Para controlar los elementos de página que se incluirán en los elementos compa
 
    El **Diseñador de Páginas de aterrizaje** se abre en una nueva ventana.
 
-1. Seleccione **Acciones de Página de aterrizaje** > **Editar etiquetas de meta de página****.**
+1. Seleccione **Acciones de Página de aterrizaje** > **Editar etiquetas de meta de página**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
