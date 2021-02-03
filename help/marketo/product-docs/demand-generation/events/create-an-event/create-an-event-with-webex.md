@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: Crear un Evento con WebEx - Documentos de marketing - Documentación del producto
 title: Crear un Evento con WebEx
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [Añadir WebEx como un servicio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las [acciones de flujo adecuadas](http://docs.marketo.com/display/DOCS/Flow+Actions)para rastrear la participación
+>* Configure las [acciones de flujo adecuadas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
 
 
-Primero cree un Evento Webex en el Centro de Evento WebEx. Marketo utiliza únicamente la configuración y los campos específicos para su integración, que se completarán en breve. Otros campos que puede que desee configurar para WebEx se explican en la [Guía del usuario del centro de Evento WebEx](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Primero cree un Evento Webex en el Centro de Evento WebEx. Marketo utiliza únicamente la configuración y los campos específicos para su integración, que se completarán en breve. Otros campos que puede que desee configurar para WebEx se explican en la [Guía del usuario del centro de Evento WebEx](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 ## Información básica {#basic-information}
 
@@ -140,7 +140,7 @@ Usará Marketo para enviar correos electrónicos a sus usuarios registrados, cor
 
 ## Visualización del programa {#viewing-the-schedule}
 
-En la vista [calandario del programa](http://docs.marketo.com/display/docs/program+schedule+view), haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
+En la vista calandario del programa, haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
