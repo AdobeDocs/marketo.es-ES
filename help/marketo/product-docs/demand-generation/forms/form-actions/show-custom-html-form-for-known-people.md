@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: Mostrar formulario HTML personalizado para personas conocidas - Documentos de marketing - Documentación del producto
 title: Mostrar formulario HTML personalizado para personas conocidas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Si un visitante recibe una cookie (una persona conocida que proporcionó una dirección de correo electrónico en el pasado), ¿por qué molestarse con el formulario? Simplemente déles el botón de descarga. Así es como.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. En **Marketing** **Actividades**, seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. En **Actividades de marketing**, seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. En **Formulario** **Configuración**, haga clic en **Configuración**.
+1. En **Configuración de formulario**, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Definir si **Visitante conocido** **muestra**: a **Personalizado** **HTML**.
+1. Definir si **Visitante conocido, Mostrar**: a **HTML personalizado**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML** **personalizado** que se mostrará a personas conocidas.
+1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML personalizado** que se mostrará a las personas conocidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ Si un visitante recibe una cookie (una persona conocida que proporcionó una dir
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Recuerde [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
+   >Recuerde [aprobar el borrador de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
+
+   ¡Un pedazo de torta! Echa un vistazo a lo que una persona vería si regresara al mismo formulario:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >Puede dirigir el clic del botón al recurso configurando la página de seguimiento del formulario en la dirección URL del archivo.
-
-¡Un pedazo de torta! Echa un vistazo a lo que una persona vería si regresara al mismo formulario:
