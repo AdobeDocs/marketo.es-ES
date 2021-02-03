@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: 'Explicación de los estados de Programa de seminario web: documentos de marketing: documentación del producto'
 title: Explicación de los estados de Programa de seminario web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de los estados de Programa de seminario web {#understanding-webinar-program-statuses}
 
-Los estados de programa representan los distintos estados de evento que una persona avanza como miembro del evento. Están asociados a un tipo de canal. Marketo tiene un tipo de canal integrado llamado **Seminario web**. Los estados se pueden utilizar en campañas de activación y de lote.
+Los estados de programa representan los distintos estados de evento que una persona avanza como miembro del evento. Están asociados a un tipo de canal. Marketo tiene un tipo de canal integrado llamado **Seminario web**. Los estados se pueden utilizar en campañas por lotes y déclencheur.
 
 Las personas se mueven a través de los estados de programa de forma lineal y no regresan al estado. Por ejemplo, una persona con el estado **Asistencia** no puede volver a **Registrada**.
 
@@ -27,9 +27,9 @@ Esta es una breve descripción de los estados de programa asociados al canal de 
 
 **No está en Programa** : utilice este estado para eliminar personas del evento.
 
-** Invitado** - Utilice este estado para agregar personas al evento.
+**Invitado** : utilice este estado para agregar personas al evento.
 
-**Pendiente de aprobación** : utilice este estado para retener el envío de un correo electrónico de confirmación a sus usuarios. Consulte &quot;Aprobación manual de registros&quot; en [Actualizaciones de registro de Evento en ON24](on24-event-registration-updates.md) para obtener más información.
+**Pendiente de aprobación** : utilice este estado para retener el envío de un correo electrónico de confirmación a sus usuarios. Consulte &quot;Aprobación manual de registros&quot; en [Actualizaciones de registro de Evento en ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) para obtener más información.
 
 **Lista**  de espera: use este estado para mantener a algunas personas esperando hasta que haya más asientos disponibles.
 
@@ -43,7 +43,7 @@ Esta es una breve descripción de los estados de programa asociados al canal de 
 >
 >Si se produce un error de registro, puede obtener información adicional para esa persona consultando la columna Motivo de estado en la ficha Miembros de su programa. Una vez solucionado el error, puede cambiar manualmente el estado de programa del usuario a Registrado en el marketing.
 
-**Asistida**- Al finalizar el seminario, ON24 devuelve una lista de personas que asistieron. Este estado se extrae automáticamente en Marketing.
+**Asistida** - Al finalizar el seminario, ON24 devuelve una lista de personas que asistieron. Este estado se extrae automáticamente en Marketing.
 
 **Asistencia bajo demanda** : las personas que asistieron a la versión archivada del seminario web reciben este estado.
 
@@ -55,9 +55,4 @@ Esta es una breve descripción de los estados de programa asociados al canal de 
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
