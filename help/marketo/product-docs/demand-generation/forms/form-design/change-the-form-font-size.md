@@ -3,9 +3,9 @@ unique-page-id: 2359610
 description: Cambiar el tamaño de fuente del formulario - Documentos de marketing - Documentación del producto
 title: Cambiar el tamaño de fuente del formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Marketo facilita la personalización del aspecto de los formularios. Una cosa qu
 >
 >Esta configuración afecta a la etiqueta del formulario, al texto de entrada y al texto del botón de envío.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. En **Formulario** **Configuración**, seleccione **Configuración**.
+1. En **Configuración del formulario**, seleccione **Configuración**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Seleccione la **Fuente** **Tamaño** que desee.
+1. Seleccione el **Tamaño de fuente** que desee.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -48,9 +48,6 @@ Marketo facilita la personalización del aspecto de los formularios. Una cosa qu
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >Recuerde aprobar el borrador de página de aterrizaje creado por los cambios del formulario.
 
