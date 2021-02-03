@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: Añadir un campo de Salesforce existente en la sincronización de marketing - Documentos de marketing - Documentación del producto
 title: Añadir un campo de Salesforce existente en la sincronización de marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Normalmente, los nuevos campos personalizados de Salesforce se sincronizan autom
    >[!NOTE]
    >
    > Si el campo ya tiene valores en Salesforce, esos valores no se sincronizan con Marketing hasta la siguiente actualización del registro.
-
