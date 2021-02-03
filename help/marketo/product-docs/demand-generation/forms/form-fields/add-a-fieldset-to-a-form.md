@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: Añadir un FieldSet en un formulario - Documentos de marketing - Documentación del producto
 title: Añadir un FieldSet en un formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Los juegos de campo son geniales. Agrupan un montón de campos juntos. ¡También puedes controlar todo un bloque a la vez!
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ Los juegos de campo son geniales. Agrupan un montón de campos juntos. ¡Tambié
 
 >[!TIP]
 >
->Puede ocultar o mostrar dinámicamente todo el conjunto de campos en función de otro campo. Obtenga información sobre [reglas de visibilidad](dynamically-toggle-visibility-of-a-form-field.md).
-
+>Puede ocultar o mostrar dinámicamente todo el conjunto de campos en función de otro campo. Obtenga información sobre [reglas de visibilidad](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
