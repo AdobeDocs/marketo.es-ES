@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: Cambiar el idioma de los mensajes de error/validación del formulario y el botón de envío - Documentos de marketing - Documentación del producto
 title: Cambiar el idioma de los mensajes de error/validación del formulario y el botón Enviar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >Esto también cambia el idioma del botón de envío.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Seleccione el formulario y haga clic en **Editar formulario.**
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. En **Configuración del formulario,** haga clic en **Configuración**.
+1. En **Configuración del formulario**, haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Seleccione el **Error** **Idioma** que necesita.
+1. Seleccione el **Idioma de error** que necesita.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Recuerde [aprobar el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
+   >Recuerde [aprobar el borrador de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
