@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Definir un valor de campo de formulario oculto - Documentos de marketing - Documentación del producto
 title: Definir un valor de campo de formulario oculto
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Los campos ocultos suelen rellenarse dinámicamente. No se muestran a la persona
 
 >[!PREREQUISITES]
 >
->[Definir un campo de formulario como oculto](set-a-form-field-as-hidden.md)
+>[Definir un campo de formulario como oculto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Seleccione el campo {#select-the-field}
 
@@ -33,11 +33,11 @@ Si selecciona Usar valor predeterminado, puede codificar un valor específico pa
 
 ## Parámetro de URL {#url-parameter}
 
-Si desea capturar los parámetros de URL (cadenas de Consulta) de la página en la que se encuentra la persona al rellenar el formulario, puede utilizar **URL** **Parámetros** para rellenar el campo oculto.
+Si desea capturar los parámetros de URL (cadenas de Consulta) de la página en la que se encuentra la persona al rellenar el formulario, puede utilizar **parámetros de URL** para rellenar el campo oculto.
 
 >[!NOTE]
 >
->Los parámetros son algo técnicos, ¿no es así? Una vez que los consigues, son poderosos. Esta [página de Wikipedia en cadenas de Consulta](http://en.wikipedia.org/wiki/Query_string) es de alguna manera útil.
+>Los parámetros son algo técnicos, ¿no es así? Una vez que los consigues, son poderosos. Esta [página de Wikipedia en cadenas de Consulta](https://en.wikipedia.org/wiki/Query_string) es de alguna manera útil.
 
 1. Seleccione **Parámetro de URL** para **Obtener tipo de valor**.
 
@@ -53,9 +53,9 @@ Si desea capturar los parámetros de URL (cadenas de Consulta) de la página en 
 
 ## Valor de cookie {#cookie-value}
 
-Si está almacenando datos en cookies, puede utilizar **Cookie** **Value** para recoger datos cuando se envíe el formulario.
+Si está almacenando datos en cookies, puede utilizar **Valor de la cookie** para recoger datos cuando se envía el formulario.
 
-1. Seleccione **Cookie** **Valor** para **Obtener** **Valor** **Desde**.
+1. Seleccione **Valor de la cookie** para **Obtener valor de**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Si está almacenando datos en cookies, puede utilizar **Cookie** **Value** para 
 
 ## Parámetro de remitente del reenvío {#referrer-parameter}
 
-Si desea capturar datos de la página de la que proviene el visitante antes de rellenar el formulario, puede utilizar **Remitente del reenvío** **Parámetro**.
+Si desea capturar datos de la página de la que proviene el visitante antes de rellenar el formulario, puede utilizar **Parámetro de Remitente del reenvío**.
 
-1. Establezca **Get** **Valor** **De** a **Remitente del reenvío** **Parámetro**.
+1. Establezca **Obtener valor de** en **Parámetro de Remitente del reenvío**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Si desea capturar datos de la página de la que proviene el visitante antes de r
 
    >[!TIP]
    >
-   >Puede introducir un **Valor predeterminado** **Valor** en caso de que no se encuentre el parámetro de remitente del reenvío.
+   >Puede introducir un **Valor predeterminado** en caso de que no se encuentre el parámetro de remitente del reenvío.
 
 1. Haga clic en **Finalizar**.
 
@@ -90,5 +90,3 @@ Si desea capturar datos de la página de la que proviene el visitante antes de r
 1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-¡Dulce! Lo estás haciendo bastante bien. Hay más información sobre [formularios](http://docs.marketo.com/display/docs/forms).
