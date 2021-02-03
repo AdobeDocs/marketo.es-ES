@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Alternar dinámicamente la visibilidad de un campo de formulario - Documentos de marketing - Documentación del producto
 title: Alternar dinámicamente la visibilidad de un campo de formulario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir una lista de selección de país en el formulario](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
-
->
+>* [Añadir una lista de selección de país en el formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-
-Una característica realmente interesante de los formularios de Marketing es que puede ocultar o mostrar dinámicamente campos de formulario o [conjuntos de campos](add-a-fieldset-to-a-form.md).
+Una característica realmente interesante de los formularios de Marketing es que puede ocultar o mostrar dinámicamente campos de formulario o [conjuntos de campos](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
@@ -29,15 +26,15 @@ Una característica realmente interesante de los formularios de Marketing es que
 >
 >En este ejemplo, ocultemos el campo **Estado** a menos que **País** esté seleccionado como &quot;Estados Unidos&quot;.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/editform-1.png)
 
-1. Seleccione el campo que desee ocultar/mostrar dinámicamente y haga clic en el vínculo para **Visibilidad** **Reglas**.
+1. Seleccione el campo que desee ocultar/mostrar dinámicamente y haga clic en el vínculo para **Reglas de visibilidad**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,17 +60,10 @@ Una característica realmente interesante de los formularios de Marketing es que
 
    >[!NOTE]
    >
-   >Anteriormente convertimos País en un tipo de campo de lista de acopio y [agregamos todos los países como valores](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Anteriormente convertimos País en un tipo de campo de lista de acopio y [agregamos todos los países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 ¡Y eso es todo! Ahora, cuando las personas rellenan este formulario y seleccionan Estados Unidos para País, el campo Estado aparecerá dinámicamente con las opciones especificadas.
-
->[!NOTE]
->
->**Buceo profundo**
->
->¿Desea obtener más información sobre [formularios](http://docs.marketo.com/display/docs/forms)?
-
