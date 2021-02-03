@@ -3,9 +3,9 @@ unique-page-id: 2359873
 description: Eliminar una imagen o archivo cargado - Documentos de marketing - Documentación del producto
 title: Eliminar una imagen o archivo cargado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
    ![](assets/designstudio-5.png)
 
-1. Seleccione **Imágenes** y **Archivos** en el menú de la izquierda, luego haga clic en junto al nombre del archivo que desee eliminar.
+1. Seleccione **Imágenes y archivos** en el menú de la izquierda, luego haga clic en junto al nombre del archivo que desee eliminar.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Haga clic en **Archivo** **Acciones** y **Eliminar**.
+1. Haga clic en la lista desplegable **Acciones de archivo** y seleccione **Eliminar**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Compruebe que ha seleccionado el archivo correcto y haga clic en **DELETE**.
+1. Compruebe que ha seleccionado el archivo correcto y haga clic en **Eliminar**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -41,11 +41,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Reemplazar una imagen o archivo cargado](replace-an-uploaded-image-or-file.md)
->* [Buscar imágenes y archivos cargados](search-uploaded-images-and-files.md)
->* [Buscar la dirección URL de una imagen o archivo cargado](find-the-url-of-an-uploaded-image-or-file.md)
-
->
-
-
+>* [Reemplazar una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [Buscar imágenes y archivos cargados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>* [Buscar la dirección URL de una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 
