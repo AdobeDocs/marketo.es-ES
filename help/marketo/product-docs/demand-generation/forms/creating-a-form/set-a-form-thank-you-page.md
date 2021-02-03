@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Establecer una página de agradecimiento de formulario - Documentos de marketing - Documentación del producto
 title: Establecer una página de agradecimiento de formulario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Editar formulario {#edit-form}
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. En **Formulario** **Configuración** haga clic en **Configuración**.
+1. En **Configuración del formulario** haga clic en **Configuración**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Desplácese hacia abajo hasta la sección **Gracias** **Usted** **Página**.
+1. Desplácese hacia abajo hasta la sección **Página de agradecimiento**.
 
 ## Permanecer en la página {#stay-on-page}
 
 La opción Permanecer en la página mantendrá el visitante en la misma página cuando se envíe el formulario.
 
-1. Seleccione **Permanecer** **En** **Página** para **Seguir** **Arriba** **Con**.
+1. Seleccione **Permanecer en la página** para **Seguir con**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ La opción Permanecer en la página mantendrá el visitante en la misma página 
 
 La configuración de URL externa permite definir cualquier dirección URL como página de seguimiento. Una vez que el usuario haya enviado el formulario, se le dirigirá a la dirección URL especificada.
 
-1. Seleccione **URL** **externa** para **Seguir** **arriba** **con**.
+1. Seleccione **URL externa** para **Seguimiento con**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ Puede seleccionar cualquier página de aterrizaje de marketing aprobada como seg
 
 Puede agregar varias opciones y generar opciones para mostrar a las personas diferentes seguimientos según sus respuestas.
 
-1. Haga clic en **Añadir** **Opción**.
+1. Haga clic en **Añadir opción**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Elija la página adecuada para el tipo **Seguir** **Arriba** **Con**.
+1. Elija la página adecuada para el tipo **Seguimiento con**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >Debe haber creado/aprobado estas páginas de aterrizaje con antelación.
 
@@ -114,7 +111,7 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
    >
    >Puede agregar varias opciones. Sin embargo, si agrega demasiadas, puede afectar a la velocidad de carga del formulario, por lo que solo debe agregar lo que necesite.
 
-1. Analice y configure **Choice** **2**.
+1. Analice y configure **Choice 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 ¡bueno trabajo!
+
