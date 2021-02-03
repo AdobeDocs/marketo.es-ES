@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: Añadir imágenes y archivos en el marketing - Documentos de marketing - Documentación del producto
 title: Añadir imágenes y archivos para comercializar
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Es fácil añadir varias imágenes y archivos a la vez.
 
-1. Vaya al **Diseño** **Estudio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. En **Nuevo**, haga clic en** Cargar imagen** **o** **Archivo**.
+1. En **Nuevo**, haga clic en **Cargar imagen** o **Archivo**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -41,16 +41,14 @@ Es fácil añadir varias imágenes y archivos a la vez.
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Para eliminar los archivos en cola antes de cargar, haga clic en la x situada junto al nombre del archivo.
 
    >[!TIP]
    >
    >Marketo analizará todos los archivos antes de cargarlos; los archivos infectados se omitirán.
 
-   Cuando finalice la carga, haga clic en Finalizar.
+1. Cuando se complete la carga, haga clic en **Finalizar**.
+
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
 1. Las imágenes ya están disponibles para su uso en correos electrónicos y páginas de aterrizaje de campaña.
@@ -63,15 +61,6 @@ Es fácil añadir varias imágenes y archivos a la vez.
 >
 >Aunque Marketo acepta todos los tipos de archivo para la carga, solo los tipos de imagen principales (JPG, PNG, GIF, etc.) trabajará en nuestro editor de correo electrónico.
 
-## Ver un video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [Organizar sus imágenes y archivos con carpetas](organize-your-images-and-files-using-folders.md)
-
->
-
-
-
+>[Organizar sus imágenes y archivos con carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
