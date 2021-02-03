@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: Definir valores en una radio o campo seleccionado de un formulario - Documentos de marketing - Documentación del producto
 title: Definir valores en un campo seleccionado o de radio en un formulario
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Definir valores en un campo seleccionado o de radio en un formulario {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Una vez que haya [configurado un tipo de campo](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de radio o un tipo de selección, querrá definir los valores que el usuario puede elegir. Así es como.
+Una vez que haya [configurado un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de radio o un tipo de selección, querrá definir los valores que el usuario puede elegir. Así es como.
 
-1. Vaya a **Marketing** **Actividades**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione el formulario y haga clic en **Editar** **Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ Una vez que haya [configurado un tipo de campo](../../../../product-docs/adminis
    >
    >**Definición**
    >
-   >
    >**Valor de visualización:** lo que se muestra en el visitante.
-   >
    >
    >**Valor almacenado:** Qué se registra en Marketing.
 
@@ -65,4 +63,4 @@ Una vez que haya [configurado un tipo de campo](../../../../product-docs/adminis
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-¡Super trabajo! Lo estás haciendo muy bien. Obtenga más información sobre [formularios](http://docs.marketo.com/display/docs/forms).
+¡Super trabajo! Lo estás haciendo muy bien.
