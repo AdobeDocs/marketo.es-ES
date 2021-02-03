@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: Sincronización de SFDC - Combinación de un posible cliente/contacto/persona - Documentos de marketing - Documentación del producto
 title: 'Sincronización de SFDC: combinación de un posible cliente, contacto o persona'
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ A veces es mejor sólo lista las reglas. Aquí vamos:
 
 >[!NOTE]
 >
->**Ejemplo**
->
 >La combinación de 3 posibles clientes (personas) con puntuaciones de 10 cada uno, dará como resultado 1 posible (persona) con una puntuación de 30.
 
 * Los valores de campo en conflicto se toman del &quot;registro ganador&quot;. (Registro = el posible cliente o contacto resultante)
@@ -32,7 +30,4 @@ A veces es mejor sólo lista las reglas. Aquí vamos:
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Bucear profundo para obtener más información sobre [la combinación de personas en Marketing](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
-
+>Bucear profundo para obtener más información sobre [la combinación de personas en Marketing](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
