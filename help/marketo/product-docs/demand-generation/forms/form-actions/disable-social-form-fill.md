@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: Deshabilitar Relleno de formularios sociales - Documentos de marketing - Documentación del producto
 title: Deshabilitar relleno de formulario social
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A veces ya no desea que los visitantes del sitio envíen formularios con un perfil social. Así es como deshabilitarlo.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad.
 
@@ -25,7 +23,7 @@ A veces ya no desea que los visitantes del sitio envíen formularios con un perf
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Seleccione el formulario y haga clic en **Editar ****Formulario**.
+1. Seleccione el formulario y haga clic en **Editar formulario**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ A veces ya no desea que los visitantes del sitio envíen formularios con un perf
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    Eso es todo lo que necesitas hacer.
-
