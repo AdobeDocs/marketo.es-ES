@@ -3,7 +3,7 @@ unique-page-id: 10096683
 description: Actualizaciones del registro de Evento ON24 - Documentos de marketing - Documentación del producto
 title: Actualizaciones de registro en Evento ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 Puede aprobar manualmente los usuarios registrados antes de enviarles un mensaje de correo electrónico de confirmación. Para ello, deberá configurar sus campañas para gestionar este paso adicional:
 
-1. Para la Campaña Activador de registro:
+1. Para la Campaña del Déclencheur de registro:
 
-   * En la Lista inteligente, establezca el activador en **Rellena el formulario**.
+   * En la Lista inteligente, establezca el déclencheur en **Rellena el formulario**.
    * En Flujo, establezca el estado en progresión en **Pendiente de aprobación**.
 
 1. Vaya al Evento y haga clic en la ficha **Miembros**. Esta ficha muestra todas las personas que han rellenado el formulario. Su estado debe establecerse en **Pendiente de aprobación**.
@@ -41,9 +41,4 @@ Marketo extrae automáticamente la información de asistencia a las 11pm aproxim
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
