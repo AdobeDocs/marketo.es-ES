@@ -3,7 +3,7 @@ unique-page-id: 10096679
 description: Ejemplo de integración de Evento ON24 - Documentos de marketing - Documentación del producto
 title: Ejemplo de integración de Evento ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Aquí hay un evento de muestra, incluyendo campañas, para un seminario web sobr
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Seleccione **Evento **como **Tipo de Programa**.
+1. Seleccione **Evento** como **Tipo de Programa**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Seleccione **Seminario web **como **Canal **para el evento.
+1. Seleccione **Seminario web** como el **Canal** para el evento.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -51,15 +51,15 @@ Aquí hay un evento de muestra, incluyendo campañas, para un seminario web sobr
 
 * **Programación** : establezca la fecha de envío de la invitación.
 
-## Registro/Confirmación (Campaña desencadenadora) {#registration-confirmation-trigger-campaign}
+## Registro/Confirmación (Campaña de Déclencheur) {#registration-confirmation-trigger-campaign}
 
 * **Lista inteligente**
 
-   * Active la campaña en función de **Rellena el formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Añadir restricción**, especialmente si el formulario se utiliza en varias páginas de aterrizaje.
+   * Déclencheur la campaña en función de **Rellena el formulario**. Asegúrese de incluir la página de aterrizaje en la que se encuentra el formulario mediante **Añadir restricción**, especialmente si el formulario se utiliza en varias páginas de aterrizaje.
 
 >[!CAUTION]
 >
->Debe utilizar un formulario de marketing para registrar personas para el evento o un formulario que no sea de marketing con la integración de API adecuada para insertar los datos de registro en Marketing. Esto es fundamental para el éxito de la integración de socios de Evento. **NOTA**: Si está utilizando un formulario de Marketo en una página de aterrizaje que no sea de Marketo, el activador será  **Rellenar** formulario con el nombre del formulario.
+>Debe utilizar un formulario de marketing para registrar personas para el evento o un formulario que no sea de marketing con la integración de API adecuada para insertar los datos de registro en Marketing. Esto es fundamental para el éxito de la integración de socios de Evento. **NOTA**: Si está utilizando un formulario de marketing en una página de aterrizaje que no sea de marketing, su déclencheur será  **Rellenar** formulario con el nombre del formulario.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
@@ -81,9 +81,9 @@ Aquí hay un evento de muestra, incluyendo campañas, para un seminario web sobr
 
 **NOTA**: Podría usar una campaña similar para enviar un correo electrónico de seguimiento  ** diferente a las personas invitadas pero que aún no se han registrado.
 
-## Campaña de seguimiento (Campaña por lotes o desencadenador) {#follow-up-campaign-batch-or-trigger-campaign}
+## Campaña de seguimiento (Campaña por lotes o Déclencheur) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Lista**  inteligente: activador basado en cambios en el estado del programa.
+* **Lista**  inteligente: Déclencheur basado en los cambios en el estado del programa.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
@@ -93,9 +93,4 @@ Aquí hay un evento de muestra, incluyendo campañas, para un seminario web sobr
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
