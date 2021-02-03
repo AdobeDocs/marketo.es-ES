@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Introduzca sus credenciales ON24 en Marketing - Documentos de marketing - Documentación del producto
 title: Introduzca sus credenciales ON24 en Marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ Empecemos con la integración de evento ON24. Si alguna vez necesita editar o el
 
    * **Nombre**  para mostrar: introduzca un nombre para utilizarlo en el marketing. Puede ser su nombre o el nombre de su grupo si comparte sus credenciales.
    * **Servicio** : seleccione  **On24** en el menú desplegable.
-
    * **Clave**  de cliente: introduzca la clave de cliente ON24 que utiliza para iniciar sesión. La clave de cliente es una cadena de 32 dígitos que contiene una mezcla de letras y números.
    * **ID**  de cliente: introduzca el ID de cliente ON24 de 4 dígitos que utiliza para iniciar sesión. Puede obtener el ID de cliente y la clave de cliente directamente del administrador de cuentas de ON24.
 
@@ -67,13 +66,8 @@ Puede editar sus credenciales si la contraseña caduca o necesita realizar un ca
 
    ![](assets/nine.png)
 
-El siguiente paso es [crear el evento del seminario web en ON24](create-your-webinar-event-in-on24.md).
+El siguiente paso es [crear el evento del seminario web en ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
