@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: Uso de cuentas personales - Documentos de marketing - Documentación del producto
 title: Uso de cuentas personales
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Las actividades relacionadas con las cuentas personales se muestran en el panel 
 
 >[!NOTE]
 >
->**Añadir a la Campaña de marketing **y **Enviar correo electrónico **las opciones de Marketing Insight no están disponibles actualmente para cuentas de persona.
+>Las opciones **Añadir a la Campaña de marketing** y **Enviar correo electrónico** de Marketing Insight para ventas no están disponibles actualmente para cuentas de persona.
 
 ## ¿Cómo asocio oportunidades a una cuenta de persona? {#how-do-i-associate-opportunities-to-a-person-account}
 
