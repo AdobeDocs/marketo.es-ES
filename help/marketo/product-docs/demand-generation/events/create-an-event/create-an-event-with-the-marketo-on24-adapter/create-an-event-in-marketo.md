@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Crear un Evento en Marketing - Documentos de marketing - Documentación del producto
 title: Creación de un Evento en Marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,10 @@ A continuación se muestra cómo se intercambian los datos:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Cuando cree el evento de marketing, seleccione **Seminario web** como tipo de Canal. Puede editar este canal en Administración, así como crear un nuevo canal. Si crea un nuevo canal, debe ser del tipo **Evento con seminario web** para que la integración funcione. Consulte [Creación de un Canal de Programa](../../../../../product-docs/administration/tags/create-a-program-channel.md) para obtener más información.
+Cuando cree el evento de marketing, seleccione **Seminario web** como tipo de Canal. Puede editar este canal en Administración, así como crear un nuevo canal. Si crea un nuevo canal, debe ser del tipo **Evento con seminario web** para que la integración funcione. Consulte [Creación de un Canal de Programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) para obtener más información.
 
-El siguiente paso es [configurar la configuración de evento y sincronizar Marketing con el seminario web](https://docs.marketo.com/x/IRCa).
+El siguiente paso es [configurar la configuración de evento y sincronizar Marketing con el seminario web](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Eventos del adaptador de Marketo ON24](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
