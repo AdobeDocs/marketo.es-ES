@@ -3,7 +3,7 @@ unique-page-id: 2359734
 description: Previsualización de una Página de aterrizaje con contenido dinámico - Documentos de marketing - Documentación del producto
 title: Previsualización de una Página de aterrizaje con contenido dinámico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -17,14 +17,11 @@ Previsualización la página de aterrizaje después de añadir contenido dinámi
 
 >[!PREREQUISITES]
 >
->* [Uso de contenido dinámico en una Página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Previsualización de una Página de aterrizaje](preview-a-landing-page.md)
-
->
+>* [Uso de contenido dinámico en una Página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Previsualización de una Página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-
-1. Seleccione una página de aterrizaje y haga clic en **Página de Previsualización.**
+1. Seleccione una página de aterrizaje y haga clic en **Página de Previsualización**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
