@@ -3,9 +3,9 @@ unique-page-id: 2359530
 description: Añadir texto y tokens a una Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Añadir texto y tokens a una Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Los tokens son bits dinámicos de texto que pueden personalizar su página de at
    >
    >El diseñador de páginas de aterrizaje se abre en una ventana nueva.
 
-1. Doble haga clic en el cuadro de texto enriquecido al que desee agregar el token.
+1. Haga clic con el doble en el cuadro de texto enriquecido al que desee agregar el token.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -73,5 +73,4 @@ Los tokens son bits dinámicos de texto que pueden personalizar su página de at
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Misión finalizada Ahora tienes un token en tu página de aterrizaje.
-
+   ¡Misión completada! Ahora tienes un token en tu página de aterrizaje.
