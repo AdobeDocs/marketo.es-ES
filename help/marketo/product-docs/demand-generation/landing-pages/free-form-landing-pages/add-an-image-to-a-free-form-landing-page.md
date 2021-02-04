@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: Añadir una imagen en una Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
 title: Añadir una imagen en una Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir imágenes y archivos para comercializar](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[Añadir imágenes y archivos para comercializar](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Seleccione la página de aterrizaje de forma libre y haga clic en **Editar** **Borrador**.
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    ¡bueno trabajo! Acaba de agregar una imagen a la página de aterrizaje de forma libre.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
