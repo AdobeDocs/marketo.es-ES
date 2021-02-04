@@ -3,9 +3,9 @@ unique-page-id: 2359740
 description: Redirigir una Página de aterrizaje de marketing a otra página - Documentos de marketing - Documentación del producto
 title: Redirigir una Página de aterrizaje de marketing a otra página
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -19,26 +19,23 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
 >
 >**Se requieren permisos de administración**
 
-1. En **Administración**, haga clic en **Aterrizaje** **Páginas**.
+1. En **Administración**, haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. En la ficha **Reglas**, haga clic en **Nueva** y, a continuación, en **Nueva** **Redireccionar** **Regla**.
+1. En la ficha **Reglas**, haga clic en **Nueva** y, a continuación, en **Nueva regla de redirección**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la lista desplegable **first** **Original** **URL** y seleccione el archivo de marketing [CNAME](customize-your-landing-page-urls-with-a-cname.md).
+1. Haga clic en la primera lista desplegable **URL original** y seleccione el archivo de marketing [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](customize-your-landing-page-urls-with-a-cname.md).
+   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Elija la página de aterrizaje que desee redirigir en el campo **segunda URL original**.
+1. Elija la página de aterrizaje que desea redirigir en el segundo campo **URL original**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -46,7 +43,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >
    >Puede introducir cualquier ruta de URL, incluso si la página o el directorio no existen.
 
-1. Haga clic en la lista desplegable **Redireccionar** **URL** y seleccione la página a la que desee redirigir los visitantes.
+1. Haga clic en la lista desplegable **Redirigir URL** y seleccione la página a la que desee redirigir los visitantes.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -58,13 +55,6 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >
    >Para redireccionar a una página Web fuera de Marketing, haga clic en **Usar Página de aterrizaje que no sea de Marketing**.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Redireccionar una ruta de URL](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-
-
-¡Levántate los talones, Héroe de la mercadotecnia, ya has terminado!
+   >[Redireccionar una ruta de URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
