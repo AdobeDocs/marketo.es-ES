@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: Creación de una plantilla de Página de aterrizaje guiada - Documentos de marketing - Documentación del producto
 title: Creación de una plantilla de Página de aterrizaje guiada
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Buceo profundo: ¿** Cansado de leer? [Vea este fantástico ](https://youtu.be/3O7e4GdZKsM) vídeo con instrucciones paso a paso.
+>¿Cansado de leer? [Vea este fantástico ](https://youtu.be/3O7e4GdZKsM) vídeo con instrucciones paso a paso.
 
 Las plantillas de página de aterrizaje guiadas tienen una sintaxis especial. Utilice esta sintaxis para especificar qué es personalizable y dónde terminará el contenido en cada página de aterrizaje creada a partir de la plantilla. Solo las regiones o variables que especifique como editables estarán disponibles para la personalización dentro del editor de páginas de aterrizaje &quot;Guiado&quot;.
 
@@ -46,13 +46,13 @@ El contenido de un elemento con la clase mktoText (si se proporciona) se utiliza
 
 Ejemplo:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Imagen {#image}
 
-Tiene dos opciones para definir elementos de imagen editables. Puede utilizar una etiqueta `<div>`, que especifica un contenedor en el que se insertará la imagen, o una etiqueta `<img>`.
+Existen dos opciones para definir elementos de imagen editables. Puede utilizar una etiqueta `<div>`, que especifica un contenedor en el que se insertará la imagen, o una etiqueta `<img>`.
 
-## Opción 1: Usar una <div> {#option-use-a-div}
+## Opción 1: Usar un `<div>` {#option-use-a-div}
 
 Atributos requeridos:
 
