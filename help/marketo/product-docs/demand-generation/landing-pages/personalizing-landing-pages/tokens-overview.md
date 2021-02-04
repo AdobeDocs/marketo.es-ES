@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Información general sobre los tokens - Documentos de marketing - Documentación del producto
 title: Información general de tokens
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Información general de tokens {#tokens-overview}
 
-Un token es una variable que puede utilizarse en los pasos de flujo de la [campaña inteligente](http://docs.marketo.com/display/DOCS/Smart+Campaigns) de Marketing, [correos electrónicos](http://docs.marketo.com/display/DOCS/General), [páginas de aterrizaje](http://docs.marketo.com/display/DOCS/Landing+Pages), [fragmentos](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) y [campañas Web](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
+Un token es una variable que se puede utilizar en los pasos del flujo de campaña inteligente de Marketing to, los correos electrónicos, las páginas de aterrizaje, los fragmentos de código y las campañas web.
 
 ## Explicación de los valores predeterminados {#understanding-default-values}
 
@@ -131,7 +131,7 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Tokens desencadenadores {#trigger-tokens}
+## Tokens de déclencheur {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,14 +149,12 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 >[!NOTE]
 >
->Encontrará más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) basados en activadores utilizados en una campaña inteligente.
+>Encontrará más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) basados en déclencheur utilizados en una campaña inteligente.
 
 ## Tokens de programa {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## Mis tokens {#my-tokens}
