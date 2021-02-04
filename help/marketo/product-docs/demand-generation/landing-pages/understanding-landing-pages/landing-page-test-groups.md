@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Grupos de pruebas de página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Grupos de pruebas de página de aterrizaje
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
 
 >[!PREREQUISITES]
 >
->[Cree dos o más páginas de aterrizaje](../../../../getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
+>[Cree dos o más páginas de aterrizaje](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferiblemente con un formulario.
 
 1. En Design Studio, haga clic en **Nuevo**. En el menú desplegable, seleccione **Nuevo grupo de pruebas**.
 
@@ -27,10 +27,8 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
    >
    >Las otras formas de crear un grupo de prueba son:
    >
-   >    
-   >    
-   >    * Haga clic con el botón derecho en una página de aterrizaje del árbol y seleccione **Convertir en grupo de pruebas**
-   >    * Cree un grupo de prueba de Página de aterrizaje en un programa seleccionando **Grupo de prueba AB** en el menú **Nuevo recurso local**
+   >* Haga clic con el botón derecho en una página de aterrizaje del árbol y seleccione **Convertir en grupo de pruebas**
+   >* Cree un grupo de prueba de Página de aterrizaje en un programa seleccionando **Grupo de prueba AB** en el menú **Nuevo recurso local**
 
 
 1. Escriba un nombre y una descripción opcional. Seleccione las Páginas de aterrizaje que desee probar y haga clic en **Crear**.
@@ -56,4 +54,3 @@ Marketo rastrea el número de vistas de página y finalizaciones de formulario e
    >[!TIP]
    >
    >Si alguna vez desea eliminar el grupo de prueba, haga clic en **Acciones del grupo de prueba** y seleccione **Eliminar grupo de prueba**.
-
