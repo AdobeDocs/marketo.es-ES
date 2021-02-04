@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Explicación de los elementos y las variables en las plantillas guiadas - Documentos de marketing - Documentación del producto
 title: Explicación de los elementos y las variables en las plantillas guiadas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Cuando edita una página de aterrizaje guiada, los elementos se mostrarán si se
 * ![—Apuestas ](assets/image2015-5-20-12-3a44-3a40.png)de marketing
 * ![—Fragmento ](assets/image2015-5-20-12-3a47-3a45.png)de marketing
 
-Variables
+## Variables {#variables}
 
 Las variables son atributos de tipo token que se pueden personalizar desde el editor de páginas de aterrizaje guiadas, como se muestra a continuación.
 
@@ -60,5 +60,4 @@ Existen tres tipos de variables: variables de cadena, variables de color y varia
 
 >[!MORELIKETHIS]
 >
->[Creación de una plantilla de Página de aterrizaje guiada](create-a-guided-landing-page-template.md)
-
+>[Creación de una plantilla de Página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
