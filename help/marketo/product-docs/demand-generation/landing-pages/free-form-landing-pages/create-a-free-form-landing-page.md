@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Crear una Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
 title: Creación de una Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 
 >[!NOTE]
 >
->Los modos de página de aterrizaje están definidos por su plantilla. [Obtenga ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) más información sobre las plantillas de página de aterrizaje guiadas y de formulario libre.
+>Los modos de página de aterrizaje están definidos por su plantilla. [Obtenga ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) más información sobre las plantillas de página de aterrizaje guiadas y de formulario libre.
 
 ## Crear una Página de aterrizaje de forma libre en un Programa {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 
 ## Crear una Página de aterrizaje de forma libre en Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Vaya al **Diseño** **Estudio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Haga clic en **Nueva** y luego en **Nueva Página de aterrizaje.**
+1. Haga clic en **Nueva** y luego en **Nueva Página de aterrizaje**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Las páginas de aterrizaje de forma libre se pueden crear como recursos locales 
 >[!TIP]
 >
 >Desmarque &quot;Abrir editor de páginas de aterrizaje para una nueva página&quot; si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.
-
