@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: Creación de una plantilla de Página de aterrizaje de formato libre - Documentos de marketing - Documentación del producto
 title: Creación de una plantilla de Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ Las páginas de aterrizaje de forma libre requieren menos conocimientos técnico
    >Seleccione **Deshabilitar el seguimiento de Munchkin** si desea evitar que los formularios se rellenen previamente o simplemente no desea rastrear el comportamiento de Web en una página específica.\
    >Seleccione **Validar compatibilidad móvil** para asegurarse de que el código sea compatible con dispositivos móviles.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >    * [Creación de una Página de aterrizaje de forma libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Creación de una plantilla de Página de aterrizaje guiada](create-a-guided-landing-page-template.md)
-   >    * [Explicación de las Páginas de aterrizaje de formulario libre vs. guiadas](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [Creación de una Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Creación de una plantilla de Página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Explicación de las Páginas de aterrizaje de formulario libre vs. guiadas](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
