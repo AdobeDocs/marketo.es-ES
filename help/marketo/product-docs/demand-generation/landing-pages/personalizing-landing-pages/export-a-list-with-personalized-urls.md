@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Exportación de una Lista con direcciones URL personalizadas - Documentos de marketing - Documentación del producto
 title: Exportación de una Lista con direcciones URL personalizadas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Habilitar direcciones URL personalizadas para su cuenta](enable-personalized-urls-for-your-account.md)
->* [Habilitar direcciones URL personalizadas para una Página de aterrizaje](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [Habilitar direcciones URL personalizadas para su cuenta](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Habilitar direcciones URL personalizadas para una Página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. Seleccione la lista o lista inteligente, haga clic en la ficha **Posibles clientes** para obtener los resultados y, a continuación, haga clic en el icono de Excel. INLINE Asegúrese de que tiene **Marketo Unique Code **y **Marketo Unique Name** [columnas visibles](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Seleccione la lista o lista inteligente, haga clic en la ficha **Posibles clientes** para obtener los resultados y, a continuación, haga clic en el icono de Excel. INLINE Asegúrese de que tiene **columnas de código único de marketing** y **nombre único de marketing** [visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -46,11 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   ¡Y ya has terminado! Ahora tiene una lista de leads y direcciones URL personalizadas.
+   ¡Y ya terminaste! Ahora tiene una lista de leads y direcciones URL personalizadas.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
    >[!NOTE]
    >
    >Si hay leads con el mismo nombre y apellido, los números se anexarán automáticamente para garantizar que las direcciones URL permanezcan únicas.
-
