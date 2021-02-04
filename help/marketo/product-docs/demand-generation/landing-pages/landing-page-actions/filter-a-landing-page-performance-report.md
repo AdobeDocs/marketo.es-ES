@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: Filtrar un informe de rendimiento de Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Filtrar un informe de rendimiento de Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar un informe de rendimiento de Página de aterrizaje {#filter-a-landing-page-performance-report}
 
-Centre su [informe de rendimiento de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) en páginas de aterrizaje de sus programas (recursos locales), en las de Design Studio (recursos globales) o en las que se han archivado.
+Centre su [informe de rendimiento de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) en páginas de aterrizaje de sus programas (recursos locales), en las de Design Studio (recursos globales) o en las que se han archivado.
 
 1. Vaya a **Analytics** (o **Actividades de marketing**).
 
@@ -42,10 +42,3 @@ Centre su [informe de rendimiento de página de aterrizaje](../../../../product-
 1. ¡Ya has terminado! Haga clic en la ficha **Informe** para ver el informe filtrado.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Buceo profundo**
->
->Obtenga información sobre los informes en [sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
-
