@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: Explicación de las Páginas de aterrizaje de forma libre vs. guiadas - Documentos de marketing - Documentación del producto
 title: Explicación de las Páginas de aterrizaje de formulario libre vs. guiadas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de las Páginas de aterrizaje de formulario libre vs. guiadas {#understanding-free-form-vs-guided-landing-pages}
 
-La plantilla que elija determinará en qué modo de edición de páginas de aterrizaje trabajará. Hay dos rutas posibles: [forma libre](http://docs.marketo.com/display/docs/free-form+landing+pages) y [guiado](http://docs.marketo.com/display/docs/guided+landing+pages). A continuación encontrará un breve resumen de las importantes diferencias.
+La plantilla que elija determinará en qué modo de edición de páginas de aterrizaje trabajará. Hay dos rutas posibles: [forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) y [guiado](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). A continuación encontrará un breve resumen de las importantes diferencias.
 
 ## Páginas de formato libre {#free-form-pages}
 
@@ -33,13 +33,3 @@ La plantilla que elija determinará en qué modo de edición de páginas de ater
 * Se recomienda utilizarlo si ha codificado o adquirido plantillas adaptables o desea modificar una plantilla de Marketing previamente compilada.
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [Páginas de aterrizaje de forma libre](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [Páginas de aterrizaje guiadas](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
-
->
-
-
-
