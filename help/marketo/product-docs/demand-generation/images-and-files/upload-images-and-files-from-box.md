@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: Cargar imágenes y archivos desde el cuadro - Documentos de marketing - Documentación del producto
 title: Cargar imágenes y archivos desde cuadro
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puede cargar archivos desde Box para utilizarlos en páginas de aterrizaje y correos electrónicos.
 
-1. Vaya a **Diseño** **Estudio**.
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Vaya a** Imágenes y archivos**. Haga clic en **Acciones de archivo** y seleccione **Capturar imágenes de Web**.
+1. Vaya a **Imágenes y archivos**. Haga clic en **Acciones de archivo** y seleccione **Capturar imágenes de Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
