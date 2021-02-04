@@ -3,9 +3,9 @@ unique-page-id: 5472314
 description: Añadir un vínculo a una imagen en una Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
 title: Añadir un vínculo a una imagen en una Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir una imagen en una Página de aterrizaje de forma libre](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[Añadir una imagen en una Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Haga clic en la imagen a la que desee agregar un vínculo.
 
@@ -31,23 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copie o escriba el vínculo en el cuadro **linkUrl **do.
+1. Copie o escriba el vínculo en el cuadro **linkUrl**.
 
    ![](assets/add-link.png)
 
-   ¡Felicitaciones! Ahora ha agregado correctamente un vínculo a una imagen de la página de aterrizaje. Ahora puede [previsualización de la página](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para verla en acción.
+   ¡Felicitaciones! Ahora ha agregado correctamente un vínculo a una imagen de la página de aterrizaje. Ahora puede [previsualización de la página](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para verla en acción.
 
 >[!TIP]
 >
 >Siempre pruebe sus páginas.
-
->[!NOTE]
->
->**Artículos relacionados**
->
->* [Previsualización de una Página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-
->
-
-
-
