@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: Plantillas de Página de aterrizaje guiadas - Documentos de marketing - Documentación del producto
 title: Plantillas de Página de aterrizaje guiadas
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantillas de Página de aterrizaje guiadas {#guided-landing-page-templates}
 
-Explore nuestra colección de plantillas de ejemplo para utilizarlas con el [Editor de Páginas de aterrizaje guiadas](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla responde plenamente y se basa en el marco de Bootstrap.
+Explore nuestra colección de plantillas de ejemplo para utilizarlas con el [Editor de Páginas de aterrizaje guiadas](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla responde plenamente y se basa en el marco de Bootstrap.
 
 >[!NOTE]
 >
@@ -73,9 +73,9 @@ Para importar una plantilla en Marketing:
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Plantilla 12-C](guided-landing-page-templates/template-12-c.md) | [Plantilla 12-D](guided-landing-page-templates/template-12-d.md) | [Plantilla 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Plantilla 12-F](guided-landing-page-templates/template-12-f.md) | [Plantilla 13-C](guided-landing-page-templates/template-13-a.md) | [Plantilla 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Plantilla 12-F](guided-landing-page-templates/template-12-f.md) | [Plantilla 13-A](guided-landing-page-templates/template-13-a.md) | [Plantilla 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Plantilla 13-C](guided-landing-page-templates/template-13-c.md) | [Plantilla 13-D](guided-landing-page-templates/template-13-d.md) | [Plantilla 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Plantilla 13-A](guided-landing-page-templates/template-13-c.md) | [Plantilla 13-D](guided-landing-page-templates/template-13-d.md) | [Plantilla 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [Plantilla 14-A](guided-landing-page-templates/template-14-a.md) | [Plantilla 14-B](guided-landing-page-templates/template-14-b.md) | [Plantilla 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
