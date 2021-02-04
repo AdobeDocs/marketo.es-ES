@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: Añadir una imagen en una Página de aterrizaje guiada - Documentos de marketing - Documentación del producto
 title: Añadir una imagen en una Página de aterrizaje guiada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ A diferencia de las páginas de aterrizaje de forma libre, las páginas de aterr
 
    >[!NOTE]
    >
-   >El modo en que se cambia el tamaño de la imagen depende de la plantilla. Obtenga más información sobre [Plantillas de Página de aterrizaje guiada](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >El modo en que se cambia el tamaño de la imagen depende de la plantilla. Obtenga más información sobre [Plantillas de Página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >Actualmente no se admite la especificación de un vínculo para una imagen en el editor. En su lugar, utilice un elemento de texto enriquecido.
-
