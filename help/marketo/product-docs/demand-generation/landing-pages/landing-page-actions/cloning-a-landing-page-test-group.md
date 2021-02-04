@@ -3,7 +3,7 @@ unique-page-id: 2953038
 description: Clonación de un grupo de prueba de Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Clonación de un grupo de prueba de Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Desde Design Studio, puede encontrar y duplicado un grupo de prueba de página d
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 
-1. Cuando haya terminado, haga clic en **Crear.**
+1. Cuando haya terminado, haga clic en **Crear**.
 
    ![](assets/image2015-4-27-16-3a7-3a50.png)
 
@@ -44,4 +44,3 @@ Desde Design Studio, puede encontrar y duplicado un grupo de prueba de página d
    ![](assets/image2015-4-27-16-3a19-3a10.png)
 
    El grupo realizará un seguimiento activo de las visitas y de las finalizaciones de formularios para que pueda ver qué página de aterrizaje funciona mejor.
-
