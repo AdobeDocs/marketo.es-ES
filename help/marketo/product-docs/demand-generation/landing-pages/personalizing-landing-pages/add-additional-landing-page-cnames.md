@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Añadir CNAME de Página de aterrizaje adicionales - Documentos de marketing - Documentación del producto
 title: Añadir CNAME de Página de aterrizaje adicionales
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Puede que desee agregar CNAME de página de aterrizaje para permitir que distint
 
 >[!TIP]
 >
->**El mismo dominio de nivel superior - ¡Bien! Las cookies son compartidas.go**.miempresa.com > **información**.miempresa.com **Dominios de nivel superior diferentes - Malos! Las cookies no se comparten.**
->vaya.**miempresa**.com > ir.**mynewcompany**.com
+>**El mismo dominio de nivel superior - ¡Bien! Las cookies se comparten**.<br/> **go**.mycompany.com >  **info**.miempresa.com
+>
+>**Dominios de nivel superior diferentes: ¡Malos! Las cookies son _no_ compartidas**.<br/> vaya.**miempresa**.com > ir.**mynewcompany**.com
 
 >[!NOTE]
 >
