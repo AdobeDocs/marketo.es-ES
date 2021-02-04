@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: 'Personalizar la Vista móvil para su Página de aterrizaje de forma libre: documentos de marketing: documentación del producto'
 title: Personalización de la Vista móvil para su Página de aterrizaje de forma libre
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir una Vista móvil para su Página de aterrizaje de forma libre](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[Añadir una Vista móvil para su Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 La vista móvil de la página de aterrizaje de forma libre es principalmente automática, pero puede personalizarla. Así es como.
 
@@ -49,11 +45,12 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Aspectos importantes que hay que saber:  {#important-things-to-know}
+## Aspectos importantes que hay que saber: {#important-things-to-know}
 
 * Las imágenes se expandirán al ancho del dispositivo móvil. Si desea imágenes más pequeñas, arrastre el elemento de texto enriquecido y añada la imagen desde allí.
 * Utilice solo formularios de Forms 2.0. Son adaptables y se ajustarán automáticamente.
-* Solo se puede editar un elemento de plantilla, BODY#bodyid (Móvil). Puede utilizarlo para cambiar el color de fondo.\
+* Solo se puede editar un elemento de plantilla, BODY#bodyid (Móvil). Puede utilizarlo para cambiar el color de fondo.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Ocultar un elemento de la Vista Móvil {#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ De forma predeterminada, todo lo que hay en la vista de escritorio se muestra en
 
 ¡Diviértete!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Conversión de una plantilla de Página de aterrizaje de forma libre existente en compatible con móviles](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Conversión de una plantilla de Página de aterrizaje de forma libre existente en compatible con móviles](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
