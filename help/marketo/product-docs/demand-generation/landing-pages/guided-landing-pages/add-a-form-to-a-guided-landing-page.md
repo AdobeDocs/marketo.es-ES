@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: Añadir un formulario en una Página de aterrizaje guiada - Documentos de marketing - Documentación del producto
 title: Añadir un formulario en una Página de aterrizaje guiada
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
 >[!PREREQUISITES]
 >
->* [Creación de una Página de aterrizaje guiada](create-a-guided-landing-page.md)
-
->
-
-
+>[Creación de una Página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Vaya al área **Actividades de mercadotecnia**.
 
@@ -61,4 +57,4 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ahora cierre el editor de páginas de aterrizaje y [apruebe el borrador de página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Ahora cierre el editor de páginas de aterrizaje y [apruebe el borrador de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
