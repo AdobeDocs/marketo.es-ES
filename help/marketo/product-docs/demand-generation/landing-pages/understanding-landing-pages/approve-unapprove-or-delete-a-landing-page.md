@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Aprobar, desaprobar o eliminar una Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Aprobar, desaprobar o eliminar una Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
 
    >[!TIP]
    >
-   >Puede [aprobar varias páginas a la vez](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar su vida.
+   >Puede [aprobar varias páginas a la vez](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) para facilitar su vida.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Una vez aprobado, el icono de página de aterrizaje tendrá una marca de verificación verde.
 
-1. Desaprobar una Página de aterrizaje
+## Desaprobar una Página de aterrizaje {#unapprove-a-landing-page}
+
 1. Seleccione una página de aterrizaje, vaya a **Acciones de Página de aterrizaje** y haga clic en **Desaprobar**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ Las páginas de aterrizaje están en modo borrador hasta que las apruebe. La apr
 
 >[!NOTE]
 >
->La página de aterrizaje no aprobada ya no se publica en la web y no generará ninguna actividad adicional. Los visitantes a páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [Página de reserva](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>La página de aterrizaje no aprobada ya no se publica en la web y no generará ninguna actividad adicional. Los visitantes a páginas de aterrizaje no aprobadas y sus fichas de Facebook verán la [Página de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminar una Página de aterrizaje {#delete-a-landing-page}
 
