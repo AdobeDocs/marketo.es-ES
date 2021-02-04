@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: Conversión de plantillas de Página de aterrizaje de forma libre existentes en móviles compatibles - Documentos de marketing - Documentación del producto
 title: Conversión de una plantilla de Página de aterrizaje de forma libre existente en compatible con móviles
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # Hacer compatible una plantilla de Página de aterrizaje de forma libre existente con dispositivos móviles {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->Las plantillas de páginas de aterrizaje que se crearon antes de la [versión de enero de 2015](../../../../release-notes/2015/release-notes-january-2015.md)deben actualizarse para que sean compatibles con dispositivos móviles.
 
 Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Páginas de aterrizaje.
 
@@ -57,7 +53,9 @@ Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Pági
 
 ¡buenas preguntas! La plantilla debe tener las siguientes etiquetas:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  Si todo se ve bien, verá este mensaje.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+Si todo se ve bien, verá este mensaje.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ Cuando edita una página de aterrizaje y hace clic en la ficha móvil, a veces s
    >
    >Al activar la versión móvil de una plantilla, se crearán borradores de cualquier página de aterrizaje que la utilice.
 
-¡Increíble! Ahora puede [personalizar la vista móvil](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas las páginas de aterrizaje que utilicen esta plantilla.
-
->[!MORELIKETHIS]
->
->* [Personalización de la Vista móvil para su Página de aterrizaje de forma libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+¡Increíble! Ahora puede [personalizar la vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas las páginas de aterrizaje que utilicen esta plantilla.
