@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: Editar una plantilla de Página de aterrizaje de marketing - Documentos de marketing - Documentación del producto
 title: Editar una plantilla de Página de aterrizaje de marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Puede editar cualquier plantilla de página de aterrizaje dentro de Marketing.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Seleccione la **Plantilla** que desee editar. Haga clic en** Editar borrador*.
+1. Seleccione la **Plantilla** que desee editar. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ Puede editar cualquier plantilla de página de aterrizaje dentro de Marketing.
    >[!NOTE]
    >
    >Cuando edita una plantilla de página de aterrizaje, se crea un borrador de cualquier recurso de página de aterrizaje con esa plantilla.
-
