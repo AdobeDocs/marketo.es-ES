@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: Usar contenido dinámico en una Página de aterrizaje - Documentos de marketing - Documentación del producto
 title: Uso de contenido dinámico en una Página de aterrizaje
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Crear una segmentación](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Creación de una Página de aterrizaje de forma libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Añadir un nuevo formulario en una Página de aterrizaje de forma libre](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Creación de una Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Añadir un nuevo formulario en una Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 El uso de contenido dinámico en páginas de aterrizaje involucra a las personas con información segmentada.
@@ -81,14 +78,8 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
 
 ¡Voila! Ahora puede enviar contenido de destino.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->* [Previsualización de una Página de aterrizaje con contenido dinámico](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Uso de contenido dinámico en un correo electrónico](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [Previsualización de una Página de aterrizaje con contenido dinámico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Uso de contenido dinámico en un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
