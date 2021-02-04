@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Redireccionar una ruta de URL - Documentos de marketing - Documentación del producto
 title: Redireccionar una ruta de URL
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketo facilita la redirección de una ruta de URL a cualquier página que elij
 >
 >**Se requieren permisos de administración**
 
-1. En **Administración,** haga clic en **Páginas de aterrizaje**.
+1. En **Administración**, haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Haga clic en la ficha **Reglas** y, a continuación, haga clic en **Nueva **y **Nueva regla de redirección**.
+1. Haga clic en la ficha **Reglas** y, a continuación, haga clic en **Nueva** y **Nueva regla de redirección**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Marketo facilita la redirección de una ruta de URL a cualquier página que elij
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Escriba la ruta de URL (o página específica) que desee redirigir en el segundo campo **URL original** a la derecha.
 
@@ -46,15 +43,10 @@ Marketo facilita la redirección de una ruta de URL a cualquier página que elij
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   También puede [usar páginas de aterrizaje de marketing](https://docs.marketo.com/x/vAEk) como destino.
+   También puede [usar páginas de aterrizaje de marketing](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) como destino.
 
-¡Felicitaciones!  Ha redireccionado correctamente la ruta URL.
+¡Felicitaciones! Ha redireccionado correctamente la ruta URL.
 
 >[!MORELIKETHIS]
 >
->* [Redirigir una Página de aterrizaje de marketing a otra página](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[Redirigir una Página de aterrizaje de marketing a otra página](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
