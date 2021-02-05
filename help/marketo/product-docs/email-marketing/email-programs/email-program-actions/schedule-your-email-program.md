@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Programar su Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Programar su Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Con el programa de correo electrónico creado, la audiencia definida y el correo
 
    ¿Qué tan fácil fue eso? Lo único que queda es [aprobar un programa de correo electrónico](approve-unapprove-an-email-program.md) y ya está listo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Programar Programas de correo electrónico con huso horario de Destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Inicio principal para Programas de correo electrónico](head-start-for-email-programs.md)
