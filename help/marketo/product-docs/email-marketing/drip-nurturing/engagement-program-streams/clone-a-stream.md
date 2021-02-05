@@ -3,7 +3,7 @@ unique-page-id: 2359789
 description: Clonar un flujo - Documentos de marketing - Documentación del producto
 title: Clonar un flujo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,19 +21,16 @@ Clonar un flujo por varias razones, incluida la prueba de diferentes pedidos y d
 
 1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **Clonar**.
 
-   ` ![](assets/image2014-9-15-17-3a0-3a23.png)
-
-   `
+   ![](assets/image2014-9-15-17-3a0-3a23.png)
 
    >[!NOTE]
    >
    >Puede tener hasta 25 flujos por programa de participación.
 
-   ¡Bien hecho! ¿No amas cosas que hacen tu vida más fácil?  ` ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ¡Bien hecho! ¿No amas cosas que hacen tu vida más fácil?
 
-   `
+   ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]
    >
    >Todo en el arroyo está clonado excepto el Cadence. Recuerde configurarlo.
-
