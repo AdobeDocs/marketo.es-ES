@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Campeón/Desafiante - Definir criterios de campeón - Documentos de marketing - Documentación del producto
 title: 'Campeón/Desafiante: definir criterios de campeón'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -43,17 +43,17 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
    >[!NOTE]
    >
-   >Esto le permite configurar cualquier evento como conversión mediante activadores y filtros.
+   >Esto le permite configurar cualquier evento como conversión mediante déclencheur y filtros.
 
-1. Aparecerá una ventana: busque el activador de su elección y arrástrelo al lienzo.
+1. Aparecerá una ventana: busque el déclencheur que desee y arrástrelo al lienzo.
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
-1. Defina el activador.
+1. Defina el déclencheur.
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo solo permite activadores para personas a las que se ha enviado el correo electrónico desde este programa de correo electrónico. No es necesario agregar el filtro &quot;Se envió correo electrónico&quot;.
+   Marketo solo permite déclencheur para las personas a las que se ha enviado el correo electrónico desde este programa de correo electrónico. No es necesario agregar el filtro &quot;Se envió correo electrónico&quot;.
 
 1. Haga clic en **Cerrar**.
 
@@ -61,9 +61,8 @@ Una vez configurado el tipo de prueba, debe definir los criterios de campeón. A
 
    ¡bueno! Ahora es el momento de programar el informe.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
