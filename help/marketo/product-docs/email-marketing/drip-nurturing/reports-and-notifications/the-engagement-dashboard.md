@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: El Panel de compromiso - Documentos de marketing - Documentación del producto
 title: El Panel de compromiso
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # El Panel de compromiso {#the-engagement-dashboard}
 
-El Panel de compromiso es la forma más sencilla de ver el rendimiento del contenido de sus [programas de participación](http://docs.marketo.com/display/docs/drip+nurturing).
+El Panel de participación es la forma más sencilla de ver el rendimiento del contenido en el programa de participación.
 
 >[!NOTE]
 >
->La puntuación de participación se calcula 72 horas después de cada emisión. Obtenga más información sobre la [puntuación de participación](understanding-the-engagement-score.md).
+>La puntuación de participación se calcula 72 horas después de cada emisión. Obtenga más información sobre la [puntuación de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Vista del Panel de compromiso {#view-the-engagement-dashboard}
 
-Seleccione el programa de participación y haga clic en **Vista > Panel**.
+Seleccione el programa de participación y haga clic en **Vista** > **Panel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Consulte el [informe de rendimiento del flujo de participación](engagement-stream-performance-report.md) para obtener estadísticas más detalladas.
+>Consulte el [informe de rendimiento del flujo de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para obtener estadísticas más detalladas.
 
 ## Comprender la utilidad de agotamiento {#understand-the-exhaustion-widget}
 
@@ -47,9 +47,7 @@ Esta utilidad le ayuda a anticipar cuándo los posibles clientes habrán agotado
 
 Muestra la puntuación de participación promedio a lo largo del tiempo y el impacto de las ediciones de contenido.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >Esta función está disponible como complemento para los clientes que utilizan el Explorador del ciclo de ingresos de Marketing Cloud. Póngase en contacto con el administrador de éxito del cliente para obtener más detalles.
 
@@ -69,11 +67,8 @@ Para cambiar la clasificación, haga clic en el icono de engranaje y seleccione 
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Newestand y  ** Oldestare según el tiempo de la última aprobación.
+__ Newestand y  __ Oldestare según el tiempo de la última aprobación.
 
 >[!NOTE]
 >
->**Buceo profundo**
->
->Obtenga más información en la sección [Crear un Programa de compromiso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) profunda.
-
+>Obtenga más información en la sección [Crear un Programa de compromiso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) profunda.
