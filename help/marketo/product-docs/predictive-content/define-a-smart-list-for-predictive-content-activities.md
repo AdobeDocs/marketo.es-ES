@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Definir una Lista inteligente para Actividades de contenido predictivo - Documentos de marketing - Documentación del producto
 title: Definir una Lista inteligente para Actividades de contenido predictivo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
-Puede utilizar actividades de contenido predictivo en activadores y filtros cuando defina una lista inteligente en una campaña inteligente. Puede activar una acción para cualquiera que haga clic en contenido predictivo mediante la [plantilla de medios enriquecidos](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barra de recomendaciones de contenido](enabling-predictive-content/enable-the-content-recommendation-bar.md) o en un mensaje de correo electrónico.
+Puede utilizar actividades de contenido predictivo en déclencheur y filtros cuando defina una lista inteligente en una campaña inteligente. Puede déclencheur de una acción para cualquiera que haga clic en contenido predictivo mediante la [plantilla de medios enriquecidos](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barra de recomendaciones de contenido](enabling-predictive-content/enable-the-content-recommendation-bar.md) o en un mensaje de correo electrónico.
 
 1. En la campaña inteligente, navegue a la ficha **Lista inteligente**.
 
@@ -30,19 +30,19 @@ Puede utilizar actividades de contenido predictivo en activadores y filtros cuan
    >
    >Las listas inteligentes pueden hacer cosas increíbles. Obtenga más información en el [buceo profundo de lista inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Busque el activador y, a continuación, arrástrelo y suéltelo en el lienzo.
+1. Busque el déclencheur y arrástrelo y suéltelo en el lienzo.
 
    ![](assets/smart-list-drag-trigger-hands.png)
 
    >[!NOTE]
    >
-   >Una campaña inteligente con activadores se ejecuta en el modo Activador. Funciona de una persona a la vez en función de los eventos activados y los filtros agregados.
+   >Una campaña inteligente con déclencheur se ejecuta en modo Déclencheur. Funciona de una persona a la vez en función de los eventos activados y los filtros agregados.
 
 1. Haga clic en la lista desplegable **Nombre** y seleccione un operador.
 
    ![](assets/smart-list-dropdown-hands.png)
 
-1. Defina el activador.
+1. Defina el déclencheur.
 
    ![](assets/smart-lislt-select-content-hands.png)
 
@@ -54,7 +54,7 @@ Puede utilizar actividades de contenido predictivo en activadores y filtros cuan
 
    ![](assets/pc-add-constraint.png)
 
-1. Si está utilizando el origen de correo electrónico para el contenido predictivo, agregue el activador **Clicks Link en Correo electrónico **desencadenador. Seleccione el correo electrónico y agregue la restricción **Es predictivo**, definida como **true**.
+1. Si está utilizando el origen de correo electrónico para el contenido predictivo, agregue el déclencheur **Clicks Link en Correo electrónico **Clicks. Seleccione el correo electrónico y agregue la restricción **Es predictivo**, definida como **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -64,17 +64,16 @@ Puede utilizar actividades de contenido predictivo en activadores y filtros cuan
 
    >[!TIP]
    >
-   >En una campaña inteligente con activadores y filtros, los activadores van en la parte superior. Cuando se activa, solo las personas que cumplen los criterios del filtro atraviesan el flujo.
+   >En una campaña inteligente con déclencheur y filtros, los déclencheur van en la parte superior. Cuando se activa, solo las personas que cumplen los criterios del filtro atraviesan el flujo.
 
    >[!NOTE]
    >
-   >Con varios activadores, una persona pasa al flujo si ALGUNO de los activadores se activa.
+   >Con múltiples déclencheur, una persona pasa al flujo si ALGUNO de los déclencheur se activa.
 
    [definir una lista inteligente para una campaña inteligente por lotes](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
