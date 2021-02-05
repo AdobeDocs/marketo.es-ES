@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Genere un informe de Análisis por correo electrónico que Listas de posibles clientes - Documentos de marketing - Documentación del producto
 title: Generar un informe de Análisis de correo electrónico que Lista los posibles clientes
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Genere un informe de Análisis de correo electrónico que Lista los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
