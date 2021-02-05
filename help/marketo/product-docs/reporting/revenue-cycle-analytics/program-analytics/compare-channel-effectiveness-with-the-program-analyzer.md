@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Comparar la eficacia de los Canales con el analizador de Programas - Documentos de marketing - Documentación del producto
 title: Comparar la eficacia de los Canales con el analizador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ En nuestro ejemplo, vemos que el canal de exhibición comercial es el más caro 
 >
 >Los ejemplos de estos pasos miden la eficacia en función de la canalización creada. Utilice la lista desplegable Eje Y para seleccionar otras formas de medir la eficacia del canal, como Nuevos nombres, Miembros, Costo por éxito, etc.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explorar los detalles de Programa y Canal con el analizador de Programas](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Comparar la eficacia de los Programas con el analizador de Programas](compare-program-effectiveness-with-the-program-analyzer.md)
