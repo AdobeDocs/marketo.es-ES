@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Informe a Marketing Story con un Analizador de influencia de oportunidades - Documentos de marketing - Documentación del producto
 title: Informe de Marketing Story con un analizador de influencia de oportunidades
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ Utilice un Analizador de influencia de oportunidades para ilustrar el papel de l
 
    Haga clic en más puntos anaranjados a lo largo de la cronología para completar la historia de los eventos, programas y momentos interesantes que ayudaron a crear y cerrar la oportunidad.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >    
