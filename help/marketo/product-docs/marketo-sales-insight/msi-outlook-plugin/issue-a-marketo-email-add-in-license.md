@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Expedición de una licencia de Añada de correo electrónico de marketing - Documentos de marketing - Documentación del producto
 title: Expedición de una licencia de Añada de correo electrónico de marketing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Cualquier persona que desee utilizar el Añada de Marketing para Outlook por cor
 * **[Instalación](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)** de clave empresarial: Utilice este método cuando los representantes de ventas no tengan derechos de administrador para sus portátiles corporativos y no puedan instalar complementos, software, etc. en él. En este caso, el administrador de marketing emite licencias a una lista de usuarios autorizados. A continuación, el equipo de TI implementa el complemento de forma remota en todos los equipos de los usuarios autorizados mediante la clave empresarial. A continuación, el usuario del complemento lo autoriza.
 * **[Instalación](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** del código de registro: Utilice este método cuando los representantes de ventas tengan derechos de administrador para su portátil corporativo y puedan instalar complementos, software, etc. en él. Para este proceso, el administrador de marketing emite licencias a una lista de usuarios autorizados y les envía correos electrónicos de registro directamente con vínculos de descarga. El representante de ventas recibe un correo electrónico con un vínculo de descarga de complemento y una dirección URL de registro única.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
