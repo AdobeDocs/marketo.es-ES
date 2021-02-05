@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: Archivar y desarchivar contenido del flujo - Documentos de marketing - Documentación del producto
 title: Archivar y desarchivar contenido de flujo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archivar y desarchivar contenido de flujo {#archive-and-unarchive-stream-content}
 
-Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo](remove-stream-content.md) o archivarlo. Así es como archivar contenido.
+Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. Así es como archivar contenido.
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
 
 ## Desarchivar contenido del flujo {#unarchive-stream-content}
 
-1. Seleccione el programa de participación y vaya a la ficha Flujos.
+1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en Mostrar contenido archivado.
+1. Haga clic en el icono de engranaje del flujo y, a continuación, haga clic en **Mostrar contenido archivado**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ Si ya no desea utilizar un fragmento de contenido en un flujo, puede [eliminarlo
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    ¡Perfecto! Ahora este contenido está disponible para priorizar y activar.
-
