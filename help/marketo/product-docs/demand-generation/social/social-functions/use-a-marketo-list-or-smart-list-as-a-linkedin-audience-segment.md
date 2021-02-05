@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn - Documentos de marketing - Documentación del producto
 title: Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
 
 >[!PREREQUISITES]
 >
->* [Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. Vaya a la base de datos****.
+1. Vaya a la **Base de datos**.
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
 
    ![](assets/three-1.png)
 
-1. Haga clic en el** Enviar por puente de publicidad **icono ![—](assets/image2015-4-20-18-3a18-3a41.png) en la parte inferior de la lista.
+1. Haga clic en el icono **Enviar por medio del puente de publicidad** ![—](assets/image2015-4-20-18-3a18-3a41.png) en la parte inferior de la lista.
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
    >
    >Al utilizar integraciones de red de publicidad para enviar una audiencia a LinkedIn, Marketing solo envía la dirección de correo electrónico.
 
-1. Seleccione** LinkedIn** y haga clic en **Siguiente**.
+1. Seleccione **LinkedIn** y haga clic en **Siguiente**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
    >
    >Espere 15 minutos para que se realice la sincronización.
 
-   [Centro de ayuda de Soluciones de mercadotecnia de LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-¡Los cinco mejores! Sus datos ahora coincidirán con las audiencias de LinkedIn. Para obtener información sobre cómo cargar listas a LinkedIn para la cuenta y el objetivo de contactos, visite .
+¡Los cinco mejores! Sus datos ahora coincidirán con las audiencias de LinkedIn. Para obtener información sobre cómo cargar listas a LinkedIn para la segmentación de cuentas y contactos, visite [Centro de ayuda de soluciones de marketing de LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
