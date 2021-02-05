@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: Elija la URL de uso compartido para una aplicación social - Documentos de marketing - Documentación del producto
 title: Elija la URL de uso compartido para una aplicación social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ Al crear una aplicación social, puede elegir qué URL se compartirán en las pu
    >
    >**Definición**
    >
-   >
    >Compartir publicaciones puede vincularse a tres lugares:
    >
-   >    
-   >    
-   >    * **Página** de referencia: La página que contiene la aplicación.
-   >    * **Otra Página de aterrizaje**: Una página de aterrizaje de marketing diferente de las de la lista desplegable.
-   >    * **Dirección URL** externa: Una página de aterrizaje que no es de marketing.
+   >* **Página** de referencia: La página que contiene la aplicación.
+   >* **Otra Página de aterrizaje**: Una página de aterrizaje de marketing diferente de las de la lista desplegable.
+   >* **Dirección URL** externa: Una página de aterrizaje que no es de marketing.
 
 
 >[!MORELIKETHIS]
 >
->* [Añadir la política de privacidad en una aplicación social](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[Añadir la política de privacidad en una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
