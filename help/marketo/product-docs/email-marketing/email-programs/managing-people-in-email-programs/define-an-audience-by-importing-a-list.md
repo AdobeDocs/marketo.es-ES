@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: Definir una Audiencia importando una Lista - Documentos de marketing - Documentación del producto
 title: Definir una Audiencia importando una Lista
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Haga clic en el número para ver una lista detallada de las personas bloqueadas 
 
 ¡Fantástico! Ahora es el momento de elegir un correo electrónico ya existente o de crear un nuevo correo electrónico para enviarlo a estas personas.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Elegir un correo electrónico existente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Creación de un correo electrónico para un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
