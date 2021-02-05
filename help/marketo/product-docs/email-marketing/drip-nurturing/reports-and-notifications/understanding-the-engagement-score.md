@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: Explicación de la puntuación de compromiso - Documentos de marketing - Documentación del producto
 title: Explicación de la puntuación de participación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de la puntuación de compromiso {#understanding-the-engagement-score}
 
-La puntuación de participación facilita la visualización de la eficacia del contenido en el programa de participación. La puntuación va de 0 a 100. Consulte [el Panel de compromiso](the-engagement-dashboard.md) para ver cómo puede rastrear el rendimiento del contenido.
+La puntuación de participación facilita la visualización de la eficacia del contenido en el programa de participación. La puntuación va de 0 a 100. Consulte [el Panel de compromiso](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) para ver cómo puede rastrear el rendimiento del contenido.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ Las puntuaciones de participación son universales para todos los clientes. Pued
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los Programas de compromiso](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[Explicación de los Programas de compromiso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
