@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Instalación del Añada de Marketing to para Outlook con una clave de empresa - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de Marketing to para Outlook con una clave de empresa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Muchas veces, los representantes de ventas no tienen privilegios administrativos
 
    ¡Eso es todo! A continuación, el representante de ventas pasará por el [proceso de registro](authorize-the-marketo-outlook-plugin.md). Puede enviarles un vínculo a las instrucciones (consulte **Artículos relacionados con el marketing**).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
