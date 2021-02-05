@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: Añadir un archivo adjunto - Documentos de marketing - Documentación del producto
 title: Añadir un archivo adjunto
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Añadir un archivo adjunto {#add-an-attachment}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Añadir archivos adjuntos está disponible si utiliza Marketing to Sales Connect. No está disponible en el editor de correo electrónico estándar de Marketing.
 
