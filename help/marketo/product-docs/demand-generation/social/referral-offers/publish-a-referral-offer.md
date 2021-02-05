@@ -3,9 +3,9 @@ unique-page-id: 2359845
 description: Publicar una Oferta de referencia - Documentos de marketing - Documentación del producto
 title: Publicación de una Oferta de referencia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Publicar una Oferta de referencia {#publish-a-referral-offer}
 
-Después de [crear una oferta de referencia](create-a-referral-offer.md), puede publicarla en sus páginas de aterrizaje de marketing, en Facebook y en su sitio web.
+Después de [crear una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede publicarla en sus páginas de aterrizaje de marketing, en Facebook y en su sitio web.
 
 1. Vaya a la página de aterrizaje y ábrala para editarla.
 
@@ -29,13 +29,10 @@ Después de [crear una oferta de referencia](create-a-referral-offer.md), puede 
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >Debe aprobar su oferta de referencia para que esté disponible aquí.
 
-¡Felicitaciones! Apruebe la página de aterrizaje y su oferta de referencia está activa. También puede [publicar la página de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar la oferta en su sitio Web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+¡Felicitaciones! Apruebe la página de aterrizaje y su oferta de referencia está activa. También puede [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [colocar la oferta en su sitio Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
 >Probar y perfeccionar la oferta de referencia. Vaya a la oferta de su página web y regístrese con la información de la prueba. Tenga en cuenta todo lo que desea cambiar sobre la experiencia del usuario.
-
