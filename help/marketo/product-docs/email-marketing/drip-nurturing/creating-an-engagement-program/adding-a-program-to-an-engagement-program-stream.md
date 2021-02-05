@@ -3,7 +3,7 @@ unique-page-id: 10098134
 description: 'Añadir un Programa a un flujo de Programa de participación: Documentos de marketing: Documentación del producto'
 title: Añadir un Programa en un flujo de Programa de participación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,10 +57,6 @@ El sistema de informes cambia con la ubicación del correo electrónico. Así, p
 
 >[!MORELIKETHIS]
 >
->* [Añadir contenido en un flujo](add-content-to-a-stream.md)
->* [Explicación de los Programas](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-
->
-
-
+>* [Añadir contenido en un flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Explicación de los Programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 
