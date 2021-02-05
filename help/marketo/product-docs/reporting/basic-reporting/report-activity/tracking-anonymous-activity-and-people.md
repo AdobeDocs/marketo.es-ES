@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: Seguimiento de personas y Actividades anónimas - Documentos de marketing - Documentación del producto
 title: Seguimiento de personas y Actividades anónimas
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ La primera vez que alguien visita una [página de aterrizaje](../../../../produc
    >
    >Cuando los registros anónimos se combinan en un registro de persona nuevo o existente, los valores de campo personalizados **no** se transfieren.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
