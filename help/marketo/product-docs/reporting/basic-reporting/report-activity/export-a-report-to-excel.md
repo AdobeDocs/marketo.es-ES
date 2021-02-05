@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Exportar un informe a Excel - Documentos de marketing - Documentación del producto
 title: Exportar un informe a Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,8 @@ Puede exportar cualquier informe a un archivo de Excel para trabajar con los dat
 
    ¡Eso es todo! El explorador le solicita que guarde el archivo de Excel en el sistema.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >Si el archivo descargado es demasiado grande, puede [cambiar el tamaño del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
