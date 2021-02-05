@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: Secuencia de comandos de conversión para Eventos personalizados - Documentos de marketing - Documentación del producto
 title: Secuencia de comandos de conversión para Eventos personalizados
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,6 @@ El objetivo de cumplimiento se define al crear una oferta de referencia. Si la a
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Recuerde copiar y pegar ambas secuencias de comandos si se encuentran en un sitio web que no es de marketing.
 
 ## Recuperar la secuencia de comandos del cargador {#retrieve-the-loader-script}
@@ -50,7 +47,7 @@ Pegue las secuencias de comandos de conversión en el HTML para el cuerpo y el e
 
 ## Conexión del script de conversión {#connecting-the-conversion-script}
 
-Aquí es donde escribirá una función de JavaScript que utiliza la identificación HTML específica del elemento de página en el que desee activar la finalización de objetivos. Por ejemplo:
+Aquí es donde escribirá una función de JavaScript que utiliza el identificador HTML específico de cualquier elemento de página en el que desee realizar el déclencheur de la finalización del objetivo. Por ejemplo:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
@@ -60,7 +57,7 @@ En este ejemplo hay un botón en la página web con un id. de &quot;#myButtonId&
 
 >[!MORELIKETHIS]
 >
->* [Especificar objetivo para la Oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Crear una Oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Implementar Social en el sitio web](deploy-social-on-your-website.md)
+>* [Especificar objetivo para la Oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Crear una Oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Implementar Social en el sitio web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
