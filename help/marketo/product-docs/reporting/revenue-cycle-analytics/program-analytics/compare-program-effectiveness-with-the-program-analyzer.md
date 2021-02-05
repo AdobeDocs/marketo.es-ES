@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Comparar la eficacia de los Programas con el analizador de Programas - Documentos de marketing - Documentación del producto
 title: Comparar la eficacia de los Programas con el analizador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ Vemos que el programa del Festival de Papel 12 no sólo influye en más ingresos
 >
 >Puede comparar rápidamente los programas de un canal con los de otro. Utilice el **filtro de Canal** en la parte superior de la ventana para agregar más canales.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Explorar los detalles de Programa y Canal con el analizador de Programas](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Comparar la eficacia de los Canales con el analizador de Programas](compare-channel-effectiveness-with-the-program-analyzer.md)
