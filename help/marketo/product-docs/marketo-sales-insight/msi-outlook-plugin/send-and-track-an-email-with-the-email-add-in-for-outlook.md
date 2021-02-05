@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Enviar y realizar un seguimiento de un correo electrónico con el Añada de correo electrónico para Outlook - Documentos de marketing - Documentación del producto
 title: Envío y seguimiento de un correo electrónico con el Añada de correo electrónico para Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Puede enviar y rastrear correos electrónicos con Marketing directamente desde O
 
 ¡Es tan fácil! Aunque este correo electrónico fue enviado por Outlook de un vendedor, será rastreado en Marketing.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Registrar correo entrante de los posibles clientes en el mercado](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
