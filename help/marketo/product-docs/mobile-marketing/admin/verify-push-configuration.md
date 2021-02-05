@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Verificar la configuración push - Documentos de marketing - Documentación del producto
 title: Verificar configuración push
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Compruebe la configuración push para asegurarse de que todo se sincroniza corre
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)   ¡Todo listo! Ahora puede enviar inicios de notificaciones push ![(sonrisa)](assets/smile.svg)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Crear una notificación push](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
