@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: 'Champion/Challenger: Configurar alertas de informes: documentos de marketing: documentación del producto'
 title: 'Campeón/Desafiante: Configurar alertas de informes'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ El experto en marketing le enviará informes sobre cómo va la prueba de correo 
 
    El informe incluirá detalles útiles, como: tipo de prueba, criterios de ganador, número de aperturas de correo electrónico y más. También habrá un vínculo directo a la prueba en sí, permitiéndole declarar el ganador! Cosas geniales.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
