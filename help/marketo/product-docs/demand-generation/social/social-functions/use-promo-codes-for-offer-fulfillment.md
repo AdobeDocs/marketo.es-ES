@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Usar códigos de promoción para el cumplimiento de Ofertas - Documentos de marketing - Documentación del producto
 title: Usar códigos de promoción para el cumplimiento de Ofertas
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Al crear una oferta de referencia o una apuesta, puede enviar un código de prom
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. En el editor de ofertas de referencia, vaya a **Configuración de la aplicación** y luego **Detalles de la Oferta.**
+1. En el editor de ofertas de referencia, vaya a **Configuración de la aplicación** y luego **Detalles de la Oferta**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ Al crear una oferta de referencia o una apuesta, puede enviar un código de prom
 
    >[!CAUTION]
    >
-   >
    >Cualquier espacio en blanco del archivo de códigos de promoción se trata como parte del código de esa línea. Tenga especial cuidado de evitar espacios finales al final de cada línea.
 
 1. Una vez completada la carga, se muestra el número total de códigos cargados.
@@ -52,7 +51,7 @@ Una vez que los participantes inicios en ganar la recompensa de su oferta, puede
 
 >[!NOTE]
 >
->Solo los usuarios de Marketing Cloud con permiso *Access Awards* tienen acceso a esta información. Consulte [Administración de roles y permisos de usuario](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Solo los usuarios de Marketing Cloud con permiso _Access Awards_ tienen acceso a esta información. Consulte [Administración de roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Vaya a **Actividades de marketing**.
 
