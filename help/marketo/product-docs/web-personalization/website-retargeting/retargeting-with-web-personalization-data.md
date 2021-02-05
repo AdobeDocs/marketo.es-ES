@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Redireccionamiento con datos de personalización web - Documentos de marketing - Documentación del producto
 title: Redireccionamiento con datos de personalización web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Redireccionamiento con datos de personalización web {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >El redireccionamiento de sitios web ahora se encuentra en el mosaico Personalización web. Si solo compró Retargeting, verá este mosaico y accederá al producto de Personalización web con **sólo** características de redireccionamiento habilitadas. Esto le permite acceder a la configuración de la cuenta, la página de redireccionamiento, los segmentos y las páginas de seguimiento adicionales.
 
