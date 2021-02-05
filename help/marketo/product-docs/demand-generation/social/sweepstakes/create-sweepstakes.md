@@ -3,9 +3,9 @@ unique-page-id: 2359795
 description: Crear apuestas - Documentos de marketing - Documentación del producto
 title: Crear apuestas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de contarles a sus amigos sobre ti. Puede colocarlo en páginas de aterrizaje, su sitio web e incluso Facebook.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. Dentro del programa, seleccione **Nuevo > Nuevo recurso local**.
+1. Dentro del programa, seleccione **Nuevo** > **Nuevo recurso local**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
@@ -37,7 +35,9 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
    >
    >Para ahorrar tiempo, puede utilizar la opción **Clonar de** para copiar toda la configuración de una apuesta existente.
 
-1. Haga clic en **Apuestas** **Detalles**.
+   El editor de apuestas se abre en una ventana nueva. La configuración predeterminada es correcta, pero aún necesita configurar algunos detalles. Le mostraremos cómo hacerlo en los próximos pasos.
+
+1. Haga clic en **Detalles de apuestas**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -49,7 +49,7 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
    >
    >Para los dibujos diarios y semanales, las horas de inicio y finalización se fijan a las 12:00 y a las 23:59 respectivamente. Para un dibujo único, puede elegir su propio inicio y horas de finalización.
 
-1. Haga clic en **Opciones avanzadas** **Opciones**.
+1. Haga clic en **Opciones avanzadas**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -61,13 +61,13 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
 
    >[!NOTE]
    >
-   >En esta pantalla, también puede agregar un vínculo de política de privacidad. Consulte [Añadir su política de privacidad en una aplicación social](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >En esta pantalla, también puede agregar un vínculo de política de privacidad. Consulte [Añadir su política de privacidad en una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Haga clic en **Aprobar** **y** **Cerrar**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
@@ -75,12 +75,10 @@ Una apuesta le da a la gente la oportunidad de ganar un premio a cambio de conta
    >
    >Para cambiar cualquiera de los valores predeterminados de las apuestas, haga clic en **Atrás**. Para guardar el trabajo para después sin aprobarlo, haga clic en **Cerrar**.
 
-   ¡Felicitaciones! Ha creado una apuesta.
+Si hay algún problema en las apuestas, se le pedirá que lo aborde antes de aprobar las apuestas.
 
-   >[!NOTE]
-   >
-   >**Artículos relacionados**
-   >
-   >El siguiente paso es [publicar sus apuestas](publish-a-sweepstakes.md), pero puede cambiar el aspecto y la configuración de sus apuestas. Inicio con [personalizar los estilos de apuestas](customize-sweepstakes-styles.md).
+¡Felicitaciones! Ha creado una apuesta.
 
-El editor de apuestas se abre en una ventana nueva. La configuración predeterminada es correcta, pero aún necesita configurar algunos detalles. Le mostraremos cómo hacerlo en los próximos pasos.                    Si hay algún problema en las apuestas, se le pedirá que lo aborde antes de aprobar las apuestas.
+>[!MORELIKETHIS]
+>
+>El siguiente paso es [publicar sus apuestas](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), pero puede cambiar el aspecto y la configuración de sus apuestas. Inicio con [personalizar los estilos de apuestas](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
