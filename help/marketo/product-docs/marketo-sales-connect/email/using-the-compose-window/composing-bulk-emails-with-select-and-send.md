@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Redacción de correos electrónicos masivos con Select and Send - Marketo Docs - Documentación del producto
 title: Redacción de correos electrónicos masivos con Seleccionar y enviar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,8 @@ Complete las actualizaciones masivas antes de personalizar cada correo electrón
 
    ![](assets/each-four.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
