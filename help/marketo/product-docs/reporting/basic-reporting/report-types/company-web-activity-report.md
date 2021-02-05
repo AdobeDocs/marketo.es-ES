@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Informe de Actividad web de compañía - Documentos de marketing - Documentación del producto
 title: Informe Actividad Web de compañía
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Cree un [informe de Actividad de página Web](web-page-activity-report.md) para 
  </tbody> 
 </table>
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Mostrar personas o Visitantes anónimos en informes web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
