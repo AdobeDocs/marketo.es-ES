@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: Habilitar el relleno de formularios sociales en un formulario (Social) - Documentos de marketing - Documentación del producto
 title: Habilitar el relleno de formulario social en un formulario (Social)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Permita que los visitantes rellenen el formulario con sus redes sociales. Se obtienen automáticamente datos adicionales y se obtienen experiencias más rápidas. Así es como.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
@@ -39,7 +37,7 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Se obt
 
    >[!TIP]
    >
-   >Observe qué [Data Marketing capturará](manage-social-profile-data.md) si las personas utilizan los botones sociales.
+   >Observe qué [Data Marketing capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
 
 1. Haga clic en **Finalizar**.
 
