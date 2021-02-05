@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: Correo electrónico del informe, rendimiento de la Campaña en todos los espacios de trabajo - Documentos de marketing - Documentación del producto
 title: Correo electrónico del informe, rendimiento de la Campaña en áreas de trabajo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ Active Global Sistema de informes para incluir datos de todos los espacios de tr
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
