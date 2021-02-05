@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: Usar la prueba A/B "Línea de asunto" - Documentos de marketing - Documentación del producto
 title: Usar la prueba A/B de "línea de asunto"
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,8 @@ Puede probar fácilmente los correos electrónicos con A/B. Una de las pruebas m
 
    Bien, ya casi llegamos. Ahora necesitamos [definir los criterios ganadores de la prueba A/B](define-the-a-b-test-winner-criteria.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
