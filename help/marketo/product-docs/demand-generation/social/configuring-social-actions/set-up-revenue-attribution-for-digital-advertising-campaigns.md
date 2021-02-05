@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Configuración de la atribución de ingresos para Campañas de publicidad digital - Documentos de marketing - Documentación del producto
 title: Configurar la atribución de ingresos para Campañas de publicidad digital
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Con programas independientes, puede realizar un seguimiento del número de conve
 >* Crear o editar un formulario para pasar una cadena de consulta con la persona
 >* Asegúrese de tener acceso a algunas funciones de análisis de ciclo de ingresos para informar sobre sus canales y campañas de publicidad
 
->
-
-
 
 ## Crear un Programa predeterminado {#create-a-default-program}
 
@@ -41,7 +38,7 @@ A diferencia de algunos programas (como el correo electrónico) que pueden ejecu
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Si ya tiene un programa en su lugar, puede [clonarlo](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Si ya tiene un programa en su lugar, puede [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,27 +50,23 @@ A diferencia de algunos programas (como el correo electrónico) que pueden ejecu
    >
    >**Ejemplo**
    >
-   >
    >Una cadena de consulta que se pasa por la dirección URL ayuda a Marketing a saber en qué campaña de publicidad hizo clic alguien cuando se convirtió en una persona en Marketing.
-   >
    >
    >Puede crear una metodología de cadena de consulta que incluya todas las variables que desee medir. Marketing utiliza estas variables para agregar personas a sus distintos programas.
    >
-   >
    >Por ejemplo, puede utilizar Canal type_Canal__Asset__Region. Esto podría parecer: SP_FB_NewGuide_US. **Nota**: las abreviaturas ahorran espacio.
-   >
    >
    >O bien, configúrelo como Canal_Adsource_AssetName_Region_UniqueIdNumber. Esto podría tener el aspecto siguiente: Social-Paid_Facebook_NewGuide_NA_123.
 
 ## Crear una Campaña inteligente para nuevos nombres {#create-a-smart-campaign-for-new-names}
 
-1. En la campaña inteligente, cree una lista inteligente que contenga dos activadores y dos filtros, como se muestra.
+1. En la campaña inteligente, cree una lista inteligente que contenga dos déclencheur y dos filtros, como se muestra.
 
    ![](assets/image2016-3-23-13-3a59-3a24.png)
 
    >[!NOTE]
    >
-   >La cadena de consulta utilizada en los dos activadores y el filtro **Programa que capturó el nombre** es único para usted. Las cadenas de consulta que se muestran aquí son solo, por ejemplo. Si ha clonado el campo, simplemente reemplace estos campos.
+   >La cadena de consulta utilizada en los dos déclencheur y el filtro **Programa que capturó el nombre** es única para usted. Las cadenas de consulta que se muestran aquí son solo, por ejemplo. Si ha clonado el campo, simplemente reemplace estos campos.
 
 1. Cree un paso de flujo para cambiar el atributo a **Programa de adquisición** y establezca el valor Nuevo en el valor definido para campañas sociales pagas.
 
@@ -85,7 +78,7 @@ A diferencia de algunos programas (como el correo electrónico) que pueden ejecu
 
 Necesita una segunda campaña inteligente para cambiar el estado de las personas, de modo que puedan lograr el éxito de los Programas y estar incluidas en los cálculos de atribución de ingresos.
 
-1. En el activador **Rellena el formulario**, introduzca el nombre del programa en la cadena de consulta. Si está clonando el programa, simplemente reemplace el nombre de cadena de consulta antiguo por el nuevo.
+1. En el déclencheur **Rellena el formulario**, introduzca el nombre del programa en la cadena de consulta. Si está clonando el programa, simplemente reemplace el nombre de cadena de consulta antiguo por el nuevo.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -95,7 +88,7 @@ Necesita una segunda campaña inteligente para cambiar el estado de las personas
 
    >[!NOTE]
    >
-   >El ejemplo anterior muestra **Convertido, **pero esto depende de los valores de estado/éxito.
+   >El ejemplo anterior muestra **Convertido**, pero esto depende de los valores de estado/éxito.
 
 1. Programe y active la campaña.
 
@@ -112,21 +105,16 @@ Después de configurar el programa y las campañas, cree la nueva publicidad.
    >
    >**Ejemplo**
    >
-   >
    >Así puede agregar toda la información configurada en una dirección URL real. Los elementos están separados por un signo &amp;:
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **** source es la fuente de personas que se utiliza como identificador de canal
-   >    * **** inicia el identificador único creado para cada programa
-   >    * **** Acampó la campaña en Facebook, LinkedIn o Google
-   >    * **** kkkis la palabra clave o el nombre del recurso que desea capturar
+   >* **** source es la fuente de personas que se utiliza como identificador de canal
+   >* **** inicia el identificador único creado para cada programa
+   >* **** Acampó la campaña en Facebook, LinkedIn o Google
+   >* **** kkkis la palabra clave o el nombre del recurso que desea capturar
 
-   >    
-   >    
+   >
    >**Estos cuatro términos deben estar en minúsculas y no puede haber espacios en la dirección URL para que se capture esta información.**
 
 ## Prácticas recomendadas {#best-practices}
