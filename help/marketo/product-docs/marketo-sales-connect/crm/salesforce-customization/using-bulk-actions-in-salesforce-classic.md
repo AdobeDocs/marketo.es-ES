@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Uso de acciones masivas en Salesforce Classic - Documentos de marketing - Documentación del producto
 title: Uso de acciones masivas en Salesforce Classic
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
 
    ![](assets/five-3.png)
 
-1. Aparecerá la ventana emergente &quot;Añadir personas a tu Campaña&quot;. Haga clic en **Siguiente** y vaya a través del flujo de campaña típico para activar una campaña de MSC.
+1. Aparecerá la ventana emergente &quot;Añadir personas a tu Campaña&quot;. Haga clic en **Siguiente** y vaya a través del flujo de campaña típico para déclencheur de una campaña MSC.
 
    ![](assets/six.png)
 
@@ -79,9 +79,7 @@ Obtenga información sobre cómo realizar acciones masivas, como agregar leads a
 >
 >También puede seguir los mismos pasos para utilizar acciones masivas en la Vista de Lista de contacto.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Envío de correos electrónicos a través del correo electrónico del grupo](http://docs.marketo.com/x/KAQ6Ag)
 >* [Redacción de correos electrónicos masivos con Seleccionar y enviar](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
