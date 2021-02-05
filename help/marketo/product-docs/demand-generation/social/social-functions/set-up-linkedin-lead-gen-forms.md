@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: Configuración de LinkedIn Lead Gen Forms - Documentos de marketing - Documentación del producto
 title: Configuración de LinkedIn Lead Gen Forms
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Escriba un **Nombre para mostrar** para el servicio, seleccione el servicio **Generación de posibles clientes de LinkedIn **en la lista desplegable y haga clic en **Siguiente**.
+1. Escriba un **Nombre para mostrar** para el servicio, seleccione el servicio **Generación de posibles clientes de LinkedIn** en la lista desplegable y haga clic en **Siguiente**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo abre una nueva ficha en el mismo explorador para [www.linkedin.com](http://www.linkedin.com). Inicie sesión en LinkedIn con la cuenta que desee utilizar para la integración.
+1. Marketo abre una nueva ficha en el mismo explorador para [linkedin.com](https://www.linkedin.com). Inicie sesión en LinkedIn con la cuenta que desee utilizar para la integración.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. Cuando se le solicite, haga clic en **Permitir **para aceptar la instalación de la aplicación de marketing en LinkedIn.
+1. Cuando se le solicite, haga clic en **Permitir** para aceptar la instalación de la aplicación de Marketing to en LinkedIn.
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ Utilice LinkedIn Lead Gen Forms para ejecutar campañas de publicidad en LinkedI
 
 >[!MORELIKETHIS]
 >
->* [Usar Filtros de formulario de generación de posibles clientes de LinkedIn y activadores en una Campaña inteligente](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[Usar Filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una Campaña inteligente](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
