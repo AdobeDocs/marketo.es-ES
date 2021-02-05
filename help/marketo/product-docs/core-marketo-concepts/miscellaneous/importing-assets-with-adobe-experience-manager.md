@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Importación de recursos con Adobe Experience Manager - Documentos de marketing - Documentación del producto
 title: Importación de recursos con Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 El selector de recursos permite a los clientes de Marketing Cloud acceder, seleccionar e importar recursos de AEM en el estudio de diseño de Marketing Cloud. **Se requieren** permisos de administrador.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta función. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
