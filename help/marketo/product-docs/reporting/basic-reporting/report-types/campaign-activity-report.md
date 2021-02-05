@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Informe de Actividad de campaña - Documentos de marketing - Documentación del producto
 title: Informe Actividad de campaña
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Vea el rendimiento de sus [campañas inteligentes](http://docs.marketo.com/displ
    | Activado (activo) | Campañas activadas actualmente en la ficha **Actividades de marketing**. |
    | Activado (inactivo) | Campañas activadas inactivas en la ficha **Actividades de marketing**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
