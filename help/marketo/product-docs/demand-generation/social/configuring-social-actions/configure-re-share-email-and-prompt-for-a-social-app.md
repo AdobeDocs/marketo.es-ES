@@ -3,7 +3,7 @@ unique-page-id: 2950559
 description: Configurar el correo electrónico para volver a compartir y solicitar una aplicación de Social - Documentos de marketing - Documentación del producto
 title: Configurar el correo electrónico para volver a compartir y solicitar una aplicación social
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Configurar el reuso del correo electrónico y solicitar una aplicación social {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Al crear una [oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o [apuestas](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede invitar a los participantes a compartir su oferta con más amigos como parte del proceso de registro, así como proporcionar texto predeterminado para el correo electrónico compartido.
+Al crear una [oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o [apuestas](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede invitar a los participantes a compartir su oferta con más amigos como parte del proceso de registro, así como proporcionar texto predeterminado para el correo electrónico compartido.
 
 >[!NOTE]
 >
->En una oferta de referencia, también puede [hacer que compartir la oferta sea un requisito](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) para registrarse.
+>En una oferta de referencia, también puede [hacer que compartir la oferta sea un requisito](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) para registrarse.
 
 1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione la oferta de referencia y haga clic en **Editar borrador.**
+1. Seleccione la oferta de referencia y haga clic en **Editar borrador**.
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. En el editor de ofertas de referencia, vaya a **Flujo de registro** > **Mensaje de reuso compartido.**
+1. En el editor de ofertas de referencia, vaya a **Flujo de registro** > **Mensaje de reuso compartido**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,11 +37,10 @@ Al crear una [oferta de referencia](../../../../product-docs/demand-generation/s
    >
    >El correo electrónico incluye automáticamente la dirección URL de uso compartido única de su participante.
 
-1. En la ventana **Editar** &amp; **Editar**, haga clic en **Mostrar ediciones** y edite la invitación para compartir, así como las instrucciones de seguimiento de progreso.
+1. En la ventana **Vista y edición**, haga clic en **Mostrar ediciones** y edite la invitación para compartir, así como las instrucciones de seguimiento de progreso.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->A continuación, puede configurar el [flujo de progreso de seguimiento en una oferta de referencia](configure-track-progress-flow-for-a-referral-offer.md) o hacer clic en **Finalizar > Aprobar y cerrar** para [publicar su oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) o [apuestas](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
-
+>A continuación, puede configurar el [flujo de progreso de seguimiento en una oferta de referencia](configure-track-progress-flow-for-a-referral-offer.md) o hacer clic en **Finalizar** > **Aprobar y cerrar** para [publicar su oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) o [apuestas](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
