@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Instalación del complemento de Marketo para Outlook por TI - Documentos de marketing - Documentación del producto
 title: Instalación del complemento de Marketo Outlook por TI
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Para especificar una ubicación de los archivos de registro, puede especificar l
 
 Consulte la [lista completa de switches](https://support.microsoft.com/en-us/kb/227091) de Microsoft si desea probar diferentes niveles de registro o niveles de interfaz de usuario.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Desinstalación del complemento de Marketing to Outlook por TI](marketo-outlook-plugin-uninstall-by-it.md)
 
