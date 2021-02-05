@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Paquete de Power de Entregabilidad por Correo Electrónico - Cómo importar una lista de elementos - Documentos de marketing - Documentación del producto
 title: 'Paquete de PowerPoint de la capacidad de entrega de correo electrónico: Cómo importar una lista de elementos principales'
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Una lista de inicialización es una lista de cuentas de correo electrónico en varios proveedores de buzones de correo, incluyendo Google Apps, Hotmail, Yahoo!, etc., que se utilizan para aproximar la tasa de entrega de las carpetas de correo electrónico en comparación con correo no deseado. A continuación se muestra cómo introducir esa lista en la instancia de Marketing to.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
@@ -41,9 +39,9 @@ Una lista de inicialización es una lista de cuentas de correo electrónico en v
 
    >[!NOTE]
    >
-   >Elija **Optimizar Lista** si desea 250ok para [optimizar su lista](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) por usted. Elija*** Personalizar Lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
+   >Elija **Optimizar Lista** si desea 250ok para [optimizar su lista](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) por usted. Elija **Personalizar Lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
 
-1. Tras la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recuperarla y [importarla](../../../getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketing to como una lista estática.
+1. Tras la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recuperarla y [importarla](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketing to como una lista estática.
 
    ![](assets/five.png)
 
