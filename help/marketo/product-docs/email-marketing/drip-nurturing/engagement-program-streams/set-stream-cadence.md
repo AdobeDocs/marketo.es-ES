@@ -3,7 +3,7 @@ unique-page-id: 2359665
 description: Establecer secuencia de flujo - Documentos de marketing - Documentación del producto
 title: Definir secuencia de flujo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
    ![](assets/login-marketing-activities.png)
 
-1. Busque y seleccione el programa de participación, haga clic en la ficha **Streams **y, a continuación, haga clic en **Set Stream Cadence**.
+1. Busque y seleccione el programa de participación, haga clic en la ficha **Flujos** y, a continuación, haga clic en **Definir secuencia de flujo**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Seleccione la frecuencia con la que desea que se repita la cadencia. Puede elegir** Semanal** o **Mensual**.
+1. Seleccione la frecuencia con la que desea que se repita la cadencia. Puede elegir **Semanal** o **Mensual**.
 
 ## Semanal {#weekly}
 
@@ -35,7 +35,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
    >[!NOTE]
    >
-   >Al seleccionar **Ninguno **se cerrará el flujo.
+   >Al seleccionar **Ninguno** se cerrará el flujo.
 
 1. Elija la fecha del primer reparto.
 
@@ -51,9 +51,10 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
    >[!TIP]
    >
-   >Puede configurar la cadencia para que se ejecute todos los días seleccionando **Repeticiones: Semanal** /** Cada: 1 Semana** /** ****En**: todos los días.
+   >Puede configurar la cadencia para que se ejecute todos los días seleccionando **Repeticiones: Semanal** / **Cada: 1 semana** / **En**: todos los días.
 
-   Ahora elija la hora. Marque la casilla si desea utilizar [Huso horario de Destinatario](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (es decir, entregar según los husos horarios locales) y luego haga clic en Guardar.
+   Ahora elija la hora. Marque la casilla si desea utilizar [Huso horario de Destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (es decir, entregar según los husos horarios locales), luego haga clic en **Guardar**.
+
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -72,7 +73,7 @@ Puede enviar contenido de participación en cualquier intervalo que desee. Por e
 
 ## Mensual {#monthly}
 
-1. Seleccione **Mensual **para la frecuencia con la que se repite.
+1. Seleccione **Mensual** para ver la frecuencia con la que se repite.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -108,10 +109,6 @@ Ahora ya sabes cómo configurar una cadencia de flujo!
 
 >[!MORELIKETHIS]
 >
->* [Explicación del huso horario del Destinatario](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Programar Programas de participación con huso horario de Destinatario](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [Explicación del huso horario del Destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Programar Programas de participación con huso horario de Destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
