@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Notas de la versión - Junio de 2014 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Junio de 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión del 20 de junio. Compruebe la disponibilidad de las funciones en la edición de marketing.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Las funciones denotadas por una estrella ( ![(star)](assets/star-yellow.svg)) pueden ser complementos de pago. Comuníquese con el representante de su Marketo Engage para obtener más información.
 
@@ -30,7 +29,7 @@ Las siguientes funciones se incluyen en la versión del 20 de junio. Compruebe l
    **: Los nuevos filtros de Lista inteligente y Campaña inteligente con Adobe Sensei le permiten crear segmentos de audiencia con tecnología AI para programas de marketing por correo electrónico, evento y seminario web. Utilice AI para ayudarle a segmentar audiencias en función de la probabilidad de posibles clientes para registrarse en un evento, asistir a un evento o cancelar la suscripción. Cree audiencias parecidas basadas en programas anteriores para replicar de forma eficaz el éxito anterior. Alcanzar los objetivos de conversión con el seguimiento de objetivos predictivo y obtener recomendaciones sobre cómo refinar los segmentos de audiencia para programas de evento.
 * **Aumento de correo electrónico por lotes ![(star)](assets/star-yellow.svg): ** Mejora de nuestra capacidad de mercadotecnia por correo electrónico que le permite enviar hasta 3 millones de correos electrónicos por lote por hora. Hemos rediseñado nuestra campaña por lotes y el procesamiento de informes de correo electrónico para mejorar el rendimiento de los programas de correo electrónico y las campañas de correo electrónico por lotes. Esto da como resultado un menor tiempo de envío, así como un mejor tiempo de finalización. Configure los envíos de correo electrónico como lo haría normalmente, no hay complejidad adicional. Esta mejora está disponible como complemento de producto, que también incluye un paquete de inicio de Envío Services, herramientas de Envío de correo electrónico y varias direcciones IP dedicadas.
 * ** [Integración de Audiencia con Adobe Experience Cloud (AEC)](https://docs.marketo.com/x/ogI6Ag): **Nueva integración de Adobe Experience Cloud (AEC) que le permite sincronizar listas estáticas de leads conocidos de Marketo Engage con varias aplicaciones AEC para mejorar los programas existentes, desbloquear nuevos casos de uso y organizar campañas de varios canales. Esta integración incluye Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager y Adobe Advertising Cloud.
-* ** [Campos personalizados de miembro de Programa](https://docs.marketo.com/x/MQA6Ag)**: Capturar y utilizar campos personalizados sobre un miembro de programa. Utilice estos campos nuevos en los formularios Marketo Engage, vista en una lista de miembros de programa, aprovecharlos en filtros y activadores de Lista inteligente e incluirlos en una nueva acción de flujo de Campaña inteligente para una automatización mejorada y una personalización más granular. También se pueden importar y exportar a través de la interfaz de usuario y las API. Mejora de la capacidad de campos y objetos de datos personalizados.
+* ** [Campos personalizados de miembro de Programa](https://docs.marketo.com/x/MQA6Ag)**: Capturar y utilizar campos personalizados sobre un miembro de programa. Utilice estos campos nuevos en los formularios Marketo Engage, vista en una lista de miembros de programa, aprovecharlos en filtros y déclencheur de Lista inteligente e incluirlos en una nueva acción de flujo de Campaña inteligente para una automatización mejorada y una personalización más granular. También se pueden importar y exportar a través de la interfaz de usuario y las API. Mejora de la capacidad de campos y objetos de datos personalizados.
 * **Describa a los miembros** del Programa: Recupere metadatos de miembros de Programa, lo que le permite importar y exportar datos de campos personalizados de miembros de Programa mediante la API de REST. Mejora de nuestra API*. *
 
 * ** [Crear Tarea en Microsoft Dynamics](https://docs.marketo.com/x/jQM6Ag)**: Cree tareas para ventas dentro de Microsoft Dynamics mediante una nueva acción de flujo basada en el comportamiento del cliente capturado en el Marketo Engage. Mejora de nuestra integración nativa de Microsoft Dynamics CRM*. *
@@ -60,11 +59,11 @@ Las siguientes funciones están en un ciclo no trimestral y se publicarán en lo
 
 **
 
-* **Integración** de Programas de Marketo Engage: Extraiga los datos de programa directamente del Marketo Engage para crear puntos de contacto a lo largo del viaje de atribución en Bizbible con el fin de abonar adecuadamente los programas de correo electrónico y participación. Mejora de la integración de Marketo Engage.
-* **Integración`<sup>BETA</sup>`** de Actividades de Marketo Engage: Introducir datos de actividad de Marketo Engage directamente en Bizsible para crear puntos de contacto en el viaje del cliente y en todos los modelos de atribución. Algunos ejemplos son los cambios en la puntuación de posibles clientes, los momentos interesantes, los clics en correos electrónicos o cualquier actividad personalizada. Mejora de la integración de Marketo Engage.
+* **Integración** de Programas de Marketo Engage: Extraiga los datos de programa directamente del Marketo Engage para crear puntos de contacto a lo largo del recorrido de atribución en Biblible con el fin de abonar adecuadamente los programas de correo electrónico y participación. Mejora de la integración de Marketo Engage.
+* **Integración`<sup>BETA</sup>`** de Actividades de Marketo Engage: Introducir datos de actividad de Marketo Engage directamente en Bizsible para crear puntos de contacto en el recorrido del cliente y en todos los modelos de atribución. Algunos ejemplos son los cambios en la puntuación de posibles clientes, los momentos interesantes, los clics en correos electrónicos o cualquier actividad personalizada. Mejora de la integración de Marketo Engage.
 * **Integración`<sup>BETA</sup>`** bisible de atributos del cliente B2B: Esta es una integración de Adobe Experience Cloud con Adobe Analytics que le permite llevar datos seleccionables directamente a Adobe Analytics para obtener una análisis más detallada. Algunos ejemplos son: tráfico del sitio basado en cuentas y análisis de contenido por nombre de compañía, atributos de cuenta, oportunidades de CRM y personas de alto valor, según se define en la etapa de canal e ingresos atribuidos de forma bisible.
 * **Mejoras y Filtros de Discover bisibles:** Analice sus datos con filtros de canales, subcanales, campañas y segmentos en paneles. Refuerce la visibilidad de los datos con más atributos de exploración en profundidad. Esto es una mejora para nuestros tableros de Discover.
-* **Sincronización de actividades para Microsoft Dynamics**: Atribuir las interacciones de ventas mediante la introducción de actividades de Microsoft Dynamics CRM en el viaje del punto de contacto y rastrear eventos como llamadas, citas o tareas asociadas con sus posibles clientes o contactos. Mejora de nuestra integración de Microsoft Dynamics CRM.
+* **Sincronización de actividades para Microsoft Dynamics**: Atribuir las interacciones de ventas llevando actividades de Microsoft Dynamics CRM al recorrido de puntos de contacto y rastreando eventos como llamadas, citas o tareas asociadas con sus posibles clientes o contactos. Mejora de nuestra integración de Microsoft Dynamics CRM.
 
 **Perspectiva de ventas ![(estrella)](assets/star-yellow.svg)
 
