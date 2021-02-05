@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Elija un correo electrónico existente - Documentos de marketing - Documentación del producto
 title: Elegir un correo electrónico existente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Una vez que haya [creado un programa de correo electrónico](../../../../product
 
 Ahora que hemos decidido qué correo electrónico enviar, podemos configurar una prueba A/B, o omitirlo y programar el programa por correo electrónico.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Añadir una prueba A/B](email-test-a-b-test/add-an-a-b-test.md)
 >* [Programar su Programa de correo electrónico](schedule-your-email-program.md)
