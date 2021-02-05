@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 Obtenga más información sobre el uso de las acciones Mensaje de marketing y Registro con marketing.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Envío y seguimiento de un correo electrónico con el Añada de correo electrónico de marketing para Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
