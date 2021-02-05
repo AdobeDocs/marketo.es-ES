@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Notas de la versión - 19 de agosto - Documentos de marketing - Documentación del producto
 title: Notas de la versión - 19 de agosto
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Las siguientes funciones están en un ciclo no trimestral y se publicarán duran
 * **Incorporación:el tutorial** paso a paso facilita y hace más eficaz la integración guiando a los nuevos usuarios a través de la configuración de instancias.
 * **Mejora del diseño de página Personas:** Administre sus personas y grupos mediante importaciones de listas y acciones masivas en el nuevo diseño de página Personas.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Las funciones identificadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Póngase en contacto con su representante de Marketing para obtener más información.
 
