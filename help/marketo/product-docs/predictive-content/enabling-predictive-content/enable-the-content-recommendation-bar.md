@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Habilitar la barra de recomendaciones de contenido - Documentos de marketing - Documentación del producto
 title: Habilitar la barra de recomendaciones de contenido
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 * Cuanto mayor sea el contenido que se ejecuta en el motor de recomendaciones, mejor será para que el algoritmo pruebe y conozca qué contenido funciona mejor. Se recomienda empezar con entre 10 y 20 fragmentos de contenido en ejecución y activos, y seguir agregando nuevos.
 * La parte de contenido que habilite para la recomendación debe incluir la etiqueta RTP Javascript. Esto ayuda al algoritmo a rastrear y optimizar el contenido recomendado.
 
->[!NOTE]
-**Artículos relacionados**
+>[!MORELIKETHIS]
 * [Habilitar contenido predictivo para medios enriquecidos por Web](enable-predictive-content-for-web-rich-media.md)
 
