@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Añadir columnas personalizadas en un informe de persona - Documentos de marketing - Documentación del producto
 title: Añadir columnas personalizadas en un informe de persona
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ Puede filtrar aún más las métricas de los [informes de personas](http://docs.
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >También puede [Añadir columnas de oportunidad en un informe de posible cliente](add-opportunity-columns-to-a-lead-report.md).
