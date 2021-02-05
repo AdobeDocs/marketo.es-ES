@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Definir reglas de segmentos - Documentos de marketing - Documentación del producto
 title: Definir reglas de segmentos
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ La definición de reglas de segmentos le permite categorizar a sus personas en d
 >
 >La pantalla Personas (Borrador) muestra todas las personas que califican para ser miembros y no siempre es la lista final de las personas. Apruebe el segmento para ver la lista final.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Aprobar una segmentación](approve-a-segmentation.md)
 
