@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: Configurar el flujo de progreso del seguimiento para una Oferta de referencia - Documentos de marketing - Documentación del producto
 title: Configurar el flujo de progreso del seguimiento para una Oferta de referencia
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar el flujo de progreso del seguimiento para una Oferta de referencia {#configure-track-progress-flow-for-a-referral-offer}
 
-Cuando [crea una oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede configurar las indicaciones que muestran a los participantes su progreso hacia la recompensa.
+Cuando [crea una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puede configurar las indicaciones que muestran a los participantes su progreso hacia la recompensa.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -27,7 +27,7 @@ Cuando [crea una oferta de referencia](../../../../product-docs/demand-generatio
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. En la ventana **Vista** **&amp;** **Editar**, edite el mensaje que recuerda a los participantes que inicien sesión en la misma red social que utilizaron para registrarse en la oferta.
+1. En la ventana **Vista y edición**, edite el mensaje que recuerda a los participantes que inicien sesión en la misma red social que utilizaron para registrarse en la oferta.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ Cuando [crea una oferta de referencia](../../../../product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->A continuación, haga clic en **Finalizar > Aprobar y cerrar** y [publicar su oferta de referencia](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
-
+>A continuación, haga clic en **Finalizar** > **Aprobar y cerrar** y [publicar su oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
