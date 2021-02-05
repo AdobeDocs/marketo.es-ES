@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Notas de la versión - Julio del 2014 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Julio del 20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión del 20 de julio. Compruebe la disponibilidad de las funciones en la edición de marketing.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Tenga en cuenta que, según el paquete actual, los elementos con una estrella ( ![(star)](assets/star-yellow.svg)) pueden requerir la compra de un complemento de valor. Comuníquese con el representante de su Marketo Engage para obtener más información.
 
