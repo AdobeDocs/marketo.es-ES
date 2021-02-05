@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited - Documentos de marketing - Documentación del producto
 title: Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -300,9 +300,7 @@ Los campos de persona de marketing deben asignarse a los campos de contacto de S
 
    ![](assets/access-msi.png)
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Prioridad, urgencia, puntuación relativa y mejores apuestas](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Añadir la ficha y los botones de perspectiva de ventas de marketing a Salesforce](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
