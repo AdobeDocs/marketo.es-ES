@@ -3,7 +3,7 @@ unique-page-id: 2359910
 description: Editar disponibilidad del contenido del flujo - Documentos de marketing - Documentación del producto
 title: Editar disponibilidad del contenido del flujo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Seleccione la fecha **Activo desde**, luego el **Activo hasta **Fecha y haga clic en **Guardar**.
+1. Seleccione la fecha **Activo desde**, luego la fecha **Activo hasta** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
@@ -31,5 +31,6 @@ Puede establecer un intervalo de tiempo para que el contenido esté activo en el
    >
    >Puede dejar **Activo a través** en blanco para que el contenido esté disponible para siempre.
 
-   ¡Perfecto! Verá el icono de reloj junto al contenido programado. Se activará e inactivará según la programación establecida.   ![](assets/image2014-9-15-17-3a36-3a4.png)
+   ¡Perfecto! Verá el icono de reloj junto al contenido programado. Se activará e inactivará según la programación establecida.
 
+   ![](assets/image2014-9-15-17-3a36-3a4.png)
