@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Añadir una prueba A/B - Documentos de marketing - Documentación del producto
 title: Añadir una prueba A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ La prueba es una buena manera de optimizar los correos electrónicos para una me
    >
    >Si tiene registros de duplicados en la base de datos, dichos registros recibirán **tanto** como los correos electrónicos ganadores y de prueba. Para evitar que esto ocurra, asegúrese de [buscar y combinar personas de duplicado](http://docs.marketo.com/x/G4EI) en la base de datos.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Usar la prueba A/B de &quot;línea de asunto&quot;](use-subject-line-a-b-testing.md)
 >* [Usar la prueba A/B de &quot;correo electrónico completo&quot;](use-whole-email-a-b-testing.md)
