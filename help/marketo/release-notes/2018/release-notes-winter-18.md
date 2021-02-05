@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Notas de la versión - Winter '18 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '18
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Haga clic en los vínculos de título para vista de artículos detallados para c
 
 ## Mejoras en el rendimiento y el rendimiento de la campaña {#campaign-performance-and-throughput-enhancements}
 
-Marketo aprovecha nuestra arquitectura de datos de gran tamaño para aumentar el rendimiento de la campaña de activación y mejorar el procesamiento de la actividad web, para que pueda reaccionar con mayor rapidez a las acciones de su audiencia.
+Marketo aprovecha nuestra arquitectura de grandes datos para aumentar el rendimiento de la campaña de déclencheur y mejorar el procesamiento de la actividad web, para que pueda reaccionar con mayor rapidez a las acciones de su audiencia.
 
 ## Mejoras en la integración de CRM de Salesforce de Marketing {#enhancements-to-marketo-s-salesforce-crm-integration}
 
@@ -33,9 +33,8 @@ Estas mejoras se implementarán en 2018.
 
 ## [Perspectivas de rendimiento de marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Performance Insights es un producto adicional. Póngase en contacto con el administrador de éxito del cliente de marketing o con el ejecutivo de cuentas para obtener una cotización.
 
@@ -89,7 +88,7 @@ El contenido recomendado mediante los algoritmos de contenido optimizado`<sup>AI
 
 ** [Activar/Desactivar API de Campaña](http://developers.marketo.com/rest-api/assets/campaigns/)**
 
-Esta nueva API le permite activar y desactivar de forma remota campañas desencadenadoras, por lo que ahora puede crear plantillas de programa totalmente automatizadas. Cree una plantilla de programa una vez, luego automatice la clonación, las actualizaciones de material publicitario de marketing y ahora la activación/programación de campañas inteligentes.
+Esta nueva API le permite activar y desactivar de forma remota campañas de déclencheur, por lo que ahora puede crear plantillas de programa totalmente automatizadas. Cree una plantilla de programa una vez, luego automatice la clonación, las actualizaciones de material publicitario de marketing y ahora la activación/programación de campañas inteligentes.
 
 ## ToutApp {#toutapp}
 
