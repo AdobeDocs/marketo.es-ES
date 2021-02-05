@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Remercadotecnia personalizada en Facebook - Documentos de marketing - Documentación del producto
 title: Remercadotecnia personalizada en Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,7 @@ Para obtener más información, consulte la [documentación de Facebook](https:/
 
 1. Ahora todos están configurados con una campaña de remarketing personalizada en Facebook.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Redireccionamiento con datos de personalización web](retargeting-with-web-personalization-data.md)
 >* [Remercadotecnia personalizada en Google](personalized-remarketing-in-google.md)
