@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Página de perspectiva de ventas para administradores de marketing - Documentos de marketing - Documentación del producto
 title: Página de perspectiva de ventas para administradores de mercadotecnia
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
    >
    >Si aún no tiene los campos de puntuación personalizados, puede [crearlos](http://docs.marketo.com/x/3wMk).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >[Estrellas y llamas](http://docs.marketo.com/x/qgU6Ag)
