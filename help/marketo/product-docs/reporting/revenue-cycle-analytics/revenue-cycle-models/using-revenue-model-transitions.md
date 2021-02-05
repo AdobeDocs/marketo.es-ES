@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: Uso de Transiciones del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Uso de Transiciones del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -30,15 +30,15 @@ Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora 
    >Las reglas de transición &#39;Anonymous  Known&#39; no se pueden editar.
 
 1. Se abrirá una nueva ficha para la transición seleccionada.   ![](assets/three-1.png)
-1. Las transiciones controlan cómo se mueven los leads entre etapas. Arrastre el activador (o filtro) de su elección desde la derecha y suelte en cualquier lugar del lienzo. En este ejemplo, seleccionaremos el activador Rellenar formulario.
+1. Las transiciones controlan cómo se mueven los leads entre etapas. Arrastre el déclencheur (o el filtro) de su elección desde la derecha y suelte en cualquier lugar en el lienzo. En este ejemplo, seleccionaremos el déclencheur Rellenar formulario.
 
    >[!TIP]
    >
-   >Dado que el modelador de ingresos está configurando para sistemas de informes, se recomienda que las transiciones siempre incluyan activadores. De este modo, los informes reflejarán la verdadera velocidad del flujo de etapas/modelos. Se pueden agregar filtros con los activadores para restricciones adicionales.
+   >Dado que el modelador de ingresos está configurando para sistemas de informes, se recomienda que las transiciones siempre incluyan déclencheur. De este modo, los informes reflejarán la verdadera velocidad del flujo de etapas/modelos. Se pueden agregar filtros con los déclencheur para restricciones adicionales.
 
    ![](assets/four-2.png)
 
-1. Elija los parámetros del activador o filtro seleccionado.
+1. Elija los parámetros del déclencheur o filtro seleccionado.
 
    ![](assets/five-2.png)
 
@@ -60,8 +60,6 @@ Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora 
 
 ¡Bien hecho! Ha modificado correctamente sus transiciones de modelo.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Aprobar o desaprobar un modelo de ingresos](approve-unapprove-a-revenue-model.md)
