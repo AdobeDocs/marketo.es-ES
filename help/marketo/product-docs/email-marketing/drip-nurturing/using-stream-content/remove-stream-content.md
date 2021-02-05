@@ -3,7 +3,7 @@ unique-page-id: 2359915
 description: Eliminar contenido de flujo - Documentos de marketing - Documentación del producto
 title: Eliminar contenido del flujo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Eliminar contenido de flujo {#remove-stream-content}
 
-Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminación del contenido del flujo, [el archivado](archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no te importa perder las estadísticas históricas de algún contenido y quieres eliminarlo, así es como hacerlo.
+Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminación del contenido del flujo, [el archivado](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) conserva todo el historial asociado al contenido. Si no te importa perder las estadísticas históricas de algún contenido y quieres eliminarlo, así es como hacerlo.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -29,7 +29,6 @@ Puede eliminar o archivar un fragmento de contenido. A diferencia de la eliminac
 
    >[!CAUTION]
    >
-   >Elimine el contenido solo si no le importa la historia. Si desea conservar la historia, [archivarla](archive-and-unarchive-stream-content.md) en su lugar.
+   >Elimine el contenido solo si no le importa la historia. Si desea conservar la historia, [archivarla](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) en su lugar.
 
    ¡Eso es todo! Ahora sabe cómo eliminar un fragmento de contenido.
-
