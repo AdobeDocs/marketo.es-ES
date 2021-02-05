@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Programar la prueba A/B - Documentos de marketing - Documentación del producto
 title: Programar la prueba A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
    Suponiendo que ya haya definido su audiencia y haya seleccionado un correo electrónico, el único paso que queda es aprobar el programa.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
