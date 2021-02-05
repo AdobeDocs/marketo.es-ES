@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Simulador para pruebas de marketing - Documentos de marketing - Documentación del producto
 title: Simulador para pruebas de marketing
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Un simulador para pruebas de marketing es una instancia adicional que se utiliza para realizar pruebas antes de la implementación en el entorno de producción.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta función. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
