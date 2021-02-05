@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: Publicación de apuestas - Documentos de marketing - Documentación del producto
 title: Publicar una apuesta
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # Publicar una apuesta {#publish-a-sweepstakes}
 
-Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en sus páginas de aterrizaje de marketing, en su sitio web y en su Facebook.
+Después de [crear una apuesta](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede publicarla en sus páginas de aterrizaje de marketing, en su sitio web y en su Facebook.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
 >[!NOTE]
->
->**Recordatorio**
 >
 >Antes de publicar la oferta, asegúrese de que cumple todas las leyes, reglas y regulaciones aplicables.
 
@@ -41,12 +37,9 @@ Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en sus 
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Debe aprobar sus apuestas para que estén disponibles aquí.
 
-   [publicar la página de aterrizaje en ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook colocar las apuestas en el sitio web](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   ¡Felicitaciones! Apruebe la página de aterrizaje y sus apuestas están activas. También puede [publicar la página de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [poner las apuestas en su sitio Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ Después de [crear una apuesta](create-sweepstakes.md), puede publicarla en sus 
 
    >[!NOTE]
    >
-   >Una vez que las personas inicios de registrarse, recuerde volver a la aplicación para [seleccionar los ganadores de apuestas](select-sweepstakes-winners.md)!
-
-¡Felicitaciones! Apruebe la página de aterrizaje y sus apuestas están activas. También puede o .
+   >Una vez que las personas inicios de registrarse, recuerde volver a la aplicación para [seleccionar los ganadores de apuestas](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
