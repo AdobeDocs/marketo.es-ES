@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Informe de rendimiento de correo electrónico de campaña - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de correo electrónico de campaña
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
    >
    >En general, tratamos de usar el sentido común para registrar estas estadísticas. Por ejemplo, si alguien hizo clic en un vínculo en un mensaje de correo electrónico, obviamente lo abrió primero. Para ver las reglas específicas que seguimos, consulte el [Informe de rendimiento de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
