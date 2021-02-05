@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Añadir contenido a un flujo - Documentos de marketing - Documentación del producto
 title: Añadir contenido en un flujo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >La campaña inteligente debe tener el Programa **Miembro de compromiso** filtro para que esto funcione correctamente.
 
 **Flujo + icono**
@@ -118,9 +115,4 @@ Una vez que haya creado el programa de participación, deberá agregar contenido
 
 >[!MORELIKETHIS]
 >
->* [Añadir un Programa en un flujo de Programa de participación](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Añadir un Programa en un flujo de Programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
