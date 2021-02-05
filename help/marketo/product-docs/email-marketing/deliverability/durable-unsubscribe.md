@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: Cancelación duradera de la suscripción - Documentos de marketing - Documentación del producto
 title: Cancelación de suscripción duradera
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -55,9 +55,8 @@ De la misma manera que una cancelación de suscripción haría que todas las per
 
 ## Registro de actividades {#activity-log}
 
-Las definiciones de cambio de valor de datos para *updateLeadEmailStatus* y *resetLeadEmailStatus* se encuentran en [este artículo de comunidad](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Las definiciones de cambio de valor de datos para _updateLeadEmailStatus_ y _resetLeadEmailStatus_ se encuentran en [este artículo de comunidad](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
->[Explicación de la cancelación de suscripción](understanding-unsubscribe.md)
-
+>[Explicación de la cancelación de suscripción](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
