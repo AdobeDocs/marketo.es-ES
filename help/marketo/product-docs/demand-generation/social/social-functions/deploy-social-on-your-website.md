@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: Implementar Social en el sitio web - Documentos de marketing - Documentación del producto
 title: Implementar Social en el sitio web
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Incruste aplicaciones sociales en páginas que no sean de marketing.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >Póngase en contacto con su representante de ventas para obtener más detalles.
 
@@ -27,7 +25,7 @@ Puede implementar aplicaciones sociales en su propio sitio web para atraer a su 
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Seleccione **Incrustar** **Código**** **en Acciones de aplicación de Social.
+1. Seleccione **Código incrustado** en Acciones de aplicación de Social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ Puede implementar aplicaciones sociales en su propio sitio web para atraer a su 
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Si necesita establecer el tamaño de la aplicación social en dimensiones específicas de la página, agregue las opciones **exteriorHeight** y **exteriorWidth** al segundo fragmento de código. Por ejemplo, puede agregar options=&#39;{&quot;externalHeight&quot;:400, &quot;externalWidth&quot;:600}&#39;, como en:
+1. Si necesita establecer el tamaño de la aplicación social en dimensiones específicas de la página, agregue las opciones **exteriorHeight** y **exteriorWidth** al segundo fragmento de código. Por ejemplo, puede agregar `options='{"outerHeight":400, "outerWidth":600}'`, como en:
 
    ![](assets/socialonsite-resizewidget2.png)
 
    La aplicación social de Marketing to ahora agrega contenido e interactividad a su sitio web, invitando a seguidores, visitantes y clientes existentes a difundir su información. Al mismo tiempo, agrega sus datos de perfil a la base de datos y rastrea las métricas de influencia social.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >    
-   >    
-   >* [Botón Personalizar aplicación social](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Establecer requisito de uso compartido en redes sociales](set-social-share-requirement.md)
-   >* [Publicar Páginas de aterrizaje en Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Botón Personalizar aplicación social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Establecer requisito de uso compartido en redes sociales](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Publicar Páginas de aterrizaje en Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
