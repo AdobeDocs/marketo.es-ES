@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Añadir columnas de oportunidades en un informe de posibles clientes - Documentos de marketing - Documentación del producto
 title: Añadir columnas de oportunidad en un informe de posible cliente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ Para ver las estadísticas de las oportunidades en los [informes de personas](ht
    | Días que cerrar | Cantidad promedio de días para cerrar oportunidades. |
    | Días de ventas | Duración promedio del ciclo de ventas (Días hasta la oportunidad + Días hasta el cierre). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >Obtenga información sobre cómo [administrar el tamaño del informe](configure-report-size.md).
