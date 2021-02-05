@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Cambiar un intervalo de tiempo del informe - Documentos de marketing - Documentación del producto
 title: Cambiar un intervalo de tiempo del informe
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Cambie el período de tiempo cubierto por el informe para centrarse en una hora 
    Haga clic en la ficha **Informe** para ver el informe del intervalo de tiempo seleccionado.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >Para reducir el informe por atributos de persona específicos, puede [filtrar personas en un informe con una Lista inteligente](filter-people-in-a-report-with-a-smart-list.md).
