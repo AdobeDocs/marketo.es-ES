@@ -1,37 +1,35 @@
 ---
 unique-page-id: 2359837
-description: Activadores y Filtros para Actividades sociales - Documentos de marketing - Documentación del producto
-title: Activadores y Filtros para Actividades sociales
+description: Déclencheur y Filtros para Actividades sociales - Documentos de marketing - Documentación del producto
+title: Déclencheur y Filtros para Actividades sociales
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
-# Desencadenadores y Filtros para Actividades sociales {#triggers-and-filters-for-social-activities}
+# Déclencheur y Filtros para Actividades sociales {#triggers-and-filters-for-social-activities}
 
-Las aplicaciones sociales en Marketing tienen sus propios activadores y filtros especiales.
+Las aplicaciones sociales en Marketing tienen sus propios déclencheur y filtros especiales.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
-1. Para utilizar activadores *sociales*, seleccione la campaña inteligente y haga clic en la ficha **Lista inteligente**. A la derecha, haga clic en + para expandir **Desencadenadores** y luego **Social**.
+1. Para utilizar _déclencheur_ sociales, seleccione la campaña inteligente y haga clic en la ficha **Lista inteligente**. A la derecha, haga clic en + para expandir **Déclencheur** y luego **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para utilizar *filtros* sociales, haga clic en **+** para expandir los **Filtros**.
+1. Para utilizar _filtros_ sociales, haga clic en **+** para expandir los **Filtros**.
 
    ![](assets/two-282-29.png)
 
-1. Consulte la tabla siguiente para ver qué activadores y filtros funcionan con cada aplicación social.
+1. Consulte la tabla siguiente para ver qué déclencheur y filtros funcionan con cada aplicación social.
 
-   | Activadores/Filtros | Botones de Social | Encuestas | Vídeos | Ofertas de referencia | Apuestas |
+   | Déclencheur/Filtros | Botones de Social | Encuestas | Vídeos | Ofertas de referencia | Apuestas |
    |---|---|---|---|---|---|
    | Objetivo logrado en la remisión |  |  |  | ![(visto)](assets/check.svg) |  |
    | Comparte contenido | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) |
@@ -44,9 +42,6 @@ Las aplicaciones sociales en Marketing tienen sus propios activadores y filtros 
    | Votos en la encuesta |  | ![(visto)](assets/check.svg) |  |  |  |
    | Apuestas de Wins |  |  |  |  | ![(visto)](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
-   >
-   >* [Rendimiento social de vista](view-social-performance.md)
-
+   >[Rendimiento social de vista](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
