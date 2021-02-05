@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: Probar un flujo de participación - Documentos de marketing - Documentación del producto
 title: Probar un flujo de participación
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Una vez que haya agregado todo el contenido a un flujo, puede probarlo de una en
 
    ![](assets/two.png)
 
-1. Haga clic en** Acciones de Programa** y seleccione **Flujo de prueba**.
+1. Haga clic en **Acciones de Programa** y seleccione **Flujo de prueba**.
 
    ![](assets/three.png)
 
-1. Seleccione su persona en el menú desplegable **Test Person **desplegable. Recuerde que el contenido en realidad saldrá, así que tenga esto en cuenta al elegir.
+1. Seleccione a su persona en la lista desplegable **Probar persona**. Recuerde que el contenido en realidad saldrá, así que tenga esto en cuenta al elegir.
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ Una vez que haya agregado todo el contenido a un flujo, puede probarlo de una en
    Haga clic en Flujo inicial, seleccione el flujo que desee probar y haga clic en Ejecutar retransmisión.
    ![](assets/five-rubiks.png)
 
-1. Después de que la persona pase por las [reglas de transición](transition-people-between-engagement-streams.md) que configuró anteriormente, haga clic en el icono Actualizar.
+1. Después de que la persona pase por las [reglas de transición](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que configuró anteriormente, haga clic en el icono Actualizar.
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ Una vez que haya agregado todo el contenido a un flujo, puede probarlo de una en
 
    >[!NOTE]
    >
-   >No se enviará ningún otro contenido a menos que haga clic en **Ejecutar refundición **nuevamente.
-
+   >No se enviará ningún otro contenido a menos que haga clic en **Ejecutar refundición de nuevo**.
