@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: Vista del Panel de notificaciones push - Documentos de marketing - Documentación del producto
 title: Vista del Panel de notificaciones push
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ Es fácil ver cómo funcionan las notificaciones push.
    >
    >La métrica **Enviada** puede reflejar más envíos que el número exacto de personas a las que se envió la notificación push. Esto se debe a que se calcula en función del *número de dispositivos* que cumplen los requisitos para recibir la notificación push. Por ejemplo, si una sola persona tiene tres dispositivos, el panel registra tres envíos, no uno.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
