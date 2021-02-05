@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Informe de Actividad de página web - Documentos de marketing - Documentación del producto
 title: Informe Actividad de página Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,8 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
 >
 >¡Enhorabuena a tus representantes de ventas! [¡Filtre el ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)informe de su territorio y  [suscríbanlos](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
 >
 >* [Páginas Web vistas, informe Actividad de página Web](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Mostrar personas o Visitantes anónimos en informes web](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
