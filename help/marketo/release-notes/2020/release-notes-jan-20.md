@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Notas de la versión - Ene 2020 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Ene 2020
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión del 20 de enero. Compruebe la disponibilidad de las funciones en la edición de marketing.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Las funciones identificadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Comuníquese con el representante de su Marketo Engage para obtener más información.
 
@@ -73,7 +72,7 @@ Bisible ![(star)](assets/star-yellow.svg)
 >* **Desuso** de TLS 1.0 y 1.1: En un esfuerzo continuo por integrarse con la estructura de versiones de Adobe, estamos cambiando la desaprobación de TLS 1.0 y TLS 1.1 al 13 de enero de 2020. Encontrará información más detallada [aquí](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
    >
    >
-* **Actualización** ITP 2.1+ Munchkin: Debido a los cambios en la directiva de cookies para Safari, la capacidad de Munchkin para rastrear usuarios entre sesiones en el mismo dominio estará limitada por ITP a 1 ó 7 días en función del explorador y la versión del explorador utilizada por el visitante. Para tener esto en cuenta, estamos implementando un nuevo servicio web para permitir que las cookies Munchkin se configuren con un encabezado Set-Cookie a través de la respuesta HTTP. Encontrará más información sobre cómo implementar este nuevo servicio [aquí](https://nation.marketo.com/docs/DOC-7351).
+* **Actualización** ITP 2.1+ Munchkin: Debido a los cambios en la directiva de cookies para Safari, la capacidad de Munchkin para rastrear usuarios entre sesiones en el mismo dominio estará limitada por ITP a 1 ó 7 días en función del explorador y la versión del explorador que utilice el visitante. Para tener esto en cuenta, estamos implementando un nuevo servicio web para permitir que las cookies Munchkin se configuren con un encabezado Set-Cookie a través de la respuesta HTTP. Encontrará más información sobre cómo implementar este nuevo servicio [aquí](https://nation.marketo.com/docs/DOC-7351).
 
 
 ***Seminario*** [web sobre la versión del productoÚnase ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) al sitio el 3 de marzo a las 11:00AM PT / 2:00PM ET para un seminario web en directo organizado por nuestro equipo de productos y obtenga más información sobre las funciones incluidas en esta versión.
