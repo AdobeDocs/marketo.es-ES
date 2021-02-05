@@ -3,9 +3,9 @@ unique-page-id: 7513865
 description: Instalación y configuración de la perspectiva de ventas de marketing en Microsoft Dynamics 2015 - Documentos de marketing - Documentación del producto
 title: Instalación y configuración de Marketingto Sales Insight en Microsoft Dynamics 2015
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -160,9 +160,7 @@ Por último, tiene que dar acceso a usuarios específicos para utilizar la Persp
 
 Ahora ha desbloqueado la potencia de la perspectiva de ventas de marketing para su equipo de ventas.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >[Configuración de estrellas y llamas para registros de contacto/posibles clientes](http://docs.marketo.com/x/BICMAg)
 
