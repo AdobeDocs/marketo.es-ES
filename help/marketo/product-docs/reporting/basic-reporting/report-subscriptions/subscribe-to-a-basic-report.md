@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: Suscripción a un informe básico - Documentos de marketing - Documentación del producto
 title: Suscripción a un informe básico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ Para recibir actualizaciones automáticas de un [informe básico](http://docs.ma
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >Obtenga información sobre cómo [administrar todas sus suscripciones de informes](manage-report-subscriptions.md) en un solo lugar.
