@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: Creación de un analizador de rutas de éxito - Documentos de marketing - Documentación del producto
 title: Creación de un analizador de rutas de éxito
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Ahora puede explorar el movimiento de cada etapa al siguiente.
 >
 >¿Desea guardar el informe? Haga clic en la lista desplegable **Acciones del analizador** y seleccione **Guardar como**.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Uso del analizador de rutas de éxito](using-the-success-path-analyzer.md)
 
