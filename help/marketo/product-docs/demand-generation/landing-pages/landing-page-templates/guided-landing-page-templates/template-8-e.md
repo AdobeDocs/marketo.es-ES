@@ -3,9 +3,9 @@ unique-page-id: 8783972
 description: Plantilla 8-E - Documentos de marketing - Documentación del producto
 title: Plantilla 8-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Plantilla 8-E {#template-e}
 
-Haga clic con el botón derecho para [Descargar plantilla 8-E](http://docs.marketo.com/download/attachments/8783972/template-8e.html?version=1&amp;modificationdate=1482175134000&amp;api=v2)
+[Descargar plantilla 8-E](https://docs.marketo.com/download/attachments/8783972/template-8e.html?version=1&amp;modificationdate=1482175134000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 
@@ -27,6 +27,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cinco secciones de cuerpo (opcional)
 * Un pie de página (opcional)
 
-Haga clic con el botón derecho para descargar esta plantilla:
+**Haga clic abajo para descargar esta plantilla:**
 
-[Template8-E.html](http://docs.marketo.com/download/attachments/8783972/template-8e.html?version=1&amp;modificationdate=1482175134000&amp;api=v2)
+[Template8-E.html](https://docs.marketo.com/download/attachments/8783972/template-8e.html?version=1&amp;modificationdate=1482175134000&amp;api=v2)
