@@ -3,9 +3,9 @@ unique-page-id: 12982909
 description: Programar Programas de participación con huso horario de Destinatario - Documentos de marketing - Documentación del producto
 title: Programar Programas de participación con huso horario de Destinatario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Programar Programas de participación con huso horario de Destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
-Cuando [programe un flujo de programas de participación](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) y el huso horario de destinatario esté activo, el reparto de programas se inicio cuando se ejecute a medianoche en el primer huso horario (UTC +14:00). Le solicitamos que programe el primer reparto **al menos 25 horas** en el futuro, porque puede haber personas que califiquen para el reparto en cada zona horaria en todo el mundo. El inicio del procesamiento en este momento en el primer huso horario garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada destinatario.
+Cuando se programa un flujo de programa de participación y el huso horario de destinatario está activo, el flujo de programa se inicio cuando se ejecuta a medianoche en el primer huso horario (UTC +14:00). Le solicitamos que programe el primer reparto **al menos 25 horas** en el futuro, porque puede haber personas que califiquen para el reparto en cada zona horaria en todo el mundo. El inicio del procesamiento en este momento en el primer huso horario garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada destinatario.
 
 1. En el programa de participación, vaya a la ficha **Flujos** y haga clic en el programa de cadencia de un flujo para editarlo.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Configure la ](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) configuración de cadencia como lo haría normalmente y, a continuación, marque la casilla **Zona horaria del Destinatario **. Recuerde que su primer reparto debe ser de al menos 25 horas en el futuro. Haga clic en **Guardar**.
+1. [Configure la ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) configuración de cadencia como lo haría normalmente y, a continuación, marque la casilla  **Destinatario Time** Zonebox. Recuerde que su primer reparto debe ser de al menos 25 horas en el futuro. Haga clic en **Guardar**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
@@ -29,10 +29,6 @@ Cuando [programe un flujo de programas de participación](https://docs.marketo.c
 
 >[!MORELIKETHIS]
 >
->* [Explicación del huso horario del Destinatario](../../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Definir secuencia de flujo](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
-
->
-
-
+>* [Explicación del huso horario del Destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Definir secuencia de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
