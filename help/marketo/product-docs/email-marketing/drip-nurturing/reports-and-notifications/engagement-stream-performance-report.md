@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: Informe Rendimiento del flujo de participación - Documentos de marketing - Documentación del producto
 title: Informe Rendimiento del flujo de participación
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >Aunque no se ilustra, la puntuación de participación es una columna en este informe. Consulte [Explicación de la puntuación de compromiso](understanding-the-engagement-score.md) para obtener más información sobre qué es.
+   >Aunque no se ilustra, la puntuación de participación es una columna en este informe. Consulte [Explicación de la puntuación de compromiso](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) para obtener más información sobre qué es.
 
    ¡bueno trabajo! Observe que el informe se agrupa por programa de participación.
-
