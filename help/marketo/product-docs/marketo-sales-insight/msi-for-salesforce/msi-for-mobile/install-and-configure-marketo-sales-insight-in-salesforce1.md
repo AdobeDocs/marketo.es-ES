@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Instalar y configurar MarketingTo Sales Insight en Salesforce1 - Documentos de marketing - Documentación del producto
 title: Instalar y configurar MarketingTo Sales Insight en Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Si tiene Salesforce Professional:
 
 ¡Uf! Finalmente ha terminado de instalar Marketingto Sales Insight para Salesforce1! Adelante y déte una palmada en la espalda.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Mejores apuestas en Salesforce1](best-bets-in-salesforce1.md)
 >* [Momentos interesantes en Salesforce1](interesting-moments-in-salesforce1.md)
