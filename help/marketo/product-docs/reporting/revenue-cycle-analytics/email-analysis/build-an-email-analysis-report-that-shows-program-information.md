@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Generar un informe de Análisis por correo electrónico que muestre información de Programa - Documentos de marketing - Documentación del producto
 title: Generar un informe de Análisis de correo electrónico que muestre información de Programa
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Siga estos pasos para crear un informe de Análisis de correo electrónico que muestre información de correo electrónico agrupada por canales de programa.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
