@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Iniciar una presentación - Documentos de marketing - Documentación del producto
 title: Iniciar una presentación
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Una vez que haya establecido las vistas y la frecuencia de rotación para la presentación, es hora de que se produzca una explosión.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
