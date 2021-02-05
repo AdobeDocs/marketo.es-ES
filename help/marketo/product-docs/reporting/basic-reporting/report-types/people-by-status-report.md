@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Informe Personas por estado - Documentos de marketing - Documentación del producto
 title: Informe Personas por estado
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Revise la eficacia con la que está moviendo a las personas a través del proces
    >
    >Haga clic en el signo más (+) para expandir cada mes y ver los números específicos de cada estado de persona.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >[Utilice una lista inteligente para filtrar el ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) informe a personas específicas.
