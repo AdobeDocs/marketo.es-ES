@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: Uso de contenido dinámico en un mensaje de correo electrónico - Documentos de marketing - Documentación del producto
 title: Uso de contenido dinámico en un correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Utilice el contenido dinámico en los correos electrónicos para enviar la infor
 
 ¡Dulce! Ahora puede enviar correos electrónicos flexibles a su audiencia de destinatario.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Previsualización de un correo electrónico con contenido dinámico](preview-an-email-with-dynamic-content.md)
 >* [Uso de contenido dinámico en una Página de aterrizaje](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
