@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: Cree un informe de Análisis de pertenencia a Programas que Lista los posibles clientes - Documentos de marketing - Documentación del producto
 title: Cree un informe de Análisis de pertenencia a Programas que Lista los posibles clientes
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Siga estos pasos para crear un informe de Análisis de pertenencia a Programa que muestre todos los nombres de miembros de programa.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
