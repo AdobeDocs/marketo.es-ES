@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Inicio principal para Programas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Inicio principal para Programas de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Esto significa que si se encuentra en América/Los Ángeles y desea habilitar ta
 
 [Obtenga ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) más información sobre cómo programar programas de correo electrónico con el huso horario de Destinatario.
 
->[!NOTE]
->
->**Artículos relacionados**
+>[!MORELIKETHIS]
 >
 >* [Programar su Programa de correo electrónico](schedule-your-email-program.md)
 >* [Programar Programas de correo electrónico con huso horario de Destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
