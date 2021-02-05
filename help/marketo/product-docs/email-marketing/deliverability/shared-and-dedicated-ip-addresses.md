@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Direcciones IP compartidas y dedicadas - Documentos de marketing - Documentación del producto
 title: Direcciones IP compartidas y dedicadas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Como de costumbre, ambas opciones tienen ventajas y desventajas.
 
 **Ventajas de una IP dedicada**
 
-*Pros*
+_Pros_
 
 **Reputación** : Usted es totalmente propietario de su reputación y capacidad de entrega.\
 **Monitoreo** : el monitoreo del sistema de informes de la capacidad de entrega le permite responder rápidamente a los cambios en las métricas de envío.\
 **Resolución**  de problemas: Es más fácil investigar, entender y resolver problemas de envío.
 
-*Cons*
+_Cons_
 
 **Cambios**  de volumen: los picos de volumen pueden afectar negativamente a su reputación y es necesario administrarlos.\
 **Proceso**  de calentamiento de IP: la reputación se genera con el tiempo. Algunos Proveedores de servicio de Internet (ISP) eliminan direcciones IP sin historial de volumen, por lo que tendrá que crear una reputación en las primeras semanas (Marketo puede ayudarle a guiarle).\
@@ -45,17 +45,17 @@ Como de costumbre, ambas opciones tienen ventajas y desventajas.
 
 **Ventajas de una IP compartida**
 
-*Pros*
+_Pros_
 
-**Buenas compañeras **- Si la gente que estás compartiendo tu IP sigue las mejores prácticas de envío, te beneficiarías.\
-**Frecuencia de envío de correo **- No se necesita una frecuencia de correo mínima para poder optar a una IP compartida, a diferencia de las IP dedicadas.\
-**Coste **- Nunca hay un cargo adicional para enviar desde una IP compartida.
+**Buenos compañeros**  de habitación: Si la gente con la que comparte su IP sigue las mejores prácticas de envío, se beneficiará.\
+**Frecuencia**  de envío de correo: no se necesita una frecuencia de correo mínima para poder optar a una IP compartida, a diferencia de las IP dedicadas.\
+**Costo** : nunca hay un cargo adicional que enviar desde una IP compartida.
 
-*Cons*
+_Cons_
 
 **Compañeros**  malos: Si la gente con la que comparte su IP se involucra en malas prácticas de envío, sus campañas de correo electrónico podrían verse afectadas negativamente.\
-**Control **- Usted tiene mucho menos control sobre su reputación de remitente.\
-**Resolución de problemas **- A menudo puede resultar más difícil resolver un problema al enviar desde direcciones IP compartidas.
+**Control** : Usted tiene mucho menos control sobre la reputación del remitente.\
+**Resolución**  de problemas: suele ser más difícil resolver un problema al enviar desde IP compartidas.
 
 >[!NOTE]
 >
