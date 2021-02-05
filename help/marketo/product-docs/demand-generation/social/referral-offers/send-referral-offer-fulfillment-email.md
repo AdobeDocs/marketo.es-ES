@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Enviar correo electrónico de entrega de Oferta de referencia - Documentos de marketing - Documentación del producto
 title: Enviar correo electrónico de descarga de Oferta de referencia
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Recompense a sus clientes con cupones y códigos de descuento mediante el correo
 
 >[!PREREQUISITES]
 >
->* [Usar correos electrónicos en promociones sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Crear una Oferta de referencia](create-a-referral-offer.md)
-
->
-
+>* [Usar correos electrónicos en promociones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Crear una Oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## Configurar Envío de descarga {#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ Recompense a sus clientes con cupones y códigos de descuento mediante el correo
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. En **Configuración de aplicación**, seleccione **Detalles de Oferta.**
+1. En **Configuración de aplicación**, seleccione **Detalles de Oferta**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Seleccione un **correo electrónico de registro**.
 
@@ -46,10 +41,7 @@ Recompense a sus clientes con cupones y códigos de descuento mediante el correo
 
    >[!NOTE]
    >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga más información sobre [el uso de correos electrónicos en promociones sociales](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Obtenga más información sobre [el uso de correos electrónicos en promociones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Haga clic en la lista desplegable **Envío de descarga** y seleccione **Automático en gol**.
 
@@ -65,7 +57,7 @@ Puede enviar un correo electrónico de cumplimiento manualmente a una persona un
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Haga clic en la opción **Filtrar por **y seleccione **Objetivo**.
+1. Haga clic en la opción **Filtrar por** y seleccione **Objetivo**.
 
    >[!NOTE]
    >
