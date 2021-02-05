@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Información general sobre perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Información general sobre perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Las perspectivas de rendimiento de marketing le ayudan a optimizar la combinación de canales para lograr la máxima eficacia, como así también a descubrir las tendencias a largo plazo para identificar estrategias ganadoras coherentes.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes tienen la función Perspectivas de rendimiento. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
