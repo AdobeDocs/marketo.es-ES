@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: Configure SPF y DKIM para su capacidad de entrega por correo electrónico - Documentos de marketing - Documentación del producto
 title: Configure SPF y DKIM para su capacidad de entrega por correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,10 @@ Un método rápido para mejorar las tasas de envío de correo electrónico es in
 **Si NO tiene un registro SPF en su dominio**
 
 Pida al administrador de red que agregue la línea siguiente a sus entradas DNS. Reemplace [domain] por el dominio principal de su sitio Web (por ejemplo: &quot;compañía.com&quot;) y [corpIP] con la dirección IP de su servidor de correo electrónico corporativo (por ejemplo: &quot;255.255.255.255&quot;). Si envía correos electrónicos desde varios dominios a través de Marketing, debe agregarlos a cada dominio (en una línea).
-[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
-Si NO tiene un registro SPF en su dominio
+
+`[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
+
+**Si NO tiene un registro SPF en su dominio**
 
 Si ya tiene un registro SPF en la entrada DNS, agregue lo siguiente:
 
@@ -33,28 +35,24 @@ include:mktomail.com
 
 ## Configurar DKIM {#set-up-dkim}
 
-### ¿Qué es DKIM? ¿Por qué quiero configurar DKIM? {#what-is-dkim-why-do-i-want-to-set-up-dkim}
+**¿Qué es DKIM? ¿Por qué deseo configurar DKIM?**
 
 DKIM es un protocolo de autenticación que utilizan los receptores de correo electrónico para determinar si un mensaje de correo electrónico ha sido enviado por quien dice que fue enviado. DKIM a menudo mejora la entrega de correos electrónicos a la bandeja de entrada, ya que un receptor puede estar seguro de que el mensaje no es una falsificación.
 
-¿Cómo actúa DKIM?
+**¿Cómo actúa DKIM?**
 
 Después de configurar la clave pública en el registro DNS y activar el dominio de envío en la sección Administración (A), activaremos la firma DKIM personalizada para sus mensajes salientes, que incluirá una firma digital cifrada con cada correo electrónico que enviemos por usted (B). Los receptores podrán descifrar la firma digital buscando la &quot;clave pública&quot; en el DNS (C) de su dominio de envío. Si la clave del correo electrónico corresponde con la clave del registro DNS, es más probable que el servidor de correo receptor acepte el mensaje de correo electrónico de marketing enviado en su nombre.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
-¿Cómo configuro DKIM?
+**¿Cómo configuro DKIM?**
 
-Consulte [Configuración de una firma DKIM personalizada](set-up-a-custom-dkim-signature.md).
+Consulte [Configuración de una firma DKIM personalizada](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
->* [Más información sobre SPF y cómo funciona](http://www.open-spf.org/Introduction/)
+>* [Más información sobre SPF y cómo funciona](https://www.open-spf.org/Introduction/)
 >* [Herramientas de entrega de correo electrónico del comerciante](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [¿Mi SPF está configurado correctamente?](http://www.kitterman.com/spf/validate.html)
->* [¿He usado la sintaxis correcta?](http://www.open-spf.org/SPF_Record_Syntax/)
-
->
-
-
+>* [¿Mi SPF está configurado correctamente?](https://www.kitterman.com/spf/validate.html)
+>* [¿He usado la sintaxis correcta?](https://www.open-spf.org/SPF_Record_Syntax/)
 
