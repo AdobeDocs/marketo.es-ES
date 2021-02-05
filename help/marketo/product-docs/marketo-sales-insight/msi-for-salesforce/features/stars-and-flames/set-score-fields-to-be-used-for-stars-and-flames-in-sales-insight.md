@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Definir los campos de puntuación que se utilizarán para las estrellas y las llamas en la perspectiva de ventas - Documentos de marketing - Documentación del producto
 title: Definir los campos de puntuación que se utilizarán para las estrellas y las llamas en la perspectiva de ventas
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación de
    >
    >La perspectiva de ventas tardará algún tiempo en volver a calcularse. Puede consultar su CRM más tarde para ver las estrellas y las llamas.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >[Prioridad, urgencia, puntuación relativa y mejores apuestas](priority-urgency-relative-score-and-best-bets.md)
