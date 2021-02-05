@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personalizar estrellas y llamas - Documentos de marketing - Documentación del producto
 title: Personalizar estrellas y llamas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketing to Sales Insight utiliza estrellas y llamas para priorizar los posibles clientes. Marketo decide automáticamente quién recibe 1-2-3 estrellas/llamas. Sin embargo, puede modificar la fórmula. Así es como:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
