@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Programación de un correo electrónico - Documentos de marketing - Documentación del producto
 title: Programación de un correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ Siga estos sencillos pasos para programar un correo electrónico.
    >
    >Los correos electrónicos programados se pueden ver/editar en la sección de carpetas programadas del Centro de comandos.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >
    >[Información general del centro de comandos](http://docs.marketo.com/x/kgDb)
