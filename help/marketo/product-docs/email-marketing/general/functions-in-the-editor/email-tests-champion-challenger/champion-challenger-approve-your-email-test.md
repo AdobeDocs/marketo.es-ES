@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Campeón/Desafío - Aprobar su prueba de correo electrónico - Documentos de marketing - Documentación del producto
 title: 'Campeón/Desafío: apruebe la prueba de correo electrónico'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -40,13 +40,12 @@ El último paso para configurar la prueba de correo electrónico para aprobarla.
 
    >[!NOTE]
    >
-   >Para enviar la prueba, elija el correo electrónico al que agregó la prueba en el paso de flujo **Enviar correo electrónico** de la campaña desencadenadora. También tiene la opción de insertar ese correo electrónico en un flujo de un programa de participación. Los correos de Champion/Challenger no funcionarán en campañas por lotes.
+   >Para enviar la prueba, elija el correo electrónico al que agregó la prueba en el paso de flujo **Enviar correo electrónico** de la campaña de déclencheur. También tiene la opción de insertar ese correo electrónico en un flujo de un programa de participación. Los correos de Champion/Challenger no funcionarán en campañas por lotes.
 
    ¿No fue tan fácil? Una vez que reciba unos cuantos informes, querrá declarar un campeón.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
