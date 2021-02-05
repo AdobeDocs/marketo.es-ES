@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Explorar los detalles de Programa y Canal con el Analizador de Programas - Documentos de marketing - Documentación del producto
 title: Explorar los detalles de Programa y Canal con el analizador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ Puede ver estadísticas detalladas de programas y canales en el Analizador de Pr
 >* [Creación de un analizador de Programas](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >No todas las ediciones de marketing incluyen esta funcionalidad. Póngase en contacto con el administrador de cuentas para obtener más información.
 
