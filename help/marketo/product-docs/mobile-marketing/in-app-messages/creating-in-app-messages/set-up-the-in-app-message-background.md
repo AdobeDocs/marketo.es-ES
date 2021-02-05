@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Configuración del fondo de los mensajes en la aplicación - Documentos de marketing - Documentación del producto
 title: Configuración del fondo de los mensajes en la aplicación
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ La selección de un fondo de mensaje es un paso importante para finalizar el men
 
    [configuración del botón Rechazar](set-up-the-dismiss-button-and-approve-the-message.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
