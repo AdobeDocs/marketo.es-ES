@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 'Añadir un experto/desafiante de correo electrónico: documentos de marketing: documentación del producto'
 title: Añadir a un campeón de correo electrónico o a un Challenger
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Así es como empezar.
 
 >[!CAUTION]
 >
->Los correos electrónicos de campeón/Challenger solo funcionan con campañas desencadenadoras y flujos de programas de participación. Para los envíos por lotes, utilice la [funcionalidad de prueba A/B](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) del programa de correo electrónico.
+>Los correos electrónicos de campeón/Challenger solo funcionan con campañas de déclencheur y flujos de programa de participación. Para los envíos por lotes, utilice la [funcionalidad de prueba A/B](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) del programa de correo electrónico.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -51,9 +51,8 @@ Así es como empezar.
 
 1. Se abre una nueva ventana con diferentes opciones de tipo de prueba. Lea los artículos relacionados a continuación para conocer cada uno de ellos.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
