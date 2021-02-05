@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envío de un correo electrónico rastreado - Documentos de marketing - Documentación del producto
 title: Envío de un correo electrónico rastreado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
 
    ![](assets/five.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Artículos relacionados**
    >
    >    
    >    
