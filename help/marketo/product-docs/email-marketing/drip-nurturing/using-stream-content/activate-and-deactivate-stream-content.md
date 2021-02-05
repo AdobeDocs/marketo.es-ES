@@ -3,7 +3,7 @@ unique-page-id: 2359669
 description: Activar y desactivar el contenido del flujo - Documentos de marketing - Documentación del producto
 title: Activar y desactivar el contenido del flujo
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -35,7 +35,7 @@ El contenido del flujo está desactivado de forma predeterminada. Active el cont
 
    >[!TIP]
    >
-   >También puede activar todo el contenido de un flujo haciendo clic en el icono de engranaje en el nivel superior y luego en **Activar todo el contenido.**
+   >También puede activar todo el contenido de un flujo haciendo clic en el icono de engranaje en el nivel superior y luego en **Activar todo el contenido**.
 
    ¡Buen trabajo! Ahora sabe cómo activar el contenido en sus flujos.
 
@@ -45,7 +45,6 @@ El contenido del flujo está desactivado de forma predeterminada. Active el cont
 
    ![](assets/cloneasteam.jpg)
 
-1. Pase el ratón sobre el contenido que desee desactivar, haga clic en el icono de engranaje y, a continuación, haga clic en **Desactivar.**
+1. Pase el ratón sobre el contenido que desee desactivar, haga clic en el icono de engranaje y, a continuación, haga clic en **Desactivar**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
-
