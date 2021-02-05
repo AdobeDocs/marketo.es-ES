@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Explicación de los momentos del marketing - Documentos de marketing - Documentación del producto
 title: Explicación de los momentos del marketing
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 ¡El poder de Marketo está ahora en tus manos, literalmente! Previsualización y reprograme los correos electrónicos directamente desde su teléfono o iPad.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Disponibilidad**
 >
 >Se requiere el permiso de acceso a aplicaciones móviles. Póngase en contacto con el administrador de marketing para [actualizar su función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
