@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Crear una encuesta - Documentos de marketing - Documentación del producto
 title: Crear una encuesta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 Atraer a la gente con una encuesta en la que pueden votar y compartir con sus amigos en las redes sociales. Puede agregarlo a lugares como sus páginas de aterrizaje, su sitio web y Facebook.
 
->[!NOTE]
->
->**Disponibilidad**
+>[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
 >[!PREREQUISITES]
 >
->Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de marketing antes de empezar. Añada una imagen de 60 x 60 píxeles para cada entrada de encuesta. Consulte [Añadir imágenes y archivos a Marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Si desea utilizar imágenes en la encuesta, agréguelas a la biblioteca de imágenes y archivos de marketing antes de empezar. Añada una imagen de 60 x 60 píxeles para cada entrada de encuesta. Consulte [Añadir imágenes y archivos a Marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Dentro del programa, seleccione **Nuevo** > **Nuevo recurso local.**
+1. Dentro del programa, seleccione **Nuevo** > **Nuevo recurso local**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. En la **Galería de recursos local,** haga clic en **Encuesta.**
+1. En la **Galería de recursos local**, haga clic en **Encuesta**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ Atraer a la gente con una encuesta en la que pueden votar y compartir con sus am
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Seleccione la imagen que necesita y haga clic en **Seleccionar.**
+1. Seleccione la imagen que necesita y haga clic en **Seleccionar**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Cuando haya configurado la miniatura, el título y la descripción de todas las entradas, haga clic en **Finalizar.**
+1. Cuando haya configurado la miniatura, el título y la descripción de todas las entradas, haga clic en **Finalizar**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ El editor de encuestas se abre en una ventana nueva. La configuración predeterm
 
 Si hay algún problema en la encuesta, se le pedirá que lo aborde antes de que se apruebe la encuesta. ¡Felicitaciones! Ha creado la encuesta.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Artículos relacionados**
->
->El paso siguiente es [publicar la encuesta](publish-a-poll.md), pero puede cambiar la configuración de la encuesta si es necesario. Inicio con [personalización de la configuración de la encuesta](customize-poll-settings.md).
-
+>El paso siguiente es [publicar la encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), pero puede cambiar la configuración de la encuesta si es necesario. Inicio con [personalización de la configuración de la encuesta](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
