@@ -3,9 +3,9 @@ unique-page-id: 2359549
 description: Usar el Panel de Programa de correo electrónico - Vista de prueba A/B - Documentos de marketing - Documentación del producto
 title: Usar el Panel de Programa de correo electrónico - Vista de prueba A/B
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Usar el Panel de Programa de correo electrónico - Vista de prueba A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Compruebe el rendimiento de la prueba A/B del [programa de correo electrónico](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) con este panel.
+Compruebe el rendimiento de la prueba A/B del [programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) con este panel.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,9 +45,4 @@ Panel genial, ¿no crees?
 
 >[!MORELIKETHIS]
 >
->* [Usar el Panel de Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
-
->
-
-
-
+>[Usar el Panel de Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
