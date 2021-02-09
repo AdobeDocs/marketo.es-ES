@@ -3,7 +3,7 @@ unique-page-id: 2953572
 description: Explicación de los Programas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Explicación de los Programas de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -27,10 +27,10 @@ La prueba A/B le permite probar qué correo electrónico es el mejor.
 
 Obtenga información sobre las siguientes pruebas A/B:
 
-* [Prueba A/B de &quot;línea de asunto&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [Prueba A/B de &quot;Correo electrónico completo&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [Prueba A/B de &quot;Desde la dirección&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [Prueba A/B &quot;Fecha/Hora&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [Prueba A/B de &quot;línea de asunto&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [Prueba A/B de &quot;Correo electrónico completo&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [Prueba A/B de &quot;Desde la dirección&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [Prueba A/B &quot;Fecha/Hora&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -40,7 +40,9 @@ Obtenga información sobre las siguientes pruebas A/B:
 >
 >Algunos prefieren utilizar programas de correo electrónico en lugar de enviar un correo electrónico a través de una campaña inteligente debido al detallado panel de sistema de informes del programa.
 
-Disfruta de los frutos de tu trabajo. Los paneles muestran el rendimiento de la prueba A/B y el programa de correo electrónico con sólo un vistazo.   ![](assets/image2015-4-27-11-3a38-3a41.png)
+Disfruta de los frutos de tu trabajo. Los paneles muestran el rendimiento de la prueba A/B y el programa de correo electrónico con sólo un vistazo.
+
+![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
@@ -62,7 +64,7 @@ Use un programa de correo electrónico dentro de un programa predeterminado para
 
 >[!NOTE]
 >
->Los programas de correo electrónico no se pueden anidar en [programas de participación](../../../../getting-started/quick-wins/drip-drip-nurture.md). Tampoco se pueden reenviar y solo se puede ejecutar una prueba a la vez.
+>Los programas de correo electrónico no se pueden anidar en [programas de participación](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Tampoco se pueden reenviar y solo se puede ejecutar una prueba a la vez.
 
 ## Configuración de programación {#schedule-settings}
 
@@ -70,14 +72,10 @@ Ahora que entiende los Programas de correo electrónico, comience con uno de los
 
 >[!MORELIKETHIS]
 >
->* [Crear un Programa de correo electrónico](create-an-email-program.md)
+>* [Crear un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
    >
    >
-* [Definir una Audiencia con una Lista inteligente](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Creación de un correo electrónico para un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Programar su Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
->
-
-
+* [Definir una Audiencia con una Lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Creación de un correo electrónico para un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Programar su Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
