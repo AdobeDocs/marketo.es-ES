@@ -3,7 +3,7 @@ unique-page-id: 12983291
 description: Explicación del huso horario del Destinatario - Documentos de marketing - Documentación del producto
 title: Explicación del huso horario del Destinatario
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Los programas de correo electrónico y participación se pueden configurar para 
 
 ## Programas de correo electrónico {#email-programs}
 
-Existen dos escenarios principales cuando [programa un programa de correo electrónico](schedule-email-programs-with-recipient-time-zone.md):
+Existen dos escenarios principales cuando [programa un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
 
 1. Programando la ejecución del programa en las próximas 25 horas.
 1. Programando el programa para que se ejecute más de 25 horas en el futuro (es decir, la próxima semana).
@@ -30,13 +30,13 @@ Para poder acomodar todos los husos horarios, los programas de correo electróni
 
 ## Programas de participación {#engagement-programs}
 
-Cuando [programe un flujo de programas de participación](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y el huso horario de Destinatario esté activo, el reparto de programas se inicio cuando se ejecute a medianoche en UTC +14:00. Le pedimos que programe la primera emisión al menos 25 horas en el futuro (24 horas + un poco de tiempo para iniciar la campaña) porque la gente puede calificar para la emisión en cada huso horario en todo el mundo. Empezar el procesamiento en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este envío.
+Cuando [programe un flujo de programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) y el huso horario de Destinatario esté activo, el reparto de programas se inicio cuando se ejecute a medianoche en UTC +14:00. Le pedimos que programe la primera emisión al menos 25 horas en el futuro (24 horas + un poco de tiempo para iniciar la campaña) porque la gente puede calificar para la emisión en cada huso horario en todo el mundo. Empezar el procesamiento en este momento en UTC +14:00 garantiza que enviaremos el correo electrónico en la fecha y hora programadas para cada persona que califique para este envío.
 
 ## Calcular huso horario {#calculating-time-zone}
 
 Marketo calcula la zona horaria en función de la ciudad, el estado, el país o el código postal de una persona. Si no podemos calcular la zona horaria de alguien a partir de estos valores, volvemos a nuestros campos Ciudad Inferior, Estado Inferior, País Inferior y Código Postal Inferido.
 
-En los casos en los que tenemos **solamente **País o **sólo** Estado disponible:
+En casos en los que tenemos **sólo** País o **sólo** Estado disponible:
 
 * Para países con tres o menos husos horarios, seleccionamos la zona horaria media.
 * Para los estados con dos husos horarios, seleccionamos el anterior de los dos.
@@ -49,14 +49,10 @@ Si todavía no podemos determinar el huso horario de alguien a partir de una com
 
 >[!MORELIKETHIS]
 >
->* [Programar Programas de correo electrónico con huso horario de Destinatario](schedule-email-programs-with-recipient-time-zone.md)
->* [Inicio principal para Programas de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Programar Programas de correo electrónico con huso horario de Destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Inicio principal para Programas de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
    >
    >
-* [Programar Programas de participación con huso horario de Destinatario](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+* [Programar Programas de participación con huso horario de Destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
