@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: Inicio principal para Programas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Inicio principal para Programas de correo electrónico
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Crear un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Crear un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 Cuando se elige una fecha y hora para un Programa de correo electrónico, se determina cuándo comenzará el procesamiento del programa. Si desea que los mensajes de correo electrónico se inicien a la hora seleccionada, el Inicio de encabezado le ofrece esa opción procesando el programa por adelantado.
 
@@ -74,15 +70,11 @@ Esto significa que si se encuentra en América/Los Ángeles y desea habilitar ta
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Obtenga ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) más información sobre cómo programar programas de correo electrónico con el huso horario de Destinatario.
+[Obtenga ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) más información sobre cómo programar programas de correo electrónico con el huso horario de Destinatario.
 
 >[!MORELIKETHIS]
 >
->* [Programar su Programa de correo electrónico](schedule-your-email-program.md)
->* [Programar Programas de correo electrónico con huso horario de Destinatario](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Explicación del huso horario del Destinatario](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [Programar su Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Programar Programas de correo electrónico con huso horario de Destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Explicación del huso horario del Destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
