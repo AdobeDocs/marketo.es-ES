@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Programar la prueba A/B - Documentos de marketing - Documentación del producto
 title: Programar la prueba A/B
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
 >[!PREREQUISITES]
 >
->* [Añadir una prueba A/B](add-an-a-b-test.md)
-
->
-
-
+>[Añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Para las pruebas de fecha y hora, solo necesita configurarlas cuando recibe el resumen de los resultados de la prueba.
 
-1. Seleccione la fecha de envío de la prueba.
+1. Seleccione la fecha **Enviar prueba**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Solo el grupo de prueba recibirá las variantes de prueba.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
    >Si elige declarar un ganador manualmente, definirá **Envío de informe** fecha y hora en lugar de **Finalizar envío de correo** fecha y hora.
 
    ¡Super! Ya ha terminado, solo tiene que revisar el resumen y hacer clic en Cerrar.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    Observará que el mosaico **Schedule** se ha actualizado.
@@ -69,9 +63,4 @@ Una vez que haya agregado una prueba A/B a un programa de correo electrónico y 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Aprobar o desaprobar un Programa de correo electrónico](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Aprobar o desaprobar un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
