@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: Crear un correo electrónico para un Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Creación de un correo electrónico para un Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [Crear un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definir una Audiencia con un ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listador inteligente  [Definir una Audiencia importando una Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-Una vez que haya creado el programa de correo electrónico y definido la audiencia, querrá decidir qué correo electrónico va a enviar. Puede [elegir un correo electrónico existente](choose-an-existing-email.md) o crear uno desde cero. Así es como crear un nuevo correo electrónico.
+Una vez que haya creado el programa de correo electrónico y definido la audiencia, querrá decidir qué correo electrónico va a enviar. Puede [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o crear uno desde cero. Así es como crear un nuevo correo electrónico.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -48,10 +45,4 @@ Una vez que haya creado el programa de correo electrónico y definido la audienc
 
    ![](assets/five.png)
 
-¡bueno! Ahora que hemos creado un correo electrónico que queremos enviar, vamos a [agregar una prueba A/B](email-test-a-b-test/add-an-a-b-test.md) o a [programar su programa de correo electrónico](schedule-your-email-program.md).
-
->[!MORELIKETHIS]
->
->* [Añadir una prueba A/B](email-test-a-b-test/add-an-a-b-test.md)
->* [Programar su Programa de correo electrónico](schedule-your-email-program.md)
-
+¡bueno! Ahora que hemos creado un correo electrónico que queremos enviar, vamos a [agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) o a [programar su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
