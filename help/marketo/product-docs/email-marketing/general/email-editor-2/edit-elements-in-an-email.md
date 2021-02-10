@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Editar elementos en un mensaje de correo electrónico - Documentos de marketing - Documentación del producto
 title: Editar elementos en un correo electrónico
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >También puede agregar imágenes, tokens, tablas y otros elementos. Consulte [Uso del Editor de texto enriquecido](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >También puede agregar imágenes, tokens, tablas y otros elementos. Consulte [Uso del Editor de texto enriquecido](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
    >
    >Si desea utilizar un token de marketing, utilice esta opción. Tenga en cuenta que cuando utilice un token, la imagen aparecerá rota en el editor, pero se representará en modo de Previsualización y en el correo electrónico Enviar muestra.
 
-   **Intercambiar** ![](assets/eight.png)
+   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). A continuación, presione **Intercambiar**.
+
+   ![](assets/eight.png)
 
    **Mi PC**
 
@@ -90,14 +89,15 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
    >
    >Si va a reemplazar una imagen, deberá marcar la casilla **Sobrescribir la imagen existente** que aparece debajo de la dirección URL/nombre de la imagen.
 
-   **Design** StudioPara insertar una imagen desde Design Studio, simplemente localícela...
+   **Design Studio**
+
+   Para insertar una imagen desde Design Studio, simplemente localícela...
 
    ![](assets/twelve.png)
 
-   **Intercambiar**
-   ![](assets/thirteen.png)
+   ...e insértela. Cambie las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, presione **Intercambiar**.
 
-Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). Luego presione .               ...e insértela. Cambie las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, presione .
+   ![](assets/thirteen.png)
 
 ## Cómo editar el elemento Fragmento {#how-to-edit-the-snippet-element}
 
