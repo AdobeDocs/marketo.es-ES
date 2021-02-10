@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: Añadir una Vista como vínculo de página Web a un mensaje de correo electrónico - Documentos de marketing - Documentación del producto
 title: Añadir una Vista como vínculo de página Web a un correo electrónico
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ A continuación se muestra un ejemplo de su aspecto:
 >
 >No verá la Vista como vínculo de página Web hasta que envíe el correo electrónico. Envíese una prueba a la vista.
 
-Para cambiar el texto predeterminado, consulte [Editar el mensaje &quot;Vista como página Web&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Para cambiar el texto predeterminado, consulte [Editar el mensaje &quot;Vista como página Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
