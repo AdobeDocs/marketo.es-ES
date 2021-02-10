@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: Añadir un token del sistema como vínculo en un mensaje de correo electrónico - Documentos de marketing - Documentación del producto
 title: Añadir un token del sistema como vínculo en un correo electrónico
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ A continuación se muestra cómo agregarlos a un correo electrónico:
 
 >[!NOTE]
 >
->**Recordatorio**
->
->No olvide [aprobar su correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) cuando termine.
+>No olvide [aprobar su correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) cuando termine.
 
 ¡Bien hecho! Ahora sabe cómo agregar un token del sistema como vínculo en un correo electrónico.
