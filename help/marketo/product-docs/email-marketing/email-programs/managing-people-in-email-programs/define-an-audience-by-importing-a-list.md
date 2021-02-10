@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: Definir una Audiencia importando una Lista - Documentos de marketing - Documentación del producto
 title: Definir una Audiencia importando una Lista
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creación de un correo electrónico para un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Creación de un correo electrónico para un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Una vez que haya creado un programa de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacerlo [creando una lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando una lista. Así se consigue importando una lista.
+Una vez que haya creado un programa de correo electrónico, querrá decirle a quién enviar el correo electrónico. Puede hacerlo [creando una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando una lista. Así se consigue importando una lista.
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ Una vez que haya creado un programa de correo electrónico, querrá decirle a qu
 
    ![](assets/login-marketing-activities-1.png)
 
-   Seleccione el programa de correo electrónico y, a continuación, haga clic en Importar Lista en el mosaico de Audiencia.
+1. Seleccione el programa de correo electrónico y, a continuación, haga clic en Importar Lista en el mosaico de Audiencia.
+
    ![](assets/importlist.png)
 
-1. Se abre la ventana de importación de listas, haga clic en **Examinar** y seleccione el archivo que desee importar. Una vez seleccionada la lista de personas, haga clic en Siguiente.
-1. ![](assets/importlist1.png)
+1. Se abre la ventana de importación de listas, haga clic en **Examinar** y seleccione el archivo que desee importar. Una vez seleccionada la lista de personas, haga clic en **Siguiente**.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >Asegúrese de que la lista está codificada como UTF-8, UTF-16, Shift-JIS o EUC-JP y no supera los 50 MB en tamaño de archivo.
 
-   Compruebe que los campos del archivo estén correctamente asignados y haga clic en Siguiente.
+1. Compruebe que los campos del archivo estén correctamente asignados y haga clic en **Siguiente**.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ Haga clic en el número para ver una lista detallada de las personas bloqueadas 
 
 >[!MORELIKETHIS]
 >
->* [Elegir un correo electrónico existente](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Creación de un correo electrónico para un Programa de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Creación de un correo electrónico para un Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
