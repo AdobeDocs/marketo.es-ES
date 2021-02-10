@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Enviar a un vínculo de amigo en correos electrónicos - Documentos de marketing - Documentación del producto
 title: Enviar a un vínculo de amigo en correos electrónicos
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Por ejemplo, supongamos que Keith utiliza el vínculo &quot;Avanzar a amigo&quot
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
    >Recuerde aprobar el borrador de la plantilla para aplicar los cambios.
 
    Ahora, todos los correos electrónicos que utilicen esa plantilla tendrán el vínculo &#39;Avanzar a amigo&#39;. Cuando el destinatario de correo electrónico haga clic en él, se dirigirá a una versión web del correo electrónico con el cuadro &quot;Avanzar a un amigo&quot;:
+
    ![](assets/f2afbox.png)
 
 ## Añadir el vínculo a un correo electrónico individual {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ También puede agregar el vínculo &#39;Avanzar a amigo&#39; directamente a un c
 
    ![](assets/eight-1.png)
 
-1. Pegue el token **`{{system.forwardToFriendLink}}`** en el cuadro **URL** mediante Ctrl/Cmd+V y haga clic en** Insertar*.
+1. Pegue el token **`{{system.forwardToFriendLink}}`** en el cuadro **URL** mediante Ctrl/Cmd+V y haga clic en **Insertar**.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
    >
    >**Definición**
    >
-   >
    >Para Recibido de reenvío a correo electrónico de amigo, el ID de persona es la persona que reenvió el correo electrónico.
-   >
    >
    >Para Enviar a un mensaje de correo electrónico de amigo, el ID de persona es la persona que recibió el correo electrónico.
 
    ![](assets/sixteen.png)
 
-1. Para realizar la vista de una persona por ID, copie y pegue el** ID de persona** al final de la URL (el comienzo de dicha URL dependerá de la instancia de Marketing):
+1. Para realizar la vista de una persona por ID, copie y pegue el **ID de persona** al final de la dirección URL (el comienzo de dicha dirección URL dependerá de la instancia de Marketing):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,14 +134,14 @@ Puede ver quién reenvió y recibió los correos electrónicos en el registro de
 
    >[!NOTE]
    >
-   >Si el amigo que recibe el envío es una persona desconocida, se crea una nueva persona con &quot;Avanzar a amigo&quot; marcado como **Origen** de la persona.\
+   >Si el amigo que recibe el envío es una persona desconocida, se crea una nueva persona con &quot;Avanzar a amigo&quot; marcado como **Origen** de la persona.
    >Si el correo electrónico es un recurso local de un programa, el programa se marca como el **Programa de adquisición** de la persona.
 
-## Activar o filtrar mediante la Actividad de reenvío {#trigger-or-filter-using-forwarding-activity}
+## Déclencheur o filtro con Actividad de reenvío {#trigger-or-filter-using-forwarding-activity}
 
-Existen seis activadores/filtros que puede utilizar para activar acciones de flujo o para filtrar personas mediante la actividad &quot;De reenvío a amigo&quot; enviada y recibida.
+Existen seis déclencheur/filtros que puede utilizar para realizar acciones de flujo de déclencheur o para filtrar personas mediante la actividad &quot;De reenvío a amigo&quot; enviada y recibida.
 
-En una lista inteligente de una campaña inteligente, si busca &quot;adelante&quot; encontrará los activadores y filtros disponibles.
+En la lista inteligente de una campaña inteligente, si busca &quot;adelante&quot; encontrará los déclencheur y filtros disponibles.
 
 ![](assets/nineteen.png)
 
