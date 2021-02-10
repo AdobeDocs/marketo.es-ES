@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: Bloqueo de contenido - Documentos de marketing - Documentación del producto
 title: Bloqueo de contenido
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Al habilitar el bloqueo de contenido, impida que los usuarios no administradores
 
    ![](assets/two-4.png)
 
-1. Desplácese hacia abajo hasta Bloqueo de contenido. Si activa cualquiera de los controles deslizantes, *deshabilitará* la capacidad de los integrantes del equipo para crear/editar plantillas y/o campañas.
+1. Desplácese hacia abajo hasta Bloqueo de contenido. Si activa cualquiera de los controles deslizantes, _deshabilitará_ la capacidad de los integrantes del equipo para crear/editar plantillas y/o campañas.
 
    ![](assets/three-4.png)
-
