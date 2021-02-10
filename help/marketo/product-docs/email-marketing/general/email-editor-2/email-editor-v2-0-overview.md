@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: Descripción general del Editor de correo electrónico v2.0 - Documentos de marketing - Documentación del producto
 title: Información general del editor de correo electrónico v2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Cuando decida activar el Editor de correo electrónico v2.0, verá varias funcio
 
 **Selector de plantilla de correo electrónico**
 
-Al crear un nuevo correo electrónico, se le redirige al [Selector de plantilla de correo electrónico](email-template-picker-overview.md).
+Al crear un nuevo correo electrónico, se le redirige al [Selector de plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Cuando inicio de editar el correo electrónico, notará que el editor tiene un a
 
 **Módulos**
 
-Esas cosas en el lado derecho del editor se llaman módulos. Obtenga información sobre cómo [agregar módulos a su correo electrónico](add-modules-to-your-email.md).
+Esas cosas en el lado derecho del editor se llaman módulos. Obtenga información sobre cómo [agregar módulos a su correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Versión de texto**
 
-El cambio entre la versión HTML y las versiones de texto del correo electrónico se encuentra ahora en una ficha práctica en la parte inferior. Obtenga información sobre cómo [editar la versión de texto de un correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+El cambio entre la versión HTML y las versiones de texto del correo electrónico se encuentra ahora en una ficha práctica en la parte inferior. Obtenga información sobre cómo [editar la versión de texto de un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **Encabezado de correo electrónico**
 
-¿Quieres más espacio de diseño? El encabezado del correo electrónico se puede ocultar una vez que haya terminado de [de editarlo](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simplemente haga clic en este icono...
+¿Quieres más espacio de diseño? El encabezado del correo electrónico se puede ocultar una vez que haya terminado de [de editarlo](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Simplemente haga clic en este icono...
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ La vista predeterminada es el escritorio...
 
 ...pero también puede ver cómo se verá en un dispositivo móvil. También puede previsualización de la versión de texto. Haga clic en **Editar borrador** en la esquina superior derecha para reanudar la edición.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **Acciones de correo electrónico**
 
@@ -83,7 +83,7 @@ En **Acciones de correo electrónico**, verá algunas funciones nuevas. **Cargue
 
 >[!NOTE]
 >
->** [Tomar imágenes de la Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona igual que en Design Studio.
+>**[Tome imágenes de](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks como lo hace en Design Studio.
 
 **Deshabilitar Abrir** seguimientoEn Configuración **de** correo electrónico, puede deshabilitar el seguimiento abierto si es necesario.
 
@@ -103,15 +103,8 @@ Muchas de las buenas nuevas características! ¡Diviértete!
 
 >[!NOTE]
 >
->**Buceo profundo**
->
 >Si desea profundizar aún más, consulte este [vídeo útil](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->* [Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
-
->
-
-
-
+>[Sintaxis de la plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
