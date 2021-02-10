@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Enviar un correo electrónico de muestra - Documentos de marketing - Documentación del producto
 title: Enviar un correo electrónico de muestra
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Enviar un correo electrónico de muestra {#send-a-sample-email}
 
-Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un correo electrónico con contenido dinámico, consulte [Previsualización de un correo electrónico con contenido dinámico](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un correo electrónico con contenido dinámico, consulte [Previsualización de un correo electrónico con contenido dinámico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un co
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >Para introducir varias direcciones de correo electrónico, utilice comas para separarlas.
 
@@ -59,13 +56,13 @@ Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un co
 
    >[!NOTE]
    >
-   >El campo desencadenador solo se aplica a aquellos que utilizan [secuencias de comandos de correo electrónico](http://developers.marketo.com/documentation/velocity-script/).
+   >El campo déclencheur solo se aplica a aquellos que utilicen [secuencias de comandos de correo electrónico](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Aplique segmentación al correo electrónico](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Aplique segmentación al correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Busque su correo electrónico, selecciónelo y haga clic en la ficha **Editar borrador**.
 
