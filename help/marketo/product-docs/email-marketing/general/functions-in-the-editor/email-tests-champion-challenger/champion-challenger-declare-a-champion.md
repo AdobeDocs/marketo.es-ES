@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: Campeón/Desafiante - Declarar campeón - Documentos de marketing - Documentación del producto
 title: Campeón/Desafío - Declare un Campeón
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ Cuando esté listo, puede declarar un campeón para la prueba de correo electró
 
 >[!MORELIKETHIS]
 >
->* [Campeón/Desafío: Aprobar la prueba de correo electrónico](champion-challenger-approve-your-email-test.md)
-
+>[Campeón/Desafío: Aprobar la prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Vaya a **Actividades de marketing**.
 
@@ -44,7 +43,7 @@ Cuando esté listo, puede declarar un campeón para la prueba de correo electró
    >
    >Observe que el valor predeterminado **Declarar fecha** es mañana, no hoy.
 
-   Seleccione una hora y haga clic en **Guardar**.
+1. Seleccione una hora y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
