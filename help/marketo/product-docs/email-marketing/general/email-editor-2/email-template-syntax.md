@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: Sintaxis de la plantilla de correo electrónico - Documentos de marketing - Documentación del producto
 title: Sintaxis de la plantilla de correo electrónico
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Los elementos son regiones de contenido que se definen como editables en la plan
 
 ## Texto enriquecido {#rich-text}
 
-Si define una región como texto enriquecido, los usuarios podrán editar su contenido [con el Editor de texto enriquecido](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) de Marketing Cloud. Existen dos formas de definir un elemento de texto enriquecido dentro de una plantilla de correo electrónico: mktEditable y mktoText. Tenga en cuenta que siempre se puede convertir un elemento de texto enriquecido en un fragmento desde el editor de correo electrónico.
+Si define una región como texto enriquecido, los usuarios podrán editar su contenido [con el Editor de texto enriquecido](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) de Marketing Cloud. Existen dos formas de definir un elemento de texto enriquecido dentro de una plantilla de correo electrónico: mktEditable y mktoText. Tenga en cuenta que siempre se puede convertir un elemento de texto enriquecido en un fragmento desde el editor de correo electrónico.
 
 ### Opción 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Ejemplo:
 
 Existen dos opciones para definir elementos de imagen editables. Puede utilizar una etiqueta `<div>`, que especifica un contenedor en el que se insertará el `<img>` o una etiqueta `<img>`. Si desea que el usuario final simplemente elija una imagen que devuelva la dirección URL de la imagen (a diferencia del DOM), consulte &quot;variables de imagen&quot; en la sección siguiente. Las dos opciones siguientes insertarán un elemento HTML `<img>`.
 
-### Opción 1: Utilice un \&lt;div\> {#option-use-a-div}
+### Opción 1: Usar un `<div>` {#option-use-a-div}
 
 Atributos requeridos
 
@@ -128,7 +128,7 @@ Ejemplo:
 
 ## Fragmentos {#snippets}
 
-Si define una región como un fragmento de código, los usuarios finales podrán elegir qué fragmento de código aprobado [](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)desea insertar en esta región. Aunque los elementos de texto enriquecido se pueden convertir en fragmentos de texto desde el editor de correo electrónico, cuando define una región específicamente como un fragmento de código, no se puede convertir a texto enriquecido. Puede especificar una región de fragmentos con un `<div>` con class=&quot;mktoSnippet&quot;
+Si define una región como un fragmento de código, los usuarios finales podrán elegir qué fragmento de código aprobado [](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)desea insertar en esta región. Aunque los elementos de texto enriquecido se pueden convertir en fragmentos de texto desde el editor de correo electrónico, cuando define una región específicamente como un fragmento de código, no se puede convertir a texto enriquecido. Puede especificar una región de fragmentos con un `<div>` con class=&quot;mktoSnippet&quot;
 
 Atributos requeridos
 
@@ -351,8 +351,6 @@ Atributos opcionales
 * **mktoAddByDefault:** determina si este módulo estará en el lienzo de un nuevo correo electrónico que utilice esta plantilla al crearlo. El valor predeterminado es true (si mktoActive es false, este valor se omite).
 
 >[!NOTE]
->
->**Recordatorio**
 >
 >Los valores de clase que contienen sintaxis de marketing (por ejemplo, mktoModule, mktoContainer, mktoText) distinguen entre mayúsculas y minúsculas. Los nombres de atributos personalizados (por ejemplo, mktoimgwidth, mktoname) no lo son.
 
