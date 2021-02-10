@@ -3,7 +3,7 @@ unique-page-id: 10096400
 description: Crear una plantilla de correo electrónico - Documentos de marketing - Documentación del producto
 title: Crear una plantilla de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -71,5 +71,4 @@ Para personalizar la plantilla de correo electrónico, consulte el artículo sig
 
 >[!MORELIKETHIS]
 >
->[Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
-
+>[Sintaxis de la plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
