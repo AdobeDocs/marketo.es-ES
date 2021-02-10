@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Deshabilitar el seguimiento de un vínculo de correo electrónico - Documentos de marketing - Documentación del producto
 title: Deshabilitar el seguimiento de un vínculo de correo electrónico
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A veces no desea habilitar la **URL de seguimiento de marketing** en un vínculo de un correo electrónico. Esto resulta útil cuando la página de destino no admite parámetros de URL y puede resultar en un vínculo dañado.
 
-1. Seleccione su correo electrónico y haga clic en **Editar** **Borrador**.
+1. Seleccione su correo electrónico y haga clic en **Editar borrador**.
 
    ![](assets/one-7.png)
 
