@@ -3,7 +3,7 @@ unique-page-id: 2359453
 description: Editar el encabezado de correo electrónico - Documentos de marketing - Documentación del producto
 title: Editar el encabezado de correo electrónico
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Si desea utilizar un token, haga clic primero dentro del campo deseado y, a cont
 
 ![](assets/two-3.png)
 
-También puede hacer que el campo sea dinámico utilizando segmentos.
+También puede hacer que el campo sea dinámico mediante segmentos.
 
 ![](assets/three-2.png)
 
@@ -50,5 +50,4 @@ Si supera los 50 caracteres, el contador se vuelve rojo para avisarle.
 
 >[!MORELIKETHIS]
 >
->* [Información general del editor de correo electrónico v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
-
+>[Información general del editor de correo electrónico v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
