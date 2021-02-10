@@ -3,9 +3,9 @@ unique-page-id: 1900575
 description: Añadir un token de script de correo electrónico a su correo electrónico - Documentos de marketing - Documentación del producto
 title: Añadir un token de script de correo electrónico a su correo electrónico
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Añadir un token de script de correo electrónico a su correo electrónico {#add-an-email-script-token-to-your-email}
 
-Una vez que haya [creado el script de correo electrónico,](create-an-email-script-token.md)querrá agregarlo a un mensaje de correo electrónico para verlo en acción. Así es como.
+Una vez que haya [creado el script de correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), querrá agregarlo a un mensaje de correo electrónico para verlo en acción. Así es como.
 
 >[!NOTE]
 >
 >El tamaño total de todos los tokens de script insertados en un único correo electrónico no puede superar los 100 KB.
 
-1. Vaya al área Actividades de marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/one-2.png)
 
-1. Busque y seleccione el correo electrónico al que desee agregar el token y haga clic en Editar borrador.
+1. Busque y seleccione el correo electrónico al que desee agregar el token y haga clic en **Editar borrador**.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ Una vez que haya [creado el script de correo electrónico,](create-an-email-scri
 
    ![](assets/four-2.png)
 
-1. Busque y seleccione el token de script de correo electrónico que creó anteriormente y haga clic en Insertar.
+1. Busque y seleccione el token de script de correo electrónico que creó anteriormente y haga clic en **Insertar**.
 
    ![](assets/five-1.png)
 
@@ -47,14 +47,12 @@ Una vez que haya [creado el script de correo electrónico,](create-an-email-scri
    >
    >Añada un valor predeterminado si lo desea.
 
-1. Haga clic en Guardar.
+1. Haga clic en **Guardar**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->**Recordatorio**
->
->No olvide [aprobar el correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>No olvide [aprobar el correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 ¡Eso es todo! Cuando se envía este correo electrónico, la secuencia de comandos que hay detrás del token se ejecuta y rellena el contenido.
