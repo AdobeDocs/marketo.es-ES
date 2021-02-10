@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 'Añadir un experto/desafiante de correo electrónico: documentos de marketing: documentación del producto'
 title: Añadir a un campeón de correo electrónico o a un Challenger
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -13,22 +13,21 @@ ht-degree: 0%
 
 # Añadir un campeón de correo electrónico/Challenger {#add-an-email-champion-challenger}
 
-Es una buena idea probar cualquier correo electrónico que utilice con frecuencia para asegurarse de que funciona. Una forma es comparar la eficacia de un correo electrónico con otras versiones o con otros competidores. En una prueba de campeón/aspirante, puede probar todo el correo electrónico, la línea de asunto o la dirección de formulario.\
-El correo electrónico existente que está probando se considera el campeón. Cualquier variante que cree dentro de una prueba se considerará como aspirante. Usted determina el porcentaje de personas que reciben el contenido campeón o el contenido del aspirante. Si ha definido varios aspirantes, se distribuirán equitativamente entre el grupo de aspirantes.\
+Es una buena idea probar cualquier correo electrónico que utilice con frecuencia para asegurarse de que funciona. Una forma es comparar la eficacia de un correo electrónico con otras versiones o con otros competidores. En una prueba de campeón/aspirante, puede probar todo el correo electrónico, la línea de asunto o la dirección de formulario.
+
+El correo electrónico existente que está probando se considera el campeón. Cualquier variante que cree dentro de una prueba se considerará como aspirante. Usted determina el porcentaje de personas que reciben el contenido campeón o el contenido del aspirante. Si ha definido varios aspirantes, se distribuirán equitativamente entre el grupo de aspirantes.
+
 Así es como empezar.
 
 >[!PREREQUISITES]
 >
->* [Crear un Programa](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Crear un correo electrónico](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
+>* [Crear un Programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Crear un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 
 >[!CAUTION]
 >
->Los correos electrónicos de campeón/Challenger solo funcionan con campañas de déclencheur y flujos de programa de participación. Para los envíos por lotes, utilice la [funcionalidad de prueba A/B](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) del programa de correo electrónico.
+>Los correos electrónicos de campeón/Challenger solo funcionan con campañas de déclencheur y flujos de programa de participación. Para los envíos por lotes, utilice la [funcionalidad de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) del programa de correo electrónico.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -40,10 +39,7 @@ Así es como empezar.
 
    >[!NOTE]
    >
-   >**Buceo profundo**
-   >
-   >
-   >Para las explosiones de un solo correo, obtenga más información sobre [programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs).
+   >Para las explosiones de un solo correo, obtenga más información sobre [programas de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
 1. En **Acciones de correo electrónico**, haga clic en **Nueva prueba**.
 
@@ -53,11 +49,7 @@ Así es como empezar.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeón/Desafío: Correos electrónicos completos](champion-challenger-whole-emails.md)
-   >    * [Campeón/Desafío: Línea de asunto](champion-challenger-subject-line.md)
-   >    * [Campeón/Desafío: Desde dirección](champion-challenger-from-address.md)
-
+   >* [Campeón/Desafío: Correos electrónicos completos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [Campeón/Desafío: Línea de asunto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Campeón/Desafío: Desde dirección](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
 
