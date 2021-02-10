@@ -3,7 +3,7 @@ unique-page-id: 1147360
 description: 'Añadir tokens a un vínculo de correo electrónico: documentos de marketing: documentación del producto'
 title: Añadir tokens a un vínculo de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -39,9 +39,4 @@ Para insertar parámetros adicionales y específicos de la persona en los víncu
 
 >[!MORELIKETHIS]
 >
->* [Uso de direcciones URL en mis tokens](using-urls-in-my-tokens.md)
-
->
-
-
-
+>[Uso de direcciones URL en mis tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
