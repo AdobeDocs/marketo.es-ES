@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Uso del Editor de texto enriquecido - Documentos de marketing - Documentación del producto
 title: Uso del Editor de texto enriquecido
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ El Editor de texto enriquecido (RTE) aparece en todo el sitio de marketing y est
 
 ## Configuración del editor {#editor-settings}
 
-La configuración del elemento de bloque raíz define qué etiquetas envuelven el contenido. De forma predeterminada, el elemento de bloque raíz de correo electrónico utiliza <p> tags. Tiene la opción de cambiarlo siguiendo los pasos a continuación.
+La configuración del elemento de bloque raíz define qué etiquetas envuelven el contenido. De forma predeterminada, el elemento de bloque raíz de correo electrónico utiliza etiquetas `<p>`. Tiene la opción de cambiarlo siguiendo los pasos a continuación.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ La configuración del elemento de bloque raíz define qué etiquetas envuelven e
 
    ![](assets/three.png)
 
-1. En la lista desplegable **Editor de correos electrónicos / fragmentos**, seleccione <div> o Ninguno y haga clic en **Guardar**. <div> en este ejemplo.
+1. En la lista desplegable **Editor de correos electrónicos / fragmentos**, seleccione `<div>` o Ninguno y haga clic en **Guardar**. `<div>` en este ejemplo.
 
    ![](assets/four.png)
 
-   Si tiene <div class="&ldquo;mktEditable&rdquo;"></div> en una plantilla de correo electrónico, verá el siguiente comportamiento de código fuente HTML al abrir la sección y escribir &quot;El texto va aquí&quot; en el editor:
+   Si tiene `<div class=“mktEditable”></div>` en una plantilla de correo electrónico, verá el siguiente comportamiento de código fuente HTML al abrir la sección y escribir &quot;El texto va aquí&quot; en el editor:
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ La configuración del elemento de bloque raíz define qué etiquetas envuelven e
 
 >[!NOTE]
 >
->El elemento de bloque raíz siempre es <p> para tokens de programa de texto enriquecido.
+>El elemento de bloque raíz siempre es `<p>` para tokens de programa de texto enriquecido.
 
 ## Características {#features}
 
@@ -109,7 +109,7 @@ Estas son las características que encontrará en un RTE.
 
 ## páginas de aterrizaje {#landing-pages}
 
-La configuración del elemento de bloque raíz define qué etiquetas envuelven el contenido. De forma predeterminada, el elemento de bloque raíz de página de aterrizaje utiliza <div> tags. Tiene la opción de cambiarlo siguiendo los pasos a continuación.
+La configuración del elemento de bloque raíz define qué etiquetas envuelven el contenido. De forma predeterminada, el elemento de bloque raíz de página de aterrizaje utiliza `<div>` etiquetas. Tiene la opción de cambiarlo siguiendo los pasos a continuación.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ La configuración del elemento de bloque raíz define qué etiquetas envuelven e
 
    ![](assets/three.png)
 
-1. En la lista desplegable **Editor de Páginas de aterrizaje**, seleccione <p> o Ninguno y haga clic en **Guardar**. <p> en este ejemplo.
+1. En la lista desplegable **Editor de Páginas de aterrizaje**, seleccione `<p>` o Ninguno y haga clic en **Guardar**. `<p>` en este ejemplo.
 
    ![](assets/five.png)
 
    ¡Y eso es todo!
-
