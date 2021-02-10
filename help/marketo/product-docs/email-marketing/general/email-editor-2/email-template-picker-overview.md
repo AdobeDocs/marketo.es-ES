@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: Descripción general del selector de plantillas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Información general del selector de plantillas de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Información general del selector de plantillas de correo electrónico {#email-template-picker-overview}
 
-Cuando [crea un correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas para elegir. También puede crear su propia plantilla y guardarla para utilizarla en el futuro.
+Cuando [crea un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas para elegir. También puede crear su propia plantilla y guardarla para utilizarla en el futuro.
 
 ![](assets/starter-templates.png)
 
@@ -21,7 +21,7 @@ Cuando [crea un correo electrónico](../../../../product-docs/email-marketing/ge
 
 ![](assets/two-2.png)
 
-Si su correo electrónico es crítico y desea que eluda los límites de comunicación, [haga que funcione](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **La opción Abrir en** editor está seleccionada de forma predeterminada y, simplemente, significa que desea editar el inicio del nuevo correo electrónico de inmediato. **¡** Createmeans, cree!
+Si su correo electrónico es crítico y desea que eluda los límites de comunicación, [haga que funcione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **La opción Abrir en** editor está seleccionada de forma predeterminada y, simplemente, significa que desea editar el inicio del nuevo correo electrónico de inmediato. **¡** Createmeans, cree!
 
 ![](assets/three-2.png)
 
@@ -31,9 +31,11 @@ Si su correo electrónico es crítico y desea que eluda los límites de comunica
 
 >[!NOTE]
 >
->Las plantillas de inicio de Marketing se ofrecen a todos los clientes de forma gratuita. Aunque se actualizarán continuamente y se optimizarán para los principales clientes de correo electrónico (y dispositivos móviles), siempre debe evaluar si satisfacen sus necesidades. La [herramienta de entrega por correo electrónico](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool) de MarketingTo puede mostrarle representaciones de plantillas en diferentes clientes de correo electrónico. Desafortunadamente, Marketing no puede llevar las solicitudes de diseño fuera de las contrataciones de servicios pagas.
+>Las plantillas de inicio de Marketing se ofrecen a todos los clientes de forma gratuita. Aunque se actualizarán continuamente y se optimizarán para los principales clientes de correo electrónico (y dispositivos móviles), siempre debe evaluar si satisfacen sus necesidades. La [herramienta de entrega por correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) de MarketingTo puede mostrarle representaciones de plantillas en diferentes clientes de correo electrónico. Desafortunadamente, Marketing no puede llevar las solicitudes de diseño fuera de las contrataciones de servicios pagas.
 
-**Mis** plantillas consta de todas las plantillas que ha creado. También puede tener carpetas.   ![](assets/five-2.png)
+**Mis** plantillas consta de todas las plantillas que ha creado. También puede tener carpetas.
+
+![](assets/five-2.png)
 
 Todas las carpetas que aparecen en Correo electrónico > Plantillas en el árbol de Design Studio estarán disponibles en **Mis plantillas**.
 
@@ -67,10 +69,6 @@ También puede hacer clic con el botón derecho en una miniatura de plantilla pa
 
 >[!MORELIKETHIS]
 >
->* [Sintaxis de la plantilla de correo electrónico](email-template-syntax.md)
->* [Crear un correo electrónico](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
-
+>* [Sintaxis de la plantilla de correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Crear un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
