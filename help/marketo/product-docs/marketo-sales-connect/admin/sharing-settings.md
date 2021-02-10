@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Configuración de uso compartido - Documentos de marketing - Documentación del producto
 title: Configuración de uso compartido
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Cuando se habilita la opción de compartir configuración, solo los administrado
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 
-1. En la [aplicación Web](http://toutapp.com/login), vaya a la página Configuración.
+1. En la [aplicación Web](https://toutapp.com/login), vaya a la página Configuración.
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Cuando se habilita la opción de compartir configuración, solo los administrado
 1. Ahora que se ha agregado su equipo, puede seleccionar permitir que solo los administradores de equipo compartan o que todos los usuarios de ese equipo compartan. En este ejemplo hemos dado acceso a todos los usuarios del equipo de DEG para compartir.
 
    ![](assets/eight-1.png)
-
