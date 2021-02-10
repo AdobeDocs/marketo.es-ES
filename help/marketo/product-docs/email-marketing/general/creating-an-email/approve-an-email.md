@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: Aprobar un correo electrónico - Documentos de marketing - Documentación del producto
 title: Aprobar un correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ Inicio de correo electrónico en estado borrador. Generalmente no están disponi
 
 1. Busque y seleccione su correo electrónico, haga clic en la lista desplegable **Acciones de correo electrónico** y seleccione **Aprobar**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Aprobar directamente en el árbol {#approve-it-directly-in-the-tree}
 
