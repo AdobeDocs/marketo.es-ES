@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: Informe de rendimiento de los vínculos de correo electrónico - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de vínculo de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cree un informe de rendimiento de los vínculos de correo electrónico para ver el rendimiento de los vínculos de los mensajes de correo electrónico.
 
-1. [Cree un informe en un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione  **Rendimiento del vínculo de correo electrónico** como tipo de informe.
+1. [Cree un informe en un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione  **Rendimiento del vínculo de correo electrónico** como tipo de informe.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Establezca un intervalo de tiempo adecuado para el informe. Haga clic en **Guardar. **
+1. Establezca un intervalo de tiempo adecuado para el informe. Haga clic en **Guardar**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[Las columnas ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles para un informe Rendimiento de vínculo de correo electrónico incluyen:
+[Las columnas ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) disponibles para un informe Rendimiento de vínculo de correo electrónico incluyen:
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ Cree un informe de rendimiento de los vínculos de correo electrónico para ver 
 
 >[!TIP]
 >
->Si desea saber exactamente qué hizo una persona, puede abrir el [Registro de Actividades](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) en la página [Detalle de persona](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) desde la ficha Miembros del programa.
+>Si desea saber exactamente qué hizo una persona, puede abrir el [Registro de Actividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) en la página [Detalle de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) desde la ficha Miembros del programa.
 
 >[!MORELIKETHIS]
 >
->* [Informe de rendimiento de correo electrónico](email-performance-report.md)
->* [Filtrar recursos en un informe de correo electrónico](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Buceo profundo**
->
->Obtenga más información sobre [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+>* [Informe de rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Filtrar recursos en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
