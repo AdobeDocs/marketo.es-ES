@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Explicación del registro de Eventos de correo electrónico - Documentos de marketing - Documentación del producto
 title: Explicación del registro de Eventos de correo electrónico
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Al enviar mensajes de correo electrónico, Marketo registra diferentes puntos de
 >[!CAUTION]
 >
 >Si el mismo correo electrónico se envía dos veces a la misma persona desde la misma campaña, el evento **Opened** se registrará un máximo de 1 vez.
-
