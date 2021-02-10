@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Información general de Sales Connect - Documentos de marketing - Documentación del producto
 title: Información general de Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketingto Sales Connect es una solución de soporte de ventas multifacética c
 
 >[!AVAILABILITY]
 >
->
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
 ## La fuente en directo {#the-live-feed}
 
-Los representantes de ventas pueden vista [compromiso en tiempo real](http://docs.marketo.com/x/d4TS) tanto del contenido de ventas como del marketing.
+Los representantes de ventas pueden vista [compromiso en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) tanto del contenido de ventas como del marketing.
 
 ![](assets/engagement.jpg)
 
 ## Vista de detalles de persona {#person-detail-view}
 
-Acceda a [estadísticas de personas detalladas](http://docs.marketo.com/x/e4TS).
+Acceda a [estadísticas de personas detalladas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
   </tr> 
   <tr> 
    <td colspan="1"><p>Recibir llamada de ventas</p></td> 
-   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor utilizando el <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">teléfono de ventas</a>.</p></td> 
+   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor utilizando el <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">teléfono de ventas</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Añadir a Campaña de ventas</p></td> 
@@ -81,7 +80,7 @@ Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
 
 ## Compartir Campañas de mercadotecnia {#share-marketing-campaigns}
 
-Cree una campaña inteligente simple para dar a sus usuarios de ventas acceso a [datos de campaña de marketing](http://docs.marketo.com/x/NwDh).
+Cree una campaña inteligente simple para dar a sus usuarios de ventas acceso a [datos de campaña de marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Cree una campaña inteligente simple para dar a sus usuarios de ventas acceso a 
 
 >[!MORELIKETHIS]
 >
->* [Introducción a Sales Connect](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Introducción a Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
