@@ -3,9 +3,9 @@ unique-page-id: 14352411
 description: Nunca se recibió un correo electrónico de verificación - Documentos de marketing - Documentación del producto
 title: No se recibió nunca un correo electrónico de verificación
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Primero, asegúrese de que no esté en su carpeta de spam.
 
-Si no encuentra el correo electrónico, póngase en contacto con la asistencia técnica.
+Si no encuentra el correo electrónico, póngase en contacto con [Soporte técnico de Marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
