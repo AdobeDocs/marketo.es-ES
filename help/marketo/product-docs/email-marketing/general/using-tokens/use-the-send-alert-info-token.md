@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Usar el testigo de información de alerta de envío {{SP_Send_Alert_Info}} - Documentos de marketing - Documentación del producto
 title: Usar el testigo Enviar información de alerta
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ El token `{{SP_Send_Alert_Info}}` es un token especial que se utiliza al crear c
 
 >[!TIP]
 >
->Este token sólo funciona como se espera al enviar el correo electrónico que lo contiene con el paso de flujo [Enviar alerta](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). No funcionará cuando se utilice en un paso de flujo de correo electrónico de envío.
+>Este token sólo funciona como se espera al enviar el correo electrónico que lo contiene con el paso de flujo [Enviar alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). No funcionará cuando se utilice en un paso de flujo de correo electrónico de envío.
 
-Ejemplo de alerta:   ![](assets/image2014-9-25-15-3a17-3a58.png)
+Ejemplo de alerta:
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->¡Cabeza! Las direcciones URL de las alertas tienen fechas de caducidad, por lo que asegúrese de que tienen una cadencia que admita estos tipos de mensajes. Las fechas de caducidad son [configuradas por un administrador](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>¡Cabeza! Las direcciones URL de las alertas tienen fechas de caducidad, por lo que asegúrese de que tienen una cadencia que admita estos tipos de mensajes. Las fechas de caducidad son [configuradas por un administrador](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 La siguiente información se incluye como parte del `{{SP_Send_Alert_Info}}`:
 
@@ -59,8 +61,6 @@ La siguiente información se incluye como parte del `{{SP_Send_Alert_Info}}`:
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**Recordatorio**
 >
 >No te olvides de aprobar tu correo electrónico.
 
