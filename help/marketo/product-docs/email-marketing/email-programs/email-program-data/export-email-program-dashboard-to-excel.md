@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: Exportar Panel de Programa de correo electrónico a Excel - Documentos de marketing - Documentación del producto
 title: Exportar Panel de Programa de correo electrónico a Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Una vez que haya ejecutado un programa de correo electrónico y tenga algunos da
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Si el programa de correo electrónico aún no se ha iniciado, no verá un panel porque no hay datos para ver.
 
 1. Haga clic en el icono de Excel y comenzará la exportación.
@@ -35,10 +32,3 @@ Una vez que haya ejecutado un programa de correo electrónico y tenga algunos da
    ![](assets/lifecycle.jpg)
 
    Bastante fácil, ¿verdad?
-
->[!NOTE]
->
->**Buceo profundo**
->
->¿Desea obtener más información sobre [Programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs)?
-
