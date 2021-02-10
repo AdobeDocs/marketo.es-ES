@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Introducción a Sales Connect - Documentos de marketing - Documentación del producto
 title: Introducción a Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Si prefiere ver estos pasos en lugar de leerlos, vaya directamente a las [Instrucciones de video a continuación](#video).
 
 >[!AVAILABILITY]
->
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
@@ -129,7 +128,3 @@ Para los equipos que deseen probar Marketingto Sales Connect con su Simulador pa
 >[!NOTE]
 >
 >No se puede aprovisionar una cuenta de Sales Connect con el mismo ID de correo electrónico en varias instancias. Esto significa que si desea tener una cuenta adicional de Sales Connect para probarla con la instancia de MarketingTo Sandbox, deberá utilizar un ID de correo electrónico diferente en cada una de las cuentas.
-
-## Instrucciones de vídeo {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
