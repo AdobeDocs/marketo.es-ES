@@ -3,7 +3,7 @@ unique-page-id: 10912163
 description: Creación de un mensaje de correo electrónico - Documentos de marketing - Documentación del producto
 title: Crear un correo electrónico
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -67,4 +67,4 @@ Ya se ha creado el correo electrónico, ¡así que edite!
 
 >[!MORELIKETHIS]
 >
->[Editar el encabezado de correo electrónico](edit-your-email-header.md)
+>[Editar el encabezado de correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
