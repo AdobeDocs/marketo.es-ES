@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: 'Champion/Challenger: Configurar alertas de informes: documentos de marketing: documentación del producto'
 title: 'Campeón/Desafiante: Configurar alertas de informes'
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ El experto en marketing le enviará informes sobre cómo va la prueba de correo 
 
 >[!PREREQUISITES]
 >
->* [Campeón/Desafío: Definir criterios de campeón](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Campeón/Desafío: Definir criterios de campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Programemos el envío del informe una vez por semana el viernes a las 9 de la mañana.
 
@@ -47,9 +43,4 @@ El experto en marketing le enviará informes sobre cómo va la prueba de correo 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeón/Desafío: Aprobar la prueba de correo electrónico](champion-challenger-approve-your-email-test.md)
-
-
+   >[Campeón/Desafío: Aprobar la prueba de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
