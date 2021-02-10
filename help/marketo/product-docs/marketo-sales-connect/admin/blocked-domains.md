@@ -3,9 +3,9 @@ unique-page-id: 18317338
 description: Dominios bloqueados - Documentos de marketing - Documentación del producto
 title: Dominios bloqueados
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Ayude a su equipo de ventas a lograr el éxito impidiéndoles enviar por correo 
 
    ![](assets/one-3.png)
 
-1. En Configuración de administración, haga clic en **General.**
+1. En Configuración de administración, haga clic en **General**.
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,4 @@ Ayude a su equipo de ventas a lograr el éxito impidiéndoles enviar por correo 
 
    >[!NOTE]
    >
-   >Los correos electrónicos que forman parte de un envío [de correo electrónico de grupo](http://docs.marketo.com/x/KAQ6Ag) que falla debido a que se envían a un dominio de correo electrónico bloqueado fallarán en silencio y no aparecerán en la carpeta de correo electrónico fallida.
-
+   >Los correos electrónicos que forman parte de un envío [de correo electrónico de grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) que falla debido a que se envían a un dominio de correo electrónico bloqueado fallarán en silencio y no aparecerán en la carpeta de correo electrónico fallida.
