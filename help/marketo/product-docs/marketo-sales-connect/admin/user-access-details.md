@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Detalles de acceso del usuario - Documentos de marketing - Documentación del producto
 title: Detalles de acceso de usuario
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## Permisos de usuario de administración {#admin-user-permissions}
 
-Los administradores pueden [vista de todas las plantillas](http://docs.marketo.com/x/OYAXAQ).
+Los administradores pueden [vista de todas las plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Los administradores pueden [vista de todas las campañas](http://docs.marketo.com/x/N4AXAQ).
+Los administradores pueden [vista de todas las campañas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Los administradores pueden [vista de toda la actividad de correo electrónico](http://docs.marketo.com/x/SYAXAQ).
+Los administradores pueden realizar vistas de todas las actividades de correo electrónico.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Los administradores pueden detener campañas en nombre de los usuarios.
    * Los usuarios pueden compartir plantillas en categorías que sus administradores les permiten
    * Cuando se elimina un usuario de un equipo, sus plantillas dejan de compartirse con ese equipo
    * Cuando se elimina un usuario de un equipo, sus plantillas transfieren la propiedad al administrador maestro que eliminó al usuario
-
