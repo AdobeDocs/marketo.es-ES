@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: Crear un correo electrónico de solo texto - Documentos de marketing - Documentación del producto
 title: Crear un correo electrónico de solo texto
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Si alguna vez desea enviar correos electrónicos de solo texto, así se puede cr
 
    >[!CAUTION]
    >
-   >Los vínculos no se rastrean automáticamente en correos electrónicos de solo texto. Consulte cómo [Añadir vínculos rastreados a un mensaje de texto](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Los vínculos no se rastrean automáticamente en correos electrónicos de solo texto. Consulte cómo [Añadir vínculos rastreados a un mensaje de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
