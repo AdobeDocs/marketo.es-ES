@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Uso de direcciones URL en mis tokens - Documentos de marketing - Documentación del producto
 title: Uso de direcciones URL en mis tokens
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
    ![](assets/twelve.png)
 
    ¡Y ya terminaste! La dirección URL se rellenará después de enviar y, gracias a haber colocado http:// delante del token, se generará un vínculo rastreable.
-
