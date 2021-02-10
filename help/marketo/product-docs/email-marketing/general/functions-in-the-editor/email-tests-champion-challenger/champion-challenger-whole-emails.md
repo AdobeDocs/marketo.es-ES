@@ -3,7 +3,7 @@ unique-page-id: 2359555
 description: 'Champion/Challenger: correos electrónicos completos: documentos de marketing: documentación del producto'
 title: 'Campeón/Desafío: correos electrónicos completos'
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Probar correos electrónicos completos entre sí. Cuando la prueba haya terminad
 
 >[!PREREQUISITES]
 >
->* [Añadir a un campeón de correo electrónico o a un Challenger](add-an-email-champion-challenger.md)
+>[Añadir a un campeón de correo electrónico o a un Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. En el editor de pruebas de correo electrónico, seleccione **Mensajes de correo electrónico completos** en la lista desplegable **Tipo de prueba **desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Mensajes de correo electrónico completos** en la lista desplegable **Tipo de prueba**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -47,10 +43,11 @@ Probar correos electrónicos completos entre sí. Cuando la prueba haya terminad
    >
    >**Ejemplo**
    >
-   >
    >En la distribución mostrada arriba, el 15% de la audiencia total especificada en la lista inteligente obtiene uno de los correos electrónicos del aspirante y el 85% recibe el correo electrónico del campeón. Los correos electrónicos de varios aspirantes comparten el 15 % por igual. Una vez finalizada la prueba, puede declarar un ganador manualmente. A partir de entonces, todas las personas futuras recibirán el contenido con mejor rendimiento.
 
-   [Más información de la que alguna vez quisieron sobre la confianza](http://en.wikipedia.org/wiki/Confidence_interval) estadística.
+   Para obtener confianza estadística, asegúrese de que el porcentaje que asigna a los aspirantes incluye suficientes personas como para que la prueba sea válida. No te engañes con resultados inconclusos.
+
+   [Más información de la que alguna vez quisieron sobre la confianza](https://en.wikipedia.org/wiki/Confidence_interval) estadística.
 
 1. Haga clic en **Siguiente**.
 
@@ -60,10 +57,4 @@ Probar correos electrónicos completos entre sí. Cuando la prueba haya terminad
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Campeón/Desafío: Definir criterios de campeón](champion-challenger-define-champion-criteria.md)
-
-
-Para obtener confianza estadística, asegúrese de que el porcentaje que asigna a los aspirantes incluye suficientes personas como para que la prueba sea válida. No te engañes con resultados inconclusos.
+   >[Campeón/Desafío: Definir criterios de campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
