@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: Previsualización de un correo electrónico con contenido dinámico - Documentos de marketing - Documentación del producto
 title: Previsualización de un correo electrónico con contenido dinámico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Previsualización el correo electrónico después de agregar contenido dinámico
 
    ![](assets/one-3.png)
 
-   Haga clic en la lista desplegable Vista por y seleccione el tipo de contenido dinámico que desea previsualización.
+1. Haga clic en la lista desplegable Vista por y seleccione el tipo de contenido dinámico que desea previsualización.
+
    ![](assets/two-3.png)
 
 1. Aparece una nueva lista desplegable. Haga clic en él y elija el contenido específico.
