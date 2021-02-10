@@ -3,9 +3,9 @@ unique-page-id: 17727995
 description: Email CC - Documentos de marketing - Documentación del producto
 title: Email CC
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Email CC permite enviar correos electrónicos especificados a través de Marketing para incluir destinatarios CC.
 
-Esta función está disponible en todos los recursos de correo electrónico de Marketing to, independientemente de cómo se envíe el correo electrónico (campaña por lotes o desencadenantes). El destinatario CC recibirá una copia exacta del correo electrónico enviado a la persona de mercadotecnia elegida. Como tal, cualquier actividad de participación (aperturas, clics, etc.) se registrarán en el registro de actividades de la Persona con marca en la línea &quot;Para&quot; del correo electrónico. Sin embargo, la actividad de envío (enviada, entregada, devolución forzada, etc.) *que no sean &quot;rebotes blandos&quot;* no  **** se registrarán, ya que Marketo no puede distinguir los eventos de envío para la Persona de mercadotecnia de los destinatarios CC. Marketo solo contará con CC de hasta 100.000 personas a la vez. Si tu lista inteligente supera los 100.000 y es imperativo que todas las personas que estén en ella tengan CC&#39;d, te recomendamos que rompas tu lista.
+Esta función está disponible en todos los recursos de correo electrónico de Marketing to, independientemente de cómo se envíe el correo electrónico (campaña por lotes o por déclencheur). El destinatario CC recibirá una copia exacta del correo electrónico enviado a la persona de mercadotecnia elegida. Como tal, cualquier actividad de participación (aperturas, clics, etc.) se registrará en el registro de actividades de la Persona con marca en la línea &quot;Para&quot; del correo electrónico. Sin embargo, la actividad de envío (enviada, entregada, devolución forzada, etc.) _que no sean &quot;rebotes blandos&quot;_ no  **** se registrarán, ya que Marketo no puede distinguir los eventos de envío para la Persona de mercadotecnia de los destinatarios CC. Marketo solo contará con CC de hasta 100.000 personas a la vez. Si tu lista inteligente supera los 100.000 y es imperativo que todas las personas que estén en ella tengan CC&#39;d, te recomendamos que rompas tu lista.
 
 >[!NOTE]
 >
@@ -57,10 +57,11 @@ Esta función está disponible en todos los recursos de correo electrónico de M
 
    >[!NOTE]
    >
-   >
    >Si hay una dirección de correo electrónico no válida en un campo CC, se omitirá.
 
-   Para una identificación rápida, la vista Resumen de correo electrónico muestra si se seleccionaron o no los campos de Email CC.  ![](assets/eight.png)
+   Para una identificación rápida, la vista Resumen de correo electrónico muestra si se seleccionaron o no los campos de Email CC.
+
+   ![](assets/eight.png)
 
    Si el correo electrónico está aprobado, pero el administrador de marketing deshabilita uno o más campos CC antes de que se envíe el correo electrónico, **esas personas no recibirán un correo electrónico**. En ese escenario, la vista Resumen de correo electrónico mostrará en gris los campos deshabilitados después de la aprobación pero que se hayan enviado previamente:
 
@@ -76,9 +77,8 @@ Esta función está disponible en todos los recursos de correo electrónico de M
 
 >[!TIP]
 >
->Tiene la opción de [deshabilitar algunos o todos los vínculos de seguimiento](http://docs.marketo.com/x/IwAd) en un mensaje de correo electrónico.
+>Tiene la opción de [deshabilitar algunos o todos los vínculos de seguimiento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) en un mensaje de correo electrónico.
 
 * Después de ejecutar una campaña por correo electrónico, la actividad Enviar correo electrónico incluirá una lista de todas las direcciones CC incluidas para cada destinatario del correo. Si alguna dirección CC se omitió debido a la cancelación de la suscripción, también se anotará en la actividad.
 * Los vínculos y las páginas de cancelación de suscripción funcionan normalmente en los correos electrónicos de CC. Esto permite a los destinatarios de CC cancelar la suscripción si lo desean (cumpliendo con las regulaciones antispam), y un registro de esta acción se almacenará en la base de datos de Marketing.
 * Las personas que aparecen como no suscritas en la base de datos de Marketing recibirán **no** correos electrónicos a través de CC.
-
