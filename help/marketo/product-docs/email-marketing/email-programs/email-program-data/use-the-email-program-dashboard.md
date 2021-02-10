@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Usar el Panel de Programa de correo electrónico - Documentos de marketing - Documentación del producto
 title: Usar el Panel de Programa de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Usar el Panel de Programa de correo electrónico {#use-the-email-program-dashboard}
 
-Compruebe el rendimiento de sus [programas de correo electrónico](http://docs.marketo.com/display/docs/email+programs) con esta vista de panel.
+Compruebe el rendimiento de sus programas de correo electrónico con esta vista de panel.
 
 >[!NOTE]
 >
->Si el programa tiene una prueba A/B, consulte el Panel [Programa de correo electrónico - Vista de prueba A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Si el programa tiene una prueba A/B, consulte el Panel [Programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ Este gráfico muestra la cantidad de correos electrónicos abiertos o en los que
 
 ## Resumen: Participación {#summary-engagement}
 
-Esto le muestra la [puntuación de participación general](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Esto le muestra la [puntuación de participación general](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ El resto de los datos mostrará las opciones Abrir, Clics, Tasa de clics/apertur
 >
 >**Definición**
 >
->**Las aperturas **se cuentan cuando el destinatario de correo electrónico descarga las imágenes del correo electrónico, lo que incluye un píxel de seguimiento insertado con el marcador. Si el destinatario vista el correo electrónico pero decide no descargar sus imágenes, no se contará como un archivo abierto. Si las imágenes se cargan en el panel de previsualización del destinatario, normalmente se contará como un archivo abierto, pero variará según el cliente de correo electrónico.
+>**** Opensare se cuenta cuando el destinatario de correo electrónico descarga las imágenes del correo electrónico, lo que incluye un píxel de seguimiento insertado por el marketing. Si el destinatario vista el correo electrónico pero decide no descargar sus imágenes, no se contará como un archivo abierto. Si las imágenes se cargan en el panel de previsualización del destinatario, normalmente se contará como un archivo abierto, pero variará según el cliente de correo electrónico.
 >
 >**Haga clic para** Abrir mide el porcentaje de correos electrónicos que se abrieron y en los que se hizo clic en un vínculo. Tomamos el número de clics únicos dividido por el número de aperturas únicas y luego multiplicamos por 100 para mostrarlo como porcentaje.
 
@@ -77,9 +77,4 @@ Para ver los datos más actualizados, haga clic en el icono de actualización de
 
 >[!MORELIKETHIS]
 >
->* [Usar el Panel de Programa de correo electrónico - Vista de prueba A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[Usar el Panel de Programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
