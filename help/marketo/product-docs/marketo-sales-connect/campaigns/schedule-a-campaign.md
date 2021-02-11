@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: Programar una Campaña - Documentos de marketing - Documentación del producto
 title: Programar una Campaña
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Abra el modo Añadir a Campaña, ya sea agregando individuos, un grupo o persona
 
 Después de hacer clic en **Siguiente**, puede realizar la previsualización del primer correo electrónico.
 
-Después de hacer clic en **Siguiente **nuevamente, se le dirigirá a una opción para cuando desee que salga su campaña. Puede tener inicio ahora o programar una hora para que más tarde comience la campaña.
+Después de hacer clic en **Siguiente** nuevamente, se le dirigirá a una opción para saber cuándo desea que su campaña salga. Puede tener inicio ahora o programar una hora para que más tarde comience la campaña.
