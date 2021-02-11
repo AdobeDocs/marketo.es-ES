@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: Prevención de Vistas personales - Documentos de marketing - Documentación del producto
 title: Evitar las Vistas personales
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel d
 1. En Seguridad, haga clic en el botón de opción **Nunca**.
 
    ![](assets/mac-3.png)
-
