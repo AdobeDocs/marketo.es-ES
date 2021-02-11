@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Cómo conectar las ventas a su Simulador para pruebas de Salesforce - Documentos de marketing - Documentación del producto
 title: Cómo conectar las ventas a su Simulador para pruebas de Salesforce
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->La cuenta de Sales Connect no se puede conectar a Salesforce al establecer una conexión con el simulador para pruebas. Si es así, [asegúrese de desconectar](http://docs.marketo.com/x/FoDq) antes de seguir los pasos de este artículo.
+>La cuenta de Sales Connect no se puede conectar a Salesforce al establecer una conexión con el simulador para pruebas. Si es así, [asegúrese de desconectar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir los pasos de este artículo.
 
 1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Cómo instalar personalizaciones en el Simulador para pruebas de Salesforce](http://docs.marketo.com/x/EIDq)
-
+>[Cómo instalar personalizaciones en el Simulador para pruebas de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
