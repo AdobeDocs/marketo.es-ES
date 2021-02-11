@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Explicación de las opciones de envío - Documentos de marketing - Documentación del producto
 title: Explicación de las opciones de envío
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Crear una tarea; Yo mismo enviaré este correo electrónico
 Envía este correo electrónico al correo electrónico anterior
 
 * Esta opción de envío será un &#39;seguimiento&#39; del correo electrónico anterior y anexará el cuerpo del correo anterior a la parte inferior de este mensaje.
-
