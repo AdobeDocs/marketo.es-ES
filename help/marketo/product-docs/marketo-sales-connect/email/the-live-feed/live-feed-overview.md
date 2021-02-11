@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Información general de la fuente en vivo - Documentos de marketing - Documentación del producto
 title: Información general de la fuente en directo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ Las personas marcadas con una línea azul representan el compromiso con los corr
 >
 >* Si su destinatario ha iniciado sesión en la red inalámbrica para una compañía que tenga su sede de TI en otra ciudad o país, registraremos esa ubicación en lugar de la configuración regional actual del destinatario.
 >* Si alguien reenvió o abrió su correo electrónico en el campo CC/BCC, intentamos mostrar con precisión la ubicación de esas personas.
-
->
-
 
 
 ## Ficha tareas {#tasks-tab}
@@ -106,4 +103,3 @@ Ver a las personas más importantes (ordenadas de la más alta a la más baja) c
 >[!NOTE]
 >
 >Si estás viendo a alguien que vista tu correo electrónico una y otra vez en tu fuente en vivo, podrían haber reenviado el correo electrónico a destinatarios adicionales. Es muy probable que este sea el caso si observa el inicio de ubicación que se va a cambiar para esas vistas.
-
