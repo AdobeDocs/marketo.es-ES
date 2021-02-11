@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Tipos de pasos de campaña - Documentos de marketing - Documentación del producto
 title: Tipos de pasos de campaña
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Redacte un nuevo correo electrónico o utilice una plantilla preexistente.
 
 >[!TIP]
 >
->Conozca los detalles sobre las [opciones de envío](http://docs.marketo.com/x/7QDb).
+>Conozca los detalles sobre las [opciones de envío](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Llamar a {#call}
 
@@ -50,4 +50,3 @@ El seguimiento de varios canales es una buena forma de conectarse con posibles c
 Utilice tareas personalizadas cuando las opciones anteriores no sean aplicables. Por ejemplo, puede invitar a un colega para que realice un seguimiento con un posible cliente por correo electrónico.
 
 ![](assets/custom.png)
-
