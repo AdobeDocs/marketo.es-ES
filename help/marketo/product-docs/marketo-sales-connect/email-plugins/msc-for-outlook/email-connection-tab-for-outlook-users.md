@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Ficha Conexión de correo electrónico para usuarios de Outlook - Documentos de marketing - Documentación del producto
 title: Ficha Conexión de correo electrónico para usuarios de Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Conectarse a Outlook significa recibir el seguimiento de respuestas, el acceso a
 
    ![](assets/nine-a.png)
 
-   Puede utilizar esta conexión para rastrear correos electrónicos y también [como canal de envío](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   Puede utilizar esta conexión para rastrear correos electrónicos y también como canal de envío.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ Conectarse a Exchange in situ significa que recibirá seguimiento de respuestas,
 
    ![](assets/six-b.png)
 
-   | **Outlook en línea** | También conocido como Office Online |
+   | Versión | Descripción |
    |---|---|
+   | **Outlook en línea** | También conocido como Office Online |
    | **Intercambio local** | Incluye Exchange 2013 y 2016 |
 
 1. Introduzca sus credenciales y haga clic en **Conectar**.
@@ -109,10 +110,8 @@ Conectarse a Exchange in situ significa que recibirá seguimiento de respuestas,
    >
    >Si desactiva la detección automática en la lista desplegable Versión de Exchange, deberá solicitar al departamento de TI la dirección URL de Exchange.
 
-   [como canal de envío](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   Puede utilizar esta conexión para rastrear correos electrónicos y también como canal de envío.
 
    >[!NOTE]
    >
    >Cuando se usa Outlook como canal de envío, no se pueden enviar más de 300 correos electrónicos masivos a la vez.
-
-Puede utilizar esta conexión para rastrear correos electrónicos y también .
