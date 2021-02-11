@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: Impedir que la dirección de Gmail secundaria se integre con Sales Connect - Marketo Docs - Documentación del producto
 title: Impedir que la dirección de Gmail secundaria se integre con Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect se integra con Gmail mediante una extensión instalada en el naveg
 
 Iniciar sesión como otro usuario de Chrome (recomendado)
 
-Haga clic en [este vínculo](http://support.google.com/chrome/answer/2364824?hl=en) para leer cómo crear otro Perfil de Chrome.
+Haga clic en [este vínculo](https://support.google.com/chrome/answer/2364824?hl=en) para leer cómo crear otro Perfil de Chrome.
 
 **Ventajas**: Al iniciar sesión como otro usuario, se abrirá una nueva instancia de Chrome. Esta instancia es una ventana completamente nueva de Chrome y ninguna de sus extensiones antiguas existirá en esta. También guarda las cookies para que no tenga que iniciar sesión en Gmail cada vez.
 
