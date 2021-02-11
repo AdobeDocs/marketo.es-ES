@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: Configuración del Canal de Envío - Documentos de marketing - Documentación del producto
 title: Configuración del Canal de Envío
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Al realizar el inicio con MarketingTo Sales Connect, deberá configurar un servi
 
 >[!NOTE]
 >
->Además de configurar el servidor SMTP, su identidad de [correo electrónico debe verificarse](http://docs.marketo.com/x/ewPh) para poder enviar correos electrónicos.
+>Además de configurar el servidor SMTP, su identidad de [correo electrónico debe verificarse](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) para poder enviar correos electrónicos.
 
 Puede elegir entre enviar correos electrónicos mediante un servidor SMTP personalizado, un servidor SMTP de equipo o Gmail como canal de envío. Pasemos cada opción.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
    >
    >Si el administrador del equipo configura el servidor SMTP del equipo, se aplicará automáticamente solo a su identidad de correo electrónico predeterminada y estará disponible como opción para las demás identidades de correo electrónico.
 
-   **Ver un video**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Servidor SMTP de equipo {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
    >
    >El servidor SMTP de equipo será el canal de envío predeterminado de la identidad de correo electrónico predeterminada para todos los miembros del equipo. Además, estará disponible como opción de canal de envío para todas las demás identidades de correo electrónico.
 
-   ** Ver un video**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
    ![](assets/fifteen.png)
 
 1. Inicie sesión con sus credenciales de Google.
+
 1. Cuando llegue a esta pantalla, haga clic en **Permitir**.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Puede elegir entre enviar correos electrónicos mediante un servidor SMTP person
    >[!NOTE]
    >
    >Si el administrador del equipo configura el servidor SMTP del equipo, se aplicará automáticamente solo a su identidad de correo electrónico predeterminada y estará disponible como opción para las demás identidades de correo electrónico.
-
