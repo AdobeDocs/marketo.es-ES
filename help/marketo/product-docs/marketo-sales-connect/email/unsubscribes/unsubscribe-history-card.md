@@ -3,7 +3,7 @@ unique-page-id: 14746184
 description: Tarjeta de historial de cancelación de suscripción - Documentos de marketing - Documentación del producto
 title: Cancelar suscripción de tarjeta de historial
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -41,4 +41,3 @@ La tarjeta de historial de cancelación de suscripción ayuda a los administrado
   </tr> 
  </tbody> 
 </table>
-
