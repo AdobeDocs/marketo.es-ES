@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Cómo corregir "No hemos podido autenticar su solicitud" al conectarse a Salesforce - Documentos de marketing - Documentación del producto
 title: Cómo corregir "No hemos podido autenticar su solicitud" al conectarse a Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Si recibe el mensaje de error &quot;No hemos podido autenticar su solicitud&quot
 1. Seleccione **Administrar aplicaciones**.
 1. Seleccione **Uso de OAuth de aplicaciones conectadas**.
 1. Asegúrese de que Sales Connect muestra &quot;Bloque&quot; junto a él. Si ve &quot;Desbloquear&quot;, haga clic en el botón para desbloquear el acceso de Sales Connect a Salesforce.
-
