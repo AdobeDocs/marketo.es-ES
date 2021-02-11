@@ -3,9 +3,9 @@ unique-page-id: 14352538
 description: Probar correo electrónico no mostrado como visto - Documentos de marketing - Documentación del producto
 title: Probar correo electrónico no mostrado como visualizado
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,8 @@ Aunque hayas enviado tu mensaje a otra dirección de correo electrónico, no te 
 
 Así es como llegar al único lugar donde mostraremos el auto-seguimiento.
 
-1. Vaya al [Centro de comandos](http://toutapp.com/next#emails/command_center).
-1. Busque el correo electrónico que se envió en la carpeta Enviados y selecciónelo.
-1. Haga clic en el botón **Detalles**. Deberías ver tus propias vistas que aparecen ahí.
+1. Vaya al [Centro de comandos](https://toutapp.com/).
 
+1. Busque el correo electrónico que se envió en la carpeta Enviados y selecciónelo.
+
+1. Haga clic en el botón **Detalles**. Deberías ver tus propias vistas que aparecen ahí.
