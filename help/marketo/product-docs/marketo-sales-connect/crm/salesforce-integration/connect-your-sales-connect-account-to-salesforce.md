@@ -3,9 +3,9 @@ unique-page-id: 14352423
 description: Conectar su cuenta de Sales Connect con Salesforce - Documentos de marketing - Documentación del producto
 title: Conectar la cuenta de Sales Connect con Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -54,4 +54,3 @@ Siga estos sencillos pasos para conectar Sales Connect con Salesforce.
    ![](assets/four.png)
 
 1. Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo hace, se le pedirá que inicie sesión.
-
