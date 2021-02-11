@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: Crear una Campaña - Documentos de marketing - Documentación del producto
 title: Crear una Campaña
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Entonces, ¿cómo se configura una Campaña?
 
    >[!NOTE]
    >
-   >Cree una nueva categoría haciendo clic en el icono** +** situado junto a **Categorías**.
+   >Cree una nueva categoría haciendo clic en **+** al lado de **Categorías**.
 
 1. Se seleccionará la categoría elegida. Si cambia de opinión, haga clic en la lista desplegable y seleccione otra. Cuando haya terminado, haga clic en **Continuar**.
 
@@ -44,7 +44,7 @@ Entonces, ¿cómo se configura una Campaña?
 
    ![](assets/four-1.png)
 
-1. Elija entre: Correo electrónico, Llamada, InMail o Tarea personalizada. En este ejemplo elegimos [Correo electrónico](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Elija entre: Correo electrónico, Llamada, InMail o Tarea personalizada. En este ejemplo elegimos [Correo electrónico](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ Entonces, ¿cómo se configura una Campaña?
 
    >[!NOTE]
    >
-   >&quot;Días&quot; no es el número de días entre acciones, sino el día dentro de la secuencia. Por ejemplo, si la campaña va a durar 7 días, si se introduce &#39;3&#39; significa que la acción saldrá el día 3 de 7, **no **3 días después.
+   >&quot;Días&quot; no es el número de días entre acciones, sino el día dentro de la secuencia. Por ejemplo: si la campaña va a durar 7 días, si se introduce &#39;3&#39; significa que la acción saldrá el día 3 de 7, **no** 3 días después.
 
 1. Asegúrese de personalizar las opciones de programación y respuesta, como saltarse los fines de semana (algo sorprendente), visitando la **ficha Configuración** de su Campaña.
 
    ![](assets/seven.png)
 
    ¡Ahora es el momento de inicio de Añadir a la gente a tu Campaña!
-
