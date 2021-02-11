@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Uso de acciones rápidas para acelerar el flujo de trabajo - Documentos de marketing - Documentación del producto
 title: Uso de acciones rápidas para acelerar el flujo de trabajo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
 
 **Enviado**
 
-| Archivo | Se agregará el correo electrónico a la carpeta archivada y se detendrá toda la vista deshabilitada y el rastreo de clics para ese correo electrónico. |
+| Estado | Descripción |
 |---|---|
+| Archivo | Se agregará el correo electrónico a la carpeta archivada y se detendrá toda la vista deshabilitada y el rastreo de clics para ese correo electrónico. |
 | Éxito | Marcará el correo electrónico como correcto para recibir informes en el análisis de plantillas. |
 
 **Archivado**
@@ -84,13 +85,11 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan seg�
 
 **Acciones de seguimiento**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Enviar correo electrónico de seguimiento | Abre la ventana de composición con el cuerpo de correo electrónico en línea seleccionado anexado y listo para ser enviado al destinatario. |
+| Función | Descripción |
 |---|---|
+| Enviar correo electrónico de seguimiento | Abre la ventana de composición con el cuerpo de correo electrónico en línea seleccionado anexado y listo para ser enviado al destinatario. |
 | Realizar llamada | Abre el teléfono de ventas para realizar una llamada al destinatario de correo electrónico. |
 | Enviar InMail | Redirige a LinkedIn para enviar un mensaje de InMail a la persona. |
 | Crear Tarea | Abre la ventana emergente Crear tarea para crear una tarea de recordatorio. |
-
