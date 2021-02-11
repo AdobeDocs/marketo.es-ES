@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Información general del centro de comandos - Documentos de marketing - Documentación del producto
 title: Información general del centro de comandos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ Bonificación: Si guarda la búsqueda avanzada, funcionará como una lista diná
 
 >[!MORELIKETHIS]
 >
->* [Tareas](http://docs.marketo.com/x/qwDb)
->* [Información general de búsqueda avanzada](http://docs.marketo.com/x/KQM6Ag)
->* [Redacción de correos electrónicos masivos con Seleccionar y enviar](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [Tareas](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [Información general de búsqueda avanzada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Redacción de correos electrónicos masivos con Seleccionar y enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
