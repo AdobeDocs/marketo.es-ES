@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: Información general de cancelación de suscripción - Documentos de marketing - Documentación del producto
 title: Información general de cancelación de suscripción
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Cada vez es más importante que las organizaciones cumplan con las leyes de priv
 * La información de cancelación de suscripción se almacena en PDV
 * La cancelación de suscripciones se puede realizar manualmente: Vínculo en el que se hizo clic, Sincronización de Salesforce y Devolución
 * Nueva página de aterrizaje de vínculo de cancelación de suscripción
-
