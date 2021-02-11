@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: Añadir un archivo adjunto o contenido rastreable a su correo electrónico - Documentos de marketing - Documentación del producto
 title: Añadir un archivo adjunto o contenido rastreable a su correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
    >[!NOTE]
    >
    >Se notificará a los usuarios en la fuente en directo cuando las personas estén viendo el contenido rastreado. Los usuarios también pueden ver el contenido de mayor rendimiento en la sección de contenido de la página Análisis.
-
