@@ -3,7 +3,7 @@ unique-page-id: 37357302
 description: Columnas de correo electrónico y diseño de página de correo electrónico - Documentos de marketing - Documentación del producto
 title: Columnas de correo electrónico y diseño de página de correo electrónico
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -131,4 +131,3 @@ Puede configurar el diseño siguiendo estos pasos.
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. Simplemente haga clic fuera de la configuración cuando termine.
-
