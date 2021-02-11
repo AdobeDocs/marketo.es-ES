@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Comprobación de cancelación de la suscripción a Marketing - Documentos de marketing - Documentación del producto
 title: Comprobación de cancelación de suscripción a Marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ La comprobación de cancelación de suscripción de Marketing to...
 * Requiere que se establezca una conexión de marketing
 * Es un ajuste global
 * Bloquea los correos electrónicos enviados desde la aplicación web, los clientes de correo electrónico y Salesforce
-
