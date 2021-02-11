@@ -3,9 +3,9 @@ unique-page-id: 14746655
 description: Versiones de personalización - Documentos de marketing - Documentación del producto
 title: Versiones de personalización
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 A continuación se proporcionan detalles sobre las actualizaciones realizadas en las personalizaciones de conexión de marketing para Salesforce.
 
 **Campos de**
-Actividad de la versión 1, Campos de contacto, Campos de posible cliente, Campos de cuenta, Campos de oportunidad, Botones,  [estos campos](http://docs.marketo.com/x/wQDh) de marketing.
+Actividad de la versión 1, Campos de contacto, Campos de posible cliente, Campos de cuenta, Campos de oportunidad, Botones,  [estos campos](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md) de marketing.
 
 **Los campos de**
 Actividad de la versión 1.1, los campos de contacto, los campos de posibles clientes, los campos de la cuenta, los campos de oportunidad, los botones y los campos de marketing ya están disponibles en el diseño de página de Salesforce Lightning.
