@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Creación de reglas de flujo de trabajo en Salesforce - Documentos de marketing - Documentación del producto
 title: Creación de reglas de flujo de trabajo en Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
    ![](assets/thirteen.png)
 
    Después del último paso, puede clonar la regla de flujo de trabajo para los demás campos que se enumeran en la sección Introducción: Desc, Tipo, Origen, Fecha. Después de completar las cuatro reglas de flujo de trabajo en el objeto Contact, repita lo mismo para el objeto Lead.
-
