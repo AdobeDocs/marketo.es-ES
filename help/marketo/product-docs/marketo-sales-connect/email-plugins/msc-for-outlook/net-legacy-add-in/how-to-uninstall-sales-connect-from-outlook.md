@@ -3,9 +3,9 @@ unique-page-id: 14352451
 description: Cómo desinstalar Sales Connect de Outlook - Documentos de marketing - Documentación del producto
 title: Cómo desinstalar Sales Connect de Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->El Añado de .Net ya no se admite a partir del 19 de mayo de 2019. [Haga clic ](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) aquí para obtener más información.
+>El soporte para el Añado de .Net se suspendió el 19 de mayo de 2019. [Haga clic ](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) aquí para obtener más información.
 
 1. Haga clic en el menú **Inicio**.
-1. Busque **ToutApp** en la lista Programas.
-1. Haga clic en él y elija **Cancelar registro**.
-1. Vaya al Panel de control de Campaign.
-1. Despliegue &quot;Añadir/Quitar un Programa&quot;.
-1. Seleccione ToutApp en la lista y elija **Eliminar**.
 
+1. Busque **ToutApp** en la lista Programas.
+
+1. Haga clic en él y elija **Cancelar registro**.
+
+1. Vaya al Panel de control de Campaign.
+
+1. Despliegue &quot;Añadir/Quitar un Programa&quot;.
+
+1. Seleccione ToutApp en la lista y elija **Eliminar**.
