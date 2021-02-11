@@ -3,9 +3,9 @@ unique-page-id: 14352407
 description: Información general sobre el Canal de envío - Documentos de marketing - Documentación del producto
 title: Información general del Canal de envío
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Desglosaremos los tres canales diferentes que puede aprovechar, cómo selecciona
 
 >[!NOTE]
 >
->Esta información sólo es relevante si envía sus correos electrónicos desde la [aplicación Web](http://toutapp.com/login). Si utiliza Sales Connect en Gmail o Outlook, los correos electrónicos se enviarán a través de esos servidores de correo electrónico.
+>Esta información sólo es relevante si envía sus correos electrónicos desde la [aplicación Web](https://toutapp.com/login). Si utiliza Sales Connect en Gmail o Outlook, los correos electrónicos se enviarán a través de esos servidores de correo electrónico.
 
 ## Servidores de correo electrónico MSC (predeterminado) {#msc-email-servers-default}
 
 De forma predeterminada, este método se seleccionará para el envío de los mensajes de correo electrónico. Los servidores de correo electrónico MSC son una opción buena para los usuarios que no utilizan Gmail ni Outlook. Además, como son nuestros servidores, podemos tomar cualquier mensaje de error relacionado con devoluciones o envíos fallidos y mostrarlo en la sección &quot;Envíos fallidos&quot; de la ficha Conversaciones.
 
-Otra ventaja de utilizar los servidores MSC es que, al utilizar una [Identidad de correo electrónico](https://help.toutapp.com/hc/en-us/articles/215371427), el destinatario verá la dirección de correo electrónico de la identidad que ha creado.
+Otra ventaja de utilizar los servidores MSC es que, al utilizar una [Identidad de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md), el destinatario verá la dirección de correo electrónico de la identidad que ha creado.
 
 Al utilizar servidores MSC, es posible que sus destinatarios vean una etiqueta &quot;a través de toutapp.com&quot;. Este es el cliente de correo electrónico que les informa de que el correo electrónico se ha enviado mediante Sales Connect.
 
@@ -48,4 +48,3 @@ En la aplicación web, su identidad aparecerá como la creó (arriba). Sin embar
 ## Servidor SMTP personalizado {#custom-smtp-server}
 
 ¿Pagar por su propio servidor? ¿Usar un entorno de Microsoft Exchange? Ésta es una opción para usted. Consulte [estas instrucciones](http://docs.marketo.com/x/zYTS) para obtener información sobre cómo configurar. Al igual que los servidores Gmail, puesto que Sales Connect no administra directamente el servidor, no registramos eventos de correo electrónico devueltos en la aplicación web.
-
