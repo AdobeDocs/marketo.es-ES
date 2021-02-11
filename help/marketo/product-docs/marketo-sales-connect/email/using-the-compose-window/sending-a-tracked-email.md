@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Envío de un correo electrónico rastreado - Documentos de marketing - Documentación del producto
 title: Envío de un correo electrónico rastreado
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
 >
 >Deberá comprobar la identidad y configurar un canal de envío de correo electrónico antes de enviar un correo electrónico rastreado.
 >
->* [Verifique su dirección de correo electrónico](http://docs.marketo.com/x/ewPh)
->* Configure un Canal de Envío para [Outlook](http://docs.marketo.com/x/Z4AOAQ) o [Gmail](http://docs.marketo.com/x/kYMOAQ)
-
->
-
+>* [Verifique su dirección de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Configure un Canal de Envío para [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
 
 
 1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
@@ -54,17 +51,12 @@ Al enviar un mensaje de correo electrónico con Marketingto Sales Connect, se re
    >
    >Se requiere una línea de asunto y un destinatario para enviar el correo electrónico. Se **guardará automáticamente el borrador** una vez que se hayan agregado una línea de asunto y un destinatario.
 
-1. Redacte su correo electrónico con el editor. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag), si lo prefiere) cuando termine.
+1. Redacte su correo electrónico con el editor. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), si lo prefiere) cuando termine.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Programación de un correo electrónico](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [Campos dinámicos](http://docs.marketo.com/x/wwDb)
-   >    * [Uso de plantillas](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [Programación de un correo electrónico](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
