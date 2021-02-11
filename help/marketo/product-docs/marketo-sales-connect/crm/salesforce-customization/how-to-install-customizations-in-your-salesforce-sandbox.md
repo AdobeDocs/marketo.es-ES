@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Cómo instalar personalizaciones en el Simulador para pruebas de Salesforce - Documentos de marketing - Documentación del producto
 title: Cómo instalar personalizaciones en el Simulador para pruebas de Salesforce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Conectar ventas con el Simulador para pruebas de Salesforce](http://docs.marketo.com/x/DYDq)
+>[Conectar ventas con el Simulador para pruebas de Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   A continuación, simplemente siga los pasos para instalar la personalización como lo haría en una cuenta normal de Salesforce. Vaya a la marca de un minuto de [este vídeo](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) para obtener más información.
-
+   A continuación, simplemente siga los pasos para instalar la personalización como lo haría en una cuenta normal de Salesforce.
