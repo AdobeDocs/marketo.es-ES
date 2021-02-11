@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: Campo de tipo de actividad en Tareas (SFDC) - Documentos de marketing - Documentación del producto
 title: Campo de tipo de actividad en Tareas (SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Con la ayuda de Sales Connect, puede registrar sus correos electrónicos y llama
 * Conexión con Salesforce
 * No se seleccionó ningún valor de tipo predeterminado en la lista de selección de tipo de Tarea
 * La llamada, la respuesta y el correo electrónico deben existir en la lista de selección Tipo de Tarea (la capitalización importa)
-* No `Workflows` ni `Triggers` se están tomando medidas en el valor del campo Tipo
+* Ningún Flujos de trabajo o Déclencheur que tome medidas sobre el valor del campo Tipo
 
 ## Configuración {#setup}
 
 Primero compruebe que dispone de los valores de lista de selección correctos. Necesitará la ayuda de su administrador de Salesforce para realizar cualquier cambio en su lista de selección.
 
-1. Vaya a [Salesforce.com](http://Salesforce.com) y haga clic en Ajustes en la esquina superior derecha.
+1. Vaya a [Salesforce.com](https://salesforce.com) y haga clic en Ajustes en la esquina superior derecha.
 1. Haga clic en Personalizar.
 1. Haga clic en Actividades.
 1. Haga clic en Campos de Tarea.
