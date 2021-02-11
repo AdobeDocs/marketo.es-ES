@@ -3,9 +3,9 @@ unique-page-id: 14352477
 description: Conexión push a ventas - Documentos de marketing - Documentación del producto
 title: Conexión push a ventas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Nuestro botón Push to Tout tomará una lista de sus posibles clientes/contactos
 
 ## Requisitos {#requirements}
 
-* Sales Connect [Paquete de Salesforce](http://docs.marketo.com/x/C4PS) instalado por `Salesforce Admin`
+* Paquete Sales Connect Salesforce instalado por el administrador de Salesforce
 
-* `Push to Sales Connect`botón instalado en la vista de lista por  `Salesforce Admin`
+* Botón de conexión push a ventas instalado en la vista de lista por el administrador de Salesforce
 
 * Conexión de Salesforce realizada con Sales Connect para que el usuario realice la inserción
 
@@ -30,11 +30,10 @@ Nuestro botón Push to Tout tomará una lista de sus posibles clientes/contactos
 1. Haga clic en **Ir**.
 1. Seleccione todos los leads/contactos a los que desee insertar.
 1. Seleccione **Insertar en MSE**.
-1. Aparecerá una nueva ventana que verifica el número de leads/contactos que desea insertar. Seleccione **Continuar con el grupo**. Sales Connect `will not push over` cualquier contacto marcado como `Email Opt Out` en Salesforce o `Unsubscribed` en Sales Connect.
+1. Aparecerá una nueva ventana que verifica el número de leads/contactos que desea insertar. Seleccione **Continuar con el grupo**. Sales Connect no transferirá ningún contacto marcado como Exclusión de correo electrónico en Salesforce o Cancelado la suscripción en Sales Connect.
 
    >[!NOTE]
    >
    >Sales Connect agregará este grupo llamado &quot;SFDC-...&quot; a la página Relaciones en la [aplicación Web](http://toutapp.com/login).
 
 1. Seleccione **Enviar correo electrónico a todo el grupo** para enviar el correo electrónico de este grupo.
-
