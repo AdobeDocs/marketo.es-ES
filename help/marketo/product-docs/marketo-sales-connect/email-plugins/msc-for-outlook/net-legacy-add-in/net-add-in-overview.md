@@ -3,9 +3,9 @@ unique-page-id: 14352457
 description: Información general sobre el Añada de .NET - Documentos de marketing - Documentación del producto
 title: Información general de Añada de .NET
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Este es nuestro antiguo complemento. Si ya lo tiene instalado, seguirá funcionando hasta 2020. Si es un usuario nuevo, instale nuestro nuevo [complemento de Office 365](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Este es nuestro antiguo complemento. Si ya lo tiene instalado, seguirá funcionando hasta 2020. Si es un usuario nuevo, instale nuestro nuevo [complemento de Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Adjuntar un fragmento de contenido {#attaching-a-piece-of-content}
 
@@ -33,7 +33,7 @@ Esto extrae el calendario de Outlook y le permite agregar fechas y horas especí
 
 Para insertar una plantilla Tout predefinida en el mensaje de Outlook, presione el botón **Templates**.
 
-Nosotros `sync with all of your personal templates and any shared templates` entre el equipo. También extraemos automáticamente la última plantilla usada y la plantilla utilizada con más frecuencia para facilitar el acceso.
+Sincronizamos con todas sus plantillas personales y cualquier plantilla compartida entre el equipo. También extraemos automáticamente la última plantilla usada y la plantilla utilizada con más frecuencia para facilitar el acceso.
 
 ## Botón Tout It {#the-tout-it-button}
 
