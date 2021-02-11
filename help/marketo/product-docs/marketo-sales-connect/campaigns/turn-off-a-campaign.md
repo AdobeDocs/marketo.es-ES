@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Desactivar una Campaña - Documentos de marketing - Documentación del producto
 title: Desactivar una Campaña
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Esto solo está disponible para clientes que están integrados con [Gmail o Exchange](https://toutapp.com/next#settings/email-tracking) y tienen habilitado el seguimiento de respuestas.
+>Esto solo está disponible para clientes que están integrados con Gmail o Exchange y tienen habilitado el seguimiento de respuestas.
 
 ## Desactivar una Campaña para una persona {#turn-off-a-campaign-for-one-person}
 
