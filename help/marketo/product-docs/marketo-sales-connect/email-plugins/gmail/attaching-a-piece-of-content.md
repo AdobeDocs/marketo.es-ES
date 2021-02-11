@@ -3,7 +3,7 @@ unique-page-id: 14352442
 description: Adjuntar un fragmento de contenido - Documentos de marketing - Documentación del producto
 title: Adjuntar un fragmento de contenido
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -18,4 +18,3 @@ Añada el contenido rastreable haciendo clic en el botón **Contenido** y cargan
 >[!NOTE]
 >
 >Para rastrear los datos adjuntos del correo electrónico, deberá agregarlos mediante este botón.
-
