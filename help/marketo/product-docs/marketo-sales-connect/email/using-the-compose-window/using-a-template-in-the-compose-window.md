@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Uso de una plantilla en la ventana Redacción - Documentos de marketing - Documentación del producto
 title: Uso de una plantilla en la ventana Redacción
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ Favoritos **hasta cinco** categorías de plantilla específicas para obtener acc
    >
    >**** Favoritesis allí de forma predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Campos dinámicos](http://docs.marketo.com/x/wwDb)
-   >    * [Uso de plantillas](http://docs.marketo.com/display/DOCS/Templates)
-
-
-La categoría seleccionada está ahora anclada.
+   La categoría seleccionada está ahora anclada.
