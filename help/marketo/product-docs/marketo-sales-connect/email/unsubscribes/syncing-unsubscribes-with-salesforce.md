@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Sincronización de cancelaciones de suscripción con Salesforce - Documentos de marketing - Documentación del producto
 title: Sincronización de cancelaciones de suscripción con Salesforce
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Cuando habilite la sincronización de cancelación de suscripción (paso 3 a con
 
 Los usuarios pueden decidir si desean sincronizar sus cancelaciones de suscripción con el campo Exclusión correo electrónico estándar con el que Marketing también puede sincronizar, o si pueden sincronizarse con el campo Exclusión ventas de marketing para que se puedan diferenciar las cancelaciones de ventas y las cancelaciones de suscripción de marketing.
 
-1. Vaya a la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje y seleccione **Configuración**.
+1. Vaya a la [aplicación Web](https://toutapp.com/login), haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Los usuarios pueden decidir si desean sincronizar sus cancelaciones de suscripci
 
    ![](assets/4.png)
 
-   | **Sincronizar con el campo Exclusión de Salesforce** | Seleccionado de forma predeterminada, solo actualiza el campo Exclusión de Salesforce. |
+   | Campo | Descripción |
    |---|---|
+   | **Sincronizar con el campo Exclusión de Salesforce** | Seleccionado de forma predeterminada, solo actualiza el campo Exclusión de Salesforce. |
    | **Sincronizar con el campo Exclusión ventas de marketing** | Si desea separar las cancelaciones de ventas y de marketing, elija esta opción para actualizar el campo adicional [Exclusión ventas de marketing.](#msoo) |
 
 ## Instalación del campo Exclusión en el diseño de página {#installing-the-opt-out-field-in-the-page-layout}
@@ -57,7 +58,7 @@ Los usuarios pueden decidir si desean sincronizar sus cancelaciones de suscripci
 
 Exclusión correo electrónico es un campo estándar de Salesforce que se puede instalar desde Salesforce. Debe ser administrador de Salesforce para instalarlo.
 
-1. Vaya a [Salesforce.com](http://Salesforce.com) e inicie sesión.
+1. Vaya a [Salesforce.com](https://salesforce.com) e inicie sesión.
 
    ![](assets/five-1.png)
 
