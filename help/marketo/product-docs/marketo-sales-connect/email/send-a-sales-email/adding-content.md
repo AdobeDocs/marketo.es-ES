@@ -3,7 +3,7 @@ unique-page-id: 14352591
 description: Añadir contenido - Documentos de marketing - Documentación del producto
 title: Añadir contenido
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Si agregó contenido anteriormente, verá esos archivos. Si no es así, haga cli
 >[!NOTE]
 >
 >El archivo se colocará donde se encuentre el cursor dentro del correo electrónico y deberá hacer clic en &quot;Tout It&quot; al enviar el correo electrónico para realizar un seguimiento del contenido de la fuente en directo.
-
