@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Ficha Conexión de correo electrónico para usuarios de Gmail - Documentos de marketing - Documentación del producto
 title: Ficha Conexión de correo electrónico para usuarios de Gmail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ Conectarse a Gmail significa recibir el seguimiento de respuestas, el acceso al 
 
    ![](assets/nine.png)
 
-   Puede utilizar esta conexión para rastrear correos electrónicos y también [como canal de envío](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
-
+   Puede utilizar esta conexión para rastrear correos electrónicos y también como canal de envío.
