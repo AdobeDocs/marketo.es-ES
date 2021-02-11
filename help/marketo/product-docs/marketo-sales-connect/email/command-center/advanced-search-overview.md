@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Información general de búsqueda avanzada - Documentos de marketing - Documentación del producto
 title: Información general de búsqueda avanzada
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filtre por destinatario/remitente de correo electrónico en la sección Quién.
 
 ![](assets/who.png)
 
-| **Vista como** | Filtre por un remitente específico en la instancia de Sales Connect (esta opción solo está disponible para los administradores). |
+| Desplegable | Descripción |
 |---|---|
+| **Vista como** | Filtre por un remitente específico en la instancia de Sales Connect (esta opción solo está disponible para los administradores). |
 | **Por grupo** | Filtre los correos electrónicos según un grupo específico de destinatarios. |
 | **Por persona** | Filtrar por un destinatario específico. |
 
@@ -82,8 +83,9 @@ Filtros por su actividad de correo electrónico enviada. Puede elegir vistas/sin
 
 Filtros por todos los correos electrónicos pendientes.
 
-| **Programado** | Correos electrónicos programados desde la ventana de composición (Salesforce o la aplicación web), complementos de correo electrónico o una campaña. |
+| Estado | Descripción |
 |---|---|
+| **Programado** | Correos electrónicos programados desde la ventana de composición (Salesforce o la aplicación web), complementos de correo electrónico o una campaña. |
 | **Borradores** | Correos electrónicos que están actualmente en estado borrador. Los mensajes de correo electrónico requieren una línea de asunto y un destinatario para guardarse como borrador. |
 | **En curso** | Correos electrónicos que se están enviando. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos. |
 
@@ -93,8 +95,9 @@ Filtros por todos los correos electrónicos pendientes.
 
 Filtros por correo electrónico que nunca se entregaron.
 
-| **Error** | Cuando un correo electrónico no se puede enviar desde Sales Connect (los motivos comunes incluyen: mensajes de correo electrónico que se envían a los contactos cancelados o bloqueados, o si se ha producido un problema al rellenar los campos dinámicos). |
+| Estado | Descripción |
 |---|---|
+| **Error** | Cuando un correo electrónico no se puede enviar desde Sales Connect (los motivos comunes incluyen: mensajes de correo electrónico que se envían a los contactos cancelados o bloqueados, o si se ha producido un problema al rellenar los campos dinámicos). |
 | **Devuelto** | Un correo electrónico se marca como devuelto cuando el servidor del destinatario lo rechaza. Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Sales Connect. |
 | **Correo no deseado** | Cuando el destinatario marcó el correo electrónico como correo no deseado (término común para correo electrónico no solicitado). Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Sales Connect. |
 
@@ -113,4 +116,3 @@ A continuación se muestra cómo crear una búsqueda guardada.
    Las búsquedas guardadas estarán en la barra lateral de la izquierda.
 
    ![](assets/advanced-search-overview-15.png)
-
