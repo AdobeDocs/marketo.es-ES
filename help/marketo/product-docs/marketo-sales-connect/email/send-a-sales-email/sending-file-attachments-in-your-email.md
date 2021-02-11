@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: Envío de archivos adjuntos en su correo electrónico - Documentos de marketing - Documentación del producto
 title: Envío de archivos adjuntos en el correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Normalmente, cualquier archivo de más de 20 MB será demasiado grande para entr
 >
 >Al utilizar Tout como canal de envío de correo electrónico, recomendamos archivos de 19 MB o menos al enviar correos electrónicos.
 
-Si necesita enviar un archivo grande, intente comprimirlo primero o cárguelo como [archivo adjunto rastreable](http://docs.marketo.com/x/3oPS) en la [aplicación Web](http://toutapp.com/login).
+Si necesita enviar un archivo grande, intente comprimirlo primero o cárguelo como [archivo adjunto rastreable](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) en la [aplicación Web](https://toutapp.com/login).
