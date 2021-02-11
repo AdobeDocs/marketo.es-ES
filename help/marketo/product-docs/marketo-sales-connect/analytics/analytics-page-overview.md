@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Información general de la página de Analytics - Documentos de marketing - Documentación del producto
 title: Información general de la página de Analytics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ La página de análisis se actualiza cada diez minutos.
 
 ## ¿Qué significan los números? {#what-do-the-numbers-mean}
 
-Los números dentro de `radials` calculan el número total de eventos en todos los correos electrónicos enviados. Así que si `single same email is viewed five times, it will add five views`a este número. La misma idea se aplica a los clics y las respuestas contadas dentro del círculo.
+Los números dentro de los radiales calculan el número total de eventos en todos los correos electrónicos enviados. Si se ve un solo correo electrónico cinco veces, se agregarán cinco vistas a este número. La misma idea se aplica a los clics y las respuestas contadas dentro del círculo.
 
-Todas las estadísticas que se mantienen dentro del `table` se calcularán mirando las vistas, clics y respuestas únicas a sus correos electrónicos. Si `one email is viewed five times, we will count that as one view.` es por eso que puede ver una gran diferencia en los números de las tablas frente a los números del radio.
+Todas las estadísticas que se mantienen dentro de la tabla se calcularán observando las vistas únicas, los clics y las respuestas a sus correos electrónicos. Si se ve un correo electrónico cinco veces, se contará como una vista. Es por eso que pueden ver una gran diferencia en los números de las tablas frente a los números del radio.
 
 ## Fichas analíticas {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Aquí puede ver estadísticas y clasificaciones de todo su equipo. También pued
 
 La ficha de contenido contiene estadísticas sobre plantillas, contenido y vínculos. Puede filtrar por todos o por equipos que los administradores hayan creado.
 
-Si aparece texto azul bajo la columna de asunto, significa que la plantilla es `shared`. Puede hacer clic en el texto azul para ir a esa plantilla. Haga clic en **Análisis de plantillas** para vista de su uso.
+Si aparece texto azul bajo la columna de asunto, significa que la plantilla se comparte. Puede hacer clic en el texto azul para ir a esa plantilla. Haga clic en **Análisis de plantillas** para vista de su uso.
 
 Los &quot;clics en contenido&quot; se cuentan cuando un destinatario hace clic en un vínculo del correo electrónico.
