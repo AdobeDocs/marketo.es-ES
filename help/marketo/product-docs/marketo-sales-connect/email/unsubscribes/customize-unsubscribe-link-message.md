@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Personalizar mensaje de vínculo de cancelación de suscripción - Documentos de marketing - Documentación del producto
 title: Personalizar mensaje de vínculo de cancelación de suscripción
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Siempre hemos permitido a los equipos personalizar sus mensajes de enlace de can
 
 ## Personalizar la mensajería para usted mismo {#customize-messaging-for-yourself}
 
-1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Siempre hemos permitido a los equipos personalizar sus mensajes de enlace de can
 
 ## Configurar la mensajería de cancelación de suscripciones para su equipo {#set-unsubscribe-messaging-for-your-team}
 
-1. Inicie sesión en la [aplicación Web](http://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
+1. Inicie sesión en la [aplicación Web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y elija **Configuración**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Siempre hemos permitido a los equipos personalizar sus mensajes de enlace de can
 1. Seleccione **Estoy configurando los mensajes predeterminados para mi equipo** para que los mensajes se apliquen a todos los usuarios.
 
    ![](assets/eleven.png)
-
