@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Redacción de correos electrónicos masivos con Select and Send - Marketo Docs - Documentación del producto
 title: Redacción de correos electrónicos masivos con Seleccionar y enviar
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
    ![](assets/three-2.png)
 
-1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe/ [programación](http://docs.marketo.com/x/GAQ6Ag)el correo electrónico.
+1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe/[programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) el correo electrónico.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
 **Ediciones masivas**
 
-1. Siga los pasos 1 a 3 de la sección [Envío de correos electrónicos](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Siga los pasos 1 a 3 de la sección [Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
    >
    >Puede hacer clic en un destinatario de correo electrónico específico para ver los cambios propagados a ese correo electrónico.
 
-1. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
+1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
 Complete las actualizaciones masivas antes de personalizar cada correo electrónico, ya que al realizar una actualización masiva se sobrescriben los cambios realizados en cada correo electrónico de la barra lateral de composición masiva.
 
-1. Siga los pasos 1 a 4 de la sección [Envío de correos electrónicos.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Siga los pasos 1 a 4 de la sección [Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ Complete las actualizaciones masivas antes de personalizar cada correo electrón
    >
    >Puede hacer clic en otros destinatarios para ver que no se muestran los cambios realizados en el destinatario seleccionado anteriormente.
 
-1. Haga clic en **Enviar** (o [Programar](http://docs.marketo.com/x/GAQ6Ag)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
+1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Opciones de envío masivo](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Uso de una plantilla en la ventana Redacción](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Campos dinámicos](http://docs.marketo.com/x/wwDb)
-
+   >* [Opciones de envío masivo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Uso de una plantilla en la ventana Redacción](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Campos dinámicos](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
