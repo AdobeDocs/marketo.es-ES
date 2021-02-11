@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: Envío de correos electrónicos por correo electrónico del grupo - Documentos de marketing - Documentación del producto
 title: Envío de correos electrónicos a través del correo electrónico del grupo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
 ## Edición de un correo electrónico de grupo {#editing-a-group-email}
 
-1. Cree un correo electrónico de grupo con los [pasos 1 a 3 anteriores](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Cree un correo electrónico de grupo con los [pasos 1 a 3 anteriores](#sending-a-group-email).
+
 1. Elija una plantilla o rellene el correo electrónico.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
 >[!MORELIKETHIS]
 >
->* [Opciones de envío masivo](http://docs.marketo.com/x/HwQ6Ag)
->* [Uso de una plantilla en la ventana Redacción](http://docs.marketo.com/x/MQQ6Ag)
->* [Campos dinámicos](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Opciones de envío masivo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Uso de una plantilla en la ventana Redacción](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
