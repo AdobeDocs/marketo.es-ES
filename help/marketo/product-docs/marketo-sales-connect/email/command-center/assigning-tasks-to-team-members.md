@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Asignación de Tareas a miembros del equipo - Documentos de marketing - Documentación del producto
 title: Asignación de Tareas a miembros del equipo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
 >[!NOTE]
 >
->Solo puede asignar tareas para los contactos compartidos. Antes de colaborar con tareas compartidas, [compartirá un grupo de contactos](http://docs.marketo.com/x/fwDb) con los integrantes del equipo.
+>Solo puede asignar tareas para los contactos compartidos. Antes de colaborar con tareas compartidas, [compartirá un grupo de contactos](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md) con los integrantes del equipo.
 
 1. Haga clic en el **Centro de comandos**.
 
@@ -57,5 +57,4 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
 >[!MORELIKETHIS]
 >
->[Cómo compartir un grupo](http://docs.marketo.com/x/fwDb)
-
+>[Cómo compartir un grupo](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
