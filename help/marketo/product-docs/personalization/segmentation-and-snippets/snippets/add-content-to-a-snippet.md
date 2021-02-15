@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: Añadir contenido a un fragmento - Documentos de marketing - Documentación del producto
 title: Añadir contenido en un fragmento
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Puede agregar tres tipos de contenido a un fragmento.
 
    >[!NOTE]
    >
-   >Puede agregar sus propias imágenes o archivos a Marketing Cloud. Obtenga más información sobre [imágenes y archivos](http://docs.marketo.com/display/docs/images+and+files).
+   >Puede agregar sus propias imágenes o archivos a Marketing Cloud. Obtenga más información sobre [imágenes y archivos](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Seleccione la **imagen** que desee utilizar y haga clic en **Insertar**.
 
