@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Notas de la versión - Otoño de 2015 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Otoño de 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Se pueden crear varias suscripciones en una lista inteligente. Existe una limita
 
 ## Objetos personalizados de marketing {#marketo-custom-objects}
 
-[Objetos personalizados de marketing](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Objetos personalizados de marketing](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Cree fácilmente objetos personalizados desde la interfaz de usuario del administrador. Actualmente se admite la capacidad de crear un objeto personalizado 1:N en Marketing y conectarlo a un lead o compañía.
 
@@ -121,7 +121,7 @@ Estamos realizando varias mejoras en el editor de texto enriquecido. Después de
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
