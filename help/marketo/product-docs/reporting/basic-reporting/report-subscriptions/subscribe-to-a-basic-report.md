@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: Suscripción a un informe básico - Documentos de marketing - Documentación del producto
 title: Suscripción a un informe básico
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Suscripción a un informe básico {#subscribe-to-a-basic-report}
 
-Para recibir actualizaciones automáticas de un [informe básico](http://docs.marketo.com/display/docs/basic+reporting), o para compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
+Para recibir actualizaciones automáticas de un [informe básico](https://docs.marketo.com/display/docs/basic+reporting), o para compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
 
 >[!NOTE]
 >
->Para obtener suscripciones de informes [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics), consulte [Suscribirse a un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Para obtener suscripciones de informes [Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics), consulte [Suscribirse a un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Vaya al área **Actividades de mercadotecnia **.
 
@@ -58,5 +58,5 @@ Para recibir actualizaciones automáticas de un [informe básico](http://docs.ma
    >**Buceo profundo**
    >
    >
-   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
