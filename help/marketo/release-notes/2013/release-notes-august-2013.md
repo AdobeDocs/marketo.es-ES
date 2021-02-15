@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: Notas de la versión - Agosto de 2013 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Agosto de 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de la versión: Agosto de 2013 {#release-notes-august}
 
-Las siguientes funciones se incluyen en la versión de agosto de 2013. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing-1.php) para conocer la disponibilidad de las funciones.
+Las siguientes funciones se incluyen en la versión de agosto de 2013. Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing-1.php) para conocer la disponibilidad de las funciones.
 
 Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la comunidad para ver artículos detallados de la base de conocimiento para cada nueva función.
 
@@ -49,9 +49,9 @@ Utilice estos [tokens nuevos](../../product-docs/email-marketing/general/using-t
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Limpieza automática de Campañas de activador {#automatic-trigger-campaign-cleanup}
+## Limpieza automática de Campañas de Déclencheur {#automatic-trigger-campaign-cleanup}
 
-Marketo ahora le notificará periódicamente y [desactivará automáticamente las campañas desencadenadoras](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que no se hayan ejecutado en los últimos seis meses.
+Marketo ahora le notificará periódicamente y [desactivará automáticamente las campañas de déclencheur](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que no se hayan ejecutado en los últimos seis meses.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
