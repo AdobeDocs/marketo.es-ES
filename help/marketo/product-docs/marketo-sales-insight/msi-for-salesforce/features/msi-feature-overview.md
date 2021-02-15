@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Información general sobre la función MSI - Documentos de marketing - Documentación del producto
 title: Información general de la función MSI
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ El panel de fuerza visual MSI incluye las siguientes funcionalidades:
 
 * Fichas
 
-   * [Panel de perspectivas](http://docs.marketo.com/x/EoGMAg)
+   * [Panel de perspectivas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Momento interesante
    * Actividad Web
    * Correo electrónico
@@ -170,7 +170,7 @@ Salesforce Classic: Añada a la lista de observación, Añada a la Campaña de m
 
 >[!MORELIKETHIS]
 >
->[Ficha Configuración de perspectiva de ventas de marketing en Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Ficha Configuración de perspectiva de ventas de marketing en Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Informes de rendimiento de perspectiva de ventas {#sales-insight-performance-reports}
 
