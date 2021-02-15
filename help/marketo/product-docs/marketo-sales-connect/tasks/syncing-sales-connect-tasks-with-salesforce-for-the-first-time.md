@@ -3,7 +3,7 @@ unique-page-id: 14352541
 description: Sincronización de Tareas de Sales Connect con Salesforce por primera vez - Documentos de marketing - Documentación del producto
 title: Sincronización de Tareas de Sales Connect con Salesforce por primera vez
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Esto es lo que sucede cuando sincroniza tareas de Sales Connect y SFDC:
 
 - Tan pronto como haga clic en Guardar al sincronizar tareas, empezarán a sincronizarse. Inicialmente, esto llevará algún tiempo.
 
-- Todos los recordatorios que se hayan actualizado o creado en `last 24 hours` se extraerán de SFDC a Sales Connect. La sincronización se basa en `due date` y todas esas tareas se sincronizarán en el back-end, pero en el Command Center sólo verá tareas que vencen hoy y mañana.
+- Todos los recordatorios que se hayan actualizado o creado en las últimas 24 horas se extraerán de SFDC a Sales Connect. La sincronización se basa en la fecha de vencimiento y todas esas tareas se sincronizarán en el back-end, pero en el centro de comandos solo verá tareas que vencen hoy y mañana.
 
 - Si la sincronización se ha activado anteriormente y elimina cualquier tarea de SFDC, todo lo que se haya eliminado en los últimos 15 días se eliminará del Centro de comandos.
 
@@ -27,5 +27,4 @@ Esto es lo que sucede cuando sincroniza tareas de Sales Connect y SFDC:
 
 Después de la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en Sales Connect se sincronizará con la lista de tareas de Salesforce. Y todo lo que se cree, edite, complete o elimine en Salesforce actualizará la lista de tareas en Sales Connect.
 
-Para activar esta sincronización, marque la casilla de sincronización en la [página Configuración](http://toutapp.com/next#settings/crm/salesforce/configure) de la aplicación Web.
-
+Para activar esta sincronización, marque la casilla de sincronización en la [página Configuración](https://toutapp.com/login) de la aplicación Web.
