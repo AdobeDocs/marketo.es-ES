@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Notas de la versión - Marzo de 2014 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Marzo de 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Seleccione Su [Lenguaje de Aplicación de Marketing](/help/marketo/product-docs/
 
 ## Blog de programadores de marketing {#marketo-developer-blog}
 
-El [blog para desarrolladores de marketing](http://developers.marketo.com/blog/) está dedicado a aquellos desarrolladores web e ingenieros de software que soportan las necesidades en rápida evolución del especialista en mercadotecnia moderno. Puede suscribirse a anuncios sobre nuevas opciones de integración, actualizaciones de versiones de API y una nueva serie de artículos de procedimientos que incluyen ejemplos de código y prácticas recomendadas sobre la integración con la plataforma de Marketing.
+El [blog para desarrolladores de marketing](https://developers.marketo.com/blog/) está dedicado a aquellos desarrolladores web e ingenieros de software que soportan las necesidades en rápida evolución del especialista en mercadotecnia moderno. Puede suscribirse a anuncios sobre nuevas opciones de integración, actualizaciones de versiones de API y una nueva serie de artículos de procedimientos que incluyen ejemplos de código y prácticas recomendadas sobre la integración con la plataforma de Marketing.
 
-El [primer artículo](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de esta serie le guiará por cómo recuperar de forma eficaz la información sobre las personas (clientes/contactos/posibles clientes) que se almacenan en Marketing con la API.
+El [primer artículo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de esta serie le guiará por cómo recuperar de forma eficaz la información sobre las personas (clientes/contactos/posibles clientes) que se almacenan en Marketing con la API.
