@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: Eliminar un informe - Documentos de marketing - Documentación del producto
 title: Eliminar un informe
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ Una vez que inicio [la creación de informes](../../../../product-docs/reporting
    >**Buceo profundo**
    >
    >
-   >Vea todas las demás cosas que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Vea todas las demás cosas que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
