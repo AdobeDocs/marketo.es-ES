@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filtrado de perspectivas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Filtrado de perspectivas de correo electrónico
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Elija entre intervalos de fechas preestablecidos comunes, seleccione fechas espe
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
-Si utiliza [Marketing basado en cuentas](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), existen filtros específicos para usted.
+Si utiliza [Marketing basado en cuentas](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), existen filtros específicos para usted.
 
 ![](assets/abm.png)
 
