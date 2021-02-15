@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: Notas de la versión - Enero de 2014 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: enero de 2014'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Notas de la versión: Enero de 2014 {#release-notes-january}
 
-Las siguientes funciones se incluyen en la versión de enero de 2014. Consulte su [edición de marketing](http://www.marketo.com/pricing/) para conocer la disponibilidad de las funciones.
+Las siguientes funciones se incluyen en la versión de enero de 2014. Consulte su [edición de marketing](https://www.marketo.com/pricing/) para conocer la disponibilidad de las funciones.
 
 ## Forms 2.0 {#forms}
 
-Mirando hacia arriba: La documentación de Forms 2.0 estará disponible próximamente. Mientras tanto, conozca más a continuación y en el [vídeo de introducción](http://docs.marketo.com/display/docs/forms)!
+Mirando hacia arriba: La documentación de Forms 2.0 estará disponible próximamente. Mientras tanto, conozca más a continuación y en el [vídeo de introducción](https://docs.marketo.com/display/docs/forms)!
 
-Controle el proceso de creación de formularios y dé un descanso a los desarrolladores web. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 está diseñado para que los especialistas en marketing puedan crear formularios sólidos tanto visual como funcionalmente sin necesidad de conocimientos de programación.
+Controle el proceso de creación de formularios y dé un descanso a los desarrolladores web. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 está diseñado para que los especialistas en marketing puedan crear formularios sólidos tanto visual como funcionalmente sin necesidad de conocimientos de programación.
 
 **Proporcione a su Forms la configuración visual que merecen:**
 
@@ -38,7 +38,7 @@ Atrás quedan los días de extraer código HTML de los formularios colocados en 
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Obtenga más información en el [vídeo de introducción a Forms 2.0](http://docs.marketo.com/display/docs/forms). (La documentación llega pronto a [Forms](http://docs.marketo.com/display/docs/forms) buceo profundo!)
+Obtenga más información en el [vídeo de introducción a Forms 2.0](https://docs.marketo.com/display/docs/forms). (La documentación llega pronto a [Forms](https://docs.marketo.com/display/docs/forms) buceo profundo!)
 
 ## Límites de comunicación para el Programa de correo electrónico {#communication-limits-for-email-program}
 
