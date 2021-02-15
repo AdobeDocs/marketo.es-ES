@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Información general sobre la contribución de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Información general de contribución de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Seleccione la métrica por la que desee realizar la vista del rendimiento. En es
 
 >[!NOTE]
 >
->Obtenga información sobre [Primer toque y Multitoque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Obtenga información sobre [Primer toque y Multitoque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Elija para qué período desea ver las métricas. En este ejemplo estamos viendo el año actual (año hasta la fecha).   ![](assets/3-1.png)
 
