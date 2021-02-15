@@ -3,7 +3,7 @@ unique-page-id: 10100397
 description: Explicación de los mensajes en la aplicación - Documentos de marketing - Documentación del producto
 title: Explicación de los mensajes en la aplicación
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Utilice los mensajes en la aplicación para interactuar directamente con sus cli
 >
 >Ejemplo 1: Aparece la promoción &quot;Venta de verano&quot; al abrir la aplicación.
 >
->Ejemplo 2: Mientras ve un video médico, programa una visita al médico, y desencadena un cupón de descuento de 40 dólares.
+>Ejemplo 2: Mientras ve un video médico, programa una visita al médico, y déclencheur un cupón de $40 de descuento.
 
 Para poder crear y enviar mensajes en la aplicación para su aplicación móvil, necesitará el administrador de marketing y el desarrollador de aplicaciones móviles para realizar algunas configuraciones.  Hay tres pasos para el proceso de producción de mensajes en la aplicación:
 
@@ -33,18 +33,18 @@ El administrador de marketing y el desarrollador de aplicaciones móviles trabaj
 
 ## Paso 2: Crear un mensaje en la aplicación {#step-create-an-in-app-message}
 
-Puede [crear un mensaje en la aplicación](http://docs.marketo.com/display/docs/create+an+in-app+message) con el editor en línea.
+Puede [crear un mensaje en la aplicación](https://docs.marketo.com/display/docs/create+an+in-app+message) con el editor en línea.
 
 ## Paso 3: ¡Enviar! {#step-send}
 
-Puede crear un programa para [enviar el mensaje](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Puede crear un programa para [enviar el mensaje](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Estás en camino.
 
 >[!MORELIKETHIS]
 >
->* [Crear un mensaje en la aplicación](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Crear un mensaje en la aplicación](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
-* [Enviar su mensaje en la aplicación](http://docs.marketo.com/display/docs/send+your+in-app+message)
+* [Enviar su mensaje en la aplicación](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
