@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Habilitar la grabación de llamadas - Documentos de marketing - Documentación del producto
 title: Habilitar la grabación de llamadas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Como administrador, puede activar el registro de llamadas para sus llamadas de S
 
    ![](assets/three.png)
 
-1. Si desea que los vendedores puedan activar o desactivar la grabación de llamadas, haga clic en** Grabación opcional para todos los integrantes del equipo. **Si desea que todas las llamadas se registren automáticamente,** haga clic en Grabar todas las llamadas.**
+1. Si desea que los vendedores puedan habilitar o deshabilitar la grabación de llamadas por sí mismos, haga clic en **Grabación opcional para todos los integrantes del equipo**. Si desea que todas las llamadas se registren automáticamente, haga clic en **Registrar todas las llamadas**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Configuración de consentimiento de dos partes](http://docs.marketo.com/x/dgC1Ag)
-
+>[Configuración de consentimiento de dos partes](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
