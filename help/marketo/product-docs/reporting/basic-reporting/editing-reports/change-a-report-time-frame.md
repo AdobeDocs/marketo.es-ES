@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: Cambiar un intervalo de tiempo del informe - Documentos de marketing - Documentación del producto
 title: Cambiar un intervalo de tiempo del informe
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Cambie el período de tiempo cubierto por el informe para centrarse en una hora 
    >**Buceo profundo**
    >
    >
-   >Para obtener más información sobre cómo utilizar los informes, consulte la sección [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) profunda.
+   >Para obtener más información sobre cómo utilizar los informes, consulte la sección [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) profunda.
 
