@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Filtrar recursos en un informe de correo electrónico - Documentos de marketing - Documentación del producto
 title: Filtrar recursos en un informe de correo electrónico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Centre su [Rendimiento del correo electrónico](../../../../product-docs/email-m
 >
 >**Buceo profundo**
 >
->Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Obtenga información sobre los informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
