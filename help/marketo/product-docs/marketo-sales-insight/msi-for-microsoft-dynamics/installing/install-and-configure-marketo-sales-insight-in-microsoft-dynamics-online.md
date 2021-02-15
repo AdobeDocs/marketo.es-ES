@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics Online - Documentos de marketing - Documentación del producto
 title: Instalación y configuración de la perspectiva de ventas de marketing en Microsoft Dynamics Online
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ La perspectiva de ventas de marketing es una herramienta fantástica para dar a 
 
 >[!PREREQUISITES]
 >
->Complete la integración [de Marketing a Microsoft](http://docs.marketo.com/x/E4A2).
+>Complete la integración de Marketing con Microsoft.
 >
->[Descargue la ](http://docs.marketo.com/x/LoJo) solución correcta para su versión de Microsoft Dynamics CRM.
+>[Descargue la ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) solución correcta para su versión de Microsoft Dynamics CRM.
 
 ## Importar solución {#import-solution}
 
@@ -31,7 +31,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para dar a 
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. En CONFIGURACIÓN, haga clic en **Personalizaciones**.
+1. En Configuración, haga clic en **Personalizaciones**.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
@@ -40,9 +40,6 @@ La perspectiva de ventas de marketing es una herramienta fantástica para dar a 
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >Ya debería haber instalado y configurado la solución de marketing antes de avanzar.
 
@@ -55,6 +52,7 @@ La perspectiva de ventas de marketing es una herramienta fantástica para dar a 
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. En el equipo, busque e instale la solución que acaba de descargar.
+
 1. Haga clic en **Siguiente**.
 
    ![](assets/seven.png)
@@ -89,7 +87,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 >
 >**Se requieren permisos de administración**
 
-1. Inicie sesión en Marketing y vaya a la sección **Admin **s.
+1. Inicie sesión en Marketing y vaya a la sección **Administración**.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
@@ -107,17 +105,14 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    >[!NOTE]
    >
-   >Los siguientes campos deben sincronizarse con Marketing para *Posible cliente y Contacto* para que Sales Insight funcione:
+   >Los siguientes campos deben sincronizarse con Marketing para _Posible cliente y Contacto_ para que Sales Insight funcione:
    >
-   >    
-   >    
-   >    * Prioridad
-   >    * Urgencia
-   >    * Puntuación relativa
+   >* Prioridad
+   >* Urgencia
+   >* Puntuación relativa
 
-   >    
-   >    
-   >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >
+   >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. De nuevo en Microsoft Dynamics, vaya a **Configuración**.
 
@@ -153,7 +148,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 
    ![](assets/enable-four.png)
 
-1. Esto *automáticamente* seleccionará los campos MSI que anteriormente estaban deshabilitados (Urgencia, Puntuación relativa y Prioridad). Simplemente haga clic en **Guardar** en para sincronizar datos de inicio.
+1. Esto _automáticamente_ seleccionará los campos MSI que anteriormente estaban deshabilitados (Urgencia, Puntuación relativa y Prioridad). Simplemente haga clic en **Guardar** en para sincronizar datos de inicio.
 
    ![](assets/enable-five.png)
 
@@ -187,5 +182,4 @@ Por último, tiene que dar acceso a usuarios específicos para utilizar la Persp
 
 >[!MORELIKETHIS]
 >
->[Configuración de estrellas y llamas para registros de contacto/posibles clientes](http://docs.marketo.com/x/BICMAg)
-
+>[Configuración de estrellas y llamas para registros de contacto/posibles clientes](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
