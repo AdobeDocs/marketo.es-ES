@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: Sincronizar campos personalizados con perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Sincronizar campos personalizados con perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Los paneles de Canalización e Ingresos de MPI pueden filtrar por campos de mark
 
 >[!NOTE]
 >
->Este artículo es solo para usuarios que **no** tienen [RCA](http://docs.marketo.com/x/lwIk). Si tiene RCA, siga los pasos de [este artículo](http://docs.marketo.com/x/FQQk).
+>Este artículo es solo para usuarios que **no** tienen [RCA](https://docs.marketo.com/x/lwIk). Si tiene RCA, siga los pasos de [este artículo](https://docs.marketo.com/x/FQQk).
 
 1. Vaya a la sección **Administración**.
 
