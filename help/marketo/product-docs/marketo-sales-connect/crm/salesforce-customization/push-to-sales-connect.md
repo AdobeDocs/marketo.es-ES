@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Conexión push a ventas - Documentos de marketing - Documentación del producto
 title: Conexión push a ventas
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Nuestro botón Push to Tout tomará una lista de sus posibles clientes/contactos
 ## Cómo {#how-to}
 
 1. Haga clic en la ficha **Posible cliente/contacto** en Salesforce.
-1. Cambie a la Vista de Lista que desea que Push to Sales Connect junto al botón Ir.
+1. Cambie a la Vista de Lista que desee para insertar en Sales Connect, al lado del botón Ir.
 1. Haga clic en **Ir**.
 1. Seleccione todos los leads/contactos a los que desee insertar.
 1. Seleccione **Insertar en MSE**.
@@ -34,6 +34,6 @@ Nuestro botón Push to Tout tomará una lista de sus posibles clientes/contactos
 
    >[!NOTE]
    >
-   >Sales Connect agregará este grupo llamado &quot;SFDC-...&quot; a la página Relaciones en la [aplicación Web](http://toutapp.com/login).
+   >Sales Connect agregará este grupo llamado &quot;SFDC-...&quot; a la página Relaciones en la [aplicación Web](https://toutapp.com/login).
 
 1. Seleccione **Enviar correo electrónico a todo el grupo** para enviar el correo electrónico de este grupo.
