@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: Informe de Actividad de página web - Documentos de marketing - Documentación del producto
 title: Informe Actividad de página Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Puede elegir mostrar personas conocidas o anónimas, pero no ambos tipos en el m
 >
 >**Buceo profundo**
 >
->Obtenga información sobre otros informes interesantes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Obtenga información sobre otros informes interesantes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
