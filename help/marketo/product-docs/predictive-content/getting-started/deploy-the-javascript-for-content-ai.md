@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: Implementar JavaScript para Content-AI - Marketo Docs - Documentación del producto
 title: Implementar JavaScript para Content-AI
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Para utilizar contenido predictivo, debe generar y configurar el RTP (Personaliz
 
    >[!NOTE]
    >
-   >Copie la etiqueta JavaScript de Personalización web y péguela como la primera secuencia de comandos en el encabezado de las páginas, entre las etiquetas `<head> </head>`. Consulte las [instrucciones de implementación más detalladas aquí](http://docs.marketo.com/display/docs/rtp+tag+implementation) [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Copie la etiqueta JavaScript de Personalización web y péguela como la primera secuencia de comandos en el encabezado de las páginas, entre las etiquetas `<head> </head>`. Consulte las [instrucciones de implementación más detalladas aquí](https://docs.marketo.com/display/docs/rtp+tag+implementation) [.](https://pages2.marketo.com/rtp-implementation.html)
 
 1. Compruebe que la etiqueta aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios. Marque esto haciendo clic con el botón derecho en su página `website’s`. Vaya a **Origen de página de Vista** en un explorador Web. Buscar: &quot;RTP&quot;.
 1. Confirme que el alternador de etiquetas está establecido en **ON**.
