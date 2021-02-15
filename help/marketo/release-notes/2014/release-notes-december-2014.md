@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Notas de la versión - Diciembre de 2014 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - diciembre de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Tres nuevas llamadas para la API de Lead &amp; Actividad ReST:
 
 ・ Combinar leads
 
-Los detalles completos estarán disponibles después de la versión en [developer.marketo.com](http://developers.marketo.com/)
+Los detalles completos estarán disponibles después de la versión en [developer.marketo.com](https://developers.marketo.com/)
 
 ## Mejoras en la compatibilidad de Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
