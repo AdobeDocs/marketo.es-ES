@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Introducción a Sales Connect - Documentos de marketing - Documentación del producto
 title: Introducción a Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Opcionalmente, también puede:
 
 ## Conectar la cuenta de Sales Connect con Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Para conectar su cuenta de Sales Connect a su cuenta de Salesforce, como administrador o como no administrador, siga los pasos descritos en [este artículo](http://docs.marketo.com/x/JwDb).
+Para conectar su cuenta de Sales Connect a su cuenta de Salesforce, como administrador o como no administrador, siga los pasos descritos en [este artículo](https://docs.marketo.com/x/JwDb).
 
 >[!NOTE]
 >
@@ -81,7 +81,7 @@ Tendrá que obtener un conjunto de credenciales desde Marketing. Estas credencia
 
    ![](assets/four.png)
 
-1. En Ajustes de administración, seleccione **Comercializar**.
+1. En Configuración de administración, seleccione **Comercializar**.
 
    ![](assets/eight.png)
 
@@ -93,7 +93,7 @@ Tendrá que obtener un conjunto de credenciales desde Marketing. Estas credencia
 
 Si algún usuario ya existe en su cuenta (anteriormente desde ToutApp), aparecerá en la ficha **Acceso al equipo** de la sección Comercialización de Sales Connect.
 
-Desde esta página puede aprovisionar su equipo como usuario de conexión de marketing para ventas. Si nunca ha utilizado ToutApp o aún no ha invitado a usuarios, siga los pasos de [este artículo](http://docs.marketo.com/display/TOUT/Invite+Team+Members).
+Desde esta página puede aprovisionar su equipo como usuario de conexión de marketing para ventas. Si nunca ha utilizado ToutApp o aún no ha invitado a usuarios, siga los pasos de [este artículo](https://docs.marketo.com/display/TOUT/Invite+Team+Members).
 
 >[!CAUTION]
 >
