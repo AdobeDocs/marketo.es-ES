@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: Crear una nueva Lista de cuenta - Documentos de marketing - Documentación del producto
 title: Crear una nueva Lista de cuenta
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
 
 >[!NOTE]
 >
->Este artículo se aplica únicamente a los clientes Web ABM heredados. Si adquirió Web ABM después de septiembre de 2016, siga los pasos de [este artículo](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) en su lugar.
+>Este artículo se aplica únicamente a los clientes Web ABM heredados. Si adquirió Web ABM después de septiembre de 2016, siga los pasos de [este artículo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) en su lugar.
 
 ## Crear una nueva Lista de cuenta {#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ El archivo CSV reemplazará al archivo existente. La lista existente permanecer�
 >[!MORELIKETHIS]
 >
 >* [Crear un segmento con una Lista de cuenta](create-a-segment-using-an-account-list.md)
->* [Vista de una Lista de cuenta con nombre](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [Vista de una Lista de cuenta con nombre](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
