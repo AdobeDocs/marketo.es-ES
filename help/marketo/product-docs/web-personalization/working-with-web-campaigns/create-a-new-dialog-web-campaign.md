@@ -3,7 +3,7 @@ unique-page-id: 4719398
 description: Crear una nueva Campaña web de cuadro de diálogo - Documentos de marketing - Documentación del producto
 title: Crear una nueva Campaña web de cuadro de diálogo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Mostrar en</strong></td> 
-   <td colspan="1">Permite <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
+   <td colspan="1">Permite <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Estilo de cuadro de diálogo</strong></td> 
@@ -87,7 +87,7 @@ Una campaña web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Color del encabezado</strong></td> 
-   <td colspan="1">Configure la barra de encabezado del cuadro de diálogo según el color que prefiera. El color se puede elegir de un gráfico de colores o introducir como código de color hexadecimal. </td> 
+   <td colspan="1">Defina la barra de encabezado del cuadro de diálogo según su color preferido. El color se puede elegir de un gráfico de colores o introducir como código de color hexadecimal. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Color de fondo del contenido </strong></td> 
