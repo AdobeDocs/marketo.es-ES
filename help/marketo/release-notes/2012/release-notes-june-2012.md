@@ -3,7 +3,7 @@ unique-page-id: 2951114
 description: Notas de la versión - Junio de 2012 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: junio de 2012'
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
+>Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Mejoras en la administración de posibles clientes de marketing {#marketo-lead-management-enhancements}
 
 ### Cambiar nombre {#rename}
 
-Puede cambiar el nombre de sus Listas inteligentes, listas estáticas y campañas. Si utiliza estos recursos en filtros, activadores o flujos, el nombre también se actualizará automáticamente en ellos. Siempre ha podido cambiar el nombre de sus correos electrónicos, formularios y carpetas.
+Puede cambiar el nombre de sus Listas inteligentes, listas estáticas y campañas. Si utiliza estos recursos en filtros, déclencheur o flujos, el nombre también se actualizará automáticamente en ellos. Siempre ha podido cambiar el nombre de sus correos electrónicos, formularios y carpetas.
 
 Y, además, hemos mejorado la introducción y visualización de texto descriptivo para los recursos.
 
