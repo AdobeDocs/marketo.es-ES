@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Notas de la versión - Primavera '17 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Primavera de 2017
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Haga clic en los vínculos de título para vista de artículos detallados para c
 
 [Los ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) formularios de generación de posibles clientes de LinkedIn son una forma más directa de que un negocio ejecute campañas de generación de posibles clientes en LinkedIn. Las personas pueden rellenar formularios para expresar interés en un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketing, donde pueden producirse procesos de seguimiento automáticos y actividades de enrutamientos de posibles clientes.
 
-La integración de Marketing Cloud con LinkedIn Lead Gen Forms captura automáticamente la información que un posible cliente proporciona en el formulario de generación de posibles clientes. Las acciones y notificaciones de seguimiento se pueden automatizar mediante el nuevo activador y filtro **Rellena el formulario de generación de posibles clientes de LinkedIn**.
+La integración de Marketing Cloud con LinkedIn Lead Gen Forms captura automáticamente la información que un posible cliente proporciona en el formulario de generación de posibles clientes. Las acciones y notificaciones de seguimiento se pueden automatizar mediante el nuevo déclencheur **Rellena el formulario de generación de posibles clientes de LinkedIn** y filtra.
 
 ![](assets/release-notes-image.png)
 
@@ -45,11 +45,11 @@ Transfiera fácilmente grandes cantidades de datos de persona y actividad de Mar
 
 Marketo ABM ahora le permite crear hasta 10 campos personalizados en sus cuentas con nombre. Puede asignar estos campos personalizados a los campos del objeto Cuenta de CRM y Marketo ABM sincronizará los datos, lo que le permitirá ampliar sus cuentas con nombre de ABM y ayudarle a dirigir su mercadotecnia.
 
-** [Puntuación del percentil en cuentas con nombre ABM](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)***
+** [Puntuación del percentil en cuentas con nombre ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)***
 
 Las puntuaciones de cuenta con nombre pueden variar considerablemente. Marketo ABM ahora calcula automáticamente un percentil para cada una de sus puntuaciones, de modo que puede ver de un vistazo dónde cada cuenta con nombre se clasifica entre las demás cuentas con nombre.
 
-** [API de Lista de cuentas ABM](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [API de Lista de cuentas ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Aproveche las integraciones de socios ABM sólidas y enriquecidas con la compatibilidad mejorada de API para Listas de cuentas con nombre.
 
