@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: Habilitar la barra de recomendaciones de contenido - Documentos de marketing - Documentación del producto
 title: Habilitar la barra de recomendaciones de contenido
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 >
 >Antes de habilitar el contenido predictivo, debe:
 >
->* [Preparación del contenido predictivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Preparación del contenido predictivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
    >**Incluir / Excluir dirección URL de visualización**
    >
    >    * La dirección URL de visualización debe ser la ruta del dominio
-   >    * No incluya http:// o https://
+   >    * No incluya https:// o https://
    >    * Utilice * para comodines
    * Utilizar un punto y coma como separador
    * Ejemplo: /contact_us*; *action=logout*
