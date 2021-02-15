@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: Creación de un analizador de Programas - Documentos de marketing - Documentación del producto
 title: Creación de un analizador de Programas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -79,4 +79,4 @@ Descubrir qué programas y canales le están dando el mayor impulso a su inversi
 
 >[!NOTE]
 >
->Obtenga más información en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) y [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Obtenga más información en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) y [Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
