@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: Configurar la anulación de la suscripción de los pies de página en la perspectiva de ventas de marketing - Documentos de marketing - Documentación del producto
 title: Configurar la anulación de la suscripción de los pies de página en la perspectiva de ventas de marketing
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Los correos electrónicos de ventas colocan automáticamente el pie de página d
 >
 >**Definición**
 >
->**Los** correos electrónicos de ventas son los enviados desde Sales Insight. (No incluye los enviados desde el complemento de Marketing to Outlook).
+>**Los** correos electrónicos de ventas son aquellos enviados desde Sales Insight (no incluyen los enviados desde el complemento de Marketing to Outlook).
 
 1. Vaya al área **Administración**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en **Perspectiva de ventas, **luego **Editar configuración**.
+1. Haga clic en **Perspectiva de ventas** y, a continuación, **Editar configuración**.
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ Los correos electrónicos de ventas colocan automáticamente el pie de página d
 
    ![](assets/three-1.png)
 
-   * **Sin plantilla **- Compuesta manualmente por un usuario de ventas.
+   * **Sin plantilla** : compuesta manualmente por un usuario de ventas.
    * **Correo electrónico**  estándar: correos electrónicos basados en una plantilla.
    * **Correo electrónico**  operativo: correos electrónicos que omiten los límites de comunicación, de marketing suspendido y de suscripción (se envían independientemente de qué).
 
@@ -45,12 +45,11 @@ Los correos electrónicos de ventas colocan automáticamente el pie de página d
 
    >[!CAUTION]
    >
-   >**Respetar la configuración de cancelación de suscripción: **los leads no suscritos NO recibirán el correo electrónico aunque el correo publicado esté &quot;operativo&quot;
+   >**Respetar configuración** de cancelación de suscripción: los leads no suscritos NO recibirán el correo electrónico aunque el correo electrónico publicado esté &quot;operativo&quot;
    >
-   >
-   >**Ignorar configuración de cancelación de suscripción:los leads** cancelados recibirán el correo electrónico
+   >**Ignorar configuración** de cancelación de suscripción: los leads no suscritos recibirán el correo electrónico
 
-   Realice los cambios que desee y haga clic en Guardar.
+1. Realice los cambios que desee y haga clic en **Guardar**.
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ Los correos electrónicos de ventas colocan automáticamente el pie de página d
    ![](assets/four-1.png)
 
 ¡Guau! Un poco complicado, pero bastante flexible, ¿verdad?
-
->[!NOTE]
->
->**Buceo profundo**
->
->Obtenga más información sobre [Perspectiva de ventas de marketing](http://docs.marketo.com/display/docs/marketo+sales+insight).
-
