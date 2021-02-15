@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Pasos de configuración - Documentos de marketing - Documentación del producto
 title: Pasos de configuración
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ Envíe el correo electrónico a TI. Entendemos que la TI puede tardar algún tie
    >
    >Estas plantillas personalizadas solo están disponibles para los clientes de Launch Pack.
 
-   Vaya al formulario [Diseño y generación de plantillas de marketing](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Complete la información de compañía.
+   Vaya al formulario [Diseño y generación de plantillas de marketing](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html). Complete la información de compañía.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
