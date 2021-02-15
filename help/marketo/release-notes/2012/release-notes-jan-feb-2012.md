@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: Notas de la versión - Ene/Feb 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Ene/Feb 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Las siguientes funciones se incluyen en la versión de enero y febrero. Comprueb
 >
 >**Buceo profundo**
 >
->Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
+>Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Contenido dinámico avanzado {#advanced-dynamic-content}
 
