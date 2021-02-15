@@ -3,7 +3,7 @@ unique-page-id: 2951101
 description: Notas de la versión - Marzo de 2013 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Marzo de 2013
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de la versión: Marzo de 2013 {#release-notes-march}
 
-Las siguientes funciones se incluyen en la versión de marzo. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
+Las siguientes funciones se incluyen en la versión de marzo. Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
 Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
