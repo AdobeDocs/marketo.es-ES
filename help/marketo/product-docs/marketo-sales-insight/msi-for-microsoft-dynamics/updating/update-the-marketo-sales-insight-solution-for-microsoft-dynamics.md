@@ -3,7 +3,7 @@ unique-page-id: 6849099
 description: Actualizar la solución de perspectiva de ventas de marketing para Microsoft Dynamics - Documentos de marketing - Documentación del producto
 title: Actualizar la solución de perspectiva de ventas de marketing para Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Cuando se lanza una nueva solución de Microsoft Dynamics para Sales Insight, pu
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
    ¡Increíble! Ahora se descargará en el dispositivo un archivo zip de la solución.
-
