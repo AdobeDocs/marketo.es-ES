@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Campos requeridos para sincronizar el marketing con Dynamics - Documentos de marketing - Documentación del producto
 title: Campos requeridos para sincronizar el marketing con Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Si falta alguno de estos campos, verá un mensaje de error en el menú de market
 
 A continuación se muestra cómo comprobar y agregar campos de sincronización.
 
-1. Vaya a Administración y haga clic en Microsoft Dynamics.
+1. Vaya a Administración y haga clic en **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Haga clic en Editar en detalles de sincronización de campo.
+1. Haga clic en **Editar** en Detalles de sincronización de campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ A continuación se muestra cómo comprobar y agregar campos de sincronización.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Haga clic en Guardar.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ A continuación se muestra cómo comprobar y agregar campos de sincronización.
 
 >[!MORELIKETHIS]
 >
->[Configuración de estrellas y llamas para registros de contacto/posibles clientes](http://docs.marketo.com/x/BICMAg)
-
+>[Configuración de estrellas y llamas para registros de contacto/posibles clientes](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
