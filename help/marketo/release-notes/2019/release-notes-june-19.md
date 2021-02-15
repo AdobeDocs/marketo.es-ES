@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Notas de la versión - Junio de 2019 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - 19 de junio
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 
 >[!CAUTION]
 >
->A partir del 18 de junio de 2019, Email 1.0 ya no estará disponible. Puede obtener más información sobre Email 2.0 y la obsolescencia de Email 1.0 [aquí](http://nation.marketo.com/docs/DOC-7038).
+>A partir del 18 de junio de 2019, Email 1.0 ya no estará disponible. Puede obtener más información sobre Email 2.0 y la obsolescencia de Email 1.0 [aquí](https://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
@@ -66,7 +66,7 @@ Conexión de ventas de marketing
 ## Bisible por el comerciante {#bizible-by-marketo}
 
 * **Compatibilidad con varias monedas para Dynamics**: Ahora, lo bisible se adapta a las tablas de moneda de Microsoft Dynamics para que pueda cambiar fácilmente entre las monedas corporativas y las locales. (Nota: La compatibilidad con SFDC se lanzó en el primer trimestre de 2019).
-* **Integración** de la derivación: Comprender el impacto de las conversaciones de deriva en el viaje del cliente. Bizsible también extraerá direcciones de correo electrónico de las conversaciones para crear un nuevo lead o conectar el touchpoint a un lead existente.
+* **Integración** de la derivación: Comprender el impacto que las conversaciones de deriva tienen en el recorrido del cliente. Bizsible también extraerá direcciones de correo electrónico de las conversaciones para crear un nuevo lead o conectar el touchpoint a un lead existente.
 * **Localización**: Bizbible ahora está disponible en todos los idiomas compatibles con el marketing (inglés, japonés, alemán, español, francés y portugués).
 
 ***Seminario*** web de lanzamiento de productosVea la grabación de nuestro seminario web sobre innovaciones de la versión del 19 de junio  [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
