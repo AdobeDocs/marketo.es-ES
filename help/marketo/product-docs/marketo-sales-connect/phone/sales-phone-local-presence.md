@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: Presencia local del teléfono de ventas - Documentos de marketing - Documentación del producto
 title: Presencia local del teléfono de ventas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ No, la presencia local solo funciona para llamadas salientes. El llamador no pue
 
 Oferta de todas las funcionalidades de teléfono de ventas sólo para llamadas en EE.UU.
 
-**El número de presencia local es siempre el mismo cuando llamo a un código de área? **
+**¿Es siempre el número de presencia local el mismo cuando llamo a un código de área?**
 
 Es probable que el número siempre sea el mismo cuando se llama a un código de área.
 
