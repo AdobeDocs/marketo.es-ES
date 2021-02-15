@@ -3,7 +3,7 @@ unique-page-id: 1146999
 description: Tokens para momentos interesantes - Documentos de marketing - Documentación del producto
 title: Tokens para momentos interesantes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Aprenda a utilizar el paso [Flujo de momento interesante](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Obtenga más información sobre [tokens](http://docs.marketo.com/display/docs/tokens).
+>* Obtenga más información sobre [tokens](https://docs.marketo.com/display/docs/tokens).
 
 >
 
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 Consulte [Información general de tokens](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
 
-## Tokens desencadenadores {#trigger-tokens}
+## Tokens de déclencheur {#trigger-tokens}
 
-Según el activador utilizado en una campaña inteligente, hay disponibles tokens de activador adicionales.
+En función del déclencheur utilizado en una campaña inteligente, hay disponibles tokens de Déclencheur adicionales.
 
-* `{{trigger.Trigger Name}}` que es siempre el activador mismo. Por ejemplo: Vínculo de clics en correo electrónico.
-* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Vínculo de clics en la página web es la dirección URL en sí, asunto de los activadores de Salesforce, etc.
-* Hay activadores adicionales disponibles en función de las restricciones, que se enumeran a continuación:
+* `{{trigger.Trigger Name}}` que es siempre el déclencheur mismo. Por ejemplo: Vínculo de clics en correo electrónico.
+* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Vínculo de clics en la página web es la propia dirección URL, sujeto de déclencheur de Salesforce, etc.
+* Existen déclencheur adicionales en función de las restricciones, que se enumeran a continuación:
 
 <table> 
  <colgroup> 
@@ -238,7 +238,7 @@ Según el activador utilizado en una campaña inteligente, hay disponibles token
 >
 >Si no tiene una marca de verificación ![(tic)](assets/check.svg), devolverá una cadena vacía (nada) en el momento interesante.
 
-*El activador **Visitas a la página Web** tiene algunos tokens adicionales:
+*El Déclencheur **Visitas a la página Web** tiene algunos tokens adicionales:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
