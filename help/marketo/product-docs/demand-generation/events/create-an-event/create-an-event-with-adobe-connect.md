@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Crear un Evento con Adobe Connect - Documentos de marketing - Documentación del producto
 title: Creación de un Evento con Adobe Connect
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ La sincronización con Adobe Connect le permite administrar el registro y la asi
 >* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-En primer lugar, asegúrese de haber creado la reunión o el seminario en Adobe Connect. Si necesita ayuda, consulte la [Guía del usuario de Adobe Connect](http://help.adobe.com/en_US/connect/9.0/using/index.html). Las reuniones y los seminarios que cree en Adobe Connect deben crearse en la carpeta especificada al introducir sus credenciales en Marketing. Después de crear la reunión o el seminario, tenga en cuenta cualquier información logística relevante (como el número de teléfono), para utilizarla en el correo electrónico de confirmación y en el archivo ICS.
+En primer lugar, asegúrese de haber creado la reunión o el seminario en Adobe Connect. Si necesita ayuda, consulte la [Guía del usuario de Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html). Las reuniones y los seminarios que cree en Adobe Connect deben crearse en la carpeta especificada al introducir sus credenciales en Marketing. Después de crear la reunión o el seminario, tenga en cuenta cualquier información logística relevante (como el número de teléfono), para utilizarla en el correo electrónico de confirmación y en el archivo ICS.
 
 >[!NOTE]
 >
