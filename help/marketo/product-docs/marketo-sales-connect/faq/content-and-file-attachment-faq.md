@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: Preguntas más frecuentes sobre el contenido y los archivos adjuntos - Documentos de marketing - Documentación del producto
 title: Preguntas más frecuentes sobre el contenido y los archivos adjuntos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Cualquier usuario que tenga la capacidad de crear plantillas puede cargar conten
 Los usuarios pueden crear sus propias plantillas y el equipo las puede organizar. Para ello, cree un equipo a través de la página Administración de equipos. A continuación, cuando su equipo vaya a compartir plantillas, libros de estrategias o grupos, solo podrán compartirlos con esos grupos, en lugar de con toda la suscripción de usuarios.
 
 El contenido se puede compartir en toda la organización.
-
