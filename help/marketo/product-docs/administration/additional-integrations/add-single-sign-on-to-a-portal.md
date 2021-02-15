@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: Añadir el inicio de sesión único en un portal - Documentos de marketing - Documentación del producto
 title: Añadir el inicio de sesión único en un portal
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Una vez activado el inicio de sesión único, el IdP puede validar las credencia
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
 * Enviar la solicitud de SSO, que es una respuesta de SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como URL de Audiencia del SP. Use [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Si utiliza el atributo SPNameQualifier, establezca el elemento NameID para Subject en [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Si va a federar varias suscripciones de Marketing to al mismo proveedor de SSO, puede utilizar direcciones URL de SP únicas para cada proveedor de Marketing con el formato `http://saml.marketo.com/sp/<munchkin_id>`
+* Como URL de Audiencia del SP. Use [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Si utiliza el atributo SPNameQualifier, establezca el elemento NameID para Subject en [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Si va a federar varias suscripciones de Marketing to al mismo proveedor de SSO, puede utilizar direcciones URL de SP únicas para cada proveedor de Marketing con el formato `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
