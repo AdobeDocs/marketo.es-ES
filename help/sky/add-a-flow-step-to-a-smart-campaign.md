@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-campaña
 description: Añadir un paso de flujo en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un gr
 
 **Buceo profundo**
 
-Obtenga más información sobre los diferentes [pasos de flujo](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Obtenga más información sobre los diferentes [pasos de flujo](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Haga clic en la lista desplegable y elija una opción adecuada.
 
