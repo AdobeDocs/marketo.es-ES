@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glosario de marketing - Documentos de marketing - Documentación del producto
 title: Glosario de marketing
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Glosario de marketing {#marketo-glossary}
 
-A continuación encontrará definiciones de muchos de los términos que puede encontrar al utilizar Marketing. Para solicitar que se agregue un término, por favor [envíenos un mensaje de correo electrónico](mailto:GRP-Marketo-articlefeedback@adobe.com).
+A continuación encontrará definiciones de muchos de los términos que puede encontrar al utilizar Marketing. Para solicitar la adición de un término, [envíenos un mensaje de correo electrónico](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 | **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -185,7 +185,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Restricción</strong></a></td> 
-   <td colspan="1">Una condición adicional que puede agregar a la lista inteligente <strong>filtros</strong>/<strong>desencadena </strong>para ayudar a reducir la búsqueda.</td> 
+   <td colspan="1">Una condición adicional que puede agregar a la lista inteligente <strong>filtros</strong>/<strong>déclencheur </strong>para ayudar a reducir la búsqueda.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Contenido</strong></td> 
@@ -376,7 +376,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>Filtro</strong></a></td> 
-   <td>Herramienta utilizada en <strong>listas inteligentes</strong> que le permite reducir la audiencia (por ejemplo: todos los usuarios de la base de datos que viven en California). Los filtros se pueden utilizar en <strong>Lote</strong> y <strong>campañas desencadenadoras</strong>.</td> 
+   <td>Herramienta utilizada en <strong>listas inteligentes</strong> que le permite reducir la audiencia (por ejemplo: todos los usuarios de la base de datos que viven en California). Se pueden utilizar filtros en <strong>campañas de Déclencheur</strong> y <strong> de lote</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Flujo</strong></td> 
@@ -456,7 +456,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona conocida</strong></a></td> 
-   <td><p>Cualquier dato de persona de la base de datos <strong>a1/&gt; de Marketing se considera información de persona conocida. </strong> Hay una variedad de formas para que alguien entre en la base de datos, entre las que se incluyen: Sincronización de CRM, cumplimentación de un formulario, importación de listas/entrada manual, programación (integraciones de socios/API de descanso), etc. Los visitantes Web se <strong>cookie</strong> (y son anónimos) por medio del seguimiento Web <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, cuando se hace clic en un vínculo rastreado en un mensaje de correo electrónico de Marketing, se rellena un formulario con su dirección de correo electrónico o se asignan manualmente a través de la API de Marketing para asociar posible cliente en <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> y <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">API de descanso</a></p></td> 
+   <td><p>Cualquier dato de persona de la base de datos <strong>a1/&gt; de Marketing se considera información de persona conocida. </strong> Hay una variedad de formas para que alguien entre en la base de datos, entre las que se incluyen: Sincronización de CRM, cumplimentación de un formulario, importación de listas/entrada manual, programación (integraciones de socios/API de descanso), etc. Los visitantes Web se <strong>cookie</strong> (y son anónimos) por medio del seguimiento Web <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, cuando se hace clic en un vínculo rastreado en un mensaje de correo electrónico de Marketing, se rellena un formulario con su dirección de correo electrónico o se asignan manualmente a través de la API de Marketing para asociar posible cliente en <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> y <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociateLeadUsingPOST">API de descanso</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -482,7 +482,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td><strong>Posible cliente</strong></td> 
-   <td>En <strong>Marketo Engage</strong>, el posible cliente es el término anterior (reemplazado por <strong>persona</strong>) utilizado para describir a un individuo en la <strong>base de datos</strong> de Marketing con el que está trabajando a través de sus campañas de mercadotecnia. En su <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, un individuo asociado con una <strong>oportunidad</strong>) independiente de la funcionalidad de Marketing.</td> 
+   <td>En <strong>Marketo Engage</strong>, el posible cliente es el término anterior (reemplazado por <strong>persona</strong>) utilizado para describir a un individuo en la <strong>base de datos</strong> de Marketing con el que interactúa a través de sus campañas de mercadotecnia. En su <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, un individuo asociado con una <strong>oportunidad</strong>) independiente de la funcionalidad de Marketing.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Base de datos de posibles clientes</strong></td> 
@@ -497,7 +497,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Recursos locales</strong></a></td> 
-   <td><strong>Se </strong> asimila dentro de un  <strong>programa</strong> específico.</td> 
+   <td><strong>Se </strong> utiliza dentro de un  <strong>programa</strong> específico.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td>También se conoce como MSD. Uno de los dos CRM Marketing tiene una integración nativa con (consulte <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Código de seguimiento personalizado de JavaScript de Marketing. Rastrea a todos los individuos que visitan el sitio web. Esto incluye visitantes anónimos (junto con sus direcciones IP y otra información). </td> 
   </tr> 
   <tr> 
@@ -759,8 +759,8 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1"><p>Mecanismo de autenticación que identifica los servidores de correo electrónico con permiso para enviar correo para un dominio específico.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campaña inteligente</strong></a></td> 
-   <td colspan="1">Una de las herramientas más importantes de Marketing. Realizan las acciones que usted designe según los criterios que usted determine. (consulte también <strong><a href="#b">Campaña por lotes</a></strong> y <strong><a href="#t">Campaña del activador</a></strong>)</td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campaña inteligente</strong></a></td> 
+   <td colspan="1">Una de las herramientas más importantes de Marketing. Realizan las acciones que usted designe según los criterios que usted determine. (consulte también <strong><a href="#b">Campaña por lotes</a></strong> y <strong><a href="#t">Campaña por Déclencheur</a></strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lista inteligente</strong></td> 
@@ -826,15 +826,15 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Columna de la izquierda en el menú de marketing que muestra los elementos de una estructura jerárquica. Muestra todo lo que hay en la instancia de Marketing (por ejemplo: <strong>espacios de trabajo</strong>, <strong>programas</strong>, <strong>recursos locales</strong>, etc.).</td> 
   </tr> 
   <tr> 
-   <td><strong>Activador</strong></td> 
-   <td>Actividad o evento que activa los <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">pasos de flujo de una campaña desencadenadora</a> cuando se produce dicho evento (por ejemplo, alguien visita una página web, hace clic en un vínculo de un correo electrónico, etc.). </td> 
+   <td><strong>Déclencheur</strong></td> 
+   <td>Actividad o evento que activa los <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">pasos de flujo de una campaña de déclencheur</a> cuando se produce dicho evento (por ejemplo, alguien visita una página web, hace clic en un vínculo de un correo electrónico, etc.). </td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Activar Campaña</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Campaña déclencheur</strong></a></p> 
     </div></td> 
-   <td>Una <strong>campaña inteligente</strong> que contiene al menos un activador.</td> 
+   <td>Una <strong>campaña inteligente</strong> que contiene al menos un déclencheur.</td> 
   </tr> 
  </tbody> 
 </table>
