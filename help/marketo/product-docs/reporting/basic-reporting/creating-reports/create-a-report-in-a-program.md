@@ -3,7 +3,7 @@ unique-page-id: 2359963
 description: Crear un informe en un Programa - Documentos de marketing - Documentación del producto
 title: Crear un informe en un Programa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
 
    >[!TIP]
    >
-   >Consulte [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview) para obtener una breve descripción de cada uno.
+   >Consulte [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para obtener una breve descripción de cada uno.
 
    Asigne un nombre al informe.
 
@@ -61,7 +61,7 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
    >**Buceo profundo**
    >
    >
-   >De forma predeterminada, los informes cubren toda la actividad de su cuenta, en todos los programas. Para conocer las muchas maneras de filtrar el informe, consulte la [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) buceo profundo.
+   >De forma predeterminada, los informes cubren toda la actividad de su cuenta, en todos los programas. Para conocer las muchas maneras de filtrar el informe, consulte la [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) buceo profundo.
 
    >[!NOTE]
    >
@@ -74,5 +74,5 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
    >
    >
    >
-   >Puede [cambiar un intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscribirse a un informe básico](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar un informe a Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) y [más](http://docs.marketo.com/display/docs/basic+reporting).
+   >Puede [cambiar un intervalo de tiempo del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscribirse a un informe básico](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar un informe a Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) y [más](https://docs.marketo.com/display/docs/basic+reporting).
 
