@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Informe Rendimiento de las personas - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de personas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ Puede:
 
 >[!TIP]
 >
->Recuerde que los informes son fáciles de [crear](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurar](http://docs.marketo.com/display/docs/basic+reporting) y [eliminar](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Adelante y juega con las muchas maneras en que puede manipularlas, para aprender las mejores maneras de centrarse en los datos clave.
+>Recuerde que los informes son fáciles de [crear](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [configurar](https://docs.marketo.com/display/docs/basic+reporting) y [eliminar](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Adelante y juega con las muchas maneras en que puede manipularlas, para aprender las mejores maneras de centrarse en los datos clave.
 
 >[!NOTE]
 >
 >**Buceo profundo**
 >
 >
->Obtenga más información en el [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting)buceo profundo.
+>Obtenga más información en el [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting)buceo profundo.
 
