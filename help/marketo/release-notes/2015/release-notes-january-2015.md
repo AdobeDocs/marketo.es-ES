@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Notas de la versión - Enero de 2015 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: enero de 2015'
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Tres nuevas llamadas para la API de Lead &amp; Actividad ReST:
 * Obtener posibles clientes por ID de Programa
 * Obtener posibles clientes eliminados
 
-Además, existe una nueva opción para sincronizar posible cliente, para escribir el cambio de posible cliente de forma asincrónica para una llamada de API más rápida. Los detalles completos estarán disponibles después de la versión en [developer.marketo.com](http://developers.marketo.com)
+Además, existe una nueva opción para sincronizar posible cliente, para escribir el cambio de posible cliente de forma asincrónica para una llamada de API más rápida. Los detalles completos estarán disponibles después de la versión en [developer.marketo.com](https://developers.marketo.com)
 
 **Compatibilidad con objetos personalizados de secuencias de comandos de correo electrónico**
 
@@ -59,13 +59,13 @@ Las mejoras en el módulo Cuentas con nombre mejorarán las tasas de coincidenci
 
 Opciones de etiqueta RTP actualizadas
 
-[Las opciones de ](http://docs.marketo.com/display/docs/rtp+tag+implementation) etiquetas RTP en Configuración de cuenta se han actualizado para incluir:
+[Las opciones de ](https://docs.marketo.com/display/docs/rtp+tag+implementation) etiquetas RTP en Configuración de cuenta se han actualizado para incluir:
 
 1. CDN y asincrónico (etiqueta recomendada)
 1. CDN y sincrónico (alta velocidad)
 1. Etiqueta asincrónica sin CDN
 1. Etiqueta sincrónica sin CDN
 
-Para un mejor rendimiento, se recomienda colocar la etiqueta en la parte superior del encabezado en la página web después de `<head>`. Todas las etiquetas permiten el uso de la [API de RTP](http://developers.marketo.com/documentation/websites/rtp-js-api/). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para un mejor rendimiento, se recomienda colocar la etiqueta en la parte superior del encabezado en la página web después de `<head>`. Todas las etiquetas permiten el uso de la [API de RTP](https://developers.marketo.com/documentation/websites/rtp-js-api/). Para obtener información sobre cómo implementar la etiqueta RTP, consulte [aquí](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
