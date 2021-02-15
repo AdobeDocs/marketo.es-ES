@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Notas de la versión - Winter '18 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ El contenido recomendado mediante los algoritmos de contenido optimizado`<sup>AI
 
 ## Integración {#integration}
 
-** [Activar/Desactivar API de Campaña](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Activar/Desactivar API de Campaña](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Esta nueva API le permite activar y desactivar de forma remota campañas de déclencheur, por lo que ahora puede crear plantillas de programa totalmente automatizadas. Cree una plantilla de programa una vez, luego automatice la clonación, las actualizaciones de material publicitario de marketing y ahora la activación/programación de campañas inteligentes.
 
@@ -94,7 +94,7 @@ Esta nueva API le permite activar y desactivar de forma remota campañas de déc
 
 **Cancelar suscripción**
 
-A partir del 1 de marzo de 2018, todos los correos electrónicos enviados desde [ToutApp.com](http://ToutApp.com) (y mediante el botón &quot;Correo electrónico con Tout&quot; en Salesforce) tendrán un vínculo de cancelación de suscripción anexado al final.
+A partir del 1 de marzo de 2018, todos los correos electrónicos enviados desde [ToutApp.com](https://ToutApp.com) (y mediante el botón &quot;Correo electrónico con Tout&quot; en Salesforce) tendrán un vínculo de cancelación de suscripción anexado al final.
 
 **Actualización de fuente en directo**
 
