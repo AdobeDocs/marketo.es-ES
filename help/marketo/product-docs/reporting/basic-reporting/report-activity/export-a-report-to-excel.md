@@ -3,7 +3,7 @@ unique-page-id: 2360020
 description: Exportar un informe a Excel - Documentos de marketing - Documentación del producto
 title: Exportar un informe a Excel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -40,5 +40,5 @@ Puede exportar cualquier informe a un archivo de Excel para trabajar con los dat
    >**Buceo profundo**
    >
    >
-   >Vea todas las demás cosas útiles que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Vea todas las demás cosas útiles que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
