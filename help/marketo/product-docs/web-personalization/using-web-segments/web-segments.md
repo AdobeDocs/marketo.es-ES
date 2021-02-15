@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmentos web - Documentos de marketing - Documentación del producto
 title: Segmentos Web
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Estos detalles incluyen:
 
 * Nombre del segmento
 * Fecha de creación del segmento
-* Las campañas asociadas que muestran las campañas que funcionan con el segmento. Al hacer clic en el número de reacciones, se abre la página de campañas que muestra la llamada a acción de Campaña para el segmento
+* Las campañas asociadas que muestran las campañas que funcionan con el segmento. Al hacer clic en el número de reacciones, se abre la página campañas que muestra la llamada a acción de Campaña para el segmento
 * El número de coincidencias (cantidad de visitantes que cumplen los criterios del segmento) para el segmento y el número de visitantes distintos (únicos) que coincidieron con el segmento. Al hacer clic en el vínculo de visitante único se accede a la página del visitante que muestra los resultados del segmento
 * Creador propietario/usuario del segmento
 * Los sitios de dominio asociados con el segmento
@@ -108,23 +108,27 @@ Defina los parámetros generales del segmento:
 >1. Usar todos los Filtros (1 y 2 y 3...)
 >1. Usar cualquier Filtros (1, 2 o 3...)
 >1. Filtros avanzados (uso y/o expresiones)
->
->    Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
->
->    * 1 y 2 y 3
->    * 1 o 2 o 3
->
->    La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
->
->    * 1 y (2 o 3)
->    * (1 y 2) o 3
->
->    Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
->
->    * (1 y 2) o (3 y 4)
->    * 1 y (2 o (3 y 4)
->
->    Compruebe la lógica después de insertar, eliminar o reordenar.
+
+   >
+   >    
+   Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
+   >
+   >    
+   * 1 y 2 y 3
+   >    * 1 o 2 o 3
+
+   >
+   La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
+
+   * 1 y (2 o 3)
+   * (1 y 2) o 3
+
+   Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
+
+   * (1 y 2) o (3 y 4)
+   * 1 y (2 o (3 y 4)
+
+   Compruebe la lógica después de insertar, eliminar o reordenar.
 
 
 
@@ -192,7 +196,7 @@ Seleccione una [Lista de cuenta con nombre](../../../product-docs/web-personaliz
 
 >[!NOTE]
 >
->El número entre corchetes junto al nombre de la Lista de cuenta con nombre se utiliza como referencia de índice para la lista de la API de lectura [de personalización de Web](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>El número entre corchetes junto al nombre de la Lista de cuenta con nombre se utiliza como referencia de índice para la lista de la API de lectura [de personalización de Web](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **Excluir ISP**
 
@@ -286,17 +290,17 @@ Visitante de destinatario que utiliza tipos y/o versiones de explorador específ
 
 ### API {#api}
 
-**Eventos**  de datos: visitantes de segmentos que activan Eventos de datos personalizados específicos
+**Eventos**  de datos: visitantes de segmentos que déclencheur Eventos de datos personalizados específicos
 
 Añada el valor de Evento que desee destinatario. Por ejemplo, de fuentes de datos de terceros.
 
 **API de contexto de usuario**
 
-Llamada de API de personalización web [lea más aquí.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Llamada de API de personalización web [lea más aquí.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Uso de comodines:** cuando desee incluir cualquier término de búsqueda o dirección URL que contenga algo dentro de él, por ejemplo: &quot;[google.com](http://google.com)&quot; o &quot;search term product&quot;, llamamos a esto comodín y debería introducirse con un asterisco - este pequeño tipo* - en cada extremo. Así que todo lo que venga de [google.com](http://google.com) debe introducirse como * [google.com](http://google.com)*
+>**Uso de comodines:** cuando desee incluir cualquier término de búsqueda o dirección URL que contenga algo dentro de él, por ejemplo: &quot;[google.com](https://google.com)&quot; o &quot;search term product&quot;, llamamos a esto comodín y debería introducirse con un asterisco - este pequeño tipo* - en cada extremo. Así que todo lo que venga de [google.com](https://google.com) debe introducirse como * [google.com](https://google.com)*
 
 ## Editar segmentos {#edit-segments}
 
