@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Notas de la versión - Mayo de 2014 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: mayo de 2014'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Ahora todo el mundo tiene múltiples programas, flujos y límites de comunicaci�
 >
 >**Ejemplo**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 De forma predeterminada, no se rastreará ningún vínculo en la versión de texto de los correos electrónicos. Añada esta nueva sintaxis para indicar cuándo se debe convertir un vínculo en un vínculo de seguimiento. El comportamiento de los vínculos HTML no cambia.  Para agregar vínculos rastreados a sus correos electrónicos:
 
@@ -85,5 +85,5 @@ El Modelador de ciclos de ingresos y el Analizador de rutas de éxito ahora se i
 
 >[!NOTE]
 >
->Consulte las [Notas de la versión de Marketing to](http://docs.marketo.com/display/docs/release+notes) anteriores
+>Consulte las [Notas de la versión de Marketing to](https://docs.marketo.com/display/docs/release+notes) anteriores
 
