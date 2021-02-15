@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: Notas de la versión - Marzo de 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Marzo de 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
+>Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 >
 >## Resolver mis tokens {#resolve-my-tokens}>
 
@@ -37,7 +37,7 @@ Vista previa al editor:
 
 ## Vista previa de fragmentos {#snippet-previewer}
 
-Si selecciona &quot;Fragmento de Previsualización&quot; en el menú, podrá realizar la vista de un fragmento sin convertirlo en borrador.Además, si tiene acceso de solo lectura a un fragmento compartido (a través de espacios de trabajo), puede realizar la vista del fragmento con esta acción
+Si selecciona &quot;Fragmento de Previsualización&quot; en el menú, podrá realizar la vista de un fragmento sin convertirlo en borrador.Además, si tiene acceso de solo lectura a un fragmento compartido (a través de espacios de trabajo), puede vista del fragmento con esta acción
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 
