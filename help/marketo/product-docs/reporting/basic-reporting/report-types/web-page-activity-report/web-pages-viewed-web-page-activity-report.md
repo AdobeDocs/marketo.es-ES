@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: Páginas Web vistas, Informe Actividad de página Web - Documentos de marketing - Documentación del producto
 title: Páginas Web vistas, informe Actividad de página Web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Desde un [informe de Actividad de página Web](../../../../../product-docs/repor
    >**Buceo profundo**
    >
    >
-   >¡Haz más con los informes! Consulte el [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) buceo profundo.
+   >¡Haz más con los informes! Consulte el [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) buceo profundo.
 
