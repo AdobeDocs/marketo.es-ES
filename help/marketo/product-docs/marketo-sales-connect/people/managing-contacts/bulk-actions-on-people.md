@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: Acciones masivas en personas - Documentos de marketing - Documentación del producto
 title: Acciones masivas en personas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Asignamos automáticamente una fuente a cada contacto que entre en la base de da
 
 ## Autorización {#authorization}
 
-De conformidad con [GDPR](http://eugdpr.org/), utilice la autorización para indicar cómo recibió el permiso para participar en estos contactos.
+De conformidad con [GDPR](https://eugdpr.org/), utilice la autorización para indicar cómo recibió el permiso para participar en estos contactos.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ Realice una cancelación masiva de la suscripción a los contactos que ya no des
 
 ## Eliminar {#delete}
 
-Eliminar contactos de forma masiva. Se pueden encontrar pasos completos [aquí](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
+Eliminar contactos de forma masiva. Se pueden encontrar pasos completos [aquí](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
-
