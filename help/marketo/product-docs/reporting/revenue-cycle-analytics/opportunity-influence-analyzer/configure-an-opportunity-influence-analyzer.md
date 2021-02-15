@@ -3,7 +3,7 @@ unique-page-id: 2360240
 description: Configurar un analizador de influencia de oportunidades - Documentos de marketing - Documentación del producto
 title: Configurar un analizador de influencia de oportunidades
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Una vez que [cree un Analizador de influencia de oportunidad](create-an-opportun
 
 >[!NOTE]
 >
->Para otros analizadores, consulte [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Para otros analizadores, consulte [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
 >[!MORELIKETHIS]
 >
