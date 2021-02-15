@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: Página de perspectiva de ventas para administradores de marketing - Documentos de marketing - Documentación del producto
 title: Página de perspectiva de ventas para administradores de mercadotecnia
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Puede optar por eliminar las credenciales de API de Rest en SFDC y utilizar solo
 
 ## Configuración de puntuación de persona {#person-score-settings}
 
-| **Estrellas:** | Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes. |
-|---|---|
-| **Flames:** | Las llamas representan una urgencia: cuánto ha cambiado recientemente la puntuación de un posible cliente. |
+* **Estrellas**: Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes.
+* **Flames**: Las llamas representan una urgencia: cuánto ha cambiado recientemente la puntuación de un posible cliente.
 
 De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de posible cliente para calcular estrellas y llamas. Pero si quieres elegir un campo diferente, así es como:
 
@@ -61,19 +60,17 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
 
    >[!TIP]
    >
-   >Si aún no tiene los campos de puntuación personalizados, puede [crearlos](http://docs.marketo.com/x/3wMk).
+   >Si aún no tiene los campos de puntuación personalizados, puede [crearlos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Estrellas y llamas](http://docs.marketo.com/x/qgU6Ag)
+   >[Estrellas y llamas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Configuración {#settings}
 
 ![](assets/nine.png)
 
-**Cancelar suscripción de configuración: **
+**Cancelar suscripción de configuración:**
 
 Puede elegir entre los siguientes ajustes de cancelación de suscripción para Sin plantilla, Correos electrónicos estándar y Correos electrónicos operativos
 
@@ -82,10 +79,10 @@ Puede elegir entre los siguientes ajustes de cancelación de suscripción para S
 * Respetar la configuración de cancelación de suscripción cuando más de 5 destinatarios
 * Ignorar configuración de cancelación de suscripción
 
-**Activar la capacidad de bloquear plantillas: **
+**Habilitar la capacidad de bloquear plantillas:**
 
 Cuando se habilita, los usuarios de MSI no podrán editar plantillas al enviar correos electrónicos desde Salesforce
 
 **Habilitar fuente RSS:**
 
-Cuando está habilitada, los usuarios de MSI pueden vista de su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes en Salesforce)**.**
+Cuando está habilitada, los usuarios de MSI pueden vista su fuente de posibles clientes en una fuente RSS (además de la fuente de posibles clientes en Salesforce).
