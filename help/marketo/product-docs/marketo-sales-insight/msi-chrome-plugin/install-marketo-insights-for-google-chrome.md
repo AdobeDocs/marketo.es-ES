@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Instalación de Marketo Insights para Google Chrome - Marketo Docs - Documentación del producto
 title: Instalación de perspectivas de marketing para Google Chrome
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Haga clic con el botón derecho en el logotipo de marketing en Chrome y seleccione** Opciones**.
+1. Haga clic con el botón derecho en el logotipo de marketing en Chrome y seleccione **Opciones**.
 
    ![](assets/two.png)
 
@@ -37,13 +37,12 @@ Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
 
    >[!NOTE]
    >
-   >El código Reg estará en el mensaje de correo electrónico enviado después de que un administrador de marketing [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [le envíe una licencia de Añada de correo electrónico de Marketing](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Expira después de 14 días.**
+   >El código Reg estará en el correo electrónico enviado después de que un administrador de marketing [le emita una licencia de Añada de correo electrónico de Marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **expira después de 14 días**.
 
-1. Haga clic en** Permitir **para permitir el acceso sin conexión.
+1. Haga clic en **Permitir** para permitir el acceso sin conexión.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[Uso de perspectivas de marketing para Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Uso de perspectivas de marketing para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
