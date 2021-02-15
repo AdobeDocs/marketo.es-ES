@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics 2011 - Documentos de marketing - Documentación del producto
 title: Instalar y configurar MarketingTo Sales Insight en Microsoft Dynamics 2011
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
 >[!PREREQUISITES]
 >
->Complete la integración [de Marketing a Microsoft](http://docs.marketo.com/x/DoA2).
+>Complete la integración de Marketing con Microsoft.
 >
->[Descargue la ](http://docs.marketo.com/x/LoJo) solución correcta para su versión de Microsoft Dynamics CRM.
+>[Descargue la ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) solución correcta para su versión de Microsoft Dynamics CRM.
 
 ## Importar solución {#import-solution}
 
@@ -37,12 +37,9 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
-   >Ya debe tener [instalado y configurado](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) la solución de Marketing para avanzar.
+   >Ya debe tener [instalado y configurado](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) la solución de Marketing para avanzar.
 
-1. Haga clic en **Examinar**. Seleccione la solución de perspectiva de ventas de marketing que [descargó](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Haga clic en **Siguiente**.
+1. Haga clic en **Examinar**. Seleccione la solución de perspectiva de ventas de marketing que [descargó](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Haga clic en **Siguiente**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -80,11 +77,11 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. En la sección **Perspectiva de ventas **haga clic en **Editar configuración de API**.
+1. En la sección **Perspectiva de ventas** haga clic en **Editar configuración de API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copie el **host de marketing**, **URL de API** y el **ID de usuario de API** para usarlos en un paso posterior. Escriba una **Clave secreta de API** de su elección y haga clic en **GUARDAR**.
+1. Copie el **host de marketing**, **URL de API** y el **ID de usuario de API** para usarlos en un paso posterior. Escriba una **Clave secreta de API** de su elección y haga clic en **Guardar**.
 
    >[!CAUTION]
    >
@@ -94,17 +91,14 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    >[!NOTE]
    >
-   >Los siguientes campos deben sincronizarse con Marketing para *Posible cliente y Contacto* para que Sales Insight funcione:
+   >Los siguientes campos deben sincronizarse con Marketing para _Posible cliente y Contacto_ para que Sales Insight funcione:
    >
-   >    
-   >    
-   >    * Prioridad
-   >    * Urgencia
-   >    * Puntuación relativa
+   >* Prioridad
+   >* Urgencia
+   >* Puntuación relativa
 
-   >    
-   >    
-   >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >
+   >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. Vuelva a Dynamics, seleccione **Configuración**.
 
@@ -122,11 +116,9 @@ La perspectiva de ventas de marketing es una herramienta fantástica para su equ
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Haga clic en **Guardar.**
+1. Haga clic en **Guardar**.
 
-   ** ![](assets/image2015-5-4-11-3a28-3a13.png)
-
-   **
+   ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Establecer acceso de usuario {#set-user-access}
 
@@ -160,5 +152,4 @@ Configure las funciones de usuario para que los usuarios específicos tengan acc
 
 >[!MORELIKETHIS]
 >
->[Configuración de estrellas y llamas para registros de contacto/posibles clientes](http://docs.marketo.com/x/BICMAg)
-
+>[Configuración de estrellas y llamas para registros de contacto/posibles clientes](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
