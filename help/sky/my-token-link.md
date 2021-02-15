@@ -2,7 +2,7 @@
 title: my-token-link
 description: Mi vínculo de token
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -37,7 +37,7 @@ A continuación se muestra cómo configurar un token de vínculo para utilizarlo
 
    >[!NOTE]
    >
-   >Si la opción Incluir mkt_tok está activada, Marketo muestra una previsualización de vínculo del dominio de seguimiento de marca (por ejemplo: http://mkto-sjqe3355.com/mn/...). Si desactiva esta casilla de verificación, se cambia el vínculo. Si desactiva el seguimiento de vínculos para correos electrónicos o páginas de aterrizaje, >la dirección URL se acortará a su longitud básica (por ejemplo, www.examplepage.com).
+   >Si la opción Incluir mkt_tok está activada, Marketo muestra una previsualización de vínculo del dominio de seguimiento de marca (por ejemplo: https://mkto-sjqe3355.com/mn/...). Si desactiva esta casilla de verificación, se cambia el vínculo. Si desactiva el seguimiento de vínculos para correos electrónicos o páginas de aterrizaje, >la dirección URL se acortará a su longitud básica (por ejemplo, www.examplepage.com).
 
 1. Opcionalmente, en [!UICONTROL Avanzado], puede personalizar el vínculo mediante CSS. Haga clic en **[!UICONTROL Guardar]**.
 
