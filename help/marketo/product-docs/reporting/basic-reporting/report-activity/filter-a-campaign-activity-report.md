@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Filtrar un informe de Actividad de Campañas - Documentos de marketing - Documentación del producto
 title: Filtrar un informe de Actividad de Campaña
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar un informe de Actividad de Campaña {#filter-a-campaign-activity-report}
 
-Centre su [informe de Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)en campañas [inteligentes](http://docs.marketo.com/display/docs/smart+campaigns) específicas.
+Centre su [informe de Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)en campañas [inteligentes](https://docs.marketo.com/display/docs/smart+campaigns) específicas.
 
 1. Vaya a **Actividades de marketing** (o **Analytics**) y seleccione su informe de actividad de campaña.
 
@@ -47,5 +47,5 @@ Centre su [informe de Actividad de Campaña](../../../../product-docs/reporting/
 >
 >**Buceo profundo**
 >
->Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+>Obtenga información sobre los informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
