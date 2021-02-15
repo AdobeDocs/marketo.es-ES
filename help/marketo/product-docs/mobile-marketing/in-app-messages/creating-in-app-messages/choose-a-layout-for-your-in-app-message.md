@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: Elija un diseño para el mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Elija un diseño para el mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Ahora que conoce las plantillas, es hora de elegir una cuando [cree sus imágene
 
 >[!MORELIKETHIS]
 >
->* [Crear un mensaje en la aplicación](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Crear un mensaje en la aplicación](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
