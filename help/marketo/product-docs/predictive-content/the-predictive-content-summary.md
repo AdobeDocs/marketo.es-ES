@@ -3,7 +3,7 @@ unique-page-id: 11384634
 description: Resumen de contenido predictivo - Documentos de marketing - Documentación del producto
 title: Resumen de contenido predictivo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -55,8 +55,8 @@ Compare cómo sus vistas de todo el contenido coinciden con el contenido predict
 
 >[!MORELIKETHIS]
 >
->* [Uso de todo el contenido](http://docs.marketo.com/display/docs/working+with+all+content)
->* [Uso de contenido predictivo](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [Uso de todo el contenido](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [Uso de contenido predictivo](https://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
