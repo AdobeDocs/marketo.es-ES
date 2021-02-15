@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: Prioridad del pedido de segmentación - Documentos de marketing - Documentación del producto
 title: Prioridad del orden de segmentación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
 
 
 
-Genial, ¿eh? Puede utilizar segmentos para contenido dinámico, [sistema de informes](http://docs.marketo.com/display/docs/basic+reporting) e incluso en [listas inteligentes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Genial, ¿eh? Puede utilizar segmentos para contenido dinámico, [sistema de informes](https://docs.marketo.com/display/docs/basic+reporting) e incluso en [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
