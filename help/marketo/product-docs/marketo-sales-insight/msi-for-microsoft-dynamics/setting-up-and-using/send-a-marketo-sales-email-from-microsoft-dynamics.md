@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Enviar un mensaje de correo electrónico de ventas de marketing desde Microsoft Dynamics - Documentos de marketing - Documentación del producto
 title: Envío de un correo electrónico de ventas de marketing desde Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ El equipo de ventas puede enviar correos electrónicos y hacer que se rastreen p
 
    >[!TIP]
    >
-   >Puede [publicar correos electrónicos como plantillas](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que lo utilice su equipo de ventas.
+   >Puede [publicar correos electrónicos como plantillas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para que lo utilice su equipo de ventas.
 
 1. Añada un asunto, redacte su correo electrónico y haga clic en **Enviar correo electrónico**. (Elija una plantilla si necesita una).
 
@@ -45,9 +45,4 @@ El equipo de ventas puede enviar correos electrónicos y hacer que se rastreen p
 
 >[!MORELIKETHIS]
 >
->* [Añadir un posible cliente o contacto a una Campaña de marketing de Microsoft Dynamics](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[Añadir un posible cliente o contacto a una Campaña de marketing de Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
