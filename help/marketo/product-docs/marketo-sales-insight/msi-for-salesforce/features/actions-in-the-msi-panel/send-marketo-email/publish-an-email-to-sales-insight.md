@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Publicación de un mensaje de correo electrónico para la perspectiva de ventas - Documentos de marketing - Documentación del producto
 title: Publicar un mensaje de correo electrónico en Sales Insight
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Habilite la configuración de Publicar en perspectiva de ventas para que un corr
 
 >[!NOTE]
 >
->[Mis ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) tokens no se resolverán al enviar un correo electrónico desde Sales Insight en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, Compañía, etc.). Sin embargo, los valores predeterminados para los tokens funcionarán.
+>[Mis ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) tokens no se resolverán al enviar un correo electrónico desde Sales Insight en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, Compañía, etc.). Sin embargo, los valores predeterminados para los tokens funcionarán.
 
 >[!TIP]
 >
->No olvide aprobar este correo electrónico para que los cambios surtan efecto. Obtenga información sobre cómo [aprobar un correo electrónico](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>No olvide aprobar este correo electrónico para que los cambios surtan efecto. Obtenga información sobre cómo [aprobar un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
