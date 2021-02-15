@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: Notas de la versión - Mayo de 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Mayo de 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Buceo profundo**
 >
->Para otras versiones, consulte la sección [Notas de la versión](http://docs.marketo.com/display/docs/release+notes) profunda.
+>Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Rediseño del informe Rendimiento del correo electrónico {#email-performance-report-redesign}
 
