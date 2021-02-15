@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Actualizaciones de la terminología de marketing - Documentos de marketing - Documentación del producto
 title: Actualizaciones de la terminología de marketing
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes:
 
-| ** [Personalización Web](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
+| ** [Personalización Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
 |---|---|
-| ** [Marketing web basado en cuentas](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accesible a través del mosaico de Personalización web |
-| ** [Retargeting personalizado](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accesible a través del mosaico de Personalización web |
-| ** [Contenido predictivo](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Tiene su propio mosaico en la pantalla de inicio |
+| ** [Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accesible a través del mosaico de Personalización web |
+| ** [Retargeting personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accesible a través del mosaico de Personalización web |
+| ** [Contenido predictivo](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Tiene su propio mosaico en la pantalla de inicio |
 
 >[!NOTE]
 >
