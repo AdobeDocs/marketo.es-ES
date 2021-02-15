@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Glosario de personalización de la Web - Documentos de marketing - Documentación del producto
 title: Glosario de personalización de Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Algunas perspectivas sobre el mundo y el idioma de la Personalización Web de Ma
 
 A continuación se indican tres formas de utilizar un comodín en Personalización web.
 
-Coincida con todos los visitantes de las direcciones URL de la página que finalizan con los precios (por ejemplo, [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Coincida con todos los visitantes de las direcciones URL de la página que finalizan con los precios (por ejemplo, [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
