@@ -3,9 +3,9 @@ unique-page-id: 2953342
 description: Añadir un posible cliente/contacto a una Campaña de marketing desde Microsoft Dynamics - Documentos de marketing - Documentación del producto
 title: Añadir un posible cliente o contacto a una Campaña de marketing de Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Puede agregar rápida y fácilmente leads/contactos a campañas inteligentes de 
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Haga clic**...** y seleccione **Añadir a la Campaña de marketing**.
+1. Haga clic en **...** y seleccione **Añadir a la Campaña de Marketing**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ Puede agregar rápida y fácilmente leads/contactos a campañas inteligentes de 
 
    >[!NOTE]
    >
-   >Para que la campaña aparezca en la lista desplegable, utilice el activador [**Campaña solicitada**](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), con perspectiva de ventas como origen, cuando configure la campaña.
+   >Para que la campaña aparezca en la lista desplegable, utilice el déclencheur [**Campaña se solicita**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con perspectiva de ventas como origen, cuando configure la campaña.
 
 ¡Y eso es todo amigos! Ahora tiene el poder de las campañas inteligentes de Marketing to en sus manos directamente desde Dynamics.
