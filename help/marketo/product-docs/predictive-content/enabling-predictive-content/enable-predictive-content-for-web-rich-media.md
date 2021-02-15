@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Habilitar contenido predictivo para medios enriquecidos en la Web - Documentos de marketing - Documentación del producto
 title: Habilitar contenido predictivo para medios enriquecidos por Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ El contenido predictivo atrae a los visitantes web con el contenido más relevan
 >
 >Antes de habilitar el contenido predictivo, debe:
 >
->* [Preparación del contenido predictivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Preparación del contenido predictivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ Una vez que haya preparado el título, la descripción y la imagen del contenido
 
 ## Personalice el código Javascript e introdúzcalo en su sitio Web {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte la documentación de la plantilla de recomendación de medios enriquecidos [en el sitio Desarrolladores de marketing.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Esto explica cómo personalizar la plantilla para el sitio web.
+Consulte la documentación de la plantilla de recomendación de medios enriquecidos [en el sitio Desarrolladores de marketing.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Esto explica cómo personalizar la plantilla para el sitio web.
 
 Pegue el código JavaScript en el sitio web en la ubicación donde desee que aparezca la plantilla.
 
@@ -62,5 +62,5 @@ Este es un ejemplo de la plantilla de recomendación de medios enriquecidos2:
 >[!MORELIKETHIS]
 >
 >* [Habilitar la barra de recomendaciones de contenido](enable-the-content-recommendation-bar.md)
->* [Habilitar contenido predictivo en correos electrónicos](http://docs.marketo.com/x/vLit)
+>* [Habilitar contenido predictivo en correos electrónicos](https://docs.marketo.com/x/vLit)
 
