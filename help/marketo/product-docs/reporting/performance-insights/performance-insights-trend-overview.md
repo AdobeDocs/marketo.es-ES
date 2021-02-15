@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: Información general sobre tendencias de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Información general de tendencia de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Haga clic en la ficha **Tendencia** para acceder a esta vista.
 
 ![](assets/2-1.png)
 
-Seleccione la métrica por la que desee realizar la vista del rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [Primer toque](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Seleccione la métrica por la que desee realizar la vista del rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [Primer toque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 ![](assets/3-2.png)
 
