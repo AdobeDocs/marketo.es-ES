@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: Configurar el tamaño del informe - Documentos de marketing - Documentación del producto
 title: Configurar el tamaño del informe
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -47,5 +47,5 @@ De forma predeterminada, los informes de marketing están limitados a un máximo
    >
    >Ahora puede [exportar el informe](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) con el nuevo límite.
 
-   Vea más formas de configurar sus informes en la [curva profunda del ](http://docs.marketo.com/display/docs/basic+reporting) Sistema de informes básico.
+   Vea más formas de configurar sus informes en la [curva profunda del ](https://docs.marketo.com/display/docs/basic+reporting) Sistema de informes básico.
 
