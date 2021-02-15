@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: Informe Personas por estado - Documentos de marketing - Documentación del producto
 title: Informe Personas por estado
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Revise la eficacia con la que está moviendo a las personas a través del proces
    >**Buceo profundo**
    >
    >
-   >Obtenga información sobre cómo agregar columnas y más en el subárbol [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) profundo.
+   >Obtenga información sobre cómo agregar columnas y más en el subárbol [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) profundo.
 
