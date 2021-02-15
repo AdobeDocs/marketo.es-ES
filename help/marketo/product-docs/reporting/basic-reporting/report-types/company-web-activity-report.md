@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: Informe de Actividad web de compañía - Documentos de marketing - Documentación del producto
 title: Informe Actividad Web de compañía
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Cree un [informe de Actividad de página Web](web-page-activity-report.md) para 
 >
 >**Buceo profundo**
 >
->Obtenga información sobre otros informes interesantes en el subárbol de [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) profundidad.
+>Obtenga información sobre otros informes interesantes en el subárbol de [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) profundidad.
