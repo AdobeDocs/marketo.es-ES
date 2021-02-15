@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Notas de la versión - Winter '16 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -49,13 +49,13 @@ Para utilizar esta función, el programa de correo electrónico debe programarse
 
 ## [Mejoras en la mercadotecnia móvil](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Compatibilidad con PhoneGap: ahora** se oferta la compatibilidad con PhoneGap para su aplicación móvil. [Más información](http://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Compatibilidad con PhoneGap: ahora** se oferta la compatibilidad con PhoneGap para su aplicación móvil. [Más información](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Compatibilidad con las aplicaciones** de Simulador para pruebas:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API de programa](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [API de programa](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Crear, actualizar y clonar programas mediante la API de REST. Esto no incluye la creación o actualización de listas inteligentes y campañas inteligentes dentro de un programa.
 
@@ -77,7 +77,7 @@ Ahora puede crear relaciones de varios a varios entre posibles clientes y cuenta
 
 ## [Publicidades de posibles clientes de Facebook](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Los líderes de Facebook ](https://www.facebook.com/business/a/lead-ads) admiten una manera más directa de que un negocio dirija campañas de generación de posibles clientes en Facebook. Las personas rellenan un formulario para expresar interés en un producto o servicio, de modo que la empresa pueda seguir su ejemplo. La integración de Marketing to con Publicidades de posibles clientes de Facebook captura automáticamente la información que proporciona un posible cliente en el formulario de publicidad de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo activador Rellenar publicidades de posibles clientes de Facebook.
+[Los líderes de Facebook ](https://www.facebook.com/business/a/lead-ads) admiten una manera más directa de que un negocio dirija campañas de generación de posibles clientes en Facebook. Las personas rellenan un formulario para expresar interés en un producto o servicio, de modo que la empresa pueda seguir su ejemplo. La integración de Marketing to con Publicidades de posibles clientes de Facebook captura automáticamente la información que proporciona un posible cliente en el formulario de publicidad de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo déclencheur de posibles clientes de Facebook de relleno.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
