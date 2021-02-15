@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Seguimiento de personas y Actividades anónimas - Documentos de marketing - Documentación del producto
 title: Seguimiento de personas y Actividades anónimas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ La primera vez que alguien visita una [página de aterrizaje](../../../../produc
    Una actividad anónima se combina en una persona nueva o existente cuando alguien:
 
    * Hace clic en un vínculo [en un mensaje de correo electrónico de Marketing](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Rellena un formulario [de Marketing](http://docs.marketo.com/display/docs/forms).
-   * Utiliza la API [REST](http://developers.marketo.com/rest-api/lead-database/leads/) o [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) de Marketing para asociar una actividad anónima con un registro conocido.
+   * Rellena un formulario [de Marketing](https://docs.marketo.com/display/docs/forms).
+   * Utiliza la API [REST](https://developers.marketo.com/rest-api/lead-database/leads/) o [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) de Marketing para asociar una actividad anónima con un registro conocido.
 
    Un nombre de la base de datos puede estar vinculado a muchas cookies porque las personas suelen utilizar distintos dispositivos y exploradores para visitar el sitio.
 
@@ -50,5 +50,5 @@ La primera vez que alguien visita una [página de aterrizaje](../../../../produc
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Obtenga más información sobre [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
