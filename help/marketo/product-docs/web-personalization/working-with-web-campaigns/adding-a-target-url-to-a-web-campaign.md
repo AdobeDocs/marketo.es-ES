@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: Añadir una URL de Destinatario a una Campaña Web - Documentos de marketing - Documentación del producto
 title: Añadir una dirección URL de Destinatario en una Campaña Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Al hacer clic en el icono del signo más (![—](assets/image2015-2-18-8-3a40-3a
 >
 >
 >* Las campañas web de cuadros de diálogo y utilidades pueden utilizar las opciones Cualquier página y Comodín (*).
-* En casos de uso avanzado, las campañas web en zona pueden utilizar comodines al final de la ruta de URL. Ejemplo: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* En casos de uso avanzado, las campañas web en zona pueden utilizar comodines al final de la ruta de URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * La dirección URL distingue entre mayúsculas y minúsculas
 
 
@@ -75,7 +75,7 @@ Al hacer clic en el icono del signo más (![—](assets/image2015-2-18-8-3a40-3a
 1. Añada un nombre de Campaña***. Seleccione un **segmento de Destinatario**. Añada **URL de Destinatario**.
 
    >[!NOTE]
-   La dirección URL de destinatario con zonas de entrada debe definir una dirección URL o direcciones URL específicas. En casos de uso avanzado, las campañas web en zona pueden utilizar comodines al final de la ruta de URL. Ejemplo: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   La dirección URL de destinatario con zonas de entrada debe definir una dirección URL o direcciones URL específicas. En casos de uso avanzado, las campañas web en zona pueden utilizar comodines al final de la ruta de URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
