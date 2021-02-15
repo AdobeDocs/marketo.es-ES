@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Información general sobre perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Información general sobre perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Para acceder a las perspectivas de rendimiento, haga clic en su icono en la pant
 
 ## Contribución {#contribution}
 
-Evalúe la [contribución de Marketing a los ingresos](http://docs.marketo.com/x/QAvG)como una función de adquisición, influencia, conversión e incluso crecimiento base instalado por parte del cliente.
+Evalúe la [contribución de Marketing a los ingresos](https://docs.marketo.com/x/QAvG)como una función de adquisición, influencia, conversión e incluso crecimiento base instalado por parte del cliente.
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ De forma predeterminada, los datos mostrados reflejan el rendimiento por partici
 
 ## Tendencia {#trend}
 
-Descubrir [tendencias a largo plazo](http://docs.marketo.com/x/QgvG) para identificar estrategias ganadoras consistentes.
+Descubrir [tendencias a largo plazo](https://docs.marketo.com/x/QgvG) para identificar estrategias ganadoras consistentes.
 
 ![](assets/4.png)
 
 ## Configuración {#settings}
 
-En los paneles Ingresos y Canalización, haga clic en el icono [Configuración](http://docs.marketo.com/x/pIDS) para establecer parámetros adicionales.
+En los paneles Ingresos y Canalización, haga clic en el icono [Configuración](https://docs.marketo.com/x/pIDS) para establecer parámetros adicionales.
 
 ![](assets/5.png)
 
