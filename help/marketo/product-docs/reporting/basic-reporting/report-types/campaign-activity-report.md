@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Informe de Actividad de campaña - Documentos de marketing - Documentación del producto
 title: Informe Actividad de campaña
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informe Actividad de campaña {#campaign-activity-report}
 
-Vea el rendimiento de sus [campañas inteligentes](http://docs.marketo.com/display/docs/smart+campaigns).
+Vea el rendimiento de sus [campañas inteligentes](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. [Cree un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) informe y seleccione el tipo **de informe** [Campaña ](report-type-overview.md)de actividad.
 1. [Configure el intervalo de tiempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) informe y haga clic en la ficha  **** Informe.
@@ -54,5 +54,5 @@ Vea el rendimiento de sus [campañas inteligentes](http://docs.marketo.com/displ
    >    * [Filtrar un informe de Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Consulte más informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   Consulte más informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
