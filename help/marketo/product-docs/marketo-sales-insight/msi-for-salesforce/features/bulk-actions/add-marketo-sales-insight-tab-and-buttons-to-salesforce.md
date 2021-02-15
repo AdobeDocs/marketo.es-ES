@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Añadir botones y fichas de perspectiva de ventas de marketing a Salesforce - Documentos de marketing - Documentación del producto
 title: Añadir la ficha y los botones de perspectiva de ventas de marketing a Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Puede agregar botones y fichas personalizados de perspectiva de ventas de market
 
 ## Añadir la ficha Comercialización {#adding-the-marketo-tab}
 
-1. Haga clic en** + **y haga clic en **Personalizar mis fichas**.
+1. Haga clic en **+** y haga clic en **Personalizar mis fichas**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Puede agregar botones de marketing a los diseños de Salesforce. A continuación
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Haga clic en **Editar** en la fila **Vista de Lista de posibles clientes **fila.
+1. Haga clic en **Editar** en la fila **Vista de Lista de posibles clientes**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
