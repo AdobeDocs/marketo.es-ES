@@ -3,7 +3,7 @@ unique-page-id: 2949281
 description: Expedición de una licencia de Añada de correo electrónico de marketing - Documentos de marketing - Documentación del producto
 title: Expedición de una licencia de Añada de correo electrónico de marketing
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Cualquier persona que desee utilizar el Añada de Marketing para Outlook por cor
 
    >[!NOTE]
    >
-   >Para instalar el complemento de forma remota, deje la casilla de verificación sin marcar y envíe a su equipo de TI su [Clave de empresa](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Para instalar el complemento de forma remota, deje la casilla de verificación sin marcar y envíe a su equipo de TI su [Clave de empresa](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Si los representantes de ventas tienen acceso de administrador a sus equipos, marque la casilla y ya habrá terminado.
 
