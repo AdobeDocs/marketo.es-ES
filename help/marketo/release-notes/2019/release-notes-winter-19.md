@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notas de la versión - Winter '19 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 * **Compatibilidad con dominios de varias marcas para API de recursos:** la aprobación y clonación de recursos produce los mismos resultados en la API y la interfaz de usuario.
 * **Compatibilidad con CC de correo electrónico para API** de recursos: Los usuarios que clonen, aprueben y procesen correos electrónicos mediante la API mantendrán la paridad con la configuración de la interfaz de usuario.
 
-** [Munchkin v155 (Beta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modo** solo API: Ahora los usuarios pueden determinar cuándo y cómo rastrear a los miembros de su base de datos permitiendo que las aplicaciones web de una sola página llamen explícitamente cuando deseen grabar una visita a una página web en lugar de depender del seguimiento automático de Marketing.
 * **Administración** de exclusión: Administre fácilmente las exclusiones al hacer coincidir el dominio de cookies de exclusión con el dominio de cookies de seguimiento de Munchkin.
-* **Parámetro** de decisor de nivel de dominio: Dominios de dos letras (p. ej. &quot;  [website.io](http://website.io)&quot;) rastreará automáticamente en Marketing sin requisitos de configuración adicionales.
+* **Parámetro** de decisor de nivel de dominio: Dominios de dos letras (p. ej. &quot;  [website.io](https://website.io)&quot;) rastreará automáticamente en Marketing sin requisitos de configuración adicionales.
 
 ## Compromiso de ventas de marketing {#marketo-sales-engage}
 
@@ -103,10 +103,10 @@ Para administrar los dominios y subdominios de forma más eficaz, los usuarios p
 
 **Kit de desarrollo de software (SDK) MME actualizado para Android**
 
-Hemos actualizado nuestro SDK para Android a un marco de trabajo más moderno, estable y escalable que contiene más flexibilidad y nuevas funciones de ingeniería. Los desarrolladores de aplicaciones de Android ahora pueden utilizar directamente el [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) de Google con este nuevo SDK.
+Hemos actualizado nuestro SDK para Android a un marco de trabajo más moderno, estable y escalable que contiene más flexibilidad y nuevas funciones de ingeniería. Los desarrolladores de aplicaciones de Android ahora pueden utilizar directamente el [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) de Google con este nuevo SDK.
 
-* [Instrucciones para desarrolladores](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Preguntas más frecuentes para desarrolladores](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Instrucciones para desarrolladores](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Preguntas más frecuentes para desarrolladores](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
