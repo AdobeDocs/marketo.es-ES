@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: Informe Etapa de personas por ingresos - Documentos de marketing - Documentación del producto
 title: Informe Personas por etapa de ingresos
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informe Etapa de personas por ingresos {#people-by-revenue-stage-report}
 
-Puede crear un informe que muestre en qué etapa del [Modelo de ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+models) se encuentra su gente. El informe incluye cualquier etapa del modelo especificado siempre que haya un saldo de persona para el intervalo de fechas dado del informe.
+Puede crear un informe que muestre en qué etapa del [Modelo de ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+models) se encuentra su gente. El informe incluye cualquier etapa del modelo especificado siempre que haya un saldo de persona para el intervalo de fechas dado del informe.
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ Puede crear un informe que muestre en qué etapa del [Modelo de ciclo de ingreso
    >**Buceo profundo**
    >
    >
-   >Obtenga información sobre cómo agregar columnas y más en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Obtenga información sobre cómo agregar columnas y más en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
