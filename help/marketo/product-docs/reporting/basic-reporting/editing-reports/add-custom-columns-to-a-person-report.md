@@ -3,7 +3,7 @@ unique-page-id: 2360201
 description: Añadir columnas personalizadas en un informe de persona - Documentos de marketing - Documentación del producto
 title: Añadir columnas personalizadas en un informe de persona
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir columnas personalizadas en un informe de persona {#add-custom-columns-to-a-person-report}
 
-Puede filtrar aún más las métricas de los [informes de personas](http://docs.marketo.com/display/docs/basic+reporting) utilizando sus [listas inteligentes](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) como columnas personalizadas.
+Puede filtrar aún más las métricas de los [informes de personas](https://docs.marketo.com/display/docs/basic+reporting) utilizando sus [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) como columnas personalizadas.
 
 1. Vaya al área **Actividades de marketing** (o **Análisis**).
 
@@ -36,7 +36,7 @@ Puede filtrar aún más las métricas de los [informes de personas](http://docs.
    >**Buceo profundo**
    >
    >
-   >Obtenga información sobre cómo crear y configurar listas inteligentes en la división profunda [Listas inteligentes y Listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Obtenga información sobre cómo crear y configurar listas inteligentes en la división profunda [Listas inteligentes y Listas estáticas](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. ¡Lo has hecho! Haga clic en la ficha **Informe** para ver el informe con las nuevas columnas.
 
@@ -53,5 +53,5 @@ Puede filtrar aún más las métricas de los [informes de personas](http://docs.
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre las muchas cosas que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Obtenga más información sobre las muchas cosas que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
