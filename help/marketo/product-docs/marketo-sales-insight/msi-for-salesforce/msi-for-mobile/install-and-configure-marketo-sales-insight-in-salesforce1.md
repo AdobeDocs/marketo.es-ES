@@ -3,7 +3,7 @@ unique-page-id: 7511512
 description: Instalar y configurar MarketingTo Sales Insight en Salesforce1 - Documentos de marketing - Documentación del producto
 title: Instalar y configurar MarketingTo Sales Insight en Salesforce1
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Recordatorio**
 >
->Clientes existentes, [Actualice su paquete MSI](http://docs.marketo.com/x/_gU6Ag) antes de continuar.
+>Clientes existentes, [Actualice su paquete MSI](https://docs.marketo.com/x/_gU6Ag) antes de continuar.
 
 >[!PREREQUISITES]
 >
