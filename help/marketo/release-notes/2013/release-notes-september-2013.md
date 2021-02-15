@@ -3,7 +3,7 @@ unique-page-id: 2951056
 description: Notas de la versión - Septiembre de 2013 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: septiembre de 2013'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Notas de la versión: Septiembre de 2013 {#release-notes-september}
 
-Las siguientes funciones se incluyen en la versión de septiembre. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
+Las siguientes funciones se incluyen en la versión de septiembre. Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
 Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
 
@@ -71,7 +71,7 @@ La opción Explícita solo examina los contactos con funciones (comportamiento a
 
 ## Perspectiva de ventas disponible en francés y alemán (sólo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Descargue la versión más reciente de Administración de posibles clientes de Marketing y Perspectiva de ventas de Marketing Cloud desde AppExchange para que los vendedores franceses y alemanes puedan ver el contenido de perspectiva de ventas en su idioma preferido.
+Descargue la versión más reciente de Administración de posibles clientes y Perspectiva de ventas de marketing desde AppExchange para que sus vendedores franceses y alemanes puedan ver el contenido de perspectiva de ventas en su idioma preferido.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
