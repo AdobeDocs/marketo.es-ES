@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Paso 2 de 3 - Configuración del usuario de sincronización para el marketing (On-premies 2013) - Documentos de marketing - Documentación del producto
 title: 'Paso 2 de 3: Configuración del usuario de sincronización para el marketing (On-premies 2013)'
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. Aquí verá una lista de usuarios. Seleccione el usuario dedicado de Marketingto Sync o póngase en contacto con el [administrador de Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [para crear un nuevo usuario dedicado a Marketing.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. Aquí verá una lista de usuarios. Seleccione el usuario dedicado de Marketingto Sync o póngase en contacto con el [administrador de Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [para crear un nuevo usuario dedicado a Marketing.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
