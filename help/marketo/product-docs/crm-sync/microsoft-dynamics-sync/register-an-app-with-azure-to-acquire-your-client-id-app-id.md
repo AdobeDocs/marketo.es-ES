@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: Registre una aplicación con Azure para adquirir su ID de cliente/ID de aplicación - Documentos de marketing - Documentación del producto
 title: Registrar una aplicación con Azure para adquirir el ID de cliente o de aplicación
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Azure Active Directory amplía los directorios locales a la nube, lo que proporc
 
 ## Registro de una nueva aplicación {#registering-a-new-app}
 
-1. [Inicie sesión ](http://manage.windowsazure.com/) en el portal de administración de Microsoft Azure con una cuenta con permisos de administrador. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 si expande el elemento **Administrador** en el panel de navegación izquierdo y selecciona **Azure AD**.
+1. [Inicie sesión ](https://manage.windowsazure.com/) en el portal de administración de Microsoft Azure con una cuenta con permisos de administrador. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 si expande el elemento **Administrador** en el panel de navegación izquierdo y selecciona **Azure AD**.
 
    >[!CAUTION]
    >
