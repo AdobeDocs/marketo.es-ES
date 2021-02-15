@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Notas de la versión - Octubre de 2014 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Octubre de 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Utilice la API para extraer nuevas actividades o cambios en posibles clientes:
 * Obtener tipos de Actividad
 * Obtener token de paginación
 
-Los detalles completos estarán disponibles después de la versión en [developer.marketo.com](http://developers.marketo.com/documentation/rest/).
+Los detalles completos estarán disponibles después de la versión en [developer.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI - Enviar correo electrónico de marketing para Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,5 +70,5 @@ Utilice una nueva llamada que rastree el historial de visitas del visitante. Per
 * Productos interesados en
 * Qué campañas RTP han visto
 
-Visite [developer.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/) para obtener más detalles.
+Visite [developer.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) para obtener más detalles.
 
