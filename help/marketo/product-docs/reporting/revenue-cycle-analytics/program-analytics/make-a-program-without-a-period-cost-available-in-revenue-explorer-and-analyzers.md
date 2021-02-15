@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: Hacer que un Programa sin costo de período esté disponible en el Explorador de ingresos y en los analizadores - Documentos de marketing - Documentación del producto
 title: Hacer que un Programa sin costo de período esté disponible en el Explorador de ingresos y en los analizadores
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Hacer que un Programa sin costo de período esté disponible en el Explorador de ingresos y en los analizadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Los Costos de Período de programa le permiten definir &quot;Cuánto dinero&quot; y &quot;Cuándo&quot; para un programa. Esto se muestra en [explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics) y [analizadores](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Los Costos de Período de programa le permiten definir &quot;Cuánto dinero&quot; y &quot;Cuándo&quot; para un programa. Esto se muestra en [explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics) y [analizadores](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-Es posible que algunos programas deban incluirse aunque no tengan un costo de período. Aunque puede introducir 0 para el coste del período, hemos facilitado la inclusión de estos programas.
+Es posible que algunos programas deban incluirse incluso si no tienen un costo de período. Aunque puede introducir 0 para el coste del período, hemos facilitado la inclusión de estos programas.
 
 >[!NOTE]
 >
