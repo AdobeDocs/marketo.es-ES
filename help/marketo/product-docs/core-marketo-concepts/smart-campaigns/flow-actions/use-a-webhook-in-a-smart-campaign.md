@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: Utilizar un Webgancho en una Campaña inteligente - Documentos de marketing - Documentación del producto
 title: Uso de un enlace web en una Campaña inteligente
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utilizar un Webgancho en una Campaña inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para utilizar un [webgancho](http://developers.marketo.com/documentation/webhooks/), agréguelo a una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como acción de flujo.
+Para utilizar un [webgancho](https://developers.marketo.com/documentation/webhooks/), agréguelo a una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como acción de flujo.
 
 >[!AVAILABILITY]
 >
