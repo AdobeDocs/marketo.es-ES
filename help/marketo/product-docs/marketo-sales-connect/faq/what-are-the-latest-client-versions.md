@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: ¿Cuáles son las versiones de cliente más recientes? - Documentos de marketing - Documentación del producto
 title: ¿Cuáles son las versiones de cliente más recientes?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ A continuación se muestran las versiones más recientes de todos los clientes d
 >[!NOTE]
 >
 >Actualmente no estamos optimizados para ningún explorador que no sea Chrome. Esto es algo que nuestro equipo de productos sabe y espera abordar en el futuro.
-
