@@ -3,7 +3,7 @@ unique-page-id: 2359746
 description: Personalice las direcciones URL de su Página de aterrizaje con un CNAME - Documentos de marketing - Documentación del producto
 title: Personalización de las direcciones URL de su Página de aterrizaje con un CNAME
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Aunque Marketing aloja sus páginas de aterrizaje, la dirección URL puede personalizarse totalmente. Aspecto del producto sin un CNAME:
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 El aspecto que debería tener:
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## Elija un CNAME {#choose-a-cname}
 
