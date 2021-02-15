@@ -3,7 +3,7 @@ unique-page-id: 14352433
 description: Cómo crear la Lista de llamadas prioritarias en Sales Connect - Documentos de marketing - Documentación del producto
 title: Cómo crear la Lista de llamadas prioritarias en Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -15,7 +15,8 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear una lista de llamadas/informes prioritaria mediante los datos de participación de correo electrónico de ToutApp para centrar su tiempo en las personas u oportunidades con impulso.
 
-1. Vaya a su cuenta en la [aplicación Web](http://toutapp.com/login). Una vez que complete los pasos a continuación, tendrá una &quot;Lista de llamada prioritaria&quot; guardada en Sales Connect para priorizar sus posibles clientes/cuentas más cálidas, volver a comprometer los posibles clientes/cuentas que se hayan oscurecido, capturar los resultados inmediatos y reducir el tiempo de conexión entre los toques de campaña.
+1. Vaya a su cuenta en la [aplicación Web](https://toutapp.com/login). Una vez que complete los pasos a continuación, tendrá una &quot;Lista de llamada prioritaria&quot; guardada en Sales Connect para priorizar sus posibles clientes/cuentas más cálidas, volver a comprometer los posibles clientes/cuentas que se hayan oscurecido, capturar los resultados inmediatos y reducir el tiempo de conexión entre los toques de campaña.
+
 1. Complete los siguientes pasos.
 
    * Haga clic en ‘Opciones de Vista’
@@ -31,4 +32,3 @@ Obtenga información sobre cómo crear una lista de llamadas/informes prioritari
    >[!NOTE]
    >
    >Automáticamente extraeremos su número de teléfono, el número de teléfono del posible cliente o contacto de Sales Connect o Salesforce, registraremos automáticamente su llamada y notas en Salesforce (si está utilizando Salesforce como CRM). También tendrá la opción de utilizar la presencia local y la grabación de llamadas.
-
