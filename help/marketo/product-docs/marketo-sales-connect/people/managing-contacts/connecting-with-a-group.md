@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Conexión con un grupo - Documentos de marketing - Documentación del producto
 title: Conexión con un grupo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Obtenga información sobre cómo enviar un correo electrónico a un grupo comple
 
    >[!NOTE]
    >
-   >Puede ver una opción para agregar a una Campaña de marketing. [Ese es un artículo](http://docs.marketo.com/x/CwDh) diferente.
+   >Puede ver una opción para agregar a una Campaña de marketing. [Ese es un artículo](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md) diferente.
 
 1. Seleccione una campaña (puede seleccionar una categoría para reducir los resultados) y haga clic en **Siguiente**.
 
@@ -60,4 +60,3 @@ Obtenga información sobre cómo enviar un correo electrónico a un grupo comple
 1. Programe la campaña y haga clic en **Inicio**.
 
    ![](assets/nine-1.png)
-
