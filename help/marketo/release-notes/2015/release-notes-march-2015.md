@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Notas de la versión - Marzo de 2015 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Marzo de 2015
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Las siguientes funciones se incluyen en la versión de marzo de 2015. Verifique 
 
 ## Calendario HD {#calendar-hd}
 
-[Muestre las ](http://docs.marketo.com/display/docs/calendar+hd) actividades de marketing de su equipo con el nuevo modo de presentación del calendario. ¡Son buenos para televisores o monitores gigantes en la oficina! Establece y muestra los objetivos en función de una lista inteligente o de métricas personalizadas.
+[Muestre las ](https://docs.marketo.com/display/docs/calendar+hd) actividades de marketing de su equipo con el nuevo modo de presentación del calendario. ¡Son buenos para televisores o monitores gigantes en la oficina! Establece y muestra los objetivos en función de una lista inteligente o de métricas personalizadas.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Vincule su cuenta [Google AdWords a Marketing](../../product-docs/administration
 
 ## Rediseño del Explorador de ingresos {#revenue-explorer-redesign}
 
-[Revenue ](http://docs.marketo.com/display/docs/revenue+explorer) Explorertiene un nuevo aspecto, así como el nuevo tipo de gráfico Sunburst! Lo haremos durante las dos primeras semanas de abril.
+[Revenue ](https://docs.marketo.com/display/docs/revenue+explorer) Explorertiene un nuevo aspecto, así como el nuevo tipo de gráfico Sunburst! Lo haremos durante las dos primeras semanas de abril.
 
 ## Nuevas API de REST de recursos {#new-asset-rest-apis}
 
-[Nuevas API de REST de recursos](http://developers.marketo.com/)
+[Nuevas API de REST de recursos](https://developers.marketo.com/)
 
-Ahora tenemos soporte para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos [mediante API](http://developers.marketo.com/documentation/asset-api)!
+Ahora tenemos soporte para crear y editar correos electrónicos, plantillas, mis tokens, archivos y fragmentos [mediante API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
