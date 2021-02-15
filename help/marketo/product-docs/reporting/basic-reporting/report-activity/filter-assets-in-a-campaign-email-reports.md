@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: Filtrar recursos en informes de correo electrónico de Campaña - Documentos de marketing - Documentación del producto
 title: Filtrar recursos en informes de correo electrónico de Campaña
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar recursos en informes de correo electrónico de Campaña {#filter-assets-in-a-campaign-email-reports}
 
-Centre el informe [Rendimiento del correo electrónico de la Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) en campañas [inteligentes](http://docs.marketo.com/display/docs/smart+campaigns) específicas de sus programas (&#39;activos locales&#39;) o en las que se han archivado.
+Centre el informe [Rendimiento del correo electrónico de la Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) en campañas [inteligentes](https://docs.marketo.com/display/docs/smart+campaigns) específicas de sus programas (&#39;activos locales&#39;) o en las que se han archivado.
 
 1. Vaya al área **Analytics **(o **Actividades de marketing**).
 
@@ -56,5 +56,5 @@ Centre el informe [Rendimiento del correo electrónico de la Campaña](../../../
    >**Buceo profundo**
    >
    >
-   >Obtenga información sobre los informes en [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Obtenga información sobre los informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
