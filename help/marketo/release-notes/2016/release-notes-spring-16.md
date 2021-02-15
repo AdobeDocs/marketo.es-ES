@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Notas de la versión - Primavera '16 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Primavera de 2016
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de primavera del 2016. Haga clic en los vínculos de título para vista de artículos detallados para cada función.
 
-## [Perspectivas de correo electrónico](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Perspectivas de correo electrónico](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 Email Insights es una nueva experiencia histórica de análisis de datos acumulados de correo electrónico: se ha rediseñado de extremo a extremo para obtener un rendimiento rápido como parte del proyecto Orion. Cuenta con un diseño de interfaz de usuario completamente nuevo y optimizado para adaptarse a las necesidades y el flujo de trabajo de los especialistas en mercadotecnia de correo electrónico.
 
@@ -53,11 +53,11 @@ Cree impresionantes mensajes en la aplicación directamente en Marketing Cloud. 
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Actividades personalizadas](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [Actividades personalizadas](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
 Los administradores de marketing ahora pueden definir y administrar sus tipos de actividad personalizados mediante el modelador de definición de Actividad personalizada de marketing. Al igual que el modelador de objetos personalizado de marketing (y junto con él), los administradores ahora pueden ampliar el modelo de datos para adaptarlo a sus necesidades comerciales exactas. Los detalles sobre cómo utilizar esta funcionalidad están disponibles en el [sitio de documentación de Marketing](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
-## [página de aterrizaje, plantilla de Página de aterrizaje y API de formulario](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [página de aterrizaje, plantilla de Página de aterrizaje y API de formulario](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Las API de Marketing to REST ahora admiten el control de las páginas de aterrizaje de marketing, las plantillas de página de aterrizaje y los formularios. Ahora los usuarios pueden crear, actualizar contenido, aprobar y eliminar estos recursos directamente mediante la API de REST de Marketing to.
 
