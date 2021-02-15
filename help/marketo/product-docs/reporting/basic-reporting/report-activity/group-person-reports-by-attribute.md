@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: Informes de personas de grupo por atributo - Documentos de marketing - Documentación del producto
 title: Informes de persona de grupo por atributo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informes de persona de grupo por atributo {#group-person-reports-by-attribute}
 
-Puede agrupar los [informes de persona](http://docs.marketo.com/display/docs/basic+reporting) por cualquier persona o atributo de compañía.
+Puede agrupar los [informes de persona](https://docs.marketo.com/display/docs/basic+reporting) por cualquier persona o atributo de compañía.
 
 1. Vaya al área **Actividades de marketing** (o **Análisis**).
 
@@ -48,7 +48,7 @@ Puede agrupar los [informes de persona](http://docs.marketo.com/display/docs/bas
    >**Buceo profundo**
    >
    >
-   >Obtenga más información sobre los informes de personas y otros tipos de informes en la [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting)división profunda.
+   >Obtenga más información sobre los informes de personas y otros tipos de informes en la [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting)división profunda.
 
    >[!MORELIKETHIS]
    >
