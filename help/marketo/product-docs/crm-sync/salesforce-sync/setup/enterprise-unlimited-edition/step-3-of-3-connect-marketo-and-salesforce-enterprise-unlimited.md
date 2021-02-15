@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: Paso 3 de 3 -Connect Marketing y Salesforce (Enterprise/Unlimited) - Documentos de marketing - Documentación del producto
 title: 'Paso 3 de 3: Connect Marketing y Salesforce (Enterprise/Unlimited)'
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -43,7 +43,7 @@ En este artículo, configurará Marketing para que se sincronice con la instanci
 
 ## Definir credenciales de usuario de sincronización {#set-sync-user-credentials}
 
-1. En Marketing, vaya a **Administración**, seleccione **CRM** y haga clic en **Sincronizar con [Salesforce.com](http://Salesforce.com)**
+1. En Marketing, vaya a **Administración**, seleccione **CRM** y haga clic en **Sincronizar con [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
