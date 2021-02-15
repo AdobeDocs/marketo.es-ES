@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: Notas de la versión - Abril de 2015 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: abril de 2015'
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Además, la organización de informes privados frente a la compartida ya está d
 
 ## Compromiso con dispositivos portátiles de Marketing {#marketo-mobile-engagement}
 
-[Compromiso con dispositivos móviles de marketing](http://docs.marketo.com/display/docs/mobile+marketing)
+[Compromiso con dispositivos móviles de marketing](https://docs.marketo.com/display/docs/mobile+marketing)
 
-Con [Compromiso con dispositivos móviles de Marketing](http://docs.marketo.com/display/docs/mobile+marketing), ofrecer experiencias móviles atractivas es fácil. Cree campañas altamente personalizadas que proporcionen contenido atractivo sin necesidad de depender nunca de un equipo de desarrollo de aplicaciones. Los nuevos filtros y activadores le permiten escuchar y responder en el canal móvil mediante notificaciones push.
+Con [Compromiso con dispositivos móviles de Marketing](https://docs.marketo.com/display/docs/mobile+marketing), ofrecer experiencias móviles atractivas es fácil. Cree campañas altamente personalizadas que proporcionen contenido atractivo sin necesidad de depender nunca de un equipo de desarrollo de aplicaciones. Los nuevos filtros y déclencheur le permiten escuchar y responder en el canal móvil mediante notificaciones push.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Sus características favoritas de perspectiva de ventas: fuente de posibles clie
 
 ## RTP: análisis de marketing basado en cuentas {#rtp-account-based-marketing-analytics}
 
-RTP: [Análisis de marketing basado en cuentas](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP: [Análisis de marketing basado en cuentas](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Obtenga una visibilidad instantánea del [rendimiento de sus listas de cuenta con nombre clave](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) en función de cada etapa del ciclo de compra, con el nuevo gráfico de rendimiento para sus listas de cuenta con nombre. El gráfico muestra la etapa de la visita desde la organización clave desde la toma de conciencia hasta la acción, en base al número de visitas y al estado del visitante.
+Obtenga una visibilidad instantánea del [rendimiento de sus listas de cuenta con nombre clave](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) en función de cada etapa del ciclo de compra, con el nuevo gráfico de rendimiento para sus listas de cuenta con nombre. El gráfico muestra la etapa de la visita desde la organización clave desde la toma de conciencia hasta la acción, en base al número de visitas y al estado del visitante.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
