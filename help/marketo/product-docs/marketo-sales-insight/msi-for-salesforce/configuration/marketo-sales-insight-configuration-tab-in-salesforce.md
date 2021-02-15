@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Ficha Configuración de perspectiva de ventas de marketing en Salesforce - Documentos de marketing - Documentación del producto
 title: Ficha Configuración de perspectiva de ventas de marketing en Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Las configuraciones se aplican a todos los usuarios de MSI y no son específicas
 Si elige hacerlo, borrará todas las configuraciones de SFDC y no se podrán restaurar. Tendrá que volver a configurar todo de nuevo.
 
 ![](assets/three.png)
-
