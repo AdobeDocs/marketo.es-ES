@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: Crear una nueva Campaña Web de utilidades - Documentos de marketing - Documentación del producto
 title: Crear una nueva Campaña Web de utilidades
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Una campaña Web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mostrar en</strong></td> 
-   <td colspan="1">Permite <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
+   <td colspan="1">Permite <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animar entrada/salida</strong></td> 
