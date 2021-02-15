@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: Uso de momentos interesantes - Documentos de marketing - Documentación del producto
 title: Uso de momentos interesantes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Los momentos interesantes son la clave para comunicarse con el equipo de ventas 
 
 >[!AVAILABILITY]
 >
->Están disponibles únicamente para clientes de Marketing to Sales Insight y [Marketing to Sales Connect](http://docs.marketo.com/x/fgTLAQ).
+>Están disponibles únicamente para clientes de Marketing to Sales Insight y [Marketing to Sales Connect](https://docs.marketo.com/x/fgTLAQ).
 
 ## ¿Qué es un momento interesante?  {#what-is-an-interesting-moment}
 
