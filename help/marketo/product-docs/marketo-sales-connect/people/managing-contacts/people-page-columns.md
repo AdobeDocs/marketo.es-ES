@@ -3,7 +3,7 @@ unique-page-id: 30081307
 description: Columnas de la página Personas - Documentos de marketing - Documentación del producto
 title: Columnas de la página Personas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -131,4 +131,3 @@ Tiene la opción de personalizar la información de contacto que ve eligiendo qu
   </tr> 
  </tbody> 
 </table>
-
