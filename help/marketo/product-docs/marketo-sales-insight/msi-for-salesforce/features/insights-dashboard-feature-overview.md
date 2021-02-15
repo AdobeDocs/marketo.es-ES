@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Información general sobre la función de Panel de perspectivas - Documentos de marketing - Documentación del producto
 title: Información general de la función de Panel de perspectivas
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Obtenga más información sobre las funciones disponibles en su panel de perspec
 
 >[!PREREQUISITES]
 >
->Debe tener el paquete MSI SFDC más reciente y [configuración](http://docs.marketo.com/x/F4GMAg).
+>Debe tener el paquete MSI SFDC más reciente y [configuración](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -172,4 +172,3 @@ Ficha evento:
 * La selección de todos los eventos mostrará la lista de eventos programados en los próximos 90 días
 * La tarjeta de detalles de actividad de esta sección tiene la opción de previsualización
 * El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
-
