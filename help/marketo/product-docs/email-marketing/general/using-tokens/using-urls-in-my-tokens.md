@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: Uso de direcciones URL en mis tokens - Documentos de marketing - Documentación del producto
 title: Uso de direcciones URL en mis tokens
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    ![](assets/two-4.png)
 
-1. Asigne un nombre único al token, introduzca una dirección URL (sin http://) y haga clic en **Guardar**.
+1. Asigne un nombre único al token, introduzca una dirección URL (sin https://) y haga clic en **Guardar**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Para asegurarse de que se rastrean los clics en el correo electrónico, **no** escriba http:// dentro del valor del token.
+   >Para asegurarse de que se rastrean los clics en el correo electrónico, **no** escriba https:// dentro del valor del token.
 
 1. Seleccione el correo electrónico en el programa.
 
@@ -43,7 +43,7 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    ![](assets/six-1.png)
 
-1. En cualquier lugar del correo electrónico, escriba &quot;http://&quot; (sin dejar espacio después) y haga clic en el icono Insertar token.
+1. En cualquier lugar del correo electrónico, escriba &quot;https://&quot; (sin dejar espacio después) y haga clic en el icono Insertar token.
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    ![](assets/eight.png)
 
-1. Resalte el http:// y el token y, a continuación, pulse Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) para cortar el texto.
+1. Resalte el https:// y el token y, a continuación, pulse Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) para cortar el texto.
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    ![](assets/twelve.png)
 
-   ¡Y ya terminaste! La dirección URL se rellenará después de enviar y, gracias a haber colocado http:// delante del token, se generará un vínculo rastreable.
+   ¡Y ya terminaste! La dirección URL se rellenará después de enviar y, gracias a haber colocado https:// delante del token, se generará un vínculo rastreable.
