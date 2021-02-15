@@ -3,7 +3,7 @@ unique-page-id: 2360397
 description: Suscripción a un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Suscripción a un informe del Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Suscripción a un informe del Explorador de ingresos {#subscribe-to-a-revenue-explorer-report}
 
-Para recibir actualizaciones de los informes [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics) y compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
+Para recibir actualizaciones de los informes [Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics) y compartirlas, puede suscribirse a cualquier dirección de correo electrónico de un informe existente.
 
 1. Vaya a **Analytics** y seleccione **Nuevo > Nueva Suscripción de informe.**
 
@@ -51,5 +51,5 @@ Para recibir actualizaciones de los informes [Explorador del ciclo de ingresos](
 >
 >**Buceo profundo**
 >
->Vea más de las cosas que puede hacer con los análisis avanzados de Marketing en la [navegación profunda del Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Vea más de las cosas que puede hacer con los análisis avanzados de Marketing en la [navegación profunda del Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
