@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: Añadir columnas de oportunidades en un informe de posibles clientes - Documentos de marketing - Documentación del producto
 title: Añadir columnas de oportunidad en un informe de posible cliente
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir columnas de oportunidad en un informe de posible cliente {#add-opportunity-columns-to-a-lead-report}
 
-Para ver las estadísticas de las oportunidades en los [informes de personas](http://docs.marketo.com/display/docs/basic+reporting), puede agregar columnas de oportunidades.
+Para ver las estadísticas de las oportunidades en los [informes de personas](https://docs.marketo.com/display/docs/basic+reporting), puede agregar columnas de oportunidades.
 
 1. Vaya al área **Actividades de mercadotecnia**.
 
@@ -77,5 +77,5 @@ Para ver las estadísticas de las oportunidades en los [informes de personas](ht
    >**Buceo profundo**
    >
    >
-   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
