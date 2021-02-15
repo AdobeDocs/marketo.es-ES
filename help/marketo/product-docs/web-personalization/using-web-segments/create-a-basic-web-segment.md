@@ -3,7 +3,7 @@ unique-page-id: 4719344
 description: Crear un segmento Web básico - Documentos de marketing - Documentación del producto
 title: Crear un segmento Web básico
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Ahora ha segmentado sus visitantes de los Estados Unidos, siga adelante y agregu
 
 >[!MORELIKETHIS]
 >
->* [Segmentos Web](http://docs.marketo.com/x/9QFI)
+>* [Segmentos Web](https://docs.marketo.com/x/9QFI)
 
 >
 
