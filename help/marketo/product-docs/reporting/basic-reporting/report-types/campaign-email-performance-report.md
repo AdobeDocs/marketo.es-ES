@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Informe de rendimiento de correo electrónico de campaña - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de correo electrónico de campaña
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Informe de rendimiento de correo electrónico de campaña {#campaign-email-performance-report}
 
-Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [campaña inteligente](http://docs.marketo.com/display/docs/smart+campaigns), ejecute un informe de rendimiento del correo electrónico de Campaña.
+Para ver las estadísticas de rendimiento del correo electrónico agrupadas por [campaña inteligente](https://docs.marketo.com/display/docs/smart+campaigns), ejecute un informe de rendimiento del correo electrónico de Campaña.
 
 1. [Cree un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) informe y seleccione el tipo **de puerto de** [Campaña de ](report-type-overview.md)rendimiento de correo electrónico.
 1. [Configure el intervalo de tiempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) informe y haga clic en la ficha  **** Informe.
@@ -53,5 +53,5 @@ Para ver las estadísticas de rendimiento del correo electrónico agrupadas por 
    >**Buceo profundo**
    >
    >
-   >Obtenga más información en [Sistema de informes básico.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Obtenga más información en [Sistema de informes básico.](https://docs.marketo.com/display/docs/basic+reporting)
 
