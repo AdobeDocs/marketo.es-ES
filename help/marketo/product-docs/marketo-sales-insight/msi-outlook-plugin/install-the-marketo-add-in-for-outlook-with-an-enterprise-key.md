@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: Instalación del Añada de Marketing to para Outlook con una clave de empresa - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de Marketing to para Outlook con una clave de empresa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Muchas veces, los representantes de ventas no tienen privilegios administrativos
 
 >[!NOTE]
 >
->Si no ve el botón Clave de empresa de Vista, póngase en contacto con [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) para habilitarlo.
+>Si no ve el botón Clave de empresa de Vista, póngase en contacto con [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) para habilitarlo.
 
 1. En Mi marketing, haga clic en **Administración** y luego en **Perspectiva de ventas.**
 
