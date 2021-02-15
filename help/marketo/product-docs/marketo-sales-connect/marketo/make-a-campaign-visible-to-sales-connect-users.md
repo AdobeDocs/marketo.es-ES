@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: Hacer visible una Campaña para los usuarios de Sales Connect - Documentos de marketing - Documentación del producto
 title: Hacer visible una Campaña para los usuarios de Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 
    ![](assets/two.png)
 
-1. Añada el activador Campaña es Solicitada.
+1. Añadir que la Campaña es déclencheur solicitado.
 
    ![](assets/three.png)
 
@@ -50,4 +50,3 @@ Las campañas solo se pueden compartir si están visibles. Así es como hacerlo.
 1. Haga clic en la ficha **Programar** y **Activar** la campaña.
 
    ![](assets/nine.png)
-
