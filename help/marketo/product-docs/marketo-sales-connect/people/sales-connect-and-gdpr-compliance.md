@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Conformidad con Sales Connect y GDPR - Documentos de marketing - Documentación del producto
 title: Conformidad con Sales Connect y GDPR
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -38,10 +38,11 @@ El RGPD se aplica a cualquier organización dentro o fuera de la UE que comercia
 
 Los especialistas en mercadotecnia buscan crear experiencias de cliente que se sientan personales y humanas, basadas en la confianza y entregadas con cuidado. Aunque el RGPD no utiliza estos términos, los objetivos son los mismos: respetar los derechos de los clientes y ganarse la confianza. Para crear y mantener esa confianza, los especialistas en mercadotecnia deben estar en sintonía con el modo, el momento y el motivo por el que sus clientes desean participar. Es fundamental que se respeten las preferencias de los clientes, no sólo como un requisito legal, sino como la base de las prácticas de compromiso centradas en los clientes.
 
-La manera en que los especialistas en mercadotecnia abordan estas mayores expectativas en cuanto a la recopilación, el uso y la seguridad de los datos personales que se utilizan habitualmente en el curso de su trabajo es clave, y Marketing puede ayudar a satisfacer esas expectativas.\
+La manera en que los especialistas en mercadotecnia abordan estas mayores expectativas en cuanto a la recopilación, el uso y la seguridad de los datos personales que se utilizan habitualmente en el curso de su trabajo es clave, y Marketing puede ayudar a satisfacer esas expectativas.
+
 Existen dos aspectos clave del RGPD en los que los especialistas en mercadotecnia deben revisar las prácticas pasadas, actuales y futuras. El primero es el consentimiento del individuo para procesar sus datos personales, y el segundo es la rendición de cuentas, es decir, poder demostrar cómo se siguen los principios del RGPD.
 
-Proporcionamos amplia información sobre el consentimiento y la rendición de cuentas dentro de la plataforma de Marketing en nuestro libro electrónico, [GDPR y The Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). En este artículo, sin embargo, nos centraremos específicamente en las nuevas funciones de Marketing Cloud Sales Connect que ayudarán a su organización a adherirse a las reglas de RGPD.
+Proporcionamos amplia información sobre el consentimiento y la rendición de cuentas dentro de la plataforma de Marketing en nuestro libro electrónico, [GDPR y The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). En este artículo, sin embargo, nos centraremos específicamente en las nuevas funciones de Marketing Cloud Sales Connect que ayudarán a su organización a adherirse a las reglas de RGPD.
 
 ## Cumplimiento del RGPD en MarketingTo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,7 +95,8 @@ Si elige &quot;Consentimiento&quot; como Tipo de autorización, hay dos campos o
 ![](assets/6.png)
 
 Si selecciona &quot;Otro&quot; para Tipo de autorización o Tipo de origen, puede introducir texto para describir el Tipo de origen.
-** ![](assets/7.png)
+
+![](assets/7.png)
 
 Bulk Actions** Marketing to Sales Connect también permite actualizar de forma masiva los tipos de origen y autorización de un contacto, lo que ahorra un tiempo valioso en el proceso de cumplimiento.
 
@@ -166,7 +168,9 @@ Puede exportar la información de contacto desde la Vista Detalles de persona. L
 >
 >Esto sólo se puede hacer de uno en uno. Actualmente no existe ninguna funcionalidad que permita la exportación masiva de contactos.
 
-Para exportar la información de contacto, haga clic en los tres puntos verticales del encabezado de Vista de detalles de la persona y seleccione **Exportar**. El archivo .CSV se descargará automáticamente.   ![](assets/thirteen.png)
+Para exportar la información de contacto, haga clic en los tres puntos verticales del encabezado de Vista de detalles de la persona y seleccione **Exportar**. El archivo .CSV se descargará automáticamente.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ Una esfera del RGPD que se suele malinterpretar incluye los contactos que se can
 
 Como entusiasta defensor del poder y la centralidad del cliente en la economía de compromiso, Marketing entiende la importancia de poner la privacidad y la protección de datos en manos del sujeto de datos. Al igual que con otras leyes de protección de datos, el cumplimiento del RGPD requiere compromiso tanto de Marketing como de nuestros clientes. Este artículo está diseñado para ayudarle a utilizar Marketing de una manera adecuada para respaldar el cumplimiento del RGPD de su organización.
 
-Seguiremos de cerca las directrices aplicables del RGPD emitidas por las autoridades reguladoras y la legislación conexa. Las actualizaciones se publicarán en nuestro Centro de confianza en [trust.marketo.com](http://trust.marketo.com).
+Seguiremos de cerca las directrices aplicables del RGPD emitidas por las autoridades reguladoras y la legislación conexa. Las actualizaciones se publicarán en nuestro Centro de confianza en [trust.marketo.com](https://trust.marketo.com).
