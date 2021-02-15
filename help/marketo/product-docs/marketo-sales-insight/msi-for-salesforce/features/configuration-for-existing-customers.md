@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: Configuración para clientes existentes - Documentos de marketing - Documentación del producto
 title: Configuración para clientes existentes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Configure la siguiente configuración para empezar a utilizar el nuevo Panel de 
 ## Configurar la perspectiva de ventas en Marketing {#configure-sales-insight-in-marketo}
 
 1. Abra una nueva ficha en el explorador para obtener las credenciales de perspectivas de ventas de marketing de su cuenta de Marketing to.
+
 1. Vaya al área **Administración**.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ Configure la siguiente configuración para empezar a utilizar el nuevo Panel de 
 ## Acceder a la perspectiva de ventas de marketing {#access-marketo-sales-insight}
 
 1. Copie las credenciales del panel API de Rest en la página de administración de perspectiva de ventas de Marketing Cloud. Pégalas en la sección Rest API de la página de configuración de Sales Insight de Salesforce.
+
 1. Introduzca la clave secreta de API.
 
    ![](assets/config.png)
-
