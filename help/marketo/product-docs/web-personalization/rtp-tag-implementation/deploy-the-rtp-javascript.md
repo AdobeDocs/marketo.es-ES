@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: Implementar el JavaScript RTP - Documentos de marketing - Documentación del producto
 title: Implementar el JavaScript de RTP
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -45,5 +45,5 @@ Para generar y configurar su etiqueta RTP, siga las instrucciones de instalació
 
 >[!MORELIKETHIS]
 >
->* [Implementación de etiquetas RTP](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [Implementación de etiquetas RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
