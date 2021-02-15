@@ -3,7 +3,7 @@ unique-page-id: 10099167
 description: Añadir un posible cliente/contacto a una Campaña de marketing desde Salesforce - Documentos de marketing - Documentación del producto
 title: Añadir un posible cliente/contacto a una Campaña de marketing de Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede agregar fácilmente leads o contactos a campañas inteligentes de Marketing to desde Salesforce. Así es como usar leads.
 
-1. En Salesforce, haga clic en la ficha **Posibles clientes **Posibles clientes.
+1. En Salesforce, haga clic en la ficha **Posibles clientes**.
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
@@ -31,7 +31,7 @@ Puede agregar fácilmente leads o contactos a campañas inteligentes de Marketin
 
    ![](assets/three.png)
 
-1. En el registro, desplácese hacia abajo hasta el área de perspectiva de ventas de Marketing to, haga clic en la lista desplegable **Acciones**, seleccione **Añadir a Campaña de marketing,** y haga clic **Ir.**
+1. En el registro, desplácese hacia abajo hasta el área de perspectiva de ventas de Marketing to, haga clic en la lista desplegable **Acciones**, seleccione **Añadir a Campaña de marketing** y haga clic en **Ir**.
 
    ![](assets/four.png)
 
@@ -41,6 +41,6 @@ Puede agregar fácilmente leads o contactos a campañas inteligentes de Marketin
 
    >[!NOTE]
    >
-   >Para que la campaña aparezca en la lista desplegable, utilice el activador [**Campaña solicitada**](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con **perspectiva de ventas** como origen, cuando configure la campaña.
+   >Para que la campaña aparezca en la lista desplegable, utilice el déclencheur [**Campaña se solicita**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con **perspectiva de ventas** como fuente, cuando configure la campaña.
 
 ¡Y eso es todo! La persona se agrega a la campaña de marketing.
