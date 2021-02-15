@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Explicación del contenido predictivo - Documentos de marketing - Documentación del producto
 title: Explicación del contenido predictivo
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ El filtrado de análisis de contenido habilitado le permite ver el rendimiento d
 
 ## Datos de tabla de vista para contenido predictivo {#view-table-data-for-predictive-content}
 
-En la tabla, puede realizar la vista de los orígenes habilitados para el contenido predictivo, de izquierda a derecha: Barra de recomendaciones, correo electrónico y medios enriquecidos. Las fuentes habilitadas se muestran en verde. Los habilita cuando [edita el contenido](http://docs.marketo.com/display/docs/edit+predictive+content).
+En la tabla, puede realizar la vista de los orígenes habilitados para el contenido predictivo, de izquierda a derecha: Barra de recomendaciones, correo electrónico y medios enriquecidos. Las fuentes habilitadas se muestran en verde. Los habilita cuando [edita el contenido](https://docs.marketo.com/display/docs/edit+predictive+content).
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ Pase el ratón sobre la barra de la columna Tasa de conversión para ver la tasa
 
 >[!MORELIKETHIS]
 >
->* [Contenido predictivo](http://docs.marketo.com/display/docs/predictive+content)
->* [Editar contenido predictivo](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Contenido predictivo](https://docs.marketo.com/display/docs/predictive+content)
+>* [Editar contenido predictivo](https://docs.marketo.com/display/docs/edit+predictive+content)
 
