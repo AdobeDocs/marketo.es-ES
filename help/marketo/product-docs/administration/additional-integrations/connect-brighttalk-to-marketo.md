@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: Connect BrightTALK to Marketing - Documentos de marketing - Documentación del producto
 title: Connect BrightTALK to Marketing
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
 ## Pasos en BrightTALK {#steps-in-brighttalk}
 
-1. Inicie sesión en [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) y haga clic en **Conectar ahora**.
+1. Inicie sesión en [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) y haga clic en **Conectar ahora**.
 1. En Conector de marketing avanzado, haga clic en **Conectar**.
 1. Llegará a la pantalla de credenciales, donde se le pedirá: ID del cliente, Secreto del cliente, URL del servicio de identidad y URL del servicio de descanso. Para obtener esta información, inicie sesión en Marketing Cloud.
 
@@ -77,4 +77,4 @@ Obtenga información sobre cómo conectar el canal BrightTALK con la instancia d
 
 1. Vuelva a la pantalla de configuración del conector BrightTALK del paso 3 e introduzca las credenciales guardadas en los pasos 12 y 14.
 
-   Una vez autenticadas las credenciales, ha conectado oficialmente BrightTALK a Marketing. El siguiente paso es determinar [los campos de datos que desea sincronizar](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   Una vez autenticadas las credenciales, ha conectado oficialmente BrightTALK a Marketing. El siguiente paso es determinar [los campos de datos que desea sincronizar](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
