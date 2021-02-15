@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: Inicio de sesión y administración de usuarios - Documentos de marketing - Documentación del producto
 title: Inicio de sesión y administración de usuarios
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Introduzca un nombre de rol y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios de trabajo](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Introduzca un nombre de rol y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios de trabajo](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
