@@ -3,9 +3,9 @@ unique-page-id: 14352494
 description: Me bloqueé de mi cuenta. ¿Qué hago? - Documentos de marketing - Documentación del producto
 title: Me bloqueé de mi cuenta. ¿Qué hago?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Me bloqueé de mi cuenta. ¿Qué hago? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Si ha superado el número de intentos de inicio de sesión, se le bloqueará la cuenta. Póngase en contacto con [Soporte](http://nation.marketo.com/community/support_solutions)para obtener ayuda para desbloquearlo.
+Si ha superado el número de intentos de inicio de sesión, se le bloqueará la cuenta. Póngase en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support#)para obtener ayuda para desbloquearlo.
