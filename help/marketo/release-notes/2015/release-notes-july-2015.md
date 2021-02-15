@@ -3,7 +3,7 @@ unique-page-id: 8783189
 description: Notas de la versión - Julio de 2015 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: julio de 2015'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
 Se ha actualizado el editor de texto con un aspecto moderno, que incluye formato de texto optimizado, edición de imágenes, inserción de vínculos y edición de HTML. El editor HTML ahora cuenta con una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se lanzará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**. Si nota problemas con la nueva versión del editor de texto, ¡queremos saberlo! Envíe una breve descripción a [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se lanzará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**. Si nota problemas con la nueva versión del editor de texto, ¡queremos saberlo! Envíe una breve descripción a [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -42,7 +42,7 @@ Al hacer clic en el mosaico de la entrega por correo electrónico, ya no necesit
 
 ## Prioridad de campaña {#campaign-prioritization}
 
-¿Ha configurado varias campañas RTP personalizadas y ha observado que algunas de ellas pueden solaparse con otras? Adelante y establezca una prioridad para la que el RTP de las campañas debe mostrarse por encima de otros.
+¿Ha configurado varias campañas RTP personalizadas y ha observado que algunas de ellas pueden solaparse con otras? Continúe y establezca una prioridad para la que el RTP de las campañas debe mostrarse por encima de otros.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -50,7 +50,7 @@ Al hacer clic en el mosaico de la entrega por correo electrónico, ya no necesit
 
 **Acceso a objetos de compañía mediante la API** REST: La API de REST ahora proporciona acceso a la Compañía de Marketing (también conocida como Account). Esto significa que puede leer, actualizar y eliminar objetos de compañía creados en Marketing y asociar leads con dichas compañías mediante la API de posibles clientes actualizada.
 
-Obtenga más información [más](http://developers.marketo.com/documentation/company-api/) en nuestra guía de referencia para la API de Compañía.
+Obtenga más información [más](https://developers.marketo.com/documentation/company-api/) en nuestra guía de referencia para la API de Compañía.
 
 ## Acceder a la capacidad de entrega de correo electrónico {#access-email-deliverability}
 
