@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Información general sobre el Canal de envío - Documentos de marketing - Documentación del producto
 title: Información general del Canal de envío
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ En la aplicación web, su identidad aparecerá como la creó (arriba). Sin embar
 
 ## Servidor SMTP personalizado {#custom-smtp-server}
 
-¿Pagar por su propio servidor? ¿Usar un entorno de Microsoft Exchange? Ésta es una opción para usted. Consulte [estas instrucciones](http://docs.marketo.com/x/zYTS) para obtener información sobre cómo configurar. Al igual que los servidores Gmail, puesto que Sales Connect no administra directamente el servidor, no registramos eventos de correo electrónico devueltos en la aplicación web.
+¿Pagar por su propio servidor? ¿Usar un entorno de Microsoft Exchange? Ésta es una opción para usted. Consulte [estas instrucciones](https://docs.marketo.com/x/zYTS) para obtener información sobre cómo configurar. Al igual que los servidores Gmail, puesto que Sales Connect no administra directamente el servidor, no registramos eventos de correo electrónico devueltos en la aplicación web.
