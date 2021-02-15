@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: Filtrado de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Filtrado de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Haga clic en el inicio + para agregar filtros.
 
 >[!NOTE]
 >
->En este momento, los atributos personalizados solo están disponibles en filtros para clientes que tengan [RCA](http://docs.marketo.com/x/lwIk) habilitada.
+>En este momento, los atributos personalizados solo están disponibles en filtros para clientes que tengan [RCA](https://docs.marketo.com/x/lwIk) habilitada.
 
 Al hacer clic en una categoría se revelan varias subcategorías.
 
@@ -53,11 +53,11 @@ Puede eliminar un filtro en cualquier momento haciendo clic en la X que se encue
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cuenta con nombre ABM</strong></td> 
-   <td colspan="1">Si está utilizando Marketo ABM, todas sus cuentas con nombre se sincronizarán con MPI y serán visibles a través del filtro "Cuenta con nombre ABM". Puede seleccionar una cuenta con nombre para filtrar los resultados a esas cuentas.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">Obtenga más información sobre las cuentas con nombre ABM.</a></td> 
+   <td colspan="1">Si está utilizando Marketo ABM, todas sus cuentas con nombre se sincronizarán con MPI y serán visibles a través del filtro "Cuenta con nombre ABM". Puede seleccionar una cuenta con nombre para filtrar los resultados a esas cuentas.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Obtenga más información sobre las cuentas con nombre ABM.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Atributos personalizados</strong></td> 
-   <td colspan="1"><p>Estas son determinadas por usted. Todos los campos <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">que habilite</a> para la análisis de oportunidad se pueden filtrar en Perspectivas de rendimiento.</p></td> 
+   <td colspan="1"><p>Estas son determinadas por usted. Todos los campos <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">que habilite</a> para la análisis de oportunidad se pueden filtrar en Perspectivas de rendimiento.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Período de inversión</strong></p></td> 
