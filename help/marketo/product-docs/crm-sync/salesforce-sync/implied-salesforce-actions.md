@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Acciones implícitas de Salesforce - Documentos de marketing - Documentación del producto
 title: Acciones de Salesforce implícitas
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Cuando se ejecuta un paso de flujo específico de Salesforce, a veces se realizan pasos adicionales automáticamente. Estas son las reglas, así que ya saben:
 
-Estas reglas se aplicarán _cuando la persona no se encuentre actualmente en [Salesforce.com](http://Salesforce.com)_ como contacto o posible cliente.
+Estas reglas se aplicarán _cuando la persona no se encuentre actualmente en [Salesforce.com](https://Salesforce.com)_ como contacto o posible cliente.
 
 <table> 
  <thead> 
