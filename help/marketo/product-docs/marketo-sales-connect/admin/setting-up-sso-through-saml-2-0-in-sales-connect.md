@@ -3,7 +3,7 @@ unique-page-id: 14352405
 description: Configuración de SSO mediante SAML 2.0 en Sales Connect - Documentos de marketing - Documentación del producto
 title: Configuración de SSO mediante SAML 2.0 en Sales Connect
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,6 +31,6 @@ El archivo metadata.xml de la instancia de SSO de su equipo debe contener la dir
 
 También necesitaremos la ubicación SSO para que la cuenta SSO de su compañía sea un dominio único. Por ejemplo, se requiere un subdominio único como `toutapp.pingidentity.com` o similar. Sin este tipo de identificador único, no podremos configurar SAML desde el panel.
 
-Un inicio de sesión y Okta no siempre proporcionan identificadores únicos al asignar una dirección URL. Si utiliza Okta o un inicio de sesión significa que no podremos configurar un inicio de sesión desde el botón de panel. Todavía podremos configurarlo desde el botón Registro único en la [aplicación Web](http://toutapp.com/login).
+Un inicio de sesión y Okta no siempre proporcionan identificadores únicos al asignar una dirección URL. Si utiliza Okta o un inicio de sesión significa que no podremos configurar un inicio de sesión desde el botón de panel. Todavía podremos configurarlo desde el botón Registro único en la [aplicación Web](https://toutapp.com/login).
 
 Una vez que tengamos esa información, trabajaremos con nuestro equipo de ingeniería para configurar esto para su suscripción.
