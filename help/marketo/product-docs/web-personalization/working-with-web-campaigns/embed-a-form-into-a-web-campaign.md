@@ -3,7 +3,7 @@ unique-page-id: 10095554
 description: Incrustar un formulario en una Campaña Web - Documentos de marketing - Documentación del producto
 title: Incrustar un formulario en una Campaña Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -87,8 +87,8 @@ Para agregar código CSS a la secuencia de comandos:
 >[!MORELIKETHIS]
 >
 >* [Editar la CSS de un tema de formulario](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
->* [Mostrar mensaje de agradecimiento sin una Página de aterrizaje de seguimiento](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](http://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Mostrar mensaje de agradecimiento sin una Página de aterrizaje de seguimiento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
 
 >
 
