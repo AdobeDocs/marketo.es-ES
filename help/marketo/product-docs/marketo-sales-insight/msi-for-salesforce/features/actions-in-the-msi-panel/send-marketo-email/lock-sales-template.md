@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: Bloquear plantilla de ventas - Documentos de marketing - Documentación del producto
 title: Bloquear plantilla de ventas
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Para evitar que los usuarios de CRM editen plantillas de ventas, los administrad
    >[!NOTE]
    >
    >De forma predeterminada, esta casilla está activada y los usuarios de CRM pueden editar correos electrónicos.
-
