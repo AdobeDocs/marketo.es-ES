@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: Clonar un informe - Documentos de marketing - Documentación del producto
 title: Clonar un informe
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -41,5 +41,5 @@ Cree un duplicado del informe para personalizarlo aún más sin cambiar el origi
    >    * [Filtrar personas en un informe con una Lista inteligente](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Haga mucho más para personalizar el informe. Consulte [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   Haga mucho más para personalizar el informe. Consulte [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
