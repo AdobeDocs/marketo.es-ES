@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Acciones masivas en el rayo de Salesforce - Documentos de marketing - Documentación del producto
 title: Acciones masivas en el rayo de Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ A continuación se explica cómo configurar acciones masivas en Salesforce Light
    >[!NOTE]
    >
    >Repita los mismos pasos para agregar acciones masivas en la vista de lista de contacto.
-
