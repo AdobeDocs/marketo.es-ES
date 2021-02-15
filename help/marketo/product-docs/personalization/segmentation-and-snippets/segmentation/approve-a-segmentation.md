@@ -3,7 +3,7 @@ unique-page-id: 2359457
 description: Aprobar una segmentación - Documentos de marketing - Documentación del producto
 title: Aprobar una segmentación
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Es necesario aprobar una segmentación antes de que pueda utilizarse.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. En la Segmentación, haga clic en **Acciones de segmentación** y luego **Aprobar**.
+1. En la Segmentación, haga clic en **Acciones de segmentación** y, a continuación, **Aprobar**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
@@ -55,7 +55,7 @@ Es necesario aprobar una segmentación antes de que pueda utilizarse.
 >
 >El número total de segmentos que puede crear en una segmentación depende del número y el tipo de filtros utilizados y también de la complejidad de la lógica de los segmentos. Aunque puede crear hasta 100 segmentos mediante campos estándar, el uso de otros tipos de filtros puede aumentar la complejidad y la segmentación podría no aprobarse. Algunos ejemplos son: campos personalizados, miembro de lista, campos de propietario de posibles clientes y etapas de ingresos.
 >
->Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
 
 >[!MORELIKETHIS]
 >
