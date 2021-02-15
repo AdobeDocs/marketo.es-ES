@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: Cómo registrar correos electrónicos con otras CRM - Documentos de marketing - Documentación del producto
 title: Cómo registrar correos electrónicos con otras CRM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Si su CRM le proporciona una dirección CCO, puede utilizar la sección &quot;ot
 
 ## CRM con los que se integra {#crms-we-integrate-with}
 
-**`Almost every CRM`**::
+**Casi todos los CRM**:
 
-* Nuestra `auto-BCC`* *función funciona con casi todos los correos electrónicos de registro CRM que ha enviado con Sales Connect a sus posibles clientes. Simplemente asegúrese de que su CRM de elección le proporciona una dirección CCO para aprovecharla.
+* Nuestra función de autoCCO funciona con casi todos los correos electrónicos de registro CRM que ha enviado con Sales Connect a sus posibles clientes. Simplemente asegúrese de que su CRM de elección le proporciona una dirección CCO para aprovecharla.
 
-**`Salesforce`**::
+**Salesforce**:
 
 * ¡Hacemos todo lo anterior y más!
 
@@ -34,4 +34,3 @@ Si su CRM le proporciona una dirección CCO, puede utilizar la sección &quot;ot
 1. Haga clic en **Guardar** y su dirección de CCO se guardará en Sales Connect.
 
    Los correos electrónicos se registrarán ahora en su CRM a través de BCC.
-
