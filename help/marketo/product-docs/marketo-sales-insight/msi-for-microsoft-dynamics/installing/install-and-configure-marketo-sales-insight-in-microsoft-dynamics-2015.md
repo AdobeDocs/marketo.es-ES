@@ -3,9 +3,9 @@ unique-page-id: 7513865
 description: Instalación y configuración de la perspectiva de ventas de marketing en Microsoft Dynamics 2015 - Documentos de marketing - Documentación del producto
 title: Instalación y configuración de Marketingto Sales Insight en Microsoft Dynamics 2015
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ La perspectiva de ventas de marketing es una herramienta fantástica para dar a 
 
 >[!PREREQUISITES]
 >
->Complete la integración [de Marketing a Microsoft](http://docs.marketo.com/x/ZwBd).
+>Complete la integración de Marketing con Microsoft.
 >
->[Descargue la ](http://docs.marketo.com/x/LoJo) solución correcta para su versión de Microsoft Dynamics CRM.
+>[Descargue la ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) solución correcta para su versión de Microsoft Dynamics CRM.
 
 ## Importar solución {#import-solution}
 
@@ -38,9 +38,6 @@ Bien, ahora es el momento de importar la solución de perspectiva de ventas de m
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
    >[!NOTE]
-   >
-   >**Recordatorio**
-   >
    >
    >Ya debería haber instalado y configurado la solución de marketing antes de avanzar.
 
@@ -84,7 +81,7 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
 >
 >Se requieren derechos de administrador.
 
-1. Inicie sesión en Marketing y vaya a la sección **Admin **s.
+1. Inicie sesión en Marketing y vaya a la sección **Administración**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
@@ -104,15 +101,12 @@ Vinculemos la instancia de Marketing a Sales Insight en Dynamics. Así es como:
    >
    >Los siguientes campos deben sincronizarse con Marketing para *Posible cliente y Contacto* para que Sales Insight funcione:
    >
-   >    
-   >    
-   >    * Prioridad
-   >    * Urgencia
-   >    * Puntuación relativa
+   >* Prioridad
+   >* Urgencia
+   >* Puntuación relativa
 
-   >    
-   >    
-   >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >
+   >Si falta alguno de estos campos, verá un mensaje de error en el menú de marketing con el nombre de los campos que faltan. Para solucionarlo, realice [este procedimiento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
 1. De nuevo en Microsoft Dynamics, vaya a **Configuración**.
 
@@ -162,5 +156,4 @@ Ahora ha desbloqueado la potencia de la perspectiva de ventas de marketing para 
 
 >[!MORELIKETHIS]
 >
->[Configuración de estrellas y llamas para registros de contacto/posibles clientes](http://docs.marketo.com/x/BICMAg)
-
+>[Configuración de estrellas y llamas para registros de contacto/posibles clientes](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
