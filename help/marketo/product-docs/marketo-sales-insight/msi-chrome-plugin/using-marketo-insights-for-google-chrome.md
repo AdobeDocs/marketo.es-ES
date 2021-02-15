@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: Uso de Marketo Insights para Google Chrome - Marketo Docs - Documentación del producto
 title: Uso de perspectivas de marketing para Google Chrome
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
 
 >[!PREREQUISITES]
 >
->* [Instalación de perspectivas de marketing para Google Chrome](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[Instalación de perspectivas de marketing para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Enviar un correo electrónico con perspectivas de marketing {#send-an-email-with-marketo-insights}
 
@@ -41,11 +37,11 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
    >
    >Si lo desea, haga clic en la flecha de doble para expandirse a una vista de pantalla completa.
 
-1. Si desea rellenar previamente el correo electrónico con una plantilla de marketing publicada, haga clic en **Más opciones** y seleccione **Cargar plantilla de marketing.**
+1. Si desea rellenar previamente el correo electrónico con una plantilla de marketing publicada, haga clic en **Más opciones** y seleccione **Cargar plantilla de marketing**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Seleccione una **plantilla disponible** y haga clic en **Aceptar.**
+1. Seleccione una **plantilla disponible** y haga clic en **Aceptar**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -75,10 +71,6 @@ Puede registrar las respuestas y la actividad antigua en el historial de activid
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Instalación de perspectivas de marketing para Google Chrome](install-marketo-insights-for-google-chrome.md)
-   >    * [Información y Actividades de persona y cuenta de vista en Google Mail](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Instalación de perspectivas de marketing para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Información y Actividades de persona y cuenta de vista en Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
