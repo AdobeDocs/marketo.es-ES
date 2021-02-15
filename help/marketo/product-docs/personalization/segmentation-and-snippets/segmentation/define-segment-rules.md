@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: Definir reglas de segmentos - Documentos de marketing - Documentación del producto
 title: Definir reglas de segmentos
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ La definición de reglas de segmentos le permite categorizar a sus personas en d
    >**Buceo profundo**
    >
    >
-   >Las Listas inteligentes son increíbles. Aprenda todo lo que puede hacer con [Listas inteligentes y Listas estáticas](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >Las Listas inteligentes son increíbles. Aprenda todo lo que puede hacer con [Listas inteligentes y Listas estáticas](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
 1. Haga clic en la ficha **Personas (borrador)** para vista de las personas que pueden calificar para ser miembros de este segmento.
 
@@ -63,7 +63,7 @@ La definición de reglas de segmentos le permite categorizar a sus personas en d
    >El número total de segmentos que puede crear en una segmentación depende del número y el tipo de filtros utilizados y también de la complejidad de la lógica de los segmentos. Aunque puede crear hasta 100 segmentos mediante campos estándar, el uso de otros tipos de filtros puede aumentar la complejidad y la segmentación podría no aprobarse. Algunos ejemplos son: campos personalizados, miembro de lista, campos de propietario de posibles clientes y etapas de ingresos.
    >
    >
-   >Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](http://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Consulte el panel para obtener una descripción general rápida de los segmentos en un gráfico circular, así como las reglas aplicadas.
 
@@ -73,7 +73,7 @@ La definición de reglas de segmentos le permite categorizar a sus personas en d
 
 >[!NOTE]
 >
->Una persona puede calificar para diferentes segmentos, pero finalmente pertenece a uno solo que depende del [orden de prioridad de los segmentos](segmentation-order-priority.md).
+>Una persona puede cumplir los requisitos para distintos segmentos, pero finalmente pertenece a uno solo que depende del [orden de prioridad de los segmentos](segmentation-order-priority.md).
 
 >[!NOTE]
 >
