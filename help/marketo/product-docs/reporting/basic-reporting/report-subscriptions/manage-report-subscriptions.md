@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: Administrar Suscripciones de informes - Documentos de marketing - Documentación del producto
 title: Administrar Suscripciones de informes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Configurar y eliminar suscripciones de informes.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Esta página muestra las suscripciones a todos los informes de su cuenta, agrupados por [tipo de informe](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Esto incluye [suscripciones a informes básicos](subscribe-to-a-basic-report.md) y a [informes del Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Esta página muestra las suscripciones a todos los informes de su cuenta, agrupados por [tipo de informe](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Esto incluye [suscripciones a informes básicos](subscribe-to-a-basic-report.md) y a [informes del Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ Configurar y eliminar suscripciones de informes.
    >    * [Suscripción a un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   Obtenga más información en las inmersiones profundas [Basic Sistema de informes](http://docs.marketo.com/display/docs/basic+reporting) y [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Obtenga más información en las inmersiones profundas [Basic Sistema de informes](https://docs.marketo.com/display/docs/basic+reporting) y [Revenue Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
