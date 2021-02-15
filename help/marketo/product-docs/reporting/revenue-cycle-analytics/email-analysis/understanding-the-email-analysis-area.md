@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Explicación del área de Análisis de correo electrónico - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de correo electrónico
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,11 +18,11 @@ El área de Análisis de correo electrónico se centra en las métricas de corre
 >[!AVAILABILITY]
 >
 >
->Esto está disponible para los usuarios con el complemento Select Edition o [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Póngase en contacto con su representante de ventas para obtener más detalles.
+>Esto está disponible para los usuarios con el complemento Select Edition o [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Póngase en contacto con su representante de ventas para obtener más detalles.
 
 ## Cuadrícula de calor de Actividad de clics por correo electrónico {#email-click-activity-heat-grid}
 
-Este informe muestra el día de la semana y la hora del día en que los posibles clientes hacen clic en los correos electrónicos. Cuanto más verde sea el cuadro, más clics habrá en ese día y hora específicos. El filtro actual incluye todos los correos electrónicos enviados en los últimos 7 días. El tiempo está en CCT.
+Este informe muestra el día de la semana y la hora del día en que los posibles clientes hacen clic en los correos electrónicos. Cuanto más verde sea la casilla, más clics habrá en ese día y hora específicos. El filtro actual incluye todos los correos electrónicos enviados en los últimos 7 días. El tiempo está en CCT.
 
 ![](assets/image2015-5-6-17-3a17-3a34.png)
 
