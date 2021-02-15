@@ -108,31 +108,23 @@ Defina los parámetros generales del segmento:
 >1. Usar todos los Filtros (1 y 2 y 3...)
 >1. Usar cualquier Filtros (1, 2 o 3...)
 >1. Filtros avanzados (uso y/o expresiones)
-
-   >
-   >    
-   Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
-   >
-   >    
-   * 1 y 2 y 3
-   >    * 1 o 2 o 3
-
-   >
-   La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
-
-   * 1 y (2 o 3)
-   * (1 y 2) o 3
-
-   Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
-
-   * (1 y 2) o (3 y 4)
-   * 1 y (2 o (3 y 4)
-
-   Compruebe la lógica después de insertar, eliminar o reordenar.
-
-
-
-
+>
+>    Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
+>
+>    * 1 y 2 y 3
+>    * 1 o 2 o 3
+>
+>    La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
+>
+>    * 1 y (2 o 3)
+>    * (1 y 2) o 3
+>
+>    Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
+>
+>    * (1 y 2) o (3 y 4)
+>    * 1 y (2 o (3 y 4)
+>
+>    Compruebe la lógica después de insertar, eliminar o reordenar.
 
 
 Arrastre y suelte los atributos del segmento desde la columna del lado derecho en el editor de segmentos del lado izquierdo:
