@@ -3,7 +3,7 @@ unique-page-id: 10100649
 description: Configuración del fondo de los mensajes en la aplicación - Documentos de marketing - Documentación del producto
 title: Configuración del fondo de los mensajes en la aplicación
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -75,7 +75,7 @@ La selección de un fondo de mensaje es un paso importante para finalizar el men
    >    
    >    
    >    * [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Envío de un mensaje en la aplicación](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [Envío de un mensaje en la aplicación](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
 
 
