@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: Generar un informe de Análisis por correo electrónico que muestre información de Programa - Documentos de marketing - Documentación del producto
 title: Generar un informe de Análisis de correo electrónico que muestre información de Programa
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ Siga estos pasos para crear un informe de Análisis de correo electrónico que m
    >**Buceo profundo**
    >
    >
-   >¿Desea obtener más información acerca del [Explorador del ciclo de ingresos](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >¿Desea obtener más información acerca del [Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
