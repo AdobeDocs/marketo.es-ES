@@ -3,7 +3,7 @@ unique-page-id: 2951052
 description: Notas de la versión - Diciembre de 2013 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - diciembre de 2013
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Notas de la versión: Diciembre de 2013 {#release-notes-december}
 
-Las siguientes funciones se incluyen en la versión de diciembre. Consulte su [edición de marketing](http://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
+Las siguientes funciones se incluyen en la versión de diciembre. Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
 
 Después de la versión, asegúrese de consultar la ficha Nueva versión de la comunidad para ver los artículos detallados de la Base de conocimiento de cada función.
 
 ## Fotos de fondo dulces {#sweet-background-photos}
 
-Hemos empezado a expresar nuestro estilo creativo en la aplicación. Cada trimestre, se mostrará un nuevo artista. Para comenzar, seleccionamos [Trey Ratcliff](http://stuckincustoms.smugmug.com/).
+Hemos empezado a expresar nuestro estilo creativo en la aplicación. Cada trimestre, se mostrará un nuevo artista. Para comenzar, seleccionamos [Trey Ratcliff](https://stuckincustoms.smugmug.com/).
 
 ## Programa de correo electrónico {#email-program}
 
