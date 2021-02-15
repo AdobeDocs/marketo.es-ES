@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Seleccionar columnas de informes - Documentos de marketing - Documentación del producto
 title: Seleccionar columnas del informe
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Puede elegir qué columnas se incluyen en el informe y cuáles no.
    >    * [Ordenar informe por columnas](sort-report-on-columns.md)
 
 
-   ¡Haz más con los informes! Consulte [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting).
+   ¡Haz más con los informes! Consulte [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
 
