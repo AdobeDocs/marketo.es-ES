@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Previsualización y prueba de una Campaña Web - Documentos de marketing - Documentación del producto
 title: Previsualización y prueba de una Campaña Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Este artículo muestra diferentes formas de previsualización de una campaña we
 
    >[!NOTE]
    >
-   >También tiene la opción de instalar un complemento de explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia de vista previa de la campaña. Consulte la sección siguiente.
+   >También tiene la opción de instalar un complemento de explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia de vista previa de la campaña. Consulte la sección siguiente.
 
 ## Previsualización de una Campaña Web en la página de creación mediante el complemento del explorador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -92,7 +92,7 @@ Cree un segmento de simulación de pruebas y una campaña.
 1. Complete el elemento creativo de la campaña y haga clic en **Iniciar**.\
    ![](assets/click-launch.jpg)
 
-1. Vaya a su sitio web, agregue el parámetro de URL &quot;?sandbox=1&quot; al final de la dirección URL. Ejemplo: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Vaya a su sitio web, agregue el parámetro de URL &quot;?sandbox=1&quot; al final de la dirección URL. Ejemplo: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Consulte las reacciones de la campaña en su sitio web.
 
 >[!NOTE]
