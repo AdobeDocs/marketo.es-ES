@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Notas de la versión - Primavera '18 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Primavera de 2018
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Haga clic en los vínculos de título para vista de artículos detallados para c
 >
 >El compromiso de ventas es un producto complementario. Póngase en contacto con el administrador de éxito del cliente de marketing o con el ejecutivo de cuentas para obtener una cotización.
 
-Aumente el flujo y los ingresos al potenciar las ventas con inteligencia, contenido, libros de reproducción y análisis para convertir más de sus posibles clientes en oportunidades de ventas. El compromiso de ventas proporciona ventas y mercadotecnia con una plataforma unificada para el compromiso a lo largo del viaje del cliente y permite una mejor coordinación mediante una vista compartida de puntos de contacto del cliente.
+Aumente el flujo y los ingresos al potenciar las ventas con inteligencia, contenido, libros de reproducción y análisis para convertir más de sus posibles clientes en oportunidades de ventas. El compromiso de ventas proporciona ventas y mercadotecnia con una plataforma unificada para el compromiso en todo el recorrido del cliente y permite una mejor coordinación mediante una vista compartida de puntos de contacto con el cliente.
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ Establezca el objetivo del algoritmo de optimización de contenido<sup>AI</sup> 
 
 Envíe notificaciones del sistema y momentos interesantes al área de trabajo de Facebook.
 
-[API de Lista estática](http://developers.marketo.com/rest-api/assets/static-lists/)
+[API de Lista estática](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Administre listas entre Marketing y otros sistemas más fácilmente con las nuevas API bidireccionales para crear, leer, actualizar y eliminar listas estáticas de forma remota sin realizar ninguna acción en la interfaz de usuario de Marketing Cloud.
 
 ## Mejoras de privacidad {#privacy-enhancements}
 
-[Privacidad de seguimiento web](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacidad de seguimiento web](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 El seguimiento Munchkin mejorado cumple con las regulaciones de privacidad locales e internacionales al anonimizar las direcciones IP de los visitantes web y permitirles optar por no participar en el seguimiento web de forma permanente.
