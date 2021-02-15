@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Explicación de la configuración de privacidad - Documentos de marketing - Documentación del producto
 title: Explicación de la configuración de privacidad
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Los especialistas en marketing pueden preservar la privacidad rastreando a los u
 
    >[!NOTE]
    >
-   >El uso de este parámetro requiere que Munchkin V2 esté habilitado. Para habilitarla para su suscripción, póngase en contacto con [Asistencia técnica de marketing](http://nation.marketo.com/community/support_solutions).
+   >El uso de este parámetro requiere que Munchkin V2 esté habilitado. Para habilitarla para su suscripción, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/community/support_solutions).
 
 * En Personalización web (RTP), agregue esto a javascript:
 
