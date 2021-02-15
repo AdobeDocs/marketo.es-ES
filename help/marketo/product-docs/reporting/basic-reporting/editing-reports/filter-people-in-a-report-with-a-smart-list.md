@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: Filtrar personas en un informe con una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Filtrar personas en un informe con una Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Puede utilizar listas inteligentes con estos tipos de informes:
 
 * [Rendimiento de las personas](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personas por estado](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personas por etapa de ingresos](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [Personas por etapa de ingresos](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [Rendimiento del correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Rendimiento de vínculo de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Rendimiento del flujo de participación](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ Puede utilizar listas inteligentes con estos tipos de informes:
    >**Buceo profundo**
    >
    >
-   >Para obtener más información sobre cómo utilizar los informes, consulte la sección [Sistema de informes básico](http://docs.marketo.com/display/docs/basic+reporting) profunda.
+   >Para obtener más información sobre cómo utilizar los informes, consulte la sección [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) profunda.
 
