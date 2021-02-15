@@ -3,7 +3,7 @@ unique-page-id: 37357050
 description: Actualización del paquete MSI - Documentos de marketing - Documentación del producto
 title: Actualización del paquete MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Actualización del paquete MSI {#upgrading-your-msi-package}
 
-1. Vaya a [esta página en appexchange](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+1. Vaya a [esta página en appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 1. Inicie sesión en la instancia de Salesforce (la que esté conectada a la instancia de Marketing, puede ser un simulador para pruebas o producción) desde la esquina superior derecha de la página desde el paso uno. Debe tener privilegios de administrador para instalar o actualizar un paquete administrado en Salesforce.
 1. Haga clic en el botón **Get It Now**. Se le pedirá que elija dónde desea instalar. Se le dará la opción de actualizar porque ya tiene una versión anterior de MSI. Elija una opción en función de la cuenta en la que haya iniciado sesión durante el paso uno.
 
