@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Deshabilitar el seguimiento de un vínculo de correo electrónico - Documentos de marketing - Documentación del producto
 title: Deshabilitar el seguimiento de un vínculo de correo electrónico
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ A veces no desea habilitar la **URL de seguimiento de marketing** en un vínculo
    >[!TIP]
    >
    >¿Desea deshabilitar el rastreo de clics para un vínculo en una **plantilla** de correo electrónico? Utilice este formato:
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Si necesita ayuda para implementar esto, consulte a su desarrollador web.
 
 ¡Bonito! Ahora deshabilitó el seguimiento de un vínculo.
