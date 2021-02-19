@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Instalación del Añada de Marketing to para Outlook con una clave de empresa - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de Marketing to para Outlook con una clave de empresa
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Muchas veces, los representantes de ventas no tienen privilegios administrativos
 
 >[!PREREQUISITES]
 >
->El administrador debe haber [emitido una licencia de Añada de correo electrónico de Marketing](issue-a-marketo-email-add-in-license.md).
+>El administrador debe haber [emitido una licencia de Añada de correo electrónico de Marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
->Si no ve el botón Clave de empresa de Vista, póngase en contacto con [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371) para habilitarlo.
+>Si no ve el botón Clave de empresa de Vista, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitarla.
 
-1. En Mi marketing, haga clic en **Administración** y luego en **Perspectiva de ventas.**
+1. En Mi marketing, haga clic en **Administración** y luego en **Perspectiva de ventas**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
@@ -35,17 +35,8 @@ Muchas veces, los representantes de ventas no tienen privilegios administrativos
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Copie la clave de licencia empresarial de Outlook y péguela en un correo electrónico, junto con [este vínculo](marketo-outlook-plugin-installation-by-it.md), y envíelo a su departamento de TI para la instalación remota.
+1. Copie la clave de licencia empresarial de Outlook y péguela en un correo electrónico, junto con [este vínculo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), y envíelo a su departamento de TI para la instalación remota.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   ¡Eso es todo! A continuación, el representante de ventas pasará por el [proceso de registro](authorize-the-marketo-outlook-plugin.md). Puede enviarles un vínculo a las instrucciones (consulte **Artículos relacionados con el marketing**).
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [Autorización del complemento de MarketingTo Outlook](authorize-the-marketo-outlook-plugin.md)
-
-
+   ¡Eso es todo! A continuación, el representante de ventas pasará por el [proceso de registro](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
