@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: Autorizar el complemento de Marketo para Outlook - Documentos de marketing - Documentación del producto
 title: Autorización del complemento de MarketingTo Outlook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Para utilizar el complemento MSI de MarketingTo en Outlook, debe autorizarlo.
 1. Si la dirección de correo electrónico no está autorizada, recibirá este correo electrónico menos feliz. Póngase en contacto con el administrador de marketing para resolver el problema.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
