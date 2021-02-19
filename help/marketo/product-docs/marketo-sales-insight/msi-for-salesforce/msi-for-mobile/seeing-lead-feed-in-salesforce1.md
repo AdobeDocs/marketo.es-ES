@@ -3,7 +3,7 @@ unique-page-id: 7512654
 description: Ver la fuente de posibles clientes en Salesforce1 - Documentos de marketing - Documentación del producto
 title: Visualización de la fuente de posibles clientes en Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -33,11 +33,7 @@ La fuente de posibles clientes es una lista de eventos interesantes hecha por su
 
 >[!MORELIKETHIS]
 >
->* [Momentos interesantes en Salesforce1](interesting-moments-in-salesforce1.md)
->* [Enviar mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Mejores apuestas en Salesforce1](best-bets-in-salesforce1.md)
-
->
-
-
+>* [Momentos interesantes en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Enviar mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Mejores apuestas en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 
