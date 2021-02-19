@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Personalizar estrellas y llamas - Documentos de marketing - Documentación del producto
 title: Personalizar estrellas y llamas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketing to Sales Insight utiliza estrellas y llamas para priorizar los posible
 
 >[!AVAILABILITY]
 >
->
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
 >[!NOTE]
 >
 >**Se requieren permisos de administración**
 
-1. En Administración, haga clic en Perspectiva de ventas.
+1. En Administración, haga clic en **Perspectiva de ventas**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. En la sección **Configuración de puntuación de posibles clientes** haga clic en **Editar**.
+1. En la sección **Configuración de puntuación de posibles clientes**, haga clic en **Editar**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
@@ -38,9 +37,7 @@ Marketing to Sales Insight utiliza estrellas y llamas para priorizar los posible
    >
    >**Definición**
    >
-   >
-   >**Dinámico** : es un valor de porcentaje que se deriva de los datos [ ](priority-urgency-relative-score-and-best-bets.md)relativos. Increíble. Se recomienda este método.
-   >
+   >**Dinámico** : es un valor de porcentaje que se deriva de los datos [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)relativos. Increíble. Se recomienda este método.
    >
    >**Estático** : Permite definir números de puntuación exactos, no más porcentajes, no más salsas secretas.
 
@@ -50,14 +47,11 @@ Marketing to Sales Insight utiliza estrellas y llamas para priorizar los posible
 
    >[!TIP]
    >
-   >
    >Solo tiene que editar el porcentaje inicial, ¡Marketing calculará el porcentaje final por usted!
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Recordatorio**
 >
 >Una vez que se realicen los cambios, el proceso de volver a calcular las estrellas y las llamas tomará algún tiempo. La paciencia es una virtud.
 
