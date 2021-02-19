@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: Definir los campos de puntuación que se utilizarán para las estrellas y las llamas en la perspectiva de ventas - Documentos de marketing - Documentación del producto
 title: Definir los campos de puntuación que se utilizarán para las estrellas y las llamas en la perspectiva de ventas
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación de
 
 >[!TIP]
 >
->Si todavía no tiene los campos de puntuación personalizados, aquí se explica cómo [crearlos](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+>Si aún no tiene los campos de puntuación personalizados, puede [crearlos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definición**
 >
->* **Estrellas: **Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes.
+>* **Estrellas**: Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes.
 >* **Flames**: Las llamas representan la urgencia - cuánto ha cambiado recientemente la puntuación de un posible cliente.
 
 >
@@ -50,7 +50,8 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación de
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Haga clic en Guardar.
+1. Haga clic en **Guardar**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo **Puntuación de
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Prioridad, urgencia, puntuación relativa y mejores apuestas](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Prioridad, urgencia, puntuación relativa y mejores apuestas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
