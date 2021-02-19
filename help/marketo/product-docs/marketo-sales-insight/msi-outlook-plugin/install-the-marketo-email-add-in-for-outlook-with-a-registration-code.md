@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro - Documentos de marketing - Documentación del producto
 title: Instalación del Añada de correo electrónico de marketing para Outlook con un código de registro
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
 >[!PREREQUISITES]
 >
->* Debe recibir [una licencia de Añada de correo electrónico de Marketing](issue-a-marketo-email-add-in-license.md).
-
->
-
-
+>Debe recibir [una licencia de Añada de correo electrónico de Marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 ## Descargar instalador {#download-installer}
 
 1. Identifique su [versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+
 1. Haga clic en el vínculo para descargar el instalador adecuado para su versión de Microsoft Outlook.
 
    >[!NOTE]
@@ -71,7 +68,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Rellene **Nombre**, **Apellidos**, **Dirección de correo electrónico**, luego copie y pegue el **código de registro **del correo electrónico en el formulario y haga clic en **Siguiente**.
+1. Rellene **Nombre**, **Apellidos**, **Dirección de correo electrónico**, luego copie y pegue el **código de registro** del correo electrónico en el formulario y haga clic en **Siguiente**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si la instalación falla, consulte con el departamento de TI para asegurarse de que el tráfico HTTPS no está bloqueado. El programa de instalación requiere que se abra el tráfico HTTPS.
 
-1. Haga clic en** Siguiente** para realizar la instalación en la ubicación predeterminada.
+1. Haga clic en **Siguiente** para realizar la instalación en la ubicación predeterminada.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ Obtenga más información sobre el uso de las acciones Mensaje de marketing y Re
 
 >[!MORELIKETHIS]
 >
->* [Envío y seguimiento de un correo electrónico con el Añada de correo electrónico de marketing para Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Envío y seguimiento de un correo electrónico con el Añada de correo electrónico de marketing para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
