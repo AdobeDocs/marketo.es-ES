@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Enviar y realizar un seguimiento de un correo electrónico con el Añada de correo electrónico para Outlook - Documentos de marketing - Documentación del producto
 title: Envío y seguimiento de un correo electrónico con el Añada de correo electrónico para Outlook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Puede enviar y rastrear correos electrónicos con Marketing directamente desde O
 
 >[!PREREQUISITES]
 >
->Si aún no lo ha hecho, instale el complemento de correo electrónico [Marketing para Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si aún no lo ha hecho, instale el complemento de correo electrónico [Marketing para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Abra Microsoft Outlook y cree un nuevo correo electrónico.
 
@@ -37,7 +37,7 @@ Puede enviar y rastrear correos electrónicos con Marketing directamente desde O
 
    >[!TIP]
    >
-   >Si desea utilizar una plantilla de Marketing, consulte [Enviar y realizar un seguimiento desde Outlook usando una plantilla](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Si desea utilizar una plantilla de Marketing, consulte [Enviar y realizar un seguimiento desde Outlook usando una plantilla](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Eche un vistazo a la previsualización y haga clic en **Enviar**.
 
@@ -55,9 +55,4 @@ Puede enviar y rastrear correos electrónicos con Marketing directamente desde O
 
 >[!MORELIKETHIS]
 >
->* [Registrar correo entrante de los posibles clientes en el mercado](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Registrar correo entrante de los posibles clientes en el mercado](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
