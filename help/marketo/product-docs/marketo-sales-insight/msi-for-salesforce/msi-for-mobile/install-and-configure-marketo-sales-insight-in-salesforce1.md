@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Instalar y configurar MarketingTo Sales Insight en Salesforce1 - Documentos de marketing - Documentación del producto
 title: Instalar y configurar MarketingTo Sales Insight en Salesforce1
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -15,24 +15,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Recordatorio**
->
->Clientes existentes, [Actualice su paquete MSI](https://docs.marketo.com/x/_gU6Ag) antes de continuar.
+>Clientes existentes, [Actualice su paquete MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) antes de continuar.
 
 >[!PREREQUISITES]
 >
 >Si tiene Salesforce Enterprise/Unlimited:
 >
->* [Paso 1 de 3: Añadir campos de marketing a Salesforce (Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [Paso 2 de 3: Crear un usuario de Salesforce para el marketing (Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [Paso 3 de 3: Connect Marketing y Salesforce (Enterprise/Unlimited)](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Paso 1 de 3: Añadir campos de marketing a Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [Paso 2 de 3: Crear un usuario de Salesforce para el marketing (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [Paso 3 de 3: Connect Marketing y Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>* [Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 >
 >
 Si tiene Salesforce Professional:
 >
->* [Configuración de la perspectiva de ventas de marketing en Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Configuración de la perspectiva de ventas de marketing en Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
 >
 
@@ -42,7 +40,8 @@ Si tiene Salesforce Professional:
 >
 >La perspectiva de ventas de marketing en Salesforce1 incluye: Mejores apuestas, Alimentación de posibles clientes, Momentos interesantes y Añadir a la Campaña de marketing.
 
-1. Habilitar la aplicación móvil de Salesforce1
+## Habilitar la aplicación móvil de Salesforce1 {#enable-the-salesforce1-mobile-app}
+
 1. Haga clic en **Configuración** y luego **Administración de móviles**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
@@ -71,15 +70,16 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. Seleccione **Marcado **y **Añada **en los elementos de menú **Seleccionado **Seleccionado.
+1. Seleccione **Marcado** y **Añada** en los elementos de menú **Seleccionado**.
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Seleccione **Marketo**, muévalo **Up **a un área deseada y haga clic en **Guardar**.
+1. Seleccione **Marketo**, muévalo **Arriba** a un área deseada y haga clic en **Guardar**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
-1. Ocultar objeto personalizado de marketing obsoleto
+## Ocultar objeto personalizado de marketing obsoleto {#hide-outdated-marketo-custom-object}
+
 1. Haga clic en **Configuración**.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
@@ -92,28 +92,25 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
-1. Haga clic para **editar **cualquier perfil que desee.
+1. Haga clic para **editar** cualquier perfil que desee.
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. En **Configuración de tabulación**, seleccione *first* **Marketo**.
+1. En **Configuración de tabulación**, seleccione _first_ **Marketo**.
 
-   ** ![](assets/image2015-5-5-13-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-5-5-13-3a55-3a36.png)
 
 1. Seleccione **Tabulación oculta**.
 
-   ** ![](assets/image2015-5-5-14-3a2-3a29.png)
-
-   **
+   ![](assets/image2015-5-5-14-3a2-3a29.png)
 
    >[!NOTE]
    >
    >¡Asegúrese de ocultar la ficha Marketo para todos los perfiles deseados!
 
-1. Personalizar fichas
-1. Haga clic en** +**.
+## Personalizar fichas {#customize-tabs}
+
+1. Haga clic en **+**.
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
@@ -121,15 +118,16 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Seleccione **Marketo** y **Añadir **it a las fichas seleccionadas.
+1. Seleccione **Marketo** y **Añada** a las fichas seleccionadas.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Seleccione **Marketo**, muévalo **Up **a un área deseada y haga clic en **Guardar**.
+1. Seleccione **Marketo**, muévalo **Arriba** a un área deseada y haga clic en **Guardar**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
-1. Personalizar diseños de página
+## Personalizar diseños de página {#customize-page-layouts}
+
 1. Haga clic en **Configuración**.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
@@ -146,7 +144,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Haga clic en **Visualforce Pages **y, a continuación, arrastre** Lead Mobile **a la sección Mobile Cards (Tarjetas móviles).
+1. Haga clic en **Páginas de VisualForce** y luego arrastre **Dispositivos portátiles** a la sección Tarjetas móviles.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +152,7 @@ Si tiene Salesforce Professional:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Haga clic en **Campos** y arrastre **Añadir a la Campaña de marketing **a la sección** Perspectiva de ventas de marketing **s.
+1. Haga clic en **Campos** y arrastre **Añadir a la Campaña de marketing** a la sección **Perspectiva de ventas de marketing**.
 
    ![](assets/configure-step-6.png)
 
@@ -170,11 +168,7 @@ Si tiene Salesforce Professional:
 
 >[!MORELIKETHIS]
 >
->* [Mejores apuestas en Salesforce1](best-bets-in-salesforce1.md)
->* [Momentos interesantes en Salesforce1](interesting-moments-in-salesforce1.md)
->* [Enviar mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1](send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
-
->
-
-
+>* [Mejores apuestas en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Momentos interesantes en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Enviar mensaje de correo electrónico y Campaña de marketing y acciones de lista de observación en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 
