@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Prioridad, Urgencia, Puntuación relativa y Mejores apuestas - Documentos de marketing - Documentación del producto
 title: Prioridad, urgencia, puntuación relativa y mejores apuestas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Las Mejores Apuestas son sus posibles clientes y contactos con la mayor urgencia
 
 >[!NOTE]
 >
->Si sus mejores apuestas no coinciden con los mejores leads y contactos que posee, hable con alguien de su compañía que tenga acceso a Marketing para actualizar sus [Reglas de Puntuación](../../../../../getting-started/quick-wins/simple-scoring.md).
+>Si sus mejores apuestas no coinciden con los mejores leads y contactos que posee, hable con alguien de su compañía que tenga acceso a Marketing para actualizar sus [Reglas de Puntuación](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Cómo se calcula la urgencia y la puntuación relativa
 
@@ -54,8 +54,3 @@ A medida que cambian las puntuaciones, los valores de urgencia, prioridad y punt
 >[!NOTE]
 >
 >El recuento de la Urgencia relativa (llamas) y de la Puntuación relativa (estrellas) son enteros en el marketing. Los valores posibles para cada uno son 0-3.
-
->[!MORELIKETHIS]
->
->* [Perspectiva de ventas de marketing](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
