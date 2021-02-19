@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Verificar la configuración push - Documentos de marketing - Documentación del producto
 title: Verificar configuración push
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -27,23 +27,20 @@ Compruebe la configuración push para asegurarse de que todo se sincroniza corre
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   Seleccione la aplicación móvil que desee.
+1. Seleccione la aplicación móvil que desee.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-   Haga clic en Acciones de aplicación móvil y seleccione Verificar configuración push.
+1. Haga clic en **Acciones de aplicación móvil** y seleccione **Verificar configuración push**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-   Confirme que las plataformas que desee lean están verificadas y haga clic en CERRAR.
+1. Confirme que las plataformas que desee lean están verificadas y haga clic en **Cerrar**.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   ¡Todo listo! Ahora puede enviar inicios de notificaciones push ![(sonrisa)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)
+
+¡Todo listo! Ahora puede enviar inicios push.
 
 >[!MORELIKETHIS]
 >
->* [Crear una notificación push](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
-
+>[Crear una notificación push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
