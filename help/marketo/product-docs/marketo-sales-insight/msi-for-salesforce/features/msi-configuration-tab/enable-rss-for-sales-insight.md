@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: Habilitar RSS para perspectiva de ventas - Documentos de marketing - Documentación del producto
 title: Habilitar RSS para perspectiva de ventas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Si los usuarios de Marketing to desean vista de su fuente de posibles clientes n
 
    ![](assets/rss-settings-tab.png)
 
-   En el cuadro de diálogo Editar configuración, marque la casilla **fuente RSS** y haga clic en **Guardar**.
+1. En el cuadro de diálogo Editar configuración, marque la casilla **fuente RSS** y haga clic en **Guardar**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ Si los usuarios de Marketing to desean vista de su fuente de posibles clientes n
    ![](assets/rss-final-box.png)
 
    ¡Un pedazo de torta!
-
