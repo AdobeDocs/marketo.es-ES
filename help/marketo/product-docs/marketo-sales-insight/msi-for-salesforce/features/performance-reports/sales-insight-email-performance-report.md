@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: Informe de rendimiento de correo electrónico de perspectiva de ventas - Documentos de marketing - Documentación del producto
 title: Informe de rendimiento de correo electrónico de perspectiva de ventas
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Puede realizar la vista de este informe agrupado por representante de ventas cam
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Muy bien, ¿eh? Ahora puede ver el rendimiento de los correos electrónicos agrupados por representante de ventas.
-
