@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: Añadir una aplicación móvil - Documentos de marketing - Documentación del producto
 title: Añadir una aplicación móvil
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Las aplicaciones normalmente se inicio en un entorno de simulación de pruebas, 
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Haga clic en** Aplicaciones y dispositivos móviles**.
+1. Haga clic en **Aplicaciones y dispositivos móviles**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   Haga clic en Nueva aplicación móvil.
+1. Haga clic en **Nueva aplicación móvil**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ Las aplicaciones normalmente se inicio en un entorno de simulación de pruebas, 
 
 >[!MORELIKETHIS]
 >
->* [Configuración del acceso push de Android para aplicaciones móviles](configure-mobile-app-android-push-access.md)
->* [Configuración del acceso push de la aplicación móvil iOS](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [Configuración del acceso push de Android para aplicaciones móviles](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Configuración del acceso push de la aplicación móvil iOS](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
