@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Actualizar el Añada de correo electrónico de marketing para Outlook - Documentos de marketing - Documentación del producto
 title: Actualizar el Añada de correo electrónico de marketing para Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Haga clic en Siguiente.
+1. Haga clic en **Siguiente**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
    >
    >Si la instalación falla, trabaje con el departamento de TI para asegurarse de que el tráfico HTTPS no está bloqueado. El programa de instalación requiere que se abra el tráfico HTTPS.
 
-   Haga clic en Siguiente para realizar la instalación en la ubicación predeterminada.
+1. Haga clic en **Siguiente** para realizar la instalación en la ubicación predeterminada.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
 
 >[!MORELIKETHIS]
 >
->* [Envío y seguimiento de un correo electrónico con el Añada de correo electrónico de marketing para Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Envío y seguimiento de un correo electrónico con el Añada de correo electrónico de marketing para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar y realizar un seguimiento desde Outlook con una plantilla de marketing](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
