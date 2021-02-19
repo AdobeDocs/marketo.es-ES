@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Antes de crear notificaciones push y mensajes en la aplicación - Documentos de marketing - Documentación del producto
 title: Antes de crear notificaciones push y mensajes en la aplicación
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,21 @@ ht-degree: 0%
 
 La creación de notificaciones push y mensajes en la aplicación no es difícil, pero debe tener todo listo antes de poder realizar el inicio. El administrador de marketing y el desarrollador de aplicaciones móviles deben seguir los pasos a continuación para preparar las integraciones necesarias.
 
-1. En primer lugar, el administrador de marketing [agrega una aplicación móvil](add-a-mobile-app.md)
-1. A continuación, el administrador de marketing [envía un fragmento de código al desarrollador](send-sdk-code-to-a-developer.md)
-1. El desarrollador descarga el SDK e incluye fragmentos de código y otros métodos para [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) o [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
-1. De forma predeterminada, los mensajes en la aplicación se activan cuando se abre la aplicación. Si desea déclencheur de mensajes para otros eventos, como cuando se ve una página en particular o se pulsa un botón específico, el programador debe agregar eventos personalizados al código (consulte [Eventos personalizados para mensajes en la aplicación](#CustomEvents) más adelante)
-1. El desarrollador [genera la clave de API de servidor y el número de proyecto para Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) o [la certificación y contraseña para iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) y la envía al administrador de Marketing to
-1. El administrador de marketing configura el acceso de notificaciones push [con la clave de API de servidor (Android)](configure-mobile-app-android-push-access.md) o [con el certificado (iOS)](configure-mobile-app-ios-push-access.md)
+1. En primer lugar, el administrador de marketing [agrega una aplicación móvil](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
+
+1. A continuación, el administrador de marketing [envía un fragmento de código al desarrollador](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
+
+1. El desarrollador descarga el SDK e incluye fragmentos de código y otros métodos para [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) o [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/).
+
+1. De forma predeterminada, los mensajes en la aplicación se activan cuando se abre la aplicación. Si desea déclencheur de mensajes para otros eventos, como cuando se ve una página en particular o se pulsa un botón específico, el programador debe agregar eventos personalizados al código (consulte [Eventos personalizados para mensajes en la aplicación](#CustomEvents) más adelante).
+
+1. El desarrollador [genera la clave de API de servidor y el número de proyecto para Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) o [la certificación y contraseña para iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) y la envía al administrador de Marketing to.
+
+1. El administrador de marketing configura el acceso de notificaciones push [con la clave de API de servidor (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) o [con el certificado (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
 >[!TIP]
 >
->Es fácil para un administrador de marketing comprobar si la configuración push está verificada. Sólo vaya [aquí](verify-push-configuration.md).
+>Es fácil para un administrador de marketing comprobar si la configuración push está verificada. Sólo vaya [aquí](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
 
 ## Eventos personalizados para mensajes en la aplicación {#custom-events-for-in-app-messages}
 
@@ -34,12 +39,8 @@ Una vez que haya terminado toda la preparación de los mensajes en la aplicació
 
 >[!MORELIKETHIS]
 >
->* [Crear un mensaje en la aplicación](https://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Crear un mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
    >
    >
-* [Crear una notificación push](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
+* [Crear una notificación push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
