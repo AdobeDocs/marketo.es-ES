@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: Perspectiva de ventas para integraciones no nativas de Salesforce - Documentos de marketing - Documentación del producto
 title: Perspectiva de ventas para integraciones no nativas de Salesforce
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ Si su cuenta de Marketing está conectada a Salesforce a través de una integrac
 >* La API de REST de Marketing to [configuró correctamente](https://developers.marketo.com/rest-api/). Las API de CRUD expuestas serán la base para realizar la sincronización no nativa.
 >* Lea [esta entrada de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) para comprender el objeto y las relaciones.
 >* Configure los objetos de Salesforce para que muestren el identificador único global que distingue entre mayúsculas y minúsculas de 18 caracteres en lugar del identificador único global que distingue entre mayúsculas y minúsculas de 15 caracteres.
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ Documentación de API para sincronizar al vendedor: [https://developers.marketo.
 
 1. Sincronice las cuentas de Salesforce con Marketing.
 
-   Se deberá actualizar una Compañía de marketing para la cuenta de Salesforce. Los campos *externalCompanyId* y *externalSalesPersonId* tienen el mandato de mantener la Compañía.
+   Se deberá actualizar una Compañía de marketing para la cuenta de Salesforce. Los campos _externalCompanyId_ y _externalSalesPersonId_ tienen el mandato de mantener la Compañía.
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ Documentación de API para Compañías: [https://developers.marketo.com/rest-api
 
 1. Sincronice los leads/Contactos de Salesforce con Marketing.
 
-   Tendrá que mantener un posible cliente de marketing para el contacto/posible cliente de Salesforce. Los campos *externalPersonId*, *externalSalesPersonId* y *externalCompanyId* tienen el mandato de mantener el posible cliente.
+   Tendrá que mantener un posible cliente de marketing para el contacto/posible cliente de Salesforce. Los campos _externalPersonId_, _externalSalesPersonId_ y _externalCompanyId_ tienen el mandato de mantener el posible cliente.
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ Documentación de API para sincronizar leads:  [https://developers.marketo.com/r
 
 1. Sincronizar oportunidades de Salesforce con Marketing.
 
-   Tendrá que mantener una oportunidad de marketing para la oportunidad de Salesforce. Los campos *externalOpportunityId*, *externalCompanyId* y *externalSalesPersonId* tienen el mandato de mantener la oportunidad.
+   Tendrá que mantener una oportunidad de marketing para la oportunidad de Salesforce. Los campos _externalOpportunityId_, _externalCompanyId_ y _externalSalesPersonId_ tienen el mandato de mantener la oportunidad.
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
 
 1. Sincronizar funciones de contacto de Salesforce con Marketing.
 
-   Las funciones de contacto de Salesforce para una oportunidad de Salesforce se pueden sincronizar mediante la función de oportunidad de marketing. El registro de la función de oportunidad establece los campos *externalOpportunityId*, *role* y *leadId*.
+   Las funciones de contacto de Salesforce para una oportunidad de Salesforce se pueden sincronizar mediante la función de oportunidad de marketing. El registro de la función de oportunidad establece los campos _externalOpportunityId_, _role_ y _leadId_.
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
 
    Una vez que los objetos de Salesforce estén correctamente sincronizados con Marketing, podrá aprovechar las funciones MSI. Los campos Último momento interesante/Puntuación del MSI se exponen en la API de REST para posibles clientes. Los MSI calculan estos campos y son de solo lectura.
 
-   Los campos Último momento interesante/Puntuación de un posible cliente de marketing deberán sincronizarse regularmente con Salesforce mediante el extremo de posible cliente de la API de REST. Consulta este extremo para un posible cliente de marketing usando el *externalPersonId* como filterType y pasando el GUID de posible cliente de Salesforce como filterValue.
+   Los campos Último momento interesante/Puntuación de un posible cliente de marketing deberán sincronizarse regularmente con Salesforce mediante el extremo de posible cliente de la API de REST. Consulta este extremo para un posible cliente de marketing usando el _externalPersonId_ como filterType y pasando el GUID de posible cliente de Salesforce como filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
  </tbody> 
 </table>
 
-Documentación para la API de REST de posibles clientes:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+Documentación para la API de REST de posibles clientes: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 El uso correcto de los campos externos es clave para que la sincronización no nativa se realice correctamente. Si no ve los datos en algunas de las vistas, es probable que un campo determinado no se haya sincronizado correctamente. Por ejemplo, si las actividades de un posible cliente y los momentos interesantes no aparecen al buscar en el widget MSI debajo de su cuenta, es probable que la compañía del posible cliente o la cuenta no se hayan sincronizado correctamente. La realización de una solicitud de GET para este posible cliente al especificar los campos externos le ayudará a comprobar si el posible cliente se sincronizó correctamente. Además, el correo electrónico del vendedor externo en Marketing debe coincidir con el correo electrónico de ese usuario en Salesforce. Es posible que los datos no se muestren en la ficha Comercialización de Salesforce si los mensajes de correo electrónico no coinciden.
-
