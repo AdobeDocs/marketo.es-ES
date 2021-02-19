@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Tokens para momentos interesantes - Documentos de marketing - Documentación del producto
 title: Tokens para momentos interesantes
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Aprenda a utilizar el paso [Flujo de momento interesante](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Obtenga más información sobre [tokens](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Aprenda a utilizar el paso [Flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponibles {#available-tokens}
 
-Consulte [Información general de tokens](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
+Consulte [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
 
 ## Tokens de déclencheur {#trigger-tokens}
 
@@ -249,4 +244,3 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
 >Pruebe siempre los momentos interesantes para asegurarse de que representan el modo que usted desea.
 >
 >Además, asegúrese de que es interesante para el vendedor, no sólo para usted. ![(wink)](assets/wink.svg)>
-
