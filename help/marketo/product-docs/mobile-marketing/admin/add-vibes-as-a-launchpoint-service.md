@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: Añadir vídeos como un servicio de LaunchPoint - Documentos de marketing - Documentación del producto
 title: Añadir vibraciones como un servicio de LaunchPoint
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir vibraciones como un servicio de LaunchPoint {#add-vibes-as-a-launchpoint-service}
 
-Puedes enviar mensajes SMS a las personas de tus listas de Vibes y usar la actividad SMS para activar y filtrar campañas. En primer lugar, debe agregar Vibes como un servicio de LaunchPoint.
+Puedes enviar mensajes SMS a las personas de tus listas de Vibes y usar la actividad SMS para déclencheur y campañas de filtro. En primer lugar, debe agregar Vibes como un servicio de LaunchPoint.
 
 >[!NOTE]
 >
@@ -42,4 +42,3 @@ Puedes enviar mensajes SMS a las personas de tus listas de Vibes y usar la activ
    El nuevo servicio SMS ahora aparece en la lista de servicios instalados.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
