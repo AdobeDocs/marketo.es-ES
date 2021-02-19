@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: Uso de la fuente de posibles clientes - Documentos de marketing - Documentación del producto
 title: Uso de la fuente de posibles clientes
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ La fuente de posibles clientes es una lista de eventos interesantes hecha por su
 
 ## ¿Qué hay en la fuente de posibles clientes? {#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 Cada elemento de la fuente de posibles clientes es un momento interesante - una actividad o evento notable en el historial de marketing de este posible cliente.
 
 Al visualizarlo en Salesforce, cada elemento tiene:
@@ -73,17 +74,19 @@ Al visualizarlo en Salesforce, cada elemento tiene:
 
 También puede obtener las actualizaciones de fuentes de posibles clientes mediante la fuente RSS.  Una fuente RSS le permite recibir actualizaciones de sus leads aunque no esté conectado a Salesforce. La fuente tiene la misma información que la fuente de posibles clientes en Salesforce, así como lo siguiente (cuando está disponible):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* dirección de correo electrónico
+* número de teléfono
+* número móvil
+* número de fax
+* Dirección de compañía
+* URL de compañía
 
 >[!NOTE]
 >
->El administrador de marketing de su compañía debe [habilitar los recursos RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que esto funcione.
+>El administrador de marketing de su compañía debe [habilitar los recursos RSS](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que esto funcione.
 
-Para obtener actualizaciones RSS, necesitará dos cosas: el vínculo RSS y un lector de fuentes RSS. Para obtener el vínculo RSS, haga clic en el icono RSS de la fuente de posibles clientes:   ![](assets/three.png)
+Para obtener actualizaciones RSS, necesitará dos cosas: el vínculo RSS y un lector de fuentes RSS. Para obtener el vínculo RSS, haga clic en el icono RSS de la fuente de posibles clientes:
+
+![](assets/three.png)
 
 La fuente RSS aparecerá en una nueva ventana. A continuación, puede copiar la URL de su fuente RSS y utilizarla en un lector RSS. La mayoría de los navegadores tienen un lector RSS integrado o puede utilizar un lector RSS específico de su plataforma.
