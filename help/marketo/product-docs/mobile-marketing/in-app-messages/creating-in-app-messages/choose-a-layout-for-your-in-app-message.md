@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: Elija un diseño para el mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Elija un diseño para el mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -58,14 +58,8 @@ El tercer diseño de pantalla completa es el mismo que el segundo, excepto el se
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Ahora que conoce las plantillas, es hora de elegir una cuando [cree sus imágenes de mensajes en la aplicación](add-in-app-message-images.md).
+Ahora que conoce las plantillas, es hora de elegir una cuando [cree sus imágenes de mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
->* [Crear un mensaje en la aplicación](https://docs.marketo.com/display/docs/create+an+in-app+message)
->* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-
->
-
-
-
+>[Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
