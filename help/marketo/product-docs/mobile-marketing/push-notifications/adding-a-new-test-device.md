@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: Añadir un nuevo dispositivo de prueba - Documentos de marketing - Documentación del producto
 title: Añadir un nuevo dispositivo de prueba
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Es fácil agregar un nuevo dispositivo de prueba para insertar notificaciones.
 >
 >**Se requieren permisos de administración**
 
-1. Haga clic en **Administración **y, a continuación, en el vínculo **Aplicaciones móviles**.\
+1. Haga clic en **Administración** y luego en el vínculo **Aplicaciones móviles**.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Haga clic en la ficha **Probar dispositivos** y **Nuevo dispositivo de prueba**.
@@ -51,4 +52,3 @@ Es fácil agregar un nuevo dispositivo de prueba para insertar notificaciones.
 1. Se agregan las actualizaciones de estado para mostrar el dispositivo. ¡Felicitaciones!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
