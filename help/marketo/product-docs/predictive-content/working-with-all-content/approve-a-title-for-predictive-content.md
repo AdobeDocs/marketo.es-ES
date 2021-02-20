@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: Aprobar un título para contenido predictivo - Documentos de marketing - Documentación del producto
 title: Aprobar un título para contenido predictivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Aprobar un título para contenido predictivo {#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Puede agregar cualquier título de la página Todo el contenido al contenido predictivo aprobándolo en la página Todo el contenido o en la ventana emergente Editar contenido.
 
@@ -48,4 +44,3 @@ Independientemente del modo en que se utilice, el icono Aprobar contenido predic
 Y ahora puede ver el título mostrado en la página Contenido predictivo.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
