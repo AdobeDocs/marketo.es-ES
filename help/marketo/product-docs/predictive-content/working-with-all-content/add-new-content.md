@@ -3,19 +3,15 @@ unique-page-id: 11384651
 description: Añadir nuevo contenido - Documentos de marketing - Documentación del producto
 title: Añadir nuevo contenido
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # Añadir nuevo contenido {#add-new-content}
-
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Puede agregar fácilmente contenido manualmente a la página Todo el contenido.
 
@@ -39,5 +35,4 @@ Puede agregar fácilmente contenido manualmente a la página Todo el contenido.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. A continuación se muestra cómo agregarlo a [Contenido predictivo](https://docs.marketo.com/x/Vbet).
-
+1. A continuación se muestra cómo agregarlo a [Contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
