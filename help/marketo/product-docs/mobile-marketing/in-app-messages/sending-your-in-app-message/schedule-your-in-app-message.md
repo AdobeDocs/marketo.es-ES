@@ -3,7 +3,7 @@ unique-page-id: 11370503
 description: Programar el mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Programar el mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Envíe su mensaje ahora o programe su envío para más tarde.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-¡Fácil! Por último, pero no menos importante es el paso [Aprobación](approve-your-in-app-message.md).
+¡Fácil! Por último, pero no menos importante es el paso [Aprobación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
