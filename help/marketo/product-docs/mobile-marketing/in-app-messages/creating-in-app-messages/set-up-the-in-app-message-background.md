@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: Configuración del fondo de los mensajes en la aplicación - Documentos de marketing - Documentación del producto
 title: Configuración del fondo de los mensajes en la aplicación
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ La selección de un fondo de mensaje es un paso importante para finalizar el men
    >
    >Para tocar acciones para fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma distinta para Apple y Android. Si el mensaje va solamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
 
-   [configuración del botón Rechazar](set-up-the-dismiss-button-and-approve-the-message.md)
+   Para finalizar el trabajo, el último paso es [configurar el botón Descartar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Envío de un mensaje en la aplicación](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
+   >* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Envío de un mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-Para terminar el trabajo, el último paso es .
