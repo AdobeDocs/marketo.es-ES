@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Editar una segmentación - Documentos de marketing - Documentación del producto
 title: Editar una segmentación
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
    ![](assets/two.png)
 
-1. El **Estado **cambia a Aprobado con borrador. Se crea una carpeta **Draft **en la segmentación.
+1. El **estado** cambia a Aprobado con borrador. Se crea una carpeta **Draft** en la segmentación.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
    >
    >Solo puede editar segmentos de un borrador y no la segmentación aprobada.
 
-1. **Añadir segmento**, **Editar **existente (cambiar el nombre o cambiar el orden) o **Eliminar **cualquier segmento.
+1. **Añada Segmento**,  **** Edite existente (cambie el nombre o cambie el orden) o  **** Elimine cualquier segmento.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
 ## Editar reglas de segmentos {#edit-segment-rules}
 
-1. En el Segmento borrador ****, vaya a **Lista inteligente**. Aplique reglas similares a [Definición de reglas de segmentos](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. En el Segmento borrador ****, vaya a **Lista inteligente**. Aplique reglas similares a [Definición de reglas de segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Recuerde aprobar el borrador de la segmentación.
 
 No dude en experimentar con segmentaciones que no se utilicen en contenido dinámico.
 
 >[!MORELIKETHIS]
 >
->* [Eliminar una segmentación](delete-a-segmentation.md)
-
->
-
-
-
+>[Eliminar una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
