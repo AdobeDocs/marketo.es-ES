@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Información general de análisis de contenido predictivo - Documentos de marketing - Documentación del producto
 title: Información general de análisis de contenido predictivo
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Utilice el análisis de contenido para obtener más información sobre el conten
 
 ## Información general {#overview}
 
-En la página Resumen, haga clic en Analytics.
+En la página Resumen, haga clic en **Analytics**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Pase el ratón sobre una imagen en Contenido sugerido para mostrar las opciones 
 
 >[!NOTE]
 >
->**Explicación**
->
 >¿Ven esos iconos en la parte inferior? De izquierda a derecha son: Vista de contenido, Exportar a CSV, Aprobar contenido.
 
 ## Contenido {#content}
@@ -96,4 +94,3 @@ Busque la parte de contenido deseada y haga clic en ella para ver detalles adici
 >[!NOTE]
 >
 >El contenido similar se basa en la parte de contenido seleccionada y se calcula mediante un algoritmo de reglas de asociación. Los resultados representan las partes de contenido en las que los visitantes harán clic con mayor probabilidad, en función de la pieza seleccionada y del comportamiento de visitante anterior. No tiene en cuenta el filtro o el intervalo de fechas.
-
