@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: Explicación de las notificaciones push - Documentos de marketing - Documentación del producto
 title: Explicación de las notificaciones push
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ La participación de dispositivos móviles de Marketing Cloud le permite crear, 
 
 ## Paso 1: Administradores y programadores realizan configuraciones iniciales {#step-admin-and-developer-perform-initial-setups}
 
-El administrador de marketing y el desarrollador de aplicaciones móviles trabajan juntos para configurarlo. Consulte [Antes de crear notificaciones push y mensajes en la aplicación](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) para obtener más información.
+El administrador de marketing y el desarrollador de aplicaciones móviles trabajan juntos para configurarlo. Consulte [Antes de crear notificaciones push y mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) para obtener más información.
 
 ## Paso 2: Crear una notificación push {#step-create-a-push-notification}
 
-[Cree sus ](create-a-push-notification.md) mensajes y previsualización en cómo se muestran en dispositivos Android e iOS.
+[Cree sus ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) mensajes y previsualización en cómo se muestran en dispositivos Android e iOS.
 
 ## Paso 3: ¡Enviar! {#step-send}
 
-[Las notificaciones push pueden ](send-a-mobile-push-notification.md) enviar campañas inteligentes por lotes y desencadenantes. Muy bien, ¿eh?
+[Las notificaciones push se pueden ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) enviar mediante campañas inteligentes por lotes y déclencheur. Muy bien, ¿eh?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
