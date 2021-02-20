@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Prioridad del pedido de segmentación - Documentos de marketing - Documentación del producto
 title: Prioridad del orden de segmentación
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
 
 >[!PREREQUISITES]
 >
->* [Crear una segmentación](create-a-segmentation.md)
->* [Definir reglas de segmentos](define-segment-rules.md)
-
->
-
-
+>[Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Definir reglas de segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Vaya a la **Base de datos**.
 
@@ -37,6 +33,7 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
    >Solo puede editar un borrador de la segmentación.
 
    Puede comprobar o editar el orden de los segmentos desde esta pantalla.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
 >* Cuando una persona cumple los requisitos para dos segmentos, solo pertenecerá al primero de la lista.
 >* Si una persona no cumple los requisitos para ningún segmento, se convertirá en miembro del segmento predeterminado.
 
->
 
-
-
-Genial, ¿eh? Puede utilizar segmentos para contenido dinámico, [sistema de informes](https://docs.marketo.com/display/docs/basic+reporting) e incluso en [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
+Genial, ¿eh? Puede utilizar segmentos para contenido dinámico, sistema de informes e incluso en listas inteligentes.
