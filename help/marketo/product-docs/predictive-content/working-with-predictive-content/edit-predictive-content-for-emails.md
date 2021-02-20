@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Editar contenido predictivo para correos electrónicos - Documentos de marketing - Documentación del producto
 title: Editar contenido predictivo para correos electrónicos
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Editar contenido predictivo para correos electrónicos {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 A continuación se muestra cómo configurar el contenido predictivo para los correos electrónicos.
 
