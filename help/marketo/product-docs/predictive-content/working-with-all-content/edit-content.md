@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Editar contenido - Documentos de marketing - Documentación del producto
 title: Editar contenido
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Puede realizar algunas modificaciones en los anuncios de la página Todo el cont
 1. Marque la casilla **Aprobar contenido predictivo** para aprobar o desmarque la casilla para desaprobar. Haga clic en **Guardar** cuando termine.
 
    ![](assets/edit-content-4.png)
-
