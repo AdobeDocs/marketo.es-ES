@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: Configuración del botón de despido y aprobación del mensaje - Documentos de marketing - Documentación del producto
 title: Configuración del botón Rechazar y aprobación del mensaje
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -71,15 +71,10 @@ Todas las selecciones de gráficos, texto y botones se guardaron automáticament
 
 Tantas opciones, pero ahora tienes un bueno mensaje en la aplicación, ¡listo para continuar!
 
-Ahora es el momento de [enviar su mensaje](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Ahora es el momento de [enviar su mensaje](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Enviar su mensaje en la aplicación](https://docs.marketo.com/display/docs/send+your+in-app+message)
->* [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
