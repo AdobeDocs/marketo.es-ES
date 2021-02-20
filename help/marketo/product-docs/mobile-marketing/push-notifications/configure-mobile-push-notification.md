@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Configurar notificaciones push móviles - Documentos de marketing - Documentación del producto
 title: Configurar notificaciones push móviles
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurar la notificación push móvil {#configure-mobile-push-notification}
 
-1. Vaya al área Actividades de marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Si el mensaje push solo se aplica a una plataforma (por ejemplo, en el caso de iPhone), puede excluir la otra plataforma desplazando su selector a Deshabilitado.
+1. Si el mensaje push solo se aplica a una plataforma (por ejemplo, en el caso de iPhone), puede excluir la otra plataforma desplazando su selector a Deshabilitado.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Haga clic en SIGUIENTE.
+1. Haga clic en **Siguiente**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definición**
-   >
-   >
-   >Existen tres tipos de acciones de toque***:**
-   >
+   >Existen tres tipos de acciones de toque:
    >
    >**Iniciar aplicación** :  **esto** sustituye la página de inicio de la aplicación cuando se toca la notificación. **Los** clientes utilizan un vínculo profundo para abrir otras áreas de la aplicación o cualquier otra aplicación a la que tenga el vínculo (consulte  [URI de vínculo profundo ](#Deeplink) más abajo para obtener más detalles).
    >
-   >
    >**página de aterrizaje** : lo lleva a una página de aterrizaje de marketing especificada.
-   >
    >
    >**Dirección URL**  externa: lo lleva a una página de aterrizaje que no es de marketing.
 
-   Para insertar un vínculo profundo para una acción de toque personalizada, haga clic en Personalizado e introduzca el [URI de vínculo profundo](#Deeplink) en el campo.
+1. Para insertar un vínculo profundo para una acción de toque personalizada, haga clic en Personalizado e introduzca el [URI de vínculo profundo](#Deeplink) en el campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Para insertar tokens, seleccione un token, introduzca un valor predeterminado y haga clic en Insertar.
+1. Para insertar tokens, seleccione un token, introduzca un valor predeterminado y haga clic en Insertar.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >Los mensajes y las acciones de toque tendrán el mismo aspecto en ambas plataformas.
 
-   Solo para iOS, marque la casilla de verificación para indicar a la aplicación que reproduzca un sonido cuando llegue el mensaje. Android reproduce el sonido automáticamente.
+1. Solo para iOS, marque la casilla de verificación para indicar a la aplicación que reproduzca un sonido cuando llegue el mensaje. Android reproduce el sonido automáticamente.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Previsualización la otra plataforma y haga clic en FINALIZAR.
+1. Previsualización la otra plataforma y haga clic en **Finalizar**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Haga clic en **APROBAR Y CERRAR**.
+1. Haga clic en **Aprobar y cerrar**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ Dicho esto, la estructura de vínculos profundos de la aplicación puede ser dif
 
 >[!MORELIKETHIS]
 >
->* [Enviar una notificación push móvil](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Enviar una notificación push móvil](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
