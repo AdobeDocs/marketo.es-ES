@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Aprobar el mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Aprobar el mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Debe aprobar el envío antes de que salga el mensaje en la aplicación.
    >
    >Las razones para pausar podrían ser sólo para detenerlo por un tiempo, o si desea modificar el mensaje o ajustar la programación. Sin embargo, no puede cambiar a un mensaje diferente, solo puede editar el existente.
 
-1. Cuando desee que el programa en pausa continúe ejecutándose, haga clic en **Reanudar** **Programa**.
+1. Cuando desee que el programa en pausa continúe ejecutándose, haga clic en **Reanudar Programa**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ Debe aprobar el envío antes de que salga el mensaje en la aplicación.
 
 1. Si está seguro de que desea detener el programa, haga clic en **Detener**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ Debe aprobar el envío antes de que salga el mensaje en la aplicación.
 Después de ejecutar el programa, puede supervisar su rendimiento con el Panel en la aplicación, que aparece automáticamente después de aprobar el programa. Para volver al programa, haga clic en el vínculo en la esquina superior derecha y seleccione **Panel de control de Campaign**.
 
 ¡Eso es todo, amigos!
-
