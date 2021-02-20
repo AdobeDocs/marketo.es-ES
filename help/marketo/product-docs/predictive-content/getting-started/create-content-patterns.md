@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: Creación de patrones de contenido - Documentos de marketing - Documentación del producto
 title: Crear patrones de contenido
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Crear patrones de contenido {#create-content-patterns}
 
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
-
-Al establecer patrones de contenido, el contenido se descubre automáticamente cuando un visitante web hace clic en la página web HTML relevante para el patrón de contenido. Se utiliza para agregar páginas HTML (anuncios de blog, comunicados de prensa, artículos de noticias) como artículos de contenido a la página Todo el contenido. Cuando el descubrimiento automático se basa en patrones de contenido, detecta y rastrea páginas HTML relacionadas con el patrón de URL definido cuando un visitante web vista o hace clic en un vínculo a la página. Esta parte de contenido (la dirección URL, el nombre de página y los metadatos, incluida la dirección URL de la imagen y la descripción) se agrega a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como archivos PDF y vídeos incrustados, debe [habilitar la detección de contenido](enable-content-discovery.md).
+Al establecer patrones de contenido, el contenido se descubre automáticamente cuando un visitante web hace clic en la página web HTML relevante para el patrón de contenido. Se utiliza para agregar páginas HTML (anuncios de blog, comunicados de prensa, artículos de noticias) como artículos de contenido a la página Todo el contenido. Cuando el descubrimiento automático se basa en patrones de contenido, detecta y rastrea páginas HTML relacionadas con el patrón de URL definido cuando un visitante web vista o hace clic en un vínculo a la página. Esta parte de contenido (la dirección URL, el nombre de página y los metadatos, incluida la dirección URL de la imagen y la descripción) se agrega a la página Todo el contenido para preparar contenido predictivo. Para descubrir automáticamente otro contenido, como archivos PDF y vídeos incrustados, debe [habilitar la detección de contenido](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Vaya a **Configuración de contenido**.
 
@@ -27,7 +23,7 @@ Al establecer patrones de contenido, el contenido se descubre automáticamente c
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Haga clic en **+ **para abrir una fila donde puede introducir la información.
+1. Haga clic en **+** para abrir una fila en la que puede introducir la información.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ Al establecer patrones de contenido, el contenido se descubre automáticamente c
 
    >[!NOTE]
    >
-   >Los elementos de la lista desplegable de la derecha reflejan las categorías que configuró cuando [creó categorías](set-up-categories.md).
+   >Los elementos de la lista desplegable de la derecha reflejan las categorías que configuró cuando [creó categorías](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
-1. Haga clic en **+ **para agregar otra ruta.
+1. Haga clic en **+** para agregar otra ruta.
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ Al establecer patrones de contenido, el contenido se descubre automáticamente c
 
 ## Reglas de patrón de contenido {#content-pattern-rules}
 
-* Puede utilizar un comodín en cualquier lugar de una expresión (ejemplo: *domain.com/**, *domain.com/*blog**)
+* Puede utilizar un comodín en cualquier lugar de una expresión (ejemplo: _domain.com/*_, _domain.com/*blog*_)
 
-* Se recomienda utilizar /* al final de una expresión para continuar la detección de patrones (Ejemplo: *domain.com/blog/** detecta todos los anuncios de la carpeta Blog)
-* Los patrones de contenido no distinguen entre mayúsculas y minúsculas (ejemplo: *domain.com/Blog/** detecta todas las páginas html en *domain.com/Blog* y *domain.com/blog*)
+* Se recomienda utilizar /* al final de una expresión para continuar la detección de patrones (Ejemplo: _domain.com/blog/*_ detecta todos los anuncios de la carpeta Blog)
+* Los patrones de contenido no distinguen entre mayúsculas y minúsculas (ejemplo: _domain.com/Blog/*_ detecta todas las páginas html en _domain.com/Blog_ y _domain.com/blog_)
 
 * No se detectan parámetros de URL (esto evita el descubrimiento de varios elementos con la misma dirección URL de contenido pero parámetros diferentes)
 
 ## Ejemplos {#examples}
 
-Para *domain.com*:
+Para _domain.com_:
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ Para *domain.com*:
   </tr> 
  </tbody> 
 </table>
-
