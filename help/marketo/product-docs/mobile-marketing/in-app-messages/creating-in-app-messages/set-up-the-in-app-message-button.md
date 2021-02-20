@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: Configuración del botón Mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Configuración del botón Mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Elija el estilo de fuente para enfatizar: **Negrita**, *Cursiva* o Subrayado.
+1. Elija el estilo de fuente para enfatizar: **Negrita**, _Cursiva_ o Subrayado.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   Haga clic en la lista desplegable de cada plataforma y seleccione una acción de toque.
+1. Haga clic en la lista desplegable de cada plataforma y seleccione una acción de toque.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >El botón siempre tiene una acción de toque, por lo que la casilla de verificación Tocar acción se selecciona automáticamente, con el mensaje predeterminado &quot;Descartar mensaje&quot;.
 
-   [configurar el fondo de los mensajes en la aplicación y el botón de desactivación](set-up-the-in-app-message-background.md)
-
-Casi ahí. Su último paso es .
+Casi ahí. El último paso es [configurar el fondo de los mensajes en la aplicación y el botón de despido](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
