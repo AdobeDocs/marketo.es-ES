@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Desaprobar un título para contenido predictivo - Documentos de marketing - Documentación del producto
 title: Desaprobar un título para contenido predictivo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Desaprobar un título para contenido predictivo {#unapprove-a-title-for-predictive-content}
-
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Puede desaprobar cualquier título para contenido predictivo en la página Todo el contenido o en la ventana emergente Editar contenido.
 
@@ -44,4 +40,3 @@ Puede desaprobar un título mientras lo está editando.
 Independientemente del método que utilice, el icono de aprobación se encuentra en la página Todo el contenido y el título desaparece de la página Contenido predictivo.
 
 ![](assets/unapprove-content-no-icon.png)
-
