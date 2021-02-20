@@ -1,45 +1,45 @@
 ---
 unique-page-id: 11378871
-description: Utilizar mensajes SMS de vídeo en activadores y Filtros de Lista inteligente - Documentos de marketing - Documentación del producto
-title: Usar mensajes SMS de vibraciones en activadores y Filtros de Lista inteligente
+description: Utilizar mensajes SMS de vídeo en Déclencheur y Filtros de Lista inteligente - Documentos de marketing - Documentación del producto
+title: Utilizar mensajes SMS de vídeo en Déclencheur y Filtros de Lista inteligente
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
 
-# Usar mensajes SMS de vibraciones en activadores y Filtros de Lista inteligente {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+# Usar mensajes SMS de vibraciones en Déclencheur y Filtros de Lista inteligente {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Después de que [cree un mensaje SMS de Vibes](create-a-vibes-sms-message.md), querrá usar activadores y filtros de lista inteligentes dentro de una campaña inteligente para obtener los beneficios. Así es como.
+Después de [crear un mensaje SMS de Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), querrá usar déclencheur y filtros de lista inteligentes dentro de una campaña inteligente para obtener los beneficios. Así es como.
 
 1. En Mi marketing, haga clic en **Actividades de marketing**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Elija una campaña inteligente en la que desee utilizar el recurso de SMS. Arrastre el ratón sobre un activador, como **Rellena el formulario**.
+1. Elija una campaña inteligente en la que desee utilizar el recurso de SMS. Arrastre el ratón sobre un déclencheur, como el **Rellena el formulario**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
-## Desencadenadores SMS {#sms-triggers}
+## DÉCLENCHEUR SMS {#sms-triggers}
 
-Hay otros desencadenantes SMS disponibles. Los activadores SMS solo aparecen si el servicio Vibes está habilitado.
+Hay otros déclencheur SMS disponibles. Los déclencheur SMS solo aparecen si el servicio Vibes está habilitado.
 
 ![](assets/new-sms-search2.png)
 
-Aquí hay algunos ejemplos.
+Estos son algunos ejemplos:
 
-El activador Devoluciones de mensajes SMS inicia un flujo, como enviar un mensaje de correo electrónico, cuando un mensaje SMS rebota.
+El déclencheur Devoluciones de mensajes SMS inicia un flujo, como enviar un correo electrónico, cuando un mensaje SMS rebota.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-El activador **Suscribirse a la Lista de Vibes** inicia un flujo cuando una persona se suscribe.
+El déclencheur **Suscribirse a la Lista de Vibes** inicia un flujo cuando una persona se suscribe.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-El activador ** Vínculo de clics en mensaje SMS** inicia un flujo cuando una persona hace clic en un vínculo del mensaje SMS.
+El déclencheur **Clicks Link en SMS Message** inicia un flujo cuando una persona hace clic en un vínculo del mensaje SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -49,7 +49,7 @@ También puede utilizar filtros de vibraciones en listas inteligentes. El **filt
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Por el contrario, la Lista **Miembro de Vibes **filter** **encuentra** **alguien** ***actualmente* está suscrito a Vibes y es más adecuada para su uso en campañas o listas inteligentes.
+Por el contrario, el filtro **Miembro de la Lista de Vibes** encuentra _alguien_ que está suscrito a Vibes y es más adecuado para su uso en campañas o listas inteligentes.
 
 ![](assets/image001.png)
 
@@ -57,15 +57,10 @@ Por el contrario, la Lista **Miembro de Vibes **filter** **encuentra** **alguien
 >
 >Todos los filtros SMS incluyen la restricción **Fecha de Actividad** de forma predeterminada.
 
-Después de configurar activadores y filtros de Vibes en la lista inteligente, puede [definir el flujo](add-a-flow-step-for-sms.md).
+Después de configurar déclencheur y filtros de Vibes en la lista inteligente, puede [definir el flujo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Definir Lista inteligente para Campaña inteligente | Activador](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Buscar y Añadir Filtros en una Lista inteligente](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Añadir un paso de flujo para SMS](add-a-flow-step-for-sms.md)
-
->
-
-
+>* [Definir Lista inteligente para Campaña inteligente | Déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Buscar y Añadir Filtros en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
