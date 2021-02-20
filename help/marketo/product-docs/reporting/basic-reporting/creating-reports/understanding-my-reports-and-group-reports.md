@@ -3,7 +3,7 @@ unique-page-id: 7511725
 description: Explicación de mis informes e informes de grupo - Documentos de marketing - Documentación del producto
 title: Explicación de mis informes e informes de grupo
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación de mis informes y los informes de grupo {#understanding-my-reports-and-group-reports}
 
-Puede crear **Mis informes **y **Informes de grupo **desde la [Página principal de Analytics](navigating-the-analytics-home-page.md).
+Puede crear **Mis informes** y **Informes de grupo** desde la [Página principal de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
 **Mis** informes solo son visibles para usted.
 
@@ -21,16 +21,12 @@ Puede crear **Mis informes **y **Informes de grupo **desde la [Página principal
 
 >[!NOTE]
 >
->Cada área de trabajo tiene un conjunto de **Mis informes **y **Informes de grupo**.
+>Cada área de trabajo tiene un conjunto de **Informes** y **Informes de grupo**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
->* [Guardar un informe](save-a-report.md)
->* [Clonar un informe para agrupar informes](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
-
->
-
-
+>* [Guardar un informe](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [Clonar un informe para agrupar informes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
 
