@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: Habilitar la barra de recomendaciones de contenido - Documentos de marketing - Documentación del producto
 title: Habilitar la barra de recomendaciones de contenido
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 >
 >Antes de habilitar el contenido predictivo, debe:
 >
->* [Preparación del contenido predictivo](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Preparación del contenido predictivo**
+   >
+   >   
+   * [Editar contenido predictivo para el ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) remitente
+   >   * [Editar contenido predictivo para ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) medios enriquecidos
+   >   * [Editar contenido predictivo para la barra de recomendaciones](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
    >
    >**Incluir / Excluir dirección URL de visualización**
    >
-   >    * La dirección URL de visualización debe ser la ruta del dominio
-   >    * No incluya https:// o https://
-   >    * Utilice * para comodines
+   >* La dirección URL de visualización debe ser la ruta del dominio
+   >* No incluya https:// o https://
+   >* Utilice * para comodines
    * Utilizar un punto y coma como separador
    * Ejemplo: /contact_us*; *action=logout*
    * Este campo distingue entre mayúsculas y minúsculas
@@ -61,5 +67,4 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 * La parte de contenido que habilite para la recomendación debe incluir la etiqueta RTP Javascript. Esto ayuda al algoritmo a rastrear y optimizar el contenido recomendado.
 
 >[!MORELIKETHIS]
-* [Habilitar contenido predictivo para medios enriquecidos por Web](enable-predictive-content-for-web-rich-media.md)
-
+[Habilitar contenido predictivo para medios enriquecidos por Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
