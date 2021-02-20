@@ -3,19 +3,15 @@ unique-page-id: 11384634
 description: Resumen de contenido predictivo - Documentos de marketing - Documentación del producto
 title: Resumen de contenido predictivo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
 # El resumen del contenido predictivo {#the-predictive-content-summary}
-
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 El resumen de contenido predictivo muestra la información que necesita sobre el contenido predictivo de un vistazo, con tablas, gráficos y números actuales.
 
@@ -52,13 +48,3 @@ Compare cómo sus vistas de todo el contenido coinciden con el contenido predict
 >[!NOTE]
 >
 >Si hace clic en un vínculo de categoría (ejemplos en la imagen anterior: leader, correo electrónico, etc.) abre la página de contenido Todos con la categoría en la que hizo clic y que se agregó al filtro, mostrando los análisis de contenido en esa categoría.
-
->[!MORELIKETHIS]
->
->* [Uso de todo el contenido](https://docs.marketo.com/display/docs/working+with+all+content)
->* [Uso de contenido predictivo](https://docs.marketo.com/display/docs/working+with+predictive+content)
-
->
-
-
-
