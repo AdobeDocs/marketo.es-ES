@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: Crear texto de mensaje en la aplicación - Documentos de marketing - Documentación del producto
 title: Crear texto de mensaje en la aplicación
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Haga clic en el área de texto para trabajar con el estilo y el contenido del te
    >
    >Un tamaño de texto demasiado grande puede empujar el contenido más allá del máximo de tres líneas visibles de texto.
 
-1. Elija un estilo de tipo opcional para enfatizar: **Negrita**, *Cursiva* o Subrayado.
+1. Elija un estilo de tipo opcional para enfatizar: **Negrita**, _Cursiva_ o Subrayado.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ Haga clic en el área de texto para trabajar con el estilo y el contenido del te
 
    Los cambios que realice en los tokens utilizados en un programa de mensajes en la aplicación aprobado no tendrán efecto en el mensaje en la aplicación hasta que el programa se ponga en pausa y se reanude.
 
-Eres dorado. A continuación, debe [configurar el botón de mensaje en la aplicación](set-up-the-in-app-message-button.md).
+Eres dorado. A continuación, debe [configurar el botón de mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los mensajes en la aplicación](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Elija un diseño para el mensaje en la aplicación](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
