@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Habilitar contenido predictivo para medios enriquecidos en la Web - Documentos de marketing - Documentación del producto
 title: Habilitar contenido predictivo para medios enriquecidos por Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ El contenido predictivo atrae a los visitantes web con el contenido más relevan
 >
 >Antes de habilitar el contenido predictivo, debe:
 >
->* [Preparación del contenido predictivo](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **Preparación del contenido predictivo**
+   >
+   >   
+   * [Editar contenido predictivo para el ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) remitente
+   >   * [Editar contenido predictivo para ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) medios enriquecidos
+   >   * [Editar contenido predictivo para la barra de recomendaciones](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 Una vez que haya preparado el título, la descripción y la imagen del contenido para los medios enriquecidos, puede activar fragmentos de contenido individuales o múltiples.
@@ -58,9 +61,3 @@ Este es un ejemplo de la plantilla de recomendación de medios enriquecidos1:
 Este es un ejemplo de la plantilla de recomendación de medios enriquecidos2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [Habilitar la barra de recomendaciones de contenido](enable-the-content-recommendation-bar.md)
->* [Habilitar contenido predictivo en correos electrónicos](https://docs.marketo.com/x/vLit)
-
