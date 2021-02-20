@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Explicación de todo el contenido - Documentos de marketing - Documentación del producto
 title: Explicación de todo el contenido
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Explicación de todo el contenido {#understanding-all-content}
 
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
+La página Todo el contenido muestra todo el contenido que se ha descubierto o agregado manualmente.
 
-La página Todo el contenido muestra todo el contenido que se ha descubierto o agregado manualmente.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 Los campos de página incluyen:
 
@@ -52,12 +50,8 @@ Para filtrar el contenido, seleccione una o varias categorías. A continuación,
 
 >[!MORELIKETHIS]
 >
->* [Añadir nuevo contenido](add-new-content.md)
->* [Eliminar contenido](delete-content.md)
->* [Aprobar un título para contenido predictivo](approve-a-title-for-predictive-content.md)
->* [Desaprobar un título para contenido predictivo](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [Añadir nuevo contenido](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Eliminar contenido](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Desaprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
