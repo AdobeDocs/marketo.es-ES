@@ -3,7 +3,7 @@ unique-page-id: 2359516
 description: Desaprobar un fragmento - Documentos de marketing - Documentación del producto
 title: Desaprobar un fragmento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Un fragmento no aprobado no se puede usar en correos electrónicos o páginas de aterrizaje.
 
-1. Vaya a **Design Studio.**
+1. Vaya a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
@@ -30,4 +30,3 @@ Un fragmento no aprobado no se puede usar en correos electrónicos o páginas de
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
 ¡Eso es todo! El fragmento está en estado de borrador ahora para que pueda realizar cambios o eliminarlo.
-
