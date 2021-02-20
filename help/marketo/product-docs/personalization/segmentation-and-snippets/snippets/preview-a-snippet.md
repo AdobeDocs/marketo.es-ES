@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: Previsualización de un fragmento - Documentos de marketing - Documentación del producto
 title: Previsualización de un fragmento
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir contenido en un fragmento](add-content-to-a-snippet.md)
-
->
-
-
+>[Añadir contenido en un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Los fragmentos son bloques de contenido dinámico que cambian según las reglas de segmentación.
 
-1. Vaya a **Design Studio.**
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ La previsualización es buena para asegurarse de que el contenido se muestra cor
 
 >[!MORELIKETHIS]
 >
->* [Aprobar un fragmento](approve-a-snippet.md)
-
->
-
-
-
+>[Aprobar un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
