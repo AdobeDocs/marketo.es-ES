@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: Eliminar una segmentación - Documentos de marketing - Documentación del producto
 title: Eliminar una segmentación
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Se puede eliminar una segmentación siguiendo los pasos a continuación.
    >
    >Puede eliminar asociaciones eliminando o creando alternativas para los recursos que utilizan la segmentación.
 
-   Una vez aprobada, haga clic en Acciones de segmentación y elimine la segmentación.
+1. Una vez aprobada, haga clic en **Acciones de segmentación** y elimine la segmentación.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
