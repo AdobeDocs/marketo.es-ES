@@ -3,7 +3,7 @@ unique-page-id: 7511980
 description: Guardar un informe - Documentos de marketing - Documentación del producto
 title: Guardar un informe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -16,13 +16,14 @@ ht-degree: 0%
 En ocasiones, es posible que tenga que volver a guardar un informe predeterminado en vista más tarde. Así es como se puede hacer eso:
 
 1. Vaya al área **Analytics**.
-1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Seleccione un [tipo de informe](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+   ![](assets/image2015-4-30-11-3a50-3a5.png)
+
+1. Seleccione un [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Haga clic en **Acciones de informe **y seleccione **Guardar como**.
+1. Haga clic en **Acciones de informe** y seleccione **Guardar como**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
@@ -40,5 +41,4 @@ En ocasiones, es posible que tenga que volver a guardar un informe predeterminad
 
 >[!MORELIKETHIS]
 >
->Obtenga información sobre cómo [clonar un informe para agrupar informes](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
-
+>Obtenga información sobre cómo [clonar un informe para agrupar informes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
