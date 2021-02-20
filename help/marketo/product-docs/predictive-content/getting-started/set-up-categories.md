@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Configurar Categorías - Documentos de marketing - Documentación del producto
 title: Configurar Categorías
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Configurar Categorías {#set-up-categories}
-
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
 
 Cree categorías en Contenido predictivo para agrupar los resultados predictivos en la Web o en el correo electrónico. Por ejemplo, solo puede trabajar con blogs o con contenido en un idioma determinado. También permite buscar y filtrar la vista de la página.  Las categorías se muestran en las páginas Todo el contenido y Contenido predictivo para facilitar la referencia.
 
@@ -54,4 +50,3 @@ A continuación se explica cómo crear etiquetas de categoría.
    ![](assets/save-new.png)
 
    Bastante simple.
-
