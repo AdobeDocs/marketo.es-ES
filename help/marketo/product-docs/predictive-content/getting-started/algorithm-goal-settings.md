@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: Configuración de objetivos de algoritmo - Documentos de marketing - Documentación del producto
 title: Configuración de objetivo de algoritmo
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ La Configuración de objetivos de algoritmo le permite establecer el objetivo fi
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | Muestre el contenido con mayor probabilidad de hacer que la persona que visualiza el contenido haga clic en él |
+   | **Clics** | Muestre el contenido con mayor probabilidad de hacer que la persona que visualiza el contenido haga clic en él |
    |---|---|
-   | **`Conversions`** | Mostrar el contenido con más posibilidades de hacer que la persona que visualiza el contenido envíe un formulario |
+   | **Conversiones** | Mostrar el contenido con más posibilidades de hacer que la persona que visualiza el contenido envíe un formulario |
 
 1. Haga clic en **Guardar** cuando termine.
 
    ![](assets/four.png)
-
