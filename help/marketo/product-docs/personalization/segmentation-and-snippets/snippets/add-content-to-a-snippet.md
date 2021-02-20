@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: Añadir contenido a un fragmento - Documentos de marketing - Documentación del producto
 title: Añadir contenido en un fragmento
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creación de un fragmento](create-a-snippet.md)
+>[Creación de un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento.
 
@@ -23,7 +23,7 @@ Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento.
 >
 >No puede incrustar ninguna sintaxis de correo electrónico [de marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos de código; **no** funcionará en un mensaje de correo electrónico. Los fragmentos solo deben ser contenido de cuerpo (HTML + TEXTO).
 
-1. Vaya a **Design Studio.**
+1. Vaya a **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ Puede agregar tres tipos de contenido a un fragmento.
 
    >[!NOTE]
    >
-   >Puede agregar sus propias imágenes o archivos a Marketing Cloud. Obtenga más información sobre [imágenes y archivos](https://docs.marketo.com/display/docs/images+and+files).
+   >Puede agregar sus propias imágenes o archivos a Marketing Cloud. Obtenga más información sobre [imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Seleccione la **imagen** que desee utilizar y haga clic en **Insertar**.
 
@@ -87,6 +87,6 @@ Puede agregar tres tipos de contenido a un fragmento.
 
 >[!MORELIKETHIS]
 >
->* [Previsualización de un fragmento](preview-a-snippet.md)
->* [Aprobar un fragmento](approve-a-snippet.md)
+>* [Previsualización de un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Aprobar un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
