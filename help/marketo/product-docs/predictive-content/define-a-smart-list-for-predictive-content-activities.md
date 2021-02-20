@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Definir una Lista inteligente para Actividades de contenido predictivo - Documentos de marketing - Documentación del producto
 title: Definir una Lista inteligente para Actividades de contenido predictivo
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: f1d7b270454ba41db5197a069e0dcc2caebdec63
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Definir una Lista inteligente para Actividades de contenido predictivo {#define-a-smart-list-for-predictive-content-activities}
 
->[!NOTE]
->
->Según la fecha de compra, la suscripción de marketing puede incluir Contenido predictivo de marketing o Contenido`<sup>AI</sup>`. Para aquellos que utilizan contenido predictivo, Marketing está activando las funciones de análisis de contenido`<sup>AI</sup>` hasta el 30 de abril de 2018. Para mantener estas funciones más allá de esa fecha, póngase en contacto con el administrador de éxito del cliente de Marketing to para actualizar a Contenido de marketing`<sup>AI</sup>`.
-
-Puede utilizar actividades de contenido predictivo en déclencheur y filtros cuando defina una lista inteligente en una campaña inteligente. Puede déclencheur de una acción para cualquiera que haga clic en contenido predictivo mediante la [plantilla de medios enriquecidos](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barra de recomendaciones de contenido](enabling-predictive-content/enable-the-content-recommendation-bar.md) o en un mensaje de correo electrónico.
+Puede utilizar actividades de contenido predictivo en déclencheur y filtros cuando defina una lista inteligente en una campaña inteligente. Puede déclencheur de una acción para cualquiera que haga clic en contenido predictivo mediante la [plantilla de medios enriquecidos](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [barra de recomendaciones de contenido](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) o en un [correo electrónico](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
 1. En la campaña inteligente, navegue a la ficha **Lista inteligente**.
 
@@ -25,10 +21,7 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros cua
 
    >[!NOTE]
    >
-   >**Buceo profundo**
-   >
-   >
-   >Las listas inteligentes pueden hacer cosas increíbles. Obtenga más información en el [buceo profundo de lista inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Las listas inteligentes pueden hacer cosas increíbles. Obtenga más información en el [buceo profundo de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Busque el déclencheur y arrástrelo y suéltelo en el lienzo.
 
@@ -54,7 +47,7 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros cua
 
    ![](assets/pc-add-constraint.png)
 
-1. Si está utilizando el origen de correo electrónico para el contenido predictivo, agregue el déclencheur **Clicks Link en Correo electrónico **Clicks. Seleccione el correo electrónico y agregue la restricción **Es predictivo**, definida como **true**.
+1. Si está utilizando el origen de correo electrónico para el contenido predictivo, agregue el déclencheur **Clicks Link en Email**. Seleccione el correo electrónico y agregue la restricción **Es predictivo**, definida como **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -70,18 +63,13 @@ Puede utilizar actividades de contenido predictivo en déclencheur y filtros cua
    >
    >Con múltiples déclencheur, una persona pasa al flujo si ALGUNO de los déclencheur se activa.
 
-   [definir una lista inteligente para una campaña inteligente por lotes](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [definir una lista inteligente para una campaña inteligente por lotes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Definir Lista inteligente para Campaña inteligente | Lote](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Añadir un paso de flujo en una Campaña inteligente](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Definir una Lista inteligente para Actividades de personalización web](../../product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >    * [Habilitar contenido predictivo para medios enriquecidos por Web](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >    * [Habilitar la barra de recomendaciones de contenido](enabling-predictive-content/enable-the-content-recommendation-bar.md)
+   >* [Definir Lista inteligente para Campaña inteligente | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Añadir un paso de flujo en una Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definir una Lista inteligente para Actividades de personalización web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+   >* [Habilitar contenido predictivo para medios enriquecidos por Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+   >* [Habilitar la barra de recomendaciones de contenido](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 
-
-Para ejecutar la campaña en un grupo de personas al mismo tiempo, aprenda a .
