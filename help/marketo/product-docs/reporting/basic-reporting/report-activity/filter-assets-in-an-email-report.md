@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: Filtrar recursos en un informe de correo electrónico - Documentos de marketing - Documentación del producto
 title: Filtrar recursos en un informe de correo electrónico
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrar recursos en un informe de correo electrónico {#filter-assets-in-an-email-report}
 
-Centre su [Rendimiento del correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Rendimiento de los vínculos de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en el informe de los correos electrónicos de sus programas (&#39;activos locales&#39;), en los de Design Studio (&#39;activos globales&#39;) o en los que se han archivado.
+Centre su [Rendimiento del correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Rendimiento de los vínculos de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en el informe de los correos electrónicos de sus programas (&#39;activos locales&#39;), en los de Design Studio (&#39;activos globales&#39;) o en los que se han archivado.
 
 1. Vaya al área **Analytics** (o **Actividades de marketing**).
 
@@ -45,15 +45,4 @@ Centre su [Rendimiento del correo electrónico](../../../../product-docs/email-m
 
 >[!MORELIKETHIS]
 >
->* [Filtrar recursos en informes de correo electrónico de Campaña](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**Buceo profundo**
->
->Obtenga información sobre los informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+>[Filtrar recursos en informes de correo electrónico de Campaña](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
