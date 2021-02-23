@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Informe de Actividad de campaña - Documentos de marketing - Documentación del producto
 title: Informe Actividad de campaña
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Informe Actividad de campaña {#campaign-activity-report}
 
-Vea el rendimiento de sus [campañas inteligentes](https://docs.marketo.com/display/docs/smart+campaigns).
+Vea el rendimiento de sus [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-1. [Cree un ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) informe y seleccione el tipo **de informe** [Campaña ](report-type-overview.md)de actividad.
-1. [Configure el intervalo de tiempo del ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) informe y haga clic en la ficha  **** Informe.
+1. [Cree un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) informe y seleccione el tipo **de informe** [Campaña ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)de actividad.
+
+1. [Configure el intervalo de tiempo del ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) informe y haga clic en la ficha  **** Informe.
+
 1. ¡bueno! Explore el informe para identificar las campañas más efectivas, agrupadas por tipo de campaña.
 
-   ` ![](assets/image2014-9-16-16-3a8-3a45.png)
-
-   `
+   ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >Para encontrar las campañas que procesaron la mayor cantidad de personas, por ejemplo, [ordene el informe](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)en *Total de personas procesadas* y elija **Ordenar De bajada**.
+   >Para encontrar las campañas que procesaron la mayor cantidad de personas, por ejemplo, [ordene el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en _Total de personas procesadas_ y elija **Ordenar De bajada**.
 
-   Haga clic en el nombre de una campaña inteligente para abrirla.  [Las columnas que puede ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) seleccionar para un informe de Actividad de Campaña incluyen:
+   Haga clic en el nombre de una campaña inteligente para abrirla.  [Las columnas que puede ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) seleccionar para un informe de Actividad de Campaña incluyen:
 
    | Columna | Descripción |
    |---|---|
@@ -48,11 +48,4 @@ Vea el rendimiento de sus [campañas inteligentes](https://docs.marketo.com/disp
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrar un informe de Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-
-
-   Consulte más informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrar un informe de Actividad de Campaña](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
