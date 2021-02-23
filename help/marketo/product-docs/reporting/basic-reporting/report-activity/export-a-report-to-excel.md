@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Exportar un informe a Excel - Documentos de marketing - Documentación del producto
 title: Exportar un informe a Excel
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,14 +31,4 @@ Puede exportar cualquier informe a un archivo de Excel para trabajar con los dat
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Si el archivo descargado es demasiado grande, puede [cambiar el tamaño del informe](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Vea todas las demás cosas útiles que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Si el archivo descargado es demasiado grande, puede [cambiar el tamaño del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
