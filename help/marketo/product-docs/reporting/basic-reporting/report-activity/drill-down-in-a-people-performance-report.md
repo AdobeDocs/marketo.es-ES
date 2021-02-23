@@ -3,9 +3,9 @@ unique-page-id: 2360035
 description: Explorar en profundidad un informe de rendimiento de personas - Documentos de marketing - Documentaci√≥n del producto
 title: Explorar en profundidad un informe de rendimiento de personas
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Explore en profundidad un informe de rendimiento de personas para ver informaci√
 
    ![](assets/three.png)
 
-1. En la ventana emergente **Detallar**, seleccione el atributo al que desee profundizar. A continuaci√≥n, haga clic en** Detallado**.
+1. En la ventana emergente **Detallar**, seleccione el atributo al que desee profundizar. A continuaci√≥n, haga clic en **Detallar**.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ Explore en profundidad un informe de rendimiento de personas para ver informaci√
 1. Para guardar los resultados (opcional), haga clic en el icono **Exportar** en la parte inferior izquierda.
 
    ![](assets/six.png)
-
