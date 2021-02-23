@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: Suscripción a una Lista inteligente - Documentos de marketing - Documentación del producto
 title: Suscripción a una Lista inteligente
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lis
 
 ## Crear una Suscripción de Lista inteligente {#create-a-smart-list-subscription}
 
-1. Vaya a **Base de datos** o **Actividades de mercadotecnia**.
+1. Vaya a **Base de datos** o **Actividades de marketing**.
 
    ![](assets/db.png)
 
-1. Seleccione la lista inteligente para la que desea crear una suscripción. Haga clic en **Acciones de Lista** y seleccione** Nueva Suscripción de Lista inteligente**.
+1. Seleccione la lista inteligente para la que desea crear una suscripción. Haga clic en **Acciones de Lista** y seleccione **Nueva Suscripción de Lista inteligente**.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lis
 
 1. Haga clic en la lista **Frecuencia** y seleccione una frecuencia.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. Establezca el **Envío final **fecha. Puede seleccionar **Nunca** o una fecha de calendario.
+1. Establezca la fecha **Envío final**. Puede seleccionar **Nunca** o una fecha de calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ Los destinatarios recibirán un correo electrónico con una opción para descarg
 
 >[!NOTE]
 >
->Si la configuración de [Administración de Suscripción segura](secure-the-subscription-admin-setting.md) está establecida en **Sí**, sólo las personas con acceso a la instancia de Marketing podrán descargar el informe.
+>Si la configuración de [Administración de Suscripción segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) está establecida en **Sí**, sólo las personas con acceso a la instancia de Marketing podrán descargar el informe.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ Para eliminar una suscripción, selecciónela en la ficha suscripciones y haga c
 
 >[!MORELIKETHIS]
 >
->* [Editar una Suscripción de Lista inteligente](edit-a-smart-list-subscription.md)
->* [Asegurar la configuración del administrador de Suscripciones](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [Editar una Suscripción de Lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Asegurar la configuración del administrador de Suscripciones](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
