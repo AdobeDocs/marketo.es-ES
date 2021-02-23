@@ -3,9 +3,9 @@ unique-page-id: 2359996
 description: Ordenar informe de columnas - Documentos de marketing - Documentación del producto
 title: Ordenar informe por columnas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,16 +33,4 @@ Utilice columnas para ordenar los datos del informe y facilitar la búsqueda de 
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Seleccionar columnas del informe](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Conozca todo el poder de trabajar con informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Seleccionar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
