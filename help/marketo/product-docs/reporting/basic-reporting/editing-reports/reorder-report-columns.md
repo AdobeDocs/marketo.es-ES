@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: Reordenar columnas de informes - Documentos de marketing - Documentación del producto
 title: Reordenar columnas de informes
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ Puede cambiar el orden de las columnas en un informe.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Seleccionar columnas del informe](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Conozca todo el poder de trabajar con informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Seleccionar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
