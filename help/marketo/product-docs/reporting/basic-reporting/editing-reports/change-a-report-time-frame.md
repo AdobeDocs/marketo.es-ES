@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: Cambiar un intervalo de tiempo del informe - Documentos de marketing - Documentación del producto
 title: Cambiar un intervalo de tiempo del informe
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ Cambie el período de tiempo cubierto por el informe para centrarse en una hora 
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Para reducir el informe por atributos de persona específicos, puede [filtrar personas en un informe con una Lista inteligente](filter-people-in-a-report-with-a-smart-list.md).
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Para obtener más información sobre cómo utilizar los informes, consulte la sección [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting) profunda.
-
+   >Para reducir el informe por atributos de persona específicos, puede [filtrar personas en un informe con una Lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
