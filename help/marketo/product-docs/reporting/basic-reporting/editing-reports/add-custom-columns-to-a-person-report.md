@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Añadir columnas personalizadas en un informe de persona - Documentos de marketing - Documentación del producto
 title: Añadir columnas personalizadas en un informe de persona
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir columnas personalizadas en un informe de persona {#add-custom-columns-to-a-person-report}
 
-Puede filtrar aún más las métricas de los [informes de personas](https://docs.marketo.com/display/docs/basic+reporting) utilizando sus [listas inteligentes](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) como columnas personalizadas.
+Puede filtrar aún más las métricas de los informes de persona utilizando sus [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como columnas personalizadas.
 
 1. Vaya al área **Actividades de marketing** (o **Análisis**).
 
@@ -31,27 +31,10 @@ Puede filtrar aún más las métricas de los [informes de personas](https://docs
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga información sobre cómo crear y configurar listas inteligentes en la división profunda [Listas inteligentes y Listas estáticas](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
 1. ¡Lo has hecho! Haga clic en la ficha **Informe** para ver el informe con las nuevas columnas.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >También puede [Añadir columnas de oportunidad en un informe de posible cliente](add-opportunity-columns-to-a-lead-report.md).
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga más información sobre las muchas cosas que puede hacer con los informes en la inmersión profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >También puede [Añadir columnas de oportunidad en un informe de posible cliente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
