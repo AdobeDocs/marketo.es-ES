@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: Mostrar personas o Visitantes anónimos en informes web - Documentos de marketing - Documentación del producto
 title: Mostrar personas o Visitantes anónimos en informes web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Añadir código de seguimiento de Munchkin a su sitio web](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Añadir código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-En los [informes de Actividad de página Web](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) y [Actividad Web de Compañía](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) puede ver [personas o visitantes anónimos](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) que visitan el sitio. Los visitantes anónimos han inferido datos, como Área de Metro.  A continuación se muestra cómo seleccionar si el informe muestra leads conocidos o visitantes anónimos.
+En los [informes de Actividad de página Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) y [Actividad Web de Compañía](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) puede ver [personas o visitantes anónimos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) que visitan el sitio. Los visitantes anónimos han inferido datos, como Área de Metro.  A continuación se muestra cómo seleccionar si el informe muestra leads conocidos o visitantes anónimos.
 
 1. En el informe Actividad de página Web, haga clic en **Configuración**.
 
@@ -27,7 +27,7 @@ En los [informes de Actividad de página Web](../../../../product-docs/reporting
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. En la ventana emergente, seleccione **Posibles clientes conocidos **(personas) o** Visitantes anónimos **en la lista desplegable.
+1. En la ventana emergente, seleccione **Posibles clientes conocidos** (personas) o **Visitantes anónimos** en la lista desplegable.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
@@ -41,9 +41,4 @@ En los [informes de Actividad de página Web](../../../../product-docs/reporting
 
 >[!MORELIKETHIS]
 >
->* [Seguimiento de personas y Actividades anónimas](tracking-anonymous-activity-and-people.md)
-
->
-
-
-
+>[Seguimiento de personas y Actividades anónimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
