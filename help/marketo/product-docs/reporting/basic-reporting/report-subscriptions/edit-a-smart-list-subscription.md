@@ -3,9 +3,9 @@ unique-page-id: 10093041
 description: Editar una Suscripción de Lista inteligente - Documentos de marketing - Documentación del producto
 title: Editar una Suscripción de Lista inteligente
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -52,4 +52,3 @@ Puede editar estas columnas directamente en la ficha Suscripciones, que aparece 
 1. La última pieza del rompecabezas es el formato. Haga clic en la columna **Formato** y seleccione la que desee. CSV es el valor predeterminado.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
