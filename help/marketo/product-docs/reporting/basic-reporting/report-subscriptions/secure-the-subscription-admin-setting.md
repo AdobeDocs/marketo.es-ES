@@ -3,9 +3,9 @@ unique-page-id: 10095347
 description: Asegurar la configuración del administrador de Suscripciones - Documentos de marketing - Documentación del producto
 title: Asegurar la configuración del administrador de Suscripciones
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,3 @@ Un administrador puede elegir requerir el inicio de sesión para poder realizar 
    >[!CAUTION]
    >
    >Cuando se requiere un inicio de sesión para descargar informes, si no tiene acceso a Marketing, no recibirá correos electrónicos de informes de lista inteligente. Esto se aplica a suscripciones existentes y futuras.
-
