@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: Correo electrónico del informe, rendimiento de la Campaña en todos los espacios de trabajo - Documentos de marketing - Documentación del producto
 title: Correo electrónico del informe, rendimiento de la Campaña en áreas de trabajo
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Correo electrónico del informe, rendimiento de la Campaña en todos los espacios de trabajo {#report-email-campaign-performance-across-workspaces}
 
-Active Global Sistema de informes para incluir datos de todos los espacios de trabajo de Marketing [](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) en los informes [Rendimiento de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Rendimiento de los vínculos de correo electrónico](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) y [Actividad de Campaña](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
+Active Global Sistema de informes para incluir datos de todos los espacios de trabajo de Marketing [](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) en los informes [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Rendimiento de los vínculos de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) y [Actividad de Campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md).
 
 1. Vaya al área **Analytics** (o **Actividades de marketing**).
 
@@ -37,16 +37,4 @@ Active Global Sistema de informes para incluir datos de todos los espacios de tr
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Filtrar recursos en un informe de correo electrónico](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Obtenga información sobre los informes en [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Filtrar recursos en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
