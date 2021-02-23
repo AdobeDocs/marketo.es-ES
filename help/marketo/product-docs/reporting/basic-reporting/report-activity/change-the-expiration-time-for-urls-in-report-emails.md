@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: Cambiar el tiempo de caducidad de las direcciones URL en los mensajes de correo electrónico del informe - Documentos de marketing - Documentación del producto
 title: Cambiar el tiempo de caducidad de las direcciones URL en los mensajes de correo electrónico del informe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Los vínculos de los mensajes de correo electrónico de suscripción de informes
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Haga clic en el botón **Editar caducidad de la dirección URL **.
+1. Haga clic en el botón **Editar caducidad de URL**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ Los vínculos de los mensajes de correo electrónico de suscripción de informes
 
    >[!NOTE]
    >
-   >**Recordatorio**
-   >
-   >
    >Recuerde que solo se aplican a los vínculos de los informes y las alertas, no a los correos electrónicos de marketing.
-
