@@ -3,9 +3,9 @@ unique-page-id: 2951220
 description: Generar un informe de rendimiento de personas con columnas de plataforma móvil - Documentos de marketing - Documentación del producto
 title: Generar un informe de rendimiento de personas con columnas de plataforma móvil
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
 ## Crear un informe de rendimiento de personas {#create-a-people-performance-report}
 
-1. En Actividades de marketing, seleccione el programa que aloja sus **listas inteligentes de &lt;a0/>iOS** y **Android**.
+1. En Actividades de marketing, seleccione el programa que aloja sus **listas inteligentes de iOS** y **Android**.
 
    ![](assets/ten.png)
 
@@ -106,4 +106,3 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
    ![](assets/seventeen.png)
 
    Muy bien, ¿verdad? ¡Bien hecho!
-
