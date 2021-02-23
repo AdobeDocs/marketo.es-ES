@@ -3,9 +3,9 @@ unique-page-id: 2359994
 description: Seleccionar columnas de informes - Documentos de marketing - Documentación del producto
 title: Seleccionar columnas del informe
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede elegir qué columnas se incluyen en el informe y cuáles no.
 
-1. Vaya al área **Analytics **(o **Actividades de marketing**).
+1. Vaya al área **Analytics** (o **Actividades de marketing**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -29,11 +29,4 @@ Puede elegir qué columnas se incluyen en el informe y cuáles no.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Ordenar informe por columnas](sort-report-on-columns.md)
-
-
-   ¡Haz más con los informes! Consulte [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Ordenar informe por columnas](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
