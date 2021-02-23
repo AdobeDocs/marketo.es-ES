@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Añadir columnas de oportunidades en un informe de posibles clientes - Documentos de marketing - Documentación del producto
 title: Añadir columnas de oportunidad en un informe de posible cliente
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Añadir columnas de oportunidad en un informe de posible cliente {#add-opportunity-columns-to-a-lead-report}
 
-Para ver las estadísticas de las oportunidades en los [informes de personas](https://docs.marketo.com/display/docs/basic+reporting), puede agregar columnas de oportunidades.
+Para ver las estadísticas de las oportunidades en los informes personales, puede agregar columnas de oportunidades.
 
 1. Vaya al área **Actividades de mercadotecnia**.
 
@@ -39,7 +39,7 @@ Para ver las estadísticas de las oportunidades en los [informes de personas](ht
    >
    >Desplácese hacia la derecha para ver más columnas.
 
-1. Para [agregar o quitar columnas del informe](select-report-columns.md), haga clic en cualquier encabezado de columna y seleccione **Columnas**.
+1. Para [agregar o quitar columnas del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), haga clic en cualquier encabezado de columna y seleccione **Columnas**.
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ Para ver las estadísticas de las oportunidades en los [informes de personas](ht
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Obtenga información sobre cómo [administrar el tamaño del informe](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >Vea qué más puede hacer con los informes en la división profunda [Sistema de informes básico](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >Obtenga información sobre cómo [administrar el tamaño del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
