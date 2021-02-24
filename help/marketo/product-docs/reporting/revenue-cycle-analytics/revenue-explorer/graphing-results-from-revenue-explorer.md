@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Gráficos De Resultados Desde El Explorador De Ingresos - Documentos De Marcado - Documentación Del Producto
 title: Gráficos De Resultados Desde El Explorador De Ingresos
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ De forma predeterminada, los informes del Explorador de ingresos se muestran com
 1. Para volver a la vista de tabla, haga clic en el botón de tabla.
 
    ![](assets/two-1.png)
-
