@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Explicación del área de Análisis de pertenencia a Programa - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de pertenencia a Programa
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ El área de Análisis de membresía de Programa le permite analizar la efectivid
 | % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en la progresión de un programa |
 | Éxito (nuevos nombres) | Número total de nombres nuevos que lograron el éxito en la progresión de un programa |
 | Éxito (total) | Número total de posibles clientes que lograron el éxito en la progresión de un programa |
-
