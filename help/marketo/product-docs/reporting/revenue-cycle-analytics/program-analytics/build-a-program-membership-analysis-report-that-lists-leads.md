@@ -3,7 +3,7 @@ unique-page-id: 2360405
 description: Cree un informe de Análisis de pertenencia a Programas que Lista los posibles clientes - Documentos de marketing - Documentación del producto
 title: Cree un informe de Análisis de pertenencia a Programas que Lista los posibles clientes
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -17,18 +17,17 @@ Siga estos pasos para crear un informe de Análisis de pertenencia a Programa qu
 
 >[!AVAILABILITY]
 >
->
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
 1. Inicie el Explorador de ingresos.
 
    ![](assets/one.png)
 
-1. Haga clic en Crear nuevo y, a continuación, en Informe.
+1. Haga clic en **Crear nuevo** y luego **Informe**.
 
    ![](assets/two.png)
 
-1. Seleccione la Análisis de pertenencia a Programa y haga clic en Aceptar.
+1. Seleccione **Análisis de pertenencia a Programa** y haga clic en **Aceptar**.
 
    ![](assets/three.png)
 
@@ -48,17 +47,16 @@ Siga estos pasos para crear un informe de Análisis de pertenencia a Programa qu
 
 ![](assets/seven.png)
 
-Puede agregar rápidamente un atributo de posible cliente como **Nombre completo** para ver quiénes son los miembros.
+Puede agregar rápidamente un atributo de posible cliente como _Nombre completo_ para ver quiénes son los miembros.
 
 >[!TIP]
 >
 >Hay muchos atributos de posibles clientes y compañías que elegir. ¡Échenlos!
 
-1. Busque y haga clic con el botón doble en el punto amarillo Nombre completo.
+1. Busque y haga clic con el doble en el punto amarillo **Nombre completo**.
 
    ![](assets/eight.png)
 
 ¡Ahí lo tienes!
 
 ![](assets/nine.png)
-
