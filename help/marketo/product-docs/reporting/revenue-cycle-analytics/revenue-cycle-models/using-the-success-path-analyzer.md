@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: Uso del analizador de rutas de éxito - Documentos de marketing - Documentación del producto
 title: Uso del analizador de rutas de éxito
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Uso del analizador de rutas de éxito {#using-the-success-path-analyzer}
 
-Utilice un analizador de rutas de éxito para explorar los detalles específicos que reflejan tanto el flujo (cantidad) como la velocidad (velocidad, en términos de días) de las personas a través de las etapas del [Modelo de ciclo de ingresos](understanding-revenue-models.md).
+Utilice un analizador de rutas de éxito para explorar los detalles específicos que reflejan tanto el flujo (cantidad) como la velocidad (velocidad, en términos de días) de las personas a través de las etapas del [Modelo de ciclo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Creación de un analizador de rutas de éxito](create-a-success-path-analyzer.md)
+>[Creación de un analizador de rutas de éxito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Vaya a **Analytics** y seleccione su **Analizador de rutas de éxito**.
 
@@ -55,7 +55,7 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Para las etapas con SLA (Acuerdos de nivel de servicio), haga clic en **Acciones de gráfico** >** Mostrar SLA vencido** para mostrar a todas las personas que alguna vez omitieron un destinatario de SLA dentro del intervalo de tiempo especificado.
+1. Para las etapas con SLA (Acuerdos de nivel de servicio), haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar a todas las personas que alguna vez omitieron un destinatario de SLA dentro del intervalo de tiempo especificado.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    Las personas que se muestran en color naranja pueden *o no* seguir estando en la etapa SLA.
 
-1. Haga clic en **Acciones de gráfico** >** Mostrar SLA vencido** para mostrar a todas las personas con destinatarios SLA caducados que aún se encuentran en la etapa SLA al final del período de tiempo especificado.
+1. Haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar a todas las personas con destinatarios SLA caducados que aún se encuentran en la etapa SLA al final del período de tiempo especificado.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Para imprimir el gráfico, haga clic en** ****Acciones de gráfico** > **Imprimir gráfico**.
+1. Para imprimir el gráfico, haga clic en **Acciones de gráfico** > **Imprimir gráfico**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
