@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: Seguimiento de inicios por cuenta en el Modelador de ingresos - Documentos de marketing - Documentación del producto
 title: Seguimiento de inicios por cuenta en el modelador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Con el Modelador de etapas de ingresos y el Explorador de ingresos, puede obtene
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Para crear un nuevo informe, haga clic en **Archivo** y seleccione **Nuevo** luego **Informe**.
+1. Para crear un nuevo informe, haga clic en **Archivo** y seleccione **Nuevo** y luego **Informe**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -44,4 +44,3 @@ Con el Modelador de etapas de ingresos y el Explorador de ingresos, puede obtene
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. El informe ahora debe mostrar solamente las etapas que está rastreando por cuenta. Asegúrese de guardar el informe para poder utilizarlo en el futuro. Ahora puede usar esto como otra medida del éxito de sus esfuerzos de mercadotecnia.
-
