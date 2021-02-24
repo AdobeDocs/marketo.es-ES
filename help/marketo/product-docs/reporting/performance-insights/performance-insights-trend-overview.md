@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Información general sobre tendencias de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Información general de tendencia de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Haga clic en la ficha **Tendencia** para acceder a esta vista.
 
 ![](assets/2-1.png)
 
-Seleccione la métrica por la que desee realizar la vista del rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [Primer toque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+Seleccione la métrica por la que desee realizar la vista del rendimiento. En este ejemplo veremos las oportunidades ganadas a través de [Primer toque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Expanda un canal para ver sus diez programas principales, con los programas rest
 >[!NOTE]
 >
 >Al hacer clic en la casilla de verificación situada junto a un canal, se activa o desactiva en el gráfico de anillos.
-
