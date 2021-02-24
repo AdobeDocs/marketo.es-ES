@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: Filtrado de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Filtrado de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Haga clic en el inicio + para agregar filtros.
 
 >[!NOTE]
 >
->En este momento, los atributos personalizados solo están disponibles en filtros para clientes que tengan [RCA](https://docs.marketo.com/x/lwIk) habilitada.
+>En este momento, los atributos personalizados solo están disponibles en filtros para los clientes que tengan activado el análisis de ciclo de ingresos.
 
 Al hacer clic en una categoría se revelan varias subcategorías.
 
@@ -57,7 +57,7 @@ Puede eliminar un filtro en cualquier momento haciendo clic en la X que se encue
   </tr> 
   <tr> 
    <td colspan="1"><strong>Atributos personalizados</strong></td> 
-   <td colspan="1"><p>Estas son determinadas por usted. Todos los campos <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">que habilite</a> para la análisis de oportunidad se pueden filtrar en Perspectivas de rendimiento.</p></td> 
+   <td colspan="1"><p>Estas son determinadas por usted. Todos los campos <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">que habilite</a> para la análisis de oportunidad se pueden filtrar en Perspectivas de rendimiento.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Período de inversión</strong></p></td> 
@@ -69,11 +69,11 @@ Puede eliminar un filtro en cualquier momento haciendo clic en la X que se encue
   </tr> 
   <tr> 
    <td><p><strong>Etiqueta programa</strong></p></td> 
-   <td><p>Las etiquetas se utilizan para describir programas. Puede crear tantos como necesite, cada uno con valores únicos. <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">Aprenda a trabajar con las etiquetas de programa aquí.</a></p></td> 
+   <td><p>Las etiquetas se utilizan para describir programas. Puede crear tantos como necesite, cada uno con valores únicos. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Aprenda a trabajar con las etiquetas de programa aquí.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Espacio de trabajo</strong></td> 
-   <td><p>Los espacios de trabajo son áreas independientes en el menú de marketing que contienen recursos de marketing, como: programas, páginas de aterrizaje, correos electrónicos y más. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Obtenga más información sobre los espacios de trabajo aquí.</a></p></td> 
+   <td><p>Los espacios de trabajo son áreas independientes en el menú de marketing que contienen recursos de marketing, como: programas, páginas de aterrizaje, correos electrónicos y más. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Obtenga más información sobre los espacios de trabajo aquí.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ Puede eliminar un filtro en cualquier momento haciendo clic en la X que se encue
 >[!NOTE]
 >
 >En el panel de participación, solo están disponibles las etiquetas de programa y los filtros de espacio de trabajo.
-
