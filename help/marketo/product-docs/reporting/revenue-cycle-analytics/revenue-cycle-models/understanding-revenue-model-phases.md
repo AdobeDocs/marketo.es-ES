@@ -3,7 +3,7 @@ unique-page-id: 4718660
 description: Explicación de las fases del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Explicación de las fases del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -19,11 +19,10 @@ Las fases son una forma de agrupar una serie de etapas. A veces, varias etapas d
 
 ## Definir las fases del modelo {#define-the-phases-of-the-model}
 
-1. Haga clic en **Fases.**
+1. Haga clic en **Fases**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
 1. Haga clic en el botón azul para arrastrar las fases hacia arriba y hacia abajo por las etapas.
 
    ![](assets/image2015-6-12-16-3a5-3a31.png)
-
