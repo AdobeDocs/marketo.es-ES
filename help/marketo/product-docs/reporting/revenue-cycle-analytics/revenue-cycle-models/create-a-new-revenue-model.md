@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: Crear un nuevo modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Crear un nuevo modelo de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Obtenga más información sobre [Uso de las etapas de inventario del modelo de ingresos](using-revenue-model-inventory-stages.md).
-
+>Obtenga más información sobre [Uso de las etapas de inventario del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
