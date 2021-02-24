@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Aprobación de etapas y asignación de posibles clientes a un modelo de ingresos {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Ponga en marcha el **Modelo** **de ingresos** agregando leads existentes, creando reglas de asignación para cualquier posible cliente nuevo.
+Ponga en marcha el **Modelo de ingresos** agregando leads existentes, creando reglas de asignación para posibles clientes nuevos.
 
 ## Aprobación de etapas {#approving-stages}
 
 Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
-1. Vaya al área **Analytics **.** **
+1. Vaya al área **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,7 +27,7 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. En **Acciones de modelo**, seleccione **Aprobar** **Etapas**.
+1. En **Acciones de modelo**, seleccione **Aprobar etapas**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
@@ -39,9 +39,9 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
 ## Asignación de leads existentes {#assigning-existing-leads}
 
-[Cree una ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) lista inteligente para identificar los leads de una etapa del modelo en la base de datos de posibles clientes.
+[Cree una ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) lista inteligente para identificar los leads de una etapa del modelo en la base de datos de posibles clientes.
 
-1. Una vez que haya [creado la Lista inteligente](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), haga clic en la ficha **Posibles clientes**.
+1. Una vez que haya [creado la Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), haga clic en la ficha **Posibles clientes**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -67,15 +67,15 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 
 ## Nuevos leads: Crear reglas de asignación {#new-leads-create-assignment-rules}
 
-1. Vuelva a hacer clic en** Inicio de marketing** y seleccione **Analytics**.
+1. Haga clic de nuevo en **Inicio de marketing** y seleccione **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. `Click your model in the tree, then the`**`Model Actions`**`menu, selecting`**`Assignment Rules`** `.`
+1. Haga clic en el modelo en el árbol y, a continuación, en el menú **Acciones del modelo**, seleccione **Reglas de asignación**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. `If your assignment rules contain more than just one default choice click **Stage, **make your selection, then click`**`Add Choice`**`.`
+1. Si las reglas de asignación contienen más de una opción predeterminada, haga clic en **Escenario**, realice la selección y haga clic en **Añadir opción**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -84,9 +84,8 @@ Aprobemos las etapas del modelo antes de agregar posibles clientes.
 Cree una regla de Puntuación de posible cliente para asignar los nuevos leads con una puntuación mínima a un paso adecuado.
 
 1. En **Si**, seleccione **Puntuación de posible cliente**. A continuación, elija **al menos**.
-` ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-   `
+   ![](assets/image2015-4-29-13-3a27-3a8.png)
 
 1. Escriba **40** en el campo y seleccione **Líder de ventas** como una etapa. Haga clic en **Guardar** para completar.
 
@@ -94,5 +93,4 @@ Cree una regla de Puntuación de posible cliente para asignar los nuevos leads c
 
 >[!MORELIKETHIS]
 >
->Para aprobar su modelo, lea nuestra página de ayuda en ** [Aprobación y desaprobación de un modelo de ingresos](approve-unapprove-a-revenue-model.md)**.
-
+>Para aprobar su modelo, lea nuestra página de ayuda en **[Aprobación y desaprobación de un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.
