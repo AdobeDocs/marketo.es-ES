@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: Dimension personalizados para perspectivas de correo electrónico - Documentos de marketing - Documentación del producto
 title: Dimension personalizados para perspectivas de correo electrónico
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Se incluyen todas las dimensiones estándar de marketing, pero puede agregar has
 
 >[!CAUTION]
 >
->Las dimensiones personalizadas **NO PUEDEN** eliminarse o reemplazarse, así que elija las 10 cuidadosamente.
+>Las dimensiones personalizadas **no pueden** eliminarse o reemplazarse, así que elija las 10 cuidadosamente.
 
 1. En Perspectivas de correo electrónico, haga clic en el icono de engranaje en la parte superior derecha de la página.
 
@@ -43,6 +43,4 @@ Se incluyen todas las dimensiones estándar de marketing, pero puede agregar has
    >
    >**Por Audiencia**: Muestra todas las segmentaciones aprobadas (desde la base de datos)
    >
-   >
    >**Por contenido**: Muestra todas las etiquetas de Programa
-
