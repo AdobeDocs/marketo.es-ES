@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: Configuración de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Configuración de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ Obtenga información sobre las distintas opciones de Configuración en MPI.
 
 **Panel de participación: contribución y tendencia**
 
-| **Período de costo** | Al comprobar esto, Performance Insights acumulada todos los nombres y éxitos nuevos hasta el mes configurado como período de costo. |
-|---|---|
-| **Período de actividad** | Al comprobar esto, Performance Insights acumulada todos los nombres, éxitos y membresía nuevos por fecha de actividad, independientemente del período de costo de programa. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Período de costo</strong></td> 
+   <td>Al comprobar esto, Performance Insights acumulada todos los nombres y éxitos nuevos hasta el mes configurado como período de costo.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Período de actividad</strong></td> 
+   <td>Al comprobar esto, Performance Insights acumulada todos los nombres, éxitos y membresía nuevos por fecha de actividad, independientemente del período de costo de programa.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Configuración del período anterior {#previous-period-configuration}
 
 **Participación, canalización, Paneles de ingresos: solo contribución**
 
-| **Período de calendario** | Establezca el período anterior en: mes, trimestre o año natural anterior. |
-|---|---|
-| **Período JOY** | Establezca el período anterior en el mismo mes o trimestre del año anterior. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Período de calendario</strong></td> 
+   <td>Establezca el período anterior en: mes, trimestre o año natural anterior.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Período JOY</strong></td> 
+   <td>Establezca el período anterior en el mismo mes o trimestre del año anterior.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Oportunidades influidas por el marketing {#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ Obtenga información sobre las distintas opciones de Configuración en MPI.
  </tbody> 
 </table>
 
-Panel de ingresos - Contribución y tendencia
+**Panel de ingresos - Contribución y tendencia**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ Panel de ingresos - Contribución y tendencia
 
 **Paneles de canalización e ingresos: contribución y tendencia**
 
-| **Basado en el período de inversión** | El coste de inversión se calcula simplemente como la suma de los costes de programa mensuales definidos por el filtro del período de inversión. |
-|---|---|
-| **Basado en la atribución de Programa** | El costo atribuido se basa en una porción del costo de los programas determinado por posibles clientes o contactos que se adquirieron o lograron éxito en el programa y que finalmente dieron como resultado una oportunidad ganada. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Basado en el período de inversión</strong></td> 
+   <td>El coste de inversión se calcula simplemente como la suma de los costes de programa mensuales definidos por el filtro del período de inversión.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Basado en la atribución de Programa</strong></td> 
+   <td>El costo atribuido se basa en una porción del costo de los programas determinado por posibles clientes o contactos que se adquirieron o lograron éxito en el programa y que finalmente dieron como resultado una oportunidad ganada.</td> 
+  </tr> 
+ </tbody> 
+</table>
