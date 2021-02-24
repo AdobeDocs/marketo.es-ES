@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: Configurar las conversiones de Google AdWords en el modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Configurar las conversiones de Google AdWords en el modelo de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Configurar las conversiones de Google AdWords en el modelo de ingresos {#set-google-adwords-conversions-in-the-revenue-model}
+# Establecer las conversiones de Google AdWords en el modelo de ingresos {#set-google-adwords-conversions-in-the-revenue-model}
 
 Vincule su cuenta de Google AdWords a Marketing para cargar automáticamente datos de conversión sin conexión de Marketing a Google AdWords. Luego, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics generaron posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556) en AdWords.
 
 >[!NOTE]
 >
->Esta es una integración push de Marketing a Google AdWords. Los datos de conversión aparecerán *sólo* en el portal Google AdWords**, no en la interfaz de usuario de Marketing. **
+>Esta es una integración push de Marketing a Google AdWords. Los datos de conversión aparecerán _sólo_ en el portal Google AdWords, _no en la interfaz de usuario de Marketing_.
 
-Obtenga más información sobre la [función de importación de conversión sin conexión de Google](https://support.google.com/adwords/answer/2998031?hl=en).  Asigne las conversiones sin conexión de AdWords a una o más etapas de un modelo de ingresos. Existen tres formas de realizar la asignación:
+Obtenga más información sobre la [función de importación de conversión sin conexión de Google](https://support.google.com/adwords/answer/2998031?hl=en). Asigne las conversiones sin conexión de AdWords a una o más etapas de un modelo de ingresos. Existen tres formas de realizar la asignación:
 
 * Conversión de AdWords
 * Acción de etapa
@@ -29,11 +29,7 @@ Puede crear una nueva conversión sin conexión de AdWords desde Marketing a si 
 
 >[!PREREQUISITES]
 >
->* [Añadir Google AdWords como un servicio de LaunchPoint](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Añadir Google AdWords como un servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Usar conversión de AdWords {#use-adwords-conversion}
 
