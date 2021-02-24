@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: Uso de Transiciones del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Uso de Transiciones del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Crear un nuevo modelo de ingresos](create-a-new-revenue-model.md)
+>[Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora de establecer las transiciones.
 
@@ -29,7 +29,10 @@ Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora 
    >
    >Las reglas de transición &#39;Anonymous  Known&#39; no se pueden editar.
 
-1. Se abrirá una nueva ficha para la transición seleccionada.   ![](assets/three-1.png)
+1. Se abrirá una nueva ficha para la transición seleccionada.
+
+   ![](assets/three-1.png)
+
 1. Las transiciones controlan cómo se mueven los leads entre etapas. Arrastre el déclencheur (o el filtro) de su elección desde la derecha y suelte en cualquier lugar en el lienzo. En este ejemplo, seleccionaremos el déclencheur Rellenar formulario.
 
    >[!TIP]
@@ -62,4 +65,4 @@ Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora 
 
 >[!MORELIKETHIS]
 >
->[Aprobar o desaprobar un modelo de ingresos](approve-unapprove-a-revenue-model.md)
+>[Aprobar o desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
