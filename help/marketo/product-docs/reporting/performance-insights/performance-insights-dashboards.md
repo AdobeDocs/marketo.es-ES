@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Paneles de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Paneles de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Elija la métrica **Éxitos** para medir el compromiso de audiencia en los progr
 El propósito de un programa es crear una interacción significativa con la persona o el cliente potencial. El éxito se marca cuando una persona alcanza la condición que lo permite. Puede asistir a un seminario web, hacer clic en un vínculo de un correo electrónico o rellenar un formulario web. El éxito varía en función del canal de programa.
 
 >[!NOTE]
->
->**Ejemplo**
 >
 >En un programa de seminario web, puede haber varios estados, como: Invitado, registrado y asistente. Invitado o Registrado no son interacciones significativas porque la gente no ve realmente el seminario web. En este caso, se considera que la asistencia ha sido un éxito.
 
@@ -108,4 +106,3 @@ El panel Ingresos muestra el rendimiento de los canales según las métricas de 
   </tr> 
  </tbody> 
 </table>
-
