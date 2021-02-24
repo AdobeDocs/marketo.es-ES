@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos - Documentos de marketing - Documentación del producto
 title: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Los siguientes pasos le permitirán utilizar campos personalizados en los inform
    >[!NOTE]
    >
    >Una vez activado el campo, los datos estarán disponibles en Análisis del ciclo de ingresos al día siguiente.
-
