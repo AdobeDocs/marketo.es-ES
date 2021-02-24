@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Aprobar/desaprobar un modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Aprobar o desaprobar un modelo de ingresos
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Sólo puede tener un modelo aprobado en un momento dado.
 
 >[!CAUTION]
 >
->[Se deben ](approving-stages-and-assigning-leads-to-a-revenue-model.md) aprobar etapas individuales y se deben agregar personas antes de aprobar un modelo completo.
+>[Se deben ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) aprobar etapas individuales y se deben agregar personas antes de aprobar un modelo completo.
 
 ## Aprobar {#approve}
 
@@ -66,4 +66,3 @@ Sólo puede tener un modelo aprobado en un momento dado.
 >[!CAUTION]
 >
 >La desaprobación de un modelo elimina a todas las personas del modelo y elimina su historial del modelo de la base de datos.
-
