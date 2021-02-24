@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Comparar la eficacia de los Programas con el analizador de Programas - Documentos de marketing - Documentación del producto
 title: Comparar la eficacia de los Programas con el analizador de Programas
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Utilice el analizador de Programas para identificar los programas más y menos e
 
 >[!PREREQUISITES]
 >
->* [Creación de un analizador de Programas](create-a-program-analyzer.md)
+>[Creación de un analizador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Haga clic en Analytics.
+1. Haga clic en **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ Utilice el analizador de Programas para identificar los programas más y menos e
 
    >[!TIP]
    >
-   >Una forma rápida de filtrar programas a un solo canal es seleccionar **Vista > Por Canal**, hacer clic en la burbuja de ese canal y, a continuación, hacer clic en el nombre del canal en el cuadro de diálogo emergente.
+   >Una manera rápida de filtrar programas a un solo canal es seleccionar **Vista** > **Por Canal**, hacer clic en la burbuja de ese canal y, a continuación, hacer clic en el nombre del canal en el cuadro de diálogo emergente.
 
 1. Utilice la lista desplegable Eje X para elegir una métrica para el eje horizontal. Inicios con el costo de Programa.
 
@@ -92,10 +91,6 @@ Vemos que el programa del Festival de Papel 12 no sólo influye en más ingresos
 
 >[!MORELIKETHIS]
 >
->* [Explorar los detalles de Programa y Canal con el analizador de Programas](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Comparar la eficacia de los Canales con el analizador de Programas](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Explorar los detalles de Programa y Canal con el analizador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Comparar la eficacia de los Canales con el analizador de Programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->Obtenga más información sobre los análisis avanzados en [Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
