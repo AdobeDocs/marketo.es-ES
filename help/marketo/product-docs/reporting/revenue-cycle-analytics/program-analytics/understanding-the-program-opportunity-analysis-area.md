@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Explicación del área de Análisis de oportunidades de Programa - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de oportunidades de Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 El área de Análisis Oportunidad de Programa le permite analizar la efectividad de Programas individuales o ver resultados resumidos por Canal de Programa.
 
-**Algunas de las preguntas comerciales que puede responder con esta área de análisis son:**
+**Algunas de las preguntas comerciales que puede responder con esta área de análisis son**:
 
 ¿Cuántas oportunidades se asociaron a un Programa determinado y cuántas de ellas hemos ganado?
 
@@ -67,11 +67,11 @@ Al igual que con la adquisición, el valor de contribuir a las ventas realizadas
   </tr> 
   <tr> 
    <td>Costo de oportunidad</td> 
-   <td><p>Parte del costo del programa que influyó en la oportunidad. El costo puede dividirse si hay múltiples posibles clientes implicados.</p></td> 
+   <td>Parte del costo del programa que influyó en la oportunidad. El costo puede dividirse si hay múltiples posibles clientes implicados.</td> 
   </tr> 
   <tr> 
    <td>Oportunidades creadas</td> 
-   <td><p>Parte del crédito que el programa recibió por influir en la creación de la oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</p></td> 
+   <td>Parte del crédito que el programa recibió por influir en la creación de la oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</td> 
   </tr> 
   <tr> 
    <td>Oportunidades ganadas</td> 
@@ -79,28 +79,28 @@ Al igual que con la adquisición, el valor de contribuir a las ventas realizadas
   </tr> 
   <tr> 
    <td>Canalización creada</td> 
-   <td><p>Parte del crédito (en valor monetario) que el programa recibió por influir en la creación de la oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</p></td> 
+   <td>Parte del crédito (en valor monetario) que el programa recibió por influir en la creación de la oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</td> 
   </tr> 
   <tr> 
    <td>Canalización creada: aún abierta</td> 
    <td>La parte del crédito (en valor monetario) que el programa recibió por influir en la creación de la oportunidad abierta actual. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</td> 
   </tr> 
   <tr> 
-   <td><p>Ingresos esperados</p></td> 
+   <td>Ingresos esperados</td> 
    <td>Parte del crédito (en valor monetario) que el programa recibió por influir en la creación de la oportunidad. Ingresos esperados es la probabilidad de oportunidad multiplicada por el valor de oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</td> 
   </tr> 
   <tr> 
-   <td><p>Ingresos por inversión</p></td> 
-   <td><p>Es la proporción de la parte del crédito (en valor monetario) que el programa recibió por influir en las oportunidades obtenidas y en el costo del programa.</p></td> 
+   <td>Ingresos por inversión</td> 
+   <td>Se trata de la proporción de crédito (en valor monetario) que el programa recibió por influir en las oportunidades que se obtuvieron y en el costo del programa.</td> 
   </tr> 
   <tr> 
    <td>Ganancia de ingresos</td> 
-   <td><p>Parte del crédito (en valor monetario) que el programa recibió por influir en su oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</p></td> 
+   <td>Parte del crédito (en valor monetario) que el programa recibió por influir en su oportunidad. Puede ser una fracción si hubiera múltiples posibles clientes implicados.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = Atribución de primer toque, utilizada para medidas de adquisición de plomo; (MT) = Atribución multitáctil, utilizada para medir el éxito de los posibles clientes*
+_* (FT) = Atribución de primer toque, utilizada para medidas de adquisición de plomo; (MT) = Atribución multitáctil, utilizada para medir el éxito de los posibles clientes_
 
 A continuación se muestra un escenario que describe cómo se calculan las unidades de oportunidad cuando hay dos Programas que generaron posibles clientes, pero estos posibles clientes llevaron a una oportunidad desde la misma cuenta.
 
@@ -165,19 +165,19 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
  <tbody> 
   <tr> 
    <th>Categoría</th> 
-   <th><p>Mostrar etiqueta</p></th> 
+   <th>Mostrar etiqueta</th> 
   </tr> 
   <tr> 
    <td>Atributos de oportunidad</td> 
-   <td><p>Oportunidad cerrada<br>Nombre de oportunidad*<br>Nombre de propietario de oportunidad<br>Fase de oportunidad<br>Tipo de oportunidad</p></td> 
+   <td>Oportunidad cerrada<br>Nombre de oportunidad*<br>Nombre de propietario de oportunidad<br>Fase de oportunidad<br>Tipo de oportunidad</td> 
   </tr> 
   <tr> 
    <td>Intervalo de tiempo de oportunidad</td> 
-   <td><p>Oportunidad año/trimestre/mes cerrado<br>Oportunidad creada año/trimestre/mes</p></td> 
+   <td>Oportunidad año/trimestre/mes cerrado<br>Oportunidad creada año/trimestre/mes</td> 
   </tr> 
   <tr> 
    <td>Atributos de programa</td> 
-   <td><p>Canal de programa<br>Nombre de Programa</p></td> 
+   <td>Canal de programa<br>Nombre de Programa</td> 
   </tr> 
   <tr> 
    <td>Intervalo de tiempo de costo de programa</td> 
@@ -190,4 +190,4 @@ Mientras que las medidas (puntos azules) se calculan y requieren cierta reflexi�
 
 >[!MORELIKETHIS]
 >
->[Crear un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Crear un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
