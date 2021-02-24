@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: Definir costos de período - Documentos de marketing - Documentación del producto
 title: Definir costos de período
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Rastree y asocie los costos de adquisición de posibles clientes y de alimentaci
 
 ## Editar un costo de período {#edit-a-period-cost}
 
-1. Haga clic con el botón derecho en Coste de período y seleccione **Editar **en el menú emergente para abrir el cuadro de diálogo **Editar costo**.
+1. Haga clic con el botón derecho en el costo del período y seleccione **Editar** en el menú emergente para abrir el cuadro de diálogo **Editar costo**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ Rastree y asocie los costos de adquisición de posibles clientes y de alimentaci
 
 ## Eliminar un costo de período {#delete-a-period-cost}
 
-1. Haga clic con el botón derecho en el costo del período que desee eliminar y seleccione **Eliminar **en el menú emergente para mostrar el mensaje **Eliminar costo **Suprimir costo.
+1. Haga clic con el botón secundario en el costo de período que desee eliminar y seleccione **Eliminar** en el menú emergente para mostrar el mensaje **Eliminar costo**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Haga clic en **Eliminar** para eliminar permanentemente el costo del período o **Cancelar** para volver atrás.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
