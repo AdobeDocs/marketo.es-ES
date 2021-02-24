@@ -3,7 +3,7 @@ unique-page-id: 7504922
 description: Tipos de informes del Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Tipos de informes del Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -61,4 +61,3 @@ Los siguientes son los tipos de informes que encontrará si utiliza los análisi
   </tr> 
  </tbody> 
 </table>
-
