@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Añadir medidas personalizadas en un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Añadir medidas personalizadas en un informe del Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ En el ejemplo siguiente, está creando una medida calculada para devoluciones en
 >
 >Necesita al menos una métrica en el informe, pero no tiene por qué ser una de las medidas que utilice para definir la medida personalizada.
 
-1. Desplácese por los campos que necesita para el informe. Consulte [Añadir campos a un informe del Explorador de ingresos](adding-fields-to-a-revenue-explorer-report.md) para obtener más información.
+1. Desplácese por los campos que necesita para el informe. Consulte [Añadir campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obtener más información.
+
 1. Haga clic con el botón derecho en una métrica existente (celda azul), haga clic en **Medida definida por el usuario** y seleccione **Medida calculada**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ En el ejemplo siguiente, está creando una medida calculada para devoluciones en
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Añadir campos en un informe del Explorador de ingresos](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Añadir campos en un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
