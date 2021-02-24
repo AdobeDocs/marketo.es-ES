@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: Uso de las etapas de la puerta del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Uso de las etapas de la puerta del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Un escenario de puerta sirve como verificación de cualificación.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Seleccione un modelo existente o [cree uno nuevo](create-a-new-revenue-model.md).
+1. Seleccione un modelo existente o [cree uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Haga clic en **Editar** **Borrador**.
+1. Haga clic en **Editar borrador**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ Un escenario de puerta sirve como verificación de cualificación.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Edite el **Nombre **y seleccione un **Tipo**.
+1. Edite el **Nombre** y seleccione un **Tipo**.
 
    >[!NOTE]
    >
-   >Seleccione [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md) en este momento para obtener información sobre el rendimiento de las cuentas a medida que avanzan a través del modelo.
+   >Seleccione [Seguimiento de Inicios por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) en este momento para obtener información sobre el rendimiento de las cuentas a medida que avanzan a través del modelo.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ Un escenario de puerta sirve como verificación de cualificación.
 
 ## Editar una etapa de puerta {#edit-a-gate-stage}
 
-Edite el Nombre, la Descripción y ajuste el Tipo de la etapa de la Puerta. También puede optar por [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md).
+Edite el Nombre, la Descripción y ajuste el Tipo de la etapa de la Puerta. También puede optar por [Seguimiento de Inicios por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Haga clic en un icono de escenario **Puerta**.
 
@@ -83,11 +83,7 @@ Edite el Nombre, la Descripción y ajuste el Tipo de la etapa de la Puerta. Tamb
 
 >[!MORELIKETHIS]
 >
->* [Uso de las fases de inventario del modelo de ingresos](using-revenue-model-inventory-stages.md)
->* [Uso de las fases SLA del modelo de ingresos](using-revenue-model-sla-stages.md)
->* [Crear un nuevo modelo](create-a-new-revenue-model.md) de ingresos.
-
->
-
-
+>* [Uso de las fases de inventario del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Uso de las fases SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Crear un nuevo modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md) de ingresos.
 
