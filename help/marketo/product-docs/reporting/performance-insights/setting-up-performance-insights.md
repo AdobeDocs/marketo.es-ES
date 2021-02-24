@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Configuración de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Configuración de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Siga los pasos a continuación para configurar MPI.
    >
    >Asegúrese de que todas las oportunidades tengan rellenados los campos correspondientes:
    >
-   >    
-   >    
-   >    * Cantidad de oportunidad
-   >    * Está cerrado
-   >    * Es Ganado
-   >    * Fecha de creación (puede que no esté establecida en su caso)
-   >    * Fecha de cierre (puede que no esté establecida en su caso)
-   >    * Tipo de oportunidad
+   >* Cantidad de oportunidad
+   >* Está cerrado
+   >* Es Ganado
+   >* Fecha de creación (puede que no esté establecida en su caso)
+   >* Fecha de cierre (puede que no esté establecida en su caso)
+   >* Tipo de oportunidad
 
 
 ## Configuración de programa {#program-setup}
@@ -121,4 +119,3 @@ A continuación, revise el comportamiento de los análisis para indicar si se de
 >[!NOTE]
 >
 >Los cambios realizados no son instantáneos. Se requiere un período nocturno antes de que los cambios entren en vigor.
-
