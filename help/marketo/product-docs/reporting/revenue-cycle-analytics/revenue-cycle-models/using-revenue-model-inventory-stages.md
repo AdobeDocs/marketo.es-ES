@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Uso de las fases de inventario del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Uso de las fases de inventario del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Todos los leads y cuentas conocidos residen inicialmente en la etapa de inventar
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. En la sección **Analytics**, seleccione el modelo existente o [cree uno nuevo](create-a-new-revenue-model.md).
+1. En la sección **Analytics**, seleccione el modelo existente o [cree uno nuevo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Todos los leads y cuentas conocidos residen inicialmente en la etapa de inventar
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Puede editar el nombre, agregar una descripción y ajustar el tipo después de agregar un escenario. También puede seleccionar ** [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
+1. Puede editar el nombre, agregar una descripción y ajustar el tipo después de agregar un escenario. También puede seleccionar **[Seguimiento de Inicios por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Editar una etapa de inventario {#edit-an-inventory-stage}
 
-Al seleccionar un icono de inventario, puede editar el **Nombre**, agregar una **Descripción** o ajustar el **Tipo**. También puede seleccionar [Seguimiento de Inicios por cuenta](start-tracking-by-account-in-the-revenue-modeler.md).
+Al seleccionar un icono de inventario, puede editar el **Nombre**, agregar una **Descripción** o ajustar el **Tipo**. También puede seleccionar [Seguimiento de Inicios por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Haga clic en un icono de inventario.
 
