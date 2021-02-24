@@ -3,7 +3,7 @@ unique-page-id: 4718664
 description: Explicación de la ruta de éxito del modelo de ingresos - Documentos de marketing - Documentación del producto
 title: Explicación de la ruta de éxito del modelo de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
