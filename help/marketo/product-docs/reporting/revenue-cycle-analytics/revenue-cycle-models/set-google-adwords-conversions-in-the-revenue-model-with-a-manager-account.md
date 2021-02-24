@@ -3,7 +3,7 @@ unique-page-id: 7504923
 description: Configurar las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador - Documentos de marketing - Documentación del producto
 title: Configurar las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -24,11 +24,7 @@ Puede asignar las conversiones sin conexión de AdWords a una o varias etapas en
 
 >[!PREREQUISITES]
 >
->* [Añadir Google AdWords como un servicio de punto de lanzamiento con una cuenta de administrador](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-
->
-
-
+>[Añadir Google AdWords como un servicio de punto de lanzamiento con una cuenta de administrador](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Usar acción de etapa {#use-stage-action}
 
@@ -76,9 +72,7 @@ Asigne una conversión de AdWords en Acciones de la etapa.
 
 1. Seleccione **Nueva conversión**.
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. Escriba un **Nombre de conversión**. Haga clic en **Guardar**.
 
