@@ -3,7 +3,7 @@ unique-page-id: 4718675
 description: Cambio del nombre de una etapa - Documentos de marketing - Documentación del producto
 title: Cambio del nombre de una etapa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   Haga clic en Cerrar.
+1. Haga clic en **Cerrar**.
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   ¿Ven? ¡Fácil! Recuerde [Aprobar el modelo](approve-unapprove-a-revenue-model.md).
-
+   ¿Ven? ¡Fácil! Recuerde [Aprobar el modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
