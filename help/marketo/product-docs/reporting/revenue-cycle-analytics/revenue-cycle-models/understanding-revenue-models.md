@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Explicación de los modelos de ingresos - Documentos de marketing - Documentación del producto
 title: Explicación de los modelos de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ De forma predeterminada, un nuevo modelo le inicio con seis etapas de ingresos. 
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observe que todos están en un fondo verde. Esto se denomina **Ruta de éxito**. Obtenga más información sobre la ruta de éxito [aquí](understanding-revenue-model-success-path.md).
+Observe que todos están en un fondo verde. Esto se denomina **Ruta de éxito**. Obtenga más información sobre la ruta de éxito [aquí](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **Las** etapas son los hitos en una progresión de la dirección hacia sus objetivos.
 
-**Transiciones **se muestran como flechas y controlan cómo se mueven los leads entre etapas.
+**Las** transiciones se muestran como flechas y controlan cómo se mueven los leads entre etapas.
 
 >[!NOTE]
 >
@@ -79,33 +79,36 @@ La etapa Puerta está pensada para situaciones en las que desea filtrar los lead
 
 ## Transiciones {#transitions}
 
-Aclarar exactamente cómo un posible cliente se mueve de un escenario a otro utilizando campañas inteligentes y asegurarse de que los posibles clientes no se quedan atascados en ninguna etapa. Asegúrese de utilizar filtros desencadenadores para transiciones a (es una forma de evaluarlas).
+Aclarar exactamente cómo un posible cliente se mueve de un escenario a otro utilizando campañas inteligentes y asegurarse de que los posibles clientes no se quedan atascados en ninguna etapa. Asegúrese de usar filtros de déclencheur para transiciones a (es una forma de evaluarlas).
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->Una transición podría definirse mediante un posible cliente **rellenar un formulario. **
+>Una transición puede definirse mediante un posible cliente que rellene un formulario.
 
-Estos son algunos vínculos que pueden ser útiles para albergar esperanzas. (o con suerte de ayuda - ¡escoja!)
+Añadir una etapa de la ruta de éxito feliz
 
->[!MORELIKETHIS]
->
->[Crear un nuevo modelo de ingresos](create-a-new-revenue-model.md)
->
->[Uso de las fases de inventario del modelo de ingresos](using-revenue-model-inventory-stages.md)
->
->[Uso de las etapas de la puerta del modelo de ingresos](using-revenue-model-gate-stages.md)
->
->[Uso de las fases SLA del modelo de ingresos](using-revenue-model-sla-stages.md)
-
-Añadir una etapa de la ruta de éxito feliz   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Perdido es bueno para agregar, pero fíjese en que no está en el camino verde. Esto se debe a que no es un &quot;éxito&quot;.
 
 >[!MORELIKETHIS]
 >
->[Informe sobre el modelo de ingresos](report-on-your-revenue-model.md)
->
->[Aprobar o desaprobar un modelo de ingresos](approve-unapprove-a-revenue-model.md)
+>* [Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Uso de las fases de inventario del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Uso de las etapas de la puerta del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [Uso de las fases SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Informe sobre el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Aprobar o desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
