@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Uso de Paneles en el Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Uso de Paneles en el Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Un panel es una combinación de informes del Explorador de ingresos para obtener
 
    ![](assets/nine.png)
 
-1. Para cambiar el nombre de una sección, haga clic en ella para seleccionarla, escriba el nombre que desee en Título y haga clic en** Aplicar**. Repita el proceso para cada sección.
+1. Para cambiar el nombre de una sección, haga clic en ella para seleccionarla, escriba el nombre que desee en Título y haga clic en **Aplicar**. Repita el proceso para cada sección.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ Un panel es una combinación de informes del Explorador de ingresos para obtener
 1. Seleccione el panel que desee eliminar y haga clic en **Mover a la papelera**.
 
    ![](assets/fifteen.png)
-
