@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Generar un informe de Análisis por correo electrónico que muestre información de Programa - Documentos de marketing - Documentación del producto
 title: Generar un informe de Análisis de correo electrónico que muestre información de Programa
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ Siga estos pasos para crear un informe de Análisis de correo electrónico que m
 
 >[!AVAILABILITY]
 >
->
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
 
 1. Inicie **Explorador de ingresos**.
@@ -28,7 +27,7 @@ Siga estos pasos para crear un informe de Análisis de correo electrónico que m
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Seleccione** Área de Análisis de correo electrónico** y haga clic en **Aceptar**.
+1. Seleccione el área **Análisis de correo electrónico** y haga clic en **Aceptar**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ Siga estos pasos para crear un informe de Análisis de correo electrónico que m
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Busque y doble haga clic en el punto amarillo del Canal*** del Programa.
+1. Busque y doble en el punto amarillo **Canal de Programa**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ Siga estos pasos para crear un informe de Análisis de correo electrónico que m
    ¡bueno trabajo! Debería tener un informe similar al siguiente:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**Buceo profundo**
-   >
-   >
-   >¿Desea obtener más información acerca del [Explorador del ciclo de ingresos](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
-
