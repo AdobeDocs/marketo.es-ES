@@ -3,9 +3,9 @@ unique-page-id: 14746432
 description: Sincronizar campos personalizados con perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Sincronizar campos personalizados con perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Los paneles de Canalización e Ingresos de MPI pueden filtrar por campos de mark
 
 >[!NOTE]
 >
->Este artículo es solo para usuarios que **no** tienen [RCA](https://docs.marketo.com/x/lwIk). Si tiene RCA, siga los pasos de [este artículo](https://docs.marketo.com/x/FQQk).
+>Este artículo es solo para usuarios que **no** tienen Analytics de ciclo de ingresos. Si tiene RCA, siga los pasos de [este artículo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md).
 
 1. Vaya a la sección **Administración**.
 
@@ -50,4 +50,3 @@ Los paneles de Canalización e Ingresos de MPI pueden filtrar por campos de mark
    >[!NOTE]
    >
    >Una vez habilitados, los campos estarán disponibles en MPI al día siguiente.
-
