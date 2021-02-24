@@ -3,7 +3,7 @@ unique-page-id: 12980873
 description: Gráficos rápidos de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Gráficos rápidos de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Si necesita eliminar un gráfico rápido, siga estos sencillos pasos.
 1. Haga clic en **Eliminar**.
 
    ![](assets/10-1.png)
-
