@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: Explicación de la Análisis de oportunidades en el Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Explicación de la Análisis de oportunidades en el Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Estos son algunos informes que puede crear en el área de Análisis Oportunidad.
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Influencia de la mercadotecnia en oportunidades cerradas y ganadas
-1. Este informe muestra la cantidad de ingresos que la mercadotecnia obtuvo e influyó en ellos, por número e importe.
+1. Influencia de la mercadotecnia en oportunidades cerradas y ganadas.
+
+   Este informe muestra la cantidad de ingresos que la mercadotecnia obtuvo e influyó en ellos, por número e importe.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Oportunidad cerrada por fuente de posibles clientes
-1. Este informe desglosa todas las oportunidades cerradas por fuente de posibles clientes y le proporciona una visión general clara de las fuentes que funcionan y las que no.
+
+   Este informe desglosa todas las oportunidades cerradas por fuente de posibles clientes y le proporciona una visión general clara de las fuentes que funcionan y las que no.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ La Análisis de oportunidades le permite acceder a todas las dimensiones relacio
 
 >[!MORELIKETHIS]
 >
->* [Crear un informe del Explorador de ingresos](create-a-revenue-explorer-report.md)
->* [Añadir campos en un informe del Explorador de ingresos](adding-fields-to-a-revenue-explorer-report.md)
->* [Suscripción a un informe del Explorador de ingresos](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Crear un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Añadir campos en un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Suscripción a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
