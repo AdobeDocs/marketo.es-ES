@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Edición del modelo aprobado - Documentos de marketing - Documentación del producto
 title: Edición del modelo aprobado
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Elija la nueva etapa para leads que se encuentren en la seleccionada o seleccione **Ninguno **para eliminar los leads del modelo. Cuando haya terminado, haga clic en **Combinar**.
+1. Elija la nueva etapa para leads que se encuentren en la seleccionada o seleccione **Ninguno** para eliminar los leads del modelo. Cuando haya terminado, haga clic en **Combinar**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ Sólo puede tener un modelo aprobado a la vez. Si desea aprobar un modelo pero y
 
 >[!MORELIKETHIS]
 >
->[Crear un nuevo modelo de ingresos](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
