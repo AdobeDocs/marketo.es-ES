@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: Añadir campos a un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Añadir campos en un informe del Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,4 @@ Personalice los informes del explorador de ingresos arrastrando y soltando los c
 
 >[!MORELIKETHIS]
 >
->* [Eliminación de un campo en un informe del Explorador de ingresos](deleting-a-field-in-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Eliminación de un campo en un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
