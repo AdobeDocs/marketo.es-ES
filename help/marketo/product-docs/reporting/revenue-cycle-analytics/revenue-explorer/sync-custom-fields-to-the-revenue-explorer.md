@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: Sincronizar campos personalizados con el Explorador de ingresos - Documentos de marketing - Documentación del producto
 title: Sincronizar campos personalizados con el Explorador de ingresos
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Los análisis de ciclo de ingresos pueden informar sobre los campos personalizad
    >Una vez habilitados, los datos estarán disponibles en Análisis del ciclo de ingresos al día siguiente.
 
    ¡Buen trabajo! Ahora sabe cómo agregar campos personalizados a RCA.
-
