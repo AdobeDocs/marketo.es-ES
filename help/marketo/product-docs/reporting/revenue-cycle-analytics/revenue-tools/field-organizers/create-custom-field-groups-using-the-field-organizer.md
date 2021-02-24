@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Crear grupos de campos personalizados con el organizador de campos - Documentos de marketing - Documentación del producto
 title: Crear grupos de campos personalizados con el organizador de campos
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -82,7 +82,7 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
    >
    >Para eliminar un valor de datos de un subgrupo, reasigne el valor de datos al grupo predeterminado Otro.
 
-1. Utilice la opción de filtro situada en la esquina superior izquierda, directamente encima del lienzo, para seleccionar y vista los valores de datos en uno o varios subgrupos. Los valores de datos basados en la selección de filtros se muestran en el lienzo.
+1. Utilice la opción de filtro de la esquina superior izquierda directamente sobre el lienzo para seleccionar y vista los valores de datos en uno o varios subgrupos. Los valores de datos basados en la selección de filtros se muestran en el lienzo.
 
    ![](assets/eight.png)
 
@@ -180,8 +180,8 @@ Las tres secciones siguientes describen cómo crear un grupo de campos personali
    >
    >Puede agregar hasta diez subgrupos para categorizar los valores de los datos. Cada entrada de intervalo de grupo se basa en la entrada anterior. Si deja la última entrada de intervalo de grupo en blanco para el último subgrupo personalizado que cree, no se establecerá un valor de fecha de finalización.
 
+   El ejemplo siguiente muestra una entrada para el primer trimestre de 2015 que lleva al tercer trimestre.
+
    ![](assets/16.5.png)
 
    ¡Y eso es todo! Buen trabajo.
-
-El ejemplo siguiente muestra una entrada para el primer trimestre de 2015 que lleva al tercer trimestre.
