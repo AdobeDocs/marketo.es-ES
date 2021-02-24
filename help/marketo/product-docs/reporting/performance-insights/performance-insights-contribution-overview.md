@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Información general sobre la contribución de perspectivas de rendimiento - Documentos de marketing - Documentación del producto
 title: Información general de contribución de perspectivas de rendimiento
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Seleccione la métrica por la que desee realizar la vista del rendimiento. En es
 
 >[!NOTE]
 >
->Obtenga información sobre [Primer toque y Multitoque](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Obtenga información sobre [Primer toque y Multitoque](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Elija para qué período desea ver las métricas. En este ejemplo estamos viendo el año actual (año hasta la fecha).   ![](assets/3-1.png)
+Elija para qué período desea ver las métricas. En este ejemplo estamos viendo el año actual (año hasta la fecha).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >Se ha eliminado temporalmente la selección &quot;Año anterior&quot;. Todavía tiene la opción de ver los datos de rendimiento del año anterior utilizando la selección Intervalo personalizado.
 
-Las métricas se presentan mediante dos gráficos: anacardos y bar.   ![](assets/four.png)
+Las métricas se presentan mediante dos gráficos: anacardos y bar.
+
+![](assets/four.png)
 
 El gráfico de anillos muestra los diez canales principales de la métrica seleccionada.
 
@@ -45,7 +49,9 @@ El gráfico de barras muestra el rendimiento del programa en todos los canales (
 >
 >Si desea que las barras del gráfico se escalen a medida que se desplaza por los grupos, seleccione la casilla **Escalar eje Y para que encaje**.
 
-Pase el ratón sobre una barra para ver más detalles.   ![](assets/seven.png)
+Pase el ratón sobre una barra para ver más detalles.
+
+![](assets/seven.png)
 
 Seleccione uno o varios canales en el gráfico de anillos y todos los programas asociados con esos canales aparecerán en el gráfico de barras a la derecha. Vuelva a hacer clic en los canales para anular la selección.
 
@@ -69,4 +75,3 @@ Expanda un canal para ver sus diez programas principales, con los programas rest
 >[!NOTE]
 >
 >Al hacer clic en la casilla de verificación situada junto a un canal, se activa o desactiva en el gráfico de anillos de arriba.
-
