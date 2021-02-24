@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Explicación del área de Análisis de costos de Programa - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de Costes de Programa
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Explicación del área de Análisis de costos de Programa {#understanding-the-program-cost-analysis-area}
 
-El área de Análisis de Costes de Programa permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal durante un período de tiempo determinado.
+El área de Análisis de Costes de Programa permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal para un período de tiempo determinado.
 
 ## Preguntas comerciales de ejemplo {#example-business-questions}
 
@@ -58,7 +58,7 @@ El área de Análisis de Costes de Programa permite analizar la efectividad de p
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td><p>% de nombres nuevos</p></td> 
+   <td>% de nombres nuevos</td> 
    <td>Porcentaje de posibles clientes adquiridos por un programa</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ El área de Análisis de Costes de Programa permite analizar la efectividad de p
 | % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en la progresión de un programa |
 | Éxito (nuevos nombres) | Número total de nombres nuevos que lograron el éxito en la progresión de un programa |
 | Éxito (total) | Número total de posibles clientes que lograron el éxito en la progresión de un programa |
-
