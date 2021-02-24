@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: Ignorar comportamiento de Analytics en el nivel de Programa - Documentos de marketing - Documentación del producto
 title: Anular comportamiento de Analytics en el nivel de Programa
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Ignorar comportamiento de Analytics en el nivel de Programa {#override-analytics-behavior-at-the-program-level}
 
-Puede establecer el comportamiento [de análisis en el nivel de administrador en canales](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) pero también puede omitirlo en el nivel de programa. Así es como:
+Puede establecer el comportamiento [de análisis en el nivel de administrador en canales](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) pero también puede omitirlo en el nivel de programa. Así es como:
 
-1. Vaya al área Actividades de marketing.
+1. Vaya al área **Actividades de mercadotecnia**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Puede establecer el comportamiento [de análisis en el nivel de administrador en
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. En la ficha Ajustes, arrastre Comportamiento de Analytics al lienzo.
+1. En la ficha **Configuración**, arrastre Comportamiento de Analytics al lienzo.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ Puede establecer el comportamiento [de análisis en el nivel de administrador en
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Haga clic en GUARDAR.
+1. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ Puede establecer el comportamiento [de análisis en el nivel de administrador en
 
 >[!NOTE]
 >
->**Recordatorio**
->
 >Los cambios se producirán al día siguiente y estarán disponibles o se extraerán del explorador de ingresos y de los analizadores.
-
