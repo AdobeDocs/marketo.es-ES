@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Explicación del área de Análisis de la etapa de ingresos de Programa - Documentos de marketing - Documentación del producto
 title: Explicación del área de Análisis de la etapa de ingresos de Programa
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esta área de análisis le permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal. Proporciona perspectivas sobre cuántos de los nuevos nombres generados han alcanzado determinadas etapas de ruta de éxito dentro del modelo de ciclo de ingresos.
 
-**Algunas de las preguntas comerciales que puede responder con esta área de análisis son:**
+**Algunas de las preguntas comerciales que puede responder con esta área de análisis son**:
 
 ¿Cuántos nombres nuevos de un programa determinado han llegado a una etapa específica de mi modelo?
 
@@ -153,4 +153,4 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
 
 >[!MORELIKETHIS]
 >
->[Crear un informe del Explorador de ingresos](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Crear un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
