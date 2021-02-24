@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Información general sobre el Sistema de informes de Programa avanzado - Documentos de marketing - Documentación del producto
 title: Información general sobre el Sistema de informes de Programa avanzado
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Las áreas de análisis contienen diferentes conjuntos de datos y métricas dent
 
 ## Áreas de Análisis de programa {#program-analysis-areas}
 
-* ** [Análisis de costos de Programa](understanding-the-program-cost-analysis-area.md) **- Vea el ROI de todos sus programas.
+* **[Análisis](understanding-the-program-cost-analysis-area.md)**  de costo de programa: consulte el ROI de todos sus programas.
 
-* ** [Análisis de membresía en Programa](understanding-the-program-membership-analysis-area.md) **- Ver resultados por canal, participación, criterios de éxito, etc.
+* **[Análisis](understanding-the-program-membership-analysis-area.md)**  de pertenencia a programas: vea los resultados por canal, participación, criterios de éxito, etc.
 
-* ** [Análisis de oportunidades de Programa](understanding-the-program-opportunity-analysis-area.md) **- Oportunidades generadas en función de la distribución, sus ingresos y el retorno de la inversión.
+* **[Análisis](understanding-the-program-opportunity-analysis-area.md)**  de oportunidades de programa: oportunidades generadas en función de la distribución, sus ingresos y el retorno de la inversión.
 
-* ** [Análisis de la etapa de ingresos de Programas](understanding-the-program-revenue-stage-analysis-area.md) **- Nuevos nombres que han alcanzado etapas de éxito específicas dentro del modelo de ciclo de ingresos.
+* **[Análisis](understanding-the-program-revenue-stage-analysis-area.md)**  de la etapa de ingresos de programas: nombres nuevos que han alcanzado etapas de éxito específicas dentro del modelo de ciclo de ingresos.
 
 ## Analizadores de programa {#program-analyzers}
 
