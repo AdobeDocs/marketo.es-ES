@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Paneles RTP personalizados en Google Universal Analytics - Documentos de marketing - Documentación del producto
 title: Paneles RTP personalizados en Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Integrar RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-En esta publicación se explica cómo configurar paneles RTP en Google Universal Analytics (GUA).  Los datos enviados desde RTP a GUA pueden configurarse como dos paneles personalizados independientes llamados:
+En esta publicación se explica cómo configurar paneles RTP en Google Universal Analytics (GUA). Los datos enviados desde RTP a GUA pueden configurarse como dos paneles personalizados independientes llamados:
 
 * RTP B2B
 * Participación de RTP
 
 ## Configuración de un Panel personalizado {#setting-up-a-custom-dashboard}
 
-1. Inicie sesión en Google Analytics. Haga clic en **Sistema de informes **en el menú superior. Haga clic en **Paneles **y **+Nuevo Panel personalizado.**
+1. Inicie sesión en Google Analytics. Haga clic en **Sistema de informes** en el menú superior. Haga clic en **Paneles** y **+Nuevo Panel personalizado**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Seleccione **Lienzo en blanco**, agregue un **nombre de Panel** y haga clic en **Crear Panel**.
 
-1. Haga clic en **Añadir utilidad** para crear una nueva utilidad.\
+1. Haga clic en **Añadir utilidad** para crear una nueva utilidad.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## Panel RTP B2B {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ El panel consta de 3 columnas
 * Segmentación
 * Exploración en profundidad en firma
 
-1. Cree un nuevo panel llamado **Panel RTP B2B **y defina los siguientes widgets:
+1. Cree un nuevo panel llamado **Panel RTP B2B** y defina los siguientes widgets:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ El panel consta de 3 columnas
   <tr> 
    <th> 
     <div>
-      Columna 1 - Fuentes de tráfico 
+      Columna 1 - Fuentes de tráfico
     </div></th> 
    <th> 
     <div> <strong>Columna 2 - Segmentación</strong> 
@@ -151,11 +152,9 @@ El panel consta de 3 columnas
 
 Este panel permite a los usuarios analizar el rendimiento de la campaña RTP y las participaciones de los motores de recomendación. Proporciona una comparación del promedio. duración de la sesión y páginas por sesión entre:
 
-* 
-
-   * No comprometido
-   * Participación (impresiones y clics en una campaña personalizada)
-   * Clics en el motor de recomendación y en el contenido recomendado principal
+* No comprometido
+* Participación (impresiones y clics en una campaña personalizada)
+* Clics en el motor de recomendación y en el contenido recomendado principal
 
 Cree un nuevo panel llamado **Panel de compromiso RTP** y defina los siguientes widgets:
 
@@ -265,7 +264,6 @@ Cree un nuevo panel llamado **Panel de compromiso RTP** y defina los siguientes 
 
 >[!MORELIKETHIS]
 >
->[Integrar RTP con Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Informes RTP personalizados en Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Informes RTP personalizados en Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
