@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: Implementar el JavaScript RTP - Documentos de marketing - Documentación del producto
 title: Implementar el JavaScript de RTP
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Para generar y configurar su etiqueta RTP, siga las instrucciones de instalació
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. En **Dominio** y **Configuración de dominio**, localice el dominio relevante y haga clic en **Generar etiqueta.**
+1. En **Dominio** y **Configuración de dominio**, localice el dominio relevante y haga clic en **Generar etiqueta**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ Para generar y configurar su etiqueta RTP, siga las instrucciones de instalació
    Ahora está configurado con la etiqueta RTP y listo para el inicio [para crear segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) y campañas en tiempo real.
 
 1. Verificar que la etiqueta esté en todas las páginas.
-
->[!MORELIKETHIS]
->
->* [Implementación de etiquetas RTP](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
