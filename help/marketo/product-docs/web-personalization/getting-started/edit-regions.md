@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: Editar regiones - Documentos de marketing - Documentación del producto
 title: Editar regiones
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Al seleccionar Estados Unidos, se abrirán en la parte inferior de la página todas las opciones de Estados Unidos que se seleccionarán.
-
