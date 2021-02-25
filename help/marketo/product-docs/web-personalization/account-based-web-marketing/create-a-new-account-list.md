@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Crear una nueva Lista de cuenta - Documentos de marketing - Documentación del producto
 title: Crear una nueva Lista de cuenta
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
    >
    >**¿Cuál es el formato del archivo CSV?**
    >
-   >
    >Asegúrese de que el archivo CSV de cuenta con nombre cumpla los siguientes requisitos:
    >
    >* Guardado como formato CSV
@@ -50,8 +49,6 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
 
    >[!NOTE]
    >
-   >**Ejemplo**
-   >
    >**Ejemplo del archivo CSV**
    >
    >* Fila 1 Columna A valor = Organización
@@ -62,16 +59,16 @@ Cree y cargue una lista de nombres de organización y dominio para destinatario 
    >* País y Estado son valores opcionales.
 
       >
-      >  
-   * Para el nombre del país, utilice el nombre completo del país o el código de abreviatura. Por ejemplo: Estados Unidos o Estados Unidos.
-   >  * Para un estado de EE.UU., utilice el código de abreviatura de 2 letras, por ejemplo, CA. Solo se reconocen los estados de EE.UU.
+      >   
+      * Para el nombre del país, utilice el nombre completo del país o el código de abreviatura. Por ejemplo: Estados Unidos o Estados Unidos.
+      >   * Para un estado de EE.UU., utilice el código de abreviatura de 2 letras, por ejemplo, CA. Solo se reconocen los estados de EE.UU.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Editar una Lista de cuenta {#edit-an-account-list}
 
-En la página **Listas de cuenta**, haga clic en el icono **Editar **en la lista.
+En la página **Listas de cuenta**, haga clic en el icono **Editar** de la lista.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ El archivo CSV reemplazará al archivo existente. La lista existente permanecer�
 
 ## Eliminar una Lista de cuenta con nombre {#delete-a-named-account-list}
 
-1. En la página **Listas de cuenta **haga clic en el icono **Eliminar **de la lista que desee eliminar.
+1. En la página **Listas de cuenta**, haga clic en el icono Eliminar de la lista que desee eliminar.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ El archivo CSV reemplazará al archivo existente. La lista existente permanecer�
 
 >[!MORELIKETHIS]
 >
->* [Crear un segmento con una Lista de cuenta](create-a-segment-using-an-account-list.md)
->* [Vista de una Lista de cuenta con nombre](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Crear un segmento con una Lista de cuenta](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
