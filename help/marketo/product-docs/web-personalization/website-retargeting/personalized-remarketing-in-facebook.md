@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Remercadotecnia personalizada en Facebook - Documentos de marketing - Documentación del producto
 title: Remercadotecnia personalizada en Facebook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
 >[!PREREQUISITES]
 >
->* Complete la configuración de [redireccionamiento con datos de personalización web](retargeting-with-web-personalization-data.md)
->* Revise la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentación de Facebook sobre Audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)y remercadotecnia
-
->
-
+>* Complete la configuración de [redireccionamiento con datos de personalización web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Revise la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentación de Facebook sobre Audiencias personalizadas](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) y Remarketing.
 
 
 ## Creación de una Audiencia en Facebook {#creating-an-audience-in-facebook}
 
 1. En Facebook, vaya a la ficha [Audiencia](https://www.facebook.com/ads/audience_manager) en el Administrador de publicidad.
+
 1. Haga clic en **Herramientas** y seleccione **Audiencias**.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. En la lista de tráfico del sitio web, seleccione** Combinación personalizada**.
+1. En la lista de tráfico del sitio web, seleccione **Combinación personalizada**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. En la lista Evento, seleccione **Remarketing RTP **y seleccione un parámetro.
+1. En la lista Evento, seleccione **Remarketing de RTP** y seleccione un parámetro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ Para obtener más información, consulte la [documentación de Facebook](https:/
 
 >[!MORELIKETHIS]
 >
->* [Redireccionamiento con datos de personalización web](retargeting-with-web-personalization-data.md)
->* [Remercadotecnia personalizada en Google](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Redireccionamiento con datos de personalización web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Remercadotecnia personalizada en Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
