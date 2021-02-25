@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: Espacios de trabajo en la personalización web - Documentos de marketing - Documentación del producto
 title: Espacios de trabajo en personalización web
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ Para cambiar entre espacios de trabajo en personalización web, haga clic en el 
 
 >[!NOTE]
 >
->Los usuarios solo podrán ver campañas web y segmentos asociados a los espacios de trabajo a los que tienen acceso. A continuación se muestra cómo [dar acceso a un usuario a uno o más espacios de trabajo](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
-
+>Los usuarios solo podrán ver campañas web y segmentos asociados a los espacios de trabajo a los que tienen acceso. A continuación se muestra cómo [dar acceso a un usuario a uno o más espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
