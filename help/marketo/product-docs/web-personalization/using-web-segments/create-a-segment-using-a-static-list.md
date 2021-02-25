@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: Crear un segmento con una Lista estática - Documentos de marketing - Documentación del producto
 title: Crear un segmento con una Lista estática
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Crear un segmento usando una Lista estática {#create-a-segment-using-a-static-list}
 
-Segmente los visitantes web conocidos cuando visiten su sitio web en función de si están o no en una de sus [listas estáticas](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) de Marketing.
+Segmente los visitantes web conocidos cuando visiten su sitio web en función de si están o no en una de sus [listas estáticas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) de Marketing.
 
 1. Vaya a **Segmentos**.
 
@@ -27,7 +27,7 @@ Segmente los visitantes web conocidos cuando visiten su sitio web en función de
 
    ![](assets/three.png)
 
-1. En Posibles clientes conocidos, arrastre **Listas estáticas **al lienzo.
+1. En Posibles clientes conocidos, arrastre **Listas estáticas** al lienzo.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Segmente los visitantes web conocidos cuando visiten su sitio web en función de
    >
    >La lista desplegable y/o es sólo eso. Haga clic en él para seleccionar **y**, **o**, o **y/o**.
 
-1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir Campaña **para guardar y visitar la página Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o **Guardar y definir Campaña** para guardarlo y acceder a la página Campañas.
 
    ![](assets/eight-1.png)
-
