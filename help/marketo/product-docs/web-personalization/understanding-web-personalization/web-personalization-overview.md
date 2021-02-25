@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Información general sobre la personalización de la Web - Documentos de marketing - Documentación del producto
 title: Información general sobre la personalización de Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Introducción {#introduction}
 
-Para los nuevos clientes de Marketing to, la personalización en tiempo real se divide en cuatro aplicaciones, a las que se accede mediante estos dos mosaicos: Personalización y contenido web`<sup>AI</sup>`.
+Para los nuevos clientes de Marketing to, la personalización en tiempo real se divide en cuatro aplicaciones, a las que se accede mediante estos dos mosaicos: Personalización web y ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->El contenido y la personalización web`<sup>AI</sup>` están disponibles en todos los idiomas compatibles con el marketing (inglés, francés, alemán, japonés, portugués, español).
+>Personalización web y ContentAI están disponibles en todos los idiomas admitidos por el mercado (inglés, francés, alemán, japonés, portugués, español).
 
 Los clientes existentes siguen accediendo a las aplicaciones a través del mosaico de Personalización en tiempo real hasta la renovación, momento en el que utilizarán el inicio de sesión anterior.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Al hacer clic en el mosaico Personalización web, aparece la página de Panel. Haga clic en el mosaico Contenido`<sup>AI</sup>` y vaya directamente a la página Contenido de Recommendations.
+Al hacer clic en el mosaico Personalización web, aparece la página de Panel. Haga clic en el mosaico ContentAI y vaya directamente a la página de Recommendations de contenido.
 
 Las cuatro aplicaciones son:
 
 * Personalización web
 * Mercadotecnia Web basada en cuentas
 * Resegmentación de sitios web
-* Contenido`<sup>AI</sup>`
+* ContentAI
 
-El mosaico de Personalización web** **es el punto de acceso para** **crear campañas web personalizadas.** **Mercadotecnia Web basada en cuentas y redireccionamiento Web. Puede agregar contenido en la página Análisis de contenido.
+El mosaico **Personalización web** es el punto de acceso para crear campañas web personalizadas. Marketing web basado en cuentas y redireccionamiento web. Puede agregar contenido en la página Análisis de contenido.
 
 **La** mercadotecnia web basada en cuentas funciona con la personalización web y las funciones de cuentas con nombre. La página Cuentas con Nombre proporciona información gráfica sobre los clientes existentes, las participaciones totales y las tendencias organizativas, así como una lista de las cuentas. También puede crear nuevas cuentas con nombre allí.
 
 **La** resegmentación de sitios web le da el poder de remercadotecnia a audiencias segmentadas. Puede definir segmentos, pero no puede utilizar Cuentas con nombre en el filtro.
 
-**`<sup>AI</sup>`** Contiene el lugar donde se ofrecen recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
+**** ContentAIes el lugar donde se ofrecen recomendaciones de contenido. Puede añadir contenido fácilmente a la página de Recommendations de contenido.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ La ficha Organizaciones muestra todos los detalles (nombre, ubicación, activida
 >* Más activo: las organizaciones más activas de la tabla, según el número de vistas de página
 >* Última: las organizaciones más recientes de la tabla (predeterminado)
 >* Para obtener perspectivas valiosas, filtre según los elementos más activos
-
->
-
 
 
 **Organizaciones: panel derecho**
@@ -172,4 +169,3 @@ La página en tiempo real se divide en 6 tablas informativas de detalles de visi
   </tr> 
  </tbody> 
 </table>
-
