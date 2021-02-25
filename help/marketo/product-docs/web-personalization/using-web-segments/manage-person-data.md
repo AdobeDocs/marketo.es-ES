@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Administrar datos personales - Documentos de marketing - Documentación del producto
 title: Administrar datos de persona
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 Aproveche los datos de persona para la personalización web seleccionando los campos de persona que se utilizarán en la segmentación.
 
-1. Vaya a **Configuración de la cuenta**.\
+1. Vaya a **Configuración de la cuenta**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Vaya a **Base de datos**.\
+1. Vaya a **Base de datos**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Añadir un campo Persona nueva {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Un nuevo campo se agrega en un estado pendiente y puede tardar hasta 24 horas en activarse.
-
+   >Un nuevo campo se agrega en un estado pendiente y puede tardar hasta 24 horas en activarse.
 
 ## Eliminación de un campo de persona {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
    >
    >**Administración de los campos Datos de persona**
    >
-   >    
-   >    
-   >    * Sólo se pueden incluir los campos de datos personales
-   >    * Puede agregar hasta 30 campos de datos de persona
-   >    * Añadir campos nuevos puede tardar hasta 24 horas en activarse
-   >    * La longitud máxima de los tipos de cadena es de 255 caracteres
-   >    * Los campos ocultos se eliminarán automáticamente
+   >* Sólo se pueden incluir los campos de datos personales
+   >* Puede agregar hasta 30 campos de datos de persona
+   >* Añadir campos nuevos puede tardar hasta 24 horas en activarse
+   >* La longitud máxima de los tipos de cadena es de 255 caracteres
+   >* Los campos ocultos se eliminarán automáticamente
 
 
 <table> 
@@ -108,9 +104,4 @@ Los siguientes campos de posibles clientes se proporcionan de forma predetermina
 
 >[!MORELIKETHIS]
 >
->* [Crear un segmento con datos de persona conocidos](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Crear un segmento con datos de persona conocidos](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
