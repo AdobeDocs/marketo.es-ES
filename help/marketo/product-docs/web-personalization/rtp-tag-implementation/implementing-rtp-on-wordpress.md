@@ -3,9 +3,9 @@ unique-page-id: 4720149
 description: Implementación de RTP en Wordpress - Documentos de marketing - Documentación del producto
 title: Implementación de RTP en Wordpress
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,10 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. En la lista de archivos de plantilla a la derecha del editor de texto, busque **header.php** y ábralo.
-1. Vaya a **Configuración de la cuenta.**
 
-   Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 5.
+1. Vaya a **Configuración de la cuenta**.
+
+   a. Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
@@ -34,11 +35,12 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Copie la etiqueta RTP JavaScript y péguela en las plantillas de sitio web.
 
-   Asegúrese de que es la primera secuencia de comandos en el encabezado de la página, entre las etiquetas **`<head> </head>`**.
+   a. Asegúrese de que es la primera secuencia de comandos en el encabezado de la página, entre las etiquetas **`<head> </head>`**.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
 1. Haga clic en **Actualizar archivo** para el archivo header.php.
-1. Compruebe que aparece en todas las páginas de aterrizaje y subdominios `pages including`.
 
-   Para ello, haga clic con el botón derecho en la página `website’s`. Vaya a **Origen de página de Vista.** Busque  **** RTP para localizar la etiqueta.
+1. Compruebe que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
+
+   a. Para ello, haga clic con el botón derecho en la página del sitio web. Vaya a **Origen de página de Vista.** Busque  **** RTP para localizar la etiqueta.
