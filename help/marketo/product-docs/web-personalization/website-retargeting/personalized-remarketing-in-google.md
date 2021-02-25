@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Remercadotecnia personalizada en Google - Documentos de marketing - Documentación del producto
 title: Remercadotecnia personalizada en Google
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
 >[!PREREQUISITES]
 >
->* Complete la configuración de [redireccionamiento con datos de personalización web](retargeting-with-web-personalization-data.md)
->* Revisar [documentación de Remarketing con Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)
-
->
-
+>* Complete la configuración de [redireccionamiento con datos de personalización web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Revise la [documentación de la ayuda](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) de remercadotecnia con Google Analytics.
 
 
 ## Creación de una Audiencia de remercadotecnia en Google {#creating-a-remarketing-audience-in-google}
@@ -34,8 +31,7 @@ La remercadotecnia personalizada le permite volver a interactuar con los usuario
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Configuración** del vínculo: Vínculo a su cuenta de Google Adwords
-1. **Definir Audiencia**: Haga clic en  **Crear nuevo**.
+1. **Configuración** del vínculo: Vínculo a su cuenta de Google Adwords. **Definir Audiencia**: Haga clic en  **Crear nuevo**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ En Google Universal Analytics:
 >* Categoría de evento: RTP-Segmento, RTP-Campaña Remarketing
 >* Etiqueta de evento: Nombre del segmento, Nombre de la Campaña, Nombre de la Audiencia segmentada
 
->
-
-
 
 **Ejemplo de Audiencia de remercadotecnia a partir de datos de Audiencia segmentados de RTP**
 
@@ -77,7 +70,7 @@ En Google Universal Analytics:
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Haga clic en **Secuencias**.
-1. Seleccione** RTP-Industry**.
+1. Seleccione **RTP-Industry**.
 1. Escriba **Nombre de la industria** (p. ej. Servicios financieros, educación...).
 1. Haga clic en **Aplicar**.
 1. Escriba un **Nombre de Audiencia**. Haga clic en **Guardar**.
@@ -105,6 +98,6 @@ En Google Universal Analytics:
 
 >[!MORELIKETHIS]
 >
->* [Redireccionamiento con datos de personalización web](retargeting-with-web-personalization-data.md)
->* [Remercadotecnia personalizada en Facebook](personalized-remarketing-in-facebook.md)
+>* [Redireccionamiento con datos de personalización web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Remercadotecnia personalizada en Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
