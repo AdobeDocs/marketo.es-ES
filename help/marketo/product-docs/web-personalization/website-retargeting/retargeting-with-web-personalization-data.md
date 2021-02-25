@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Redireccionamiento con datos de personalización web - Documentos de marketing - Documentación del producto
 title: Redireccionamiento con datos de personalización web
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >El redireccionamiento de sitios web ahora se encuentra en el mosaico Personalización web. Si solo compró Retargeting, verá este mosaico y accederá al producto de Personalización web con **sólo** características de redireccionamiento habilitadas. Esto le permite acceder a la configuración de la cuenta, la página de redireccionamiento, los segmentos y las páginas de seguimiento adicionales.
 
 Destinatarios de remercadotecnia clientes potenciales que han visitado su sitio en el pasado con anuncios en pantalla basados en quiénes son y qué han hecho. La reorientación personalizada destinatario audiencias específicas con anuncios relevantes basados en el sector, cuentas con nombre y datos de personas conocidas.
 
 Personalización web anexa datos a las siguientes plataformas de remercadotecnia:
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 Personalización web envía los siguientes datos a las plataformas de remercadotecnia para crear audiencias y ejecutar campañas de publicidad de remercadotecnia:
 
@@ -69,12 +68,11 @@ Personalización web envía los siguientes datos a las plataformas de remercadot
    >
    >Debe implementar la etiqueta de redireccionamiento de Google en su sitio web.
    >
-   >
    >Si ya ha configurado la integración con Google Analytics y Personalización web, no es necesario que edite esta parte, ya que es la misma configuración en Configuración de cuenta.
 
    ![](assets/two.png)
 
-1. Active la configuración para Facebook. Haga clic y expanda el acordeón de Facebook, haga clic en **On **para enviar el Evento y los datos respectivos a través del Audience Manager de Facebook. Haga clic en **Guardar**.
+1. Active la configuración para Facebook. Haga clic y expanda el acordeón de Facebook, haga clic en **Activado** para enviar el Evento y los datos respectivos a través del Audience Manager de Facebook. Haga clic en **Guardar**.
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Una Audiencia segmentada le permite seleccionar un segmento existente como audie
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Haga clic en **GUARDAR**.
+1. Haga clic en **Guardar**.
 
    Ha completado la configuración de redireccionamiento en la personalización web, inicie sesión en las plataformas de redireccionamiento y cree sus audiencias basadas en estos datos y configure sus campañas de redireccionamiento de publicidad.
-
->[!MORELIKETHIS]
->
->* [Remercadotecnia personalizada en Google](personalized-remarketing-in-google.md)
->* [Remercadotecnia personalizada en Facebook](personalized-remarketing-in-facebook.md)
-
