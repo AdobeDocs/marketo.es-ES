@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Segmentos web - Documentos de marketing - Documentación del producto
 title: Segmentos Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ En Personalización web, un visitante puede coincidir con más de un segmento. P
  </tbody> 
 </table>
 
-Consulte [cómo crear y vista de etiquetas de segmentos](label-your-segment.md)
+Consulte [cómo crear y vista de etiquetas de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segmentos: panel derecho**
 
@@ -108,23 +108,31 @@ Defina los parámetros generales del segmento:
 >1. Usar todos los Filtros (1 y 2 y 3...)
 >1. Usar cualquier Filtros (1, 2 o 3...)
 >1. Filtros avanzados (uso y/o expresiones)
->
->    Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
->
->    * 1 y 2 y 3
->    * 1 o 2 o 3
->
->    La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
->
->    * 1 y (2 o 3)
->    * (1 y 2) o 3
->
->    Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
->
->    * (1 y 2) o (3 y 4)
->    * 1 y (2 o (3 y 4)
->
->    Compruebe la lógica después de insertar, eliminar o reordenar.
+
+   >
+   >    
+   Los filtros avanzados le permiten controlar la condición del segmento. Introduzca los números de filtro separados por &quot;y&quot; y &quot;o&quot;.
+   >
+   >    
+   * 1 y 2 y 3
+   >    * 1 o 2 o 3
+
+   >
+   >    La combinación de &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar la intención lógica. p. ej. &quot;1 ó 2 y 3&quot; deberá escribirse como uno de los siguientes:
+   >
+   >    
+   * 1 y (2 o 3)
+   >    * (1 y 2) o 3
+
+   >
+   >    Se aceptan paréntesis anidados para una lógica más complicada, por ejemplo:
+   >
+   >    
+   * (1 y 2) o (3 y 4)
+   >    * 1 y (2 o (3 y 4)
+
+   >
+   >    Compruebe la lógica después de insertar, eliminar o reordenar.
 
 
 Arrastre y suelte los atributos del segmento desde la columna del lado derecho en el editor de segmentos del lado izquierdo:
@@ -171,18 +179,18 @@ En la sección **Segmentación de Perfil**, marque la casilla junto a **Grupo de
    * Empresa: incluye organizaciones con más de 1.000 empleados e ingresos buenos por más de 250 millones de dólares
    * SMB: solo incluye pequeñas y medianas empresas en este segmento
 
-**Cuentas con nombre**
+**-Cuentas con nombre-**
 
 **Organizaciones**
 
 * **Es de estas compañías (nombres específicos)**
 
    * Seleccione compañía a destinatario en la lista desplegable &#39;Seleccionar compañía para agregar&#39;.
-   * Puede escribir el nombre exacto de la organización que desee destinatario. *Siempre *se recomienda utilizar Listas de cuenta con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver más abajo).*
+   * Puede escribir el nombre exacto de la organización que desee destinatario. *Se recomienda _siempre_ utilizar Listas de cuenta con nombre en lugar de escribir los nombres manualmente para obtener mejores coincidencias (ver más abajo).
 
 **Lista de cuenta con nombre**
 
-Seleccione una [Lista de cuenta con nombre](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar las cuentas con objetivo clave
+Seleccione una [Lista de cuenta con nombre](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar las cuentas con objetivo clave.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -200,7 +208,7 @@ Excluye a los Proveedores de servicio de Internet (ISP) del segmento.
 
 La personalización de Web se integra con la base de datos de Marketing, lo que le permite segmentar y personalizar campañas según los datos y atributos de las personas conocidas.
 
-Seleccione Base de datos y seleccione un campo de datos de persona en la lista desplegable. Seleccione el   **+** para agregar campos desde la lista desplegable.
+Seleccione Base de datos y seleccione un campo de datos de persona en la lista desplegable. Seleccione **+** para agregar campos en la lista desplegable.
 
 ![](assets/seven.png)
 
@@ -263,7 +271,7 @@ Arrastre y suelte Mobile OS en el editor de segmentos
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Tipo de visitante**
+* **Tipo de visitante**<br />
 
    **Sistema operativo**  móvil: en el cuadro desplegable, seleccione uno o varios sistemas operativos móviles. El sistema operativo móvil seleccionado aparece a continuación.
 
@@ -320,8 +328,8 @@ No se puede eliminar un segmento asociado a una campaña. Primero debe eliminar 
 ¡bueno! Ahora que comprende la sección Segmentos, vamos a conocer las campañas.
 
 >[!MORELIKETHIS]
-* [Crear un segmento Web básico](create-a-basic-web-segment.md)
-* [Crear una nueva Campaña web de cuadro de diálogo](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Crear una nueva Campaña web en la zona](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Crear una nueva Campaña Web de utilidades](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Crear un segmento Web básico](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Crear una nueva Campaña web de cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Crear una nueva Campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Crear una nueva Campaña Web de utilidades](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
