@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Activación o desactivación de la etiqueta RTP de JavaScript - Documentos de marketing - Documentación del producto
 title: Activación o desactivación de la etiqueta RTP de JavaScript
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ La etiqueta RTP JavaScript controla si la Personalización web rastrea o no la a
 1. Para habilitar la etiqueta RTP, en Configuración de dominio y dominio, en Etiqueta, seleccione la opción **Activado**.
 
    Fácil.
-
