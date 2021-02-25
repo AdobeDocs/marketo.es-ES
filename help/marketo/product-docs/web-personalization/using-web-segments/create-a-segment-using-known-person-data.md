@@ -3,7 +3,7 @@ unique-page-id: 7504343
 description: Crear un segmento usando datos de persona conocidos - Documentos de marketing - Documentación del producto
 title: Crear un segmento con datos de persona conocidos
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
 >[!PREREQUISITES]
 >
->[Administrar datos de persona](manage-person-data.md)
+>[Administrar datos de persona](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Vaya a **Segmentos**.
 
@@ -31,7 +31,7 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. En Segmentación de Perfil, arrastre **Base de datos **a los lienzos.
+1. En Segmentación de Perfil, arrastre **Base de datos** al lienzo.
 
    ![](assets/four-1.png)
 
@@ -53,13 +53,12 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
    ![](assets/eight.png)
 
-1. Seleccione el operador Y / O. Seleccione el campo que desee agregar. Seleccione un campo de datos de persona. Introduzca el valor de los datos personales.
+1. Seleccione el operador Y/O. Seleccione el campo que desee agregar. Seleccione un campo de datos de persona. Introduzca el valor de los datos personales.
 
    ![](assets/nine.png)
 
-1. Haga clic en **Guardar** para guardar el segmento o en **Guardar y definir Campaña **para guardar y visitar la página Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o **Guardar y definir Campaña** para guardarlo y acceder a la página Campañas.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    Ahora ha configurado un segmento que segmenta los datos de Persona conocida.
-
