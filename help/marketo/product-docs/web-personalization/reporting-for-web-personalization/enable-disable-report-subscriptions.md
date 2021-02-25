@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: Habilitar/deshabilitar Suscripciones de informes - Documentos de marketing - Documentación del producto
 title: Habilitar/deshabilitar Suscripciones de informes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ La personalización web tiene varios informes útiles que se envían por correo 
    ![](assets/email-settings.png)
 
    ¡Eso es todo! Para cancelar la suscripción al informe, simplemente desmarque y haga clic en **Guardar**.
-
