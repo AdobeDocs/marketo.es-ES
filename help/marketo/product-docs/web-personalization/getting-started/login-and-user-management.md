@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Inicio de sesión y administración de usuarios - Documentos de marketing - Documentación del producto
 title: Inicio de sesión y administración de usuarios
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Introduzca un nombre de rol y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios de trabajo](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Introduzca un nombre de rol y seleccione Permisos. Haga clic en **Crear** (esta función debe [aplicarse a todos los espacios de trabajo](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Para otorgar a los usuarios permiso para acceder a todo lo que se encuentra en Segmentación y personalización, asegúrese de seleccionar *todo* las casillas de verificación.
+   >Para otorgar a los usuarios permiso para acceder a todo lo que se encuentra en Segmentación y personalización, asegúrese de seleccionar _todo_ las casillas de verificación.
 
 ## Permisos de usuario de contenido predictivo y personalización de Web {#web-personalization-and-predictive-content-user-permissions}
 
