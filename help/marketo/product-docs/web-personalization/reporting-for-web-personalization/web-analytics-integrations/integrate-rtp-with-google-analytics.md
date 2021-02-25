@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: 'Integración de RTP con Google Analytics: documentos de marketing: documentación del producto'
 title: Integrar RTP con Google Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Consulte cómo integrar la [Personalización web con Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Consulte cómo integrar la [Personalización web con Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Introducción {#introduction}
 
@@ -66,19 +66,23 @@ Mida sus campañas RTP y correlaciónelas con el promedio general del sitio. Con
 
 ## Configuración de RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Añada el correo electrónico [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) como un usuario de lectura y análisis en su cuenta de GA. Para obtener más información, consulte [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Añada el correo electrónico rtp.ga2@gmail.com como usuario de lectura y análisis a su cuenta de GA. Para obtener más información, consulte [aquí](https://support.google.com/analytics/answer/2884495?hl=en).
+
 1. En su cuenta RTP. Vaya a **Configuración de la cuenta**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. En **Configuración de cuenta**, **Dominio** y **Análisis**
-1. Haga clic en Google Analytics**.**
+1. En **Configuración de cuenta**, **Dominio** y **Análisis**.
+
+1. Haga clic en **Google Analytics**.
+
 1. Active las **variables personalizadas** y **Eventos** relevantes para anexar estos datos de RTP a Google Analytics.
+
 1. Introduzca el número **Ranura** para enviar datos de variables personalizadas (el valor predeterminado es 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Haga clic en **GUARDAR**.
+1. Haga clic en **Guardar**.
 
 >[!NOTE]
 >
