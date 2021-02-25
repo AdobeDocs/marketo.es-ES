@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Configuración de la personalización web para que no realice el seguimiento - Documentos de marketing - Documentación del producto
 title: Configuración de la personalización web para no rastrear
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ En Personalización web y contenido predictivo, un especialista en marketing pue
    >Si se establece la opción Activado, puede afectar al valor y la funcionalidad de Marketing en áreas específicas.
 
 1. Para desactivar el botón Honor DNT y omitir la configuración de No hacer seguimiento (DNT) del explorador, seleccione **Desactivado** en Honor DNT.
-
