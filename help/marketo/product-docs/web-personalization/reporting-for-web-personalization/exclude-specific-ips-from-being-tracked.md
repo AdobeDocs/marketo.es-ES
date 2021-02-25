@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: Excluir direcciones IP específicas del seguimiento - Documentos de marketing - Documentación del producto
 title: Excluir direcciones IP específicas del seguimiento
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Puede excluir direcciones IP individuales y todas o parte de un rango de direcci
    ![](assets/exclude-ips-after.png)
 
    ¿Viste lo fácil que fue eso? Ahora puede excluir todos los datos de las IP agregadas, ya sea individualmente o por intervalo.
-
