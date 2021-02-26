@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: Configurar el modo en que se muestra la Campaña Web - Documentos de marketing - Documentación del producto
 title: Configurar el modo en que se muestra la Campaña Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ La calidad de salida mostrará la campaña web al salir del explorador con el cu
 
 >[!TIP]
 >
->¿Quieres ver cómo se verán los efectos elegidos con antelación? Échenlos a través de una [Previsualización de Campaña Web](preview-and-test-a-web-campaign.md).
-
+>¿Quieres ver cómo se verán los efectos elegidos con antelación? Échenlos a través de una [Previsualización de Campaña Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
