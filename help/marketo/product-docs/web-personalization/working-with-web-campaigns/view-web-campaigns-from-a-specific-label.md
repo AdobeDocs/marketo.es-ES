@@ -3,7 +3,7 @@ unique-page-id: 4720075
 description: Vista de Campañas Web desde una etiqueta específica - Documentos de marketing - Documentación del producto
 title: Vista de Campañas Web desde una etiqueta específica
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Filtrar por etiquetas existentes {#filter-by-existing-labels}
 
-1. Vaya a **Web** **Campañas**.
+1. Vaya a **Campañas Web**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,11 +31,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Etiquetar sus Campañas Web](label-your-web-campaigns.md)
->* [Vista de segmentos desde una etiqueta específica](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Etiquetar los segmentos](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [Etiquetar sus Campañas Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Vista de segmentos desde una etiqueta específica](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Etiquetar los segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
