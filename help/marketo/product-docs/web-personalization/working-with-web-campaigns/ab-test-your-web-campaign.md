@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: Prueba A/B de la Campaña Web - Documentos de marketing - Documentación del producto
 title: Prueba A/B de la Campaña Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Para que A/B pruebe sus campañas personalizadas, puede seleccionar dos o más c
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Seleccione la primera campaña que desee para la prueba A/B. Haga clic en **Editar**.
 
@@ -39,30 +39,31 @@ Para que A/B pruebe sus campañas personalizadas, puede seleccionar dos o más c
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Escriba el **Nombre del grupo de prueba dividido** y haga clic en **Crear.****SelectAuto-Tune.**
+1. Escriba el **Nombre del grupo de prueba dividido**, haga clic en **Crear**. Seleccione **Ajustar automáticamente**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Guardar **o** Iniciar **la campaña.
+1. **** Guarde o  **** inicie la campaña.
 
    >[!TIP]
    >
    >La selección de **Ajustar automáticamente** permite que la plataforma de Personalización Web reconozca automáticamente la campaña de prueba dividida de mejor rendimiento y continúe con la campaña de conversión más alta mientras se pausan las demás.
 
 1. Repita el proceso anterior con la segunda campaña.
+
 1. Seleccione la segunda campaña que desee probar A/B. Haga clic en **Editar**.
 
-   ** ![](assets/image2016-11-4-13-3a51-3a39.png)
+   ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-   **
-
-1. En la página **Establecer Campaña**, seleccione **S****dividir prueba** y elija el **grupo** en la lista desplegable. Seleccione** Auto-Tune**.
+1. En la página **Establecer Campaña**, seleccione **Prueba de división** y elija el **Grupo** en la lista desplegable. Seleccione **Ajustar automáticamente**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Guardar **o **Iniciar **la campaña.
+1. **** Guarde o  **** inicie la campaña.
+
 1. Repita este proceso para que se realice la prueba con una tercera o cuarta campaña.
-1. En **Campañas** **Web** puede ver las campañas de prueba divididas indicadas por el icono A/B.
+
+1. En **Campañas Web** puede ver las campañas de prueba divididas indicadas por el icono A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -73,17 +74,10 @@ Para que A/B pruebe sus campañas personalizadas, puede seleccionar dos o más c
 >1. Pruebe diferentes fragmentos de contenido (Estudio de caso A vs. Estudio de caso B), cambie los mensajes y elementos creativos, colores, tamaños o llamadas a acción.
 >1. Optimice y disfrute de su contenido personalizado.
 
->
-
-
 
 >[!MORELIKETHIS]
 >
->* [Crear una Campaña de cuadro de diálogo](create-a-new-dialog-web-campaign.md)
->* [Crear una Campaña RTP en zona](create-a-new-in-zone-web-campaign.md)
->* [Crear una Campaña de utilidades RTP](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Crear una Campaña de cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Crear una Campaña RTP en zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crear una Campaña de utilidades RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
