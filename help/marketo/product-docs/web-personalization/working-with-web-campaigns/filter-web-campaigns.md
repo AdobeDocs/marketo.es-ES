@@ -3,7 +3,7 @@ unique-page-id: 10098884
 description: Filtrar Campañas web - Documentos de marketing - Documentación del producto
 title: Filtrar Campañas web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Después de haber creado cientos de campañas de personalización de la web, es de gran ayuda poder usar filtros para vista solo de los que te interesen.
 
-1. Vaya a **Campañas Web.**
+1. Vaya a **Campañas Web**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -23,7 +23,7 @@ Después de haber creado cientos de campañas de personalización de la web, es 
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Marque la casilla de verificación Estado y/o Tipo de campaña que desee filtrar para, por ejemplo, **Cuadro de diálogo** o **en pausa**. Haga clic en **Aplicar**.
+1. Marque la casilla de verificación Estado y/o Tipo de campaña que desee filtrar para, por ejemplo, **Pausado** o **Diálogo**. Haga clic en **Aplicar**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
@@ -36,4 +36,3 @@ Después de haber creado cientos de campañas de personalización de la web, es 
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
    ¡Un pedazo de torta!
-
