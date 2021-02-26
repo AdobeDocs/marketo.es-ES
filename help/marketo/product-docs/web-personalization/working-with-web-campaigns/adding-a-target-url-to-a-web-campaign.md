@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Añadir una URL de Destinatario a una Campaña Web - Documentos de marketing - Documentación del producto
 title: Añadir una dirección URL de Destinatario en una Campaña Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ Al hacer clic en el icono del signo más (![—](assets/image2015-2-18-8-3a40-3a
 
 >[!NOTE]
 >
->
 >* Las campañas web de cuadros de diálogo y utilidades pueden utilizar las opciones Cualquier página y Comodín (*).
 * En casos de uso avanzado, las campañas web en zona pueden utilizar comodines al final de la ruta de URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * La dirección URL distingue entre mayúsculas y minúsculas
@@ -72,7 +71,7 @@ Al hacer clic en el icono del signo más (![—](assets/image2015-2-18-8-3a40-3a
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Añada un nombre de Campaña***. Seleccione un **segmento de Destinatario**. Añada **URL de Destinatario**.
+1. Añada un **Nombre de Campaña**. Seleccione un **segmento de Destinatario**. Añada **URL de Destinatario**.
 
    >[!NOTE]
    La dirección URL de destinatario con zonas de entrada debe definir una dirección URL o direcciones URL específicas. En casos de uso avanzado, las campañas web en zona pueden utilizar comodines al final de la ruta de URL. Ejemplo: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
@@ -80,7 +79,7 @@ Al hacer clic en el icono del signo más (![—](assets/image2015-2-18-8-3a40-3a
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
-* [Crear una nueva Campaña web de cuadro de diálogo](create-a-new-dialog-web-campaign.md)
-* [Crear una nueva Campaña web en la zona](create-a-new-in-zone-web-campaign.md)
-* [Crear una nueva Campaña Web de utilidades](create-a-new-widget-web-campaign.md)
+* [Crear una Campaña de cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Crear una Campaña RTP en zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Crear una Campaña de utilidades RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
