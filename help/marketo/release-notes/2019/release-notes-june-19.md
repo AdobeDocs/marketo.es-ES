@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Notas de la versión - Junio de 2019 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - 19 de junio
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión del 19 de junio. Compruebe la disponibilidad de las funciones en la edición de marketing.
 
-***Versiones trimestrales***
+**_Versiones trimestrales_**
 
 Las siguientes funciones se lanzaron el 14 de junio de 2019.
 
 ## Servicios principales de marketing {#marketo-core-services}
 
 * **Suma** de comprobación del archivo de extracción masiva: Compruebe que se recuperó un archivo completo comparando el hash del archivo con la cadena de suma de comprobación de los trabajos de extracción completados.
-* **La migración automatizada de Email 1.0 a Email 2.0:** Email 2.0 es totalmente compatible con las plantillas y los correos electrónicos de Email 1.0. Disfrute de nuevas funciones, como la capacidad de agrupar elementos de contenido (imágenes, texto, etc.) en módulos, defina variables como Cadena, Color, Imagen, etc. dentro de las plantillas y aproveche las plantillas de inicio totalmente adaptables. También incluye un selector de plantillas de correo electrónico visual.
+* **Migración automatizada de Email 1.0 a Email 2.0**: Email 2.0 es totalmente compatible con los correos electrónicos y las plantillas de Email 1.0. Disfrute de nuevas funciones, como la capacidad de agrupar elementos de contenido (imágenes, texto, etc.) en módulos, defina variables como Cadena, Color, Imagen, etc. dentro de las plantillas y aproveche las plantillas de inicio totalmente adaptables. También incluye un selector de plantillas de correo electrónico visual.
 
 >[!CAUTION]
 >
@@ -30,11 +30,11 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
-* **Coincidencia`<sup>BETA</sup>`**  de cuentas de LinkedIn: Ahora hay disponible una nueva función ABM en versión beta, que le ofrece la posibilidad de enviar listas de cuentas conocidas y de espacio en blanco directamente desde Marketing a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketing para ABM.
+* **Coincidencia de cuentas de LinkedIn (BETA)** : Ahora hay disponible una nueva función ABM en versión beta, que le ofrece la posibilidad de enviar listas de cuentas conocidas y de espacio en blanco directamente desde Marketing a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketing para ABM.
 
 <br> 
 
-***Publicación durante todo el trimestre***
+**_Publicación durante todo el trimestre_**
 
 Se espera que las siguientes funciones se publiquen durante el segundo trimestre natural y a principios del tercer trimestre de 2019.
 
@@ -47,13 +47,13 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 
 * **Vínculos** de navegación completos: Hemos habilitado la navegación en todas las aplicaciones con permiso, como Hootsuite, Calendario, etc.
 * **Vistas** de correo electrónico, Página de aterrizaje, fragmento, formulario, imagen y Lista de archivos: Vista, búsqueda y realización de acciones masivas en cualquiera de los recursos de Design Studio.
-* **Página** de detalles de imagen, archivo y fragmento: Obtenga detalles rápidos sobre los recursos con metadatos como  *creados en y* por y acciones como  ** eliminar y  *aprobar*.
+* **Página** de detalles de imagen, archivo y fragmento: Obtenga detalles rápidos sobre los recursos con metadatos como  _creados en y_ por y acciones como  __ eliminar y  _aprobar_.
 * **Utilidad Publicaciones del blog de la comunidad**: Acceda a publicaciones recientes de la Comunidad dentro de Mi marketing.
 * **Caduca Pronto Widget**: Añada la utilidad &quot;Caduca pronto&quot; en el panel Mi marketing para ver qué campañas y páginas de aterrizaje están configuradas para caducar a continuación.
 * **Tarjetas** de Lista más inteligentes: Segmenta y destinatario correctamente con tarjetas de lista inteligentes adicionales, incluido el paso de flujo &quot;Crear Tarea&quot;, las reglas de lista inteligente de CRM y mucho más.
 * **Página** de detalles del competidor de correo electrónico/desafiante: Ver datos como criterios ganadores, creados en, etc. de sus pruebas de correo electrónico de campeón/aspirante.
 
-Conexión de ventas de marketing
+## Conexión de ventas de marketing {#marketo-sales-connect}
 
 * **Acciones masivas en la personalización** de Salesforce: Maximice la productividad enviando correos electrónicos y agregando contactos a campañas de forma masiva con la personalización de Salesforce.
 * **Seleccionar, arrastrar y soltar**: Organice fácilmente la instancia de Sales Connect con la capacidad de arrastrar y soltar plantillas en categorías intuitivas.
