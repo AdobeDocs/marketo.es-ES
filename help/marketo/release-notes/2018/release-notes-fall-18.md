@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Notas de la versión - Otoño '18 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Otoño de 2018
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -25,7 +25,7 @@ La personalización web ahora admite varios espacios de trabajo.
 
 ## Compromiso de ventas de marketing {#marketo-sales-engage}
 
-* **Compatibilidad** con rayo SFDC: Los usuarios que migran a Lightning o que lo utilicen actualmente pueden aprovechar MSE para lograr una participación más inteligente en todo el viaje del comprador.
+* **Compatibilidad** con rayo SFDC: Los usuarios que migran a Lightning o que lo utilicen actualmente pueden aprovechar MSE para lograr una participación más inteligente en el recorrido del comprador.
 
 * **Compatibilidad ampliada: Microsoft Office**
 
@@ -49,7 +49,7 @@ Para obtener más información y actualizaciones, consulte nuestras [notas de la
 
 * **Página principal** de Actividades de marketing: Acceda rápidamente a funciones comunes desde la página principal de Actividades de marketing.
 
-   * Realice acciones específicas (es decir, inicio de nuevos programas y campañas inteligentes) y vea información importante sobre los programas actuales, como programas y campañas programados para ejecutarse hoy, programas y recursos actualizados recientemente y el número total de campañas desencadenadoras activas.
+   * Realice acciones específicas (es decir, inicio de nuevos programas y campañas inteligentes) y vea información importante sobre los programas actuales, como programas y campañas programados para ejecutarse hoy, programas y recursos actualizados recientemente y el número total de campaña de déclencheur activos.
 
 * **Actualizaciones** de Design Studio: Hemos reinventado la experiencia de Design Studio para ayudarle a moverse más rápido y ser más productivo.
 * Página principal de Design Studio: Cree nuevos recursos, arrastre y suelte imágenes y archivos, y gestione todos los recursos existentes.
@@ -74,7 +74,7 @@ Para obtener más información y actualizaciones, consulte nuestras [notas de la
 
    * Ahora los clientes pueden iniciar sesión en la aplicación web Bizbible utilizando las credenciales y el proveedor de identidad de su compañía, que cumplen los requisitos de seguridad empresarial.
 
-**[Mejoras en las perspectivas de rendimiento del marketing](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Mejoras en las perspectivas de rendimiento del marketing](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Mejoras de uso**
 
@@ -88,7 +88,7 @@ Para obtener más información y actualizaciones, consulte nuestras [notas de la
 
 ## Redes de publicidad {#ad-networks}
 
-**[Actualizar token](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Actualizar token](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 Hemos implementado un token de actualización en nuestras soluciones de redireccionamiento y Formulario de generación de posibles clientes de LinkedIn que amplía el tiempo de acceso a un año antes de que se requiera la reautenticación.
 
