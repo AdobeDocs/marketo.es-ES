@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: Uso del Editor de texto enriquecido para personalización web - Documentos de marketing - Documentación del producto
 title: Uso del Editor de texto enriquecido para personalización web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Los iconos importantes del editor de texto enriquecido incluyen:
 
 >[!NOTE]
 >
->Los tokens Web utilizan [datos de personas](https://docs.marketo.com/display/DOCS/Manage+Person+Data) de la base de datos de Marketing que se administra en Personalización Web en Configuración de cuenta > Base de datos. Si el token web es un nuevo campo de base de datos que aún no se encuentra en Configuración de cuenta > Base de datos, se agregará automáticamente y puede tardar hasta 24 horas en activarse.
+>Los tokens Web utilizan [datos de personas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) de la base de datos de Marketing que se administra en Personalización Web en Configuración de cuenta > Base de datos. Si el token web es un nuevo campo de base de datos que aún no se encuentra en Configuración de cuenta > Base de datos, se agregará automáticamente y puede tardar hasta 24 horas en activarse.
 
 >[!MORELIKETHIS]
 >
->[Uso del Editor de texto enriquecido](https://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
-
+>[Uso del Editor de texto enriquecido](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
