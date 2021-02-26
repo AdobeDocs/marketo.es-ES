@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Incrustar un formulario en una Campaña Web - Documentos de marketing - Documentación del producto
 title: Incrustar un formulario en una Campaña Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Vea cómo incrustar un formulario de marketing en una campaña web (cuadro de di
 
 1. Haga clic con el botón derecho en un formulario aprobado. Seleccione **Código incrustado**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Copie el código.
 
@@ -31,9 +29,7 @@ Vea cómo incrustar un formulario de marketing en una campaña web (cuadro de di
 
 1. Haga clic en **Crear nueva campaña**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. En el Editor de texto enriquecido, haga clic en el icono HTML.
 
@@ -44,6 +40,7 @@ Vea cómo incrustar un formulario de marketing en una campaña web (cuadro de di
    ![](assets/six-1.png)
 
 1. El formulario no se mostrará en la vista del editor, pero puede previsualización para ver cómo se representará en una campaña.
+
 1. Haga clic en **Iniciar** para inicio de la campaña.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Para agregar una imagen de fondo al formulario, puede:
 * Cambiar los colores del cuadro de diálogo o del widget en Establecer Campaña
 * Añadir código CSS a la secuencia de comandos
 
-Para editar la CSS de un tema de formulario, consulte [este artículo](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Para editar la CSS de un tema de formulario, consulte [este artículo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Para cambiar los colores del cuadro de diálogo o del widget en Establecer Campaña:
 
@@ -86,11 +83,7 @@ Para agregar código CSS a la secuencia de comandos:
 
 >[!MORELIKETHIS]
 >
->* [Editar la CSS de un tema de formulario](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [Editar la CSS de un tema de formulario](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensaje de agradecimiento sin una Página de aterrizaje de seguimiento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
