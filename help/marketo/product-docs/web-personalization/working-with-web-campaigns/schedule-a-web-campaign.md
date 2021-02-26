@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Programar una Campaña Web - Documentos de marketing - Documentación del producto
 title: Programar una Campaña Web
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Puede programar la campaña web en función de la hora del visitante web o de un
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Abra el menú Estado de Campaña y seleccione **Programar**.
 
@@ -59,11 +59,10 @@ Puede programar la campaña web en función de la hora del visitante web o de un
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. El estado de la campaña en la página Campañas cambia a **Programado **y se muestra el icono de reloj/calendario. Haga clic en este icono para editar la programación de campañas.
+1. El estado de la campaña en la página Campañas cambia a **Programado** y se muestra el icono de reloj/calendario. Haga clic en este icono para editar la programación de campañas.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >El estado de campaña permanece como **Programado** incluso cuando la campaña se está ejecutando durante las horas programadas seleccionadas. Cuando ha pasado una fecha de finalización programada, el estado de la campaña cambia a **Pausado**.
-
