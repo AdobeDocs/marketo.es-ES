@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: Crear una nueva Campaña Web de utilidades - Documentos de marketing - Documentación del producto
 title: Crear una nueva Campaña Web de utilidades
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Crear una nueva Campaña Web de utilidades {#create-a-new-widget-web-campaign}
 
-Una campaña Web es una reacción personalizada asociada a un segmento específico y puede ser un [cuadro de diálogo](create-a-new-dialog-web-campaign.md) en su sitio Web, un [reemplazo de zona](create-a-new-in-zone-web-campaign.md), una función de utilidad o una alerta por correo electrónico. La campaña web Widget es un texto o una pancarta que aparece en la parte vertical de la página web con la capacidad de expandirse y contraerse, mientras se mantiene fija en la página web durante toda la visita.
+Una campaña Web es una reacción personalizada asociada a un segmento específico y puede ser un [cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) en su sitio Web, un [reemplazo de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una función de utilidad o una alerta por correo electrónico. La campaña web Widget es un texto o una pancarta que aparece en la parte vertical de la página web con la capacidad de expandirse y contraerse, mientras se mantiene fija en la página web durante toda la visita.
 
 ## Crear una Campaña Web de utilidades {#create-a-widget-web-campaign}
 
@@ -33,9 +33,9 @@ Una campaña Web es una reacción personalizada asociada a un segmento específi
 
    ![](assets/4.png)
 
-1. Haga clic en **Previsualización **para ver cómo reaccionará la campaña web en el sitio.
+1. Haga clic en **Previsualización** para ver cómo reaccionará la campaña Web en el sitio.
 
-![](assets/preview.png)
+   ![](assets/preview.png)
 
 <table> 
  <thead> 
@@ -51,7 +51,7 @@ Una campaña Web es una reacción personalizada asociada a un segmento específi
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mostrar en</strong></td> 
-   <td colspan="1">Permite <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
+   <td colspan="1">Permite <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalizar cuándo y cómo</a> se muestra la campaña Web.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Animar entrada/salida</strong></td> 
@@ -95,7 +95,7 @@ Una campaña Web es una reacción personalizada asociada a un segmento específi
 
 >[!NOTE]
 >
->**¿Desea probar A/B sus campañas web?** Se puede probar una o varias campañas web  [A/B para obtener resultados](ab-test-your-web-campaign.md) óptimos. Con la función de ajuste automático, la plataforma reconoce automáticamente las campañas de mejor rendimiento, continúa con las campañas de conversión más elevadas y pone en pausa las demás.
+>**¿Desea probar A/B sus campañas web?** Se puede probar una o varias campañas web  [A/B para obtener resultados](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) óptimos. Con la función de ajuste automático, la plataforma reconoce automáticamente las campañas de mejor rendimiento, continúa con las campañas de conversión más elevadas y pone en pausa las demás.
 
 ## Editar una Campaña Web {#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ En la página Campañas Web, haga clic en **Editar** en la Campaña.
 
 >[!NOTE]
 >
->Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
+>Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Clonar una Campaña Web {#clone-a-web-campaign}
 
-Consulte [Clonar una Campaña Web](clone-a-web-campaign.md).
+Consulte [Clonar una Campaña Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Previsualización de una Campaña Web {#preview-a-web-campaign}
 
@@ -119,7 +119,7 @@ En la página Campañas Web, haga clic en **Previsualización** en la campaña W
 
 ## Eliminar una Campaña Web {#delete-a-web-campaign}
 
-1. En la página Campañas web, haga clic en **Eliminar **en la campaña web que desee eliminar.
+1. En la página Campañas Web, haga clic en **Eliminar** en la campaña Web que desee eliminar.
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,6 +127,6 @@ En la página Campañas Web, haga clic en **Previsualización** en la campaña W
 
 >[!MORELIKETHIS]
 >
->* [Crear una nueva Campaña web en la zona](create-a-new-in-zone-web-campaign.md)
->* [Crear una nueva Campaña web de cuadro de diálogo](create-a-new-dialog-web-campaign.md)
+>* [Crear una nueva Campaña web en la zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crear una nueva Campaña web de cuadro de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
