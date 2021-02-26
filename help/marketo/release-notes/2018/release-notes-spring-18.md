@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Notas de la versión - Primavera '18 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Primavera de 2018
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Aumente el flujo y los ingresos al potenciar las ventas con inteligencia, conten
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Abrir Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Abrir Beta](https://help.marketo.com/)
 
 Opte por la versión beta abierta del Marketo Sky para obtener acceso a más de 100 nuevas capacidades de aumento de la productividad, entre las que se incluyen:
 
@@ -69,11 +69,11 @@ Comparta fácilmente sus gráficos rápidos con otros usuarios de perspectivas d
 
 La navegación optimizada y los flujos de trabajo mejorados le dan visibilidad a los criterios de éxito de los Programas y acceso a los detalles de los Programas.
 
-## Contenido<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Configuración de objetivo](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Establezca el objetivo del algoritmo de optimización de contenido<sup>AI</sup> para generar más vistas, clics o conversiones.
+Establezca el objetivo del algoritmo de optimización de ContentAI para generar más vistas, clics o conversiones.
 
 ## Integración y API {#integration-and-apis}
 
