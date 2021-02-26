@@ -3,9 +3,9 @@ unique-page-id: 10092925
 description: Previsualización y prueba de una Campaña Web - Documentos de marketing - Documentación del producto
 title: Previsualización y prueba de una Campaña Web
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Este artículo muestra diferentes formas de previsualización de una campaña we
 
 ## Previsualización de una Campaña Web en la página de creación {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vaya a **Web** **Campañas**.
+1. Vaya a **Campañas Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Haga clic en** Crear nueva Campaña web******* o en el icono para editar una campaña existente.
+1. Haga clic en **Crear nueva Campaña Web** o en el icono para editar una campaña existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -35,11 +35,12 @@ Este artículo muestra diferentes formas de previsualización de una campaña we
 
    >[!NOTE]
    >
-   >También tiene la opción de instalar un complemento de explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia de vista previa de la campaña. Consulte la sección siguiente.
+   >También tiene la opción de instalar un complemento de explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia de vista previa de la campaña. Consulte la sección siguiente.
 
 ## Previsualización de una Campaña Web en la página de creación mediante el complemento del explorador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. Siga los pasos 1 y 2 desde `section above`.
+1. Siga los pasos 1 y 2 de la sección anterior.
+
 1. Haga clic en el vínculo al complemento del navegador (en este caso, estamos utilizando Chrome).
 
    ![](assets/4-1.png)
@@ -81,7 +82,8 @@ Cree un segmento de simulación de pruebas y una campaña.
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Asigne un nombre al segmento.
-1. En Comportamiento, arrastre Incluir páginas al lienzo. Añada el valor *sandbox=1*. Haga clic en Guardar y definir Campaña.
+
+1. En Comportamiento, arrastre Incluir páginas al lienzo. Añada el valor *sandbox=1*. Haga clic en **Guardar y definir Campaña**.
 
    ![](assets/segment.png)
 
@@ -89,10 +91,12 @@ Cree un segmento de simulación de pruebas y una campaña.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Complete el elemento creativo de la campaña y haga clic en **Iniciar**.\
+1. Complete el elemento creativo de la campaña y haga clic en **Iniciar**.
+
    ![](assets/click-launch.jpg)
 
-1. Vaya a su sitio web, agregue el parámetro de URL &quot;?sandbox=1&quot; al final de la dirección URL. Ejemplo: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
+1. Vaya a su sitio web, agregue el parámetro de URL &quot;?sandbox=1&quot; al final de la dirección URL. Ejemplo: `www.marketo.com?sandbox=1`.
+
 1. Consulte las reacciones de la campaña en su sitio web.
 
 >[!NOTE]
@@ -102,4 +106,3 @@ Cree un segmento de simulación de pruebas y una campaña.
 >[!NOTE]
 >
 >No se puede obtener una vista previa de las campañas de redireccionamiento. La única manera de probarlos es mediante un segmento de simulación de pruebas (que destinatario por páginas específicas - *sandbox=redirect*)
-
