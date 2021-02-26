@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: Etiquetar sus Campañas Web - Documentos de marketing - Documentación del producto
 title: Etiquetar sus Campañas Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña deseada, utilice la función [filter](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Seleccione las campañas que desee etiquetar con una etiqueta.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 1. Escriba el nombre de etiqueta que desee y haga clic en Crear nuevo.
 
->[!TIP]
->
->Si la etiqueta ya existe, selecciónela y no cree una nueva.
+   >[!TIP]
+   >
+   >Si la etiqueta ya existe, selecciónela y no cree una nueva.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 ¡Genial! Ahora sabe cómo crear etiquetas y asignarlas a campañas.
 
@@ -51,9 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [](create-a-new-in-zone-web-campaign.md) [Etiquetar un segmento](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[Etiquetar un segmento](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
