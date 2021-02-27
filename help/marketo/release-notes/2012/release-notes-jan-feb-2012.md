@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Notas de la versión - Ene/Feb 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Ene/Feb 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de enero y febrero. Compruebe la disponibilidad de las funciones en la edición de marketing. Vuelva después de la versión para ver vínculos a la documentación detallada de las funciones.
 
->[!NOTE]
->
->**Buceo profundo**
->
->Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
-
 ## Contenido dinámico avanzado {#advanced-dynamic-content}
 
-*Disponible para las versiones Pro y Enterprise*
+_Disponible para las versiones Pro y Enterprise_
 
 Con el contenido dinámico avanzado, puede crear interesantes comunicaciones por correo electrónico y páginas de aterrizaje relevantes para su audiencia sin tener que crear varios recursos para el mismo mensaje. Las vistas previas actualizadas le permiten realizar vistas de cada versión única en una sola pantalla.
 
@@ -31,7 +25,7 @@ Con el contenido dinámico avanzado, puede crear interesantes comunicaciones por
 
 ## Segmentación {#segmentation}
 
-*Disponible para las versiones Pro y Enterprise*
+_Disponible para las versiones Pro y Enterprise_
 
 La segmentación es un grupo de segmentos, que son un grupo de individuos objetivo a los que se comercializa. Los segmentos están definidos por reglas que se rigen por criterios de filtro similares a listas inteligentes. Los segmentos se pueden basar en datos demográficos, como el puesto de trabajo o la industria, o en comportamientos como páginas web visitadas o vínculos en los que se hace clic.
 
@@ -39,7 +33,7 @@ La segmentación es un grupo de segmentos, que son un grupo de individuos objeti
 
 ## Fragmentos {#snippets}
 
-*Disponible para las versiones Pro y Enterprise*
+_Disponible para las versiones Pro y Enterprise_
 
 Almacene contenido enriquecido que se puede usar una y otra vez para crear correos electrónicos y páginas de aterrizaje estáticos o dinámicos.
 
@@ -47,7 +41,7 @@ Almacene contenido enriquecido que se puede usar una y otra vez para crear corre
 
 ## PURL {#purls}
 
-*Disponible para las versiones Pro y Enterprise*
+_Disponible para las versiones Pro y Enterprise_
 
 Los especialistas en mercadotecnia de direcciones URL personalizadas (PURL) ahora pueden crear direcciones URL específicas de los contactos para impulsar la personalización, la medición y el alza de las respuestas en programas de mercadotecnia con varios toques tanto para campañas de correo directo como de correo electrónico.
 
@@ -105,4 +99,3 @@ Comprender la contribución de marketing a los ingresos de oportunidades individ
 Obtenga una perspectiva sobre la velocidad de programa de los posibles clientes al comprender qué programas adquirieron los impulsores más rápidos
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
