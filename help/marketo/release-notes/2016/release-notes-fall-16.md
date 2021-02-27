@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: Notas de la versión - Otoño '16 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Otoño '16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión del 16 de otoño. Compruebe la disponibilidad de las funciones en la edición de marketing. Haga clic en los vínculos de título para vista de artículos detallados para cada función.
 
-## [Contenido predictivo en correo electrónico](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## Contenido predictivo en correo electrónico {#predictive-content-in-email}
 
 Nuestra aplicación de contenido predictivo cuenta con una nueva experiencia de usuario para rastrear, administrar y recomendar su contenido a través de nuestro aprendizaje automático y algoritmos predictivos en la Web y en los canales de correo electrónico.
 
@@ -29,13 +29,13 @@ Ahora puede agregar contenido predictivo a su correo electrónico. Cuando se abr
 
 ![](assets/predictive.png)
 
-## [Conversiones sin conexión de Facebook](../../product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)  {#facebook-offline-conversions}
+## [Conversiones sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Con la integración de conversiones sin conexión de Facebook, los datos de conversión en Marketing (para posibles clientes de publicidad principal) se envían automáticamente a Facebook para que el equipo de publicidad pueda optimizar mejor su inversión en publicidad. En este informe del administrador de publicidad de Facebook, se resaltan las conversiones sin conexión.
 
 ![](assets/facebook.png)
 
-## [ID universal](../../product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [ID universal](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
 Un ID universal permite acceder a varias suscripciones de marketing con un único inicio de sesión y cambiar rápidamente de una suscripción a otra. Puede usar un solo perfil de comunidad para todas sus suscripciones.
 
@@ -45,7 +45,7 @@ Un ID universal permite acceder a varias suscripciones de marketing con un únic
 >
 >Comuníquese con la asistencia técnica de marketing para habilitar esta función.
 
-## [Mejoras de mercadotecnia basadas en cuentas de marketing](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## Mejoras de mercadotecnia basadas en cuentas de marketing {#marketo-account-based-marketing-enhancements}
 
 Ahora puede asignar equipos de cuenta a cuentas con nombre en Marketing basado en cuentas (ABM), por ejemplo, propietario de la cuenta, representante de desarrollo de ventas, representante de desarrollo de negocios y gestor de éxito de clientes. También puede crear listas de cuenta específicas del propietario de la cuenta y enviar informes ABM semanales personalizados al equipo de la cuenta.
 
@@ -55,11 +55,11 @@ Ahora puede asignar equipos de cuenta a cuentas con nombre en Marketing basado e
 
 Esta versión también le permite administrar atributos de cuenta con nombre y puntuaciones de cuentas en ABM mediante la API de REST de Marketing to. Para obtener más información sobre las operaciones de API, visite el [sitio web de desarrolladores de Marketing to](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
-## [Mejoras en la pista de auditoría](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [Mejoras en la pista de auditoría](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 La pista de auditoría proporciona un historial completo de los cambios realizados en la suscripción de marketing. Hemos añadido funciones de seguimiento adicionales para programas, así como detalles de cambios importantes para campañas inteligentes, listas inteligentes y cambios realizados a usuarios y funciones.
 
-## [Nuevos permisos](../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [Nuevos permisos](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
 **Hacer operativo el correo electrónico**
 
@@ -67,9 +67,9 @@ Atrás quedan los días en los que tenía que preocuparse de que los usuarios en
 
 **Editar restricciones de Campaña**
 
-¿Por qué establecer [restricciones de campaña](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) si no puede aplicarlas? Al definir la configuración de límite de Campaña para restringir el número de personas de la base de datos que pueden ser objetivo con una sola campaña, ahora puede restringir qué usuarios pueden anular esta configuración al programar una campaña.
+¿Por qué establecer [restricciones de campaña](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) si no puede aplicarlas? Al definir la configuración de límite de Campaña para restringir el número de personas de la base de datos que pueden ser objetivo con una sola campaña, ahora puede restringir qué usuarios pueden anular esta configuración al programar una campaña.
 
-## [Sonido para notificaciones push móviles](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## [Sonido para notificaciones push móviles](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
 Proporcione una mayor riqueza a la notificación push de iOS al habilitar el sonido. Esta nueva función le permite déclencheur de un sonido cuando se muestra la notificación push en el dispositivo móvil.
 
@@ -78,13 +78,10 @@ Proporcione una mayor riqueza a la notificación push de iOS al habilitar el son
 >* Los propietarios de dispositivos pueden optar por evitar que se reproduzcan sonidos en la configuración del dispositivo, y los desarrolladores de aplicaciones pueden proporcionar a los propietarios de dispositivos opciones dentro de la aplicación para evitar que se reproduzcan sonidos.
 >* Los sonidos se reproducen automáticamente cuando se muestra una notificación push en un dispositivo Android.
 
->
-
-
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Perspectiva de ventas compatible con el cifrado de Salesforce](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Perspectiva de ventas compatible con el cifrado de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
 Market Sales Insight es ahora compatible con el cifrado Escudo de Salesforce. Todos los clientes de Sales Insight deben actualizar a este último paquete administrado (versión 1.4359.2), que está [disponible en Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
@@ -99,4 +96,3 @@ Administre variables y módulos para correos electrónicos en formato v2.0 media
 ## [Cambios en la sincronización de Marketing to Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 La integración de Salesforce de Marketing está evolucionando para mejorar la forma en que los campos de Marketo se sincronizan con Salesforce. Ahora, en lugar de tener que sincronizar un grupo grande de campos que puede que necesite o no, puede elegir y elegir los campos que desea incluir. Consulte nuestra documentación aquí para obtener más información: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
-
