@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: Notas de la versión - Abril de 2012 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: abril de 2012'
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Notas de la versión: Abril de 2012 {#release-notes-april}
 
 ## Filtros y Déclencheur de segmentación {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**Buceo profundo**
->
->Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 
 ¿destinatario el mismo grupo de posibles clientes de manera consistente? Si es así, utilice la segmentación en sus listas inteligentes para segmentar posibles clientes. Con la segmentación, toda la base de datos de posibles clientes siempre se segmenta y se puede reutilizar en los programas para lograr coherencia. Los resultados de la segmentación se obtienen rápidamente porque no requieren que la lista inteligente se ejecute en el momento de la solicitud.
 
@@ -63,4 +57,3 @@ Si no sincroniza su suscripción con Salesforce, observará que se eliminan toda
 Permite a los usuarios definir un orden para sus reglas de transición.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
