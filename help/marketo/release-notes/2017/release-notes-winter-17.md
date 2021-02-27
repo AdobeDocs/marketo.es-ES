@@ -3,15 +3,15 @@ unique-page-id: 12255606
 description: Notas de la versión - Winter '17 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 
-# Notas de la versión: Invierno &#39;17 {#release-notes-winter}
+# Notas de la versión: Invierno &#39;16 {#release-notes-winter}
 
 Las siguientes funciones se incluyen en la versión 17 de invierno. Compruebe la disponibilidad de las funciones en la edición de marketing.
 
@@ -37,7 +37,7 @@ Exporte todos los detalles y análisis de la Campaña web en formato CSV. A cont
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Localización](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## Localización {#localization}
 
 Las aplicaciones de Personalización web, Contenido predictivo y Perspectivas de correo electrónico ya están disponibles en japonés, alemán y español. Puede [seleccionar su idioma y configuración regional](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para vista de su contenido en estos idiomas.
 
@@ -71,7 +71,7 @@ Filtrar el análisis de contenido predictivo para fuentes específicas — Corre
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Editor de contenido predictivo](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Editor de contenido predictivo**
 
 Existe una experiencia de edición y un diseño mejorados que divide la preparación del contenido por fuente: Correo electrónico, Medios enriquecidos o Barra de recomendaciones.
 
