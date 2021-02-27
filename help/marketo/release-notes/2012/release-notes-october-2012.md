@@ -3,7 +3,7 @@ unique-page-id: 2951109
 description: Notas de la versión - Octubre de 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Octubre de 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Cree suscripciones de informes y envíe informes del Explorador de ingresos de f
 >[!NOTE]
 >
 >Solo está disponible para los usuarios que tengan el Explorador de ingresos mediante la compra de Revenue Cycle Analytics con Enterprise o Select Edition.
-
