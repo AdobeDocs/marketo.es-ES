@@ -3,21 +3,15 @@ unique-page-id: 2951114
 description: Notas de la versión - Junio de 2012 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: junio de 2012'
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Notas de la versión: Junio de 2012 {#release-notes-june}
-
->[!NOTE]
->
->**Buceo profundo**
->
->Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Mejoras en la administración de posibles clientes de marketing {#marketo-lead-management-enhancements}
 
