@@ -3,9 +3,9 @@ unique-page-id: 2951095
 description: Notas de la versión - Junio de 2013 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: junio de 2013'
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notas de la versión: Junio de 2013 {#release-notes-june}
 
-Las siguientes funciones se incluyen en la versión de junio. Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
-
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
+Las siguientes funciones se incluyen en la versión de junio.
 
 ## Idiomas de usuario adicionales {#additional-user-languages}
 
@@ -42,4 +40,3 @@ Esta función, que es una idea destacada para el análisis del ciclo de ingresos
 De forma predeterminada, hay dos modelos disponibles para Select SMB Edition y quince modelos para Enterprise Edition. También puede comprar modelos adicionales.
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-
