@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: Notas de la versión - Mejoras de ABM del 17 de abril - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Mejoras de ABM del 17 de abril
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Ahora puede agregar campos personalizados a las cuentas, asignarlos a su CRM y u
 Ahora puede filtrar fácilmente sus cuentas con nombre en función de una Lista de cuenta.
 
 ![](assets/named-account-filters.png)
-
