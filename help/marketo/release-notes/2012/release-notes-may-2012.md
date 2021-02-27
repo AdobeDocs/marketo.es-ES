@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Notas de la versión - Mayo de 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Mayo de 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
 # Notas de la versión: Mayo de 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Buceo profundo**
->
->Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
 
 ## Rediseño del informe Rendimiento del correo electrónico {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Simplifique el proceso de registro de evento con nuestra nueva aplicación para 
 
 Requiere iOS 5.1 o posterior; Solo para iPad.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figura 3. Página de inicio de ingreso de evento
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figura 3. Página de inicio de ingreso de evento
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Figura 15. Consulte actividad web anónima
 ## Suscripción de posible cliente y contacto mejorada {#enhanced-lead-and-contact-subscribe}
 
 Siga un posible cliente o póngase en contacto en cualquier momento con el nuevo botón Suscribirse en la página de detalles del registro.
-
