@@ -3,9 +3,9 @@ unique-page-id: 2951101
 description: Notas de la versión - Marzo de 2013 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Marzo de 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Notas de la versión: Marzo de 2013 {#release-notes-march}
 
-Las siguientes funciones se incluyen en la versión de marzo. Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
-
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para ver artículos detallados de la base de conocimiento para cada función.
+Las siguientes funciones se incluyen en la versión de marzo.
 
 ## Archivos de calendario de marketing {#marketo-calendar-files}
 
-Cree un archivo de calendario como **Mi token** para utilizarlo en los correos electrónicos de confirmación y recordatorio de evento. Este archivo de calendario integrado (p. ej. .ics) representará todos los tokens, incluidos Mis tokens y el token `{{member.webinar URL}}`.
+Cree un archivo de calendario como **Mi token** para utilizarlo en los correos electrónicos de confirmación y recordatorio de evento. Este archivo de calendario integrado (por ejemplo, archivo .ics) representará todos los tokens, incluidos Mis tokens y el token `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
