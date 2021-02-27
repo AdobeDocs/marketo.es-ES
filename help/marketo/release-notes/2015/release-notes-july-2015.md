@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: Notas de la versión - Julio de 2015 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: julio de 2015'
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
 Se ha actualizado el editor de texto con un aspecto moderno, que incluye formato de texto optimizado, edición de imágenes, inserción de vínculos y edición de HTML. El editor HTML ahora cuenta con una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se lanzará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**. Si nota problemas con la nueva versión del editor de texto, ¡queremos saberlo! Envíe una breve descripción a [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se lanzará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ Obtenga más información [más](https://developers.marketo.com/documentation/co
 
 ## Acceder a la capacidad de entrega de correo electrónico {#access-email-deliverability}
 
-**Acceder a la herramienta de entrega de correo electrónico: **Este nuevo permiso permite a los administradores otorgar a los usuarios acceso a la herramienta Entregabilidad de correo electrónico.
+**Acceder a la herramienta** de entrega de correo electrónico: Este nuevo permiso permite a los administradores otorgar acceso a los usuarios a la herramienta Entregabilidad por correo electrónico.
