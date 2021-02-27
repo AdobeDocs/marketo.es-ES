@@ -3,9 +3,9 @@ unique-page-id: 2950212
 description: Notas de la versión - Agosto de 2014 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: agosto de 2014'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Las siguientes funciones se incluyen en la versión de agosto de 2014. Compruebe
 
 ## Licencias del calendario de mercadotecnia {#marketing-calendar-licenses}
 
-A partir del 5 de septiembre de 2014, solo 5 usuarios pueden tener acceso gratuito al calendario de marketing. Asegúrese de [Publicar/Revocar una licencia del calendario de mercadotecnia](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) a los usuarios de su elección antes de hacerlo para obtener acceso sin interrupciones.
+A partir del 5 de septiembre de 2014, solo 5 usuarios pueden tener acceso gratuito al calendario de marketing. Asegúrese de [Publicar/Revocar una licencia del calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) a los usuarios de su elección antes de hacerlo para obtener acceso sin interrupciones.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -30,12 +30,12 @@ Se agregaron los siguientes permisos de usuario nuevos:
 | Explorador de ingresos de Access | Si compró RCA, ahora tendrá control sobre quién puede acceder a él. |
 | Importar Lista | Restringir a los usuarios de la importación de listas en la base de datos de posibles clientes. |
 | Importación de listas | Restringir a los usuarios de la importación de listas mediante un programa en actividades de marketing. |
-| Activar Campaña de activador | Controlar quién puede y quién no puede activar campañas desencadenadoras. |
+| Activar Campaña Déclencheur | Controlar quién puede y quién no puede activar las campañas de déclencheur. |
 | Programar Campaña por lotes | Controlar quién puede y quién no puede programar ejecuciones de campaña por lotes. |
 
 ## Exportar usuarios y roles desde el administrador {#export-users-and-roles-from-admin}
 
-Ahora puede [Exportar una Lista de usuarios y funciones](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketing. También puede incluir una marca de hora &quot;Último inicio de sesión&quot; en la exportación.
+Ahora puede [Exportar una Lista de usuarios y funciones](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketing. También puede incluir una marca de hora &quot;Último inicio de sesión&quot; en la exportación.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Los usuarios administradores ahora pueden bloquear usuarios debido a varios inte
 Ahora puede excluir direcciones IP específicas de todos los seguimientos y sistemas de informes de la Personalización en tiempo real.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
