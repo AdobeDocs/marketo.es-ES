@@ -3,9 +3,9 @@ unique-page-id: 2951111
 description: Notas de la versión - Septiembre de 2012 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: septiembre de 2012'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Ahora se admite Microsoft Dynamics 2011 in situ con una implementación con cone
 
 ## Webhooks (Treasure Chest) {#webhooks-treasure-chest}
 
-Weblink es una llamada de retorno HTTP definida por el usuario. Es una buena manera de insertar datos desde Marketing a cualquier otro servicio. Esta función está disponible actualmente en el Tesoro de Chest y solo se admite en campañas desencadenadoras en este momento.
+Weblink es una llamada de retorno HTTP definida por el usuario. Es una buena manera de insertar datos desde Marketing a cualquier otro servicio. Esta función está disponible actualmente en Treasure Chest y solo se admite en campañas de déclencheur en este momento.
 
 Algunos ejemplos de cómo puede utilizar Webhooks son: publicar información de nombre de usuario y contraseña en otro sistema para crear una cuenta de prueba; enviar un mensaje de texto SMS cuando se obtiene un nuevo lead.
 
@@ -60,4 +60,3 @@ Hemos agregado nuevos criterios de filtrado a la llamada de la API getMultipleLe
 * Intervalos de fechas
 * Nombres de Listas estáticas
 * Matrices de claves de posibles clientes
-
