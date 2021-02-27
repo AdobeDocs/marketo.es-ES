@@ -3,9 +3,9 @@ unique-page-id: 2951103
 description: Notas de la versión - Febrero de 2013 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: febrero de 2013'
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Las fichas de Facebook publicadas desde Marketing detectarán dispositivos móvi
 
 ## Muy pronto: Compatibilidad con varios modelos {#coming-soon-support-for-multiple-models}
 
-Estamos sentando las bases para apoyar varios modelos de ciclos de ingresos, la idea votada #1 para RCA en la Comunidad, en una futura versión. En esta versión, observará algunos cambios, como [filtros de Lista inteligente y Añadir opciones en pasos de flujo](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para admitir la selección de un modelo y una etapa. También se están moviendo los campos Fase de ingresos de posibles clientes y Modelo de ciclo de ingresos de posibles clientes de la ficha de cuadrícula Posible cliente de Lista inteligente.
+Estamos sentando las bases para apoyar varios modelos de ciclos de ingresos, la idea votada #1 para RCA en la Comunidad, en una futura versión. En esta versión, verá algunos cambios, como [filtros de Lista inteligente y Añadir opciones en pasos de flujo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para admitir la selección de un modelo y una etapa. También se están moviendo los campos Fase de ingresos de posibles clientes y Modelo de ciclo de ingresos de posibles clientes de la ficha de cuadrícula Posible cliente de Lista inteligente.
