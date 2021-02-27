@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: Notas de la versión - Primavera '16 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Primavera de 2016
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Las siguientes funciones se incluyen en la versión de primavera del 2016. Haga clic en los vínculos de título para vista de artículos detallados para cada función.
 
-## [Perspectivas de correo electrónico](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 Email Insights es una nueva experiencia histórica de análisis de datos acumulados de correo electrónico: se ha rediseñado de extremo a extremo para obtener un rendimiento rápido como parte del proyecto Orion. Cuenta con un diseño de interfaz de usuario completamente nuevo y optimizado para adaptarse a las necesidades y el flujo de trabajo de los especialistas en mercadotecnia de correo electrónico.
 
@@ -31,7 +31,7 @@ Cree correos electrónicos bonitos con nuestras nuevas plantillas de inicio. Ade
 
 >[!NOTE]
 >
->El editor de correo electrónico 2.0 (con el selector de plantillas) se implementará gradualmente a partir del 3 de junio. Completaremos el lanzamiento para el 30 de junio. A diferencia de las perspectivas de correo electrónico, no se le notificará cuando tenga acceso. Para ver si lo hace, siga los pasos de [este artículo](https://docs.marketo.com/pages/viewpage.action?pageId=11373011).
+>El editor de correo electrónico 2.0 (con el selector de plantillas) se implementará gradualmente a partir del 3 de junio. Completaremos el lanzamiento para el 30 de junio. A diferencia de las perspectivas de correo electrónico, no se le notificará cuando tenga acceso. Para ver si lo hace, siga los pasos de [este artículo](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Cree impresionantes mensajes en la aplicación directamente en Marketing Cloud. 
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Actividades personalizadas](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-Los administradores de marketing ahora pueden definir y administrar sus tipos de actividad personalizados mediante el modelador de definición de Actividad personalizada de marketing. Al igual que el modelador de objetos personalizado de marketing (y junto con él), los administradores ahora pueden ampliar el modelo de datos para adaptarlo a sus necesidades comerciales exactas. Los detalles sobre cómo utilizar esta funcionalidad están disponibles en el [sitio de documentación de Marketing](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
-
 ## [página de aterrizaje, plantilla de Página de aterrizaje y API de formulario](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Las API de Marketing to REST ahora admiten el control de las páginas de aterrizaje de marketing, las plantillas de página de aterrizaje y los formularios. Ahora los usuarios pueden crear, actualizar contenido, aprobar y eliminar estos recursos directamente mediante la API de REST de Marketing to.
 
 ## [INCLUSIÓN EN LA LISTA DE PERMITIDOS IP para el acceso a API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-De forma similar a la función de inclusión en la lista de permitidos IP para los inicios de sesión de usuario de Marketing to, los administradores de Marketing Cloud ahora pueden configurar una lista de permitidos de direcciones IP que puedan acceder a las API de REST y SOAP de Marketo, bloqueando así el acceso desde direcciones IP no autorizadas. Esto proporciona un nivel de seguridad adicional a la instancia de MarketingTo y garantiza que el acceso a la API solo se pueda producir desde la red de la organización. Los detalles sobre cómo configurar esta configuración están disponibles en el [sitio de documentación de Marketing](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
+De forma similar a la función de inclusión en la lista de permitidos IP para los inicios de sesión de usuario de Marketing to, los administradores de Marketing Cloud ahora pueden configurar una lista de permitidos de direcciones IP que puedan acceder a las API de REST y SOAP de Marketo, bloqueando así el acceso desde direcciones IP no autorizadas. Esto proporciona un nivel de seguridad adicional a la instancia de MarketingTo y garantiza que el acceso a la API solo se pueda producir desde la red de la organización. Los detalles sobre cómo configurar esta configuración están disponibles en el [sitio de documentación de Marketing](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Nuevo conector de sincronización de Microsoft Dynamics de alta velocidad](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Hoy en día, los usuarios son invitados a la suscripción de marketing por un pe
 Ahora, puede vista el número de registros y campos de todos los objetos personalizados publicados.
 
 ![](assets/custom-objects-grid.png)
+
+## Actividades personalizadas {#custom-activities}
+
+Los administradores de marketing ahora pueden definir y administrar sus tipos de actividad personalizados mediante el modelador de definición de Actividad personalizada de marketing. Al igual que el modelador de objetos personalizado de marketing (y junto con él), los administradores ahora pueden ampliar el modelo de datos para adaptarlo a sus necesidades comerciales exactas. Los detalles sobre cómo utilizar esta funcionalidad están disponibles en el [sitio de documentación de Marketing](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
