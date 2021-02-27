@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: Notas de la versión - Marzo de 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Marzo de 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Notas de la versión: Marzo de 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Buceo profundo**
->
->Para otras versiones, consulte la sección [Notas de la versión](https://docs.marketo.com/display/docs/release+notes) profunda.
->
->## Resolver mis tokens {#resolve-my-tokens}>
+## Resolver mis tokens {#resolve-my-tokens}
 
 Mis tokens (tokens de Programa) se resolverán al obtener una vista previa de un correo electrónico, al enviar un correo electrónico de prueba y al enviar un correo electrónico local mediante una única acción de flujo. Ya no tendrá que crear una campaña inteligente dentro del programa para probar sus Mis tokens.
 
