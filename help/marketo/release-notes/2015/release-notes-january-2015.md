@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Notas de la versión - Enero de 2015 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: enero de 2015'
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Las siguientes funciones se incluyen en la versión de enero de 2015. Verifique 
 
 ## Actualizaciones de automatización de mercadotecnia {#marketing-automation-updates}
 
-**Nuevas fotos de Rick DeCosta!**
-
-Rick es cliente de Marketing de SmartBear y tiene una [increíble colección de fotos](https://www.flickr.com/photos/rickdecosta). ¡Échenlos!
-
-## Páginas de aterrizaje fáciles de usar para móviles {#mobile-friendly-landing-pages}
+**Páginas de aterrizaje fáciles de usar para dispositivos móviles**
 
 Ahora puede [crear vistas móviles para páginas de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) desde el editor de páginas de aterrizaje. Distribuya su mensaje de forma eficaz, independientemente del dispositivo, y aumente la participación adaptando su contenido para facilitar el consumo sobre la marcha. Esta función se despliega gradualmente durante la semana siguiente a la versión.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-Vídeo de tutoriales de Página de aterrizaje-](https://youtu.be/aPQHlG2X6c0)
 
-**Nuevas llamadas de API de ReST**
+**Nuevas llamadas a API de Rest**
 
 Tres nuevas llamadas para la API de Lead &amp; Actividad ReST:
 
@@ -57,9 +53,9 @@ Las mejoras en el módulo Cuentas con nombre mejorarán las tasas de coincidenci
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Opciones de etiqueta RTP actualizadas
+**Opciones de etiqueta RTP actualizadas**
 
-[Las opciones de ](https://docs.marketo.com/display/docs/rtp+tag+implementation) etiquetas RTP en Configuración de cuenta se han actualizado para incluir:
+Las opciones de etiqueta RTP en Configuración de cuenta se han actualizado para incluir:
 
 1. CDN y asincrónico (etiqueta recomendada)
 1. CDN y sincrónico (alta velocidad)
