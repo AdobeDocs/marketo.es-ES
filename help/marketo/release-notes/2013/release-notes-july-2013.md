@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: Notas de la versión - Julio de 2013 - Documentos de marketing - Documentación del producto
 title: 'Notas de la versión: julio de 2013'
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Notas de la versión: Julio de 2013 {#release-notes-july}
 
-Las siguientes funciones se incluyen en la versión de julio, que está programada para un lanzamiento del viernes 26 de julio.  Consulte su [edición de marketing](https://docs.marketo.com/display/docs/assets/pricing.php) para conocer la disponibilidad de las funciones.
-
-Después de la versión, asegúrese de consultar la ficha [Nueva versión](release-notes-december-2013.md) de la Comunidad para obtener artículos de ayuda detallados para cada función.
+Las siguientes funciones se incluyen en la versión de julio, que está programada para un lanzamiento del viernes 26 de julio.
 
 ## Utilidad de contenido agotada en el Panel {#exhausted-content-widget-on-the-dashboard}
 
@@ -44,4 +42,3 @@ Vista y ordena la cuadrícula de miembros según la fecha en que se agregó el l
 ## Cambios en la revisión de ortografía en el Editor WYSIWYG {#changes-to-spell-check-in-wysiwyg-editor}
 
 El servicio utilizado por el editor WYSIWYG para la revisión ortográfica se suspendió. Eliminamos el botón Revisión de ortografía del editor hasta que encontramos un reemplazo.
-
