@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Notas de la versión - Enero de 2013 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Enero de 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Los nombres para mostrar campos pueden mostrar texto en distintos idiomas (por e
 El paso Cambiar el flujo de datos de Programa permite cambiar manualmente el estado de éxito y la fecha de éxito de un miembro de programa mediante una campaña. Puede utilizar este paso de flujo para corregir un error o para cambiar manualmente un miembro que puede no haber participado en el programa según lo previsto.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
