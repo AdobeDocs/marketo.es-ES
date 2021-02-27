@@ -3,9 +3,9 @@ unique-page-id: 2951107
 description: Notas de la versión - Diciembre de 2012 - Documentos de marketing - Documentación del producto
 title: Notas de la versión - Diciembre de 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ La versión de diciembre incluye la muy esperada función **Forward to Friend**,
 
 ## Reenviar a amigo {#forward-to-friend}
 
-Habilite el uso compartido de contenido con otros usuarios incluyendo un vínculo **de reenvío a amigo** en sus correos electrónicos. La adición de nuevos filtros y activadores le ayudará a identificar a sus influyentes, identificando a los usuarios que reenviaron un correo electrónico, así como a los que recibieron los correos electrónicos reenviados.
+Habilite el uso compartido de contenido con otros usuarios incluyendo un vínculo **de reenvío a amigo** en sus correos electrónicos. La adición de nuevos filtros y déclencheur le ayudará a identificar a sus influyentes, identificando a los usuarios que reenviaron un correo electrónico, así como a los que recibieron los correos electrónicos reenviados.
 
 Para incluir una invitación **de reenvío a amigo** en el correo electrónico, ábrala en el editor e inserte el token `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Utilice los activadores y filtros correspondientes para identificar a los usuarios que utilizaron el vínculo **Reenviar a amigo** y a los que recibieron el correo electrónico.
+Use los déclencheur y filtros correspondientes para identificar a los usuarios que utilizaron el vínculo **Reenviar a amigo** y a los que recibieron el correo electrónico.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -70,7 +70,6 @@ Añada los campos de oportunidad personalizados para enriquecer los informes de 
 
 ¿Alguna vez se ha preguntado qué campañas utilizan una acción de flujo específica, como Cambiar puntuación o Solicitud de Campaña? ¿O dónde se está utilizando un determinado filtro? El nuevo Inspector de Campañas (disponible en el tesoro de tesorería) le permite identificar estas campañas, así como campañas activas y campañas con errores.
 
-Vaya a **Administración** > **Treasure Chest** para habilitar el** Inspector de Campañas**.
+Vaya a **Administración** > **Treasure Chest** para habilitar el **Inspector de Campañas**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
