@@ -8,7 +8,7 @@ index: y
 translation-type: tm+mt
 source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -95,7 +95,7 @@ ht-degree: 0%
    + [Editar una entrada en la Vista Calandario del programa](edit-an-entry-in-program-schedule-view.md)
    + [Navegación por la Vista de Calandario del programa](navigating-program-schedule-view.md)
 + Campañas inteligentes {#smart-campaigns}
-   + [Activar/desactivar una Campaña inteligente de activador](activate-deactivate-a-trigger-smart-campaign.md)
+   + [Activar/desactivar una Campaña inteligente Déclencheur](activate-deactivate-a-trigger-smart-campaign.md)
    + [Añadir un paso de flujo en una Campaña inteligente](add-a-flow-step-to-a-smart-campaign.md)
    + [Aplicar límites de comunicación a una Campaña inteligente](apply-communication-limits-to-a-smart-campaign.md)
    + [Cancelar una ejecución de Campaña por lotes programada](cancel-a-scheduled-batch-campaign-run.md)
@@ -103,18 +103,18 @@ ht-degree: 0%
    + [Clonar una Campaña inteligente](clone-a-smart-campaign.md)
    + [Crear una Campaña inteligente](create-a-smart-campaign.md)
    + [Definir una Lista inteligente para una Campaña por lotes](define-a-smart-list-for-a-batch-campaign.md)
-   + [Definir una Lista inteligente para una Campaña de activador](define-a-smart-list-for-a-trigger-campaign.md)
+   + [Definir una Lista inteligente para una Campaña de Déclencheur](define-a-smart-list-for-a-trigger-campaign.md)
    + [Eliminar una Campaña inteligente](delete-a-smart-campaign.md)
    + [Editar reglas de cualificación en una Campaña inteligente](edit-qualification-rules-in-a-smart-campaign.md)
    + [Exportar resultados de Campaña inteligente a Excel](export-smart-campaign-results-to-excel.md)
    + [Mover una Campaña inteligente](move-a-smart-campaign.md)
    + [Anular restricciones de persona en una Campaña inteligente](override-person-restrictions-in-a-smart-campaign.md)
-   + [Anulación de prioridad para Campañas de activador](priority-override-for-trigger-campaigns.md)
+   + [Anulación de prioridad para Campañas de Déclencheur](priority-override-for-trigger-campaigns.md)
    + [Cambiar el nombre de una Campaña inteligente](rename-a-smart-campaign.md)
    + [Ejecutar una Campaña inteligente por lotes ahora](run-a-batch-smart-campaign-now.md)
    + [Programar una Campaña inteligente por lotes para que se ejecute posteriormente](schedule-a-batch-smart-campaign-to-run-later.md)
    + [Programar una Campaña por lotes recurrente](schedule-a-recurring-batch-campaign.md)
-   + [Explicación de las Campañas inteligentes por lotes y activadoras](understanding-batch-and-trigger-smart-campaigns.md)
+   + [Explicación de las Campañas inteligentes por lotes y Déclencheur](understanding-batch-and-trigger-smart-campaigns.md)
 + Listas inteligentes y Listas estáticas {#smart-lists-and-static-lists}
    + [Guardar acciones de flujo](save-flow-actions.md)
    + [Guardar reglas de Lista inteligentes](save-smart-list-rules.md)
