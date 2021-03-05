@@ -1,64 +1,62 @@
 ---
 unique-page-id: 2360407
-description: Genere un informe de Análisis por correo electrónico que Listas de posibles clientes - Documentos de marketing - Documentación del producto
-title: Generar un informe de Análisis de correo electrónico que Lista los posibles clientes
+description: 'Creación de un informe de análisis de correo electrónico que enumere posibles clientes: Marketo Docs: Documentación del producto'
+title: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
 
-# Genere un informe de Análisis de correo electrónico que Lista los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
+# Generar un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-Siga estos pasos para crear un informe de Análisis por correo electrónico que muestre todos los posibles clientes que se enviaron por correo electrónico en particular. Este informe también incluirá las estadísticas de clic y apertura. 1. Inicie el Explorador de ingresos.
+Siga estos pasos para crear un informe de análisis de correo electrónico que le muestre todos los posibles clientes a los que se ha enviado un correo electrónico específico. Este informe también incluirá las estadísticas de clics y aperturas.
 
-![](assets/image2014-9-17-19-3a12-3a54.png)
+1. Inicie **Ingresos Explorer**.
 
-1. Haga clic en **Nuevo informe**.
+   ![](assets/report-that-lists-leads-1.png)
 
-   ![](assets/image2014-9-17-19-3a13-3a1.png)
+1. Haga clic en **Crear nuevo** y luego en **Informe**.
 
-1. Seleccione el área de Análisis de correo electrónico y haga clic en **Aceptar**.
+   ![](assets/report-that-lists-leads-2.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a0.png)
+1. Seleccione Análisis de correo electrónico y haga clic en **OK**.
 
-1. Busque el punto amarillo Nombre del correo electrónico, haga clic con el botón derecho y seleccione **Filtro**.
+   ![](assets/report-that-lists-leads-3.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a6.png)
+1. Busque el punto amarillo Nombre del correo electrónico, haga clic con el botón derecho en él y seleccione **Filtro**.
 
-1. Haga clic con el doble en el correo electrónico de su elección en la lista y haga clic en **Aceptar**.
+   ![](assets/report-that-lists-leads-4.png)
 
-   ![](assets/image2014-9-17-19-3a14-3a11.png)
+1. Haga doble clic en el correo electrónico de su elección en la lista y haga clic en **OK**.
 
-1. Arrastre el punto amarillo Nombre del correo electrónico a Columnas.
+   ![](assets/report-that-lists-leads-5.png)
 
-   ![](assets/image2014-9-17-19-3a15-3a0.png)
+1. Arrastre el punto amarillo **Email Name** a **Columns**.
+
+   ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
-   >Hay muchos atributos de posibles clientes y compañías que puede agregar como columnas, ¡desprotéjelas!
+   >Hay muchos atributos de cliente o empresa que puede agregar como columnas, ¡desprotéjelas!
 
-1. Busque el punto amarillo Nombre completo y arrástrelo a Filas.
+1. Busque el punto amarillo **Full Name** y arrástrelo a **Rows**.
 
-   ![](assets/image2014-9-17-19-3a15-3a32.png)
+   ![](assets/report-that-lists-leads-7.png)
 
-1. Ahora agregue las medidas que le interesen haciendo clic en ellas con el doble.
+1. Ahora agregue las **Medidas** que le interesen haciendo doble clic en ellas.
 
-   ![](assets/image2014-9-17-19-3a15-3a47.png)
+   ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
->Según la cantidad de datos que tenga este informe, puede que tarde un tiempo en actualizarse.
+>En función de la cantidad de datos que tenga, este informe podría tardar un rato en actualizarse.
 
-Ahora que ya ha terminado, el informe debe tener este aspecto:
-
-![](assets/image2014-9-17-19-3a16-3a39.png)
-
-¡Misión completada!
+¡Misión completa!
