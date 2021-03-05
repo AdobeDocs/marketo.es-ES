@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1146999
-description: Tokens para momentos interesantes - Documentos de marketing - Documentación del producto
+description: 'Tokens para momentos interesantes: Marketo Docs: documentación del producto'
 title: Tokens para momentos interesantes
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,15 @@ ht-degree: 0%
 
 Consulte [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
 
-## Tokens de déclencheur {#trigger-tokens}
+## Activador de tokens {#trigger-tokens}
 
-En función del déclencheur utilizado en una campaña inteligente, hay disponibles tokens de Déclencheur adicionales.
+Según el activador utilizado en una campaña inteligente, hay disponibles tokens de activador adicionales.
 
-* `{{trigger.Trigger Name}}` que es siempre el déclencheur mismo. Por ejemplo: Vínculo de clics en correo electrónico.
-* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Vínculo de clics en la página web es la propia dirección URL, sujeto de déclencheur de Salesforce, etc.
-* Existen déclencheur adicionales en función de las restricciones, que se enumeran a continuación:
+* `{{trigger.Trigger Name}}` que siempre es el activador real. Por ejemplo: Clics en vínculo en el correo electrónico.
+* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Clicks Link on Webpage es la propia URL, el asunto de los activadores de Salesforce, etc.
+* Hay activadores adicionales disponibles en función de las restricciones que se enumeran a continuación.
+
+**Activadores de correo electrónico**
 
 <table> 
  <colgroup> 
@@ -41,6 +43,9 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -56,6 +61,10 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Vínculo de clics en correo electrónico</td> 
@@ -69,9 +78,13 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Devoluciones de correo electrónico con fuerza</td> 
+   <td>Devoluciones de correo electrónico duras</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
@@ -82,9 +95,13 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Devoluciones de correo electrónico en pantalla</td> 
+   <td>Entregas de correo electrónico en blanco</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
@@ -95,9 +112,13 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Se entrega el correo electrónico</td> 
+   <td>El Correo Electrónico Se Entrega</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
@@ -108,6 +129,10 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Abre el correo electrónico</td> 
@@ -121,84 +146,607 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Correo electrónico de reenvío a amigo recibido</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Enviar correo electrónico de reenvío a amigo</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td>
   </tr> 
   <tr> 
-   <td>Cancelación de suscripciones desde correo electrónico</td> 
+   <td>Cancelación de suscripción desde correo electrónico</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Activadores de Salesforce**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>Vínculo de clics en correo electrónico de ventas</td> 
+   <td>Vínculo de clics en el correo electrónico de ventas</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Correo electrónico de ventas enviado</td> 
+   <td>Se envía el correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Abre el correo electrónico de ventas</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Devoluciones de correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Correo electrónico de ventas recibido</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Se ha actualizado la oportunidad</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Cambios del propietario</td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Correo electrónico de ventas facturado</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Persona convertida</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>La persona se elimina del SFDC</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Persona sincronizada con SFDC</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Eliminada de oportunidad</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Eliminado de la campaña SFDC</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>La actividad está registrada</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Actividad actualizada</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Se ha agregado a Oportunidad</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Se agregó a la campaña SFDC</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>El estado se cambia en la campaña SFDC</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Activadores de conexión de ventas**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Vínculo de clics en el correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Se envía el correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Abre el correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Devoluciones de correo electrónico de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Correo electrónico de ventas recibido</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Se añade a la campaña de ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>Cambios del propietario</td> 
+   <td>Se Elimina De La Campaña De Ventas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Llamada de ventas recibida</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Varios**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Rellena el formulario</td> 
@@ -211,29 +759,54 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><img src="assets/check.svg" alt="(visto)"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Página Web Visitas*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(visto)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Página web de visitas</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Vínculo de clics en la página web</td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Si no tiene una marca de verificación ![(tic)](assets/check.svg), devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene una comprobación ![(visto)](assets/check.svg) entonces devolverá una cadena vacía (nada) en el momento interesante.
 
-*El Déclencheur **Visitas a la página Web** tiene algunos tokens adicionales:
+*El activador **Visitas a la página web** tiene algunos tokens adicionales:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -241,6 +814,6 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
 
 >[!TIP]
 >
->Pruebe siempre los momentos interesantes para asegurarse de que representan el modo que usted desea.
+>Pruebe siempre sus momentos interesantes para asegurarse de que representan el modo que desea.
 >
->Además, asegúrese de que es interesante para el vendedor, no sólo para usted. ![(wink)](assets/wink.svg)>
+>Además, asegúrese de que es interesante para el vendedor, no solo para usted. ![(guiño)](assets/wink.svg)>
