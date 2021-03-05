@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14746177
-description: Resuscripción de una cancelación de suscripción - Documentos de marketing - Documentación del producto
-title: Volver a suscribir una cancelación de suscripción
+description: 'Suscripción de una cancelación de suscripción: Documentos de Marketo: Documentación del producto'
+title: Volver a suscribirse
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Volver a suscribir una cancelación de suscripción {#resubscribing-an-unsubscribe}
 
-A veces la gente quiere volver a recibir correos electrónicos. A continuación se muestra cómo volver a hacer que los suscriptores puedan enviarse por correo.
+A veces, las personas desean volver a recibir correos electrónicos. A continuación se explica cómo volver a enviar las cancelaciones de suscripción.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!CAUTION]
 >
->Antes de volver a suscribirse a alguien, debe poder demostrar que la autorización para volver a suscribirlos está documentada y se ajusta a todas las leyes aplicables.
+>Antes de volver a suscribirse a alguien, debe poder demostrar que la autorización para volver a suscribirlos está documentada y que cumple con todas las leyes aplicables.
 
 >[!NOTE]
 >
->Si tiene activada la sincronización de cancelación de suscripción, debe eliminar la cancelación de suscripción de ToutApp y desmarcar el exclusión en Salesforce para que el registro de persona no se sincronice de nuevo.
+>Si tiene activada la sincronización de cancelación de suscripción, debe eliminar la cancelación de suscripción de ToutApp y desmarcar la opción de exclusión en Salesforce para que el registro de persona no se sincronice de nuevo.
 
-1. Vaya a la [aplicación Web](https://toutapp.com/login) y haga clic en **Personas**.
+1. Vaya a la [aplicación web](https://toutapp.com/login) y haga clic en **People**.
 
 1. Seleccione la persona para abrir la vista de detalles de la persona.
 
@@ -37,6 +37,10 @@ A veces la gente quiere volver a recibir correos electrónicos. A continuación 
 
    ![](assets/three.png)
 
-1. Seleccione el motivo por el que la persona ha vuelto a seleccionar para recibir correos electrónicos y haga clic en **Eliminar cancelación de suscripción**.
+1. Seleccione el motivo por el que la persona está siendo elegida de nuevo para recibir correos electrónicos y luego haga clic en **Eliminar cancelación de suscripción**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Si tiene activada la sincronización de cancelación de suscripción, debe desmarcar también la casilla de exclusión en el registro de Salesforce o la sincronización nocturna volverá a cancelar la suscripción de la persona en Conexión de ventas, ya que detectará que la persona está excluida en Salesforce. Si alguno de los registros se excluye o cancela la suscripción, la sincronización marcará el registro vinculado como tal.
