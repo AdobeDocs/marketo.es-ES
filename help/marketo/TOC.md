@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [Glosario de tipo de campo personalizado](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Eliminar un campo personalizado en Marketo](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Editar alias de campo para importación de lista](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [Exportar todos los metadatos de objeto](product-docs/administration/field-management/export-all-object-metadata.md)
          + [Exportar una lista de todos los nombres de campos de API de Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportación utilizada por los datos de un campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Ocultar y mostrar un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [Exportar una lista de usuarios y funciones](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Administración de usuarios de Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Administración de roles y permisos de usuario](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [Roles y permisos de exportación](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descripciones de los permisos de funciones](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Activar sin borrador para fragmentos](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Espacios de trabajo y particiones de persona {#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Tokens {#tokens}
             + [Administración de tokens](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Explicación de mis tokens en un programa](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [Tokens de campo personalizados de miembro del programa](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + Calendario de marketing {#marketing-calendar}
          + Explicación del calendario {#understanding-the-calendar}
             + [Emitir o revocar una licencia del Calendario de mercadotecnia](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [Información general de conexión de ventas](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Introducción a Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Vídeos y tutoriales de inicio rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Cambiar la contraseña de conexión de ventas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Configuración de correo electrónico {#email-settings}
             + [Añadir identidad](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Añadir firma de correo electrónico](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
