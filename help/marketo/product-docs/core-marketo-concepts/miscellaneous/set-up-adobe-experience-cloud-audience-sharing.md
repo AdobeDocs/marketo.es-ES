@@ -1,29 +1,29 @@
 ---
 unique-page-id: 42762511
-description: Configurar el uso compartido de Audiencias de Adobe Experience Cloud - Documentos de marketing - Documentación del producto
-title: Configurar el uso compartido de Audiencias de Adobe Experience Cloud
+description: 'Configuración del uso compartido de audiencias de Adobe Experience Cloud: Marketo Docs: Documentación del producto'
+title: Configuración del uso compartido de audiencias de Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 
-# Configurar el uso compartido de Audiencias de Adobe Experience Cloud {#set-up-adobe-experience-cloud-audience-sharing}
+# Configurar el uso compartido de audiencias de Adobe Experience Cloud {#set-up-adobe-experience-cloud-audience-sharing}
 
-Para compartir datos de audiencia con las aplicaciones de Adobe, primero debe introducir las credenciales de organización de IMS de Adobe en Marketing. Así es como.
+Para compartir datos de audiencia con sus aplicaciones de Adobe, primero debe introducir sus credenciales de organización de Adobe IMS en Marketo. Así es como.
 
 >[!NOTE]
 >
->Una implementación preparada para HIPAA de una instancia de Marketing no puede utilizar esta integración.
+>Una implementación lista para HIPAA de una instancia de Marketo no puede utilizar esta integración.
 
-1. En Marketing, haga clic en **Administración**.
+1. En Marketo, haga clic en **Admin**.
 
    ![](assets/one-2.png)
 
-1. En Integración, haga clic en **Uso compartido de Audiencias de Experience Cloud**.
+1. En Integración, haga clic en **Compartir audiencias de Experience Cloud**.
 
    ![](assets/two-2.png)
 
@@ -31,11 +31,11 @@ Para compartir datos de audiencia con las aplicaciones de Adobe, primero debe in
 
    ![](assets/three-2.png)
 
-1. Introduzca su ID de organización de IMS de Adobe (descubra cómo puede encontrar [aquí](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) y haga clic en **Aceptar**.
+1. Introduzca su ID de organización de Adobe IMS (aprenda a encontrar [aquí](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)) y haga clic en **OK**.
 
    ![](assets/four-2.png)
 
-1. Haga clic en **Confirmar**.
+1. Haga clic en **Confirm**.
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ Para compartir datos de audiencia con las aplicaciones de Adobe, primero debe in
 
    >[!NOTE]
    >
-   >Por motivos de seguridad, debe ser administrador de organización de la organización de Adobe a la que desee asignar. Si no lo están, la acción fallará.
+   >Por motivos de seguridad, debe ser administrador de organización de la organización de Adobe a la que desee asignar. Si no lo está, la acción fallará.
 
-1. Si ya ha iniciado sesión _no_, aparecerá un elemento emergente en una nueva ficha o ventana. Inicie sesión en la organización de Adobe (esta acción valida el acceso a la organización).
+1. Si ya ha iniciado sesión en _not_, aparecerá una ventana emergente en una nueva pestaña o ventana. Inicie sesión en su organización de Adobe (esta acción valida el acceso a la organización).
 
-   ¡Y eso es todo! Ahora puede comenzar [compartiendo datos de audiencia](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).
+¡Y eso es todo! Ahora puede [compartir datos de audiencia](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) con o [sincronizar una audiencia](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) desde Adobe Experience Cloud.
