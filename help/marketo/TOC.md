@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '7889'
+source-wordcount: '7923'
 ht-degree: 0%
 
 ---
@@ -171,6 +171,7 @@ ht-degree: 0%
             + [Editar el dominio de marca predeterminado con espacios de trabajo](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)
             + [Editar el dominio de marca predeterminado](product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
             + [Sobrescribir dominio principal para correos electrónicos](product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md)
+         + [Cambio de los límites de recuperación de objetos personalizados en las secuencias de comandos de Velocity](product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)
          + [Cambiar el valor predeterminado de Correo electrónico y de Etiqueta](product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)
          + [Editar el mensaje de cancelación de suscripción](product-docs/administration/email-setup/edit-the-unsubscribe-message.md)
          + [Dynamic el mensaje de cancelación de suscripción para idiomas](product-docs/administration/email-setup/edit-the-unsubscribe-message/make-your-unsubscribe-message-dynamic-for-languages.md)
@@ -327,6 +328,7 @@ ht-degree: 0%
             + [Cambiar flujo de programa de participación](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Cambiar estado del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Cambiar el éxito del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
+            + [Cambiar datos de miembros del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Acciones de flujo de Microsoft Dynamics {#microsoft-dynamics-flow-actions}
             + [Agregar o quitar personas de la campaña de Dynamics](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Cambiar propietario en Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
@@ -523,6 +525,9 @@ ht-degree: 0%
                + [Paso 1 de 3: Instalación de la solución Marketo (en línea)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (en línea)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Configuración de la autenticación OAuth para Dynamics {#set-up-oauth-authentication-for-dynamics}
+               + [Conceder consentimiento para el ID de cliente y el registro de la aplicación](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [Configuración de la aplicación Microsoft Dynamics CRM para On-Premim](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
          + Detalles de sincronización de Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Asignación de campos de Dynamics predeterminada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Sincronización de cuentas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
