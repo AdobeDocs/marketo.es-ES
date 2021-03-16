@@ -1,11 +1,11 @@
 ---
 unique-page-id: 12980785
-description: Notas de la versión - Mejoras de ABM del 17 de agosto - Documentos de marketing - Documentación del producto
+description: Notas de la versión - Mejoras de ABM del 17 de agosto - Marketo Docs - Documentación del producto
 title: Notas de la versión - Mejoras de ABM del 17 de agosto
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -13,20 +13,20 @@ ht-degree: 0%
 
 # Notas de la versión: Mejoras de ABM del 17 de agosto {#release-notes-august-abm-enhancements}
 
-Las siguientes funciones se incluyen en la versión de mejora de ABM del 17 de agosto. Compruebe la disponibilidad de las funciones en la edición de marketing.
+Las siguientes funciones se incluyen en la versión de mejora ABM del 17 de agosto. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
 
-Haga clic en los vínculos de título para vista de artículos detallados para cada función.
+Haga clic en los vínculos de título para ver los artículos detallados de cada función.
 
-## Perspectiva de cuenta {#account-insight}
+## Perspectiva de la cuenta {#account-insight}
 
-**[Account](/help/marketo/product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)** Insighis es un complemento de Google Chrome que presenta información procesable sobre ABM y cuentas a sus equipos de ventas, lo que les permite trabajar en estrecha colaboración con el marketing para atraer cuentas de manera efectiva. Los equipos de ventas obtendrán visibilidad de los datos y perspectivas generados para cada una de las cuentas con nombre que poseen. Esto incluirá los percentiles de puntuación de cuenta, una lista priorizada de sus cuentas designadas, personas involucradas dentro de esas cuentas y un flujo de actividad activo de actividades recientes de la cuenta.
+**[Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insighis es un complemento de Google Chrome que muestra información procesable sobre ABM y cuentas a sus equipos de ventas, lo que les permite trabajar en estrecha colaboración con el marketing para interactuar con las cuentas de forma eficaz. Los equipos de ventas obtendrán visibilidad de los datos y las perspectivas generados para cada una de las cuentas con nombre que posean. Esto incluye los percentiles de puntuación de cuenta, una lista priorizada de sus cuentas con nombre, personas comprometidas dentro de esas cuentas y un flujo de actividad activo de las actividades recientes de la cuenta.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
 ![](assets/image003.png)
 
-## [Listas de cuentas dinámicas](/help/marketo/product-docs/account-based-marketing/target/account-lists.md) {#dynamic-account-lists}
+## [Listas de cuentas dinámicas](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-Estamos agregando una nueva forma de crear listas de cuenta en ABM. Además de las listas de cuenta existentes, ahora puede crear listas de cuenta dinámicas que se generan a partir de Vistas de cuenta de CRM públicas. Una Vista de cuenta de CRM es un conjunto de reglas que actúa como filtro al mostrar las cuentas. Por ejemplo: puede utilizarla para encontrar cuentas en las que la industria es _de salud y_ los ingresos superan los 100 millones de dólares.
+Estamos agregando una nueva forma de crear listas de cuentas en ABM. Además de las listas de cuentas existentes, ahora puede crear listas de cuentas dinámicas que se generen a partir de las vistas de cuentas públicas de CRM. Una vista de cuenta de CRM es un conjunto de reglas que actúa como filtro cuando se muestran las cuentas. Por ejemplo, puede utilizarla para encontrar cuentas en las que el Sector es _y_ los ingresos superan los 100 millones de dólares.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
