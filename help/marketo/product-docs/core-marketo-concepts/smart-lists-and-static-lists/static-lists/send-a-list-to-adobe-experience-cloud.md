@@ -1,83 +1,133 @@
 ---
 unique-page-id: 37356194
-description: Enviar una Lista a Adobe Experience Cloud - Documentos de marketing - Documentación del producto
-title: Envío de una Lista a Adobe Experience Cloud
+description: Envío de una lista a Adobe Experience Cloud - Marketo Docs - Documentación del producto
+title: Enviar una lista a Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
 
 
-# Enviar una Lista a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
+# Enviar una lista a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
->Una implementación preparada para HIPAA de una instancia de Marketing no puede utilizar esta función.
+>Una implementación lista para HIPAA de una instancia de Marketo no puede utilizar esta función.
 
 >[!PREREQUISITES]
 >
->[Configurar el uso compartido de Audiencias de Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Configuración del uso compartido de audiencias de Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
-## Aplicaciones de destino admitidas {#supported-destination-applications}
+## Aplicaciones de destino compatibles {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**sólo** si posee una licencia de Adobe Audience Manager)
+* Adobe Analytics (**solo** si posee una licencia de Adobe Audience Manager)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Plataforma de datos de clientes en tiempo real de Adobe
 * Adobe Target
 
-## Cómo exportar una Lista {#how-to-export-a-list}
+## Cómo enviar una lista estática {#how-to-send-a-static-list}
 
-1. En Marketing, busque y seleccione la lista que desee exportar.
+Una lista estática es simplemente eso, estática. No se producirán cambios en la lista en Adobe Experience Cloud a menos que los realice manualmente.
 
-   ![](assets/one.png)
+1. En Marketo, busque y seleccione la lista que desee exportar.
 
-1. Haga clic en la lista desplegable **Acciones de Lista** y seleccione **Enviar al Experience Cloud**.
+   ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-   ![](assets/two-1.png)
+1. Haga clic en la lista desplegable **List Actions** y seleccione **Send to Experience Cloud**.
 
-1. Haga clic en la lista desplegable **Carpeta de Audience Manager** y seleccione la carpeta de destino que desee en el Experience Cloud.
+   ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-   ![](assets/three-1.png)
+1. Haga clic en la lista desplegable **Audience Manager Folder** y seleccione la carpeta de destino que desee en el Experience Cloud.
 
-1. Elija si desea crear una nueva audiencia o sobrescribir una existente (en este ejemplo estamos creando una nueva). Escriba el nombre de la nueva audiencia y haga clic en **Enviar**.
+   ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-   ![](assets/four.png)
+1. Elija si desea crear una audiencia nueva o sobrescribir una existente (en este ejemplo estamos creando una nueva). Introduzca el nuevo nombre de audiencia y haga clic en **Send**.
 
-1. Haga clic en **Aceptar**.
+   ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
-   ![](assets/five.png)
+1. Haga clic en **OK**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
    >
-   >Puede tomar hasta 6-8 horas para que la membresía en la audiencia se complete en Adobe.
+   >La pertenencia a la audiencia puede tardar hasta 6-8 horas en completarse en el Adobe.
+
+## Cómo enviar una lista sincronizada {#how-to-send-a-synced-list}
+
+Sincronizar una lista significa que, cada vez que se actualiza una lista en Marketo, el cambio se sincroniza automáticamente con su audiencia en Adobe Experience Cloud.
+
+1. En Marketo, busque y seleccione la lista que desee sincronizar.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
+
+1. Haga clic en la lista desplegable **List Actions** y seleccione **Send to Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
+
+1. Haga clic en la lista desplegable **Carpeta de la biblioteca de audiencias** y seleccione la carpeta de destino que desee en el Experience Cloud.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
+
+1. Elija si desea crear una audiencia nueva o sobrescribir una existente (en este ejemplo estamos creando una nueva). Introduzca el nuevo nombre de audiencia, marque la casilla **Keep Audience Membership in Sync** y haga clic en **Send**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. Haga clic en **OK**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+## Detener una sincronización de lista {#how-to-stop-a-list-sync}
+
+Puede impedir que la lista se sincronice en cualquier momento.
+
+1. En Marketo, busque y seleccione la lista que desea detener la sincronización.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
+
+1. Haga clic en la lista desplegable **List Actions** y seleccione **Stop List Sync**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+
+1. Seleccione las audiencias a las que desee detener la sincronización y haga clic en **Stop**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+
+1. Haga clic en **Stop** para confirmar.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## Aspectos a tener en cuenta {#things-to-note}
 
-**Compartir con Adobe Analytics**
+**Uso compartido con Adobe Analytics**
 
-Para los clientes que son propietarios de Adobe Audience Manager y Adobe Analytics, esta integración permitirá que las audiencias se compartan desde Marketing a sus grupos de informes de Adobe Analytics; sin embargo, hay que realizar algunos pasos de configuración adicionales en Adobe Audience Manager para habilitarlos. Consulte la documentación de Adobe Audience Manager para obtener más información sobre cómo configurarla: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Para los clientes propietarios tanto de Adobe Audience Manager como de Adobe Analytics, esta integración permitirá compartir audiencias desde Marketo con los grupos de informes de Adobe Analytics, aunque hay algunos pasos de configuración adicionales que se deben seguir en Adobe Audience Manager para habilitarlo. Consulte la documentación de Adobe Audience Manager para obtener más información sobre cómo configurarla: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Uso de características para clientes de Adobe Audience Manager**
 
-Al iniciar una exportación de listas en Marketing, verá los siguientes cambios reflejados en la instancia de Adobe Audience Manager:
+Al iniciar una exportación de lista en Marketo, verá los siguientes cambios reflejados en su instancia de Adobe Audience Manager:
 
-* Para todos los posibles clientes de la Lista exportada, Marketing escribirá una característica utilizando los correos electrónicos con hash de los posibles clientes como un identificador entre dispositivos. El nombre de la característica coincidirá con el nombre de la Audiencia de destino que especificó durante la exportación.
-* Para todos los ECID que Marketing ha logrado coincidir con los leads de la Lista exportada, Marketo escribirá una característica utilizando el identificador de dispositivo ECID. El nombre de la característica coincidirá con el nombre de la Audiencia de destino que especificó durante la exportación.
-* Marketo también creará un segmento en la instancia de Audience Manager utilizando la característica ECID como único criterio de segmentación. El nombre del segmento coincidirá con el nombre de la Audiencia de destino que especificó durante la exportación.
+* Para todos los posibles clientes de la lista exportada, Marketo escribirá un rasgo utilizando los correos electrónicos con hash de los posibles clientes como identificador entre dispositivos. El nombre del rasgo coincidirá con el nombre de audiencia de destino especificado durante la exportación.
+* Para todos los ECID que Marketo ha logrado coincidir con los posibles clientes de la lista exportada, Marketo escribirá un rasgo utilizando el identificador de dispositivo ECID. El nombre del rasgo coincidirá con el nombre de audiencia de destino especificado durante la exportación.
+* Marketo también creará un segmento en la instancia de Audience Manager utilizando el rasgo ECID como único criterio de segmentación. El nombre del segmento coincidirá con el nombre de audiencia de destino especificado durante la exportación.
 
-## Preguntas más frecuentes {#faq}
+## Preguntas frecuentes {#faq}
 
-**¿Por qué el tamaño de la lista en Marketing es diferente al del Adobe?**
+**¿Por qué el tamaño de la lista en Marketo es diferente al de la lista en Adobe?**
 
-En el capó, la integración de audiencias funciona sincronizando las cookies de Marketing Munchkin con la cookie ECID de Adobe correspondiente. Marketo solo puede compartir datos de pertenencia para leads para los que Marketing haya sincronizado un ECID. Para obtener los mejores resultados posibles, se recomienda cargar el script de seguimiento munchkin.js de Marketing en paralelo con el código de seguimiento visitante.js de Adobe en todas las páginas que le interesen rastrear con fines de mercadotecnia.
+En el capó, la integración de audiencias funciona sincronizando las cookies de Marketo Munchkin con la cookie ECID de Adobe correspondiente. Marketo solo puede compartir datos de pertenencia para posibles clientes para los que Marketo haya sincronizado un ECID. Para obtener los mejores resultados posibles, se recomienda cargar el script de seguimiento munchkin.js de Marketo en paralelo con el código de seguimiento visitor.js de Adobe en todas las páginas que le interesen rastrear con fines de marketing.
 
 **¿Cómo funciona la sincronización de cookies?**
 
-Cuando la sincronización de cookies está habilitada para su Suscripción de Marketing, el archivo munchkin.js de Marketing intentará capturar y almacenar los ECID de Adobe para la organización de IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de marketing correspondiente. Esto permite a los perfiles de usuarios anónimos de Marketing enriquecer los ECID de Adobe.
+Cuando la sincronización de cookies esté habilitada para su suscripción a Marketo, munchkin.js de Marketo intentará capturar y almacenar los ECID de Adobe para la organización IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con los ECID de Adobe.
 
-Se requiere un paso más para asociar el perfil de usuario anónimo a un Perfil de posibles clientes, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona esto aquí: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Se requiere un paso más para asociar el perfil de usuario anónimo a un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona esto se [describe aquí](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+
+**¿Qué información se comparte?**
+
+Esta integración solo comparte la información de pertenencia a la lista de Marketo a Adobe (por ejemplo, el conocimiento de que Lead X es miembro de List Y). No se comparten en Adobe atributos de posible cliente adicionales mediante esta integración.
