@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: 'Eliminación de una cuenta con nombre: Marketo Docs: documentación del producto'
 title: Eliminar una cuenta con nombre
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Siga estos pasos rápidos para eliminar una cuenta con nombre.
 
    >[!NOTE]
    >
-   >Las cuentas que se han sincronizado con su CRM no se pueden eliminar en ABM. Si la opción de eliminación no está disponible, o si recibe un mensaje &quot;Estas cuentas no se pueden eliminar porque se ha seleccionado una o más cuentas de CRM&quot;, deben eliminarse directamente en CRM.
+   >Las cuentas que se han sincronizado con su CRM no se pueden eliminar en TAM. Si la opción de eliminación no está disponible, o si recibe un mensaje &quot;Estas cuentas no se pueden eliminar porque se ha seleccionado una o más cuentas de CRM&quot;, deben eliminarse directamente en CRM.
