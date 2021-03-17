@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Información sobre la lista de cuentas - Documentos de Marketo - Documentación del producto
 title: Información de la lista de cuentas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ El panel Lista de cuentas ofrece una vista de las perspectivas agregadas de toda
 
 >[!NOTE]
 >
->Marketo ABM determina automáticamente las cuentas con mayor nombre dentro de una lista de cuentas en función de la canalización generada o las puntuaciones de participación de la cuenta.
+>Marketo TAM determina automáticamente las cuentas con mayor nombre dentro de una lista de cuentas en función de la canalización generada o las puntuaciones de participación de la cuenta.
 
 ## Panel de lista de cuentas {#account-list-dashboard}
 
