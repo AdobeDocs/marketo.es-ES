@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: Información general sobre marketing basado en cuentas - Documentos de Marketo - Documentación del producto
 title: Información general sobre marketing basado en cuentas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketing basado en cuentas de Marketo también ofrece varias herramientas para 
 
 ¡Estoy dentro! ¿Cómo empiezo?
 
-¡Pensamos que nunca lo preguntarías! ABM está disponible como complemento de su suscripción a Marketo, por lo que póngase en contacto con su representante de ventas para que lo implemente. Una vez que lo tenga, consulte este artículo: [Introducción a ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+¡Pensamos que nunca lo preguntarías! ABM está disponible como complemento de su suscripción a Marketo, por lo que póngase en contacto con su representante de ventas para que lo implemente. Una vez que lo tenga, consulte este artículo: [Introducción a ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
