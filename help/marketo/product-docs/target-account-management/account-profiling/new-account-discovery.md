@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 'Nueva detección de cuentas: Marketo Docs: Documentación del producto'
 title: Nueva detección de cuentas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ La nueva detección de cuentas puede ayudarle a encontrar nuevas cuentas a las q
 >
 >Se recomienda presionar el botón **Actualizar cuentas existentes** antes de realizar una nueva búsqueda de cuentas para asegurarse de que está viendo los datos más recientes. Esta actualización puede tardar hasta 24 horas.
 
-1. En Mi Marketo, haga clic en **ABM**.
+1. En Mi Marketo, haga clic en **Administración de cuentas de Target**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Haga clic en la ficha **Perfiles de cuenta**.
 
@@ -37,7 +37,7 @@ La nueva detección de cuentas puede ayudarle a encontrar nuevas cuentas a las q
 
    >[!NOTE]
    >
-   >Nuevas cuentas muestra una lista de cuentas que aún no son suyas en ABM. Son cuentas que pueden ser nuevas para usted según los filtros seleccionados.
+   >Nuevas cuentas muestra una lista de cuentas que aún no son suyas en TAM. Son cuentas que pueden ser nuevas para usted según los filtros seleccionados.
 
 1. Seleccione todos los filtros aplicables (esta parte es altamente personalizable, el siguiente es solo un ejemplo para mostrar el filtrado).
 
