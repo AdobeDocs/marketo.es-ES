@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Dimension de cuentas con nombre en RCA - Marketo Docs - Documentación del producto
 title: Dimension de cuenta con nombre en RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Dimension de cuenta con nombre en RCA {#named-account-dimension-in-rca}
 
-Genere informes basados en ingresos usando la dimensión Cuenta con nombre específica de ABM en Revenue Cycle Analytics.
+Genere informes basados en ingresos usando la dimensión Cuenta con nombre específica de TAM en el análisis de ciclo de ingresos.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Los siguientes informes tienen acceso a la dimensión Cuenta con nombre :
 
 >[!NOTE]
 >
->A continuación se muestran algunos ejemplos de Marketo ABM en Revenue Cycle Analytics.
+>A continuación se muestran algunos ejemplos de Marketo TAM en Revenue Cycle Analytics.
 
 Aceleración de canalización en cuentas con nombre
 
