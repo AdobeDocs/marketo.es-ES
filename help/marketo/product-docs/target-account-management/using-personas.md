@@ -3,9 +3,9 @@ unique-page-id: 17727818
 description: Uso de personas - Marketo Docs - Documentación del producto
 title: Uso de personas
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Las personas son una buena manera de segmentar su audiencia y mercado ABM a un s
 
    ![](assets/one.png)
 
-1. En el árbol, seleccione **ABM**.
+1. En el árbol, seleccione **Administración de cuentas de Target**.
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. Haga clic en **Editar**.
 
