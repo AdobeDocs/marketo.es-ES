@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: 'Información general del complemento de Insight de la cuenta: Marketo Docs, documentación del producto'
 title: Información general del complemento de perspectivas de cuenta
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Información general del complemento de Insight de la cuenta {#account-insight-plug-in-overview}
 
-Account Insight es un complemento de Chrome que muestra información de cuentas y ABM procesables a sus equipos de ventas, lo que les permite interactuar con cuentas de forma más eficaz.
+Account Insight es un complemento de Chrome que muestra datos de cuentas y TAM procesables a sus equipos de ventas, lo que les permite interactuar con cuentas de forma más eficaz.
 
 >[!AVAILABILITY]
 >
->La perspectiva de la cuenta se incluye para todos los clientes que tienen perspectivas de ventas de ABM y de Marketo. Para los clientes que solo tienen ABM, Account Insight está disponible como complemento comprado. Cada cliente está limitado a 250 asientos de Account Insight. Póngase en contacto con su representante de ventas para obtener más información. No está disponible para los clientes que no tienen ABM.
+>La perspectiva de la cuenta se incluye para todos los clientes que tienen perspectivas de ventas de TAM y de Marketo. Para los clientes que solo tienen TAM, Account Insight está disponible como complemento comprado. Cada cliente está limitado a 250 asientos de Account Insight. Póngase en contacto con su representante de ventas para obtener más información. No está disponible para los clientes que no tienen TAM.
 
 >[!CAUTION]
 >
