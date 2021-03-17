@@ -3,7 +3,7 @@ unique-page-id: 17432598
 description: Configuración de perfiles de cuenta - Marketo Docs - Documentación del producto
 title: Configuración de la creación de perfiles de cuenta
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Siga estos pasos para empezar a usar la generación de perfiles de cuenta.
 
-1. En Mi Marketo, abra **Marketing basado en cuentas**.
+1. En Mi Marketo, abra **Administración de cuentas de Target**.
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. Haga clic en la ficha Perfiles de cuenta .
+1. Haga clic en la ficha **Perfiles de cuenta**.
 
    ![](assets/two-1.png)
 
