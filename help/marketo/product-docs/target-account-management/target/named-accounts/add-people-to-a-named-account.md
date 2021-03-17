@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: 'Agregar personas a una cuenta con nombre: Marketo Docs: documentación del producto'
 title: Agregar personas a una cuenta con nombre
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Agregar personas a una cuenta con nombre {#add-people-to-a-named-account}
 
-Existen tres formas diferentes de añadir personas manualmente a una cuenta con nombre en ABM.
+Existen tres formas diferentes de añadir personas manualmente a una cuenta con nombre en TAM.
 
 ## Acción de flujo único {#single-flow-action}
 
