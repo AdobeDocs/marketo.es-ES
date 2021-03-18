@@ -1,9 +1,9 @@
 ---
 unique-page-id: 7504739
-description: Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3 - Documentos de marketing - Documentación del producto
-title: Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3
+description: Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3 - Marketo Docs - Documentación del producto
+title: Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Paso 2 de 3 Configuración del marketing para Dynamics (2015 On-Prem y 2016 365 On-Prem){#step-of-set-up-for-marketo-on-premises-and-365}
+# Paso 2 de 3 Configuración de Marketo para Dynamics (2015 On-Prem y 2016 365 On-Prem){#step-of-set-up-for-marketo-on-premises-and-365}
 
-Bueno trabajo que completa los pasos anteriores. Sigamos adelante.
+Bueno trabajo completando los pasos anteriores. Sigamos adelante.
 
 >[!PREREQUISITES]
 >
->[Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## Asignar función de usuario de sincronización {#assign-sync-user-role}
 
-Asigne la función de usuario de sincronización de marketing solo al usuario de sincronización de marketing. No es necesario asignarlo a ningún otro usuario.
+Asigne la función de usuario de sincronización de Marketo únicamente al usuario de sincronización de Marketo. No es necesario asignarlo a ningún otro usuario.
 
 >[!NOTE]
 >
->Esto se aplica a la versión 4.0.0.14 y posterior de Marketing. Para las versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar el Marketing, consulte [Actualización de la solución de marketing para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Esto se aplica a Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar su Marketo, consulte [Actualización de la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. En **Configuración**, haga clic en **Seguridad**.
 
@@ -35,7 +35,7 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    ![](assets/assign2.png)
 
-1. Aquí verá una lista de usuarios. Seleccione el usuario dedicado de la sincronización de marketing o póngase en contacto con el administrador de [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) para crear un usuario dedicado para el marketing.
+1. Aquí puede ver una lista de usuarios. Seleccione el usuario dedicado de Marketo Sync o póngase en contacto con su administrador de [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (ADFS) para crear un usuario dedicado para Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -43,35 +43,35 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 
    ![](assets/assign4.png)
 
-   Seleccione Usuario de sincronización de marketing y haga clic en Aceptar.
+   Marketo Sync User y haga clic en OK.
 
    ![](assets/assign5.png)
 
    >[!TIP]
    >
-   >Si no ve la función, vuelva al [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) e importe la solución.
+   >Si no ve la función , vuelva al [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) e importe la solución.
 
    >[!NOTE]
    >
-   >Cualquier actualización realizada en su CRM por el usuario de sincronización **no** se sincronizará de nuevo con Marketing.
+   >Cualquier actualización realizada en su CRM por el usuario de sincronización **no** se sincronizará de nuevo con Marketo.
 
-## Configurar la solución de marketing {#configure-marketo-solution}
+## Configurar la solución de Marketo {#configure-marketo-solution}
 
-¡Casi terminado! Solo tenemos algunas últimas piezas de configuración antes de pasar al siguiente artículo.
+¡Casi terminado! Solo tenemos algunos últimos fragmentos de configuración antes de pasar al siguiente artículo.
 
-1. En **Configuración**, haga clic en **Configuración de marketing**.
+1. En **Configuración**, haga clic en **Configuración de Marketo**.
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >Si falta la configuración de Marketing to, intente actualizar la página. Si el problema persiste, [publique la solución de marketing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) o intente cerrar la sesión y volver a iniciarla.
+   >Si falta la configuración de Marketo, intente actualizar la página. Si el problema persiste, [publique la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md) o intente cerrar la sesión y volver a iniciarla.
 
-1. Haga clic en **Predeterminado**.
+1. Haga clic en **Default**.
 
    ![](assets/configure2.png)
 
-1. Haga clic en el campo **Usuario de marketing** y seleccione el usuario de sincronización.
+1. Haga clic en el campo **Marketo User** y seleccione el usuario de sincronización.
 
    ![](assets/configure3.png)
 
@@ -86,9 +86,9 @@ Asigne la función de usuario de sincronización de marketing solo al usuario de
 ## Antes de continuar con el paso 3 {#before-proceeding-to-step}
 
 * Si desea restringir el número de registros que sincroniza, [configure un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ahora.
-* Ejecute el proceso [Validar Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Verifica que la configuración inicial se realizó correctamente.
-* Inicie sesión en el usuario de sincronización de marketing en Microsoft Dynamics CRM.
+* Ejecute el proceso [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Comprueba que la configuración inicial se haya realizado correctamente.
+* Inicie sesión en el usuario de sincronización de Marketo en Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->[Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 3 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 3 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
