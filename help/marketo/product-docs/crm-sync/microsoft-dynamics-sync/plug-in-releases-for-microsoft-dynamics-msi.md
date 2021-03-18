@@ -1,11 +1,11 @@
 ---
 unique-page-id: 10099102
-description: Versiones de complementos para Microsoft Dynamics MSI - Documentos de marketing - Documentación del producto
+description: Versiones de complementos para Microsoft Dynamics MSI - Marketo Docs - Documentación del producto
 title: Versiones de complementos para Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '258'
 ht-degree: 4%
 
 ---
@@ -13,22 +13,43 @@ ht-degree: 4%
 
 # Versiones de complementos para Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Al sincronizar por primera vez con Microsoft Dynamics, descargue e instale la versión más reciente de los complementos para Marketing to Sales Insight (MSI). De forma periódica, Marketing actualiza estos complementos para que pueda volver al mismo lugar para descargar la nueva versión.
+La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará la versión más reciente de los complementos para Marketo Sales Insight (MSI). De forma periódica, Marketo actualiza estos complementos, de modo que puede volver al mismo lugar para descargar la nueva versión.
 
-[descargue el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
+[descargue el último complemento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
 
 >[!NOTE]
 >
 >Estas versiones funcionan tanto para las versiones locales como en línea de Dynamics.
 
-## Actualización de la solución MSI {#updating-your-msi-solution}
+## Actualización de la solución MSI {#upgrading-your-msi-solution}
 
-1. Importe la versión más reciente de la solución con respecto a la versión existente de Dynamics CRM (por ejemplo: si su Dynamics CRM tiene la versión 1.4 y la versión más reciente es 1.5, importaría _sobre_ la versión 1.4).
-1. Verá la siguiente ventana emergente. Seleccione las opciones **Actualizar** y **Sobrescribir personalización**, luego haga clic en **Importar**.
+1. Importe la última versión de la solución _sobre la versión existente_ de su Dynamics CRM pulsando el botón **Import** en Dynamics.
 
-   ![](assets/one.png)
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
-## Actualizaciones de versión {#version-updates}
+>[!NOTE]
+>
+>Ejemplo: si su Dynamics CRM tiene la versión 2.0.0.20 y la versión más reciente es 2.0.0.21, importaría _sobre_ la versión 2.0.0.20.
+
+1. Haga clic en **Siguiente**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
+
+1. Seleccione **Etapa para la actualización** y **Mantener personalizaciones** y, a continuación, haga clic en **Importar**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
+
+1. Haga clic en **Siguiente**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
+
+1. Después de una importación correcta, verá dos soluciones de MSI: MarketoSalesInsight y MarketoSalesInsight_Upgrade. Seleccione la solución anterior y haga clic en Aplicar actualización de solución.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
+
+¡Y eso es todo! Después de la actualización solo verá una solución MSI.
+
+## Actualizaciones de versiones {#version-updates}
 
 <table> 
  <colgroup> 
@@ -38,34 +59,39 @@ Al sincronizar por primera vez con Microsoft Dynamics, descargue e instale la ve
  </colgroup> 
  <tbody> 
   <tr> 
+   <th colspan="1">Fecha de versión</th> 
    <th colspan="1">Versión</th> 
-   <th colspan="1">Fecha de lanzamiento</th> 
    <th colspan="1">Notas</th> 
   </tr> 
   <tr> 
-   <td colspan="1">20/07/20</td> 
+   <td colspan="1">1/10/20</td> 
+   <td colspan="1">2.0.0.21</td> 
+   <td colspan="1">Corrección de errores: Asignación del acceso a los campos de configuración de la API MSI para usuarios con la función Perspectiva de ventas</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">20/7/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Corrección de errores: Añadir un mensaje de validación para registros no sincronizados</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12/06/20</td> 
+   <td colspan="1">12/6/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1"><p>Corrección de errores: Para ocultar la contraseña secreta MSI en la configuración de la API MSD</p></td> 
+   <td colspan="1">Corrección de errores: Para ocultar la contraseña secreta de MSI en la configuración de la API de MSD</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26/05/20</td> 
+   <td colspan="1">26/5/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1"><p>Corrección de errores: Para cambiar la validación del identificador de rol MSI para mostrar los botones MSI</p></td> 
+   <td colspan="1">Corrección de errores: Cambiar la validación de ID de rol MSI para mostrar botones MSI</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21/05/20</td> 
+   <td colspan="1">21/5/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1"><p>Corrección de errores: Mostrar campo de propietario y hacer que los campos no sean obligatorios</p></td> 
+   <td colspan="1">Corrección de errores: Mostrar el campo propietario y hacer que los campos no sean obligatorios</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28/04/20</td> 
+   <td colspan="1">28/4/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1"><p>Corrección de errores: Eliminación de la dependencia del vínculo de configuración del mapa del sitio MSD CRM</p></td> 
+   <td colspan="1">Corrección de errores: Eliminación de la dependencia del vínculo de configuración del mapa del sitio de MSD CRM</td> 
   </tr> 
  </tbody> 
 </table>
