@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + Documentos de producto {#product-docs}
    + Administración de cuentas de Target {#target-account-management}
       + Configuración {#setup}
-         + [Información general sobre marketing basado en cuentas](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Información general sobre la administración de cuentas de Target](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Introducción a TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Emitir una licencia](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Permisos](product-docs/target-account-management/setup-tam/permissions.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + Compatibilidad de idiomas {#language-support}
                + [Preparar la perspectiva de ventas para el soporte multilingüe en Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Pestaña Marketo {#marketo-tab}
+               + [Mejores apuestas](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Uso de la fuente de posibles clientes](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Ficha Configuración MSI {#msi-configuration-tab}
                + [Habilitar RSS para la perspectiva de ventas](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [Prioridad, urgencia, puntuación relativa y mejores apuestas](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [Definir campos de puntuación que se utilizarán para las estrellas y las llamas en la perspectiva de ventas](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + Pestañas en el panel MSI {#tabs-in-the-msi-panel}
+               + [Ficha Correo electrónico](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Momentos interesantes {#interesting-moments}
                   + [Información general sobre momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [Tokens para momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [Crear grupos de campos personalizados con el Organizador de campos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Personalización web {#web-personalization}
       + Marketing web basado en cuentas {#account-based-web-marketing}
-         + [Marketing web basado en cuentas con ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [Marketing web basado en cuentas con TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Crear una nueva lista de cuentas](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Crear un segmento mediante una lista de cuentas](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + Introducción {#getting-started}
