@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Marketo Docs - Documentación del producto
 title: Glosario de Marketo
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Este término puede tener diferentes significados:<br>- La propia instancia de Marketo puede denominarse cuenta de Marketo.<br>-En  <strong>ABM</strong>, una cuenta  <strong>denominada </strong> es una cuenta que el usuario ha determinado que es una cuenta objetivo que desea buscar.<br>-En ABM, una cuenta de CRM es una cuenta asignada desde su  <strong>CRM</strong>  vinculado (cuenta en  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamics o  <strong>API</strong>).<br>-En su CRM, las cuentas son la empresa/empresa a la que están asociados los posibles clientes y los contactos.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Marketing basado en cuentas</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing basado en cuentas</a>  (ABM)</strong></td> 
    <td colspan="1">Función de complemento que le permite dirigirse a cuentas clave y comprometerlas de forma muy coordinada.</td> 
   </tr> 
   <tr> 
@@ -446,7 +446,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona conocida</strong></a></td> 
-   <td><p>Cualquier dato de persona de la <strong>base de datos</strong> de Marketo se considera información de persona conocida. Hay varias formas de que alguien entre en la base de datos, entre ellas: Sincronización de CRM, rellenado de un formulario, importación de lista/entrada manual, programática (integraciones de API/socio de rest), etc. Los visitantes web inicialmente <strong>cookies</strong> (y son anónimos) a través del seguimiento web de <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, cuando se hace clic en un vínculo rastreado en un correo electrónico de Marketo, se rellena un formulario con su dirección de correo electrónico o se asignan manualmente a través de Marketo para asociar la API de posibles clientes s tanto en <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> como en <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associatedLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Cualquier dato de persona de la <strong>base de datos</strong> de Marketo se considera información de persona conocida. Hay varias formas de que alguien entre en la base de datos, entre ellas: Sincronización de CRM, rellenado de un formulario, importación de lista/entrada manual, programática (integraciones de API/socio de rest), etc. Los visitantes web inicialmente <strong>cookies</strong> (y son anónimos) a través del seguimiento web de <strong>Munchkin</strong> de Marketo y luego se asignan al registro de persona conocida correspondiente cuando se produce una acción identificable (por ejemplo, cuando se hace clic en un vínculo rastreado en un correo electrónico de Marketo, se rellena un formulario con su dirección de correo electrónico o se asignan manualmente a través de Marketo para asociar la API de posibles clientes s tanto en <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> como en <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#/Leads/associatedLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
