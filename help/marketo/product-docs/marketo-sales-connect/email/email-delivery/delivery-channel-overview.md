@@ -1,50 +1,60 @@
 ---
 unique-page-id: 14352407
-description: Información general sobre el Canal de envío - Documentos de marketing - Documentación del producto
-title: Información general del Canal de envío
+description: 'Descripción general del canal de entrega: Marketo Docs: Documentación del producto'
+title: Descripción general del canal de entrega
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
 
-# Información general del Canal de envío {#delivery-channel-overview}
+# Descripción general del canal de entrega {#delivery-channel-overview}
 
-Desglosaremos los tres canales diferentes que puede aprovechar, cómo seleccionarlos, cuándo seleccionarlos entre sí y los matices que los rodean.
+Marketo Sales Connect le ofrece varias opciones para enviar correos electrónicos. Este artículo revisará los canales de envío que puede aprovechar, cómo seleccionarlos y cuándo seleccionarlos entre sí.
 
->[!NOTE]
->
->Esta información sólo es relevante si envía sus correos electrónicos desde la [aplicación Web](https://toutapp.com/login). Si utiliza Sales Connect en Gmail o Outlook, los correos electrónicos se enviarán a través de esos servidores de correo electrónico.
+## Recomendado: Gmail o Exchange mediante Conexión de correo electrónico {#recommended-gmail-or-exchange-via-email-connection}
 
-## Servidores de correo electrónico MSC (predeterminado) {#msc-email-servers-default}
+Sales Connect permite una configuración optimizada y una capacidad de envío mejorada a través de nuestro servicio de conexión de correo electrónico. La conexión de correo electrónico permite a cada usuario conectarse a su cuenta de [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) a Sales Connect para utilizarse como el canal de envío elegido para todos los correos electrónicos de Sales Connect.
 
-De forma predeterminada, este método se seleccionará para el envío de los mensajes de correo electrónico. Los servidores de correo electrónico MSC son una opción buena para los usuarios que no utilizan Gmail ni Outlook. Además, como son nuestros servidores, podemos tomar cualquier mensaje de error relacionado con devoluciones o envíos fallidos y mostrarlo en la sección &quot;Envíos fallidos&quot; de la ficha Conversaciones.
+La utilización de Gmail o Exchange ofrece algunas ventajas distintas con respecto a otras opciones de canal de envío:
 
-Otra ventaja de utilizar los servidores MSC es que, al utilizar una [Identidad de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md), el destinatario verá la dirección de correo electrónico de la identidad que ha creado.
+* Se trata de un canal de envío probado con una reputación establecida que ayuda a mantener la capacidad de envío alta.
+* Los métodos de autenticación, como SPF y DKIM, ya están configurados y administrados por su equipo de TI, por lo que no hay configuración adicional.
+* El envío de correos electrónicos dentro de una red de correo electrónico determinada (es decir, el envío de un correo electrónico como usuario de Exchange a una empresa que recibe correos electrónicos a través de Exchange) puede ayudar a aumentar aún más la capacidad de envío.
 
-Al utilizar servidores MSC, es posible que sus destinatarios vean una etiqueta &quot;a través de toutapp.com&quot;. Este es el cliente de correo electrónico que les informa de que el correo electrónico se ha enviado mediante Sales Connect.
-
-Para obtener más información, consulte este [artículo de ayuda de Gmail](https://support.google.com/mail/answer/1311182?hl=en).
+Es importante tener en cuenta que estos canales de envío tienen sus propios límites de envío que Microsoft y Google aplican. Para combatir esto, utilizamos un mecanismo de regulación para ayudar a los usuarios a permanecer dentro de esos límites. Obtenga más información sobre la [regulación del correo electrónico aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
->Nuestros servidores MSC no tienen un [registro DMARC](https://dmarc.org/) disponible. No se pueden incluir en la lista blanca de sus propios servidores.
+>De forma predeterminada, el complemento O365 siempre utilizará su canal de entrega de intercambio y el complemento Gmail utilizará siempre su canal de entrega de Gmail para enviar correos electrónicos desde los complementos.
 
-## Gmail Server {#gmail-server}
+**Seguimiento de devoluciones**: MSC puede detectar devoluciones para usuarios de Exchange Online o Gmail detectando el mensaje de rechazo que se envía a la bandeja de entrada del remitente. Estas notificaciones de devoluciones se resumirán en notificaciones de análisis de plantillas, análisis de campaña y fuente activa para los usuarios. El seguimiento de devoluciones no es compatible con los clientes locales de Exchange.
 
-Si el proveedor de correo electrónico de la compañía es Gmail, puede aprovechar la cuenta existente para enviar los correos electrónicos de Sales Connect. Esta es una opción buena si desea evitar la información &quot;a través de toutapp.com&quot; y si prefiere confiar en la reputación del dominio y la capacidad de entrega de su compañía. Una ventaja adicional de usar un servidor de Gmail es que cualquier cosa que envíe desde la aplicación web se agregará automáticamente a la carpeta de Gmail enviada.
+## Canal de envío personalizado a través de SMTP {#custom-delivery-channel-via-smtp}
 
-Solo podemos conectarnos correctamente con una sola cuenta de Gmail (una dirección de correo electrónico) que envíe sus correos electrónicos de Sales Connect. Esto significa que si utiliza varias identidades de correo electrónico, solo la dirección de la cuenta a la que estamos conectados aparecerá al consultar los detalles.
+Sales Connect ofrece la opción adicional de conectar un servidor SMTP de terceros para utilizarlo como canal de envío preferido del equipo de ventas.
 
-En la aplicación web, su identidad aparecerá como la creó (arriba). Sin embargo, el envío a través de servidores Gmail mostrará la dirección de la cuenta conectada.
+La utilización de un proveedor SMTP de terceros es una buena opción para los equipos de ventas en los que el volumen de correo electrónico es la prioridad número uno. Los proveedores SMTP, como Sendgrid y Sparkpost, están optimizados para satisfacer las necesidades de envío masivo de correo electrónico y pueden escalar para satisfacer las necesidades de aquellos que buscan implementar grandes volúmenes de correo electrónico.
 
->[!NOTE]
+Además, los proveedores SMTP de terceros ofrecen una gran cantidad de funciones que ayudan a satisfacer las necesidades de envío de su equipo (como los informes de envío de correo electrónico y las direcciones IP dedicadas), lo que convierte esta opción en una buena opción para aquellos que buscan controles y visibilidad más granulares en torno a su canal de envío de correo electrónico de ventas.
+
+## Servidores MSC (heredados) {#msc-servers-legacy}
+
+Los servidores MSC solo están disponibles para algunos clientes de ToutApp heredados. Estos clientes verán los servidores MSC disponibles en su configuración de correo electrónico. Todos los clientes no heredados no verán MSC como una opción y deben conectar su cuenta de Gmail o Outlook a Sales Connect para desbloquear un canal de envío.
+
+Los servidores MSC no admiten métodos de autenticación DKIM y SPF, lo que puede reducir la tasa de entrega. Debido a esto, recomendamos que todos los clientes se conecten a Gmail o Outlook para obtener la mejor capacidad de envío.
+
+## Servidores de Marketo {#marketo-servers}
+
+Los servidores de correo electrónico de Marketo no se integran con Sales Connect. Los servidores de Marketo están optimizados para su envío masivo y permiten escalar según las necesidades de los especialistas en marketing. Sin embargo, Gmail y Exchange tienen una tasa de éxito más alta para la comunicación de ventas 1:1, por lo que recomendamos utilizar estos servidores para su comunicación de ventas.
+
+>[!MORELIKETHIS]
 >
->Como Sales Connect no administra directamente los servidores de Gmail, no registramos eventos de correo electrónico devueltos en la aplicación web.
+>* [Conexión de correo electrónico para usuarios de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Conexión de correo electrónico para usuarios de Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Configuración de un canal de envío personalizado](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [Restricción de conexión de correo electrónico](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
 
-## Servidor SMTP personalizado {#custom-smtp-server}
-
-¿Pagar por su propio servidor? ¿Usar un entorno de Microsoft Exchange? Ésta es una opción para usted. Consulte [estas instrucciones](https://docs.marketo.com/x/zYTS) para obtener información sobre cómo configurar. Al igual que los servidores Gmail, puesto que Sales Connect no administra directamente el servidor, no registramos eventos de correo electrónico devueltos en la aplicación web.
