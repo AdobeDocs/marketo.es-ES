@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '7971'
+source-wordcount: '7986'
 ht-degree: 0%
 
 ---
@@ -599,12 +599,14 @@ ht-degree: 0%
          + [Acciones de Salesforce implícitas](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Errores de sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Estado de sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Configuración de OAuth 2.0](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
    + Generación de demanda {#demand-generation}
       + Integraciones de red de publicidad {#ad-network-integrations}
+         + [Información sobre las integraciones de redes de publicidad](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Añadir audiencias personalizadas de Facebook como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Añadir Customer Match de Google como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Añadir audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [Información sobre las integraciones de redes de publicidad](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+         + [Enviar una lista a una red de publicidad](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Eventos {#events}
          + Explicación de los eventos {#understanding-events}
             + [Adición de miembros a un programa de eventos](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -801,9 +803,9 @@ ht-degree: 0%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Plantilla 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Plantilla 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1112,7 +1114,7 @@ ht-degree: 0%
             + [Añadir correo electrónico a Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [Adjuntar un fragmento de contenido](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [Funcionalidad del calendario](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-            + [Pestaña Conexión de correo electrónico para usuarios de Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+            + [Conexión de correo electrónico para usuarios de Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail no extrae la firma de conexión de ventas](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Cómo añadir una plantilla](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [Instalación de la extensión del explorador ToutApp](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1124,7 +1126,7 @@ ht-degree: 0%
             + [La barra de herramientas Conexión a ventas](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Error inesperado en Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + MSC para Outlook {#msc-for-outlook}
-            + [Pestaña Conexión de correo electrónico para usuarios de Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+            + [Conexión de correo electrónico para usuarios de Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
             + Complemento preexistente de .NET {#net-legacy-add-in}
                + [Información general del complemento .NET](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Cómo desinstalar Sales Connect de Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1147,8 +1149,8 @@ ht-degree: 0%
             + [Probar correo electrónico no mostrado como visto](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + Envío de correo electrónico {#email-delivery}
             + [Descripción general del canal de entrega](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [Configuración de un servidor SMTP](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-            + [Configuración del canal de entrega](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+            + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+            + [Configuración de un canal de envío personalizado](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Enviar Un Correo Electrónico De Ventas {#send-a-sales-email}
             + [Agregar una plantilla o una campaña](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [Añadir correo electrónico a Salesforce desde Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1313,6 +1315,7 @@ ht-degree: 0%
                + [Configurar la cancelación de la suscripción de pies de página en Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Bloquear plantilla de ventas](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Publicación de un correo electrónico en la perspectiva de ventas](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Enviar un mensaje de correo electrónico de prueba](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Acciones masivas {#bulk-actions}
                + [Agregar la ficha Perspectiva de ventas de Marketo y los botones a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Acciones masivas en Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1672,6 +1675,8 @@ ht-degree: 0%
          + [Visualización de campañas web a partir de una etiqueta específica](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Notas de la versión {#release-notes}
    + [Programa de versiones](release-notes/release-schedule.md)
+   + 2021 {#2021}
+      + [Notas de la versión: Ene 21](release-notes/2021/release-notes-jan-21.md)
    + 2020 {#2020}
       + [Notas de la versión: Ene 20](release-notes/2020/release-notes-jan-20.md)
       + [Notas de la versión: Febrero de 2020](release-notes/2020/release-notes-feb-20.md)
