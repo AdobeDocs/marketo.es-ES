@@ -1,23 +1,27 @@
 ---
 unique-page-id: 37355569
-description: Campos personalizados de miembros de programa - Documentos de marketing - Documentación del producto
-title: Campos personalizados de miembros de programa
+description: Campos personalizados de miembro del programa - Marketo Docs - Documentación del producto
+title: Campos personalizados de miembro del programa
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Campos personalizados de miembros de programa {#program-member-custom-fields}
+# Campos personalizados de miembro del programa {#program-member-custom-fields}
 
-Los campos personalizados de miembros de programa permiten recopilar datos específicos de programa para cada miembro. Pueden utilizarse en: Formularios de marketing, filtros y déclencheur de Listas inteligentes y acciones de flujo de Campañas inteligentes. Los datos se pueden ver en la ficha Miembros del programa.
+Los campos personalizados del miembro del programa le permiten recopilar datos específicos del programa para cada miembro. Pueden utilizarse en: Marketo forms, Smart List filters and déclencheur, y acciones de flujo de Smart Campaign. Los datos se pueden ver en la pestaña Miembros del programa.
 
-## Crear un campo personalizado de miembro de Programa {#create-a-program-member-custom-field}
+>[!NOTE]
+>
+>Los campos personalizados de miembro del programa no tienen una integración con los campos de miembro de Salesforce Campaign en este momento.
 
-1. En Marketing, haga clic en **Administración**.
+## Crear un campo personalizado de miembro del programa {#create-a-program-member-custom-field}
+
+1. En Marketo, haga clic en **Admin**.
 
    ![](assets/one.png)
 
@@ -35,42 +39,41 @@ Los campos personalizados de miembros de programa permiten recopilar datos espec
 
    >[!NOTE]
    >
-   >Los campos personalizados Persona y Miembro de Programa no pueden compartir el mismo nombre.
+   >Los campos personalizados Persona y Miembro del programa no pueden compartir el mismo nombre.
 
-1. Complete los campos restantes y haga clic en **Crear**.
+1. Complete los campos restantes y haga clic en **Create**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Los tipos admitidos para los campos personalizados de Miembros de Programa son: booleano, fecha, fecha y hora, flotante, entero, cadena, URL. [Obtenga más información sobre los tipos](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) de campo.
+   >Los tipos compatibles con los campos personalizados de miembro del programa son: booleano, fecha, fecha, hora, flotante, entero, cadena, URL. [Obtenga más información sobre los tipos](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md) de campo.
 
 ## Descripciones de objetos {#object-descriptions}
 
 | Objeto | Descripción |
 |---|---|
-| Compañía | Nombre de la compañía asociada a la persona. |
-| Oportunidad | Una oportunidad puede asociarse con una persona o cuenta como una posible venta futura. Normalmente, entran en Marketing a través de una CRM o de una API. |
-| Persona | Persona de la base de datos de Marketing con la que interactúa mediante campañas de marketing. |
-| Miembro programa | Persona que también es miembro de un programa |
+| Empresa | Nombre de la empresa asociada a la persona. |
+| Oportunidad | Una oportunidad puede asociarse con una persona o cuenta como una posible venta futura. Normalmente, entran en Marketo a través de un CRM o a través de una API. |
+| Persona | Persona de la base de datos de Marketo con la que interactúa mediante campañas de marketing. |
+| Miembro del programa | Persona que también es miembro de un programa |
 
-## Déclencheur y Filtros {#triggers-and-filters}
+## Déclencheur y filtros {#triggers-and-filters}
 
-Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) y/o [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
+Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) o [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
 ![](assets/six.png)
 
-## Cosas que hay que saber {#things-to-know}
+## Aspectos importantes {#things-to-know}
 
-* Los campos personalizados de miembros de programa solo están disponibles en los recursos locales. No son compatibles con Design Studio porque no hay forma de vincularlos a un programa específico.
-* No se puede clonar ni mover a Design Studio un formulario (o una página de aterrizaje con un formulario) que contenga campos personalizados Miembros de Programa.
-* Los campos personalizados de miembros de programa no se pueden usar como tokens.
-* El objeto Miembro de Programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
-* Cuando elimina un miembro de un programa, si tiene datos en el campo personalizado Miembro del Programa, los datos se eliminarán de ese campo.
-* Para vista de los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
-* Se admiten la importación y exportación mediante [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)y [API](https://developers.marketo.com/).
-* Cuando combina dos personas, se utilizarán los datos de campo personalizados de miembro de Programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
+* Los campos personalizados de miembro del programa solo están disponibles en los recursos locales. No son compatibles con Design Studio porque no hay forma de vincularlas a un programa específico.
+* No se puede clonar ni mover a Design Studio un formulario (o una página de aterrizaje con un formulario) que contenga campos personalizados Miembros del programa.
+* El objeto Miembro del programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
+* Cuando elimine un miembro de un programa, si tiene datos en el campo personalizado Miembro del programa, los datos se limpiarán de ese campo.
+* Para ver los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
+* Se admiten la importación y exportación a través de [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) y [API](https://developers.marketo.com/).
+* Cuando combina dos personas, se utilizarán los datos de campo personalizados del miembro del programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
 
 >[!MORELIKETHIS]
 >
->[Creación de un campo personalizado en Marketing](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
