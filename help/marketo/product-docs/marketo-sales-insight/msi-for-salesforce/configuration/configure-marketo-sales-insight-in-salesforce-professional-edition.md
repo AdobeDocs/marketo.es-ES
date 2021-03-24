@@ -1,35 +1,35 @@
 ---
 unique-page-id: 3571743
-description: Configurar la perspectiva de ventas de marketing en Salesforce Professional Edition - Documentos de marketing - Documentación del producto
-title: Configuración de la perspectiva de ventas de marketing en Salesforce Professional Edition
+description: Configurar Marketo Sales Insight en Salesforce Professional Edition - Marketo Docs - Documentación del producto
+title: Configurar Marketo Sales Insight en Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '905'
 ht-degree: 0%
 
 ---
 
 
-# Configurar la perspectiva de ventas de marketing en Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
+# Configurar Marketo Sales Insight en Salesforce Professional Edition {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
-A continuación se indican los pasos que debe seguir para configurar la perspectiva de ventas de marketing en Salesforce Professional Edition. Empecemos.
+Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Salesforce Professional Edition. Empecemos.
 
 >[!PREREQUISITES]
 >
->* Instale Marketing en Salesforce Professional Edition.
+>* Instale Marketo en Salesforce Professional Edition.
    >
    >
-* [Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+* [Instalación del paquete de perspectivas de ventas de Marketo en la AppExchange de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-## Configurar la perspectiva de ventas en Marketing {#configure-sales-insight-in-marketo}
+## Configurar la perspectiva de ventas en Marketo {#configure-sales-insight-in-marketo}
 
-1. Abra una nueva ventana del explorador para obtener las credenciales de perspectiva de ventas de marketing de su cuenta de Marketing to.
+1. Abra una nueva ventana del explorador para obtener las credenciales de Marketo Sales Insight de su cuenta de Marketo.
 1. Vaya al área Administración y seleccione **Perspectiva de ventas**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
@@ -38,7 +38,7 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2-1.png)
 
-1. Introduzca una clave secreta de API de su elección y haga clic en **Guardar**. NO utilice un símbolo &amp; en la clave secreta de API.
+1. Escriba una clave secreta de API de su elección y haga clic en **Guardar**. NO use un signo &amp; en la clave secreta de API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3-1.png)
 
@@ -46,11 +46,11 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
    >
    >La clave secreta de API es como una contraseña para su organización y debe ser segura.
 
-1. Haga clic en **Vista** en el panel Configuración de la API restante para rellenar las credenciales.
+1. Haga clic en **Ver** en el panel Configuración de la API restante para rellenar las credenciales.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. Verá una ventana emergente de confirmación. Haga clic en **Aceptar**.
+1. Verá una ventana emergente de confirmación. Haga clic en **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
@@ -60,7 +60,7 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Busque &quot;sitio remoto&quot; y seleccione **Configuración del sitio remoto**.
+1. Busque &quot;sitio remoto&quot; y seleccione **Configuración de sitio remoto**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
@@ -68,7 +68,7 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Escriba el nombre del sitio remoto (puede ser algo así como &quot;MarketoSoapAPI&quot;). Introduzca la URL del sitio remoto, que es la URL del host de marketing del panel Configuración de la API de jabón en Marketing. Haga clic en **Guardar**. Ha creado la configuración del sitio remoto para la API de Soap.
+1. Introduzca el Nombre del sitio remoto (puede ser algo así como &quot;MarketoSoapAPI&quot;). Introduzca la URL del sitio remoto, que es la URL del host de Marketo desde el panel Configuración de la API de Soap en Marketo. Haga clic en **Guardar**. Ahora ha creado la configuración del sitio remoto para la API de Soap.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -76,11 +76,11 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Escriba el nombre del sitio remoto (puede ser algo así como &quot;MarketoRestAPI&quot;). Introduzca la dirección URL del sitio remoto, que es la dirección URL de la API desde el panel Configuración de la API de reposo en MarketingTo. Haga clic en **Guardar**. Ha creado la configuración del sitio remoto para la API de descanso.
+1. Introduzca el Nombre del sitio remoto (puede ser algo así como &quot;MarketoRestAPI&quot;). Introduzca la URL del sitio remoto, que es su URL de API del panel Configuración de la API de Rest en Marketo. Haga clic en **Guardar**. Ahora ha creado la configuración del sitio remoto para la API de Rest.
 
-## Configurar la perspectiva de ventas de marketing {#set-up-marketo-sales-insight}
+## Configurar Marketo Sales Insight {#set-up-marketo-sales-insight}
 
-1. Inicie sesión en la instancia de Marketing y haga clic en **Administración**.
+1. Inicie sesión en la instancia de Marketo y haga clic en **Admin**.
 
    ![](assets/login-admin-1.png)
 
@@ -92,11 +92,11 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/image2015-5-22-15-3a15-3a0-1.png)
 
-1. Escriba una **Clave secreta de API** y haga clic en **Guardar**.
+1. Introduzca una **Clave secreta de API** y haga clic en **Guardar**.
 
    >[!CAUTION]
    >
-   >No utilice un símbolo &amp; en la clave secreta de API.
+   >No use un signo &amp; en la clave secreta de API.
 
    ![](assets/image2015-5-27-16-3a36-3a56-1.png)
 
@@ -116,13 +116,13 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/image2014-9-24-17-3a26-3a6.png)
 
-1. Escriba **Nombre del sitio remoto** y **Dirección URL del sitio remoto**, luego haga clic en **Guardar**.
+1. Introduzca **Remote Site Name** y **Remote Site URL** y, a continuación, haga clic en **Save**.
 
    ![](assets/remote-site-1.png)
 
    >[!NOTE]
    >
-   >Usted elige su **Nombre del sitio remoto** (la API de marketing se usa aquí). La **URL del sitio remoto** se encuentra en el campo Host de marketing del cuadro de diálogo Editar configuración de API del paso 4.
+   >Usted elige su **Nombre del sitio remoto** (MarketoAPI se usa aquí). La **URL del sitio remoto** se encuentra en el campo Host de Marketo del cuadro de diálogo Editar configuración de API del paso 4.
 
 ## Personalizar diseños de página {#customize-page-layouts}
 
@@ -130,43 +130,43 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Busque &quot;page layout&quot; y seleccione el **Diseño de página** en **Posibles clientes**.
+1. Busque &quot;page layout&quot; y seleccione el **Page Layout** en **Leads**.
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Haga clic en **Páginas de VisualForce** a la izquierda. Arrastre **Sección** al diseño debajo de la sección Vínculos personalizados.
+1. Haga clic en **Visualforce Pages** a la izquierda. Arrastre **Sección** al diseño debajo de la sección Vínculos personalizados .
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Introduzca &quot;Perspectiva de ventas de marketing&quot; como **Nombre de sección**. Seleccione **1-Columna** y haga clic en **Aceptar**.
+1. Introduzca &quot;Marketo Sales Insight&quot; como **Section Name**. Seleccione **1-Column** y haga clic en **OK**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Arrastre y suelte **Posible cliente** en la nueva sección.
+1. Arrastre y suelte **Lead** en la nueva sección.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
    >[!TIP]
    >
-   >El nombre de este cuadro cambiará según el tipo de objeto. Por ejemplo, si está modificando el diseño de página para Contactos, dirá Contacto.
+   >El nombre de este cuadro cambiará según el tipo de objeto. Por ejemplo, si está modificando el diseño de página de Contactos, dirá Contacto.
 
-1. Haga clic con el doble en el bloque **Posible cliente** que acaba de agregar.
+1. Haga doble clic en el bloque **Lead** que acaba de añadir.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Edite la altura a **450** píxeles y haga clic en **Aceptar**.
+1. Edite la altura a **450** píxeles y haga clic en **OK**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
    >[!TIP]
    >
-   >Se recomienda una altura de 410 píxeles para los objetos Cuentas y oportunidades.
+   >Se recomienda una altura de 410 píxeles para los objetos Cuentas y oportunidades .
 
-1. Haga clic en **Campos** a la izquierda. A continuación, busque y arrastre la etiqueta **Participación** al diseño **Perspectiva de ventas de marketing**.
+1. Haga clic en **Fields** a la izquierda. A continuación, busque y arrastre la etiqueta **Engagement** al diseño **Marketo Sales Insight** .
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
-1. Repita también el paso anterior para estos campos.
+1. Repita el paso anterior también para estos campos.
 
 <table> 
  <tbody> 
@@ -180,7 +180,7 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
    <td colspan="1" rowspan="1"><p>Valor de urgencia</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Fecha del último momento interesante</p></td> 
+   <td colspan="1" rowspan="1"><p>Última fecha de momento interesante</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Último momento interesante Desc</p></td> 
@@ -198,22 +198,22 @@ A continuación se indican los pasos que debe seguir para configurar la perspect
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Repita este proceso para agregar secciones de página de VisualForce y campos de perspectiva de ventas para **Contacto**, **Cuenta** y **Oportunidad**.
-1. Repita los pasos del 5 al 7 para agregar secciones de página de Visualforce para Contacto, Cuenta y Oportunidad. A continuación, repita los pasos del 8 al 10 para agregar campos de perspectiva de ventas para **Contacto**. Asegúrese de guardar después de realizar cualquier cambio.
+1. Repita este proceso para agregar secciones de página de Visualforce y campos de Perspectiva de ventas para **Contacto**, **Cuenta** y **Oportunidad**.
+1. Repita los pasos del 5 al 7 para agregar secciones de página de Visualforce para Contacto, Cuenta y Oportunidad. A continuación, repita los pasos 8-10 para agregar campos de perspectiva de ventas para **Contacto**. Asegúrese de guardar después de cualquier cambio.
 
 ## Asignar campos de persona personalizados {#map-custom-person-fields}
 
-Los campos de persona de marketing deben asignarse a los campos de contacto de Salesforce para garantizar que la conversión funcione correctamente. Así es como.
+Los campos de persona de Marketo deben asignarse a los campos de contacto de Salesforce para garantizar que la conversión funcione correctamente. Así es como.
 
 1. Haga clic en **Configuración**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Busque &quot;campos&quot; en la barra de búsqueda y haga clic en **Campos** en **Posibles clientes**.
+1. Busque &quot;campos&quot; en la barra de búsqueda y haga clic en **Fields** en **Leads**.
 
    ![](assets/image2015-6-1-9-3a54-3a50-1.png)
 
-1. Haga clic en **Asignar campos de posibles clientes**.
+1. Haga clic en **Asignar campos de posible cliente**.
 
    ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
@@ -230,7 +230,7 @@ Los campos de persona de marketing deben asignarse a los campos de contacto de S
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1">Campo personalizado Persona de marketing</th> 
+   <th colspan="1" rowspan="1">Campo personalizado de persona de marketing</th> 
    <th colspan="1" rowspan="1">Campo personalizado de contacto de Salesforce</th> 
   </tr> 
   <tr> 
@@ -239,15 +239,15 @@ Los campos de persona de marketing deben asignarse a los campos de contacto de S
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Valor de puntuación relativo</p></td> 
-   <td colspan="1" rowspan="1"><p>Valor de puntuación de contacto.Relativo</p></td> 
+   <td colspan="1" rowspan="1"><p>Valor de puntuación de contacto.relativo</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Valor de urgencia</p></td> 
    <td colspan="1" rowspan="1"><p>Valor de Contact.Urgency</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Fecha del último momento interesante</p></td> 
-   <td colspan="1" rowspan="1"><p>Contacto.Última fecha de momento interesante</p></td> 
+   <td colspan="1" rowspan="1"><p>Última fecha de momento interesante</p></td> 
+   <td colspan="1" rowspan="1"><p>Contact.Última fecha de momento interesante</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Último momento interesante Desc</p></td> 
@@ -268,42 +268,43 @@ Los campos de persona de marketing deben asignarse a los campos de contacto de S
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Configuración de perspectiva de ventas de marketing {#marketo-sales-insight-config}
+## Configuración de Marketo Sales Insight {#marketo-sales-insight-config}
 
 1. Haga clic en **+** y, a continuación, seleccione **Configuración de perspectiva de ventas de marketing**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Marque **Habilitar API de marketing**. A continuación, rellene la [información de configuración de API en Administración de mercadotecnia](#set-up-marketo-sales-insight). Haga clic en **Guardar cambios** cuando haya terminado.
+1. Marketo API **.** A continuación, rellene la información de configuración de la API [en Administración de Marketo](#set-up-marketo-sales-insight). Haga clic en **Guardar cambios** cuando haya terminado.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Si falla la prueba de diagnóstico, es posible que tenga que [agregar más campos al diseño de página](https://nation.marketo.com/docs/DOC-1115).
+   >Si la prueba de diagnóstico falla, es posible que tenga que [agregar más campos al diseño de página](https://nation.marketo.com/docs/DOC-1115).
 
-¡Y eso es todo! Debería poder ver los campos de perspectiva de ventas de marketing para posibles clientes, contactos, cuentas y oportunidades.
+¡Y eso es todo! Debería poder ver los campos de Perspectiva de ventas de Marketo para Posibles clientes, Contactos, Cuentas y Oportunidades.
 
 ![](assets/twenty-six-1.png)
 
 >[!NOTE]
 >
->En el caso de las cuentas, la perspectiva de ventas incluirá todos los correos electrónicos, pero sólo los momentos interesantes más recientes, la actividad web y los cambios de puntuación.
+>En el caso de las cuentas, Perspectiva de ventas incluirá todos los correos electrónicos, pero solo los momentos interesantes más recientes, la actividad web y los cambios de puntuación.
 
-## Acceder a la perspectiva de ventas de marketing {#access-marketo-sales-insight}
+## Acceso a Marketo Sales Insight {#access-marketo-sales-insight}
 
-1. En Salesforce, haga clic en **+** al final de la barra de fichas y haga clic en **Configuración de perspectiva de ventas de marketing**.
+1. En Salesforce, haga clic en **+** al final de la barra de pestañas y haga clic en **Configuración de perspectiva de ventas de Marketo**.
 
-1. Seleccione la casilla **Habilitar API de marketing**.
+1. Seleccione la casilla **Enable Marketo API**.
 
-1. Copie las credenciales del panel API de Soap en la página de administración de perspectiva de ventas de Marketing Cloud y péguelas en la sección API de Soap de la página de configuración de la perspectiva de ventas de Salesforce.
+1. Copie las credenciales del panel de la API de Soap en la página de administración de la perspectiva de ventas de Marketo y péguelas en la sección API de Soap de la página Configuración de la perspectiva de ventas de Salesforce.
 
-1. Copie las credenciales del panel API de Rest en la página de administración de perspectiva de ventas de Marketing Cloud y péguelas en la sección API de Rest de la página de configuración de Perspectiva de ventas de Salesforce.
+1. Copie las credenciales del panel API de Rest en la página de administración de la perspectiva de ventas de Marketo y péguelas en la sección API de Rest de la página de configuración de la perspectiva de ventas de Salesforce.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 >[!MORELIKETHIS]
 >
 >* [Prioridad, urgencia, puntuación relativa y mejores apuestas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Añadir la ficha y los botones de perspectiva de ventas de marketing a Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [Agregar la ficha Perspectiva de ventas de Marketo y los botones a Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [Configuración de la perspectiva de ventas para su equipo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
