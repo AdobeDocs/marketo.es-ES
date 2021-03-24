@@ -1,9 +1,9 @@
 ---
 unique-page-id: 14352623
-description: Detalles de acceso del usuario - Documentos de marketing - Documentación del producto
+description: Detalles de acceso del usuario - Documentos de Marketo - Documentación del producto
 title: Detalles de acceso de usuario
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -11,41 +11,41 @@ ht-degree: 0%
 ---
 
 
-# Detalles de acceso de usuario {#user-access-details}
+# Detalles de acceso del usuario {#user-access-details}
 
-¿A qué tienen acceso los administradores y los no administradores?
+¿A qué tienen acceso los administradores y no administradores?
 
-## Permisos de usuario de administración {#admin-user-permissions}
+## Permisos de usuario del administrador {#admin-user-permissions}
 
-Los administradores pueden [vista de todas las plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Los administradores pueden [ver todas las plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Los administradores pueden [vista de todas las campañas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Los administradores pueden [ver todas las campañas](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Los administradores pueden realizar vistas de todas las actividades de correo electrónico.
+Los administradores pueden ver toda la actividad de correo electrónico.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
-Los administradores pueden ver a todas las personas en una campaña en ejecución.
+Los administradores pueden ver todas las personas en una campaña en ejecución.
 
 ![](assets/running.jpg)
 
-Se puede acceder a todos los registros de personas en el grupo Todos.
+Se puede acceder a todos los registros de personas en el grupo Todos .
 
 ![](assets/viewed.jpg)
 
-Los administradores pueden detener campañas en nombre de los usuarios.
+Los administradores pueden detener las campañas en nombre de los usuarios.
 
 ## Permisos de usuario que no son administradores {#non-admin-user-permissions}
 
 * Analytics:
 
    * Los usuarios pueden ver análisis de equipo
-   * Los usuarios pueden explorar en profundidad únicamente los equipos a los que pertenecen
-   * Los usuarios pueden consultar sus propios análisis
+   * Los usuarios solo pueden explorar en profundidad los equipos a los que pertenecen
+   * Los usuarios pueden ver sus propios análisis
 
 * Página Relaciones:
 
@@ -53,20 +53,20 @@ Los administradores pueden detener campañas en nombre de los usuarios.
    * Los usuarios pueden compartir grupos solo con los equipos a los que pertenecen
    * Cuando se elimina un usuario, sus contactos compartidos transfieren la propiedad al administrador maestro que eliminó al usuario
 
-* Salto de ventas - Siguiente y Alimentación en vivo:
+* Beat de ventas - Siguiente y Fuente activa:
 
-   * Los usuarios pueden vista la vista &quot;todo el mundo&quot;
+   * Los usuarios pueden ver la vista &quot;todos&quot;
    * Los usuarios pueden filtrar por los equipos a los que pertenecen
    * El usuario puede compartir publicaciones con todos
-   * Los usuarios pueden compartir publicaciones solo con los equipos a los que pertenecen
+   * Los usuarios pueden compartir anuncios solo con los equipos a los que pertenecen
 
 * Página Administración de equipos:
 
-   * No se puede realizar la vista
+   * No se puede ver
 
 * Página Plantillas:
 
    * Los usuarios pueden compartir plantillas con todos
-   * Los usuarios pueden compartir plantillas en categorías que sus administradores les permiten
-   * Cuando se elimina un usuario de un equipo, sus plantillas dejan de compartirse con ese equipo
-   * Cuando se elimina un usuario de un equipo, sus plantillas transfieren la propiedad al administrador maestro que eliminó al usuario
+   * Los usuarios pueden compartir plantillas en las categorías que sus administradores les permiten
+   * Cuando se elimina un usuario de un equipo, sus plantillas se dejan de compartir con ese equipo
+   * Cuando se elimina un usuario de un equipo, sus plantillas transfieren la propiedad al administrador maestro que eliminó el usuario
