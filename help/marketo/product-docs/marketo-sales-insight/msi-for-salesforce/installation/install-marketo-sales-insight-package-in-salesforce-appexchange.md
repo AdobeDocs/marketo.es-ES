@@ -1,55 +1,55 @@
 ---
 unique-page-id: 7516390
-description: Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce - Documentos de marketing - Documentación del producto
-title: Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce
+description: Instalación de Marketo Sales Insight Package en la AppExchange de Salesforce - Marketo Docs - Documentación del producto
+title: Instalación del paquete de perspectivas de ventas de Marketo en la AppExchange de Salesforce
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
 
-# Instalación del paquete de perspectiva de ventas de marketing en la AppExchange de Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# Instalación del paquete de perspectivas de ventas de Marketo en la AppExchange de Salesforce {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesforce para poder disfrutar de todas las ventajas que ofrece Sales Insight. Así es como.
-
->[!NOTE]
->
->**Se requieren permisos de administración**
+Debe instalar la aplicación Marketo Sales Insight en su suscripción a Salesforce antes de poder disfrutar de todas las ofertas de Sales Insight. Así es como.
 
 >[!NOTE]
 >
->Marketing to Sales Insight es compatible con el cifrado de la plataforma Salesforce (Shield).
+>**Se requieren permisos de administrador**
 
-1. Vaya a la página de [AppExchange de Marketing to Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) y haga clic en **Get it Now**.
+>[!NOTE]
+>
+>Marketo Sales Insight es compatible con el cifrado de Salesforce Platform (Shield).
+
+1. Vaya a la página [AppExchange de Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) y haga clic en **Get it Now**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Iniciar sesión en el botón AppExchange** e inicie sesión con las credenciales de Salesforce.
+1. Haga clic en **Iniciar sesión en el botón AppExchange** e inicie sesión con sus credenciales de Salesforce.
 
-1. Introduzca el inicio de sesión de cuenta de Salesforce conectado y haga clic en **Instalar en producción**.
+1. Introduzca su cuenta de Salesforce conectada y haga clic en **Instalar en producción**.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Si desea probarlo primero en el simulador para pruebas, elija **Instalar en el Simulador para pruebas**.
+   >Si desea probarlo primero en el simulador para pruebas, elija **Instalar en Sandbox**.
 
-1. Lea y acepte los términos y condiciones, luego haga clic en **Confirmar e instalar**.
+1. Lea y acepte los términos y condiciones y haga clic en **Confirmar e instalar**.
 
    ![](assets/four.png)
 
-1. Puede elegir &quot;Instalar solo para administradores&quot; (y proporcionar acceso MSI a perfiles específicos más adelante), &quot;Instalar para todos los usuarios&quot; o &quot;Instalar para Perfiles específicos&quot;.
+1. Puede elegir &quot;Instalar solo para administradores&quot; (y proporcionar acceso MSI a perfiles específicos más adelante), &quot;Instalar para todos los usuarios&quot; o &quot;Instalar para perfiles específicos&quot;.
 
    ![](assets/five.png)
 
-1. Puede ver el siguiente mensaje una vez que inicio el proceso de instalación. Recibirá un mensaje de correo electrónico una vez finalizada la instalación. Haga clic en **Listo** para descartar.
+1. Puede ver el siguiente mensaje una vez que inicie el proceso de instalación. Recibirá un correo electrónico una vez que se haya completado la instalación. Haga clic en **Listo** para rechazar la solicitud.
 
    ![](assets/six.png)
 
-1. Verifique que **Marketing to Sales Insight** esté en los paquetes instalados.
+1. Compruebe que **Marketo Sales Insight** se encuentra en los paquetes instalados.
 
    ![](assets/seven.png)
 
@@ -57,15 +57,15 @@ Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesfo
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Busque &quot;objetos&quot; y haga clic en **Objetos** en **Crear**.
+1. Busque &quot;objetos&quot; y, a continuación, haga clic en **Objetos** en **Crear**.
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Compruebe por doble que **Implementado** está marcado para todos los artículos de Marketing to Sales Insight.
+1. Compruebe que **Implementado** esté marcado para todos los artículos de Perspectiva de ventas de Marketo.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
-1. Si no se implementa un objeto, haga clic en **Editar** al lado del elemento.
+1. Si un objeto no está implementado, haga clic en **Editar** junto al elemento.
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
@@ -73,10 +73,11 @@ Debe instalar la aplicación Marketo Sales Insight en la suscripción de Salesfo
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
-¡bueno trabajo! Ahora ha instalado e implementado MarketingTo Sales Insight. Adelante y configúrelo para su equipo de ventas y observe el aumento de ventas.
+¡bueno trabajo! Ahora ha instalado e implementado Marketo Sales Insight. Continúe y configúrelo para su equipo de ventas y observe cómo se disparan las ventas.
 
 >[!MORELIKETHIS]
 >
->[Configuración de la perspectiva de ventas de marketing en Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->
->[Configurar la perspectiva de ventas de marketing en Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Configurar Marketo Sales Insight en Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Configurar Marketo Sales Insight en Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Configuración de la perspectiva de ventas para su equipo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+
