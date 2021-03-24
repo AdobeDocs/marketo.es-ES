@@ -1,40 +1,40 @@
 ---
 unique-page-id: 14352402
-description: Invitar a miembros del equipo - Documentos de marketing - Documentación del producto
+description: Invitar a miembros del equipo - Marketo Docs - Documentación del producto
 title: Invitar a miembros del equipo
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 
-# Invitar a miembros del equipo {#invite-team-members}
+# Invitar miembros del equipo {#invite-team-members}
 
-Añadir a los miembros del equipo es rápido y fácil!
+Añadir miembros del equipo es rápido y fácil.
 
-1. Haga clic en el icono de engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **Settings**.
 
    ![](assets/one.png)
 
-1. En Configuración de administración, seleccione **Administración de equipos**.
+1. En Configuración de administración, seleccione **Administración de usuarios**.
 
-   ![](assets/two.png)
+   ![](assets/invite-team-members-2.png)
 
-1. Haga clic en **Invitar a nuevo usuario**.
+1. Haga clic en **Invitar usuarios**.
 
-   ![](assets/three.png)
+   ![](assets/invite-team-members-3.png)
 
-1. Escriba las direcciones de correo electrónico de las personas que desee agregar y haga clic en **Siguiente**.
+1. Introduzca las direcciones de correo electrónico de las personas que desea añadir y haga clic en **Next**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >De forma predeterminada, todos los miembros nuevos se agregarán al equipo Todos.
+   >De forma predeterminada, todos los miembros nuevos se agregarán al equipo Todos .
 
-1. Haga clic en **Aceptar**.
+1. Haga clic en **OK**.
 
    ![](assets/five.png)
