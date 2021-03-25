@@ -2,9 +2,9 @@
 description: 'Información general: Marketo Docs: Documentación del producto'
 title: Información general
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga informa
 
 **Árbol**
 
-El árbol también se ha actualizado. Pero en este momento, no está disponible la posibilidad de arrastrar y soltar. Sin embargo, puede mover recursos. Descubra cómo: [Mover recursos](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+El árbol también se ha actualizado.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Hay una gran cantidad de nuevas funciones de árbol disponibles.
   <tr>
    <td>Arrastrar y soltar del árbol al flujo de participación</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Arrastrar y soltar dentro del árbol</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filtrar por tipo de recurso y estados</td> 
