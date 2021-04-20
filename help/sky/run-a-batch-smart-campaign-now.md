@@ -1,16 +1,16 @@
 ---
-title: run-a-batch-smart-campaña-now
-description: Ejecutar una Campaña inteligente por lotes ahora
+title: run-a-batch-smart-campaign-now
+description: Ejecutar una campaña inteligente por lotes ahora
+exl-id: 2e6b24fc-db7a-4bed-ac41-bd26fea3e8f7
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
-# Ejecutar una Campaña inteligente por lotes ahora
+# Ejecutar una campaña inteligente por lotes ahora
 
 <br> 
 
@@ -20,11 +20,11 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Vaya a la ficha **[!UICONTROL Programar]** y haga clic en **[!UICONTROL Añadir ejecución]**.
+1. Vaya a la pestaña **[!UICONTROL Schedule]** y haga clic en **[!UICONTROL Add Run]**.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
-1. Asegúrese de que **[!UICONTROL Ejecutar ahora]** está seleccionado y haga clic en **[!UICONTROL Confirmar]**.
+1. Asegúrese de que **[!UICONTROL Run Now]** está seleccionado y haga clic en **[!UICONTROL Confirm]**.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
