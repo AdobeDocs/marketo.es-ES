@@ -1,22 +1,22 @@
 ---
 title: how-to-enable-roles-for-marketo-sky.md
-description: 'Cómo activar funciones para Marketo Sky '
+description: Cómo activar las funciones para el Marketo Sky
+exl-id: 10b7bc52-6f64-4d54-9bec-dcf3ad9afda9
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-
-# Cómo activar funciones para Marketo Sky
+# Cómo activar las funciones para el Marketo Sky
 
 <br> 
 
-[!DNL Marketo] Los administradores pueden habilitar las funciones  [!DNL Sky] en el   área de administración de  [!DNL Marketo Classic].
+[!DNL Marketo] Los administradores pueden habilitar funciones para  [!DNL Sky] en la   zona de administración de  [!DNL Marketo Classic].
 
-1. En [!DNL Marketo Classic], haga clic en **[!UICONTROL Administración]**.
+1. En [!DNL Marketo Classic], haga clic en **[!UICONTROL Admin]**.
 
    ![Imagen uno](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Imagen tres](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. Las funciones seleccionadas ahora podrán acceder a [!DNL Marketo Sky] a través del mosaico en su **[!UICONTROL Mi marcador]**.
+1. Las funciones seleccionadas ahora podrán acceder a [!DNL Marketo Sky] a través del mosaico en su **[!UICONTROL My Marketo]**.
 
    ![Imagen Cuatro](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
