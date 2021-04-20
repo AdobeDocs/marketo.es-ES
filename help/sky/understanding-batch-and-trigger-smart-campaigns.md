@@ -1,56 +1,56 @@
 ---
-title: Understanding-batch-and-desencadenador-campañas inteligentes
-description: Explicación de las Campañas inteligentes por lotes y activadoras
+title: Understanding-batch-and-déclencheur-smart-igns
+description: Explicación de las campañas inteligentes por lotes y por Déclencheur
+exl-id: 54f38ecc-1b4c-4944-9f42-d8c1190c99d0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# Explicación de las Campañas inteligentes por lotes y activadoras
+# Explicación de las campañas inteligentes por lotes y por Déclencheur
 
 <br> 
 
-Existen dos tipos de campañas inteligentes: Lote y activador.
+Existen dos tipos de campañas inteligentes: Lote y Déclencheur.
 
 ## Campaña inteligente por lotes
 
-Una campaña por lotes se inicia a una hora específica y afecta a un conjunto específico de personas a la vez. Un ejemplo sería enviar un correo electrónico a todos los usuarios de la base de datos que residan en California.
+Una campaña por lotes se inicia a una hora específica y afecta a un conjunto específico de personas a la vez. Un ejemplo sería enviar un correo electrónico a todas las personas de la base de datos que residan en California.
 
-Las campañas inteligentes por lotes solo tendrán filtros dentro de la sección de listas inteligentes (es decir, sin activadores).
+Las campañas inteligentes por lotes solo tendrán filtros dentro de la sección de listas inteligentes (es decir, sin déclencheur).
 
 ![Imagen uno](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Al hacer clic en la ficha **[!UICONTROL Programar]** se confirmará que la campaña inteligente se ha definido como &quot;Lote&quot;.
+Al hacer clic en la pestaña **[!UICONTROL Schedule]** se confirmará que la campaña inteligente está configurada como &quot;Batch&quot;.
 
 ![Imagen dos](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
-**Campañas inteligentes por lotes**
+**Lotes de campañas inteligentes**
 
-* Se puede programar para recurrencias como, por ejemplo, diarias, semanales y mensuales. También se pueden ejecutar una sola vez.
-* Están visibles en la vista [calandario del programa](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
-* No se incluirá en la vista nada después de un paso &quot;Esperar&quot; dentro de la campaña inteligente.
+* Se puede programar para recurrencias como diaria, semanal y mensual. También puede hacer que se ejecuten una sola vez.
+* Se pueden ver en la [vista de programación del programa](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
+* No se incluirá en la vista nada después de un paso &quot;Espera&quot; dentro de la campaña inteligente.
 
-## Activar Campaña inteligente
+## Déclencheur Smart Campaign
 
-Una campaña inteligente de desencadenador afecta a una persona a la vez en función de un evento activado. Un ejemplo de activador sería hacer clic en un vínculo de un correo electrónico.
+Una campaña inteligente de déclencheur afecta a una persona a la vez en función de un evento activado. Un ejemplo de déclencheur sería hacer clic en un vínculo de un correo electrónico.
 
-Si una campaña inteligente utiliza al menos un activador dentro de la sección de lista inteligente, el modo se establecerá automáticamente en activado.
+Si una campaña inteligente utiliza al menos un déclencheur dentro de la sección de lista inteligente, el modo se establecerá automáticamente en activado.
 
 ![Imagen tres](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Al hacer clic en la ficha **[!UICONTROL Programar]** se confirmará que la campaña inteligente se ha definido como &quot;Activar&quot;.
+Al hacer clic en la pestaña **[!UICONTROL Schedule]** se confirmará que la campaña inteligente está configurada como &quot;Déclencheur&quot;.
 
 ![Imagen Cuatro](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Activar Campañas inteligentes**
+**Campañas inteligentes de déclencheur**
 
 * No se puede programar para recurrencias. Solo se pueden configurar como activas o inactivas.
-* Puede configurar más de un activador. Sin embargo, si se activa _cualquier_ activador, se ejecutarán las acciones de campaña.
+* Puede configurar más de un déclencheur. Sin embargo, si se activa el déclencheur _any_ , las acciones de campaña se ejecutarán.
 
 >[!TIP]
 >
->Utilice el [registro de actividades](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) para ver qué ha ocurrido paso a paso dentro de sus campañas inteligentes. Puede encontrar el registro de actividades en la última ficha de la página de detalles de una persona.
+>Utilice el [registro de actividad](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) para ver qué ha sucedido paso a paso en las campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.
