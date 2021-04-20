@@ -1,6 +1,6 @@
 ---
-title: evento-programas
-description: Inicio de Programas de evento
+title: event-program
+description: Inicio de Programas de eventos
 translation-type: tm+mt
 source-git-commit: b27c02e79bccb00773462c2d0d9ef18912a13ffe
 workflow-type: tm+mt
@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Programas evento
+# Programas de eventos
 
-* [Configuración de un tapón de Evento](setting-an-event-cap.md)
-* [Configuración de los objetivos de Evento](setting-event-goals.md)
+* [Configuración de un límite de eventos](setting-an-event-cap.md)
+* [Configuración de objetivos de evento](setting-event-goals.md)
