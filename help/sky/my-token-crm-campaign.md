@@ -1,33 +1,33 @@
 ---
-title: my-token-crm-campaña
-description: Mi Campaña Token CRM
+title: my-token-crm-campaign
+description: Mi campaña Token CRM
+exl-id: 1763700c-3de0-41bf-8fef-906b4ba82414
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
-# Mi token: CAMPAÑA CRM
+# Mi token: Campaña CRM
 
 <br> 
 
-A continuación se muestra cómo configurar un token de Campaña de CRM para utilizarlo en las carpetas de programas y campañas.
+A continuación se indica cómo configurar un token de CRM Campaign para utilizarlo en sus programas y carpetas de campaña.
 
 >[!NOTE]
 >
->CAMPAÑA CRM Mis tokens solo están disponibles para integraciones de Salesforce.
+>Mis tokens de CRM Campaign solo están disponibles para integraciones de Salesforce.
 
-1. En la ficha Mis tokens del programa o la carpeta, arrastre un distintivo **[!UICONTROL Campaña de CRM]** al lienzo de tokens locales.
+1. En la pestaña Mis tokens del programa o la carpeta, arrastre un token **[!UICONTROL CRM Campaign]** al lienzo de tokens locales.
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Escriba un nombre para el nuevo token y, a continuación, seleccione una campaña de CRM en el menú desplegable. Haga clic en **[!UICONTROL Guardar]**.
+2. Escriba un nombre para el nuevo token y, a continuación, seleccione una campaña de CRM en la lista desplegable. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen dos](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
 >[!NOTE]
 >
->Este Mi token solo estará disponible si su suscripción tiene una integración CRM.
+>Este token solo estará disponible si su suscripción tiene una integración CRM.
