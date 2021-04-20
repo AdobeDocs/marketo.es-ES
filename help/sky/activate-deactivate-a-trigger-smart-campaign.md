@@ -1,22 +1,22 @@
 ---
-title: activate-deactivate-a-activation-smart-campaña
-description: Activar/desactivar una Campaña inteligente de activador
+title: activate-deactivate-a-déclencheur-smart-campaign
+description: Activación o desactivación de una campaña inteligente de Déclencheur
+exl-id: 5579aad6-42bf-41e2-8baa-a14da14702da
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
+# Activación o desactivación de una campaña inteligente de Déclencheur
 
-# Activar/desactivar una Campaña inteligente de activador
+La activación o desactivación de una campaña inteligente de déclencheur básicamente la está activando o desactivando.
 
-La activación/desactivación de una campaña inteligente de activador básicamente la activa o desactiva.
+## Activación de una campaña de Déclencheur
 
-## Activar una Campaña de activador
-
-1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]**.
+1. En la campaña inteligente, haga clic en la pestaña **[!UICONTROL Schedule]** .
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -30,13 +30,13 @@ La activación/desactivación de una campaña inteligente de activador básicame
 
 >[!CAUTION]
 >
->Asegúrese de que la campaña está lista antes de hacer clic en Activar.
+>Asegúrese de que la campaña esté lista antes de hacer clic en Activar .
 
-A partir de este momento, cualquiera que califique para la lista inteligente irá a través del flujo definido por su campaña inteligente.
+A partir de este momento, cualquier persona que cumpla los requisitos de la lista inteligente pasará por el flujo definido por su campaña inteligente.
 
-## Desactivar una Campaña de activador
+## Desactivación de una campaña de Déclencheur
 
-1. En la campaña inteligente, haga clic en la ficha **[!UICONTROL Programar]**.
+1. En la campaña inteligente, haga clic en la pestaña **[!UICONTROL Schedule]** .
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
@@ -46,4 +46,4 @@ A partir de este momento, cualquiera que califique para la lista inteligente ir�
 
 >[!NOTE]
 >
->Esto impedirá que _personas nuevas_ ingresen al flujo, pero las personas en los pasos de espera o en cualquier otro paso de flujo continuarán moviéndose a través del flujo hasta que termine.
+>Esto detendrá a las _nuevas_ personas que entren en el flujo, pero las personas en los pasos de espera o en cualquier otro paso de flujo seguirán moviéndose por el flujo hasta que termine.
