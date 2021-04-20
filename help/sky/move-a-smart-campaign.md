@@ -1,16 +1,16 @@
 ---
-title: mover una campaña inteligente
-description: Mover una Campaña inteligente
+title: move-a-smart-campaign
+description: Movimiento de una campaña inteligente
+exl-id: e06f188d-1b65-4167-868f-d33fbffb6b74
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-
-# Mover una Campaña inteligente
+# Movimiento de una campaña inteligente
 
 <br> 
 
@@ -24,7 +24,7 @@ Mueva una campaña inteligente a otro programa o carpeta.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-2.png)
 
-1. Elija el Programa o la carpeta de destino.
+1. Elija el programa o la carpeta de destino.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
