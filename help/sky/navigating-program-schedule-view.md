@@ -1,39 +1,39 @@
 ---
-title: navigating-programa-schedule-vista
-description: Navegación por la Vista de Calandario del programa
+title: navigating-program-schedule-view
+description: Navegación por la vista de programación del programa
+exl-id: b921f460-c0f1-49f3-8a6a-6c4c66a0606f
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
-# Navegación por la Vista de Calandario del programa
+# Navegación por la vista de programación del programa
 
 <br> 
 
-Aquí se describen los conceptos básicos para ayudarle a navegar por la vista de calandario del programa.
+Estos son los conceptos básicos para ayudarle a navegar por la vista de programación del programa.
 
-## Buscar la Vista Programar
+## Buscar la vista de programación
 
-Seleccione el programa del árbol. En la ficha [!UICONTROL Detalles], haga clic en [!UICONTROL Programar].
+Seleccione el programa en el árbol. En la pestaña [!UICONTROL Details], haga clic en [!UICONTROL Schedule].
 
 ![Imagen uno](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
-## Cambiar Vistas
+## Cambiar vistas
 
-Puede realizar la vista del calendario por día, semana o mes.
+Puede ver el calendario por día, semana o mes.
 
 ![Imagen dos](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-2.png)
 
-La Agenda muestra todas las entradas de un mes en particular.
+La Agenda le muestra todas las entradas de un mes en particular.
 
 ![Imagen tres](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-3.png)
 
 ## Configuración de vista
 
-En la esquina superior derecha de la vista de calandario del programa, haga clic en [!UICONTROL Configuración de Vista] para filtrar las entradas por [!UICONTROL Tentative], [!UICONTROL Confirmed] y/o [!UICONTROL Finalizado].
+En la esquina superior derecha de la vista de programación del programa, haga clic en [!UICONTROL Ver configuración] para filtrar las entradas por [!UICONTROL Tentative], [!UICONTROL Confirmed] o [!UICONTROL Finished].
 
 ![Imagen Cuatro](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
