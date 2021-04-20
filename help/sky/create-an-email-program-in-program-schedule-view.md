@@ -1,34 +1,34 @@
 ---
-title: create-an-email-programa-en-programa-programación-vista
-description: Creación de un Programa de correo electrónico en la Vista de Calandario del programa
+title: create-an-email-program-in-program-schedule-view
+description: Crear un programa de correo electrónico en la vista de programación del programa
+exl-id: f3538412-8ece-411c-a1ac-6c082088190a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
-# Creación de un Programa de correo electrónico en la Vista de Calandario del programa
+# Crear un programa de correo electrónico en la vista de programación del programa
 
 <br> 
 
-Puede crear nuevos programas de correo electrónico directamente en la vista de calandario del programa.
+Puede crear nuevos programas de correo electrónico directamente en la vista de programación del programa.
 
-1. Seleccione el programa en el árbol y, a continuación, vaya a la ficha **[!UICONTROL Programar]** en **[!UICONTROL Información general]**.
+1. Seleccione el programa en el árbol y vaya a la pestaña **[!UICONTROL Schedule]** en **[!UICONTROL Overview]**.
 
    ![Imagen uno](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. Pase el ratón sobre el día en el que desee agregar una entrada y haga clic en **[!UICONTROL Añadir]**.
+1. Pase el ratón sobre el día en el que desee agregar una entrada y luego haga clic en **[!UICONTROL Agregar]**.
 
    ![Imagen dos](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
    >[!NOTE]
    >
-   >También puede seguir pasos similares para crear un programa de correo electrónico a partir de las vistas Día, Semana o Agenda.
+   >También puede seguir pasos similares para crear un programa de correo electrónico desde las vistas Día, Semana o Agenda.
 
-1. Escriba un nombre para la nueva campaña inteligente y luego cambie **[!UICONTROL Tipo]** a [!UICONTROL Programa de correo electrónico]. También puede modificar la **[!UICONTROL Fecha de Inicio]** y desmarcar **[!UICONTROL Abrir en la Vista del programa]** si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un nombre para la nueva campaña inteligente y cambie **[!UICONTROL Tipo]** a [!UICONTROL Programa de correo electrónico]. También puede modificar la **[!UICONTROL Fecha de inicio]** y desmarcar **[!UICONTROL Abrir en vista de programa]** si desea permanecer en el calendario después de crear la entrada. Haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen tres](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -36,10 +36,10 @@ Puede crear nuevos programas de correo electrónico directamente en la vista de 
 
    ![Imagen Cuatro](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-4.png)
 
-...o haga clic para abrir la ventana del editor.
+...o haga clic en para abrir la ventana del editor.
 
 ![Imagen cinco](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-5.png)
 
 >[!NOTE]
 >
->Puede crear programas de correo electrónico dentro de la vista de calandario del programa en [!DNL Marketo Sky], pero la configuración de programa real estará en [!DNL Marketo Classic].
+>Puede crear programas de correo electrónico dentro de la vista de programación del programa en [!DNL Marketo Sky], pero la configuración real del programa estará en [!DNL Marketo Classic].
