@@ -1,16 +1,16 @@
 ---
-title: archive-unarchive-a-campaña-folder
-description: 'Archivar/desarchivar una carpeta de Campaña '
+title: archive-unarchive-a-campaign-folder
+description: Archivar/desarchivar una carpeta de campaña
+exl-id: eaf688da-2f85-4019-9103-a763438f4892
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-
-# Archivar/desarchivar una carpeta de Campaña
+# Archivar/desarchivar una carpeta de campaña
 
 ## Convertir en carpeta de archivo
 
@@ -39,20 +39,20 @@ Una vez archivada una carpeta, su icono cambiará a un archivador de archivos, c
 >
 Las siguientes funcionalidades no cambian al archivar:
 >
->* La búsqueda global aún encuentra resultados en carpetas archivadas.
+>* La búsqueda global todavía encuentra resultados en carpetas archivadas.
 >* Un recurso que está en uso seguirá funcionando incluso después de
    >archivada.
 >* Puede utilizar un filtro para seleccionar recursos archivados y utilizarlos en
    >informes.
->* Los recursos archivados no se desactivan. También deben
-   >se desactiva si desea que dejen de ejecutarse.
+>* Los recursos archivados no están desactivados. También deben
+   >desactivado si desea que dejen de ejecutarse.
 
 >
 
 
 
-## Convertir en carpeta de Campaña
+## Convertir en carpeta de campaña
 
-Para volver a convertir una carpeta de archivo a una carpeta de campaña, haga clic con el botón derecho en la carpeta de archivo y seleccione la carpeta de campaña en la lista desplegable. El icono volverá al icono de la carpeta normal.
+Para volver a convertir una carpeta de archivo en una carpeta de campaña, simplemente haga clic con el botón derecho en la carpeta de archivo y seleccione la carpeta de campaña en la lista desplegable. El icono vuelve al icono de carpeta normal.
 
 ![Imagen tres](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-3.png)
