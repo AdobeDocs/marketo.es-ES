@@ -1,34 +1,34 @@
 ---
-title: evento-configuración-objetivos
-description: Cómo configurar los objetivos de Evento
+title: setting-event-targets
+description: Configuración de objetivos de evento
+exl-id: ab0a32ff-8bec-4309-890a-18a69d0902d6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
-# Configuración de los objetivos de Evento
+# Configuración de objetivos de evento
 
 <br> 
 
-Proporcione a sus eventos objetivos específicos y vea cómo funcionan.
+Asigne objetivos específicos a los eventos y vea cómo funcionan.
 
 >[!IMPORTANT]
->No todos los clientes han adquirido esta función. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
+>No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
 
-1. Cree un programa de evento.
+1. Cree un programa de eventos.
 
    ![Imagen uno](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. Asigne a su evento un [!UICONTROL Nombre], seleccione la carpeta [!UICONTROL Destino] y [!UICONTROL Canal].
+1. Asigne un [!UICONTROL Nombre] al evento, seleccione la carpeta [!UICONTROL Destino] y [!UICONTROL Canal].
 
    ![Imagen dos](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Escriba el objetivo para [!UICONTROL Registrados] y [!UICONTROL Asistidos], luego haga clic en **[!UICONTROL Crear]** ([!UICONTROL Descripción] y [!UICONTROL Etiquetas] son opcionales).
+1. Introduzca el objetivo para [!UICONTROL Registered] y [!UICONTROL Attended], luego haga clic en **[!UICONTROL Create]** ([!UICONTROL Description] y [!UICONTROL Labels] son opcionales).
 
    ![Imagen uno](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-¡Y eso es todo! Compruebe el estado del objetivo de evento haciendo clic en la ficha [!UICONTROL Informes].
+¡Y eso es todo! Compruebe el estado del objetivo del evento haciendo clic en la pestaña [!UICONTROL Reports].
