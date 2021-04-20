@@ -1,22 +1,22 @@
 ---
-title: create-a-campaña-folder
-description: Creación de una carpeta de Campaña
+title: create-a-campaign-folder
+description: Crear una carpeta de campaña
+exl-id: b6687385-2f45-4946-98d2-88138e1e2875
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
-# Creación de una carpeta de Campaña
+# Crear una carpeta de campaña
 
 <br> 
 
-Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y irá camino a la magia de la automatización.
+Las carpetas de campañas ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y se dirigirá a la magia de la automatización.
 
-1. Haga clic con el botón derecho en el globo del espacio de trabajo o en una carpeta existente y seleccione **[!UICONTROL Nueva carpeta de campaña]**.
+1. Haga clic con el botón derecho en el espacio de trabajo o en una carpeta existente y seleccione **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![Imagen uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -24,7 +24,7 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![Imagen uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. De forma opcional, puede agregar una descripción o agregar etiquetas a la carpeta de campañas. Si va a crear la carpeta de campañas dentro de una carpeta existente, también puede copiar las etiquetas del recurso principal. Haga clic en **[!UICONTROL Crear]**.
+1. Opcionalmente, puede agregar una descripción o agregar etiquetas a la carpeta de campañas. Si está creando la carpeta de campaña dentro de una carpeta existente, también puede copiar las etiquetas del recurso principal. Haga clic en **[!UICONTROL Crear]**.
 
    ![Imagen uno](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
