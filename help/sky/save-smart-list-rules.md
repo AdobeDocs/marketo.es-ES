@@ -1,38 +1,38 @@
 ---
-title: save-smart-lista-rules
-description: Guardar reglas de Lista inteligentes
+title: save-smart-list-rules
+description: Guardar reglas de listas inteligentes
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
-# Guardar reglas de Lista inteligentes
+# Guardar reglas de listas inteligentes
 
 <br> 
 
-Guardar reglas de lista inteligentes es una manera buena de ahorrarse un tiempo valioso.
+Guardar reglas de listas inteligentes es una buena manera de ahorrarse un tiempo valioso.
 
-## Guardar reglas de Lista inteligente
+## Guardar reglas de listas inteligentes
 
-1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente (o cree una nueva).
+1. En [!UICONTROL Marketing Activities], seleccione la campaña inteligente (o cree una nueva).
 
    ![Imagen uno](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Haga clic en **[!UICONTROL Lista inteligente]**.
+1. Haga clic en **[!UICONTROL Smart List]**.
 
    ![Imagen dos](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
-1. Añada los filtros o activadores deseados.
+1. Añada los filtros o déclencheur que desee.
 
    ![Imagen tres](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-3.png)
 
    ![Imagen Cuatro](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Cuando termine de agregar filtros/activadores, haga clic en la lista desplegable **[!UICONTROL Acciones de Campaña inteligente]** y seleccione **[!UICONTROL Guardar regla de Lista inteligente]**.
+1. Cuando haya terminado de agregar filtros/déclencheur, haga clic en la lista desplegable **[!UICONTROL Acciones de campaña inteligente]** y seleccione **[!UICONTROL Guardar regla de lista inteligente]**.
 
    ![Imagen cinco](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
@@ -40,30 +40,30 @@ Guardar reglas de lista inteligentes es una manera buena de ahorrarse un tiempo 
 
    ![Imagen seis](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
-¡Y eso es todo! La próxima vez que cree una campaña inteligente, tendrá acceso al mismo conjunto exacto de reglas. De hecho, hagámoslo ahora...
+¡Y eso es todo! La próxima vez que cree una campaña inteligente, tendrá acceso al mismo conjunto exacto de reglas. De hecho, hagamos eso ahora...
 
-## Uso de las reglas de Lista inteligente guardadas
+## Uso de reglas de listas inteligentes guardadas
 
-1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente (o cree una nueva).
+1. En [!UICONTROL Marketing Activities], seleccione la campaña inteligente (o cree una nueva).
 
-   ![Imagen siete](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
+   ![Image Seven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Haga clic en **[!UICONTROL Lista inteligente]**.
+1. Haga clic en **[!UICONTROL Smart List]**.
 
    ![Imagen ocho](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Haga clic en la lista desplegable **[!UICONTROL Regla guardada]**.
+1. Haga clic en la lista desplegable **[!UICONTROL Save Rule]**.
 
    ![Imagen nueve](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
-1. Seleccione y arrastre el ratón sobre la regla que desee.
+1. Seleccione y arrastre la regla que desee.
 
    ![Imagen Diez](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-10.png)
 
-1. La lista inteligente se rellena automáticamente con el mismo conjunto de reglas. Simplemente siga el resto de los pasos habituales de campaña inteligente después de eso.
+1. La lista inteligente se rellena automáticamente con el mismo conjunto de reglas. Simplemente siga el resto de los pasos habituales de la campaña inteligente después de eso.
 
-   ![Imagen once](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-11.png)
+   ![Eleven de imagen](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-11.png)
 
 >[!CAUTION]
 >
->Al pasar sobre una regla, no se reemplazará ningún activador o filtros existente, sino que se les agregará.
+>Al pasar el ratón sobre una regla, no se reemplazarán los déclencheur o filtros existentes, sino que se les agregará.
