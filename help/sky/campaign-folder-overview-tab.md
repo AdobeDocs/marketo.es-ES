@@ -1,24 +1,24 @@
 ---
-title: campaña-carpeta-información general-ficha
-description: Ficha Información general de la carpeta de campaña
+title: campaign-folder-overview-tab
+description: Pestaña Información general de la carpeta de campaña
+exl-id: 3098658d-1345-4974-a81c-1b639af02b62
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-
 # Carpeta de campaña: Ficha Información general
 
-Hay dos secciones debajo de la ficha Carpeta de campaña [!UICONTROL Información general]: **[!UICONTROL Detalles]** y **[!UICONTROL Informes]**.
+Hay dos secciones en la carpeta de campaña [!UICONTROL Información general] pestaña: **[!UICONTROL Detalles]** y **[!UICONTROL Informes]**.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
 [!UICONTROL ## Detalles]
 
-La página principal [!UICONTROL Detalles] muestra información general sobre la carpeta de campañas.
+La página principal [!UICONTROL Details] muestra información general sobre la carpeta de la campaña.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
@@ -28,7 +28,7 @@ Haga clic en la lista desplegable Acciones de carpeta en la parte superior derec
 
 [!UICONTROL ## Informes]
 
-En la sección [!UICONTROL Informes], puede encontrar información clave sobre las diferentes campañas de la carpeta.
+En la sección [!UICONTROL Informes], puede encontrar información clave sobre las diferentes campañas dentro de la carpeta.
 
 ![Imagen uno](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
