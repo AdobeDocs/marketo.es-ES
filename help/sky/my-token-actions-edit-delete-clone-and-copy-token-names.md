@@ -1,50 +1,50 @@
 ---
 title: my-token-actions-edit-delete-clone-and-copy-token-names
-description: 'Mis acciones de token: editar, eliminar, clonar y copiar nombres de token'
+description: 'Mis acciones de tokens: editar, eliminar, clonar y copiar nombres de tokens'
+exl-id: 5ef1ac8b-a7a3-4106-a72f-ce6de8b1bc0d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
 # Mis acciones de token: Editar, eliminar, clonar y copiar nombres de tokens
 
 ## Editar un token
 
-En la ficha [!UICONTROL Mis tokens] de la carpeta o programa de campaña, haga clic en el **[!UICONTROL valor]** del token que desee editar. Se abrirá la ventana del editor.
+En la pestaña [!UICONTROL My Tokens] de la carpeta o el programa de la campaña, haga clic en el **[!UICONTROL Value]** del token que desea editar. Se abrirá la ventana del editor.
 
 ![Imagen uno](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Los tokens de texto no tienen una ventana de editor independiente. Haga clic en el **[!UICONTROL Valor]** para realizar ediciones en línea.
+>Los tokens de texto no tienen una ventana de editor independiente. Haga clic en **[!UICONTROL Value]** para realizar ediciones en línea.
 
 ![Imagen dos](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## Eliminar un token
 
-1. Haga clic con el botón secundario en el token y, a continuación, seleccione **[!UICONTROL Eliminar]**.
+1. Haga clic con el botón derecho en el token y seleccione **[!UICONTROL Delete]**.
 
    ![Imagen tres](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Haga clic en **[!UICONTROL Confirmar]**.
+1. Haga clic en **[!UICONTROL Confirm]**.
 
    ![Imagen Cuatro](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
 >[!NOTE]
 >
->Los tokens que se están utilizando actualmente en los recursos no se pueden eliminar. Si intenta eliminarlos, aparecerá un mensaje de error que indica la lista en la que se está utilizando el token. Quite el token de estos recursos e intente eliminarlo de nuevo.
+>Mis tokens que se están utilizando actualmente en los recursos no se pueden eliminar. Si intenta eliminarlos, recibirá un mensaje de error que indica dónde se está utilizando el token. Elimine el token de estos recursos e intente eliminarlo de nuevo.
 
 ## Clonar un token
 
-1. Para clonar un Mi token, haga clic con el botón derecho en él y seleccione **[!UICONTROL Clonar]**.
+1. Para clonar un token My, haga clic con el botón derecho en él y seleccione **[!UICONTROL Clone]**.
 
    ![Imagen cinco](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. Escriba un nombre nuevo para el token de clon, realice las modificaciones necesarias y haga clic en **[!UICONTROL Guardar]**.
+1. Escriba un nombre nuevo para el token de clon, realice ediciones si es necesario y haga clic en **[!UICONTROL Guardar]**.
 
    ![Imagen seis](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
@@ -52,4 +52,4 @@ En la ficha [!UICONTROL Mis tokens] de la carpeta o programa de campaña, haga c
 
 Para copiar el nombre de un token en el portapapeles (es decir, `{{my.Event Calendar File}}`), haga clic con el botón derecho en el token y seleccione **Copiar nombre del token**.
 
-![Imagen siete](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
+![Image Seven](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
