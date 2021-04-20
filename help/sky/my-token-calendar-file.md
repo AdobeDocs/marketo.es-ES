@@ -1,26 +1,26 @@
 ---
 title: my-token-calendar-file
-description: Mi archivo de calendario de tokens
+description: Mi archivo del calendario de tokens
+exl-id: af3c1419-65ab-462d-be04-2193b76f3982
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-
 # Mi token: Archivo de calendario
 
 <br> 
 
-Un token [!UICONTROL Archivo de calendario] le permite agregar un vínculo de evento de calendario (.ics) a sus correos electrónicos y páginas de aterrizaje de marketing. A continuación se explica cómo configurar una para utilizarla en las carpetas de programas y campañas.
+Un token [!UICONTROL Calendar File] permite agregar un vínculo de evento de calendario (.ics) a los correos electrónicos y las páginas de aterrizaje de Marketo. A continuación se indica cómo configurar una para usarla en los programas y carpetas de campañas.
 
-1. En la ficha [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **[!UICONTROL Archivo de calendario]** al lienzo [!UICONTROL Tokens locales].
+1. En la pestaña [!UICONTROL Mis tokens] de su programa o carpeta, arrastre un token **[!UICONTROL Archivo de calendario]** al lienzo [!UICONTROL Tokens locales].
 
    ![Imagen uno](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
-1. Escriba un nombre para el token de archivo de calendario y, a continuación, escriba un asunto y una ubicación.
+1. Escriba un nombre para el token de archivo del calendario e introduzca un asunto y una ubicación.
 
    ![Imagen dos](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-2.jpg)
 
