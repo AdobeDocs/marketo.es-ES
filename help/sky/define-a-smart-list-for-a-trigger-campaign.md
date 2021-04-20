@@ -1,34 +1,34 @@
 ---
-title: define-una-lista-inteligente-para-una-campaña-desencadenadora
-description: Definir una Lista inteligente para una Campaña de activador
+title: define-a-smart-list-for-a-déclencheur-campaign
+description: Definición de una lista inteligente para una campaña de Déclencheur
+exl-id: d5231df9-2b5b-40cc-b4f3-a43100abdc1e
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
-# Definir una Lista inteligente para una Campaña de activador
+# Definición de una lista inteligente para una campaña de Déclencheur
 
 <br> 
 
-Haga que una campaña inteligente se ejecute en una persona a la vez en función de los eventos en directo agregando activadores.
+Haga que una campaña inteligente se ejecute en una persona a la vez según los eventos en directo añadiendo déclencheur.
 
-1. Elija una campaña inteligente y haga clic en **[!UICONTROL Lista inteligente]**.
+1. Elija una campaña inteligente y haga clic en **[!UICONTROL Smart List]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
-1. Busque el activador y, a continuación, arrástrelo y suéltelo en el lienzo.
+1. Busque el déclencheur y, a continuación, arrástrelo y suéltelo en el lienzo.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-2.png)
 
    >[!NOTE]
    >
-   >Una campaña inteligente con activadores se ejecuta en el modo Activador. Funciona de una persona a la vez en función de los eventos activados y de cualquier filtros adicional.
+   >Una campaña inteligente con déclencheur se ejecuta en modo de Déclencheur. Se ejecuta de una persona a la vez en función de los eventos activados y los filtros adicionales.
 
-1. Haga clic en la lista desplegable y elija un operador (p. ej. **[!UICONTROL is]**, **[!UICONTROL no es]**, etc.) para el activador seleccionado.
+1. Haga clic en la lista desplegable y seleccione un operador (por ejemplo, **[!UICONTROL es]**, **[!UICONTROL no es]**, etc.) por el déclencheur que has elegido.
 
    ![Imagen tres](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
@@ -38,14 +38,14 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 
    >[!TIP]
    >
-   >En una campaña inteligente con activadores y filtros, los activadores van en la parte superior y, cuando se activan, solo las personas que cumplen los criterios del filtro atraviesan el flujo.
+   >En una campaña inteligente con déclencheur y filtros, los déclencheur van en la parte superior y, cuando se activan, solo las personas que satisfacen los criterios de filtro pasan por el flujo.
 
-1. Defina el activador.
+1. Defina el déclencheur.
 
    ![Imagen Cuatro](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-4.png)
 
 >[!NOTE]
 >
->Con varios activadores, una persona pasa por el flujo si ALGUNO de los activadores está activado.
+>Con varios déclencheur, una persona pasa por el flujo si se activa CUALQUIERA de los déclencheur.
 >
->Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir Lista inteligente para Campaña inteligente | Lote](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definir lista inteligente para campaña inteligente | Lote](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
