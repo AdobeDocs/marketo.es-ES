@@ -1,30 +1,30 @@
 ---
-title: add-a-flow-step-to-a-smart-campaña
-description: Añadir un paso de flujo en una Campaña inteligente
+title: add-a-flow-step-to-a-smart-campaign
+description: Adición de un paso de flujo a una campaña inteligente
+exl-id: 4f8fbe72-0471-41e1-9ef6-156a21fadb6e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
+# Adición de un paso de flujo a una campaña inteligente
 
-# Añadir un paso de flujo en una Campaña inteligente
+Los pasos de flujo le indican a Marketo lo que desea que le pase a un grupo de personas que cumplen los requisitos.
 
-Los pasos de flujo indican a Marketing Cloud lo que quiere que le suceda a un grupo de personas que califican.
+## Adición de un paso de flujo
 
-## Añadir un paso de flujo
-
-1. En [!UICONTROL Actividades de marketing], seleccione la campaña inteligente y haga clic en **[!UICONTROL Flujo]**.
+1. En [!UICONTROL Marketing Activities], seleccione la campaña inteligente y haga clic en **[!UICONTROL Flujo]**.
 
    ![Imagen uno](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Escriba para buscar un paso de flujo, luego arrástrelo y suéltelo en el lienzo. Repita el procedimiento para varios pasos de flujo.
+1. Escriba para buscar un paso de flujo y arrástrelo y suéltelo al lienzo. Repita el proceso para varios pasos de flujo.
 
    ![Imagen dos](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-2.png)
 
-**Buceo profundo**
+**Análisis profundo**
 
 Obtenga más información sobre los diferentes [pasos de flujo](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
@@ -38,7 +38,7 @@ Obtenga más información sobre los diferentes [pasos de flujo](https://docs.mar
 
 **Recordatorio**
 
-Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reordene los ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) pasos de flujo para asegurarse de que están en la secuencia correcta.
+Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reordene los ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) pasos de flujo para asegurarse de que se encuentran en la secuencia correcta.
 
 >[!TIP]
 >
@@ -48,7 +48,7 @@ Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reorden
 
 ## Reordenar pasos de flujo
 
-1. Aquí está el pedido original. Arrastre y suelte un flujo sobre el otro.
+1. Aquí está el orden original. Arrastre y suelte un flujo sobre el otro.
 
    ![Imagen cinco](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-5.png)
 
@@ -58,4 +58,4 @@ Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reorden
 
 1. Ahora, los flujos han invertido las posiciones.
 
-   ![Imagen siete](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-7.png)
+   ![Image Seven](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-7.png)
