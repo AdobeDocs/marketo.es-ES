@@ -1,28 +1,28 @@
 ---
-title: archive-a-programa
-description: Archivar un Programa
+title: archive-a-program
+description: Archivar un programa
+exl-id: 35e456d1-4a0a-4526-828f-bad434c5137c
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
-# Archivar un Programa
+# Archivar un programa
 
 Para archivar un programa, deberá moverlo a una carpeta de archivo independiente.
 
-1. Cree una nueva carpeta de campaña haciendo clic con el botón derecho en el globo de trabajo y seleccionando **[!UICONTROL Nueva carpeta de campaña]**.
+1. Para crear una nueva carpeta de campaña, haga clic con el botón derecho en el globo terráqueo del lugar de trabajo y seleccione **[!UICONTROL Nueva carpeta de campaña]**.
 
    ![Imagen uno](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Escriba un nombre para la nueva carpeta y, a continuación, agregue una descripción opcional. Haga clic en **[!UICONTROL Crear]**.
+1. Introduzca un nombre para la nueva carpeta y, a continuación, añada una descripción opcional. Haga clic en **[!UICONTROL Crear]**.
 
    ![Imagen dos](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Para archivar un programa, primero agréguelo a la carpeta recién creada haciendo clic con el botón secundario en el árbol y seleccionando **[!UICONTROL Mover]**.
+1. Para archivar un programa, primero agréguelo a la carpeta recién creada haciendo clic con el botón derecho en ella y seleccionando **[!UICONTROL Mover]**.
 
    ![Imagen tres](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
@@ -30,11 +30,11 @@ Para archivar un programa, deberá moverlo a una carpeta de archivo independient
 
    ![Imagen Cuatro](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Convertir en carpeta de archivo]**.
+1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Convertir a carpeta de archivo]**.
 
    ![Imagen cinco](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
-El icono de carpeta cambiará a un archivador de archivos, como se muestra a continuación. Los programas que haya agregado a esta carpeta se archivarán.
+El icono de carpeta cambiará a un archivador de archivos, como se muestra a continuación. Se archivarán todos los programas que haya agregado a esta carpeta.
 
 ![Imagen seis](/help/sky/assets/programs/archive-a-program/archive-a-program-6.png)
 
@@ -49,10 +49,10 @@ El icono de carpeta cambiará a un archivador de archivos, como se muestra a con
 
 >
 >
-Las siguientes funcionalidades **no** cambian al archivar:
+Las siguientes funcionalidades cambian **not** al archivar:
 >
->* La búsqueda global aún encuentra resultados en carpetas archivadas.
+>* La búsqueda global todavía encuentra resultados en carpetas archivadas.
 >* Un recurso que está en uso seguirá funcionando incluso después de archivarlo.
->* Puede utilizar un filtro para seleccionar los recursos archivados y utilizarlos en los informes.
->* Los recursos archivados no se desactivan. También deben desactivarse si desea que dejen de ejecutarse.
+>* Puede utilizar un filtro para seleccionar recursos archivados y utilizarlos en los informes.
+>* Los recursos archivados no están desactivados. También deben desactivarse si desea que dejen de ejecutarse.
 
