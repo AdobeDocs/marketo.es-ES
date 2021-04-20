@@ -1,63 +1,63 @@
 ---
 title: marketing-sky-features
-description: Funciones de Marketo Sky
+description: Características del Marketo Sky
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
-# Funciones de Marketo Sky
+# Características del Marketo Sky
 
 A continuación encontrará lo que está disponible en [!DNL Marketo Sky].
 
 ## Navegación
 
 * Árbol de navegación rediseñado
-   * Filtro de intervalo de fechas
+   * Filtro Intervalo de fechas
    * Contraer todo
-   * Iconografía
+   * Icongrafía
 * Búsqueda global
 * Etiquetas
 
 ## Personalización
 
-* Mis utilidades de marketing
+* Mis utilidades de Marketo
    * Caduca pronto
    * Navegación
-   * Estado del marketing
+   * Estado de Marketo
    * Publicaciones de blog de la comunidad
-* Mis Vistas personalizadas de marketing
+* Mis vistas personalizadas de Marketo
 
 ## Actividades de marketing
 
-* Inicio de Actividades de marketing
-   * Recursos y Programas actualizados recientemente
+* Página de inicio de las actividades de marketing
+   * Programas y recursos actualizados recientemente
    * Programado hoy
-   * Total de Campañas de activador activo
+   * Total de campañas de Déclencheur activo
 * Campañas inteligentes
    * Reglas guardadas
    * Flujos guardados
 * Programas de participación
 * Programas de correo electrónico
-   * Entregar en informes de huso horario de Destinatario
+   * Enviar en los informes de zona horaria del destinatario
 * Programas predeterminados
-* Programas evento
+* Programas de eventos
 * Todos los programas tienen acciones masivas y caducidad de recursos
 * Detalles del espacio de trabajo
 * Carpetas de programa
-* Carpetas de campaña (sin incluir la ficha Resultados)
+* Carpetas de campaña (sin incluir la pestaña Resultados)
 * Páginas de detalles de recursos
    * Correo electrónico
-   * página de aterrizaje
+   * Página de aterrizaje
    * Formulario
    * Lista estática
    * Lista inteligente
 * Tokens
-   * Carpetas de token
+   * Carpetas de tokens
    * Token de vínculo
    * Importar tokens
 
@@ -66,14 +66,14 @@ A continuación encontrará lo que está disponible en [!DNL Marketo Sky].
 * Página principal de Design Studio
    * Recursos recientes
    * Arrastrar y soltar para cargar imágenes y archivos
-* Vistas de lista para recursos
-   * vista de Lista de página de aterrizaje
-   * Vista de Lista de imágenes y archivos
+* Vistas de lista de recursos
+   * Vista de lista de páginas de aterrizaje
+   * Vista de lista de imágenes y archivos
 * Páginas de detalles de recursos
    * Detalles de correo electrónico
-   * Detalles de página de aterrizaje
+   * Detalles de la página de aterrizaje
    * Detalles del formulario
    * Detalles de plantilla de correo electrónico
-   * Detalles de plantilla de página de aterrizaje
+   * Detalles de la plantilla de página de aterrizaje
 * Importación de imágenes
    * Selector de recursos de Adobe Experience Manager en Design Studio
