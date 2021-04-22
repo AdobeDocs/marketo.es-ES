@@ -1,50 +1,50 @@
 ---
 unique-page-id: 2949270
-description: SEO - Utilizar el informe Tendencias de KW de Competidora - Documentos de marketing - Documentación del producto
-title: SEO - Utilizar el informe Tendencias de KW Competidora
+description: SEO - Uso del informe de tendencias de KW de la competencia - Documentos de Marketo - Documentación del producto
+title: 'SEO: usar el informe de tendencias de KW de la competencia'
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
+# SEO: usar el informe de tendencias de KW de la competencia {#seo-use-the-competitor-kw-trends-report}
 
-# SEO - Utilizar el informe Tendencias de KW Competidora {#seo-use-the-competitor-kw-trends-report}
-
-En este informe, puede ver cómo usted y sus competidoras se clasifican en palabras clave con el paso del tiempo.
+En este informe, puede ver cómo se clasifican usted y sus competidores en términos de palabras clave a lo largo del tiempo.
 
 ## Buscar informes {#find-reports}
 
-1. Vaya a **Informes**.
+1. Vaya a **Reports**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Haga clic en **Tendencias de clasificación KW competitivas**.
+1. Haga clic en **Tendencias de clasificación KW competitiva**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
 ## Gráfico de tendencias de clasificación KW {#kw-rank-trends-graph}
 
-Este gráfico muestra el porcentaje de palabras clave que se clasifican en un rango específico y la forma en que se apilan los competidoras.
+Este gráfico puede mostrar qué porcentaje de palabras clave se clasifican en un rango especificado y cómo se apilan sus competidores.
 
 ![](assets/image2014-9-18-14-3a7-3a1.png)
 
 | Elemento | Descripción |
 |---|---|
-| Palabras clave | Cantidad de palabras clave que rastrea. |
-| Direcciones URL de clasificación | El número de direcciones URL en la clasificación del sitio en el intervalo que ha establecido. |
-| % en la clasificación | El porcentaje de palabras clave que clasifican en el intervalo que ha establecido. |
-| Promedio Búsquedas | El número promedio de búsquedas de esas palabras clave que se produjeron durante el intervalo que configuró (en los últimos 30 días, en la búsqueda en Google US) |
+| Palabras clave | El número de palabras clave que está rastreando. |
+| Direcciones URL de clasificación | El número de direcciones URL del sitio que clasifican en el intervalo que ha establecido. |
+| % en rango | El porcentaje de palabras clave de la clasificación en el rango que ha establecido. |
+| Promedio de búsquedas | El número promedio de búsquedas de esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días, en la búsqueda de Google US) |
 
 ## Filtrado de datos {#filtering-data}
 
-1. Haga clic en la lista desplegable y seleccione el período de tiempo deseado.
+1. Haga clic en la lista desplegable y seleccione el período de tiempo que desee.
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Haga clic en la lista desplegable **Clasificación** para elegir el rango de clasificación para el que desee realizar la vista de palabras clave.
+1. Haga clic en la lista desplegable **Rango** para elegir para qué rango desea ver las palabras clave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
@@ -58,4 +58,4 @@ Este gráfico muestra el porcentaje de palabras clave que se clasifican en un ra
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
 
-   ¡A+ trabajo!
+   ¡Trabajo de A+!
