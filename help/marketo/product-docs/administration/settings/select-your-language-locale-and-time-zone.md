@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359904
-description: Seleccione su idioma, configuración regional y zona horaria - Documentos de marketing - Documentación del producto
-title: Seleccione su idioma, configuración regional y huso horario
+description: 'Seleccionar su idioma, configuración regional y zona horaria: documentos de Marketo: documentación del producto'
+title: Seleccione su idioma, configuración regional y zona horaria
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
 # Seleccione su idioma, configuración regional y zona horaria {#select-your-language-locale-and-time-zone}
 
-¿El inglés no es tu primer idioma? No te preocupes, te tenemos cubierto. Aquí se explica cómo cambiar su propio idioma, configuración regional y huso horario.
+¿El inglés no es tu primer idioma? No te preocupes, te tenemos cubierto. Aquí se explica cómo cambiar su propio idioma, configuración regional y zona horaria.
 
 ## Idiomas admitidos {#supported-languages}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 * Portugués
 * Español
 
-## Cambiar el idioma del usuario, la configuración regional y el huso horario {#change-user-language-locale-and-time-zone}
+## Cambiar idioma de usuario, configuración regional y zona horaria {#change-user-language-locale-and-time-zone}
 
 1. Inicie sesión en Marketo y, bajo su nombre, seleccione **Mi cuenta**.
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Cambie su **Huso horario**.
+1. Cambie su **Zona horaria**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
-¡Buen trabajo! El explorador se actualizará y debe ver los cambios reflejados.
+¡Buen trabajo! El explorador se actualizará y debería ver los cambios reflejados.
 
 ![](assets/image2014-9-9-11-3a12-3a2.png)
