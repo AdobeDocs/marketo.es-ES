@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147140
-description: Explicación de las fechas tentativas/confirmadas - Documentos de marketing - Documentación del producto
-title: Explicación de las fechas tentativas/confirmadas
+description: 'Explicación de las fechas Tentativas/Confirmadas: Documentos de Marketo: Documentación del producto'
+title: Explicación de las fechas Tentativas/Confirmadas
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # Explicación de las fechas tentativas/confirmadas {#understanding-tentative-confirmed-dates}
 
-Las campañas inteligentes y los programas de correo electrónico tienen una poderosa capacidad para ser marcados como **Tentative** o **Confirmados**. Así es como funcionan.
+Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para ser marcados como **Tentative** o **Confirmed**. Así es como funcionan.
 
 ## Tentativo {#tentative}
 
-Las fechas tentativas transmiten la intención. Considere esto como algo _que se escribe_ en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
+Las fechas tentativas transmiten la intención. Piense en esto como algo _que se escribe_ en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -27,7 +27,7 @@ Las fechas tentativas transmiten la intención. Considere esto como algo _que se
 
 ## Confirmación de entradas {#confirming-entries}
 
-Es igual que aprobar un recurso, por lo que las entradas deben estar totalmente configuradas para poder confirmarlas. Una vez que todos los patos están en una fila, puede confirmar las entradas deslizando la ficha tentativa a la derecha.
+Esto es igual que aprobar un recurso, por lo que las entradas deben estar completamente configuradas para poder confirmarlas. Una vez que todos los patos están en fila, puede confirmar entradas deslizando la pestaña tentativa a la derecha.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -37,7 +37,7 @@ Es igual que aprobar un recurso, por lo que las entradas deben estar totalmente 
 
 >[!NOTE]
 >
->¿Por qué el perro? Él es un Recuperador. Está buscando tus datos.
+>¿Por qué el perro? Es un Recuperador. Está recuperando sus datos.
 
 ## Confirmado {#confirmed}
 
@@ -45,10 +45,10 @@ Las entradas confirmadas definitivamente se ejecutarán. Tienen reglas, recursos
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Finalizó {#finished}
+## Finalizado {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez ejecutada una entrada y **Finalizada**, no puede moverla ni convertirla en tentativa. (Sin cambiar la realidad ni interrumpir el continuo del flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y está **Finalizada**, no puede moverla ni hacerla tentativa. (Sin cambiar la realidad ni interrumpir el continuo flujo de tiempo).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Estos estados son herramientas poderosas. Al clonar un programa, todas las fechas de programa de correo electrónico y campaña inteligente serán tentativas. Todos ellos pueden confirmarse directamente desde la vista programada. Genial, ¿verdad?
+Estos estados son herramientas poderosas. Cuando clona un programa, todas las fechas de la campaña inteligente y del programa de correo electrónico serán tentativas. Todos se pueden confirmar directamente desde la vista de programación. Genial, ¿verdad?
