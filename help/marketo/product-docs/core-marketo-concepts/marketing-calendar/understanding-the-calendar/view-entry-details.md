@@ -1,28 +1,28 @@
 ---
 unique-page-id: 2953325
-description: Detalles de entrada de vista - Documentos de marketing - Documentación del producto
-title: Detalles de entrada de vista
+description: 'Ver detalles de entrada: Documentos de Marketo: Documentación del producto'
+title: Ver detalles de entrada
+exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
+# Ver detalles de entrada {#view-entry-details}
 
-# Detalles de entrada de vista {#view-entry-details}
-
-Cuando vista los detalles de entrada en el Calendario de mercadotecnia, puede ver todo tipo de cosas interesantes sobre una entrada.
+Cuando vea los detalles de entrada en el Calendario de marketing, puede ver todo tipo de cosas interesantes sobre una entrada.
 
 1. Seleccione una entrada del calendario.
 
    ![](assets/image2014-9-26-10-3a30-3a44.png)
 
-1. Las entradas son de sólo lectura en el Calendario de mercadotecnia. Vaya al programa para realizar modificaciones.
+1. Las entradas son de solo lectura en el Calendario de marketing. Vaya al programa para realizar ediciones.
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
 >[!TIP]
 >
->Intente hacer clic con el botón derecho en los detalles de la derecha. Puede ver menús para desplazarse o mostrar los editores. Bien, ¿verdad?
+>Pruebe haciendo clic con el botón derecho en los detalles de la derecha. Puede ver los menús para navegar o mostrar los editores. Bien, ¿verdad?
