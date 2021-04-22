@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Versiones de complementos de Marketo para Microsoft Dynamics - Marketo Docs - Documentación del producto
+description: 'Versiones de complementos de Marketo para Microsoft Dynamics: Documentos de Marketo: Documentación del producto'
 title: Versiones de complementos de Marketo para Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
 
 ---
 
+# Versiones de complementos de Marketo para Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
-# Versiones del complemento Marketo para Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
-
-Al sincronizar por primera vez con Microsoft Dynamics, se descarga la última versión de los complementos para Marketo. De forma periódica, Marketo actualiza estos complementos, de modo que puede volver al mismo lugar para descargar la nueva versión.
+Al sincronizar por primera vez con Microsoft Dynamics, se descarga la última versión de los complementos para Marketo. Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar y descargar la nueva versión.
 
 [Descargue el último ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) complemento correspondiente a su versión de Dynamics.
 
