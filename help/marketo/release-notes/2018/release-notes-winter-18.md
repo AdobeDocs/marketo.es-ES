@@ -2,24 +2,24 @@
 unique-page-id: 13795395
 description: Notas de la versión - Invierno '18 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '18
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Invierno &#39;18 {#release-notes-winter}
 
-Las siguientes funciones están incluidas en la versión de invierno de 2018. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+Las siguientes funciones están incluidas en la versión de invierno de 2018. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 Haga clic en los vínculos de título para ver los artículos detallados de cada función. **Nota**: Algunas de las funciones incluidas en esta versión no tienen artículos asociados. Si un tema tiene varios subencabezados, los vínculos se colocan allí.
 
 ## Mejoras de rendimiento y rendimiento de campañas {#campaign-performance-and-throughput-enhancements}
 
-Marketo está aprovechando nuestra arquitectura de datos grandes para aumentar el rendimiento de las campañas de déclencheur y mejorar el procesamiento de actividades web, de modo que pueda reaccionar más rápido a las acciones de su audiencia.
+Marketo está aprovechando nuestra arquitectura de grandes datos para aumentar el rendimiento de las campañas de déclencheur y mejorar el procesamiento de actividades web, de modo que pueda reaccionar más rápido a las acciones de su audiencia.
 
 ## Mejoras en la integración de Salesforce CRM de Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
@@ -35,7 +35,7 @@ Estas mejoras se implementarán en 2018.
 
 >[!AVAILABILITY]
 >
->Perspectivas de rendimiento es un producto adicional. Póngase en contacto con el administrador de éxito del cliente de Marketo o con el ejecutivo de cuentas para obtener un presupuesto.
+>Perspectivas de rendimiento es un producto adicional. Póngase en contacto con el administrador de éxito del cliente o el ejecutivo de cuentas de Marketo para obtener un presupuesto.
 
 Explore cómo sus campañas y canales afectan a los resultados empresariales con análisis de atribución, visualizaciones interactivas y una tabla de datos detallada.
 
@@ -65,15 +65,15 @@ Ahora, los scripts de Velocity se admiten en correos electrónicos que utilizan 
 
 Con esta integración, puede enviar una audiencia de Marketo a Google para que sea segmentada mediante Google AdWords, así como redirigir las audiencias a YouTube, Search y Gmail.
 
-**[Mejora de la API de audiencias coincidentes de LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[Mejora de la API de audiencias coincidentes de linkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Nuestra nueva API de LinkedIn ahora le permite volver a dirigirse a personas de la base de datos de Marketo en varias cuentas de LinkedIn Campaign Manager.
+Nuestra nueva API de LinkedIn ahora le permite volver a dirigirse a personas de su base de datos de Marketo en varias cuentas de Administrador de LinkedIn Campaign.
 
 ## Personalización web {#web-personalization}
 
 **Fuente de datos japonesa para la personalización web**
 
-Marketo está agregando una fuente de datos japonesa adicional para la personalización web a fin de mejorar la identificación de visitantes web (búsqueda IP inversa) y la personalización para los visitantes que llegan de Japón. Los nombres de organización se mostrarán en japonés.
+Marketo está agregando una fuente de datos japonesa adicional para la personalización web a fin de mejorar la identificación de visitantes web (búsqueda IP inversa) y la personalización de los visitantes que llegan de Japón. Los nombres de organización se mostrarán en japonés.
 
 **[Creación de un segmento web mediante listas estáticas](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
