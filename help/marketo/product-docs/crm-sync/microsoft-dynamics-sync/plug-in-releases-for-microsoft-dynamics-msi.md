@@ -2,18 +2,18 @@
 unique-page-id: 10099102
 description: Versiones de complementos para Microsoft Dynamics MSI - Marketo Docs - Documentación del producto
 title: Versiones de complementos para Microsoft Dynamics MSI
+exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 4%
 
 ---
 
-
 # Versiones de complementos para Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará la versión más reciente de los complementos para Marketo Sales Insight (MSI). De forma periódica, Marketo actualiza estos complementos, de modo que puede volver al mismo lugar para descargar la nueva versión.
+La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará la última versión de los complementos para Marketo Sales Insight (MSI). Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar y descargar la nueva versión.
 
 [descargue el último complemento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
 
@@ -90,7 +90,7 @@ La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará l
   </tr> 
   <tr> 
    <td colspan="1">28/4/20</td> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">Corrección de errores: Eliminación de la dependencia del vínculo de configuración del mapa del sitio de MSD CRM</td> 
   </tr> 
  </tbody> 
