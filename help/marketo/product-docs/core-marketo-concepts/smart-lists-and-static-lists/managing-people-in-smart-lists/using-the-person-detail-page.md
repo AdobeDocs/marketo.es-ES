@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953415
-description: Uso de la página de detalles de la persona - Marketo Docs - Documentación del producto
+description: 'Uso de la página de detalles de la persona: Marketo Docs: documentación del producto'
 title: Uso de la página de detalles de persona
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
 
 ---
-
 
 # Uso de la página de detalles de persona {#using-the-person-detail-page}
 
@@ -69,7 +69,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Marketo Campos predeterminados antes de la sincronización con CRM {#marketo-default-fields-prior-to-crm-sync}
+## Campos predeterminados de Marketo antes de la sincronización con CRM {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 | Industria | Ciudad vinculada | Empresa vinculada | País afectado | Área metropolitana vinculada |
 | Código de área de teléfono insertado | Código postal adjunto | Región Estado Inferior | Is Anonymous | Is Customer |
 | Es socio | Puesto de trabajo | Apellidos | Clasificación | Puntuación |
-| Fuente de persona | Estado | Teléfono principal | Marketo Social Nombre para mostrar de Facebook | Marketo Social Facebook Id |
-| Marketo Social Photo URL | URL del perfil de Facebook de Marketo Social | Alcance de Marketo Social Facebook | Marketo Social Facebook Inscripciones referidas | Visitas referidas a Marketo Social Facebook |
-| Género de Marketo Social | Marketo Social Última Inscripción Remitida | Marketo Social Última visita referida | Nombre para mostrar de Marketo Social LinkedIn | Marketo Social LinkedIn Id |
-| URL de foto de Marketo Social LinkedIn | URL del perfil de Marketo Social LinkedIn | Alcance de Marketo Social LinkedIn | Marketo Social LinkedIn Menciona inscripciones | Marketo Social LinkedIn Visitas referidas |
-| ID de distribución social de Marketo | Marketo Social Total de inscripciones referidas | Visitas de referencia totales de Marketo Social | Marketo Social Twitter Display Name | Marketo Social Twitter Id |
-| Marketo Social Twitter Photo URL | URL del perfil de Twitter de Marketo Social | Alcance de Marketo Social Twitter | Marketo Social Twitter: inscripciones referidas | Visitas referidas a Marketo Social Twitter |
+| Fuente de persona | Estado | Teléfono principal | Nombre para mostrar de Marketo Social Facebook | Marketo Social Facebook Id |
+| URL de foto de Marketo Social Facebook | URL del perfil de Facebook de Marketo Social | Alcance de Marketo Social Facebook | Inscripciones referidas a Marketo Social Facebook | Visitas referidas a Marketo Social Facebook |
+| Género de Marketo Social | Última inscripción referida de Marketo Social | Última visita referida a Marketo Social | Nombre para mostrar de Marketo Social LinkedIn | Marketo Social LinkedIn Id |
+| URL de foto de Marketo Social LinkedIn | URL del perfil de LinkedIn de Marketo Social | Alcance de Marketo Social LinkedIn | Inscripciones referidas a Marketo Social LinkedIn | Visitas referidas a Marketo Social LinkedIn |
+| Marketo Social Syndication ID | Total de inscripciones referidas a Marketo Social | Visitas de referencia totales de Marketo Social | Nombre para mostrar de Marketo Social Twitter | Marketo Social Twitter Id |
+| URL de foto de Marketo Social Twitter | URL del perfil de Twitter de Marketo Social | Alcance de Marketo Social Twitter | Inscripciones referidas a Marketo Social Twitter | Visitas referidas a Marketo Social Twitter |
 | Segundo nombre | Número de teléfono móvil | Número de empleados | Número de teléfono | Código postal |
 | Prioridad | Puntuación relativa | Función | Saludo | Código SIC |
 | Sitio | Estado | Cancelación de suscripción | Motivo de cancelación de suscripción | Actualizado en |
