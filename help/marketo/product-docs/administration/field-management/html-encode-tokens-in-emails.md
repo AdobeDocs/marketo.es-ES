@@ -1,29 +1,29 @@
 ---
 unique-page-id: 4720461
-description: Tokens de codificación HTML en correos electrónicos - Documentos de marketing - Documentación del producto
-title: Codificar tokens HTML en correos electrónicos
+description: 'Tokens de codificación HTML en correos electrónicos: documentos de Marketo: documentación del producto'
+title: Tokens de codificación HTML en correos electrónicos
+exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# Tokens de codificación HTML en correos electrónicos {#html-encode-tokens-in-emails}
 
-# Codificar tokens HTML en correos electrónicos {#html-encode-tokens-in-emails}
-
-Habilite o deshabilite los tokens de persona y compañía utilizados en los correos electrónicos.
-
->[!NOTE]
->
->**Se requieren permisos de administración**
+Habilite o deshabilite los tokens de persona y empresa que se usan en los correos electrónicos.
 
 >[!NOTE]
 >
->La codificación convierte los caracteres en sus versiones de código HTML para evitar confusiones al transmitirse (p. ej. &quot;&amp;&quot; se cambia a `&amp;`). Para obtener más información, consulte a su desarrollador web.
+>**Se requieren permisos de administrador**
 
-1. Vaya a **Administración**.
+>[!NOTE]
+>
+>La codificación convierte los caracteres en sus versiones de código HTML para evitar confusiones al transmitirse (p. ej. &quot;&amp;&quot; se cambia a `&amp;`). Para obtener más información, consulte con su desarrollador web.
+
+1. Vaya a **Admin**.
 
    ![](assets/admin.png)
 
@@ -35,8 +35,8 @@ Habilite o deshabilite los tokens de persona y compañía utilizados en los corr
 
    ![](assets/five.png)
 
-1. Marque la casilla **Codificar tokens de HTML en correos** para habilitar y desmarcar para deshabilitar.
+1. Marque la casilla **HTML Encode Tokens in Emails** para activarlos y desmarque para desactivarlos.
 
    ![](assets/six.png)
 
-   ¡Y eso es todo! Puede hacerlo para tantos campos individuales como desee.
+   ¡Y eso es todo! Puede hacerlo para todos los campos individuales que desee.
