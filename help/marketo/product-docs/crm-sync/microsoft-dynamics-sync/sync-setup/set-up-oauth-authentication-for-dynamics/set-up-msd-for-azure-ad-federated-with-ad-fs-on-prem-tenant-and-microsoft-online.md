@@ -1,14 +1,14 @@
 ---
 description: Configuración de MSD para Azure AD Federated con AD FS On-premim, inquilino y Microsoft Online - Marketo Docs - Documentación del producto
 title: Configuración de MSD para Azure AD Federated con AD FS On-Premim, Tenant y Microsoft Online
+exl-id: b6c10048-d27e-4135-beef-232deddc2984
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
 
 ---
-
 
 # Configurar MSD para Azure AD Federated con AD FS On-premim, inquilino y Microsoft Online {#set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Siga todos los pasos. En el paso 3, introduzca un nombre de aplicación relevante (por ejemplo, &quot;Integración de Marketo&quot;). En Tipos de cuentas compatibles, seleccione Cuenta en este directorio organizativo solamente.
 
-1. Escriba el ID de la aplicación (ClientId). Tendrás que introducirlo más tarde en Marketo.
+1. Escriba el ID de la aplicación (ClientId). Tendrá que introducirlo más adelante en Marketo.
 
 1. Conceda el consentimiento del administrador siguiendo los pasos de [este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md).
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
    ![](assets/set-up-msd-for-azure-ad-federated-4.png)
 
-Marketo se autentica en Azure AD con OAuth mediante la opción de contraseña de propietario de recurso de tipo de concesión ( ROPC). Este escenario necesita la creación de una directiva de Descubrimiento de Dominios para la aplicación específica. Con esta directiva, Azure AD redireccionará la solicitud de autenticación al servicio de federación. Para ello, la sincronización hash de contraseña debe habilitarse en AD Connect. Para obtener más información, consulte [OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
+Marketo se autentica en Azure AD con OAuth mediante las credenciales de contraseña de propietario de recurso de tipo de concesión ( ROPC). Este escenario necesita la creación de una directiva de Descubrimiento de Dominios para la aplicación específica. Con esta directiva, Azure AD redireccionará la solicitud de autenticación al servicio de federación. Para ello, la sincronización hash de contraseña debe habilitarse en AD Connect. Para obtener más información, consulte [OAuth with ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Las referencias adicionales [se pueden encontrar aquí](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
 
 Cuando haya terminado, es hora de **introducir el Secreto e ID de cliente generado por Dynamics CRM en Marketo**.
 
-## Introduzca el Id. de cliente generado y el secreto de Dynamics CRM en Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Introduzca el Id. de cliente y secreto generados por Dynamics CRM en Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 1. En Marketo, haga clic en **Admin**.
 
