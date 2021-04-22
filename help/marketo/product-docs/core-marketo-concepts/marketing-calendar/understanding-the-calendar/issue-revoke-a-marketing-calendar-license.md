@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147255
-description: Emitir/Revocar una licencia de calendario de marketing - Documentos de marketing - Documentación del producto
-title: Emitir o revocar una licencia de calendario de mercadotecnia
+description: 'Emitir/revocar una licencia del calendario de marketing: Documentos de Marketo: Documentación del producto'
+title: Emitir o revocar una licencia del Calendario de mercadotecnia
+exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Emitir/Revocar una licencia de calendario de mercadotecnia {#issue-revoke-a-marketing-calendar-license}
+# Emitir/revocar una licencia del Calendario de mercadotecnia {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-Para utilizar sus [licencias del Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md), debe otorgar licencias a los usuarios que necesiten acceso. Así es como.
+Para utilizar sus asientos de [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md), debe emitir licencias a los usuarios que necesiten acceder. Así es como.
 
-1. Vaya a la sección **Administración**.
+1. Vaya a la sección **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Para utilizar sus [licencias del Calendario de mercadotecnia](/help/marketo/prod
 
    ![](assets/2.png)
 
-1. Seleccione los usuarios y haga clic en **Licencia de emisión.**
+1. Seleccione los usuarios y haga clic en **Publicar licencia.**
 
    >[!TIP]
    >
@@ -43,8 +43,8 @@ Para utilizar sus [licencias del Calendario de mercadotecnia](/help/marketo/prod
 
    ![](assets/4.png)
 
-   ¡Bien hecho! Ver la marca de verificación verde en &#39;¿Calendario?&#39;
+   ¡Bien hecho! Consulte la marca de verificación verde en &quot;¿Calendario?&quot;
 
    ![](assets/5.png)
 
-Increíble - ¡Estás listo para llegar a la programación!
+Awesome - ¡Estás listo para llegar a la programación&#39;!
