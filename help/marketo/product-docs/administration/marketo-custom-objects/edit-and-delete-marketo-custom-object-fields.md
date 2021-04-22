@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
-description: Editar y eliminar campos de objetos personalizados de marketing - Documentos de marketing - Documentación del producto
-title: Editar y eliminar campos de objetos personalizados de marketing
+description: Editar y eliminar campos de objetos personalizados de Marketo - Documentos de Marketo - Documentación del producto
+title: Editar y eliminar campos de objetos personalizados de Marketo
+exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-
-# Editar y eliminar campos de objetos personalizados de marketing {#edit-and-delete-marketo-custom-object-fields}
+# Editar y eliminar campos de objeto personalizados de Marketo {#edit-and-delete-marketo-custom-object-fields}
 
 ## Editar un campo {#edit-a-field}
 
@@ -45,7 +45,7 @@ Cuando ya no necesite un campo en un objeto personalizado, puede eliminarlo.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   Asegúrese de que realmente desea eliminar el campo antes de extraer el déclencheur. Haga clic en **Eliminar**.
+   Asegúrese de que desea eliminar el campo antes de extraer el déclencheur. Haga clic en **Eliminar**.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
@@ -55,4 +55,4 @@ Cuando ya no necesite un campo en un objeto personalizado, puede eliminarlo.
 
    >[!NOTE]
    >
-   >[Añadir campos de objeto personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+   >[Agregar campos de objeto personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
