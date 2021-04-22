@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11378051
-description: Sobrescribir dominio principal para correos electrónicos - Documentos de marketing - Documentación del producto
+description: Sobrescribir dominio principal para correos electrónicos - Documentos de Marketo - Documentación del producto
 title: Sobrescribir dominio principal para correos electrónicos
+exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Sobrescribir dominio principal para correos electrónicos {#overwrite-primary-domain-for-emails}
 
-Puede sobrescribir el dominio de marca principal por correo electrónico. Esto cambiará la marca de los vínculos al enviar el correo electrónico.
+Puede sobrescribir el dominio de marca principal por correo electrónico. Esto cambiará la marca de los vínculos cuando se envíe el correo electrónico.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,4 +29,4 @@ Puede sobrescribir el dominio de marca principal por correo electrónico. Esto c
 
    >[!NOTE]
    >
-   >No todos los usuarios tienen permisos para establecer el dominio de marca por correo electrónico. Póngase en contacto con el administrador si no ve la lista desplegable Dominios de marca.
+   >No todos los usuarios tienen permisos para establecer el dominio de marca por correo electrónico. Póngase en contacto con su administrador si no ve la lista desplegable Dominios de marca .
