@@ -1,44 +1,44 @@
 ---
 unique-page-id: 2360293
-description: Cambiar el nombre de un campo - Documentos de marketing - Documentación del producto
+description: 'Cambio de nombre de un campo: Documentos de Marketo: Documentación del producto'
 title: Cambiar el nombre de un campo
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
 # Cambiar el nombre de un campo {#rename-a-field}
 
 >[!NOTE]
 >
->Puede cambiar el nombre de un campo personalizado en Marketing, pero hay una captura: debe eliminar todo su uso en el sistema antes de hacerlo. Esto incluye formularios, listas inteligentes y campañas inteligentes.
+>Puede cambiar el nombre de un campo personalizado en Marketo, pero hay una captura: debe eliminar todo su uso en el sistema antes de hacerlo. Esto incluye formularios, listas inteligentes y campañas inteligentes.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 1. Vaya a Administración y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
-1. Busque y seleccione el campo cuyo nombre desee cambiar y, a continuación, haga clic en el nombre del campo en el lienzo.
+1. Busque y seleccione el campo cuyo nombre desea cambiar y, a continuación, haga clic en el nombre del campo en el lienzo.
 
    >[!TIP]
    >
-   >Haga clic en el vínculo **Utilizado por** para buscar recursos que hagan referencia a este campo.
+   >Haga clic en el vínculo **Utilizado por** para buscar los recursos que hacen referencia a este campo.
 
    ![](assets/changefieldname.png)
 
-1. Cambie el nombre del campo y haga clic en **Guardar**.
+1. Cambie el nombre del campo y haga clic en **Save**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
-¡Buen trabajo! Ahora sabe cómo cambiar el nombre de los campos en el menú de marketing.
+¡Buen trabajo! Ahora sabe cómo cambiar el nombre de los campos en Marketo.
 
 >[!CAUTION]
 >
->Si cambia el nombre de la API en Salesforce, Marketo creará un nuevo campo y dejará el antiguo atrás.
+>Si cambia el nombre de la API en Salesforce, Marketo creará un campo completamente nuevo y dejará el antiguo atrás.
