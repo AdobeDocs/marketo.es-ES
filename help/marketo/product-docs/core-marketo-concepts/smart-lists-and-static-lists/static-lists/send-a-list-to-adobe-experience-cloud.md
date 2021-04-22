@@ -2,14 +2,14 @@
 unique-page-id: 37356194
 description: Envío de una lista a Adobe Experience Cloud - Marketo Docs - Documentación del producto
 title: Enviar una lista a Adobe Experience Cloud
+exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 0%
 
 ---
-
 
 # Enviar una lista a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
@@ -60,7 +60,7 @@ Una lista estática es simplemente eso, estática. No se producirán cambios en 
 
 ## Cómo enviar una lista sincronizada {#how-to-send-a-synced-list}
 
-Sincronizar una lista significa que, cada vez que se actualiza una lista en Marketo, el cambio se sincroniza automáticamente con su audiencia en Adobe Experience Cloud.
+La sincronización de una lista significa que, cada vez que actualice una lista en Marketo, esta se sincroniza automáticamente con su audiencia en Adobe Experience Cloud.
 
 1. En Marketo, busque y seleccione la lista que desee sincronizar.
 
@@ -86,7 +86,7 @@ Sincronizar una lista significa que, cada vez que se actualiza una lista en Mark
 
 Puede impedir que la lista se sincronice en cualquier momento.
 
-1. En Marketo, busque y seleccione la lista que desea detener la sincronización.
+1. En Marketo, busque y seleccione la lista que desee detener la sincronización.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -106,11 +106,11 @@ Puede impedir que la lista se sincronice en cualquier momento.
 
 **Uso compartido con Adobe Analytics**
 
-Para los clientes propietarios tanto de Adobe Audience Manager como de Adobe Analytics, esta integración permitirá compartir audiencias desde Marketo con los grupos de informes de Adobe Analytics, aunque hay algunos pasos de configuración adicionales que se deben seguir en Adobe Audience Manager para habilitarlo. Consulte la documentación de Adobe Audience Manager para obtener más información sobre cómo configurarla: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Para los clientes propietarios tanto de Adobe Audience Manager como de Adobe Analytics, esta integración permitirá compartir audiencias desde Marketo con sus grupos de informes de Adobe Analytics. Sin embargo, hay que realizar algunos pasos adicionales de configuración en Adobe Audience Manager para habilitarlos. Consulte la documentación de Adobe Audience Manager para obtener más información sobre cómo configurarla: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Uso de características para clientes de Adobe Audience Manager**
 
-Al iniciar una exportación de lista en Marketo, verá los siguientes cambios reflejados en su instancia de Adobe Audience Manager:
+Al iniciar una exportación de lista en Marketo, verá los siguientes cambios reflejados en la instancia de Adobe Audience Manager:
 
 * Para todos los posibles clientes de la lista exportada, Marketo escribirá un rasgo utilizando los correos electrónicos con hash de los posibles clientes como identificador entre dispositivos. El nombre del rasgo coincidirá con el nombre de audiencia de destino especificado durante la exportación.
 * Para todos los ECID que Marketo ha logrado coincidir con los posibles clientes de la lista exportada, Marketo escribirá un rasgo utilizando el identificador de dispositivo ECID. El nombre del rasgo coincidirá con el nombre de audiencia de destino especificado durante la exportación.
@@ -118,7 +118,7 @@ Al iniciar una exportación de lista en Marketo, verá los siguientes cambios re
 
 ## Preguntas frecuentes {#faq}
 
-**¿Por qué el tamaño de la lista en Marketo es diferente al de la lista en Adobe?**
+**¿Por qué el tamaño de la lista en Marketo es diferente del de la lista en Adobe?**
 
 En el capó, la integración de audiencias funciona sincronizando las cookies de Marketo Munchkin con la cookie ECID de Adobe correspondiente. Marketo solo puede compartir datos de pertenencia para posibles clientes para los que Marketo haya sincronizado un ECID. Para obtener los mejores resultados posibles, se recomienda cargar el script de seguimiento munchkin.js de Marketo en paralelo con el código de seguimiento visitor.js de Adobe en todas las páginas que le interesen rastrear con fines de marketing.
 
@@ -130,4 +130,4 @@ Se requiere un paso más para asociar el perfil de usuario anónimo a un perfil 
 
 **¿Qué información se comparte?**
 
-Esta integración solo comparte la información de pertenencia a la lista de Marketo a Adobe (por ejemplo, el conocimiento de que Lead X es miembro de List Y). No se comparten en Adobe atributos de posible cliente adicionales mediante esta integración.
+Esta integración solo comparte información de pertenencia a listas de Marketo con Adobe (por ejemplo, el conocimiento de que Lead X es miembro de List Y). No se comparten en Adobe atributos de posible cliente adicionales mediante esta integración.
