@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10098379
-description: Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado - Documentos de marketing - Documentación del producto
-title: Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado
+description: Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado - Documentos de Marketo - Documentación del producto
+title: Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
 
+# Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
-# Usar sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+Marketing o ventas quiere un nuevo campo. O, tal vez olvidó uno en su selección inicial de campo. O bien, sus necesidades han cambiado. En cualquier caso, puede utilizar la sincronización rápida para volver a sincronizar campos específicos.
 
-Marketing o ventas quiere un nuevo campo. O quizás olvidó uno en la selección inicial de campo. O bien, sus necesidades cambiaron. En cualquier caso, puede utilizar la sincronización rápida para resincronizar campos específicos.
+Normalmente, se utiliza la sincronización rápida para agregar un campo nuevo y se actualizan los valores. Sin embargo, hay casos en los que puede que desee sincronizar un campo existente. Puede restringir la sincronización de campos en función de un intervalo de fechas actualizado o creado. Consulte [Opciones de sincronización avanzadas](#Advanced_Sync_Options) a continuación para obtener más información.
 
-Normalmente, usará la sincronización rápida para agregar un nuevo campo y actualizar los valores. Sin embargo, hay casos en los que puede que desee sincronizar un campo existente. Puede restringir la sincronización de campos en función de un intervalo de fechas actualizado o creado. Consulte [Opciones de sincronización avanzadas](#Advanced_Sync_Options) a continuación para obtener más información.
-
-La sincronización rápida puede sincronizar valores nulos. Por ejemplo, si utiliza los valores A y B y cambia un valor B en Dynamics a null, sincronizará el valor nulo con Marketing.
+La sincronización rápida puede sincronizar valores nulos. Por ejemplo, si está utilizando los valores A y B y cambia un valor B en Dynamics a null, sincronizará el valor nulo con Marketo.
 
 ## Sincronización rápida para todos los registros {#quick-sync-for-all-records}
 
 A continuación se explica cómo utilizar la sincronización rápida para volver a sincronizar los campos nuevos.
 
-1. En Marketing, haga clic en **Administración**.
+1. En Marketo, haga clic en **Admin**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,7 +31,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. En Detalles de sincronización de campo, haga clic en **Editar**.
+1. En Detalles de sincronización de campos, haga clic en **Editar**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -49,7 +49,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    >[!CAUTION]
    >
-   >La sincronización se ejecuta en paralelo con otras sincronizaciones y, en función del tamaño de la base de datos, puede tardar mucho tiempo en completarse. Cuando un campo se encuentra en la cola para la sincronización, no se puede anular la selección.
+   >La sincronización se ejecuta en paralelo con otras sincronizaciones y, según el tamaño de la base de datos, puede tardar mucho tiempo en completarse. Cuando un campo está en cola para su sincronización, no se puede anular la selección.
 
 ## Opciones de sincronización avanzadas {#advanced-sync-options}
 
@@ -59,7 +59,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
-1. Vuelva a abrir la ventana emergente y seleccione de nuevo el campo.
+1. Vuelva a abrir la ventana emergente y vuelva a seleccionar el campo .
 
    ![](assets/select-field-reselect-hand.png)
 
@@ -71,13 +71,13 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
-   Solo se sincronizarán rápidamente los registros actualizados entre el 19/8/16 y el 19/9/16 para el campo.
+   Solo los registros actualizados entre el 19/8/16 y el 19/9/16 se sincronizarán rápidamente para el campo.
 
-## Corrección de los campos de sincronización {#fixing-out-of-sync-fields}
+## Corrección de campos de sincronización {#fixing-out-of-sync-fields}
 
-En el caso poco frecuente de que un campo Dinámica y Marketing no estén sincronizados, hay una manera rápida y fácil de resincronizarlos.
+En el improbable caso de que un campo de Dynamics y Marketo no esté sincronizado, hay una forma rápida y sencilla de resincronizarlos.
 
-1. Anule la selección del campo y haga clic en **Guardar**.
+1. Anule la selección del campo y haga clic en **Save**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
