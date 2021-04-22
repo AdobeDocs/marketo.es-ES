@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147027
-description: Sincronizar persona con SFDC - Documentos de marketing - Documentación del producto
+description: Sincronizar persona con SFDC - Marketo Docs - Documentación del producto
 title: Sincronizar persona con SFDC
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Sincronizar persona con SFDC {#sync-person-to-sfdc}
 
 >[!NOTE]
 >
->Sólo disponible cuando se integra con Salesforce.
+>Solo disponible cuando se integra con Salesforce.
 
 ## Información general {#overview}
 
-Este paso de flujo insertará a las personas creadas en el mercado como posibles clientes en Salesforce CRM.
+Este paso de flujo insertará personas creadas por Marketo como posibles clientes en Salesforce CRM.
 
 ![](assets/sync-person-to-sfdc.png)
 
@@ -31,14 +31,14 @@ Este paso de flujo insertará a las personas creadas en el mercado como posibles
 
    >[!TIP]
    >
-   >Salesforce requiere que la persona tenga rellenados los campos Compañía y Apellido. De lo contrario, rechazará el registro de posibles clientes.
+   >Salesforce requiere que la persona tenga rellenados los campos Empresa y Apellido. De lo contrario, rechazará el registro de posibles clientes.
 
-1. Puede establecer un usuario de Salesforce o una cola de posibles clientes específica como propietario principal.
+1. Puede establecer un usuario específico de Salesforce o una cola de posibles clientes como propietario principal.
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   Al utilizar este paso de flujo, la persona se sincroniza inmediatamente como posible cliente de Salesforce y no necesita esperar a la sincronización regular.
+   Al utilizar este paso de flujo, la persona se sincroniza inmediatamente como posible cliente de Salesforce y no necesita esperar a la sincronización normal.
 
    >[!CAUTION]
    >
-   >Salesforce no permite asignar &quot;Contactos&quot; a las colas de posibles clientes. En este caso, Marketing creará un duplicado &quot;Posible cliente&quot; en Salesforce.
+   >Salesforce no permite asignar &quot;Contactos&quot; a las colas de posibles clientes. En este caso, Marketo creará un &quot;posible cliente&quot; duplicado en Salesforce.
