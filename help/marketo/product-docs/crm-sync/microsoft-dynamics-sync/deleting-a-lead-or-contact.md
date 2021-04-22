@@ -1,24 +1,24 @@
 ---
 unique-page-id: 45417322
-description: Eliminación de un posible cliente o contacto - Documentos de marketing - Documentación del producto
+description: 'Eliminación de un posible cliente o contacto: Documentos de Marketo: Documentación del producto'
 title: Eliminación de un posible cliente o contacto
+exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # Eliminación de un posible cliente o contacto {#deleting-a-lead-or-contact}
 
-Hay algunas cosas que saber a la hora de eliminar leads/contactos en Microsoft Dynamics.
+Hay algunas cosas que hay que saber cuando se trata de eliminar posibles clientes o contactos en Microsoft Dynamics.
 
-* Marketing no elimina automáticamente a las personas solo porque se eliminaron los leads en Dynamics. En su lugar, el indicador de campo &quot;Microsoft se elimina&quot; se establece en true. Si lo desea, puede desactivar el déclencheur de este campo para eliminar el registro en Marketing.
+* Marketo no elimina automáticamente a las personas solo porque se eliminaron posibles clientes en Dynamics. En su lugar, el indicador de campo &quot;Microsoft es eliminado&quot; se establece en verdadero. Puede desactivar este campo para eliminar el registro en Marketo si lo desea.
 
-* Acción de flujo &quot;Eliminar persona&quot;: Esto solo elimina a una persona de Marketing (no hay una opción disponible para eliminarlos también en Dynamics).
+* Acción de flujo &quot;Eliminar persona&quot;: Esto solo elimina a una persona en Marketo (una opción para eliminarla también en Dynamics no está disponible).
 
-* Si se elimina un posible cliente en Marketing (pero no en Dynamics) y se actualiza en Dynamics después, se crearía una nueva persona en Marketing (la misma dirección de correo electrónico, el nuevo ID de persona).
+* Si un posible cliente se elimina en Marketo (pero no en Dynamics) y se actualiza en Dynamics después de eso, se crearía una nueva persona en Marketo (misma dirección de correo electrónico, nuevo ID de persona).
 
-* Si se elimina un posible cliente en Dynamics (pero no en Marketing) y luego se ejecuta mediante la acción de flujo &quot;Sincronizar persona con Microsoft&quot;, se crearía un nuevo posible cliente en Dynamics.
+* Si se elimina un posible cliente en Dynamics (pero no en Marketo) y luego se ejecuta a través de la acción de flujo &quot;Sincronizar persona con Microsoft&quot;, se crearía un nuevo posible cliente en Dynamics.
