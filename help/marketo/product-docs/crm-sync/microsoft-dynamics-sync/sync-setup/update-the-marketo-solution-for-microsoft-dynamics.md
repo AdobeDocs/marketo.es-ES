@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6849029
-description: Actualización de la solución Marketo para Microsoft Dynamics - Marketo Docs - Documentación del producto
-title: Actualizar la solución Marketo para Microsoft Dynamics
+description: Actualización de la solución de Marketo para Microsoft Dynamics - Marketo Docs - Documentación del producto
+title: Actualizar la solución de Marketo para Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # Actualizar la solución de Marketo para Microsoft Dynamics {#update-the-marketo-solution-for-microsoft-dynamics}
 
@@ -21,7 +21,7 @@ Cuando se publique una nueva solución de Microsoft Dynamics, podrá descargar l
 
 >[!CAUTION]
 >
->Es imperativo que descargue la última solución de Marketo _antes_ realizando cualquier actualización.
+>Es imperativo que descargue la última solución de Marketo _antes_ de realizar cualquier actualización.
 
 1. Vaya al área **Admin**.
 
