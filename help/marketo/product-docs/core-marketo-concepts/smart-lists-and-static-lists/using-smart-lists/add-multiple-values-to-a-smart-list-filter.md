@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2360496
-description: Añadir varios valores a un filtro de Lista inteligente - Documentos de marketing - Documentación del producto
-title: Añadir varios valores a un filtro de Lista inteligente
+description: 'Añadir varios valores a un filtro de lista inteligente: Documentos de Marketo: Documentación del producto'
+title: Agregar varios valores a un filtro de lista inteligente
+exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# Añadir varios valores a un filtro de Lista inteligente {#add-multiple-values-to-a-smart-list-filter}
+# Agregar varios valores a un filtro de lista inteligente {#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Buscar y Añadir Filtros en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Buscar y agregar filtros a una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 
 Supongamos que desea encontrar a todos en California, pero puede que esté almacenando **California** y **CA** en la base de datos. Para incluir a todas las personas aplicables, puede utilizar dos filtros **State**, pero es más fácil con uno.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Busque y seleccione una lista inteligente y haga clic en la ficha **Lista inteligente**.
+1. Busque y seleccione una lista inteligente y haga clic en la pestaña **Smart List**.
 
    ![](assets/smarlist-choosefilters.png)
 
@@ -33,14 +33,14 @@ Supongamos que desea encontrar a todos en California, pero puede que esté almac
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. Puede elegir los valores de la izquierda o simplemente escribirlos a la derecha y luego hacer clic en **Aceptar**.
+1. Puede elegir los valores de la izquierda o simplemente escribirlos a la derecha y luego hacer clic en **OK**.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
-¡Rápido trabajo!
+¡Trabajo rápido!
 
 >[!MORELIKETHIS]
 >
->* [Añadir una restricción a un filtro de Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Usar Filtros avanzados en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
+>* [Agregar una restricción a un filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Usar filtros avanzados en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
