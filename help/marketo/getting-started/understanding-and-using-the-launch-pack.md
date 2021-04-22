@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10098962
-description: Explicación y uso del paquete de lanzamiento - Documentos de marketing - Documentación del producto
-title: Explicación y uso del paquete de lanzamiento
+description: 'Explicación y uso del Launch Pack: Marketo Docs: Documentación del producto'
+title: Explicación y uso del Launch Pack
 translation-type: tm+mt
 source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 ![](assets/coming-soon.png)
 
-El equipo de docs está trabajando en este artículo.
+El equipo de Docs está trabajando en este artículo.
 
 Prometemos publicarlo en cuanto esté listo.
