@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100311
-description: Uso de un ID universal para el inicio de sesión de suscripción - Marketo Docs - Documentación del producto
+description: 'Uso de un ID universal para el inicio de sesión de suscripción: Documentos de Marketo: Documentación del producto'
 title: Uso de un ID universal para el inicio de sesión de suscripción
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-
 # Uso de un ID universal para el inicio de sesión de suscripción {#using-a-universal-id-for-subscription-login}
 
-Un ID universal le permite acceder a varias suscripciones de Marketo con un solo inicio de sesión y cambiar rápidamente entre suscripciones. Sin embargo, si lo desea, puede usar distintos inicios de sesión para sus suscripciones.
+Un ID universal le permite acceder a varias suscripciones a Marketo con un solo inicio de sesión y cambiar rápidamente entre suscripciones. Sin embargo, si lo desea, puede usar distintos inicios de sesión para sus suscripciones.
 
 Con el ID universal, seguirá creando tickets de asistencia para cada una de sus suscripciones individuales.
 
@@ -21,7 +21,7 @@ La configuración del nivel de suscripción se acepta para los usuarios que util
 
 ## Configuración de un identificador universal {#setting-up-a-universal-id}
 
-Desde cada instancia individual, el administrador de Marketo debe invitarlo a cada una de sus diferentes suscripciones con el mismo inicio de sesión. Marketo no puede combinar automáticamente los inicios de sesión existentes. Una vez que habilite el ID universal, **la instancia de Marketo no estará disponible** durante un máximo de 30 minutos. Si tiene una base de usuarios más grande, podría ser un poco más larga.
+Desde cada instancia individual, el administrador de Marketo debe invitarlo a cada una de las distintas suscripciones con el mismo inicio de sesión. Marketo no puede combinar automáticamente los inicios de sesión existentes. Una vez que habilite el ID universal, **la instancia de Marketo no estará disponible** durante un máximo de 30 minutos. Si tiene una base de usuarios más grande, podría ser un poco más larga.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Desde cada instancia individual, el administrador de Marketo debe invitarlo a ca
 
 ## Inicio de sesión {#logging-in}
 
-Cuando inicie sesión para aceptar una invitación a una segunda suscripción mediante un ID universal, verá la página de inicio de sesión de inclusión. Aquí debe marcar una casilla de verificación para aceptar los términos y condiciones. Cuando haya aceptado, verá la página de restablecimiento normal, no esta, para los inicios de sesión posteriores. Al aceptar los términos y condiciones, se permite a Marketo distribuir los datos básicos de perfil (como el nombre, los apellidos y la dirección de correo electrónico) a los centros de datos en diferentes ubicaciones en las que se aloja la suscripción.
+Cuando inicie sesión para aceptar una invitación a una segunda suscripción mediante un ID universal, verá la página de inicio de sesión de inclusión. Aquí debe marcar una casilla de verificación para aceptar los términos y condiciones. Cuando haya aceptado, verá la página de restablecimiento normal, no esta, para los inicios de sesión posteriores. Al aceptar los términos y las condiciones, se permite a Marketo distribuir los datos básicos de perfil (como el nombre, los apellidos y la dirección de correo electrónico) a los centros de datos en diferentes ubicaciones en las que se aloja la suscripción.
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -65,7 +65,7 @@ Si tiene varias suscripciones, puede tener varios perfiles de comunidad. Le reco
 
 ## Plataforma móvil {#mobile-platform}
 
-Los usuarios con ID universal pueden ver sus datos en Marketo Moments y en la aplicación de registro de eventos para iPad desde la suscripción en la que iniciaron sesión por última vez. No puede cambiar las suscripciones desde la propia plataforma móvil.
+Los usuarios con ID universal pueden ver sus datos en Marketo Moments y en la aplicación de registro de eventos de iPad desde la suscripción en la que iniciaron sesión por última vez. No puede cambiar las suscripciones desde la propia plataforma móvil.
 
 >[!MORELIKETHIS]
 >
