@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10095636
-description: Habilitar el no borrador para fragmentos - Documentos de marketing - Documentación del producto
+description: Habilitar el no borrador para fragmentos - Marketo Docs - Documentación del producto
 title: Activar sin borrador para fragmentos
+exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # Activar sin borrador para fragmentos {#enable-no-draft-for-snippets}
 
-No-Draft para fragmentos le permite distribuir los cambios de fragmentos sin necesidad de crear recursos aprobados con él. Todos los recursos que utilizan el fragmento editado obtienen las actualizaciones y mantienen sus respectivos estados:
+No-Borrador para fragmentos permite distribuir los cambios de fragmento sin crear recursos aprobados utilizándolos. Todos los recursos que utilizan el fragmento editado obtienen las actualizaciones y mantienen sus respectivos estados:
 
-* Los recursos aprobados obtienen las actualizaciones de fragmentos y siguen aprobados
+* Los recursos aprobados obtienen actualizaciones de fragmento y siguen aprobados
 
-* Los borradores obtienen las actualizaciones de fragmentos y permanecen en modo borrador
+* Los borradores reciben las actualizaciones de fragmentos y permanecen en modo borrador
 
-No-Borrador se habilita automáticamente para todas las funciones de administrador. Un administrador puede habilitar esta función para cualquier función adicional.
+No-Borrador está habilitado automáticamente para todas las funciones de administrador. Un administrador puede habilitar esta función para cualquier función adicional.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
+1. Vaya a **Admin** y haga clic en **Usuarios y funciones**.
 
    ![](assets/usersandroles.png)
 
-1. Vaya a la ficha **Roles**, seleccione una función y haga clic en **Editar rol**.
+1. Vaya a la pestaña **Roles**, seleccione una función y haga clic en **Editar función**.
 
    ![](assets/editrole2.png)
 
@@ -47,7 +47,7 @@ No-Borrador se habilita automáticamente para todas las funciones de administrad
 
 >[!TIP]
 >
->Para desactivar Sin borrador, siga los pasos 1 a 4 anteriores, desactive la casilla Sin borrador y haga clic en **Guardar**.
+>Para desactivar Sin borrador, siga los pasos 1-4 anteriores, desactive la casilla Sin borrador y haga clic en **Guardar**.
 
 >[!MORELIKETHIS]
 >
