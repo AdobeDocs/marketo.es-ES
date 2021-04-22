@@ -1,68 +1,68 @@
 ---
 unique-page-id: 11377945
-description: Información general de pista de auditoría - Documentos de marketing - Documentación del producto
+description: Información general sobre la pista de auditoría - Documentos de Marketo - Documentación del producto
 title: Información general de pista de auditoría
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
 # Información general de pista de auditoría {#audit-trail-overview}
 
-La pista de auditoría le permite obtener un historial completo (seis meses) de los cambios realizados en la instancia de Marketing.
+La pista de auditoría le permite obtener un historial completo (seis meses) de los cambios realizados en la instancia de Marketo.
 
 >[!NOTE]
 >
->El historial de datos de seguimiento de auditoría comenzó el 14 de septiembre de 2016.
+>El historial de datos de pistas de auditoría comenzó el 14 de septiembre de 2016.
 
 ![](assets/one.png)
 
 ## ¿Qué es la pista de auditoría {#what-is-audit-trail}
 
-La pista de auditoría captura, en tiempo real, una lista completa de acciones y eventos que se producen dentro de una suscripción de marketing. Incluye una forma de autoservicio de acceder a un historial de datos de seis meses para responder preguntas como:
+La pista de auditoría captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de una suscripción a Marketo. Incluye una forma de autoservicio de acceder a un historial de datos de seis meses para responder preguntas como:
 
-¿Qué ha pasado con este recurso o configuración y quién lo actualizó por última vez?
+¿Qué ha pasado con este recurso o esta configuración y quién la actualizó por última vez?
 
 ¿Qué ha estado haciendo el usuario X?
 
 ¿Quién está iniciando sesión en nuestra cuenta?
 
-## Lo que auditamos {#what-we-audit}
+## Qué auditamos {#what-we-audit}
 
 Marketo auditará las acciones [crear, editar y eliminar](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
 
 * Diseñar recursos de estudio
-* Todos los programas de marketing
+* Todos los programas de Marketo
 * Campañas inteligentes
 * Listas (inteligentes/estáticas)
 * Usuarios (administrador)
-* Funciones y permisos (administrador)
+* Roles y permisos (administrador)
 * Espacio de trabajo y particiones (administrador)
 * Historial de inicio de sesión del usuario
 
 >[!NOTE]
 >
->Marketing es _no_ auditar los cambios realizados en la Personalización Web, el Contenido predictivo o la Perspectiva de ventas en este momento.
+>Marketo está _no_ auditando los cambios realizados en Personalización web, Contenido predictivo o Perspectiva de ventas en este momento.
 
 ## Componentes de pista de auditoría {#audit-trail-components}
 
 La pista de auditoría consta de tres componentes.
 
-**1) Pista de auditoría de  [activos](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1)  [Pista de auditoría de activos](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
-Consulte actividad a recursos específicos.
+Consulte la actividad realizada en recursos específicos.
 
-**2) Seguimiento de auditoría  [del administrador](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
+**2)  [Pista de auditoría de administración](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
-Monitorear los detalles basados en el usuario.
+Monitorice los detalles basados en el usuario.
 
-**3) Historial  [de inicio de sesión del usuario](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) Historial de inicio de sesión del  [usuario](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Ver quién ha estado iniciando sesión en tu suscripción y cuándo. También incluye los intentos fallidos de inicio de sesión.
+Vea quién ha estado iniciando sesión en su suscripción y cuándo. También incluye los intentos de inicio de sesión fallidos.
 
 >[!TIP]
 >
@@ -70,7 +70,7 @@ Ver quién ha estado iniciando sesión en tu suscripción y cuándo. También in
 
 ## Exportación de datos {#exporting-data}
 
-Sólo puede vista de datos de 30 días en su instancia. Para obtener un valor de hasta seis meses, utilice la opción de exportación.
+Solo puede ver los datos correspondientes a 30 días en su instancia. Para obtener un valor máximo de seis meses, utilice la opción de exportación.
 
 ![](assets/two.png)
 
@@ -78,7 +78,7 @@ Sólo puede vista de datos de 30 días en su instancia. Para obtener un valor de
 >
 >**Definición**
 >
->**Desconocido:** En la pista de auditoría, puede ver el nombre y el correo electrónico de un usuario como &quot;Desconocido&quot;. Esto sucede cuando se realizan cambios en los valores de la lista de selección en el CRM. Estos valores aparecen en formularios y páginas de aterrizaje de marketing. Al realizar esta actualización en CRM, se borrarán automáticamente las páginas de aterrizaje que hagan referencia al formulario. En la pista de auditoría, capturaremos que la página de aterrizaje se ha redactado, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que no podemos capturar la información del usuario desde el lado de CRM.
+>**Desconocido:** en la pista de auditoría, es posible que vea el nombre y el correo electrónico de un usuario como &quot;Desconocido&quot;. Esto ocurre cuando realiza un cambio en los valores de la lista de selección en su CRM. Estos valores aparecen en los formularios de Marketo y en las páginas de aterrizaje. Al realizar esta actualización en CRM, se borrarán automáticamente las páginas de aterrizaje que hagan referencia al formulario. En la pista de auditoría, se capturará que la página de aterrizaje se ha redactado, pero el nombre y el correo electrónico del usuario se mostrarán como &quot;Desconocido&quot;, ya que no se puede capturar la información del usuario desde el lado de CRM.
 
 >[!MORELIKETHIS]
 >
