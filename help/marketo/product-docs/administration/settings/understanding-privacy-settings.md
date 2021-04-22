@@ -1,58 +1,58 @@
 ---
 unique-page-id: 10617187
-description: Explicación de la configuración de privacidad - Documentos de marketing - Documentación del producto
-title: Explicación de la configuración de privacidad
+description: 'Explicación de la configuración de privacidad: Documentos de Marketo: Documentación del producto'
+title: Información sobre la configuración de privacidad
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
-
 # Explicación de la configuración de privacidad {#understanding-privacy-settings}
 
 ## Información general {#overview}
 
-Marketing proporciona a los especialistas en mercadotecnia una manera de obtener el consentimiento de los visitantes Web para rastrearlos. Existen dos maneras de exclusión, o puede elegir que se le rastree mediante IP anónima.
+Marketo proporciona a los especialistas en marketing una forma de obtener el consentimiento de los visitantes web para rastrearlos. Existen dos formas de exclusión o puede elegir que se le rastree mediante una IP anónima.
 
-* Los visitantes Web seleccionan la función No rastrear (DNT) en su explorador (y el especialista en mercadotecnia cumple la solicitud del visitante Web de No rastrear)
-* Los visitantes Web utilizan una cookie exclusión proporcionada por un especialista en mercadotecnia en un sitio Web
+* Los visitantes web seleccionan la función No rastrear (DNT) en su navegador (y el especialista en marketing acepta la solicitud del visitante web de No rastrear)
+* Los visitantes web utilizan una cookie de exclusión proporcionada por un especialista en marketing en un sitio web
 
-O bien, el especialista en mercadotecnia puede realizar el seguimiento de los usuarios, pero puede utilizar una IP anónima.
+O bien, el especialista en marketing puede rastrear usuarios, pero usar una IP anónima.
 
-Estos métodos pueden afectar al valor y la funcionalidad de Marketing en áreas específicas. Sin embargo, si el especialista en mercadotecnia *no cambia nada en la configuración de Marketing, la funcionalidad de Marketing sigue siendo la misma.*
+Estos métodos pueden afectar al valor y la funcionalidad de Marketo en áreas específicas. Sin embargo, si el especialista en marketing *no* cambia nada en la configuración de Marketo, la funcionalidad de Marketo sigue siendo la misma.
 
-## Configuración del explorador para no rastrear {#browser-settings-for-do-not-track}
+## Configuración del explorador para No rastrear {#browser-settings-for-do-not-track}
 
-Los visitantes Web pueden configurar su explorador para evitar el seguimiento por cualquier sitio Web seleccionando &quot;No rastrear&quot; (DNT). Esto evita el seguimiento de este navegador y dispositivo en particular. Consulte la configuración de privacidad del explorador para obtener más información.
+Los visitantes web pueden configurar su navegador para evitar el seguimiento por cualquier sitio web eligiendo &quot;No rastrear&quot; (DNT). Esto evita el seguimiento de este navegador y dispositivo en particular. Consulte la configuración de privacidad del explorador para obtener más información.
 
-En Munchkin, un especialista en mercadotecnia puede [decidir si admite o ignora la configuración de DNT del explorador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+En Munchkin, un especialista en marketing puede [decidir si admite o ignora la configuración de DNT del navegador](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
-En Personalización web, un especialista en mercadotecnia puede decidir si [admite o ignora la configuración de DNT del explorador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
+En la personalización web, un especialista en marketing puede decidir si [admite o ignora la configuración de DNT del explorador](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
-## exclusión desde un sitio Web específico {#opt-out-from-a-specific-website}
+## Exclusión de un sitio web específico {#opt-out-from-a-specific-website}
 
-También puede permitir que los visitantes del sitio exclusión el seguimiento del sitio web desde el sitio web, independientemente de si **El explorador no realiza el seguimiento** está configurado o no. Esto permite al visitante del sitio especificar sus preferencias de seguimiento directamente desde el sitio web.
+También puede permitir que los visitantes del sitio excluyan el seguimiento del sitio web independientemente de si el **explorador no rastrea** está configurado o no. Esto permite al visitante del sitio especificar sus preferencias de seguimiento directamente desde el sitio web.
 
-Para ello, debe agregar un parámetro a un vínculo exclusión en una página web que tenga habilitado el seguimiento de munchkin. Puede ser cualquier página web, pero el vínculo de la página web debe contener el siguiente parámetro:
+Para ello, debe añadir un parámetro a un vínculo de exclusión en una página web que tenga habilitado el seguimiento de munchkin. Puede ser cualquier página web, pero el vínculo de la página web debe contener el siguiente parámetro:
 
-?marketo_opt_out=true
+?marketing_opt_out=true
 
-A continuación se muestran ejemplos de una página web con un vínculo de exclusión y una página de aterrizaje para después de hacer clic en el vínculo. El tuyo variará.
+A continuación se muestran ejemplos de una página web con un vínculo de no participación y una página de aterrizaje para después de hacer clic en el vínculo. El tuyo variará.
 
-Esta es una página web con un botón con el parámetro &quot;?marketo_opt_out=true&quot; en el vínculo de exclusión.
+Aquí hay una página web con un botón con el parámetro &quot;?marketo_opt_out=true&quot; en el vínculo de exclusión.
 
 ![](assets/opt-out-1.png)
 
-Puede crear y publicar una página de aterrizaje como una página de seguimiento para cuando se haga clic en el vínculo con el parámetro &quot;?marketo_opt_out=true&quot;.
+Puede crear y publicar una página de aterrizaje como página de seguimiento cuando haga clic en el vínculo con el parámetro &quot;?marketo_opt_out=true&quot;.
 
 ![](assets/opt-out-2.png)
 
-Cuando se hace clic en el vínculo, Marketo agrega una cookie llamada **mkto_opt_out** al explorador del visitante que deshabilita el seguimiento de Munchkin para el visitante del sitio que hace clic en el vínculo con el parámetro anterior.
+Cuando se hace clic en el vínculo, Marketo agrega una cookie denominada **mkto_opt_out** al explorador del visitante que deshabilita el seguimiento de Munchkin para el visitante del sitio que hace clic en el vínculo con el parámetro anterior.
 
-Para validar que la cookie se puede plantar, verifique que es un lead de cookie y haga clic en el vínculo. A continuación, compruebe las cookies del explorador para verificar que se agregó la cookie **mkto_opt_out**.
+Para validar que la cookie se puede plantar, compruebe que es un posible cliente con cookies y haga clic en el vínculo . A continuación, compruebe las cookies del explorador para comprobar que se ha añadido la cookie **mkto_opt_out**.
 
 ![](assets/opt-out-3.png)
 
@@ -60,20 +60,20 @@ Para validar que la cookie se puede plantar, verifique que es un lead de cookie 
 >
 >Actualmente, esto solo funciona con las versiones 152 y posteriores de Munchkin.
 
-## adhesión {#opt-in}
+## Opt-in {#opt-in}
 
-Los especialistas en marketing pueden permitir que los usuarios adhesión mediante las funciones de Marketing en correos electrónicos, formularios, páginas de aterrizaje y otros métodos.
+Los especialistas en marketing pueden permitir a los usuarios activar la opción mediante las funciones de Marketo en correos electrónicos, formularios, páginas de aterrizaje y otros métodos.
 
-## Seguimiento mediante una IP anónima {#tracking-using-an-anonymized-ip}
+## Seguimiento con una IP anónima {#tracking-using-an-anonymized-ip}
 
-Los especialistas en marketing pueden preservar la privacidad rastreando a los usuarios con una dirección IP anónima. Para hacerlo, agregue este código al RTP o al Javascript Munchkin que está incrustado en el sitio web.
+Los especialistas en marketing pueden preservar la privacidad haciendo un seguimiento de los usuarios con una dirección IP anónima. Para ello, añada este código al Javascript RTP o Munchkin que está incrustado en el sitio web.
 
 * Para Munchkin, simplemente agregue {&quot;anonymizeIP&quot;,true} a la función init.
 
    >[!NOTE]
    >
-   >El uso de este parámetro requiere que Munchkin V2 esté habilitado. Para habilitarla para su suscripción, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/community/support_solutions).
+   >El uso de este parámetro requiere que Munchkin V2 esté habilitado. Para habilitarla para su suscripción, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/community/support_solutions).
 
-* En Personalización web (RTP), agregue esto a javascript:
+* Para la personalización web (RTP), añádalo a javascript:
 
 `anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
