@@ -1,31 +1,31 @@
 ---
 unique-page-id: 4719302
-description: Habilitar la sincronización de objetos personalizados que no están en inglés - Documentos de marketing - Documentación del producto
-title: Habilitar sincronización de objetos personalizados que no están en inglés
+description: Habilitar la sincronización de objetos personalizados sin inglés - Documentos de Marketo - Documentación del producto
+title: Habilitar la sincronización de objetos personalizados sin inglés
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
+# Habilitar la sincronización de objetos personalizados no inglesa {#enable-non-english-custom-object-sync}
 
-# Habilitar la sincronización de objetos personalizados que no están en inglés {#enable-non-english-custom-object-sync}
-
-Si el usuario de sincronización de Marketing to está configurado en un idioma distinto al inglés, puede producirse un error al intentar habilitar una sincronización de objetos personalizada.
+Si el usuario de sincronización de Marketo está configurado en un idioma distinto del inglés, puede que se produzca un error al intentar habilitar una sincronización de objetos personalizada.
 
 ## El error {#the-error}
 
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Alcanzar su entorno {#getting-around-it}
+## Cómo evitarlo {#getting-around-it}
 
-1. Inicie sesión en Salesforce con el usuario de sincronización de marketing.
+1. Inicie sesión en Salesforce utilizando el marketing para sincronizar al usuario.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Bajo el nombre de usuario, vaya a **Configuración**.
+1. Bajo el nombre de usuario, vaya a **Setup**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -37,7 +37,7 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Cambie el **Idioma** a **Inglés**.
+1. Cambie **Language** por **English**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,7 +45,7 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. De nuevo en Marketing, en **Administración > Salesforce > Objetos** haga clic en **Actualizar Esquema**.
+1. En Marketo, en **Administración > Salesforce > Objetos** haga clic en **Actualizar esquema**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
@@ -53,12 +53,12 @@ Si el usuario de sincronización de Marketing to está configurado en un idioma 
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Observe que el objeto personalizado está ahora activado y se está sincronizando.
+1. Observe que el objeto personalizado ahora está habilitado y sincronizándose.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Ahora vuelva a Salesforce y siga los pasos anteriores para cambiar el usuario de sincronización a su idioma preferido.
+1. Vuelva a Salesforce y siga los pasos anteriores para cambiar el usuario de sincronización a su idioma preferido.
 
 >[!NOTE]
 >
->No olvide actualizar el Esquema una última vez para recuperar los objetos en su idioma.
+>No olvide actualizar esquema una última vez para extraer los objetos de nuevo en su idioma.
