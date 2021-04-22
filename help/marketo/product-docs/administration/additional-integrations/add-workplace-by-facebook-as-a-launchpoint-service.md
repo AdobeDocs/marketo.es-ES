@@ -1,67 +1,67 @@
 ---
 unique-page-id: 14745982
-description: Añadir el lugar de trabajo por Facebook como un servicio de LaunchPoint - Documentos de marketing - Documentación del producto
-title: Añadir el lugar de trabajo por Facebook como un servicio de LaunchPoint
+description: Añadir un lugar de trabajo de Facebook as a LaunchPoint Service - Marketo Docs - Documentación del producto
+title: Añadir un lugar de trabajo de Facebook como servicio de LaunchPoint
+exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
+# Agregar un lugar de trabajo por Facebook como un servicio de LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
 
-# Añadir el lugar de trabajo por Facebook como un servicio de LaunchPoint {#add-workplace-by-facebook-as-a-launchpoint-service}
+La integración de Workplace incluye dos tipos de notificación:
 
-Existen dos tipos de notificación incluidos en la integración de Workplace:
-
-* **Notificaciones** del sistema: Obtenga las notificaciones del lugar de trabajo sobre eventos importantes en la instancia de Marketing, como las alertas sobre los estados de campaña actuales y cualquier problema que requiera atención inmediata (errores de CRM y límites de API).
-* **Momentos** interesantes: Cuando una perspectiva de marketing se activa por una persona conocida desde una cuenta de ventas, los propietarios de posibles clientes pueden recibir notificaciones por medio de Workplace. Las notificaciones incluyen información sobre los posibles clientes, así como detalles sobre la cuenta de ventas.
+* **Notificaciones** del sistema: Obtenga notificaciones del lugar de trabajo con respecto a eventos importantes en su instancia de Marketo, como alertas sobre estados de campañas actuales y cualquier problema que requiera atención inmediata (errores de CRM y límites de API).
+* **Momentos** interesantes: Cuando una persona conocida ha activado Marketo Insight desde una cuenta de ventas, los propietarios potenciales pueden recibir notificaciones a través de Workplace. Las notificaciones incluyen información sobre posibles clientes, así como detalles sobre la cuenta de ventas.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >
->Si no tiene Notificaciones de lugar de trabajo ya habilitadas, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si aún no tiene habilitadas las Notificaciones del lugar de trabajo, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Vaya a **LaunchPoint** y, a continuación, en **Nuevo** haga clic en **Nuevo servicio**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Escriba un nombre para mostrar para la integración de Workplace. En la lista desplegable **Servicio**, seleccione **Lugar de trabajo por Facebook**. Haga clic en **Crear**.
+1. Escriba un nombre para mostrar para la integración de Workplace. En la lista desplegable **Service**, seleccione **Workplace by Facebook**. Haga clic en **Crear**.
 
    ![](assets/newservice.png)
 
-1. Para recibir notificaciones del sistema y momentos interesantes, deje las opciones tal como están. Haga clic en **Crear**.
+1. Para recibir notificaciones del sistema y momentos interesantes, deje las opciones tal cual. Haga clic en **Crear**.
 
    ![](assets/create.png)
 
-1. Haga clic en **Autorizar**. Esto abre Workplace en una nueva ficha, donde se completará la autorización y se otorgará permiso a Marketing para extraer información de Workplace.
+1. Haga clic en **Autorizar**. Se abre Workplace en una nueva pestaña, donde se completa la autorización y se concede permiso a Marketo para extraer información de Workplace.
 
    ![](assets/authorize.png)
 
-1. En la nueva ficha Lugar de trabajo, escriba el nombre de usuario de su correo electrónico comercial o de su lugar de trabajo y haga clic en **Continuar**.
+1. En la nueva pestaña Workplace , introduzca el nombre de usuario del correo electrónico empresarial o del Workplace y haga clic en **Continue**.
 
    ![](assets/workplacelogin.png)
 
-1. Introduzca las credenciales de su lugar de trabajo y haga clic en **Iniciar sesión**.
+1. Introduzca las credenciales del lugar de trabajo y haga clic en **Log in**.
 
    ![](assets/workplacelogininfo.png)
 
-1. En la ventana emergente Lugar de trabajo, elija un grupo de Facebook en el que desee que se publiquen las notificaciones de Marketing (por ejemplo, Integraciones de socios). Haga clic en **Instalar**.
+1. En la ventana emergente Lugar de trabajo, elija un grupo de Facebook en el que desee que se publiquen las notificaciones de Marketo (por ejemplo, Integraciones de socios). Haga clic en **Instalar**.
 
    ![](assets/installmarketo.png)
 
-1. Debe ver la notificación de confirmación a continuación. La ficha se cierra automáticamente.
+1. Debería ver la notificación de confirmación a continuación. La pestaña se cierra automáticamente.
 
    ![](assets/success.png)
 
-1. Actualice la ficha Marketo y confirme que Workplace aparece ahora como un servicio activo en LaunchPoint.
+1. Actualice la pestaña Marketo y confirme que Workplace aparece ahora como un servicio activo en LaunchPoint.
 
    ![](assets/confirm.png)
 
-   Las notificaciones ahora empezarán a publicarse en el grupo de Facebook seleccionado en el paso 7. Se verán así:
+   Ahora, las notificaciones empezarán a publicarse en el grupo de Facebook seleccionado en el paso 7. Se parecerán a esto:
 
    ![](assets/example.png)
