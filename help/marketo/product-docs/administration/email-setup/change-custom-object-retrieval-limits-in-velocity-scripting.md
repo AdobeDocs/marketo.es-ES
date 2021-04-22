@@ -1,14 +1,14 @@
 ---
-description: Cambio de los límites de recuperación de objetos personalizados en las secuencias de comandos de Velocity - Marketo Docs - Documentación del producto
+description: Cambio de los límites personalizados de recuperación de objetos en las secuencias de comandos de Velocity - Documentos de Marketo - Documentación del producto
 title: Cambio de los límites de recuperación de objetos personalizados en las secuencias de comandos de Velocity
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Cambiar los límites personalizados de recuperación de objetos en las secuencias de comandos de Velocity {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
@@ -16,7 +16,7 @@ Si utiliza el Script de Velocity para mostrar los datos de objetos personalizado
 
 ## ¿Qué es Velocity {#what-is-velocity}?
 
-[Apache Velocity](https://velocity.apache.org/) es un lenguaje creado en Java diseñado para crear plantillas y crear secuencias de comandos de contenido HTML. Marketo permite utilizarlo en el contexto de los correos electrónicos mediante el uso de [tokens de secuencias de comandos](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Entre otras cosas, esto proporciona acceso a los datos almacenados en objetos personalizados.
+[Apache Velocity](https://velocity.apache.org/) es un lenguaje creado en Java diseñado para crear plantillas y crear secuencias de comandos de contenido HTML. Marketo permite utilizarla en el contexto de los correos electrónicos mediante el uso de [tokens de secuencias de comandos](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Entre otras cosas, esto proporciona acceso a los datos almacenados en objetos personalizados.
 
 Puede hacer referencia a objetos personalizados principales y secundarios conectados directamente al posible cliente o al contacto, pero no a objetos personalizados de tercer nivel. Para cada objeto personalizado, los 10 registros actualizados más recientemente por persona/contacto están disponibles en tiempo de ejecución y se ordenan desde la última actualización (en 0) hasta la última actualización (en 9).
 
