@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11387674
-description: Actualizaciones de la terminología de marketing - Documentos de marketing - Documentación del producto
-title: Actualizaciones de la terminología de marketing
+description: 'Actualizaciones de la terminología de Marketo: Marketo Docs: Documentación del producto'
+title: Actualizaciones de la terminología de Marketo
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Actualizaciones de terminología de marketing {#updates-to-marketo-terminology}
+# Actualizaciones en la terminología de Marketo {#updates-to-marketo-terminology}
 
-Estamos haciendo algunos cambios en nuestra plataforma, que afectarán lo que se llama algunas cosas. Si tiene una nueva instancia de Marketing a partir de marzo de 2016, o si su compañía se ha renovado después de julio de 2016, es posible que esté viendo la nueva terminología ahora.
+Estamos realizando algunos cambios en nuestra plataforma, que afectarán a lo que se llama algunas cosas. Si tiene una nueva instancia de Marketo a partir de marzo de 2016 o si su empresa se ha renovado después de julio de 2016, es posible que ahora esté viendo la nueva terminología.
 
-Aunque puede ver una terminología diferente en la documentación de Marketing, tenga la seguridad de que todos los artículos se actualizarán pronto para reflejar estos cambios. Todas las instrucciones son iguales.
+Aunque puede ver diferentes terminologías en la documentación de Marketo, tenga la seguridad de que todos los artículos se actualizarán pronto para reflejar estos cambios. Todas las instrucciones son las mismas.
 
 Entonces, ¿qué ha cambiado?
 
 ## El posible cliente es ahora persona {#lead-is-now-person}
 
-El cambio más importante es el cambio de nombre de posibles clientes/posibles clientes a persona/personas.
+El mayor cambio es cambiar el nombre de Posibles clientes/Posibles clientes por Persona/Personas.
 
 <table> 
  <colgroup> 
@@ -75,15 +75,15 @@ El posible cliente y la persona **son lo mismo**.
 
 ## Tokens {#tokens}
 
-Los tokens con la palabra lead en ellos **no cambian**. Pedimos disculpas por cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería un montón de tokens que se utilizan actualmente. De modo que aún verá tokens como &quot;`{{lead.First Name}}`&quot;. No hay tokens específicos de la persona.
+Los tokens con la palabra &quot;lead&quot; **no cambian**. Pedimos disculpas por cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería un montón de tokens actualmente en uso. Por lo tanto, seguirá viendo tokens como &quot;`{{lead.First Name}}`&quot;. No hay tokens específicos de persona.
 
 >[!NOTE]
 >
->Hay *es* un token llamado &quot;Notas personales&quot;, pero ese token siempre estuvo ahí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hace.
+>Hay *es* un token llamado &quot;Notas de persona&quot;, aunque ese token siempre estaba allí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hace.
 
 ## Administración de campos {#field-management}
 
-Los campos que contenían el término Posible cliente se han sustituido por Persona o se ha eliminado la palabra Posible cliente. Sin embargo, una excepción notable es el campo &quot;Propietario de posibles clientes&quot;. Ahora se conoce como &quot;Propietario de ventas&quot;.
+Los campos que contenían el término Posible cliente se han sustituido por Persona o la palabra Posible cliente se ha eliminado. Sin embargo, una excepción notable es el campo &quot;Propietario del posible cliente&quot;. Ahora se conoce como &quot;Propietario de ventas&quot;.
 
 <table> 
  <colgroup> 
@@ -112,7 +112,7 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 >
 >Para obtener una lista completa de los nombres de campo afectados, visite este [Artículo de soporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
 
-## La Personalización en tiempo real (RTP) es ahora Personalización Web {#real-time-personalization-rtp-is-now-web-personalization}
+## La personalización en tiempo real (RTP) es ahora personalización web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,14 +139,14 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes:
 
-| ** [Personalización Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
+| ** [Personalización web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
 |---|---|
-| ** [Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accesible a través del mosaico de Personalización web |
-| ** [Retargeting personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accesible a través del mosaico de Personalización web |
+| ** [Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accesible a través del mosaico Personalización web |
+| ** [Redireccionamiento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accesible a través del mosaico Personalización web |
 | ** [Contenido predictivo](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Tiene su propio mosaico en la pantalla de inicio |
 
 >[!NOTE]
 >
->Los mosaicos visibles en la pantalla de inicio reflejarán los módulos comprados.
+>Los mosaicos visibles en la pantalla principal reflejarán los módulos comprados.
 
 Gracias por su paciencia durante esta actualización.
