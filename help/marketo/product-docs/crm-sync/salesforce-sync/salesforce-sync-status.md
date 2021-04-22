@@ -1,14 +1,14 @@
 ---
 description: 'Estado de sincronización de Salesforce: Documentos de Marketo: Documentación del producto'
 title: Estado de sincronización de Salesforce
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
 
 ---
-
 
 # Estado de sincronización de Salesforce {#salesforce-sync-status}
 
@@ -201,7 +201,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
   <tr> 
    <td colspan="1">Eliminaciones de extracción</td> 
    <td colspan="1">Contacto, Persona (Plomo), Oportunidad, Campaña, Miembros De Campaña, Contacto De Oportunidad, Objetos Personalizados, Campañas, Estado Del Miembro De La Campaña, Función De Contacto De Oportunidad</td> 
-   <td colspan="1">Registros eliminados de SFDC sincronizados con Marketo</td> 
+   <td colspan="1">Registros eliminados de SFDC que se sincronizan con Marketo</td> 
    <td colspan="1">Eliminado, fallido o omitido</td>
   </tr>  
   <tr> 
@@ -231,7 +231,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
   <tr> 
    <td colspan="1">Sincronizar con el programa</td> 
    <td colspan="1">Campañas</td> 
-   <td colspan="1">Sincroniza el programa Marketo con campañas SFDC</td> 
+   <td colspan="1">Sincroniza el programa de Marketo con campañas SFDC</td> 
    <td colspan="1">Nuevas, actualizaciones, fallidas u omitidas</td>
   </tr> 
   <tr> 
