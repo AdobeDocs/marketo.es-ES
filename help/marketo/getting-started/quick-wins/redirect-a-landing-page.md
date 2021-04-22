@@ -2,14 +2,14 @@
 unique-page-id: 2359428
 description: 'Redireccionar una página de aterrizaje: Documentos de Marketo: Documentación del producto'
 title: Redireccionar una página de aterrizaje
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Redireccionar una página de aterrizaje {#redirect-a-landing-page}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Recuerde, solo puede redirigir las páginas de aterrizaje que comiencen con el [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) de Marketo.
+   >Recuerde que solo puede redirigir páginas de aterrizaje que comiencen con su [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) de Marketo.
 
 1. Haga clic en la segunda lista desplegable **Original URL** y seleccione la página de aterrizaje que desee redirigir.
 
