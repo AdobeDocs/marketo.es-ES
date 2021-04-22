@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953188
-description: Filtros preferidos - Documentos de marketing - Documentación del producto
-title: Filtros diferidos
+description: 'Filtros preferidos: Documentos de Marketo: Documentación del producto'
+title: Filtros vinculados
+exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
+# Filtros vinculados {#inferred-filters}
 
-# Filtros inducidos {#inferred-filters}
-
-Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) los cookies y los coloca en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de información buena. Echa un vistazo.
+Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena. Echa un vistazo.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -27,18 +27,18 @@ Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/admini
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-Cuando se utiliza cualquiera de estos filtros en una lista inteligente, los resultados darán a las personas esta información inferida.
+Cuando utilice cualquiera de estos filtros en una lista inteligente, los resultados darán a la gente esta información inferida.
 
 >[!TIP]
 >
->Utilice estos filtros en un informe de actividad web. Utilice los territorios de los representantes de ventas y suscríbase a un informe diario personalizado con visitantes del sitio web en las últimas 24 horas. ¡Les encantará!
+>Utilice estos filtros en un informe de actividad web. Utilice los territorios de los representantes de ventas y suscríbase a un informe diario personalizado con los visitantes del sitio web en las últimas 24 horas. ¡Les encantará!
 >
->* Página Web visitada - Últimas 24 horas
->* El Estado Inferido [selecciona su territorio]
+>* Página web visitada - Últimas 24 horas
+>* El estado preferido es [seleccionar su territorio]
 
 
-Estos visitantes anónimos se convierten automáticamente en personas cuando hacen clic en un vínculo de correo electrónico o rellenan un formulario. Sin embargo, conservan toda la información inferida.
+Estos visitantes anónimos se convierten automáticamente en personas cuando hacen clic en un vínculo de correo electrónico o rellenan un formulario. Sin embargo, mantienen toda la información inferida.
 
 >[!NOTE]
 >
->Obtenga más información sobre la [actividad anónima y leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Obtenga más información sobre la [actividad anónima y posibles clientes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
