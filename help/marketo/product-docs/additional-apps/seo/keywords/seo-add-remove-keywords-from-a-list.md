@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949678
-description: SEO - Añadir/eliminar palabras clave de una Lista - Documentos de marketing - Documentación del producto
-title: SEO - Añadir/eliminar palabras clave de una Lista
+description: SEO - Agregar o eliminar palabras clave de una lista - Documentos de Marketo - Documentación del producto
+title: SEO - Agregar o eliminar palabras clave de una lista
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
+# SEO: Agregar o eliminar palabras clave de una lista {#seo-add-remove-keywords-from-a-list}
 
-# SEO - Añadir/eliminar palabras clave de una Lista {#seo-add-remove-keywords-from-a-list}
+Puede mantener todas las palabras clave en buen estado y organizadas mediante listas. Esto facilitará la búsqueda de datos en palabras clave específicas como circulares.
 
-Puede mantener todas las palabras clave en buen estado y organizadas mediante listas. Esto facilitará la búsqueda de datos en palabras clave específicas como tarta.
-
-## Añadir a una Lista {#add-to-a-list}
+## Agregar a una lista {#add-to-a-list}
 
 1. Vaya a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Pase el ratón sobre la palabra clave que desee agregar a una lista. Haga clic en **Añadir/Quitar de la lista**.
+1. Pase el ratón sobre la palabra clave que desee agregar a una lista. Haga clic en **Agregar o quitar de la lista**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,13 +31,13 @@ Puede mantener todas las palabras clave en buen estado y organizadas mediante li
 
    >[!TIP]
    >
-   >También puede crear una nueva lista para las palabras clave. Escriba el nombre en Crear una nueva lista.
+   >También puede crear una nueva lista para sus palabras clave. Solo tiene que escribir el nombre en Crear una lista nueva.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
 ¡Guau! Seleccione la lista para ver las nuevas palabras clave.
 
-## Eliminar palabra clave de la Lista {#remove-keyword-from-list}
+## Eliminar palabra clave de la lista {#remove-keyword-from-list}
 
 También puede eliminar palabras clave de una lista.
 
@@ -45,7 +45,7 @@ También puede eliminar palabras clave de una lista.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Pase el ratón sobre la palabra clave que desee eliminar de una lista. Haga clic en **Añadir/Quitar de la lista**.
+1. Pase el ratón sobre la palabra clave que quiera eliminar de una lista. Haga clic en **Agregar o quitar de la lista**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,7 +53,7 @@ También puede eliminar palabras clave de una lista.
 
    >[!NOTE]
    >
-   >Todas las listas a las que pertenece la palabra clave actualmente tendrán una marca de verificación. Una vez retirada de la lista, la comprobación desaparece.
+   >Todas las listas a las que pertenece la palabra clave actualmente tendrán una marca de verificación. Una vez eliminada de la lista, la comprobación desaparece.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
@@ -61,4 +61,4 @@ También puede eliminar palabras clave de una lista.
 
    >[!MORELIKETHIS]
    >
-   >[Explicación de las palabras clave (Vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Explicación de las palabras clave (vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
