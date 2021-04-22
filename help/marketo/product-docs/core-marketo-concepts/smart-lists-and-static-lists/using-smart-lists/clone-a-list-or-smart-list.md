@@ -1,21 +1,21 @@
 ---
 unique-page-id: 557320
-description: Clonar una Lista o una Lista inteligente - Documentos de marketing - Documentación del producto
-title: Clonar una Lista o una Lista inteligente
+description: 'Clonar una lista o una lista inteligente: Documentos de Marketo: Documentación del producto'
+title: Clonar una lista o una lista inteligente
+exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# Clonar una Lista o Lista inteligente {#clone-a-list-or-smart-list}
+# Clonar una lista o lista inteligente {#clone-a-list-or-smart-list}
 
 En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una similar y realizando cambios. Así es como.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ En lugar de crear una lista inteligente desde cero, ahorre tiempo clonando una s
 
    ![](assets/smartlist-find.png)
 
-1. En **Acciones de Lista**, haga clic en **Clonar Lista inteligente**.
+1. En **Lista de acciones**, haga clic en **Clonar lista inteligente**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Escriba un **Nombre** y haga clic en **Clonar**.
+1. Introduzca un **Name** y haga clic en **Clone**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
