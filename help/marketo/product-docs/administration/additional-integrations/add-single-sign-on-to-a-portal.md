@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360356
-description: 'Inicio de sesión único en un portal: Marketo Docs: Documentación del producto'
+description: 'Adición del inicio de sesión único a un portal: Marketo Docs: documentación del producto'
 title: Agregar el inicio de sesión único a un portal
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
-
 # Agregar el inicio de sesión único a un portal {#add-single-sign-on-to-a-portal}
 
 Si tiene un servicio de directorio que autentica a los usuarios, puede permitir el inicio de sesión único (SSO) en Marketo. Esta función es compatible con el uso de la versión 2.0 (o superior) del lenguaje de marcado de aserción de seguridad (SAML).
 
-Marketo funciona como proveedor de servicios SAML (SP) y depende de un proveedor de identidad (IdP) externo para autenticar a los usuarios.
+Marketo funciona como proveedor de servicios (SP) de SAML y depende de un proveedor de identidad (IdP) externo para autenticar a los usuarios.
 
-Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. Cuando un usuario desea utilizar el software de Marketo, el IdP envía un mensaje SAML firmado a Marketo, actuando como SP. Este mensaje le da fe a Marketo de que el usuario está autorizado a usar el software de Marketo.
+Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. Cuando un usuario desea utilizar software de Marketo, el IdP envía un mensaje SAML firmado a Marketo, actuando como SP. Este mensaje garantiza a Marketo que el usuario está autorizado a utilizar el software de Marketo.
 
 >[!NOTE]
 >
@@ -36,16 +36,16 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 
 >[!NOTE]
 >
->Marketo solo admite los iniciados por el proveedor de identidad (también conocidos como iniciados por IdP), en los que el usuario inicia primero la página de inicio de sesión de Idp, se autentica y, a continuación, navega a Mi Marketo.
+>Marketo solo admite los mensajes iniciados por el proveedor de identidad (también conocidos como iniciados por IdP), en los que el usuario inicia primero la página de inicio de sesión de Idp, se autentica y, a continuación, navega a Mi Marketo.
 
 ## Notas adicionales {#additional-notes}
 
 * **Tiempo de sincronización** : para un nuevo usuario, hay unos 10 minutos de retraso antes de que se procese una solicitud de SSO inicial.
-* **Aprovisionamiento de usuarios** : los usuarios son aprovisionados manualmente por Marketo.
+* **Aprovisionamiento de usuarios** : Marketo aprovisiona los usuarios manualmente.
 * **Autorización** : los permisos de usuario se mantienen en Marketo.
 * **Compatibilidad con OAuth** : Marketo no es compatible actualmente con OAuth.
 * **Propagación automática de usuarios** : también conocida como &quot;Aprovisionamiento justo a tiempo&quot;, es cuando el primer inicio de sesión de SAML de un usuario es capaz de crear al usuario en cualquier aplicación web a la que acceda (por ejemplo, Marketo) y no se requiere ninguna acción de administración manual. Marketo no lo admite en este momento.
-* **Cifrado** : Marketo no admite actualmente cifrado.
+* **Cifrado** : Marketo no admite actualmente el cifrado.
 
 >[!NOTE]
 >
