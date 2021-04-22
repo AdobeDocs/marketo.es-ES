@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783555
-description: Creación de un favorito - Documentos de marketing - Documentación del producto
+description: 'Creación de un favorito: Marketo Docs: documentación del producto'
 title: Creación de un favorito
+exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-
 # Creación de un favorito {#creating-a-favorite}
 
-Marque como favorita una tarjeta para facilitar la consulta futura.
+Marque como favorita una tarjeta para facilitar su consulta futura.
 
-1. Abra el menú de la tarjeta.
+1. Abra el menú de tarjeta.
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
@@ -23,4 +23,4 @@ Marque como favorita una tarjeta para facilitar la consulta futura.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
-   ¡Eso es todo lo que hay!
+   ¡Eso es todo!
