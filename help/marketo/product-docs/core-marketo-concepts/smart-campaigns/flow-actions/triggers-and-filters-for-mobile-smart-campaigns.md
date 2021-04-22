@@ -1,75 +1,75 @@
 ---
 unique-page-id: 9437991
-description: Déclencheur y Filtros para Campañas inteligentes móviles - Documentos de marketing - Documentación del producto
-title: Déclencheur y Filtros para Campañas inteligentes móviles
+description: 'Déclencheur y filtros para campañas inteligentes móviles: Marketo Docs: documentación del producto'
+title: Déclencheur y filtros para campañas inteligentes móviles
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
+# Déclencheur y filtros para campañas inteligentes móviles {#triggers-and-filters-for-mobile-smart-campaigns}
 
-# Déclencheur y Filtros para Campañas inteligentes móviles {#triggers-and-filters-for-mobile-smart-campaigns}
+Puede configurar déclencheur y filtros para una campaña inteligente para aplicaciones móviles.
 
-Puede configurar déclencheur y filtros para una campaña inteligente de aplicación móvil.
+Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Utilice filtros de inactividad para realizar el seguimiento de una acción, como pulsar una notificación push, que no se ha producido *ni*.
 
-Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Use filtros de inactividad para rastrear una acción, como tocar una notificación push, que *no se produjo*.
-
-* Se instaló o se instaló la aplicación móvil
-* Se abrió o se abrió la aplicación móvil
-* Tiene o tiene Actividad de aplicación móvil
+* La aplicación móvil está instalada o se instaló
+* Se abrió o abrió la aplicación móvil
+* Tiene o ha tenido una actividad de aplicación móvil
 * Tiene o ha tenido una sesión de aplicación móvil
-* Toque/toque notificación push móvil
+* Toque/Toque la notificación push móvil
 
 Solo hay filtros para esta actividad:
 
-* Notificación push de envío: filtro y filtro de inactividad
+* Notificación push de se envió: filtro y filtro de inactividad
 
-Busque **aplicación móvil** en el panel derecho para realizar la lista de todos los filtros y déclencheur de aplicaciones móviles.
+Busque **mobile app** en el panel derecho para enumerar todos los déclencheur y filtros de aplicaciones móviles.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
 ## Restricciones {#constraints}
 
-Utilice restricciones con déclencheur y filtros para ordenar los datos con mayor profundidad.
+Utilice restricciones con déclencheur y filtros para clasificar aún más los datos.
 
 ![](assets/image2015-8-17-12-3a6-3a33.png)
 
-Todos los déclencheur y filtros, excepto la notificación push de envío, contienen estas dos restricciones estándar:
+Todos los déclencheur y filtros, excepto la notificación push de se envió, contienen las dos restricciones estándar siguientes:
 
-* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, Desconocido (se trata de una lista preestablecida)
+* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android smartphone, Android tablet, Unknown (esta es una lista preestablecida)
 
 * Plataforma: iPhone o Android
 
-Algunos déclencheur y filtros oferta restricciones adicionales, como:
+Algunos déclencheur y filtros ofrecen restricciones adicionales, como:
 
-* Versión de la aplicación: una forma de destinatario para personas que no están en la versión más reciente. Por ejemplo, si la última versión de la aplicación es 2.0, puede utilizarla para buscar personas que NO estén en la versión 2.0 de la aplicación
+* Versión de la aplicación : una forma de dirigirse a las personas que no están en la versión más reciente. Por ejemplo, si la última versión de la aplicación es 2.0, puede utilizarla para buscar personas que NO estén en la versión 2.0 de la aplicación
 
-* Instalar origen: actualmente, la única opción es API
+* Instalar fuente: Actualmente, la única opción es API
 
 * Configuración regional: la configuración del dispositivo
 
-* Aplicación móvil: el nombre de una aplicación específica. Útil para especificar si tiene más de uno
+* Aplicación móvil: El nombre de una aplicación específica. Útil para especificar si tiene más de uno
 
-* Versión de la plataforma: la versión del sistema operativo
+* Versión de plataforma: la versión del sistema operativo
 
-* Duración de la sesión (segundos): tiempo de sesión cuando la aplicación está en primer plano
+* Duración de la sesión (segundos): Tiempo de sesión cuando la aplicación está en primer plano
 
-* Es push habilitado: **True** significa que se pueden enviar notificaciones push. **** Falsemans que no pueden; por ejemplo, es posible que la persona haya exclusión de recibir notificaciones push
+* Is Push Enabled - **True** significa que se pueden enviar notificaciones push. **** Falsemans que no pueden; por ejemplo, la persona puede haber optado por no recibir notificaciones push
 
-## Déclencheur y Filtros {#triggers-and-filters}
+## Déclencheur y filtros {#triggers-and-filters}
 
-**Tiene una aplicación móvil**
+**Tiene aplicación móvil**
 
-Utilice este filtro para averiguar qué personas han tenido la aplicación instalada alguna vez. Esto solo está disponible como filtro.
+Utilice este filtro para averiguar todas las personas que alguna vez han instalado su aplicación. Esto solo está disponible como filtro.
 
 >[!NOTE]
 >
->El filtro buscará tanto las instalaciones actuales como las anteriores, ya que Marketing no realiza el seguimiento de las desinstalaciones de la aplicación.
+>El filtro buscará tanto instalaciones actuales como anteriores, ya que Marketo no realiza el seguimiento de las desinstalaciones de aplicaciones.
 
-**Restricciones**: Tipo de dispositivo, Plataforma, Aplicación móvil, Versión de la aplicación móvil, Tipo de dispositivo, Origen de instalación, Está habilitado para inserción y Configuración regional
+**Restricciones**: Tipo de dispositivo, Plataforma, Aplicación móvil, Versión de aplicación móvil, Tipo de dispositivo, Origen de instalación, Está habilitado para push y Configuración regional
 
 ![](assets/image2015-8-21-13-3a33-3a54.png)
 
@@ -77,19 +77,19 @@ Utilice este filtro para averiguar qué personas han tenido la aplicación insta
 >
 >Se recomienda especificar Has Mobile App = true y Is Push Enabled = true, así como el nombre de la aplicación móvil al definir la lista inteligente de quién debe recibir una notificación push.
 
-Se instaló o se instaló la aplicación móvil
+La aplicación móvil está instalada o se instaló
 
-* Aplicación móvil instalada: déclencheur
+* La aplicación móvil está instalada: déclencheur
 
 * Aplicación móvil instalada: filtro
 
 * NO se instaló la aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo, Plataforma, Versión de la aplicación, Configuración regional e Instalar origen
+**Restricciones**: Tipo de dispositivo, plataforma, versión de la aplicación, configuración regional e instalar origen
 
 ![](assets/image2015-8-17-13-3a11-3a3.png)
 
-Se abrió o se abrió la aplicación móvil
+Se abrió o abrió la aplicación móvil
 
 * Aplicación móvil abierta: déclencheur
 
@@ -97,39 +97,39 @@ Se abrió o se abrió la aplicación móvil
 
 * NO se abrió la aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo y plataforma de dispositivo
+**Restricciones**: Tipo de dispositivo y plataforma
 
 ![](assets/image2015-8-17-13-3a13-3a55.png)
 
-Tiene o tiene Actividad de aplicación móvil
+Tiene o ha tenido una actividad de aplicación móvil
 
-Esto proporciona una manera eficaz de rastrear la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) y [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Proporcionan una manera eficaz de rastrear la actividad móvil personalizada. Deberá trabajar con su desarrollador para configurar el seguimiento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) y [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
-* Tiene Actividad de aplicación móvil: déclencheur
+* Tiene actividad de aplicación móvil: déclencheur
 
-* Con Actividad de aplicación móvil: filtro
+* Tenia actividad de aplicación móvil: filtro
 
-* NO tenía Actividad de aplicación móvil: filtro de inactividad
+* NO tenía actividad de aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo y plataforma de dispositivo, más cinco adicionales:
+**Restricciones**: Tipo de dispositivo y plataforma, además de cinco adicionales:
 
-* Acción: actividad móvil personalizada
+* Acción - Actividad móvil personalizada
 
-* Tipo de acción: campo de texto (opcional) utilizado para categorizar varias acciones
+* Tipo de acción : (opcional) campo de texto utilizado para categorizar varias acciones.
 
-* Detalles de la acción: campo de texto (opcional) que proporciona información adicional sobre una acción
+* Detalles de la acción : campo de texto (opcional) que proporciona información adicional sobre una acción
 
-* Métrica de acción: campo numérico (opcional) que proporciona información adicional sobre una acción (por ejemplo, precio)
+* Métrica de acción : campo numérico (opcional) que proporciona información adicional sobre una acción (por ejemplo, el precio)
 
-* Duración de la acción (segundos): campo numérico (opcional) que se puede utilizar para capturar cuánto tiempo tardó un usuario en completar una acción
+* Longitud de la acción (segundos) : (opcional) campo numérico que se puede utilizar para capturar cuánto tiempo tardó un usuario en completar una acción
 
-Las restricciones de acción le permiten utilizar el déclencheur y los filtros para realizar un seguimiento muy atento de la actividad móvil.
+Las restricciones de acción permiten utilizar el déclencheur y los filtros para rastrear la actividad móvil muy de cerca.
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->En el tipo de acción *Shopping*, se muestra una acción muy específica, con las otras restricciones que la definen:
+>En el tipo de acción *Shopping*, aquí hay una acción muy específica, con las otras restricciones que la definen:
 >
 >* Compró una camisa
    >   * Era rojo
@@ -137,7 +137,7 @@ Las restricciones de acción le permiten utilizar el déclencheur y los filtros 
    >   * Se tardaron 20 segundos en comprar
 
 
-Este es el aspecto del filtro en MarketingTo:
+Este es el aspecto del filtro en Marketo:
 
 ![](assets/image2015-8-17-13-3a16-3a12.png)
 
@@ -145,13 +145,13 @@ Este es el aspecto del filtro en MarketingTo:
 >
 >**Ejemplo**
 >
->Puede tener varias acciones en el mismo tipo de acción. De hecho, su experiencia de compra normal puede involucrar varias columnas en Compras! ¿Qué tal unos calcetines para ir con eso?
+>Puede tener varias acciones bajo el mismo tipo de acción. De hecho, su experiencia de compra normal puede incluir varias columnas en Compra! ¿Qué tal unos calcetines para ir con eso?
 >
->| Tipo de acción | Compras | Compras |
+>| Tipo de acción | Compra | Compra |
 >|---|---|---|
->| Acción | Camisa comprada | Pantalones comprados |
+>| Acción | Camiseta comprada | Pantalones comprados |
 >| Detalles de la acción | Color | Color |
->| Métrica de acción | Precio | Precio |
+>| Métrica de acciones | Precio | Precio |
 
 
 **Tiene o ha tenido una sesión de aplicación móvil**
@@ -160,40 +160,40 @@ Este es el aspecto del filtro en MarketingTo:
 
 * Tenía sesión de aplicación móvil: filtro
 
-* NO tuvo sesión de aplicación móvil: filtro de inactividad
+* NO tenía sesión de aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo, Plataforma y Duración de la sesión (segundos)
+**Restricciones**: Tipo de dispositivo, plataforma y duración de la sesión (segundos)
 
 ![](assets/image2015-8-17-13-3a18-3a34.png)
 
-Tapas/notificaciones push de toque
+Toque/Toque la notificación push
 
-* Notificaciones push de toques: déclencheur
+* Toque Notificaciones push: déclencheur
 
-* Notificación push de toque: filtro
+* Notificaciones push asignadas: filtro
 
-* Notificación push NO capturada: filtro de inactividad
+* Notificación push NO reventada: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo, Plataforma, Versión de aplicación móvil, Notificación push y Versión de plataforma
+**Restricciones**: Tipo de dispositivo, plataforma, versión de aplicación móvil, notificación push y versión de plataforma
 
 ![](assets/image2015-8-21-14-3a2-3a24.png)
 
 >[!TIP]
 >
->Utilice el filtro de inactividad Notificación push no capturada para buscar personas que no tocaron una notificación push recientemente enviada a ellas, de modo que pueda realizar un seguimiento por correo electrónico.
+>Utilice el filtro de inactividad de notificación push no capturada para encontrar personas que no hayan tocado una notificación push recientemente enviada a ellas, de modo que pueda realizar el seguimiento por correo electrónico.
 
-**Notificación push** de envíoEsta actividad solo está disponible como filtro.
+**Se envió la** notificación pushEsta actividad solo está disponible como filtro.
 
-* Se envió notificación push - filtro
+* Notificación push de se envió: filtro
 
-* NO se envió la notificación push - filtro de inactividad
+* NO se envió la notificación push: filtro de inactividad
 
-**Restricciones**: Notificación push y aplicación móvil
+**Restricciones**: Notificaciones push y aplicación móvil
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
 >[!MORELIKETHIS]
 >
->* [Añadir una restricción a un filtro de Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Usar Filtros de inactividad en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Agregar una restricción a un filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Usar filtros de inactividad en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
