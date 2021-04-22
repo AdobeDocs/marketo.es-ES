@@ -1,62 +1,62 @@
 ---
 unique-page-id: 37355826
-description: Notas de la versión - Feb '20 - Marketo Docs - Documentación del producto
-title: Notas de la versión - Feb 20
+description: Notas de la versión - Feb 20 - Marketo Docs - Documentación del producto
+title: Notas de la versión, febrero de 2020
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Feb &#39;20 {#release-notes-feb}
 
-Las siguientes funciones se incluyen en la versión del 20 de febrero. Compruebe la disponibilidad de las funciones en la edición de marketing.
+La versión del 20 de febrero incluye las siguientes funciones. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 >[!AVAILABILITY]
 >
->Las funciones identificadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Comuníquese con el representante de su Marketo Engage para obtener más información.
+>Las funciones denotadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
-**_Versiones trimestrales_** Las siguientes funciones se lanzaron el 21  **de febrero de 2020**.
+**_Versiones trimestralesLas siguientes_** funciones se lanzaron el 21 de  **febrero de 2020**.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
-* **Acción** de flujo &quot;Cambiar propietario en Microsoft&quot; de Microsoft Dynamics: Mantenga el control de los datos de Microsoft Dynamics CRM con la capacidad de cambiar un propietario de contacto/posible cliente directamente desde el Marketo Engage. Esto es una mejora de nuestra capacidad de integración nativa de CRM.
-* **API** de administración de usuarios: Automatice la administración de usuarios y funciones a través de sistemas externos de administración de identidad y organización. Esta es una mejora de nuestra capacidad de llamadas a API.
-* **API** de Esquema de objetos personalizados: Administre y administre automáticamente esquemas de objetos personalizados en distintas instancias en Marketo Engage para mantener la coherencia de los modelos de datos en las herramientas de marketing y ventas. Con esta API, puede definir y probar objetos personalizados en un simulador para pruebas o centro de excelencia, así como aprovisionarlos en tantas instancias como sea necesario. Esta es una mejora de nuestra capacidad de llamadas a API. Comuníquese con el representante de Marketo Engage para obtener información sobre cómo obtener acceso a esta mejora.
-* **API** de reglas de redirección de página de aterrizaje: Automatice la administración de las reglas de redireccionamiento de páginas de aterrizaje. Esta es una mejora de nuestra capacidad de llamadas a API.
-* **Almacenamiento en caché** del descriptor de formulario: Reducimos el tiempo de carga de los formularios incrustados y mejoramos la estabilidad general de la aplicación almacenando en caché los formularios como recursos. Tenga en cuenta que las aprobaciones hechas a formularios incrustados pueden tardar hasta cuatro minutos en reflejarse en la web. Esto mejora nuestras Páginas de aterrizaje y la capacidad de Forms.
+* **Acción** de flujo &quot;Cambiar propietario en Microsoft&quot; de Microsoft Dynamics: Mantenga el control de sus datos de Microsoft Dynamics CRM con la capacidad de cambiar un posible cliente/contacto directamente desde el Marketo Engage. Esta es una mejora de nuestra capacidad de integración nativa de CRM.
+* **API de administración de usuarios**: Automatice la administración de usuarios y funciones a través de sistemas de administración de organizaciones e identidades externas. Esta es una mejora de nuestra capacidad de llamadas API.
+* **API** de esquema de objetos personalizados: Administre y proporcione automáticamente esquemas de objetos personalizados entre instancias en Marketo Engage para mantener la coherencia de los modelos de datos en las herramientas de marketing y ventas. Con esta API, puede definir y probar objetos personalizados en un entorno limitado o centro de excelencia y aprovisionarlos en tantas instancias como sea necesario. Esta es una mejora de nuestra capacidad de llamadas a API. Póngase en contacto con el representante del Marketo Engage para obtener información sobre cómo obtener acceso a esta mejora.
+* **API de reglas de redireccionamiento de páginas de aterrizaje**: Automatice la administración de las reglas de redireccionamiento de páginas de aterrizaje. Esta es una mejora de nuestra capacidad de llamadas API.
+* **Almacenamiento en caché del descriptor de formulario**: Estamos reduciendo el tiempo de carga de los formularios incrustados y mejorando la estabilidad general de la aplicación al almacenar en caché los formularios como recursos. Tenga en cuenta que las aprobaciones realizadas en formularios incrustados pueden tardar hasta cuatro minutos en reflejarse en la web. Esta es una mejora de nuestra capacidad de Páginas de aterrizaje y Forms.
 
 <br> 
 
-**_Publicación durante todo el trimestre_**
+**_Publicación durante el trimestre_**
 
-Las siguientes funciones están en un ciclo no trimestral y se publicarán en los próximos meses.
+Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Bisible {#bizible}
+## Bizible {#bizible}
 
 ![(estrella)](assets/star-yellow.svg)
 
-* **Segmentación** basada en cuentas: Analizar la atribución a nivel de cuenta con la capacidad de crear segmentos y filtros para los tableros de Discover en función de los atributos de la cuenta. Utilice estos segmentos para explorar en profundidad el rendimiento de mercadotecnia basado en la cuenta.
-* **Guardando Filtros**: Guarde filtros específicos de panel exclusivos para cada usuario a fin de analizar sus paneles de forma rápida y coherente.
-* **Exportar a PDF**: Comparta valiosas perspectivas en su organización mediante la exportación de Paneles bisibles como archivos PDF.
+* **Segmentación basada en cuentas**: Analice la atribución a nivel de cuenta con la capacidad de crear segmentos y filtros para tableros de Discover según los atributos de la cuenta. Utilice estos segmentos para explorar en profundidad el rendimiento de marketing basado en cuentas.
+* **Guardar filtros**: Guarde filtros específicos del tablero exclusivos para cada usuario a fin de analizar los tableros de forma rápida y coherente.
+* **Exportar a PDF**: Comparta perspectivas valiosas en su organización exportando tableros Bizible como PDF.
 
-## Sales Connect {#sales-connect}
+## Conexión de ventas {#sales-connect}
 
-* **Actualizaciones** de la ventana de composición: Hemos simplificado el proceso de selección de plantillas y envío de correos electrónicos a través de Sales Connect. Utilice la ventana Redactar de nuestro cliente web y Salesforce como una ventanilla única para vendedores, con la capacidad de guardar categorías de plantilla, programar correos electrónicos, enviar correos electrónicos de forma masiva y enviar correos electrónicos con vista y rastreo de clics.
-* **Actualizaciones** del centro de comandos: Estamos reconstruyendo el Centro de comandos de Sales Connect para ofrecer a los vendedores una visión detallada de todos sus correos electrónicos, llamadas y Tareas iniciados desde Sales Connect. También pueden vista información como la participación en el correo electrónico y la capacidad de entrega desde el Centro de comandos.
+* **Actualizaciones** de la ventana de composición: Hemos optimizado el proceso para seleccionar plantillas y enviar correos electrónicos a través de Conexión de ventas. Utilice la ventana Componer de nuestro cliente web y Salesforce como ventanilla única para vendedores, con la capacidad de guardar categorías de plantillas, programar correos electrónicos, enviar correos electrónicos de forma masiva y enviar correos electrónicos con vista y rastreo de clics.
+* **Actualizaciones** del centro de comandos: Estamos reconstruyendo el Centro de comandos de Conexión de Ventas para ofrecer a los vendedores información sobre todos sus correos electrónicos, llamadas y tareas iniciadas desde Conexión de Ventas. También pueden ver información como la participación por correo electrónico y la capacidad de envío desde el Centro de comandos.
 
 <br> 
 
 ## Anuncios {#announcements}
 
-* **Centro** de éxito del Marketo Engage: Estamos lanzando el Centro de Éxito de Marketing en febrero de 2020. El Centro de éxito es un centro de ayuda dentro del producto que le permite buscar documentos de producto y la comunidad, iniciar guías de procedimientos, acceder a contenido de adopción, como vídeos de prácticas recomendadas de la Universidad de Marketo y otros, directamente desde la instancia de Marketo Engage. **Nota**: Esta función se lanzará como una versión beta en ANZ y se lanzará a Norteamérica más adelante en el trimestre.
+* **Centro de éxito del Marketo Engage**: Lanzaremos el Centro de éxito de Marketo en febrero de 2020. El Centro de éxito es un centro de ayuda integrado en el producto que le permite buscar en la Documentación del producto y la Comunidad, iniciar guías de procedimientos, acceder a contenido de adopción como vídeos de prácticas recomendadas de la Universidad de Marketo y otros, directamente desde la instancia de Marketo Engage. **Nota**: Esta función se lanzará como una versión beta en ANZ y se lanzará a Norteamérica más adelante en el trimestre.
 
-## Desuso {#deprecations}
+## Obsolescencia {#deprecations}
 
-* **Parámetro** &quot;_method&quot; de la API de recursos: Después de septiembre de 2020, los extremos de la API de recursos ya no aceptarán &quot;_method&quot; para pasar parámetros de Consulta en un cuerpo de POST para evitar las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requieren este parámetro, el límite de URI para las API de recursos se aumentará de 6KiB a 65KiB, de modo que se puedan enviar los URI de solicitud larga.
-* **Desaprobación** de compatibilidad con Internet Explorer: A partir de nuestra versión del 31 de julio de 2012, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
+* **Parámetro** &quot;_method&quot; de la API de recursos: A partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para evitar las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requerían este parámetro, el límite de URI para las API de Asset aumentará de 6 KiB a 65 KiB, de modo que se puedan enviar URI de solicitud largas.
+* **Desaprobación de la compatibilidad con Internet Explorer**: A partir de nuestra versión del 31 de julio de 2020, la interfaz de usuario de Marketo Engage dejará de ser compatible con Internet Explorer.
 
-**_Seminario_** [web sobre la versión del productoÚnase ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) al sitio el 3 de marzo a las 11:00AM PT / 2:00PM ET para un seminario web en directo organizado por nuestro equipo de productos y obtenga más información sobre las funciones incluidas en esta versión.
+**_Seminario_** [web sobre la versión del productoÚnase ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) al sitio el 3 de marzo a las 11:00 a.m. PT/2:00 p.m. ET para ver un seminario web en directo alojado por nuestro equipo de productos y obtenga más información sobre las funciones incluidas en esta versión.
