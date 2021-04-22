@@ -1,18 +1,18 @@
 ---
 description: Configuración de la aplicación Microsoft Dynamics CRM para On-Premim - Marketo Docs - Documentación del producto
 title: Configuración de la aplicación Microsoft Dynamics CRM para On-Premim
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # Configurar la aplicación Microsoft Dynamics CRM para On-Premim {#set-up-microsoft-dynamics-crm-app-for-on-prem}
 
-La configuración de Marketo basada en el Secreto del cliente/ID del cliente se puede realizar para On-Premim con AD FS (ver. 2016 o posterior). Para versiones anteriores de On-Premim, póngase en contacto con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para que el método de autenticación cambie para que se base solamente en el ID de usuario y la contraseña.
+La configuración basada en el ID de cliente/Secreto de cliente en Marketo se puede realizar en la instalación local con AD FS (ver. 2016 o posterior). Para versiones anteriores de On-Premim, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para que el método de autenticación cambie y se base solamente en el ID de usuario y la contraseña.
 
 ## Configurar la aplicación Microsoft Dynamics CRM {#set-up-microsoft-dynamics-crm-app}
 
@@ -20,7 +20,7 @@ Siga los pasos de [este artículo de Microsoft](https://docs.microsoft.com/en-us
 
 Cuando haya terminado, el siguiente paso es **Introducir el Secreto e ID de cliente generado por Dynamics CRM en Marketo**.
 
-## Introduzca el Id. de cliente generado y el secreto de Dynamics CRM en Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Introduzca el Id. de cliente y secreto generados por Dynamics CRM en Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 Los siguientes pasos son aplicables a las versiones en línea y locales.
 
