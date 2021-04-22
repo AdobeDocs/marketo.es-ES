@@ -1,31 +1,31 @@
 ---
 unique-page-id: 1147129
-description: Crear un informe de rendimiento de Programa - Documentos de marketing - Documentación del producto
-title: Crear un informe de rendimiento de Programa
+description: Creación de un informe de rendimiento del programa - Documentos de Marketo - Documentación del producto
+title: Crear un informe de rendimiento del programa
+exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
+# Crear un informe de rendimiento del programa {#create-a-program-performance-report}
 
-# Crear un informe de rendimiento de Programa {#create-a-program-performance-report}
+Consulte las buenas estadísticas de los programas con este informe.
 
-Consulte las buenas estadísticas de sus programas con este informe.
-
-1. [Cree un informe en un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el tipo **de puerto de** [Programa ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Performance.
-1. Haga clic en la ficha **Informe**.
+1. [Cree un informe en un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el  **tipo** [de puerto de rendimiento del programa](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Haga clic en la pestaña **Report**.
 1. ¡Estás ahí! Explore el informe para ver cómo funcionan sus programas.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Para encontrar los programas con el *costo por éxito* más bajo, por ejemplo, [ordene el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Ordenar De subida**.
+>Para encontrar los programas con el *Costo por éxito* más bajo, por ejemplo, [ordene el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Orden ascendente**.
 
-Las columnas de un informe de rendimiento de Programa incluyen:
+Las columnas de un informe Rendimiento del Programa incluyen:
 
 <table> 
  <thead> 
@@ -40,16 +40,16 @@ Las columnas de un informe de rendimiento de Programa incluyen:
    <td>Tipo de canal del programa.</td> 
   </tr> 
   <tr> 
-   <td>Nombres nuevos</td> 
+   <td>Nuevos nombres</td> 
    <td>Nuevas personas adquiridas por el programa.</td> 
   </tr> 
   <tr> 
-   <td>Éxito</td> 
-   <td>Número de miembros que lograron el éxito según se define en los estados de programa. </td> 
+   <td>Correcto</td> 
+   <td>Número de miembros que lograron el éxito según se define en los estados del programa. </td> 
   </tr> 
   <tr> 
-   <td>Costo total</td> 
-   <td><p>Suma de todos los costes de período dentro del programa.</p></td> 
+   <td>Coste total</td> 
+   <td><p>Suma de todos los gastos de período dentro del programa.</p></td> 
   </tr> 
  </tbody> 
 </table>
