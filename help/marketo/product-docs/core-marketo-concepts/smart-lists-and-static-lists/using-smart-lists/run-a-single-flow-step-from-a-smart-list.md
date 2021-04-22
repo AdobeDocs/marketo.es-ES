@@ -1,29 +1,29 @@
 ---
 unique-page-id: 557322
-description: Ejecutar un solo paso de flujo desde una Lista inteligente - Documentos de marketing - Documentación del producto
-title: Ejecutar un solo paso de flujo desde una Lista inteligente
+description: 'Ejecutar un solo paso de flujo desde una lista inteligente: Documentos de Marketo: Documentación del producto'
+title: Ejecutar un solo paso de flujo desde una lista inteligente
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-
-# Ejecutar un solo paso de flujo desde una Lista inteligente {#run-a-single-flow-step-from-a-smart-list}
+# Ejecutar un solo paso de flujo desde una lista inteligente {#run-a-single-flow-step-from-a-smart-list}
 
 Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo dentro de una lista inteligente en lugar de crear una campaña inteligente completa.
 
 >[!PREREQUISITES]
 >
->[Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione una lista o lista inteligente con personas y, a continuación, vaya a la ficha **Personas**.
+1. Seleccione una lista o lista inteligente con personas incluidas y vaya a la pestaña **People**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -37,13 +37,13 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
    >[!NOTE]
    >
-   >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar todo** se seleccionarán todas las personas en todas las páginas.
+   >Si los resultados abarcan varias páginas, al hacer clic en **Seleccionar todo** se seleccionarán todas las personas de todas las páginas.
 
-1. En **Persona** **Acciones**, seleccione el paso de flujo que desee. En este ejemplo usaremos [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. En **Persona** **Actions**, seleccione el paso de flujo que desee. En este ejemplo utilizaremos [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. Busque y seleccione un **atributo**. En este ejemplo tomaremos todas las personas que tengan estado &quot;California&quot; y lo cambiaremos a &quot;CA&quot;.
+1. Busque y seleccione un **Attribute**. En este ejemplo tomaremos todas las personas que tengan el estado &quot;California&quot; y lo cambiaremos a &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
@@ -51,7 +51,7 @@ Si desea ejecutar un paso de flujo único, puede utilizar un solo paso de flujo 
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Si está cambiando los valores de datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga clic en **Ir por ella**.
+1. Si está cambiando los valores de los datos de un gran número de personas, es posible que tenga que confirmar el cambio escribiendo el número. Haga clic en **Ir por él**.
 
    ![](assets/changedatavalue.jpg)
 
