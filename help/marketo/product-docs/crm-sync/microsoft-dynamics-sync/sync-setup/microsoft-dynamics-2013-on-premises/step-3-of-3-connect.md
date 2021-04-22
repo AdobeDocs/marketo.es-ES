@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571819
-description: 'Paso 3 de 3: Conexión de Marketo y Dynamics (2013 On-Premies) - Marketo Docs - Documentación del producto'
+description: 'Paso 3 de 3: Conexión de Marketo y Dynamics (2013 On-Premies) - Documentos de Marketo: Documentación del producto'
 title: 'Paso 3 de 3: Conexión de Marketo y Dynamics (local 2013)'
+exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
-
 
 # Paso 3 de 3: Conectar Marketo y Dynamics (On-Premies 2013) {#step-of-connect-marketo-and-dynamics-on-premises}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 3: Instalación de la solución Marketo en Dynamics (local 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (local 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
 >* [Paso 2 de 3: Configuración del usuario de sincronización para Marketo (locales de 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* El nombre de usuario de Marketo debe coincidir con el nombre de usuario de la sincronización de usuarios en CRM. El formato puede ser user@domain.com o DOMINIO\usuario.
+   >* El nombre de usuario en Marketo debe coincidir con el nombre de usuario para sincronizar el usuario en CRM. El formato puede ser user@domain.com o DOMINIO\usuario.
    >* Si no conoce la dirección URL, [aprenda a encontrarla aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 
@@ -107,8 +107,8 @@ Si ha creado un filtro personalizado, asegúrese de entrar y seleccionar los nue
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-¡Excelente trabajo! Acaba de liberar la potencia de la sincronización bidireccional entre Marketo y Microsoft Dynamics. Si ha comprado Marketo Sales Insight, hay más diversión que tener:
+¡Excelente trabajo! Acaba de liberar la potencia de la sincronización bidireccional entre Marketo y Microsoft Dynamics. Si ha comprado Marketo Sales Insight, puede ser más divertido:
 
 >[!MORELIKETHIS]
 >
->[Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+>[Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
