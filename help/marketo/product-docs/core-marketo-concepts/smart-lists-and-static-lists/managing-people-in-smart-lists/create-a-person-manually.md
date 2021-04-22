@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147316
-description: Crear una persona manualmente - Documentos de marketing - Documentación del producto
+description: 'Crear una persona manualmente: Marketo Docs: documentación del producto'
 title: Crear una persona manualmente
+exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # Crear una persona manualmente {#create-a-person-manually}
 
-Hay muchas maneras de llevar a una persona a Marketing. Si necesita crear uno manualmente, así es como hacerlo.
+Hay muchas maneras de llevar a una persona a Marketo. Si necesita crear uno manualmente, así es como hacerlo.
 
-1. Vaya a la **Base de datos**.
+1. Vaya a **Database**.
 
    ![](assets/db-1.png)
 
@@ -23,8 +23,8 @@ Hay muchas maneras de llevar a una persona a Marketing. Si necesita crear uno ma
 
    ![](assets/two-2.png)
 
-1. Introduzca la información de la persona y haga clic en **Crear**.
+1. Introduzca la información de la persona y haga clic en **Create**.
 
    ![](assets/three-2.png)
 
-Esta es una manera rápida y fácil de agregar una sola persona en Marketing!
+Esta es una forma rápida y sencilla de añadir una sola persona en Marketo.
