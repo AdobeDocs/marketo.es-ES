@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950660
-description: Crear etiquetas personalizadas - Documentos de marketing - Documentación del producto
+description: 'Crear etiquetas personalizadas: Documentos de Marketo: Documentación del producto'
 title: Crear etiquetas personalizadas
+exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
 # Crear etiquetas personalizadas {#create-custom-tags}
 
-Las etiquetas le ayudarán a organizar sus programas, mientras que los canales le ayudarán a recopilar datos con fines de sistema de informes.
+Las etiquetas le ayudarán a organizar sus programas, mientras que los canales le ayudarán a recopilar datos para los informes.
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Las etiquetas le ayudarán a organizar sus programas, mientras que los canales l
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Crear un nuevo tipo de etiqueta {#create-a-new-tag-type}
 
 Para crear un nuevo tipo de etiqueta:
 
-1. Vaya a la sección **Administración**.
+1. Vaya a la sección **Admin**.
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
@@ -43,17 +43,17 @@ Para crear un nuevo tipo de etiqueta:
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
-1. Introduzca el **valor** deseado para el tipo de etiqueta. Haga clic en **Añadir otro** para introducir valores de etiqueta adicionales.
+1. Introduzca el **Value** deseado para el tipo de etiqueta. Haga clic en **Agregar otro** para introducir valores de etiqueta adicionales.
 
    ![](assets/image2015-4-22-11-3a30-3a30.png)
 
-1. Seleccione a qué tipos de Programas se aplica esta etiqueta.
+1. Seleccione a qué tipos de programas se aplica esta etiqueta.
 
    ![](assets/image2015-4-22-11-3a39-3a7.png)
 
    >[!NOTE]
    >
-   >Seleccione **Necesario para todos los programas** para agregar esta etiqueta cada vez que se cree un nuevo programa.
+   >Seleccione **Requerido para todos los programas** para agregar esta etiqueta cada vez que se cree un nuevo programa.
 
 1. Haga clic en **Crear** para guardar.
 
