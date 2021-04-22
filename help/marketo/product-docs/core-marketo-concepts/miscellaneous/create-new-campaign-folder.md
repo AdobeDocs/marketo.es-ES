@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953207
-description: Crear nueva carpeta de campaña - Documentos de marketing - Documentación del producto
+description: 'Crear nueva carpeta de campaña: Documentos de Marketo: Documentación del producto'
 title: Crear nueva carpeta de campaña
+exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 translation-type: tm+mt
-source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-
 # Crear nueva carpeta de campaña {#create-new-campaign-folder}
 
-Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y irá camino a la magia de la automatización.
+Las carpetas de campañas ayudan a mantener un espacio de trabajo ordenado. Siga estos sencillos pasos y se dirigirá a la magia de la automatización.
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,11 +27,11 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Escriba un **Nombre** para la carpeta de campaña.
+1. Introduzca un **Name** para la carpeta de campañas.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Opcional: Escriba una **Descripción** y haga clic en **Crear**.
+1. Opcional: Introduzca un **Description** y haga clic en **Create**.
 
    >[!TIP]
    >
@@ -39,14 +39,14 @@ Las carpetas de campañas le ayudan a mantener un espacio de trabajo ordenado. S
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   ¡Increíble! Acaba de crear una carpeta de campaña. Míralo en el árbol.
+   ¡Increíble! Acaba de crear una carpeta de campañas. Echa un vistazo en el árbol.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ahora, cuando [cree un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campañas como una opción.
+   Ahora, al [crear un nuevo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), verá esta carpeta de campaña como una opción.
 
 >[!MORELIKETHIS]
 >
->* [Crear un Programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Crear una nueva Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Crear un programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Creación de una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
