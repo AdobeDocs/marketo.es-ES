@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949218
-description: SEO - Añadir/eliminar página de la Lista - Documentos de marketing - Documentación del producto
-title: SEO - Añadir/eliminar página de la Lista
+description: SEO - Agregar o eliminar página de la lista - Documentos de Marketo - Documentación del producto
+title: 'SEO: Agregar o eliminar página de la lista'
+exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
+# SEO: Agregar o eliminar página de la lista {#seo-add-remove-page-from-list}
 
-# SEO - Añadir/eliminar página de la Lista {#seo-add-remove-page-from-list}
+¿Desea administrar sus páginas? Puede hacerlo fácilmente creando una lista. Puede utilizar listas para organizar páginas o filtrar datos en tableros.
 
-¿Desea administrar sus páginas? Puede hacerlo fácilmente creando una lista. Puede utilizar listas para organizar páginas o filtrar datos en paneles.
-
-## Añadir página a una Lista {#add-page-to-a-list}
+## Agregar página a una lista {#add-page-to-a-list}
 
 1. Vaya a la sección **Páginas**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Pase el ratón sobre la página que desee agregar a una lista. Haga clic en **Añadir/Quitar de la Lista**.
+1. Pase el ratón sobre la página que quiera añadir a una lista. Haga clic en **Agregar o quitar de la lista**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >También puede crear una nueva lista para que la página se abra. Escriba el nombre que desee en Crear una nueva lista.
+   >También puede crear una nueva lista para que la página vaya. Escriba el nombre que desee en Crear una lista nueva.
 
 1. Haga clic en la lista a la que acaba de agregar su página.
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-¡Sí! Ahora debería ver que la página se agregó a la lista.
+¡Sí! Ahora debería ver la página agregada a la lista.
 
-## Eliminar página de una Lista {#remove-page-from-a-list}
+## Eliminar página de una lista {#remove-page-from-a-list}
 
-1. Vaya a la sección Páginas.
+1. Vaya a la sección Páginas .
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Pase el ratón sobre la página que desee eliminar. Haga clic en **Añadir/Quitar de la Lista**.
+1. Pase el ratón sobre la página que desee eliminar. Haga clic en **Agregar o quitar de la lista**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
-1. Haga clic en la lista de la que desee eliminarla.
+1. Haga clic en la lista de la que desea eliminarla.
 
    >[!NOTE]
    >
-   >Todas las listas a las que pertenece la palabra clave actualmente tendrán una marca de verificación. Una vez retirada de la lista, la comprobación desaparece.
+   >Todas las listas a las que pertenece la palabra clave actualmente tendrán una marca de verificación. Una vez eliminada de la lista, la comprobación desaparece.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
