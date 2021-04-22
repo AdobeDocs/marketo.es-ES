@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11379928
-description: Detalles del cambio en pista de auditoría - Marketo Docs - Documentación del producto
+description: Detalles del cambio en pista de auditoría - Documentos de Marketo - Documentación del producto
 title: Cambiar detalles en pista de auditoría
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
 
 ---
 
-
 # Cambiar detalles en pista de auditoría {#change-details-in-audit-trail}
 
-La pista de auditoría ofrece una gran cantidad de información sobre quién está haciendo qué en su suscripción a Marketo. Aquí están los detalles.
+La pista de auditoría ofrece una buena cantidad de información sobre quién está haciendo qué en su suscripción a Marketo. Aquí están los detalles.
 
 ## Pista de auditoría de activos {#asset-audit-trail}
 
@@ -137,7 +137,7 @@ La pista de auditoría ofrece una gran cantidad de información sobre quién est
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <code>"<module name>" <attribute></code> a "value"</td> 
+   <td>Editar módulo <module name><attribute> a "value"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -631,7 +631,7 @@ La pista de auditoría ofrece una gran cantidad de información sobre quién est
   </tr> 
   <tr> 
    <td>Modificar la configuración de listas inteligentes</td> 
-   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de filtros y activadores</td> 
+   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de filtros y déclencheur</td> 
   </tr> 
   <tr> 
    <td>Modificación de la programación de campañas</td> 
@@ -668,7 +668,7 @@ La pista de auditoría ofrece una gran cantidad de información sobre quién est
   </tr> 
   <tr> 
    <td>Modificar la configuración de listas inteligentes</td> 
-   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de filtros y activadores </td> 
+   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de filtros y déclencheur </td> 
   </tr> 
   <tr> 
    <td rowspan="11">Fragmento</td> 
@@ -813,4 +813,3 @@ La pista de auditoría ofrece una gran cantidad de información sobre quién est
 >[!MORELIKETHIS]
 >
 >[Filtrado en pista de auditoría](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
