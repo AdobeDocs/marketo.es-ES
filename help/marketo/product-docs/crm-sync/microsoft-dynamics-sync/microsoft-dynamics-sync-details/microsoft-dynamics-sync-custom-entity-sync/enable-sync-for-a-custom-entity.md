@@ -1,43 +1,43 @@
 ---
 unique-page-id: 2953384
-description: Habilitar la sincronización para una entidad personalizada - Documentos de marketing - Documentación del producto
-title: Habilitar sincronización para una entidad personalizada
+description: Habilitar la sincronización para una entidad personalizada - Documentos de Marketo - Documentación del producto
+title: Habilitar la sincronización para una entidad personalizada
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Habilitar la sincronización para una entidad personalizada {#enable-sync-for-a-custom-entity}
 
-# Habilitar sincronización para una entidad personalizada {#enable-sync-for-a-custom-entity}
-
-Si necesita que los datos de entidad personalizados de Dynamics estén disponibles en Marketing Cloud, a continuación se muestra cómo habilitar la sincronización para ellos:
+Si necesita que los datos de entidad personalizados de Dynamics estén disponibles en Marketo, así es como habilitarlos:
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. Vaya a la sección **Administración**.
+1. Vaya a la sección **Admin**.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
 1. Seleccione **Microsoft Dynamics** y haga clic en **Deshabilitar sincronización**.
 
-   Debe deshabilitar la sincronización global temporalmente para habilitar o deshabilitar una entidad personalizada.
+   Debe desactivar la sincronización global temporalmente para habilitar o deshabilitar una entidad personalizada.
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. En Administración de bases de datos, haga clic en el vínculo **Sincronización de entidades de Dynamics**.
+1. En Administración de bases de datos, haga clic en el enlace **Sincronización de entidades de Dynamics**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Haga clic en el vínculo **Sincronizar esquema**.
+1. Haga clic en el enlace **Sync schema**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Seleccione la entidad que desee sincronizar y haga clic en **Habilitar sincronización**.
+1. Seleccione la entidad que desea sincronizar y haga clic en **Habilitar sincronización**.
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
@@ -47,9 +47,9 @@ Si necesita que los datos de entidad personalizados de Dynamics estén disponibl
 
    >[!NOTE]
    >
-   >Durante el proceso de sincronización, es posible que observe que el elemento &quot;Sincronización de entidades dinámicas&quot; desaparece del árbol de navegación. Se espera que esto ocurra y volverá a aparecer una vez finalizada la sincronización.
+   >Durante el proceso de sincronización, es posible que observe que el elemento &quot;Sincronización de entidades dinámicas&quot; desaparece del árbol de navegación. Esto es un comportamiento esperado y reaparecerá una vez finalizada la sincronización.
 
-1. La entidad ahora tiene una marca de verificación verde.
+1. La entidad ahora tiene una marca de verificación verde en ella.
 
    ![](assets/image2014-10-20-14-3a33-3a4.png)
 
