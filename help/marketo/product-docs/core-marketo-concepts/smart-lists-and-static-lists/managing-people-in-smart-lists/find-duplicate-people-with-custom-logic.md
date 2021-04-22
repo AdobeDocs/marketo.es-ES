@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2952636
-description: Buscar personas duplicadas con lógica personalizada - Marketo Docs - Documentación del producto
+description: Buscar personas duplicadas con lógica personalizada - Documentos de Marketo - Documentación del producto
 title: Buscar personas duplicadas con lógica personalizada
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Buscar personas duplicadas con lógica personalizada {#find-duplicate-people-with-custom-logic}
 
