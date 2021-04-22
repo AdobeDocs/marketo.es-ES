@@ -1,31 +1,31 @@
 ---
 unique-page-id: 1147124
-description: Uso de la ficha Recursos - Documentos de marketing - Documentación del producto
+description: Uso de la pestaña Assets - Marketo Docs - Documentación del producto
 title: Uso de la ficha Recursos
+exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
+# Uso de la pestaña Recursos {#using-the-assets-tab}
 
-# Uso de la ficha Recursos {#using-the-assets-tab}
+El lienzo de recursos es una representación visual del programa. Puede utilizarla para añadir recursos locales e interactuar con los existentes.
 
-El lienzo del recurso es una representación visual del programa. Puede utilizarla para agregar recursos locales e interactuar con los existentes.
+## Adición de recursos {#adding-assets}
 
-## Añadir recursos {#adding-assets}
-
-En el área **Actividades de marketing**, haga clic en la ficha **Recursos**. Elija cualquiera de los recursos siguientes y agréguelos a su programa.
+En el área **Marketing Activities**, haga clic en la pestaña **Assets**. Elija cualquiera de los recursos siguientes y agréguelos a su programa.
 
 ![](assets/programassets.png)
 
-## Administrar su Programa {#manage-your-program}
+## Administrar el programa {#manage-your-program}
 
-Cuando haya recursos en el programa, los verá en la lista.
+Cuando haya activos en su programa, los verá listados aquí.
 
-| Naranja | Campaña déclencheur |
+| Naranja | Campaña de déclencheur |
 |---|---|
 | Verde | Campaña por lotes |
 
@@ -37,8 +37,8 @@ Puede hacer clic con el botón derecho en el encabezado si desea interactuar con
 >
 >Arrastre y suelte para reorganizar las columnas de recursos.
 
-Los recursos que no sean locales del programa tendrán este aspecto:
+Los recursos que no sean locales para el programa tendrán este aspecto:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-La ficha Recursos es un bueno panel para todo lo que se encuentra dentro y al que se hace referencia en el programa.
+La pestaña assets es un tablero pequeño y bueno para todo lo que hay dentro del programa y al que se hace referencia en él.
