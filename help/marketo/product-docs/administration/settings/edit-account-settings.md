@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4719071
-description: Editar configuración de cuenta - Documentos de marketing - Documentación del producto
+description: Editar configuración de cuenta - Documentos de Marketo - Documentación del producto
 title: Editar configuración de cuenta
+exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-
 # Editar configuración de cuenta {#edit-account-settings}
 
-¿Necesita cambiar la dirección de correo electrónico, el nombre o el número de teléfono de la cuenta? Aprenda cómo se muestra abajo.
+¿Necesita cambiar la dirección de correo electrónico, el nombre o el número de teléfono de la cuenta? Aprenda cómo se muestra a continuación.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. Vaya a **Administración**.
+1. Vaya a **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
-1. Realice los cambios y haga clic en **Guardar**.
+1. Realice las ediciones y haga clic en **Guardar**.
 
    ![](assets/image2015-6-23-15-3a20-3a16.png)
 
