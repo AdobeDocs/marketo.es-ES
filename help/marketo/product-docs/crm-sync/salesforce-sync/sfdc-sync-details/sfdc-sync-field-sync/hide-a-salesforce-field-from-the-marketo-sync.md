@@ -1,29 +1,29 @@
 ---
 unique-page-id: 4719306
-description: Ocultar un campo de Salesforce de la sincronización de marketing - Documentos de marketing - Documentación del producto
-title: Ocultar un campo de Salesforce de la sincronización de marketing
+description: Ocultar un campo de Salesforce de la sincronización de Marketo - Marketo Docs - Documentación del producto
+title: Ocultar un campo de Salesforce de la sincronización de Marketo
+exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
-# Ocultar un campo de Salesforce de la sincronización de marketing {#hide-a-salesforce-field-from-the-marketo-sync}
+# Ocultar un campo de Salesforce de la sincronización de Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-No todos los campos de Salesforce son útiles para la mercadotecnia. Puede optimizar el rendimiento de la sincronización incluyendo solo los campos que necesite. Así es como se puede ocultar un campo de Marketing.
+No todos los campos de Salesforce son útiles para Marketing. Puede optimizar el rendimiento de la sincronización incluyendo solo los campos que necesite. Así puede ocultar un campo de Marketo.
 
-1. Haga clic en el menú de nombre y seleccione **Configuración**.
+1. Haga clic en el menú de su nombre y seleccione **Configuración**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Escriba **perfiles** en la barra de búsqueda y haga clic en **Perfiles** en **Administrar usuarios**.
+1. Introduzca **profiles** en la barra de búsqueda y haga clic en **Perfiles** en **Administrar usuarios**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,7 +31,7 @@ No todos los campos de Salesforce son útiles para la mercadotecnia. Puede optim
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. En la sección **Seguridad a nivel de campo**, haga clic en **Vista** al lado del objeto que contiene el campo destinatario.
+1. En la sección **Field-Level Security**, haga clic en **View** junto al objeto que contiene el campo de destino.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
@@ -39,15 +39,15 @@ No todos los campos de Salesforce son útiles para la mercadotecnia. Puede optim
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Desmarque la casilla **Visible** junto al campo que desee ocultar. Haga clic en **Guardar**.
+1. Desmarque la casilla **Visible** situada junto al campo que desee ocultar. Haga clic en **Guardar**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
    >[!NOTE]
    >
-   >Si el campo que oculta en Salesforce ya se ha sincronizado con Marketing, también deberá ocultarlo en Marketing, si no desea utilizarlo.
+   >Si el campo que oculta en Salesforce ya se ha sincronizado con Marketo, también deberá ocultarlo en Marketo si no desea utilizarlo.
 
-   ¡Eso es todo! Ya no verá este campo en el Explorador de mercadotecnia una vez finalizada la siguiente sincronización.
+   ¡Eso es todo! Ya no verá este campo en Marketo una vez finalizada la siguiente sincronización.
 
    >[!MORELIKETHIS]
    >
