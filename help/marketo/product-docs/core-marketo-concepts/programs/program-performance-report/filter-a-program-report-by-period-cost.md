@@ -1,40 +1,40 @@
 ---
 unique-page-id: 1147237
-description: Filtrar un informe de Programa por costo de período - Documentos de marketing - Documentación del producto
-title: Filtrar un informe de Programa por costo de período
+description: Filtrar un informe de programa por coste de período - Documentos de Marketo - Documentación del producto
+title: Filtrar un informe de programa por costo de período
+exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
+# Filtrar un informe de programa por costo de período {#filter-a-program-report-by-period-cost}
 
-# Filtrar un informe de Programa por costo de período {#filter-a-program-report-by-period-cost}
+Céntrese en el [informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) en un período de tiempo de costo específico.
 
-Centre su [informe de rendimiento de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) en un intervalo de tiempo de costo de período específico.
-
-1. Vaya a **Actividades de marketing** (o **Analytics**).
+1. Vaya a **Marketing Activities** (o **Analytics**).
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione el informe de rendimiento de programa.
+1. Seleccione el informe de rendimiento del programa.
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Haga clic en la ficha **Configuración** y arrastre sobre **Costo de período**.
+1. Haga clic en la pestaña **Configuración** y arrastre **Costo de período**.
 
    ![](assets/lm-86194-1.png)
 
-1. Introduzca las fechas **De** y **A** para los costos incurridos y haga clic en **Aplicar**.
+1. Introduzca las fechas **From** y **To** para los costes incurridos y haga clic en **Apply**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. ¡Ya has terminado! Haga clic en la ficha **Informe** para ver únicamente los programas que se encuentran dentro del intervalo de tiempo de costo del período especificado.
+1. ¡Ya has terminado! Haga clic en la pestaña **Informe** para ver solo los programas que se encuentran dentro del periodo de tiempo de costo especificado.
 
    ![](assets/lm-86194-report-tab.png)
 
    >[!NOTE]
    >
-   >[Filtrar un informe de Programa por Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
+   >[Filtrado de informes de programa por programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
