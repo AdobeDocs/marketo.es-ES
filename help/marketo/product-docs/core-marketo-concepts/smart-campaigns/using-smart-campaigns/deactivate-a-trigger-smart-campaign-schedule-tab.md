@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146991
-description: Desactivación de una Campaña Déclencheur Smart | Ficha Programación - Documentos de marketing - Documentación del producto
-title: Desactivación de una Campaña Déclencheur Smart | Ficha Programación
+description: Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación - Documentos de Marketo - Documentación del producto
+title: Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación
+exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
-# Desactivación de una Campaña Déclencheur Smart | Ficha Programar {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 Si tiene una campaña de déclencheur antigua que necesita desactivar, siga estos pasos:
 
@@ -29,4 +29,4 @@ Si tiene una campaña de déclencheur antigua que necesita desactivar, siga esto
 
 >[!NOTE]
 >
->Esto impedirá que *personas nuevas* ingresen al flujo, pero las personas en los pasos de espera o en cualquier otro paso de flujo continuarán moviéndose a través del flujo hasta que termine.
+>Esto detendrá a las *nuevas* personas que entren en el flujo, pero las personas en los pasos de espera o en cualquier otro paso de flujo seguirán moviéndose por el flujo hasta que termine.
