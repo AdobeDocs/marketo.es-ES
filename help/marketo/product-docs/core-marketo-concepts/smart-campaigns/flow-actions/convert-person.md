@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147019
-description: Convertir persona - Documentos de marketing - Documentación del producto
+description: Convertir persona - Documentos de Marketo - Documentación del producto
 title: Convertir persona
+exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # Convertir persona {#convert-person}
 
 >[!NOTE]
 >
->Sólo disponible cuando se integra con Salesforce.
+>Solo disponible cuando se integra con Salesforce.
 
 ## Información general {#overview}
 
-Utilice este paso de flujo para convertir a una persona en un contacto en Salesforce. Puede decidir a quién asignar el contacto, enviar una notificación al propietario y establecer un estado de conversión.
+Utilice este paso de flujo para convertir una persona en un contacto en Salesforce. Puede decidir a quién asignar el contacto, enviar una notificación al propietario y establecer un estado convertido.
 
 ![](assets/one-2.png)
 
@@ -31,7 +31,7 @@ Utilice este paso de flujo para convertir a una persona en un contacto en Salesf
 
    >[!CAUTION]
    >
-   >La conversión de una persona en Marketing resultará en una nueva cuenta y oportunidad en Salesforce. Si no desea cuentas de duplicado, utilice Salesforce para convertir.
+   >La conversión de una persona en Marketo dará como resultado una nueva cuenta y una nueva oportunidad en Salesforce. Si no desea cuentas duplicadas, utilice Salesforce para convertir.
 
 1. Elija si desea que se envíe una **notificación** al propietario o no.
 
