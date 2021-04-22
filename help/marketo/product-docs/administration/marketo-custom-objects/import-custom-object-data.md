@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099680
-description: Importar datos de objeto personalizados - Documentos de marketing - Documentación de producto
+description: 'Importar Datos De Objetos Personalizados: Documentos De Marketo: Documentación Del Producto'
 title: Importar datos de objeto personalizados
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # Importar datos de objeto personalizados {#import-custom-object-data}
 
-Es fácil importar datos de objetos personalizados en la base de datos. Si utiliza objetos personalizados con compañías, consulte [Uso de objetos personalizados con Compañías](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) para obtener más información.
+Es fácil importar datos de objetos personalizados en la base de datos. Si utiliza objetos personalizados con empresas, consulte [Uso de objetos personalizados con compañías](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) para obtener más información.
 
-1. En Mi marketing, vaya a **Base de datos**.
+1. En Mi Marketo, vaya a **Database**.
 
    ![](assets/db-1.png)
 
@@ -31,39 +31,39 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    ![](assets/image2016-4-13-14-3a24-3a54.png)
 
-1. Seleccione el modo de desduplicación en la lista desplegable. Haga clic en **Siguiente**.
+1. Seleccione el Modo de desduplicación en la lista desplegable. Haga clic en **Siguiente**.
 
    ![](assets/image2016-4-13-14-3a28-3a7.png)
 
    >[!NOTE]
    >
-   >Utilice los campos Desduplicación como identificadores únicos al crear o actualizar registros de objetos personalizados. En este ejemplo se utiliza el campo Dedupe del objeto personalizado **car** vin (número de identificación del vehículo). Si solo está actualizando registros de objetos personalizados, puede seleccionar la Guía de marketing como modo de depuración.
+   >Utilice los campos de desduplicación como identificadores únicos al crear o actualizar registros de objeto personalizados. Este ejemplo utiliza el campo Dedupe del **car** objeto personalizado: vin (número de ID del vehículo). Si solo está actualizando registros de objeto personalizados, puede seleccionar la guía de Marketo como modo de desduplicación.
 
-1. Asigne cada columna a un campo de marketing, seleccionándolo en la lista desplegable.
+1. Asigne cada columna a un campo de Marketo, seleccionándolo en la lista desplegable.
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
    >[!NOTE]
    >
-   >Asegúrese de que los valores del archivo coincidan con el tipo de campo al que los hace coincidir (por ejemplo, texto, entero, etc.); de lo contrario, el archivo será rechazado.
+   >Asegúrese de que los valores del archivo coinciden con el tipo de campo al que los está haciendo coincidir (por ejemplo, texto, entero, etc.); de lo contrario, el archivo se rechazará.
 
 1. Haga clic en **Siguiente**.
 
    ![](assets/image2016-4-13-14-3a38-3a41.png)
 
-1. Haga clic en **Importar**.
+1. Haga clic en **Import**.
 
    ![](assets/image2016-4-7-13-3a15-3a9.png)
 
    >[!NOTE]
    >
-   >El límite de tamaño de los objetos personalizados es de 100 MB.
+   >El límite de tamaño para los objetos personalizados es de 100 MB.
 
    >[!TIP]
    >
-   >Escriba su dirección de correo electrónico en el campo **Enviar alerta a:** y Marketing le enviará un correo electrónico cuando finalice la importación.
+   >Introduzca su dirección de correo electrónico en el campo **Send Alert To:** y Marketo le enviará un correo electrónico cuando termine la importación.
 
-1. En la esquina superior derecha de la pantalla, verá una notificación mientras se ejecuta la importación y los resultados finales cuando se complete.
+1. En la esquina superior derecha de la pantalla, verá una notificación mientras se ejecuta la importación y los resultados finales cuando finalice.
 
    ![](assets/image2016-4-13-14-3a41-3a1.png)
 
@@ -71,4 +71,4 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
 >[!MORELIKETHIS]
 >
->[Explicación de los objetos personalizados de marketing](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
