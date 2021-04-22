@@ -2,18 +2,18 @@
 unique-page-id: 17727823
 description: Notas de la versión - Invierno '19 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '19
+exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Invierno &#39;19 {#release-notes-winter}
 
-Las siguientes funciones están incluidas en la versión de invierno de 2019. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+Las siguientes funciones están incluidas en la versión de invierno de 2019. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 Haga clic en los vínculos de título para ver los artículos detallados de cada función, si están disponibles.
 
@@ -23,7 +23,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 >[!NOTE]
 >
->Microsoft está presionando a todos los clientes en línea para que actualicen a la versión más reciente de Microsoft Dynamics. Si está integrando su instancia de Marketo con Dynamics Online, deberá [actualizar a la última versión de la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) antes del **31 de enero de 2019** para asegurarse de que su integración seguirá funcionando.
+>Microsoft está presionando a todos los clientes en línea para que actualicen a la versión más reciente de Microsoft Dynamics. Si está integrando su instancia de Marketo con Dynamics Online, deberá [actualizar a la última versión de la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) antes del **31 de enero de 2019** para asegurarse de que la integración seguirá funcionando.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Incluya hasta cinco direcciones CC por destinatario en correos electrónicos env
 
 **[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **Modo** de solo API: Ahora los usuarios pueden determinar cuándo y cómo rastrear a los miembros de su base de datos permitiendo que las aplicaciones web de una sola página llamen explícitamente cuando desean registrar una visita de página web en lugar de depender del seguimiento automático de Marketo.
+* **Modo** de solo API: Los usuarios ahora pueden determinar cuándo y cómo rastrear miembros de su base de datos permitiendo que las aplicaciones web de una sola página llamen explícitamente cuando desean registrar una visita de página web en lugar de depender del seguimiento automático de Marketo.
 * **Administración de exclusión**: Administre fácilmente las exclusiones al hacer coincidir el dominio de la cookie de exclusión con el dominio de la cookie de seguimiento de Munchkin.
 * **Parámetro** de decisor de nivel de dominio: Dominios de dos letras (p. ej. &quot;  [website.io](https://website.io)&quot;) rastreará automáticamente en Marketo sin requisitos de configuración adicionales.
 
-## Compromiso de ventas de Marketo {#marketo-sales-engage}
+## Participación de ventas de Marketo {#marketo-sales-engage}
 
 * **Perfil** personalizado de Salesforce: El compromiso de ventas ahora admite perfiles personalizados ilimitados.
 
@@ -66,7 +66,7 @@ Incluya hasta cinco direcciones CC por destinatario en correos electrónicos env
 >
 >Las versiones de Marketo Sky se producen en una cadencia más frecuente. Se espera que las siguientes funciones y mejoras se publiquen a finales del cuarto trimestre o principios del primer trimestre. Para obtener más información y actualizaciones, consulte nuestra [Documentación de Sky](https://help.marketo.com/).
 
-* **Experiencia** predeterminada opcional: Los usuarios de Marketo pueden establecer Marketo Sky como su experiencia predeterminada si un administrador les ha proporcionado acceso.
+* **Experiencia** predeterminada opcional: Los usuarios de Marketo pueden establecer el Marketo Sky como su experiencia predeterminada si un administrador les ha proporcionado acceso.
 
 * **Se reinventó Mi Marketo**: Personalice su experiencia agregando utilidades que proporcionen información crítica, notificaciones y vínculos a las áreas más visitadas.
 
@@ -76,7 +76,7 @@ Incluya hasta cinco direcciones CC por destinatario en correos electrónicos env
 
 * **Interfaz** de usuario mejorada: Nuevos iconos, modales y botones, junto con una nueva paleta de colores que refleja la actualización de nuestra marca y hace que el Marketo Sky sea aún más impresionante y funcional.
 
-* **Mejoras en el uso del programa de correo electrónico**: Seguimos avanzando hacia la paridad en la funcionalidad del Programa de correo electrónico entre nuestra plataforma clásica de Gestión de posibles clientes de Marketo y la nueva experiencia de Marketo Sky.
+* **Mejoras en el uso del programa de correo electrónico**: Seguimos avanzando hacia la paridad en la funcionalidad del Programa de correo electrónico entre nuestra plataforma clásica de gestión de posibles clientes de Marketo y la nueva experiencia de Marketo Sky.
 * **Programas de Evento Con Seminario Web**: Los programas de Evento con seminario web ya están disponibles en Marketo Sky (nota: solo se admitirá GoToWebinar en esta versión, con más integraciones establecidas a lo largo del tiempo).
 
 ## Marketing basado en cuentas {#account-based-marketing}
@@ -99,7 +99,7 @@ Personalice sus campañas ABM para personas específicas dentro de cuentas con n
 
 Para administrar los dominios y subdominios de forma más eficaz, los usuarios ahora pueden agregar subdominios a la configuración de su cuenta RTP.
 
-## Compromiso móvil de Marketo (MME) {#marketo-mobile-engagement-mme}
+## Marketo Mobile Engagement (MME) {#marketo-mobile-engagement-mme}
 
 **Kit de desarrollo de software (SDK) MME actualizado para Android**
 
@@ -116,6 +116,6 @@ Hemos actualizado nuestro SDK para Android a un marco más moderno, estable y es
 
 **Plataforma de seminarios web extensible**
 
-Además de nuestra versión del producto, nuestro equipo de socios está trabajando en un nuevo marco que permite a los proveedores de seminarios web crear y mantener sus propias integraciones con Marketo, lo que proporciona más flexibilidad para actualizar y mejorar sus soluciones, a la vez que permite a los especialistas en marketing sacar el máximo partido de las integraciones elegidas.
+Además de nuestra versión del producto, nuestro equipo de socios está trabajando en un nuevo marco que permite a los proveedores de seminarios web crear y mantener sus propias integraciones con Marketo, lo que proporciona más flexibilidad para actualizar y mejorar sus soluciones, al tiempo que permite a los especialistas en marketing sacar el máximo partido de las integraciones que elijan.
 
 Planeamos implementar nuestra nueva plataforma con proveedores caso por caso. Para obtener más información, consulte nuestros [detalles del programa](https://www.marketo.com/why-marketo/partners/technology/) o póngase en contacto con su contacto de Marketo.
