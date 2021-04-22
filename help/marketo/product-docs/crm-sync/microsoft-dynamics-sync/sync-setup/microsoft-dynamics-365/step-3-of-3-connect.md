@@ -1,15 +1,15 @@
 ---
 unique-page-id: 3571830
-description: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (en línea) - Marketo Docs - Documentación del producto'
+description: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (en línea): Marketo Docs: Documentación del producto'
 title: 'Paso 3 de 3: Conexión de Microsoft Dynamics con Marketo (en línea)'
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
-
 
 # Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (en línea) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
@@ -17,7 +17,7 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 3: Instalación de la solución Marketo (en línea)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+>* [Paso 1 de 3: Instalación de la solución de Marketo (en línea)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 >* [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
@@ -53,8 +53,8 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
    >[!NOTE]
    >
-   >* Si el Marketo se aprovisionó antes de octubre de 2020, el ID de cliente y el Secreto son campos opcionales. De lo contrario, son obligatorios. La obtención de esta información dependerá de la versión de MSD que utilice.
-   >* El nombre de usuario de Marketo debe coincidir con el nombre de usuario de la sincronización de usuarios en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
+   >* Si Marketo se aprovisionó antes de octubre de 2020, el ID de cliente y Secreto son campos opcionales. De lo contrario, son obligatorios. La obtención de esta información dependerá de la versión de MSD que utilice.
+   >* El nombre de usuario en Marketo debe coincidir con el nombre de usuario para sincronizar el usuario en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
    >* Si no conoce la dirección URL, [aprenda a encontrarla aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 
