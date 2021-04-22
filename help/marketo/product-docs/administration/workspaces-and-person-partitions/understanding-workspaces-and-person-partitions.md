@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360309
-description: Explicación de los espacios de trabajo y las particiones personales - Documentos de marketing - Documentación del producto
-title: Explicación de los espacios de trabajo y las particiones personales
+description: 'Explicación de los espacios de trabajo y las particiones de persona: Documentos de Marketo: Documentación del producto'
+title: Explicación de los espacios de trabajo y las particiones de persona
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
-# Explicación de los espacios de trabajo y las particiones personales {#understanding-workspaces-and-person-partitions}
+# Explicación de los espacios de trabajo y las particiones de persona {#understanding-workspaces-and-person-partitions}
 
 ## Espacios de trabajo {#workspaces}
 
 >[!CAUTION]
 >
->Los espacios de trabajo pueden ser complejos de configurar. Póngase en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support) para averiguar si son los correctos para usted.
+>Los espacios de trabajo pueden ser complejos de configurar. Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para averiguar si son adecuados para usted.
 
-Los espacios de trabajo son áreas independientes en Marketing que contienen recursos de marketing como programas, páginas de aterrizaje, correos electrónicos y más. Pueden ser usadas por varias personas. Cada usuario tiene acceso a uno o varios espacios de trabajo.
+Los espacios de trabajo son áreas independientes en Marketo que contienen recursos de marketing como programas, páginas de aterrizaje, correos electrónicos y más. Pueden utilizarlas varias personas. Cada usuario tiene acceso a uno o más espacios de trabajo.
 
 >[!NOTE]
 >
@@ -27,8 +27,8 @@ Los espacios de trabajo son áreas independientes en Marketing que contienen rec
 >
 >Algunas razones por las que puede utilizar un espacio de trabajo:
 >
->* Geografía: Los departamentos de mercadotecnia de Europa, Asia y América del Norte obtienen un espacio de trabajo
->* Unidad de negocio: Quicken, Quickbooks y TurboTax obtienen un espacio de trabajo
+>* Geografía: Los departamentos de marketing de Europa, Asia y Norteamérica disponen de un espacio de trabajo
+>* Unidad empresarial: Quicken, Quickbooks y TurboTax cuentan con un espacio de trabajo
 
 >
 >
@@ -36,11 +36,11 @@ En cada caso, la separación se debe a que los recursos de marketing son complet
 
 >[!NOTE]
 >
->Obtenga información sobre cómo crear [un nuevo espacio de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Aprenda a crear [crear un nuevo espacio de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Uso compartido entre espacios de trabajo {#sharing-across-workspaces}
 
-A continuación se muestra cómo compartir recursos entre espacios de trabajo. Funciona igual para cualquier cosa que quieras compartir; este ejemplo muestra las segmentaciones.
+A continuación se muestra cómo compartir recursos entre espacios de trabajo. Funciona igual para cualquier cosa que desee compartir; en este ejemplo se muestran las segmentaciones.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ A continuación se muestra cómo compartir recursos entre espacios de trabajo. F
 
    ![](assets/two.png)
 
-1. Mueva los recursos que desee compartir a la carpeta.
+1. Mueva los recursos que desea compartir a la carpeta .
 
    ![](assets/three.png)
 
@@ -62,13 +62,13 @@ A continuación se muestra cómo compartir recursos entre espacios de trabajo. F
 
    ![](assets/four.png)
 
-1. Seleccione los espacios de trabajo con los que desea compartir la carpeta y haga clic en **Guardar**. El cuadro de diálogo Compartir carpeta solo mostrará los espacios de trabajo que tiene permiso para vista.
+1. Seleccione los espacios de trabajo con los que desea compartir la carpeta y haga clic en **Guardar**. El cuadro de diálogo Compartir carpeta solo mostrará los espacios de trabajo que tenga permiso para ver.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 
    >[!NOTE]
    >
-   >La carpeta de origen tendrá ahora una pequeña flecha verde que indica que se ha compartido. En el espacio de trabajo compartido, la carpeta tendrá un cerrojo, que indica que es de sólo lectura.
+   >La carpeta de origen ahora tendrá una pequeña flecha verde que indica que se compartió. En el espacio de trabajo compartido, la carpeta tendrá un candado que indica que es de solo lectura.
 
 Puede compartir estos elementos entre espacios de trabajo.
 
@@ -78,15 +78,15 @@ Puede compartir estos elementos entre espacios de trabajo.
 * Campañas inteligentes
 * [Listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentaciones](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Recortes
+* Fragmentos
 
-## Clonación en espacios de trabajo {#cloning-across-workspaces}
+## Clonación entre espacios de trabajo {#cloning-across-workspaces}
 
-Para los recursos que no son plantillas, es mejor clonar los recursos como recursos locales dentro de un programa.  Con el nivel de acceso adecuado, puede arrastrar y soltar estos recursos en otro espacio de trabajo:
+Para los recursos que no son plantillas, es mejor clonarlos como recursos locales dentro de un programa.  Con el nivel de acceso adecuado, puede arrastrar y soltar estos recursos en otro espacio de trabajo:
 
 * Programas
 * Correos electrónicos
-* páginas de aterrizaje
+* Páginas de aterrizaje
 * Forms
 
 >[!NOTE]
@@ -99,30 +99,30 @@ Para mover recursos a un nuevo espacio de trabajo, colóquelos en una carpeta y 
 
 >[!NOTE]
 >
->No puede mover un programa que contenga miembros de un espacio de trabajo a otro.
+>No se puede mover un programa que contenga miembros de un espacio de trabajo a otro.
 
-## Particiones de persona {#person-partitions}
+## Particiones de personas {#person-partitions}
 
-Las particiones personales actúan como bases de datos separadas. Cada partición tiene su propia gente que no desduplica ni combina con otras particiones. Si cree que tiene un caso de uso comercial que puede requerir tener registros de duplicados con la misma dirección de correo electrónico, póngase en contacto con [Asistencia técnica de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+Las particiones de persona actúan como bases de datos independientes. Cada partición tiene su propia gente que no desduplica ni combina con otras particiones. Si cree que tiene un caso de uso empresarial que puede requerir tener registros duplicados con la misma dirección de correo electrónico, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Puede asignar particiones de persona a [espacios de trabajo](create-a-new-workspace.md) en las siguientes configuraciones:
 
-* partición de un espacio de trabajo a una persona (1:1)
-* un espacio de trabajo para muchas particiones personales (1:x)
+* partición de espacio de trabajo a una persona (1:1)
+* un espacio de trabajo para muchas particiones de persona (1:x)
 * muchos espacios de trabajo en una partición de persona (x:1)
 
 >[!NOTE]
 >
 >Razones por las que usaría una partición de persona:
 >
->* Los espacios de trabajo no solo tienen recursos diferentes, sino que tampoco comparten ninguna persona
->* Desea duplicados por otras razones comerciales
+>* Sus espacios de trabajo no solo tienen recursos diferentes, sino que tampoco comparten ninguna persona
+>* Desea duplicados por otros motivos comerciales
 
 
 >[!CAUTION]
 >
->Las particiones personales no interactúan entre sí, por lo tanto tenga cuidado al configurarlas.
+>Las particiones de persona no interactúan entre sí, por lo que debe tener cuidado al configurarlas.
 
 >[!NOTE]
 >
->Obtenga información sobre cómo [crear una partición de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Aprenda a [crear una partición de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
