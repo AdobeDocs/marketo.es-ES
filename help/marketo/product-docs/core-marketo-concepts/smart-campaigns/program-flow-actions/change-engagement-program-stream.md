@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147015
-description: Cambiar flujo de Programa de compromiso - Documentos de marketing - Documentación del producto
-title: Cambiar flujo de Programa de compromiso
+description: Transmisión del programa de participación en cambios - Documentos de Marketo - Documentación del producto
+title: Cambiar flujo de programa de participación
+exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Cambiar flujo de Programa de compromiso {#change-engagement-program-stream}
+# Cambiar el flujo del programa de participación {#change-engagement-program-stream}
 
 ## Información general {#overview}
 
-Normalmente, se usarían [reglas de transición de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para lograrlo, pero si se desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que se debe utilizar.
+Normalmente, se utilizan [reglas de transición de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguirlo, pero si se desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que se debe utilizar.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
@@ -25,7 +25,7 @@ Normalmente, se usarían [reglas de transición de flujo](/help/marketo/product-
 
    >[!NOTE]
    >
-   >Si selecciona un programa diferente, dejará a la persona en su flujo actual, así como también la agregará al nuevo.
+   >Si selecciona un programa diferente, dejará a la persona en su flujo actual, así como añadirla al nuevo.
 
    ![](assets/image2014-9-22-14-3a52-3a50.png)
 
