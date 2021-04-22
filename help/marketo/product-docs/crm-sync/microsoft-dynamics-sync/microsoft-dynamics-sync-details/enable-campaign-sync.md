@@ -1,14 +1,14 @@
 ---
-description: Habilitar la sincronización de campañas - Marketo Docs - Documentación del producto
+description: Activación de la sincronización de campañas - Documentos de Marketo - Documentación del producto
 title: Habilitar la sincronización de campañas
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # Habilitar la sincronización de campañas {#enable-campaign-sync}
 
