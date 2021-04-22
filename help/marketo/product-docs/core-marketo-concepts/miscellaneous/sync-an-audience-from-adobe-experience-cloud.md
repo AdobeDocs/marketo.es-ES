@@ -1,14 +1,14 @@
 ---
 description: 'Sincronización de una audiencia desde Adobe Experience Cloud: Marketo Docs: Documentación del producto'
 title: Sincronizar una audiencia desde Adobe Experience Cloud
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Sincronizar una audiencia desde Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## Sincronización de una audiencia {#how-to-sync-an-audience}
 
-1. En My Marketo, haga clic en el mosaico **Database**.
+1. En My Marketo, haga clic en el mosaico **Database** .
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Haga clic en la lista desplegable **New** y seleccione **Sincronizar desde Audiencia de Experience Cloud**.
+1. Haga clic en la lista desplegable **New** y seleccione **Sincronizar desde la audiencia del Experience Cloud**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
 
 **¿Cómo funciona la sincronización de cookies?**
 
-Cuando la sincronización de cookies esté habilitada para su suscripción de Marketo, munchkin.js de Marketo intentará capturar y almacenar los ECID de Adobe para la organización de Adobe IMS que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con los ECID de Adobe.
+Cuando la sincronización de cookies esté habilitada para su suscripción a Marketo, munchkin.js de Marketo intentará capturar y almacenar los ECID de Adobe para la organización IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con los ECID de Adobe.
 
 Se requiere un paso más para asociar el perfil de usuario anónimo a un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona [se describe aquí](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
-**¿Por qué el tamaño de la lista en Marketo es diferente del de Adobe?**
+**¿Por qué el tamaño de la lista en Marketo es diferente del de la lista en Adobe?**
 
 Una persona tampoco se sincronizará si no podemos vincular un ID de cookie de ECID a una persona conocida en Marketo.
 
