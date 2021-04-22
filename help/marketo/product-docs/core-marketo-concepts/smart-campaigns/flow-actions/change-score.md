@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146962
-description: Puntuación de cambio - Documentos de marketing - Documentación del producto
+description: 'Puntuación de cambios: Documentos de Marketo: Documentación del producto'
 title: Cambiar puntuación
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # Cambiar puntuación {#change-score}
 
 ## Información general {#overview}
 
-La puntuación de personas es fácil y poderosa para ayudar a que su equipo de ventas dé prioridad.
+La puntuación es fácil y eficaz para ayudar a su equipo de ventas a priorizar.
 
 ![](assets/flowstep-changescore.png)
 
@@ -27,7 +27,7 @@ La puntuación de personas es fácil y poderosa para ayudar a que su equipo de v
 
    >[!TIP]
    >
-   >Puede crear varios campos de puntuación. Consulte [Creación de un campo personalizado en Marketing](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obtener más información.
+   >Puede crear varios campos de puntuación. Consulte [Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obtener más información.
 
 1. Introduzca el cambio de puntuación que desee.
 
@@ -37,6 +37,6 @@ La puntuación de personas es fácil y poderosa para ayudar a que su equipo de v
 
    * **+5** para incrementar
    * **-5** disminuirá (se permiten números negativos)
-   * **=5** hará la puntuación que sea el número exacto
-   * **=-5** hará la puntuación con un número negativo exacto
-   Obtén una puntuación básica rápidamente y luego retoca los resultados con el tiempo. ¡Eso es lo que hicimos!
+   * **=5** hará que la puntuación sea ese número exacto
+   * **=-5** hará que la puntuación sea un número negativo exacto
+   Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el paso del tiempo. ¡Eso es lo que hicimos!
