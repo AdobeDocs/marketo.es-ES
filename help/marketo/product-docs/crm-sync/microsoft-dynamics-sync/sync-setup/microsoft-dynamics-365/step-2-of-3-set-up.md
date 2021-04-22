@@ -2,22 +2,22 @@
 unique-page-id: 3571827
 description: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics - Marketo Docs - Documentación del producto'
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics'
+exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
 
 ---
 
-
-# Paso 2 de 3: Configurar usuario de sincronización de Marketo en Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
+# Paso 2 de 3: Configurar el usuario de sincronización de Marketo en Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Empecemos creando una cuenta de usuario.
 
 >[!PREREQUISITES]
 >
->[Paso 1 de 3: Instalación de la solución Marketo (en línea)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
+>[Paso 1 de 3: Instalación de la solución de Marketo (en línea)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## Crear un nuevo usuario {#create-a-new-user}
 
@@ -67,13 +67,13 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
 >[!NOTE]
 >
->Esto se aplica a Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketo, consulte [Solución de actualización de Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Esto se aplica a Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketo, consulte [Actualización de la solución de Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Vuelva a la pestaña Usuarios habilitados y actualice la lista de usuarios.
 
    ![](assets/ten.png)
 
-1. Pase el ratón junto al usuario de sincronización de Marketo recién creado y aparecerá una casilla de verificación. Haga clic en para seleccionarlo.
+1. Pase el ratón junto al usuario de Marketo Sync recién creado y aparecerá una casilla de verificación. Haga clic en para seleccionarlo.
 
    ![](assets/eleven.png)
 
@@ -81,7 +81,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
    ![](assets/twelve.png)
 
-1. Marketo Sync User **y haga clic en** OK **.**
+1. Marque **Marketo Sync User** y haga clic en **OK**.
 
    ![](assets/thirteen.png)
 
@@ -91,7 +91,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
 ## Configurar la solución de Marketo {#configure-marketo-solution}
 
-¡Casi ahí! Todo lo que nos queda es informar a la solución de Marketo sobre el nuevo usuario creado.
+¡Casi ahí! Todo lo que nos queda es informar a Marketo Solution sobre el nuevo usuario creado.
 
 1. Vuelva a la sección Configuración avanzada y haga clic en el icono ![](assets/image2015-5-13-15-3a49-3a19.png) situado junto a Configuración y seleccione **Configuración de Marketo**.
 
@@ -99,7 +99,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
    >[!NOTE]
    >
-   >Si no ve **Marketo Config** en el menú Configuración, actualice la página. Si eso no funciona, intente [publicar de nuevo la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) o cierre la sesión y vuelva a iniciarla.
+   >Si no ve **Configuración de Marketo** en el menú Configuración, actualice la página. Si eso no funciona, intente [publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) de nuevo o cierre la sesión y vuelva a iniciarla.
 
 1. Haga clic en **Default**.
 
