@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146933
-description: Ejecutar una Campaña inteligente por lotes ahora | Ficha Programación - Documentos de marketing - Documentación del producto
-title: Ejecutar una Campaña inteligente por lotes ahora | Ficha Programación
+description: Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación - Documentos de Marketo - Documentación del producto
+title: Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación
+exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
-# Ejecutar una Campaña inteligente por lotes ahora | Ficha Programar {#run-a-batch-smart-campaign-now-schedule-tab}
+# Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación {#run-a-batch-smart-campaign-now-schedule-tab}
 
 Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutarla ahora o más tarde. Así es como ejecutarlo inmediatamente.
 
-1. Seleccione la campaña inteligente por lotes, vaya a la ficha **Programar** y haga clic en **Ejecutar una vez**.
+1. Seleccione la campaña inteligente por lotes, vaya a la pestaña **Schedule** y haga clic en **Run Once**.
 
    ![](assets/runcampaignnow-hands.png)
 
@@ -31,6 +31,6 @@ Una vez que haya terminado de crear la campaña por lotes, puede elegir ejecutar
 
    >[!NOTE]
    >
-   >* [Programar una Campaña inteligente por lotes para que se ejecute posteriormente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
-   >* [Programar una Campaña por lotes recurrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
+   >* [Programar una campaña inteligente por lotes para que se ejecute más tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Programar una campaña por lotes recurrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
