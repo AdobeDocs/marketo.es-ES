@@ -1,18 +1,18 @@
 ---
-description: 'Notas de la versión, enero de 2021: Marketo Docs: Documentación del producto'
+description: 'Notas de la versión, enero de 2021: Documentación del producto de Marketo'
 title: Notas de la versión, enero de 2021
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Enero de 2021 {#release-notes-jan-21}
 
-Las siguientes funciones se incluyen en la versión del 21 de enero. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+Las siguientes funciones se incluyen en la versión del 21 de enero. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 >[!AVAILABILITY]
 >
@@ -34,7 +34,7 @@ Las siguientes funciones se lanzarán el **15 de enero de 2021**.
 
 ## Páginas de aterrizaje y Forms {#landing-pages-and-forms}
 
-* **API** de formulario: Incluya información sobre posibles clientes o campañas de déclencheur mientras extrae datos de formularios que no sean de Marketo. Los formularios que no son de Marketo se pueden integrar con Marketo Engage a través de la API de REST. La nueva API permite imitar el envío de formularios de Marketo Engage con todas las funcionalidades asociadas.
+* **API** de formulario: Incluya información sobre posibles clientes o campañas de déclencheur mientras extrae datos de formularios que no sean de Marketo. Los formularios que no son de Marketo se pueden integrar con Marketo Engage mediante la API de REST. La nueva API permite imitar el envío de formularios de Marketo Engage con todas las funcionalidades asociadas.
 * **API** de páginas de aterrizaje: Optimice los flujos de trabajo de edición y traducción en aplicaciones integradas con la nueva API de vista previa de la página de aterrizaje. Los proveedores de terceros ahora pueden procesar vistas previas totalmente personalizadas de páginas de aterrizaje sin iniciar sesión en el Marketo Engage.  La API de vista previa de página de aterrizaje permite flujos de trabajo de edición y localización de extremo a extremo en aplicaciones integradas de terceros.
 
 ## Marketing por correo electrónico {#email-marketing}
