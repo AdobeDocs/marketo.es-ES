@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355534
-description: 'Notas de la versión, enero de 2020: Marketo Docs: Documentación del producto'
+description: 'Notas de la versión, enero de 2020: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, enero de 2020
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Enero de 2020 {#release-notes-jan}
 
-La versión del 20 de enero incluye las siguientes funciones. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+La versión del 20 de enero incluye las siguientes funciones. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ Las siguientes funciones se lanzarán el **17 de enero de 2020**.
 >Actualmente, AEM Selector de recursos solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la última versión de Chrome (v. 80), según la configuración de las cookies de SameSite.
 
 * **Microsoft Dynamics - Sincronizar posible cliente con CRM en tiempo** real: Sincronización en tiempo real de posibles clientes y contactos entre Marketo Engage y Microsoft Dynamics. Cree posibles clientes o contactos y veáselos en Microsoft Dynamics inmediatamente con la acción de flujo &quot;Sincronizar persona con Microsoft&quot;.
-* **Asignación de campos adicionales de LinkedIn Lead Gen Forms**: Capture los datos de posibles clientes de LinkedIn Lead Gen Forms para crear experiencias más relevantes tanto para puntos de contacto de marketing como de ventas. Extraiga los campos ocultos, los campos de consentimiento y el campo de posibles clientes de prueba al Marketo Engage.
+* **Asignación de campos adicional de linkedIn Lead Gen Forms**: Capture los datos de posibles clientes de LinkedIn Lead Gen Forms para crear experiencias más relevantes tanto para puntos de contacto de marketing como de ventas. Extraiga los campos ocultos, los campos de consentimiento y el campo de posibles clientes de prueba al Marketo Engage.
 * **API** de dependencias de plantilla de correo electrónico: Obtenga una lista de recursos que dependen de una plantilla de correo electrónico para comprender el alcance de los cambios potenciales y las dependencias de dirección a las plantillas que se pueden modificar y eliminar más rápido.
 * **Mejoras en la administración de varias instancias**: Vaya a la instancia que necesite rápidamente con un menú desplegable alfabético y desplazable de sus suscripciones.
 
