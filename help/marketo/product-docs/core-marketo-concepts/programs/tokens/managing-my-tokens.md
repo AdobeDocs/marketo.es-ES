@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: Administración de tokens - Documentos de marketing - Documentación del producto
-title: Administración de mis tokens
+description: 'Administración de tokens: documentos de Marketo: documentación del producto'
+title: Administración de tokens
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
+# Administración de tokens {#managing-my-tokens}
 
-# Administración de Mis Tokens {#managing-my-tokens}
-
-El uso de tokens puede simplificar los esfuerzos en Marketing Cloud. Puede utilizar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) en pasos de flujo, enlaces web, correos electrónicos y páginas de aterrizaje. Así es como hacerlos.
+El uso de tokens puede simplificar los esfuerzos en Marketo. Puede utilizar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) en pasos de flujo, enlaces web, correos electrónicos y páginas de aterrizaje. Así es como hacerlos.
 
 >[!TIP]
 >
@@ -21,15 +21,15 @@ El uso de tokens puede simplificar los esfuerzos en Marketing Cloud. Puede utili
 
 ## Crear un token {#create-a-my-token}
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione una carpeta de programa o campaña. Haga clic en **Mis tokens**.
+1. Seleccione un programa o una carpeta de campaña. Haga clic en **Mis tokens**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Seleccione un tipo **Mi token**. Arrástrelo y suéltelo sobre el lienzo.
+1. Seleccione un tipo **My Token**. Arrástrela y suéltela en el lienzo.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -41,23 +41,23 @@ El uso de tokens puede simplificar los esfuerzos en Marketing Cloud. Puede utili
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   ¡Sí! Has hecho un Mi testigo.
+   ¡Sí! Has hecho un Mi Token.
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
-## Editar un Mi token {#edit-a-my-token}
+## Editar un token {#edit-a-my-token}
 
-1. Haga clic con el doble en el **Mi token** y realice los cambios. Haga clic en **Guardar**.
+1. Haga doble clic en **My Token** y realice los cambios. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
-## Eliminar un Mi token {#delete-a-my-token}
+## Eliminar un token {#delete-a-my-token}
 
 >[!CAUTION]
 >
->Al eliminar un Mi token, asegúrese de que no hace referencia a él en ningún recurso. Se mostrará un espacio en blanco en cualquier lugar al que se haga referencia si se elimina.
+>Cuando elimine un token, asegúrese de que no hace referencia a él en ningún recurso. Se mostrará un espacio en blanco en cualquier lugar al que se haga referencia si se elimina.
 
-1. Haga clic con el botón secundario en el **Mi token**. Seleccione **Eliminar token**.
+1. Haga clic con el botón derecho en **My Token**. Seleccione **Eliminar token**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
@@ -67,7 +67,7 @@ El uso de tokens puede simplificar los esfuerzos en Marketing Cloud. Puede utili
 
    >[!MORELIKETHIS]
    >
-   >* [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [Explicación de mis tokens en un Programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+   >* [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+   >* [Explicación de mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
    >* [Uso de direcciones URL en mis tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
 
