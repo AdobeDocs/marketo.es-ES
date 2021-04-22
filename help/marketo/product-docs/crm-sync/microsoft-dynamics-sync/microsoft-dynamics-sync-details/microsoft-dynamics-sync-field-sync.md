@@ -1,29 +1,29 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics Sync - Sincronización de campos - Marketo Docs - Documentación del producto
+description: Microsoft Dynamics Sync - Sincronización de campos - Documentos de Marketo - Documentación del producto
 title: Sincronización de Microsoft Dynamics - Sincronización de campos
+exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync: Sincronización de campos {#microsoft-dynamics-sync-field-sync}
 
-Marketo to Dynamics sync es superpotente. Aquí están los detalles.
+La sincronización entre Marketo y Dynamics es superpotente. Aquí están los detalles.
 
 ## ¿Cómo se mantienen los detalles de campo sincronizados entre los dos sistemas? {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
 La sincronización es bidireccional para entidades de contacto y posibles clientes. Si realiza cambios en un posible cliente o contacto en Dynamics o en una persona de Marketo, las actualizaciones se reflejarán en ambos sistemas.
 
-Para la cuenta, el usuario, la oportunidad, el equipo y las entidades personalizadas, la sincronización es unidireccional: Dynamics to Marketo. Si realiza cambios en estas entidades en Dynamics, las actualizaciones se reflejarán en Marketo.
+Para la cuenta, el usuario, la oportunidad, el equipo y las entidades personalizadas, la sincronización es unidireccional: Dynamics a Marketo. Si realiza cambios en estas entidades en Dynamics, las actualizaciones se reflejarán en Marketo.
 
 ## ¿Qué sucede si se realizan cambios en el mismo campo en ambos sistemas al mismo tiempo? (Conflicto de datos) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Aunque esto es raro, Marketo ganará para las personas (posibles clientes) y Dynamics ganará para los contactos. Esto se debe a que consideramos que el departamento de marketing es autorizado para las personas, mientras que el sistema oficial de registro de contactos está en el departamento de ventas (CRM). Para las entidades de sincronización unidireccional, Dynamics siempre ganará.
+Aunque esto es poco frecuente, Marketo ganará para las personas (posibles clientes) y Dynamics ganará para los contactos. Esto se debe a que consideramos que el departamento de marketing es autorizado para las personas, mientras que el sistema oficial de registro de contactos está en el departamento de ventas (CRM). Para las entidades de sincronización unidireccional, Dynamics siempre ganará.
 
 ## ¿Puedo crear un campo en Dynamics con Marketo? {#can-i-create-a-field-in-dynamics-using-marketo}
 
