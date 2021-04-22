@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360362
-description: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Enterprise/Unlimited) - Marketo Docs - Documentación del producto'
+description: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (empresa/ilimitado): Documentos de Marketo: Documentación del producto'
 title: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Enterprise/Unlimited)'
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '731'
 ht-degree: 0%
 
 ---
-
 
 # Paso 1 de 3: Agregar campos de Marketo a Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
