@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949240
-description: SEO - Eliminar una palabra clave - Documentos de marketing - Documentación del producto
+description: SEO - Eliminar una palabra clave - Documentos de Marketo - Documentación del producto
 title: SEO - Eliminar una palabra clave
+exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-
 # SEO - Eliminar una palabra clave {#seo-remove-a-keyword}
 
 Si tiene una palabra clave para la que no desea seguir optimizándola, así es como eliminarla.
 
-1. Haga clic para ir a la sección **Palabras clave**.
+1. Haga clic en para ir a la sección **Palabras clave**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
