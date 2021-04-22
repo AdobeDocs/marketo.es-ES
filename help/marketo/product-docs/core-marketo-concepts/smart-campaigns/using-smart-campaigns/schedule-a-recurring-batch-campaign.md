@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1146972
-description: Programar una Campaña recurrente por lotes - Documentos de marketing - Documentación del producto
-title: Programar una Campaña por lotes recurrente
+description: Programar una campaña por lotes recurrente - Documentos de Marketo - Documentación del producto
+title: Programar una campaña por lotes recurrente
+exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Programar una campaña por lotes recurrente {#schedule-a-recurring-batch-campaign}
 
-# Programar una Campaña por lotes recurrente {#schedule-a-recurring-batch-campaign}
+La periodicidad le permite ejecutar una campaña inteligente por lotes con regularidad. Por ejemplo: una vez a la semana, lunes a las 23:00.
 
-La periodicidad le permite ejecutar una campaña inteligente por lotes de forma regular. Por ejemplo: una vez a la semana, lunes a las 12:00.
-
-1. Seleccione la campaña, vaya a la ficha Programación y haga clic en **Programar periodicidad**.
+1. Seleccione la campaña, vaya a la pestaña Schedule y haga clic en **Schedule Recurrence**.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. Haga clic en la lista desplegable Programar y seleccione **Semanal**.
+1. Haga clic en la lista desplegable Programación y seleccione **Semanal**.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
-1. Haga clic en el icono de calendario y seleccione el día de la primera ejecución. Para este ejemplo, utilizamos el próximo lunes disponible.
+1. Haga clic en el icono de calendario y seleccione el día de la primera ejecución. Para este ejemplo, utilizamos el lunes siguiente disponible.
 
    ![](assets/image2014-9-22-11-3a41-3a46.png)
 
@@ -35,12 +35,12 @@ La periodicidad le permite ejecutar una campaña inteligente por lotes de forma 
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
-1. Puede ver las recurrencias programadas en la ficha Programación para validar.
+1. Puede ver las recurrencias programadas en la pestaña Schedule para validar.
 
    ![](assets/recurrence.jpg)
 
 >[!NOTE]
 >
->La ficha Programación mostrará las tres siguientes incidencias como referencia.
+>La pestaña Schedule muestra las siguientes tres incidencias como referencia.
 
-¡Y eso es todo! Su campaña por lotes se ejecutará ahora todos los lunes al mediodía.
+¡Y eso es todo! La campaña por lotes ahora se ejecutará todos los lunes al mediodía.
