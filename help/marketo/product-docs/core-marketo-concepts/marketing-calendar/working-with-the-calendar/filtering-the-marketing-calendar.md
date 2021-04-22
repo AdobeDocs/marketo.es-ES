@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147294
-description: Filtrado del calendario de marketing - Documentos de marketing - Documentación del producto
-title: Filtrado del calendario de mercadotecnia
+description: Filtrado del calendario de marketing - Marketo Docs - Documentación del producto
+title: Filtrado del calendario de marketing
+exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
+# Filtrado del calendario de marketing {#filtering-the-marketing-calendar}
 
-# Filtrado del calendario de mercadotecnia {#filtering-the-marketing-calendar}
+Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtrar la información mostrada en el calendario.
 
-Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtrar la información que se muestra en el calendario.
-
-1. Vaya al calendario.
+1. Vaya al Calendario.
 
 ![](assets/2017-05-10-15-30-47.png)
 
@@ -23,17 +23,17 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    >[!NOTE]
    >
-   >Los tipos de entrada predeterminados serán **Correo electrónico** **Programas** y **Campañas** **Inteligentes** **con** **Correo electrónico**.
+   >Los tipos de entrada predeterminados serán **Email** **Programs** y **Smart** **Campaigns** **con** **Email**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. Elija los tipos de entrada adicionales que desee ver en el filtro.
+1. Elija tipos de entrada adicionales que desee ver en el filtro.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >Para obtener descripciones de los tipos de entrada estándar, consulte [Tipos de entrada de Vista de Calandario del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Para obtener descripciones de los tipos de entrada estándar, consulte [Tipos de entrada de vista de programación](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Seleccione las etiquetas de programa que le interesen.
 
@@ -43,8 +43,8 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   ¡Increíble! Ahora solo verá las entradas que se aplican al filtro que acaba de definir.
+   ¡Increíble! Ahora solo verá entradas que se apliquen al filtro que acaba de definir.
 
    >[!NOTE]
    >
-   >[Guardar una definición de filtro en el calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+   >[Guardar una definición de filtro en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
