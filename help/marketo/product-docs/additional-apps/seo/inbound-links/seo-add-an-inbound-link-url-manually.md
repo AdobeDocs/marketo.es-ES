@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949247
-description: SEO - Añadir una URL de vínculo entrante manualmente - Documentos de marketing - Documentación del producto
-title: 'SEO: Añadir una URL de vínculo de entrada de forma manual'
+description: SEO - Añadir una URL de vínculo entrante manualmente - Documentos de Marketo - Documentación del producto
+title: 'SEO: Agregar una URL de vínculo de entrada manualmente'
+exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
+# SEO: Agregar una URL de vínculo de entrada manualmente {#seo-add-an-inbound-link-url-manually}
 
-# SEO - Añadir una URL de vínculo entrante de forma manual {#seo-add-an-inbound-link-url-manually}
+Puede añadir vínculos entrantes manualmente. A continuación se muestra cómo:
 
-Puede agregar vínculos de entrada manualmente. Así es como:
-
-1. Vaya a la sección **Vínculos de entrada**.
+1. Vaya a la sección **Vínculos entrantes**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Haga clic en **Añadir direcciones URL**.
+1. Haga clic en **Agregar direcciones URL**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Escriba la dirección URL. Haga clic en **Añadir**.
+1. Escriba la dirección URL. Haga clic en **Add**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
@@ -33,5 +33,4 @@ Puede agregar vínculos de entrada manualmente. Así es como:
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-¡Vamos! Ahora debería ver la nueva dirección URL agregada a la lista. Puede tomar algún tiempo recopilar todos los datos.
-
+¡Vamos! Ahora debería ver la nueva URL añadida a la lista. Puede tardar algún tiempo en recopilar todos los datos.
