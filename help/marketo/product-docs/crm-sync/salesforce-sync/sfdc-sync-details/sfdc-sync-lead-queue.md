@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7516241
-description: Sincronización de SFDC - Cola de posibles clientes - Documentos de marketing - Documentación del producto
+description: Sincronización SFDC - Cola de posibles clientes - Documentos de Marketo - Documentación del producto
 title: 'Sincronización SFDC: Cola de posibles clientes'
+exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
 # Sincronización SFDC: Cola de posibles clientes {#sfdc-sync-lead-queue}
 
-Marketo le permite agregar personas a [colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ayudar con la distribución de posibles clientes. Aquí están los detalles.
+Marketo le permite agregar personas a [colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ayudar en la distribución de posibles clientes. Aquí están los detalles.
 
-## ¿Cómo asignar una persona a una cola de Marketing? {#how-to-assign-a-person-to-a-queue-in-marketo}
+## ¿Cómo asignar una persona a una cola en Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 Puede asignar una persona a una cola de posibles clientes de Salesforce mediante cualquiera de estas acciones de flujo:
 
@@ -24,7 +24,7 @@ Puede asignar una persona a una cola de posibles clientes de Salesforce mediante
 
 >[!NOTE]
 >
->No puede crear ni cambiar colas en Marketing.
+>No se pueden crear ni cambiar colas en Marketo.
 
 ## ¿Cómo se almacena la información del propietario del posible cliente si la persona pertenece a una cola? {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
