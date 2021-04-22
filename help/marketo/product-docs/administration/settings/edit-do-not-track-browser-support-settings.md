@@ -1,29 +1,29 @@
 ---
 unique-page-id: 6095047
-description: Editar la configuración de compatibilidad con navegadores "No rastrear" - Documentos de marketing - Documentación del producto
+description: 'Editar la configuración de compatibilidad con navegadores "No rastrear": Documentos de Marketo: Documentación del producto'
 title: Editar la configuración de compatibilidad con navegadores "No rastrear"
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Editar la configuración de compatibilidad con navegadores &quot;No rastrear&quot; {#edit-do-not-track-browser-support-settings}
 
-&quot;No rastrear&quot; es una solicitud del explorador para no rastrearse en sistemas como Marketing. Puede cumplir esa solicitud con los pasos siguientes.
+&quot;No rastrear&quot; es una solicitud del explorador para que no se rastree en sistemas como Marketo. Puede aceptar esa solicitud con los pasos siguientes.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!NOTE]
 >
->&quot;No rastrear&quot; se configurará en Ignorar de forma predeterminada, por lo que si eso es lo que desea, no tendrá que realizar ningún paso.
+>&quot;No rastrear&quot; se establecerá en Ignorar de forma predeterminada, por lo que si eso es lo que desea, no tendrá que realizar ningún paso.
 
-1. Haga clic en **Administración**.
+1. Haga clic en **Admin**.
 
    ![](assets/one.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Seleccione **Soporte** y haga clic en **Guardar**.
+1. Seleccione **Support** y haga clic en **Save**.
 
    ![](assets/four-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Lo mejor es admitir la función &quot;No rastrear&quot;. En Europa, ¡es la ley!
+   >Una práctica recomendada es admitir la función &quot;No rastrear&quot;. En Europa, ¡es la ley!
 
    >[!TIP]
    >
