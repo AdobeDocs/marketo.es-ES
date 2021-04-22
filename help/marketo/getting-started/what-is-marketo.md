@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2949467
-description: ¿Qué es Marketing? - Documentos de marketing - Documentación del producto
-title: ¿Qué es Marketing?
+description: '¿Qué es Marketo? : Documentos de Marketo: documentación del producto'
+title: ¿Qué es Marketo?
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
+# ¿Qué es Marketo? {#what-is-marketo}
 
-# ¿Qué es Marketing? {#what-is-marketo}
+Es software de marketing, a veces conocido como Automatización de marketing. Es genial.
 
-Es un software de marketing, a veces conocido como Automatización de marketing. Es genial.
+## ¿Es una herramienta de descarga de correo? {#is-it-a-mail-blast-tool}
 
-## ¿Es una herramienta para la explosión del correo? {#is-it-a-mail-blast-tool}
+Bueno, eso es una cosa que puedes hacer en Marketo. Pero hay mucho más.
 
-Bueno, eso es una cosa que puedes hacer en Marketing. Pero hay mucho más.
-
-## Bien, vamos al grano, ¿qué tiene? {#ok-get-to-the-point-whats-it-got}
+## Bueno, llévate al grano, ¿qué tiene? {#ok-get-to-the-point-whats-it-got}
 
 * Editor de formularios
-* Editor de páginas de aterrizaje
-* Plantillas de Página de aterrizaje guiadas
+* Editor de página de aterrizaje
+* Plantillas de página de aterrizaje guiadas
 * Editor de correo electrónico
 * Contenido predictivo
 * Integración de seminarios web
 * Marketing móvil
 * Sincronizar con su CRM
-* Integración de sitios Web
-* motor de flujos de trabajo
-* Mercadotecnia basada en cuenta
+* Integración de sitios web
+* Motor de flujo de trabajo
+* Marketing basado en cuentas
 * Puntuación
-* Panel en CRM para representantes de ventas
-* Análisis programa
-* Y sí, las explosiones de correo también
+* Tablero en CRM para representantes de ventas
+* Análisis del programa
+* Y sí, el correo explota también
 
 ## ¡Santo vaca! ¿Necesito aprender todo eso? {#holy-cow-do-i-need-to-learn-all-that}
 
-No, para nada. Marketo es fácil de empezar y evolucionará con usted. Puede agregar piezas con el tiempo.
+No, para nada. Marketo es fácil de empezar y evolucionará con usted. Puede añadir piezas con el tiempo.
 
-## ¿Debo realizar alguna configuración? {#do-i-need-to-do-any-setup}
+## ¿Debo hacer alguna configuración? {#do-i-need-to-do-any-setup}
 
-Sí, hemos hecho una [lista de cosas para hacer](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Sí, hicimos una [lista de comprobación de cosas para hacer](/help/marketo/getting-started/setup-steps/setup-checklist.md).
 
-## ¿Tengo que esperar hasta que la configuración haya terminado para aprender? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## ¿Tengo que esperar hasta que finalice la configuración para aprender? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-¡No! Hicimos un montón de tutoriales fáciles. [Empiece aquí](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). Deberían tomar aproximadamente una hora. Puedes inicio en cualquier momento.
+¡No! Hicimos un montón de tutoriales fáciles. [Empiece aquí](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). Deberían tomar aproximadamente una hora. Puede empezar en cualquier momento.
 
 ## ¿Por qué sigo haciendo preguntas? {#why-am-i-still-asking-questions}
 
