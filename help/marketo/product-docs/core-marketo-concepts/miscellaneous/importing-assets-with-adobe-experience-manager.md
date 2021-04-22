@@ -1,32 +1,32 @@
 ---
 unique-page-id: 37355768
-description: Importación de recursos con Adobe Experience Manager - Documentos de marketing - Documentación del producto
+description: 'Importación de recursos con Adobe Experience Manager: Marketo Docs: Documentación del producto'
 title: Importación de recursos con Adobe Experience Manager
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-
 # Importación de recursos con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-El selector de recursos permite a los clientes de Marketing Cloud acceder, seleccionar e importar recursos de AEM en el estudio de diseño de Marketing Cloud. **Se requieren** permisos de administrador.
+El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e importar AEM recursos en Marketo Design Studio. **Se necesitan** permisos de administrador.
 
 >[!AVAILABILITY]
 >
 >
->No todos los clientes han adquirido esta función. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
+>No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ya ha realizado la [Configuración de AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Asegúrese de que ya ha realizado la [AEM Configuración](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!CAUTION]
 >
->Actualmente, esta función solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la versión más reciente de Chrome (v. 80), según la configuración de la cookie SameSite.
+>Actualmente, esta función solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la última versión de Chrome (v. 80), según la configuración de las cookies de SameSite.
 
 1. Haga clic en **Design Studio**.
 
@@ -44,7 +44,7 @@ El selector de recursos permite a los clientes de Marketing Cloud acceder, selec
 
    ![](assets/four-1.png)
 
-1. Elija la carpeta. A continuación, seleccione las imágenes que desee haciendo clic en la miniatura (puede elegir hasta 10). Haga clic en **Seleccionar** cuando termine.
+1. Elija la carpeta . A continuación, seleccione las imágenes que desee haciendo clic en la miniatura (puede elegir hasta 10). Haga clic en **Seleccionar** cuando termine.
 
    ![](assets/five.png)
 
@@ -52,7 +52,7 @@ El selector de recursos permite a los clientes de Marketing Cloud acceder, selec
    >
    >Las imágenes no pueden superar los 100 MB de tamaño.
 
-1. Haga clic en **Importar** para completar el proceso.
+1. Haga clic en **Import** para completar el proceso.
 
    ![](assets/six-1.png)
 
@@ -62,8 +62,8 @@ El selector de recursos permite a los clientes de Marketing Cloud acceder, selec
 
 ## Aspectos a tener en cuenta {#things-to-note}
 
-Actualmente, Marketing admite las versiones 6.4 y 6.5 de Adobe Experience Manager.
+Actualmente, Marketo es compatible con las versiones 6.4 y 6.5 de Adobe Experience Manager.
 
-Todos los usuarios de la instancia podrán realizar vistas o acceder a las imágenes importadas.
+Todos los usuarios de la instancia podrán ver/acceder a las imágenes que importe.
 
-Las imágenes no se actualizan automáticamente. Si una imagen importada en Marketing Design Studio se actualiza en AEM, debe volver a importarla manualmente en Marketing.
+Las imágenes no se actualizan automáticamente. Si una imagen importada en Marketo Design Studio se actualiza en AEM, debe volver a importarla manualmente en Marketo.
