@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147082
-description: Eliminar persona - Documentos de marketing - Documentación del producto
+description: Eliminar persona - Documentos de Marketo - Documentación del producto
 title: Eliminar persona
+exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Eliminar persona {#delete-person}
 
-Algunas personas erróneas se meten en la base de datos. El paso Eliminar persona puede deshacerse de ellos.
+A veces las personas erróneas entran en la base de datos. El paso Eliminar flujo de persona puede eliminarlos.
 
 ## Información general {#overview}
 
@@ -23,18 +23,18 @@ Utilice el paso de flujo en una campaña inteligente.
 
 >[!CAUTION]
 >
->Al eliminar una persona, todos sus datos históricos de RCE también se eliminarán. No se puede deshacer.
+>Al eliminar una persona, también se eliminarán todos sus datos históricos del RCE. No se puede deshacer.
 
 ## Uso {#usage}
 
-Cuando arrastra el paso de flujo, se establecerá automáticamente para eliminarlo también de su CRM.
+Cuando arrastre el paso de flujo, se establecerá automáticamente para eliminarlo de su CRM también.
 
 ![](assets/two-4.png)
 
-Puede eliminar de Marketing y no de su CRM, de este modo:
+Puede eliminar de Marketo y no de su CRM, de este modo:
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->Eliminar a la persona de su CRM **solo funciona con Salesforce**. Si elimina una persona de Marketing y decide mantenerla en Salesforce, se volverá a crear en Marketing si su registro de Salesforce se actualiza alguna vez.
+>Eliminar a la persona de su CRM **solo funciona con Salesforce**. Si elimina una persona de Marketo y decide mantenerla en Salesforce, se recrearán en Marketo si el registro de Salesforce se actualiza alguna vez.
