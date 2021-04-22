@@ -1,14 +1,14 @@
 ---
-description: Consentimiento de concesión para el ID de cliente y el registro de aplicaciones - Marketo Docs - Documentación del producto
+description: Consentimiento de concesión para el ID de cliente y el registro de aplicaciones - Documentos de Marketo - Documentación del producto
 title: Conceder consentimiento para el ID de cliente y el registro de la aplicación
+exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 translation-type: tm+mt
-source-git-commit: 3a6d9987e214aa8606b9f5abdc780a81355b1001
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # Concesión de consentimiento para el ID de cliente y el registro de aplicación {#grant-consent-for-client-id-and-app-registration}
 
