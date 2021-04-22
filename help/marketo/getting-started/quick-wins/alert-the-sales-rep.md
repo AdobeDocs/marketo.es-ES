@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2359424
-description: Alertar al representante de ventas - Documentos de marketing - Documentación del producto
-title: Alertar al representante de ventas
+description: Alerta al representante de ventas - Documentos de Marketo - Documentación del producto
+title: Alerta al representante de ventas
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
+# Alerta al representante de ventas {#alert-the-sales-rep}
 
-# Alertar al representante de ventas {#alert-the-sales-rep}
+## Misión: Alerta al representante de ventas cuando una persona rellene un formulario en su sitio web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-## Misión: Alertar al representante de ventas cuando una persona rellene un formulario en su sitio Web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
-
-Para enviar automáticamente correos electrónicos de alerta a los representantes de ventas, todo lo que necesita es un correo electrónico de alerta y una campaña por correo electrónico. Así es como hacerlo.
+Para enviar automáticamente correos electrónicos de alerta a los representantes de ventas, todo lo que necesita es un correo electrónico de alerta y una campaña de correo electrónico. Así es como hacerlo.
 
 >[!PREREQUISITES]
 >
->[página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Paso 1: Crear un correo electrónico de alerta {#step-create-an-alert-email}
 
-1. Vaya al área **Actividades de mercadotecnia**.
+1. Vaya al área **Marketing Activities** .
 
    ![](assets/one-5.png)
 
-1. Seleccione **Mi Programa** que creó en la Página de aterrizaje [con una ganancia rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) y, a continuación, en **Nuevo** haga clic en **Nuevo recurso local**.
+1. Seleccione **My Program** que creó en la [Página de aterrizaje con una victoria rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) y, en **Nuevo**, haga clic en **Nuevo recurso local**.
 
    ![](assets/two-6.png)
 
-1. Haga clic en **Correo electrónico**.
+1. Haga clic en **Email**.
 
    ![](assets/three-5.png)
 
@@ -39,11 +39,11 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    ![](assets/four-4.png)
 
-1. Escriba los **Desde Nombre**, **Desde Correo electrónico**, **Responder a** y **Asunto** que desea que vea su equipo de ventas.
+1. Introduzca los **Desde Nombre**, **Desde Correo electrónico**, **Respuesta a** y **Asunto** que desea que vea su equipo de ventas.
 
    ![](assets/five-5.png)
 
-1. Haga clic con el doble para editar el texto del correo electrónico.
+1. Haga doble clic para editar el texto del correo electrónico.
 
    ![](assets/six-5.png)
 
@@ -61,13 +61,13 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} es un token especial para los mensajes de correo electrónico de alerta. Consulte [Uso del testigo Enviar información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para obtener más información.
+   >{{SP_Send_Alert_Info}} es un token especial para los correos electrónicos de alerta. Consulte [Usar el token de información de alerta de envío](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para obtener más información.
 
 1. Haga clic en **Guardar**.
 
    ![](assets/ten-5.png)
 
-1. Cierre la ficha o ventana del editor de correo electrónico.
+1. Cierre la pestaña o ventana del editor de correo electrónico.
 
    ![](assets/eleven-5.png)
 
@@ -75,17 +75,17 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    ![](assets/twelve-4.png)
 
-## Paso 2: Crear una Campaña de desencadenador de alertas {#step-create-an-alert-trigger-campaign}
+## Paso 2: Crear una campaña de Déclencheur de alertas {#step-create-an-alert-trigger-campaign}
 
-1. Seleccione **Mi Programa** creado anteriormente, luego en **Nuevo** haga clic en **Nueva Campaña inteligente**.
+1. Seleccione **My Program** creado anteriormente y, en **New**, haga clic en **New Smart Campaign**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **** Asigne un nombre a la campaña &quot;Mi Campaña de alerta&quot; y haga clic en  **Crear**.
+1. **** Asigne un nombre a la campaña &quot;Mi campaña de alertas&quot; y haga clic en  **Crear**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. En la ficha **Lista inteligente**, busque y arrastre el activador **Rellenar formulario** al lienzo.
+1. En la pestaña **Smart List**, busque y arrastre el déclencheur **Rellenar formulario** al lienzo.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,51 +93,51 @@ Para enviar automáticamente correos electrónicos de alerta a los representante
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. En la ficha **Flujo**, busque y arrastre la acción de flujo **Enviar alerta** al lienzo.
+1. En la pestaña **Flow**, busque y arrastre la acción de flujo **Send Alert** al lienzo.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Seleccione **Mi correo electrónico de alerta** creado anteriormente y deje **Enviar a** como **Propietario de ventas**.
+1. Seleccione **My Alert Email** creado anteriormente y deje **Send To** como **Sales Owner**.
 
    ![](assets/eighteen-1.png)
 
-1. Escriba su dirección de correo electrónico en el campo **A otros correos**.
+1. Escriba su dirección de correo electrónico en el campo **To Other Emails**.
 
    ![](assets/nineteen-2.png)
 
-1. Vaya a la ficha **Programar** y haga clic en el botón **Activar**.
+1. Vaya a la pestaña **Schedule** y haga clic en el botón **Activate**.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Configure las **Reglas de clasificación** en **cada vez** (editando la Campaña inteligente) para permitir que la misma persona active las alertas varias veces.
+   >Establezca **Qualification Rules** en **cada vez** (editando la campaña inteligente) para permitir que la misma persona déclencheur alertas varias veces.
 
-1. Haga clic en **Activar** en la pantalla de confirmación.
+1. Haga clic en **Activate** en la pantalla de confirmación.
 
    ![](assets/twenty-one-1.png)
 
 ## Paso 3: ¡Pruébelo! {#step-test-it-out}
 
-1. Seleccione la página de aterrizaje y haga clic en **Página aprobada de Vista**.
+1. Seleccione la página de aterrizaje y haga clic en **Ver página aprobada**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
    >
-   >No te olvides de aprobar páginas de aterrizaje; no se activan hasta que se aprueban.
+   >No olvide aprobar páginas de aterrizaje; no se activan hasta que se aprueban.
 
-1. Complete el formulario y haga clic en **Enviar**.
+1. Complete el formulario y haga clic en **Submit**.
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
-1. Deberías recibir tu correo electrónico en breve. Una vez que haya comprobado que todo funciona como debería, elimine su dirección de correo electrónico del flujo Enviar alerta (consulte el paso 2.7 anterior).
+1. Debería recibir su correo electrónico en breve. Una vez que haya verificado que todo funciona como debería, elimine su dirección de correo electrónico del flujo Enviar alerta (consulte el paso 2.7 anterior).
 
    >[!NOTE]
    >
-   >Haga clic en la ficha **Información de persona** en Marketing para ver la información de contacto.
+   >Haga clic en la pestaña **Información de persona** en Marketo para ver la información de contacto.
 
-## Misión finalizada {#mission-complete}
+## ¡Misión finalizada! {#mission-complete}
 
 <br> 
 
