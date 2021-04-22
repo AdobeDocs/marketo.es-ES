@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2360276
-description: Ocultar/mostrar un Canal de Programa - Documentos de marketing - Documentación del producto
-title: Ocultar/mostrar un Canal de Programa
+description: 'Ocultar/mostrar un canal de programa: Documentos de Marketo: Documentación del producto'
+title: Ocultar/mostrar un canal de programa
+exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
-# Ocultar/Mostrar un Canal de Programa {#hide-unhide-a-program-channel}
+# Ocultar/mostrar un canal de programa {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si no lo está utilizando ningún programa.  Sin embargo, una vez que se utiliza, tenemos que mantenerlo.  Sin embargo, puede ocultarlo si ya no lo necesita.
+Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) si ningún programa lo está usando.  Sin embargo, una vez que se utiliza, tenemos que mantenerlo.  Sin embargo, puede ocultarlo si ya no lo necesita.
 
-## Ocultar un Canal de Programa {#hide-a-program-channel}
+## Ocultar un canal de programa {#hide-a-program-channel}
 
 1. En **Administración**, haga clic en **Etiquetas**.
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Haga clic en la lista desplegable **Canal** y seleccione el **Canal** para ocultar.
+1. Haga clic en la lista desplegable **Channel** y seleccione el **Channel** que desee ocultar.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -33,11 +33,10 @@ Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/
 
    ![](assets/image2014-9-24-15-3a46-3a22.png)
 
-¡Venga, fácil, fácil!
+¡Fácil de llegar, fácil de hacer!
 
-## Mostrar un Canal de Programa {#unhide-a-program-channel}
+## Mostrar un canal de programa {#unhide-a-program-channel}
 
-1. Para mostrar un Canal de Programa, marque la casilla de verificación Mostrar ocultos.
+1. Muestre un canal de programa marcando la casilla Mostrar oculto .
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
-
