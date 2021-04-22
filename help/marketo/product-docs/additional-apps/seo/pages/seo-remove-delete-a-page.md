@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949262
-description: SEO - Eliminar o eliminar una página - Documentos de marketing - Documentación del producto
-title: SEO - Eliminar o eliminar una página
+description: SEO - Eliminar/eliminar una página - Documentos de Marketo - Documentación del producto
+title: 'SEO: Eliminar o eliminar una página'
+exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-
-# SEO - Eliminar/Eliminar una página {#seo-remove-delete-a-page}
+# SEO: Eliminar o eliminar una página {#seo-remove-delete-a-page}
 
 ¿Desea eliminar una página? Sin sudor, así es como.
 
@@ -19,8 +19,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. En la ficha Páginas, pase el ratón por encima de la página que desee eliminar, haga clic en **Eliminar** y, a continuación, haga clic en **Eliminar**.
+1. En la ficha páginas, pase el ratón sobre la página que desee eliminar, haga clic en **Eliminar** y, a continuación, haga clic en **Quitar**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
-Un trozo de torta. Esta página ahora se elimina de forma permanente de la lista.
+Un trozo de tarta. Esta página ahora se elimina de forma permanente de la lista.
