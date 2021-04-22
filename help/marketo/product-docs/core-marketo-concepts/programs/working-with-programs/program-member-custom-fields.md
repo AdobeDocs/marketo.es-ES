@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: Campos personalizados de miembro del programa - Marketo Docs - Documentación del producto
+description: Campos personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
 title: Campos personalizados de miembro del programa
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
 # Campos personalizados de miembro del programa {#program-member-custom-fields}
 
-Los campos personalizados del miembro del programa le permiten recopilar datos específicos del programa para cada miembro. Pueden utilizarse en: Marketo forms, Smart List filters and déclencheur, y acciones de flujo de Smart Campaign. Los datos se pueden ver en la pestaña Miembros del programa.
+Los campos personalizados del miembro del programa le permiten recopilar datos específicos del programa para cada miembro. Pueden utilizarse en: Marketo forms, déclencheur y filtros de listas inteligentes y acciones de flujo de campañas inteligentes. Los datos se pueden ver en la pestaña Miembros del programa.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Los campos personalizados del miembro del programa le permiten recopilar datos e
 | Objeto | Descripción |
 |---|---|
 | Empresa | Nombre de la empresa asociada a la persona. |
-| Oportunidad | Una oportunidad puede asociarse con una persona o cuenta como una posible venta futura. Normalmente, entran en Marketo a través de un CRM o a través de una API. |
+| Oportunidad | Una oportunidad puede asociarse con una persona o cuenta como una posible venta futura. Normalmente entran en Marketo a través de un CRM o mediante una API. |
 | Persona | Persona de la base de datos de Marketo con la que interactúa mediante campañas de marketing. |
 | Miembro del programa | Persona que también es miembro de un programa |
 
