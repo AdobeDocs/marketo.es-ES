@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10095429
-description: Corregir problemas de sincronización de validación de Dynamics - Documentos de marketing - Documentación del producto
+description: Corrección de problemas de sincronización de validación de Dynamics - Documentos de Marketo - Documentación del producto
 title: Corregir problemas de sincronización de validación de Dynamics
+exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
+# Solucionar problemas de sincronización de validación de Dynamics {#fix-dynamics-validation-sync-issues}
 
-# Corregir problemas de sincronización de validación de Dynamics {#fix-dynamics-validation-sync-issues}
+## Validar resultados de la herramienta de sincronización {#validate-sync-tool-results}
 
-## Validar los resultados de la herramienta de sincronización {#validate-sync-tool-results}
-
-Al ejecutar la sincronización de validación dinámica, se genera este informe. Si hay un ![delete](assets/delete.png) junto a un paso, consulte a continuación para identificar y solucionar el problema. A continuación, vuelva a ejecutar los pasos de validación de sincronización hasta que el resultado no muestre más que marcas de verificación.
+Cuando ejecuta Dynamics Validate Sync, genera este informe. Si hay un ![delete](assets/delete.png) junto a un paso, consulte a continuación para identificar y solucionar el problema. A continuación, vuelva a ejecutar los pasos de validación de sincronización hasta que el resultado muestre únicamente marcas de verificación.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## La dirección URL es válida {#url-is-valid}
 
-Si tiene ![delete](assets/delete.png) aquí, verifique que la dirección URL sea válida. Encuéntralo aquí en Recursos para desarrolladores y consulte el servicio de organización. La dirección URL puede no ser válida por varios motivos.
+Si tiene una ![delete](assets/delete.png) aquí, compruebe que la dirección URL sea válida. Lo encontrará aquí en Recursos para desarrolladores y consulte el servicio de organización. La dirección URL puede no ser válida por varios motivos.
 
 1. Inicie sesión en Dynamics. Haga clic en el icono Configuración y seleccione **Configuración avanzada**.
 
@@ -31,27 +31,27 @@ Si tiene ![delete](assets/delete.png) aquí, verifique que la dirección URL sea
 
    ![](assets/two.png)
 
-1. Haga clic en **Recursos para desarrolladores**.
+1. Haga clic en **Developer Resources**.
 
    ![](assets/three.png)
 
-1. La dirección URL del servicio de organización se encuentra en Extremos de servicio.
+1. La URL del servicio de organización se encuentra en Puntos de conexión de servicio.
 
    ![](assets/four.png)
 
 ## El nombre de usuario y la contraseña son válidos {#username-and-password-are-valid}
 
-Si tiene un ![—](assets/delete.png) aquí, compruebe que el nombre de usuario y la contraseña de Microsoft Dynamics sean válidos.
+Si tiene un ![—](assets/delete.png) aquí, compruebe que su nombre de usuario y contraseña de Microsoft Dynamics son válidos.
 
-## El usuario de sincronización está asignado a la función de usuario de sincronización de marketing {#sync-user-is-assigned-to-the-marketo-sync-user-role}
+## El usuario de sincronización está asignado a la función de usuario de sincronización de Marketo {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Si tiene una ![—](assets/delete.png) aquí, debe comprobar que la función Usuario de sincronización de marketing está marcada en Microsoft Dynamics. Consulte el paso 2 de la documentación de instalación de MIcrosoft Dynamics.
+Si tiene un ![—](assets/delete.png) aquí, debe comprobar que la función de usuario de sincronización de Marketo está marcada en Microsoft Dynamics. Consulte el paso 2 de la documentación de instalación de Microsoft Dynamics.
 
 1. En Dynamics, haga clic en el icono Configuración y seleccione **Configuración avanzada**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Configuración** y seleccione **Seguridad**.
+1. Haga clic en **Settings** y seleccione **Security**.
 
    ![](assets/six.png)
 
@@ -67,13 +67,13 @@ Si tiene una ![—](assets/delete.png) aquí, debe comprobar que la función Usu
 
    ![](assets/eight.png)
 
-1. Compruebe que la función de usuario de sincronización de marketing está activada. Si no es así, márquelo y haga clic en **Aceptar.**
+1. Compruebe que la función de usuario de sincronización de Marketo esté marcada. Si no es así, compruébelo y haga clic en **OK.**
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
-## La solución de marketing está correctamente instalada {#marketo-solution-is-properly-installed}
+## La solución Marketo está instalada correctamente {#marketo-solution-is-properly-installed}
 
-Si tiene un ![—](assets/delete.png) aquí, vaya a Microsoft Dynamics para verificar que la instalación de Marketing esté allí. Consulte el paso 1 de la documentación de configuración de MIcrosoft Dynamics.
+Si tiene un ![—](assets/delete.png) aquí, vaya a Microsoft Dynamics para comprobar que la instalación de Marketo está allí. Consulte el paso 1 de la documentación de configuración de Microsoft Dynamics.
 
 1. En Dynamics, haga clic en el icono Configuración y seleccione **Configuración avanzada**.
 
@@ -83,23 +83,23 @@ Si tiene un ![—](assets/delete.png) aquí, vaya a Microsoft Dynamics para veri
 
    ![](assets/eleven.png)
 
-1. Verifique que la solución esté enumerada.
+1. Compruebe que la solución esté incluida en la lista.
 
    ![](assets/twelve.png)
 
 ## Todos los pasos de la solución están habilitados {#all-steps-in-the-solution-are-enabled}
 
-Si tiene un ![—](assets/delete.png) aquí, compruebe que no se haya desactivado ninguno de los pasos predeterminados. Todos los pasos se activan automáticamente durante la instalación, pero se pueden desactivar durante una personalización.
+Si tiene un ![—](assets/delete.png) aquí, compruebe que no se haya desactivado ninguno de los pasos predeterminados. Todos los pasos se activan automáticamente en la instalación, pero se pueden desactivar durante una personalización.
 
-## El usuario de sincronización está asignado a la solución de marketing {#sync-user-is-assigned-to-the-marketo-solution}
+## El usuario de sincronización está asignado a la solución de Marketo {#sync-user-is-assigned-to-the-marketo-solution}
 
-Si tiene un ![—](assets/delete.png) aquí, asegúrese de que el usuario de sincronización está asignado en la página predeterminada de marketing en Microsoft Dynamics.
+Si tiene un ![—](assets/delete.png) aquí, asegúrese de que el usuario de sincronización esté asignado en la página predeterminada de Marketo en Microsoft Dynamics.
 
 1. En Dynamics, haga clic en el icono Configuración y seleccione **Configuración avanzada**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Configuración** y seleccione **Configuración de marketing**.
+1. Haga clic en **Settings** y seleccione **Marketo Config**.
 
    ![](assets/thirteen.png)
 
@@ -109,7 +109,7 @@ Si tiene un ![—](assets/delete.png) aquí, asegúrese de que el usuario de sin
 
 ## El usuario de sincronización coincide con el nombre de usuario y la contraseña {#sync-user-matches-username-and-password}
 
-Si tiene un ![—](assets/delete.png) aquí, asegúrese de asignar el usuario de sincronización adecuado en el campo Usuario de marketing en el paso de configuración predeterminada de configuración de marketing en Microsoft Dynamics.
+Si tiene un ![—](assets/delete.png) aquí, asegúrese de asignar el usuario de sincronización adecuado en el campo Usuario de Marketo en el paso Configuración predeterminada de Marketo en Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >
