@@ -1,14 +1,14 @@
 ---
-description: Información general sobre la sincronización de campañas - Marketo Docs - Documentación del producto
+description: Información general sobre la sincronización de campañas - Documentos de Marketo - Documentación del producto
 title: Información general sobre la sincronización de campañas
+exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 translation-type: tm+mt
-source-git-commit: c68fe240d9447f9c217dcb258f0dae63c17d37f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Información general sobre la sincronización de campañas {#campaign-sync-overview}
 
@@ -27,12 +27,12 @@ Están disponibles las siguientes acciones de flujo:
 >
 >**Eliminar de Microsoft** Campaign solo eliminará las personas agregadas mediante acciones de flujo en Marketo.
 
-También hay dos activadores:
+También hay dos déclencheur:
 
 * Agregado a Microsoft Campaign
 * Eliminado de Microsoft Campaign
 
-Los activadores se ejecutarán en función de las acciones de la acción de flujo de Marketo &quot;Añadir a Microsoft Campaign&quot; y &quot;Eliminado de Microsoft Campaign&quot;.
+Los déclencheur se ejecutarán en función de las acciones de la acción de flujo de Marketo &quot;Añadir a Microsoft Campaign&quot; y &quot;Eliminado de Microsoft Campaign&quot;.
 
 >[!NOTE]
 >
