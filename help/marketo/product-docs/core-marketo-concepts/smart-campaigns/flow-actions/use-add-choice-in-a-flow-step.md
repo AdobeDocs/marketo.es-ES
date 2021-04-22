@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146980
-description: Usar Añadir opciones en un paso de flujo - Documentos de marketing - Documentación del producto
-title: Usar la opción Añadir en un paso de flujo
+description: 'Uso de Añadir opción en un paso de flujo: Documentos de Marketo: Documentación del producto'
+title: Uso de la opción Añadir en un paso de flujo
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
-# Usar Añadir opción en un paso de flujo {#use-add-choice-in-a-flow-step}
+# Usar Agregar opción en un paso de flujo {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
->[Añadir un paso de flujo en una Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-**Añada las** opciones que utiliza un paso de flujo y diga &quot;Depende&quot; al elegir los detalles.
+**Añada** opciones , le permite utilizar un paso de flujo y decir &quot;Depende&quot; al elegir los detalles.
 
-1. En la ficha **Flujo** de la campaña inteligente, agregue cualquier paso de flujo y haga clic en **Añadir opción**.
+1. En la pestaña **Flow** de la campaña inteligente, añada cualquier paso del flujo y haga clic en **Add Choice**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a58-3a50.png)
 
-1. Elija el operador de opciones e introduzca un valor de opción. Esto establece los criterios o opciones.
+1. Elija el operador de opciones e introduzca un valor de opción. Esto establece sus criterios o opciones.
 
    ![](assets/image2014-9-22-11-3a58-3a54.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Puede establecer cualquiera de los pasos de flujo en —Do Nothing—, en cuyo caso no se realizará ninguna acción sobre esa opción.
+   >Puede establecer cualquiera de sus pasos de flujo en —Do Nothing—, en cuyo caso no se realizará ninguna acción sobre esa elección.
 
    >[!CAUTION]
    >
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Reordenar la opción Añadir en un paso de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
+   >[Reordenar la opción Añadir opción en un paso de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
