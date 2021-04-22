@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949228
-description: SEO - Obtener sugerencias de vínculos de entrada - Documentos de marketing - Documentación del producto
-title: SEO - Obtener sugerencias de vínculos de entrada
+description: SEO - Obtener sugerencias de vínculos entrantes - Documentos de Marketo - Documentación del producto
+title: 'SEO: Obtener sugerencias de vínculos de entrada'
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# SEO: Obtener sugerencias de vínculos de entrada {#seo-get-inbound-link-suggestions}
 
-# SEO - Obtener sugerencias de vínculos de entrada {#seo-get-inbound-link-suggestions}
+Marketo puede sugerir qué vínculos entrantes son valiosos para su [optimización fuera de la página](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-Marketo puede sugerir qué vínculos entrantes son valiosos para la [optimización fuera de la página](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
-
-1. Vaya a la sección **Vínculos de entrada**.
+1. Vaya a la sección **Vínculos entrantes**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
@@ -27,15 +27,15 @@ Marketo puede sugerir qué vínculos entrantes son valiosos para la [optimizaci�
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. Seleccione los vínculos. Haga clic en **Añadir selección**.
+1. Seleccione los vínculos. Haga clic en **Agregar seleccionado**.
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >¿Sabía que puede [agregar su vínculo a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? ¡Echa un vistazo!
+   >¿Sabía que puede [agregar el vínculo a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? ¡Echa un vistazo!
 
-1. ¡Increíble! Ahora se realizará un seguimiento de estos vínculos agregados.
+1. ¡Increíble! Ahora se realizará un seguimiento de estos vínculos añadidos.
 
    >[!NOTE]
    >
