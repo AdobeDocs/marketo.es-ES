@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6848747
-description: Descripciones de los permisos de funciones - Marketo Docs - Documentación del producto
+description: Descripciones de los permisos de funciones - Documentos de Marketo - Documentación del producto
 title: Descripciones de los permisos de funciones
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
 
 ---
 
-
 # Descripciones de los permisos de funciones {#descriptions-of-role-permissions}
 
-A continuación se muestra una lista de todos los permisos disponibles que puede asignar a sus funciones. Los permisos generalmente están asociados con áreas funcionales específicas dentro de Marketo y pueden ayudarle a controlar a qué áreas y funcionalidades tienen acceso los distintos usuarios.
+A continuación se muestra una lista de todos los permisos disponibles que puede asignar a sus funciones. Los permisos generalmente están asociados a áreas funcionales específicas dentro de Marketo y pueden ayudarle a controlar a qué áreas y funcionalidades tienen acceso los distintos usuarios.
 
 Información adicional sobre permisos:
 
@@ -44,8 +44,8 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Administr
 * Ubicación de acceso : otorga a los usuarios acceso a Ubicación en el Administrador para establecer el idioma, la configuración regional, la zona horaria y la moneda predeterminados.
 * Acceso al historial de inicio de sesión : otorga a los usuarios acceso al historial de inicio de sesión del usuario en la pista de auditoría
 * Acceso a la configuración de inicio de sesión : otorga a los usuarios acceso a la configuración de inicio de sesión en Administración para seguridad, restricciones de IP y configuración de informes de listas inteligentes
-* Acceso a Marketo Actividad personalizada : otorga a los usuarios acceso a Marketo Actividades personalizadas en Administradores
-* Acceso a Marketo Custom Object : otorga a los usuarios acceso a Marketo Personalizar objetos en Administradores
+* Acceso a la actividad personalizada de Marketo : otorga a los usuarios acceso a las actividades personalizadas de Marketo en el Administrador
+* Acceso a objeto personalizado de Marketo : otorga a los usuarios acceso a los objetos personalizados de Marketo en administración.
 * Acceso a Munchkin : Los usuarios de GI tienen acceso a Munchkin en Administración para configurar el código de seguimiento, el seguimiento de personas y activar la configuración de API
 * Acceso a Análisis de ciclo de ingresos : otorga a los usuarios acceso a Análisis de ciclo de ingresos en Administración para configurar Resumen de sincronización y Atribución
 * Funciones de acceso : otorga a los usuarios acceso para administrar y editar funciones, pero no a los usuarios
@@ -94,11 +94,11 @@ Proporciona a los usuarios acceso a las fichas de Analytics, a las Perspectivas 
 * Eliminar informe: al desmarcar se elimina la capacidad del usuario de eliminar informes
 * Exportar datos de Analytics: al desmarcar se elimina la capacidad del usuario para exportar datos de Analytics
 
-## Acceso a las presentaciones del calendario {#access-calendar-presentations}
+## Acceso a Presentations de calendario {#access-calendar-presentations}
 
-Permite a los usuarios acceder a las presentaciones del Calendario : permite mostrar el botón Presentaciones en la parte inferior.
+Permite a los usuarios acceder a las presentaciones del Calendario : permite mostrar el botón Presentations en la parte inferior.
 
-* Editar presentaciones de calendario : permite a los usuarios editar presentaciones en el calendario
+* Editar calendario Presentations : permite a los usuarios editar presentaciones en el calendario
 
 ## Acceso a Design Studio {#access-design-studio}
 
@@ -191,7 +191,7 @@ Vea la pestaña Actividades de marketing , las campañas y las carpetas de campa
    * Editar notificación push
 
 * Premios Access
-* Activar campaña
+* Activar campaña de Déclencheur
 * Aprobar programa de correo electrónico
 * Clonar recurso de marketing
 * Eliminar recurso de marketing
