@@ -1,40 +1,40 @@
 ---
 unique-page-id: 2949413
-description: Añadir una restricción a un filtro de Lista inteligente - Documentos de marketing - Documentación del producto
-title: Añadir una restricción a un filtro de Lista inteligente
+description: Agregar una restricción a un filtro de lista inteligente - Documentos de Marketo - Documentación del producto
+title: Agregar una restricción a un filtro de lista inteligente
+exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
+# Agregar una restricción a un filtro de lista inteligente {#add-a-constraint-to-a-smart-list-filter}
 
-# Añadir una restricción a un filtro de Lista inteligente {#add-a-constraint-to-a-smart-list-filter}
+Al crear listas inteligentes, algunos filtros tienen opciones avanzadas llamadas &quot;restricciones&quot;. Estas son condiciones adicionales que puede agregar a los filtros y déclencheur para ayudar a limitar aún más la búsqueda.
 
-Al crear listas inteligentes, algunos filtros tienen opciones avanzadas llamadas &quot;restricciones&quot;. Estas son condiciones adicionales que puede agregar a filtros y déclencheur para ayudar a reducir aún más la búsqueda.
-
-En este ejemplo, vamos a agregar algunas restricciones a un filtro **[Valor de datos cambiado](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** para encontrar personas que han tenido un cambio de estado de MQL a SQL.
+En este ejemplo, vamos a añadir algunas restricciones a un filtro **[Data Value Changed](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** para encontrar personas que hayan cambiado de estado de MQL a SQL.
 
 >[!PREREQUISITES]
 >
->* [Crear una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Utilizar el filtro &quot;Valor de datos cambiado&quot; en una Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
+>* [Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Utilizar el filtro &quot;Data Value Changed&quot; en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
 
 >
 
 
 
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/ma-1.png)
 
-1. Seleccione la lista inteligente con un filtro al que agregará una restricción y haga clic en la ficha **Lista inteligente**.
+1. Seleccione la lista inteligente con un filtro al que agregará una restricción y haga clic en la pestaña **Smart List**.
 
    ![](assets/two-3.png)
 
-1. En **Añadir restricción**, seleccione **Valor anterior**.
+1. En **Agregar restricción**, seleccione **Valor anterior**.
 
    ![](assets/three-3.png)
 
@@ -42,7 +42,7 @@ En este ejemplo, vamos a agregar algunas restricciones a un filtro **[Valor de d
 
    ![](assets/four-2.png)
 
-1. En **Añadir restricción**, seleccione **Nuevo valor**.
+1. En **Agregar restricción**, seleccione **Nuevo valor**.
 
    ![](assets/five.png)
 
@@ -50,4 +50,4 @@ En este ejemplo, vamos a agregar algunas restricciones a un filtro **[Valor de d
 
    ![](assets/six.png)
 
-1. ¡Bien hecho! Haga clic en la ficha **Personas** para ver todas las personas que han tenido un **Estado** cambio de **MQL** a **SQL** en los últimos 30 días.
+1. ¡Bien hecho! Haga clic en la pestaña **People** para ver todas las personas que han cambiado **Status** de **MQL** a **SQL** en los últimos 30 días.
