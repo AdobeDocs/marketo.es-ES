@@ -1,19 +1,19 @@
 ---
 unique-page-id: 18874822
-description: Notas de la versión - Junio del 19 - Marketo Docs - Documentación del producto
+description: Notas de la versión - Junio del 19 de junio - Documentos de Marketo - Documentación del producto
 title: Notas de la versión, junio de 2019
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Junio del 19 {#release-notes-june}
 
-Las siguientes funciones se incluyen en la versión del 19 de junio. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+Las siguientes funciones se incluyen en la versión del 19 de junio. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 **_Versiones trimestrales_**
 
@@ -30,7 +30,7 @@ Las siguientes funciones se lanzaron el 14 de junio de 2019.
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
-* **Coincidencia de cuentas de LinkedIn (BETA)** : Ahora hay una nueva capacidad ABM disponible en versión beta que le ofrece la posibilidad de enviar listas de cuentas conocidas y en espacios en blanco directamente desde Marketo a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketo ABM.
+* **Coincidencia de cuentas de linkedIn (BETA)** : Ahora hay disponible una nueva funcionalidad ABM en versión beta, que le ofrece la posibilidad de enviar listas de cuentas conocidas y en espacios en blanco directamente desde Marketo a LinkedIn. Esta funcionalidad se incluye automáticamente para todos los clientes de Marketo ABM.
 
 <br> 
 
@@ -40,7 +40,7 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 
 ## Marketo Sky {#marketo-sky}
 
-* **Los objetivos de** evento y  **evento** están generalmente disponibles en Marketo Sky en el complemento Eventos Premium.
+* **Los objetivos de** evento y  **evento** generalmente están disponibles en Marketo Sky en el complemento Eventos Premium .
 
    * Restricciones de eventos: Optimice la experiencia del cliente para sus eventos y seminarios web con límites de registro, redirecciones de páginas y funciones de lista de espera.
    * Objetivos del evento: Establezca los objetivos de registro y asistencia al evento y rastree el progreso en tiempo real.
@@ -48,8 +48,8 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 * **Vínculos** de navegación completos: Hemos habilitado la navegación en todas las aplicaciones con permisos, como Hootsuite, Calendar, etc.
 * **Vistas de correo electrónico, página de aterrizaje, fragmento, formulario, imagen y lista de archivos**: Vea, busque y realice acciones masivas en cualquiera de los recursos de Design Studio.
 * **Página** de detalles de imágenes, archivos y fragmentos: Obtenga detalles rápidos sobre sus recursos con metadatos como  _creados en/_ por y acciones como  __ eliminar y  _aprobar_.
-* **Utilidad Publicaciones de blog de comunidad**: Acceda a publicaciones recientes de la Comunidad dentro de Mi Marketo.
-* **Widget** Caduca Pronto: Agregue la utilidad &quot;Caduca pronto&quot; al tablero Mi marca para ver qué campañas y páginas de aterrizaje caducan a continuación.
+* **Utilidad Publicaciones de blog de comunidad**: Acceda a publicaciones recientes de la comunidad desde Mi Marketo.
+* **Widget** Caduca Pronto: Agregue la utilidad &quot;Caduca pronto&quot; a su tablero de Mi Marketo para ver qué campañas y páginas de aterrizaje están configuradas para caducar después.
 * **Más tarjetas** de listas inteligentes: Segmente y dirija adecuadamente con tarjetas de lista inteligente adicionales, incluido el paso de flujo &quot;Crear tarea&quot;, las reglas de lista inteligente de CRM y mucho más.
 * **Página** de detalles del campeón de correo electrónico/desafiante: Consulte datos como criterios ganadores, creados en, etc. de sus pruebas de correo electrónico de campeón/aspirante.
 
@@ -65,7 +65,7 @@ Se espera que las siguientes funciones se publiquen durante el segundo trimestre
 ## Bizible por Marketo {#bizible-by-marketo}
 
 * **Compatibilidad con múltiples monedas para Dynamics**: Bizible ahora se adapta a las tablas de moneda de Microsoft Dynamics, de modo que puede cambiar fácilmente entre monedas corporativas y locales. (Nota: La compatibilidad con SFDC se lanzó en el primer trimestre de 2019).
-* **Integración** de la deriva: Comprenda cómo las conversaciones de derivación afectan el recorrido del cliente. Bizible también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
+* **Integración** de la deriva: Comprender cómo las conversaciones de derivación afectan al recorrido del cliente. Bizible también extraerá direcciones de correo electrónico de las conversaciones para crear un posible cliente nuevo o conectar el punto de contacto a un posible cliente existente.
 * **Localización**: Bizible ya está disponible en todos los idiomas compatibles con Marketo (inglés, japonés, alemán, español, francés y portugués).
 
 ***Seminario*** web de versiones de productosVea la grabación de nuestro seminario web sobre innovaciones de la versión del 19 de junio  [aquí](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
