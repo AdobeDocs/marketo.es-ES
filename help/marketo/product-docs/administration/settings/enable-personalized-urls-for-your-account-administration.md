@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360215
-description: Habilitar direcciones URL personalizadas para su cuenta (administración) - Documentos de marketing - Documentación del producto
+description: 'Habilitar direcciones URL personalizadas para su cuenta (administración): documentos de Marketo: documentación del producto'
 title: Habilitar direcciones URL personalizadas para su cuenta (administración)
+exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # Habilitar direcciones URL personalizadas para su cuenta (administración) {#enable-personalized-urls-for-your-account-administration}
 
-Las direcciones URL personalizadas son buenas para campañas de correo de impresión.
+Las direcciones URL personalizadas son buenas para las campañas de impresión de correo.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. Vaya a **Administración** y haga clic en **Páginas de aterrizaje**.
+1. Vaya a **Admin** y haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-24-11-3a38-3a51.png)
 
@@ -27,7 +27,7 @@ Las direcciones URL personalizadas son buenas para campañas de correo de impres
 
    ![](assets/image2014-9-24-11-3a39-3a6.png)
 
-1. Marque la casilla **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
+1. Marque la casilla **Enable Personalized URLs** y haga clic en **Save**.
 
    ![](assets/image2014-9-24-11-3a39-3a41.png)
 
@@ -35,4 +35,4 @@ Las direcciones URL personalizadas son buenas para campañas de correo de impres
 
 >[!NOTE]
 >
->Si hay dos personas con el mismo nombre y apellido, el sistema anexará automáticamente un número al final.
+>Si hay dos personas con el mismo nombre/apellido, el sistema anexará automáticamente un número al final.
