@@ -1,32 +1,32 @@
 ---
 unique-page-id: 7516605
-description: Ayuda que he heredado una instancia de marketing existente - Documentos de marketing - Documentación del producto
-title: Ayuda heredada una instancia de marketing existente
+description: 'Ayuda que he heredado una instancia de Marketo existente: Marketo Docs, documentación del producto'
+title: Ayuda que he heredado una instancia de Marketo existente
+exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
-# ¡Ayuda! Heredé una instancia de Marketing to existente
+# ¡Ayuda! Heredé una instancia de Marketo existente
 
 ![](assets/help-ive-inherited-an-existing-marketo-instance.png)
 
-**¿Es un usuario nuevo que acaba de heredar una instancia de Marketing existente y no sabe dónde realizar el inicio?**
+**¿Es un usuario nuevo que acaba de heredar una instancia de Marketo existente y no sabe por dónde empezar?**
 
 Si es así, esta guía está pensada para usted.
 
-En realidad, no toma 72 horas pasar por esto, por supuesto, y no responderá a cada pregunta. Pero esto podría ayudarle a sacar el máximo partido de sus primeros días con Marketing señalándole en la dirección correcta para obtener lo que necesita.
+En realidad no toma 72 horas para pasar por eso, por supuesto, y no va a responder a cada pregunta. Pero podría ayudarle a sacar el máximo partido a sus primeros días con Marketo, señalándole en la dirección correcta para obtener lo que necesita.
 
-Así que tome su bebida favorita y eche un vistazo a su alrededor.
+Toma tu bebida favorita y echa un vistazo a tu alrededor.
 
 **Tabla de contenido**
 
 * [Elementos que desproteger](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-* [Aspectos a revisar: Capacidades principales](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
+* [Aspectos a revisar: Capacidades básicas](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Formas de obtener ayuda](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Si ya conoce su camino alrededor de su instancia y se siente cómodo con los conceptos principales de Marketo, consulte los documentos de productos de Marketing o visite la comunidad en línea [Marketing Nation](https://nation.marketo.com/) para ver lo que otros usuarios de Marketing están diciendo.
+Si ya sabe cómo moverse por su instancia y se siente cómodo con los conceptos principales de Marketo, consulte los Documentos de producto de Marketo o visite la comunidad en línea [Marketing Nation](https://nation.marketo.com/) para ver lo que otros usuarios de Marketo están diciendo.
