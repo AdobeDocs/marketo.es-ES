@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2951703
-description: Campaña de solicitudes - Documentos de marketing - Documentación del producto
-title: Solicitud de Campaña
+description: Campaña de solicitud - Documentos de Marketo - Documentación del producto
+title: Solicitud de campaña
+exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
+# Solicitar campaña {#request-campaign}
 
-# Solicitud de Campaña {#request-campaign}
-
-Puede colocar personas en una campaña específica mediante el paso de flujo único **Solicitud de Campaña**.
+Puede colocar personas en una campaña específica utilizando el paso de flujo único **Solicitar campaña**.
 
 >[!NOTE]
 >
->La campaña en la que está colocando a la persona debe estar activa y tener el déclencheur **[Se solicita](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** la Campaña.
+>La campaña en la que está colocando a la persona debe estar activa y tener el déclencheur **[Campaña es solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
 
-1. En la **Base de datos**, busque y seleccione la persona o personas que desee.
+1. En **Database**, busque y seleccione la persona o personas que desee.
 
    ![](assets/one-5.png)
 
-1. Haga clic en **Acciones personales**, pase el ratón por encima de **Especial** y seleccione **Solicitud de Campaña**.
+1. Haga clic en **Acciones de persona**, pase el ratón sobre **Especial** y seleccione **Solicitar campaña**.
 
    ![](assets/two-5.png)
 
-1. Seleccione la campaña en la que desee colocar la persona y haga clic en **Ejecutar ahora**.
+1. Seleccione la campaña en la que desea colocar la persona y haga clic en **Ejecutar ahora**.
 
    ![](assets/three-4.png)
 
-1. En la parte superior derecha de la pantalla, verán cuándo está terminado. Haga clic en **Resultados de la Vista**.
+1. En la parte superior derecha de la pantalla, verá cuándo ha terminado. Haga clic en **Ver resultados**.
 
    ![](assets/four-4.png)
 
-   Su persona se encuentra ahora en la Campaña solicitada.
+   Su persona se encuentra ahora en la campaña solicitada.
 
    ![](assets/five-1.png)
 
@@ -43,4 +43,4 @@ Puede colocar personas en una campaña específica mediante el paso de flujo ún
 
 >[!TIP]
 >
->Utilice el déclencheur o el filtro **Campaña se solicita** para encontrar las personas afectadas por este paso de flujo.
+>Utilice el déclencheur o filtro **Campaign is Requested** para encontrar las personas afectadas por este paso de flujo.
