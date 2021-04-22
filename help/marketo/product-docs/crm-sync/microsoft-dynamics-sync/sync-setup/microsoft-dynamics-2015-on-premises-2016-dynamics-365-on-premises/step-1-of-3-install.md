@@ -1,33 +1,33 @@
 ---
 unique-page-id: 7504736
-description: Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3 - Documentos de marketing - Documentación del producto
-title: Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3
+description: Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3 - Marketo Docs - Documentación del producto
+title: Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 1 de 3
+exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
+# Paso 1 de 3: Configuración del usuario de sincronización para Marketo (2015 On-Prem y 2016 365 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
-# Paso 1 de 3: Configurar el usuario de sincronización para el marketing (2015 en prem y 2016 365 en prem) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
-
-Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con Marketing, primero debe instalar la solución de Marketing en Dynamics.
+Para poder sincronizar Microsoft Dynamics 2015 On-Premies o 2016 (Dynamics 365) con Marketo, primero debe instalar la solución Marketo en Dynamics.
 
 >[!NOTE]
 >
->Una vez que haya sincronizado Marketing con una CRM, no podrá sincronizar una nueva CRM con la instancia de Marketing existente.
+>Después de sincronizar Marketo con un CRM, no podrá sincronizar un nuevo CRM con la instancia de Marketo existente.
 
 >[!PREREQUISITES]
 >
 >Si utiliza Microsoft Dynamics On-Premise, debe tener [Implementación de Internet Facing](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) con [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurados. Nota: El documento IFD se descarga automáticamente al hacer clic en el vínculo.
 >
->[Descargue la ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) solución de administración de posibles clientes de Marketing to antes de realizar el inicio.
+>[Descargue la solución de administración de posibles ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) clientes de Marketo antes de comenzar.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador de Dynamics.**
+>**Se requieren permisos de administración de Dynamics.**
 >
 >Necesita privilegios de administrador de CRM para realizar esta sincronización.
 
@@ -35,11 +35,11 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    ![](assets/image2015-3-19-8-33-29.png)
 
-1. En **Configuración**, seleccione **Soluciones**.
+1. En **Settings**, seleccione **Solutions**.
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. Haga clic en **Importar**.
+1. Haga clic en **Import**.
 
    ![](assets/image2015-3-19-8-34-8.png)
 
@@ -47,7 +47,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Vista la Información de la solución y haga clic en **Detalles del paquete de la solución de Vista**.
+1. Vea la Información de la solución y haga clic en **Ver detalles del paquete de la solución**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -59,7 +59,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. Asegúrese de que la casilla de verificación de la opción SDK está seleccionada. Haga clic en **Importar**.
+1. Asegúrese de que la casilla de verificación de la opción SDK esté seleccionada. Haga clic en **Import**.
 
    ![](assets/image2015-3-19-9-19-12.png)
 
@@ -67,7 +67,7 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    >[!TIP]
    >
-   >Deberá activar las ventanas emergentes en el navegador para completar el proceso de instalación.
+   >Deberá activar ventanas emergentes en el navegador para completar el proceso de instalación.
 
    ![](assets/image2015-3-11-11-34-9.png)
 
@@ -75,24 +75,24 @@ Antes de sincronizar In situ Microsoft Dynamics 2015 o 2016 (Dynamics 365) con M
 
    >[!NOTE]
    >
-   >Puede que vea un mensaje que dice &quot;Administración de posibles clientes con marketing completada con una advertencia&quot;. Esto es totalmente esperado.
+   >Puede ver un mensaje que dice &quot;Administración de posibles clientes de Marketo completado con una advertencia&quot;. Esto es totalmente esperado.
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. La Administración de posibles clientes de Marketing Cloud ahora aparecerá en la página **Todas las soluciones**.
+1. La Administración de posibles clientes de Marketo ahora aparecerá en la página **Todas las soluciones**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Seleccione la solución de marketing y haga clic en **Publicar todas las personalizaciones**.
+1. Seleccione la solución de Marketo y haga clic en **Publicar todas las personalizaciones**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   ¡Los cinco mejores! La instalación ha finalizado.
+   ¡Los cinco! La instalación ha finalizado.
 
    >[!CAUTION]
    >
-   >Si se deshabilita cualquiera de los procesos de mensajería de Marketing para SDK, se producirá una instalación dañada.
+   >Si se deshabilita cualquiera de los procesos de mensajería del SDK para Marketo, se dañará la instalación.
 
    >[!MORELIKETHIS]
    >
-   >[Instalación de Marketing para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+   >[Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
