@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147042
-description: Anexar datos a un campo - Marketo Docs - Documentación del producto
+description: Anexar datos a un campo - Documentos de Marketo - Documentación del producto
 title: Anexar datos a un campo
+exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Anexar datos a un campo {#append-data-to-a-field}
 
