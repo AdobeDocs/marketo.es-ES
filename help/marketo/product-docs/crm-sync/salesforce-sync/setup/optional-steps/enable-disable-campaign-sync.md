@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4719289
-description: Activar/Deshabilitar la sincronización de Campañas - Documentos de marketing - Documentación del producto
-title: Activar/Desactivar sincronización de Campaña
+description: 'Habilitar/deshabilitar la sincronización de campañas: Documentos de Marketo: documentación del producto'
+title: Habilitar/deshabilitar la sincronización de campañas
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
-# Habilitar/Deshabilitar sincronización de Campaña {#enable-disable-campaign-sync}
+# Habilitar/deshabilitar sincronización de campañas {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-Esta opción permite a Marketing sincronizar su pertenencia a programa y sus estados con campañas de Salesforce y viceversa.
+Esta opción permite que Marketo sincronice su pertenencia a programas y estados con campañas de Salesforce y viceversa.
 
-1. Vaya a **Administración**, haga clic en **Salesforce**.
+1. Vaya a **Admin**, haga clic en **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
@@ -27,15 +27,15 @@ Esta opción permite a Marketing sincronizar su pertenencia a programa y sus est
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Marque **Habilitar la sincronización de Campaña de Salesforce** y haga clic en **GUARDAR**.
+1. Marque **Enable Salesforce Campaign Sync** y haga clic en **SAVE**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-Ahí lo tienes. Solo tiene que dar un poco de tiempo a la sincronización para extraer los datos de Salesforce y ya está listo.
+Ahí lo tienes. Solo tiene que darle un poco de tiempo a la sincronización para extraer los datos de Salesforce y ya está listo.
 
 >[!MORELIKETHIS]
 >
->* [Sincronización SFDC: Sincronización de campaña](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
->* [Definir los valores predeterminados de Compañía y apellido de posible cliente](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
->* [Sincronización de Actividades personalizadas](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
+>* [Sincronización SFDC: Sincronización de campañas](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+>* [Definir los apellidos de posible cliente y los valores de empresa predeterminados](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+>* [Personalizar sincronización de actividades](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
 
