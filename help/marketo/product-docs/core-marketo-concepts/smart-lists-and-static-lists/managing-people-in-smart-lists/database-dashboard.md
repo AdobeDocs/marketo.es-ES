@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10097447
-description: Panel de base de datos - Documentos de marketing - Documentación del producto
-title: Panel de base de datos
+description: Tablero de base de datos - Documentos de Marketo - Documentación del producto
+title: Panel de bases de datos
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
+# Panel de bases de datos {#database-dashboard}
 
-# Panel de base de datos {#database-dashboard}
-
-El Panel Base de datos sirve como instantánea para ayudarle a determinar rápidamente los atributos clave de las personas dentro de un espacio de trabajo.
+El Tablero de base de datos sirve como una instantánea para ayudarle a determinar rápidamente los atributos clave sobre las personas dentro de un espacio de trabajo.
 
 >[!NOTE]
 >
 >Cada espacio de trabajo tiene su propia base de datos.
 
-Para llegar allí, puede hacer clic en el mosaico **Base de datos** en la pantalla principal...
+Para llegar allí, puede hacer clic en el mosaico **Database** en la pantalla principal...
 
 ![](assets/db-3.png)
 
-O bien, haga clic en el logotipo de Marketing y seleccione **Base de datos**.
+O haga clic en el logotipo de Marketo y seleccione **Database**.
 
 ![](assets/db2.png)
 
@@ -33,6 +33,6 @@ Los gráficos indican el número total de personas, el número de personas comer
 
 >[!TIP]
 >
->¿Quieres obtener información más específica o oportuna sobre tu gente? Pruebe un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>¿Quiere obtener información más específica o oportuna sobre su gente? Pruebe un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de personas:** el número de personas que no han estado en ese espacio de trabajo.  **Personas comercializables:** el número de personas que no han pasado por ningún tiempo en el espacio de trabajo,  _menos lo siguiente_: personas sin una dirección de correo electrónico, personas cuyo correo electrónico se ha rebotado, personas incluidas en la lista de bloqueados, personas que no se han suscrito, personas que actualmente están configuradas como Mercadotecnia suspendida.
+**Total de personas:** el número de personas que no han pasado mucho tiempo con ese espacio de trabajo.  **Personas comercializables:** el número de personas que han pasado todo el tiempo para el espacio de trabajo,  _menos lo siguiente_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado con dificultad, personas incluidas en la lista de bloqueados, personas que han dado de baja, personas que actualmente están configuradas como Marketing suspendido.
