@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2360272
-description: Crear una nueva etiqueta de Programa y valores de etiqueta - Documentos de marketing - Documentación del producto
-title: Crear una nueva etiqueta de Programa y valores de etiqueta
+description: 'Creación de una nueva etiqueta de programa y valores de etiqueta: Marketo Docs: documentación del producto'
+title: Crear una etiqueta de programa nueva y valores de etiqueta
+exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-
-# Crear una nueva etiqueta de Programa y valores de etiqueta {#create-a-new-program-tag-and-tag-values}
+# Crear una nueva etiqueta de programa y valores de etiqueta {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para sus programas y asignar valores a la etiqueta.
+Puede crear etiquetas [personalizadas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para sus programas y asignar valores a la etiqueta .
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->Etiqueta de programa: Audiencia destinatario
+>Etiqueta del programa: Audiencia de Target
 >
->Valor de la etiqueta programa: PYME, empresa, mercado medio
+>Valor de la etiqueta del programa: SMB, empresa, mercado medio
 
 1. En **Administración**, haga clic en **Etiquetas**.
 
@@ -35,19 +35,19 @@ Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/program
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Escriba el **Tipo de etiqueta** y una etiqueta **Valor**. A continuación, haga clic en **Añadir otro**.
+1. Introduzca el **Tipo de etiqueta** y una etiqueta **Valor**. A continuación, haga clic en **Añadir otro**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
-1. Introduzca todos los valores que necesite. Seleccione a qué tipos de programa desea aplicar esta etiqueta.
+1. Introduzca tantos valores como necesite. Seleccione a qué tipos de programa desea aplicar esta etiqueta.
 
    ![](assets/image2014-9-24-12-3a17-3a29.png)
 
    >[!TIP]
    >
-   >Puede seleccionar varios tipos de programa. Cuando se realiza un nuevo programa, este tipo de etiqueta estará disponible.
+   >Puede seleccionar varios tipos de programa. Cuando se crea un nuevo programa, este tipo de etiqueta estará disponible.
 
-1. Marque **Requerido** y haga clic en **Crear**.
+1. Marque **Required** y haga clic en **Create**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
