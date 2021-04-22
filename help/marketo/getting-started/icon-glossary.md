@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720476
-description: Icono Glosario - Marketo Docs - Documentación del producto
+description: Glosario de iconos - Documentos de Marketo - Documentación del producto
 title: Icono Glosario
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
 
 ---
-
 
 # Icono Glosario {#icon-glossary}
 
@@ -383,7 +383,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>Campaña inteligente solicitada (por perspectiva de ventas o acción de flujo de marketing)</td> 
+   <td>Campaña inteligente solicitada (por perspectiva de ventas o acción de flujo de Marketo)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
   </tr> 
  </tbody> 
 </table>
-
