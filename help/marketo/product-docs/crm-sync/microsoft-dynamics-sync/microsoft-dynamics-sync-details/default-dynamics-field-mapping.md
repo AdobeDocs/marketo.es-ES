@@ -1,18 +1,18 @@
 ---
-description: 'Asignación de campos de Dynamics predeterminada: Marketo Docs - Documentación del producto'
+description: 'Asignación de campos de Dynamics predeterminada: Documentos de Marketo: Documentación del producto'
 title: Asignación de campos de Dynamics predeterminada
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
 ht-degree: 1%
 
 ---
 
-
 # Asignación predeterminada de campos de Dynamics {#default-dynamics-field-mapping}
 
-Al sincronizar inicialmente la cuenta de Marketo con Microsoft, Marketo crea automáticamente estas asociaciones entre los campos integrados de Dynamics y Marketo.  Marketo también sincronizará los campos personalizados de posibles clientes, cuentas, oportunidades y contactos.
+Cuando sincroniza inicialmente su cuenta de Marketo con Microsoft, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Dynamics y Marketo.  Marketo también sincronizará los campos personalizados de posibles clientes, cuentas, oportunidades y contactos.
 
 ## Campos de posible cliente {#lead-fields}
 
@@ -432,7 +432,7 @@ Estos campos se crean en Marketo, pero los clientes no pueden ajustarlos.
   </tr> 
   <tr> 
    <td>Microsoft se elimina</td> 
-   <td>Persona que solía estar en Microsoft pero que fue borrada y ahora solo vive en Marketo</td> 
+   <td>La persona solía estar en Microsoft pero se eliminó y ahora solo reside en Marketo</td> 
   </tr> 
  </tbody> 
 </table>
