@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359898
-description: Averiguar Qué Permisos Tiene - Documentos de Marketo - Documentación del producto
-title: Averiguar qué permisos tiene
+description: 'Descubra Qué Permisos Tiene: Documentos de Marketo: Documentación del producto'
+title: Descubra qué permisos tiene
+exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Descubra qué permisos tiene {#find-out-what-permissions-you-have}
 
-# Averiguar qué permisos tiene {#find-out-what-permissions-you-have}
+Si se pregunta qué permisos tiene o no en Marketo, hay una manera fácil de averiguarlo.
 
-Si te preguntas qué permisos tienes o no en Marketing, hay una manera fácil de averiguarlo.
-
-1. Vaya a **Actividades de marketing**.
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Haga clic en **Acceso total** para ver los permisos que tiene.
+1. Haga clic en **Acceso completo** para ver los permisos que tiene.
 
    ![](assets/image2014-9-8-17-3a45-3a13.png)
 
@@ -27,4 +27,4 @@ Verá los permisos enumerados.
 
 ![](assets/image2014-9-8-17-3a45-3a23.png)
 
-Si necesita tener cualquiera de los permisos habilitados, póngase en contacto con el administrador de marketing.
+Si necesita habilitar cualquiera de los permisos, póngase en contacto con el administrador de Marketo.
