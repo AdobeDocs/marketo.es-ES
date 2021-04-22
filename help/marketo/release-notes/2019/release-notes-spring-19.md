@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17728380
-description: Notas de la versión - Primavera de 2019 - Marketo Docs - Documentación del producto
+description: 'Notas de la versión, primavera de 2019: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, primavera de 2019
+exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Primavera de 2019 {#release-notes-spring}
 
-Las siguientes funciones están incluidas en la versión de primavera del 2019. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+Las siguientes funciones están incluidas en la versión de primavera del 2019. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 Haga clic en los vínculos de título para ver los artículos detallados de cada función, si están disponibles.
 
@@ -46,7 +46,7 @@ Se espera que las siguientes funciones se publiquen durante el primer trimestre 
 * **Administrar recursos de Design Studio**: Se ha agregado la capacidad de administrar plantillas, imágenes, Forms, fragmentos, archivos, correos electrónicos y páginas de aterrizaje de forma masiva desde las vistas de lista de Design Studio.
 * **Enviar en el panel de zona horaria del destinatario**: Comprender el comportamiento del cliente con los informes de los correos electrónicos enviados mediante la función de zona horaria de envío en el destinatario en Sky.
 
-## Compromiso de ventas de Marketo {#marketo-sales-engage}
+## Participación de ventas de Marketo {#marketo-sales-engage}
 
 * **Auditoría** mejorada: Nueva visibilidad de todas las personas, correos electrónicos y  [](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) contenido en una instancia con la capacidad añadida de  [finalizar ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)campañas existentes creadas por otros usuarios.
 * **[Gestión de cancelación de suscripción](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximice la capacidad de entrega y el cumplimiento de la normativa con la capacidad de  [bloquear los ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) dominios de correo electrónico de los que no se puede contactar. Marketo también hará referencia cruzada a la base de datos de posibles clientes para darse de baja antes de enviar un correo electrónico.
