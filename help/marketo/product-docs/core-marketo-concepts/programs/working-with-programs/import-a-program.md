@@ -1,105 +1,105 @@
 ---
 unique-page-id: 1147108
-description: Importar un Programa - Documentos de marketing - Documentación del producto
-title: Importación de un Programa
+description: 'Importar un programa: Documentos de Marketo: Documentación del producto'
+title: Importar un programa
+exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
+# Importar un programa {#import-a-program}
 
-# Importar un Programa {#import-a-program}
+Un programa se puede importar de una suscripción a otra de Marketo. Por ejemplo, puede crear un programa en un simulador para pruebas y luego importarlo a su suscripción activa. Además, puede importar un programa creado previamente desde la biblioteca de programas de Marketo.
 
-Un programa se puede importar de una suscripción de marketing a otra. Por ejemplo, puede crear un programa en un simulador para pruebas y luego importarlo en la suscripción activa. Además, puede importar un programa precompilado desde la Biblioteca de Programas de Marketing to.
+## Importar un programa {#import-a-program-1}
 
-## Importar un Programa {#import-a-program-1}
-
-1. Vaya a **Actividades de mercadotecnia.**
+1. Vaya a **Marketing Activities.**
 
    ![](assets/ma.png)
 
-1. Haga clic en la lista desplegable **Nuevo**. Seleccione **Importar Programa**.
+1. Haga clic en la lista desplegable **New** . Seleccione **Importar programa**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de Programa habilitado. Obtenga más información sobre [administración de funciones y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de programa habilitado. Obtenga más información sobre [administración de funciones de usuario y permisos](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Para conectar una cuenta de simulación de pruebas a la suscripción activa, póngase en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Para conectar una cuenta de entorno limitado a su suscripción activa, póngase en contacto con [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Seleccione una **Suscripción** de Marketing y un programa para importar. Haga clic en **Siguiente**.
+1. Seleccione un Marketo **Subscription** y un programa para importar. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Especifique una **carpeta de Campaña** para el programa importado. Haga clic en **Siguiente.**
+1. Especifique una **Carpeta de campaña** para el programa importado. Haga clic en **Siguiente.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Asegúrese de seleccionar **Usar reglas de conflicto** predeterminadas. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
+   >Asegúrese de que la opción **Use default conflict** está seleccionada. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
 
-1. Detalles de previsualización y **Importar** el programa.
+1. Vista previa de detalles y **Importar** el programa.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
-   Un cuadro de diálogo muestra el progreso de importación de programas.
+   Un cuadro de diálogo muestra el progreso de importación del programa.
 
    ![](assets/image2014-9-17-12-3a21-3a51.png)
 
-Recibirá una confirmación por correo electrónico una vez finalizada la importación.
+Recibirá una confirmación por correo electrónico una vez que la importación haya finalizado.
 
 >[!NOTE]
 >
->Tendrá que volver a programar campañas de lote importadas y activar campañas de déclencheur. El sistema desactiva automáticamente los programas de campañas y las campañas de déclencheur en el programa importado.
+>Deberá volver a programar campañas por lotes importadas y activar campañas de déclencheur. El sistema desactiva automáticamente las programaciones de campañas y las campañas de déclencheur en el programa importado.
 
-## Identifique los Programas pregenerados en la biblioteca de Programas de marketing {#identify-pre-built-programs-in-the-marketo-program-library}
+## Identificar programas pregenerados en la biblioteca de programas de Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
 
-La biblioteca de Programas de Marketing Cloud contiene programas creados previamente y probados que se pueden importar en la suscripción. Los programas disponibles incluyen:
+La biblioteca de programas de Marketo contiene programas creados previamente y probados que puede importar en su suscripción. Los programas disponibles incluyen:
 
-1. **Nurtura básica de goteo.** Envía una serie de correos electrónicos separados por pasos de espera.
-1. **gestión de datos.** Mantiene la integridad de los datos mediante campañas inteligentes.
-1. **Correo electrónico con Página de aterrizaje.** Envía un correo electrónico inicial con una oferta, como &quot;descargar este documento técnico&quot;. A continuación se muestra un correo electrónico de confirmación o recordatorio. Incluye una página de aterrizaje con un formulario.
-1. **Correo electrónico con estados de progresión.** Envía una explosión de correo con un vínculo rastreable para que la persona haga clic. Actualiza el estado de progresión de cada persona: Enviado, Abierto, Clic, etc.
-1. **Momentos interesantes.** Crea momentos interesantes para que el equipo de ventas los mantenga en el circuito.
-1. **página de aterrizaje con Autorresponder.** Use contenido descargable para conseguir nuevas personas y nutrirlas. Incluye páginas de aterrizaje y formularios.
-1. **Ciclo de vida 2.** Utiliza la puntuación para mover a una persona de la lista nueva a la cualificada para marketing.
-1. **Plantilla de correo electrónico móvil.** Una plantilla de correo electrónico adaptable probada con iPhone y Android. Determinadas versiones de aplicaciones de Android, MS Outlook, Exchange y de terceros como Gmail y Yahoo! Las aplicaciones móviles de correo no admiten la CSS necesaria para las plantillas interactivas. Le recomendamos que realice la prueba antes de enviar correos electrónicos.
-1. **Apuestas de importación de programa.** Programa de apuestas para los que están probando la Biblioteca de Programas! Simplemente apruebe los correos electrónicos y la página de aterrizaje y active la campaña inteligente. A continuación, vista la página de aterrizaje aprobada, rellene el formulario, ¡y se le ingresa!
-1. **Campañas disponibles de ventas.** Ofrece a sus representantes de ventas una forma de ejecutar campañas inteligentes de marketing desde un Panel en su CRM.
-1. **Puntuación - Spark Edition.** Puntuación demográfica y de comportamiento capturada en un solo campo de puntuación. Incluye más de dos docenas de campañas relacionadas con la puntuación.
-1. **Puntuación - Ediciones estándar y seleccionadas.** Puntuación demográfica y de comportamiento capturada en campos de puntuación separados. Incluye más de dos docenas de campañas relacionadas con la puntuación.
-1. **Sincronizar nuevas personas con CRM.** La campaña que sincroniza nuevos usuarios con el sistema CRM. Asigna un estado de persona de tal manera que se reconoce que no está listo para las ventas.
-1. **Seminario web con adaptador de Evento.** Un conjunto completo de correos electrónicos, como invitaciones y recordatorios, además de páginas de aterrizaje con formularios y campañas para mover personas a través del programa. Este programa recibe actualizaciones sobre registro, asistencia, etc. de proveedores de eventos en línea como WebEx.
-1. **Seminario web sin adaptador de Evento.** Igual que antes, pero con procesos manuales para registrar el registro, la asistencia, etc.
-1. **Programa** de Puntuación de Sirius Decisions. Este programa está diseñado para apoyar el modelo de puntuación estándar Sirius Decisions, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed.
-
->[!CAUTION]
->
->Debe crear dos campos personalizados (&quot;Puntuación demográfica&quot; y &quot;Puntuación de comportamiento&quot;) antes de importar el programa Puntuación - Ediciones estándar y Seleccionar.
-
-## Impacto en los activos externos durante las importaciones de Programas {#impact-on-external-assets-during-program-imports}
-
-Los programas utilizan recursos externos como plantillas de correo electrónico, plantillas de página de aterrizaje, imágenes, formularios, tokens y etiquetas de programa. Tiene la capacidad de configurar la forma en que se administran las plantillas de página de aterrizaje y las etiquetas de programa, y Marketing administra automáticamente el resto.
-
-**Plantillas de correo electrónico:las plantillas de** correo electrónico se importan y crean automáticamente a menos que exista una con el mismo nombre.
-
-**Plantillas de página de aterrizaje:las plantillas de** Página de aterrizaje se importan en el estudio de diseño. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se agregará un número a una plantilla de página de aterrizaje si existe una con el mismo nombre. Por ejemplo, se creará una plantilla de página de aterrizaje denominada Plantilla estándar 1 si existe una plantilla estándar con el nombre Plantilla estándar.
-
-**Imágenes:** Las imágenes utilizadas por páginas de aterrizaje se importan al estudio de diseño a menos que exista una con el mismo nombre.
-
-**Tokens:** Los tokens que viven fuera de un programa se convertirán en tokens locales durante el proceso de importación.
+1. **Nurtura básica del taladro.** Envía una serie de correos electrónicos separados por pasos de espera.
+1. **Gestión de datos.** Mantiene la integridad de los datos mediante campañas inteligentes.
+1. **Enviar correo electrónico con la página de aterrizaje.** Envía un correo electrónico inicial con una oferta, como &quot;descargar este libro blanco&quot;. Sigue con un correo electrónico de confirmación o recordatorio. Incluye una página de aterrizaje con un formulario.
+1. **Correo electrónico con estados de progresión.** Envía una explosión de correo con un enlace rastreable para que la persona haga clic. Actualiza el estado de progresión de cada persona: Enviado, Abierto, Clic, etc.
+1. **Momentos interesantes.** Crea momentos interesantes para que su equipo de ventas los mantenga en el circuito.
+1. **Página de aterrizaje con respuesta automática.** Utilice contenido descargable para obtener nuevas personas y nutrirlas. Incluye páginas de aterrizaje y formularios.
+1. **Ciclo de vida 2.** Utiliza la puntuación para mover una persona de nuevo a cualificado para el marketing.
+1. **Plantilla de correo electrónico móvil.** Una plantilla de correo electrónico adaptable probada con iPhone y Android. Algunas versiones de Android, MS Outlook, Exchange y aplicaciones de terceros como Gmail y Yahoo! Las aplicaciones móviles de correo no admiten el CSS necesario para las plantillas adaptables. Se recomienda probar antes de enviar correos electrónicos.
+1. **Apuestas para la importación de programas.** Programa Apuestas para aquellos que están probando la Biblioteca de Programas! Simplemente apruebe los correos electrónicos y la página de aterrizaje y active la campaña inteligente. A continuación, vea la página de aterrizaje aprobada, rellene el formulario y ¡se ha introducido!
+1. **Campañas Disponibles de Ventas.** Ofrece a sus representantes de ventas una forma de ejecutar campañas inteligentes de Marketo desde un panel en su CRM.
+1. **Puntuación - Spark Edition.** Puntuación demográfica y de comportamiento capturada en un único campo de puntuación. Incluye más de dos docenas de campañas relacionadas con la puntuación.
+1. **Puntuación: ediciones estándar y determinadas.** Puntuación demográfica y de comportamiento capturada en campos de puntuación independientes. Incluye más de dos docenas de campañas relacionadas con la puntuación.
+1. **Sincronizar nuevas personas con CRM.** La campaña que sincroniza nuevas personas con su sistema CRM. Asigna un estado de persona de tal modo que se reconoce que no está listo para las ventas.
+1. **Seminario web con adaptador de eventos.** Un conjunto completo de correos electrónicos, como invitaciones y recordatorios, además de páginas de aterrizaje con formularios y campañas para trasladar personas a través del programa. Este programa obtiene actualizaciones sobre registro, asistencia, etc. de proveedores de eventos en línea como WebEx.
+1. **Seminario web sin adaptador de evento.** Igual que antes, pero con procesos manuales para registrar el registro, la asistencia, etc.
+1. **Programa** de Puntuación de Sirius decisions. Este programa está diseñado para apoyar el Modelo de Puntuación de Sirius decisions estándar, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed.
 
 >[!CAUTION]
 >
->El tipo de imagen de mis tokens no es compatible con las importaciones de programa. Si se importa un programa con un tipo de imagen, se importarán los tokens **no**.
+>Debe crear dos campos personalizados (&quot;Puntuación demográfica&quot; y &quot;Puntuación de comportamiento&quot;) antes de importar el programa Puntuación: ediciones estándar y de selección .
 
-**Etiquetas de programa:** puede usar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existan en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede omitir las etiquetas. **Forms:Los formularios** externos se importarán automáticamente en el estudio de diseño a menos que exista uno con el mismo nombre.
+## Impacto en los activos externos durante las importaciones de programas {#impact-on-external-assets-during-program-imports}
+
+Los programas utilizan recursos externos como plantillas de correo electrónico, plantillas de página de aterrizaje, imágenes, formularios, tokens y etiquetas de programa. Tiene la capacidad de configurar cómo se gestionan las plantillas de página de aterrizaje y las etiquetas de programa, y Marketo administra automáticamente el resto.
+
+**Plantillas de correo electrónico:**  las plantillas de correo electrónico se importan y crean automáticamente a menos que exista una que tenga el mismo nombre.
+
+**Plantillas de página de aterrizaje:** las plantillas de página de aterrizaje se importan en el estudio de diseño. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se anexará un número a una plantilla de página de aterrizaje si existe una con el mismo nombre. Por ejemplo, se creará una plantilla de página de aterrizaje denominada Plantilla estándar 1 si existe una plantilla estándar.
+
+**Imágenes:**  Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño, a menos que exista una que tenga el mismo nombre.
+
+**Tokens:** los tokens que residen fuera de un programa se convertirán en tokens locales durante el proceso de importación.
 
 >[!CAUTION]
 >
->Al importar un programa, se omitirán las páginas de aterrizaje o correos electrónicos que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).
+>El tipo de imagen de mis tokens no es compatible con las importaciones de programas. Si se importa un programa que tiene un tipo de imagen, se producirán **no** tokens.
+
+**Etiquetas de programa:** puede usar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede ignorar las etiquetas. **Forms:** los formularios externos se importarán automáticamente en el estudio de diseño, a menos que exista uno con el mismo nombre.
+
+>[!CAUTION]
+>
+>Al importar un programa, se omitirán las páginas de aterrizaje o los correos electrónicos que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).
