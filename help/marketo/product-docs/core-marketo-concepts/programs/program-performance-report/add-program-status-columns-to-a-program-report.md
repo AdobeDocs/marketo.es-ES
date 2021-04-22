@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147239
-description: Añadir columnas de estado de Programa en un informe de Programa - Documentos de marketing - Documentación del producto
-title: Añadir columnas de estado de Programa en un informe de Programa
+description: Agregar columnas de estado del programa a un informe de programa - Documentos de Marketo - Documentación del producto
+title: Agregar columnas de estado del programa a un informe de programa
+exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Agregar columnas de estado del programa a un informe de programa {#add-program-status-columns-to-a-program-report}
 
-# Añadir columnas de estado de Programa en un informe de Programa {#add-program-status-columns-to-a-program-report}
-
-Añada estadísticas sobre el estado del programa a su [informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
+Agregue estadísticas sobre el estado del programa a su [informe de rendimiento del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
 1. Vaya a Actividades de marketing (o Analytics).
 
@@ -23,23 +23,23 @@ Añada estadísticas sobre el estado del programa a su [informe de rendimiento d
 
    ![](assets/emailperformance.jpg)
 
-1. Haga clic en la ficha **Configuración** y arrastre el ratón sobre la etiqueta de Canal.
+1. Haga clic en la pestaña **Setup** y arrastre la etiqueta Canal.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-1. Seleccione un canal para filtrar.
+1. Seleccione un canal por el que filtrar.
 
    ![](assets/image2014-9-23-16-3a26-3a48.png)
 
    >[!TIP]
    >
-   >Para mostrar las columnas de estado de programa, el informe debe filtrarse por _un solo canal_.
+   >Para mostrar las columnas de estado del programa, el informe debe filtrarse por _solo un_ canal.
 
-1. Marque la opción Mostrar columnas de estado de programa. Haga clic en **Aplicar**.
+1. Marque la opción Mostrar columnas de estado del programa . Haga clic en **Aplicar**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. ¡Lo hiciste! Haga clic en la ficha Informe para ver el informe con las columnas de estado de programa.
+1. ¡Lo hiciste! Haga clic en la pestaña Informe para ver el informe con las columnas de estado del programa.
 
    ![](assets/programreport.jpg)
 
@@ -49,4 +49,4 @@ Añada estadísticas sobre el estado del programa a su [informe de rendimiento d
 
 >[!MORELIKETHIS]
 >
->[Filtrar un informe de Programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[Filtrado de informes de programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
