@@ -1,47 +1,47 @@
 ---
 unique-page-id: 2949178
-description: Explicación del Panel SEO - Instantánea SEO - Documentos de marketing - Documentación del producto
-title: Explicación del Panel SEO - Instantánea SEO
+description: Explicación del panel de SEO - Instantánea SEO - Documentos de Marketo - Documentación del producto
+title: Explicación de la instantánea SEO Dashboard -SEO
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
+# Explicación del panel de SEO: Instantánea SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
-# Explicación del Panel de SEO: Instantánea de SEO {#understanding-the-seo-dashboard-seo-snapshot}
+Utilice el tablero para obtener una vista de alto nivel de la tendencia de la clasificación de palabras clave y de la optimización del sitio para SEO.
 
-Utilice el panel para obtener una vista de alto nivel de cómo se definen las tendencias en la clasificación de palabras clave y de qué manera se optimiza el sitio para la optimización para SEO.
-
-Para saber en qué centrarse para mejorar los esfuerzos de SEO, utilice la sección [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este panel.
+Para saber en qué centrarse para mejorar sus esfuerzos de SEO, utilice la sección [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este tablero.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Resumen de clasificación de palabras clave {#keyword-rank-summary}
 
-Esta sección le muestra cómo se clasifica el sitio para las [palabras clave que está dirigiendo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta sección muestra cómo se clasifica su sitio para las [palabras clave que está dirigiendo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
 | Color | Clasificación |
 |---|---|
 | Verde | Primer resultado en la búsqueda |
-| Amarillo | Segundo - Décimo resultado en la búsqueda |
+| Amarillo | Segundo - décimo resultado en la búsqueda |
 | Gris | 11º - 20º resultado en la búsqueda |
 
 >[!TIP]
 >
->También puede vista el rendimiento de una [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
+>También puede ver el rendimiento de una [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
 
 ¡Vamos! Sigamos adelante.
 
-## Puntuación promedio de optimización de página {#average-page-optimization-score}
+## Puntuación media de optimización de la página {#average-page-optimization-score}
 
-La Puntuación de optimización promedio de la página es una puntuación de mercadotecnia patentada que mide todas las páginas del sitio en una escala de 1 a 100.
+La puntuación de optimización promedio de la página es una puntuación registrada de Marketo que mide todas las páginas del sitio en una escala del 1 al 100.
 
-Se basa en una recopilación de docenas de mejores prácticas. Un puntaje de 70 o más indica un sitio bien optimizado.
+Se basa en una recopilación de docenas de prácticas recomendadas. Una puntuación de 70 o superior indica un sitio bien optimizado.
 
 ![](assets/image2014-9-17-21-3a35-3a55.png)
 
@@ -51,16 +51,16 @@ Se basa en una recopilación de docenas de mejores prácticas. Un puntaje de 70 
 
 ## Tendencias de clasificación de palabras clave {#keyword-rank-trends}
 
-El gráfico Tendencias de clasificación de palabras clave extrae las palabras clave con los cinco volúmenes de búsqueda mensuales más altos y grafica cómo se clasifican con el tiempo.
+El gráfico Tendencias de clasificación de palabras clave extrae las palabras clave con los cinco volúmenes de búsqueda mensual más altos y genera gráficos de cómo se clasifican con el tiempo.
 
 >[!TIP]
 >
->Puede eliminar palabras clave de este gráfico haciendo clic en ellas. ¡Pruébelo! El gráfico se reconstruirá dinámicamente.
+>Para eliminar las palabras clave de este gráfico, haga clic en ellas. ¡Pruébelo! El gráfico se reconstruirá dinámicamente.
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Fácil, ¿verdad? Ahora veamos la sección de Recommendations de este panel.
+Fácil, ¿verdad? Ahora veamos la sección Recommendations de este tablero.
 
 >[!MORELIKETHIS]
 >
->[Comprensión del Panel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Explicación del panel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
