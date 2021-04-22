@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360344
-description: Asignaciones de campos de vista entre Marketing y Salesforce - Documentos de marketing - Documentación del producto
-title: Asignaciones de campos de vista entre Marketing y Salesforce
+description: Ver asignaciones de campo entre Marketo y Salesforce - Marketo Docs - Documentación del producto
+title: Ver asignaciones de campo entre Marketo y Salesforce
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# Ver asignaciones de campo entre Marketo y Salesforce {#view-field-mappings-between-marketo-and-salesforce}
 
-# Asignaciones de campos de vista entre Marketing y Salesforce {#view-field-mappings-between-marketo-and-salesforce}
-
-Es posible que desee saber a qué campos de Salesforce está vinculado un campo de marketing específico. Así es como lograr esto.
+Es posible que desee saber a qué campos de Salesforce está vinculado un campo específico de Marketo. Así es como lograrlo.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. Vaya a **Administración** y haga clic en **Administración de campos**.
+1. Vaya a **Admin** y haga clic en **Administración de campos**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
@@ -29,6 +29,6 @@ Es posible que desee saber a qué campos de Salesforce está vinculado un campo 
 
 >[!NOTE]
 >
->Muestra el nombre de la API de Salesforce, no el nombre de la etiqueta.
+>Se muestra el nombre de la API de Salesforce, no el nombre de la etiqueta.
 
-¡Buen trabajo! Ahora sabe cómo averiguar a qué campos de Salesforce están vinculados los campos de Marketo.
+¡Buen trabajo! Ahora sabe cómo averiguar a qué campos de Salesforce están vinculados sus campos de Marketo.
