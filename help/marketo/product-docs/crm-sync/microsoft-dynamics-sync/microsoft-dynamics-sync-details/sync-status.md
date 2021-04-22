@@ -1,41 +1,41 @@
 ---
 unique-page-id: 10097584
-description: Estado de sincronización - Documentos de marketing - Documentación del producto
+description: Estado de sincronización - Documentos de Marketo - Documentación del producto
 title: Estado de sincronización
+exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # Estado de sincronización {#sync-status}
 
-Puede mantener un registro del rendimiento actual y del trabajo pendiente del proceso de sincronización en las fichas Estado de sincronización y Errores de sincronización.
+Puede mantener tabulaciones sobre el rendimiento actual y el trabajo acumulado del proceso de sincronización en las pestañas Estado de sincronización y Errores de sincronización .
 
 ## Ficha Estado de sincronización {#sync-status-tab}
 
-1. Haga clic en **Administración** y **Microsoft Dynamics**.
+1. Haga clic en **Admin** y **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Haga clic en la ficha **Estado de sincronización**.
+1. Haga clic en la pestaña **Estado de sincronización**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   Esta tabla muestra el trabajo pendiente de inserciones y actualizaciones que aún no se han sincronizado para cada objeto.
+   Esta tabla muestra el trabajo acumulado de inserciones y actualizaciones que aún no se han sincronizado para cada objeto.
 
-1. Haga clic con el botón doble en cualquier fila para consultar la información de oportunidad de vista.
+1. Haga doble clic en cualquier fila para ver la información de oportunidad.
 
    ![](assets/image2016-5-19-10-3a3-3a21.png)
 
-   Los detalles del estado de sincronización se desglosan mediante inserciones y actualizaciones, y los registros de inserción y actualización más antiguos.
+   Los detalles del estado de sincronización se desglosan por inserciones y actualizaciones, y los registros de inserción y actualización más antiguos.
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Haga clic en la lista desplegable **Vista:** y seleccione **Última hora** para obtener información sobre el rendimiento de la vista.
+1. Haga clic en la lista desplegable **View:** y seleccione **Last Hour** para ver la información de rendimiento.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -45,14 +45,14 @@ Puede mantener un registro del rendimiento actual y del trabajo pendiente del pr
 
    >[!NOTE]
    >
-   >Cuando está viendo la vista Última hora, las columnas Inserciones y actualizaciones muestran N/D. Este es el comportamiento esperado.
+   >Cuando observe la vista Última hora, las columnas Insertos y actualizaciones mostrarán N/D. Es un comportamiento esperado.
 
-## Ficha Errores de sincronización {#sync-errors-tab}
+## Pestaña Errores de sincronización {#sync-errors-tab}
 
-Examinar, buscar o exportar leads (y otros objetos) que no se hayan podido sincronizar con detalles como operación, dirección, código de error y mensaje de error.
+Examinar, buscar o exportar posibles clientes (y otros objetos) que no se hayan sincronizado con detalles como operación, dirección, código de error y mensaje de error.
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 
 >[!MORELIKETHIS]
 >
->[Tipos de notificaciones](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Tipos de notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
