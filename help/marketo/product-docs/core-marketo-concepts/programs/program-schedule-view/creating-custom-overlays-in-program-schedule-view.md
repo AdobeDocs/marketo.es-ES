@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147251
-description: Creación de superposiciones personalizadas en la Vista de Calandario del programa - Documentos de marketing - Documentación del producto
-title: Creación de superposiciones personalizadas en la Vista Calandario del programa
+description: Creación de superposiciones personalizadas en la vista de programación del programa - Documentos de Marketo - Documentación del producto
+title: Creación de superposiciones personalizadas en la vista de programación del programa
+exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
+# Creación de superposiciones personalizadas en la vista de programación del programa {#creating-custom-overlays-in-program-schedule-view}
 
-# Creación de superposiciones personalizadas en la Vista de Calandario del programa {#creating-custom-overlays-in-program-schedule-view}
-
-Puede crear superposiciones personalizadas para las entradas de vista que sean relevantes para sus necesidades.
+Puede crear superposiciones personalizadas para ver las entradas relevantes para sus necesidades.
 
 1. Haga clic en la lista desplegable **Agenda**.
 
