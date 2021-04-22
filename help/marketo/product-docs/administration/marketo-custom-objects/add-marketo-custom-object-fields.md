@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10093688
-description: Agregar Marketo A Campos De Objeto Personalizados - Marketo Docs - Documentación Del Producto
-title: Agregar marcador a campos de objeto personalizados
+description: 'Agregar campos de objeto personalizados de Marketo: Documentos de Marketo: Documentación del producto'
+title: Agregar campos de objeto personalizados de Marketo
 translation-type: tm+mt
 source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Agregar Marketo a campos de objeto personalizados {#add-marketo-custom-object-fields}
+# Agregar campos de objeto personalizados de Marketo {#add-marketo-custom-object-fields}
 
 Después de crear un objeto personalizado, debe agregar campos para satisfacer las necesidades empresariales.
 
 Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculo tienen un trabajo especial, para conectar objetos personalizados, y se tratan en un [artículo independiente](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Marketo Custom Objects**.
+1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -57,12 +57,12 @@ Los campos definen la información específica que utiliza un objeto personaliza
 
    >[!NOTE]
    >
-   >Si está creando una estructura de uno a varios, debe agregar un campo Vínculo al objeto personalizado. Para una estructura de varios a varios, no necesita un campo de vínculo en el objeto personalizado, pero debe agregar dos campos de vínculo en el objeto intermedio. Consulte [Agregar marcador a campos de vínculo de objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para crear los campos de vínculo y [Explicación del marcador a objetos personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información sobre los tipos de objetos personalizados.
+   >Si está creando una estructura de uno a varios, debe agregar un campo Vínculo al objeto personalizado. Para una estructura de varios a varios, no necesita un campo de vínculo en el objeto personalizado, pero debe agregar dos campos de vínculo en el objeto intermedio. Consulte [Agregar campos de vínculo de objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para crear los campos de vínculo y [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información sobre los tipos de objetos personalizados.
 
 >[!MORELIKETHIS]
 >
->* [Agregar Marketo A Campos De Vínculo De Objeto Personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Agregar campos de vínculo de objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Editar y eliminar un objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Editar y eliminar Marketo a campos de objeto personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Explicación de Marketo Custom Objects](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Editar y eliminar campos de objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
