@@ -1,40 +1,40 @@
 ---
 unique-page-id: 1147007
-description: Cambiar estado de Programa - Documentos de marketing - Documentación del producto
-title: Cambiar estado de Programa
+description: Cambio del estado del programa - Documentos de Marketo - Documentación del producto
+title: Cambiar estado del programa
+exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
-# Cambiar estado de Programa {#change-program-status}
+# Cambiar estado del programa {#change-program-status}
 
 ## Información general {#overview}
 
-Los estados de programa ayudan a realizar un seguimiento de cómo las personas avanzan a través de un programa o evento. Encontrará más información en [Personalizar, crear y administrar Canales](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Los estados del programa ayudan a realizar un seguimiento del progreso de las personas a través de un programa o evento. Encontrará más información en [Personalizar, crear y administrar canales](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
->Si se cambia el estado del programa en un programa de participación, se agregarán automáticamente al primer flujo. Empezarán a recibir contenido.
+>Si se cambia el estado del programa en un programa de participación, se añadirán automáticamente al primer flujo. Empezarán a recibir contenido.
 
 ## Uso {#usage}
 
-1. Arrastre el paso de flujo **Cambiar estado de Programa**.
+1. Arrastre el paso de flujo **Cambiar estado del programa**.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Seleccione el **Nuevo estado** que desea establecer. La persona también se convertirá en miembro del programa si aún no lo era.
+1. Seleccione el **Nuevo estado** que desee establecer. La persona también será miembro del programa si aún no lo era.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
-Las opciones están limitadas a estados válidos para ese programa.
+Las opciones se limitan a estados válidos para ese programa.
 
 >[!NOTE]
 >
->Una persona no puede retroceder a un estado de programa anterior, tal como se define en el editor de Canales de Admin.
+>Una persona no puede volver al estado de un programa anterior, tal como se define en el editor de canales de Admin.
 
-Los estados son herramientas poderosas para llevar un seguimiento de las personas y del sistema de informes. Vale tu tiempo.
+Los estados son herramientas poderosas para realizar un seguimiento de las personas y generar informes. Vale tu tiempo.
