@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1147249
-description: Uso de una superposición global - Documentos de marketing - Documentación del producto
+description: 'Uso de una superposición global: Documentos de Marketo: Documentación del producto'
 title: Uso de una superposición global
+exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
 # Uso de una superposición global {#using-a-global-overlay}
 
-La superposición global de la vista de calandario del programa permite ver el programa en relación con otros recursos programados.
+La superposición global en la vista de programación del programa permite ver el programa en relación con otros recursos programados.
 
 >[!PREREQUISITES]
 >
->Debe tener una [licencia del Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esta función.
+>Debe tener una [licencia del Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esta función.
 
 ## Usar la superposición global {#use-the-global-overlay}
 
-1. Seleccione su programa.
+1. Seleccione el programa.
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Seleccione **Superposición** en la esquina inferior derecha.
+1. Seleccione **Overlay** en la esquina inferior derecha.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
-1. Los bloques sólidos representan entradas en esa fecha. Haga clic para ver los detalles.
+1. Los bloques sólidos representan entradas en esa fecha. Haga clic en para ver los detalles.
 
    ![](assets/image2014-9-24-10-3a16-3a14.png)
 
@@ -39,16 +39,16 @@ La superposición global de la vista de calandario del programa permite ver el p
 
 ## Usar un filtro guardado como superposición {#use-a-saved-filter-as-an-overlay}
 
-Si ha [guardado un filtro en el Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), puede utilizarlo como superposición en la vista de calandario del programa.
+Si ha [guardado un filtro en el Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), puede utilizarlo como una superposición en la vista de programación del programa.
 
-1. Haga clic en la lista desplegable **Superposición** y seleccione la definición del filtro.
+1. Haga clic en la lista desplegable **Overlay** y seleccione la definición del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   ¡Qué fácil! Ahora verá una superposición definida por el filtro guardado y seleccionado.
+   ¡Qué fácil! Ahora verá una superposición definida por el filtro que ha guardado y seleccionado.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >[Creación de superposiciones personalizadas en la Vista Calandario del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
+   >[Creación de superposiciones personalizadas en la vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
