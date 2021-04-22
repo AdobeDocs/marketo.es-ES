@@ -1,29 +1,28 @@
 ---
 unique-page-id: 3571844
-description: Microsoft Dynamics Sync - Sincronización de oportunidades - Documentos de marketing - Documentación del producto
-title: 'Sincronización de Microsoft Dynamics: Sincronización de oportunidades'
+description: Microsoft Dynamics Sync - Sincronización de oportunidades - Documentos de Marketo - Documentación del producto
+title: Sincronización de Microsoft Dynamics - Sincronización de oportunidades
+exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
+# Microsoft Dynamics Sync: Sincronización de oportunidades {#microsoft-dynamics-sync-opportunity-sync}
 
-# Microsoft Dynamics Sync: Sincronización de oportunidad {#microsoft-dynamics-sync-opportunity-sync}
+La sincronización entre Marketo y Dynamics es superpotente. Aquí están todos los detalles para la sincronización de oportunidades:
 
-La sincronización de marketing a Dynamics es muy potente. A continuación se muestran todos los detalles de la sincronización de oportunidades:
+## ¿Cómo se mantienen los detalles de oportunidad sincronizados entre los dos sistemas? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-## ¿Cómo se mantienen sincronizados los detalles de oportunidad entre los dos sistemas? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
+La sincronización de oportunidades es unidireccional: de Dynamics a Marketo. Si realiza cambios en una oportunidad en Dynamics, la actualización se reflejará en Marketo.
 
-La sincronización de oportunidades es de una forma: de Dynamics a Marketing. Si realiza cambios en una oportunidad en Dynamics, la actualización se reflejará en Marketing.
+## ¿Puedo crear una oportunidad en Dynamics con Marketo? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-## ¿Puedo crear una oportunidad en Dynamics con Marketing? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+No, debe crear la oportunidad en Dynamics y se sincronizará automáticamente con Marketo.
 
-No, debe crear la oportunidad en Dynamics y se sincronizará automáticamente con Marketing.
-
-## ¿Qué campos se sincronizarán con Marketing? {#what-fields-will-sync-to-marketo}
+## ¿Qué campos se sincronizarán con Marketo? {#what-fields-will-sync-to-marketo}
 
 Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante la configuración.
-
