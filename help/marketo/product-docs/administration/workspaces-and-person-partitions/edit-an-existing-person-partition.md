@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360323
-description: Editar una partición de persona existente - Documentos de marketing - Documentación del producto
+description: 'Edición de una partición de persona existente: documentos de Marketo: documentación del producto'
 title: Editar una partición de persona existente
+exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # Editar una partición de persona existente {#edit-an-existing-person-partition}
 
-Una partición de persona es como tener una segunda (o tercera) base de datos. Una partición se puede conectar a uno o más espacios de trabajo. A continuación se muestra cómo editar los detalles de la partición.
+Una partición de persona es como tener una segunda (o tercera) base de datos. Una partición se puede conectar a uno o más espacios de trabajo. Aquí se explica cómo editar los detalles de la partición.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 >[!PREREQUISITES]
 >
@@ -27,11 +27,11 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. En la ficha **Particiones de personas**, seleccione la partición de personas que desee editar y haga clic en **Editar partición de personas**.
+1. En la pestaña **Person Partitions**, seleccione la partición de persona que desee editar y haga clic en **Editar partición de persona**.
 
    ![](assets/two-5.png)
 
-1. Introduzca la partición de persona **Nombre**, los **espacios de trabajo** a los que pertenecen y haga clic en **Guardar**.
+1. Introduzca la partición de persona **Name**, los **Workspaces** a los que pertenecen y haga clic en **Guardar**.
 
    ![](assets/three-5.png)
 
