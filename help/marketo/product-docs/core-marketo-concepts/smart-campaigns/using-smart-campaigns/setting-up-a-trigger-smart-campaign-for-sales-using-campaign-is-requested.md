@@ -1,51 +1,51 @@
 ---
 unique-page-id: 7514898
-description: Configuración de una Campaña inteligente de Déclencheur para ventas mediante "Se solicita la Campaña" - Documentos de marketing - Documentación del producto
-title: Configuración de una Campaña inteligente de Déclencheur para ventas mediante "Se solicita la Campaña"
+description: Configuración de una campaña inteligente de Déclencheur para ventas mediante "Campaña solicitada" - Documentos de Marketo - Documentación del producto
+title: Configuración de una campaña inteligente de Déclencheur para ventas mediante "Campaña solicitada"
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
+# Configuración de una campaña inteligente de Déclencheur para ventas mediante &quot;Campaña solicitada&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
-# Configuración de una Campaña inteligente de Déclencheur para ventas mediante &quot;Se solicita la Campaña&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
-
-Una de las mejores características de Marketing es la capacidad de permitir que los vendedores participen en el esfuerzo de mercadotecnia. Están en la primera línea, interactuando con la gente. Los representantes de ventas deben tener la capacidad de dirigir la mercadotecnia en la dirección correcta.
+Una de las características más interesantes de Marketo es la capacidad de permitir que los profesionales de ventas participen en el esfuerzo de marketing. Están en la primera línea, interactuando con la gente. Los representantes de ventas deben tener la capacidad de dirigir el marketing en la dirección correcta.
 
 >[!NOTE]
 >
 >Ejemplos de campañas inteligentes para solicitar:
 >
->1. **La nutrición**  a largo plazo - cuando no tienen presupuesto este año y sólo quieren permanecer en el radar
->1. **Ciclo**  de ventas activo: cuando el vendedor no quiere ningún mensaje a la persona excepto el suyo. (utilice la marca suspendida de marketing para cancelar temporalmente la suscripción)
+>1. **La alimentación a largo plazo**  - cuando no tienen presupuesto este año y sólo quieren permanecer en el radar
+>1. **Ciclo de ventas activo** : cuando el vendedor no desea ningún mensaje a la persona excepto el suyo propio. (utilice el indicador de marketing suspendido para cancelar temporalmente la suscripción)
 
 >
 >
-Sé creativo. ¿Qué desea automatizar el vendedor? ¡Sólo pregúntenlos y envíenlos por cable!
+Sé creativo. ¿Qué desea automatizar el vendedor? ¡Solo pregúntale y alícela!
 
-1. Cree una **Campaña inteligente.**
+1. Crear una **campaña inteligente.**
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Busque y arrastre **Campaña solicitada** al lienzo.
+1. Busque y arrastre **Campaign is Requested** al lienzo.
 
    ![](assets/campaignfilterdrag.png)
 
-1. Las opciones de origen indican qué tipo de solicitud se cumplirá. Para la funcionalidad de Salesforce, asegúrese de elegir **Ventas** **Insight**.
+1. Las opciones de origen indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrese de elegir **Sales** **Insight**.
 
    >[!TIP]
    >
-   >Los operadores de origen son para seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Elija **Es Cualquiera** en el primer cuadro si desea permitir solicitudes de todos los orígenes.
+   >Los operadores de origen son para seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Seleccione **Is Any** en el primer cuadro si desea permitir solicitudes de todas las fuentes.
    >
-   >**Recuerde**, al elegir Perspectiva de Ventas, mágicamente aparecerá en la casilla de ventas. No lo sobrehagas. Muchos serán ignorados por ellos.
+   >**Recuerde**, al elegir Perspectiva de Ventas, se mostrará mágicamente en la casilla para ventas. No lo sobrehagas. Ellos ignorarán a demasiados.
 
    ![](assets/image2015-5-20-17-3a56-3a56.png)
 
-Esta es una buena manera de extender el alcance de su mercadotecnia a otros departamentos. Configure todo tipo de campañas para automatizar.
+Esta es una buena manera de ampliar el alcance de marketing a otros departamentos. Configure todo tipo de campañas para automatizar.
 
 >[!TIP]
 >
->No te olvides de nombrar tus campañas inteligentes con claridad. Se mostrarán en Sales Insight exactamente como usted los nombra.
+>No olvide nombrar sus campañas inteligentes con claridad. Aparecerán en Sales Insight exactamente como usted los nombra.
