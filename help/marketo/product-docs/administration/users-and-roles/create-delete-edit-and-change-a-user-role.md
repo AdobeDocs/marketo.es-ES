@@ -1,55 +1,55 @@
 ---
 unique-page-id: 2360198
-description: Crear, eliminar, editar y cambiar una función de usuario - Documentos de marketing - Documentación del producto
+description: Crear, eliminar, editar y cambiar una función de usuario - Documentos de Marketo - Documentación del producto
 title: Crear, eliminar, editar y cambiar una función de usuario
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # Crear, eliminar, editar y cambiar una función de usuario {#create-delete-edit-and-change-a-user-role}
 
-**** Rolesgroup juntos un montón de permisos. **Los** permisos te permiten hacer cosas en Marketing. Usted asigna una **función** a un usuario. Fácil como pastel.
+**** Agrupe varios permisos. **** Los permisos permiten hacer cosas en Marketo. Usted asigna una **función** a un usuario. Fácil como pastel.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
 ## Crear una función {#create-a-role}
 
-1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
+1. Vaya a **Admin** y haga clic en **Usuarios y funciones**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Vaya a la ficha **Funciones** y haga clic en **Nueva función**.
+1. Vaya a la pestaña **Roles** y haga clic en **Nuevo rol**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Asigne un nombre a la nueva función, compruebe todos los permisos que desee otorgar a los usuarios asociados a ella y haga clic en **Crear**.
+1. Asigne un nombre a la nueva función, compruebe todos los permisos que desea conceder a los usuarios asociados con la función y haga clic en **Crear**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
 ## Eliminar una función {#delete-a-role}
 
-1. En **Administración**, haga clic en **Usuarios y roles**.
+1. En **Administración**, haga clic en **Usuarios y funciones**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. En la ficha **Funciones**, seleccione una función y haga clic en **Eliminar función**.
+1. En la pestaña **Roles**, seleccione una función y haga clic en **Eliminar función**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Confirme la eliminación haciendo clic en **Eliminar**.
+1. Confirme la eliminación haciendo clic en **Delete**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
 >[!NOTE]
 >
->En primer lugar, debe asegurarse de que no hay usuarios asignados a una función; de lo contrario, no se puede eliminar.
+>Primero debe asegurarse de que no se asigne ningún usuario a una función; de lo contrario, no se podrá eliminar.
 
 ## Editar una función existente {#edit-an-existing-role}
 
@@ -57,15 +57,15 @@ ht-degree: 0%
 >
 >Para editar su propia función de usuario, deberá iniciar sesión como otro usuario con derechos de administrador.
 
-1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
+1. Vaya a **Admin** y haga clic en **Usuarios y funciones**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Haga clic en la ficha **Roles**.
+1. Haga clic en la pestaña **Roles**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Seleccione la función que desee editar y haga clic en **Editar función**.
+1. Seleccione la función que desea editar y haga clic en **Editar función**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,15 +79,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿Desea actualizar la dirección de correo electrónico de la cuenta? [Aprende cómo aquí](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >¿Desea actualizar la dirección de correo electrónico de la cuenta? [Aprenda cómo hacerlo aquí](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Cambiar la función de un usuario {#change-a-users-role}
 
-1. Vaya a **Administración** y haga clic en **Usuarios y roles**.
+1. Vaya a **Admin** y haga clic en **Usuarios y funciones**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Seleccione el usuario al que desee asignar una función diferente y haga clic en **Editar usuario.**
+1. Seleccione el usuario al que desea asignar una función diferente y haga clic en **Editar usuario.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
