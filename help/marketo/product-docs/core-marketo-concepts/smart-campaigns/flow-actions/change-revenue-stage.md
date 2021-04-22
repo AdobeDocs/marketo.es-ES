@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147080
-description: Etapa de cambio de ingresos - Documentos de marketing - Documentación del producto
+description: 'Etapa de cambio de ingresos: Documentos de Marketo: Documentación del producto'
 title: Etapa de cambio de ingresos
+exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
-# Cambiar etapa de ingresos {#change-revenue-stage}
+# Etapa de cambio de ingresos {#change-revenue-stage}
 
 ## Información general {#overview}
 
-Si está utilizando el módulo de ciclo de ingresos y tiene un modelo aprobado, puede decidir mover los leads manualmente de una etapa a otra. Este paso de flujo ayudará.
+Si utiliza el modelador de ciclo de ingresos y tiene un modelo aprobado, puede decidir mover los posibles clientes manualmente de una etapa a otra. Este paso de flujo ayudará.
 
 ![](assets/image2014-9-22-17-3a4-3a59.png)
 
 ## Uso {#usage}
 
-1. Seleccione el **Modelo**.
+1. Seleccione el **Model**.
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
@@ -31,4 +31,4 @@ Si está utilizando el módulo de ciclo de ingresos y tiene un modelo aprobado, 
 
    >[!CAUTION]
    >
-   >El almacén de datos presta especial atención al momento en que los posibles clientes se desplazan entre etapas. Esto puede crear datos incorrectos si se utilizan incorrectamente.
+   >El almacén de datos presta mucha atención a cuándo los posibles clientes se desplazan entre etapas. Esto puede crear datos incorrectos si se utilizan incorrectamente.
