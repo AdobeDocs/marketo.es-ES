@@ -2,14 +2,14 @@
 unique-page-id: 7504739
 description: Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3 - Marketo Docs - Documentación del producto
 title: Instalación de Marketo para Dynamics 2015 On-Prem y 2016 365 On-Prem Paso 2 de 3
+exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # Paso 2 de 3 Configuración de Marketo para Dynamics (2015 On-Prem y 2016 365 On-Prem){#step-of-set-up-for-marketo-on-premises-and-365}
 
@@ -25,7 +25,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
 >[!NOTE]
 >
->Esto se aplica a Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar su Marketo, consulte [Actualización de la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Esto se aplica a Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar su Marketo, consulte [Actualización de la solución de Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. En **Configuración**, haga clic en **Seguridad**.
 
@@ -35,7 +35,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
    ![](assets/assign2.png)
 
-1. Aquí puede ver una lista de usuarios. Seleccione el usuario dedicado de Marketo Sync o póngase en contacto con su administrador de [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (ADFS) para crear un usuario dedicado para Marketo.
+1. Aquí puede ver una lista de usuarios. Seleccione el usuario Marketo Sync específico o póngase en contacto con su administrador de [Servicios de federación de Active Directory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) (ADFS) para crear un usuario dedicado para Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -43,7 +43,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
    ![](assets/assign4.png)
 
-   Marketo Sync User y haga clic en OK.
+   Compruebe el usuario de Marketo Sync y haga clic en Aceptar.
 
    ![](assets/assign5.png)
 
