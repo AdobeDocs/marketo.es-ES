@@ -1,25 +1,25 @@
 ---
 unique-page-id: 37356429
-description: Crear Tarea en Microsoft - Documentos de marketing - Documentación del producto
-title: Crear Tarea en Microsoft
+description: Crear tarea en Microsoft - Marketo Docs - Documentación del producto
+title: Crear tarea en Microsoft
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
+# Crear tarea en Microsoft {#create-task-in-microsoft}
 
-# Crear Tarea en Microsoft {#create-task-in-microsoft}
+Como especialista en marketing, tiene información que puede ayudar a las ventas a cerrar ofertas. Puede crear tareas para que sepan qué deben hacer y cuándo deben hacerlo.
 
-Como especialista en mercadotecnia, tiene información que puede ayudar a las ventas a cerrar acuerdos. Puede crear tareas para que sepan qué deben hacer y cuándo deben hacerlo.
-
-Crear Tarea en Microsoft crea una tarea en Actividades relacionadas con la Persona (posible cliente o contacto) en Microsoft.
+Crear tarea en Microsoft crea una tarea en Actividades relacionadas con la persona (posible cliente o contacto) en Microsoft.
 
 >[!NOTE]
 >
->Este paso de flujo sólo funcionará **cuando se utilice con déclencheur**, no filtros, en su campaña inteligente.
+>Este paso de flujo **solo funcionará cuando se utilice con déclencheur**, no con filtros, en la campaña inteligente.
 
 De forma predeterminada, el paso de flujo tendrá este aspecto:
 
@@ -27,15 +27,15 @@ De forma predeterminada, el paso de flujo tendrá este aspecto:
 
 >[!NOTE]
 >
->Cuando el usuario de sincronización de marketing está creando tareas, **Vencimiento** es un campo obligatorio para la tarea que se va a crear en Microsoft. Marketo ingresará cinco días de forma predeterminada si no se introduce ningún valor.
+>Cuando el usuario de sincronización de Marketo está creando tareas, **Due In** es un campo obligatorio para la tarea que se creará en Microsoft. Marketo introducirá cinco días de forma predeterminada si no se introduce ningún valor.
 
-Personalice todos los campos para crear la tarea como desee.
+Personalice todos los campos para crear la tarea del modo que desee.
 
 ![](assets/msd2.png)
 
 >[!NOTE]
 >
->El campo &quot;Estado&quot; especificado para la tarea en Acción de flujo actualiza el campo: &quot;Motivo de estado&quot; en Microsoft.
+>El campo &quot;Estado&quot; especificado para la tarea en Acción de flujo actualiza el campo: &quot;Motivo del estado&quot; en Microsoft.
 
 >[!TIP]
 >
