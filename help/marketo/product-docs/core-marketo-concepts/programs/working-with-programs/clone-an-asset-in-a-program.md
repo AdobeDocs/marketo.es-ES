@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147152
-description: Clonar un recurso en un Programa - Documentos de marketing - Documentación del producto
-title: Clonar un recurso en un Programa
+description: Clonar un recurso en un programa - Documentos de Marketo - Documentación del producto
+title: Clonar un recurso en un programa
+exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# Clonar un recurso en un programa {#clone-an-asset-in-a-program}
 
-# Clonar un recurso en un Programa {#clone-an-asset-in-a-program}
-
-Clonar un programa clona _todo_. A veces solo desea clonar un recurso. Así es como.
+Clonar un programa clones _todo_. A veces solo desea clonar un recurso. Así es como.
 
 >[!NOTE]
 >
@@ -25,21 +25,21 @@ Clonar un programa clona _todo_. A veces solo desea clonar un recurso. Así es c
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione su programa.
+1. Seleccione el programa.
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Haga clic con el botón secundario en el recurso local que desee clonar. Haga clic en **Clonar**.
+1. Haga clic con el botón derecho en el recurso local que desee clonar. Haga clic en **Clone**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Cada tipo de recurso presenta un cuadro de diálogo diferente. Simplemente complete la información y haga clic en **Clonar**.
+1. Cada tipo de recurso presenta un cuadro de diálogo diferente. Simplemente rellene la información y haga clic en **Clone**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >También puede clonar un recurso en otro programa. Utilice la lista desplegable **Programa** para realizar la selección.
+   >También puede clonar un recurso en un programa diferente. Utilice la lista desplegable **Program** para realizar la selección.
 
 1. ¡bueno! Ahora debería ver el nuevo recurso clonado.
 
@@ -47,4 +47,4 @@ Clonar un programa clona _todo_. A veces solo desea clonar un recurso. Así es c
 
    >[!NOTE]
    >
-   >[Clonar un Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
+   >[Clonar un programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
