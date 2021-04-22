@@ -2,18 +2,18 @@
 unique-page-id: 12255606
 description: Notas de la versión - Invierno '17 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Invierno &#39;17 {#release-notes-winter}
 
-Las siguientes funciones están incluidas en la versión de invierno de 2017. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+Las siguientes funciones están incluidas en la versión de invierno de 2017. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 Haga clic en los vínculos de título para ver los artículos detallados de cada función.
 
@@ -93,6 +93,6 @@ Mejore su segmentación con una nueva opción de filtro, &quot;Lista de miembros
 
 A partir del 1 de agosto de 2017, los clientes que sigan utilizando el Editor de texto enriquecido heredado y el Editor de formularios 1.0 pasará automáticamente a la nueva experiencia.
 
-## [API de actividades de Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [API de actividad de Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
 Se está produciendo un cambio importante en las API de actividad de Marketo. ¿Estás preparado?
