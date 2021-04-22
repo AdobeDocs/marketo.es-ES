@@ -1,18 +1,18 @@
 ---
 description: Configuración de OAuth 2.0 - Marketo Docs - Documentación del producto
 title: Configuración de OAuth 2.0
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # Configuración de OAuth 2.0 {#setting-up-oauth-2-0}
 
-Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaciones accedan de forma segura a los datos (autentique la aplicación mediante OAuth 2.0) a través de llamadas a la API REST sin tener que revelar las credenciales de inicio de sesión. A continuación se muestran los pasos que se deben realizar para conectar y sincronizar de forma segura Marketo con Salesforce.
+Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaciones accedan de forma segura a los datos (autentique la aplicación mediante OAuth 2.0) a través de llamadas a la API REST sin tener que revelar las credenciales de inicio de sesión. A continuación se indican los pasos que se deben realizar para conectar y sincronizar Marketo con Salesforce de forma segura.
 
 ## Configurar aplicación conectada {#set-up-connected-app}
 
@@ -42,9 +42,9 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
 >[!NOTE]
 >
->Guarde la clave del consumidor y la información del secreto del consumidor para usarla más adelante en Marketo.
+>Guarde la clave del consumidor y la información del secreto del consumidor para usarlos más adelante en Marketo.
 
-## Configurar Marketo {#set-up-marketo}
+## Configuración de Marketo {#set-up-marketo}
 
 >[!PREREQUISITES]
 >
