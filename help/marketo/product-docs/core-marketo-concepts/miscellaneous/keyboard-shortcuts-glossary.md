@@ -1,46 +1,46 @@
 ---
 unique-page-id: 1147318
-description: Glosario de métodos abreviados de teclado - Documentos de marketing - Documentación del producto
-title: Glosario de métodos abreviados de teclado
+description: Glosario de métodos abreviados del teclado - Documentos de Marketo - Documentación del producto
+title: Glosario de métodos abreviados del teclado
+exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
+# Glosario de métodos abreviados del teclado {#keyboard-shortcuts-glossary}
 
-# Glosario de métodos abreviados de teclado {#keyboard-shortcuts-glossary}
-
-¿Es una persona que utiliza métodos abreviados de teclado? ¡Te hemos cubierto!
+¿Es una persona con métodos abreviados de teclado? ¡Te hemos cubierto!
 
 ## Navegación de área: {#area-navigation}
 
-| Método abreviado de teclado | Área |
+| Atajo de teclado | Área |
 |---|---|
 | Alt/Opción + A | Analytics |
-| Alt/Opc + C | Calendario |
-| Alt/Opc + D | Design Studio |
-| Alt/Opc + F | Búsqueda global |
-| Alt/Opc + L | Base de datos |
-| Alt/Opc + M | Actividades de marketing |
-| Opc + N | Administrador |
-| Opc + O | Mi marketing |
-| Alt/Opc + S | Menú desplegable Superbola |
+| Alt/Opt + C | Calendario |
+| Alt/Opt + D | Design Studio |
+| Alt/Opción + F | Búsqueda global |
+| Alt/Opt + L | Base de datos |
+| Alt/Opt + M | Actividades de marketing |
+| Opt + N | Administrador |
+| Opt + O | Mi Marketo |
+| Alt/Opt + S | Menú Superball desplegable |
 
-## Navegación de Vista de calendario/programa:  {#calendar-schedule-view-navigation}
+## Navegación de vista de calendario/programación:  {#calendar-schedule-view-navigation}
 
-| Método abreviado de teclado | Acción |
+| Atajo de teclado | Acción |
 |---|---|
-| Alt/Opc + flecha arriba | Retroceder en el tiempo |
-| Alt/Opc + flecha abajo | Avanzar en el tiempo |
-| Alt/Opc + T | Ir a &#39;Hoy&#39; |
+| Alt/Opt + flecha arriba | Retroceder en el tiempo |
+| Alt/Opt + flecha abajo | Avanzar en el tiempo |
+| Alt/Opt + T | Vaya a &quot;Hoy&quot; |
 
 ## Varios: {#miscellaneous}
 
-| Método abreviado de teclado | Acción |
+| Atajo de teclado | Acción |
 |---|---|
-| ESC | Cerrar ventana emergente |
-| Retorno/Intro | Ventana emergente Enviar |
-| Ctrl + Alt/Opc + H | Ocultar/mostrar un campo en el editor de formularios |
+| ESC | Cerrar elemento emergente |
+| Retorno/Intro | Elemento emergente Enviar |
+| Ctrl + Alt/Opt + H | Ocultar/mostrar un campo en el editor de formularios |
