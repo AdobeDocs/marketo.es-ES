@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: Crear y utilizar un campo de cadena concatenada (fórmula) - Marketo Docs - Documentación del producto
+description: 'Crear y utilizar un campo de cadena concatenada (fórmula): Marketo Docs: documentación del producto'
 title: Crear y utilizar un campo de cadena concatenada (fórmula)
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Crear y usar un campo de cadena concatenada (fórmula) {#create-and-use-a-concatenated-string-formula-field}
 
-Puede combinar valores de varios campos o crear un valor condicional utilizando un campo de fórmula Marketo.
+Puede combinar valores de varios campos o crear un valor condicional mediante un campo de fórmula de Marketo.
 
 1. Vaya a **Admin** y haga clic en **Administración de campos**.
 
