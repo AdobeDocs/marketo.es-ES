@@ -1,43 +1,43 @@
 ---
 unique-page-id: 7504120
-description: Iniciar una presentación - Documentos de marketing - Documentación del producto
+description: Launch a Presentation - Marketo Docs - Documentación del producto
 title: Iniciar una presentación
+exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-
 # Iniciar una presentación {#launch-a-presentation}
 
-Una vez que haya establecido las vistas y la frecuencia de rotación para la presentación, es hora de que se produzca una explosión.
+Una vez que haya establecido las vistas y la frecuencia de rotación para su presentación, es hora de que se apague.
 
 >[!AVAILABILITY]
 >
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
 >[!PREREQUISITES]
 >
 >* [Crear una presentación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
->* [Personalización de una presentación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
+>* [Personalizar una presentación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
 >
->Asegúrese de **Previsualización de una presentación** antes de iniciar.
+>Asegúrese de **Vista previa de una presentación** antes de comenzar.
 
-1. Haga clic en **Iniciar**.
+1. Haga clic en **Launch**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Haga clic en **Iniciar** una vez más. Esto le permitirá cerrar la sesión de Marketing para que la presentación pueda mostrarse de forma segura.
+1. Haga clic en **Launch** una vez más. Esto lo cerrará de Marketo para que la presentación se pueda mostrar de forma segura.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >La presentación se iniciará en una nueva ficha. Si es necesario, mueva la ficha a un monitor o televisor externo para que se muestre y haga clic en **Pantalla completa** (o presione **F11** en el teclado si utiliza Internet Explorer).
+   >La presentación se iniciará en una nueva pestaña. Si es necesario, mueva la pestaña a un monitor externo o TV para que se muestre y haga clic en **Pantalla completa** (o presione **F11** en el teclado si está utilizando Internet Explorer).
