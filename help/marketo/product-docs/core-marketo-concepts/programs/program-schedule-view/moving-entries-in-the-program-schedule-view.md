@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147134
-description: Movimiento de entradas en la Vista Calandario del programa - Documentos de marketing - Documentación del producto
-title: Movimiento de entradas en la Vista Calandario del programa
+description: Mover entradas en la vista de programación del programa - Documentos de Marketo - Documentación del producto
+title: Movimiento de Entradas en la Vista Programación del Programa
+exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# Movimiento de entradas en la Vista de Calandario del programa {#moving-entries-in-the-program-schedule-view}
+# Mover entradas en la vista Programa {#moving-entries-in-the-program-schedule-view}
 
 Si se mueven entradas en la vista de programación, se volverán a programar automáticamente.
 
 >[!NOTE]
 >
->No se puede mover una campaña inteligente, un programa de participación o una explosión de correo ya ejecutada.
+>No se puede mover una campaña inteligente ya ejecutada, un programa de participación o una explosión de correo.
 
-1. Seleccione la entrada. Arrástrelo y colóquelo en otra fecha.
+1. Seleccione la entrada. Arrástrela y suéltela en una fecha diferente.
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. Nuestro recuperador de datos desaprueba, cambia la fecha y vuelve a aprobar el recurso. Es genial así.
+1. A continuación, desaprueba, cambia la fecha y vuelve a aprobar el recurso. Es genial así.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 
