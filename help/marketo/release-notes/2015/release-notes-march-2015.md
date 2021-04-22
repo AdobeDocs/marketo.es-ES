@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095037
-description: 'Notas de la versión, marzo de 2015: Marketo Docs: Documentación del producto'
+description: 'Notas de la versión, marzo de 2015: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, marzo de 2015
+exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Marzo de 2015 {#release-notes-march}
 
-La versión de marzo de 2015 incluye las siguientes funciones. Consulte Marketo Edition para ver la disponibilidad de las funcionalidades. Después de la versión, asegúrese de volver para encontrar vínculos a artículos detallados para cada función.
+La versión de marzo de 2015 incluye las siguientes funciones. Compruebe la disponibilidad de las funciones en Marketo Edition. Después de la versión, asegúrese de volver para encontrar vínculos a artículos detallados para cada función.
 
 ## Calendario HD {#calendar-hd}
 
@@ -49,7 +49,7 @@ Compatible con el último instalador ahora [accesible a través de la aplicació
 
 ## RTP: Compromiso web personalizado con datos de posible cliente {#rtp-personalized-web-engagement-with-lead-data}
 
-Aproveche los [campos de datos de posibles clientes](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que tiene en su base de datos de Marketo para posibles clientes con el fin de crear campañas de segmentación en tiempo real y contenido personalizado. Administre los campos de datos de posibles clientes en RTP y agregue o elimine los campos de posibles clientes relevantes.
+Aproveche los [campos de datos de posible cliente](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que tiene en su base de datos de clientes potenciales de Marketo para crear campañas de segmentación en tiempo real y contenido personalizado. Administre los campos de datos de posibles clientes en RTP y agregue o elimine los campos de posibles clientes relevantes.
 
 ## RTP: Personalización del contenido web por correo electrónico o nombre de campaña del programa {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
