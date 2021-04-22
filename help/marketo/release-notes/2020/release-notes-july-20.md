@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: Notas de la versión - Julio del 2020 - Marketo Docs - Documentación del producto
+description: 'Notas de la versión, julio de 2020: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, julio de 2020
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-
 # Notas de la versión: Julio del 20 {#release-notes-july}
 
-La versión del 20 de julio incluye las siguientes funciones. Consulte la edición de Marketo para ver la disponibilidad de las funcionalidades.
+La versión del 20 de julio incluye las siguientes funciones. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
 >[!AVAILABILITY]
 >
@@ -64,5 +64,5 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 * **Eliminación del parámetro &quot;_method&quot; de la API de recursos**: A partir de septiembre de 2020, los extremos de la API de Asset ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para evitar las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requerían este parámetro, los límites de URI de las API de Asset aumentarán de 8 KB a 65 KB.
 * **[Asociado de Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Con esta versión de Munchkin JavaScript Client, versión 159, comenzaremos a dejar de utilizar el método Munchkin Associate Lead. Si se invoca, recibirá una advertencia que indica que el método se eliminará en una versión futura. Una vez eliminado, el método ya no funcionará y los intentos de utilizarlo fallarán. A los clientes Marketo Engage que hayan utilizado este método recientemente se les notificará de su uso de forma individual.
 * **Compatibilidad con Internet Explorer**: Como se anunció anteriormente, el soporte Marketo Engage para Internet Explorer 11 finaliza el 31 de  **julio de 2020**. Seguiremos siendo compatibles con Google Chrome, Mozilla Firefox, Apple Safari y Microsoft Edge.
-* **Experiencia** predeterminada de Sky: La opción para que los administradores o usuarios establezcan el Marketo Sky como la experiencia predeterminada se eliminará en esta versión a fin de prepararla para una actualización de la experiencia del usuario principal. En julio estarán disponibles más detalles sobre la actualización de la experiencia principal, prevista para finales de este año. Los usuarios que hayan establecido Marketo Sky como su experiencia predeterminada o a los que se les haya concedido acceso a Marketo Sky, pueden seguir accediendo a Marketo Sky desde un mosaico en la página de inicio de Mi Marketo.
+* **Experiencia** predeterminada de Sky: La opción para que los administradores o usuarios establezcan el Marketo Sky como la experiencia predeterminada se eliminará en esta versión a fin de prepararla para una actualización de la experiencia del usuario principal. En julio estarán disponibles más detalles sobre la actualización de la experiencia principal, prevista para finales de este año. Los usuarios que hayan establecido Marketo Sky como su experiencia predeterminada o a los que se les haya concedido acceso a Marketo Sky, pueden seguir accediendo a Marketo Sky desde un mosaico en la página principal de Mi Marketo.
 * **Compatibilidad con** EdgeHTML (que no sea Chromium) de Microsoft Edge: Marketo Engage dejará de ser compatible con las versiones EdgeHTML de Microsoft Edge a finales de 2020. A partir del 1 de enero de 2021, solo admitiremos la última versión de Chromium de Microsoft Edge.
