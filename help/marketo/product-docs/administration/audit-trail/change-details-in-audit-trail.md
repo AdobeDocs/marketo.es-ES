@@ -137,7 +137,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <module name><attribute> a "value"</td> 
+   <td>Editar módulo <code>"<module name>" <attribute></code> a "value"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
