@@ -4,10 +4,10 @@ description: Glosario de iconos - Documentos de Marketo - Documentación del pro
 title: Icono Glosario
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '568'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -30,7 +30,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
   <tr> 
    <td> 
     <div> 
-     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Carpeta</span></td> 
   </tr> 
@@ -58,7 +58,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="25" src="assets/share-to.png"> 
+     <img alt="--" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">La carpeta de origen que compartió con otro espacio de trabajo</td> 
   </tr> 
@@ -81,7 +81,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>¡Correcto!(Se muestra con frecuencia como Éxito del programa, Ejecución correcta o Activo)</td> 
+   <td>Sin errores!(Se muestra con frecuencia como Éxito del programa, Ejecución correcta o Activo)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -95,7 +95,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
-   <td colspan="1">Déclencheur</td> 
+   <td colspan="1">Desencadenante</td> 
   </tr> 
   <tr> 
    <td> 
@@ -130,7 +130,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-9-10-3a49-3a41.png"> 
     </div></td> 
-   <td>Asistencia al cliente</td> 
+   <td>Atención al cliente</td> 
   </tr> 
   <tr> 
    <td> 
@@ -204,7 +204,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>Correo electrónico</td> 
+   <td>Email</td> 
   </tr> 
   <tr> 
    <td> 
@@ -239,14 +239,14 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>Perspectiva de ventas</td> 
+   <td>Conocimiento de ventas</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a23-3a38.png"> 
     </div></td> 
-   <td>Páginas de aterrizaje</td> 
+   <td>Páginas de destino</td> 
   </tr> 
   <tr> 
    <td> 
@@ -267,7 +267,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>LaunchPoint</td> 
+   <td>Punto de inicio</td> 
   </tr> 
   <tr> 
    <td> 
@@ -302,7 +302,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td>Administrador</td> 
+   <td>Administración</td> 
   </tr> 
   <tr> 
    <td> 
@@ -327,7 +327,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2014-12-18-16-3a45-3a45.png"> 
     </div></td> 
-   <td>Programa de eventos</td> 
+   <td>Programa de evento</td> 
   </tr> 
   <tr> 
    <td> 
@@ -439,7 +439,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-9-14-3a25-3a43.png"> 
     </div></td> 
-   <td>Acción de flujo</td> 
+   <td>Acción de flujo de</td> 
   </tr> 
   <tr> 
    <td> 
@@ -523,7 +523,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </div></td> 
-   <td>Código incrustado</td> 
+   <td>Código para insertar</td> 
   </tr> 
   <tr> 
    <td> 
@@ -695,7 +695,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>Página de aterrizaje. Acciones de página de aterrizaje</td> 
+   <td>Página de destino. Acciones de página de destino</td> 
   </tr> 
   <tr> 
    <td> 
@@ -737,14 +737,14 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-12-11-3a7-3a6.png"> 
     </div></td> 
-   <td>Clonar página de aterrizaje</td> 
+   <td>Clonar página de destino</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a8-3a54.png"> 
     </div></td> 
-   <td>Eliminar página de aterrizaje</td> 
+   <td>Eliminar página de destino</td> 
   </tr> 
   <tr> 
    <td> 
@@ -758,14 +758,14 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-12-11-3a12-3a22.png"> 
     </div></td> 
-   <td>Mover programa</td> 
+   <td>Mover el programa</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a15-3a18.png"> 
     </div></td> 
-   <td>Habilitar direcciones URL personalizadas</td> 
+   <td>Habilitar URL personalizadas</td> 
   </tr> 
   <tr> 
    <td> 
@@ -856,7 +856,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a47.png"> 
     </div></td> 
-   <td colspan="1">Capturar imágenes de la web</td> 
+   <td colspan="1">Captar imagenes desde la web</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -881,7 +881,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>Modelo de ciclo de ingresos</td> 
+   <td>Modelo del ciclo de ingresos</td> 
   </tr> 
   <tr> 
    <td> 
