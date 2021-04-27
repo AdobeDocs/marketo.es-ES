@@ -3,7 +3,7 @@ description: 'Notas de la versión, enero de 2021: Documentación del producto d
 title: Notas de la versión, enero de 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Las siguientes funciones se lanzarán el **15 de enero de 2021**.
 
 ## Integración de Salesforce CRM {#salesforce-crm-integration}
 
-* [Autenticación de Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): El protocolo OAuth 2.0 está disponible para las operaciones de sincronización entre Marketo Engage y Salesforce CRM. Para los nuevos suscriptores, esta opción está habilitada de forma predeterminada. Los suscriptores actuales pueden solicitar esta función poniéndose en contacto con el servicio de asistencia técnica de Marketo.
+* [Autenticación de Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md): El protocolo OAuth 2.0 está disponible para las operaciones de sincronización entre Marketo Engage y Salesforce CRM. Para los nuevos suscriptores, esta opción está habilitada de forma predeterminada. Los suscriptores actuales pueden solicitar esta función poniéndose en contacto con el servicio de asistencia técnica de Marketo.
 * [Panel de sincronización de Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Los administradores pueden revisar rápidamente el estado de sincronización de Salesforce CRM desde el panel. La sincronización de la duración del informe de rendimiento se ha aumentado de 2 a 5 días.
 * **Exportación** de metadatos: Se ha mejorado para admitir atributos de objeto de oportunidad, cuentas con nombre, campos estándar y personalizados del miembro del programa.
 
@@ -55,7 +55,7 @@ Las siguientes funciones se lanzarán el **15 de enero de 2021**.
 
 Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Perspectiva de ventas {#sales-insight}
+## Conocimiento de ventas {#sales-insight}
 
 ![(estrella)](assets/star-yellow.svg)
 
