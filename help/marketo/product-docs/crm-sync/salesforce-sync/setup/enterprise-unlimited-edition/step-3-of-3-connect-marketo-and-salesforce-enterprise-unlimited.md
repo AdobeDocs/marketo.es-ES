@@ -4,9 +4,9 @@ description: 'Paso 3 de 3: Conexión de Marketo y Salesforce (Enterprise/Unlimit
 title: 'Paso 3 de 3: Conexión de Marketo y Salesforce (Enterprise/Unlimited)'
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -51,13 +51,13 @@ En este artículo, configurará Marketo para que se sincronice con la instancia 
    >
    >Asegúrese de [ocultar todos los campos que no necesite](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) en Marketo del usuario de sincronización antes de hacer clic en **Sincronizar campos**. Una vez que haga clic en Sincronizar campos, todos los campos que el usuario pueda ver se crearán en Marketo de forma permanente y no se podrán eliminar.
 
-1. Introduzca las credenciales de usuario de sincronización de Salesforce creadas en la parte 2 de la configuración de Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) y haga clic en **Campos de sincronización**.
+1. Introduzca las credenciales de usuario de sincronización de Salesforce creadas en la parte 2 de la configuración de Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) o [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) y haga clic en **Campos de sincronización** (marque **Simulador para pruebas** solo si está sincronizando un Simulador para pruebas de Marketo con un Simulador para pruebas de Salesforce).
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >Marque **Sandbox** si está sincronizando un Simulador para pruebas de Marketo con un Simulador para pruebas de Salesforce.
+   >Si ve un botón &quot;Iniciar sesión en Salesforce&quot; en lugar de los campos Nombre de usuario/Contraseña/Token, su suscripción a Marketo está habilitada para OAuth. Por favor [consulte este artículo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Tan pronto como la sincronización empieza a utilizar un conjunto de Credenciales, **no hay cambio de las credenciales de Salesforce o la suscripción**. Si desea utilizar la autenticación básica, póngase en contacto con el gestor de éxito del cliente.
 
 1. Lea la advertencia y haga clic en **Confirmar credenciales**.
 
