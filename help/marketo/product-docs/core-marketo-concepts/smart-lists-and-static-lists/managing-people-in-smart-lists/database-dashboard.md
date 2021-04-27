@@ -4,9 +4,9 @@ description: Tablero de base de datos - Documentos de Marketo - Documentación d
 title: Panel de bases de datos
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ El Tablero de base de datos sirve como una instantánea para ayudarle a determin
 
 >[!NOTE]
 >
->Cada espacio de trabajo tiene su propia base de datos.
+>Cada espacio de trabajo tiene su propio panel de base de datos.
 
 Para llegar allí, puede hacer clic en el mosaico **Database** en la pantalla principal...
 
@@ -35,4 +35,6 @@ Los gráficos indican el número total de personas, el número de personas comer
 >
 >¿Quiere obtener información más específica o oportuna sobre su gente? Pruebe un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de personas:** el número de personas que no han pasado mucho tiempo con ese espacio de trabajo.  **Personas comercializables:** el número de personas que han pasado todo el tiempo para el espacio de trabajo,  _menos lo siguiente_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado con dificultad, personas incluidas en la lista de bloqueados, personas que han dado de baja, personas que actualmente están configuradas como Marketing suspendido.
+**Total de personas:** el número de personas que no han pasado mucho tiempo con ese espacio de trabajo.
+
+**Personas comercializables:** el número de personas que han pasado todo el tiempo para el espacio de trabajo,  _menos lo siguiente_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado con dificultad, personas incluidas en la lista de bloqueados, personas que han dado de baja, personas que actualmente están configuradas como Marketing suspendido.
