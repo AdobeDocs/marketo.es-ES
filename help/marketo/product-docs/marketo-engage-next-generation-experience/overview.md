@@ -1,22 +1,22 @@
 ---
-description: 'Información general: Marketo Docs: Documentación del producto'
-title: Información general
+description: 'Información general: Documentos de Marketo: Documentación del producto'
+title: Resumen
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
+# Resumen {#overview}
 
-# Información general {#overview}
-
-Le damos la bienvenida a la experiencia de Marketo Engage de próxima generación, una nueva interfaz que proporciona una mayor facilidad de uso junto con un nuevo aspecto en la plataforma de Marketo.
+Le damos la bienvenida a la experiencia de Marketo Engage de próxima generación, una nueva interfaz que proporciona una mayor facilidad de uso junto con un nuevo aspecto y presentación en toda la plataforma Marketo.
 
 >[!PREREQUISITES]
 >
->Si su equipo de TI restringe el acceso web mediante una lista de permitidos, pídale que añada los siguientes dominios (incluido el asterisco) para permitir todos los recursos y websocket de Marketo:
+>Si su equipo de TI restringe el acceso web mediante una lista de permitidos, pídale que añada los siguientes dominios (incluido el asterisco) para permitir todos los recursos y portalámparas web de Marketo:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,13 +41,7 @@ En esta experiencia de próxima generación hay muchas funciones nuevas, todas e
 
 La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga información sobre ellos aquí: [Nuevo glosario de iconos](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Árbol**
-
-El árbol también se ha actualizado.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Navegación global**
 
@@ -65,7 +59,7 @@ También tiene acceso rápido a su ID de munchkin, que ahora se refleja en la UR
 
 Hay una gran cantidad de nuevas funciones de árbol disponibles.
 
-**Marketo Classic frente a Nuevo Marketo**
+**Marketo Classic frente a la nueva Marketo**
 
 <table> 
  <tbody>
