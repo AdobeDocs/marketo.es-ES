@@ -4,16 +4,16 @@ description: 'Momento interesante: Documentos de Marketo: Documentación del pro
 title: Momento interesante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Momento interesante {#interesting-moment}
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Si tiene Marketo Sales Insight, puede utilizar el paso de flujo **Momento interesante** para dar visibilidad a su equipo de ventas sobre las cosas geniales que están haciendo sus empleados.
 
@@ -33,10 +33,10 @@ Si tiene Marketo Sales Insight, puede utilizar el paso de flujo **Momento intere
    >
    >**Menos es más**. Trabaje con su equipo de ventas para asegurarse de que los momentos interesantes sean realmente interesantes.
 
-También puede utilizar [tokens en momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) para crear descripciones dinámicas realmente útiles.
+También puede utilizar [tokens en momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) para crear descripciones dinámicas realmente útiles.
 
 >[!MORELIKETHIS]
 >
 >* [Uso de momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [Tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [Tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
