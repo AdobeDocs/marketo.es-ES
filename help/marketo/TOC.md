@@ -5,9 +5,9 @@ user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 2%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 2%
          + [Editar el mensaje &quot;Ver como página web&quot;](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Habilitar límites de comunicación](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Habilitar restricciones de persona para campañas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [Filtrado de la actividad de bots de correo electrónico](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Eliminar la cancelación de la suscripción de texto de la sección &quot;Admin -> Email&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Administración de campos {#field-management}
          + [Bloquear actualizaciones de campo durante la importación de lista desde fuentes que no son de confianza](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 2%
          + [Exportación utilizada por los datos de un campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Ocultar y mostrar un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Tokens de codificación HTML en correos electrónicos](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [Marcar un campo como confidencial](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Cambiar el nombre de un campo](product-docs/administration/field-management/rename-a-field.md)
          + [Explicación de los campos administrados por el sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Ver asignaciones de campo entre Marketo y Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 2%
          + [Editar configuración de suscripción](product-docs/administration/settings/edit-subscription-settings.md)
          + [Habilitar o deshabilitar las funciones de tesorería](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Habilitar direcciones URL personalizadas para su cuenta (administración)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Bloqueo de envíos de formularios no deseados](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Restringir inicios de sesión de Marketo basados en IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Seleccione su idioma, configuración regional y zona horaria](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Establecer una página de reserva](product-docs/administration/settings/set-a-fallback-page.md)
@@ -805,7 +808,7 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
