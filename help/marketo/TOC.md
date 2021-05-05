@@ -5,9 +5,9 @@ user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
 workflow-type: tm+mt
-source-wordcount: '8006'
+source-wordcount: '8009'
 ht-degree: 2%
 
 ---
@@ -306,6 +306,7 @@ ht-degree: 2%
             + [Convertir Persona](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [Eliminación de un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [Eliminar persona](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [Ejecutar campaña](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [Otorgar crédito al remitente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Momento interesante](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Quitar de Flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -1341,7 +1342,7 @@ ht-degree: 2%
                + [Ficha Correo electrónico](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Momentos interesantes {#interesting-moments}
                   + [Información general sobre momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
-                  + [Tokens para momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+                  + [Tokens de déclencheur para momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [Uso de momentos interesantes](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + MSI para móvil {#msi-for-mobile}
             + [Mejores apuestas en Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
