@@ -4,7 +4,7 @@ description: Glosario de iconos - Documentos de Marketo - Documentación del pro
 title: Icono Glosario
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 23%
@@ -17,7 +17,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 **Iconos generales**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ## Iconos de administración {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
@@ -316,7 +316,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ### Iconos de actividades de marketing {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
@@ -684,7 +684,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ### Iconos de Design Studio {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
@@ -870,7 +870,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ### Iconos de Analytics {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
@@ -979,7 +979,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ### Iconos de Mis tokens {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
@@ -1046,7 +1046,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ### Menús de campaña {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
@@ -1120,7 +1120,7 @@ A continuación se muestran los iconos de Marketo Classic. Si ha cambiado a la n
 
 ### Iconos de base de datos {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Icono</th> 
