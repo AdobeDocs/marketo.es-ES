@@ -4,7 +4,7 @@ description: Notas de la versión - Feb 20 - Marketo Docs - Documentación del p
 title: Notas de la versión, febrero de 2020
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La versión del 20 de febrero incluye las siguientes funciones. Compruebe la dis
 
 >[!AVAILABILITY]
 >
->Las funciones denotadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Las funciones denotadas por una estrella ( ![(star)](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestralesLas siguientes_** funciones se lanzaron el 21 de  **febrero de 2020**.
 
@@ -37,7 +37,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Bizible {#bizible}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Segmentación basada en cuentas**: Analice la atribución a nivel de cuenta con la capacidad de crear segmentos y filtros para tableros de Discover según los atributos de la cuenta. Utilice estos segmentos para explorar en profundidad el rendimiento de marketing basado en cuentas.
 * **Guardar filtros**: Guarde filtros específicos del tablero exclusivos para cada usuario a fin de analizar los tableros de forma rápida y coherente.
