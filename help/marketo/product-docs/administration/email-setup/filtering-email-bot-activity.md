@@ -2,9 +2,9 @@
 description: Filtrado de la actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Filtrado de la actividad de bots de correo electrónico
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Filtrado de la actividad de bots de correo electrónico {#filtering-email-bot-activity}
 
 A veces, la actividad de bots de correo electrónico puede inflar erróneamente los datos de aperturas y clics del correo electrónico. Así es como arreglarlo.
+
+>[!NOTE]
+>
+>Esta función se habilitará para todas las instancias de Marketo la tarde del martes 11 de mayo.
 
 >[!NOTE]
 >
