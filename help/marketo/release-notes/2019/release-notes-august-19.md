@@ -4,7 +4,7 @@ description: Notas de la versión - 19 de agosto - Documentos de Marketo - Docum
 title: Notas de la versión - 19 de agosto
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Las siguientes funciones se lanzaron el 16 de agosto de 2019.
 * **Actualización de la API de Smart Campaign**: Administre las funcionalidades inteligentes del ciclo vital de la campaña a medida que redondeamos la interfaz CRUD (crear, leer, actualizar, eliminar).
 * **Actualizar el cambio de la API de encabezados de correo electrónico**: La API Actualizar encabezado de correo electrónico ya no requiere un correo electrónico para tener una plantilla adjunta para actualizar los campos de encabezado, como la línea de asunto.
 
-**Marketing basado en cuentas** ![ (estrella)](assets/star-yellow.svg)
+**Marketing basado en cuentas** ![ (estrella)](assets/yellow-star.png)
 
 * **La coincidencia de cuentas de linkedIn**, anteriormente en versión beta, ya está disponible de forma general.
 * **** AccountAIs se ha convertido oficialmente en  **perfil de cuenta**.
@@ -36,13 +36,13 @@ Las siguientes funciones se lanzaron el 16 de agosto de 2019.
 
 Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante el tercer trimestre natural y a principios del cuarto trimestre de 2019.
 
-**Marketo Sales Connect** ![ (estrella)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (estrella)](assets/yellow-star.png)
 
 * **Mejora del diseño de la página Personas:** administre sus personas y grupos mediante importaciones de listas y acciones masivas en el nuevo diseño de página Personas.
 
 >[!AVAILABILITY]
 >
->Las funciones denotadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Póngase en contacto con su representante de Marketo para obtener más información.
+>Las funciones denotadas por una estrella ( ![(star)](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Marketo para obtener más información.
 
 >[!NOTE]
 >
