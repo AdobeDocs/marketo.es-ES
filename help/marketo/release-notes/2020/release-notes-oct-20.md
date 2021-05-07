@@ -4,9 +4,9 @@ description: Notas de la versión - Oct 20 - Documentos de Marketo - Documentaci
 title: Notas de la versión, octubre de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ La versión del 20 de octubre incluye las siguientes funciones. Compruebe la dis
 
 >[!AVAILABILITY]
 >
->Las funciones identificadas por una estrella ( ![(star)](assets/star-yellow.svg)) pueden ser complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Las funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestralesLas siguientes_** funciones se lanzarán el 16 de  **octubre de 2020**.
 
-## Administración de cuentas de Target {#target-account-management}
+## Gestión de la cuenta objetivo {#target-account-management}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Lista inteligente de cuentas (Beta)**: Supercargue su estrategia ABM con la nueva capacidad de lista inteligente de cuentas. Identifique de forma dinámica las cuentas con atributos de persona y cuenta deseados para ejecutar campañas en canales múltiples y enviar alertas oportunas a Ventas para cerrar ofertas más rápido. Nota: esta opción solo está disponible para los clientes de Administración de cuentas de Target que han sido incorporados a la [experiencia de usuario de próxima generación](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## Marketing por correo electrónico {#email-marketing}
 
-* **Aumento del correo electrónico por lotes  ![(estrella)](assets/star-yellow.svg)**: Envíe más correos electrónicos con un rendimiento aumentado de hasta 5 millones de correos electrónicos por lote por hora. Las opciones de envío de correo electrónico expansivas eliminan la necesidad de esperar entre lotes de correo electrónico: envíe todos los correos electrónicos a tiempo y según la programación.
+* **Aumento del correo electrónico por lotes  ![(estrella)](assets/yellow-star.png)**: Envíe más correos electrónicos con un rendimiento aumentado de hasta 5 millones de correos electrónicos por lote por hora. Las opciones de envío de correo electrónico expansivas eliminan la necesidad de esperar entre lotes de correo electrónico: envíe todos los correos electrónicos a tiempo y según la programación.
 
 ## Marketing de sitios web {#website-marketing}
 
@@ -65,9 +65,9 @@ La versión del 20 de octubre incluye las siguientes funciones. Compruebe la dis
 
 Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Perspectiva de ventas {#sales-insight}
+## Conocimiento de ventas {#sales-insight}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Opciones** de optimización de API y nueva configuración de administración: Mejore la experiencia del usuario de Perspectiva de ventas mediante la optimización de API mejorada y funciones de control añadidas. Los ajustes de configuración permiten a los administradores definir cómo se cargan las campañas y los eventos en el panel de control de ventas. Las opciones de visualización de las actividades de calendario flexibles reducen el uso de la API y mejoran la experiencia general.
 
