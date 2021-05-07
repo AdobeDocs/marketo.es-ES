@@ -2,9 +2,9 @@
 description: 'Ejecutar campaña: Documentos de Marketo: Documentación del producto'
 title: Ejecutar campaña
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Ejecutar campaña {#execute-campaign}
 
 Una campaña ejecutable, al igual que otras campañas, contiene una lista inteligente, un flujo y una programación. A diferencia de otras campañas, en realidad no la programa ni la activa. Solo se puede llamar a través de otra campaña a través del paso Ejecutar flujo de campaña . Los pasos de flujo de la campaña ejecutable se ejecutan en serie con la campaña principal (a diferencia de la campaña de solicitud, que se ejecuta en paralelo en una campaña de Déclencheur independiente).
+
+>[!NOTE]
+>
+>Esta función se habilitará para todas las instancias de Marketo la tarde del martes 11 de mayo.
 
 >[!NOTE]
 >
