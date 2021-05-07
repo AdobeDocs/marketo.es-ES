@@ -4,9 +4,9 @@ description: 'Notas de la versión, junio del 2020: Documentos de Marketo: Docum
 title: Notas de la versión, junio de 2020
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ Las siguientes funciones se incluyen en la versión del 20 de junio. Compruebe l
 
 >[!AVAILABILITY]
 >
->Las funciones identificadas por una estrella ( ![(star)](assets/star-yellow.svg)) pueden ser complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Las funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestralesLas siguientes_** funciones se lanzarán el 5 de  **junio de 2020**.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ (estrella)](assets/star-yellow.svg): Los nuevos filtros de listas inteligentes y campañas inteligentes con tecnología de Adobe Sensei le permiten crear segmentos de audiencia con tecnología de IA para programas de marketing por correo electrónico, eventos y seminarios web. Utilice AI para segmentar audiencias en función de la probabilidad de posible cliente para registrarse en un evento, asistir a un evento o cancelar la suscripción. Cree audiencias parecidas basadas en programas anteriores para reproducir de forma eficaz los éxitos anteriores. Alcance los objetivos de conversión con seguimiento de objetivos predictivo y obtenga recomendaciones sobre cómo refinar los segmentos de audiencia para los programas de eventos.
-* **Aumento del correo electrónico por lotes** ![ (estrella)](assets/star-yellow.svg): Mejora de nuestra capacidad de marketing por correo electrónico que le permite enviar hasta 3 millones de correos electrónicos por lotes por hora. Hemos rediseñado el procesamiento de informes de correo electrónico y campañas por lotes para mejorar el rendimiento de los programas de correo electrónico y las campañas de correo electrónico por lotes. Esto reduce el tiempo de envío y mejora el tiempo de finalización. Configure los envíos de correo electrónico como lo haría normalmente, no hay complejidad añadida. Esta mejora está disponible como complemento de producto que también incluye un paquete de lanzamiento de servicios de envío, herramientas de envío de correo electrónico y varias direcciones IP dedicadas.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ (estrella)](assets/yellow-star.png): Los nuevos filtros de listas inteligentes y campañas inteligentes con tecnología de Adobe Sensei le permiten crear segmentos de audiencia con tecnología de IA para programas de marketing por correo electrónico, eventos y seminarios web. Utilice AI para segmentar audiencias en función de la probabilidad de posible cliente para registrarse en un evento, asistir a un evento o cancelar la suscripción. Cree audiencias parecidas basadas en programas anteriores para reproducir de forma eficaz los éxitos anteriores. Alcance los objetivos de conversión con seguimiento de objetivos predictivo y obtenga recomendaciones sobre cómo refinar los segmentos de audiencia para los programas de eventos.
+* **Aumento del correo electrónico por lotes** ![ (estrella)](assets/yellow-star.png): Mejora de nuestra capacidad de marketing por correo electrónico que le permite enviar hasta 3 millones de correos electrónicos por lotes por hora. Hemos rediseñado el procesamiento de informes de correo electrónico y campañas por lotes para mejorar el rendimiento de los programas de correo electrónico y las campañas de correo electrónico por lotes. Esto reduce el tiempo de envío y mejora el tiempo de finalización. Configure los envíos de correo electrónico como lo haría normalmente, no hay complejidad añadida. Esta mejora está disponible como complemento de producto que también incluye un paquete de lanzamiento de servicios de envío, herramientas de envío de correo electrónico y varias direcciones IP dedicadas.
 * **[Integración de audiencias con Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: Nueva integración de Adobe Experience Cloud (AEC) que le permite sincronizar listas estáticas de posibles clientes conocidos de Marketo Engage con varias aplicaciones AEC para mejorar los programas existentes, desbloquear nuevos casos de uso y organizar campañas multicanal. Esta integración incluye Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager y Adobe Advertising Cloud.
 * **[Campos personalizados de miembro del programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: Captura y uso de campos personalizados sobre un miembro del programa. Utilice estos campos nuevos en los formularios de Marketo Engage, véalos en la lista de miembros de un programa, utilícelos en los déclencheur y filtros de listas inteligentes e inclúyalos en una nueva acción de flujo de campaña inteligente para una automatización mejorada y una personalización más granular. También se pueden importar y exportar mediante la interfaz de usuario y las API. Mejora de la capacidad de campos y objetos de datos personalizados.
 * **Describir a un miembro** del programa: Recupere los metadatos de miembro del programa, lo que le permite importar y exportar datos de campo personalizado de miembro del programa mediante la API de REST. Mejora de nuestra API.
@@ -35,7 +35,7 @@ Las siguientes funciones se incluyen en la versión del 20 de junio. Compruebe l
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Descubrimiento de nueva cuenta disponible de forma general**
 
@@ -49,7 +49,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Bizible {#bizible}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Integración de programas de Marketo Engage**: Extraiga los datos del programa directamente del Marketo Engage para crear puntos de contacto a lo largo del recorrido de atribución en Bizible y así acreditar adecuadamente los programas de correo electrónico y participación. Mejora de la integración de Marketo Engage.
 * **Integración de actividades de Marketo Engage (BETA)**: Incluya los datos de actividad del Marketo Engage directamente en Bizible para crear puntos de contacto en el recorrido del cliente y en todos los modelos de atribución. Algunos ejemplos son cambios en la puntuación de los posibles clientes, momentos interesantes, clics en correos electrónicos o cualquier actividad personalizada. Mejora de la integración de Marketo Engage.
@@ -57,9 +57,9 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 * **Filtros y mejoras** de Discover Bizible: Analice sus datos con filtros de canal, subcanal, campaña y segmento entre tableros. Fortalezca la visibilidad de los datos con más atributos de desglose. Esta es una mejora de nuestros tableros de Discover.
 * **Sincronización de actividades para Microsoft Dynamics**: Las interacciones de ventas de atributos al llevar las actividades de Microsoft Dynamics CRM al recorrido de puntos de contacto y rastrear eventos como llamadas, citas o tareas asociadas con sus posibles clientes o contactos. Mejora de nuestra integración con Microsoft Dynamics CRM.
 
-## Perspectiva de ventas {#sales-insight}
+## Conocimiento de ventas {#sales-insight}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **[Panel de perspectivas para Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Estamos reinventando nuestra capacidad de perspectiva de ventas con una nueva visibilidad de los próximos eventos y campañas de marketing para ofrecer a los vendedores la capacidad de hacer recomendaciones más relevantes para los clientes y clientes potenciales según sus necesidades e intereses. Los vendedores también pueden ver la Actividad de Contacto y Cuenta dentro de la cronología y acceder fácilmente a detalles adicionales de la actividad. Encuentre más detalles sobre cómo actualizar su paquete [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
