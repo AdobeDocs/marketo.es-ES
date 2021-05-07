@@ -2,14 +2,14 @@
 unique-page-id: 11378814
 description: Listas inteligentes de cuentas - Documentos de Marketo - Documentación del producto
 title: Listas inteligentes de cuenta
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Listas inteligentes de cuenta {#account-smart-lists}
 
@@ -17,7 +17,11 @@ A continuación se muestra cómo identificar de forma rápida y precisa sus cuen
 
 >[!NOTE]
 >
->Esta función se encuentra en una versión beta abierta y está disponible para cualquier usuario que tenga activada tanto la versión TAM como la experiencia de usuario de Marketo Next-Gen. Póngase en contacto con su CSM si desea participar en la versión Beta.
+>Esta función se habilitará para todas las instancias de Marketo que califiquen la tarde del martes 11 de mayo.
+
+>[!NOTE]
+>
+>Esta función solo está disponible para aquellos que tengan habilitada la experiencia de usuario de TAM y de próxima generación del Marketo Engage de Adobe.
 
 ## Crear una lista inteligente de cuentas {#create-an-account-smart-list}
 
@@ -79,7 +83,7 @@ Así se verá el contenedor.
 >
 >Al igual que con las listas inteligentes estándar, puede utilizar la lógica avanzada para restringir aún más los resultados. Necesita al menos tres filtros para hacerlo y, en Listas inteligentes de cuenta, un contenedor (independientemente de cuántos filtros contenga) es igual a un filtro.
 
-## Acciones de lista inteligente de cuentas {#account-smart-list-actions}
+## Acciones de la lista inteligente de cuentas {#account-smart-list-actions}
 
 En la ficha Información general de la lista inteligente de cuentas, verá algunas opciones de acción.
 
@@ -101,4 +105,4 @@ También puede hacer referencia a su lista inteligente de cuentas en una campañ
 >
 >**Definición**
 >
->**Miembro de la lista inteligente de cuentas**: En este caso, la palabra &quot;miembro&quot; se refiere a la cuenta misma, por lo que &quot;miembro de la gente&quot; se refiere a las personas reales (registros de Marketo) en esas cuentas.
+>**Miembro de la lista inteligente de cuentas**: En este caso, la palabra &quot;miembro&quot; se refiere a la cuenta en sí, por lo que &quot;miembro del pueblo&quot; se refiere a las personas reales (registros de Marketo) de esas cuentas.
