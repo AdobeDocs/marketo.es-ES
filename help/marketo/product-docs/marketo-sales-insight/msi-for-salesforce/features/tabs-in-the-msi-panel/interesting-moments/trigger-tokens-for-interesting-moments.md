@@ -4,7 +4,7 @@ description: 'Tokens de déclencheur para momentos interesantes: Documentos de M
 title: Tokens de déclencheur para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 25%
@@ -804,7 +804,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 >[!NOTE]
 >
->Si no tiene una comprobación ![(visto)](assets/) entonces devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene una comprobación ![(visto)](assets/check.png) entonces devolverá una cadena vacía (nada) en el momento interesante.
 
 *El Déclencheur **Visitas a la página web** tiene algunos tokens adicionales:
 
