@@ -4,7 +4,7 @@ description: 'Notas de la versión, julio de 2020: Documentos de Marketo: Docume
 title: Notas de la versión, julio de 2020
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La versión del 20 de julio incluye las siguientes funciones. Compruebe la dispo
 
 >[!AVAILABILITY]
 >
->Tenga en cuenta que, según el paquete actual, los elementos con una estrella ( ![(star)](assets/star-yellow.svg)) pueden requerir la compra de un complemento de valor. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Tenga en cuenta que, según el paquete actual, los elementos con una estrella ( ![(star)](assets/yellow-star.png)) pueden requerir la compra de un complemento de valor. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestralesLas siguientes_** funciones se lanzarán el 31 de  **julio de 2020**.
 
@@ -27,7 +27,7 @@ La versión del 20 de julio incluye las siguientes funciones. Compruebe la dispo
 
 ## Marketing basado en cuentas {#account-based-marketing}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Interfaz de usuario actualizada para la creación de perfiles de cuenta**: Simplifique la creación de la lista de cuentas objetivo en Perfiles de cuenta con pasos optimizados en una sola pantalla.
 
@@ -45,15 +45,15 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 * **Límite** de tamaño de URI de API de recurso aumentado: El límite de tamaño del identificador uniforme de recursos (URI) se está aumentando de 8 KB a 65 KB antes de eliminar el parámetro &quot;_method&quot;. Al realizar cadenas de consulta largas, este aumento del límite de tamaño permitirá que los datos pasen más fácilmente. La eliminación del parámetro &quot;_method&quot; forma parte de una próxima actualización de seguridad.
 
-## Perspectiva de ventas {#sales-insight}
+## Conocimiento de ventas {#sales-insight}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **[Perspectiva de ventas habilitada para clientes con integración](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  de Salesforce CRM no nativa (Beta)**: Los clientes Marketo Engage con integraciones de Salesforce CRM no nativas ahora pueden utilizar Sales Insight para ayudar a sus equipos de ventas a comprender, priorizar e interactuar con los posibles clientes y oportunidades más comprometidos a fin de permitir ventas inteligentes y ofertas más rápidas.
 
 ## Conexión de ventas {#sales-connect}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **[Consentimiento de dos partes mejorado para las llamadas de venta:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** ahora los administradores tienen bueno control sobre las configuraciones de registro de llamadas. [Habilite las ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) grabaciones de llamadas con confianza en que cumple con la ley de consentimiento de dos partes. Automatice la notificación de la llamada que se está grabando y active los clips de audio que se reproduzcan antes de la llamada.
 
