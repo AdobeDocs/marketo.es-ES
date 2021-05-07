@@ -2,14 +2,14 @@
 unique-page-id: 11378869
 description: Creación de un mensaje SMS de vídeo - Marketo Docs - Documentación del producto
 title: Crear un mensaje SMS de vídeo
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Crear un mensaje SMS de vídeo {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
 
 >[!AVAILABILITY]
 >
->Esta función está disponible como complemento para su cuenta de Marketo Engage. Para que se aprovisione correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el administrador de éxito de los clientes de Adobe para obtener más información.
+>Esta función está disponible como complemento para su cuenta de Marketo Engage de Adobe. Para que se aprovisione correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el administrador de éxito de los clientes de Adobe para obtener más información.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Seleccione un tipo de vínculo. Marketo Landing Page es la página de aterrizaje predeterminada. Si va con eso, debe seleccionar la página de aterrizaje en la lista desplegable y hacer clic en **Insertar**.
+1. Seleccione un tipo de vínculo. La página de aterrizaje de Marketo es la predeterminada. Si va con eso, debe seleccionar la página de aterrizaje en la lista desplegable y hacer clic en **Insertar**.
 
    ![](assets/insert-link-real-hands.jpg)
 
