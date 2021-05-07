@@ -1,47 +1,47 @@
 ---
 unique-page-id: 2359837
-description: Déclencheur y Filtros para Actividades sociales - Documentos de marketing - Documentación del producto
-title: Déclencheur y Filtros para Actividades sociales
+description: Déclencheur y filtros para actividades sociales - Documentos de Marketo - Documentación del producto
+title: Déclencheur y filtros para actividades sociales
+exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
+# Déclencheur y filtros para actividades sociales {#triggers-and-filters-for-social-activities}
 
-# Déclencheur y Filtros para Actividades sociales {#triggers-and-filters-for-social-activities}
-
-Las aplicaciones sociales en Marketing tienen sus propios déclencheur y filtros especiales.
+Las aplicaciones sociales en Marketo tienen sus propios déclencheur y filtros especiales.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-1. Para utilizar _déclencheur_ sociales, seleccione la campaña inteligente y haga clic en la ficha **Lista inteligente**. A la derecha, haga clic en + para expandir **Déclencheur** y luego **Social**.
+1. Para utilizar _déclencheur_ sociales, seleccione la campaña inteligente y haga clic en la pestaña **Smart List**. A la derecha, haga clic en + para expandir **Déclencheur** y luego en **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para utilizar _filtros_ sociales, haga clic en **+** para expandir los **Filtros**.
+1. Para usar _filtros_ sociales, haga clic en **+** para expandir los **filtros**.
 
    ![](assets/two-282-29.png)
 
-1. Consulte la tabla siguiente para ver qué déclencheur y filtros funcionan con cada aplicación social.
+1. Consulte la siguiente tabla para ver qué déclencheur y filtros funcionan con cada aplicación social.
 
-   | Déclencheur/Filtros | Botones de Social | Encuestas | Vídeos | Ofertas de referencia | Apuestas |
+   | Déclencheur/filtros | Botones sociales | Sondeos | Videos | Ofertas recomendadas | Sorteos |
    |---|---|---|---|---|---|
-   | Objetivo logrado en la remisión |  |  |  | ![(visto)](assets/check.svg) |  |
-   | Comparte contenido | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) |
-   | Vínculo compartido de clics | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) |
-   | Descalifica apuestas |  |  |  |  | ![(visto)](assets/check.svg) |
-   | Gana la entrada en la aplicación social |  |  |  |  | ![(visto)](assets/check.svg) |
-   | Ingresa apuestas |  |  |  |  | ![(visto)](assets/check.svg) |
-   | Hace referencia a la aplicación de Social |  |  |  | ![(visto)](assets/check.svg) | ![(visto)](assets/check.svg) |
-   | Registros para la Oferta de referencia |  |  |  | ![(visto)](assets/check.svg) |  |
-   | Votos en la encuesta |  | ![(visto)](assets/check.svg) |  |  |  |
-   | Apuestas de Wins |  |  |  |  | ![(visto)](assets/check.svg) |
+   | Objetivo alcanzado en la recomendación |  |  |  | ![(visto)](assets/check.png) |  |
+   | Comparte contenido | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) |
+   | Hace clic en un vínculo compartido | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) |
+   | Descalifica sorteos |  |  |  |  | ![(visto)](assets/check.png) |
+   | Obtiene entrada en aplicación social |  |  |  |  | ![(visto)](assets/check.png) |
+   | Ingresa sorteos |  |  |  |  | ![(visto)](assets/check.png) |
+   | Consulta la aplicación social |  |  |  | ![(visto)](assets/check.png) | ![(visto)](assets/check.png) |
+   | Registra la oferta de reenvío |  |  |  | ![(visto)](assets/check.png) |  |
+   | Vota en encuesta |  | ![(visto)](assets/check.png) |  |  |  |
+   | Gana sorteos |  |  |  |  | ![(visto)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >
-   >[Rendimiento social de vista](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
+   >[Ver rendimiento social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
