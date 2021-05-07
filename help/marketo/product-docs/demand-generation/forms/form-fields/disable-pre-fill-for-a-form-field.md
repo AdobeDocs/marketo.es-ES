@@ -1,27 +1,29 @@
 ---
 unique-page-id: 2359675
-description: Deshabilitar cumplimentación previa para un campo de formulario - Documentos de marketing - Documentación del producto
-title: Deshabilitar cumplimentación previa para un campo de formulario
+description: Desactivación del rellenado previo de un campo de formulario - Documentos de Marketo - Documentación del producto
+title: Deshabilitar el rellenado previo de un campo de formulario
+exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
+# Deshabilitar el rellenado previo de un campo de formulario {#disable-pre-fill-for-a-form-field}
 
-# Deshabilitar cumplimentación previa para un campo de formulario {#disable-pre-fill-for-a-form-field}
-
-Cuando se conoce un visitante web (con cookies), los formularios de marketing rellenarán previamente los campos con su información de forma predeterminada. Si quieres apagar esto, así es como hacerlo.
+Cuando se conoce (se coordina) a un visitante web, los formularios de Marketo rellenarán previamente los campos con su información de forma predeterminada. Si quieres apagar esto, así es como hacerlo.
 
 >[!NOTE]
 >
->**El** archivo previo del formulario está habilitado de forma predeterminada. La configuración de relleno previo de nivel de página de aterrizaje y la configuración de relleno previo de nivel de administrador superan la configuración de nivel de formulario:
+>**Formulario Previo al** archivo habilitado de forma predeterminada. La configuración de rellenado previo de nivel de página de aterrizaje y la configuración de rellenado previo de nivel de administrador prevalecen sobre la configuración de nivel de formulario:
 >
 >Formulario > Página de aterrizaje > Administración
 
-1. Vaya a **Actividades de marketing**.
+## Deshabilitar el rellenado previo {#how-to-disable-pre-fill}
+
+1. Vaya a **Marketing Activities**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -31,17 +33,17 @@ Cuando se conoce un visitante web (con cookies), los formularios de marketing re
 
    >[!CAUTION]
    >
-   >El relleno previo del formulario no funciona al incrustar un formulario en sus propias páginas. Solo funciona en páginas de aterrizaje de marketing.
+   >El rellenado previo del formulario no funciona al incrustar un formulario en sus propias páginas. Solo funciona en páginas de aterrizaje de Marketo.
 
-1. Seleccione uno de los campos y defina **Completar previamente el formulario** como **Deshabilitado**.
+1. Seleccione uno de los campos y establezca **Form Pre-fill** en **Disabled**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
    >[!TIP]
    >
-   >También puede desactivar el rellenado previo del formulario en el nivel de página de aterrizaje o en el nivel de administrador.
+   >También puede desactivar el rellenado previo del formulario en la página de aterrizaje o a nivel de administrador.
 
-1. Haga clic en **Finalizar**.
+1. Haga clic en **Finish**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
@@ -49,4 +51,8 @@ Cuando se conoce un visitante web (con cookies), los formularios de marketing re
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
-¡Buen trabajo!
+## Campos confidenciales {#sensitive-fields}
+
+Cuando [marque un campo como sensible](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), evitando que sus valores se rellenen previamente en formularios, lo verá en la opción Relleno previo .
+
+![](assets/disable-pre-fill.png)
