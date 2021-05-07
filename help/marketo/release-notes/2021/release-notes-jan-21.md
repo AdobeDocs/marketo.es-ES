@@ -3,7 +3,7 @@ description: 'Notas de la versión, enero de 2021: Documentación del producto d
 title: Notas de la versión, enero de 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Las siguientes funciones se incluyen en la versión del 21 de enero. Compruebe l
 
 >[!AVAILABILITY]
 >
->Las funciones denotadas por una estrella ( ![(star)](assets/star-yellow.svg)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Las funciones denotadas por una estrella ( ![(star)](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_**
 
@@ -57,7 +57,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Conocimiento de ventas {#sales-insight}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **[Flujos de trabajo de prueba de correo electrónico mejorados (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Aumente la eficacia de su equipo de ventas con flujos de trabajo de correo electrónico de prueba de perspectivas de ventas mejorados. Los vendedores pueden enviar correos electrónicos de prueba a las direcciones de correo electrónico seleccionadas antes de enviar correos electrónicos masivos a hasta 200 destinatarios.
 * **[Perspectivas del estado del correo electrónico (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Los usuarios ven un mensaje de advertencia cuando intentan enviar un correo electrónico a un ID de correo electrónico no válido o a una dirección de correo electrónico que se ha dado de baja antes de enviar un correo electrónico.  Los estados de entrega de correo electrónico se pueden revisar en la pestaña de correo electrónico de la perspectiva de ventas.
@@ -67,7 +67,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Conexión de ventas {#sales-connect}
 
-![(estrella)](assets/star-yellow.svg)
+![(estrella)](assets/yellow-star.png)
 
 * **Restricción de conexión de correo electrónico (BETA)**: Mejore su capacidad de envío de correo electrónico y escale su comunicación de ventas 1:1 con la restricción de conexión de correo electrónico para conexión de ventas. Nuestra nueva tecnología de regulación administra automáticamente el tiempo de envío de correo electrónico para crear experiencias sin fisuras para los usuarios de Exchange y Gmail. Reduzca o elimine el uso de aplicaciones de envío masivo de correo electrónico de terceros.
 * **Seguimiento de devoluciones de conexión de correo electrónico**: Obtenga información sobre la calidad de los posibles clientes y el rendimiento de las plantillas de correo electrónico con el nuevo informe de devoluciones de correo electrónico. Los usuarios de Exchange y Gmail pueden optar por recibir notificaciones de devoluciones que se resumirán en la fuente activa, las carpetas de correo electrónico, los análisis de plantillas y Campaign Analytics.
