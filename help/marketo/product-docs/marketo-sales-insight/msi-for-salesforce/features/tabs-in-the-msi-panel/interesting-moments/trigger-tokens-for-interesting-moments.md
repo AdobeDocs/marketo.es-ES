@@ -4,9 +4,9 @@ description: 'Tokens de déclencheur para momentos interesantes: Documentos de M
 title: Tokens de déclencheur para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 25%
 
 ---
@@ -68,10 +68,10 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Hace clic en el vínculo del email</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Devoluciones de correo electrónico duras</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>El email se rechaza temporalmente</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>El Correo Electrónico Se Entrega</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Abre el email</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
     <tr> 
    <td>Se recibió un email de Enviar a un amigo</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
     <tr> 
    <td>Reenviar al email de un amigo</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>Se cancela la suscripción a emails</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Hace clic en el vínculo del email de ventas</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Es email de ventas enviado</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Abre el email de ventas</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>El email de ventas se rechaza</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>El email de ventas está recibido</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
     <tr> 
    <td>La oportunidad está actualizada</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
     <tr> 
    <td>Cambios del propietario</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>La persona está convertida</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>La persona está eliminada de SFDC</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>La persona está sincronizada con SFDC</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Se quitó de Oportunidad</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Se quitó de Campaña de SFDC</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>La actividad está registrada</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>La actividad está actualizada</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Se agregó a Oportunidad</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Se agregó a Campaña de SFDC</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Hace clic en el vínculo del email de ventas</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Es email de ventas enviado</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Abre el email de ventas</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>El email de ventas se rechaza</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>El email de ventas está recibido</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Se añade a la campaña de ventas</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   <tr>
    <td>Cambios del propietario</td> 
    <td>Se Elimina De La Campaña De Ventas</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Llamada de ventas recibida</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Completa el formulario</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr> 
    <td>Visita la página web</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Vínculo de clics en la página web</td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(visto)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 >[!NOTE]
 >
->Si no tiene una comprobación ![(visto)](assets/check.svg) entonces devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene una comprobación ![(visto)](assets/) entonces devolverá una cadena vacía (nada) en el momento interesante.
 
 *El Déclencheur **Visitas a la página web** tiene algunos tokens adicionales:
 
@@ -816,4 +816,4 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 >
 >Pruebe siempre sus momentos interesantes para asegurarse de que representan el modo que desea.
 >
->Además, asegúrese de que es interesante para el vendedor, no solo para usted. ![(guiño)](assets/wink.svg)>
+>Además, asegúrese de que es interesante para el vendedor, no sólo para usted!
