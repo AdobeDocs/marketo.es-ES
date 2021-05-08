@@ -4,7 +4,7 @@ description: 'Tokens de déclencheur para momentos interesantes: Documentos de M
 title: Tokens de déclencheur para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
+source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 25%
@@ -31,7 +31,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 **Déclencheur de correo electrónico**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -207,7 +207,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 **Déclencheur de Salesforce**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -536,7 +536,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 **Déclencheur de conexión de ventas**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -713,7 +713,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 **Varios**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
