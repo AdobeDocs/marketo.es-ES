@@ -4,7 +4,7 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 2%
@@ -807,9 +807,9 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Plantilla 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Plantilla 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,8 +1050,8 @@ ht-degree: 2%
    + Conexión de ventas de Marketo {#marketo-sales-connect}
       + Introducción {#getting-started}
          + [Información general de conexión de ventas](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Introducción a Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [Mi página de perfil](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Introducción a Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Mi página de perfil](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Vídeos y Tutorials de inicio rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Cambiar la contraseña de conexión de ventas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Configuración de correo electrónico {#email-settings}
