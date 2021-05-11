@@ -4,9 +4,9 @@ user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '8024'
+source-wordcount: '8023'
 ht-degree: 2%
 
 ---
@@ -807,9 +807,9 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Plantilla 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Plantilla 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1065,7 +1065,7 @@ ht-degree: 2%
          + [Dominios bloqueados](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Bloqueo de contenido](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Crear un subequipo](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [Invitar a miembros del equipo](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+         + [Invitar usuarios](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Configuración de SSO mediante SAML 2.0 en Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Configuración de uso compartido](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Detalles de acceso de usuario](product-docs/marketo-sales-connect/admin/user-access-details.md)
