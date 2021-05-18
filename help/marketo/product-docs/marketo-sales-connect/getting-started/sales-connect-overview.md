@@ -1,39 +1,38 @@
 ---
 unique-page-id: 13796464
-description: Información general de Sales Connect - Documentos de marketing - Documentación del producto
-title: Información general de Sales Connect
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Información general sobre Sales Connect - Documentos de Marketo - Documentación del producto
+title: Información general de conexión de ventas
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 0%
+source-wordcount: '224'
+ht-degree: 5%
 
 ---
 
+# Información general de conexión de ventas {#sales-connect-overview}
 
-# Información general de Sales Connect {#sales-connect-overview}
-
-Marketingto Sales Connect es una solución de soporte de ventas multifacética con una variedad de funciones, lo que le ayuda a impulsar la participación durante todo el ciclo de ventas.
+Marketo Sales Connect es una solución de soporte de ventas multifacética con diversas funciones, que le ayuda a impulsar la participación a lo largo del ciclo de ventas.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
+>No todos los clientes han adquirido esta funcionalidad. Para obtener más información, póngase en contacto con el administrador de éxito del cliente.
 
 ## La fuente en directo {#the-live-feed}
 
-Los representantes de ventas pueden vista [compromiso en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) tanto del contenido de ventas como del marketing.
+Los representantes de ventas pueden ver [participación en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) tanto del contenido de marketing como del contenido de ventas.
 
 ![](assets/engagement.jpg)
 
-## Vista de detalles de persona {#person-detail-view}
+## Vista detallada de persona {#person-detail-view}
 
 Acceda a [estadísticas de personas detalladas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Consulte Resultados en el registro de Actividad de marketing {#see-results-in-your-marketo-activity-log}
+## Consulte Resultados en el registro de actividades de Marketo {#see-results-in-your-marketo-activity-log}
 
-Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
+Vea cómo sus posibles clientes están interactuando con sus esfuerzos de ventas.
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
@@ -44,27 +43,27 @@ Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td><p>Enviar correo electrónico de ventas</p></td> 
+   <td><p>Enviar email de ventas</p></td> 
    <td><p>El usuario envió un correo electrónico de ventas desde MSE.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Abrir correo electrónico de ventas</p></td> 
+   <td><p>Abrir email de ventas</p></td> 
    <td><p>El posible cliente abrió un correo electrónico de ventas enviado desde MSE.</p></td> 
   </tr> 
   <tr> 
-   <td><p>Haga clic en Correo electrónico de ventas</p></td> 
+   <td><p>Hacer clic en el email de ventas</p></td> 
    <td><p>El posible cliente hizo clic en un vínculo de un correo electrónico de ventas enviado desde MSE.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Recibir correo electrónico de ventas</p></td> 
-   <td colspan="1"><p>El posible cliente recibió un correo electrónico enviado desde MSE.</p></td> 
+   <td colspan="1"><p>El posible cliente recibió un correo electrónico enviado por MSE.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Recibir llamada de ventas</p></td> 
-   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor utilizando el <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">teléfono de ventas</a>.</p></td> 
+   <td colspan="1"><p>Recibir llamada de venta</p></td> 
+   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor mediante el <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">teléfono de ventas</a>.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Añadir a Campaña de ventas</p></td> 
+   <td colspan="1"><p>Agregar a la campaña de ventas</p></td> 
    <td colspan="1"><p>El posible cliente se agregó a una campaña de ventas creada en MSE (en la página Campañas).</p></td> 
   </tr> 
   <tr> 
@@ -73,19 +72,19 @@ Vea cómo sus clientes potenciales se comprometen con sus esfuerzos de ventas.
   </tr> 
   <tr> 
    <td colspan="1"><p>Momento interesante</p></td> 
-   <td colspan="1"><p>El plomo tuvo un momento interesante generado en Marketing.</p></td> 
+   <td colspan="1"><p>El posible cliente tuvo un momento interesante generado en Marketo.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Compartir Campañas de mercadotecnia {#share-marketing-campaigns}
+## Compartir campañas de marketing {#share-marketing-campaigns}
 
-Cree una campaña inteligente simple para dar a sus usuarios de ventas acceso a [datos de campaña de marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Cree una campaña inteligente simple para que sus usuarios de ventas tengan acceso a [datos de campaña de Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 ¿Listo para empezar? Para obtener instrucciones de configuración, haga clic en el vínculo siguiente.
 
 >[!MORELIKETHIS]
+[Configurar Conexión de ventas](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[Introducción a Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
