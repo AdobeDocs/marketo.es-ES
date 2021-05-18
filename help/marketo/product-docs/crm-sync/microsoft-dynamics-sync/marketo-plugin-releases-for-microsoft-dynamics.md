@@ -3,11 +3,10 @@ unique-page-id: 10099389
 description: 'Versiones de complementos de Marketo para Microsoft Dynamics: Documentos de Marketo: Documentación del producto'
 title: Versiones de complementos de Marketo para Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -41,7 +40,7 @@ Al sincronizar por primera vez con Microsoft Dynamics, se descarga la última ve
    <th>Notas</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">16/10/20</td> 
    <td colspan="1">Se ha agregado compatibilidad con la sincronización de campañas con MS Dynamics.</td> 
   </tr> 
@@ -114,5 +113,5 @@ Al sincronizar por primera vez con Microsoft Dynamics, se descarga la última ve
 </table>
 
 >[!MORELIKETHIS]
+[Descargar la solución de administración de posibles clientes de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
->[Descargar la solución de administración de posibles clientes de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
