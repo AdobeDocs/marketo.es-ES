@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: Listas inteligentes de cuentas - Documentos de Marketo - Documentación del producto
 title: Listas inteligentes de cuenta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '467'
 ht-degree: 1%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 1%
 # Listas inteligentes de cuenta {#account-smart-lists}
 
 A continuación se muestra cómo identificar de forma rápida y precisa sus cuentas de alto valor.
-
->[!NOTE]
->
->Esta función se habilitará para todas las instancias de Marketo que califiquen la tarde del martes 11 de mayo.
 
 >[!NOTE]
 >
