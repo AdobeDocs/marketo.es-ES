@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 2%
 
 ---
@@ -1214,7 +1214,7 @@ ht-degree: 2%
       + Integraciones {#integrations}
          + [Cómo registrar correos electrónicos con otros CRM](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [Configuración manual de la conexión de Marketo](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Configurar la conexión de Marketo](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Concesión de acceso a usuarios](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momentos interesantes en MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
