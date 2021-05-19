@@ -1,9 +1,9 @@
 ---
 description: Configuración de Sales Connect - Marketo Docs - Documentación del producto
 title: Configurar Conexión de ventas
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 Este documento le llevará a través de los pasos iniciales para configurar su nueva instancia de Conexión de Ventas. Algunos de estos pasos requerirán acceso como administrador de Marketo, administrador de Salesforce y administrador de Sales Connect. Siga nuestras guías a continuación para completar la configuración de su instancia.
 
+>[!NOTE]
+>
+>**Se requieren permisos de administrador.**
+
 ## Acceso a su nueva cuenta de conexión de ventas de Marketo {#accessing-your-new-marketo-sales-connect-account}
 
-Si ha comprado Marketo Sales Connect, el acceso a su instancia se proporcionará en la sección de administración de Marketo. Haga clic aquí para ver las instrucciones sobre cómo un administrador de Marketo puede proporcionar acceso a su nueva instancia.
+Si ha comprado Marketo Sales Connect, el acceso a su instancia se proporcionará en la sección de administración de Marketo. [Haga clic ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) aquí para ver instrucciones sobre cómo un administrador de Marketo puede proporcionar acceso a su nueva instancia.
 
 ![](assets/set-up-sales-connect-1.png)
 
