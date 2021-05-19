@@ -1,9 +1,9 @@
 ---
 description: Concesión de acceso a los usuarios - Documentos de Marketo - Documentación del producto
 title: Concesión de acceso a usuarios
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Siga los pasos de este artículo para otorgar a los usuarios de Conexión de ventas acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en la fuente en directo y acceso a campañas de marketing.
 
-Deberá invitar a los usuarios a Conexión de ventas aquí, antes de que sean visibles en la página Marketo - Acceso de equipo, donde se concede acceso a la conexión de Marketo.
+Deberá invitar a los usuarios a Conexión de ventas [aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes de que se vean en la página Marketo > Acceso de equipo (en Conexión de ventas), donde se concede acceso a la conexión de Marketo.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ Deberá invitar a los usuarios a Conexión de ventas aquí, antes de que sean vi
 
    >[!NOTE]
    >
-   >La asignación de espacio de trabajo solo se puede realizar una vez en el momento de invitar a los usuarios. Una vez configurado, tendrá que desconectar al usuario para cambiarlo.
+   >La asignación de espacio de trabajo solo se puede realizar una vez al conceder acceso a los usuarios. Una vez configurado, tendrá que desconectar al usuario para cambiarlo.
 
    ![](assets/granting-access-to-users-1.png)
 
@@ -33,9 +33,5 @@ Deberá invitar a los usuarios a Conexión de ventas aquí, antes de que sean vi
 1. Haga clic en la lista desplegable Workspace , seleccione los espacios de trabajo que desee y haga clic en **Connect**.
 
    ![](assets/granting-access-to-users-3.png)
-
-   >[!NOTE]
-   >
-   >Si desea agregar nuevos usuarios, vaya a la sección Administración de equipos de Configuración de administración y haga clic en el botón **Invitar usuarios**.
 
 Puede agregar usuarios adicionales desde la página Administración de equipos y seguir los pasos anteriores para conectarlos.
