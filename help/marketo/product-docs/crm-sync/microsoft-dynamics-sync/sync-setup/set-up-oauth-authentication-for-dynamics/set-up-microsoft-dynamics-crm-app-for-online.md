@@ -2,8 +2,7 @@
 description: Configuración de la aplicación Microsoft Dynamics CRM para en línea - Marketo Docs - Documentación del producto
 title: Configuración de la aplicación Microsoft Dynamics CRM para en línea
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 577444d0fc23a436494e8314dd24a59434476a99
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -12,7 +11,7 @@ ht-degree: 0%
 
 # Configurar la aplicación Microsoft Dynamics CRM para Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
-## Configurar la aplicación Microsoft Dynamics CRM para en línea{#set-up-microsoft-dynamics-crm-app-for-online}
+## Configurar la aplicación Microsoft Dynamics CRM para Online {#set-up-microsoft-dynamics-crm-app-for-online}
 
 1. Vaya a https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
