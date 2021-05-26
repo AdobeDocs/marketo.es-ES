@@ -1,19 +1,31 @@
 ---
 unique-page-id: 17432598
-description: Configuración de perfiles de cuenta - Marketo Docs - Documentación del producto
+description: Configuración de perfiles de cuenta - Documentos de Marketo - Documentación del producto
 title: Configuración de la creación de perfiles de cuenta
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 2%
 
 ---
-
 
 # Configuración del perfil de cuenta {#setting-up-account-profiling}
 
 Siga estos pasos para empezar a usar la generación de perfiles de cuenta.
+
+>[!CAUTION]
+>
+>Los siguientes campos deben **no** ocultarse para que el perfil de cuenta funcione correctamente.
+>
+>* Sitio web
+>* Compañía
+>* Email
+>* País
+
+>
+>
+Obtenga información sobre cómo [mostrar un campo aquí](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. En Mi Marketo, abra **Administración de cuentas de Target**.
 
