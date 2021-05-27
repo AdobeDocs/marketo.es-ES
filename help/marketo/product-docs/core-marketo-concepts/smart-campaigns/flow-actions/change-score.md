@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1146962
 description: 'Puntuación de cambios: Documentos de Marketo: Documentación del producto'
-title: Cambiar puntuación
+title: Cambiar calificación
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Cambiar puntuación {#change-score}
+# Cambiar calificación {#change-score}
 
-## Información general {#overview}
+## Resumen {#overview}
 
 La puntuación es fácil y eficaz para ayudar a su equipo de ventas a priorizar.
 
@@ -39,4 +38,5 @@ La puntuación es fácil y eficaz para ayudar a su equipo de ventas a priorizar.
    * **-5** disminuirá (se permiten números negativos)
    * **=5** hará que la puntuación sea ese número exacto
    * **=-5** hará que la puntuación sea un número negativo exacto
-   Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el paso del tiempo. ¡Eso es lo que hicimos!
+
+Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el paso del tiempo. ¡Eso es lo que hicimos!
