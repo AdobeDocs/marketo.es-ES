@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
+source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
 workflow-type: tm+mt
-source-wordcount: '8028'
+source-wordcount: '8023'
 ht-degree: 2%
 
 ---
@@ -806,7 +806,7 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1051,7 +1051,6 @@ ht-degree: 2%
          + [Acceso a la nueva instancia de conexión de ventas](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Guía de introducción para los administradores de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [Administrar su perfil](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-         + [Vídeos y Tutorials de inicio rápido](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Cambiar la contraseña de conexión de ventas](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + Configuración de correo electrónico {#email-settings}
             + [Añadir identidad](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
