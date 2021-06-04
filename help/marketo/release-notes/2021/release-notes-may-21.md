@@ -1,9 +1,9 @@
 ---
 description: 'Notas de la versión, mayo de 2021: Documentación del producto de Marketo'
 title: Notas de la versión, mayo de 2021
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 813f06e6b54c8fb2f3029f92d642d25e39424b5e
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,6 @@ Con la vista previa de la búsqueda global, los especialistas en marketing puede
 * **Bloquear envíos de formularios de correo no deseado**: Protect su base de datos de Marketo Engage de Adobe a partir de datos no deseados que pueden provocar alertas no válidas para ventas, déclencheur de los registros de campañas y crear actividades no deseadas. El nuevo mecanismo de validación rechaza los envíos de formularios no válidos y detiene los ataques de bots. Los datos están más limpios y las campañas de marketing se ejecutan según lo previsto, lo que minimiza el riesgo de enviar posibles clientes no calificados a las ventas.
 
 * **Advertencia** de aprobación del programa de correo electrónico: Impida enviar correos electrónicos erróneos cuando las nuevas ediciones se hayan realizado en un programa aprobado anteriormente.  La advertencia actúa como protección cuando un especialista en marketing aplica cambios a un correo electrónico que ya ha sido aprobado, pero luego olvida aprobar los cambios más recientes y envía el correo electrónico a una audiencia grande sin contenido, contenido incorrecto o contenido antiguo.
-
-* **Acción de flujo único en la página** de detalles del posible cliente: Permita que los usuarios ejecuten acciones de flujo como enviar correo electrónico, cambiar propietario del posible cliente o cualquier otra acción de campaña inteligente en posibles clientes individuales desde la página de detalles del posible cliente mediante el menú de acción de flujo. Los especialistas en marketing pueden ejecutar acciones de flujo en posibles clientes sin cambiar a la vista de cuadrícula de la base de datos de clientes potenciales.
 
 * **Filtrar la actividad de bots de correo electrónico**: Impida las alertas de ventas no deseadas y los informes de correo electrónico inexactos a través de la nueva capacidad de filtrado de actividades de bots de correo electrónico. Identifique y filtre las aperturas y los clics que se pueden asociar a bots de correo electrónico que inspeccionan los vínculos que conducen a falsos déclencheur y alertas de ventas, o a informes incorrectos.
 
