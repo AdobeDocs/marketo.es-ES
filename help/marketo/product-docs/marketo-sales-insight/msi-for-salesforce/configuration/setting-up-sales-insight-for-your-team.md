@@ -1,14 +1,13 @@
 ---
 description: Configuración de la perspectiva de ventas para su equipo - Marketo Docs - Documentación del producto
 title: Configuración de la perspectiva de ventas para su equipo
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
+source-git-commit: ecceb1a3aff3a2088379f8f4f2ac33e566f90e21
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Configuración de la perspectiva de ventas para su equipo {#setting-up-sales-insight-for-your-team}
 
@@ -38,14 +37,12 @@ Si tiene un perfil dedicado para sus usuarios de Perspectiva de ventas, puede om
 
    **Para perfiles a los que se permite acceder a la perspectiva** de ventas:
 
-   * En Configuración de aplicación personalizada, marque Marketo para que la aplicación Marketo sea visible
-   * En Configuración de pestañas, cambie las fichas Marketo a Predeterminado activado
-   * En Permisos de objeto personalizados, marque Leer, Crear, Editar y Eliminar en la Configuración de perspectiva de ventas de Marketo (si el usuario debe tener acceso a la configuración, que normalmente se utiliza para los administradores)
+   * En Configuración de pestañas, cambie las pestañas de Marketo a Predeterminado activado
+   * En Permisos de objeto personalizados, marque Leer, Crear, Editar y Eliminar en la Configuración de perspectiva de ventas de Marketo (si el usuario debe tener acceso a la configuración de configuración, que normalmente se utiliza para los administradores)
 
    **Para perfiles a los que no se permite el acceso a la perspectiva** de ventas:
 
-   * En Configuración de aplicación personalizada, desmarque Marketo para ocultar la aplicación Marketo .
-   * En Configuración de pestañas, cambie las fichas Marketo a Oculto de tabulación
+   * En Configuración de pestañas, cambie las pestañas de Marketo a Oculto de tabulación
    * En Permisos de objeto personalizados, desmarque Leer, Crear, Editar y Eliminar en la configuración de perspectiva de ventas de Marketo
 
 
