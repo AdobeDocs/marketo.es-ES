@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
+source-git-commit: 26fb0bad4bf6c3bc6925de3fe985a30927b5e30a
 workflow-type: tm+mt
 source-wordcount: '8023'
 ht-degree: 2%
@@ -623,16 +623,16 @@ ht-degree: 2%
             + [Crear un evento con una reunión web de nivel 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Crear un evento con ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [Crear un evento con el adaptador Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-            + [Configuración de eventos y sincronización de Marketo con el seminario web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-            + [Crear un evento en Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-            + [Creación de campañas secundarias y recursos locales](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-            + [Crear el evento de seminario web en ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-            + [Introduzca sus credenciales ON24 en Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
-            + [Ejemplo de integración de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-            + [Actualizaciones de registro de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
-            + [Probar la integración de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-            + [Explicación de los eventos del adaptador On24 de Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
-            + [Explicación de los estados del programa de los seminarios web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+               + [Configuración de eventos y sincronización de Marketo con el seminario web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+               + [Crear un evento en Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
+               + [Creación de campañas secundarias y recursos locales](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [Crear el evento de seminario web en ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+               + [Introduzca sus credenciales ON24 en Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
+               + [Ejemplo de integración de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+               + [Actualizaciones de registro de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+               + [Probar la integración de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+               + [Explicación de los eventos del adaptador On24 de Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+               + [Explicación de los estados del programa de los seminarios web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
             + [Crear un evento con WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Crear un evento con zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
@@ -806,7 +806,7 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
