@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
+source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
 workflow-type: tm+mt
 source-wordcount: '8031'
 ht-degree: 2%
@@ -622,6 +622,8 @@ ht-degree: 2%
             + [Crear un evento con el seminario web de Goto](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Crear un evento con una reunión web de nivel 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Crear un evento con ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+            + [Crear un evento con WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Crear un evento con zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Crear un evento con el adaptador Marketo ON24 {#create-an-event-with-the-marketo-on24-adapter}
                + [Crear un evento con el adaptador Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Configuración de eventos y sincronización de Marketo con el seminario web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
@@ -634,8 +636,6 @@ ht-degree: 2%
                + [Probar la integración de eventos ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Explicación de los eventos del adaptador On24 de Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [Explicación de los estados del programa de los seminarios web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-            + [Crear un evento con WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [Crear un evento con zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
          + [Añadir posibles clientes a una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Crear una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
@@ -807,9 +807,9 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Plantilla 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Plantilla 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
