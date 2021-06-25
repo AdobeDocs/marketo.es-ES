@@ -2,8 +2,7 @@
 unique-page-id: 2360203
 description: 'Crear una función de usuario solo de API: documentos de Marketo: documentación del producto'
 title: Crear una función de usuario solo de API
-translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1cb8541afadb9a2c049d815fbc8d35a5e1bf01f6
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -41,4 +40,4 @@ Si desea integrarse con Marketo a través de la [API REST](https://developers.ma
 
 >[!MORELIKETHIS]
 >
->¡Bien hecho! Ahora vamos a [crear un usuario de solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+>¡Bien hecho! Ahora vamos a [crear un usuario de solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
