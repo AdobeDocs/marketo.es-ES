@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
+source-git-commit: abdbe8a7bd48af62b68ff51c24ffcf9d19469a80
 workflow-type: tm+mt
-source-wordcount: '8031'
+source-wordcount: '8043'
 ht-degree: 2%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 2%
             + [Crear una jerarquía](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Listas de cuentas](product-docs/target-account-management/target/account-lists.md)
          + [Listas inteligentes de cuenta](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Crear una audiencia coincidente en LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
+         + [Crear una audiencia coincidente de cuenta en LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + Participación {#engage}
          + [Filtros de cuenta](product-docs/target-account-management/engage/account-filters.md)
          + [Déclencheur de cuenta](product-docs/target-account-management/engage/account-triggers.md)
@@ -392,6 +392,7 @@ ht-degree: 2%
          + Listas estáticas {#static-lists}
             + [Crear una lista estática](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Enviar una lista a Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
+            + [Insertar un segmento de Adobe Experience Cloud en una lista estática de Marketo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list.md)
             + [Explicación de las listas estáticas](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programas {#programs}
          + Creación de programas {#creating-programs}
@@ -1310,6 +1311,7 @@ ht-degree: 2%
          + Configuración {#configuration}
             + [Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Configurar Marketo Sales Insight en Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Configuración para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Pestaña Configuración de Marketo Sales Insight en Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Página de perspectivas de ventas para administradores de Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Configuración de la perspectiva de ventas para su equipo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
@@ -1325,7 +1327,6 @@ ht-degree: 2%
                + [Agregar la ficha Perspectiva de ventas de Marketo y los botones a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Acciones masivas en Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Enviar un correo electrónico a varios registros en Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [Configuración para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
                + [Información general sobre las características del panel de perspectivas](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Compatibilidad de idiomas {#language-support}
                + [Preparar la perspectiva de ventas para el soporte multilingüe en Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
