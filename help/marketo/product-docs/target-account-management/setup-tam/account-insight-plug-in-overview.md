@@ -1,27 +1,28 @@
 ---
 unique-page-id: 12979282
-description: 'Información general del complemento de Insight de la cuenta: Marketo Docs, documentación del producto'
+description: Información general del complemento de perspectivas de cuenta - Documentos de Marketo - Documentación del producto
 title: Información general del complemento de perspectivas de cuenta
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
-# Información general del complemento de Insight de la cuenta {#account-insight-plug-in-overview}
+# Información general del complemento de perspectivas de cuenta {#account-insight-plug-in-overview}
 
 Account Insight es un complemento de Chrome que muestra datos de cuentas y TAM procesables a sus equipos de ventas, lo que les permite interactuar con cuentas de forma más eficaz.
 
 >[!AVAILABILITY]
 >
->La perspectiva de la cuenta se incluye para todos los clientes que tienen perspectivas de ventas de TAM y de Marketo. Para los clientes que solo tienen TAM, Account Insight está disponible como complemento comprado. Cada cliente está limitado a 250 asientos de Account Insight. Póngase en contacto con su representante de ventas para obtener más información. No está disponible para los clientes que no tienen TAM.
+>La perspectiva de la cuenta se incluye para todos los clientes que tienen TAM y Marketo Sales Insight. Para los clientes que solo tienen TAM, Account Insight está disponible como complemento comprado. Cada cliente está limitado a 250 asientos de Account Insight. Póngase en contacto con su representante de ventas para obtener más información. No está disponible para los clientes que no tienen TAM.
 
 >[!CAUTION]
 >
 >El complemento Perspectiva de la cuenta no funcionará en suscripciones que tengan [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) habilitado (inicio de sesión único).
+
+>[!CAUTION]
 >
 >El contexto de CRM funciona para Salesforce al iniciar el complemento desde una cuenta, posible cliente o contacto. El contexto de CRM no funcionará para Dynamics al iniciar el complemento desde una cuenta, un posible cliente o un contacto. Para los usuarios de Dynamics, se recomienda utilizar el complemento Perspectiva de la cuenta .
 
@@ -80,5 +81,5 @@ Se puede hacer clic en varios artículos. Haga clic en la cuenta con nombre para
 ¡Muy bien!
 
 >[!MORELIKETHIS]
+[Configurar la perspectiva de la cuenta](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
->[Configurar la perspectiva de la cuenta](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
