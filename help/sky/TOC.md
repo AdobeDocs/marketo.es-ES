@@ -1,18 +1,17 @@
 ---
-archetype: end-user
+solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Documentación del producto'
 feature-set: Marketo Sky
 index: y
-translation-type: tm+mt
-source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
+source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
-# Documentos de Marketo Sky {#sky}
+# Documentos del Marketo Sky {#sky}
 
 + [Página principal](home.md)
 + Introducción {#getting-started}
@@ -27,7 +26,7 @@ ht-degree: 0%
    + [Carpetas de campaña: Ficha Mis tokens](campaign-folder-my-tokens-tab.md)
    + [Carpetas de campaña: Ficha Información general](campaign-folder-overview-tab.md)
    + [Crear una carpeta de campaña](create-a-campaign-folder.md)
-+ Design Studio {#design-studio}
++ Estudio de diseño {#design-studio}
    + [Importación de recursos con Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
    + [Editor de imágenes de Marketo](marketo-image-editor.md)
 + Programas de participación {#engagement-programs}
