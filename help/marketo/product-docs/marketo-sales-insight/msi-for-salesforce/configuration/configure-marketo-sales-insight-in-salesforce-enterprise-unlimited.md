@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited - Marketo Docs - Documentación del producto
 title: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
-ht-degree: 3%
+source-wordcount: '824'
+ht-degree: 4%
 
 ---
 
@@ -24,9 +24,7 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
 
 ## Configurar la perspectiva de ventas en Marketo {#configure-sales-insight-in-marketo}
 
-1. Abra una nueva ventana del explorador para obtener las credenciales de Marketo Sales Insight de su cuenta de Marketo.
-
-1. Vaya al área Administración y seleccione **Perspectiva de ventas**.
+1. Obtenga sus credenciales de MSI en Marketo. Vaya al área Administración y seleccione **Perspectiva de ventas**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
 1. Verá una ventana emergente de confirmación. Haga clic en **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   Mantenga esta ventana abierta. Necesitará esta información más adelante en Salesforce.
 
 ## Configurar la perspectiva de ventas en Salesforce {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Introduzca el Nombre del sitio remoto (puede ser algo así como &quot;MarketoRestAPI&quot;). Introduzca la URL del sitio remoto, que es su URL de API del panel Configuración de la API de Rest en Marketo. Haga clic en **Guardar**. Ahora ha creado la configuración del sitio remoto para la API de Rest.
-
-## Configurar Marketo Sales Insight {#set-up-marketo-sales-insight}
-
-1. Inicie sesión en la instancia de Marketo y haga clic en **Admin**.
-
-   ![](assets/login-admin.png)
-
-1. Haga clic en **Perspectiva de ventas**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. Haga clic en **Editar configuración de API**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. Introduzca una **Clave secreta de API** y haga clic en **Guardar**.
-
-   >[!CAUTION]
-   No use un signo &amp; en la clave secreta de API.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   Mantenga esta ventana abierta. Necesitará esta información más adelante en Salesforce.
-
-1. Vuelva a Salesforce y haga clic en **Configuración**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. Busque &quot;sitio remoto&quot; y haga clic en **Configuración de sitio remoto** en **Controles de seguridad**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Haga clic en **Nuevo sitio remoto**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Introduzca **Remote Site Name** y **Remote Site URL** y, a continuación, haga clic en **Save**.
-
-   ![](assets/remote-site.png)
+1. Introduzca el Nombre del sitio remoto (puede ser algo así como &quot;MarketoAPI&quot;). Introduzca la URL del sitio remoto, que es su URL de API del panel Configuración de la API de Rest en Marketo. Haga clic en **Guardar**. Ahora ha creado la configuración del sitio remoto para la API de Rest.
 
    >[!NOTE]
-   Usted elige su **Nombre del sitio remoto** (MarketoAPI se usa aquí). La **URL del sitio remoto** se encuentra en el campo Host de Marketo del cuadro de diálogo Editar configuración de API del paso 4.
+   __ Elige tu nombre de sitio  **remoto**  (MarketoAPI se usa aquí). La **URL del sitio remoto** se encuentra en el campo Host de Marketo del cuadro de diálogo Editar configuración de API del paso 3 de la sección &quot;Configurar perspectivas de ventas en Marketo&quot;.
 
 ## Personalizar diseños de página {#customize-page-layouts}
 
