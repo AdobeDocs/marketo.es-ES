@@ -1,7 +1,7 @@
 ---
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
 workflow-type: tm+mt
 source-wordcount: '1064'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 * **Nuevo tablero de Recorrido de cascada de cohorte**: Esto permitirá a los especialistas en marketing ver la progresión de una cohorte seleccionada a través de un conjunto clásico de etapas de &quot;cascada de demanda&quot;, lo que proporciona una comprensión rápida de las tasas de conversión y la causalidad implícita de la conversión de fase paso a paso.
 
 ## Integración de Bizible con Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
- 
+
 Esta sección incluye nuevas funciones para los usuarios de Bizible que han completado su migración al sistema Identity Management de Adobe (IMS). Si se ha migrado, verá el nuevo Adobe ID en Configuración bisible en la pestaña Adobe ID . Todas las cuentas deben migrarse a finales de 2021.
 
 * **Integración Bizible con el Privacy Service** de Adobe: La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas críticas de privacidad de datos (como el RGPD) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada, de modo que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
