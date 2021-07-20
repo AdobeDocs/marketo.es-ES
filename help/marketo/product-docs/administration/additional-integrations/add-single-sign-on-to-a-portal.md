@@ -3,8 +3,7 @@ unique-page-id: 2360356
 description: 'Adición del inicio de sesión único a un portal: Marketo Docs: documentación del producto'
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -30,9 +29,9 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
 * Envíe la solicitud de SSO, que es una respuesta de SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como URL de audiencia del SP. Usar `https://saml.marketo.com/sp`
-* Si utiliza el atributo SPNameQualifier , establezca el elemento NameID para Subject en `https://saml.marketo.com/sp`
-* Si está federando varias suscripciones de Marketo al mismo proveedor de SSO, puede utilizar direcciones url de SP únicas para cada subgrupo de Marketo con el formato `https://saml.marketo.com/sp/<munchkin_id>`
+* Como URL de audiencia del SP. Usar `http://saml.marketo.com/sp`
+* Si utiliza el atributo SPNameQualifier , establezca el elemento NameID para Subject en `http://saml.marketo.com/sp`
+* Si está federando varias suscripciones de Marketo al mismo proveedor de SSO, puede utilizar direcciones url de SP únicas para cada subgrupo de Marketo con el formato `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -83,7 +82,7 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 
    ![](assets/image2014-9-24-14-3a38-3a22.png)
 
-## Actualizar la configuración de página de redireccionamiento {#update-redirect-page-settings}
+## Actualizar la configuración de la página de redirección {#update-redirect-page-settings}
 
 1. En la sección **Páginas de redireccionamiento**, haga clic en **Editar**.
 
@@ -108,6 +107,6 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 >[!MORELIKETHIS]
 >
 >* [Uso de un ID universal para el inicio de sesión de suscripción](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Restringir el inicio de sesión del usuario solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitación de usuarios de Marketo a dos instancias con ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+* [Restringir el inicio de sesión del usuario solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+* [Invitación de usuarios de Marketo a dos instancias con ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
