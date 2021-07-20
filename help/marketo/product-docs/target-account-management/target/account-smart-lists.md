@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Listas inteligentes de cuentas - Documentos de Marketo - Documentación del producto
 title: Listas inteligentes de cuenta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 1%
@@ -16,7 +16,7 @@ A continuación se muestra cómo identificar de forma rápida y precisa sus cuen
 
 >[!NOTE]
 >
->Esta función solo está disponible para aquellos que tengan habilitada la experiencia de usuario de TAM y de próxima generación del Marketo Engage de Adobe.
+>Esta función solo está disponible para aquellos que tengan el complemento Administración de cuentas de Target y una licencia de TAM emitida.
 
 ## Crear una lista inteligente de cuentas {#create-an-account-smart-list}
 
