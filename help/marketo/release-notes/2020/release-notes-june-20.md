@@ -3,15 +3,14 @@ unique-page-id: 37357276
 description: 'Notas de la versión, junio del 2020: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, junio de 2020
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
-translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Junio de 20 {#release-notes-june}
+# Notas de la versión: Junio de 2020 {#release-notes-june}
 
 Las siguientes funciones se incluyen en la versión del 20 de junio. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
@@ -61,7 +60,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ![(estrella)](assets/yellow-star.png)
 
-* **[Panel de perspectivas para Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Estamos reinventando nuestra capacidad de perspectiva de ventas con una nueva visibilidad de los próximos eventos y campañas de marketing para ofrecer a los vendedores la capacidad de hacer recomendaciones más relevantes para los clientes y clientes potenciales según sus necesidades e intereses. Los vendedores también pueden ver la Actividad de Contacto y Cuenta dentro de la cronología y acceder fácilmente a detalles adicionales de la actividad. Encuentre más detalles sobre cómo actualizar su paquete [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+* **[Panel de perspectivas para Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: Estamos reinventando nuestra capacidad de perspectiva de ventas con una nueva visibilidad de los próximos eventos y campañas de marketing para ofrecer a los vendedores la capacidad de hacer recomendaciones más relevantes para los clientes y clientes potenciales según sus necesidades e intereses. Los vendedores también pueden ver la Actividad de Contacto y Cuenta dentro de la cronología y acceder fácilmente a detalles adicionales de la actividad. Encuentre más detalles sobre cómo actualizar su paquete [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 <br> 
 
@@ -71,7 +70,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 * **Cambios en la infraestructura de campañas por lotes**: Estamos actualizando nuestros servicios de campañas por lotes durante el resto de este año. Será una actualización perfecta que no afectará a ninguna campaña por lotes en curso y que no provocará un cambio de comportamiento. No se requiere ninguna acción. Encuentre más detalles en este [Nation post](https://nation.marketo.com/t5/Product-Documents/Batch-Campaign-Processing-Infrastructure-Update/ta-p/301374).
 
-## Obsolescencia {#deprecations}
+## Degradaciones {#deprecations}
 
 * **[Asociado de Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: A partir de la versión 159 de Munchkin JS, se registrará una advertencia de desaprobación en la consola del explorador cuando se invoque el método Associate Lead , lo que indica que la función se eliminará en una versión futura.  La programación de desaprobación completa se anunciará más adelante.
 
