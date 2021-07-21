@@ -1,174 +1,173 @@
 ---
 unique-page-id: 42762514
-description: Información general sobre la función de Panel de perspectivas - Documentos de marketing - Documentación del producto
-title: Información general de la función de Panel de perspectivas
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: 'Información general sobre las funciones del panel de perspectivas: Documentos de Marketo: Documentación del producto'
+title: Información general sobre las características del panel de perspectivas
+exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 0%
 
 ---
 
-
-# Información general de la función de Panel de perspectivas {#insights-dashboard-feature-overview}
+# Información general sobre las características del panel de perspectivas {#insights-dashboard-feature-overview}
 
 Obtenga más información sobre las funciones disponibles en su panel de perspectivas de ventas.
 
 >[!PREREQUISITES]
 >
->Debe tener el paquete MSI SFDC más reciente y [configuración](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+>Debe tener el último paquete MSI SFDC y la [configuración](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
 ## Diseño de contacto {#contact-layout}
 
-**Cuadrícula de velocidad de participación**
+**Cuadrícula de Velocity de participación**
 
-* Esta cuadrícula inteligente incluye Momentos interesantes, Correo electrónico y Actividad Web en los últimos 90 días
-* El usuario puede elegir la actividad &quot;Mostrar cuenta&quot;, que clasificará todos los momentos de interés de nivel de cuenta, el correo electrónico y la Actividad Web en la vista de contacto
-* El usuario puede resaltar una semana específica para ver actividades dentro de esa semana
+* Esta cuadrícula inteligente incluye momentos interesantes, correo electrónico y actividad web en los últimos 90 días
+* El usuario puede elegir la actividad &quot;Mostrar cuenta&quot;, que clasificará todos los momentos de interés de nivel de cuenta, el correo electrónico y la actividad web en la vista de contacto
+* El usuario puede resaltar una semana específica para ver las actividades de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
-**Detalle y resumen de participación**
+**Detalle y resumen de la participación**
 
-* Explorar las tarjetas de actividad para momentos interesantes, correo electrónico y Actividad Web
-* Tarjeta de Actividad Momentos interesantes - Incluye la opción de suscripción
-* Tarjeta de Actividad de correo electrónico: incluye la opción de Previsualización
-* Tarjeta de Actividad web: incluye la capacidad de hacer clic en el vínculo
-* La barra de resumen semanal mostrará Momentos interesantes, Correo electrónico y Actividad Web para esa semana. Se puede hacer clic en cada icono y se puede utilizar como filtros para mostrar una actividad específica
+* Desglose de tarjetas de actividad para momentos interesantes, correo electrónico y actividad web
+* Tarjeta de actividad Momentos interesantes - Incluye la opción de suscripción
+* Tarjeta de actividad de correo electrónico: incluye la opción de vista previa
+* Tarjeta de actividad web : incluye la capacidad de hacer clic en el vínculo.
+* La barra de resumen semanal mostrará momentos interesantes, correo electrónico y actividad web para esa semana. Se puede hacer clic en cada icono, que puede utilizarse como filtros para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximas Campañas y Eventos de correo electrónico**
+**Próximas campañas y eventos de correo electrónico**
 
-Ficha Campañas de correo electrónico:
+Pestaña Campañas de correo electrónico :
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
-* No es específica del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketing). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
-* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketing)
-* La tarjeta de detalles de actividad de esta sección tendrá una opción de previsualización. Si el flujo incluye varios pasos de envío de correo electrónico, todos los mensajes de correo electrónico estarán disponibles para la previsualización. Dentro del paso de flujo de correo electrónico de envío, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la previsualización
+* No es específico del contacto o posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
+* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketo)
+* La tarjeta de detalles de la actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos de envío de correo electrónico, todos los correos electrónicos estarán disponibles para la vista previa. En el paso enviar flujo de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
 * Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
 
 ![](assets/three.png)
 
-Ficha evento:
+Pestaña Evento:
 
-* Incluye Programas de Evento programados en los próximos 90 días
-* Utilice la opción de filtro para ver todos los eventos/eventos invitados (según la configuración del administrador)
+* Incluye programas de eventos programados para los próximos 90 días
+* Utilice la opción de filtro para ver todos los eventos o eventos invitados (según la configuración de la administración)
 * La selección de eventos invitados mostrará los eventos a los que se ha invitado a un contacto específico, junto con el estado del miembro
-* La selección de todos los eventos mostrará la lista de eventos programados en los próximos 90 días
-* La tarjeta de detalles de actividad de esta sección tiene la opción de previsualización
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* Al seleccionar todos los eventos, se mostrará la lista de eventos programados en los próximos 90 días
+* La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
+* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
 
 ![](assets/two.png)
 
-## Diseño de posibles clientes {#lead-layout}
+## Diseño de posible cliente {#lead-layout}
 
-**Cuadrícula de velocidad de participación**
+**Cuadrícula de Velocity de participación**
 
-* Esta cuadrícula inteligente incluye Momentos interesantes, Correo electrónico y Actividad Web en los últimos 90 días
-* El usuario puede resaltar una semana específica para ver actividades dentro de esa semana
+* Esta cuadrícula inteligente incluye momentos interesantes, correo electrónico y actividad web en los últimos 90 días
+* El usuario puede resaltar una semana específica para ver las actividades de esa semana
 * Vista predeterminada: La semana actual está seleccionada
-* La función &quot;Mostrar Actividad de cuenta&quot; no está disponible en los leads, ya que no forma parte de ninguna cuenta de Salesforce hasta que se convierte en un contacto
+* La función &quot;Mostrar actividad de la cuenta&quot; no está disponible en los posibles clientes, ya que no forma parte de ninguna cuenta de Salesforce hasta que se convierte en un contacto
 
-**Detalle y resumen de participación**
+**Detalle y resumen de la participación**
 
-* Tarjetas de actividad detalladas para momentos interesantes, correo electrónico y Actividad Web
-* Tarjeta de Actividad Momentos interesantes - Incluye la opción de suscripción
-* Tarjeta de Actividad de correo electrónico: incluye la opción de Previsualización
-* Tarjeta de Actividad web: incluye la capacidad de hacer clic en el vínculo
-* La barra de resumen semanal mostrará Momentos interesantes, Correo electrónico y Actividad Web para esa semana. Se puede hacer clic en cada icono y se puede utilizar como filtros para mostrar una actividad específica
+* Tarjetas de actividad de desglose para momentos interesantes, correo electrónico y actividad web
+* Tarjeta de actividad Momentos interesantes - Incluye la opción de suscripción
+* Tarjeta de actividad de correo electrónico: incluye la opción de vista previa
+* Tarjeta de actividad web : incluye la capacidad de hacer clic en el vínculo.
+* La barra de resumen semanal mostrará momentos interesantes, correo electrónico y actividad web para esa semana. Se puede hacer clic en cada icono, que puede utilizarse como filtros para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximos Eventos y Campañas de correo electrónico:**
+**Próximas campañas y eventos de correo electrónico:**
 
-Ficha Campañas de correo electrónico:
+Pestaña Campañas de correo electrónico :
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
-* No es específica del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketing). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
-* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketing)
-* La tarjeta de detalles de actividad de esta sección tendrá una opción de previsualización. Si el flujo incluye varios pasos de envío de correo electrónico, todos los mensajes de correo electrónico estarán disponibles para la previsualización. Dentro del paso de flujo de correo electrónico de envío, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la previsualización
+* No es específico del contacto o posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
+* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketo)
+* La tarjeta de detalles de la actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos de envío de correo electrónico, todos los correos electrónicos estarán disponibles para la vista previa. En el paso enviar flujo de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
 * Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
 
 ![](assets/five.png)
 
-Ficha evento:
+Pestaña Evento:
 
-* Incluye Programas de Evento programados en los próximos 90 días
-* Utilice la opción de filtro para ver todos los eventos/eventos invitados (según la configuración del administrador)
+* Incluye programas de eventos programados para los próximos 90 días
+* Utilice la opción de filtro para ver todos los eventos o eventos invitados (según la configuración de la administración)
 * La selección de eventos invitados mostrará los eventos a los que se ha invitado a un contacto específico, junto con el estado del miembro
-* La selección de todos los eventos mostrará la lista de eventos programados en los próximos 90 días
-* La tarjeta de detalles de actividad de esta sección tiene la opción de previsualización
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* Al seleccionar todos los eventos, se mostrará la lista de eventos programados en los próximos 90 días
+* La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
+* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
 
 ![](assets/four.png)
 
-## Diseño de cuenta {#account-layout}
+## Diseño de la cuenta {#account-layout}
 
-**Cuadrícula de velocidad de participación**
+**Cuadrícula de Velocity de participación**
 
-* Esta cuadrícula inteligente incluye Momentos interesantes, Correo electrónico y Actividad Web en los últimos 90 días para todos los contactos de la cuenta
-* El usuario puede resaltar una semana específica para ver actividades dentro de esa semana
+* Esta cuadrícula inteligente incluye momentos interesantes, correo electrónico y actividad web en los últimos 90 días para todos los contactos de la cuenta
+* El usuario puede resaltar una semana específica para ver las actividades de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
-**Detalle y resumen de participación**
+**Desglose y resumen de la participación**
 
-* Tarjetas de actividad detalladas para momentos interesantes, correo electrónico y Actividad Web, incluido el nombre de contacto
-* Tarjeta de Actividad Momentos interesantes - Incluye la opción de suscripción
-* Tarjeta de Actividad de correo electrónico: incluye la opción de Previsualización
-* Tarjeta de Actividad web: incluye la capacidad de hacer clic en el vínculo
-* La barra de resumen semanal mostrará Momentos interesantes, Correo electrónico y Actividad Web para esa semana. Se puede hacer clic en cada icono y se puede utilizar como filtros para mostrar una actividad específica
+* Tarjetas de actividad de desglose para momentos interesantes, correo electrónico y actividad web, incluido el nombre de contacto
+* Tarjeta de actividad Momentos interesantes - Incluye la opción de suscripción
+* Tarjeta de actividad de correo electrónico: incluye la opción de vista previa
+* Tarjeta de actividad web : incluye la capacidad de hacer clic en el vínculo.
+* La barra de resumen semanal mostrará momentos interesantes, correo electrónico y actividad web para esa semana. Se puede hacer clic en cada icono, que puede utilizarse como filtros para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximas Campañas y Eventos de correo electrónico**
+**Próximas campañas y eventos de correo electrónico**
 
-Ficha Campañas de correo electrónico:
+Pestaña Campañas de correo electrónico :
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
-* No es específica del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketing). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
-* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketing)
-* La tarjeta de detalles de actividad de esta sección tendrá una opción de previsualización. Si el flujo incluye varios pasos de envío de correo electrónico, todos los mensajes de correo electrónico estarán disponibles para la previsualización. Dentro del paso de flujo de correo electrónico de envío, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la previsualización
+* No es específico del contacto o posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
+* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketo)
+* La tarjeta de detalles de la actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos de envío de correo electrónico, todos los correos electrónicos estarán disponibles para la vista previa. En el paso enviar flujo de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
 * Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
 
-Ficha evento:
+Pestaña Evento:
 
-* Incluye Programas de Evento programados en los próximos 90 días
-* Utilice la opción de filtro para ver todos los eventos/eventos invitados (según la configuración del administrador)
+* Incluye programas de eventos programados para los próximos 90 días
+* Utilice la opción de filtro para ver todos los eventos o eventos invitados (según la configuración de la administración)
 * La selección de eventos invitados mostrará los eventos a los que se ha invitado a un contacto específico, junto con el estado del miembro
-* La selección de todos los eventos mostrará la lista de eventos programados en los próximos 90 días
-* La tarjeta de detalles de actividad de esta sección tiene la opción de previsualización
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* Al seleccionar todos los eventos, se mostrará la lista de eventos programados en los próximos 90 días
+* La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
+* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
 
 ## Diseño de oportunidad {#opportunity-layout}
 
-**Cuadrícula de velocidad de participación**
+**Cuadrícula de Velocity de participación**
 
-* Esta cuadrícula inteligente incluye Momentos interesantes, Correo electrónico y Actividad Web en los últimos 90 días para todos los contactos de la oportunidad
-* El usuario puede resaltar una semana específica para ver actividades dentro de esa semana
+* Esta cuadrícula inteligente incluye momentos interesantes, correo electrónico y actividad web en los últimos 90 días para todos los contactos de la oportunidad
+* El usuario puede resaltar una semana específica para ver las actividades de esa semana
 * Vista predeterminada: La semana actual está seleccionada
 
-**Detalle y resumen de participación**
+**Desglose y resumen de la participación**
 
-* Tarjetas de actividad detalladas para momentos interesantes, correo electrónico y Actividad Web, incluido el nombre de contacto
-* Tarjeta de Actividad Momentos interesantes - Incluye la opción de suscripción
-* Tarjeta de Actividad de correo electrónico: incluye la opción de Previsualización
-* Tarjeta de Actividad web: incluye la capacidad de hacer clic en el vínculo
-* La barra de resumen semanal mostrará Momentos interesantes, Correo electrónico y Actividad Web para esa semana. Se puede hacer clic en cada icono y se puede utilizar como filtros para mostrar una actividad específica
+* Tarjetas de actividad de desglose para momentos interesantes, correo electrónico y actividad web, incluido el nombre de contacto
+* Tarjeta de actividad Momentos interesantes - Incluye la opción de suscripción
+* Tarjeta de actividad de correo electrónico: incluye la opción de vista previa
+* Tarjeta de actividad web : incluye la capacidad de hacer clic en el vínculo.
+* La barra de resumen semanal mostrará momentos interesantes, correo electrónico y actividad web para esa semana. Se puede hacer clic en cada icono, que puede utilizarse como filtros para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximas Campañas de correo electrónico y** eventosFicha Campañas de correo electrónico:
+**Próximas campañas de correo electrónico y** eventosPestaña Campañas de correo electrónico:
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
-* No es específica del contacto/posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketing). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
-* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketing)
-* La tarjeta de detalles de actividad de esta sección tendrá una opción de previsualización. Si el flujo incluye varios pasos de envío de correo electrónico, todos los mensajes de correo electrónico estarán disponibles para la previsualización. Dentro del paso de flujo de correo electrónico de envío, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la previsualización
+* No es específico del contacto o posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
+* Si la periodicidad de la campaña es tal que se ejecuta más de tres veces en los próximos 90 días, solo se mostrarán las tres ejecuciones siguientes en un momento dado (similar al comportamiento de Marketo)
+* La tarjeta de detalles de la actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos de envío de correo electrónico, todos los correos electrónicos estarán disponibles para la vista previa. En el paso enviar flujo de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
 * Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
 
-Ficha evento:
+Pestaña Evento:
 
-* Incluye Programas de Evento programados en los próximos 90 días
-* Utilice la opción de filtro para ver todos los eventos/eventos invitados (según la configuración del administrador)
+* Incluye programas de eventos programados para los próximos 90 días
+* Utilice la opción de filtro para ver todos los eventos o eventos invitados (según la configuración de la administración)
 * La selección de eventos invitados mostrará los eventos a los que se ha invitado a un contacto específico, junto con el estado del miembro
-* La selección de todos los eventos mostrará la lista de eventos programados en los próximos 90 días
-* La tarjeta de detalles de actividad de esta sección tiene la opción de previsualización
-* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;
+* Al seleccionar todos los eventos, se mostrará la lista de eventos programados en los próximos 90 días
+* La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
+* El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
