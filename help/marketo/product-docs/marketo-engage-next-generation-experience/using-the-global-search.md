@@ -1,18 +1,17 @@
 ---
 description: 'Uso de la Búsqueda global: Marketo Docs: Documentación del producto'
 title: Uso de la búsqueda global
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
 
-
 # Uso de la búsqueda global {#using-the-global-search}
 
-La poderosa búsqueda global le ofrece muchas opciones. Vayamos por ellos.
+La potente búsqueda global le ofrece muchas opciones sin límite en los resultados mostrados.
 
 ## Resultados de autocompletar {#autocomplete-results}
 
@@ -38,7 +37,7 @@ Se le redirige directamente a la lista deseada.
 
 ![](assets/using-the-global-search-5.png)
 
-## Resultados de búsqueda global {#global-search-results}
+## Resultados de la búsqueda global {#global-search-results}
 
 Utilice la búsqueda completa si los resultados de autocompletar no le muestran lo que está buscando.
 
