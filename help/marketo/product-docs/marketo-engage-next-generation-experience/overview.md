@@ -2,10 +2,9 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -58,6 +57,10 @@ También tiene acceso rápido a su ID de munchkin, que ahora se refleja en la UR
 ## Nuevas opciones de árbol {#new-tree-options}
 
 Hay una gran cantidad de nuevas funciones de árbol disponibles.
+
+>[!NOTE]
+>
+>Al realizar una búsqueda en el árbol, solo se mostrarán los 250 primeros resultados. Si después de una búsqueda no puede localizar su recurso, utilice la función [Búsqueda global](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
 
 **Marketo Classic frente a la nueva Marketo**
 
