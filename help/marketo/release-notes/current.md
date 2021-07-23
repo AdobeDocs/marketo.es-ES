@@ -1,9 +1,9 @@
 ---
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,9 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Integración de Bizible con Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Esta sección incluye nuevas funciones para los usuarios de Bizible que han completado su migración al sistema Identity Management de Adobe (IMS). Si se ha migrado, verá el nuevo Adobe ID en Configuración bisible en la pestaña Adobe ID . Todas las cuentas deben migrarse a finales de 2021.
+Esta sección incluye nuevas funciones para los usuarios de Bizible que han completado su migración al sistema Identity Management de Adobe (IMS). Si se ha migrado, verá el nuevo Adobe ID en Configuración bisible en la pestaña Adobe ID . Todas las cuentas deberían migrarse a finales de 2021.
 
-* **Integración Bizible con el Privacy Service** de Adobe: La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas críticas de privacidad de datos (como el RGPD) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada, de modo que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
+* **Integración de Bizible con el Privacy Service**  de Adobe (disponible en septiembre de 2021): La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas críticas de privacidad de datos (como el RGPD) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada, de modo que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
 
 * **Bizible en el shell** unificado de Adobe: La adopción por parte de Bizible de Adobe Unified Shell ofrece a los usuarios nuevas funciones que aparecerán en la barra de encabezado de la aplicación Bizible e incluyen un mejor acceso a los recursos de soporte y al cambio de aplicación. Adobe Unified Shell ayuda a crear una experiencia coherente entre Bizible y otras aplicaciones de Adobe Experience Cloud.
 
