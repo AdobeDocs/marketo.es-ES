@@ -1,9 +1,9 @@
 ---
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Las siguientes funciones están incluidas en la versión del 21 de agosto. Consu
 Las siguientes funciones se lanzarán el **20 de agosto de 2021**.
 
 ## Integración de Adobe Experience Platform {#adobe-experience-platform-integration}
-
-* **Conector de Adobe Experience Platform nativo para compartir audiencias con el Marketo Engage**: Habilite la organización de campañas multicanal en el Marketo Engage para segmentos de audiencia creados en Adobe Experience Cloud a través del conector de destino nativo. El conector utiliza direcciones de correo electrónico para asignar perfiles de Adobe Experience Platform a perfiles de posibles clientes de Marketo Engage, lo que resulta en un uso compartido de segmentos muy preciso entre aplicaciones. Las listas de Marketo Engage estáticos se crean automáticamente y permiten a los especialistas en marketing llegar a las audiencias de destino con mensajes altamente personalizados o iniciar flujos de trabajo. Active audiencias de personas aprovechando su contexto de cuenta y oportunidad y datos más completos y en tiempo real en Experience Platform.
 
 * **Autenticación de usuario Marketo Engage mediante identidad** de Adobe: A partir de septiembre de 2021, los nuevos usuarios Marketo Engage con paquetes empresariales se incorporarán mediante las credenciales de usuario de Adobe ID. La migración de los usuarios actuales al sistema de identidad integrado no se producirá hasta mediados de 2022 y no se requiere ninguna acción hasta nuevo aviso. La autenticación de usuarios de identidad de Adobe permite a los administradores de TI/seguridad administrar varias instancias de producto de Marketo Engage junto con otras soluciones de Experience Cloud, así como configurar SSO a través de una consola común. Los administradores pueden administrar fácilmente los grupos de usuarios y las autorizaciones de usuario en un solo lugar.
 
