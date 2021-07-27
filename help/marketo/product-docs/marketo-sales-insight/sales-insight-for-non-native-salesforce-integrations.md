@@ -2,14 +2,13 @@
 unique-page-id: 45417125
 description: Perspectiva de ventas para integraciones no nativas de Salesforce - Marketo Docs - Documentación del producto
 title: Perspectiva de ventas para integraciones no nativas de Salesforce
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
+source-git-commit: 73c5375c6e2ec3b2dce09595be1f61f302ff4c25
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1300'
 ht-degree: 0%
 
 ---
-
 
 # Perspectiva de ventas para integraciones no nativas de Salesforce {#sales-insight-for-non-native-salesforce-integrations}
 
@@ -17,9 +16,9 @@ Si su cuenta de Marketo está conectada a Salesforce a través de una integraci�
 
 >[!PREREQUISITES]
 >
->* El indicador de función &quot;MSI no nativo&quot; habilitado para la instancia de Marketo antes de comenzar a configurar MSI (si no lo es, póngase en contacto con el administrador de éxito del cliente).
+>* La función &quot;No nativa de MSI&quot; habilitada para su instancia de Marketo antes de comenzar a configurar MSI (si no lo es y ya ha adquirido la función, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/support/ct-p/Support); si aún no ha adquirido esta función, póngase en contacto con el Administrador de éxito del cliente).
 >* Una cuenta de Salesforce con [MSI Package configurado](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
->* La API de REST de Marketo [se configuró correctamente](https://developers.marketo.com/rest-api/). Las API de CRUD expuestas serán la base para realizar la sincronización no nativa.
+>* La API REST de Marketo [se configuró correctamente](https://developers.marketo.com/rest-api/). Las API de CRUD expuestas serán la base para realizar la sincronización no nativa.
 >* Lea [esta entrada de blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) para comprender el objeto y las relaciones.
 >* Configure los objetos de Salesforce para que muestren el identificador único global que no distingue entre mayúsculas y minúsculas de 18 caracteres en lugar del identificador único global que distingue entre mayúsculas y minúsculas de 15 caracteres.
 
@@ -32,7 +31,7 @@ Si su cuenta de Marketo está conectada a Salesforce a través de una integraci�
 
 1. Sincronice el usuario de ventas de Salesforce con Marketo.
 
-   El usuario de ventas de Salesforce es un usuario externo que posee los posibles clientes/contactos en Salesforce. Un vendedor de Marketo debe ser actualizado para el usuario de ventas de Salesforce. El campo *externalSalesPersonId* tiene el mandato de la actualización de la persona de ventas.
+   El usuario de ventas de Salesforce es un usuario externo que posee los posibles clientes/contactos en Salesforce. Se debe actualizar un vendedor de Marketo para el usuario de ventas de Salesforce. El campo *externalSalesPersonId* tiene el mandato de la actualización de la persona de ventas.
 
 <table> 
  <colgroup> 
@@ -49,7 +48,7 @@ Si su cuenta de Marketo está conectada a Salesforce a través de una integraci�
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales Identificador único global del usuario que no distingue entre mayúsculas y minúsculas</td> 
-   <td><p>Identifica el registro de persona de ventas de Marketo en un objeto de usuario de ventas de Salesforce externo.</p><p>Es obligatorio que la persona de ventas se sincronice primero antes de sincronizar los otros objetos para que se creen las relaciones adecuadas.</p></td> 
+   <td><p>Identifica el registro de persona de ventas de Marketo en un objeto de usuario de ventas externo de Salesforce.</p><p>Es obligatorio que la persona de ventas se sincronice primero antes de sincronizar los otros objetos para que se creen las relaciones adecuadas.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -57,9 +56,9 @@ Si su cuenta de Marketo está conectada a Salesforce a través de una integraci�
 Documentación de API para el vendedor: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
 Documentación de API para sincronizar al vendedor: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Ventas_Personas/syncVentasPersonasUsandoPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Ventas_Personas/syncVentasPersonasUsandoPOST)
 
-1. Sincronice las cuentas de Salesforce en Marketo.
+1. Sincronice las cuentas de Salesforce con Marketo.
 
-   Una Empresa de Marketo deberá ser actualizada para la Cuenta de Salesforce. Los campos _externalCompanyId_ y _externalSalesPersonId_ tienen el mandato para la actualización de la empresa.
+   Será necesario actualizar una empresa de Marketo para la cuenta de Salesforce. Los campos _externalCompanyId_ y _externalSalesPersonId_ tienen el mandato para la actualización de la empresa.
 
 <table> 
  <colgroup> 
@@ -69,7 +68,7 @@ Documentación de API para sincronizar al vendedor: [https://developers.marketo.
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Campo Empresa de Marketo</strong></td> 
+   <td><strong>Campo de empresa de Marketo</strong></td> 
    <td><strong>Campo de cuenta de Salesforce</strong></td> 
    <td><strong>Descripción</strong></td> 
   </tr> 
@@ -81,7 +80,7 @@ Documentación de API para sincronizar al vendedor: [https://developers.marketo.
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales Identificador único global del usuario que no distingue entre mayúsculas y minúsculas</td> 
-   <td>Identifica un registro de Empresa de Marketo en un objeto de usuario de ventas de Salesforce externo que es el propietario de la cuenta.<br><br>También se utiliza en Marketo para asociar la empresa a la persona de ventas que posee el registro de la empresa. Es obligatorio sincronizar primero al Vendedor antes de configurar este campo.</td> 
+   <td>Identifica un registro de empresa de Marketo en un objeto de usuario de ventas externo de Salesforce que es el propietario de la cuenta.<br><br>También se utiliza en Marketo para asociar la empresa a la persona de ventas propietaria del registro de empresa. Es obligatorio sincronizar primero al Vendedor antes de configurar este campo.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -91,7 +90,7 @@ Documentación de API para empresas: [https://developers.marketo.com/rest-api/le
 
 1. Sincronice los posibles clientes/contactos de Salesforce con Marketo.
 
-   Deberá mantener un Marketo Lead para el posible cliente o contacto de Salesforce. Los campos _externalPersonId_, _externalSalesPersonId_ y _externalCompanyId_ tienen el mandato para la actualización del posible cliente.
+   Tendrá que confirmar un posible cliente de Marketo para el posible cliente o contacto de Salesforce. Los campos _externalPersonId_, _externalSalesPersonId_ y _externalCompanyId_ tienen el mandato para la actualización del posible cliente.
 
 <table> 
  <colgroup> 
@@ -108,12 +107,12 @@ Documentación de API para empresas: [https://developers.marketo.com/rest-api/le
   <tr> 
    <td>externalPersonId</td> 
    <td>Identificador único global sin distinción de mayúsculas y minúsculas de Salesforce Lead/Contact</td> 
-   <td>Identifica el registro de posible cliente de Marketo en un objeto de contacto/posible cliente de Salesforce externo.<br><br>Este es un nuevo campo que se introduce para MSI no nativo.</td> 
+   <td>Identifica el registro de posible cliente de Marketo en un objeto externo de contacto/posible cliente de Salesforce.<br><br>Este es un nuevo campo que se introduce para MSI no nativo.</td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Salesforce Sales Identificador único global del usuario que no distingue entre mayúsculas y minúsculas</td> 
-   <td>Identifica el objeto de usuario de ventas externo de Salesforce que posee este posible cliente/contacto.<br><br>También relaciona el posible cliente con el vendedor de Marketo. Es obligatorio que el Vendedor se sincronice correctamente primero.</td> 
+   <td>Identifica el objeto de usuario de ventas externo de Salesforce que posee este posible cliente/contacto.<br><br>También relaciona el posible cliente con el vendedor en Marketo. Es obligatorio que el Vendedor se sincronice correctamente primero.</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
@@ -126,9 +125,9 @@ Documentación de API para empresas: [https://developers.marketo.com/rest-api/le
 Documentación de API para posibles clientes: [`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
 Documentación de API para sincronizar posibles clientes:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
-1. Sincronizar oportunidades de Salesforce con Marketo.
+1. Sincronice las oportunidades de Salesforce con Marketo.
 
-   Necesitará mantener una oportunidad de Marketo para la oportunidad de Salesforce. Los campos _externalOportunityId_, _externalCompanyId_ y _externalSalesPersonId_ tienen el mandato para la actualización de la oportunidad.
+   Deberá mantener una oportunidad de Marketo para la oportunidad de Salesforce. Los campos _externalOportunityId_, _externalCompanyId_ y _externalSalesPersonId_ tienen el mandato para la actualización de la oportunidad.
 
 <table> 
  <colgroup> 
@@ -175,7 +174,7 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Campo Rol de Oportunidad de Marketo</strong></td> 
+   <td><strong>Campo de rol de oportunidad de Marketo</strong></td> 
    <td><strong>Campo de función de contacto de Salesforce</strong></td> 
    <td><strong>Descripción</strong></td> 
   </tr> 
@@ -263,4 +262,4 @@ Documentación de API para oportunidad: [`https://developers.marketo.com/rest-ap
 
 Documentación para la API de REST de posibles clientes: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
-El uso correcto de los campos externos es clave para una sincronización no nativa correcta. Si no ve los datos en algunas de las vistas, es probable que un campo determinado no se haya sincronizado correctamente. Por ejemplo, si las actividades de un posible cliente y los momentos interesantes no aparecen al buscar en el widget MSI debajo de su cuenta, es probable que ni la empresa del posible cliente ni la cuenta se hayan sincronizado correctamente. Realizar una solicitud de GET para este posible cliente al especificar los campos externos le ayudará a comprobar si el posible cliente se sincronizó correctamente. Además, el correo electrónico del vendedor externo de Marketo debe coincidir con el del usuario de Salesforce. Es posible que no se muestren datos en la ficha Marketo de Salesforce si los mensajes de correo electrónico no coinciden.
+El uso correcto de los campos externos es clave para una sincronización no nativa correcta. Si no ve los datos en algunas de las vistas, es probable que un campo determinado no se haya sincronizado correctamente. Por ejemplo, si las actividades de un posible cliente y los momentos interesantes no aparecen al buscar en el widget MSI debajo de su cuenta, es probable que ni la empresa del posible cliente ni la cuenta se hayan sincronizado correctamente. Realizar una solicitud de GET para este posible cliente al especificar los campos externos le ayudará a comprobar si el posible cliente se sincronizó correctamente. Además, el correo electrónico del vendedor externo de Marketo debe coincidir con el correo electrónico de ese usuario en Salesforce. Es posible que no se muestren datos en la ficha Marketo de Salesforce si los mensajes de correo electrónico no coinciden.
