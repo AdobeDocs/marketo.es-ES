@@ -3,17 +3,16 @@ unique-page-id: 1147114
 description: Tokens de campo personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
 title: Tokens de campo personalizados de miembro del programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '437'
+ht-degree: 2%
 
 ---
 
 # Tokens de campo personalizados de miembro del programa {#program-member-custom-field-tokens}
 
-## Compatibilidad con tokens para los campos personalizados de miembro del programa {#token-support-for-program-member-custom-fields}
+## Compatibilidad con tokens para los campos personalizados de los miembros del programa {#token-support-for-program-member-custom-fields}
 
 En la parte posterior de las funciones Campos personalizados de miembros del programa , se está ampliando la compatibilidad con Campos personalizados de miembros del programa en los marcos de token.
 
@@ -24,7 +23,7 @@ Los tokens de miembro se utilizan para los campos comprendidos en el ámbito de 
 >[!NOTE]
 >
 >* Los campos personalizados de miembro del programa solo se pueden usar en el contexto de un programa.
->* Los tokens de campos personalizados de miembro del programa no se pueden usar en: secuencias de comandos de correo electrónico, encabezado previo de correo electrónico, tokens de fecha en pasos de espera o fragmentos.
+>* Los tokens de campos personalizados de miembro del programa no se pueden usar en: encabezado previo de correo electrónico, tokens de fecha en pasos de espera o fragmentos de código.
 >* El estado de miembro del programa no es compatible con los tokens de miembro.
 
 
@@ -32,7 +31,7 @@ Los tokens de miembro se utilizan para los campos comprendidos en el ámbito de 
 
 Puede insertar Tokens de campos personalizados de miembro del programa en correos electrónicos, páginas de aterrizaje, SMS, notificaciones push y Webhooks.
 
-**Correos electrónicos**
+**Emails**
 
 1. Seleccione el correo electrónico deseado y haga clic en **Editar borrador**.
 
@@ -54,7 +53,7 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 >
 >No olvide aprobar su correo electrónico.
 
-**Páginas de aterrizaje**
+**páginas de destino**
 
 1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
 
@@ -102,7 +101,7 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
-**Notificaciones push**
+**Insertar notificaciones**
 
 1. Seleccione la notificación push deseada y haga clic en **Editar borrador**.
 
