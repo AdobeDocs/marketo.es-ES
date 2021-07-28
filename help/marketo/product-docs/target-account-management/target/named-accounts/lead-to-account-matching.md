@@ -1,25 +1,26 @@
 ---
 unique-page-id: 11381156
-description: Concordancia de posibles clientes con cuentas - Marketo Docs - Documentación del producto
+description: Coincidencia de posibles clientes con cuentas - Documentos de Marketo - Documentación del producto
 title: Coincidencia de posibles clientes con cuentas
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 676ae500-7691-492d-abec-0cac708216b7
+source-git-commit: 98388f1ed941b321449e6e8badac0153dc2245ba
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
 
-
 # Coincidencia de posibles clientes con cuentas {#lead-to-account-matching}
 
-La coincidencia a la derecha lleva a cuentas con el nombre correcto que utilizan la coincidencia de cliente potencial a cuenta de Marketo.
+El derecho de coincidencia lleva a cuentas con nombre correcto que utilizan la coincidencia cliente potencial a cuenta de Marketo.
 
 >[!NOTE]
 >
->**La** coincidencia entre posibles clientes es una función integrada de Administración de cuentas de Marketo Target. Utiliza lógica borrosa para hacer coincidir automáticamente los posibles clientes con las cuentas con nombre correcto en tiempo casi real. Estas cuentas con nombre podrían ser cuentas CRM o empresas de Marketo.
+>**La** coincidencia entre posibles clientes es una función integrada de la administración de cuentas de Marketo Target. Utiliza lógica borrosa para hacer coincidir automáticamente los posibles clientes con las cuentas con nombre correcto en tiempo casi real. Estas cuentas con nombre podrían ser cuentas CRM o empresas de Marketo.
 
-Marketo Lead-to-Account Matching sigue un proceso de 4 pasos:
+## Resumen {#overview}
+
+La coincidencia de cliente potencial a cuenta de Marketo sigue un proceso de 4 pasos:
 
 **Paso 1:** Nuestro proceso de coincidencia comienza utilizando información clave en los registros de posibles clientes, como:
 
@@ -35,12 +36,38 @@ Marketo Lead-to-Account Matching sigue un proceso de 4 pasos:
 
 **Paso 4:** Presentamos una lista de las empresas propuestas con correspondencias fuertes y débiles. Cuando se crea una cuenta con nombre basada en una de las empresas propuestas, se crean reglas de coincidencia para asociar automáticamente nuevos posibles clientes (por ejemplo, los posibles clientes rellenaron un formulario) a las cuentas con nombre correctas. De esta manera puede preocuparse menos por los posibles clientes y más por obtener ingresos.
 
-Dado que la coincidencia de posibles clientes de Marketo con cuentas es una característica integrada de Administración de cuentas de Marketo Target, la coincidencia de posibles clientes se produce casi en tiempo real (por ejemplo, en el momento en que un posible cliente rellena un formulario de Marketo, asociamos dicho posible cliente con la cuenta con nombre correcto). Este evento se puede utilizar para almacenar en déclencheur las alertas y notificar a los propietarios de cuentas los nuevos posibles clientes que llegan desde sus cuentas con nombre.
+Dado que la coincidencia de posibles clientes con cuentas de Marketo es una característica integrada de la administración de cuentas de Marketo Target, la coincidencia de posibles clientes con cuentas se produce casi en tiempo real (por ejemplo, en el momento en que un posible cliente rellena un formulario de Marketo, asociamos dicho posible cliente con la cuenta con nombre correcto). Este evento se puede utilizar para almacenar en déclencheur las alertas y notificar a los propietarios de cuentas los nuevos posibles clientes que llegan desde sus cuentas con nombre.
 
 >[!NOTE]
 >
->Si utiliza LeanData en Salesforce para hacer la coincidencia entre posibles clientes y cuentas, Marketo tiene una integración que sincronizará esas coincidencias con su instancia de Marketo. Para habilitar esa función, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si utiliza LeanData en Salesforce para hacer la coincidencia entre posibles clientes y cuentas, Marketo tiene una integración que sincronizará esas coincidencias con su instancia de Marketo. Para habilitar esa función, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) Obtenga información sobre cómo configurar LeanData a continuación.
+
+## Uso de LeanData para la coincidencia de posibles clientes con cuentas {#using-leandata-for-lead-to-account-matching}
+
+Una vez que el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) haya habilitado LeanData para su cuenta, siga los pasos a continuación para configurarlo.
+
+1. En Salesforce, haga clic en **Inicio de configuración** en la navegación izquierda.
+
+1. En la barra de navegación izquierda, en Administración, haga clic en **Usuarios** y luego en **Perfiles**.
+
+1. Busque y seleccione el perfil **Marketo Sync**.
+
+1. Desplácese hacia abajo hasta la sección Seguridad de nivel de campo y busque el objeto Posible cliente . Seleccione **View**.
+
+1. Para el nombre de campo &quot;Cuenta coincidente de informes&quot;, asegúrese de que la casilla de verificación de la columna **Acceso de lectura** esté seleccionada.
+
+1. En Marketo, vaya a la sección **Admin**.
+
+   ![](assets/lead-to-account-matching-1.png)
+
+1. Seleccione **Administración de campos**.
+
+   ![](assets/lead-to-account-matching-2.png)
+
+1. Confirme que el campo se encuentra allí buscando &quot;Cuenta coincidente de informes&quot;.
+
+   ![](assets/lead-to-account-matching-3.png)
 
 >[!MORELIKETHIS]
+[Discover de cuentas](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)>
 >
->[Discover de cuentas](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)
