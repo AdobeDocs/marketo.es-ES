@@ -1,9 +1,9 @@
 ---
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Restricción de conexión de correo electrónico (GA)**: Mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas personalizada con la regulación de la conexión de correo electrónico para Sales Connect. Esta nueva tecnología administra automáticamente el tiempo de envío de correo electrónico para crear experiencias sin problemas para los usuarios de Exchange y Gmail. Reduzca o elimine el uso de las aplicaciones de envío masivo de correo electrónico de terceros y envíe todos sus correos electrónicos desde Sales Connect con confianza.
+* **Restricción de la conexión del correo electrónico (Beta)**: Mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas personalizada con la regulación de la conexión de correo electrónico para Sales Connect. Esta nueva tecnología administra automáticamente el tiempo de envío de correo electrónico para crear experiencias sin problemas para los usuarios de Exchange y Gmail. Reduzca o elimine el uso de las aplicaciones de envío masivo de correo electrónico de terceros y envíe todos sus correos electrónicos desde Sales Connect con confianza.
+
+>[!NOTE]
+>
+>La restricción de correo electrónico ya está disponible en versión beta. [Obtenga más información](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Perspectivas** de actividad de ventas mejoradas: Capture y active la participación personalizada en función de las actividades anteriores del equipo de ventas. En las listas inteligentes del Marketo Engage se pueden utilizar nuevos atributos, como el vínculo de grabación de llamadas de venta, el nombre de campaña de ventas y el asunto del correo electrónico de ventas.  Estas actividades se pueden exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y están disponibles en filtros y déclencheur como restricciones adicionales para listas inteligentes.
 
