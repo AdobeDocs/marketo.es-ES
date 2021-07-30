@@ -1,7 +1,7 @@
 ---
 description: Guía de introducción para los administradores de Sales Connect - Marketo Docs - Documentación del producto
 title: Guía de introducción para los administradores de Sales Connect
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Para conectar la instancia de Conexión de ventas a la instancia de Salesforce, 
 La conexión a Marketo permitirá a los vendedores aprovechar el poder de la automatización de marketing y las perspectivas de marketing en sus esfuerzos de prospección. Las siguientes funciones requieren que configure una integración con Marketo.
 
 * Compartir [campañas de marketing](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) con los vendedores
-* Insertar [Momentos interesantes](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) en la fuente activa
+* Insertar [Momentos interesantes](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) en la fuente activa
 * Registro de actividades de ventas en Marketo
 
 Para obtener más información sobre cómo conectarse a Marketo y conceder acceso a la conexión a los usuarios de ventas, haga clic aquí.
@@ -52,7 +52,7 @@ Parte de garantizar que las ventas estén habilitadas para el éxito significa t
 
 Para obtener más información sobre la instalación de la personalización de Sales Connect [haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
-## Pruebas en Sandbox {#testing-in-sandbox}
+## Pruebas en Simulador para pruebas {#testing-in-sandbox}
 
 Para los equipos que deseen probar Marketo Sales Connect con su Sandbox de Marketo, se puede aprovisionar una cuenta adicional de Sales Connect bajo petición. Esto solo es para clientes que han comprado un Simulador para pruebas de Marketo o que lo tienen como parte de su paquete de Marketo. Si está interesado en adquirir un Simulador para pruebas, póngase en contacto con su administrador de cuentas de Marketo.
 
