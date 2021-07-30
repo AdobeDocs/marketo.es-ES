@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8048'
 ht-degree: 2%
 
 ---
@@ -808,7 +808,7 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1216,7 +1216,7 @@ ht-degree: 2%
       + Marketo {#marketo}
          + [Configurar la conexión de Marketo](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Concesión de acceso a usuarios](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [Momentos interesantes en MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
+         + [Momentos interesantes en la conexión de ventas](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Personas {#people}
          + [Vista de detalles de persona](product-docs/marketo-sales-connect/people/person-detail-view.md)
