@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: a8f212ba7389837f3299dad5aed6b085e9ffef76
 workflow-type: tm+mt
 source-wordcount: '8047'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 + [Página principal](home.md)
 + Introducción a Marketo {#getting-started-with-marketo}
-   + [Introducción](getting-started.md)
+   + [Introducción](getting-started/getting-started.md)
    + [¿Qué es el Marketo Engage de Adobe?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glosario de Marketo](getting-started/marketo-glossary.md)
    + [Icono Glosario](getting-started/icon-glossary.md)
@@ -808,7 +808,7 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
