@@ -3,9 +3,9 @@ description: Déclencheur y filtros de actividades de ventas - Documentos de Mar
 title: Déclencheur y filtros de actividades de ventas
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Siga los pasos a continuación para aprender a utilizar los filtros y déclenche
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[!NOTE
+>[!NOTE]
 >
 >Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestro [Glosario de actividades de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
