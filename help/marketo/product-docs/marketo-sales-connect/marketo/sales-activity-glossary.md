@@ -3,10 +3,10 @@ description: Glosario de actividades de ventas - Documentos de Marketo - Documen
 title: Glosario de actividades de ventas
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 13%
+source-wordcount: '416'
+ht-degree: 8%
 
 ---
 
@@ -60,7 +60,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
  <tr>
   <td>Identificación de la plantilla</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">Correo electrónico de ventas recibido</th>
   <td>Recibido por</td>
  </tr>
@@ -150,6 +150,74 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   <th>Descripción</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Detalles</strong></td> 
+   <td>Detalles del mensaje de error de rechazo.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Correo electrónico</strong></td> 
+   <td>Dirección de correo electrónico devuelta.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Vínculo</strong></td> 
+   <td>Dirección URL donde se hizo clic.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Recibido por</strong></td> 
+   <td>Dirección de correo electrónico de la persona que envió el correo electrónico.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Llamada De Ventas Contestada Por</strong></td> 
+   <td>Nombre de la persona que respondió a la llamada.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Duración de la llamada de venta</strong></td> 
+   <td>Duración de la llamada en segundos.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Llamada de ventas realizada por</strong></td> 
+   <td>Dirección de correo electrónico del vendedor que realizó la llamada.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL de registro de llamada de venta</strong></td> 
+   <td>URL de registro de llamada.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Estado de la llamada de venta</strong></td> 
+   <td>Guardará el estado de llamada final de la llamada que incluye: completado, sin respuesta, cancelado, fallido.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Asunto de la llamada de venta</strong></td> 
+   <td>Resultado de la llamada seleccionado por un usuario de ventas en el marcador .</td> 
+  </tr>
+  <tr> 
+   <td><strong>ID de campaña de ventas</strong></td> 
+   <td>ID único para el recurso de la campaña de ventas en Conexión de ventas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nombre de campaña de ventas</strong></td> 
+   <td>Nombre de la campaña de ventas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Dirección URL de la campaña de ventas</strong></td> 
+   <td>Dirección URL de conexión de ventas para la campaña de ventas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Asunto del correo electrónico de ventas</strong></td> 
+   <td>Línea de correo electrónico del asunto.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Número de teléfono de ventas llamado</strong></td> 
+   <td>Número de teléfono llamado por Ventas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Nombre de plantilla de ventas</strong></td> 
+   <td>Nombre de la plantilla de correo electrónico en Conexión de ventas.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL de plantilla de ventas</strong></td> 
+   <td>Dirección URL de conexión de ventas para la plantilla de correo electrónico.</td> 
+  </tr>
   <tr> 
    <td><strong>Enviado por</strong></td>
    <td>Dirección de correo electrónico de la persona que envió el correo electrónico.</td> 
@@ -162,18 +230,6 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
    <td><strong>Identificación de la plantilla</strong></td> 
    <td>Cuando el origen sea Tout, el ID de plantilla será el ID de plantilla de Marketo Sales Connect. Utilice esto para dirigirse a una plantilla específica en lugar de a una línea de asunto, que podría existir en varias plantillas.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Recibido por</strong></td> 
-   <td>Dirección de correo electrónico de la persona que envió el correo electrónico.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Detalles</strong></td> 
-   <td>Detalles del mensaje de error de rechazo.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Correo electrónico</strong></td> 
-   <td>Dirección de correo electrónico devuelta.</td> 
   </tr> 
  </tbody> 
 </table>
