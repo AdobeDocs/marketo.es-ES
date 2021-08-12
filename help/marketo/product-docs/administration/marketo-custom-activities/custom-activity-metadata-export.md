@@ -3,16 +3,16 @@ description: 'Exportación de metadatos de actividad personalizada: Documentos d
 title: Exportación de metadatos de actividad personalizada
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Exportación de metadatos de actividad personalizada {#custom-activity-metadata-export}
 
-Si utiliza nuestra API SOAP o la API de Munchkin, se puede exportar el esquema de metadatos de la actividad personalizada. Así es como conseguirlo.
+Siga los pasos a continuación para exportar el esquema de metadatos de actividad personalizado.
 
 1. En Mi Marketo, haga clic en **Admin**.
 
