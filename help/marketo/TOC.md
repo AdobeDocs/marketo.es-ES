@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 2%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 2%
          + [Crear una actividad personalizada](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Editar una actividad personalizada](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Publicar una actividad personalizada](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Exportación de metadatos de actividad personalizada](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Objetos personalizados de Marketo {#marketo-custom-objects}
          + [Explicación de los objetos personalizados de Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Agregar campos de objeto personalizados de Marketo](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -809,9 +810,9 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Plantilla 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Plantilla 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1219,6 +1220,8 @@ ht-degree: 2%
          + [Concesión de acceso a usuarios](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momentos interesantes en la conexión de ventas](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Glosario de actividades de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [Déclencheur y filtros de actividades de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personas {#people}
          + [Vista de detalles de persona](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conexión de ventas y cumplimiento del RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
