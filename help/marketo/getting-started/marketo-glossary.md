@@ -3,10 +3,9 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Documentos de Marketo - Documentación del producto
 title: Glosario de Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '4231'
+source-wordcount: '4205'
 ht-degree: 2%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 2%
 # Glosario de Marketo {#marketo-glossary}
 
 A continuación se describen muchos de los términos que puede encontrar al usar Marketo. Para solicitar que se añada un término, [envíenos un correo electrónico](mailto:GRP-Marketo-articlefeedback@adobe.com).
-
-| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[T](#T)** | **[U](#U)** | **V** | **[W](#W)** | **X** | **Y** | **Z** |
 
 ## A {#a}
 
@@ -450,7 +445,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
  </tbody> 
 </table>
 
-## K {#k}
+## I {#k}
 
 <table> 
  <colgroup> 
@@ -667,7 +662,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">Programa</a></strong></td> 
-   <td colspan="1">Un contenedor que contiene todo lo necesario para realizar una iniciativa de marketing. Hay cuatro tipos diferentes: <strong>Programas de eventos</strong>, <strong>Programas de participación</strong>, <strong>Programas de correo electrónico</strong> y <strong>Programas predeterminados</strong>)</td> 
+   <td colspan="1">Un contenedor que contiene todo lo que necesita para realizar una iniciativa de marketing. Hay cuatro tipos diferentes: <strong>Programas de eventos</strong>, <strong>Programas de participación</strong>, <strong>Programas de correo electrónico</strong> y <strong>Programas predeterminados</strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mes del programa</strong></td> 
