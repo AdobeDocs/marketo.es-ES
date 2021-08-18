@@ -1,9 +1,7 @@
 ---
 description: 'Exportación de metadatos de actividad personalizada: Documentos de Marketo: documentación del producto'
 title: Exportación de metadatos de actividad personalizada
-hide: true
-hidefromtoc: true
-source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
