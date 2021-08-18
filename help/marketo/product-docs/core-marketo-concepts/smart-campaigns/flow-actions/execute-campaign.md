@@ -1,7 +1,7 @@
 ---
 description: 'Ejecutar campaña: Documentos de Marketo: Documentación del producto'
 title: Ejecutar campaña
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Al utilizar Programar o Solicitar campaña [en la API](https://developers.market
 * No se pueden llamar a las campañas ejecutables entre espacios de trabajo
 * Si utiliza la acción de flujo [Remove from Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) dirigida a una campaña ejecutable, se dirigirá tanto al secundario como al principal
 * Aprovechando la herencia de tokens : por ejemplo, si tiene un único flujo de puntuación común activado por varios recursos diferentes, puede definir una puntuación predeterminada My Token en la campaña secundaria y en la campaña principal para que pueda anular el valor de la campaña de puntuación secundaria en las campañas principales (consulte a continuación un ejemplo visual)
-* La anidación de campañas ejecutables no está disponible en este momento, pero estará en una versión próxima
+* Las campañas ejecutables se pueden llamar hasta con tres niveles de profundidad (p. ej., Campaña principal > Secundaria > Secundaria > Secundaria)
 
 >[!CAUTION]
 >
