@@ -1,9 +1,7 @@
 ---
 description: 'Acciones de flujo único desde la página de detalles de la persona: documentos de Marketo: documentación del producto'
 title: Acciones de flujo único desde la página de detalles de la persona
-hide: true
-hidefromtoc: true
-source-git-commit: 48883450e089d137856f7e8f80a0c212dcd4b307
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
