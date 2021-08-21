@@ -1,9 +1,9 @@
 ---
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
-source-git-commit: 45d489ed52f6a114514c79c234ff30567f4aff96
+source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Las siguientes funciones se lanzarán el **20 de agosto de 2021**.
 
 * **Anidado** de campaña ejecutable: Ahora, las campañas ejecutables también pueden llamar a otras campañas ejecutables, lo que le permite anidarlas hasta con tres niveles de profundidad. Esto permite una mayor consolidación de los flujos operativos comunes y mejora la administración de Smart Campaign.
 
-* **Acción de flujo único en la página** de detalles de persona: Ejecute acciones de flujo como enviar correo electrónico, cambiar propietario de persona o cualquier otra acción de campaña inteligente en personas individuales desde la página de detalles de persona mediante el menú de acción de flujo sin cambiar a la vista de cuadrícula de la base de datos.
+* **Acción de flujo único en la página de detalles de la persona**  (disponible antes del 30 de agosto): Ejecute acciones de flujo como enviar correo electrónico, cambiar propietario de persona o cualquier otra acción de campaña inteligente en personas individuales desde la página de detalles de persona mediante el menú de acción de flujo sin cambiar a la vista de cuadrícula de la base de datos.
 
 * **Exportación** de actividades personalizadas: La exportación de metadatos ahora es compatible con todos los objetos y metadatos respectivos que se pueden utilizar para compartir, analizar y diseñar el modelo de datos de suscripción.
 
