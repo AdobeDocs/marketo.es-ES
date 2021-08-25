@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Programación de versiones - Documentos de Marketo - Documentación del producto
 title: Programa de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
@@ -49,12 +49,12 @@ _Las fechas de lanzamiento están sujetas a cambios_
   <tr> 
    <td colspan="1">Agosto del 21</td> 
    <td colspan="1">20 de agosto de 2021</td> 
-   <td colspan="1">en curso</td> 
+   <td colspan="1">Enviado</td> 
   </tr> 
   <tr> 
    <td colspan="1">Octubre del 21</td> 
-   <td colspan="1">15 de octubre de 2021</td> 
-   <td colspan="1">Según lo programado</td> 
+   <td colspan="1">22 de octubre de 2021</td> 
+   <td colspan="1">en curso</td> 
   </tr> 
  </tbody> 
 </table>
