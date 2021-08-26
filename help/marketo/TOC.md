@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
+source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 2%
@@ -500,8 +500,8 @@ ht-degree: 2%
          + [Glosario de métodos abreviados del teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Simulador para pruebas de Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Cambiar el nombre de un recurso de Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Configuración del uso compartido de audiencias de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-         + [Sincronizar una audiencia desde Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Configuración del uso compartido de audiencias de Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Sincronizar una audiencia desde Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Explicación de las carpetas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Explicación de las notificaciones](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificación](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -811,7 +811,7 @@ ht-degree: 2%
                + [Plantilla 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Plantilla 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
