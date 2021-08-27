@@ -3,10 +3,9 @@ unique-page-id: 2953469
 description: Sincronización SFDC - Sincronización de campañas - Documentos de Marketo - Documentación del producto
 title: Sincronización SFDC - Sincronización de campañas
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,11 +36,11 @@ Los **miembros del programa** de Marketo y sus **[estados de progresión](/help/
 
 ## ¿Cuáles son los déclencheur o filtros relacionados con las campañas? {#what-are-the-triggers-filters-related-to-campaigns}
 
-Déclencheur:
+Desencadenadores:
 
-* Se agregó a la campaña SFDC
-* Eliminado de la campaña SFDC
-* El estado se cambia en la campaña SFDC
+* Se agregó a Campaña de SFDC
+* Se quitó de Campaña de SFDC
+* El estado está cambiado en la campaña de SFDC
 
 Filtros:
 
@@ -68,7 +67,7 @@ Estas son cosas que puede comprobar:
 
 >[!NOTE]
 >
->Si su campaña de Salesforce y el programa de Marketo asignado tienen estados de programa incompatibles, puede que reciba un mensaje de error. Se recomienda que [coincida con los estados del programa antes de la sincronización](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+>Si su campaña de Salesforce y el programa de Marketo asignado tienen estados de programa incompatibles, puede que reciba un mensaje de error. Se recomienda que [coincida con los estados del programa antes de la sincronización](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 >[!MORELIKETHIS]
 >
