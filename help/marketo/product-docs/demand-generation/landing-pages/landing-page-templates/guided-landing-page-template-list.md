@@ -1,33 +1,34 @@
 ---
 unique-page-id: 7515616
-description: Lista de plantilla de Página de aterrizaje guiada - Documentos de marketing - Documentación del producto
-title: Lista de plantilla de Página de aterrizaje guiada
-translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+description: 'Lista guiada de plantillas de página de aterrizaje: Documentos de Marketo: Documentación del producto'
+title: Lista de plantillas de página de aterrizaje guiada
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
+source-git-commit: d3a8aedba3c2b3403f6e7f206a51495ccab9ecd8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
+# Lista de plantillas de página de aterrizaje guiada {#guided-landing-page-template-list}
 
-# Lista de plantilla de Página de aterrizaje guiada {#guided-landing-page-template-list}
-
-Explore nuestra colección de plantillas de ejemplo para utilizarlas con el [Editor de Páginas de aterrizaje guiadas](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla responde plenamente y se basa en el marco de Bootstrap.
+Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor de páginas de aterrizaje guiado](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y está basada en el marco del Bootstrap.
 
 >[!NOTE]
 >
->La asistencia técnica de marketing no está configurada para ayudar a solucionar problemas de HTML. Si necesita ayuda para modificar cualquiera de estas plantillas, consulte a un desarrollador web.
+>La compatibilidad con Marketo no está configurada para ayudar a solucionar problemas con HTML. Si necesita ayuda para modificar cualquiera de estas plantillas, consulte a un desarrollador web.
 
-Para importar una plantilla en Marketing:
+Para importar una plantilla en Marketo:
 
-1. Haga clic en el nombre de la plantilla para obtener una vista mayor.
-1. Descargue la plantilla seleccionada.
-1. En Marketing, vaya a **Design Studio.**
-1. Haga clic en **Páginas de aterrizaje** en el árbol izquierdo y, a continuación, seleccione **Plantillas.**
+1. Haga clic en el nombre de la plantilla para obtener una vista más grande.
+1. Descargue la plantilla elegida.
+1. En Marketo, vaya a **Design Studio.**
+1. Haga clic en **Páginas de aterrizaje** en el árbol de la izquierda y, a continuación, seleccione **Plantillas.**
 
-1. En la barra de menús, haga clic en **Plantilla de importación.**
-1. Elija el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guiado**).
+1. En la barra de menús, haga clic en **Importar plantilla.**
+1. Elija el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guided**).
 
 |  |  |  |
 |---|---|---|
@@ -75,7 +76,7 @@ Para importar una plantilla en Marketing:
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
 | [Plantilla 12-F](guided-landing-page-templates/template-12-f.md) | [Plantilla 13-A](guided-landing-page-templates/template-13-a.md) | [Plantilla 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Plantilla 13-A](guided-landing-page-templates/template-13-c.md) | [Plantilla 13-D](guided-landing-page-templates/template-13-d.md) | [Plantilla 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Plantilla 13-C](guided-landing-page-templates/template-13-c.md) | [Plantilla 13-D](guided-landing-page-templates/template-13-d.md) | [Plantilla 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [Plantilla 14-A](guided-landing-page-templates/template-14-a.md) | [Plantilla 14-B](guided-landing-page-templates/template-14-b.md) | [Plantilla 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
