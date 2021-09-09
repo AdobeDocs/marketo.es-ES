@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '8071'
+source-wordcount: '8076'
 ht-degree: 2%
 
 ---
@@ -216,6 +216,8 @@ ht-degree: 2%
          + [Importar datos de objeto personalizados](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Déclencheur de los cambios en objetos personalizados](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [Exportación de metadatos de objetos personalizados](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
+      + Marketo con identidad de Adobe {#marketo-with-adobe-identity}
+         + [Resumen](product-docs/administration/marketo-with-adobe-identity/overview.md)
       + Configuración {#settings}
          + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Cambiar la contraseña de Marketo](product-docs/administration/settings/change-your-marketo-password.md)
@@ -813,7 +815,7 @@ ht-degree: 2%
                + [Plantilla 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Plantilla 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Plantilla 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Plantilla 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Plantilla 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Plantilla 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Plantilla 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
