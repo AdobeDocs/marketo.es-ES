@@ -3,9 +3,9 @@ description: 'Información general: Documentos de Marketo: Documentación del pr
 title: Resumen
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Aunque habrá una tarjeta de producto en AC for Sales Connect, AC no debe usarse
 
 **¿Sigo yendo a la sección Administración de Marketo para realizar cambios en la cuenta?**
 
-No, tendría que navegar a [account.adobe.com](account.adobe.com).
+No, tendría que navegar a [account.adobe.com](https://account.adobe.com).
 
 **¿Cómo funciona esto con el ID universal de Marketo?**
 
