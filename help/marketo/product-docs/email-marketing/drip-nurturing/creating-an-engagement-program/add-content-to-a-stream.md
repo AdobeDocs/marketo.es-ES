@@ -1,118 +1,55 @@
 ---
 unique-page-id: 2359659
-description: Añadir contenido a un flujo - Documentos de marketing - Documentación del producto
-title: Añadir contenido en un flujo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Añadir contenido a un flujo: Marketo Docs: Documentación del producto'
+title: Añadir contenido a un flujo
+exl-id: b2db9f49-2baa-4d42-9755-480390a91041
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-
 # Añadir contenido a un flujo {#add-content-to-a-stream}
 
-Una vez que haya creado el programa de participación, deberá agregar contenido a los flujos. Puede agregar correos electrónicos o programas a un flujo.
+Una vez que haya creado su programa de participación, debe agregar contenido a los flujos. Puede añadir correos electrónicos o programas a un flujo.
 
-## Añadir un correo electrónico a un flujo {#add-an-email-to-a-stream}
+1. Vaya a **Marketing Activities**.
 
-1. Vaya a **Actividades de marketing**.
+   ![](assets/add-content-to-a-stream-1.png)
 
-   ![](assets/login-marketing-activities-1.png)
+1. Seleccione su programa de participación y vaya a la pestaña **Streams**.
 
-1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
+   ![](assets/add-content-to-a-stream-2.png)
 
-   ![](assets/streamstab.jpg)
+   Puede añadir contenido de dos formas diferentes:
 
-   Puede agregar el primer correo electrónico de tres maneras diferentes:
+**Botón Agregar contenido**
 
-**Botón añadir contenido**
+1. Haga clic en el botón **Add Content**.
 
-1. Haga clic en el botón **Añadir contenido**.
+   ![](assets/add-content-to-a-stream-3.png)
 
-   ![](assets/addcontentbutton.jpg)
+1. Elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico o el programa/campaña inteligente que desee agregar.
 
-1. Deje el **Tipo** establecido en **Correo electrónico**, luego seleccione el correo electrónico que desee agregar.
-
-   ![](assets/image2014-9-15-15-3a44-3a58.png)
+   ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >Los correos electrónicos locales a este programa de participación se ordenarán en la parte superior.
+   >Los correos electrónicos locales de este programa de participación se ordenarán en la parte superior.
 
-**Flujo + icono**
+**+ Icono**
 
-1. Haga clic en el icono de secuencias **+**, deje **Tipo** como **Correo electrónico** y seleccione el correo electrónico que desee agregar.
+1. Haga clic en el icono **+**, elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico o el programa/campaña inteligente que desee agregar.
 
-   ![](assets/image2014-9-15-15-3a45-3a25.png)
-
-**Arrastrar y soltar**
-
-1. Basta con arrastrar el correo electrónico del árbol al flujo.
-
-   ![](assets/dragstreamcontent.jpg)
-
-## Añadir un Programa en un flujo {#add-a-program-to-a-stream}
-
-1. Vaya a **Actividades de marketing**.
-
-   ![](assets/login-marketing-activities-1.png)
-
-1. Seleccione el programa de participación y vaya a la ficha **Flujos**.
-
-   ![](assets/streamstab.jpg)
-
-   Puede agregar un programa al flujo de tres maneras diferentes:
-
-**Botón añadir contenido**
-
-1. Haga clic en **Añadir contenido**.
-
-   ![](assets/image2014-9-15-15-3a45-3a51.png)
-
-1. Cambie **Tipo** a Programa.
-
-   ![](assets/image2014-9-15-15-3a46-3a0.png)
-
-1. Busque y seleccione el programa.
-
-   ![](assets/image2014-9-15-15-3a46-3a11.png)
-
-1. Ahora escoja la campaña inteligente en el programa por el que quiere que la gente pase.
-
-   ![](assets/image2014-9-15-15-3a46-3a17.png)
+   ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >La campaña inteligente debe tener el Programa **Miembro de compromiso** filtro para que esto funcione correctamente.
+   >Una campaña inteligente debe contener el filtro **Member of Engagement Program** para que funcione correctamente.
 
-**Flujo + icono**
-
-1. Haga clic en el icono de flujo **+** y, a continuación, cambie **Tipo** por Programa.
-
-   ![](assets/image2014-9-15-15-3a46-3a43.png)
-
-1. Busque y seleccione su programa.
-
-   ![](assets/image2014-9-15-15-3a46-3a49.png)
-
-1. Seleccione la campaña inteligente en la que desea que se procesen las personas.
-
-   ![](assets/image2014-9-15-15-3a46-3a54.png)
-
-**Arrastrar y soltar**
-
-1. Arrastre y suelte el programa que desee del árbol en el flujo.
-
-   ![](assets/streamcadence.jpg)
-
-1. Ahora sólo escoja la campaña inteligente que quiere que la gente pase.
-
-   ![](assets/image2014-9-15-15-3a47-3a8.png)
-
-¡bueno trabajo! Ahora conoce diferentes formas de agregar contenido a sus flujos de programa. Añada tantos como necesite para su crianza. Consulte el artículo relacionado a continuación para obtener más detalles.
+¡bueno trabajo! Ahora sabe cómo añadir contenido a sus flujos de programas. Añada todo lo que necesite para su crianza. Consulte el artículo relacionado a continuación para obtener más información.
 
 >[!MORELIKETHIS]
 >
->[Añadir un Programa en un flujo de Programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Adición de un programa a un flujo de programa de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

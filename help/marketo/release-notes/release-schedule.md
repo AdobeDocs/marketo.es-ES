@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Programación de versiones - Documentos de Marketo - Documentación del producto
 title: Programa de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 **Versión**: Marketo utiliza un calendario de versiones principal trimestral. Una vez disponibles, cada una de las notas de la versión estará vinculada en la siguiente tabla.
 
-**Fecha** de versión: El lanzamiento suele comenzar el miércoles de la semana de la versión, y la mayor parte de la actualización se realiza el viernes por la tarde. Se envía un correo electrónico con fechas específicas y detalles de la versión. La fecha mostrada es para la actualización del viernes.
+**Fecha** de versión: El lanzamiento suele comenzar el martes de la semana de la versión, y la mayor parte de la actualización se produce el viernes por la noche. Se envía un correo electrónico con fechas específicas y detalles de la versión. La fecha mostrada es para la actualización del viernes.
 
 **Progreso**:
 
