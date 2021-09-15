@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437819
-description: 'Plantilla 15B: Documentos de Marketo: Documentación del producto'
-title: Plantilla 15B
+description: 'Plantilla 15-B: Documentos de Marketo: Documentación del producto'
+title: Plantilla 15-B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 15B {#template-15b}
+# Plantilla 15-B {#template-b}
 
-[Descargar plantilla 15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[Descargar plantilla 15-B](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla 15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[Template15-B.html](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)

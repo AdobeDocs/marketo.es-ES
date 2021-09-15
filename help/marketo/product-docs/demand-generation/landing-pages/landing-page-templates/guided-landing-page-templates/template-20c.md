@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092916
-description: 'Plantilla 20C: Documentos de Marketo: Documentación del producto'
-title: Plantilla 20C
+description: 'Plantilla 20-C: Documentos de Marketo: Documentación del producto'
+title: Plantilla 20-C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 20C {#template-20c}
+# Plantilla 20-C {#template-c}
 
-[Descargar plantilla 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[Descargar plantilla 20-C](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
 
 ![](assets/template-20c.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[Template20-C.html](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437580
-description: 'Plantilla 12C: Documentos de Marketo: Documentación del producto'
-title: Plantilla 12C
+description: 'Plantilla 12-C: Documentos de Marketo: Documentación del producto'
+title: Plantilla 12-C
 exl-id: 23229f5a-6d79-4501-bd3b-56fccc2fa4cd
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Plantilla 12C {#template-12c}
+# Plantilla 12-C {#template-c}
 
-[Descargar plantilla 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
+[Descargar plantilla 12-C](https://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
+[Template12-C.html](https://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)

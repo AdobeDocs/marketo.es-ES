@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092913
-description: 'Plantilla 20B: Documentos de Marketo: Documentación del producto'
-title: Plantilla 20B
+description: 'Plantilla 20-B: Documentos de Marketo: Documentación del producto'
+title: Plantilla 20-B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 20B {#template-20b}
+# Plantilla 20-B {#template-b}
 
-[Descargar plantilla 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[Descargar plantilla 20-B](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
 
 ![](assets/template-20b.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
+[Template20-B.html](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)

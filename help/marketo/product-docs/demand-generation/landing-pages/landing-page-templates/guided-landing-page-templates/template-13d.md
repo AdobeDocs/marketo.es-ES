@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437795
-description: 'Plantilla 13D: Documentos de Marketo: Documentación del producto'
-title: Plantilla 13D
+description: 'Plantilla 13-D: Documentos de Marketo: Documentación del producto'
+title: Plantilla 13-D
 exl-id: 5f889a36-31d1-4a98-a91c-7c1b21b148d6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 13D {#template-13d}
+# Plantilla 13-D {#template-d}
 
-[Descargar plantilla 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+[Descargar plantilla 13-D](https://docs.marketo.com/download/attachments/9437795/template-13d.html?version=1&amp;modificationdate=1438980073000&amp;api=v2)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla 13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+[Template13-D.html](https://docs.marketo.com/download/attachments/9437795/template-13d.html?version=1&amp;modificationdate=1438980073000&amp;api=v2)
