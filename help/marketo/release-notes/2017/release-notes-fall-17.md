@@ -3,15 +3,14 @@ unique-page-id: 12983280
 description: Notas de la versión - Otoño del 17 - Documentos de Marketo - Documentación del producto
 title: Notas de la versión - Otoño del 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cbfa6110e85c185a5b65342052f168d9715f2f6a
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Otoño &#39;17 {#release-notes-fall}
+# Notas de la versión: Otoño del 2017 {#release-notes-fall}
 
 Las siguientes funciones están incluidas en la versión del 17 de otoño. Compruebe la disponibilidad de las funciones en su edición de Marketo.
 
@@ -21,7 +20,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 Hemos realizado más mejoras en la infraestructura central de Marketo, incluida una mejor secuenciación, menos desajustes y una mejor estabilidad de Munchkin.
 
-## Rendimiento de sincronización de SFDC {#sfdc-sync-performance}
+## Rendimiento de sincronización SFDC {#sfdc-sync-performance}
 
 Aproveche la sincronización más rápida y enriquecida entre Marketo y Salesforce. Los cambios de datos que requieren actualizaciones masivas de cuentas o posibles clientes se pueden dividir en colas paralelas para evitar los retrasos. Los eventos y las tareas ahora también se sincronizan hasta un 50% más rápido.
 
@@ -47,7 +46,7 @@ Marketo tiene una nueva opción para elegir un segmento al enviar correos electr
 
 Personalice los formularios de LinkedIn Lead Gen para recopilar atributos de posible cliente personalizados. Ahora puede realizar hasta tres preguntas personalizadas por formulario, elegir entre una entrada de texto de una sola línea o preguntas de opción múltiple y volver a asignar a los campos de posible cliente de Marketo.
 
-## [Integración de Slack](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## Integración de Slack {#slack-integration}
 
 Hemos lanzado dos funciones como parte de nuestra nueva integración de Slack:
 
@@ -84,7 +83,7 @@ Ahorre tiempo reutilizando recursos creativos e imágenes en varios canales dent
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integración {#integration}
+## Integración  {#integration}
 
 **[API de vista previa de correo electrónico](https://developers.marketo.com/rest-api/assets/emails/)**
 
