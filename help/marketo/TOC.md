@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8096'
+source-wordcount: '8090'
 ht-degree: 2%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 2%
          + [Añadir ON24 como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Agregar ReadyTalk como un servicio de LaunchPoint](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Agregar el inicio de sesión único a un portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Añadir Slack como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [Añadir WebEx como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Añadir un lugar de trabajo de Facebook como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Agregar zoom como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
