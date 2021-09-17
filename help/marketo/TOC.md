@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8096'
 ht-degree: 2%
 
 ---
@@ -619,6 +619,10 @@ ht-degree: 2%
          + [Añadir Customer Match de Google como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Añadir audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar una lista a una red de publicidad](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Chat dinámico {#dynamic-chat}
+         + [Información general de conversación dinámica](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Cuadros de diálogo](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [Configuración](product-docs/demand-generation/dynamic-chat/configuration.md)
       + Eventos {#events}
          + Explicación de los eventos {#understanding-events}
             + [Adición de miembros a un programa de eventos](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
