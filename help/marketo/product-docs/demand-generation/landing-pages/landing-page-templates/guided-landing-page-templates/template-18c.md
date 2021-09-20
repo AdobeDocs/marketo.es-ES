@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438212
-description: 'Plantilla 18-C: Documentos de Marketo: Documentación del producto'
-title: Plantilla 18-C
+description: 'Plantilla 18C: Documentos de Marketo: Documentación del producto'
+title: Plantilla 18C
 exl-id: 0f70ec63-0621-42d8-8229-4b32de27ce8b
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Plantilla 18-C {#template-c}
+# Plantilla 18C {#template-18c}
 
-[Descargar plantilla 18-C](https://docs.marketo.com/download/attachments/9438212/template-18c.html?version=1&amp;modificationdate=1439843246000&amp;api=v2)
+[Descargar plantilla 18C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Template18-C.html](https://docs.marketo.com/download/attachments/9438212/template-18c.html?version=1&amp;modificationdate=1439843246000&amp;api=v2)
+[Plantilla 18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)

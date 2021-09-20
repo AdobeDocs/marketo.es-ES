@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437562
-description: 'Plantilla 11-C: Documentos de Marketo: Documentación del producto'
-title: Plantilla 11-C
+description: 'Plantilla 11C: Documentos de Marketo: Documentación del producto'
+title: Plantilla 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Plantilla 11-C {#template-c}
+# Plantilla 11C {#template-11c}
 
-[Descargar plantilla 11-C](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[Descargar plantilla 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -25,4 +25,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Template11-C.html](https://docs.marketo.com/download/attachments/9437562/template-11c.html?version=1&amp;modificationdate=1438211358000&amp;api=v2)
+[Plantilla 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)

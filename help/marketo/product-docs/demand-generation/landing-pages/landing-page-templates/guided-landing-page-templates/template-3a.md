@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8159309
-description: 'Plantilla 3-A: Documentos de Marketo: Documentación del producto'
-title: Plantilla 3-A
+description: Plantilla 3A - Documentos de Marketo - Documentación del producto
+title: Plantilla 3A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Plantilla 3-A {#template-a}
+# Plantilla 3A {#template-3a}
 
-[Descargar plantilla 3-A](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
+[Descargar plantilla 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Template3-A.html](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
+[Plantilla 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)

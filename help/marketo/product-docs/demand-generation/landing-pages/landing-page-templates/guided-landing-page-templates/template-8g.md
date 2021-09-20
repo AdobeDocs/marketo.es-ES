@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783978
-description: 'Plantilla 8-G: Documentos de Marketo: Documentación del producto'
-title: Plantilla 8-G
+description: Plantilla 8G - Documentos de Marketo - Documentación del producto
+title: Plantilla 8G
 exl-id: d34d7d73-ccca-4083-a9da-f8b5630ed581
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 8-G {#template-g}
+# Plantilla 8G {#template-8g}
 
-[Descargar plantilla 8-G](https://docs.marketo.com/download/attachments/8783978/template-8g.html?version=1&amp;modificationdate=1482175213000&amp;api=v2)
+[Descargar plantilla 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla8-G.html](https://docs.marketo.com/download/attachments/8783978/template-8g.html?version=1&amp;modificationdate=1482175213000&amp;api=v2)
+[Plantilla 8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)

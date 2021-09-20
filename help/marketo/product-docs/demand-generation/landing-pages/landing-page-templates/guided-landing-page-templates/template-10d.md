@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784008
-description: 'Plantilla 10-D: Documentos de Marketo: Documentación del producto'
-title: Plantilla 10-D
+description: 'Plantilla 10D: Documentos de Marketo: Documentación del producto'
+title: Plantilla 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 10-D {#template-d}
+# Plantilla 10D {#template-10d}
 
-[Descargar plantilla 10-D](https://docs.marketo.com/download/attachments/8784008/template-10d.html?version=2&amp;modificationdate=1438210947000&amp;api=v2)
+[Descargar plantilla 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Template10-D.html](https://docs.marketo.com/download/attachments/8784008/template-10d.html?version=2&amp;modificationdate=1438210947000&amp;api=v2)
+[Plantilla 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)

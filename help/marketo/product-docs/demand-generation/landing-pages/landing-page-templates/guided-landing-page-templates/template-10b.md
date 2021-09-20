@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784002
-description: 'Plantilla 10-B: Documentos de Marketo: Documentación del producto'
-title: Plantilla 10-B
+description: 'Plantilla 10B: Documentos de Marketo: Documentación del producto'
+title: Plantilla 10B
 exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Plantilla 10-B {#template-b}
+# Plantilla 10B {#template-10b}
 
-[Descargar plantilla 10-B](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&amp;modificationdate=1438210889000&amp;api=v2)
+[Descargar plantilla 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Template10-B.html](https://docs.marketo.com/download/attachments/8784002/template-10b.html?version=2&amp;modificationdate=1438210889000&amp;api=v2)
+[Plantilla 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)

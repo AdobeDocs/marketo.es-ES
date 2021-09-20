@@ -3,16 +3,16 @@ unique-page-id: 9438200
 description: 'Plantilla 17-D: Documentos de Marketo: Documentación del producto'
 title: Plantilla 17-D
 exl-id: 32ee7caa-3053-4375-9267-c25337f83901
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Plantilla 17-D {#template-d}
+# Plantilla 17-D {#template-17d}
 
-[Descargar plantilla 17-D](https://docs.marketo.com/download/attachments/9438200/template-17d.html?version=1&amp;modificationdate=1439843070000&amp;api=v2)
+[Descargar plantilla 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 
@@ -27,4 +27,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Template17-D.html](https://docs.marketo.com/download/attachments/9438200/template-17d.html?version=1&amp;modificationdate=1439843070000&amp;api=v2)
+[Plantilla 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
