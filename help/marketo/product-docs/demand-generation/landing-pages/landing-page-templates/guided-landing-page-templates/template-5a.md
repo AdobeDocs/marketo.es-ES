@@ -28,4 +28,4 @@ Esta plantilla incluye el siguiente contenido:
 
 **Haga clic abajo para descargar esta plantilla:**
 
-[Plantilla 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+[Plantilla 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
