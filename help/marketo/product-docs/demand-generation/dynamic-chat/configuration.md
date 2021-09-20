@@ -3,9 +3,9 @@ description: Configuración - Documentos de Marketo - Documentación del product
 title: Configuración
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ PICC de relleno
 
 **Configuración del agente**
 
-En Configuración del agente, asigne un nombre específico al bot de chat (aparecerá en la parte superior). También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación.
+En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación.
 
 PICC de configuración de nombre
 

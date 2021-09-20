@@ -1,9 +1,10 @@
 ---
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
-source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
+exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Las siguientes funciones se lanzarán el **20 de agosto de 2021**.
 
 ## Automatización de la experiencia {#experience-automation}
 
-* **Autenticación de usuario Marketo Engage mediante identidad** de Adobe: A partir de septiembre de 2021, los nuevos usuarios Marketo Engage con paquetes empresariales se incorporarán mediante las credenciales de usuario de Adobe ID. La migración de los usuarios actuales al sistema de identidad integrado no se producirá hasta mediados de 2022 y no se requiere ninguna acción hasta nuevo aviso. La autenticación de usuarios de identidad de Adobe permite a los administradores de TI/seguridad administrar varias instancias de producto de Marketo Engage junto con otras soluciones de Experience Cloud, así como configurar SSO a través de una consola común. Los administradores pueden administrar fácilmente los grupos de usuarios y las autorizaciones de usuario en un solo lugar.
+* **Autenticación de usuario Marketo Engage mediante identidad** de Adobe: Pronto, los nuevos usuarios Marketo Engage con paquetes empresariales se incorporarán mediante las credenciales de usuario de Adobe ID. La migración de los usuarios actuales al sistema de identidad integrado no se producirá hasta mediados de 2022 y no se requiere ninguna acción hasta nuevo aviso. La autenticación de usuarios de identidad de Adobe permite a los administradores de TI/seguridad administrar varias instancias de producto de Marketo Engage junto con otras soluciones de Experience Cloud, así como configurar SSO a través de una consola común. Los administradores pueden administrar fácilmente los grupos de usuarios y las autorizaciones de usuario en un solo lugar.
 
 * **Anidado** de campaña ejecutable: Ahora, las campañas ejecutables también pueden llamar a otras campañas ejecutables, lo que le permite anidarlas hasta con tres niveles de profundidad. Esto permite una mayor consolidación de los flujos operativos comunes y mejora la administración de Smart Campaign.
 
