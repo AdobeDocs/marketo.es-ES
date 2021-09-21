@@ -3,11 +3,10 @@ unique-page-id: 11372975
 description: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Professional) - Marketo Docs: Documentación del producto'
 title: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Professional)'
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '745'
-ht-degree: 0%
+source-wordcount: '798'
+ht-degree: 5%
 
 ---
 
@@ -84,7 +83,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
   <tr> 
    <td>Fecha de adquisición</td> 
    <td>mkto71_Acquisition_Date</td> 
-   <td>Fecha y hora</td> 
+   <td>Fecha/hora</td> 
    <td> </td> 
   </tr> 
   <tr> 
@@ -149,7 +148,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Longitud 18<br>Cifras decimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Referente original</td> 
+   <td>Remitente original</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
@@ -167,7 +166,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Información del origen original</td> 
+   <td>Información de origen original</td> 
    <td>mkto71_Original_Source_Info</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
@@ -179,43 +178,43 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Ciudad vinculada</td> 
+   <td>Ciudad inferida</td> 
    <td>mkto71_Inferred_City</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Empresa vinculada</td> 
+   <td>Compañía inferida</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>País afectado</td> 
+   <td>País inferido</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Área metropolitana vinculada</td> 
+   <td>Área metropolitana inferida</td> 
    <td>mkto71_Inferred_Metropolitan_Area</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Código de área de teléfono insertado</td> 
+   <td>Código de área telefónico inferido</td> 
    <td>mkto71_Inferred_Phone_Area_Code</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Código postal adjunto</td> 
+   <td>Código postal inferido</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
   </tr> 
   <tr> 
-   <td>Región Estado Inferior</td> 
+   <td>Región del estado inferida</td> 
    <td>mkto71_Inferred_State_Region</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
@@ -223,7 +222,11 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
  </tbody> 
 </table>
 
-## Asignar campos personalizados para conversiones {#map-custom-fields-for-conversions}
+>[!NOTE]
+>
+>Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Salesforce cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Salesforce la próxima actualización del registro en cualquier sistema (es decir, una actualización de cualquiera de los campos sincronizados entre Marketo y Salesforce).
+
+## Asignar campos personalizados para conversiones  {#map-custom-fields-for-conversions}
 
 Un campo personalizado del objeto de posible cliente de Salesforce debe asignarse a un campo de contacto del objeto de contacto para que los datos se transfieran cuando se produce una conversión.
 
