@@ -3,9 +3,9 @@ description: 'Agregar o eliminar usuarios de chat: Documentos de Marketo: Docume
 title: Agregar o eliminar usuarios de chat
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,35 +18,35 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
 
 1. Inicie sesión en [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-a-user-1.png)
+   PICC
 
 1. Haga clic en **Chat dinámico**.
 
-   ![](assets/add-or-remove-a-user-2.png)
+   PICC
 
 1. Seleccione la suscripción deseada (si tiene más de una).
 
-   ![](assets/add-or-remove-a-user-3.png)
+   PICC
 
 1. Haga clic en la pestaña **Users**.
 
-   ![](assets/add-or-remove-a-user-4.png)
+   PICC
 
 1. Haga clic en el botón **Agregar usuario**.
 
-   ![](assets/add-or-remove-a-user-5.png)
+   PICC
 
 1. Introduzca el nombre, el grupo de usuarios o la dirección de correo electrónico del usuario que desea añadir. El nombre y los apellidos son opcionales.
 
-   ![](assets/add-or-remove-a-user-6.png)
+   PICC
 
 1. Haga clic en el icono **+** y seleccione el perfil de producto deseado.
 
-   ![](assets/add-or-remove-a-user-7.png)
+   PICC
 
 1. Haga clic en **Guardar**.
 
-   ![](assets/add-or-remove-a-user-8.png)
+   PICC
 
 El usuario recibirá un correo electrónico para iniciar sesión en Marketo.
 
@@ -54,27 +54,27 @@ El usuario recibirá un correo electrónico para iniciar sesión en Marketo.
 
 1. Inicie sesión en [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-a-user-9.png)
+   PICC
 
 1. Haga clic en **Marketo Engage**.
 
-   ![](assets/add-or-remove-a-user-10.png)
+   PICC
 
 1. Seleccione la suscripción deseada (si tiene más de una).
 
-   ![](assets/add-or-remove-a-user-11.png)
+   PICC
 
 1. Haga clic en la pestaña **Users**.
 
-   ![](assets/add-or-remove-a-user-12.png)
+   PICC
 
 1. Seleccione el usuario que desea eliminar y haga clic en el botón **Remove**.
 
-   ![](assets/add-or-remove-a-user-13.png)
+   PICC
 
 1. Haga clic en **Eliminar usuario** para confirmar.
 
-   ![](assets/add-or-remove-a-user-14.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
