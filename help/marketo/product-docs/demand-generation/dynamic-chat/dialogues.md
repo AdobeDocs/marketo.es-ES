@@ -3,16 +3,16 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Cuadros de diálogo {#dialogues}
 
-Los cuadros de diálogo son las conversaciones de chat específicas que configuró. Pueden personalizarse por el aspecto, así como por lo que se dice y quién lo ve.
+Los cuadros de diálogo son las conversaciones individuales de chat que configurará. Aprenda a personalizarlos visualmente, a determinar en qué páginas aparecen y a decidir qué se dice y quién lo ve.
 
 ## Crear un cuadro de diálogo nuevo {#create-a-new-dialogue}
 
@@ -34,9 +34,9 @@ PICC
 
 ## Criterios de audiencia {#audience-criteria}
 
-Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino.
+Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino. Puede dirigirse a posibles clientes conocidos o desconocidos mediante atributos inferidos, de posibles clientes o de empresa (o una combinación de estos).
 
-Hay varios atributos entre los que elegir. En este ejemplo estamos dirigiendo todos los posibles clientes conocidos de California que trabajan en una empresa con más de 50 empleados.
+Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los posibles clientes conocidos de California que trabajan en una empresa con más de 50 empleados.
 
 1. Coja el atributo Estado de posible cliente y arrástrelo a la derecha.
 
@@ -87,17 +87,29 @@ Formatos aceptables:
 
 El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para dar forma a la conversación de chat.
 
-TABLA
-
-Mensaje: Utilícelo cuando desee realizar una instrucción sin necesidad de respuesta (por ejemplo: &quot;¡Hola! Todos los artículos tienen hoy un 25% de descuento con el código SAVE25.&quot;)
-
-Pregunta: Utilícelo cuando desee hacer una pregunta de opción múltiple, de la que proporcione las respuestas disponibles (por ejemplo: ¿Qué tipo de vehículo le interesa? Respuestas = SUV, Compacta, Camión, etc.)
-
-Captura de información: Utilícelo cuando desee recopilar información. Los tres campos entre los que elegir son Dirección de correo electrónico, Número de teléfono y Texto (que permite al visitante escribir su propio mensaje).
-
-Programador de citas: Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja [el siguiente agente en la línea](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
-
-Objetivo: Esta es la única tarjeta que los visitantes no verán. Depende de usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo: si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Goal después de Captura de información en el flujo ).
+<table>
+ <tr>
+  <td><strong>Mensaje</strong></td>
+  <td>Utilícelo cuando desee realizar una instrucción sin necesidad de respuesta (por ejemplo: "¡Hola! Todos los artículos tienen hoy un 25% de descuento con el código SAVE25").
+</td>
+ </tr>
+ <tr>
+  <td><strong>Pregunta</strong></td>
+  <td>Utilícelo cuando desee hacer una pregunta de opción múltiple, de la que proporcione las respuestas disponibles (por ejemplo: ¿Qué tipo de vehículo le interesa? Respuestas = SUV, Compacta, Camión, etc.).</td>
+ </tr>
+ <tr>
+  <td><strong>Captura de información</strong></td>
+  <td>Utilícelo cuando desee recopilar información. Los tres campos entre los que elegir son Dirección de correo electrónico, Número de teléfono y Texto (que permite al visitante escribir su propio mensaje).</td>
+ </tr>
+ <tr>
+  <td><strong>Programador de citas</strong></td>
+  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja [el siguiente agente en línea] (/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+ </tr>
+ <tr>
+  <td><strong>Objetivo</strong></td>
+  <td>Esta es la única tarjeta que los visitantes no verán. Depende de usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo: si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Goal después de Captura de información en el flujo).</td>
+ </tr>
+</table>
 
 POSIBLE SECCIÓN PROPIA
 

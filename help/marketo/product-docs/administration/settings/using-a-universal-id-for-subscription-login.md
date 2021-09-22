@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: 'Uso de un ID universal para el inicio de sesión de suscripción: Documentos de Marketo: Documentación del producto'
 title: Uso de un ID universal para el inicio de sesión de suscripción
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ La configuración del nivel de suscripción se acepta para los usuarios que util
 
 ## Configuración de un ID universal {#setting-up-a-universal-id}
 
-Desde cada instancia individual, el administrador de Marketo debe invitarlo a cada una de las distintas suscripciones con el mismo inicio de sesión. Marketo no puede combinar automáticamente los inicios de sesión existentes. Una vez que habilite el ID universal, **la instancia de Marketo no estará disponible** durante un máximo de 30 minutos. Si tiene una base de usuarios más grande, podría ser un poco más larga.
+Todas las suscripciones a Marketo incluyen la función opcional de ID universal. Desde cada instancia individual, el administrador de Marketo debe invitarlo a cada una de las distintas suscripciones con el mismo inicio de sesión. Marketo no puede combinar automáticamente los inicios de sesión existentes.
 
 >[!NOTE]
 >

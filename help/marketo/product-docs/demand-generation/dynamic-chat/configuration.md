@@ -3,9 +3,9 @@ description: Configuración - Documentos de Marketo - Documentación del product
 title: Configuración
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ PICC (de todo el chatbox)
 
 **Estilo**
 
-Estilo le permite elegir los colores que desee, posición/margen del anclaje del cuadro de diálogo y tipo/tamaño de fuente.
+Aquí es donde definirá el aspecto del bot de chat en el que se mostrarán sus diálogos, incluidos: colores, fuentes, ubicación del widget bot y el nombre/avatar del bot de chat.
 
 El color de cada categoría está determinado por un [valor de color hexadecimal](https://color.adobe.com/create/color-wheel) (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
 
@@ -50,13 +50,13 @@ PICC de elegir avatar
 
 ## Ficha Privacidad {#privacy-tab}
 
-Haga clic en la pestaña **Privacy** para agregar/editar la dirección URL de la política de privacidad del sitio.
+Haga clic en la pestaña **Privacy** para añadir/editar la dirección URL de la política de privacidad del sitio (opcional).
 
 PICC
 
 ## Ficha Instalación {#installation-tab}
 
-Haga clic en la pestaña **Installation** para obtener el script que el equipo de desarrollo web deberá colocar en su sitio web.
+Para que el bot de chat aparezca en su sitio web, primero deberá instalar el fragmento de JavaScript de chat dinámico. Haga clic en esta pestaña para buscar/copiar el código necesario. Si no está familiarizado con esta operación, póngase en contacto con su equipo web o departamento de TI para obtener ayuda.
 
 PICC
 
