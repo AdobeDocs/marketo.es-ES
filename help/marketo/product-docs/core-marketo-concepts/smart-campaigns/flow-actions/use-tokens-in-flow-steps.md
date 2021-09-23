@@ -3,19 +3,14 @@ unique-page-id: 1146995
 description: 'Uso de tokens en los pasos de flujo: Documentos de Marketo: Documentación del producto'
 title: Uso de tokens en pasos de flujo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 3%
 
 ---
 
-# Utilizar tokens en los pasos de flujo {#use-tokens-in-flow-steps}
-
->[!AVAILABILITY]
->
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+# Uso de tokens en pasos de flujo {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >
@@ -30,7 +25,9 @@ Un token es una variable. Lo utiliza en correos electrónicos, páginas de aterr
 * Crear tarea
 * Enviar alerta (solo en campañas de déclencheur)
 
-1. En el paso de flujo, empiece a escribir `{{` para obtener categorías de token. ![](assets/image2014-9-22-14-3a3-3a17.png)
+1. En el paso de flujo, empiece a escribir `{{` para obtener categorías de token.
+
+   ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
