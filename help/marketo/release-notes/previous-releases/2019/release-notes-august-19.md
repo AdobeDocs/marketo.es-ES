@@ -3,7 +3,7 @@ unique-page-id: 27656786
 description: Notas de la versión - 19 de agosto - Documentos de Marketo - Documentación del producto
 title: Notas de la versión - 19 de agosto
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Las siguientes funciones se lanzaron el 16 de agosto de 2019.
 
 ## Marketo Engage principal {#core-marketo-engage}
 
-* **Marco de seminarios web extensible**: Ahorre tiempo con el nuevo marco de seminarios web incorporado de Marketo (introducido en las notas de la versión 19 de  [invierno ](/help/marketo/release-notes/2019/release-notes-winter-19.md) que transfieren sin problemas los datos de proveedores de seminarios web a Marketo y viceversa. El evento y el zoom ya están disponibles en este nuevo marco.
+* **Marco de seminarios web extensible**: Ahorre tiempo con el nuevo marco de seminarios web incorporado de Marketo (introducido en las notas de la versión de 19 de invierno) que transfiere sin problemas los datos de proveedores de seminarios web a Marketo y viceversa. El evento y el zoom ya están disponibles en este nuevo marco.
 * **Actualización de la API de Smart Campaign**: Administre las funcionalidades inteligentes del ciclo vital de la campaña a medida que redondeamos la interfaz CRUD (crear, leer, actualizar, eliminar).
 * **Actualizar el cambio de la API de encabezados de correo electrónico**: La API Actualizar encabezado de correo electrónico ya no requiere un correo electrónico para tener una plantilla adjunta para actualizar los campos de encabezado, como la línea de asunto.
 
