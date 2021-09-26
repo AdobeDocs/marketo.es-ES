@@ -3,9 +3,9 @@ description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Do
 title: Información general de conversación dinámica
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ Aquí es donde puede ver una lista de todos los agentes que han conectado sus ca
 
 — ¿ALGÚN SÍ? LOL—
 
-**¿Se puede diseñar chatbot con CSS?**
-
-El bot de chat no se puede diseñar con CSS en este momento.
-
-**¿Puedo utilizar opciones de fuente personalizadas?**
-
-En este momento solo están disponibles las opciones de fuente preestablecidas.
-
 **¿La conversación dinámica permite el chat en directo?**
 
-No, solo respuestas predeterminadas.
+No, solo utiliza respuestas predeterminadas.
 
 **¿Admite la funcionalidad AI/NLP?**
 
