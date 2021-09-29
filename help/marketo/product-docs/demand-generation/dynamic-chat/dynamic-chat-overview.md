@@ -3,9 +3,9 @@ description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Do
 title: Información general de conversación dinámica
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ La conversación dinámica le permite aprovechar una interfaz fácil de usar par
 >
 >El chat dinámico está en proceso de ser lanzado, con todas las suscripciones que deben tener acceso por FECHA.
 
-## Configuración de Dynamic Chat {#access-dynamic-chat}
-
-UNA VEZ AÑADIDO EL MOSAICO... siga estos pasos para empezar.
-
-1. En Mi Marketo, haga clic en el mosaico **Dynamic Chat**.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Si no ves...póngase en contacto con su administrador de Marketo).
-
-1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le dirigirá directamente a Dynamic Chat. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
-
-   PICC
-
-1. Para conectar la instancia de Marketo, seleccione **Integrations**.
-
-   PICC
-
-1. Haga clic en ?INSERTAR TEXTO AQUÍ?.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >La sincronización puede tardar entre 5 y 8 horas en completarse, en función del tamaño de la base de datos. El tiempo medio de sincronización es de 60 minutos.
-
 ## Integraciones {#integrations}
 
-Integraciones es la primera pestaña que querrá visitar al acceder a Dynamic Chat. Es donde sincroniza sus suscripciones a Marketo, lo que le permite utilizar sus datos de base de datos de Marketo para identificar a los visitantes del sitio o chat ([consulte el paso 3 anterior](#access-dynamic-chat)).
+Un componente clave de la conversación dinámica es su capacidad para interactuar de forma nativa con su suscripción a Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. La sincronización inicial [única](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) puede tardar hasta 24 horas en completarse.
 
 ## Cuadros de diálogo {#dialogues}
 
@@ -68,23 +40,27 @@ En la ficha Calendario, conecte el calendario (Outlook o Gmail) para utilizarlo 
 
 Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. Aquí encontrará la dirección de correo electrónico del posible cliente que reservó la cita, con qué agente reservaron la cita, cuándo está programada la cita y si la reunión ha tenido lugar o no.
 
-¿PICC?
-
 ## Enrutamiento {#routing}
 
 Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, así como el orden en que se presentarán a los visitantes del sitio web Las reuniones van por turnos estilo, así que si tiene cinco agentes y el agente tres tomó la última reunión, el agente cuatro obtendrá la siguiente, seguido de cinco, y después volverá al agente uno.
 
 ## Preguntas frecuentes {#faq}
 
-— ¿ALGÚN SÍ? LOL—
-
 **¿La conversación dinámica permite el chat en directo?**
 
 No, solo utiliza respuestas predeterminadas.
 
+**¿Cómo puedo orientarme hacia los posibles clientes anónimos?**
+
+En el cuadro de diálogo, debe utilizar el atributo _Lead Email is Empty_ .
+
 **¿Admite la funcionalidad AI/NLP?**
 
 No se admite la funcionalidad AI/NLP.
+
+**¿Durante cuánto tiempo se almacenan los datos para los informes?**
+
+90 días.
 
 **¿Ofrece Dynamic Chat algún idioma además del inglés?**
 

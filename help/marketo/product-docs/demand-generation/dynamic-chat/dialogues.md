@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->EXPLICAR NIVEL DE PRIORIDAD
+>El nivel de prioridad determina dónde aparece el cuadro de diálogo en la lista (por ejemplo: priority = 1 significa que estará en la parte superior).
 
 ## Criterios de audiencia {#audience-criteria}
 
@@ -114,3 +114,7 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
 POSIBLE SECCIÓN PROPIA
 
 MOSTRAR EJEMPLOS A CONTINUACIÓN
+
+## Informes {#reports}
+
+Texto

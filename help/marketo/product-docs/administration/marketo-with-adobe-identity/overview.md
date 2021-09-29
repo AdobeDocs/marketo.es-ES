@@ -3,9 +3,9 @@ description: 'Información general: Documentos de Marketo: Documentación del pr
 title: Resumen
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -98,3 +98,9 @@ No. El flujo de trabajo de invitación del usuario ya no está activo cuando una
 **Para Adobe IMS, ¿tenemos la opción de usar Adobe ID, Enterprise ID o Federated ID?**
 
 Sí, usted determina el tipo de identidad para que su organización sea compatible. Más información [aquí](https://helpx.adobe.com/enterprise/using/identity.html) y [aquí](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+>[!MORELIKETHIS]
+>
+>* [Configuración de administración](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [Agregar o eliminar un administrador de productos](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [Agregar o eliminar un usuario](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)

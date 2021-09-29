@@ -3,9 +3,9 @@ description: Configuración - Documentos de Marketo - Documentación del product
 title: Configuración
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Aprenda a personalizar el aspecto de su ventana de diálogo de bots de chat.
 
 Para empezar, haga clic en **Configuration**.
 
-PICC
+![](assets/configuration-1.png)
 
 Existen varias opciones de personalización diferentes.
 
-PICC (de todo el chatbox)
+![](assets/configuration-2.png)
 
 ## Pestaña Estilo {#style-tab}
 
@@ -30,35 +30,33 @@ Aquí es donde definirá el aspecto del bot de chat en el que se mostrarán sus 
 
 El color de cada categoría está determinado por un [valor de color hexadecimal](https://color.adobe.com/create/color-wheel) (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
 
-PICC
+![](assets/configuration-3.png)
 
-El delimitador permite que el visitante del sitio abra o cierre el cuadro de diálogo. Puede elegir si desea que ese icono aparezca en la parte inferior derecha o inferior izquierda. También puede aumentar/disminuir el margen (la cantidad de espacio entre el cuadro de diálogo y el icono).
+El delimitador permite que el visitante del sitio abra o cierre el cuadro de diálogo. Puede elegir si desea que ese icono aparezca en la parte inferior derecha o inferior izquierda. También puede aumentar/disminuir el margen (la cantidad de espacio entre el icono y la parte inferior de la página web).
 
-PICC de anclaje
-
-PICC de relleno
+![](assets/configuration-4.png)
 
 **Configuración del agente**
 
 En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación.
 
-PICC de configuración de nombre
+![](assets/configuration-5.png)
 
-PICC de configuración de demora
+Cuando haya terminado de realizar cambios, recuerde hacer clic en **Guardar**.
 
-PICC de elegir avatar
+![](assets/configuration-6.png)
 
 ## Ficha Privacidad {#privacy-tab}
 
 Haga clic en la pestaña **Privacy** para añadir/editar la dirección URL de la política de privacidad del sitio (opcional).
 
-PICC
+![](assets/configuration-7.png)
 
 ## Ficha Instalación {#installation-tab}
 
 Para que el bot de chat aparezca en su sitio web, primero deberá instalar el fragmento de JavaScript de chat dinámico. Haga clic en esta pestaña para buscar/copiar el código necesario. Si no está familiarizado con esta operación, póngase en contacto con su equipo web o departamento de TI para obtener ayuda.
 
-PICC
+![](assets/configuration-8.png)
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ description: 'Agregar o eliminar usuarios de chat: Documentos de Marketo: Docume
 title: Agregar o eliminar usuarios de chat
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -18,35 +18,35 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
 
 1. Inicie sesión en [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   PICC
+   ![](assets/add-or-remove-chat-users-1.png)
 
 1. Haga clic en **Chat dinámico**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-2.png)
 
-1. Seleccione la suscripción deseada (si tiene más de una).
-
-   PICC
+   >[!NOTE]
+   >
+   >Si tiene más de una suscripción a Marketo, seleccione la que desee antes del siguiente paso).
 
 1. Haga clic en la pestaña **Users**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-3.png)
 
 1. Haga clic en el botón **Agregar usuario**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-4.png)
 
 1. Introduzca el nombre, el grupo de usuarios o la dirección de correo electrónico del usuario que desea añadir. El nombre y los apellidos son opcionales.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-5.png)
 
 1. Haga clic en el icono **+** y seleccione el perfil de producto deseado.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-6.png)
 
 1. Haga clic en **Guardar**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-7.png)
 
 El usuario recibirá un correo electrónico para iniciar sesión en Marketo.
 
@@ -54,27 +54,31 @@ El usuario recibirá un correo electrónico para iniciar sesión en Marketo.
 
 1. Inicie sesión en [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   PICC
+   ![](assets/add-or-remove-chat-users-8.png)
 
-1. Haga clic en **Marketo Engage**.
+1. Haga clic en **Chat dinámico**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-9.png)
 
-1. Seleccione la suscripción deseada (si tiene más de una).
-
-   PICC
+   >[!NOTE]
+   >
+   >Si tiene más de una suscripción a Marketo, seleccione la que desee antes del siguiente paso).
 
 1. Haga clic en la pestaña **Users**.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-10.png)
 
-1. Seleccione el usuario que desea eliminar y haga clic en el botón **Remove**.
+1. Seleccione el usuario que desea eliminar.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-11.png)
+
+1. Haga clic en el botón **Eliminar usuario**.
+
+   ![](assets/add-or-remove-chat-users-12.png)
 
 1. Haga clic en **Eliminar usuario** para confirmar.
 
-   PICC
+   ![](assets/add-or-remove-chat-users-13.png)
 
 >[!MORELIKETHIS]
 >
