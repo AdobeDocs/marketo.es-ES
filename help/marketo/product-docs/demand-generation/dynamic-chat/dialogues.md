@@ -3,16 +3,16 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
 # Cuadros de diálogo {#dialogues}
 
-Los cuadros de diálogo son las conversaciones individuales de chat que configurará. Aprenda a personalizarlos visualmente, a determinar en qué páginas aparecen y a decidir qué se dice y quién lo ve.
+Los diálogos son conversaciones individuales de chat. Aprenda a personalizarlos visualmente, a determinar en qué páginas aparecen y a decidir qué se dice y quién lo ve.
 
 ## Crear un cuadro de diálogo nuevo {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ Los cuadros de diálogo son las conversaciones individuales de chat que configur
 
 >[!NOTE]
 >
->El nivel de prioridad determina dónde aparece el cuadro de diálogo en la lista (por ejemplo: priority = 1 significa que estará en la parte superior).
+>El nivel de prioridad determina dónde aparece el cuadro de diálogo en la lista (por ejemplo: la prioridad 1 significa que estará en la parte superior).
 
 ## Criterios de audiencia {#audience-criteria}
 
@@ -82,7 +82,7 @@ Existe una forma fácil de segmentar específicamente a los posibles clientes qu
 
    >[!NOTE]
    >
-   >EXPLICAR INFERIDO.
+   >Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena.
 
 1. __ Isis establecido de forma predeterminada. En el campo Seleccionar valores , escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
@@ -137,8 +137,38 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
  </tr>
 </table>
 
-MOSTRAR EJEMPLOS A CONTINUACIÓN
+**Creación de un flujo**
+
+Hay _muchas_ combinaciones de flujo que crear. En este ejemplo, haremos una pregunta y prepararemos .
 
 ## Informes {#reports}
 
-Texto
+En la pestaña Informes , vea los datos de los últimos 90 días. Cada categoría se define a continuación.
+
+<table>
+ <tr>
+  <td><strong>Total activado</strong></td>
+  <td>Incrementa cada vez que un visitante se califica para/se muestra en un cuadro de diálogo.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Comprometido</strong></td>
+  <td>Incrementa cada vez que un visitante hace clic en el anclaje de bots de chat para abrir el Diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Completado</strong></td>
+  <td>Incrementa cada vez que un visitante llega al final de cualquier rama de un cuadro de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Posibles clientes capturados</strong></td>
+  <td>Incrementa cada vez que un visitante proporciona una dirección de correo electrónico válida en un flujo de diálogo.</td>
+ </tr>
+ <tr>
+  <td><strong>Reuniones reservadas</strong></td>
+  <td>Incrementa cada vez que un visitante programa correctamente una cita a través del bot de chat.</td>
+ </tr>
+ <tr>
+  <td><strong>Objetivos alcanzados</strong></td>
+  <td>Incrementa cada vez que un visitante alcanza un objetivo en cualquier flujo de diálogo.</td>
+ </tr>
+</table>
