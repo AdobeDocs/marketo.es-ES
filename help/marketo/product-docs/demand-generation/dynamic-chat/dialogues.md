@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Los diálogos son conversaciones individuales de chat. Aprenda a personalizarlos
 
 >[!NOTE]
 >
->El nivel de prioridad determina dónde aparece el cuadro de diálogo en la lista (por ejemplo: la prioridad 1 significa que estará en la parte superior).
+>La prioridad determina qué diálogo se mostrará a un visitante cuando cumpla los requisitos para varios diálogos simultáneamente.
 
 ## Criterios de audiencia {#audience-criteria}
 

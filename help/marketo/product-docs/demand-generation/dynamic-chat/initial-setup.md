@@ -3,9 +3,9 @@ description: Configuración inicial - Documentos de Marketo - Documentación del
 title: Configuración inicial
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Siga los pasos a continuación para configurar el chat dinámico.
 
 ## Añadir permisos en Marketo {#add-permissions-in-marketo}
 
-Después de agregar usuarios en el Admin Console en , debe otorgar permisos en Marketo.
+Después de agregar usuarios en el Admin Console , debe otorgar permisos en Marketo para que tengan acceso al acceso directo de chat dinámico desde Marketo.
 
 1. En Marketo, haga clic en **Admin**.
 
@@ -46,4 +46,4 @@ Después de agregar usuarios en el Admin Console en , debe otorgar permisos en M
 >
 >Asegúrese de seguir los pasos en el orden indicado arriba. Si a alguien se le concede primero permiso en Marketo, verá el mosaico de Dynamic Chat pero no tendrá acceso de usuario.
 
-El siguiente paso es [acceder a Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+El siguiente paso es [conectar Dynamic Chat a Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
