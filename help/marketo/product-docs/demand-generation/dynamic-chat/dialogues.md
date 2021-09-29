@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
 
 **Creación de un flujo**
 
-Hay _muchas_ combinaciones de flujo que crear. En este ejemplo, haremos una pregunta y prepararemos .
+Hay _muchas_ combinaciones de flujo que crear. En este ejemplo haremos una pregunta de sí o no y prepararemos algunas respuestas.
+
+EJEMPLO
 
 ## Informes {#reports}
 
