@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Los cuadros de diálogo son las conversaciones individuales de chat que configur
 
 1. Haga clic en **Diálogos**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Haga clic en el botón **Create New**.
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Introduzca un nombre (la descripción es opcional), establezca el nivel de prioridad y haga clic en **Guardar**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
@@ -36,31 +36,57 @@ PICC
 
 Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino. Puede dirigirse a posibles clientes conocidos o desconocidos mediante atributos inferidos, de posibles clientes o de empresa (o una combinación de estos).
 
-Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los posibles clientes conocidos de California que trabajan en una empresa con más de 50 empleados.
+**Posibles clientes conocidos**
 
-1. Coja el atributo Estado de posible cliente y arrástrelo a la derecha.
+Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los **posibles clientes conocidos** en California que trabajan en una empresa con más de 50 empleados.
 
-PICC
+1. Coja el atributo **Estado de posible cliente** y arrástrelo a la derecha.
+
+   ![](assets/dialogues-4.png)
 
 1. __ Isis establecido de forma predeterminada. En el campo Seleccionar valores , escriba CA (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Coja el atributo Tamaño de la empresa y arrástrelo a la derecha.
+1. Coja el atributo **Tamaño de la empresa** y arrástrelo hasta donde diga _arrastre y suelte un atributo aquí_.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Haga clic en la lista desplegable de operadores y seleccione Bueno que no.
+   >[!NOTE]
+   >
+   >También puede elegir un atributo haciendo clic en su icono **+**.
 
-PICC
+1. Haga clic en la lista desplegable de operadores y seleccione **Bueno que**.
+
+   ![](assets/dialogues-7.png)
 
 1. Escriba 50 y haga clic en cualquier otra parte de la pantalla para guardar.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-CÓMO CAPTURAR POSIBLES CLIENTES
+**Posibles clientes anónimos**
 
-NOTA: Puede que se mencione cómo funciona inferir/mostrar un caso de uso diferente, el correo electrónico principal está vacío
+Existe una forma fácil de segmentar específicamente a los posibles clientes que aún no están en la base de datos. En este ejemplo, estamos segmentando todos los **posibles clientes anónimos** ubicados en el área de Nueva York.
+
+1. Coja el atributo **Lead Email** y arrástrelo a la derecha.
+
+   ![](assets/dialogues-9.png)
+
+1. Haga clic en la lista desplegable de operadores y seleccione **Is Empty**.
+
+   ![](assets/dialogues-10.png)
+
+1. Coja el atributo **Estado preferido** y arrástrelo hasta el lugar donde dice _arrastre y suelte un atributo aquí_.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >EXPLICAR INFERIDO.
+
+1. __ Isis establecido de forma predeterminada. En el campo Seleccionar valores , escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+
+   ![](assets/dialogues-12.png)
 
 ## Agregar grupos {#add-groups}
 
@@ -70,7 +96,7 @@ FINALICE ESTO
 
 ## Destino {#target}
 
-Aquí es donde introduce las URL específicas en las que desea que se muestre un cuadro de diálogo específico.
+Aquí es donde introduce las direcciones URL en las que desea que se muestre un cuadro de diálogo específico.
 
 Formatos aceptables:
 
@@ -110,8 +136,6 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
   <td>Esta es la única tarjeta que los visitantes no verán. Depende de usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo: si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Goal después de Captura de información en el flujo).</td>
  </tr>
 </table>
-
-POSIBLE SECCIÓN PROPIA
 
 MOSTRAR EJEMPLOS A CONTINUACIÓN
 
