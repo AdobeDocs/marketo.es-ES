@@ -3,9 +3,9 @@ description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Do
 title: Información general de conversación dinámica
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ La conversación dinámica le permite aprovechar una interfaz fácil de usar par
 
 >[!NOTE]
 >
->La conversación dinámica está en proceso de ser desarrollada gradualmente, con todas las suscripciones a la primavera de 2022. Para obtener más información, póngase en contacto con el administrador de éxito de los clientes.
+>El chat dinámico está en proceso de ser lanzado gradualmente y actualmente está en disponibilidad limitada. Esta página se actualizará con detalles de disponibilidad general (GA) a medida que estén disponibles.
 
 ## Integraciones {#integrations}
 
