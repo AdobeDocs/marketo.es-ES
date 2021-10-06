@@ -3,17 +3,16 @@ unique-page-id: 2359418
 description: 'Importar una lista de personas: Marketo Docs: documentación del producto'
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # Importar una lista de personas {#import-a-list-of-people}
 
-## Misión: Importe una hoja de cálculo de los asistentes a los programas comerciales en la base de datos {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Misión: Importar una hoja de cálculo de los asistentes a los espectáculos comerciales en la base de datos {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +22,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 ## Paso 1: Descargar y editar una hoja de cálculo {#step-download-and-edit-a-spreadsheet}
 
-1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) en su equipo.
+1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) en su equipo.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -53,7 +52,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Asigne un nombre al programa &quot;Mi programa de presentación de ofertas&quot; y seleccione &quot;Evento&quot; para el  **tipo** de programa.
+1. **** Asigne un nombre al programa &quot;My Tradeshow Program&quot; y seleccione &quot;Event&quot; para el  **tipo** de programa.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -75,7 +74,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **** Asigne un nombre a la lista &quot;Asistentes a la feria comercial&quot; y haga clic en  **Crear**.
+1. **** Asigne un nombre a la lista &quot;Participantes en la feria comercial&quot; y haga clic en  **Crear**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
@@ -91,7 +90,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
    >
    >El límite de tamaño para los archivos CSV es de 100 MB.
 
-1. **** Vaya al archivo  **trashow-atendees.** csvhoja de cálculo de su equipo y haga clic en  **Siguiente**.
+1. **** Vaya al archivo  **trade-show-atendees.** csvhoja de cálculo de su equipo y haga clic en  **Next**.
 
    ![](assets/eleven-2.png)
 
@@ -132,7 +131,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 >
 >Puede analizar el éxito del programa realizando un seguimiento de la pertenencia a este. Obtenga más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
-## Misión completada {#mission-complete}
+## Misión finalizada {#mission-complete}
 
 ¡Sus asistentes a la feria comercial ahora son miembros de su programa de Marketo!
 
