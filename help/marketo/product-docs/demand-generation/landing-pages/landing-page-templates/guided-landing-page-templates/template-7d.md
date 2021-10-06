@@ -3,16 +3,16 @@ unique-page-id: 8783950
 description: 'Plantilla 7D: Documentos de Marketo: Documentación del producto'
 title: Plantilla 7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Plantilla 7D {#template-7d}
 
-[Descargar plantilla 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+Haga clic con el botón derecho para [descargar plantilla 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -26,6 +26,6 @@ Esta plantilla incluye el siguiente contenido:
 * Cuatro secciones de cuerpo (opcional)
 * Un pie de página (opcional)
 
-**Haga clic abajo para descargar esta plantilla:**
+**Haga clic con el botón derecho para descargar esta plantilla:**
 
 [Plantilla 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
