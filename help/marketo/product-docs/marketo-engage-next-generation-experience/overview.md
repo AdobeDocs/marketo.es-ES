@@ -2,9 +2,9 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '491'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ En esta experiencia de próxima generación hay muchas funciones nuevas, todas e
 
 **Iconos**
 
-La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga información sobre ellos aquí: [Nuevo glosario de iconos](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga información sobre ellos aquí: [Glosario de iconos](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -191,7 +191,7 @@ Eche un vistazo a la nueva navegación global.
    <td>Todos los elementos de superbola anteriores enumerados en</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Utilice esto para proporcionar comentarios sobre su experiencia con MEUE</td> 
   </tr>
   <tr>

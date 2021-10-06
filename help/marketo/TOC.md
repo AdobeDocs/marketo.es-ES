@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
    + [Introducción](getting-started.md)
    + [¿Qué es el Marketo Engage de Adobe?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glosario de Marketo](getting-started/marketo-glossary.md)
-   + [Icono Glosario](getting-started/icon-glossary.md)
+   + [Glosario de iconos clásicos](getting-started/classic-icon-glossary.md)
    + Instalación {#setup}
       + [Pasos de configuración](getting-started/setup-steps.md)
       + [Lista de comprobación de configuración](getting-started/setup-steps/setup-checklist.md)
@@ -137,7 +137,7 @@ ht-degree: 2%
          + [Regla de validación del formulario global](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Integraciones adicionales {#additional-integrations}
          + [Añadir Adobe Connect como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-         + [Agregar Google AdWords como un servicio de punto de inicio con una cuenta de administrador](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+         + [Añadir Google AdWords como servicio de punto de inicio con una cuenta de administrador](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
          + [Añadir Google AdWords como un servicio de LaunchPoint](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [Añadir GoToWebinar como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Agregar una reunión web de nivel 3 como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
@@ -192,7 +192,7 @@ ht-degree: 2%
          + [Exportar una lista de todos los nombres de campos de la API de Marketo](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Exportación utilizada por los datos de un campo](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Ocultar y mostrar un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-         + [Tokens de codificación HTML en correos electrónicos](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [Codificar tokens de HTML en correos electrónicos](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Marcar un campo como confidencial](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [Cambiar el nombre de un campo](product-docs/administration/field-management/rename-a-field.md)
          + [Explicación de los campos administrados por el sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
@@ -517,13 +517,13 @@ ht-degree: 2%
          + [Corregir problemas de sincronización de validación de Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Configuración de sincronización {#sync-setup}
             + [Descargar la solución de administración de posibles clientes de Marketo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Actualizar la solución de Marketo para Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Actualización de la solución de Marketo para Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validar Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Ver la URL del servicio de organización](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premies {#microsoft-dynamics-2011-on-premises}
                + [Paso 1 de 3: Instalación de la solución Marketo (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
                + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+               + [Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013 On-Premies {#microsoft-dynamics-2013-on-premises}
                + [Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (local 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
                + [Paso 2 de 3: Configuración del usuario de sincronización para Marketo (locales de 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
@@ -540,7 +540,7 @@ ht-degree: 2%
                + [Conceder consentimiento para el ID de cliente y el registro de la aplicación](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Configuración de la aplicación Microsoft Dynamics CRM para en línea](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Configuración de la aplicación Microsoft Dynamics CRM para On-Premim](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-               + [Configuración de MSD para Azure AD Federated con AD FS On-Premim, Tenant y Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
+               + [Configuración de MSD para Azure AD Federated con AD FS On-premim, inquilino y Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Detalles de sincronización de Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Asignación de campos de Dynamics predeterminada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Sincronización de cuentas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -615,7 +615,7 @@ ht-degree: 2%
       + Integraciones de red de publicidad {#ad-network-integrations}
          + [Información sobre las integraciones de redes de publicidad](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Añadir Audiencias personalizadas de Facebook como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
-         + [Añadir Customer Match de Google como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
+         + [Añadir Customer Match de Google como servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Añadir audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar una lista a una red de publicidad](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dinámico {#dynamic-chat}
@@ -686,7 +686,7 @@ ht-degree: 2%
             + [Incrustar un formulario en el sitio web](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Habilitar el rellenado de formularios sociales en un formulario](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
             + [Preguntas frecuentes sobre el llenado de formularios de linkedIn Social](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
-            + [Mostrar formulario HTML personalizado para personas conocidas](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
+            + [Mostrar formulario de HTML personalizado para personas conocidas](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Uso de un formulario en un Lightbox](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + Diseño de formulario {#form-design}
             + [Cambiar posición de etiqueta del formulario](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
@@ -731,7 +731,7 @@ ht-degree: 2%
             + [Agregar un vídeo a una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [Agregar una imagen a una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [Adición de un rectángulo a una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
-            + [Adición de HTML personalizado a una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
+            + [Adición de un HTML personalizado a una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
             + [Crear una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
             + [Personalizar la vista móvil para la página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [Uso de contenido dinámico en una página de aterrizaje improvisada](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
@@ -1037,7 +1037,7 @@ ht-degree: 2%
             + [Crear un archivo de Evento de calendario (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Desactivación del seguimiento de un vínculo de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
             + [Descargar el HTML de un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
-            + [Edición del HTML de un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
+            + [Editar el HTML de un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + Pruebas de correo electrónico: Champion-Challenger {#email-tests-champion-challenger}
                + [Añadir un campeón/Challenger de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Campeón/Desafío: Aprobar la prueba de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
@@ -1059,7 +1059,7 @@ ht-degree: 2%
          + [Correo electrónico CC](product-docs/email-marketing/general/email-cc.md)
    + Experiencia de Marketo Engage de próxima generación {#marketo-engage-next-generation-experience}
       + [Resumen](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Glosario de iconos nuevos](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Icono Glosario](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [Uso de la búsqueda global](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Conexión de ventas de Marketo {#marketo-sales-connect}
       + Introducción {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 2%
             + [Verifique su correo electrónico](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Administración {#admin}
          + [Administradores adicionales](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [Ficha Configuración de administración](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [Dominios bloqueados](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Bloqueo de contenido](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Crear un subequipo](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1215,7 +1214,7 @@ ht-degree: 2%
       + Preguntas frecuentes {#faq}
          + [¿Puedo recuperar un contacto o grupo que eliminé?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Preguntas frecuentes sobre el contenido y los archivos adjuntos](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
-         + [¿Conexión de ventas tiene una aplicación para iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
+         + [¿Conexión de ventas tiene una aplicación iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [¿Cómo puedo conectar las ventas de Lista de permitidos en mi servidor?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [Me bloqueé de mi cuenta. ¿Qué hago?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [¿Es compatible la conexión de ventas con Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
@@ -1287,7 +1286,7 @@ ht-degree: 2%
          + [Plantillas recomendadas](product-docs/marketo-sales-connect/templates/recommended-templates.md)
          + [Plantillas compartidas](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Participación de plantilla](product-docs/marketo-sales-connect/templates/template-engagement.md)
-         + [Uso de HTML](product-docs/marketo-sales-connect/templates/using-html.md)
+         + [Uso del HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Ver la lista de plantillas como otro usuario](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
          + Campos dinámicos {#dynamic-fields}
             + [Crear campos dinámicos personalizados](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
@@ -1306,11 +1305,11 @@ ht-degree: 2%
          + [Descripción general de características](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
          + Instalación de {#installing}
             + [Descargar la solución de perspectivas de ventas de Marketo para Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-            + [Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
-            + [Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-            + [Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
-            + [Instalar y configurar Marketo Sales Insight en Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
-            + [Instalar y configurar Marketo Sales Insight en Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
+            + [Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
+            + [Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+            + [Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
+            + [Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
+            + [Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Configuración y uso de {#setting-up-and-using}
             + [Agregar un posible cliente o contacto a una campaña de Marketo desde Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Campos requeridos para sincronizar Marketo con Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
@@ -1392,7 +1391,7 @@ ht-degree: 2%
          + [Autenticar seguridad de acceso móvil](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Antes de crear notificaciones push y mensajes en la aplicación](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [Configuración del acceso push de Android de aplicaciones móviles](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
-         + [Configuración del acceso push de la aplicación móvil de iOS](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+         + [Configuración del acceso push de iOS de aplicaciones móviles](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
          + [Eliminar aplicación móvil](product-docs/mobile-marketing/admin/delete-mobile-app.md)
          + [Envío del código SDK a un desarrollador](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
          + [Verificar configuración push](product-docs/mobile-marketing/admin/verify-push-configuration.md)
@@ -1581,8 +1580,8 @@ ht-degree: 2%
             + [Buscar todos los posibles clientes en un modelo de ciclo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [Combinación de dos etapas en el modelador de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [Informe del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [Configurar las conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-            + [Configurar las conversiones de Google AdWords en el modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+            + [Configurar conversiones de Google AdWords en el modelo de ingresos con una cuenta de administrador](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [Definir conversiones de Google AdWords en el modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
             + [Iniciar el seguimiento por cuenta en el modelador de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [Explicación de las fases del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
             + [Explicación de la ruta de éxito del modelo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
@@ -1650,7 +1649,7 @@ ht-degree: 2%
             + [Tableros RTP personalizados en Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Informes RTP personalizados en Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
             + [Integrar RTP con Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
-            + [Integrar RTP con Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+            + [Integración de RTP con Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integración con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Explicación de la personalización web {#understanding-web-personalization}
          + [Explicación de Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
