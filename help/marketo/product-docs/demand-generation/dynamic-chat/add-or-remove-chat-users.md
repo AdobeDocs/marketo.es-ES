@@ -3,7 +3,7 @@ description: 'Agregar o eliminar usuarios de chat: Documentos de Marketo: Docume
 title: Agregar o eliminar usuarios de chat
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
 
    >[!NOTE]
    >
-   >Si tiene más de una suscripción a Marketo, seleccione la que desee antes del siguiente paso).
+   >Si tiene más de una suscripción a Marketo, seleccione la que desee antes del siguiente paso.
 
 1. Haga clic en la pestaña **Users**.
 
