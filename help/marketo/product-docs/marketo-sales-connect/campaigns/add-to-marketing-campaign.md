@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14745611
-description: Añadir a la Campaña de mercadotecnia - Documentos de marketing - Documentación del producto
-title: Añadir a la Campaña de mercadotecnia
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Agregar a Marketing Campaign - Marketo Docs - Documentación del producto
+title: Agregar a campaña de marketing
+exl-id: d520d681-8415-4d48-896f-f213a8fabd11
+source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-
-# Añadir a la Campaña de mercadotecnia {#add-to-marketing-campaign}
+# Agregar a campaña de marketing {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
->[Hacer que una Campaña sea visible para los usuarios de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Hacer que una campaña sea visible para los usuarios de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
-## Añadir individuos a una Campaña {#add-individuals-to-a-campaign}
+## Adición de personas a una campaña {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Para agregar una persona a una Campaña de marketing desde Sales Connect, Sales Connect debe tener el ID de posible cliente de marketing de la persona. [Aprenda a capturar los ID de marketing aquí](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+>Para añadir una persona a una campaña de Marketo desde Sales Connect, Sales Connect debe tener el ID de posible cliente de Marketo de la persona.
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en la pestaña **People**.
 
    ![](assets/one-3.png)
 
-1. Busque los contactos que desee agregar.
+1. Busque los contactos que desea agregar.
 
    ![](assets/two-3.png)
 
@@ -35,37 +34,37 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Haga clic en **Añadir selección a Campaña**.
+1. Haga clic en **Agregar seleccionado a la campaña**.
 
    ![](assets/four-3.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puede elegir agregar más contactos. Si lo desea, haga clic en Individuos y escríbalos. Haga clic en **Siguiente** cuando termine.
+1. Como está agregando a una campaña de marketing, omita la selección de la dirección &quot;de&quot;. Sin embargo, puede elegir añadir más contactos. Si lo desea, haga clic en Individuos y escríbalos. Haga clic en **Siguiente** cuando termine.
 
    ![](assets/five-2.png)
 
-1. Haga clic en **Campaña de mercadotecnia**.
+1. Haga clic en **Campaña de marketing**.
 
    ![](assets/six-1.png)
 
-1. Haga clic en la lista desplegable Espacios de trabajo y elija el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
+1. Haga clic en la lista desplegable Workspaces y seleccione el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Si no ve el espacio de trabajo que desea, asegúrese de que el administrador lo ha proporcionado a través de la página Acceso al equipo de Marketing to.
+   >Si no ve el espacio de trabajo que desea, asegúrese de que el administrador lo proporcione a través de la página Acceso de equipo de Marketo .
 
-1. Seleccione la campaña que desee y haga clic en **Siguiente**.
+1. Seleccione la campaña deseada y haga clic en **Next**.
 
    ![](assets/eight.png)
 
-1. Se le muestran los contactos que califican. Haga clic en **Inicio** para agregarlos.
+1. Se le muestran los contactos que califican. Haga clic en **Start** para añadirlos.
 
    ![](assets/nine.png)
 
-## Añadir un grupo a una Campaña {#add-a-group-to-a-campaign}
+## Agregar un grupo a una campaña {#add-a-group-to-a-campaign}
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en la pestaña **People**.
 
    ![](assets/one-3.png)
 
@@ -73,34 +72,34 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Añadir grupo a Campaña**.
+1. Haga clic en **Agregar grupo a campaña**.
 
    ![](assets/twelve.png)
 
-1. Como está agregando a una campaña de marketing, omita seleccionar una dirección &quot;de&quot;. Sin embargo, puede elegir agregar más contactos. Si lo desea, haga clic en Individuos y escríbalos. Haga clic en **Siguiente** cuando termine.
+1. Como está agregando a una campaña de marketing, omita la selección de la dirección &quot;de&quot;. Sin embargo, puede elegir añadir más contactos. Si lo desea, haga clic en Individuos y escríbalos. Haga clic en **Siguiente** cuando termine.
 
    ![](assets/thirteen.png)
 
-1. Seleccione **Campaña de mercadotecnia**.
+1. Seleccione **Campaña de marketing**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Para agregar una persona a una Campaña de marketing desde Sales Connect, Sales Connect debe tener el ID de posible cliente de marketing de la persona. [Aprenda a capturar los ID de marketing aquí](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
+   >Para añadir una persona a una campaña de Marketo desde Sales Connect, Sales Connect debe tener el ID de posible cliente de Marketo de la persona.
 
-1. Haga clic en la lista desplegable Espacios de trabajo y elija el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
+1. Haga clic en la lista desplegable Workspaces y seleccione el espacio de trabajo que contiene la campaña a la que desea agregar el grupo.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Si no ve el espacio de trabajo que desea, asegúrese de que el administrador lo ha proporcionado a través de la página Acceso al equipo de Marketing to.
+   >Si no ve el espacio de trabajo que desea, asegúrese de que el administrador lo proporcione a través de la página Acceso de equipo de Marketo .
 
-1. Seleccione la campaña que desee y haga clic en **Siguiente**.
+1. Seleccione la campaña deseada y haga clic en **Next**.
 
    ![](assets/eight.png)
 
-1. Se le muestran los contactos que califican. Haga clic en **Inicio** para agregarlos.
+1. Se le muestran los contactos que califican. Haga clic en **Start** para añadirlos.
 
    ![](assets/nine.png)
