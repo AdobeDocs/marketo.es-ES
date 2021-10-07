@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 **Nuevo correo electrónico, actividad web, paneles** de actividad web anónimos: Hemos agregado los nuevos paneles de ventas para informar a los vendedores sobre las actividades web y correo electrónico más recientes de sus posibles clientes y contactos. Con la nueva capacidad de filtrado, los tableros ahora proporcionan información sobre las aperturas de correo electrónico, los clics y las visitas a la página web para obtener la lista completa de cuentas o una cuenta específica. El Marketo Engage realiza un seguimiento de toda la actividad web y proporciona a las ventas información crítica, convirtiendo el tráfico anónimo en posibles clientes. Los vendedores pueden personalizar la participación y convertir los posibles clientes en ventas más rápido, ya que están mejor informados sobre los comportamientos de los posibles clientes y actúan según la relevancia de todos los puntos de contacto.
 
-**Perspectiva de ventas para Salesforce CRM**
+**Perspectiva de ventas para Salesforce**
 
 **Mejores apuestas a nivel de cuenta y oportunidad**: Ahora, la perspectiva de ventas permite que los representantes de ventas revisen las mejores apuestas para todos los contactos de la cuenta o la oportunidad que poseen, incluso cuando el contacto está asignado a un miembro del equipo diferente. Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en base a una visión más holística de la cuenta o la oportunidad.
 
@@ -71,4 +71,4 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Anuncios {#announcements}
 
-**Actualización** de Associate Lead Deprecation/Munchkin Beta 161: El 7 de septiembre de 2021, la versión 161 de Munchkin empezó a implementarse en el 10% de las suscripciones con Munchkin Beta habilitado, seguido de 50% el 16 de septiembre y 100% el 30 de septiembre. Este cambio afecta a las páginas de aterrizaje de Marketo Engage y a la versión del archivo munchkin-beta.js servida a páginas de aterrizaje externas que se cargan desde suscripciones a las que se ha implementado la versión reciente. Esta versión desaprueba completamente el método Munchkin Associate Lead , que es una función que permite enviar los datos de una persona a una suscripción de Marketo Engage y el historial de navegación web asociado con un registro de persona conocida. Se está eliminando Asociar posible cliente para ofrecer alternativas más modernas y seguras, como la API de Forms JS, la API de envío de formulario y la API de REST de Asociar posible cliente. [Obtenga más información sobre esta desaprobación](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Actualización** de Associate Lead Deprecation/Munchkin Beta 161: El 7 de septiembre de 2021, la versión 161 de Munchkin empezó a implementarse en el 10% de las suscripciones con Munchkin Beta habilitado, seguido de 50% el 16 de septiembre y 100% el 30 de septiembre. Este cambio afecta a las páginas de aterrizaje de Marketo Engage y a la versión del archivo munchkin-beta.js servida a páginas de aterrizaje externas que se cargan desde suscripciones a las que se ha implementado la versión reciente. Esta versión desaprueba completamente el método Munchkin Associate Lead , que es una función que permite enviar los datos de una persona a una suscripción de Marketo Engage y el historial de navegación web asociado con un registro de persona conocida. Se está eliminando Asociar posible cliente para ofrecer alternativas más modernas y seguras, como la API de Forms JS, la API de envío de formulario y la API de REST de Asociar posible cliente. [Obtenga más información sobre esta desaprobación aquí](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
