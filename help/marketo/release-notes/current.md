@@ -2,24 +2,24 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
 
 # Notas de la versión: Octubre de 2021 {#release-notes-oct-21}
 
-La versión del 21 de octubre incluye las siguientes funciones. Consulte la edición para su Marketo Engage si hay disponibilidad de funcionalidades.
+La versión del 21 de octubre incluye las siguientes funciones. Consulte la edición para Marketo Engage de Adobe si hay disponibilidad de funcionalidades.
 
 >[!AVAILABILITY]
 >
->Las funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage del Adobe para obtener más información.
+>Las funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_**
 
-Las siguientes funciones se lanzarán el **22 de octubre de 2021**.
+Las siguientes funciones empezarán a lanzarse el **22 de octubre de 2021**, con una implementación por fases de todas las funciones durante la semana siguiente (a menos que se especifique lo contrario).
 
 ## Innovación impulsada por IA {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ Las siguientes funciones se lanzarán el **22 de octubre de 2021**.
 
 **Elija su propia experiencia**: Cambie fácilmente a la experiencia que prefiera con la nueva opción mientras trabaja en los detalles de formularios del Marketo Engage o en la vista de lista de páginas de aterrizaje sin perder contexto, cambios de recursos o preferencias. Además, la nueva vista de lista de páginas de aterrizaje mejora su experiencia con nuevos filtros y la capacidad de realizar acciones masivas.
 
-**Buscar de forma eficiente**: Las mejoras de accesibilidad para la búsqueda global incluyen la navegación con teclado actualizada y descripciones de etiquetas, una nueva función de desplazamiento para los resultados y filtros aplicados más visibles. Se han mejorado los modelos de movimiento para admitir métodos abreviados del teclado. Monitorice el estado de las tareas que se ejecutan en segundo plano de la nueva experiencia a través de la nueva bandeja de notificaciones de tareas en la barra de navegación global. La bandeja captura las notificaciones para tareas iniciadas desde la nueva vista de experiencias de los detalles del formulario y las listas de páginas de aterrizaje, incluido el cambio de estado en las páginas de aterrizaje y las acciones masivas generales mediante la nueva experiencia.
+**Buscar de forma eficiente**: Las mejoras de accesibilidad para la búsqueda global incluyen la navegación con teclado actualizada y descripciones de etiquetas, una nueva función de desplazamiento para los resultados y filtros aplicados más visibles.
+
+**Supervisar tareas**: Monitorice el estado de las tareas que se ejecutan en segundo plano de la nueva experiencia a través de la nueva bandeja de notificaciones de tareas en la barra de navegación global. La bandeja captura notificaciones para tareas iniciadas desde la nueva vista de experiencias de los detalles del formulario y la lista de páginas de aterrizaje, incluido el cambio de estado en las páginas de aterrizaje y acciones masivas generales mediante la nueva experiencia.
 
 ## Automatización de la experiencia {#experience-automation}
 
