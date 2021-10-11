@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
+source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,5 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 ## Anuncios {#announcements}
 
 **Actualización** de Associate Lead Deprecation/Munchkin Beta 161: El 7 de septiembre de 2021, la versión 161 de Munchkin empezó a implementarse en el 10% de las suscripciones con Munchkin Beta habilitado, seguido de 50% el 16 de septiembre y 100% el 30 de septiembre. Este cambio afecta a las páginas de aterrizaje de Marketo Engage y a la versión del archivo munchkin-beta.js servida a páginas de aterrizaje externas que se cargan desde suscripciones a las que se ha implementado la versión reciente. Esta versión desaprueba completamente el método Munchkin Associate Lead , que es una función que permite enviar los datos de una persona a una suscripción de Marketo Engage y el historial de navegación web asociado con un registro de persona conocida. Se está eliminando Asociar posible cliente para ofrecer alternativas más modernas y seguras, como la API de Forms JS, la API de envío de formulario y la API de REST de Asociar posible cliente. [Obtenga más información sobre esta desaprobación aquí](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) para unirse a nosotros el 28 de octubre de 2021, a las 9:00 AM PT / 12:00 PM ET para un seminario web en vivo con nuestro equipo de productos para profundizar en estas innovaciones.
