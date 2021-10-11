@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
+source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ La versión del 21 de octubre incluye las siguientes funciones. Consulte la edic
 
 **_Versiones trimestrales_**
 
-Las siguientes funciones empezarán a lanzarse el **22 de octubre de 2021**, con una implementación por fases de todas las funciones durante la semana siguiente (a menos que se especifique lo contrario).
+The following features will start to be released on **October 22, 2021**, with a phased rollout of every feature over the following week (unless specified otherwise).
 
-## Innovación impulsada por IA {#ai-driven-innovation}
+## AI-Driven Innovation {#ai-driven-innovation}
 
 **Mejoras en Predictive Audiences**: Ahora tiene más visibilidad sobre los comportamientos principales que influyen en las predicciones de IA para los modelos predictivos con tecnología de IA utilizados en los programas de eventos y correo electrónico. Puede revisar los comportamientos de los miembros de la campaña que dan como resultado un mayor número de registros y asistencia al evento, así como lo que provoca la cancelación de suscripciones. Los modelos de similitud con tecnología de IA ahora se pueden utilizar en todos los tipos de programas en Marketo Engage.
 
@@ -31,9 +31,9 @@ Las siguientes funciones empezarán a lanzarse el **22 de octubre de 2021**, con
 
 **Buscar de forma eficiente**: Las mejoras de accesibilidad para la búsqueda global incluyen la navegación con teclado actualizada y descripciones de etiquetas, una nueva función de desplazamiento para los resultados y filtros aplicados más visibles.
 
-**Supervisar tareas**: Monitorice el estado de las tareas que se ejecutan en segundo plano de la nueva experiencia a través de la nueva bandeja de notificaciones de tareas en la barra de navegación global. La bandeja captura notificaciones para tareas iniciadas desde la nueva vista de experiencias de los detalles del formulario y la lista de páginas de aterrizaje, incluido el cambio de estado en las páginas de aterrizaje y acciones masivas generales mediante la nueva experiencia.
+**Supervisar tareas**: Monitorice el estado de las tareas que se ejecutan en segundo plano de la nueva experiencia a través de la nueva bandeja de notificaciones de tareas en la barra de navegación global. The tray captures notifications for tasks initiated from the new experience view of form details and landing page list, including changing status on landing pages and general mass actions using the new experience.
 
-## Automatización de la experiencia {#experience-automation}
+## Experience Automation {#experience-automation}
 
 **Envío de la API de formulario Miembro del programa Compatibilidad con campos personalizados**: El extremo de la API de envío de formulario se ha actualizado para que admita los campos personalizados de miembro del programa, lo que permite que las integraciones de formularios personalizadas recopilen datos específicos del programa.
 
@@ -57,13 +57,13 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 ## Conexión de ventas {#sales-connect}
 
-![(estrella)](assets/yellow-star.png)
+![(star)](assets/yellow-star.png)
 
-**Restricción de conexión de correo electrónico (GA)**: Mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas personalizada con la regulación de la conexión de correo electrónico para Sales Connect. Esta innovadora tecnología administra automáticamente el tiempo de envío de correo electrónico para crear una experiencia perfecta para los usuarios de Exchange y Gmail. Reduzca o elimine el uso de las aplicaciones de envío masivo de correo electrónico de terceros y envíe todos sus correos electrónicos desde Sales Connect con confianza.
+**Restricción de conexión de correo electrónico (GA)**: Mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas personalizada con la regulación de la conexión de correo electrónico para Sales Connect. Esta innovadora tecnología administra automáticamente el tiempo de envío de correo electrónico para crear una experiencia perfecta para los usuarios de Exchange y Gmail. Decrease or eliminate the usage of third-party bulk email send applications and send all your emails from Sales Connect with confidence.
 
-**Perspectivas** de actividad de ventas mejoradas: Una nueva actividad de seguimiento de respuestas de correo electrónico, Correo electrónico de ventas respondido, rastrea las interacciones de los destinatarios con un correo electrónico que se sincroniza automáticamente con el Marketo Engage. Además, el atributo Fuente se ha actualizado de &quot;Tout&quot; a &quot;Aplicación de ventas&quot;. Esta actividad se puede exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y está disponible en filtros y déclencheur como restricciones adicionales para listas inteligentes, lo que amplía las opciones de personalización en campañas inteligentes.
+**Perspectivas** de actividad de ventas mejoradas: Una nueva actividad de seguimiento de respuestas de correo electrónico, Correo electrónico de ventas respondido, rastrea las interacciones de los destinatarios con un correo electrónico que se sincroniza automáticamente con el Marketo Engage. Además, el atributo Fuente se ha actualizado de &quot;Tout&quot; a &quot;Aplicación de ventas&quot;. This activity can be exported and reported through the Marketo Engage REST API or Bulk Export and is available on filters and triggers as additional constraints for smart lists, expanding personalization options in Smart Campaigns.
 
-**Experiencia** del usuario optimizada: Esta actualización introduce nuevas fuentes, colores, botones y modelos para Conexión de Ventas basados en el sistema de diseño Espectro de Adobe. Con estas actualizaciones, ofreceremos una experiencia más eficiente, donde los vendedores pueden centrarse en lo que se necesita, cuando se necesita.
+**Streamlined User Experience**: This update introduces new fonts, colors, buttons, and modals for Sales Connect that are based on the Adobe Spectrum design system. With these updates, we are delivering a more efficient experience, where sellers can focus on what&#39;s needed, when it&#39;s needed.
 
 ## Bizible {#bizible}
 
@@ -71,8 +71,8 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 **Integración Bizible con el Privacy Service de Adobe (GA)**: La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas de privacidad de datos críticas, como el RGPD (Reglamento General de Privacidad de Datos) o la CCPA (Ley de Privacidad del Consumidor de California) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada a través del Privacy Service del Adobe para que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
 
-## Anuncios {#announcements}
+## Announcements {#announcements}
 
 **Actualización** de Associate Lead Deprecation/Munchkin Beta 161: El 7 de septiembre de 2021, la versión 161 de Munchkin empezó a implementarse en el 10% de las suscripciones con Munchkin Beta habilitado, seguido de 50% el 16 de septiembre y 100% el 30 de septiembre. Este cambio afecta a las páginas de aterrizaje de Marketo Engage y a la versión del archivo munchkin-beta.js servida a páginas de aterrizaje externas que se cargan desde suscripciones a las que se ha implementado la versión reciente. Esta versión desaprueba completamente el método Munchkin Associate Lead , que es una función que permite enviar los datos de una persona a una suscripción de Marketo Engage y el historial de navegación web asociado con un registro de persona conocida. Se está eliminando Asociar posible cliente para ofrecer alternativas más modernas y seguras, como la API de Forms JS, la API de envío de formulario y la API de REST de Asociar posible cliente. [Obtenga más información sobre esta desaprobación aquí](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) para unirse a nosotros el 28 de octubre de 2021, a las 9:00 AM PT / 12:00 PM ET para un seminario web en vivo con nuestro equipo de productos para profundizar en estas innovaciones.
+¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/October_Release_RegistrationPage.html) para unirse a nosotros el 28 de octubre de 2021, a las 9:00 AM PT / 12:00 PM ET para un seminario web en vivo con nuestro equipo de productos para profundizar en estas innovaciones.
