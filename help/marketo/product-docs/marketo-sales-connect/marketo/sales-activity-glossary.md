@@ -1,10 +1,11 @@
 ---
 description: Glosario de actividades de ventas - Documentos de Marketo - Documentación del producto
 title: Glosario de actividades de ventas
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 8%
+source-wordcount: '480'
+ht-degree: 6%
 
 ---
 
@@ -26,7 +27,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   <th>Atributo</th>
  </tr>
  <tr>
-  <th rowspan="3">Enviar email de ventas</th>
+  <th rowspan="9">Enviar email de ventas</th>
   <td>Enviado por</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   <td>Identificación de la plantilla</td>
  </tr>
  <tr>
-  <th rowspan="3">Abrir email de ventas</th>
+  <td>URL de plantilla de ventas</td>
+ </tr>
+ <tr>
+  <td>Dirección URL de la campaña de ventas</td>
+ </tr>
+ <tr>
+  <td>Nombre de plantilla de ventas</td>
+ </tr>
+ <tr>
+  <td>Asunto del correo electrónico</td>
+ </tr>
+ <tr>
+  <td>Nombre de campaña de ventas</td>
+ </tr>
+ <tr>
+  <td>ID de persona de ventas de Marketo</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Abrir email de ventas</th>
   <td>Enviado por</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   <td>Identificación de la plantilla</td>
  </tr>
  <tr>
-  <th rowspan="4">Correo electrónico de ventas en el que se hizo clic</th>
+  <td>URL de plantilla de ventas</td>
+ </tr>
+ <tr>
+  <td>Dirección URL de la campaña de ventas</td>
+ </tr>
+ <tr>
+  <td>Nombre de plantilla de ventas</td>
+ </tr>
+ <tr>
+  <td>Asunto del correo electrónico</td>
+ </tr>
+ <tr>
+  <td>Nombre de campaña de ventas</td>
+ </tr>
+ <tr>
+  <td>ID de persona de ventas de Marketo</td>
+ </tr>
+ <tr>
+  <th rowspan="10">Correo electrónico de ventas en el que se hizo clic</th>
   <td>Vínculo</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
  <tr>
   <td>Identificación de la plantilla</td>
  </tr>
+ <tr>
+  <td>URL de plantilla de ventas</td>
+ </tr>
+ <tr>
+  <td>Dirección URL de la campaña de ventas</td>
+ </tr>
+ <tr>
+  <td>Nombre de plantilla de ventas</td>
+ </tr>
+ <tr>
+  <td>Asunto del correo electrónico</td>
+ </tr>
+ <tr>
+  <td>Nombre de campaña de ventas</td>
+ </tr>
+ <tr>
+  <td>ID de persona de ventas de Marketo</td>
+ </tr>
 <tr>
-  <th rowspan="2">Correo electrónico de ventas recibido</th>
+  <th rowspan="3">Correo electrónico de ventas recibido</th>
   <td>Recibido por</td>
  </tr>
  <tr>
   <td>Origen</td>
  </tr>
  <tr>
-  <th rowspan="4">Se rechazó el email de ventas</th>
-  <td>Detalles</td>
+  <td>ID de persona (MSC)</td>
  </tr>
  <tr>
-  <td>Identificación de la plantilla</td>
- </tr>
- <tr>
-  <td>Email</td>
- </tr>
- <tr>
-  <td>Enviado por</td>
- </tr>
- <tr>
-  <th rowspan="7">Llamada de ventas recibida</th>
+  <th rowspan="11">Llamada de ventas recibida</th>
   <td>Llamada de ventas realizada por</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
  </tr>
  <tr>
   <td>Origen</td>
+ </tr>
+ <tr>
+  <td>Duración de la llamada de venta</td>
+ </tr>
+ <tr>
+  <td>URL de registro de llamada de venta</td>
+ </tr>
+  <tr>
+  <td>Llamada De Ventas Contestada Por</td>
+ </tr>
+ <tr>
+  <td>ID de persona de ventas (MSC) de Marketo</td>
  </tr>
  <tr>
   <th rowspan="6">Agregar a la campaña de ventas</th>
@@ -153,7 +210,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
    <td>Detalles del mensaje de error de rechazo.</td> 
   </tr> 
   <tr> 
-   <td><strong>Correo electrónico</strong></td> 
+   <td><strong>Email</strong></td> 
    <td>Dirección de correo electrónico devuelta.</td> 
   </tr> 
   <tr> 
