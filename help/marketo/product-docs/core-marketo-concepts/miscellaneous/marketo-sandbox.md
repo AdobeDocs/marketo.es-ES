@@ -3,15 +3,14 @@ unique-page-id: 11386358
 description: 'Simulador para pruebas de Marketo: Documentos de Marketo: Documentación del producto'
 title: Simulador para pruebas de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-# Sandbox de Marketo {#marketo-sandbox}
+# Simulador para pruebas de Marketo {#marketo-sandbox}
 
 Un simulador para pruebas de Marketo es una instancia adicional que se utiliza con fines de prueba antes de la implementación en el entorno de producción.
 
@@ -21,13 +20,13 @@ Un simulador para pruebas de Marketo es una instancia adicional que se utiliza c
 
 Un simulador para pruebas de Marketo no se puede sincronizar con el CRM normal si ya está sincronizado con la instancia de producción. Utilice el simulador para pruebas de CRM para la sincronización y siga los mismos pasos que la sincronización original.
 
-## Aspectos importantes sobre los entornos limitados {#things-to-know-about-sandboxes}
+## Aspectos importantes de los entornos limitados {#things-to-know-about-sandboxes}
 
 * Una vez que el gestor de éxito del cliente ha configurado el simulador de pruebas y le envía la invitación, debe utilizar una dirección de correo electrónico diferente para iniciar sesión que la instancia de producción de Marketo.
 * Si desea agregar usuarios, el proceso es el mismo que [agregar usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya tienen un inicio de sesión en Marketo.
 * El simulador para pruebas de Marketo comenzará vacío, pero tendrá las mismas funciones disponibles que la instancia de producción.
 * Si crea un programa en el simulador para pruebas y desea moverlo a producción, puede realizar una [importación de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
-* Los entornos limitados están restringidos para que las instancias de producción no se vean afectadas negativamente por los entornos de prueba. Puede enviar hasta 30 correos electrónicos por ejecución de campaña.
+* Los entornos limitados están restringidos para que las instancias de producción no se vean afectadas negativamente por los entornos de prueba. Puede enviar hasta 20 correos electrónicos por ejecución de campaña.
 
 >[!CAUTION]
 >
