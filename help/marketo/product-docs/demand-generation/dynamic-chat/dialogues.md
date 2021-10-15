@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,11 @@ Existe una forma fácil de segmentar específicamente a los posibles clientes qu
 
 ## Agregar grupos {#add-groups}
 
-También tiene la opción de agrupar atributos, en caso de que desee tener todos los atributos junto con &quot;cualquiera&quot; de otro.
+También tiene la opción de agrupar atributos, en caso de que desee tener todos los atributos junto con &quot;todos o cualquiera&quot; de otro. Puede agregar varios grupos.
 
-FINALICE ESTO
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Destino {#target}
 
@@ -107,7 +109,7 @@ Formatos aceptables:
 
 >[!NOTE]
 >
->El uso de un asterisco actúa como comodín global. Por lo tanto, `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página HTML de la carpeta siguiente (por ejemplo: en este caso, digamos que la carpeta es &quot;deportes&quot;, así que: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>El uso de un asterisco actúa como comodín global. Por lo tanto, `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página del HTML de la carpeta siguiente (por ejemplo: en este caso, digamos que la carpeta es &quot;deportes&quot;, así que: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 
 ## Diseñador de secuencias {#stream-designer}
 
@@ -139,9 +141,7 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
 
 **Creación de un flujo**
 
-Hay _muchas_ combinaciones de flujo que crear. En este ejemplo haremos una pregunta de sí o no y prepararemos algunas respuestas.
-
-EJEMPLO
+Hay _muchas_ combinaciones de flujo que crear. Veamos solo un ejemplo [en este artículo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Informes {#reports}
 
