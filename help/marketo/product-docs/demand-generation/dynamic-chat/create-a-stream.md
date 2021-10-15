@@ -3,18 +3,18 @@ description: 'Creación de una emisión: Marketo Docs: Documentación del produc
 title: Creación de un flujo
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Creación de un flujo {#create-a-stream}
 
-Hay _muchas_ combinaciones de flujo que crear. A continuación se muestra un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
+Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
 
-1. Después de [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), haga clic en la ficha Diseñador de flujos.
+1. Después de [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), haga clic en la pestaña **Diseñador de flujo**.
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Hay _muchas_ combinaciones de flujo que crear. A continuación se muestra un eje
      <td>El mensaje que el visitante ve solicitándole que proporcione la información.</td>
     </tr>
     <tr>
-     <td><strong>Texto de muestra que ayuda al visitante a ver qué introducir.</strong></td>
-     <td>texto</td>
+     <td><strong>Marcador de posición</strong></td>
+     <td>Texto de muestra que ayuda al visitante a ver qué introducir.</td>
     </tr>
     <tr>
      <td><strong>Asignar respuesta al atributo</strong></td>
@@ -116,3 +116,7 @@ Hay _muchas_ combinaciones de flujo que crear. A continuación se muestra un eje
 >[!NOTE]
 >
 >Antes de hacer clic en Publicar, recuerde asegurarse de que ha [introducido las URL de destino](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+
+>[!MORELIKETHIS]
+>
+>[Cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

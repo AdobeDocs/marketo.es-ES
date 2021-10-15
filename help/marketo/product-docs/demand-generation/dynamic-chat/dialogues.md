@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ Los diálogos son conversaciones individuales de chat. Aprenda a personalizarlos
 
 ## Criterios de audiencia {#audience-criteria}
 
-Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino. Puede dirigirse a posibles clientes conocidos o desconocidos mediante atributos inferidos, de posibles clientes o de empresa (o una combinación de estos).
+Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino. Puede dirigirse a personas conocidas o desconocidas mediante atributos inferidos, personales o de empresa (o una combinación de estos).
 
-**Posibles clientes conocidos**
+**Personas conocidas**
 
-Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los **posibles clientes conocidos** en California que trabajan en una empresa con más de 50 empleados.
+Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo, estamos dirigiéndonos a todas las **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
 
-1. Coja el atributo **Estado de posible cliente** y arrástrelo a la derecha.
+1. Coja el atributo **Estado de la persona** y arrástrelo a la derecha.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo es
 
    ![](assets/dialogues-8.png)
 
-**Posibles clientes anónimos**
+**Personas anónimas**
 
-Existe una forma fácil de segmentar específicamente a los posibles clientes que aún no están en la base de datos. En este ejemplo, estamos segmentando todos los **posibles clientes anónimos** ubicados en el área de Nueva York.
+Existe una manera fácil de dirigirse específicamente a personas que aún no están en su base de datos. En este ejemplo, estamos dirigiendo todos los **anónimos** ubicados en el área de Nueva York.
 
-1. Coja el atributo **Lead Email** y arrástrelo a la derecha.
+1. Coja el atributo **Personson Email** y arrástrelo a la derecha.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
  </tr>
  <tr>
   <td><strong>Programador de citas</strong></td>
-  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja [el siguiente agente en línea] (/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">el siguiente agente en la línea</a>.</td>
  </tr>
  <tr>
   <td><strong>Objetivo</strong></td>
-  <td>Esta es la única tarjeta que los visitantes no verán. Depende de usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo: si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Goal después de Captura de información en el flujo).</td>
+  <td>Esta es la única tarjeta que los visitantes no verán. Depende de usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo: si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Goal inmediatamente después de Captura de información en el flujo).</td>
  </tr>
 </table>
 
 **Creación de un flujo**
 
-Hay _muchas_ combinaciones de flujo que crear. Veamos solo un ejemplo [en este artículo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Existen _muchas_ combinaciones de flujo posibles. Veamos un ejemplo [en este artículo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Informes {#reports}
 
@@ -162,7 +162,7 @@ En la pestaña Informes , vea los datos de los últimos 90 días. Cada categorí
   <td>Incrementa cada vez que un visitante llega al final de cualquier rama de un cuadro de diálogo.</td>
  </tr>
  <tr>
-  <td><strong>Posibles clientes capturados</strong></td>
+  <td><strong>Personas capturadas</strong></td>
   <td>Incrementa cada vez que un visitante proporciona una dirección de correo electrónico válida en un flujo de diálogo.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ En la pestaña Informes , vea los datos de los últimos 90 días. Cada categorí
   <td>Incrementa cada vez que un visitante alcanza un objetivo en cualquier flujo de diálogo.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Creación de un flujo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

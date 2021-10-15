@@ -3,16 +3,16 @@ description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Do
 title: Información general de conversación dinámica
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Información general de conversación dinámica {#dynamic-chat-overview}
 
-La conversación dinámica le permite aprovechar una interfaz fácil de usar para dirigirse a ambos posibles clientes (¿PERSONAS?) y cuentas en su (VISITANDO SU?) sitio web. Recopile contenido relevante, como su nombre, información de contacto y texto libre. Los visitantes del sitio también pueden reservar reuniones con su equipo de ventas. Los datos de participación y actividad de chat dinámico se pueden utilizar para agregar miembros a programas de Marketo y actividades de canales cruzados de déclencheur.
+Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse tanto a las personas como a las cuentas que visitan su sitio web. Recopile contenido relevante, como nombre, información de contacto y texto libre. Los visitantes del sitio también pueden reservar reuniones con su equipo de ventas. Los datos de participación y actividad de chat dinámico se pueden utilizar para agregar miembros a programas de Marketo y actividades de canales cruzados de déclencheur.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Un componente clave de la conversación dinámica es su capacidad para interactu
 
 Se sincroniza lo siguiente:
 
-* Datos de campo de posible cliente
+* Datos de campo de persona
 * Datos de campo de la empresa
 * Datos de actividad
 
@@ -40,15 +40,15 @@ En la pestaña Configuración , personalice el aspecto de los distintos cuadros 
 
 En la ficha Calendario, conecte el calendario (Outlook o Gmail) para utilizarlo en la programación de citas en el bot de conversación. Una vez que el calendario de un usuario esté conectado a Dynamic Chat, ese usuario se agregará a la cola y su calendario estará disponible para que los visitantes del sitio web programen las citas.
 
-¿También puede personalizar el cuerpo del mensaje de correo electrónico de invitación? que se envía al visitante cuando programa una cita en el calendario del usuario.
+También puede personalizar el cuerpo de la invitación que se envía al visitante cuando programa una cita en el calendario del usuario.
 
 ## Reuniones {#meetings}
 
-Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. Aquí encontrará la dirección de correo electrónico del posible cliente que reservó la cita, con qué agente reservaron la cita, cuándo está programada la cita y si la reunión ha tenido lugar o no.
+Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. Aquí encontrará la dirección de correo electrónico de la persona que reservó la cita, con qué agente reservaron la cita, cuándo está programada la cita y si la reunión ha tenido lugar o no.
 
 ## Enrutamiento {#routing}
 
-Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, así como el orden en que se presentarán a los visitantes del sitio web Las reuniones van por turnos estilo, así que si tiene cinco agentes y el agente tres tomó la última reunión, el agente cuatro obtendrá la siguiente, seguido de cinco, y después volverá al agente uno.
+Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, así como el orden en que se presentarán a los visitantes del sitio web. Las reuniones van por ahí al estilo de robin, así que si tienes cinco agentes y el agente tres tomó la última reunión, el agente cuatro obtendrá la siguiente, seguido del agente cinco, y luego volverá al agente uno.
 
 ## Preguntas frecuentes {#faq}
 
@@ -56,9 +56,9 @@ Aquí es donde puede ver una lista de todos los agentes que han conectado sus ca
 
 No, solo utiliza respuestas predeterminadas.
 
-**¿Cómo puedo orientarme hacia los posibles clientes anónimos?**
+**¿Cómo puedo orientarme hacia personas anónimas?**
 
-En el cuadro de diálogo, debe utilizar el atributo _Lead Email is Empty_ .
+En el cuadro de diálogo, debe utilizar el atributo _Person Email is Empty_.
 
 **¿Admite la funcionalidad AI/NLP?**
 

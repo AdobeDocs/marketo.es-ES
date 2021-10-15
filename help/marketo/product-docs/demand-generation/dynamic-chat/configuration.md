@@ -3,9 +3,9 @@ description: Configuración - Documentos de Marketo - Documentación del product
 title: Configuración
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ El delimitador permite que el visitante del sitio abra o cierre el cuadro de di�
 
 **Configuración del agente**
 
-En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación.
+En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación.
 
 ![](assets/configuration-5.png)
 
@@ -60,4 +60,4 @@ Para que el bot de chat aparezca en su sitio web, primero deberá instalar el fr
 
 >[!NOTE]
 >
->La compatibilidad con Marketo no está configurada para ayudar a solucionar problemas con HTML. Para obtener ayuda HTML, consulte a un desarrollador web.
+>El servicio de asistencia técnica de Marketo no está configurado para ayudarle con el HTML de solución de problemas. Para obtener ayuda del HTML, consulte con un desarrollador web.

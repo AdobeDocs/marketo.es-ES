@@ -3,7 +3,7 @@ description: 'Conexión de Dynamic Chat a Marketo: Marketo Docs: Documentación 
 title: Conexión de Dynamic Chat a Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ Una vez que haya completado la [configuración inicial](/help/marketo/product-do
 
    PICC (captura de pantalla cuando obtengo un sub nuevo)
 
-   >[!NOTE]
-   >
-   >La sincronización puede tardar entre 5 y 8 horas en completarse, en función del tamaño de la base de datos. El tiempo medio de sincronización es de 60 minutos. VERIFICAR INTERVALO DE TIEMPO
+>[!NOTE]
+>
+>La sincronización puede tardar entre 5 y 8 horas en completarse, en función del tamaño de la base de datos. El tiempo medio de sincronización es de 60 minutos. VERIFICAR INTERVALO DE TIEMPO
 
-ARTÍCULOS RELACIONADOS
+>[!MORELIKETHIS]
+>
+>[Configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)

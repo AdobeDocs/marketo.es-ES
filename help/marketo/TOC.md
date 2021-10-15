@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 78fc4dd6325abbebcad8446672159c9b75bf8470
+source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
 workflow-type: tm+mt
-source-wordcount: '7959'
+source-wordcount: '7968'
 ht-degree: 2%
 
 ---
@@ -127,8 +127,8 @@ ht-degree: 2%
             + [SEO: Explicación de los vínculos de entrada](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Informes {#reports}
             + [SEO: usar el informe de tendencias de KW de la competencia](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-            + [SEO - Uso del informe de tendencias de palabras clave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-   + Administración {#administration}
+            + [SEO - Use the Keyword Trends Report](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+   + Administration {#administration}
       + Instalación {#setup}
          + [Descubra qué permisos tiene](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Requisitos mínimos del sistema](product-docs/administration/setup-administration/minimum-system-requirements.md)
@@ -329,7 +329,7 @@ ht-degree: 2%
             + [Uso de tokens en pasos de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
             + Esperar {#wait}
                + [Información general de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
-               + [Uso de un token de fecha en un paso de flujo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+               + [Use a Date Token in a Wait Flow Step](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [Usar una duración en un paso de flujo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
                + [Usar una fecha específica en un paso de flujo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
          + Acciones de flujo de programa {#program-flow-actions}
@@ -354,7 +354,7 @@ ht-degree: 2%
             + [Sincronizar persona con SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + Datos de campaña inteligente {#smart-campaign-data}
             + [Exportar resultados de campañas inteligentes a Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
-            + [Filtrar resultados de campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+            + [Filter Smart Campaign Results](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
             + [Ver personas bloqueadas en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
             + [Ver personas cualificadas en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
             + [Ver miembros de campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
@@ -762,7 +762,7 @@ ht-degree: 2%
                + [Plantilla 1A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1a.md)
                + [Plantilla 1B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1b.md)
                + [Plantilla 1C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1c.md)
-               + [Plantilla 1D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1d.md)
+               + [Template 1D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1d.md)
                + [Plantilla 1E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1e.md)
                + [Plantilla 1F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1f.md)
                + [Plantilla 2A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2a.md)
@@ -775,7 +775,7 @@ ht-degree: 2%
                + [Plantilla 3D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3d.md)
                + [Plantilla 4A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4a.md)
                + [Plantilla 4B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4b.md)
-               + [Plantilla 4C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4c.md)
+               + [Template 4C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4c.md)
                + [Plantilla 5A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5a.md)
                + [Plantilla 5B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5b.md)
                + [Plantilla 5C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md)
@@ -787,12 +787,12 @@ ht-degree: 2%
                + [Plantilla 6D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6d.md)
                + [Plantilla 6E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6e.md)
                + [Plantilla 7A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7a.md)
-               + [Plantilla 7B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7b.md)
-               + [Plantilla 7C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7c.md)
+               + [Template 7B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7b.md)
+               + [Template 7C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7c.md)
                + [Plantilla 7D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7d.md)
                + [Plantilla 7E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md)
                + [Plantilla 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
-               + [Plantilla 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
+               + [Template 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
                + [Plantilla 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
                + [Plantilla 8C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md)
                + [Plantilla 8D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md)
@@ -999,10 +999,10 @@ ht-degree: 2%
             + [Exportar el panel del programa de correo electrónico a Excel](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [Uso del panel del programa de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [Ver resultados del programa de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
-            + [Ver el panel del programa de correo electrónico](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
+            + [View the Email Program Dashboard](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
          + Administración de personas en programas de correo electrónico {#managing-people-in-email-programs}
             + [Definir una audiencia mediante la importación de una lista](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-            + [Definir una audiencia con una lista inteligente](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+            + [Define an Audience with a Smart List](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [Importar una lista de caracteres no latinos](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
       + General {#general}
          + Explicación del editor de correo electrónico {#understanding-the-email-editor}
@@ -1209,10 +1209,10 @@ ht-degree: 2%
          + [¿Por qué no puedo eliminar un contacto?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [¿Por qué no se conectaron todos mis contactos al departamento de ventas?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
       + Integraciones {#integrations}
-         + [Cómo registrar correos electrónicos con otros CRM](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
+         + [How to Log Emails to Other CRMs](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
          + [Configurar la conexión de Marketo](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
-         + [Concesión de acceso a usuarios](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
+         + [Granting Access to Users](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Momentos interesantes en la conexión de ventas](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glosario de actividades de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
@@ -1272,7 +1272,12 @@ ht-degree: 2%
          + [Uso de Marketo Insights para Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Ver información y actividades de persona y cuenta en Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI para Microsoft Dynamics {#msi-for-microsoft-dynamics}
-         + [Descripción general de características](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
+         + Funciones {#features}
+            + [Descripción general de características](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
+            + Pestaña Marketo {#marketo-tab}
+               + [Mejores apuestas](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
+               + [Actividades de correo electrónico](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [Actividades web](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + Instalación de {#installing}
             + [Descargar la solución de perspectivas de ventas de Marketo para Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Instalación y configuración de Marketo Sales Insight en Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
@@ -1413,16 +1418,16 @@ ht-degree: 2%
          + Fragmentos {#snippets}
             + [Añadir contenido a un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprobar un fragmento sin borrador](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
-            + [Aprobar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
+            + [Approve a Snippet](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
             + [Clonar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/clone-a-snippet.md)
             + [Crear un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
             + [Eliminar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/delete-a-snippet.md)
             + [Editar recortes con contenido dinámico](product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md)
-            + [Vista previa de un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+            + [Preview a Snippet](product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
             + [Desaprobar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
    + Contenido predictivo {#predictive-content}
       + [El resumen del contenido predictivo](product-docs/predictive-content/the-predictive-content-summary.md)
-      + [Definir una lista inteligente para actividades de contenido predictivo](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+      + [Define a Smart List for Predictive Content Activities](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Información general de Predictive Content Analytics](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + Introducción {#getting-started}
          + [Configuración de objetivo de algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
@@ -1436,7 +1441,7 @@ ht-degree: 2%
          + [Aprobar un título para contenido predictivo](product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
          + [Eliminar contenido](product-docs/predictive-content/working-with-all-content/delete-content.md)
          + [Editar contenido](product-docs/predictive-content/working-with-all-content/edit-content.md)
-         + [Desaprobar un título para contenido predictivo](product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
+         + [Unapprove a Title for Predictive Content](product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
       + Habilitación del contenido predictivo {#enabling-predictive-content}
          + [Habilitar contenido predictivo para medios enriquecidos en la Web](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
          + [Habilitar contenido predictivo en correos electrónicos](product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)
@@ -1446,12 +1451,12 @@ ht-degree: 2%
          + [Editar contenido predictivo para correos electrónicos](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Editar contenido predictivo para medios enriquecidos](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Editar contenido predictivo para la barra de recomendaciones](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Informes {#reporting}
+   + Reporting {#reporting}
       + Informes básicos {#basic-reporting}
          + Creación de informes {#creating-reports}
-            + [Crear un informe en un programa](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
+            + [Create a Report in a Program](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
             + [Navegación por la página principal de Analytics](product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)
-            + [Actualizar informes](product-docs/reporting/basic-reporting/creating-reports/refresh-a-report.md)
+            + [Refresh a Report](product-docs/reporting/basic-reporting/creating-reports/refresh-a-report.md)
             + [Guardar un informe](product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
             + [Explicación de mis informes e informes de grupo](product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
          + Edición de informes {#editing-reports}
