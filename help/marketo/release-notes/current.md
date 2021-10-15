@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 ## Conexión de ventas {#sales-connect}
 
 ![(estrella)](assets/yellow-star.png)
-
-**Restricción de conexión de correo electrónico (GA)**: Mejore la capacidad de envío de correo electrónico y escale la comunicación de ventas personalizada con la regulación de la conexión de correo electrónico para Sales Connect. Esta innovadora tecnología administra automáticamente el tiempo de envío de correo electrónico para crear una experiencia perfecta para los usuarios de Exchange y Gmail. Reduzca o elimine el uso de las aplicaciones de envío masivo de correo electrónico de terceros y envíe todos sus correos electrónicos desde Sales Connect con confianza.
 
 **Perspectivas** de actividad de ventas mejoradas: Una nueva actividad de seguimiento de respuestas de correo electrónico, Correo electrónico de ventas respondido, rastrea las interacciones de los destinatarios con un correo electrónico que se sincroniza automáticamente con el Marketo Engage. Además, el atributo Fuente se ha actualizado de &quot;Tout&quot; a &quot;Aplicación de ventas&quot;. Esta actividad se puede exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y está disponible en filtros y déclencheur como restricciones adicionales para listas inteligentes, lo que amplía las opciones de personalización en campañas inteligentes.
 
