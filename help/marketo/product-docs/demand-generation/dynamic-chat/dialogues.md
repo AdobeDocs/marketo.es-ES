@@ -3,9 +3,9 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo, e
 1. Escriba 50 y haga clic en cualquier otra parte de la pantalla para guardar.
 
    ![](assets/dialogues-8.png)
+
+¡Y eso es todo!
 
 **Personas anónimas**
 
