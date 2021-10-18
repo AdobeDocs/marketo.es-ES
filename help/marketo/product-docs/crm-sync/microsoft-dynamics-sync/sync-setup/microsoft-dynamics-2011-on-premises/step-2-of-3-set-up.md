@@ -3,69 +3,74 @@ unique-page-id: 3571807
 description: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (2011 On-Premies) - Marketo Docs - Documentación del producto'
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local 2011)'
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: 5473e1a78769ba23e9c3a5926407cf42ef9685a0
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (2011 On-Premies) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
+# Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Bueno trabajo completando los pasos anteriores, sigamos adelante con esto.
 
 >[!PREREQUISITES]
-[Paso 1 de 3: Instalación de la solución Marketo (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)>
 >
+>[Paso 1 de 3: Instalación de la solución Marketo (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
 
 ## Asignar función de usuario de sincronización {#assign-sync-user-role}
 
 Asigne la función de usuario de sincronización de Marketo únicamente al usuario de sincronización de Marketo. No es necesario asignarlo a ningún otro usuario.
 
 >[!NOTE]
-Esto se aplica al complemento de Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketo, consulte [Actualización de la solución de Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>
+>Esto se aplica al complemento de Marketo versión 4.0.0.14 y posteriores. En versiones anteriores, todos los usuarios deben tener la función de sincronización de usuarios. Para actualizar Marketo, consulte [Actualización de la solución Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
-La configuración de idioma del usuario de sincronización [debe establecerse en inglés](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>
+>La configuración de idioma del usuario de sincronización [debe establecerse en inglés](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
 
-1. En el menú inferior izquierdo, seleccione **Settings**.
+1. En el menú inferior izquierdo, seleccione **Configuración**.
 
    ![](assets/image2015-4-2-14-3a2-3a40.png)
 
-1. En el árbol, seleccione **Administration**.
+1. En el árbol, seleccione **Administración**.
 
    ![](assets/image2015-4-2-14-3a3-3a30.png)
 
-1. Seleccione **Users**.
+1. Select **Usuarios**.
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. Aquí puede ver una lista de usuarios. Seleccione su usuario de sincronización de Marketo específico o póngase en contacto con su administrador de [Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) para crear un nuevo usuario dedicado a Marketo. Haga clic en **Administrar funciones**.
+1. Aquí puede ver una lista de usuarios. Seleccione el usuario de sincronización de Marketo o póngase en contacto con su [Servicios de federación de Active Directory (AFDS)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) para crear un nuevo usuario dedicado a Marketo. Haga clic en **Administrar funciones**.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
-1. Marque **Marketo Sync User** y haga clic en **OK**.
+1. Marque **Usuario de sincronización de Marketo** y haga clic en **OK**.
 
    ![](assets/image2015-4-2-14-3a15-3a0.png)
 
    >[!TIP]
-   Si no ve la función , vuelva al [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) e importe la solución.
+   >
+   >Si no ve la función , vuelva a [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) e importe la solución.
 
    >[!NOTE]
-   Cualquier actualización realizada en su CRM por el usuario de sincronización **no** se sincronizará de nuevo con Marketo.
+   >
+   >Cualquier actualización realizada en su CRM por el usuario de sincronización **not** se sincronizan de nuevo con Marketo.
 
-## Configurar la solución de Marketo {#configure-marketo-solution}
+## Configurar la solución Marketo {#configure-marketo-solution}
 
 ¡Casi terminado! Solo tenemos algunos últimos fragmentos de configuración antes de pasar al siguiente artículo.
 
-1. Seleccione **Settings**. A continuación, seleccione **Marketo Config** en el árbol.
+1. Select **Configuración**. A continuación, seleccione **Configuración de Marketo** en el árbol.
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
-   Si falta la configuración de Marketo, intente actualizar la página. Si el problema persiste, [vuelva a publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) o cierre la sesión y vuelva a iniciarla.
+   >
+   >Si falta la configuración de Marketo, intente actualizar la página. Si el problema persiste, [volver a publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md) o cierre la sesión y vuelva a iniciarla.
 
-1. Haga clic en **Default**.
+1. Haga clic en **Predeterminado**.
 
    ![](assets/image2015-4-2-14-3a27-3a30.png)
 
@@ -94,4 +99,5 @@ La configuración de idioma del usuario de sincronización [debe establecerse en
 ¡bueno trabajo!
 
 >[!MORELIKETHIS]
-[Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+>
+>[Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)

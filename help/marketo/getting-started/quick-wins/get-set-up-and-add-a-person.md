@@ -3,8 +3,7 @@ unique-page-id: 2359351
 description: 'Configurar y agregar una persona: documentos de Marketo: documentación del producto'
 title: Configurar y agregar una persona
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -17,7 +16,7 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 ## Paso 1: Inicio de sesión en Marketo {#step-log-in-to-marketo}
 
-1. [Inicie sesión en ](https://app.marketo.com) Marketing Cloud con las credenciales recibidas por correo electrónico.
+1. [Iniciar sesión en Marketo](https://app.marketo.com) utilizando las credenciales recibidas por correo electrónico.
 
    ![](assets/one.png)
 
@@ -25,11 +24,11 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 Creemos una carpeta para guardar todo lo que hagan en las misiones.
 
-1. Vaya al área **Marketing Activities** .
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/two.png)
 
-1. Haga clic en la lista desplegable **New** y seleccione **New Campaign Folder**.
+1. Haga clic en el **Nuevo** y seleccione **Nueva carpeta de campañas**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
@@ -45,11 +44,11 @@ Creemos una carpeta para guardar todo lo que hagan en las misiones.
 
 Añádese como persona en Marketo para poder enviarse correos electrónicos de prueba más tarde.
 
-1. Vaya al área **Database**.
+1. Vaya a la **Base de datos** .
 
    ![](assets/db.png)
 
-1. Haga clic en la lista desplegable **New** y seleccione **New Person**.
+1. Haga clic en el **Nuevo** y seleccione **Nueva persona**.
 
    ![](assets/seven.png)
 
@@ -61,11 +60,11 @@ Añádese como persona en Marketo para poder enviarse correos electrónicos de p
 
    ![](assets/nine.png)
 
-1. Haga clic en la pestaña **People**. Debería verse en la base de datos.
+1. Haga clic en el **People** pestaña . Debería verse en la base de datos.
 
    ![](assets/ten.png)
 
-## Configuración completa {#set-up-complete}
+## Configuración completada {#set-up-complete}
 
 ¡Estás listo para empezar tu primera misión!
 

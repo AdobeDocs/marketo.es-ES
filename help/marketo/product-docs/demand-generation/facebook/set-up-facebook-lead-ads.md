@@ -1,9 +1,9 @@
 ---
 unique-page-id: 11379622
-description: 'Configuración de anuncios de posibles clientes de Facebook: Documentos de Marketo: Documentación del producto'
+description: Configuración de Facebook Lead Ads - Marketo Docs - Documentación del producto
 title: Configuración de anuncios de posibles clientes de Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: eec4b6fb94ad7dd3b10376bdcdc2b558d1b90aed
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Configuración de anuncios de posibles clientes de Facebook {#set-up-facebook-lead-ads}
 
-Utilice [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para ejecutar campañas publicitarias en Facebook y generar posibles clientes para Marketo.
+Uso [Anuncios de posible cliente de facebook](https://www.facebook.com/business/a/lead-ads) para ejecutar campañas publicitarias en Facebook y generar posibles clientes para Marketo.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Utilice [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para e
 >
 >Para que se añadan los anuncios de posibles clientes de Facebook a su instancia, póngase en contacto con el administrador de éxito de los clientes.
 
-1. Vaya a Marketo **Admin**.
+1. Vaya a Marketo **Administrador**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -30,7 +30,7 @@ Utilice [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para e
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Introduzca un **Display Name** para el servicio, seleccione el servicio **Facebook Lead Ads** en la lista desplegable y haga clic en **Create**.
+1. Escriba un **Nombre para mostrar** para el servicio, seleccione la opción **Anuncios de posible cliente de facebook** del menú desplegable y haga clic en **Crear**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -62,7 +62,7 @@ Utilice [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) para e
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Para aceptar las asignaciones de campo predeterminadas de Facebook a Marketo, haga clic en **Crear**.
+1. Para aceptar las asignaciones de campo predeterminadas de Facebook a Marketo, simplemente haga clic en **Crear**.
 
    >[!TIP]
    >
