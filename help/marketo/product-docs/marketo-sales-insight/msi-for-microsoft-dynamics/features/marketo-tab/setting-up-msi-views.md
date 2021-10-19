@@ -3,9 +3,9 @@ description: 'Configuración de vistas MSI: documentos de Marketo: documentació
 title: Configuración de vistas MSI
 hide: true
 hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -14,30 +14,44 @@ ht-degree: 0%
 
 Al instalar el complemento de perspectiva de ventas en Dynamics, se añaden automáticamente las mejores apuestas y los paneles relacionados en el mapa del sitio. Si, por alguna razón, no se agregan los tableros, así es como se los agregan manualmente.
 
-1. Vaya a Configuración avanzada > Configuración > Personalizaciones > Personalizar el sistema.
+1. En Dynamics, haga clic en el icono de engranaje y seleccione **Configuración avanzada** en la lista desplegable .
 
-1. Seleccione Extensiones de cliente y, a continuación, haga clic en Mapa del sitio.
+1. En la parte superior izquierda de la pantalla, haga clic en **Configuración**. En Personalización, seleccione Personalizaciones.
 
-1. Se mueve a la derecha. Seleccione Marketo y Agregar subárea.
+1. Haga clic en **Personalizar el sistema**.
 
-1. A continuación, introduzca los valores en los campos de la siguiente manera y haga clic en Save.
+1. En el árbol de la izquierda, haga clic en **Extensiones de cliente** y doble clic **Mapa del sitio**.
 
-Mejor apuesta - URL de marketing_bestbets : Icono MainviewBestbets.html : /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg ID : título de marketing_bestbets : Mejores apuestas
+1. Haga clic en la flecha derecha para ir a la página siguiente. En Ventas, debería ver Marketo. Si no es así, asegúrese de que ha importado el paquete correctamente.
 
-## Mi panel de correo electrónico {#my-email-dashboard}
+   >[!NOTE]
+   >
+   >En Marketo debe tener: Mejores apuestas, Mi correo electrónico, Actividad web y Actividad web anónima. Si falta alguno de esos tableros, haga clic en el signo + situado encima de Ventas y agréguelos como una subzona.
 
-Siga las mismas instrucciones para llegar a Mapas del sitio y al Grupo de Marketo, tal como se describe anteriormente para Mejor apuesta.  En una nueva subárea para mi correo electrónico, debe introducirse lo siguiente.
+1. Haga clic en un tablero para seleccionarlo. En la columna de la derecha, introduzca la información correspondiente a continuación para cada una de ellas. Puede ignorar cualquier categoría que no aparezca en la lista.
 
-URL: mkt_/MainViewMyEmail.html Icono: /WebResources/mkt_/_MainView/_imgs/icons/email.svg ID: título de marketing_myemail:Mi correo electrónico
+   **Mejores apuestas**</br>
+URL: MainviewBestbets.html</br>
+Icono: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+ID: marketo_bestbets</br>
+Título: Mejores apuestas
 
-## Panel de actividades web {#web-activity-dashboard}
+   **Mi correo electrónico**</br>
+URL: mkt_/MainViewMyEmail.html</br>
+Icono: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+ID: marketing_myemail</br>
+Título: Mi correo electrónico
 
-Siga las mismas instrucciones para llegar a Mapas del sitio y al Grupo de Marketo, tal como se describe anteriormente para Mejor apuesta.  En un nuevo subárea para la actividad web, se debe introducir lo siguiente.
+   **Actividad web**</br>
+URL: mkt_/MainViewWebActivity.html</br>
+Icono: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+ID: marketo_webactivity</br>
+Título: Actividad web
 
-URL: mkt_/MainViewWebActivity.html Icono: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg ID: título de marketo_webactivity: Actividad web
+   **Actividad web anónima**</br>
+URL: mkt_/MainViewWebActivity.html</br>
+Icono: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+ID: marketo_anonymous_webactivity</br>
+Título: Actividad web anónima
 
-## Panel de actividades web anónimas {#anonymous-web-activity-dashboard}
-
-Siga las mismas instrucciones para llegar a Mapas del sitio y al Grupo de Marketo, tal como se describe anteriormente para Mejor apuesta.  En un nuevo subárea para la actividad web, se debe introducir lo siguiente.
-
-URL: mkt_/MainViewWebActivity.html Icono: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg ID: marketo_anonymous_webactivity Título: Actividad web anónima
+1. Haga clic en **Guardar** cuando haya terminado.
