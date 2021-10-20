@@ -2,31 +2,32 @@
 title: predictive-filters
 description: Filtros predictivos
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 0%
+source-wordcount: '302'
+ht-degree: 1%
 
 ---
 
 # Filtros predictivos
 
-<br> 
-
 Como parte de Predictive Audiences, Marketo ofrece un grupo de filtros basados en AI/ML en listas inteligentes.
 
 ![Imagen uno](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
+>[!NOTE]
+>
+>Los filtros &quot;Probable de asistir&quot; y &quot;Probable de registrarse&quot; solo pueden utilizarse en programas de Evento o Correo electrónico. &quot;Probabilidad de cancelar la suscripción&quot;, &quot;Parecido de miembros del programa&quot; y &quot;Parecido de miembros de listas inteligentes&quot; se pueden utilizar en todos los tipos de programas.
+
 ## Probabilidad de asistir
 
-Este filtro se utiliza para reducir la audiencia de forma eficaz. Esto le ayuda a dirigirse e invitar a posibles clientes que tengan una mayor probabilidad de **asistir** a su seminario web o evento. Tenga en cuenta que su &quot;[!UICONTROL Probabilidad de asistir al programa]&quot; será su programa de eventos actual.
+Este filtro se utiliza para reducir la audiencia de forma eficaz. Esto le ayuda a dirigirse a los posibles clientes con mayor probabilidad de **secundario** su seminario web o evento. Tenga en cuenta que su[!UICONTROL Probabilidad de asistir al programa]&quot; será su programa de eventos actual.
 
 ![Imagen dos](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilidad de registrarse
 
-De forma similar al filtro [!UICONTROL _Probabilidad de asistir_] , utilice este filtro para reducir la audiencia y dirigir a los posibles clientes que tengan más probabilidades de **registrarse** en el seminario web o evento.
+Similar a la variable [!UICONTROL _Probabilidad de asistir_] , utilice este filtro para reducir la audiencia y dirigir a los posibles clientes que tengan una mayor probabilidad de **registro** para su seminario web o evento.
 
 ![Imagen tres](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
@@ -44,7 +45,7 @@ Esto filtra la audiencia en función de si tienen una alta o baja probabilidad d
 
 Estos dos filtros le ayudan a ampliar la audiencia actual mediante la segmentación de posibles clientes adicionales que son similares a los miembros de otro programa o lista inteligente. Los filtros de búsqueda por igual consideran más de 50 factores, incluidos los atributos de posible cliente, la actividad de correo electrónico, la actividad web y la participación.
 
-Haga clic en **[!UICONTROL Agregar restricción]** para elegir los criterios de éxito para los miembros de los programas seleccionados.
+Haga clic en **[!UICONTROL Agregar restricción]** para elegir los criterios de éxito de los miembros de los programas seleccionados.
 
 Haga clic en el icono + situado junto a la lista desplegable del programa para añadir fácilmente varios programas o listas inteligentes a un filtro.
 

@@ -3,7 +3,7 @@ description: 'Configuración de vistas MSI: documentos de Marketo: documentació
 title: Configuración de vistas MSI
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Al instalar el complemento de perspectiva de ventas en Dynamics, se añaden auto
 
 1. En Dynamics, haga clic en el icono de engranaje y seleccione **Configuración avanzada** en la lista desplegable .
 
-1. En la parte superior izquierda de la pantalla, haga clic en **Configuración**. En Personalización, seleccione Personalizaciones.
+1. En la parte superior izquierda de la pantalla, haga clic en **Configuración**. En Personalización , elija **Personalizaciones**.
 
 1. Haga clic en **Personalizar el sistema**.
 

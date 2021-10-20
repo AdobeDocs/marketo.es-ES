@@ -1,9 +1,10 @@
 ---
 description: Déclencheur y filtros de actividades de ventas - Documentos de Marketo - Documentación del producto
 title: Déclencheur y filtros de actividades de ventas
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ Siga los pasos a continuación para aprender a utilizar los filtros y déclenche
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. En la pestaña **Smart List**, busque &quot;Conexión de ventas&quot;.
+1. En el **Lista inteligente** , busque &quot;Aplicaciones de ventas&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. Seleccione el déclencheur o filtro que desee.
+1. Seleccione y arrastre el filtro o déclencheur deseado.
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -32,4 +33,4 @@ Siga los pasos a continuación para aprender a utilizar los filtros y déclenche
 
 >[!NOTE]
 >
->Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestro [Glosario de actividades de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Para obtener una lista completa de actividades, restricciones y definiciones, consulte nuestra [Glosario de actividades de ventas](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

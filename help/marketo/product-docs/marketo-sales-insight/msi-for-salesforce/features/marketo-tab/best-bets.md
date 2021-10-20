@@ -1,26 +1,48 @@
 ---
-description: Mejores apuestas - Marketo Docs - Documentación del producto
+description: Mejoras - Documentos de Marketo - Documentación del producto
 title: Mejores apuestas
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Mejores apuestas {#best-bets}
 
 La pestaña Best Bets incluye una lista de todos los posibles clientes en función de su prioridad, calculada usando la urgencia y la puntuación relativa.
 
-Al hacer clic en el menú de datos debajo de la columna Acciones , puede utilizar opciones de participación como:
+**Opciones de filtro**
+
+Puede hacer clic en cada uno de los botones siguientes para ver las Mejores apuestas:
+
+* Posibles clientes: Puede ver Mejores apuestas para todos los posibles clientes asignados a usted en CRM
+* Contactos: Puede ver Mejores apuestas para todos los contactos asignados a usted en CRM
+* Contactos de la cuenta: Puede ver Mejores apuestas para todos los contactos que pertenecen a cuentas asignadas a usted en CRM, aunque el contacto en sí no esté asignado a usted
+* Contactos de oportunidad: Puede ver Mejores apuestas para todos los contactos que pertenecen a Oportunidades asignadas a usted en CRM, incluso si el contacto en sí no está asignado a usted
+
+**Aspectos a tener en cuenta**
+
+Los botones Posible cliente y Contacto están seleccionados de forma predeterminada. Puede seleccionar una o más opciones de filtro y tendrá que seleccionarse siempre como mínimo una de las cuatro opciones.
+
+No puede &quot;ocultar&quot; un posible cliente o contacto que no sea de su propiedad.
+
+**Participación en línea**
+
+Al hacer clic en el menú de datos situado debajo de la columna Acciones , puede llegar a un contacto o posible cliente específico mediante las siguientes opciones de participación:
 
 * Enviar correo electrónico de Marketo
 * Añadir a Marketo Campaign
 * Ver en Marketo
 * Agregar a la lista de observación
 
-También puede seleccionar varios posibles clientes en la pestaña Best Bets y elegir _Send Marketo Email_ o _Add to Marketo Campaign_.
+**Acciones masivas**
+
+Puede seleccionar uno o varios posibles clientes o contactos de la página Mejores apuestas mediante la casilla de verificación y ponerse en contacto con ellos como grupo mediante las siguientes opciones de participación:
+
+* Enviar correo electrónico de Marketo
+* Añadir a Marketo Campaign
+* Agregar a la lista de observación
 
 ![](assets/best-bets-1.png)
