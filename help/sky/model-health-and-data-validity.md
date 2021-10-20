@@ -2,9 +2,9 @@
 title: model-health-and-data-valid
 description: Estado del modelo y validez de los datos
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ El rendimiento de los modelos depende de la calidad y exhaustividad de los datos
 
 >[!NOTE]
 >
->Los comportamientos marcados como (+) influyen positivamente en las predicciones (y viceversa).
+>Los comportamientos marcados con (+) influyen positivamente en las predicciones (y viceversa).
 
 Así es como evaluar el estado de su modelo.
 

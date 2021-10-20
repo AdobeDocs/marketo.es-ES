@@ -2,10 +2,10 @@
 title: predictive-filters
 description: Filtros predictivos
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Como parte de Predictive Audiences, Marketo ofrece un grupo de filtros basados e
 
 ## Probabilidad de asistir
 
-Este filtro se utiliza para reducir la audiencia de forma eficaz. Esto le ayuda a dirigirse a los posibles clientes con mayor probabilidad de **secundario** su seminario web o evento. Tenga en cuenta que su[!UICONTROL Probabilidad de asistir al programa]&quot; será su programa de eventos actual.
+Este filtro se utiliza para reducir la audiencia de forma eficaz. Esto le ayuda a dirigirse a los posibles clientes con mayor probabilidad de **secundario** su seminario web o evento. Tenga en cuenta que la &quot;Probabilidad de asistir al programa&quot; será su programa de eventos actual.
 
 ![Imagen dos](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Probabilidad de registrarse
 
-Similar a la variable [!UICONTROL _Probabilidad de asistir_] , utilice este filtro para reducir la audiencia y dirigir a los posibles clientes que tengan una mayor probabilidad de **registro** para su seminario web o evento.
+Similar a la variable _Probabilidad de asistir_ , utilice este filtro para reducir la audiencia y dirigir a los posibles clientes que tengan una mayor probabilidad de **registro** para su seminario web o evento.
 
 ![Imagen tres](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
