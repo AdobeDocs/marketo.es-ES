@@ -3,7 +3,7 @@ description: 'Creación de una emisión: Marketo Docs: Documentación del produc
 title: Creación de un flujo
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Creación de un flujo {#create-a-stream}
 
-Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
+Hay _many_ combinaciones de flujo que puede crear. A continuación se muestra un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
 
-1. Después de [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), haga clic en la pestaña **Diseñador de flujo**.
+1. Tras [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), haga clic en **Diseñador de secuencias** pestaña .
 
    ![](assets/create-a-stream-1.png)
 
@@ -30,7 +30,7 @@ Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemp
    >
    >El valor de Poke se establece en activado de forma predeterminada, lo que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic en él para verlo.
 
-1. Introduzca sus respuestas de usuario y haga clic en **Save**.
+1. Introduzca sus respuestas de usuario y haga clic en **Guardar**.
 
    ![](assets/create-a-stream-4.png)
 
@@ -38,7 +38,7 @@ Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemp
 
    ![](assets/create-a-stream-5.png)
 
-1. En la columna de la derecha, haga clic en **Save**.
+1. En la columna de la derecha, haga clic en **Guardar**.
 
    ![](assets/create-a-stream-6.png)
 
@@ -54,7 +54,7 @@ Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemp
 
    ![](assets/create-a-stream-9.png)
 
-1. Introduzca su respuesta y añada opciones de respuesta para el visitante. Haga clic en **Guardar** cuando termine.
+1. Introduzca su respuesta y añada opciones de respuesta para el visitante. Haga clic en **Guardar** cuando haya terminado.
 
    ![](assets/create-a-stream-10.png)
 
@@ -66,7 +66,7 @@ Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemp
 
    ![](assets/create-a-stream-11.png)
 
-1. Haga clic en la lista desplegable **Type** y seleccione **Email**.
+1. Haga clic en el **Tipo** y seleccione **Correo electrónico**.
 
    ![](assets/create-a-stream-12.png)
 
@@ -105,17 +105,17 @@ Puede crear _muchas_ combinaciones de flujo. A continuación se muestra un ejemp
 
    ![](assets/create-a-stream-16.png)
 
-1. Introduzca el mensaje y haga clic en **Save**.
+1. Introduzca el mensaje y haga clic en **Guardar**.
 
    ![](assets/create-a-stream-17.png)
 
-1. Cuando desee activar el cuadro de diálogo, haga clic en **Publicar**.
+1. Cuando desee activar el cuadro de diálogo, haga clic en **Publicación**.
 
    ![](assets/create-a-stream-18.png)
 
 >[!NOTE]
 >
->Antes de hacer clic en Publicar, recuerde asegurarse de que ha [introducido las URL de destino](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Antes de hacer clic en Publicar, recuerde asegurarse de que ha [ha introducido las direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
