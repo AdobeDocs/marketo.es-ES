@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: 'Información general sobre las funciones del panel de perspectivas: Documentos de Marketo: Documentación del producto'
 title: Información general sobre las características del panel de perspectivas
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Obtenga más información sobre las funciones disponibles en su panel de perspec
 
 >[!PREREQUISITES]
 >
->Debe tener el último paquete MSI SFDC y la [configuración](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Debe tener el último paquete MSI SFDC y [configuración](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Pestaña Evento:
 * La barra de resumen semanal mostrará momentos interesantes, correo electrónico y actividad web para esa semana. Se puede hacer clic en cada icono, que puede utilizarse como filtros para mostrar una actividad específica
 * Vista predeterminada: Esta es una lista de actividades de la vista actual
 
-**Próximas campañas de correo electrónico y** eventosPestaña Campañas de correo electrónico:
+**Próximas campañas y eventos de correo electrónico** Pestaña Campañas de correo electrónico :
 
 * Incluye campañas que forman parte de programas de correo electrónico o programas predeterminados programados en los próximos 90 días
 * No es específico del contacto o posible cliente (es decir, la lista de campañas es una lista genérica de todas las campañas de correo electrónico programadas en la instancia de Marketo). La lista de campañas en todos los paneles de posibles clientes, contactos, cuentas y oportunidades será la misma
@@ -171,3 +171,7 @@ Pestaña Evento:
 * Al seleccionar todos los eventos, se mostrará la lista de eventos programados en los próximos 90 días
 * La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
 * El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
+
+>[!NOTE]
+>
+>Si su cuenta u oportunidad tiene más de 800 contactos, el panel no mostrará ningún dato. Sin embargo, puede ir a contactos individuales para ver sus perspectivas y participación. Si su cuenta tiene más de 800 contactos, se deshabilitará &quot;Mostrar actividad de nivel de cuenta&quot;.

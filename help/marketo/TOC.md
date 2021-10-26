@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
 source-wordcount: '7972'
 ht-degree: 2%
@@ -1308,6 +1308,7 @@ ht-degree: 2%
             + [Configuración de la perspectiva de ventas para su equipo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Funciones {#features}
             + [Información general de características de MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
+            + [Información general sobre las características del panel de perspectivas](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Acciones en el panel MSI {#actions-in-the-msi-panel}
                + [Agregar un posible cliente o contacto a una campaña de Marketo desde Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
                + [Configurar la cancelación de la suscripción de pies de página en Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
@@ -1318,7 +1319,6 @@ ht-degree: 2%
                + [Agregar la ficha Perspectiva de ventas de Marketo y los botones a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Acciones masivas en Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Enviar un correo electrónico a varios registros en Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [Información general sobre las características del panel de perspectivas](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Compatibilidad de idiomas {#language-support}
                + [Preparar la perspectiva de ventas para el soporte multilingüe en Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Ficha Marketo {#marketo-tab}
