@@ -3,18 +3,18 @@ description: 'Conexión de Dynamic Chat a Marketo: Marketo Docs: Documentación 
 title: Conexión de Dynamic Chat a Marketo
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 # Conexión de Dynamic Chat a Marketo {#connect-dynamic-chat-to-marketo}
 
-Una vez que haya completado la [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), es hora de realizar la sincronización de una sola vez que conecta Dynamic Chat con su suscripción a Marketo.
+Una vez que haya completado el [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), es hora de realizar la sincronización de una sola vez que conecta Dynamic Chat con su suscripción a Marketo.
 
-1. En Mi Marketo, haga clic en el mosaico **Dynamic Chat**.
+1. En Mi Marketo, haga clic en el botón **Chat dinámico** mosaico.
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
@@ -22,19 +22,41 @@ Una vez que haya completado la [configuración inicial](/help/marketo/product-do
    >
    >Si no ve el mosaico, póngase en contacto con el administrador de Marketo.
 
-1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le dirigirá directamente a Dynamic Chat. Si no es así, [configure su Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le dirigirá directamente a Dynamic Chat. Si no, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-1. Para conectar la instancia de Marketo, seleccione **Integrations**.
+1. Para conectar la instancia de Marketo, seleccione **Integraciones**.
 
    ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. En la tarjeta de Marketo, haga clic en **Iniciar sincronización**.
 
-   PICC (captura de pantalla cuando obtengo un sub nuevo)
+   ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
 >[!NOTE]
 >
->La sincronización puede tardar entre 5 y 8 horas en completarse, en función del tamaño de la base de datos. El tiempo medio de sincronización es de 60 minutos. VERIFICAR INTERVALO DE TIEMPO
+>La sincronización puede tardar entre 2 y 24 horas en completarse, en función del tamaño de la base de datos.
+
+## Vincular la organización de Adobe y Marketo {#link-your-adobe-org-and-marketo}
+
+A continuación, es hora de vincular Adobe y Marketo.
+
+1. Iniciar sesión en [experience.adobe.com](https://experience.adobe.com).
+
+1. Copie el ID de organización desde la esquina inferior derecha de la página principal, _menos_ el &quot;@AdobeOrg.&quot;
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+1. En Marketo, vaya a la **Administrador** y seleccione **Asignación de organización de Adobe**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
+1. Haga clic en **Editar**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+
+1. Pegue el identificador de organización que ha copiado en el paso 2 y haga clic en **OK**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 >[!MORELIKETHIS]
 >

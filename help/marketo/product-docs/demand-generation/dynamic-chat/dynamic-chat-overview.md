@@ -3,9 +3,9 @@ description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Do
 title: Información general de conversación dinámica
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse ta
 
 ## Integraciones {#integrations}
 
-Un componente clave de la conversación dinámica es su capacidad para interactuar de forma nativa con su suscripción a Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos de la sincronización inicial [única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) pueden tardar hasta 24 horas en completarse. El tiempo promedio de sincronización es inferior a dos horas.
+Un componente clave de la conversación dinámica es su capacidad para interactuar de forma nativa con su suscripción a Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) para completar.
 
 Se sincroniza lo siguiente:
 
@@ -30,11 +30,11 @@ Se sincroniza lo siguiente:
 
 ## Cuadros de diálogo {#dialogues}
 
-Los cuadros de diálogo representan una sola participación en el chat. Piense en ello como un contenedor con todas las cosas que necesita para tener un diálogo de chat atractivo para los visitantes de su sitio web. En cada cuadro de diálogo, puede especificar en qué páginas desea que aparezca el cuadro de diálogo, a quién desea que se muestre, y el contenido y el flujo del propio cuadro de diálogo. Además, puede encontrar métricas para ver el rendimiento del cuadro de diálogo. [Obtenga más información sobre los cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Los cuadros de diálogo representan una sola participación en el chat. Piense en ello como un contenedor con todas las cosas que necesita para tener un diálogo de chat atractivo para los visitantes de su sitio web. En cada cuadro de diálogo, puede especificar en qué páginas desea que aparezca el cuadro de diálogo, a quién desea que se muestre, y el contenido y el flujo del propio cuadro de diálogo. Además, puede encontrar métricas para ver el rendimiento del cuadro de diálogo. [Más información sobre los cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Configuración {#configuration}
 
-En la pestaña Configuración , personalice el aspecto de los distintos cuadros de diálogo. Cambie la fuente, los colores, el tiempo de respuesta y mucho más. [Obtenga más información sobre Configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
+En la pestaña Configuración , personalice el aspecto de los distintos cuadros de diálogo. Cambie la fuente, los colores, el tiempo de respuesta y mucho más. [Más información sobre la configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
 
 ## Calendario {#calendar}
 
@@ -58,7 +58,7 @@ No, solo utiliza respuestas predeterminadas.
 
 **¿Cómo puedo orientarme hacia personas anónimas?**
 
-En el cuadro de diálogo, debe utilizar el atributo _Person Email is Empty_.
+En el cuadro de diálogo, debe utilizar la variable _El correo electrónico de la persona está vacío_ atributo.
 
 **¿Admite la funcionalidad AI/NLP?**
 
