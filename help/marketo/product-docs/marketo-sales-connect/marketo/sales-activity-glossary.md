@@ -2,10 +2,10 @@
 description: Glosario de actividades de ventas - Documentos de Marketo - Documentación del producto
 title: Glosario de actividades de ventas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 6%
+source-wordcount: '510'
+ht-degree: 5%
 
 ---
 
@@ -283,7 +283,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Origen</strong></td> 
-   <td>Fuente de la actividad. Se establecerá como "Tout" para las actividades de Conexión de ventas.</td> 
+   <td>Fuente de la actividad. Se establecerá como "Tout" para las actividades de Conexión de ventas antes de la versión del 22 de enero. Será "Aplicación de ventas" para las actividades de Conexión de ventas después de la versión del 22 de enero.</td>
   </tr> 
   <tr> 
    <td><strong>Identificación de la plantilla</strong></td> 
