@@ -2,9 +2,9 @@
 description: Glosario de actividades de ventas - Documentos de Marketo - Documentación del producto
 title: Glosario de actividades de ventas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 5%
 
 ---
@@ -263,7 +263,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   </tr>
   <tr> 
    <td><strong>Asunto del correo electrónico de ventas</strong></td> 
-   <td>Línea de correo electrónico del asunto.</td> 
+   <td>Línea de asunto del correo electrónico seguida de un ID único (por ejemplo: Mi línea de asunto (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Número de teléfono de ventas llamado</strong></td> 
@@ -283,7 +283,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Origen</strong></td> 
-   <td>Fuente de la actividad. Se establecerá como "Tout" para las actividades de Conexión de ventas antes de la versión del 22 de enero. Será "Aplicación de ventas" para las actividades de Conexión de ventas después de la versión del 22 de enero.</td>
+   <td>Fuente de la actividad. Se establecerá como "Tout" para las actividades de Conexión de ventas antes de la versión del 21 de octubre. Será "Aplicación de ventas" para las actividades de Conexión de ventas después de la versión del 21 de octubre.</td>
   </tr> 
   <tr> 
    <td><strong>Identificación de la plantilla</strong></td> 
