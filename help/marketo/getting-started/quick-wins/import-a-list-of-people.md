@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: 'Importar una lista de personas: Marketo Docs: documentación del producto'
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -22,7 +22,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 ## Paso 1: Descargar y editar una hoja de cálculo {#step-download-and-edit-a-spreadsheet}
 
-1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) en su equipo.
+1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) al equipo.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -34,51 +34,51 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
    >
    >Cualquier campo de fecha y hora que se importe se tratará como Hora central. Si tiene campos de fecha y hora en un huso horario diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
-1. Añada su propio nombre, apellido, dirección de correo electrónico y puesto de trabajo y, a continuación, guarde el archivo en su equipo.
+1. Añada su propio nombre, apellido, dirección de correo electrónico real (para que pueda recibir los correos electrónicos de formación que enviará en la próxima misión) y el puesto que ocupa. Guarde el archivo en el equipo.
 
    ![](assets/image2014-9-24-12-3a5-3a30.png)
 
->[!NOTE]
->
->Introduzca su dirección de correo electrónico real en el archivo CSV para que pueda recibir los correos electrónicos de alimentación que enviará en la próxima misión.
+   >[!CAUTION]
+   >
+   >Marketo sí **not** admiten direcciones de correo electrónico que contienen emojis.
 
 ## Paso 2: Crear un programa {#step-create-a-program}
 
-1. Vaya al área **Marketing Activities** .
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/ma-2.png)
 
-1. Seleccione la carpeta **Learning** y, a continuación, en **New** haga clic en **New Program**.
+1. Seleccione su **Aprendizaje** carpeta, luego debajo de **Nuevo** click **Nuevo programa**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **** Asigne un nombre al programa &quot;My Tradeshow Program&quot; y seleccione &quot;Event&quot; para el  **tipo** de programa.
+1. **Nombre** el programa &quot;My Tradeshow Program&quot; y seleccione &quot;Event&quot; para el **Tipo de programa**.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Seleccione **Tradeshow** para el **Channel** y haga clic en **Create**.
+1. Select **Programa comercial** para el **Canal** y haga clic en **Crear**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
 >[!NOTE]
 >
->Los programas de eventos se producen en fechas específicas. Obtenga más información sobre [**Events**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Los programas de eventos se producen en fechas específicas. Más información sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Paso 3: Importar la hoja de cálculo en Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. En **My Tradeshow Program**, haga clic en **New** y seleccione **New Local Asset**.
+1. En **Mi programa de exhibición comercial**, haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/seven-3.png)
 
-1. Haga clic en **List**.
+1. Haga clic en **Lista**.
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **** Asigne un nombre a la lista &quot;Participantes en la feria comercial&quot; y haga clic en  **Crear**.
+1. **Nombre** la lista &quot;Asistentes a la feria comercial&quot; y haga clic en **Crear**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. En la lista **Ofertas de asistencia**, haga clic en **Acciones de lista** y seleccione **Lista de importación**.
+1. En su **Asistentes a la feria comercial** lista, haga clic en **Acciones de lista** y seleccione **Lista de importación**.
 
    ![](assets/ten-2.png)
 
@@ -90,13 +90,13 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
    >
    >El límite de tamaño para los archivos CSV es de 100 MB.
 
-1. **** Vaya al archivo  **trade-show-atendees.** csvhoja de cálculo de su equipo y haga clic en  **Next**.
+1. **Examinar** a **discursos-asistentes.csv** en el equipo y haga clic en **Siguiente**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >En el modo de importación de lista, elegir **Omitir nuevas personas y actualizaciones** significa que no afectará a los registros de personas existentes ni registrará ninguna actividad. Utilice este modo si desea una lista estática rápida y prefiltrada de personas existentes para utilizarla en sus actividades de marketing. Al seleccionar este modo:
+   >En el modo de importación de lista, elija **Omitir nuevas personas y actualizaciones** significa que no afectará a los registros de personas existentes ni registrará ninguna actividad. Utilice este modo si desea una lista estática rápida y prefiltrada de personas existentes para utilizarla en sus actividades de marketing. Al seleccionar este modo:
    >
    > * Omitir la creación de nuevas personas
    > * Omitir actualizaciones de campos de persona
@@ -113,9 +113,9 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    >[!NOTE]
    >
-   >Si hay campos que no desea importar, seleccione **Ignore** en el menú desplegable Campo de Marketo.
+   >Si hay campos que no desea importar, seleccione **Ignorar** en el menú desplegable Campo de Marketo .
 
-1. Seleccione **My Tradeshow Program** para el **Programa de adquisición** y haga clic en **Importar**.
+1. Select **Mi programa de exhibición comercial** para el **Programa de adquisición** y haga clic en **Importar**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -123,13 +123,13 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. De nuevo en **My Tradeshow Program**, haga clic en la pestaña **Members**. Verán a todas las personas que acaban de importar.
+1. Volver **Mi programa de exhibición comercial**, haga clic en **Miembros** pestaña . Verán a todas las personas que acaban de importar.
 
    ![](assets/fifteen-1.png)
 
 >[!NOTE]
 >
->Puede analizar el éxito del programa realizando un seguimiento de la pertenencia a este. Obtenga más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Puede analizar el éxito del programa realizando un seguimiento de la pertenencia a este. Más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Misión finalizada {#mission-complete}
 
