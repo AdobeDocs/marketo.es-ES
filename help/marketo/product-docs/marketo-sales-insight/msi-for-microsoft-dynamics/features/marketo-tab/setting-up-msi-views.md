@@ -1,9 +1,7 @@
 ---
 description: 'Configuración de vistas MSI: documentos de Marketo: documentación del producto'
 title: Configuración de vistas MSI
-hide: true
-hidefromtoc: true
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 8227648ce67bf0f9f8b3b2fea7445850d8e154d5
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
