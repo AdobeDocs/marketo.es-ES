@@ -2,9 +2,9 @@
 description: Mejoras - Documentos de Marketo - Documentación del producto
 title: Mejores apuestas
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -46,3 +46,7 @@ Puede seleccionar uno o varios posibles clientes o contactos de la página Mejor
 * Agregar a la lista de observación
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>Un contacto/posible cliente debe estar en la partición Default para poder agregarse a la lista Watchlist.
