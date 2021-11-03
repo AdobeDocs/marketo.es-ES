@@ -1,9 +1,7 @@
 ---
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,35 +18,33 @@ El conmutador permite cambiar entre la interfaz clásica de Marketo y la nueva e
 
 ## Vista de lista de páginas de aterrizaje {#landing-page-list-view}
 
-En Marketo, seleccione **Design Studio**.
+La vista de lista de la página de aterrizaje de próxima generación ofrece filtros de búsqueda y la capacidad de realizar acciones masivas de la página de aterrizaje.
 
-![](assets/toggle-switch-1.png)
+1. En Marketo, seleccione **Design Studio**.
 
-Select **Páginas de aterrizaje**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. Select **Páginas de aterrizaje**.
 
-En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+
+   ![](assets/toggle-switch-3.png)
 
 Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->La nueva vista de lista de páginas de aterrizaje ofrece filtros de búsqueda y la capacidad de realizar acciones masivas de página de aterrizaje.
-
 ## Página Detalles del formulario {#form-details-page}
 
-En Marketo, busque y seleccione el formulario.
+1. En Marketo, busque y seleccione el formulario.
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 Se cargará la nueva experiencia.
 
@@ -58,10 +54,10 @@ Se cargará la nueva experiencia.
 
 Tiene la opción de activar la interfaz de próxima generación de Marketo para todas las funciones disponibles, actuales y futuras.
 
-En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
+1. En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
+1. Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)
