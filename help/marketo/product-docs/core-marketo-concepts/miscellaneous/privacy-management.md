@@ -1,9 +1,9 @@
 ---
 description: 'Administración de privacidad: documentos de Marketo: documentación del producto'
 title: Administración de privacidad
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Para facilitarle la preparación de la privacidad, el Marketo Engage le permite 
 * La variable **Derecho de acceso** es el derecho del sujeto de datos a obtener del controlador de datos la confirmación de si se están procesando o no datos relacionados con su persona, dónde y con qué propósito. El responsable del tratamiento de datos facilitará gratuitamente una copia de los datos personales en formato electrónico.
 * También conocido como eliminación de datos, la variable **Derecho al olvido** (solicitud de eliminación) autoriza al sujeto de datos a hacer que el controlador de datos borre sus datos personales, interrumpa la diseminación de los datos y la posibilidad de que terceros interrumpan el procesamiento de los datos.
 
-Para obtener información sobre cómo crear solicitudes de acceso y eliminación y cómo las procesamos, consulte la [pasos de implementación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Para obtener información sobre cómo crear solicitudes de acceso/eliminación y cómo procesarlas, consulte [este artículo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

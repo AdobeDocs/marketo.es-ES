@@ -1,7 +1,7 @@
 ---
 description: Solicitudes de privacidad - Documentos de Marketo - Documentación del producto
 title: Solicitudes de privacidad
-source-git-commit: 17e68ea00647dbfd98fde94827eb300804944511
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -189,3 +189,7 @@ Respuesta JSON
   ]
 }
 ```
+
+>[!MORELIKETHIS]
+>
+>[Administración de privacidad](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
