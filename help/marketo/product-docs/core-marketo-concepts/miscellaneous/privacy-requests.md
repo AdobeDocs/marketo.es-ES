@@ -1,9 +1,9 @@
 ---
 description: Solicitudes de privacidad - Documentos de Marketo - Documentación del producto
 title: Solicitudes de privacidad
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 
 Este documento proporciona información general sobre la administración de solicitudes de privacidad de datos individuales que puede enviar al Marketo Engage a través de la interfaz de usuario del Privacy Service y la **API de Privacy Service**.
 
+>[!NOTE]
+>
+>Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para el Marketo Engage solo se aplican a aquellos que tienen las ediciones Marketo Engage + RT-CDP, B2B y B2P.
+
 Puede enviar solicitudes individuales para acceder a los datos de consumo y eliminarlos del Marketo Engage de dos maneras:
 
 * A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -19,13 +23,11 @@ Puede enviar solicitudes individuales para acceder a los datos de consumo y elim
 
 La variable [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) admite dos tipos de solicitudes: acceso a los datos y eliminación de datos.
 
-Nota: Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para el Marketo Engage solo se aplican a los clientes que tienen las ediciones Marketo Engage + RT-CDP, B2B y B2P.
-
 Veamos cómo se pueden crear solicitudes de acceso y eliminación.
 
 ## Configuración necesaria para enviar solicitudes de Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-Para realizar solicitudes de acceso y eliminación de datos para Marketo Engage, debe:
+Para realizar solicitudes de acceso y eliminación de datos para el Marketo Engage, debe:
 
 1. Identifique lo siguiente:
 
@@ -45,7 +47,6 @@ b. Dirección de correo electrónico de la persona en la que desea actuar
 
 &quot;usuarios&quot;:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (opcional)
 * &quot;acción&quot;: o **access** o **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
@@ -58,7 +59,7 @@ b. Dirección de correo electrónico de la persona en la que desea actuar
 
 &quot;regulación&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd** o **nzpa**  (que es la norma de privacidad que se aplica a la solicitud)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** o **nzpa_nzl**  (que es la norma de privacidad que se aplica a la solicitud)
 
 ## Ejemplo 1: Solicitud de eliminación de RGPD {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ Solicitud JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ Respuesta JSON
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ Solicitud JSON
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ Respuesta JSON
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
