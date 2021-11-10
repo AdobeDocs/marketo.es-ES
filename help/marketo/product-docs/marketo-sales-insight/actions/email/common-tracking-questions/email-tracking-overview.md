@@ -3,10 +3,10 @@ description: Información general sobre el seguimiento de correo electrónico - 
 title: Información general sobre el seguimiento de correo electrónico
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,14 @@ Si Sales Connect no puede rastrear la respuesta del cliente potencial a su corre
 
 Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y responde con kevinf@flynnsarcade.com, podemos rastrear la respuesta. Además, si envía un correo electrónico a flynn@flynnsarcade.com y a CC alan@encom.com, y Alan le reescribe, también detectará la respuesta y finalizará la campaña.
 
-## Cómo funciona el seguimiento de respuestas {#how-reply-tracking-works}
+## Cómo rastrear los archivos adjuntos de correo electrónico {#how-to-track-your-email-attachments}
 
 texto
 
-## Cómo rastrear los archivos adjuntos de correo electrónico {#how-to-track-your-email-attachments}
+## Cómo funciona el seguimiento de vista {#how-view-tracking-works}
 
+texto
+
+## Probar correo electrónico no mostrado como visto {#test-email-not-showed-as-viewed}
+
+texto
