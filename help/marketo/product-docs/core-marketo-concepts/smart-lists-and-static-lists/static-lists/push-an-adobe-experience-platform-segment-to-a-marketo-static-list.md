@@ -1,11 +1,10 @@
 ---
 description: 'Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo: Marketo Docs: documentación del producto'
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -42,7 +41,6 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
 1. Haga clic en **Configurar nuevo destino**.
 
-   PICC
 
 1. En Tipo de cuenta, haga clic en la **Nueva cuenta** botón de opción. Introduzca sus credenciales de Marketo y haga clic en **Conectarse al destino**.
 
