@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 2%
 
 ---
@@ -720,7 +720,7 @@ ht-degree: 2%
          + [Reemplazar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Buscar imágenes y archivos cargados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Cargar imágenes y archivos desde el cuadro](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + páginas de destino {#landing-pages}
+      + Páginas de destino {#landing-pages}
          + Explicación de las páginas de aterrizaje {#understanding-landing-pages}
             + [Aprobar, desaprobar o eliminar una página de aterrizaje](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe de rendimiento de la página de aterrizaje](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -1269,6 +1269,25 @@ ht-degree: 2%
             + [Mis campos dinámicos no se rellenan](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Hacer referencia a sí mismo en un campo dinámico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Perspectiva de ventas de Marketo {#marketo-sales-insight}
+      + Acciones {#actions}
+         + Administración {#admin}
+            + [Dominios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Bloqueo de contenido](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Crear un equipo](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Configuración del seguimiento de dominio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [Invitar usuarios y administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Configuración de uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + Correo electrónico {#email}
+            + Centro de comandos {#command-center}
+               + [Información general de búsqueda avanzada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [Asignación de tareas a integrantes del equipo](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Información general del centro de comandos](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [Columnas de correo electrónico y diseño de página de correo electrónico](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [Acciones rápidas en el centro de comandos](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + Configuración de correo electrónico {#email-settings}
+            + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Enviar un correo electrónico de ventas {#send-a-sales-email}
+            + [Información general sobre el seguimiento de correo electrónico](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + Uso de MSI {#using-msi}
          + [Registrar correo entrante desde sus posibles clientes en Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Complemento de MSI Chrome {#msi-chrome-plugin}

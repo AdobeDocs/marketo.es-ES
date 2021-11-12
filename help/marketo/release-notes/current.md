@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '1119'
+source-wordcount: '1088'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ La versión del 21 de octubre incluye las siguientes funciones. Consulte la edic
 
 >[!AVAILABILITY]
 >
->Las funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_**
 
-Las siguientes funciones empezarán a lanzarse el **22 de octubre de 2021**, con una implementación por fases de todas las funciones durante la semana siguiente (a menos que se especifique lo contrario).
+Las siguientes funciones empezarán a lanzarse en **22 de octubre de 2021**, con una implementación por fases de todas las funciones durante la semana siguiente (a menos que se especifique lo contrario).
 
 ## Innovación impulsada por IA {#ai-driven-innovation}
 
@@ -51,30 +51,32 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 **Perspectiva de ventas para ventas de Microsoft Dynamics 365**
 
-**Mejoras** recomendadas: La pestaña Mejores apuestas de la Perspectiva de ventas proporciona a las ventas una vista en tiempo real de los contactos más activos y los posibles clientes priorizados por calidad y urgencia. Hemos agregado la capacidad de que los representantes de ventas realicen acciones, como: revise la puntuación de una persona, envíe un correo electrónico o añada perspectivas a campañas de Marketo Engage designadas directamente desde la página Mejores apuestas, lo que aumenta la eficacia y acelera el tiempo de respuesta.
+**Mejoras recomendadas**: La pestaña Mejores apuestas de la Perspectiva de ventas proporciona a las ventas una vista en tiempo real de los contactos más activos y los posibles clientes priorizados por calidad y urgencia. Hemos agregado la capacidad de que los representantes de ventas realicen acciones, como: revise la puntuación de una persona, envíe un correo electrónico o añada perspectivas a campañas de Marketo Engage designadas directamente desde la página Mejores apuestas, lo que aumenta la eficacia y acelera el tiempo de respuesta.
 
-**Nuevo correo electrónico, actividad web, paneles** de actividad web anónimos: Hemos agregado los nuevos paneles de ventas para informar a los vendedores sobre las actividades web y correo electrónico más recientes de sus posibles clientes y contactos. Con la nueva capacidad de filtrado, los tableros ahora proporcionan información sobre las aperturas de correo electrónico, los clics y las visitas a la página web para obtener la lista completa de cuentas o una cuenta específica. El Marketo Engage realiza un seguimiento de toda la actividad web y proporciona a las ventas información crítica, convirtiendo el tráfico anónimo en posibles clientes. Los vendedores pueden personalizar la participación y convertir los posibles clientes en ventas más rápido, ya que están mejor informados sobre los comportamientos de los posibles clientes y actúan según la relevancia de todos los puntos de contacto.
+**Nuevos paneles de correo electrónico, actividad web y actividad web anónima**: Hemos agregado los nuevos paneles de ventas para informar a los vendedores sobre las actividades web y correo electrónico más recientes de sus posibles clientes y contactos. Con la nueva capacidad de filtrado, los tableros ahora proporcionan información sobre las aperturas de correo electrónico, los clics y las visitas a la página web para obtener la lista completa de cuentas o una cuenta específica. El Marketo Engage realiza un seguimiento de toda la actividad web y proporciona a las ventas información crítica, convirtiendo el tráfico anónimo en posibles clientes. Los vendedores pueden personalizar la participación y convertir los posibles clientes en ventas más rápido, ya que están mejor informados sobre los comportamientos de los posibles clientes y actúan según la relevancia de todos los puntos de contacto.
 
 **Perspectiva de ventas para Salesforce**
 
-**Mejores apuestas a nivel de cuenta y oportunidad**: Ahora, la perspectiva de ventas permite que los representantes de ventas revisen las mejores apuestas para todos los contactos de la cuenta o la oportunidad que poseen, incluso cuando el contacto está asignado a un miembro del equipo diferente. Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en base a una visión más holística de la cuenta o la oportunidad.
+**Mejores apuestas en el nivel de cuenta y oportunidad**: Ahora, la perspectiva de ventas permite que los representantes de ventas revisen las mejores apuestas para todos los contactos de la cuenta o la oportunidad que poseen, incluso cuando el contacto está asignado a un miembro del equipo diferente. Esto proporciona a los propietarios de cuentas y oportunidades una visibilidad completa de las actividades de los contactos relevantes y les ayuda a actuar en base a una visión más holística de la cuenta o la oportunidad.
 
 ## Conexión de ventas {#sales-connect}
 
 ![(estrella)](assets/yellow-star.png)
 
-**Perspectivas** de actividad de ventas mejoradas: Una nueva actividad de seguimiento de respuestas de correo electrónico, Correo electrónico de ventas respondido, rastrea las interacciones de los destinatarios con un correo electrónico que se sincroniza automáticamente con el Marketo Engage. Además, el atributo Fuente se ha actualizado de &quot;Tout&quot; a &quot;Aplicación de ventas&quot;. Esta actividad se puede exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y está disponible en filtros y déclencheur como restricciones adicionales para listas inteligentes, lo que amplía las opciones de personalización en campañas inteligentes.
+**Perspectivas de actividad de ventas mejoradas**: Una nueva actividad de seguimiento de respuestas de correo electrónico, Correo electrónico de ventas respondido, rastrea las interacciones de los destinatarios con un correo electrónico que se sincroniza automáticamente con el Marketo Engage. Además, el atributo Fuente se ha actualizado de &quot;Tout&quot; a &quot;Aplicación de ventas&quot;. Esta actividad se puede exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y está disponible en filtros y déclencheur como restricciones adicionales para listas inteligentes, lo que amplía las opciones de personalización en campañas inteligentes.
 
-**Experiencia** del usuario optimizada: Esta actualización introduce nuevas fuentes, colores, botones y modelos para Conexión de Ventas basados en el sistema de diseño Espectro de Adobe. Con estas actualizaciones, ofreceremos una experiencia más eficiente, donde los vendedores pueden centrarse en lo que se necesita, cuando se necesita.
+**Experiencia del usuario optimizada**: Esta actualización introduce nuevas fuentes, colores, botones y modelos para Conexión de Ventas que se basan en el sistema de diseño Espectro de Adobe. Con estas actualizaciones, ofreceremos una experiencia más eficiente, donde los vendedores pueden centrarse en lo que se necesita, cuando se necesita.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-**Integración Bizible con el Privacy Service de Adobe (GA)**: La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas de privacidad de datos críticas, como el RGPD (Reglamento General de Privacidad de Datos) o la CCPA (Ley de Privacidad del Consumidor de California) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada a través del Privacy Service del Adobe para que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
+**Integración de Bizible con el Privacy Service de Adobe (GA)**: La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas de privacidad de datos críticas, como el RGPD (Reglamento General de Privacidad de Datos) o la CCPA (Ley de Privacidad del Consumidor de California) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada a través del Privacy Service del Adobe para que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
 
 ## Anuncios {#announcements}
 
-**Actualización** de Associate Lead Deprecation/Munchkin Beta 161: El 7 de septiembre de 2021, la versión 161 de Munchkin empezó a implementarse en el 10% de las suscripciones con Munchkin Beta habilitado, seguido de 50% el 16 de septiembre y 100% el 30 de septiembre. Este cambio afecta a las páginas de aterrizaje de Marketo Engage y a la versión del archivo munchkin-beta.js servida a páginas de aterrizaje externas que se cargan desde suscripciones a las que se ha implementado la versión reciente. Esta versión desaprueba completamente el método Munchkin Associate Lead , que es una función que permite enviar los datos de una persona a una suscripción de Marketo Engage y el historial de navegación web asociado con un registro de persona conocida. Se está eliminando Asociar posible cliente para ofrecer alternativas más modernas y seguras, como la API de Forms JS, la API de envío de formulario y la API de REST de Asociar posible cliente. [Obtenga más información sobre esta desaprobación aquí](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Associate Lead Deprecation/Munchkin Beta 161 Update**: El 7 de septiembre de 2021, la versión 161 de Munchkin empezó a implementarse en el 10% de las suscripciones con Munchkin Beta habilitado, seguido de 50% el 16 de septiembre y 100% el 30 de septiembre. Este cambio afecta a las páginas de aterrizaje de Marketo Engage y a la versión del archivo munchkin-beta.js servida a páginas de aterrizaje externas que se cargan desde suscripciones a las que se ha implementado la versión reciente. Esta versión desaprueba completamente el método Munchkin Associate Lead , que es una función que permite enviar los datos de una persona a una suscripción de Marketo Engage y el historial de navegación web asociado con un registro de persona conocida. Se está eliminando Asociar posible cliente para ofrecer alternativas más modernas y seguras, como la API de Forms JS, la API de envío de formulario y la API de REST de Asociar posible cliente. [Obtenga más información sobre esta desaprobación aquí](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/October_Release_RegistrationPage.html) para unirse a nosotros el 28 de octubre de 2021, a las 9:00 AM PT / 12:00 PM ET para un seminario web en vivo con nuestro equipo de productos para profundizar en estas innovaciones.
+**_Seminario web sobre la versión del producto_**
+
+[Seminario web sobre la versión para Marketo Engage de octubre de 2021](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
