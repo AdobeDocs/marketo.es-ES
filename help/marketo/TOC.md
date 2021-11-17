@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
+source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8050'
 ht-degree: 2%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 2%
             + [Configuración del seguimiento de dominio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitar usuarios y administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Configuración de uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Detalles de acceso de usuario](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Correo electrónico {#email}
             + Centro de comandos {#command-center}
                + [Información general de búsqueda avanzada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
