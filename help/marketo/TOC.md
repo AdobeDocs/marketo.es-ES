@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '8057'
+source-wordcount: '8068'
 ht-degree: 2%
 
 ---
@@ -1288,12 +1288,16 @@ ht-degree: 2%
             + Cancela suscripción {#unsubscribes}
                + [Información general sobre la cancelación de la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personalizar mensaje para cancelar la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+               + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+               + [Sincronización de la cancelación de suscripciones con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + Configuración de correo electrónico {#email-settings}
             + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Enviar un correo electrónico de ventas {#send-a-sales-email}
             + [Información general sobre el seguimiento de correo electrónico](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
+         + Plantillas {#templates}
+            + [Administrar categorías de plantilla](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + Uso de MSI {#using-msi}
          + [Registrar correo entrante desde sus posibles clientes en Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + Complemento de MSI Chrome {#msi-chrome-plugin}

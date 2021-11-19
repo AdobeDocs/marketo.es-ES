@@ -3,9 +3,9 @@ description: 'Bloqueo de contenido: Documentos de Marketo: Documentación del pr
 title: Bloqueo de contenido
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Al habilitar el bloqueo de contenido, restrinja a los usuarios que no sean admin
 >
 >Los usuarios aún podrán editar el contenido de un correo electrónico en el momento del envío o al iniciar una campaña.
 
-1. En el [aplicación web](https://toutapp.com/login), haga clic en el icono del engranaje y seleccione **Configuración**.
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/content-lockdown-1.png)
 

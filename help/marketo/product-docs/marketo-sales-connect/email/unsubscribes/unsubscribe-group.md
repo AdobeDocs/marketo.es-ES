@@ -1,26 +1,25 @@
 ---
 unique-page-id: 14746167
-description: Cancelar la suscripción del grupo - Documentos de marketing - Documentación del producto
+description: Grupo de cancelación de la suscripción - Documentos de Marketo - Documentación del producto
 title: Cancelar suscripción de grupo
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
+# Cancelar suscripción de grupo {#unsubscribe-group}
 
-# Cancelar suscripción del grupo {#unsubscribe-group}
+Consulte y gestione todas las personas que han dejado de suscribirse en un solo lugar.
 
-Vea y gestione todas las personas que no están suscritas en un solo lugar.
+![](assets/-1.png)
 
-![](assets/1.png)
+Utilice la barra de búsqueda para buscar cualquier persona que haya dejado de suscribirse.
 
-Utilice la barra de búsqueda para buscar a cualquier persona que no esté suscrita.
+![](assets/-2.png)
 
-![](assets/2.png)
+Si es administrador, puede ir al grupo de cancelación de suscripción para filtrar por Cancelación de suscripción de cuenta y ver todas las cancelaciones de suscripción que se han recopilado en la base de datos de personas.
 
-Si es administrador, puede ir al grupo de cancelación de suscripción para filtrar por Cancelaciones de cuenta y ver todas las cancelaciones de suscripción que se han recopilado en la base de datos de personas.
-
-![](assets/3.png)
+![](assets/-3.png)
