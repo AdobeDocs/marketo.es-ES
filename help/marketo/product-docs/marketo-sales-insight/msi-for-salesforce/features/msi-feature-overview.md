@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Información general sobre las funciones de MSI - Documentos de Marketo - Documentación del producto
 title: Información general de características de MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '937'
 ht-degree: 4%
 
 ---
@@ -21,7 +21,7 @@ El panel de fuerza visual MSI incluye las siguientes funcionalidades:
 * Pestañas
 
    * [Panel de perspectivas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Momento interesante
+   * Momentos interesantes
    * Actividad web
    * Email
    * Puntuación
@@ -40,7 +40,7 @@ Páginas de fuerza visual:
 
 * Posible cliente: incluye la opción de hacer clic en &quot;Ir a la lista completa&quot;, se le enviará a una nueva pestaña en Salesforce donde el panel MSI será visible en un diseño de página completa
 * Lista completa de posibles clientes: no incluye la opción &quot;Ir a lista completa&quot;
-* Lead Mobile: visible en la aplicación móvil de Salesforce
+* Móvil de posible cliente: visible en la aplicación móvil de Salesforce
 * Puente de contacto de posible cliente : muestra el panel MSI del contacto que ha agregado en el campo ID de contacto MSI
 
 Campos:
@@ -168,7 +168,7 @@ Salesforce Classic: Agregue a la lista de observación, Añadir a Marketo Campai
    * Tipo de momento interesante (web, correo electrónico o hito) y descripción
    * Nombre de la cuenta
    * Momento en que ocurrió este momento interesante
-   * Suscribirse opción para recibir una notificación por correo electrónico para este tipo de evento
+   * Opción Suscribirse para recibir una notificación por correo electrónico para este tipo de evento
    * Icono de alta prioridad para mostrar que esta persona es una apuesta recomendada
 
 ## Ficha Configuración de la perspectiva de ventas de Marketo {#marketo-sales-insight-configuration-tab}
@@ -195,4 +195,7 @@ Marketo Sales Insight se almacena por idioma. Por lo tanto, si desea que funcion
 
 >[!NOTE]
 >
->Un contacto/posible cliente debe estar en la partición Default para poder agregarse a la lista Watchlist.
+>* Un contacto/posible cliente debe estar en la partición Default para poder agregarse a la lista Watchlist.
+>
+>* El paquete MSI Salesforce no admite la vista personalizada con campos dependientes.
+

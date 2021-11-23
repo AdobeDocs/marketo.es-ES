@@ -3,9 +3,9 @@ description: Información general del centro de comandos - Documentos de Marketo
 title: Información general del centro de comandos
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ El Centro de comandos es una vista única y unificada que le ayuda a determinar 
 
 La sección de correo electrónico del Centro de comandos es donde puede administrar toda su actividad de correo electrónico. Piense en ello como su buzón de correo electrónico para revisar los correos electrónicos enviados desde Sales Connect. Administre sus correos electrónicos programados, vea quién ha interactuado con sus correos electrónicos, compruebe si hubo algún problema con sus correos electrónicos enviados y mucho más.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 La sección de correo electrónico le proporciona una vista de pájaro en todos sus correos electrónicos y simplifica su organización con pestañas principales y subpestañas que actúan como carpetas donde los correos electrónicos se almacenan automáticamente en función de su estado.
 
@@ -73,7 +73,7 @@ La sección de correo electrónico le proporciona una vista de pájaro en todos 
 
 La sección de tareas es una ventanilla única para administrar y completar tareas. Aquí puede administrar sus tareas sin problemas para aumentar su productividad y permanecer centrado en los elementos más relevantes.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Seguimiento con perspectivas comprometidas {#follow-up-with-engaged-prospects}
 
