@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '8068'
+source-wordcount: '8083'
 ht-degree: 2%
 
 ---
@@ -1278,6 +1278,10 @@ ht-degree: 2%
             + [Invitar usuarios y administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Configuración de uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Detalles de acceso de usuario](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + CRM {#crm}
+            + Integración de Salesforce {#salesforce-integration}
+               + [Conecte su cuenta de ventas de Marketo a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Configuración de sincronización de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + Correo electrónico {#email}
             + Centro de comandos {#command-center}
                + [Información general de búsqueda avanzada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1297,6 +1301,7 @@ ht-degree: 2%
          + Enviar un correo electrónico de ventas {#send-a-sales-email}
             + [Información general sobre el seguimiento de correo electrónico](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Plantillas {#templates}
+            + [Administrar plantillas](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Administrar categorías de plantilla](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + Uso de MSI {#using-msi}
          + [Registrar correo entrante desde sus posibles clientes en Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

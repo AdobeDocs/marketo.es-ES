@@ -3,9 +3,9 @@ description: 'Administrar plantillas: Documentos de Marketo: Documentación del 
 title: 'Administrar plantillas '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Escriba texto directamente en la plantilla o copie desde un editor de texto sin formato (por ejemplo, Bloc de notas o TextEdit). Copiar y pegar desde un editor de texto enriquecido (por ejemplo, MS Word) puede causar irregularidades en el formato.
+
+## Ver detalles de plantilla {#view-template-details}
+
+El área Detalles de la plantilla contiene varias fichas.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Plantilla</strong></td>
+  <td>Revisar y realizar ediciones, configurar criterios para convertir la plantilla en una plantilla recomendada, agregar notas</td>
+ </tr>
+ <tr>
+  <td><strong>Análisis</strong></td>
+  <td>Revise el análisis de participación para la plantilla. Realice una búsqueda filtrada.</td>
+ </tr>
+ <tr>
+  <td><strong>Emails</strong></td>
+  <td>Ver todos los correos electrónicos que se han enviado con esta plantilla. Realice una búsqueda filtrada.</td>
+ </tr>
+ <tr>
+  <td><strong>Campañas</strong></td>
+  <td>Ver en qué campañas se utiliza la plantilla.</td>
+ </tr>
+</table>
 
 ## Compartir una plantilla {#share-a-template}
 
@@ -92,9 +117,17 @@ En el **Ver** , puede elegir ver lo siguiente: todas las plantillas, las plantil
 
 Archive plantillas para mantener el contenido de ventas organizado y centrado sin perder datos de plantilla.
 
-Marque la casilla junto a una plantilla y haga clic en **Archivo**.
+1. Marque la casilla junto a la plantilla que desee archivar.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Haga clic en **Archivo**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Haga clic en **Archivo** para confirmar.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Siga los pasos a continuación para eliminar una plantilla.
 >
 >Al eliminar una plantilla, también se eliminarán TODOS los análisis y el seguimiento asociados a ella.
 
-1. Seleccione la plantilla que desee eliminar.
+1. Marque la casilla junto a la plantilla que desee eliminar.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Haga clic en el menú desplegable de la parte superior derecha y, a continuación, haga clic en **Eliminar**.
+1. Haga clic en **Eliminar**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Haga clic en **Eliminar** para confirmar.
 
-PICC
+   ![](assets/manage-templates-19.png)
