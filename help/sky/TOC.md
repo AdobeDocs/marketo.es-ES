@@ -2,8 +2,7 @@
 solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Documentación del producto'
 feature-set: Marketo Sky
-index: y
-source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
+source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 2%
@@ -15,7 +14,7 @@ ht-degree: 2%
 
 + [Página principal](home.md)
 + Introducción {#getting-started}
-   + [Características del Marketo Sky](marketo-sky-features.md)
+   + [Funciones del Marketo Sky](marketo-sky-features.md)
    + [Introducción](how-to-enable-roles-for-marketo-sky.md)
 + Programas de eventos {#event-programs}
    + [Configuración de un límite de eventos](setting-an-event-cap.md)
