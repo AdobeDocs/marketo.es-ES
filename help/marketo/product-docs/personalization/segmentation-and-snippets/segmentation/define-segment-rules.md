@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 'Definir reglas de segmentos: documentos de Marketo: documentación de producto'
 title: Definir reglas de segmentos
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ La definición de reglas de segmentos le permite categorizar a las personas en d
 
    >[!CAUTION]
    >
-   >Le aconsejamos _against_ el uso de campos Cuenta al definir reglas de segmentos, ya que puede causar problemas de registro de actividades.
+   >El comportamiento de registro de actividades de los campos Cuenta puede afectar a la calificación. Por lo tanto, no se recomienda el uso de campos Cuenta al definir reglas de segmento.
 
 1. Haga clic en el **Personas (borrador)** para ver las personas que pueden cumplir los requisitos para ser miembros de este segmento.
 

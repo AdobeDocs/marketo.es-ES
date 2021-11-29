@@ -3,9 +3,9 @@ description: 'Descripción general del canal de entrega: Documentos de Marketo: 
 title: Descripción general del canal de entrega
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Además, los proveedores SMTP de terceros ofrecen una gran cantidad de funciones
 Los servidores de ventas de Marketo solo están disponibles para algunos clientes de ToutApp heredados. Estos clientes verán los servidores de ventas de Marketo disponibles en su configuración de correo electrónico. Todos los clientes no heredados no verán las ventas de Marketo como una opción y deben conectar su cuenta de Gmail o Outlook a las ventas de Marketo para desbloquear un canal de envío.
 
 Los servidores de ventas de Marketo no admiten métodos de autenticación DKIM y SPF, lo que puede reducir la tasa de entrega. Debido a esto, recomendamos que todos los clientes se conecten a Gmail o Outlook para obtener la mejor capacidad de envío.
+
+## Servidores MSC (heredados) {#msc-servers-legacy}
+
+Los servidores MSC solo están disponibles para algunos clientes de ToutApp heredados. Estos clientes verán los servidores MSC disponibles en su configuración de correo electrónico. Todos los clientes no heredados no verán MSC como una opción y deben conectar su cuenta de Gmail o Outlook a Sales Connect para desbloquear un canal de envío.
+
+Los servidores MSC no admiten métodos de autenticación DKIM y SPF, lo que puede reducir la tasa de entrega. Debido a esto, recomendamos que todos los clientes se conecten a Gmail o Outlook para obtener la mejor capacidad de envío.
 
 ## Servidores Marketo {#marketo-servers}
 

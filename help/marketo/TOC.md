@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '8083'
+source-wordcount: '8097'
 ht-degree: 2%
 
 ---
@@ -1294,6 +1294,10 @@ ht-degree: 2%
                + [Personalizar mensaje para cancelar la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronización de la cancelación de suscripciones con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+         + Envío de correo electrónico {#email-delivery}
+            + [Descripción general del canal de entrega](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
+            + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
+            + [Configuración de un canal de envío personalizado](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
          + Configuración de correo electrónico {#email-settings}
             + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
