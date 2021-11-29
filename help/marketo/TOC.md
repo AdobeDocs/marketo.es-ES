@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 2%
@@ -1295,9 +1295,9 @@ ht-degree: 2%
                + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronización de la cancelación de suscripciones con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + Envío de correo electrónico {#email-delivery}
-            + [Descripción general del canal de entrega](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email-settings/delivery-channel-overview.md)
-            + [Configuración de un canal de envío personalizado](product-docs/marketo-sales-insight/actions/email-settings/setting-up-a-custom-delivery-channel.md)
+            + [Descripción general del canal de entrega](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
+            + [Configuración de un canal de envío personalizado](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Configuración de correo electrónico {#email-settings}
             + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
