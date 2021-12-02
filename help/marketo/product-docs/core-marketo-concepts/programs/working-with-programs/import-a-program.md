@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 'Importar un programa: Documentos de Marketo: Documentación del producto'
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
+source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -16,31 +16,31 @@ Un programa se puede importar de una suscripción a otra de Marketo. Por ejemplo
 
 ## Importar un programa {#import-a-program-1}
 
-1. Vaya a **Marketing Activities.**
+1. Vaya a **Actividades de marketing.**
 
    ![](assets/ma.png)
 
-1. Haga clic en la lista desplegable **New** . Seleccione **Importar programa**.
+1. Haga clic en **Nuevo** desplegable . Select **Importar programa**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de programa habilitado. Obtenga más información sobre [administración de funciones de usuario y permisos](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de programa habilitado. Más información sobre [administración de funciones y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Para conectar una cuenta de entorno limitado a su suscripción activa, póngase en contacto con [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Para conectar una cuenta de simulación de pruebas a su suscripción activa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Seleccione un Marketo **Subscription** y un programa para importar. Haga clic en **Siguiente**.
+1. Seleccionar un Marketo **Suscripción** y un programa para importar. Haga clic en **Siguiente**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Especifique una **Carpeta de campaña** para el programa importado. Haga clic en **Siguiente.**
+1. Especifique un **Carpeta de campaña** para el programa importado. Haga clic en **Siguiente.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Asegúrese de que la opción **Use default conflict** está seleccionada. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
+   >Asegúrese de **Usar conflicto predeterminado** está seleccionada. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
 
 1. Vista previa de detalles y **Importar** el programa.
 
@@ -69,13 +69,13 @@ La biblioteca de programas de Marketo contiene programas creados previamente y p
 1. **Ciclo de vida 2.** Utiliza la puntuación para mover una persona de nuevo a cualificado para el marketing.
 1. **Plantilla de correo electrónico móvil.** Una plantilla de correo electrónico adaptable probada con iPhone y Android. Algunas versiones de Android, MS Outlook, Exchange y aplicaciones de terceros como Gmail y Yahoo! Las aplicaciones móviles de correo no admiten el CSS necesario para las plantillas adaptables. Se recomienda probar antes de enviar correos electrónicos.
 1. **Apuestas para la importación de programas.** Programa Apuestas para aquellos que están probando la Biblioteca de Programas! Simplemente apruebe los correos electrónicos y la página de aterrizaje y active la campaña inteligente. A continuación, vea la página de aterrizaje aprobada, rellene el formulario y ¡se ha introducido!
-1. **Campañas Disponibles de Ventas.** Ofrece a sus representantes de ventas una forma de ejecutar campañas inteligentes de Marketo desde un panel de control de CRM.
+1. **Campañas Disponibles de Ventas.** Ofrece a sus representantes de ventas una forma de ejecutar campañas inteligentes de Marketo desde un panel en su CRM.
 1. **Puntuación - Spark Edition.** Puntuación demográfica y de comportamiento capturada en un único campo de puntuación. Incluye más de dos docenas de campañas relacionadas con la puntuación.
 1. **Puntuación: ediciones estándar y determinadas.** Puntuación demográfica y de comportamiento capturada en campos de puntuación independientes. Incluye más de dos docenas de campañas relacionadas con la puntuación.
 1. **Sincronizar nuevas personas con CRM.** La campaña que sincroniza nuevas personas con su sistema CRM. Asigna un estado de persona de tal modo que se reconoce que no está listo para las ventas.
 1. **Seminario web con adaptador de eventos.** Un conjunto completo de correos electrónicos, como invitaciones y recordatorios, además de páginas de aterrizaje con formularios y campañas para trasladar personas a través del programa. Este programa obtiene actualizaciones sobre registro, asistencia, etc. de proveedores de eventos en línea como WebEx.
 1. **Seminario web sin adaptador de evento.** Igual que antes, pero con procesos manuales para registrar el registro, la asistencia, etc.
-1. **Programa** de Puntuación de Sirius decisions. Este programa está diseñado para apoyar el Modelo de Puntuación de Sirius decisions estándar, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed.
+1. **Programa de Puntuación de Sirius decisions**. Este programa está diseñado para apoyar el Modelo de Puntuación de Sirius decisions estándar, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed.
 
 >[!CAUTION]
 >
@@ -85,22 +85,20 @@ La biblioteca de programas de Marketo contiene programas creados previamente y p
 
 Los programas utilizan recursos externos como plantillas de correo electrónico, plantillas de página de aterrizaje, imágenes, formularios, tokens y etiquetas de programa. Tiene la capacidad de configurar cómo se gestionan las plantillas de página de aterrizaje y las etiquetas de programa, y Marketo administra automáticamente el resto.
 
-**Plantillas de correo electrónico:**  las plantillas de correo electrónico se importan y crean automáticamente a menos que exista una que tenga el mismo nombre.
+**Plantillas de página de correo electrónico/aterrizaje:** Las plantillas Correo electrónico/Página de aterrizaje se importan en Design Studio. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se anexará un número a una plantilla si existe uno con el mismo nombre. Por ejemplo, si ya tiene una plantilla denominada &quot;Plantilla estándar&quot;, la nueva se llamará &quot;Plantilla estándar 1&quot;.
 
-**Plantillas de página de aterrizaje:** las plantillas de página de aterrizaje se importan en el estudio de diseño. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se anexará un número a una plantilla de página de aterrizaje si existe una con el mismo nombre. Por ejemplo, se creará una plantilla de página de aterrizaje denominada Plantilla estándar 1 si existe una plantilla estándar.
+**Imágenes:** Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño, a menos que exista una que tenga el mismo nombre.
 
-**Imágenes:**  Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño, a menos que exista una que tenga el mismo nombre.
-
-**Tokens:** los tokens que residen fuera de un programa se convertirán en tokens locales durante el proceso de importación.
+**Tokens:** Los tokens que residen fuera de un programa se convertirán en tokens locales durante el proceso de importación.
 
 >[!CAUTION]
 >
->El tipo de imagen de mis tokens no es compatible con las importaciones de programas. Si se importa un programa que tiene un tipo de imagen, se producirán **no** tokens.
+>El tipo de imagen de mis tokens no es compatible con las importaciones de programas. Si se importa un programa que tiene un tipo de imagen, mis tokens, **no** tokens llegarán.
 
-**Etiquetas de programa:** puede usar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede ignorar las etiquetas.
+**Etiquetas del programa:** Puede utilizar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede ignorar las etiquetas.
 
-**Forms:** los formularios externos se importarán automáticamente en el estudio de diseño, a menos que exista uno con el mismo nombre.
+**Forms:** Los formularios externos se importarán automáticamente en el estudio de diseño, a menos que exista uno con el mismo nombre.
 
 >[!CAUTION]
 >
->Al importar un programa, se omitirán las páginas de aterrizaje o los correos electrónicos que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).
+>Al importar un programa, correos electrónicos/páginas de aterrizaje que contienen [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) se omitirá.
