@@ -3,9 +3,9 @@ description: Detalles de acceso del usuario - Documentos de Marketo - Documentac
 title: Detalles de acceso de usuario
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Los administradores pueden ver todas las personas en una campaña en ejecución.
 
 ![](assets/user-access-details-4.png)
 
-Se puede acceder a todos los registros de personas en el grupo Todos .
+Los administradores pueden ver campañas de usuarios y categorías de campañas con la lista desplegable Ver como .
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ Los administradores pueden detener las campañas en nombre de los usuarios.
    * Los usuarios solo pueden explorar en profundidad los equipos a los que pertenecen
    * Los usuarios pueden ver sus propios análisis
 
-* Página Relaciones:
+* Página Personas:
 
    * Los usuarios pueden compartir grupos con todos
    * Los usuarios pueden compartir grupos solo con los equipos a los que pertenecen
+   * Los usuarios tendrán visibilidad para todas las personas de la base de datos de Acciones
    * Cuando se elimina un usuario, sus contactos compartidos transfieren la propiedad al administrador maestro que eliminó al usuario
-
-* Beat de ventas - Siguiente y Fuente activa:
-
-   * Los usuarios pueden ver la vista &quot;todos&quot;
-   * Los usuarios pueden filtrar por los equipos a los que pertenecen
-   * El usuario puede compartir publicaciones con todos
-   * Los usuarios pueden compartir anuncios solo con los equipos a los que pertenecen
 
 * Página Administración de equipos:
 
