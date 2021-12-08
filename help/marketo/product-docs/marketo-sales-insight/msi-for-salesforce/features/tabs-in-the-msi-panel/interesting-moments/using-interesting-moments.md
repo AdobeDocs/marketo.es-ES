@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 'Uso de momentos interesantes: Documentos de Marketo: Documentación del producto'
 title: Uso de momentos interesantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
 >[!AVAILABILITY]
 >
->Están disponibles para los clientes de Marketo Sales Insight y [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) únicamente.
+>Están disponibles para la Perspectiva de ventas de Marketo y [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) solo clientes.
 
 ## ¿Qué es un momento interesante? {#what-is-an-interesting-moment}
 
@@ -28,21 +28,21 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
 ## ¿Cómo creo un momento interesante?  {#how-do-i-create-an-interesting-moment}
 
-1. Elija una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferiblemente una que su equipo de ventas encontrará interesante si se activa.
+1. Elija un [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferiblemente uno de sus equipos de ventas encontraría interesante si se activara.
 
-   ![](assets/image2015-1-8-18-3a8-3a54.png)
+   ![](assets/using-interesting-moments-1.png)
 
-1. Arrastre el paso de flujo **Momentos interesantes**.
+1. Arrastre el ratón sobre la **Momentos interesantes** paso de flujo.
 
-   ![](assets/image2015-1-8-18-3a15-3a20.png)
+   ![](assets/using-interesting-moments-2.png)
 
-1. Seleccione un **tipo** (Correo electrónico, Milestone o Web).
+1. Seleccione un **type** (Correo electrónico, Milestone o Web).
 
-   ![](assets/image2015-1-8-18-3a17-3a16.png)
+   ![](assets/using-interesting-moments-3.png)
 
-1. Escriba un mensaje al equipo de ventas en el campo **Description** que explique por qué esta acción importa.
+1. Escriba un mensaje a su equipo de ventas en la **Descripción** campo que explica por qué esta acción importa.
 
-   ![](assets/image2015-1-8-18-3a18-3a23.png)
+   ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
 ## ¿Cómo puede esto ser aún más interesante?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Añádalos en el campo de descripción para proporcionar a su equipo de ventas información más específica, como la línea de asunto del correo electrónico que abrió el posible cliente o por quién lo envió. Compruebe qué tokens están disponibles para su uso en el glosario [Tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md).
+Tokens! Añádalos en el campo de descripción para proporcionar a su equipo de ventas información más específica, como la línea de asunto del correo electrónico que abrió el posible cliente o por quién lo envió. Consulte los tokens disponibles para usar en la [Tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) glosario.
 
 >[!TIP]
 >
@@ -60,16 +60,30 @@ Tokens! Añádalos en el campo de descripción para proporcionar a su equipo de 
 
 Los momentos interesantes se mostrarán en un [registro de actividades del posible cliente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
-![](assets/image2015-1-14-18-3a45-3a58.png)
+![](assets/using-interesting-moments-5.png)
 
 ## ¿Qué aspecto tiene un momento interesante en Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Una vez que haya [instalado la aplicación de perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), se mostrarán momentos interesantes en las páginas de posible cliente, contacto, cuenta o oportunidad. También aparecen en el panel Perspectiva de ventas de la Fuente de posibles clientes, Mejores apuestas y Lista de observación.
+Una vez que haya [se ha instalado la aplicación de perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), se mostrarán momentos interesantes en las páginas de posible cliente, contacto, cuenta o oportunidad. También aparecen en el panel Perspectiva de ventas de la Fuente de posibles clientes, Mejores apuestas y Lista de observación.
 
-![](assets/six.png)
+![](assets/using-interesting-moments-6.png)
 
 ## ¿Qué aspecto tiene un momento interesante en Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
 Después de instalar o actualizar Marketo Sales Insight para Salesforce1, se mostrarán momentos interesantes bajo los vínculos relacionados del posible cliente.
 
-![](assets/seven.png)
+![](assets/using-interesting-moments-7.png)
+
+## Suscripción a momentos interesantes {#subscribe-to-interesting-moments}
+
+Para suscribirse a un momento interesante, haga clic en el botón Suscribirse en la ficha Momento interesante o en la fuente de posibles clientes. Los pasos siguientes son los mismos para ambos.
+
+1. Haga clic en el icono Suscribirse . A continuación, se accede a la pestaña Email Subscribe .
+
+1. Puede elegir el tipo de alerta de correo electrónico que desea recibir en función de Nombre, Cuenta, Tipo o Descripción.
+
+1. Elija las direcciones de correo electrónico a las que desea enviar las alertas (miembros del equipo/usted)
+
+1. Haga clic en **Suscribirse**.
+
+![](assets/using-interesting-moments-8.png)
