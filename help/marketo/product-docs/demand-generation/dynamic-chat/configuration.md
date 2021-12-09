@@ -3,7 +3,8 @@ description: Configuración - Documentos de Marketo - Documentación del product
 title: Configuración
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 1%
@@ -14,7 +15,7 @@ ht-degree: 1%
 
 Aprenda a personalizar el aspecto de su ventana de diálogo de bots de chat.
 
-Para empezar, haga clic en **Configuration**.
+Para empezar, haga clic en **Configuración**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +29,7 @@ Existen varias opciones de personalización diferentes.
 
 Aquí es donde definirá el aspecto del bot de chat en el que se mostrarán sus diálogos, incluidos: colores, fuentes, ubicación del widget bot y el nombre/avatar del bot de chat.
 
-El color de cada categoría está determinado por un [valor de color hexadecimal](https://color.adobe.com/create/color-wheel) (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
+El color de cada categoría está determinado por una [valor de color hexadecimal](https://color.adobe.com/create/color-wheel) (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
 
 ![](assets/configuration-3.png)
 
@@ -48,7 +49,7 @@ Cuando haya terminado de realizar cambios, recuerde hacer clic en **Guardar**.
 
 ## Ficha Privacidad {#privacy-tab}
 
-Haga clic en la pestaña **Privacy** para añadir/editar la dirección URL de la política de privacidad del sitio (opcional).
+Haga clic en el **Privacidad** para añadir o editar la dirección URL de la política de privacidad del sitio (opcional).
 
 ![](assets/configuration-7.png)
 

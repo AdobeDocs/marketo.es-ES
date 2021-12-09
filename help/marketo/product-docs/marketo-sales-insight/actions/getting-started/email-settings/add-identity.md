@@ -3,7 +3,8 @@ description: Añadir identidad - Documentos de Marketo - Documentación del prod
 title: Añadir identidad
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Añadir identidad {#add-identity}
 
-Agregue una identidad cuando tenga varias direcciones de correo electrónico desde las que enviar.
+Add an identity when you have multiple email addresses to send from.
 
 1. Haga clic en el icono Configuración .
 
@@ -22,15 +23,15 @@ Agregue una identidad cuando tenga varias direcciones de correo electrónico des
 
    ![](assets/add-identity-2.png)
 
-1. Haga clic en **Añadir identidad**.
+1. Click **Add Identity**.
 
    ![](assets/add-identity-3.png)
 
-1. Introduzca la información (el correo electrónico y el nombre son campos obligatorios) y haga clic en **Crear**.
+1. Enter the information (email and name are required fields) and click **Create**.
 
    ![](assets/add-identity-4.png)
 
-1. A continuación, recibirá un correo electrónico de &quot;Verifique la dirección de correo electrónico&quot;. Para verificarlo, haga clic en **Comprobar dirección de correo electrónico**.
+1. You will then receive a &quot;Please Verify Email Address&quot; email. To verify, click **Verify Email Address**.
 
    ![](assets/add-identity-5.png)
 
@@ -38,7 +39,7 @@ Cuando envía un correo electrónico en ventas de Marketo y tiene varias identid
 
 >[!NOTE]
 >
->No hay límite en la cantidad de identidades de correo electrónico que puede configurar.
+>There is no limit to the amount of email identities you can set up.
 
 >[!MORELIKETHIS]
 >

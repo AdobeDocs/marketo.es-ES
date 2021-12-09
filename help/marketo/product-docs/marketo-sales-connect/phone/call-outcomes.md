@@ -3,9 +3,10 @@ description: Resultados de la llamada - Documentos de Marketo - Documentación d
 title: Llamar a resultados
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ Permita que sus equipos de ventas seleccionen resultados de llamadas al realizar
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. En Configuración de administración , seleccione **Marcador**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. Select **Habilitar resultados de llamada**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. Elija el requisito de resultado de llamada que desee.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## Crear resultados de llamada {#create-call-outcomes}
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. En Configuración de administración , seleccione **Marcador**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. Haga clic en **Administrar resultados de llamada**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. Introduzca el nombre del resultado de la llamada deseado en el campo de texto.
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. Haga clic en la lista desplegable Respondido y elija el tipo de resultado (en este ejemplo elegimos Respondido). A continuación, haga clic en **Agregar**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## Elegir un resultado de llamada {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Razones de la llamada de registro y resultados de la llamada a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Razones de la llamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+

@@ -3,7 +3,8 @@ description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del pro
 title: Cuadros de diálogo
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -16,11 +17,11 @@ Los diálogos son conversaciones individuales de chat. Aprenda a personalizarlos
 
 ## Crear un cuadro de diálogo nuevo {#create-a-new-dialogue}
 
-1. Haga clic en **Diálogos**.
+1. Haga clic en **Cuadros de diálogo**.
 
    ![](assets/dialogues-1.png)
 
-1. Haga clic en el botón **Create New**.
+1. Haga clic en el **Crear nuevo** botón.
 
    ![](assets/dialogues-2.png)
 
@@ -38,23 +39,23 @@ Al igual que las listas inteligentes de Marketo, los atributos de criterios de a
 
 **Personas conocidas**
 
-Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo, estamos dirigiéndonos a todas las **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
+Hay _many_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los objetivos **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
 
-1. Coja el atributo **Estado de la persona** y arrástrelo a la derecha.
+1. Tome el **Estado de la persona** y arrástrelo a la derecha.
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis establecido de forma predeterminada. En el campo Seleccionar valores , escriba CA (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+1. _Is_ está configurado de forma predeterminada. En el campo Seleccionar valores , escriba CA (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
    ![](assets/dialogues-5.png)
 
-1. Coja el atributo **Tamaño de la empresa** y arrástrelo hasta donde diga _arrastre y suelte un atributo aquí_.
+1. Tome el **Tamaño de la empresa** y arrástrela a donde dice _arrastre y suelte un atributo aquí_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >También puede elegir un atributo haciendo clic en su icono **+**.
+   >También puede elegir un atributo haciendo clic en su **+** icono.
 
 1. Haga clic en la lista desplegable de operadores y seleccione **Bueno que**.
 
@@ -68,17 +69,17 @@ Hay _muchas_ combinaciones de atributos entre las que elegir. En este ejemplo, e
 
 **Personas anónimas**
 
-Existe una manera fácil de dirigirse específicamente a personas que aún no están en su base de datos. En este ejemplo, estamos dirigiendo todos los **anónimos** ubicados en el área de Nueva York.
+Existe una manera fácil de dirigirse específicamente a personas que aún no están en su base de datos. En este ejemplo, estamos segmentando todos **personas anónimas** situado en el área de Nueva York.
 
-1. Coja el atributo **Personson Email** y arrástrelo a la derecha.
+1. Tome el **Correo electrónico de persona** y arrástrelo a la derecha.
 
    ![](assets/dialogues-9.png)
 
-1. Haga clic en la lista desplegable de operadores y seleccione **Is Empty**.
+1. Haga clic en la lista desplegable de operadores y seleccione **Está vacío**.
 
    ![](assets/dialogues-10.png)
 
-1. Coja el atributo **Estado preferido** y arrástrelo hasta el lugar donde dice _arrastre y suelte un atributo aquí_.
+1. Tome el **Estado afectado** y arrástrela a donde dice _arrastre y suelte un atributo aquí_.
 
    ![](assets/dialogues-11.png)
 
@@ -86,7 +87,7 @@ Existe una manera fácil de dirigirse específicamente a personas que aún no es
    >
    >Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena.
 
-1. __ Isis establecido de forma predeterminada. En el campo Seleccionar valores , escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+1. _Is_ está configurado de forma predeterminada. En el campo Seleccionar valores , escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Formatos aceptables:
 
 >[!NOTE]
 >
->El uso de un asterisco actúa como comodín global. Por lo tanto, `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en cada página del HTML de la carpeta siguiente (por ejemplo: en este caso, digamos que la carpeta es &quot;deportes&quot;, así que: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>El uso de un asterisco actúa como comodín global. So `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en todas las páginas del HTML en la carpeta siguiente (por ejemplo: en este caso, digamos que la carpeta es &quot;deportes&quot;, así que: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
 
 ## Diseñador de secuencias {#stream-designer}
 
@@ -133,7 +134,7 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
  </tr>
  <tr>
   <td><strong>Programador de citas</strong></td>
-  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">el siguiente agente en la línea</a>.</td>
+  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">el siguiente agente en línea</a>.</td>
  </tr>
  <tr>
   <td><strong>Objetivo</strong></td>
@@ -143,7 +144,7 @@ El diseñador de secuencias contiene diferentes tarjetas que puedes añadir para
 
 **Creación de un flujo**
 
-Existen _muchas_ combinaciones de flujo posibles. Veamos un ejemplo [en este artículo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Hay _many_ posibles combinaciones de flujo. Veamos un ejemplo [en este artículo](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Informes {#reports}
 

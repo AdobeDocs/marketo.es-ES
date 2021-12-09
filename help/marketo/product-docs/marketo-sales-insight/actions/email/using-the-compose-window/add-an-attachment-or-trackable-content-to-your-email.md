@@ -3,7 +3,8 @@ description: 'Añadir un archivo adjunto o contenido rastreable al correo electr
 title: Añadir un archivo adjunto o contenido rastreable al correo electrónico
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%

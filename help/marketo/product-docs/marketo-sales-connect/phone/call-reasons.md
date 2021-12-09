@@ -3,9 +3,10 @@ description: 'Motivos de la llamada: Documentos de Marketo: Documentación del p
 title: Razones de la llamada
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. En Configuración de administración , seleccione **Marcador**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Select **Habilitar motivos de llamada**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. Elegir en blanco
+1. Elija el requisito de motivo de llamada que desee.
 
-Seleccione &quot;Permitir que los usuarios completen llamadas sin seleccionar Razones de llamada&quot; si desea permitir que los usuarios completen una llamada sin necesidad de registrar una llamada o seleccione &quot;Requerir que los usuarios seleccionen Razones de llamada antes de iniciar llamadas&quot; para requerir
+   ![](assets/call-reasons-4.png)
 
 ## Motivo de la llamada de creación {#create-call}
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. En Configuración de administración , seleccione **Marcador**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Haga clic en **Administrar motivos de llamada**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Introduzca el nombre del motivo de llamada deseado en el campo de texto.
+1. Introduzca el nombre del motivo de la llamada deseado en el campo de texto y haga clic en **Agregar**.
 
-PICC
-
-1. Haga clic en **Agregar**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Seleccionar un motivo de llamada {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ Los motivos de una vez que se ha habilitado la llamada Los usuarios pueden selec
 
 1. Haga clic en el botón de llamada para iniciar el marcador.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Introduzca la información de llamada en el marcador .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Haga clic en llamar.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Seleccione el motivo de la llamada que mejor describe la llamada.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Finalice la llamada .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Registre la llamada .
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >

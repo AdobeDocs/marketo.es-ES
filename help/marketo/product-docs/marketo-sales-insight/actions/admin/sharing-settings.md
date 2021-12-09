@@ -3,7 +3,8 @@ description: Configuración de uso compartido - Documentos de Marketo - Document
 title: Configuración de uso compartido
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -16,7 +17,7 @@ Administre mejor las plantillas restringiendo lo que los usuarios pueden compart
 
 Cuando se crea la cuenta de Conexión de ventas por primera vez, la opción Configuración de uso compartido está activada. Esto da a los administradores de cuentas la oportunidad de crear y organizar las categorías de plantillas antes de abrir las puertas y permitir a los usuarios compartir contenido en las categorías de equipos.
 
-Cuando la opción Compartir configuración está activada, solo los administradores podrán compartir en las categorías a menos que se proporcionen privilegios de compartir a un equipo o a todos. Con Configuración de uso compartido desactivada, no hay restricciones y todos los usuarios pueden compartir en cualquier categoría de plantilla.
+Cuando la opción Compartir configuración está activada, solo los administradores podrán compartir en categorías a menos que se proporcionen privilegios de compartir a un equipo o a todos. Con Configuración de uso compartido desactivada, no hay restricciones y todos los usuarios pueden compartir en cualquier categoría de plantilla.
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 

@@ -3,7 +3,8 @@ description: Invitar usuarios y administradores - Documentos de Marketo - Docume
 title: Invitar usuarios y administradores
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -16,7 +17,7 @@ Añadir usuarios o administradores es rápido y fácil.
 
 ## Invitar usuarios {#invite-users}
 
-1. Haga clic en el icono del engranaje y seleccione **Settings**.
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/invite-users-and-admins-1.png)
 
@@ -24,15 +25,15 @@ Añadir usuarios o administradores es rápido y fácil.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Haga clic en el botón **Actions** y seleccione **Invitar usuarios**.
+1. Haga clic en el **Acciones** y seleccione **Invitar usuarios**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >También puede seleccionar **Invitar usuarios a través de CSV** si todos se encuentran en una hoja de cálculo.
+   >También puede seleccionar **Invitar usuarios a través de CSV** si los tiene todos enumerados en una hoja de cálculo.
 
-1. Introduzca las direcciones de correo electrónico de las personas a las que desee añadir y haga clic en **Invitar** (seleccionar un equipo al que agregarlas es opcional).
+1. Introduzca las direcciones de correo electrónico de las personas que desea añadir y haga clic en **Invitar** (es opcional seleccionar un equipo al que añadirlos).
 
    ![](assets/invite-users-and-admins-4.png)
 
@@ -52,7 +53,7 @@ Añadir usuarios o administradores es rápido y fácil.
 
 Siga estos pasos para convertir a un usuario existente en administrador.
 
-1. Haga clic en el icono del engranaje y seleccione **Settings**.
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/invite-users-and-admins-6.png)
 
@@ -60,7 +61,7 @@ Siga estos pasos para convertir a un usuario existente en administrador.
 
    ![](assets/invite-users-and-admins-7.png)
 
-1. Busque el usuario que desea crear un administrador, haga clic en la lista desplegable Función y seleccione **Administrador**.
+1. Busque el usuario que desea que sea administrador, haga clic en la lista desplegable Función y seleccione **Administrador**.
 
    ![](assets/invite-users-and-admins-8.png)
 
