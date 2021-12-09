@@ -4,9 +4,9 @@ title: Razones de la llamada
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ Los motivos de una vez que se ha habilitado la llamada Los usuarios pueden selec
 
 1. Haga clic en el botón de llamada para iniciar el marcador.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Introduzca la información de llamada en el marcador .
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Haga clic en llamar.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Seleccione el motivo de la llamada que mejor describe la llamada.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Finalice la llamada .
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Registre la llamada .
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
