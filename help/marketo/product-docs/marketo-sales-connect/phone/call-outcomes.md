@@ -4,9 +4,9 @@ title: Llamar a resultados
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ Una vez habilitados los resultados de la llamada. Los usuarios pueden selecciona
 
 1. Haga clic en el botón de llamada para iniciar el marcador.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Introduzca la información de llamada en el marcador .
+1. Introduzca la información de llamada en el marcador y haga clic en **La llamada**.
 
-PICC
-
-1. Haga clic en llamar.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Seleccione el resultado de la llamada que mejor describe la llamada.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. Finalice la llamada .
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Registre la llamada .
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
