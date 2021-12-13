@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
-source-wordcount: '8159'
+source-wordcount: '8174'
 ht-degree: 2%
 
 ---
@@ -1124,6 +1124,7 @@ ht-degree: 2%
             + [Uso de acciones masivas en Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Uso de acciones masivas en Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Integración de Salesforce {#salesforce-integration}
+            + [Configurar la personalización de detalles de actividad de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Conecte su cuenta de conexión de ventas a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Desconectar Salesforce De Su Cuenta De Conexión De Ventas](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Corrección de &quot;No se pudo autenticar la solicitud&quot; al conectarse a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1246,6 +1247,8 @@ ht-degree: 2%
          + [Compartir grabaciones de llamadas con su equipo](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [Configuración de consentimiento de dos partes](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + Tareas {#tasks}
+         + [Crear y asignar tareas recordatorias](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+         + [Sincronización de tareas de recordatorio con Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sincronización de tareas de conexión de ventas con Salesforce por primera vez](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Plantillas {#templates}
          + [Añadir la cancelación automática de suscripciones a una plantilla](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
