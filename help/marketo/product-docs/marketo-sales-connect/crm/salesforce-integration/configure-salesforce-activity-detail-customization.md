@@ -3,9 +3,10 @@ description: 'Configurar la personalización de detalles de actividad de Salesfo
 title: Configurar la personalización de detalles de actividad de Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: 137acd3ace0da73bcdfebcf7f4f2723bb03c7c39
+exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
+source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
