@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
 workflow-type: tm+mt
-source-wordcount: '8189'
+source-wordcount: '8195'
 ht-degree: 2%
 
 ---
@@ -667,7 +667,7 @@ ht-degree: 2%
          + [Comprobación de anuncios de posibles clientes de Facebook para la integración móvil con Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Explicación de las conversiones sin conexión de Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Uso de filtros y Déclencheur de anuncios de posibles clientes en una campaña inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Formularios {#forms}
+      + formularios {#forms}
          + Creación de un formulario {#creating-a-form}
             + [Crear un formulario](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Agregar un campo a un formulario](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -1287,6 +1287,7 @@ ht-degree: 2%
             + [Creación de un equipo](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Configuración del seguimiento de dominio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitar usuarios y administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Registro de atributos de actividad de ventas en Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
             + [Configuración de uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Detalles de acceso de usuario](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Campañas {#campaigns}
