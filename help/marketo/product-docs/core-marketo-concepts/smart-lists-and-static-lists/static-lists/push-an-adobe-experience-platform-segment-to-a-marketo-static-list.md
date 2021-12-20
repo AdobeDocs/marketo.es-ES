@@ -2,9 +2,9 @@
 description: 'Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo: Marketo Docs: documentación del producto'
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Los segmentos a listas estáticas son 1:1. Si elige varios segmentos aquí, tendrá que asignar cada segmento a una lista estática especificada en la pestaña Programación del segmento.
+   >Si elige varios segmentos aquí, tendrá que asignar cada segmento a una lista estática especificada en la pestaña Programación del segmento.
 
 1. Haga clic en **Añadir nueva asignación**.
 
