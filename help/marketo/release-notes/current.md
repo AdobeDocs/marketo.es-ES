@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,6 @@ Los clientes Marketo Engage que también utilizan Adobe Experience Platform (AEP
 
 * **Verificación de correo electrónico**: A partir de esta versión, las suscripciones de Marketo Engage empezarán a hacer que los usuarios que no sean API solo verifiquen las direcciones de correo electrónico. Los usuarios autenticados del servicio de directorio tendrán automáticamente sus correos electrónicos verificados cuando su suscripción esté habilitada con Verificación de correo electrónico. La verificación de correo electrónico para los usuarios que utilizan la función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; o los que tienen suscripciones que tienen un solo correo electrónico asociado a varios usuarios dentro de la suscripción se retrasará y coincidirá con la obsolescencia de la función en marzo.
 
-* **Iniciar sesión en el cuadro de diálogo Invitar a usuario**: En marzo, la función existente y opcional &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; quedará obsoleta. La función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; está anulada por la función de ID universal, que es necesaria para la próxima integración del sistema de Identity Management de Adobe y se habilitó en agosto de 2021 en todas las suscripciones. Como resultado de la desaprobación, el Marketo Engage aplicará todos los ID de usuario (inicios de sesión) para que coincidan con la dirección de correo electrónico del usuario y solo permitirá que un usuario se asocie por dirección de correo electrónico dentro de una suscripción.
+* **Iniciar sesión en el cuadro de diálogo Invitar a usuario**: En marzo, la función existente y opcional &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; quedará obsoleta. La función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; está anulada por la función de ID universal, que es necesaria para la próxima integración del sistema de Identity Management de Adobe y se habilitó en agosto de 2021 en todas las suscripciones. Como resultado de la desaprobación, el Marketo Engage aplicará solamente un usuario para que se asocie por dirección de correo electrónico dentro de una suscripción.
 
 **Dominios de Marketo Engage: configuración de perspectivas de ventas**: Para los dominios Marketo Engage que no tienen el certificado SSL aprovisionado y https://, las llamadas fallarán con un error de protocolo de enlace SSL. Por lo tanto, estos dominios van a quedar obsoletos. Como resultado, los usuarios de Sales Insight con una configuración anterior que señala a cualquiera de estos dominios pueden encontrar errores de llamadas del sistema en sus paneles Poder, Contacto, Cuenta, Oportunidad o Marketo Global. Le recomendamos que actualice su [configuración del Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) en Salesforce si se encuentra con este error. Solo es necesario actualizar las credenciales del Marketo Engage resaltadas en la sección &quot;Marketo Sales Insight Config&quot; del documento.
