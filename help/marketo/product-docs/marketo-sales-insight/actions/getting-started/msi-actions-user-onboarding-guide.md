@@ -1,11 +1,11 @@
 ---
-description: Guía de incorporación de acciones MSI - Documentos de Marketo - Documentación del producto
-title: Guía de incorporación de acciones MSI
+description: Guía de incorporación del usuario de acciones MSI - Documentos de Marketo - Documentación del producto
+title: Guía de incorporación del usuario de MSI Actions
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -22,15 +22,15 @@ Los nuevos usuarios deberán seguir los pasos a continuación.
 
 1. En el correo electrónico de bienvenida, haga clic en **Introducción**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-1.png)
 
 1. Haga clic en **Activar cuenta con Salesforce**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-2.png)
 
 1. Si ya ha iniciado sesión en su cuenta de Salesforce, se le dirigirá automáticamente a la siguiente pantalla. Si no ha iniciado sesión, hágalo ahora.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
@@ -38,31 +38,31 @@ PICC
 
 1. Haga clic en **Permitir**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-4.png)
 
 1. Haga clic en **Inicio**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-5.png)
 
 1. Haga clic en **Siguiente**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-6.png)
 
 1. Seleccione el cliente de correo electrónico que utiliza (Gmail o Outlook) y haga clic en **Siguiente**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-7.png)
 
 1. Introduzca su dirección de correo electrónico y haga clic en **Siguiente**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-8.png)
 
 1. Escriba la contraseña y haga clic en **Siguiente**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-9.png)
 
 1. Haga clic en **Continuar**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-10.png)
 
 >[!NOTE]
 >
@@ -70,24 +70,24 @@ PICC
 
 1. Verá el mensaje de éxito Configurar conexión de correo electrónico y, a continuación, se le enviará a la siguiente pantalla.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-11.png)
 
-1. Introduzca su firma personalizada (puede hacerlo más adelante si lo desea a través de su página de perfil).
+1. Introduzca su firma personalizada y haga clic en **Guardar** (si desea hacerlo más adelante a través de la página de perfil, haga clic en **Omitir**).
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-12.png)
 
 1. Haga clic en **Finalizar**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-13.png)
 
 1. Verá la opción para ver una introducción rápida a las acciones de ventas de Marketo. Haga clic en **Siguiente** para ver, o **No ahora** para guardar posteriormente.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-14.png)
 
 1. Cuando haya terminado con la visita, o si lo ha omitido, elija si iniciar sesión directamente en la aplicación web o en su cuenta de Salesforce, donde puede acceder a todas las funciones desde el panel MSI (en este ejemplo elegimos **Iniciar Salesforce**).
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-15.png)
 
 1. Dentro de Salesforce (Classic o Lightning), puede navegar a cualquier posible cliente, contacto, cuenta u oportunidad. Todas sus acciones de ventas estarán disponibles a través de la lista desplegable del panel MSI.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-16.png)
