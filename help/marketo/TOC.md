@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+source-git-commit: c1a51dba1e76d21367a95147ed82b0aa75d11022
 workflow-type: tm+mt
-source-wordcount: '8200'
+source-wordcount: '8205'
 ht-degree: 2%
 
 ---
@@ -1276,11 +1276,12 @@ ht-degree: 2%
    + Perspectiva de ventas de Marketo {#marketo-sales-insight}
       + Acciones {#actions}
          + Introducción {#getting-started}
+            + [Guía de incorporación del usuario de MSI Actions](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Cambiar la contraseña de ventas de Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + Configuración de correo electrónico {#email-settings}
                + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Añadir o actualizar la firma de correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Añadir identidad](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-            + [Cambiar la contraseña de ventas de Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + Administración {#admin}
             + [Dominios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Bloqueo de contenido](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
