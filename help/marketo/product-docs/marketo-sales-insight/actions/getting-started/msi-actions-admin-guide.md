@@ -3,9 +3,9 @@ description: Guía de administración de acciones MSI - Documentos de Marketo - 
 title: Guía de administración de MSI Actions
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. En Marketo, haga clic en **Administrador**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. Haga clic en **Perspectiva de ventas**, luego **Configuración de acciones**. Seleccione entre una lista de administradores de Marketo para invitar y haga clic en **Enviar invitación**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 El usuario recibirá un correo electrónico con los pasos para obtener acceso a la cuenta.
 
@@ -73,19 +73,19 @@ El usuario recibirá un correo electrónico con los pasos para obtener acceso a 
 
 1. En la cuenta de ventas de Marketo, haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. En Configuración de administración, haga clic en **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. En la pestaña Conexiones y personalizaciones , haga clic en **Connect**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. Haga clic en **OK**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se le pedirá que inicie sesión.
 
@@ -93,13 +93,15 @@ Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se l
 
 1. En la cuenta de ventas de Marketo, haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. En Configuración de administración, haga clic en **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. Haga clic en **connect**. La cuenta se conectará.
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## Iniciar sincronización de datos {#initiate-data-sync}
 
-1. En Marketo, haga clic en Administración.
+1. En Marketo, haga clic en **Administrador**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. Haga clic en Perspectiva de ventas y, a continuación, en Configuración de acciones.
+1. Haga clic en Perspectiva de ventas.
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. En la tarjeta de sincronización de campos de acción, haga clic en **Sincronización**.
+1. Haga clic en la ficha Configuración de acciones . En la tarjeta de sincronización de campos de acción, haga clic en **Sincronización**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. Verá una vista previa de los campos que se sincronizarán. Haga clic en **Iniciar sincronización**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Los registros de personas que existen en Marketo y Salesforce se sincronizarán con la cuenta de las aplicaciones de ventas de Marketo.
 
@@ -129,17 +131,19 @@ Los registros de personas que existen en Marketo y Salesforce se sincronizarán 
 
 1. En la cuenta de ventas de Marketo, haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. En Configuración de administración, seleccione **Administración de usuarios**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. Haga clic en **Acciones** y seleccione **Invitar usuarios**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. Introduzca las direcciones de correo electrónico y haga clic en **Invitar**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ Recibirá un mensaje de confirmación.
 
 1. En la cuenta de ventas de Marketo, haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. En Configuración de administración, seleccione **Administración de usuarios**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. Haga clic en **Acciones** y seleccione **Invitar usuarios a través de CSV**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. Busque el CSV en el equipo, selecciónelo y haga clic en **Siguiente**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. Confirme que los campos están asignados correctamente y haga clic en **Invitar**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 Recibirá un mensaje de confirmación una vez que se envíen las invitaciones.
 
