@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
+source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
 workflow-type: tm+mt
-source-wordcount: '8214'
+source-wordcount: '8208'
 ht-degree: 2%
 
 ---
@@ -142,10 +142,10 @@ ht-degree: 2%
          + [Añadir GoToWebinar como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Agregar una reunión web de nivel 3 como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Agregar código de seguimiento de Munchkin a su sitio web](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [Next Generation Munchkin Tracking FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + [Preguntas frecuentes sobre el seguimiento de Munchkin de próxima generación](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Añadir ON24 como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [Agregar ReadyTalk como un servicio de LaunchPoint](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
-         + [Add Single Sign-On to a Portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+         + [Agregar el inicio de sesión único a un portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Añadir WebEx como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Añadir un lugar de trabajo de Facebook como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Agregar zoom como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -265,9 +265,9 @@ ht-degree: 2%
          + [Permitir el acceso de los usuarios a un espacio de trabajo](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Asignar particiones de persona a espacios de trabajo](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [Asignación de Particiones de Persona con Reglas de Asignación](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
-         + [Change the Name of a Workspace](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
-         + [Create a New Workspace](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
-         + [Create a Person Partition](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+         + [Cambio del nombre de un espacio de trabajo](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
+         + [Crear un nuevo espacio de trabajo](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+         + [Crear una partición de persona](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
          + [Eliminar un espacio de trabajo](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
          + [Editar un espacio de trabajo](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Editar una partición de persona existente](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
@@ -497,10 +497,10 @@ ht-degree: 2%
                + [Personalización de momentos de Marketo](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
                + [Vista previa de un correo electrónico](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Envío de una muestra](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
-               + [Sharing a Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+               + [Uso compartido de un momento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Varios {#miscellaneous}
          + [Configuración de la integración de Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-         + [Create New Campaign Folder](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Crear nueva carpeta de campaña](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + [Importación de recursos con Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Glosario de métodos abreviados del teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Simulador para pruebas de Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
@@ -548,8 +548,7 @@ ht-degree: 2%
             + [Asignación de campos de Dynamics predeterminada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Sincronización de cuentas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics Sync: Sincronización de contactos](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-            + [Microsoft Dynamics Sync: Sincronización de entidades personalizadas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
-            + [Habilitar la sincronización para una entidad personalizada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
+            + [Habilitar la sincronización para una entidad personalizada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics Sync: Sincronización de campos](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
             + [Edición de campos para sincronizar antes de eliminarlos en Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
@@ -565,7 +564,7 @@ ht-degree: 2%
             + [Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Filtro de sincronización de Microsoft Dynamics: Combinar](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
             + [Filtro de sincronización de Microsoft Dynamics: Calificar](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
-            + [Set a Default Custom Field Prefix](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
+            + [Definir un prefijo de campo personalizado predeterminado](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registre una aplicación con Azure para adquirir su ID de cliente o ID de aplicación](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Eliminación de un posible cliente o contacto](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Sincronización de Salesforce {#salesforce-sync}
@@ -606,9 +605,9 @@ ht-degree: 2%
             + [Sincronización SFDC: Cola de posibles clientes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
             + [Sincronización SFDC: Sincronización de posibles clientes](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
             + [Sincronización SFDC: Combinación de un posible cliente/contacto/persona](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-            + [SFDC Sync: Opportunity Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+            + [Sincronización SFDC: Sincronización de oportunidades](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
          + [Agregar o eliminar valores de listas de reproducción](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-         + [Enable/Disable the Salesforce Sync](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Habilitar/deshabilitar la sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Acciones de Salesforce implícitas](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Iniciar sesión utilizando OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
          + [Errores de sincronización de Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
@@ -806,7 +805,7 @@ ht-degree: 2%
                + [Plantilla 9B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9b.md)
                + [Plantilla 9C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md)
                + [Plantilla 9D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md)
-               + [Template 9E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md)
+               + [Plantilla 9E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md)
                + [Plantilla 9F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9f.md)
                + [Plantilla 10A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10a.md)
                + [Plantilla 10B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10b.md)
@@ -915,16 +914,16 @@ ht-degree: 2%
             + [Déclencheur y filtros para actividades sociales](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Usar correos electrónicos en promociones sociales](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [Use LinkedIn Lead Gen Form Filters and Triggers in a Smart Campaign](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Uso de los filtros y Déclencheur de formulario de la Generación de posibles clientes de LinkedIn en una campaña inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Uso de códigos de promoción para el cumplimiento de ofertas](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Ver rendimiento social](product-docs/demand-generation/social/social-functions/view-social-performance.md)
          + Sorteos {#sweepstakes}
-            + [Create Sweepstakes](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+            + [Crear apuestas](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Personalizar estilos de apuestas](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Publicar una apuesta](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
-            + [Select Sweepstakes Winners](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
+            + [Seleccione los ganadores de apuestas](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing por correo electrónico {#email-marketing}
-      + Deliverability {#deliverability}
+      + Capacidad de entrega {#deliverability}
          + [Baja duradera](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Power Pack de capacidad de entrega de correo electrónico: Cómo importar una lista de elementos secundarios](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seedlist.md)
          + [Herramienta de entrega de correo electrónico](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
@@ -933,7 +932,7 @@ ht-degree: 2%
          + [Configuración de SPF y DKIM para su capacidad de entrega por correo electrónico](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
          + [Direcciones IP compartidas y dedicadas](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Información sobre la cancelación de la suscripción](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
-         + [Use Your Dedicated IP Addresses to Send Emails](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
+         + [Use sus direcciones IP dedicadas para enviar correos electrónicos](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
       + Nurturación de taladros {#drip-nurturing}
          + Creación de un programa de participación {#creating-an-engagement-program}
             + [Añadir un flujo](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1021,12 +1020,12 @@ ht-degree: 2%
             + [Deshacer en el editor de correo electrónico](product-docs/email-marketing/general/creating-an-email/undo-in-the-email-editor.md)
          + Editor de correo electrónico 2 {#email-editor-2}
             + [Añadir módulos al correo electrónico](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
-            + [Create an Email Template](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
+            + [Crear una plantilla de correo electrónico](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
             + [Editar elementos en un correo electrónico](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
             + [Información general del Editor de correo electrónico v2.0](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
-            + [Email Template Picker Overview](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
+            + [Información general del selector de plantillas de correo electrónico](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [Sintaxis de la plantilla de correo electrónico](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-            + [Transitioning to Email Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
+            + [Transición al Editor de correo electrónico 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + Funciones en el editor {#functions-in-the-editor}
             + [Enviar a un vínculo de amigo en correos electrónicos](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [Incluir un evento de calendario (.ics) en un mensaje de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
@@ -1034,28 +1033,28 @@ ht-degree: 2%
             + [Vista previa de un correo electrónico con contenido dinámico](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
             + [Enviar correos electrónicos del propietario del posible cliente](product-docs/email-marketing/general/functions-in-the-editor/send-emails-from-the-lead-owner.md)
             + [Uso de contenido dinámico en un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-            + [Add a Snippet to an Email](product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
-            + [Add a View as Web Page Link to an Email](product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)
-            + [Add Editable Sections to Email Templates v1.0](product-docs/email-marketing/general/functions-in-the-editor/add-editable-sections-to-email-templates-v1-0.md)
+            + [Añadir un fragmento de código a un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+            + [Agregar una vista como vínculo de página web a un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)
+            + [Agregar secciones editables a las plantillas de correo electrónico v1.0](product-docs/email-marketing/general/functions-in-the-editor/add-editable-sections-to-email-templates-v1-0.md)
             + [Agregar vínculos rastreados a un correo electrónico de texto](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Crear un archivo de Evento de calendario (.ics)](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
-            + [Disable Tracking for an Email Link](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
+            + [Desactivación del seguimiento de un vínculo de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
             + [Descargar el HTML de un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [Editar el HTML de un correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + Pruebas de correo electrónico: Champion-Challenger {#email-tests-champion-challenger}
                + [Añadir un campeón/Challenger de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
-               + [Champion/Challenger: Approve Your Email Test](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+               + [Campeón/Desafío: Aprobar la prueba de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
                + [Campeón/Desafío: Configurar alertas de informes](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
                + [Campeón/Desafío: Declarar campeón](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [Campeón/Desafío: Definir criterios de campeón](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [Campeón/Desafío: Descartar una prueba de correo electrónico](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
-               + [Champion/Challenger: From Address](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+               + [Campeón/Desafío: De la dirección](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
                + [Campeón/Desafío: Línea de asunto](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
                + [Campeón/Desafío: Correos electrónicos completos](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
          + Uso de tokens {#using-tokens}
             + [Añadir un token del sistema como vínculo en un correo electrónico](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
             + [Añadir un token de script de correo electrónico al correo electrónico](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
-            + [Add Tokens to an Email Link](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
+            + [Añadir tokens a un vínculo de correo electrónico](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
             + [Creación de un token de script de correo electrónico](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
             + [Glosario de tokens del sistema](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
             + [Usar el token de información de alerta de envío](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
@@ -1231,10 +1230,10 @@ ht-degree: 2%
             + [Cómo gestiona la conexión de ventas la desduplicación de correos electrónicos](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Importar contactos a través de CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Administrar grupos](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
-            + [People Page Columns](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
+            + [Columnas de la página Personas](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Teléfono {#phone}
          + [Las llamadas no se registran en Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
-         + [Call Outcomes](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [Llamar a resultados](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Razones de la llamada](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [No se registró en el historial de actividades](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [No se registró en Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
@@ -1693,20 +1692,20 @@ ht-degree: 2%
             + [Informes RTP personalizados en Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
             + [Integrar RTP con Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [Integración de RTP con Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
-            + [Integrate with Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + Understanding Web Personalization {#understanding-web-personalization}
-         + [Understanding Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+            + [Integración con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
+      + Explicación de la personalización web {#understanding-web-personalization}
+         + [Explicación de Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Glosario de personalización web](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Información general sobre la personalización web](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + Uso de plantillas {#using-templates}
          + [Guardar la campaña como plantilla](product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
-         + [Using Templates to Create Web Campaigns](product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
-      + Using Web Segments {#using-web-segments}
-         + [Create a Basic Web Segment](product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-         + [Create a Segment Using a Static List](product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)
-         + [Create a Segment Using Known Person Data](product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+         + [Uso de plantillas para crear campañas web](product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
+      + Uso de segmentos web {#using-web-segments}
+         + [Crear un segmento web básico](product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+         + [Creación de segmentos mediante una lista estática](product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)
+         + [Crear un segmento utilizando datos de personas conocidas](product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
          + [Buscar campañas web que usen un segmento específico](product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.md)
-         + [Label Your Segment](product-docs/web-personalization/using-web-segments/label-your-segment.md)
+         + [Etiquetado del segmento](product-docs/web-personalization/using-web-segments/label-your-segment.md)
          + [Administrar datos de personas](product-docs/web-personalization/using-web-segments/manage-person-data.md)
          + [Ver segmentos desde una etiqueta específica](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Segmentos web](product-docs/web-personalization/using-web-segments/web-segments.md)
