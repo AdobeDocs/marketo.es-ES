@@ -3,7 +3,7 @@ unique-page-id: 3571805
 description: 'Paso 1 de 3: Instalación de la solución Marketo (2011 On-Premies) - Documentos de Marketo: Documentación del producto'
 title: 'Paso 1 de 3: Instalación de la solución Marketo (local 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
+source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Para poder sincronizar Microsoft Dynamics On-Premies y Marketo, primero debe ins
 
 >[!MORELIKETHIS]
 >
->[Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up.md)
+>[Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

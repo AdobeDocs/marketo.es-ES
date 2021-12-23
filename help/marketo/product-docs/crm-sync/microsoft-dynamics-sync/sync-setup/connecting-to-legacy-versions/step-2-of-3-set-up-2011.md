@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (2011 On-Premies) - Marketo Docs - Documentación del producto'
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local 2011)'
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: d4461e1bb73b7494970b4fde30fe551d9a5775d2
+source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -100,4 +100,4 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
 >[!MORELIKETHIS]
 >
->[Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+>[Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
