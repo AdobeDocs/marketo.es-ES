@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 'Paso 2 de 3: Configuración del usuario de sincronización para Marketo (On-Premies 2013) - Documentos de Marketo: Documentación del producto'
 title: 'Paso 2 de 3: Configuración del usuario de sincronización para Marketo (local 2013)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
    >[!TIP]
    >
-   >Si no ve la función , vuelva a [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) e importe la solución.
+   >Si no ve la función , vuelva a [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) e importe la solución.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
    >[!NOTE]
    >
-   >If **Configuración de Marketo** falta, intente actualizar la página. Si el problema persiste, [publicar la solución Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) o intente cerrar la sesión y volver a iniciarla.
+   >If **Configuración de Marketo** falta, intente actualizar la página. Si el problema persiste, [publicar la solución Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) o intente cerrar la sesión y volver a iniciarla.
 
 1. Haga clic en **Predeterminado**.
 
@@ -96,4 +96,4 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
 >[!MORELIKETHIS]
 >
->[Paso 3 de 3: Conectar Marketo y Dynamics (local de 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[Paso 3 de 3: Conectar Marketo y Dynamics (local de 2013)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
