@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (2011 On-Premies) - Marketo Docs - Documentación del producto'
 title: 'Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local 2011)'
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: e55f3ea02c64410bab92a9123289bac6e859022a
+source-git-commit: d4461e1bb73b7494970b4fde30fe551d9a5775d2
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -55,7 +55,8 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
    >Si no ve la función , vuelva a [paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) e importe la solución.
 
    >[!NOTE]
-   Cualquier actualización realizada en su CRM por el usuario de sincronización **not** se sincronizan de nuevo con Marketo.
+   >
+   >Cualquier actualización realizada en su CRM por el usuario de sincronización **not** se sincronizan de nuevo con Marketo.
 
 ## Configurar la solución Marketo {#configure-marketo-solution}
 
@@ -66,7 +67,8 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
    >[!NOTE]
-   Si falta la configuración de Marketo, intente actualizar la página. Si el problema persiste, [volver a publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) o cierre la sesión y vuelva a iniciarla.
+   >
+   >Si falta la configuración de Marketo, intente actualizar la página. Si el problema persiste, [volver a publicar la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) o cierre la sesión y vuelva a iniciarla.
 
 1. Haga clic en **Predeterminado**.
 
@@ -97,4 +99,5 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 ¡bueno trabajo!
 
 >[!MORELIKETHIS]
-[Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+>
+>[Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
