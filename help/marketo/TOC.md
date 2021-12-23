@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
 workflow-type: tm+mt
-source-wordcount: '8206'
+source-wordcount: '8230'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 2%
       + [Redireccionar una página de aterrizaje](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizar una alerta para posibles personas duplicadas](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Heredar una instancia de Marketo {#inheriting-a-marketo-instance}
-      + [Ayuda! Heredé una instancia de Marketo existente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Ayuda! I&#39;ve Inherited an Existing Marketo Instance](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Elementos que desproteger](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Aspectos a revisar: Capacidades básicas](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Formas de obtener ayuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -222,8 +222,8 @@ ht-degree: 2%
          + [Agregar o eliminar un administrador de productos](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Agregar o eliminar un usuario](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + Configuración {#settings}
-         + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Cambiar la contraseña de Marketo](product-docs/administration/settings/change-your-marketo-password.md)
+         + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
+         + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
          + [Cambiar la configuración de seguridad de contraseña](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Creación de una ficha personalizada para la página de detalles de la persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Personalizar las direcciones URL de las páginas de aterrizaje con un CNAME (administración)](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
@@ -523,17 +523,10 @@ ht-degree: 2%
             + [Actualización de la solución de Marketo para Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validar Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Ver la URL del servicio de organización](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Conexión a versiones anteriores {#connecting-to-legacy-versions}
-               + [Paso 1 de 3: Instalación de la solución Marketo (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
-               + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
-               + [Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
-               + [Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (local 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
-               + [Paso 2 de 3: Configuración del usuario de sincronización para Marketo (locales de 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
-               + [Paso 3 de 3: Conectar Marketo y Dynamics (local de 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
-            + Microsoft Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
-               + [Paso 1 de 3: Instalación de la solución Marketo - On-Premies 2015 / 2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-               + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-               + [Paso 3 de 3: Conectar Marketo y Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+            + Microsoft Dynamics 2016/Dynamics 365 On-Premise  {#microsoft-dynamics-2016-dynamics-365-on-premises}
+               + [Paso 1 de 3: Instalación de la solución Marketo - On-Premies 2015 / 2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+               + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+               + [Paso 3 de 3: Conectar Marketo y Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [Paso 1 de 3: Instalación de la solución de Marketo (en línea)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
                + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
@@ -543,6 +536,16 @@ ht-degree: 2%
                + [Configuración de la aplicación Microsoft Dynamics CRM para en línea](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Configuración de la aplicación Microsoft Dynamics CRM para On-Premim](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [Configuración de MSD para Azure AD Federated con AD FS On-premim, inquilino y Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
+            + Conexión a versiones anteriores {#connecting-to-legacy-versions}
+               + [Paso 1 de 3: Instalación de la solución Marketo (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (local 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [Paso 2 de 3: Configuración del usuario de sincronización para Marketo (locales de 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Paso 3 de 3: Conectar Marketo y Dynamics (local de 2013)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
+               + [Paso 1 de 3: Instalación de la solución de Marketo en Dynamics (local 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+               + [Paso 2 de 3: Configuración del usuario de sincronización para Marketo (locales de 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+               + [Paso 3 de 3: Conectar Marketo y Dynamics (local de 2015)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
          + Detalles de sincronización de Microsoft Dynamics {#microsoft-dynamics-sync-details}
             + [Asignación de campos de Dynamics predeterminada](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Sincronización de cuentas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -701,8 +704,8 @@ ht-degree: 2%
          + Campos del formulario {#form-fields}
             + [Agregar un conjunto de campos a un formulario](product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
             + [Agregar texto de sugerencia a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)
-            + [Agregar instrucciones de información sobre herramientas a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
-            + [Aplicar máscara de entrada a un campo de un formulario](product-docs/demand-generation/forms/form-fields/apply-input-masking-to-a-field-in-a-form.md)
+            + [Add Tooltip Instructions to a Form Field](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
+            + [Apply Input Masking to a Field in a Form](product-docs/demand-generation/forms/form-fields/apply-input-masking-to-a-field-in-a-form.md)
             + [Eliminar un campo de un formulario](product-docs/demand-generation/forms/form-fields/delete-a-field-in-a-form.md)
             + [Deshabilitar el rellenado previo de un campo de formulario](product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)
             + [Alternar dinámicamente la visibilidad de un campo de formulario](product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
@@ -885,7 +888,7 @@ ht-degree: 2%
             + [Configurar el flujo recomendado por Social](product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)
             + [Configurar el flujo de registro/uso compartido de Social](product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)
             + [Configuración del seguimiento del flujo de progreso de una oferta de referencia](product-docs/demand-generation/social/configuring-social-actions/configure-track-progress-flow-for-a-referral-offer.md)
-            + [Configurar cuando se abra el botón Social](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
+            + [Configure When Social Button Opens](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [Botón Personalizar aplicación social](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
             + [Personalizar flujo de uso compartido de vídeo](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
             + [Configuración de la atribución de ingresos para campañas de publicidad digital](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
@@ -1122,7 +1125,7 @@ ht-degree: 2%
             + [Uso de acciones masivas en Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Uso de acciones masivas en Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Integración de Salesforce {#salesforce-integration}
-            + [Configurar la personalización de detalles de actividad de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
+            + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Conecte su cuenta de conexión de ventas a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Desconectar Salesforce De Su Cuenta De Conexión De Ventas](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Corrección de &quot;No se pudo autenticar la solicitud&quot; al conectarse a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1305,9 +1308,9 @@ ht-degree: 2%
                + [Columnas de correo electrónico y diseño de página de correo electrónico](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Acciones rápidas en el centro de comandos](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
             + Envío de correo electrónico {#email-delivery}
-               + [Descripción general del canal de entrega](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [Configurar un canal de entrega personalizado para su equipo](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+               + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Configuración de Salesforce {#salesforce-configuration}
                + [Configuración de acciones MSI en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1789,7 +1792,7 @@ ht-degree: 2%
          + [Notas de la versión: Junio de 2014](release-notes/previous-releases/2014/release-notes-june-2014.md)
          + [Notas de la versión: Marzo de 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [Notas de la versión: Mayo de 2014](release-notes/previous-releases/2014/release-notes-may-2014.md)
-         + [Notas de la versión: Octubre de 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
+         + [Release Notes: October 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
       + 2013 {#2013}
          + [Notas de la versión: Abril de 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [Notas de la versión: Agosto de 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
