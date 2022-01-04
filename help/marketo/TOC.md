@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: a3a212fac76d1a622b520edf531df6c52869978e
 workflow-type: tm+mt
-source-wordcount: '8230'
+source-wordcount: '8234'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 2%
       + [Redireccionar una página de aterrizaje](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Automatizar una alerta para posibles personas duplicadas](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Heredar una instancia de Marketo {#inheriting-a-marketo-instance}
-      + [Ayuda! I&#39;ve Inherited an Existing Marketo Instance](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Ayuda! Heredé una instancia de Marketo existente](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Elementos que desproteger](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Aspectos a revisar: Capacidades básicas](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Formas de obtener ayuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -222,8 +222,8 @@ ht-degree: 2%
          + [Agregar o eliminar un administrador de productos](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Agregar o eliminar un usuario](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + Configuración {#settings}
-         + [Change Attribution Settings for Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Change Your Marketo Password](product-docs/administration/settings/change-your-marketo-password.md)
+         + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
+         + [Cambiar la contraseña de Marketo](product-docs/administration/settings/change-your-marketo-password.md)
          + [Cambiar la configuración de seguridad de contraseña](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Creación de una ficha personalizada para la página de detalles de la persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Personalizar las direcciones URL de las páginas de aterrizaje con un CNAME (administración)](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
@@ -704,8 +704,8 @@ ht-degree: 2%
          + Campos del formulario {#form-fields}
             + [Agregar un conjunto de campos a un formulario](product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
             + [Agregar texto de sugerencia a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)
-            + [Add Tooltip Instructions to a Form Field](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
-            + [Apply Input Masking to a Field in a Form](product-docs/demand-generation/forms/form-fields/apply-input-masking-to-a-field-in-a-form.md)
+            + [Agregar instrucciones de información sobre herramientas a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
+            + [Aplicar máscara de entrada a un campo de un formulario](product-docs/demand-generation/forms/form-fields/apply-input-masking-to-a-field-in-a-form.md)
             + [Eliminar un campo de un formulario](product-docs/demand-generation/forms/form-fields/delete-a-field-in-a-form.md)
             + [Deshabilitar el rellenado previo de un campo de formulario](product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)
             + [Alternar dinámicamente la visibilidad de un campo de formulario](product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
@@ -888,7 +888,7 @@ ht-degree: 2%
             + [Configurar el flujo recomendado por Social](product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)
             + [Configurar el flujo de registro/uso compartido de Social](product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)
             + [Configuración del seguimiento del flujo de progreso de una oferta de referencia](product-docs/demand-generation/social/configuring-social-actions/configure-track-progress-flow-for-a-referral-offer.md)
-            + [Configure When Social Button Opens](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
+            + [Configurar cuando se abra el botón Social](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [Botón Personalizar aplicación social](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
             + [Personalizar flujo de uso compartido de vídeo](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
             + [Configuración de la atribución de ingresos para campañas de publicidad digital](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
@@ -1125,7 +1125,7 @@ ht-degree: 2%
             + [Uso de acciones masivas en Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Uso de acciones masivas en Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Integración de Salesforce {#salesforce-integration}
-            + [Configure Salesforce Activity Detail Customization](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
+            + [Configurar la personalización de detalles de actividad de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Conecte su cuenta de conexión de ventas a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Desconectar Salesforce De Su Cuenta De Conexión De Ventas](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Corrección de &quot;No se pudo autenticar la solicitud&quot; al conectarse a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1276,6 +1276,7 @@ ht-degree: 2%
             + [Hacer referencia a sí mismo en un campo dinámico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Perspectiva de ventas de Marketo {#marketo-sales-insight}
       + Acciones {#actions}
+         + [Información general sobre características de acciones MSI](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
          + Introducción {#getting-started}
             + [Guía de incorporación del usuario de MSI Actions](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [Guía de administración de MSI Actions](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
@@ -1308,13 +1309,9 @@ ht-degree: 2%
                + [Columnas de correo electrónico y diseño de página de correo electrónico](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Acciones rápidas en el centro de comandos](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
             + Envío de correo electrónico {#email-delivery}
-               + [Delivery Channel Overview](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Descripción general del canal de entrega](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [Set up a Custom Delivery Channel for Your Team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Configuración de Salesforce {#salesforce-configuration}
-               + [Configuración de acciones MSI en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
-               + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Desinstalación del paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+               + [Configurar un canal de entrega personalizado para su equipo](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Cancela suscripción {#unsubscribes}
                + [Información general sobre la cancelación de la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personalizar mensaje para cancelar la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1326,6 +1323,10 @@ ht-degree: 2%
                + [Opciones de correo electrónico masivo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Redacción de correos electrónicos masivos con Select y Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Envío de correos electrónicos a través del correo electrónico del grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+         + Configuración de Salesforce {#salesforce-configuration}
+            + [Configuración de acciones MSI en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+            + [Desinstalación del paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Enviar un correo electrónico de ventas {#send-a-sales-email}
@@ -1792,7 +1793,7 @@ ht-degree: 2%
          + [Notas de la versión: Junio de 2014](release-notes/previous-releases/2014/release-notes-june-2014.md)
          + [Notas de la versión: Marzo de 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [Notas de la versión: Mayo de 2014](release-notes/previous-releases/2014/release-notes-may-2014.md)
-         + [Release Notes: October 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
+         + [Notas de la versión: Octubre de 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
       + 2013 {#2013}
          + [Notas de la versión: Abril de 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [Notas de la versión: Agosto de 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
