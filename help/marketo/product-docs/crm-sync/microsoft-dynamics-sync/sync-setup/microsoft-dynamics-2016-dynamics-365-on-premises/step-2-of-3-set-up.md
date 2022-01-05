@@ -1,9 +1,10 @@
 ---
 description: Instalación de Marketo para Microsoft Dynamics 2016/Dynamics 365 On-Premies Paso 2 de 3 - Marketo Docs - Documentación del producto
 title: Instalación de Marketo para Microsoft Dynamics 2016/Dynamics 365 On-Premies Paso 2 de 3
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,52 @@ Bueno trabajo completando los pasos anteriores. Sigamos adelante.
 >[!PREREQUISITES]
 >
 >[Instalación de Marketo para Microsoft Dynamics 2016/Dynamics 365 On-Premies Paso 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+
+## Crear un nuevo usuario {#create-a-new-user}
+
+1. Inicie sesión en Dynamics. Haga clic en el icono Configuración y seleccione Configuración avanzada.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. Haga clic en **Configuración** y seleccione **Seguridad**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. Haga clic en **Usuarios**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. Haga clic en **Nuevo**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. Haga clic en **Agregar y conceder licencias a usuarios**. Se debe abrir una nueva pestaña.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. Haga clic en **Administrador** en la parte superior de la página. Se debe abrir otra pestaña nueva.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. Haga clic en **Agregar un usuario**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. Escriba toda la información. Cuando haya terminado, haga clic en **Agregar**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >Este nombre debe ser un usuario de sincronización dedicado y no una cuenta de usuario de CRM existente. No necesita ser una dirección de correo electrónico real.
+
+1. Introduzca el correo electrónico para recibir las nuevas credenciales de usuario y haga clic en Enviar correo electrónico y cierre.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## Crear una nueva aplicación cliente {#create-a-new-client-application}
+
+Siga los pasos indicados en [este artículo de Microsoft](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) para crear una nueva aplicación cliente y conceder permisos. Tenga en cuenta el ID de cliente/Secreto de la aplicación cliente de Dynamics.
 
 ## Asignar función de usuario de sincronización {#assign-sync-user-role}
 
