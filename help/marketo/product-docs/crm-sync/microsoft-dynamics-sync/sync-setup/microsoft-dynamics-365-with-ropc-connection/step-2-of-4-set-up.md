@@ -1,9 +1,7 @@
 ---
-unique-page-id: 3571827
 description: 'Paso 2 de 3: Configuración de la solución de Marketo con la conexión de control de contraseña del propietario del recurso - Marketo Docs - Documentación del producto'
 title: 'Paso 2 de 3: Configuración de la solución de Marketo con la conexión de control de contraseña del propietario del recurso'
-exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -136,4 +134,4 @@ Asigne la función de usuario de sincronización de Marketo únicamente al usuar
 
 >[!MORELIKETHIS]
 >
->[Paso 3 de 3: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-3-connect.md)
+>[Paso 3 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
