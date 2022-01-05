@@ -3,7 +3,7 @@ description: 'Paso 1 de 3: Instalación de la solución de Marketo con la conexi
 title: 'Paso 1 de 3: Instalación de la solución Marketo con conexión S2S'
 source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
