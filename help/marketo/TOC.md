@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: a3a212fac76d1a622b520edf531df6c52869978e
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
-source-wordcount: '8234'
+source-wordcount: '8287'
 ht-degree: 2%
 
 ---
@@ -520,6 +520,7 @@ ht-degree: 2%
          + [Corregir problemas de sincronización de validación de Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Configuración de sincronización {#sync-setup}
             + [Descargar la solución de administración de posibles clientes de Marketo](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [Conceder consentimiento para el ID de cliente y el registro de la aplicación](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Actualización de la solución de Marketo para Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Validar Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [Ver la URL del servicio de organización](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
@@ -527,12 +528,16 @@ ht-degree: 2%
                + [Paso 1 de 3: Instalación de la solución Marketo - On-Premies 2015 / 2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Paso 3 de 3: Conectar Marketo y Dynamics 2015 On-Premies/2016 Dynamics 365 On-Premies](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 {#microsoft-dynamics-365}
-               + [Paso 1 de 3: Instalación de la solución de Marketo (en línea)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
-               + [Paso 3 de 3: Conectar Microsoft Dynamics con Marketo (en línea)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+            + Microsoft Dynamics 365 con conexión ROPC{#microsoft-dynamics-365-with-ropc-connection}
+               + [Paso 1 de 4: Instalación de la solución Marketo con la conexión ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+               + [Paso 2 de 4: Configuración de la solución Marketo con la conexión ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
+               + [Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+               + [Paso 4 de 4: Conexión de la solución Marketo con la conexión ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
+            + Microsoft Dynamics 365 con conexión S2S{#microsoft-dynamics-365-with-s2s-connection}
+               + [Paso 1 de 3: Instalación de la solución de Marketo con conexión S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+               + [Paso 2 de 3: Configuración de la solución de Marketo con conexión S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+               + [Paso 3 de 3: Conexión de la solución Marketo con S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
             + Configuración de la autenticación OAuth para Dynamics {#set-up-oauth-authentication-for-dynamics}
-               + [Conceder consentimiento para el ID de cliente y el registro de la aplicación](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
                + [Configuración de la aplicación Microsoft Dynamics CRM para en línea](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Configuración de la aplicación Microsoft Dynamics CRM para On-Premim](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [Configuración de MSD para Azure AD Federated con AD FS On-premim, inquilino y Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
