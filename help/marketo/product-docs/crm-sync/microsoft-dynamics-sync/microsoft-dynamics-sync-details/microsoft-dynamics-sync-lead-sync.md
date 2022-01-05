@@ -3,8 +3,7 @@ unique-page-id: 3571848
 description: Microsoft Dynamics Sync - Sincronización de posibles clientes - Documentos de Marketo - Documentación del producto
 title: 'Microsoft Dynamics Sync: Sincronización de posibles clientes'
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -25,11 +24,11 @@ La sincronización es bidireccional. Si realiza cambios en un posible cliente en
 
 ## ¿Qué sucede si se realizan cambios en el mismo campo en ambos sistemas al mismo tiempo? (Conflicto de datos) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Aunque esto es poco frecuente, Marketo ganará para las personas (posibles clientes) y Dynamics ganará para los contactos. Esto se debe a que consideramos que el departamento de marketing es autorizado para las personas, mientras que el sistema oficial de registro de contactos está en el departamento de ventas (CRM).
+Aunque esto no es habitual, Marketo ganará para las personas (posibles clientes) y Dynamics ganará para los contactos. Esto se debe a que consideramos que el departamento de marketing es autorizado para las personas, mientras que el sistema oficial de registro de contactos está en el departamento de ventas (CRM).
 
 ## ¿Puedo crear un posible cliente en Dynamics con Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Sí, utilice la acción de flujo [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Esto creará un posible cliente en Dynamics si el posible cliente no existe. Si el posible cliente existe, el paso de flujo no realiza ninguna acción.
+Sí, use la variable [Sincronizar persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) acción de flujo. Esto creará un posible cliente en Dynamics si el posible cliente no existe. Si el posible cliente existe, el paso de flujo no realiza ninguna acción.
 
 >[!NOTE]
 >
@@ -37,11 +36,11 @@ Sí, utilice la acción de flujo [Sync Person to Microsoft](/help/marketo/produc
 
 ## ¿Puedo forzar manualmente la sincronización de una persona de Marketo a un posible cliente en Dynamics? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-No, la sincronización en segundo plano automatizada es la única forma de sincronizar las actualizaciones entre Marketo y Dynamics. La acción de flujo [Sync Person to Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) no forzará la sincronización del posible cliente.
+No, la sincronización en segundo plano automatizada es la única forma de sincronizar las actualizaciones entre Marketo y Dynamics. La variable [Sincronizar persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) la acción de flujo no fuerza una sincronización del posible cliente.
 
 ## ¿Qué campos se sincronizarán con Marketo? {#what-fields-will-sync-to-marketo}
 
-Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) durante la configuración.
+Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) durante la configuración.
 
 ## ¿Marketo respetará las reglas de validación de Dynamics? {#will-marketo-respect-the-dynamics-validation-rules}
 
