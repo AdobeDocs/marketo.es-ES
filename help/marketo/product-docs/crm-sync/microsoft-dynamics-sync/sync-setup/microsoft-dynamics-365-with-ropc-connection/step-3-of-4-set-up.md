@@ -1,9 +1,9 @@
 ---
 description: 'Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics - Marketo Docs - Documentación del producto'
 title: 'Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics'
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,12 @@ ht-degree: 0%
 Federated Azure AD to ADFS Onprem necesita la creación de una directiva de Home Domain Discovery para la aplicación específica. Con esta directiva, Azure AD redireccionará la solicitud de autenticación al servicio de federación. Para ello, la sincronización hash de contraseña debe habilitarse en AD Connect. Para obtener más información, consulte [OAuth con ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) y [Establecer una directiva secundaria para una aplicación](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
 Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
+
+## Antes de continuar con el paso 4 {#before-proceeding-to-step-4}
+
+* Si desea restringir el número de registros que sincroniza, [configurar un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ahora.
+* Ejecute el [Validar Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proceso. Comprueba que la configuración inicial se haya realizado correctamente.
+* Inicie sesión en el usuario de sincronización de Marketo en Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >

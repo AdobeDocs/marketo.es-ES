@@ -1,9 +1,9 @@
 ---
 description: 'Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario de los recursos - Marketo Docs - Documentación del producto'
 title: 'Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso'
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 >[!NOTE]
 >
 >**Se requieren permisos de administrador**
+
+>[!IMPORTANT]
+>
+>Si está actualizando de la autenticación básica a OAuth, deberá ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para obtener ayuda con la actualización de los parámetros adicionales. Al habilitar esta función, se detendrá temporalmente la sincronización hasta que se introduzcan nuevas credenciales y se vuelva a habilitar la sincronización. La función se puede deshabilitar (hasta abril de 2022) si desea volver al modo de autenticación antiguo.
 
 ## Introducir información del usuario de Dynamics Sync {#enter-dynamics-sync-user-information}
 
@@ -43,18 +47,19 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
    >[!CAUTION]
    >
-   >Asegúrese de que sus credenciales sean correctas, ya que no podemos revertir los cambios de esquema posteriores después del envío. Si se guardan credenciales incorrectas, deberá obtener una nueva suscripción a Marketo.
+   >Asegúrese de que la URL de su organización sea correcta, ya que no podemos revertir los cambios de esquema subsiguientes después del envío. Si se utiliza una URL de organización incorrecta, deberá obtener una nueva suscripción a Marketo. Si no conoce la dirección URL, [aprenda a encontrarlo aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Introduzca la variable **Nombre de usuario**, **Contraseña** y Microsoft Dynamics **URL**. Haga clic en **Guardar** cuando haya terminado.
+   >[!NOTE]
+   >
+   >Antes de introducir nuevas credenciales, puede [valide aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+
+1. Introduzca la variable **Nombre de usuario**, **Contraseña**, **ID de cliente**, **Secreto del cliente** y Microsoft Dynamics **URL**. Haga clic en **Guardar** cuando haya terminado.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* Si Marketo se aprovisionó antes de octubre de 2020, el ID de cliente y Secreto son campos opcionales. De lo contrario, son obligatorios. La obtención de esta información dependerá de la versión de MSD que utilice.
-   >* El nombre de usuario en Marketo debe coincidir con el nombre de usuario para sincronizar el usuario en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
-   >* Si no conoce la dirección URL, [aprenda a encontrarlo aquí](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
+   >El nombre de usuario en Marketo debe coincidir con el nombre de usuario para sincronizar el usuario en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
 
 ## Seleccionar campos para sincronizar {#select-fields-to-sync}
 
