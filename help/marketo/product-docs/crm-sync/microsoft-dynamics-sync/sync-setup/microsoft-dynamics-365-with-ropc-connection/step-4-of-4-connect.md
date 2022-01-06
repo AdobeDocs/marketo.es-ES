@@ -1,7 +1,8 @@
 ---
 description: 'Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario de los recursos - Marketo Docs - Documentación del producto'
 title: 'Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso'
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -55,7 +56,7 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
 1. Introduzca la variable **Nombre de usuario**, **Contraseña**, **ID de cliente**, **Secreto del cliente** y Microsoft Dynamics **URL**. Haga clic en **Guardar** cuando haya terminado.
 
-   ![](assets/five-1.png)
+   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
 
    >[!NOTE]
    >
