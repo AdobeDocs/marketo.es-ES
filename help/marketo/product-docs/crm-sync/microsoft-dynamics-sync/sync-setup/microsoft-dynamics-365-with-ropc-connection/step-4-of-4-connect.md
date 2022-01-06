@@ -2,7 +2,7 @@
 description: 'Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario de los recursos - Marketo Docs - Documentación del producto'
 title: 'Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-Este es el último paso de la sincronización. ¡Ya casi llegamos!
+Este es el último paso de la sincronización. ¡Ya casi estás ahí!
 
 >[!PREREQUISITES]
 >
