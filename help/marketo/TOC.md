@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '8287'
+source-wordcount: '8250'
 ht-degree: 2%
 
 ---
@@ -537,10 +537,6 @@ ht-degree: 2%
                + [Paso 1 de 3: Instalación de la solución de Marketo con conexión S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [Paso 2 de 3: Configuración de la solución de Marketo con conexión S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [Paso 3 de 3: Conexión de la solución Marketo con S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-            + Configuración de la autenticación OAuth para Dynamics {#set-up-oauth-authentication-for-dynamics}
-               + [Configuración de la aplicación Microsoft Dynamics CRM para en línea](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-               + [Configuración de la aplicación Microsoft Dynamics CRM para On-Premim](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-               + [Configuración de MSD para Azure AD Federated con AD FS On-premim, inquilino y Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
             + Conexión a versiones anteriores {#connecting-to-legacy-versions}
                + [Paso 1 de 3: Instalación de la solución Marketo (local 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [Paso 2 de 3: Configuración del usuario de sincronización de Marketo en Dynamics (local de 2011)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
