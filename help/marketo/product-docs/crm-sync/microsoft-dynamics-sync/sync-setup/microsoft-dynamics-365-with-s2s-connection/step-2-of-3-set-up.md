@@ -1,20 +1,20 @@
 ---
 unique-page-id: 3571827
-description: 'Paso 2 de 3: Configuración de la solución de Marketo con la conexión S2S: Marketo Docs: Documentación del producto'
-title: 'Paso 2 de 3: Configuración de la solución Marketo con conexión S2S'
+description: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor - Marketo Docs - Documentación del producto'
+title: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
-# Paso 2 de 3: Configurar el usuario de sincronización de Marketo en Dynamics con conexión S2S{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Paso 2 de 3: Configurar la solución de Marketo con conexión de servidor a servidor {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Paso 1 de 3: Instalación de la solución de Marketo con conexión S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>[Paso 1 de 3: Instalación de la solución de Marketo con conexión de servidor a servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
 ## Crear aplicación de cliente en Azure AD {#create-client-application-in-azure-ad}
 
@@ -124,4 +124,4 @@ Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en
 
 >[!MORELIKETHIS]
 >
->[Paso 3 de 3: Conexión de la solución Marketo con S2S](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>[Paso 3 de 3: Conexión de la solución de Marketo con la conexión servidor a servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)

@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1028'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Las siguientes funciones se lanzarán en **21 de enero de 2022**.
 
    * Detalles de los recursos de la página de aterrizaje en Design Studio
    * Detalles del recurso de la página de aterrizaje en actividades de marketing
-   * Vista de lista de correo electrónico en Design Studio (incluidas las nuevas acciones masivas)
 
 * **Control de administración para el conmutador de experiencias de próxima generación**: Los administradores pueden seleccionar qué tipos de usuarios pueden acceder al conmutador para ver las pantallas en la experiencia de próxima generación.
 
