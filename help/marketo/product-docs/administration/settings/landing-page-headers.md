@@ -3,14 +3,15 @@ description: 'Encabezados de página de aterrizaje: Documentos de Marketo: Docum
 title: Encabezados de página de aterrizaje
 hide: true
 hidefromtoc: true
-source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
+exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
+source-git-commit: 7950fb6ef4a0f653b3125ec381c652056bd47327
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# Landing Page Headers {#landing-page-headers}
+# Encabezados de página de aterrizaje {#landing-page-headers}
 
 Siga los pasos a continuación para personalizar algunos de los encabezados HTTP de los dominios de la página de aterrizaje.
 
@@ -37,10 +38,10 @@ Siga los pasos a continuación para personalizar algunos de los encabezados HTTP
  </tr>
  <tr>
   <td><strong>X-Frame-Options</strong></td>
-  <td>Lets you define whether or not Marketo Engage hosted assets can be embedded in external web pages</td>
+  <td>Permite definir si los recursos alojados por Marketo Engage se pueden incrustar en páginas web externas</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->Es importante revisar esta configuración con su equipo de TI para determinar en qué debe configurarse la política de su organización. Incorrect settings can prevent some visitors from accessing your Landing Pages.
+>Es importante revisar esta configuración con su equipo de TI para determinar en qué debe configurarse la política de su organización. La configuración incorrecta puede impedir que algunos visitantes accedan a sus páginas de aterrizaje.
