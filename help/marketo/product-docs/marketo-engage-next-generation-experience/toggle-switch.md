@@ -2,7 +2,7 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -41,15 +41,15 @@ Se cargará la nueva experiencia.
 
 1. En Marketo, busque y seleccione el formulario.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 Se cargará la nueva experiencia.
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## Habilitar para todas las funciones {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ Tiene la opción de activar la interfaz de próxima generación de Marketo para 
 
 1. En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
