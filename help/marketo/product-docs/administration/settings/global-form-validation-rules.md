@@ -3,9 +3,10 @@ description: Reglas de validación de formularios globales - Documentos de Marke
 title: Reglas globales de validación de formularios
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ Para poder utilizar esta función, debe habilitar su permiso según la función 
 
 1. En Marketo, haga clic en **Administrador**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. Haga clic en **Usuarios y funciones**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. Haga clic en el **Funciones** pestaña .
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. Haga doble clic en la función a la que desee conceder permisos.
 
-PICC
+   PICC
 
 1. Haga clic en el **+** junto a Administración de acceso.
 
-PICC
+   PICC
 
 1. Desplácese hacia abajo y seleccione **Acceso a las reglas de validación del formulario** y haga clic en **Guardar**.
 
-PICC
+   PICC
 
 ## Crear nueva regla de validación de formulario {#create-new-form-validation-rule}
 
 1. En Marketo, haga clic en **Administrador**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. Haga clic en **Regla de validación del formulario global**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. Haga clic en **Nueva regla de validación de formulario**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >La lista desplegable Acciones de regla de validación de formulario permite eliminar o editar las reglas existentes.
 
 1. Asigne un nombre a la regla, asígnele una descripción opcional e introduzca el mensaje de error que desea que vean los visitantes del formulario. Introduzca los dominios que desea bloquear en el cuadro de reglas, seleccione **Activar regla** y haga clic en **Crear**.
 
-PICC
-
->[!NOTE]
->
->La lista desplegable Acciones de regla de validación de formulario permite eliminar o editar las reglas existentes.
+   ![](assets/global-form-validation-rules-10.png)
