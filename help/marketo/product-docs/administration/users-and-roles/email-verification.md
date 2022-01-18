@@ -4,7 +4,7 @@ title: Verificación de correo electrónico
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -34,4 +34,3 @@ En Administración > Usuarios y funciones, la columna Estado del correo electró
 ![](assets/email-verification-3.png)
 
 Para verificar un usuario sin verificar, simplemente seleccione su registro y haga clic en el botón **Comprobar correo electrónico** botón.
-

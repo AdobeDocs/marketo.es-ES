@@ -4,9 +4,9 @@ title: Reglas globales de validación de formularios
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -33,15 +33,15 @@ Para poder utilizar esta función, debe habilitar su permiso según la función 
 
 1. Haga doble clic en la función a la que desee conceder permisos.
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. Haga clic en el **+** junto a Administración de acceso.
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. Desplácese hacia abajo y seleccione **Acceso a las reglas de validación del formulario** y haga clic en **Guardar**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## Crear nueva regla de validación de formulario {#create-new-form-validation-rule}
 

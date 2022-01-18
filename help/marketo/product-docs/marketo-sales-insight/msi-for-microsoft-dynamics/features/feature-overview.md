@@ -3,9 +3,9 @@ unique-page-id: 37357043
 description: 'Descripción general de características: Documentos de Marketo: Documentación del producto'
 title: Descripción general de características
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 11%
 
 ---
@@ -64,7 +64,15 @@ Las siguientes funciones están disponibles en la nueva solución MSD de MSI.
 * Añadir a Marketo Campaign
 * Enviar correo electrónico de Marketo
 
-## Página Mejores apuestas de Marketo  {#marketo-best-bets-page}
+## Panel Perspectiva de ventas de Marketo en Diseño de cuenta {#marketo-sales-insight-panel-in-account-layout}
+
+* Estrellas y llamas
+* Momento interesante
+* Actividad web
+* Puntuación
+* Correo electrónico (abrir y hacer clic)
+
+## Página Mejores apuestas de Marketo {#marketo-best-bets-page}
 
 * Prioridad (estrellas y llamas)
 * Nombre (hipervinculado a la página de posible cliente/contacto)
