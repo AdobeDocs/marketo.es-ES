@@ -4,21 +4,34 @@ title: Verificación de correo electrónico
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Verificación de correo electrónico {#email-verification}
 
-Creo que ha dicho que haremos una nueva página que cubra la verificación de correo electrónico para los usuarios
+Las suscripciones al Marketo Engage de Adobe requieren que todos los usuarios que no sean solo usuarios de API verifiquen su dirección de correo electrónico. El inicio de sesión único (SSO) de los usuarios se verificará automáticamente si su suscripción está habilitada con la verificación de correo electrónico.
 
-Invitación del usuario Cuando un administrador invita a un usuario, no hay cambio en la interfaz de usuario ni en la experiencia del usuario Cuando el usuario hace clic en el vínculo de invitación, su correo electrónico se verifica automáticamente Los usuarios con SSO se verifican automáticamente
+**Invitación del usuario**
 
-La pantalla Cuenta de usuario muestra la dirección de correo electrónico como verificada Cuando se actualiza la dirección de correo electrónico, la interfaz de usuario refleja que el correo electrónico de la cuenta no está verificado y se envía el correo electrónico (consulte el correo electrónico adjunto)
+Cuando un administrador invita a un usuario, este se verifica automáticamente una vez que haga clic en el vínculo de invitación. Los usuarios con SSO se verifican automáticamente.
 
-Administración - Página Usuarios y funciones Nueva columna que muestra el estado de verificación de un usuario Botón Nuevo para volver a almacenar en déclencheur la verificación de correo electrónico del usuario
+**Cambio de una dirección de correo electrónico**
 
-MyMarketo Cuando un usuario con un correo electrónico no verificado inicia sesión, debería ver un banner en la página Mi Marketo (SOLO).
+Cuando se cambia la dirección de correo electrónico de un usuario, no se verifica. Se les enviará un correo electrónico que les permitirá volver a verificar. Los administradores pueden reenviar manualmente ese correo electrónico haciendo clic en **Verificación de reenvío**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Usuarios y funciones**
+
+En Administración > Usuarios y funciones, la columna Estado del correo electrónico muestra el estado de verificación de cada usuario.
+
+![](assets/email-verification-3.png)
+
+Para verificar un usuario sin verificar, simplemente seleccione su registro y haga clic en el botón **Comprobar correo electrónico** botón.
+
