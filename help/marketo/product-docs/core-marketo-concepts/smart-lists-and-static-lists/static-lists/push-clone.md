@@ -3,9 +3,9 @@ description: 'Clon push: Documentos de Marketo: Documentación del producto'
 title: Clonar push
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 >
 >* [Crear un usuario de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) en Marketo.
 >* A continuación, vaya a **Administrador** > **Punto de inicio**. Busque el nombre de la función que acaba de crear y haga clic en **Ver detalles**. Copie y guarde la información en **ID de cliente** y **Secreto del cliente**, ya que la necesitará para esta función.
+>* En Marketo, cree una lista estática o busque y seleccione una que ya haya creado. Necesitará su ID.
 
 
 1. Iniciar sesión en [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-A continuación, tendrá que elegir si desea buscar coincidencias solo con usuarios de Marketo existentes, o buscar coincidencias con usuarios de Marketo existentes y crear las personas que faltan en Marketo. A continuación se muestran secciones que describen cómo hacer cada una.
-
-## Hacer coincidir usuarios de Marketo existentes y crear personas que faltan en Marketo {#match-existing-marketo-people-create-missing-people}
-
-Después de seguir los pasos 1-8 desde arriba...
-
-1. Introducir un destino **Nombre** y una descripción opcional. Haga clic en la lista desplegable Creación de personas y seleccione **Hacer coincidir usuarios de Marketo existentes y crear personas que faltan en Marketo**.
+1. Introducir un destino **Nombre** y una descripción opcional. Haga clic en la lista desplegable Creación de personas y seleccione &quot;Hacer coincidir con personas de Marketo existentes y crear personas que faltan en Marketo&quot; _o_ &quot;Hacer coincidir solo los usuarios de Marketo existentes&quot;. En este ejemplo elegimos el primero.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >Si elige &quot;Coincidir solo con personas de Marketo existentes&quot;, solo deberá asignar el correo electrónico o el ECID, de modo que pueda omitir los pasos 13-16.
 
 1. Esta sección es opcional. Haga clic en **Crear** para omitir.
 
@@ -87,7 +86,7 @@ Después de seguir los pasos 1-8 desde arriba...
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Asigne los apellidos y el nombre de la empresa haciendo clic en **Añadir nueva asignación** de nuevo y repita el paso 7 dos veces, eligiendo lastName y luego companyName.
+1. Asigne los apellidos y el nombre de la empresa haciendo clic en **Añadir nueva asignación** y repita el paso 15 dos veces, eligiendo **lastName** y luego **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ Después de seguir los pasos 1-8 desde arriba...
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREEEE
+1. Para elegir el campo de origen Nombre de la empresa , haga clic en el icono del cursor en su fila.
 
-## Coincidir solo usuarios de Marketo existentes {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->Las identidades se utilizan para buscar coincidencias en Marketo. Si se encuentra una coincidencia, la persona se agrega a la lista estática. Si no se encuentra una coincidencia, esas personas se pierden (es decir, no se crean en Marketo).
+1. Deje activado el botón de opción Seleccionar atributo . Busque &quot;empresa&quot; y seleccione **companyName** y haga clic en **Select**.
 
-1. _En Marketo_, cree una lista estática o busque y seleccione una que ya haya creado. Copie el ID de asignación desde el final de la dirección URL.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Asigne los campos de origen a Apellidos y Nombre haciendo clic en el icono de cursor para cada paso y repitiendo el paso 23 dos veces, eligiendo **lastName** y luego **firstName**.
 
->[!NOTE]
->
->Para obtener los mejores resultados, asegúrese de que la lista a la que hace referencia en Marketo esté vacía.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. De nuevo en Adobe Experience Platform, introduzca el ID que acaba de copiar. Elija la fecha de inicio. Las personas se sincronizarán continuamente hasta la fecha de finalización elegida. Para una sincronización indefinida, deje la fecha de finalización en blanco. Haga clic en **Siguiente** cuando haya terminado.
+1. Haga clic en **Siguiente**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Confirme los cambios y haga clic en **Finalizar**.
+1. Ahora necesitará el ID de su lista. Haga clic en la pestaña del explorador que tiene abierta la lista estática de Marketo (o abra una nueva pestaña y seleccione la lista estática deseada).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Resalte y copie el ID de lista al final de la dirección URL.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Pegue el ID que acaba de copiar en ID de asignación y haga clic en **Siguiente**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Haga clic en **Finalizar**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
