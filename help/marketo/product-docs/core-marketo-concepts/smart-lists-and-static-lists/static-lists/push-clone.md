@@ -3,9 +3,9 @@ description: 'Clon push: Documentos de Marketo: Documentación del producto'
 title: Clonar push
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Si elige Nueva cuenta, puede encontrar su ID de Munchkin en **Administrador** > **Munchkin** (también forma parte de la URL de Marketo una vez que haya iniciado sesión). Secreto o ID de cliente que debe tener de seguir los requisitos previos de la parte superior de este artículo.
+
 1. Seleccione la cuenta de destino y haga clic en **Select**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 1. Elija el segmento que desea enviar a Marketo y haga clic en **Siguiente**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Si elige varios segmentos aquí, tendrá que asignar cada segmento a una lista estática especificada en la pestaña Programación del segmento.
 
 1. Haga clic en **Añadir nueva asignación**.
 
@@ -102,6 +110,10 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >Asignación de correo electrónico o ECID desde **Área de nombres de identidad** es lo más importante para garantizar que la persona coincida en Marketo. Asignación de correo electrónico garantizará la mayor tasa de coincidencia.
+
 1. Ahora es el momento de elegir los campos de origen. Para correo electrónico, haga clic en el icono del cursor.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 1. Ahora necesitará el ID de su lista. Haga clic en la pestaña del explorador que tiene abierta la lista estática de Marketo (o abra una nueva pestaña y seleccione la lista estática deseada).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Para obtener mejores resultados, utilice una lista de Marketo Engage vacía.
 
 1. Resalte y copie el ID de lista al final de la dirección URL.
 
