@@ -5,7 +5,7 @@ title: Elegir una acción en la perspectiva de ventas
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -27,27 +27,28 @@ Se puede acceder a cada una de estas funciones desde:
 * Botón Diseño de posible cliente: Acción única y no se puede controlar mediante el perfil de usuario
 * Botón Diseño de contacto: Acción única y no se puede controlar mediante el perfil de usuario
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Diseño de página con acción de grupo**
 
-Panel Diseño de la cuenta: La acción del grupo y se pueden controlar mediante el Panel de diseño de oportunidad del perfil de usuario: Acción de grupo y se puede controlar mediante el perfil de usuario
+* Panel Diseño de la cuenta: Acción de grupo y se puede controlar mediante el perfil de usuario
+* Panel de diseño de oportunidad: Acción de grupo y se puede controlar mediante el perfil de usuario
 
-![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Ficha Mejores apuestas**
 
 * Pestaña Mejores acciones masivas : Acción de grupo y se puede controlar mediante el perfil de usuario
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Pestaña Mejores apuestas en línea: Una sola acción y se puede controlar mediante el perfil del usuario
+* Pestaña Mejores apuestas en línea: Acción única y se puede controlar mediante el perfil de usuario
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **Vista de lista con acción masiva**
 
 * Vista de lista de posibles clientes: Acción masiva y no se puede controlar mediante el perfil de usuario
 * Vista de lista de contactos: Acción masiva y no se puede controlar mediante el perfil de usuario
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)

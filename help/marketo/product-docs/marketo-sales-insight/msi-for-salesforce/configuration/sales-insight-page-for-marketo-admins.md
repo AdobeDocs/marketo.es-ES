@@ -1,44 +1,39 @@
 ---
 unique-page-id: 42762409
-description: Página de perspectivas de ventas para administradores de Marketo - Marketo Docs - Documentación del producto
+description: Página de perspectivas de ventas para administradores de Marketo - Documentos de Marketo - Documentación del producto
 title: Página de perspectivas de ventas para administradores de Marketo
-translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
-
-# Página Perspectiva de Ventas para Administradores de Marketo {#sales-insight-page-for-marketo-admins}
+# Página de perspectivas de ventas para administradores de Marketo {#sales-insight-page-for-marketo-admins}
 
 Los administradores de Marketo tienen ciertos privilegios en Sales Insight. Aprenda lo que son a continuación.
 
-## Configuración de API Soap {#soap-api-configuration}
+## Configuración de la API Soap {#soap-api-configuration}
 
-Estas credenciales se utilizan para conectar su cuenta de Salesforce a la instancia de Marketo, con el fin de utilizar MSI en Salesforce.
+Estas credenciales se utilizan para conectar la cuenta de Salesforce a la instancia de Marketo con el fin de utilizar MSI en Salesforce.
 
 ![](assets/one-1.png)
 
-## Configuración de API de Rest {#rest-api-configuration}
+## Configuración de la API Rest {#rest-api-configuration}
 
 Estas credenciales se utilizan para conectar la cuenta de Salesforce a la instancia de Marketo con el fin de utilizar el panel de información de MSI en Salesforce.
 
 ![](assets/two-1.png)
 
-Puede optar por eliminar las credenciales de API de Rest en SFDC y utilizar solo las API de Soap. Esto deshabilitará el panel de perspectivas
-
-![](assets/three-1.png)
-
 ## Configuración de puntuación de persona {#person-score-settings}
 
 * **Estrellas**: Las estrellas representan la puntuación total de posibles clientes en comparación con otros posibles clientes.
-* **Flores**: Las llamas representan urgencia -cuánto ha cambiado recientemente la puntuación de un plomo-.
+* **Inflamaciones**: Las llamas representan urgencia -cuánto ha cambiado recientemente la puntuación de un plomo-.
 
 De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de posible cliente para calcular estrellas y llamas. Pero si desea elegir un campo diferente, así es como:
 
-1. En el área **Administración** de Marketo, haga clic en **Perspectiva de ventas**.
+1. En el **Administrador** área de Marketo, haga clic en **Perspectiva de ventas**.
 
    ![](assets/four.png)
 
@@ -60,7 +55,7 @@ De forma predeterminada, Marketo Sales Insight utiliza el campo Puntuación de p
 
    >[!TIP]
    >
-   >Si aún no tiene los campos de puntuación personalizados, así es como [crearlos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Si todavía no tiene los campos de puntuación personalizados, así se explica cómo [créelos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -89,7 +84,7 @@ Cuando está habilitado, los usuarios de MSI pueden ver su Fuente de posibles cl
 
 **Caducidad del token:**
 
-La caducidad del token se controla en el Administrador de funciones. Para habilitarlo o deshabilitarlo, póngase en contacto con [Compatibilidad con Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Cuando está habilitado, todos los tokens de Marketo caducan en 10 minutos. Cuando está desactivado, los tokens de Marketo no caducan.
+La caducidad del token se controla en el Administrador de funciones. Para habilitarlo o deshabilitarlo, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Cuando está habilitado, todos los tokens de Marketo caducan en 10 minutos. Cuando está desactivado, los tokens de Marketo no caducan.
 
 Los tokens generados antes de activar la caducidad del token no tendrán un tiempo de caducidad para la validación, por lo que no caducarán aunque la función esté habilitada actualmente.
 
