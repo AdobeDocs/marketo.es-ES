@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 2%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 2%
          + [Requisitos mínimos del sistema](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Navegadores admitidos](product-docs/administration/setup-administration/supported-browsers.md)
-         + [Regla de validación del formulario global](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Integraciones adicionales {#additional-integrations}
          + [Añadir Adobe Connect como servicio de LaunchPoint](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Añadir Google AdWords como servicio de punto de inicio con una cuenta de administrador](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 2%
             + [Crear una lista estática](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Enviar una lista a Adobe Experience Cloud](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [Clonar push](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [Explicación de las listas estáticas](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programas {#programs}
          + Creación de programas {#creating-programs}
@@ -717,7 +715,7 @@ ht-degree: 2%
             + [Vista previa de una página de aterrizaje con contenido dinámico](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Vista previa de una página de aterrizaje](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redireccionar una página de aterrizaje de Marketo a otra página](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + plantillas de la página de destino {#landing-page-templates}
+         + Plantillas de la página de destino {#landing-page-templates}
             + [Crear una plantilla de página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Crear una plantilla de página de aterrizaje guiada](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Editar una plantilla de página de aterrizaje de Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -1447,7 +1445,7 @@ ht-degree: 2%
             + [Prioridad del orden de segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Explicación del contenido dinámico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Uso de filtros de segmento en una lista inteligente](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         +  fragmentos{#snippets}
+         + Fragmentos {#snippets}
             + [Añadir contenido a un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprobar un fragmento sin borrador](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Aprobar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
