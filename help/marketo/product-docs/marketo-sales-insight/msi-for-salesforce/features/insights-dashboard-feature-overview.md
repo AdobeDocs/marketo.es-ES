@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: 'Información general sobre las funciones del panel de perspectivas: Documentos de Marketo: Documentación del producto'
 title: Información general sobre las características del panel de perspectivas
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Obtenga más información sobre las funciones disponibles en su panel de perspec
 >
 >Debe tener el último paquete MSI SFDC y [configuración](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Diseño de contacto {#contact-layout}
 
@@ -48,7 +48,7 @@ Pestaña Campañas de correo electrónico :
 * La tarjeta de detalles de la actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos de envío de correo electrónico, todos los correos electrónicos estarán disponibles para la vista previa. En el paso enviar flujo de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
 * Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Pestaña Evento:
 
@@ -59,7 +59,7 @@ Pestaña Evento:
 * La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
 * El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Diseño de posible cliente {#lead-layout}
 
@@ -89,7 +89,7 @@ Pestaña Campañas de correo electrónico :
 * La tarjeta de detalles de la actividad de esta sección tendrá una opción de vista previa. Si el flujo incluye varios pasos de envío de correo electrónico, todos los correos electrónicos estarán disponibles para la vista previa. En el paso enviar flujo de correo electrónico, si hay varias &quot;opciones de correo electrónico&quot;, la opción predeterminada estará disponible para la vista previa
 * Los filtros incluyen &quot;Búsqueda&quot; e &quot;Intervalo de fechas&quot;
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Pestaña Evento:
 
@@ -100,7 +100,7 @@ Pestaña Evento:
 * La tarjeta de detalles de actividad de esta sección tiene una opción de vista previa
 * El filtro incluye &quot;Búsqueda&quot;, &quot;Mostrar solo eventos invitados&quot; e &quot;Intervalo de fechas&quot;.
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Diseño de la cuenta {#account-layout}
 

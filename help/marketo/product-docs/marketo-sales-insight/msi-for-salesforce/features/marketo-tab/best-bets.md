@@ -2,7 +2,7 @@
 description: Mejoras - Documentos de Marketo - Documentación del producto
 title: Mejores apuestas
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -37,6 +37,8 @@ Al hacer clic en el menú de datos situado debajo de la columna Acciones , puede
 * Ver en Marketo
 * Agregar a la lista de observación
 
+![](assets/best-bets-1.png)
+
 **Acciones masivas**
 
 Puede seleccionar uno o varios posibles clientes o contactos de la página Mejores apuestas mediante la casilla de verificación y ponerse en contacto con ellos como grupo mediante las siguientes opciones de participación:
@@ -45,7 +47,7 @@ Puede seleccionar uno o varios posibles clientes o contactos de la página Mejor
 * Añadir a Marketo Campaign
 * Agregar a la lista de observación
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >
