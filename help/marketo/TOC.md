@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8246'
 ht-degree: 2%
 
 ---
@@ -191,7 +191,6 @@ ht-degree: 2%
          + [Habilitar o deshabilitar las funciones de tesorería](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Habilitar direcciones URL personalizadas para su cuenta (administración)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Reglas globales de validación de formularios](product-docs/administration/settings/global-form-validation-rules.md)
-         + [Bloqueo de envíos de formularios no deseados](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Encabezados de página de aterrizaje](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir inicios de sesión de Marketo basados en IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Seleccione su idioma, configuración regional y zona horaria](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
@@ -715,7 +714,7 @@ ht-degree: 2%
             + [Vista previa de una página de aterrizaje con contenido dinámico](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Vista previa de una página de aterrizaje](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redireccionar una página de aterrizaje de Marketo a otra página](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + Plantillas de la página de destino {#landing-page-templates}
+         + plantillas de la página de destino {#landing-page-templates}
             + [Crear una plantilla de página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Crear una plantilla de página de aterrizaje guiada](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Editar una plantilla de página de aterrizaje de Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -1445,7 +1444,7 @@ ht-degree: 2%
             + [Prioridad del orden de segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Explicación del contenido dinámico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Uso de filtros de segmento en una lista inteligente](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         + Fragmentos {#snippets}
+         +  fragmentos{#snippets}
             + [Añadir contenido a un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprobar un fragmento sin borrador](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Aprobar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
