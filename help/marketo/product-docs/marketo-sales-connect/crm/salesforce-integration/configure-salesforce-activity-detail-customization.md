@@ -4,9 +4,9 @@ title: Configurar la personalización de detalles de actividad de Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 La personalización de detalles de la actividad permite a los administradores configurar la información que se registrará en el campo Tarea de Salesforce - Asunto , cuando se sincronice una tarea de actividad/recordatorio de Conexión de ventas con Salesforce.
+
+>[!NOTE]
+>
+>Las actualizaciones realizadas en el campo de asunto en Conexión de ventas de una tarea recordatoria se reflejarán en el campo de asunto correspondiente de la tarea de Salesforce, si está utilizando la variable `{{activity_subject}}` campo dinámico en la personalización de detalles de actividad.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ La función se puede utilizar para obtener las siguientes ventajas:
 * Los administradores pueden etiquetar el campo del asunto con un identificador único como &quot;Mkto_sales&quot;, de modo que las actividades de Sales Connect se puedan identificar y diferenciar fácilmente de otras actividades de correo electrónico, actividades de llamada y tareas.
 * Reduzca la necesidad de campos de actividad personalizados. Salesforce impone límites al número de campos de actividad personalizados, lo que puede restringir qué datos están disponibles para utilizarse en los informes. Al utilizar campos dinámicos de actividad para agregar datos clave a la línea de asunto, puede reducir el número de campos de actividad personalizados que necesita crear en la instancia de Salesforce.
 * El campo de asunto de actividades y tareas seguirá un patrón coherente definido por el administrador de conexión de ventas.
+
+>[!NOTE]
+>
+>Si está registrando respuestas de correo electrónico como actividades en Salesforce, no utilizarán la configuración de personalización de detalles de actividad de Salesforce. En su lugar, registrarán como &quot;Responder: Asunto del correo electrónico&quot;.
 
 ## Campos dinámicos de actividad admitidos {#activity-dynamic-fields-supported}
 
