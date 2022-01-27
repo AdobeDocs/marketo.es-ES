@@ -4,9 +4,9 @@ title: Crear y asignar tareas recordatorias
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ Las tareas de recordatorio son una buena manera de mantenerse al día de su comp
 
 1. Haga clic en **Centro de comandos**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Haga clic en **Tareas**.
+1. Tareas se abre de forma predeterminada. Haga clic en **Agregar tarea**.
 
-PICC
-
-1. Haga clic en **Agregar tarea**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. Seleccione el tipo de tarea de Correo electrónico, Llamada, InMail o Tarea personalizada.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. Asigne un nombre a la tarea.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. Elija si desea mantener la tarea asignada a usted mismo o seleccionar otro usuario al que asignar la tarea.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. Añada la persona con la que está realizando el seguimiento, con esta tarea de recordatorio.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. Seleccione la fecha de vencimiento de la tarea.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. Seleccione la prioridad de la tarea.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Agregue cualquier detalle sobre la tarea que desee que esté disponible al completar la tarea, como notas de conversación de llamadas, una plantilla de mensaje de InMail o incluso notas sobre la persona.
+1. Agregue cualquier detalle sobre la tarea que desee que esté disponible al completar la tarea, como notas de conversación de llamadas, una plantilla de mensaje de InMail o incluso notas sobre la persona. Haga clic en **Crear** cuando haya terminado.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)
