@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -19,7 +19,7 @@ La versión del 22 de enero incluye las siguientes funciones. Consulte la edici�
 
 **_Versiones trimestrales_**
 
-Las siguientes funciones empezarán a lanzarse en **21 de enero de 2022**, con una implementación por fases de todas las funciones durante la semana siguiente (a menos que se especifique lo contrario).
+Las siguientes funciones empezarán a lanzarse en **21 de enero de 2022**, con una implementación por fases de cada función en las semanas siguientes (a menos que se especifique lo contrario).
 
 ## Experiencia de próxima generación {#next-generation-experience}
 
@@ -52,7 +52,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 Los clientes Marketo Engage que también utilizan Adobe Experience Platform (AEP) pueden maximizar su base de datos con la capacidad de insertar registros de personas nuevas en el Marketo Engage desde AEP a través del conector de destino de AEP. Al enviar segmentos de audiencia de AEP a Marketo Engage, las personas del segmento que no existan en la base de datos de Marketo Engage [se puede añadir automáticamente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
-## Conocimiento de ventas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(estrella)](assets/yellow-star.png)
 

@@ -1,102 +1,106 @@
 ---
 unique-page-id: 2949863
-description: Crear un Evento con WebEx - Documentos de marketing - Documentación del producto
-title: Crear un Evento con WebEx
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Creación de un evento con WebEx - Marketo Docs - Documentación del producto
+title: Crear un evento con WebEx
+exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
-
-# Crear un Evento con WebEx {#create-an-event-with-webex}
+# Crear un evento con WebEx {#create-an-event-with-webex}
 
 >[!PREREQUISITES]
 >
->* [Añadir WebEx como un servicio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
->* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las [acciones de flujo adecuadas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
+>* [Añadir WebEx como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Configure los correspondientes [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) para realizar un seguimiento de la participación
+>* Asegúrese de que está utilizando eventos Webex (clásica)
 
 
-Primero cree un Evento Webex en el Centro de Evento WebEx. Marketo utiliza únicamente la configuración y los campos específicos para su integración, que se completarán en breve. Otros campos que puede que desee configurar para WebEx se explican en la [Guía del usuario del centro de Evento WebEx](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Primero cree un evento Webex en el Centro de eventos WebEx. Marketo solo utiliza la configuración y los campos específicos para su integración, que se completarán próximamente. Otros campos que puede que desee configurar para WebEx se explican en la sección [Guía del usuario del Centro de Eventos WebEx](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+
+>[!IMPORTANT]
+>
+>Marketo Engage solo admite eventos creados en eventos Webex (Classic). Marketo no admite eventos creados en eventos de Webex (nuevos) en este momento.
 
 ## Información básica {#basic-information}
 
-* **Nombre del evento:** este nombre se podrá ver en Marketing.
+* **Nombre del evento -** Este nombre se puede ver en Marketo.
 * **Casilla de verificación no enumerada**
 
-   * Se recomienda que haga **no** lista del evento. Esto garantizará que todas las personas se registren a través de la página de aterrizaje de marketing. Las personas que se registren a través de un mecanismo que no sea Marketing se mostrarán en Marketing después de que el evento haya finalizado Y sólo si asistieron al evento.
-   * Si elige la lista del evento, aparecerá en la página Lista de Eventos para cualquiera que visite el sitio web del Centro de Evento.
+   * Se recomienda que lo haga **not** enumere el evento. Esto garantizará que todas las personas se registren a través de su página de aterrizaje de Marketo. Las personas que se registren mediante un mecanismo distinto de Marketo se mostrarán en Marketo una vez finalizado el evento Y solo si asistieron al mismo.
+   * Si elige enumerar el evento, este aparecerá en la página Lista de eventos para cualquier persona que visite el sitio web del Centro de eventos.
 
-* **Registro:** marque esta casilla para definirla como &quot;obligatoria&quot;. Utilizará un formulario o una página de aterrizaje de marketing para capturar la información de registro que se insertará en WebEx.
-* **Contraseña** de evento: (opcional) si utiliza este campo, asegúrese de incluirlo en su correo electrónico de confirmación.
+* **Registro -** Marque esta casilla para establecer en &quot;requerido&quot;. Utilizará un formulario o una página de aterrizaje de Marketo para capturar la información de registro que se insertará en WebEx.
+* **Contraseña del evento**- (opcional) Si utiliza este campo, asegúrese de incluirlo en su correo electrónico de confirmación.
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
 
 ## Fecha y hora {#date-time}
 
-* **Fecha**  de inicio: introduzca la fecha de inicio. Esto se podrá ver en Marketing.
+* **Fecha de inicio** - Introduzca la fecha de inicio. Esto se puede ver en Marketo.
 
-* **Tiempo**  de inicio: introduzca la hora de inicio. Esto se podrá ver en Marketing.
+* **Hora de inicio** - Introduzca la hora de inicio. Esto se puede ver en Marketo.
 
-* **Duración**  estimada: especifique la duración del evento. Esto se podrá ver en Marketing.
+* **Duración estimada** - Especifique la duración del evento. Esto se puede ver en Marketo.
 
-* **Husos horarios** : introduzca los husos horarios aplicables. Serán visibles en Marketing.
+* **Zonas horarias** - Introduzca las zonas horarias aplicables. Se pueden ver en Marketo.
 
 ![](assets/image2015-5-28-13-3a37-3a39.png)
 
 ## Configuración de conferencia de audio {#audio-conference-settings}
 
-Esta configuración solo reside en WebEx. No son usadas por o visibles en Marketing, pero pueden ser importantes para su seminario web, por lo que los dobles de revisión!
+Estos ajustes solo residen en WebEx. No son utilizados por ni se pueden ver en Marketo, pero puede que sean importantes para su seminario web, por lo que debe comprobarlos dos veces.
 
-## Descripción y opciones de evento {#event-description-options}
+## Descripción y opciones del evento  {#event-description-options}
 
-Las siguientes opciones son usadas por o visibles en Marketing. Otros campos solo residen en WebEx.
+Marketo utiliza o puede ver las siguientes opciones. Otros campos solo residen en WebEx.
 
-* **Descripción** : introduzca una descripción. Esto será visible pero no modificable en Marketing.
-* **Encuesta**  posterior al evento: el comerciante no puede capturar la información en una encuesta posterior al evento WebEx en este momento.
-* **Dirección URL**  de destino: (opcional) puede introducir la dirección URL de una página de aterrizaje de marketing que sirva de dirección URL de destino para que se muestre una vez finalizada la sesión.
+* **Descripción** - Introduzca una descripción. Esto se puede ver, pero no se puede modificar en Marketo.
+* **Encuesta posterior al evento** - Marketo no puede capturar la información en una encuesta posterior al evento de WebEx en este momento.
+* **Dirección URL de destino** : (opcional) puede introducir la dirección URL de una página de aterrizaje de Marketo para que sirva como dirección URL de destino que se mostrará una vez finalizada la sesión.
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
 
 ## Asistentes y registro {#attendees-registration}
 
-Controlará la lista de invitación, el formulario de registro y otros correos electrónicos mediante un Evento de marketing. Marketo no admitirá otras funciones, entre las que se incluyen:
+Controlará la lista de invitación, el formulario de registro y otros correos electrónicos mediante un Evento de Marketo. Marketo no admitirá otras funciones, entre ellas:
 
-* **Número máximo de usuarios registrados** : actualmente  **** no se admite con la integración de Marketing a WebEx.  La aprobación manual de los usuarios registrados está disponible mediante el estado de progresión Pendiente de aprobación en Marketing.
+* **Número máximo de solicitantes de registro** - Actualmente **not** compatible con la integración Marketo-WebEx.  La aprobación manual de los registradores está disponible utilizando el estado Pendiente de aprobación de progresión en Marketo.
 
-* **ID de registro requerido** : admitido actualmente mediante la integración de Marketing-WebEx. Puede utilizar Marketo para enviar el correo electrónico de confirmación de su evento. Cuando la persona se registra, recibe una dirección URL única que utiliza para entrar en el evento.
+* **Se requiere un ID de registro** - Actualmente compatible con la integración Marketo-WebEx. Puede utilizar Marketo para enviar el correo electrónico de confirmación del evento. Cuando la persona se registra, recibe una dirección URL única que utiliza para entrar en el evento.
 
    >[!TIP]
    >
-   >Para completar el correo electrónico de confirmación con esta dirección URL única, utilice el siguiente token en el correo electrónico: `{{member.webinar url}}`. Cuando se envía la dirección URL de confirmación, este token se resuelve automáticamente en la dirección URL de confirmación única de la persona.
+   >Para rellenar el correo electrónico de confirmación con esta dirección URL única, utilice el token siguiente en el correo electrónico: `{{member.webinar url}}`. Cuando se envía la dirección URL de confirmación, este token se resuelve automáticamente en la dirección URL de confirmación única de la persona.
    >
-   >Configure el correo electrónico de confirmación en **Operativo** para asegurarse de que las personas que se registren y puedan cancelarse la suscripción sigan recibiendo la información de confirmación.
+   >Configure el correo electrónico de confirmación en **Operativo** para garantizar que las personas que se registren y puedan darse de baja sigan recibiendo su información de confirmación.
 
-* **Contraseña**  de registro: (opcional) actualmente no se admite con la integración de Marketing a WebEx.
-* **Reglas**  de aprobación: Actualmente no se admite con la integración de Marketing a WebEx. Sin embargo, puede utilizar campañas inteligentes en Marketing para controlar las aprobaciones.
+* **Contraseña de registro** : (Opcional) Actualmente no se admite mediante la integración Marketo-WebEx.
+* **Reglas de aprobación** - Actualmente no es compatible con la integración Marketo-WebEx. Sin embargo, puede utilizar campañas inteligentes en Marketo para controlar las aprobaciones.
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
-### Presentadores y panelistas {#presenters-panelists}
+### Presentadores y ponentes {#presenters-panelists}
 
-La información configurada en esta sección no se pasa a Marketing.
+La información configurada en esta sección no se pasa a Marketo.
 
 ### Mensajes de correo electrónico {#email-messages}
 
-Usará Marketo para enviar correos electrónicos a sus usuarios registrados, correos electrónicos de confirmación, etc. No necesita configurar nada en esta sección. Desactive (desmarque) las opciones de mensajes de correo electrónico en WebEx.
+Utilizará Marketo para enviar correos electrónicos a sus usuarios registrados, correos electrónicos de confirmación, etc. No es necesario configurar nada en esta sección. Desactive (desmarque) las opciones de mensajes de correo electrónico en WebEx.
 
 ![](assets/image2015-5-28-14-3a9-3a14.png)
 
 >[!NOTE]
 >
->La integración de Marketing-WebEx no admite el envío de correos electrónicos de confirmación desde WebEx. La confirmación debe enviarse a través de Marketing. Después de programar el evento, asegúrese de copiar la información del evento en el correo electrónico de confirmación de marketing y establecer el correo electrónico como **Operativo**.
+>La integración Marketo-WebEx no admite el envío de correos electrónicos de confirmación desde WebEx. La confirmación se debe enviar mediante Marketo. Una vez programado el evento, asegúrese de copiar la información del evento en el correo electrónico de confirmación de Marketo y establecer el correo electrónico como **Operativo**.
 
-¡Ahora estamos listos para saltar al mercado!
+¡Ahora estamos listos para entrar en Marketo!
 
-1. Seleccione el evento que ha creado. Abra la lista desplegable **Acciones de Evento**. Elija **Configuración de Evento.**
+1. Seleccione el evento que ha creado. Abra el **Acciones de evento** lista desplegable. Choose **Configuración de eventos.**
 
    ![](assets/image2015-5-14-16-3a7-3a31.png)
 
@@ -104,11 +108,11 @@ Usará Marketo para enviar correos electrónicos a sus usuarios registrados, cor
    >
    >El tipo de canal del evento seleccionado debe ser **seminario web**.
 
-1. En **Socio de Evento**, seleccione **WebEx**.
+1. En **Socio de evento**, seleccione **WebEx**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. En **Inicio de sesión**, elija el inicio de sesión de WebEx.
+1. En **Inicio de sesión**, elija su inicio de sesión de WebEx.
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 
@@ -116,31 +120,31 @@ Usará Marketo para enviar correos electrónicos a sus usuarios registrados, cor
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. Seleccione una página de respaldo opcional para su evento WebEx. Elija una de las opciones de la lista desplegable de páginas de aterrizaje de marketing aprobadas o introduzca la dirección URL de una página de aterrizaje que no sea de marketing.
+1. Seleccione una página de copia de seguridad opcional para el evento WebEx. Elija en la lista desplegable de páginas de aterrizaje de Marketo aprobadas o introduzca la dirección URL de una página de aterrizaje que no sea de Marketo.
 
    >[!TIP]
    >
-   >Configure una página de copia de seguridad para dirigir a un miembro a una página específica si hace clic en la URL de evento personalizada antes de la hora de inicio del evento.
+   >Establezca una página de copia de seguridad para dirigir a un miembro a una página específica si hace clic en la dirección URL de su evento personalizado antes de la hora de inicio del evento.
 
    >[!NOTE]
    >
-   >Los campos que envía Marketing to son: Nombre, Apellido, Dirección De Correo Electrónico.
+   >Los campos que Marketo envía son: Nombre, Apellido, Dirección De Correo Electrónico.
 
    ![](assets/webex.png)
 
    >[!CAUTION]
    >
-   >Evite utilizar programas de correo electrónico anidados para enviar sus correos electrónicos de confirmación. Utilice la campaña inteligente del programa de evento en su lugar, como se muestra arriba.
+   >Evite utilizar programas de correo electrónico anidados para enviar los correos electrónicos de confirmación. En su lugar, utilice la campaña inteligente del programa de eventos, como se muestra arriba.
 
    >[!TIP]
    >
-   >Los datos pueden tardar hasta 48 horas en aparecer en Marketing. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar desde el proveedor de seminario web** en el menú Acciones de Evento de la ficha **Resumen** del evento.
+   >Los datos pueden tardar hasta 48 horas en aparecer en Marketo. Si después de esperar tanto tiempo aún no ve nada, seleccione **Actualizar desde el proveedor de seminarios web** en el menú Acciones de evento de la **Resumen** del evento.
 
-¡Dulce! El evento de WebEx ahora se sincroniza con el evento de marketing.  Las personas que se registren en el seminario web se enviarán a su proveedor de seminarios web a través del paso Cambiar el estado del Programa cuando el estado nuevo se establezca en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Además, asegúrese de que el paso 1 del flujo de cambio de estado de Programa y el paso 2 del flujo de envío de correo electrónico.
+¡Dulce! El evento WebEx ahora se sincroniza con el evento de Marketo.  Las personas que se registren en el seminario web se enviarán al proveedor de seminarios web a través del paso Cambiar el estado del programa cuando el nuevo estado esté configurado como &quot;Registrado&quot;. Ningún otro estado empuja a la persona. Además, asegúrese de realizar el paso 1 del flujo de cambio de estado del programa y el paso 2 del flujo de envío de correo electrónico.
 
-## Visualización del programa {#viewing-the-schedule}
+## Visualización del programa  {#viewing-the-schedule}
 
-En la vista calandario del programa, haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
+En la vista de programación del programa, haga clic en la entrada de calendario del evento. Puede ver la programación en el lado derecho de la pantalla.
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
