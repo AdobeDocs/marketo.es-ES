@@ -1,10 +1,8 @@
 ---
 description: 'Motivos de la llamada: Documentos de Marketo: Documentación del producto'
 title: Razones de la llamada
-hide: true
-hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -17,7 +15,7 @@ Permita que sus equipos de ventas seleccionen motivos de llamada al realizar lla
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador.**
+>**Se requieren permisos de administrador**
 
 ## Habilitar motivos de llamada {#enable-call-reasons}
 
