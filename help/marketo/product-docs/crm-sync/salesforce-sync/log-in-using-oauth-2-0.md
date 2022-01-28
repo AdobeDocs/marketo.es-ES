@@ -2,21 +2,24 @@
 description: Inicio de sesión utilizando OAuth 2.0 - Marketo Docs - Documentación del producto
 title: Iniciar sesión utilizando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# Inicie sesión utilizando OAuth 2.0 {#log-in-using-oauth-2-0}
+# Iniciar sesión utilizando OAuth 2.0 {#log-in-using-oauth-2-0}
 
 Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaciones accedan de forma segura a los datos (autentique la aplicación utilizando OAuth 2.0) sin tener que revelar las credenciales de inicio de sesión. A continuación se indican los pasos que se deben realizar para conectar y sincronizar Marketo con Salesforce de forma segura.
 
+>[!IMPORTANT]
+>
+>Para conectar Marketo y Salesforce mediante OAuth, inicie sesión en Marketo a través de un navegador privado (incógnito) para evitar conectarse a Salesforce con el nombre de usuario incorrecto.
+
 ## Configurar aplicación conectada {#set-up-connected-app}
 
-1. En Salesforce, en Configuración, dentro de las Herramientas de plataforma, vaya a Aplicaciones, Administrador de aplicaciones y haga clic en **Nueva aplicación conectada**.
+1. En Salesforce, en Configuración, dentro de Herramientas de plataforma, vaya a Aplicaciones, Administrador de aplicaciones y haga clic en **Nueva aplicación conectada**.
 
    ![](assets/setting-up-oauth-2-1.png)
 
@@ -24,7 +27,7 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. Haga clic en la casilla **Habilitar configuración de OAuth**. Para Callback URL, escriba `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Seleccione todos los ámbitos de OAuth disponibles y haga clic en **Agregar**.
+1. Haga clic en el **Habilitar la configuración de OAuth** casilla de verificación. En URL de devolución de llamada, introduzca `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Seleccione todos los ámbitos de OAuth disponibles y haga clic en **Agregar**.
 
    ![](assets/setting-up-oauth-2-3.png)
 
@@ -32,7 +35,7 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
    ![](assets/setting-up-oauth-2-4.png)
 
-1. Haga clic en **Continue**.
+1. Haga clic en **Continuar**.
 
    ![](assets/setting-up-oauth-2-5.png)
 
@@ -57,17 +60,17 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
 >[!CAUTION]
 >
->Asegúrese de ocultar todos los campos que no necesite en Marketo del usuario de sincronización antes de hacer clic en **Sincronizar campos**. Una vez que haga clic en Campos de sincronización, todos los campos que el usuario pueda ver en SFDC se crearán en Marketo de forma permanente y no se podrán eliminar.
+>Asegúrese de ocultar todos los campos que no necesite en Marketo del usuario de sincronización antes de hacer clic en **Campos de sincronización**. Una vez que haga clic en Campos de sincronización, todos los campos que el usuario pueda ver en SFDC se crearán en Marketo de forma permanente y no se podrán eliminar.
 
-1. En la sección Administración de Marketo, haga clic en **CRM** y luego en **Sincronizar con Salesforce**.
+1. En la sección Administración de Marketo , haga clic en **CRM**, luego **Sincronizar con Salesforce**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
-1. Agregue la información de la clave de consumidor y del secreto de consumidor que haya registrado anteriormente y haga clic en y **Guardar**.
+1. Añada la información de la clave de consumidor y del secreto de consumidor que haya registrado anteriormente y haga clic en y **Guardar**.
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. En la página de sincronización de Marketo Salesforce, haga clic en el botón **Login with Salesforce**.
+1. En la página de sincronización de Marketo Salesforce, haga clic en el botón **Iniciar sesión con Salesforce** botón.
 
    ![](assets/setting-up-oauth-2-9.png)
 
@@ -79,7 +82,7 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
    ![](assets/setting-up-oauth-2-10.png)
 
-1. Introduzca el código de verificación que ha recibido por correo electrónico (enviado por Salesforce) y haga clic en **Verify**.
+1. Introduzca el código de verificación recibido por correo electrónico (enviado por Salesforce) y haga clic en **Verificar**.
 
    ![](assets/setting-up-oauth-2-11.png)
 
@@ -91,7 +94,7 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
    ![](assets/setting-up-oauth-2-13.png)
 
-1. Una vez finalizada la sincronización de campos, haga clic en **Iniciar sincronización de Salesforce**.
+1. Al finalizar la sincronización de campos, haga clic en **Iniciar sincronización de Salesforce**.
 
    ![](assets/setting-up-oauth-2-14.png)
 
