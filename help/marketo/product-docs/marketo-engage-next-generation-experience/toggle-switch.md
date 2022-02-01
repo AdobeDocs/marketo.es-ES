@@ -2,9 +2,9 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ La vista de lista de la página de aterrizaje de próxima generación ofrece fil
 Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-4.png)
+
+## Página de detalles de la página de aterrizaje {#landing-page-details-page}
+
+1. En Marketo, busque y seleccione la página de aterrizaje.
+
+   ![](assets/toggle-switch-5.png)
+
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+
+   ![](assets/toggle-switch-6.png)
+
+Se cargará la nueva experiencia.
+
+![](assets/toggle-switch-7.png)
 
 ## Página Detalles del formulario {#form-details-page}
 
