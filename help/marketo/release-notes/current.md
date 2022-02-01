@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -40,9 +40,9 @@ Las siguientes funciones empezarán a lanzarse en **21 de enero de 2022**, con u
 
 ## Administración {#administration}
 
-* **Reglas de validación del formulario**: Mantenga el estado de la base de datos con la capacidad de bloquear los dominios de correo electrónico problemáticos o no deseados para que no envíen formularios de Marketo Engage. El panel Regla de validación de formulario global permite que los administradores definan una lista de bloqueados o habiliten una lista predefinida de dominios de consumo libres para bloquear los formularios.
+* **[Reglas de validación del formulario](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Mantenga el estado de la base de datos con la capacidad de bloquear los dominios de correo electrónico problemáticos o no deseados para que no envíen formularios de Marketo Engage. El panel Regla de validación de formulario global permite que los administradores definan una lista de bloqueados o habiliten una lista predefinida de dominios de consumo libres para bloquear los formularios.
 
-* **Seguridad del encabezado de la página de aterrizaje**: Los administradores pueden administrar los encabezados Seguridad de transporte estricta y Opciones de X-Frame en sus dominios de página de aterrizaje para aplicar requisitos de seguridad estrictos.
+* **[Seguridad del encabezado de la página de aterrizaje](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Los administradores pueden administrar los encabezados Seguridad de transporte estricta y Opciones de X-Frame en sus dominios de página de aterrizaje para aplicar requisitos de seguridad estrictos.
 
 **_Publicación durante el trimestre_**
 
