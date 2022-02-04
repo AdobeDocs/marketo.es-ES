@@ -4,9 +4,9 @@ title: Envío de correos electrónicos a través del correo electrónico del gru
 hide: true
 hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,39 +19,35 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
 1. Haga clic en el **People** pestaña .
 
-   PICC
+   ![](assets/sending-emails-via-group-email-1.png)
 
 1. Seleccione el grupo al que desee enviar el correo electrónico.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-2.png)
 
 1. Haga clic en el botón Acciones de grupo y seleccione **Grupo de correo electrónico**.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-3.png)
 
 1. Rellene el correo electrónico (o seleccione una plantilla) y envíelo (o programe).
 
-   PICC
+   ![](assets/sending-emails-via-group-email-4.png)
 
 ## Edición de un correo electrónico de grupo {#editing-a-group-email}
 
 1. Crear un correo electrónico de grupo mediante [Pasos 1 a 3 anteriores](#sending-a-group-email).
 
-1. Elija una plantilla o complete el correo electrónico.
+1. [Elegir una plantilla](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)o rellene el correo electrónico.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-5.png)
 
 1. Una vez finalizado el correo electrónico, ahora puede obtener una vista previa de cada correo electrónico de la lista para ver si los campos dinámicos se rellenan correctamente.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-6.png)
 
-1. Seleccione el destinatario deseado.
+1. Seleccione el destinatario deseado y haga clic en **Vista previa de campos dinámicos**. Vea la vista previa a la derecha.
 
-   PICC
-
-1. Haga clic en **Vista previa de campos dinámicos** y vea la vista previa a la derecha.
-
-   PICC
+   ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
@@ -59,6 +55,6 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
 >[!MORELIKETHIS]
 >
->* [Opciones de envío masivo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Uso de una plantilla en la ventana de composición](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Opciones de envío masivo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Uso de una plantilla en la ventana de composición](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 

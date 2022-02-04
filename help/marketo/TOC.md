@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: b6360de280547ba0fa486da094c467853b442621
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '8237'
+source-wordcount: '8240'
 ht-degree: 2%
 
 ---
@@ -273,6 +273,7 @@ ht-degree: 2%
             + [Eliminación de un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [Eliminar persona](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [Ejecutar campaña](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
+            + [Servicio de pasos de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [Otorgar crédito al remitente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Momento interesante](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Quitar de Flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
