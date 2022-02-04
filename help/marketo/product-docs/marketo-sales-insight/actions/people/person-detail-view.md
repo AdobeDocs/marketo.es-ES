@@ -3,10 +3,10 @@ description: Vista de detalles de la persona - Documentos de Marketo - Documenta
 title: Vista de detalles de persona
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ La vista de detalles de la persona proporciona un perfil detallado de cada perso
 
 PICC
 
-1. Haga clic en la persona que desee.
+1. Seleccione la persona que desee.
 
 PICC
 
