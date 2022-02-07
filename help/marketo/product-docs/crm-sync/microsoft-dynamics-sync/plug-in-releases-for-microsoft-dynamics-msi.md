@@ -3,19 +3,18 @@ unique-page-id: 10099102
 description: Versiones de complementos para Microsoft Dynamics MSI - Marketo Docs - Documentación del producto
 title: Versiones de complementos para Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Versiones de complementos para Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará la última versión de los complementos para Marketo Sales Insight (MSI). Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar y descargar la nueva versión.
+La primera vez que sincroniza con Microsoft Dynamics, descarga e instala la última versión de los complementos para Marketo Sales Insight (MSI). Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar y descargar la nueva versión.
 
-[descargue el último complemento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
+Por favor [descargar el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
 
 >[!NOTE]
 >
@@ -23,19 +22,19 @@ La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará l
 
 ## Actualización de la solución MSI {#upgrading-your-msi-solution}
 
-1. Importe la última versión de la solución _sobre la versión existente_ de su Dynamics CRM pulsando el botón **Import** en Dynamics.
+1. Importar la última versión de la solución _sobre la versión existente_ de su Dynamics CRM pulsando el botón **Importar** en Dynamics.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Ejemplo: si su Dynamics CRM tiene la versión 2.0.0.20 y la versión más reciente es 2.0.0.21, importaría _sobre_ la versión 2.0.0.20.
+>Ejemplo: si su Dynamics CRM tiene la versión 2.0.0.20 y la versión más reciente es 2.0.0.21, importaría _over_ versión 2.0.0.20.
 
 1. Haga clic en **Siguiente**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Seleccione **Etapa para la actualización** y **Mantener personalizaciones** y, a continuación, haga clic en **Importar**.
+1. Select **Fase de actualización** y **Mantener personalizaciones** y haga clic en **Importar**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
@@ -64,6 +63,26 @@ La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará l
    <th colspan="1">Notas</th> 
   </tr> 
   <tr> 
+   <td colspan="1">3/2/22</td> 
+   <td colspan="1">2.0.0.27</td> 
+   <td colspan="1">Diseño de cuenta para perspectivas: Momentos interesantes, cambios de puntuación, actividades web, actividades de correo electrónico</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">5/1/22</td> 
+   <td colspan="1">2.0.0.26</td> 
+   <td colspan="1">Puntuación de adopción de programa para enviar correo electrónico</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">28/10/21</td> 
+   <td colspan="1">2.0.0.25</td> 
+   <td colspan="1">Métricas de puntuación de adopción de producto, nuevo panel global (Actividad web, correo electrónico, mejores apuestas)</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10/2/21</td> 
+   <td colspan="1">2.0.0.22</td> 
+   <td colspan="1">Eliminación de la auditoría automática habilitada y cambios en la documentación de la solución MSI</td> 
+  </tr>
+  <tr> 
    <td colspan="1">1/10/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Corrección de errores: Asignación del acceso a los campos de configuración de la API MSI para usuarios con la función Perspectiva de ventas</td> 
@@ -90,7 +109,7 @@ La primera vez que sincroniza con Microsoft Dynamics, descargará e instalará l
   </tr> 
   <tr> 
    <td colspan="1">28/4/20</td> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1">Corrección de errores: Eliminación de la dependencia del vínculo de configuración del mapa del sitio de MSD CRM</td> 
   </tr> 
  </tbody> 
