@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
 workflow-type: tm+mt
-source-wordcount: '8257'
+source-wordcount: '8275'
 ht-degree: 2%
 
 ---
@@ -1258,6 +1258,7 @@ ht-degree: 2%
             + [La campaña ha finalizado](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Integración de Salesforce {#salesforce-integration}
+               + [Configurar la personalización de detalles de actividad de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Conecte su cuenta de ventas de Marketo a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Configuración de sincronización de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + Correo electrónico {#email}
@@ -1283,6 +1284,10 @@ ht-degree: 2%
                + [Redacción de correos electrónicos masivos con Select y Send](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Envío de correos electrónicos a través del correo electrónico del grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Uso de una plantilla en la ventana de composición](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + personas {#people}
+            + [Acciones de perspectivas de ventas y cumplimiento del RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+         + Tareas {#tasks}
+            + [Sincronización de tareas de recordatorio con Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Configuración de Salesforce {#salesforce-configuration}
             + [Configuración de acciones MSI en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
