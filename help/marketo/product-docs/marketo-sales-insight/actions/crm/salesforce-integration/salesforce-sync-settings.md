@@ -4,9 +4,9 @@ title: Configuración de sincronización de Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Esta funcionalidad requiere que esté en la edición Enterprise/Unlimited de Sal
 
 >[!PREREQUISITES]
 >
->Salesforce y Marketo Sales deben estar conectados.
+>Las acciones de Salesforce y Sales Insight deben estar conectadas.
 
-1. En Ventas de Marketo, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ Una vez que active &quot;Email to Salesforce (BCC)&quot;, recibirá un CCO de su
 
 >[!PREREQUISITES]
 >
->Salesforce y Marketo Sales deben estar conectados.
+>Las acciones de Salesforce y Sales Insight deben estar conectadas.
 
 **Para registrar sus correos electrónicos en Salesforce por correo electrónico (BCC)**
 
@@ -93,9 +93,9 @@ Si no ve Mi correo electrónico a Salesforce en Configuración, es posible que e
 1. Marque la casilla junto a &quot;Activo&quot;.
 1. Haga clic en **Guardar**.
 
-## Sincronizar tareas/recordatorios de ventas de Marketo con tareas de Salesforce {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Sincronizar acciones de perspectivas de ventas Tareas/recordatorios con tareas de Salesforce {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. En Ventas de Marketo, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/salesforce-sync-settings-10.png)
 

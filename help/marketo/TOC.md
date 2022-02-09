@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '8247'
+source-wordcount: '8257'
 ht-degree: 2%
 
 ---
@@ -1289,6 +1289,9 @@ ht-degree: 2%
             + [Desinstalación del paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+         + personas {#people}
+         + [Vista de detalles de persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+         + [Acciones de perspectivas de ventas y cumplimiento del RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Enviar un correo electrónico de ventas {#send-a-sales-email}
             + [Información general sobre el seguimiento de correo electrónico](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Plantillas {#templates}
