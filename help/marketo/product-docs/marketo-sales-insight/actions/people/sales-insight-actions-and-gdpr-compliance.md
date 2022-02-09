@@ -3,7 +3,7 @@ description: 'Acciones de perspectivas de ventas y cumplimiento del RGPD: Docume
 title: Acciones de perspectivas de ventas y cumplimiento del RGPD
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 1%
@@ -101,7 +101,7 @@ Las acciones de perspectiva de ventas también permiten actualizar los tipos de 
 
 Al seleccionar uno o más contactos en la página Personas, aparece un punto (menú de tres puntos) a la derecha. Haga clic en ella y verá Autorización y Origen son las opciones. Puede configurar la Autorización o el Origen de varios contactos simultáneamente.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 Al hacer clic en el modal de autorización, aparece una ventana emergente con opciones desplegables que coinciden con las de la tarjeta de cumplimiento.
 
