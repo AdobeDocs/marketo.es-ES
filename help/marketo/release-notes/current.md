@@ -2,16 +2,16 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
+source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Enero de 2022 {#release-notes-jan-22}
+# Notas de la versión: Marzo de 2022 {#release-notes-mar-22}
 
-La versión del 22 de enero incluye las siguientes funciones. Consulte la edición para Marketo Engage de Adobe si hay disponibilidad de funcionalidades.
+La versión del 22 de marzo incluye las siguientes funciones. Consulte la edición para Marketo Engage de Adobe si hay disponibilidad de funcionalidades.
 
 >[!AVAILABILITY]
 >
@@ -19,75 +19,56 @@ La versión del 22 de enero incluye las siguientes funciones. Consulte la edici�
 
 **_Versiones trimestrales_**
 
-Las siguientes funciones empezarán a lanzarse en **21 de enero de 2022**, con una implementación por fases de cada función en las semanas siguientes (a menos que se especifique lo contrario).
+Las siguientes funciones empezarán a lanzarse en **11 de marzo de 2022**, con una implementación por fases de cada función en las semanas siguientes (a menos que se especifique lo contrario).
+
+## Organización en canales múltiples {#cross-channel-orchestration}
+
+* **Chat dinámico**: Maximice todas las oportunidades en su sitio web centrándose tanto en posibles clientes como en cuentas con conversaciones dinámicas, atractivas y personalizadas 1:1. La conversación dinámica permite a los usuarios Marketo Engage comenzar a aprovechar la conversación como parte clave de las experiencias de canal cruzado integradas para casos de uso de ventas y marketing B2B. Las funciones incluyen: la capacidad de reservar reuniones directamente dentro del chat, enrutamiento de posibles clientes, plantillas de inicio, creación de conversaciones de arrastrar y soltar, y mucho más. El Chat Dinámico está incluido en todos los paquetes de Marketo Engage y será implementado para todos los usuarios Marketo Engage este año.
+
+* **Mejora del filtrado de actividades de bots de correo electrónico**: Como mejora de la función de filtrado de actividades de bots de correo electrónico publicada anteriormente, ahora puede incluirse en las actividades de registro que se han identificado como bots. A continuación, puede filtrar y almacenar en déclencheur las acciones basadas en actividades que los bots identifiquen como realizadas.
 
 ## Experiencia de próxima generación {#next-generation-experience}
 
 * **Pantallas actualizadas en la experiencia de próxima generación**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
 
-   * Detalles de los recursos de la página de aterrizaje en Design Studio
-   * Detalles del recurso de la página de aterrizaje en actividades de marketing
+   * Vista de lista de correo electrónico en Design Studio (incluidas las nuevas acciones masivas)
+   * Vista de lista de formularios en Design Studio (incluidas las nuevas acciones masivas)
 
-## Integración de Microsoft Dynamics {#microsoft-dynamics-integration}
+* **Importar actualización del flujo de trabajo del programa**: El flujo de trabajo del programa de importación se está entregando en la experiencia de próxima generación con un diseño actualizado y mejoras de uso. Esto será un cambio automático sin un interruptor de alternancia.
 
-* **Sincronización del tipo de campo Multiselect Optionset Disponible de forma general**: Sincronice el tipo de campo multiselect optionset de Microsoft Dynamics para aprovecharlo en listas inteligentes y campañas inteligentes para una segmentación de audiencia más granular. Algunos ejemplos son: temas/productos de interés, modos de comunicación preferidos, etc. Esta nueva sincronización está disponible para Microsoft Dynamics versión 9.X (incluida Dynamics 365 Online).
+* **Control de administración para el conmutador de experiencias de próxima generación**: Administre el despliegue de la experiencia de próxima generación de forma que funcione para los usuarios con la capacidad de los administradores de seleccionar qué tipos de usuarios pueden acceder al conmutador.
 
-* **Autenticación de servidor a servidor para Microsoft Dynamics 365 Online**: Para aumentar la seguridad, ahora admitiremos Servidor a Servidor (S2S) como un modo de autenticación adicional para el usuario de sincronización de Marketo Engage en Azure Active Directory para el acceso no interactivo a Microsoft Dynamics 365 Online. Esto le permite utilizar la autenticación multifactor, ya que todos los inicios de sesión y autenticación se basarán en OAuth (solo el ID de cliente y el secreto de cliente).
+## Automatización de la experiencia {#experience-automation}
 
->[!NOTE]
->
->El modo S2S se basa en el usuario de la aplicación en lugar de en el usuario con licencia, lo que ahorra el uso de una licencia adicional.
+* **Pasos de flujo de autoservicio (Beta)**: Amplíe la conectividad entre el Marketo Engage y el resto de la pila con la capacidad de crear pasos de flujo personalizados para utilizarlos en campañas inteligentes. Tanto los usuarios como los socios de Marketo pueden aprovechar esta funcionalidad para permitir el uso de servicios web externos en campañas por lotes y ejecutables, a diferencia de los enlaces web, que solo se pueden utilizar en campañas de déclencheur.
 
-## Administración {#administration}
+* **Caducidad del recurso**: Mantenga el control de sus campañas y activos que diferencian el tiempo con la capacidad de programar su desactivación automática en una fecha y hora especificadas en la experiencia del usuario de Classic.
 
-* **[Reglas de validación del formulario](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: Mantenga el estado de la base de datos con la capacidad de bloquear los dominios de correo electrónico problemáticos o no deseados para que no envíen formularios de Marketo Engage. El panel Regla de validación de formulario global permite que los administradores definan una lista de bloqueados o habiliten una lista predefinida de dominios de consumo libres para bloquear los formularios.
+* **Anulación de prioridad de campaña inteligente**: Asegúrese de que las campañas inteligentes de déclencheur de alta prioridad se ejecuten lo antes posible con la capacidad de anular la clasificación de prioridad de campaña estándar. Las campañas inteligentes de déclencheur de menor prioridad también se pueden reducir en prioridad para liberar recursos de procesamiento para otras tareas de alta prioridad.
 
-* **[Seguridad del encabezado de la página de aterrizaje](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: Los administradores pueden administrar los encabezados Seguridad de transporte estricta y Opciones de X-Frame en sus dominios de página de aterrizaje para aplicar requisitos de seguridad estrictos.
+## Mejoras de API {#api-enhancements}
+
+* **Devolver Desactivar el estado de seguimiento abierto de los correos electrónicos**: Permite leer el estado de seguimiento abierto de los correos electrónicos a través de la API
+* **Recuperar líneas del asunto de contenido dinámico desde el correo electrónico**: Permite a los especialistas en marketing realizar análisis de las líneas de asunto dinámicas en las herramientas de BI
+* **Campos personalizados de miembro del programa CRUD**: Permite a los especialistas en marketing crear mediante programación campos personalizados de miembros del programa
+* **Exportación de objetos personalizados masiva actualizadaEn filtro**: Permite a los especialistas en marketing sincronizar mediante programación objetos personalizados
+* **Exponer la configuración de inicio del cabezal para programas de correo electrónico**: Permite a los especialistas en marketing configurar programas de correo electrónico con inicio de cabezal mediante API
+* **Actualización selectiva de la etiqueta del programa**: Permite a los especialistas en marketing insertar actualizaciones de etiquetas selectivas sin pulsar todas las etiquetas al mismo tiempo
 
 **_Publicación durante el trimestre_**
 
 Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Conector de destino de Marketo Engage de AEP: Crear posibles clientes nuevos {#aep-marketo-engage-destination-connector}
-
-Los clientes Marketo Engage que también utilizan Adobe Experience Platform (AEP) pueden maximizar su base de datos con la capacidad de insertar registros de personas nuevas en el Marketo Engage desde AEP a través del conector de destino de AEP. Al enviar segmentos de audiencia de AEP a Marketo Engage, las personas del segmento que no existan en la base de datos de Marketo Engage [se puede añadir automáticamente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
-
-## Sales Insight {#sales-insight}
+## Bizible {#bizible}
 
 ![(estrella)](assets/yellow-star.png)
 
-**Perspectiva de ventas para Salesforce CRM**
-
-* **Nueva columna Tipo para las mejores apuestas**: Los vendedores obtendrán perspectivas más rápidas con una nueva columna etiquetada como &quot;Tipo&quot; para diferenciar entre posibles clientes y contactos en la página Mejores apuestas.
-
-* **Actualización de la API de la plataforma de Salesforce**: En respuesta a las versiones 21.0 a 30.0 de la API de Salesforce Platform que se retira de Salesforce, el paquete de perspectivas de ventas se ha actualizado con las API más recientes.
-
-* **Promoción de marca actualizada**: Todas las páginas de perspectivas de ventas se actualizan para ajustarse a la marca de Adobe.
-
-**Perspectiva de ventas para Microsoft Dynamics**
-
-* **Diseño de cuenta actualizado**: Los vendedores pueden obtener una vista colectiva de las principales actividades, como: actividades de correo electrónico, actividades web, momentos interesantes y cambios de puntuación para todos los contactos de una cuenta.
-
-## Conexión de ventas {#sales-connect}
-
-![(estrella)](assets/yellow-star.png)
-
-* **Llamar a resultados y motivos**: Comprenda y rastree los esfuerzos salientes de sus equipos de ventas en más detalle con las opciones nuevas y totalmente personalizables de resultados de llamadas y motivos de llamadas. Además de estos nuevos campos, estamos introduciendo un nuevo gobierno para aplicar el motivo de la llamada y la selección de resultados mientras los vendedores realizan llamadas, un nuevo gobierno para habilitar o deshabilitar los motivos y resultados de la llamada, y un nuevo campo personalizado Razón de la llamada y Actividad de Salesforce de resultados de llamada para registrar datos en Salesforce. [Haga clic aquí](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) para obtener más información.
-
-* **Personalización de detalles de actividad de Salesforce**: Captura más datos de actividad y tarea de ventas en Salesforce personalizando la información que se agrega al campo de asunto de la tarea de Salesforce cuando se registra una actividad de ventas en Salesforce desde Sales Connect. [Haga clic aquí](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) para obtener más información.
+* **Plantillas BI**: Ahora, Bizible proporcionará artefactos de informes y muestras para Tableau e informes básicos descargables para permitir un rápido desarrollo de informes personalizados adaptados a sus necesidades empresariales específicas.
 
 ## Anuncios {#announcements}
 
-* **Marketo Sky en desuso**: El 11 de marzo, Marketo Sky dejará de estar disponible, ya que centraremos nuestros recursos en ofrecer la experiencia de usuario de próxima generación. En un esfuerzo por mantener el acceso a la funcionalidad que es exclusiva del Marketo Sky actual, incorporamos la caducidad de los recursos y la anulación de la prioridad de las campañas inteligentes en la experiencia principal de marzo. [Haga clic aquí](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
-
-* **Finalizaciones de formulario en desuso**: Los formularios Marketo Engage rechazarán los POST de formulario programáticos no compatibles con el extremo leadCapture/save2. [Haga clic aquí](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) para obtener más información.
-
-* **Verificación de correo electrónico**: A partir de esta versión, las suscripciones de Marketo Engage empezarán a hacer que los usuarios que no sean API solo verifiquen las direcciones de correo electrónico. Los usuarios autenticados del servicio de directorio tendrán automáticamente sus correos electrónicos verificados cuando su suscripción esté habilitada con Verificación de correo electrónico. La verificación de correo electrónico para los usuarios que utilizan la función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; o los que tienen suscripciones que tienen un solo correo electrónico asociado a varios usuarios dentro de la suscripción se retrasará y coincidirá con la obsolescencia de la función en marzo.
-
-* **Iniciar sesión en el cuadro de diálogo Invitar a usuario**: En marzo, la función existente y opcional &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; quedará obsoleta. La función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; está anulada por la función de ID universal, que es necesaria para la próxima integración del sistema de Identity Management de Adobe y se habilitó en agosto de 2021 en todas las suscripciones. Como resultado de la desaprobación, el Marketo Engage aplicará solamente un usuario para que se asocie por dirección de correo electrónico dentro de una suscripción.
-
-**Dominios de Marketo Engage: configuración de perspectivas de ventas**: Para los dominios Marketo Engage que no tienen el certificado SSL aprovisionado y https://, las llamadas fallarán con un error de protocolo de enlace SSL. Por lo tanto, estos dominios van a quedar obsoletos. Como resultado, los usuarios de Sales Insight con una configuración anterior que señala a cualquiera de estos dominios pueden encontrar errores de llamadas del sistema en sus paneles Poder, Contacto, Cuenta, Oportunidad o Marketo Global. Le recomendamos que actualice su [configuración del Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) en Salesforce si se encuentra con este error. Solo es necesario actualizar las credenciales del Marketo Engage resaltadas en la sección &quot;Marketo Sales Insight Config&quot; del documento.
+* **Marketo Sky en desuso**: En marzo, Marketo Sky dejará de estar disponible, ya que centraremos nuestros recursos en ofrecer la experiencia de usuario de próxima generación. En un esfuerzo por mantener el acceso a la funcionalidad que es exclusiva del Marketo Sky actual, incorporamos la caducidad de los recursos y la anulación de la prioridad de las campañas inteligentes en la experiencia clásica. [Haga clic aquí](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
 
 **_Seminario web sobre la versión del producto_**
 
-Únase a nosotros el 27 de enero de 2022, a las 9:00 PT / 12:00 p.m. ET para un [seminario web en directo](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) alojado por nuestro equipo de productos, donde podrá aprender a utilizar las últimas innovaciones de productos.
+Únase a nosotros el 11 de mayo de 2022, a las 9:00 AM PT / 12:00 PM ET para un [seminario web en directo](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) alojado por nuestro equipo de productos, donde podrá aprender a utilizar las últimas innovaciones de productos.
