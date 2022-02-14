@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
+source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
 workflow-type: tm+mt
-source-wordcount: '8273'
+source-wordcount: '8282'
 ht-degree: 2%
 
 ---
@@ -175,6 +175,7 @@ ht-degree: 2%
          + [Resumen](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [Configuración de administración](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configuración de administración de productos](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
+         + [Añadir usuario solo de API para suscripciones habilitadas para Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [Agregar o eliminar un administrador de productos](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Agregar o eliminar un usuario](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + Configuración {#settings}
