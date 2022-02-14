@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 72e5c209939f30228d4ef9f6af798265e0446456
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8273'
 ht-degree: 2%
 
 ---
@@ -211,7 +211,6 @@ ht-degree: 2%
          + [Crear un usuario solo de API](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Crear, eliminar, editar y cambiar una función de usuario](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Verificación de correo electrónico](product-docs/administration/users-and-roles/email-verification.md)
-         + [Habilitar el permiso de importación de lista avanzada en una función](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Exportar una lista de usuarios y funciones](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Administración de usuarios de Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Administración de roles y permisos de usuario](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
@@ -298,7 +297,7 @@ ht-degree: 2%
             + [Cambiar secuencia de programa de participación](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Cambiar el estado del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Cambiar el éxito del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
-            + [Cambiar datos de miembros del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
+            + [Cambiar datos del miembro del programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
          + Acciones de flujo de Microsoft Dynamics {#microsoft-dynamics-flow-actions}
             + [Agregar o quitar personas de la campaña de Dynamics](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Cambiar propietario en Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
@@ -628,7 +627,7 @@ ht-degree: 2%
          + [Comprobación de anuncios de posibles clientes de Facebook para la integración móvil con Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Explicación de las conversiones sin conexión de Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Uso de filtros y Déclencheur de anuncios de posibles clientes en una campaña inteligente](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + formularios {#forms}
+      + Formularios {#forms}
          + Creación de un formulario {#creating-a-form}
             + [Crear un formulario](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Agregar un campo a un formulario](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -681,7 +680,7 @@ ht-degree: 2%
          + [Reemplazar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Buscar imágenes y archivos cargados](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Cargar imágenes y archivos desde el cuadro](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + páginas de destino {#landing-pages}
+      + Páginas de destino {#landing-pages}
          + Explicación de las páginas de aterrizaje {#understanding-landing-pages}
             + [Aprobar, desaprobar o eliminar una página de aterrizaje](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe de rendimiento de la página de aterrizaje](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -715,7 +714,7 @@ ht-degree: 2%
             + [Vista previa de una página de aterrizaje con contenido dinámico](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Vista previa de una página de aterrizaje](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Redireccionar una página de aterrizaje de Marketo a otra página](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + plantillas de la página de destino {#landing-page-templates}
+         + Plantillas de la página de destino {#landing-page-templates}
             + [Crear una plantilla de página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Crear una plantilla de página de aterrizaje guiada](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Editar una plantilla de página de aterrizaje de Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -1182,7 +1181,7 @@ ht-degree: 2%
          + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glosario de actividades de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Déclencheur y filtros de actividades de ventas](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + personas {#people}
+      + Personas {#people}
          + [Vista de detalles de persona](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Conexión de ventas y cumplimiento del RGPD](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Administración de contactos {#managing-contacts}
@@ -1289,7 +1288,7 @@ ht-degree: 2%
                + [Uso de una plantilla en la ventana de composición](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-         + personas {#people}
+         + Personas {#people}
             + [Vista de detalles de persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Acciones de perspectivas de ventas y cumplimiento del RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Configuración de Salesforce {#salesforce-configuration}
@@ -1454,7 +1453,7 @@ ht-degree: 2%
             + [Prioridad del orden de segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Explicación del contenido dinámico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Uso de filtros de segmento en una lista inteligente](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         +  fragmentos{#snippets}
+         + Fragmentos {#snippets}
             + [Añadir contenido a un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprobar un fragmento sin borrador](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Aprobar un fragmento](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
