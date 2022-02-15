@@ -4,16 +4,22 @@ title: Resumen
 hide: true
 hidefromtoc: true
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
 # Resumen {#overview}
 
-Si la suscripción al Marketo Engage de Adobe se ha aprovisionado el 21/10/4 o después, se integra con el sistema Identity Management de Adobe. Esta integración permite a los usuarios iniciar sesión en las aplicaciones de Marketo Engage y otras aplicaciones de Experience Cloud mediante una identidad de Adobe común.
+Si tiene una nueva cuenta con el Marketo Engage de Adobe (nueva cuenta, no solo una nueva instancia para una cuenta existente) a partir del 15 de febrero de 2022, puede integrarse con el sistema Identity Management de Adobe, según el paquete de productos comprado. Para averiguar si lo tiene, póngase en contacto con el administrador de Marketo o con el administrador de éxito del cliente de su cuenta.
+
+Las suscripciones existentes a Marketo se migrarán a Adobe Identity Management System a partir de este año.
+
+>[!NOTE]
+>
+>La asistencia de Marketo no podrá proporcionar ninguna actualización con respecto a la migración de IMS de Adobe. El Administrador de éxito de los clientes establecerá un plazo estimado para los próximos meses.
 
 ## Niveles de perfil
 
@@ -50,6 +56,10 @@ El sistema Identity Management de Adobe consta de tres componentes.
 
 * API de administración de usuarios de Adobe (UMAPI): Permite a las organizaciones administrar usuarios y autorizaciones empresariales en Adobe Admin Console a nivel de API.
 
+**¿Cuándo se integrarán las suscripciones de Marketo Engage existentes con IMS?**
+
+Las suscripciones de Marketo existentes se migrarán a Adobe Identity Management System más adelante este año. La asistencia de Marketo no podrá proporcionar ninguna actualización con respecto a la migración de IMS de Adobe. El Administrador de éxito de los clientes establecerá un plazo estimado para los próximos meses.
+
 **¿Cuál es la diferencia entre un administrador de productos de Adobe y un administrador Marketo Engage?**
 
 * El administrador de productos de Adobe es una función nueva en la plataforma de Marketo.
@@ -58,11 +68,11 @@ El sistema Identity Management de Adobe consta de tres componentes.
 * El administrador de productos de Adobe tiene los mismos derechos y privilegios que un administrador de Marketo estándar.
 * La función de administrador Marketo Engage sigue siendo administrador y se concede a un usuario en Marketo Engage.
 
-**¿Se ha producido algún cambio en la compatibilidad con el cliente de API?**
+**¿Se ha producido algún cambio en la compatibilidad con el cliente de la API de administración de usuarios?**
 
-Sí. Aquellos que se hayan incorporado a Adobe IMS no podrán utilizar todas las API de administración de usuarios de Marketo existentes. Para las acciones de invitación, actualización y eliminación de usuarios, la variable [API de IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html) debe usarse. Para la administración de funciones, se siguen aplicando las API de administración de usuarios de Marketo.
+Sí. Aquellos que se hayan incorporado a Adobe IMS no podrán utilizar todas las API de administración de usuarios de Marketo existentes. Para las acciones de invitación, actualización y eliminación del usuario, el Adobe [API de IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html) debe usarse. Para la administración de funciones, se siguen aplicando las API de administración de usuarios de Marketo. Aparte de esto, no hay otros cambios en la compatibilidad con el cliente de la API de REST de Marketo.
 
-**¿Con quién nos ponemos en contacto para obtener asistencia?**
+**¿Con quién nos ponemos en contacto si estamos integrados con IMS?**
 
 Seguiría el procedimiento estándar para ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
@@ -70,7 +80,7 @@ Seguiría el procedimiento estándar para ponerse en contacto con [Asistencia de
 
 No. La administración de funciones de usuario (dentro de espacios de trabajo) se completa en Marketo Engage.
 
-**Soy administrador de Marketo y no tengo acceso al Admin Console. ¿Cómo obtengo acceso?**
+**Soy administrador de Marketo en una suscripción integrada a IMS y no tengo acceso al Admin Console. ¿Cómo obtengo acceso?**
 
 Cualquier administrador de sistemas de Adobe o de productos que tenga acceso al Admin Console de su organización podrá proporcionarle acceso. Si no está seguro de quién cuenta con privilegios de administrador en la consola, póngase en contacto con [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/contact.html).
 
@@ -82,7 +92,7 @@ Aunque habrá una tarjeta de producto en Admin Console para Conexión de Ventas,
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**¿Sigo yendo a la sección Administración de Marketo para realizar cambios en la cuenta?**
+**¿Todavía accedo a la sección Administración de Marketo para realizar cambios en la cuenta de usuario de mi cuenta?**
 
 No, necesitaría navegar a [account.adobe.com](https://account.adobe.com).
 
@@ -98,7 +108,7 @@ Sí. La integración de Marketo con Adobe IMS es compatible con los usuarios de 
 
 Actualmente, Adobe IMS no admite nada parecido a la función de autorización de dispositivos de Marketo.
 
-**¿Todavía es posible utilizar la función &quot;Iniciar sesión en el diálogo de invitación de usuario&quot; para que el inicio de sesión sea único desde nuestro correo electrónico?**
+**¿Sigue siendo posible utilizar la función &quot;Iniciar sesión en el diálogo de invitación de usuario&quot; para que el inicio de sesión de un usuario sea único desde su correo electrónico?**
 
 No. El flujo de trabajo de invitación del usuario ya no está activo cuando una suscripción está habilitada para IMS, por lo que la función ya no es válida. La identidad de Adobe requiere que la identidad de un usuario se guíe por su correo electrónico.
 
