@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Pestaña Configuración de la perspectiva de ventas de Marketo en Salesforce - Documentos de Marketo - Documentación del producto
 title: Pestaña Configuración de Marketo Sales Insight en Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ Las configuraciones se aplican a todos los usuarios de MSI y no son específicas
 Si elige hacerlo, se borrarán todas las configuraciones en SFDC y no se podrán restaurar. Tendrá que volver a configurar todo de nuevo.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>No seleccione la casilla de verificación &quot;Habilitar acciones MSI&quot; a menos que esté utilizando las funciones Acciones de perspectivas de ventas.
 
 >[!MORELIKETHIS]
 >
