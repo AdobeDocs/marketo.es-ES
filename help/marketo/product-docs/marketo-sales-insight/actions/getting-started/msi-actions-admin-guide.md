@@ -4,9 +4,9 @@ title: Guía de administración de MSI Actions
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se l
 
 ## Iniciar sincronización de datos {#initiate-data-sync}
 
+La sincronización de campos de unificación de datos para acciones de perspectiva de ventas permite al sistema extraer información de las personas de la base de datos de Marketo Engage a la base de datos de acciones de perspectiva de ventas, mantener los datos de las personas actualizados y garantizar que las actividades se registren en los registros adecuados en Marketo y Salesforce.
+
 1. En Marketo, haga clic en **Administrador**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Haga clic en Perspectiva de ventas.
+1. Haga clic en **Perspectiva de ventas**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Haga clic en la ficha Configuración de acciones . En la tarjeta de sincronización de campos de acción, haga clic en **Sincronización**.
+1. Haga clic en el **Configuración de acciones** pestaña . En la tarjeta de sincronización de campos de acción, haga clic en **Sincronización**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se l
    ![](assets/msi-actions-admin-guide-13.png)
 
 Los registros de personas que existen en Marketo y Salesforce se sincronizarán con la cuenta de las aplicaciones de ventas de Marketo.
+
+>[!NOTE]
+>
+>Para obtener más información sobre cómo se sincronizan los datos de personas y actividades entre las acciones de perspectiva de ventas, Marketo y Salesforce, [haga clic aquí](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Invitar usuarios individuales a acciones MSI {#invite-individual-users-to-msi-actions}
 
