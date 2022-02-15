@@ -4,9 +4,9 @@ title: Preguntas frecuentes sobre la sincronización de datos de acciones
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ Los posibles clientes y contactos que tengan un propietario de ventas asignado s
 
 Puede ver si un posible cliente o contacto tiene un propietario de ventas en Salesforce consultando el campo propietario estándar que existe.
 
-El propietario de ventas no tiene que ser el usuario de sincronización de Marketo ni ningún usuario de ventas o Salesforce específico. Siempre y cuando haya un usuario en el campo de propietario estándar, incluiremos el posible cliente o contacto que se sincronizará con las acciones de venta, así como incluirlo en cualquier actualización de los campos sincronizados que se realicen con ese posible cliente.
+El propietario de ventas no tiene que ser el usuario de sincronización de Marketo ni ningún usuario de ventas o Salesforce específico. Todo lo que necesitamos es que haya un usuario listado en el campo propietario del posible cliente y propietario del contacto que aparece en Salesforce, para que podamos identificarlo como posible cliente de ventas y sincronizarlo con las acciones de perspectiva de ventas. Las actualizaciones de los campos con los que sincronizamos también se detectarán y actualizarán en las acciones de perspectiva de ventas.
 
 ## ¿De dónde provienen los datos de actividad mostrados en la cuadrícula inteligente de perspectivas de ventas? {#where-does-the-activity-data-get-sourced-from}
 
