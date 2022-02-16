@@ -1,10 +1,8 @@
 ---
 description: Configuración del administrador de productos - Documentos de Marketo - Documentación del producto
 title: Configuración de administración de productos
-hide: true
-hidefromtoc: true
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
