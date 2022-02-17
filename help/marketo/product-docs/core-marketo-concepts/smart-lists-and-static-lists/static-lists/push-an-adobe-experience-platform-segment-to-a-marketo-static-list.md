@@ -2,9 +2,9 @@
 description: 'Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo: Marketo Docs: documentación del producto'
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
 >[!PREREQUISITES]
 >
+>* [Editar la función de API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) para asegurarse de que tiene la variable **Lectura y escritura** permiso (se encuentra en la lista desplegable API de acceso ).
 >* [Crear un usuario de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) en Marketo.
 >* Vaya a **Administrador** > **Punto de inicio**. Busque el nombre de la función que acaba de crear y haga clic en **Ver detalles**. Copie y guarde la información en **ID de cliente** y **Secreto del cliente**, ya que podría necesitarlo para el paso 7.
 >* En Marketo, cree una lista estática o busque y seleccione una que ya haya creado. Necesitará su ID.
@@ -36,7 +37,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Busque el mosaico del Marketo Engage y haga clic en **Activar segmentos**.
+1. Busque el mosaico del Marketo Engage y haga clic en **Activar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    >[!NOTE]
    >
-   >Si elige varios segmentos aquí, tendrá que asignar cada segmento a una lista estática especificada en la pestaña Programación del segmento.
+   >Si elige varios segmentos, tendrá que asignar cada uno de ellos a una lista estática especificada en la ficha Programación del segmento.
+
+   >[!IMPORTANT]
+   >
+   >Una vez activado un segmento en el destino de Marketo por primera vez, se pueden rellenar los perfiles que ya existían en el segmento antes de la activación de destino de Marketo **hasta 24 horas**. En adelante, cualquier perfil de tiempo que se añada al segmento se añadirá a Marketo inmediatamente.
 
 1. Haga clic en **Añadir nueva asignación**.
 
