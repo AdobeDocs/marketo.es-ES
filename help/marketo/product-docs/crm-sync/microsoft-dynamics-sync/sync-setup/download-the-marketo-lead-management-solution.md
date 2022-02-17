@@ -3,8 +3,7 @@ unique-page-id: 6848922
 description: 'Descargar la solución de administración de posibles clientes de Marketo: Marketo Docs: Documentación del producto'
 title: Descargar la solución de administración de posibles clientes de Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,30 +20,30 @@ Deberá descargar e instalar una solución de Marketo en su cuenta de Microsoft 
 
 >[!CAUTION]
 >
->Es imperativo que descargue la última solución de Marketo _antes_ de realizar cualquier actualización.
+>Es imprescindible que descargue la última solución de Marketo _before_ realizar cualquier actualización.
 
 >[!NOTE]
 >
 >Marketo solo admite certificados SSL compatibles con Java 7 en este momento.
 
-1. Vaya al área **Admin**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/admin-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-1.png)
 
 1. Haga clic en **CRM**.
 
-   ![](assets/image2015-3-11-13-3a7-3a11.png)
+   ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Seleccione **Microsoft**.
+1. Select **Microsoft**.
 
-   ![](assets/image2015-3-11-13-3a9-3a7.png)
+   ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Seleccione **Descargar solución de Marketo**.
+1. Select **Descargar solución de Marketo**.
 
-   ![](assets/image2015-3-11-13-3a10-3a4.png)
+   ![](assets/download-the-marketo-lead-management-solution-4.png)
 
 1. Seleccione la solución adecuada para su versión de Microsoft Dynamics.
 
-   ![](assets/msd-online-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-   ¡Increíble! Ahora se descargará en su dispositivo un archivo zip de la solución.
+¡Increíble! Ahora se descargará en su dispositivo un archivo zip de la solución.
