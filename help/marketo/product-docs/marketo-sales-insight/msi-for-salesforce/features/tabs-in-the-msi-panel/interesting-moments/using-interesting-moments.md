@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 'Uso de momentos interesantes: Documentos de Marketo: Documentación del producto'
 title: Uso de momentos interesantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Para suscribirse a un momento interesante, haga clic en el botón Suscribirse en
 1. Elija las direcciones de correo electrónico a las que desea enviar las alertas (miembros del equipo/usted)
 
 1. Haga clic en **Suscribirse**.
+
+>[!NOTE]
+>
+>Al suscribirse a Tipos de momentos o descripciones interesantes, el usuario recibirá notificaciones por correo electrónico para las personas (posibles clientes o contactos) de su propiedad cuando déclencheur un momento interesante que coincida con ese tipo o descripción.
 
 ![](assets/using-interesting-moments-8.png)
