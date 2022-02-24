@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
 workflow-type: tm+mt
-source-wordcount: '8285'
+source-wordcount: '8293'
 ht-degree: 2%
 
 ---
@@ -252,6 +252,7 @@ ht-degree: 2%
             + [Editar reglas de calificación en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Movimiento de una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Anular restricciones de personas en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+            + [Anulación de prioridad para campañas de Déclencheur](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [Cambiar el nombre de una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [Ejecutar una campaña inteligente por lotes ahora | Pestaña Programación](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Programar una campaña inteligente por lotes para que se ejecute más tarde](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
@@ -377,6 +378,7 @@ ht-degree: 2%
             + [Editar configuración de comportamiento de Analytics](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [Importar un programa](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [Importar miembros de una hoja de cálculo en un programa](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [Caducidad del recurso local](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Administrar y ver miembros](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Campos personalizados de miembro del programa](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [Sincronización de una campaña SFDC con un programa](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
@@ -758,7 +760,7 @@ ht-degree: 2%
                + [Plantilla 7E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md)
                + [Plantilla 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
                + [Plantilla 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
-               + [Plantilla 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
+               + [Template 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
                + [Plantilla 8C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md)
                + [Plantilla 8D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md)
                + [Plantilla 8E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md)
@@ -1210,7 +1212,7 @@ ht-degree: 2%
       + Tareas {#tasks}
          + [Crear y asignar tareas recordatorias](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Sincronización de tareas de recordatorio con Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
-         + [Sincronización de tareas de conexión de ventas con Salesforce por primera vez](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+         + [Syncing Sales Connect Tasks with Salesforce for the First Time](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Plantillas {#templates}
          + [Añadir la cancelación automática de suscripciones a una plantilla](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Agregar texto hipervinculado](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
@@ -1422,7 +1424,7 @@ ht-degree: 2%
             + [Configuración del botón Mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
          + Envío de un mensaje en la aplicación {#sending-your-in-app-message}
             + [Enviar mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-            + [Aprobar el mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
+            + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
             + [Programar el mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
             + [Seleccionar el mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
             + [Configurar la audiencia de mensajes en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
@@ -1450,9 +1452,9 @@ ht-degree: 2%
             + [Definir reglas de segmentos](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
             + [Eliminar una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
             + [Editar una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation.md)
-            + [Agrupar informes de correo electrónico por segmentos](product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations.md)
+            + [Group Email Reports by Segmentations](product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations.md)
             + [Informes de personas de grupo por segmento](product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)
-            + [Prioridad del orden de segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
+            + [Segmentation Order Priority](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Explicación del contenido dinámico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Uso de filtros de segmento en una lista inteligente](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
          + Fragmentos {#snippets}
