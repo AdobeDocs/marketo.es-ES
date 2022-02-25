@@ -1,25 +1,30 @@
 ---
 unique-page-id: 17728184
-description: Activación de funciones para Marketo Sky - Documentos de marketing - Documentación del producto
-title: Activación de funciones para Marketo Sky
-translation-type: tm+mt
-source-git-commit: b155f630dfba14a7e1fc2606ca998709f9f29392
+description: Habilitación de funciones para Marketo Sky - Documentos de Marketo - Documentación del producto
+title: Habilitación de funciones para Marketo Sky
+hide: true
+hidefromtoc: true
+exl-id: 0a518449-8acf-4917-8153-c7ef5fee5590
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
+# Habilitación de funciones para Marketo Sky {#enabling-roles-for-marketo-sky}
 
-# Habilitación de roles para Marketo Sky {#enabling-roles-for-marketo-sky}
+Para utilizar el Marketo Sky, las funciones de los usuarios deseados deben estar habilitadas.
 
-Para utilizar Marketo Sky, deben habilitarse las funciones de los usuarios deseados.
+>[!IMPORTANT]
+>
+>Marketo Sky quedará obsoleto en marzo de 2022. [Haga clic aquí](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. En Marketing Classic, haga clic en **Administración**.
+1. En Marketo Classic, haga clic en **Administrador**.
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
@@ -31,4 +36,4 @@ Para utilizar Marketo Sky, deben habilitarse las funciones de los usuarios desea
 
    ![](assets/enabling-roles-for-marketo-sky-3.png)
 
-Las funciones seleccionadas ahora pueden usar Marketo Sky.
+Las funciones seleccionadas ahora pueden utilizar Marketo Sky.

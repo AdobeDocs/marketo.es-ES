@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 2%
 
 ---
@@ -760,7 +760,7 @@ ht-degree: 2%
                + [Plantilla 7E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7e.md)
                + [Plantilla 7F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-7f.md)
                + [Plantilla 8A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8a.md)
-               + [Template 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
+               + [Plantilla 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
                + [Plantilla 8C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md)
                + [Plantilla 8D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md)
                + [Plantilla 8E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md)
@@ -1212,7 +1212,7 @@ ht-degree: 2%
       + Tareas {#tasks}
          + [Crear y asignar tareas recordatorias](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Sincronización de tareas de recordatorio con Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
-         + [Syncing Sales Connect Tasks with Salesforce for the First Time](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+         + [Sincronización de tareas de conexión de ventas con Salesforce por primera vez](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Plantillas {#templates}
          + [Añadir la cancelación automática de suscripciones a una plantilla](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Agregar texto hipervinculado](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
@@ -1401,6 +1401,13 @@ ht-degree: 2%
       + [Perspectiva de ventas para integraciones no nativas de Salesforce](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Habilitación de funciones para Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [Comportamiento esperado](product-docs/marketo-sky/expected-behavior.md)
+      + [Introducción a Predictive Audiences](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [Estado del modelo y validez de los datos](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [Filtros predictivos](product-docs/marketo-sky/predictive-filters.md)
+      + [Configuración de un límite de eventos](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [Configuración de objetivos de evento](product-docs/marketo-sky/setting-event-goals.md)
+      + [Información sobre el seguimiento de objetivos y los registros proyectados](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Marketing móvil {#mobile-marketing}
       + Administración {#admin}
          + [Agregar una aplicación móvil](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
@@ -1424,7 +1431,7 @@ ht-degree: 2%
             + [Configuración del botón Mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
          + Envío de un mensaje en la aplicación {#sending-your-in-app-message}
             + [Enviar mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-            + [Approve Your In-App Message](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
+            + [Aprobar el mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
             + [Programar el mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)
             + [Seleccionar el mensaje en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)
             + [Configurar la audiencia de mensajes en la aplicación](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)
@@ -1452,9 +1459,9 @@ ht-degree: 2%
             + [Definir reglas de segmentos](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
             + [Eliminar una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
             + [Editar una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation.md)
-            + [Group Email Reports by Segmentations](product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations.md)
+            + [Agrupar informes de correo electrónico por segmentos](product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations.md)
             + [Informes de personas de grupo por segmento](product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)
-            + [Segmentation Order Priority](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
+            + [Prioridad del orden de segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Explicación del contenido dinámico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Uso de filtros de segmento en una lista inteligente](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
          + Fragmentos {#snippets}
