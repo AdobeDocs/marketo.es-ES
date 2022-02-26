@@ -3,9 +3,9 @@ description: Caducidad de los recursos locales - Documentos de Marketo - Documen
 title: Caducidad del recurso local
 hide: true
 hidefromtoc: true
-source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ Para poder programar la caducidad de un recurso, la función de Marketo debe ten
 
    ![](assets/local-asset-expiration-2.png)
 
-1. En [!UICONTROL Acceso a las actividades de marketing], seleccione **[!UICONTROL Programar caducidad del recurso]**. Haga clic en **[!UICONTROL Guardar]**.
+1. En [!UICONTROL Acceso a las actividades de marketing], seleccione **[!UICONTROL Programar la caducidad del recurso local]** y haga clic en **[!UICONTROL Guardar]**.
 
-PICC
+   ![](assets/local-asset-expiration-3.png)
 
 ## Establecer una fecha de caducidad {#set-an-expiration-date}
 
@@ -56,6 +56,7 @@ PICC
 >
 >* Para editar una fecha de caducidad existente, simplemente marque los recursos y haga clic en **[!UICONTROL Configurar caducidad]**.
 >* Una vez que un recurso haya caducado, ya no se mostrará en la cuadrícula Caducidad . La cuadrícula solo muestra las páginas de aterrizaje publicadas, las campañas de déclencheur activas y las campañas por lotes recurrentes.
+>* Las caducidades programadas se eliminarán si el recurso se mueve a otro programa.
 
 
 ## Eliminar una fecha de caducidad {#remove-an-expiration-date}

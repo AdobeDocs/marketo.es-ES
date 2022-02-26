@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 'Importar un programa: Documentos de Marketo: Documentación del producto'
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 
 **Plantillas de página de correo electrónico/aterrizaje:** Las plantillas Correo electrónico/Página de aterrizaje se importan en Design Studio. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se anexará un número a una plantilla si existe uno con el mismo nombre. Por ejemplo, si ya tiene una plantilla denominada &quot;Plantilla estándar&quot;, la nueva se llamará &quot;Plantilla estándar 1&quot;.
 
+**Páginas de aterrizaje/Forms:** Si existe un formulario o una página de aterrizaje con el mismo nombre en Design Studio, se importarán, pero con un número añadido al nombre (por ejemplo: Página de aterrizaje 1).
+
 **Imágenes:** Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño, a menos que exista una que tenga el mismo nombre.
 
 **Tokens:** Los tokens que residen fuera de un programa se convertirán en tokens locales durante el proceso de importación.
@@ -96,8 +98,6 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 >El tipo de imagen de mis tokens no es compatible con las importaciones de programas. Si se importa un programa que tiene un tipo de imagen, mis tokens, **no** tokens llegarán.
 
 **Etiquetas del programa:** Puede utilizar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede ignorar las etiquetas.
-
-**Forms:** Los formularios externos se importarán automáticamente en el estudio de diseño, a menos que exista uno con el mismo nombre.
 
 >[!CAUTION]
 >
