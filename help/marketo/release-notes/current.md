@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,12 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 ![(estrella)](assets/yellow-star.png)
 
 * **Plantillas BI**: Ahora, Bizible proporcionará artefactos de informes y muestras para Tableau e informes básicos descargables para permitir un rápido desarrollo de informes personalizados adaptados a sus necesidades empresariales específicas.
+
+## Conexión de ventas {#sales-connect}
+
+![(estrella)](assets/yellow-star.png)
+
+* **Restricción de conexión de correo electrónico (GA)**: La limitación de la conexión de correo electrónico permite a los administradores de Conexión de ventas configurar la tasa de envío de correos electrónicos al utilizar Gmail o Exchange como canal de envío, de modo que la tasa a la que se entregan los correos electrónicos al proveedor de canales de envío no supere los límites impuestos.
 
 ## Anuncios {#announcements}
 
