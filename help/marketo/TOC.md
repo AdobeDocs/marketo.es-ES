@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
 workflow-type: tm+mt
-source-wordcount: '8320'
+source-wordcount: '8334'
 ht-degree: 2%
 
 ---
@@ -1295,6 +1295,10 @@ ht-degree: 2%
          + Personas {#people}
             + [Vista de detalles de persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Acciones de perspectivas de ventas y cumplimiento del RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+               + Administración de contactos {#managing-contacts}
+                  + [Acciones masivas en personas](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+                  + [Creación y eliminación de contactos](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+                  + [Importar contactos a través de CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Configuración de Salesforce {#salesforce-configuration}
             + [Configuración de acciones MSI en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
