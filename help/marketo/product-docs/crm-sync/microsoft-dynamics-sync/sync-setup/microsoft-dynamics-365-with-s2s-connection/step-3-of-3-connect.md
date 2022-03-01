@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 'Paso 3 de 3: Conexión de la solución de Marketo con la conexión servidor a servidor - Marketo Docs - Documentación del producto'
 title: 'Paso 3 de 3: Conexión de la solución de Marketo con la conexión servidor a servidor'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Este es el último paso de la sincronización. ¡Ya casi llegamos!
 
    >[!NOTE]
    >
-   >El nombre de usuario en Marketo debe coincidir con el nombre de usuario para sincronizar el usuario en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
+   >El nombre de usuario de Marketo debe coincidir con la variable [dirección de correo electrónico](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) del usuario de la aplicación en CRM. El formato puede ser `user@domain.com` o DOMINIO\usuario.
 
 ## Seleccionar campos para sincronizar {#select-fields-to-sync}
 
