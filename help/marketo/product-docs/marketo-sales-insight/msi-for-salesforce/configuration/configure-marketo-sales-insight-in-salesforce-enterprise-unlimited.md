@@ -3,10 +3,10 @@ unique-page-id: 2360368
 description: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited - Marketo Docs - Documentación del producto
 title: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 4%
+source-wordcount: '877'
+ht-degree: 6%
 
 ---
 
@@ -16,8 +16,7 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
 
 >[!PREREQUISITES]
 >
->* [Instalación del paquete de perspectivas de ventas de Marketo en la AppExchange de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Instalación del paquete de perspectivas de ventas de Marketo en la AppExchange de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
    >
    >Se recomienda una altura de 410 píxeles para los objetos Cuentas y oportunidades .
 
-1. Haga clic en **Campos** a la izquierda. A continuación, busque y arrastre el **Participación** en el **Perspectiva de ventas de Marketo** diseño.
+1. Haga clic en **Campos** a la izquierda. A continuación, busque y arrastre el **Urgencia** en el **Perspectiva de ventas de Marketo** diseño.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Repita el paso anterior también para estos campos.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Compromiso</td> 
+      <td>Último momento interesante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Valor de puntuación relativo</p></td> 
+      <td>Fecha del último momento interesante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Valor de urgencia</p></td> 
+      <td>Descripción del último momento interesante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Fecha del último momento interesante</p></td> 
+      <td>Origen del último momento interesante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Descripción del último momento interesante</p></td> 
+      <td>Tipo del último momento interesante</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Origen del último momento interesante</p></td> 
+      <td>Última actividad de Marketo por ventas</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Tipo del último momento interesante</p></td> 
+      <td>Última participación de Marketo por ventas</td> 
+     </tr> 
+     <tr> 
+      <td>ID de contacto de MSI</td> 
+     </tr> 
+     <tr> 
+      <td>Puntaje relativo</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de puntuación relativo</td> 
+     </tr> 
+     <tr> 
+      <td>Urgencia</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de urgencia</td> 
+     </tr> 
+     <tr> 
+      <td>Ver en Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Repita este proceso para agregar secciones de página de Visualización y campos de Perspectiva de ventas para **Contacto**, **Cuenta** y **Oportunidad**.
+1. Repita los pasos del 5 al 7 para agregar secciones de página de Visualforce y campos de perspectiva de ventas para **Contacto**, **Cuenta** y **Oportunidad**.
 
-1. Repita los pasos del 5 al 7 para agregar secciones de página de Visualforce para Contacto, Cuenta y Oportunidad. A continuación, repita los pasos 8-10 para agregar campos de perspectivas de ventas para **Contacto**. Asegúrese de guardar después de cualquier cambio.
+1. Repita los pasos 8-10 para añadir los campos de Perspectiva de ventas de la lista siguiente para **Contacto**. Asegúrese de guardar los cambios.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Último momento interesante</td> 
+     </tr> 
+     <tr> 
+      <td>Fecha del último momento interesante</td> 
+     </tr> 
+     <tr> 
+      <td>Descripción del último momento interesante</td> 
+     </tr> 
+     <tr> 
+      <td>Origen del último momento interesante</td> 
+     </tr> 
+     <tr> 
+      <td>Tipo del último momento interesante</td> 
+     </tr> 
+     <tr> 
+      <td>Última actividad de Marketo por ventas</td> 
+     </tr> 
+     <tr> 
+      <td>Última participación de Marketo por ventas</td> 
+     </tr> 
+     <tr> 
+      <td>Puntuación de posibles clientes de MKTO</td> 
+     </tr> 
+     <tr> 
+      <td>Puntaje relativo</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de puntuación relativo</td> 
+     </tr> 
+     <tr> 
+      <td>Perspectiva de ventas: abre la página de lista completa de contactos</td> 
+     </tr> 
+     <tr> 
+      <td>Urgencia</td> 
+     </tr> 
+     <tr> 
+      <td>Valor de urgencia</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Asignar campos de persona personalizados {#map-custom-person-fields}
 
