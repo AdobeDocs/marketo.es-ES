@@ -2,22 +2,21 @@
 unique-page-id: 14352623
 description: Detalles de acceso del usuario - Documentos de Marketo - Documentación del producto
 title: Detalles de acceso de usuario
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-
-# Detalles de acceso del usuario {#user-access-details}
+# Detalles de acceso de usuario {#user-access-details}
 
 ¿A qué tienen acceso los administradores y no administradores?
 
 ## Permisos de usuario del administrador {#admin-user-permissions}
 
-Los administradores pueden [ver todas las plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Los administradores pueden [ver todas las plantillas](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
@@ -41,7 +40,7 @@ Los administradores pueden detener las campañas en nombre de los usuarios.
 
 ## Permisos de usuario que no son administradores {#non-admin-user-permissions}
 
-* Analytics:
+* Análisis:
 
    * Los usuarios pueden ver análisis de equipo
    * Los usuarios solo pueden explorar en profundidad los equipos a los que pertenecen

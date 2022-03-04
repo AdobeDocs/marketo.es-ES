@@ -3,10 +3,9 @@ unique-page-id: 30081815
 description: 'Configuración de la integración de Adobe Experience Manager: Marketo Docs: documentación del producto'
 title: Configuración de la integración de Adobe Experience Manager
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Mar
 
 >[!CAUTION]
 >
->Actualmente, esta función solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la última versión de Chrome (v. 80), según la configuración de las cookies de SameSite.
+>Actualmente, esta función solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la última versión de Chrome, en función de la configuración de cookies de SameSite.
 
 1. Vaya a Adobe Experience Manager (la dirección URL es específica de su empresa).
 
@@ -31,27 +30,27 @@ Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Mar
 
    ![](assets/two.png)
 
-1. En **Tools**, haga clic en **Operations** y seleccione **Web Console**.
+1. En **Herramientas**, haga clic en **Operaciones** y seleccione **Consola web**.
 
    ![](assets/2a.png)
 
-1. En el navegador, busque &quot;Adobe Granite Cross-Origin Resource Sharing Policy&quot; (ctrl+f en Windows, cmd+f en Mac).
+1. En el navegador, busque &quot;Política de uso compartido de recursos de origen cruzado de Adobe Granite&quot; (ctrl+f en Windows, cmd+f en Mac).
 
    ![](assets/three.png)
 
-1. Haga clic en el signo **+** de la derecha.
+1. Haga clic en el **+** a la derecha.
 
    ![](assets/four.png)
 
-1. En el cuadro de texto **Orígenes permitidos (Regexp)**, escriba `https://.*\.marketo\.com` y haga clic en **Guardar**.
+1. En el **Orígenes permitidos (Regexp)** cuadro de texto, escriba `https://.*\.marketo\.com` y haga clic en **Guardar**.
 
    ![](assets/five-psd.png)
 
-1. En el encabezado de la parte superior de la página, haga clic en **Consola Web** y seleccione **Información del sistema**.
+1. En el encabezado de la parte superior de la página, haga clic en **Consola web** y seleccione **Información del sistema**.
 
    ![](assets/six.png)
 
-1. En Información del servidor, haga clic en el botón **Restart**.
+1. En Información del servidor, haga clic en la **Restart** botón.
 
    ![](assets/seven.png)
 
@@ -59,7 +58,7 @@ Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Mar
 
    ![](assets/eight.png)
 
-1. En Marketo Classic, haga clic en **Admin**.
+1. En Marketo Classic, haga clic en **Administrador**.
 
    ![](assets/nine.png)
 
