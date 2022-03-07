@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 2%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 2%
          + Análisis {#analytics}
             + [Participación de plantilla](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campañas {#campaigns}
+            + [Agregar a campaña de marketing](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [La campaña ha finalizado](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Integración de Salesforce {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 2%
             + [¿Cómo Gestionan Las Acciones De Perspectiva De Ventas La Desduplicación De Correo Electrónico?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + Personas {#people}
             + [Vista de detalles de persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Acciones de perspectivas de ventas y cumplimiento del RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)

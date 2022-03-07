@@ -4,22 +4,22 @@ title: Concesión de acceso a Marketo a usuarios
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Concesión de acceso a Marketo a usuarios {#grant-marketo-access-to-users}
 
-Siga los pasos de este artículo para otorgar a los usuarios de ventas de Marketo acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en la fuente en directo y acceso a campañas de marketing.
+Siga los pasos de este artículo para otorgar a los usuarios de Acciones de perspectiva de ventas acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en la fuente en directo y acceso a campañas de marketing.
 
-Necesitará [Ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de que sean visibles en la página Marketo > Acceso al equipo (en Marketo Sales), donde se concede acceso a la conexión de Marketo.
+Deberá invitar a los usuarios a [Acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de que sean visibles en la página Marketo > Acceso a equipos (en acciones de perspectiva de ventas), donde se concede acceso a la conexión de Marketo.
 
 >[!CAUTION]
 >
->Espere diez minutos después de conectar Marketo Sales con Marketo antes de realizar estos pasos.
+>Espere diez minutos después de conectar las acciones de perspectiva de ventas con Marketo antes de realizar estos pasos.
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 

@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor - Marketo Docs - Documentación del producto'
 title: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en
 
 ¡Casi ahí! Todo lo que nos queda es informar a Marketo Solution sobre el nuevo usuario creado.
 
->[!IMPORTANT]
->
->Si está actualizando de la autenticación básica a OAuth, deberá ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/support/ct-p/Support) para obtener ayuda con la actualización de los parámetros adicionales. Al realizar un cambio de configuración en el usuario de sincronización predeterminado, se detendrá temporalmente la sincronización hasta que se introduzcan nuevas credenciales y se vuelva a habilitar la sincronización. A petición suya, la asistencia de Marketo puede deshabilitar la función (hasta abril de 2022) si desea volver al antiguo método de autenticación.
-
 1. Vuelva a la sección Configuración avanzada y haga clic en el botón ![](assets/image2015-5-13-15-3a49-3a19.png) junto a Configuración y seleccione **Configuración de Marketo**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en
 1. Haga clic en el **Publicar todas las personalizaciones** botón.
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >Si está actualizando de la autenticación básica a OAuth, puede utilizar [este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) para reconfigurar la autenticación.
 
 ## Antes de continuar con el paso 3 {#before-proceeding-to-step}
 
