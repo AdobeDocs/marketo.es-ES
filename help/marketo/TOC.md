@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
+source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
 workflow-type: tm+mt
-source-wordcount: '8396'
+source-wordcount: '8397'
 ht-degree: 2%
 
 ---
@@ -1241,7 +1241,7 @@ ht-degree: 2%
          + [Descripción general de la función Acciones de perspectiva de ventas](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Introducción {#getting-started}
             + [Guía de incorporación del usuario de Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Guía de administración de MSI Actions](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
+            + [Guía de administración de MSI Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
             + [Cambiar la contraseña de ventas de Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + Configuración de correo electrónico {#email-settings}
                + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
@@ -1311,7 +1311,7 @@ ht-degree: 2%
                + [Administrar grupos](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Columnas de la página Personas](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Configuración de Salesforce {#salesforce-configuration}
-            + [Configuración de acciones MSI en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Configuración de acciones de perspectiva de ventas en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Desinstalación del paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Enviar un correo electrónico de ventas {#send-a-sales-email}
