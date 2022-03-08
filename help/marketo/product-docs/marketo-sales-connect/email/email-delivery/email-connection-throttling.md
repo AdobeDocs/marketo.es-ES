@@ -1,14 +1,13 @@
 ---
-description: 'Restricción de la conexión de correo electrónico: Marketo Docs: Documentación del producto'
+description: 'Restricción de la conexión de correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Restricción de conexión de correo electrónico
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
+source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
-
 
 # Restricción de conexión de correo electrónico {#email-connection-throttling}
 
@@ -16,11 +15,7 @@ La integración de la cuenta de Sales Connect para enviar a través de los prove
 
 ## Restricción de conexión de correo electrónico (Beta) {#email-connection-throttling-beta}
 
->[!AVAILABILITY]
->
->Esta función se encuentra actualmente en la versión beta. Para unirse a esta Beta, póngase en contacto con su gestor de éxito de los clientes.
-
-La limitación de la conexión de correo electrónico permite a los administradores de Conexión de ventas configurar la velocidad de envío de correos electrónicos al utilizar Gmail o Exchange como canal de envío, de modo que la velocidad a la que se entregan los correos electrónicos al proveedor de canales de envío no supere los límites impuestos.
+La limitación de la conexión de correo electrónico permite a los administradores de Conexión de ventas configurar la tasa de envío de correos electrónicos al utilizar Gmail o Exchange como canal de envío, de modo que la tasa a la que se entregan los correos electrónicos al proveedor de canales de envío no supere los límites impuestos.
 
 Cuando se exceden los límites de forma consistente, a veces se puede considerar que el proveedor de canales de envío tiene un comportamiento sospechoso, lo que provoca que los correos electrónicos fallen y, a veces, incluso que se deshabilite una cuenta.
 
@@ -33,7 +28,7 @@ Cuando se exceden los límites de forma consistente, a veces se puede considerar
 
 **Configuración de la restricción de conexión de correo electrónico**
 
-1. Haga clic en el icono del engranaje y seleccione **Settings**.
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/email-connection-throttling-1.png)
 
@@ -65,7 +60,7 @@ Empresa/Empresa
 * 30 por minuto
 * 500 destinatarios por correo electrónico
 
-Puede encontrar más información [aquí](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Más información [se puede encontrar aquí](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,7 +68,7 @@ Puede encontrar más información [aquí](https://docs.microsoft.com/en-us/offic
 * 2 correos electrónicos por segundo (límite de API)
 * 2000 destinatarios por mensaje (un máximo de 500 para destinatarios externos)
 
-Puede encontrar más información [aquí](https://support.google.com/a/answer/166852?hl=en).
+Más información [se puede encontrar aquí](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 
