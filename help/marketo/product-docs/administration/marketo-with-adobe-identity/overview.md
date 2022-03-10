@@ -2,9 +2,9 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Las suscripciones del Marketo Engage de Adobe incorporadas al sistema Identity M
  <tr>
   <td><strong>Administrador de productos de Adobe Admin Console</strong></td>
   <td>Responsable de autorizar a los usuarios para el producto Marketo Engage en Adobe Admin Console. Se ha concedido la función en Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Administrador del perfil de producto de Adobe Admin Console</strong></td>
+  <td>Administra las descripciones de perfil de producto asignadas a ese administrador y todas las funciones administrativas asociadas.</td>
  </tr>
  <tr>
   <td><strong>Administrador del producto del Marketo Engage</strong></td>
