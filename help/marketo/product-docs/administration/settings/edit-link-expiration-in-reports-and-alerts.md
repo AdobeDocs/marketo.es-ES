@@ -3,10 +3,9 @@ unique-page-id: 2360213
 description: 'Editar caducidad del vínculo en informes y alertas: Documentos de Marketo: Documentación del producto'
 title: Editar caducidad del vínculo en informes y alertas
 exl-id: 9be08798-c413-451b-9b67-893042668061
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,11 +18,11 @@ Los vínculos de los correos electrónicos de suscripción a informes caducan al
 >
 >**Se requieren permisos de administrador**
 
-1. En **Administración**, haga clic en **Configuración de inicio de sesión**.
+1. En **Administrador**, haga clic en **Configuración de inicio de sesión**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Haga clic en **Editar caducidad de la URL**.
+1. Haga clic en **Editar caducidad de la dirección URL**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
@@ -31,8 +30,6 @@ Los vínculos de los correos electrónicos de suscripción a informes caducan al
 
    ![](assets/emaillinkexpiration.png)
 
-Genial, ha editado la configuración de caducidad del vínculo del correo electrónico.
-
->[!NOTE]
+>[!IMPORTANT]
 >
->Recuerde que solo se aplican a los vínculos de informes y alertas, no a los correos electrónicos de marketing.
+>Esta configuración solo se aplica a los vínculos de informes y alertas. Sí **not** se aplican al correo electrónico [descargar informe](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) vínculos o correos electrónicos de marketing.
