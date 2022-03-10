@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse ta
 
 >[!TIP]
 >
->Visita [esta página](https://dcweb.z20.web.core.windows.net/) para ver vídeos de tutoriales, así como una demostración grabada de Dynamic Chat.
+>Visita [esta página](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) para ver vídeos de tutoriales de Dynamic Chat.
 
 ## Integraciones {#integrations}
 
