@@ -2,10 +2,10 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '735'
+ht-degree: 1%
 
 ---
 
@@ -74,3 +74,71 @@ No se admite la funcionalidad AI/NLP.
 **¿Ofrece Dynamic Chat algún idioma además del inglés?**
 
 En este momento no.
+
+## Límites en la conversación dinámica {#limits-in-dynamic-chat}
+
+<table>
+  <th>Parámetro</th>
+  <th>Descripción</th>
+  <th>Límite</th>
+ <tr>
+  <td>Diálogos totales</td>
+  <td>Número total de diálogos (publicados y borradores)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Cuadros de diálogo publicados</td>
+  <td>Número de cuadros de diálogo publicados guardados</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Direcciones URL de destino por cuadro de diálogo</td>
+  <td>Número de direcciones URL de destino que se pueden agregar a un único cuadro de diálogo</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>Atributos por cuadro de diálogo</td>
+  <td>Número de atributos que se pueden añadir a los criterios de audiencia para un único cuadro de diálogo</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Grupos</td>
+  <td>Número de grupos que se pueden agregar a un único cuadro de diálogo</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Atributos por grupo</td>
+  <td>Número de atributos que se pueden agregar a un grupo</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Tarjetas</td>
+  <td>Número de tarjetas que se pueden agregar al lienzo por cuadro de diálogo</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Período de retención de datos de posible cliente anónimo</td>
+  <td>Duración durante cuánto tiempo se conservará la información de un posible cliente anónimo sin participación</td>
+  <td>90 días</td>
+ </tr>
+ <tr>
+  <td>Período de retención de actividad de objetivo</td>
+  <td>Cantidad de tiempo que se retienen los datos de actividad de objetivo</td>
+  <td>24 meses</td>
+ </tr>
+ <tr>
+  <td>Período de retención de actividad del documento</td>
+  <td>Cantidad de tiempo que se retienen los datos de actividad del documento</td>
+  <td>24 meses</td>
+ </tr>
+ <tr>
+  <td>Interactuado con período de retención de actividad de cuadro de diálogo</td>
+  <td>Se conserva la cantidad de tiempo interaccionado con los datos de actividad del cuadro de diálogo</td>
+  <td>90 días</td>
+ </tr>
+ <tr>
+  <td>Período de retención de actividad de reserva de reuniones</td>
+  <td>La cantidad de tiempo que la actividad de reserva de reuniones se almacenará en la conversación dinámica</td>
+  <td>24 meses</td>
+ </tr>
+</table>
