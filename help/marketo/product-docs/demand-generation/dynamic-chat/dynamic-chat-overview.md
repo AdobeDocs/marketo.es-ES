@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,10 @@ Aquí es donde puede ver una lista de todos los agentes que han conectado sus ca
 
 ## Preguntas frecuentes {#faq}
 
+**¿Durante cuánto tiempo se almacenan los datos para los informes?**
+
+90 días (véase la lista completa de límites) [below](#limits-in-dynamic-chat)).
+
 **¿La conversación dinámica permite el chat en directo?**
 
 No, solo utiliza respuestas predeterminadas.
@@ -66,10 +70,6 @@ En el cuadro de diálogo, debe utilizar la variable _El correo electrónico de l
 **¿Admite la funcionalidad AI/NLP?**
 
 No se admite la funcionalidad AI/NLP.
-
-**¿Durante cuánto tiempo se almacenan los datos para los informes?**
-
-90 días.
 
 **¿Ofrece Dynamic Chat algún idioma además del inglés?**
 
