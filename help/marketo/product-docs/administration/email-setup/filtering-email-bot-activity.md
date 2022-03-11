@@ -1,9 +1,10 @@
 ---
 description: Filtrado de la actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Filtrado de la actividad de bots de correo electrónico
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
+source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -14,26 +15,30 @@ A veces, la actividad de bots de correo electrónico puede inflar erróneamente 
 
 >[!NOTE]
 >
->Mediante la [Lista internacional de bots y arañas de la IAB/ABC](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/), toda actividad de apertura o de clic con una IP o un agente de usuario que coincida con cualquier elemento de la lista se identificará como actividad de bots y no se iniciará sesión en Marketo.
+>Al usar la variable [Lista internacional de arañas web y bots de la IAB/ABC](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/), toda la actividad de apertura o clic con una IP o un agente de usuario que coincida con cualquier cosa de esa lista se identificará como actividad de bots y no se registrará en Marketo.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Haga clic en **Email**.
+1. Haga clic en **Correo electrónico**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Haga clic en la pestaña **Actividad de bots**.
+1. Haga clic en el **Actividad de bots** pestaña .
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Seleccione la casilla **Enable Filtering of Email Bot Activity**.
+1. Haga clic en el control deslizante para activar **Filtrar actividad de bots**.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Al habilitar esta función, es posible que vea una caída en las aperturas de correo electrónico y en los clics a medida que se filtran los números falsos.
+>Puede elegir por separado si desea que se registre o no la actividad de bots. Si decide no hacerlo, es posible que vea una caída en las aperturas de correo electrónico y los clics mientras se filtran los números falsos.
 
-**PASO** OPCIONAL: Para desactivar la función, simplemente anule la selección de la casilla de verificación. Si deshabilita, los datos &quot;Actividad de bots en los últimos 90 días&quot; **no** se restablecen.
+**PASO OPCIONAL**: Para desactivar la función, simplemente anule la selección del control deslizante. Si desactiva, los datos de &quot;Actividad de bots en los últimos 90 días&quot; sí lo hacen **not** restablecer.
+
+>[!TIP]
+>
+>Aproveche los datos de actividad de bots en las listas inteligentes mediante el booleano &quot;Es actividad de bots&quot; (sí/no) o en las restricciones aplicables de filtro/déclencheur.
