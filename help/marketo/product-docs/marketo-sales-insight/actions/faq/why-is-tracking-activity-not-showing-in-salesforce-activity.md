@@ -1,0 +1,17 @@
+---
+description: '¿Por qué el seguimiento de la actividad no se muestra en la actividad de Salesforce? : Documentos de Marketo: documentación del producto'
+title: ¿Por qué el seguimiento de la actividad no se muestra en la actividad de Salesforce?
+hide: true
+hidefromtoc: true
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 0%
+
+---
+
+# ¿Por qué el seguimiento de la actividad no se muestra en la actividad de Salesforce? {#why-is-tracking-activity-not-showing-in-salesforce-activity}
+
+Si la actividad de seguimiento no se muestra, asegúrese de que los campos de actividad personalizados que proporciona Sales Insight Actions sean visibles o editables en Salesforce. Si ha instalado los campos pero no se rellenan, puede haber seguridad a nivel de campo que impida que la información se rellene. Consulte a su administrador de Salesforce.
+
+Más información sobre [Seguridad a nivel de campo](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) en Salesforce.

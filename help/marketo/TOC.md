@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 1a817ff44e5786e0f94c22969d501ed33465424a
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '8421'
+source-wordcount: '8449'
 ht-degree: 2%
 
 ---
@@ -1276,6 +1276,8 @@ ht-degree: 2%
                + [Configurar la personalización de detalles de actividad de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Conecte su cuenta de ventas de Marketo a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Desconectar Salesforce De Las Acciones De Perspectiva De Ventas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Registro de respuestas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+               + [Diagnóstico de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Configuración de sincronización de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + Correo electrónico {#email}
             + Centro de comandos {#command-center}
@@ -1302,9 +1304,11 @@ ht-degree: 2%
                + [Uso de una plantilla en la ventana de composición](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Preguntas frecuentes {#faq}
             + [¿Puedo rastrear varios destinatarios con CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [¿Cómo puedo corregir &quot;No hemos podido autenticar su solicitud&quot; al conectarme a Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [¿Cómo Evito Las Autovisualizaciones?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [¿Cómo Funciona El Seguimiento De Ubicación?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [¿Cómo Gestionan Las Acciones De Perspectiva De Ventas La Desduplicación De Correo Electrónico?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [¿Por qué el seguimiento de la actividad no se muestra en la actividad de Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
