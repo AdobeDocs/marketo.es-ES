@@ -1,6 +1,6 @@
 ---
-description: Analytics Page Overview - Marketo Docs - Product Documentation
-title: Analytics Page Overview
+description: 'Información general de la página de Analytics: Documentos de Marketo: Documentación del producto'
+title: Información general de la página de Analytics
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,40 +10,40 @@ ht-degree: 0%
 
 ---
 
-# Analytics Page Overview {#analytics-page-overview}
+# Información general de la página de Analytics {#analytics-page-overview}
 
-The Analytics tab is where you see data regarding your emails&#39; engagement. Both individual and team data are displayed. Admins can also filter by the user on the Me tab.
+En la pestaña Analytics puede ver datos sobre la participación de sus correos electrónicos. Se muestran los datos individuales y de equipo. Los administradores también pueden filtrar por usuario en la pestaña Me .
 
-## How Often Does it Update? {#how-often-does-it-update}
+## ¿Con qué frecuencia se actualiza? {#how-often-does-it-update}
 
-The analytics page updates every ten minutes.
+La página de análisis se actualiza cada diez minutos.
 
-## What Do the Numbers Mean? {#what-do-the-numbers-mean}
+## ¿Qué significan los números? {#what-do-the-numbers-mean}
 
-The numbers within the radials are calculating the total number of events on all emails sent. So if a single same email is viewed five times, it will add five views to this number. The same idea is applied to the clicks and replies counted inside the circle.
+Los números de los radiales calculan el número total de eventos en todos los correos electrónicos enviados. Por lo tanto, si se ve un solo correo electrónico cinco veces, se agregan cinco vistas a este número. La misma idea se aplica a los clics y respuestas contados dentro del círculo.
 
-All of our stats kept inside the table will be calculated by looking at the unique views, clicks, and replies to your emails. If one email is viewed five times, we will count that as one view. That&#39;s why you may see a big difference in the numbers in the tables versus the numbers in the radial.
+Todas nuestras estadísticas guardadas dentro de la tabla se calcularán mirando las vistas únicas, los clics y las respuestas a sus correos electrónicos. Si se ve un correo electrónico cinco veces, se cuenta como una vista. Es por eso que pueden ver una gran diferencia en los números de las tablas frente a los números del radio.
 
-## Analytic Tabs {#analytic-tabs}
+## Pestañas analíticas {#analytic-tabs}
 
-We break your stats into three separate tabs: Me, Team, and Content. You can use each one to get a different perspective on the insight we provide.
+Las estadísticas se dividen en tres fichas independientes: Yo, equipo y contenido. Puede usar cada uno para obtener una perspectiva diferente de la perspectiva que proporcionamos.
 
-When going from tab to tab on the analytics page you can sort your stats by clicking on the view, click, or reply icons.
+Al pasar de ficha en ficha en la página de análisis, puede ordenar las estadísticas haciendo clic en los iconos de vista, clic o respuesta.
 
-In the Me and Team tabs you will see information about deals closed. This number is controlled by how many times people on your team ring the gong.
+En las pestañas Me y Equipo verá información sobre ofertas cerradas. Este número está controlado por la cantidad de veces que la gente de su equipo hace sonar el gong.
 
-## Me Tab {#me-tab}
+## Ficha Me {#me-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) If you&#39;re an admin in Sales Insight Actions, you can filter by any user on your team to see their stats.
+La variable [Ficha Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) es un lugar bueno para comprobar la participación de sus correos electrónicos, plantillas y vínculos. Si es administrador en las acciones de perspectiva de ventas, puede filtrar por cualquier usuario de su equipo para ver sus estadísticas.
 
-## Team Tab {#team-tab}
+## Ficha Equipo {#team-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md) You can also filter by any subteams you have created.
+En el [Ficha Equipo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), consulte estadísticas y clasificaciones para todo su equipo. También puede filtrar por cualquier subequipo que haya creado.
 
-## Content Tab {#content-tab}
+## Pestaña Contenido {#content-tab}
 
-[](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) You can either filter by everyone, or by teams your admins have created.
+La variable [Pestaña Contenido](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) contiene estadísticas sobre plantillas, contenido y vínculos. Puede filtrar por todos o por equipos que los administradores hayan creado.
 
-If you see blue text under the subject column, it means the template is shared. You can click the blue text to be taken to that template. ****
+Si aparece texto azul debajo de la columna de asunto, significa que la plantilla está compartida. Puede hacer clic en el texto azul que se va a llevar a esa plantilla. Ver su uso haciendo clic en **Análisis de plantillas**.
 
-&quot;Clicks on content&quot; are counted when a recipient clicks a link in your email.
+Los &quot;clics en contenido&quot; se cuentan cuando un destinatario hace clic en un vínculo del correo electrónico.

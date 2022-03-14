@@ -1,6 +1,6 @@
 ---
-description: Create a Sales Campaign - Marketo Docs - Product Documentation
-title: Create a Sales Campaign
+description: Creación de una campaña de ventas - Documentos de Marketo - Documentación del producto
+title: Crear una campaña de ventas
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,56 +10,56 @@ ht-degree: 1%
 
 ---
 
-# Create a Sales Campaign {#create-a-sales-campaign}
+# Crear una campaña de ventas {#create-a-sales-campaign}
 
-## Create a Campaign {#create-a-campaign}
-
-texto
-
-## Understanding Send Options and Tasks {#understanding-send-options-and-tasks}
+## Creación de una campaña {#create-a-campaign}
 
 texto
 
-## Campaign Step Types {#campaign-step-types}
+## Explicación de las opciones y tareas de envío {#understanding-send-options-and-tasks}
 
-When adding a step to your campaign, you have four options.
+texto
+
+## Tipos de pasos de campaña {#campaign-step-types}
+
+Al agregar un paso a la campaña, tiene cuatro opciones.
 
 PICC
 
 **Email**
 
-Compose a new email, or use a pre-existing template.
+Redacte un correo electrónico nuevo o utilice una plantilla preexistente.
 
 PICC
 
-| **** | Select one of your pre-existing templates |
+| **Usar una plantilla** | Seleccione una de las plantillas preexistentes |
 |---|---|
-| **** | Save the email you just composed as a new template |
-| **** | Upload a file to our server and receive a URL (pointing to the content) that can be tracked in your email |
-| **** | Attach a file from your computer to the email (23MB size limit) |
+| **Guardar como plantilla** | Guarde el correo electrónico que acaba de crear como una plantilla nueva |
+| **Añadir contenido** | Cargue un archivo en nuestro servidor y reciba una dirección URL (que señale al contenido) que se pueda rastrear en su correo electrónico |
+| **Adjuntar archivos** | Adjuntar un archivo desde el equipo al correo electrónico (límite de tamaño de 23 MB) |
 
 >[!TIP]
 >
->[](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)
+>Conozca los detalles sobre su [opciones de envío](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-****
+**La llamada**
 
-Set a reminder to follow-up with a contact via phone. You can also save notes to be used as a talk track during the call.
-
-PICC
-
-****
-
-Following up on multiple channels is a great way to connect with leads. With InMail tasks, you can set up a reminder to reach out via LinkedIn.
+Configure un recordatorio para realizar un seguimiento con un contacto a través del teléfono. También puede guardar notas para utilizarlas como un &quot;talk track&quot; durante la llamada.
 
 PICC
 
-****
+**InMail**
 
-Utilize custom tasks when the above options are not applicable. For example, you can invite a colleague to follow up with a lead via email.
+El seguimiento en varios canales es una buena forma de conectarse con posibles clientes. Con las tareas de InMail, puede configurar un recordatorio para ponerse en contacto con LinkedIn.
 
 PICC
 
-## Campaign Settings {#campaign-settings}
+**Tarea personalizada**
 
-Text
+Utilice tareas personalizadas cuando las opciones anteriores no sean aplicables. Por ejemplo, puede invitar a un colega para que realice un seguimiento con un posible cliente por correo electrónico.
+
+PICC
+
+## Configuración de campaña {#campaign-settings}
+
+Texto

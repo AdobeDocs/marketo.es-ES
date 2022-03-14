@@ -1,6 +1,6 @@
 ---
-description: Understanding the Team Tab - Marketo Docs - Product Documentation
-title: Understanding the Team Tab
+description: 'Información sobre la ficha Equipo: Marketo Docs: documentación del producto'
+title: Explicación de la ficha Equipo
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Team Tab {#understanding-the-team-tab}
+# Explicación de la ficha Equipo {#understanding-the-team-tab}
 
-In the Team Tab we highlight three important metrics.
+En la ficha Equipo, resaltamos tres métricas importantes.
 
-## Emails sent with template {#emails-sent-with-template}
+## Correos electrónicos enviados con plantilla {#emails-sent-with-template}
 
-Of the emails that have been sent, how many of them utilized a template.
+De los correos electrónicos que se han enviado, cuántos de ellos han utilizado una plantilla.
 
-## Peak time of engagement {#peak-time-of-engagement}
+## Tiempo máximo de participación {#peak-time-of-engagement}
 
-Across the board we bubble up the peak time of engagement that indicates what time of day your team is getting the most activity (views, clicks, replies). Your team can schedule emails or plan to send emails strategically around this time.
+En todos los tableros, se crea una burbuja de la hora de mayor participación que indica a qué hora del día su equipo obtiene la mayor actividad (vistas, clics, respuestas). Su equipo puede programar correos electrónicos o planear enviarlos estratégicamente en este momento.
 
-## Deals closed {#deals-closed}
+## Ofertas cerradas {#deals-closed}
 
-This is based on the sales gong and how many deals have been closed within the current month.
+Esto se basa en el gong de ventas y cuántas ofertas se han cerrado en el mes actual.
 
-As a bonus, we total your team&#39;s view rate engagement. In this Tab, you can also see the Rep Leaderboard. Email stats for each person in your team are displayed here.
+Además, contamos con la participación de la tasa de visualización de su equipo. En esta ficha, también puede ver el panel de control de la representación. Las estadísticas de correo electrónico de cada persona de su equipo se muestran aquí.

@@ -1,6 +1,6 @@
 ---
-description: Disconnect Salesforce From Sales Insight Actions - Marketo Docs - Product Documentation
-title: Disconnect Salesforce From Sales Insight Actions
+description: Desconectar Salesforce De Las Acciones De Perspectiva De Ventas - Documentos De Marketo - Documentación Del Producto
+title: Desconectar Salesforce De Las Acciones De Perspectiva De Ventas
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,34 +10,34 @@ ht-degree: 0%
 
 ---
 
-# Disconnect Salesforce From Sales Insight Actions {#disconnect-salesforce-from-sales-insight-actions}
+# Desconectar Salesforce De Las Acciones De Perspectiva De Ventas {#disconnect-salesforce-from-sales-insight-actions}
 
-Sometimes you may need to disconnect your Salesforce account from your Sales Insight Actions account. Here&#39;s how.
+A veces, es posible que deba desconectar la cuenta de Salesforce de la cuenta de Acciones de perspectivas de ventas. Así es como.
 
-## How to Disconnect From Salesforce as an Admin {#how-to-disconnect-from-salesforce-as-an-admin}
+## Cómo desconectarse de Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. ****
-
-PICC
-
-1. ****
+1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
 PICC
 
-1. ****
+1. En Configuración de administración, haga clic en **Salesforce**.
 
 PICC
 
-## How to Disconnect From Salesforce as a non-Admin {#how-to-disconnect-from-salesforce-as-a-non-admin}
-
-1. ****
+1. En la pestaña Conexiones y personalizaciones , haga clic en **Desconectar**.
 
 PICC
 
-1. ****
+## Cómo desconectarse de Salesforce como no administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
+
+1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
 PICC
 
-1. ****
+1. En Mi cuenta, seleccione **Salesforce**.
+
+PICC
+
+1. En la pestaña Conexiones y personalizaciones , haga clic en **Desconectar**.
 
 PICC

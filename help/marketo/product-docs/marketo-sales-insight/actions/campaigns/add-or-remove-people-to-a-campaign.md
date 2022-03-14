@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352613
-description: Add People to your Campaign - Marketo Docs - Product Documentation
-title: Add People to your Campaign
+description: 'Añadir personas a la campaña: Documentos de Marketo: Documentación del producto'
+title: Añadir personas a la campaña
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
@@ -10,80 +10,80 @@ ht-degree: 0%
 
 ---
 
-# Add People to your Campaign {#add-people-to-your-campaign}
+# Añadir personas a la campaña {#add-people-to-your-campaign}
 
-There are multiple ways to add someone to a Campaign.
+Existen varias formas de agregar a alguien a una campaña.
 
-If you&#39;re starting communication with a prospect or customer, you can use Add to Campaign from any page in our web application, or from Salesforce.
+Si está iniciando una comunicación con un cliente o cliente potencial, puede utilizar Agregar a Campaign desde cualquier página de nuestra aplicación web o desde Salesforce.
 
-This flow will allow you to preview, edit, and schedule your first email in the Campaign, and if your Campaign starts with a task, these tasks will get queued for you in your Tasks list in our web application and in Salesforce.
+Este flujo le permite obtener una vista previa, editar y programar su primer correo electrónico en Campaign. Si la campaña comienza con una tarea, estas tareas se colocarán en la lista Tareas de nuestra aplicación web y de Salesforce.
 
-You can do this from the Campaigns tab in our web application.
+Puede hacerlo desde la pestaña Campaigns de la aplicación web.
 
-You can find the Add to Campaign button on the Conversations and People pages in our web application.
+Puede encontrar el botón Agregar a la campaña en las páginas Conversaciones y Personas de nuestra aplicación web.
 
-If you are following up with a prospect or customer from your Gmail or Outlook inbox, you can add them to a Campaign via your compose window when you follow up with them (if the first step in the Campaign is an Email).
+Si va a realizar el seguimiento con un cliente o cliente potencial desde la bandeja de entrada de Gmail o Outlook, puede agregarlos a una campaña a través de la ventana de composición cuando realice el seguimiento con ellos (si el primer paso de la campaña es un correo electrónico).
 
-Just reply to their email and choose a Campaign from our plugin.
+Simplemente responda a su correo electrónico y elija una campaña de nuestro complemento.
 
-## Remove People from a Campaign {#remove-people-from-a-campaign}
+## Eliminar personas de una campaña {#remove-people-from-a-campaign}
 
-You can automatically end a Campaign when a recipient replies. And, you can choose to have that mark the Campaign as a &#39;success&#39; for that recipient.
+Puede finalizar automáticamente una campaña cuando un destinatario responda. Y, puede elegir que esa marca la Campaña como un &quot;éxito&quot; para ese destinatario.
 
-To set this up, after you have created your campaign, simply check the Unsubscribe boxes in the Settings portion of the Campaigns tab. Both of these options will end the campaign and your recipient will not receive any more emails from you. You must have reply tracking for this to work.
+Para configurarlo, después de crear la campaña, simplemente marque las casillas Cancelar suscripción en la sección Configuración de la pestaña Campañas . Ambas opciones finalizarán la campaña y el destinatario no recibirá más correos electrónicos de su parte. Debe tener un seguimiento de respuestas para que esto funcione.
 
-Additionally, you can remove people from the campaign itself, remove people from a campaign within the People page, and remove an entire group of people. Let&#39;s take a look at all three methods below.
+Además, puede eliminar personas de la propia campaña, eliminar personas de una campaña dentro de la página Personas y eliminar un grupo completo de personas. Veamos los tres métodos siguientes.
 
-### Remove a Person Directly from a Campaign {#remove-a-person-directly-from-a-campaign}
+### Eliminar una persona directamente de una campaña {#remove-a-person-directly-from-a-campaign}
 
-1. ****
+1. En Conexión de ventas, haga clic en el botón **Campañas** pestaña .
 
    ![](assets/one.png)
 
-1. Find your campaign and select it.
+1. Busque la campaña y selecciónela.
 
    ![](assets/two.png)
 
-1. Your campaign appears on the right. Click anywhere on it to open it.
+1. La campaña aparece a la derecha. Haga clic en cualquier lugar para abrirlo.
 
    ![](assets/three.png)
 
-1. ****
+1. Busque la persona que desea eliminar y haga clic en **Eliminar**.
 
    ![](assets/four.png)
 
-1. ****
+1. (PASO OPCIONAL) También puede eliminar varias personas a la vez haciendo clic en las casillas de verificación situadas al lado de sus nombres y haciendo clic en el botón **Eliminar** en la parte superior.
 
    ![](assets/five.png)
 
-### Remove a Person from a Campaign Within the People Page {#remove-a-person-from-a-campaign-within-the-people-page}
+### Eliminar una persona de una campaña dentro de la página Personas {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. ****
+1. En Conexión de ventas, haga clic en el botón **People** pestaña .
 
    ![](assets/one-a.png)
 
-1. Find and select the person you want removed.
+1. Busque y seleccione la persona que desea eliminar.
 
    ![](assets/two-a.png)
 
-1. Their Person Detail View panel opens on the right. ********
+1. El panel Vista de detalles de persona se abre a la derecha. Haga clic en el **Historial** seguido de la pestaña **Eliminar** botón.
 
    ![](assets/three-a.png)
 
-### Remove a Group of People from a Campaign {#remove-a-group-of-people-from-a-campaign}
+### Eliminación de un grupo de personas de una campaña {#remove-a-group-of-people-from-a-campaign}
 
-1. ****
+1. En Conexión de ventas, haga clic en el botón **People** pestaña .
 
    ![](assets/one-b.png)
 
-1. ****
+1. Busque y seleccione el grupo en **Mis grupos**.
 
    ![](assets/two-b.png)
 
-1. Select the people you want removed.
+1. Seleccione las personas que desee eliminar.
 
    ![](assets/three-b.png)
 
-1. ********
+1. Haga clic en **Acciones** y elija **Eliminar selección de campaña**.
 
    ![](assets/four-b.png)

@@ -1,6 +1,6 @@
 ---
-description: Understanding the Content Tab - Marketo Docs - Product Documentation
-title: Understanding the Content Tab
+description: 'Explicación de la pestaña Contenido: Documentos de Marketo: Documentación del producto'
+title: Explicación de la ficha Contenido
 hide: true
 hidefromtoc: true
 source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
@@ -10,22 +10,22 @@ ht-degree: 0%
 
 ---
 
-# Understanding the Content Tab {#understanding-the-content-tab}
+# Explicación de la ficha Contenido {#understanding-the-content-tab}
 
-The Content Tab is all about your team&#39;s email engagement when using a template. We automatically bubble up three metrics that we believe to be important.
+La ficha Contenido trata de la participación de correo electrónico de su equipo al utilizar una plantilla. Generamos automáticamente tres métricas que consideramos importantes.
 
-## Secret weapon {#secret-weapon}
+## Arma secreta {#secret-weapon}
 
-This is an email template that has not yet been shared with the team, but is receiving a high level of engagement. We show you the template subject line and the creator of the template. This is a great opportunity to reach out to this rep and recommend that they share the template!
+Se trata de una plantilla de correo electrónico que aún no se ha compartido con el equipo, pero que está recibiendo un alto nivel de participación. Le mostramos la línea de asunto de la plantilla y el creador de la plantilla. Esta es una buena oportunidad para llegar a esta representante y recomendar que compartan la plantilla.
 
-## Highest engagement {#highest-engagement}
+## Mayor participación {#highest-engagement}
 
-This is the shared template that is getting the highest level of engagement across the board.
+Esta es la plantilla compartida que obtiene el nivel más alto de participación en el conjunto.
 
-## Lowest engagement {#lowest-engagement}
+## Participación menor {#lowest-engagement}
 
-Can be shared or not shared, this is the template with the least amount of engagement.
+Se puede compartir o no, esta es la plantilla con la menor cantidad de participación.
 
-Scroll down the page to see the Templates section that shows all the templates your team has been using (in this time frame) with the most views.
+Desplácese hacia abajo por la página para ver la sección Plantillas que muestra todas las plantillas que su equipo ha estado utilizando (en este lapso de tiempo) con la mayor cantidad de vistas.
 
-You can also see the Top Attachments that your team has sent (getting the most views), and the Top Links (getting the most clicks).
+También puede ver los archivos adjuntos principales que su equipo ha enviado (con la mayor cantidad de vistas) y los vínculos principales (con la mayor cantidad de clics).
