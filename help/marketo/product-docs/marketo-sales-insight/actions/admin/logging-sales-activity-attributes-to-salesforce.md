@@ -3,9 +3,10 @@ description: Registro de atributos de actividad de ventas en Salesforce - Market
 title: Registro de atributos de actividad de ventas en Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---
@@ -26,7 +27,7 @@ El administrador de Salesforce puede agregar manualmente campos de actividad per
 
 Descripción de cada columna de la tabla siguiente:
 
-* **Etiqueta de campo**: Nombre de campo que se muestra en la interfaz de usuario
+* **Etiqueta de campo**: Nombre de campo que se muestra en la interfaz de usuario (este nombre se puede personalizar para mejorar la legibilidad de su equipo)
 * **Nombre del campo**: Nombre técnico del campo (asegúrese de que el Nombre de campo que ha introducido coincide con el Nombre de campo de la tabla siguiente)
 * **Nombre de API**: Nombre técnico del campo para API (asegúrese de que el nombre de API que ha introducido coincide con el nombre de la API que aparece en la siguiente tabla)
 * **Tipo de datos**: Tipo de campo
