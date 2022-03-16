@@ -5,8 +5,8 @@ title: Informe de rendimiento de los vínculos de correo electrónico
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
