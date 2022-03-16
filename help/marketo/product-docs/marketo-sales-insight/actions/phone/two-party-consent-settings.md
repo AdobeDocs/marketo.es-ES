@@ -3,9 +3,10 @@ description: Configuración de consentimiento de dos partes - Documentos de Mark
 title: Configuración de consentimiento de dos partes
 hide: true
 hidefromtoc: true
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,32 +21,32 @@ Para garantizar el cumplimiento de las leyes de consentimiento de dos partes de 
 
 1. Haga clic en el icono Configuración y seleccione **Configuración**.
 
-PICC
+   ![](assets/two-party-consent-settings-1.png)
 
 1. En Configuración de administración, haga clic en **General**.
 
-PICC
+   ![](assets/two-party-consent-settings-2.png)
 
-1. Desplácese hacia abajo hasta Configuración de teléfono de conexión de ventas y haga clic en **Administrar aviso de grabación**.
+1. En la tarjeta de grabación de llamadas, haga clic en **Administrar aviso de grabación**.
 
-PICC
+   ![](assets/two-party-consent-settings-3.png)
 
 1. Haga clic en **Importar grabación**.
 
-PICC
+   ![](assets/two-party-consent-settings-4.png)
 
->[!NOTE]
->
->Solo se admiten archivos Wav y MP3. No se puede cargar un archivo que dure más de 30 segundos.
+   >[!NOTE]
+   >
+   >Solo se admiten archivos Wav y MP3. No se puede cargar un archivo que dure más de 30 segundos.
 
-1. Seleccione el archivo de audio deseado de su disco duro.
+1. Seleccione los archivos de audio deseados de su disco duro.
 
-PICC
+   ![](assets/two-party-consent-settings-5.png)
 
 1. Una vez finalizada la carga, seleccione los datos (tres puntos) en el administrador de archivos y haga clic en **Seleccionar como notificación de consentimiento**. Haga clic en **OK** cuando haya terminado.
 
-PICC
+   ![](assets/two-party-consent-settings-6.png)
 
 1. Haga clic en el botón de alternancia para activar el mensaje seleccionado para que se reproduzca al principio de las llamadas grabadas.
 
-PICC
+   ![](assets/two-party-consent-settings-7.png)

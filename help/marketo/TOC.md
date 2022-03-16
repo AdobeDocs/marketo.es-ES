@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '8456'
+source-wordcount: '8458'
 ht-degree: 2%
 
 ---
@@ -1323,6 +1323,7 @@ ht-degree: 2%
                + [Columnas de la página Personas](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Teléfono {#phone}
             + [Activar grabación de llamada](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [Presencia local](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Configuración de consentimiento de dos partes](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Configuración de Salesforce {#salesforce-configuration}
             + [Configuración de acciones de perspectiva de ventas en Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
