@@ -2,9 +2,9 @@
 description: 'Conexión de Dynamic Chat a Marketo: Marketo Docs: Documentación del producto'
 title: Conexión de Dynamic Chat a Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,18 @@ Una vez que haya completado el [configuración inicial](/help/marketo/product-do
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
+1. Seleccione hasta 50 campos estándar o personalizados para sincronizar con Dynamic Chat. Haga clic en **Siguiente** cuando haya terminado.
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+   >[!CAUTION]
+   >
+   >En este momento, las selecciones de atributos **cannot** después de la sincronización inicial. Cuando haya terminado la sincronización, solo puede volver atrás y agregar más (si elige menos de 50).
+
+1. Asegúrese de que tiene las selecciones correctas (recordatorio: no puede quitar atributos después de la sincronización, por lo que haga clic en **Editar selecciones** si necesita cambiar alguno en este paso). Haga clic en **Confirmar** cuando haya terminado para iniciar la sincronización.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
 >[!NOTE]
 >
 >La sincronización puede tardar entre 2 y 24 horas en completarse, en función del tamaño de la base de datos.
@@ -43,19 +55,19 @@ A continuación, es hora de vincular Adobe y Marketo.
 
 1. Copie el ID de organización desde la esquina inferior derecha de la página principal, _menos_ el &quot;@AdobeOrg.&quot;
 
-   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
 1. En Marketo, vaya a la **Administrador** y seleccione **Asignación de organización de Adobe**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 1. Haga clic en **Editar**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+   ![](assets/connect-dynamic-chat-to-marketo-8.png)
 
 1. Pegue el identificador de organización que ha copiado en el paso 2 y haga clic en **OK**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
+   ![](assets/connect-dynamic-chat-to-marketo-9.png)
 
 >[!MORELIKETHIS]
 >

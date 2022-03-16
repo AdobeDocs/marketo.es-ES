@@ -2,9 +2,9 @@
 description: 'Cuadros de diálogo: Documentos de Marketo: Documentación del producto'
 title: Cuadros de diálogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Los diálogos son conversaciones individuales de chat. Aprenda a personalizarlos
 
    ![](assets/dialogues-2.png)
 
-1. Introduzca un nombre (la descripción es opcional), establezca el nivel de prioridad y haga clic en **Guardar**.
+1. Elija un cuadro de diálogo en blanco o una de las plantillas rellenadas previamente. Introduzca un nombre (la descripción es opcional), cambie el nivel de prioridad (opcional) y haga clic en **Crear**.
 
    ![](assets/dialogues-3.png)
 

@@ -2,16 +2,18 @@
 description: 'Creación de una emisión: Marketo Docs: Documentación del producto'
 title: Creación de un flujo
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Creación de un flujo {#create-a-stream}
 
-Hay _many_ combinaciones de flujo que puede crear. A continuación se muestra un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
+Hay _many_ combinaciones de flujo que puede crear. Este artículo contiene un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
+
+![](assets/create-a-stream-0.png)
 
 1. Tras [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), haga clic en **Diseñador de secuencias** pestaña .
 
@@ -108,9 +110,13 @@ Hay _many_ combinaciones de flujo que puede crear. A continuación se muestra un
 
    ![](assets/create-a-stream-17.png)
 
-1. Cuando desee activar el cuadro de diálogo, haga clic en **Publicación**.
+1. Para obtener una vista previa del cuadro de diálogo, haga clic en el icono de vista previa de la derecha.
 
    ![](assets/create-a-stream-18.png)
+
+1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **Publicación**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >
