@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
 workflow-type: tm+mt
-source-wordcount: '8475'
+source-wordcount: '8573'
 ht-degree: 2%
 
 ---
@@ -1303,11 +1303,22 @@ ht-degree: 2%
                + [Envío de correos electrónicos a través del correo electrónico del grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Uso de una plantilla en la ventana de composición](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Preguntas frecuentes {#faq}
+            + [¿Puedo recuperar un contacto o grupo que eliminé?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [¿Puedo rastrear varios destinatarios con CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Preguntas frecuentes sobre el contenido y los archivos adjuntos](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [¿Las acciones de perspectiva de ventas tienen una aplicación de iPhone o Android?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [¿Cómo puedo Lista de permitidos las acciones de perspectivas de ventas en mi servidor?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [¿Cómo puedo corregir &quot;No hemos podido autenticar su solicitud&quot; al conectarme a Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [¿Cómo Evito Las Autovisualizaciones?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [¿Cómo Funciona El Seguimiento De Ubicación?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [¿Cómo Gestionan Las Acciones De Perspectiva De Ventas La Desduplicación De Correo Electrónico?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [Me bloqueé de mi cuenta. ¿Qué hago?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [¿Son compatibles las acciones de perspectivas de ventas con Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [¿Cuáles son las últimas versiones de cliente?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [¿Cuáles son los términos de servicio de las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [¿Por qué no se inserta a ninguno de mis contactos en las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [¿Por qué no puedo eliminar un contacto?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
+            + [¿Por qué no se movieron todos mis contactos a las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [¿Por qué el seguimiento de la actividad no se muestra en la actividad de Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
