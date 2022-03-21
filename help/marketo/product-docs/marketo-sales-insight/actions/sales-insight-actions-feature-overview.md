@@ -2,9 +2,9 @@
 description: 'Descripción general de la función de las acciones de perspectiva de ventas: Documentos de Marketo: Documentación del producto'
 title: Descripción general de la función Acciones de perspectiva de ventas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Descripción general de la función Acciones de perspectiva de ventas {#msi-actions-feature-overview}
 
 Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un único flujo de trabajo mediante las acciones de perspectiva de ventas.
+
+>[!AVAILABILITY]
+>
+>Esta función está actualmente en GA limitada. Póngase en contacto con el administrador de éxito del cliente o envíe un correo electrónico `sales-insights(at)adobe(dot)com` para solicitar acceso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

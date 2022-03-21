@@ -4,9 +4,9 @@ title: Configuración de sincronización de Salesforce
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -114,3 +114,21 @@ Si no ve Mi correo electrónico a Salesforce en Configuración, es posible que e
 1. Elija la opción deseada (&quot;No sincronizar con las tareas de Salesforce&quot; está seleccionada de forma predeterminada).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Sincronización de las tareas de las acciones de perspectiva de ventas con Salesforce por primera vez {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Cuando activa por primera vez la sincronización entre las acciones de perspectiva de ventas y las tareas de Salesforce, importamos sus tareas de Salesforce. No transferiremos a Salesforce ninguna tarea actual que tenga en Acciones de perspectivas de ventas. Para reducir el desorden y los duplicados, las únicas tareas que se sincronizan desde las acciones de perspectiva de ventas a Salesforce son las tareas creadas después de sincronizar las acciones de perspectiva de ventas con SFDC.
+
+Esto es lo que sucede cuando sincroniza las acciones de perspectivas de ventas y las tareas de SFDC:
+
+Tan pronto como haga clic en guardar en la sincronización de tareas, empezarán a sincronizarse. Inicialmente, esto llevará algún tiempo.
+
+Cualquier recordatorio que se haya actualizado o creado en las últimas 24 horas se extraerá de SFDC a las acciones de perspectiva de ventas. La sincronización se basa en la fecha de vencimiento y todas esas tareas se sincronizarán en el back-end, pero en el centro de comandos solo verá las tareas que vencen hoy y mañana.
+
+Si la sincronización se ha activado anteriormente y elimina cualquier tarea en SFDC, todo lo que se haya eliminado en los últimos 15 días se eliminará del Centro de comandos.
+
+Sincronizaremos tareas constantemente entre las acciones de perspectiva de ventas y SFDC siempre y cuando la sincronización esté habilitada.
+
+Después de la sincronización inicial, cualquier tarea que cree, edite, complete o elimine en las acciones de perspectiva de ventas se sincronizará con la lista de tareas de Salesforce. Y todo lo que se cree, edite, complete o elimine en Salesforce actualizará su lista de tareas en Acciones de Insight de Ventas.
+
+Para activar esta sincronización, marque la casilla de sincronización en la página Configuración de la aplicación web.
