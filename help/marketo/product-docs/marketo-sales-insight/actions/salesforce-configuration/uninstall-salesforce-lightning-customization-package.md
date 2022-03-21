@@ -1,10 +1,8 @@
 ---
 description: Desinstalación del paquete de personalización de Salesforce Lightning - Marketo Docs - Documentación del producto
 title: Desinstalación del paquete de personalización de Salesforce Lightning
-hide: true
-hidefromtoc: true
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 83556a56bddc1bdbeb5a5e93ec3a2c0d92aed831
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 6%

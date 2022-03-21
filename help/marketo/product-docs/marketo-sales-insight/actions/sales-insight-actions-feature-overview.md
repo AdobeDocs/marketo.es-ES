@@ -1,10 +1,8 @@
 ---
 description: 'Descripción general de la función de las acciones de perspectiva de ventas: Documentos de Marketo: Documentación del producto'
 title: Descripción general de la función Acciones de perspectiva de ventas
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 0%
@@ -23,7 +21,7 @@ Las siguientes acciones están disponibles en la lista desplegable &quot;Elegir 
 
 * Enviar email de ventas
    * Los correos electrónicos de ventas tienen seguimiento de vista, clics y respuestas (cuando se configura el canal de envío)
-   * Incluye personalización de correo electrónico, firma personalizada y archivos adjuntos
+   * Incluye Email Personalization, firmas personalizadas y archivos adjuntos
    * Uso compartido de plantillas e informes
    * Uso compartido de equipos, correos electrónicos de grupo y capacidad CC/BCC
    * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
@@ -75,7 +73,7 @@ Las siguientes acciones están disponibles en la barra de navegación superior:
 
 * Enviar correo electrónico de ventas: Capacidad de enviar correos electrónicos de grupo personalizados o con plantilla con vista, hacer clic y responder al seguimiento de todos los contactos asociados a una cuenta u oportunidad
    * Los correos electrónicos de ventas tienen seguimiento de vista, clics y respuestas (cuando se configura el canal de envío)
-   * Incluye personalización de correo electrónico, firma personalizada y archivos adjuntos
+   * Incluye Email Personalization, firmas personalizadas y archivos adjuntos
    * Uso compartido de plantillas e informes
    * Uso compartido de equipos, correos electrónicos de grupo y capacidad CC/BCC
    * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
