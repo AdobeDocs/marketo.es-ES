@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 2%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 2%
          + Campañas {#campaigns}
             + [Agregar a campaña de marketing](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [La campaña ha finalizado](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Ver la lista de campañas como otro usuario](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Personalización de Salesforce {#salesforce-customization}
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 2%
             + [Registrar correos electrónicos en una fuente externa](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Concesión de acceso a Marketo a usuarios](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Momentos interesantes en las acciones de perspectiva de ventas](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Hacer que una campaña sea visible para los usuarios de conexión de ventas](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [Déclencheur y filtros de actividades de ventas](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glosario de actividades de las acciones de perspectiva de ventas](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
