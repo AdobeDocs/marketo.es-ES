@@ -3,15 +3,18 @@ unique-page-id: 4720433
 description: 'Configuración de protocolos para Marketo: Documentos de Marketo: Documentación del producto'
 title: Configuración de protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '988'
 ht-degree: 1%
 
 ---
 
 # Configuración de protocolos para Marketo {#configure-protocols-for-marketo}
+
+Si usted o su organización utilizan cortafuegos restrictivo o configuración del servidor proxy, es posible que usted o el administrador de la red tengan que realizar la lista de permitidos de ciertos dominios e intervalos de direcciones IP para garantizar que Adobe Marketo Engage funcione correctamente.
+
+## Páginas de aterrizaje y correos electrónicos de campañas con marca {#branded-campaign-landing-pages-and-emails}
 
 El grupo de marketing usa Marketo para crear páginas de aterrizaje y correos electrónicos de campañas con marca. Para garantizar que esas páginas de aterrizaje y correos electrónicos funcionen, necesitan un poco de ayuda de TI. Configure los siguientes protocolos con la información que su grupo de marketing debería haberle enviado por correo electrónico.
 
@@ -27,7 +30,7 @@ Este artículo debe compartirse con el departamento de TI de la empresa que dese
 
 * `*.mktoweb.com`
 
-## Paso 1: Crear registros DNS para páginas de aterrizaje y correo electrónico {#step-create-dns-records-for-landing-pages-and-email}
+## Paso 1: Creación de registros DNS para páginas de aterrizaje y correo electrónico {#step-create-dns-records-for-landing-pages-and-email}
 
 **CNAME de vínculo de seguimiento**
 
@@ -35,16 +38,16 @@ Su equipo de marketing debería haberle enviado dos solicitudes para nuevos regi
 
 `1` **Agregar CNAME para páginas de aterrizaje**
 
-Agregue el CNAME de la página de aterrizaje que le enviaron al registro DNS para que `[YourLandingPageCNAME]` apunte a la cadena de cuenta única asignada a sus páginas de aterrizaje de Marketo. Inicie sesión en el sitio del registrador de dominios e introduzca el CNAME de la página de aterrizaje y la cadena de cuenta. Normalmente, esto implica tres campos:
+Agregue el CNAME de la página de aterrizaje que le enviaron al registro DNS para que `[YourLandingPageCNAME]` apunta a la cadena de cuenta única asignada a sus páginas de aterrizaje de Marketo. Inicie sesión en el sitio del registrador de dominios e introduzca el CNAME de la página de aterrizaje y la cadena de cuenta. Normalmente, esto implica tres campos:
 
-* Alias: Escriba `[YourLandingPageCNAME]` (proporcionado por marketing)
+* Alias: Entrar `[YourLandingPageCNAME]` (proporcionado por marketing)
 * Tipo: CNAME
-* Apunte a: Escriba `[MarketoAccountString].mktoweb.com` (proporcionado por marketing)
+* Apunte a: Entrar `[MarketoAccountString].mktoweb.com` (proporcionado por marketing)
 
 `2` **Añadir CNAME para vínculos de seguimiento de correo electrónico**
 
-Añada el correo electrónico CNAME de marketing enviado, de modo que `[YourEmailCNAME]` apunte a [MktoTrackingLink], el vínculo de seguimiento predeterminado asignado por Marketo, con el formato:\
-`[YourEmailCNAME].[YourDomain].com` EN CNAME  `[MktoTrackingLink]`
+Añada el correo electrónico CNAME de marketing que le ha enviado, para que `[YourEmailCNAME]` señala a [MktoTrackingLink], el vínculo de seguimiento predeterminado asignado por Marketo, con el formato :\
+`[YourEmailCNAME].[YourDomain].com` EN CNAME `[MktoTrackingLink]`
 
 Por ejemplo:
 
@@ -61,8 +64,7 @@ Cuando su grupo de marketing utiliza Marketo para enviar correos electrónicos d
 Añada estas direcciones IP a la lista de permitidos corporativa:
 
 199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
+192.28.144.0/20 192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
@@ -91,12 +93,45 @@ El equipo de marketing también debería haberle enviado información de DKIM pa
 
 1. Para DKIM, cree Registros de recursos DNS para cada dominio que desee configurar. A continuación, se muestran los registros de host y los valores TXT de cada dominio para el que se firmará:
 
-   `[DKIMDomain1]`: El registro de host es  `[HostRecord1]` y el valor TXT es  `[TXTValue1]`.
+   `[DKIMDomain1]`: El registro de host es `[HostRecord1]` y el valor TXT es `[TXTValue1]`.
 
-   `[DKIMDomain2]`: El registro de host es  `[HostRecord2]` y el valor TXT es  `[TXTValue2]`.
+   `[DKIMDomain2]`: El registro de host es `[HostRecord2]` y el valor TXT es `[TXTValue2]`.
 
-   Copie el HostRecord y TXTValue para cada DKIMDomain que haya configurado después de seguir las [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide verificar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
+   Copie el HostRecord y TXTValue para cada DKIMDomain que haya configurado después de seguir la [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). No olvide verificar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
 
-## Paso 4: Configurar registros MX para su dominio {#step-set-up-mx-records-for-your-domain}
+## Paso 4: Configuración de registros MX para su dominio {#step-set-up-mx-records-for-your-domain}
 
 Un registro MX le permite recibir correo al dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si está enviando desde su dominio corporativo, probablemente ya lo haya configurado. Si no es así, normalmente puede configurarlo para asignarlo al registro MX de su dominio corporativo.
+
+## Direcciones IP salientes {#outbound-ip-addresses}
+
+Una conexión saliente es una que realiza el Marketo Engage a un servidor de Internet en su nombre. Algunos socios o proveedores con los que trabaje, o su propia organización de TI, pueden utilizar listas de permitidos para restringir el acceso a los servidores. Si es así, debe proporcionarles bloques de direcciones IP salientes de Marketo Engage para añadirlos a sus listas de permitidos.
+
+**Enlaces web**
+
+Marketo Engage [Enlaces web](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} son un mecanismo de integración saliente. Cuando [Llamar a Weblock](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)La acción de flujo {target=&quot;_blank&quot;} se ejecuta como parte de una campaña inteligente; se realiza una solicitud HTTP a un servicio web externo. Si el editor de servicios web utiliza una lista de permitidos en el cortafuegos de la red en la que se encuentra el servicio web externo, el editor debe añadir los bloques de direcciones IP que se enumeran a continuación a su lista de permitidos.
+
+**Sincronización de CRM**
+
+Marketo Engage [Sincronización de Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} y [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} son mecanismos de integración que realizan solicitudes HTTP salientes a las API publicadas por su proveedor de CRM. Debe asegurarse de que su organización de TI no bloquee ninguno de los bloques de direcciones IP siguientes para acceder a las API de proveedor de CRM.
+
+**Bloques de direcciones IP salientes del Marketo Engage**
+
+La siguiente tabla abarca todos los servidores de Marketo Engage que realizan llamadas salientes. Utilice esta lista si está configurando cualquier lista de permitidos IP, servidor de seguridad, firewall, lista de control de acceso, grupo de seguridad o servicio de terceros para recibir conexiones salientes del Marketo Engage.
+
+<table>
+ <tbody>
+  <tr>
+   <th>Bloque IP (Notación CIDR)</th>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+   <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+   <tr>
+   <td>199.15.212.0/22</td>
+  </tr>
+ </tbody>
+</table>
