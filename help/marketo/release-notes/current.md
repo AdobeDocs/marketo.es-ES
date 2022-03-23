@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,6 @@ Las siguientes funciones empezarán a lanzarse en **11 de marzo de 2022**, con u
 
 * **Pantallas actualizadas en la experiencia de próxima generación**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
 
-   * Vista de lista de correo electrónico en Design Studio (incluidas las nuevas acciones masivas)
    * Vista de lista de formularios en Design Studio (incluidas las nuevas acciones masivas)
 
 * **Importar actualización del flujo de trabajo del programa**: El flujo de trabajo del programa de importación se está entregando en la experiencia de próxima generación con un diseño actualizado y mejoras de uso. Esto será un cambio automático sin un interruptor de alternancia.
