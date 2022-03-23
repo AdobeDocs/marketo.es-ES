@@ -2,9 +2,9 @@
 description: 'Diseñador de secuencias: Documentos de Marketo: Documentación del producto'
 title: Diseñador de secuencias
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 
 ## Creación de un flujo {#create-a-stream}
 
-1. Después de [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md), haga clic en **Diseñador de secuencias** pestaña .
+1. Después de [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, haga clic en el botón **Diseñador de secuencias** pestaña .
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 
 >[!NOTE]
 >
->Antes de hacer clic en Publicar, recuerde asegurarse de que ha [ha introducido las direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>Antes de hacer clic en Publicar, recuerde asegurarse de que ha [ha introducido las direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
