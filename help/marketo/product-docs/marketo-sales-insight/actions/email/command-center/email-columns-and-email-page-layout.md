@@ -1,13 +1,11 @@
 ---
 description: 'Columnas de correo electrónico y diseño de página de correo electrónico: documentos de Marketo: documentación del producto'
 title: Columnas de correo electrónico y diseño de página de correo electrónico
-hide: true
-hidefromtoc: true
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,7 +31,7 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
   </tr> 
   <tr> 
    <td><strong>Nombre</td> 
-   <td>Name of the person in Sales Connect.</td> 
+   <td>Nombre de la persona en Conexión de Ventas.</td> 
   </tr> 
   <tr> 
    <td><strong>Dirección</td> 
@@ -41,7 +39,7 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
   </tr> 
   <tr> 
    <td><strong>Campaña</td> 
-   <td>Si el correo electrónico se envió como parte de una campaña, se mostrará el nombre de la campaña. Clicking on this field will take you to the setup page of that campaign.</td> 
+   <td>Si el correo electrónico se envió como parte de una campaña, se mostrará el nombre de la campaña. Al hacer clic en este campo, se le dirigirá a la página de configuración de esa campaña.</td> 
   </tr> 
   <tr> 
    <td><strong>Plantilla</td> 
@@ -65,11 +63,11 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
   </tr> 
   <tr> 
    <td><strong>Estado del correo electrónico</td> 
-   <td>Status that email is in. Statuses include: Draft, Scheduled, In Progress, Spam, Bounced, Failed, Sent. Los correos electrónicos enviados muestran un flujo de actividad que muestra cuántas vistas, clics y respuestas se han producido en ese correo electrónico.</td> 
+   <td>Estado en el que se encuentra el correo electrónico. Los estados incluyen: Borrador, Programado, En Curso, Correo No Deseado, Devuelto, Fallido, Enviado. Los correos electrónicos enviados muestran un flujo de actividad que muestra cuántas vistas, clics y respuestas se han producido en ese correo electrónico.</td> 
   </tr> 
   <tr> 
    <td><strong>Fecha de creación</td> 
-   <td>Date the email was created.</td> 
+   <td>Fecha en que se creó el correo electrónico.</td> 
   </tr> 
   <tr> 
    <td><strong>Última actualización</td> 
@@ -77,19 +75,19 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
   </tr> 
   <tr> 
    <td><strong>Canal de entrega</td> 
-   <td>The name of the delivery channel that was used for sending the email.</td> 
+   <td>Nombre del canal de entrega que se utilizó para enviar el correo electrónico.</td> 
   </tr> 
   <tr> 
    <td><strong>Última actividad</td> 
-   <td>The last engagement by the email recipient (e.g., view, click, or reply).</td> 
+   <td>La última participación del destinatario del correo electrónico (por ejemplo, ver, hacer clic o responder).</td> 
   </tr> 
   <tr> 
    <td><strong>Fecha de envío</td> 
-   <td>The date the email was sent.</td> 
+   <td>La fecha en la que se envió el correo electrónico.</td> 
   </tr> 
   <tr> 
    <td><strong>Seguimiento de acciones</td> 
-   <td>Quick action buttons that can be used for follow-up by email, phone, inMail, or task.</td> 
+   <td>Botones de acción rápida que pueden utilizarse para el seguimiento por correo electrónico, teléfono, inMail o tarea.</td> 
   </tr> 
   <tr> 
    <td><strong>Correo electrónico del grupo</td> 
@@ -108,8 +106,8 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
    <td>Muestra el tipo de tarea de una tarea relacionada con el correo electrónico. Las tareas se pueden relacionar con un correo electrónico creando a partir de los botones de acción rápida de la lista de correo electrónico.</td> 
   </tr> 
   <tr> 
-   <td><strong>Date Failed</td> 
-   <td>Shows the date that the email failed if the email was not delivered.</td> 
+   <td><strong>Fecha en la que se produjo el error</td> 
+   <td>Muestra la fecha en la que se produjo un error en el correo electrónico si no se entregó.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -118,15 +116,15 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
 
 Puede configurar el diseño siguiendo estos pasos.
 
-1. In the web application, click **Command Center**.
+1. En la aplicación web, haga clic en **Centro de comandos**.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Select the **Emails** section.
+1. Seleccione el **Correos electrónicos** para obtener más información.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 
-1. Click the configuration button. Las opciones incluyen: elegir cuántas filas desea, seleccionar qué campos desea que aparezcan y seleccionar si desea que los correos electrónicos de grupo se resuman en un solo elemento de la cuadrícula (o si desea que todos los correos electrónicos que forman parte de una cuadrícula de correo electrónico se muestren como un solo elemento).
+1. Haga clic en el botón de configuración . Las opciones incluyen: elegir cuántas filas desea, seleccionar qué campos desea que aparezcan y seleccionar si desea que los correos electrónicos de grupo se resuman en un solo elemento de la cuadrícula (o si desea que todos los correos electrónicos que forman parte de una cuadrícula de correo electrónico se muestren como un solo elemento).
 
    ![](assets/email-columns-and-email-page-layout-3.png)
 
