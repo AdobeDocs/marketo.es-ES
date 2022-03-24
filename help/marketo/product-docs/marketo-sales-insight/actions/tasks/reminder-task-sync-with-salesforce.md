@@ -1,9 +1,8 @@
 ---
 description: Sincronización de tareas de recordatorio con Salesforce - Marketo Docs - Documentación del producto
 title: Sincronización de tareas de recordatorio con Salesforce
-hide: true
-hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 1%

@@ -1,10 +1,8 @@
 ---
 description: 'Envío de correos electrónicos por correo electrónico del grupo: documentos de Marketo: documentación del producto'
 title: Envío de correos electrónicos a través del correo electrónico del grupo
-hide: true
-hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

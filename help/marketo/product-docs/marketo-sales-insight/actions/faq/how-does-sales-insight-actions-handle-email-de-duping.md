@@ -1,9 +1,8 @@
 ---
 description: Cómo Gestionan Las Acciones De Perspectiva De Ventas La Eliminación De La Duplicación De Correo Electrónico - Documentos De Marketo - Documentación Del Producto
 title: Cómo Gestionan Las Acciones De Perspectiva De Ventas La Desduplicación De Correo Electrónico
-hide: true
-hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 40b01f7f-df50-4bd2-ac35-4c4e4f80915e
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

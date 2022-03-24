@@ -1,10 +1,8 @@
 ---
 description: Personalizar mensaje para cancelar la suscripción del vínculo - Documentos de Marketo - Documentación del producto
 title: Personalizar mensaje para cancelar la suscripción
-hide: true
-hidefromtoc: true
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
