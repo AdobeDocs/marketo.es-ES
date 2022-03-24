@@ -2,7 +2,8 @@
 solution: Marketo Sky
 user-guide-title: Documentación del Marketo Sky
 feature-set: Marketo Sky
-source-git-commit: dcbe5f6c0061474e614a731eefca329db314df9e
+hide: true
+source-git-commit: 8505fb6431b6855b263d99d622a60b71c0301ad5
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 2%
