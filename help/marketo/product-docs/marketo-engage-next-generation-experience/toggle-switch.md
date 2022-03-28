@@ -2,9 +2,9 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,31 @@ El conmutador permite cambiar entre la interfaz clásica de Marketo y la nueva e
 >
 >Cuando se selecciona el conmutador, todos los flujos de trabajo existentes se guardan automáticamente antes de que se produzca el cambio en la interfaz de usuario. Si una operación ya está en curso (por ejemplo: un recurso está en proceso de aprobación), recibirá un mensaje de error que lo indicará como tal y debe intentarlo de nuevo una vez completada la operación.
 
+## Habilitar el conmutador de alternancia para roles individuales {#enable-the-toggle-switch-for-individual-roles}
+
+Active el conmutador para roles individuales o todos los roles. Así es como.
+
+1. En el Marketo Engage, haga clic en **Administrador**.
+
+   ![](assets/toggle-switch-1.png)
+
+1. Haga clic en **Nueva experiencia**.
+
+   ![](assets/toggle-switch-2.png)
+
+1. Seleccione las funciones a las que desea tener acceso en el conmutador.
+
+   ![](assets/toggle-switch-3.png)
+
 ## Vista de lista de páginas de aterrizaje {#landing-page-list-view}
 
 La vista de lista de la página de aterrizaje de próxima generación ofrece filtros de búsqueda y la capacidad de realizar acciones masivas de la página de aterrizaje.
 
 1. En Marketo, seleccione **Design Studio**.
 
-   ![](assets/toggle-switch-1.png)
+   ![](assets/toggle-switch-4.png)
 
 1. Select **Páginas de aterrizaje**.
-
-   ![](assets/toggle-switch-2.png)
-
-1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
-
-   ![](assets/toggle-switch-3.png)
-
-Se cargará la nueva experiencia.
-
-![](assets/toggle-switch-4.png)
-
-## Página de detalles de la página de aterrizaje {#landing-page-details-page}
-
-1. En Marketo, busque y seleccione la página de aterrizaje.
 
    ![](assets/toggle-switch-5.png)
 
@@ -51,9 +53,9 @@ Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-7.png)
 
-## Página Detalles del formulario {#form-details-page}
+## Página de detalles de la página de aterrizaje {#landing-page-details-page}
 
-1. En Marketo, busque y seleccione el formulario.
+1. En Marketo, busque y seleccione la página de aterrizaje.
 
    ![](assets/toggle-switch-8.png)
 
@@ -65,14 +67,28 @@ Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-10.png)
 
+## Página Detalles del formulario {#form-details-page}
+
+1. En Marketo, busque y seleccione el formulario.
+
+   ![](assets/toggle-switch-11.png)
+
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+
+   ![](assets/toggle-switch-12.png)
+
+Se cargará la nueva experiencia.
+
+![](assets/toggle-switch-13.png)
+
 ## Habilitar para todas las funciones {#enable-for-all-features}
 
 Tiene la opción de activar la interfaz de próxima generación de Marketo para todas las funciones disponibles, actuales y futuras.
 
 1. En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
 
-   ![](assets/toggle-switch-11.png)
+   ![](assets/toggle-switch-14.png)
 
 1. Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
 
-   ![](assets/toggle-switch-12.png)
+   ![](assets/toggle-switch-15.png)
