@@ -3,7 +3,8 @@ description: 'Explicación del seguimiento de objetivos y los registros proyecta
 title: Información sobre el seguimiento de objetivos y los registros proyectados
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Información sobre el seguimiento de objetivos y los registros proyectados {#understanding-goal-tracking-and-projected-registrations}
 
-Después [definición de objetivos de evento](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) y enviar invitaciones a través de un [campaña inteligente](/help/sky/create-a-smart-campaign.md), aquí se explica cómo rastrear el progreso de su objetivo y comprender las predicciones de Marketo.
+Después [definición de objetivos de evento](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) y enviar invitaciones a través de un [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md), aquí se explica cómo rastrear el progreso de su objetivo y comprender las predicciones de Marketo.
 
 >[!NOTE]
 >
@@ -53,7 +54,7 @@ Al calcular programas similares, incluimos los siguientes factores, entre otros:
 * Tipo de programa
 * Canal de programa
 * Tamaño de la audiencia
-* Etiquetas de programa
+* Etiquetas del programa
 * Duración desde la creación del evento hasta el inicio del evento
 * Duración del evento
 
