@@ -3,10 +3,10 @@ unique-page-id: 37355569
 description: Campos personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
 title: Campos personalizados de miembro del programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 1%
+source-wordcount: '402'
+ht-degree: 0%
 
 ---
 
@@ -70,7 +70,7 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 * El objeto Miembro del programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
 * Cuando elimine un miembro de un programa, si tiene datos en el campo personalizado Miembro del programa, los datos se limpiarán de ese campo.
 * Para ver los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
-* Importar y exportar mediante [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) y [API](https://developers.marketo.com/) son compatibles.
+* Importar y exportar mediante [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) y [API](https://developers.marketo.com/) son compatibles. Las exportaciones solo funcionan en listas de miembros del programa, no en listas estáticas.
 * Cuando combina dos personas, se utilizarán los datos de campo personalizados del miembro del programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
 * El tipo de cambio es **not** permitido en los campos Información de miembro del programa .
 
