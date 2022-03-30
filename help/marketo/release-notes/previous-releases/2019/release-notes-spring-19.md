@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 'Notas de la versión, primavera de 2019: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, primavera de 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,11 +24,11 @@ Las siguientes funciones se lanzaron el 15 de marzo de 2019.
 
 * **En la lista de espera:** Nuevo estado de programa/evento para la espera de un miembro cuando desee [ponlos en suspenso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) hasta que se abra una vacante. Esto se aplica a los canales asociados con programas de Evento en Marketo Classic, y a los programas de Evento y Evento con Seminarios web en Marketo Sky. De forma predeterminada, la lista de espera tiene el mismo valor de paso que Registrado.
 * **[Límite de comunicación personalizado](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Los administradores ahora pueden establecer límites de comunicación personalizados diarios o semanales.
-* **[API de recursos de Smart Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**: Enriquezca los análisis fuera de Marketo con la recuperación de registros de campaña inteligente mediante la fecha y el ID actualizados.
+* **[API de recursos de Smart Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Enriquezca los análisis fuera de Marketo con la recuperación de registros de campaña inteligente mediante la fecha y el ID actualizados.
 * **Vínculos de seguimiento HTTPS para correo electrónico:** Para los clientes que han adquirido &quot;Dominios seguros para vínculos de seguimiento&quot;, ahora los vínculos de seguimiento con marca se pueden mostrar dentro de los correos electrónicos como HTTPS.
 * **Actualizaciones de PowerPack de capacidad de envío por correo electrónico**: Posibilidad de marcar y comentar resultados de pruebas específicos, compartir resultados con los interesados a través de una URL y rastrear cambios para ver la evolución de un correo electrónico como los interesados editan contenido.
 
-Marketing basado en cuentas
+Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Ahora está disponible de forma general. AccountAI utiliza inteligencia artificial para revelar las cuentas a las que debe dirigirse para su estrategia ABM.
 

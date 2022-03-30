@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Notas de la versión - Invierno '18 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
@@ -24,9 +24,9 @@ Marketo está aprovechando nuestra arquitectura de grandes datos para aumentar e
 
 Tenemos dos mejoras en nuestra integración de Salesforce CRM:
 
-* [Notificaciones del administrador de Marketo ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) para ciertos errores de sincronización de CRM (credenciales caducadas, límites de API alcanzados, etc.)
+* [Notificaciones del administrador de Marketo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) para ciertos errores de sincronización de CRM (credenciales caducadas, límites de API alcanzados, etc.)
 
-* [Posibilidad de desactivar las ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) notificaciones por correo electrónico a los propietarios potenciales al asignar posibles clientes
+* [Posibilidad de desactivar las notificaciones por correo electrónico](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) a Propietarios potenciales al asignar posibles clientes
 
 Estas mejoras se implementarán en 2018.
 
@@ -54,15 +54,15 @@ Ahora, los scripts de Velocity se admiten en correos electrónicos que utilizan 
 
 **Zona horaria del destinatario**
 
-* **[Cadencia](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)** de las nutriciones mensuales: Hemos agregado la capacidad de programar programas de crianza en una cadencia mensual.
+* **[Catarata mensual](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: Hemos agregado la capacidad de programar programas de crianza en una cadencia mensual.
 
 * **[Detener entrega](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Ahora puede detener los envíos restantes a mitad de la ejecución.
 
 ## Integraciones de red de publicidad {#ad-network-integrations}
 
-**[Integración de coincidencias de clientes de Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Integración de Customer Match de Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Con esta integración, puede enviar una audiencia de Marketo a Google para que sea segmentada mediante Google AdWords, así como redirigir las audiencias a YouTube, Search y Gmail.
+Con esta integración, puede enviar una audiencia de Marketo a Google para que sea segmentada mediante Google AdWords, así como redirigir audiencias a través de YouTube, Search y Gmail.
 
 **[Mejora de la API de audiencias coincidentes de linkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
@@ -70,13 +70,13 @@ Nuestra nueva API de LinkedIn ahora le permite volver a dirigirse a personas de 
 
 ## Personalización web {#web-personalization}
 
-**Fuente de datos japonesa para la personalización web**
+**Fuente de datos japonesa para Web Personalization**
 
-Marketo está agregando una fuente de datos japonesa adicional para la personalización web a fin de mejorar la identificación de visitantes web (búsqueda IP inversa) y la personalización de los visitantes que llegan de Japón. Los nombres de organización se mostrarán en japonés.
+Marketo está agregando una fuente de datos japonesa adicional para Web Personalization a fin de mejorar la identificación de visitantes web (búsqueda de IP inversa) y la personalización para los visitantes que llegan de Japón. Los nombres de organización se mostrarán en japonés.
 
 **[Creación de un segmento web mediante listas estáticas](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-La personalización web ahora puede personalizar el contenido para un visitante web conocido que forme parte de una lista estática definida en Actividades de marketing (MLM). Con esta mejora, ahora puede comercializar a listas estáticas entre canales y dirigirse a personas de estas listas con contenido personalizado en el sitio web.
+Web Personalization ahora puede personalizar el contenido para un visitante web conocido que forme parte de una lista estática definida en Actividades de marketing (MLM). Con esta mejora, ahora puede comercializar a listas estáticas entre canales y dirigirse a personas de estas listas con contenido personalizado en el sitio web.
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ El contenido recomendado mediante los algoritmos de ContentAI optimizados de Mar
 
 ## Integración {#integration}
 
-**[Activar/desactivar la API de Campaign](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Activar/desactivar la API de Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Esta nueva API le permite activar y desactivar de forma remota las campañas de déclencheur, por lo que ahora puede crear plantillas de programa totalmente automatizadas. Cree una plantilla de programa una vez, luego automatice la clonación, las actualizaciones de material publicitario de marketing y ahora la activación/programación de campañas inteligentes.
 
@@ -94,7 +94,7 @@ Esta nueva API le permite activar y desactivar de forma remota las campañas de 
 
 **Cancelar suscripción**
 
-A partir del 1 de marzo de 2018, todos los correos electrónicos enviados desde [ToutApp.com](https://ToutApp.com) (y utilizando el botón &quot;Correo electrónico con cierre&quot; en Salesforce) tendrán un vínculo de cancelación de suscripción adjunto a la parte inferior.
+A partir del 1 de marzo de 2018, todos los correos electrónicos enviados desde [ToutApp.com](https://ToutApp.com) (y utilizando el botón &quot;Correo electrónico con tout&quot; en Salesforce) tendrá un enlace de cancelación de suscripción anexado a la parte inferior.
 
 **Actualización de la fuente en directo**
 

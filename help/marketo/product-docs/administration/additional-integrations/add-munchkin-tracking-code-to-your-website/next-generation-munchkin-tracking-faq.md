@@ -3,10 +3,9 @@ unique-page-id: 10096583
 description: 'Preguntas frecuentes sobre el seguimiento de Munchkin de próxima generación: Documentos de Marketo: Documentación del producto'
 title: Preguntas frecuentes sobre el seguimiento de Munchkin de próxima generación
 exl-id: 283189ac-c817-479a-b896-91233980608c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -31,7 +30,7 @@ No. El código de seguimiento de Munchkin sigue siendo el mismo. No es necesario
 
 >[!NOTE]
 >
->Este cambio no afecta a la personalización web (personalización en tiempo real). Sigue identificando visitantes web anónimos y conocidos y personalizando el contenido en tiempo real para estos visitantes.
+>Este cambio no afecta a Web Personalization (Real-Time Personalization). Sigue identificando visitantes web anónimos y conocidos y personalizando el contenido en tiempo real para estos visitantes.
 
 ## ¿Por qué Marketo ha eliminado el filtro &quot;Es anónimo&quot; de las listas inteligentes? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -50,15 +49,12 @@ Si ya está utilizando este filtro en una lista inteligente (por ejemplo, en una
 >Con Munchkin V2, si una persona anónima visita la página de precios, no entra inmediatamente en la campaña. En el momento en que la persona anónima sea conocida, le ejecutaremos esta campaña. Ella:
 >
 >* Obtener una puntuación de 10
-   >
-   >
-* Tener la actividad Página web configurada en la fecha correcta (cuando realmente visitó)
-   >
-   >
-* Tener un momento interesante registrado para ella (con la fecha en que realmente visitó la página, no cuando se dio a conocer)
-   >
-   >
-* Tener una actividad &quot;Nueva persona&quot; registrada, tal como es hoy
+>
+>* Tener la actividad Página web configurada en la fecha correcta (cuando realmente visitó)
+>
+>* Tener un momento interesante registrado para ella (con la fecha en que realmente visitó la página, no cuando se dio a conocer)
+>
+>* Tener una actividad &quot;Nueva persona&quot; registrada, tal como es hoy
 
 
 ## ¿Qué sucede con mis listas inteligentes que ya tienen el filtro &quot;Es anónimo&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -94,4 +90,4 @@ Consulte estos vínculos:
 
 ## ¡Tengo más preguntas! ¿Cómo obtengo respuestas? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Póngase en contacto con la [comunidad](https://nation.marketo.com/welcome). También puede ponerse en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Estarán felices de responder a sus preguntas.
+Póngase en contacto con el [comunidad](https://nation.marketo.com/). También puede ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Estarán felices de responder a sus preguntas.

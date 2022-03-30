@@ -1,60 +1,59 @@
 ---
 unique-page-id: 10099077
-description: Paquete de Power de Entregabilidad por Correo Electrónico - Cómo importar una lista de elementos - Documentos de marketing - Documentación del producto
-title: 'Paquete de PowerPoint de la capacidad de entrega de correo electrónico: Cómo importar una lista de elementos principales'
-translation-type: tm+mt
-source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
+description: Email Deliverability Power Pack - Cómo importar una lista de elementos - Marketo Docs - Documentación del producto
+title: 'Email Deliverability Power Pack: cómo importar una lista de elementos secundarios'
+exl-id: a4782611-2556-43bf-802b-afeb332eafcd
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
+# Power Pack de capacidad de entrega de correo electrónico: Cómo importar una lista de elementos secundarios {#email-deliverability-power-pack-how-to-import-a-seedlist}
 
-# Power Pack de capacidad de entrega de correo electrónico: Cómo importar una lista de elementos principales {#email-deliverability-power-pack-how-to-import-a-seedlist}
-
-Una lista de inicialización es una lista de cuentas de correo electrónico en varios proveedores de buzones de correo, incluyendo Google Apps, Hotmail, Yahoo!, etc., que se utilizan para aproximar la tasa de entrega de las carpetas de correo electrónico en comparación con correo no deseado. A continuación se muestra cómo introducir esa lista en la instancia de Marketing to.
+Una lista de fuentes es una lista de cuentas de correo electrónico de varios proveedores de buzones de correo, incluidas las aplicaciones de Google, Hotmail, Yahoo!, etc., que se utilizan para aproximar la tasa de entrega de la bandeja de entrada frente a la de las carpetas de correo no deseado. A continuación se muestra cómo obtener esa lista en la instancia de Marketo.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-## Importar una lista de elementos principales {#import-a-seedlist}
+## Importar una lista de elementos semilla {#import-a-seedlist}
 
 1. Vaya a **Herramientas de entrega**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en **Informador de bandeja de entrada**.
+1. Haga clic en **Informador de la bandeja de entrada**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en **Obtener lista de elementos**.
+1. Haga clic en **Obtener lista de fuentes**.
 
    ![](assets/three-1.png)
 
-1. Haga clic en **Exportar Lista**.
+1. Haga clic en **Lista de exportación**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Elija **Optimizar Lista** si desea 250ok para [optimizar su lista](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) por usted. Elija **Personalizar Lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
+   >Choose **Lista de optimización** si quieres 250ok para [optimizar la lista](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) para usted. Choose **Personalizar lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
 
-1. Tras la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recuperarla y [importarla](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketing to como una lista estática.
+1. Después de la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recupere y [importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketo como una lista estática.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Asegúrese de nombrar su lista de una manera que le facilite su búsqueda.
+   >Asegúrese de nombrar la lista de una manera que facilite su búsqueda.
 
    >[!CAUTION]
    >
-   >Se obtiene una cantidad limitada de estas Campañas del Informador de la Bandeja de entrada por mes. Para ver la cantidad de usuarios que obtiene, consulte su configuración de cuenta de 250 ok **a1/>.** Para obtener más información, póngase en contacto con su representante de ventas de Marketing to.
+   >Recibe una cantidad limitada de estas campañas del Informador de la bandeja de entrada por mes. Para ver cuántos obtienes, mira en tu 250ok **Configuración de la cuenta**. Para obtener más información, póngase en contacto con su representante de ventas de Marketo.
 
-## Adquisición de nuevas listas de elementos principales {#acquiring-new-seedlists}
+## Adquisición de nuevas listas de semillas {#acquiring-new-seedlists}
 
-Su lista de semillas puede cambiar con la misma frecuencia que cada mes. Es importante iniciar sesión en Email Delivery Power Pack regularmente y comprobar el estado de la lista de inicialización. Cuando se agreguen nuevas direcciones o se requiera una actualización al final, se le avisará a través de la interfaz en la página Obtener lista de direcciones.
+La lista de semillas puede cambiar con la misma frecuencia que cada mes. Es importante iniciar sesión en Email Deliverabilty Power Pack regularmente y comprobar el estado de la lista de fuentes. Cuando se agregan direcciones nuevas o se requiere una actualización en el extremo, se le avisará a través de la interfaz en la página Obtener lista de direcciones .
 
-Después de crear la lista estática en Marketing, puede empezar a enviarla para probar la ubicación de la bandeja de entrada del correo electrónico.
+Una vez creada la lista estática en Marketo, puede empezar a enviarla para probar la ubicación de la bandeja de entrada del correo electrónico.

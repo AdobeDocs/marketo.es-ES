@@ -1,23 +1,22 @@
 ---
 unique-page-id: 4720856
-description: Añadir una Vista móvil para su Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
-title: Añadir una Vista móvil para su Página de aterrizaje de forma libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Agregar una vista de Mobile para la página de aterrizaje de forma libre: Marketo Docs: documentación del producto'
+title: Agregar una vista móvil para la página de aterrizaje de forma libre
+exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Agregar una vista móvil para la página de aterrizaje de forma libre {#add-a-mobile-view-for-your-free-form-landing-page}
 
-# Añadir una Vista móvil para su Página de aterrizaje de forma libre {#add-a-mobile-view-for-your-free-form-landing-page}
-
-Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en un smartphone.
+Es fácil hacer que sus páginas de aterrizaje de forma libre tengan un aspecto bueno en un smartphone.
 
 >[!NOTE]
 >
->La vista móvil funciona en pantallas de 480 px de ancho (o menos). En otras palabras, los smartphones. A continuación encontrará más [información sobre las resoluciones del dispositivo](https://mydevice.io/devices/).
+>La vista móvil funciona en pantallas de 480 píxeles de ancho (o menos). En otras palabras, los teléfonos inteligentes. Aquí hay más [información sobre resoluciones de dispositivos](https://www.mydevice.io/).
 
 1. Vaya a **Actividades de marketing**.
 
@@ -31,7 +30,7 @@ Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en 
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Haga clic en la ficha **Móvil**.
+1. Haga clic en el **Móvil** pestaña .
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
@@ -41,12 +40,12 @@ Es fácil hacer que tus páginas de aterrizaje de forma libre se vean buenas en 
 
    >[!CAUTION]
    >
-   >Es posible que sea necesario actualizar la plantilla de formulario libre. Si ve ese mensaje, lea rápidamente cómo [hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Puede que sea necesario actualizar la plantilla de formulario libre. Si ve ese mensaje, lea rápidamente cómo [hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. ¡bueno! Ha activado la versión móvil de la página de aterrizaje. Haga clic en **Cerrar**.
+1. ¡Excelente! Ahora ha activado la versión móvil de la página de aterrizaje. Haga clic en **Cerrar**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   Ahora puede [personalizar su vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
+   Ahora puede [personalizar la vista móvil](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)

@@ -3,9 +3,9 @@ description: Creación de una campaña de ventas - Documentos de Marketo - Docum
 title: Crear una campaña de ventas
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Entonces, ¿cómo se configura una campaña?
 
 >[!MORELIKETHIS]
 >
->* Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico
+>* [Opciones de envío de campañas de ventas para pasos de correo electrónico](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
 >* [Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* Configuración de campañas de ventas
+>* [Configuración de campañas de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
 
