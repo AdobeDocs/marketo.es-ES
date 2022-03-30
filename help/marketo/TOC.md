@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
 workflow-type: tm+mt
-source-wordcount: '8609'
+source-wordcount: '8616'
 ht-degree: 2%
 
 ---
@@ -1457,6 +1457,7 @@ ht-degree: 2%
          + [Envío y seguimiento desde Outlook mediante una plantilla de Marketo](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [Especificar administradores del complemento de perspectivas de ventas de Marketo](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Actualizar el complemento de correo electrónico de Marketo para Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+      + [Perspectiva de ventas para integraciones de MS Dynamics no nativas](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Perspectiva de ventas para integraciones no nativas de Salesforce](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Habilitación de funciones para Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
