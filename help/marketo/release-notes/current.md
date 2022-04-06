@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Las siguientes funciones empezarán a lanzarse en **6 de mayo de 2022**, con un 
 
 ## Integración nativa de CRM {#native-crm-integration}
 
-**Integración nativa de Veva CRM (disponibilidad limitada)**: Mejore la participación con los profesionales sanitarios mediante la sincronización de la actividad entre el VRM de Veva y el Marketo Engage a través de la integración nativa. Esta integración permite a los especialistas en marketing crear experiencias más personalizadas y fluidas entre canales para los profesionales sanitarios. Póngase en contacto con el gestor de éxito de los clientes si está interesado en participar.
+**Integración nativa de Veva CRM (disponibilidad limitada)**: Mejore la participación con los profesionales sanitarios mediante la sincronización de la actividad entre Veeva CRM y el Marketo Engage a través de la integración nativa. Esta integración permite a los especialistas en marketing crear experiencias más personalizadas y fluidas entre canales para los profesionales sanitarios. Póngase en contacto con el gestor de éxito de los clientes si está interesado en participar.
 
 ## Organización en canales múltiples {#cross-channel-orchestration}
 
