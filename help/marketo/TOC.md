@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 2%
 
 ---
@@ -1149,7 +1149,7 @@ ht-degree: 2%
          + La fuente en directo {#the-live-feed}
             + [Ubicación de destinatario incorrecta](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Información general de la fuente en directo](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + Cancela suscripción {#unsubscribes}
+         + Cancelaciones de suscripción {#unsubscribes}
             + [Personalizar mensaje para cancelar la suscripción](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Volver a suscribirse](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
@@ -1299,7 +1299,7 @@ ht-degree: 2%
                + [Descripción general del canal de entrega](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Restricción de conexión de correo electrónico](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Configurar un canal de entrega personalizado para su equipo](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Cancela suscripción {#unsubscribes}
+            + Cancelaciones de suscripción {#unsubscribes}
                + [Información general sobre la cancelación de la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personalizar mensaje para cancelar la suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1406,11 +1406,13 @@ ht-degree: 2%
          + Configuración {#configuration}
             + [Añadir botones de acción masiva a Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Añadir la ficha Marketo a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Agregar conjunto de permisos de Insight de ventas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Acciones masivas en Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Configurar Marketo Sales Insight en Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuración para clientes existentes](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Pestaña Configuración de Marketo Sales Insight en Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Eliminar acceso a perspectivas de ventas](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Página de perspectivas de ventas para administradores de Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Configuración de la perspectiva de ventas para su equipo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Funciones {#features}
@@ -1830,9 +1832,10 @@ ht-degree: 2%
    + [Versión actual](release-notes/current.md)
    + Versiones anteriores {#previous-releases}
       + 2022 {#2022}
-         + [Notas de la versión: Ene 22](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [Notas de la versión: Enero del 22](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [Notas de la versión: Marzo del 22](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021 {#2021}
-         + [Notas de la versión: Ene 21](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [Notas de la versión: Enero del 21](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Notas de la versión: Mayo 21](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Notas de la versión: Agosto del 21](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [Notas de la versión: Octubre del 21](release-notes/previous-releases/2021/release-notes-oct-21.md)
