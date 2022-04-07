@@ -1,12 +1,10 @@
 ---
 description: 'Servicio de pasos de flujo: Documentos de Marketo: Documentación del producto'
 title: Servicio de pasos de flujo
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Actualmente, esta función de prelanzamiento solo está disponible para las cuentas inscritas en el programa Beta de pasos de flujo de autoservicio.
+>Los pasos de flujo de autoservicio se encuentran actualmente en fase beta abierta. Puede activarlo para su suscripción en el menú Administración > Tesoro de comprobación .
 
-Los pasos de flujo de autoservicio son un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en las campañas inteligentes del Marketo Engage de Adobe. Esta guía está dirigida a los usuarios finales Marketo Engage que deseen instalar y utilizar servicios que ya se hayan creado y publicado. Para obtener información sobre la creación y publicación de su propio servicio, consulte la [Repositorio de GitHub para la interfaz del proveedor de servicios](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [here](https://github.com/adobe/mkto-flow-lookup).
+Los pasos de flujo de autoservicio son un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en las campañas inteligentes del Marketo Engage de Adobe. Esta guía está dirigida a los usuarios finales Marketo Engage que deseen instalar y utilizar servicios que ya se hayan creado y publicado. Para obtener información sobre la creación y publicación de su propio servicio, consulte la [Repositorio de GitHub para la interfaz del proveedor de servicios](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Restricciones y advertencias previas al lanzamiento {#pre-release-restrictions-and-warnings}
 
-Esta función se encuentra actualmente en versión beta cerrada y tiene algunas restricciones de uso.
-
-* Esta función solo puede utilizarse en instancias de Marketo Engage de Simulador para pruebas
-* Los pasos de flujo personalizados y de terceros no son compatibles con las campañas ejecutables a partir de la versión del cuarto trimestre de 2021. Está previsto que se corrija en el segundo trimestre de 2022
-* La interfaz de usuario del Marketo Sky no debe usarse en ninguna instancia con esta función habilitada
+Actualmente, esta función está en fase beta abierta y solo debe utilizarse en instancias de Marketo Engage de Sandbox hasta que el servicio se haya probado completamente.
 
 ## Incorporación y administración de servicios {#onboarding-and-managing-services}
 

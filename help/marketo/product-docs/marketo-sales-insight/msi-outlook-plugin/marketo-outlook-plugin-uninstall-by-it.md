@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11382829
-description: Desinstalación del complemento de Marketing to Outlook por TI - Documentos de marketing - Documentación del producto
-title: Desinstalación del complemento de Marketing to Outlook por TI
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Desinstalación del complemento de Marketo Outlook por parte de TI - Documentos de Marketo - Documentación del producto
+title: Desinstalación del complemento de Marketo Outlook por TI
+exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 2%
 
 ---
 
+# Desinstalación del complemento de Marketo Outlook por TI {#marketo-outlook-plugin-uninstall-by-it}
 
-# Desinstalación del complemento de Marketingto Outlook por parte de TI {#marketo-outlook-plugin-uninstall-by-it}
+Así es como TI puede desinstalar el complemento de Marketo Outlook de forma remota.
 
-Así es como TI puede desinstalar el complemento de Marketing to Outlook de forma remota.
-
-Ejecute la siguiente línea de comandos como &quot;System&quot; o una cuenta de usuario administrativo con el modificador /x para desinstalar.
+Ejecute la siguiente línea de comandos como como como &quot;Sistema&quot; o una cuenta de usuario administrativo con el modificador /x para desinstalar.
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -25,7 +24,7 @@ Ejecute la siguiente línea de comandos como &quot;System&quot; o una cuenta de 
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-Para solucionar problemas, puede habilitar el registro para crear un archivo de registro de salida.
+Para solucionar el problema, puede habilitar el registro para crear un archivo de registro de salida.
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
@@ -47,6 +46,6 @@ Para especificar una ubicación de los archivos de registro, puede especificar l
 
 >[!CAUTION]
 >
->Al desinstalar el complemento de forma remota, se cerrará Outlook de forma forzada en el equipo del usuario.
+>La desinstalación remota del complemento forzosamente cerrará Outlook en el equipo del usuario.
 
-Consulte la [lista completa de switches](https://support.microsoft.com/en-us/kb/227091) de Microsoft si desea probar diferentes niveles de registro o niveles de interfaz de usuario.
+Consulte [Lista completa de conmutadores de Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) si desea probar distintos niveles de registro o niveles de interfaz de usuario.
