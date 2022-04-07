@@ -1,11 +1,10 @@
 ---
 description: Agregar conjunto de permisos de Insight de ventas - Documentos de Marketo - Documentación del producto
 title: Agregar conjunto de permisos de Insight de ventas
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -85,31 +84,29 @@ El permiso &quot;Aplicación Marketo&quot; forma parte del paquete Sales Insight
 
 1. Inicie sesión en su cuenta de Salesforce.
 
-PICC
-
 1. Haga clic en **Configuración**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. En Administrador, haga clic en para desplegar **Administrar usuarios**, luego **Usuarios**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. En Todos los usuarios, seleccione el usuario al que desea proporcionar acceso y, a continuación, haga clic en **Asignaciones de conjuntos de permisos**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Haga clic en **Editar asignaciones**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Select **Acceso a la aplicación de Marketo** de los conjuntos de permisos disponibles y, a continuación, **Agregar**. Haga clic en **Guardar**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. Ahora, cuando se desplace hacia abajo por la página Detalles del usuario, verá &quot;Acceso a la aplicación de Marketo&quot; en Asignaciones de conjuntos de permisos.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >

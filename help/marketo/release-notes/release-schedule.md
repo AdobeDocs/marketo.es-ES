@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Programación de versiones - Documentos de Marketo - Documentación del producto
 title: Programa de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 07d141c67ac12f865397f6ff926accd8835ad368
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---
@@ -42,14 +42,14 @@ _Las fechas de lanzamiento están sujetas a cambios_
    <td>Enviado</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Marzo del 22</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">Marzo del 22</a></td>
    <td>11 de marzo de 2022</td>
-   <td>en curso</td>
+   <td>Enviado</td>
   </tr>
   <tr> 
-   <td>Mayo 22</td>
+   <td><a href="/help/marketo/release-notes/current.md">Mayo 22</a></td>
    <td>6 de mayo de 2022</td>
-   <td>Según lo programado</td>
+   <td>en curso</td>
   </tr>
   <tr> 
    <td>22 de junio</td>
