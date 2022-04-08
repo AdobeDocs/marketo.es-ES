@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Pestaña Configuración de la perspectiva de ventas de Marketo en Salesforce - Documentos de Marketo - Documentación del producto
 title: Pestaña Configuración de Marketo Sales Insight en Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ Si elige hacerlo, se borrarán todas las configuraciones en SFDC y no se podrán
 
 >[!MORELIKETHIS]
 >
->[Configuración de la perspectiva de ventas para su equipo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>[Agregar el acceso a la perspectiva de ventas a los perfiles](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
