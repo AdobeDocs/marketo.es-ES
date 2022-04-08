@@ -1,32 +1,29 @@
 ---
 unique-page-id: 10096409
-description: Evitar el envío de contenido de Duplicado - Documentos de marketing - Documentación del producto
-title: Evitar el envío de contenido de Duplicado
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Evitar el envío de contenido duplicado: Documentos de Marketo: Documentación del producto'
+title: Evitar enviar contenido duplicado
+exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
+source-git-commit: daaf3dc9b4da95db743409c6e2a6c426ed00e9c7
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 3%
 
 ---
 
-
-# Evitar el envío de contenido de Duplicado {#avoid-sending-duplicate-content}
+# Evitar enviar contenido duplicado {#avoid-sending-duplicate-content}
 
 ¿Alguna vez has recibido el mismo correo electrónico dos veces? Molesto, ¿no?
 
-A continuación se presentan siete escenarios y resultados posibles que deben tenerse en cuenta para evitar que alguien envíe el mismo mensaje dos veces con programas de participación.
+A continuación se presentan siete escenarios y resultados posibles que deben tenerse en cuenta para evitar enviar a alguien el mismo mensaje dos veces con programas de participación.
 
-## Escenarios {#scenarios}
-
-Una persona recibe un correo electrónico que se envía desde el motor de compromiso del cliente.
+## Situaciones {#scenarios}
 
 | El correo electrónico se envía desde | La persona es | La persona recibe el correo electrónico |
 |---|---|---|
-| Una campaña en un programa independiente, independiente y predeterminado independiente | No es miembro del programa predeterminado | Sí |
-| Una campaña en un programa independiente, independiente y predeterminado independiente | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del programa **same** CEE | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro del programa **same** CEE | No es miembro del programa predeterminado | Sí |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de un programa **CEE diferente** | Un miembro del programa predeterminado | No |
-| Una campaña dentro de un programa predeterminado que se activa desde una conversión dentro de un programa **CEE diferente** | No es miembro del programa predeterminado | Sí |
-| Un programa **diferente** CEE que utiliza un flujo inteligente | Miembro de ambos programas de Europa Central y Oriental | No |
+| Una campaña en un programa separado, independiente y predeterminado | No es miembro del programa predeterminado | Sí |
+| Una campaña en un programa separado, independiente y predeterminado | Un miembro del programa predeterminado | No |
+| Campaña dentro de un programa predeterminado que se activa desde una emisión dentro de la función **same** Programa CEE | Un miembro del programa predeterminado | No |
+| Campaña dentro de un programa predeterminado que se activa desde una emisión dentro de la función **same** Programa CEE | No es miembro del programa predeterminado | Sí |
+| Campaña dentro de un programa predeterminado que se activa desde una emisión dentro de una **different** Programa CEE | Un miembro del programa predeterminado | No |
+| Campaña dentro de un programa predeterminado que se activa desde una emisión dentro de una **different** Programa CEE | No es miembro del programa predeterminado | Sí |
+| A **different** Programa CEE que utiliza un flujo inteligente | Miembro de ambos programas de Europa central y oriental | No |
