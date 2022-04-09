@@ -3,10 +3,9 @@ unique-page-id: 2950660
 description: 'Crear etiquetas personalizadas: Documentos de Marketo: Documentación del producto'
 title: Crear etiquetas personalizadas
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -17,7 +16,7 @@ Las etiquetas le ayudarán a organizar sus programas, mientras que los canales l
 
 >[!NOTE]
 >
->Consulte [Explicación de las etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obtener más información.
+>Consulte [Información sobre las etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obtener más información.
 
 >[!NOTE]
 >
@@ -27,36 +26,44 @@ Las etiquetas le ayudarán a organizar sus programas, mientras que los canales l
 
 Para crear un nuevo tipo de etiqueta:
 
-1. Vaya a la sección **Admin**.
+1. Vaya a la **Administrador** para obtener más información.
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
 1. Haga clic en **Etiquetas**.
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
 1. Haga clic en **Nuevo** y seleccione **Nuevo tipo de etiqueta.**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. Escriba un nombre para el **Tipo de etiqueta**.
+1. Escriba un nombre para el Tipo de etiqueta.
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. Introduzca el **Value** deseado para el tipo de etiqueta. Haga clic en **Agregar otro** para introducir valores de etiqueta adicionales.
+1. Introduzca el valor deseado para el tipo de etiqueta. Haga clic en **Añadir otro** para introducir valores adicionales.
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
-1. Seleccione a qué tipos de programas se aplica esta etiqueta.
+1. Seleccione a qué tipo de programa se aplica esta etiqueta.
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. Decida si desea o no hacer que esta etiqueta sea necesaria para todos los tipos de programa enumerados.
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >Seleccione **Requerido para todos los programas** para agregar esta etiqueta cada vez que se cree un nuevo programa.
+   >* Seleccione &quot;Obligatorio&quot; si desea agregar esta etiqueta cada vez que se cree un nuevo programa.
+   >* Al eliminar un tipo de programa de la lista &quot;Aplica a&quot;, se eliminará la etiqueta y sus valores de todos los programas existentes de ese tipo. Si desea conservar los valores de etiqueta existentes y hacer que esta etiqueta sea opcional, siga adelante durante _all_ tipos de programa enumerados, deje la casilla &quot;Obligatorio&quot; sin seleccionar.
 
-1. Haga clic en **Crear** para guardar.
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+   >[!TIP]
+   >
+   >Si desea que una etiqueta similar sea necesaria para algunos tipos de programas pero opcional para otros, deberá configurar dos etiquetas independientes, cada una de las cuales se aplicará a diferentes tipos de programas con una con la opción &quot;Obligatorio&quot; seleccionada y la otra con la opción &quot;Requerido&quot; no seleccionada.
 
-   ¡Eso es todo! Ahora puede crear etiquetas personalizadas para sus programas.
+1. Haga clic en **Crear**.
+
+   ![](assets/create-custom-tags-8.png)

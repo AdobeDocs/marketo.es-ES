@@ -2,16 +2,16 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
 
 # Resumen {#overview}
 
-Si tiene una nueva cuenta con el Marketo Engage de Adobe (nueva cuenta, no solo una nueva instancia para una cuenta existente) a partir del 15 de febrero de 2022, puede integrarse con el sistema Identity Management de Adobe, según el paquete de productos comprado. Para averiguar si lo tiene, póngase en contacto con el administrador de Marketo o con el administrador de éxito del cliente de su cuenta.
+Si tiene una cuenta nueva con Adobe Marketo Engage (cuenta nueva, no solo una nueva para una cuenta existente) a partir del 15 de febrero de 2022, puede integrarse con el sistema Identity Management de Adobe, en función del paquete de productos comprado. Para averiguar si lo tiene, póngase en contacto con el administrador de Marketo o con el administrador de éxito del cliente de su cuenta.
 
 Las suscripciones existentes a Marketo se migrarán a Adobe Identity Management System a partir de este año.
 
@@ -21,7 +21,7 @@ Las suscripciones existentes a Marketo se migrarán a Adobe Identity Management 
 
 ## Niveles de perfil {#profile-levels}
 
-Las suscripciones del Marketo Engage de Adobe incorporadas al sistema Identity Management de Adobe admiten varios perfiles. Los siguientes son los tipos de perfiles de usuario relevantes en esta integración.
+Las suscripciones de Adobe Marketo Engage incorporadas al Adobe Identity Management System admiten varios perfiles. Los siguientes son los tipos de perfiles de usuario relevantes en esta integración.
 
 <table>
  <tr>
@@ -77,6 +77,10 @@ Sí. Aquellos que se hayan incorporado a Adobe IMS no podrán utilizar todas las
 **¿Con quién nos ponemos en contacto si estamos integrados con IMS?**
 
 Seguiría el procedimiento estándar para ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Si utilizo una identidad de Adobe para acceder a otras aplicaciones de Adobe, ¿puedo utilizarla para acceder a Marketo?**
+
+Aunque tenga otros productos de Adobe, no podrá acceder a Marketo con identidad de Adobe hasta que la suscripción se haya migrado a IMS.
 
 **¿Las funciones de usuario de Marketo (dentro de los espacios de trabajo) se administran en Adobe Admin Console?**
 
