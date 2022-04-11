@@ -1,9 +1,9 @@
 ---
-unique-page-id: 14352621
 description: 'Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico: documentos de Marketo: documentación del producto'
 title: Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico
-exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+hide: true
+hidefromtoc: true
+source-git-commit: 468488010259c5d81cccf741db5cc4b98d20d9ea
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
