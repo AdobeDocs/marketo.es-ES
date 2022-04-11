@@ -2,7 +2,7 @@
 description: Eliminación del acceso a la perspectiva de ventas - Documentos de Marketo - Documentación del producto
 title: Eliminar acceso a perspectivas de ventas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -68,8 +68,8 @@ Se requiere permiso para acceder a todos los objetos mencionados a continuación
  </tbody> 
 </table>
 
-* Acceso a clase Apex: 159 Clases Apex que están con &quot;mkto_si&quot;
-* Acceso a la página de fuerza visual: 64 Páginas de VisualForce que están con &quot;mkto_si&quot;
+* Acceso a clase Apex: 159 Clases Apex que comienzan por &quot;mkto_si&quot;
+* Acceso a la página de fuerza visual: 64 Páginas de VisualForce que comienzan por &quot;mkto_si&quot;
 * Definiciones de configuración personalizadas: Configuración de mkto_si.Marketo y preferencias de usuario de mkto_si
 
 ## Eliminación del acceso a la perspectiva de ventas {#removing-access-to-sales-insight}

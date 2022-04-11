@@ -2,7 +2,7 @@
 description: Agregar conjunto de permisos de Insight de ventas - Documentos de Marketo - Documentación del producto
 title: Agregar conjunto de permisos de Insight de ventas
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -76,8 +76,8 @@ El permiso &quot;Aplicación Marketo&quot; forma parte del paquete Sales Insight
  </tbody> 
 </table>
 
-* Acceso a clase Apex: 159 Clases Apex que están con &quot;mkto_si&quot;
-* Acceso a la página de fuerza visual: 64 Páginas de VisualForce que están con &quot;mkto_si&quot;
+* Acceso a clase Apex: 159 Clases Apex que comienzan por &quot;mkto_si&quot;
+* Acceso a la página de fuerza visual: 64 Páginas de VisualForce que comienzan por &quot;mkto_si&quot;
 * Definiciones de configuración personalizadas: Configuración de mkto_si.Marketo y preferencias de usuario de mkto_si
 
 ## Adición de un conjunto de permisos de la aplicación Marketo a los usuarios {#adding-marketo-app-permission-set-to-users}
