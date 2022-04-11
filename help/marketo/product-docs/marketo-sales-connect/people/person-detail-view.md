@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: Vista de detalles de la persona - Documentos de Marketo - Documentación del producto
 title: Vista de detalles de persona
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 1%
@@ -18,11 +18,11 @@ La vista de detalles de la persona proporciona un perfil detallado de cada perso
 
 1. Para acceder a la vista de detalles de la persona, haga clic en el botón **People** pestaña .
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Haga clic en la persona que desee.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ La vista de detalles de la persona proporciona un perfil detallado de cada perso
 
 Incluye toda la información de contacto de la persona.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Tarjeta de contacto**
 
@@ -59,7 +59,7 @@ Incluye toda la información de contacto de la persona.
 
 Vea cómo esta persona se involucra con su contacto.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Actividad de conexión de ventas**
 
@@ -73,7 +73,7 @@ Vea cómo esta persona se involucra con su contacto.
 
 Muestra el historial de alcance. Incluye correos electrónicos, campañas y llamadas.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Campañas de ventas**
 
@@ -95,7 +95,7 @@ Muestra el historial de alcance. Incluye correos electrónicos, campañas y llam
 
 Administrar tareas asociadas a esta persona.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Acciones que se pueden realizar:
 

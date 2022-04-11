@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '8648'
+source-wordcount: '8656'
 ht-degree: 2%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 2%
             + [Configuración de campañas de ventas](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
             + [Opciones de envío de campañas de ventas para pasos de correo electrónico](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Tipos de pasos de campañas de ventas y tareas de recordatorio](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
+            + [Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Ver la lista de campañas como otro usuario](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Personalización de Salesforce {#salesforce-customization}

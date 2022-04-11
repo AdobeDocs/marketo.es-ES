@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: 'Explicación de las opciones de envío: Documentos de Marketo: Documentación del producto'
-title: Explicación de las opciones de envío
+description: 'Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico: documentos de Marketo: documentación del producto'
+title: Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# Explicación de las opciones de envío {#understanding-send-options}
+# Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico {#understanding-sales-campaign-send-options-for-email-steps}
 
-Al crear una campaña, tiene varias opciones sobre cómo se crean sus pasos de correo electrónico en Conexión de ventas. Y, dependiendo de la ubicación del correo electrónico en la campaña, las opciones también difieren.
+Al crear una campaña, tiene varias opciones sobre cómo se crean sus pasos de correo electrónico en las acciones de perspectiva de ventas. Y, dependiendo de la ubicación del correo electrónico en la campaña, las opciones también difieren.
 
 Si es el primer paso y el primer día de la campaña, tendrá las siguientes opciones:
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 Elegiré cuándo enviar este correo electrónico
 
@@ -58,3 +58,9 @@ Crear una tarea; Yo mismo enviaré este correo electrónico
 Enviar este correo electrónico al correo electrónico anterior
 
 * Esta opción de envío será un &quot;seguimiento&quot; del correo electrónico anterior y anexará el cuerpo del correo electrónico anterior a la parte inferior de este.
+
+>[!MORELIKETHIS]
+>
+>[Crear una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[Configuración de campañas de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
