@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Versiones de complementos para Microsoft Dynamics MSI - Marketo Docs - Documentación del producto
 title: Versiones de complementos para Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '342'
+ht-degree: 6%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 La primera vez que sincroniza con Microsoft Dynamics, descarga e instala la última versión de los complementos para Marketo Sales Insight (MSI). Marketo actualiza periódicamente estos complementos para que pueda volver al mismo lugar y descargar la nueva versión.
 
-Por favor [descargar el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) correspondiente a su versión de Dynamics.
+Si utiliza la solución de sincronización de CRM nativa de Marketo en Dynamics, [descargar el complemento más reciente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target=&quot;_blank&quot;} correspondiente a su versión de Dynamics. Para aquellos que tienen una sincronización personalizada y han comprado Marketo Sales Insight, la variable [el paquete está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
