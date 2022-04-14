@@ -1,19 +1,17 @@
 ---
 description: Configuración de campañas de ventas - Documentos de Marketo - Documentación del producto
 title: Configuración de campañas de ventas
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Configuración de campañas de ventas {#sales-campaign-settings}
 
-La sección de configuración de campañas de ventas le permite configurar una campaña de ventas específica para que funcione de la mejor manera posible según los casos de uso de su equipo para esa campaña.
+La sección Configuración de la campaña de ventas le permite configurar una campaña de ventas específica para que funcione de la mejor manera posible según los casos de uso de su equipo para esa campaña de ventas.
 
 ## Omitir fines de semana {#skip-weekends}
 
@@ -27,7 +25,7 @@ Active Omitir fines de semana para que cualquier paso que se haya interrumpido e
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. Elija la campaña que desee.
+1. Elija la campaña de ventas que desee.
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ Active Omitir fines de semana para que cualquier paso que se haya interrumpido e
 
 ## Eliminar al rebote {#remove-on-bounce}
 
-Si utiliza la conexión de correo electrónico, detectaremos devoluciones en función del mensaje de rechazo enviado a la bandeja de entrada del usuario. Además, se pueden eliminar personas de las campañas cuando se detecta una devolución.
+Si utiliza la conexión de correo electrónico, detectaremos devoluciones en función del mensaje de rechazo enviado a la bandeja de entrada del usuario. Además, podemos eliminar personas de las campañas de ventas cuando se detecte una devolución.
 
 1. Haga clic en **Campañas**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. Elija la campaña que desee.
+1. Elija la campaña de ventas que desee.
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ Si tiene habilitado el seguimiento de respuestas para Gmail o Exchange, podemos 
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. Elija la campaña que desee.
+1. Elija la campaña de ventas que desee.
 
    ![](assets/sales-campaign-settings-10.png)
 
