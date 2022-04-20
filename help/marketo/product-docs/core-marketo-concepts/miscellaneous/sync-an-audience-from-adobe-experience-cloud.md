@@ -2,10 +2,9 @@
 description: 'Sincronización de una audiencia desde Adobe Experience Cloud: Marketo Docs: Documentación del producto'
 title: Sincronizar una audiencia desde Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -18,19 +17,19 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configuración del uso compartido de audiencias de Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Configuración de la asignación de organización de Adobe](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## Sincronización de una audiencia {#how-to-sync-an-audience}
 
-1. En My Marketo, haga clic en el mosaico **Database** .
+1. En Mi Marketo, haga clic en el botón **Base de datos** mosaico.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Haga clic en la lista desplegable **New** y seleccione **Sincronizar desde la audiencia del Experience Cloud**.
+1. Haga clic en el **Nuevo** y seleccione **Sincronización desde la audiencia de Experience Cloud**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. Haga clic en la lista desplegable **Audience Library Folder** y seleccione la carpeta de origen que desee.
+1. Haga clic en el **Carpeta de la biblioteca de audiencias** y seleccione la carpeta de origen que desee.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Para el destino, puede seleccionar una lista existente o escribir el nombre de una nueva. En este ejemplo estamos creando uno nuevo. Haga clic en **Sincronizar** cuando termine.
+1. Para el destino, puede seleccionar una lista existente o escribir el nombre de una nueva. En este ejemplo estamos creando uno nuevo. Haga clic en **Sincronización** cuando haya terminado.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -50,9 +49,9 @@ ht-degree: 0%
 
 **¿Cómo funciona la sincronización de cookies?**
 
-Cuando la sincronización de cookies esté habilitada para su suscripción a Marketo, munchkin.js de Marketo intentará capturar y almacenar los ECID de Adobe para la organización IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con los ECID de Adobe.
+Cuando la sincronización de cookies esté habilitada para su suscripción a Marketo, munchkin.js de Marketo intentará capturar y almacenar los ECID de Adobe para la organización de IMS de Adobe que especificó durante la configuración de la integración y hacer coincidir estos ECID con el identificador de cookie de Marketo correspondiente. Esto permite que los perfiles de usuario anónimos de Marketo se enriquezcan con los ECID de Adobe.
 
-Se requiere un paso más para asociar el perfil de usuario anónimo a un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona [se describe aquí](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Se requiere un paso más para asociar el perfil de usuario anónimo a un perfil de posible cliente, que se identifica mediante un correo electrónico de texto sin formato. Exactamente cómo funciona esto [se describe aquí](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **¿Por qué el tamaño de la lista en Marketo es diferente del de la lista en Adobe?**
 
