@@ -2,9 +2,9 @@
 description: Guía de administración de las acciones de Insight de ventas - Documentos de Marketo - Documentación del producto
 title: Guía de administración de las acciones de perspectiva de ventas
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se l
 ## Iniciar sincronización de datos {#initiate-data-sync}
 
 La sincronización de campos de unificación de datos para acciones de perspectiva de ventas permite al sistema extraer información de las personas de la base de datos de Marketo Engage a la base de datos de acciones de perspectiva de ventas, mantener los datos de las personas actualizados y garantizar que las actividades se registren en los registros adecuados en Marketo y Salesforce.
+
+>[!CAUTION]
+>
+>Una vez que inicie la sincronización de datos, debe **not** elimine el usuario original de la instancia de acciones de perspectiva de ventas. Es el usuario al que se envió la primera invitación.
 
 1. En Marketo, haga clic en **Administrador**.
 
