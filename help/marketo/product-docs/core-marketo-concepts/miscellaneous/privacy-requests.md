@@ -2,9 +2,9 @@
 description: Solicitudes de privacidad - Documentos de Marketo - Documentación del producto
 title: Solicitudes de privacidad
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Este documento proporciona información general sobre la administración de soli
 
 Puede enviar solicitudes individuales para acceder a los datos de consumo y eliminarlos del Marketo Engage de dos maneras:
 
-* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
-* A través de **API de Privacy Service**. Consulte la documentación [here](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) y la referencia de la API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
+* A través de **API de Privacy Service**. Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) y la referencia de la API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
-La variable [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) admite dos tipos de solicitudes: acceso a los datos y eliminación de datos.
+La variable [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) admite dos tipos de solicitudes: acceso a los datos y eliminación de datos.
 
 Veamos cómo se pueden crear solicitudes de acceso y eliminación.
 
