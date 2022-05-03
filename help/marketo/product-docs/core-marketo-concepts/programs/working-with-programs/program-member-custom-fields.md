@@ -3,10 +3,10 @@ unique-page-id: 37355569
 description: Campos personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
 title: Campos personalizados de miembro del programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 0%
+source-wordcount: '427'
+ht-degree: 1%
 
 ---
 
@@ -46,7 +46,7 @@ Los campos personalizados del miembro del programa le permiten recopilar datos e
 
    >[!NOTE]
    >
-   >Los tipos compatibles con los campos personalizados de miembro del programa son: booleano, fecha, fecha, hora, flotante, entero, cadena, URL. [Más información sobre los tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Los tipos compatibles con los campos personalizados de miembro del programa son: booleano, fecha, fecha, hora, flotante, entero, cadena, URL. [Más información sobre los tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target=&quot;_blank&quot;}.
 
 ## Descripciones de objetos {#object-descriptions}
 
@@ -59,7 +59,7 @@ Los campos personalizados del miembro del programa le permiten recopilar datos e
 
 ## Déclencheur y filtros {#triggers-and-filters}
 
-Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) y/o [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
+Puede aprovechar estos datos específicos del programa en listas inteligentes mediante [déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target=&quot;_blank&quot;} y/o [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target=&quot;_blank&quot;}.
 
 ![](assets/six.png)
 
@@ -70,10 +70,11 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 * El objeto Miembro del programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
 * Cuando elimine un miembro de un programa, si tiene datos en el campo personalizado Miembro del programa, los datos se limpiarán de ese campo.
 * Para ver los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
-* Importar y exportar mediante [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) y [API](https://developers.marketo.com/) son compatibles. Las exportaciones solo funcionan en listas de miembros del programa, no en listas estáticas.
+* Importar y exportar mediante [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} y [API](https://developers.marketo.com/)Se admiten {target=&quot;_blank&quot;}. Las exportaciones solo funcionan en listas de miembros del programa, no en listas estáticas.
 * Cuando combina dos personas, se utilizarán los datos de campo personalizados del miembro del programa del ganador. Pero si el ganador no tiene ninguno, se utilizará el valor del perdedor.
-* El tipo de cambio es **not** permitido en los campos Información de miembro del programa .
+* El tipo de cambio no está permitido en los campos Información de miembro del programa .
+* La restricción &quot;contiene&quot; lista inteligente no es compatible con los campos personalizados de miembro del programa.
 
 >[!MORELIKETHIS]
 >
->[Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}

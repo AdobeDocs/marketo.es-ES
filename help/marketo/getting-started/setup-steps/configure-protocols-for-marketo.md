@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: 'Configuración de protocolos para Marketo: Documentos de Marketo: Documentación del producto'
 title: Configuración de protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -25,9 +25,7 @@ Este artículo debe compartirse con el departamento de TI de la empresa que dese
 >Si su equipo de TI restringe el acceso web mediante una lista de permitidos, pídale que añada los siguientes dominios (incluido el asterisco) para permitir todos los recursos y portalámparas web de Marketo:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Paso 1: Creación de registros DNS para páginas de aterrizaje y correo electrónico {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Por ejemplo:
 
 Informe a su equipo de marketing cuando haya completado este proceso.
 
+`4` **Contacto [Asistencia de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} para iniciar el proceso de aprovisionamiento de un certificado SSL.**
+
+Este proceso puede tardar hasta 3 días hábiles en completarse.
+
 ## Paso 2: Lista de permitidos de IP de Marketo {#step-allowlist-marketo-ips}
 
 Cuando su grupo de marketing utiliza Marketo para enviar correos electrónicos de prueba (una práctica recomendada antes de enviar correos electrónicos), los sistemas antispam que dependen de las direcciones IP del remitente bloquean a veces los mensajes de prueba para verificar que el correo electrónico sea válido. Para asegurarse de que llegan esos correos electrónicos de prueba, agregue Marketo a la lista de permitidos .
@@ -71,7 +73,7 @@ Añada estas direcciones IP a la lista de permitidos corporativa:
 103.237.104.0/22\
 94.236.119.0/26
 
-Algunos sistemas antispam utilizan el campo Return-Path de correo electrónico en lugar de la dirección IP para permitirlo. En estos casos, el mejor enfoque es la lista de permitidos &quot;*.mktomail.com&quot;, ya que Marketo utiliza varios subdominios de buzón. Lista de permitidos de otros sistemas antispam basada en la dirección De . En estas situaciones, asegúrese de incluir todos los dominios de envío (&quot;De&quot;) que su grupo de marketing utilice para comunicarse con personas o posibles clientes.
+Algunos sistemas antispam utilizan el campo Return-Path de correo electrónico en lugar de la dirección IP para permitirlo. En estos casos, el mejor enfoque es la lista de permitidos &quot;&#42;.mktomail.com’, ya que Marketo utiliza varios subdominios de buzón. Lista de permitidos de otros sistemas antispam basada en la dirección De . En estas situaciones, asegúrese de incluir todos los dominios de envío (&quot;De&quot;) que su grupo de marketing utilice para comunicarse con personas o posibles clientes.
 
 >[!NOTE]
 >
