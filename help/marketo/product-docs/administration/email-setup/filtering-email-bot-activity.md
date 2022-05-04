@@ -2,20 +2,28 @@
 description: Filtrado de la actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Filtrado de la actividad de bots de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
 # Filtrado de la actividad de bots de correo electrónico {#filtering-email-bot-activity}
 
-A veces, la actividad de bots de correo electrónico puede inflar erróneamente los datos de aperturas y clics del correo electrónico. Así es como arreglarlo.
+A veces, la actividad de bots de correo electrónico puede inflar erróneamente los datos de aperturas y clics del correo electrónico. Siga los pasos que se indican a continuación para solucionar el problema.
 
->[!NOTE]
->
->Al usar la variable [Lista internacional de arañas web y bots de la IAB/ABC](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/), toda la actividad de apertura o clic con una IP o un agente de usuario que coincida con cualquier cosa de esa lista se identificará como actividad de bots y no se registrará en Marketo.
+Utilizamos tres métodos diferentes para confirmar la actividad de bots:
+
+* Coincidir con [Lista de bots de Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: Las actividades que coincidan con cualquier elemento de la lista IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
+* Coincide con los vínculos ocultos UA/IP: Añadimos un vínculo oculto a todos los correos electrónicos y capturamos los clics de UA/IP procedentes de ellos. Las actividades que coincidan con estas UA/IP se marcarán como bots.
+* Coincidencia con patrón de proximidad: Cuando se producen más de dos actividades al mismo tiempo (menos de dos segundos), se identifican como bots.
+
+Con respecto a los clics en vínculos de correo electrónico y a la actividad de apertura de correos electrónicos, los nuevos atributos se rellenarán con los valores siguientes:
+
+* Las actividades identificadas como bots tendrán &quot;Actividad de bots&quot; como &quot;Verdadero&quot; y &quot;Patrón de actividad de bots&quot; como patrón/método identificado
+* Las actividades identificadas como no bots tendrán &quot;Actividad de bots&quot; como &quot;Falso&quot; y &quot;Patrón de actividad de bots&quot; como &quot;N/D&quot;
+* Las actividades que se produjeron antes de que introdujéramos estos atributos tendrán &quot;Actividad de bots&quot; como &quot; (vacío) y &quot;Patrón de actividad de bots&quot; como &quot;&quot; (vacío)
 
 1. Haga clic en **Administrador**.
 
@@ -29,7 +37,7 @@ A veces, la actividad de bots de correo electrónico puede inflar erróneamente 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Haga clic en el control deslizante para activar **Filtrar actividad de bots**.
+1. Haga clic en el **Habilitar la identificación de actividades de bots** control deslizante para activar.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
@@ -37,8 +45,8 @@ A veces, la actividad de bots de correo electrónico puede inflar erróneamente 
 >
 >Puede elegir por separado si desea que se registre o no la actividad de bots. Si decide no hacerlo, es posible que vea una caída en las aperturas de correo electrónico y los clics mientras se filtran los números falsos.
 
-**PASO OPCIONAL**: Para desactivar la función, simplemente anule la selección del control deslizante. Si desactiva, los datos de &quot;Actividad de bots en los últimos 90 días&quot; sí lo hacen **not** restablecer.
+**PASO OPCIONAL**: Para desactivar la función, simplemente anule la selección del control deslizante. Si deshabilita los datos, sí **not** restablecer.
 
 >[!TIP]
 >
->Aproveche los datos de actividad de bots en las listas inteligentes mediante el booleano &quot;Es actividad de bots&quot; (sí/no) o en las restricciones aplicables de filtro/déclencheur.
+>Aproveche los datos de actividad de bots en las listas inteligentes mediante los déclencheur booleano &quot;Es actividad de bots&quot; (sí/no) y &quot;Patrón de actividad de bots&quot; de &quot;Vínculo en el correo electrónico&quot; y &quot;Abrir correo electrónico&quot;, y &quot;Vínculo de clics en el correo electrónico&quot; y &quot;Abre el correo electrónico&quot;.
