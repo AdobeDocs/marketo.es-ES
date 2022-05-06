@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ Estamos entregando la Vista de detalles de las plantillas de correo electrónico
 **Verificación y unicidad del correo electrónico**: A partir de abril, comenzará la implementación de la verificación por correo electrónico. En este punto, las direcciones de correo electrónico de los usuarios Marketo Engage requerirán verificación y exclusividad (esto no se aplica a los usuarios solo de API). Los usuarios autenticados del servicio de directorio tendrán automáticamente sus correos electrónicos verificados cuando su suscripción esté habilitada con Verificación de correo electrónico.
 
 La verificación de correo electrónico para suscripciones que utilizan la función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; o que tienen un solo correo electrónico asociado con varios usuarios coincidirá con la versión de mayo. Las suscripciones que tengan un solo correo electrónico asociado con varios usuarios se habilitarán con la verificación de correo electrónico y requerirán que esos usuarios resuelvan el conflicto y utilicen un correo electrónico único por usuario. Cuando la función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; está activada, los usuarios invitados mediante esta función deberán tener una dirección de correo electrónico única. Para los usuarios solo de API invitados mediante esta función, la dirección de correo electrónico no tiene que ser única.
+
+**Cambio de comportamiento de la carpeta del archivo**: Con esta versión, la capacidad de crear nuevos recursos en Carpetas de archivo dejará de estar disponible en los menús contextuales de árbol. Las opciones de menú para crear nuevos recursos se ocultarán para todos los recursos. [Obtenga más información aquí](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
 **_Seminario web sobre la versión del producto_**
 
