@@ -2,16 +2,16 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Alternar conmutador {#toggle-switch}
 
-El conmutador permite cambiar entre la interfaz clásica de Marketo y la nueva experiencia de Marketo Engage de próxima generación. Está disponible en la vista de lista de páginas de aterrizaje y en las páginas de detalles del formulario.
+El conmutador permite cambiar entre la interfaz clásica de Marketo y la experiencia de Marketo Engage de próxima generación. Está disponible en todas las áreas resaltadas a continuación. A partir de la versión de mayo de 2022, la experiencia de próxima generación se habilitará de forma predeterminada.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-17.png)
 
-## Habilitar para todas las funciones {#enable-for-all-features}
+## Vista Detalles de plantilla de correo electrónico {#email-template-details-view}
 
-Tiene la opción de activar la interfaz de próxima generación de Marketo para todas las funciones disponibles, actuales y futuras.
-
-1. En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
+1. En Marketo, seleccione **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
+1. Seleccione la plantilla de correo electrónico que desee.
 
    ![](assets/toggle-switch-19.png)
+
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+
+   ![](assets/toggle-switch-20.png)
+
+Se cargará la nueva experiencia.
+
+![](assets/toggle-switch-21.png)
+
+## Habilitar para todas las funciones {#enable-for-all-features}
+
+Tiene la opción de habilitar manualmente la interfaz de próxima generación de Marketo para todas las funciones disponibles, actuales y futuras.
+
+1. En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
+
+   ![](assets/toggle-switch-23.png)
