@@ -2,9 +2,9 @@
 description: Configuración - Documentos de Marketo - Documentación del producto
 title: Configuración
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -56,6 +56,15 @@ Haga clic en el **Privacidad** para añadir o editar la dirección URL de la pol
 Para que el bot de chat aparezca en su sitio web, primero deberá instalar el fragmento de JavaScript de chat dinámico. Haga clic en esta pestaña para buscar/copiar el código necesario. Si no está familiarizado con esta operación, póngase en contacto con su equipo web o departamento de TI para obtener ayuda.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Si su sitio utiliza una Política de seguridad de contenido, es posible que tenga que incluir en la lista blanca las siguientes direcciones URL para que el bot de chat funcione según lo esperado:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
