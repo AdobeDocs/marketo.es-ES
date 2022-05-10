@@ -2,16 +2,16 @@
 description: Sincronización de mensajes clave de llamada y llamada - Documentos de Marketo - Documentación del producto
 title: Sincronización de mensajes clave de llamada y de llamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 1%
+source-wordcount: '503'
+ht-degree: 2%
 
 ---
 
 # Sincronización de mensajes clave de llamada y de llamada {#syncing-call-and-call-key-messages}
 
-Los objetos de mensaje clave de llamada y llamada de en Veva CRM se sincronizan de forma predeterminada en Marketo Engage. Marketo sincroniza datos que tienen hasta 6 meses de antigüedad, según la fecha de la llamada.
+Los objetos de mensaje clave de llamada y llamada de en Veva CRM se sincronizan de forma predeterminada en Marketo Engage. Marketo sincroniza datos que tienen hasta 6 meses de antigüedad, según la Fecha de creación de la llamada.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ Los campos siguientes de los mensajes de llamada y clave de llamada se sincroniz
       <td>La fecha de la llamada cuando se guardó o envió por primera vez. Este campo se configura mediante un déclencheur a la fecha actual si no se proporciona el campo de fecha y hora.</td>
       <td>Call_Date_vod_c</td>
       <td>Fecha</td>
-    </tr>
-    <tr>
-      <td>La llamada</td>
-      <td>Productos detallados</td>
-      <td>Campo de ayuda para mostrar la lista de productos detallados para una llamada de . Los nombres de producto deben delimitarse con espacios dobles y orden de prioridad de izquierda a derecha. Este campo no controla el procesamiento y se incluye para que las listas e informes relacionados sean más fáciles de usar.</td>
-      <td>Detailed_Products_vod_c</td>
-      <td>Área de texto (255)</td>
     </tr>
     <tr>
       <td>La llamada</td>

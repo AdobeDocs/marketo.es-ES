@@ -2,7 +2,7 @@
 description: 'Paso 1 de 3: Añadir campos de Marketo a Veva CRM - Marketo Docs - Documentación del producto'
 title: 'Paso 1 de 3: Añadir campos de Marketo a Veva CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 4%
@@ -25,7 +25,7 @@ Todos estos campos personalizados son opcionales y no son necesarios para sincro
 
 ## Añadir campos de Marketo a Veva CRM {#add-marketo-fields-to-veeva-crm}
 
-Agregue tres campos personalizados en el posible cliente y los objetos de contacto en Veva CRM enumerados arriba. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
+Agregue un campo personalizado en el posible cliente y los objetos de contacto en Veva CRM enumerados arriba. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
 
 Realice los siguientes pasos para que el campo Score lo añada.
 
@@ -112,7 +112,7 @@ Lugares decimales 0</td>
 
 >[!NOTE]
 >
->Al agregar el campo al objeto Contact , también se agregan a la cuenta de persona.
+>Al agregar el campo al objeto Contact , también se agregan al objeto Person Account .
 
 OPCIONAL: Utilice el procedimiento anterior para cualquier campo personalizado adicional de la siguiente tabla.
 
