@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configuración de la asignación de organizaciones de Adobe - Documentos de Marketo - Documentación del producto
 title: Configuración de la asignación de organización de Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Para sincronizar con aplicaciones de Adobe, como el Audience Manager, el conecto
 >[!NOTE]
 >
 >Una implementación lista para HIPAA de una instancia de Marketo no puede utilizar esta integración.
+
+>[!CAUTION]
+>
+>Para los clientes incorporados a Adobe Business Platform y Identity Management System, el ID de organización asociado con la suscripción ya se rellenará y es un campo de solo lectura.
 
 1. En Marketo, haga clic en **Administrador**.
 

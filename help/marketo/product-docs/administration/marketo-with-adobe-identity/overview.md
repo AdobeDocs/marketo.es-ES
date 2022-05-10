@@ -2,9 +2,9 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,8 @@ Las suscripciones de Adobe Marketo Engage incorporadas al Adobe Identity Managem
  </tr>
  <tr>
   <td><strong>Administrador del perfil de producto de Adobe Admin Console</strong></td>
-  <td>Administra las descripciones de perfil de producto asignadas a ese administrador y todas las funciones administrativas asociadas.</td>
+  <td>Responsable de la administración de usuarios dentro de un perfil de producto. No pueden administrar usuarios fuera de ese perfil específico. Un administrador de perfiles de producto no tiene acceso a la aplicación de Marketo a menos que se agregue al perfil de producto como usuario. Su función seguiría siendo un usuario estándar (espacio de trabajo predeterminado si tiene más de un espacio de trabajo).
+</td>
  </tr>
  <tr>
   <td><strong>Administrador del producto del Marketo Engage</strong></td>
