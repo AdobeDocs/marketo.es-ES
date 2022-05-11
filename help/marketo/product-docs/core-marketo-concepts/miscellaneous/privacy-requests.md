@@ -2,9 +2,9 @@
 description: Solicitudes de privacidad - Documentos de Marketo - Documentación del producto
 title: Solicitudes de privacidad
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Este documento proporciona información general sobre la administración de soli
 
 Puede enviar solicitudes individuales para acceder a los datos de consumo y eliminarlos del Marketo Engage de dos maneras:
 
-* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* A través de **API de Privacy Service**. Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) y la referencia de la API [here](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* A través de **API de Privacy Service**. Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} e información de API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-La variable [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) admite dos tipos de solicitudes: acceso a los datos y eliminación de datos.
+La variable [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} admite dos tipos de solicitudes: acceso a los datos y eliminación de datos.
 
 Veamos cómo se pueden crear solicitudes de acceso y eliminación.
 

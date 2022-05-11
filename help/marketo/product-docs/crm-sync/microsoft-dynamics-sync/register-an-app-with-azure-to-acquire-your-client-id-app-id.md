@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: 'Registre una aplicación con Azure para adquirir su ID de cliente/ID de aplicación: Marketo Docs: documentación del producto'
 title: Registre una aplicación con Azure para adquirir su ID de cliente o ID de aplicación
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Azure Active Directory extiende sus directorios locales a la nube, proporcionand
 
 ## Registro de una nueva aplicación {#registering-a-new-app}
 
-1. [Iniciar sesión](https://azure.microsoft.com/en-us/account/) al portal de administración de Microsoft Azure mediante una cuenta con permisos de administrador. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 ampliando el **Administrador** elemento del panel de navegación izquierdo y selección **Azure AD**.
+1. [Iniciar sesión](https://login.microsoftonline.com/){target=&quot;_blank&quot;} para el portal de administración de Microsoft Azure usando una cuenta con permisos de administración. También puede acceder al portal de Microsoft Azure a través del Centro de administración de Office 365 ampliando el **Administrador** elemento del panel de navegación izquierdo y selección **Azure AD**.
 
    >[!CAUTION]
    >
@@ -24,10 +24,10 @@ Azure Active Directory extiende sus directorios locales a la nube, proporcionand
 
    >[!NOTE]
    >
-   >Si no tiene una cuenta de Azure, puede [registrar](https://azure.microsoft.com/en-us/free/) para uno. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez creada una cuenta de Azure, puede registrar una o más aplicaciones mediante el procedimiento que se describe a continuación.
+   >Si no tiene una cuenta de Azure, puede [registrar](https://azure.microsoft.com/en-us/free/){target=&quot;_blank&quot;} para uno. Consulte la documentación de Microsoft o póngase en contacto con su representante de Microsoft para obtener más información. Una vez creada una cuenta de Azure, puede registrar una o más aplicaciones mediante el procedimiento que se describe a continuación.
    >
    >
-   >Si tiene una cuenta de Azure pero la suscripción de Office 365 con Microsoft Dynamics 365 no está disponible en su suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) para asociar las dos cuentas.
+   >Si tiene una cuenta de Azure pero la suscripción de Office 365 con Microsoft Dynamics 365 no está disponible en su suscripción de Azure, siga [estas instrucciones](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target=&quot;_blank&quot;} para asociar las dos cuentas.
 
 1. Busque y haga clic en **Azure Active Directory** en el panel de navegación izquierdo.
 
