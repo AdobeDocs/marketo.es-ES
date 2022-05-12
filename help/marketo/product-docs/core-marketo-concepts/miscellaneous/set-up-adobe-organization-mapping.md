@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Configuración de la asignación de organizaciones de Adobe - Documentos de Marketo - Documentación del producto
 title: Configuración de la asignación de organización de Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ Para sincronizar con aplicaciones de Adobe, como el Audience Manager, el conecto
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Por motivos de seguridad, debe ser administrador de organización de la organización de Adobe a la que desee asignar. Si no lo está, la acción fallará.
+   >Por motivos de seguridad, debe ser administrador de organización de la organización de Adobe a la que desee asignar. Si no lo está, la acción fallará. Además, el usuario de Adobe y el usuario de Marketo deben utilizar la misma dirección de correo electrónico al iniciar sesión.
 
 1. Si _not_ ya ha iniciado sesión, aparecerá una ventana emergente en una nueva pestaña o ventana. Inicie sesión en la organización de Adobe (esta acción valida el acceso a la organización).
 
