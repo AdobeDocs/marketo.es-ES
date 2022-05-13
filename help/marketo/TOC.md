@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 2%
@@ -1278,7 +1278,7 @@ ht-degree: 2%
             + [Creación de un equipo](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Configuración del seguimiento de dominio personalizado](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitar usuarios y administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
-            + [Registro de atributos de actividad de ventas en Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [Configuración de administración de inicio de sesión](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Configuración de uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Detalles de acceso de usuario](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Análisis {#analytics}
@@ -1307,7 +1307,7 @@ ht-degree: 2%
                + [Diagnóstico de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Configuración de sincronización de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
             + Configuración de Salesforce {#salesforce-configuration}
-               + [Configuración de administración de inicio de sesión](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Registro de atributos de actividad de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configuración de acciones de perspectiva de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Desinstalación del paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
