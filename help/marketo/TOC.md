@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '8761'
+source-wordcount: '8766'
 ht-degree: 2%
 
 ---
@@ -1268,8 +1268,9 @@ ht-degree: 2%
          + [Descripción general de la función Acciones de perspectiva de ventas](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Introducción {#getting-started}
             + [Guía de incorporación del usuario de Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Guía de administración de MSI Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+            + [Guía de configuración de administración de Sales Insight Actions](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Cambiar la contraseña de ventas de Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+            + [Límites de uso del producto](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + Configuración de correo electrónico {#email-settings}
                + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Añadir o actualizar la firma de correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)

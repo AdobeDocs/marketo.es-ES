@@ -2,9 +2,9 @@
 description: Registro de atributos de actividad de ventas en Salesforce - Marketo Docs - Documentación del producto
 title: Registro de atributos de actividad de ventas en Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 3%
 
 ---
@@ -38,6 +38,20 @@ Descripción de cada columna de la tabla siguiente:
   <th>Nombre de API</th>
   <th>Tipo de datos</th>
   <th>Tamaño</th>
+ </tr>
+  <tr>
+  <td>Llamar a resultados</td>
+  <td>mktosales_call_result</td>
+  <td>mktosales_call_result__c</td>
+  <td>Texto</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>Razones de la llamada</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason__c</td>
+  <td>Texto</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>ID de presencia local de llamada de venta de Marketo</td>
