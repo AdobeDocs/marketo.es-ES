@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '780'
 ht-degree: 1%
 
 ---
@@ -49,11 +49,15 @@ También puede personalizar el cuerpo de la invitación que se envía al visitan
 
 Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. Aquí encontrará la dirección de correo electrónico de la persona que reservó la cita, con qué agente reservaron la cita, cuándo está programada la cita y si la reunión ha tenido lugar o no.
 
-## Enrutamiento {#routing}
+## Enrutando {#routing}
 
 Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, así como el orden en que se presentarán a los visitantes del sitio web. Las reuniones van por ahí al estilo de robin, así que si tienes cinco agentes y el agente tres tomó la última reunión, el agente cuatro obtendrá la siguiente, seguido del agente cinco, y luego volverá al agente uno.
 
 ## Preguntas frecuentes {#faq}
+
+**¿Puedo instalar Dynamic Chat en cualquier lugar del sitio web de mi empresa o solo funciona en páginas de aterrizaje de Marketo?**
+
+El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio web, así como en las páginas de aterrizaje de Marketo.
 
 **¿Durante cuánto tiempo se almacenan los datos para los informes?**
 
