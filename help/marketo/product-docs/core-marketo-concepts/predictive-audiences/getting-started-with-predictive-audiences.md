@@ -3,9 +3,10 @@ description: Introducción a Predictive Audiences - Marketo Docs - Documentació
 title: Introducción a Predictive Audiences
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ Predictive Audiences (PA) utiliza la IA y el aprendizaje automático para permit
 
 PA incluye las siguientes funciones:
 
-* [Seguimiento de objetivos y registros proyectados](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* Perspectivas basadas en AI/ML
 * Valores de Probabilidad de Registro y Asistencia para cada posible cliente en un programa de evento
 * [Filtros predictivos](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [Modelos y factores de influencia](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* Perspectivas basadas en AI/ML
+* [Seguimiento de objetivos y registros proyectados](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (El seguimiento de objetivos solo está disponible para aquellos que tengan la opción de siguiente generación habilitada para Programas de eventos - para acceder a esta opción, póngase en contacto con su CSM y solicite Audiencias predictivas)
 
 >[!NOTE]
 >

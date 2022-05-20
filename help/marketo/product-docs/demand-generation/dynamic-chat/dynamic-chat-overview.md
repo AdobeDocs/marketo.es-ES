@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 1%
 
 ---
@@ -67,17 +67,39 @@ El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio 
 
 No, solo utiliza respuestas predeterminadas.
 
-**¿Cómo puedo orientarme hacia personas anónimas?**
+**¿Admite Dynamic Chat algún idioma aparte del inglés?**
 
-En el cuadro de diálogo, debe utilizar la variable _El correo electrónico de la persona está vacío_ atributo.
+Sí. Dynamic Chat admite los siguientes idiomas: Francés, alemán, japonés, español, italiano, portugués de Brasil, coreano, chino simplificado y chino tradicional. Obtenga más información en la [sección inferior](#changing-the-language).
 
 **¿Admite la funcionalidad AI/NLP?**
 
 No se admite la funcionalidad AI/NLP.
 
-**¿Ofrece Dynamic Chat algún idioma además del inglés?**
+**¿Cómo puedo orientarme hacia personas anónimas?**
 
-En este momento no.
+En el cuadro de diálogo, debe utilizar la variable _El correo electrónico de la persona está vacío_ atributo.
+
+## Cambio de idioma {#changing-the-language}
+
+Siga estos pasos para cambiar el idioma de la conversación dinámica.
+
+1. En la cuenta de Experience Cloud, haga clic en el icono de configuración y seleccione **Preferencias**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Haga clic en el idioma actual en su dirección de correo electrónico.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Elija el nuevo idioma (el segundo idioma es opcional) y haga clic en **Guardar**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Hay varias docenas de idiomas para elegir, sin embargo, Dynamic Chat solo admite lo siguiente: inglés, francés, alemán, japonés, español, italiano, portugués de Brasil, coreano, chino simplificado y chino tradicional.
+
+Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto las palabras que haya rellenado personalmente (por ejemplo, respuestas de flujo).
 
 ## Límites en la conversación dinámica {#limits-in-dynamic-chat}
 
