@@ -1,74 +1,75 @@
 ---
-description: 'Criterios de audiencia: Documentos de Marketo: documentación del producto'
+description: Audience Criteria - Marketo Docs - Product Documentation
 title: Criterios de audiencia
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
+source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 0%
+source-wordcount: '427'
+ht-degree: 1%
 
 ---
 
 # Criterios de audiencia {#audience-criteria}
 
-Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino. Puede dirigirse a personas conocidas o desconocidas mediante atributos inferidos, personales o de empresa (o una combinación de estos).
+Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
 
-**Personas conocidas**
+****
 
-Hay _many_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los objetivos **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
+__ ****
 
-1. Tome el **Estado de la persona** y arrástrelo a la derecha.
+1. ****
 
    ![](assets/audience-criteria-1.png)
 
-1. _Is_ está configurado de forma predeterminada. En el campo Seleccionar valores , escriba CA (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+1. __ In the Select Values field, type in CA (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-2.png)
 
-1. Tome el **Tamaño de la empresa** y arrástrela a donde dice _arrastre y suelte un atributo aquí_.
+1. ****__
 
    ![](assets/audience-criteria-3.png)
 
    >[!NOTE]
    >
-   >También puede elegir un atributo haciendo clic en su **+** icono.
+   >****
 
-1. Haga clic en la lista desplegable de operadores y seleccione **Bueno que**.
+1. ****
 
    ![](assets/audience-criteria-4.png)
 
-1. Escriba 50 y haga clic en cualquier otra parte de la pantalla para guardar.
+1. Type 50 and click elsewhere on the screen to save.
 
    ![](assets/audience-criteria-5.png)
 
-¡Y eso es todo!
+And that&#39;s it!
 
-**Personas anónimas**
+****
 
-Existe una manera fácil de dirigirse específicamente a personas que aún no están en su base de datos. En este ejemplo, estamos segmentando todos **personas anónimas** situado en el área de Nueva York.
+There&#39;s an easy way to specifically target people who are not in your database yet. ****
 
-1. Tome el **Correo electrónico de persona** y arrástrelo a la derecha.
+1. ****
 
    ![](assets/audience-criteria-6.png)
 
-1. Haga clic en la lista desplegable de operadores y seleccione **Está vacío**.
+1. ****
 
    ![](assets/audience-criteria-7.png)
 
-1. Tome el **Estado afectado** y arrástrela a donde dice _arrastre y suelte un atributo aquí_.
+1. ****__
 
    ![](assets/audience-criteria-8.png)
 
    >[!NOTE]
    >
-   >Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena.
+   >[](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) We look up their IP in a special database and infer all kinds of good info.
 
-1. _Is_ está configurado de forma predeterminada. En el campo Seleccionar valores , escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
+1. __ In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-9.png)
 
-## Agregar grupos {#add-groups}
+## Add Groups {#add-groups}
 
-También tiene la opción de agrupar atributos, en caso de que desee tener todos los atributos junto con &quot;todos o cualquiera&quot; de otro. Puede agregar varios grupos.
+You have the option of grouping attributes as well, in case you want to have all of certain attributes along with &quot;all or any&quot; of another. You can add multiple groups.
 
 ![](assets/audience-criteria-10.png)
 
@@ -76,9 +77,9 @@ También tiene la opción de agrupar atributos, en caso de que desee tener todos
 
 ## Destino {#target}
 
-Aquí es donde introduce las direcciones URL en las que desea que se muestre un cuadro de diálogo específico.
+This is where you enter the URL(s) that you want a specific Dialogue to be shown on. You also have the option of adding exclusions.
 
-Formatos aceptables:
+Acceptable formats:
 
 * `http://website.com`
 * `https://*.website.com`
@@ -87,11 +88,15 @@ Formatos aceptables:
 
 >[!NOTE]
 >
->El uso de un asterisco actúa como comodín global. So `https://*.website.com` colocaría el cuadro de diálogo en todas las páginas del sitio, incluidos los subdominios (por ejemplo: `support.website.com`). Y `https://website.com/folder/*` colocaría el cuadro de diálogo en todas las páginas del HTML en la carpeta siguiente (por ejemplo: en este caso, digamos que la carpeta es &quot;deportes&quot;, así que: website.com/sports/baseball.html, website.com/sports/football.html, etc.).
+>Using an asterisk acts as a catch-all wilcard. `https://*.website.com``support.website.com` `https://website.com/folder/*`
+
+**** Exclusions follow the same format as inclusions.
+
+![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
->* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Informes](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
+>* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
+>* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+>* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
 
