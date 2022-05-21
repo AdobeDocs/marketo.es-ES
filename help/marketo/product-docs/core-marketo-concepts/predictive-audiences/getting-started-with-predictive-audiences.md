@@ -4,7 +4,7 @@ title: Introducción a Predictive Audiences
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Predictive Audiences se incluye y activa automáticamente para instancias que ut
 1. Una vez añadida la función a la instancia, vaya a la **[!UICONTROL Predictive Audiences]** en el **[!UICONTROL Administrador]** de Marketo.
 
 1. Marque **[!UICONTROL Habilitar Predictive Audiences]** para activar la función. Tenga en cuenta que todos los procesos pueden tardar hasta 24 horas en completar la configuración.
-
