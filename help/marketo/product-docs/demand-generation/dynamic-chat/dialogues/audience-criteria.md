@@ -2,9 +2,9 @@
 description: 'Criterios de audiencia: Documentos de Marketo: documentación del producto'
 title: Criterios de audiencia
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 1%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 1%
 
 Al igual que las listas inteligentes de Marketo, los atributos de criterios de audiencia le permiten definir la audiencia de destino. Puede dirigirse a personas conocidas o desconocidas mediante atributos inferidos, personales o de empresa (o una combinación de estos).
 
+## Eventos {#events}
+
+![](assets/audience-criteria-0.png)
+
+Los eventos le permiten dirigirse a los visitantes en función de cuánto se desplazan o cuánto tiempo llevan en su página o sitio. En el siguiente ejemplo, estamos segmentando visitantes que hayan estado en una página específica durante más de 20 segundos.
+
+1. Tome el **Tiempo en la página** y arrástrelo a la derecha.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Establezca el tiempo &quot;Bueno que&quot; en 20 segundos.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Añada la dirección URL de la página deseada en la página [Target](#target) para obtener más información.
+
+   ![](assets/audience-criteria-0c.png)
+
+## Atributos {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Personas conocidas**
 
-Hay _many_ combinaciones de atributos entre las que elegir. En este ejemplo estamos dirigiendo todos los objetivos **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
+Hay _many_ combinaciones de atributos entre las que elegir. En el ejemplo siguiente, estamos segmentando todos **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
 
 1. Tome el **Estado de la persona** y arrástrelo a la derecha.
 
