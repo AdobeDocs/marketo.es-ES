@@ -1,11 +1,11 @@
 ---
 description: 'Diseñador de secuencias: Documentos de Marketo: Documentación del producto'
-title: Diseñador de secuencias
+title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 3%
 
 ---
 
@@ -28,11 +28,15 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
   <td>Utilícelo cuando desee hacer una pregunta de opción múltiple, de la que proporcione las respuestas disponibles (por ejemplo: ¿Qué tipo de vehículo le interesa? Respuestas = SUV, Compacta, Camión, etc.).</td>
  </tr>
  <tr>
+  <td><strong>Documento</strong></td>
+  <td>Permite incrustar documentos de PDF en cuadros de diálogo y rastrear la actividad de participación en los documentos de los visitantes (cuántas páginas se vieron, si se descargó el documento y/o cualquier término de búsqueda que se haya utilizado).</td>
+ </tr>
+ <tr>
   <td><strong>Captura de información</strong></td>
   <td>Utilícelo cuando desee recopilar información. Los tres campos entre los que elegir son Dirección de correo electrónico, Número de teléfono y Texto (que permite al visitante escribir su propio mensaje).</td>
  </tr>
  <tr>
-  <td><strong>Programador de citas</strong></td>
+  <td><strong>Planificador de citas</strong></td>
   <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">el siguiente agente en línea</a>.</td>
  </tr>
  <tr>
@@ -109,7 +113,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
      <td>El tipo de información que desea capturar: Teléfono, Texto, Correo electrónico.</td>
     </tr>
     <tr>
-     <td><strong>Mensaje de bots de chat</strong></td>
+     <td><strong>Mensaje de chatbot</strong></td>
      <td>El mensaje que el visitante ve solicitándole que proporcione la información.</td>
     </tr>
     <tr>
