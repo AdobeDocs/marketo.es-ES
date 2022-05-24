@@ -4,16 +4,16 @@ title: Información sobre el seguimiento de objetivos y los registros proyectado
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # Información sobre el seguimiento de objetivos y los registros proyectados {#understanding-goal-tracking-and-projected-registrations}
 
-Después [definición de objetivos de evento](/help/sky/setting-event-goals.md) y enviar invitaciones a través de un [campaña inteligente](/help/sky/create-a-smart-campaign.md), aquí se explica cómo rastrear el progreso de su objetivo y comprender las predicciones de Marketo.
+A continuación se muestra cómo realizar un seguimiento del progreso de sus objetivos y comprender las predicciones de Marketo.
 
 >[!NOTE]
 >
