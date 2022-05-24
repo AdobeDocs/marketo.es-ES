@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '8766'
+source-wordcount: '8770'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 + [Página principal](home.md)
 + Introducción a Marketo {#getting-started-with-marketo}
    + [Introducción](getting-started.md)
-   + [¿Qué es el Marketo Engage de Adobe?](getting-started/what-is-adobe-marketo-engage.md)
+   + [¿Qué es Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Glosario de Marketo](getting-started/marketo-glossary.md)
    + [Glosario de iconos clásicos](getting-started/classic-icon-glossary.md)
    + Instalación {#setup}
@@ -618,7 +618,8 @@ ht-degree: 2%
             + [Información general del cuadro de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Crear un cuadro de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Criterios de audiencia](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
-            + [Diseñador de secuencias](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+            + [Uso de la tarjeta de documento](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [Informes](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Eventos {#events}
          + Explicación de los eventos {#understanding-events}

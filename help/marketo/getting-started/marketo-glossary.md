@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Documentos de Marketo - Documentación del producto
 title: Glosario de Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td><strong>Lista de cuentas</strong></td> 
-   <td>Una lista de nombres clave de cuenta/organización. También se denomina Marketing basado en cuentas (<strong>ABM</strong>).</td> 
+   <td>Una lista de nombres clave de cuenta/organización. También se conoce como Account-Based Marketing (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Perfil de cuenta</strong></td> 
@@ -241,7 +241,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
     <div> 
      <p><strong> Base de datos</strong></p> 
     </div></td> 
-   <td>Una de las secciones principales de <strong>Marketo Engage de Adobe</strong>. La base de datos es el hogar de todos los <strong>person</strong> registros.</td> 
+   <td>Una de las secciones principales de <strong>Adobe Marketo Engage</strong>. La base de datos es el hogar de todos los <strong>person</strong> registros.</td> 
   </tr> 
   <tr> 
    <td><strong>Anulación de duplicación</strong></td> 
@@ -268,11 +268,11 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><strong>Estudio de diseño</strong></td> 
-   <td colspan="1">Una de las secciones principales de <strong>Marketo Engage de Adobe</strong>. Design Studio es el hogar de su <strong>activos</strong>, como: <strong>páginas de aterrizaje</strong>, formularios, <strong>correos electrónicos</strong>, <strong>fragmentos</strong>, e imágenes/archivos.</td> 
+   <td colspan="1">Una de las secciones principales de <strong>Adobe Marketo Engage</strong>. Design Studio es el hogar de su <strong>activos</strong>, como: <strong>páginas de aterrizaje</strong>, formularios, <strong>correos electrónicos</strong>, <strong>fragmentos</strong>, e imágenes/archivos.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documentos</strong></td> 
-   <td colspan="1">Los documentos son artículos de ayuda para que los clientes comprendan mejor el producto. Marketo tiene varios tipos diferentes de documentos: documentos del producto (el sitio en el que se encuentra), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> documentos, <a href="https://developers.marketo.com/" rel="nofollow">Desarrollador</a> documentos y <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Asistencia</a> documentos.</td> 
+   <td colspan="1">Los documentos son artículos de ayuda para que los clientes comprendan mejor el producto. Marketo tiene varios tipos diferentes de documentos: documentos del producto (el sitio en el que se encuentra), <a href="https://developers.marketo.com/" rel="nofollow">Desarrollador</a> documentos y <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Asistencia</a> documentos.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Autenticación de mensajes, informes y conformidad basados en el dominio (DMARC)</strong></td> 
@@ -471,7 +471,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   <tr> 
    <td> 
     <div> 
-     <p><strong>Página de destino</strong></p> 
+     <p><strong>Página de aterrizaje</strong></p> 
     </div></td> 
    <td>Una página alojada en Marketo que le permite mostrar <strong>contenido</strong> y rastrear visitantes. Existen dos tipos diferentes: Free-form y Guided. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Páginas de aterrizaje de forma libre</a> permite arrastrar y soltar el contenido que desee, donde quiera. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Páginas de aterrizaje guiadas</a> son más estrictas, con un diseño/estructura predefinido determinado por la variable <strong>plantilla</strong>.</td> 
   </tr> 
@@ -481,7 +481,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td><strong>Cliente potencial</strong></td> 
-   <td>En <strong>Marketo Engage de Adobe</strong>, el posible cliente es el término anterior (sustituido por <strong>person</strong>) se utiliza para describir a un individuo en su Marketo <strong>base de datos</strong> con el que interactúa a través de sus campañas de marketing. En <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, una persona asociada con un <strong>oportunidad</strong>) independiente de la funcionalidad de Marketo.</td> 
+   <td>En <strong>Adobe Marketo Engage</strong>, el posible cliente es el término anterior (sustituido por <strong>person</strong>) se utiliza para describir a un individuo en su Marketo <strong>base de datos</strong> con el que interactúa a través de sus campañas de marketing. En <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, una persona asociada con un <strong>oportunidad</strong>) independiente de la funcionalidad de Marketo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Base de datos de leads</strong></td> 
@@ -511,7 +511,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
  <tbody> 
   <tr> 
    <td><strong>Actividades de marketing</strong></td> 
-   <td><p>Una de las secciones principales del Marketo Engage de Adobe. Aquí es donde <strong>campaign</strong> orquestación. Todas sus <strong>programas</strong>, campañas y <strong>carpetas de campaña</strong> (y <strong>recursos locales</strong>) viven aquí.</p></td> 
+   <td><p>Una de las secciones principales de Adobe Marketo Engage. Aquí es donde <strong>campaign</strong> orquestación. Todas sus <strong>programas</strong>, campañas y <strong>carpetas de campaña</strong> (y <strong>recursos locales</strong>) viven aquí.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automatización de la mercadotecnia</strong></a></td> 
@@ -555,7 +555,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mi Marketo</strong></td> 
-   <td colspan="1">Una de las secciones estándar del Marketo Engage de Adobe. Actúa como "página principal" de Marketo, mostrando los mosaicos de todas las secciones de Marketo a las que tiene acceso.</td> 
+   <td colspan="1">Una de las secciones estándar de Adobe Marketo Engage. Actúa como "página principal" de Marketo, mostrando los mosaicos de todas las secciones de Marketo a las que tiene acceso.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mis tokens</strong></a></td> 
@@ -881,7 +881,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Personalización web</strong></td> 
-   <td>Una función de complemento que proporciona una plataforma de segmentación y personalización, lo que ayuda a los usuarios de Marketo a atraer visitantes conocidos y anónimos en tiempo real, en función de quiénes sean y qué hagan.</td> 
+   <td>Función de complemento que proporciona una plataforma de segmentación y personalización, lo que ayuda a los usuarios de Marketo a atraer visitantes conocidos y anónimos en tiempo real, en función de quiénes sean y qué hagan.</td> 
   </tr>
   <tr> 
    <td><strong>Seminario web</strong></td> 
