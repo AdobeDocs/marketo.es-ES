@@ -2,71 +2,63 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
+source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Mayo de 2022 {#release-notes-may-22}
+# Notas de la versión: Junio de 2022 {#release-notes-june-22}
 
-A continuación encontrará todas las funciones incluidas en la versión del 22 de mayo. Consulte la edición para Marketo Engage de Adobe si hay disponibilidad de funcionalidades.
+A continuación encontrará todas las funciones incluidas en la versión del 22 de junio. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
 >Funciones denotadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
-**_Versiones trimestrales_**
+Las siguientes funciones empezarán a lanzarse en **24 de junio de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes (a menos que se especifique lo contrario).
 
-Las siguientes funciones empezarán a lanzarse en **6 de mayo de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes (a menos que se especifique lo contrario).
+## Entorno de datos de marketing {#marketing-data-environment}
 
-## Integración nativa de CRM {#native-crm-integration}
+* **Exponer campos de CreatedAt/UpdatedAt para objetos personalizados**: Permite inspeccionar estos campos en la pantalla Detalle de persona para obtener información adicional.
 
-**[Integración nativa con Veva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (disponibilidad limitada)**: Mejore la participación con los profesionales sanitarios mediante la sincronización de la actividad entre Veeva CRM y el Marketo Engage a través de la integración nativa. Esta integración permite a los especialistas en marketing crear experiencias más personalizadas y fluidas entre canales para los profesionales sanitarios. Póngase en contacto con el gestor de éxito de los clientes si está interesado en participar.
+## Organización en canales múltiples {#cross-channel-orchestration}
 
-## Organización en canales múltiples {#cross-channel-orchestration}
+* **Se ha mejorado la facilidad de uso del Diseñador de flujos para la conversación dinámica**: Añada tarjetas directamente desde el lienzo del Diseñador de secuencias sin necesidad de arrastrar y soltar. La interfaz de chat dinámico también se ha mejorado para ofrecer una mejor visibilidad del contenido en tarjetas individuales.
 
-**Eventos de bots para la conversación dinámica**: Aproveche los datos de comportamiento más detallados para los visitantes web, como el tiempo en la página, el tiempo en el sitio y el porcentaje de desplazamiento de la página, para definir cuándo se debe mostrar un cuadro de diálogo de chat.
+* **Reglas de enrutamiento de citas avanzadas para chat dinámico**: Dynamic Chat ofrece más opciones para el enrutamiento de citas con objetivo. Especifique las citas del agente que deben enrutarse en función de los atributos del Marketo Engage, asegurándose de que los posibles clientes se dirijan a los agentes adecuados.
 
-**PDF incrustado en Dynamic Chat**: Aumente la participación y comparta contenido significativo integrando PDF en los diálogos de chat y midiendo el rendimiento del contenido mediante el seguimiento de la actividad de participación.
+* **Informes de diálogos avanzados para la conversación dinámica**: Vea en bueno detalle el rendimiento de sus campañas de chat dinámico mediante las visualizaciones de datos nuevas para métricas de participación y conversión.
 
-**Compatibilidad ampliada de idiomas para Dynamic Chat**: La interfaz de usuario de Dynamic Chat ahora también estará disponible en francés, alemán, japonés, portugués y español. Los diálogos de chat también se pueden configurar en estos idiomas.
+* **Desincronizar atributos de Marketo Engage no utilizados para Dynamic Chat**: Desincronice los atributos de Marketo Engage de su suscripción de Dynamic Chat que no se utilicen, lo que le ayudará a facilitar la limpieza de los datos y le permitirá sincronizar atributos alternativos según sea necesario.
 
-**Excluir direcciones URL para la conversación dinámica**: Controle cuál de sus páginas web aparece en Dynamic Chat con la capacidad de excluir direcciones URL específicas de los criterios de objetivo.
+## Automatización de la experiencia {#experience-automation}
 
-**[Mejoras en el filtrado de actividades de bots de correo electrónico](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Continúe protegiendo el estado de la base de datos con la capacidad de identificar el comportamiento de los bots en función del vínculo oculto Agentes de usuario o IP y los patrones de proximidad, además de la identificación de coincidencias de la lista IAB existente. Vea las estadísticas de actividad de bots que le permiten comprender el número de actividades de bots identificadas para cada tipo.
+* **Exclusiones de reglas de validación de campos de formulario globales**: Excluya formularios específicos de las reglas de validación del formulario global, de modo que los centros de suscripción y otros flujos de trabajo críticos para la empresa puedan aceptar todos los valores.
 
-**[Encabezado STS para vínculos de seguimiento de correo electrónico](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Satisfaga las prácticas recomendadas de seguridad con la capacidad de aplicar encabezados de seguridad de transporte seguro para garantizar que el tráfico a los vínculos rastreados siempre sea seguro.
+* **Pasos de flujo de autoservicio**: Amplíe la conectividad entre el Marketo Engage y el resto de la pila con la capacidad de crear pasos de flujo personalizados para utilizarlos en campañas inteligentes. Tanto los usuarios como los socios Marketo Engage pueden aprovechar esta funcionalidad para permitir el uso de servicios web externos en campañas de Déclencheur, por lotes y ejecutables, a diferencia de los Webhooks, que solo se pueden usar en campañas de Déclencheur.
 
-## Experiencia de próxima generación {#next-generation-experience}
+* **Protocolo Munchkin Seguimiento de vínculos agnósticos**: Ampliación de la compatibilidad con el seguimiento de `tel` y `mailto` vínculos con Munchkin para realizar un seguimiento de un conjunto ampliado de comportamientos web.
 
-**Alternar conmutador predeterminado a la experiencia de próxima generación**: el conmutador será el predeterminado para la nueva experiencia en todas las pantallas en las que esté disponible, lo que facilitará a los usuarios la detección de diseños actualizados y mejoras de uso.
+* **Métodos HTTP adicionales para los enlaces web**: Especifique PUT, PATCH y DELETE como tipos de solicitud para interactuar con los servicios web.
 
-**Pantalla actualizada en la experiencia de próxima generación**:
+## Sales Insight {#sales-insight}
 
-Estamos entregando la Vista de detalles de las plantillas de correo electrónico en Design Studio en la experiencia de próxima generación, lo que ofrece mejoras actualizadas de diseño y facilidad de uso a las que se puede acceder mediante el conmutador.
+![(estrella)](assets/yellow-star.png)
 
-## Automatización de la experiencia {#experience-automation}
-
-**Pasos de flujo de autoservicio (continuación beta)**: Amplíe la conectividad entre el Marketo Engage y el resto de la pila con la capacidad de crear pasos de flujo personalizados para utilizarlos en campañas inteligentes. Tanto los usuarios como los socios Marketo Engage pueden aprovechar esta funcionalidad para permitir el uso de servicios web externos en campañas de déclencheur, por lotes y ejecutables (a diferencia de los enlaces web que solo se pueden usar en campañas de déclencheur).
+* **Conjunto de permisos de Insight de ventas en Salesforce**: Los administradores pueden proporcionar acceso a la perspectiva de ventas a un conjunto limitado de personas a nivel de usuario en lugar de a nivel de perfil a través del conjunto de permisos de la aplicación de Marketo, que forma parte del paquete Sales Insight Salesforce.
 
 ## Mejoras de API {#api-enhancements}
 
-* **Acceso a la API ampliado para suscripciones con CRM habilitado**: Estamos ampliando el acceso a la API para suscripciones que tengan una sincronización de CRM habilitada para permitir a los usuarios recuperar Compañías, Oportunidades y Vendedores de parte del Marketo Engage.
-* **Compatibilidad con tipos de datos &quot;ocultos&quot; en Forms**: Proporciona la capacidad de administrar campos de formulario ocultos mediante API.
-* **Compatibilidad con varios valores de comparación para isNotForm mediante reglas**: Administre la visibilidad de los campos de formulario en función de si el valor de otro campo no es uno de los valores de una lista determinada.
-* **Permitir la configuración de Mostrar y Enviar valores en Seleccionar listas por separado**: Defina el valor de visualización y el valor enviado en un campo por separado. Por ejemplo, mostrar el nombre de un hotel, pero enviar un ID interno al servidor.
-* **Permitir la configuración de Deshabilitar el seguimiento abierto al crear o actualizar correo electrónico**: Cree un correo electrónico con el seguimiento de aperturas desactivado.
+* **Nuevas funciones de filtrado para la API de extracción de miembros de un programa en lote**: Filtre por estado de pertenencia al programa, fecha de actualización, cadencia o contenido agotado para refinar el conjunto de datos extraído.
+
+* **Mejora de la API de Extracción de miembros de un programa masivo**: Especifique hasta 10 programas durante la creación del trabajo para mejorar el rendimiento.
 
 ## Anuncios {#announcements}
 
-**Verificación y unicidad del correo electrónico**: A partir de abril, comenzará la implementación de la verificación por correo electrónico. En este punto, las direcciones de correo electrónico de los usuarios Marketo Engage requerirán verificación y exclusividad (esto no se aplica a los usuarios solo de API). Los usuarios autenticados del servicio de directorio tendrán automáticamente sus correos electrónicos verificados cuando su suscripción esté habilitada con Verificación de correo electrónico.
-
-La verificación de correo electrónico para suscripciones que utilizan la función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; o que tienen un solo correo electrónico asociado con varios usuarios coincidirá con la versión de mayo. Las suscripciones que tengan un solo correo electrónico asociado con varios usuarios se habilitarán con la verificación de correo electrónico y requerirán que esos usuarios resuelvan el conflicto y utilicen un correo electrónico único por usuario. Cuando la función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; está activada, los usuarios invitados mediante esta función deberán tener una dirección de correo electrónico única. Para los usuarios solo de API invitados mediante esta función, la dirección de correo electrónico no tiene que ser única.
-
-**Cambio de comportamiento de la carpeta del archivo**: Con esta versión, la capacidad de crear nuevos recursos en Carpetas de archivo dejará de estar disponible en los menús contextuales de árbol. Las opciones de menú para crear nuevos recursos se ocultarán para todos los recursos. [Obtenga más información aquí](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+* **Desaprobación de Forms: Forms 1.0, extremo de captura/guardado de posibles clientes y versiones sin script de formularios**: La compatibilidad con los recursos de Forms 1.0 se eliminará completamente del Marketo Engage. Todos los recursos de Forms 1.0 existentes dejarán de funcionar. Los formularios de Marketo Engage requerirán que JavaScript se cargue en páginas de aterrizaje y sitios web.
 
 **_Seminario web sobre la versión del producto_**
 
-[Seminario web sobre la versión para Marketo Engage de marzo y mayo de 2022](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+Únase a nosotros el 24 de agosto de 2022 a las 9:00 am PT / 12:00 pm ET para un [seminario web en directo](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} alojado por nuestro equipo de productos, donde puede aprender a utilizar las últimas innovaciones de productos.
