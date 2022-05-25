@@ -1,11 +1,10 @@
 ---
 description: 'Uso de la tarjeta de documento: Documentos de Marketo: Documentación del producto'
 title: Uso de la tarjeta de documento
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ La tarjeta de documento permite incrustar documentos de PDF en los cuadros de di
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >Deberá utilizar el dominio en el que alojará el bot de chat (por ejemplo, si aloja el bot de chat en mycompany.com, asegúrese de introducirlo en el paso 4).
+
 1. Haga clic en **Copiar** para copiar su ID de cliente.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Vuelva a Dynamic Chat y haga clic en **Integraciones**. Haga clic en los datos de la API de Adobe PDF Embed y seleccione **Editar configuración**.
+1. Vuelva a Dynamic Chat y haga clic en **Integraciones**. En la tarjeta de la API de incrustación de Adobe PDF, haga clic en **Activar**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. Pegue el ID de cliente y haga clic en **Actualizar**.
+1. Pegue el ID de cliente y haga clic en **Guardar**.
 
    ![](assets/using-the-document-card-6.png)
 
