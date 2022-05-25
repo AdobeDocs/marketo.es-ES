@@ -4,9 +4,9 @@ title: Información sobre el seguimiento de objetivos y los registros proyectado
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Información sobre el seguimiento de objetivos y los registros proyectados {#understanding-goal-tracking-and-projected-registrations}
 
 A continuación se muestra cómo realizar un seguimiento del progreso de sus objetivos y comprender las predicciones de Marketo.
+
+>[!PREREQUISITES]
+>
+>Para acceder a la mayoría de estas funciones, asegúrese de habilitar la variable [alternancia de siguiente generación](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} para programas de eventos.
 
 >[!NOTE]
 >
@@ -66,7 +70,7 @@ En la parte superior de la página Informes , puede encontrar recomendaciones di
 
 PICC
 
-## Predicciones en el nivel de persona
+## Predicciones de nivel personal
 
 Haga clic en el **[!UICONTROL Miembros]** para ver todos los miembros del programa. Pase el ratón sobre la **[!UICONTROL Probabilidad de registro]** o **[!UICONTROL Probabilidad de asistencia]** para ver los porcentajes y las clasificaciones exactos. A continuación, puede tomar medidas sobre los miembros de una categoría en particular (por ejemplo, todos los miembros de la categoría &quot;Menos probable&quot; de registrarse) y dirigirlos específicamente para que puedan aumentar sus números de registro.
 
