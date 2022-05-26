@@ -2,16 +2,20 @@
 description: 'Diseñador de secuencias: Documentos de Marketo: Documentación del producto'
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
+source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 3%
+source-wordcount: '756'
+ht-degree: 2%
 
 ---
 
 # Diseñador de secuencias {#stream-designer}
 
-Hay _many_ combinaciones de flujo que puede crear. Este artículo contiene un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. El objetivo es programar una cita o recopilar el correo electrónico del visitante.
+Hay _many_ combinaciones de flujo posibles. Este artículo contiene un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratuito. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
+
+>[!PREREQUISITES]
+>
+>Para poder usar la tarjeta Documento, primero debe [configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;} en la cuenta de Adobe.
 
 ## Tarjetas de Diseñador de secuencias {#stream-designer-cards}
 
@@ -49,47 +53,51 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 
 1. Después de [crear el cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, haga clic en el botón **Diseñador de secuencias** pestaña .
 
-   ![](assets/create-a-stream-1.png)
+   ![](assets/stream-designer-1.png)
 
 1. Arrastre y suelte la tarjeta Pregunta .
 
-   ![](assets/create-a-stream-2.png)
+   ![](assets/stream-designer-2.png)
 
 1. En Respuesta de bots de chat, responda a su pregunta como le gustaría.
 
-   ![](assets/create-a-stream-3.png)
+   ![](assets/stream-designer-3.png)
 
    >[!NOTE]
    >
-   >El valor de Poke se establece en activado de forma predeterminada, lo que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic en él para verlo.
+   >El valor de Poke se establece en activado de forma predeterminada, lo que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic en él para verlo. Poke solo está disponible en la primera tarjeta de la conversación.
 
 1. Introduzca sus respuestas de usuario y haga clic en **Guardar**.
 
-   ![](assets/create-a-stream-4.png)
+   ![](assets/stream-designer-4.png)
+
+   >[!NOTE]
+   >
+   >**Editar valores almacenados** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos que el que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta de Pregunta (por ejemplo: El visitante ve &quot;Optimización del motor de búsqueda&quot;, y almacena ese valor como &quot;SEO&quot;).
 
 1. Para &quot;Sí&quot; queremos programar una cita, así que debajo de esa opción, arrastre la tarjeta Programador de citas.
 
-   ![](assets/create-a-stream-5.png)
+   ![](assets/stream-designer-5.png)
 
 1. En la columna de la derecha, haga clic en **Guardar**.
 
-   ![](assets/create-a-stream-6.png)
+   ![](assets/stream-designer-6.png)
 
 1. Dado que es un objetivo, arrastre la tarjeta Goal debajo del Programador de citas.
 
-   ![](assets/create-a-stream-7.png)
+   ![](assets/stream-designer-7.png)
 
 1. Asigne un nombre al objetivo (o elija uno existente) y haga clic en **Guardar**.
 
-   ![](assets/create-a-stream-8.png)
+   ![](assets/stream-designer-8.png)
 
 1. Para &quot;No&quot; queremos ver si se unirán a la lista de correo, así que debajo de esa opción, arrastre sobre otra tarjeta de Pregunta.
 
-   ![](assets/create-a-stream-9.png)
+   ![](assets/stream-designer-9.png)
 
 1. Introduzca su respuesta y añada opciones de respuesta para el visitante. Haga clic en **Guardar** cuando haya terminado.
 
-   ![](assets/create-a-stream-10.png)
+   ![](assets/stream-designer-10.png)
 
    >[!NOTE]
    >
@@ -97,15 +105,15 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 
 1. Debajo de la respuesta &quot;Sí&quot;, arrastre la tarjeta Captura de información para poder recopilar el correo electrónico del visitante.
 
-   ![](assets/create-a-stream-11.png)
+   ![](assets/stream-designer-11.png)
 
 1. Haga clic en el **Tipo** y seleccione **Correo electrónico**.
 
-   ![](assets/create-a-stream-12.png)
+   ![](assets/stream-designer-12.png)
 
 1. Introduzca un mensaje de bots de chat y un marcador de posición. Asegúrese de que el atributo esté asignado al campo correspondiente en Marketo y haga clic en **Guardar**.
 
-   ![](assets/create-a-stream-13.png)
+   ![](assets/stream-designer-13.png)
 
    <table>
     <tr>
@@ -128,27 +136,27 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 
 1. Dado que la recopilación de su correo electrónico es un objetivo, arrastre la tarjeta de objetivo debajo de Captura de información.
 
-   ![](assets/create-a-stream-14.png)
+   ![](assets/stream-designer-14.png)
 
 1. Asigne un nombre al objetivo (o elija uno existente) y haga clic en **Guardar**.
 
-   ![](assets/create-a-stream-15.png)
+   ![](assets/stream-designer-15.png)
 
-1. Recuerde añadir una respuesta si dicen &quot;No&quot;. Arrastre una tarjeta Mensaje debajo de esa opción.
+1. Recuerde añadir una respuesta si dicen &quot;No&quot;. Una opción es arrastrar una tarjeta Mensaje abajo y decir &quot;gracias de todas formas&quot;. Pero en este ejemplo, les proporcionaremos un documento PDF gratuito.
 
-   ![](assets/create-a-stream-16.png)
+   ![](assets/stream-designer-16.png)
 
-1. Introduzca el mensaje y haga clic en **Guardar**.
+1. En este ejemplo crearemos un nuevo documento. Asígnele un nombre, introduzca la dirección URL del PDF que ya ha alojado y haga clic en **Guardar**.
 
-   ![](assets/create-a-stream-17.png)
+   ![](assets/stream-designer-17.png)
 
 1. Seleccione el **Vista previa** alterne para obtener una vista previa del cuadro de diálogo.
 
-   ![](assets/create-a-stream-18.png)
+   ![](assets/stream-designer-18.png)
 
 1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **Publicación**.
 
-   ![](assets/create-a-stream-19.png)
+   ![](assets/stream-designer-19.png)
 
 >[!NOTE]
 >
@@ -159,4 +167,5 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 >* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
 >* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
 >* [Informes](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
+>* [Uso de la tarjeta de documento](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}
 
