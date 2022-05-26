@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,12 @@ Las siguientes funciones empezarán a lanzarse en **24 de junio de 2022**, con u
 ![(estrella)](assets/yellow-star.png)
 
 * **Conjunto de permisos de Insight de ventas en Salesforce**: Los administradores pueden proporcionar acceso a la perspectiva de ventas a un conjunto limitado de personas a nivel de usuario en lugar de a nivel de perfil a través del conjunto de permisos de la aplicación de Marketo, que forma parte del paquete Sales Insight Salesforce.
+
+* **My Marketo Tile Update - Sales Insight Actions**: Los administradores de Marketo (y los usuarios que designen) ahora pueden navegar rápidamente a su instancia de Acciones de perspectiva de ventas a través de un nuevo mosaico de Acciones de perspectiva de ventas ubicado en la página Mi Marketo .
+
+## Conexión de ventas {#sales-connect}
+
+* **Actualización de la API de Salesforce**: Con la versión de verano de 22 de Salesforce, las versiones heredadas de API 21-30 ya no serán compatibles con Salesforce. Con esta versión del Marketo Engage, todas las solicitudes de conexión de ventas que utilizan versiones de API heredadas se han actualizado para permanecer en una versión compatible. Para obtener más información sobre los planes de retiro de la API de Salesforce, haga clic en [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
 ## Mejoras de API {#api-enhancements}
 
