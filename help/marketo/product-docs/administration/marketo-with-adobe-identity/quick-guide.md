@@ -3,16 +3,16 @@ description: 'Guía rápida: Documentos de Marketo: Documentación del producto'
 title: Guía rápida
 hide: true
 hidefromtoc: true
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # Guía rápida {#quick-guide}
 
-Siga los pasos a continuación para configurar y obtener más información sobre el Marketo Engage con Adobe Identity Management.
+Los artículos que se enumeran a continuación le ayudarán a configurar y obtener más información sobre el Marketo Engage con Adobe Identity Management.
 
 ## Administrador del sistema {#system-admin}
 
