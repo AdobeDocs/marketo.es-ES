@@ -1,12 +1,10 @@
 ---
 description: 'Explicación del seguimiento de objetivos y los registros proyectados: Documentos de Marketo: Documentación del producto'
 title: Información sobre el seguimiento de objetivos y los registros proyectados
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ A continuación se muestra cómo realizar un seguimiento del progreso de sus obj
 
 1. Puede encontrar los detalles de seguimiento de objetivos en la **[!UICONTROL Informes]** del programa de eventos. En este ejemplo en particular, hasta ahora hay 150 miembros inscritos, frente a un objetivo de 200 (75%).
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 También verá su **[!UICONTROL Proyectado]** registros. Pase el ratón sobre el icono de información para ver un desglose de este número por segmento Probabilidad.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >El gráfico Asistido y Superior permanecerá vacío hasta el día del evento.
 
+Si no ha habilitado el conmutador, así es como aparecerá en la interfaz de usuario de Marketo Class:
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. Haga clic en la opción Chart para cambiar a un desglose de sus miembros según la probabilidad de registro. Verá los porcentajes de registro actuales para cada segmento, comparados con el porcentaje promedio para ese segmento en sus programas anteriores.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 Todos los miembros (registrados y aún no registrados) se clasifican según su probabilidad de inscripción. Pase el ratón sobre el icono de información para ver cómo se definen estas categorías de probabilidad.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ Al calcular programas similares, incluimos los siguientes factores, entre otros:
 * Duración desde la creación del evento hasta el inicio del evento
 * Duración del evento
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 
 En la parte superior de la página Informes , puede encontrar recomendaciones dirigidas por AI/ML basadas en su progreso. Vuelva periódicamente para obtener consejos e información útiles.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Predicciones de nivel personal
 
 Haga clic en el **[!UICONTROL Miembros]** para ver todos los miembros del programa. Pase el ratón sobre la **[!UICONTROL Probabilidad de registro]** o **[!UICONTROL Probabilidad de asistencia]** para ver los porcentajes y las clasificaciones exactos. A continuación, puede tomar medidas sobre los miembros de una categoría en particular (por ejemplo, todos los miembros de la categoría &quot;Menos probable&quot; de registrarse) y dirigirlos específicamente para que puedan aumentar sus números de registro.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. Después de 24 horas, en la variable [!UICONTROL Informes] puede ver los reg
 
 iii. Si los registros proyectados son menores que el objetivo, tendría que invitar a más personas. En este punto, puede ver las perspectivas que indican cuál fue el umbral que funcionó en programas anteriores.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 iv. Puede crear una nueva campaña inteligente con ese umbral para invitar a más personas.
 
@@ -124,7 +126,7 @@ A: Tres barras, cada una de las cuales representa un segmento (muy probable, pro
 
 **Barra azul:** Porcentaje de registro de todas las personas de ese segmento.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Por ejemplo, digamos que 100 personas tienen probabilidades de registrarse > 50% y 60 de esas 100 personas registradas. Es muy probable que tenga una conversión del 60 %. Por lo tanto, todos los miembros agregados al programa tienen probabilidad de registrar valores, luego se incluyen en segmentos y se calcula el número de personas registradas en cada tasa de conversión de segmento.
 
@@ -134,10 +136,10 @@ A: Cualquier persona que aparezca como registrada o cualquier otro estado con un
 
 Puede crear nuevos estados de progresión para un programa de eventos, pero asignamos esos estados con estados estándar. Considere un caso en el que una persona es trasladada de invitada a recordada, lo que es un paso más alto que el registro. Esta persona también se considerará registrada y se mostrará en el seguimiento de objetivos.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **P: ¿Cómo se calculan los registros proyectados?**
 
 A: Consulte a continuación.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
