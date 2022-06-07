@@ -2,9 +2,9 @@
 description: Configuración de administración - Documentos de Marketo - Documentación del producto
 title: Configuración de administración
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 Una vez agregado como administrador del sistema de Adobe a Marketo Engage en una organización de Adobe, debe seguir algunos pasos para completar la configuración inicial.
 
-## Configuración de administración del sistema {#system-admin-setup}
+## Configuración inicial {#initial-setup}
 
 1. Una vez que haya sido agregado como administrador del sistema designado para Marketo Engage (en una organización nueva o establecida), recibirá un correo electrónico de bienvenida. En ese correo electrónico, haga clic en **Introducción**.
 
    ![](assets/admin-setup-1.png)
 
-1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le redirigirá directamente a Adobe Admin Console. Si no, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ Una vez que el administrador del sistema accede al Admin Console, es hora de cre
 
 >[!MORELIKETHIS]
 >
->[Agregar o eliminar un administrador de productos](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[Agregar o eliminar un administrador de productos](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
