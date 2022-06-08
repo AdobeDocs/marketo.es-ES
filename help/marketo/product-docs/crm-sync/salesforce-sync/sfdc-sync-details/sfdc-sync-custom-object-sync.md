@@ -3,8 +3,7 @@ unique-page-id: 2953471
 description: Sincronización SFDC - Sincronización de objetos personalizados - Documentos de Marketo - Documentación del producto
 title: Sincronización SFDC - Sincronización de objetos personalizados
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -21,11 +20,11 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
 >[!PREREQUISITES]
 >
->Para utilizar un objeto personalizado, debe estar asociado a un objeto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) en Salesforce.
+>Para utilizar un objeto personalizado, debe asociarse a un [posible cliente](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [póngase en contacto](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) en Salesforce.
 
-## Habilitar objeto personalizado {#enable-custom-object}
+## Habilitar objeto personalizado  {#enable-custom-object}
 
-1. Haga clic en **Admin** y en el enlace **Sincronización de objetos de Salesforce**.
+1. Haga clic en **Administrador** y **Sincronización de objetos de Salesforce** vínculo.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
@@ -55,7 +54,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Haga clic **Habilitar sincronización** de nuevo.
+1. Haga clic en **Habilitar sincronización** de nuevo.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -63,7 +62,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
    >
    >No olvide volver a habilitar la sincronización global.
 
-1. Vuelva a la pestaña **Salesforce**.
+1. Vuelva a la **Salesforce** pestaña .
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -71,7 +70,7 @@ Los objetos personalizados creados en la instancia de Salesforce también pueden
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para ver todos los objetos personalizados de Salesforce, haga clic en **Admin** y en el enlace **Sincronización de objetos de Salesforce** (igual que el paso 1 anterior).
+1. Para ver todos los objetos personalizados de Salesforce, haga clic en **Administrador** y **Sincronización de objetos de Salesforce** (igual que el paso 1 anterior).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

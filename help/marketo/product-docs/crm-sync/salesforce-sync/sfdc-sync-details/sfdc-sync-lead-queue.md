@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7516241
 description: Sincronización SFDC - Cola de posibles clientes - Documentos de Marketo - Documentación del producto
-title: 'Sincronización SFDC: Cola de posibles clientes'
+title: Sincronización de SFDC - Cola de posibles clientes
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 # Sincronización SFDC: Cola de posibles clientes {#sfdc-sync-lead-queue}
 
-Marketo le permite agregar personas a [colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ayudar en la distribución de posibles clientes. Aquí están los detalles.
+Marketo le permite agregar personas a [Colas de posibles clientes de Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) para ayudar con la distribución de posibles clientes. Aquí están los detalles.
 
 ## ¿Cómo asignar una persona a una cola en Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
@@ -34,4 +33,4 @@ Si un posible cliente es propiedad de una cola de Salesforce, estos campos de pr
 * Apellido del propietario de ventas
 * Título del propietario de ventas
 * Número de teléfono del propietario de ventas
-* Dirección de correo electrónico del propietario de ventas
+* Dirección de email del propietario de ventas

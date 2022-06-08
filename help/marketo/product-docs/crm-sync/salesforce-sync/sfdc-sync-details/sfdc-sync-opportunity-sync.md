@@ -1,13 +1,12 @@
 ---
 unique-page-id: 2953467
 description: Sincronización SFDC - Sincronización de oportunidades - Documentos de Marketo - Documentación del producto
-title: Sincronización de SFDC - Sincronización de oportunidades
+title: 'Sincronización de SFDC: sincronización de oportunidades'
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -19,7 +18,7 @@ La sincronización es unidireccional: de Salesforce a Marketo. Las actualizacion
 
 >[!NOTE]
 >
->Las [credenciales introducidas en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar los datos. Solo se incluirán los datos a los que tengan acceso esas credenciales.
+>La variable [credenciales introducidas en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar datos. Solo se incluirán los datos a los que tengan acceso esas credenciales.
 
 ## ¿Puedo iniciar una sincronización de oportunidad? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +26,7 @@ No, no puedes. Los cambios realizados en cualquier oportunidad de Salesforce se 
 
 ## ¿Marketo admite más de una moneda en la cantidad de oportunidad? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo solo admite una moneda. La cantidad de oportunidad se sincronizará con Salesforce, pero la moneda será la [moneda predeterminada](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) de su suscripción a Marketo.
+No, Marketo solo admite una moneda. La cantidad de oportunidad se sincronizará con Salesforce, pero la moneda será la [moneda predeterminada](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) en su suscripción a Marketo.
 
 ## ¿Cómo asocia Marketo las oportunidades y los contactos? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,11 +34,11 @@ Marketo asocia oportunidades y contactos mediante [Funciones de contacto de opor
 
 ## ¿Cómo puedo ver todas las oportunidades de una persona? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-Puede ver una lista de oportunidades en la pestaña **Información de oportunidad** de la página [Detalle de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Puede ver una lista de oportunidades en la **Información de oportunidad** en la ficha [Detalles de persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) página.
 
 ## ¿Cuáles son los déclencheur/filtros relacionados con la oportunidad? {#what-are-the-triggers-filters-related-to-opportunity}
 
-Déclencheur:
+Desencadenadores:
 
 * Se ha añadido a la oportunidad
 * Eliminada de la oportunidad
@@ -47,13 +46,13 @@ Déclencheur:
 
 Filtros:
 
-* Tiene oportunidad
+* Tiene una oportunidad
 * Se actualizó la oportunidad/no se actualizó la oportunidad
 * Se agregó a la oportunidad/no se agregó a la oportunidad
 * Se eliminó de la oportunidad/no se eliminó de la oportunidad
-* Cantidad total de Opt
-* Número de opciones
-* Total de ingresos esperados de Opty
+* Monto total de la oportunidad
+* Cantidad de oportunidades
+* Ingreso esperado total de la oportunidad
 
 >[!TIP]
 >
