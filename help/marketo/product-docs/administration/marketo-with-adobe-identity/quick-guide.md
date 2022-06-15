@@ -2,9 +2,9 @@
 description: 'Guía rápida: Documentos de Marketo: Documentación del producto'
 title: Guía rápida
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 4dbf9afa79533034c040fa6fe9756e0fa7c0fbcd
+source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 Los artículos que se enumeran a continuación le ayudarán a configurar y obtener más información sobre el Marketo Engage con Adobe Identity Management.
 
-## Administrador del sistema {#system-admin}
+## Configuración de administración del sistema {#system-admin-setup}
 
 Creación del perfil de producto y del administrador de productos.
-
-[Acceso de administrador del sistema](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#system-admin-setup){target=&quot;_blank&quot;}
 
 [Crear un perfil de producto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target=&quot;_blank&quot;}
 
