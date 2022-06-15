@@ -2,16 +2,16 @@
 description: 'Conexión de Dynamic Chat a Marketo: Marketo Docs: Documentación del producto'
 title: Conexión de Dynamic Chat a Marketo
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
+source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Conexión de Dynamic Chat a Marketo {#connect-dynamic-chat-to-marketo}
 
-Una vez que haya completado el [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), es hora de realizar la sincronización de una sola vez que conecta Dynamic Chat con su suscripción a Marketo.
+Una vez que haya completado el [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}, es hora de realizar la sincronización de una sola vez que conecta Dynamic Chat con su suscripción a Marketo.
 
 1. En Mi Marketo, haga clic en el botón **Chat dinámico** mosaico.
 
@@ -21,7 +21,7 @@ Una vez que haya completado el [configuración inicial](/help/marketo/product-do
    >
    >Si no ve el mosaico, póngase en contacto con el administrador de Marketo.
 
-1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le dirigirá directamente a Dynamic Chat. Si no, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Si anteriormente ha accedido a una aplicación con un Adobe ID, se le dirigirá directamente a Dynamic Chat. Si no, [configuración de Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
 
 1. Para conectar la instancia de Marketo, seleccione **Integraciones**.
 
@@ -47,32 +47,6 @@ Una vez que haya completado el [configuración inicial](/help/marketo/product-do
 >
 >La sincronización puede tardar entre 2 y 24 horas en completarse, en función del tamaño de la base de datos.
 
-## Vincular la organización de Adobe y Marketo {#link-your-adobe-org-and-marketo}
-
-A continuación, es hora de vincular Adobe y Marketo.
-
->[!IMPORTANT]
->
->La dirección de correo electrónico del usuario Marketo Engage que establece esta asignación también debe tener acceso a la organización de Adobe que se está conectando.
-
-1. Iniciar sesión en [experience.adobe.com](https://experience.adobe.com).
-
-1. Haga clic en la pantalla en cualquier lugar del Experience Cloud y pulse ctrl+i. En el **Organizaciones asignadas** , resalte y copie el ID de organización (_menos_ el &quot;@AdobeOrg&quot;). Press **Cerrar** cuando haya terminado.
-
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
-
-1. En Marketo, vaya a la **Administrador** y seleccione **Asignación de organización de Adobe**.
-
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
-
-1. Haga clic en **Editar**.
-
-   ![](assets/connect-dynamic-chat-to-marketo-8.png)
-
-1. Pegue el identificador de organización que ha copiado en el paso 2 y haga clic en **OK**.
-
-   ![](assets/connect-dynamic-chat-to-marketo-9.png)
-
 >[!MORELIKETHIS]
 >
->[Configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
+>[Configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
