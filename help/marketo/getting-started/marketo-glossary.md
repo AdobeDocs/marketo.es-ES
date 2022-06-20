@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Documentos de Marketo - Documentación del producto
 title: Glosario de Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 2%
 
 ---
@@ -28,19 +28,15 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cuenta</strong></td> 
-   <td colspan="1">Este término puede tener diferentes significados:<br>-La propia instancia de Marketo puede denominarse cuenta de Marketo.<br>-In <strong>ABM</strong>, <strong>Cuenta con nombre</strong> es una cuenta que el usuario ha determinado que es una cuenta de destino que desea buscar.<br>-En ABM, una cuenta de CRM es una cuenta asignada desde el vínculo <strong>CRM</strong> (cuenta en <strong>Salesforce</strong>, <strong>MS Dynamics</strong> o <strong>API</strong>).<br>-En su CRM, las cuentas son la empresa/empresa a la que están asociados los posibles clientes y los contactos.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Marketing basado en cuentas</a> (ABM)</strong></td> 
-   <td colspan="1">Función de complemento que le permite dirigirse a cuentas clave y comprometerlas de forma muy coordinada.</td> 
+   <td colspan="1">Este término puede tener diferentes significados:<br>-La propia instancia de Marketo puede denominarse cuenta de Marketo.<br>-In <strong>TAM</strong>, <strong>Cuenta con nombre</strong> es una cuenta que el usuario ha determinado que es una cuenta de destino que desea buscar.<br>-En TAM, una cuenta de CRM es una cuenta asignada desde el vínculo <strong>CRM</strong> (cuenta en <strong>Salesforce</strong>, <strong>MS Dynamics</strong> o <strong>API</strong>).<br>-En su CRM, las cuentas son la empresa/empresa a la que están asociados los posibles clientes y los contactos.</td> 
   </tr> 
   <tr> 
    <td><strong>Lista de cuentas</strong></td> 
-   <td>Una lista de nombres clave de cuenta/organización. También se conoce como Account-Based Marketing (<strong>ABM</strong>).</td> 
+   <td>Una lista de nombres clave de cuenta/organización. También se conoce como Administración de cuentas de Target (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Perfil de cuenta</strong></td> 
-   <td colspan="1">(anteriormente, AccountAI) En <strong>ABM</strong>, con su Perfil de cliente ideal (ICP), las empresas existentes en su base de datos se clasificarán y las clasificaciones se añadirán como puntuaciones en sus cuentas.</td> 
+   <td colspan="1">(anteriormente, AccountAI) En <strong>TAM</strong>, con su Perfil de cliente ideal (ICP), las empresas existentes en su base de datos se clasificarán y las clasificaciones se añadirán como puntuaciones en sus cuentas.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Puntuación de la cuenta</a></strong></td> 
@@ -320,7 +316,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> Programa de e-mails</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> Programa de emails</strong></a></p> 
     </div></td> 
    <td colspan="1">Tipo de programa en Marketo. Los programas de correo electrónico se utilizan para los envíos de correo electrónico únicos. Puede utilizar <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">Pruebas A/B</a></strong> , así como realizar un seguimiento de los resultados del correo electrónico.<br></td> 
   </tr> 
@@ -574,7 +570,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
  <tbody> 
   <tr> 
    <td><strong>Cuenta nombrada</strong></td> 
-   <td><p>En <strong>ABM</strong>, una cuenta que el usuario ha determinado es una cuenta de destino que desea seguir.</p></td> 
+   <td><p>En <strong>TAM</strong>, una cuenta que el usuario ha determinado es una cuenta de destino que desea seguir.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Programa de cultivo</strong></td> 
@@ -647,7 +643,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">En Marketo <strong>Marketing basado en cuentas</strong>, las personalidades son un subconjunto de una audiencia que permite una segmentación más específica.</td> 
+   <td colspan="1">En Marketo <strong>Administración de cuentas de Target</strong>, las personalidades son un subconjunto de una audiencia que permite una segmentación más específica.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Sondeo</strong></a></td> 
@@ -807,7 +803,11 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Etiquetas</a></strong></td> 
    <td>Identificadores utilizados para describir <strong>programas</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Administración de cuentas de Target</a> (TAM)</strong></td> 
+   <td colspan="1">(anteriormente, Marketing basado en cuentas/ABM) Una función de complemento que le permite dirigirse a cuentas clave y comprometerlas de forma muy coordinada.</td> 
+  </tr>
   <tr> 
    <td><strong>Plantilla</strong></td> 
    <td>Un <strong>email</strong> o <strong>página de aterrizaje</strong> que se utiliza como punto de partida para crear correos electrónicos o páginas de aterrizaje adicionales.</td> 
@@ -881,7 +881,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Personalización web</strong></td> 
-   <td>Función de complemento que proporciona una plataforma de segmentación y personalización, lo que ayuda a los usuarios de Marketo a atraer visitantes conocidos y anónimos en tiempo real, en función de quiénes sean y qué hagan.</td> 
+   <td>Una función de complemento que proporciona una plataforma de segmentación y personalización, lo que ayuda a los usuarios de Marketo a atraer visitantes conocidos y anónimos en tiempo real, en función de quiénes sean y qué hagan.</td> 
   </tr>
   <tr> 
    <td><strong>Seminario web</strong></td> 
