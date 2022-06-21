@@ -2,9 +2,9 @@
 description: Reglas de validación de formularios globales - Documentos de Marketo - Documentación del producto
 title: Reglas globales de validación de formularios
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -70,3 +70,17 @@ Para poder utilizar esta función, debe habilitar su permiso según la función 
 >[!NOTE]
 >
 >Marketo Engage tiene una lista de bloqueados definida de dominios de correo electrónico de consumidor gratuitos que se bloquean al utilizar nuestra regla de &quot;Lista de bloqueados de dominio de correo electrónico de consumidor&quot; precargada. [Ver la lista aquí](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+
+## Deshabilitar el acceso por formulario{#how-to-disable-access-per-form}
+
+Una vez activada, las reglas se aplican a todos los formularios. Sin embargo, si tiene un formulario con requisitos específicos y no desea que se rechace nada, puede desactivar las reglas de validación del formulario global en la configuración de un formulario.
+
+1. En el formulario que desee, haga clic en **Configuración de formulario**, luego **Configuración**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. Haga clic en la lista desplegable Reglas de validación de formulario globales y seleccione **Desactivado**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+Cuando apruebe y publique el formulario, ignorará las reglas de validación del formulario global.
