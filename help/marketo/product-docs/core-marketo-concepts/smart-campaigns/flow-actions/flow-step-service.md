@@ -2,24 +2,16 @@
 description: 'Servicio de pasos de flujo: Documentos de Marketo: Documentación del producto'
 title: Servicio de pasos de flujo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Servicio de pasos de flujo {#flow-step-service}
 
->[!NOTE]
->
->Los pasos de flujo de autoservicio se encuentran actualmente en fase beta abierta. Puede activarlo para su suscripción en el menú Administración > Tesoro de comprobación .
-
-Los pasos de flujo de autoservicio son un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en las campañas inteligentes del Marketo Engage de Adobe. Esta guía está dirigida a los usuarios finales Marketo Engage que deseen instalar y utilizar servicios que ya se hayan creado y publicado. Para obtener información sobre la creación y publicación de su propio servicio, consulte la [Repositorio de GitHub para la interfaz del proveedor de servicios](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Restricciones y advertencias previas al lanzamiento {#pre-release-restrictions-and-warnings}
-
-Actualmente, esta función está en fase beta abierta y solo debe utilizarse en instancias de Marketo Engage de Sandbox hasta que el servicio se haya probado completamente.
+Los pasos de flujo de autoservicio son un marco y un conjunto de funciones para la creación, publicación e integración de servicios web en Adobe Marketo Engage Smart Campaigns. Esta guía está dirigida a los usuarios finales Marketo Engage que deseen instalar y utilizar servicios que ya se hayan creado y publicado. Para obtener información sobre la creación y publicación de su propio servicio, consulte la [Repositorio de GitHub para la interfaz del proveedor de servicios](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Se puede encontrar una implementación de tabla de búsqueda de prueba de concepto [here](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Incorporación y administración de servicios {#onboarding-and-managing-services}
 
