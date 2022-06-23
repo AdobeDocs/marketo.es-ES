@@ -2,9 +2,9 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-7.png)
 
-## Página de detalles de la página de aterrizaje {#landing-page-details-page}
+## Vista de detalles de la página de aterrizaje {#landing-page-details-view}
 
 1. En Marketo, busque y seleccione la página de aterrizaje.
 
@@ -117,14 +117,48 @@ Se cargará la nueva experiencia.
 
 ![](assets/toggle-switch-21.png)
 
+## Vista Detalles del correo electrónico {#email-details-view}
+
+1. En Marketo, busque y seleccione su correo electrónico.
+
+   ![](assets/toggle-switch-22.png)
+
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+
+   ![](assets/toggle-switch-23.png)
+
+Se cargará la nueva experiencia.
+
+![](assets/toggle-switch-24.png)
+
+## Vista de lista de correo electrónico {#email-list-view}
+
+La vista de lista de correo electrónico de última generación ofrece filtros de búsqueda y la capacidad de realizar acciones masivas de correo electrónico.
+
+1. En Marketo, seleccione **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. Select **Correos electrónicos**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. En la parte inferior derecha de la página, haga clic en la **Nueva experiencia** alternar.
+
+   ![](assets/toggle-switch-27.png)
+
+Se cargará la nueva experiencia.
+
+![](assets/toggle-switch-28.png)
+
 ## Habilitar para todas las funciones {#enable-for-all-features}
 
 Tiene la opción de habilitar manualmente la interfaz de próxima generación de Marketo para todas las funciones disponibles, actuales y futuras.
 
 1. En un área que actualmente tiene el conmutador (en este ejemplo estamos en [Página Detalles del formulario](#form-details-page)), haga clic en el icono de engranaje en la parte inferior derecha de la página.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
