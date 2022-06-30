@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Documentos de Marketo - Documentación del producto
 title: Glosario de Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 2%
@@ -23,7 +23,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">Prueba A/B</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Prueba A/B</a></strong></td>
    <td colspan="1">Permite modificar componentes del correo electrónico (por ejemplo, una línea de asunto, una dirección, etc.) y establezca criterios de prueba para determinar qué conjunto de contenido tiene una mejor tarifa.</td> 
   </tr> 
   <tr> 
@@ -854,7 +854,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
    <td>Estado que indica que el destinatario ha elegido no recibir más correos electrónicos de marketing. Las personas marcadas como no suscritas pueden seguir recibiendo <strong>correos electrónicos operativos</strong>.</td> 
   </tr> 
   <tr> 
-   <td><strong>Usuario</strong></td> 
+   <td><strong>de usuario</strong></td> 
    <td>Persona que utiliza Marketo.</td> 
   </tr> 
  </tbody> 

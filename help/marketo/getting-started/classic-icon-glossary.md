@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Glosario de iconos clásicos - Documentos de Marketo - Documentación del producto
 title: Glosario de iconos clásicos
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 23%
+source-wordcount: '564'
+ht-degree: 24%
 
 ---
 
 # Glosario de iconos clásicos {#classic-icon-glossary}
 
-A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glosario de iconos se puede [encontrar aquí](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glosario de iconos puede ser [se encuentra aquí](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Iconos generales**
 
@@ -66,7 +66,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Carpeta de destino que se compartió desde otro espacio de trabajo <br>(el cerrojo indica que no se pueden realizar ediciones)</td> 
+   <td colspan="1">Carpeta de destino compartida desde otro espacio de trabajo <br>(el cerrojo indica que no se pueden realizar ediciones)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -238,7 +238,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-17-3a53-3a28.png"> 
     </div></td> 
-   <td>Conocimiento de ventas</td> 
+   <td>Sales Insight</td> 
   </tr> 
   <tr> 
    <td> 
@@ -266,7 +266,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>Punto de inicio</td> 
+   <td>LaunchPoint</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programa de correo electrónico <br>(Indicador rojo abajo = correo electrónico aún no enviado)</td> 
+   <td>Programa de correo electrónico <br>(Indicador rojo abajo = aún no se ha enviado el correo electrónico)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -694,7 +694,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-12-3a31-3a47.png"> 
     </div></td> 
-   <td>Página de destino. Acciones de página de destino</td> 
+   <td>Página de aterrizaje. Acciones de página de destino</td> 
   </tr> 
   <tr> 
    <td> 
