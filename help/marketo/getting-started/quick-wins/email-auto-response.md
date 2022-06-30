@@ -3,22 +3,21 @@ unique-page-id: 2359416
 description: 'Respuesta automática por correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Respuesta automática de correo electrónico
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
 # Respuesta automática de correo electrónico {#email-auto-response}
 
-## Misión: Envíe un correo electrónico de agradecimiento cuando una persona rellene un formulario {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Misión: Enviar un correo electrónico de agradecimiento cuando una persona rellene un formulario {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
 
 ## Paso 1: Crear un correo electrónico {#step-create-an-email}
@@ -31,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Haga clic en Correo electrónico.
+1. Hacer clic en el email.
 
    ![](assets/three-2.png)
 
@@ -63,35 +62,35 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a55-3a16.png)
 
-## Paso 2: Crear una campaña inteligente {#step-create-a-smart-campaign}
+## Paso 2: Creación de una campaña inteligente {#step-create-a-smart-campaign}
 
-1. Haga clic con el botón derecho en **Mi programa** y haga clic en **Nueva campaña inteligente**.
+1. Clic con el botón derecho **Mi programa** y haga clic en **Nueva campaña inteligente**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **** Asigne un nombre a la campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en  **Crear**.
+1. **Nombre** su campaña inteligente &quot;Campaña de respuesta automática&quot; y haga clic en **Crear**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Vaya a la pestaña **Smart List**.
+1. Vaya a la **Lista inteligente** pestaña .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Estamos configurando esta campaña para que se ejecute siempre que una persona rellene el formulario que ha creado en [**Página de aterrizaje con un Formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+   Estamos configurando esta campaña para que se ejecute siempre que una persona rellene el formulario que ha creado en [**Página de aterrizaje con un formulario**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}.
 
-1. Busque y arrastre el déclencheur **Rellenar formulario** al lienzo izquierdo.
+1. Busque y arrastre el **Rellena el formulario** déclencheur al lienzo izquierdo.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Seleccione **My Form** en la lista desplegable. Haga clic en la pestaña **Flow**.
+1. Select **Mi formulario** en la lista desplegable . Haga clic en el **Flujo** pestaña .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Arrastre la acción de flujo **Send Email** al lienzo izquierdo.
+1. Arrastre el **Enviar correo electrónico** acción de flujo al lienzo izquierdo.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Seleccione su **Auto Response Email** y vaya a la pestaña **Schedule**.
+1. Seleccione su **Correo electrónico de respuesta automática** y vaya a **Programación** pestaña .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
@@ -99,7 +98,7 @@ ht-degree: 0%
 
    ![](assets/8.png)
 
-1. Seleccione **each time** y haga clic en **Save**.
+1. Select **cada vez** y haga clic en **Guardar**.
 
    ![](assets/9.png)
 
@@ -107,7 +106,7 @@ ht-degree: 0%
 
    ![](assets/10.png)
 
-1. Haga clic en **Activate** en la pantalla de confirmación.
+1. Haga clic en **Activar** en la pantalla de confirmación.
 
    ![](assets/11.png)
 
@@ -115,9 +114,9 @@ ht-degree: 0%
 >
 >Una vez activa, esta campaña se ejecutará cada vez que una persona rellene el formulario especificado. La campaña seguirá ejecutándose hasta que se desactive.
 
-## Paso 3: Rellene el formulario {#step-fill-out-the-form}
+## Paso 3: Rellenar el formulario {#step-fill-out-the-form}
 
-1. Seleccione **My Page**. Esto se creó en la [Página de aterrizaje con una victoria rápida de Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
+1. Select **Mi página**. Se creó en la variable [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} victoria rápida.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -127,7 +126,7 @@ ht-degree: 0%
 
    La página de aterrizaje &quot;Prueba gratuita&quot; se abrirá en una pestaña nueva.
 
-1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **Enviar**.
+1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **Submit**.
 
    ![](assets/image2014-9-24-12-3a0-3a28.png)
 
@@ -135,7 +134,7 @@ ht-degree: 0%
 >
 >Asegúrese de utilizar su dirección de correo electrónico real para obtener el correo electrónico.
 
-## Misión completada {#mission-complete}
+## Misión finalizada {#mission-complete}
 
 En solo unos minutos debería ver el correo electrónico de respuesta automática en su bandeja de entrada. ¡bueno trabajo!
 
@@ -143,4 +142,4 @@ En solo unos minutos debería ver el correo electrónico de respuesta automátic
 
 [◄ Misión 3: Puntuación simple](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Misión 5: Importar una lista de posibles clientes ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Misión 5: Importar una lista de personas ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

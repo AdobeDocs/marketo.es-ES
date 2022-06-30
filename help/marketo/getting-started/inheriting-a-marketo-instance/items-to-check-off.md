@@ -3,28 +3,25 @@ unique-page-id: 7516605
 description: 'Elementos para comprobar: Documentos de Marketo: Documentación del producto'
 title: Elementos que desproteger
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-# Elementos para desmarcar {#items-to-check-off}
-
-![](assets/life-preserver.jpg)
+# Elementos que desproteger {#items-to-check-off}
 
 Asegúrese de que está correctamente configurado con los tipos de acceso e información correctos. Realice estos sencillos pasos para que pueda comprobar algunas cosas de su lista de tareas pendientes de inmediato.
 
-* Vea una breve descripción de [**lo que hace Marketo**](https://pages2.marketo.com/demoFull.html).
+* Vea una breve descripción general de [**qué hace Marketo**](https://pages2.marketo.com/demoFull.html){target=&quot;_blank&quot;}.
 
-* **Configure su** perfil en  [**Marketing**](https://nation.marketo.com/) Nationcommunity (se requiere nombre de usuario y contraseña).
+* **Configurar el perfil** en el [**Nación de marketing**](https://nation.marketo.com/)Comunidad {target=&quot;_blank&quot;} (se requiere nombre de usuario y contraseña).
 
-* Aprenda a interactuar con la comunidad [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) para obtener respuestas a sus preguntas.
+* Aprenda a interactuar con el [**Nación de marketing**](https://nation.marketo.com/t5/About-Community/ct-p/about-community)Comunidad {target=&quot;_blank&quot;} para obtener respuestas a sus preguntas.
 
-* Haga clic en **Your Places** en el perfil de la comunidad de Marketo Nation para echar un vistazo a la página de la cuenta de su empresa.
+* Haga clic en **Sus lugares** en su perfil de comunidad de Marketo Nation para consultar la página de cuentas de su empresa.
 
-* Obtenga información sobre cómo [**enviar un caso de soporte**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) (y confirme que está [**configurado como contacto de soporte autorizado**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)).
+* Obtenga información sobre cómo [**enviar un caso de asistencia**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target=&quot;_blank&quot;} (y confirme que está [**configurar como contacto de asistencia autorizado**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}).
 
-* [**Administre**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) usuarios y elimine los que hayan abandonado su empresa.
+* [**Administración de usuarios**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target=&quot;_blank&quot;} y elimine los que hayan abandonado su empresa.

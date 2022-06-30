@@ -3,41 +3,40 @@ unique-page-id: 2359420
 description: Perforación, Perforación, Aurtura - Marketo Docs - Documentación del producto
 title: Perforación, Perforación
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
 # Perforación, Perforación {#drip-drip-nurture}
 
-## Misión: Aprenda a las personas que asistieron a su reciente feria comercial {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## Misión: Entender a las personas que asistieron a su reciente feria {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
 Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Marketo. ¡Así es!
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 ## Paso 1: Crear un programa de participación {#step-create-an-engagement-program}
 
-1. Vaya al área **Marketing Activities** .
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/one-3.png)
 
-1. Seleccione la carpeta **Learning**, haga clic en la lista desplegable **New** y seleccione **New Program**.
+1. Seleccione el **Aprendizaje** , haga clic en el botón **Nuevo** y seleccione **Nuevo programa**.
 
    ![](assets/two-4.png)
 
-1. Introduzca un **Name** y seleccione **Engagement** para el **Program Type**.
+1. Escriba un **Nombre** y seleccione **Participación** para el **Tipo de programa**.
 
    ![](assets/three-3.png)
 
-1. Asegúrese de que el campo **Channel** es **Nurture** y haga clic en **Create**.
+1. Asegúrese de que la variable **Canal** el campo es **Nurtura** y haga clic en **Crear**.
 
    ![](assets/four-2.png)
 
@@ -45,31 +44,31 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 ## Paso 2: Crear un correo electrónico {#step-create-an-email}
 
-1. Seleccione su programa de participación, haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
+1. Seleccione su programa de participación y haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/five-3.png)
 
-1. Haga clic en **Email**.
+1. Haga clic en **Correo electrónico**.
 
    ![](assets/six-3.png)
 
-1. Introduzca un **Name**, seleccione la **Template** que desee utilizar y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione **Plantilla** desea utilizar y haga clic en **Crear**.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >¿No ve el editor de correo electrónico? Es probable que el navegador haya bloqueado la ventana. Habilite las ventanas emergentes de [app.marketo.com](https://app.marketo.com) en el explorador y haga clic en **Editar borrador** en la barra de menú superior.
+   >¿No ve el editor de correo electrónico? Es probable que el navegador haya bloqueado la ventana. Habilitar ventanas emergentes de `app.marketo.com` en el explorador y haga clic en **Editar borrador** en la barra de menús superior.
 
 1. Introduzca un asunto.
 
    ![](assets/eight-2.png)
 
-1. Seleccione el área del correo electrónico que desea editar, haga clic en el icono del engranaje y seleccione **Editar**.
+1. Seleccione el área del correo electrónico que desea editar, haga clic en el icono de engranaje y seleccione **Editar**.
 
    ![](assets/nine-1.png)
 
-1. Edite el correo electrónico y haga clic en **Save**.
+1. Edite el correo electrónico y haga clic en **Guardar**.
 
    ![](assets/ten-3.png)
 
@@ -93,7 +92,7 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 1. Ahora es el momento de crear un flujo de contenido para su programa de participación mediante los correos electrónicos que ha creado.
 
-1. Seleccione su programa de participación y haga clic en la pestaña **Streams**.
+1. Seleccione su programa de participación y haga clic en el **Transmisiones** pestaña .
 
    ![](assets/fourteen-2.png)
 
@@ -103,7 +102,7 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
    >[!TIP]
    >
-   >También puede utilizar el botón **Añadir contenido** o el icono de flujo **+**.
+   >También puede usar la variable **Añadir contenido** o la secuencia **+** icono.
 
 ## Paso 4: Activar el contenido del flujo {#step-activate-stream-content}
 
@@ -117,7 +116,7 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
    ¡bueno trabajo! Un paso más y el programa de participación está listo.
 
-## Paso 5: Establecer la secuencia de flujo {#step-set-the-stream-cadence}
+## Paso 5: Definición de la secuencia {#step-set-the-stream-cadence}
 
 1. Haga clic en **Establecer secuencia de flujo**.
 
@@ -135,7 +134,7 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 ## Paso 6: Agregar una persona de prueba al programa de participación {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vaya al área **Database**.
+1. Vaya a la **Base de datos** .
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +150,7 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
    ![](assets/twenty-one.png)
 
-1. Seleccione su **Program** y **Stream** y haga clic en **Run Now**.
+1. Seleccione su **Programa** y **Flujo** y haga clic en **Ejecutar ahora**.
 
    ![](assets/twenty-two.png)
 
@@ -161,10 +160,12 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
    >[!NOTE]
    >
-   >Obtenga más información sobre [Programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >Más información sobre [Programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}.
+
+## ¡Misión finalizada! {#mission-complete}
 
 <br> 
 
-[◄ Misión 5: Importar una lista de posibles clientes](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Misión 5: Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [Misión 7: Personalización de un correo electrónico ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

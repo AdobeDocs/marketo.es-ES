@@ -3,10 +3,9 @@ unique-page-id: 7513680
 description: 'Automatizar una alerta para posibles personas duplicadas: Documentos de Marketo: Documentación del producto'
 title: Automatizar una alerta para posibles personas duplicadas
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -15,10 +14,10 @@ ht-degree: 0%
 
 ¿Desea crear una alerta cada vez que se cree una persona duplicada? A continuación se muestra cómo configurar una campaña inteligente para hacerlo.
 
-1. [Cree una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Defina la siguiente lista inteligente:
+1. [Crear una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}. Defina la siguiente lista inteligente:
 
-* Déclencheur: **La persona es creada**
-* Filtro: **Campos duplicados.** Nombre de campo  **es Nombre completo**
+* Déclencheur: **Se crea la persona**
+* Filtro: **Duplicar campos.** Nombre del campo **es Nombre completo**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +25,13 @@ ht-degree: 0%
    >
    >Sé creativo. Experimente con diferentes campos para obtener mejores resultados de filtrado.
 
-1. En el paso de flujo, seleccione la acción de flujo [Send Alert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md).
+1. En el paso de flujo, seleccione [Enviar alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)Acción de flujo {target=&quot;_blank&quot;}.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Usar el [Send Alert Info token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) para incluir un vínculo a la persona en el CRM.
+   >Al usar la variable [Enviar token de información de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;} para incluir un vínculo a la persona en su CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +39,7 @@ ht-degree: 0%
    >
    >Además, dos personas con el mismo nombre no significa automáticamente que sean la misma persona.
 
-1. Active la campaña en la pestaña **Schedule**.
+1. Active la campaña en la **Programación** pestaña .
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
@@ -48,4 +47,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Buscar y combinar personas duplicadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+>[Buscar y combinar personas duplicadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target=&quot;_blank&quot;}

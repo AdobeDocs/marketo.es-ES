@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 'Importar una lista de personas: Marketo Docs: documentación del producto'
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 En este tutorial, aprenderá a importar personas de un archivo de hoja de cálculo en Marketo.
 
 ## Paso 1: Descargar y editar una hoja de cálculo {#step-download-and-edit-a-spreadsheet}
 
-1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) al equipo.
+1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) en el equipo.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -62,7 +62,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 >[!NOTE]
 >
->Los programas de eventos se producen en fechas específicas. Más información sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Los programas de eventos se producen en fechas específicas. Más información sobre [**Eventos**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}.
 
 ## Paso 3: Importar la hoja de cálculo en Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -78,7 +78,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. En su **Asistentes a la feria comercial** lista, haga clic en **Acciones de lista** y seleccione **Lista de importación**.
+1. En **Asistentes a la feria comercial** lista, haga clic en **Acciones de lista** y seleccione **Lista de importación**.
 
    ![](assets/ten-2.png)
 
@@ -109,7 +109,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
    >[!TIP]
    >
-   >Los encabezados de columna siempre deben coincidir exactamente con el campo (con distinción de mayúsculas y minúsculas) para lograr los mejores resultados de asignación automática. Si está utilizando campos personalizados y no los ve en la lista desplegable, vuelva atrás y [créelos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para que puedan convertirse en opciones.
+   >Los encabezados de columna siempre deben coincidir exactamente con el campo (con distinción de mayúsculas y minúsculas) para lograr los mejores resultados de asignación automática. Si está utilizando campos personalizados y no los ve en la lista desplegable, vuelva atrás y [créelos](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;} para que puedan convertirse en opciones.
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 >[!NOTE]
 >
->Puede analizar el éxito del programa realizando un seguimiento de la pertenencia a este. Más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>Puede analizar el éxito del programa realizando un seguimiento de la pertenencia a este. Más información sobre [**Programas**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}.
 
 ## Misión finalizada {#mission-complete}
 

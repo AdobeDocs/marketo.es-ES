@@ -3,10 +3,9 @@ unique-page-id: 2359410
 description: 'Envío de un correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Enviar un correo electrónico
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,19 +16,19 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 >[!PREREQUISITES]
 >
->[Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 ## Crear un programa de correo electrónico {#create-an-email-program}
 
-1. Vaya al área **Marketing Activities** .
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/one-1.png)
 
-1. Seleccione la carpeta **Learning**. Haga clic en la lista desplegable **New** y seleccione **New Program**.
+1. Seleccione su **Aprendizaje** carpeta. Haga clic en el **Nuevo** y seleccione **Nuevo programa**.
 
    ![](assets/two-1.png)
 
-1. Introduzca un **Name** y seleccione **Email** para **Program Type.**
+1. Escriba un **Nombre** y seleccione **Correo electrónico** para **Tipo de programa.**
 
    >[!TIP]
    >
@@ -37,11 +36,11 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    ![](assets/three.png)
 
-1. En **Channel**, seleccione **Email Send** y haga clic en **Create**.
+1. En **Canal**, seleccione **Envío de correo electrónico** y haga clic en **Crear**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Defina su audiencia {#define-your-audience}
+## Definir la audiencia {#define-your-audience}
 
 1. Haga clic en **Editar lista inteligente** en el mosaico Audiencia .
 
@@ -53,7 +52,7 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    >[!TIP]
    >
-   >Utilice **Buscar** en la parte superior de la lista Filtros para encontrar el filtro más fácilmente.
+   >Uso **Buscar** en la parte superior de la lista Filtros para encontrar el filtro más fácilmente.
 
 1. Busque y seleccione su dirección de correo electrónico.
 
@@ -61,7 +60,7 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    >[!NOTE]
    >
-   >Si el correo electrónico no se rellena automáticamente, es posible que haya olvidado [Configurar y agregar un posible cliente.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Si el correo electrónico no se rellena automáticamente, es posible que haya olvidado hacerlo [Obtener configuración y agregar un posible cliente.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
    >[!NOTE]
    >
@@ -75,11 +74,11 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 ## Crear un correo electrónico {#create-an-email}
 
-1. En el mosaico Correo electrónico, haga clic en **Nuevo correo electrónico**.
+1. En el mosaico Correo electrónico , haga clic en **Nuevo correo electrónico**.
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Introduzca un **Name**, seleccione una **Template** y haga clic en **Crear**.
+1. Escriba un **Nombre**, seleccione un **Plantilla** y haga clic en **Crear**.
 
    ![](assets/ten-1.png)
 
@@ -91,11 +90,11 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
    >
    >Si tiene un bloqueador de ventanas emergentes, haga clic en **Editar borrador** para introducir el editor de correo electrónico.
 
-1. Seleccione el área que desee editar, haga clic en el icono de engranaje de la derecha y, a continuación, seleccione **Editar** (también puede hacer doble clic en la sección editable para editarla).
+1. Seleccione el área que desea editar, haga clic en el icono de engranaje de la derecha y, a continuación, seleccione **Editar** (también puede hacer doble clic en la sección editable para editarla).
 
    ![](assets/twelve.png)
 
-1. Introduzca el contenido que desea y haga clic en **Save**.
+1. Introduzca el contenido que desea y haga clic en **Guardar**.
 
    ![](assets/thirteen.png)
 
@@ -103,13 +102,13 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    ![](assets/fourteen.png)
 
-1. Haga clic en la lista desplegable **Email Actions** y seleccione **Approve**.
+1. Haga clic en el **Acciones de correo electrónico** y seleccione **Aprobar**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >¿Quiere enviar una muestra rápida para ver el aspecto del correo electrónico antes del lanzamiento? Seleccione **Send Sample** en el menú de arriba o haga clic en **Email Actions** y, a continuación, en [**Send Sample**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
+   >¿Quiere enviar una muestra rápida para ver el aspecto del correo electrónico antes del lanzamiento? Select **Enviar muestra** en el menú de arriba, o haga clic en **Acciones de correo electrónico** then [**Enviar muestra**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target=&quot;_blank&quot;}.
 
 1. Seleccione el programa de correo electrónico en el árbol de la izquierda.
 
@@ -125,16 +124,18 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
    >[!TIP]
    >
-   >¿La zona horaria predeterminada no es tuya? Obtenga información sobre cómo [actualizarlo aquí](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+   >¿La zona horaria predeterminada no es tuya? Obtenga información sobre cómo [actualícelo aquí](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target=&quot;_blank&quot;}.
 
-1. Haga clic en **Aprobar programa** en el mosaico Aprobación y ¡ya ha terminado!
+1. Haga clic en **Aprobar programa** en el mosaico Aprobación y ya has terminado.
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
 Debe recibir el correo electrónico poco después del día/hora programados.
 
+## ¡Misión finalizada! {#mission-complete}
+
 <br> 
 
-[◄ Configurar y agregar un posible cliente](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[Página de aterrizaje con un formulario ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Misión 2: Página de aterrizaje con un formulario ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

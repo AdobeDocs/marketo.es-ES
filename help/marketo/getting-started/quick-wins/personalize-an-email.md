@@ -3,28 +3,27 @@ unique-page-id: 2359422
 description: 'Personalización de un correo electrónico: documentos de Marketo: documentación del producto'
 title: Personalización de un correo electrónico
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
 # Personalización de un correo electrónico {#personalize-an-email}
 
-## Misión: Conversión de sus correos electrónicos en personales añadiendo tokens de datos {#mission-make-your-emails-personal-by-adding-data-tokens}
+## Misión: Conversión de correos electrónicos en personales añadiendo tokens de datos {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
->* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Enviar una explosión de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [Perforación, Perforación](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [Configurar y agregar una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Enviar una explosión de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
+>* [Perforación, Perforación](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
 
 
 ## Paso 1: Seleccionar un correo electrónico para personalizar {#step-select-an-email-to-personalize}
 
-1. Seleccione uno de los correos electrónicos de formación creados en la [victoria rápida anterior](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) y haga clic en **Editar borrador**.
+1. Seleccione uno de los correos electrónicos de formación creados en la [victoria rápida anterior](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} y haga clic en **Editar borrador**.
 
    ![](assets/one-4.png)
 
@@ -34,51 +33,51 @@ ht-degree: 0%
 
 Si no ha habilitado un bloqueador de ventanas emergentes, el editor de correo electrónico se abrirá en una nueva pestaña o ventana. De lo contrario, haga clic en **Editar borrador** dos veces.
 
-## Paso 2: Conversión del vendedor en el remitente {#step-make-the-salesperson-the-sender}
+## Paso 2: Convertir al vendedor en el remitente {#step-make-the-salesperson-the-sender}
 
-1. Seleccione el campo **From**, resalte y **elimine** el nombre actual.
+1. Seleccione el **De** campo, resaltado y **delete** el nombre actual.
 
    ![](assets/two-5.png)
 
-1. Haga clic en el icono **Token** a la derecha del campo **From**.
+1. Haga clic en el **Token** a la derecha del **De** campo .
 
    ![](assets/three-4.png)
 
-1. Busque y seleccione el token **`{{lead.Lead Owner First Name}}`**.
+1. Busque y seleccione el **`{{lead.Lead Owner First Name}}`** token.
 
    ![](assets/four-3.png)
 
-1. Escriba el nombre de su empresa y un guión para el **Valor predeterminado** para asegurarse de que se muestre algo en caso de que el nombre del representante de venta no esté disponible. Haga clic en **Insert**.
+1. Escriba el nombre de su empresa y un guión para la **Valor predeterminado** para garantizar que se muestre algo en caso de que el nombre del representante de venta no esté disponible. Haga clic en **Insertar**.
 
    ![](assets/five-4.png)
 
-1. Pulse la barra espaciadora en el campo **From**, asegurándose de que el cursor parpadea un espacio después del token que acaba de insertar. A continuación, haga clic de nuevo en el icono **Token**.
+1. Pulse la barra espaciadora de la **De** , asegúrese de que el cursor parpadea un espacio después del token que acaba de insertar. A continuación, haga clic en el **Token** de nuevo.
 
    ![](assets/six-4.png)
 
-1. Busque y seleccione el token **`{{lead.Lead Owner Last Name}}`**.
+1. Busque y seleccione el **`{{lead.Lead Owner Last Name}}`** token.
 
    ![](assets/seven-5.png)
 
-1. Escriba &quot;Ventas&quot; para el **Valor predeterminado** y haga clic en **Insertar**.
+1. Escriba &quot;Ventas&quot; para la variable **Valor predeterminado** y haga clic en **Insertar**.
 
    ![](assets/eight-3.png)
 
-## Paso 3: Agregue el nombre del posible cliente al correo electrónico {#step-add-the-leads-name-to-the-email}
+## Paso 3: Añadir el nombre del posible cliente al correo electrónico {#step-add-the-leads-name-to-the-email}
 
-1. Seleccione la sección editable superior, haga clic en el icono del engranaje y seleccione **Editar**.
+1. Seleccione la sección editable superior, haga clic en el icono de engranaje y seleccione **Editar**.
 
    ![](assets/nine-2.png)
 
-1. Añada un espacio después de &quot;Hello&quot; y coloque el cursor delante de la coma y, a continuación, haga clic en el icono **Insert Token**.
+1. Añada un espacio después de &quot;Hello&quot; y coloque el cursor delante de la coma y, a continuación, haga clic en el botón **Insertar token** icono.
 
    ![](assets/ten-4.png)
 
-1. Busque y seleccione el token **`{{lead.First Name}}`**.
+1. Busque y seleccione el **`{{lead.First Name}}`** token.
 
    ![](assets/eleven-4.png)
 
-1. Introduzca &quot;Amigo&quot; (o cualquier etiqueta que desee) en el campo **Valor predeterminado** y haga clic en **Insertar**.
+1. Escriba &quot;Amigo&quot; (o cualquier etiqueta que desee) en el **Valor predeterminado** y haga clic en **Insertar**.
 
    ![](assets/twelve-3.png)
 
@@ -100,9 +99,9 @@ Si no ha habilitado un bloqueador de ventanas emergentes, el editor de correo el
 
 >[!TIP]
 >
->¿Necesita un repaso rápido sobre cómo enviarse el correo electrónico? Consulte [Enviar un mensaje de correo electrónico ](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>¿Necesita un repaso rápido sobre cómo enviarse el correo electrónico? Consulte [Enviar una explosión de correo electrónico](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
 
-### Misión completada {#mission-complete}
+### Misión finalizada {#mission-complete}
 
 ¡Felicidades, has personalizado tu correo electrónico!
 

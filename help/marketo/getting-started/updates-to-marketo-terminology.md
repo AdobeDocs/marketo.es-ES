@@ -2,16 +2,14 @@
 unique-page-id: 11387674
 description: 'Actualizaciones de la terminología de Marketo: Marketo Docs: Documentación del producto'
 title: Actualizaciones de la terminología de Marketo
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 1%
 
 ---
 
-
-# Actualizaciones en la terminología de Marketo {#updates-to-marketo-terminology}
+# Actualizaciones de la terminología de Marketo {#updates-to-marketo-terminology}
 
 Estamos realizando algunos cambios en nuestra plataforma, que afectarán a lo que se llama algunas cosas. Si tiene una nueva instancia de Marketo a partir de marzo de 2016 o si su empresa se ha renovado después de julio de 2016, es posible que ahora esté viendo la nueva terminología.
 
@@ -71,17 +69,17 @@ En algunos casos, la palabra &quot;posible cliente&quot; se elimina simplemente.
  </tbody> 
 </table>
 
-El posible cliente y la persona **son lo mismo**.
+Posible cliente y persona **son lo mismo**.
 
 ## Tokens {#tokens}
 
-Los tokens con la palabra &quot;lead&quot; **no cambian**. Pedimos disculpas por cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería un montón de tokens actualmente en uso. Por lo tanto, seguirá viendo tokens como &quot;`{{lead.First Name}}`&quot;. No hay tokens específicos de persona.
+Tokens con la palabra &quot;lead&quot; en ellos **no están cambiando**. Pedimos disculpas por cualquier confusión; sin embargo, cambiar todos los tokens para que coincidan con la nueva terminología rompería un montón de tokens actualmente en uso. Por lo tanto, seguirá viendo tokens como &quot;`{{lead.First Name}}`.&quot; No hay tokens específicos de persona.
 
 >[!NOTE]
 >
->Hay *es* un token llamado &quot;Notas de persona&quot;, aunque ese token siempre estaba allí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hace.
+>Ahí *es* un token llamado &quot;Notas de persona&quot;, sin embargo, ese token siempre estaba allí. Normalmente se utiliza para un campo de descripción en su CRM, si es que lo hace.
 
-## Administración de campos {#field-management}
+## Gestión de las actividades sobre el terreno {#field-management}
 
 Los campos que contenían el término Posible cliente se han sustituido por Persona o la palabra Posible cliente se ha eliminado. Sin embargo, una excepción notable es el campo &quot;Propietario del posible cliente&quot;. Ahora se conoce como &quot;Propietario de ventas&quot;.
 
@@ -110,9 +108,9 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 >[!NOTE]
 >
->Para obtener una lista completa de los nombres de campo afectados, visite este [Artículo de soporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>Para obtener una lista completa de los nombres de campo afectados, visite esta [Artículo de asistencia](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
 
-## La personalización en tiempo real (RTP) es ahora personalización web {#real-time-personalization-rtp-is-now-web-personalization}
+## La personalización en tiempo real (RTP) ya es personalización web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,11 +137,11 @@ Los campos que contenían el término Posible cliente se han sustituido por Pers
 
 Además del cambio de nombre, ahora consta de cuatro aplicaciones independientes:
 
-| ** [Personalización web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Tiene su propio mosaico en la pantalla de inicio |
+| **[Personalización web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Tiene su propio mosaico en la pantalla de inicio |
 |---|---|
-| ** [Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Accesible a través del mosaico Personalización web |
-| ** [Redireccionamiento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Accesible a través del mosaico Personalización web |
-| ** [Contenido predictivo](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Tiene su propio mosaico en la pantalla de inicio |
+| **[Marketing web basado en cuentas](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Accesible a través del mosaico Personalización web |
+| **[Redireccionamiento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Accesible a través del mosaico Personalización web |
+| **[Contenido predictivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Tiene su propio mosaico en la pantalla de inicio |
 
 >[!NOTE]
 >

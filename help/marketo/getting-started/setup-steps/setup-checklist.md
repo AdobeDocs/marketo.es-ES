@@ -3,24 +3,23 @@ unique-page-id: 2949471
 description: Lista de comprobación de configuración - Documentos de Marketo - Documentación del producto
 title: Lista de comprobación de configuración
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
 # Lista de comprobación de configuración {#setup-checklist}
 
-¡Bienvenido a Marketo! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Puede encontrar más información en [Pasos de configuración](/help/marketo/getting-started/setup-steps.md).
+Le damos la bienvenida a Marketo! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Los detalles se encuentran en [Pasos de configuración](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
 
-## Inicie sesión en Marketo y cree usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
+## Inicio de sesión en Marketo y creación de usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
 
 1. Iniciar sesión en Marketo
 1. Crear usuarios adicionales
 
-## Configure un contacto de soporte autorizado {#set-up-an-authorized-support-contact}
+## Configurar un contacto de asistencia autorizado {#set-up-an-authorized-support-contact}
 
 1. Configurar un contacto de asistencia autorizado
 1. Personalizar direcciones URL de páginas de aterrizaje
@@ -28,7 +27,7 @@ ht-degree: 0%
 1. Solicite a TI que cree un registro DNS para su CNAME de página de aterrizaje
 1. Cuando haya terminado, configure el nombre de dominio de la página de aterrizaje en Marketo
 
-## Garantizar la capacidad de envío de correo electrónico {#ensure-email-deliverability}
+## Garantizar la capacidad de entrega de correos electrónicos {#ensure-email-deliverability}
 
 1. Seleccionar un CNAME de correo electrónico para vínculos de seguimiento de marca
 1. Solicite a TI que configure un registro DNS para su CNAME de correo electrónico
@@ -51,4 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Pasos de configuración](/help/marketo/getting-started/setup-steps.md)
+>[Pasos de configuración](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
