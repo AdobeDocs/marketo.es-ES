@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Configurar la perspectiva de ventas de Marketo en Salesforce Professional Edition - Marketo Docs - Documentación del producto
 title: Configurar Marketo Sales Insight en Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 3%
 
 ---
@@ -295,8 +295,6 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
 ## Acceso a la perspectiva de ventas de Marketo {#access-marketo-sales-insight}
 
 1. En Salesforce, haga clic en la **+** al final de la barra de pestañas y haga clic en **Configuración de perspectiva de ventas de Marketo**.
-
-1. Seleccione el **Habilitar la API de Marketo** casilla de verificación.
 
 1. Copie las credenciales del panel API de Soap en la página de administración de Sales Insight de Marketo y péguelas en la sección API de Soap de la página Configuración de Salesforce Sales Insight .
 
