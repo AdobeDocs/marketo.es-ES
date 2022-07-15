@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 2%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Guía de Marketo {#using}
 
-+ [Página principal](home.md)
++ [Inicio](home.md)
 + Introducción a Marketo {#getting-started-with-marketo}
    + [Introducción](getting-started.md)
    + [¿Qué es Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
@@ -630,6 +630,8 @@ ht-degree: 2%
             + [Editar un canal de eventos](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Socios de eventos](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Explicación de los programas de eventos](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [Configuración de un límite de eventos](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [Configuración de objetivos de evento](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + Crear un evento {#create-an-event}
             + [Creación de un evento con Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Crear un evento con el seminario web de Goto](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -1426,7 +1428,7 @@ ht-degree: 2%
          + Desinstalación {#uninstalling}
             + [Deshabilitar sincronización global de MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [Desinstalar MSI de su instancia de MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + Actualización {#updating}
+         + Actualizando {#updating}
             + [Actualización de la solución de perspectivas de ventas de Marketo para Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI para Salesforce {#msi-for-salesforce}
          + Instalación {#installation}
