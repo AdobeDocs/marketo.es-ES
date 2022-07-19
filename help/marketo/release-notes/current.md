@@ -2,77 +2,66 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
+source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Junio de 2022 {#release-notes-june-22}
+# Notas de la versión: Agosto de 2022 {#release-notes-aug-22}
 
-A continuación encontrará todas las funciones incluidas en la versión del 22 de junio. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión del 22 de agosto. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
 >Funciones denotadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
-Las siguientes funciones empezarán a lanzarse en **24 de junio de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes (a menos que se especifique lo contrario).
-
-## Entorno de datos de marketing {#marketing-data-environment}
-
-* **Exponer campos de CreatedAt/UpdatedAt para objetos personalizados**: Permite inspeccionar estos campos en la pantalla Detalle de persona para obtener información adicional.
+Las siguientes funciones empezarán a lanzarse en **19 de agosto de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes (a menos que se especifique lo contrario). Las funciones de la versión y las fechas exactas están sujetas a cambios.
 
 ## Organización en canales múltiples {#cross-channel-orchestration}
 
-* **Se ha mejorado la facilidad de uso del Diseñador de flujos para la conversación dinámica**: Añada tarjetas directamente desde el lienzo del Diseñador de secuencias sin necesidad de arrastrar y soltar. La interfaz de chat dinámico también se ha mejorado para ofrecer una mejor visibilidad del contenido en tarjetas individuales.
+* **Habilitar/deshabilitar todos los cuadros de diálogo publicados a la vez para el chat dinámico**: Habilite/deshabilite globalmente todos los cuadros de diálogo publicados a la vez desde la página Configuración con solo pulsar un botón.
 
-* **Reglas de enrutamiento de citas avanzadas para chat dinámico**: Dynamic Chat ofrece más opciones para el enrutamiento de citas con objetivo. Especifique las citas del agente que deben enrutarse en función de los atributos del Marketo Engage, asegurándose de que los posibles clientes se dirijan a los agentes adecuados.
+* **Avatares personalizados para Dynamic Chat**: Cargue un avatar de bots de chat personalizado para que se pueda personalizar para su marca.
 
-* **Informes de diálogos avanzados para la conversación dinámica**: Vea en bueno detalle el rendimiento de sus campañas de chat dinámico mediante las visualizaciones de datos nuevas para métricas de participación y conversión.
-
-* **Desincronizar atributos de Marketo Engage no utilizados para Dynamic Chat**: Desincronice los atributos de Marketo Engage de su suscripción de Dynamic Chat que no se utilicen, lo que le ayudará a facilitar la limpieza de los datos y le permitirá sincronizar atributos alternativos según sea necesario.
+* **Transcripciones de chat para Dynamic Chat**: Vea las transcripciones de chat de cada conversación para obtener una perspectiva más profunda de en qué está interesado cada visitante de la web.
 
 ## Experiencia de próxima generación
 
-**Nuevas vistas del conmutador**: Las siguientes vistas ya están disponibles en la Experiencia de próxima generación:
+* **Promoción de la marca de Adobe**: Se ha actualizado la apariencia para editores y la página de detalles de personas con la nueva marca Adobe Experience Cloud.
 
-* [Vista Detalles del correo electrónico](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [Vista de lista de correo electrónico](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* **Mostrar la jerarquía de carpetas de la carpeta de destino en el cuadro de diálogo Mover**: Al ver la jerarquía de carpetas de cada carpeta, es más fácil mover recursos y se reduce la probabilidad de colocarlos en la carpeta incorrecta.
+
+>[!NOTE]
+>
+>La excepción es mover un recurso a una carpeta dentro de un programa en Actividades de marketing. Esta acción de mover no mostrará la jerarquía de carpetas como carpetas dentro de un programa que no puedan tener nombres duplicados.
 
 ## Automatización de la experiencia {#experience-automation}
 
-* **Exclusiones de reglas de validación de campos de formulario globales**: Excluya formularios específicos de las reglas de validación del formulario global, de modo que los centros de suscripción y otros flujos de trabajo críticos para la empresa puedan aceptar todos los valores.
+* **Pasos del flujo de autoservicio: mejoras en la importación de programas**: Se ha mejorado la compatibilidad con la importación de programas con pasos de flujo personalizados, en los que ahora puede utilizar varias instancias del mismo proveedor de servicios y programas de importación que tengan pasos de flujo compatibles con dichos proveedores de servicios.
 
-* **Pasos de flujo de autoservicio**: Amplíe la conectividad entre el Marketo Engage y el resto de la pila con la capacidad de crear pasos de flujo personalizados para utilizarlos en campañas inteligentes. Tanto los usuarios como los socios Marketo Engage pueden aprovechar esta funcionalidad para permitir el uso de servicios web externos en campañas de Déclencheur, por lotes y ejecutables, a diferencia de los Webhooks, que solo se pueden usar en campañas de Déclencheur.
+* **Munchkin: Seguimiento de vínculos ampliado**: Ampliación de la compatibilidad con el seguimiento de `tel` y `mailto` vínculos con Munchkin para realizar el seguimiento de un conjunto ampliado de comportamientos web.
 
-* **Protocolo Munchkin Seguimiento de vínculos agnósticos**: Ampliación de la compatibilidad con el seguimiento de `tel` y `mailto` vínculos con Munchkin para realizar un seguimiento de un conjunto ampliado de comportamientos web.
+* **Visibilidad del encabezado personalizado Weblink**: Los encabezados personalizados de Weblock ahora se muestran en la pestaña Administración > Webhooks para obtener una mejor visibilidad.
 
-* **Métodos HTTP adicionales para los enlaces web**: Especifique PUT, PATCH y DELETE como tipos de solicitud para interactuar con los servicios web.
+* **CAPTCHA**: Evalúe la validez de los envíos de formularios utilizando reCAPTCHA v3 para puntuar el tráfico de formularios entrantes. Cree flujos de trabajo de marketing para excluir, poner en cuarentena o eliminar automáticamente el tráfico de bots sospechoso.
 
-## Sales Insight {#sales-insight}
+* **Permiso para aprobar el formulario**: Nuevo permiso para controlar qué diseñadores pueden aprobar cambios en un formulario en línea con otros recursos de Design Studio. Esto evita que otros diseñadores inserten cambios en los formularios sin que otra persona con permiso de aprobación lo revise.
 
-![(estrella)](assets/yellow-star.png)
+* **Realizar siempre la reproducción de campaña después de la combinación anónima**: La combinación de posibles clientes anónimos se produce antes de que la campaña se vuelva a reproducir, de modo que los filtros de campo personalizados se comporten de forma fiable cuando se realiza la repetición de una campaña anónima.
 
-* **Conjunto de permisos de Insight de ventas en Salesforce**: Los administradores pueden proporcionar acceso a la perspectiva de ventas a un conjunto limitado de personas a nivel de usuario en lugar de a nivel de perfil a través del conjunto de permisos de la aplicación de Marketo, que forma parte del paquete Sales Insight Salesforce.
+## Entorno de datos de marketing {#marketing-data-environment}
 
-* **My Marketo Tile Update - Sales Insight Actions**: Los administradores de Marketo (y los usuarios que designen) ahora pueden navegar rápidamente a su instancia de Acciones de perspectiva de ventas a través de un nuevo mosaico de Acciones de perspectiva de ventas ubicado en la página Mi Marketo .
-
-## Conexión de ventas {#sales-connect}
-
-![(estrella)](assets/yellow-star.png)
-
-* **Actualización de la API de Salesforce**: Con la versión de verano de 22 de Salesforce, las versiones heredadas de API 21-30 ya no serán compatibles con Salesforce. Con esta versión del Marketo Engage, todas las solicitudes de conexión de ventas que utilizan versiones de API heredadas se han actualizado para permanecer en una versión compatible. Para obtener más información sobre los planes de retiro de la API de Salesforce, haga clic en [here](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Corregir el truncamiento de la IU de los campos Objeto personalizado &quot;Utilizado por&quot;**: Ahora es más fácil identificar los campos de objeto personalizados que están &quot;en uso&quot;, de modo que puede eliminar campos de un objeto personalizado cuando sea necesario.
 
 ## Mejoras de API {#api-enhancements}
 
-* **Nuevas funciones de filtrado para la API de extracción de miembros de un programa en lote**: Filtre por estado de pertenencia al programa, fecha de actualización, cadencia o contenido agotado para refinar el conjunto de datos extraído.
+* **Nuevas funciones de filtrado para la API de extracción de miembros de un programa a granel**: Filtre por estado de pertenencia al programa, fecha de actualización, cadencia o contenido agotado para refinar el conjunto de datos extraído.
 
-* **Mejora de la API de Extracción de miembros de un programa masivo**: Especifique hasta 10 programas durante la creación del trabajo para mejorar el rendimiento.
+* **Exponer usuarios solo de API en notificaciones de error de servicios web**: Ver qué usuario solo de API generó un error de servicios web para mejorar la resolución de problemas.
 
 ## Anuncios {#announcements}
-
-* **Desaprobación de Forms: Forms 1.0, extremo de captura/guardado de posibles clientes y versiones sin script de formularios**: La compatibilidad con los recursos de Forms 1.0 dejará de estar disponible en Marketo Engage para octubre de 2022. Todos los recursos de Forms 1.0 existentes dejarán de funcionar. Los formularios de Marketo Engage requerirán que JavaScript se cargue en páginas de aterrizaje y sitios web.
 
 **_Seminario web sobre la versión del producto_**
 
