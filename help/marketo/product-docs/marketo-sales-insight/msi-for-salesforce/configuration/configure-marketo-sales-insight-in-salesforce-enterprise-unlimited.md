@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited - Marketo Docs - Documentación del producto
 title: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '863'
 ht-degree: 6%
 
 ---
@@ -289,39 +289,27 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
 
 1. Haga clic en **Guardar** cuando haya terminado.
 
-## Configuración de perspectiva de ventas de Marketo {#marketo-sales-insight-config}
-
-1. Haga clic en **+** y, a continuación, seleccione **Configuración de perspectiva de ventas de Marketo**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. Marque **Habilitar la API de Marketo**. A continuación, rellene el [Información de configuración de API en Marketo Admin](#set-up-marketo-sales-insight). Haga clic en **Guardar cambios** cuando hayas terminado.
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >Si la prueba de diagnóstico falla, es posible que tenga que [añadir más campos al diseño de página](https://nation.marketo.com/docs/DOC-1115).
-
-¡Y eso es todo! Debería poder ver los campos de Perspectiva de ventas de Marketo para Posibles clientes, Contactos, Cuentas y Oportunidades.
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->En el caso de las cuentas, Perspectiva de ventas incluirá todos los correos electrónicos, pero solo los momentos interesantes más recientes, la actividad web y los cambios de puntuación.
-
-## Acceso a la perspectiva de ventas de Marketo {#access-marketo-sales-insight}
+## Ficha Configuración de la perspectiva de ventas de Marketo {#marketo-sales-insight-configuration-tab}
 
 1. En Salesforce, haga clic en la **+** al final de la barra de pestañas y haga clic en **Configuración de perspectiva de ventas de Marketo**.
 
 1. Seleccione el **Habilitar la API de Marketo** casilla de verificación.
 
-1. Copie las credenciales del panel API de Soap en la página de administración de Sales Insight de Marketo y péguelas en la sección API de Soap de la página Configuración de Salesforce Sales Insight .
+1. Copie las credenciales del panel API de Soap en [Página de administración de la perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} y péguelos en la sección API de Soap de la página Configuración de la perspectiva de ventas de Salesforce.
 
-1. Copie las credenciales del panel de la API Rest en la página de administración de la perspectiva de ventas de Marketo y péguelas en la sección de la API Rest de la página de configuración de la perspectiva de ventas de Salesforce.
+1. Copie las credenciales del panel de la API de Rest en [Página de administración de la perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} y péguelos en la sección API Rest de la página Configuración de la perspectiva de ventas de Salesforce.
 
    ![](assets/access-msi.png)
+
+¡Y eso es todo! Debería poder ver los campos de Perspectiva de ventas de Marketo para Posibles clientes, Contactos, Cuentas y Oportunidades.
+
+>[!NOTE]
+>
+>Si la prueba de diagnóstico falla, es posible que tenga que [añadir más campos al diseño de página](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+
+>[!NOTE]
+>
+>En el caso de las cuentas, Perspectiva de ventas incluirá todos los correos electrónicos, pero solo los momentos interesantes más recientes, la actividad web y los cambios de puntuación.
 
 >[!MORELIKETHIS]
 >
