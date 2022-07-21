@@ -2,9 +2,9 @@
 description: Filtrado de la actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Filtrado de la actividad de bots de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ A veces, la actividad de bots de correo electrónico puede inflar erróneamente 
 Utilizamos tres métodos diferentes para confirmar la actividad de bots:
 
 * Coincidir con [Lista de bots de Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: Las actividades que coincidan con cualquier elemento de la lista IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
-* Coincide con los vínculos ocultos UA/IP: Añadimos un vínculo oculto a todos los correos electrónicos y capturamos los clics de UA/IP procedentes de ellos. Las actividades que coincidan con estas UA/IP se marcarán como bots.
 * Coincidencia con patrón de proximidad: Cuando se producen más de dos actividades al mismo tiempo (menos de dos segundos), se identifican como bots.
 
 Con respecto a los clics en vínculos de correo electrónico y a la actividad de apertura de correos electrónicos, los nuevos atributos se rellenarán con los valores siguientes:
@@ -37,15 +36,15 @@ Con respecto a los clics en vínculos de correo electrónico y a la actividad de
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Haga clic en el **Habilitar la identificación de actividades de bots** control deslizante para activar.
+1. Elija **Coincidir con la lista IAB**, **Coincidencia con patrón de proximidad**, o ambas.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Puede elegir por separado si desea que se registre o no la actividad de bots. Si decide no hacerlo, es posible que vea una caída en las aperturas de correo electrónico y los clics mientras se filtran los números falsos.
+>Puede elegir que la actividad de bots se filtre **o** registrado. Si elige filtrada, es posible que vea una caída en las aperturas de correo electrónico y los clics mientras se eliminan las actividades falsas
 
-**PASO OPCIONAL**: Para desactivar la función, simplemente anule la selección del control deslizante. Si deshabilita los datos, sí **not** restablecer.
+**PASO OPCIONAL**: Para desactivar esta función, simplemente anule la selección del control deslizante. Si deshabilita, los datos no se restablecerán.
 
 >[!TIP]
 >
