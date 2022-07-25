@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: 'Explicación de la pertenencia al programa: Documentos de Marketo: Documentación del producto'
 title: Explicación de la pertenencia al programa
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo ahora estandariza el idioma en todas las suscripciones, por lo que puede ver posibles clientes en su suscripción y personas o personas en docs.marketing.com. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Obtenga más información](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo ahora estandariza el idioma en todas las suscripciones, por lo que puede ver posibles clientes en su suscripción y personas o personas en nuestros documentos. Estos términos significan lo mismo; no afecta a las instrucciones del artículo. También hay otros cambios. [Obtenga más información](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

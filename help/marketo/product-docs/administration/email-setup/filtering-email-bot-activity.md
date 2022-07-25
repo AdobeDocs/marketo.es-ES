@@ -2,9 +2,9 @@
 description: Filtrado de la actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Filtrado de la actividad de bots de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ Con respecto a los clics en vínculos de correo electrónico y a la actividad de
 
 >[!NOTE]
 >
->Puede elegir que la actividad de bots se filtre **o** registrado. Si elige filtrada, es posible que vea una caída en las aperturas de correo electrónico y los clics mientras se eliminan las actividades falsas
+>* Puede elegir que la actividad de bots se filtre **o** registrado. Si elige filtrada, es posible que vea una caída en las aperturas de correo electrónico y los clics mientras se eliminan las actividades falsas.
+>
+>* En este momento, solo está disponible la &quot;Actividad de bots de registro&quot; para &quot;Coincidir con el patrón de proximidad&quot;.
+
 
 **PASO OPCIONAL**: Para desactivar esta función, simplemente anule la selección del control deslizante. Si deshabilita, los datos no se restablecerán.
 

@@ -4,9 +4,9 @@ title: Configuración de un límite de eventos
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Limite la cantidad de personas que pueden registrarse para el evento con un lím
 
 >[!IMPORTANT]
 >Debe tener al menos dos páginas de aterrizaje aprobadas (una página de registro y una página de registro completo) en el programa para poder establecer un límite de evento.
+
+>[!NOTE]
+>
+>Para liberar espacio en un evento, se debe eliminar el miembro del programa (puede hacerlo actualizando su estado a &quot;No está en el programa&quot;).
 
 1. Seleccione el programa de eventos.
 
