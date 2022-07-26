@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Las siguientes funciones empezarán a lanzarse en **19 de agosto de 2022**, con 
 * **Promoción de la marca de Adobe**: Se ha actualizado la apariencia para editores y la página de detalles de personas con la nueva marca Adobe Experience Cloud.
 
 * **Mostrar la jerarquía de carpetas de la carpeta de destino en el cuadro de diálogo Mover**: Al ver la jerarquía de carpetas de cada carpeta, es más fácil mover recursos y se reduce la probabilidad de colocarlos en la carpeta incorrecta.
+
+* **Pantallas actualizadas en la experiencia de próxima generación**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
+
+   * Detalles de &quot;Imágenes y archivos&quot;
+   * Detalles de fragmento
 
 >[!NOTE]
 >
