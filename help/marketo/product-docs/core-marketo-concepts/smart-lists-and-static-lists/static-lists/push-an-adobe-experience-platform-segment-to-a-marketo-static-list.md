@@ -2,9 +2,9 @@
 description: 'Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo: Marketo Docs: documentación del producto'
 title: Insertar un segmento de Adobe Experience Platform en una lista estática de Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Introducir un destino **Nombre** y una descripción opcional. Haga clic en la lista desplegable Creación de personas y seleccione &quot;Hacer coincidir con personas de Marketo existentes y crear personas que faltan en Marketo&quot; _o_ &quot;Hacer coincidir solo los usuarios de Marketo existentes&quot;. En este ejemplo elegimos el primero.
+1. Introducir un destino **Nombre** y una descripción opcional. Haga clic en la lista desplegable Creación de personas y seleccione &quot;Hacer coincidir con personas de Marketo existentes y crear personas que faltan en Marketo&quot; _o_ &quot;Hacer coincidir solo los usuarios de Marketo existentes&quot;. En este ejemplo elegimos el primero. También puede elegir un espacio de trabajo o simplemente ir con el predeterminado.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Asignar nombre seleccionando **firstName** y haga clic en **Select**.
+1. Elija los atributos que desee y haga clic en **Select**. En este ejemplo, elegimos el nombre, los apellidos y la dirección de correo electrónico.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Puede asignar atributos de Experience Platform a cualquiera de los atributos a los que su organización tiene acceso en Marketo Engage. Utilice la variable [Describir solicitud de API](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} para recuperar los campos de atributos a los que tiene acceso su organización.
 
 1. Asigne los apellidos y el nombre de la empresa haciendo clic en **Añadir nueva asignación** y repita el paso 15 dos veces, eligiendo **lastName** y luego **companyName**.
 
@@ -142,22 +146,6 @@ Esta función le permite insertar segmentos ubicados en su Adobe Experience Plat
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Ahora necesitará el ID de su lista. Haga clic en la pestaña del explorador que tiene abierta la lista estática de Marketo (o abra una nueva pestaña y seleccione la lista estática deseada).
+1. Revise los cambios y haga clic en **Finalizar**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >Para obtener mejores resultados, utilice una lista de Marketo Engage vacía.
-
-1. Resalte y copie el ID de lista al final de la dirección URL.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Pegue el ID que acaba de copiar en ID de asignación y haga clic en **Siguiente**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Haga clic en **Finalizar**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
