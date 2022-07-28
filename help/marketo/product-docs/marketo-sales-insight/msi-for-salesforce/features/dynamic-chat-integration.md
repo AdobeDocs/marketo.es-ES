@@ -3,9 +3,9 @@ description: 'Integración de Dynamic Chat: Marketo Docs: Documentación del pro
 title: Integración de Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ Obtenga más información sobre la integración de Dynamic Chat con la perspecti
 
 ## Ficha Configuración de la perspectiva de ventas de Marketo {#marketo-sales-insight-configuration-tab}
 
+Siga los pasos a continuación para habilitar la integración de Dynamic Chat.
+
 1. Inicie sesión en su cuenta de Salesforce, haga clic en + al final de la barra de pestañas y haga clic en **Configuración de perspectiva de ventas de Marketo**.
 
 1. Haga clic en para desplegar el &quot;Panel de fuerza visual&quot;.
@@ -35,7 +37,7 @@ Obtenga más información sobre la integración de Dynamic Chat con la perspecti
 
 ## Descripción general de características {#feature-overview}
 
-Los usuarios de la perspectiva de ventas pueden aprovechar las actividades de chat dinámico que se indican a continuación.
+Los usuarios de Sales Insight pueden aprovechar las siguientes actividades de Dynamic Chat...
 
 Diálogo comprometido: Inició sesión en Marketo y se rellena en Perspectiva de ventas cuando un visitante hace clic en un bot de chat y participa en el Diálogo.
 
