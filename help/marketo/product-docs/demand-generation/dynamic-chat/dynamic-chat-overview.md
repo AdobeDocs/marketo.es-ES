@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 1%
 
 ---
@@ -170,5 +170,15 @@ Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto
   <td>Período de retención de actividad de reserva de reuniones</td>
   <td>La cantidad de tiempo que la actividad de reserva de reuniones se almacenará en la conversación dinámica</td>
   <td>24 meses</td>
+ </tr>
+ <tr>
+  <td>Conversaciones entabladas</td>
+  <td>Número de conversaciones de chat con las que los visitantes web pueden participar cada día</td>
+  <td>1.000</td>
+ </tr>
+ <tr>
+  <td>Conversaciones activadas</td>
+  <td>Número de conversaciones de chat que se pueden mostrar a los visitantes web por día</td>
+  <td>25.000</td>
  </tr>
 </table>
