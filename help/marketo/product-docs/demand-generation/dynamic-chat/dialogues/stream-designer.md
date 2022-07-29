@@ -2,7 +2,7 @@
 description: 'Diseñador de secuencias: Documentos de Marketo: Documentación del producto'
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
+source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 2%
@@ -15,7 +15,7 @@ Hay _many_ combinaciones de flujo posibles. Este artículo contiene un ejemplo e
 
 >[!PREREQUISITES]
 >
->Para poder usar la tarjeta Documento, primero debe [configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;} en la cuenta de Adobe.
+>Para poder usar la tarjeta Documento, primero debe [configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;} en la cuenta de Adobe.
 
 ## Tarjetas de Diseñador de secuencias {#stream-designer-cards}
 
