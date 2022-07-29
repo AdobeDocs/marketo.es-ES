@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Definición de los criterios del ganador de la prueba A/B - Marketo Docs - Documentación del producto
 title: Definir los criterios del ganador de la prueba A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '439'
 ht-degree: 2%
 
 ---
@@ -63,9 +63,9 @@ When [adición de una prueba A/B](/help/marketo/product-docs/email-marketing/ema
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo solo permite déclencheur para las personas a las que se ha enviado el correo electrónico desde este programa de correo electrónico. No es necesario añadir el filtro &quot;Se envió correo electrónico&quot;.
+   >Marketo solo permite déclencheur/filtros para las personas a las que se ha enviado el correo electrónico desde este programa de correo electrónico, por lo que no es necesario añadir el filtro &quot;Correo electrónico enviado&quot;. Además, al utilizar un déclencheur o filtro relacionado con el correo electrónico, asegúrese de utilizar &quot;is any&quot; como operador.
 
 1. Haga clic en **Cerrar**.
 
