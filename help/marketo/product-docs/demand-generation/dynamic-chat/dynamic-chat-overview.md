@@ -2,7 +2,7 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '951'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse ta
 
 ## Integraciones {#integrations}
 
-Un componente clave de la conversación dinámica es su capacidad para interactuar de forma nativa con su suscripción a Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) para completar.
+Un componente clave de la conversación dinámica es su capacidad para interactuar de forma nativa con su suscripción a Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) para completar.
 
 Se sincroniza lo siguiente:
 

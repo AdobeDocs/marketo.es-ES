@@ -2,7 +2,7 @@
 description: Configuración inicial - Documentos de Marketo - Documentación del producto
 title: Configuración inicial
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Siga los pasos a continuación para configurar el chat dinámico.
 
 1. Después de iniciar sesión en el Admin Console, lo siguiente que hay que hacer es agregar usuarios. Tenemos ese proceso [documentado aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-A continuación, es hora de [conexión de Dynamic Chat a Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
+A continuación, es hora de [conexión de Dynamic Chat a Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).
