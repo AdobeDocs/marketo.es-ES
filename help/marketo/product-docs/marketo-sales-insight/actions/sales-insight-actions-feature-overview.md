@@ -2,9 +2,9 @@
 description: 'Descripción general de la función de las acciones de perspectiva de ventas: Documentos de Marketo: Documentación del producto'
 title: Descripción general de la función Acciones de perspectiva de ventas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 
 >[!AVAILABILITY]
 >
->Esta función está actualmente en GA limitada. Póngase en contacto con el administrador de éxito del cliente o envíe un correo electrónico `sales-insights(at)adobe(dot)com` para solicitar acceso.
+>Esta función se encuentra actualmente en fase de implementación. Póngase en contacto con el administrador de éxito del cliente o envíe un correo electrónico `sales-insights(at)adobe(dot)com` para solicitar acceso.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ Las siguientes acciones están disponibles en la lista desplegable &quot;Elegir 
 
 * Enviar email de ventas
    * Los correos electrónicos de ventas tienen seguimiento de vista, clics y respuestas (cuando se configura el canal de envío)
-   * Incluye Email Personalization, firmas personalizadas y archivos adjuntos
+   * Incluye personalización de correo electrónico, firma personalizada y archivos adjuntos
    * Uso compartido de plantillas e informes
    * Uso compartido de equipos, correos electrónicos de grupo y capacidad CC/BCC
    * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
@@ -77,7 +77,7 @@ Las siguientes acciones están disponibles en la barra de navegación superior:
 
 * Enviar correo electrónico de ventas: Capacidad de enviar correos electrónicos de grupo personalizados o con plantilla con vista, hacer clic y responder al seguimiento de todos los contactos asociados a una cuenta u oportunidad
    * Los correos electrónicos de ventas tienen seguimiento de vista, clics y respuestas (cuando se configura el canal de envío)
-   * Incluye Email Personalization, firmas personalizadas y archivos adjuntos
+   * Incluye personalización de correo electrónico, firma personalizada y archivos adjuntos
    * Uso compartido de plantillas e informes
    * Uso compartido de equipos, correos electrónicos de grupo y capacidad CC/BCC
    * La actividad de correo electrónico de ventas se registrará en el registro de persona de Marketo
