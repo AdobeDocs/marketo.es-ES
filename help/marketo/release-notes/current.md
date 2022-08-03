@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A continuación encontrará todas las funciones incluidas en la versión del 22 
 >
 >Funciones denotadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
 
-Las siguientes funciones empezarán a lanzarse en **19 de agosto de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes (a menos que se especifique lo contrario). Las funciones de la versión y las fechas exactas están sujetas a cambios.
+Las siguientes funciones empezarán a lanzarse en **26 de agosto de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes (a menos que se especifique lo contrario). Las funciones de la versión y las fechas exactas están sujetas a cambios.
 
 ## Organización en canales múltiples {#cross-channel-orchestration}
 
@@ -64,8 +64,14 @@ Las siguientes funciones empezarán a lanzarse en **19 de agosto de 2022**, con 
 
 * **Nuevas funciones de filtrado para la API de extracción de miembros de un programa a granel**: Filtre por estado de pertenencia al programa, fecha de actualización, cadencia o contenido agotado para refinar el conjunto de datos extraído.
 
+## Sales Insight {#sales-insight}
+
+![(estrella)](assets/yellow-star.png)
+
+* **Integración de perspectivas de ventas con Dynamic Chat**: Vea las actividades desde Dynamic Chat en el panel Perspectiva de ventas y aproveche este nuevo punto de datos en su esfuerzo de prospección.
+
 ## Anuncios {#announcements}
 
 **_Seminario web sobre la versión del producto_**
 
-Únase a nosotros el 24 de agosto de 2022 a las 9:00 am PT / 12:00 pm ET para un [seminario web en directo](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} alojado por nuestro equipo de productos, donde puede aprender a utilizar las últimas innovaciones de productos.
+Únase a nosotros el 24 de agosto de 2022, a las 9:00 AM PT / 12:00 PM ET para un [seminario web en directo](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} alojado por nuestro equipo de productos, donde puede aprender a utilizar las últimas innovaciones de productos.
