@@ -1,29 +1,32 @@
 ---
 unique-page-id: 2360407
-description: 'Creación de un informe de análisis de correo electrónico que enumere posibles clientes: Marketo Docs: Documentación del producto'
+description: 'Creación de un informe de análisis de correo electrónico que enumere posibles clientes: Documentos de Marketo: Documentación del producto'
 title: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: f431610c-6570-4df0-9d64-d37d21010604
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
-# Generar un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
+# Creación de un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
 
 Siga estos pasos para crear un informe de análisis de correo electrónico que le muestre todos los posibles clientes a los que se ha enviado un correo electrónico específico. Este informe también incluirá las estadísticas de clics y aperturas.
 
-1. Inicie **Ingresos Explorer**.
+>[!NOTE]
+>
+>El motor de datos que respalda el análisis de correo electrónico RCA ignora los buenos 12 clics por persona si proceden del mismo correo electrónico y campaña. Tenga esto en cuenta al comparar los informes de análisis de correo electrónico con los informes estándar de Marketo Analytics.
+
+1. Launch **Explorador de ingresos**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Haga clic en **Crear nuevo** y luego en **Informe**.
+1. Haga clic en **Crear nuevo** then **Informe**.
 
    ![](assets/report-that-lists-leads-2.png)
 
@@ -39,7 +42,7 @@ Siga estos pasos para crear un informe de análisis de correo electrónico que l
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Arrastre el punto amarillo **Email Name** a **Columns**.
+1. Arrastre el **Nombre del correo electrónico** punto amarillo a **Columnas**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -47,11 +50,11 @@ Siga estos pasos para crear un informe de análisis de correo electrónico que l
    >
    >Hay muchos atributos de cliente o empresa que puede agregar como columnas, ¡desprotéjelas!
 
-1. Busque el punto amarillo **Full Name** y arrástrelo a **Rows**.
+1. Busque la **Nombre completo** punto amarillo y arrástrelo a **Filas**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Ahora agregue las **Medidas** que le interesen haciendo doble clic en ellas.
+1. Ahora, agregue la variable **Medidas** le interesa hacer doble clic en ellos.
 
    ![](assets/report-that-lists-leads-8.png)
 
