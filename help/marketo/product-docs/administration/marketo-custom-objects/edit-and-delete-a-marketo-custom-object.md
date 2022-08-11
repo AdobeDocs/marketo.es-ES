@@ -3,10 +3,9 @@ unique-page-id: 10093690
 description: 'Editar y eliminar un objeto personalizado de Marketo: Marketo Docs: documentación del producto'
 title: Editar y eliminar un objeto personalizado de Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ ht-degree: 0%
 
 Utilice el menú Acciones de objeto personalizadas para editar o eliminar un objeto personalizado.
 
-1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
+1. Haga clic en **Administrador** y en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -29,17 +28,13 @@ Utilice el menú Acciones de objeto personalizadas para editar o eliminar un obj
 
    ![](assets/image2016-1-18-13-3a33-3a11.png)
 
-1. Haga clic en la ficha **Acciones de objeto personalizado** y haga clic en **Editar objeto**.
+1. Haga clic en el **Acciones de objeto personalizado** y haga clic en **Editar objeto**.
 
    ![](assets/image2015-9-23-11-3a37-3a44.png)
 
-   >[!NOTE]
-   >
-   >Editar objeto muestra los mismos campos que Crear objeto, excepto el nombre de la API, que no se puede editar.
+1. Realice los cambios que desee. Arrastre el control deslizante si desea mostrar el objeto en la página Detalles del posible cliente . Haga clic en **Guardar**.
 
-1. Realice cualquier cambio. Arrastre el control deslizante si desea mostrar el objeto en la página Detalles del posible cliente . Haga clic en **Guardar**.
-
-   ![](assets/image2015-9-15-16-3a48-3a39.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
 1. Asegúrese de aprobar [el objeto editado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
@@ -51,7 +46,7 @@ Es fácil eliminar un objeto personalizado, pero debe tener cuidado. Los objetos
 >
 >No se puede restaurar un objeto personalizado después de eliminarlo.
 
-1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
+1. Haga clic en **Administrador** y en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
@@ -71,7 +66,7 @@ Es fácil eliminar un objeto personalizado, pero debe tener cuidado. Los objetos
 
    ![](assets/image2015-9-23-16-3a31-3a2.png)
 
-1. Si el objeto personalizado ya está aprobado, existe un riesgo bueno si lo elimina. Así que obtendrás esta advertencia más severa. Introduzca **Entiendo**, marque la casilla **No se puede deshacer** y haga clic en **Eliminar**.
+1. Si el objeto personalizado ya está aprobado, existe un riesgo bueno si lo elimina. Así que obtendrás esta advertencia más severa. Entrar **Entiendo**, marque la casilla **No se puede deshacer** y haga clic en **Eliminar**.
 
    ![](assets/image2016-1-15-9-3a49-3a38.png)
 
