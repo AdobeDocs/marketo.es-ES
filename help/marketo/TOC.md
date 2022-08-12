@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
+source-git-commit: 4ec9338bec2e0255eab4304da74464dd47ffae24
 workflow-type: tm+mt
-source-wordcount: '8794'
+source-wordcount: '8805'
 ht-degree: 2%
 
 ---
@@ -708,6 +708,9 @@ ht-degree: 2%
             + [Reordenar campos en un formulario](product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
             + [Definir un campo de formulario como oculto](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
             + [Definir un valor de campo de formulario oculto](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+         + Uso de CAPTCHA {#using-captcha}
+            + [Configuración de reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+            + [Habilitar CAPTCHA en el Marketo Engage](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
       + Imágenes y archivos {#images-and-files}
          + [Agregar imágenes y archivos a Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Eliminar una imagen o archivo cargado](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
