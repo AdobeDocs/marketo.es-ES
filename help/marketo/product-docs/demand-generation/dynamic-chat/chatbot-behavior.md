@@ -1,10 +1,8 @@
 ---
 description: 'Comportamiento de los bots de chat: Documentos de Marketo: Documentación del producto'
 title: Comportamiento de los bots de chat
-hide: true
-hidefromtoc: true
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 97b1a00b8ff1dc29a92687a70c71093fc8c04267
+source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -46,7 +44,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
   <tr>
       <th>Situación</th>
       <th>Comportamiento esperado de los bots de chat</th>
-      <th>Acción back-end</th>
+      <th>Acción de back-end</th>
     </tr>
     <tr>
       <td>
@@ -54,9 +52,9 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1 </p>
+        <p>D1 se resolverá en V1 </p>
       </td>
-      <td>El recuento de déclencheur para D1 debe aumentarse en 1</td>
+      <td>El recuento de déclencheur para D1 se incrementará en 1</td>
     </tr>
     <tr>
       <td>
@@ -65,11 +63,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1</p>
-        <p>Después de la actualización, D1 debe resolverse de nuevo</p>
+        <p>D1 se resolverá en V1</p>
+        <p>Después de la actualización, D1 se resolverá de nuevo</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>Después de la actualización, no hay cambio en el déclencheur D1 ni en el recuento de participación</p>
       </td>
     </tr>
@@ -79,9 +77,9 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 visita el WP1 por primera vez</p>
         <p>V1 hace clic en D1 pero no respondió</p>
       </td>
-      <td>D1 debe resolverse en V1</td>
+      <td>D1 se resolverá en V1</td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>Sin cambios en el recuento de participación D1</p>
       </td>
     </tr>
@@ -91,10 +89,10 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 visita el WP1 por primera vez</p>
         <p>V1 hace clic en D1 y proporciona la primera respuesta</p>
       </td>
-      <td>D1 debe resolverse en V1</td>
+      <td>D1 se resolverá en V1</td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
-        <p>El recuento de participación para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
+        <p>El recuento de participación para D1 se incrementará en 1</p>
       </td>
     </tr>
     <tr>
@@ -105,11 +103,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1</p>
-        <p>Después de la actualización, se debe continuar con D1</p>
+        <p>D1 se resolverá en V1</p>
+        <p>Después de la actualización, se continuará con D1</p>
       </td>
       <td>
-        <p>El recuento de déclencheur y el recuento de participación para D1 deben incrementarse en 1</p>
+        <p>El recuento de déclencheur y el recuento de participación para D1 se incrementarán en 1</p>
         <p>Después de la actualización, no se realiza ningún cambio en ningún recuento</p>
       </td>
     </tr>
@@ -121,12 +119,12 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1</p>
-        <p>Después de la actualización, no se debe resolver ningún cuadro de diálogo ni el cuadro de diálogo siguiente para V1</p>
+        <p>D1 se resolverá en V1</p>
+        <p>Después de la actualización, no se resolverá ningún cuadro de diálogo ni el cuadro de diálogo siguiente para V1</p>
       </td>
       <td>
-        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 deben incrementarse en 1</p>
-        <p>Después de la actualización, no se debe resolver ningún cuadro de diálogo ni el cuadro de diálogo siguiente</p>
+        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 se incrementarán en 1</p>
+        <p>Después de la actualización, no se resolverá ningún cuadro de diálogo ni el cuadro de diálogo siguiente</p>
       </td>
     </tr>
     <tr>
@@ -137,11 +135,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP2</p>
       </td>
       <td>
-        <p>La visita a la página WP1, D1 debe resolverse en V1</p>
-        <p>La visita a la página WP2, D1 debe resolverse en V2</p>
+        <p>Visita de página WP1, D1 se resolverá en V1</p>
+        <p>Visita de página WP2, D1 se resolverá en V2</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>En WP2, no hay cambio en el recuento de déclencheur D1</p>
       </td>
     </tr>
@@ -153,11 +151,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP2</p>
       </td>
       <td>
-        <p>La visita a la página WP1, D1 debe resolverse en V1</p>
-        <p>La visita a la página WP2, D1 debe resolverse en V1</p>
+        <p>Visita de página WP1, D1 se resolverá en V1</p>
+        <p>Visita de página WP2, D1 se resolverá en V1</p>
       </td>
       <td>
-        <p>El recuento de déclencheur y el recuento de participación para D1 deben incrementarse en 1</p>
+        <p>El recuento de déclencheur y el recuento de participación para D1 se incrementarán en 1</p>
         <p>En WP2, no hay cambio en ningún recuento</p>
       </td>
     </tr>
@@ -170,11 +168,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP2</p>
       </td>
       <td>
-        <p>D1 debe resolverse en el WP1</p>
-        <p>D1 debería continuar con V1 en el WP2</p>
+        <p>D1 se resolverá en el WP1</p>
+        <p>D1 continuará con V1 en el WP2</p>
       </td>
       <td>
-        <p>El recuento de déclencheur y el recuento de participación para D1 deben incrementarse en 1</p>
+        <p>El recuento de déclencheur y el recuento de participación para D1 se incrementarán en 1</p>
         <p>Sin cambio en el déclencheur D2 o en el recuento de participación</p>
       </td>
     </tr>
@@ -186,11 +184,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 hace clic en D1 pero no respondió </p>
         <p>Visitas V1 WP2</p>
       </td>
-      <td>D1 debe resolverse en el WP1<br/>
-      D2 debe resolverse en el WP2</td>
+      <td>D1 se resolverá en el WP1<br/>
+      D2 se resolverá en el WP2</td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
-        <p>El recuento de déclencheur para D2 debe incrementarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
+        <p>El recuento de déclencheur para D2 se incrementará en 1</p>
       </td>
     </tr>
     <tr>
@@ -201,10 +199,10 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 hace clic en D1 y completa D1</p>
         <p>Visitas V1 WP2</p>
       </td>
-      <td>La D1 debería resolverse en el primer período de sesiones y en el período posterior a la terminación<br/>D2 debe resolverse en el WP2</td>
+      <td>La D1 se resolverá en el primer período de sesiones y en el período posterior a la terminación<br/>D2 se resolverá en el WP2</td>
       <td>
-        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 deben incrementarse en 1</p>
-        <p>El recuento de déclencheur para D2 debe incrementarse en 1</p>
+        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 se incrementarán en 1</p>
+        <p>El recuento de déclencheur para D2 se incrementará en 1</p>
       </td>
     </tr>
     <tr>
@@ -216,10 +214,10 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP2</p>
         <p>Los clics V1 en D2 proporcionan la primera respuesta </p>
       </td>
-      <td>La D1 debería resolverse en el primer período de sesiones y en el período posterior a la terminación<br/>D2 debe resolverse en el WP2</td>
+      <td>La D1 se resolverá en el primer período de sesiones y en el período posterior a la terminación<br/>D2 se resolverá en el WP2</td>
       <td>
-        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 deben incrementarse en 1</p>
-        <p>El recuento de déclencheur y participación para D2 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 se incrementarán en 1</p>
+        <p>El recuento de déclencheur y participación para D2 se incrementará en 1</p>
       </td>
     </tr>
     <tr>
@@ -229,9 +227,9 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 hace clic en D1 pero no respondió</p>
         <p>D1 no se ha publicado</p>
       </td>
-      <td>D1 debe resolverse en V1</td>
+      <td>D1 se resolverá en V1</td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>No hay cambios en el recuento de participación D1</p>
       </td>
     </tr>
@@ -244,11 +242,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1 por primera vez</p>
-        <p>Después de la actualización, no se debe resolver ningún cuadro de diálogo</p>
+        <p>D1 se resolverá en V1 por primera vez</p>
+        <p>Después de la actualización, no se resolverá ningún cuadro de diálogo</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>No hay cambios en el recuento de participación D1</p>
         <p>Después de la actualización, no hay cambios en el déclencheur D1 ni en el recuento de participación</p>
       </td>
@@ -262,12 +260,12 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1</p>
-        <p>Después de la actualización, se debe continuar con D1</p>
+        <p>D1 se resolverá en V1</p>
+        <p>Después de la actualización, se continuará con D1</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
-        <p>El recuento de participación D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
+        <p>El recuento de participación D1 se incrementará en 1</p>
         <p>Después de la actualización, ya que D1 no se cambiará más en el recuento de déclencheur o de participación</p>
       </td>
     </tr>
@@ -280,11 +278,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1 por primera vez</p>
-        <p>Después de la actualización, el cuadro de diálogo con los cambios nuevos debe resolverse</p>
+        <p>D1 se resolverá en V1 por primera vez</p>
+        <p>Tras la actualización, se resolverá el cuadro de diálogo con los cambios nuevos</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>Después de la actualización, como D1 con nuevos cambios, pero sin cambios adicionales en el recuento de déclencheur</p>
       </td>
     </tr>
@@ -297,12 +295,12 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1 por primera vez</p>
-        <p>Después de la actualización, el cuadro de diálogo con los cambios antiguos debe continuar</p>
+        <p>D1 se resolverá en V1 por primera vez</p>
+        <p>Después de la actualización, el cuadro de diálogo con los cambios antiguos continuará</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
-        <p>El recuento de participación para D1 debe aumentarse en 1 </p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
+        <p>El recuento de participación para D1 se incrementará en 1 </p>
         <p>Después de la actualización, ya que aparecerá el antiguo D1, por lo que no se cambiará el recuento de déclencheur</p>
       </td>
     </tr>
@@ -316,12 +314,12 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1 por primera vez</p>
-        <p>Después de la actualización, D2 debe resolverse en V1</p>
+        <p>D1 se resolverá en V1 por primera vez</p>
+        <p>Después de la actualización, D2 se resolverá en V1</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
-        <p>Después de la actualización, el recuento de déclencheur para D2 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
+        <p>Después de la actualización, el recuento de déclencheur para D2 se incrementará en 1</p>
       </td>
     </tr>
     <tr>
@@ -335,12 +333,12 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 actualiza WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse en V1 por primera vez</p>
-        <p>Después de la actualización, D2 debe resolverse en V1</p>
-        <p>Después de completar D1 y D2, independientemente de los cambios o de la republicación de D1, D2 no debe volver a mostrarse en V1</p>
+        <p>D1 se resolverá en V1 por primera vez</p>
+        <p>Después de la actualización, D2 se resolverá en V1</p>
+        <p>Después de completar D1 y D2, independientemente de los cambios o de la republicación de D1, D2 no se volverá a mostrar en V1</p>
       </td>
       <td>
-        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 deben incrementarse en 1</p>
+        <p>El recuento de déclencheur, el recuento de participación y el recuento completado para D1 se incrementarán en 1</p>
         <p>Actualizar después de que se complete la D2, no hay que realizar ninguna acción</p>
       </td>
     </tr>
@@ -350,10 +348,10 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse, pero no se activará en V1</p>
-        <p>Después de 30 segundos, se debe mostrar/activar D1 en V1</p>
+        <p>D1 se resolverá, pero no se activará en V1</p>
+        <p>Después de 30 segundos, D1 se mostrará/activará en V1</p>
       </td>
-      <td>El recuento de déclencheur para D1 debe aumentarse en 1 solo después de haber pasado más de 30 segundos en la página web</td>
+      <td>El recuento de déclencheur para D1 se aumentará en 1 solo después de haber pasado más de 30 segundos en la página web</td>
     </tr>
     <tr>
       <td>
@@ -361,10 +359,10 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP1, WP2</p>
       </td>
       <td>
-        <p>D1 debe resolverse, pero no se activará en V1</p>
-        <p>Después de 30 segundos, se debe mostrar/activar D1 en V1</p>
+        <p>D1 se resolverá, pero no se activará en V1</p>
+        <p>Después de 30 segundos, D1 se mostrará/activará en V1</p>
       </td>
-      <td>El recuento de déclencheur para D1 debe aumentarse en 1 solo después de haber pasado más de 30 segundos en la página web</td>
+      <td>El recuento de déclencheur para D1 se aumentará en 1 solo después de haber pasado más de 30 segundos en la página web</td>
     </tr>
     <tr>
       <td>
@@ -372,10 +370,10 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 debe resolverse, pero no se activará en V1</p>
-        <p>Después de un desplazamiento del 50 %, se debe mostrar/activar D1 a V1</p>
+        <p>D1 se resolverá, pero no se activará en V1</p>
+        <p>Después del 50 % de desplazamiento, D1 se mostrará/activará en V1</p>
       </td>
-      <td>El recuento de déclencheur para D1 debe aumentarse en 1 solo después de desplazarse un 50 %</td>
+      <td>El recuento de déclencheur para D1 se aumentará en 1 solo después de desplazarse un 50 %</td>
     </tr>
     <tr>
       <td>
@@ -384,11 +382,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 visita WP1, después de 10 segundos V1 visita WP2, V1 visita WP1</p>
       </td>
       <td>
-        <p>En WP1, D1 debe resolverse, pero no se activará en V1</p>
-        <p>En WP2, D2 debe resolverse, pero no se activará en V1</p>
-        <p>En WP1, D1 debe resolverse y después de 20 segundos D1 debe activarse en V1</p>
+        <p>En WP1, D1 se resolverá, pero no se activará en V1</p>
+        <p>En WP2, D2 se resolverá, pero no se activará en V1</p>
+        <p>En WP1, D1 se resolverá y, después de 20 segundos, D1 se activará en V1</p>
       </td>
-      <td>El recuento de déclencheur para D1 debe aumentarse en 1 solo después de 30 segundos</td>
+      <td>El recuento de déclencheur para D1 se aumentará en 1 solo después de 30 segundos</td>
     </tr>
     <tr>
       <td>
@@ -397,11 +395,11 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 cierra WP1 y vuelve a WP1 2 días después</p>
       </td>
       <td>
-        <p>La D1 debe mostrarse automáticamente a la V1, ya que ya ha cumplido los criterios de déclencheur durante la sesión anterior</p>
-        <p>La misma lógica debería aplicarse a "Tiempo en la página" y "porcentaje de desplazamiento de la página".</p>
+        <p>D1 se mostrará automáticamente a V1 porque ya cumplieron los criterios de déclencheur durante la sesión anterior</p>
+        <p>La misma lógica se aplicará a "Tiempo en la página" y "porcentaje de desplazamiento de la página".</p>
       </td>
       <td>
-        <p>El recuento de déclencheur para D1 debe aumentarse en 1</p>
+        <p>El recuento de déclencheur para D1 se incrementará en 1</p>
         <p>Después del retorno, no hay que adoptar ninguna medida</p>
       </td>
     </tr>
