@@ -3,11 +3,10 @@ unique-page-id: 6848747
 description: Descripciones de los permisos de funciones - Documentos de Marketo - Documentación del producto
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '1144'
-ht-degree: 0%
+source-wordcount: '1146'
+ht-degree: 2%
 
 ---
 
@@ -23,11 +22,11 @@ Información adicional sobre permisos:
 
 ## Permisos disponibles {#available-permissions}
 
-Cuando [crea o edita una función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar cuál de los siguientes permisos permite esa función marcando las casillas adecuadas.
+Cuando [crear o editar una función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puede seleccionar uno de los siguientes permisos para permitir esa función marcando las casillas correspondientes.
 
 ![](assets/createnewrole.png)
 
-## Acceso al administrador {#access-admin}
+## Administrador de acceso  {#access-admin}
 
 Vea y realice cambios en la configuración en la sección Mi cuenta de Administración.
 
@@ -35,7 +34,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Administr
 * Canales de acceso : otorga a los usuarios acceso solo para modificar la etiqueta Canal, no otras etiquetas personalizadas
 * Límite de comunicación de acceso : otorga a los usuarios acceso para habilitar un límite de comunicación en el administrador
 * Acceso a CRM : otorga a los usuarios acceso a CRM, como Salesforce o Microsoft Dynamics, en Admin
-* Acceso [Data.com](https://Data.com) : otorga a los usuarios acceso a la acción de flujo de Data.com
+* Acceso [Data.com](https://Data.com) : otorga a los usuarios acceso a la acción de flujo Data.com
 * Acceso al administrador de correo electrónico : otorga a los usuarios acceso al administrador de correo electrónico para cambiar la configuración predeterminada, como cancelar suscripción y personalizar la marca de los dominios.
 * Acceso a socios de eventos : otorga a los usuarios acceso a LaunchPoint en la administración
 * Acceso a la administración de campos : otorga a los usuarios acceso a la administración de campos en administración
@@ -59,9 +58,9 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Administr
 * Acceso a Webhooks : otorga a los usuarios los Webhooks en el Administrador, para configurar detalles y asignaciones de respuesta
 * Acceso a espacios de trabajo y particiones : otorga a los usuarios acceso para crear, editar y eliminar espacios de trabajo y particiones en el administrador
 
-## API de acceso {#access-api}
+## Acceso a la API  {#access-api}
 
-Proporciona a los usuarios con la **API Only** **Role** acceso a las API individuales que se enumeran a continuación.
+Proporciona a los usuarios el **Solo API** **Función** acceso a las API individuales que se enumeran a continuación.
 
 * Aprobar recursos
 * Ejecutar campaña
@@ -94,7 +93,7 @@ Proporciona a los usuarios acceso a las fichas de Analytics, a las Perspectivas 
 * Eliminar informe: al desmarcar se elimina la capacidad del usuario de eliminar informes
 * Exportar datos de Analytics: al desmarcar se elimina la capacidad del usuario para exportar datos de Analytics
 
-## Acceso a Presentations de calendario {#access-calendar-presentations}
+## Acceso a Presentations del calendario {#access-calendar-presentations}
 
 Permite a los usuarios acceder a las presentaciones del Calendario : permite mostrar el botón Presentations en la parte inferior.
 
@@ -106,20 +105,21 @@ Permite a los usuarios acceder a la ficha Design Studio y a la vista del árbol,
 
 * Acceso a correo electrónico
    * Editar correo electrónico : otorga a los usuarios permiso para editar, crear y clonar correos electrónicos.
-      * Hacer que el correo electrónico sea operativo : otorga a los usuarios permiso para hacer que un correo electrónico sea operativo. Consulte: [Hacer que un correo electrónico sea operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Hacer que el correo electrónico sea operativo : otorga a los usuarios permiso para hacer que un correo electrónico sea operativo. Consulte: [Hacer que el correo electrónico sea operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Aprobar correo electrónico : permite a los usuarios aprobar correos electrónicos.
       * Eliminar correo electrónico : permite a los usuarios eliminar correos electrónicos.
-      * Establecer dominio de marca : permite a los usuarios trabajar con dominios de marca. Consulte: [Agregar un dominio de marca adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Establecer dominio de marca : permite a los usuarios trabajar con dominios de marca. Consulte: [Añadir un dominio de marca adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Acceso a la plantilla de correo electrónico
 
    * Aprobar plantilla de correo electrónico
-   * Eliminar plantilla de correo electrónico
+   * Eliminar plantilla de email
    * Editar plantilla de correo electrónico: editar, crear y clonar plantillas de correo electrónico
 
 * Formulario de acceso
 
+   * Aprobar formulario
    * Eliminar formulario
    * Editar formulario: editar, crear y clonar formularios
 
@@ -131,13 +131,13 @@ Permite a los usuarios acceder a la ficha Design Studio y a la vista del árbol,
 * Acceso a la página de aterrizaje
 
    * Aprobar página de aterrizaje
-   * Eliminar página de aterrizaje
+   * Eliminar página de destino
    * Editar página de aterrizaje: editar, crear y clonar páginas de aterrizaje
 
 * Acceso a la plantilla de página de aterrizaje
 
    * Aprobar plantilla de página de aterrizaje
-   * Eliminar plantilla de página de aterrizaje
+   * Eliminar plantilla de página de destino
    * Editar plantilla de página de aterrizaje: editar, crear y clonar plantillas de página de aterrizaje
 
 * Fragmento de acceso
@@ -170,11 +170,11 @@ Vea la base de datos, así como vea y edite listas inteligentes/estáticas.
 * Importar objeto personalizado
 * Lista de importación
 * Combinar personas
-* Ejecutar acciones de flujo único : permite a los usuarios ejecutar el paso de flujo **Cambiar valor de datos** en las personas de la base de datos
+* Ejecutar acciones de flujo único: permite a los usuarios ejecutar **Cambiar valor de datos** paso de flujo de personas de la base de datos
 
 * Ver datos de oportunidad: oculta la información de oportunidad en la página de detalles de la persona
 
-## Acceso a actividades de marketing {#access-marketing-activities}
+## Acceso a las actividades de marketing {#access-marketing-activities}
 
 Vea la pestaña Actividades de marketing , las campañas y las carpetas de campaña.
 
@@ -198,7 +198,7 @@ Vea la pestaña Actividades de marketing , las campañas y las carpetas de campa
 * Editar restricciones de campaña
 * Editar recurso de marketing
 * Importar programa
-* Importación de lista
+* Lista de importación
 * Programar campaña por lotes
 
 Acceso a SEO

@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 'Importar un programa: Documentos de Marketo: Documentación del producto'
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Un programa se puede importar de una suscripción a otra de Marketo. Por ejemplo, puede crear un programa en un simulador para pruebas y luego importarlo a su suscripción activa. Además, puede importar un programa creado previamente desde la biblioteca de programas de Marketo.
 
-## Importar un programa {#import-a-program-1}
+## Importación de un programa {#importing-a-program}
 
 1. Vaya a **Actividades de marketing.**
 
@@ -46,6 +46,10 @@ Un programa se puede importar de una suscripción a otra de Marketo. Por ejemplo
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >Al importar un programa que utilice Pasos de flujo personalizados o reglas de lista inteligente derivadas de un servicio de paso de flujo en una instancia de destino donde haya más de un proveedor de servicios compatible, se pedirá al usuario importador que asigne pasos o reglas al proveedor de servicios correcto en la instancia de destino.
+
 1. Vista previa de detalles y **Importar** el programa.
 
    ![](assets/import-a-program-6.png)
@@ -67,7 +71,7 @@ La biblioteca de programas de Marketo contiene programas creados previamente y p
 1. **Momentos interesantes.** Crea momentos interesantes para que su equipo de ventas los mantenga en el circuito.
 1. **Página de aterrizaje con respuesta automática.** Utilice contenido descargable para obtener nuevas personas y nutrirlas. Incluye páginas de aterrizaje y formularios.
 1. **Ciclo de vida 2.** Utiliza la puntuación para mover una persona de nuevo a cualificado para el marketing.
-1. **Plantilla de correo electrónico de Mobile.** Una plantilla de correo electrónico adaptable probada con iPhone y Android. Algunas versiones de Android, MS Outlook, Exchange y aplicaciones de terceros como Gmail y Yahoo! Las aplicaciones móviles de correo no admiten el CSS necesario para las plantillas adaptables. Se recomienda probar antes de enviar correos electrónicos.
+1. **Plantilla de correo electrónico móvil.** Una plantilla de correo electrónico adaptable probada con iPhone y Android. Algunas versiones de Android, MS Outlook, Exchange y aplicaciones de terceros como Gmail y Yahoo! Las aplicaciones móviles de correo no admiten el CSS necesario para las plantillas adaptables. Se recomienda probar antes de enviar correos electrónicos.
 1. **Apuestas para la importación de programas.** Programa Apuestas para aquellos que están probando la Biblioteca de Programas! Simplemente apruebe los correos electrónicos y la página de aterrizaje y active la campaña inteligente. A continuación, vea la página de aterrizaje aprobada, rellene el formulario y ¡se ha introducido!
 1. **Campañas Disponibles de Ventas.** Ofrece a sus representantes de ventas una forma de ejecutar campañas inteligentes de Marketo desde un panel en su CRM.
 1. **Puntuación - Spark Edition.** Puntuación demográfica y de comportamiento capturada en un único campo de puntuación. Incluye más de dos docenas de campañas relacionadas con la puntuación.
