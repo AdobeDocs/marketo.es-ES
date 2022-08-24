@@ -2,9 +2,9 @@
 description: Configuración - Documentos de Marketo - Documentación del producto
 title: Configuración
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '296'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ El delimitador permite que el visitante del sitio abra o cierre el cuadro de di�
 
 **Configuración del agente**
 
-En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación.
+En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación. Para cargar su propia imagen de avatar, haga clic en el botón **+** botón.
 
 ![](assets/configuration-5.png)
 
