@@ -3,7 +3,7 @@ unique-page-id: 1147226
 description: 'Introducción: Documentos de Marketo: Documentación del producto'
 title: Introducción
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Con un poco de ayuda de su equipo de TI, puede hacerlo en poco tiempo.
 
-[Iniciar configuración](/help/marketo/getting-started/setup-steps.md)
+[Iniciar configuración](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## PASO 3 Obtener algunas victorias rápidas {#get-some-quick-wins}
 
@@ -32,7 +32,7 @@ Complete estas misiones para conocer las características principales de Marketo
 <tr>
   <td>
     <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-1.png"/>
+      <img alt="Conectar" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
     <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configurar y agregar una persona</a>
@@ -58,7 +58,7 @@ Complete estas misiones para conocer las características principales de Marketo
   </td>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-4.png"/>
+      <img alt="Conectar" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
     <a href="getting-started/quick-wins/simple-scoring.md">4. Puntuación simple</a>
@@ -69,7 +69,7 @@ Complete estas misiones para conocer las características principales de Marketo
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="Importar" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Respuesta automática por correo electrónico</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Respuesta automática de correo electrónico</a>
     </div>
     <br>
   </td>
@@ -86,7 +86,7 @@ Complete estas misiones para conocer las características principales de Marketo
   </td>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-7.png"/>
+      <img alt="Conectar" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Nurtura del goteo</a>
@@ -112,10 +112,10 @@ Complete estas misiones para conocer las características principales de Marketo
   </td>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-10.png"/>
+      <img alt="Conectar" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. Actualizar datos de persona</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Actualizar datos de personas</a>
     </div>
     <br>
   </td>
