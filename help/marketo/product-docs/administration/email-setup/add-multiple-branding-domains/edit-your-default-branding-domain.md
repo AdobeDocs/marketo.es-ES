@@ -3,8 +3,7 @@ unique-page-id: 11377392
 description: 'Editar el dominio de marca predeterminado: documentos de Marketo: documentación del producto'
 title: Editar el dominio de marca predeterminado
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,9 +16,9 @@ La edición del dominio de marca predeterminado es el primer paso para trabajar 
 
 >[!PREREQUISITES]
 >
->Asegúrese de [configurar un CNAME en su DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) antes de agregar sus dominios de marca en Marketo.
+>Asegúrese de que [configurar un CNAME en el DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) antes de añadir los dominios de marca en Marketo.
 
-1. Vaya a **Admin** y haga clic en **Email**.
+1. Vaya a **Administrador** y haga clic en **Correo electrónico**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,4 +34,4 @@ La edición del dominio de marca predeterminado es el primer paso para trabajar 
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Ahora, puede [agregar cualquier dominio de marca adicional](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) que necesite.
+Ahora, puede [agregar dominios de marca adicionales](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) necesitas.

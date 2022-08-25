@@ -3,7 +3,7 @@ unique-page-id: 2949467
 description: '¿Qué es Adobe Marketo Engage? : Documentos de Marketo: documentación del producto'
 title: ¿Qué es Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 4%
@@ -43,7 +43,7 @@ Marketo Engage tiene una gran cantidad de características buenas que le ayudan 
 
 ## ¿Debo hacer alguna configuración? {#do-i-need-to-do-any-setup}
 
-Sí, hicimos un [lista de comprobación de cosas que hacer](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
+Sí, hicimos un [lista de comprobación de cosas que hacer](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## ¿Tengo que esperar hasta que finalice la configuración para aprender? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 

@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 'Pasos de configuración: Documentos de Marketo: Documentación del producto'
 title: Pasos de configuración
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Ahora tiene toda la información que necesita para enviar su solicitud a TI.
 
 Una vez que haya recopilado toda la información necesaria, estará listo para enviar una solicitud a TI. Puede utilizar el siguiente texto como plantilla, reemplazando el texto en negrita por su propia información.
 
-[Incluir un vínculo a este artículo](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Incluir un vínculo a este artículo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Pegue este texto en el correo electrónico y reemplace los marcadores de posición en negrita:
 
