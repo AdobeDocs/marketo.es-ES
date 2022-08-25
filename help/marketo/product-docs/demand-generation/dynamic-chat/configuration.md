@@ -2,9 +2,9 @@
 description: Configuración - Documentos de Marketo - Documentación del producto
 title: Configuración
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -40,6 +40,10 @@ El delimitador permite que el visitante del sitio abra o cierre el cuadro de di�
 En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación. Para cargar su propia imagen de avatar, haga clic en el botón **+** botón.
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>Los avatares personalizados deben ser imágenes cuadradas inferiores a 256 kb y menores a 200 x 200 px. Los tipos de archivo admitidos son: .jpg, .png, .gif, .webp, .svg.
 
 Cuando haya terminado de realizar cambios, recuerde hacer clic en **Guardar**.
 
