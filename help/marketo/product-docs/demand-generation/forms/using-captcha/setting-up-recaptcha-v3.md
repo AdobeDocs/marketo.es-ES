@@ -4,9 +4,9 @@ title: Configuración de reCAPTCHA v3
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Los siguientes pasos se realizan fuera de Marketo.
    >Mantenga la clave del sitio y la clave secreta a mano para la configuración del Marketo Engage.
 
 ## Configuración de CAPTCHA en el Marketo Engage {#setting-up-captcha-in-marketo-engage}
+
+>[!IMPORTANT]
+>
+>Después de seguir estos pasos y [habilite CAPTCHA en el primer formulario de Marketo](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, asegúrese de probar el formulario inmediatamente, ya que cualquier tipo de configuración incorrecta en la configuración de reCAPTCHA puede romper el formulario.
 
 1. En Marketo, haga clic en **Administrador**.
 
