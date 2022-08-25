@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 'Pasos de configuración: Documentos de Marketo: Documentación del producto'
 title: Pasos de configuración
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Algunos pasos requieren la ayuda de su equipo de TI.
 
 >[!TIP]
 >
->Si [imprimir esta lista de comprobación](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}, puede desactivar los elementos cuando los complete.
+>Si [imprimir esta lista de comprobación](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}, puede desactivar los elementos cuando los complete.
 
 ## Inicio de sesión y creación de usuarios adicionales de Marketo {#log-in-and-create-additional-marketo-users}
 
