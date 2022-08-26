@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 'Configurar y agregar una persona: documentos de Marketo: documentación del producto'
 title: Configurar y agregar una persona
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Hay algunas cosas que hacer antes de comenzar las misiones.
 
 1. [Iniciar sesión en Marketo](https://app.marketo.com){target=&quot;_blank&quot;} utilizando las credenciales que recibió por correo electrónico.
 
-   ![](assets/one.png)
+   ![](assets/get-set-up-and-add-a-person-1.png)
 
 ## Paso 2: Crear una carpeta de aprendizaje {#step-create-a-learning-folder}
 
@@ -26,19 +26,19 @@ Creemos una carpeta para guardar todo lo que hagan en las misiones.
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/two.png)
+   ![](assets/get-set-up-and-add-a-person-2.png)
 
 1. Haga clic en el **Nuevo** y seleccione **Nueva carpeta de campañas**.
 
-   ![](assets/image2014-9-24-10-3a53-3a38.png)
+   ![](assets/get-set-up-and-add-a-person-3.png)
 
 1. Asigne un nombre a la carpeta &quot;Aprendizaje&quot; y haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-10-3a53-3a55.png)
+   ![](assets/get-set-up-and-add-a-person-4.png)
 
-1. Verá que la nueva carpeta Aprendizaje aparece en el menú de la izquierda.
+1. Verá la nueva carpeta de aprendizaje en el menú de la izquierda.
 
-   ![](assets/image2014-9-24-10-3a54-3a9.png)
+   ![](assets/get-set-up-and-add-a-person-5.png)
 
 ## Paso 3: Añádase a usted mismo como persona {#step-add-yourself-as-a-person}
 
@@ -46,15 +46,15 @@ Añádese como persona en Marketo para poder enviarse correos electrónicos de p
 
 1. Vaya a la **Base de datos** .
 
-   ![](assets/db.png)
+   ![](assets/get-set-up-and-add-a-person-6.png)
 
 1. Haga clic en el **Nuevo** y seleccione **Nueva persona**.
 
-   ![](assets/seven.png)
+   ![](assets/get-set-up-and-add-a-person-7.png)
 
 1. Escriba su nombre y apellidos, dirección de correo electrónico y nombre de la empresa y, a continuación, haga clic en **Crear** para agregarse como persona.
 
-   ![](assets/eight.png)
+   ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
@@ -62,11 +62,11 @@ Añádese como persona en Marketo para poder enviarse correos electrónicos de p
 
 1. Para ver a sus usuarios, abra las Listas inteligentes del sistema en el menú de la izquierda y, a continuación, haga clic en Todas las personas.
 
-   ![](assets/nine.png)
+   ![](assets/get-set-up-and-add-a-person-9.png)
 
 1. Haga clic en el **People** pestaña . Debería verse en la base de datos.
 
-   ![](assets/ten.png)
+   ![](assets/get-set-up-and-add-a-person-10.png)
 
 ## Configuración completada {#set-up-complete}
 
