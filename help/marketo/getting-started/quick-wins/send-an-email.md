@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: 'Envío de un correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Enviar un correo electrónico
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -22,11 +22,11 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. Seleccione su **Aprendizaje** carpeta. Haga clic en el **Nuevo** y seleccione **Nuevo programa**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. Escriba un **Nombre** y seleccione **Correo electrónico** para **Tipo de programa.**
 
@@ -34,29 +34,29 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
    >
    >Añada sus iniciales al final del nombre del programa para que sea único.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. En **Canal**, seleccione **Envío de correo electrónico** y haga clic en **Crear**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## Definir la audiencia {#define-your-audience}
 
 1. Haga clic en **Editar lista inteligente** en el mosaico Audiencia .
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
 1. Busque y arrastre el filtro Dirección de correo electrónico al lienzo.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Uso **Buscar** en la parte superior de la lista Filtros para encontrar el filtro más fácilmente.
+   >Utilice la variable **Buscar** para buscar filtros más fácilmente.
 
 1. Busque y seleccione su dirección de correo electrónico.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 1. Vuelva a la pestaña del programa principal y haga clic en el icono de actualización de **Persona**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    Debería ver que el recuento de personas sube a 1. ¡Tú eres!
 
@@ -76,15 +76,15 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 1. En el mosaico Correo electrónico , haga clic en **Nuevo correo electrónico**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. Escriba un **Nombre**, seleccione un **Plantilla** y haga clic en **Crear**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. Se abrirá la ventana del editor de correo electrónico. Introduzca un asunto de 50 caracteres o menos (recomendado).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 1. Seleccione el área que desea editar, haga clic en el icono de engranaje de la derecha y, a continuación, seleccione **Editar** (también puede hacer doble clic en la sección editable para editarla).
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. Introduzca el contenido que desea y haga clic en **Guardar**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. Los cambios se guardarán automáticamente. Cierre la pestaña o ventana del editor.
+1. Haga clic en el **Acciones de correo electrónico** y seleccione **Aprobar y cerrar**.
 
-   ![](assets/fourteen.png)
-
-1. Haga clic en el **Acciones de correo electrónico** y seleccione **Aprobar**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 1. Seleccione el programa de correo electrónico en el árbol de la izquierda.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. En el mosaico Programar , establezca el día de lanzamiento del correo electrónico en **Hoy.**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >Más información sobre [Zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} y [Inicio del cabezal](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. Seleccione una hora que sea de al menos 15 minutos en el futuro.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ Es lo primero que todos quieren hacer. ¡Enviemos un correo electrónico desde M
 
 1. Haga clic en **Aprobar programa** en el mosaico Aprobación y ya has terminado.
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 Debe recibir el correo electrónico poco después del día/hora programados.
 
