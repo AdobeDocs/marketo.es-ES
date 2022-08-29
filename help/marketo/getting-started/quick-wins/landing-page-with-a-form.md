@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: 'Página de aterrizaje con un formulario: Documentos de Marketo: Documentación del producto'
 title: Página de aterrizaje con un formulario
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -22,45 +22,39 @@ ht-degree: 0%
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/ma.png)
+   ![](assets/landing-page-with-a-form-1.png)
 
-1. Seleccione el **Aprendizaje** carpeta creada en el [victoria rápida anterior](/help/marketo/getting-started/quick-wins/send-an-email.md).
+1. Seleccione el **Aprendizaje** carpeta creada en el [victoria rápida anterior](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}. En **Nuevo**, haga clic en **Nuevo programa**.
 
-   ![](assets/image2014-9-8-17-3a45-3a34.png)
-
-1. En **Nuevo**, haga clic en **Nuevo programa**.
-
-   ![](assets/image2014-9-8-17-3a45-3a49.png)
+   ![](assets/landing-page-with-a-form-2.png)
 
 1. Introducir un programa **Nombre**, seleccione un **Canal** y haga clic en **Crear**.
 
+   ![](assets/landing-page-with-a-form-3.png)
+
+   >[!TIP]
+   >
+   >Incluya sus iniciales al final del nombre del programa para que sea único.
+
    >[!NOTE]
    >
-   >Incluya sus iniciales al final del Nombre del programa para que sea único.
-
-   ![](assets/image2014-9-8-17-3a46-3a28.png)
-
-   >[!NOTE]
-   >
-   >Un programa es una iniciativa de marketing específica. La variable **canal** está diseñado para ser el mecanismo de entrega, como seminario web, patrocinio o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
-
-   ![](assets/image2014-9-8-17-3a46-3a47.png)
+   >Un programa es una iniciativa de marketing específica. La variable **canal** está diseñado para ser el mecanismo de entrega, como seminario web, patrocinio o publicidad en línea. Puede ver diferentes opciones de canal en la lista desplegable, según lo que esté disponible en su propia instancia. También puede [crear su propio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target=&quot;_blank&quot;}.
 
 ¡Bien hecho! Ahora que hemos creado un programa, sigamos adelante y creemos algo de contenido.
 
 ## PASO 2: Crear un formulario {#step-create-a-form}
 
-1. Con el programa seleccionado, haga clic en **Nuevo** then **Nuevo recurso local**.
+1. Con el programa seleccionado, haga clic en el botón **Nuevo** y seleccione **Nuevo recurso local**.
 
-   ![](assets/image2014-9-24-11-3a4-3a29.png)
+   ![](assets/landing-page-with-a-form-4.png)
 
 1. Select **Formulario**.
 
-   ![](assets/image2014-9-24-11-3a4-3a42.png)
+   ![](assets/landing-page-with-a-form-5.png)
 
 1. Escribir un formulario **Nombre** y haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-11-3a5-3a0.png)
+   ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
@@ -68,57 +62,55 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >¿No ve el editor de formularios? Es probable que el navegador haya bloqueado la ventana. Habilitar ventanas emergentes de [app.marketo.com](https://app.marketo.com/) en el explorador y haga clic en Editar borrador en la barra de menú superior.
+   >¿No ve el editor de formularios? Es probable que el navegador haya bloqueado la ventana. Habilitar ventanas emergentes de `app.marketo.com` en el explorador y haga clic en Editar borrador en la barra de menú superior.
 
 1. Seleccione el **Dirección de correo electrónico** campo y marcar **Es obligatorio**.
 
-   ![](assets/image2014-9-24-11-3a5-3a27.png)
+   ![](assets/landing-page-with-a-form-7.png)
 
 1. Haga clic en **Siguiente**.
 
-   ![](assets/image2014-9-24-11-3a5-3a44.png)
+   ![](assets/landing-page-with-a-form-8.png)
 
 1. Haga clic en las flechas para desplazarse por los temas. Seleccione una.
 
-   ![](assets/image2014-9-24-11-3a6-3a0.png)
+   ![](assets/landing-page-with-a-form-9.png)
 
 1. Haga clic en **Siguiente**.
 
-   ![](assets/image2014-9-24-11-3a6-3a19.png)
+   ![](assets/landing-page-with-a-form-10.png)
 
 1. En la sección Página de agradecimiento , seleccione **Dirección URL externa** para **Realizar el seguimiento con**.
 
-   ![](assets/image2014-9-24-11-3a6-3a35.png)
+   ![](assets/landing-page-with-a-form-11.png)
 
 1. Introduzca la dirección URL.
 
-   ![](assets/image2014-9-24-11-3a6-3a50.png)
+   ![](assets/landing-page-with-a-form-12.png)
 
    >[!NOTE]
    >
-   >En la página de seguimiento se redirige al visitante después de rellenar el formulario. La URL externa es una opción, pero hay más. Consulte [Establecer una página de agradecimiento de formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >En la página de seguimiento se redirige al visitante después de rellenar el formulario. La URL externa es una opción, pero hay más. Consulte [Establecer una página de agradecimiento de formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target=&quot;_blank&quot;}.
 
 1. Haga clic en **Finalizar**.
 
-   ![](assets/image2014-9-24-11-3a7-3a3.png)
+   ![](assets/landing-page-with-a-form-13.png)
 
 1. Haga clic en **Aprobar y cerrar**.
 
-   ![](assets/image2014-9-24-11-3a7-3a15.png)
+   ![](assets/landing-page-with-a-form-14.png)
 
-   ¡Super! Ahora tiene un programa con un formulario. Sigamos adelante y creemos una página.
-
-   ![](assets/image2014-9-24-11-3a7-3a32.png)
+   ¡Excelente! Ahora tiene un programa con un formulario. Sigamos adelante y creemos una página.
 
 ## PASO 3: Crear una página de aterrizaje y agregar el formulario {#step-create-a-landing-page-and-add-your-form}
 
 1. Con el programa seleccionado, haga clic en **Nuevo** y luego **Nuevo recurso local**.
 
-   ![](assets/image2014-9-24-11-3a7-3a51.png)
+   ![](assets/landing-page-with-a-form-15.png)
 
 1. Select **Página de aterrizaje**.
 
-   ![](assets/image2014-9-24-11-3a8-3a5.png)
+   ![](assets/landing-page-with-a-form-16.png)
 
 1. Escriba una página **Nombre**, seleccione una plantilla y haga clic en **Crear**.
 
@@ -126,61 +118,61 @@ ht-degree: 0%
    >
    >Puede que tengas una plantilla diferente a la de nuestra captura de pantalla, está bien, simplemente elige una y sigue adelante.
 
-   ![](assets/image2014-9-24-11-3a8-3a23.png)
+   ![](assets/landing-page-with-a-form-17.png)
 
 1. Una vez que se abra el editor de páginas de aterrizaje, arrastre el elemento Formulario al lienzo.
 
-   ![](assets/twentyone.png)
+   ![](assets/landing-page-with-a-form-18.png)
 
 1. Busque y seleccione el formulario y haga clic en **Insertar**.
 
-   ![](assets/image2014-9-24-11-3a8-3a53.png)
+   ![](assets/landing-page-with-a-form-19.png)
 
 1. Arrastre el formulario hasta la ubicación deseada.
 
-   ![](assets/image2014-9-24-11-3a9-3a6.png)
+   ![](assets/landing-page-with-a-form-20.png)
 
 1. Todos los cambios se guardan automáticamente. Cierre la pestaña o ventana del editor de formularios.
 
-   ![](assets/image2014-9-24-11-3a9-3a19.png)
+   ![](assets/landing-page-with-a-form-21.png)
 
    ¡bueno trabajo! Ahora tiene una página de aterrizaje con un formulario en ella. Aprobemos su página para que se active.
 
 ## PASO 4: Aprobar la página de aterrizaje {#step-approve-your-landing-page}
 
-1. Seleccione la página de aterrizaje en **Acciones de página de aterrizaje** click **Aprobar**.
+1. Seleccione la página de aterrizaje y haga clic en **Aprobar borrador**.
+
+   ![](assets/landing-page-with-a-form-22.png)
 
    >[!NOTE]
    >
    >La aprobación de la página de aterrizaje la hará activa y estará disponible para el acceso a través de Internet.
 
-   ![](assets/image2014-9-24-11-3a9-3a37.png)
-
    ¡Perfecto! ¿Ves la marca de verificación verde?
 
-   ![](assets/image2014-9-24-11-3a9-3a53.png)
+   ![](assets/landing-page-with-a-form-23.png)
 
 ## PASO 5: Probar el formulario {#step-test-your-form}
 
 1. Seleccione la página de aterrizaje y haga clic en **Ver página aprobada**.
 
-   ![](assets/image2014-9-24-11-3a10-3a9.png)
+   ![](assets/landing-page-with-a-form-24.png)
 
 1. Rellene el formulario con información que sepa que es única y haga clic en **Submit**.
 
-   ![](assets/image2014-9-24-11-3a10-3a23.png)
+   ![](assets/landing-page-with-a-form-25.png)
 
 1. Vaya a la **Base de datos** .
 
-   ![](assets/db-1.png)
+   ![](assets/landing-page-with-a-form-26.png)
 
 1. Busque la dirección de correo electrónico única que utilizó al rellenar el formulario.
 
-   ![](assets/30.png)
+   ![](assets/landing-page-with-a-form-27.png)
 
    ¡Ahí está! Ha creado una nueva página de aterrizaje con un formulario en ella y la ha utilizado para generar una nueva persona.
 
-   ![](assets/thirty-one.png)
+   ![](assets/landing-page-with-a-form-28.png)
 
 ## ¡Misión finalizada! {#mission-complete}
 
