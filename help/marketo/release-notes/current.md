@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Las siguientes funciones empezarán a lanzarse en **26 de agosto de 2022**, con 
 
 ## Organización en canales múltiples {#cross-channel-orchestration}
 
-* **Habilitar/deshabilitar todos los cuadros de diálogo publicados a la vez para el chat dinámico**: Habilite/deshabilite globalmente todos los cuadros de diálogo publicados a la vez desde la página Configuración con solo pulsar un botón.
+* **[Habilitar/deshabilitar todos los cuadros de diálogo publicados a la vez para el chat dinámico](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Habilite/deshabilite globalmente todos los cuadros de diálogo publicados a la vez desde la página Configuración con solo pulsar un botón.
 
 * **Avatares personalizados para Dynamic Chat**: Cargue un avatar de bots de chat personalizado para que se pueda personalizar para su marca.
 
