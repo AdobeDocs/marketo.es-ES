@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Las siguientes funciones empezarán a lanzarse en **26 de agosto de 2022**, con 
 
 * **[Habilitar/deshabilitar todos los cuadros de diálogo publicados a la vez para el chat dinámico](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Habilite/deshabilite globalmente todos los cuadros de diálogo publicados a la vez desde la página Configuración con solo pulsar un botón.
 
-* **Avatares personalizados para Dynamic Chat**: Cargue un avatar de bots de chat personalizado para que se pueda personalizar para su marca.
+* **[Avatares personalizados para Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Cargue un avatar de bots de chat personalizado para que se pueda personalizar para su marca.
 
 * **Transcripciones de chat para Dynamic Chat**: Vea las transcripciones de chat de cada conversación para obtener una perspectiva más profunda de en qué está interesado cada visitante de la web.
 
@@ -33,7 +33,7 @@ Las siguientes funciones empezarán a lanzarse en **26 de agosto de 2022**, con 
 
 * **Mostrar la jerarquía de carpetas de la carpeta de destino en el cuadro de diálogo Mover**: Al ver la jerarquía de carpetas de cada carpeta, es más fácil mover recursos y se reduce la probabilidad de colocarlos en la carpeta incorrecta.
 
-* **Pantallas actualizadas en la experiencia de próxima generación**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
+* **[Pantallas actualizadas en la experiencia de próxima generación](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
 
    * Detalles de fragmento
    * Detalles de &quot;Imágenes y archivos&quot;
@@ -44,7 +44,7 @@ Las siguientes funciones empezarán a lanzarse en **26 de agosto de 2022**, con 
 
 ## Automatización de la experiencia {#experience-automation}
 
-* **Pasos del flujo de autoservicio: mejoras en la importación de programas**: Se ha mejorado la compatibilidad con la importación de programas con pasos de flujo personalizados, en los que ahora puede utilizar varias instancias del mismo proveedor de servicios y programas de importación que tengan pasos de flujo compatibles con dichos proveedores de servicios.
+* **[Pasos del flujo de autoservicio: mejoras en la importación de programas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Se ha mejorado la compatibilidad con la importación de programas con pasos de flujo personalizados, en los que ahora puede utilizar varias instancias del mismo proveedor de servicios y programas de importación que tengan pasos de flujo compatibles con dichos proveedores de servicios.
 
 * **Munchkin: Seguimiento de vínculos ampliado**: Ampliación de la compatibilidad con el seguimiento de `tel` y `mailto` vínculos con Munchkin para realizar el seguimiento de un conjunto ampliado de comportamientos web.
 
@@ -68,7 +68,7 @@ Las siguientes funciones empezarán a lanzarse en **26 de agosto de 2022**, con 
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Integración de perspectivas de ventas con Dynamic Chat**: Vea las actividades desde Dynamic Chat en el panel Perspectiva de ventas y aproveche este nuevo punto de datos en su esfuerzo de prospección.
+* **[Integración de perspectivas de ventas con Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Vea las actividades desde Dynamic Chat en el panel Perspectiva de ventas y aproveche este nuevo punto de datos en su esfuerzo de prospección.
 
 ## Anuncios {#announcements}
 

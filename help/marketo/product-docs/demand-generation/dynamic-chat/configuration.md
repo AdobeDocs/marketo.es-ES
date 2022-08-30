@@ -2,7 +2,7 @@
 description: Configuración - Documentos de Marketo - Documentación del producto
 title: Configuración
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Existen varias opciones de personalización diferentes.
 
 ## Pestaña Estilo {#style-tab}
 
-**Estilo**
+### Estilo {#style}
 
 Aquí es donde definirá el aspecto del bot de chat en el que se mostrarán sus diálogos, incluidos: colores, fuentes, ubicación del widget bot y el nombre/avatar del bot de chat.
 
@@ -35,7 +35,7 @@ El delimitador permite que el visitante del sitio abra o cierre el cuadro de di�
 
 ![](assets/configuration-4.png)
 
-**Configuración del agente**
+### Configuración del agente {#agent-settings}
 
 En Configuración del agente, puede agregar una etiqueta a su chat (por ejemplo: &quot;Bot de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de respuesta (en segundos) y cambiar el avatar de conversación. Para cargar su propia imagen de avatar, haga clic en el botón **+** botón.
 
