@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: 'Puntuación simple: Documentos de Marketo: Documentación del producto'
 title: Puntuación simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 10637f7853c5b0f8a076779d95b8163b2de8abcb
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -22,57 +22,57 @@ ht-degree: 0%
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/ma-1.png)
+   ![](assets/simple-scoring-1.png)
 
 1. Haga clic con el botón derecho en su **Aprendizaje** carpeta y haga clic en **Nueva carpeta de campañas**.
 
-   ![](assets/two-2.png)
+   ![](assets/simple-scoring-2.png)
 
-1. Asigne a la carpeta de campañas el nombre &quot;Puntuación&quot;.
+1. Asigne a la carpeta de campañas el nombre &quot;Puntuación&quot; y haga clic en **Crear**.
 
-   ![](assets/three-1.png)
+   ![](assets/simple-scoring-3.png)
 
    >[!NOTE]
    >
    >Si ya tiene una carpeta de Puntuación, asígnele un nombre diferente a este, como Puntuación 1. Los nombres de carpeta deben ser únicos.
 
-1. A continuación, haga clic con el botón secundario en la nueva **Puntuación** carpeta y seleccione **Nueva campaña inteligente**.
+1. Haga clic con el botón derecho en su **Puntuación** carpeta y seleccione **Nueva campaña inteligente**.
 
-   ![](assets/four.png)
+   ![](assets/simple-scoring-4.png)
 
-1. **Nombre** la campaña &quot;Cambiar puntuación&quot; y haga clic en **Crear**.
+1. Asigne a la campaña el nombre &quot;Cambiar puntuación&quot; y haga clic en **Crear**.
 
-   ![](assets/five-1.png)
+   ![](assets/simple-scoring-5.png)
 
 1. Haga clic en el **Lista inteligente** pestaña .
 
-   ![](assets/six-1.png)
+   ![](assets/simple-scoring-6.png)
 
    Queremos que esta campaña se ejecute siempre que una persona rellene su **Formulario de solicitud de prueba**.
 
 1. Busque y arrastre el **Rellena el formulario** déclencheur en el lienzo izquierdo.
 
-   ![](assets/image2014-9-24-11-3a43-3a35.png)
+   ![](assets/simple-scoring-7.png)
 
 1. Select **Mi formulario**.
 
+   ![](assets/simple-scoring-8.png)
+
    >[!NOTE]
    >
-   >Si ha completado el [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} victoria rápida debe tener el formulario. Si ha utilizado un nombre diferente para el formulario, selecciónelo.
-
-   ![](assets/image2014-9-24-11-3a44-3a16.png)
+   >Si ha completado el [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} victoria rápida, debería tener el formulario . Si ha utilizado un nombre diferente para el formulario, selecciónelo.
 
 1. Haga clic en el **Flujo** pestaña .
 
-   ![](assets/image2014-9-24-11-3a44-3a33.png)
+   ![](assets/simple-scoring-9.png)
 
 1. Arrastre el **Cambiar puntuación** en el lienzo izquierdo.
 
-   ![](assets/image2014-9-24-11-3a44-3a45.png)
+   ![](assets/simple-scoring-10.png)
 
 1. Puede escribir cualquier valor que desee añadir a la puntuación de la persona. Introduzcamos &quot;+5&quot; en la **Cambiar** campo .
 
-   ![](assets/eleven-1.png)
+   ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
@@ -80,11 +80,11 @@ ht-degree: 0%
 
 1. Haga clic en el **Programación** y **Activar** botón.
 
-   ![](assets/twelve-1.png)
+   ![](assets/simple-scoring-12.png)
 
 1. Haga clic en **Activar** en la pantalla de confirmación.
 
-   ![](assets/thirteen-1.png)
+   ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
@@ -94,15 +94,15 @@ ht-degree: 0%
 
 1. Seleccione la página de aterrizaje que ha creado en la [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} victoria rápida.
 
-   ![](assets/fourteen-1.png)
+   ![](assets/simple-scoring-14.png)
 
-1. Haga clic en **Ver página aprobada**. La página de aterrizaje se abrirá en una pestaña nueva.
+1. Haga clic en **Vista previa**. La página de aterrizaje se abrirá en una pestaña nueva.
 
-   ![](assets/image2014-9-24-11-3a47-3a51.png)
+   ![](assets/simple-scoring-15.png)
 
 1. Rellene el formulario con su nombre, apellidos y dirección de correo electrónico y, a continuación, haga clic en **Submit**.
 
-   ![](assets/image2014-9-24-11-3a47-3a59.png)
+   ![](assets/simple-scoring-16.png)
 
    >[!NOTE]
    >
@@ -112,19 +112,19 @@ ht-degree: 0%
 
 1. Vaya al área Base de datos.
 
-   ![](assets/db-2.png)
+   ![](assets/simple-scoring-17.png)
 
 1. Busque la dirección de correo electrónico que utilizó al rellenar el formulario.
 
-   ![](assets/eighteen.png)
+   ![](assets/simple-scoring-18.png)
 
 1. Haga doble clic en su persona.
 
-   ![](assets/nineteen.png)
+   ![](assets/simple-scoring-19.png)
 
-Los detalles de la persona se abrirán en una nueva pestaña o ventana. ¡¿Ver cómo su puntuación aumentó en 5 puntos para rellenar el formulario?!
+Los detalles de la persona se abrirán en una nueva pestaña o ventana. ¿Ver cómo su puntuación aumentó en 5 puntos para rellenar el formulario?
 
-![](assets/twenty.png)
+![](assets/simple-scoring-20.png)
 
 ## ¡Misión finalizada! {#mission-complete}
 
