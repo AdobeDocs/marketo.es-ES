@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: 'Importar una lista de personas: Marketo Docs: documentación del producto'
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%
@@ -24,7 +24,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. Para empezar, descargue nuestro archivo de hoja de cálculo de prácticas ([**discursos-asistentes.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) en el equipo.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. Añada su propio nombre, apellido, dirección de correo electrónico real (para que pueda recibir los correos electrónicos de formación que enviará en la próxima misión) y el puesto que ocupa. Guarde el archivo en el equipo.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. Seleccione su **Aprendizaje** carpeta, luego debajo de **Nuevo** click **Nuevo programa**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **Nombre** el programa &quot;My Tradeshow Program&quot; y seleccione &quot;Event&quot; para el **Tipo de programa**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. Select **Programa comercial** para el **Canal** y haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. En **Mi programa de exhibición comercial**, haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. Haga clic en **Lista**.
+1. Select **Lista**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **Nombre** la lista &quot;Asistentes a la feria comercial&quot; y haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. En **Asistentes a la feria comercial** lista, haga clic en **Acciones de lista** y seleccione **Lista de importación**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. **Examinar** a **discursos-asistentes.csv** en el equipo y haga clic en **Siguiente**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. Asigne los campos de la columna de lista a sus respectivos campos de Marketo y haga clic en **Siguiente**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
 
 1. Select **Mi programa de exhibición comercial** para el **Programa de adquisición** y haga clic en **Importar**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. Espere a que las personas se importen y cierre la ventana emergente de progreso de importación.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. Volver **Mi programa de exhibición comercial**, haga clic en **Miembros** pestaña . Verán a todas las personas que acaban de importar.
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
