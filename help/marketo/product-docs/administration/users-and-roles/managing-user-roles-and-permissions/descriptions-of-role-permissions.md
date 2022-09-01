@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descripciones de los permisos de funciones - Documentos de Marketo - Documentación del producto
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 2%
 
 ---
@@ -162,7 +162,6 @@ Vea la base de datos, así como vea y edite listas inteligentes/estáticas.
    * Eliminar segmentación
    * Editar segmentación
 
-* Importación de lista avanzada
 * Eliminar persona
 * Eliminar lista
 * Editar persona : evita la edición manual y la ejecución de pasos de flujo único; aún puede editar personas ejecutando campañas en su contra
