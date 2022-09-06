@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Perforación, Perforación, Aurtura - Marketo Docs - Documentación del producto
 title: Perforación, Perforación
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -26,35 +26,35 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Seleccione el **Aprendizaje** , haga clic en el botón **Nuevo** y seleccione **Nuevo programa**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Escriba un **Nombre** y seleccione **Participación** para el **Tipo de programa**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Asegúrese de que la variable **Canal** el campo es **Nurtura** y haga clic en **Crear**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    Ahora ha creado un programa de participación.
 
 ## Paso 2: Crear un correo electrónico {#step-create-an-email}
 
-1. Seleccione su programa de participación y haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
+1. Seleccione su programa de participación, haga clic en **Nuevo** y seleccione **Nuevo recurso local**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Haga clic en **Correo electrónico**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Escriba un **Nombre**, seleccione **Plantilla** desea utilizar y haga clic en **Crear**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 1. Introduzca un asunto.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Seleccione el área del correo electrónico que desea editar, haga clic en el icono de engranaje y seleccione **Editar**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Edite el correo electrónico y haga clic en **Guardar**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Cierre la pestaña o ventana del editor de correo electrónico.
+1. En **Acciones de correo electrónico**, haga clic en **Aprobar y cerrar**.
 
-   ![](assets/eleven-3.png)
-
-1. En **Acciones de correo electrónico**, haga clic en **Aprobar**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >No olvide aprobar sus correos electrónicos o no podrá activarlos más adelante.
+   >Recuerde aprobar los correos electrónicos o no podrá activarlos más adelante.
 
-1. Ahora cree otro correo electrónico repitiendo las acciones del paso 2.
+1. Ahora cree otro correo electrónico repitiendo las acciones de los pasos 2-7.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Paso 3: Añadir contenido a la emisión {#step-add-content-to-your-stream}
 
-1. Ahora es el momento de crear un flujo de contenido para su programa de participación mediante los correos electrónicos que ha creado.
+Ahora es el momento de crear un flujo de contenido para su programa de participación mediante los correos electrónicos que ha creado.
 
-1. Seleccione su programa de participación y haga clic en el **Transmisiones** pestaña .
+1. Seleccione su programa de participación y haga clic en el botón **Transmisiones** pestaña .
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Arrastre los dos correos electrónicos que ha creado al lienzo derecho.
+1. Haga clic en el **Añadir contenido** del flujo.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >También puede usar la variable **Añadir contenido** o la secuencia **+** icono.
+   >También puede usar la variable **+** icono.
+
+1. Deje seleccionado el tipo &quot;Correo electrónico&quot;. Busque y seleccione los dos correos electrónicos que ha creado.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Paso 4: Activar el contenido del flujo {#step-activate-stream-content}
 
 1. Para activar todo el contenido a la vez, haga clic en el icono de la rueda de engranaje y, a continuación, haga clic en **Activar todo el contenido**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 1. Haga clic en **Establecer secuencia de flujo**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Edite la configuración para que coincida con la programación que desee y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Su programa de participación está configurado. Ahora vamos a agregar una persona de prueba a su programa.
 
@@ -136,23 +136,23 @@ Puede crear fácilmente un sistema de alimentación avanzado y sofisticado en Ma
 
 1. Vaya a la **Base de datos** .
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Busque la persona de prueba.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Asegúrese de que la persona de prueba tiene una dirección de correo electrónico válida para que pueda confirmar la recepción de correos electrónicos al realizar la prueba.
 
-1. Haga clic con el botón derecho en la persona y, a continuación, haga clic en Programas y en Agregar al programa de participación.
+1. Haga clic con el botón derecho en la persona y, a continuación, haga clic en **Programas** y **Agregar al programa de participación**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Seleccione su **Programa** y **Flujo** y haga clic en **Ejecutar ahora**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. ¡Misión finalizada!
 
