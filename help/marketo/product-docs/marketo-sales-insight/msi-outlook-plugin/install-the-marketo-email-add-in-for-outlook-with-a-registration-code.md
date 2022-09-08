@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 'Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro: Marketo Docs: documentación del producto'
 title: Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ Si no ha recibido ningún correo electrónico de invitación, pídale al adminis
 
 >[!IMPORTANT]
 >
->La instalación no es compatible con los equipos en los que la carpeta Usuario de Windows contiene caracteres que no estén en inglés. Esta carpeta la genera automáticamente Windows en <System Root>\Usuarios\ basado en el nombre de usuario de Windows y puede contener caracteres que no sean de inglés si el nombre de usuario de Windows no es de inglés. Trabaje con su equipo de TI para comprobar si tiene problemas de instalación.
+>La instalación no es compatible con los equipos en los que la carpeta Usuario de Windows contiene caracteres que no estén en inglés. Esta carpeta la genera automáticamente Windows en `<System Root>\Users\` en función del nombre de usuario de Windows y puede contener caracteres que no sean de inglés si el nombre de usuario de Windows no es de inglés. Trabaje con su equipo de TI para comprobar si tiene problemas de instalación.
 
 >[!NOTE]
 >
