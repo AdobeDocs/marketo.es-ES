@@ -1,34 +1,37 @@
 ---
 unique-page-id: 10096712
-description: Crear su Evento de seminario web en ON24 - Documentos de marketing - Documentación del producto
-title: Cree su Evento de seminario web en ON24
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Crear el evento de seminario web en ON24: Documentos de Marketo: Documentación del producto'
+title: Crear el evento de seminario web en ON24
+exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
+# Crear el evento de seminario web en ON24 {#create-your-webinar-event-in-on}
 
-# Cree su Evento de seminario web en ON24 {#create-your-webinar-event-in-on}
+>[!IMPORTANT]
+>
+>A partir de agosto de 2022, ON24 ya no es compatible con las nuevas integraciones de Marketo. La información de este artículo solo se aplica a los usuarios existentes.
 
-Después de crear el seminario web en ON24, puede crear un evento de marketing y asociarlo al seminario web ON24. Esto permite que los sistemas compartan información de registro y asistencia. Tenga en cuenta la dirección URL y otra información para utilizarla en el correo electrónico de confirmación y en el archivo ICS.
+Después de crear el seminario web en ON24, puede crear un evento de Marketo y asociarlo al seminario web ON24. Esto permite a los sistemas compartir información de registro y asistencia. Anote la dirección URL y otra información para su uso en el correo electrónico de confirmación y en el archivo ICS.
 
-En la creación de su seminario web ON24 hay ciertas opciones que Marketo y otros utilizan únicamente ON24. Marketing utiliza esta configuración:
+Hay ciertas opciones en la creación del seminario web ON24 que Marketo y otras usan solo en ON24. Marketo utiliza esta configuración:
 
 **Título y descripción**
 
-* Título de evento: el nombre del seminario web. Esto se podrá ver en Marketing.
-* Resumen de eventos (opcional): descripción del seminario web. Esto se podrá ver en Marketing.
+* Título del evento : el nombre del seminario web. Esto se puede ver en Marketo.
+* Resumen de eventos (opcional): la descripción del seminario web. Esto se puede ver en Marketo.
 
 **Fecha y hora**
 
-* Inicio de Evento en vivo: la fecha y hora del inicio. Esto se podrá ver en Marketing.
-* Hora de finalización en directo: la fecha y hora de fin. Esto se podrá ver en Marketing.
+* Inicio del evento activo: fecha y hora de inicio. Esto se puede ver en Marketo.
+* Hora de finalización activa: la fecha y hora de finalización. Esto se puede ver en Marketo.
 
-El siguiente paso es [crear un evento en Marketing](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md).
+El siguiente paso es [crear un evento en Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md).
 
 >[!MORELIKETHIS]
 >
->[Explicación de los Eventos del adaptador de Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Explicación de los eventos del adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
