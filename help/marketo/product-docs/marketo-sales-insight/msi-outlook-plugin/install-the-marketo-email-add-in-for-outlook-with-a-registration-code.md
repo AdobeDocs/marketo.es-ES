@@ -1,33 +1,36 @@
 ---
 unique-page-id: 2949711
-description: Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro - Marketo Docs - Documentación del producto
+description: 'Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro: Marketo Docs: documentación del producto'
 title: Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
+source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
-
 
 # Instalación del complemento de correo electrónico de Marketo para Outlook con un código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Si los usuarios pueden acceder a la configuración de administración de sus portátiles, puede enviarles un código de registro directamente.
 
-Si no ha recibido un correo electrónico de invitación, pídale al administrador de Marketo que lo invite.
+Si no ha recibido ningún correo electrónico de invitación, pídale al administrador de Marketo que le invite.
 
 >[!PREREQUISITES]
 >
->Debe [obtener una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Debe ser [se ha emitido una licencia de Marketo Email Add-in](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+
+>[!IMPORTANT]
+>
+>La instalación no es compatible con los equipos en los que la carpeta Usuario de Windows contiene caracteres que no estén en inglés. Esta carpeta la genera automáticamente Windows en <System Root>\Usuarios\ basado en el nombre de usuario de Windows y puede contener caracteres que no sean de inglés si el nombre de usuario de Windows no es de inglés. Trabaje con su equipo de TI para comprobar si tiene problemas de instalación.
 
 >[!NOTE]
 >
->Desde el 20/1/10, la última versión del complemento de Outlook ya no admite el modo sin conexión. Esto tendrá efecto después de instalar/actualizar en o después de 10/1.
+>El 20/1/10, la última versión del complemento de Outlook dejó de admitir el modo sin conexión.
 
 ## Descargar instalador {#download-installer}
 
-1. Identifique su [versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identifique su [Versión de Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
 1. Haga clic en el vínculo para descargar el instalador adecuado para su versión de Microsoft Outlook.
 
@@ -37,7 +40,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    | Versión de Outlook | Outlook de 32 bits | Outlook de 64 bits |
    |---|---|---|
-   | Outlook 2000 | No admitido | N/D |
+   | Outlook 2000 | No admitido | N/A |
    | Outlook 2003 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
    | Outlook 2007 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
    | Outlook 2010 | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Descargar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
@@ -50,7 +53,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    *Versión de Office 365: Sólo cliente de Windows (en Windows 10, Enterprise o Pro).
 
-## Copie su código de registro {#copy-your-registration-code}
+## Copiar el código de registro {#copy-your-registration-code}
 
 1. Copie el código de registro del correo electrónico de invitación que recibió.
 
@@ -74,7 +77,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Rellene **First Name**, **Last Name**, **Email Address**, copie y pegue el **Registration code** del correo electrónico en el formulario y haga clic en **Next**.
+1. Completar **Nombre**, **Apellidos**, **Dirección de correo electrónico** y, a continuación, copie y pegue el **Código de registro** del correo electrónico al formulario y haga clic en **Siguiente**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -82,7 +85,7 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
    >
    >Si la instalación falla, consulte con su departamento de TI para asegurarse de que el tráfico HTTPS no esté bloqueado. El instalador requiere que se abra el tráfico HTTPS.
 
-1. Haga clic en **Next** para instalar en la ubicación predeterminada.
+1. Haga clic en **Siguiente** para instalar en la ubicación predeterminada.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -92,17 +95,17 @@ Si no ha recibido un correo electrónico de invitación, pídale al administrado
 
    >[!NOTE]
    >
-   >Si recibe un mensaje de seguridad acerca de un publicador desconocido, haga clic en **Yes**.
+   >Si recibe un mensaje de seguridad sobre un editor desconocido, haga clic en **Sí**.
 
 1. La instalación ya ha finalizado, haga clic en **Cerrar**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. A continuación, abra Microsoft Outlook y vea los botones Marketo .
+1. A continuación, abra Microsoft Outlook y vea los botones de Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   ¡Excelente! Ahora los botones Marketo están en un lugar mejor.
+   ¡Excelente! Ahora los botones de Marketo están en un lugar mejor.
 
 Obtenga más información sobre el uso de las acciones Mensaje de Marketo y Registro con Marketo .
 
