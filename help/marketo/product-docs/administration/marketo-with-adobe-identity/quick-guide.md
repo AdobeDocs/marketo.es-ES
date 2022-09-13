@@ -2,7 +2,7 @@
 description: 'Guía rápida: Documentos de Marketo: Documentación del producto'
 title: Guía rápida
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -45,4 +45,4 @@ Solo los usuarios de API de Marketo Engage deben crearse y administrarse en Mark
 
 ## Preguntas frecuentes {#faq}
 
-[Preguntas frecuentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#faq){target=&quot;_blank&quot;}
+[Preguntas frecuentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target=&quot;_blank&quot;}
