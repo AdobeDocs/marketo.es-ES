@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: Email Deliverability Power Pack - Cómo importar una lista de elementos - Marketo Docs - Documentación del producto
 title: 'Email Deliverability Power Pack: cómo importar una lista de elementos secundarios'
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ Una lista de fuentes es una lista de cuentas de correo electrónico de varios pr
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Haga clic en **Informador de la bandeja de entrada**.
+1. Se abrirá la aplicación Everest. En la navegación de la izquierda, haga clic en **Vuelo** y seleccione **Colocación de la bandeja de entrada**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Haga clic en **Obtener lista de fuentes**.
+1. Haga clic en el **Administrar lista semilla** pestaña .
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Haga clic en **Lista de exportación**.
+1. Haga clic en la lista desplegable Acciones y seleccione **Descargar una por línea**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Choose **Lista de optimización** si quieres 250ok para [optimizar la lista](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) para usted. Choose **Personalizar lista** si desea seleccionar las regiones de la lista de semillas que desea incluir.
+   >Utilice el Optimizador de lista de semilla (en la parte superior de la página) si desea que Everest optimice su lista por usted.
 
 1. Después de la exportación, la lista aparecerá como archivo .txt en la carpeta de descargas del explorador. Recupere y [importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en la instancia de Marketo como una lista estática.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ Una lista de fuentes es una lista de cuentas de correo electrónico de varios pr
 
    >[!CAUTION]
    >
-   >Recibe una cantidad limitada de estas campañas del Informador de la bandeja de entrada por mes. Para ver cuántos obtienes, mira en tu 250ok **Configuración de la cuenta**. Para obtener más información, póngase en contacto con su representante de ventas de Marketo.
+   >Recibe una cantidad limitada de estas campañas de colocación en la bandeja de entrada por mes. Para ver cuántos obtiene, consulte la sección Suscripción en Configuración de cuenta > Suscripción en Everest. Para obtener más información, póngase en contacto con su representante de ventas de Marketo.
 
 ## Adquisición de nuevas listas de semillas {#acquiring-new-seedlists}
 
