@@ -2,9 +2,9 @@
 description: 'Administración de privacidad: documentos de Marketo: documentación del producto'
 title: Administración de privacidad
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ Marketo Engage ofrece un conjunto de herramientas para ayudarle a cumplir con la
 
 >[!NOTE]
 >
->Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para el Marketo Engage solo se aplican a aquellos que tienen las ediciones Marketo Engage + RT-CDP, B2B y B2P.
+>Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para el Marketo Engage solo se aplican a lo siguiente:
+>
+>* usuarios Marketo Engage que se han incorporado al sistema Identity Management de Adobe
+>
+>**-o-**
+>
+>* usuarios Marketo Engage que utilizan otro producto Experience Cloud que ya se encuentra en el sistema Identity Management de Adobe (por ejemplo, RT-CDP, B2B y B2P Editions, Audience Manager).
+
 
 ## Regulaciones sobre administración de la privacidad {#regulations-on-privacy-management}
 
