@@ -3,16 +3,16 @@ unique-page-id: 37355768
 description: 'Importación de recursos con Adobe Experience Manager: Marketo Docs: Documentación del producto'
 title: Importación de recursos con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
 # Importación de recursos con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e importar AEM recursos en Marketo Design Studio. **Se necesitan** permisos de administrador.
+El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e importar AEM recursos en Marketo Design Studio. **Se requieren permisos de administrador**.
 
 >[!AVAILABILITY]
 >
@@ -20,17 +20,17 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
 
 >[!PREREQUISITES]
 >
->Asegúrese de que ya ha realizado la [AEM Configuración](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Asegúrese de que ya ha realizado el [Configuración AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Esta función es totalmente compatible con las versiones actuales de Firefox, Chrome y Edge. No es compatible con Safari.
+>Actualmente, esta función solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la última versión de Chrome, en función de la configuración de cookies de SameSite.
 
 1. Haga clic en **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. Haga clic en la lista desplegable Nuevo y seleccione **Importar desde Adobe Experience Manager**.
+1. Haga clic en la lista desplegable New y seleccione **Importar desde Adobe Experience Manager**.
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
 
    ![](assets/four-1.png)
 
-1. Elija la carpeta . A continuación, seleccione las imágenes que desee haciendo clic en la miniatura (puede elegir hasta 10). Haga clic en **Seleccionar** cuando termine.
+1. Elija la carpeta . A continuación, seleccione las imágenes que desee haciendo clic en la miniatura (puede elegir hasta 10). Haga clic en **Select** cuando haya terminado.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ El Selector de recursos permite a los clientes de Marketo acceder, seleccionar e
    >
    >Las imágenes no pueden superar los 100 MB de tamaño.
 
-1. Haga clic en **Import** para completar el proceso.
+1. Haga clic en **Importar** para completar el proceso.
 
    ![](assets/six-1.png)
 
