@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ Las siguientes funciones empezarán a lanzarse en **14 de octubre de 2022**, con
 ## Mejoras de API {#api-enhancements}
 
 * **Importación masiva de posibles clientes: Asociación de vendedores**: Paridad con la API de Lead REST para poder asociar posibles clientes con los vendedores durante el proceso de importación de posibles clientes en masa, lo que reduce la complejidad y el número de llamadas de API necesarias.
+
+## Sales Insight {#sales-insight}
+
+![(estrella)](assets/yellow-star.png)
+
+* **[Integración de perspectivas de ventas con Dynamic Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: El panel de perspectivas ahora incluye actividades de chat dinámico en la cuadrícula inteligente junto con un resumen semanal y tarjetas de detalle.
 
 ## Anuncios {#announcements}
 
