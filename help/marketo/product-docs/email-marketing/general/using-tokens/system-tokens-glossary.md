@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147344
-description: Glosario de tokens del sistema - Documentos de marketing - Documentación del producto
-title: Glosario de símbolos del sistema
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Glosario de tokens del sistema - Documentos de Marketo - Documentación del producto
+title: Glosario de tokens del sistema
+exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
+source-git-commit: 93032a016a67fe0edf7a8093633d6b06ec25c18d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
+# Glosario de tokens del sistema {#system-tokens-glossary}
 
-# Glosario de tokens de sistema {#system-tokens-glossary}
-
-Además de los tokens personales, puede usar algunos tokens de sistema realmente geniales. Aquí están.
+Además de los tokens de persona, puede utilizar algunos tokens de sistema realmente geniales. Aquí están.
 
 >[!NOTE]
 >
@@ -21,57 +20,57 @@ Además de los tokens personales, puede usar algunos tokens de sistema realmente
 
 ## system.date {#system-date}
 
-El token `{{system.date}}` representará la fecha actual en tiempo de ejecución como así: **8 de agosto de 2013**
+La variable `{{system.date}}` El token mostrará la fecha actual en tiempo de ejecución de la siguiente manera: **8 de agosto de 2013**
 
 **Funciona en:**
 
-* [Cambiar el paso de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valor de los datos
-* [Interesante paso ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) de flujo de impulso
-* [Crear paso ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flujo de tareas
+* [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} paso de flujo
+* [Momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} paso de flujo
+* [Crear tarea](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} paso de flujo
 * El cuerpo de un correo electrónico o una plantilla
 
 ## system.time {#system-time}
 
-El token `{{system.time}}` representará la hora actual en tiempo de ejecución como así: **04:34 PM (GMT -0700)**
+La variable `{{system.time}}` representará así la hora actual en tiempo de ejecución: **04:34 PM (GMT -0700)**
 
 **Funciona en:**
 
-* [Cambiar el paso de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valor de los datos
-* [Interesante paso ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) de flujo de impulso
-* [Crear paso ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flujo de tareas
+* [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} paso de flujo
+* [Momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} paso de flujo
+* [Crear tarea](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} paso de flujo
 * El cuerpo de un correo electrónico o una plantilla
 
 ## system.dateTime {#system-datetime}
 
-El token `{{system.dateTime}}` representará la fecha y hora actuales en tiempo de ejecución como así: **2013-08-08 16:36:13**
+La variable `{{system.dateTime}}` representará la fecha y la hora actuales en tiempo de ejecución de la siguiente manera: **2013-08-08 18:36:13**
 
 **Funciona en:**
 
-* [Cambiar el paso de ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) valor de los datos
-* [Interesante paso ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) de flujo de impulso
-* [Crear paso ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) de flujo de tareas
+* [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;} paso de flujo
+* [Momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target=&quot;_blank&quot;} paso de flujo
+* [Crear tarea](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target=&quot;_blank&quot;} paso de flujo
 * El cuerpo de un correo electrónico o una plantilla
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-El token `{{system.forwardToFriendLink}}` le permite controlar la ubicación del vínculo [&#39;Reenviar a un amigo&#39; en correos electrónicos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md).
+La variable `{{system.forwardToFriendLink}}` permite controlar la colocación de la variable [&quot;Reenviar a un vínculo de amigo&quot; en correos electrónicos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target=&quot;_blank&quot;}.
 
 **Funciona en:**
 
-* [Añadir un testigo del sistema como vínculo en una plantilla de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) correo electrónico
+* [Añadir un token del sistema como vínculo en un correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} o plantilla
 
-## system.unsubscriptionLink {#system-unsubscribelink}
+## system.unsubscribeLink {#system-unsubscribelink}
 
-El token `{{system.unsubscribLink}}` le permite controlar la ubicación del vínculo de cancelación de suscripción en un mensaje de correo electrónico.
+La variable `{{system.unsubscribeLink}}` token le permite controlar la ubicación del vínculo de cancelación de suscripción en un correo electrónico.
 
 **Funciona en:**
 
-* [Añadir un testigo del sistema como vínculo en una plantilla de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) correo electrónico
+* [Añadir un token del sistema como vínculo en un correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} o plantilla
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-El token `{{system.viewAsWebpageLink}}` permite controlar la ubicación de la Vista como vínculo de página Web en un mensaje de correo electrónico.
+La variable `{{system.viewAsWebpageLink}}` permite controlar la colocación del vínculo Ver como página web en un correo electrónico.
 
 **Funciona con:**
 
-* [Añadir un testigo del sistema como vínculo en una plantilla de ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) correo electrónico
+* [Añadir un token del sistema como vínculo en un correo electrónico](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target=&quot;_blank&quot;} o plantilla
