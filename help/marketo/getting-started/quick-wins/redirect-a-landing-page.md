@@ -3,7 +3,7 @@ unique-page-id: 2359428
 description: 'Redireccionar una página de aterrizaje: Documentos de Marketo: Documentación del producto'
 title: Redireccionar una página de aterrizaje
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -28,21 +28,21 @@ ht-degree: 0%
 
 1. Vaya a la **Administrador** .
 
-   ![](assets/admin.png)
+   ![](assets/redirect-a-landing-page-1.png)
 
 1. Vaya a **Páginas de aterrizaje**.
 
-   ![](assets/image2014-9-24-13-3a28-3a43.png)
+   ![](assets/redirect-a-landing-page-2.png)
 
 1. Haga clic en el **Reglas** a continuación, haga clic en **Nuevo** y **Nueva regla de redirección**.
 
-   ![](assets/image2014-9-24-13-3a28-3a59.png)
+   ![](assets/redirect-a-landing-page-3.png)
 
 ## Paso 2: Definir la regla de redirección {#step-define-the-redirect-rule}
 
 1. Haga clic en la primera **URL original** y seleccione su CNAME de Marketo.
 
-   ![](assets/image2014-9-24-13-3a30-3a33.png)
+   ![](assets/redirect-a-landing-page-4.png)
 
    >[!NOTE]
    >
@@ -50,11 +50,11 @@ ht-degree: 0%
 
 1. Haga clic en el segundo **URL original** y seleccione la página de aterrizaje que desee redirigir.
 
-   ![](assets/image2014-9-24-13-3a30-3a50.png)
+   ![](assets/redirect-a-landing-page-5.png)
 
 1. Para **Dirección URL de redireccionamiento** seleccione la página a la que desee redirigir y haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-13-3a31-3a10.png)
+   ![](assets/redirect-a-landing-page-6.png)
 
 ## Misión finalizada {#mission-complete}
 

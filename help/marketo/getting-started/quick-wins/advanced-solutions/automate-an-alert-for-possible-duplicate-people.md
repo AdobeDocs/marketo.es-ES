@@ -3,7 +3,7 @@ unique-page-id: 7513680
 description: 'Automatizar una alerta para posibles personas duplicadas: Documentos de Marketo: Documentación del producto'
 title: Automatizar una alerta para posibles personas duplicadas
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 * Déclencheur: **Se crea la persona**
 * Filtro: **Duplicar campos.** Nombre del campo **es Nombre completo**
 
-   ![](assets/image2017-3-27-8-3a22-3a4.png)
+   ![](assets/automate-an-alert-1.png)
 
    >[!TIP]
    >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 1. En el paso de flujo, seleccione [Enviar alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)Acción de flujo {target=&quot;_blank&quot;}.
 
-   ![](assets/image2017-3-27-8-3a24-3a8.png)
+   ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. Active la campaña en la **Programación** pestaña .
 
-   ![](assets/image2017-3-27-8-3a24-3a37.png)
+   ![](assets/automate-an-alert-3.png)
 
 ¡Eso es todo! Esta campaña inteligente se déclencheur cada vez que se cree una nueva persona con un nombre completo existente en Marketo.
 
