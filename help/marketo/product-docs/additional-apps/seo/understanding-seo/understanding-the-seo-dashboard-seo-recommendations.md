@@ -3,10 +3,9 @@ unique-page-id: 2949180
 description: Explicación del panel de SEO - SEO Recommendations - Marketo Docs - Documentación del producto
 title: 'Explicación del panel de SEO: SEO Recommendations'
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ También puede saber cómo mejorar con la sección Recommendations . ¡Vamos a s
 
 ## Problemas principales de optimización de la página {#top-page-optimization-issues}
 
-Esto le mostrará cinco formas de gran impacto de empezar a optimizar su sitio de inmediato. Simplemente haga clic en cualquiera de los vínculos para ver el [Detalle de página detallado](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) completo.
+Esto le mostrará cinco formas de gran impacto de empezar a optimizar su sitio de inmediato. Simplemente haga clic en cualquiera de los enlaces para ver el [Desglose de detalles de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
@@ -39,8 +38,8 @@ Tener sitios de reputación vinculados al contenido puede aumentar la clasificac
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 
-¡Adelante! Acérquese más profundo.
+¡Ya está! Acérquese más profundo.
 
 >[!MORELIKETHIS]
 >
->[Desglose de detalles de página](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[Desglose de detalles de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}

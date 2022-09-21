@@ -3,18 +3,14 @@ unique-page-id: 10096683
 description: Actualizaciones en el registro de eventos ON24 - Documentos de Marketo - Documentación del producto
 title: Actualizaciones de registro de eventos ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Actualizaciones de registro de eventos ON24 {#on-event-registration-updates}
-
->[!IMPORTANT]
->
->A partir de agosto de 2022, ON24 ya no es compatible con las nuevas integraciones de Marketo. La información de este artículo solo se aplica a los usuarios existentes.
 
 ## Aprobación manual de los registros {#manually-approving-registrants}
 
@@ -44,4 +40,4 @@ Marketo extrae automáticamente la información de asistencia aproximadamente a 
 
 >[!MORELIKETHIS]
 >
->[Explicación de los eventos del adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Explicación de los eventos del adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

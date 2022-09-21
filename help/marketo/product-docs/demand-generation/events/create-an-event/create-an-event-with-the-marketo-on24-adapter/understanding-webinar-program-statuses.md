@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: 'Explicación de los estados del programa de los seminarios web: Documentos de Marketo: Documentación del producto'
 title: Explicación de los estados del programa de los seminarios web
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Explicación de los estados del programa de los seminarios web {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->A partir de agosto de 2022, ON24 ya no es compatible con las nuevas integraciones de Marketo. La información de este artículo solo se aplica a los usuarios existentes.
 
 Los estados de programa representan los diferentes estados de evento por los que una persona avanza como miembro del evento. Están asociados a un tipo de canal. Marketo tiene un tipo de canal integrado denominado **Seminario web**. Los estados se pueden utilizar en campañas por lotes y de déclencheur.
 
@@ -32,7 +28,7 @@ A continuación se muestra una breve descripción de los estados de programa aso
 
 **Invitado** - Utilice este estado para añadir personas al evento.
 
-**Pendiente de aprobación** - Utilice este estado para permanecer desactivada al enviar a su gente un correo electrónico de confirmación. Consulte &quot;Aprobación manual de registros&quot; en [Actualizaciones de registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) para obtener más información.
+**Pendiente de aprobación** - Utilice este estado para permanecer desactivada al enviar a su gente un correo electrónico de confirmación. Consulte &quot;Aprobación manual de registros&quot; en [Actualizaciones de registro de eventos ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target=&quot;_blank&quot;} para obtener más información.
 
 **Espera enumerada** - Utilice este estado para mantener a algunas personas esperando hasta que haya asientos adicionales disponibles.
 
@@ -58,4 +54,4 @@ A continuación se muestra una breve descripción de los estados de programa aso
 
 >[!MORELIKETHIS]
 >
->[Explicación de los eventos del adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Explicación de los eventos del adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
