@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: 'Añadir Webex como servicio de LaunchPoint: Documentos de Marketo: Documentación del producto'
 title: Añadir Webex como servicio de LaunchPoint
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -30,30 +30,34 @@ Marketo Engage administra el registro y la asistencia de su seminario web.
 >
 >**Precaución:** No introduzca la dirección URL completa en este campo; introduzca solo el nombre del sitio!
 
-1. Vaya a **Administrador** y haga clic en **LaunchPoint**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2015-4-23-11-3a20-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-1.png)
+
+1. Haga clic en **LaunchPoint**.
+
+   ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
 1. Select **Nuevo** y luego **Nuevo servicio**.
 
-   ![](assets/webex-new-service.png)
+   ![](assets/add-webex-as-a-launchpoint-service-3.png)
 
 1. Escriba un **Nombre para mostrar**. En **Servicio**, seleccione **Webex**.
 
-   ![](assets/new-service-webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
 1. Escriba la **Nombre de usuario** y **Contraseña**.
 
-   ![](assets/image2015-4-24-18-3a56-3a56.png)
+   ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
 1. Complete el proceso introduciendo su **Nombre del sitio** a continuación, haga clic en **Crear**.
 
-   ![](assets/image2015-4-24-18-3a58-3a43.png)
+   ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
 1. ¡Fenomenal! Su **Webex** ahora se sincroniza con Marketo.
 
-   ![](assets/webex.png)
+   ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Obtenga información sobre cómo [crear un evento con Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Obtenga información sobre cómo [crear un evento con Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target=&quot;_blank&quot;}.

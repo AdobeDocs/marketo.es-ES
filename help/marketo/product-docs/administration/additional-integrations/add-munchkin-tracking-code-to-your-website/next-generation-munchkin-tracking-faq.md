@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 'Preguntas frecuentes sobre el seguimiento de Munchkin de próxima generación: Documentos de Marketo: Documentación del producto'
 title: Preguntas frecuentes sobre el seguimiento de Munchkin de próxima generación
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ No. El código de seguimiento de Munchkin sigue siendo el mismo. No es necesario
 
 >[!NOTE]
 >
->Este cambio no afecta a Web Personalization (Real-Time Personalization). Sigue identificando visitantes web anónimos y conocidos y personalizando el contenido en tiempo real para estos visitantes.
+>Este cambio no afecta a la personalización web (personalización en tiempo real). Sigue identificando visitantes web anónimos y conocidos y personalizando el contenido en tiempo real para estos visitantes.
 
 ## ¿Por qué Marketo ha eliminado el filtro &quot;Es anónimo&quot; de las listas inteligentes? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Revise las campañas e identifique dónde tiene &quot;Is Anonymous&quot; estable
 
 Consulte estos vínculos:
 
-[Información general sobre las actualizaciones de posibles clientes anónimas](https://nation.marketo.com/docs/DOC-2937)
+[Información general sobre las actualizaciones de posibles clientes anónimas](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[Actualizaciones de posibles clientes anónimas: cambios dentro de la interfaz de usuario de Marketo](https://nation.marketo.com/docs/DOC-2938)
+[Actualizaciones de posibles clientes anónimas: cambios dentro de la interfaz de usuario de Marketo](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[Actualizaciones de posibles clientes anónimas: se necesita la acción del cliente](https://nation.marketo.com/docs/DOC-2939)
+[Actualizaciones de posibles clientes anónimas: se necesita la acción del cliente](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[Actualizaciones de posibles clientes anónimas: informes de Analytics](https://nation.marketo.com/docs/DOC-2940)
+[Actualizaciones de posibles clientes anónimas: informes de Analytics](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[Actualizaciones anónimas de posibles clientes: programación de versiones](https://nation.marketo.com/docs/DOC-2961)
+[Actualizaciones anónimas de posibles clientes: programación de versiones](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Actualizaciones anónimas de posibles clientes: en el capó](https://nation.marketo.com/docs/DOC-2962)
+[Actualizaciones anónimas de posibles clientes: en el capó](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[Promoción de posibles clientes anónimos a posible cliente conocido: Comportamiento de Munchkin V2](https://nation.marketo.com/docs/DOC-2963)
+[Promoción de posibles clientes anónimos a posible cliente conocido: Comportamiento de Munchkin V2](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## ¡Tengo más preguntas! ¿Cómo obtengo respuestas? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Póngase en contacto con el [comunidad](https://nation.marketo.com/). También puede ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Estarán felices de responder a sus preguntas.
+Póngase en contacto con el [comunidad](https://nation.marketo.com/){target=&quot;_blank&quot;}. También puede ponerse en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Estarán felices de responder a sus preguntas.
