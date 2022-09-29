@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: 'Página de aterrizaje con un formulario: Documentos de Marketo: Documentación del producto'
 title: Página de aterrizaje con un formulario
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ## PASO 3: Crear una página de aterrizaje y agregar el formulario {#step-create-a-landing-page-and-add-your-form}
 
-1. Con el programa seleccionado, haga clic en **Nuevo** y luego **Nuevo recurso local**.
+1. Con el programa seleccionado, haga clic en el botón **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
