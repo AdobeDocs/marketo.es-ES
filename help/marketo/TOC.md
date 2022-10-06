@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '8807'
 ht-degree: 2%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 2%
          + [Configuración](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamiento de los bots de chat](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Actividades de chat dinámico](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Programación de citas {#appointment-scheduling}
+            + [Calendario](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [Reuniones](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [Enrutando](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integraciones {#integrations}
             + [Conexión de Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Uso de la tarjeta de documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
@@ -1362,7 +1366,7 @@ ht-degree: 2%
             + [¿Son compatibles las acciones de perspectivas de ventas con Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [¿Cuáles son las últimas versiones de cliente?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [¿Cuáles son los términos de servicio de las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [¿Por qué no se inserta a ninguno de mis contactos en las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [¿Por qué no se empuja a ninguno de mis contactos a las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [¿Por qué no se rellenan mis campos dinámicos?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [¿Por qué no puedo eliminar un contacto?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [¿Por qué no se movieron todos mis contactos a las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
