@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: 'Introducción: Documentos de Marketo: Documentación del producto'
 title: Introducción
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 12%
 
 ---
 
 # Introducción {#getting-started}
 
-## PASO 1 ¿Qué es Marketo? {#what-is-marketo}
+## ¿Qué es Adobe Marketo Engage? {#what-is-marketo-engage}
 
-¿Qué es Marketo que preguntas? ¡buena pregunta!
+¿Qué es Marketo Engage, preguntan? ¡buena pregunta!
 
-[Más información sobre Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Marketo Engage de aprendizaje](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## PASO 2: configuración {#get-set-up}
+## ¿Qué niveles de precios están disponibles? {#what-pricing-tiers-are-available}
+
+Consulte la [Página Precios y empaquetado del Marketo Engage](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} para obtener más información.
+
+## Configurar {#get-set-up}
 
 Con un poco de ayuda de su equipo de TI, puede hacerlo en poco tiempo.
 
-[Iniciar configuración](/help/marketo/getting-started/setup/setup-steps.md)
+[Iniciar configuración](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## PASO 3 Obtener algunas victorias rápidas {#get-some-quick-wins}
+## Obtener algunos premios rápidos {#get-some-quick-wins}
 
-Complete estas misiones para conocer las características principales de Marketo.
+Complete estas misiones para conocer las características básicas de Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ Complete estas misiones para conocer las características principales de Marketo
 
 ## ¡PASO 4 Felicitaciones! Estás listo para la nación  {#congrats-youre-ready-for-the-nation}
 
-¡Es hora de unirse a Marketing Nation!
-
-[Únete a la nación](https://nation.marketo.com)
+Consulte la [Nación de marketing](https://nation.marketo.com){target=&quot;_blank&quot;}!

@@ -1,9 +1,9 @@
 ---
 description: 'Notas de la versión, agosto de 2022: Documentación del producto de Marketo'
 title: Notas de la versión, agosto de 2022
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Las siguientes funciones iniciaron una implementación por fases en **26 de agos
 
 * **Visibilidad del encabezado personalizado Weblink**: Los encabezados personalizados de Weblock ahora se muestran en la pestaña Administración > Webhooks para obtener una mejor visibilidad.
 
-* **CAPTCHA**: Evalúe la validez de los envíos de formularios utilizando reCAPTCHA v3 para puntuar el tráfico de formularios entrantes. Cree flujos de trabajo de marketing para excluir, poner en cuarentena o eliminar automáticamente el tráfico de bots sospechoso.
+* **CAPTCHA**: Evaluar la validez de los envíos de formularios [uso de reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} para puntuar el tráfico entrante del formulario. Cree flujos de trabajo de marketing para excluir, poner en cuarentena o eliminar automáticamente el tráfico de bots sospechoso.
 
 * **Permiso para aprobar el formulario**: Nuevo permiso para controlar qué diseñadores pueden aprobar cambios en un formulario en línea con otros recursos de Design Studio. Esto evita que otros diseñadores inserten cambios en los formularios sin que otra persona con permiso de aprobación lo revise.
 
