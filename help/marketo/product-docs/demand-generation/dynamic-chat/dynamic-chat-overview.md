@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '953'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ También puede personalizar el cuerpo de la invitación que se envía al visitan
 
 ## Reuniones {#meetings}
 
-Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. Aquí encontrará la dirección de correo electrónico de la persona que reservó la cita, con qué agente reservaron la cita, cuándo está programada la cita y si la reunión ha tenido lugar o no.
+Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. Aquí encontrará la dirección de correo electrónico de la persona que reservó la cita, con qué agente reservaron la cita, cuándo está programada la cita y si la hora de reunión programada ha pasado o no.
 
 ## Enrutando {#routing}
 
