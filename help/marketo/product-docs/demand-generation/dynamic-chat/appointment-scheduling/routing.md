@@ -3,11 +3,53 @@ description: 'Enrutamiento: documentos de Marketo: documentación del producto'
 title: Enrutando
 hide: true
 hidefromtoc: true
-source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '7'
-ht-degree: 28%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
 # Enrutando {#routing}
+
+Las reuniones reservadas en Dynamic Chat pueden ser enrutadas de dos maneras. Redondeo o uso de una regla personalizada.
+
+Redondeo: Las reuniones se asignan a los agentes secuencialmente. Así que si tiene cinco agentes y el agente tres tomó la última reunión, el agente cuatro tendrá la siguiente, seguido del agente cinco, luego volverá al agente uno.
+
+Regla personalizada: Puede elegir agentes específicos para recibir reuniones en función de los atributos que seleccione.
+
+## Crear una regla personalizada {#create-a-custom-rule}
+
+En este ejemplo estamos enviando todas las reuniones de los estados inferidos de CA, OR y WA al agente John.
+
+1. En Dynamic Chat, seleccione **Enrutamiento**.
+
+   ![](assets/routing-1.png)
+
+1. Haga clic en el **Reglas personalizadas** pestaña .
+
+   ![](assets/routing-2.png)
+
+1. Haga clic en **Crear regla**.
+
+   ![](assets/routing-3.png)
+
+1. Asigne un nombre a la regla y haga clic en **Siguiente**.
+
+   ![](assets/routing-4.png)
+
+1. Elija los agentes que desee.
+
+   ![](assets/routing-5.png)
+
+1. Arrastre los atributos que desee.
+
+   ![](assets/routing-6.png)
+
+1. Busque y seleccione los valores que desee.
+
+   ![](assets/routing-7.png)
+
+1. Cuando se seleccionen todos los valores deseados, haga clic en **Guardar**.
+
+   ![](assets/routing-8.png)

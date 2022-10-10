@@ -2,9 +2,9 @@
 description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
 title: Información general de conversación dinámica
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ Aquí es donde verá todas las citas que han programado los visitantes del sitio
 
 ## Enrutando {#routing}
 
-Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, así como el orden en que se presentarán a los visitantes del sitio web. Las reuniones van por ahí al estilo de robin, así que si tienes cinco agentes y el agente tres tomó la última reunión, el agente cuatro obtendrá la siguiente, seguido del agente cinco, y luego volverá al agente uno.
+Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, así como el orden en que se presentarán a los visitantes del sitio web.
 
 ## Preguntas frecuentes {#faq}
 
