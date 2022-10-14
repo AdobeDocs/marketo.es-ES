@@ -2,9 +2,9 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,13 @@ Actualmente, las siguientes funciones están disponibles en la interfaz de próx
 * Vista Detalles del correo electrónico
 * Vista de lista de correo electrónico
 * Vista Detalles de plantilla de correo electrónico
+* Lista de plantillas de correo electrónico
 * Vista de panel de prueba de correo electrónico
 * Vista de detalles del formulario
 * Vista de lista de formularios
 * Página Detalles de imágenes y archivos
 * Vista de detalles de la página de aterrizaje
 * Vista de lista de páginas de aterrizaje
+* Detalles de la plantilla de página de aterrizaje
 * Vista Detalles del fragmento
+

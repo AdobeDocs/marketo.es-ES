@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: 'Configuración de protocolos para Marketo: Documentos de Marketo: Documentación del producto'
 title: Configuración de protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 1%
+source-wordcount: '1046'
+ht-degree: 2%
 
 ---
 
@@ -77,7 +77,7 @@ Añada estas direcciones IP a la lista de permitidos corporativa:
 103.237.104.0/22\
 94.236.119.0/26
 
-Algunos sistemas antispam utilizan el campo Return-Path de correo electrónico en lugar de la dirección IP para permitirlo. En estos casos, el mejor enfoque es la lista de permitidos &quot;&#42;.mktomail.com’, ya que Marketo utiliza varios subdominios de buzón. Lista de permitidos de otros sistemas antispam basada en la dirección De . En estas situaciones, asegúrese de incluir todos los dominios de envío (&quot;De&quot;) que su grupo de marketing utilice para comunicarse con personas o posibles clientes.
+Algunos sistemas antispam utilizan el campo Return-Path de correo electrónico en lugar de la dirección IP para permitirlo. En estos casos, el mejor enfoque es la lista de permitidos &quot;&#42;.mktomail.com&#39;, ya que Marketo utiliza varios subdominios de buzón. Lista de permitidos de otros sistemas antispam basada en la dirección De . En estas situaciones, asegúrese de incluir todos los dominios de envío (&quot;De&quot;) que su grupo de marketing utilice para comunicarse con personas o posibles clientes.
 
 >[!NOTE]
 >
@@ -123,7 +123,7 @@ Marketo Engage [Sincronización de Salesforce CRM](/help/marketo/product-docs/cr
 
 **Bloques de direcciones IP salientes del Marketo Engage**
 
-La siguiente tabla abarca todos los servidores de Marketo Engage que realizan llamadas salientes. Utilice esta lista si está configurando cualquier lista de permitidos IP, servidor de seguridad, firewall, lista de control de acceso, grupo de seguridad o servicio de terceros para recibir conexiones salientes del Marketo Engage.
+Las siguientes tablas cubren todos los servidores de Marketo Engage que realizan llamadas salientes. Utilice las listas siguientes si está configurando cualquier lista de permitidos IP, servidor de seguridad, firewall, lista de control de acceso, grupo de seguridad o servicio de terceros para recibir conexiones salientes del Marketo Engage.
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ La siguiente tabla abarca todos los servidores de Marketo Engage que realizan ll
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>Dirección IP individual</th>
+  </tr>
+  <tr>
+   <td>54 212 167 17</td>
+  </tr>
+   <tr>
+   <td>44 235 171 179</td>
+  </tr>
+   <tr>
+   <td>35 165 244 220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54 237 141 197</td>
+  </tr>
+  <tr>
+   <td>54 160 246 246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34 247 24 245</td>
+  </tr>
+   <tr>
+   <td>54 220 138 65</td>
+  </tr>
+  <tr>
+   <td>13 237 155 207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52 64 109 86</td>
+  </tr>
+ </tbody>
+</table>
+
