@@ -2,9 +2,9 @@
 description: 'Integración de Dynamic Chat: Marketo Docs: Documentación del producto'
 title: Integración de Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -58,17 +58,27 @@ Objetivo alcanzado: Inició sesión en Marketo y se rellena en Perspectiva de ve
 * Nombre del objetivo
 * URL de la página
 
-Hay una pestaña Chat disponible en los paneles Posibles clientes y Contacto . Incluye las columnas Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
+Interactuado con el documento: Inició sesión en Marketo y se rellena en Perspectiva de ventas cuando un visitante interactúa con un documento compartido a través del bot de chat.
+
+* Nombre del cuadro de diálogo
+* Documento
+* Estado
+
+Las actividades de chat están disponibles en el panel de perspectivas.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Para obtener más información sobre un tipo de actividad, haga clic en él.
+Hay una pestaña Chat disponible en los paneles Posibles clientes y Contacto . Incluye las columnas Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
 
 ![](assets/dynamic-chat-integration-4.png)
 
-Del mismo modo, los paneles Cuenta y Oportunidad incluyen las columnas Nombre, Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
+Para obtener más información sobre un tipo de actividad, haga clic en él.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+Del mismo modo, los paneles Cuenta y Oportunidad incluyen las columnas Nombre, Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
+
+![](assets/dynamic-chat-integration-6.png)
 
 La pestaña Chat también está incluida en su pestaña Marketo global. Incluye tres tipos de actividades (Diálogo con participación, Nombramiento programado, Objetivo alcanzado), junto con las siguientes columnas:
 
@@ -80,8 +90,15 @@ La pestaña Chat también está incluida en su pestaña Marketo global. Incluye 
 
 De nuevo, puede obtener más información sobre un tipo de actividad haciendo clic en él.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->La actividad &quot;Interactuado con el documento&quot; estará disponible en MSI en una próxima versión.
+>Si la casilla &quot;Habilitar datos de chat dinámico&quot; está desactivada, se deshabilitarán las siguientes funciones:
+>
+>* Fila con actividades de chat en el panel de perspectivas (cuadrícula inteligente y vista de lista semanal)
+>* Ficha Chat de los paneles Posible cliente, Contacto, Cuenta y Oportunidad
+>* Pestaña Chat de la pestaña Marketo Global
+>
+>No es posible desactivar solo una de estas funciones.
+
