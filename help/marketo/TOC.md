@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 0ee977037504930b6e8ba4de3ea7b8e9e6859260
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8818'
 ht-degree: 2%
 
 ---
@@ -470,13 +470,11 @@ ht-degree: 2%
       + Varios {#miscellaneous}
          + [Configuración de la integración de Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Crear nueva carpeta de campaña](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + [Importación de recursos con Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Glosario de métodos abreviados del teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Simulador para pruebas de Marketo](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Administración de privacidad](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Solicitudes de privacidad](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Cambiar el nombre de un recurso de Marketo](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Sincronizar una audiencia desde Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Explicación de las carpetas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Explicación de las notificaciones](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificación](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
