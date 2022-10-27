@@ -1,11 +1,9 @@
 ---
 description: 'Información general sobre las integraciones de Adobe Experience Cloud: Documentos de Marketo: Documentación del producto'
 title: Información general sobre las integraciones de Adobe Experience Cloud
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobe ofrece una solución de marketing de demanda sólida, que comienza con la 
 
 >[!NOTE]
 >
->Las integraciones, que incluyen Audience Manager, B2B CDP Marketo Connector y Dynamic Chat, pueden requerir la asignación de la organización de IMS en Marketo Engage. [Obtenga información sobre cómo configurar la asignación de organización de Adobe aquí](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
+>Las integraciones, que incluyen Audience Manager, B2B CDP Marketo Connector y Dynamic Chat, pueden requerir la asignación de la organización de IMS en Marketo Engage. [Obtenga información sobre cómo configurar la asignación de organización de Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
 
 ## Integraciones de Adobe Experience Cloud {#adobe-experience-cloud-integrations}
 
