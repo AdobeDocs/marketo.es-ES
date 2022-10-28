@@ -3,7 +3,7 @@ description: Información general sobre la creación de informes - Documentos de
 title: Información general de informes
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -59,13 +59,13 @@ Algunas de las ventajas de los informes de análisis de BI avanzado son:
 >
 >No todos los clientes han adquirido módulos de Advanced BI Analytics y Advanced Recorrido Analytics. Para obtener más información, póngase en contacto con el administrador de éxito del cliente.
 
-Modelos de ciclo de ingresos : modele todas las etapas de todo el canal de ingresos y la forma en que transitan entre esas etapas, desde el momento en que interactúa por primera vez con un posible cliente hasta que este es un cliente ganador.
+Modelos de ciclo de ingresos: modele todas las etapas de todo el canal de ingresos y cómo se transfieren entre esas etapas, desde el momento en que interactúa por primera vez con un posible cliente hasta que el posible cliente sea un cliente ganador.
 
-Analizador de rutas de éxito : obtenga una representación visual de la velocidad y el flujo a través del modelo de ciclo de ingresos. El analizador de rutas de éxito requiere que cree modelos de ciclo de ingresos.
+Analizador de rutas de éxito: Obtenga una representación visual de la velocidad y el flujo a través del modelo de ciclo de ingresos. El analizador de rutas de éxito requiere que cree modelos de ciclo de ingresos.
 
-Analizador de programas : identifique rápidamente los programas que se han realizado correctamente o no y enfoque correctamente sus recursos. Utilice el analizador de programas para examinar y comparar cada coste y cada retorno en detalle por programa o por canal.
+Analizador de programas: Identifique rápidamente los programas que son exitosos o no y enfoque sus recursos correctamente. Utilice el analizador de programas para examinar y comparar cada coste y cada retorno en detalle por programa o por canal.
 
-Analizador de influencia de oportunidades : pruebe la contribución de Marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
+Analizador de influencia de oportunidades: Probar la contribución de Marketing midiendo el impacto de los programas y los compromisos clave que generaron oportunidades.
 
 >[!NOTE]
 >
