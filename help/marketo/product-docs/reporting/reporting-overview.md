@@ -1,9 +1,7 @@
 ---
 description: Información general sobre la creación de informes - Documentos de Marketo - Documentación del producto
 title: Información general de informes
-hide: true
-hidefromtoc: true
-source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
+source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
