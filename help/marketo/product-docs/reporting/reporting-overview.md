@@ -1,9 +1,9 @@
 ---
 description: Información general sobre la creación de informes - Documentos de Marketo - Documentación del producto
 title: Información general de informes
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Algunas de las ventajas de los informes de análisis de BI avanzado son:
 * Visualización en forma gráfica, mapas de calor y curvas de distribución
 
 ## Análisis de Recorrido avanzado {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->No todos los clientes han adquirido módulos de Advanced BI Analytics y Advanced Recorrido Analytics. Para obtener más información, póngase en contacto con el administrador de éxito del cliente.
 
 Modelos de ciclo de ingresos: modele todas las etapas de todo el canal de ingresos y cómo se transfieren entre esas etapas, desde el momento en que interactúa por primera vez con un posible cliente hasta que el posible cliente sea un cliente ganador.
 
