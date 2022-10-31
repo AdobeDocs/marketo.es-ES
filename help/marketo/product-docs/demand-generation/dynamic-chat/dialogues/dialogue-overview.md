@@ -2,7 +2,7 @@
 description: Información general del cuadro de diálogo - Documentos de Marketo - Documentación del producto
 title: Información general del cuadro de diálogo
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -15,13 +15,13 @@ Los diálogos son conversaciones individuales de chat. En cada Diálogo, usted d
 
 ## Criterios de audiencia {#audience-criteria}
 
-La variable [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)La sección {target=&quot;_blank&quot;} de un cuadro de diálogo es donde definirá dónde y a quién se mostrará la conversación de chat
+La variable [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)La sección {target=&quot;_blank&quot;} de un cuadro de diálogo es donde usted definirá dónde y a quién se mostrará su conversación de chat
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-La variable [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)La sección {target=&quot;_blank&quot;} de un cuadro de diálogo es donde diseñará la conversación que desea tener con los visitantes de su sitio web.
+La variable [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;} de un cuadro de diálogo es donde diseñará la conversación que desea tener con los visitantes de su sitio web.
 
 ![](assets/dialogue-overview-2.png)
 
