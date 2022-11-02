@@ -2,10 +2,10 @@
 description: Preguntas frecuentes sobre la sincronización de datos de acciones - Documentos de Marketo - Documentación del producto
 title: Preguntas frecuentes sobre la sincronización de datos de acciones
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 1%
+source-wordcount: '1050'
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ El propietario de ventas no tiene que ser el usuario de sincronización de Marke
 
 ![](assets/actions-data-sync-faq-3.png)
 
-Los datos de la actividad, como el correo electrónico, la llamada, el momento interesante y la web, se obtienen de la base de datos del Marketo Engage. La cuadrícula inteligente de perspectiva de ventas realiza una solicitud a la instancia de Marketo Engage para recuperarla cada vez que un usuario de ventas carga el panel Perspectiva de ventas .
+Los datos de actividad, como correo electrónico, llamada, momento interesante y web, se obtienen de la base de datos de Marketo Engage. La cuadrícula inteligente de perspectiva de ventas realiza una solicitud a la instancia de Marketo Engage para recuperarla cada vez que un usuario de ventas carga el panel Perspectiva de ventas .
 
 ![](assets/actions-data-sync-faq-4.png)
 
@@ -55,6 +55,8 @@ Hay 11 campos que se sincronizan desde Marketo Engage a acciones de perspectiva 
 * Apellido
 * ID de contacto de Salesforce
 * ID de posible cliente de Salesforce
+* ID de cuenta de Salesforce
+* ID de oportunidad de Salesforce
 * Marketo ID
 * Compañía
 * Título
