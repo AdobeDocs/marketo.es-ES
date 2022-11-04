@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c932466d9307768e9635150e499e4eabcad7c83b
+source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '551'
 ht-degree: 4%
 
 ---
@@ -44,7 +44,7 @@ Las siguientes funciones empezarán a lanzarse en **14 de octubre de 2022**, con
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Iconos del Diseñador de secuencias</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendario</a></td>
   </tr>
   </tbody>
 </table>
