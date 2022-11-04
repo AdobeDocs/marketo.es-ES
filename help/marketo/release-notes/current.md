@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Las siguientes funciones empezarán a lanzarse en **14 de octubre de 2022**, con
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td>Próximamente</td>
+   <td><i>Próximamente</i></td>
    <td>n/a</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ Las siguientes funciones empezarán a lanzarse en **14 de octubre de 2022**, con
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td>Próximamente</td>
+   <td><i>Próximamente</i></td>
    <td>n.a</td>
   </tr>
   </tbody>
