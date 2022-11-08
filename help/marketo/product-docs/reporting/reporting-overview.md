@@ -1,13 +1,13 @@
 ---
 description: Información general sobre la creación de informes - Documentos de Marketo - Documentación del producto
 title: Información general de informes
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # Información general de informes {#reporting-overview}
 
@@ -64,8 +64,3 @@ Analizador de influencia de oportunidades: Probar la contribución de Marketing 
 >[!NOTE]
 >
 >El modelo de análisis de rendimiento (empresas) y el modelo de análisis de rendimiento (posibles clientes) con informes avanzados de análisis de BI dependen del modelo de ciclo de ingresos creado en el producto de análisis de Recorrido avanzado.
-
-
-
-
-
