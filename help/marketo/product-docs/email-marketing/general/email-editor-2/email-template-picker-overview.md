@@ -1,39 +1,34 @@
 ---
 unique-page-id: 10912237
-description: Descripción general del selector de plantillas de correo electrónico - Documentos de marketing - Documentación del producto
+description: Información general del selector de plantillas de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Información general del selector de plantillas de correo electrónico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
+source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-
 # Información general del selector de plantillas de correo electrónico {#email-template-picker-overview}
 
-Cuando [crea un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas para elegir. También puede crear su propia plantilla y guardarla para utilizarla en el futuro.
+Cuando [crear un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), tiene varias plantillas gratuitas para elegir. También puede crear su propia plantilla y guardarla para usarla en el futuro.
 
 ![](assets/starter-templates.png)
 
-**El** nombre será el nombre del correo electrónico que cree en función de la plantilla, no la plantilla misma. **La** descripción también se aplica al correo electrónico y es opcional.
+**Nombre** será el nombre del correo electrónico que cree en función de la plantilla, no la plantilla misma. **Descripción** también se aplica al correo electrónico y es opcional.
 
 ![](assets/two-2.png)
 
-Si su correo electrónico es crítico y desea que eluda los límites de comunicación, [haga que funcione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla. **La opción Abrir en** editor está seleccionada de forma predeterminada y, simplemente, significa que desea editar el inicio del nuevo correo electrónico de inmediato. **¡** Createmeans, cree!
+Si su correo electrónico es crítico y desea que eluda los límites de comunicación, [hacer que funcione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando la casilla . **Abrir en editor** está seleccionada de forma predeterminada y, simplemente, significa que desea comenzar a editar el nuevo correo electrónico inmediatamente. **Crear** significa, crear!
 
 ![](assets/three-2.png)
 
-**Las** plantillas de inicio incluyen una colección de plantillas de correo electrónico adaptables listas para usarse. Puede utilizarlos tal cual o personalizarlos según sus preferencias.
+**Plantillas iniciales** incluye una colección de plantillas de correo electrónico adaptables listas para usar. Puede utilizarlos tal cual, o personalizarlos según prefiera.
 
 ![](assets/starter-templates.png)
 
->[!NOTE]
->
->Las plantillas de inicio de Marketing se ofrecen a todos los clientes de forma gratuita. Aunque se actualizarán continuamente y se optimizarán para los principales clientes de correo electrónico (y dispositivos móviles), siempre debe evaluar si satisfacen sus necesidades. La [herramienta de entrega por correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) de MarketingTo puede mostrarle representaciones de plantillas en diferentes clientes de correo electrónico. Desafortunadamente, Marketing no puede llevar las solicitudes de diseño fuera de las contrataciones de servicios pagas.
-
-**Mis** plantillas consta de todas las plantillas que ha creado. También puede tener carpetas.
+**Mis plantillas** consta de todas las plantillas que ha creado. También puede tener carpetas.
 
 ![](assets/five-2.png)
 
@@ -41,11 +36,11 @@ Todas las carpetas que aparecen en Correo electrónico > Plantillas en el árbol
 
 ![](assets/six-1.png)
 
-Para previsualización de una plantilla, pase el ratón por encima de la miniatura y haga clic en **Previsualización**. También puede hacer clic con el doble.
+Para obtener una vista previa de una plantilla, pase el ratón sobre su miniatura y haga clic en **Vista previa**. También puede hacer doble clic en él.
 
 ![](assets/seven-1.png)
 
-La vista previa muestra cómo se representará la plantilla en un equipo de escritorio...
+El previsualizador le muestra cómo se representará la plantilla en un equipo de escritorio...
 
 ![](assets/eight-1.png)
 
@@ -53,7 +48,7 @@ La vista previa muestra cómo se representará la plantilla en un equipo de escr
 
 ![](assets/nine-1.png)
 
-Si le gusta esta plantilla, selecciónela haciendo clic en **Seleccionar** en la parte inferior derecha. ¿Quieres seguir buscando? Haga clic en la **X** en la esquina superior derecha. Utilice las flechas izquierda y derecha para desplazarse por las plantillas.
+Si le gusta esta plantilla, selecciónela haciendo clic en **Select** en la parte inferior derecha. ¿Quieres seguir mirando? Haga clic en el **X** en la esquina superior derecha. Utilice las flechas izquierda y derecha para desplazarse por las plantillas.
 
 ![](assets/ten-1.png)
 
@@ -63,9 +58,9 @@ También puede hacer clic con el botón derecho en una miniatura de plantilla pa
 
 >[!NOTE]
 >
->Lo bueno de las miniaturas de plantilla es que están activas. Así que si realiza un cambio en una plantilla, la miniatura cambia junto con ella.
+>Lo genial de las miniaturas de las plantillas es que están activas. Por lo tanto, si realiza un cambio en una plantilla, la miniatura cambia junto con ella.
 
-¡Bastante limpio!
+Muy bien cuidado.
 
 >[!MORELIKETHIS]
 >
