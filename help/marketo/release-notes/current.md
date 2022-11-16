@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 4%
@@ -22,6 +22,8 @@ A continuación encontrará todas las funciones incluidas en la versión del 22 
 Las siguientes funciones caen dentro del ciclo de versiones estándar y empezarán a lanzarse en **14 de octubre de 2022**, con el despliegue gradual de las funciones restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Compruebe el estado de cada función debajo.
 
 ### Experiencia de próxima generación {#next-generation-experience}
+
+</br>
 
 * **Pantallas actualizadas en la experiencia de próxima generación**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
 
@@ -70,6 +72,8 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 
 ### Entorno de datos de marketing {#marketing-data-environment}
 
+</br>
+
 * **Integración del Privacy Service de Adobe**: Armonice con el Privacy Service para automatizar el cumplimiento de las normas de privacidad de datos en todos los productos de Experience Cloud. Actualmente, este servicio solo está disponible para los clientes Marketo Engage que hayan incorporado al sistema Identity Management de Adobe.
 
 <table> 
@@ -86,6 +90,8 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 
 ### Mejoras de API {#api-enhancements}
 
+</br>
+
 * **Importación masiva de posibles clientes: Asociación de vendedores**: Paridad con la API de Lead REST para poder asociar posibles clientes con los vendedores durante el proceso de importación de posibles clientes en masa, lo que reduce la complejidad y el número de llamadas de API necesarias.
 
 <table> 
@@ -101,6 +107,8 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![(estrella)](assets/yellow-star.png)
 

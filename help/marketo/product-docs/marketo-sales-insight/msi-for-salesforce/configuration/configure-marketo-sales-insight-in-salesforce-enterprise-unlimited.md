@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited - Marketo Docs - Documentación del producto
 title: Configurar la perspectiva de ventas de Marketo en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '857'
 ht-degree: 6%
 
 ---
@@ -287,17 +287,15 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
     </tbody> 
    </table>
 
-1. Haga clic en **Guardar** cuando haya terminado.
+1. Haga clic en **Guardar** cuando hayas terminado.
 
 ## Ficha Configuración de la perspectiva de ventas de Marketo {#marketo-sales-insight-configuration-tab}
 
 1. En Salesforce, haga clic en la **+** al final de la barra de pestañas y haga clic en **Configuración de perspectiva de ventas de Marketo**.
 
-1. Seleccione el **Habilitar la API de Marketo** casilla de verificación.
+1. Copie las credenciales del panel API de Soap en [Página de administración de perspectivas de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} y péguelos en la sección API de Soap de la página Configuración de la perspectiva de ventas de Salesforce.
 
-1. Copie las credenciales del panel API de Soap en [Página de administración de la perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} y péguelos en la sección API de Soap de la página Configuración de la perspectiva de ventas de Salesforce.
-
-1. Copie las credenciales del panel de la API de Rest en [Página de administración de la perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} y péguelos en la sección API Rest de la página Configuración de la perspectiva de ventas de Salesforce.
+1. Copie las credenciales del panel de la API de Rest en [Página de administración de perspectivas de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} y péguelos en la sección API Rest de la página Configuración de la perspectiva de ventas de Salesforce.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
