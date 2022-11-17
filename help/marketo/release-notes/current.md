@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '629'
 ht-degree: 4%
 
 ---
@@ -20,6 +20,24 @@ A continuación encontrará todas las funciones incluidas en la versión del 22 
 ## Funciones del ciclo de versión estándar {#standard-release-cycle-features}
 
 Las siguientes funciones caen dentro del ciclo de versiones estándar y empezarán a lanzarse en **14 de octubre de 2022**, con el despliegue gradual de las funciones restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Compruebe el estado de cada función debajo.
+
+### Entorno de datos de marketing {#marketing-data-environment}
+
+</br>
+
+* **Sincronización de campos personalizados del miembro del programa**: Capacidad para sincronizar bidireccionalmente los campos ampliables capturados para un miembro del programa (por ejemplo, las preferencias de los asistentes durante el registro de eventos como comida, sesiones, pistas, etc.)
+
+<table> 
+  <tr> 
+   <td><b>Estado</b></td>
+   <td><b>Actualizaciones de documentación</b></td>
+  </tr>
+  <tr> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### Experiencia de próxima generación {#next-generation-experience}
 
