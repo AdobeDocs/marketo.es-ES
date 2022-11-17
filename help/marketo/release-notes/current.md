@@ -2,9 +2,9 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f656901c3a25e043e59411857190f4711036637d
+source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '626'
 ht-degree: 4%
 
 ---
@@ -35,6 +35,20 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   <tr> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Integración del Privacy Service de Adobe**: Armonice con el Privacy Service para automatizar el cumplimiento de las normas de privacidad de datos en todos los productos de Experience Cloud. Actualmente, este servicio solo está disponible para los clientes Marketo Engage que hayan incorporado al sistema Identity Management de Adobe.
+
+<table> 
+  <tr> 
+   <td><b>Estado</b></td>
+   <td><b>Actualizaciones de documentación</b></td>
+  </tr>
+  <tr> 
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,24 +98,6 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   <tr> 
    <td>Enviado</td>
    <td>n.a</td>
-  </tr>
-  </tbody>
-</table>
-
-### Entorno de datos de marketing {#marketing-data-environment}
-
-</br>
-
-* **Integración del Privacy Service de Adobe**: Armonice con el Privacy Service para automatizar el cumplimiento de las normas de privacidad de datos en todos los productos de Experience Cloud. Actualmente, este servicio solo está disponible para los clientes Marketo Engage que hayan incorporado al sistema Identity Management de Adobe.
-
-<table> 
-  <tr> 
-   <td><b>Estado</b></td>
-   <td><b>Actualizaciones de documentación</b></td>
-  </tr>
-  <tr> 
-   <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
