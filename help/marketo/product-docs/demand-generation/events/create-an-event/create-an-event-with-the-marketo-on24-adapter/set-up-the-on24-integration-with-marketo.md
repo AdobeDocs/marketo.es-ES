@@ -2,7 +2,7 @@
 description: 'Configuración de la integración ON24 con Marketo: Marketo Docs: documentación del producto'
 title: Configuración de la integración ON24 con Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
-source-git-commit: e0d656352c83360d5453b91592c50efe4396a4cc
+source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 A continuación se muestra cómo configurar la integración de eventos ON24.
 
-## Crear una función solo de API {#Create an API Only Role}
+## Crear una función solo de API {#create-an-api-only-role}
 
 1. En Mi Marketo, haga clic en **Administrador**.
 
