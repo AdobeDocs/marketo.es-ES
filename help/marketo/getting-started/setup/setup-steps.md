@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: 'Pasos de configuración: Documentos de Marketo: Documentación del producto'
 title: Pasos de configuración
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Algunos pasos requieren la ayuda de su equipo de TI.
 
    ![](assets/setup-steps-1.png)
 
-¡Felicidades! Ahora está en Marketo y puede empezar a explorar. Puede que desee invitar a sus colegas del equipo de marketing a que se unan a usted. Para ello, agregue nuevos usuarios.
+¡Felicidades! Ahora estás en Marketo y puedes empezar a explorar. Puede que desee invitar a sus colegas del equipo de marketing a que se unan a usted. Para ello, agregue nuevos usuarios.
 
 Vaya a la **Administrador** .
 
@@ -139,7 +139,7 @@ Copie la cadena de cuenta de la configuración de la página de aterrizaje.
 
 Esta es la `[AccountString]`. Guárdelo. Tendrá que proporcionárselo a TI en el paso 5.
 
-Configure las opciones de dominio para que las páginas de aterrizaje utilicen el dominio de la empresa en lugar del de Marketo (donde están alojadas).
+Configure las opciones de dominio para que las páginas de aterrizaje utilicen el dominio de la empresa en lugar de Marketo (donde están alojadas).
 
 ## Garantizar la capacidad de entrega de correos electrónicos {#ensure-email-deliverability}
 
@@ -149,13 +149,13 @@ Configure las opciones de dominio para que las páginas de aterrizaje utilicen e
 
 Existen varias medidas que puede tomar para garantizar que los mensajes de correo electrónico lleguen al mayor número posible de personas.
 
-* **Marcar los vínculos de seguimiento**. Puede elegir un CNAME para usar su propio dominio (en lugar del de Marketo) en los vínculos que incluye en los correos electrónicos de Marketo. Esto refuerza la promoción de la marca del dominio y aumenta la confianza y la capacidad de envío con los destinatarios.
+* **Marcar los vínculos de seguimiento**. Puede elegir un CNAME para usar su propio dominio (en lugar de Marketo) en los vínculos que incluye en los correos electrónicos de Marketo. Esto refuerza la promoción de la marca del dominio y aumenta la confianza y la capacidad de envío con los destinatarios.
 * **Añada Marketo a la lista de permitidos de correo electrónico corporativa.** Se recomienda enviar correos electrónicos de prueba a las cuentas de prueba antes de enviar correos electrónicos a las personas reales. Por inclusión en la lista de permitidos Marketo, puede evitar que esos correos electrónicos de prueba se bloqueen o se marquen como correo no deseado.
 * **Configure SPF y DKIM.** Estas tecnologías garantizan a los destinatarios que los correos electrónicos de Marketo no son spam. Para evitar que los filtros de correo no deseado de los destinatarios rechacen los correos electrónicos de Marketo, siga estos pasos para [Configuración de SPF y DKIM para su capacidad de entrega por correo electrónico](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **Configure un registro MX para su dominio.** Un registro MX le permite recibir correo al dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si está enviando desde su dominio corporativo, probablemente ya lo haya configurado. Si no es así, normalmente puede configurarse para asignarlo al registro MX de su dominio corporativo.
 * **Configuración recomendada para la dirección De.** Debe utilizar un dominio de correo electrónico válido, existente y en funcionamiento en la Dirección de origen en todas las campañas de correo electrónico. Puede ser beneficioso configurar un subdominio del dominio corporativo en lugar de enviarlo desde el dominio corporativo. Esto garantizará que los problemas del flujo de correo empresarial no afecten al flujo de correo de Marketo y viceversa. Además, el envío de correo desde `something@nonexistentdomain.com` hará que el correo electrónico se filtre o bloquee. Cualquier dominio utilizado en la dirección De del remitente debe tener una cuenta de administrador de correo@ válida y que funcione y de abuso@.
 
-Si utiliza aplicaciones de Google para alojar el correo electrónico de la empresa, no podrá crear correos electrónicos de &quot;Abuse@&quot; o &quot;Administrador de correo&quot; en su dominio. Para evitarlo, debe crear grupos llamados &quot;abuso&quot; y &quot;administrador de correo&quot;. Los usuarios que sean miembros de estos grupos recibirán correos electrónicos enviados a esas direcciones (por ejemplo, postmaster@domain.com). Encontrará instrucciones detalladas para crear grupos [here](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Si utiliza aplicaciones de Google para alojar el correo electrónico de la empresa, no podrá crear correos electrónicos de abuso@ o postmaster@ en su dominio. Para evitarlo, debe crear grupos llamados &quot;abuso&quot; y &quot;administrador de correo&quot;. Los usuarios que sean miembros de estos grupos recibirán correos electrónicos enviados a esas direcciones (por ejemplo, postmaster@domain.com). Encontrará instrucciones detalladas para crear grupos [here](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
 
 Elija un CNAME para los vínculos de seguimiento de correo electrónico (elija uno que sea _different_ desde la página de aterrizaje (CNAME que eligió en el paso 3). Algunos ejemplos:
 
@@ -318,7 +318,7 @@ En el campo Domain , introduzca su dominio de seguimiento de correo electrónico
 
 ## Integrar su CRM {#integrate-your-crm}
 
-Este es probablemente el paso más emocionante de su configuración: ¡es hora de llenar Marketo con todos esos posibles clientes y contactos que ha almacenado en su CRM!
+Este es probablemente el paso más emocionante de su configuración - es hora de llenar Marketo con todos esos posibles clientes y contactos que ha almacenado en su CRM!
 
 Elija entre las siguientes opciones, según el CRM que use su empresa.
 
@@ -340,5 +340,9 @@ Marketo tiene JavaScript de seguimiento personalizado (denominado Munchkin) que 
 >[!NOTE]
 >
 >Experiencia con el HTML necesaria para añadir el código de seguimiento.
+
+## Expectativas de rendimiento {#performance-expectations}
+
+¿Qué puede esperar en términos de rendimiento de Marketo? Puede variar, según el tamaño y la complejidad de sus campañas de marketing. Sin embargo, puede esperar niveles de rendimiento a la par con lo que se describe en la columna &quot;Estándar&quot; en varias de las tablas que se encuentran en la variable [Descripción del producto del Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. Las columnas &quot;Performance&quot; y &quot;Performance Plus&quot; hacen referencia a paquetes de niveles de rendimiento que proporcionan [niveles de performance más altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
 
 Todos los pasos de configuración han finalizado. ¡Lo único que queda es sumergirse y usar Marketo!
