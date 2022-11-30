@@ -3,10 +3,9 @@ unique-page-id: 11377958
 description: Historial de inicio de sesión del usuario - Documentos de Marketo - Documentación del producto
 title: Historial de inicio de sesión del usuario
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,43 +22,47 @@ El historial de inicio de sesión del usuario identifica a las personas que inic
 
 * Fecha y hora de inicio de sesión
 * Nombre y dirección de correo electrónico del usuario
-* Función
+* Rol
 * Espacio de trabajo
 * Dirección IP
 
 Para ver el historial de inicio de sesión del usuario:
 
-1. Haga clic en la pestaña **Admin** y, en Seguridad, haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
 
-1. Haga clic en la pestaña **Login History**. La lista muestra los inicios de sesión más recientes.
+1. En Seguridad, haga clic en **Usuarios y funciones**.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-2.png)
+
+1. Haga clic en el **Historial de inicio de sesión** pestaña . La lista muestra los inicios de sesión más recientes.
+
+   ![](assets/user-login-history-3.png)
 
 1. Utilice el filtro para limitar la búsqueda.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-4.png)
 
 1. Seleccione un intervalo de fechas utilizando los selectores de fechas.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
 1. O bien, elija en la lista desplegable .
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
-1. Seleccione los usuarios en la lista desplegable **Usuarios**.
+1. Seleccione los usuarios en el **Usuarios** lista desplegable.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
-1. Marque la casilla **Solo los inicios de sesión fallidos** para mostrar solo los inicios de sesión fallidos en la búsqueda.
+1. Marque la **Solo los inicios de sesión con errores** para mostrar solo los inicios de sesión fallidos en la búsqueda.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
 1. Haga clic en **Aplicar**.
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >

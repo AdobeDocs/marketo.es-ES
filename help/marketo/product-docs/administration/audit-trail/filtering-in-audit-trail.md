@@ -3,10 +3,9 @@ unique-page-id: 11378468
 description: Filtrado en pista de auditoría - Documentos de Marketo - Documentación del producto
 title: Filtrado en pista de auditoría
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,41 +14,41 @@ ht-degree: 0%
 
 Filtre por intervalo de tiempo, tipo de recurso, usuarios, acción realizada, etc.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
-   ![](assets/one-1.png)
+   ![](assets/filtering-in-audit-trail-1.png)
 
 1. En **Seguridad**, seleccione **Pista de auditoría**.
 
-   ![](assets/two-1.png)
+   ![](assets/filtering-in-audit-trail-2.png)
 
 1. Haga clic en el icono de filtro.
 
-   ![](assets/three.png)
+   ![](assets/filtering-in-audit-trail-3.png)
 
    >[!NOTE]
    >
-   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo se encuentra: _todos los correos electrónicos - editados por cualquiera - en los siete días anteriores_.
+   >Hay una multitud de combinaciones de parámetros de búsqueda posibles. En este ejemplo se encuentra: _todos los correos electrónicos - editados por cualquier persona - en los últimos siete días_.
 
-1. Haga clic en la lista desplegable **Period** y seleccione **Last 7 Days**.
+1. Haga clic en el **Periodo** y seleccione **Últimos 7 días**.
 
-   ![](assets/four.png)
+   ![](assets/filtering-in-audit-trail-4.png)
 
-1. Haga clic en la lista desplegable **Asset Type** y seleccione **Email**.
+1. Haga clic en el **Tipo de recurso** y seleccione **Correo electrónico**.
 
-   ![](assets/five.png)
+   ![](assets/filtering-in-audit-trail-5.png)
 
-1. Haga clic en la lista desplegable **Actions** y seleccione **Edit**.
+1. Haga clic en el **Acciones** y seleccione **Editar**.
 
-   ![](assets/six.png)
+   ![](assets/filtering-in-audit-trail-6.png)
 
 1. Haga clic en **Aplicar**.
 
-   ![](assets/seven.png)
+   ![](assets/filtering-in-audit-trail-7.png)
 
 1. Los resultados filtrados aparecen a la izquierda.
 
-   ![](assets/eight.png)
+   ![](assets/filtering-in-audit-trail-8.png)
 
    ¡Eso es todo!
 

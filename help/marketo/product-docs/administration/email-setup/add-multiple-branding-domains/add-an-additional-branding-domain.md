@@ -3,37 +3,40 @@ unique-page-id: 11377395
 description: 'Añadir un dominio de marca adicional: Documentos de Marketo: Documentación del producto'
 title: Añadir un dominio de marca adicional
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Añadir un dominio de promoción de otras marcas {#add-an-additional-branding-domain}
+# Añadir un dominio de marca adicional {#add-an-additional-branding-domain}
 
 Agregue un dominio de promoción de la marca adicional cuando esté ejecutando varias marcas desde una sola instancia de Marketo y desee que cada una de ellas tenga sus propios vínculos de seguimiento de marca.
 
 >[!PREREQUISITES]
 >
->Debe [reemplazar el vínculo de seguimiento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) por un dominio con marca antes de agregar dominios con marca adicionales.
+>Debe [reemplazar el vínculo de seguimiento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) con un dominio con marca antes de agregar dominios con marca adicionales.
 
-1. En Mi Marketo, haga clic en **Admin** y, a continuación, en el enlace **Email**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/add-an-additional-branding-domain-1.png)
 
-1. Haga clic en **Add** para agregar un dominio de promoción de la marca adicional.
+1. Haga clic en **Correo electrónico**.
 
-   ![](assets/two.png)
+   ![](assets/add-an-additional-branding-domain-2.png)
 
-1. Introduzca el nombre del nuevo dominio de marca y haga clic en **Save**.
+1. Haga clic en **Agregar** para agregar un dominio de marca adicional.
 
-   ![](assets/three.png)
+   ![](assets/add-an-additional-branding-domain-3.png)
+
+1. Introduzca el nombre del nuevo dominio de marca y haga clic en **Guardar**.
+
+   ![](assets/add-an-additional-branding-domain-4.png)
 
 >[!NOTE]
 >
->Puede elegir que este sea su dominio principal, y todos los correos electrónicos no enviados existentes se establecerán en &quot;Predeterminado&quot; y todos los correos electrónicos recién creados se configurarán de forma predeterminada en el dominio principal. Podrá [sobrescribirlo por correo electrónico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>Puede elegir que este sea su dominio principal, y todos los correos electrónicos no enviados existentes se establecerán en &quot;Predeterminado&quot; y todos los correos electrónicos recién creados se configurarán de forma predeterminada en el dominio principal. Podrá [sobrescribir esto por correo electrónico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >
