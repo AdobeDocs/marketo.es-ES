@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 'Creación de un vínculo web: Documentos de Marketo: Documentación del producto'
 title: Creación de un vínculo web
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Utilice los enlaces web para aprovechar los servicios web de terceros para envia
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-1. Vaya a **Administrador** y haga clic en **Enlaces web**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. Haga clic en **Enlaces web**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. Haga clic en **Nuevo Weblock**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. Asigne un nombre al vínculo web y configúrelo.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ Utilice los enlaces web para aprovechar los servicios web de terceros para envia
 
    * **Tipo de solicitud**: Seleccione el método HTTP que desea utilizar (DELETE, GET, PATCH, POST, PUT).
 
-   Haga clic en **Crear**.
+1. Haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >

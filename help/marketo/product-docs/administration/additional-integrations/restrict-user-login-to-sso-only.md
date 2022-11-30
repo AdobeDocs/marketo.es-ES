@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Restringir el inicio de sesión del usuario a SSO solamente - Documentos de Marketo - Documentación del producto
 title: Restringir el inicio de sesión del usuario solo a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ Si [uso de SSO](/help/marketo/product-docs/administration/additional-integration
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya a **Administrador** y haga clic en **Configuración de inicio de sesión**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. Haga clic en **Configuración de inicio de sesión**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. Haga clic en **Editar configuración de seguridad**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. Expanda la Configuración avanzada, marque **Requerir SSO** y haga clic en **Guardar**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: 'Configuración de la API de SOAP: Documentos de Marketo: Documentación del producto'
 title: Configuración de la API SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,19 +14,23 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Sugerimos utilizar la API de REST. Obtenga más información sobre [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>Sugerimos utilizar la API de REST. Más información sobre [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya a **Admin** y haga clic en **Servicios Web**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Configure una **Clave de cifrado** adecuada, haga clic en **Guardar cambios** y pase toda la información a su desarrollador.
+1. Haga clic en **Servicios Web**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. Configure un **Clave de cifrado**, haga clic en **Guardar cambios** y pase toda la información a su desarrollador.
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
