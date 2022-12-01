@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: 'Edición del mensaje de cancelación de la suscripción: documentos de Marketo: documentación del producto'
 title: Editar el mensaje de cancelación de suscripción
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 Al enviar correos electrónicos de marketing (que no sean[operativa](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), el texto de cancelación de la suscripción y los vínculos se anexan a la parte inferior. Puede cambiar los valores predeterminados. Así es como.
 
-## Editar el mensaje de cancelación de suscripción {#edit-the-unsubscribe-message-1}
+## Dónde realizar la edición {#where-to-make-the-edit}
 
-1. En **Administrador**, haga clic en **Correo electrónico**.
+1. Vaya a la **Administrador** para obtener más información.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. Haga clic en **Correo electrónico**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Al enviar correos electrónicos de marketing (que no sean[operativa](/help/marke
 
 1. Edite el **Cancelar suscripción al HTML** y **Cancelar suscripción de texto** versiones a su gusto y haga clic en **Guardar cambios**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    Ahí lo tienes. _¡Asegúrate de probar!_ No desea que sus correos electrónicos de marketing tengan vínculos de cancelación de suscripción rotos.
 
