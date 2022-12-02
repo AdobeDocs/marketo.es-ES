@@ -2,7 +2,7 @@
 description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-### Experiencia de próxima generación {#next-generation-experience}
+### Experiencia de próxima generación {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Alternar conmutador</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar conmutador</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
 * **Forms 1.0**: La desaprobación de Forms 1.0 se completará con la versión de octubre. Los recursos de Forms 1.0 ya no podrán enviar datos al Marketo Engage y devolverán errores si se intenta hacerlo.
 
 * **Forms sin script**: Forms dejará de funcionar cuando Javascript esté deshabilitado en el explorador. El envío de formularios requerirá que Javascript esté habilitado.
+
