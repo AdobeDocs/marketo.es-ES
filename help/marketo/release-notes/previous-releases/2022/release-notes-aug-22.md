@@ -2,7 +2,7 @@
 description: 'Notas de la versión, agosto de 2022: Documentación del producto de Marketo'
 title: Notas de la versión, agosto de 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Las siguientes funciones iniciaron una implementación por fases en **26 de agos
 
 * **Mostrar la jerarquía de carpetas de la carpeta de destino en el cuadro de diálogo Mover**: Al ver la jerarquía de carpetas de cada carpeta, es más fácil mover recursos y se reduce la probabilidad de colocarlos en la carpeta incorrecta.
 
-* **[Pantallas actualizadas en la experiencia de próxima generación](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
+* **[Pantallas actualizadas en la experiencia de próxima generación](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
 
    * Detalles de fragmento
    * Detalles de &quot;Imágenes y archivos&quot;

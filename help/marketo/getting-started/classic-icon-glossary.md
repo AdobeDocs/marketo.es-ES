@@ -3,7 +3,7 @@ unique-page-id: 4720476
 description: Glosario de iconos clásicos - Documentos de Marketo - Documentación del producto
 title: Glosario de iconos clásicos
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 24%
@@ -12,7 +12,7 @@ ht-degree: 24%
 
 # Glosario de iconos clásicos {#classic-icon-glossary}
 
-A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glosario de iconos puede ser [se encuentra aquí](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
+A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glosario de iconos puede ser [se encuentra aquí](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Iconos generales**
 

@@ -2,7 +2,7 @@
 description: 'Notas de la versión, mayo de 2022: Documentación del producto de Marketo'
 title: Notas de la versión, mayo de 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Las siguientes funciones empezarán a lanzarse en **6 de mayo de 2022**, con un 
 
 **[Encabezado STS para vínculos de seguimiento de correo electrónico](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Satisfaga las prácticas recomendadas de seguridad con la capacidad de aplicar encabezados de seguridad de transporte seguro para garantizar que el tráfico a los vínculos rastreados siempre sea seguro.
 
-## Experiencia de próxima generación {#next-generation-experience}
+## Experiencia de próxima generación {#modern-ux}
 
 **Alternar conmutador predeterminado a la experiencia de próxima generación**: el conmutador será el predeterminado para la nueva experiencia en todas las pantallas en las que esté disponible, lo que facilitará a los usuarios la detección de diseños actualizados y mejoras de uso.
 

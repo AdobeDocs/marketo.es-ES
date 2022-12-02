@@ -5,7 +5,7 @@ title: Habilitación de funciones para Marketo Sky
 hide: true
 hidefromtoc: true
 exl-id: 0a518449-8acf-4917-8153-c7ef5fee5590
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Para utilizar el Marketo Sky, las funciones de los usuarios deseados deben estar
 
 >[!IMPORTANT]
 >
->Marketo Sky quedará obsoleto en marzo de 2022. [Haga clic aquí](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
+>Marketo Sky quedará obsoleto en marzo de 2022. [Haga clic aquí](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
 
 >[!NOTE]
 >

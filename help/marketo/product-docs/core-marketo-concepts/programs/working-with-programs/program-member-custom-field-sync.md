@@ -1,10 +1,10 @@
 ---
-description: Campos personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
-title: Campos personalizados de miembro del programa
+description: Sincronización de campos personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
+title: Sincronización de campos personalizados de miembro del programa
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: ef3ab6ec245a9d2e1bf89033d9406992061e5420
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---

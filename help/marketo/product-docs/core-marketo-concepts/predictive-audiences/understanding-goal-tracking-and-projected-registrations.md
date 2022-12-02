@@ -2,7 +2,7 @@
 description: 'Explicación del seguimiento de objetivos y los registros proyectados: Documentos de Marketo: Documentación del producto'
 title: Información sobre el seguimiento de objetivos y los registros proyectados
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -15,7 +15,7 @@ A continuación se muestra cómo realizar un seguimiento del progreso de sus obj
 
 >[!PREREQUISITES]
 >
->Para acceder a la mayoría de estas funciones, asegúrese de habilitar la variable [alternancia de siguiente generación](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} para programas de eventos.
+>Para acceder a la mayoría de estas funciones, asegúrese de habilitar la variable [alternancia de siguiente generación](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} para programas de eventos.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Al calcular programas similares, incluimos los siguientes factores, entre otros:
 
 * Tipo de programa
 * Canal de programa
-* Tamaño de la audiencia
+* Tamaño de audiencia
 * Etiquetas del programa
 * Duración desde la creación del evento hasta el inicio del evento
 * Duración del evento
