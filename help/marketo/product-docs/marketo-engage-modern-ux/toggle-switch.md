@@ -2,7 +2,7 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Alternar conmutador {#toggle-switch}
 
-El conmutador permite cambiar entre la interfaz clásica de Marketo y la experiencia de Marketo Engage de próxima generación. Está disponible en todas las áreas resaltadas a continuación.
+El conmutador le permite alternar entre la interfaz clásica de Marketo y el usuario moderno. Está disponible en todas las áreas resaltadas a continuación.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Active el conmutador para roles individuales o todos los roles. Así es como.
 
 ## Habilitar para funciones {#enable-for-features}
 
-Tiene la opción de habilitar manualmente la interfaz de próxima generación de Marketo para funciones individuales o todas las funciones disponibles (actuales y futuras).
+Tiene la opción de habilitar manualmente el usuario moderno Marketo Engage para funciones individuales, o todas las funciones disponibles (actuales y futuras).
 
 En un área que actualmente tiene el conmutador de alternador (en este ejemplo estamos en la vista de lista de correo electrónico), simplemente haga clic en el botón de alternancia situado en la parte inferior derecha de la página.
 
@@ -55,7 +55,7 @@ Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
 
 ## Funciones disponibles {#available-features}
 
-Actualmente, las siguientes funciones están disponibles en la interfaz de próxima generación de Marketo (con nuevas funciones agregadas en cada versión):
+Las siguientes funciones están disponibles actualmente en el usuario moderno (con las nuevas funciones agregadas en cada versión):
 
 * Vista Detalles del correo electrónico
 * Vista de lista de correo electrónico
