@@ -3,10 +3,9 @@ unique-page-id: 2360222
 description: Habilitar límites de comunicación - Documentos de Marketo - Documentación del producto
 title: Habilitar límites de comunicación
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -19,47 +18,51 @@ Es muy importante no comunicar demasiado con tu gente. El establecimiento de lí
 >
 >**Se requieren permisos de administrador**
 
-1. En **Administración**, haga clic en **Límites de comunicación**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-18-15-3a53-3a37.png)
+   ![](assets/enable-communication-limits-1.png)
+
+1. Haga clic en **Límites de comunicación**.
+
+   ![](assets/enable-communication-limits-2.png)
 
 1. Haga clic en **Editar**.
 
-   ![](assets/image2014-9-18-15-3a53-3a47.png)
+   ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
    >Por día se basa en el día del calendario en la zona horaria de suscripción (medianoche a medianoche).
 
-1. Haga clic en la lista desplegable **Per Day** y seleccione el límite deseado. En este ejemplo elegimos 1.
+1. Haga clic en el **Por día** y seleccione el límite deseado. En este ejemplo elegimos 1.
 
-   ![](assets/three.png)
+   ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >También puede elegir **Personalizado** si ninguna de las opciones preestablecidas funciona por usted.
+   >También puede elegir **Personalizado** si ninguna de las opciones preestablecidas funciona correctamente.
 
-1. Haga clic en la lista desplegable **Per 7 Days** y seleccione el límite deseado. En este ejemplo elegimos 5.
+1. Haga clic en el **Por 7 días** y seleccione el límite deseado. En este ejemplo elegimos 5.
 
-   ![](assets/four.png)
+   ![](assets/enable-communication-limits-5.png)
 
-1. Seleccione **Bloquear correos electrónicos no operativos**.
+1. Select **Bloquear correos electrónicos no operativos**.
 
-   ![](assets/five.png)
+   ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Obtenga más información sobre los [correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+   >Más información sobre qué [correos electrónicos operativos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) son.
 
 1. Haga clic en **Guardar**.
 
-   ![](assets/six.png)
+   ![](assets/enable-communication-limits-7.png)
 
    >[!NOTE]
    >
    >**Ejemplo**
    >
-   >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico al día** o más de **5 en cualquier período de siete días**.
+   >La configuración anterior significa que las personas no recibirán más de **1 correo electrónico al día** o más que **5 en cualquier período de siete días**.
 
    >[!NOTE]
    >

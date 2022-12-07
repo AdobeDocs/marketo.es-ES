@@ -3,17 +3,16 @@ unique-page-id: 2360253
 description: 'Editar el mensaje "Ver como página web": Documentos de Marketo: Documentación del producto'
 title: Editar el mensaje "Ver como página web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 # Editar el mensaje &quot;Ver como página web&quot; {#edit-the-view-as-web-page-message}
 
-Si necesita editar el texto &quot;[View as a Webpage](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, así es como.
+Si necesita editar el &quot;[Ver como una página web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; texto, así es como.
 
 >[!NOTE]
 >
@@ -21,9 +20,13 @@ Si necesita editar el texto &quot;[View as a Webpage](/help/marketo/product-docs
 
 ## Editar el mensaje &quot;Ver como página web&quot; {#edit-the-view-as-web-page-message-1}
 
-1. En **Administración**, haga clic en **Correo electrónico**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-18-17-3a13-3a2.png)
+   ![](assets/edit-the-view-as-web-page-message-1.png)
+
+1. Haga clic en **Correo electrónico**.
+
+   ![](assets/edit-the-view-as-web-page-message-2.png)
 
    >[!CAUTION]
    >
@@ -31,17 +34,17 @@ Si necesita editar el texto &quot;[View as a Webpage](/help/marketo/product-docs
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >La segunda parte `##MKT_TOK##` es la cookie munchkin de esa persona. Se asegura de que se les recopile correctamente al hacer clic en el vínculo.
+   >Segunda parte `##MKT_TOK##` es la cookie munchkin de esa persona. Se asegura de que se les recopile correctamente al hacer clic en el vínculo.
 
-1. Edite las versiones **View as Web Page HTML** y **View as Web Page Text** a su gusto y haga clic en **Save Changes**.
+1. Edite el **Ver como HTML de página web** y **Ver como texto de página web** versiones a su gusto y haga clic en **Guardar cambios**.
 
-   ![](assets/image2016-8-26-14-3a40-3a29.png)
+   ![](assets/edit-the-view-as-web-page-message-3.png)
 
 >[!CAUTION]
 >
 >Asegúrese de evitar:
 >
->* Adición de direcciones URL adicionales a cualquiera de los cuadros HTML
+>* Adición de direcciones URL adicionales a cualquiera de los cuadros de HTML
 >* Incluir HTML en la versión de texto
 
 
@@ -58,4 +61,6 @@ Si alguna vez necesita volver al sistema predeterminado &quot;Ver como página w
 **Ver como texto de página web:**
 
 Para ver este correo electrónico como una página web, vaya a la siguiente dirección:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` ¡Boom! Ya has terminado.
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+
+¡Eso es todo!
