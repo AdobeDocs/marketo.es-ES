@@ -3,10 +3,10 @@ description: Temp - Documentos de Marketo - Documentación del producto
 title: Temp
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 12%
+source-wordcount: '523'
+ht-degree: 13%
 
 ---
 
@@ -71,14 +71,11 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-### Experiencia de próxima generación {#modern-ux}
+### title {#title}
 
 </br>
 
-* **Pantallas actualizadas en la experiencia de usuario moderna**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
-
-   * Detalles de la plantilla de página de aterrizaje
-   * Lista de plantillas de correo electrónico
+* **title**: descripción
 
 <table> 
   <tr> 
