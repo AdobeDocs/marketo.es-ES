@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '8810'
+source-wordcount: '8812'
 ht-degree: 2%
 
 ---
@@ -1329,7 +1329,7 @@ ht-degree: 2%
                + [Configuración de acciones de perspectiva de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Desinstalación del paquete personalizado de Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Desinstalación del paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
-         + Correo electrónico {#email}
+         + Email {#email}
             + Centro de comandos {#command-center}
                + [Información general de búsqueda avanzada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Asignación de tareas a integrantes del equipo](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
@@ -1869,6 +1869,7 @@ ht-degree: 2%
 + Notas de la versión {#release-notes}
    + [Programa de versiones](release-notes/release-schedule.md)
    + [Versión actual](release-notes/current.md)
+   + [Versión actual](release-notes/temp.md)
    + Versiones anteriores {#previous-releases}
       + 2022 {#2022}
          + [Notas de la versión: Enero del 22](release-notes/previous-releases/2022/release-notes-jan-22.md)
