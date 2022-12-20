@@ -1,11 +1,11 @@
 ---
-description: Notas de la versión actuales - Documentos de Marketo - Documentación del producto
+description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 9%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 ## Funciones de la versión Agile
 
 Las siguientes funciones siguen un formato Agile y se publican en varias fechas anteriores o posteriores a la fecha de lanzamiento estándar. Compruebe el estado de cada función debajo.
+
+### Chat dinámico {#dynamic-chat}
+
+</br>
 
 * **Defina la lista de reproducción en la tarjeta de captura de información para el chat dinámico**: Para garantizar la limpieza de los datos, puede definir listas de selección para las tarjetas de captura de información, de modo que los visitantes solo puedan seleccionarlas de una lista predefinida de opciones.
 
