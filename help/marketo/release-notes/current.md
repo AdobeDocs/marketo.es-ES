@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
+source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 10%
+source-wordcount: '667'
+ht-degree: 9%
 
 ---
 
@@ -201,3 +201,7 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
   </tr>
   </tbody>
 </table>
+
+**_Seminario web sobre la versión del producto_**
+
+¿Quiere obtener más información sobre estas funciones y mejoras? Asegúrese de [registrarse ahora](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) para unirse a nosotros el 24 de enero a las 9:00 AM PT / 12:00 PM ET para un seminario web en directo con nuestro equipo de productos para profundizar en estas innovaciones.
