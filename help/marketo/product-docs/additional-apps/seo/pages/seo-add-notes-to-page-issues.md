@@ -3,7 +3,6 @@ unique-page-id: 2949220
 description: SEO - Agregar notas a problemas de la página - Documentos de Marketo - Documentación del producto
 title: 'SEO: Agregar notas a problemas de página'
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
@@ -35,7 +34,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Puede eliminar la nota haciendo clic en la pequeña **x** en la esquina superior izquierda.
+>Para eliminar la nota, haga clic en el icono **x** en la esquina superior izquierda.
 
 ## Agregar notas en el desglose de detalles de página {#add-notes-in-page-detail-drill-down}
 
@@ -47,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Pase el ratón sobre el problema de la página al que desee agregar una nota y haga clic en **Agregar nota**.
+1. Pase el ratón sobre el problema de página al que desee añadir una nota y haga clic en **Agregar nota**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
