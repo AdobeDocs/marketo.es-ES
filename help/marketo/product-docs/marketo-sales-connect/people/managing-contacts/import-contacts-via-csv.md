@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352468
-description: Importar contactos mediante CSV - Documentos de marketing - Documentación del producto
-title: Importar contactos mediante CSV
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Importar contactos a través de CSV - Documentos de Marketo - Documentación del producto
+title: Importar contactos a través de CSV
+exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
+# Importar contactos a través de CSV {#import-contacts-via-csv}
 
-# Importar contactos mediante CSV {#import-contacts-via-csv}
+Tener contactos en la página Personas es importante porque es desde donde extraemos para rellenar automáticamente información personalizada en los campos dinámicos de las plantillas. Asegúrese de tener al menos un nombre y una dirección de correo electrónico para cada contacto en el CSV y de asignarlos a esos campos.
 
-Tener contactos en la página Personas es importante porque es desde donde extraemos para rellenar automáticamente información personalizada en los campos dinámicos de las plantillas. Asegúrese de que tiene al menos un nombre y una dirección de correo electrónico para cada contacto en el CSV y de que se asigna a esos campos.
-
-1. Seleccione el grupo (o cree uno nuevo) en la ficha Personas.
+1. Seleccione el grupo (o cree uno nuevo) en la pestaña Personas .
 
    ![](assets/one.png)
 
@@ -27,7 +26,7 @@ Tener contactos en la página Personas es importante porque es desde donde extra
 
    ![](assets/three.png)
 
-1. Busque el archivo en el equipo y selecciónelo.
+1. Localice el archivo en el equipo y selecciónelo.
 
    >[!NOTE]
    >
@@ -37,6 +36,6 @@ Tener contactos en la página Personas es importante porque es desde donde extra
 
    ![](assets/four.png)
 
-1. Asigne las columnas del CSV a sus respectivos campos en Sales Connect. Haga clic en **Siguiente** cuando termine.
+1. Asigne las columnas del CSV a sus respectivos campos en Conexión de ventas. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/five.png)
