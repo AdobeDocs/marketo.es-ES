@@ -3,7 +3,6 @@ unique-page-id: 7504676
 description: 'Explicación de los costes de período: Documentos de Marketo: Documentación del producto'
 title: Explicación de los costes de período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Explicación de los costes de período {#understanding-period-costs}
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Los costos de período se refieren al dinero que se gasta en un mes específico en un programa.
 
@@ -23,7 +22,7 @@ Los costos de período se refieren al dinero que se gasta en un mes específico 
 >
 >Si gasta $1000 para contratar un ilustrador para un eBook que se inicia en julio, el programa eBook tendría un costo de período de $1000 en julio.
 >
->Si gasta $200 al mes en Google AdWords, el programa Google AdWords tendría un coste de período de $200 **cada mes**.
+>Si gasta 200 dólares al mes en Google AdWords, el programa Google AdWords tendría un coste de período de 200 dólares **cada mes**.
 
 >[!NOTE]
 >
@@ -39,7 +38,7 @@ Imagine un evento, como un seminario web, que se produce en marzo. Las personas 
 
    ![](assets/graph1.png)
 
-   ...los contactos agregados en los meses anteriores y posteriores *solo* contarán hacia marzo.
+   ...contactos agregados en los meses anteriores y posteriores a will *only* contar hacia marzo.
 
    ![](assets/graph2.png)
 
@@ -61,7 +60,7 @@ Imagine un evento, como un seminario web, que se produce en marzo. Las personas 
 
    >[!NOTE]
    >
-   >En resumen: los meses sin costes de período definidos se redistribuirán &quot;hacia atrás&quot; hasta el último que se definió. Si no hay ningún coste de período anterior, los meses se pasarán a la siguiente que se haya definido. Si no se ha definido un coste de período para _cualquier_ meses, los informes en RCE no estarán disponibles para el programa.
+   >En resumen: los meses sin costes de período definidos se redistribuirán &quot;hacia atrás&quot; hasta el último que se definió. Si no hay ningún coste de período anterior, los meses se pasarán a la siguiente que se haya definido. Si no se ha definido un coste de período para _any_ meses, los informes en RCE no estarán disponibles para el programa.
 
    >[!MORELIKETHIS]
    >
