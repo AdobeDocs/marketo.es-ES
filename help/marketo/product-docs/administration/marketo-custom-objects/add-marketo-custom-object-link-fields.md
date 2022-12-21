@@ -3,7 +3,6 @@ unique-page-id: 10097613
 description: 'Agregar Campos De Vínculo De Objeto Personalizado De Marketo: Documentos De Marketo: Documentación Del Producto'
 title: Agregar campos de vínculo de objeto personalizado de Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
@@ -20,9 +19,9 @@ Al crear objetos personalizados, debe proporcionar campos de vínculo para conec
 
 ## Crear un campo de vínculo para una estructura de uno a varios {#create-a-link-field-for-a-one-to-many-structure}
 
-Así se crea un campo de vínculo en un objeto personalizado para una estructura de uno a varios.
+A continuación, se explica cómo crear un campo de vínculo en un objeto personalizado para una estructura de uno a varios.
 
-1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
+1. Haga clic en **Administrador** y en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +29,7 @@ Así se crea un campo de vínculo en un objeto personalizado para una estructura
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. En la pestaña **Fields**, haga clic en **Nuevo campo**.
+1. En el **Campos** , haga clic en **Campo nuevo**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -72,7 +71,7 @@ A continuación, se explica cómo crear un campo de vínculo en un objeto interm
 >
 >Ya debe haber creado el objeto intermedio y los objetos personalizados a los que desea vincularlo.
 
-1. Haga clic en **Administración** y, en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
+1. Haga clic en **Administrador** y en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -80,7 +79,7 @@ A continuación, se explica cómo crear un campo de vínculo en un objeto interm
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. En la pestaña **Fields**, haga clic en **Nuevo campo**.
+1. En el **Campos** , haga clic en **Campo nuevo**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
