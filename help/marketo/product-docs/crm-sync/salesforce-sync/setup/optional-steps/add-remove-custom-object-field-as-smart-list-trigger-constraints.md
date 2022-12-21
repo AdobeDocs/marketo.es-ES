@@ -3,7 +3,6 @@ unique-page-id: 4719300
 description: Agregar o quitar el campo de objeto personalizado como Listas inteligentes/Restricciones de Déclencheur - Documentos de Marketo - Documentación del producto
 title: Agregar o quitar un campo de objeto personalizado como restricciones de lista/Déclencheur inteligente
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Agregar o quitar el campo de objeto personalizado como restricción de lista/Déclencheur inteligente {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Agregar o quitar un campo de objeto personalizado como restricciones de lista/Déclencheur inteligente {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo proporciona control de grano sobre la sincronización de objetos personalizados de Salesforce. Esto le permite seleccionar los campos disponibles como restricciones en filtros de objeto personalizados y utilizarlos como déclencheur en campañas inteligentes.
 
@@ -19,15 +18,15 @@ Marketo proporciona control de grano sobre la sincronización de objetos persona
 >
 >**Se requieren permisos de administrador**
 
-1. Haga clic en **Administración.**
+1. Haga clic en **Administrador.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Haga clic en **Admin** y luego en **Sincronización de objetos de Salesforce**
+1. Haga clic en **Administrador** y luego **Sincronización de objetos de Salesforce.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **Las** Syncappears de objetos de Salesforce se encuentran en la columna izquierda.
+1. **Sincronización de objetos de Salesforce** aparece en la columna izquierda.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -39,7 +38,7 @@ Marketo proporciona control de grano sobre la sincronización de objetos persona
 
    >[!TIP]
    >
-   >Si el botón **Editar campos visibles** aparece atenuado, el objeto se está utilizando actualmente en una lista inteligente o campaña inteligente. Elimine todas las asociaciones para continuar.
+   >Si la variable **Editar campos visibles** está atenuado, el objeto se está utilizando en una lista inteligente o campaña inteligente. Elimine todas las asociaciones para continuar.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -55,7 +54,7 @@ Marketo proporciona control de grano sobre la sincronización de objetos persona
    >
    >Todos los campos están seleccionados de forma predeterminada para que sean restricciones en los filtros.
 
-1. Haga clic en la pestaña **Fields** para confirmar los cambios.
+1. Haga clic en el **Campos** para confirmar los cambios.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
