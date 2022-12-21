@@ -72,7 +72,7 @@ Una vez finalizada, la tarjeta mostrará &quot;Las personalizaciones de Sales Co
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
-## Campos de actividad personalizados {#custom-activity-fields}
+## Campos de actividad personalizada {#custom-activity-fields}
 
 Marketo detectará la creación de los nuevos campos y, a continuación, realizará un rellenado único de datos, una reasignación y una sincronización continua de valores en la variable **new** solo campos. Los campos antiguos no se actualizarán.
 
