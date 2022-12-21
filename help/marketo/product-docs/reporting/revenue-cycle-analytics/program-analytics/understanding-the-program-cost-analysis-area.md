@@ -1,19 +1,18 @@
 ---
 unique-page-id: 4718636
-description: Explicación del área de Análisis de costos de Programa - Documentos de marketing - Documentación del producto
-title: Explicación del área de Análisis de Costes de Programa
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Explicación del área de análisis de costes del programa - Documentos de Marketo - Documentación del producto
+title: Explicación del área de análisis de costes del programa
+exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
+# Explicación del área de análisis de costes del programa {#understanding-the-program-cost-analysis-area}
 
-# Explicación del área de Análisis de costos de Programa {#understanding-the-program-cost-analysis-area}
-
-El área de Análisis de Costes de Programa permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal para un período de tiempo determinado.
+El área de Análisis de Coste del Programa le permite analizar la eficacia de los programas individuales o ver los resultados resumidos por canal durante un período de tiempo determinado.
 
 ## Preguntas comerciales de ejemplo {#example-business-questions}
 
@@ -21,11 +20,11 @@ El área de Análisis de Costes de Programa permite analizar la efectividad de p
 
 ![](assets/image2015-5-6-14-3a13-3a47.png)
 
-¿Cuál era mi costo por nombre nuevo por canal al mes?
+¿Cuál era mi coste por nombre nuevo por canal al mes?
 
 ![](assets/image2015-5-6-14-3a16-3a28.png)
 
-¿Qué porcentaje de los nuevos nombres generados alcanzó el éxito en un programa?
+¿Qué porcentaje de los nuevos nombres generados han alcanzado el éxito en un programa?
 
 ![](assets/image2015-5-6-14-3a31-3a15.png)
 
@@ -33,7 +32,7 @@ El área de Análisis de Costes de Programa permite analizar la efectividad de p
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimension y medidas de Análisis de costos de programa {#program-cost-analysis-dimensions-and-measures}
+## Dimension y medidas del análisis de costes del programa {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -43,11 +42,11 @@ El área de Análisis de Costes de Programa permite analizar la efectividad de p
 
 | Medida | Descripción |
 |---|---|
-| Costo por miembro | Costo promedio por miembro del programa |
-| Costo por nombre nuevo | Costo promedio por posible cliente adquirido por el programa |
-| Costo por éxito | Costo promedio por posible cliente que logró el éxito en la progresión de un programa |
-| Costo por éxito (nombres nuevos) | Coste medio por plomo adquirido por el programa Y se logró el éxito en la progresión del programa |
-| Costo de programa | Costo total del período del programa |
+| Costo por Miembro | Coste medio por miembro del programa |
+| Costo por nombre nuevo | Coste medio por posible cliente adquirido por el programa |
+| Costo por éxito | Coste medio por posible cliente que haya logrado el éxito en la progresión de un programa |
+| Costo por éxito (nombres nuevos) | Coste medio por posible cliente adquirido por el programa Y se logró el éxito en la evolución del programa |
+| Coste del programa | Coste total del período del programa |
 
 ## Membresía {#membership}
 
@@ -58,49 +57,49 @@ El área de Análisis de Costes de Programa permite analizar la efectividad de p
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td>% de nombres nuevos</td> 
+   <td>% Nuevos Nombres</td> 
    <td>Porcentaje de posibles clientes adquiridos por un programa</td> 
   </tr> 
   <tr> 
    <td>Miembros</td> 
-   <td>Posibles clientes potenciales totales en un programa</td> 
+   <td>Total de posibles clientes en un programa</td> 
   </tr> 
   <tr> 
-   <td>Nombres nuevos</td> 
+   <td>Nuevos nombres</td> 
    <td>Total de nuevos nombres adquiridos por un programa</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Atributos de programa {#program-attributes}
+## Atributos del programa {#program-attributes}
 
-| Dimension | Descripción |
+| Dimensión | Descripción |
 |---|---|
-| Canal programa | Canal programa |
+| Programa Canal | Canal de programa |
 | Nombre del programa | Nombre del programa |
 
-## Intervalo de tiempo de costo de programa {#program-cost-timeframe}
+## Intervalo de tiempo del costo del programa {#program-cost-timeframe}
 
-| Dimension | Descripción |
+| Dimensión | Descripción |
 |---|---|
-| Año | Intervalo de tiempo de costo de programa |
-| Trimestre | Intervalo de tiempo de costo de programa |
-| Mes | Intervalo de tiempo de costo de programa |
+| Año | Período de tiempo del costo del programa |
+| Trimestre | Período de tiempo de costo del programa |
+| Mes | Período de tiempo del costo del programa |
 
 ## Etiquetas de programa {#program-tags}
 
 | Medida | Descripción |
 |---|---|
-| Industria | Etiqueta programa |
-| Línea de productos | Etiqueta programa |
-| Propietario del programa | Etiqueta programa |
-| Región | Etiqueta programa |
+| Industria | Etiqueta de programa |
+| Línea de productos | Etiqueta de programa |
+| Propietario del programa | Etiqueta de programa |
+| Región | Etiqueta de programa |
 
-## Éxito {#success}
+## Sin errores {#success}
 
 | Medida | Descripción |
 |---|---|
-| % de éxito (nuevos nombres) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y lograron el progreso del programa |
-| % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en la progresión de un programa |
-| Éxito (nuevos nombres) | Número total de nombres nuevos que lograron el éxito en la progresión de un programa |
-| Éxito (total) | Número total de posibles clientes que lograron el éxito en la progresión de un programa |
+| % de éxito (nombres nuevos) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y lograron el progreso del programa |
+| % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en el avance de un programa |
+| Éxito (nombres nuevos) | Número total de nuevos nombres que lograron el éxito en el avance de un programa |
+| Éxito (total) | Número total de posibles clientes que lograron el éxito en el progreso de un programa |
