@@ -3,21 +3,20 @@ unique-page-id: 2949273
 description: SEO - Uso del informe de tendencias de palabras clave - Documentos de Marketo - Documentación del producto
 title: SEO - Uso del informe de tendencias de palabras clave
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SEO: usar el informe de tendencias de palabras clave {#seo-use-the-keyword-trends-report}
+# SEO - Uso del informe de tendencias de palabras clave {#seo-use-the-keyword-trends-report}
 
 En este informe, puede ver la clasificación de palabras clave a lo largo del tiempo.
 
 ## Cargar informe {#load-report}
 
-1. Vaya a **Reports**.
+1. Vaya a **Informes**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
@@ -36,7 +35,7 @@ En este informe, puede ver la clasificación de palabras clave a lo largo del ti
    | Palabras clave | El número de palabras clave que está rastreando. |
    | Direcciones URL de clasificación | El número de direcciones URL del sitio que clasifican en el intervalo que ha establecido. |
    | Promedio de rank | Clasificación promedio de palabras clave en el rango que ha establecido. |
-   | Promedio de búsquedas | El número promedio de búsquedas de esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días, en la búsqueda de Google US |
+   | Promedio de búsquedas | El número promedio de búsquedas de esas palabras clave que se produjeron durante el intervalo establecido (en los últimos 30 días, en la búsqueda de Google US) |
 
 ## Filtrado de datos {#filtering-data}
 
