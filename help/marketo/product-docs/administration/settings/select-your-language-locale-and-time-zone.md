@@ -3,11 +3,10 @@ unique-page-id: 2359904
 description: 'Seleccionar su idioma, configuración regional y zona horaria: documentos de Marketo: documentación del producto'
 title: Seleccione su idioma, configuración regional y zona horaria
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -34,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Cambie su **Idioma**.
+1. Cambie el **Idioma**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,11 +41,11 @@ ht-degree: 0%
    >
    >También tiene la opción de cambiar solo su idioma haciendo clic en el menú desplegable de idioma en la parte superior de la página de inicio de sesión.
 
-1. Cambie la **configuración regional**.
+1. Cambie el **Configuración regional**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Cambie su **Zona horaria**.
+1. Cambie el **Zona horaria**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
