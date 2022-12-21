@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 38%
+ht-degree: 39%
 
 ---
 
@@ -54,18 +54,18 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Microsoft, Marketo reali
     </tr>
     <tr>
       <td>Email</td>
-      <td>Correo electrónico</td>
-      <td>email address1</td>
+      <td>Email</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Cargo</td>
-      <td>Puesto de trabajo</td>
+      <td>Cargo</td>
       <td>jobtitle</td>
     </tr>
     <tr>
       <td>Teléfono</td>
       <td>Teléfono comercial</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Teléfono móvil</td>
@@ -104,7 +104,7 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Microsoft, Marketo reali
     </tr>
     <tr>
       <td>Origen de la persona</td>
-      <td>Origen del lead</td>
+      <td>Origen del posible cliente</td>
       <td>leader sourccode</td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Microsoft, Marketo reali
     <tr>
       <td>Microsoft - Teléfono particular</td>
       <td>Teléfono particular</td>
-      <td>phone2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Método De Contacto Preferido De Microsoft</td>
@@ -293,9 +293,9 @@ Los campos de posibles clientes que se indican a continuación se sincronizan pa
       <td>lastname</td>
     </tr>
     <tr>
-      <td>Correo electrónico</td>
-      <td>Correo electrónico</td>
-      <td>email address1</td>
+      <td>Email</td>
+      <td>Email</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Cargo</td>
@@ -305,7 +305,7 @@ Los campos de posibles clientes que se indican a continuación se sincronizan pa
     <tr>
       <td>Teléfono</td>
       <td>Teléfono comercial</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Teléfono móvil</td>
@@ -375,7 +375,7 @@ Los campos de posibles clientes que se indican a continuación se sincronizan pa
     <tr>
       <td>Microsoft - Teléfono particular</td>
       <td>Teléfono particular</td>
-      <td>phone2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Método De Contacto Preferido De Microsoft</td>
@@ -524,7 +524,7 @@ Los campos Contacto siguientes se sincronizan para uso interno.
     <tr>
       <td>Teléfono principal</td>
       <td>Teléfono principal</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Tipo de negocio</td>
@@ -633,7 +633,7 @@ Los campos Cuenta siguientes se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Etapa</td>
-      <td>status</td>
+      <td>estado</td>
       <td>statcode</td>
     </tr>
     <tr>
