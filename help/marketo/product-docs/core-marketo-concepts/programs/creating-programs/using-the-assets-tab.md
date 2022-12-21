@@ -3,31 +3,30 @@ unique-page-id: 1147124
 description: Uso de la pestaña Assets - Marketo Docs - Documentación del producto
 title: Uso de la ficha Recursos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Uso de la pestaña Recursos {#using-the-assets-tab}
+# Uso de la ficha Recursos {#using-the-assets-tab}
 
 El lienzo de recursos es una representación visual del programa. Puede utilizarla para añadir recursos locales e interactuar con los existentes.
 
 ## Adición de recursos {#adding-assets}
 
-En el área **Marketing Activities**, haga clic en la pestaña **Assets**. Elija cualquiera de los recursos siguientes y agréguelos a su programa.
+En el **Actividades de marketing** , haga clic en el **Recursos** pestaña . Elija cualquiera de los recursos siguientes y agréguelos a su programa.
 
 ![](assets/programassets.png)
 
-## Administrar el programa {#manage-your-program}
+## Administrar el programa  {#manage-your-program}
 
 Cuando haya activos en su programa, los verá listados aquí.
 
-| Naranja | Campaña de déclencheur |
+| Naranja | Campaña desencadenadora |
 |---|---|
-| Verde | Campaña por lotes |
+| Verde | Campaña por lote |
 
 Puede hacer clic con el botón derecho en el encabezado si desea interactuar con ese recurso.
 
