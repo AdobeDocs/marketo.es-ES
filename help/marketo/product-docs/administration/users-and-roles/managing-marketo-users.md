@@ -3,7 +3,6 @@ unique-page-id: 2359906
 description: 'Administración de usuarios de Marketo: Documentos de Marketo: Documentación del producto'
 title: Administración de usuarios de Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
@@ -15,19 +14,19 @@ ht-degree: 0%
 
 ## Crear usuarios {#create-users}
 
-1. Vaya a **Admin** y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Haga clic en **Invitar nuevo usuario**.
+1. Haga clic en **Invitar a nuevo usuario**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Introduzca **Email address**, **First Name** y **Last Name**.
+1. Introduzca la variable **Dirección de correo electrónico**, **Nombre** y **Apellidos**.
 
    ![](assets/image2016-5-24-9-3a45-3a30.png)
 
-1. De forma opcional, introduzca un motivo para la invitación y seleccione una fecha de caducidad en el campo **Access Expires** utilizando el selector de fechas.
+1. Opcionalmente, introduzca un motivo para la invitación y seleccione una fecha de caducidad en la **El acceso caduca** utilizando el selector de fechas.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
@@ -43,11 +42,11 @@ ht-degree: 0%
    >
    >Cuando llega la fecha de caducidad, el usuario recibe una notificación de caducidad y su cuenta está bloqueada.
 
-1. Seleccione la **Función** de su elección y haga clic en **Siguiente**.
+1. Seleccione el **Función** de su elección y haga clic en **Siguiente**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Realice modificaciones en el mensaje de invitación si es necesario. Haga clic en **Send**.
+1. Realice modificaciones en el mensaje de invitación si es necesario. Haga clic en **Enviar**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
@@ -87,7 +86,7 @@ El nuevo usuario aparece ahora en la pestaña Usuarios y recibirá un correo ele
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Haga clic en **Close** para descartar el mensaje.
+1. Haga clic en **Cerrar** para rechazar el mensaje.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
@@ -101,7 +100,7 @@ El usuario recibirá un correo electrónico con instrucciones para restablecer l
 
 ## Cambiar permisos y editar información de usuario {#change-permissions-and-edit-user-information}
 
-1. Vaya a **Admin** y haga clic en **Usuarios y funciones.**
+1. Vaya a **Administrador** y haga clic en **Usuarios y funciones.**
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
