@@ -53,7 +53,7 @@ Al calcular programas similares, incluimos los siguientes factores, entre otros:
 
 * Tipo de programa
 * Canal de programa
-* Tamaño de la audiencia
+* Tamaño de audiencia
 * Etiquetas del programa
 * Duración desde la creación del evento hasta el inicio del evento
 * Duración del evento
