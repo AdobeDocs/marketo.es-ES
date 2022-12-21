@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2360219
-description: Configuración de una firma DKIM personalizada - Documentos de marketing - Documentación del producto
+description: Configuración de una firma DKIM personalizada - Marketo Docs - Documentación del producto
 title: Configuración de una firma DKIM personalizada
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Configuración de una firma DKIM personalizada {#set-up-a-custom-dkim-signature}
 
-# Configure una firma DKIM personalizada {#set-up-a-custom-dkim-signature}
-
-Con el fin de garantizar la entrega de primera calidad, firmamos automáticamente todos los correos salientes con una firma compartida de Marketing a DKIM.
+Para garantizar la capacidad de envío superior, firmamos automáticamente todos los correos salientes con una firma DKIM compartida de Marketo.
 
 >[!NOTE]
 >
@@ -21,40 +20,40 @@ Con el fin de garantizar la entrega de primera calidad, firmamos automáticament
 
 Puede personalizar la firma DKIM para que refleje los dominios de su elección. Así es como.
 
-1. Vaya a la sección **Administración**.
+1. Vaya a la **Administrador** para obtener más información.
 
    ![](assets/adminhand.png)
 
    >[!NOTE]
    >
-   >Si configuras una firma DKIM personalizada de la manera antigua, seguirá funcionando y debería aparecer aquí.
+   >Si configuras una firma DKIM personalizada a la manera antigua, seguirá funcionando y debería aparecer aquí.
 
-1. Haga clic en **Correo electrónico**, luego en la ficha **DKIM** y, finalmente, **Añadir dominio**.
+1. Haga clic en **Correo electrónico**, luego la variable **DKIM** y finalmente **Agregar dominio**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Escriba el dominio que va a usar en los correos electrónicos de Marketing como Dirección de origen y haga clic en **Añadir**.
+1. Introduzca el dominio que utilizará en los correos electrónicos de Marketo como Dirección de origen y haga clic en **Agregar**.
 
    >[!TIP]
    >
-   >Si usa un dominio diferente en su dirección de origen, usaremos la firma DKIM compartida de Marketing Cloud.
+   >Si utiliza un dominio diferente en su dirección De, utilizaremos la firma DKIM compartida de Marketo.
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Envíe el **Registro de host** y **Valor TXT** a su TI. Pídale que cree el registro por usted y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketing requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que se firma DKIM.
+1. Envíe el **Registro de host** y **Valor TXT** a su TI. Solicite que creen el registro por usted y asegúrese de que se propaga a todos los servidores de nombres asociados al dominio de origen. La verificación DKIM de Marketo requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que está siendo firmado por DKIM.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Una vez que confirmen que han creado el registro, vuelva a Marketing, seleccione su dominio y haga clic en **Comprobar DNS**.
+1. Una vez que confirmen que han creado el registro, vuelva a Marketo, seleccione su dominio y haga clic en **Comprobar DNS**.
 
    ![](assets/check.png)
 
    >[!NOTE]
    >
-   >Si la confirmación falla y el departamento de TI ha creado el registro correctamente, puede que se trate de una propagación de DNS. Inténtelo de nuevo más tarde.
+   >Si la confirmación falla y el departamento de TI ha creado el registro correctamente, puede tratarse de una propagación de DNS. Inténtelo de nuevo más tarde.
 
    >[!CAUTION]
    >
-   >Si se modifica o elimina el registro DNS correspondiente, se dañará la capacidad de entrega. Asegúrese de eliminar la entrada en Marketing antes de realizar cambios en DNS.
+   >Modificar/quitar el registro DNS correspondiente dañará la capacidad de envío. Asegúrese de eliminar la entrada en Marketo antes de realizar cambios en DNS.
 
-   Esto le ayudará en absoluto con la entrega de su correo electrónico. Debe obtener la validación de que el registro está ahí y es correcto.
+   Esto le ayudará en absoluto con la capacidad de envío de su correo electrónico. Debe obtener la validación de que el registro está allí y es correcto.
