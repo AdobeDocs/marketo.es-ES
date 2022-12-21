@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359870
-description: Buscar la URL de una imagen o archivo cargado - Documentos de marketing - Documentación del producto
-title: Buscar la dirección URL de una imagen o archivo cargado
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Busque la URL de una imagen o archivo cargado: Documentos de Marketo: Documentación del producto'
+title: Buscar la URL de una imagen o archivo cargado
+exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
+# Buscar la URL de una imagen o archivo cargado {#find-the-url-of-an-uploaded-image-or-file}
 
-# Buscar la dirección URL de una imagen o archivo cargado {#find-the-url-of-an-uploaded-image-or-file}
+¿Busca la dirección web (URL) de una imagen o archivo que ha cargado? Marketo te cubrió.
 
-¿Busca la dirección web (URL) de una imagen o archivo que ha cargado? Marketo te ha cubierto.
-
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/designstudio-4.png)
 
@@ -23,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. La **URL** se muestra en la página de detalles. Haga clic con el botón secundario en la **URL** y haga clic en **Copiar** en el menú que aparece.
+1. La variable **URL** se muestra en la página de detalles. Haga clic con el botón derecho en el **URL** y haga clic en **Copiar** en el menú que aparece.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
-¡Dése una palmadita en la espalda por un trabajo bien hecho!
+¡Pásame la espalda por un trabajo bien hecho!
 
 >[!MORELIKETHIS]
 >
