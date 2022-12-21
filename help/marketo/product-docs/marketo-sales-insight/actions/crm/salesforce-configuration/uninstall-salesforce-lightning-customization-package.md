@@ -5,7 +5,7 @@ exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '1182'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
@@ -191,7 +191,7 @@ Esta es una lista de todos los objetos que deben eliminarse de la instancia de S
 
 <table>
  <tr>
-  <th>Campos de actividad personalizados</th>
+  <th>Campos de actividad personalizada</th>
   <th>Descripción</th>
   <th>Tipo</th>
   <th>Tipo de datos</th>
