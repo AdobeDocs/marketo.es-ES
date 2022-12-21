@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359614
-description: Definir valores en una radio o campo seleccionado de un formulario - Documentos de marketing - Documentación del producto
-title: Definir valores en un campo seleccionado o de radio en un formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Definir valores en un campo de radio o seleccionado en un formulario - Documentos de Marketo - Documentación del producto
+title: Definir valores en un campo de radio o seleccionado de un formulario
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
+# Definir valores en un campo de radio o seleccionado de un formulario {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-# Definir valores en un campo seleccionado o de radio en un formulario {#define-values-in-a-radio-or-selected-field-in-a-form}
-
-Una vez que haya [configurado un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para que sea un botón de radio o un tipo de selección, querrá definir los valores que el usuario puede elegir. Así es como.
+Una vez que haya [definición de un tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) para ser un botón de opción o un tipo de selección, debe definir los valores que el usuario puede elegir. Así es como.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -29,9 +28,9 @@ Una vez que haya [configurado un tipo de campo](/help/marketo/product-docs/admin
 
    >[!NOTE]
    >
-   >El primer valor predeterminado es siempre &quot;Seleccionar...&quot;. Siéntase libre de editar eso. Si cambia el botón de radio predeterminado a otra fila, &quot;Seleccione...&quot;. no se mostrará como una opción en el formulario.
+   >El primer valor predeterminado es siempre &quot;Select...&quot; Siéntase libre de editarlo. Si cambia el botón de opción predeterminado a otra fila, &quot;Seleccione...&quot; no se mostrará como una opción en el formulario.
 
-1. Haga clic para agregar su valor.
+1. Haga clic en para añadir su valor.
 
    ![](assets/image2014-9-15-16-3a29-3a18.png)
 
@@ -39,15 +38,15 @@ Una vez que haya [configurado un tipo de campo](/help/marketo/product-docs/admin
    >
    >**Definición**
    >
-   >**Valor de visualización:** lo que se muestra en el visitante.
+   >**Mostrar valor:** Qué se muestra al visitante.
    >
-   >**Valor almacenado:** Qué se registra en Marketing.
+   >**Valor almacenado:** Qué se registra en Marketo.
 
-1. Añada todos los valores que necesite y haga clic en **Guardar**.
+1. Agregue todos los valores que necesite y haga clic en **Guardar**.
 
    >[!NOTE]
    >
-   >Si no introduce un valor almacenado, Marketing utilizará el valor de visualización y lo almacenará.
+   >Si no introduce un valor almacenado, Marketo utilizará el valor de visualización y lo almacenará.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
@@ -63,4 +62,4 @@ Una vez que haya [configurado un tipo de campo](/help/marketo/product-docs/admin
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-¡Super trabajo! Lo estás haciendo muy bien.
+¡Supertrabajo! Lo estás haciendo muy bien.
