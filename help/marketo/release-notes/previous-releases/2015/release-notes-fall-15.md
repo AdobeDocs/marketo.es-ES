@@ -54,7 +54,7 @@ Esta actualización incluye muchas funciones y funcionalidades nuevas:
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Participación de Marketo Mobile: tokens, enviar muestra y previsualizar {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Engens: Tokens, enviar muestra y vista previa {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Enviar muestra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
