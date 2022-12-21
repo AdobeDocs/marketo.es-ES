@@ -1,56 +1,55 @@
 ---
 unique-page-id: 9437340
-description: Implementación de RTP mediante el Administrador de etiquetas de torio - Documentos de marketing - Documentación del producto
-title: Implementación de RTP mediante el Administrador de etiquetas de torio
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Implementación de RTP mediante el Administrador de etiquetas de torio - Marketo Docs - Documentación del producto
+title: Implementación de RTP mediante el Administrador de etiquetas de Tealium
+exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
+# Implementación de RTP mediante el Administrador de etiquetas de Tealium {#implementing-rtp-using-tealium-tag-manager}
 
-# Implementación de RTP mediante el Administrador de etiquetas de torio {#implementing-rtp-using-tealium-tag-manager}
+Para implementar su etiqueta RTP, siga las instrucciones de instalación a continuación.
 
-Para implementar la etiqueta RTP, siga las instrucciones de instalación a continuación.
+1. Inicie sesión en su cuenta de Tealium Tag Manager.
 
-1. Inicie sesión en su cuenta del Administrador de etiquetas de torio.
+1. Vaya a la pestaña Etiquetas y añada la etiqueta Contenedor personalizado de torio, ubicada en la pestaña Misc del mercado Etiquetas.
 
-1. Vaya a la ficha Etiquetas y agregue la etiqueta de Contenedor personalizado de torio, ubicada en la ficha Misc del mercado de etiquetas.
-
-1. En el campo Título, escriba **RTP de marketing** y haga clic en **Finalizar**.
+1. En el campo Título , introduzca **Marketo RTP** y haga clic en **Finalizar**.
 
 1. Guarde los cambios.
 
    >[!NOTE]
    >
-   >Todavía no hay necesidad de publicar el nuevo contenedor.
+   >Aún no es necesario publicar el nuevo contenedor.
 
-1. Una vez guardado el perfil, haga clic en su nombre o dirección de correo electrónico en la esquina superior derecha de la consola de iQ de Tealium.
+1. Una vez guardado el perfil, haga clic en su nombre/dirección de correo electrónico en la esquina superior derecha de la consola de Tealium iQ.
 
 1. En el menú Administración, haga clic en **Administrar plantillas** en Administración de cuentas.
 
-1. Seleccione **Contenedor personalizado de tealio: Marque RTP** desde la lista desplegable para abrir la plantilla Tag.
+1. Select **Contenedor personalizado de tealium: Marketo RTP** en la lista desplegable para abrir la plantilla Etiqueta .
 
 1. Inicie sesión en su cuenta RTP.
 
-1. Vaya a Configuración de cuenta.
+1. Vaya a Configuración de la cuenta.
 
    >[!NOTE]
    >
-   >Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 11.
+   >Si ya ha recibido la etiqueta JavaScript de Asistencia, continúe con el paso 11.
 
-1. En Dominio, localice el dominio relevante y haga clic en **Generar etiqueta**.
+1. En Dominio, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
 
-1. Copie la etiqueta de JavaScript de RTP y péguela entre el código de la biblioteca de etiquetas de Inicio y el código de la biblioteca de etiquetas final en la plantilla de Perfil de torio.
+1. Copie la etiqueta JavaScript de RTP y péguela entre Iniciar código de biblioteca de etiquetas y Finalizar código de biblioteca de etiquetas en la plantilla de perfil de torio.
 
    >[!NOTE]
    >
    >**Pasos importantes**
    >
-   >Elimine las etiquetas `<!-- RTP tag -->` y `<!-- End of RTP tag -->` del código que coloque en este archivo.
+   >Elimine el `<!-- RTP tag -->` y `<!-- End of RTP tag -->` etiquetas del código que coloque en este archivo.
    >
-   >Elimine las etiquetas `<script type='text/javascript'>` y `</script>` del código que coloque en este archivo.
+   >Eliminar cualquier `<script type='text/javascript'>` y `</script>` etiquetas del código que coloque en este archivo.
 
-1. **Haga clic en Guardar** plantilla de Perfil y publique el nuevo perfil.
+1. **Haga clic en Guardar plantilla de perfil .** y publicar el nuevo perfil.
