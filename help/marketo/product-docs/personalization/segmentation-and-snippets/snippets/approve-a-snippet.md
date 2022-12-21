@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359463
-description: Aprobar un fragmento - Documentos de marketing - Documentación del producto
+description: 'Aprobar un fragmento: Documentos de Marketo: Documentación del producto'
 title: Aprobar un fragmento
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-
-# Aprobar un fragmento de código {#approve-a-snippet}
+# Aprobar un fragmento {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >
->[Añadir contenido en un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Añadir contenido a un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
-Es necesario aprobar un fragmento antes de su uso.
+Un fragmento debe aprobarse antes de su uso.
 
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
