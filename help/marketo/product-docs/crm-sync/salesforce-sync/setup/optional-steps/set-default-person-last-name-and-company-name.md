@@ -3,7 +3,6 @@ unique-page-id: 4719291
 description: 'Definir apellidos de persona y nombre de empresa predeterminados: documentos de Marketo: documentación del producto'
 title: Definir los apellidos de la persona y el nombre de la empresa predeterminados
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Salesforce requiere un apellido (mínimo) y un nombre de empresa para sus posibles clientes y contactos. Los registros incompletos no se sincronizarán con Salesforce. Si desea sincronizar registros parciales, debe establecer los valores predeterminados para que Marketo los utilice con Salesforce.
 
-1. Vaya a **Admin** y haga clic en **Salesforce**.
+1. Vaya a **Administrador** y haga clic en **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
@@ -23,7 +22,7 @@ Salesforce requiere un apellido (mínimo) y un nombre de empresa para sus posibl
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Introduzca un **Default person last name** y una **Default person company** y haga clic en **Save**.
+1. Escriba un **Apellido de persona predeterminado** y **Empresa de persona predeterminada** a continuación, haga clic en **Guardar**.
 
    ![](assets/sync-options-hands.png)
 
