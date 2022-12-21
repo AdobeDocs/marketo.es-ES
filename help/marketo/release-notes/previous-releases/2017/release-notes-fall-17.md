@@ -89,6 +89,6 @@ Ahorre tiempo reutilizando recursos creativos e imágenes en varios canales dent
 
 Ahora puede previsualizar el correo electrónico de forma remota fuera de Marketo, lo que simplifica el proceso de localización del contenido del correo electrónico y reduce los errores.
 
-**[Reemplazar API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Reemplazar la API del HTML](https://developers.marketo.com/rest-api/assets/emails/)**
 
-Los desarrolladores pueden actualizar el contenido HTML de los recursos de correo electrónico de forma remota, lo que les permite trabajar en un solo sistema para mantener los recursos.
+Los desarrolladores pueden actualizar el contenido del HTML de los recursos de correo electrónico de forma remota, lo que les permite trabajar en un solo sistema para mantener los recursos.
