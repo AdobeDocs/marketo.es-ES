@@ -16,7 +16,7 @@ Las siguientes funciones están incluidas en la versión de invierno de 2016. Ha
 
 ## [Es un filtro anónimo](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-El filtro Es anónimo se ha eliminado de las listas inteligentes. Consulte el documento [Next Generation Munchkin Tracking FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) para obtener más información. Este cambio no afecta a la personalización web (RTP), que continúa identificando visitantes web anónimos y conocidos y personalizando el contenido en tiempo real para estos visitantes.
+El filtro Es anónimo se ha eliminado de las listas inteligentes. Consulte la [Preguntas frecuentes sobre el seguimiento de Munchkin de próxima generación](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) documento para obtener detalles. Este cambio no afecta a la personalización web (RTP), que continúa identificando visitantes web anónimos y conocidos y personalizando el contenido en tiempo real para estos visitantes.
 
 ## [Panel de bases de datos](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -24,13 +24,13 @@ La base de datos de posibles clientes tiene un panel de resumen actualizado que 
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Explorador de Microsoft Edge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## [Explorador Microsoft Edge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Hemos agregado Microsoft Edge a la [lista de exploradores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) admitidos por Marketo.
+Hemos agregado Microsoft Edge al [lista de exploradores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) compatible con Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Ahora se admite Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) .
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) ahora es compatible.
 
 ## [Inicio del encabezado del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -48,7 +48,7 @@ Para utilizar esta función, el programa de correo electrónico debe programarse
 
 ## [Mejoras de marketing móvil](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Compatibilidad con PhoneGap:** ahora ofrecemos compatibilidad con PhoneGap para su aplicación móvil. [Obtenga más información](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Compatibilidad con PhoneGap:** Ahora ofrecemos compatibilidad con PhoneGap para su aplicación móvil. [Obtenga más información](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Compatibilidad con aplicaciones de espacio aislado**:
 
@@ -58,9 +58,9 @@ Para utilizar esta función, el programa de correo electrónico debe programarse
 
 Cree, actualice y clone programas a través de la API de REST. Esto no incluye la creación o actualización de listas inteligentes y campañas inteligentes dentro de un programa.
 
-## [Mejoras de Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Mejoras en Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[Estado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)** de sincronización: Mantenga las pestañas en el rendimiento actual y el trabajo pendiente del proceso de sincronización. Desglose por el número de inserciones y actualizaciones por objeto.
+**[Estado de sincronización](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Mantenga las pestañas en el rendimiento actual y el trabajo pendiente del proceso de sincronización. Desglose por el número de inserciones y actualizaciones por objeto.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -76,7 +76,7 @@ Ahora puede crear relaciones de varios a varios entre posibles clientes y cuenta
 
 ## [Anuncios de posible cliente de facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Los ](https://www.facebook.com/business/a/lead-ads) anuncios de facebook Lead son una forma más directa de que una empresa ejecute campañas de generación de posibles clientes en Facebook. Las personas rellenan un formulario para expresar interés por un producto o servicio, de modo que la empresa pueda realizar el seguimiento con ellos. La integración de Marketo con los anuncios de posibles clientes de Facebook captura automáticamente la información que proporciona un posible cliente en el formulario de anuncios de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo déclencheur de relleno de anuncios de posibles clientes de Facebook.
+[Anuncios de posible cliente de facebook](https://www.facebook.com/business/a/lead-ads) son una forma más directa de que una empresa ejecute campañas de generación de posibles clientes en Facebook. Las personas rellenan un formulario para expresar interés por un producto o servicio, de modo que la empresa pueda realizar el seguimiento con ellos. La integración de Marketo con los anuncios de posibles clientes de Facebook captura automáticamente la información que proporciona un posible cliente en el formulario de anuncios de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo déclencheur de relleno de anuncios de posibles clientes de Facebook.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
