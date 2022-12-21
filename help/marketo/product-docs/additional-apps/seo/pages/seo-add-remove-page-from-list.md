@@ -3,7 +3,6 @@ unique-page-id: 2949218
 description: SEO - Agregar o eliminar página de la lista - Documentos de Marketo - Documentación del producto
 title: 'SEO: Agregar o eliminar página de la lista'
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -17,11 +16,11 @@ ht-degree: 0%
 
 ## Agregar página a una lista {#add-page-to-a-list}
 
-1. Vaya a la sección **Páginas**.
+1. Vaya a la **Páginas** para obtener más información.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Pase el ratón sobre la página que quiera añadir a una lista. Haga clic en **Agregar o quitar de la lista**.
+1. Pase el ratón sobre la página que quiera añadir a una lista. Haga clic en **Agregar/Quitar de la lista**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -49,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Pase el ratón sobre la página que desee eliminar. Haga clic en **Agregar o quitar de la lista**.
+1. Pase el ratón sobre la página que desee eliminar. Haga clic en **Agregar/Quitar de la lista**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
