@@ -3,7 +3,6 @@ unique-page-id: 11378869
 description: Creación de un mensaje SMS de vídeo - Marketo Docs - Documentación del producto
 title: Crear un mensaje SMS de vídeo
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '372'
@@ -17,13 +16,13 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
 
 >[!AVAILABILITY]
 >
->Esta función está disponible como complemento para su cuenta de Marketo Engage de Adobe. Para que se aprovisione correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el administrador de éxito de los clientes de Adobe para obtener más información.
+>Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se aprovisione correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el administrador de éxito de los clientes de Adobe para obtener más información.
 
 >[!NOTE]
 >
 >La mensajería de texto SMS no es compatible con HIPAA.
 
-1. Vaya a **Marketing Activities** y haga clic con el botón derecho en un programa.
+1. Vaya a **Actividades de marketing** y haga clic con el botón derecho en un programa.
 
    ![](assets/mobile-right-click-hand.jpg)
 
@@ -33,13 +32,13 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
 
    >[!TIP]
    >
-   >También puede hacer clic en la lista desplegable **New**.
+   >También puede hacer clic en el botón **Nuevo** lista desplegable.
 
 1. Haga clic en **Mensaje SMS**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
-1. Escriba un nombre y una descripción opcional para el nuevo mensaje SMS y haga clic en **Crear**.
+1. Introduzca un nombre y una descripción opcional para el nuevo mensaje SMS y haga clic en **Crear**.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
@@ -55,7 +54,7 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
    >
    >Los límites de EE. UU. y Canadá son diferentes, con 160 y 130 caracteres respectivamente. Si supera estos límites de caracteres, su mensaje podría dividirse. Aunque se muestra cuando se supera el límite canadiense, el editor está optimizado para EE. UU. y divide el mensaje en función del límite de EE. UU.
 
-1. Haga clic en **Token** en el menú Insertar para agregar un token al mensaje.
+1. Haga clic en **Token** en el menú Insertar para añadir un token al mensaje.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -63,7 +62,7 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
    >
    >Añadir un token puede hacer que el mensaje supere el límite de caracteres. A continuación, el mensaje se divide, lo que resulta en cargos adicionales.
 
-1. Haga clic en **Link** en el menú Insertar para agregar un vínculo al mensaje.
+1. Haga clic en **Vínculo** en el menú Insertar para añadir un vínculo al mensaje.
 
    ![](assets/full-message-link-hand.jpg)
 
@@ -75,7 +74,7 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
    >
    >Los dos vínculos de seguimiento están seleccionados de forma predeterminada.
 
-1. Si desea utilizar una URL externa en su lugar, haga clic en el botón **External URL** e introduzca la URL en el campo URL. Haga clic en **Insert**.
+1. Si desea utilizar una URL externa en su lugar, haga clic en el botón **Dirección URL externa** e introduzca la URL en el campo URL . Haga clic en **Insertar**.
 
    ![](assets/insert-link-url-hands.jpg)
 
