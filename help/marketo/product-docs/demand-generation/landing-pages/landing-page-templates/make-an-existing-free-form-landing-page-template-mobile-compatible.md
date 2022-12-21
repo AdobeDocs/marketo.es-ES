@@ -1,31 +1,30 @@
 ---
 unique-page-id: 5472348
-description: Conversión de plantillas de Página de aterrizaje de forma libre existentes en móviles compatibles - Documentos de marketing - Documentación del producto
-title: Conversión de una plantilla de Página de aterrizaje de forma libre existente en compatible con móviles
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Hacer compatible una plantilla de página de aterrizaje de forma libre existente con dispositivos móviles - Documentos de Marketo - Documentación del producto
+title: Hacer compatible con Mobile una plantilla de página de aterrizaje de forma libre existente
+exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
+# Hacer compatible con Mobile una plantilla de página de aterrizaje de forma libre existente {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
-# Hacer compatible una plantilla de Página de aterrizaje de forma libre existente con dispositivos móviles {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
-Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Páginas de aterrizaje.
+Esto se puede hacer en dos lugares, el Editor de plantillas y el Editor de páginas de aterrizaje.
 
 ## Actualizar desde el Editor de plantillas {#upgrade-from-the-template-editor}
 
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Seleccione **Plantillas**.
+1. Select **Plantillas**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Seleccione una plantilla donde **Compatible con móviles** sea **No**.
+1. Seleccione una plantilla donde **Compatible con dispositivos móviles** es **No**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -33,19 +32,19 @@ Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Pági
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Haga clic en **Hacer que los móviles sean compatibles**.
+1. Haga clic en **Hacer compatible con dispositivos móviles**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Haga clic en **Actualizar**.
+1. Haga clic en **Actualización**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
-   La plantilla de página de aterrizaje ahora es compatible con móviles.
+   La plantilla de página de aterrizaje ahora es compatible con dispositivos móviles.
 
    >[!NOTE]
    >
-   >La actualización debe ser inocua, pero asegúrese de comprobar las discrepancias en las páginas. La actualización creará borradores de cualquier página de aterrizaje que utilice esa plantilla.
+   >La actualización debe ser inofensiva, pero asegúrese de comprobar las páginas para ver si hay discrepancias. La actualización crea borradores de cualquier página de aterrizaje que use esa plantilla.
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
@@ -55,25 +54,25 @@ Esto se puede hacer en dos lugares: el Editor de plantillas y el Editor de Pági
 
 `<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
 
-Si todo se ve bien, verá este mensaje.
+Si todo parece bueno, verá este mensaje.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
-Si algo no funciona, aparecerá un mensaje de error, haga clic en Reparar para solucionar el problema y repetir el proceso de validación.
+Si algo está mal, aparecerá un mensaje de error, haga clic en reparar para solucionar el problema y repetir el proceso de validación.
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
 Si realiza cambios en la plantilla, haga clic en Acciones de plantilla y seleccione Validar compatibilidad móvil.
 
-## Actualización de una plantilla desde el Editor de Páginas de aterrizaje de formato libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
+## Actualización de una plantilla desde el editor de páginas de aterrizaje de forma libre {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
-Cuando edita una página de aterrizaje y hace clic en la ficha móvil, a veces se da cuenta de que la plantilla no se ha actualizado. ¡No teman! Puede actualizarlo aquí mismo.
+Cuando edita una página de aterrizaje y hace clic en la ficha móvil, a veces observará que la plantilla no se ha actualizado. ¡No tengas miedo! Puede actualizarlo allí mismo.
 
-1. Haga clic en la ficha **Móvil**.
+1. Haga clic en el **Móvil** pestaña .
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Haga clic en la casilla de verificación y haga clic en **Activar**.
+1. Haga clic en la casilla de verificación y en **Activar**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
