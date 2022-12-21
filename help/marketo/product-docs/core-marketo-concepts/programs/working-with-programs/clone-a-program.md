@@ -3,7 +3,6 @@ unique-page-id: 1147110
 description: 'Clonar un programa: Documentos de Marketo: Documentación del producto'
 title: Clonar un programa
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
@@ -17,9 +16,9 @@ Clona rápida y fácilmente todo un programa y todos sus activos en lugar de rec
 
 >[!PREREQUISITES]
 >
->Antes de sumergirse, conozca las [prácticas recomendadas para evitar la corrupción en los recursos clonados](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+>Antes de sumergirse en [prácticas recomendadas para evitar la corrupción en recursos clonados](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
 
-1. Busque y seleccione el programa que desea clonar y, a continuación, en **Acciones de programa** haga clic en **Clonar**.
+1. Busque y seleccione el programa que desea clonar y, a continuación, en **Acciones de programa** click **Clonar**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -27,7 +26,7 @@ Clona rápida y fácilmente todo un programa y todos sus activos en lugar de rec
 
    >[!NOTE]
    >
-   >Los programas se pueden clonar en [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [folders](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Asegúrese de compartir todos los recursos dependientes subyacentes (correos electrónicos, fragmentos, plantillas de página de aterrizaje, etc.) con el espacio de trabajo de destino antes de la clonación.
+   >Los programas se pueden clonar en [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [carpetas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Asegúrese de compartir todos los recursos dependientes subyacentes (correos electrónicos, fragmentos, plantillas de página de aterrizaje, etc.) con el espacio de trabajo de destino antes de la clonación.
 
    ![](assets/cloneto.png)
 
