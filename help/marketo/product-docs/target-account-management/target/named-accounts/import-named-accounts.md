@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12615800
-description: Importar cuentas con nombre - Marketo Docs - Documentación del producto
+description: Importar cuentas con nombre - Documentos de Marketo - Documentación del producto
 title: Importar cuentas con nombre
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 3f40e567-9256-4efd-beea-4e818770759f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
-
 # Importar cuentas con nombre {#import-named-accounts}
 
 ¿Ya tiene un CSV lleno de posibles cuentas de destino? Importarlos directamente en TAM!
 
-1. Haga clic en la lista desplegable **New** y seleccione **Import Named Accounts**.
+1. Haga clic en el **Nuevo** y seleccione **Importar cuentas con nombre**.
 
    ![](assets/inaone.png)
 
@@ -25,9 +24,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >En el archivo, proporcione [tanta información](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) como sea posible. Solo se puede añadir información fotográfica; nada calcula Marketo (es decir, Canalización). Para crear cuentas con nombre basadas en cuentas CRM, simplemente exporte el nombre de cuenta y el ID de CRM desde su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta de CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta de CRM.
+   >En el archivo , proporcione [tanta información](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) como sea posible. Solo se puede añadir información fotográfica; nada calcula Marketo (es decir, canalización). Para crear cuentas con nombre basadas en cuentas CRM, simplemente exporte el nombre de cuenta y el ID de CRM desde su CRM a un archivo CSV, utilice la opción Nombre de cuenta y asigne el ID de CRM durante el proceso de importación. Para vincular correctamente una cuenta de CRM a una cuenta con nombre, debe proporcionar el nombre exacto de la cuenta de CRM.
 
-1. Elija entre dos modos de desduplicación: Nombre de cuenta o nombre de dominio. En este ejemplo elegiremos Cuenta. Haga clic en la lista desplegable **Modes** y seleccione **By Account Name**.
+1. Elija entre dos modos de desduplicación: Nombre de cuenta o nombre de dominio. En este ejemplo elegiremos Cuenta. Haga clic en el **Modos** y seleccione **Por nombre de cuenta**.
 
    ![](assets/inathree.png)
 
@@ -35,7 +34,7 @@ ht-degree: 0%
    >
    >Si elige **Por modo de dominio**, se deben incluir tanto los campos de cuenta con nombre como los de dominio.
 
-1. Para elegir a qué lista de cuentas se añade su cuenta con nombre, haga clic en la lista desplegable **Cuenta** y realice la selección.
+1. Para elegir a qué lista de cuentas se añade la cuenta con nombre, haga clic en el botón **Lista de cuentas** y realice la selección.
 
    ![](assets/inafour.png)
 
@@ -43,7 +42,7 @@ ht-degree: 0%
    >
    >También puede crear una nueva lista de cuentas simplemente escribiendo su nombre en el cuadro desplegable.
 
-1. Para enviar una notificación de la importación, haga clic en la lista desplegable **Send Alert To** y seleccione un usuario de Marketo. _no puede_ introducir manualmente una dirección de correo electrónico.
+1. Para enviar una notificación de la importación, haga clic en el botón **Enviar alerta a** y seleccione un usuario de Marketo. You _cannot_ introduzca manualmente una dirección de correo electrónico.
 
    ![](assets/inafive-2.png)
 
@@ -51,11 +50,11 @@ ht-degree: 0%
 
    ![](assets/inasix-2.png)
 
-1. Para asignar cada campo, haga doble clic en la lista desplegable **Marketo Field** y seleccione el campo apropiado. Haga clic en **Siguiente** cuando termine.
+1. Para asignar cada campo, haga doble clic en la variable **Campo Marketo** y seleccione el campo correspondiente. Haga clic en **Siguiente** cuando haya terminado.
 
    ![](assets/inaseven.png)
 
-   ¡Correcto!
+   Sin errores!
 
    ![](assets/inanine.png)
 
@@ -103,6 +102,6 @@ Escenarios en los que desduplica por nombre de dominio:
 
 >[!NOTE]
 >
->Cuando Marketo añade una cuenta con nombre, se actualiza una regla (entre bastidores) que nos permite identificar a las personas que deberían formar parte de la cuenta con nombre. Ejemplo: si actualiza &quot;IBM&quot; a &quot;IBM, EE.UU.&quot;, las personas con cualquiera de los nombres de la empresa se asociarán a la cuenta con nombre.
+>Cuando Marketo añade una cuenta con nombre, se actualiza una regla (entre bastidores) que nos permite identificar a las personas que deberían formar parte de la cuenta con nombre. Ejemplo: si actualiza &quot;IBM&quot; a &quot;IBM, EE.UU.&quot;, las personas con cualquiera de los nombres de empresa se asociarán a la cuenta con nombre.
 
 Si Marketo encuentra registros que vemos como duplicados, solo procesaremos el primero.
