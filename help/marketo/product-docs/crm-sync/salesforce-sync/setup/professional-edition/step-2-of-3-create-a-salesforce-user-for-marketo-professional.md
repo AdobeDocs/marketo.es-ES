@@ -3,15 +3,14 @@ unique-page-id: 3571797
 description: 'Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Professional): Marketo Docs: Documentación del producto'
 title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Professional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -27,7 +26,7 @@ En este artículo, personalizará los permisos de campo con un diseño de págin
 
 Salesforce Professional establece la accesibilidad a nivel de campo con los diseños de página, en contraposición a los perfiles de Salesforce Enterprise/Unlimited. Estos pasos permitirán al usuario de sincronización de Marketo actualizar los campos personalizados.
 
-1. Escriba **diseños de página** en la barra de búsqueda de navegación sin pulsar **Entrar** y haga clic en **Diseño de página** en **Posibles clientes**.
+1. Tipo **diseños de página** en la barra de búsqueda de navegación sin pulsar **Entrar** y haga clic en **Diseño de página** under **Posibles clientes**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -35,15 +34,15 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Haga clic y arrastre una nueva **Sección** al diseño de página.
+1. Haga clic y arrastre un nuevo **Sección** en el diseño de página.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Introduzca &quot;Marketo&quot; para **Section Name** y haga clic en **OK**.
+1. Escriba &quot;Marketo&quot; para **Nombre de sección** y haga clic en **OK**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Haga clic y arrastre el campo **Fecha de adquisición** a la sección **Marketo**.
+1. Haga clic y arrastre el campo **Fecha de adquisición** en el **Marketo** para obtener más información.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -51,19 +50,19 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    * Programa de adquisición
    * Id Del Programa De Adquisición
-   * Opción de exclusión de correo electrónico
-   * Ciudad vinculada
-   * Empresa vinculada
-   * País afectado
-   * Área metropolitana vinculada
-   * Código de área de teléfono insertado
-   * Código postal adjunto
-   * Región Estado Inferior
-   * Puntuación de posible cliente
-   * Referente original
+   * No participar en el correo electrónico
+   * Ciudad inferida
+   * Compañía inferida
+   * País inferido
+   * Área metropolitana inferida
+   * Código de área telefónico inferido
+   * Código postal inferido
+   * Región del estado inferida
+   * Puntaje del cliente potencial
+   * Remitente original
    * Motor de búsqueda original
    * Frase de búsqueda original
-   * Información del origen original
+   * Información de origen original
    * Tipo de origen original
 
    >[!NOTE]
@@ -74,11 +73,11 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
    >
    >Cree dos columnas para los campos arrastrándolas hasta el lado derecho de la página. Puede mover campos de un lado a otro para equilibrar la longitud de las columnas.
 
-1. Haga clic en **Save** cuando termine de agregar campos.
+1. Haga clic en **Guardar** cuando termine de agregar campos.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repita todos los pasos anteriores para el **Diseño de página de contacto** de Salesforce.
+1. Repita todos los pasos anteriores para Salesforce **Diseño de página de contacto**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
@@ -88,7 +87,7 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    >[!NOTE]
    >
-   >Asegúrese de que el campo **Evento de todo el día** se ha agregado al **Diseño de página de evento**.
+   >Asegúrese de que la variable **Evento de todo el día** se ha agregado al campo **Diseño de página de evento**.
 
 ## Crear usuario de sincronización {#create-sync-user}
 
@@ -96,9 +95,9 @@ Marketo requiere credenciales para acceder a Salesforce. Esto se puede hacer mej
 
 >[!NOTE]
 >
->Si su organización no tiene licencias adicionales de Salesforce, puede utilizar un **usuario de marketing** existente con el perfil **Administrador del sistema**.
+>Si su organización no tiene licencias adicionales de Salesforce, puede usar una **Usuario de marketing** con la variable **Administrador del sistema** perfil.
 
-1. Introduzca &quot;usuarios&quot; en la barra de búsqueda de navegación y haga clic en **Usuarios** en **Administrar usuarios**.
+1. Introduzca &quot;usuarios&quot; en la barra de búsqueda de navegación y haga clic en **Usuarios** under **Administrar usuarios**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
@@ -106,7 +105,7 @@ Marketo requiere credenciales para acceder a Salesforce. Esto se puede hacer mej
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Rellene los campos obligatorios, seleccione la **Licencia de usuario: Salesforce**, establezca el **Perfil: Administrador del sistema**, marque **Usuario de marketing** y haga clic en **Guardar**.
+1. Rellene los campos obligatorios, seleccione la opción **Licencia de usuario: Salesforce**, establezca la variable **Perfil: Administrador del sistema**, compruebe **Usuario de marketing** y haga clic en **Guardar**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
