@@ -1,19 +1,18 @@
 ---
 unique-page-id: 1147354
-description: Hacer que un mensaje de correo electrónico funcione - Documentos de marketing - Documentación del producto
-title: Hacer que el correo electrónico funcione
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Hacer que un correo electrónico sea operativo - Documentos de Marketo - Documentación del producto
+title: Hacer que el correo electrónico sea operativo
+exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
+# Hacer que el correo electrónico sea operativo {#make-an-email-operational}
 
-# Hacer operativo un mensaje de correo electrónico {#make-an-email-operational}
-
-Los mensajes de correo electrónico operativos omiten los estados No suscrito y Suspendido de marketing. Ellos envían lo que sea.
+Los mensajes de correo electrónico operativos ignoran los estados de baja de suscripción y de suspendido de marketing. Ellos envían lo que sea.
 
 >[!NOTE]
 >
@@ -25,9 +24,9 @@ Los mensajes de correo electrónico operativos omiten los estados No suscrito y 
 
 >[!NOTE]
 >
->Solo debe utilizar los correos electrónicos operativos para los correos electrónicos críticos y los respondedores automáticos. No están pensados para correos electrónicos de marketing.
+>Solo debe utilizar correos electrónicos operativos para correos electrónicos críticos y respuestas automáticas. No están pensados para correos electrónicos de marketing.
 
-1. Una vez que se abra el editor, haga clic en **Configuración de correo electrónico**.
+1. Una vez abierto el editor, haga clic en **Configuración de correo electrónico**.
 
    ![](assets/two-1.png)
 
@@ -39,4 +38,4 @@ Los mensajes de correo electrónico operativos omiten los estados No suscrito y 
 >
 >Los correos electrónicos operativos no estaban diseñados para funcionar con programas de participación. Por lo tanto, un programa de participación ignorará el estado operativo de un correo electrónico. Por favor, tenga eso en cuenta cuando trabaje con ellos.
 
-No olvide aprobar este correo electrónico para que los cambios surtan efecto. Obtenga información sobre cómo [aprobar un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+No olvide aprobar este correo electrónico para que los cambios surtan efecto. Obtenga información sobre cómo  [aprobar un correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
