@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352637
-description: Añadir la cancelación automática de suscripciones a una plantilla - Documentos de marketing - Documentación del producto
+description: 'Agregar la cancelación automática de suscripciones a una plantilla: Documentos de Marketo: Documentación del producto'
 title: Añadir la cancelación automática de suscripciones a una plantilla
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Añadir la cancelación automática de suscripciones a una plantilla {#add-auto-unsubscribes-to-a-template}
 
-# Añadir la anulación automática de suscripciones a una plantilla {#add-auto-unsubscribes-to-a-template}
+1. Seleccione la plantilla y haga clic en **Editar** en la sección Cancelar suscripción .
 
-1. Seleccione la plantilla y haga clic en **Editar** en la sección Cancelar suscripción.
-
-1. Seleccione si desea anexar la anulación de suscripción automática, la cancelación de la suscripción de bloque automático o ambos.
+1. Seleccione si desea adjuntar la cancelación automática de la suscripción, el bloqueo automático de la cancelación de la suscripción o ambas opciones.
 
    Una vez guardadas estas selecciones, se anexarán automáticamente debajo de la firma cada vez que envíe correos electrónicos con esta plantilla.
 
 >[!NOTE]
 >
->También puede ajustar cómo aparecen estos mensajes de cancelación de suscripción desde la ficha **Zona horaria y cancelar suscripciones** en **Configuración**.
+>También puede ajustar el aspecto que tienen estos mensajes de cancelación de suscripción del **Zona horaria y cancelación de suscripciones** en **Configuración**.
