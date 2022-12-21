@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359829
-description: Habilitar el relleno de formularios sociales en un formulario (Social) - Documentos de marketing - Documentación del producto
-title: Habilitar el relleno de formulario social en un formulario (Social)
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Activar el rellenado de formularios sociales en un formulario (Social): documentos de Marketo: documentación del producto'
+title: Activar el rellenado de formularios sociales en un formulario (Social)
+exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# Activar el rellenado de formularios sociales en un formulario (Social) {#enable-social-form-fill-on-a-form-social}
 
-# Habilitar relleno de formulario social en un formulario (Social) {#enable-social-form-fill-on-a-form-social}
-
-Permita que los visitantes rellenen el formulario con sus redes sociales. Se obtienen automáticamente datos adicionales y se obtienen experiencias más rápidas. Así es como.
+Permita que los visitantes rellenen el formulario utilizando su red social. Los datos adicionales se obtienen automáticamente y se obtienen una experiencia más rápida. Así es como.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -37,7 +36,7 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Se obt
 
    >[!TIP]
    >
-   >Observe qué [Data Marketing capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
+   >Eche un vistazo a qué [datos que Marketo capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
 
 1. Haga clic en **Finalizar**.
 
@@ -51,4 +50,4 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Se obt
 
    ![](assets/image2016-4-28-16-3a45-3a58.png)
 
-Bastante impresionante, ¿eh?
+Muy impresionante, ¿eh?
