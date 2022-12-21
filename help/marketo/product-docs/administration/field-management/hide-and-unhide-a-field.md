@@ -3,7 +3,6 @@ unique-page-id: 2360333
 description: 'Ocultar y mostrar un campo: Documentos de Marketo: Documentación del producto'
 title: Ocultar y mostrar un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
@@ -21,11 +20,11 @@ Si ya no ha utilizado para un campo en Marketo, puede ocultarlo en la interfaz d
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya a **Admin** y haga clic en **Administración de campos**.
+1. Vaya a **Administrador** y haga clic en **Gestión de las actividades sobre el terreno**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Busque el campo, selecciónelo y, a continuación, en **Acciones de campo** haga clic en **Ocultar campo**.
+1. Busque el campo , selecciónelo y, a continuación, debajo de **Acciones de campo** click **Ocultar campo**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -43,7 +42,7 @@ Si ya no ha utilizado para un campo en Marketo, puede ocultarlo en la interfaz d
 
 ## Mostrar un campo {#unhide-a-field}
 
-1. Vaya a **Admin** y haga clic en **Administración de campos**.
+1. Vaya a **Administrador** y haga clic en **Gestión de las actividades sobre el terreno**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
