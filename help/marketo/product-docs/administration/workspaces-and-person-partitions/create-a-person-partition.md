@@ -3,7 +3,6 @@ unique-page-id: 2360315
 description: 'Creación de una partición de persona: Marketo Docs: documentación del producto'
 title: Crear una partición de persona
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
@@ -25,17 +24,17 @@ Cree una nueva partición de persona siguiendo estos pasos.
 
 >[!CAUTION]
 >
->Las particiones de persona pueden ser complejas. Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener ayuda sobre la configuración.
+>Las particiones de persona pueden ser complejas. Póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener ayuda sobre la configuración.
 
-1. En Administración, seleccione **Workspaces &amp; Partitions**.
+1. En Administración, seleccione **Espacios de trabajo y particiones**.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
-1. Vaya a la pestaña **Person Partitions** y haga clic en **New Person Partition**.
+1. Vaya a la **Particiones de personas** y haga clic en **Nueva partición de persona**.
 
    ![](assets/two-2.png)
 
-1. Asigne un nombre a la partición, elija **Workspace(s)** donde aparecerá y haga clic en **Crear**.
+1. Asigne un nombre a la partición, elija la opción **Workspace(s)** donde aparecerá y haga clic en **Crear**.
 
    ![](assets/three-2.png)
 
