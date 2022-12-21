@@ -3,7 +3,6 @@ unique-page-id: 10093348
 description: 'Información sobre las tarjetas de campaña inteligentes: Documentos de Marketo: Documentación del producto'
 title: Información sobre las tarjetas de campaña inteligentes
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -35,7 +34,7 @@ En futuras campañas inteligentes que estén programadas pero que aún no se hay
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Pulse **Flujo**.
+1. Toque **Flujo**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -67,11 +66,11 @@ Es una buena idea echar un vistazo a un correo electrónico antes de que salga. 
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Pulse [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Vista previa del correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
+1. Toque [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Vista previa del correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Confirmación de una ejecución de campaña inteligente {#confirming-a-smart-campaign-run}
+## Confirmar una ejecución de campaña inteligente {#confirming-a-smart-campaign-run}
 
 Las tarjetas de las campañas inteligentes sin confirmar aparecen en gris hasta que las confirme. Luego, se vuelven naranjas.
 
@@ -83,7 +82,7 @@ Las tarjetas de las campañas inteligentes sin confirmar aparecen en gris hasta 
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toque **Confirm** para finalizar el trabajo o **Never Mind** si tiene pensamientos secundarios.
+1. Toque **Confirmar** para finalizar el trabajo, o **No importa** si tiene pensamientos secundarios.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +102,7 @@ Puede cancelar una ejecución de campaña inteligente programada y confirmada.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toque **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **Never Mind** y la campaña inteligente se ejecutará según lo programado.
+1. Toque **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **No importa**, y la campaña inteligente se ejecutará según lo programado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -137,7 +136,7 @@ Al igual que con otras tarjetas de Momentos de Marketo, puede tocar los tres pun
 
 >[!NOTE]
 >
->También puede pulsar el icono **Compartir** en una tarjeta de campaña inteligente para compartirla, y los iconos **Listo** y **Favorito** en la tarjeta de detalles.
+>También puede pulsar el botón **Compartir** en una tarjeta de Smart Campaign para compartir, y la variable **Listo** y **Favorito** en la tarjeta de detalles.
 
 ## Eliminar rápidamente una tarjeta de campaña inteligente {#quickly-delete-a-smart-campaign-card}
 
