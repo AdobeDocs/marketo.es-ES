@@ -1,41 +1,40 @@
 ---
 unique-page-id: 2359740
-description: Redirigir una Página de aterrizaje de marketing a otra página - Documentos de marketing - Documentación del producto
-title: Redirigir una Página de aterrizaje de marketing a otra página
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Redireccionar una página de aterrizaje de Marketo a otra página: Documentos de Marketo: Documentación del producto'
+title: Redireccionar una página de aterrizaje de Marketo a otra página
+exl-id: fe744546-d075-4686-bf42-543bb3624dbb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Redireccionar una página de aterrizaje de Marketo a otra página {#redirect-a-marketo-landing-page-to-another-page}
 
-# Redirigir una Página de aterrizaje de marketing a otra página {#redirect-a-marketo-landing-page-to-another-page}
-
-Si alguna vez actualiza la dirección URL de una página y desea que la dirección URL antigua siga funcionando, pruebe con un redireccionamiento. Configurarlo es fácil.
+Si alguna vez actualiza la dirección URL de una página y desea que la dirección URL antigua siga funcionando, pruebe con un redireccionamiento. La configuración es fácil.
 
 >[!NOTE]
 >
->**Se requieren permisos de administración**
+>**Se requieren permisos de administrador**
 
-1. En **Administración**, haga clic en **Páginas de aterrizaje**.
+1. En **Administrador**, haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. En la ficha **Reglas**, haga clic en **Nueva** y, a continuación, en **Nueva regla de redirección**.
+1. En el **Reglas** , haga clic en **Nuevo** y luego **Nueva regla de redirección**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la primera lista desplegable **URL original** y seleccione el archivo de marketing [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Haga clic en la primera **URL original** y seleccione su Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Recuerde que sólo puede redireccionar direcciones URL que inicio con su Marketing [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Recuerde, solo puede redirigir las direcciones URL que empiecen por Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Elija la página de aterrizaje que desea redirigir en el segundo campo **URL original**.
+1. Elija la página de aterrizaje que desee redirigir en el segundo **URL original** campo .
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,7 +42,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
    >
    >Puede introducir cualquier ruta de URL, incluso si la página o el directorio no existen.
 
-1. Haga clic en la lista desplegable **Redirigir URL** y seleccione la página a la que desee redirigir los visitantes.
+1. Haga clic en el **Dirección URL de redireccionamiento** y seleccione la página a la que desee redirigir a los visitantes.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
@@ -53,7 +52,7 @@ Si alguna vez actualiza la dirección URL de una página y desea que la direcci�
 
    >[!TIP]
    >
-   >Para redireccionar a una página Web fuera de Marketing, haga clic en **Usar Página de aterrizaje que no sea de Marketing**.
+   >Para redirigir a una página web fuera de Marketo, haga clic en **Usar página de aterrizaje que no sea de Marketo**.
 
    >[!MORELIKETHIS]
    >
