@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7511980
-description: Guardar un informe - Documentos de marketing - Documentación del producto
+description: 'Guardar un informe: Documentos de Marketo: Documentación del producto'
 title: Guardar un informe
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
 # Guardar un informe {#save-a-report}
 
-En ocasiones, es posible que tenga que volver a guardar un informe predeterminado en vista más tarde. Así es como se puede hacer eso:
+En ocasiones, es posible que deba guardar un informe predeterminado para verlo de nuevo más adelante. Así puede hacerlo:
 
-1. Vaya al área **Analytics**.
+1. Vaya a la **Analytics** .
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -27,11 +26,11 @@ En ocasiones, es posible que tenga que volver a guardar un informe predeterminad
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Guardar** en una ubicación y seleccionar una  **carpeta**.
+1. **Guardar en** una ubicación y seleccione una **Carpeta**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Asigne un** nombre al informe y haga clic en  **Guardar**.
+1. **Nombre** el informe y haga clic en **Guardar**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
