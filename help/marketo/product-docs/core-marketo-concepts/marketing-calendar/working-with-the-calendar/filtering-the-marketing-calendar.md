@@ -3,7 +3,6 @@ unique-page-id: 1147294
 description: Filtrado del calendario de marketing - Marketo Docs - Documentación del producto
 title: Filtrado del calendario de marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
@@ -19,11 +18,11 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Haga clic en la lista desplegable **Tipo de entrada**.
+1. Haga clic en el **Tipo de entrada** lista desplegable.
 
    >[!NOTE]
    >
-   >Los tipos de entrada predeterminados serán **Email** **Programs** y **Smart** **Campaigns** **con** **Email**.
+   >Los tipos de entrada predeterminados serán **Correo electrónico** **Programas** y **Smart** **Campañas** **con** **Correo electrónico**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +32,7 @@ Utilice tipos de entrada, etiquetas de programa o espacios de trabajo para filtr
 
    >[!TIP]
    >
-   >Para obtener descripciones de los tipos de entrada estándar, consulte [Tipos de entrada de vista de programación](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Para obtener descripciones de los tipos de entrada estándar, consulte [Programación del programa Vista Tipos de entradas](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Seleccione las etiquetas de programa que le interesen.
 
