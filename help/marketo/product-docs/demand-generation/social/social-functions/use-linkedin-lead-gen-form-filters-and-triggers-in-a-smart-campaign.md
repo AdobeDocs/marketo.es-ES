@@ -1,28 +1,27 @@
 ---
 unique-page-id: 12976776
-description: Usar Filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una Campaña inteligente - Documentos de marketing - Documentación del producto
-title: Usar Filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una Campaña inteligente
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Utilizar los filtros y Déclencheur de formulario de la generación de posibles clientes de LinkedIn en una campaña inteligente: Marketo Docs, documentación del producto'
+title: Uso de los filtros y Déclencheur de formulario de la Generación de posibles clientes de LinkedIn en una campaña inteligente
+exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
-# Usar Filtros y Déclencheur de formulario de generación de posibles clientes de LinkedIn en una Campaña inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# Uso de los filtros y Déclencheur de formulario de la Generación de posibles clientes de LinkedIn en una campaña inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 Cuando habilite LinkedIn Lead Gen Forms, puede utilizarlos como filtros y déclencheur en sus campañas inteligentes.
 
 >[!NOTE]
 >
->Cuando las personas envían su información en un formulario de generación de posibles clientes de LinkedIn, dicha información se envía inmediatamente a MarketingTo, lo que hace que el formulario esté disponible en la lista desplegable Nombre del formulario de generación de posibles clientes. Los nombres de formulario no estarán visibles hasta que al menos una persona haya enviado el formulario.
+>Cuando las personas envían su información en un formulario de Generación de posibles clientes de LinkedIn, esta información se envía inmediatamente a Marketo, de modo que el formulario esté disponible en la lista desplegable Nombre del formulario de Generación de posibles clientes . Los nombres de los formularios no serán visibles hasta que al menos una persona haya enviado el formulario.
 
-1. Utilice el déclencheur **Rellena el formulario de generación de posibles clientes de LinkedIn** para tomar medidas inmediatamente o el filtro **Formulario de generación de posibles clientes de LinkedIn** para campañas por lotes programadas o filtrado de listas inteligentes estándar.
+1. Utilice la variable **Rellena El Formulario De Generación De Posibles Clientes De LinkedIn** déclencheur para tomar medidas inmediatamente o **Formulario de Generación de posibles clientes de LinkedIn rellenado** para campañas por lotes programadas o filtrado de listas inteligentes estándar.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 
-1. Añada restricciones para limitar aún más los resultados.
+1. Agregue restricciones para restringir aún más los resultados.
 
    ![](assets/lead-gen-constraints.png)
