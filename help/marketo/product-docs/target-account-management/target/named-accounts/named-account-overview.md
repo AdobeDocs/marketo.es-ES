@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11378809
-description: 'Descripción general de la cuenta con nombre: Marketo Docs: Documentación del producto'
+description: Descripción general de la cuenta con nombre - Documentos de Marketo - Documentación del producto
 title: Información general de la cuenta con nombre
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
-
 
 # Información general de la cuenta con nombre {#named-account-overview}
 
@@ -32,19 +31,19 @@ Las cuentas con nombre albergan a las personas de las empresas a las que se diri
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>ID</strong></td> 
+   <td><strong>Identificación</strong></td> 
    <td>Número de identificación de la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td><strong>Cuenta con nombre</strong></td> 
+   <td><strong>Cuenta nombrada</strong></td> 
    <td>Nombre de la cuenta</td> 
   </tr> 
   <tr> 
-   <td><strong>People</strong></td> 
+   <td><strong>Personas</strong></td> 
    <td>Cantidad de personas atribuidas a la cuenta con nombre</td> 
   </tr> 
   <tr> 
-   <td><strong>Canalización</strong></td> 
+   <td><strong>En preparación</strong></td> 
    <td>Suma de la cantidad de oportunidades en su sistema CRM que no están cerradas ni cerradas perdidas</td> 
   </tr> 
   <tr> 
@@ -61,7 +60,7 @@ Las cuentas con nombre albergan a las personas de las empresas a las que se diri
   </tr> 
   <tr> 
    <td><strong>Código SIC</strong></td> 
-   <td><span><strong></strong>Clasificación  <strong></strong>industrial estándar:  <strong></strong>código de cuatro dígitos para clasificar industrias<br></span></td> 
+   <td><span><strong>S</strong>Standard <strong>I</strong>ndustrial <strong>C</strong>Clasificación: código de cuatro dígitos para clasificar industrias<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Ingresos</strong></td> 
@@ -96,7 +95,7 @@ Las cuentas con nombre albergan a las personas de las empresas a las que se diri
    <td colspan="1">Propietario de la cuenta especificada</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Miembro del equipo de la cuenta</strong></td> 
+   <td colspan="1"><strong>Miembro del equipo de cuenta</strong></td> 
    <td colspan="1">Miembro del grupo de partes interesadas que trabajan juntas en cuentas específicas</td> 
   </tr> 
  </tbody> 
