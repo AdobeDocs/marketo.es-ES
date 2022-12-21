@@ -1,6 +1,6 @@
 ---
 description: 'Administrar categorías de plantilla: documentos de Marketo: documentación del producto'
-title: Manage Template Categories
+title: Administrar categorías de plantilla
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 ## Cambiar el nombre de una categoría de plantilla {#rename-a-template-category}
 
-1. Click the **Templates** tab.
+1. Haga clic en el **Plantillas** pestaña .
 
    ![](assets/manage-template-categories-4.png)
 
-1. Hover over the template you want to rename and click the dota (three dots). Select **Cambiar nombre**.
+1. Pase el ratón sobre la plantilla a la que quiera cambiar el nombre y haga clic en los datos (tres puntos). Select **Cambiar nombre**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-6.png)
 
-## Delete a Template Category {#delete-a-template-category}
+## Eliminar una categoría de plantilla {#delete-a-template-category}
 
 1. Haga clic en el **Plantillas** pestaña .
 
