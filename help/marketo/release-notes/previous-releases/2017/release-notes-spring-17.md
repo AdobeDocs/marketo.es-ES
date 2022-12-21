@@ -18,9 +18,9 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 ## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Los ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) formularios de generación de posibles clientes de linkedIn son una forma más directa de que una empresa ejecute campañas de generación de posibles clientes en LinkedIn. Las personas pueden rellenar formularios para expresar interés por un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketo, donde se pueden producir procesos de seguimiento automatizados y actividades de enrutamiento de posibles clientes.
+[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) son una forma más directa de que una empresa ejecute campañas de generación de posibles clientes en LinkedIn. Las personas pueden rellenar formularios para expresar interés por un producto o servicio, lo que permite a la empresa capturar los detalles de la persona y sincronizarlos con Marketo, donde se pueden producir procesos de seguimiento automatizados y actividades de enrutamiento de posibles clientes.
 
-La integración de Marketo con LinkedIn Lead Gen Forms captura automáticamente la información que proporciona un posible cliente en el formulario de Generación de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo déclencheur **Complete LinkedIn Lead Gen Form** y el filtro.
+La integración de Marketo con LinkedIn Lead Gen Forms captura automáticamente la información que proporciona un posible cliente en el formulario de Generación de posibles clientes. Las acciones de seguimiento y las notificaciones se pueden automatizar mediante el nuevo **Rellena El Formulario De Generación De Posibles Clientes De LinkedIn** déclencheur y filtro.
 
 ![](assets/release-notes-image.png)
 
