@@ -2,16 +2,15 @@
 unique-page-id: 14746177
 description: 'Suscripción de una cancelación de suscripción: Documentos de Marketo: Documentación del producto'
 title: Volver a suscribirse
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# Volver a suscribir una cancelación de suscripción {#resubscribing-an-unsubscribe}
+# Volver a suscribirse {#resubscribing-an-unsubscribe}
 
 A veces, las personas desean volver a recibir correos electrónicos. A continuación se explica cómo volver a enviar las cancelaciones de suscripción.
 
@@ -37,7 +36,7 @@ A veces, las personas desean volver a recibir correos electrónicos. A continuac
 
    ![](assets/three.png)
 
-1. Seleccione el motivo por el que la persona está siendo elegida de nuevo para recibir correos electrónicos y luego haga clic en **Eliminar cancelación de suscripción**.
+1. Seleccione el motivo por el que la persona está siendo elegida de nuevo para recibir correos electrónicos y haga clic en **Eliminar cancelación de suscripción**.
 
    ![](assets/four.png)
 
