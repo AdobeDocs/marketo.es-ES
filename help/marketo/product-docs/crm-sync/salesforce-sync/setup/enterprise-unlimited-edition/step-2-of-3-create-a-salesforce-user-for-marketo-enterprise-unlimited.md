@@ -3,11 +3,10 @@ unique-page-id: 2360364
 description: 'Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Enterprise/Unlimited): Documentos de Marketo: Documentación del producto'
 title: 'Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -29,15 +28,15 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Escriba &quot;perfiles&quot; en la barra de búsqueda de navegación y haga clic en el enlace **Perfiles**.
+1. Escriba &quot;perfiles&quot; en la barra de búsqueda de navegación y haga clic en el **Perfiles** vínculo.
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. Haga clic en **New**.
+1. Haga clic en **Nuevo**.
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Seleccione **Usuario estándar**, asigne al perfil el nombre &quot;Marketo-Salesforce Sync&quot; y haga clic en **Guardar**.
+1. Select **Usuario estándar**, asigne al perfil el nombre &quot;Marketo-Salesforce Sync&quot; y haga clic en **Guardar**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -47,10 +46,10 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. En la sección **Permisos administrativos**, asegúrese de que las siguientes casillas estén marcadas:
+1. En el **Permisos administrativos** , asegúrese de que las siguientes casillas estén marcadas:
 
    * API habilitada
-   * Editar plantillas HTML
+   * Editar plantillas de HTML
    * Administrar documentos públicos
    * Administrar plantillas públicas
 
@@ -58,7 +57,7 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
 
    >[!TIP]
    >
-   >Asegúrese de marcar la casilla **Password Never Expires**.
+   >Asegúrese de comprobar la variable **La contraseña nunca caduca** en la ventana
 
 1. En la sección Permisos generales de usuario , asegúrese de que las siguientes casillas estén marcadas:
 
@@ -73,7 +72,7 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
    * Cuentas
    * Campañas
    * Contactos
-   * Posibles clientes
+   * Leads
    * Oportunidades
 
    >[!NOTE]
@@ -94,9 +93,9 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
    >
    >Este paso evitará que los campos que no necesite se muestren en Marketo, lo que reducirá el desorden y acelerará la sincronización.
 
-1. En la página de detalles del perfil, vaya a la sección **Seguridad de nivel de campo**. Haga clic en **Ver** para editar la accesibilidad para los objetos:
+1. En la página de detalles del perfil, vaya a **Seguridad a nivel de campo** para obtener más información. Haga clic en **Ver** para editar la accesibilidad de los objetos:
 
-   * Posible cliente
+   * Cliente potencial
    * Contacto
    * Cuenta
    * Oportunidad
@@ -111,7 +110,7 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Busque los campos innecesarios, asegúrese de que **Read Access** y **Edit Access** no estén marcados. Haga clic en **Guardar** cuando haya terminado.
+1. Busque los campos innecesarios, asegúrese de que **Acceso de lectura** y **Editar acceso** están desmarcadas. Haga clic en **Guardar** cuando haya terminado.
 
    >[!NOTE]
    >
@@ -119,7 +118,7 @@ En este artículo, debe configurar los permisos de usuario en el perfil de Sales
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Una vez que haya terminado de deshabilitar todos los campos innecesarios, debe comprobar **Acceso de lectura y Editar acceso** para los siguientes campos de objeto. Haga clic en **Guardar** cuando haya terminado.
+1. Después de finalizar la desactivación de todos los campos innecesarios, debe marcar **Acceso de lectura y edición** para los siguientes campos de objeto. Haga clic en **Guardar** cuando haya terminado.
 
 <table> 
  <tbody> 
