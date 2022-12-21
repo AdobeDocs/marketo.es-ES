@@ -3,11 +3,10 @@ unique-page-id: 1147082
 description: Eliminar persona - Documentos de Marketo - Documentación del producto
 title: Eliminar persona
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 A veces las personas erróneas entran en la base de datos. El paso Eliminar flujo de persona puede eliminarlos.
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Utilice el paso de flujo en una campaña inteligente.
 
@@ -37,4 +36,4 @@ Puede eliminar de Marketo y no de su CRM, de este modo:
 
 >[!NOTE]
 >
->Eliminar a la persona de su CRM **solo funciona con Salesforce**. Si elimina una persona de Marketo y decide mantenerla en Salesforce, se recrearán en Marketo si el registro de Salesforce se actualiza alguna vez.
+>Eliminación de la persona de su CRM **solo funciona con Salesforce**. Si elimina una persona de Marketo y decide mantenerla en Salesforce, se recrearán en Marketo si el registro de Salesforce se actualiza alguna vez.
