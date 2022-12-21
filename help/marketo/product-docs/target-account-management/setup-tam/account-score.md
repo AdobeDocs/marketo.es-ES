@@ -2,16 +2,15 @@
 unique-page-id: 11380774
 description: Puntuación de cuenta - Documentos de Marketo - Documentación del producto
 title: Puntuación de la cuenta
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
-
-# Puntuación de cuenta {#account-score}
+# Puntuación de la cuenta {#account-score}
 
 La Puntuación de cuentas es una parte vital de la Administración de cuentas de Target. Le ayuda a determinar el nivel de participación de sus cuentas.
 
@@ -40,7 +39,7 @@ En el complejo mundo de los procesos de compra B2B, es raro que una sola persona
  </tbody>
 </table>
 
-## Configuración de la puntuación de cuenta {#how-to-configure-account-score}
+## Cómo configurar la puntuación de cuenta {#how-to-configure-account-score}
 
 >[!NOTE]
 >
@@ -57,7 +56,7 @@ En el complejo mundo de los procesos de compra B2B, es raro que una sola persona
 
 Una vez que haya configurado la puntuación de posibles clientes, siga los pasos a continuación.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one-1.png)
 
@@ -71,16 +70,16 @@ Una vez que haya configurado la puntuación de posibles clientes, siga los pasos
 
    >[!NOTE]
    >
-   >Puede elegir hasta **cinco** campos para calcular la puntuación de cuenta.
+   >Puede elegir hasta **Five** para calcular la puntuación de cuenta.
 
-1. Introduzca el nombre de la puntuación de cuenta, haga clic en la lista desplegable **Seleccionar puntuación de persona** y seleccione la puntuación correspondiente.
+1. Introduzca el nombre de la puntuación de cuenta y haga clic en el botón **Seleccionar puntuación de persona** y seleccione la puntuación correspondiente.
 
    ![](assets/four.png)
 
-1. Haga clic en **+Add** para agregar más puntuaciones.
+1. Haga clic en **+Añadir** para agregar más puntuaciones.
 
    ![](assets/five.png)
 
-1. Añada todas las puntuaciones deseadas. Haga clic en **Guardar** cuando termine.
+1. Añada todas las puntuaciones deseadas. Haga clic en **Guardar** cuando haya terminado.
 
    ![](assets/six.png)
