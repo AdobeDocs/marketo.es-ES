@@ -4,8 +4,8 @@ title: Información general de búsqueda avanzada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '418'
+ht-degree: 3%
 
 ---
 
@@ -108,7 +108,7 @@ Filtra por todos los correos electrónicos pendientes.
   <td>Correos electrónicos que están actualmente en estado de borrador. Los correos electrónicos requieren una línea de asunto y un destinatario para guardarse como borrador.</td>
  </tr>
  <tr>
-  <td><strong>en curso</strong></td>
+  <td><strong>En progreso</strong></td>
   <td>Correos electrónicos que están en proceso de envío. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos.</td>
  </tr>
 </table>
