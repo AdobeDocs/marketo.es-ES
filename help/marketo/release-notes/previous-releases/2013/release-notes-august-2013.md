@@ -24,13 +24,13 @@ Ahora puede enviar [solo la versión de texto](/help/marketo/product-docs/email-
 
 ### Ignorar contenido agotado {#ignore-exhausted-content}
 
-Configure el programa de participación para [ignorar el agotamiento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), incluida la supresión de cualquier notificación.
+Configure el programa de participación en [ignorar agotamiento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), incluida la supresión de cualquier notificación.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Prueba de flujo de participación {#engagement-stream-testing}
 
-Utilice la [nueva función de prueba](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) para simular una emisión y probar el contenido recién agregado a una emisión en directo.
+Utilice la variable [nueva función de prueba](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) para simular una emisión y probar el contenido añadido recientemente a una emisión en directo.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -42,13 +42,13 @@ Al enviar una prueba de correo electrónico, puede seleccionar el nombre de un p
 
 ## Tokens del sistema &quot;Ver correo electrónico como página web&quot; y &quot;Cancelar suscripción&quot; {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Utilice estos [nuevos tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) para proporcionar un control bueno de su ubicación en los correos electrónicos.
+Utilice estos [tokens nuevos](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) para proporcionar un bueno control de su ubicación en los correos electrónicos.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Limpieza automática de campañas de Déclencheur {#automatic-trigger-campaign-cleanup}
 
-Marketo ahora le notificará periódicamente y [desactivará automáticamente las campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que no se hayan ejecutado en los últimos seis meses.
+Marketo ahora le notificará periódicamente y [desactivar automáticamente las campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que no se han ejecutado en los últimos seis meses.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
