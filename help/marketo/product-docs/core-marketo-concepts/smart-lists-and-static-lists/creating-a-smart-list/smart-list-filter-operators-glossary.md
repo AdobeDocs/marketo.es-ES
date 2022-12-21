@@ -3,11 +3,10 @@ unique-page-id: 557312
 description: Glosario de operadores de filtros de lista inteligente - Documentos de Marketo - Documentación del producto
 title: Glosario de operadores de filtros de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -26,37 +25,37 @@ Al elegir un operador, el lado derecho cambiará dinámicamente.
 | Operador | Lado derecho | Descripción |
 |---|---|---|
 | es | Fecha única | Coincidencia de fecha exacta |
-| no es | Fecha única | Cualquier fecha EXCEPTO la especificada |
+| no es/no está | Fecha única | Cualquier fecha EXCEPTO la especificada |
 | entre | Dos campos de fecha | Cualquier fecha que incluya y entre dos fechas especificadas |
-| en el pasado | Entrada de idioma natural* | Consulte el diagrama siguiente |
-| en versiones anteriores | Entrada de idioma natural* | Consulte el diagrama siguiente |
-| en el futuro | Entrada de idioma natural* | Consulte el diagrama siguiente |
-| en el futuro después de | Entrada de idioma natural* | Consulte el diagrama siguiente |
-| en tiempo de espera | Ajustes preestablecidos (último trimestre, ayer, etc.) | Definido en la lista de selección |
-| after | Fecha única | Todos los registros posteriores a la fecha especificada |
-| before | Fecha única | Todos los registros anteriores al especificado |
-| en o después | Fecha única | Igual que &quot;después&quot; pero inclusivo |
-| en o antes | Fecha única | Igual que &quot;before&quot; pero inclusivo |
-| está vacío | Ninguna | Todos los registros sin fecha |
-| no está vacío | Ninguna | Todos los registros con cualquier fecha |
+| en el pasado | Entrada de idioma natural&#42; | Consulte el diagrama siguiente |
+| en el pasado, antes de | Entrada de idioma natural&#42; | Consulte el diagrama siguiente |
+| en el futuro | Entrada de idioma natural&#42; | Consulte el diagrama siguiente |
+| en el futuro, después de | Entrada de idioma natural&#42; | Consulte el diagrama siguiente |
+| en el marco temporal | Ajustes preestablecidos (último trimestre, ayer, etc.) | Definido en la lista de selección |
+| después | Fecha única | Todos los registros posteriores a la fecha especificada |
+| antes | Fecha única | Todos los registros anteriores al especificado |
+| el o después | Fecha única | Igual que &quot;después&quot; pero inclusivo |
+| el o antes del | Fecha única | Igual que &quot;before&quot; pero inclusivo |
+| está vacío | Ninguno | Todos los registros sin fecha |
+| no está vacío | Ninguno | Todos los registros con cualquier fecha |
 
-* La entrada de lenguaje natural es genial. Estos son algunos de los patrones que puede introducir:
+&#42; La entrada de lenguaje natural es genial. Estos son algunos de los patrones que puede introducir:
 
 * 1 hora
 * 82 días
 * 3 semanas
 * 14 meses
-* 1 año
+* 1 año
 
 Solo tiene que escribir el número y la unidad juntos y funcionará.
 
 >[!NOTE]
 >
->&quot;En el pasado&quot; **sí** incluye el día (hasta la hora, no después) que crea la lista inteligente.
+>&quot;En el pasado&quot; **does** incluya el día (hasta la hora, no después) y cree la lista inteligente.
 
 >[!CAUTION]
 >
->Cuando crea una lista inteligente con un filtro de campo de fecha (por ejemplo, Fecha de nacimiento, Fecha de creación de SFDC) y utiliza las restricciones **before** o **on or before** , la lista inteligente también incluye personas que no tienen valor en ese campo de fecha.
+>Cuando crea una lista inteligente con un filtro de campo de fecha (por ejemplo, Fecha de nacimiento, Fecha de creación de SFDC) y utiliza la variable **before** o **en o antes** restricciones, la lista inteligente también incluye personas que no tienen ningún valor en dicho campo de fecha.
 
 Utilice el diagrama siguiente para comprender la diferencia entre los operadores de fecha.
 
@@ -83,11 +82,11 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
 | Operador | Descripción |
 |---|---|
 | es | Coincidencia exacta (sin distinción de mayúsculas y minúsculas) |
-| no es | Cualquier coincidencia EXCEPTO exacta |
+| no es/no está | Cualquier coincidencia EXCEPTO exacta |
 | comienza con | Primeras letras de coincidencia de cadena |
 | no comienza con | Las primeras letras de la cadena NO coinciden |
-| contains | Cualquier letra junto en la cadena coincide (ejemplo: california, fortuna, por ahí) |
-| not contains | No hay letras juntas en la cadena que coincidan. (reverso de &quot;contiene&quot;) |
+| contiene | Cualquier letra junto en la cadena coincide (ejemplo: california, fortuna, por ahí) |
+| no contiene | No hay letras juntas en la cadena que coincidan. (reverso de &quot;contiene&quot;) |
 | está vacío | Registros que no tienen valor (NULL) |
 | no está vacío | Registros con cualquier valor |
 
@@ -112,7 +111,7 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
    <td colspan="1" rowspan="1">Coincidencia de número exacta ( = 0 devolverá ambos posibles clientes con 0 <em>y</em> NULL)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">no es</td> 
+   <td colspan="1" rowspan="1">no es/no está</td> 
    <td colspan="1" rowspan="1">Cualquier coincidencia EXCEPTO el número exacto</td> 
   </tr> 
   <tr> 
@@ -120,11 +119,11 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
    <td colspan="1" rowspan="1">Defina dos valores para encontrar a todos los que se encuentran entre medias (incluido)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">bueno que</td> 
+   <td colspan="1" rowspan="1">más que</td> 
    <td colspan="1" rowspan="1">Sobre el especificado</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">menor que</td> 
+   <td colspan="1" rowspan="1">menos que</td> 
    <td colspan="1" rowspan="1">Menor que el especificado</td> 
   </tr> 
   <tr> 
@@ -132,12 +131,12 @@ Utilice el diagrama siguiente para comprender la diferencia entre los operadores
    <td colspan="1" rowspan="1">Sobre el especificado (incluido)</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">como máximo</td> 
+   <td colspan="1" rowspan="1">a lo sumo</td> 
    <td colspan="1" rowspan="1">Menor que el especificado (incluido)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">está vacío</td> 
-   <td colspan="1" rowspan="1">Registros que no tienen valor (NULL): cero es un número, es <em>no</em> NULL</td> 
+   <td colspan="1" rowspan="1">Registros que no tienen valor (NULL): cero es un número, es <em>not</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">no está vacío</td> 
