@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Agregar un token del sistema como un vínculo en un mensaje de correo electrónico {#add-a-system-token-as-a-link-in-an-email}
+# Añadir un token del sistema como vínculo en un correo electrónico {#add-a-system-token-as-a-link-in-an-email}
 
 Puede utilizar estos tokens del sistema para personalizar la posición de los vínculos especiales en los correos electrónicos.
 
@@ -22,7 +22,7 @@ Los siguientes tokens pueden utilizarse como vínculos en un correo electrónico
 
 >[!NOTE]
 >
->Estos tokens **no** se pueden seleccionar a menos que se encuentre dentro de un vínculo de anclaje. Además, pueden **no** incrustarse en un token My.
+>Estos tokens **not** se puede hacer clic a menos que esté dentro de un vínculo de anclaje. Además, pueden **not** estar incrustado en un token My.
 
 A continuación se muestra cómo agregarlas a un correo electrónico:
 
@@ -34,11 +34,11 @@ A continuación se muestra cómo agregarlas a un correo electrónico:
 
    ![](assets/two-1.png)
 
-1. Resalte el texto que desea convertir en un vínculo que tenga el token y haga clic en el botón **Insertar/Editar vínculo**.
+1. Resalte el texto que desea convertir en un vínculo que contenga el token y haga clic en el botón **Insertar/Editar vínculo** botón.
 
    ![](assets/three-1.png)
 
-1. Introduzca el token en la URL del vínculo y haga clic en **Insert**.
+1. Introduzca el token en la URL del vínculo y haga clic en **Insertar**.
 
    ![](assets/four-1.png)
 
@@ -52,10 +52,10 @@ A continuación se muestra cómo agregarlas a un correo electrónico:
 
 >[!IMPORTANT]
 >
->Si utiliza este método para agregar el token del sistema &quot;viewAsWebpageLink&quot;, puede **no** anularlo con tokens. En su lugar, utilice el método [Add a View as Web Page Link to an Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) que le permite anular el &quot;viewAsWebPageLink&quot; con tokens.
+>Si utiliza este método para agregar el token del sistema &quot;viewAsWebpageLink&quot;, puede **not** anularlo con tokens. En su lugar, utilice [Agregar una vista como vínculo de página web a un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) que permite anular &quot;viewAsWebPageLink&quot; mediante tokens.
 
 >[!NOTE]
 >
->No olvide [aprobar su correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) cuando termine.
+>No olvides [aprobar el correo electrónico](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) cuando haya terminado.
 
 ¡Bien hecho! Ahora sabe cómo añadir un token del sistema como vínculo en un correo electrónico.
