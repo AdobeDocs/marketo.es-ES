@@ -18,9 +18,9 @@ Las siguientes funciones están incluidas en la versión del verano de 2016. Com
 
 El marketing basado en cuentas de Marketo proporciona todos los elementos básicos en una plataforma unificada:
 
-* **Target** : detección de cuentas, coincidencia de posibles clientes con cuentas y listas de cuentas con nombre
-* **Participación** : personalización basada en cuentas, participación en canales múltiples y flujos de trabajo específicos de la cuenta
-* **Medida** : perspectivas de nivel de cuenta y lista, puntuación de participación de cuenta e impacto en la canalización y los ingresos
+* **Target** - Descubrimiento de cuentas, coincidencia entre posibles clientes y listas de cuentas con nombre
+* **Participación** - Personalización basada en cuentas, participación en canales múltiples y flujos de trabajo específicos de la cuenta
+* **Medida** - Perspectivas de la cuenta y el nivel de lista, Puntuación de participación de la cuenta e Impacto en la canalización y los ingresos
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Anteriormente, todas las variables especificadas en las plantillas de correo ele
 **Actualizaciones de sintaxis**
 
 * Ahora puede utilizar &quot;mktoAddByDefault&quot; en módulos especificados en Plantillas de correo electrónico 2.0 para indicar qué módulos se deben mostrar en nuevos correos electrónicos de forma predeterminada. Esto resulta mucho más práctico si está creando una plantilla de correo electrónico con grandes números de módulos.
-* En los elementos de imagen, ahora puede especificar si las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML subyacente `<img>` deben bloquearse o editarse para el usuario final. mktoLockImgSize=&quot;true&quot; hará que la altura/anchura se bloquee (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; hará que la propiedad &quot;style&quot; se bloquee.
+* En los elementos de imagen, ahora puede especificar si la variable subyacente `<img>` Las propiedades &quot;height&quot; y &quot;width&quot; del elemento HTML deben bloquearse o editarse para el usuario final. mktoLockImgSize=&quot;true&quot; hará que la altura/anchura se bloquee (incluso si se cambia la imagen). Del mismo modo, mktoLockImgStyle=&quot;true&quot; hará que la propiedad &quot;style&quot; se bloquee.
 
 **Búsqueda de código**
 
