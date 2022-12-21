@@ -3,7 +3,6 @@ unique-page-id: 11378713
 description: Déclencheur De Los Cambios De Objetos Personalizados - Documentos De Marketo - Documentación Del Producto
 title: Déclencheur de los cambios en objetos personalizados
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -20,18 +19,16 @@ ht-degree: 0%
 >* Para clientes en la infraestructura Orion
 >* Para usar únicamente con objetos personalizados de Marketo, no con objetos personalizados sincronizados mediante la integración nativa de Salesforce o Microsoft Dynamics
 >* Como déclencheur, no como filtro
-
 >
->
-Póngase en contacto con el [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar los Déclencheur de cambio de objeto personalizado.
+>Póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para tener activados los Déclencheur de cambio de objeto personalizado.
 
-En la lista inteligente de una campaña inteligente, puede crear un déclencheur de una acción de flujo cuando se agrega un objeto personalizado a una persona o empresa. También puede crear una lista inteligente que utilice un *cambio* en un objeto personalizado como déclencheur. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice un nombre de curso.
+En la lista inteligente de una campaña inteligente, puede crear un déclencheur de una acción de flujo cuando se agrega un objeto personalizado a una persona o empresa. También puede crear una lista inteligente que utilice un *change* en un objeto personalizado como déclencheur. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice un nombre de curso.
 
 >[!NOTE]
 >
 >No se crea una entrada de registro de actividad cuando se cambia un registro de objeto personalizado.
 
-1. En Marketo, vaya a **Marketing Activities.**
+1. En Marketo, vaya a **Actividades de marketing.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
