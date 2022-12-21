@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2949962
-description: Alternar dinámicamente la visibilidad de un campo de formulario - Documentos de marketing - Documentación del producto
+description: 'Alternar dinámicamente la visibilidad de un campo de formulario: Documentos de Marketo: Documentación del producto'
 title: Alternar dinámicamente la visibilidad de un campo de formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
 # Alternar dinámicamente la visibilidad de un campo de formulario {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
->* [Añadir una lista de selección de país en el formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Agregar una lista de selección de países al formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-Una característica realmente interesante de los formularios de Marketing es que puede ocultar o mostrar dinámicamente campos de formulario o [conjuntos de campos](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Una característica realmente interesante de los formularios de Marketo es que puede ocultar o mostrar dinámicamente campos de formulario o [campos](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->En este ejemplo, ocultemos el campo **Estado** a menos que **País** esté seleccionado como &quot;Estados Unidos&quot;.
+>En este ejemplo, ocultemos la variable **Estado** field **País** se selecciona como &quot;Estados Unidos&quot;.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -34,19 +33,19 @@ Una característica realmente interesante de los formularios de Marketing es que
 
    ![](assets/editform-1.png)
 
-1. Seleccione el campo que desee ocultar/mostrar dinámicamente y haga clic en el vínculo para **Reglas de visibilidad**.
+1. Seleccione el campo que desee ocultar o mostrar dinámicamente y haga clic en el vínculo para **Reglas de visibilidad**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
-1. Busque y seleccione el campo alrededor del cual desee generar una condición.
+1. Busque y seleccione el campo en el que desea crear una condición.
 
    ![](assets/image2014-9-15-15-3a16-3a12.png)
 
-1. Seleccione el operador.
+1. Seleccione el operador .
 
    >[!TIP]
    >
-   >Esto es genial porque puedes elegir partidos borrosos como &quot;inicios con&quot;.
+   >Esto es genial porque puedes elegir partidos difusos como &quot;comienza con&quot;.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -56,14 +55,14 @@ Una característica realmente interesante de los formularios de Marketing es que
 
    >[!TIP]
    >
-   >Puede seleccionar varios valores haciendo clic en ellos mientras está abierta la lista desplegable. Por ejemplo, puede seleccionar Estados Unidos y Canadá.
+   >Puede seleccionar varios valores haciendo clic en ellos mientras la lista desplegable está abierta. Por ejemplo, puede seleccionar Estados Unidos y Canadá.
 
    >[!NOTE]
    >
-   >Anteriormente convertimos País en un tipo de campo de lista de acopio y [agregamos todos los países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Anteriormente convertimos País en un tipo de campo de lista de selección y [se han agregado todos los países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-¡Y eso es todo! Ahora, cuando las personas rellenan este formulario y seleccionan Estados Unidos para País, el campo Estado aparecerá dinámicamente con las opciones especificadas.
+¡Y eso es todo! Ahora, cuando las personas rellenen este formulario y seleccionen Estados Unidos para País, el campo Estado aparecerá dinámicamente con las opciones especificadas.
