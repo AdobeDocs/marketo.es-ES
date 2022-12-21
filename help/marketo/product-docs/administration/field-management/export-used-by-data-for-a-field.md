@@ -3,7 +3,6 @@ unique-page-id: 45417092
 description: Exportación utilizada por los datos para un campo - Documentos de Marketo - Documentación del producto
 title: Exportación utilizada por los datos de un campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Exportación utilizada por los datos para un campo {#export-used-by-data-for-a-field}
+# Exportación utilizada por los datos de un campo {#export-used-by-data-for-a-field}
 
 Como administrador, puede exportar recursos relacionados de un campo para poder delegar su desvinculación en su equipo.
 
@@ -19,11 +18,11 @@ Como administrador, puede exportar recursos relacionados de un campo para poder 
 >
 >**Se requieren permisos de administrador**
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Administración de campos**.
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +30,7 @@ Como administrador, puede exportar recursos relacionados de un campo para poder 
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable **Field Actions** y seleccione **Export used By**.
+1. Haga clic en el **Acciones de campo** y seleccione **Exportación utilizada por**.
 
    ![](assets/four.png)
 
