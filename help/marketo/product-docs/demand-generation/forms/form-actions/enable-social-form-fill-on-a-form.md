@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359616
-description: Habilitar el relleno de formularios sociales en un formulario - Documentos de marketing - Documentación del producto
-title: Habilitar el relleno de formulario social en un formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Activar el rellenado de formularios sociales en un formulario: documentos de Marketo: documentación del producto'
+title: Habilitar el rellenado de formularios sociales en un formulario
+exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
+# Habilitar el rellenado de formularios sociales en un formulario {#enable-social-form-fill-on-a-form}
 
-# Habilitar relleno de formulario social en un formulario {#enable-social-form-fill-on-a-form}
-
-Permita que los visitantes rellenen el formulario con sus redes sociales. Usted obtendrá automáticamente datos adicionales y ellos obtendrán una experiencia más rápida.
+Permita que los visitantes rellenen el formulario utilizando su red social. Obtendrá automáticamente datos adicionales y obtendrán una experiencia más rápida.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -37,7 +36,7 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Usted 
 
    >[!TIP]
    >
-   >Observe qué [Data Marketing capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
+   >Eche un vistazo a qué [datos que Marketo capturará](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) si las personas utilizan los botones sociales.
 
 1. Haga clic en **Finalizar**.
 
@@ -51,4 +50,4 @@ Permita que los visitantes rellenen el formulario con sus redes sociales. Usted 
 
    ![](assets/image2016-4-28-16-3a45-3a58.png)
 
-Bastante impresionante, ¿eh?
+Muy genial, ¿eh?
