@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12980105
-description: Invitar usuarios a acceder a la perspectiva de la cuenta - Documentos de Marketo - Documentación del producto
+description: Invitar a usuarios a acceder a la perspectiva de la cuenta - Documentos de Marketo - Documentación del producto
 title: Invitar usuarios a acceder a la perspectiva de cuenta
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # Invitar usuarios a acceder a la perspectiva de cuenta {#invite-users-to-access-account-insight}
 
 Siga estos pasos para proporcionar a los usuarios acceso a la perspectiva de la cuenta.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/admin-1.png)
 
-1. Haga clic en **Usuarios y funciones** en el árbol. A continuación, haga clic en la pestaña **Usuarios de ventas** e **Invitar a nuevo usuario de ventas**.
+1. Haga clic en **Usuarios y funciones** en el árbol. A continuación, haga clic en el **Usuarios de ventas** y **Invitar nuevo usuario de ventas**.
 
    ![](assets/two-6.png)
 
@@ -29,13 +28,13 @@ Siga estos pasos para proporcionar a los usuarios acceso a la perspectiva de la 
    >
    >Al invitar a usuarios nuevos (que no sean de Marketo) a través de la lista de usuarios de CRM, puede invitar a varias personas a la vez. Invitar por correo electrónico es 1 para 1.
 
-1. Haga clic en la lista desplegable **CRM User** y seleccione el usuario que desee.
+1. Haga clic en el **Usuario CRM** y seleccione el usuario que desee.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Si elige **Invitar a usuario por correo electrónico**, simplemente introduzca su nombre, apellidos y dirección de correo electrónico, y continúe con el paso 4.
+   >Si elige **Invitar usuario por correo electrónico**, simplemente introduzca su nombre, apellidos y dirección de correo electrónico, y siga con el paso 4.
 
 1. Para establecer una fecha de caducidad para el acceso del usuario (opcional), haga clic en el icono de calendario. De forma predeterminada, está configurada como &quot;nunca&quot;.
 
@@ -45,7 +44,7 @@ Siga estos pasos para proporcionar a los usuarios acceso a la perspectiva de la 
 
    ![](assets/five-5.png)
 
-1. Marque la casilla **Account Insight** y haga clic en **Next**.
+1. Marque la **Perspectiva de la cuenta** casilla de verificación y haga clic en **Siguiente**.
 
    ![](assets/six-3.png)
 
