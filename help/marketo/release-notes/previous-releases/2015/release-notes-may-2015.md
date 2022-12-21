@@ -34,7 +34,7 @@ Marketo ahora ejecutará comprobaciones semanales automatizadas del SPF y el DKI
 
 ## Cambio de comportamiento de plantilla de correo electrónico {#email-template-behavior-change}
 
-A partir de esta versión, ahora se permiten comentarios HTML válidos y no se eliminan al crear nuevos correos electrónicos.
+A partir de esta versión, ahora se permiten comentarios de HTML válidos que no se eliminan al crear nuevos correos electrónicos.
 
 ## RTP: Arrastrar y soltar editor de segmentos {#rtp-drag-and-drop-segment-editor}
 
