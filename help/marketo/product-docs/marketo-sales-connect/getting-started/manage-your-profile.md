@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# Administrar el perfil {#manage-your-profile}
+# Administrar su perfil {#manage-your-profile}
 
 En su página Mi perfil puede actualizar su nombre, el idioma, la configuración regional o la zona horaria de su cuenta, así como cambiar su contraseña.
 
@@ -17,7 +17,7 @@ En su página Mi perfil puede actualizar su nombre, el idioma, la configuración
 
 Aquí es donde puede actualizar su nombre y/o contraseña.
 
-1. Haga clic en el icono del engranaje y seleccione **Settings**.
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/manage-your-profile-1.png)
 
@@ -27,7 +27,7 @@ Aquí es donde puede actualizar su nombre y/o contraseña.
 
 >[!NOTE]
 >
->Su dirección de correo electrónico está configurada para solo ver. Si necesita que también se haya cambiado, póngase en contacto con el [Soporte de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Su dirección de correo electrónico está configurada para solo ver. Si necesita que también se haya cambiado, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 También puede cambiar la contraseña en esta sección. Los pasos se describen en este documento.
 
@@ -49,23 +49,23 @@ Aquí se explica cómo cambiar el idioma, la configuración regional o la zona h
 >
 >Idiomas admitidos: inglés, francés, alemán, japonés, portugués, español.
 
-1. Haga clic en el icono del engranaje y seleccione **Settings**.
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para cambiar el idioma, haga clic en la lista desplegable **Language** y elija una opción.
+1. Para cambiar el idioma, haga clic en el botón **Idioma** y elija.
 
    ![](assets/manage-your-profile-5.png)
 
-1. La configuración regional aquí se refiere a la región en la que se habla ese idioma. Haga clic en la lista desplegable **Locale** y elija una opción.
+1. La configuración regional aquí se refiere a la región en la que se habla ese idioma. Haga clic en el **Configuración regional** y elija.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Haga clic en la lista desplegable **Your Timezone** y elija una opción.
+1. Haga clic en el **Su zona horaria** y elija.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Haga clic en **Guardar** cuando termine.
+1. Haga clic en **Guardar** cuando haya terminado.
 
    ![](assets/manage-your-profile-8.png)
 
