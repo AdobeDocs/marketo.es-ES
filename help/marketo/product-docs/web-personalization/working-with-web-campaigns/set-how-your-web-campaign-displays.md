@@ -1,19 +1,18 @@
 ---
 unique-page-id: 12978906
-description: Configurar el modo en que se muestra la Campaña Web - Documentos de marketing - Documentación del producto
-title: Configurar el modo en que se muestra la Campaña Web
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+description: Configurar Cómo Se Muestra La Campaña Web - Documentos de Marketo - Documentación Del Producto
+title: Definir la visualización de la campaña web
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# Definir la visualización de la campaña web {#set-how-your-web-campaign-displays}
 
-# Configurar la forma en que se muestra la Campaña Web {#set-how-your-web-campaign-displays}
-
-Existen varios métodos que se pueden utilizar cuando se trata de cuándo y cómo se muestra la campaña web.
+Existen varios métodos que se deben utilizar cuando se trata de cuándo o cómo se muestra su campaña web.
 
 ## Carga de página {#page-load}
 
@@ -23,31 +22,31 @@ Seleccionado de forma predeterminada, esta opción simplemente muestra la campa�
 
 ## Retraso {#delay}
 
-Especifique un tiempo de espera (en segundos totales) para que las campañas web reaccionen en el sitio web.
+Especifique un retraso (en segundos totales) para que las campañas web reaccionen en el sitio web.
 
-1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Retraso**.
+1. Haga clic en el **Mostrar en** y seleccione **Retraso**.
 
    ![](assets/d1.png)
 
-1. Haga clic en la lista desplegable **Espere** y seleccione la cantidad de tiempo deseada.
+1. Haga clic en el **Espera** y seleccione la cantidad de tiempo que desee.
 
    ![](assets/d2.png)
 
 ## Desplazar {#scroll}
 
-1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Desplazarse**.
+1. Haga clic en el **Mostrar en** y seleccione **Desplazar**.
 
    ![](assets/s1.png)
 
-1. Haga clic en la lista desplegable **Cuándo** y seleccione cuándo desea que se muestre la campaña Web.
+1. Haga clic en el **When** y seleccione cuándo desea que se muestre la campaña web.
 
    ![](assets/s2.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Debajo del pliegue</strong></td> 
-   <td>Muestra la campaña cuando el visitante se desplaza por debajo del pliegue. La campaña desaparece cuando el visitante se desplaza hacia atrás por encima del pliegue.</td> 
+   <td><strong>Debajo de pliegue</strong></td> 
+   <td>Muestra la campaña cuando el visitante se desplaza por debajo del pliegue. La campaña desaparece cuando el visitante retrocede por encima del pliegue.</td> 
   </tr> 
   <tr> 
    <td><strong>Porcentaje</strong></td> 
@@ -60,18 +59,18 @@ Especifique un tiempo de espera (en segundos totales) para que las campañas web
  </tbody> 
 </table>
 
-## Calidad de salida {#exit-intent}
+## Intención de salida {#exit-intent}
 
-La calidad de salida mostrará la campaña web al salir del explorador con el cursor del ratón.
+La intención de salida muestra la campaña web al salir del cursor del ratón del explorador.
 
-1. Haga clic en la lista desplegable **Mostrar en** y seleccione **Calidad de salida**.
+1. Haga clic en el **Mostrar en** y seleccione **Intención de salida**.
 
    ![](assets/ei1.png)
 
-1. Aparece un mensaje que le recuerda que la calidad de salida no es compatible con móvil.
+1. Aparece un mensaje que recuerda que el intento de salida no es compatible con dispositivos móviles.
 
    ![](assets/ei2.png)
 
 >[!TIP]
 >
->¿Quieres ver cómo se verán los efectos elegidos con antelación? Échenlos a través de una [Previsualización de Campaña Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>¿Quiere ver cómo se verán los efectos elegidos con antelación? Puede comprobarlas mediante un [Vista previa de la campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
