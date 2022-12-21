@@ -9,7 +9,7 @@ ht-degree: 2%
 
 ---
 
-# Diseñador de secuencias {#stream-designer}
+# Stream Designer {#stream-designer}
 
 Hay _many_ combinaciones de flujo posibles. Este artículo contiene un ejemplo en el que el especialista en marketing pregunta al visitante del sitio si tiene alguna pregunta sobre el producto. Si es así, el visitante puede programar una cita. En caso negativo, se da al visitante la opción de unirse a una lista de correo para correspondencia futura. También se les ofrece un PDF gratuito. El objetivo final es programar una cita o recopilar el correo electrónico del visitante.
 
