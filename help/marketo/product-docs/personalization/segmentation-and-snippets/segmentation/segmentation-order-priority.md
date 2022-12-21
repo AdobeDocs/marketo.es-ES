@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359500
-description: Prioridad del pedido de segmentación - Documentos de marketing - Documentación del producto
+description: Prioridad de los pedidos de segmentación - Documentos de Marketo - Documentación del producto
 title: Prioridad del orden de segmentación
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Prioridad del orden de segmentación {#segmentation-order-priority}
 
-# Prioridad de orden de segmentación {#segmentation-order-priority}
-
-Es importante comprender cómo **order** establece la prioridad para la evaluación de las personas en una segmentación.
+Es importante comprender cómo **pedido** establece la prioridad para la evaluación de las personas en una segmentación.
 
 >[!PREREQUISITES]
 >
@@ -39,8 +38,8 @@ Es importante comprender cómo **order** establece la prioridad para la evaluaci
 >[!NOTE]
 >
 >* Los segmentos son mutuamente excluyentes. Una persona solo puede ser miembro de un segmento a la vez.
->* Cuando una persona cumple los requisitos para dos segmentos, solo pertenecerá al primero de la lista.
+>* Cuando una persona reúne los requisitos para dos segmentos, solo pertenecerá a la primera de la lista.
 >* Si una persona no cumple los requisitos para ningún segmento, se convertirá en miembro del segmento predeterminado.
 
 
-Genial, ¿eh? Puede utilizar segmentos para contenido dinámico, sistema de informes e incluso en listas inteligentes.
+Genial, ¿eh? Puede utilizar segmentos para el contenido dinámico, los informes e incluso en listas inteligentes.
