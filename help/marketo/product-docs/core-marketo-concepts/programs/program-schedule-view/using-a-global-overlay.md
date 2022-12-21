@@ -3,7 +3,6 @@ unique-page-id: 1147249
 description: 'Uso de una superposición global: Documentos de Marketo: Documentación del producto'
 title: Uso de una superposición global
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -17,7 +16,7 @@ La superposición global en la vista de programación del programa permite ver e
 
 >[!PREREQUISITES]
 >
->Debe tener una [licencia del Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esta función.
+>Debe tener un [Licencia del Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para utilizar esta función.
 
 ## Usar la superposición global {#use-the-global-overlay}
 
@@ -25,7 +24,7 @@ La superposición global en la vista de programación del programa permite ver e
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Seleccione **Overlay** en la esquina inferior derecha.
+1. Select **Superposición** en la esquina inferior derecha.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +38,9 @@ La superposición global en la vista de programación del programa permite ver e
 
 ## Usar un filtro guardado como superposición {#use-a-saved-filter-as-an-overlay}
 
-Si ha [guardado un filtro en el Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), puede utilizarlo como una superposición en la vista de programación del programa.
+Si lo ha hecho [se ha guardado un filtro en el Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), puede utilizarla como una superposición en la vista de programación del programa.
 
-1. Haga clic en la lista desplegable **Overlay** y seleccione la definición del filtro.
+1. Haga clic en el **Superposición** y seleccione la definición del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
