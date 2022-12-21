@@ -3,7 +3,6 @@ unique-page-id: 1146987
 description: 'Eliminación de un paso de flujo: documentos de Marketo: documentación del producto'
 title: Eliminación de un paso de flujo
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Eliminar un paso de flujo {#delete-a-flow-step}
+# Eliminación de un paso de flujo {#delete-a-flow-step}
 
 >[!CAUTION]
 >
->La eliminación de los pasos de flujo, _especialmente los pasos de espera_ de las campañas inteligentes activas, puede tener resultados inesperados. **Lea este artículo detenidamente.**
+>Eliminación de pasos de flujo, _especialmente los pasos de espera_ desde campañas inteligentes activas, puede tener resultados inesperados. **Lea este artículo detenidamente.**
 
 Primero hagamos lo básico. Así se elimina un paso de flujo no deseado de una campaña inteligente. 1. En Flujo de campaña inteligente, haga clic en el icono X para eliminar cualquier paso de flujo.
 
@@ -29,7 +28,7 @@ Primero hagamos lo básico. Así se elimina un paso de flujo no deseado de una c
 
    >[!CAUTION]
    >
-   >La eliminación, adición y desplazamiento de pasos dentro de una campaña **activa** definitivamente pueden tener resultados inesperados. Considere la posibilidad de crear una nueva campaña, probarla y, a continuación, cambiar.
+   >Eliminación, adición y desplazamiento de pasos dentro de un **active** la campaña puede tener definitivamente resultados inesperados. Considere la posibilidad de crear una nueva campaña, probarla y, a continuación, cambiar.
 
    Se pueden realizar cambios en una campaña activa, pero pueden tener consecuencias imprevistas. Aquí están los detalles:
 
@@ -59,11 +58,11 @@ Primero hagamos lo básico. Así se elimina un paso de flujo no deseado de una c
       >    * PASO 2. Espera 1 semana
       >    * PASO 3. Enviar correo electrónico n.º 2
    >
-   >1. Las personas que hayan llegado al **paso 2** esperarán una semana antes de pasar al **paso 3**.
-   >1. El **paso 2** se elimina durante la semana.
+   >1. Personas que visitan **Paso 2** esperará 1 semana antes de pasar a **Paso 3**.
+   >1. Elimine **Paso 2** durante la semana.
    >1. La gente seguirá esperando la semana 1. (No vuelven a aparecer automáticamente en el flujo).
-   >1. Cuando finalmente regresen, intentarán ir al **paso 3**. No lo encontrarán.
-   >1. **IMPORTANTE:** Dado que ahora solo hay 2 pasos, las  *personas no recibirán el correo electrónico n.º 2.*
+   >1. Cuando finalmente regresen, intentarán ir a **Paso 3**. No lo encontrarán.
+   >1. **IMPORTANTE:** Dado que ahora solo hay 2 pasos, la variable *las personas no recibirán el correo electrónico n.º 2.*
 
 
 Realización de cambios en una campaña activa
