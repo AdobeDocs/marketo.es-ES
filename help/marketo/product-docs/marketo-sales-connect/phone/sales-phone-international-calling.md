@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352434
-description: Llamada internacional de teléfono de ventas - Documentos de marketing - Documentación del producto
+description: Llamada internacional de teléfono de ventas - Documentos de Marketo - Documentación del producto
 title: Llamada internacional de teléfono de ventas
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-
 # Llamada internacional de teléfono de ventas {#sales-phone-international-calling}
 
-El teléfono de ventas facilita la comunicación internacional. Para los clientes que llaman desde Estados Unidos, el teléfono de ventas puede utilizarse para llamadas de salida a países internacionales. Para los clientes fuera de Estados Unidos, apoyamos las llamadas desde países internacionales.
+El teléfono de ventas facilita la comunicación internacional. Para los clientes que llaman desde Estados Unidos, el teléfono de ventas puede utilizarse para llamadas salientes a países internacionales. Para los clientes fuera de Estados Unidos, apoyamos las llamadas de países internacionales.
 
 >[!NOTE]
 >
->Por lo general, no apoyamos la llamada a números internacionales de telefonía móvil, y Alaska es tratado como un número internacional no admitido.
+>Por lo general, no admitimos la llamada a números internacionales de teléfono móvil, y Alaska es tratado como un número internacional no admitido.
 
 ## Países admitidos {#supported-countries}
 
@@ -25,7 +24,7 @@ El teléfono de ventas facilita la comunicación internacional. Para los cliente
  <tbody> 
   <tr> 
    <th>País</th> 
-   <th>Códigos de país admitidos</th> 
+   <th>Códigos de país compatibles</th> 
   </tr> 
   <tr> 
    <td colspan="1">Argentina</td> 
@@ -33,7 +32,7 @@ El teléfono de ventas facilita la comunicación internacional. Para los cliente
   </tr> 
   <tr> 
    <td colspan="1">Austria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4366 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -137,27 +136,27 @@ El teléfono de ventas facilita la comunicación internacional. Para los cliente
   </tr> 
   <tr> 
    <td>Estados Unidos</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Preguntas más frecuentes sobre llamadas internacionales
+## Preguntas frecuentes sobre llamadas internacionales
 
 {#international-calling-faq}
 
 **¿Por qué el MSE no apoya los llamados internacionales para todos los países?**
 
-Hoy, oferta llamadas internacionales con el teléfono de ventas sin costo adicional. Queremos facilitarle la comunicación con sus propios clientes potenciales y clientes, por lo que hemos lanzado soporte para llamadas internacionales de tarifa estándar. Ofrecemos cobertura a 34 países fuera de Estados Unidos y Canadá para regiones en Europa, Asia y otros destinos clave. Seguiremos ampliándonos en base a los comentarios de los clientes.
+Hoy, ofrecemos llamadas internacionales con teléfono de ventas sin coste adicional. Queremos facilitarle la comunicación con sus propios clientes y posibles clientes, por lo que hemos lanzado asistencia para llamadas internacionales de tarifa estándar. Ofrecemos cobertura a 34 países fuera de Estados Unidos y Canadá para regiones en Europa, Asia y otros destinos clave. Continuaremos ampliándonos en función de los comentarios de los clientes.
 
-**Si estoy fuera de los Estados Unidos, ¿a qué países puedo llamar desde y hacia?**
+**Si estoy fuera de EE.UU., ¿a qué países puedo llamar desde y hacia?**
 
-Esta es la lista de los países que actualmente no apoyamos las llamadas desde y hacia. Si el país desde el que llamas es apoyado, podrás llamar a cualquier otro país internacional que apoyemos.
+Esta es la lista de países que actualmente no admiten llamadas de desde y hacia. Si el país desde el que llamas es apoyado, podrás llamar a cualquier otro país internacional que apoyemos.
 
-**¿Existen tipos específicos de números a los que no puedo llamar con el teléfono de ventas?**
+**¿Hay tipos específicos de números a los que no puedo llamar con el teléfono de ventas?**
 
-Sí. No se admiten llamadas a números de teléfono de servicio de tarifa superior (como números 900 en EE.UU. y números +449 en el Reino Unido). En general, no se admiten llamadas a números de teléfono de costo compartido, así como un pequeño número de otras rutas Premium.
+Sí. No se admiten llamadas a números de teléfono de servicio de tarifa superior (por ejemplo, números 900 en EE.UU. y números +449 en el Reino Unido). En general, no admitimos llamadas a números de teléfono de costo compartido, así como un pequeño número de otras rutas premium.
 
-**¿Puedo usar la presencia local al llamar a internacional?**
+**¿Puedo usar la presencia local cuando llamo a internacional?**
 
-No. La presencia local solo está disponible para los números de EE.UU.
+No. La presencia local solo está disponible para los números de EE. UU.
