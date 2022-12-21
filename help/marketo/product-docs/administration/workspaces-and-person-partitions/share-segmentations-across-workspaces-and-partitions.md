@@ -3,7 +3,6 @@ unique-page-id: 7515767
 description: Uso compartido de segmentos entre espacios de trabajo y particiones - Documentos de Marketo - Documentación del producto
 title: Compartir segmentos entre espacios de trabajo y particiones
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
@@ -23,15 +22,15 @@ Marketo es bueno en elegir las personas adecuadas para un programa o una campañ
 
 >[!NOTE]
 >
->Obtenga información sobre [cómo crear segmentaciones](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Más información [cómo crear segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Una vez configurados estos personajes (_y_ usa espacios de trabajo), querrá compartirlos entre sus espacios de trabajo. Estas son algunas cosas buenas que hay que saber:
+Una vez configurados estos personajes (_y_ si utiliza espacios de trabajo), querrá compartirlos entre sus espacios de trabajo. Estas son algunas cosas buenas que hay que saber:
 
 ## Reglas y sugerencias {#rules-tips}
 
-* Cada suscripción a Marketo puede contener hasta 20 segmentos &quot;total&quot; en varios espacios de trabajo (**no 20 por cada espacio de trabajo**).
+* Cada suscripción a Marketo puede contener hasta 20 segmentos &quot;en total&quot; en varios espacios de trabajo (**no 20 por espacio de trabajo**).
 * Solo puede compartir una segmentación con espacios de trabajo a los que tenga acceso.
-* Asegúrese de crear y utilizar un **espacio de trabajo predeterminado que tenga visibilidad en todas las particiones**.
+* Asegúrese de crear y utilizar un **Espacio de trabajo predeterminado que tiene visibilidad en todas las particiones**.
 
 * El procesamiento de la segmentación solo se ejecuta en las personas del espacio de trabajo donde se crea la segmentación.
 
@@ -48,19 +47,19 @@ Una vez configurados estos personajes (_y_ usa espacios de trabajo), querrá com
 >
 >Algunas de estas reglas son un poco complejas. La forma más sencilla de empezar es realizar pruebas con personas específicas. Siempre puede realizar nuevas segmentaciones y deshacerse de las antiguas.
 
-## Ejemplo de escenarios {#example-scenarios}
+## Situaciones de ejemplo {#example-scenarios}
 
 ![](assets/image2015-5-27-16-3a26-3a25.png)
 
 ![](assets/image2015-5-27-16-3a26-3a48.png)
 
-## Compartir una segmentación {#share-a-segmentation}
+## Uso compartido de una segmentación {#share-a-segmentation}
 
-1. Vaya a **Database**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Haga clic con el botón derecho en **Segmentations** y seleccione **New Folders**.
+1. Clic con el botón derecho **Segmentaciones** y seleccione **Nuevas carpetas**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
