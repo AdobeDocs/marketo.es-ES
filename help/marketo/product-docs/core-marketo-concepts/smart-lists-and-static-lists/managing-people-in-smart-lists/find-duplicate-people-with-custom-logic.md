@@ -3,11 +3,10 @@ unique-page-id: 2952636
 description: Buscar personas duplicadas con lógica personalizada - Documentos de Marketo - Documentación del producto
 title: Buscar personas duplicadas con lógica personalizada
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -19,29 +18,29 @@ Marketo tiene una lista inteligente del sistema que encuentra personas duplicada
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Vaya al área **Marketing Activities** .
+1. Vaya a la **Actividades de marketing** .
 
 ![](assets/ma-2.png)
 
-1. Seleccione la lista inteligente, haga clic en la pestaña **Smart List**.
+1. Seleccione la lista inteligente y haga clic en el **Lista inteligente** pestaña .
 
    ![](assets/two-4.png)
 
-1. Busque y arrastre el filtro **Duplicate Fields** al lienzo.
+1. Busque y arrastre el **Duplicar campos** filtre al lienzo.
 
    ![](assets/three-4.png)
 
 1. Elija una de las cuatro opciones disponibles:
 
-   * Dirección de correo electrónico
+   * Dirección de email
    * Nombre completo
-   * Apellidos
+   * Apellido
    * Actualizado en
 
    >[!NOTE]
    >
-   >Todos los campos, con la excepción de Dirección de correo electrónico, distinguen entre mayúsculas y minúsculas. Por lo tanto, el uso de &quot;john doe&quot; en el campo Nombre completo _no_ devolverá resultados para John Doe.
+   >Todos los campos, con la excepción de Dirección de correo electrónico, distinguen entre mayúsculas y minúsculas. Así que usar &quot;john doe&quot; en el campo Nombre completo _not_ devuelve resultados para John Doe.
 
    ![](assets/four-2.png)
 
-   ¡Listo! Ejecute la lista inteligente para buscar personas con el mismo valor en el campo seleccionado anteriormente.
+   Listo! Ejecute la lista inteligente para buscar personas con el mismo valor en el campo seleccionado anteriormente.
