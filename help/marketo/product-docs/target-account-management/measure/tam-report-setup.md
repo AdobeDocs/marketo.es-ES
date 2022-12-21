@@ -2,14 +2,13 @@
 unique-page-id: 11384438
 description: Configuración del informe TAM - Documentos de Marketo - Documentación del producto
 title: Configuración del informe TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Configuración del informe TAM {#tam-report-setup}
 
@@ -17,7 +16,7 @@ El informe de ventas de TAM es un correo electrónico personalizado y semanal qu
 
 ## Configuración de informes {#report-setup}
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one-3.png)
 
@@ -29,15 +28,15 @@ El informe de ventas de TAM es un correo electrónico personalizado y semanal qu
 
    ![](assets/three-3.png)
 
-1. Haga clic en la lista desplegable **Day** y seleccione el día de la semana en el que desea que los destinatarios reciban el correo electrónico.
+1. Haga clic en el **Día** y seleccione el día de la semana en el que desea que los destinatarios reciban el correo electrónico.
 
    ![](assets/four-4.png)
 
-1. Para determinar el diseño del correo electrónico, haga clic en la lista desplegable **Ordenar por** y realice una selección.
+1. Para determinar el diseño del correo electrónico, haga clic en el botón **Ordenar por** y realice una selección.
 
    ![](assets/five-3.png)
 
-1. Marque la casilla **Users** , luego haga clic en la lista desplegable y seleccione quién desea recibir el correo electrónico.
+1. Marque la **Usuarios** , haga clic en la lista desplegable y seleccione quién desea recibir el correo electrónico.
 
    ![](assets/six-2.png)
 
@@ -53,13 +52,13 @@ El informe de ventas de TAM es un correo electrónico personalizado y semanal qu
 
 ## Cómo cancelar la suscripción {#how-to-unsubscribe}
 
-Cada informe incluye la opción de exclusión. Para ello, haga clic en **Unsubscribe** en la parte inferior del correo electrónico.
+Cada informe incluye la opción de exclusión. Para ello, haga clic en **Cancelar suscripción** en la parte inferior del correo electrónico.
 
 ![](assets/eight-1.png)
 
 ## Cómo volver a suscribirse {#how-to-resubscribe}
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one-3.png)
 
@@ -71,10 +70,10 @@ Cada informe incluye la opción de exclusión. Para ello, haga clic en **Unsubsc
 
    ![](assets/nine.png)
 
-1. Haga clic en la lista desplegable **Users**.
+1. Haga clic en el **Usuarios** lista desplegable.
 
    ![](assets/ten.png)
 
-1. Seleccione de nuevo el usuario al que desea recibir correos electrónicos y haga clic en **Volver a suscribirse**.
+1. Seleccione de nuevo el usuario al que desea recibir los correos electrónicos y haga clic en **Volver a suscribirse**.
 
    ![](assets/eleven.png)
