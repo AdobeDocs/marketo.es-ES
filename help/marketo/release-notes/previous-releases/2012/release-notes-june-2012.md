@@ -42,7 +42,7 @@ En las páginas de resumen de Programa y Campaña existentes, hemos añadido la 
 
 ## Utilizado por para Assets {#used-by-for-assets}
 
-Se ha agregado una nueva pestaña a las páginas de resumen de los recursos, que se denomina &quot;¡Utilizado por!&quot;.
+Hemos agregado una nueva pestaña a las páginas de resumen de recursos, que se denomina &quot;¡Utilizado por!&quot;.
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
@@ -64,7 +64,7 @@ Al programar una campaña, puede hacer clic en el vínculo para ver la lista de 
 
 ## Paso de espera: Token de posible cliente y Mi token {#wait-step-lead-token-and-my-token}
 
-En nuestra versión de mayo, añadimos opciones avanzadas al paso de flujo de espera. Con estos cambios, puede especificar un día, una fecha y una hora laborables. En esta versión, hemos añadido la capacidad de usar un token en el paso de espera. Por ejemplo, puede que desee utilizar `{{lead.Birthday}}` para enviar un correo electrónico en su cumpleaños o utilizar `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
+En nuestra versión de mayo, añadimos opciones avanzadas al paso de flujo de espera. Con estos cambios, puede especificar un día, una fecha y una hora laborables. En esta versión, hemos añadido la capacidad de usar un token en el paso de espera. Por ejemplo, puede que desee utilizar `{{lead.Birthday}}` para enviar un correo electrónico en su cumpleaños, o use `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
