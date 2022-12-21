@@ -3,7 +3,6 @@ unique-page-id: 1147068
 description: Filtrar los resultados de la campaña inteligente - Documentos de Marketo - Documentación del producto
 title: Filtrar resultados de campaña inteligente
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
@@ -21,7 +20,7 @@ Filtre los resultados de campañas inteligentes para ver las actividades especí
 
 ## Filtrar por filtros guardados {#filter-by-saved-filters}
 
-1. En la pestaña **Results** de la campaña inteligente, haga clic en **Filter** y seleccione un filtro guardado.
+1. En su campaña inteligente **Resultados** , haga clic en **Filtro** y seleccione un filtro guardado.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -31,11 +30,11 @@ Filtre los resultados de campañas inteligentes para ver las actividades especí
 
 ## Crear un filtro personalizado {#create-a-custom-filter}
 
-1. Haga clic en **Filter** y luego en **Custom**.
+1. Haga clic en **Filtro** y luego **Personalizado**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Seleccione los tipos de actividades que desea ver y haga clic en **Guardar como** .
+1. Seleccione los tipos de actividades que desea ver y, a continuación, haga clic en **Guardar como** .
 
    ![](assets/activityfiltersettings-hands.png)
 
@@ -43,7 +42,7 @@ Filtre los resultados de campañas inteligentes para ver las actividades especí
    >
    >Haga clic en **Aplicar** para aplicar directamente un filtro personalizado a los resultados sin guardarlo.
 
-1. Introduzca un nombre de filtro y haga clic en **Save**.
+1. Introduzca un nombre de filtro y haga clic en **Guardar**.
 
    ![](assets/saveasfilter-hands.png)
 
