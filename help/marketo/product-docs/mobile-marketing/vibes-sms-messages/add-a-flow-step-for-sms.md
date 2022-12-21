@@ -1,50 +1,49 @@
 ---
 unique-page-id: 11379045
-description: Añadir un paso de flujo para SMS - Documentos de marketing - Documentación del producto
+description: 'Añadir un paso de flujo para SMS: Marketo Docs: Documentación del producto'
 title: Añadir un paso de flujo para SMS
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
-
 # Añadir un paso de flujo para SMS {#add-a-flow-step-for-sms}
 
 Marketo tiene tres pasos de flujo que puede utilizar en sus campañas inteligentes de SMS:
 
-* **Enviar mensaje**  SMS: Esta acción de flujo envía mensajes a las personas de la lista inteligente de Marketing suscritas a una lista de suscripción de vibraciones seleccionada por el usuario. No inicia el proceso de suscripción.
-* **Suscribirse a la Lista**  de Vibes: esta acción de flujo inicia el proceso de suscripción de SMS a través de una Campaña de adquisición de vibraciones seleccionada por el usuario. Vibes envía entonces un mensaje de confirmación; el destinatario debe responder a él para completar el proceso de suscripción.
-* **Cancelar la suscripción de la Lista**  de vibraciones: esta acción de flujo anula la suscripción de cada persona de una lista de suscripción de vibraciones seleccionada por el usuario.
+* **Enviar mensaje SMS** : esta acción de flujo envía mensajes a las personas de la lista inteligente de Marketo suscritas a una lista de suscripción de Vídeos seleccionada por el usuario. No inicia el proceso de suscripción.
+* **Suscripción a la lista de vídeos** - Esta acción de flujo inicia el proceso de suscripción a SMS a través de una campaña de adquisición de vibraciones seleccionada por el usuario. Vibes envía un mensaje de confirmación; el destinatario debe responder para completar el proceso de suscripción.
+* **Cancelación de la suscripción a la lista de vídeos** - Esta acción de flujo cancela la suscripción de cada persona a una lista de suscripción de Vídeos seleccionada por el usuario.
 
 >[!NOTE]
 >
 >Al enviar mensajes SMS:
 >
->* Comercializar las duplicaciones por número de teléfono. Si varias personas tienen el mismo número de teléfono, solo una persona recibirá el mensaje.
->* Marketo no se enviará a personas incluidas en la lista de bloqueados o con suspensiones de marketing.
+>* Marketo desduplica por número de teléfono. Así que si varias personas tienen el mismo número de teléfono, solo una persona recibirá el mensaje.
+>* Marketo no se enviará a las personas incluidas en la lista de bloqueados o con la opción Marketing suspendido.
 
 
-Para obtener información general sobre cómo configurar los pasos de flujo, consulte [Añadir un paso de flujo a una Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Para obtener información general sobre la configuración de pasos de flujo, consulte [Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
-Aquí están los conceptos básicos para usar SMS.
+Estos son los conceptos básicos para usar SMS.
 
-1. En Mi marketing, haga clic en **Actividades de marketing**.
+1. En Mi Marketo, haga clic en **Actividades de marketing**.
 
    ![](assets/image2016-7-28-11-3a41-3a17.png)
 
-1. Encuentra la campaña inteligente a la que quieres agregar el flujo de SMS. Haga clic en la ficha **Flujo**.
+1. Busque la campaña inteligente a la que desee agregar el flujo de SMS. Haga clic en el **Flujo** pestaña .
 
    ![](assets/image2016-7-28-11-3a43-3a41.png)
 
-1. Arrastre el ratón sobre el flujo, por ejemplo, **Enviar mensaje SMS**. Seleccione el mensaje SMS y la lista Vibes en las listas desplegables.
+1. Arrastre el cursor sobre el flujo, por ejemplo, **Enviar mensaje SMS**. Seleccione el mensaje SMS y la lista Vídeos en los menús desplegables.
 
    ![](assets/send-sms-message-hands.jpg)
 
    >[!NOTE]
    >
-   >El selector de Lista de Vibes actúa como un filtro adicional a la audiencia ya identificada en la lista inteligente para destinatario solo aquellos leads que pertenecen a esa lista de Vibes.
+   >El selector Lista de vibraciones actúa como un filtro adicional para la audiencia ya identificada en la lista inteligente para segmentar solo aquellos posibles clientes que pertenezcan a dicha lista.
    >
-   >Los flujos **Suscribirse a la Lista de Vibes** y **Cancelar la suscripción de la Lista de Vibes** tienen requisitos diferentes. Para **Suscribirse**, debe seleccionar la lista Vibes y la campaña de adquisición de Vibes. Para **Cancelar la suscripción**, solo se requiere la lista de Vibes.
+   >La variable **Suscripción a la lista de vídeos** y **Cancelación de la suscripción a la lista de vídeos** Los flujos tienen requisitos diferentes. Para **Suscribirse**, debe seleccionar la lista Vídeos y la campaña de adquisición de Vídeos . Para **Cancelar suscripción**, solo se requiere la lista Vídeos .
