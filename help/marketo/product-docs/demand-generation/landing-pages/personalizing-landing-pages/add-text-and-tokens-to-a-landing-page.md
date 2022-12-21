@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359530
-description: Añadir texto y tokens a una Página de aterrizaje - Documentos de marketing - Documentación del producto
-title: Añadir texto y tokens a una Página de aterrizaje
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Agregar texto y tokens a una página de aterrizaje: Documentos de Marketo: Documentación del producto'
+title: Agregar texto y tokens a una página de aterrizaje
+exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
-# Añadir texto y tokens a una Página de aterrizaje {#add-text-and-tokens-to-a-landing-page}
+# Agregar texto y tokens a una página de aterrizaje {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
->Los tokens solo se admiten en páginas de aterrizaje de marketing.
+>Los tokens solo se admiten en páginas de aterrizaje de Marketo.
 
-## Añadir texto enriquecido a su Página de aterrizaje {#add-rich-text-to-your-landing-page}
+## Agregar texto enriquecido a la página de aterrizaje {#add-rich-text-to-your-landing-page}
 
 1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
 
@@ -25,25 +24,25 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >El diseñador de páginas de aterrizaje se abre en una ventana nueva.
+   >El diseñador de páginas de aterrizaje se abre en una nueva ventana.
 
-1. Arrastre el cursor sobre el elemento **Texto enriquecido**.
+1. Arrastre el ratón sobre la **Texto enriquecido** elemento.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Escriba el texto que desee y haga clic en **Guardar**.
+1. Introduzca el texto deseado y haga clic en **Guardar**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Ahora que ya sabe cómo agregar texto a una página de aterrizaje, trabajemos en agregar un token.
+Ahora que sabe cómo agregar texto a una página de aterrizaje, vamos a trabajar en la adición de un token.
 
-## Añadir un token a su Página de aterrizaje {#add-a-token-to-your-landing-page}
+## Agregar un token a la página de aterrizaje {#add-a-token-to-your-landing-page}
 
-Los tokens son bits dinámicos de texto que pueden personalizar su página de aterrizaje.
+Los tokens son bits dinámicos de texto que pueden personalizar la página de aterrizaje.
 
 >[!TIP]
 >
->Cosas como el nombre provienen del registro de personas. Otros tokens proceden de la ficha Mis tokens del programa.
+>Cosas como el Nombre provienen del registro de personas. Otros tokens provienen de la ficha Mis tokens del programa.
 
 1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
 
@@ -51,9 +50,9 @@ Los tokens son bits dinámicos de texto que pueden personalizar su página de at
 
    >[!NOTE]
    >
-   >El diseñador de páginas de aterrizaje se abre en una ventana nueva.
+   >El diseñador de páginas de aterrizaje se abre en una nueva ventana.
 
-1. Haga clic con el doble en el cuadro de texto enriquecido al que desee agregar el token.
+1. Haga doble clic en el cuadro de texto enriquecido al que desee agregar el token.
 
    ![](assets/image2015-5-21-12-3a30-3a5.png)
 
@@ -61,11 +60,11 @@ Los tokens son bits dinámicos de texto que pueden personalizar su página de at
 
    ![](assets/image2015-7-8-17-3a21-3a53.png)
 
-1. Busque y seleccione el token que desee.
+1. Busque y seleccione el token que elija.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Introduzca un **Valor predeterminado** y haga clic en **Insertar**.
+1. Escriba un **Valor predeterminado** y haga clic en **Insertar**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
@@ -73,4 +72,4 @@ Los tokens son bits dinámicos de texto que pueden personalizar su página de at
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   ¡Misión completada! Ahora tienes un token en tu página de aterrizaje.
+   ¡Misión finalizada! Ahora tiene un token en la página de aterrizaje.
