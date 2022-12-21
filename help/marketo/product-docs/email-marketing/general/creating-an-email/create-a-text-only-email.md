@@ -1,33 +1,32 @@
 ---
 unique-page-id: 1900556
-description: Crear un correo electrónico de solo texto - Documentos de marketing - Documentación del producto
+description: 'Crear un correo electrónico de solo texto: documentos de Marketo: documentación del producto'
 title: Crear un correo electrónico de solo texto
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # Crear un correo electrónico de solo texto {#create-a-text-only-email}
 
-Si alguna vez desea enviar correos electrónicos de solo texto, así se puede crear un correo electrónico que se publicará sin contenido HTML.
+Si alguna vez desea enviar correos electrónicos de solo texto, así es como crear un correo electrónico que se publicará sin contenido de HTML.
 
 >[!NOTE]
 >
->Dado que el destinatario que descarga las imágenes del correo electrónico rastrea las aperturas (que incluye un píxel de seguimiento invisible), las aperturas **no** se pueden rastrear para los correos electrónicos de solo texto.
+>Dado que el destinatario que descarga las imágenes del correo electrónico (que incluye un píxel de seguimiento invisible) realiza el seguimiento de las aperturas, las aperturas se **not** se puede rastrear para correos electrónicos de solo texto.
 
-1. Vaya al área **Actividades de mercadotecnia**.
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/one-1.png)
 
-1. Seleccione el programa, haga clic en la lista desplegable **Nuevo** y seleccione **Nuevo recurso local**.
+1. Seleccione el programa y haga clic en el botón **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/two-1.png)
 
-1. Seleccione **Correo electrónico**.
+1. Select **Correo electrónico**.
 
    ![](assets/three-1.png)
 
@@ -45,21 +44,21 @@ Si alguna vez desea enviar correos electrónicos de solo texto, así se puede cr
 
    >[!CAUTION]
    >
-   >Los vínculos no se rastrean automáticamente en correos electrónicos de solo texto. Consulte cómo [Añadir vínculos rastreados a un mensaje de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Los vínculos no se rastrean automáticamente en correos electrónicos de solo texto. Consulte cómo [Agregar vínculos rastreados a un correo electrónico de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
-   >También puede editar un correo electrónico existente y cambiar esta configuración. No te olvides de aprobar el borrador.
+   >También puede editar un correo electrónico existente y cambiar esta configuración. No olvide aprobar el borrador.
 
-1. Desmarque la casilla **Copiar automáticamente desde HTML**.
+1. Desmarque la **Copiar automáticamente desde el HTML** casilla de verificación.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Cualquier contenido agregado a la sección HTML del correo electrónico se ignorará cuando se envíe.
+   >Cualquier contenido añadido a la sección HTML del correo electrónico se ignorará cuando se envíe.
 
-1. Haga clic con el doble en el área de texto.
+1. Haga doble clic en el área de texto.
 
    ![](assets/eight.png)
 
