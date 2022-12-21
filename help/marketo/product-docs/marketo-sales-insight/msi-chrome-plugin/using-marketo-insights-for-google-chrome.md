@@ -1,31 +1,30 @@
 ---
 unique-page-id: 7512944
-description: Uso de Marketo Insights para Google Chrome - Marketo Docs - Documentación del producto
-title: Uso de perspectivas de marketing para Google Chrome
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: 'Uso de Marketo Insights para Google Chrome - Marketo Docs: Documentación del producto'
+title: Uso de Marketo Insights para Google Chrome
+exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
+# Uso de Marketo Insights para Google Chrome {#using-marketo-insights-for-google-chrome}
 
-# Uso de perspectivas de marketing para Google Chrome {#using-marketo-insights-for-google-chrome}
-
-Envíe y realice un seguimiento de cualquier correo electrónico de Google con Marketo Insights for Google Chrome.
+Envíe y rastree cualquier correo electrónico de Google con Marketo Insights for Google Chrome.
 
 >[!PREREQUISITES]
 >
->[Instalación de perspectivas de marketing para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Instalación de Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
-## Enviar un correo electrónico con perspectivas de marketing {#send-an-email-with-marketo-insights}
+## Envío de un correo electrónico con Marketo Insights {#send-an-email-with-marketo-insights}
 
-1. En la ventana Redactar, haga clic en el icono Comercialización.
+1. En la ventana Componer, haga clic en el icono Marketo .
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. ¡El botón Enviar ha convertido a Marketo en morado! Este correo electrónico ahora se enviará con Marketing, se rastrearán todos los vínculos y se insertará un píxel de seguimiento en el correo electrónico. Esto se registrará como una actividad de correo electrónico de ventas enviadas.
+1. ¡El botón Enviar ha convertido Marketo en morado! Este correo electrónico ahora se enviará con Marketo, se rastrearán todos los vínculos y se insertará un píxel de seguimiento en el correo electrónico. Esto se registrará como una actividad de correo electrónico de ventas enviadas .
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
@@ -35,13 +34,13 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
 
    >[!TIP]
    >
-   >Si lo desea, haga clic en la flecha de doble para expandirse a una vista de pantalla completa.
+   >Si lo desea, haga clic en la flecha doble para expandir a una vista de pantalla completa.
 
-1. Si desea rellenar previamente el correo electrónico con una plantilla de marketing publicada, haga clic en **Más opciones** y seleccione **Cargar plantilla de marketing**.
+1. Si desea rellenar previamente el correo electrónico con una plantilla de Marketo publicada, haga clic en **Más opciones** y seleccione **Cargar plantilla de Marketo**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Seleccione una **plantilla disponible** y haga clic en **Aceptar**.
+1. Seleccione un **Plantilla disponible** y haga clic en **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -51,26 +50,26 @@ Envíe y realice un seguimiento de cualquier correo electrónico de Google con M
 
    >[!NOTE]
    >
-   >Los mensajes solo se rastrean cuando el botón **Enviar** es morado.
+   >Los mensajes solo se rastrean cuando la variable **Enviar** es morado.
 
-1. El mensaje de correo electrónico aparecerá pronto en la perspectiva de ventas de marketing y se realizará un seguimiento de los clics y las aperturas.
+1. El correo electrónico pronto aparecerá en la perspectiva de ventas de Marketo y se realizará un seguimiento de las aperturas y los clics.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## Registrar respuestas de correo electrónico con marketing {#log-email-replies-with-marketo}
+## Registrar respuestas de correo electrónico con Marketo {#log-email-replies-with-marketo}
 
 Puede registrar las respuestas y la actividad antigua en el historial de actividades de un posible cliente.
 
-1. En el panel previsualización de Google Mail, haga clic en **Registro con el marcador**.
+1. En el panel de vista previa de Google Mail, haga clic en **Iniciar sesión en Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. ¡Eso es todo! El mensaje de correo electrónico aparecerá pronto en la Perspectiva de ventas de Marketing to.
+1. ¡Eso es todo! El correo electrónico aparecerá próximamente en Marketo Sales Insight.
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Instalación de perspectivas de marketing para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Información y Actividades de persona y cuenta de vista en Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [Instalación de Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Ver información y actividades de persona y cuenta en Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
