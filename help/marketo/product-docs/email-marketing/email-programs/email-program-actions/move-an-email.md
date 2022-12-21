@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ¿Necesita mover un correo electrónico de un programa a otro? Así es como.
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/move-an-email-1.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/move-an-email-2.png)
 
-1. Seleccione **Destination**, **Program** y **Folder** opcional. Seleccione **Mover**.
+1. Seleccione el **Destino**, **Programa** y opcional **Carpeta**. Select **Mover**.
 
    ![](assets/move-an-email-3.png)
 
