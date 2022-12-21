@@ -1,34 +1,33 @@
 ---
 unique-page-id: 14352537
-description: Cómo rastrear los datos adjuntos de correo electrónico - Documentos de marketing - Documentación del producto
+description: 'Cómo rastrear los archivos adjuntos de su correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Cómo rastrear los archivos adjuntos de correo electrónico
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-
 # Cómo rastrear los archivos adjuntos de correo electrónico {#how-to-track-your-email-attachments}
 
-Sales Connect realiza el seguimiento de las ofertas de los archivos adjuntos (.doc, .ppt, .pdf) para que pueda ver cuándo se abrieron o descargaron y qué páginas está viendo su destinatario. Le permitiremos utilizar la función de archivos adjuntos rastreables de la [aplicación Web](https://toutapp.com/login) y Gmail (o Google Apps).
+Sales Connect ofrece un seguimiento de los archivos adjuntos (.doc, .ppt, .pdf) para que pueda ver cuándo se han abierto o descargado y qué páginas está buscando el destinatario. Le permitiremos utilizar nuestra función de archivos adjuntos rastreables desde ambos [aplicación web](https://toutapp.com/login) y Gmail (o aplicaciones de Google).
 
 >[!NOTE]
 >
->El seguimiento de datos adjuntos solo está disponible para nuestros planes de equipo (a partir de nuestro plan de inicio g3g).
+>El seguimiento de archivos adjuntos solo está disponible para nuestros planes de equipo (a partir de nuestro plan g3startup).
 
 ## Cómo enviar el primer archivo adjunto rastreable {#how-to-send-your-first-trackable-attachment}
 
-1. Redacte un correo electrónico o edite una plantilla y haga clic en el botón **Contenido**.
+1. Redacte un correo electrónico o edite una plantilla y, a continuación, haga clic en el botón **Contenido** botón.
 
-1. Cargue los datos adjuntos y envíelos. Admitimos archivos PDF, documentos de Word y presentaciones de Powerpoint.
+1. Cargue el archivo adjunto y envíelo. Admitimos PDF, documentos de Word y presentaciones de PowerPoint.
 
-1. Seleccione **Añadir a correo electrónico**.
+1. Select **Añadir a correo electrónico**.
 
-1. Haga clic en **Enviar** y active la fuente en directo. Verá sus destinatarios a medida que se abren y se desplazan a través de sus archivos adjuntos.
+1. Haga clic en **Enviar** y activa tu fuente de lanzamiento. Verá los destinatarios a medida que se abren y se desplazan por sus archivos adjuntos.
 
    >[!TIP]
    >
-   >Si no desea rastrear un archivo adjunto, haga clic en **Adjuntar archivos** y no se rastreará este archivo adjunto.
+   >Si no desea rastrear un archivo adjunto, simplemente haga clic en **Adjuntar archivos** y este archivo adjunto no se rastreará.
