@@ -50,6 +50,6 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
    ![](assets/eight.png)
 
-1. Agregue cualquier detalle importante que sea relevante para su compañero de equipo (opcional) y haga clic en **Crear**.
+1. Añada cualquier detalle importante que sea relevante para su compañero de equipo (opcional) y haga clic en **Crear**.
 
    ![](assets/nine.png)
