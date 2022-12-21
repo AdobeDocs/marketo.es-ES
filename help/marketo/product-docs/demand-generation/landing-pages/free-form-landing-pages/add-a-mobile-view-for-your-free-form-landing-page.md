@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720856
-description: 'Agregar una vista de Mobile para la página de aterrizaje de forma libre: Marketo Docs: documentación del producto'
+description: 'Agregar una vista móvil para la página de aterrizaje de forma libre: documentos de Marketo: documentación del producto'
 title: Agregar una vista móvil para la página de aterrizaje de forma libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
