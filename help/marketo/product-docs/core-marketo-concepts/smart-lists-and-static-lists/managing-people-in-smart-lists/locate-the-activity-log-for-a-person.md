@@ -14,15 +14,15 @@ ht-degree: 0%
 
 El registro de actividades es la fuente definitiva de verdad. Esta es la historia completa del recorrido de una persona en Marketo.
 
-1. Vaya a **Database**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Seleccione **Todas las personas**.
+1. Select **Todas las personas**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Haga clic en la pestaña **People**. Seleccione un número **Id** de persona.
+1. Haga clic en el **People** pestaña . Seleccionar una persona **Id** número.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -48,4 +48,4 @@ El registro de actividades es la fuente definitiva de verdad. Esta es la histori
 
    >[!MORELIKETHIS]
    >
-   >Obtenga más información sobre el [filtrado del registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) para ver actividades de persona específicas.
+   >Más información sobre [filtrado del registro de actividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) para ver actividades de personas específicas.
