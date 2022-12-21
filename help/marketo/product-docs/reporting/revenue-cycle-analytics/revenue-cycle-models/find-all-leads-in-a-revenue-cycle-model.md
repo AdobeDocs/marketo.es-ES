@@ -3,7 +3,6 @@ unique-page-id: 2360423
 description: 'Buscar todos los posibles clientes en un modelo de ciclo de ingresos: Documentos de Marketo: Documentación del producto'
 title: Buscar todos los posibles clientes en un modelo de ciclo de ingresos
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -19,29 +18,29 @@ Mediante listas inteligentes, puede encontrar fácilmente todos los miembros del
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con la lista inteligente seleccionada, haga clic en la pestaña **Smart List**.
+1. Con los inteligentes seleccionados, haga clic en el **Lista inteligente** pestaña .
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Busque el filtro **Member of Revenue Model** y arrástrelo al lienzo.
+1. Busque la **Miembro del modelo de ingresos** filtre y arrástrela al lienzo.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleccione un **Model**.
+1. Seleccione un **Modelo**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Esto les daría todos los posibles clientes en ese modelo, independientemente del escenario. Normalmente, desea una fase específica. Utilice el siguiente filtro en su lugar.
 
-1. Busque el filtro **Revenue Stage** y arrástrelo al lienzo.
+1. Busque la **Etapa de ingresos** filtre y arrástrela al lienzo.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleccione un **Stage**.
+1. Seleccione un **Prueba**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vaya a la pestaña **Leads** para ver los resultados.
+1. Vaya a la **Posibles clientes** para ver los resultados.
 
    ![](assets/2.png)
 
