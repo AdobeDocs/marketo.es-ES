@@ -1,17 +1,16 @@
 ---
 unique-page-id: 1900567
-description: Deshacer en el Editor de correo electrónico - Documentos de marketing - Documentación del producto
-title: Deshacer en el Editor de correo electrónico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Deshacer en el Editor de correo electrónico - Documentos de Marketo - Documentación del producto
+title: Deshacer en el editor de correo electrónico
+exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-
-# Deshacer en el Editor de correo electrónico {#undo-in-the-email-editor}
+# Deshacer en el editor de correo electrónico {#undo-in-the-email-editor}
 
 1. Para deshacer un cambio, haga clic en la flecha izquierda.
 
@@ -19,7 +18,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Deshacer puede hacer hasta 50 cambios.
+>Deshacer puede volver a realizar hasta 50 cambios.
 
 1. Para rehacer un cambio, haga clic en la flecha derecha.
 
@@ -27,6 +26,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >No se puede deshacer mientras se edita texto. Una vez realizados, puede deshacer todos los cambios de la primera edición para guardarlos.
+   >No se puede deshacer al editar texto. Una vez finalizado, puede deshacer todos los cambios desde la primera edición para guardarlos.
 
-   ¡Bonito! Ahora puede deshacer y rehacer como un profesional.
+   ¡Muy bien! Ahora puede deshacer y rehacer como un profesional.
