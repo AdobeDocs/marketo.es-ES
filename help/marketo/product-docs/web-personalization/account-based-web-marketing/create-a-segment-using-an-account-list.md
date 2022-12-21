@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4720236
-description: 'Creación de un segmento mediante una lista de cuentas: Marketo Docs: documentación del producto'
+description: 'Creación de un segmento mediante una lista de cuentas: Documentos de Marketo: Documentación del producto'
 title: Crear un segmento mediante una lista de cuentas
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# Crear un segmento con una lista de cuentas {#create-a-segment-using-an-account-list}
+# Crear un segmento mediante una lista de cuentas {#create-a-segment-using-an-account-list}
 
 A continuación se explica cómo crear un segmento mediante una lista de cuentas.
 
@@ -19,7 +18,7 @@ A continuación se explica cómo crear un segmento mediante una lista de cuentas
 >
 >[Crear una nueva lista de cuentas](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Vaya a **Segments**.
+1. Vaya a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
@@ -27,7 +26,7 @@ A continuación se explica cómo crear un segmento mediante una lista de cuentas
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Introduzca un nombre para el segmento. Arrastre y suelte **Listas de cuentas** desde la sección **Firmografías**.
+1. Introduzca un nombre para el segmento. Arrastrar y soltar **Listas de cuentas** de la variable **Firmografía** para obtener más información.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,7 +38,7 @@ A continuación se explica cómo crear un segmento mediante una lista de cuentas
    >
    >Las listas de cuentas se sincronizan de ABM a Personalización web para su uso en Segmentación. Selecciónelos en la lista desplegable. La sincronización puede tardar hasta cinco minutos. Solo se sincronizará si hay una o más cuentas con nombre en la lista de cuentas.
 
-1. Haga clic en **Guardar** o en **Guardar y definir campaña** para ir a la página Campañas.
+1. Haga clic en **Guardar** o haga clic en **Guardar y definir campaña** para ir a la página Campañas .
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
