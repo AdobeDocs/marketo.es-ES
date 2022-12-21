@@ -3,7 +3,6 @@ unique-page-id: 8783563
 description: 'Vista previa de un correo electrónico: documentos de Marketo: documentación del producto'
 title: Vista previa de un correo electrónico
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
@@ -19,7 +18,7 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Pulse **Vista previa del correo electrónico**.
+1. Toque **Vista previa del correo electrónico**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
