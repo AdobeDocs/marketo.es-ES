@@ -3,7 +3,6 @@ unique-page-id: 8781845
 description: 'Explicación de los momentos de Marketo: Documentos de Marketo: Documentación del producto'
 title: Explicación de los momentos de Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
@@ -20,7 +19,7 @@ ht-degree: 0%
 >
 >Se requiere el permiso de acceso a aplicaciones móviles. Póngase en contacto con el administrador de Marketo para [actualizar su función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-## Emisiones {#streams}
+## Secuencias {#streams}
 
 Aquí están los diferentes flujos en Moments.
 
@@ -38,25 +37,25 @@ Aquí están los diferentes flujos en Moments.
 
 Bien, ahora que lo hemos sacado del camino, echemos un vistazo a Marketo Moments por teléfono.
 
-## Tres tipos de tarjetas {#three-kinds-of-cards}
+## Tres clases de tarjetas {#three-kinds-of-cards}
 
 Marketo Moments le ofrece tres tarjetas diferentes para seguir el progreso de su correo electrónico:
 
-**En cubierta** : este correo electrónico está a punto de salir. Es la última oportunidad de obtener una vista previa, enviar una muestra o, incluso, cancelarla si es necesario.
+**En cubierta** - Este correo electrónico está a punto de salir. Es la última oportunidad de obtener una vista previa, enviar una muestra o, incluso, cancelarla si es necesario.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Heart-beat**  - Hey - este correo electrónico está siendo entregado ahora! Y aquí también hay estadísticas. Adelante y compártalo.
+**Heartbeat** - Oye, este correo electrónico está siendo entregado ahora! Y aquí también hay estadísticas. Adelante y compártalo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultados** : Así fue el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
+**Resultados** - Así fue el correo electrónico. Una vez que el correo electrónico termina de ejecutarse, la tarjeta Resultados muestra la puntuación de participación y otras estadísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Flujo de momentos {#moments-stream}
 
-Cuando abre la aplicación por primera vez o toca **Momentos** en el menú, primero se muestran las tarjetas relevantes. Cada una contiene información sobre esa iniciativa de marketing específica y su rendimiento general.
+La primera vez que abre la aplicación o toca **Momentos** en el menú, primero se muestran las tarjetas relevantes. Cada una contiene información sobre esa iniciativa de marketing específica y su rendimiento general.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -72,7 +71,7 @@ Al pulsar los tres puntos, se abre un menú de acción de tarjeta.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-¡bueno! Ahora, puede hacer que algo suceda tocando:
+¡Excelente! Ahora, puede hacer que algo suceda tocando:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -95,7 +94,7 @@ La sección Más adelante muestra las actividades siguientes.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Toque **Después**.
+1. Toque **Más tarde**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -121,7 +120,7 @@ Las tarjetas Moment de Analytics muestran el rendimiento de sus correos electró
 
 1. Posibles clientes adquiridos
 1. Nuevos posibles clientes
-1. Cancelación de suscripción
+1. Cancela suscripción
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
@@ -137,7 +136,7 @@ En cada paso del camino, puede confirmar o cancelar una acción. Si cambia de op
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versiones admitidas {#supported-versions}
+## Versiones admitidas  {#supported-versions}
 
 Marketo Moments admite estas versiones del sistema operativo:
 
