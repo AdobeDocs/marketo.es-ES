@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2950545
-description: 'Añadir la política de privacidad en una aplicación social: documentos de marketing: documentación del producto'
-title: Añadir la política de privacidad en una aplicación social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Agregar la política de privacidad a una aplicación social: Marketo Docs: documentación del producto'
+title: Agregar la política de privacidad a una aplicación social
+exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Agregar la política de privacidad a una aplicación social {#add-your-privacy-policy-to-a-social-app}
 
-# Añadir su política de privacidad en una aplicación social {#add-your-privacy-policy-to-a-social-app}
-
-Al crear una aplicación social, puede agregar un vínculo a la política de privacidad de su compañía.
+Al crear una aplicación social, puede agregar un vínculo a la política de privacidad de su empresa.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -27,16 +26,16 @@ Al crear una aplicación social, puede agregar un vínculo a la política de pri
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
-1. Para agregar un vínculo a su política de privacidad, seleccione la casilla de verificación, edite el título e introduzca la dirección URL.
+1. Para agregar un vínculo a la política de privacidad, seleccione la casilla de verificación, edite el título e introduzca la dirección URL.
 
    ![](assets/image2014-9-22-10-3a51-3a12.png)
 
    >[!NOTE]
    >
-   >En esta pantalla, también puede agregar un vínculo a las reglas (términos y condiciones) de la oferta. Consulte [Creación de una Oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >En esta pantalla, también puede añadir un vínculo a las reglas (términos y condiciones) de la oferta. Consulte [Creación de una oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
-1. El vínculo a la política de privacidad (y el vínculo a las reglas) aparecerán en la parte inferior de las pantallas de mensajes compartidos. Por ejemplo:
+1. El vínculo de política de privacidad (y el vínculo de reglas) aparecerán en la parte inferior de las pantallas de mensajes compartidos. Por ejemplo:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-A continuación, puede [configurar el registro social y compartir el flujo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) de la aplicación.
+A continuación, puede [configuración del registro social y el flujo de recursos compartidos](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) de su aplicación.
