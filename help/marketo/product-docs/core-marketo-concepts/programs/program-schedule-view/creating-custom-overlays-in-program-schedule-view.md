@@ -3,7 +3,6 @@ unique-page-id: 1147251
 description: Creación de superposiciones personalizadas en la vista de programación del programa - Documentos de Marketo - Documentación del producto
 title: Creación de superposiciones personalizadas en la vista de programación del programa
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Puede crear superposiciones personalizadas para ver las entradas relevantes para sus necesidades.
 
-1. Haga clic en la lista desplegable **Agenda**.
+1. Haga clic en el **Agenda** lista desplegable.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Seleccione **Superposiciones**.
+1. Select **Superposiciones**.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +26,7 @@ Puede crear superposiciones personalizadas para ver las entradas relevantes para
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. También puede filtrar por [etiquetas de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. También puede filtrar por [etiquetas del programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
