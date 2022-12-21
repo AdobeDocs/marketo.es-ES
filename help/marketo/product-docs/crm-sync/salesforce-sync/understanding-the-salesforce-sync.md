@@ -3,11 +3,10 @@ unique-page-id: 4719283
 description: 'Explicación de la sincronización de Salesforce: Marketo Docs: Documentación del producto'
 title: Explicación de la sincronización de Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,7 +28,7 @@ La sincronización entre Salesforce y Marketo solo es bidireccional para posible
 
 ## ¿Qué se sincroniza entre Marketo y Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Posibles clientes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
 * [Contactos](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
 * [Cuentas](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
 * [Usuarios](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
@@ -40,6 +39,6 @@ La sincronización entre Salesforce y Marketo solo es bidireccional para posible
 
 >[!NOTE]
 >
->Las [credenciales introducidas en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar los datos. Solo se incluirán los datos a los que tengan acceso esas credenciales.
+>La variable [credenciales introducidas en Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) se utilizan para sincronizar datos. Solo se incluirán los datos a los que tengan acceso esas credenciales.
 
 La sincronización de Marketo con Salesforce es la más poderosa de su tipo en el mundo. Parece magia; se realiza un cambio y el otro sistema está actualizado próximamente.
