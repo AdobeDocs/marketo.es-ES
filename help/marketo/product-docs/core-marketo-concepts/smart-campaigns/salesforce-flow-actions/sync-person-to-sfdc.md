@@ -3,11 +3,10 @@ unique-page-id: 1147027
 description: Sincronizar persona con SFDC - Marketo Docs - Documentación del producto
 title: Sincronizar persona con SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 >
 >Solo disponible cuando se integra con Salesforce.
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Este paso de flujo insertará personas creadas por Marketo como posibles clientes en Salesforce CRM.
 
