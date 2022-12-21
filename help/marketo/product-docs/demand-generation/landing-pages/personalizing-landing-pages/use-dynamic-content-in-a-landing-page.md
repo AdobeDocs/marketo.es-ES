@@ -1,26 +1,25 @@
 ---
 unique-page-id: 2359532
-description: Usar contenido dinámico en una Página de aterrizaje - Documentos de marketing - Documentación del producto
-title: Uso de contenido dinámico en una Página de aterrizaje
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Uso de contenido dinámico en una página de aterrizaje: Documentos de Marketo: Documentación del producto'
+title: Uso de contenido dinámico en una página de aterrizaje
+exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
-# Usar contenido dinámico en una Página de aterrizaje {#use-dynamic-content-in-a-landing-page}
+# Uso de contenido dinámico en una página de aterrizaje {#use-dynamic-content-in-a-landing-page}
 
 >[!PREREQUISITES]
 >
 >* [Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Creación de una Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Añadir un nuevo formulario en una Página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Crear una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Agregar un nuevo formulario a una página de aterrizaje de forma libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
-El uso de contenido dinámico en páginas de aterrizaje involucra a las personas con información segmentada.
+El uso de contenido dinámico en páginas de aterrizaje implica a personas con información de destino.
 
 ## Añadir segmentación {#add-segmentation}
 
@@ -28,7 +27,7 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
 
    ![](assets/login-marketing-activities.png)
 
-   Haga clic en la Página de aterrizaje y, a continuación, en Editar borrador.
+   Haga clic en la página de aterrizaje y, a continuación, en Editar borrador.
 
    ![](assets/landingpageeditdraft.jpg)
 
@@ -40,21 +39,21 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   La segmentación y sus segmentos aparecen en Dinámica a la derecha.
+   La segmentación y sus segmentos aparecen en Dynamic , a la derecha.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Todos los elementos de página de aterrizaje son estáticos de forma predeterminada.
+   >Todos los elementos de la página de aterrizaje son estáticos de forma predeterminada.
 
-## Hacer dinámico el elemento {#make-element-dynamic}
+## Convertir elemento en dinámico {#make-element-dynamic}
 
-1. Arrastre y suelte los elementos de Estático a **Dinámico**.
+1. Arrastrar y soltar elementos de Estático a **Dinámica**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. También puede convertir elementos estáticos o dinámicos desde el elemento **Configuración**.
+1. También puede hacer que los elementos sean estáticos o dinámicos desde el elemento **Configuración**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
@@ -64,13 +63,13 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
-1. Una marca de verificación verde indica el contenido específico del segmento. Un espacio en blanco indica el contenido del segmento predeterminado.
+1. Una marca de verificación verde indica el contenido específico del segmento. Un espacio en blanco indica el contenido predeterminado del segmento.
 
    ![](assets/image2015-5-21-12-3a44-3a24.png)
 
    >[!CAUTION]
    >
-   >Los cambios en el bloque de contenido de segmento predeterminado se aplican a todos los segmentos.
+   >Los cambios en el bloque de contenido del segmento predeterminado se aplican a todos los segmentos.
 
    >[!TIP]
    >
@@ -80,6 +79,6 @@ El uso de contenido dinámico en páginas de aterrizaje involucra a las personas
 
 >[!MORELIKETHIS]
 >
->* [Previsualización de una Página de aterrizaje con contenido dinámico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Vista previa de una página de aterrizaje con contenido dinámico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [Uso de contenido dinámico en un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
