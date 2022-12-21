@@ -35,7 +35,7 @@ El envío masivo de correos electrónicos es una buena forma de acelerar la part
   </tr> 
   <tr> 
    <td>Correo electrónico del grupo</td> 
-   <td>1.000</td> 
+   <td>1,000</td> 
    <td>Seleccione un grupo y haga clic en el botón "Acciones de grupo" o escriba el nombre del grupo en el campo Para.</td> 
    <td>Sí</td> 
    <td>No</td> 
