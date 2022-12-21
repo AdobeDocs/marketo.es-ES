@@ -15,7 +15,7 @@ Las siguientes funciones están incluidas en la versión del 21 de agosto. Consu
 
 >[!AVAILABILITY]
 >
->Funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage del Adobe para obtener más información.
+>Funciones denotadas por una estrella (![](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con su representante de Adobe Marketo Engage para obtener más información.
 
 **_Versiones trimestrales_**
 
@@ -41,7 +41,7 @@ Las siguientes funciones se lanzarán en **20 de agosto de 2021**.
 
 Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-## Conocimiento de ventas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(estrella)](assets/yellow-star.png)
 
