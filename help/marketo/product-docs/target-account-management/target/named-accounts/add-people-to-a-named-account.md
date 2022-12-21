@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11378816
-description: 'Agregar personas a una cuenta con nombre: Marketo Docs: documentación del producto'
+description: 'Agregar personas a una cuenta con nombre: Documentos de Marketo: Documentación del producto'
 title: Agregar personas a una cuenta con nombre
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Agregar personas a una cuenta con nombre {#add-people-to-a-named-account}
 
@@ -17,7 +16,7 @@ Existen tres formas diferentes de añadir personas manualmente a una cuenta con 
 
 ## Acción de flujo único {#single-flow-action}
 
-1. Haga clic en **Database**.
+1. Haga clic en **Base de datos**.
 
    ![](assets/one-2.png)
 
@@ -25,11 +24,11 @@ Existen tres formas diferentes de añadir personas manualmente a una cuenta con 
 
    ![](assets/two.png)
 
-1. Haga clic en la persona para seleccionarla. Haga clic en la lista desplegable **Acciones de persona**, haga clic en **Marketing** y seleccione **Agregar a cuenta con nombre**.
+1. Haga clic en la persona para seleccionarla. Haga clic en el **Acciones de persona** desplegable, haga clic en **Marketing** y seleccione **Agregar a la cuenta con nombre**.
 
    ![](assets/three.png)
 
-1. Haga clic en la lista desplegable **Cuenta con nombre**, seleccione la cuenta con nombre que desee y haga clic en **Ejecutar ahora**.
+1. Haga clic en el **Cuenta con nombre** , seleccione la cuenta con nombre que desee y haga clic en **Ejecutar ahora**.
 
    ![](assets/four.png)
 
@@ -47,15 +46,15 @@ Existen tres formas diferentes de añadir personas manualmente a una cuenta con 
 
    ![](assets/seven.png)
 
-1. Haga clic en la lista desplegable **Cuenta con nombre** y seleccione la cuenta con nombre que desee.
+1. Haga clic en el **Cuenta con nombre** y seleccione la cuenta con nombre que desee.
 
    ![](assets/eight.png)
 
    ¡Eso es todo! A continuación, programe (o active) la campaña inteligente y el paso de flujo empezará a añadir personas cualificadas a la cuenta designada con nombre.
 
-## Importación de lista {#list-import}
+## Lista de importación {#list-import}
 
-1. Seleccione la lista, haga clic en la lista desplegable **List Actions** y seleccione **Import List**.
+1. Seleccione la lista y haga clic en el botón **Acciones de lista** y seleccione **Lista de importación**.
 
    ![](assets/nine.png)
 
@@ -63,7 +62,7 @@ Existen tres formas diferentes de añadir personas manualmente a una cuenta con 
 
    ![](assets/ten.png)
 
-1. Asigne los campos que desee. Asegúrese de que el campo **Named Account** esté asignado.
+1. Asigne los campos que desee. Asegúrese de que la variable **Cuenta con nombre** campo está asignado.
 
    ![](assets/eleven.png)
 
