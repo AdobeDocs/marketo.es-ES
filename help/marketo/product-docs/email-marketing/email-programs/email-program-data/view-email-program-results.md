@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2951167
-description: Resultados del Programa de correo electrónico de vista - Documentos de marketing - Documentación del producto
-title: Resultados del Programa de correo electrónico de vista
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: Ver resultados del programa de correo electrónico - Documentos de Marketo - Documentación del producto
+title: Ver resultados del programa de correo electrónico
+exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# Ver resultados del programa de correo electrónico {#view-email-program-results}
 
-# Resultados del Programa de correo electrónico de vista {#view-email-program-results}
-
-Al igual que la ficha Resultados de campañas inteligentes, puede ver la misma información en los programas de correo electrónico.
+Al igual que la pestaña Resultados de las campañas inteligentes, puede ver la misma información en los programas de correo electrónico.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -25,13 +24,13 @@ Al igual que la ficha Resultados de campañas inteligentes, puede ver la misma i
 
    >[!NOTE]
    >
-   >Si el programa de correo electrónico ya se ha ejecutado, se le dirigirá directamente al panel de programa de correo electrónico.
+   >Si el programa de correo electrónico ya se ha ejecutado, se le llevará directamente al panel del programa de correo electrónico.
 
-1. En **Vista**, seleccione **Panel de control de Campaign**.
+1. En **Ver**, seleccione **Panel de control de Campaign**.
 
    ![](assets/controlpanelview.jpg)
 
-1. En el mosaico **Audiencia**, haga clic en **Resultados de la Vista**.
+1. En el **Audiencia** mosaico, haga clic en **Ver resultados**.
 
    ![](assets/audiencetile.jpg)
 
