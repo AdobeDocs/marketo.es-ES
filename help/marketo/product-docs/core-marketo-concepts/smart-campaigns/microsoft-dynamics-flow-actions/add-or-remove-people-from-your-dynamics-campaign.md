@@ -2,7 +2,6 @@
 description: Agregar o eliminar personas de su campaña de Dynamics Campaign - Documentos de Marketo - Documentación del producto
 title: Agregar o quitar personas de la campaña de Dynamics
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '320'
@@ -10,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# Agregar o eliminar personas de su campaña de Dynamics {#add-or-remove-people-from-your-dynamics-campaign}
+# Agregar o quitar personas de la campaña de Dynamics {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Agregar a Dynamics Campaign {#add-to-dynamics-campaign}
 
@@ -38,7 +37,7 @@ La asociación de estas Listas de marketing generadas por Marketo a otras campa�
 
 ## Eliminar de Dynamics Campaign {#remove-from-dynamics-campaign}
 
-Este paso de flujo se puede utilizar en Marketo Smart Campaigns para eliminar personas de una campaña de Microsoft. Esto elimina únicamente los posibles clientes de una campaña que se hayan agregado anteriormente a la campaña a través de la acción de flujo &quot;Añadido a Microsoft Campaign&quot;.
+Este paso de flujo se puede utilizar en Marketo Smart Campaigns para eliminar personas de una campaña de Microsoft. Esto elimina únicamente los posibles clientes de una campaña que se hayan añadido anteriormente a la campaña a través de la acción de flujo &quot;Añadido a Microsoft Campaign&quot;.
 
 >[!NOTE]
 >
