@@ -3,7 +3,6 @@ unique-page-id: 1147148
 description: 'Eliminación de un programa: Documentos de Marketo: Documentación del producto'
 title: Eliminar un programa
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -27,7 +26,7 @@ Puede archivar un programa, pero a veces solo quiere deshacerse de él permanent
 
 >[!TIP]
 >
->**Archivar** programas mantiene los datos del programa, pero lo pone fuera de su camino. Seleccione esa opción y haga clic en **Siguiente** para ver más detalles sobre el archivado.
+>**Archivado de programas** mantiene los datos del programa, pero lo pone fuera de su camino. Seleccione esa opción y haga clic en **Siguiente** para ver más detalles sobre el archivado.
 
 ![](assets/2017-05-05-15-04-15.png)
 
