@@ -3,7 +3,6 @@ unique-page-id: 7504770
 description: Ver la URL del servicio de organización - Documentos de Marketo - Documentación del producto
 title: Ver la URL del servicio de organización
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
@@ -19,15 +18,15 @@ Marketo necesita la URL del servicio de organización para sincronizar con insta
 
    ![](assets/one.png)
 
-1. Haga clic en **Settings** y seleccione **Customogies**.
+1. Haga clic en **Configuración** y seleccione **Personalizaciones**.
 
    ![](assets/two.png)
 
-1. Haga clic en **Developer Resources**.
+1. Haga clic en **Recursos para desarrolladores**.
 
    ![](assets/three.png)
 
-1. La URL del servicio de organización se encuentra en **Service Endpoints**.
+1. La URL del servicio de organización se encuentra en **Puntos finales de servicio**.
 
    ![](assets/four.png)
 
