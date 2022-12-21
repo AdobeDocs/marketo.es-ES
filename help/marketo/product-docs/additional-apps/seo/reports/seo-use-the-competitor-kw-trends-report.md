@@ -3,11 +3,10 @@ unique-page-id: 2949270
 description: SEO - Uso del informe de tendencias de KW de la competencia - Documentos de Marketo - Documentación del producto
 title: 'SEO: usar el informe de tendencias de KW de la competencia'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,11 +16,11 @@ En este informe, puede ver cómo se clasifican usted y sus competidores en térm
 
 ## Buscar informes {#find-reports}
 
-1. Vaya a **Reports**.
+1. Vaya a **Informes**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Haga clic en **Tendencias de clasificación KW competitiva**.
+1. Haga clic en **Tendencias de clasificación KW competitivas**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -44,11 +43,11 @@ Este gráfico puede mostrar qué porcentaje de palabras clave se clasifican en u
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Haga clic en la lista desplegable **Rango** para elegir para qué rango desea ver las palabras clave.
+1. Haga clic en el **Clasificación** para elegir para qué rango de clasificación desea ver las palabras clave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
-## Exportación de datos {#exporting-data}
+## Exportación de datos  {#exporting-data}
 
 >[!TIP]
 >
