@@ -24,7 +24,7 @@ La personalización web ahora admite varios espacios de trabajo.
 
 ## Participación de ventas de Marketo {#marketo-sales-engage}
 
-* **Compatibilidad** con relámpagos SFDC: Los usuarios que migran a Lightning o que actualmente lo utilicen pueden aprovechar MSE para lograr una participación más inteligente en el recorrido del comprador.
+* **Compatibilidad con Lightning SFDC**: Los usuarios que migran a Lightning o que actualmente lo utilicen pueden aprovechar MSE para lograr una participación más inteligente en el recorrido del comprador.
 
 * **Compatibilidad ampliada: Microsoft Office**
 
@@ -37,7 +37,7 @@ La personalización web ahora admite varios espacios de trabajo.
 
 ## Marketo Sky {#marketo-sky}
 
-Para obtener más información y actualizaciones, consulte nuestras [notas de la versión de Sky](https://help.marketo.com).
+Para obtener más información y actualizaciones, consulte nuestra [Notas de la versión de Sky](https://help.marketo.com).
 
 * **Actualizaciones del sistema de diseño**
 
@@ -50,12 +50,12 @@ Para obtener más información y actualizaciones, consulte nuestras [notas de la
 
    * Realice acciones específicas (es decir, inicie nuevos programas y campañas inteligentes) y vea información importante sobre los programas actuales, como programas y campañas programados para ejecutarse hoy, programas y recursos actualizados recientemente, y el número total de campañas de déclencheur activas.
 
-* **Actualizaciones** de Design Studio: Hemos reinventado la experiencia de Design Studio para ayudarle a moverse más rápido y ser más productivo.
+* **Actualizaciones de Design Studio**: Hemos reinventado la experiencia de Design Studio para ayudarle a moverse más rápido y ser más productivo.
 * Página principal de Design Studio: Cree nuevos recursos, arrastre y suelte imágenes y archivos y administre todos los recursos existentes.
 * Vistas de lista de Design Studio: Los usuarios ahora pueden ver plantillas de página de aterrizaje y plantillas de correo electrónico en formato de vista de lista, lo que permite una navegación rápida y acciones masivas en un único tipo de recurso.
 * Páginas de detalles de recursos de Design Studio: Ahorre tiempo y dolores de cabeza al ver, organizar y realizar acciones masivas en todos los recursos en un solo lugar.
-* **Programas predeterminados ahora disponibles en el Marketo Sky**: Marketo Sky ahora admite programas predeterminados, el versátil estilo de programa que le permite crear cualquier campaña que pueda imaginar.
-* **Programas de correo electrónico - Fase 1**: Ahora puede ver los programas de correo electrónico en Sky. Eche un vistazo al nuevo diseño y [indíquenos lo que piensa](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas predeterminados ahora disponibles en Marketo Sky**: Marketo Sky ahora admite programas predeterminados, el versátil estilo de programa que le permite crear cualquier campaña que pueda imaginar.
+* **Programas de correo electrónico: fase 1**: Ahora puede ver los programas de correo electrónico en Sky. Eche un vistazo al nuevo diseño y [háganos saber lo que piensa](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Análisis {#analytics}
 
@@ -82,8 +82,8 @@ Para obtener más información y actualizaciones, consulte nuestras [notas de la
    * Ajuste de escala a ajuste: El gráfico de barras del tablero principal es más fácil de leer para ayudar a comparar el rendimiento del programa a lo largo del tiempo.
    * Icono de alertas: El icono de nuevas alertas muestra todas las alertas activas relacionadas con los problemas de calidad de datos y las notificaciones de configuración.
 
-* **Participación por fecha** de actividad: Los usuarios pueden seleccionar para ver las métricas de participación por fecha de actividad o período de coste.
-* **Filtros** de cuenta con nombre ABM: Filtre los paneles Canalización e Ingresos por cuentas con nombre específicas.
+* **Participación por fecha de actividad**: Los usuarios pueden seleccionar para ver las métricas de participación por fecha de actividad o período de coste.
+* **Filtros de cuenta con nombre ABM**: Filtre los paneles Canalización e Ingresos por cuentas con nombre específicas.
 
 ## Redes de publicidad {#ad-networks}
 
