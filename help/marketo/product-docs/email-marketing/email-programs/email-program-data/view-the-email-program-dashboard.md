@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359469
-description: Vista del Panel del Programa de correo electrónico - Documentos de marketing - Documentación del producto
-title: Vista del Panel del Programa de correo electrónico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 'Ver el panel del programa de correo electrónico: Documentos de Marketo: Documentación del producto'
+title: Ver el panel del programa de correo electrónico
+exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
-# Vista del Panel de Programa de correo electrónico {#view-the-email-program-dashboard}
+# Ver el panel del programa de correo electrónico {#view-the-email-program-dashboard}
 
 Compruebe el rendimiento del programa de correo electrónico (con o sin una prueba A/B) con este panel.
 
-## Seleccione su Programa de correo electrónico {#select-your-email-program}
+## Seleccione su programa de correo electrónico {#select-your-email-program}
 
 1. Vaya a **Actividades de marketing**.
 
@@ -27,26 +26,26 @@ Compruebe el rendimiento del programa de correo electrónico (con o sin una prue
 
    >[!CAUTION]
    >
-   >Si la prueba A/B o el programa de correo electrónico aún no se han iniciado, no verá ningún panel.
+   >Si la prueba A/B o el programa de correo electrónico aún no se han iniciado, no verá un panel.
 
-## Vista de prueba A/B de Programa de correo electrónico {#email-program-a-b-test-view}
+## Vista de prueba A/B del programa de correo electrónico {#email-program-a-b-test-view}
 
-Si ha agregado una prueba A/B al programa de correo electrónico y la prueba se está ejecutando, verá lo siguiente:
+Si agregó una prueba A/B al programa de correo electrónico y la prueba se está ejecutando, verá lo siguiente:
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## Vista de Programa de correo electrónico {#email-program-view}
+## Vista del programa de correo electrónico {#email-program-view}
 
-Como alternativa, si no agregó una prueba A/B *o* si la prueba ha finalizado, se mostrará lo siguiente:
+Alternativamente, si no agregó una prueba A/B *o* si la prueba ha finalizado, se debería mostrar lo siguiente:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
 >[!TIP]
 >
->Experimente situando el cursor sobre las utilidades del gráfico. Le mostrará información adicional.
+>Experimente manteniendo el cursor sobre los widgets de gráficos. Muestra información adicional.
 
 >[!MORELIKETHIS]
 >
->* [Usar el Panel de Programa de correo electrónico - Vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Usar el Panel de Programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Uso del panel del programa de correo electrónico: vista de prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Uso del panel del programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
