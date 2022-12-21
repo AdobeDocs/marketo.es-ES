@@ -1,10 +1,11 @@
 ---
 description: Informes - Documentos de Marketo - Documentación del producto
 title: Informes
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -14,12 +15,12 @@ En la pestaña Informes , vea los datos de los últimos 90 días. Cada categorí
 
 <table>
  <tr>
-  <td><strong>Total activado</strong></td>
+  <td><strong>Total activados</strong></td>
   <td>Incrementa cada vez que un visitante se califica para/se muestra en un cuadro de diálogo.
 </td>
  </tr>
  <tr>
-  <td><strong>Comprometido</strong></td>
+  <td><strong>En contacto</strong></td>
   <td>Incrementa cada vez que un visitante hace clic en el anclaje de bots de chat para abrir el Diálogo.</td>
  </tr>
  <tr>
@@ -31,11 +32,11 @@ En la pestaña Informes , vea los datos de los últimos 90 días. Cada categorí
   <td>Incrementa cada vez que un visitante proporciona una dirección de correo electrónico válida en un flujo de diálogo.</td>
  </tr>
  <tr>
-  <td><strong>Reuniones reservadas</strong></td>
+  <td><strong>Reuniones planificadas</strong></td>
   <td>Incrementa cada vez que un visitante programa correctamente una cita a través del bot de chat.</td>
  </tr>
  <tr>
-  <td><strong>Objetivos alcanzados</strong></td>
+  <td><strong>Metas alcanzadas</strong></td>
   <td>Incrementa cada vez que un visitante alcanza un objetivo en cualquier flujo de diálogo.</td>
  </tr>
 </table>
