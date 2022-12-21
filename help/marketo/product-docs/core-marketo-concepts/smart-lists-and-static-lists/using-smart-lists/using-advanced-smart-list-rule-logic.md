@@ -3,7 +3,6 @@ unique-page-id: 1146901
 description: 'Uso de la lógica de regla de lista inteligente avanzada: Documentos de Marketo: Documentación del producto'
 title: Uso de la lógica de regla de lista inteligente avanzada
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
@@ -27,19 +26,19 @@ Puede encontrar las personas exactas que necesita aplicando la lógica de regla 
 
 ## Añadir lógica a una lista inteligente {#add-logic-to-a-smart-list}
 
-De forma predeterminada, la lista inteligente encuentra las personas que coinciden con los filtros **ALL** (filtros 1 _y_ 2 _y_ 3). Puede cambiar la lógica de regla para encontrar personas que coincidan con **ANY** de los filtros definidos (filtros 1 _o_ 2 _o_ 3), o usar filtros avanzados (filtros 1 _y_ 2 _o_ 3).
+De forma predeterminada, la lista inteligente encuentra las personas que coinciden con **ALL** filtros (filtros 1 _y_ 2 _y_ 3). Puede cambiar la lógica de regla para encontrar personas que coincidan con **CUALQUIER** de los filtros definidos (filtros 1 _o_ 2 _o_ 3), o usar filtros avanzados (filtros 1 _y_ 2 _o_ 3).
 
 En este ejemplo, supongamos que desea encontrar personas en California _y_ con una puntuación de al menos 50 puntos _o_ con el estado &quot;Ventas calificadas&quot;.
 
-1. Seleccione **Usar filtros avanzados** en la lista desplegable.
+1. Select **Usar filtros avanzados** en la lista desplegable .
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >El uso de filtros **Advanced** reduce la necesidad de crear listas inteligentes con el filtro Miembro de la lista inteligente . Esto ayuda a optimizar el rendimiento.
+   >Uso **Avanzadas** reduce la necesidad de crear listas inteligentes con el filtro Miembro de lista inteligente . Esto ayuda a optimizar el rendimiento.
 
-1. El cuadro de texto **Advanced filters** mostrará &quot;y&quot; como el valor predeterminado entre todos los filtros.
+1. La variable **Filtros avanzados** el cuadro de texto mostrará &quot;y&quot; como el valor predeterminado entre todos los filtros.
 
    ![](assets/two-2.png)
 
@@ -55,7 +54,7 @@ En este ejemplo, supongamos que desea encontrar personas en California _y_ con u
 
    ![](assets/four-1.png)
 
-## Utilice Paréntesis Para Combinar &quot;And&quot; Y &quot;Or {#use-parentheses-when-mixing-and-and-or}
+## Utilice Paréntesis Para Combinar &quot;And&quot; Y &quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
 La combinación de las lógicas &quot;y&quot; y &quot;o&quot; requiere paréntesis para aclarar su intención.
 
