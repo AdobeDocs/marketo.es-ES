@@ -3,7 +3,6 @@ unique-page-id: 10094188
 description: Aprobar un objeto personalizado - Documentos de Marketo - Documentación del producto
 title: Aprobar un objeto personalizado
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
@@ -19,11 +18,11 @@ Debe aprobar un objeto personalizado para poder utilizarlo. El proceso es ligera
 
 Ha creado un objeto personalizado completamente nuevo. Así es como aprobarlo.
 
-1. En Administración, haga clic en **Marketo Custom Objects** y seleccione un objeto que esté en estado de borrador.
+1. En Administración, haga clic en **Objetos personalizados de Marketo** y seleccione un objeto que esté en estado borrador.
 
    ![](assets/one.png)
 
-1. Haga clic en la lista desplegable **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
+1. Haga clic en el **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
 
    ![](assets/two.png)
 
@@ -33,11 +32,11 @@ Ha creado un objeto personalizado completamente nuevo. Así es como aprobarlo.
 
    >[!NOTE]
    >
-   >Un objeto personalizado utilizado en una estructura _uno a varios_ debe tener al menos un campo de deduplicación, un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado que se va a aprobar.
+   >Un objeto personalizado que se utiliza en un _estructura de uno a varios_ debe tener al menos un campo de deduplicación, un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado para ser aprobado.
    >
-   >Un objeto personalizado utilizado en una _estructura de varios a varios_ **no necesita** un campo de vínculo, un nombre de objeto vinculado o un nombre de campo vinculado al aprobarlo (ya que residen en el objeto intermedio).
+   >Un objeto personalizado que se utiliza en un _estructura &quot;varios a varios&quot;_ **no** necesita un campo de vínculo, un nombre de objeto vinculado o un nombre de campo vinculado al aprobarlo (ya que residen en el objeto intermedio).
    >
-   >Un objeto personalizado utilizado como _objeto intermedio_ requiere un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado, pero **no** requiere un campo de deduplicación.
+   >Un objeto personalizado que se utiliza como _objeto intermediario_ requiere un campo de vínculo, un nombre de objeto vinculado y un nombre de campo vinculado, pero **no** requieren un campo de deduplicación.
    >
    >Consulte [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obtener más información.
 
@@ -51,7 +50,7 @@ Después de editar un objeto personalizado aprobado, debe aprobar el borrador pa
 
    ![](assets/four.png)
 
-1. Cuando esté listo para aprobar el borrador, haga clic en la lista desplegable **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
+1. Cuando esté listo para aprobar el borrador, haga clic en el **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
 
    ![](assets/five-1.png)
 
