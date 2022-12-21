@@ -60,7 +60,7 @@ Las organizaciones ahora tienen la capacidad de admitir un inicio de sesión sin
 
 Los editores de correo electrónico y de página de aterrizaje se han rediseñado con una interfaz más atractiva, una navegación intuitiva y una experiencia de usuario considerablemente mejorada, que incluye:
 
-Una vista de texto y HTML en paralelo
+Un HTML en paralelo y una vista de texto
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
