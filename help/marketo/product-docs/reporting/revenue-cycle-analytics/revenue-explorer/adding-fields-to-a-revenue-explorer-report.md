@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7504383
-description: Añadir campos a un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
-title: Añadir campos en un informe del Explorador de ingresos
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: 'Adición de campos a un informe del Explorador de ingresos: Documentos de Marketo: Documentación del producto'
+title: Adición de campos a un informe del Explorador de ingresos
+exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
+# Adición de campos a un informe del Explorador de ingresos {#adding-fields-to-a-revenue-explorer-report}
 
-# Añadir campos en un informe del Explorador de ingresos {#adding-fields-to-a-revenue-explorer-report}
-
-Personalice los informes del explorador de ingresos arrastrando y soltando los campos de métrica y dimensión en el lienzo.
+Personalice los informes del explorador de ingresos arrastrando y soltando campos de dimensión y métrica en el lienzo.
 
 <table> 
  <tbody> 
@@ -22,17 +21,17 @@ Personalice los informes del explorador de ingresos arrastrando y soltando los c
    <th>Descripción</th> 
   </tr> 
   <tr> 
-   <td>Campo amarillo o Dimension</td> 
-   <td><p>Los campos amarillos son las dimensiones (filas y columnas) del informe.</p><p>Por ejemplo: puede configurar un informe que muestre el estado del posible cliente o la fecha de creación en columnas.</p></td> 
+   <td>Campo o Dimension amarillo</td> 
+   <td><p>Los campos amarillos son las dimensiones (filas y columnas) del informe.</p><p>Por ejemplo, puede configurar un informe que muestre el estado del posible cliente o la fecha de creación en columnas.</p></td> 
   </tr> 
   <tr> 
-   <td>Campo azul o medida</td> 
-   <td><p>Los campos azules son métricas que se analizan en los datos.</p><p>Por ejemplo: puede ser la puntuación de posible cliente promedio para los posibles clientes o la cantidad de días que un posible cliente tuvo una oportunidad.</p></td> 
+   <td>Campo azul o Medida</td> 
+   <td><p>Los campos azules son métricas que se analizan en sus datos.</p><p>Por ejemplo, podría ser la puntuación media de posibles clientes para los posibles clientes o el número de días que un posible cliente tuvo una oportunidad.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Busque los campos amarillos que desee utilizar y arrástrelos a Filas.
+1. Busque los campos amarillos que desee usar y arrástrelos a Filas.
 
    ![](assets/image2015-3-24-15-3a22-3a34.png)
 
