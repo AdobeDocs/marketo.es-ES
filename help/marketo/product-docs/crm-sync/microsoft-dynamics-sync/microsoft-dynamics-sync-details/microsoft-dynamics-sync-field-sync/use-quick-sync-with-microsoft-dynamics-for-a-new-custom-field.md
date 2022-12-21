@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10098379
-description: Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado - Documentos de Marketo - Documentación del producto
+description: 'Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado: Marketo Docs: documentación del producto'
 title: Usar la sincronización rápida con Microsoft Dynamics para un nuevo campo personalizado
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
@@ -23,7 +22,7 @@ La sincronización rápida puede sincronizar valores nulos. Por ejemplo, si est�
 
 A continuación se explica cómo utilizar la sincronización rápida para volver a sincronizar los campos nuevos.
 
-1. En Marketo, haga clic en **Admin**.
+1. En Marketo, haga clic en **Administrador**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -35,7 +34,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Seleccione los campos para sincronizar rápidamente y haga clic en **Guardar**.
+1. Seleccione los campos que desea sincronizar rápidamente y haga clic en **Guardar**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -67,7 +66,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Elija **Actualizado** y seleccione un intervalo de fechas utilizando los selectores de fechas. Haga clic en **Guardar**.
+1. Choose **Actualizado** y seleccione un intervalo de fechas utilizando los selectores de fechas. Haga clic en **Guardar**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -77,7 +76,7 @@ A continuación se explica cómo utilizar la sincronización rápida para volver
 
 En el improbable caso de que un campo de Dynamics y Marketo no esté sincronizado, hay una forma rápida y sencilla de resincronizarlos.
 
-1. Anule la selección del campo y haga clic en **Save**.
+1. Anule la selección del campo y haga clic en **Guardar**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
