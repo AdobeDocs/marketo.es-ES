@@ -3,7 +3,6 @@ unique-page-id: 1147247
 description: Ocultar y mostrar tipos de entrada personalizados - Documentos de Marketo - Documentación del producto
 title: Ocultar y mostrar tipos de entrada personalizados
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Los tipos de entrada personalizados se pueden ocultar en la sección Administración . Una vez oculta, el tipo de entrada ya no se muestra como opción.
 
-## Ocultar un tipo de entrada personalizada {#hide-a-custom-entry-type}
+## Ocultar un tipo de entrada personalizado {#hide-a-custom-entry-type}
 
-1. Vaya a la sección **Admin** y haga clic en **Calendar Entry** **Types**.
+1. Vaya a la **Administrador** y haga clic en **Entrada de calendario** **Tipos**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
