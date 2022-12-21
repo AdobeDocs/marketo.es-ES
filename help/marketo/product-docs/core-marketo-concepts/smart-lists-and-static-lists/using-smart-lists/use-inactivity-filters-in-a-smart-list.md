@@ -3,7 +3,6 @@ unique-page-id: 7511477
 description: Uso de filtros de inactividad en una lista inteligente - Documentos de Marketo - Documentación del producto
 title: Usar filtros de inactividad en una lista inteligente
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Usar filtros de inactividad en una lista inteligente {#use-inactivity-filters-in-a-smart-list}
 
-¿Sabía que puede buscar personas en una lista inteligente que *no* hayan hecho algo? Consulte estos filtros de inactividad.
+¿Sabía que puede buscar personas en una lista inteligente que *no* ¿hacer algo? Consulte estos filtros de inactividad.
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleccione la lista inteligente que desea editar y, a continuación, haga clic en la pestaña **Smart List**.
+1. Seleccione la lista inteligente que desea editar y, a continuación, haga clic en el **Lista inteligente** pestaña .
 
    ![](assets/smartlist-choose.png)
 
@@ -29,8 +28,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Hay muchos filtros en la carpeta **Inactivity Filters**. Busque **Not** y desprotéjelas.
+   >Hay muchos filtros en la variable **Filtros de inactividad** carpeta. Buscar **Not** y compruébelas.
 
-1. Seleccione el operador **is any** . Esto encontrará todas las personas que no han visitado ninguna página en los últimos 30 días.
+1. Seleccione el **es cualquiera** operador. Esto encontrará todas las personas que no han visitado ninguna página en los últimos 30 días.
 
    ![](assets/mysmartlist-people.jpg)
