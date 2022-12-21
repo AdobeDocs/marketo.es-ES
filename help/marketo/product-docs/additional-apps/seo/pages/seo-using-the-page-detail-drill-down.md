@@ -3,7 +3,6 @@ unique-page-id: 2949186
 description: SEO - Uso del desglose de detalles de la página - Documentos de Marketo - Documentación del producto
 title: 'SEO: Uso del desglose de detalles de página'
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -44,9 +43,9 @@ Puede ver mucha información sobre las páginas mediante el desglose detallado d
 | Cantidad de &quot;Me gusta&quot; de facebook | Número de veces que se ha puesto &quot;Me gusta&quot; en Facebook a este recurso compartido de página. |
 | Clics de facebook | Número de clics del recurso compartido de Facebook. |
 
-## Palabras clave para las que la página está optimizada {#keyword-s-that-page-is-optimized-for}
+## Palabras clave para las que se optimiza la página  {#keyword-s-that-page-is-optimized-for}
 
-Aquí es donde [selecciona la palabra clave que intenta optimizar su página para](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Aquí es donde [seleccione para qué palabra clave está intentando optimizar su página](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
