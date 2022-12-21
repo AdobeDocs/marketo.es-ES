@@ -3,7 +3,8 @@ description: 'Acciones de flujo único desde la página de detalles de la person
 title: Acciones de flujo único desde la página de detalles de la persona
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Además de ejecutar acciones de flujo único desde una lista inteligente, también puede ejecutarlas directamente en una página de detalles de persona.
 
-1. Haga clic en **Database**.
+1. Haga clic en **Base de datos**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,7 +23,7 @@ Además de ejecutar acciones de flujo único desde una lista inteligente, tambi�
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Haga clic en la lista desplegable **Personson Actions** y seleccione el paso de flujo que desee. En este ejemplo utilizaremos [Send Email](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Haga clic en el **Acciones de persona** y seleccione el paso de flujo que desee. En este ejemplo utilizaremos [Enviar correo electrónico](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
