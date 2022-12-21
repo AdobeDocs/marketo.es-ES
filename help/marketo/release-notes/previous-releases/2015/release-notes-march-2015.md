@@ -26,7 +26,7 @@ Muestre los activos de marketing de su equipo con el nuevo modo de presentación
 
 ## Integración de Google Adwords {#google-adwords-integration}
 
-Vincule la cuenta de [Google AdWords a Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para cargar automáticamente los datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics tuvieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear).
+Vincule su [Cuenta de Google AdWords en Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) para cargar automáticamente los datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics tuvieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -38,7 +38,7 @@ El Explorador de ingresos tiene un aspecto totalmente nuevo, así como el nuevo 
 
 [Nuevas API de REST de recursos](https://developers.marketo.com/)
 
-Ahora somos compatibles con la creación y edición de correos electrónicos, plantillas, tokens, archivos y fragmentos [a través de la API](https://developers.marketo.com/documentation/asset-api).
+Ahora somos compatibles con la creación y edición de correos electrónicos, plantillas, tokens, archivos y fragmentos [a través de la API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 On Premise {#microsoft-dynamics-on-premise}
 
@@ -48,8 +48,8 @@ Compatible con el último instalador ahora [accesible a través de la aplicació
 
 ## RTP: Compromiso web personalizado con datos de posible cliente {#rtp-personalized-web-engagement-with-lead-data}
 
-Aproveche los [campos de datos de posible cliente](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) que tiene en su base de datos de clientes potenciales de Marketo para crear campañas de segmentación en tiempo real y contenido personalizado. Administre los campos de datos de posibles clientes en RTP y agregue o elimine los campos de posibles clientes relevantes.
+Aproveche el [campos de datos de posible cliente](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) tiene en su base de datos de posibles clientes de Marketo para crear campañas de segmentación en tiempo real y de contenido personalizado. Administre los campos de datos de posibles clientes en RTP y agregue o elimine los campos de posibles clientes relevantes.
 
 ## RTP: Personalización del contenido web por correo electrónico o nombre de campaña del programa {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Continúe la conversación con el posible cliente a través de los canales, desde el correo electrónico hasta la web. [Personalice el contenido entrante en función de la campaña de correo electrónico o el ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nombre de programa utilizados en las actividades de marketing de Marketo.
+Continúe la conversación con el posible cliente a través de los canales, desde el correo electrónico hasta la web. [Personalización del contenido entrante en función de la campaña o el programa de correo electrónico](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) nombre utilizado en las actividades de marketing de Marketo.
