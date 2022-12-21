@@ -2,11 +2,10 @@
 description: Errores de sincronización de Salesforce - Documentos de Marketo - Documentación del producto
 title: Errores de sincronización de Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -20,11 +19,11 @@ Vea un resumen de los errores encontrados durante el proceso de sincronización.
 
 ## Ver errores de sincronización {#view-sync-errors}
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. En Integración, haga clic en **Salesforce** y, a continuación, en la pestaña **Sync Errors**.
+1. En Integración, haga clic en **Salesforce**, luego la variable **Errores de sincronización** pestaña .
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +47,10 @@ Vea un resumen de los errores encontrados durante el proceso de sincronización.
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Seleccione el intervalo de fecha y hora y, a continuación, filtre por Tipo de error (Nivel de trabajo o Nivel de registro). Haga clic en **Aplicar** cuando termine.
+1. Seleccione el intervalo de fecha y hora y, a continuación, filtre por Tipo de error (Nivel de trabajo o Nivel de registro). Haga clic en **Aplicar** cuando haya terminado.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Paso** opcional: Para exportar errores de sincronización, haga clic en  **Exportar**. Los datos se exportan como CSV.
+**Paso opcional**: Para exportar errores de sincronización, haga clic en **Exportar**. Los datos se exportan como CSV.
 
 ![](assets/salesforce-sync-errors-5.png)
