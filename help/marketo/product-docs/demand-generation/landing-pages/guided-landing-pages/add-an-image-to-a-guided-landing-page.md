@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7515027
-description: Añadir una imagen en una Página de aterrizaje guiada - Documentos de marketing - Documentación del producto
-title: Añadir una imagen en una Página de aterrizaje guiada
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Agregar una imagen a una página de aterrizaje guiada: Documentos de Marketo: Documentación del producto'
+title: Agregar una imagen a una página de aterrizaje guiada
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
-# Añadir una imagen en una Página de aterrizaje guiada {#add-an-image-to-a-guided-landing-page}
+# Agregar una imagen a una página de aterrizaje guiada {#add-an-image-to-a-guided-landing-page}
 
 A diferencia de las páginas de aterrizaje de forma libre, las páginas de aterrizaje guiadas tienen espacios predefinidos y bloqueados donde se agregan imágenes.
 
@@ -31,10 +30,10 @@ A diferencia de las páginas de aterrizaje de forma libre, las páginas de aterr
 
    >[!NOTE]
    >
-   >El modo en que se cambia el tamaño de la imagen depende de la plantilla. Obtenga más información sobre [Plantillas de Página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >El modo en que se cambia el tamaño de la imagen depende de la plantilla. Más información sobre [Plantillas de página de aterrizaje guiadas](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
-   >Actualmente no se admite la especificación de un vínculo para una imagen en el editor. En su lugar, utilice un elemento de texto enriquecido.
+   >Actualmente no se puede especificar un vínculo para una imagen en el editor. En su lugar, utilice un elemento de texto enriquecido.
