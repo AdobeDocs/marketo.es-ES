@@ -1,67 +1,66 @@
 ---
 unique-page-id: 2950555
-description: Editar la configuración de anuncios enriquecidos de Facebook - Documentos de marketing - Documentación del producto
-title: Editar configuración de anuncios enriquecidos de Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Editar la configuración de publicación enriquecida de Facebook: Documentos de Marketo: Documentación del producto'
+title: Editar la configuración de publicación enriquecida de Facebook
+exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
-# Editar la configuración de anuncios enriquecidos de Facebook {#edit-facebook-rich-post-settings}
+# Editar la configuración de publicación enriquecida de Facebook {#edit-facebook-rich-post-settings}
 
 Personalice las publicaciones cuando las personas lo compartan en Facebook.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más detalles.
+>No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-Las [aplicaciones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) de Marketing permiten que sus leads compartan sus páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas OpenGraph de Facebook (OG) permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
+Marketo [aplicaciones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) permita que los posibles clientes compartan las páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas de facebook OpenGraph (etiquetas OG) permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
 
-## Seleccionar opciones de anuncios enriquecidos {#select-rich-post-options}
+## Seleccionar opciones de publicación enriquecida {#select-rich-post-options}
 
-Puede especificar los tipos de información de página que se utilizarán en las publicaciones enriquecidas de Facebook generadas por los compartidos de su página de aterrizaje.
+Puede especificar los tipos de información de página que se usarán en los anuncios enriquecidos de Facebook generados por compartidos desde la página de aterrizaje.
 
-1. Seleccione **Mensaje de Facebook** en el editor para su **video de YouTube** o botón social.
+1. Select **Mensaje de facebook** en el editor de **YouTube** botón de vídeo o social .
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Seleccione una de las siguientes opciones para el mensaje de Facebook.
+1. Seleccione entre las siguientes opciones para el mensaje de Facebook.
 
    * Añadir contenido estático: Seleccione esta opción para introducir manualmente el título, el rótulo y la descripción.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Añadir contenido dinámico: La aplicación social puede utilizar las etiquetas `<TITLE>`, `<CAPTION>` y `<DESCRIPTION>` de su página de aterrizaje para rellenar la publicación enriquecida.
+   * Añadir contenido dinámico: La aplicación social puede usar el informe de `<TITLE>`, `<CAPTION>`y `<DESCRIPTION>` para rellenar la publicación enriquecida.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >Éstos ya deberían existir en el origen de la página, pero para obtener más control, puede agregar etiquetas OG de Facebook específicas a la página de aterrizaje.
+   >Ya deberían existir en el origen de la página, pero para obtener más control, puede añadir etiquetas OG de Facebook específicas a la página de aterrizaje.
 
-   * No agregar contenido enriquecido: Limita las publicaciones de Facebook de su página de aterrizaje solo al mensaje y vínculo principales.
+   * No añada contenido enriquecido: Limita las publicaciones de Facebook de su página de aterrizaje a solo el mensaje y vínculo principales.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Añadir etiquetas OG de Facebook en una Página de aterrizaje {#add-facebook-og-tags-to-a-landing-page}
+## Adición de etiquetas OG de Facebook a una página de aterrizaje {#add-facebook-og-tags-to-a-landing-page}
 
 Para controlar los elementos de página que se incluirán en los elementos compartidos de Facebook desde la página de aterrizaje, puede agregar etiquetas OG (Open Graph) de Facebook para título, rótulo y descripción a la página de aterrizaje.
 
-1. Abra la página de aterrizaje que contiene su **vídeo de YouTube** o botón social.
+1. Abra la página de aterrizaje que contenga su **Vídeo de YouTube** o social .
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   El **Diseñador de Páginas de aterrizaje** se abre en una nueva ventana.
+   La variable **Diseñador de páginas de aterrizaje** se abre en una nueva ventana.
 
-1. Seleccione **Acciones de Página de aterrizaje** > **Editar etiquetas de meta de página**.
+1. Select **Acciones de página de aterrizaje** > **Editar etiquetas de metadatos de página**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Añada el HTML que define og:title, og:caption y og:description. Copie y pegue estas líneas y sustituya el texto del marcador de posición:
+1. Añada el HTML que define og:title, og:caption y og:description. Copie y pegue estas líneas y reemplace el texto del marcador de posición:
 
    `<meta property="og:title" content="My Post Title"/>`
 
@@ -73,4 +72,4 @@ Para controlar los elementos de página que se incluirán en los elementos compa
 
 >[!NOTE]
 >
->Tenga cuidado de utilizar la sintaxis HTML adecuada al agregar las etiquetas OG.
+>Tenga cuidado de usar la sintaxis de HTML adecuada al agregar las etiquetas OG.
