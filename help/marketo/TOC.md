@@ -532,7 +532,7 @@ ht-degree: 2%
             + [Microsoft Dynamics Sync: Sincronización de usuarios](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
             + [Estado de sincronización](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Información general sobre la sincronización de campañas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
-            + [Habilitar la sincronización de campañas](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+            + [Habilitar sincronización de campaña](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
          + Detalles del filtro de sincronización de Dynamics personalizado {#custom-dynmaics-sync-filter-details}
             + [Crear un filtro de sincronización de Dynamics personalizado](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
@@ -1738,7 +1738,7 @@ ht-degree: 2%
             + [Definir Costes de Periodo](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Informe Etapa de personas por ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Atribución {#attribution}
+            + Atributo {#attribution}
                + [Explicación de la atribución](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Ejemplo de atribución 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Ejemplo de atribución 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
