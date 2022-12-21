@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352444
-description: Barra de herramientas de conexión de ventas - Documentos de marketing - Documentación del producto
-title: Barra de herramientas de conexión de ventas
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Barra de herramientas Conexión de ventas - Documentos de Marketo - Documentación del producto
+title: La barra de herramientas Conexión a ventas
+exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
+# La barra de herramientas Conexión a ventas {#the-sales-connect-tool-bar}
 
-# Barra de herramientas de conexión de ventas {#the-sales-connect-tool-bar}
-
-Al iniciar sesión, se agregarán cinco botones de conexión de ventas a la parte superior de la página de Gmail.
+Al iniciar sesión, se agregarán cinco botones de Conexión de ventas a la parte superior de la página de Gmail.
 
 | Botón | Descripción |
 |---|---|
-| **Live Feed, botón** | Abre su conexión de ventas [fuente en directo](https://toutapp.com/next#live), donde puede obtener información de seguimiento en tiempo real de sus correos electrónicos. |
-| **Botón tareas** | Muestra una lista desplegable de todas las tareas. |
-| **Botones Plantillas y Conversaciones** | Abre la página Plantillas de la [aplicación Web](https://toutapp.com/login) y la página Conversaciones, respectivamente. Todo dentro de la página de Gmail. |
-| **Botón Gong ventas** | Te permite celebrar tus acuerdos cerrados/ganados con tus compañeros de equipo. |
+| **Botón Fuente activa** | Abre la conexión de ventas [Fuente en directo](https://toutapp.com/next#live) donde puede obtener información de seguimiento en tiempo real sobre sus correos electrónicos. |
+| **Botón Tareas** | Muestra una lista desplegable de todas las tareas. |
+| **Botones Plantillas y conversaciones** | Abre el [aplicación web](https://toutapp.com/login)la página Plantillas de y la página Conversaciones de , respectivamente. Todo dentro de su página de Gmail. |
+| **Botón Gong de ventas** | Le permite celebrar sus acuerdos cerrados/ganados con sus compañeros de equipo. |
