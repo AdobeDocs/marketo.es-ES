@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2949279
-description: Actualizar el complemento de correo electrónico de Marketo para Outlook - Marketo Docs - Documentación del producto
+description: Actualice el complemento de correo electrónico de Marketo para Outlook - Marketo Docs - Documentación del producto
 title: Actualizar el complemento de correo electrónico de Marketo para Outlook
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-
-# Actualice el complemento de correo electrónico de Marketo para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
+# Actualizar el complemento de correo electrónico de Marketo para Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Cuando haya disponible una nueva versión del complemento de correo electrónico de Marketo para Outlook, siga estas instrucciones para actualizar.
 
@@ -47,23 +46,23 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
   <tr> 
    <td>Outlook 2000</td> 
    <td>No admitido</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
    <td>No admitido</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Descargar</a></td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
    <td>No admitido</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Descargar</a></td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
    <td>No admitido</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
@@ -117,11 +116,11 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
  </tbody> 
 </table>
 
-*Versión de Office 365: Sólo cliente de Windows (en Windows 10, Enterprise o Pro).
+&#42;Versión de Office 365: Sólo cliente de Windows (en Windows 10, Enterprise o Pro).
 
-## Actualizar {#upgrade}
+## Actualización {#upgrade}
 
-1. Identifique su [versión de Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifique su [Versión de Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Seleccione su versión de la lista anterior.
 
@@ -149,7 +148,7 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
    >
    >Si la instalación falla, trabaje con su departamento de TI para asegurarse de que el tráfico HTTPS no esté bloqueado. El instalador requiere que se abra el tráfico HTTPS.
 
-1. Haga clic en **Next** para instalar en la ubicación predeterminada.
+1. Haga clic en **Siguiente** para instalar en la ubicación predeterminada.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -161,7 +160,7 @@ Descargue el instalador adecuado para su versión de Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
-1. Ahora, abra Microsoft Outlook para ver la versión más reciente de los botones Marketo .
+1. Ahora, abra Microsoft Outlook para ver la versión más reciente de los botones de Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
