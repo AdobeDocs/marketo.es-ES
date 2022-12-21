@@ -6,7 +6,7 @@ exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
 source-wordcount: '798'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -28,21 +28,21 @@ Todos estos campos personalizados son opcionales y no son necesarios para sincro
 
 Agregue tres campos personalizados en el posible cliente y los objetos de contacto de Salesforce enumerados arriba. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
 
-Realice los siguientes pasos para cada uno de los tres campos personalizados para agregarlos. Comience con **Score**.
+Realice los siguientes pasos para cada uno de los tres campos personalizados para agregarlos. Comience por **Puntuación**.
 
 1. Inicie sesión en Salesforce y haga clic en **Configuración.**
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Fields**.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Campos**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Haga clic en **Nuevo** en la sección Campos y relaciones personalizados en la parte inferior de la página.
+1. Haga clic en **Nuevo** en la sección Campos personalizados y relaciones , en la parte inferior de la página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Elija el tipo de campo apropiado (para Puntuación — **número**; Programa de adquisición — **text**; Fecha de adquisición — **Fecha/Hora**).
+1. Elija el tipo de campo apropiado (para Puntuación — **number**; Programa de adquisición — **text**; Fecha de adquisición — **Fecha y hora**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -78,7 +78,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Puntuación</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Longitud 10<br>Cifras decimales 0 </td> 
+   <td>Longitud 10<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Fecha de adquisición</td> 
@@ -111,13 +111,13 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
 1. Especifique la configuración de acceso y haga clic en **Siguiente**:
 
-   * Establezca todas las funciones como **Visible** y **Solo lectura**
+   * Definir todas las funciones como **Visible** y **Solo lectura**
 
-   * Desactive la casilla **Read-Only** para el perfil del usuario de sincronización:
+   * Borre la variable **Solo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de _System Administrator_ como usuario de sincronización, desactive la casilla **Read-Only** del perfil del administrador del sistema (como se muestra a continuación)
+      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** para el perfil del administrador del sistema (como se muestra a continuación)
 
-      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, desactive la casilla **Solo lectura** para ese perfil personalizado
+      * Si creó un _perfil personalizado_ para el usuario de sincronización, borre la **Solo lectura** casilla de verificación de ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Haga clic en **Guardar y nuevo** para volver y crear cada uno de los otros dos campos personalizados. Haga clic en **Guardar** con los tres.
+1. Haga clic en **Guardar y nuevo** para volver atrás y crear cada uno de los otros dos campos personalizados. Haga clic en **Guardar** con ustedes terminaron con los tres.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Contactos**. Haga clic en **Fields**.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Contactos**. Haga clic en **Campos**.
 1. Siga los pasos del 3 al 10 para los campos Puntuación, Fecha de adquisición y Programa de adquisición en el objeto de contacto, tal como hizo para el objeto de posible cliente.
 1. Opcionalmente, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
 
@@ -145,7 +145,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Id Del Programa De Adquisición</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Número</td> 
-   <td>Longitud 18<br>Cifras decimales 0 </td> 
+   <td>Longitud 18<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Remitente original</td> 
@@ -257,7 +257,7 @@ Fácil, ¿verdad?
 
 >[!NOTE]
 >
->Aquí hay un [video de todo el proceso](https://nation.marketo.com/videos/1475) que debería dejar el proceso muy claro!
+>Aquí tiene un [vídeo de todo el proceso](https://nation.marketo.com/videos/1475) ¡eso debería dejar claro el cristal!
 
 >[!MORELIKETHIS]
 >
