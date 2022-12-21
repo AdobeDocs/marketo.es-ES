@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359811
-description: Elija la URL de uso compartido para una aplicación social - Documentos de marketing - Documentación del producto
+description: 'Elija la URL de uso compartido para una aplicación social: Marketo Docs: documentación del producto'
 title: Elija la URL de uso compartido para una aplicación social
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # Elija la URL de uso compartido para una aplicación social {#choose-the-share-url-for-a-social-app}
 
@@ -23,11 +22,11 @@ Al crear una aplicación social, puede elegir qué URL se compartirán en las pu
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. En el editor de la aplicación social, vaya a **Configuración de la aplicación** y, a continuación, a **Opciones avanzadas**.
+1. En el editor de aplicaciones sociales, vaya a **Configuración de la aplicación** y luego **Opciones avanzadas**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
-1. Seleccione la dirección URL a la que están vinculados los anuncios sociales.
+1. Seleccione la dirección URL a la que se vincula la publicación social.
 
    ![](assets/image2015-4-21-11-3a15-3a26.png)
 
@@ -37,11 +36,11 @@ Al crear una aplicación social, puede elegir qué URL se compartirán en las pu
    >
    >Compartir publicaciones puede vincularse a tres lugares:
    >
-   >* **Página** de referencia: La página que contiene la aplicación.
-   >* **Otra Página de aterrizaje**: Una página de aterrizaje de marketing diferente de las de la lista desplegable.
-   >* **Dirección URL** externa: Una página de aterrizaje que no es de marketing.
+   >* **Página de referencia**: La página que contiene la aplicación.
+   >* **Otra página de aterrizaje**: Una página de aterrizaje de Marketo diferente de la del menú desplegable.
+   >* **Dirección URL externa**: Una página de aterrizaje que no sea de Marketo.
 
 
 >[!MORELIKETHIS]
 >
->[Añadir la política de privacidad en una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+>[Agregar la política de privacidad a una aplicación social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
