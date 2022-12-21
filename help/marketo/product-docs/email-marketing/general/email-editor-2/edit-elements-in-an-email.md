@@ -1,45 +1,44 @@
 ---
 unique-page-id: 1900558
-description: Editar elementos en un mensaje de correo electrónico - Documentos de marketing - Documentación del producto
+description: 'Editar elementos en un mensaje de correo electrónico: documentos de Marketo: documentación del producto'
 title: Editar elementos en un correo electrónico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Editar elementos en un correo electrónico {#edit-elements-in-an-email}
 
-# Editar elementos en un mensaje de correo electrónico {#edit-elements-in-an-email}
+Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enriquecido, imágenes, fragmentos y vídeo. Así es como editar cada uno.
 
-Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enriquecido, Imágenes, Recortes y Vídeo. Así es como editar cada uno.
-
-## Cómo editar el elemento de texto enriquecido {#how-to-edit-the-rich-text-element}
+## Editar el elemento de texto enriquecido {#how-to-edit-the-rich-text-element}
 
 1. Busque su correo electrónico, selecciónelo y haga clic en **Editar borrador**.
 
    ![](assets/one-edited.png)
 
-1. Se abrirá el editor de correo electrónico. Seleccione el texto enriquecido, haga clic en el icono de engranaje y seleccione **Editar**.
+1. Se abrirá el editor de correo electrónico. Seleccione Texto enriquecido, haga clic en el icono de engranaje y seleccione **Editar**.
 
    ![](assets/two.png)
 
-   También puede situar el cursor sobre el elemento del panel derecho, lo que provoca que aparezca el icono de engranaje.
+   También puede pasar el ratón sobre el elemento del panel derecho, lo que provoca que aparezca el icono de engranaje.
 
    ![](assets/three.png)
 
-1. Añada o edite el texto y presione **Guardar**.
+1. Añada/edite el texto y pulse **Guardar**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >También puede agregar imágenes, tokens, tablas y otros elementos. Consulte [Uso del Editor de texto enriquecido](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >También puede añadir imágenes, tokens, tablas y otros elementos. Consulte [Uso del Editor de texto enriquecido](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Evite copiar y pegar texto desde un origen de texto enriquecido, como un sitio web o un documento de Word. En su lugar, pegue texto enriquecido en un editor de texto sin formato primero, como Bloc de notas (Windows) o TextEdit (Mac). Una vez &quot;limpia&quot;, puedes copiarla del editor de texto sin formato y pegarla en tu correo electrónico.
+   >Evite copiar y pegar texto desde un origen de texto enriquecido, como un sitio web o un documento de Word. En su lugar, pegue texto enriquecido en un editor de texto sin formato primero, como Bloc de notas (Windows) o TextEdit (Mac). Una vez que esté &quot;limpio&quot;, puede copiarlo del editor de texto sin formato y pegarlo en su correo electrónico.
 
 ## Cómo editar el elemento de imagen {#how-to-edit-the-image-element}
 
@@ -53,7 +52,7 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    >[!NOTE]
    >
-   >También puede hacer clic con el doble en el elemento para comenzar a editarlo.
+   >También puede hacer doble clic en el elemento para comenzar la edición.
 
 1. Se muestra el editor de imágenes.
 
@@ -65,9 +64,9 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    >[!NOTE]
    >
-   >Si desea utilizar un token de marketing, utilice esta opción. Tenga en cuenta que cuando utilice un token, la imagen aparecerá rota en el editor, pero se representará en modo de Previsualización y en el correo electrónico Enviar muestra.
+   >Si desea utilizar un token de Marketo, utilice esta opción. Tenga en cuenta que cuando utilice un token, la imagen aparecerá rota en el editor, pero se renderizará en modo de vista previa y en el correo electrónico de envío de muestra.
 
-   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). A continuación, presione **Intercambiar**.
+   Para utilizar una URL externa, pegue primero la URL de la imagen. Modifique las dimensiones para adaptarlas a sus necesidades y añada texto alternativo (opcional). A continuación, pulse **Intercambiar**.
 
    ![](assets/eight.png)
 
@@ -77,35 +76,35 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    ![](assets/nine.png)
 
-   Vaya a la ubicación de la imagen en el equipo e insértela.
+   Vaya a donde se encuentra la imagen en el equipo e insértela.
 
    ![](assets/ten.png)
 
-   Cambie las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, presione **Intercambiar**.
+   Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, pulse **Intercambiar**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Si va a reemplazar una imagen, deberá marcar la casilla **Sobrescribir la imagen existente** que aparece debajo de la dirección URL/nombre de la imagen.
+   >Si va a reemplazar una imagen, deberá comprobar la variable **Sobrescribir imagen existente** que aparece debajo de la dirección URL/nombre de la imagen.
 
-   **Design Studio**
+   **Estudio de diseño**
 
    Para insertar una imagen desde Design Studio, simplemente localícela...
 
    ![](assets/twelve.png)
 
-   ...e insértela. Cambie las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, presione **Intercambiar**.
+   ...e insértelo. Modifique las dimensiones para adaptarlas a sus necesidades, cambie el Texto alternativo (opcional) y, a continuación, pulse **Intercambiar**.
 
    ![](assets/thirteen.png)
 
-## Cómo editar el elemento Fragmento {#how-to-edit-the-snippet-element}
+## Edición del elemento Fragmento {#how-to-edit-the-snippet-element}
 
 1. Haga clic dentro del módulo con el elemento Fragmento.
 
    ![](assets/fourteen.png)
 
-1. Haga clic en el elemento Fragmento, luego en el icono de engranaje y seleccione **Editar**.
+1. Haga clic en el elemento Fragmento, luego en el icono del engranaje y seleccione **Editar**.
 
    ![](assets/fifteen.png)
 
@@ -113,21 +112,21 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
 
    ![](assets/sixteen.png)
 
-1. Luego se rellena el fragmento.
+1. A continuación, el fragmento se rellena.
 
    ![](assets/eighteen.png)
 
 ## Cómo editar el elemento de vídeo {#how-to-edit-the-video-element}
 
-1. Haga clic dentro del módulo con el elemento Vídeo.
+1. Haga clic dentro del módulo con el elemento Video .
 
    ![](assets/nineteen.png)
 
-1. Haga clic en el elemento Vídeo, luego en el icono de engranaje y seleccione **Editar**.
+1. Haga clic en el elemento Vídeo , luego en el icono del engranaje y seleccione **Editar**.
 
    ![](assets/twenty.png)
 
-1. Pegue la URL del vídeo desde Vimeo o YouTube. A continuación, haga clic fuera del cuadro URL para que se cargue la previsualización. Cambie las dimensiones para adaptarlas a sus necesidades, agregue Texto alternativo (opcional) y, a continuación, presione **Insertar**.
+1. Pegue en la URL del vídeo desde Vimeo o YouTube. A continuación, haga clic fuera del cuadro URL para que se cargue la vista previa. Modifique las dimensiones para adaptarlas a sus necesidades, añada Texto alternativo (opcional) y, a continuación, pulse **Insertar**.
 
    ![](assets/twentyone.png)
 
@@ -135,4 +134,4 @@ Los correos electrónicos pueden contener cuatro elementos diferentes: Texto enr
    >
    >Para los vídeos de YouTube, utilice la dirección URL completa de la barra de direcciones, no la dirección URL de acceso directo que se encuentra en la opción Compartir.
 
-¡Diviértase diseñando el correo electrónico perfecto!
+¡Diviértete diseñando el correo electrónico perfecto!
