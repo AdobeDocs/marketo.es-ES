@@ -1,7 +1,8 @@
 ---
 description: Acceso a la nueva instancia de conexión de ventas - Documentos de Marketo - Documentación del producto
 title: Acceso a la nueva instancia de conexión de ventas
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 Una vez que se haya comprado Sales Connect, aparecerá una nueva página de integración en la instancia de Marketo. Utilice esta página para invitar al primer usuario y aprovisionar su instancia de Conexión de ventas.
 
-1. En Marketo, haga clic en **Admin**.
+1. En Marketo, haga clic en **Administrador**.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
@@ -32,4 +33,4 @@ El usuario recibirá un correo electrónico con los pasos para obtener acceso a 
 
 >[!NOTE]
 >
->Los usuarios adicionales **no** se agregarán a través de Marketo y, en su lugar, se agregarán a través de la página Administración de usuarios de Sales Connect. [Haga clic ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) aquí para obtener más información sobre cómo agregar usuarios adicionales.
+>Los usuarios adicionales **not** a través de Marketo y, en su lugar, se agregará a través de la página Administración de usuarios de Sales Connect . [Haga clic aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para obtener más información sobre la adición de usuarios adicionales.
