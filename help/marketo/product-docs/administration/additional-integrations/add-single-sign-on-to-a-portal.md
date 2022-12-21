@@ -29,7 +29,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
 * Envíe la solicitud de SSO, que es una respuesta de SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como URL de audiencia del SP. Uso `http://saml.marketo.com/sp`
+* Como URL de audiencia del SP. Utilizar `http://saml.marketo.com/sp`
 * Si utiliza el atributo SPNameQualifier , establezca el elemento NameID para Subject en `http://saml.marketo.com/sp`
 * Si está federando varias suscripciones de Marketo al mismo proveedor de SSO, puede utilizar direcciones url de SP únicas para cada subgrupo de Marketo con el formato `http://saml.marketo.com/sp/<munchkin_id>`
 
