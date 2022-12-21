@@ -5,8 +5,8 @@ title: Informe de rendimiento de los vínculos de correo electrónico
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '233'
+ht-degree: 3%
 
 ---
 
@@ -57,7 +57,7 @@ Cree un informe Rendimiento de vínculo de correo electrónico para ver el rendi
    <td colspan="1" rowspan="1">Número de veces que se hizo clic en el vínculo.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% Clics</td> 
+   <td colspan="1" rowspan="1">% de clics</td> 
    <td colspan="1" rowspan="1">Del total de clics en todos los vínculos de ese correo electrónico, porcentaje en este vínculo.</td> 
   </tr> 
   <tr> 
