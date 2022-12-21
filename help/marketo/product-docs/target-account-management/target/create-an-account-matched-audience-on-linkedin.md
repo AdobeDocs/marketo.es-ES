@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Crear una audiencia coincidente de cuenta en LinkedIn {#create-an-account-matched-audience-on-linkedin}
 
-Cree audiencias de cuentas coincidentes a partir de las Listas de cuentas de TAM para [LinkedIn Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn hará coincidir la lista con las cuentas de su sistema y puede crear una audiencia de LinkedIn basada en esa lista de cuentas para activarla en los canales de LinkedIn. Esto permite a los especialistas en marketing dirigirse a personas dentro o fuera de la base de datos.
+Cree audiencias de cuentas coincidentes desde las Listas de cuentas de TAM para [Segmentación de anuncios de linkedIn](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn hará coincidir la lista con las cuentas de su sistema y puede crear una audiencia de LinkedIn basada en esa lista de cuentas para activarla en los canales de LinkedIn. Esto permite a los especialistas en marketing dirigirse a personas dentro o fuera de la base de datos.
 
 >[!PREREQUISITES]
-[Añadir audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)>
 >
+>[Añadir audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. En TAM, haga clic en la pestaña **Listas de cuentas**.
+1. En TAM, haga clic en el **Listas de cuentas** pestaña .
 
    ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
@@ -26,27 +26,28 @@ Cree audiencias de cuentas coincidentes a partir de las Listas de cuentas de TAM
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. Haga clic en la lista desplegable **Account List Actions** y seleccione **Send via AdBridge**.
+1. Haga clic en el **Acciones de lista de cuentas** y seleccione **Enviar a través de AdBridge**.
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
-1. Seleccione **LinkedIn** y haga clic en **Siguiente**.
+1. Choose **linkedIn** y haga clic en **Siguiente**.
 
    ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
-1. Haga clic en la lista desplegable **Audience**. Puede seleccionar una audiencia existente o crear una nueva. En este ejemplo, crearemos una nueva (si selecciona una audiencia existente, vaya al paso 7).
+1. Haga clic en el **Audiencia** lista desplegable. Puede seleccionar una audiencia existente o crear una nueva. En este ejemplo, crearemos una nueva (si selecciona una audiencia existente, vaya al paso 7).
 
    ![](assets/create-a-matched-audience-on-linkedin-5.png)
 
-1. Haga clic en la lista desplegable **Ad Account** y seleccione la cuenta de anuncio de destino.
+1. Haga clic en el **Cuenta de anuncio** y seleccione la cuenta de anuncio de destino.
 
    ![](assets/create-a-matched-audience-on-linkedin-6.png)
 
-1. Asigne un nombre a la audiencia y haga clic en **Update**.
+1. Asigne un nombre a la audiencia y haga clic en **Actualizar**.
 
    ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
 Y eso es todo. La lista de cuentas se ha transferido a LinkedIn
 
 >[!MORELIKETHIS]
-[Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>
+>[Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
