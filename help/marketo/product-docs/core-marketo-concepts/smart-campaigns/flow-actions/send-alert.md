@@ -3,19 +3,18 @@ unique-page-id: 1146958
 description: 'Enviar alerta: Documentos de Marketo: Documentación del producto'
 title: Enviar alerta
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # Enviar alerta {#send-alert}
 
-## Información general {#overview}
+## Resumen {#overview}
 
-Marketo puede enviar una alerta por correo electrónico con información de la persona a cualquier persona: el propietario de la venta, un socio u otra persona. Utilice el paso de flujo **Send Alert**.
+Marketo puede enviar una alerta por correo electrónico con información de la persona a cualquier persona: el propietario de la venta, un socio u otra persona. Utilice la variable **Enviar alerta** paso de flujo.
 
 ![](assets/one-1.png)
 
@@ -27,7 +26,7 @@ Marketo puede enviar una alerta por correo electrónico con información de la p
 
    >[!NOTE]
    >
-   >La alerta de correo electrónico debe contener toda la información del encabezado y estar en el estado **Aprobado**.
+   >La alerta de correo electrónico debe contener toda la información del encabezado y estar en la **Aprobado** estado.
 
 1. Puede hacer clic en el icono de vista previa para asegurarse de que ha seleccionado el correo electrónico correcto.
 
@@ -35,7 +34,7 @@ Marketo puede enviar una alerta por correo electrónico con información de la p
 
    >[!NOTE]
    >
-   >Asegúrese de utilizar el token **Send Alert Info** en el correo electrónico.
+   >Asegúrese de utilizar la variable **Enviar información de alerta** en su correo electrónico.
 
 1. Seleccione el destinatario de la alerta. Puede elegir Propietario de ventas o Propietario de cuenta.
 
@@ -47,9 +46,9 @@ Marketo puede enviar una alerta por correo electrónico con información de la p
 
    >[!TIP]
    >
-   >En las campañas de déclencheur, puede utilizar tokens en **To Other Emails** como `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` siempre que los valores sean direcciones de correo electrónico válidas. Los tokens de **To Other Emails** no funcionarán en una campaña por lotes.
+   >En las campañas de déclencheur, puede usar tokens en **A otros correos electrónicos** como `{{lead.Territory Owner}}` o `{{my.Alert Recipient}}` siempre que los valores sean direcciones de correo electrónico válidas. Tokens en **A otros correos electrónicos** no funcionará en una campaña por lotes.
 
-¡Eso es todo! Ahora sabe cómo utilizar el paso de flujo **Send Alert**.
+¡Eso es todo! Ahora sabe cómo usar la variable **Enviar alerta** paso de flujo.
 
 >[!MORELIKETHIS]
 >
