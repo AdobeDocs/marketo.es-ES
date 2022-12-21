@@ -3,7 +3,6 @@ unique-page-id: 2953352
 description: Editar Entradas Directamente En El Calendario De Marketing - Marketo Docs - Documentación Del Producto
 title: Editar Entradas Directamente En El Calendario De Marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Editar entradas directamente en el calendario de marketing {#edit-entries-directly-in-the-marketing-calendar}
+# Editar Entradas Directamente En El Calendario De Marketing {#edit-entries-directly-in-the-marketing-calendar}
 
 Una vez en el modo de enfoque del programa, puede realizar rápidamente cambios en las entradas del calendario. Así es como.
 
 ## Habilitar el enfoque del programa {#enable-program-focus}
 
-1. Vaya al **Calendario**.
+1. Vaya a la **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Seleccione una entrada que pertenezca al programa en el que desea centrarse y haga clic en **Mostrar enfoque del programa**.
+1. Seleccione una entrada que pertenezca al programa en el que desee centrarse y haga clic en **Mostrar enfoque del programa**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
