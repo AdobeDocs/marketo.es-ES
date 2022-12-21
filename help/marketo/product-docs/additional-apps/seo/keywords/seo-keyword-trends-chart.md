@@ -3,7 +3,6 @@ unique-page-id: 2949680
 description: SEO - Gráfico de tendencias de palabras clave - Documentos de Marketo - Documentación del producto
 title: SEO - Gráfico de tendencias de palabras clave
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # SEO - Gráfico de tendencias de palabras clave {#seo-keyword-trends-chart}
 
-Es importante monitorear cómo la palabra clave [SERP Rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) es tendencia a lo largo del tiempo. Marque esta buena tabla para monitorizar el progreso.
+Es importante monitorear cómo se encuentra su palabra clave [Clasificación SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) son tendencias a lo largo del tiempo. Marque esta buena tabla para monitorizar el progreso.
 
-1. Vaya a la sección **Palabras clave**.
+1. Vaya a la **Palabras clave** para obtener más información.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +22,7 @@ Es importante monitorear cómo la palabra clave [SERP Rank](/help/marketo/produc
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   ¿Ves? Muestra su [clasificación SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) durante los últimos 30 días:
+   ¿Ves? Muestra su [Clasificación SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) en los últimos 30 días:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
