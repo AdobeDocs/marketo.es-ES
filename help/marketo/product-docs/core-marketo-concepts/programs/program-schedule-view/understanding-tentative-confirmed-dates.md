@@ -3,21 +3,20 @@ unique-page-id: 1147140
 description: 'Explicación de las fechas Tentativas/Confirmadas: Documentos de Marketo: Documentación del producto'
 title: Explicación de las fechas Tentativas/Confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Explicación de las fechas tentativas/confirmadas {#understanding-tentative-confirmed-dates}
+# Explicación de las fechas Tentativas/Confirmadas {#understanding-tentative-confirmed-dates}
 
-Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para ser marcados como **Tentative** o **Confirmed**. Así es como funcionan.
+Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para marcar como **Tentativo** o **Confirmado**. Así es como funcionan.
 
 ## Tentativo {#tentative}
 
-Las fechas tentativas transmiten la intención. Piense en esto como algo _que se escribe_ en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
+Las fechas tentativas transmiten la intención. Piensen en esto como _lápiz_ algo en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -45,9 +44,9 @@ Las entradas confirmadas definitivamente se ejecutarán. Tienen reglas, recursos
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Finalizado {#finished}
+## Finalizado  {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y está **Finalizada**, no puede moverla ni hacerla tentativa. (Sin cambiar la realidad ni interrumpir el continuo flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez que se ha ejecutado una entrada y **Finalizado**, no puede moverla ni hacerla tentativa. (Sin cambiar la realidad ni interrumpir el continuo flujo de tiempo).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
