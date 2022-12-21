@@ -3,7 +3,6 @@ unique-page-id: 7514898
 description: Configuración de una campaña inteligente de Déclencheur para ventas mediante "Campaña solicitada" - Documentos de Marketo - Documentación del producto
 title: Configuración de una campaña inteligente de Déclencheur para ventas mediante "Campaña solicitada"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
@@ -19,28 +18,27 @@ Una de las características más interesantes de Marketo es la capacidad de perm
 >
 >Ejemplos de campañas inteligentes para solicitar:
 >
->1. **La alimentación a largo plazo**  - cuando no tienen presupuesto este año y sólo quieren permanecer en el radar
->1. **Ciclo de ventas activo** : cuando el vendedor no desea ningún mensaje a la persona excepto el suyo propio. (utilice el indicador de marketing suspendido para cancelar temporalmente la suscripción)
+>1. **Alimentos a largo plazo** - cuando no tienen presupuesto este año y sólo quieren permanecer en el radar
+>1. **Ciclo de ventas activo** - cuando el vendedor no quiere ningún mensaje a la persona excepto el propio. (utilice el indicador de marketing suspendido para cancelar temporalmente la suscripción)
 
 >
->
-Sé creativo. ¿Qué desea automatizar el vendedor? ¡Solo pregúntale y alícela!
+>Sé creativo. ¿Qué desea automatizar el vendedor? ¡Solo pregúntale y alícela!
 
-1. Crear una **campaña inteligente.**
+1. Cree un **Campaña inteligente.**
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Busque y arrastre **Campaign is Requested** al lienzo.
+1. Buscar y arrastrar **Campaña es solicitada** al lienzo.
 
    ![](assets/campaignfilterdrag.png)
 
-1. Las opciones de origen indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrese de elegir **Sales** **Insight**.
+1. Las opciones de origen indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrese de seleccionar **Ventas** **Insight**.
 
    >[!TIP]
    >
-   >Los operadores de origen son para seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Seleccione **Is Any** en el primer cuadro si desea permitir solicitudes de todas las fuentes.
+   >Los operadores de origen son para seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Choose **Is Any** en el primer cuadro si desea permitir solicitudes de todas las fuentes.
    >
-   >**Recuerde**, al elegir Perspectiva de Ventas, se mostrará mágicamente en la casilla para ventas. No lo sobrehagas. Ellos ignorarán a demasiados.
+   >**Recordar**, al elegir Perspectiva de ventas, se mostrará mágicamente en la casilla de ventas. No lo sobrehagas. Ellos ignorarán a demasiados.
 
    ![](assets/image2015-5-20-17-3a56-3a56.png)
 
