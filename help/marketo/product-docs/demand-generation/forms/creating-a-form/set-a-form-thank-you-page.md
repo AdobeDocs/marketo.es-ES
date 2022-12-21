@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359573
-description: Establecer una página de agradecimiento de formulario - Documentos de marketing - Documentación del producto
+description: 'Configurar una página de agradecimiento de formulario: Documentos de Marketo: Documentación del producto'
 title: Establecer una página de agradecimiento de formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Establecer una página de agradecimiento de formulario {#set-a-form-thank-you-page}
 
@@ -25,41 +24,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. En **Configuración del formulario** haga clic en **Configuración**.
+1. En **Configuración de formulario** click **Configuración**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Desplácese hacia abajo hasta la sección **Página de agradecimiento**.
+1. Desplácese hacia abajo hasta el **Página de agradecimiento** para obtener más información.
 
 ## Permanecer en la página {#stay-on-page}
 
-La opción Permanecer en la página mantendrá el visitante en la misma página cuando se envíe el formulario.
+La opción Permanecer en la página mantiene al visitante en la misma página cuando se envía el formulario.
 
-1. Seleccione **Permanecer en la página** para **Seguir con**.
+1. Select **Permanecer en la página** para **Realizar el seguimiento con**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
-## Dirección URL externa {#external-url}
+## URL externa {#external-url}
 
 La configuración de URL externa permite definir cualquier dirección URL como página de seguimiento. Una vez que el usuario haya enviado el formulario, se le dirigirá a la dirección URL especificada.
 
-1. Seleccione **URL externa** para **Seguimiento con**.
+1. Select **Dirección URL externa** para **Realizar el seguimiento con**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
-1. Escriba la dirección URL completa.
+1. Introduzca la dirección URL completa.
 
    ![](assets/image2014-9-15-17-3a34-3a53.png)
 
 >[!TIP]
 >
->La dirección URL puede ser la de un archivo alojado en algún lugar; si lo hace, el botón &quot;Enviar&quot; se comportará como un botón &quot;Descargar&quot;.
+>La URL puede ser la de un archivo alojado en algún lugar - si lo hace, el botón &quot;Enviar&quot; se comportará como un botón &quot;Descargar&quot;.
 
-## página de aterrizaje {#landing-page}
+## Página de aterrizaje {#landing-page}
 
-Puede seleccionar cualquier página de aterrizaje de marketing aprobada como seguimiento.
+Como seguimiento, puede seleccionar cualquier página de aterrizaje de Marketo aprobada.
 
-1. Configure **Seguimiento con** como **Página de aterrizaje**.
+1. Establezca **Realizar el seguimiento con** a **Página de aterrizaje**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -69,29 +68,29 @@ Puede seleccionar cualquier página de aterrizaje de marketing aprobada como seg
 
 ## Páginas de agradecimiento dinámicas {#dynamic-thank-you-pages}
 
-Puede agregar varias opciones y generar opciones para mostrar a las personas diferentes seguimientos según sus respuestas.
+Puede agregar varias opciones y crear opciones para mostrar a las personas diferentes seguimientos según sus respuestas.
 
-1. Haga clic en **Añadir opción**.
+1. Haga clic en **Agregar opción**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
-1. Seleccione el campo en el que desea supervisar la respuesta.
+1. Seleccione el campo cuya respuesta desea controlar.
 
    ![](assets/image2014-9-15-17-3a38-3a12.png)
 
    >[!TIP]
    >
-   >Para esto solo están disponibles los campos agregados al formulario.
+   >Solo los campos añadidos al formulario están disponibles para esta opción.
 
 1. Seleccione el operador lógico que desee.
 
    ![](assets/image2014-9-15-17-3a38-3a31.png)
 
-1. Introduzca uno de los valores con los que responderá el usuario.
+1. Introduzca uno de los valores con los que el usuario responderá.
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Elija la página adecuada para el tipo **Seguimiento con**.
+1. Elija la página adecuada para **Realizar el seguimiento con** tipo .
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -103,23 +102,23 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
    >
    >Debe haber creado/aprobado estas páginas de aterrizaje con antelación.
 
-1. Haga clic en el signo **+** para agregar otra opción.
+1. Haga clic en el **+** para añadir otra opción.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
    >[!NOTE]
    >
-   >Puede agregar varias opciones. Sin embargo, si agrega demasiadas, puede afectar a la velocidad de carga del formulario, por lo que solo debe agregar lo que necesite.
+   >Puede agregar varias opciones. Sin embargo, si agrega demasiados, puede afectar a la velocidad de carga del formulario, por lo que solo debe añadir lo que necesite.
 
-1. Analice y configure **Choice 2**.
+1. Vaya y configure **Opción 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
    >[!TIP]
    >
-   >No dude en mezclar y hacer coincidir tipos de seguimiento. Puede utilizar una página de aterrizaje para una opción y una URL para otra.
+   >Siéntase libre de mezclar y hacer coincidir tipos de seguimiento. Puede utilizar una página de aterrizaje para elegir y una URL para otra.
 
-1. Configure una página predeterminada para el resto de respuestas.
+1. Establezca una página predeterminada para todas las demás respuestas.
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
@@ -140,4 +139,3 @@ Puede agregar varias opciones y generar opciones para mostrar a las personas dif
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 ¡bueno trabajo!
-
