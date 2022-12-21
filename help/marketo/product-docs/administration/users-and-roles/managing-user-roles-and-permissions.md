@@ -5,7 +5,7 @@ title: Administración de roles y permisos de usuario
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
