@@ -1,33 +1,32 @@
 ---
 unique-page-id: 10100636
-description: Añadir imágenes de mensajes en la aplicación - Documentos de marketing - Documentación del producto
-title: Añadir imágenes de mensajes en la aplicación
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+description: 'Agregar imágenes de mensajes en la aplicación: Documentos de Marketo: Documentación del producto'
+title: Agregar imágenes de mensajes en la aplicación
+exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
+# Agregar imágenes de mensajes en la aplicación {#add-in-app-message-images}
 
-# Añadir imágenes de mensajes en la aplicación {#add-in-app-message-images}
-
-Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
+Aquí es donde elige y personaliza sus imágenes de mensajes en la aplicación.
 
 1. Seleccione el mensaje en la aplicación y haga clic en **Editar borrador**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
-1. Elija una de las seis plantillas de la ficha Presentación. Hay tres opciones de Ventana emergente y tres opciones de Pantalla completa.
+1. Elija una de las seis plantillas de la ficha Presentación. Hay tres opciones Emergente y tres opciones de Pantalla completa .
 
    >[!TIP]
    >
-   >¿Cuál es la diferencia entre las plantillas? Consulte [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) antes de empezar.
+   >¿Cuál es la diferencia entre las plantillas? Consulte [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) antes de comenzar.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Haga clic en la ficha **Estilo** y haga clic en el área de imagen de la plantilla.
+1. Haga clic en el **Estilo** y haga clic en el área de imagen de la plantilla.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
@@ -35,7 +34,7 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Seleccione la imagen en Design Studio y haga clic en **Seleccionar**.
+1. Seleccione la imagen en Design Studio y haga clic en **Select**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,7 +42,7 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
    >
    >El tamaño de la imagen está limitado a 1440 x 2560 píxeles y 5 MB.
 
-1. ¿Quieres cambiar de opinión y usar una imagen diferente? No hay problema. Haga clic en la **X** junto al nombre del archivo de imagen.
+1. ¿Cambiar de opinión y querer usar una imagen diferente? No hay problema. Haga clic en el **X** junto al nombre del archivo de imagen.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
@@ -51,11 +50,11 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. Con la imagen en su lugar, en Propiedades de imagen, seleccione un botón para ajustar la imagen por Altura, Ancho o Ambos.
+1. Con la imagen en su sitio, en Propiedades de la imagen, seleccione un botón para ajustar la imagen por Alto, Ancho o Ambos.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
-1. Si lo desea, puede aplicar un borde de imagen. La configuración predeterminada es **Desactivado**. En primer lugar, seleccione el color haciendo clic en él o introduciendo los números hexadecimales o RGB en el selector de color.
+1. Opcionalmente, aplique un borde de imagen. La configuración predeterminada es **Off**. En primer lugar, seleccione el color haciendo clic en él o introduciendo los números hexadecimales o RGB en el selector de color.
 
    ![](assets/image2016-5-6-9-3a9-3a0.png)
 
@@ -67,7 +66,7 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Seleccione un margen (activado o desactivado). **** Onis es la configuración predeterminada.
+1. Seleccione un margen (activado o desactivado). **Activado** es la configuración predeterminada.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -79,15 +78,15 @@ Aquí puede elegir y personalizar sus imágenes de mensajes en la aplicación.
 
    ![](assets/image2016-5-6-9-3a50-3a15.png)
 
-1. Haga clic en cada lista desplegable para mostrar las opciones. Seleccione uno.
+1. Haga clic en cada lista desplegable para mostrar las opciones. Seleccione una.
 
    ![](assets/image2016-5-6-9-3a52-3a41.png)
 
    >[!NOTE]
    >
-   >Para las acciones de toque de imágenes, botones o fondos, puede configurar diferentes acciones para las plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma distinta para Apple y Android. Si el mensaje va solamente a una plataforma u otra, deje la otra en la configuración predeterminada o seleccione **Ninguno**.
+   >Para pulsar acciones para imágenes, botones o fondos, puede configurar diferentes acciones para plataformas Apple y Android. Por ejemplo, los vínculos profundos se gestionan de forma diferente en Apple y Android. Si el mensaje va solo a una plataforma o a la otra, deje la otra en la configuración predeterminada o seleccione **Ninguna**.
 
-¡bueno trabajo! Ahora, es hora de [crear el texto para su mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+¡bueno trabajo! Ahora, es hora de [cree el texto para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
