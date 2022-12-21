@@ -2,14 +2,13 @@
 unique-page-id: 15695924
 description: Clasificación y ajuste de perfiles de cuenta - Documentos de Marketo - Documentación del producto
 title: Clasificación y ajuste de perfiles de cuenta
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Clasificación y ajuste de perfiles de cuenta {#account-profiling-ranking-and-tuning}
 
@@ -21,7 +20,7 @@ Los resultados muestran todas sus cuentas conocidas desglosadas por grado. A es 
 
 ![](assets/results.png)
 
-Aunque es opcional, se recomienda seleccionar la casilla Promocionar automáticamente , ya que le ahorrará un montón de tiempo. Sin embargo, si desea navegar por cada cuenta y [agregarla manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simplemente deje la casilla sin marcar.
+Aunque es opcional, se recomienda seleccionar la casilla Promocionar automáticamente , ya que le ahorrará un montón de tiempo. Sin embargo, si desea navegar por cada cuenta y [agregarlos manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simplemente deje la casilla sin marcar.
 
 <table> 
  <tbody> 
@@ -127,14 +126,14 @@ Hay varias pestañas entre las que elegir, lo que permite una personalización d
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Marketing</strong></td> 
+   <td><strong>marketing</strong></td> 
    <td> 
     <div>
       Tecnologías de marketing y software, puestos/contratación relacionados con el marketing. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Empresa</strong></td> 
+   <td><strong>Negocio</strong></td> 
    <td> 
     <div>
       Listas de Forbes o Inc o sociedades de negocios. 
@@ -158,13 +157,13 @@ Haga clic en la lista desplegable Agregar indicador ICP para insertar indicadore
 
 ![](assets/add-icp.png)
 
-Si activa la casilla Exportar, podrá ver el indicador ICP en la página de detalles de la cuenta con nombre, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Si activa la casilla Exportar, podrá ver el indicador ICP en la página de detalles de la cuenta designada, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Los indicadores ICP se incluyen como restricciones en los filtros y Déclencheur **Member of Named Account**.
+>Los indicadores del PCI se incluyen como restricciones en **Miembro de la cuenta con nombre** Filtros y Déclencheur.
 
 Ponderación del indicador es lo que controla el nivel de importancia que cada indicador recibe en su modelo.
 
