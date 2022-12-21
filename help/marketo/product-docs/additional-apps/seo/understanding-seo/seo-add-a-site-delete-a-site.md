@@ -3,7 +3,6 @@ unique-page-id: 2949194
 description: 'SEO: Adición de un sitio o eliminación de un sitio: documentos de Marketo: documentación del producto'
 title: 'SEO: Agregar un sitio o eliminarlo'
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# SEO: Agregar un sitio/eliminar un sitio {#seo-add-a-site-delete-a-site}
+# SEO: Agregar un sitio o eliminarlo {#seo-add-a-site-delete-a-site}
 
 Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevantes para las páginas de su sitio, debe definir la dirección URL del sitio aquí.
 
@@ -21,7 +20,7 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
 ## Agregar un sitio {#add-a-site}
 
-1. Haga clic en la lista desplegable Administración y seleccione **Administración**.
+1. Haga clic en la lista desplegable Administración y seleccione **Administrador**.
 
    >[!NOTE]
    >
@@ -33,15 +32,15 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
    ![](assets/two.png)
 
-1. Introduzca el **Name, Website URL** y haga clic en **Save**.
+1. Introduzca la variable **Nombre, URL del sitio web** y haga clic en **Guardar**.
 
    >[!TIP]
    >
-   >También puede agregar una **URL del blog** si tiene una.
+   >También puede agregar un **URL del blog** si tienes uno.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
-   ¡bueno! Acaba de agregar otro sitio.
+   ¡Excelente! Acaba de agregar otro sitio.
 
    ![](assets/four.png)
 
@@ -49,7 +48,7 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
 Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio que ya no esté interesado en optimizar.
 
-1. Haga clic en la lista desplegable Administración y seleccione **Administración**.
+1. Haga clic en la lista desplegable Administración y seleccione **Administrador**.
 
    ![](assets/one.png)
 
@@ -67,4 +66,4 @@ Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio 
 
    >[!NOTE]
    >
-   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un restablecimiento seleccionando el sitio y haciendo clic en **Restaurar**. Al restablecer un sitio _se eliminarán todos los datos del sitio_ y se recreará el sitio.
+   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un restablecimiento seleccionando el sitio y haciendo clic en **Restablecer**. Al restablecer un sitio _eliminar todos los datos del sitio_ y vuelva a crear el sitio.
