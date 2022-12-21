@@ -3,7 +3,6 @@ unique-page-id: 2360327
 description: Asignación de particiones de persona con reglas de asignación - Documentos de Marketo - Documentación del producto
 title: Asignación de Particiones de Persona con Reglas de Asignación
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Asignación de particiones de persona con reglas de asignación {#assigning-person-partitions-with-assignment-rules}
+# Asignación de Particiones de Persona con Reglas de Asignación {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -31,7 +30,7 @@ Al utilizar particiones de persona, configure reglas de asignación para enrutar
 
    ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. En la pestaña **People Partitions**, haga clic en **Assignment Rules**.
+1. En el **Particiones de personas** , haga clic en **Reglas de asignación**.
 
    ![](assets/two-6.png)
 
