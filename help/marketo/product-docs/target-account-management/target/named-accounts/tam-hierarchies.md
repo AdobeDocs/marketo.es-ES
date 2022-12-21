@@ -2,14 +2,13 @@
 unique-page-id: 13795510
 description: Jerarquías TAM - Documentos de Marketo - Documentación del producto
 title: Jerarquías TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Jerarquías TAM {#tam-hierarchies}
 
@@ -33,8 +32,8 @@ Con las jerarquías TAM, puede obtener rápidamente información sobre una jerar
 
 >[!NOTE]
 >
->La interfaz de Marketo solo mostrará hasta 10 niveles (cuentas secundarias y de nieto de la cuenta principal), aunque no hay límite en el número de cuentas secundarias que puede crear.
+>La interfaz de Marketo solo mostrará hasta 10 niveles (cuentas secundarias y de nietos de la cuenta principal), aunque no hay límite en el número de cuentas secundarias que puede crear.
 
-Segmente e informe sobre jerarquías enteras con [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Segmente y elabore informes sobre jerarquías enteras con [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
