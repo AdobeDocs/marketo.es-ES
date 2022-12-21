@@ -5,7 +5,7 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -31,7 +31,7 @@ El Dialer de ventas le facilita comunicarse internacionalmente. Para los cliente
   </tr> 
   <tr> 
    <td colspan="1">Austria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 436 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -59,11 +59,11 @@ El Dialer de ventas le facilita comunicarse internacionalmente. Para los cliente
   </tr> 
   <tr> 
    <td>Grecia </td> 
-   <td>30 de marzo de 2021</td> 
+   <td>30, 3021</td> 
   </tr> 
   <tr> 
    <td>Hungría</td> 
-   <td>36 361</td> 
+   <td>36, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlanda </td> 
@@ -111,7 +111,7 @@ El Dialer de ventas le facilita comunicarse internacionalmente. Para los cliente
   </tr> 
   <tr> 
    <td colspan="1">Polonia </td> 
-   <td colspan="1">48 4832</td> 
+   <td colspan="1">48, 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -135,7 +135,7 @@ El Dialer de ventas le facilita comunicarse internacionalmente. Para los cliente
   </tr> 
   <tr> 
    <td>Estados Unidos</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877 y 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
