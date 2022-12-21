@@ -1,29 +1,28 @@
 ---
 unique-page-id: 3571888
-description: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos - Documentos de marketing - Documentación del producto
+description: 'Activación de la sincronización de campos personalizados para el análisis de ciclo de ingresos: Marketo Docs: documentación del producto'
 title: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
 # Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-Los siguientes pasos le permitirán utilizar campos personalizados en los informes de RCA.
+Los siguientes pasos le permitirán utilizar campos personalizados en informes de RCA.
 
-1. Haga clic en **Administración**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Análisis del ciclo de ingresos** y luego en **Sincronización del campo personalizado**.
+1. Haga clic en **Análisis del ciclo de ingresos**, luego **Sincronización de campos personalizados**.
 
    ![](assets/two.png)
 
-1. Seleccione su **Nombre de campo** y haga clic en **Editar opción de sincronización**.
+1. Seleccione su **Nombre del campo** y haga clic en **Editar opción de sincronización**.
 
    ![](assets/three.png)
 
@@ -35,8 +34,8 @@ Los siguientes pasos le permitirán utilizar campos personalizados en los inform
 
    ![](assets/five.png)
 
-   ¡Y eso es eso!
+   ¡Y eso es todo!
 
    >[!NOTE]
    >
-   >Una vez activado el campo, los datos estarán disponibles en Análisis del ciclo de ingresos al día siguiente.
+   >Una vez activado el campo, los datos estarán disponibles en el ciclo de ingresos de Analytics al día siguiente.
