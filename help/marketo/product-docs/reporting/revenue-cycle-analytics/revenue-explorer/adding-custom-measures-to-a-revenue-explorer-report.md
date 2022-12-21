@@ -1,29 +1,28 @@
 ---
 unique-page-id: 10097747
-description: Añadir medidas personalizadas en un informe del Explorador de ingresos - Documentos de marketing - Documentación del producto
-title: Añadir medidas personalizadas en un informe del Explorador de ingresos
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Adición de medidas personalizadas a un informe del Explorador de ingresos - Documentos de Marketo - Documentación del producto
+title: Adición de medidas personalizadas a un informe del Explorador de ingresos
+exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
-# Añadir medidas personalizadas en un informe del Explorador de ingresos {#adding-custom-measures-to-a-revenue-explorer-report}
+# Adición de medidas personalizadas a un informe del Explorador de ingresos {#adding-custom-measures-to-a-revenue-explorer-report}
 
 A veces, desea una medida personalizada en un informe. Es fácil crear uno propio.
 
-En el ejemplo siguiente, está creando una medida calculada para devoluciones en blanco, que toma las métricas que ya están en el informe y utiliza matemáticas básicas para crear una nueva métrica. También puede crear otros tipos de medidas.
+En el ejemplo siguiente, se crea una medida calculada para devoluciones leves, que toma métricas que ya están en el informe y utiliza matemáticas básicas para crear una nueva métrica. También puede crear otros tipos de medidas.
 
 >[!PREREQUISITES]
 >
->Necesita al menos una métrica en el informe, pero no tiene por qué ser una de las medidas que utilice para definir la medida personalizada.
+>Necesita al menos una métrica en el informe, pero no tiene por qué ser una de las medidas que usa para definir la medida personalizada.
 
-1. Desplácese por los campos que necesita para el informe. Consulte [Añadir campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obtener más información.
+1. Desplácese por los campos que necesite para el informe. Consulte [Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obtener más información.
 
-1. Haga clic con el botón derecho en una métrica existente (celda azul), haga clic en **Medida definida por el usuario** y seleccione **Medida calculada**.
+1. Haga clic con el botón derecho en una métrica existente (celda azul) y haga clic en **Medida definida por el usuario** y seleccione **Medida calculada**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -31,15 +30,15 @@ En el ejemplo siguiente, está creando una medida calculada para devoluciones en
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. Haga clic en cada elemento que necesite a la izquierda y haga clic en la flecha para moverlo. Añada los símbolos matemáticos según sea necesario.
+1. Haga clic en cada elemento que necesite a la izquierda y haga clic en la flecha para moverlo. Agregue símbolos matemáticos según sea necesario.
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
    >[!TIP]
    >
-   >Puede escribir los símbolos matemáticos usted mismo o utilizar el cuadro de selección.
+   >Puede escribir los símbolos matemáticos por su cuenta o utilizar el cuadro de selección.
 
-1. Cuando haya terminado, haga clic en **Aceptar**.
+1. Cuando haya terminado, haga clic en **OK**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
@@ -49,4 +48,4 @@ En el ejemplo siguiente, está creando una medida calculada para devoluciones en
 
    >[!MORELIKETHIS]
    >
-   >[Añadir campos en un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
