@@ -6,7 +6,7 @@ exl-id: e6cd988c-afba-44e3-b240-68258236f344
 source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
 source-wordcount: '937'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ El panel de fuerza visual MSI incluye las siguientes funcionalidades:
 
    * [Panel de perspectivas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Momentos interesantes
-   * Actividad web
+   * Actividad en la web
    * Email
    * Puntuación
 
@@ -147,7 +147,7 @@ Salesforce Classic: Agregue a la lista de observación, Añadir a Marketo Campai
    * Incluye la capacidad de crear y editar vistas
    * Columnas: Nombre, Cuenta, Último Momento Interesante, Encabezado De Estado, Participación (Estrellas Y Flames), Quitar
 
-* Actividad web
+* Actividad en la web
 
    * Incluye la capacidad de crear y editar vistas y la funcionalidad del filtro de intervalo de tiempo
    * Columna : vista de página, nombre, cuenta, última visita
