@@ -3,11 +3,10 @@ unique-page-id: 2953348
 description: Crear entradas directamente en el calendario de marketing - Marketo Docs - Documentación del producto
 title: Crear entradas directamente en el calendario de marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -17,12 +16,12 @@ Marketo permite crear entradas directamente en el Calendario de marketing median
 
 * Entradas básicas
 * Entradas personalizadas
-* Programas de correo electrónico
+* Programas de email
 * Campañas inteligentes
 
 Así es como.
 
-1. Vaya al **Calendario**.
+1. Vaya a la **Calendario**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -40,7 +39,7 @@ Así es como.
 
    >[!TIP]
    >
-   >Tenga en cuenta que también puede crear **Campañas inteligentes**, **Programas de correo electrónico** y **Entradas básicas** de la misma manera.
+   >Tenga en cuenta que también puede crear **Campañas inteligentes**, **Programas de correo electrónico** y **Entradas básicas** de esta misma manera.
 
 1. Cuando termine de editar, cierre el modo de enfoque del programa.
 
