@@ -3,7 +3,6 @@ unique-page-id: 1146974
 description: Editar reglas de calificación en una campaña inteligente - Documentos de Marketo - Documentación del producto
 title: Editar reglas de calificación en una campaña inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Las reglas de clasificación controlan cuántas veces alguien puede ejecutar el flujo en una campaña inteligente. De forma predeterminada, incluso si alguien déclencheur una campaña inteligente varias veces, solo se envían a través del flujo una vez. A continuación se explica cómo modificar esta configuración.
 
-1. En la campaña inteligente, haga clic en la pestaña **Schedule** y, a continuación, en **Edit Settings**.
+1. En la campaña inteligente, haga clic en el botón **Programación** pestaña y luego **Editar configuración**.
 
    ![](assets/programeditsettings-hands.png)
 
@@ -33,7 +32,7 @@ Las reglas de clasificación controlan cuántas veces alguien puede ejecutar el 
 
    >[!NOTE]
    >
-   >Los límites de comunicación no se aplican a las campañas inteligentes de forma predeterminada. Aprenda a [aplicar límites de comunicación a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Los límites de comunicación no se aplican a las campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicar límites de comunicación a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
