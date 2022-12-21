@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Notas de la versión: Octubre de 2021 {#release-notes-oct-21}
 
-La versión del 21 de octubre incluye las siguientes funciones. Consulte la edición para Marketo Engage de Adobe si hay disponibilidad de funcionalidades.
+La versión del 21 de octubre incluye las siguientes funciones. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
@@ -45,7 +45,7 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 * **Conector de fuente de datos de Adobe Experience Platform Marketo**: Los usuarios de Adobe Experience Platform y de Marketo Engage podrán utilizar el conector de origen de Marketo al importar datos de Marketo a AEP. Podrá transmitir datos (y sus cambios) desde Marketo dentro de AEP para mantener la coherencia de los datos entre los dos productos. El conector de Marketo se puede ver a través del catálogo de fuentes, en la sección &quot;Aplicaciones de Adobe&quot;.
 
-## Conocimiento de ventas {#sales-insight}
+## Sales Insight {#sales-insight}
 
 ![(estrella)](assets/yellow-star.png)
 
