@@ -2,20 +2,19 @@
 unique-page-id: 11380734
 description: Déclencheur de cuenta - Documentos de Marketo - Documentación del producto
 title: Déclencheur de cuenta
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Déclencheur de cuenta {#account-triggers}
 
 Escuche y actúe en actividades de comportamiento importantes a nivel de cuenta en diferentes canales (por ejemplo, correo electrónico, web, anuncios) mediante déclencheur a nivel de cuenta.
 
-Seleccione la campaña inteligente y haga clic en **[!UICONTROL Smart List]**.
+Seleccione la campaña inteligente y haga clic en **[!UICONTROL Lista inteligente]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +22,7 @@ Escriba &quot;Cuenta con nombre&quot; en el cuadro de búsqueda para encontrar a
 
 ![](assets/two-1.png)
 
-Arrastre el déclencheur que desee al lienzo. En este ejemplo utilizamos _Añadido a la cuenta con nombre_.
+Arrastre el déclencheur que desee al lienzo. En este ejemplo utilizamos _Agregado a la cuenta con nombre_.
 
 ![](assets/three-1.png)
 
@@ -43,4 +42,4 @@ Haga clic en la lista desplegable de cuentas con nombre...
 
 >[!MORELIKETHIS]
 >
->[Filtros de la cuenta](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
+>[Filtros de cuenta](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
