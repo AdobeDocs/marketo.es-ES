@@ -3,7 +3,6 @@ unique-page-id: 9437903
 description: Crear un filtro de sincronización de Dynamics personalizado - Documentos de Marketo - Documentación del producto
 title: Crear un filtro de sincronización de Dynamics personalizado
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '785'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 ¿No desea sincronizar todo en su Dynamics CRM con Marketo? ¡No te preocupes! Marketo le permite configurar un filtro de sincronización y sincronizar solo parte de sus registros.
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Para configurar un filtro de sincronización de Dynamics:
 
@@ -37,7 +36,7 @@ Marketo busca este campo durante la sincronización automática de fondo y deter
 
 >[!CAUTION]
 >
->La única manera de indicar a Marketo que omita un registro es establecer el valor del campo explícitamente como **No**. Marketo sigue sincronizando los registros aunque los valores de campo estén vacíos.
+>La única manera de indicar a Marketo que omita un registro es establecer explícitamente el valor del campo para que sea **No**. Marketo sigue sincronizando los registros aunque los valores de campo estén vacíos.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +44,7 @@ Marketo busca este campo durante la sincronización automática de fondo y deter
 
 ## Crear campo SyncToMkto {#create-synctomkto-field}
 
-1. Inicie sesión en Dynamics CRM. Haga clic en **Configuración** y, a continuación, haga clic en **Personalizaciones**.
+1. Inicie sesión en Dynamics CRM. Haga clic en **Configuración** y haga clic en **Personalizaciones**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -53,27 +52,27 @@ Marketo busca este campo durante la sincronización automática de fondo y deter
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Haga clic en ![](assets/image2015-8-10-21-3a44-3a23.png) junto a **Entities**.
+1. Haga clic en ![](assets/image2015-8-10-21-3a44-3a23.png) junto a **Entidades**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Haga clic en ![](assets/image2015-8-10-21-3a44-3a23.png) junto a **Lead** y seleccione **Fields**. A continuación, haga clic en **New**.
+1. Haga clic en ![](assets/image2015-8-10-21-3a44-3a23.png) junto a **Posible cliente** y seleccione **Campos**. A continuación, haga clic en **Nuevo**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Introduzca **SyncToMkto** en el campo **Display Name** y seleccione **Dos opciones** como **Data Type**. A continuación, haga clic en **Guardar y cerrar**.
+1. Entrar **SyncToMkto** en el **Nombre para mostrar** y seleccione **Dos opciones** como el **Tipo de datos**. A continuación, haga clic en **Guardar y cerrar**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >Elija cualquier nombre para mostrar para este campo, pero el campo Nombre debe ser exactamente **new_synctomkto**. Debe utilizar **new** como prefijo predeterminado. Si ha cambiado el valor predeterminado, vaya aquí a [restablecer el prefijo predeterminado para los nombres de campo personalizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Puede volver a cambiarlo después de crear los campos nuevos.
+   >Elija cualquier nombre para mostrar para este campo, pero el campo Nombre debe ser exactamente **new_synctomkto**. Debe usar **new** como prefijo predeterminado. Si ha cambiado el valor predeterminado, vaya aquí a [restablecer el prefijo predeterminado de los nombres de campo personalizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Puede volver a cambiarlo después de crear los campos nuevos.
 
    >[!NOTE]
    >
-   >Si tiene configurado un flujo de trabajo asincrónico, el registro obtiene el valor predeterminado SyncToMkto que ha configurado en el campo y obtiene el valor correcto unos segundos después, cuando el flujo de trabajo termina de ejecutarse. Si el valor predeterminado es Sí, esos registros se crearán en Marketo y después pasarán a estar obsoletos. Utilice **No** como valor predeterminado para evitar esto.
+   >Si tiene configurado un flujo de trabajo asincrónico, el registro obtiene el valor predeterminado SyncToMkto que ha configurado en el campo y obtiene el valor correcto unos segundos después, cuando el flujo de trabajo termina de ejecutarse. Si el valor predeterminado es Sí, esos registros se crearán en Marketo y después pasarán a estar obsoletos. Uso **No** como valor predeterminado para evitar esto.
 
-1. Repita este proceso y cree el campo **SyncToMkto** para cualquier otra entidad en la que desee limitar la sincronización, como entidades de contacto, cuenta, oportunidad y personalizadas.
+1. Repita este proceso y cree la variable **SyncToMkto** para cualquier otra entidad en la que desee limitar la sincronización, como entidades de contacto, cuenta, oportunidad y personalizadas.
 
 ## Seleccione el filtro en Marketo {#select-the-filter-in-marketo}
 
@@ -103,7 +102,7 @@ Siempre puede asignar manualmente un valor a los campos SyncToMkto para sus regi
 >
 >Un flujo de trabajo de Dynamics solo funciona con registros nuevos creados a partir de ahora, no con datos históricos. Utilice una actualización por lotes para pasar sobre registros existentes.
 
-1. Vaya a Dynamics CRM. Haga clic en **Settings** y luego haga clic en **Processes**.
+1. Vaya a Dynamics CRM. Haga clic en **Configuración** a continuación, haga clic en **Procesos**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -111,19 +110,19 @@ Siempre puede asignar manualmente un valor a los campos SyncToMkto para sus regi
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Introduzca un nombre para el flujo de trabajo y seleccione **Workflow** como categoría y **Lead** como entidad. A continuación, haga clic en **OK**.
+1. Introduzca un nombre para el flujo de trabajo y seleccione **Flujo de trabajo** como categoría y **Posible cliente** como entidad. A continuación, haga clic en **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Cree reglas para asignar un valor verdadero o falso al campo **SyncToMkto** en función de las preferencias de su organización. Haga clic en **Guardar y cerrar**.
+1. Cree reglas para asignar un valor verdadero o falso a la variable **SyncToMkto** en función de las preferencias de su organización. Haga clic en **Guardar y cerrar**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Defina una acción predeterminada después de hacer clic en **Agregar paso** para agregar una condición de comprobación. Esto establece los registros que no desea sincronizar en **No**. De lo contrario, se sincronizarán.
+   >Definir una acción predeterminada después de hacer clic en **Agregar paso** para agregar una condición de comprobación. Esto establece los registros que no desea sincronizar **No**. De lo contrario, se sincronizarán.
 
-1. Seleccione el flujo de trabajo y haga clic en **Activate**.
+1. Seleccione el flujo de trabajo y haga clic en **Activar**.
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
@@ -137,11 +136,11 @@ A continuación, se muestran algunos detalles de implementación que pensamos qu
 
 1. Iniciar una operación de sincronización
 
-   Cuando el valor **SyncToMkto** cambia de **No** a **Yes**, Dynamics notifica a Marketo inmediatamente para que inicie la sincronización de este registro. Si el registro ya existe, Marketo lo actualiza. De lo contrario, Marketo crea el registro.
+   Cuando la variable **SyncToMkto** cambios de valor de **No** a **Sí**, Dynamics notifica a Marketo inmediatamente para iniciar la sincronización de este registro. Si el registro ya existe, Marketo lo actualiza. De lo contrario, Marketo crea el registro.
 
    >[!TIP]
    >
-   >Se agrega una operación `Create [StartSync]` al registro de Marketo cuando esto sucede.
+   >A `Create [StartSync]` se agrega al registro de Marketo cuando esto sucede.
 
 1. Detener una operación de sincronización
 
