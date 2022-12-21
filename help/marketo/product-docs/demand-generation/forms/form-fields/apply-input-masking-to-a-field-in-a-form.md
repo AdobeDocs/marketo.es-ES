@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359667
-description: Aplicar máscara de entrada a un campo de un formulario - Documentos de marketing - Documentación del producto
+description: Aplicar máscara de entrada a un campo de un formulario - Documentos de Marketo - Documentación del producto
 title: Aplicar máscara de entrada a un campo de un formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
 # Aplicar máscara de entrada a un campo de un formulario {#apply-input-masking-to-a-field-in-a-form}
 
-Puede restringir la entrada del visitante mediante una máscara de entrada. Por ejemplo, puede que desee que los visitantes introduzcan números de teléfono únicamente en un formato específico.
+Puede restringir la entrada del visitante mediante una máscara de entrada. Por ejemplo, es posible que desee que los visitantes introduzcan números de teléfono únicamente en un formato específico.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -23,15 +22,15 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleccione el campo y asegúrese de que el **Tipo de campo** está establecido en **Texto**.
+1. Seleccione el campo y asegúrese de que la variable **Tipo de campo** está configurado como **Texto**.
 
    >[!NOTE]
    >
-   >El enmascaramiento de entrada solo funciona con **Tipos de campo de texto**.
+   >El enmascaramiento de entrada solo funciona con **Tipos de campos de texto**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Haga clic en el vínculo **Entrada de máscara**.
+1. Haga clic en el **Entrada de máscara** vínculo.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -51,12 +50,12 @@ Puede restringir la entrada del visitante mediante una máscara de entrada. Por 
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   ¡Echa un vistazo! Ahora le estás pidiendo al visitante que introduzca números en un formato específico.
+   ¡Echa un vistazo! Ahora le pide al visitante que introduzca números en un formato específico.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
-   >Es posible que el campo no muestre regiones predefinidas como se muestra en la imagen anterior. Puede aparecer en blanco hasta que el visitante inicio la introducción de números, lo que se ajustará automáticamente al formato de entrada definido para el campo.
+   >Es posible que el campo no muestre regiones predefinidas como se muestra en la imagen anterior. Puede aparecer en blanco hasta que el visitante empiece a introducir números, que luego se adherirá automáticamente al formato de entrada definido para el campo.
 
 Muy bien, ¿eh?
