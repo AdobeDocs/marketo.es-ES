@@ -5,7 +5,7 @@ title: Tokens de campo personalizados de miembro del programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ En la parte posterior de las funciones Campos personalizados de miembros del pro
 
 Los tokens de PMCF serán compatibles con el dominio miembro de la familia de tokens.
 
-Los tokens de miembro se utilizan para los campos comprendidos en el ámbito de los miembros del programa. A partir del estado actual, los tokens de miembro también se utilizan para insertar valores únicos de socios de servicios integrados. `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios. {{member.registration code}} se resuelve en el código de registro proporcionado por el proveedor de servicios.
+Los tokens de miembro se utilizan para los campos comprendidos en el ámbito de los miembros del programa. A partir del estado actual, los tokens de miembro también se utilizan para insertar valores únicos de socios de servicios integrados. `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios. {{member.registration code}} responde al código de registro proporcionado por el proveedor de servicios.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Busque y seleccione el Token de campo personalizado del miembro del programa que desee, introduzca un valor predeterminado y haga clic en **Insertar**.
+1. Busque y seleccione el token de campo personalizado del miembro del programa que desee, introduzca un valor predeterminado y haga clic en **Insertar**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -53,7 +53,7 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 >
 >No olvide aprobar su correo electrónico.
 
-**páginas de destino**
+**Páginas de destino**
 
 1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
 
@@ -75,7 +75,7 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Introduzca un valor predeterminado y haga clic en **Insert**.
+1. Introduzca un valor predeterminado y haga clic en **Insertar**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -89,7 +89,7 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Haga clic en el botón **`{{ Token`**.
+1. Haga clic en el **`{{ Token`** botón.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -111,15 +111,15 @@ Puede insertar Tokens de campos personalizados de miembro del programa en correo
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Haga clic en el mensaje en el editor y haga clic en el botón `{{` para obtener el selector de tokens.
+1. Haga clic en el mensaje en el editor y, a continuación, haga clic en el botón `{{` para obtener el selector de tokens.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Introduzca un valor predeterminado y haga clic en **Insert**.
+1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Introduzca un valor predeterminado y haga clic en **Insertar**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Haga clic en **Finish** para guardar y salir (o **Next** para revisarlo primero).
+1. Haga clic en **Finalizar** para guardar y salir (o **Siguiente** para revisar primero).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 
