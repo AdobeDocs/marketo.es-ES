@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede exportar fácilmente a Excel. Así es como.
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione la lista o lista inteligente que desea exportar y vaya a la pestaña **People**.
+1. Seleccione la lista o lista inteligente que desea exportar y vaya a la **People** pestaña .
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -26,17 +26,17 @@ Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede e
 
    ![](assets/exportpeople.png)
 
-1. Seleccione **Visible Columns** y haga clic en **Export**.
+1. Select **Columnas visibles** y haga clic en **Exportar**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Si elige **Todas las columnas**, la exportación será de mayor tamaño y tardará más en generarse o descargarse.
+   >Si elige **Todas las columnas**, el tamaño de la exportación será mayor y tardará más en generarse o descargarse.
 
    >[!TIP]
    >
-   >Si los registros de persona contienen caracteres extranjeros que no se representan correctamente al exportar, intente cambiar el tipo de archivo en la lista desplegable **Format**.
+   >Si los registros de persona contienen caracteres extranjeros que no se representan correctamente durante la exportación, intente cambiar el tipo de archivo en la variable **Formato** lista desplegable.
 
 1. Se ejecutará la exportación. Una vez finalizado, puede hacer clic en **Descargar ahora** para obtener el archivo.
 
@@ -44,4 +44,4 @@ Si necesita resultados de listas o listas inteligentes fuera de Marketo, puede e
 
    >[!TIP]
    >
-   >Si la exportación está tardando un rato, siempre puede cerrar la sesión y volver más tarde. Se puede acceder al enlace **Descargar ahora** seleccionando **Mostrar estado de exportación** en el menú **Acciones de lista**, y es válido durante una semana.
+   >Si la exportación está tardando un rato, siempre puede cerrar la sesión y volver más tarde. La variable **Descargar ahora** se puede acceder al vínculo seleccionando **Mostrar estado de exportación** en el **Acciones de lista** y es válido durante una semana.
