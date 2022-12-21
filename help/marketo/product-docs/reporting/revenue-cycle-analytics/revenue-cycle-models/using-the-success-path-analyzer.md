@@ -1,15 +1,14 @@
 ---
 unique-page-id: 3571886
-description: Uso del analizador de rutas de éxito - Documentos de marketing - Documentación del producto
+description: 'Uso del Analizador de rutas de éxito: Documentos de Marketo: Documentación del producto'
 title: Uso del analizador de rutas de éxito
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Uso del analizador de rutas de éxito {#using-the-success-path-analyzer}
 
@@ -17,31 +16,31 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
 >[!PREREQUISITES]
 >
->[Creación de un analizador de rutas de éxito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[Crear un analizador de rutas de éxito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Vaya a **Analytics** y seleccione su **Analizador de rutas de éxito**.
+1. Vaya a **Analytics** y seleccione **Analizador de rutas de éxito**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
-   El gráfico de la derecha refleja los datos del botón seleccionado de la izquierda. De forma predeterminada, es Equilibrio.
+   El gráfico de la derecha refleja los datos del botón seleccionado de la izquierda. De forma predeterminada, se trata de Balance.
 
-1. Haga clic **En Flujo** para graficar cuántas personas entraron al escenario durante el intervalo de tiempo seleccionado.
+1. Haga clic en **En flujo** para crear un gráfico de cuántas personas entraron al escenario durante el lapso de tiempo seleccionado.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
-   * Haga clic en Flujo de salida para graficar cuántas personas salieron del escenario.
-   * Haga clic en Conv. % para graficar la tasa de conversión de esta a la siguiente etapa.
-   * Haga clic en Tiempo promedio para ver el tiempo que la gente invirtió en esta etapa antes de pasar a la siguiente.
+   * Haga clic en Flujo para graficar cuántas personas salieron del escenario.
+   * Haga clic en Conv % para graficar la tasa de conversión de esta a la siguiente etapa.
+   * Haga clic en Promedio de tiempo para ver cuánto tiempo han pasado las personas en esta etapa antes de pasar al siguiente paso.
 
-1. Haga clic en **Acciones de gráfico** > Comparar período para comparar los datos con un intervalo de tiempo diferente de igual longitud.
+1. Haga clic en **Acciones de gráfico** > Comparar periodo para comparar los datos con un intervalo de tiempo diferente de igual longitud.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Seleccione la fecha **Desde** para el período de comparación.
+1. Seleccione el **De** fecha para el periodo de comparación.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   La fecha **A** se configura automáticamente para que coincida con la duración del período de tiempo original.
+   La variable **Hasta** se configura automáticamente para que coincida con la duración del período de tiempo original.
 
 1. Haga clic en **Comparar**.
 
@@ -51,25 +50,25 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Para cambiar la escala de tiempo del gráfico, haga clic en uno de los botones **Gráfico por**: diario (predeterminado), semanal y mensual
+1. Para cambiar la escala de tiempo del gráfico, haga clic en una de las **Gráfico por** botones: diariamente (predeterminado), semanalmente y mensualmente
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Para las etapas con SLA (Acuerdos de nivel de servicio), haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar a todas las personas que alguna vez omitieron un destinatario de SLA dentro del intervalo de tiempo especificado.
+1. Para etapas con SLAs (Acuerdos de Nivel de Servicio), haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar a todas las personas que alguna vez omitieron un objetivo de SLA dentro del lapso de tiempo especificado.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
-1. El gráfico se actualiza para reflejar la cantidad de SLAs que se adeudaban en cada nodo, en color naranja.
+1. El gráfico se actualiza para reflejar cuántos SLAs se adeudaban en cada nodo, en naranja.
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   Las personas que se muestran en color naranja pueden *o no* seguir estando en la etapa SLA.
+   La gente mostrada en naranja podría *o puede no* siga estando en la fase SLA.
 
-1. Haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar a todas las personas con destinatarios SLA caducados que aún se encuentran en la etapa SLA al final del período de tiempo especificado.
+1. Haga clic en **Acciones de gráfico** > **Mostrar SLA vencido** para mostrar todas las personas con objetivos SLA caducados que aún se encuentren en la fase SLA al final del período de tiempo especificado.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
-1. El gráfico se actualiza para reflejar la cantidad de SLA vencidos en cada nodo, en color naranja.
+1. El gráfico se actualiza para reflejar cuántos SLAs se vencieron en cada nodo, en naranja.
 
    ![](assets/image2015-6-12-17-3a52-3a17.png)
 
@@ -81,4 +80,4 @@ Utilice un analizador de rutas de éxito para explorar los detalles específicos
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
-El analizador está aquí para ayudarle a comprender el movimiento a través de su modelo. A medida que avance, esto será muy importante para diseñar estrategias de sus esfuerzos de mercadotecnia.
+El analizador está aquí para ayudarle a comprender el movimiento a través de su modelo. A medida que avance, esto será muy importante para diseñar estrategias de marketing.
