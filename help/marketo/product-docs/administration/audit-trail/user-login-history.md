@@ -5,8 +5,8 @@ title: Historial de inicio de sesión del usuario
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '178'
+ht-degree: 2%
 
 ---
 
