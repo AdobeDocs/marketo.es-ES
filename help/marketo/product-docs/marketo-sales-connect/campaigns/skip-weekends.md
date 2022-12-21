@@ -1,25 +1,24 @@
 ---
 unique-page-id: 14352622
-description: Omitir fines de semana - Documentos de marketing - Documentación del producto
+description: 'Omitir fines de semana: Documentos de Marketo: Documentación del producto'
 title: Omitir fines de semana
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Omitir fines de semana {#skip-weekends}
 
-Al automatizar una campaña, probablemente no quiera que sus correos electrónicos salgan los sábados o domingos. Si no es así, puede omitir los fines de semana.
+Al automatizar una campaña, probablemente no quiera que sus correos electrónicos salgan un sábado o domingo. Si no es así, puede omitir los fines de semana.
 
-1. En Sales Connect, haga clic en la ficha **Campañas**.
+1. En Conexión de ventas, haga clic en el botón **Campañas** pestaña .
 
    ![](assets/one-2.png)
 
-1. Busque y seleccione su campaña.
+1. Busque y seleccione la campaña.
 
    ![](assets/two-2.png)
 
@@ -27,7 +26,7 @@ Al automatizar una campaña, probablemente no quiera que sus correos electrónic
 
    ![](assets/three-2.png)
 
-1. Seleccione la casilla **Omitir fines de semana**.
+1. Seleccione el **Omitir fines de semana** casilla de verificación.
 
    ![](assets/four-2.png)
 
