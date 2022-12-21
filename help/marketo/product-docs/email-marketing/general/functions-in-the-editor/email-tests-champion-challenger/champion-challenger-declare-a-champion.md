@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359584
-description: Campeón/Desafiante - Declarar campeón - Documentos de marketing - Documentación del producto
+description: Campeón/Desafío - Declare un campeón - Marketo Docs - Documentación del producto
 title: Campeón/Desafío - Declare un Campeón
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # Campeón/Desafío: Declarar campeón {#champion-challenger-declare-a-champion}
 
@@ -27,15 +26,15 @@ Cuando esté listo, puede declarar un campeón para la prueba de correo electró
 
    ![](assets/champion4.jpg)
 
-1. Seleccione el **ganador** de su elección.
+1. Seleccione el **Ganador** de su elección.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Establezca la **Declaración de fecha**.
+1. Configure las variables **Declarar fecha**.
 
    >[!NOTE]
    >
-   >Hasta que **Declare Date**, Marketo continuará enviando al(los) antiguo(s) campeón(s) y aspirante(s). Una vez que se llegue a la fecha y hora, sólo se enviará al nuevo campeón.
+   >Hasta el **Declarar fecha**, Marketo seguirá enviando al antiguo campeón y aspirante(s). Una vez que llegue la fecha y la hora, solo se enviará el nuevo campeón.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
@@ -47,4 +46,4 @@ Cuando esté listo, puede declarar un campeón para la prueba de correo electró
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
-   ¡Rad! Ahora sabe cómo ejecutar fácilmente una prueba de correo electrónico para mejorar el contenido sin interrupciones en su campaña.
+   ¡Rad! Ahora sabe cómo ejecutar fácilmente una prueba de correo electrónico para mejorar su contenido sin interrupciones en su campaña.
