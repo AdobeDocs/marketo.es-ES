@@ -83,7 +83,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Filtro</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/filter-active.png"></td> 
    <td>Filtro: activo</td> 
   </tr>
@@ -158,7 +158,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Informe</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/search.png"></td> 
    <td>Buscar</td> 
   </tr>
@@ -213,7 +213,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Déclencheur - activo</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/trigger-inactive.png"></td> 
    <td>Déclencheur - inactivo</td> 
   </tr>
@@ -297,7 +297,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>Se solicita</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/inactive.png"></td> 
    <td>Inactivo</td> 
   </tr>
@@ -388,7 +388,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <td>En pausa</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/inapp-scheduled.png"></td> 
    <td>Programado</td> 
   </tr>
@@ -437,17 +437,17 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
    <th>Descripción</th> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
    <td>Aprobado - en cálculo</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
    <td>Aprobado: en proceso de nuevo cálculo</td> 
   </tr>
   <tr>
-   <td><strong>n.a</strong></td> 
+   <td><strong>n/a</strong></td> 
    <td><img src="assets/draft-under-calculation.png"></td> 
    <td>Borrador en curso de cálculo</td> 
   </tr>
