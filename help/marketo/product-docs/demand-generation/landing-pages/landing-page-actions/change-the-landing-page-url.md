@@ -1,28 +1,27 @@
 ---
 unique-page-id: 2359738
-description: Cambiar la dirección URL de la Página de aterrizaje - Documentos de marketing - Documentación del producto
-title: Cambiar la dirección URL de la Página de aterrizaje
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Cambio de la dirección URL de la página de aterrizaje: Documentos de Marketo: Documentación del producto'
+title: Cambiar la dirección URL de la página de aterrizaje
+exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
+# Cambiar la dirección URL de la página de aterrizaje {#change-the-landing-page-url}
 
-# Cambiar la dirección URL de Página de aterrizaje {#change-the-landing-page-url}
+Puede modificar la dirección URL de una página de aterrizaje. Esto puede ayudar a que la URL sea más fácil de recordar y a mejorar SEO.
 
-Puede modificar la dirección URL de una página de aterrizaje. Esto puede ayudar a que la dirección URL sea más fácil de recordar y a mejorar la optimización para motores de búsqueda.
-
-1. Seleccione la página de aterrizaje. Haga clic en la lista desplegable **Acciones de Página de aterrizaje**, desplácese hasta **Herramientas URL** y seleccione **Editar configuración de URL**.
+1. Seleccione la página de aterrizaje. Haga clic en el **Acciones de página de aterrizaje** desplegable, desplácese hasta **Herramientas URL** y seleccione **Editar configuración de URL**.
 
    ![](assets/one.png)
 
-1. Escriba la **Nueva dirección URL**, elija que se descarte o se redirija la dirección URL antigua y haga clic en **Guardar**.
+1. Introduzca la variable **Nueva URL**, elija que la URL antigua se descarte o se redirija, y haga clic en **Guardar**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Si decide conservar ambas direcciones URL, se creará una regla de redirección automáticamente. Obtenga más información sobre [redirecciones URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Si decide mantener ambas direcciones URL, se creará una regla de redirección automáticamente. Más información sobre [Redirecciones de URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
