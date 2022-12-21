@@ -3,7 +3,6 @@ unique-page-id: 2359675
 description: Desactivación del rellenado previo de un campo de formulario - Documentos de Marketo - Documentación del producto
 title: Deshabilitar el rellenado previo de un campo de formulario
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '169'
@@ -17,13 +16,13 @@ Cuando se conoce (se coordina) a un visitante web, los formularios de Marketo re
 
 >[!NOTE]
 >
->**Formulario Previo al** archivo habilitado de forma predeterminada. La configuración de rellenado previo de nivel de página de aterrizaje y la configuración de rellenado previo de nivel de administrador prevalecen sobre la configuración de nivel de formulario:
+>**Relleno previo del formulario** está activada de forma predeterminada. La configuración de rellenado previo de nivel de página de aterrizaje y la configuración de rellenado previo de nivel de administrador prevalecen sobre la configuración de nivel de formulario:
 >
 >Formulario > Página de aterrizaje > Administración
 
-## Deshabilitar el rellenado previo {#how-to-disable-pre-fill}
+## Cómo desactivar el rellenado previo {#how-to-disable-pre-fill}
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +34,7 @@ Cuando se conoce (se coordina) a un visitante web, los formularios de Marketo re
    >
    >El rellenado previo del formulario no funciona al incrustar un formulario en sus propias páginas. Solo funciona en páginas de aterrizaje de Marketo.
 
-1. Seleccione uno de los campos y establezca **Form Pre-fill** en **Disabled**.
+1. Seleccione uno de los campos y defina **Relleno previo del formulario** a **Desactivado**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,7 +42,7 @@ Cuando se conoce (se coordina) a un visitante web, los formularios de Marketo re
    >
    >También puede desactivar el rellenado previo del formulario en la página de aterrizaje o a nivel de administrador.
 
-1. Haga clic en **Finish**.
+1. Haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
@@ -53,6 +52,6 @@ Cuando se conoce (se coordina) a un visitante web, los formularios de Marketo re
 
 ## Campos confidenciales {#sensitive-fields}
 
-Cuando [marque un campo como sensible](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), evitando que sus valores se rellenen previamente en formularios, lo verá en la opción Relleno previo .
+Cuando [marcar un campo como sensible](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), evitando que sus valores se rellenen previamente en formularios, lo verá en la opción Relleno previo .
 
 ![](assets/disable-pre-fill.png)
