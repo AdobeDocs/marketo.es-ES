@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1147007
 description: Cambio del estado del programa - Documentos de Marketo - Documentación del producto
-title: Cambiar estado del programa
+title: Cambiar el estado del programa
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Cambiar estado del programa {#change-program-status}
+# Cambiar el estado del programa {#change-program-status}
 
-## Información general {#overview}
+## Resumen {#overview}
 
-Los estados del programa ayudan a realizar un seguimiento del progreso de las personas a través de un programa o evento. Encontrará más información en [Personalizar, crear y administrar canales](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Los estados del programa ayudan a realizar un seguimiento del progreso de las personas a través de un programa o evento. Buscar más información en [Personalizar, Crear Y Administrar Canales](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
@@ -23,11 +22,11 @@ Los estados del programa ayudan a realizar un seguimiento del progreso de las pe
 
 ## Uso {#usage}
 
-1. Arrastre el paso de flujo **Cambiar estado del programa**.
+1. Arrastre el **Cambiar estado del programa** paso de flujo.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Seleccione el **Nuevo estado** que desee establecer. La persona también será miembro del programa si aún no lo era.
+1. Seleccione el **Nuevo estado** desea establecer. La persona también será miembro del programa si aún no lo era.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
