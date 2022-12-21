@@ -1,19 +1,18 @@
 ---
 unique-page-id: 37356329
-description: Información general de búsqueda avanzada - Documentos de marketing - Documentación del producto
+description: 'Información general sobre la búsqueda avanzada: Documentos de Marketo: Documentación del producto'
 title: Información general de búsqueda avanzada
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
 # Información general de búsqueda avanzada {#advanced-search-overview}
 
-Al utilizar la búsqueda avanzada para clientes potenciales de destinatario que han visto, hecho clic o respondido a correos electrónicos, puede crear una lista de objetivo de los clientes potenciales más comprometidos.
+Al utilizar la búsqueda avanzada para dirigirse a los posibles clientes que hayan visto, hecho clic o respondido a correos electrónicos, puede crear una lista de objetivos de los posibles clientes más comprometidos.
 
 ## Cómo acceder a la búsqueda avanzada {#how-to-access-advanced-search}
 
@@ -21,11 +20,11 @@ Al utilizar la búsqueda avanzada para clientes potenciales de destinatario que 
 
    ![](assets/one.png)
 
-1. Haga clic en **Mensajes de correo electrónico**.
+1. Haga clic en **Correos electrónicos**.
 
    ![](assets/two.png)
 
-1. Elija la ficha correspondiente.
+1. Elija la pestaña correspondiente.
 
    ![](assets/three.png)
 
@@ -37,21 +36,21 @@ Al utilizar la búsqueda avanzada para clientes potenciales de destinatario que 
 
 **Fecha**
 
-Elija el intervalo de fechas para la búsqueda. Las fechas preestablecidas se actualizan según el estado del correo electrónico que elija (Enviado, No entregado, Pendiente).
+Elija el intervalo de fechas para la búsqueda. Las fechas preestablecidas se actualizan según el estado de correo electrónico que elija (Enviado, No entregado, Pendiente).
 
 ![](assets/date.png)
 
 **Quién**
 
-Filtre por destinatario/remitente de correo electrónico en la sección Quién.
+Filtre por destinatario/remitente del correo electrónico en la sección Quién.
 
 ![](assets/who.png)
 
 | Desplegable | Descripción |
 |---|---|
-| **Vista como** | Filtre por un remitente específico en la instancia de Sales Connect (esta opción solo está disponible para los administradores). |
-| **Por grupo** | Filtre los correos electrónicos según un grupo específico de destinatarios. |
-| **Por persona** | Filtrar por un destinatario específico. |
+| **Ver como** | Filtre por un remitente específico en la instancia de conexión de ventas (esta opción solo está disponible para administradores). |
+| **Por grupo** | Filtre correos electrónicos por un grupo específico de destinatarios. |
+| **Por persona** | Filtre por un destinatario específico. |
 
 **When**
 
@@ -61,13 +60,13 @@ Elija por fecha de creación, fecha de entrega, fecha de error o fecha programad
 
 **Campañas**
 
-Filtre los correos electrónicos por participación de campaña.
+Filtre los correos electrónicos por participación en la campaña.
 
 ![](assets/campaigns.png)
 
 **Estado**
 
-Existen tres estados de correo electrónico para elegir. Las opciones de tipo/actividad cambian según el estado seleccionado.
+Hay tres estados de correo electrónico para elegir. Las opciones de tipo/actividad cambian según el estado seleccionado.
 
 ![](assets/status.png)
 
@@ -75,37 +74,37 @@ Existen tres estados de correo electrónico para elegir. Las opciones de tipo/ac
 
 ![](assets/status-sent.png)
 
-Filtros por su actividad de correo electrónico enviada. Puede elegir vistas/sin vistas, clics/sin clics y/o respuestas/sin respuestas.
+Filtros por la actividad de correo electrónico enviada. Puede elegir vistas/sin vistas, clics/sin clics y/o respuestas/no respuestas.
 
 ***Estado: Pendiente***
 
 ![](assets/status-pending.png)
 
-Filtros por todos los correos electrónicos pendientes.
+Filtra por todos los correos electrónicos pendientes.
 
 | Estado | Descripción |
 |---|---|
-| **Programado** | Correos electrónicos programados desde la ventana de composición (Salesforce o la aplicación web), complementos de correo electrónico o una campaña. |
-| **Borradores** | Correos electrónicos que están actualmente en estado borrador. Los mensajes de correo electrónico requieren una línea de asunto y un destinatario para guardarse como borrador. |
-| **En curso** | Correos electrónicos que se están enviando. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos. |
+| **Programado** | Correos electrónicos que se han programado desde la ventana de composición (Salesforce o la aplicación web), complementos de correo electrónico o una campaña. |
+| **Borradores** | Correos electrónicos que están actualmente en estado de borrador. Los correos electrónicos requieren una línea de asunto y un destinatario para guardarse como borrador. |
+| **En progreso** | Correos electrónicos que están en proceso de envío. Los correos electrónicos no deben permanecer en este estado durante más de unos segundos. |
 
 ***Estado: No entregado***
 
 ![](assets/status-undelivered.png)
 
-Filtros por correo electrónico que nunca se entregaron.
+Filtros por correos electrónicos que nunca se entregaron.
 
 | Estado | Descripción |
 |---|---|
-| **Error** | Cuando un correo electrónico no se puede enviar desde Sales Connect (los motivos comunes incluyen: mensajes de correo electrónico que se envían a los contactos cancelados o bloqueados, o si se ha producido un problema al rellenar los campos dinámicos). |
-| **Devuelto** | Un correo electrónico se marca como devuelto cuando el servidor del destinatario lo rechaza. Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Sales Connect. |
-| **Correo no deseado** | Cuando el destinatario marcó el correo electrónico como correo no deseado (término común para correo electrónico no solicitado). Aquí solo se mostrarán los correos electrónicos enviados a través de los servidores de Sales Connect. |
+| **Error** | Cuando un correo electrónico no se envía desde Sales Connect (entre los motivos comunes se incluyen: correos electrónicos que se envían a contactos cancelados de suscripción o bloqueados, o si hay un problema en rellenar los campos dinámicos). |
+| **Rechazados** | Un correo electrónico se marca como rechazado cuando el servidor del destinatario lo rechaza. Aquí solo se muestran los correos electrónicos enviados a través de los servidores de Sales Connect. |
+| **Correo no deseado** | Cuando el destinatario ha marcado el correo electrónico como correo no deseado (término común para correo electrónico no solicitado). Aquí solo se muestran los correos electrónicos enviados a través de los servidores de Sales Connect. |
 
 ## Búsquedas guardadas {#saved-searches}
 
-A continuación se muestra cómo crear una búsqueda guardada.
+Así es como crear una búsqueda guardada.
 
-1. Una vez que todos los filtros estén colocados, haga clic en **Guardar Filtros como**.
+1. Una vez que todos los filtros estén establecidos, haga clic en **Guardar filtros como**.
 
    ![](assets/save-search-1.png)
 
