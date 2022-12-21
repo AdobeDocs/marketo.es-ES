@@ -3,7 +3,6 @@ unique-page-id: 2949178
 description: Explicación del panel de SEO - Instantánea SEO - Documentos de Marketo - Documentación del producto
 title: Explicación de la instantánea SEO Dashboard -SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Explicación del panel de SEO: Instantánea SEO {#understanding-the-seo-dashboard-seo-snapshot}
+# Explicación del panel de SEO: Instantánea de SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
 Utilice el tablero para obtener una vista de alto nivel de la tendencia de la clasificación de palabras clave y de la optimización del sitio para SEO.
 
-Para saber en qué centrarse para mejorar sus esfuerzos de SEO, utilice la sección [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este tablero.
+Para saber en qué centrarse para mejorar sus esfuerzos de SEO, utilice el [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) de este tablero.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Resumen de clasificación de palabras clave {#keyword-rank-summary}
 
-Esta sección muestra cómo se clasifica su sitio para las [palabras clave que está dirigiendo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Esta sección muestra cómo se clasifica el sitio para la variable [palabras clave que está segmentando](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +32,7 @@ Esta sección muestra cómo se clasifica su sitio para las [palabras clave que e
 
 >[!TIP]
 >
->También puede ver el rendimiento de una [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave. Haga clic en la lista desplegable y seleccione cuál le interesa.
+>También puede ver cómo [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) de palabras clave está funcionando. Haga clic en la lista desplegable y seleccione cuál le interesa.
 
 ¡Vamos! Sigamos adelante.
 
