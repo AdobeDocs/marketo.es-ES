@@ -1,15 +1,14 @@
 ---
 unique-page-id: 17727591
-description: Conexión de correo electrónico para usuarios de Outlook - Marketo Docs - Documentación del producto
+description: Conexión de correo electrónico para usuarios de Outlook - Documentos de Marketo - Documentación del producto
 title: Conexión de correo electrónico para usuarios de Outlook
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+exl-id: e694915c-39a6-4476-a643-080acb758de7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
-
 
 # Conexión de correo electrónico para usuarios de Outlook {#email-connection-for-outlook-users}
 
@@ -23,7 +22,7 @@ Aprenda a conectar su cuenta de Conexión de ventas con Outlook.
 
 La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar cumplimiento.
 
-1. En Conexión de ventas, haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En Conexión de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -31,7 +30,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/two.png)
 
-1. Haga clic en la pestaña **Email Connection**.
+1. Haga clic en el **Conexión de correo electrónico** pestaña .
 
    ![](assets/three.png)
 
@@ -39,11 +38,11 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/four.png)
 
-1. Seleccione **utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Select **Utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
-1. Seleccione la versión de Outlook que está utilizando y haga clic en **Next**. En este ejemplo elegimos Outlook Online.
+1. Seleccione la versión de Outlook que está utilizando y haga clic en **Siguiente**. En este ejemplo elegimos Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -68,7 +67,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/seven-a.png)
 
-1. Si no ha iniciado sesión en Outlook, introduzca la información de inicio de sesión y haga clic en **Next**. Si lo está, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
+1. Si no ha iniciado sesión en Outlook, introduzca la información de inicio de sesión y haga clic en **Siguiente**. Si lo está, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
 
    ![](assets/eight-a.png)
 
@@ -86,7 +85,7 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
 La conexión a Exchange On-Premise significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar cumplimiento de normas.
 
-1. En Conexión de ventas, haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En Conexión de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -94,7 +93,7 @@ La conexión a Exchange On-Premise significa que recibirá seguimiento de respue
 
    ![](assets/two.png)
 
-1. Haga clic en la pestaña **Email Connection**.
+1. Haga clic en el **Conexión de correo electrónico** pestaña .
 
    ![](assets/three.png)
 
@@ -102,11 +101,11 @@ La conexión a Exchange On-Premise significa que recibirá seguimiento de respue
 
    ![](assets/four.png)
 
-1. Seleccione **utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Select **Utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
-1. Seleccione la versión de Outlook que está utilizando y haga clic en **Next**. En este ejemplo elegimos Exchange On-Premise.
+1. Seleccione la versión de Outlook que está utilizando y haga clic en **Siguiente**. En este ejemplo elegimos Exchange On-Premise.
 
    ![](assets/six-b.png)
 
