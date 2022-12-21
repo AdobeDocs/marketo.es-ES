@@ -3,11 +3,10 @@ unique-page-id: 11379928
 description: Detalles del cambio en pista de auditoría - Documentos de Marketo - Documentación del producto
 title: Cambiar detalles en pista de auditoría
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 La pista de auditoría ofrece una buena cantidad de información sobre quién está haciendo qué en su suscripción a Marketo. Aquí están los detalles.
 
-## Pista de auditoría de activos {#asset-audit-trail}
+## Seguimiento de auditoría de recurso {#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -26,7 +25,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
  <tbody> 
   <tr> 
    <th colspan="1">Recurso/Tipo</th> 
-   <th colspan="1">Acción</th> 
+   <th colspan="1">Accion</th> 
    <th colspan="1">Detalles del cambio</th> 
   </tr> 
   <tr> 
@@ -40,11 +39,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de campaña" o "programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
+   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña" o "programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -88,10 +87,10 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Exportar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>Correo electrónico</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crear</td> 
    <td>Creado con la plantilla "nombre de plantilla" <br>o <br>Clonado desde "nombre de recurso"</td> 
   </tr> 
@@ -137,11 +136,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <code>"<module name>" <attribute></code> a "value"</td> 
+   <td>Editar módulo <module name><attribute> a "value"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -149,25 +148,25 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Estudio de diseño" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "estudio de diseño" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "actividades de marketing" al programa "nombre del programa"</td> 
+   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "Actividades de marketing" al "nombre del programa"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Borrador</td> 
-   <td>Se redactó el correo electrónico porque se aprobó el fragmento "nombre de fragmento"<br>o<br>Correo electrónico porque se aprobó la plantilla "nombre de plantilla"</td> 
+   <td>El correo electrónico se redactó porque se aprobó el fragmento "nombre de fragmento"<br>o<br>El correo electrónico se redactó porque se aprobó la plantilla "nombre de plantilla"</td> 
   </tr> 
-   <td rowspan="17">Programa de correo electrónico</td> 
+   <td rowspan="17">Programa de emails</td> 
    <td>Crear</td> 
    <td>Tipo de canal "tipo de canal"<br>o<br>Clonado desde "nombre de programa"</td> 
   </tr> 
@@ -181,11 +180,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Anular</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -217,7 +216,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Modificar la configuración del programa</td> 
-   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>El antiguo comportamiento "nombre de comportamiento"</td> 
+   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>Comportamiento antiguo "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
    <td>Modificar la configuración del programa</td> 
@@ -236,7 +235,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
    <td colspan="1">Eliminar coste del periodo. Valor "#" mes del programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Plantilla de correo electrónico</td> 
+   <td rowspan="8">Plantilla de email</td> 
    <td>Crear</td> 
    <td>En blanco o clonado desde "nombre de plantilla"</td> 
   </tr> 
@@ -250,7 +249,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -258,15 +257,15 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nombre de carpeta" <br> Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "nombre de carpeta" <br> Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="23">Programa de participación</td> 
@@ -283,7 +282,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -303,19 +302,19 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Modificación del flujo del programa</td> 
-   <td>Añada contenido<br>Nombre de flujo "nombre de flujo"<br>Escriba "Correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>Nombre de campaña inteligente</td> 
+   <td>Añadir contenido<br>Nombre de flujo "nombre de flujo"<br>Escriba "Correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>Campaña inteligente "nombre de campaña inteligente"</td> 
   </tr> 
   <tr> 
    <td>Modificación del flujo del programa</td> 
-   <td>Activar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre del contenido "nombre del correo electrónico" o "nombre del programa"</td> 
+   <td>Activar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Modificación del flujo del programa</td> 
-   <td>Desactivar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre del contenido "nombre del correo electrónico" o "nombre del programa"</td> 
+   <td>Desactivar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Modificación del flujo del programa</td> 
-   <td>Eliminar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre del contenido "nombre del correo electrónico" o "nombre del programa"</td> 
+   <td>Eliminar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
   </tr> 
   <tr> 
    <td>Modificar token del programa</td> 
@@ -335,7 +334,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Modificar la configuración del programa</td> 
-   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>El antiguo comportamiento "nombre de comportamiento"</td> 
+   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>Comportamiento antiguo "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
    <td>Modificar la configuración del programa</td> 
@@ -359,10 +358,10 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Exportar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">Programa de eventos</td> 
+   <td rowspan="18">Programa de evento</td> 
    <td>Crear</td> 
    <td>Tipo de canal "tipo de canal"<br>o<br>Clonado desde "nombre de programa"</td> 
   </tr> 
@@ -372,7 +371,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
@@ -408,7 +407,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Modificar la configuración del programa</td> 
-   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>El antiguo comportamiento "nombre de comportamiento"</td> 
+   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>Comportamiento antiguo "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
    <td>Modificar la configuración del programa</td> 
@@ -432,16 +431,16 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Exportar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="5">Carpetas</td> 
    <td>Crear</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -456,13 +455,13 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
    <td>Token eliminado "token_name"</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Forms</td> 
+   <td rowspan="8">Formularios</td> 
    <td>Crear</td> 
-   <td>Muy pronto. Más información o Clonado desde "nombre de formulario"</td> 
+   <td>Próximamente. Más información o Clonado desde "nombre de formulario"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -482,14 +481,14 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Estudio de diseño" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "estudio de diseño" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "actividades de marketing" al programa "nombre del programa"</td> 
+   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "Actividades de marketing" al "nombre del programa"</td> 
   </tr> 
   <tr> 
-   <td>Forms</td> 
+   <td>Formularios</td> 
    <td>Aprobar</td> 
    <td>Utilizado por # assets </td> 
   </tr> 
@@ -500,7 +499,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -520,15 +519,15 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Estudio de diseño" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "nombre"<br>URL de recurso clonado "www.url.com"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "nombre"<br>URL de recurso clonado "www.url.com"</td> 
+   <td>Clonado en "estudio de diseño" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "name"<br>URL de recursos clonados "www.url.com"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "name"<br>URL de recursos clonados "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br> o<br> Se ha movido a "actividades de marketing" al programa "nombre del programa"</td> 
+   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br> o<br> Se ha movido a "Actividades de marketing" al "nombre del programa"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Borrador</td> 
@@ -536,16 +535,16 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Plantilla de página de aterrizaje</td> 
+   <td rowspan="8">Plantilla de la página de destino</td> 
    <td>Crear</td> 
-   <td><p>Vacío<br>o<br>Clonado desde "nombre de recurso"</p></td> 
+   <td><p>En blanco<br>o<br>Clonado desde "nombre de recurso"</p></td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -557,11 +556,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nombre de carpeta" <br>Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "nombre de carpeta" <br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -569,24 +568,24 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="5">Lista (estática)</td> 
    <td>Crear</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Base de datos de personas" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "Base de datos de personas" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -595,23 +594,23 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   <tr> 
    <td rowspan="12">Campaña inteligente</td> 
    <td>Crear</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Activar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Desactivar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Anular</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Programas" en el programa "nombre de programa"<br>o<br>Se ha movido a "Carpetas" en la carpeta "nombre de carpeta"</td> 
+   <td>Se ha movido a "Programas" en el programa "nombre del programa"<br>o<br>Se ha movido a "Carpetas" a la carpeta "nombre de carpeta"</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -623,11 +622,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Programas" en el programa "nombre de programa" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado en "Carpeta" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "Programas" en "nombre de programa" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Carpeta" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Modificar la configuración de listas inteligentes</td> 
@@ -635,7 +634,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Modificación de la programación de campañas</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Modificación de la acción del paso de flujo</td> 
@@ -648,7 +647,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Exportar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -660,11 +659,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Base de datos de personas" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "nombre"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "nombre"</td> 
+   <td>Clonado en "Base de datos de personas" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Modificar la configuración de listas inteligentes</td> 
@@ -673,7 +672,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   <tr> 
    <td rowspan="11">Fragmento</td> 
    <td>Crear</td> 
-   <td><p>Vacío<br>o<br>Clonado a partir de "nombre de fragmento"</p></td> 
+   <td><p>En blanco<br>o<br>Clonado desde "nombre de fragmento"</p></td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -689,7 +688,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -701,7 +700,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nombre de carpeta" <br>Nombre de fragmento clonado "nombre"</td> 
+   <td>Clonado en "nombre de carpeta" <br>Nombre de fragmento clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -709,11 +708,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Aprobar sin borrador</td> 
-   <td>N/D</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td><p>N/D</p></td> 
+   <td><p>N/A</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -729,7 +728,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
  <tbody> 
   <tr> 
    <th>Área de administración</th> 
-   <th>Acción</th> 
+   <th>Accion</th> 
    <th>Detalles del cambio</th> 
   </tr> 
   <tr> 
@@ -752,7 +751,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
    <td>La seguridad de la contraseña cambió a la plantilla: Seguridad estándar, longitud mínima: #, parte inferior superior: #, número: #, mayúsculas y minúsculas mezcladas: # , caducidad : #, tiempo de espera de sesión: #</td> 
   </tr> 
   <tr> 
-   <td rowspan="3">Función<br><br></td> 
+   <td rowspan="3">Rol<br><br></td> 
    <td>Crear</td> 
    <td>Función creada con "nombre de función" (NOTA: si necesita detalles sobre permisos agregados, póngase en contacto con el servicio de asistencia técnica): <br>muestra una instantánea de los permisos asignados a la función</td> 
   </tr> 
@@ -762,7 +761,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Función editada de "nombre anterior" a "nuevo nombre" (NOTA: si necesita detalles sobre permisos editados, póngase en contacto con el servicio de asistencia técnica): <br>muestra una instantánea de los permisos asignados a la función<br></td> 
+   <td>Función editada de "nombre anterior" a "nuevo nombre" (NOTA: si necesita información detallada sobre los permisos editados, póngase en contacto con el servicio de asistencia técnica): <br>muestra una instantánea de los permisos asignados a la función<br></td> 
   </tr> 
   <tr> 
    <td>Informe de lista inteligente</td> 
@@ -772,7 +771,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   <tr> 
    <td rowspan="7">Usuario<br><br><br><br></td> 
    <td>Crear (invitar)</td> 
-   <td>Usuario invitado con: Correo electrónico "dirección de correo electrónico", Nombre "nombre y apellido", Acceso caduca "en blanco o con una fecha", Usuario de API "true o false" - <br>muestra una instantánea de las funciones y los espacios de trabajo asignados al usuario</td> 
+   <td>Usuario invitado con: Correo electrónico "dirección de correo electrónico", Nombre "nombre y apellido", Acceso caduca "en blanco o con una fecha", Usuario de API "verdadero o falso" - <br>muestra una instantánea de las funciones y espacios de trabajo asignados al usuario</td> 
   </tr> 
   <tr> 
    <td colspan="1">Eliminar</td> 
