@@ -17,7 +17,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
 
 >[!NOTE]
 >
->Estas actividades y atributos están disponibles para su consumo desde nuestra API de REST y Bulk.
+>Estas actividades y atributos están disponibles para su consumo desde nuestras API de REST y Bulk.
 
 ## Actividades {#activities}
 
