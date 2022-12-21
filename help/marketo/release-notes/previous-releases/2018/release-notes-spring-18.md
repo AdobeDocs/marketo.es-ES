@@ -30,9 +30,9 @@ Aumente la producción y los ingresos al potenciar las ventas con inteligencia, 
 
 **ToutApp**
 
-* **Tarjeta** de conformidad: Garantizar el cumplimiento del RGPD mediante la captura de la fuente de contactos de ventas y detalles del consentimiento del cliente para recibir comunicaciones.
-* **Actualización** de la directiva de contraseñas: Mantenga sus datos más seguros con requisitos más estrictos para la creación, restablecimiento y caducidad de contraseñas (cumple con los requisitos de cumplimiento de Soc II - Tipo 1).
-* **Experiencia** optimizada de configuración de cuentas: Configure su cuenta y conéctela a Gmail, Outlook y otros sistemas más rápido.
+* **Tarjeta de cumplimiento**: Garantizar el cumplimiento del RGPD mediante la captura de la fuente de contactos de ventas y detalles del consentimiento del cliente para recibir comunicaciones.
+* **Actualización de directiva de contraseña**: Mantenga sus datos más seguros con requisitos más estrictos para la creación, restablecimiento y caducidad de contraseñas (cumple con los requisitos de cumplimiento de Soc II - Tipo 1).
+* **Experiencia de configuración de cuenta optimizada**: Configure su cuenta y conéctela a Gmail, Outlook y otros sistemas más rápido.
 
 ## Marketo Sky Abrir beta {#marketo-sky-open-beta}
 
