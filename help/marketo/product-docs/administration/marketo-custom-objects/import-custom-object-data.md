@@ -3,7 +3,6 @@ unique-page-id: 10099680
 description: 'Importar Datos De Objetos Personalizados: Documentos De Marketo: Documentación Del Producto'
 title: Importar datos de objeto personalizados
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Es fácil importar datos de objetos personalizados en la base de datos. Si utiliza objetos personalizados con empresas, consulte [Uso de objetos personalizados con compañías](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) para obtener más información.
 
-1. En Mi Marketo, vaya a **Database**.
+1. En Mi Marketo, vaya a **Base de datos**.
 
    ![](assets/db-1.png)
 
@@ -37,7 +36,7 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    >[!NOTE]
    >
-   >Utilice los campos de desduplicación como identificadores únicos al crear o actualizar registros de objeto personalizados. Este ejemplo utiliza el campo Dedupe del **car** objeto personalizado: vin (número de ID del vehículo). Si solo está actualizando registros de objeto personalizados, puede seleccionar la guía de Marketo como modo de desduplicación.
+   >Utilice los campos de desduplicación como identificadores únicos al crear o actualizar registros de objeto personalizados. En este ejemplo se utiliza el campo Dedupe de la variable **car** custom object - vin (número de identificación del vehículo). Si solo está actualizando registros de objeto personalizados, puede seleccionar la guía de Marketo como modo de desduplicación.
 
 1. Asigne cada columna a un campo de Marketo, seleccionándolo en la lista desplegable.
 
@@ -51,7 +50,7 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    ![](assets/image2016-4-13-14-3a38-3a41.png)
 
-1. Haga clic en **Import**.
+1. Haga clic en **Importar**.
 
    ![](assets/image2016-4-7-13-3a15-3a9.png)
 
@@ -61,7 +60,7 @@ Es fácil importar datos de objetos personalizados en la base de datos. Si utili
 
    >[!TIP]
    >
-   >Introduzca su dirección de correo electrónico en el campo **Send Alert To:** y Marketo le enviará un correo electrónico cuando termine la importación.
+   >Escriba su dirección de correo electrónico en la **Enviar alerta a:** y Marketo le enviará un correo electrónico cuando haya terminado la importación.
 
 1. En la esquina superior derecha de la pantalla, verá una notificación mientras se ejecuta la importación y los resultados finales cuando finalice.
 
