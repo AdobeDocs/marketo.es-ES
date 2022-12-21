@@ -3,11 +3,10 @@ unique-page-id: 2949891
 description: 'Explicación de las listas estáticas: documentos de Marketo: documentación del producto'
 title: Explicación de las listas estáticas
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -24,15 +23,15 @@ La diferencia entre una lista estática y una lista inteligente es crucial para 
 | Tipo | Lógica |
 |---|---|
 | Lista inteligente | Basado en **reglas definidas** |
-| Lista estática | Basado en **añadir/quitar cada persona** |
+| Lista estática | Basado en **adición/eliminación de cada persona** |
 
 >[!CAUTION]
 >
->Uno de los errores más comunes es pensar que se puede eliminar a una persona de una lista simplemente &quot;eliminando a la persona&quot;. **Esto está mal**. Al eliminar a la persona, se eliminará de **toda la base de datos**, no solo de la lista.
+>Uno de los errores más comunes es pensar que se puede eliminar a una persona de una lista simplemente &quot;eliminando a la persona&quot;. **Esto es incorrecto**. Al eliminar la persona, esta se eliminará de **toda la base de datos**, no solo la lista.
 
-## Formas de agregar/eliminar personas de una lista {#ways-to-add-remove-people-from-a-list}
+## Formas de agregar o eliminar personas de una lista {#ways-to-add-remove-people-from-a-list}
 
-1. Paso de flujo de campaña inteligente ([Agregar a la lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Quitar de la lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. Paso de flujo de campaña inteligente ([Agregar a lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [Quitar de la lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
 1. [Paso de flujo de acción único](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. Arrastrar personas a una lista del árbol
