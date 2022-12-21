@@ -3,23 +3,22 @@ unique-page-id: 4719294
 description: 'Sincronización de actividades de personalización: Documentos de Marketo: documentación del producto'
 title: Personalizar sincronización de actividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Sincronización de actividades de personalización {#customize-activities-sync}
+# Personalizar sincronización de actividades {#customize-activities-sync}
 
 Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial de actividades de Salesforce para determinados eventos. Así es como habilitarlos.
 
-1. Vaya a **Admin**.
+1. Vaya a **Administrador**.
 
    ![](assets/admin.png)
 
-1. Haga clic en **Salesforce** y, a continuación, haga clic en **Editar opciones de sincronización**.
+1. Haga clic en **Salesforce** y haga clic en **Editar opciones de sincronización**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +28,7 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
 
    >[!NOTE]
    >
-   >Una vez habilitado, Marketo inserta el historial de actividades de tres meses. Dependiendo de la cantidad de datos, _esto podría tardar varios días en completarse_. Las actualizaciones que se producen durante la notificación push inicial de Actividades pueden retrasarse hasta que se complete la sincronización inicial de Actividades.
+   >Una vez habilitado, Marketo inserta el historial de actividades de tres meses. Según la cantidad de datos, _esto puede tardar varios días en completarse_. Las actualizaciones que se producen durante la notificación push inicial de Actividades pueden retrasarse hasta que se complete la sincronización inicial de Actividades.
 
 <table> 
  <colgroup> 
@@ -44,7 +43,7 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
  </thead> 
  <tbody> 
   <tr> 
-   <td>Formulario rellenado</td> 
+   <td>Completó el formulario</td> 
    <td>Se ha rellenado cualquier formulario de Marketo</td> 
   </tr> 
   <tr> 
@@ -64,7 +63,7 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
    <td>Se ha abierto un correo electrónico (sin bloquear imágenes)</td> 
   </tr> 
   <tr> 
-   <td>Se hizo clic en el vínculo en el correo electrónico</td> 
+   <td>Hizo clic en el vínculo del email</td> 
    <td>Se hizo clic en un vínculo de un correo electrónico enviado por Marketo</td> 
   </tr> 
   <tr> 
@@ -72,7 +71,7 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
    <td>Paso de flujo: Se ha eliminado de una lista estática</td> 
   </tr> 
   <tr> 
-   <td>Eliminar del flujo</td> 
+   <td>Quitar de flujo</td> 
    <td>Paso de flujo: Eliminar del flujo</td> 
   </tr> 
   <tr> 
@@ -96,8 +95,8 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
 
 >[!NOTE]
 >
->&quot;Correo electrónico de ventas recibido&quot; significa **no** entregado. El estado de entrega no se captura para los correos electrónicos enviados mediante la perspectiva de ventas.
+>&quot;Correo electrónico de ventas recibido&quot; sí **not** media entregada. El estado de entrega no se captura para los correos electrónicos enviados mediante la perspectiva de ventas.
 
 >[!TIP]
 >
->Si está interesado en obtener más información de Marketo en Salesforce, consulte nuestro [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) producto.
+>Si está interesado en obtener más información de Marketo en Salesforce, consulte nuestra [Perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) producto.
