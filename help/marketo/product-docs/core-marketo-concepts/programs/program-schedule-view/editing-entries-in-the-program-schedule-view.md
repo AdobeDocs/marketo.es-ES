@@ -3,7 +3,6 @@ unique-page-id: 1147136
 description: Edición de entradas en la vista de programación del programa - Documentos de Marketo - Documentación del producto
 title: Edición de entradas en la vista de programación del programa
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Edición de entradas en la vista Programa {#editing-entries-in-the-program-schedule-view}
+# Edición de entradas en la vista de programación del programa {#editing-entries-in-the-program-schedule-view}
 
 Puede realizar modificaciones en los distintos elementos del programa en la vista de programación.
 
@@ -21,7 +20,7 @@ Puede realizar modificaciones en los distintos elementos del programa en la vist
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Escriba un nombre nuevo y pulse **Enter/Return** en el teclado para confirmar el cambio.
+1. Escriba un nombre nuevo y pulse **Intro/Retorno** en el teclado para confirmar el cambio.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -39,7 +38,7 @@ Puede realizar modificaciones en los distintos elementos del programa en la vist
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. ¡bueno! La descripción ha cambiado.
+1. ¡Excelente! La descripción ha cambiado.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
