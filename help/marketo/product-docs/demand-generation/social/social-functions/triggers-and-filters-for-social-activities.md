@@ -3,7 +3,6 @@ unique-page-id: 2359837
 description: Déclencheur y filtros para actividades sociales - Documentos de Marketo - Documentación del producto
 title: Déclencheur y filtros para actividades sociales
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -19,11 +18,11 @@ Las aplicaciones sociales en Marketo tienen sus propios déclencheur y filtros e
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-1. Para utilizar _déclencheur_ sociales, seleccione la campaña inteligente y haga clic en la pestaña **Smart List**. A la derecha, haga clic en + para expandir **Déclencheur** y luego en **Social**.
+1. Para usar Social _déclencheur_, seleccione la campaña inteligente y haga clic en el botón **Lista inteligente** pestaña . A la derecha, haga clic en + para expandir **Déclencheur**, luego **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para usar _filtros_ sociales, haga clic en **+** para expandir los **filtros**.
+1. Para usar Social _filtros_, haga clic en **+** para expandir el **Filtros**.
 
    ![](assets/two-282-29.png)
 
