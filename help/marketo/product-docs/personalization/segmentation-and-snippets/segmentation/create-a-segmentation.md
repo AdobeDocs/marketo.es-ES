@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359447
-description: Crear una segmentación - Documentos de marketing - Documentación del producto
+description: 'Creación de una segmentación: Documentos de Marketo: Documentación del producto'
 title: Crear una segmentación
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: a7907f1d-bc78-4b63-9875-044e96609755
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # Crear una segmentación {#create-a-segmentation}
 
-La segmentación le permite agrupar personas en perfiles distintos para el sistema de informes y el contenido dinámico. Así es como crearlos.
+La segmentación le permite agrupar personas en perfiles distintos para crear informes y contenido dinámico. Así es como crearlos.
 
 1. Vaya a **Base de datos**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Haga clic en **Nueva** y luego **Nueva segmentación**.
+1. Haga clic en **Nuevo** y luego **Nueva segmentación**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -41,23 +40,23 @@ La segmentación le permite agrupar personas en perfiles distintos para el siste
 
    >[!CAUTION]
    >
-   >El número total de segmentos que puede crear en una segmentación depende del número y el tipo de filtros utilizados y también de la complejidad de la lógica de los segmentos. Aunque puede crear hasta 100 segmentos mediante campos estándar, el uso de otros tipos de filtros puede aumentar la complejidad y la segmentación podría no aprobarse. Algunos ejemplos son: campos personalizados, miembro de lista, campos de propietario de posibles clientes y etapas de ingresos.
+   >El número total de segmentos que puede crear en una segmentación depende del número y el tipo de filtros utilizados y también de la complejidad de la lógica de los segmentos. Aunque puede crear hasta 100 segmentos utilizando campos estándar, el uso de otros tipos de filtros puede aumentar la complejidad, y es posible que la segmentación no apruebe. Algunos ejemplos son: campos personalizados, miembro de lista, campos de propietario del posible cliente y etapas de ingresos.
    >
-   >Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Soporte técnico de marketing](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Si recibe un mensaje de error durante la aprobación y necesita ayuda para reducir la complejidad de la segmentación, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Arrastre y suelte los segmentos para cambiar su orden. Una vez hecho, haga clic en **Crear**.
+1. Arrastre y suelte los segmentos para cambiar su orden. Una vez finalizado, haga clic en **Crear**.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 
    >[!NOTE]
    >
-   >Una persona cumplirá los requisitos para el primer segmento coincidente en el [pedido](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) definido.
+   >Una persona cumplirá los requisitos para el primer segmento coincidente de la variable [pedido](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) definida.
 
    >[!NOTE]
    >
    >Debe definir las reglas de segmentos antes de poder usar la segmentación.
 
-   ¡Felicitaciones! Está un paso más cerca de usar contenido dinámico.
+   ¡Felicidades! Está un paso más cerca de usar contenido dinámico.
 
    >[!MORELIKETHIS]
    >
