@@ -3,7 +3,6 @@ unique-page-id: 557318
 description: 'Actualizar una lista o lista inteligente: Documentos de Marketo: Documentación del producto'
 title: Actualizar una lista o lista inteligente
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
@@ -17,7 +16,7 @@ Si ha ejecutado una lista inteligente y han pasado unos minutos, los resultados 
 
 ## Actualizar resultados {#refresh-results}
 
-1. Para actualizar los datos en la pestaña **People** de una lista inteligente, haga clic en el icono de actualización.
+1. Para actualizar los datos en la variable **People** de una lista inteligente, haga clic en el icono actualizar .
 
    ![](assets/refreshbutton.png)
 
