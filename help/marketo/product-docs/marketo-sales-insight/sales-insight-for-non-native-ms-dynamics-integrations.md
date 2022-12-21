@@ -238,7 +238,7 @@ Si su cuenta de Adobe Marketo Engage está conectada a MS Dynamics a través de 
       <td>Fuente del último momento interesante para el líder</td> 
      </tr> 
      <tr> 
-      <td>priority</td> 
+      <td>prioridad</td> 
       <td><p>Etiqueta: Participación</p><p>Nombre: Priority_c</p></td> 
       <td>Prioridad del posible cliente</td> 
      </tr> 
