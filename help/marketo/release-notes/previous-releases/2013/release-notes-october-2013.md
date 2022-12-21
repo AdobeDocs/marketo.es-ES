@@ -16,11 +16,11 @@ La versión de octubre de 2013 incluye las siguientes funciones.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)  muestra las plantillas de páginas de aterrizaje y correo electrónico (incluidas las plantillas de correo electrónico móvil adaptables) que puede descargar de la biblioteca de programas de Marketo. Agregaremos plantillas mensualmente, ¡vuelva a consultar con frecuencia!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) muestra las plantillas de correo electrónico y de página de aterrizaje (incluidas las plantillas de correo electrónico móvil interactivas) que puede descargar de la biblioteca de programas de Marketo. Agregaremos plantillas mensualmente, ¡vuelva a consultar con frecuencia!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](https://developers.marketo.com) comis para desarrolladores que deseen crear integraciones en Marketo. Puede hacer referencia a diferentes opciones de integración, incluidas las API de JavaScript de Munchkin, ejemplos de código de API de SOAP, Webhooks y secuencias de comandos por correo electrónico. También hay disponible un SDK de Java en [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.com](https://developers.marketo.com) es para desarrolladores que deseen crear integraciones en Marketo. Puede hacer referencia a diferentes opciones de integración, incluidas las API de JavaScript de Munchkin, ejemplos de código de API de SOAP, Webhooks y secuencias de comandos por correo electrónico. También hay un SDK de Java disponible en [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Adaptador de evento BrightTALK actualizado {#updated-brighttalk-event-adapter}
 
@@ -28,4 +28,4 @@ Sincronice campos adicionales de BrightTALK a Marketo, incluidos Nombre de la em
 
 ## Aplicación de registro de evento de tableta de Android {#android-tablet-event-check-in-app}
 
-Consulte a los registradores en su evento utilizando nuestra nueva [protección basada en Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible en [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Consulte a los registradores en su evento utilizando nuestro nuevo [Aplicación de registro basado en Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponible en [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
