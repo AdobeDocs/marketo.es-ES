@@ -3,7 +3,6 @@ unique-page-id: 10094647
 description: Definir un prefijo de campo personalizado predeterminado - Documentos de Marketo - Documentación del producto
 title: Definir un prefijo de campo personalizado predeterminado
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Definir un prefijo de campo personalizado predeterminado {#set-a-default-custom-field-prefix}
 
-El prefijo predeterminado de Microsoft Dynamics para los campos personalizados debe ser **new** para que los campos propietarios de Marketo se sincronicen correctamente. A continuación se explica cómo cambiar el prefijo predeterminado.
+El prefijo predeterminado de Microsoft Dynamics para campos personalizados debe ser **new** para que los campos propietarios de Marketo se sincronicen correctamente. A continuación se explica cómo cambiar el prefijo predeterminado.
 
 1. Vaya a Configuración y seleccione **Personalizaciones.**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Haga clic en **Publishers**.
+1. Haga clic en **Editores**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
