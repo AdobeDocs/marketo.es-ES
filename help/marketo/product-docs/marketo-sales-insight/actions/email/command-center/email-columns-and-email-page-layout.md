@@ -4,8 +4,8 @@ title: Columnas de correo electrónico y diseño de página de correo electróni
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '513'
+ht-degree: 2%
 
 ---
 
