@@ -3,7 +3,6 @@ unique-page-id: 7504120
 description: Launch a Presentation - Marketo Docs - Documentación del producto
 title: Iniciar una presentación
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
@@ -28,7 +27,7 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para su pre
 
 >[!TIP]
 >
->Asegúrese de **Vista previa de una presentación** antes de comenzar.
+>Asegúrese de **Vista previa de una presentación** antes de iniciar.
 
 1. Haga clic en **Launch**.
 
@@ -40,4 +39,4 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para su pre
 
    >[!TIP]
    >
-   >La presentación se iniciará en una nueva pestaña. Si es necesario, mueva la pestaña a un monitor externo o TV para que se muestre y haga clic en **Pantalla completa** (o presione **F11** en el teclado si está utilizando Internet Explorer).
+   >La presentación se iniciará en una nueva pestaña. Si es necesario, mueva la pestaña a un monitor o televisor externo para la visualización y haga clic en **Pantalla completa** (o presione **F11** en el teclado si utiliza Internet Explorer).
