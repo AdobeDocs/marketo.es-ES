@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352594
-description: Uso de HTML - Documentos de marketing - Documentación del producto
-title: Uso de HTML
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Uso de HTML - Marketo Docs - Documentación del producto
+title: Uso del HTML
+exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
+# Uso del HTML {#using-html}
 
-# Uso de HTML {#using-html}
+1. Copie el código fuente de los correos electrónicos en la herramienta que utilice para crear correos electrónicos en HTML (por ejemplo, el Editor de correo electrónico de Marketo).
 
-1. Copie el código fuente de los mensajes de correo electrónico en la herramienta que utilice para crear mensajes de correo electrónico en HTML (por ejemplo, el Editor de correo electrónico de Marketing).
-
-1. Haga clic en el botón **Origen** del editor de plantillas.
+1. Haga clic en el **Fuente** en el editor de plantillas.
 
 1. Pegue el código fuente allí.
 
@@ -23,4 +22,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Si aparece el error &quot;Error: para eliminar las etiquetas style/java/html&quot;, significa que tiene algún estilo que no se admite. Debe buscar en el código fuente el estilo de palabra y eliminar todo desde `<style>` a `</style>`.
+>Si ve el error &quot;Error - para eliminar las etiquetas style/java/html&quot;, significa que tiene algunos estilos que no se admiten. Debe buscar en el código fuente el estilo de la palabra y eliminar todo de `<style>` hasta `</style>`.
