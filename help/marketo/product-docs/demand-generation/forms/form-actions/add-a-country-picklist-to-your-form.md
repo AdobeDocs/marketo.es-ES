@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949966
-description: Añadir una lista de selección de país en el formulario - Documentos de marketing - Documentación del producto
-title: Añadir una lista de selección de país en el formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Agregar una lista de países a su formulario: Documentos de Marketo: Documentación del producto'
+title: Agregar una lista de selección de países al formulario
+exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
+# Agregar una lista de selección de países al formulario {#add-a-country-picklist-to-your-form}
 
-# Añadir una lista de selección de país en el formulario {#add-a-country-picklist-to-your-form}
-
-Siga estas instrucciones para convertir el campo de país en una lista desplegable con una lista de todos los países.
+Siga estas instrucciones para convertir el campo de país a un menú desplegable con una lista de todos los países.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -23,23 +22,23 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/editform-1.png)
 
-1. Haga clic en el signo **+**.
+1. Haga clic en el **+** en la ficha
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Busque y seleccione **País**.
+1. Buscar y seleccionar **País**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Con el campo **País** seleccionado, cambie el **Tipo de campo** a **Seleccionar**.
+1. Con la variable **País** campo seleccionado cambiar el **Tipo de campo** a **Select**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **** Edite los  **** valores para agregar la lista de países entre los que los usuarios pueden elegir.
+1. **Editar** el **Valores** para añadir la lista de países entre los que los usuarios pueden elegir.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Haga clic en **Avanzado** **Editor**.
+1. Haga clic en **Avanzadas** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -69,11 +68,11 @@ Siga estas instrucciones para convertir el campo de país en una lista desplegab
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   ¡Bien hecho! Ahora, cuando una persona rellena el formulario, puede elegir entre la lista de países que ha proporcionado.
+   ¡Bien hecho! Ahora, cuando una persona rellena el formulario, puede elegir entre la lista de países proporcionada.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-Como eso fue tan fácil, ¿por qué no hacer más? ¿Qué sucede si se muestra dinámicamente el campo Estado cuando un usuario selecciona Estados Unidos como país en la lista? Consulte el artículo relacionado a continuación para saber cómo hacerlo.
+Como eso fue tan fácil, ¿por qué no hacer más? ¿Qué sucede si se muestra dinámicamente el campo Estado cuando un usuario selecciona Estados Unidos como país de la lista? Consulte el artículo relacionado a continuación para saber cómo hacerlo.
 
 >[!MORELIKETHIS]
 >
