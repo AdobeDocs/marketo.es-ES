@@ -3,7 +3,6 @@ unique-page-id: 1146966
 description: Visualización de personas cualificadas en una campaña inteligente - Documentos de Marketo - Documentación del producto
 title: Ver personas cualificadas en una campaña inteligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -23,7 +22,7 @@ Vea las personas que cumplen los requisitos para pasar por el flujo cuando ejecu
 >
 >Las campañas inteligentes de déclencheur no muestran personas cualificadas, ya que se ejecutan en función de eventos en directo.
 
-1. La pestaña **Personas cualificadas** enumera las personas que cumplen los requisitos para pasar por el flujo cuando se ejecuta la campaña.
+1. La variable **Personas cualificadas** lista las personas que cumplen los requisitos para pasar por el flujo cuando se ejecute la campaña.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +32,7 @@ Vea las personas que cumplen los requisitos para pasar por el flujo cuando ejecu
 
    >[!NOTE]
    >
-   >El número de personas cualificadas también depende de las reglas de calificación de campañas inteligentes. Obtenga información sobre cómo [editar reglas de cualificación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >El número de personas cualificadas también depende de las reglas de calificación de campañas inteligentes. Obtenga información sobre cómo [editar reglas de calificación](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 ¡Dulce! Puede utilizar esta lista para comprobar qué personas pueden pasar por el flujo antes de ejecutar una campaña inteligente.
 
