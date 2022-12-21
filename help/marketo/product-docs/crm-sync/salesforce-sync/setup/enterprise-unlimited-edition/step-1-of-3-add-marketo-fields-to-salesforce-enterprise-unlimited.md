@@ -6,7 +6,7 @@ exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
 source-wordcount: '784'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
@@ -34,11 +34,11 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Fields**.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Campos**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Haga clic en **Nuevo** en la sección Campos y relaciones personalizados en la parte inferior de la página.
+1. Haga clic en **Nuevo** en la sección Campos personalizados y relaciones , en la parte inferior de la página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -78,7 +78,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Puntuación</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Longitud 10<br>Cifras decimales 0 </td> 
+   <td>Longitud 10<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Fecha de adquisición</td> 
@@ -111,12 +111,12 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
 1. Especifique la configuración de acceso y haga clic en **Siguiente**:
 
-   * Establezca todas las funciones como **Visible** y **Solo lectura**
+   * Definir todas las funciones como **Visible** y **Solo lectura**
 
-   * Desactive la casilla **Read-Only** para el perfil del usuario de sincronización:
+   * Borre la variable **Solo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de _System Administrator_ como usuario de sincronización, desactive la casilla **Read-Only** del perfil del administrador del sistema (como se muestra a continuación)
-      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, desactive la casilla **Solo lectura** para ese perfil personalizado
+      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** casilla de verificación del perfil del administrador del sistema (como se muestra a continuación)
+      * Si creó un _perfil personalizado_ para el usuario de sincronización, borre la **Solo lectura** casilla de verificación de ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -124,7 +124,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Haga clic en **Guardar y nuevo** para volver y crear cada uno de los otros dos campos personalizados. Haga clic en **Guardar** con los tres.
+1. Haga clic en **Guardar y nuevo** para volver atrás y crear cada uno de los otros dos campos personalizados. Haga clic en **Guardar** con ustedes terminaron con los tres.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -158,7 +158,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Id Del Programa De Adquisición</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Número</td> 
-   <td>Longitud 18<br>Cifras decimales 0 </td> 
+   <td>Longitud 18<br>Lugares decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Remitente original</td> 
@@ -247,11 +247,11 @@ Un campo personalizado del objeto de posible cliente de Salesforce debe asignars
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Escriba &quot;Campos&quot; en la búsqueda de navegación sin pulsar Intro. Los campos aparecen bajo diferentes objetos; Haga clic en **Fields** en Posibles clientes.
+1. Escriba &quot;Campos&quot; en la búsqueda de navegación sin pulsar Intro. Los campos aparecen bajo diferentes objetos; Haga clic en **Campos** en Posibles clientes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vaya a la sección Campos y relaciones personalizados de posibles clientes y haga clic en **Asignar campos de posibles clientes**.
+1. Vaya a la sección Campos y relaciones personalizados de posibles clientes y haga clic en **Asignar campos de posible cliente**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -265,7 +265,7 @@ Un campo personalizado del objeto de posible cliente de Salesforce debe asignars
 
 1. Repita los pasos anteriores para cualquier otro campo que haya creado.
 
-1. Haga clic en **Guardar** cuando haya terminado.
+1. Haga clic en **Guardar** cuando hayas terminado.
 
    Fácil, ¿verdad?
 
