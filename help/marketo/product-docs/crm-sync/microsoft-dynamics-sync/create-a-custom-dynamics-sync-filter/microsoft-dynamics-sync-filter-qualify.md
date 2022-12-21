@@ -3,17 +3,16 @@ unique-page-id: 10092977
 description: Filtro de sincronización de Microsoft Dynamics - Cualificar - Documentos de Marketo - Documentación del producto
 title: 'Filtro de sincronización de Microsoft Dynamics: calificar'
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Filtro de sincronización de Microsoft Dynamics: Calificar {#microsoft-dynamics-sync-filter-qualify}
 
-Cuando desee convertir un posible cliente a un contacto en Microsoft Dynamics, asegúrese de utilizar este proceso de certificación predeterminado. A continuación, sincronícelo con Marketo.
+Cuando quiera convertir un posible cliente en un contacto en Microsoft Dynamics, asegúrese de utilizar este proceso de clasificación predeterminado. A continuación, sincronícelo con Marketo.
 
 ## El proceso de conversión {#the-conversion-process}
 
