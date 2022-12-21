@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12979223
-description: Configuración de la perspectiva de la cuenta - Documentos de Marketo - Documentación del producto
+description: 'Configuración de la perspectiva de la cuenta: documentos de Marketo: documentación del producto'
 title: Configurar la perspectiva de la cuenta
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Configurar la perspectiva de la cuenta {#set-up-account-insight}
 
@@ -17,13 +16,13 @@ Así es como configurar la perspectiva de cuenta.
 
 >[!PREREQUISITES]
 >
->La puntuación de la cuenta TAM [debe configurarse](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) primero.
+>Puntuación de cuenta de TAM [debe estar configurado](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) primero.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/admin-1.png)
 
-1. Haga clic en **Administración de cuentas de Target** en el árbol y luego en la pestaña **Ventas**.
+1. Haga clic en **Administración de cuentas de Target** en el árbol, la variable **Ventas** pestaña .
 
    ![](assets/set-up-account-insight-2.png)
 
@@ -37,7 +36,7 @@ Así es como configurar la perspectiva de cuenta.
 
    >[!NOTE]
    >
-   >Si los [ajustes de la puntuación de cuenta](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) se actualizan en cualquier momento, un administrador debe actualizar la configuración en Ventas para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
+   >Si la variable [Configuración de la puntuación de cuenta](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) se actualizan en cualquier momento, la configuración de Ventas debe actualizarla un administrador para asegurarse de que las puntuaciones reflejen con precisión las preferencias del usuario. El usuario debe cerrar la sesión y volver a iniciarla para ver los cambios.
 
 1. Haga clic en **Guardar**.
 
