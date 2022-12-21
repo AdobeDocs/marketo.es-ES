@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14746470
-description: Configuración de un canal de entrega personalizado - Marketo Docs - Documentación del producto
+description: 'Configuración de un canal de entrega personalizado: documentos de Marketo: documentación del producto'
 title: Configuración de un canal de envío personalizado
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
-
 
 # Configuración de un canal de envío personalizado {#setting-up-a-custom-delivery-channel}
 
@@ -19,14 +18,14 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
 >[!NOTE]
 >
->* Además de configurar el servidor SMTP, su [identidad de correo electrónico debe verificarse](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes de poder enviar correos electrónicos.
+>* Además de configurar el servidor SMTP, su [la identidad de correo electrónico debe verificarse](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes de poder enviar correos electrónicos.
 >* Le recomendamos que trabaje con su equipo de TI o con el proveedor de servidores SMTP para obtener las credenciales de servidor correctas para su servidor SMTP.
 >* No puede conectar el servidor de Gmail y Exchange con las credenciales del servidor SMTP. Utilice nuestro servicio de conexión de correo electrónico para integrarlo con estos proveedores.
 
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Settings**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono del engranaje en la parte superior derecha y seleccione **Configuración**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
@@ -50,7 +49,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
-1. Busque la identidad de correo electrónico para la que desea elegir un canal de envío y haga clic en **Elegir canal de envío**.
+1. Busque la identidad de correo electrónico para la que desea elegir un canal de envío y haga clic en **Elegir canal de entrega**.
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
@@ -72,7 +71,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 >
 >**Se requieren permisos de administrador**
 
-1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Settings**.
+1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono del engranaje en la parte superior derecha y seleccione **Configuración**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -80,7 +79,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Haga clic en **Canal de envío de equipo**.
+1. Haga clic en **Canal de entrega de equipo**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
@@ -95,7 +94,6 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
    >[!MORELIKETHIS]
    >
    >* [Conexión de correo electrónico para usuarios de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-      >
-      >
-   * [Conexión de correo electrónico para usuarios de Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >
+   >* [Conexión de correo electrónico para usuarios de Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 
