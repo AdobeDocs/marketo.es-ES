@@ -22,7 +22,7 @@ Configure la siguiente configuración para empezar a usar el nuevo panel de info
 
 1. Abra una nueva pestaña en el explorador para obtener las credenciales de Marketo Sales Insights de su cuenta de Marketo.
 
-1. Vaya al área **Admin**.
+1. Vaya a la **Administrador** .
 
    ![](assets/configuration-for-existing-customers-1.png)
 
@@ -30,7 +30,7 @@ Configure la siguiente configuración para empezar a usar el nuevo panel de info
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Haga clic en **Ver** para rellenar las credenciales de la API restante.
+1. Haga clic en **Ver** para rellenar las credenciales de API de Rest.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
@@ -42,7 +42,7 @@ Configure la siguiente configuración para empezar a usar el nuevo panel de info
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Busque y seleccione **Configuración del sitio remoto**.
+1. Buscar y seleccionar **Configuración del sitio remoto**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
