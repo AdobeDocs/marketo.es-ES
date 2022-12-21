@@ -20,7 +20,7 @@ Una nueva apariencia, incluida la navegación para la Administración de posible
 
 ## Complemento de perspectiva de ventas para Outlook 2013 {#sales-insight-plugin-for-outlook}
 
-Esto requerirá una descarga del nuevo complemento. Puede descargarlo desde [aquí](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+Esto requerirá una descarga del nuevo complemento. Puede descargarlo desde [here](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Resolución del token {#token-resolution}
 
@@ -28,13 +28,13 @@ Cuando envía un correo electrónico de prueba desde la perspectiva de ventas, l
 
 ## Personalizar porcentajes para estrellas y llamas {#customize-percentages-for-stars-and-flames}
 
-[Establezca el ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) porcentaje de posibles clientes que reciben 1, 2 o 3 estrellas y llamas.
+[Establecer el porcentaje](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) de pistas que obtienen 1, 2 o 3 estrellas y llamas.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## API de Lead ReST {#lead-rest-api}
 
-Cree, lea y actualice posibles clientes mediante programación a través de nuestra nueva API de ReST. Para comenzar con ReST, debe [crear un servicio personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) en Marketo. A continuación, vaya al [sitio de desarrolladores](https://developers.marketo.com/documentation/rest/) para obtener más información sobre el uso de esta API.
+Cree, lea y actualice posibles clientes mediante programación a través de nuestra nueva API de ReST. Para comenzar con ReST, debe [crear un servicio personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) en Marketo. A continuación, vaya a la [sitio de desarrolladores](https://developers.marketo.com/documentation/rest/) para obtener más información sobre el uso de esta API.
 
 ## Actualización de la página de campañas de personalización en tiempo real (RTP) de Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
@@ -46,6 +46,6 @@ Las campañas RTP ahora incluyen un nuevo diseño con vistas en miniatura y rend
 
 Anexe todos sus datos RTP en la plataforma de análisis web.
 
-La integración con [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ahora está habilitada de forma predeterminada, por lo que en Configuración de la cuenta active el conmutador para el cual desee enviar datos a variables y eventos personalizados de GA.
+La integración con [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) ahora está habilitado de forma predeterminada, por lo que en Configuración de la cuenta active el conmutador para el cual desea enviar datos a variables y eventos personalizados de GA.
 
-También hemos completado la integración con [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+También completamos la integración con [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
