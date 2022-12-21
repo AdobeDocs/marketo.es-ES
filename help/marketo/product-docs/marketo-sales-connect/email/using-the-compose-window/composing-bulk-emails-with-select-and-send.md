@@ -1,21 +1,20 @@
 ---
 unique-page-id: 37356578
 description: Redacción de correos electrónicos masivos con Select and Send - Marketo Docs - Documentación del producto
-title: Redacción de correos electrónicos masivos con Seleccionar y enviar
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+title: Redacción de correos electrónicos masivos con Select y Send
+exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
+# Redacción de correos electrónicos masivos con Select y Send {#composing-bulk-emails-with-select-and-send}
 
-# Redacción de correos electrónicos masivos con Seleccionar y enviar {#composing-bulk-emails-with-select-and-send}
+A continuación se muestra cómo enviar/editar correos electrónicos mediante la opción Select and Send .
 
-A continuación se muestra cómo enviar o editar correos electrónicos mediante la opción Seleccionar y enviar.
-
-## Envío de correos electrónicos {#sending-emails}
+## Enviando emails {#sending-emails}
 
 1. Vaya a la página Personas.
 
@@ -27,31 +26,31 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
 
    >[!NOTE]
    >
-   >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y enviar.
+   >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y Enviar.
 
-1. Haga clic en el botón **Correo electrónico seleccionado**.
+1. Haga clic en el **Correo electrónico seleccionado** botón.
 
    ![](assets/three-2.png)
 
-1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe/[programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) el correo electrónico.
+1. Introduzca una línea de asunto, seleccione una plantilla (o redacte el correo electrónico desde cero) y envíe/[programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) el correo electrónico.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Campos dinámicos de Previsualización**. Asegúrese de que todos los destinatarios de la barra lateral masiva estén seleccionados para la previsualización de todos los correos electrónicos. Si selecciona un mensaje de correo electrónico y hace clic en **Campos dinámicos de Previsualización**, solo se verá la vista previa de ese mensaje de correo electrónico.
+   >Si ha seleccionado una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Vista previa de campos dinámicos**. Asegúrese de que todos los destinatarios de la barra lateral masiva estén seleccionados para la vista previa de todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Vista previa de campos dinámicos**, solo se previsualizará ese correo electrónico.
 
 ## Edición de correos electrónicos {#editing-emails}
 
 **Ediciones masivas**
 
-1. Siga los pasos 1 a 3 de la sección [Envío de correos electrónicos](#sending-emails).
+1. Siga los pasos del 1 al 3 desde [Sección Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
-   >Todos los destinatarios se seleccionarán de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los Destinatarios**. Como recordatorio, todos los destinatarios deben seleccionarse para realizar ediciones masivas.
+   >Todos los destinatarios se seleccionan de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los destinatarios**. Como recordatorio, se deben seleccionar todos los destinatarios para realizar ediciones masivas.
 
-1. Realice los cambios en el editor. Puede crear un nuevo mensaje de correo electrónico o editar una plantilla (en este ejemplo estamos creando un nuevo mensaje de correo electrónico).
+1. Realice los cambios en el editor. Puede crear un nuevo correo electrónico o editar una plantilla (en este ejemplo estamos creando un nuevo correo electrónico).
 
    ![](assets/bulk-three.png)
 
@@ -59,19 +58,19 @@ A continuación se muestra cómo enviar o editar correos electrónicos mediante 
    >
    >Puede hacer clic en un destinatario de correo electrónico específico para ver los cambios propagados a ese correo electrónico.
 
-1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
+1. Haga clic en **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviarlo a todos los destinatarios con las actualizaciones de correo electrónico masivas que haya realizado.
 
    ![](assets/bulk-four.png)
 
 **Editar cada correo electrónico**
 
-Complete las actualizaciones masivas antes de personalizar cada correo electrónico, ya que al realizar una actualización masiva se sobrescriben los cambios realizados en cada correo electrónico de la barra lateral de composición masiva.
+Completar actualizaciones masivas antes de personalizar cada correo electrónico, ya que al realizar una actualización masiva se sobrescriben los cambios realizados en cada correo electrónico de la barra lateral de composición masiva.
 
-1. Siga los pasos 1 a 4 de la sección [Envío de correos electrónicos](#sending-emails).
+1. Siga los pasos 1-4 de la sección [Sección Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
-   >Todos los destinatarios se seleccionarán de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los Destinatarios**. Como recordatorio, todos los destinatarios deben seleccionarse para realizar ediciones masivas.
+   >Todos los destinatarios se seleccionan de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los destinatarios**. Como recordatorio, se deben seleccionar todos los destinatarios para realizar ediciones masivas.
 
 1. Seleccione un destinatario individual.
 
@@ -83,19 +82,19 @@ Complete las actualizaciones masivas antes de personalizar cada correo electrón
 
    >[!NOTE]
    >
-   >Aquí puede realizar modificaciones en un solo correo electrónico de la barra lateral masiva sin actualizar el resto de los correos electrónicos.
+   >Aquí es donde puede realizar modificaciones en un solo correo electrónico de la barra lateral masiva sin actualizar el resto de los correos electrónicos.
 
    >[!TIP]
    >
    >Puede hacer clic en otros destinatarios para ver que no se muestran los cambios realizados en el destinatario seleccionado anteriormente.
 
-1. Haga clic en **Enviar** (o [Programar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios las actualizaciones masivas de correo electrónico que realizó.
+1. Haga clic en **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviarlo a todos los destinatarios con las actualizaciones de correo electrónico masivas que haya realizado.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
    >* [Opciones de envío masivo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
-   >* [Uso de una plantilla en la ventana Redacción](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Uso de una plantilla en la ventana de composición](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
    >* [Campos dinámicos](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
