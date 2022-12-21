@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359518
-description: Eliminar un fragmento - Documentos de marketing - Documentación del producto
+description: 'Eliminación de un fragmento: Documentos de Marketo: Documentación del producto'
 title: Eliminar un fragmento
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Eliminar un fragmento {#delete-a-snippet}
 
@@ -19,11 +18,11 @@ ht-degree: 0%
 
 Elimine un fragmento que ya no necesite.
 
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Vaya a su fragmento y, a continuación, en **Acciones de fragmento** haga clic en **Eliminar**.
+1. Vaya al fragmento y, a continuación, debajo de **Acciones de fragmento** haga clic en **Eliminar**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
@@ -35,4 +34,4 @@ Elimine un fragmento que ya no necesite.
    >
    >Solo puede eliminar un fragmento que no esté aprobado y que no utilice ningún recurso.
 
-¡Listo! No puede recuperarlo, por lo tanto asegúrese de hacer clic en el botón Eliminar.
+Listo! No puede recuperarlo, por lo que debe asegurarse de hacer clic en el botón eliminar.
