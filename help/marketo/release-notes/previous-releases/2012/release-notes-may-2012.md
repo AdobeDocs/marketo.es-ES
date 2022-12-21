@@ -36,7 +36,7 @@ Figura 2. Ejemplo del filtro de correo electrónico archivado
 
 ## Nueva aplicación de registro de eventos para iPad {#new-event-check-in-app-for-ipad}
 
-Simplifique el proceso de registro de eventos con nuestra nueva aplicación para iPad. La aplicación Event Check-in se sincroniza con su programa Marketo y le permite registrar fácilmente a los usuarios registrados en un evento, así como añadir nuevos posibles clientes sobre la marcha.
+Simplifique el proceso de registro de eventos con nuestra nueva aplicación de iPad. La aplicación Event Check-in se sincroniza con su programa Marketo y le permite registrar fácilmente a los usuarios registrados en un evento, así como añadir nuevos posibles clientes sobre la marcha.
 
 Requiere iOS 5.1 o posterior; Solo iPad.
 
@@ -54,7 +54,7 @@ Figura 5. Marque las
 
 ## URL de confirmación de seminario web mejorada {#enhanced-webinar-confirmation-url}
 
-Ya disponible para ON24 y Adobe Connect! Incluya un vínculo único en el correo electrónico de confirmación para cada asistente registrado usando el nuevo token `{{member.webinar URL}}` . Las mejoras de Adobe Connect también incluyen la capacidad de activar o desactivar el correo electrónico de información de la cuenta de Adobe que incluye el ID de inicio de sesión y la contraseña del usuario.
+Ya disponible para ON24 y Adobe Connect! Incluya un vínculo único en el correo electrónico de confirmación para cada asistente registrado mediante la nueva `{{member.webinar URL}}` token. Las mejoras de Adobe Connect también incluyen la capacidad de activar o desactivar el correo electrónico de información de la cuenta de Adobe que incluye el ID de inicio de sesión y la contraseña del usuario.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -88,7 +88,7 @@ Obtenga acceso a funciones experimentales desarrolladas por ingenieros de Market
 
 Figura 10. Funciones de Administrador de tesorería en Administración
 
-## Integración con Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
+## Integración con Microsoft Dynamics CRM {#microsoft-dynamics-crm-integration}
 
 Sincronice cuentas, contactos y posibles clientes entre Marketo y Microsoft Dynamics CRM Online mediante nuestra nueva integración prediseñada.
 
