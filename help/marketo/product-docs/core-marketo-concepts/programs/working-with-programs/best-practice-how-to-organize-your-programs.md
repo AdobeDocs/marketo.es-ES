@@ -3,11 +3,10 @@ unique-page-id: 6848705
 description: Práctica recomendada - Organizar sus programas - Documentos de Marketo - Documentación del producto
 title: 'Práctica recomendada: organización de programas'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -28,25 +27,25 @@ En Marketing Activities, debe utilizar carpetas para organizar los programas. La
 >**Ejemplo**
 >
 >* Programas de marketing activos
-   >   * Correos electrónicos
+   >   * Emails
    >   * Eventos
       >      * Eventos en directo/programas
       >      * Presentaciones comerciales
       >      * Seminarios web
    >   * Newsletters
-   >   * Nurtura
+   >   * Cultivar
    >   * Contenido web
    >   * Formularios web
 >* Aprendizaje
 >* Operativo
    >   * Ciclo de vida
-   >   * Puntuación
+   >   * Calificación
    >   * Gestión de datos
->* Perspectiva de ventas
+>* Sales Insight
    >   * Momentos interesantes
    >   * Correos electrónicos de ventas
    >   * Campañas solicitadas de ventas
->* **Archivo**
+>* **Archivar**
    >   * Archivar eventos
       >      * Archivo 2012
       >      * Archivo 2013
@@ -56,15 +55,15 @@ Cada uno de los mencionados en el ejemplo es una carpeta. Observe cómo todos ti
 
 >[!TIP]
 >
->La carpeta &quot;Archivar&quot; es un tipo especial de carpeta diseñada para eliminar elementos de listas seleccionadas, así como para crear informes. Esto ayudará a que el sistema se ejecute más rápido. Obtenga [más información sobre las carpetas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>La carpeta &quot;Archivar&quot; es un tipo especial de carpeta diseñada para eliminar elementos de listas seleccionadas, así como para crear informes. Esto ayudará a que el sistema se ejecute más rápido. Más información [más acerca de las carpetas](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
 
 Sin duda, puede agregar más carpetas como considere oportuno. Tenga en cuenta que las futuras generaciones de especialistas en marketing de su empresa vivirán con sus decisiones sobre cómo nombrar u organizar las cosas.
 
-## Esquemas de nombres {#naming-schemes}
+## Esquemas de nomenclatura {#naming-schemes}
 
-La asignación de nombres es fundamental, ya que todas las funciones de Marketo utilizan un lenguaje común para comunicarse. Para los programas, debe asignarles un nombre único. **Dos programas no pueden tener el mismo nombre**. Una práctica recomendada es utilizar el siguiente formato:
+La asignación de nombres es fundamental, ya que todas las funciones de Marketo utilizan un lenguaje común para comunicarse. Para los programas, debe asignarles un nombre único. **No hay dos programas que puedan tener el mismo nombre**. Una práctica recomendada es utilizar el siguiente formato:
 
-[Abreviación del ] [tipo de programa AAAA]-[MM]-[opcional ] [DDBrief Descripción]
+[Abreviatura del tipo de programa] [YYYY]-[MM]-[DD opcional] [Descripción breve]
 
 >[!NOTE]
 >
@@ -77,7 +76,7 @@ La asignación de nombres es fundamental, ya que todas las funciones de Marketo 
 >1. Tema del seminario web WBN 2015-12-01 aquí
 
 
-Los nombres de programa deben ser únicos en su suscripción, incluso en diferentes [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para los recursos locales dentro de los programas, la regla es **mantener el nombre simple**. Solamente nombren una invitación como &quot;Invitación&quot;, en oposición a &quot;Invitación al Seminario Web de junio de 2015&quot;. Dado que se encuentran en un programa, el programa principal forma parte automáticamente del nombre al seleccionarlo en otro lugar. En otras palabras, los recursos locales solo tienen que ser únicos dentro del programa. Puedes tener cientos de activos llamados &quot;Invite&quot;, cada uno en un programa diferente y no te estropeará.
+Los nombres de programa deben ser únicos en la suscripción, incluso en diferentes [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Para los recursos locales dentro de los programas, la regla es **mantenga el nombre simple**. Solamente nombren una invitación como &quot;Invitación&quot;, en oposición a &quot;Invitación al Seminario Web de junio de 2015&quot;. Dado que se encuentran en un programa, el programa principal forma parte automáticamente del nombre al seleccionarlo en otro lugar. En otras palabras, los recursos locales solo tienen que ser únicos dentro del programa. Puedes tener cientos de activos llamados &quot;Invite&quot;, cada uno en un programa diferente y no te estropeará.
 
 ## Tokens {#tokens}
 
@@ -89,7 +88,7 @@ La organización mencionada anteriormente le permite colocar tokens en la carpet
 >
 >**Ejemplo**
 >
->**Su dirección** corporativa. Utilice un token en lugar de escribirlo cada vez. De esta manera puede actualizarlo en un solo lugar sin necesidad de crear muchos borradores. A continuación, anule el token según sea necesario en una carpeta de nivel inferior.
+>**Su dirección corporativa**. Utilice un token en lugar de escribirlo cada vez. De esta manera puede actualizarlo en un solo lugar sin necesidad de crear muchos borradores. A continuación, anule el token según sea necesario en una carpeta de nivel inferior.
 
 ## Eventos {#events}
 
@@ -99,7 +98,7 @@ Un evento suele tener muchas partes en movimiento, entre ellas: invitaciones, p�
 
 ## Programas de participación {#engagement-programs}
 
-Obtenga más información [sobre los programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). La mejor manera de organizar su programa de participación es con carpetas. Cree una carpeta para cada flujo y, a continuación, coloque los correos electrónicos o programas en esa carpeta. Incluya una carpeta de archivo en cada flujo cuando el contenido quede obsoleto y desee eliminarlo.
+Más información [todo acerca de los programas de participación](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). La mejor manera de organizar su programa de participación es con carpetas. Cree una carpeta para cada flujo y, a continuación, coloque los correos electrónicos o programas en esa carpeta. Incluya una carpeta de archivo en cada flujo cuando el contenido quede obsoleto y desee eliminarlo.
 
 ## Programas operativos {#operational-programs}
 
@@ -111,7 +110,7 @@ Los programas de correo electrónico están diseñados para ser su herramienta p
 
 También puede crear un programa de correo electrónico como programa independiente. Los programas de correo electrónico no están permitidos dentro de otros programas de correo electrónico. ¡Eso sería una locura!
 
-## Clonación {#cloning}
+## Clonando {#cloning}
 
 Una de las funciones más interesantes de Marketo es la capacidad de clonar programas. Esto significa que puede configurar una &quot;plantilla&quot; de programa que tenga todas las campañas inteligentes y los correos electrónicos que desee. Configúrelo por adelantado y luego clónelo para su próxima iniciativa de marketing.
 
@@ -123,4 +122,4 @@ Algunas personas incluso abstraen la mayoría del texto de los correos electrón
 
 ## Resumen {#summary}
 
-Como pueden ver, hay mucha energía en Marketo. Aquí hemos cubierto los conceptos básicos, pero considere algunos [servicios adicionales de expertos de Marketo](https://www.marketo.com/services/) para ajustar y configurar su éxito.
+Como pueden ver, hay mucha energía en Marketo. Aquí cubrimos los conceptos básicos, pero consideremos algunos [servicios adicionales de expertos de Marketo](https://www.marketo.com/services/) para afinar y prepararse para el éxito.
