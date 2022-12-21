@@ -82,7 +82,7 @@ Cuando se habilita, los usuarios de MSI no podrán editar plantillas al enviar c
 
 Cuando está habilitado, los usuarios de MSI pueden ver su Fuente de posibles clientes en una fuente RSS (además de la Fuente de posibles clientes en Salesforce). La fuente RSS solo puede funcionar si la función &quot;Caducidad del token&quot; está deshabilitada.
 
-**Caducidad del token:**
+**Vencimiento del token:**
 
 La caducidad del token se controla en el Administrador de funciones. Para habilitarlo o deshabilitarlo, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Cuando está habilitado, todos los tokens de Marketo caducan en 10 minutos. Cuando está desactivado, los tokens de Marketo no caducan.
 
