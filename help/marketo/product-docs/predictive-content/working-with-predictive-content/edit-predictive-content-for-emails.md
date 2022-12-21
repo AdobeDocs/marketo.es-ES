@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385938
-description: Editar contenido predictivo para correos electrónicos - Marketo Docs - Documentación del producto
+description: 'Editar contenido predictivo para correos electrónicos: documentos de Marketo: documentación del producto'
 title: Editar contenido predictivo para correos electrónicos
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
-
 
 # Editar contenido predictivo para correos electrónicos {#edit-predictive-content-for-emails}
 
@@ -17,13 +16,13 @@ A continuación se muestra cómo configurar el contenido predictivo para los cor
 
 >[!PREREQUISITES]
 >
->El contenido debe estar [aprobado para el contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo contenido .
+>El contenido debe [aprobado para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido .
 
 1. En la página Contenido predictivo , haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. Se abre la página de edición. **** El correo electrónico se muestra de forma predeterminada.
+1. Se abre la página de edición. **Correo electrónico** se muestra de forma predeterminada.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -47,11 +46,11 @@ A continuación se muestra cómo configurar el contenido predictivo para los cor
    >
    >Para garantizar la mejor calidad, la imagen debe ser de 400 x 400 píxeles o más pequeña.
 
-1. Inserte la dirección URL de la imagen y haga clic en **Add**.
+1. Inserte la dirección URL de la imagen y haga clic en **Agregar**.
 
    ![](assets/five.png)
 
-1. Haga clic y arrastre el control deslizante para cambiar el tamaño de la imagen. A continuación, haga clic y arrastre el cuadro de recorte para aislar el área de imagen que desee utilizar. Haga clic en **Preview** cuando termine.
+1. Haga clic y arrastre el control deslizante para cambiar el tamaño de la imagen. A continuación, haga clic y arrastre el cuadro de recorte para aislar el área de imagen que desee utilizar. Haga clic en **Vista previa** cuando haya terminado.
 
    ![](assets/six.png)
 
@@ -60,7 +59,7 @@ A continuación se muestra cómo configurar el contenido predictivo para los cor
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. De forma opcional, haga clic en el campo **Categories** y añada categorías al contenido. Las opciones proceden de las [categorías que ya ha configurado](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Si lo desea, haga clic en el **Categorías** y añada categorías al contenido. Las opciones son de la [categorías que ya ha configurado](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -74,4 +73,4 @@ A continuación se muestra cómo configurar el contenido predictivo para los cor
 
    >[!NOTE]
    >
-   >En el Editor de correo electrónico de Marketo v2.0, también puede [ver las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) que utiliza mientras activa el contenido.
+   >En Marketo Email Editor v2.0 también puede [ver las plantillas de diseño](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) utiliza mientras activa el contenido.
