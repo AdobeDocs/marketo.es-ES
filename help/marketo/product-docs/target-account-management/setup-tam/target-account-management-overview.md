@@ -1,17 +1,16 @@
 ---
 unique-page-id: 11381917
-description: 'Administración de cuentas de Target: Marketo Docs: Documentación del producto'
-title: Administración de cuentas de Target
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+description: Administración de cuentas de Target - Documentos de Marketo - Documentación del producto
+title: Gestión de la cuenta objetivo
+exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-
-# Administración de cuentas de Target {#target-account-management-overview}
+# Gestión de la cuenta objetivo {#target-account-management-overview}
 
 Especialista en marketing, cumpla con la Administración de cuentas de Target. Administración de cuentas de Target, conozca a un especialista en marketing.
 
@@ -19,7 +18,7 @@ Especialista en marketing, cumpla con la Administración de cuentas de Target. A
 
 ¿Qué es la administración de cuentas de Marketo Target?
 
-La administración de cuentas de Marketo Target reúne a los equipos de ventas y marketing para que se centren en las cuentas clave y las involucren de una manera muy coordinada, lo que reduce la brecha entre la estrategia, la ejecución y el éxito centrados en la cuenta, todo ello dentro de una sola plataforma.
+La administración de cuentas de Marketo Target reúne a los equipos de ventas y marketing para que se dirijan a cuentas clave y las comprometan de forma muy coordinada, lo que permite salvar la brecha entre la estrategia, la ejecución y el éxito centrados en la cuenta, todo ello dentro de una sola plataforma.
 
 ¿Por qué utilizar la administración de cuentas de Marketo Target?
 
@@ -36,7 +35,7 @@ Marketo TAM consta de tres componentes:
 **2) Participación**
 
 * Personalización basada en cuentas
-* Participación en todos los canales
+* Cross-Channel Engagement
 * Flujos de trabajo específicos de la cuenta
 
 **3) Medida**
@@ -45,13 +44,13 @@ Marketo TAM consta de tres componentes:
 * Puntuación de participación de la cuenta
 * Impacto en la canalización y los ingresos
 
-Marketing basado en cuentas de Marketo también ofrece varias herramientas para personalizar la experiencia de cuenta con nombre en todos los canales.
+El marketing basado en cuentas de Marketo también ofrece varias herramientas para personalizar la experiencia de cuenta con nombre en todos los canales.
 
 * Personalización de correo electrónico y página de aterrizaje
 * Personalización web
 * URL [Personalización](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Anuncio [Personalización](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing personalizado
+* Publicidad [Personalización](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Personalizado](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
 
 ¡Estoy dentro! ¿Cómo empiezo?
 
@@ -59,6 +58,6 @@ Marketing basado en cuentas de Marketo también ofrece varias herramientas para 
 
 >[!NOTE]
 >
->Se puede acceder a las cuentas con nombre administradas en Marketo TAM directamente desde Web TAM para las necesidades de personalización web. Obtenga más información [aquí](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
+>Se puede acceder a las cuentas con nombre administradas en Marketo TAM directamente desde Web TAM para satisfacer las necesidades de personalización web. Más información [here](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
 
-Bienvenido a Marketo TAM y disfrute del marketing dirigido!
+Bienvenido a Marketo TAM y disfrute del marketing dirigido.
