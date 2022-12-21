@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2949168
-description: Uso de plantillas para crear Campañas Web - Documentos de marketing - Documentación del producto
-title: Uso de plantillas para crear Campañas Web
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Uso de plantillas para crear campañas web - Documentos de Marketo - Documentación del producto
+title: Uso de plantillas para crear campañas web
+exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Uso de plantillas para crear campañas web {#using-templates-to-create-web-campaigns}
 
-# Uso de plantillas para crear Campañas Web {#using-templates-to-create-web-campaigns}
-
-Acelere y simplifique el proceso de creación de campañas web mediante el uso de las plantillas integradas o [guardando su propia](save-your-campaign-as-a-template.md).
+Acelere y simplifique su proceso de creación de campañas web mediante el uso de nuestras plantillas integradas o [guardar el suyo propio](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
->Las plantillas están optimizadas para todos los dispositivos y para las experiencias de exploración tanto para equipos de escritorio como móviles.
+>Las plantillas están optimizadas para todos los dispositivos y experiencias de navegación, tanto para escritorio como para móvil.
 
-1. Vaya a **Campañas Web**.
+1. Vaya a **Campañas web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Haga clic en **Crear nueva Campaña Web**.
+1. Haga clic en **Crear nueva campaña web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,7 +30,7 @@ Acelere y simplifique el proceso de creación de campañas web mediante el uso d
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Seleccione un segmento de Destinatario.
+1. Seleccione un segmento de Target.
 
    ![](assets/set-web-campaign-education.jpg)
 
@@ -39,17 +38,17 @@ Acelere y simplifique el proceso de creación de campañas web mediante el uso d
 
    ![](assets/templates.png)
 
-1. Seleccione el área adecuada para la campaña para ver y seleccionar una plantilla que funcione correctamente.
+1. Seleccione el área adecuada para la campaña y seleccione una plantilla que funcione para usted.
 
    >[!NOTE]
    >
-   >Hay algunas plantillas interesantes para elegir, y vamos a agregar más en el futuro.
+   >Hay algunas plantillas geniales entre las que elegir, y agregaremos más en el futuro.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >Para campañas móviles, seleccione una plantilla en la sección **mobile**.
+   >Para campañas móviles, seleccione una plantilla de la **mobile** para obtener más información.
 
 1. Personalice la plantilla.
 
@@ -59,8 +58,8 @@ Acelere y simplifique el proceso de creación de campañas web mediante el uso d
 
    ![](assets/click-save-hand.jpg)
 
-¡Bien hecho! ¿Vio cuánto tiempo guardó con una plantilla?
+¡Bien hecho! ¿Ha visto cuánto tiempo ha ahorrado utilizando una plantilla?
 
 >[!MORELIKETHIS]
 >
->[Guardar una Campaña como plantilla](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[Guardar una campaña como plantilla](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
