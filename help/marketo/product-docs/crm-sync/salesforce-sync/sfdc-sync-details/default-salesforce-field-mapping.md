@@ -6,7 +6,7 @@ exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 50%
+ht-degree: 53%
 
 ---
 
@@ -21,7 +21,7 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo real
 | Ingresos anuales | Ingresos anuales |
 | Ciudad | Ciudad |
 | Compañía | Nombre de la compañía |
-| Fecha convertida | Fecha convertida de SFDC |
+| Fecha convertida | Fecha de conversión de SFDC |
 | País | País |
 | Fecha de creación | Fecha de creación en SFDC |
 | Descripción | Notas de la persona |
@@ -33,7 +33,7 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo real
 | Convertido | SFDC se convierte |
 | Eliminado | SFDC eliminado |
 | Apellido | Apellido |
-| Origen del lead | Origen |
+| Origen del posible cliente | Origen |
 | Puntaje del cliente potencial | Puntuación |
 | Teléfono móvil | Número de teléfono móvil |
 | Empleados | Cantidad de empleados |
@@ -54,13 +54,13 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo real
 | Fecha de nacimiento | Fecha de nacimiento |
 | Fecha de creación | Fecha de creación en SFDC |
 | Descripción del contacto | Notas de la persona |
-| Correo electrónico | Dirección de email |
+| Email | Dirección de email |
 | Fax empresarial | Número de fax |
 | Nombre | Nombre |
 | No participar en el correo electrónico | Suscripción cancelada |
 | Eliminado | SFDC eliminado |
 | Apellido | Apellido |
-| Origen del lead | Origen |
+| Origen del posible cliente | Origen |
 | Puntaje del cliente potencial | Puntuación |
 | MailingCity | Ciudad |
 | MailingCountry | País |
