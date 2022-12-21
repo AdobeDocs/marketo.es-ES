@@ -510,7 +510,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
    <td><p>Una de las secciones principales de Adobe Marketo Engage. Aquí es donde <strong>campaign</strong> orquestación. Todas sus <strong>programas</strong>, campañas y <strong>carpetas de campaña</strong> (y <strong>recursos locales</strong>) viven aquí.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automatización de la mercadotecnia</strong></a></td> 
+   <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Automatización de marketing</strong></a></td> 
    <td colspan="1">Una categoría de tecnología que permite a las empresas optimizar, automatizar y medir las tareas y los flujos de trabajo de marketing, de modo que puedan aumentar la eficacia operativa y los ingresos más rápidamente.</td> 
   </tr> 
   <tr> 
@@ -854,13 +854,13 @@ A continuación se describen muchos de los términos que puede encontrar al usar
    <td>Estado que indica que el destinatario ha elegido no recibir más correos electrónicos de marketing. Las personas marcadas como no suscritas pueden seguir recibiendo <strong>correos electrónicos operativos</strong>.</td> 
   </tr> 
   <tr> 
-   <td><strong>de usuario</strong></td> 
+   <td><strong>Usuario</strong></td> 
    <td>Persona que utiliza Marketo.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## W {#w}
+## M {#w}
 
 <table> 
  <colgroup> 
