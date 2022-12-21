@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352422
-description: ¿Cuáles son las últimas versiones de cliente? - Marketo Docs - Documentación del producto
+description: '¿Cuáles son las últimas versiones de cliente? : Documentos de Marketo: documentación del producto'
 title: ¿Cuáles son las últimas versiones de cliente?
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 00f3537e-358d-4540-b569-085674c360a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 7%
 
 ---
-
 
 # ¿Cuáles son las últimas versiones de cliente? {#what-are-the-latest-client-versions}
 
@@ -19,11 +18,11 @@ A continuación se muestran las últimas versiones para todos los clientes de Sa
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Chrome</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Windows de Outlook</strong></td> 
