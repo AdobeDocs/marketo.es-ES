@@ -3,7 +3,6 @@ unique-page-id: 557337
 description: Creación y cambio de vistas para listas y listas inteligentes - Documentos de Marketo - Documentación del producto
 title: Crear y cambiar vistas para listas y listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
@@ -17,7 +16,7 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía q
 
 ## Crear una vista {#create-a-view}
 
-1. Vaya a una lista o lista inteligente, haga clic en la pestaña **People** y haga clic en **Create** **View** en la lista desplegable **View**.
+1. Vaya a una lista o lista inteligente y haga clic en el botón **People** y haga clic en **Crear** **Ver** en el **Ver** lista desplegable.
 
    ![](assets/smartlist-createview.png)
 
@@ -31,11 +30,11 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía q
 
 >[!TIP]
 >
->Para buscar rápidamente, utilice el cuadro **Find**.
+>Para buscar rápidamente, use el **Buscar** en la ventana
 
-## Vistas de conmutador {#switch-views}
+## Cambiar vistas {#switch-views}
 
-1. Haga clic en la lista desplegable **View** y, a continuación, seleccione la vista que desee. Cambie de vista si es necesario.
+1. Haga clic en el **Ver** y, a continuación, seleccione la vista que desee. Cambie de vista si es necesario.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -45,11 +44,11 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía q
 
 ## Editar una vista {#edit-a-view}
 
-1. Asegúrese de que la vista que desea editar esté seleccionada en la lista desplegable **View**.
+1. Asegúrese de que la vista que desea editar esté seleccionada en la sección **Ver** lista desplegable.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Haga clic en la opción **Edit**.
+1. Haga clic en el **Editar** .
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -59,7 +58,7 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía q
 
 ## Eliminar una vista {#delete-a-view}
 
-1. Seleccione la opción **Editar** para la vista que desee eliminar de la lista desplegable **Ver**.
+1. Seleccione el **Editar** para la vista que desea eliminar de la **Ver** lista desplegable.
 
    ![](assets/smartlist-editcustomview.png)
 
