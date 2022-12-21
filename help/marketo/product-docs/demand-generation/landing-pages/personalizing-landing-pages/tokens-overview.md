@@ -3,7 +3,6 @@ unique-page-id: 2950799
 description: Información general sobre tokens - Documentos de Marketo - Documentación del producto
 title: Información general sobre tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Información general de tokens {#tokens-overview}
+# Información general sobre tokens {#tokens-overview}
 
 Un token es una variable que se puede utilizar en pasos de flujo de campañas inteligentes de Marketo, correos electrónicos, páginas de aterrizaje, fragmentos y campañas web.
 
@@ -87,9 +86,9 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Los campos de persona personalizada también funcionan si utiliza su nombre para mostrar, por ejemplo, `{{lead.Custom Field Name}}`
+* Los campos de persona personalizada también funcionan si utiliza su nombre para mostrar, por ejemplo: `{{lead.Custom Field Name}}`
 
-## Tokens de empresa {#company-tokens}
+## Tokens de la empresa {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -122,7 +121,7 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 >[!NOTE]
 >
->Obtenga más información sobre estos tokens en el [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Obtenga más información sobre estos tokens en la sección [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,9 +148,9 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 >[!NOTE]
 >
->Encuentre más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) basados en los déclencheur utilizados en una campaña inteligente.
+>Encontrar más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en función de los déclencheur utilizados en una campaña inteligente.
 
-## Tokens de programa {#program-tokens}
+## Tokens del programa {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
@@ -159,14 +158,14 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 ## Mis tokens {#my-tokens}
 
-Mis tokens se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que ha creado para el token. Obtenga más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Mis tokens se definen dentro de un programa y comienzan por `{{my.` seguido del nombre creado para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token de miembro {#member-token}
 
-Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para direcciones URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar con un token `{{member.webinar url}}`. El token `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
+Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para direcciones URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un `{{member.webinar url}}` token. La variable `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->El token `{{member.webinar url}}` solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del Programa de eventos.
+>La variable `{{member.webinar url}}` solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del Programa de eventos.
