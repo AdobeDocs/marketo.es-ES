@@ -1,20 +1,19 @@
 ---
-description: Crear un mensaje en la aplicación - Documentos de marketing - Documentación del producto
+description: 'Creación de un mensaje en la aplicación: Marketo Docs: documentación del producto'
 title: Crear un mensaje en la aplicación
-translation-type: tm+mt
-source-git-commit: b1cdd508e588af8b2af7f3d47804c460b48c8329
+exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # Crear un mensaje en la aplicación {#create-an-in-app-message}
 
-Hay varios pasos para crear el mensaje perfecto en la aplicación. Inicio aquí, y luego siga los pasos en orden, en estos artículos.
+Existen varios pasos para crear el mensaje perfecto en la aplicación. Comience aquí y siga los pasos en orden, en estos artículos.
 
-Después de crear el mensaje en la aplicación, vaya [aquí](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver cómo enviarlo.
+Después de crear el mensaje en la aplicación, vaya a [here](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver cómo enviarlo.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -24,7 +23,7 @@ Después de crear el mensaje en la aplicación, vaya [aquí](/help/marketo/produ
 
    ![Imagen dos](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Seleccione **Mensaje en la aplicación**.
+1. Select **Mensaje en la aplicación**.
 
    ![Imagen tres](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
@@ -34,6 +33,6 @@ Después de crear el mensaje en la aplicación, vaya [aquí](/help/marketo/produ
 
 >[!NOTE]
 >
->El nombre del programa se muestra automáticamente en la lista desplegable, pero puede seleccionar otro.
+>El nombre del programa se muestra automáticamente en la lista desplegable, pero puede seleccionar uno diferente.
 
-A continuación, [elija un diseño](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) para el mensaje en la aplicación.
+Siguiente, [elegir un diseño](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) para el mensaje en la aplicación.
