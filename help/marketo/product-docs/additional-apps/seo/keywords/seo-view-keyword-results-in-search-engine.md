@@ -3,7 +3,6 @@ unique-page-id: 2949238
 description: SEO - Ver resultados de palabras clave en el motor de búsqueda - Documentos de Marketo - Documentación del producto
 title: 'SEO: ver resultados de palabras clave en el motor de búsqueda'
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '83'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Si desea ver el aspecto que tiene el contenido dentro de un motor de búsqueda, hemos añadido un pequeño y práctico método abreviado.
 
-1. Vaya a la sección **Palabras clave**.
+1. Vaya a la **Palabras clave** para obtener más información.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
