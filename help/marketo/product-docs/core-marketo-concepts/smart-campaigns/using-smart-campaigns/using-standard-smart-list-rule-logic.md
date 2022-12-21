@@ -3,7 +3,6 @@ unique-page-id: 1147001
 description: Uso de la lógica de regla de lista inteligente estándar - Documentos de Marketo - Documentación del producto
 title: Uso de la lógica de regla de lista inteligente estándar
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
@@ -19,7 +18,7 @@ Es posible que haya notado la opción &quot;Usar filtros&quot; al crear listas i
 
 >[!NOTE]
 >
->El cambio de la lógica de reglas de lista inteligente solo se aplica a los filtros, **no** déclencheur.
+>El cambio de la lógica de reglas de lista inteligente solo se aplica a los filtros, **not** déclencheur.
 
 Los déclencheur siempre se evalúan como O aunque la configuración anterior esté establecida en TODOS.  Este es un ejemplo:
 
@@ -38,7 +37,7 @@ Country is USA
 THEN follow the campaign's flow step(s)
 ```
 
-Por lo tanto, si una persona rellena el formulario **o** visita la página, la campaña evaluará a esa persona en función de **todos** o **cualquiera** de los filtros siguientes, según la configuración utilizada.
+Por lo tanto, si una persona rellena el formulario **o** visita la página, la campaña evaluará a esa persona en función de **all** o **any** de los filtros siguientes, según la configuración utilizada.
 
 >[!MORELIKETHIS]
 >
