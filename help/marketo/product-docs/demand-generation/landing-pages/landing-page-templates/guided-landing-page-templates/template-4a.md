@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Plantilla 4A {#template-4a}
 
-Haga clic con el botón derecho para [descargar plantilla 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+Haga clic con el botón derecho para [Descargar plantilla 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
