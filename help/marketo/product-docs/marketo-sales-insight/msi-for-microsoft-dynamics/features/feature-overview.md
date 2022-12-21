@@ -6,7 +6,7 @@ exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
@@ -18,7 +18,7 @@ Las siguientes funciones están disponibles en la nueva solución MSD de MSI.
 
 * Estrellas y llamas
 * Momento interesante
-* Actividad web
+* Actividad en la web
 * Puntuación
 * Correo electrónico (abrir y hacer clic)
 
@@ -43,7 +43,7 @@ Las siguientes funciones están disponibles en la nueva solución MSD de MSI.
 
 * Estrellas y llamas
 * Momento interesante
-* Actividad web
+* Actividad en la web
 * Puntuación
 * Correo electrónico (abrir y hacer clic)
 
@@ -68,7 +68,7 @@ Las siguientes funciones están disponibles en la nueva solución MSD de MSI.
 
 * Estrellas y llamas
 * Momento interesante
-* Actividad web
+* Actividad en la web
 * Puntuación
 * Correo electrónico (abrir y hacer clic)
 
