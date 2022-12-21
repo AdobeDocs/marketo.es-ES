@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1147015
 description: Transmisión del programa de participación en cambios - Documentos de Marketo - Documentación del producto
-title: Cambiar flujo de programa de participación
+title: Cambiar secuencia de programa de participación
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Cambiar el flujo del programa de participación {#change-engagement-program-stream}
+# Cambiar secuencia de programa de participación {#change-engagement-program-stream}
 
-## Información general {#overview}
+## Resumen {#overview}
 
-Normalmente, se utilizan [reglas de transición de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguirlo, pero si se desea mover manualmente a las personas de un flujo a otro, este es el paso de flujo que se debe utilizar.
+Normalmente usaría [reglas de transición de flujo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) para conseguirlo, pero si desea mover manualmente personas de un flujo a otro, este es el paso de flujo que se debe utilizar.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
