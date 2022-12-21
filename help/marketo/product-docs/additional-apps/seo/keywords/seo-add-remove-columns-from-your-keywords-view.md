@@ -3,7 +3,6 @@ unique-page-id: 2949243
 description: 'SEO: Agregar o eliminar columnas de la vista de palabras clave: Documentos de Marketo: Documentación del producto'
 title: 'SEO: Agregar o eliminar columnas de la vista Palabras clave'
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# SEO: Agregar o eliminar columnas de la vista de palabras clave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO: Agregar o eliminar columnas de la vista Palabras clave {#seo-add-remove-columns-from-your-keywords-view}
 
 Puede ajustar la vista de palabra clave para mostrar los datos que más le interesen.
 
-1. Vaya a la sección **Palabras clave**.
+1. Vaya a la **Palabras clave** para obtener más información.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
