@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Plantilla 9B {#template-9b}
 
-Haga clic con el botón derecho para [descargar plantilla 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
+Haga clic con el botón derecho para [plantilla de descarga 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 
