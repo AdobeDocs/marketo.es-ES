@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ## Momentos de Marketo {#marketo-moments}
 
-¿Fuera a almorzar pero necesita reprogramar un correo electrónico? La aplicación Marketo Moments, disponible en la App Store o Google Play, le permite ver el rendimiento de sus campañas de correo electrónico y eventos en tiempo real, así como lo que sucederá en el futuro, desde su teléfono iPhone, iPad o Android.
+¿Fuera a almorzar pero necesita reprogramar un correo electrónico? La aplicación Marketo Moments, disponible en App Store o Google Play, le permite ver el rendimiento de sus campañas de correo electrónico y eventos en tiempo real, así como lo que sucederá en el futuro, desde su teléfono iPhone, iPad o Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Actualización del editor de texto enriquecido {#rich-text-editor-update}
 
-Se ha actualizado el editor de texto con un aspecto moderno, que incluye formato de texto optimizado, edición de imágenes, inserción de vínculos y edición de HTML. El editor HTML ahora presenta una validación mínima, lo que permite una edición de código menos restrictiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones Nueva y Heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**.
+Se ha actualizado el editor de texto con un aspecto moderno, que incluye formato de texto optimizado, edición de imágenes, inserción de vínculos y edición de HTML. El editor de HTML ahora presenta una validación mínima, lo que permite una edición de código menos restrictiva.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Esta actualización se implementará automáticamente en los pocos días posteriores a la versión de julio. Después, podrá alternar entre las versiones nueva y heredada del editor desde **Administración > Correo electrónico > Editar configuración del editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -47,10 +47,10 @@ Al hacer clic en el mosaico de la capacidad de envío de correo electrónico, ya
 
 ## API de empresa {#company-api}
 
-**Acceso a los objetos de la empresa a través de la API** de REST: La API de REST ahora proporciona acceso al objeto Marketo Company (también denominado Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que ha creado en Marketo y asociar posibles clientes con dichas empresas mediante la API de posibles clientes actualizada.
+**Acceso a los objetos de la empresa a través de la API de REST**: La API de REST ahora proporciona acceso al objeto Marketo Company (también denominado Account). Esto significa que puede leer, actualizar y eliminar los objetos de empresa que ha creado en Marketo y asociar posibles clientes con dichas empresas mediante la API de posibles clientes actualizada.
 
-Obtenga más información [más](https://developers.marketo.com/documentation/company-api/) en nuestra guía de referencia para la API de la empresa.
+Más información [more](https://developers.marketo.com/documentation/company-api/) en nuestra guía de referencia para la API de la empresa.
 
 ## Acceso a la capacidad de entrega de correo electrónico {#access-email-deliverability}
 
-**Acceder a la herramienta** de entrega de correo electrónico: Este nuevo permiso permite a los administradores conceder acceso a los usuarios a la herramienta Email Deliverability .
+**Acceso a la herramienta de entrega de correo electrónico**: Este nuevo permiso permite a los administradores conceder acceso a los usuarios a la herramienta Email Deliverability .
