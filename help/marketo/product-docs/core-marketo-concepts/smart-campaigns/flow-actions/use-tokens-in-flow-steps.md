@@ -6,7 +6,7 @@ exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -16,10 +16,10 @@ ht-degree: 3%
 >
 >[Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-Un token es una variable. Lo utiliza en correos electrónicos, páginas de aterrizaje y campañas inteligentes para facilitar las cosas. Puede utilizar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) en pasos de flujo, enlaces web, correos electrónicos y páginas de aterrizaje. Puede utilizar tokens para incluir contenido variable en estos pasos de flujo:
+Un token es una variable. Lo utiliza en correos electrónicos, páginas de aterrizaje y campañas inteligentes para facilitar las cosas. Puede usar [Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (tokens personalizados) en pasos de flujo, enlaces web, correos electrónicos y páginas de aterrizaje. Puede utilizar tokens para incluir contenido variable en estos pasos de flujo:
 
 * Cambiar valor de datos
-* Cambiar datos de miembros del programa
+* Cambiar datos del miembro del programa
 * Momento interesante
 * Pasos de la campaña de Salesforce (añadir, quitar, cambiar estado)
 * Crear tarea
@@ -31,7 +31,7 @@ Un token es una variable. Lo utiliza en correos electrónicos, páginas de aterr
 
    >[!NOTE]
    >
-   >Consulte [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para obtener una lista de varios tokens disponibles.
+   >Consulte [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para obtener una lista de varios tokens disponibles.
 
 1. Siga escribiendo hasta que encuentre el token que desee y haga clic en para seleccionarlo.
 
