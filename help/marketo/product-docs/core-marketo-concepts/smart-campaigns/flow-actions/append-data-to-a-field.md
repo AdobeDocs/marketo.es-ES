@@ -3,7 +3,6 @@ unique-page-id: 1147042
 description: Anexar datos a un campo - Documentos de Marketo - Documentación del producto
 title: Anexar datos a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -21,9 +20,9 @@ Existe una forma sencilla de anexar datos a un campo. Así es como.
 
 >[!NOTE]
 >
->Los pasos siguientes también se aplican a [Cambiar datos de miembro del programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>Los pasos siguientes también se aplican a [Cambiar datos de miembros del programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
-1. En la pestaña **Flujo**, arrastre el paso **Cambiar valor de datos**.
+1. En el **Flujo** , arrastre el **Cambiar valor de datos** paso de flujo.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
