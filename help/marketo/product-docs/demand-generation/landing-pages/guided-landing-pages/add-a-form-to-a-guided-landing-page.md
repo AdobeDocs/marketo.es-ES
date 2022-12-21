@@ -1,37 +1,36 @@
 ---
 unique-page-id: 7515107
-description: Añadir un formulario en una Página de aterrizaje guiada - Documentos de marketing - Documentación del producto
-title: Añadir un formulario en una Página de aterrizaje guiada
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Agregar un formulario a una página de aterrizaje guiada: Documentos de Marketo: Documentación del producto'
+title: Agregar un formulario a una página de aterrizaje guiada
+exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
+# Agregar un formulario a una página de aterrizaje guiada {#add-a-form-to-a-guided-landing-page}
 
-# Añadir un formulario a una Página de aterrizaje guiada {#add-a-form-to-a-guided-landing-page}
-
-Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplimentar formulario.
+Formulario, cumpla la página de aterrizaje. página de aterrizaje, cumplimente el formulario.
 
 >[!PREREQUISITES]
 >
->[Creación de una Página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[Crear una página de aterrizaje guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vaya al área **Actividades de mercadotecnia**.
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/one.png)
 
-1. Busque y seleccione su página de aterrizaje y haga clic en **Editar borrador**.
+1. Busque y seleccione la página de aterrizaje y haga clic en **Editar borrador**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Los elementos disponibles en las páginas de aterrizaje guiadas se definen mediante la plantilla. Si no ve ningún formulario en el panel Elementos, seleccione una plantilla nueva o póngase en contacto con el creador de la plantilla.
+   >La plantilla define los elementos disponibles en las páginas de aterrizaje guiadas. Si no ve un formulario en el panel de elementos, seleccione una plantilla nueva o hable con el creador de plantillas.
 
-1. Haga clic con el doble en el **Formulario** del panel de elementos.
+1. Haga doble clic en el botón **Formulario** en el panel elemento .
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -41,15 +40,15 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
 1. Tiene tres opciones al elegir la página de seguimiento:
 
-   * página de aterrizaje: elija una página de aterrizaje de marketing
+   * Página de aterrizaje: elija una página de aterrizaje de Marketo
    * Dirección URL externa: elija la dirección URL que desee
-   * Formulario definido: utilice la configuración definida en el nivel de formulario
+   * Formulario definido : utilice la configuración definida en el nivel de formulario
 
    >[!NOTE]
    >
    >La página de seguimiento es la página que verán los usuarios después de enviar el formulario.
 
-1. En este ejemplo usaremos Formulario definido. Haga clic en **Insertar**.
+1. En este ejemplo utilizaremos Formulario definido. Haga clic en **Insertar**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +56,4 @@ Formulario, cumple con la página de aterrizaje. Página de aterrizaje, cumplime
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ahora cierre el editor de páginas de aterrizaje y [apruebe el borrador de página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+A continuación, cierre el editor de páginas de aterrizaje y [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
