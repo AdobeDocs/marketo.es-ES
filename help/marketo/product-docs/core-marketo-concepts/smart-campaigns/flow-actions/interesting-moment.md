@@ -3,11 +3,10 @@ unique-page-id: 1146956
 description: 'Momento interesante: Documentos de Marketo: Documentación del producto'
 title: Momento interesante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -15,17 +14,17 @@ ht-degree: 5%
 
 ## Resumen {#overview}
 
-Si tiene Marketo Sales Insight, puede utilizar el paso de flujo **Momento interesante** para dar visibilidad a su equipo de ventas sobre las cosas geniales que están haciendo sus empleados.
+Si tiene Marketo Sales Insight, puede usar la variable **Momento interesante** paso de flujo para dar visibilidad a su equipo de ventas sobre las cosas geniales que están haciendo sus personas.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Uso {#usage}
 
-1. Seleccione el momento interesante **type** que desee utilizar.
+1. Seleccione el momento interesante **type** desea utilizar.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Cree una **descripción** que explique el momento interesante para su equipo de ventas.
+1. Cree un **descripción** eso explica el momento interesante para su equipo de ventas.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
