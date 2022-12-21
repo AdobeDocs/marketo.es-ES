@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380732
-description: 'Filtros de cuenta: Marketo Docs: Documentación del producto'
-title: Filtros de la cuenta
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+description: 'Filtros de cuenta: Documentos de Marketo: Documentación del producto'
+title: Filtros de cuenta
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
-
 
 # Filtros de cuenta {#account-filters}
 
@@ -17,11 +16,11 @@ Identifique y comprometa las cuentas con nombre y las personas incluidas en ella
 
 ## Filtros TAM {#tam-filters}
 
-1. Seleccione la campaña inteligente y haga clic en **Smart List**.
+1. Seleccione la campaña inteligente y haga clic en **Lista inteligente**.
 
    ![](assets/one.png)
 
-1. Haga clic en **+** para expandir la carpeta **Filtros de cuenta**.
+1. Haga clic en el **+** para expandir el **Filtros de la cuenta** carpeta.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Identifique y comprometa las cuentas con nombre y las personas incluidas en ella
 
    ![](assets/three.png)
 
-## Miembro de la lista de cuentas {#member-of-account-list}
+## Miembro de la Lista de cuentas {#member-of-account-list}
 
 Para utilizar este filtro, haga clic en la lista desplegable de cuentas...
 
@@ -43,9 +42,9 @@ Para utilizar este filtro, haga clic en la lista desplegable de cuentas...
 >
 >Para el filtro Lista de miembros de cuenta, solo hay un calificador: &quot;is&quot;: no están disponibles los calificadores adicionales (como &quot;is not&quot; y &quot;is any&quot;).
 
-## Miembro de la cuenta con nombre {#member-of-named-account}
+## Miembro de cuenta nombrada {#member-of-named-account}
 
-Primero, elija un calificador. **** Es para una cuenta con nombre específica o  **lo es** para cualquier cuenta con nombre.
+Primero, elija un calificador. **Is** para una cuenta o cuentas con nombre específicas o **es cualquiera** para cualquier cuenta con nombre.
 
 ![](assets/six.png)
 
@@ -57,7 +56,7 @@ Haga clic en la lista desplegable de cuentas con nombre...
 
 ![](assets/eight.png)
 
-Si utiliza el calificador &quot;es cualquiera&quot;, puede que desee utilizar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para restringir los resultados de búsqueda. ¡Añade tantos como quieras!
+Si utiliza el calificador &quot;es cualquiera&quot;, puede que desee utilizar [restricciones](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para reducir los resultados de búsqueda. ¡Añade tantos como quieras!
 
 ![](assets/nine.png)
 
