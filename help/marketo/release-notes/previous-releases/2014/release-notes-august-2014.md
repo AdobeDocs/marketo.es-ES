@@ -16,9 +16,9 @@ Las siguientes funciones están incluidas en la versión de agosto de 2014. Comp
 
 ## Licencias del Calendario de marketing {#marketing-calendar-licenses}
 
-Después del 5 de septiembre de 2014, solo 5 usuarios pueden tener acceso gratuito al calendario de marketing. Asegúrese de [Publicar/Revocar una licencia de calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) antes de los usuarios que elija para obtener acceso sin interrupciones.
+Después del 5 de septiembre de 2014, solo 5 usuarios pueden tener acceso gratuito al calendario de marketing. Asegúrese de [Emitir o revocar una licencia del Calendario de mercadotecnia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) a los usuarios de su elección antes de ese momento para obtener acceso sin interrupciones.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nuevos permisos de usuario {#new-user-permissions}
 
@@ -34,7 +34,7 @@ Se agregaron los siguientes permisos de usuario nuevos:
 
 ## Exportar usuarios y funciones desde el administrador {#export-users-and-roles-from-admin}
 
-Ahora puede [Exportar una lista de usuarios y funciones](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) desde Marketo. También puede incluir una marca de tiempo &quot;Último inicio de sesión&quot; para incluirla en la exportación.
+Ahora puede [Exportar una lista de usuarios y funciones](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) de Marketo. También puede incluir una marca de tiempo &quot;Último inicio de sesión&quot; para incluirla en la exportación.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
