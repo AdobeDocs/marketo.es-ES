@@ -42,7 +42,7 @@ La integración LeanData ahora permite la coincidencia de cliente potencial a cu
 
 **[Mejoras en la vista previa de campañas](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Los profesionales de marketing ahora pueden garantizar que sus campañas web tengan un aspecto bueno en cualquier dispositivo *antes de* iniciarlas. Con estas mejoras, verá cómo se renderizarán las campañas web en equipos de escritorio, dispositivos móviles y tabletas. El nuevo complemento para Chrome también ofrece vistas previas más coherentes y precisas.
+Los profesionales de marketing ahora pueden garantizar que sus campañas web tengan un aspecto bueno en cualquier dispositivo *before* lanzamiento. Con estas mejoras, verá cómo se renderizarán las campañas web en equipos de escritorio, dispositivos móviles y tabletas. El nuevo complemento para Chrome también ofrece vistas previas más coherentes y precisas.
 
 **[Mejoras en la campaña de utilidades](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -62,7 +62,7 @@ Aumente el retorno en el marketing de contenido con análisis más profundos y s
 
 **Mejoras en las perspectivas de correo electrónico**
 
-Saque aún más partido a su experiencia de perspectivas de correo electrónico con nuevas formas de preparar y compartir datos. Ahora puede descargar los resultados de las perspectivas de correo electrónico en Microsoft Excel y PowerPoint para trabajar con los datos fuera de Marketo.
+Saque aún más partido a su experiencia de perspectivas de correo electrónico con nuevas formas de preparar y compartir datos. Ahora puede descargar los resultados de Perspectivas de correo electrónico en Microsoft Excel y PowerPoint para trabajar con los datos fuera de Marketo.
 
 ## Compatibilidad con la configuración de identidad federada {#federated-identity-configuration-support}
 
