@@ -3,11 +3,10 @@ unique-page-id: 2953243
 description: Tipos de notificaciones - Documentos de Marketo - Documentación del producto
 title: Tipos de notificación
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Existen varios tipos de notificaciones.
 
-## Error de campaña {#campaign-failure}
+## Error de campaña  {#campaign-failure}
 
 Los errores de campaña le notifican de los errores de sus campañas inteligentes.
 
@@ -35,7 +34,7 @@ Si utiliza Salesforce, las notificaciones de error de sincronización se parecen
 
 ![](assets/salesforcesyncerror.png)
 
-Participación
+Compromiso
 
 Cuando los posibles clientes se agotan en una secuencia, se envía una notificación.  La notificación incluye el número de posibles clientes que se agotaron y alguna otra información.
 
@@ -47,9 +46,9 @@ Si intenta enviar posibles clientes a Facebook sin aceptar los términos del ser
 
 Limpieza de campaña de Déclencheur inactivo
 
-Desactivar activó las campañas inteligentes que ya no obtienen ninguna actividad. Obtenga más información sobre [limpieza automática de campañas de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desactivar activó las campañas inteligentes que ya no obtienen ninguna actividad. Más información sobre  [limpieza de campaña de déclencheur automático](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
-linkedIn
+LinkedIn
 
 Cuando Marketo no puede crear una nueva audiencia, iniciar sesión o enviar correos electrónicos a LinkedIn después de tres intentos.
 
