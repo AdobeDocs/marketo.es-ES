@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7513141
-description: Navegación por la Página de inicio de Analytics - Documentos de marketing - Documentación del producto
-title: Navegación por la Página de inicio de Analytics
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+description: 'Navegación por la página principal de Analytics: Documentos de Marketo: Documentación del producto'
+title: Navegación por la página principal de Analytics
+exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Navegación por la página principal de Analytics {#navigating-the-analytics-home-page}
 
-# Navegación por la Página de inicio de Analytics {#navigating-the-analytics-home-page}
-
-1. Vaya al área **Analytics**.
+1. Vaya a la **Analytics** .
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
@@ -21,11 +20,11 @@ ht-degree: 0%
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. Una vez que haya ejecutado el informe, haga clic en el espacio de trabajo para volver a la **página principal de Analytics**.
+1. Una vez que haya ejecutado el informe, haga clic en el espacio de trabajo para volver al **Página de inicio de Analytics**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
-   ¡bueno! Ya sabe cómo navegar por la página principal de Analytics.
+   ¡Excelente! Ya sabe cómo navegar por la página de inicio de Analytics.
 
 >[!MORELIKETHIS]
 >
