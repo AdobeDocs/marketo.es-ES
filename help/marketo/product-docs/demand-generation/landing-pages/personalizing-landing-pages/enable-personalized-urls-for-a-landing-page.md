@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359803
-description: Habilitar direcciones URL personalizadas para una Página de aterrizaje - Documentos de marketing - Documentación del producto
-title: Habilitar direcciones URL personalizadas para una Página de aterrizaje
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Habilitar direcciones URL personalizadas para una página de aterrizaje: documentos de Marketo: documentación del producto'
+title: Habilitar direcciones URL personalizadas para una página de aterrizaje
+exl-id: d87486f6-da49-406e-b1cf-781caba596c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Habilitar direcciones URL personalizadas para una página de aterrizaje {#enable-personalized-urls-for-a-landing-page}
 
-# Habilitar direcciones URL personalizadas para una Página de aterrizaje {#enable-personalized-urls-for-a-landing-page}
-
-Las direcciones URL personalizadas son buenas para campañas de correo de impresión.
+Las direcciones URL personalizadas son buenas para las campañas de impresión de correo.
 
 >[!PREREQUISITES]
 >
@@ -23,8 +22,8 @@ Las direcciones URL personalizadas son buenas para campañas de correo de impres
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Ahora puede comprobar **Habilitar direcciones URL personalizadas** y hacer clic en **Guardar**.
+1. Ahora puede comprobar **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-¡bueno! Ahora ha habilitado las direcciones URL personalizadas para su página de aterrizaje. Se reconocerán los visitantes que utilicen esa dirección URL y los tokens funcionarán correctamente.
+¡Excelente! Ahora ha habilitado las direcciones URL personalizadas para su página de aterrizaje. Se reconocerán los visitantes que utilicen esa dirección URL y los tokens funcionarán correctamente.
