@@ -1,13 +1,12 @@
 ---
 unique-page-id: 10092969
 description: Filtro de sincronización de Microsoft Dynamics - Combinar - Documentos de Marketo - Documentación del producto
-title: Filtro de sincronización de Microsoft Dynamics - Combinar
+title: 'Filtro de sincronización de Microsoft Dynamics: combinar'
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -22,6 +21,6 @@ Es cuando un registro es verdadero y uno es falso que se vuelve complicado.
 | Si el filtro de sincronización para el registro perdedor es: | y el filtro de sincronización para el registro ganador es: | Este es el resultado de Marketo |
 |---|---|---|
 | True | True | El registro ganador continúa sincronizándose con Marketo |
-| False | False | El registro ganador sigue **no** sincronizándose con Marketo |
+| False | False | El registro ganador continúa **not** sincronizar con Marketo |
 | False | True | El registro ganador se sincronizará con Marketo |
 | True | False | El registro ganador no se sincronizará con Marketo |
