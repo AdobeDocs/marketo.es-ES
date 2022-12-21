@@ -1,23 +1,22 @@
 ---
 unique-page-id: 1147023
 description: 'Llamada a Weblock: Documentos de Marketo: Documentación del producto'
-title: Llamar a Weblock
+title: Llamar a un Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Llamar a Weblock {#call-webhook}
+# Llamar a un Webhook {#call-webhook}
 
 >[!PREREQUISITES]
 >
 >[Creación de un vínculo web](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Los Webhooks le permiten interactuar con servicios de terceros. Envíe/reciba información llamando a un enlace web en un flujo de campaña inteligente.
 
@@ -25,11 +24,11 @@ Los Webhooks le permiten interactuar con servicios de terceros. Envíe/reciba in
 
 >[!NOTE]
 >
->Conozca las muchas cosas fascinantes que [Webhooks](https://developers.marketo.com/documentation/webhooks/) puede hacer por usted.
+>Aprenda sobre las muchas cosas fascinantes que [Enlaces web](https://developers.marketo.com/documentation/webhooks/) puede hacer por usted.
 
 ## Uso {#usage}
 
-Seleccione un **Weblock** en la lista desplegable.
+Seleccione un **Weblock** en la lista desplegable .
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
