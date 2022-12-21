@@ -1,23 +1,22 @@
 ---
 unique-page-id: 17727818
-description: Uso de personas - Marketo Docs - Documentación del producto
+description: 'Uso de personas: Marketo Docs: documentación del producto'
 title: Uso de personas
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
 # Uso de personas {#using-personas}
 
 Las personas son una buena manera de segmentar su audiencia y mercado ABM a un subconjunto específico de personas.
 
-## Añadir una personalización {#add-a-persona}
+## Añadir una persona {#add-a-persona}
 
-1. En Mi Marketo, haga clic en **Admin**.
+1. En Mi Marketo, haga clic en **Administrador**.
 
    ![](assets/one.png)
 
@@ -33,17 +32,17 @@ Las personas son una buena manera de segmentar su audiencia y mercado ABM a un s
    >
    >El personaje Puesto de trabajo se incluye de forma predeterminada. No se puede modificar ni eliminar.
 
-1. Para agregar otras personas, haga clic en **+Agregar**.
+1. Para agregar otras personas, haga clic en **+Añadir**.
 
    ![](assets/four.png)
 
-1. Asigne un nombre a la persona y seleccione el campo correspondiente en la lista desplegable. Se pueden agregar hasta dos personalidades adicionales. Haga clic en **Guardar** cuando termine.
+1. Asigne un nombre a la persona y seleccione el campo correspondiente en la lista desplegable. Se pueden agregar hasta dos personalidades adicionales. Haga clic en **Guardar** cuando haya terminado.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Solo los campos personalizados de Salesforce de tipo &quot;lista de selección&quot; que se hayan sincronizado con la instancia de Marketo están disponibles en la lista desplegable de campos de persona al crear una personalidad.
+   >Solo los campos personalizados de Salesforce de tipo &quot;lista de selección&quot; que se hayan sincronizado con su instancia de Marketo están disponibles en la lista desplegable de campos de personalidad al crear una personalidad.
 
 ## Ver las personas {#view-your-personas}
 
@@ -53,7 +52,7 @@ Para ver las personas, visite una cuenta específica con nombre.
 
    ![](assets/one-a.png)
 
-1. Haga clic en la pestaña **Personas**.
+1. Haga clic en el **Personas** pestaña .
 
    ![](assets/two-a.png)
 
