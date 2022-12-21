@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Plantilla 2B {#template-2b}
 
-Haga clic con el botón derecho para [descargar plantilla 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Haga clic con el botón derecho para [Descargar plantilla 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
