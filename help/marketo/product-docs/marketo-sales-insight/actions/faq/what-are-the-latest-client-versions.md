@@ -17,11 +17,11 @@ A continuación se muestran las versiones más recientes para todos los clientes
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Chrome</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Windows de Outlook</strong></td> 
