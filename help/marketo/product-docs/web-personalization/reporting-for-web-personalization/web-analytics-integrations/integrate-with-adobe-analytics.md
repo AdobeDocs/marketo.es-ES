@@ -1,133 +1,131 @@
 ---
 unique-page-id: 2949160
-description: 'Integración con Adobe Analytics: documentos de marketing: documentación del producto'
+description: 'Integración con Adobe Analytics: Marketo Docs: Documentación del producto'
 title: Integración con Adobe Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
 
 ---
 
-
 # Integración con Adobe Analytics {#integrate-with-adobe-analytics}
 
-## Intro {#intro}
+## Introducción {#intro}
 
-Analice el análisis de Web desde una perspectiva B2B mediante la visualización de datos de campaña de la organización, el sector y la personalización en tiempo real (RTP) de Marketing en su cuenta de Adobe Analytics.
+Analice el análisis web desde una perspectiva B2B mediante la visualización de datos de campaña de personalización en tiempo real (RTP) de la organización, el sector y Marketo en su cuenta de Adobe Analytics.
 
-Este documento permite la integración entre la Personalización en tiempo real (RTP) de Marketing y Adobe Analytics de Adobe. Los datos de RTP le permitirán detectar y analizar las tendencias en todos los segmentos y organizaciones del sector que visiten su sitio y medir la eficacia de sus campañas RTP, proporcionando las perspectivas y la análisis para obtener resultados óptimos.
+Este documento permite la integración entre Marketo Real-Time Personalization (RTP) y Adobe Adobe Analytics. Los datos de RTP le permitirán detectar y analizar las tendencias en todos los segmentos y organizaciones del sector que visiten su sitio y medir la eficacia de sus campañas de RTP, proporcionando perspectivas y análisis para obtener resultados óptimos.
 
-Para lograrlo, observe las métricas, tales como los números de visitantes nuevos frente a los que regresan en cada segmento, analice las tasas de clics en las campañas y descubra qué industrias y segmentos personalizados y campañas en tiempo real generaron los mejores clientes potenciales de conversión. Aproveche esta capacidad para obtener el máximo beneficio de su cuenta RTP.
+Para lograrlo, fíjese en métricas como el número de visitantes nuevos frente a los que regresan en cada segmento, analice las tasas de clics en las campañas y descubra qué industrias, segmentos personalizados y campañas en tiempo real generaron los mejores posibles clientes de conversión. Aproveche esta capacidad para obtener el máximo beneficio de su cuenta RTP.
 
 ## Audience Analytics RTP {#rtp-audience-analytics}
 
-Con la integración RTP - AA, tiene una nueva dimensión en la interfaz de análisis web. RTP mejora automáticamente sus paneles de análisis web con:
+Con la integración RTP - AA, tiene una nueva dimensión dentro de la interfaz de análisis web. RTP mejora automáticamente sus paneles de análisis web con:
 
 1. Datos de organización e industria
 1. Segmentos RTP personalizados
-1. Listas de cuenta con nombre (mercadotecnia basada en cuenta)
+1. Listas de cuentas con nombre (Account-Based Marketing)
 
-Esto mejora los datos B2B y le permite centrarse en visitantes relevantes optimizando:
+Esto mejora los datos B2B y le permite centrarse en los visitantes relevantes optimizando:
 
-1. Canales salientes
+1. Canales de salida
 1. Contenido
-1. Retargeting
+1. Redireccionamiento
 
-## Informe canal {#channel-report}
+## Informe de canal {#channel-report}
 
 ![](assets/image2014-11-29-12-3a0-3a26.png)
 
-El panel RTP le ayuda a comprender el desglose de sus visitantes según los segmentos verticales y RTP. Puede ver el rendimiento del visitante según la industria y las diferentes campañas de marketing (pagas, orgánicas, sociales) relacionadas con esa industria. El panel también proporciona información general de alto nivel sobre las secciones del sitio que ven sus visitantes según el tipo de sector.
+El tablero RTP le ayuda a comprender el desglose de sus visitantes según los segmentos verticales y RTP. Puede ver el rendimiento del visitante según el sector y las diferentes campañas de marketing (de pago, orgánicas y sociales) relacionadas con ese sector. El tablero también proporciona información general de alto nivel sobre las secciones del sitio que ven los visitantes según el tipo de sector.
 
 ## Informe de comportamiento {#behavioral-report}
 
-En Adobe Analytics se pueden crear diferentes informes de comportamiento basados en datos de segmentos de organización, industria y RTP. Estos informes de flujo visualizan los visitantes de ruta que se toman de una página o Evento al siguiente. Este informe puede ayudarle a descubrir qué contenido mantiene a los visitantes comprometidos con el sitio.
+En Adobe Analytics se pueden crear distintos informes de comportamiento basados en datos de segmentos de organización, industria y RTP. Estos informes de flujo visualizan la ruta que los visitantes siguen de una página o evento a otra. Este informe puede ayudarle a descubrir qué contenido mantiene a los visitantes involucrados con el sitio.
 
 ## Rendimiento de RTP {#rtp-performance}
 
-Impresiones y conversiones de campaña RTP de vista en Vínculos personalizados en Adobe Analytics.
+Vea impresiones y conversiones de campaña RTP en Vínculos personalizados en Adobe Analytics.
 
-Este informe de vínculos personalizados mostrará las impresiones y conversiones de campañas con el siguiente formato de nomenclatura:
+Este informe Vínculo personalizado mostrará impresiones y conversiones de campañas con el siguiente formato de asignación de nombres:
 
-* ISegmento de impresión: [Nombre del segmento RTP], campaña IC: [Nombre de Campaña RTP]
-* ISegmento de conversión: [Nombre del segmento RTP], campaña IC: [Nombre de Campaña RTP]
+* ISegment de impresión: [Nombre de segmento RTP], ICampaign: [Nombre de campaña de RTP]
+* ISegment de conversión: [Nombre de segmento RTP], ICampaign: [Nombre de campaña de RTP]
 
 ![](assets/custom-links-report.png)
 
-## Configurar en Adobe Analytics {#set-up-in-adobe-analytics}
+## Configuración en Adobe Analytics {#set-up-in-adobe-analytics}
 
-La integración utiliza la API de JavaScript que Adobe Analytics oferta. En la integración se utilizan variables de conversión personalizadas (eVar), eventos personalizados (evento) y variables de tráfico. Todos deben habilitarse desde el administrador de AA. Debe configurar las variables de conversión, los eventos personalizados y las variables de tráfico en AA o no podrá ver los datos en el grupo aunque los haya habilitado en RTP.
+La integración utiliza la API de JavaScript que ofrece Adobe Analytics. En la integración se usan variables de conversión personalizadas (eVar), eventos personalizados (evento) y variables de tráfico. Todos deben habilitarse desde un administrador AA. Debe configurar las variables de conversión, los eventos personalizados y las variables de tráfico en AA o no podrá ver los datos en el grupo aunque los haya activado en RTP.
 
 Complete los siguientes pasos para configurar estas variables en AA:
 
-1. Vaya a **Herramientas de administración** en su cuenta de AA.
-1. Seleccione el **grupo de informes** que se utilizará con la integración.
+1. Vaya a **Herramientas de administración** en su cuenta AA.
+1. Seleccione el **Grupo de informes** para usar con la integración.
 1. En **Editar configuración**, vaya a **Conversión** y seleccione **[Variables de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Seleccione el número [Variable de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (se recomienda):
+   Seleccione el [Variable de conversión](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) número (se recomienda):
 
-   1. Evar Nº 20 para conversiones personalizadas de la industria
-   1. Evar Nº 21 para conversiones personalizadas de la organización
+   1. Evar # 20 para conversiones personalizadas del sector
+   1. Evar n.º 21 para conversiones personalizadas de organización
 
    >[!NOTE]
    >
-   >Si se toman estos #, seleccione otro número disponible. Alinee este número con el número de ranura en Configuración de cuenta RTP.
+   >Si estos # se toman, seleccione otro número disponible. Alinee este número con el número de ranura en Configuración de cuenta RTP.
 
    1. Cambiar estado a _Habilitado_.
 
-      1. Cambie el nombre a **Industria** y **Organización**. (Así es como aparecerá en el grupo de informes).
+      1. Cambiar nombre a **Industria** y **Organización**. (Así es como aparecerá en el grupo de informes).
 
-      1. Cambie el campo Caduca después de a **Visita**.
+      1. Cambiar el campo Caduca después de a **Visita**.
 
 
-1. En **Editar configuración**, vaya a **Conversión** y seleccione **[Eventos de éxito](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. En **Editar configuración** vaya a **Conversión** y seleccione **[Eventos de éxito](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
-   1. Seleccione el número de Evento de Eventos de éxito personalizados (se recomienda):
+   1. Seleccione el número de Evento de éxito personalizado (se recomienda):
 
-      1. evento20 para Campañas RTP
-      1. evento21 para segmentos RTP
+      1. event20 para campañas RTP
+      1. event21 para segmentos RTP
 
       >[!NOTE]
       >
-      >Si se toman estos #, seleccione otro número disponible. Alinee este número con el número de ranura en Configuración de cuenta RTP.
+      >Si estos # se toman, seleccione otro número disponible. Alinee este número con el número de ranura en Configuración de cuenta RTP.
 
-      1. Cambie los nombres de los dos eventos a **Campañas RTP** y **Segmentos RTP**. Es el nombre que aparecerá en el grupo de informes.
-   1. Seleccione el campo Tipo para que sea **Contador (sin subrelaciones)**
+      1. Cambie los nombres de los dos eventos a **Campañas RTP** y **Segmentos RTP**. Este es el nombre que aparecerá en el grupo de informes.
+   1. Seleccione el campo Type que desea **Contador (sin subrelaciones)**
 
 
 
-1. En **Editar configuración**, vaya a **[Tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** y seleccione **[Variables de tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. En **Editar configuración** vaya a **[Tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** y seleccione **[Variables de tráfico](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Seleccione el número de propiedad de la variable de tráfico (se recomienda):
 
-      1. Propiedad Nº 20 - Nombre: Organización de segmentos RTP
-      1. Propiedad Nº 21 - Nombre: Industria de segmentos RTP
-      1. Propiedad Nº 25 - Nombre: Organización de campaña
-      1. Propiedad Nº 26 - Nombre: Industria de Campaña RTP
+      1. Propiedad # 20 - Nombre: Organización de segmentos RTP
+      1. Propiedad nº 21 - Nombre: Industria de segmentos RTP
+      1. Propiedad nº 25 - Nombre: Organización de campañas
+      1. Propiedad nº 26 - Nombre: Industria de campaña RTP
 
       >[!NOTE]
       >
-      >Si se toman estos #, seleccione otro número disponible. Alinee este número con el número de ranura en Configuración de cuenta RTP)
+      >Si estos # se toman, seleccione otro número disponible. Alinee este número con el número de ranura en Configuración de cuenta RTP)
 
-      1. Cambie los nombres de las propiedades 4. Es el nombre que aparecerá en el grupo de informes.
-   1. Seleccione el campo Habilitado para **Habilitado**.
+      1. Cambie los 4 nombres de propiedad. Este es el nombre que aparecerá en el grupo de informes.
+   1. Seleccione Enabled field para **Habilitado**.
 
    1. Seleccione el campo Informes de ruta para **Habilitado**.
 
 
 
+## Configuración en Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-## Configurar en Personalización en tiempo real (RTP) de Marketing a {#set-up-in-marketo-real-time-personalization-rtp}
-
-1. En la plataforma RTP, vaya a **Configuración de cuenta**.
+1. En la plataforma RTP, vaya a **Configuración de la cuenta**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. En **Configuración de cuenta**, haga clic en **Dominio**.
+1. En **Configuración de la cuenta**, haga clic en **Dominio**.
 1. En **Analytics, haga clic en** **Adobe Analytics**.
-1. Active **On** las variables Conversión, Personalizado y Tráfico.
-1. Asigne las variables de conversión, Evento y tráfico **números de ranura** para que coincidan con los números de ranura creados en AA
+1. Turn **Activado** las variables Conversión, Personalizado y Tráfico alternan.
+1. Asignar las variables de conversión, evento y tráfico **números de ranura** para coincidir con los números de ranura creados en AA
 1. Haga clic en **Guardar**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
@@ -138,43 +136,37 @@ Complete los siguientes pasos para configurar estas variables en AA:
 >
 >**Variables de conversión**
 >
->* Conversiones personalizadas de la industria - Ranura 20
->* Conversiones personalizadas de la organización - Ranura 21
-
+>* Conversiones personalizadas del sector: ranura 20
+>* Conversiones personalizadas de organización - Ranura 21
 >
->
-**Eventos personalizados**
+>**Eventos personalizados**
 >
 >* Evento personalizado de campaña - Ranura 20
->* Evento personalizado del segmento - Ranura 21
-
+>* Evento personalizado de segmento - Ranura 21
 >
->
-**Variables de tráfico**
+>**Variables de tráfico**
 >
 >* Variable de tráfico de la organización de segmentos - Ranura 20
->* Variable de tráfico del sector de segmentos - Ranura 21
->* Variable de tráfico de la organización de campaña - Ranura 22
->* Variable de tráfico del sector de campaña - Ranura 23
-
+>* Variable de tráfico del sector de segmentos: ranura 21
+>* Variable de tráfico de la organización de la campaña - Ranura 22
+>* Variable de tráfico del sector de la campaña - Ranura 23
 >
->
-**Asegúrese de que estos números de ranura se alinean con los números de variables y eventos creados en AA.**
+>**Asegúrese de que estos números de ranura coinciden con los números de variables y eventos creados en AA.**
 
 ## Informes {#reports}
 
-Cree informes mejorados de SiteAdobe Analytics en función de los nombres de la organización, las industrias y los segmentos de RTP y los datos de campañas en tiempo real.
+Cree informes mejorados de SiteAdobe Analytics según los nombres de organización, industrias y segmentos RTP, así como datos de campañas en tiempo real.
 
-Algunos ejemplos de informes y paneles personalizados de AA son:
+Algunos ejemplos de informes y tableros personalizados de AA son:
 
-* Rendimiento por sector o segmento definido (listas con nombre basadas en cuenta)
-* Desglose por sector por rendimiento KPI
+* Rendimiento por sector o segmento definido (listas con nombres basados en cuentas)
+* Desglose por sector por rendimiento de KPI
 * Páginas vistas por organización
-* Rendimiento del canal de mercadotecnia según la organización, el sector y los segmentos
+* Rendimiento del canal de marketing según organización, sector, segmentos
 
 **-Ejemplos de informes-**
 
-**Informe de industrias principales**
+**Informe de principales sectores**
 
 ![](assets/top-industries-report.png)
 
@@ -182,57 +174,57 @@ Algunos ejemplos de informes y paneles personalizados de AA son:
 
 ![](assets/image2014-11-29-12-3a29-3a42.png)
 
-**Creación del Panel RTP**
+**Creación del panel RTP**
 
-Cree un [nuevo panel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), denominado **Panel RTP**. Este panel le ayudará a comprender el desglose de sus visitantes según los segmentos verticales y RTP.
+Cree un [nuevo panel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), llamado **Tablero RTP**. Este tablero le ayudará a comprender el desglose de sus visitantes según los segmentos verticales y RTP.
 
-1. Haga clic en **Panel,** haga clic en **Añadir Panel**.
+1. Haga clic en **Tablero,** click **Agregar tablero**.
 
-1. Asigne un nombre al Panel **Panel RTP**.
+1. Asigne un nombre al tablero **Tablero RTP**.
 
-1. Seleccione el **tamaño de panel** 3 x 2, 2 x 2.
+1. Seleccione el **tamaño del tablero** 3 x 2, 2 x 2.
 
-1. Cree el [informe breve](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) y agregue [contenido al panel](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Cree la variable [informe breve](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) y agregue [contenido al tablero](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
-Añadir el informe breve de industrias al Panel
+Adición del informe breve de industrias al tablero
 
 1. Vaya a **Conversiones personalizadas**, haga clic en **Industria**.
 
-1. Configure Graph en **Gráfico circular**.
+1. Configurar gráfico para **Gráfico circular**.
 
-1. Haga clic en **Panel**, agregue **informe breve**.
+1. Haga clic en **Panel**, agregue **Informe breve**.
 
-1. Asigne un nombre al informe **Principales industrias**.
+1. Asigne un nombre al informe **Principales sectores**.
 
-1. Colocar en Panel **Panel RTP**.
+1. Colocar en el panel **Tablero RTP**.
 
 1. Crear **Nuevo**.
 
-Añadir el informe breve Segmentos al Panel
+Adición del informe breve Segmentos al tablero
 
 1. Vaya a **Métricas del sitio**. Haga clic en **Eventos personalizados**, **Segmentos**.
 
-1. Configure Graph en **Barras verticales**.
+1. Configurar gráfico para **Barra vertical**.
 
-1. Haga clic en **Panel**, agregue **informe breve**.
+1. Haga clic en **Panel**, agregue **Informe breve**.
 
 1. Asigne un nombre al informe **Segmentos principales**.
 
-1. Colocar en Panel **Panel RTP**.
+1. Colocar en el panel **Tablero RTP**.
 
 1. Crear **Nuevo**.
 
-Los informes breves se mostrarán en el panel.
+Los informes breves se mostrarán en el tablero.
 
-## Clics e impresiones de vista (conversiones) en Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
+## Ver impresiones y clics (conversiones) en Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
 1. Haga clic en **Vínculos personalizados**.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Busque impresiones en los nombres de segmentos de vista y Campañas que representen el número de impresiones de la campaña.\
+1. Busque Impresiones para ver los nombres de Segmento y Campaña que representan el número de impresiones de la campaña.\
    ![](assets/sitecatalyst1.png)
 
-1. Busque los nombres de segmentos de vista y Campañas que representan el número de clics de la campaña.
+1. Busque Conversión para ver los nombres de segmentos y campañas que representan el número de clics de la campaña.
 
    ![](assets/sitecatalyst2.png)
