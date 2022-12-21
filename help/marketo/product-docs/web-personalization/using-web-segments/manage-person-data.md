@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7504051
-description: Administrar datos personales - Documentos de marketing - Documentación del producto
-title: Administrar datos de persona
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: 'Administrar datos de persona: documentos de Marketo: documentación del producto'
+title: Administrar datos de personas
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
+# Administrar datos de personas {#manage-person-data}
 
-# Administrar datos de persona {#manage-person-data}
-
-Aproveche los datos de persona para la personalización web seleccionando los campos de persona que se utilizarán en la segmentación.
+Aproveche los datos de persona para la personalización web seleccionando campos de persona para utilizarlos en la segmentación.
 
 1. Vaya a **Configuración de la cuenta**.
 
@@ -23,29 +22,29 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## Añadir un campo Persona nueva {#adding-a-new-person-field}
+## Adición de un nuevo campo de persona {#adding-a-new-person-field}
 
-1. Seleccione **Campo para agregar** en la lista desplegable para agregar un campo de datos de persona a la lista.
+1. Select **Campo para agregar** en la lista desplegable para añadir un campo de datos de persona a la lista.
 
    ![](assets/add-a-person-field-hand.jpg)
 
    >[!NOTE]
    >
-   >Un nuevo campo se agrega en un estado pendiente y puede tardar hasta 24 horas en activarse.
+   >Se añade un nuevo campo en estado pendiente y puede tardar hasta 24 horas en activarse.
 
 ## Eliminación de un campo de persona {#deleting-a-person-field}
 
-1. Haga clic en el icono Eliminar ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para eliminar un campo de la lista. Haga clic en **Sí** para confirmar que desea eliminar el campo.
+1. Haga clic en el icono Eliminar ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) para quitar un campo de la lista. Haga clic en **Sí** para confirmar que desea eliminar el campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**Administración de los campos Datos de persona**
+   >**Administración de los campos de datos de persona**
    >
-   >* Sólo se pueden incluir los campos de datos personales
+   >* Solo se pueden incluir los campos de datos de persona
    >* Puede agregar hasta 30 campos de datos de persona
-   >* Añadir campos nuevos puede tardar hasta 24 horas en activarse
+   >* La adición de nuevos campos puede tardar hasta 24 horas en activarse
    >* La longitud máxima de los tipos de cadena es de 255 caracteres
    >* Los campos ocultos se eliminarán automáticamente
 
@@ -53,9 +52,9 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
 <table> 
  <tbody> 
   <tr> 
-   <th><p>Nombre de API de REST</p></th> 
+   <th><p>Nombre de la API de REST</p></th> 
    <th><p>Nombre de API SOAP</p></th> 
-   <th><p>Nombre práctico</p></th> 
+   <th><p>Nombre descriptivo</p></th> 
   </tr> 
   <tr> 
    <td><p>departamento</p></td> 
@@ -65,12 +64,12 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
   <tr> 
    <td><p>title</p></td> 
    <td><p>Título</p></td> 
-   <td><p>Puesto de trabajo</p></td> 
+   <td><p>Cargo</p></td> 
   </tr> 
   <tr> 
    <td><p>clasificación</p></td> 
-   <td><p>Clasificación</p></td> 
-   <td><p>Clasificación</p></td> 
+   <td><p>Calificación</p></td> 
+   <td><p>Calificación</p></td> 
   </tr> 
   <tr> 
    <td><p>leadScore</p></td> 
@@ -89,19 +88,19 @@ Aproveche los datos de persona para la personalización web seleccionando los ca
   </tr> 
   <tr> 
    <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Función</p></td> 
+   <td><p>Función de posible cliente</p></td> 
+   <td><p>Rol</p></td> 
   </tr> 
   <tr> 
-   <td><p>sin suscripción</p></td> 
-   <td><p>No suscrito</p></td> 
-   <td><p>No suscrito</p></td> 
+   <td><p>cancelar suscripción</p></td> 
+   <td><p>Suscripción cancelada</p></td> 
+   <td><p>Suscripción cancelada</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-Los siguientes campos de posibles clientes se proporcionan de forma predeterminada para las nuevas cuentas de Personalización web:
+Los siguientes campos de posibles clientes se proporcionan predeterminados para las nuevas cuentas de Personalización web:
 
 >[!MORELIKETHIS]
 >
->[Crear un segmento con datos de persona conocidos](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Crear un segmento utilizando datos de personas conocidas](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
