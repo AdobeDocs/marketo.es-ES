@@ -3,7 +3,6 @@ unique-page-id: 8781911
 description: 'Información sobre las tarjetas de programa de correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Información sobre las tarjetas de programa de correo electrónico
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Información sobre las tarjetas de programa de correo electrónico {#understanding-email-program-cards}
 
-Utilice Marketo Moments para ver sus programas de correo electrónico desde su teléfono o iPad.
+Utilice Moments de Marketo para ver sus programas de correo electrónico desde su teléfono o iPad.
 
 ## Tarjetas de programa de correo electrónico {#email-program-cards}
 
@@ -41,7 +40,7 @@ Una vez enviado el correo electrónico, la tarjeta muestra otra información val
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Toque **Confirm** para finalizar el trabajo, o **Never Mind** si tuvo dudas.
+1. Toque **Confirmar** para finalizar el trabajo, o **No importa** si tuvieras un segundo pensamiento.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -93,7 +92,7 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Introduzca una dirección de correo electrónico y haga clic en **Send Sample**.
+1. Introduzca una dirección de correo electrónico y haga clic en **Enviar muestra**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -101,7 +100,7 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
 Haga clic con el botón derecho en una tarjeta de correo electrónico para previsualizarla.
 
-1. Pulse **Vista previa del correo electrónico**.
+1. Toque **Vista previa del correo electrónico**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
