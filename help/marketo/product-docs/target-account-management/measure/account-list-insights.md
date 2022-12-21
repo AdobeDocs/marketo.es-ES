@@ -2,16 +2,15 @@
 unique-page-id: 11380787
 description: Información sobre la lista de cuentas - Documentos de Marketo - Documentación del producto
 title: Información de la lista de cuentas
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Información sobre la lista de cuentas {#account-list-insights}
+# Información de la lista de cuentas {#account-list-insights}
 
 El panel Lista de cuentas ofrece una vista de las perspectivas agregadas de todas las cuentas con nombre dentro de esa lista.
 
@@ -32,7 +31,7 @@ Para ver el panel de una lista de cuentas, simplemente haga clic en su nombre...
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Canalización</strong></td> 
+   <td colspan="1"><strong>En preparación</strong></td> 
    <td colspan="1">Consulte la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo cada semana, tomamos la canalización el último día.</td> 
   </tr> 
   <tr> 
@@ -44,16 +43,16 @@ Para ver el panel de una lista de cuentas, simplemente haga clic en su nombre...
 
 ## Pestaña Cuentas con nombre {#named-accounts-tab}
 
-Haga clic en la pestaña **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
+Haga clic en el **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Puede quitar una cuenta con nombre en esta ficha seleccionándola y haciendo clic en **Quitar cuentas con nombre**.
+>Puede quitar una cuenta con nombre en esta pestaña seleccionándola y haciendo clic en **Eliminar cuentas con nombre**.
 
 ## Utilizado por la pestaña {#used-by-tab}
 
-Haga clic en la pestaña **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
+Haga clic en el **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
 
 ![](assets/four-2.png)
