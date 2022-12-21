@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359880
-description: Organizar sus imágenes y archivos con carpetas - Documentos de marketing - Documentación del producto
-title: Organizar sus imágenes y archivos con carpetas
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Organizar sus imágenes y archivos mediante carpetas - Documentos de Marketo - Documentación del producto
+title: Organizar las imágenes y los archivos mediante carpetas
+exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
+# Organizar las imágenes y los archivos mediante carpetas {#organize-your-images-and-files-using-folders}
 
-# Organizar sus imágenes y archivos con carpetas {#organize-your-images-and-files-using-folders}
+La creación de carpetas permite mover imágenes y archivos, ver solo el conjunto de imágenes que desea y cargar directamente a una carpeta específica.
 
-La creación de carpetas le permite mover imágenes y archivos, ver el conjunto de imágenes que desea y cargar directamente en una carpeta específica.
-
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Haga clic con el botón derecho en **Imágenes y archivos** en el menú de la izquierda y, a continuación, seleccione **Nueva carpeta**.
+1. Haga clic con el botón derecho en **Imágenes y archivos** en el menú de la izquierda, seleccione **Nueva carpeta**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
-1. Una vez que aparezca la nueva carpeta, asígnele un nombre.
+1. Cuando aparezca la nueva carpeta, asígnele un nombre.
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
@@ -31,7 +30,7 @@ La creación de carpetas le permite mover imágenes y archivos, ver el conjunto 
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
-¡Los cinco mejores! Todos están configurados para la utopía de carpetas.
+¡Los cinco! Todos están configurados para la utopía de carpeta.
 
 >[!MORELIKETHIS]
 >
