@@ -1,17 +1,16 @@
 ---
 unique-page-id: 1147084
 description: Eliminación de Flujo - Documentos de Marketo - Documentación del producto
-title: Eliminar del flujo
+title: Quitar de Flujo
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Quitar del flujo {#remove-from-flow}
+# Quitar de Flujo {#remove-from-flow}
 
 Imagine que tiene un flujo de campaña inteligente que utiliza &quot;Enviar alerta&quot; para recordar a un representante de ventas que debe llamar a un cliente potencial. Envía un mensaje todos los días hasta que el representante realiza la llamada. Puede utilizar &quot;Eliminar del flujo&quot; en una campaña de déclencheur una vez que el cliente potencial haya sido contactado para detener más alertas. Es como un asiento de eyector de campaña inteligente para una persona.
 
@@ -19,9 +18,9 @@ Imagine que tiene un flujo de campaña inteligente que utiliza &quot;Enviar aler
 >
 >Normalmente, esto afectaría a las personas que están sentadas en el paso de espera de un flujo de campaña.
 
-## Información general {#overview}
+## Resumen {#overview}
 
-Puede eliminar personas del flujo de una campaña utilizando el paso de flujo **Eliminar del flujo**.
+Puede eliminar personas del flujo de una campaña utilizando la variable **Eliminar del flujo** paso de flujo.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +32,7 @@ Busque y seleccione la campaña inteligente de la que desea eliminar a las perso
 
 >[!NOTE]
 >
->Puede elegir una campaña inteligente específica o elegir &quot;esta campaña&quot; en la lista desplegable **Campaña** para seleccionar la campaña en la que se encuentra físicamente en ese momento.
+>Puede elegir una campaña inteligente específica o elegir &quot;esta campaña&quot; en la **Campaign** para seleccionar la campaña en la que se encuentra físicamente en ese momento.
 
 >[!NOTE]
 >
