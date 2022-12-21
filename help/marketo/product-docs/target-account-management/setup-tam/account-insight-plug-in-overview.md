@@ -20,7 +20,7 @@ Account Insight es un complemento de Chrome que muestra datos de cuentas y TAM p
 
 >[!CAUTION]
 >
->El complemento Perspectiva de la cuenta no funcionará en suscripciones que tengan [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) habilitado (inicio de sesión único).
+>El complemento Perspectiva de la cuenta no funcionará en las suscripciones que tengan [Solo SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (inicio de sesión único) habilitado.
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ La fuente de actividad muestra la actividad reciente, que se remonta a siete dí
 
 ![](assets/af1.png)
 
-Haga clic en la lista desplegable **Filter** para filtrar por diferentes tipos de actividades.
+Haga clic en el **Filtro** para filtrar por distintos tipos de actividades.
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ Se puede hacer clic en varios artículos. Haga clic en la cuenta con nombre para
 ¡Muy bien!
 
 >[!MORELIKETHIS]
-[Configurar la perspectiva de la cuenta](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[Configurar la perspectiva de la cuenta](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
