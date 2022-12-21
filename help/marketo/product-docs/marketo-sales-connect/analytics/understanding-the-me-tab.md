@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352614
-description: Explicación de la ficha Me - Documentos de marketing - Documentación del producto
+description: Información sobre la pestaña Me - Marketo Docs - Documentación del producto
 title: Explicación de la ficha Me
-translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
 # Explicación de la ficha Me {#understanding-the-me-tab}
 
-En la ficha Me, se muestra el número de correos electrónicos enviados, así como cuántos correos electrónicos se han enviado con una plantilla con la actividad de correo electrónico.
+En la pestaña Me , se muestra el número de correos electrónicos enviados, así como cuántos correos electrónicos se han enviado utilizando una plantilla con la actividad de correo electrónico.
 
-También le mostramos la lista de quién ha estado gastando más tiempo tratando de interactuar con usted, y una lista de sus correos electrónicos más atractivos ordenados por el número total de eventos seguidos (vistas/clics/respuestas). ¿Tiene un correo electrónico único con un compromiso realmente alto? ¡Hazlo una plantilla!
+También le mostramos la lista de los que han pasado más tiempo intentando interactuar con usted, y una lista de los correos electrónicos más atractivos ordenados por el número total de eventos rastreados (vistas/clics/respuestas). ¿Tiene un correo electrónico único con una participación realmente alta? ¡Hágalo una plantilla!
