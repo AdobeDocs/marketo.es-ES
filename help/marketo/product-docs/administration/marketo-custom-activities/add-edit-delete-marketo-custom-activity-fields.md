@@ -3,7 +3,6 @@ unique-page-id: 10100275
 description: Agregar, editar o eliminar campos de actividad personalizados de Marketo - Documentos de Marketo - Documentación del producto
 title: Agregar, editar o eliminar campos de actividad personalizados de Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
@@ -25,7 +24,7 @@ Es posible que tenga que agregar, cambiar o incluso deshacerse de un campo de ac
 
    ![](assets/two-3.png)
 
-1. Haga clic en **Nuevo campo**.
+1. Haga clic en **Campo nuevo**.
 
    ![](assets/three-3.png)
 
@@ -35,7 +34,7 @@ Es posible que tenga que agregar, cambiar o incluso deshacerse de un campo de ac
 
    >[!TIP]
    >
-   >¿No está seguro de qué seleccionar? ¡Te hemos cubierto! Todos los tipos de datos disponibles se definen en [este artículo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >¿No está seguro de qué seleccionar? ¡Te hemos cubierto! Todos los tipos de datos disponibles están definidos en [este artículo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Asigne un nombre al campo. El nombre de la API se rellena automáticamente. Cuando haya terminado, haga clic en **Guardar**.
 
@@ -53,7 +52,7 @@ Es posible que tenga que agregar, cambiar o incluso deshacerse de un campo de ac
 
    ![](assets/seven.png)
 
-1. Seleccione el campo que desea editar, haga clic en la lista desplegable **Field Actions** y seleccione **Edit Field**.
+1. Seleccione el campo que desee editar y haga clic en el botón **Acciones de campo** y seleccione **Editar campo**.
 
    ![](assets/eight.png)
 
@@ -89,7 +88,7 @@ El campo se ha editado.
 
    ![](assets/twelve.png)
 
-1. Seleccione el campo que desea eliminar, haga clic en la lista desplegable **Field Actions** y seleccione **Delete Field**.
+1. Seleccione el campo que desee eliminar y haga clic en el botón **Acciones de campo** y seleccione **Eliminar campo**.
 
    ![](assets/thirteen.png)
 
