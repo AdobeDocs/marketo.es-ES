@@ -5,8 +5,8 @@ title: Lista de comprobación de configuración
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
