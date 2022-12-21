@@ -1,24 +1,23 @@
 ---
 unique-page-id: 7512448
-description: Envío del código SDK a un desarrollador - Documentos de marketing - Documentación del producto
+description: Envío del código SDK a un desarrollador - Marketo Docs - Documentación del producto
 title: Envío del código SDK a un desarrollador
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
+# Envío del código SDK a un desarrollador {#send-sdk-code-to-a-developer}
 
-# Enviar código SDK a un desarrollador {#send-sdk-code-to-a-developer}
-
-Para poder crear mensajes en la aplicación o notificaciones push, el desarrollador debe configurar e inicializar el SDK de la aplicación móvil para las plataformas Android e iOS.
+Para poder crear mensajes en la aplicación o notificaciones push, debe configurar el desarrollador e inicializar el SDK de la aplicación móvil para las plataformas Android y iOS.
 
 * [Instrucciones para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [Instrucciones para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## Enviar código SDK a un desarrollador {#send-sdk-code-to-a-developer-1}
+## Envío del código SDK a un desarrollador {#send-sdk-code-to-a-developer-1}
 
 A veces, un administrador debe enviar algún código SDK a un desarrollador.
 
@@ -26,11 +25,11 @@ A veces, un administrador debe enviar algún código SDK a un desarrollador.
 
 Así es como lo haces.
 
-1. Haga clic en **Administración**.
+1. Haga clic en **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Seleccione **Aplicaciones móviles**.
+1. Select **Aplicaciones móviles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,7 +37,7 @@ Así es como lo haces.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Haga clic en **Acciones de aplicaciones móviles** y seleccione **Enviar al desarrollador**.
+1. Haga clic en **Acciones de aplicación móvil** y seleccione **Enviar a desarrollador**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
