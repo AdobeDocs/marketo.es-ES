@@ -3,7 +3,6 @@ unique-page-id: 4720377
 description: 'Hacer referencia a una lista o lista inteligente en varios espacios de trabajo: Documentos de Marketo: Documentación del producto'
 title: Hacer referencia a una lista o lista inteligente en varios espacios de trabajo
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Hacer referencia a una lista o lista inteligente entre espacios de trabajo {#reference-a-list-or-smart-list-across-workspaces}
+# Hacer referencia a una lista o lista inteligente en varios espacios de trabajo {#reference-a-list-or-smart-list-across-workspaces}
 
 Las listas y listas inteligentes se pueden compartir y hacer referencia a ellas en todos los espacios de trabajo para facilitar su reutilización desde la base de datos.
 
 >[!NOTE]
 >
->Se aplican reglas de partición de persona (las listas inteligentes y las listas estáticas de un espacio de trabajo solo muestran personas que son miembros de la lista *y* miembros del espacio de trabajo actual).
+>Se aplican las reglas de partición de persona (listas inteligentes y listas estáticas en un espacio de trabajo solo muestran personas que son miembros de la lista *y* miembros del espacio de trabajo actual).
 
-## Compartir una lista o una lista inteligente {#share-a-list-or-smart-list}
+## Compartir una lista o una lista inteligente  {#share-a-list-or-smart-list}
 
-1. Vaya a **Database**.
+1. Vaya a la **Base de datos**.
 
    ![](assets/db-1.png)
 
-1. Haga clic con el botón derecho en una carpeta de campaña. Seleccione **Nueva carpeta**.
+1. Haga clic con el botón derecho en una carpeta de campaña. Select **Nueva carpeta**.
 
    >[!NOTE]
    >
@@ -37,11 +36,11 @@ Las listas y listas inteligentes se pueden compartir y hacer referencia a ellas 
 
    ![](assets/three-4.png)
 
-1. Haga clic con el botón derecho en **Nueva carpeta** y seleccione **Compartir carpeta**.
+1. Clic con el botón derecho **Nueva carpeta** y seleccione **Compartir carpeta**.
 
    ![](assets/four-3.png)
 
-1. Elija un **Workspace** con el que compartir. Seleccione **Guardar**.
+1. Elija un **Espacio de trabajo** para compartir con. Select **Guardar**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
