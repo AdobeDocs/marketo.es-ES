@@ -3,7 +3,6 @@ unique-page-id: 2360307
 description: Habilitar o deshabilitar las funciones de tesorería - Documentos de Marketo - Documentación del producto
 title: Habilitar o deshabilitar las funciones de tesorería
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Habilitar o deshabilitar las características de la comprobación de tesoros {#enable-or-disable-treasure-chest-features}
+# Habilitar o deshabilitar las funciones de tesorería {#enable-or-disable-treasure-chest-features}
 
 El Treasure Chest posee divertidas características experimentales que no son totalmente compatibles.
 
@@ -19,7 +18,7 @@ El Treasure Chest posee divertidas características experimentales que no son to
 >
 >**Se requieren permisos de administrador**
 
-1. En **Administración** haga clic en **Comprobaciones del tesoro**.
+1. En **Administrador** click **Treasure Chest**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -27,7 +26,7 @@ El Treasure Chest posee divertidas características experimentales que no son to
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
-1. Marque la casilla **Enabled** para habilitar o desmarcar para deshabilitar y haga clic en **Guardar**.
+1. Marque la **Habilitado** para activar o desactivar y, a continuación, haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-16-3a53-3a53.png)
 
