@@ -3,7 +3,6 @@ unique-page-id: 10100269
 description: 'Editar una actividad personalizada: documentos de Marketo: documentación del producto'
 title: Editar una actividad personalizada
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 ¿Necesita realizar cambios en una actividad personalizada que ya ha creado? Así es como.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one-1.png)
 
-1. En **Administración de bases de datos**, haga clic en **Actividades personalizadas**.
+1. En **Administración de bases de datos** click **Actividades personalizadas**.
 
    ![](assets/two-1.png)
 
