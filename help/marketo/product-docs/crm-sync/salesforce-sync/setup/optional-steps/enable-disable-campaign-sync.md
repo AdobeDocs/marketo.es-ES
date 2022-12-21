@@ -3,7 +3,6 @@ unique-page-id: 4719289
 description: 'Habilitar/deshabilitar la sincronización de campañas: Documentos de Marketo: documentación del producto'
 title: Habilitar/deshabilitar la sincronización de campañas
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Habilitar/deshabilitar sincronización de campañas {#enable-disable-campaign-sync}
+# Habilitar/deshabilitar la sincronización de campañas {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -19,7 +18,7 @@ ht-degree: 0%
 
 Esta opción permite que Marketo sincronice su pertenencia a programas y estados con campañas de Salesforce y viceversa.
 
-1. Vaya a **Admin**, haga clic en **Salesforce**.
+1. Vaya a **Administrador**, haga clic en **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
@@ -27,7 +26,7 @@ Esta opción permite que Marketo sincronice su pertenencia a programas y estados
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Marque **Enable Salesforce Campaign Sync** y haga clic en **SAVE**.
+1. Marque **Habilitar la sincronización de Salesforce Campaign** y haga clic en **GUARDAR**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
