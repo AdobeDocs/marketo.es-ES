@@ -1,35 +1,34 @@
 ---
 unique-page-id: 4720218
-description: 'Implementación de RTP mediante Adobe Tag Manager: documentos de marketing: documentación del producto'
+description: Implementación de RTP mediante Adobe Tag Manager - Marketo Docs - Documentación del producto
 title: Implementación de RTP mediante Adobe Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
 # Implementación de RTP mediante Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 
-Para implementar la etiqueta RTP, siga las instrucciones de instalación a continuación:
+Para implementar su etiqueta RTP, siga las instrucciones de instalación a continuación:
 
 1. Inicie sesión en su cuenta RTP.
 
 1. Vaya a **Configuración de la cuenta**.
 
-   a. Si ya ha recibido la etiqueta JavaScript de la asistencia técnica, continúe con el paso 4.
+   a. Si ya ha recibido la etiqueta JavaScript de Asistencia : siga con el paso 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. En Dominio, localice el dominio relevante y haga clic en **Generar etiqueta**.
+1. En Dominio, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Inicie sesión en su cuenta del Administrador dinámico de etiquetas ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+1. Inicie sesión en su cuenta de Administrador dinámico de etiquetas ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Vaya a **Panel.** Haga clic en la propiedad web correspondiente.
+1. Vaya a **Tablero.** Haga clic en la propiedad web correspondiente.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -37,13 +36,13 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. Complete lo siguiente
 
-   1. Nombre: **RTP de marketing**
-   1. Condiciones (contraer): Regla de déclencheur en - **Principio de la página**
-   1. Javascript (contraer): haga clic en **Añadir nueva secuencia de comandos**
+   1. Nombre: **Marketo RTP**
+   1. Condiciones (contraer) : regla de déclencheur en - **Principio de la página**
+   1. Javascript (contraer): click **Agregar nuevo script**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
-1. Llame a la nueva etiqueta: **Etiqueta RTP de marketing**
+1. Llame a la nueva etiqueta : **Etiqueta RTP de Marketo**
 
 1. Elimine el siguiente código de la etiqueta RTP
 
@@ -56,14 +55,14 @@ Para implementar la etiqueta RTP, siga las instrucciones de instalación a conti
 
    >[!CAUTION]
    >
-   >Asegúrese de eliminar todas las etiquetas y dejar solo la propia secuencia de comandos (no `<script type='text/javascript'>` , `</script>` )
+   >Asegúrese de eliminar todas las etiquetas y dejar solo el propio script (no `<script type='text/javascript'>` , `</script>` )
 
 1. Haga clic en **Guardar código** en el editor de secuencias de comandos y **Guardar regla** en el editor de reglas.
 
-1. En el panel Reglas, ubique la regla de carga de página RTP de marketing y, en la lista desplegable **Acciones**, seleccione **Activar reglas**.
+1. En el panel Reglas , ubique la regla de carga de página RTP de Marketo y dentro del **Acciones** selección desplegable **Activar reglas**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **** Compruebe que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
+1. **Verificar** que aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios.
 
-   Puede hacerlo haciendo clic con el botón derecho en las páginas del sitio web. Vaya a **Elemento de Inspect**, haga clic en **Red**, Buscar: **RTP**.
+   Puede hacerlo haciendo clic con el botón derecho en las páginas de su sitio web. Vaya a **Elemento Inspect**, haga clic en **Red**, Buscar: **RTP**.
