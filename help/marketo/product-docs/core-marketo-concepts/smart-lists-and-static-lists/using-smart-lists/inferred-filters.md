@@ -3,7 +3,6 @@ unique-page-id: 2953188
 description: 'Filtros preferidos: Documentos de Marketo: Documentación del producto'
 title: Filtros vinculados
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
@@ -34,11 +33,11 @@ Cuando utilice cualquiera de estos filtros en una lista inteligente, los resulta
 >Utilice estos filtros en un informe de actividad web. Utilice los territorios de los representantes de ventas y suscríbase a un informe diario personalizado con los visitantes del sitio web en las últimas 24 horas. ¡Les encantará!
 >
 >* Página web visitada - Últimas 24 horas
->* El estado preferido es [seleccionar su territorio]
+>* El Estado al que se hace referencia es [seleccionar su territorio]
 
 
 Estos visitantes anónimos se convierten automáticamente en personas cuando hacen clic en un vínculo de correo electrónico o rellenan un formulario. Sin embargo, mantienen toda la información inferida.
 
 >[!NOTE]
 >
->Obtenga más información sobre la [actividad anónima y posibles clientes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Más información sobre [actividad anónima y posibles clientes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
