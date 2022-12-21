@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359858
-description: Añadir imágenes y archivos en el marketing - Documentos de marketing - Documentación del producto
-title: Añadir imágenes y archivos para comercializar
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Añadir imágenes y archivos a Marketo: Marketo Docs: Documentación del producto'
+title: Agregar imágenes y archivos a Marketo
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
+# Agregar imágenes y archivos a Marketo {#add-images-and-files-to-marketo}
 
-# Añadir imágenes y archivos para comercializar {#add-images-and-files-to-marketo}
+Es fácil agregar varias imágenes y archivos a la vez.
 
-Es fácil añadir varias imágenes y archivos a la vez.
-
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/designstudio.png)
 
@@ -31,27 +30,27 @@ Es fácil añadir varias imágenes y archivos a la vez.
    >
    >El tamaño máximo por archivo es de 100 MB.
 
-1. Para agregar varias imágenes y archivos, vaya a la carpeta correcta de su equipo, presione **Ctrl/Cmd** y haga clic en cada archivo que desee agregar, luego haga clic en **Abrir**.
+1. Para agregar varias imágenes y archivos, vaya a la carpeta correcta del equipo y presione **Ctrl/Cmd** y haga clic en cada archivo que desee agregar y, a continuación, haga clic en **Apertura**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Expanda **Detalles del archivo** para verificar que ha seleccionado las imágenes correctas y haga clic en **Cargar**.
+1. Expanda el **Detalles del archivo** para comprobar que ha seleccionado las imágenes correctas, haga clic en **Cargar**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
    >[!NOTE]
    >
-   >Para eliminar los archivos en cola antes de cargar, haga clic en la x situada junto al nombre del archivo.
+   >Para eliminar los archivos en cola antes de la carga, haga clic en la x junto al nombre del archivo.
 
    >[!TIP]
    >
    >Marketo analizará todos los archivos antes de cargarlos; los archivos infectados se omitirán.
 
-1. Cuando se complete la carga, haga clic en **Finalizar**.
+1. Cuando finalice la carga, haga clic en **Finalizar**.
 
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 
-1. Las imágenes ya están disponibles para su uso en correos electrónicos y páginas de aterrizaje de campaña.
+1. Las imágenes ya están disponibles para su uso en correos electrónicos de campaña y páginas de aterrizaje.
 
    ![](assets/image2014-9-15-18-3a8-3a45.png)
 
@@ -59,8 +58,8 @@ Es fácil añadir varias imágenes y archivos a la vez.
 
 >[!NOTE]
 >
->Aunque Marketo acepta todos los tipos de archivo para la carga, solo los tipos de imagen principales (JPG, PNG, GIF, etc.) trabajará en nuestro editor de correo electrónico.
+>Aunque Marketo acepta todos los tipos de archivo para la carga, solo los tipos de imagen principales (JPG, PNG, GIF, etc.) funcionará en nuestro editor de correo electrónico.
 
 >[!MORELIKETHIS]
 >
->[Organizar sus imágenes y archivos con carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>[Organizar las imágenes y los archivos mediante carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
