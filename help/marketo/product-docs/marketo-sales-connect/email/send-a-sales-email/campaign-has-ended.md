@@ -1,24 +1,23 @@
 ---
 unique-page-id: 14352587
-description: Campaña finalizada - Documentos de marketing - Documentación del producto
-title: Campaña finalizada
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: Campaña ha finalizado - Documentos de Marketo - Documentación del producto
+title: La campaña ha finalizado
+exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-
 # La campaña ha finalizado {#campaign-has-ended}
 
-Si ve un mensaje de correo electrónico en la carpeta Envío fallido que dice &quot;la campaña ha finalizado&quot;, significa que este mensaje de correo electrónico en particular fue un correo electrónico programado en su campaña.
+Si ve un correo electrónico en la carpeta de entrega fallido que dice &quot;la campaña ha finalizado&quot;, significa que este correo electrónico en particular estaba programado para su campaña.
 
-## Posibles razones por las que se produjo un error {#possible-reasons-it-failed}
+## Motivos posibles por los que falló {#possible-reasons-it-failed}
 
-* El correo electrónico antes de la devolución
-* Un contacto respondió y puso fin a la campaña
+* El correo electrónico antes de rebotar
+* Un contacto respondió y finalizó la campaña
 * La campaña finalizó manualmente
 
-Estamos buscando eliminar estos correos electrónicos de la carpeta Envío con errores para reducir el desorden.
+Estamos buscando eliminar estos correos electrónicos de su carpeta Envío fallido para reducir el desorden.
