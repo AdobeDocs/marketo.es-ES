@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352540
-description: Prevención de Vistas personales - Documentos de marketing - Documentación del producto
-title: Evitar las Vistas personales
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Prevención de autovistas - Documentos de Marketo - Documentación del producto
+title: Prevención de autovistas
+exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
+# Prevención de autovistas {#preventing-self-views}
 
-# Evitar Vistas {#preventing-self-views}
+## Resumen {#overview}
 
-## Información general {#overview}
-
-Obtener falsos positivos en el seguimiento de vistas puede provocar incoherencias de sistema de informes. Esto sucede a menudo cuando los usuarios de MSC invocan accidentalmente el píxel de seguimiento desde su cliente de correo electrónico (lo llamamos vista automática). A continuación se ofrecen algunos consejos para reducir y hasta eliminar de forma significativa las vistas personales.
+Obtener falsos positivos en el seguimiento de vista puede provocar incoherencias en los informes. Esto suele ocurrir cuando los usuarios de MSC invocan accidentalmente el píxel de seguimiento de su cliente de correo electrónico (lo llamamos vista automática). A continuación se ofrecen algunos consejos para reducir e incluso eliminar las opiniones personales de forma significativa.
 
 ## Web (Outlook Web App y Gmail) {#web-outlook-web-app-and-gmail}
 
-Sales Connect almacenará una cookie en el explorador para evitar que se rastreen las vistas al abrir los correos electrónicos desde Outlook Web App y Gmail. Si sigue recibiendo vistas por cuenta propia, le recomendamos que haga lo siguiente:
+Sales Connect almacenará una cookie en el explorador para evitar que se rastreen las vistas al abrir los correos electrónicos de Outlook Web App y Gmail. Si sigue recibiendo autovistas, le recomendamos que haga lo siguiente:
 
-* Asegúrese de tener las cookies habilitadas en el equipo.
+* Asegúrese de tener habilitadas las cookies en su equipo.
 
-* Si utiliza un equipo o dispositivo móvil nuevo, asegúrese de haber iniciado sesión en la aplicación web. Esto nos permitirá reconocer su equipo/dispositivo a partir de ahora.
+* Si utiliza un equipo o dispositivo móvil nuevo, asegúrese de haber iniciado sesión en la aplicación web. Esto nos permitirá reconocer el equipo/dispositivo a partir de ahora.
 
 ## Escritorio (Windows) {#desktop-windows}
 
-El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel de imagen invisible en el cliente de correo electrónico. Puede reducir considerablemente la cantidad de vistas automáticas en Outlook desactivando las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos a seguir.
+Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su cliente de correo electrónico. Puede reducir significativamente la cantidad de autovistas en Outlook desactivando las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos de cómo.
 
 1. En Outlook, haga clic en **Archivo** en la barra de menús.
 
@@ -41,25 +40,25 @@ El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel d
 
    ![](assets/win-3.png)
 
-1. En Centro de confianza de Microsoft Outlook, haga clic en **Configuración del centro de confianza**.
+1. En el Centro de confianza de Microsoft Outlook, haga clic en **Configuración del centro de confianza**.
 
    ![](assets/win-4.png)
 
-1. Haga clic en Descarga automática en el menú de la izquierda y seleccione la casilla de verificación **No descargar imágenes automáticamente en el correo electrónico HTML o elementos RSS**.
+1. Haga clic en Descarga automática en el menú de la izquierda y seleccione la opción **No descargue imágenes automáticamente en el correo electrónico del HTML o en los elementos RSS** en el Navegador.
 
    ![](assets/win-5.png)
 
-1. Haga clic en **Aceptar** en el cuadro de diálogo Centro de confianza.
+1. Haga clic en **OK** en el cuadro de diálogo Centro de confianza.
 
    ![](assets/win-6.png)
 
-1. Haga clic en **Aceptar** en el cuadro de diálogo Opciones de Outlook.
+1. Haga clic en **OK** en el cuadro de diálogo Opciones de Outlook.
 
    ![](assets/win-6.png)
 
 ## Escritorio (Mac) {#desktop-mac}
 
-El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel de imagen invisible en el cliente de correo electrónico. Puede reducir considerablemente la cantidad de vistas automáticas en Outlook desactivando las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos a seguir.
+Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su cliente de correo electrónico. Puede reducir significativamente la cantidad de autovistas en Outlook desactivando las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos de cómo.
 
 1. En Outlook, haga clic en **Outlook** en la barra de menús y seleccione **Preferencias**.
 
@@ -69,6 +68,6 @@ El seguimiento de vistas se realiza mediante la descarga de un pequeño píxel d
 
    ![](assets/mac-2.png)
 
-1. En Seguridad, haga clic en el botón de opción **Nunca**.
+1. En Seguridad, haga clic en la **Nunca** botón de opción.
 
    ![](assets/mac-3.png)
