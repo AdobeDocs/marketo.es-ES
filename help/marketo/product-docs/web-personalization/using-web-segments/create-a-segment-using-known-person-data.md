@@ -1,23 +1,22 @@
 ---
 unique-page-id: 7504343
-description: Crear un segmento usando datos de persona conocidos - Documentos de marketing - Documentación del producto
-title: Crear un segmento con datos de persona conocidos
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: 'Creación de un segmento utilizando datos de personas conocidas: documentos de Marketo: documentación del producto'
+title: Crear un segmento utilizando datos de personas conocidas
+exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
+# Crear un segmento utilizando datos de personas conocidas {#create-a-segment-using-known-person-data}
 
-# Crear un segmento usando datos de persona conocidos {#create-a-segment-using-known-person-data}
-
-A continuación se muestra cómo crear un segmento con los valores de Datos de persona conocidos.
+A continuación, se explica cómo crear un segmento utilizando valores de datos de personas conocidas.
 
 >[!PREREQUISITES]
 >
->[Administrar datos de persona](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
+>[Administrar datos de personas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Vaya a **Segmentos**.
 
@@ -31,7 +30,7 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. En Segmentación de Perfil, arrastre **Base de datos** al lienzo.
+1. En Segmentación de perfiles, arrastre **Base de datos** pase al lienzo.
 
    ![](assets/four-1.png)
 
@@ -43,7 +42,7 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
    ![](assets/six.png)
 
-   Sólo puede haber un valor para cada campo. Por ejemplo, si desea agregar varios valores para el campo de título de trabajo, debe crear una nueva línea con el mismo nombre de campo para cada valor. Asegúrese de utilizar el valor O para asegurarse de que cualquier valor captura una coincidencia.
+   Solo puede haber un valor para cada campo. Por ejemplo, si desea agregar varios valores para el campo de título del trabajo, debe crear una línea nueva con el mismo nombre de campo para cada valor. Asegúrese de utilizar el valor O para asegurarse de que cualquier valor captura una coincidencia.
 
    ![](assets/seven-1.png)
 
@@ -53,12 +52,12 @@ A continuación se muestra cómo crear un segmento con los valores de Datos de p
 
    ![](assets/eight.png)
 
-1. Seleccione el operador Y/O. Seleccione el campo que desee agregar. Seleccione un campo de datos de persona. Introduzca el valor de los datos personales.
+1. Seleccione el operador AND/OR . Seleccione el campo que desea añadir. Seleccione un campo de datos de persona. Introduzca el valor de los datos de la persona.
 
    ![](assets/nine.png)
 
-1. Haga clic en **Guardar** para guardar el segmento o **Guardar y definir Campaña** para guardarlo y acceder a la página Campañas.
+1. Haga clic en **Guardar** para guardar el segmento o **Guardar y definir campaña** para guardar y ir a la página Campañas .
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
-   Ahora ha configurado un segmento que segmenta los datos de Persona conocida.
+   Ahora ha configurado un segmento dirigido a datos de persona conocida.
