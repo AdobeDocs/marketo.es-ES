@@ -3,10 +3,11 @@ description: 'Columnas de la página Personas: Documentos de Marketo: Documentac
 title: Columnas de la página Personas
 hide: true
 hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
@@ -54,11 +55,11 @@ Tiene la opción de personalizar qué información de contacto ve eligiendo qué
   </tr> 
   <tr> 
    <td colspan="1">Título (predeterminado)</td> 
-   <td colspan="1">Puesto de trabajo</td> 
+   <td colspan="1">Cargo</td> 
   </tr> 
   <tr> 
    <td>Empresa (predeterminado)</td> 
-   <td>Nombre de la empresa</td> 
+   <td>Nombre de la compañía</td> 
   </tr> 
   <tr> 
    <td>Campaign (predeterminado)</td> 
@@ -101,7 +102,7 @@ Tiene la opción de personalizar qué información de contacto ve eligiendo qué
    <td>Número total de vistas por esta persona</td> 
   </tr> 
   <tr> 
-   <td># Clics</td> 
+   <td># de clics</td> 
    <td>Número total de clics de esta persona</td> 
   </tr> 
   <tr> 
