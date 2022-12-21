@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719332
-description: Implementar el JavaScript RTP - Documentos de marketing - Documentación del producto
+description: Implementación de RTP JavaScript - Marketo Docs - Documentación del producto
 title: Implementar el JavaScript de RTP
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Implementar el JavaScript de RTP {#deploy-the-rtp-javascript}
 
@@ -21,7 +20,7 @@ Para generar y configurar su etiqueta RTP, siga las instrucciones de instalació
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. En **Dominio** y **Configuración de dominio**, localice el dominio relevante y haga clic en **Generar etiqueta**.
+1. En **Dominio** y **Configuración de dominio**, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -31,14 +30,14 @@ Para generar y configurar su etiqueta RTP, siga las instrucciones de instalació
 
    >[!NOTE]
    >
-   >Copie la etiqueta RTP JavaScript y péguela como la primera secuencia de comandos en el encabezado de las páginas, entre las etiquetas `<head> </head>`.
+   >Copie la etiqueta RTP JavaScript y péguela como el primer script en el encabezado de sus páginas, entre las `<head> </head>` etiquetas.
 
-   Asegúrese de que la etiqueta aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios. Para ello, haga clic con el botón derecho en la página del sitio web. Vaya a Origen de página de Vista en un explorador Web. Buscar: &quot;RTP&quot;.
+   Asegúrese de que la etiqueta aparece en todas las páginas, incluidas las páginas de aterrizaje y los subdominios. Para comprobar esto, haga clic con el botón derecho en la página de su sitio web. Vaya a Ver origen de página en un explorador web. Buscar: &quot;RTP&quot;.
 
-1. Se configuró la opción de alternancia de etiquetas en **ON**.
+1. Etiqueta de alternancia establecida en **ON**.
 
-   Confirme que la opción Etiqueta está activada. Debe inicio ver el flujo de datos en la ficha Organización.
+   Confirme que la opción Etiqueta está activada. Debería comenzar a ver el flujo de datos en la pestaña Organización.
 
-   Ahora está configurado con la etiqueta RTP y listo para el inicio [para crear segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) y campañas en tiempo real.
+   Ahora está configurado con la etiqueta RTP y listo para empezar [creación de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) y campañas en tiempo real!
 
-1. Verificar que la etiqueta esté en todas las páginas.
+1. La etiqueta Verify está en todas las páginas.
