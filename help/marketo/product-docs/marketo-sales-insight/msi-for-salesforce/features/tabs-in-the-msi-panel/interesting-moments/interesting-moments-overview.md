@@ -3,7 +3,6 @@ unique-page-id: 2949720
 description: Información general sobre momentos interesantes - Documentos de Marketo - Documentación del producto
 title: Información general sobre momentos interesantes
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '95'
