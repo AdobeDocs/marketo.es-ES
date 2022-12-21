@@ -12,21 +12,21 @@ ht-degree: 0%
 
 # Lista de plantillas de página de aterrizaje guiada {#guided-landing-page-template-list}
 
-Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor de páginas de aterrizaje guiado](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y está basada en el marco del Bootstrap.
+Examine nuestra colección de plantillas de ejemplo para usarlas con el [Editor guiado de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada plantilla es totalmente adaptable y está basada en el marco del Bootstrap.
 
 >[!NOTE]
 >
->La compatibilidad con Marketo no está configurada para ayudar a solucionar problemas con HTML. Si necesita ayuda para modificar cualquiera de estas plantillas, consulte a un desarrollador web.
+>El servicio de asistencia técnica de Marketo no está configurado para ayudarle con el HTML de solución de problemas. Si necesita ayuda para modificar cualquiera de estas plantillas, consulte a un desarrollador web.
 
 Para importar una plantilla en Marketo:
 
 1. Haga clic en el nombre de la plantilla para obtener una vista más grande.
 1. Descargue la plantilla elegida.
-1. En Marketo, vaya a **Design Studio.**
-1. Haga clic en **Páginas de aterrizaje** en el árbol de la izquierda y, a continuación, seleccione **Plantillas.**
+1. En Marketo, vaya a la **Design Studio.**
+1. Haga clic en **Páginas de aterrizaje** en el árbol de la izquierda, seleccione **Plantillas.**
 
 1. En la barra de menús, haga clic en **Importar plantilla.**
-1. Elija el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guided**).
+1. Elija el archivo descargado, introduzca un nombre de plantilla y haga clic en **Importar** (asegúrese de elegir un nombre descriptivo e indicar que el modo de edición es **Guiada**).
 
 |  |  |  |
 |---|---|---|
