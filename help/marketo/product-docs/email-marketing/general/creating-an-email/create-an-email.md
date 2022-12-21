@@ -16,11 +16,11 @@ Existen dos formas principales de crear un correo electrónico en Marketo. Veamo
 
 ## Creación de un correo electrónico en Design Studio {#create-an-email-in-the-design-studio}
 
-1. Vaya a **Design Studio**.
+1. Vaya a la **Design Studio**.
 
    ![](assets/create-an-email-1.png)
 
-1. Haga clic en la lista desplegable **New** y seleccione **New Email**.
+1. Haga clic en el **Nuevo** y seleccione **Nuevo correo electrónico**.
 
    ![](assets/create-an-email-2.png)
 
@@ -32,15 +32,15 @@ Existen dos formas principales de crear un correo electrónico en Marketo. Veamo
 
 ## Crear un correo electrónico en actividades de marketing {#create-an-email-in-marketing-activities}
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/create-an-email-3.png)
 
-1. Seleccione el programa al que desee añadir el correo electrónico, haga clic en la lista desplegable **New** y seleccione **New Local Asset**.
+1. Seleccione el programa al que desee añadir el correo electrónico, haga clic en el botón **Nuevo** y seleccione **Nuevo recurso local**.
 
    ![](assets/create-an-email-4.png)
 
-1. Haga clic en **Email**.
+1. Haga clic en **Correo electrónico**.
 
    ![](assets/create-an-email-5.png)
 
