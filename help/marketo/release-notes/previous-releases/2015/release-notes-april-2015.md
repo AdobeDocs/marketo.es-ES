@@ -22,7 +22,7 @@ Las siguientes funciones se incluyen en la versión de abril de 2015. Compruebe 
 >
 >Esta función se lanzará el martes 28 de abril.
 
-La nueva [página principal de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite un acceso rápido para ejecutar informes ad hoc en los tipos de informes disponibles.
+El nuevo [Página de inicio de Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite un acceso rápido para ejecutar informes ad hoc en todos los tipos de informes disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Con la participación de Marketo Mobile, es fácil ofrecer experiencias móviles
 
 [Integración del acelerador de posibles clientes de linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Amplíe su estrategia de crianza de clientes potenciales a anuncios sociales y de visualización de pago. La [integración de red de publicidad](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con el acelerador de posibles clientes de LinkedIn le permite crear de forma segura un segmento de audiencia en LinkedIn basado en los miembros de cualquier lista inteligente o estática. Los miembros de un segmento de audiencia de LinkedIn pueden recibir una secuencia de anuncios relevantes.
+Amplíe su estrategia de crianza de clientes potenciales a anuncios sociales y de visualización de pago. La variable [integración de red de publicidad](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator le permite crear de forma segura un segmento de audiencia en LinkedIn basado en los miembros de cualquier lista inteligente o estática. Los miembros de un segmento de audiencia de LinkedIn pueden recibir una secuencia de anuncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -50,8 +50,8 @@ Sus funciones favoritas de Perspectiva de ventas: fuente de posibles clientes, m
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP: análisis de marketing basado en cuentas {#rtp-account-based-marketing-analytics}
+## RTP: Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP: análisis de marketing basado en cuentas**
+**RTP: Account-Based Marketing Analytics**
 
 Obtenga una visibilidad instantánea del rendimiento de las listas de cuentas con nombre clave en función de cada etapa del ciclo de compra, con el nuevo gráfico de rendimiento para las listas de cuentas con nombre. El gráfico muestra la fase de la visita de la organización clave, empezando por la concienciación hasta la acción, en función del número de visitas y el estado del visitante.
