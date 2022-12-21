@@ -3,7 +3,6 @@ unique-page-id: 10095453
 description: Editar y eliminar campos de objetos personalizados de Marketo - Documentos de Marketo - Documentación del producto
 title: Editar y eliminar campos de objetos personalizados de Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Editar y eliminar campos de objeto personalizados de Marketo {#edit-and-delete-marketo-custom-object-fields}
+# Editar y eliminar campos de objetos personalizados de Marketo {#edit-and-delete-marketo-custom-object-fields}
 
 ## Editar un campo {#edit-a-field}
 
@@ -21,7 +20,7 @@ A veces es necesario editar un campo que aún no está aprobado.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. En la ficha Campos, haga clic en **Acciones de campo** y **Editar campo**.
+1. En la ficha Campos , haga clic en **Acciones de campo** y **Editar campo**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
@@ -41,7 +40,7 @@ A veces es necesario editar un campo que aún no está aprobado.
 
 Cuando ya no necesite un campo en un objeto personalizado, puede eliminarlo.
 
-1. En la ficha Campos, haga clic en **Acciones de campo** y **Eliminar campo**.
+1. En la ficha Campos , haga clic en **Acciones de campo** y **Eliminar campo**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
