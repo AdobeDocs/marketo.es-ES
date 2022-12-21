@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359608
-description: Cambiar la familia de fuentes de formulario - Documentos de marketing - Documentación del producto
+description: Cambio de la familia de fuentes del formulario - Documentos de Marketo - Documentación del producto
 title: Cambiar la familia de fuentes del formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
+# Cambiar la familia de fuentes del formulario {#change-the-form-font-family}
 
-# Cambiar la familia de fuentes de formulario {#change-the-form-font-family}
-
-Las fuentes de Google son increíbles y las incorporamos directamente en el editor de formularios. ¡Echa un vistazo!
+Las fuentes de Google son impresionantes y las incorporamos directamente en el editor de formularios. ¡Echa un vistazo!
 
 >[!NOTE]
 >
->Esta configuración afecta a la etiqueta del formulario, al texto de entrada y al texto enriquecido.
+>Esta configuración afecta a la etiqueta del formulario, el texto de entrada y cualquier texto enriquecido.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -27,15 +26,15 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. En **Configuración del formulario**, seleccione **Configuración**.
+1. En **Configuración de formulario**, seleccione **Configuración**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Seleccione la **Familia de fuentes** que desee.
+1. Seleccione el **Familia de fuentes** quieres.
 
    >[!TIP]
    >
-   >Hay un grupo de [fuentes de Google](https://www.google.com/fonts) disponibles para su uso.
+   >Un montón de [Fuentes de Google](https://www.google.com/fonts) están disponibles para su uso.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -57,7 +56,7 @@ Las fuentes de Google son increíbles y las incorporamos directamente en el edit
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
 
-¿Qué tan fácil era cambiar la familia de fuentes en un formulario? Genial, ahora que ya está hecho, vamos a aprender a cambiar el tamaño de fuente del formulario.
+¿Ves lo fácil que era cambiar la familia de fuentes en un formulario? Genial, ahora que ya está hecho, vamos a aprender a cambiar el tamaño de la fuente del formulario.
 
 >[!MORELIKETHIS]
 >
