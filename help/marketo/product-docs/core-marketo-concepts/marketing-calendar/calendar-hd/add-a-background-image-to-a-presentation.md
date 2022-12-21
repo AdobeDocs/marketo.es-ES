@@ -3,7 +3,6 @@ unique-page-id: 7504437
 description: 'Agregar una imagen de fondo a una presentación: Marketo Docs: documentación del producto'
 title: Agregar una imagen de fondo a una presentación
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
@@ -27,7 +26,7 @@ Personalice una presentación seleccionando una imagen de fondo.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Arrastre y suelte **Imagen de fondo** desde el árbol derecho en el lienzo.
+1. Arrastrar y soltar **Imagen de fondo** del árbol derecho al lienzo.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -35,11 +34,11 @@ Personalice una presentación seleccionando una imagen de fondo.
 
    >[!TIP]
    >
-   >Para obtener un aspecto más limpio, utilice una imagen que sea **1920 x 1080** o **1280 x 720**.
+   >Para obtener un aspecto más limpio, utilice una imagen que **1920 x 1080** o **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Haga clic en **Preview** para comprobarlo.
+1. Haga clic en **Vista previa** para comprobarlo.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
