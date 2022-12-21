@@ -3,11 +3,10 @@ unique-page-id: 1147318
 description: Glosario de métodos abreviados del teclado - Documentos de Marketo - Documentación del producto
 title: Glosario de métodos abreviados del teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -19,19 +18,19 @@ ht-degree: 0%
 
 | Atajo de teclado | Área |
 |---|---|
-| Alt/Opción + A | Analytics |
+| Alt/Opción + A | Análisis |
 | Alt/Opt + C | Calendario |
-| Alt/Opt + D | Design Studio |
+| Alt/Opt + D | Estudio de diseño |
 | Alt/Opción + F | Búsqueda global |
 | Alt/Opt + L | Base de datos |
 | Alt/Opt + M | Actividades de marketing |
-| Opt + N | Administrador |
+| Opt + N | Administración |
 | Opt + O | Mi Marketo |
 | Alt/Opt + S | Menú Superball desplegable |
 
 ## Navegación de vista de calendario/programación:  {#calendar-schedule-view-navigation}
 
-| Atajo de teclado | Acción |
+| Atajo de teclado | Accion |
 |---|---|
 | Alt/Opt + flecha arriba | Retroceder en el tiempo |
 | Alt/Opt + flecha abajo | Avanzar en el tiempo |
@@ -39,7 +38,7 @@ ht-degree: 0%
 
 ## Varios: {#miscellaneous}
 
-| Atajo de teclado | Acción |
+| Atajo de teclado | Accion |
 |---|---|
 | ESC | Cerrar elemento emergente |
 | Retorno/Intro | Elemento emergente Enviar |
