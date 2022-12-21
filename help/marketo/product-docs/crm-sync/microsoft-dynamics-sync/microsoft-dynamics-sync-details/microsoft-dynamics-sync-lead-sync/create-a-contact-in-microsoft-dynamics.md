@@ -3,7 +3,6 @@ unique-page-id: 10095389
 description: Crear un contacto en Microsoft Dynamics - Marketo Docs - Documentación del producto
 title: Crear un contacto en Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
@@ -33,6 +32,6 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Ahora, puede seleccionar **Contact** cuando use la restricción Sincronizar como en un filtro de campaña inteligente.
+1. Ahora puede seleccionar **Contacto** cuando utiliza la restricción Sincronizar como en un filtro de campaña inteligente.
 
    ![](assets/five.png)
