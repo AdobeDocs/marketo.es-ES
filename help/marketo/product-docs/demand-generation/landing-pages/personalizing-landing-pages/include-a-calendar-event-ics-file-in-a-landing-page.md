@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359540
-description: Incluir un archivo ICS de Evento de calendario en una Página de aterrizaje - Documentos de marketing - Documentación del producto
-title: Incluir un archivo ICS de Evento de calendario en una Página de aterrizaje
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Incluir un archivo ICS de Evento de Calendario en una página de aterrizaje: Documentos de Marketo: Documentación del producto'
+title: Incluir un archivo ICS de Evento de Calendario en una página de aterrizaje
+exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# Incluir un archivo ICS de Evento de Calendario en una página de aterrizaje {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-# Incluir un archivo ICS de Evento de calendario en una Página de aterrizaje {#include-a-calendar-event-ics-file-in-a-landing-page}
-
-Un token **Archivo de calendario** le permite agregar un vínculo de evento de calendario (.ics) a sus páginas de aterrizaje de marketing.
+A **Archivo de calendario** permite agregar un vínculo de evento de calendario (.ics) a las páginas de aterrizaje de Marketo.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +23,7 @@ Un token **Archivo de calendario** le permite agregar un vínculo de evento de c
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Seleccione el token **Archivo de calendario** y haga clic en **Insertar**.
+1. Seleccione el **Archivo de calendario** token y clic **Insertar**.
 
    >[!CAUTION]
    >
@@ -37,7 +36,7 @@ Un token **Archivo de calendario** le permite agregar un vínculo de evento de c
 
 1. Haga clic en **Guardar**.
 
-   La gente verá una página de aterrizaje similar a esta:
+   Los usuarios verán una página de aterrizaje con este aspecto:
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
@@ -45,4 +44,4 @@ Un token **Archivo de calendario** le permite agregar un vínculo de evento de c
 
 >[!MORELIKETHIS]
 >
->[Incluir un Evento de calendario (.ics) en un mensaje de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>[Incluir un evento de calendario (.ics) en un mensaje de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
