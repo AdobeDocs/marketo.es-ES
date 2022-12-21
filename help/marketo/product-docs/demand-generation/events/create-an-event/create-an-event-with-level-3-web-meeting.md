@@ -1,38 +1,37 @@
 ---
 unique-page-id: 7512328
-description: Crear un Evento con una reunión web de nivel 3 - Documentos de marketing - Documentación del producto
-title: Crear un Evento con una reunión web de nivel 3
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Crear un evento con una reunión web de nivel 3: Marketo Docs: documentación del producto'
+title: Crear un evento con una reunión web de nivel 3
+exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
-# Crear un Evento con una reunión Web de nivel 3 {#create-an-event-with-level-web-meeting}
+# Crear un evento con una reunión web de nivel 3 {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
->* [Añadir una reunión web de nivel 3 como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
->* [Crear un nuevo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Configure las [acciones de flujo adecuadas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para rastrear la participación
+>* [Agregar una reunión web de nivel 3 como servicio de LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Configure los correspondientes [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)para realizar un seguimiento de la participación
 
 
-Primero cree su seminario web en el nivel 3. Si necesita ayuda, consulte la [Biblioteca de recursos de nivel 3](https://www.level3.com/en/resource-library/). Encontrarás que es muy similar a BrightTalk.  Marketo utiliza un pequeño subconjunto de campos de Nivel 3:
+Primero cree su seminario web en el Nivel 3. Si necesita ayuda, consulte la [Biblioteca de recursos de nivel 3](https://www.level3.com/en/resource-library/). Lo encontrarán muy similar a BrightTalk.  Marketo utiliza un pequeño subconjunto de campos de Nivel 3:
 
-* **Nombre** : el nombre del webcast.
-* **Fecha**  de inicio: fecha de inicio del webcast.
-* **Fecha**  final: fecha de finalización del webcast.
-* **Huso horario** : el huso horario establecido para el webcast.
-* **Descripción** : descripción del webcast.
+* **Nombre** - El nombre del webcast.
+* **Fecha de inicio** - La fecha de inicio del webcast.
+* **Fecha final** - La fecha de finalización del webcast.
+* **Zona horaria** - Zona horaria establecida para el webcast.
+* **Descripción** - La descripción del webcast.
 
-1. Seleccione su nuevo evento. Haga clic en **Acciones de Evento,** y luego **Configuración de Evento.**
+1. Seleccione el nuevo evento. Haga clic en **Acciones de evento,** then **Configuración de eventos.**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. En Socio de Evento, seleccione **Reunión Web de nivel 3**.
+1. En Socio de eventos, seleccione **Reunión web de nivel 3**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -48,10 +47,10 @@ Primero cree su seminario web en el nivel 3. Si necesita ayuda, consulte la [Bib
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   ¡Muy excelente! ¡Has conectado tu evento al nivel 3!
+   ¡Muy excelente! ¡Ha conectado el evento al Nivel 3!
 
-## Visualización del programa {#viewing-the-schedule}
+## Visualización del programa  {#viewing-the-schedule}
 
-En la vista calandario del programa, haga clic en la entrada de calendario del evento. Puedes ver la programación en el lado derecho de la pantalla!
+En la vista de programación del programa, haga clic en la entrada de calendario del evento. Puede ver la programación en el lado derecho de la pantalla.
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
