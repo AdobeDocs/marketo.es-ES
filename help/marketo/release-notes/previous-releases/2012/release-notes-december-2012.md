@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # Notas de la versión: Diciembre de 2012 {#release-notes-december}
 
-La versión de diciembre incluye la función **Forward to Friend** muy esperada, así como varias otras opciones. Tenga en cuenta que las funciones marcadas con un asterisco (*) solo están disponibles en Select Edition y en RCA (Ingresos Cycle Analytics).
+La versión de diciembre incluye el muy esperado **De reenvío a amigo** , así como varias otras golosinas! Tenga en cuenta que las funciones marcadas con un asterisco (&#42;) solo están disponibles en Select Edition y en RCA (Ingresos Cycle Analytics).
 
 ## De reenvío a amigo {#forward-to-friend}
 
-Habilite el uso compartido del contenido con otros usuarios incluyendo un enlace **Forward to Friend** en sus correos electrónicos. La adición de nuevos filtros y déclencheur le ayudará a identificar a sus influyentes, ya que identificará a los usuarios que reenviaron un correo electrónico, así como a los que recibieron los correos electrónicos reenviados.
+Habilite el uso compartido de contenido con otras personas incluyendo un **De reenvío a amigo** en los correos electrónicos. La adición de nuevos filtros y déclencheur le ayudará a identificar a sus influyentes, ya que identificará a los usuarios que reenviaron un correo electrónico, así como a los que recibieron los correos electrónicos reenviados.
 
-Para incluir una invitación **Forward to Friend** en el correo electrónico, ábrala en el editor e inserte el token `{{system.forwardToFriendLink}}`.
+Para incluir un **De reenvío a amigo** invitación en el correo electrónico, ábrala en el editor e inserte el `{{system.forwardToFriendLink}}` token.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Utilice los déclencheur y filtros correspondientes para identificar a los usuarios que utilizaron el vínculo **Forward to Friend** y a los que recibieron el correo electrónico.
+Utilice los déclencheur y filtros correspondientes para identificar a los usuarios que usaron la variable **De reenvío a amigo** y los que recibieron el correo electrónico.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -50,16 +50,16 @@ La perspectiva de ventas ya está disponible para los clientes de Microsoft Dyna
 
 Sincronizar datos de oportunidad entre Marketo y Microsoft Dynamics.
 
-## Informe de oportunidades influidas en el marketing* {#marketing-influenced-opportunities-report}
+## Informe de oportunidades influidas en el marketing&#42; {#marketing-influenced-opportunities-report}
 
-Vea qué porcentaje de la canalización y los ingresos de su empresa se vieron influidos por los programas de marketing. En el Explorador de ingresos ****, ahora puede crear informes personalizados con el nuevo punto amarillo &quot;Oportunidad influenciada en marketing&quot; en Análisis de oportunidades. También puede utilizar los dos informes siguientes en la carpeta Estándar:
+Vea qué porcentaje de la canalización y los ingresos de su empresa se vieron influidos por los programas de marketing. En **Explorador de ingresos**, ahora puede crear informes personalizados con el nuevo punto amarillo &quot;Oportunidad influenciada en marketing&quot; en Análisis de oportunidades. También puede utilizar los dos informes siguientes en la carpeta Estándar:
 
 * Influencia de marketing en oportunidades creadas
 * Influencia de marketing en oportunidades cerradas con Won
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Campos de oportunidad personalizados en el análisis de oportunidad de programa* {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Campos de oportunidad personalizados en el análisis de oportunidad del programa&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Agregue campos de oportunidad personalizados para enriquecer los informes de Análisis de oportunidades de programa en el Explorador de ingresos.
 
@@ -69,6 +69,6 @@ Agregue campos de oportunidad personalizados para enriquecer los informes de An�
 
 ¿Alguna vez se ha preguntado qué campañas utilizan una acción de flujo específica, como Cambiar puntuación o Solicitar campaña? ¿O dónde se está utilizando un filtro determinado? El nuevo Inspector de campañas (disponible en el tesoro de comprobación) le permite identificar estas campañas, así como campañas activas y campañas con errores.
 
-Vaya a **Admin** > **Treasure Chest** para habilitar el **Inspector de campañas**.
+Vaya a **Administrador** > **Treasure Chest** para habilitar la variable **Inspector de campaña**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
