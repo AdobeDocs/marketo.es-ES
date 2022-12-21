@@ -3,7 +3,6 @@ unique-page-id: 10099785
 description: Editar configuración de suscripción - Documentos de Marketo - Documentación del producto
 title: Editar configuración de suscripción
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -19,7 +18,7 @@ Por ejemplo, si trabaja en las instancias de producción y simulación de prueba
 
 ![](assets/image2016-4-8-14-3a34-3a28.png)
 
-1. Vaya a **Admin**.
+1. Vaya a **Administrador**.
 
    ![](assets/adminhand-1.png)
 
