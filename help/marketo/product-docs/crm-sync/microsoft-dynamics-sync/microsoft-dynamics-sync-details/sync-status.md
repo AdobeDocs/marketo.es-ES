@@ -3,7 +3,6 @@ unique-page-id: 10097584
 description: Estado de sincronización - Documentos de Marketo - Documentación del producto
 title: Estado de sincronización
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
@@ -17,11 +16,11 @@ Puede mantener tabulaciones sobre el rendimiento actual y el trabajo acumulado d
 
 ## Ficha Estado de sincronización {#sync-status-tab}
 
-1. Haga clic en **Admin** y **Microsoft Dynamics**.
+1. Haga clic en **Administrador** y **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Haga clic en la pestaña **Estado de sincronización**.
+1. Haga clic en el **Estado de sincronización** pestaña .
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +34,7 @@ Puede mantener tabulaciones sobre el rendimiento actual y el trabajo acumulado d
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Haga clic en la lista desplegable **View:** y seleccione **Last Hour** para ver la información de rendimiento.
+1. Haga clic en el **Ver:** y seleccione **Última hora** para ver la información de rendimiento.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -47,7 +46,7 @@ Puede mantener tabulaciones sobre el rendimiento actual y el trabajo acumulado d
    >
    >Cuando observe la vista Última hora, las columnas Insertos y actualizaciones mostrarán N/D. Es un comportamiento esperado.
 
-## Pestaña Errores de sincronización {#sync-errors-tab}
+## Ficha Errores de sincronización {#sync-errors-tab}
 
 Examinar, buscar o exportar posibles clientes (y otros objetos) que no se hayan sincronizado con detalles como operación, dirección, código de error y mensaje de error.
 
