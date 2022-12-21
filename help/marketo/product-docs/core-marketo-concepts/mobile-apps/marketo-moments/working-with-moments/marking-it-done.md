@@ -3,7 +3,6 @@ unique-page-id: 8783557
 description: Marcado hecho - Documentos de Marketo - Documentación del producto
 title: Marcarlo como hecho
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Marcarlo Listo {#marking-it-done}
+# Marcarlo como hecho {#marking-it-done}
 
 Marque una tarjeta de programa, evento o análisis de correo electrónico como Listo para eliminarla del flujo. Hay dos maneras de hacerlo.
 
