@@ -1,8 +1,8 @@
 ---
 description: Marcar un campo como confidencial - Documentos de Marketo - Documentación del producto
 title: Marcar un campo como confidencial
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Como administrador de Marketo, puede marcar un campo específico como &quot;sens
 >
 >Esta función se habilitará para todas las instancias de Marketo la tarde del martes 11 de mayo.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Haga clic en **Administración de campos**.
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -29,7 +29,7 @@ Como administrador de Marketo, puede marcar un campo específico como &quot;sens
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Active la casilla **Marcar campo como confidencial**.
+1. Seleccione el **Marcar campo como confidencial** casilla de verificación.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 
