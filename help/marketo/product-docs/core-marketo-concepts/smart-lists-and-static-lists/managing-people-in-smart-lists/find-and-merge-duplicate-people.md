@@ -3,7 +3,6 @@ unique-page-id: 557339
 description: Buscar y combinar personas duplicadas - Documentos de Marketo - Documentación del producto
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
@@ -25,7 +24,7 @@ Marketo anula automáticamente la duplicación cuando entran nuevos usuarios al 
 
 ## Buscar duplicados {#find-duplicates}
 
-1. Vaya al área **Database**.
+1. Vaya a la **Base de datos** .
 
    ![](assets/db.png)
 
@@ -33,7 +32,7 @@ Marketo anula automáticamente la duplicación cuando entran nuevos usuarios al 
    >
    >Es posible que la combinación de personas en Marketo no funcione si utiliza una cuenta de persona de Salesforce. Si es posible, combine los registros en Salesforce.
 
-1. Seleccione la lista inteligente del sistema **Posibles duplicados** y haga clic en la pestaña **Personas**.
+1. Seleccione el **Posibles duplicados** lista inteligente del sistema y haga clic en **People** pestaña .
 
    ![](assets/two.png)
 
@@ -45,7 +44,7 @@ Marketo anula automáticamente la duplicación cuando entran nuevos usuarios al 
 
 >[!CAUTION]
 >
->Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, **no** se vuelve a asociar a la persona ganadora. Vuelva a primario con el objeto personalizado antes de realizar la combinación.
+>Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, lo hará **not** vuelva a asociarse a la persona ganadora. Vuelva a primario con el objeto personalizado antes de realizar la combinación.
 
 1. Para seleccionar los duplicados, mantenga presionada la tecla Ctrl/Cmd y haga clic en y, a continuación, haga clic en **Combinar personas**.
 
@@ -55,7 +54,7 @@ Marketo anula automáticamente la duplicación cuando entran nuevos usuarios al 
    >
    >Puede tener dos o más duplicados para la misma persona: selecciónelos todos a la vez.
 
-1. Verá los valores entre los registros que _no coinciden_. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando termine. Si no desea ninguno de estos valores, puede marcar **Custom** e introducir un valor de su elección.
+1. Verá los valores entre los registros que _don&#39;t_ coincidencia. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando haya terminado. Si no desea ninguno de estos valores, puede marcar **Personalizado** e introduzca un valor de su elección.
 
    ![](assets/four.png)
 
@@ -79,7 +78,7 @@ Para conocer los detalles del comportamiento de Salesforce al combinar posibles 
 * [Combinación de posibles clientes duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
 * [Combinación de contactos duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Combinación masiva {#bulk-merging}
+## Fusión masiva {#bulk-merging}
 
 Si tiene demasiados duplicados para combinar manualmente, póngase en contacto con el administrador de éxito del cliente para analizar sus opciones.
 
