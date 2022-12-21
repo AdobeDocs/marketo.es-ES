@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7512457
-description: Enviar una notificación push móvil - Documentos de marketing - Documentación del producto
+description: 'Enviar una notificación push para móviles: Documentos de Marketo: Documentación del producto'
 title: Enviar una notificación push móvil
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b462857e-c63d-419d-9e28-aafc778e217e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # Enviar una notificación push móvil {#send-a-mobile-push-notification}
 
@@ -17,11 +16,11 @@ Envíe una notificación push a las personas que utilicen su aplicación móvil.
 
 >[!PREREQUISITES]
 >
->* [Crear una nueva Campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [Crear una notificación push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Creación de una nueva campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Creación de una notificación push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
-1. Vaya al área **Actividades de mercadotecnia**.
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
@@ -33,7 +32,7 @@ Envíe una notificación push a las personas que utilicen su aplicación móvil.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Seleccione una notificación push. Haga clic en **Programar**.
+1. Seleccione una notificación push. Haga clic en **Programación**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -49,4 +48,4 @@ Envíe una notificación push a las personas que utilicen su aplicación móvil.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
-Siéntese y espere a que salga la notificación Push.
+Siéntese y espere a que se salga la notificación push.
