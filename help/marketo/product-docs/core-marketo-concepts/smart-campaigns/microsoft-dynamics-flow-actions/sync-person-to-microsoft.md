@@ -1,13 +1,12 @@
 ---
 unique-page-id: 7514027
-description: Sincronizar persona con Microsoft - Marketo Docs - Documentación del producto
+description: 'Sincronizar persona con Microsoft: Marketo Docs: documentación del producto'
 title: Sincronizar persona con Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Esta función solo es para aquellos que integran Marketo con Microsoft Dynamics.
 
-## Información general {#overview}
+## Resumen {#overview}
 
 Este paso de flujo insertará personas creadas por Marketo en su Dynamics CRM.
 
