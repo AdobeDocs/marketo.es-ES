@@ -3,11 +3,10 @@ unique-page-id: 1147129
 description: Creación de un informe de rendimiento del programa - Documentos de Marketo - Documentación del producto
 title: Crear un informe de rendimiento del programa
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,15 +14,15 @@ ht-degree: 0%
 
 Consulte las buenas estadísticas de los programas con este informe.
 
-1. [Cree un informe en un ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programa y seleccione el  **tipo** [de puerto de rendimiento del programa](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Haga clic en la pestaña **Report**.
+1. [Crear un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione **Rendimiento del programa** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Haga clic en el **Informe** pestaña .
 1. ¡Estás ahí! Explore el informe para ver cómo funcionan sus programas.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Para encontrar los programas con el *Costo por éxito* más bajo, por ejemplo, [ordene el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Orden ascendente**.
+>Para encontrar los programas con la menor *Costo por éxito*, por ejemplo, [ordenar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Orden ascendente**.
 
 Las columnas de un informe Rendimiento del Programa incluyen:
 
@@ -44,7 +43,7 @@ Las columnas de un informe Rendimiento del Programa incluyen:
    <td>Nuevas personas adquiridas por el programa.</td> 
   </tr> 
   <tr> 
-   <td>Correcto</td> 
+   <td>Sin errores</td> 
    <td>Número de miembros que lograron el éxito según se define en los estados del programa. </td> 
   </tr> 
   <tr> 
