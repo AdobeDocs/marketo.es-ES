@@ -1,42 +1,41 @@
 ---
 unique-page-id: 11384663
-description: Desaprobar un título para contenido predictivo - Documentos de marketing - Documentación del producto
+description: 'Desaprobar un título para contenido predictivo: Marketo Docs: documentación del producto'
 title: Desaprobar un título para contenido predictivo
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
 # Desaprobar un título para contenido predictivo {#unapprove-a-title-for-predictive-content}
 
-Puede desaprobar cualquier título para contenido predictivo en la página Todo el contenido o en la ventana emergente Editar contenido.
+Puede desaprobar cualquier título de contenido predictivo en la página Todo contenido o en la ventana emergente Editar contenido .
 
-## Toda la página de contenido {#all-content-page}
+## Página Todo el contenido {#all-content-page}
 
-1. En la página Todo el contenido, marque la casilla al lado del contenido para seleccionarlo.
+1. En la página Todo contenido , marque la casilla junto al fragmento de contenido para seleccionarlo.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Haga clic en la lista desplegable **Acciones de contenido** y seleccione **Desaprobar contenido predictivo**.
+1. Haga clic en el **Acciones de contenido** y seleccione **Desaprobar contenido predictivo**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Ventana emergente Editar contenido {#edit-content-pop-up}
+## Editar contenido emergente {#edit-content-pop-up}
 
 Puede desaprobar un título mientras lo está editando.
 
-1. Pase el ratón sobre un contenido y, a continuación, haga clic en el icono de edición que hay al final de la fila.
+1. Pase el ratón sobre un fragmento de contenido y, a continuación, haga clic en el icono de edición situado al final de la fila.
 
    ![](assets/click-icon-hand.png)
 
-1. Desmarque la casilla **Aprobar contenido predictivo** y haga clic en **Guardar**.
+1. Desmarque la **Aprobar para contenido predictivo** y haga clic en **Guardar**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-Independientemente del método que utilice, el icono de aprobación se encuentra en la página Todo el contenido y el título desaparece de la página Contenido predictivo.
+Independientemente del método que utilice, el icono de aprobación pasa a la página Todo contenido y el título desaparece de la página Contenido predictivo .
 
 ![](assets/unapprove-content-no-icon.png)
