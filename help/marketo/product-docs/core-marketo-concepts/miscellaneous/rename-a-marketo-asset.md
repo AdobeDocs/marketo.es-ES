@@ -3,7 +3,6 @@ unique-page-id: 2952484
 description: 'Cambiar el nombre de un recurso de Marketo: Documentos de Marketo: Documentación del producto'
 title: Cambiar el nombre de un recurso de Marketo
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
