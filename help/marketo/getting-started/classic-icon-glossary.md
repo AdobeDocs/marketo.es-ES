@@ -6,7 +6,7 @@ exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
@@ -57,14 +57,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">La carpeta de origen que compartió con otro espacio de trabajo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">Carpeta de destino compartida desde otro espacio de trabajo <br>(el cerrojo indica que no se pueden realizar ediciones)</td> 
   </tr> 
@@ -92,7 +92,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">Desencadenante</td> 
   </tr> 
@@ -415,7 +415,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">Programa de correo electrónico programado con Head Start</td> 
   </tr> 
