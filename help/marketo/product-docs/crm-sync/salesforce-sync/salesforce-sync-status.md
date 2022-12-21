@@ -2,11 +2,10 @@
 description: 'Estado de sincronización de Salesforce: Documentos de Marketo: Documentación del producto'
 title: Estado de sincronización de Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -22,7 +21,7 @@ Los pasos de sincronización reflejan las operaciones de push o pull por cada ti
 
 ## Ver estado de sincronización {#view-sync-status}
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/salesforce-sync-status-1.png)
 
@@ -34,7 +33,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Estado de sincronización de filtro {#filter-sync-status}
+## Estado de sincronización de filtros {#filter-sync-status}
 
 1. Para filtrar los datos, haga clic en el icono de filtro situado en el extremo derecho de la página.
 
@@ -48,7 +47,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Paso** opcional: Para exportar errores de sincronización, haga clic en  **Exportar**. Los datos se exportan como CSV.
+**Paso opcional**: Para exportar errores de sincronización, haga clic en **Exportar**. Los datos se exportan como CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -119,7 +118,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
  </tbody> 
 </table>
 
-*Los datos se han revertido al estado de integridad anterior después del error de paso de sincronización.
+&#42;Los datos volvieron al estado de integridad anterior después del error de paso de sincronización.
 
 ## Tipo de objeto {#object-type}
 
@@ -138,16 +137,16 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
    <td colspan="1">Objetos personalizados</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">Campaña</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Estado del miembro de la campaña</td> 
+   <td colspan="1">Estado de membresía de la campaña</td> 
   </tr>
   <tr> 
    <td colspan="1">Contacto</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Plantilla de correo electrónico</td> 
+   <td colspan="1">Plantilla de email</td> 
   </tr>  
   <tr> 
    <td colspan="1">Evento</td> 
@@ -159,7 +158,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
    <td colspan="1">Oportunidad</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Función de contacto de oportunidad</td> 
+   <td colspan="1">Rol del contacto y la oportunidad</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tarea</td> 
@@ -188,7 +187,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
   </tr> 
   <tr> 
    <td colspan="1">Vínculo de inicio con el programa</td> 
-   <td colspan="1">Campaign</td> 
+   <td colspan="1">Campaña</td> 
    <td colspan="1">Vinculación de campañas a programas</td> 
    <td colspan="1">Actualizar</td>
   </tr>  
@@ -242,11 +241,11 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
   </tr>  
   <tr> 
    <td colspan="1">Actualizar FKS</td> 
-   <td colspan="1">Todo</td> 
+   <td colspan="1">Todos</td> 
    <td colspan="1">Actualizar la clave externa de todos los objetos</td> 
-   <td colspan="1">N/D</td>
+   <td colspan="1">N/A</td>
   </tr>  
  </tbody> 
 </table>
 
-*La configuración de marca en el nivel de suscripción decide la etiqueta - &quot;Posible cliente&quot; o &quot;Persona&quot; en el informe.
+&#42;La configuración de marca en el nivel de suscripción decide la etiqueta: &quot;Posible cliente&quot; o &quot;Persona&quot; en el informe.
