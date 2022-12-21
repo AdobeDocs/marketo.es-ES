@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352484
-description: Cómo corregir "No hemos podido autenticar su solicitud" al conectarse a Salesforce - Documentos de marketing - Documentación del producto
-title: Cómo corregir "No hemos podido autenticar su solicitud" al conectarse a Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 'Corrección de "No hemos podido autenticar su solicitud" al conectarse a Salesforce: Documentos de Marketo: Documentación del producto'
+title: Corrección de "No se pudo autenticar la solicitud" al conectarse a Salesforce
+exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# Corrección de &quot;No se pudo autenticar la solicitud&quot; al conectarse a Salesforce {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-# Cómo corregir &quot;No hemos podido autenticar su solicitud&quot; al conectarse a Salesforce {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+Si recibe el mensaje de error &quot;No hemos podido autenticar su solicitud&quot; al intentar conectar Sales Connect a Salesforce, puede haber una restricción en su acceso a la API de Salesforce. Consulte a su administrador de Salesforce para asegurarse de que se han realizado las siguientes acciones.
 
-Si recibe el mensaje de error &quot;No hemos podido autenticar su solicitud&quot; al intentar conectar Sales Connect con Salesforce, puede haber una restricción en su acceso a la API de Salesforce. Póngase en contacto con el administrador de Salesforce para asegurarse de que existen los siguientes elementos.
+## Habilitar API en permisos de usuario {#enable-api-in-user-permissions}
 
-## Habilitar API en Permisos de usuario {#enable-api-in-user-permissions}
+1. Inicie sesión con un administrador de Salesforce en SFDC.
+1. Select **Configuración**.
+1. Select **Administrar usuarios**.
+1. Select **Perfiles**.
+1. Busque el perfil en el que se encuentran los usuarios de ToutApp y haga clic en **Editar**.
+1. Desplácese hacia abajo hasta **Permisos administrativos** y asegúrese de **API habilitada** está activada.
 
-1. Tener un registro de administrador de Salesforce en SFDC.
-1. Seleccione **Configuración**.
-1. Seleccione **Administrar usuarios**.
-1. Seleccione **Perfiles**.
-1. Busque el Perfil en el que se encuentran los usuarios de ToutApp y haga clic en **Editar**.
-1. Desplácese hacia abajo hasta **Permisos administrativos** y asegúrese de que **API habilitada** está marcada.
+## Comprobar si Salesforce bloquea la conexión de ventas {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
-## Compruebe si Salesforce bloquea la conexión de Sales Connect {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
-
-1. Inicie sesión en SFDC con el administrador de Salesforce.
-1. Seleccione **Configuración**.
-1. Seleccione **Administrar aplicaciones**.
-1. Seleccione **Uso de OAuth de aplicaciones conectadas**.
-1. Asegúrese de que Sales Connect muestra &quot;Bloque&quot; junto a él. Si ve &quot;Desbloquear&quot;, haga clic en el botón para desbloquear el acceso de Sales Connect a Salesforce.
+1. Pida a un administrador de Salesforce que inicie sesión en SFDC.
+1. Select **Configuración**.
+1. Select **Administrar aplicaciones**.
+1. Select **Uso de aplicaciones conectadas auth**.
+1. Asegúrese de que Sales Connect muestra el &quot;Bloque&quot; junto a él. Si ve &quot;Desbloquear&quot;, haga clic en el botón para desbloquear el acceso de Sales Connect a Salesforce.
