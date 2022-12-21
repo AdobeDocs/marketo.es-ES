@@ -3,7 +3,6 @@ unique-page-id: 2360317
 description: Asignar particiones de persona a espacios de trabajo - Documentos de Marketo - Documentación del producto
 title: Asignar particiones de persona a espacios de trabajo
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -25,9 +24,9 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
 >[!CAUTION]
 >
->Las Particiones de persona y espacios de trabajo pueden ser complejas. Póngase en contacto con [Soporte técnico de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener ayuda sobre la configuración.
+>Las Particiones de persona y espacios de trabajo pueden ser complejas. Póngase en contacto con  [Compatibilidad con Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener ayuda sobre su configuración.
 
-1. En Administración, haga clic en **Workspaces &amp; Partitions**.
+1. En Administración, haga clic en **Espacios de trabajo y particiones**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
@@ -43,7 +42,7 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
    ![](assets/three-3.png)
 
-   Las particiones de persona principal son la opción predeterminada en la que se introducen todas las personas. Utilice [pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para desplazar a las personas.
+   Las particiones de persona principal son la opción predeterminada en la que se introducen todas las personas. Uso [pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [reglas de asignación](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) para mover a la gente.
 
 1. Haga clic en **Guardar**.
 
@@ -53,7 +52,7 @@ A continuación se muestra cómo editar las asignaciones de partición de person
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-¡Felicidades! Ha editado correctamente el espacio de trabajo.
+¡Felicidades! Ha editado correctamente su espacio de trabajo.
 
 >[!MORELIKETHIS]
 >
