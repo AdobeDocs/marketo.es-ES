@@ -3,11 +3,10 @@ unique-page-id: 1147112
 description: 'Información sobre las etiquetas: Documentos de Marketo: Documentación del producto'
 title: Información sobre las etiquetas
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -23,7 +22,7 @@ Los tipos de etiquetas identifican el tipo de información que desea ordenar.
 
 >[!TIP]
 >
->Si desea crear etiquetas personalizadas, póngase en contacto con el [administrador de Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md).
+>Hable con su [Administrador de Marketo](/help/marketo/product-docs/administration/tags/create-custom-tags.md) si desea crear etiquetas personalizadas.
 
 >[!NOTE]
 >
@@ -49,7 +48,7 @@ Cada tipo de etiqueta tendrá valores para elegir.
 
 ## Canal {#channel}
 
-Los canales se utilizan para informar sobre cómo sus [miembros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) se trasladaron a través del programa. Cada canal tiene un conjunto de estados de progresión y un estado que se establece en igual éxito.
+Los canales se utilizan para informar sobre cómo [miembros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) ha pasado por su programa. Cada canal tiene un conjunto de estados de progresión y un estado que se establece en igual éxito.
 
 >[!NOTE]
 >
