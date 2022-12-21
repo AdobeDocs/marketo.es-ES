@@ -3,7 +3,6 @@ unique-page-id: 10095636
 description: Habilitar el no borrador para fragmentos - Marketo Docs - Documentación del producto
 title: Activar sin borrador para fragmentos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
@@ -25,23 +24,23 @@ No-Borrador está habilitado automáticamente para todas las funciones de admini
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya a **Admin** y haga clic en **Usuarios y funciones**.
+1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
 
    ![](assets/usersandroles.png)
 
-1. Vaya a la pestaña **Roles**, seleccione una función y haga clic en **Editar función**.
+1. Vaya a la **Funciones** , seleccione una función y haga clic en **Editar función**.
 
    ![](assets/editrole2.png)
 
-1. Expanda la opción **Access Design Studio**.
+1. Expanda el **Acceso a Design Studio** .
 
    ![](assets/expanddesignstudio.png)
 
-1. Expanda la opción **Fragmento de acceso**.
+1. Expanda el **Fragmento de acceso** .
 
    ![](assets/expandsnippet.png)
 
-1. Expanda el permiso **Aprobar fragmento** y marque la casilla **Sin borrador**. A continuación, haga clic en **Guardar**.
+1. Expanda el **Aprobar fragmento** permiso y comprobar **Sin borrador** en la ventana A continuación, haga clic en **Guardar**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
