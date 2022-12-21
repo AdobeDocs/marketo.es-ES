@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Una vez que haya creado su programa de participación, debe agregar contenido a los flujos. Puede añadir correos electrónicos o programas a un flujo.
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Seleccione su programa de participación y vaya a la pestaña **Streams**.
+1. Seleccione su programa de participación y vaya a la **Transmisiones** pestaña .
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -26,11 +26,11 @@ Una vez que haya creado su programa de participación, debe agregar contenido a 
 
 **Botón Agregar contenido**
 
-1. Haga clic en el botón **Add Content**.
+1. Haga clic en el **Añadir contenido** botón.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico o el programa/campaña inteligente que desee agregar.
+1. Choose **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico o la campaña programa/inteligente que desee añadir.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -40,13 +40,13 @@ Una vez que haya creado su programa de participación, debe agregar contenido a 
 
 **+ Icono**
 
-1. Haga clic en el icono **+**, elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico o el programa/campaña inteligente que desee agregar.
+1. Haga clic en el **+** icono, elija **Correo electrónico** _o_ **Programa** y, a continuación, seleccione el correo electrónico o la campaña programa/inteligente que desee añadir.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Una campaña inteligente debe contener el filtro **Member of Engagement Program** para que funcione correctamente.
+   >Una campaña inteligente debe contener la variable **Miembro del programa de participación** para que funcione correctamente.
 
 ¡bueno trabajo! Ahora sabe cómo añadir contenido a sus flujos de programas. Añada todo lo que necesite para su crianza. Consulte el artículo relacionado a continuación para obtener más información.
 
