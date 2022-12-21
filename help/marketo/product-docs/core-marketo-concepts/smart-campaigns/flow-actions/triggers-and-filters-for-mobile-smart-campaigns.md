@@ -3,11 +3,10 @@ unique-page-id: 9437991
 description: 'Déclencheur y filtros para campañas inteligentes móviles: Marketo Docs: documentación del producto'
 title: Déclencheur y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Puede configurar déclencheur y filtros para una campaña inteligente para aplicaciones móviles.
 
-Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Utilice filtros de inactividad para realizar el seguimiento de una acción, como pulsar una notificación push, que no se ha producido *ni*.
+Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Utilice filtros de inactividad para realizar el seguimiento de una acción, como pulsar una notificación push, que *no* ocurre.
 
 * La aplicación móvil está instalada o se instaló
 * Se abrió o abrió la aplicación móvil
@@ -27,7 +26,7 @@ Solo hay filtros para esta actividad:
 
 * Notificación push de se envió: filtro y filtro de inactividad
 
-Busque **mobile app** en el panel derecho para enumerar todos los déclencheur y filtros de aplicaciones móviles.
+Buscar **aplicación móvil** en el panel derecho para ver todos los déclencheur y filtros de la aplicación móvil.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
@@ -39,7 +38,7 @@ Utilice restricciones con déclencheur y filtros para clasificar aún más los d
 
 Todos los déclencheur y filtros, excepto la notificación push de se envió, contienen las dos restricciones estándar siguientes:
 
-* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android smartphone, Android tablet, Unknown (esta es una lista preestablecida)
+* Tipo de dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, Android Tablet, Desconocido (se trata de una lista preestablecida)
 
 * Plataforma: iPhone o Android
 
@@ -57,7 +56,7 @@ Algunos déclencheur y filtros ofrecen restricciones adicionales, como:
 
 * Duración de la sesión (segundos): Tiempo de sesión cuando la aplicación está en primer plano
 
-* Is Push Enabled - **True** significa que se pueden enviar notificaciones push. **** Falsemans que no pueden; por ejemplo, la persona puede haber optado por no recibir notificaciones push
+* Está habilitado para push - **True** significa que se pueden enviar notificaciones push. **False** significa que no pueden; por ejemplo, la persona puede haber optado por no recibir notificaciones push
 
 ## Déclencheur y filtros {#triggers-and-filters}
 
@@ -103,7 +102,7 @@ Se abrió o abrió la aplicación móvil
 
 Tiene o ha tenido una actividad de aplicación móvil
 
-Proporcionan una manera eficaz de rastrear la actividad móvil personalizada. Deberá trabajar con su desarrollador para configurar el seguimiento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) y [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Proporcionan una manera eficaz de rastrear la actividad móvil personalizada. Tendrá que trabajar con su desarrollador para configurar el seguimiento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) y [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Tiene actividad de aplicación móvil: déclencheur
 
@@ -129,7 +128,7 @@ Las restricciones de acción permiten utilizar el déclencheur y los filtros par
 >
 >**Ejemplo**
 >
->En el tipo de acción *Shopping*, aquí hay una acción muy específica, con las otras restricciones que la definen:
+>En el tipo de acción de *Compra*, aquí hay una acción muy específica, con las otras restricciones que la definen:
 >
 >* Compró una camisa
    >   * Era rojo
@@ -149,9 +148,9 @@ Este es el aspecto del filtro en Marketo:
 >
 >| Tipo de acción | Compra | Compra |
 >|---|---|---|
->| Acción | Camiseta comprada | Pantalones comprados |
+>| Accion | Camiseta comprada | Pantalones comprados |
 >| Detalles de la acción | Color | Color |
->| Métrica de acciones | Precio | Precio |
+>| Métrica de la acción | Precio | Precio |
 
 
 **Tiene o ha tenido una sesión de aplicación móvil**
@@ -182,11 +181,11 @@ Toque/Toque la notificación push
 >
 >Utilice el filtro de inactividad de notificación push no capturada para encontrar personas que no hayan tocado una notificación push recientemente enviada a ellas, de modo que pueda realizar el seguimiento por correo electrónico.
 
-**Se envió la** notificación pushEsta actividad solo está disponible como filtro.
+**Se envió notificación push** Esta actividad solo está disponible como filtro.
 
 * Notificación push de se envió: filtro
 
-* NO se envió la notificación push: filtro de inactividad
+* NO se envió notificación push: filtro de inactividad
 
 **Restricciones**: Notificaciones push y aplicación móvil
 
