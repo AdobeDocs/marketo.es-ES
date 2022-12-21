@@ -1,23 +1,22 @@
 ---
 unique-page-id: 15368205
-description: Cómo conectar las ventas a su Simulador para pruebas de Salesforce - Documentos de marketing - Documentación del producto
-title: Cómo conectar las ventas a su Simulador para pruebas de Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 'Conexión de ventas a su Simulador para pruebas de Salesforce: Documentos de Marketo: Documentación del producto'
+title: Conexión de ventas a su Simulador para pruebas de Salesforce
+exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
-# Cómo conectar las ventas a su Simulador para pruebas de Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
+# Conexión de ventas a su Simulador para pruebas de Salesforce {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->La cuenta de Sales Connect no se puede conectar a Salesforce al establecer una conexión con el simulador para pruebas. Si es así, [asegúrese de desconectar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir los pasos de este artículo.
+>La cuenta de Conexión de ventas no se puede conectar a Salesforce al establecer una conexión con el simulador de pruebas. Si es así, [asegúrese de desconectar](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir los pasos de este artículo.
 
-1. En Sales Connect, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
+1. En Conexión de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
    ![](assets/one-2.png)
 
@@ -29,13 +28,13 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. En la parte inferior de la página, haga clic en **Conectar con Simulador para pruebas**.
+1. En la parte inferior de la página, haga clic en **Conectar a Simulador para pruebas**.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Si ya ha iniciado sesión en su cuenta de Salesforce Sandbox, se le dirigirá a una página de autorización en la que deberá permitir el acceso. Si aún no ha iniciado sesión, continúe con el paso 5.
+   >Si ya ha iniciado sesión en su cuenta de Sandbox de Salesforce, se le dirigirá a una página de autorización en la que deberá permitir el acceso. Si aún no ha iniciado sesión, continúe con el paso 5.
 
 1. Introduzca el nombre de usuario y la contraseña de su cuenta de Sandbox de Salesforce.
 
