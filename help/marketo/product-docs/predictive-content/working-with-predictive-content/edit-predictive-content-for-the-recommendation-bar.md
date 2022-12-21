@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385942
-description: Editar contenido predictivo para la barra de recomendaciones - Documentos de marketing - Documentación del producto
+description: 'Editar contenido predictivo para la barra de recomendaciones: Marketo Docs: documentación del producto'
 title: Editar contenido predictivo para la barra de recomendaciones
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # Editar contenido predictivo para la barra de recomendaciones {#edit-predictive-content-for-the-recommendation-bar}
 
@@ -17,9 +16,9 @@ A continuación se muestra cómo configurar el contenido predictivo para la barr
 
 >[!PREREQUISITES]
 >
->El contenido debe [aprobarse para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido.
+>El contenido debe [aprobado para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) en la página Todo el contenido .
 
-1. En la página **Contenido predictivo**, haga clic en un título para abrir el editor.
+1. En el **Contenido predictivo** , haga clic en un título para abrir el editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
