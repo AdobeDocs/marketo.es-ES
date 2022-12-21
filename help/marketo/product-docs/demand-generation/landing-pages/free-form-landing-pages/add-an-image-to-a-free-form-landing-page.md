@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359703
-description: Añadir una imagen en una Página de aterrizaje de forma libre - Documentos de marketing - Documentación del producto
-title: Añadir una imagen en una Página de aterrizaje de forma libre
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: 'Agregar una imagen a una página de aterrizaje de forma libre: Marketo Docs: documentación del producto'
+title: Agregar una imagen a una página de aterrizaje de forma libre
+exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# Añadir una imagen en una Página de aterrizaje de forma libre {#add-an-image-to-a-free-form-landing-page}
+# Agregar una imagen a una página de aterrizaje de forma libre {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
->[Añadir imágenes y archivos para comercializar](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Agregar imágenes y archivos a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Seleccione la página de aterrizaje de forma libre y haga clic en **Editar** **Borrador**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. En el editor, arrastre el ratón sobre el elemento **Imagen**.
+1. En el editor, arrastre el ratón sobre la **Imagen** elemento.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,6 +32,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
-   ¡bueno trabajo! Acaba de agregar una imagen a la página de aterrizaje de forma libre.
+   ¡bueno trabajo! Acaba de añadir una imagen a la página de aterrizaje de forma libre.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
