@@ -77,7 +77,7 @@ Complete estas misiones para conocer las características básicas de Marketo En
 <tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
-      <img alt="Correo electrónico" src="getting-started/assets/getting-started-6.png" />
+      <img alt="Email" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importar una lista de personas</a>
@@ -103,7 +103,7 @@ Complete estas misiones para conocer las características básicas de Marketo En
   </td>
   <td>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">
-      <img alt="Correo electrónico" src="getting-started/assets/getting-started-9.png" />
+      <img alt="Email" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
     <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alerta al representante de ventas</a>
