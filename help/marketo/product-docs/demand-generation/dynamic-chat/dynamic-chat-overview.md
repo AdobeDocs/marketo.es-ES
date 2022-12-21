@@ -172,11 +172,11 @@ Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto
  <tr>
   <td>Conversaciones entabladas</td>
   <td>Número de conversaciones de chat con las que los visitantes web pueden participar cada día</td>
-  <td>1.000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Conversaciones activadas</td>
   <td>Número de conversaciones de chat que se pueden mostrar a los visitantes web por día</td>
-  <td>25.000</td>
+  <td>25,000</td>
  </tr>
 </table>
