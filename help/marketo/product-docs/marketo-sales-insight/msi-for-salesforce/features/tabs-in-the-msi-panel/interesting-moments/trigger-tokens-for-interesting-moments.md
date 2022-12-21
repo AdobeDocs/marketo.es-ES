@@ -3,7 +3,6 @@ unique-page-id: 1146999
 description: 'Tokens de déclencheur para momentos interesantes: Documentos de Marketo: documentación del producto'
 title: Tokens de déclencheur para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -15,11 +14,11 @@ ht-degree: 25%
 
 >[!PREREQUISITES]
 >
->Aprenda a utilizar el paso [Flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Aprenda a utilizar la variable [Paso de flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponibles {#available-tokens}
 
-Consulte [Información general de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
+Consulte [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens puede poner en un momento interesante.
 
 ## Tokens de déclencheur {#trigger-tokens}
 
@@ -804,9 +803,9 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 >[!NOTE]
 >
->Si no tiene una comprobación ![(visto)](assets/check.png) entonces devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene un cheque ![(visto)](assets/check.png) entonces devolverá una cadena vacía (nada) en el momento interesante.
 
-*El Déclencheur **Visitas a la página web** tiene algunos tokens adicionales:
+&#42;El Déclencheur **Página web de visitas** tiene algunos tokens adicionales:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
