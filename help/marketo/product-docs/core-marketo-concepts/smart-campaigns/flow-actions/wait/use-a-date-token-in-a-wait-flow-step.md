@@ -3,7 +3,6 @@ unique-page-id: 1146997
 description: 'Uso de un token de fecha en un paso de flujo de espera: Documentos de Marketo: Documentación del producto'
 title: Uso de un token de fecha en un paso de flujo de espera
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Utilizar un token de fecha en un paso de flujo de espera {#use-a-date-token-in-a-wait-flow-step}
+# Uso de un token de fecha en un paso de flujo de espera {#use-a-date-token-in-a-wait-flow-step}
 
 Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a través de una campaña inteligente hasta una fecha concreta que utilice un token de fecha. También puede modificar la fecha de finalización en un número de días.
 
@@ -19,7 +18,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 >
 >Esto solo se aplica a las campañas de déclencheur. No puede utilizar esta función en campañas por lotes.
 
-1. En la pestaña **Flow** de la campaña inteligente, arrastre el paso de flujo **Wait**.
+1. En su campaña inteligente **Flujo** , arrastre **Espera** paso de flujo.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +26,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. En la lista desplegable **Type**, seleccione **Date Token**.
+1. En el **Tipo** desplegable, seleccione **Token de fecha**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +53,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
    >[!NOTE]
    >
-   >También puede especificar el número de días utilizando un token `{{lead.` o `{{company.` que representa un campo entero o un token `{{my.` del tipo numérico.
+   >También puede especificar el número de días utilizando un `{{lead.` o `{{company.` token que representa un campo entero o un `{{my.` token de tipo numérico.
 
 1. Haga clic en **Guardar**.
 
