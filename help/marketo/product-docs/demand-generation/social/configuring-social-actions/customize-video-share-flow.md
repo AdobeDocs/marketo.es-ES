@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2950553
-description: Personalizar el flujo de recursos compartidos de vídeo - Documentos de marketing - Documentación del producto
-title: Personalizar flujo de recursos compartidos de vídeo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Personalizar el flujo de uso compartido de vídeo: Documentos de Marketo: Documentación del producto'
+title: Personalizar flujo de uso compartido de vídeo
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# Personalizar flujo de uso compartido de vídeo {#customize-video-share-flow}
 
-# Personalizar el flujo de recursos compartidos de vídeo {#customize-video-share-flow}
-
-Al [crear un recurso compartido de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), puede personalizar cuándo y dónde aparecerá el mensaje compartido.
+Cuando [crear un recurso compartido de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), puede personalizar cuándo y dónde aparecerá el mensaje para compartir.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -27,7 +26,7 @@ Al [crear un recurso compartido de vídeo](/help/marketo/product-docs/demand-gen
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
-1. Elija cuándo la aplicación solicita al usuario que comparta y dónde aparecerá ese mensaje.
+1. Elija cuándo le pedirá al usuario que comparta la aplicación y dónde aparecerá ese mensaje.
 
    ![](assets/image2014-9-22-16-3a41-3a20.png)
 
