@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359787
-description: Añadir un flujo - Documentos de marketing - Documentación del producto
+description: 'Añadir una emisión: Documentos de Marketo: Documentación del producto'
 title: Añadir un flujo
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
-
 
 # Añadir un flujo {#add-a-stream}
 
@@ -19,17 +18,17 @@ Los programas de participación pueden contener más de un flujo. Así es como a
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleccione el programa de participación y haga clic en la ficha **Flujos**.
+1. Seleccione su programa de participación y haga clic en el botón **Transmisiones** pestaña .
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Haga clic en **Añadir flujo**.
+1. Haga clic en **Agregar flujo**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 
    >[!NOTE]
    >
-   >Puede agregar hasta 25 flujos por programa de participación.
+   >Puede agregar hasta 25 transmisiones por programa de participación.
 
    Y... ¡listo!
 
