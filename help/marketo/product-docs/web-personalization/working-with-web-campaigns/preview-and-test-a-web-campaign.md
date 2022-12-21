@@ -24,7 +24,7 @@ Este artículo muestra distintas formas de obtener una vista previa de una campa
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Haga clic en **Crear nueva campaña web** o en el icono para editar una campaña existente.
+1. Haga clic en **Crear nueva campaña web** o el icono para editar una campaña existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
@@ -38,7 +38,7 @@ Este artículo muestra distintas formas de obtener una vista previa de una campa
 
    >[!NOTE]
    >
-   >También tiene la opción de instalar un complemento del explorador ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia y obtener una vista previa de la campaña. Consulte la siguiente sección.
+   >También tiene la opción de instalar un complemento del explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia y obtener una vista previa de la campaña. Consulte la siguiente sección.
 
 ## Vista preliminar de una campaña web en la página de creación mediante el complemento del explorador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -48,7 +48,7 @@ Este artículo muestra distintas formas de obtener una vista previa de una campa
 
    ![](assets/4-1.png)
 
-1. Se abre una nueva ventana o pestaña. Haga clic en **Agregar a Chrome**.
+1. Se abre una nueva ventana o pestaña. Haga clic en **Añadir a Chrome**.
 
    ![](assets/five.png)
 
@@ -56,7 +56,7 @@ Este artículo muestra distintas formas de obtener una vista previa de una campa
 
    ![](assets/six.png)
 
-1. Vuelva a Marketo. Añada la dirección URL de la página y haga clic en **Preview**.
+1. Vuelva a Marketo. Añada la dirección URL de la página y haga clic en **Vista previa**.
 
    ![](assets/seven.png)
 
@@ -66,7 +66,7 @@ Este artículo muestra distintas formas de obtener una vista previa de una campa
 
 ## Vista preliminar de una campaña web en la página Campañas web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Al consultar la lista de sus campañas web, simplemente elija una campaña y haga clic en el icono **Preview**.
+1. Al consultar la lista de sus campañas web, simplemente elija una campaña y haga clic en el botón **Vista previa** icono.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -76,7 +76,7 @@ Este artículo muestra distintas formas de obtener una vista previa de una campa
 
 Cree un segmento y una campaña de entorno limitado.
 
-1. Vaya a **Segments**.
+1. Vaya a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -86,7 +86,7 @@ Cree un segmento y una campaña de entorno limitado.
 
 1. Asigne un nombre al segmento.
 
-1. En Comportamiento, arrastre Incluir páginas al lienzo. Agregue el valor *sandbox=1*. Haga clic en **Guardar y definir campaña**.
+1. En Comportamiento, arrastre Incluir páginas al lienzo. Adición del valor &#42;sandbox=1&#42;. Haga clic en **Guardar y definir campaña**.
 
    ![](assets/segment.png)
 
@@ -108,4 +108,4 @@ Cree un segmento y una campaña de entorno limitado.
 
 >[!NOTE]
 >
->No se puede obtener una vista previa de las campañas de redireccionamiento. La única forma de probarlos es mediante un segmento de simulación de pruebas (que se orienta a páginas específicas: *sandbox=redirect*)
+>No se puede obtener una vista previa de las campañas de redireccionamiento. La única manera de probarlos es mediante un segmento de simulación de pruebas (que se orienta a páginas específicas). &#42;sandbox=redirect&#42;)
