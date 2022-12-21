@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359575
-description: Previsualización de un formulario - Documentos de marketing - Documentación del producto
-title: Previsualización de un formulario
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 'Vista previa de un formulario: Documentos de Marketo: Documentación del producto'
+title: Vista previa de un formulario
+exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-
-# Previsualización de un formulario {#preview-a-form}
+# Vista previa de un formulario {#preview-a-form}
 
 Antes de publicar, puede ver el formulario en esta vista previa rápida y sencilla.
 
@@ -23,20 +22,20 @@ Antes de publicar, puede ver el formulario en esta vista previa rápida y sencil
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. En **Acciones de formulario**, haga clic en **Previsualización**.
+1. En **Acciones de formulario**, haga clic en **Vista previa**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. El editor de formularios se abrirá en modo **previsualización**.
+1. El editor de formularios se abrirá en **vista previa** en el menú contextual.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Haga clic en **Editar borrador** para volver al modo **editar**.
+1. Haga clic en **Editar borrador** para volver a **editar** en el menú contextual.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Vuelva fácilmente haciendo clic en **Borrador de Previsualización**.
+1. Vuelva fácilmente haciendo clic en **Previsualizar borrador**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
-¿No fue tan fácil? Ahora ya sabe cómo previsualización el formulario a medida que realiza cambios.
+¿No fue tan fácil? Ahora sabe cómo previsualizar el formulario mientras realiza cambios.
