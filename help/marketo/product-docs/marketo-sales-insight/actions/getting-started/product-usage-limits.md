@@ -1,10 +1,11 @@
 ---
 description: Límites de uso del producto - Documentos de Marketo - Documentación del producto
 title: Límites de uso del producto
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '186'
+ht-degree: 16%
 
 ---
 
@@ -19,7 +20,7 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
  <tr>
   <td>Envíos de correo electrónico de ventas</td>
   <td>por usuario/día</td>
-  <td>1.000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Correo electrónico de ventas masivas</td>
@@ -29,7 +30,7 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
  <tr>
   <td>Plantillas de email</td>
   <td>por instancia</td>
-  <td>2.000</td>
+  <td>2,000</td>
  </tr>
  <tr>
   <td>Categorías de plantilla de correo electrónico</td>
