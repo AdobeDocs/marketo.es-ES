@@ -1,29 +1,28 @@
 ---
 unique-page-id: 14745823
-description: Creación de reglas de flujo de trabajo en Salesforce - Documentos de marketing - Documentación del producto
+description: Creación de reglas de flujo de trabajo en Salesforce - Marketo Docs - Documentación del producto
 title: Creación de reglas de flujo de trabajo en Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 0cfce178-453b-4949-96aa-c327278a267d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
-
 # Creación de reglas de flujo de trabajo en Salesforce {#creating-workflow-rules-in-salesforce}
 
-Cuando se utiliza Marketing to Sales Insight (MSI) y Marketing TO Sales Connect (MSC) en paralelo, la función MSI Best Bets de Salesforce no se actualizará. Todas las demás funciones de MSI funcionan como de costumbre (ver momentos interesantes en el iFrame, enviar correos electrónicos, agregar campañas, etc.). Este artículo oferta una solución alternativa para que Best Bets funcione de nuevo.
+Cuando se utiliza Marketo Sales Insight (MSI) y Marketo Sales Connect (MSC) en paralelo, la función MSI Best Bets de Salesforce no se actualiza. El resto de las funciones de MSI funcionan de la forma habitual (ver momentos interesantes en el iFrame, enviar correos electrónicos, agregar campañas, etc.). Este artículo ofrece una solución alternativa para que Best Bets vuelva a funcionar.
 
 >[!NOTE]
 >
->Esto solo afecta a los clientes que utilizan **tanto** MSI como MSE y que desean utilizar la función Best Bets en MSI. Si no necesita o no utiliza Best Bets, puede hacer caso omiso.
+>Esto solo afecta a los clientes que utilizan **both** MSI y MSE, y que desean utilizar la función Best Bets en MSI. Si no necesita/utiliza Best Bets, puede ignorar.
 
 ## Introducción {#getting-started}
 
-La solución consiste en crear nuevas reglas de flujo de trabajo para copiar valores de nuevos campos MSE en los campos MSI antiguos. Deberá crear cuatro reglas de flujo de trabajo para el objeto Contact y las mismas cuatro reglas de flujo de trabajo para el objeto Lead en su propia instancia de Salesforce. Esto puede requerir que tenga derechos de administrador de CRM (según su función y configuración en el CRM).
+La solución incluye la creación de nuevas reglas de flujo de trabajo para copiar valores de nuevos campos MSE en los campos MSI antiguos. Deberá crear cuatro reglas de flujo de trabajo para el objeto Contact y las mismas cuatro reglas de flujo de trabajo para el objeto Lead en su propia instancia de Salesforce. Esto puede requerir que tenga derechos de administrador de CRM (según su función y configuración en CRM).
 
-A continuación se indican los nombres recomendados de las reglas de flujo de trabajo y la descripción de cada una de ellas. Se aplican al objeto Contacto y posible cliente:
+A continuación se muestran los nombres recomendados de las reglas de flujo de trabajo y la descripción de cada una. Se aplican al objeto Contact and Lead :
 
 <table> 
  <colgroup> 
@@ -33,19 +32,19 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
  <tbody> 
   <tr> 
    <td>Actualizar el campo Desc de momento interesante</td> 
-   <td><p>Copiar de: Desc. de compromiso de último comerciante<br>Copiar en: Último momento interesante Desc</p></td> 
+   <td><p>Copiar desde: Última descripción de participación de Marketo<br>Copiar a: Último momento interesante Desc</p></td> 
   </tr> 
   <tr> 
    <td>Actualizar el campo Tipo de momento interesante</td> 
-   <td><p>Copiar de: Último tipo de compromiso de marketing<br>Copiar en: Último tipo de momento interesante</p></td> 
+   <td><p>Copiar desde: Último tipo de participación en Marketo<br>Copiar a: Último tipo de momento interesante</p></td> 
   </tr> 
   <tr> 
-   <td>Actualizar el campo Origen de momento interesante</td> 
-   <td><p>Copiar de: Origen de compromiso del último comerciante<br>Copiar en: Última fuente de momento interesante</p></td> 
+   <td>Actualizar el campo de origen de momento interesante</td> 
+   <td><p>Copiar desde: Última fuente de participación de Marketo<br>Copiar a: Última fuente de momento interesante</p></td> 
   </tr> 
   <tr> 
-   <td>Actualizar fecha de momento interesante, campo</td> 
-   <td><p>Copiar de: Fecha del último compromiso de marketing<br>Copiar en: Fecha del último momento interesante</p></td> 
+   <td>Actualizar el campo Fecha de momento interesante</td> 
+   <td><p>Copiar desde: Fecha de la última participación en Marketo<br>Copiar a: Última fecha de momento interesante</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -56,19 +55,19 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
 
    ![](assets/one-1.png)
 
-1. Seleccione **Nueva regla**.
+1. Select **Nueva regla**.
 
    ![](assets/two-1.png)
 
-1. Haga clic en la lista desplegable Objeto y seleccione **Posible cliente**, luego haga clic en **Siguiente**.
+1. Haga clic en la lista desplegable Objeto y seleccione **Posible cliente** y haga clic en **Siguiente**.
 
    ![](assets/three-1.png)
 
-1. Escriba &quot;Actualizar el campo Desc del momento interesante&quot; como nombre de regla. Seleccione el botón de radio **creado y cada vez que se edite**. En la lista desplegable Criterios de regla, seleccione **la fórmula se evalúa como true**. Busque y seleccione la función ISCHANGED. A continuación, resalte el valor de campo predeterminado y haga clic en **Insertar campo**.
+1. Introduzca &quot;Actualizar el campo Desc de Momento Interesante&quot; como Nombre de Regla. Seleccione el botón de radio **creado y cada vez que se edita**. En la lista desplegable Criterios de regla , seleccione **formula se evalúa como verdadero**. Busque y seleccione la función ISCHANGED . A continuación, resalte el valor predeterminado del campo y haga clic en **Insertar campo**.
 
    ![](assets/four-1.png)
 
-1. En la ventana emergente &quot;Insertar campo&quot;, elija **Desc. de compromiso de último marketing** y haga clic en **Insertar**.
+1. En la ventana emergente &quot;Insertar campo&quot;, seleccione **Última descripción de participación de Marketo** y haga clic en **Insertar**.
 
    ![](assets/five-1.png)
 
@@ -76,19 +75,19 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
 
    ![](assets/6.png)
 
-1. En la lista desplegable Añadir acción de flujo de trabajo, seleccione **Nueva actualización de campo**.
+1. En la lista desplegable Agregar acción de flujo de trabajo , seleccione **Actualización de campo nuevo**.
 
    ![](assets/seven.png)
 
-1. En el campo Nombre, escriba &quot;Actualizar el campo Desc de momento interesante&quot; (el nombre único se generará automáticamente). En la lista desplegable Campo que actualizar, elija **Desc. último momento interesante**. Seleccione el botón de opción **Utilice una fórmula para establecer el nuevo valor** y haga clic en **Mostrar editor de fórmulas**.
+1. En el campo Nombre, introduzca &quot;Actualizar campo de descripción de momento interesante&quot; (el nombre único se generará automáticamente). En la lista desplegable Campo para actualizar , elija **Último momento interesante Desc**. Seleccione el **Utilizar una fórmula para establecer un nuevo valor** botón de radio y, a continuación, haga clic en **Mostrar editor de fórmulas**.
 
    ![](assets/eight.png)
 
-1. Haga clic en el botón **Insertar campo**.
+1. Haga clic en el **Insertar campo** botón.
 
    ![](assets/9a.png)
 
-1. Seleccione **Desc. de compromiso del último comerciante** y haga clic en **Insertar**. En la página siguiente, haga clic en **Guardar**.
+1. Select **Última descripción de participación de Marketo** y haga clic en **Insertar**. En la página siguiente, haga clic en **Guardar**.
 
    ![](assets/nine.png)
 
@@ -100,4 +99,4 @@ A continuación se indican los nombres recomendados de las reglas de flujo de tr
 
    ![](assets/thirteen.png)
 
-   Después del último paso, puede clonar la regla de flujo de trabajo para los demás campos que se enumeran en la sección Introducción: Desc, Tipo, Origen, Fecha. Después de completar las cuatro reglas de flujo de trabajo en el objeto Contact, repita lo mismo para el objeto Lead.
+   Después del último paso, puede elegir clonar la regla de flujo de trabajo para los demás campos que aparecen en la sección Introducción : Desc, Tipo, Origen, Fecha. Después de completar las cuatro reglas de flujo de trabajo en el objeto Contact , repita lo mismo para el objeto Lead .
