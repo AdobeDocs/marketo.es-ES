@@ -3,7 +3,6 @@ unique-page-id: 1147122
 description: 'Administrar y ver miembros: documentos de Marketo: documentación del producto'
 title: Administrar y ver miembros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -17,13 +16,13 @@ Puede administrar y ver a sus miembros en sus programas mediante la pestaña Mie
 
 >[!NOTE]
 >
->Profundizar en [membresía del programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Profundizar en [abono al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Buscar un miembro {#search-for-a-member}
 
 En la parte inferior de la sección Miembros, utilice el campo de búsqueda para buscar miembros del programa por nombre, correo electrónico, puesto de trabajo o empresa.
 
-1. Haga clic en la pestaña **Members** del programa.
+1. Haga clic en el **Miembros** del programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -47,13 +46,13 @@ Haga clic con el botón derecho en el encabezado de la columna para ordenarla al
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Elija qué columnas son visibles en la cuadrícula {#choose-which-columns-are-visible-in-the-grid}
+## Elegir qué columnas son visibles en la cuadrícula {#choose-which-columns-are-visible-in-the-grid}
 
-1. Haga clic en la lista desplegable **View** y seleccione **Create View**.
+1. Haga clic en el **Ver** y seleccione **Crear vista**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Asigne un nombre a la vista personalizada. Seleccione los títulos de las columnas. Haga clic en **Add** y **Remove** para mover columnas y crear una vista.
+1. Asigne un nombre a la vista personalizada. Seleccione los títulos de las columnas. Haga clic en **Agregar** y **Eliminar** para mover columnas y crear una vista.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -61,9 +60,9 @@ Haga clic con el botón derecho en el encabezado de la columna para ordenarla al
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Filtrar la cuadrícula de miembros {#filter-the-members-grid}
+## Filtrar la cuadrícula de miembros  {#filter-the-members-grid}
 
-1. Haga clic en la lista desplegable **Filter** y seleccione un paso de progresión por el que ordenar.
+1. Haga clic en el **Filtro** y seleccione un paso de progresión para ordenarlo.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +70,11 @@ Haga clic con el botón derecho en el encabezado de la columna para ordenarla al
 
 Puede cambiar el estado de las personas dentro de la cuadrícula de miembros.
 
-1. Mantenga presionada la tecla **Ctrl/Cmd** y seleccione las personas.
+1. Mantenga presionado **Ctrl/Cmd** y seleccione las personas.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Haga clic en la lista desplegable **Change Status** y seleccione un estado.
+1. Haga clic en el **Cambiar estado** y seleccione un estado.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
