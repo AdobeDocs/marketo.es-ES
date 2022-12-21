@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Plantilla 2C {#template-2c}
 
-Haga clic con el botón derecho para [descargar plantilla 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Haga clic con el botón derecho para [Descargar plantilla 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
