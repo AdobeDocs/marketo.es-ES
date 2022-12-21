@@ -63,52 +63,52 @@ Si utiliza la solución de sincronización de CRM nativa de Marketo en Dynamics,
    <th colspan="1">Notas</th> 
   </tr> 
   <tr> 
-   <td colspan="1">3/2/22</td> 
+   <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
    <td colspan="1">Diseño de cuenta para perspectivas: Momentos interesantes, cambios de puntuación, actividades web, actividades de correo electrónico</td> 
   </tr>
   <tr> 
-   <td colspan="1">5/1/22</td> 
+   <td colspan="1">01/05/22</td> 
    <td colspan="1">2.0.0.26</td> 
    <td colspan="1">Puntuación de adopción de programa para enviar correo electrónico</td> 
   </tr>
   <tr> 
-   <td colspan="1">28/10/21</td> 
+   <td colspan="1">10/28/21</td> 
    <td colspan="1">2.0.0.25</td> 
    <td colspan="1">Métricas de puntuación de adopción de producto, nuevo panel global (Actividad web, correo electrónico, mejores apuestas)</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/2/21</td> 
+   <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
    <td colspan="1">Eliminación de la auditoría automática habilitada y cambios en la documentación de la solución MSI</td> 
   </tr>
   <tr> 
-   <td colspan="1">1/10/20</td> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Corrección de errores: Asignación del acceso a los campos de configuración de la API MSI para usuarios con la función Perspectiva de ventas</td> 
   </tr> 
   <tr> 
-   <td colspan="1">20/7/20</td> 
+   <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Corrección de errores: Añadir un mensaje de validación para registros no sincronizados</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12/6/20</td> 
+   <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
    <td colspan="1">Corrección de errores: Para ocultar la contraseña secreta de MSI en la configuración de la API de MSD</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26/5/20</td> 
+   <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1">Corrección de errores: Cambiar la validación de ID de rol MSI para mostrar botones MSI</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21/5/20</td> 
+   <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1">Corrección de errores: Mostrar el campo propietario y hacer que los campos no sean obligatorios</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28/4/20</td> 
+   <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1">Corrección de errores: Eliminación de la dependencia del vínculo de configuración del mapa del sitio de MSD CRM</td> 
   </tr> 
