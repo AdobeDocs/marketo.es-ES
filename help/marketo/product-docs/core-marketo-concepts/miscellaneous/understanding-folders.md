@@ -3,7 +3,6 @@ unique-page-id: 4720779
 description: 'Explicación de las carpetas: Documentos de Marketo: Documentación del producto'
 title: Explicación de las carpetas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
@@ -13,23 +12,23 @@ ht-degree: 0%
 
 # Explicación de las carpetas {#understanding-folders}
 
-Las carpetas dentro de un programa se pueden usar para organizar las campañas inteligentes y los recursos. Son diferentes de [carpetas de campaña](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Las carpetas dentro de un programa se pueden usar para organizar las campañas inteligentes y los recursos. Estos son diferentes de [carpetas de campaña](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Crear una carpeta {#create-a-folder}
 
-1. Vaya al área **Marketing Activities** .
+1. Vaya a la **Actividades de marketing** .
 
    ![](assets/ma.png)
 
-1. Haga clic con el botón derecho en un programa y seleccione **New Folder**.
+1. Haga clic con el botón derecho en un programa y seleccione **Nueva carpeta**.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. Asigne un nombre a la nueva carpeta y pulse **Enter**.
+1. Asigne un nombre a la nueva carpeta y pulse **Entrar**.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-¡bueno! Ahora tiene una nueva carpeta para almacenar los recursos locales.
+¡Excelente! Ahora tiene una nueva carpeta para almacenar los recursos locales.
 
 ## Cambiar el nombre de una carpeta {#rename-a-folder}
 
@@ -51,7 +50,7 @@ Está bien cambiar de opinión.
 >
 >Asegúrese de que la carpeta esté vacía antes de eliminarla.
 
-1. Haga clic con el botón derecho en la carpeta y seleccione **Delete Folder**.
+1. Haga clic con el botón derecho en la carpeta y seleccione **Eliminar carpeta**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -70,7 +69,7 @@ Al archivar una carpeta:
 * Las plantillas archivadas no están disponibles al crear un correo electrónico o una página de aterrizaje en Design Studio.
 * Las páginas archivadas no se pueden usar en grupos de prueba de página de aterrizaje
 
-Funcionalidad que **no** cambiará al archivar:
+Funcionalidad que **not** cambiar al archivar:
 
 * La búsqueda global todavía encuentra resultados en carpetas archivadas
 * Un recurso que está en uso seguirá funcionando incluso después de archivarlo
