@@ -3,7 +3,6 @@ unique-page-id: 1147100
 description: 'Navegación por la vista de programación del programa: documentos de Marketo: documentación del producto'
 title: Navegación por la vista Programación del Programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -17,11 +16,11 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 
 ## Buscar la vista de programación {#find-the-schedule-view}
 
-1. Vaya a **Marketing Activities**.
+1. Vaya a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa. Haga clic en la lista desplegable **View**. Seleccione **Schedule**.
+1. Seleccione el programa. Haga clic en el **Ver** lista desplegable. Select **Programación**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +50,7 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 
 ## Cambio entre modos {#changing-between-modes}
 
-1. Si hace clic en **3 semanas** o **mes** cambiarán las fechas visibles en la pantalla.
+1. Haga clic en **3 semanas** o **Mes** cambiará las fechas visibles en la pantalla.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -61,7 +60,7 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
 
-¡bueno! Ahora que saben cómo ver su programa, aprendamos otras cosas geniales que puede hacer.
+¡Excelente! Ahora que saben cómo ver su programa, aprendamos otras cosas geniales que puede hacer.
 
 >[!MORELIKETHIS]
 >
