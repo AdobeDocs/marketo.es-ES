@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Notas de la versión: Enero de 2014 {#release-notes-january}
 
-Las siguientes funciones se incluyen en la versión de enero de 2014. Compruebe la disponibilidad de las funciones en su [Marketo Edition](https://www.marketo.com/pricing/).
+Las siguientes funciones se incluyen en la versión de enero de 2014. Compruebe su [Marketo Edition](https://www.marketo.com/pricing/) para la disponibilidad de las funciones.
 
 ## Forms 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Atrás quedaron los días en que se extraía código html de los formularios col
 
 ## Límites de comunicación para el programa de correo electrónico {#communication-limits-for-email-program}
 
-[Establezca Límites de comunicación en un ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) programa de correo electrónico para asegurarse de que no se comunica demasiado con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
+[Establecer límites de comunicación en un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantizar que no se comunique de forma excesiva con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campos adicionales en el análisis de pertenencia a programas {#additional-fields-in-program-membership-analysis}
 
-Ahora puede agregar y agrupar sus métricas de [Análisis de pertenencia a programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por atributos de cliente y compañía. Por ejemplo, puede añadir el campo Industry para ver la división de los miembros del programa y los éxitos.
+Ahora puede agregar y agrupar su [Análisis de pertenencia al programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) métricas por atributos de cliente potencial y de empresa. Por ejemplo, puede añadir el campo Industry para ver la división de los miembros del programa y los éxitos.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
