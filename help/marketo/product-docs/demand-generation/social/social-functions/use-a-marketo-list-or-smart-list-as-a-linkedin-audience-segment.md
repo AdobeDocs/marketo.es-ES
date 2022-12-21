@@ -1,23 +1,22 @@
 ---
 unique-page-id: 7504180
-description: Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn - Documentos de marketing - Documentación del producto
-title: Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn: Documentos de Marketo: Documentación del producto'
+title: Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn
+exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
+# Usar una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-# Usar una Lista de marketing o una Lista inteligente como un segmento de Audiencia de LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
-
-Integre a las personas de Marketing con sus audiencias de LinkedIn.
+Integre a sus usuarios de Marketo con las audiencias de LinkedIn.
 
 >[!PREREQUISITES]
 >
->[Añadir Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Añadir audiencias coincidentes de LinkedIn como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. Vaya a la **Base de datos**.
 
@@ -27,40 +26,40 @@ Integre a las personas de Marketing con sus audiencias de LinkedIn.
 
    ![](assets/two.png)
 
-1. Haga clic en la ficha **Personas**.
+1. Haga clic en el **People** pestaña .
 
    ![](assets/three-1.png)
 
-1. Haga clic en el icono **Enviar por medio del puente de publicidad** ![—](assets/image2015-4-20-18-3a18-3a41.png) en la parte inferior de la lista.
+1. Haga clic en el **Enviar mediante puente publicitario** icono ![—](assets/image2015-4-20-18-3a18-3a41.png) en la parte inferior de la lista.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Al utilizar integraciones de red de publicidad para enviar una audiencia a LinkedIn, Marketing solo envía la dirección de correo electrónico.
+   >Al utilizar integraciones de red de publicidad para enviar una audiencia a LinkedIn, Marketo solo envía la dirección de correo electrónico.
 
-1. Seleccione **LinkedIn** y haga clic en **Siguiente**.
+1. Select **linkedIn** y haga clic en **Siguiente**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Seleccione una **Audiencia de LinkedIn**.
+1. Seleccione un **Audiencia de linkedIn**.
 
    >[!NOTE]
    >
-   >Al hacer clic en **+Nueva Audiencia** se creará una audiencia en el Administrador de Campañas de LinkedIn.
+   >Hacer clic **+Nueva audiencia** creará una audiencia en LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
    >[!NOTE]
    >
-   >LinkedIn dejó de utilizar las API utilizadas para el tipo de inserción &quot;Borrar audiencia y agregar leads&quot; en marzo de 2018. Esta opción ya no está disponible a partir de la versión del primer trimestre de 2018 de Marketing Cloud.
+   >linkedIn dejó de utilizar las API utilizadas para el tipo de notificación push &quot;Borrar audiencia y añadir posibles clientes&quot; en marzo de 2018. Esta opción ya no está disponible a partir de la versión del primer trimestre de 2018 de Marketo.
 
-1. Seleccione un **Tipo de inserción**. Haga clic en **Actualizar**.
+1. Seleccione un **Tipo de push**. Haga clic en **Actualizar**.
 
    ![](assets/7.png)
 
    >[!NOTE]
    >
-   >Espere 15 minutos para que se realice la sincronización.
+   >Espere 15 minutos para que se produzca la sincronización.
 
-¡Los cinco mejores! Sus datos ahora coincidirán con las audiencias de LinkedIn. Para obtener información sobre cómo cargar listas a LinkedIn para la segmentación de cuentas y contactos, visite [Centro de ayuda de soluciones de marketing de LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+¡Los cinco! Los datos ahora se combinarán con las audiencias de LinkedIn. Para obtener información sobre cómo cargar listas en LinkedIn para la segmentación de cuentas y contactos, visite [Centro de ayuda de Soluciones de marketing de linkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
