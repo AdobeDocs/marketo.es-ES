@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11382593
-description: Configuración de la personalización web para que no realice el seguimiento - Documentos de marketing - Documentación del producto
-title: Configuración de la personalización web para no rastrear
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: 'Configuración de la personalización web para que no realice el seguimiento: Documentos de Marketo: Documentación del producto'
+title: Configuración de la personalización web para que no rastree
+exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
 # Configuración de la personalización web para que no rastree {#setting-web-personalization-to-do-not-track}
 
-Los visitantes Web pueden configurar su explorador para evitar el seguimiento por cualquier sitio Web, eligiendo &quot;No rastrear&quot; (DNT). Esto evita el seguimiento de ese navegador y dispositivo en particular.
+Los visitantes web pueden configurar su navegador para evitar el seguimiento por cualquier sitio web, eligiendo &quot;No rastrear&quot; (DNT). Esto evita el seguimiento de ese explorador y dispositivo en particular.
 
-En Personalización web y contenido predictivo, un especialista en marketing puede configurar un conmutador para indicar si admite o ignora la configuración de No rastrear (DNT) del explorador. El alternador de cuentas está desactivado como predeterminado, lo que significa que la aplicación no respeta el DNT.
+En Personalización web y contenido predictivo, un especialista en marketing puede configurar un conmutador para indicar si se admite o ignora la configuración de No rastrear (DNT) del explorador. La opción de cuentas está desactivada de forma predeterminada, lo que significa que la aplicación no acepta el DNT.
 
 ## Habilitar o deshabilitar el alternador {#enable-or-disable-the-toggle}
 
@@ -23,14 +22,14 @@ En Personalización web y contenido predictivo, un especialista en marketing pue
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. En Configuración de dominio y dominio, seleccione **Activado** para habilitar el alternador Honor DNT.
+1. En Configuración de dominio y dominio, seleccione **Activado** para habilitar la opción Honor DNT.
 
    ![](assets/two-1.png)
 
-   Cuando la opción está activada, la personalización web respetará y admitirá la configuración de No rastrear (DNT) del explorador y no rastreará ninguna actividad web ni ejecutará ninguna campaña o recomendación de contenido en el sitio web.
+   Cuando la opción está activada, la personalización web respetará y admitirá la configuración de No rastrear (DNT) del explorador, y no rastreará ninguna actividad web ni ejecutará campañas ni recomendaciones de contenido en su sitio web.
 
    >[!NOTE]
    >
-   >Si se establece la opción Activado, puede afectar al valor y la funcionalidad de Marketing en áreas específicas.
+   >Si establece el conmutador en Activado, es posible que el valor y la funcionalidad de Marketo se vean afectados en áreas específicas.
 
-1. Para desactivar el botón Honor DNT y omitir la configuración de No hacer seguimiento (DNT) del explorador, seleccione **Desactivado** en Honor DNT.
+1. Para desactivar la opción Honor DNT e ignorar la configuración del navegador No rastrear (DNT), seleccione **Off** bajo Honor DNT.
