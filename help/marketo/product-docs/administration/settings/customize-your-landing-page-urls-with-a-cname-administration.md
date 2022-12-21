@@ -3,7 +3,6 @@ unique-page-id: 2360189
 description: 'Personalización de las direcciones URL de su página de aterrizaje con un CNAME (administración): documentos de Marketo: documentación del producto'
 title: Personalizar las direcciones URL de las páginas de aterrizaje con un CNAME (administración)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Personalizar las direcciones URL de su página de aterrizaje con un CNAME (administración) {#customize-your-landing-page-urls-with-a-cname-administration}
+# Personalizar las direcciones URL de las páginas de aterrizaje con un CNAME (administración) {#customize-your-landing-page-urls-with-a-cname-administration}
 
 Aunque Marketo aloje sus páginas de aterrizaje, la dirección URL debe personalizarse para su empresa.
 
@@ -35,7 +34,7 @@ Aunque Marketo aloje sus páginas de aterrizaje, la dirección URL debe personal
 
    Es la parte frontal de la URL. Ejemplos:
 
-   * **vaya**.YourCompany.com/NameOfPage.html
+   * **go**.YourCompany.com/NameOfPage.html
    * **información**.YourCompany.com/NameOfPage.html
    * **páginas**.YourCompany.com/NameOfPage.html
 
@@ -43,11 +42,11 @@ Aunque Marketo aloje sus páginas de aterrizaje, la dirección URL debe personal
 
 1. Busque la cadena de cuenta.
 
-1. Vaya al área **Admin** y haga clic en **Páginas de aterrizaje**.
+1. Vaya a la **Administrador** área y haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. En la ficha **Páginas de aterrizaje**, copie la cadena de cuenta en la sección Configuración .
+1. En el **Páginas de aterrizaje** , copie la cadena de cuenta en la sección Configuración .
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,21 +54,21 @@ Aunque Marketo aloje sus páginas de aterrizaje, la dirección URL debe personal
 
 1. Envíe la solicitud a TI.
 
-1. Pida a su personal de TI que configure el siguiente CNAME (reemplace la palabra [CNAME] y [CADENA DE CUENTA] por el texto del paso anterior):
+1. Pida a su personal de TI que configure el siguiente CNAME (reemplace la palabra [CNAME] y [CADENA DE CUENTA] con el texto del paso anterior):
 
-   [CNAME].YourCompany.com >  [CADENA DE CUENTA].mkToweb.com
+   [CNAME].YourCompany.com > [CADENA DE CUENTA].mktoweb.com
 
 1. Completar la configuración de CNAME.
 
-1. Una vez que su TI haya creado el CNAME, vaya a **Admin** y haga clic en **Páginas de aterrizaje**.
+1. Una vez que su TI haya creado el CNAME, vaya a **Administrador** y haga clic en **Páginas de aterrizaje**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. En la sección **Settings**, haga clic en **Edit**.
+1. En el **Configuración** , haga clic en **Editar**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Introduzca su CNAME en **Domain name for Landing Pages**, introduzca su **Fallback page**, introduzca su **Homepage** y haga clic en **Save**.
+1. Escriba su CNAME en **Nombre de dominio de las páginas de aterrizaje**, introduzca el **Página de reserva**, introduzca el **Página principal** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
