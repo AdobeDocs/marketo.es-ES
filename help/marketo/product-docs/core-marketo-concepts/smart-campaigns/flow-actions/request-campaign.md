@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2951703
 description: Campaña de solicitud - Documentos de Marketo - Documentación del producto
-title: Solicitud de campaña
+title: Solicitar campaña
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # Solicitar campaña {#request-campaign}
 
-Puede colocar personas en una campaña específica utilizando el paso de flujo único **Solicitar campaña**.
+Puede colocar personas en una campaña específica usando la variable **Solicitud de campaña** paso de flujo único.
 
 >[!NOTE]
 >
->La campaña en la que está colocando a la persona debe estar activa y tener el déclencheur **[Campaña es solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)**.
+>La campaña en la que está colocando a la persona debe estar activa y tener la variable **[Campaña es solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** déclencheur.
 
-1. En **Database**, busque y seleccione la persona o personas que desee.
+1. En el **Base de datos**, busque y seleccione la persona o personas que desee.
 
    ![](assets/one-5.png)
 
-1. Haga clic en **Acciones de persona**, pase el ratón sobre **Especial** y seleccione **Solicitar campaña**.
+1. Haga clic en **Acciones de persona**, pase el ratón sobre **Especial** y seleccione **Solicitud de campaña**.
 
    ![](assets/two-5.png)
 
@@ -43,4 +42,4 @@ Puede colocar personas en una campaña específica utilizando el paso de flujo �
 
 >[!TIP]
 >
->Utilice el déclencheur o filtro **Campaign is Requested** para encontrar las personas afectadas por este paso de flujo.
+>Utilice la variable **Campaña es solicitada** déclencheur o filtro para encontrar las personas afectadas por este paso de flujo.
