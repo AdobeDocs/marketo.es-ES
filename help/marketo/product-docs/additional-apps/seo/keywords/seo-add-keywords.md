@@ -3,7 +3,6 @@ unique-page-id: 2949204
 description: SEO - Agregar palabras clave - Documentos de Marketo - Documentación del producto
 title: SEO - Agregar palabras clave
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
@@ -17,9 +16,9 @@ Las palabras clave son frases que las personas escriben en los motores de búsqu
 
 >[!NOTE]
 >
->Si tiene muchas palabras clave, puede [importarlas con un archivo CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
+>Si tiene muchas palabras clave, puede [importarlos con un archivo CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Vaya a la sección **Palabras clave**.
+1. Vaya a la **Palabras clave** para obtener más información.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
