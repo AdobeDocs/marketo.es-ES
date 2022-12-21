@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: 'Filtros preferidos: Documentos de Marketo: Documentación del producto'
 title: Filtros vinculados
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # Filtros vinculados {#inferred-filters}
 
-Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena. Echa un vistazo.
+Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena.
+
+>[!NOTE]
+>
+>Para garantizar que los valores de campo inferidos permanezcan actualizados, actualizamos periódicamente la base de datos que se utiliza para las búsquedas de direcciones IP. Las actualizaciones de la base de datos pueden introducir nuevos valores de campo inferidos que puede que necesite agregar a las definiciones de filtro de lista inteligente.
+>
+>Las actualizaciones de la base de datos pueden producirse durante un [versión del producto del Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Cuando se produce una actualización, la variable [Notas de la versión del Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} contendrá una explicación de los cambios realizados en los valores de campo inferidos.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
