@@ -1,43 +1,42 @@
 ---
 unique-page-id: 4718672
-description: Uso de Transiciones del modelo de ingresos - Documentos de marketing - Documentación del producto
-title: Uso de Transiciones del modelo de ingresos
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Uso de transiciones del modelo de ingresos - Documentos de Marketo - Documentación del producto
+title: Uso de transiciones del modelo de ingresos
+exl-id: c658b631-b849-438a-b412-63ffd41e4c85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
-# Uso de Transiciones del modelo de ingresos {#using-revenue-model-transitions}
+# Uso de transiciones del modelo de ingresos {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
 >[Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora de establecer las transiciones.
+Al crear el modelo y seleccionar y organizar las etapas de inventario, es hora de establecer las transiciones.
 
 ![](assets/one-2.png)
 
-1. Haga clic con el botón derecho (también puede hacer clic con el doble) en una de las flechas para comenzar y seleccione **Editar Transición**.
+1. Haga clic con el botón derecho (también puede hacer doble clic) en una de las flechas para comenzar y seleccione **Editar transición**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Las reglas de transición &#39;Anonymous  Known&#39; no se pueden editar.
+   >Las reglas de transición &#39;Anonymous SWIFTNet Known&#39; no se pueden editar.
 
-1. Se abrirá una nueva ficha para la transición seleccionada.
+1. Se abrirá una nueva pestaña para la transición seleccionada.
 
    ![](assets/three-1.png)
 
-1. Las transiciones controlan cómo se mueven los leads entre etapas. Arrastre el déclencheur (o el filtro) de su elección desde la derecha y suelte en cualquier lugar en el lienzo. En este ejemplo, seleccionaremos el déclencheur Rellenar formulario.
+1. Las transiciones controlan cómo se mueven los posibles clientes entre etapas. Arrastre el déclencheur (o filtro) de su elección desde la derecha y libere en cualquier lugar del lienzo. En este ejemplo, seleccione el déclencheur Rellenar formulario .
 
    >[!TIP]
    >
-   >Dado que el modelador de ingresos está configurando para sistemas de informes, se recomienda que las transiciones siempre incluyan déclencheur. De este modo, los informes reflejarán la verdadera velocidad del flujo de etapas/modelos. Se pueden agregar filtros con los déclencheur para restricciones adicionales.
+   >Como el modelador de ingresos está configurando para los informes, se recomienda que las transiciones siempre incluyan déclencheur. De este modo, los informes reflejarán la velocidad real del flujo del modelo/escenario. Los filtros se pueden agregar con los déclencheur para obtener restricciones adicionales.
 
    ![](assets/four-2.png)
 
@@ -49,20 +48,20 @@ Al crear el modelo y seleccionar y organizar las etapas del inventario, es hora 
 
    ![](assets/six.png)
 
-1. En la parte inferior de la pantalla verá las reglas de transición.
+1. En la parte inferior de la pantalla, ahora verá las reglas de transición.
 
    ![](assets/seven.png)
 
-1. Una vez que haya configurado las reglas para todas sus transiciones, haga clic en **Validar** para verificarlas.
+1. Una vez que haya configurado las reglas para todas las transiciones, haga clic en **Validar** para verificar.
 
    ![](assets/eight.png)
 
-1. Si lo hace correctamente, verá el siguiente mensaje.
+1. Si se realiza correctamente, verá el siguiente mensaje.
 
    ![](assets/nine.png)
 
-¡Bien hecho! Ha modificado correctamente sus transiciones de modelo.
+¡Bien hecho! Ha modificado correctamente las transiciones del modelo.
 
 >[!MORELIKETHIS]
 >
->[Aprobar o desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[Aprobar/desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
