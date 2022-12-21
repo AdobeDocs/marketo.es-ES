@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2359596
-description: Habilitar/deshabilitar límites de comunicación en un Programa de correo electrónico - Documentos de marketing - Documentación del producto
-title: Habilitar/deshabilitar límites de comunicación en un Programa de correo electrónico
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+description: 'Habilitar/deshabilitar los límites de comunicación en un programa de correo electrónico: documentos de Marketo: documentación del producto'
+title: Habilitar/deshabilitar los límites de comunicación en un programa de correo electrónico
+exl-id: 25427978-33a0-4153-ad66-b34f9549e794
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
+# Habilitar/deshabilitar los límites de comunicación en un programa de correo electrónico {#enable-disable-communication-limits-in-an-email-program}
 
-# Habilitar/deshabilitar límites de comunicación en un Programa de correo electrónico {#enable-disable-communication-limits-in-an-email-program}
-
-Al ejecutar un programa de correo electrónico, puede elegir ignorar o respetar los [límites de comunicación de nivel de administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Así es como hacerlo.
+Al ejecutar un programa de correo electrónico, puede elegir ignorar o respetar el [límites de comunicación de nivel de administrador](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Así es como hacerlo.
 
 >[!NOTE]
 >
->Los límites de comunicación se [establecen en la sección Administración](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) y le ayudan a evitar enviar demasiados correos electrónicos a una persona.
+>Los límites de comunicación son [se establece en la sección Administración](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) y le ayuda a evitar enviar demasiados correos electrónicos a una persona.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -27,12 +26,12 @@ Al ejecutar un programa de correo electrónico, puede elegir ignorar o respetar 
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. En la ficha **Configuración**, haga clic con el doble en el elemento de línea de límite de comunicaciones.
+1. En el **Configuración** , haga doble clic en el elemento de línea límite de comunicación.
 
    ![](assets/blockoperational.png)
 
-1. De forma predeterminada, los correos electrónicos no operativos se bloquean si se alcanzan los límites de comunicación, pero si desea omitirlos, desactive la casilla y haga clic en **Guardar**.
+1. De forma predeterminada, los correos electrónicos no operativos se bloquean si se alcanzan los límites de comunicación, pero si desea omitirlos, desactive la casilla de verificación y haga clic en **Guardar**.
 
    ![](assets/ifaperson.jpg)
 
-   Si se deja **Bloquear correos electrónicos no operativos** marcado evitará enviar el correo electrónico a cualquier persona que haya recibido más correos electrónicos de los que permite la configuración de administración.
+   Dejar **Bloquear correos electrónicos no operativos** marcada evitará enviar el correo electrónico a cualquier persona que haya recibido más correos electrónicos de los que permite la configuración de administración.
