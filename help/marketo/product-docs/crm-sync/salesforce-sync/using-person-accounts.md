@@ -32,15 +32,15 @@ Una cuenta de persona se sincroniza con Marketo como empresa y como persona.
 
 ## ¿Cómo diferencio las cuentas de empresa y las cuentas de persona? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilice el filtro **Es cuenta de persona** de la lista inteligente para separar las cuentas de persona de las cuentas empresariales estándar.
+Utilice la variable **Es cuenta de persona** filtre en la lista inteligente para separar cuentas de persona de cuentas empresariales estándar.
 
 ## ¿Dónde se muestra la información de mis cuentas personales en Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Las actividades relacionadas con cuentas de persona se muestran en el panel **Cuenta**.
+Las actividades relacionadas con cuentas de persona se muestran en la **Cuenta** panel.
 
 >[!NOTE]
 >
->Las opciones **Add to Marketo Campaign** y **Send Email** de Marketo Sales Insight no están disponibles actualmente para cuentas de persona.
+>Perspectiva de ventas de Marketo **Añadir a Marketo Campaign** y **Enviar correo electrónico** actualmente no están disponibles para cuentas de persona.
 
 ## ¿Cómo asocio oportunidades a una cuenta de persona? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo depende de la función de contacto de oportunidad para determinar a qué
 
 ## ¿Qué campo de correo electrónico debo usar para las cuentas de persona? {#which-email-field-should-i-use-for-person-accounts}
 
-Hay dos campos de correo electrónico para una cuenta de persona. Utilice el campo **Email Address** de los formularios (no el **Person Email Address**) para garantizar que la deduplicación de Marketo y el procesamiento de otros correos electrónicos funcionen correctamente.
+Hay dos campos de correo electrónico para una cuenta de persona. Utilice la variable **Dirección de correo electrónico** en los formularios (no el **Dirección de correo electrónico de la persona**) para garantizar que la deduplicación de Marketo y el procesamiento de otros correos electrónicos funcionen correctamente.
