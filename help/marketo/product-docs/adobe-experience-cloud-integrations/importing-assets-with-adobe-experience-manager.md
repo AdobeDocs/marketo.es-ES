@@ -5,7 +5,7 @@ title: Importación de recursos con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
