@@ -16,7 +16,7 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
 >[!AVAILABILITY]
 >
->Están disponibles solo para los clientes de [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) y Marketo Sales Connect .
+>Están disponibles para [Perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) y clientes de Marketo Sales Connect únicamente.
 
 ## ¿Qué es un momento interesante? {#what-is-an-interesting-moment}
 
@@ -28,19 +28,19 @@ Los momentos interesantes son la clave para comunicarse con su equipo de ventas 
 
 ## ¿Cómo creo un momento interesante? {#how-do-i-create-an-interesting-moment}
 
-1. Elija una [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferiblemente una que su equipo de ventas encontrará interesante si se activa.
+1. Elija un [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), preferiblemente uno de sus equipos de ventas encontraría interesante si se activara.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Arrastre el paso de flujo **Momentos interesantes**.
+1. Arrastre el ratón sobre la **Momentos interesantes** paso de flujo.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. Seleccione un **tipo** (Correo electrónico, Milestone o Web).
+1. Seleccione un **type** (Correo electrónico, Milestone o Web).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Escriba un mensaje al equipo de ventas en el campo **Description** que explique por qué esta acción importa.
+1. Escriba un mensaje a su equipo de ventas en la **Descripción** campo que explica por qué esta acción importa.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
