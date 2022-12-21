@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2359953
-description: Personas que han caducado el contenido - Documentos de marketing - Documentación del producto
-title: Personas que han caducado el contenido
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: 'Personas Que Han Agotado El Contenido: Documentos De Marketo: Documentación Del Producto'
+title: Personas que han agotado el contenido
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-
 # Personas que han agotado el contenido {#people-who-have-exhausted-content}
 
-Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agotado todas las posibilidades y esperará inactiva hasta que se agregue más. Se puede encontrar personas que están &quot;agotadas&quot; de varias maneras.
+Cuando una persona ha recibido cada parte de contenido en un flujo, ha agotado todas las posibilidades y espera inactivo hasta que se añada más. Se puede encontrar gente que está &quot;agotada&quot; de varias maneras.
 
-## Miembro del filtro de Programa de compromiso {#member-of-engagement-program-filter}
+## Miembro del filtro del Programa de participación {#member-of-engagement-program-filter}
 
-1. Cree una nueva lista inteligente, luego busque y arrastre el Programa **Miembro de compromiso**.
+1. Cree una nueva lista inteligente y, a continuación, busque y arrastre el **Miembro del programa de participación** filtro.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
-1. Encuentre y seleccione el programa de participación en el cual encontrar personas agotadas.
+1. Encuentre y seleccione el programa de participación en el que encontrará personas agotadas.
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. En **Añadir restricción**, seleccione **Contenido agotado**.
+1. En **Agregar restricción**, seleccione **Contenido agotado**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Establezca **Contenido agotado** en **true**.
+1. Establezca **Contenido agotado** a **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -41,19 +40,19 @@ Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agota
 
    ![](assets/ma.png)
 
-1. Seleccione el programa de participación y vaya a la ficha **Miembros**.
+1. Seleccione su programa de participación y vaya a la **Miembros** pestaña .
 
    ![](assets/memberstab.jpg)
 
-1. Observe la columna denominada **Contenido agotado**.
+1. Observe la columna llamada **Contenido agotado**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   Esto muestra a las personas que han agotado todo el contenido y a las que no lo han hecho.
+   Esto le muestra a las personas que han agotado todo el contenido y a las que no lo han hecho.
 
-## Flujo {#stream}
+## Secuencia {#stream}
 
-1. También puede ver el total de personas que han agotado el contenido en la ficha Flujos del flujo en sí.
+1. También puede ver el total de personas que han agotado el contenido en la ficha Emisiones del propio flujo.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 
