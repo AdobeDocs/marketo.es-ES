@@ -3,7 +3,6 @@ unique-page-id: 8781974
 description: Explicación de las tarjetas de eventos - Documentos de Marketo - Documentación del producto
 title: Información sobre las tarjetas de eventos
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Explicación de las tarjetas de eventos {#understanding-event-cards}
+# Información sobre las tarjetas de eventos {#understanding-event-cards}
 
-Utilice Marketo Moments para ver los programas de eventos en su teléfono o iPad.
+Utilice Momentos de Marketo para ver los programas de eventos en su teléfono o iPad.
 
 Al pulsar cualquier tarjeta del programa de correo electrónico, puede:
 
