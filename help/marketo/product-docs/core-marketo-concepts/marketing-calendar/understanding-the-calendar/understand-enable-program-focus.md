@@ -3,7 +3,6 @@ unique-page-id: 2953364
 description: 'Comprender/Habilitar el enfoque del programa: Documentos de Marketo: Documentación del producto'
 title: Entender/activar el enfoque del programa
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Entender/activar el enfoque del programa {#understand-enable-program-focus}
 
-El calendario de marketing le ofrece una vista de pájaro de las cosas, pero también permite algunas interacciones. Puede [crear](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [eliminar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) y [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interactuar con las entradas, primero debe centrarse en un programa.
+El calendario de marketing le ofrece una vista de pájaro de las cosas, pero también permite algunas interacciones. Puede [crear](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)y [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) entradas. Para interactuar con las entradas, primero debe centrarse en un programa.
 
-1. Vaya al **Calendario de marketing**.
+1. Vaya a la **Calendario de marketing**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
