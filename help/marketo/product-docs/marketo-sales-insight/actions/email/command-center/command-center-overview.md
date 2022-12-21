@@ -4,8 +4,8 @@ title: Información general del centro de comandos
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '488'
+ht-degree: 2%
 
 ---
 
@@ -47,7 +47,7 @@ La sección de correo electrónico le proporciona una vista de pájaro en todos 
   <strong>Nota</strong>: Solo se pueden guardar como borradores correos electrónicos únicos. Los correos electrónicos masivos (Seleccionar y Enviar correos electrónicos y Correos electrónicos de grupo) no se guardarán como borradores.</td>
  </tr>
  <tr>
-  <td>en curso</td>
+  <td>En progreso</td>
   <td>Este es un estado intermedio en el que los correos electrónicos entran cuando están en el movimiento de envío. Los correos electrónicos solo deben estar en curso durante unos momentos.</td>
  </tr>
  <tr>
