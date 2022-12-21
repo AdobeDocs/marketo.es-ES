@@ -1,58 +1,57 @@
 ---
 unique-page-id: 7514009
-description: Explicación del área de Análisis de la etapa de ingresos de Programa - Documentos de marketing - Documentación del producto
-title: Explicación del área de Análisis de la etapa de ingresos de Programa
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: 'Explicación del área de análisis de la fase de ingresos del programa: documentos de Marketo: documentación del producto'
+title: Explicación del área de análisis de fase de ingresos del programa
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
+# Explicación del área de análisis de fase de ingresos del programa {#understanding-the-program-revenue-stage-analysis-area}
 
-# Explicación del área de Análisis de la etapa de ingresos de Programa {#understanding-the-program-revenue-stage-analysis-area}
+Esta área de análisis le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal. Proporciona perspectivas sobre cuántos de los nuevos nombres generados han alcanzado etapas de ruta de éxito concretas dentro del modelo de ciclo de ingresos.
 
-Esta área de análisis le permite analizar la efectividad de programas individuales o ver los resultados resumidos por canal. Proporciona perspectivas sobre cuántos de los nuevos nombres generados han alcanzado determinadas etapas de ruta de éxito dentro del modelo de ciclo de ingresos.
-
-**Algunas de las preguntas comerciales que puede responder con esta área de análisis son**:
+**Algunas preguntas comerciales de ejemplo que puede responder con esta área de análisis incluyen**:
 
 ¿Cuántos nombres nuevos de un programa determinado han llegado a una etapa específica de mi modelo?
 
 ![](assets/one-3.png)
 
-¿Cuántos nombres nuevos de un programa determinado se encuentran actualmente en una fase específica de mi modelo?
+¿Cuántos nombres nuevos de un programa dado están actualmente en una etapa específica de mi modelo?
 
 ![](assets/two-3.png)
 
-¿Cuántos días se toman pistas para llegar a su etapa actual?
+¿Cuántos días se tardan en llegar a su etapa actual?
 
 ![](assets/three-3.png)
 
-**Dimension y medidas de la etapa de Análisis de ingresos de programa**
+**Dimension y medidas del análisis de fase de ingresos del programa**
 
-Los Dimension y las medidas se categorizan por funcionalidad y están representados por puntos amarillos o azules en el sistema: amarillo para las dimensiones y azul para las medidas. Utilice las dimensiones y medidas de análisis de la etapa de ingresos de programas para responder preguntas específicas en el informe.
+Los Dimension y las medidas se categorizan por funcionalidad y se representan por puntos amarillos o azules en el sistema: amarillo para dimensiones y azul para medidas. Utilice dimensiones y medidas de análisis de fase de ingresos del programa para responder preguntas específicas en su informe.
 
-Para vista de dimensiones o medidas disponibles dentro de una categoría, haga clic en la flecha derecha junto al nombre de una categoría para expandir la lista de categoría. Haga clic en la flecha hacia abajo para contraer la lista de categoría.
+Para ver las dimensiones o medidas disponibles dentro de una categoría, haga clic en la flecha derecha junto al nombre de una categoría para expandir la lista de categorías. Haga clic en la flecha hacia abajo para contraer la lista de categorías.
 
 >[!TIP]
 >
->Para obtener más información sobre una dimensión o medida en particular durante el informe, pase el ratón por encima.
+>Para obtener más información sobre una dimensión o medida en particular durante el informe, pase el ratón sobre ella.
 
 **Atributos de modelo**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Dimension</strong></td> 
+   <td colspan="1" rowspan="1"><strong>Dimensión</strong></td> 
    <td colspan="1" rowspan="1"><p><strong>Descripción</strong></p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Está activo el modelo</p></td> 
-   <td colspan="1" rowspan="1"><p>Describe si el modelo está actualmente aprobado y activo</p></td> 
+   <td colspan="1" rowspan="1"><p>Describe si el modelo está aprobado actualmente y activo</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Está activo en la etapa</p></td> 
+   <td colspan="1" rowspan="1"><p>Está activo en el escenario</p></td> 
    <td colspan="1" rowspan="1"><p>Describe si el escenario está activo</p></td> 
   </tr> 
   <tr> 
@@ -64,27 +63,27 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
    <td colspan="1" rowspan="1"><p>Nombre del modelo</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Fase</p></td> 
-   <td colspan="1" rowspan="1"><p>Las etapas que existen en el modelo de ciclo de ingresos. Se utiliza como la etapa Desde cuando se analizan medidas entre dos etapas</p></td> 
+   <td colspan="1" rowspan="1"><p>Etapa</p></td> 
+   <td colspan="1" rowspan="1"><p>Las etapas que existen en el modelo de ciclo de ingresos. Se utiliza como la fase De cuando se analizan medidas entre dos etapas</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Tipo de etapa</p></td> 
+   <td colspan="1" rowspan="1"><p>Tipo de escenario</p></td> 
    <td colspan="1" rowspan="1"><p>Describe qué tipo; Inventario, SLA o Puerta cada etapa es</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Atributos de programa**
+**Atributos del programa**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Dimensión</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Descripción</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Canal programa</p></td> 
-   <td colspan="1" rowspan="1"><p>Canal programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Programa Canal</p></td> 
+   <td colspan="1" rowspan="1"><p>Canal de programa</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nombre del programa</p></td> 
@@ -93,30 +92,30 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
  </tbody> 
 </table>
 
-**Intervalo de tiempo de costo de programa**
+**Intervalo de tiempo del costo del programa**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Dimensión</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Descripción</strong></p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Año de costo</p></td> 
-   <td colspan="1" rowspan="1"><p>Intervalo de tiempo de costo de programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Año de coste</p></td> 
+   <td colspan="1" rowspan="1"><p>Período de tiempo del costo del programa</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Trimestre de costos</p></td> 
-   <td colspan="1" rowspan="1"><p>Intervalo de tiempo de costo de programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Trimestre de coste</p></td> 
+   <td colspan="1" rowspan="1"><p>Período de tiempo del costo del programa</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Mes de costo</p></td> 
-   <td colspan="1" rowspan="1"><p>Intervalo de tiempo de costo de programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Mes de coste</p></td> 
+   <td colspan="1" rowspan="1"><p>Período de tiempo del costo del programa</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Membresía de la etapa**
+**Pertenencia a la fase**
 
 <table> 
  <tbody> 
@@ -126,10 +125,10 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Está activo el modelo</p></td> 
-   <td colspan="1" rowspan="1"><p>Describe si el modelo está actualmente aprobado y activo</p></td> 
+   <td colspan="1" rowspan="1"><p>Describe si el modelo está aprobado actualmente y activo</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Está activo en la etapa</p></td> 
+   <td colspan="1" rowspan="1"><p>Está activo en el escenario</p></td> 
    <td colspan="1" rowspan="1"><p>Describe si el escenario está activo</p></td> 
   </tr> 
   <tr> 
@@ -138,11 +137,11 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Costo por nombre nuevo</p></td> 
-   <td colspan="1" rowspan="1"><p>El costo promedio de un nuevo nombre que ha llegado a la etapa</p></td> 
+   <td colspan="1" rowspan="1"><p>El coste promedio de un nuevo nombre que haya llegado a la etapa</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Nombres nuevos (actuales)</p></td> 
-   <td colspan="1" rowspan="1"><p>Número total de posibles clientes que se encuentran actualmente en la etapa y que fueron adquiridos por el programa</p></td> 
+   <td colspan="1" rowspan="1"><p>Nuevos nombres (actual)</p></td> 
+   <td colspan="1" rowspan="1"><p>Número total de posibles clientes que se encuentran actualmente en la etapa y que han sido adquiridos por el programa</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Nuevos nombres (siempre)</p></td> 
@@ -153,4 +152,4 @@ Para vista de dimensiones o medidas disponibles dentro de una categoría, haga c
 
 >[!MORELIKETHIS]
 >
->[Crear un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Creación de un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
