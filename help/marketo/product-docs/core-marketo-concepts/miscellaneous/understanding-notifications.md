@@ -32,16 +32,16 @@ Puede suscribirse a las notificaciones para recibirlas en su correo electrónico
 
    ![](assets/understanding-notifications-3.png)
 
-1. Seleccione el tipo de notificación e introduzca las direcciones de correo electrónico a las que desea enviar las notificaciones (separadas por coma). Haga clic en **Suscribirse** cuando termine.
+1. Seleccione el tipo de notificación e introduzca las direcciones de correo electrónico a las que desea enviar las notificaciones (separadas por coma). Haga clic en **Suscribirse** cuando haya terminado.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->El área **send to** solo permite introducir el correo electrónico, no muestra una lista de suscriptores existentes.
+>La variable **enviar a** es solo para que usted introduzca su correo electrónico, no mostrará una lista de suscriptores existentes.
 
 En algunos casos, una notificación proporciona un vínculo &quot;Ver la lista completa&quot; para descargar un archivo de valores separados por comas (CSV), por ejemplo, el archivo de errores de sincronización de Microsoft Dynamics. Marketo conserva estos archivos CSV durante 30 días. Si intenta descargar el archivo después de 30 días, obtendrá un error 404.
 
 >[!TIP]
 >
->¿Desea cancelar la suscripción de los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el enlace **unsubscribe from Notifications** en la parte inferior del correo electrónico.
+>¿Desea cancelar la suscripción de los correos electrónicos de notificación? No hay problema. Simplemente haga clic en el **cancelar suscripción a Notificaciones** en la parte inferior del correo electrónico.
