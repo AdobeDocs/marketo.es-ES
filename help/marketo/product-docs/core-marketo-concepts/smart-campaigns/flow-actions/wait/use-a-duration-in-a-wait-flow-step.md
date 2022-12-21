@@ -3,7 +3,6 @@ unique-page-id: 1146978
 description: 'Uso de una duración en un paso de flujo de espera: Documentos de Marketo: Documentación del producto'
 title: Usar una duración en un paso de flujo de espera
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a través de una campaña inteligente durante un tiempo determinado. También puede especificar criterios para el día de la semana y la hora en que finaliza.
 
-1. En la pestaña **Flow** de la campaña inteligente, arrastre el paso de flujo **Wait**.
+1. En su campaña inteligente **Flujo** , arrastre **Espera** paso de flujo.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -41,7 +40,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
    >
    >Una persona déclencheur una campaña inteligente el viernes a las 5 pm. Se ha avanzado el paso de espera: 48 horas y debe terminar el lunes-viernes a las 9 de la mañana.
    >
-   >El resultado sería que la persona continuaría en el flujo el **lunes a las 9 a. m.**. Esta es la primera fecha M-F después de 48 horas.
+   >El resultado sería que la persona continuaría en el flujo de **Lunes, 9 am**. Esta es la primera fecha M-F después de 48 horas.
 
    >[!NOTE]
    >
