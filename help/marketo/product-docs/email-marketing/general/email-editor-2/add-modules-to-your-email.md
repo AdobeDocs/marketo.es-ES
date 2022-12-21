@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11371065
-description: Añadir módulos a su correo electrónico - Documentos de marketing - Documentación del producto
-title: Añadir módulos a su correo electrónico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 'Añadir módulos al correo electrónico: Documentos de Marketo: Documentación del producto'
+title: Añadir módulos al correo electrónico
+exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
+# Añadir módulos al correo electrónico {#add-modules-to-your-email}
 
-# Añadir módulos a su correo electrónico {#add-modules-to-your-email}
-
-En el Editor de correo electrónico 2.0, un módulo es una sección del correo electrónico que se define en la plantilla. Los módulos pueden contener cualquier combinación de elementos, variables y otro contenido HTML. Añadir a su correo electrónico es fácil.
+En el Editor de correo electrónico 2.0, un módulo es una sección del correo electrónico que se define en la plantilla. Los módulos pueden contener cualquier combinación de elementos, variables y otro contenido del HTML. Añadirlos al correo electrónico es fácil.
 
 1. Cree un correo electrónico. Asegúrese de elegir (o crear) una plantilla que contenga módulos.
 
@@ -21,17 +20,17 @@ En el Editor de correo electrónico 2.0, un módulo es una sección del correo e
 
    >[!NOTE]
    >
-   >La mayoría de las plantillas de inicio de marketing contienen módulos. También puede [crear su propio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La mayoría de las plantillas de inicio de Marketo contienen módulos. También puede [cree su propio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. En el extremo derecho del correo electrónico, haga clic en **Módulos**.
 
    ![](assets/two-3.png)
 
-1. Elija el módulo que desee agregar y arrástrelo a su correo electrónico.
+1. Elija el módulo que desea añadir y arrástrelo hasta el correo electrónico.
 
    ![](assets/three-3.png)
 
-1. Al arrastrar el módulo sobre él verá &quot;Colocar aquí&quot; entre los otros módulos. Coloque el nuevo módulo donde desee.
+1. Al arrastrar el módulo sobre verá &quot;Colocar aquí&quot; entre los demás módulos. Coloque el nuevo módulo donde desee.
 
    ![](assets/four-2.png)
 
@@ -39,19 +38,19 @@ En el Editor de correo electrónico 2.0, un módulo es una sección del correo e
 
    ![](assets/five-3.png)
 
-## Mover un módulo dentro de un mensaje de correo electrónico {#moving-a-module-within-an-email}
+## Mover un módulo dentro de un correo electrónico {#moving-a-module-within-an-email}
 
-Existen dos formas de mover un módulo.
+Existen dos maneras de mover un módulo.
 
-1. Identifique el módulo que desee mover. Si no estás seguro de cómo se llama, pasa el ratón por encima y se resaltará a la derecha.
+1. Identifique el módulo que desee mover. Si no estás seguro de cómo se llama, pasa el ratón por encima y estará resaltado a la derecha.
 
    ![](assets/six-2.png)
 
-1. Pase el ratón sobre el módulo de la derecha para mostrar el indicador. Agarra...
+1. Pase el ratón sobre el módulo de la derecha para mostrar el identificador. Agarrámoslo...
 
    ![](assets/seven-2.png)
 
-1. ...y arrastre el módulo a donde desee.
+1. ...y arrastre el módulo a donde lo desee.
 
    ![](assets/eight-2.png)
 
@@ -59,11 +58,11 @@ Existen dos formas de mover un módulo.
 
    ![](assets/nine-2.png)
 
-1. Haga clic en el icono de engranaje y seleccione **Subir** o **Bajar**, según a dónde desee que vaya el módulo.
+1. Haga clic en el icono del engranaje y seleccione **Subir** o **Bajar**, según a dónde desee que vaya el módulo.
 
    ![](assets/ten-2.png)
 
-Eso es todo lo que hay.
+Eso es todo.
 
 >[!MORELIKETHIS]
 >
