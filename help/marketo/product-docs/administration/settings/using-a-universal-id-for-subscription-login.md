@@ -26,7 +26,7 @@ Todas las suscripciones a Marketo incluyen la función opcional de ID universal.
 >
 >Si tiene varios ID de inicio de sesión de suscripción, también puede tener varios perfiles de comunidad. Asegúrese de elegir el ID del ID universal que está conectado al perfil que desea utilizar, y eso es para la instancia de producción, no para el simulador para pruebas.
 
-## Inicio de sesión {#logging-in}
+## Iniciando sesión {#logging-in}
 
 Cuando inicie sesión para aceptar una invitación a una segunda suscripción mediante un ID universal, verá la página de inicio de sesión de inclusión. Aquí debe marcar una casilla de verificación para aceptar los términos y condiciones. Cuando haya aceptado, verá la página de restablecimiento normal, no esta, para los inicios de sesión posteriores. Al aceptar los términos y las condiciones, se permite a Marketo distribuir los datos básicos de perfil (como el nombre, los apellidos y la dirección de correo electrónico) a los centros de datos en diferentes ubicaciones en las que se aloja la suscripción.
 
