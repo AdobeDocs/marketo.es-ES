@@ -70,7 +70,7 @@ Para poder sincronizar Microsoft Dynamics 365 y Marketo, primero debe instalar l
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. Haga clic en **Cierre.**
+1. Haga clic en **Cerrar.**
 
    >[!NOTE]
    >
