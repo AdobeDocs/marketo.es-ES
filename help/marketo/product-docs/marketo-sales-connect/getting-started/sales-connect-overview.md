@@ -6,7 +6,7 @@ exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -20,17 +20,17 @@ Marketo Sales Connect es una solución de soporte de ventas multifacética con d
 
 ## La fuente en directo {#the-live-feed}
 
-Los representantes de ventas pueden ver [participación en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) tanto del contenido de marketing como del contenido de ventas.
+Los representantes de ventas pueden ver [participación en tiempo real](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) del contenido de marketing y de ventas.
 
 ![](assets/engagement.jpg)
 
-## Vista detallada de persona {#person-detail-view}
+## Vista de detalles de persona {#person-detail-view}
 
-Acceda a [estadísticas de personas detalladas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Acceso [estadísticas de personas detalladas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Consulte Resultados en el registro de actividades de Marketo {#see-results-in-your-marketo-activity-log}
+## Ver resultados en el registro de actividades de Marketo {#see-results-in-your-marketo-activity-log}
 
 Vea cómo sus posibles clientes están interactuando con sus esfuerzos de ventas.
 
@@ -60,7 +60,7 @@ Vea cómo sus posibles clientes están interactuando con sus esfuerzos de ventas
   </tr> 
   <tr> 
    <td colspan="1"><p>Recibir llamada de venta</p></td> 
-   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor mediante el <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">teléfono de ventas</a>.</p></td> 
+   <td colspan="1"><p>El posible cliente recibió una llamada de un vendedor mediante la variable <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Teléfono de ventas</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Agregar a la campaña de ventas</p></td> 
@@ -79,12 +79,12 @@ Vea cómo sus posibles clientes están interactuando con sus esfuerzos de ventas
 
 ## Compartir campañas de marketing {#share-marketing-campaigns}
 
-Cree una campaña inteligente simple para que sus usuarios de ventas tengan acceso a [datos de campaña de Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Cree una campaña inteligente sencilla para que sus usuarios de ventas tengan acceso a [Datos de campaña de Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 ¿Listo para empezar? Para obtener instrucciones de configuración, haga clic en el vínculo siguiente.
 
 >[!MORELIKETHIS]
-[Guía de introducción para los administradores de Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
+>[Guía de introducción para los administradores de Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
