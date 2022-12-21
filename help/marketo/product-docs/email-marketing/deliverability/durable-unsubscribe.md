@@ -1,62 +1,61 @@
 ---
 unique-page-id: 10094576
-description: Cancelación duradera de la suscripción - Documentos de marketing - Documentación del producto
-title: Cancelación de suscripción duradera
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: 'Baja duradera: Documentos de Marketo: Documentación del producto'
+title: Baja duradera
+exl-id: e03a5a01-7395-45b3-8351-7931ec413236
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
+# Baja duradera {#durable-unsubscribe}
 
-# Cancelación duradera de la suscripción {#durable-unsubscribe}
+Marketo ha mejorado el comportamiento de la funcionalidad de cancelación de suscripción para que sea &quot;duradera&quot;. Se ha añadido un estado de correo electrónico principal, independiente del indicador de cancelación de suscripción visible en el registro de detalles de la persona.
 
-Marketing ha mejorado el comportamiento de la funcionalidad de cancelación de suscripción para que sea &quot;duradera&quot;. Hemos agregado un estado de correo electrónico principal, que es independiente del indicador de cancelación de suscripción visible en el registro de detalles de la persona.
-
-Si el indicador de cancelación de suscripción se establece de false a true, el estado del correo electrónico maestro se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se elimina y se vuelve a crear una persona, o si se crea un nuevo registro con la misma dirección de correo electrónico, se sobrescribirá el indicador de cancelación de suscripción **no**.
+Si el indicador de cancelación de suscripción se establece de false a true, el estado del correo electrónico maestro se actualiza y el cambio se propaga a otras personas con la misma dirección de correo electrónico. Si se elimina y se vuelve a crear una persona, o si se crea un nuevo registro con la misma dirección de correo electrónico, el indicador de cancelación de suscripción **not** sobrescribirse.
 
 >[!NOTE]
 >
->La anulación de suscripción duradera funciona en todas las particiones de toda la base de datos de Marketing.
+>La cancelación de la suscripción duradera funciona en todas las particiones de toda la base de datos de Marketo.
 
-## Actualizar el indicador de cancelación de suscripción de True a False (por ejemplo, volver a suscribir a una persona) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
+## Actualizar el indicador de cancelación de suscripción de Verdadero a Falso (por ejemplo, Volver a suscribir a una Persona) {#update-the-unsubscribe-flag-from-true-to-false-e-g-re-subscribe-a-person}
 
-Hay varias formas de volver a suscribirse a una persona.
+Existen varias formas de volver a suscribirse a una persona.
 
-En Salesforce, **borre** el campo Exclusión correo electrónico en el registro del posible cliente o contacto. Esto se sincronizará con Marketing.
+En Salesforce, **clear** el campo Exclusión de correo electrónico en el registro del posible cliente o contacto. Esto se sincronizará con Marketo.
 
 ![](assets/one.png)
 
-En Marketing, **borre** el cuadro sin suscribir de la ficha Información del registro de la persona.
+En Marketo, **clear** la casilla cancelar suscripción de la ficha Información del registro de la persona.
 
 ![](assets/two.png)
 
-Ejecute un paso de flujo **Cambiar valor de datos** como se muestra a continuación en una o varias personas.
+Ejecute un **Cambiar valor de datos** paso de flujo como se muestra a continuación en una o varias personas.
 
 ![](assets/three.png)
 
-Actualice una persona existente mediante la API de SOAP.
+Actualizar una persona existente a través de la API SOAP.
 
 ## Creación de una nueva persona {#creating-a-new-person}
 
-Cuando se crea una nueva persona, el usuario de Marketing la compara con la tabla de estado del correo electrónico principal. Si la persona ya no estaba suscrita, actualizaremos el registro para cancelar la suscripción.
+Cuando se crea una nueva persona, Marketo la comprueba según la tabla de estado del correo electrónico maestro. Si la persona se ha dado de baja anteriormente, actualizaremos el registro para cancelar la suscripción.
 
 ## Cambio de una dirección de correo electrónico {#changing-an-email-address}
 
-Si cambia la dirección de correo electrónico de una persona a una dirección de correo electrónico no suscrita, esa persona dejará de estar suscrita. Este cambio puede producirse en Marketing o en Salesforce.
+Si cambia la dirección de correo electrónico de una persona a una dirección de correo electrónico que cancela la suscripción, dicha persona se cancelará la suscripción. Este cambio puede producirse en Marketo o en Salesforce.
 
-Si cambia una dirección de correo electrónico sin suscribir a una que esté suscrita, esa persona se suscribirá.
+Si cambia una dirección de correo electrónico sin suscripción a una que está suscrita, esa persona se suscribirá.
 
-## Nueva suscripción {#re-subscribing}
+## Volver a suscribirse {#re-subscribing}
 
-De la misma manera que una cancelación de suscripción haría que todas las personas con la misma dirección de correo electrónico dejaran de estar suscritas, una nueva suscripción de hecho podría volver a suscribirse a todas las personas con la misma dirección de correo electrónico.
+De la misma manera que una cancelación de la suscripción haría que todas las personas con la misma dirección de correo electrónico dejaran de suscribirse, una nueva suscripción de hecho volvería a suscribirse a todas las personas con la misma dirección de correo electrónico.
 
 ## Registro de actividades {#activity-log}
 
-Las definiciones de cambio de valor de datos para _updateLeadEmailStatus_ y _resetLeadEmailStatus_ se encuentran en [este artículo de comunidad](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
+Definiciones del cambio de valor de datos para _updateLeadEmailStatus_ y _resetLeadEmailStatus_ se encuentra en [este artículo de la comunidad](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
->[Explicación de la cancelación de suscripción](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[Información sobre la cancelación de la suscripción](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
