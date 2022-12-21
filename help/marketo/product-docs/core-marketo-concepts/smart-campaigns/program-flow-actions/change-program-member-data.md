@@ -1,16 +1,15 @@
 ---
 description: 'Cambio de los datos de los miembros del programa: Documentos de Marketo: Documentación del producto'
-title: Cambiar datos de miembros del programa
+title: Cambiar datos del miembro del programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Cambiar datos de miembros del programa {#change-program-member-data}
+# Cambiar datos del miembro del programa {#change-program-member-data}
 
 Puede utilizar Marketo para actualizar el valor de un campo utilizando la acción de flujo Cambiar valor de datos .
 
@@ -18,7 +17,7 @@ Puede utilizar Marketo para actualizar el valor de un campo utilizando la acció
 >
 >También puede bloquear la actualización de un campo. Consulte Bloquear actualizaciones de un campo para obtener más información.
 
-1. En la pestaña Flujo de su campaña inteligente, supere el paso de flujo **Cambiar datos de miembro del programa** y elija el programa deseado.
+1. En la pestaña Flujo de la campaña inteligente, pase el ratón por encima de la pestaña **Cambiar datos de miembros del programa** paso de flujo y elija el programa deseado.
 
    ![](assets/change-program-member-data-1.png)
 
