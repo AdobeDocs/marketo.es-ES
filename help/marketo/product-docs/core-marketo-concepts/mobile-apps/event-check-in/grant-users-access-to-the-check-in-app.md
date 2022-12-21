@@ -3,7 +3,6 @@ unique-page-id: 7516639
 description: 'Conceder acceso a los usuarios a la aplicación de registro: Marketo Docs: documentación del producto'
 title: Conceder acceso a los usuarios a la aplicación de registro
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
@@ -17,7 +16,7 @@ Marketo tiene una función de usuario especial para la aplicación de registro d
 
 ## Crear una nueva función de usuario para dispositivos móviles {#create-a-new-user-role-for-mobile}
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
@@ -25,11 +24,11 @@ Marketo tiene una función de usuario especial para la aplicación de registro d
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Haga clic en la pestaña **Roles** y, a continuación, haga clic en **Nuevo rol**.
+1. Haga clic en el **Funciones** a continuación, haga clic en **Nueva función**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Introduzca un nombre para la función nueva y una descripción opcional. Marque la casilla **Access Mobile Application** y haga clic en **Create**.
+1. Introduzca un nombre para la función nueva y una descripción opcional. Marque la **Acceso a la aplicación móvil** y haga clic en **Crear**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,15 +36,15 @@ Marketo tiene una función de usuario especial para la aplicación de registro d
 
 ## Invitar nuevos usuarios a la aplicación de registro {#invite-new-users-for-the-check-in-app}
 
-1. Haga clic en la pestaña **Users**.
+1. Haga clic en el **Usuarios** pestaña .
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Haga clic en **Invitar nuevo usuario**.
+1. Haga clic en **Invitar a nuevo usuario**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Introduzca la información del nuevo usuario. Seleccione las casillas de verificación de todas las funciones adecuadas y la nueva función con permiso para acceder a la aplicación móvil. Haga clic en **Invitar** cuando haya terminado.
+1. Introduzca la información del nuevo usuario. Seleccione las casillas de verificación de todas las funciones adecuadas y la nueva función con permiso para acceder a la aplicación móvil. Haga clic en **Invitar** cuando hayas terminado.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 
