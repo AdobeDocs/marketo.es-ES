@@ -3,7 +3,6 @@ unique-page-id: 1147138
 description: Reprogramación de todo un programa desde la vista de programación - Marketo Docs - Documentación del producto
 title: Reprogramación de un programa completo desde la vista de programación
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
@@ -19,7 +18,7 @@ Cuando clona un programa o evento con fechas, es probable que desee volver a pro
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleccione la lista desplegable Acción de evento . Seleccione **Reprogramar entradas**.
+1. Seleccione la lista desplegable Acción de evento . Choose **Reprogramar entradas**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
