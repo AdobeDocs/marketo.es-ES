@@ -1,27 +1,26 @@
 ---
 unique-page-id: 1147358
-description: 'Añadir un fragmento de código a un mensaje de correo electrónico: Documentos de marketing: documentación del producto'
-title: Añadir un fragmento de código en un mensaje de correo electrónico
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+description: 'Añadir un fragmento a un correo electrónico: Marketo Docs: Documentación del producto'
+title: Añadir un fragmento de código a un correo electrónico
+exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-
-# Añadir un fragmento de código a un mensaje de correo electrónico {#add-a-snippet-to-an-email}
+# Añadir un fragmento de código a un correo electrónico {#add-a-snippet-to-an-email}
 
 Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que puede utilizar en sus correos electrónicos y páginas de aterrizaje.
 
 >[!PREREQUISITES]
 >
->[Creación de un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Crear un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->No puede incrustar ninguna sintaxis de correo electrónico [de marketing](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos de código; **no** funcionará en un mensaje de correo electrónico. Los fragmentos solo deben ser contenido de cuerpo (HTML + TEXTO).
+>No puede incrustar ninguna [Sintaxis del correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos; it **not** trabajar en un correo electrónico. Los fragmentos solo deben ser contenido del cuerpo (HTML + TEXTO).
 
 1. Busque su correo electrónico, selecciónelo y haga clic en **Editar borrador**.
 
@@ -43,6 +42,6 @@ Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que pu
 
    >[!NOTE]
    >
-   >Cada vez que actualice y apruebe el fragmento, los cambios se reflejarán en el mensaje de correo electrónico. El mensaje de correo electrónico se redactará a menos que apruebe el fragmento con [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Cada vez que actualice y apruebe el fragmento, los cambios se reflejarán en el mensaje de correo electrónico. El correo electrónico se redactará a menos que apruebe el fragmento con [Sin borrador](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
 
-Es una forma rápida y sencilla de reutilizar el contenido dinámico.
+Esta es una forma rápida y sencilla de reutilizar el contenido dinámico.
