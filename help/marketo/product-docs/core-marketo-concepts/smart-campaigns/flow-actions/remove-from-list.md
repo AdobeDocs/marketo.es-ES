@@ -1,27 +1,26 @@
 ---
 unique-page-id: 1146954
 description: 'Eliminación de la lista: Documentos de Marketo: Documentación del producto'
-title: Quitar de la lista
+title: Quitar de Lista
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Quitar de la lista {#remove-from-list}
+# Quitar de Lista {#remove-from-list}
 
-## Información general {#overview}
+## Resumen {#overview}
 
-Dado que tiene la capacidad de [Agregar a la lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), también necesita una forma de eliminar personas de las listas.
+Ya que tiene la capacidad de [Agregar a lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), también necesita una forma de eliminar personas de las listas.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
 ## Uso {#usage}
 
-1. Busque y seleccione la **List** de la que desea que se eliminen las personas.
+1. Busque y seleccione el **Lista** desea eliminar a las personas.
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
