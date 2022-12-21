@@ -1,21 +1,20 @@
 ---
 unique-page-id: 1146948
 description: 'Enviar correo electrónico: Documentos de Marketo: Documentación del producto'
-title: Enviar correo electrónico
+title: Enviar email
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Enviar correo electrónico {#send-email}
+# Enviar email {#send-email}
 
-## Información general {#overview}
+## Resumen {#overview}
 
-El paso de flujo **Send Email** se puede utilizar como parte de campañas o como un solo paso de flujo para enviar correos electrónicos a sus personas.
+La variable **Enviar correo electrónico** el paso de flujo se puede usar como parte de campañas o como un solo paso de flujo para enviar correos electrónicos a sus personas.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
