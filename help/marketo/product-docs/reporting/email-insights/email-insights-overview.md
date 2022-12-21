@@ -1,49 +1,48 @@
 ---
 unique-page-id: 10099408
-description: Información general de perspectivas de correo electrónico - Documentos de marketing - Documentación del producto
-title: Información general de perspectivas de correo electrónico
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: 'Información general sobre perspectivas de correo electrónico: Documentos de Marketo: Documentación del producto'
+title: Información general sobre perspectivas de correo electrónico
+exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
+# Información general sobre perspectivas de correo electrónico {#email-insights-overview}
 
-# Información general de perspectivas de correo electrónico {#email-insights-overview}
+Perspectivas de correo electrónico proporciona información valiosa a partir de los datos históricos para los especialistas en marketing por correo electrónico. Consiste en dos secciones separadas pero asociadas: Analytics y envíos
 
-Las perspectivas de correo electrónico proporcionan información valiosa sobre los datos históricos de los especialistas en mercadotecnia de correo electrónico. Consta de dos secciones separadas pero asociadas: Analytics y envíos.
-
-Para acceder a las perspectivas de correo electrónico, haga clic en su mosaico en Mi marketing (o en la pantalla de inicio de Analytics).
+Para acceder a las perspectivas de correo electrónico, haga clic en su mosaico en Mi Marketo (o en la pantalla principal de Analytics).
 
 ![](assets/icon.png)
 
 >[!NOTE]
 >
->De forma predeterminada, verá los datos de cada espacio de trabajo al que tenga acceso. Puede anular la selección de los espacios de trabajo que no desee vista. Se recordarán sus selecciones en adelante.
+>De forma predeterminada, verá los datos de cada espacio de trabajo al que tenga acceso. Puede anular la selección de los espacios de trabajo que no desee ver. Se recordarán sus selecciones a partir de ahora.
 
-## Analytics {#analytics}
+## Análisis {#analytics}
 
-Utilice [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) para explorar los datos acumulados de series temporales para las métricas de envío y participación de correo electrónico.
+Uso [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) para explorar los datos acumulados de series temporales para las métricas de participación y envío de correo electrónico.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtros**
 
-Se utilizan [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) avanzados para desglosar los resultados por Audiencia, Contenido o Plataforma. Los mismos filtros se aplican tanto a Analytics como a Envíos.
+Avanzadas utilizadas [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para desglosar los resultados por audiencia, contenido o plataforma. Los mismos filtros se aplican tanto a Analytics como a Envíos.
 
 ![](assets/filter.png)
 
 **Gráficos rápidos**
 
-[Las miniaturas de ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) gráficos rápidos se crean y guardan, lo que proporciona una vista rápida de los gráficos que son importantes para usted.
+[Gráficos rápidos](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) son miniaturas que crea y guarda, lo que proporciona una vista rápida de los gráficos que son importantes para usted.
 
 ![](assets/three.png)
 
-## Envía {#sends}
+## Envíos {#sends}
 
-En la página [Envíos](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md), examine las características de la comunicación por correo electrónico reciente.
+En el [Envíos](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) examine las características de la comunicación por correo electrónico reciente.
 
 ![](assets/two.png)
 
@@ -59,10 +58,10 @@ Haga clic en las barras Métricas para traducir los colores en números.
 
 ## Dimension personalizados {#custom-dimensions}
 
-Se incluyen todas las dimensiones estándar de marketing, pero puede agregar hasta 10 dimensiones personalizadas. [Las ](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) dimensiones personalizadas constan de segmentaciones y etiquetas de programa.
+Se incluyen todas las dimensiones estándar de Marketo, pero tiene la opción de agregar hasta 10 dimensiones personalizadas. [Dimensiones personalizadas](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) consisten en segmentaciones y etiquetas de programa.
 
 >[!MORELIKETHIS]
 >
 >* [Información general de análisis de perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [Información general sobre las perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>* [Información general sobre los envíos de Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
 
