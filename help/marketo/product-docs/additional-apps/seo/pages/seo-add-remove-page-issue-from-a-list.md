@@ -3,7 +3,6 @@ unique-page-id: 2949266
 description: SEO - Agregar o eliminar problema de página de una lista - Documentos de Marketo - Documentación del producto
 title: 'SEO: Agregar o eliminar un problema de página de una lista'
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# SEO: Agregar o eliminar problema de página de una lista {#seo-add-remove-page-issue-from-a-list}
+# SEO: Agregar o eliminar un problema de página de una lista {#seo-add-remove-page-issue-from-a-list}
 
 Puede organizar los problemas de la página en listas. También puede eliminar problemas de página de una lista.
 
 ## Agregar problemas de página a una lista {#add-page-issues-to-a-list}
 
-1. Vaya a la sección **Páginas**.
+1. Vaya a la **Páginas** para obtener más información.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
@@ -25,7 +24,7 @@ Puede organizar los problemas de la página en listas. También puede eliminar p
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Pase el ratón sobre el problema de página que desee añadir. Haga clic en **Agregar o quitar de la lista**.
+1. Pase el ratón sobre el problema de página que desee añadir. Haga clic en **Agregar/Quitar de la lista**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -51,7 +50,7 @@ Puede organizar los problemas de la página en listas. También puede eliminar p
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Pase el ratón sobre el problema de página que quiera eliminar. Haga clic en **Agregar o quitar de la lista**.
+1. Pase el ratón sobre el problema de página que quiera eliminar. Haga clic en **Agregar/Quitar de la lista**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 
