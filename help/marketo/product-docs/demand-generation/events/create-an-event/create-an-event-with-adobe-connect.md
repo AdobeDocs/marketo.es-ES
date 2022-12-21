@@ -3,7 +3,6 @@ unique-page-id: 2949865
 description: 'Creación de un evento con Adobe Connect: Marketo Docs: documentación del producto'
 title: Creación de un evento con Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
-translation-type: tm+mt
 source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
 source-wordcount: '419'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Crear un evento con Adobe Connect {#create-an-event-with-adobe-connect}
+# Creación de un evento con Adobe Connect {#create-an-event-with-adobe-connect}
 
 La sincronización con Adobe Connect le permite administrar el registro y la asistencia a los seminarios web dentro de Marketo, lo que garantiza que la participación no se desplace.
 
@@ -27,25 +26,25 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
 
 >[!CAUTION]
 >
->Como anfitrión del evento, asegúrese de unirse desde la aplicación y **no** mediante el enlace enviado a los asistentes.
+>Como host de eventos, asegúrese de unirse desde la aplicación y **not** mediante el vínculo enviado a los asistentes.
 
 >[!NOTE]
 >
 >En este momento no se admite Adobe Connect On-Site.
 
-1. En el inicio de un nuevo evento, seleccione **Acciones de evento** y, a continuación, **Configuración de evento**.
+1. En la página principal de un nuevo evento, seleccione **Acciones de evento** y luego **Configuración de eventos**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Si no ve **Configuración de evento** en la lista desplegable, asegúrese de que el canal del evento tenga **Evento con seminario web** seleccionado en &quot;Se aplica a&quot;.
+   >Si no ve **Configuración de eventos** en la lista desplegable , asegúrese de que el canal del evento tenga **Evento con seminario web** seleccionado en &quot;Se aplica a&quot;.
 
 1. En **Socio de evento**, seleccione **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Seleccione su **Login** ID y seleccione su **Event**.
+1. Seleccione su **Inicio de sesión** ID y seleccione su **Evento**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
@@ -63,7 +62,7 @@ Las reuniones y seminarios que cree en Adobe Connect deben crearse en la carpeta
    >
    >Para insertar la URL única de la persona en un correo electrónico, utilice este token: `{{member.webinar url}}`. Cuando se envía el correo electrónico, este token resuelve automáticamente la URL de confirmación única de la persona desde Adobe Connect.
    >
-   >Configure el correo electrónico de confirmación en **Operativo** para asegurarse de que las personas que se registren y puedan darse de baja reciban la información de confirmación.
+   >Configure el correo electrónico de confirmación en **Operativo** para garantizar que las personas que se registren y puedan darse de baja sigan recibiendo su información de confirmación.
 
    Las personas que se registren en el seminario web se enviarán al proveedor de seminarios web a través del paso Cambiar el estado del programa cuando el nuevo estado esté configurado como &quot;Registrado&quot;. Ningún otro estado empuja a la persona. Además, asegúrese de realizar el paso 1 del flujo de cambio de estado del programa y el paso 2 del flujo de envío de correo electrónico.
 
