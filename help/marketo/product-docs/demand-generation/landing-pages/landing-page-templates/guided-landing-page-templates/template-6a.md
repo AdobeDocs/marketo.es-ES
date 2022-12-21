@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Plantilla 6A {#template-6a}
 
-Haga clic con el botón derecho para [descargar plantilla 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+Haga clic con el botón derecho para [Descargar plantilla 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
