@@ -3,7 +3,6 @@ unique-page-id: 2949678
 description: SEO - Agregar o eliminar palabras clave de una lista - Documentos de Marketo - Documentación del producto
 title: SEO - Agregar o eliminar palabras clave de una lista
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# SEO: Agregar o eliminar palabras clave de una lista {#seo-add-remove-keywords-from-a-list}
+# SEO - Agregar o eliminar palabras clave de una lista {#seo-add-remove-keywords-from-a-list}
 
 Puede mantener todas las palabras clave en buen estado y organizadas mediante listas. Esto facilitará la búsqueda de datos en palabras clave específicas como circulares.
 
 ## Agregar a una lista {#add-to-a-list}
 
-1. Vaya a la sección **Palabras clave**.
+1. Vaya a la **Palabras clave** para obtener más información.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -41,7 +40,7 @@ Puede mantener todas las palabras clave en buen estado y organizadas mediante li
 
 También puede eliminar palabras clave de una lista.
 
-1. Vaya a la sección **Palabras clave**.
+1. Vaya a la **Palabras clave** para obtener más información.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
