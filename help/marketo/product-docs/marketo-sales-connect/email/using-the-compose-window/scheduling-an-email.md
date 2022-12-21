@@ -1,29 +1,28 @@
 ---
 unique-page-id: 37356568
-description: Programación de un correo electrónico - Documentos de marketing - Documentación del producto
-title: Programación de un correo electrónico
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 'Programación de correos electrónicos: Documentos de Marketo: Documentación del producto'
+title: Programación de correos electrónicos
+exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
-# Programación de un correo electrónico {#scheduling-an-email}
+# Programación de correos electrónicos {#scheduling-an-email}
 
 Siga estos sencillos pasos para programar un correo electrónico.
 
 >[!NOTE]
 >
->Para actualizar el huso horario predeterminado, vaya a la página Configuración.
+>Para actualizar la zona horaria predeterminada, vaya a la página Configuración .
 
 1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
 
    ![](assets/one-1.png)
 
-1. Cuando haya terminado de componer su correo electrónico, haga clic en **Programar** en la parte inferior derecha
+1. Cuando haya terminado de componer el correo electrónico, haga clic en **Programación** en la parte inferior derecha
 
    ![](assets/two-1.png)
 
@@ -31,7 +30,7 @@ Siga estos sencillos pasos para programar un correo electrónico.
 
    ![](assets/three-1.png)
 
-1. Especifique la hora a la que desea que salga el correo electrónico. Seleccione el huso horario deseado y haga clic en **Guardar**. Cierre el Planificador cuando termine.
+1. Escriba la hora a la que quiere que salga el correo electrónico. Seleccione la zona horaria que desee y haga clic en **Guardar**. Cierre el planificador cuando termine.
 
    ![](assets/four-1.png)
 
@@ -41,7 +40,7 @@ Siga estos sencillos pasos para programar un correo electrónico.
 
    >[!NOTE]
    >
-   >Los correos electrónicos programados se pueden ver/editar en la sección de carpetas programadas del Centro de comandos.
+   >Los correos electrónicos programados se pueden ver o editar en la sección de carpetas programadas del Centro de comandos.
 
    >[!MORELIKETHIS]
    >
