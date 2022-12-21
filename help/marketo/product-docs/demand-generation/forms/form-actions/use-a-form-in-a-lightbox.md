@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359677
-description: Usar un formulario en un Lightbox - Documentos de marketing - Documentación del producto
+description: 'Uso de un formulario en un Lightbox: Documentos de Marketo: Documentación del producto'
 title: Uso de un formulario en un Lightbox
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
+# Uso de un formulario en un Lightbox {#use-a-form-in-a-lightbox}
 
-# Utilizar un formulario en un Lightbox {#use-a-form-in-a-lightbox}
-
-Un Lightbox es una técnica que abre un formulario delante del contenido cuando se desea que se muestre. Así es como.
+Lightbox es una técnica que abre un formulario delante del contenido cuando desea que se muestre. Así es como.
 
 1. Vaya a **Actividades de marketing**.
 
@@ -31,7 +30,7 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Establezca **Tipo de código** en **Lightbox**.
+1. Establezca **Tipo de código** a **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
@@ -39,6 +38,6 @@ Un Lightbox es una técnica que abre un formulario delante del contenido cuando 
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
-Envíe el código a su desarrollador web y pídale que lo añada a su sitio web.
+Pase el código a su desarrollador web y pídale que lo añada a su sitio web.
 
 ¡bueno trabajo!
