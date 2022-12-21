@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11385183
-description: Informe de ventas de TAM - Marketo Docs - Documentación del producto
+description: Informe de ventas de TAM - Documentos de Marketo - Documentación del producto
 title: Informe de ventas de TAM
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # Informe de ventas de TAM {#tam-sales-report}
 
@@ -17,7 +16,7 @@ Reciba un correo electrónico semanal que contenga sus cuentas principales y sus
 
 >[!NOTE]
 >
->Obtenga información sobre cómo configurar este informe [aquí](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Obtenga información sobre cómo configurar este informe [here](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 El informe comparte:
 
