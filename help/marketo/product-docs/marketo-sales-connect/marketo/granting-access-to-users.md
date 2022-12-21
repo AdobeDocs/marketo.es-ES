@@ -1,7 +1,8 @@
 ---
 description: Concesión de acceso a los usuarios - Documentos de Marketo - Documentación del producto
 title: Concesión de acceso a usuarios
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 Siga los pasos de este artículo para otorgar a los usuarios de Conexión de ventas acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en la fuente en directo y acceso a campañas de marketing.
 
-Deberá invitar a los usuarios a Conexión de ventas [aquí](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes de que se vean en la página Marketo > Acceso de equipo (en Conexión de ventas), donde se concede acceso a la conexión de Marketo.
+Deberá invitar a usuarios a Sales Connect [here](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), antes de que sean visibles en la página Marketo > Acceso al equipo (en Conexión de ventas), donde se concede acceso a la conexión de Marketo.
 
 >[!CAUTION]
 >
 >Espere diez minutos después de conectar Conexión de ventas con Marketo antes de realizar estos pasos.
 
-1. Seleccione uno o varios usuarios y haga clic en **Conectar**.
+1. Seleccione uno o varios usuarios y haga clic en **Connect**.
 
    >[!NOTE]
    >
