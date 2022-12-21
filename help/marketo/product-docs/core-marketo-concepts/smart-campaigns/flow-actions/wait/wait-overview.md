@@ -1,25 +1,24 @@
 ---
 unique-page-id: 1146950
 description: 'Espera: Documentos de Marketo: documentación del producto'
-title: Espera
+title: Esperar
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Espera {#wait}
+# Esperar {#wait}
 
-## Información general {#overview}
+## Resumen {#overview}
 
-Pause a una persona en un flujo de campaña inteligente con el práctico **paso de espera**.
+Poner en pausa a una persona en un flujo de campaña inteligente con lo práctico **paso de espera**.
 
 ![](assets/wait-overview.png)
 
-Observe cómo puede escribir en un lenguaje natural como &quot;4 horas&quot;. No obstante, **no** abrevie las palabras (es decir, 4 horas). La campaña inteligente seguiría ejecutándose, pero el paso de espera se ignoraría.
+Observe cómo puede escribir en un lenguaje natural como &quot;4 horas&quot;. Do **not**, sin embargo, abreviar las palabras (es decir, 4 horas). La campaña inteligente seguiría ejecutándose, pero el paso de espera se ignoraría.
 
 >[!CAUTION]
 >
@@ -27,7 +26,7 @@ Observe cómo puede escribir en un lenguaje natural como &quot;4 horas&quot;. No
 
 >[!TIP]
 >
->Si ya tiene alguien en un paso de espera y no desea que avance después de que termine el período de espera, inserte [remove from flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) justo después del paso de espera. Especifique a quién desea eliminar utilizando la opción [add choice](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
+>Si ya tiene a alguien en un paso de espera y no desea que avance después de que termine el período de espera, inserte [eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) justo después del paso de espera. Especifique a quién desea eliminar utilizando la variable [añadir opción](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) .
 
 ## Uso {#usage}
 
