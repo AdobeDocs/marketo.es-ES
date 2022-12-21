@@ -18,7 +18,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 ## Perspectiva de la cuenta {#account-insight}
 
-**[Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insighis es un complemento de Google Chrome que muestra información procesable sobre ABM y cuentas a sus equipos de ventas, lo que les permite trabajar en estrecha colaboración con el marketing para interactuar con las cuentas de forma eficaz. Los equipos de ventas obtendrán visibilidad de los datos y las perspectivas generados para cada una de las cuentas con nombre que posean. Esto incluye los percentiles de puntuación de cuenta, una lista priorizada de sus cuentas con nombre, personas comprometidas dentro de esas cuentas y un flujo de actividad activo de las actividades recientes de la cuenta.
+**[Perspectiva de la cuenta](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** es un complemento de Google Chrome que muestra información procesable sobre ABM y cuentas a sus equipos de ventas, lo que les permite trabajar estrechamente con el marketing para interactuar con las cuentas de forma eficaz. Los equipos de ventas obtendrán visibilidad de los datos y las perspectivas generados para cada una de las cuentas con nombre que posean. Esto incluye los percentiles de puntuación de cuenta, una lista priorizada de sus cuentas con nombre, personas comprometidas dentro de esas cuentas y un flujo de actividad activo de las actividades recientes de la cuenta.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -26,6 +26,6 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 ## [Listas de cuentas dinámicas](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-Estamos agregando una nueva forma de crear listas de cuentas en ABM. Además de las listas de cuentas existentes, ahora puede crear listas de cuentas dinámicas que se generen a partir de las vistas de cuentas públicas de CRM. Una vista de cuenta de CRM es un conjunto de reglas que actúa como filtro cuando se muestran las cuentas. Por ejemplo, puede utilizarla para encontrar cuentas en las que el Sector es _y_ los ingresos superan los 100 millones de dólares.
+Estamos agregando una nueva forma de crear listas de cuentas en ABM. Además de las listas de cuentas existentes, ahora puede crear listas de cuentas dinámicas que se generen a partir de las vistas de cuentas públicas de CRM. Una vista de cuenta de CRM es un conjunto de reglas que actúa como filtro cuando se muestran las cuentas. Por ejemplo, puede utilizarla para encontrar cuentas en las que el sector esté al cuidado de la salud _y_ Los ingresos superan los 100 millones de dólares.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
