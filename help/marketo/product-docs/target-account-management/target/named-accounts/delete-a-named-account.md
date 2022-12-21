@@ -2,14 +2,13 @@
 unique-page-id: 12615802
 description: 'Eliminación de una cuenta con nombre: Marketo Docs: documentación del producto'
 title: Eliminar una cuenta con nombre
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Eliminar una cuenta con nombre {#delete-a-named-account}
 
@@ -23,7 +22,7 @@ Siga estos pasos rápidos para eliminar una cuenta con nombre.
    >
    >Ctrl + clic (Windows) o Cmd + clic (Mac) para seleccionar varias cuentas con nombre.
 
-1. Haga clic en la lista desplegable **Acciones de cuenta con nombre** y seleccione **Eliminar cuenta con nombre**.
+1. Haga clic en el **Acciones de cuenta con nombre** y seleccione **Eliminar cuenta con nombre**.
 
    ![](assets/eight-1.png)
 
