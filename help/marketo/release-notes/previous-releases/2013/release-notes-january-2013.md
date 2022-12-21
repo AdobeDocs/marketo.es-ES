@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Notas de la versión: Enero de 2013 {#release-notes-january}
 
-La versión de enero amplía nuestra oferta social con **Ofertas de referencia**. Además, los usuarios de Administración de posibles clientes de Marketo pueden establecer su preferencia de zona horaria, idioma y configuración regional. Tenga en cuenta que las funciones marcadas con un * solo están disponibles en Select Edition.
+La versión de enero amplía nuestra oferta social con **Ofertas de referencia**. Además, los usuarios de Administración de posibles clientes de Marketo pueden establecer su preferencia de zona horaria, idioma y configuración regional. Tenga en cuenta que las funciones marcadas con un &#42; solo están disponibles en Select Edition.
 
 ## Ofertas recomendadas {#referral-offers}
 
-Una **Oferta de reenvío** le da a sus posibles clientes un incentivo para remitir a sus amigos. Cree objetivos y recompensas para los reenvíos correctos. Puede usarlo en páginas de aterrizaje, su sitio web e incluso Facebook.
+A **Oferta de referencia** ofrece a sus posibles clientes un incentivo para remitir a sus amigos. Cree objetivos y recompensas para los reenvíos correctos. Puede usarlo en páginas de aterrizaje, su sitio web e incluso Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
