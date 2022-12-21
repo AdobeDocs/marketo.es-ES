@@ -3,7 +3,6 @@ unique-page-id: 10098479
 description: 'Crear una actividad personalizada: Marketo Docs: documentación del producto'
 title: Crear una actividad personalizada
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
@@ -19,11 +18,11 @@ Siga estos pasos para crear una nueva actividad personalizada.
 >
 >La mayoría de las suscripciones tienen asignado un límite de 10 tipos de actividades personalizadas.
 
-1. Haga clic en **Admin**.
+1. Haga clic en **Administrador**.
 
    ![](assets/one.png)
 
-1. En **Administración de bases de datos**, haga clic en **Actividades personalizadas**.
+1. En **Administración de bases de datos** click **Actividades personalizadas**.
 
    ![](assets/two.png)
 
