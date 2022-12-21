@@ -1,43 +1,42 @@
 ---
 unique-page-id: 2951884
-description: Explicación de la Análisis de oportunidades en el Explorador de ingresos - Documentos de marketing - Documentación del producto
-title: Explicación de la Análisis de oportunidades en el Explorador de ingresos
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: 'Explicación del análisis de oportunidades en el Explorador de ingresos: Documentos de Marketo: Documentación del producto'
+title: Explicación del análisis de oportunidades en el Explorador de ingresos
+exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
+# Explicación del análisis de oportunidades en el Explorador de ingresos {#understanding-opportunity-analysis-in-revenue-explorer}
 
-# Explicación de la Análisis de oportunidades en el Explorador de ingresos {#understanding-opportunity-analysis-in-revenue-explorer}
+El análisis de oportunidades en el Explorador de ingresos permite examinar las oportunidades en un nivel más profundo. Corte y fragmente los datos en función de cualquier atributo de cliente/empresa, como fuente principal, sector o ubicación geográfica. Analice la creación de oportunidades y cierre en función del nombre, la etapa o la probabilidad. Descubra las contribuciones de marketing a la canalización.
 
-La Análisis de oportunidades en el Explorador de ingresos le permite examinar las oportunidades en un nivel más profundo. Dividir y asignar los datos en función de cualquier atributo de posible cliente/compañía, como origen de posibles clientes, industria o geografía. Analizar la creación de oportunidades y cerrar según el nombre, la etapa o la probabilidad. Averiguar las contribuciones de mercadotecnia a la canalización.
+## Análisis de ejemplo {#example-analysis}
 
-## Ejemplo de análisis {#example-analysis}
+A continuación se muestran algunos informes que puede crear en el área Análisis de oportunidades .
 
-Estos son algunos informes que puede crear en el área de Análisis Oportunidad.
+1. Influencia de marketing en oportunidades creadas
 
-1. Influencia de mercadotecnia en oportunidades creadas
-
-   ¿Qué porcentaje de la canalización de la compañía se vio influido por los programas de mercadotecnia? Este informe le proporciona la respuesta. Los siguientes gráficos circulares muestran el porcentaje del número de todas las oportunidades y la cantidad de oportunidades que obtuvo un programa de mercadotecnia.
+   ¿Qué porcentaje de la canalización de su empresa se vio influido por sus programas de marketing? Este informe le da la respuesta. Los siguientes gráficos circulares muestran el porcentaje del número de todas las oportunidades y la cantidad de oportunidades que adquirió un programa de marketing.
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Influencia de la mercadotecnia en oportunidades cerradas y ganadas.
+1. Influencia de marketing en oportunidades cerradas y ganadas.
 
-   Este informe muestra la cantidad de ingresos que la mercadotecnia obtuvo e influyó en ellos, por número e importe.
+   Este informe muestra cuántos ingresos se adquirieron e influyeron en el marketing, por número e cantidad.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Oportunidad cerrada por fuente de posibles clientes
 
-   Este informe desglosa todas las oportunidades cerradas por fuente de posibles clientes y le proporciona una visión general clara de las fuentes que funcionan y las que no.
+   Este informe desglosa todas las oportunidades cerradas por fuente principal y proporciona una visión general clara de qué fuentes están funcionando y cuáles no.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Tiempo para cerrar por fuente
+1. Tiempo para cerrar por origen
 
    Este informe muestra la relación entre los días promedio para cerrar una oportunidad y la fuente principal.
 
@@ -45,115 +44,115 @@ Estos son algunos informes que puede crear en el área de Análisis Oportunidad.
 
 1. Abrir oportunidad y escenario
 
-   Este informe muestra cuántas oportunidades se abren en cada etapa del ciclo de ingresos.
+   Este informe muestra cuántas oportunidades están abiertas en cada etapa del ciclo de ingresos.
 
    ![](assets/image2015-7-21-10-3a35-3a32.png)
 
 1. Número de oportunidades por año por sector
 
-   Este informe responde a la pregunta: &quot;¿Estamos obteniendo más o menos oportunidades de ciertas industrias año tras año?&quot;
+   Este informe responde a la pregunta &quot;¿Estamos obteniendo más o menos oportunidades de ciertas industrias año tras año?&quot;
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimension y medidas de Análisis de oportunidades {#opportunity-analysis-dimensions-and-measures}
+## Dimension y medidas del análisis de oportunidades {#opportunity-analysis-dimensions-and-measures}
 
-La Análisis de oportunidades le permite acceder a todas las dimensiones relacionadas con posibles clientes, compañías y oportunidades y a las medidas relacionadas con las oportunidades. Utilice estas dimensiones y medidas de análisis de oportunidades para responder preguntas específicas en el informe.
+El análisis de oportunidades le permite acceder a todas las dimensiones relacionadas con posibles clientes, empresas y oportunidades, así como a las medidas relacionadas con oportunidades. Utilice estas dimensiones y medidas de análisis de oportunidad para responder preguntas específicas en el informe.
 
-1. Atributos de compañía
+1. Atributos de la compañía
 
-   | Dimension | Descripción |
+   | Dimensión | Descripción |
    |---|---|
-   | Ingresos anuales | Ingresos anuales de la compañía |
-   | Ciudad | La ciudad donde se encuentra la compañía |
-   | País | El condado donde se encuentra la compañía |
+   | Ingresos anuales | Ingresos anuales de la empresa |
+   | Ciudad | La ciudad donde se encuentra la empresa |
+   | País | El condado donde se encuentra la empresa |
    | Industria | La industria en la que se encuentra la compañía |
-   | Nombre de compañía | Nombre de la compañía |
-   | Número de empleados | Número de empleados en la Compañía |
-   | Código postal | Código postal de la compañía |
-   | Código SIC | Código SIC de la compañía |
-   | Estado | Estado en el que se encuentra la compañía |
+   | Nombre de la compañía | Nombre de la empresa |
+   | Número de empleados | Número de empleados de la empresa |
+   | Código postal | Código postal de la empresa |
+   | Código SIC | Código SIC de la empresa |
+   | Estado | Estado en el que se encuentra la empresa |
 
 1. Atributos de posible cliente
 
-   | Dimension | Descripción |
+   | Dimensión | Descripción |
    |---|---|
-   | Incluido en la lista de bloqueados | El lead está incluido en la lista de bloqueados |
+   | Está en la lista de bloqueos | El posible cliente está incluido en la lista de bloqueados |
    | Convertido a oportunidad | El posible cliente se convierte en una oportunidad |
-   | Correo electrónico no válido | Si el posible cliente tiene una dirección de correo electrónico válida |
-   | Comercialización suspendida | ¿Se suspende el posible cliente de los correos electrónicos de marketing? |
-   | Dirección de correo electrónico | Dirección de correo electrónico del posible cliente |
-   | Puesto de trabajo | Puesto de jefe |
+   | Email no válido | Si el posible cliente tiene una dirección de correo electrónico válida |
+   | Marketing suspendido | ¿Se suspende el posible cliente de los correos electrónicos de marketing? |
+   | Dirección de email | Dirección de correo electrónico del posible cliente |
+   | Cargo | Puesto de jefe |
    | Nombre completo | Nombre completo del posible cliente |
    | Tipo de origen original | Tipo de origen original del posible cliente |
-   | Registrar tipo de origen | Tipo de origen registrado del posible cliente |
+   | Registrar tipo de origen | Tipo de fuente registrada del posible cliente |
    | Dirección de correo electrónico del propietario del posible cliente | Dirección de correo electrónico del propietario del posible cliente |
-   | Título del trabajo del propietario del posible cliente | Puesto del propietario del posible cliente |
+   | Título de trabajo del propietario del posible cliente | Cargo del propietario del posible cliente |
    | Nombre del propietario del posible cliente | Nombre del propietario del posible cliente |
-   | Origen de posible cliente | Origen de posible cliente |
-   | Estado de posible cliente | Estado de posible cliente |
+   | Origen del posible cliente | Origen del posible cliente |
+   | Estado del lead | Estado del posible cliente |
 
 1. Intervalo de tiempo creado por el posible cliente
 
-   | Dimension | Descripción |
+   | Dimensión | Descripción |
    |---|---|
-   | Año de creación de posibles clientes | Año en el que se crea el lead |
-   | Trimestre de creación de posibles clientes | El trimestre en el que se crea el lead |
-   | Mes de creación de posible cliente | Mes en el que se crea el lead |
-   | Semana de creación de posible cliente | La semana en que se crea el lead |
-   | Fecha de creación de posible cliente | La fecha en que se crea el posible cliente |
+   | Año de creación de posibles clientes | Año en el que se crea el posible cliente |
+   | Trimestre creado por el cliente potencial | El trimestre en el que se crea el posible cliente |
+   | Mes de creación de cliente potencial | El mes en el que se crea el posible cliente |
+   | Semana de creación de cliente potencial | La semana en la que se crea el posible cliente |
+   | Fecha de creación de cliente potencial | La fecha en la que se crea el posible cliente |
 
 1. Atributos de oportunidad
 
-   | Dimension | Descripción |
+   | Dimensión | Descripción |
    |---|---|
    | Oportunidad cerrada | ¿Se ha cerrado la oportunidad? |
-   | Categoría de previsión de oportunidades | Categoría de previsión de oportunidades |
-   | Nombre de oportunidad | Nombre de oportunidad |
-   | Fase de oportunidad | Fase de oportunidad |
+   | Categoría de previsión de oportunidad | Categoría de previsión de oportunidad |
+   | Nombre de la oportunidad | Nombre de la oportunidad |
+   | Etapa de la oportunidad | Fase de oportunidad |
    | Tipo de oportunidad | Tipo de oportunidad |
-   | Oportunidad ganada | ¿Está cerrada esta oportunidad y ganó? |
-   | Oportunidad influida en el marketing | Este indicador indica si alguno de los posibles clientes o contactos se obtuvo con éxito en cualquier programa de mercadotecnia. Solo se consideran los programas que tienen un costo de período definido. |
+   | Oportunidad ganada | ¿Esta oportunidad está cerrada y ganada? |
+   | Oportunidad influida en el marketing | Este indicador indica si alguno de los posibles clientes o contactos fue adquirido o alcanzado éxito en cualquier programa de marketing. Solo se tienen en cuenta los programas que tienen un coste de período definido. |
 
 1. Intervalo de tiempo cerrado de oportunidad
 
-   | Dimension | Descripción |
+   | Dimensión | Descripción |
    |---|---|
-   | Oportunidad año cerrado | El año en que se cierra la oportunidad |
+   | Oportunidad año cerrado | Año en que se cierra la oportunidad |
    | Trimestre cerrado de oportunidad | El trimestre en el que se cierra la oportunidad |
-   | Oportunidad mes cerrado | El mes en que se cierra la oportunidad |
+   | Oportunidad Mes Cerrado | El mes en el que se cierra la oportunidad |
    | Semana cerrada de oportunidad | La semana en que se cierra la oportunidad |
-   | Fecha de cierre de oportunidad | La fecha en que se cierra la oportunidad |
+   | Fecha de cierre de oportunidad | La fecha en la que se cierra la oportunidad |
 
-1. Intervalo de tiempo creado por la oportunidad
+1. Intervalo de tiempo creado para la oportunidad
 
-   | Dimension | Descripción |
+   | Dimensión | Descripción |
    |---|---|
-   | Año de creación de oportunidad | El año en que se crea la oportunidad |
+   | Año de creación de oportunidad | Año en el que se crea la oportunidad |
    | Trimestre de creación de oportunidad | El trimestre en el que se crea la oportunidad |
    | Mes de creación de oportunidad | Mes en el que se crea la oportunidad |
-   | Semana de creación de oportunidad | La semana en que se crea la oportunidad |
-   | Fecha de creación de oportunidad | La fecha en que se crea la oportunidad |
+   | Semana de creación de oportunidad | La semana en la que se crea la oportunidad |
+   | Fecha de creación de la oportunidad | La fecha en la que se crea la oportunidad |
 
 1. Medidas
 
    | Medida | Descripción |
    |---|---|
    | Promedio de días para cerrar la oportunidad | Cantidad promedio de días para cerrar una oportunidad |
-   | Promedio de días para cerrar la oportunidad (perdida) | Cantidad promedio de días para una oportunidad perdida |
-   | Promedio de días para cerrar oportunidad (Ganado) | Cantidad promedio de días para una oportunidad ganada |
-   | Número de todas las oportunidades | Número total de todas las oportunidades |
-   | Número de oportunidades (cerrado) | Número total de oportunidades cerradas (ganadas o perdidas) |
+   | Promedio de días para cerrar la oportunidad (se perdió) | Número promedio de días para una oportunidad perdida |
+   | Promedio de días para cerrar oportunidad (Won) | Cantidad promedio de días para una oportunidad ganada |
+   | Número de todas las oportunidades | Número total de oportunidades |
+   | Número de oportunidades (cerrado) | Número total de oportunidades que se cierran (ganadas o perdidas) |
    | Número de oportunidades (perdidas) | Número total de oportunidades perdidas |
-   | Número de oportunidades (abiertas) | Número total de oportunidades que aún están abiertas |
-   | Número de oportunidades (Ganado) | Número total de oportunidades ganadas |
-   | Cantidad de oportunidad | Cantidad total de oportunidad. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación de posible cliente. |
-   | Cantidad de oportunidad (perdida) | Importe total de las oportunidades perdidas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación de posible cliente. |
-   | Cantidad de oportunidad (abierta) | Importe total de las oportunidades abiertas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación de posible cliente. |
-   | Cantidad de oportunidad (Ganada) | Importe total de las oportunidades ganadas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación de posible cliente. |
+   | Número de oportunidades (abierto) | Número total de oportunidades que aún están abiertas |
+   | Número de oportunidades (Won) | Número total de oportunidades que se obtienen |
+   | Monto de la oportunidad | Cantidad total de oportunidad. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
+   | Cantidad de oportunidad (perdida) | Cantidad total de oportunidades perdidas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
+   | Cantidad de oportunidad (abierta) | Cantidad total de oportunidades abiertas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
+   | Cantidad de oportunidad (Ganada) | Cantidad total de oportunidades ganadas. Si hay más de un posible cliente asociado a una oportunidad, la cantidad de asignación se basa en la puntuación del posible cliente. |
 
 >[!MORELIKETHIS]
 >
->* [Crear un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [Añadir campos en un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Creación de un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Adición de campos a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >* [Suscripción a un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
