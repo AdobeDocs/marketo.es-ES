@@ -270,7 +270,7 @@ include:mktomail.com
 
 Háblame cuando hayas completado estos pasos, para que pueda completar el proceso de configuración con Marketo.
 
-¡Gracias! ¡Eres el mejor!
+Gracias! ¡Eres el mejor!
 
 Amor,
 
