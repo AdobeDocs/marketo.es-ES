@@ -3,7 +3,6 @@ unique-page-id: 8781988
 description: 'Explicación de las tarjetas de Analytics: Documentos de Marketo: Documentación del producto'
 title: Información sobre las tarjetas de Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Explicación de las tarjetas de Analytics {#understanding-analytics-cards}
+# Información sobre las tarjetas de Analytics {#understanding-analytics-cards}
 
 Al principio de cada mes, Marketo Moments proporciona tres tarjetas de informes diferentes: Posibles clientes adquiridos, nuevos posibles clientes y cancelaciones de suscripción. Cada uno muestra el rendimiento mensual y la tendencia a lo largo de un período de seis meses.
 
@@ -37,7 +36,7 @@ En este ejemplo, rojo indica que el valor ha disminuido en el intervalo de fecha
 
 ## Posibles clientes adquiridos {#acquired-leads}
 
-La tarjeta **Posibles clientes adquiridos** muestra un informe de tendencias mes tras mes sobre el número de nuevos posibles clientes.
+La variable **Posibles clientes adquiridos** La tarjeta de muestra un informe de tendencia mes a mes sobre el número de posibles clientes nuevos.
 
 >[!NOTE]
 >
@@ -47,13 +46,13 @@ La tarjeta **Posibles clientes adquiridos** muestra un informe de tendencias mes
 
 ## Nuevos posibles clientes {#new-leads}
 
-La tarjeta **Nuevos posibles clientes** muestra un informe de tendencias mes tras mes del número total de nuevos posibles clientes en su instancia durante los últimos seis meses.
+La variable **Nuevos posibles clientes** La tarjeta de muestra un informe de tendencia mes a mes sobre la cantidad total de posibles clientes nuevos en su instancia durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Cancelación de suscripción {#unsubscribes}
+## Cancela suscripción {#unsubscribes}
 
-La tarjeta **Unsubscribes** muestra un informe de tendencia mes tras mes de la tasa de cancelación de suscripción en los últimos seis meses.
+La variable **Cancelación de suscripción** La tarjeta de muestra un informe de tendencia mes a mes de la tasa de cancelación de suscripción en los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
