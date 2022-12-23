@@ -115,7 +115,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
    * Borre la variable **Solo lectura** para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** casilla de verificación del perfil del administrador del sistema (como se muestra a continuación)
+      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** para el perfil del administrador del sistema (como se muestra a continuación)
       * Si creó un _perfil personalizado_ para el usuario de sincronización, borre la **Solo lectura** casilla de verificación de ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)

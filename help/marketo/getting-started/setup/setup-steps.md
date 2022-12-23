@@ -147,7 +147,7 @@ Configure las opciones de dominio para que las páginas de aterrizaje utilicen e
 >
 >¿Es cliente de Launch Pack? Puede omitir este paso. Su consultor le proporcionará un documento de instrucciones de configuración de TI durante su llamada inicial.
 
-Existen varias medidas que puede tomar para garantizar que los mensajes de correo electrónico lleguen al mayor número posible de personas.
+Existen varias medidas que puede tomar para garantizar que los correos electrónicos lleguen al mayor número posible de personas.
 
 * **Marcar los vínculos de seguimiento**. Puede elegir un CNAME para usar su propio dominio (en lugar de Marketo) en los vínculos que incluye en los correos electrónicos de Marketo. Esto refuerza la promoción de la marca del dominio y aumenta la confianza y la capacidad de envío con los destinatarios.
 * **Añada Marketo a la lista de permitidos de correo electrónico corporativa.** Se recomienda enviar correos electrónicos de prueba a las cuentas de prueba antes de enviar correos electrónicos a las personas reales. Por inclusión en la lista de permitidos Marketo, puede evitar que esos correos electrónicos de prueba se bloqueen o se marquen como correo no deseado.

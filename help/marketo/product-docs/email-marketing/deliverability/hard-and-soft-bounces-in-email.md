@@ -18,7 +18,7 @@ Un rechazo grave puede hacer que la dirección de correo electrónico de una per
 
 Hay 5 cadenas de personas en Marketo que están relacionadas con la entrega de correo electrónico con problemas.
 
-1. **Correo electrónico suspendido** - Configúrelo en True cuando se produce un determinado tipo de devolución.
+1. **Correo electrónico suspendido** - Configúrelo en True cuando se produce un determinado tipo de rechazo grave.
 1. **Causa de suspensión de correo electrónico** - Puede haber muchas razones. Este campo intenta explicar la causa.
 1. **Correo electrónico suspendido en** - Cuando se produce el rechazo ofensivo, Marketo suspenderá el envío a la persona durante 24 horas desde esta marca de tiempo.
 1. **Correo electrónico no válido** - Configúrelo en True cuando se produce un determinado tipo de devolución.
