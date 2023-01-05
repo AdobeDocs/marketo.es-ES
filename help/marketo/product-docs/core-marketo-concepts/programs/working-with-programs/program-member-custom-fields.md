@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Campos personalizados de miembro del programa - Documentos de Marketo - Documentación del producto
 title: Campos personalizados de miembro del programa
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # Campos personalizados de miembro del programa {#program-member-custom-fields}
 
 Los campos personalizados del miembro del programa le permiten recopilar datos específicos del programa para cada miembro. Pueden utilizarse en: Marketo forms, déclencheur y filtros de listas inteligentes y acciones de flujo de campañas inteligentes. Los datos se pueden ver en la pestaña Miembros del programa.
-
->[!NOTE]
->
->Los campos personalizados de miembro del programa no tienen una integración con los campos de miembro de Salesforce Campaign en este momento.
 
 ## Crear un campo personalizado de miembro del programa {#create-a-program-member-custom-field}
 
@@ -67,6 +63,7 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 
 * Los campos personalizados de miembro del programa solo están disponibles en los recursos locales. No son compatibles con Design Studio porque no hay forma de vincularlas a un programa específico.
 * No se puede clonar ni mover a Design Studio un formulario (o una página de aterrizaje con un formulario) que contenga campos personalizados Miembros del programa.
+* [Puede sincronizar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} los campos personalizados de miembro del programa con los campos personalizados de miembro de campaña.
 * El objeto Miembro del programa puede tener hasta 20 campos personalizados. Estos campos están disponibles para cualquier programa.
 * Cuando elimine un miembro de un programa, si tiene datos en el campo personalizado Miembro del programa, los datos se limpiarán de ese campo.
 * Para ver los datos, haga clic en la ficha Miembros del programa y cree una vista personalizada que incluya dichos campos.
@@ -77,4 +74,7 @@ Puede aprovechar estos datos específicos del programa en listas inteligentes me
 
 >[!MORELIKETHIS]
 >
->[Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [Sincronización de campos personalizados de miembro del programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
