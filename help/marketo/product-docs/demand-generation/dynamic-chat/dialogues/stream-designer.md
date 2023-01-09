@@ -2,9 +2,9 @@
 description: 'Diseñador de secuencias: Documentos de Marketo: Documentación del producto'
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ En la parte superior derecha del Diseñador de secuencias, verá algunos iconos.
 1. En Respuesta de bots de chat, responda a su pregunta como le gustaría.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >Puede personalizar la experiencia para los visitantes de chat conocidos mediante tokens (por ejemplo: Hello `{{lead.leadFirstName:""}}`). Simplemente haga clic en el icono de llaves de la derecha y realice la selección. Agregue un valor predeterminado entre las comillas si desea que los visitantes anónimos vean algo genérico (por ejemplo: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >

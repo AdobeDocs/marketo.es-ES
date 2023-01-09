@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '8813'
+source-wordcount: '8817'
 ht-degree: 2%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 2%
          + [Agregar o eliminar un usuario](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Inicio de sesión de usuario con Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + Configuración {#settings}
+         + [Información de la API de exportación masiva](product-docs/administration/settings/bulk-export-api-information.md)
          + [Cambiar la configuración de atribución para Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Cambiar la contraseña de Marketo](product-docs/administration/settings/change-your-marketo-password.md)
          + [Cambiar la configuración de seguridad de contraseña](product-docs/administration/settings/change-your-password-security-settings.md)

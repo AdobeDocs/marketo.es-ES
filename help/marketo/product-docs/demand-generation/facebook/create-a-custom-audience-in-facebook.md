@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: 'Crear una audiencia personalizada en Facebook: Marketo Docs: documentación del producto'
 title: Crear una audiencia personalizada en Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Añadir Audiencias personalizadas de Facebook como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) en la sección Administración.
->* [Aceptar términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) en su cuenta de Facebook.
->
+>* [Añadir Audiencias personalizadas de Facebook como un servicio de LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} en la sección Administración.
+>* [Aceptar términos de audiencias personalizadas de Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} en su cuenta de Facebook.
 
 
 >[!TIP]
 >
->Más información sobre [audiencias personalizadas en Facebook](https://www.facebook.com/help/341425252616329).
+>Más información sobre [audiencias personalizadas en Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
 
 1. Busque y seleccione la lista inteligente o estática que contiene los posibles clientes desde los que desea crear la audiencia.
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   ¡Y eso es todo! En Facebook verá la nueva audiencia en **Administrador de anuncios > Audiencias**.
+   ¡Y eso es todo! En Facebook verá la nueva audiencia en **Administrador de anuncios** > **Audiencias**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulte la [Ruta de aprendizaje de facebook para clientes de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Abarca todo lo que necesita saber, desde la creación de una página de Facebook hasta la segmentación de la publicidad de Facebook mediante integraciones de red de anuncios de Marketo.
+   >Consulte la [Ruta de aprendizaje de facebook para clientes de Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Abarca todo lo que necesita saber, desde la creación de una página de Facebook hasta la segmentación de la publicidad de Facebook mediante integraciones de red de anuncios de Marketo.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Añadir posibles clientes a una audiencia personalizada en Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
