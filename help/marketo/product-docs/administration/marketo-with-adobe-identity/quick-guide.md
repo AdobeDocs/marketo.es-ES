@@ -2,9 +2,9 @@
 description: 'Guía rápida: Documentos de Marketo: Documentación del producto'
 title: Guía rápida
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 70b98157d06406e56767b0ab5478b01f1ebefdf6
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Solo los usuarios de API de Marketo Engage deben crearse y administrarse en Mark
 
 ## Añadir usuarios mediante CSV {#add-users-via-csv}
 
-[Importar un CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target=&quot;_blank&quot;}
+[Importar un CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target=&quot;_blank&quot;}
 
 ## Inicio de sesión de usuario {#user-sign-in}
 
