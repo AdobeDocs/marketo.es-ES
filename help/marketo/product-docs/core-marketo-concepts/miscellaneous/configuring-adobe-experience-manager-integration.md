@@ -5,16 +5,16 @@ title: Configuración de la integración de Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
+source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
 # Configuración de la integración de Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Marketo Design Studio.
+Configure Adobe Experience Manager (AEM) para que pueda acceder, seleccionar e importar AEM recursos en Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Mar
 
    ![](assets/one.png)
 
-1. Puede iniciar sesión con Adobe o con inicio de sesión local. En este ejemplo iniciaremos sesión localmente.
+1. Puede iniciar sesión con Adobe o con inicio de sesión local. En este ejemplo, iniciaremos sesión localmente.
 
    ![](assets/two.png)
 
@@ -63,7 +63,7 @@ Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Mar
 
    ![](assets/eight.png)
 
-1. En Marketo Classic, haga clic en **Administrador**.
+1. En el Marketo Engage, haga clic en **Administrador**.
 
    ![](assets/nine.png)
 
@@ -78,5 +78,3 @@ Configure AEM para que pueda acceder, seleccionar e importar AEM recursos en Mar
 1. Introduzca la dirección URL de AEM y haga clic en **OK**.
 
    ![](assets/twelve.png)
-
-   ¡Estás listo! Ahora puede [importar AEM recursos en Design Studio en Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
