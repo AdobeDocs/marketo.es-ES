@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Crear y utilizar un campo de cadena concatenada (fórmula) - Marketo Docs - Documentación del producto
 title: Crear y utilizar un campo de cadena concatenada (fórmula)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,33 @@ ht-degree: 0%
 
 Puede combinar valores de varios campos o crear un valor condicional mediante un campo de fórmula de Marketo.
 
-1. Vaya a **Administrador** y haga clic en **Gestión de las actividades sobre el terreno**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
+
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
 1. Haga clic en **Nuevo campo personalizado**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
 1. Select **Fórmula** para el **Tipo**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
 1. Escriba un **Nombre** para el campo , haga clic en **Crear**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
 1. Busque y seleccione el campo de fórmula y haga clic en **Editar reglas**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. Añada dos opciones y defina como la captura de pantalla siguiente.
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -44,7 +48,7 @@ Puede combinar valores de varios campos o crear un valor condicional mediante un
 
 1. Ahora puede añadir el campo de fórmula como token en un correo electrónico.
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >

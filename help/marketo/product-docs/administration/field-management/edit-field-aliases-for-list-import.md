@@ -3,9 +3,9 @@ unique-page-id: 2360346
 description: Editar alias de campo para la importación de lista - Documentos de Marketo - Documentación del producto
 title: Editar alias de campo para importación de lista
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,25 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 >
 >**Se requieren permisos de administrador**
 
-1. En **Administrador**, haga clic en **Gestión de las actividades sobre el terreno**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-19-9-3a56-3a22.png)
+   ![](assets/edit-field-aliases-for-list-import-1.png)
+
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
+
+   ![](assets/edit-field-aliases-for-list-import-2.png)
 
 1. Busque y seleccione el campo al que desee agregar un alias.
 
-   ![](assets/fieldmanagement-findfield.png)
+   ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. En la lista desplegable Acciones de campo , haga clic en **Editar alias de importación**.
+1. En el **Acciones de campo** desplegable, haga clic en **Editar alias de importación**.
 
-   ![](assets/fieldmanageemnt-editimport.png)
+   ![](assets/edit-field-aliases-for-list-import-4.png)
 
 1. Introduzca un alias y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-19-9-3a57-3a1.png)
+   ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
@@ -40,4 +44,4 @@ Al importar una lista con encabezados desconocidos, puede crear alias de campo p
 
 ¡Mira eso! Ahora, si importa una hoja de cálculo con una columna denominada &quot;DOB&quot;, Marketo la reconocerá automáticamente como &quot;Fecha de nacimiento&quot; e importará los datos en el campo correcto.
 
-![](assets/image2014-9-19-9-3a57-3a20.png)
+![](assets/edit-field-aliases-for-list-import-6.png)

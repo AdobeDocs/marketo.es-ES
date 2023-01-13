@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: 'HTML Codificar tokens en correos electrónicos: Marketo Docs: Documentación del producto'
 title: Codificar tokens de HTML en correos electrónicos
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -22,20 +22,20 @@ Habilite o deshabilite los tokens de persona y empresa que se usan en los correo
 >
 >La codificación convierte los caracteres en sus versiones de código de HTML para evitar confusiones al transmitirse (p. ej. &quot;&amp;&quot; se ha cambiado a `&amp;`). Para obtener más información, consulte con su desarrollador web.
 
-1. Vaya a **Administrador**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/admin.png)
+   ![](assets/html-encode-tokens-in-emails-1.png)
 
-1. Select **Gestión de las actividades sobre el terreno**.
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
 
-   ![](assets/two-2.png)
+   ![](assets/html-encode-tokens-in-emails-2.png)
 
 1. Busque y seleccione el campo que desee.
 
-   ![](assets/five.png)
+   ![](assets/html-encode-tokens-in-emails-3.png)
 
 1. Marque la **Codificar tokens de HTML en correos electrónicos** para activarlo, desmarque para desactivarlo.
 
-   ![](assets/six.png)
+   ![](assets/html-encode-tokens-in-emails-4.png)
 
    ¡Y eso es todo! Puede hacerlo para todos los campos individuales que desee.

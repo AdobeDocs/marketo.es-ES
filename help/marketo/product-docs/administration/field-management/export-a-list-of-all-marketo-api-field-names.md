@@ -3,9 +3,9 @@ unique-page-id: 2360295
 description: 'Exportar una lista de todos los nombres de campos de la API de Marketo: Marketo Docs: documentación del producto'
 title: Exportar una lista de todos los nombres de campos de la API de Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Si utiliza nuestra API SOAP o la API de Munchkin, necesitará una lista de todos
 >
 >**Se requieren permisos de administrador**
 
-1. Vaya a **Administrador** y haga clic en **Gestión de las actividades sobre el terreno**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-24-14-3a4-3a54.png)
+   ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
+
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
+
+   ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
 1. Haga clic en **Nombres de campos de exportación** para descargar la hoja de cálculo.
 
-   ![](assets/image2014-9-24-14-3a5-3a6.png)
+   ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
 ¡Muy bien! Ahora tiene una hoja de cálculo con una lista de todos los campos y sus nombres de API.
 
-![](assets/image2014-9-24-14-3a5-3a19.png)
+![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 
 >[!NOTE]
 >
