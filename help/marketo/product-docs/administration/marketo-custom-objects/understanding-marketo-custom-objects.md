@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 'Explicación de los objetos personalizados de Marketo: Documentos de Marketo: Documentación del producto'
 title: Explicación de los objetos personalizados de Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,21 @@ Muchos a muchos objetos personalizados utilizan dos campos de vínculo, que form
 
 ## Acceso a objetos personalizados de Marketo {#accessing-marketo-custom-objects}
 
-1. Para crear o editar objetos personalizados de Marketo, haga clic en **Administrador** y luego la variable **Objetos personalizados de Marketo** vínculo.
+1. Vaya a la **Administrador** .
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. La visualización de objetos personalizados de Marketo muestra todos los objetos personalizados de la derecha, pero solo los aprobados de la cuadrícula principal.
+1. Haga clic en **Objetos personalizados de Marketo**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. La cuadrícula muestra el nombre del objeto, el número de registros, el número de campos y la fecha de la última actualización.
+1. La visualización de objetos personalizados de Marketo muestra todos los objetos personalizados de la derecha, pero solo los aprobados de la cuadrícula principal.
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >La cuadrícula muestra el nombre del objeto, el número de registros, el número de campos y la fecha de la última actualización.
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ Muchos a muchos objetos personalizados utilizan dos campos de vínculo, que form
 
 1. Haga clic en el nombre de objeto a la derecha para abrir la página de detalles.
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## Ver objetos personalizados asociados a una persona {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ Después de crear la estructura de objetos personalizada, al cargar los datos de
 
 1. Vaya a **Base de datos**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. Abra la base de datos y haga clic en el botón **People** pestaña . Haga doble clic en el registro de una persona asociada a un objeto personalizado.
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. En la página de detalles de la persona, haga clic en el botón **Objetos personalizados** pestaña . Seleccione el objeto en la lista desplegable.
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. Ahora puede ver una lista de todos los objetos personalizados de ese tipo asociados a esa persona.
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## Uso de objetos personalizados con compañías {#using-custom-objects-with-companies}
 

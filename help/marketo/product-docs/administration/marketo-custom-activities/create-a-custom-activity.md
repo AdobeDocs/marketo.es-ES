@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: 'Crear una actividad personalizada: Marketo Docs: documentación del producto'
 title: Crear una actividad personalizada
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ Siga estos pasos para crear una nueva actividad personalizada.
 >
 >La mayoría de las suscripciones tienen asignado un límite de 10 tipos de actividades personalizadas.
 
-1. Haga clic en **Administrador**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/one.png)
+   ![](assets/create-a-custom-activity-1.png)
 
-1. En **Administración de bases de datos** click **Actividades personalizadas**.
+1. Haga clic en **Actividades personalizadas de Marketo**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-activity-2.png)
 
 1. Haga clic en **Nueva actividad personalizada**.
 
-   ![](assets/three.png)
+   ![](assets/create-a-custom-activity-3.png)
 
 1. Escriba un nombre y una descripción opcional y haga clic en **Siguiente**. El nombre de la API se rellena automáticamente, pero se puede personalizar.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
@@ -40,13 +40,11 @@ Siga estos pasos para crear una nueva actividad personalizada.
 
 1. Defina su **Filtro** y **Déclencheur** y haga clic en **Siguiente**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-activity-5.png)
 
 1. Asigne un nombre al campo principal que resuma para qué es la actividad personalizada.
 
-   ![](assets/six.png)
-
-   ¡Y eso es todo!
+   ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >

@@ -1,10 +1,10 @@
 ---
 description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, octubre de 2022
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 4%
+source-wordcount: '601'
+ht-degree: 3%
 
 ---
 
@@ -172,20 +172,6 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
 </table>
 
 * **Compatibilidad con tipos de datos adicionales para Dynamic Chat**: Tres nuevos tipos de datos (booleano, entero, flotante) le permiten aprovechar los campos de Marketo Engage existentes en Dynamic Chat para cosas como el targeting basado en puntuaciones o preguntar a los visitantes sí/no preguntas.
-
-<table> 
-  <tr> 
-   <td><b>Estado</b></td>
-   <td><b>Actualizaciones de documentación</b></td>
-  </tr>
-  <tr> 
-   <td><i>Próximamente</i></td>
-   <td>n/a</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Notificaciones de reuniones programadas para chat dinámico**: Los representantes de ventas reciben notificaciones automatizadas por correo electrónico con respecto a las reuniones programadas, así como cualquier información relevante sobre la interacción de bots de chat del visitante.
 
 <table> 
   <tr> 
