@@ -1,9 +1,9 @@
 ---
 description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, octubre de 2022
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '600'
 ht-degree: 3%
 
 ---
@@ -179,7 +179,7 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
    <td>n/a</td>
   </tr>
   </tbody>
