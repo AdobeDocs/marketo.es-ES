@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Aprobar un objeto personalizado - Documentos de Marketo - Documentación del producto
 title: Aprobar un objeto personalizado
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ Debe aprobar un objeto personalizado para poder utilizarlo. El proceso es ligera
 
 Ha creado un objeto personalizado completamente nuevo. Así es como aprobarlo.
 
-1. En Administración, haga clic en **Objetos personalizados de Marketo** y seleccione un objeto que esté en estado borrador.
+1. Vaya a la **Administrador** .
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Haga clic en **Objetos personalizados de Marketo**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Seleccione un objeto que esté en estado borrador.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Haga clic en el **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. El estado cambia a Aprobado.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ Después de editar un objeto personalizado aprobado, debe aprobar el borrador pa
 
 1. Cuando edita un objeto personalizado ya aprobado, recibe un estado Approved with Draft .
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. Cuando esté listo para aprobar el borrador, haga clic en el **Acciones de objeto personalizado** y seleccione **Aprobar objeto**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. Una vista previa muestra los elementos que se han cambiado en el borrador. Haga clic en **Aprobar**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
