@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: 'Alternar dinámicamente la visibilidad de un campo de formulario: Documentos de Marketo: Documentación del producto'
 title: Alternar dinámicamente la visibilidad de un campo de formulario
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Una característica realmente interesante de los formularios de Marketo es que p
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 ¡Y eso es todo! Ahora, cuando las personas rellenen este formulario y seleccionen Estados Unidos para País, el campo Estado aparecerá dinámicamente con las opciones especificadas.
+
+>[!IMPORTANT]
+>
+>El comportamiento de los campos de formulario funcionará perfectamente cuando los valores de los campos se definan o actualicen mediante una secuencia de comandos personalizada mediante [Funciones de API](https://developers.marketo.com/javascript-api/forms/){target="_blank"} en Forms 2.0.
+>
+>Los campos condicionales pueden no funcionar como se espera si los valores de los campos se modifican mediante secuencias de comandos externas que no sean la API de JavaScript de Forms 2.0.
