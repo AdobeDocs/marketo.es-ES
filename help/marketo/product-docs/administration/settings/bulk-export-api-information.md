@@ -1,18 +1,16 @@
 ---
 description: 'Información de la API de exportación masiva: Marketo Docs: Documentación del producto'
 title: Información de la API de exportación masiva
-hide: true
-hidefromtoc: true
-source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # Información de la API de exportación masiva {#bulk-export-api-information}
 
-Aprenda a comprobar cuánto [API de extracción masiva](https://developers.marketo.com/rest-api/bulk-extract/)La capacidad de {target=&quot;_blank&quot;} la ha asumido la instancia de Marketo Engage en los últimos siete días.
+Aprenda a comprobar cuánto [API de extracción masiva](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} la capacidad ha sido asumida por su instancia de Marketo Engage durante los últimos siete días.
 
 >[!NOTE]
 >
