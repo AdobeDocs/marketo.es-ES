@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 9%
+source-wordcount: '597'
+ht-degree: 7%
 
 ---
 
@@ -126,8 +126,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -140,8 +140,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendario</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,8 +168,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -182,8 +182,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Reuniones</a></td>
   </tr>
   </tbody>
 </table>
