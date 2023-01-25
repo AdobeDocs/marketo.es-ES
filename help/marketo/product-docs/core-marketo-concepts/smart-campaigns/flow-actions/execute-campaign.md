@@ -2,9 +2,9 @@
 description: 'Ejecutar campaña: Documentos de Marketo: Documentación del producto'
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Puede hacer muchas cosas con una campaña ejecutable. Están diseñadas para fac
 
 También puede utilizarlos cuando necesite ejecutar un flujo independiente, pero debe depender de los resultados de ese flujo en las siguientes opciones de paso de flujo (es decir, si esto sucede, haga eso).
 
-Ejecutar campaña es una mejora en [Solicitud de campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), ya que puede ejecutarse en serie o en paralelo, mientras que este último solo se ejecuta en paralelo.
+Ejecutar campaña es una mejora en [Solicitud de campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), ya que puede ejecutarse en serie, mientras que el último solo se ejecuta en paralelo.
 
 >[!NOTE]
 >
