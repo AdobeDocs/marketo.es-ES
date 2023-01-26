@@ -2,9 +2,9 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -208,4 +208,4 @@ Eche un vistazo a la nueva navegación global.
 >
 >El uso de la búsqueda en el árbol solo producirá resultados de la sección en la que se encuentra (p. ej., Actividades de marketing). Si desea buscar en toda la instancia, utilice la búsqueda global.
 
-Disfrute de la nueva experiencia del Marketo Engage y asegúrese de compartir sus comentarios.
+Disfrute de la nueva experiencia del Marketo Engage.
