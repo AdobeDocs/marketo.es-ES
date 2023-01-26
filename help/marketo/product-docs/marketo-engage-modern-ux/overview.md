@@ -2,10 +2,10 @@
 description: 'Información general: Documentos de Marketo: Documentación del producto'
 title: Resumen
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 2%
+source-wordcount: '486'
+ht-degree: 1%
 
 ---
 
@@ -30,8 +30,6 @@ Al iniciar sesión por primera vez, aparecerá una ventana emergente lista para 
 
 El tour te guía por todo lo que necesitas saber!
 
-![](assets/overview-2.png)
-
 ## Novedades {#whats-new}
 
 Hay una gran cantidad de funcionalidades nuevas en el usuario moderno, todas ellas diseñadas para mejorar significativamente su experiencia de marketing.
@@ -40,7 +38,7 @@ Hay una gran cantidad de funcionalidades nuevas en el usuario moderno, todas ell
 
 La nueva interfaz presenta una iconografía mejorada y ampliada. Obtenga información sobre ellos aquí: [Icono Glosario](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Navegación global**
 
@@ -191,15 +189,12 @@ Eche un vistazo a la nueva navegación global.
    <td>Todos los elementos de superbola anteriores enumerados en</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Utilice esto para proporcionar comentarios sobre su experiencia</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>Si tiene varias suscripciones, haga clic en su subnombre para cambiar fácilmente a otro</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Búsqueda global: ahora puede buscar toda la instancia desde aquí</td> 
   </tr>
  </tbody>
