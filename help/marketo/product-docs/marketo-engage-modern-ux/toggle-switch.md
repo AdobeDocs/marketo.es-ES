@@ -2,9 +2,9 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -68,5 +68,9 @@ Las siguientes funciones están disponibles actualmente en el usuario moderno (c
 * Vista de detalles de la página de aterrizaje
 * Vista de lista de páginas de aterrizaje
 * Detalles de la plantilla de página de aterrizaje
+* Lista de plantillas de página de aterrizaje
 * Vista Detalles del fragmento
+* Vista de lista de fragmentos
+
+
 

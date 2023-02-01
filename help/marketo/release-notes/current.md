@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
-ht-degree: 7%
+source-wordcount: '631'
+ht-degree: 6%
 
 ---
 
@@ -36,8 +36,8 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar conmutador</a></td>
   </tr>
   </tbody>
 </table>
