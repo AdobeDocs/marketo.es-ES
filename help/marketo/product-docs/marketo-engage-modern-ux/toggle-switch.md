@@ -2,7 +2,7 @@
 description: 'Alternar conmutador: Documentos de Marketo: Documentación del producto'
 title: Alternar conmutador
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
+source-git-commit: f7e685b5386cddde508382d6598a63855bfd6cbf
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Select **Habilitar para todas las funciones disponibles** y haga clic en **OK**.
 
 ## Funciones disponibles {#available-features}
 
-Las siguientes funciones están disponibles actualmente en el usuario moderno (con las nuevas funciones agregadas en cada versión):
+Las siguientes funciones están disponibles actualmente en el usuario moderno (con nuevas funciones agregadas en cada versión):
 
 * Vista Detalles del correo electrónico
 * Vista de lista de correo electrónico
