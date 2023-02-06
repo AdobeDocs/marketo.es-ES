@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
 workflow-type: tm+mt
-source-wordcount: '8833'
+source-wordcount: '8827'
 ht-degree: 2%
 
 ---
@@ -1561,7 +1561,7 @@ ht-degree: 2%
          + [Utilizar mensajes SMS de vídeo en Déclencheur y filtros de listas inteligentes](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalización {#personalization}
       + Segmentación y recortes {#segmentation-and-snippets}
-         + Segmentos {#segmentation}
+         + Segmentación {#segmentation}
             + [Aprobar una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [Crear una segmentación](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [Definir reglas de segmentos](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1675,7 +1675,6 @@ ht-degree: 2%
          + [Configuración de perspectivas de rendimiento](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Información general sobre tendencias de perspectivas de rendimiento](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Configuración de perspectivas de rendimiento](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-         + [Sincronizar campos personalizados con perspectivas de rendimiento](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + Análisis del ciclo de ingresos {#revenue-cycle-analytics}
          + Análisis de correo electrónico {#email-analysis}
             + [Creación de un informe de análisis de correo electrónico que enumere los posibles clientes](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
