@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 'Importar un programa: Documentos de Marketo: Documentación del producto'
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -59,31 +59,6 @@ Recibirá una confirmación por correo electrónico una vez que la importación 
 >[!NOTE]
 >
 >Deberá volver a programar campañas por lotes importadas y activar campañas de déclencheur. El sistema desactiva automáticamente las programaciones de campañas y las campañas de déclencheur en el programa importado.
-
-## Identificar programas pregenerados en la biblioteca de programas de Marketo {#identify-pre-built-programs-in-the-marketo-program-library}
-
-La biblioteca de programas de Marketo contiene programas creados previamente y probados que puede importar en su suscripción. Los programas disponibles incluyen:
-
-1. **Nurtura básica del taladro.** Envía una serie de correos electrónicos separados por pasos de espera.
-1. **Gestión de datos.** Mantiene la integridad de los datos mediante campañas inteligentes.
-1. **Enviar correo electrónico con la página de aterrizaje.** Envía un correo electrónico inicial con una oferta, como &quot;descargar este libro blanco&quot;. Sigue con un correo electrónico de confirmación o recordatorio. Incluye una página de aterrizaje con un formulario.
-1. **Correo electrónico con estados de progresión.** Envía una explosión de correo con un enlace rastreable para que la persona haga clic. Actualiza el estado de progresión de cada persona: Enviado, Abierto, Clic, etc.
-1. **Momentos interesantes.** Crea momentos interesantes para que su equipo de ventas los mantenga en el circuito.
-1. **Página de aterrizaje con respuesta automática.** Utilice contenido descargable para obtener nuevas personas y nutrirlas. Incluye páginas de aterrizaje y formularios.
-1. **Ciclo de vida 2.** Utiliza la puntuación para mover una persona de nuevo a cualificado para el marketing.
-1. **Plantilla de correo electrónico móvil.** Una plantilla de correo electrónico adaptable probada con iPhone y Android. Algunas versiones de Android, MS Outlook, Exchange y aplicaciones de terceros como Gmail y Yahoo! Las aplicaciones móviles de correo no admiten el CSS necesario para las plantillas adaptables. Se recomienda probar antes de enviar correos electrónicos.
-1. **Apuestas para la importación de programas.** Programa Apuestas para aquellos que están probando la Biblioteca de Programas! Simplemente apruebe los correos electrónicos y la página de aterrizaje y active la campaña inteligente. A continuación, vea la página de aterrizaje aprobada, rellene el formulario y ¡se ha introducido!
-1. **Campañas Disponibles de Ventas.** Ofrece a sus representantes de ventas una forma de ejecutar campañas inteligentes de Marketo desde un panel en su CRM.
-1. **Puntuación - Spark Edition.** Puntuación demográfica y de comportamiento capturada en un único campo de puntuación. Incluye más de dos docenas de campañas relacionadas con la puntuación.
-1. **Puntuación: ediciones estándar y determinadas.** Puntuación demográfica y de comportamiento capturada en campos de puntuación independientes. Incluye más de dos docenas de campañas relacionadas con la puntuación.
-1. **Sincronizar nuevas personas con CRM.** La campaña que sincroniza nuevas personas con su sistema CRM. Asigna un estado de persona de tal modo que se reconoce que no está listo para las ventas.
-1. **Seminario web con adaptador de eventos.** Un conjunto completo de correos electrónicos, como invitaciones y recordatorios, además de páginas de aterrizaje con formularios y campañas para trasladar personas a través del programa. Este programa obtiene actualizaciones sobre registro, asistencia, etc. de proveedores de eventos en línea como WebEx.
-1. **Seminario web sin adaptador de evento.** Igual que antes, pero con procesos manuales para registrar el registro, la asistencia, etc.
-1. **Programa de Puntuación de Sirius decisions**. Este programa está diseñado para apoyar el Modelo de Puntuación de Sirius decisions estándar, incluyendo las reglas de puntuación implícitas y explícitas y la asignación de persona matrixed.
-
->[!CAUTION]
->
->Debe crear dos campos personalizados (&quot;Puntuación demográfica&quot; y &quot;Puntuación de comportamiento&quot;) antes de importar el programa Puntuación: ediciones estándar y de selección .
 
 ## Impacto en los activos externos durante las importaciones de programas {#impact-on-external-assets-during-program-imports}
 

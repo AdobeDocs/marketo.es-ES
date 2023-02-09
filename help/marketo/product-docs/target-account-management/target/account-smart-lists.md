@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Listas inteligentes de cuentas - Documentos de Marketo - Documentación del producto
 title: Listas inteligentes de cuenta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,10 @@ Las listas inteligentes de cuentas funcionan de manera similar a las listas inte
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >Los datos del indicador ICP que se han utilizado en su [Clasificación y ajuste de perfiles de cuenta](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) aparecerá como Atributos de cuenta personalizados para su uso en la lista inteligente de cuentas. Estos datos de atributo personalizados se basan en cuándo se creó o actualizó el modelo de perfil de cuenta.
 
 1. Elija los filtros de persona coincidentes. En este ejemplo elegimos _El estado es California_.
 
