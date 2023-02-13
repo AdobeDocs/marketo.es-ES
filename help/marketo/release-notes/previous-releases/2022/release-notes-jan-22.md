@@ -2,9 +2,9 @@
 description: 'Notas de la versión, enero de 2022: Documentos de Marketo: Documentación del producto'
 title: Notas de la versión, enero de 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Los clientes Marketo Engage que también utilizan Adobe Experience Platform (AEP
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Llamar a resultados y motivos**: Comprenda y rastree los esfuerzos salientes de sus equipos de ventas en más detalle con las opciones nuevas y totalmente personalizables de resultados de llamadas y motivos de llamadas. Además de estos nuevos campos, estamos introduciendo un nuevo gobierno para aplicar el motivo de la llamada y la selección de resultados mientras los vendedores realizan llamadas, un nuevo gobierno para habilitar o deshabilitar los motivos y resultados de la llamada, y un nuevo campo personalizado Razón de la llamada y Actividad de Salesforce de resultados de llamada para registrar datos en Salesforce. [Haga clic aquí](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) para obtener más información.
+* **Llamar a resultados y motivos**: Comprenda y rastree los esfuerzos salientes de sus equipos de ventas de forma más detallada con las opciones nuevas, totalmente personalizables, de resultados de llamadas y motivos de llamadas. Además de estos nuevos campos, estamos introduciendo un nuevo gobierno para aplicar el motivo de la llamada y la selección de resultados mientras los vendedores realizan llamadas, un nuevo gobierno para habilitar o deshabilitar los motivos y resultados de la llamada, y un nuevo campo personalizado Razón de la llamada y Actividad de Salesforce de resultados de llamada para registrar datos en Salesforce. [Haga clic aquí](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) para obtener más información.
 
 * **Personalización de detalles de actividad de Salesforce**: Captura más datos de actividad y tarea de ventas en Salesforce personalizando la información que se agrega al campo de asunto de la tarea de Salesforce cuando se registra una actividad de ventas en Salesforce desde Sales Connect. [Haga clic aquí](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) para obtener más información.
 
@@ -81,8 +81,6 @@ Los clientes Marketo Engage que también utilizan Adobe Experience Platform (AEP
 * **Marketo Sky en desuso**: En marzo, Marketo Sky dejará de estar disponible, ya que centraremos nuestros recursos en ofrecer la experiencia de usuario de próxima generación. En un esfuerzo por mantener el acceso a la funcionalidad que es exclusiva del Marketo Sky actual, incorporamos la caducidad de los recursos y la anulación de la prioridad de las campañas inteligentes en la experiencia principal de marzo. [Haga clic aquí](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para obtener más información.
 
 * **Finalizaciones de formulario en desuso**: Los formularios Marketo Engage rechazarán los POST de formulario programáticos no compatibles con el extremo leadCapture/save2. [Haga clic aquí](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) para obtener más información.
-
-* **Iniciar sesión en el cuadro de diálogo Invitar a usuario**: En marzo, la función existente y opcional &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; quedará obsoleta. La función &quot;Iniciar sesión en el cuadro de diálogo de invitación de usuario&quot; está anulada por la función de ID universal, que es necesaria para la próxima integración del sistema de Identity Management de Adobe y se habilitó en agosto de 2021 en todas las suscripciones. Como resultado de la desaprobación, el Marketo Engage aplicará solamente un usuario para que se asocie por dirección de correo electrónico dentro de una suscripción.
 
 **Dominios de Marketo Engage: configuración de perspectivas de ventas**: Para los dominios Marketo Engage que no tienen el certificado SSL aprovisionado y https://, las llamadas fallarán con un error de protocolo de enlace SSL. Por lo tanto, estos dominios van a quedar obsoletos. Como resultado, los usuarios de Sales Insight con una configuración anterior que señala a cualquiera de estos dominios pueden encontrar errores de llamadas del sistema en sus paneles Poder, Contacto, Cuenta, Oportunidad o Marketo Global. Le recomendamos que actualice su [configuración del Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) en Salesforce si se encuentra con este error. Solo es necesario actualizar las credenciales del Marketo Engage resaltadas en la sección &quot;Marketo Sales Insight Config&quot; del documento.
 
