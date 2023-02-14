@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Creación de objetos personalizados de Marketo - Documentos de Marketo - Documentación del producto
 title: Crear objetos personalizados de Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ Utilice objetos personalizados en Marketo para realizar un seguimiento de las m�
 
 En este ejemplo se muestra un objeto personalizado Car para su uso en una estructura de uno a varios. Posteriormente, creará un objeto personalizado de curso y un objeto intermedio para utilizarlo en una estructura de varios a varios.
 
-1. Haga clic en **Administrador** y en **Administración de bases de datos** select **Objetos personalizados de Marketo**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Haga clic en **Objetos personalizados de Marketo**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Haga clic en **Nuevo objeto personalizado**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ En este ejemplo se muestra un objeto personalizado Car para su uso en una estruc
 
 1. Introduzca un nombre para mostrar. El nombre de la API y el nombre plural se rellenan automáticamente. Introduzca una descripción (opcional).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >Puede editar estos campos al crearlos, pero después de guardarlos, solo puede editar el campo Nombre de plural y el **Mostrar en detalle de posible cliente** control deslizante.
 
-1. Tire del **Mostrar en detalle de posible cliente** deslizador hacia arriba para mostrar **Show** si desea ver los datos de objeto personalizados en la página Base de datos de posibles clientes . Haga clic en **Guardar**.
+1. Tire del **Mostrar en detalle de posible cliente** deslizador hacia arriba para mostrar **Show** si desea ver los datos de objeto personalizados en la página Base de datos. Haga clic en **Guardar**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. La información del objeto personalizado muestra el contenido que ha introducido. Observe que está en estado Borrador.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    El siguiente paso es agregar campos a [crear el objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ Este ejemplo muestra un objeto personalizado del curso que se utilizará para cr
 >
 >Para una relación de varios a varios, no es necesario crear un vínculo en el objeto personalizado. En su lugar, agregará dos vínculos al objeto intermedio (consulte a continuación).
 
-1. Haga clic en **Administrador** y en **Administración de bases de datos** select **Objetos personalizados de Marketo**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Haga clic en **Objetos personalizados de Marketo**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Haga clic en **Nuevo objeto personalizado**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Introduzca un nombre para mostrar. El nombre de la API y el nombre plural se rellenan automáticamente. Introduzca una descripción (opcional).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >Puede editar estos campos al crearlos, pero después de guardarlos, solo puede editar el campo Nombre de plural y el **Mostrar en detalle de posible cliente** control deslizante.
 
-1. Tire del **Mostrar en detalle de posible cliente** deslizador hacia arriba para mostrar **Show** si desea ver los datos de objeto personalizados en la página Base de datos de posibles clientes . Haga clic en **Guardar**.
+1. Tire del **Mostrar en detalle de posible cliente** deslizador hacia arriba para mostrar **Show** si desea ver los datos de objeto personalizados en la página Base de datos. Haga clic en **Guardar**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. La información del objeto personalizado muestra el contenido que ha introducido. Observe que está en estado Borrador.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
 >
 >No es necesario crear un objeto intermedio para una estructura de objetos personalizada de uno a varios.
 
-1. Haga clic en **Administrador** y en **Administración de bases de datos**, seleccione **Objetos personalizados de Marketo**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Haga clic en **Objetos personalizados de Marketo**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Haga clic en **Nuevo objeto personalizado**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Introduzca un nombre para mostrar. El nombre de la API y el nombre plural se rellenan automáticamente. Introduzca una descripción (opcional).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >Puede editar estos campos cuando los esté creando, pero después de guardarlos, solo puede editar el campo Nombre de plural y el control deslizante Mostrar en detalle de posible cliente .
 
-1. Tire del **Mostrar en detalle de posible cliente** deslizador hacia arriba para mostrar **Show** si desea ver los datos de objeto personalizados en la página Base de datos de posibles clientes . Haga clic en **Guardar**.
+1. Tire del **Mostrar en detalle de posible cliente** deslizador hacia arriba para mostrar **Show** si desea ver los datos de objeto personalizados en la página Base de datos. Haga clic en **Guardar**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. La información del objeto personalizado muestra el contenido que ha introducido. Observe que está en estado Borrador.
 

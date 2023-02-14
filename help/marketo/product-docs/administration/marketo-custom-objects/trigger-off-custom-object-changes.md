@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: Déclencheur De Los Cambios De Objetos Personalizados - Documentos De Marketo - Documentación Del Producto
 title: Déclencheur de los cambios en objetos personalizados
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -30,27 +30,27 @@ En la lista inteligente de una campaña inteligente, puede crear un déclencheur
 
 1. En Marketo, vaya a **Actividades de marketing.**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. Cree o abra una campaña inteligente existente y seleccione la lista inteligente.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. Busque el déclencheur que necesita y arrástrelo al lienzo.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. Seleccione el atributo de déclencheur.
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. Opcionalmente, defina una restricción.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. Y ahí estás. El cambio se guarda automáticamente.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
