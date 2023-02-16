@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Documentos de Marketo - Documentación del producto
 title: Glosario de Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 2%
@@ -98,7 +98,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><strong>Puntuación de comportamiento</strong></td> 
-   <td colspan="1">Un valor de punto asignado a una persona en función de sus acciones o comportamiento (por ejemplo, visitar una página web, hacer clic en un vínculo de un correo electrónico, rellenar un formulario, etc.). Normalmente se utiliza para medir el interés de una persona en su producto o empresa.</td> 
+   <td colspan="1">Un valor de punto asignado a una persona en función de sus acciones o comportamiento (por ejemplo, visitar una página web, hacer clic en un vínculo de un correo electrónico, rellenar un formulario, etc.). Normalmente se utiliza para medir el interés de una persona en su producto o compañía.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lista de bloqueos</strong></td> 
@@ -171,7 +171,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
    <td colspan="1">En Marketo puede hacer duplicados de varios tipos diferentes de entidades dentro de la instancia. Puede clonar <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programas</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">recurso dentro de un programa</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">flujo</a>, y más.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Parte frontal de la dirección URL. La palabra (más YourCompany.com) se denomina CNAME (por ejemplo, <em>información</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -276,11 +276,11 @@ A continuación se describen muchos de los términos que puede encontrar al usar
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Correo identificado de claves de dominio</a> (DKIM)</strong></td> 
-   <td colspan="1">Mecanismo de autenticación que garantiza el dominio de envío y permite a los remitentes asociar el nombre de dominio en la dirección de envío con un mensaje de correo electrónico específico. Esto permite al destinatario saber que el correo electrónico fue enviado legítimamente por el propietario del dominio. Un remitente firmará el correo electrónico con una firma digital en el encabezado del mensaje. El receptor puede descifrar esa firma utilizando una clave pública publicada en DNS por el propietario del dominio para garantizar que el correo lo envíe legítimamente el propietario del dominio.</td> 
+   <td colspan="1">Mecanismo de autenticación que garantiza el dominio de envío y permite a los remitentes asociar el nombre de dominio en la dirección de envío con un mensaje de correo electrónico específico. Esto permite al receptor saber que el correo electrónico fue enviado legítimamente por el propietario del dominio. Un remitente firmará el correo electrónico con una firma digital en el encabezado del mensaje. El receptor puede descifrar esa firma utilizando una clave pública publicada en DNS por el propietario del dominio para garantizar que el correo sea enviado legítimamente por el propietario del dominio.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Borrador</strong></td> 
-   <td colspan="1"><p>Un <strong>email</strong> o <strong>página de aterrizaje</strong> que no se han <strong>aprobado</strong> sin embargo. Los borradores no se pueden ver públicamente hasta que se hayan aprobado. Puede enviar un borrador como correo electrónico de prueba (ejemplo), pero no registrará ningún análisis. <br></p></td> 
+   <td colspan="1"><p>Un <strong>email</strong> o <strong>página de aterrizaje</strong> que no se ha <strong>aprobado</strong> sin embargo. Los borradores no se pueden ver públicamente hasta que se hayan aprobado. Puede enviar un borrador como correo electrónico de prueba (ejemplo), pero no registrará ningún análisis. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Campaña de obtención de detalles</strong></td> 
@@ -742,7 +742,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
    <td>Las categorías dentro de una segmentación (consulte <strong>Segmentación</strong>).</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentos</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentación</a></strong></td> 
    <td colspan="1">La agrupación de personas de su <strong>base de datos</strong> basado en un <strong>lista inteligente</strong> regla que designe. Por ejemplo, puede tener una segmentación denominada Industria, y las categorías dentro de ella pueden ser: Salud, tecnología, finanzas, etc. La segmentación le permite comercializar a grupos completos de personas en función de un grupo demográfico seleccionado.</td> 
   </tr> 
   <tr> 
@@ -821,13 +821,13 @@ A continuación se describen muchos de los términos que puede encontrar al usar
    <td colspan="1">Columna de la izquierda de Marketo que muestra elementos en una estructura jerárquica. Muestra todo lo que hay en su instancia de Marketo (p. ej., <strong>espacios de trabajo</strong>, <strong>programas</strong>, <strong>recursos locales</strong>, etc.).</td> 
   </tr> 
   <tr> 
-   <td><strong>Desencadenante</strong></td> 
+   <td><strong>Activador</strong></td> 
    <td>Una actividad o evento que activa el <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">pasos de flujo de una campaña de déclencheur</a> cuando se produce dicho evento (por ejemplo, alguien visita una página web, hace clic en un vínculo de un correo electrónico, etc.). </td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Campaña desencadenadora</strong></a></p> 
+     <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Campaña activadora</strong></a></p> 
     </div></td> 
    <td>A <strong>campaña inteligente</strong> que contiene al menos un déclencheur.</td> 
   </tr> 
