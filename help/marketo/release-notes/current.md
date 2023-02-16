@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 6%
+source-wordcount: '630'
+ht-degree: 5%
 
 ---
 
@@ -154,8 +154,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>

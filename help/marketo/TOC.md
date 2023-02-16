@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '8828'
+source-wordcount: '8827'
 ht-degree: 2%
 
 ---
@@ -194,7 +194,7 @@ ht-degree: 2%
          + [Encabezados de vínculo de seguimiento de correo electrónico](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Editar configuración de suscripción](product-docs/administration/settings/edit-subscription-settings.md)
          + [Habilitar o deshabilitar las funciones de tesorería](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
-         + [Habilitar direcciones URL personalizadas para su cuenta (administración)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Habilitar direcciones URL personalizadas para su cuenta](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Reglas globales de validación de formularios](product-docs/administration/settings/global-form-validation-rules.md)
          + [Encabezados de página de aterrizaje](product-docs/administration/settings/landing-page-headers.md)
          + [Restringir inicios de sesión de Marketo basados en IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)

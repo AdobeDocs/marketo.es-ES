@@ -3,9 +3,9 @@ unique-page-id: 2360297
 description: Restringir inicios de sesión de Marketo basados en IP - Documentos de Marketo - Documentación del producto
 title: Restringir inicios de sesión de Marketo basados en IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ Puede restringir o permitir que los usuarios accedan a Marketo en función de su
 >
 >La información de este artículo solo se aplica a los inicios de sesión directos en login.marketo.com. En este momento no es posible aplicar restricciones de IP a los inicios de sesión de inicio de sesión único (SSO).
 
-1. En **Administrador**, haga clic en **Configuración de inicio de sesión**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-16-12-3a57-3a56.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-1.png)
+
+1. Haga clic en **Configuración de inicio de sesión**.
+
+   ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
 1. Haga clic en **Editar restricciones de IP**.
 
-   ![](assets/image2014-9-16-12-3a58-3a13.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
 1. Elija si desea **Permitir** o **Bloque** direcciones específicas, introduzca las direcciones y haga clic en **Guardar**.
 
@@ -45,6 +49,6 @@ Puede restringir o permitir que los usuarios accedan a Marketo en función de su
    >
    >Puede agregar varias restricciones, pero solo se pueden permitir TODAS o TODAS están bloqueadas. No se pueden combinar y combinar permitidos y bloqueados.
 
-   ![](assets/image2014-9-16-13-3a9-3a40.png)
+   ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
    Bien hecho, sus datos de marketing ahora son más seguros que nunca.

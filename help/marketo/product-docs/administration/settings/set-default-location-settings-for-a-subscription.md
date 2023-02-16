@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: 'Definir la configuración de ubicación predeterminada para una suscripción: documentos de Marketo: documentación del producto'
 title: Definir la configuración de ubicación predeterminada para una suscripción
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,27 @@ Este artículo describe cómo un administrador vería y editaría la configuraci
 
 Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios siempre pueden [cambiar sus preferencias de idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) en sus cuentas individuales.
 
-1. En **Administrador**, haga clic en **Ubicación**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-11-7-11-3a39-3a17.png)
+   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+
+1. Haga clic en **Ubicación**.
+
+   ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
 1. Haga clic en **Editar**.
 
-   ![](assets/image2014-11-7-11-3a40-3a39.png)
+   ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    Esta suscripción se creó en inglés. Supongamos que estaba en Londres y quería cambiar la configuración regional y la zona horaria predeterminadas. La configuración regional determina el formato de los números, las fechas y las horas.
 
 1. Seleccione el **Configuración regional** y cambie a **Inglés** (Reino Unido).
 
-   ![](assets/image2014-11-7-11-3a51-3a26.png)
+   ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
 1. Finalmente, elija el **Zona horaria**.
 
-   ![](assets/image2014-11-7-14-3a42-3a34.png)
+   ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
@@ -50,11 +54,11 @@ Si está cambiando la configuración regional predeterminada para sus usuarios, 
 
 1. Haga clic en **Editar** en Configuración de moneda de suscripción.
 
-   ![](assets/image2014-11-7-15-3a50-3a33.png)
+   ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
 1. Seleccione el formato de moneda que desee y haga clic en **Guardar**.
 
-   ![](assets/image2014-11-7-15-3a58-3a21.png)
+   ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
    ¡Felicidades! Ha cambiado la configuración de ubicación de la suscripción.
 

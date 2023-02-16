@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: 'Explicación de la configuración de privacidad: Documentos de Marketo: Documentación del producto'
 title: Información sobre la configuración de privacidad
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -43,17 +43,17 @@ A continuación se muestran ejemplos de una página web con un vínculo de no pa
 
 Aquí hay una página web con un botón con el parámetro &quot;?marketo_opt_out=true&quot; en el vínculo de exclusión.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 Puede crear y publicar una página de aterrizaje como página de seguimiento cuando haga clic en el vínculo con el parámetro &quot;?marketo_opt_out=true&quot;.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 Cuando se hace clic en el vínculo, Marketo agrega una cookie llamada **mkto_opt_out** al explorador del visitante que deshabilita el seguimiento de Munchkin para el visitante del sitio que hace clic en el vínculo con el parámetro anterior.
 
 Para validar que la cookie se puede plantar, compruebe que es un posible cliente con cookies y haga clic en el vínculo . A continuación, compruebe las cookies del explorador para comprobar que la variable **mkto_opt_out** se ha añadido la cookie .
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >
