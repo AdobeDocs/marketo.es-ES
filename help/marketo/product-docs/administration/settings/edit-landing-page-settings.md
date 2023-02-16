@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: 'Editar la configuración de la página de aterrizaje: documentos de Marketo: documentación del producto'
 title: Editar la configuración de la página de aterrizaje
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,21 @@ Puede editar el nombre de dominio y la página de reserva, habilitar o deshabili
 >
 >**Se requieren permisos de administrador**
 
-1. En **Administrador**, haga clic en **Páginas de aterrizaje**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Haga clic en **Páginas de aterrizaje**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. En el **Páginas de aterrizaje** , haga clic en **Editar**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Introduzca la información de su dominio y página.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Término | Definición |
    |---|---|
@@ -34,15 +40,13 @@ Puede editar el nombre de dominio y la página de reserva, habilitar o deshabili
    | Página de reserva | Aquí es donde debe ir si la página de aterrizaje no existe o no está activa. Más información sobre [páginas de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Página principal | Introduzca la dirección URL del sitio corporativo. |
 
-   ![](assets/three.png)
-
 1. Marque la **Form Prefill** casilla de verificación para permitir que los formularios rellenen previamente la información para personas conocidas (con cookies). Desmarque para bloquear.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. Si desea evitar que un sitio malintencionado aparentemente aloje su contenido, consulte la **No permitir que las páginas de Marketo se incrusten en páginas web externas** casilla de verificación.
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -52,6 +56,6 @@ Puede editar el nombre de dominio y la página de reserva, habilitar o deshabili
 
 1. Después de realizar las selecciones, haga clic en **Guardar.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    ¡bueno trabajo! Las páginas de aterrizaje ahora tienen la información correcta y deben empezar a funcionar de inmediato.

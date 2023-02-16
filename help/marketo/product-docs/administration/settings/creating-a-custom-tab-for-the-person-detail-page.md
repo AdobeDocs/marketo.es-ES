@@ -3,9 +3,9 @@ unique-page-id: 2360305
 description: 'Creación de una pestaña personalizada para la página de detalles de la persona: Marketo Docs: documentación del producto'
 title: Creación de una ficha personalizada para la página de detalles de la persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,25 @@ ht-degree: 0%
 
 Si busca un conjunto específico de campos en los detalles de la persona una y otra vez, considere la posibilidad de crear un diseño personalizado para facilitar las cosas.
 
-1. Vaya a **Administrador** y haga clic en **Gestión de las actividades sobre el terreno**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-16-16-3a41-3a41.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
+
+1. Haga clic en **Gestión de las actividades sobre el terreno**.
+
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
 1. Haga clic en el **Diseñador de diseños personalizados** pestaña .
 
-   ![](assets/image2014-9-16-16-3a41-3a55.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
 1. Busque el campo que desee agregar y arrástrelo y suéltelo en el lienzo.
 
-   ![](assets/three-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-4.png)
 
 1. Siga agregando campos hasta que tenga el diseño como desee.
 
-   ![](assets/image2014-9-16-16-3a42-3a25.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-5.png)
 
    >[!NOTE]
    >
@@ -36,8 +40,8 @@ Si busca un conjunto específico de campos en los detalles de la persona una y o
 
    Si decide quitar un campo, haga clic con el botón derecho en el campo que desee eliminar y haga clic en **Eliminar**.
 
-   ![](assets/image2014-9-16-16-3a43-3a56.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
    ¡Increíble trabajo! Ahora, al cargar los detalles de una persona, puede utilizar su diseño personalizado para acceder a la información importante para usted.
 
-   ![](assets/six-1.png)
+   ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

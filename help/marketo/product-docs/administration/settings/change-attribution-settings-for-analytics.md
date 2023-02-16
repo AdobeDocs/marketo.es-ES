@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: Cambio de la configuración de atribución para Analytics - Marketo Docs - Documentación del producto
 title: Cambiar la configuración de atribución para Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ Puede cambiar la forma en que Marketo vincula los contactos con las oportunidade
 
 Esta configuración afectará a los informes del Explorador de ingresos en la sección [Análisis de oportunidades del programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análisis de oportunidades](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)y Análisis de posibles clientes. Esto también afectará al informe del Analizador de programas.
 
-1. En el **Administrador** , haga clic en **Análisis del ciclo de ingresos**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Haga clic en **Análisis del ciclo de ingresos**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Haga clic en el **Editar** vincular en **Atribución**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ Esta configuración afectará a los informes del Explorador de ingresos en la se
 
 1. Seleccione una opción y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >
