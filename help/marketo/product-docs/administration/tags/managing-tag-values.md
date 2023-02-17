@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: 'Administración de valores de etiquetas: Documentos de Marketo: Documentación del producto'
 title: Administración de valores de etiquetas
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,33 @@ ht-degree: 0%
 
 ## Adición de valores de etiqueta {#adding-tag-values}
 
-1. En **Administrador**, haga clic en **Etiquetas**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
+
+1. Haga clic en **Etiquetas**.
+
+   ![](assets/managing-tag-values-2.png)
 
 1. Haga clic en **Nuevo**, luego **Nuevo valor de etiqueta**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-3.png)
 
 1. Seleccione el **Tipo de etiqueta**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-4.png)
 
 1. Escriba un **Valor** y haga clic en **Añadir otro**. Puede agregar todos los valores que desee.
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-5.png)
 
 1. Añada los valores restantes y haga clic en **Crear**.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-6.png)
 
 1. ¡Debería ver los cambios inmediatamente!
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-7.png)
 
 ## Ocultar valores de etiquetas {#hiding-tag-values}
 
@@ -54,11 +58,11 @@ Las etiquetas pueden ser utilizadas por programas antiguos. Puede decomisarlos p
 
 1. Seleccione el **Etiqueta** y seleccione **Valor** quieres esconderte.
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
 1. En **Acciones de etiqueta**, seleccione **Ocultar**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## Mostrar valores ocultos {#show-hidden-values}
 
@@ -66,6 +70,6 @@ Si desea volver a ver los valores ocultos, haga lo siguiente:
 
 1. Seleccione la casilla Mostrar oculto . Una vez comprobado, puede ver el valor oculto.
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 A continuación, puede mostrar los valores que desee utilizar en el futuro.

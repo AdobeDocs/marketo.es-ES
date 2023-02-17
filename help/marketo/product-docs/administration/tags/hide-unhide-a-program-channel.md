@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: 'Ocultar/mostrar un canal de programa: Documentos de Marketo: Documentación del producto'
 title: Ocultar/mostrar un canal de programa
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,21 @@ Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/
 
 ## Ocultar un canal de programa {#hide-a-program-channel}
 
-1. En **Administrador**, haga clic en **Etiquetas**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. Haga clic en **Etiquetas**.
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. Haga clic en el **Canal** y seleccione la **Canal** para ocultar.
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. En **Acciones de etiqueta**, haga clic en **Ocultar**.
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 ¡Fácil de llegar, fácil de hacer!
 
@@ -38,4 +42,4 @@ Puede [eliminar un canal de programa](/help/marketo/product-docs/administration/
 
 1. Muestre un canal de programa marcando la casilla Mostrar oculto .
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)
