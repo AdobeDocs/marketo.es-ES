@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Crear, eliminar, editar y cambiar una función de usuario - Documentos de Marketo - Documentación del producto
 title: Crear, eliminar, editar y cambiar una función de usuario
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -31,31 +31,39 @@ ht-degree: 0%
 
 ## Crear una función {#create-a-role}
 
-1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-16-13-3a29-3a48.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-1.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
 1. Vaya a la **Ficha Funciones** y haga clic en **Nueva función**.
 
-   ![](assets/image2014-9-16-13-3a30-3a0.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
 1. Asigne un nombre a la nueva función, compruebe todos los permisos que desee conceder a los usuarios asociados con la función y haga clic en **Crear**.
 
-   ![](assets/image2014-9-16-13-3a31-3a19.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## Eliminar una función {#delete-a-role}
 
-1. En **Administrador**, haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-16-13-3a31-3a42.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-5.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
 1. En el **Funciones** , seleccione una función y haga clic en **Eliminar función**.
 
-   ![](assets/image2014-9-16-13-3a31-3a56.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
 1. Confirme la eliminación haciendo clic en **Eliminar**.
 
-   ![](assets/image2014-9-16-13-3a32-3a25.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
 >[!NOTE]
 >
@@ -67,21 +75,25 @@ ht-degree: 0%
 >
 >Para editar su propia función de usuario, deberá iniciar sesión como otro usuario con derechos de administrador.
 
-1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-16-13-3a34-3a2.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-9.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
 1. Haga clic en el **Funciones** pestaña .
 
-   ![](assets/image2014-9-16-13-3a34-3a22.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
 1. Seleccione la función que desee editar y haga clic en **Editar función**.
 
-   ![](assets/image2014-9-16-13-3a34-3a37.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
 1. Realice todos los cambios que necesite y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-16-13-3a35-3a16.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
    >[!NOTE]
    >
@@ -93,17 +105,21 @@ ht-degree: 0%
 
 ## Cambiar la función de un usuario {#change-a-users-role}
 
-1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-16-13-3a35-3a49.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-14.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
 1. Seleccione el usuario al que desea asignar una función diferente y haga clic en **Editar usuario.**
 
-   ![](assets/image2014-9-16-13-36-8.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
 1. Desmarque la función anterior, seleccione la nueva y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-16-13-3a36-3a35.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
 >[!NOTE]
 >
