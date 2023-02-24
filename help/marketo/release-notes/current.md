@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
 workflow-type: tm+mt
-source-wordcount: '623'
-ht-degree: 9%
+source-wordcount: '622'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,8 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
