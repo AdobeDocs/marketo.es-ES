@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: 'Administración de usuarios de Marketo: Documentos de Marketo: Documentación del producto'
 title: Administración de usuarios de Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## Crear usuarios {#create-users}
 
-1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. Haga clic en **Invitar a nuevo usuario**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. Introduzca la variable **Dirección de correo electrónico**, **Nombre** y **Apellidos**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. Opcionalmente, introduzca un motivo para la invitación y seleccione una fecha de caducidad en la **El acceso caduca** utilizando el selector de fechas.
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. Haga clic en **Siguiente**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. Seleccione el **Función** de su elección y haga clic en **Siguiente**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. Realice modificaciones en el mensaje de invitación si es necesario. Haga clic en **Enviar**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >El correo electrónico o el inicio de sesión deben ser únicos; si ya lo ha utilizado en una instancia de entorno limitado, deberá utilizar una diferente en producción y viceversa.
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ El nuevo usuario aparece ahora en la pestaña Usuarios y recibirá un correo ele
 
 ## Eliminar usuarios {#delete-users}
 
-1. Vaya a Administración y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. Seleccione el usuario que desea eliminar y haga clic en **Eliminar usuario**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. Confirme haciendo clic en **OK**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## Restablecer contraseñas de usuario {#reset-user-passwords}
 
-1. Vaya a Administración y haga clic en **Usuarios y funciones**.
+1. Vaya al área Administración .
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. Seleccione un usuario y haga clic en **Restablecer contraseña**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. Haga clic en **Cerrar** para rechazar el mensaje.
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 El usuario recibirá un correo electrónico con instrucciones para restablecer la contraseña.
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ El usuario recibirá un correo electrónico con instrucciones para restablecer l
 
 ## Cambiar permisos y editar información de usuario {#change-permissions-and-edit-user-information}
 
-1. Vaya a **Administrador** y haga clic en **Usuarios y funciones.**
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. Seleccione un usuario y haga clic en **Editar usuario**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. Puede editar la información del usuario y cambiar la función asociada. Haga clic en **Guardar**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

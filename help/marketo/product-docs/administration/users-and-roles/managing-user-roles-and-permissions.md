@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Administración de funciones y permisos de usuario - Documentos de Marketo - Documentación del producto
 title: Administración de roles y permisos de usuario
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Defina, cree y edite las funciones de usuario y asígnelas a los usuarios. Esto le permite controlar las áreas y la funcionalidad a las que cada usuario de Marketo tiene acceso.
 
-Por ejemplo, un usuario de marketing suele necesitar un acceso amplio en toda la aplicación para crear, modificar e implementar correos electrónicos, páginas de aterrizaje y programas. Un diseñador web, por otro lado, pasa casi todo su tiempo en Design Studio, creando recursos para usarlos en correos electrónicos y páginas de aterrizaje. Y aunque los líderes de las empresas hacen un uso extensivo de los informes de Marketo en el área de Analytics, es posible que no tengan que crear o dirigir los recursos o programas ellos mismos.
+Por ejemplo, un usuario de marketing suele necesitar un acceso amplio en toda la aplicación para crear, modificar e implementar correos electrónicos, páginas de aterrizaje y programas. Un diseñador web, por otro lado, pasa casi todo su tiempo en Design Studio, creando recursos para usarlos en correos electrónicos y páginas de aterrizaje. Además, aunque los líderes de las empresas hacen un uso extensivo de los informes de Marketo en el área de Analytics, es posible que no necesiten crear ni dirigir los recursos o programas por sí mismos.
 
 >[!NOTE]
 >
@@ -38,17 +38,21 @@ Si utiliza Marketo con identidad de Adobe, la lista de descripciones de perfil [
 
 Puede asignar funciones a un usuario cuando [crear usuarios por primera vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o [editar un usuario existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Para editar un usuario existente, vaya a **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. En la lista, seleccione el usuario que desee editar y haga clic en **Editar usuario**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. En **Funciones**, seleccione las funciones que desee asignar al usuario según los permisos que necesite y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Puede asignar funciones a un usuario cuando [crear usuarios por primera vez](/he
 
 A veces, su organización tiene empleados con funciones muy específicas que requieren una combinación personalizada de permisos.
 
-1. Para crear una función de usuario nueva, vaya a Administración y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. Haga clic en el **Funciones** pestaña .
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. Haga clic en **Nueva función**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. Escriba un **Nombre del rol**, **Descripción** (opcional) y seleccione los permisos que necesitarán los usuarios con esta función.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## Editar una función {#edit-a-role}
 
 Si necesita cambiar los permisos asociados a una función existente, puede editar la función.
 
-1. Vaya a **Administrador** y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. Haga clic en el **Funciones** pestaña .
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. En la lista, seleccione la función que desee modificar y haga clic en **Editar función**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. Cambie el **Nombre del rol** y **Descripción** si es necesario, cambie la selección de **Permisos**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Si necesita cambiar los permisos asociados a una función existente, puede edita
 
 Si una función se vuelve innecesaria, puede eliminarla.
 
-1. Vaya a Administración y haga clic en **Usuarios y funciones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. Haga clic en **Usuarios y funciones**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. Haga clic en el **Funciones** pestaña .
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. En la lista, seleccione la función que desee eliminar y haga clic en **Eliminar función**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. Haga clic en **Eliminar** para confirmar.
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)
