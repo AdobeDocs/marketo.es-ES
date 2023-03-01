@@ -1,9 +1,9 @@
 ---
 unique-page-id: 1147358
-description: 'Añadir un fragmento a un correo electrónico: Marketo Docs: Documentación del producto'
+description: 'Añadir un fragmento a un correo electrónico: documentos de Marketo, documentación del producto'
 title: Añadir un fragmento de código a un correo electrónico
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Añadir un fragmento de código a un correo electrónico {#add-a-snippet-to-an-email}
 
-Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que puede utilizar en sus correos electrónicos y páginas de aterrizaje.
+Los fragmentos de código son bloques reutilizables de texto enriquecido y gráficos que puede utilizar en sus correos electrónicos y páginas de aterrizaje.
 
 >[!PREREQUISITES]
 >
@@ -20,17 +20,17 @@ Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que pu
 
 >[!NOTE]
 >
->No puede incrustar ninguna [Sintaxis del correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos; it **not** trabajar en un correo electrónico. Los fragmentos solo deben ser contenido del cuerpo (HTML + TEXTO).
+>No puede incrustar ninguno [Sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)en fragmentos; lo hará **no** trabajar en un correo electrónico. Los fragmentos de código solo deben contener cuerpo (HTML + TEXTO).
 
-1. Busque su correo electrónico, selecciónelo y haga clic en **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador**.
 
    ![](assets/one-2.png)
 
-1. Seleccione el área editable que desea convertir en un fragmento, haga clic en el icono de engranaje y seleccione **Reemplazar con fragmento**.
+1. Seleccione el área editable que desea convertir en un fragmento, haga clic en el icono de engranaje y seleccione **Reemplazar por fragmento**.
 
    ![](assets/two-2.png)
 
-1. Seleccione el fragmento de su elección y haga clic en **Guardar**.
+1. Seleccione el fragmento que desee y haga clic en **Guardar**.
 
    ![](assets/three-1.png)
 
@@ -42,6 +42,6 @@ Los fragmentos son bloques reutilizables de texto enriquecido y gráficos que pu
 
    >[!NOTE]
    >
-   >Cada vez que actualice y apruebe el fragmento, los cambios se reflejarán en el mensaje de correo electrónico. El correo electrónico se redactará a menos que apruebe el fragmento con [Sin borrador](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Cada vez que actualice y apruebe el fragmento, los cambios se reflejarán en el correo electrónico. El correo electrónico se redactará a menos que apruebe el fragmento con [Sin Borrador](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
-Esta es una forma rápida y sencilla de reutilizar el contenido dinámico.
+Es una forma rápida y sencilla de reutilizar contenido dinámico.
