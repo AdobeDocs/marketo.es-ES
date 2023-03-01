@@ -5,7 +5,7 @@ title: Habilitar la opción Sin borrador para fragmentos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,25 @@ La opción No borrador se habilita automáticamente para todas las funciones de 
 >
 >**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** área.
+1. Ir a **Administrador** y haga clic en **Usuarios y funciones**.
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. Clic **Usuarios y funciones**.
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. Vaya a la **Funciones** , seleccione una función y haga clic en **Editar rol**.
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. Expanda el **Acceder a Design Studio** opción.
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. Expanda el **Fragmento de acceso** opción.
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. Expanda el **Aprobar fragmento** y compruebe el **Sin Borrador** cuadro. Luego haga clic en **Guardar**.
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
