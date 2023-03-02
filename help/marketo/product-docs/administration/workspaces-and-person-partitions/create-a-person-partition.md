@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2360315
-description: 'Creación de una partición de persona: Marketo Docs: documentación del producto'
+description: Creación de una partición de persona - Documentos de Marketo - Documentación del producto
 title: Crear una partición de persona
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -16,30 +16,28 @@ Cree una nueva partición de persona siguiendo estos pasos.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!NOTE]
 >
->Comprender primero con [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Comprender primero con [Explicación de espacios de trabajo y particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
->[!CAUTION]
->
->Las particiones de persona pueden ser complejas. Póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obtener ayuda sobre la configuración.
+1. Vaya a la **Administrador** área.
 
-1. En Administración, seleccione **Espacios de trabajo y particiones**.
+   ![](assets/create-a-person-partition-1.png)
 
-![](assets/image2014-9-17-11-3a32-3a12.png)
+1. Clic **Espacios de trabajo y particiones**.
 
-1. Vaya a la **Particiones de personas** y haga clic en **Nueva partición de persona**.
+   ![](assets/create-a-person-partition-2.png)
 
-   ![](assets/two-2.png)
+1. Vaya a la **Particiones de persona** y haga clic en **Nueva partición de persona**.
 
-1. Asigne un nombre a la partición, elija la opción **Workspace(s)** donde aparecerá y haga clic en **Crear**.
+   ![](assets/create-a-person-partition-3.png)
 
-   ![](assets/three-2.png)
+1. Asigne un nombre a la partición y elija **Espacio(s) de trabajo** donde aparecerá y haga clic en **Crear**.
 
-   Después de crear la partición, debería ver la actualización.
+   ![](assets/create-a-person-partition-4.png)
 
-   ![](assets/four-2.png)
+Después de crear la partición, debería ver la actualización.
 
-   ¡Ahí lo tienes! Ahora sabe cómo crear una partición de persona.
+![](assets/create-a-person-partition-5.png)

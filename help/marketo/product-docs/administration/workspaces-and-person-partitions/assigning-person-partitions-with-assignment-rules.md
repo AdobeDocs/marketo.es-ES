@@ -1,64 +1,68 @@
 ---
 unique-page-id: 2360327
 description: Asignación de particiones de persona con reglas de asignación - Documentos de Marketo - Documentación del producto
-title: Asignación de Particiones de Persona con Reglas de Asignación
+title: Asignación de Particiones de Personas con Reglas de Asignación
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Asignación de Particiones de Persona con Reglas de Asignación {#assigning-person-partitions-with-assignment-rules}
+# Asignación de Particiones de Personas con Reglas de Asignación {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!PREREQUISITES]
 >
 >[Crear una partición de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-Al utilizar particiones de persona, configure reglas de asignación para enrutar a las personas creadas desde su CRM a sus particiones respectivas.
+Cuando utilice particiones de persona, configure reglas de asignación para enrutar a las personas creadas desde su CRM a sus particiones respectivas.
 
 >[!NOTE]
 >
->Solo se les aplicarán las reglas de asignación a las personas creadas en Marketo desde su CRM y a través de la API SOAP.
+>Solo las personas creadas en Marketo desde su CRM y mediante la API de SOAP tendrán reglas de asignación aplicadas.
 
-1. En Administración, haga clic en Espacios de trabajo y particiones.
+1. Vaya a la **Administrador** área.
 
-   ![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. En el **Particiones de personas** , haga clic en **Reglas de asignación**.
+1. Clic **Espacios de trabajo y particiones**.
 
-   ![](assets/two-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Haga clic en **Agregar opción** para agregar condiciones para enviar personas a particiones personales.
+1. En el **Particiones de personas** pestaña, haga clic en **Reglas de asignación**.
 
-   ![](assets/three-6.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
+
+1. Clic **Agregar opción** para agregar condiciones para enrutar personas en particiones de persona.
+
+   ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
 1. Seleccione el campo en el que se debe crear la condición.
 
-   ![](assets/four-5.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-5.png)
 
-1. Elija el operador de opciones e introduzca un valor.
+1. Seleccione el operador de opción e introduzca un valor.
 
-   ![](assets/five-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-6.png)
 
-1. Seleccione la Partición de personas en la que desea que entren las personas que cumplen las condiciones.
+1. Seleccione la partición de personas en la que desea que caigan las personas que cumplan las condiciones.
 
-   ![](assets/six-1.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-7.png)
 
    >[!NOTE]
    >
    >Puede agregar tantas opciones como desee.
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
-   ![](assets/seven.png)
+   ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-¡Y ahí lo tienes! Ha asignado reglas para rellenar las particiones personales con personas.
+¡Y ahí lo tienen! ¡Ha asignado reglas para rellenar las particiones de persona con personas!
 
 >[!NOTE]
 >

@@ -1,20 +1,20 @@
 ---
 unique-page-id: 2360321
-description: 'Cambio del nombre de un espacio de trabajo: documentos de Marketo: documentación del producto'
-title: Cambio del nombre de un espacio de trabajo
+description: Cambio del nombre de un espacio de trabajo - Documentos de Marketo - Documentación del producto
+title: Cambiar el nombre de un espacio de trabajo
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Cambio del nombre de un espacio de trabajo {#change-the-name-of-a-workspace}
+# Cambiar el nombre de un espacio de trabajo {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!PREREQUISITES]
 >
@@ -24,20 +24,24 @@ Los usuarios pueden cambiar el nombre de un espacio de trabajo. Es bastante simp
 
 >[!NOTE]
 >
->Comprender primero con [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Comprender primero con [Explicación de espacios de trabajo y particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. En **Administrador**, haga clic en **Espacios de trabajo y particiones.**
+1. Vaya a la **Administrador** área.
 
-   ![](assets/image2014-9-17-11-3a8-3a28.png)
+   ![](assets/change-the-name-of-a-workspace-1.png)
+
+1. Clic **Espacios de trabajo y particiones**.
+
+   ![](assets/change-the-name-of-a-workspace-2.png)
 
 1. Seleccione el espacio de trabajo y haga clic en **Editar espacio de trabajo**.
 
-   ![](assets/two-4.png)
+   ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. Introducir un nuevo **Nombre** para su espacio de trabajo y haga clic en **Guardar.**
+1. Introduzca una nueva **Nombre** para su espacio de trabajo y haga clic en **Guardar.**
 
-   ![](assets/three-4.png)
+   ![](assets/change-the-name-of-a-workspace-4.png)
 
-1. Después de guardar, debe ver los cambios.
+Después de guardar, debería ver los cambios.
 
-   ![](assets/image2014-9-17-11-3a9-3a9.png)
+![](assets/change-the-name-of-a-workspace-5.png)

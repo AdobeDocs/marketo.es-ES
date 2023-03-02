@@ -1,45 +1,48 @@
 ---
 unique-page-id: 2360325
-description: Permitir el acceso de los usuarios a un espacio de trabajo - Documentos de Marketo - Documentación del producto
-title: Permitir el acceso de los usuarios a un espacio de trabajo
+description: Permitir al usuario acceso a un espacio de trabajo - Documentos de Marketo - Documentación del producto
+title: Permitir al usuario acceso a un espacio de trabajo
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Permitir el acceso de los usuarios a un espacio de trabajo {#allow-user-access-to-a-workspace}
+# Permitir al usuario acceso a un espacio de trabajo {#allow-user-access-to-a-workspace}
 
-Los espacios de trabajo pueden ser por cualquier motivo (como la separación de unidades de negocio o geografía). Separa los recursos (listas inteligentes, programas, etc.) de cada equipo. A continuación se muestra cómo dar acceso a un usuario a uno o varios espacios de trabajo.
-
->[!NOTE]
->
->**Se requieren permisos de administrador**
+Los espacios de trabajo se pueden utilizar por cualquier motivo (como unidad de negocio o separación geográfica). Separan los recursos (listas inteligentes, programas, etc.) de cada equipo. Así se le da a un usuario acceso a uno o más espacios de trabajo.
 
 >[!NOTE]
 >
->Más información sobre [espacios de trabajo](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>**Permisos de administración necesarios**
 
-1. En Administración, haga clic en Usuarios y funciones.
+>[!NOTE]
+>
+>Más información sobre [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-![](assets/image2014-9-17-11-3a2-3a32.png)
+1. Vaya a la **Administrador** área.
+
+   ![](assets/allow-user-access-to-a-workspace-1.png)
+
+1. Clic **Usuarios y funciones**.
+
+   ![](assets/allow-user-access-to-a-workspace-2.png)
 
 1. En el **Usuarios** , seleccione el usuario y haga clic en **Editar usuario**.
 
-   ![](assets/image2014-9-17-11-3a2-3a46.png)
+   ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. Seleccione el **Función y espacio de trabajo** desea que el usuario tenga acceso a .
+1. Seleccione el **Rol y espacio de trabajo** desea que el usuario tenga acceso a.
+
+   ![](assets/allow-user-access-to-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >Puede permitir que los usuarios tengan cualquier combinación de acceso a los espacios de trabajo.
+   >Puede permitir que los usuarios tengan cualquier combinación de acceso a espacios de trabajo.
 
-   ![](assets/image2014-9-17-11-3a3-3a16.png)
+Después de guardar los cambios, debería ver la actualización.
 
-1. Después de guardar los cambios, debería ver la actualización.
+![](assets/allow-user-access-to-a-workspace-5.png)
 
-   ![](assets/image2014-9-17-11-3a3-3a31.png)
-
-¡Excelente! Ahora, cuando inicien sesión, verán todos los espacios de trabajo a los que les dio acceso.

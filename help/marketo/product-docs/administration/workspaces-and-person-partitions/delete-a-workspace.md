@@ -3,9 +3,9 @@ unique-page-id: 2360313
 description: 'Eliminación de un espacio de trabajo: documentos de Marketo: documentación del producto'
 title: Eliminar un espacio de trabajo
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,24 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!NOTE]
 >
 >No puede eliminar el espacio de trabajo predeterminado en Marketo.
 
-1. En Administración, haga clic en **Espacios de trabajo y particiones**.
+1. Vaya a la **Administrador** área.
 
-   ![](assets/image2014-9-17-11-3a56-3a34.png)
+   ![](assets/delete-a-workspace-1.png)
+
+1. Clic **Espacios de trabajo y particiones**.
+
+   ![](assets/delete-a-workspace-2.png)
 
 1. Seleccione un espacio de trabajo y haga clic en **Eliminar espacio de trabajo**.
 
-   ![](assets/image2014-9-17-11-3a56-3a50.png)
-
-1. Confirme el número de recursos que va a eliminar (aparece en la lista junto a &quot;total de recursos&quot;) y seleccione la opción **No se puede deshacer** , haga clic en **Eliminar**.
-
    ![](assets/delete-a-workspace-3.png)
+
+1. Confirme el número de recursos que está a punto de eliminar (aparece junto a &quot;recursos totales&quot;) y seleccione **No se puede deshacer** y haga clic en **Eliminar**.
+
+   ![](assets/delete-a-workspace-4.png)

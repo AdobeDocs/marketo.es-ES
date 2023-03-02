@@ -1,76 +1,77 @@
 ---
 unique-page-id: 2360311
-description: 'Creación de un nuevo espacio de trabajo: documentos de Marketo: documentación del producto'
+description: 'Creación de un nuevo espacio de trabajo: documentos de Marketo, documentación del producto'
 title: Crear un nuevo espacio de trabajo
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
 # Crear un nuevo espacio de trabajo {#create-a-new-workspace}
 
-Los espacios de trabajo son útiles para la subdivisión de la empresa. Entre los motivos para configurar espacios de trabajo se incluyen:
+Los espacios de trabajo son útiles para subdividir la compañía. Los motivos para configurar espacios de trabajo son:
 
-* Geografía: Operaciones de marketing de Europa frente a operaciones de marketing de Norteamérica
-* Unidad de negocio A frente a unidad de negocio B
+* Geografía: operaciones de marketing en Europa frente a operaciones de marketing en Norteamérica
+* Unidad de negocio A vs. Unidad de negocio B
 
-A continuación se explica cómo crear un nuevo espacio de trabajo.
-
->[!NOTE]
->
->**Se requieren permisos de administrador**
+A continuación se indica cómo crear un nuevo espacio de trabajo.
 
 >[!NOTE]
 >
->Comprender primero con [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>**Permisos de administración necesarios**
 
 >[!NOTE]
 >
->Para obtener más información sobre las prácticas recomendadas de Workspace, póngase en contacto con [Marketo Professional Services](mailto:services@marketo.com).
+>Comprender primero con [Explicación de espacios de trabajo y particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. En **Administrador**, haga clic en **Espacios de trabajo y particiones**.
+>[!TIP]
+>
+>Para obtener más información sobre las prácticas recomendadas de Workspace, póngase en contacto con [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-   ![](assets/image2014-9-17-11-3a59-3a11.png)
+1. Vaya a la **Administrador** área.
 
-1. Haga clic en **Nuevo espacio de trabajo**.
+   ![](assets/create-a-new-workspace-1.png)
 
-   ![](assets/two-1.png)
+1. Clic **Espacios de trabajo y particiones**.
 
-1. Escriba un **Nombre** y seleccione **Partición de personas** desea utilizar. Elija un **Partición de persona principal**.
+   ![](assets/create-a-new-workspace-2.png)
 
-   >[!NOTE]
-   >
-   >Asegúrese de [crear particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) si aún no lo has hecho.
+1. Clic **Nuevo espacio de trabajo**.
 
-   ![](assets/three-1.png)
+   ![](assets/create-a-new-workspace-3.png)
 
-   >[!NOTE]
-   >
-   >La variable **Todas las particiones de persona** casilla de verificación significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
-   >
-   >La variable **partición de persona principal** actúa como predeterminado y es donde se asignarán todas las personas.
+1. Introduzca una **Nombre** y seleccione la opción **Partición(es) de persona** que desee utilizar. Elija una **Partición de persona principal**. Asegúrese de lo siguiente [crear particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} si aún no lo ha hecho.
 
-   Si ha habilitado varios dominios con marca, debe elegir un dominio con marca principal.
-
-   ![](assets/four-1.png)
-
-1. Seleccione el idioma del espacio de trabajo.
+   ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >Tras la creación, Marketo sembrará recursos de ejemplo en el espacio de trabajo. El lenguaje permite que esos objetos predefinidos estén en un idioma que no sea el inglés.
+   >* El **Todas las particiones de persona** casilla de verificación significa que este espacio de trabajo puede utilizar todas las particiones de persona del sistema.
+   >
+   >* El **partición de persona principal** actúa como valor predeterminado y es donde se asignarán todas las personas.
 
-   ![](assets/five.png)
+
+   >[!IMPORTANT]
+   >
+   >Si ha habilitado varios dominios con marca, debe elegir un dominio con marca principal.
+
+1. Seleccione el idioma de Workspace.
+
+   ![](assets/create-a-new-workspace-5.png)
+
+   >[!NOTE]
+   >
+   >Una vez creado, Marketo iniciará los recursos de muestra en el espacio de trabajo. El idioma permite que esos objetos sembrados estén en un idioma que no sea el inglés.
 
 1. Haga clic en **Crear**.
 
-   ![](assets/six.png)
+   ![](assets/create-a-new-workspace-6.png)
 
-   Cree tantos espacios de trabajo como necesite y asígneles las particiones de persona adecuadas.
+Cree tantos espacios de trabajo como necesite y asígneles las particiones de persona adecuadas.
 
-   Después de crear el espacio de trabajo, debería ver la actualización.
+Después de crear el espacio de trabajo, debería ver la actualización.
 
-   ![](assets/image2014-9-17-15-3a39-3a10.png)
+![](assets/image2014-9-17-15-3a39-3a10.png)
