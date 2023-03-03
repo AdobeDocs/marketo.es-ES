@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
+source-git-commit: f249988baa444b5e48a497225128a0771660649e
 workflow-type: tm+mt
 source-wordcount: '8832'
 ht-degree: 2%
@@ -1216,7 +1216,7 @@ ht-degree: 2%
          + [¿Sales Connect es compatible con Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [¿Cuáles son los términos de servicio de Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [¿Qué es la integración de Sales Connect y Highspot?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [¿Con Qué Exploradores Son Compatibles Las Acciones De Perspectiva De Ventas?](product-docs/marketo-sales-connect/faq/which-browsers-does-sales-insight-actions-support.md)
+         + [¿Cuáles son las últimas versiones de los clientes?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [¿Por qué no se inserta a ninguno de mis contactos en Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [¿Por qué no puedo eliminar un contacto?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [¿Por qué no se insertaron todos mis contactos en Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
@@ -1369,7 +1369,7 @@ ht-degree: 2%
             + [¿Cómo Gestionan Las Acciones De Perspectiva De Ventas La Desduplicación De Correo Electrónico?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [Se me bloqueó la cuenta. ¿Qué Debo Hacer?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [¿Las acciones de Sales Insight son compatibles con Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [¿Cuáles son las últimas versiones de cliente?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [¿Con Qué Exploradores Son Compatibles Las Acciones De Perspectiva De Ventas?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [¿Cuáles son los términos de servicio de las acciones de perspectiva de ventas?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [¿Por qué no se empuja a ninguno de mis contactos a las acciones de información de ventas?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [¿Por qué no se rellenan mis campos dinámicos?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
