@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: Permitir al usuario acceso a un espacio de trabajo - Documentos de Marketo - Documentación del producto
 title: Permitir al usuario acceso a un espacio de trabajo
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
