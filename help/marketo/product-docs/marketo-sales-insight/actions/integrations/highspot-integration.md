@@ -3,9 +3,9 @@ description: Integración con Highspot - Documentos de Marketo - Documentación 
 title: Integración de Highspot
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Las ventas pueden acceder a las funciones de punto álgido desde las acciones de
 >
 >Debe tener privilegios de administrador para habilitar Highspot en la instancia de acciones de perspectiva de ventas.
 
-1. Seleccionar configuración
+1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Seleccione la configuración general en la barra lateral
+1. En **Configuración de administración**, seleccione **General**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Desplácese a la tarjeta de integraciones y habilite Highspot
+1. Desplazarse a **Integraciones** y haga clic en el control deslizante para activar Highspot.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Ahora los usuarios verán una opción para seleccionar Punto álgido al seleccionar el botón de carga de contenido en la ventana de composición, el editor de plantillas y el editor de correo electrónico de campaña.
+Ahora los usuarios verán una opción para seleccionar Punto álgido al seleccionar el botón de carga de contenido en la ventana de composición, el editor de plantillas y el editor de correo electrónico de campaña.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Acceso al contenido de Highspot y uso compartido de contenido por correo electrónico {#accessing-highspot-content}
 
