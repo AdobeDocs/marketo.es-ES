@@ -1,11 +1,9 @@
 ---
 description: Integración con Highspot - Documentos de Marketo - Documentación del producto
 title: Integración de Highspot
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Acceda a la zona alta y añada contenido a los correos electrónicos desde la ve
 
    ![](assets/highspot-integration-7.png)
 
-1. Inicie sesión en su cuenta de Highspot.
+1. Inicie sesión en su cuenta de Highspot (si aún no ha iniciado sesión).
 
    ![](assets/highspot-integration-8.png)
 
