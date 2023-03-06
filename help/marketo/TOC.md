@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
+source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
 workflow-type: tm+mt
 source-wordcount: '8829'
 ht-degree: 2%
@@ -1201,6 +1201,7 @@ ht-degree: 2%
             + [Información general de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + Uso de la ventana de composición {#using-the-compose-window}
             + [Añadir un archivo adjunto o contenido rastreable a su correo electrónico](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+            + [Añadir contenido de Highspot al correo electrónico](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Opciones de envío masivo](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Redacción de correos electrónicos masivos con selección y envío](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [Programando un correo electrónico](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1352,7 +1353,6 @@ ht-degree: 2%
                + [Sincronización de cancelaciones de suscripción con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + Uso de la ventana de composición {#using-the-compose-window}
                + [Añadir un archivo adjunto o contenido rastreable a su correo electrónico](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-               + [Añadir contenido de Highspot al correo electrónico](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
                + [Opciones de correo electrónico masivo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Redacción de correos electrónicos masivos con selección y envío](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [Envío de correos electrónicos mediante correo electrónico de grupo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
