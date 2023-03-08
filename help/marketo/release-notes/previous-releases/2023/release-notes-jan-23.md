@@ -1,9 +1,9 @@
 ---
 description: 'Notas de la versión, enero de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, enero de 2023
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '628'
 ht-degree: 4%
 
 ---
@@ -85,7 +85,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
    <td><i>Próximamente</i></td>
   </tr>
   </tbody>
