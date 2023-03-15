@@ -2,7 +2,7 @@
 description: 'Comportamiento de los bots de chat: Documentos de Marketo: Documentación del producto'
 title: Comportamiento de los bots de chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>Visitas V1 WP1</p>
       </td>
       <td>
-        <p>D1 se resolverá en V1 </p>
+        <p>D1 se resolverá en V1</p>
       </td>
       <td>El recuento de déclencheur para D1 se incrementará en 1</td>
     </tr>
@@ -131,7 +131,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
       <td>
         <p>D1 sólo para WP1, WP2</p>
         <p>V1 visita el WP1 por primera vez</p>
-        <p>V1 hace clic en D1 pero no respondió </p>
+        <p>V1 hace clic en D1 pero no respondió</p>
         <p>Visitas V1 WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>D1 únicamente para WP1</p>
         <p>D2 orientado únicamente a WP2</p>
         <p>V1 visita el WP1 por primera vez</p>
-        <p>V1 hace clic en D1 pero no respondió </p>
+        <p>V1 hace clic en D1 pero no respondió</p>
         <p>Visitas V1 WP2</p>
       </td>
       <td>D1 se resolverá en el WP1<br/>
@@ -212,7 +212,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
         <p>V1 visita el WP1 por primera vez</p>
         <p>V1 hace clic en D1 y completa D1</p>
         <p>Visitas V1 WP2</p>
-        <p>Los clics V1 en D2 proporcionan la primera respuesta </p>
+        <p>Los clics V1 en D2 proporcionan la primera respuesta</p>
       </td>
       <td>La D1 se resolverá en el primer período de sesiones y en el período posterior a la terminación<br/>D2 se resolverá en el WP2</td>
       <td>
@@ -255,7 +255,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
       <td>
         <p>D1 únicamente para WP1</p>
         <p>V1 visita el WP1 por primera vez</p>
-        <p>V1 con D1 </p>
+        <p>V1 con D1</p>
         <p>D1 no se ha publicado</p>
         <p>V1 actualiza WP1</p>
       </td>
@@ -300,7 +300,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
       </td>
       <td>
         <p>El recuento de déclencheur para D1 se incrementará en 1</p>
-        <p>El recuento de participación para D1 se incrementará en 1 </p>
+        <p>El recuento de participación para D1 se incrementará en 1</p>
         <p>Después de la actualización, ya que aparecerá el antiguo D1, por lo que no se cambiará el recuento de déclencheur</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ A continuación se presentan diferentes escenarios posibles que superan el compo
     <tr>
       <td>
         <p>D1 con prioridad 1</p>
-        <p>D2 destinado al WP1 con 2 prioridades </p>
+        <p>D2 destinado al WP1 con 2 prioridades</p>
         <p>V1 visita el WP1 por primera vez</p>
         <p>V1 hace clic en D1 y completa D1</p>
         <p>V1 actualiza WP1 y ve D2<br/>V1 hace clic en D2 y completa D2</p>
