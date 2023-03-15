@@ -1,15 +1,15 @@
 ---
 description: Informes - Documentos de Marketo - Documentación del producto
-title: Informes
+title: Informes de
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
-# Informes {#reports}
+# Informes de   {#reports}
 
 En la pestaña Informes , vea los datos de los últimos 90 días. Cada categoría se define a continuación.
 
@@ -21,7 +21,7 @@ En la pestaña Informes , vea los datos de los últimos 90 días. Cada categorí
  </tr>
  <tr>
   <td><strong>En contacto</strong></td>
-  <td>Incrementa cada vez que un visitante hace clic en el anclaje de bots de chat para abrir el Diálogo.</td>
+  <td>Incrementos cuando un visitante interactúa con al menos una tarjeta de un cuadro de diálogo (por ejemplo, Pregunta, Captura de información, etc.)</td>
  </tr>
  <tr>
   <td><strong>Completado</strong></td>
@@ -43,7 +43,7 @@ En la pestaña Informes , vea los datos de los últimos 90 días. Cada categorí
 
 >[!MORELIKETHIS]
 >
->* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
