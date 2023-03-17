@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Agregar, editar o eliminar campos de actividad personalizados de Marketo - Documentos de Marketo - Documentación del producto
 title: Agregar, editar o eliminar campos de actividad personalizados de Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ Es posible que tenga que agregar, cambiar o incluso deshacerse de un campo de ac
 
    >[!CAUTION]
    >
-   >Solo puede editar el Nombre de la Api o cambiar el campo a Principal si la actividad personalizada nunca se ha publicado. Si la actividad ya se ha publicado, solo puede editar el nombre del campo y la descripción opcional.
+   >Solo puede editar el Nombre de la Api o cambiar el campo a Principal si la actividad personalizada nunca se ha publicado.
 
    >[!NOTE]
    >
