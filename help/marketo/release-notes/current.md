@@ -2,7 +2,7 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -27,7 +27,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 
 * **Mejorado utilizado por el componente para detalles de plantillas de página de aterrizaje y detalles de formulario**: La nueva ficha Utilizado por la interfaz de usuario proporciona información adicional en Detalles de plantilla de página de aterrizaje y Detalles del formulario, incluidos más detalles sobre los recursos que han utilizado un recurso seleccionado. Realice análisis en listas largas de recursos mediante las funciones de búsqueda, clasificación y filtrado.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -67,7 +67,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-### Mejoras de API {#api-enhancements}
+### Actualizaciones de integración {#integration-updates}
 
 </br>
 
