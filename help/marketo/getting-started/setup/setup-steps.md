@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: 'Pasos de configuración: Documentos de Marketo: Documentación del producto'
 title: Pasos de configuración
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
+source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
 workflow-type: tm+mt
-source-wordcount: '2085'
+source-wordcount: '2054'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Algunos pasos requieren la ayuda de su equipo de TI.
 
 >[!TIP]
 >
->Si [imprimir esta lista de comprobación](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}, puede desactivar los elementos cuando los complete.
+>Si [imprimir esta lista de comprobación](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, puede desactivar los elementos al completarlos.
 
 ## Inicio de sesión y creación de usuarios adicionales de Marketo {#log-in-and-create-additional-marketo-users}
 
-1. Iniciar sesión en Marketo [here](https://app.marketo.com/){target=&quot;_blank&quot;} utilizando las credenciales que recibió por correo electrónico.
+1. Iniciar sesión en Marketo [here](https://app.marketo.com/){target="_blank"} utilizando las credenciales recibidas por correo electrónico.
 
    ![](assets/setup-steps-1.png)
 
@@ -79,25 +79,25 @@ Seleccione una función y haga clic en **Siguiente**. Los usuarios de Standard t
 
 >[!NOTE]
 >
->Además de las cinco funciones integradas, también puede crear funciones personalizadas. Más información sobre [Administración de roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}.
+>Además de las cinco funciones integradas, también puede crear funciones personalizadas. Más información sobre [Administración de roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 Siéntase libre de modificar el texto de la invitación. Haga clic en **Enviar**.
 
 ![](assets/setup-steps-7.png)
 
-El nuevo usuario aparece ahora en la pestaña Usuarios y debe recibir un correo electrónico con un vínculo para crear una contraseña y un inicio de sesión. ¡El siguiente paso!
+El nuevo usuario aparece ahora en la pestaña Usuarios y debe recibir un correo electrónico con un vínculo para crear una contraseña y un inicio de sesión. Siguiente paso!
 
 ![](assets/setup-steps-8.png)
 
 ## Configurar los contactos de asistencia autorizados {#set-up-your-authorized-support-contacts}
 
-Es posible que haya recibido un correo electrónico de la asistencia de Marketo en el que se indica que es el administrador de asistencia al cliente de Marketo para su empresa. Si es así, puede configurar **contactos de asistencia autorizados** para su equipo. Solo los contactos de asistencia autorizados pueden ponerse en contacto con el servicio de asistencia al cliente de Marketo directamente a través de la [Portal de asistencia de Marketo](https://support.marketo.com){target=&quot;_blank&quot;}.
+Es posible que haya recibido un correo electrónico de la asistencia de Marketo en el que se indica que es el administrador de asistencia al cliente de Marketo para su empresa. Si es así, puede configurar **contactos de asistencia autorizados** para su equipo. Solo los contactos de asistencia autorizados pueden ponerse en contacto con el servicio de asistencia al cliente de Marketo directamente a través de la [Portal de asistencia de Marketo](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >El número de contactos de asistencia técnica que puede crear viene determinado por el paquete que ha comprado. Este límite se especifica en el mensaje de correo electrónico de la asistencia de Marketo.
 
-Los documentos de contacto de asistencia autorizada se han trasladado a la comunidad de Marketo. Consulte [este artículo](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}.
+Los documentos de contacto de asistencia autorizada se han trasladado a la comunidad de Marketo. Consulte [este artículo](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -125,19 +125,19 @@ Elija un CNAME para sus páginas de aterrizaje. Algunos ejemplos:
 
 La primera parte (en negrita) es la `[LandingPageCNAME]`. Lo necesitará en el paso 5.
 
-Para recuperar la cadena de cuenta que va a reemplazar por su CNAME de página de aterrizaje, vaya al área de administración.
+Para recuperar el ID de Munchkin que va a reemplazar por su CNAME de página de aterrizaje, vaya al área de administración.
 
 ![](assets/setup-steps-9.png)
 
-Haga clic en **Páginas de aterrizaje**.
+Haga clic en **Mi cuenta**.
 
 ![](assets/setup-steps-10.png)
 
-Copie la cadena de cuenta de la configuración de la página de aterrizaje.
+Desplácese hacia abajo hasta &quot;Información de soporte&quot; y copie su ID de Munchkin.
 
 ![](assets/setup-steps-11.png)
 
-Esta es la `[AccountString]`. Guárdelo. Tendrá que proporcionárselo a TI en el paso 5.
+Esta es la `[Munchkin ID]`. Guárdelo. Tendrá que proporcionárselo a TI en el paso 5.
 
 Configure las opciones de dominio para que las páginas de aterrizaje utilicen el dominio de la empresa en lugar de Marketo (donde están alojadas).
 
@@ -147,7 +147,7 @@ Configure las opciones de dominio para que las páginas de aterrizaje utilicen e
 >
 >¿Es cliente de Launch Pack? Puede omitir este paso. Su consultor le proporcionará un documento de instrucciones de configuración de TI durante su llamada inicial.
 
-Existen varias medidas que puede tomar para garantizar que los correos electrónicos lleguen al mayor número posible de personas.
+Existen varias medidas que puede tomar para garantizar que los mensajes de correo electrónico lleguen al mayor número posible de personas.
 
 * **Marcar los vínculos de seguimiento**. Puede elegir un CNAME para usar su propio dominio (en lugar de Marketo) en los vínculos que incluye en los correos electrónicos de Marketo. Esto refuerza la promoción de la marca del dominio y aumenta la confianza y la capacidad de envío con los destinatarios.
 * **Añada Marketo a la lista de permitidos de correo electrónico corporativa.** Se recomienda enviar correos electrónicos de prueba a las cuentas de prueba antes de enviar correos electrónicos a las personas reales. Por inclusión en la lista de permitidos Marketo, puede evitar que esos correos electrónicos de prueba se bloqueen o se marquen como correo no deseado.
@@ -155,7 +155,7 @@ Existen varias medidas que puede tomar para garantizar que los correos electrón
 * **Configure un registro MX para su dominio.** Un registro MX le permite recibir correo al dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si está enviando desde su dominio corporativo, probablemente ya lo haya configurado. Si no es así, normalmente puede configurarse para asignarlo al registro MX de su dominio corporativo.
 * **Configuración recomendada para la dirección De.** Debe utilizar un dominio de correo electrónico válido, existente y en funcionamiento en la Dirección de origen en todas las campañas de correo electrónico. Puede ser beneficioso configurar un subdominio del dominio corporativo en lugar de enviarlo desde el dominio corporativo. Esto garantizará que los problemas del flujo de correo empresarial no afecten al flujo de correo de Marketo y viceversa. Además, el envío de correo desde `something@nonexistentdomain.com` hará que el correo electrónico se filtre o bloquee. Cualquier dominio utilizado en la dirección De del remitente debe tener una cuenta de administrador de correo@ válida y que funcione y de abuso@.
 
-Si utiliza aplicaciones de Google para alojar el correo electrónico de la empresa, no podrá crear correos electrónicos de abuso@ o postmaster@ en su dominio. Para evitarlo, debe crear grupos llamados &quot;abuso&quot; y &quot;administrador de correo&quot;. Los usuarios que sean miembros de estos grupos recibirán correos electrónicos enviados a esas direcciones (por ejemplo, postmaster@domain.com). Encontrará instrucciones detalladas para crear grupos [here](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Si utiliza aplicaciones de Google para alojar el correo electrónico de la empresa, no podrá crear correos electrónicos de abuso@ o postmaster@ en su dominio. Para evitarlo, debe crear grupos llamados &quot;abuso&quot; y &quot;administrador de correo&quot;. Los usuarios que sean miembros de estos grupos recibirán correos electrónicos enviados a esas direcciones (por ejemplo, postmaster@domain.com). Encontrará instrucciones detalladas para crear grupos [here](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Elija un CNAME para los vínculos de seguimiento de correo electrónico (elija uno que sea _different_ desde la página de aterrizaje (CNAME que eligió en el paso 3). Algunos ejemplos:
 
@@ -207,13 +207,13 @@ Pegue este texto en el correo electrónico y reemplace los marcadores de posici�
 >
 >Consulte los pasos 3 y 4 anteriores para determinar el texto que reemplazará a los marcadores de posición. Recuerde que `[LandingPageCNAME]` y `[EmailTrackingCNAME]` debe ser diferente.
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Estimado administrador asombroso de TI:
 
 Nuestro equipo de marketing ahora está usando la plataforma Marketo para comunicarse con nuestra gente. Para garantizar la buena capacidad de envío de correo electrónico, se deben realizar los siguientes cambios:
 
-`1)` Para nuestras páginas de aterrizaje, agregue una entrada DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, señalando a **[AccountString]**.mktoweb.com.
+`1)` Para nuestras páginas de aterrizaje, agregue una entrada DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, señalando a **[Munchkin ID]**.mktoweb.com.
 
 `2)` Para nuestros vínculos de seguimiento en el correo electrónico, agregue una entrada DNS (CNAME) para **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, señalando a **[MktoTrackingLink]**.
 
@@ -276,7 +276,7 @@ Amor,
 
 **`[Your Name]`**
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Envíe el correo electrónico a TI. Entendemos que puede llevar algún tiempo que TI complete estas tareas. Puede continuar con el paso 7, pero recuerde que debe volver al paso 6 para completar la configuración de Marketo.
 
@@ -335,7 +335,7 @@ Elija entre las siguientes opciones, según el CRM que use su empresa.
 >
 >¿Es cliente de Launch Pack? Puede omitir este paso. Su consultor le proporcionará instrucciones de código de Munchkin en su documento de instrucciones de configuración de TI.
 
-Marketo tiene JavaScript de seguimiento personalizado (denominado Munchkin) que puede utilizar para rastrear actividades personales en cualquier página web. Munchkin es necesario para integrar su sitio web en Marketo. Siga estos pasos para [Agregar código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}.
+Marketo tiene JavaScript de seguimiento personalizado (denominado Munchkin) que puede utilizar para rastrear actividades personales en cualquier página web. Munchkin es necesario para integrar su sitio web en Marketo. Siga estos pasos para [Agregar código de seguimiento de Munchkin a su sitio web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -343,6 +343,6 @@ Marketo tiene JavaScript de seguimiento personalizado (denominado Munchkin) que 
 
 ## Expectativas de rendimiento {#performance-expectations}
 
-¿Qué puede esperar en términos de rendimiento de Marketo? Puede variar, según el tamaño y la complejidad de sus campañas de marketing. Sin embargo, puede esperar niveles de rendimiento a la par con lo que se describe en la columna &quot;Estándar&quot; en varias de las tablas que se encuentran en la variable [Descripción del producto del Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. Las columnas &quot;Performance&quot; y &quot;Performance Plus&quot; hacen referencia a paquetes de niveles de rendimiento que proporcionan [niveles de performance más altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
+¿Qué puede esperar en términos de rendimiento de Marketo? Puede variar, según el tamaño y la complejidad de sus campañas de marketing. Sin embargo, puede esperar niveles de rendimiento a la par con lo que se describe en la columna &quot;Estándar&quot; en varias de las tablas que se encuentran en la variable [Descripción del producto del Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Todos los pasos de configuración han finalizado. ¡Lo único que queda es sumergirse y usar Marketo!
