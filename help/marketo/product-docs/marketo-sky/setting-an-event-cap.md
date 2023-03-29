@@ -4,9 +4,9 @@ title: Configuración de un límite de eventos
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Limite la cantidad de personas que pueden registrarse para el evento con un lím
 
 >[!NOTE]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
+>No todos han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!IMPORTANT]
 >Debe tener al menos dos páginas de aterrizaje aprobadas (una página de registro y una página de registro completo) en el programa para poder establecer un límite de evento.

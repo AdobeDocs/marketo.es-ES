@@ -2,9 +2,9 @@
 description: Exportación de metadatos de objetos personalizados - Documentos de Marketo - Documentación del producto
 title: Exportación de metadatos de objetos personalizados
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Si utiliza nuestra API SOAP o la API de Munchkin, se puede exportar el esquema d
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
+>No todos los clientes han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 1. En Mi Marketo, haga clic en **Administrador**.
 

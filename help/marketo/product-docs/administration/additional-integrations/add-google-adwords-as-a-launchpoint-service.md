@@ -3,22 +3,22 @@ unique-page-id: 6095008
 description: 'Añadir Google AdWords como servicio de LaunchPoint: Documentos de Marketo: Documentación del producto'
 title: Añadir Google AdWords como un servicio de LaunchPoint
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
 
 # Añadir Google AdWords como un servicio de LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule su cuenta de Google AdWords a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics tuvieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target=&quot;_blank&quot;} en AdWords. Esta información no aparece en la interfaz de usuario de Marketo.
+Vincule su cuenta de Google AdWords a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics tuvieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} en AdWords. Esta información no aparece en la interfaz de usuario de Marketo.
 
-Más información sobre [Función de importación de conversión sin conexión de Google](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+Más información sobre [Función de importación de conversión sin conexión de Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
+>No todos los clientes han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Más información sobre [Función de importación de conversión sin conexión d
 
 >[!NOTE]
 >
->También puede integrar un [Google AdWords como servicio de punto de inicio con una cuenta de administrador](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}.
+>También puede integrar un [Google AdWords como servicio de punto de inicio con una cuenta de administrador](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. Vaya a la **Administrador** para obtener más información.
 
@@ -87,10 +87,10 @@ Más información sobre [Función de importación de conversión sin conexión d
 
    >[!NOTE]
    >
-   >[Etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target=&quot;_blank&quot;} debe estar seleccionado para que esta característica funcione. La desactivación debe realizarse dentro de AdWords.
+   >[Etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} debe estar seleccionado para que funcione esta función. La desactivación debe realizarse dentro de AdWords.
 
 ¡Excelente! Ahora, vea el Artículo relacionado a continuación para aprender a asignar conversiones sin conexión de AdWords en su modelo de ingresos.
 
 >[!MORELIKETHIS]
 >
->[Definir conversiones de Google AdWords en el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
+>[Definir conversiones de Google AdWords en el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

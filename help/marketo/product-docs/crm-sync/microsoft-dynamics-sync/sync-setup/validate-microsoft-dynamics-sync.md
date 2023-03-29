@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: 'Validación de Microsoft Dynamics Sync: Documentos de Marketo: Documentación del producto'
 title: Validar Microsoft Dynamics Sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Es muy importante ejecutar la herramienta Validar sincronización para asegurars
 
    >[!CAUTION]
    >
-   >Actualmente no se admite la actualización de entornos limitados para Marketo Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketo. Póngase en contacto con el administrador de éxito de los clientes para obtener más información.
+   >Actualmente no se admite la actualización de entornos limitados para Marketo Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketo. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!MORELIKETHIS]
 >

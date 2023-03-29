@@ -2,9 +2,9 @@
 description: Inicio de sesión utilizando OAuth 2.0 - Marketo Docs - Documentación del producto
 title: Iniciar sesión utilizando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce utiliza el protocolo OAuth para permitir que los usuarios de aplicaci
 
    >[!CAUTION]
    >
-   >Si ve los campos Nombre de usuario/Contraseña/Token y no el botón &quot;Iniciar sesión con Salesforce&quot;, su suscripción a Marketo está habilitada para la autenticación básica. Consulte [Configuración de Marketo con autenticación básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Una vez que la sincronización comienza a utilizar un conjunto de credenciales, no se cambia la credenciales o la suscripción de Salesforce. Si desea utilizar Oauth 2.0, póngase en contacto con el administrador de éxito de los clientes.
+   >Si ve los campos Nombre de usuario/Contraseña/Token y no el botón &quot;Iniciar sesión con Salesforce&quot;, su suscripción a Marketo está habilitada para la autenticación básica. Consulte [Configuración de Marketo con autenticación básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Una vez que la sincronización comienza a utilizar un conjunto de credenciales, no se cambia la credenciales o la suscripción de Salesforce. Si desea utilizar Oauth 2.0, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas).
 
 1. Aparecerá una ventana emergente con la página de inicio de sesión de salesforce. Clave en sus credenciales de &quot;usuario de sincronización de Marketo&quot; e inicie sesión.
 

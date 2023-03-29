@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Notas de la versión - Invierno '18 - Marketo Docs - Documentación del producto
 title: Notas de la versión - Invierno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 Marketo está aprovechando nuestra arquitectura de grandes datos para aumentar el rendimiento de las campañas de déclencheur y mejorar el procesamiento de actividades web, de modo que pueda reaccionar más rápido a las acciones de su audiencia.
 
-## Mejoras en la integración de Salesforce CRM de Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Mejoras en la integración de Salesforce CRM en Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Tenemos dos mejoras en nuestra integración de Salesforce CRM:
 
@@ -34,7 +34,7 @@ Estas mejoras se implementarán en 2018.
 
 >[!AVAILABILITY]
 >
->Perspectivas de rendimiento es un producto adicional. Póngase en contacto con el administrador de éxito del cliente o el ejecutivo de cuentas de Marketo para obtener un presupuesto.
+>Perspectivas de rendimiento es un producto adicional. Póngase en contacto con su administrador de cuentas o ejecutivo de cuentas de Marketo para obtener un presupuesto.
 
 Explore cómo sus campañas y canales afectan a los resultados empresariales con análisis de atribución, visualizaciones interactivas y una tabla de datos detallada.
 
@@ -84,7 +84,7 @@ La personalización web ahora puede personalizar el contenido para un visitante 
 
 El contenido recomendado mediante los algoritmos de ContentAI optimizados de Marketo genera hasta el doble de clics que el contenido aleatorio.
 
-## Integración {#integration}
+## Integración de  {#integration}
 
 **[Activar/desactivar la API de Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 

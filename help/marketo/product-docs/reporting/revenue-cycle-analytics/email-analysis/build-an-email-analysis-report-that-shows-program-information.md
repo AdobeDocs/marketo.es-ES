@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 'Generar un informe de análisis de correo electrónico que muestre información del programa: Documentos de Marketo: Documentación del producto'
 title: Generar un informe de análisis de correo electrónico que muestre información del programa
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Siga estos pasos para crear un informe de análisis de correo electrónico que m
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
+>No todos han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Launch **Explorador de ingresos**.
 

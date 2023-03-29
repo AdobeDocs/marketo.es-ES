@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Creación de un mensaje SMS de vídeo - Marketo Docs - Documentación del producto
 title: Crear un mensaje SMS de vídeo
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ A continuación se explica cómo crear un mensaje SMS de vídeo.
 
 >[!AVAILABILITY]
 >
->Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se aprovisione correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el administrador de éxito de los clientes de Adobe para obtener más información.
+>Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se aprovisione correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >

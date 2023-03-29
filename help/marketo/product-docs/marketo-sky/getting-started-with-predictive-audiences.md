@@ -4,9 +4,9 @@ title: Introducción a Predictive Audiences
 hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -26,10 +26,10 @@ El rendimiento de los modelos AI/ML depende de los datos de su suscripción. Cua
 
 ## Disponibilidad {#availability}
 
-Predictive Audiences se incluye y activa automáticamente para instancias que utilizan paquetes de precios Prime o Ultimate. Para obtener más información sobre cómo obtener acceso a esta función, póngase en contacto con su gestor de éxito de los clientes.
+Predictive Audiences se incluye y activa automáticamente para instancias que utilizan paquetes de precios Prime o Ultimate. Para obtener más información sobre cómo obtener acceso a esta función, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas).
 
 1. Una vez añadida la función a la instancia, vaya a la **[!UICONTROL Predictive Audiences]** en el **[!UICONTROL Administrador]** área de [!DNL Marketo Classic].
 
-1. Marque **[!UICONTROL Habilitar Predictive Audiences]** para activar la función. Tenga en cuenta que todos los procesos pueden tardar hasta 24 horas en completar la configuración.
+1. Marque **[!UICONTROL Habilitar Predictive Audiences]** para activar la función. Tenga en cuenta que todos los procesos pueden tardar hasta 24 horas en completar la configuración.
 
    ![Imagen uno](assets/getting-started-with-predictive-audiences-1.png)

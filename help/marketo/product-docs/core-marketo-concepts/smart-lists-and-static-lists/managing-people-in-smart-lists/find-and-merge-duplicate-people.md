@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Buscar y combinar personas duplicadas - Documentos de Marketo - Documentación del producto
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Para conocer los detalles del comportamiento de Salesforce al combinar posibles 
 
 ## Fusión masiva {#bulk-merging}
 
-Si tiene demasiados duplicados para combinar manualmente, póngase en contacto con el administrador de éxito del cliente para analizar sus opciones.
+Si tiene demasiados duplicados para combinar manualmente, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para analizar sus opciones.
 
-¡Super! Si está conectado a un CRM, los registros se fusionarán allí según las reglas siguientes.
+Si está conectado a un CRM, los registros se fusionarán allí según las reglas siguientes.

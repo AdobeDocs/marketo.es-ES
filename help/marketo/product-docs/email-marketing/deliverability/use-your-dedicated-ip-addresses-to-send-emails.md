@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: 'Use sus direcciones IP dedicadas para enviar correos electrónicos: Marketo Docs: documentación del producto'
 title: Use sus direcciones IP dedicadas para enviar correos electrónicos
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ El envío desde una o más IP dedicadas le proporciona control total sobre su re
 
 >[!AVAILABILITY]
 >
->Una IP dedicada es un producto adicional. No todos podrán añadir una IP dedicada a su programa. Necesitaría enviar más de 100 000 correos electrónicos al mes y tener una cadencia de campaña estable para mantener una IP dedicada. Póngase en contacto con su CSM para obtener más información sobre cómo agregar una IP dedicada a su programa de Marketo.
+>Una IP dedicada es un producto adicional. No todos podrán añadir una IP dedicada a su programa. Necesitaría enviar más de 100 000 correos electrónicos al mes y tener una cadencia de campaña estable para mantener una IP dedicada. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información sobre cómo agregar una IP dedicada a su programa de Marketo.
 >
 >Si envía menos de 100 000 correos electrónicos al mes o tiene volúmenes de campañas variables, o es un remitente estacional, no podrá mantener una IP dedicada. Marketo mantiene un grupo compartido de IP de confianza independiente para los clientes que siguen estrictas prácticas recomendadas. Si está interesado, rellene [este cuestionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para aplicar al programa IP de confianza de Marketo.
 

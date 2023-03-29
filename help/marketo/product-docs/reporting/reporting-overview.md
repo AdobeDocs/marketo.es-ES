@@ -2,9 +2,9 @@
 description: Información general sobre la creación de informes - Documentos de Marketo - Documentación del producto
 title: Información general de informes
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo ofrece una variedad de módulos de informes para diferentes necesidades.
 
 ## Informes básicos {#basic-reporting}
 
-Puede configurar [informes básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} dentro de programas o en el área de Analytics. Los informes básicos constan de diferentes tipos de informes predeterminados con la flexibilidad de filtrar, ordenar y ajustar cronogramas.
+Puede configurar [informes básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} en programas o en el área de Analytics. Los informes básicos constan de diferentes tipos de informes predeterminados con la flexibilidad de filtrar, ordenar y ajustar cronogramas.
 
 ## Información del email {#email-insights}
 
-Uso de Analytics y envíos para obtener [perspectivas potentes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} en correos electrónicos de datos históricos.
+Uso de Analytics y envíos para obtener [perspectivas potentes](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} en correos electrónicos a partir de datos históricos.
 
 ## Perspectivas de rendimiento {#performance-insights}
 
-[Perspectivas de rendimiento](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} cubre el rendimiento del canal y del programa para la participación, la canalización y la generación de ingresos.
+[Perspectivas de rendimiento](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} abarca el rendimiento del canal y el rendimiento del programa para la participación, la canalización y la generación de ingresos.
 
 ## Informes avanzados de análisis de BI {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(anteriormente conocido como Explorador de ciclo de ingresos/Report Builder ava
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido módulos de Advanced BI Analytics y Advanced Recorrido Analytics. Para obtener más información, póngase en contacto con el administrador de éxito del cliente.
+>No todos han comprado los módulos Advanced BI Analytics y Advanced Recorrido Analytics. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 Rastree el ROI en sus iniciativas de marketing. Analice correos electrónicos, personas, programas, oportunidades, análisis de rendimiento de modelos (empresas) y análisis de rendimiento de modelos (posibles clientes). El explorador de BI le permite crear informes personalizados dentro del área de análisis y crear gráficos, gráficos, giros y tableros con sus datos.
 

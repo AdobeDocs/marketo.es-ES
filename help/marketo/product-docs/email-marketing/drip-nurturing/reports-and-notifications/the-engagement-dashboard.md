@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 'Panel de participación: Documentos de Marketo: Documentación del producto'
 title: Panel de participación
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Muestra la puntuación de participación promedio a lo largo del tiempo y el imp
 
 >[!AVAILABILITY]
 >
->Esta función está disponible como complemento para los clientes que utilizan el Explorador del ciclo de ingresos de Marketo. Póngase en contacto con el administrador de éxito de los clientes para obtener más información.
+>Esta función está disponible como complemento para los clientes que utilizan el Explorador del ciclo de ingresos de Marketo. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

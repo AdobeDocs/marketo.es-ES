@@ -2,9 +2,9 @@
 description: 'Descripción general de la función de las acciones de perspectiva de ventas: Documentos de Marketo: Documentación del producto'
 title: Descripción general de la función Acciones de perspectiva de ventas
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1360'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 
 >[!AVAILABILITY]
 >
->Esta función se encuentra actualmente en fase de implementación. Póngase en contacto con el administrador de éxito del cliente o envíe un correo electrónico `sales-insights(at)adobe(dot)com` para solicitar acceso.
+>Esta función se está presentando a todos los usuarios de Perspectiva de ventas. Si desea que se le dé prioridad en la implementación, envíe un correo electrónico a `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->Para ver un vídeo de información general sobre las acciones de perspectiva de ventas, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
+>Para ver un vídeo de información general sobre las acciones de perspectiva de ventas, [haga clic aquí](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -185,6 +185,6 @@ Los filtros y Déclencheur incluyen:
 * Respondido a correo electrónico de ventas
 * Llamada de ventas recibida
 * Se agregó a la campaña de ventas
-* Eliminado de la campaña de ventas
+* Se quitó de Campaña de ventas
 
    ![](assets/sales-insight-actions-feature-overview-7.png)

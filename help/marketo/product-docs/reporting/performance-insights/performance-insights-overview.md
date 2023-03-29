@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Información general sobre perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
 title: Información general sobre perspectivas de rendimiento
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Perspectivas de rendimiento de Marketo le ayuda a optimizar su mezcla de canales
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
+>No todos han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 Perspectivas de rendimiento carga datos desde (hasta) los 24 meses anteriores. Esto incluye los datos del año actual y los del año anterior. Por ejemplo, el 31 de enero de 2019 , MPI cargará datos de ese mes y cada mes a partir de 2018. El 31 de diciembre de 2019, MPI cargará datos de cada mes de 2019 y 2018.
 

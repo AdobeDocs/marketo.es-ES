@@ -2,7 +2,7 @@
 description: 'Restricción de la conexión de correo electrónico: Documentos de Marketo: Documentación del producto'
 title: Restricción de conexión de correo electrónico
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La integración de la cuenta de Sales Connect para enviar a través de los prove
 
 >[!AVAILABILITY]
 >
->Esta función se encuentra actualmente en la versión beta. Para unirse a esta Beta, póngase en contacto con su gestor de éxito de los clientes.
+>Esta función está actualmente en versión beta. Para unirse, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas).
 
 La limitación de la conexión de correo electrónico permite a los administradores de Conexión de ventas configurar la tasa de envío de correos electrónicos al utilizar Gmail o Exchange como canal de envío, de modo que la tasa a la que se entregan los correos electrónicos al proveedor de canales de envío no supere los límites impuestos.
 

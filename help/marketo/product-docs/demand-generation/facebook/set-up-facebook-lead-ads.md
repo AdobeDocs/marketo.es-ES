@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Configuración de Facebook Lead Ads - Marketo Docs - Documentación del producto
 title: Configuración de anuncios de posibles clientes de Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Uso [Anuncios de posible cliente de facebook](https://www.facebook.com/business/
 
 >[!AVAILABILITY]
 >
->Para que se añadan los anuncios de posibles clientes de Facebook a su instancia, póngase en contacto con el administrador de éxito de los clientes.
+>Para obtener los anuncios de posibles clientes de Facebook que se agreguen a su instancia, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas).
 
 1. Vaya a Marketo **Administrador**.
 

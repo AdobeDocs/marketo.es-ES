@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: 'Simulador para pruebas de Marketo: Documentos de Marketo: Documentación del producto'
 title: Simulador para pruebas de Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: c2dc3c337cb5ea1446a2ebd6233f570025d1d986
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Un simulador para pruebas de Marketo es una instancia adicional que se utiliza c
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el gestor de éxito de los clientes para obtener más información.
+>No todos han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 Un simulador para pruebas de Marketo no se puede sincronizar con el CRM normal si ya está sincronizado con la instancia de producción. Utilice el simulador para pruebas de CRM para la sincronización y siga los mismos pasos que la sincronización original.
 
 ## Aspectos importantes de los entornos limitados {#things-to-know-about-sandboxes}
 
-* Una vez que el gestor de éxito del cliente ha configurado el simulador de pruebas y le envía la invitación, debe utilizar una dirección de correo electrónico diferente para iniciar sesión que la instancia de producción de Marketo.
+* Una vez que el equipo de cuentas de Adobe ha configurado el simulador para pruebas y le envía la invitación, debe utilizar una dirección de correo electrónico diferente para iniciar sesión que la instancia de producción de Marketo.
 * Si desea agregar usuarios, el proceso es el mismo que [adición de usuarios en producción](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). De nuevo, deben utilizar una dirección de correo electrónico diferente si ya tienen un inicio de sesión en Marketo.
 * El simulador para pruebas de Marketo comenzará vacío, pero tendrá las mismas funciones disponibles que la instancia de producción.
 * Si crea un programa en el simulador para pruebas y desea moverlo a producción, puede realizar una [importación de programas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
@@ -30,7 +30,7 @@ Un simulador para pruebas de Marketo no se puede sincronizar con el CRM normal s
 
 >[!CAUTION]
 >
->Actualmente no se admite la actualización de entornos limitados para Marketo Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketo. Póngase en contacto con el administrador de éxito de los clientes para obtener más información.
+>Actualmente no se admite la actualización de entornos limitados para Marketo Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketo. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Copia de instancia {#instance-copy}
 

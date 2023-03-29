@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Información sobre Microsoft Dynamics Sync - Marketo Docs - Documentación del producto
 title: Información sobre Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Marketo y Microsoft Dynamics van juntos. Mantenemos sus datos de ventas y market
 
 >[!CAUTION]
 >
->Actualmente no se admite la actualización de entornos limitados para Marketo Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketo. Póngase en contacto con el administrador de éxito de los clientes para obtener más información.
+>Actualmente no se admite la actualización de entornos limitados para Marketo Dynamics Sync. Si necesita actualizar el simulador para pruebas de Dynamics CRM, se necesitará un nuevo simulador para pruebas de Marketo. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Cómo funciona la sincronización {#how-sync-works}
 

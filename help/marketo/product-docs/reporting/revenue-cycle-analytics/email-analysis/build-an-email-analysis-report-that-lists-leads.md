@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: 'Creación de un informe de análisis de correo electrónico que enumere posibles clientes: Documentos de Marketo: Documentación del producto'
 title: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Siga estos pasos para crear un informe de análisis de correo electrónico que l
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con el administrador de éxito del cliente para obtener más información.
+>No todos han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >

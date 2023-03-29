@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Notas de la versión - Primavera 18 - Documentos de Marketo - Documentación del producto
 title: Notas de la versión - Primavera de 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Haga clic en los vínculos de título para ver los artículos detallados de cada
 
 >[!AVAILABILITY]
 >
->Participación de ventas es un producto adicional. Póngase en contacto con el administrador de éxito del cliente o el ejecutivo de cuentas de Marketo para obtener un presupuesto.
+>Participación de ventas es un producto adicional. Póngase en contacto con su administrador de cuentas o ejecutivo de cuentas de Marketo para obtener un presupuesto.
 
 Aumente la producción y los ingresos al potenciar las ventas con inteligencia, contenido, libros de reproducción y análisis para convertir más de sus posibles clientes en oportunidades de ventas. El compromiso de ventas proporciona a las ventas y el marketing una plataforma unificada para la participación en todo el recorrido del cliente y permite una mejor coordinación mediante una vista compartida de los puntos de contacto del cliente.
 
