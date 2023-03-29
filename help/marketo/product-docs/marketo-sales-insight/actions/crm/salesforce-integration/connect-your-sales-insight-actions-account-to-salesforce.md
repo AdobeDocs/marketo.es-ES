@@ -1,10 +1,8 @@
 ---
 description: Conecte su cuenta de acciones de perspectivas de ventas a Salesforce - Marketo Docs - Documentación del producto
 title: Conecte su cuenta de acciones de perspectivas de ventas a Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: 238e2049ecb70c8fdc6d0d9c2fae8b7b99fcc17f
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Siga estos sencillos pasos para conectar la cuenta de Acciones de Insight de Ven
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se le pedirá que inicie sesión.
+1. Si ya has iniciado sesión en Salesforce, estarás conectado. Si no lo está, se le pedirá que inicie sesión.
 
 ## Cómo conectarse como no administrador {#how-to-connect-as-a-non-admin}
 
@@ -51,4 +49,4 @@ Siga estos sencillos pasos para conectar la cuenta de Acciones de Insight de Ven
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Si ya ha iniciado sesión en Salesforce, estará conectado. Si no lo está, se le pedirá que inicie sesión.
+1. Si ya has iniciado sesión en Salesforce, estarás conectado. Si no lo está, se le pedirá que inicie sesión.
