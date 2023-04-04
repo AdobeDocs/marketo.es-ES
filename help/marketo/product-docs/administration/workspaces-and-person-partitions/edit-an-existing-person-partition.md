@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 'Edición de una partición de persona existente: documentos de Marketo: documentación del producto'
 title: Editar una partición de persona existente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -22,24 +22,22 @@ Una partición de persona es como tener una segunda (o tercera) base de datos. U
 >
 >[Crear una partición de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. En **Administrador**, haga clic en **Espacios de trabajo y particiones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-17-10-3a51-3a23.png)
+   ![](assets/edit-an-existing-person-partition-1.png)
+
+1. Haga clic en **Espacios de trabajo y particiones**.
+
+   ![](assets/edit-an-existing-person-partition-2.png)
 
 1. En el **Particiones de personas** , seleccione la partición de persona que desee editar y haga clic en **Editar partición de persona**.
 
-   ![](assets/two-5.png)
+   ![](assets/edit-an-existing-person-partition-3.png)
 
 1. Introducir la partición de persona **Nombre**, el **Espacios de trabajo** pertenecen a y hacen clic en **Guardar**.
 
-   ![](assets/three-5.png)
+   ![](assets/edit-an-existing-person-partition-4.png)
 
 1. Después de guardar los cambios, debería ver la actualización.
 
-   ![](assets/four-4.png)
-
-Eso es todo. Parece que una característica tan poderosa debería ser compleja, pero no lo es.
-
->[!CAUTION]
->
->Mida dos veces, corte una vez. No desea asignar una partición al espacio de trabajo incorrecto.
+   ![](assets/edit-an-existing-person-partition-5.png)

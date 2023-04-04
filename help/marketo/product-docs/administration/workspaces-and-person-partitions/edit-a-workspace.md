@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: 'Editar un espacio de trabajo: documentos de Marketo: documentación del producto'
 title: Editar un espacio de trabajo
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,17 @@ A veces debe realizar cambios en un espacio de trabajo. Es fácil.
 >
 >Poner el pincel en espacios de trabajo con [Explicación de los espacios de trabajo y las particiones de persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. En **Administrador**, haga clic en **Espacios de trabajo y particiones**.
+1. Vaya a la **Administrador** .
 
-   ![](assets/image2014-9-17-11-3a59-3a11-1.png)
+   ![](assets/edit-a-workspace-1.png)
+
+1. Haga clic en **Espacios de trabajo y particiones**.
+
+   ![](assets/edit-a-workspace-2.png)
 
 1. Seleccione el espacio de trabajo que desea editar y haga clic en **Editar espacio de trabajo**.
 
-   ![](assets/two-7.png)
+   ![](assets/edit-a-workspace-3.png)
 
 1. Puede seleccionar una partición de posible cliente diferente y elegir otra partición de persona principal en la lista desplegable.
 
@@ -36,7 +40,7 @@ A veces debe realizar cambios en un espacio de trabajo. Es fácil.
    >
    >Puede [crear más particiones personales](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) si los necesita.
 
-   ![](assets/three-7.png)
+   ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ A veces debe realizar cambios en un espacio de trabajo. Es fácil.
 
    Si ha habilitado varios dominios con marca, puede cambiar a otro dominio con marca principal. Haga clic en **Guardar**.
 
-   ![](assets/four-6.png)
+   ![](assets/edit-a-workspace-5.png)
 
    >[!NOTE]
    >

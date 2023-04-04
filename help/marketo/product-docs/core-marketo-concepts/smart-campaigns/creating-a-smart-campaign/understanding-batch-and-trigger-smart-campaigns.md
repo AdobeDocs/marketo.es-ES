@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 'Explicación de las campañas inteligentes por lotes y por Déclencheur: Documentos de Marketo: Documentación del producto'
 title: Explicación de las campañas inteligentes por lotes y por Déclencheur
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Existen dos tipos de campañas inteligentes: Lote y Déclencheur.
 
 Las campañas inteligentes por lotes solo tendrán filtros dentro de la sección de listas inteligentes (es decir, sin déclencheur).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Al hacer clic en el botón **Programación** confirmará que la campaña inteligente está configurada en &quot;Lote&quot;.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Lotes de campañas inteligentes**
 
@@ -47,11 +47,11 @@ Al hacer clic en el botón **Programación** confirmará que la campaña intelig
 
 Si una campaña inteligente utiliza al menos un déclencheur dentro de la sección de lista inteligente, el modo se establecerá automáticamente en activado.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Al hacer clic en el botón **Programación** confirmará que la campaña inteligente está configurada en &quot;Activado&quot;.
+Al hacer clic en **Programación** confirmará que la campaña inteligente está configurada en &quot;Activado&quot;.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Campañas inteligentes de déclencheur**
 
