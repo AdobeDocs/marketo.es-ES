@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Lista de comprobación de campañas inteligentes - Documentos de Marketo - Documentación del producto
 title: Lista de comprobación de campañas inteligentes
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Siga los pasos a continuación para garantizar la ejecución sin problemas de la
 
 En la campaña inteligente, haga clic en **Lista inteligente**. Elimine cualquier línea roja que vea corrigiendo los errores.
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -34,7 +34,7 @@ En la campaña inteligente, haga clic en **Lista inteligente**. Elimine cualquie
 
 En la campaña inteligente, haga clic en **Flujo**. Elimine cualquier línea roja que vea corrigiendo los errores.
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -44,17 +44,17 @@ En la campaña inteligente, haga clic en **Flujo**. Elimine cualquier línea roj
 
 En el **Programación** , marque **Smart** **Lista** **Estado** para cualquier error en la campaña inteligente que deba corregirse.
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## Comprobar límite de restricciones de persona {#check-person-restrictions-limit}
 
 En el **Programación** , asegúrese de que el número de personas cualificadas no supere el límite de restricción de personas.
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Si es necesario, puede  [anular restricciones de persona en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Si es necesario, puede [anular restricciones de persona en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
