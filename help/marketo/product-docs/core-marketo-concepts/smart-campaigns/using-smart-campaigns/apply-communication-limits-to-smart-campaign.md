@@ -3,7 +3,7 @@ unique-page-id: 1147064
 description: Aplicación de límites de comunicación a Smart Campaign - Documentos de Marketo - Documentación del producto
 title: Aplicación de límites de comunicación a una campaña inteligente
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >[Habilitar límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
 
-No es buena idea enviar un correo electrónico a alguien varias veces al día o muchas veces en una semana, ¿verdad? Por suerte, Marketo tiene límites de comunicación para ayudar. Así es como funcionan.
+No es buena idea enviar un correo electrónico a alguien varias veces al día, o muchas veces en una semana, ¿verdad? Afortunadamente, el Marketo Engage tiene límites de comunicación para ayudar. Así es como funcionan.
 
 >[!NOTE]
 >
@@ -24,11 +24,11 @@ No es buena idea enviar un correo electrónico a alguien varias veces al día o 
 
 1. En la campaña inteligente, haga clic en el botón **Programación** pestaña y luego **Editar configuración**.
 
-   ![](assets/programeditsettings-hands-1.png)
+   ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
 1. Marque la **Bloquear correos electrónicos no operativos** y haga clic en **Guardar**.
 
-   ![](assets/apply-communication-limits-to-smart-campaign.png)
+   ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
 >[!NOTE]
 >
@@ -38,4 +38,4 @@ No es buena idea enviar un correo electrónico a alguien varias veces al día o 
 >
 >Para que este sea el valor predeterminado, edite la  [límites de comunicación](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en la sección Administración.
 
-Dulce. Ahora puede estar seguro de que no está enviando accidentalmente demasiados correos electrónicos a su audiencia.
+Ahora puede estar seguro de que no está enviando accidentalmente demasiados correos electrónicos a su audiencia.

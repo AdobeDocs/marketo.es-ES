@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: 'Abortar una campaña inteligente: Documentos de Marketo: Documentación del producto'
 title: Abortar una campaña inteligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -16,25 +16,25 @@ ht-degree: 0%
 >
 >Sólo para uso de emergencia
 
-A veces se lanza una campaña inteligente y se da cuenta inmediatamente de que fue un error. Aquí se explica cómo extraer el freno de emergencia y detener la campaña inteligente a medio plazo.
+A veces se lanza una campaña inteligente y se da cuenta inmediatamente de que fue un error. Aquí se explica cómo extraer el freno de emergencia y detener la campaña inteligente a mitad de camino.
 
-1. En **Actividades de marketing**, seleccione la campaña inteligente y vaya a la **Programación** pestaña .
+1. Elija la campaña inteligente que desee y haga clic en la **Programación** pestaña .
 
-   ![](assets/image2014-9-22-16-3a19-3a44.png)
+   ![](assets/abort-a-smart-campaign-1.png)
 
 1. Haga clic en el **Acciones de campaña** lista desplegable. Select **Anular campaña**.
 
-   ![](assets/image2014-9-22-16-19-48.png)
+   ![](assets/abort-a-smart-campaign-2.png)
 
 1. Haga clic en **Anular** para confirmar.
 
-   ![](assets/image2014-9-22-16-3a19-3a57.png)
+   ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >El aborto no deshace los pasos que ya han finalizado, simplemente evita que ocurran más. (Ejemplo: No se puede cancelar la entrega de los correos electrónicos).
+   >El aborto no deshace los pasos que ya han finalizado, solo evita que ocurran más (por ejemplo: no se pueden enviar correos electrónicos).
 
-   ![](assets/image2014-9-22-16-3a20-3a0.png)
+   ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >

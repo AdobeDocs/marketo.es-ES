@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Limpieza automática de campañas de Déclencheur - Documentos de Marketo - Documentación del producto
 title: Limpieza automática de campañas de Déclencheur
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Una vez al trimestre, Marketo encontrará campañas inteligentes que se hayan ma
 
 ¡Por supuesto! Una vez al trimestre, recibirá una notificación con una semana de antelación que muestra cada campaña que planeamos desactivar.
 
-1. Vaya a la **Notificaciones** pestaña .
+1. Haga clic en el **Notificaciones** icono.
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Haga clic en **Limpieza de campaña de Déclencheur inactivo programada**. A continuación, haga clic en el **Estas campañas de Déclencheur inactivo se desactivarán** vínculo.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    Verá una lista de campañas inteligentes programadas para desactivarse.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## ¿Qué campañas se desactivarán? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Absolutamente: una semana después de la notificación original, desactivaremos 
 
 1. Seleccione el **Limpieza de campaña de Déclencheur inactivo programada** notificación. Haga clic en el **Estas campañas de Déclencheur inactivo** vínculo.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. Verá una lista de campañas desactivadas.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
