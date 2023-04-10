@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
+source-git-commit: 3c4f24edeba54a5275ae876e228388cf975438fb
 workflow-type: tm+mt
-source-wordcount: '622'
-ht-degree: 8%
+source-wordcount: '617'
+ht-degree: 7%
 
 ---
 
@@ -115,8 +115,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -129,8 +129,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -143,8 +143,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -157,8 +157,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -171,8 +171,8 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
