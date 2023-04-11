@@ -3,10 +3,10 @@ unique-page-id: 11372975
 description: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Professional) - Marketo Docs: Documentación del producto'
 title: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Professional)'
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 7%
+source-wordcount: '782'
+ht-degree: 8%
 
 ---
 
@@ -251,13 +251,10 @@ Un campo personalizado del objeto de posible cliente de Salesforce debe asignars
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repita los pasos anteriores para cualquier otro campo que haya creado.
+
 1. Haga clic en Guardar cuando termine.
 
 Fácil, ¿verdad?
-
->[!NOTE]
->
->Aquí tiene un [vídeo de todo el proceso](https://nation.marketo.com/videos/1475) ¡eso debería dejar claro el cristal!
 
 >[!MORELIKETHIS]
 >
