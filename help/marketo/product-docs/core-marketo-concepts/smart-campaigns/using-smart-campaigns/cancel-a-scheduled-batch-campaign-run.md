@@ -3,9 +3,9 @@ unique-page-id: 1147058
 description: 'Cancelar una ejecución programada de una campaña por lotes: Documentos de Marketo: Documentación del producto'
 title: Cancelar una ejecución de campaña por lotes programada
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Si ha programado una ejecución para una de las campañas por lotes y desea canc
 
 1. Seleccione la campaña y vaya a la **Programación** pestaña .
 
-   ![](assets/image2014-9-22-16-3a43-3a10.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Busque la ejecución programada que desea cancelar y haga clic en la **x** junto a él.
+1. Busque la ejecución programada que desea cancelar y haga clic en el botón **x** junto a él.
 
-   ![](assets/image2014-9-22-16-3a43-3a15.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
 1. Confirme la cancelación haciendo clic en **OK**.
 
-   ![](assets/image2014-9-22-16-3a43-3a24.png)
+   ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 
 >[!NOTE]
 >

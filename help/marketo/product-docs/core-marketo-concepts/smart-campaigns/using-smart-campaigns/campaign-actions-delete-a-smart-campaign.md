@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Acciones de campaña - Eliminar una campaña inteligente - Documentos de Marketo - Documentación del producto
 title: 'Acciones de campaña: Eliminar una campaña inteligente'
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -20,19 +20,19 @@ Si tiene una campaña inteligente antigua que ya no necesita, puede eliminarla. 
 
 1. Vaya a la **Actividades de marketing** .
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Vaya a la campaña inteligente inactiva. En **Campaign** **Acciones**, haga clic en **Eliminar**.
+1. Vaya a la campaña inteligente inactiva. En el **Campaign** **Acciones** desplegable, seleccione **Eliminar**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >Para cancelar el procesamiento de una campaña inteligente activa sin eliminarla por completo, aprenda a [cancelar una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. Haga clic en **Eliminar** para confirmar.
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >

@@ -3,9 +3,9 @@ unique-page-id: 1146991
 description: Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación - Documentos de Marketo - Documentación del producto
 title: Desactivación de una campaña inteligente de Déclencheur | Pestaña Programación
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Si tiene una campaña de déclencheur antigua que necesita desactivar, siga esto
 
 1. Busque y seleccione la campaña de déclencheur activa.
 
-   ![](assets/selectprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
 1. En la pestaña Programación , haga clic en **Desactivar**.
 
-   ![](assets/deactivateprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
 1. Confirme haciendo clic en **Desactivar**.
 
-   ![](assets/image2014-9-22-13-3a59-3a6.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >

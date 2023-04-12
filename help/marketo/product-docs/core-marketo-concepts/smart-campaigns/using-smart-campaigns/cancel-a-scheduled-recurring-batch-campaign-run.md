@@ -3,9 +3,9 @@ unique-page-id: 1147060
 description: Cancelar una ejecución programada de campaña por lotes recurrentes - Documentos de Marketo - Documentación del producto
 title: Cancelar una ejecución programada de campaña por lotes recurrentes
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las ejecuciones futuras. Así es como.
 
-1. Haga clic en la campaña inteligente y luego en la variable **Programación** pestaña .
+1. Seleccione la campaña inteligente y haga clic en el botón **Programación** pestaña .
 
-   ![](assets/image2014-9-22-16-3a44-3a51.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
 1. Haga clic en **Programar repetición**.
 
-   ![](assets/image2014-9-22-16-3a44-3a55.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Puede cancelar una sola ejecución haciendo clic en ![rojo x](assets/image2014-9-22-16-3a45-3a42.png) junto a él. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >Para cancelar una sola ejecución, haga clic en el botón ![rojo x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) junto a él. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
-1. Definir programación como **Ninguna** y luego **Guardar**.
+1. Definir programación como **Ninguna** y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-22-16-3a45-3a56.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
    ¡Voila! La campaña inteligente ya no se ejecutará.
 
