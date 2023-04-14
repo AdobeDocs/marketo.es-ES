@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 'Déclencheur y filtros para campañas inteligentes móviles: Marketo Docs: documentación del producto'
 title: Déclencheur y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 1%
@@ -28,13 +28,13 @@ Solo hay filtros para esta actividad:
 
 Buscar **aplicación móvil** en el panel derecho para ver todos los déclencheur y filtros de la aplicación móvil.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Restricciones {#constraints}
 
 Utilice restricciones con déclencheur y filtros para clasificar aún más los datos.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Todos los déclencheur y filtros, excepto la notificación push de se envió, contienen las dos restricciones estándar siguientes:
 
@@ -70,7 +70,7 @@ Utilice este filtro para averiguar todas las personas que alguna vez han instala
 
 **Restricciones**: Tipo de dispositivo, Plataforma, Aplicación móvil, Versión de aplicación móvil, Tipo de dispositivo, Origen de instalación, Está habilitado para push y Configuración regional
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ La aplicación móvil está instalada o se instaló
 
 **Restricciones**: Tipo de dispositivo, plataforma, versión de la aplicación, configuración regional e instalar origen
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 Se abrió o abrió la aplicación móvil
 
@@ -98,7 +98,7 @@ Se abrió o abrió la aplicación móvil
 
 **Restricciones**: Tipo de dispositivo y plataforma
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Tiene o ha tenido una actividad de aplicación móvil
 
@@ -138,7 +138,7 @@ Las restricciones de acción permiten utilizar el déclencheur y los filtros par
 
 Este es el aspecto del filtro en Marketo:
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -148,7 +148,7 @@ Este es el aspecto del filtro en Marketo:
 >
 >| Tipo de acción | Compra | Compra |
 >|---|---|---|
->| Accion | Camiseta comprada | Pantalones comprados |
+>| Acción | Camiseta comprada | Pantalones comprados |
 >| Detalles de la acción | Color | Color |
 >| Métrica de la acción | Precio | Precio |
 
@@ -163,7 +163,7 @@ Este es el aspecto del filtro en Marketo:
 
 **Restricciones**: Tipo de dispositivo, plataforma y duración de la sesión (segundos)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Toque/Toque la notificación push
 
@@ -175,7 +175,7 @@ Toque/Toque la notificación push
 
 **Restricciones**: Tipo de dispositivo, plataforma, versión de aplicación móvil, notificación push y versión de plataforma
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ Toque/Toque la notificación push
 
 **Restricciones**: Notificaciones push y aplicación móvil
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
-source-wordcount: '8849'
+source-wordcount: '8868'
 ht-degree: 3%
 
 ---
@@ -663,6 +663,11 @@ ht-degree: 3%
                + [Explicación de los estados del programa de los seminarios web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Seminarios web interactivos {#interactive-webinars}
             + [Información general sobre seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [Administración de usuarios de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Crear un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+            + [Diseño de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Editar o eliminar un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Flujos de trabajo de eventos](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Añadir posibles clientes a una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Crear una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
