@@ -3,13 +3,49 @@ description: 'Administración de usuarios de seminarios web interactivos: Docume
 title: Administración de usuarios de seminarios web interactivos
 hide: true
 hidefromtoc: true
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '18'
-ht-degree: 11%
+source-wordcount: '57'
+ht-degree: 0%
 
 ---
 
 # Administración de usuarios de seminarios web interactivos {#interactive-webinars-user-management}
 
-Próximamente
+Introducción.
+
+## Agregar un usuario {#add-a-user}
+
+1. Vaya a la **Administrador** .
+
+PICC
+
+1. Haga clic en **Seminarios web interactivos**.
+
+PICC
+
+1. Haga clic en **Agregar o eliminar usuarios**.
+
+PICC
+
+1. PASO
+
+PICC
+
+## Eliminar un usuario {#remove-a-user}
+
+1. Vaya a la **Administrador** .
+
+PICC
+
+1. Haga clic en **Seminarios web interactivos**.
+
+PICC
+
+1. Haga clic en **Agregar o eliminar usuarios**.
+
+PICC
+
+1. PASO
+
+PICC
