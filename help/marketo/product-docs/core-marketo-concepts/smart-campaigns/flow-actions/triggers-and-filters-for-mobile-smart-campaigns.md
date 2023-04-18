@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: 'Déclencheur y filtros para campañas inteligentes móviles: Marketo Docs: documentación del producto'
 title: Déclencheur y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '823'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Utilice este filtro para averiguar todas las personas que alguna vez han instala
 >
 >El filtro buscará tanto instalaciones actuales como anteriores, ya que Marketo no realiza el seguimiento de las desinstalaciones de aplicaciones.
 
-**Restricciones**: Tipo de dispositivo, Plataforma, Aplicación móvil, Versión de aplicación móvil, Tipo de dispositivo, Origen de instalación, Está habilitado para push y Configuración regional
+**Restricciones** - Tipo de dispositivo, Plataforma, Aplicación móvil, Versión de aplicación móvil, Tipo de dispositivo, Origen de instalación, Es push habilitado y Configuración regional
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ La aplicación móvil está instalada o se instaló
 
 * NO se instaló la aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo, plataforma, versión de la aplicación, configuración regional e instalar origen
+**Restricciones** - Tipo de dispositivo, plataforma, versión de la aplicación, configuración regional e instalar origen
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ Se abrió o abrió la aplicación móvil
 
 * NO se abrió la aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo y plataforma
+**Restricciones** - Tipo de dispositivo y plataforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ Proporcionan una manera eficaz de rastrear la actividad móvil personalizada. Te
 
 * NO tenía actividad de aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo y plataforma, además de cinco adicionales:
+**Restricciones** : Tipo de dispositivo, Plataforma, Versión de aplicación móvil, Configuración regional, Versión de plataforma, además de cinco adicionales:
 
 * Acción - Actividad móvil personalizada
 
@@ -161,7 +161,7 @@ Este es el aspecto del filtro en Marketo:
 
 * NO tenía sesión de aplicación móvil: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo, plataforma y duración de la sesión (segundos)
+**Restricciones** - Tipo de dispositivo, plataforma y duración de la sesión (segundos)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ Toque/Toque la notificación push
 
 * Notificación push NO reventada: filtro de inactividad
 
-**Restricciones**: Tipo de dispositivo, plataforma, versión de aplicación móvil, notificación push y versión de plataforma
+**Restricciones** - Tipo de dispositivo, Plataforma, Versión de aplicación móvil, Notificación push y Versión de plataforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ Toque/Toque la notificación push
 
 * NO se envió notificación push: filtro de inactividad
 
-**Restricciones**: Notificaciones push y aplicación móvil
+**Restricciones** - Notificación push y aplicación móvil
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
