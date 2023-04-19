@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: Editar reglas de calificación en una campaña inteligente - Documentos de Marketo - Documentación del producto
 title: Editar reglas de calificación en una campaña inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Las reglas de clasificación controlan cuántas veces alguien puede ejecutar el 
 
 1. En la campaña inteligente, haga clic en el botón **Programación** pestaña y luego **Editar configuración**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ Las reglas de clasificación controlan cuántas veces alguien puede ejecutar el 
 
 1. Elija la frecuencia con la que se ejecutará a su gente a través del flujo de campañas inteligentes: **solo una vez**, **cada vez** o **una vez cada # días**/**semanas**/**meses**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
