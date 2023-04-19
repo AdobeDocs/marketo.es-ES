@@ -3,7 +3,7 @@ unique-page-id: 1147066
 description: Anular restricciones de personas en una campaña inteligente - Documentos de Marketo - Documentación del producto
 title: Anular restricciones de personas en una campaña inteligente
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Marketo le permite establecer el número máximo de personas que pueden cumplir 
 
 1. En Actividades de marketing, vaya a la campaña inteligente y haga clic en **Programación**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. En Configuración de campañas inteligentes, haga clic en **Editar**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Marketo le permite establecer el número máximo de personas que pueden cumplir 
 
 1. Introduzca un nuevo límite y haga clic en **Guardar.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    La campaña inteligente no se ejecutará si el número de personas que cumplen los requisitos supera el límite establecido.
 
