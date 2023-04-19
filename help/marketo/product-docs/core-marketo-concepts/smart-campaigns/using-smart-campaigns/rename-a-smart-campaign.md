@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: 'Cambiar el nombre de una campaña inteligente: Documentos de Marketo: Documentación del producto'
 title: Cambiar el nombre de una campaña inteligente
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -16,19 +16,19 @@ Puede cambiar el nombre de una campaña inteligente existente. Así es como.
 
 1. Vaya a **Actividades de marketing**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/rename-a-smart-campaign-1.png)
 
 1. Seleccione la campaña inteligente y haga clic en su nombre.
 
-   ![](assets/renamecampaign-hands.png)
+   ![](assets/rename-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Los nombres de campaña inteligentes dentro de los programas siempre se traducen al formato &quot;ProgramName.CampaignName&quot;.
+   >Los nombres de campaña inteligente dentro de los programas siempre se traducen al formato &quot;ProgramName.CampaignName&quot;.
 
-1. Introduzca el nuevo nombre de campaña inteligente y haga clic en **Guardar**.
+1. Introduzca el nuevo nombre de la campaña inteligente y haga clic en **Guardar**.
 
-   ![](assets/rename-cursorandhand.png)
+   ![](assets/rename-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
