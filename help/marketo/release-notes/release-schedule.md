@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 'Programación de versiones. Documentos de Marketo: documentación del producto'
 title: Programa de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 0da0be0f89e7f17752febb6b2c24766eebd63a5c
+source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 7%
@@ -47,12 +47,12 @@ _Las fechas de lanzamiento están sujetas a cambios_
    <td>Enviado</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Marzo del 23</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-mar-23.md">Marzo del 23</a></td>
    <td>31 de marzo de 2023</td>
    <td>En progreso</td>
   </tr>
-  <tr> 
-   <td>Mayo 23</td>
+  <tr>
+   <td><a href="/help/marketo/release-notes/current.md">Mayo 23</a></td>
    <td>19 de mayo de 2023</td>
    <td>Según lo programado</td>
   </tr>
