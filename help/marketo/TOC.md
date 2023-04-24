@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
 source-wordcount: '8866'
 ht-degree: 3%
@@ -663,10 +663,10 @@ ht-degree: 3%
                + [Explicación de los estados del programa de los seminarios web](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Seminarios web interactivos {#interactive-webinars}
             + [Información general sobre seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
-            + [Administración de usuarios de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Administración de usuarios y licencias](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Crear un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Diseño de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
-            + [Editar o eliminar un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Modificar o eliminar un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Flujos de trabajo de eventos](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Añadir posibles clientes a una audiencia personalizada en Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

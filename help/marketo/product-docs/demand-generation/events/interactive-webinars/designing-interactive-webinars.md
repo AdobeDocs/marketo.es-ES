@@ -4,13 +4,17 @@ title: Diseño de seminarios web interactivos
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 06dab22b1785abc2ccca688dbb5bf3997d6c7fe0
+source-git-commit: db68d63b6502822d4948485865edb26d10104a14
 workflow-type: tm+mt
-source-wordcount: '15'
-ht-degree: 13%
+source-wordcount: '25'
+ht-degree: 0%
 
 ---
 
 # Diseño de seminarios web interactivos {#designing-interactive-webinars}
 
-Próximamente
+Introducción.
+
+Necesita descripción de la habitación
+
+¿Usar la cámara y el micrófono, cada vez?
