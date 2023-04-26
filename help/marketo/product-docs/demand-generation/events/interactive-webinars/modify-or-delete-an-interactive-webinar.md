@@ -4,10 +4,10 @@ title: Modificar o eliminar un seminario web interactivo
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 4%
+source-wordcount: '78'
+ht-degree: 5%
 
 ---
 
@@ -20,6 +20,16 @@ Introducción.
 1. Seleccione el seminario web deseado y haga clic en **Cambiar sala/plantilla**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
+
+1. Texto
+
+PICC
+
+## Reprogramar un seminario web interactivo {#reschedule-an-interactive-webinar}
+
+1. Seleccione el seminario web deseado y haga clic en **Cambiar sala/plantilla**.
+
+PICC
 
 1. Texto
 

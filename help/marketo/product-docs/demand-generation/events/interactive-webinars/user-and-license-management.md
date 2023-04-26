@@ -4,9 +4,9 @@ title: Administración de usuarios y licencias
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Introducción.
 
 ## Uso de licencias {#license-usage}
 
-Cada vez que se añade una licencia, aparece un nuevo cuadro de uso de la licencia.
+Los seminarios web interactivos ofrecen licencias específicas para crear eventos de Adobe Connect. Cada vez que se añade una licencia, aparece un nuevo cuadro de uso de la licencia. Los administradores de Marketo pueden ver (no editar) las licencias siguiendo los pasos a continuación. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para adquirir licencias adicionales.
 
 1. Vaya a la **Administrador** .
 
@@ -63,6 +63,48 @@ Cada vez que se añade una licencia, aparece un nuevo cuadro de uso de la licenc
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFORMACIÓN
+1. Desplácese hacia abajo hasta las tarjetas de Uso de licencias.
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Fecha de inicio</b></td>
+   <td>Fecha en la que comienza la licencia.</td>
+  </tr>
+  <tr> 
+   <td><b>Fecha de caducidad</b></td>
+   <td>Fecha en la que caduca la licencia.</td>
+  </tr>
+  <tr> 
+   <td><b>Tipo</b></td>
+   <td>Tipo de licencia adquirida. Hay tres tipos disponibles: Licencia de eventos compartidos, Licencia de salas compartidas, Licencia de almacenamiento adicional.</td>
+  </tr>
+  <tr> 
+   <td><b>Capacidad del evento</b></td>
+   <td>Número máximo de participantes que se pueden alojar en un evento.</td>
+  </tr>
+  <tr> 
+   <td><b>Eventos totales</b></td>
+   <td>El número total de eventos que se han aprovisionado con esta licencia.</td>
+  </tr>
+  <tr> 
+   <td><b>Eventos consumidos</b></td>
+   <td>El número total de eventos completados.</td>
+  </tr>
+  <tr> 
+   <td><b>Capacidad de almacenamiento</b></td>
+   <td>Cantidad de almacenamiento disponible para almacenar grabaciones, colaterales, heros images, documentación y otros recursos.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Aspectos a tener en cuenta**
+
+* El tipo &quot;Licencia de almacenamiento adicional&quot; solo proporciona almacenamiento, por lo que el valor de cada campo _than_ La Capacidad de Almacenamiento de Información se incluirá simplemente como &quot;-&quot;.
+
+* El tipo &quot;Licencia de habitación compartida&quot; tiene eventos ilimitados y &quot;Licencia de almacenamiento adicional&quot; solo proporciona almacenamiento, por lo que el campo Eventos totales para estas licencias se enumerará simplemente como &quot;-&quot;.
+
+* Cada vez que se crea un evento, se cuenta como &quot;consumido&quot; a partir de su licencia correspondiente (a menos que sea una licencia de sala compartida). Se dará preferencia a la &quot;Licencia de Evento Compartido&quot; si existen tanto la &quot;Licencia de Evento Compartido&quot; como la &quot;Licencia de Sala Compartida&quot; de la misma capacidad. Si el evento no se ha entregado y si el programa de eventos se elimina antes de la hora programada, el recuento de eventos se reabastece restando un evento de los eventos consumidos.
+
+* Una vez que se ha agotado una licencia, su mosaico permanece en la pantalla Seminarios web interactivos de Admin con el total de eventos y eventos consumidos que tienen el mismo valor. Solo se eliminará de la pantalla cuando la licencia caduque.
