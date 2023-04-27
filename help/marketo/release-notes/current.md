@@ -2,7 +2,7 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 8%
@@ -19,7 +19,7 @@ A continuación encontrará todas las funciones incluidas en la versión del 23 
 
 ## Funciones del ciclo de versión estándar {#standard-release-cycle-features}
 
-Las siguientes funciones caen dentro del ciclo de versiones estándar y empezarán a lanzarse en **19 de mayo de 2023**, con el despliegue gradual de las funciones restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Compruebe el estado de cada función debajo.
+Las siguientes funciones caen dentro del ciclo de versiones estándar y empezarán a lanzarse en **12 de mayo de 2023**, con el despliegue gradual de las funciones restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Compruebe el estado de cada función debajo.
 
 ### Marketo Engage de experiencia de usuario moderna {#modern-ux}
 
