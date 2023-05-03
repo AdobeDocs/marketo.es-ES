@@ -4,9 +4,9 @@ title: Modificar o eliminar un seminario web interactivo
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Obtenga información sobre cómo realizar cambios en el seminario web interactiv
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Texto
+1. La habitación se cargará. Si desea cambiar la habitación, seleccione una en la lista desplegable Habitaciones . Para actualizar la plantilla, haga clic en **Uso de la sala**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-?? para Nilesh - ¿es normal no ser llevado a la sala en la que el Seminario web ya está? Si no es así, ¿cuál es la mejor práctica?
+>[!NOTE]
+>
+>Cambiar la sala es opcional y no es necesario para actualizar la plantilla.
+
+1. Haga clic en **Refine el seminario web ahora**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Seleccione sus preferencias de audio/vídeo y haga clic en **Entrar en la sala**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. Cuando haya terminado de realizar las modificaciones, haga clic en **Salir**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Reprogramar un seminario web interactivo {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Haga clic en **Siguiente**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >En este momento solo puede guardar un seminario web interactivo clonado como un seminario web interactivo. Guardar un seminario web clonado como seminario web de socio (por ejemplo, Zoom, ON24, etc.) estará disponible próximamente.
 
 1. Elija la configuración del seminario web clonado y haga clic en **Clonar**.
 

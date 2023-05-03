@@ -4,16 +4,18 @@ title: Información general sobre seminarios web interactivos
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 2%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Información general sobre seminarios web interactivos {#interactive-webinars-overview}
 
 Obtenga más información sobre la herramienta Marketo Engage nativa para crear seminarios web en BLANCO y eficaces.
+
+Un seminario web de Adobe Connect es una conferencia en línea interactiva en directo para varios usuarios. La sala es un espacio virtual en línea persistente que se utiliza para realizar seminarios web. Incluye varios paneles de visualización (pods) y diseños. Hay varios diseños de sala de reuniones pregenerados o puede crear y utilizar diseños personalizados adicionales para adaptarlos a sus necesidades. La sala permite a los asistentes compartir pantallas o archivos de ordenador, chatear, emitir audio y vídeo, y participar en actividades interactivas en línea.
 
 _¿Qué son los seminarios web interactivos?_
 

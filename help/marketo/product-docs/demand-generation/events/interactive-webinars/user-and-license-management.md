@@ -4,7 +4,7 @@ title: Administración de usuarios y licencias
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -107,4 +107,4 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
 
 * Cada vez que se crea un evento, se cuenta como &quot;consumido&quot; a partir de su licencia correspondiente (a menos que sea una licencia de sala compartida). Se dará preferencia a la &quot;Licencia de Evento Compartido&quot; si existen tanto la &quot;Licencia de Evento Compartido&quot; como la &quot;Licencia de Sala Compartida&quot; de la misma capacidad. Si el evento no se ha entregado y si el programa de eventos se elimina antes de la hora programada, el recuento de eventos se reabastece restando un evento de los eventos consumidos.
 
-* Una vez que se ha agotado una licencia, su mosaico permanece en la pantalla Seminarios web interactivos de Admin con el total de eventos y eventos consumidos que tienen el mismo valor. Solo se eliminará de la pantalla cuando la licencia caduque.
+* Una vez agotada la licencia, su mosaico permanece en la pantalla Seminarios web interactivos de la sección Administración con &quot;Eventos totales&quot; y &quot;Eventos consumidos&quot; con el mismo valor. Solo se eliminará de la pantalla cuando la licencia caduque.

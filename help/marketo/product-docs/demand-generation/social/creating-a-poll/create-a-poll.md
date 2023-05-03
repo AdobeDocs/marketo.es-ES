@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Creación de una encuesta - Documentos de Marketo - Documentación del producto
 title: Crear una encuesta
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Crear una encuesta {#create-a-poll}
 
 Involucrar a la gente con una encuesta en la que puedan votar y compartir con sus amigos en las redes sociales. Puede agregarla a lugares como páginas de aterrizaje, sitios web y Facebook.
-
->[!AVAILABILITY]
->
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
 >[!PREREQUISITES]
 >
