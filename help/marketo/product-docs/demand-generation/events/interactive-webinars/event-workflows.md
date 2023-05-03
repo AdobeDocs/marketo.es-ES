@@ -4,35 +4,43 @@ title: Flujos de trabajo de eventos
 hide: true
 hidefromtoc: true
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f7cbb624337ecd4d5bebaf69edd0ed9605e84575
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Flujos de trabajo de eventos {#event-workflows}
 
-Introducción.
+Una vez completado el seminario web, vaya a la pestaña Tablero para ver el rendimiento agregado.
 
-Tablero de seminario web interactivo es una vista para que los especialistas en marketing vean el rendimiento agregado del seminario web realizado en Adobe Connect. Esto se puede ver en una pestaña separada denominada &quot;Tablero&quot; que aparece una vez que el evento ha finalizado y los datos se obtienen de Adobe Connect. Si el evento no se ha realizado o los datos no se han recibido por alguna razón, la pestaña &quot;Tablero&quot; no aparecerá en la pantalla del Programa de eventos de seminario web interactivo. Las utilidades del panel no se pueden explorar ni exportar en este momento.
+![](assets/event-workflows-1.png)
 
-El panel consta de 4 utilidades:
+>[!NOTE]
+>
+>Si el seminario web aún no se ha completado o los datos no se han recibido por alguna razón, la pestaña Tablero no estará disponible aún.
 
-1. Estado del programa de eventos:
+## Widgets de tablero {#dashboard-widgets}
 
-   El widget Estado del programa de eventos resalta el estado de los distintos programas para ese evento y el número de miembros del programa que actualmente tienen ese valor de estado del programa.
+El panel consta de cuatro utilidades.
 
-1. Asistencia:
+**Estado del programa del evento**
 
-   La utilidad Asistencia destaca la duración de la asistencia de varios miembros que asistieron al seminario web en comparación con la duración total del seminario web en términos de porcentaje.
+Muestra los distintos estados del programa para ese evento y el número de miembros del programa que actualmente tienen ese valor de estado del programa.
 
-1. Rendimiento de la encuesta:
+**Asistencia**
 
-   El widget Rendimiento de las encuestas destaca varias encuestas iniciadas durante el seminario web en Adobe Connect y la distribución de los miembros que asistieron y respondieron a la encuesta en cada una de las respuestas.
+Destaca la duración de la asistencia de varios miembros que asistieron al seminario web en comparación con la duración general del seminario web en términos de porcentaje.
 
-1. Actividad de descarga de archivos y clics:
+**Rendimiento de la encuesta**
 
-   La actividad de descarga de clics y archivos resalta el recuento de descargas de archivos y vínculos web en los que varios miembros han hecho clic durante el Seminario web en Adobe Connect y han participado en el mismo.
+Muestra varias encuestas iniciadas durante el seminario web en Adobe Connect y la distribución de los miembros que asistieron y respondieron a la encuesta en cada una de las respuestas.
+
+**Actividad de descarga de archivos y clics**
+
+Proporciona el recuento de descargas de archivos y vínculos web en los que varios miembros que asistieron al seminario web en Adobe Connect hicieron clic durante el seminario web y realizaron esa acción concreta.
+
+## Déclencheur y filtros {#triggers-and-filters}
 
 Filtro y Déclencheur en IW: &quot;Seminario web&quot; en listas inteligentes

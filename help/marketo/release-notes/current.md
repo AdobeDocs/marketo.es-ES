@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '452'
+ht-degree: 7%
 
 ---
 
@@ -96,20 +96,6 @@ INFORMACIÓN DE REGISTRO PRONTO
 ### Chat dinámico {#dynamic-chat}
 
 </br>
-
-* **Actividades de chat dinámico mejoradas**: Las actividades, filtros y déclencheur existentes de Dynamic Chat se mejoran con atributos adicionales y una convención de nombres estandarizada.
-
-<table> 
-  <tr> 
-   <td><b>Estado</b></td>
-   <td><b>Actualizaciones de documentación</b></td>
-  </tr>
-  <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **Fuente de chat para Dynamic Chat**: &quot;Chat&quot; se ofrece ahora como fuente de nuevos registros y actividades personales. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar actividades en Listas inteligentes/Campañas. La fuente también se puede bloquear de las actualizaciones de los campos.
 
