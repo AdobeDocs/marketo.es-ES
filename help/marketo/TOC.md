@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 3%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 3%
          + [Explicación de las carpetas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Explicación de las notificaciones](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificación](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Sin Recorridos {#not-journeys}
+         + [Información general sobre nombres](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [Ficha Nombre](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [Ficha Configuración](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Introducción a Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelos y perspectivas](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -631,7 +635,7 @@ ht-degree: 3%
          + Integraciones {#integrations}
             + [Conexión de Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Uso de la tarjeta de documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
-         + Cuadros de diálogo {#dialogues}
+         + Diálogos {#dialogues}
             + [Información general del cuadro de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Crear un cuadro de diálogo](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Criterios de audiencia](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
