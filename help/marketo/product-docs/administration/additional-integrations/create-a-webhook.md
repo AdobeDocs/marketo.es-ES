@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 'Creación de un vínculo web: Documentos de Marketo: Documentación del producto'
 title: Creación de un vínculo web
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Utilice los enlaces web para aprovechar los servicios web de terceros para envia
 
    * **URL**: Introduzca la URL que utiliza en la solicitud al servicio web. Para insertar un token, como la dirección de correo electrónico de la persona (**`{{lead.Email Address}}`**), en la solicitud, haga clic en **Insertar token**.
 
-   * **Plantilla**: Si desea transmitir información en el cuerpo del POST, introduzca la plantilla. Utilice cualquier formato de datos compatible con el POST HTTP, incluidos XML, JSON o SOAP. Para insertar un token en la plantilla, haga clic en **Insertar token**.
+   * **Plantilla**: Si desea transmitir información en el cuerpo de la solicitud, introduzca a través de la plantilla de carga útil. Plantillas permitidas para los siguientes tipos de solicitud: POST, DELETE, PATCH o PUT. Puede utilizar formatos de datos como JSON o XML. Para insertar un token en la plantilla, haga clic en **Insertar token**.
 
    * **Codificación del token de solicitud**: Si los valores de token incluyen caracteres especiales (como el símbolo &amp;), indique el formato de la solicitud (**JSON** o **Formulario/Url**).
 
