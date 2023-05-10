@@ -4,20 +4,20 @@ title: Información general sobre seminarios web interactivos
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # Información general sobre seminarios web interactivos {#interactive-webinars-overview}
 
-La función Seminario web interactivo le permite crear, programar, promocionar y distribuir seminarios web en Marketo Engage sin tener que utilizar herramientas o integraciones adicionales.
+La función Seminarios web interactivos es nuestra plataforma de seminarios web integrada dentro de Marketo Engage. No se requieren herramientas ni integraciones adicionales.
 
 ## ¿Qué son los seminarios web interactivos? {#what-is-interactive-webinars}
 
-Interactive Webinars es una conferencia en línea interactiva y en directo disponible para varios usuarios. Cuando [crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, hay varios diseños de sala de reuniones predefinidos disponibles, que se pueden personalizar. También puede crear y utilizar diseños personalizados adicionales. Los asistentes pueden compartir pantallas/archivos de ordenador, charlar entre ellos, emitir audio y vídeo, y participar en actividades interactivas en línea.
+Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y fluida para crear, administrar y entregar eventos dentro de un Marketo Engage. Cuando [crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, hay disponibles varios diseños de sala de reuniones pregenerados entre los que elegir, todos ellos personalizables (también puede crear y utilizar diseños personalizados adicionales). Los asistentes pueden compartir pantallas/archivos de ordenador, charlar entre ellos, emitir audio y vídeo, y participar en actividades interactivas en línea.
 
 Ofertas de seminarios web interactivos [tres licencias diferentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, cada uno con diversas funciones y capacidades.
 

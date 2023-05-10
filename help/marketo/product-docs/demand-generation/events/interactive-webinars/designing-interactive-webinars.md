@@ -4,9 +4,9 @@ title: Diseño de seminarios web interactivos
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Aprenda a diseñar su seminario web para adaptarlo a sus necesidades.
 
-1. Seleccione el evento y haga clic en **Seminario web de diseño**.
+1. Seleccione el evento y haga clic en **Diseño de un seminario web**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Aprenda a diseñar su seminario web para adaptarlo a sus necesidades.
 
 ## Elementos de diseño {#design-elements}
 
-**Plantilla**: La plantilla es una estructura proporcionada a una sala basada en el objetivo del seminario web que se está organizando. Por ejemplo, si desea programar un seminario web de presentación de productos, el uso compartido de la pantalla sería un componente esencial para mostrar la demostración. La plantilla garantiza que los componentes esenciales necesarios para una entrega eficaz de un tipo concreto de seminario web estén establecidos durante la configuración de la sala de seminarios web.
+**Plantilla**: Estructura proporcionada a una sala basada en el objetivo del seminario web que se está organizando. Por ejemplo, si desea programar un seminario web de presentación de productos, el uso compartido de la pantalla sería un componente esencial para mostrar la demostración. La plantilla garantiza que los componentes esenciales necesarios para una entrega eficaz de un tipo concreto de seminario web estén establecidos durante la configuración de la sala de seminarios web.
 
-**Diseño**: Diseño hace referencia a varias formas en que los componentes múltiples necesarios para garantizar el éxito del seminario web se organizan en una plantilla concreta. Una sola plantilla puede tener varios diseños para elegir. Los componentes esenciales del seminario web seguirían siendo los mismos en todas las plantillas. La disposición que ha seleccionado se ajustaría mejor al estilo o las necesidades del presentador que haya realizado el seminario web.
+**Diseño**: Hace referencia a varias formas en las que los componentes múltiples necesarios para garantizar el éxito del seminario web se organizan en una plantilla concreta. Una sola plantilla puede tener varios diseños para elegir. Los componentes esenciales del seminario web seguirían siendo los mismos en todas las plantillas. La disposición que ha seleccionado se ajustaría mejor al estilo o las necesidades del presentador que haya realizado el seminario web.
 
-**Pod**: La secuencia hace referencia a un componente dentro de una plantilla que realiza una actividad determinada durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuesta puede completar. De manera similar, chatear con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad entregada a través del pod de chat. Hay varios otros pods disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
+**Pod**: Componente dentro de una plantilla que realiza una actividad determinada durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuesta puede completar. De manera similar, chatear con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad entregada a través del pod de chat. Hay varios otros pods disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
