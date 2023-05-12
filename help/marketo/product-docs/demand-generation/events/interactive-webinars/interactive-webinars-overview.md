@@ -4,9 +4,9 @@ title: Información general sobre seminarios web interactivos
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La función Seminarios web interactivos es nuestra plataforma de seminarios web 
 
 ## ¿Qué son los seminarios web interactivos? {#what-is-interactive-webinars}
 
-Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y fluida para crear, administrar y entregar eventos dentro de un Marketo Engage. Cuando [crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, hay disponibles varios diseños de sala de reuniones pregenerados entre los que elegir, todos ellos personalizables (también puede crear y utilizar diseños personalizados adicionales). Los asistentes pueden compartir pantallas/archivos de ordenador, charlar entre ellos, emitir audio y vídeo, y participar en actividades interactivas en línea.
+Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y fluida para crear, administrar y entregar eventos dentro de un Marketo Engage. Cuando [crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, hay varias plantillas de reunión prediseñadas disponibles para elegir, todas ellas personalizables (también puede crear y utilizar plantillas personalizadas). Los asistentes pueden compartir pantallas/archivos de ordenador, charlar entre ellos, emitir audio y vídeo, y participar en actividades interactivas en línea.
 
 Ofertas de seminarios web interactivos [tres licencias diferentes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, cada uno con diversas funciones y capacidades.
 

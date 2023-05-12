@@ -2,9 +2,9 @@
 description: 'Notas de la versión, agosto de 2021: Documentación del producto de Marketo'
 title: Notas de la versión, agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -55,15 +55,16 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 >[!NOTE]
 >
->La restricción de correo electrónico ya está disponible en versión beta. [Obtenga más información](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>La restricción de correo electrónico ya está disponible en versión beta. [Más información](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
-* **Perspectivas de actividad de ventas mejoradas**: Capture y active la participación personalizada en función de las actividades anteriores del equipo de ventas. En las listas inteligentes del Marketo Engage se pueden utilizar nuevos atributos, como el vínculo de grabación de llamadas de venta, el nombre de campaña de ventas y el asunto del correo electrónico de ventas.  Estas actividades se pueden exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y están disponibles en filtros y déclencheur como restricciones adicionales para listas inteligentes.
+* **Perspectivas de actividad de ventas mejoradas**: Capturar y activar la participación personalizada en función de las actividades anteriores del equipo de ventas. En las listas inteligentes del Marketo Engage se pueden utilizar nuevos atributos, como el vínculo de grabación de llamadas de venta, el nombre de campaña de ventas y el asunto del correo electrónico de ventas.  Estas actividades se pueden exportar e informar a través de la API de REST del Marketo Engage o la exportación masiva, y están disponibles en filtros y déclencheur como restricciones adicionales para listas inteligentes.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Integración de Bizible LinkedIn Lead Gen Forms**: Los especialistas en marketing ahora pueden realizar la atribución de ingresos en conversiones que se producen cuando LinkedIn captura los rellenos de formulario a través de sus unidades de anuncios de Forms de Generación de posibles clientes. Estas perspectivas se pueden utilizar para optimizar el rendimiento del formulario y las inversiones de medios de pago. linkedIn Lead Gen Forms es una de las ofertas de medios de pago de más rápido crecimiento de LinkedIn y esta nueva funcionalidad se incluye con nuestra integración de LinkedIn Ads con Bizible.   
+* **Integración de Bizible LinkedIn Lead Gen Forms**: Los especialistas en marketing ahora pueden realizar la atribución de ingresos en conversiones que se producen cuando LinkedIn captura los rellenos de formulario a través de sus unidades de anuncios de Forms de Generación de posibles clientes. Estas perspectivas se pueden utilizar para optimizar el rendimiento del formulario y las inversiones de medios de pago. linkedIn Lead Gen Forms es una de las ofertas de medios de pago de mayor crecimiento de LinkedIn y esta nueva funcionalidad se incluye con nuestra integración de LinkedIn Ads con Bizible.
+
 * **Panel de Velocity mejorado**: Hemos agregado una nueva métrica de velocidad y un filtro de panel para obtener perspectivas más profundas. Los especialistas en marketing utilizan este tablero para comprender la velocidad de posible cliente y la velocidad de oportunidad paso a paso, así como la eficacia de diferentes formas de participación de ventas y marketing.
 
 * **Nuevo tablero de Recorrido de cascada de cohorte**: Esto permitirá a los especialistas en marketing ver la progresión de una cohorte seleccionada a través de un conjunto clásico de etapas de &quot;cascada de demanda&quot;, lo que proporciona una comprensión rápida de las tasas de conversión y la causalidad implícita de la conversión de fase paso a paso.
@@ -72,9 +73,9 @@ Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán 
 
 Esta sección incluye nuevas funciones para los usuarios de Bizible que han completado su migración al sistema Identity Management de Adobe (IMS). Si se ha migrado, verá el nuevo Adobe ID en Configuración bisible en la pestaña Adobe ID . Todas las cuentas deberían migrarse a finales de 2021.
 
-* **Integración de Bizible con el Privacy Service de Adobe** (disponible en septiembre de 2021): La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas críticas de privacidad de datos (como el RGPD) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada, de modo que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
+* **Integración de Bizible con el Privacy Service de Adobe** (disponible en septiembre de 2021): La integración de Bizible con el Privacy Service de Adobe unifica el cumplimiento de las normas de privacidad de datos críticas (como el RGPD) en todas las aplicaciones de Adobe Experience Cloud. Ahora puede aprovechar este servicio y administrar todas las solicitudes de privacidad de forma centralizada, de modo que las solicitudes de cambio que llegan a Bizible y a otros productos de Adobe se reflejen en todas las aplicaciones.
 
-* **Bizible en la shell unificada de Adobe**: La adopción por parte de Bizible de Adobe Unified Shell ofrece a los usuarios nuevas funciones que aparecerán en la barra de encabezado de la aplicación Bizible e incluyen un mejor acceso a los recursos de soporte y al cambio de aplicación. Adobe Unified Shell ayuda a crear una experiencia coherente entre Bizible y otras aplicaciones de Adobe Experience Cloud.
+* **Bizible en la interfaz de Adobe Experience Cloud**: La adopción de la interfaz de Adobe Experience Cloud por parte de Bizible ofrece a los usuarios nuevas funciones que aparecerán en la barra de encabezado de la aplicación Bizible e incluye un mejor acceso a los recursos de soporte y al cambio de aplicación. La interfaz de Experience Cloud ayuda a crear una experiencia coherente entre Bizible y otras aplicaciones de Adobe Experience Cloud.
 
 * **Propiedad y administración autónomas de dominios bibliográficos**: Los usuarios de Bizible pueden aprovechar Adobe Admin Console para administrar los dominios que desean que Bizible rastree. Esto lleva el autoservicio a un proceso anteriormente manual y proporciona una experiencia coherente en la administración de la propiedad y el seguimiento del dominio en todas las aplicaciones de Adobe Experience Cloud.
 
