@@ -3,9 +3,9 @@ unique-page-id: 7516605
 description: 'Ayuda que he heredado una instancia de Marketo existente: Marketo Docs, documentación del producto'
 title: Ayuda que he heredado una instancia de Marketo existente
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-source-git-commit: e7fafc58ada80537dc5ab2085f9bf55611879d3b
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ Si es así, esta guía está pensada para usted. Debería ayudarle a sacar el m�
 
 **Tabla de contenido**
 
-* [Elementos que desproteger](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target=&quot;_blank&quot;}
-* [Aspectos a revisar: Capacidades básicas](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target=&quot;_blank&quot;}
-* [Formas de obtener ayuda](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target=&quot;_blank&quot;}
+* [Elementos que desproteger](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target="_blank"}
+* [Aspectos a revisar: Capacidades básicas](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
+* [Formas de obtener ayuda](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-Si ya sabe cómo moverse por su instancia y se siente cómodo con los conceptos principales de Marketo, consulte los Documentos de producto de Marketo Engae o visite [Nación de marketing](https://nation.marketo.com/)Comunidad en línea {target=&quot;_blank&quot;} para ver lo que otros usuarios de Marketo están diciendo.
+Si ya sabe cómo moverse por su instancia y se siente cómodo con los conceptos principales de Marketo, consulte los Documentos de producto del Marketo Engage o visite [Nación de marketing](https://nation.marketo.com/){target="_blank"} comunidad en línea para ver lo que otros usuarios de Marketo están diciendo.

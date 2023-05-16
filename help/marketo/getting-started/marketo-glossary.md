@@ -3,10 +3,10 @@ unique-page-id: 12980733
 description: Glosario de Marketo - Documentos de Marketo - Documentación del producto
 title: Glosario de Marketo
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -23,12 +23,12 @@ A continuación se describen muchos de los términos que puede encontrar al usar
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Prueba A/B</a></strong></td>
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Pruebas A/B</a></strong></td>
    <td colspan="1">Permite modificar componentes del correo electrónico (por ejemplo, una línea de asunto, una dirección, etc.) y establezca criterios de prueba para determinar qué conjunto de contenido tiene una mejor tarifa.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cuenta</strong></td> 
-   <td colspan="1">Este término puede tener diferentes significados:<br>-La propia instancia de Marketo puede denominarse cuenta de Marketo.<br>-In <strong>TAM</strong>, <strong>Cuenta con nombre</strong> es una cuenta que el usuario ha determinado que es una cuenta de destino que desea buscar.<br>-En TAM, una cuenta de CRM es una cuenta asignada desde el vínculo <strong>CRM</strong> (cuenta en <strong>Salesforce</strong>, <strong>MS Dynamics</strong> o <strong>API</strong>).<br>-En su CRM, las cuentas son la empresa/empresa a la que están asociados los posibles clientes y los contactos.</td> 
+   <td colspan="1">Este término puede tener diferentes significados:<br>-La propia instancia de Marketo puede denominarse cuenta de Marketo.<br>-In <strong>TAM</strong>, <strong>Cuenta con nombre</strong> es una cuenta que el usuario ha determinado que es una cuenta de destino que desea buscar.<br>-En TAM, una cuenta de CRM es una cuenta asignada desde el vínculo <strong>CRM</strong> (cuenta en <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> o <strong>API</strong>).<br>-En su CRM, las cuentas son la empresa/empresa a la que están asociados los posibles clientes y los contactos.</td> 
   </tr> 
   <tr> 
    <td><strong>Lista de cuentas</strong></td> 
@@ -306,7 +306,7 @@ A continuación se describen muchos de los términos que puede encontrar al usar
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Email</strong></td> 
+   <td colspan="1"><strong>Correo electrónico</strong></td> 
    <td colspan="1">En Marketo, uno de los <strong>activos</strong> disponible para su uso para comunicarse con sus clientes. Los correos electrónicos pueden ser HTML (gráficos, fuentes personalizadas, etc.) o de solo texto (mensajes de texto sin formato sin formato especial). Solo los correos electrónicos HTML pueden registrar "aperturas".</td> 
   </tr> 
   <tr> 
