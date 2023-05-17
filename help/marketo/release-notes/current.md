@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 7%
+source-wordcount: '424'
+ht-degree: 6%
 
 ---
 
@@ -65,7 +65,7 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
 
 Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y sin problemas para que los especialistas en marketing creen, administren y entreguen eventos dentro de Marketo Engage. Personalice los seminarios web según el tipo de evento e incluso añada presentadores si lo desea. Obtenga perspectivas de participación enriquecidas mediante funciones de Adobe Connect como encuestas en vivo, chat, sesiones de preguntas y respuestas, clics en vínculos web, descargas de documentos y mucho más. Recupere la grabación del seminario web directamente en el Marketo Engage y evalúe su rendimiento mediante métricas de panel enriquecidas.
 
-INFORMACIÓN DE REGISTRO PRONTO
+Puede solicitar [acceso anticipado a esta función aquí](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
