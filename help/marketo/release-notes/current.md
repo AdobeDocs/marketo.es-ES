@@ -2,30 +2,30 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '431'
 ht-degree: 6%
 
 ---
 
-# Notas de la versión: Mayo de 2023 {#release-notes-may-23}
+# Notas de la versión: mayo de 2023 {#release-notes-may-23}
 
-A continuación encontrará todas las funciones incluidas en la versión del 23 de mayo. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión de mayo de 2023. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
->Funciones denotadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Características indicadas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
 
-## Funciones del ciclo de versión estándar {#standard-release-cycle-features}
+## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones caen dentro del ciclo de versiones estándar y empezarán a lanzarse en **12 de mayo de 2023**, con el despliegue gradual de las funciones restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Compruebe el estado de cada función debajo.
+Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de mayo de 2023**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
 
-### Marketo Engage de experiencia de usuario moderna {#modern-ux}
+### UX moderno de Marketo Engage {#modern-ux}
 
 </br>
 
-* **Interfaz de Adobe Experience Cloud**: Alinea el Marketo Engage con el Experience Cloud para crear una experiencia de navegación coherente en varias soluciones de Experience Cloud en una sola sesión de usuario.
+* **Interfaz de Adobe Experience Cloud**: alinea el Marketo Engage con el Experience Cloud para crear una experiencia de navegación coherente en varias soluciones de Experience Cloud en una sola sesión de usuario.
 
 <table> 
   <tr> 
@@ -39,7 +39,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-* **Centro de ayuda del Marketo Engage**: El Centro de ayuda proporciona a los usuarios Marketo Engage una ubicación central para encontrar recursos de ayuda dentro del producto. Además, el Centro de ayuda ofrece a los usuarios la capacidad de activar guías internas del producto que explican cómo aprovechar las funciones clave.
+* **Centro de ayuda para Marketo Engage**: el Centro de ayuda proporciona a los usuarios Marketo Engage una ubicación central para buscar recursos de ayuda desde el producto. Además, el Centro de ayuda permite a los usuarios activar guías del producto que explican cómo aprovechar las funciones clave.
 
 <table> 
   <tr> 
@@ -53,19 +53,19 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-## Funciones de la versión Agile
+## Funciones de versión de Agile
 
-Las siguientes funciones siguen un formato Agile y se publican en varias fechas anteriores o posteriores a la fecha de lanzamiento estándar. Compruebe el estado de cada función debajo.
+Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado de cada una de las funciones.
 
-### Organización en canales múltiples {#cross-channel-orchestration}
+### Orquestación entre canales {#cross-channel-orchestration}
 
 </br>
 
 * **Seminarios web interactivos (disponibilidad limitada inicialmente)**:
 
-Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y sin problemas para que los especialistas en marketing creen, administren y entreguen eventos dentro de Marketo Engage. Personalice los seminarios web según el tipo de evento e incluso añada presentadores si lo desea. Obtenga perspectivas de participación enriquecidas mediante funciones de Adobe Connect como encuestas en vivo, chat, sesiones de preguntas y respuestas, clics en vínculos web, descargas de documentos y mucho más. Recupere la grabación del seminario web directamente en el Marketo Engage y evalúe su rendimiento mediante métricas de panel enriquecidas.
+Los seminarios web interactivos aumentan la experiencia existente de eventos y seminarios web al proporcionar una experiencia nativa y fluida para que los especialistas en marketing creen, administren y entreguen eventos dentro de Marketo Engage. Personalice los seminarios web según el tipo de evento e incluso añada moderadores si lo desea. Obtenga información de participación enriquecida a través de funciones de Adobe Connect como encuestas en directo, chat, sesiones de preguntas y respuestas, clics en vínculos web, descargas de documentos y mucho más. Recupere la grabación del seminario web directamente en Marketo Engage y evalúe su rendimiento a través de métricas de panel enriquecidas.
 
-Puede solicitar [acceso anticipado a esta función aquí](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Los seminarios web interactivos se implementarán gradualmente. Para solicitar un acceso más temprano, por favor complete [este formulario](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
@@ -83,7 +83,7 @@ Puede solicitar [acceso anticipado a esta función aquí](https://forms.office.c
 
 </br>
 
-* **Fuente de chat para Dynamic Chat**: &quot;Chat&quot; se ofrece ahora como fuente de nuevos registros y actividades personales. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar actividades en Listas inteligentes/Campañas. La fuente también se puede bloquear de las actualizaciones de los campos.
+* **Origen del chat para Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
 
 <table> 
   <tr> 
@@ -99,4 +99,4 @@ Puede solicitar [acceso anticipado a esta función aquí](https://forms.office.c
 
 ## Anuncios {#announcements}
 
-* **_Seminario web sobre la versión del producto_**: Únase a nosotros el 17 de mayo de 2023, a las 9:00 AM PT / 12:00 PM ET [para un seminario web en directo](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} alojado por nuestro equipo de productos, donde podrá aprender a utilizar las últimas innovaciones de productos incluidas en las versiones de marzo y mayo del 23.
+* **_Seminario web sobre lanzamiento de productos_**: Únase a nosotros el 17 de mayo de 2023, a las 9:00 AM PT / 12:00 PM ET [para un seminario web en directo](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} Nuestro equipo de productos le ayudará a utilizar las últimas innovaciones de productos que se lanzaron en las versiones de marzo y mayo de 2023.
