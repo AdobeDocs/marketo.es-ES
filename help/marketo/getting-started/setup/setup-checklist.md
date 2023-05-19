@@ -1,53 +1,53 @@
 ---
 unique-page-id: 2949471
-description: Lista de comprobación de configuración - Documentos de Marketo - Documentación del producto
-title: Lista de comprobación de configuración
+description: Lista de comprobación de instalación - Documentos de Marketo - Documentación del producto
+title: Configurar lista de comprobación
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
 
-# Lista de comprobación de configuración {#setup-checklist}
+# Configurar lista de comprobación {#setup-checklist}
 
-Le damos la bienvenida a Marketo! Siéntase libre de usar la siguiente lista de comprobación como una lista visual para empezar. Los detalles se encuentran en [Pasos de configuración](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
+Le damos la bienvenida a Marketo! Siéntase libre de usar la siguiente lista de comprobación como una lista de tareas pendientes visuales para comenzar. Encontrará más información en [Pasos de configuración](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}.
 
-## Inicio de sesión en Marketo y creación de usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
+## Inicie sesión en Marketo y cree usuarios adicionales {#log-in-to-marketo-and-create-additional-users}
 
 1. Iniciar sesión en Marketo
 1. Crear usuarios adicionales
 
-## Configurar un contacto de asistencia autorizado {#set-up-an-authorized-support-contact}
+## Configuración de un contacto de asistencia autorizado {#set-up-an-authorized-support-contact}
 
-1. Configurar un contacto de asistencia autorizado
+1. Configuración de un contacto de asistencia autorizado
 1. Personalizar direcciones URL de páginas de aterrizaje
-1. Seleccionar un CNAME de página de aterrizaje
-1. Solicite a TI que cree un registro DNS para su CNAME de página de aterrizaje
+1. Seleccione un CNAME de página de aterrizaje
+1. Solicite al departamento de TI que cree un registro DNS para el CNAME de su página de aterrizaje
 1. Cuando haya terminado, configure el nombre de dominio de la página de aterrizaje en Marketo
 
-## Garantizar la capacidad de entrega de correos electrónicos {#ensure-email-deliverability}
+## Garantizar entrega de correo electrónico {#ensure-email-deliverability}
 
-1. Seleccionar un CNAME de correo electrónico para vínculos de seguimiento de marca
-1. Solicite a TI que configure un registro DNS para su CNAME de correo electrónico
-1. Solicitar a TI que lista de permitidos Marketo
-1. Configuración de DKIM y SPF en el área de administración
+1. Seleccione un CNAME de correo electrónico para los vínculos de seguimiento de marca
+1. Solicite al departamento de TI que configure un registro DNS para su CNAME de correo electrónico
+1. Pedir al departamento de TI que realice la lista de permitidos de Marketo
+1. Configure DKIM y SPF en la [!UICONTROL Administrador] área
 1. Configuración de MX para `[FromDomain1]`
-1. Cuando haya terminado con el CNAME de correo electrónico, configure su CNAME de correo electrónico en Marketo
+1. Cuando haya terminado con el CNAME del correo electrónico, configure el CNAME del correo electrónico en Marketo
 
-## Enviar una dirección URL para plantillas de correo electrónico y página de aterrizaje {#submit-a-url-for-landing-page-and-email-templates}
+## Envíe una URL para las plantillas de página de aterrizaje y correo electrónico {#submit-a-url-for-landing-page-and-email-templates}
 
-1. Rellene el formulario para enviar una dirección URL para nuevas plantillas
+1. Rellene el formulario para enviar una dirección URL para las nuevas plantillas
 
-## Sincronización de CRM {#crm-sync}
+## Sincronización CRM {#crm-sync}
 
 1. Trabaje con su administrador de CRM para sincronizar todos los contactos de CRM con Marketo
 
-## Agregar código de seguimiento al sitio web {#add-tracking-code-to-your-website}
+## Añadir código de seguimiento al sitio web {#add-tracking-code-to-your-website}
 
-1. Trabaje con un desarrollador web para agregar código de seguimiento al sitio web
+1. Trabaje con un desarrollador web para añadir un código de seguimiento a su sitio web
 
 >[!MORELIKETHIS]
 >
->[Pasos de configuración](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+>[Pasos de configuración](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
