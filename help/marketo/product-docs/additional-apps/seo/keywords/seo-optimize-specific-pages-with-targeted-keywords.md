@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2949212
-description: SEO - Optimizar páginas específicas con palabras clave de destino - Documentos de Marketo - Documentación del producto
-title: 'SEO: Optimizar páginas específicas con palabras clave de destino'
+description: 'SEO: optimizar páginas específicas con palabras clave de destino - Documentos de Marketo: documentación del producto'
+title: 'SEO: optimizar páginas específicas con palabras clave segmentadas'
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# SEO: Optimizar páginas específicas con palabras clave de destino {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO: optimizar páginas específicas con palabras clave segmentadas {#seo-optimize-specific-pages-with-targeted-keywords}
 
-Algunas palabras clave van muy bien con ciertas páginas. Así es como se relaciona la palabra clave perfecta con su página perfecta. Esto proporcionará los datos más precisos y las mejores recomendaciones para mejorar.
+Algunas palabras clave van muy bien con ciertas páginas. Así es como se hace coincidir la palabra clave perfecta con su página perfecta. Esto proporcionará los datos más precisos y las mejores recomendaciones para la mejora.
 
-1. Vaya a la **Páginas** para obtener más información.
+1. Vaya a la **[!UICONTROL Páginas]** sección.
 
-   ![](assets/image2014-9-18-12-3a52-3a28.png)a
+   ![](assets/image2014-9-18-12-3a52-3a28.png)
 
-1. Haga clic en la página para la que desea ver los detalles.
+1. Haga clic en la página cuyos detalles desea ver.
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Seleccione para qué palabra clave está intentando optimizar su página. Haga clic en **Actualizar**.
+1. Seleccione la palabra clave para la que intenta optimizar la página. Clic **[!UICONTROL Actualizar]**.
 
    >[!TIP]
    >
-   >Le recomendamos que utilice menos de tres palabras clave por página. Idealmente, sólo uno.
+   >Le recomendamos que utilice menos de tres palabras clave por página. Idealmente, solo uno.
 
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
-   ¡Ya está! Haga esto para tantas páginas y palabras clave como sea posible.
+Realice esta acción para tantas páginas y palabras clave como sea posible.

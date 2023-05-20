@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2949206
-description: SEO - Importación de palabras clave con un CSV - Documentos de Marketo - Documentación del producto
+description: 'SEO: importación de palabras clave con un CSV - Documentos de Marketo - Documentación del producto'
 title: 'SEO: importación de palabras clave con un CSV'
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # SEO: importación de palabras clave con un CSV {#seo-importing-keywords-with-a-csv}
 
-1. Puede [agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave desde un archivo CSV. A continuación se indica cómo realizar la importación.
+1. Puede [añadir palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obtener sugerencias de palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e incluso importar palabras clave desde un archivo CSV. A continuación se muestra cómo realizar la importación.
 
-1. Vaya a la **Palabras clave** para obtener más información.
+1. Vaya a la **[!UICONTROL Palabras clave]** sección.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Haga clic en **Importar**.
+1. Clic **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Haga clic en **Elegir archivo**.
+1. Clic **[!UICONTROL Elegir archivo]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >Los límites de importación varían en función de la suscripción. Póngase en contacto con su representante de ventas para obtener más información.
 
-1. Haga clic en **Importar**.
+1. Clic **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -42,10 +42,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a45-3a30.png)
 
-   Puede tardar unos minutos en cargar todos los datos asociados con cada palabra clave. Meditar sobre el significado de la vida.
+   >[!NOTE]
+   >
+   >Puede tardar unos minutos en cargar todos los datos asociados con cada palabra clave.
 
    >[!MORELIKETHIS]
    >
    >* [Explicación de las palabras clave (vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Agregar o eliminar palabras clave de una lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Agregar o quitar palabras clave de una lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 

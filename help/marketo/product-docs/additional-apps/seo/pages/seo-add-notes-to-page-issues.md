@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2949220
-description: SEO - Agregar notas a problemas de la página - Documentos de Marketo - Documentación del producto
+description: SEO - Agregar notas a los problemas de la página - Documentos de Marketo - Documentación del producto
 title: 'SEO: Agregar notas a problemas de página'
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -12,48 +12,48 @@ ht-degree: 0%
 
 # SEO: Agregar notas a problemas de página {#seo-add-notes-to-page-issues}
 
-¿Sabía que puede agregar notas a problemas de página como recordatorios personales o mensajes de equipo?
+¿Sabía que puede agregar notas a los problemas de la página como recordatorios personales o mensajes del equipo?
 
-## Adición de notas en la sección Problemas de la página {#adding-notes-in-page-issues-section}
+## Agregar notas en la sección Problemas de página {#adding-notes-in-page-issues-section}
 
-1. Vaya a la sección Páginas .
+1. Vaya a la **[!UICONTROL Páginas]** sección.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. En la ficha páginas, haga clic en **Problemas**.
+1. En la pestaña de páginas, haga clic en **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Pase el ratón sobre el problema al que desee añadir una nota. Haga clic en **Agregar nota adhesiva**.
+1. Pase el ratón sobre el problema al que quiera agregar una nota. Clic **[!UICONTROL Agregar nota adhesiva]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
-1. Introduzca una nota en el cuadro de texto amarillo. Si hace clic fuera del cuadro de texto, se guardará la nota.
+1. Escriba una nota en el cuadro de texto amarillo. Si hace clic fuera del cuadro de texto, se guardará la nota.
 
 ![](assets/image2014-9-18-13-3a12-3a32.png)
 
 >[!TIP]
 >
->Para eliminar la nota, haga clic en el icono **x** en la esquina superior izquierda.
+>Puede eliminar la nota haciendo clic en el icono pequeño **x** en la esquina superior izquierda.
 
-## Agregar notas en el desglose de detalles de página {#add-notes-in-page-detail-drill-down}
+## Agregar notas en detalle de página Profundizar {#add-notes-in-page-detail-drill-down}
 
-1. Vaya a la sección Páginas .
+1. Vaya a la **[!UICONTROL Páginas]** sección.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
-1. Haga clic en la página para la que desea ver los detalles.
+1. Haga clic en la página cuyos detalles desea ver.
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Pase el ratón sobre el problema de página al que desee añadir una nota y haga clic en **Agregar nota**.
+1. Pase el ratón sobre el problema de página al que desee agregar una nota y haga clic en **[!UICONTROL Añadir nota]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Escriba la nota. Haga clic en **Guardar**.
+1. Introduzca su nota. Clic **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   ¡Se ha añadido la nota!
+   Se ha añadido su nota.
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)

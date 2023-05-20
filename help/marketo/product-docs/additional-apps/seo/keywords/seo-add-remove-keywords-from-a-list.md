@@ -1,54 +1,54 @@
 ---
 unique-page-id: 2949678
-description: SEO - Agregar o eliminar palabras clave de una lista - Documentos de Marketo - Documentación del producto
-title: SEO - Agregar o eliminar palabras clave de una lista
+description: 'SEO: adición o eliminación de palabras clave de una lista, documentos de Marketo, documentación del producto'
+title: 'SEO: Agregar o quitar palabras clave de una lista'
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# SEO - Agregar o eliminar palabras clave de una lista {#seo-add-remove-keywords-from-a-list}
+# SEO: Agregar o quitar palabras clave de una lista {#seo-add-remove-keywords-from-a-list}
 
-Puede mantener todas las palabras clave en buen estado y organizadas mediante listas. Esto facilitará la búsqueda de datos en palabras clave específicas como circulares.
+Puede mantener todas las palabras clave bien organizadas mediante listas. Esto hará que la búsqueda de datos en palabras clave específicas sea tan fácil como circular.
 
-## Agregar a una lista {#add-to-a-list}
+## Añadir a una lista {#add-to-a-list}
 
-1. Vaya a la **Palabras clave** para obtener más información.
+1. Vaya a la **[!UICONTROL Palabras clave]** sección.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Pase el ratón sobre la palabra clave que desee agregar a una lista. Haga clic en **Agregar o quitar de la lista**.
+1. Pase el ratón sobre la palabra clave que quiera añadir a una lista. Clic **[!UICONTROL Agregar o quitar de la lista]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
-1. Haga clic en la lista y se agregarán las palabras clave.
+1. Haga clic en la lista y se añadirán las palabras clave.
 
    ![](assets/image2014-9-18-11-3a48-3a47.png)
 
    >[!TIP]
    >
-   >También puede crear una nueva lista para sus palabras clave. Solo tiene que escribir el nombre en Crear una lista nueva.
+   >También puede crear una nueva lista para las palabras clave. Solo escribe el nombre **[!UICONTROL Crear una lista nueva]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-¡Guau! Seleccione la lista para ver las nuevas palabras clave.
+¡Woo hoo! Seleccione la lista para ver las nuevas palabras clave.
 
-## Eliminar palabra clave de la lista {#remove-keyword-from-list}
+## Quitar palabra clave de la lista {#remove-keyword-from-list}
 
-También puede eliminar palabras clave de una lista.
+También puede quitar palabras clave de una lista.
 
-1. Vaya a la **Palabras clave** para obtener más información.
+1. Vaya a la **[!UICONTROL Palabras clave]** sección.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Pase el ratón sobre la palabra clave que quiera eliminar de una lista. Haga clic en **Agregar o quitar de la lista**.
+1. Pase el ratón sobre la palabra clave que quiera eliminar de una lista. Clic **[!UICONTROL Agregar o quitar de la lista]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
-1. Haga clic en la lista de la que desee eliminar las palabras clave.
+1. Haga clic en la lista de la que desee quitar las palabras clave.
 
    >[!NOTE]
    >
