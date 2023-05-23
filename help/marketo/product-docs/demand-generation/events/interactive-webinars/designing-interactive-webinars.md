@@ -1,10 +1,8 @@
 ---
-description: 'Diseño De Seminarios Web Interactivos: Documentos De Marketo: Documentación Del Producto'
+description: 'Diseño de seminarios web interactivos: documentos de Marketo, documentación del producto'
 title: Diseño de seminarios web interactivos
-hide: true
-hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -13,13 +11,13 @@ ht-degree: 0%
 
 # Diseño de seminarios web interactivos {#designing-interactive-webinars}
 
-Aprenda a diseñar su seminario web para adaptarlo a sus necesidades.
+Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 
-1. Seleccione el evento y haga clic en **Diseño de un seminario web**.
+1. Seleccione el evento y haga clic en **Diseñar el seminario web**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
-1. Puede elegir una sala de seminarios web existente o crear una nueva. En este ejemplo estamos creando uno nuevo, por lo que haga clic en el botón **Seleccionar sala** y elija **Nueva sala de seminarios web interactiva**.
+1. Puede elegir una sala de seminarios web existente o crear una nueva. En este ejemplo creamos uno nuevo, así que haga clic en el botón **Seleccionar sala** y elija. **Nueva sala de seminarios web interactivos**.
 
    ![](assets/designing-interactive-webinars-2.png)
 
@@ -35,32 +33,32 @@ Aprenda a diseñar su seminario web para adaptarlo a sus necesidades.
 
    ![](assets/designing-interactive-webinars-4.png)
 
-1. Puede seleccionar diferentes diseños para previsualizarlos. Para continuar, haga clic en **Usar plantilla**.
+1. Puede seleccionar diferentes diseños para previsualizarlos. Para continuar, haga clic **Usar plantilla**.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. Puede refinar el seminario web inmediatamente o más tarde. Hagámoslo ahora. Haga clic en **Refine el seminario web ahora**.
+1. Puede perfeccionar el seminario web de inmediato o más tarde. Vamos a hacerlo ahora. Clic **Refinar el seminario web ahora**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
-1. Seleccione sus preferencias de audio/vídeo y haga clic en **Entrar en la sala**.
+1. Seleccione las preferencias de audio/vídeo y haga clic en **Entrar en sala**.
 
    ![](assets/designing-interactive-webinars-7.png)
 
-1. La plantilla seleccionada se puede editar.
+1. La plantilla seleccionada ahora se puede editar.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Para obtener información detallada sobre salas y plantillas, consulte la sección &quot;Plantillas y diseños de salas de reuniones&quot; de [este artículo de ayuda de Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Para obtener información detallada sobre salas y plantillas, consulte la sección &quot;Plantillas de salas de reuniones y diseños&quot; de [este artículo de ayuda de Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-1. Cuando haya terminado de diseñar el seminario web, haga clic en **Salir**.
+1. Cuando haya terminado de diseñar el seminario web, haga clic en **Sala de salida**.
 
    ![](assets/designing-interactive-webinars-9.png)
 
 ## Elementos de diseño {#design-elements}
 
-**Plantilla**: Estructura proporcionada a una sala basada en el objetivo del seminario web que se está organizando. Por ejemplo, si desea programar un seminario web de presentación de productos, el uso compartido de la pantalla sería un componente esencial para mostrar la demostración. La plantilla garantiza que los componentes esenciales necesarios para una entrega eficaz de un tipo concreto de seminario web estén establecidos durante la configuración de la sala de seminarios web.
+**Plantilla**: Estructura proporcionada a una sala en función del objetivo del seminario web que se está impartiendo. Por ejemplo, si desea programar un seminario web de presentación de productos, el uso compartido de la pantalla sería un componente esencial para mostrar la demostración. La plantilla garantiza que los componentes esenciales necesarios para una entrega eficaz de un tipo concreto de seminario web estén implementados durante la configuración de la sala de seminario web.
 
-**Diseño**: Hace referencia a varias formas en las que los componentes múltiples necesarios para garantizar el éxito del seminario web se organizan en una plantilla concreta. Una sola plantilla puede tener varios diseños para elegir. Los componentes esenciales del seminario web seguirían siendo los mismos en todas las plantillas. La disposición que ha seleccionado se ajustaría mejor al estilo o las necesidades del presentador que haya realizado el seminario web.
+**Diseño**: hace referencia a varias formas en que los varios componentes necesarios para garantizar el éxito del seminario web se organizan en una plantilla determinada. Una sola plantilla puede tener varios diseños para que pueda elegir. Los componentes esenciales del seminario web seguirían siendo los mismos en todas las plantillas. La disposición que seleccionó se adaptaría mejor al estilo o las necesidades de usted o del presentador que imparte el seminario web.
 
-**Pod**: Componente dentro de una plantilla que realiza una actividad determinada durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuesta puede completar. De manera similar, chatear con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad entregada a través del pod de chat. Hay varios otros pods disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.
+**Pod**: Componente dentro de una plantilla que realiza una actividad determinada durante el seminario web. Por ejemplo, configurar y enviar una encuesta para capturar las respuestas de los participantes en una actividad que un pod de encuestas puede cumplir. Del mismo modo, charlar con los participantes para transmitir un mensaje o interactuar casualmente con ellos puede ser una actividad que se ofrece a través del pod de chat. Hay varios pods más disponibles, como Compartir, Notas, Vídeo, Chat, Lista de asistentes, Archivos, Vínculos web, Encuestas y Preguntas y respuestas.

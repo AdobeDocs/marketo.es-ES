@@ -1,10 +1,8 @@
 ---
-description: 'Creación de un seminario web interactivo: Marketo Docs: documentación del producto'
+description: 'Creación de un seminario web interactivo: documentos de Marketo, documentación del producto'
 title: Crear un seminario web interactivo
-hide: true
-hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -13,9 +11,9 @@ ht-degree: 0%
 
 # Crear un seminario web interactivo {#create-an-interactive-webinar}
 
-Cree un seminario web interactivo en unos pasos sencillos.
+Cree un seminario web interactivo en unos sencillos pasos.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
@@ -31,15 +29,15 @@ Cree un seminario web interactivo en unos pasos sencillos.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
-1. Choose **Seminarios web interactivos** y haga clic en **Siguiente**.
+1. Elegir **Seminarios web interactivos** y haga clic en **Siguiente**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
    >[!NOTE]
    >
-   >Puede encontrar información sobre seminarios web para socios aquí.
+   >Encontrará información sobre los seminarios web de socios aquí.
 
-1. Establezca el tamaño máximo de audiencia para el seminario web y la duración que tendrá.
+1. Establezca el tamaño máximo de audiencia para el seminario web y la duración.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
@@ -47,6 +45,6 @@ Cree un seminario web interactivo en unos pasos sencillos.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Se crea el seminario web interactivo. Ahora es el momento de [diseñarlo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+Se creará el seminario web interactivo. Ahora es el momento de... [diseñarlo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
 
 ![](assets/create-an-interactive-webinar-8.png)
