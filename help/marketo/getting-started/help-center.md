@@ -3,7 +3,7 @@ description: Centro de ayuda - Documentos de Marketo - Documentación del produc
 title: Centro de ayuda
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -20,7 +20,7 @@ Después de iniciar sesión en Marketo Engage, haga clic en el icono Ayuda.
 
 ![](assets/help-center-1.png)
 
-**Guías**
+### Guías {#guides}
 
 Las guías sirven como tutoriales rápidos para las funciones populares.
 
@@ -46,7 +46,7 @@ Clic **Listo** para salir del tutorial.
 >
 >Salga de la guía en cualquier momento haciendo clic en **Descartar**.
 
-**Novedades**
+### Novedades {#whats-new}
 
 La pestaña Novedades contiene todos los detalles de la última versión de Marketo Engage.
 
@@ -56,7 +56,7 @@ La pestaña Novedades contiene todos los detalles de la última versión de Mark
 >
 >Haga clic en el icono de flecha en la parte inferior para ver la página en Experience League.
 
-**Recursos**
+### Recursos {#resources}
 
 La pestaña Recursos le permite acceder rápida y directamente a varias formas de obtener ayuda adicional con la instancia de Marketo Engage.
 
