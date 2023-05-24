@@ -1,96 +1,96 @@
 ---
 unique-page-id: 6095008
-description: 'Añadir Google AdWords como servicio de LaunchPoint: Documentos de Marketo: Documentación del producto'
-title: Añadir Google AdWords como un servicio de LaunchPoint
+description: '"Agregar [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio: Documentos de Marketo: documentación del producto'
+title: "Agregar [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
 
-# Añadir Google AdWords como un servicio de LaunchPoint {#add-google-adwords-as-a-launchpoint-service}
+# Añadir [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule su cuenta de Google AdWords a Marketo para cargar automáticamente los datos de conversión sin conexión de Marketo a Google AdWords. A continuación, desde la interfaz de usuario de AdWords, podrá ver fácilmente qué clics tuvieron como resultado posibles clientes calificados, oportunidades y nuevos clientes (o las etapas de ingresos que desee rastrear) después de [agregar columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} en AdWords. Esta información no aparece en la interfaz de usuario de Marketo.
+Vincule su [!DNL Google AdWords] a Marketo para cargar automáticamente datos de conversión sin conexión de Marketo a [!DNL Google AdWords]. A continuación, desde el [!DNL AdWords] IU, podrá ver fácilmente qué clics resultaron en posibles clientes cualificados, oportunidades y nuevos clientes (o las fases de ingresos que desee rastrear) después de usted [añadir columnas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Esta información no aparece en la interfaz de usuario de Marketo.
 
 Más información sobre [Función de importación de conversión sin conexión de Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
+>No todos los clientes han comprado esta función. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!NOTE]
 >
->También puede integrar un [Google AdWords como servicio de punto de inicio con una cuenta de administrador](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>También puede integrar un [[!DNL Google AdWords] as a [!DNL Launchpoint] servicio con una cuenta de responsable](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Vaya a la **Administrador** para obtener más información.
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 
-1. Select **LaunchPoint**.
+1. Seleccionar **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-2.png)
 
-1. Select **Nuevo** y **Nuevo servicio**.
+1. Seleccionar **[!UICONTROL Nuevo]** y **[!UICONTROL Nuevo servicio]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-3.png)
 
-1. Introduzca un nombre para mostrar y seleccione **Google AdWords**.
+1. Introduzca una [!UICONTROL nombre para mostrar] y seleccione **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-4.png)
 
-1. Select **Autorizar Marketo**.
+1. Seleccionar **[!UICONTROL Autorizar Marketo]**.
 
    >[!NOTE]
    >
-   >Asegúrese de cerrar la sesión de su cuenta personal de Gmail y activar ventanas emergentes.
+   >Asegúrese de cerrar la sesión de su [!DNL Gmail] y habilitar ventanas emergentes.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-5.png)
 
-1. Seleccione la cuenta asociada a Google AdWords.
+1. Seleccione la cuenta asociada a [!DNL Google AdWords].
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-6.png)
 
-1. Select **Accept**.
+1. Seleccionar **[!UICONTROL Aceptar]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. El estado se mostrará como **Correcto**. Select **Siguiente**.
+1. El estado se mostrará como **[!UICONTROL Correcto]**. Seleccionar **[!UICONTROL Siguiente]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
-1. Cargar las conversiones sin conexión de Marketo a Google AdWords **Semanal** o **Diario**.
+1. Cargar las conversiones sin conexión de Marketo a [!DNL Google AdWords] **[!UICONTROL Semanalmente]** o **[!UICONTROL Diario]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-9.png)
 
-1. Conversión de atributos a la variable **Primer clic** o **Último clic**.
+1. Conversión de atributos a **[!UICONTROL Primer clic]** o **[!UICONTROL Último clic]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-10.png)
 
    | Tipo | Definición |
    |---|---|
-   | Primer clic | Las conversiones sin conexión se atribuirán al primer anuncio de AdWords en el que hizo clic una persona en los últimos 90 días |
-   | Último clic | Las conversiones sin conexión se atribuirán al último anuncio de AdWords en el que hizo clic una persona |
+   | [!UICONTROL Primer clic] | Las conversiones sin conexión se atribuirán a la primera [!DNL AdWords] anuncio en el que una persona ha hecho clic en los últimos 90 días |
+   | [!UICONTROL Último clic] | Las conversiones sin conexión se atribuirán a la última [!DNL AdWords] y en el que una persona hizo clic |
 
    >[!NOTE]
    >
-   >El uso de un modelo de atribución coherente en Marketo y AdWords proporciona los datos más precisos.
+   >Uso de un modelo de atribución coherente en Marketo y [!DNL AdWords] proporciona los datos más precisos.
 
-1. Haga clic en **Crear**.
+1. Haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 
    >[!NOTE]
    >
-   >[Etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} debe estar seleccionado para que funcione esta función. La desactivación debe realizarse dentro de AdWords.
+   >[Etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} debe estar seleccionado para que esta función funcione. La desactivación debe realizarse dentro de [!DNL AdWords].
 
-¡Excelente! Ahora, vea el Artículo relacionado a continuación para aprender a asignar conversiones sin conexión de AdWords en su modelo de ingresos.
+¡Excelente! Ahora consulte el artículo relacionado siguiente para aprender a asignar [!DNL AdWords] conversiones sin conexión en el modelo de ingresos.
 
 >[!MORELIKETHIS]
 >
->[Definir conversiones de Google AdWords en el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>[Establecer [!DNL Google AdWords] Conversiones en el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

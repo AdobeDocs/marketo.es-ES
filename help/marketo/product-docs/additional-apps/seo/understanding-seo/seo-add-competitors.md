@@ -1,47 +1,45 @@
 ---
 unique-page-id: 2949192
-description: SEO - Añadir competidores - Documentos de Marketo - Documentación del producto
+description: SEO - Agregar competidores - Documentos de Marketo - Documentación del producto
 title: 'SEO: Agregar competidores'
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # SEO: Agregar competidores {#seo-add-competitors}
 
-La adición de competidores le permitirá realizar un seguimiento del rendimiento de las mismas palabras clave y vínculos de entrada que elija supervisar.
+Añadir competidores le permitirá rastrear el rendimiento que tienen para las mismas palabras clave y vínculos de entrada que elija monitorizar.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** para obtener más información.
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Haga clic en el **Competidores** pestaña .
+1. Haga clic en **[!UICONTROL Competidores]** pestaña.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Haga clic en **Agregar competidor**.
+1. Clic **[!UICONTROL Agregar competidor]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Escriba en la **Nombre** y **URL** de su competidor.
+1. Escriba en **[!UICONTROL Nombre]** y **[!UICONTROL URL]** de su competidor.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
-   ¡Los cinco! Ahora debería ver a su competidor en la lista.
+   Ahora debería ver a su competidor en la lista.
 
    ![](assets/image2014-9-17-21-3a13-3a14.png)
 
-   ¡Felicidades! Estás un paso más cerca de aplastarlo totalmente.
-
    >[!MORELIKETHIS]
    >
-   >* [Agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target=&quot;_blank&quot;}
-   >* [Explicación de las palabras clave (vista de la competencia)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
+   >* [Agregar palabras clave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
+   >* [Explicación de las palabras clave (vista del competidor)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
 

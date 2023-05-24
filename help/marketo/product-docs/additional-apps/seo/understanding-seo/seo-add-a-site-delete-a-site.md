@@ -1,42 +1,42 @@
 ---
 unique-page-id: 2949194
-description: 'SEO: Adición de un sitio o eliminación de un sitio: documentos de Marketo: documentación del producto'
-title: 'SEO: Agregar un sitio o eliminarlo'
+description: 'SEO: Agregar un sitio/Eliminar un sitio - Documentos de Marketo: documentación del producto'
+title: 'SEO: Agregar un sitio/Eliminar un sitio'
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# SEO: Agregar un sitio o eliminarlo {#seo-add-a-site-delete-a-site}
+# SEO: Agregar un sitio/Eliminar un sitio {#seo-add-a-site-delete-a-site}
 
-Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevantes para las páginas de su sitio, debe definir la dirección URL del sitio aquí.
+Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevantes para las páginas del sitio, debe definir la dirección URL del sitio aquí.
 
 >[!AVAILABILITY]
 >
 >No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
 
-## Agregar un sitio {#add-a-site}
+## [!UICONTROL Agregar un sitio] {#add-a-site}
 
-1. Haga clic en la lista desplegable Administración y seleccione **Administrador**.
+1. Haga clic en la lista desplegable Administración y seleccione **[!UICONTROL Administrador]**.
 
    >[!NOTE]
    >
-   >**Se requieren permisos de administrador**
+   >**Permisos de administración necesarios**
 
    ![](assets/one.png)
 
-1. Haga clic en **Agregar sitio**.
+1. Clic **[!UICONTROL Agregar sitio]**.
 
    ![](assets/two.png)
 
-1. Introduzca la variable **Nombre, URL del sitio web** y haga clic en **Guardar**.
+1. Introduzca el **[!UICONTROL Nombre], [!UICONTROL URL del sitio web]** y haga clic en **[!UICONTROL Guardar]**.
 
    >[!TIP]
    >
-   >También puede agregar un **URL del blog** si tienes uno.
+   >También puede agregar un **[!UICONTROL URL de blog]** si tiene uno.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -46,9 +46,9 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
 ## Eliminar un sitio {#delete-a-site}
 
-Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio que ya no esté interesado en optimizar.
+Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio que ya no le interese optimizar.
 
-1. Haga clic en la lista desplegable Administración y seleccione **Administrador**.
+1. Haga clic en la lista desplegable Administración y seleccione **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
@@ -56,14 +56,14 @@ Si realiza el seguimiento de más de un sitio, también puede eliminar un sitio 
 
    ![](assets/six.png)
 
-1. Haga clic en **Eliminar**.
+1. Clic **[!UICONTROL Eliminar]**.
 
    ![](assets/seven.png)
 
-1. Confirme que desea **Eliminar**.
+1. Confirme que desea lo siguiente **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un restablecimiento seleccionando el sitio y haciendo clic en **Restablecer**. Al restablecer un sitio _eliminar todos los datos del sitio_ y vuelva a crear el sitio.
+   >Solo puede eliminar un sitio si tiene más de uno. Si solo tiene uno, puede realizar un restablecimiento seleccionando el sitio y haciendo clic en **[!UICONTROL Restablecer]**. El restablecimiento de un sitio _eliminar todos los datos del sitio_ y volver a crear el sitio.
