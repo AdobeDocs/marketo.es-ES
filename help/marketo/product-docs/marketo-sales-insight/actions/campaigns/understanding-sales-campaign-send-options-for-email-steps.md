@@ -1,69 +1,74 @@
 ---
-description: 'Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico: documentos de Marketo: documentación del producto'
-title: Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico
+description: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico - Documentos de Marketo - Documentación del producto
+title: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: 1934cbd4a941fdfc1110c6934da66e58042aa572
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
 
-# Explicación de las opciones de envío de campañas de ventas para los pasos de correo electrónico {#understanding-sales-campaign-send-options-for-email-steps}
+# Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico {#understanding-sales-campaign-send-options-for-email-steps}
 
-Al crear una campaña de ventas, tiene varias opciones sobre cómo se crean sus pasos de correo electrónico en las acciones de perspectiva de ventas. Y, dependiendo de la ubicación del correo electrónico en la campaña de ventas, las opciones también difieren.
+Al crear una campaña de ventas, tiene varias opciones sobre cómo se crean los pasos de correo electrónico en Acciones de perspectiva de ventas. Y, dependiendo de dónde se encuentre su correo electrónico en la campaña de ventas, sus opciones también difieren.
 
 ## Opciones de envío del primer paso {#first-step-send-options}
 
-Si es el primer paso y el primer día de la campaña de ventas, tendrá las siguientes opciones:
+Si es su primer paso y el primer día de su campaña de ventas, tendrá las siguientes opciones:
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
-Elegiré cuándo enviar este correo electrónico
+### Elegiré cuándo enviar este correo electrónico {#first-step-i-will-choose}
 
-* Esta opción le permite elegir el tiempo de &quot;envío&quot; para el primer correo electrónico de su campaña de ventas cuando inicia la campaña de ventas añadiendo personas.
+* Esta opción le permite elegir la hora de envío en el primer correo electrónico de la campaña de ventas cuando esta se inicia añadiendo personas.
 
-Envíe este correo electrónico a la siguiente hora
+### Enviar este correo electrónico a la siguiente hora {#first-step-following-time}
 
-* Cuando inicie su campaña de ventas agregando personas a ella, programaremos el correo electrónico para este momento.
-* Siempre tiene la opción de elegir un nuevo &quot;envío&quot; en el momento en que está iniciando su campaña de ventas.
+* Cuando inicie su campaña de ventas agregando personas, programaremos el correo electrónico para este momento.
+* Siempre tiene la opción de elegir una nueva hora de envío cuando inicie la campaña de ventas.
 
-Crear una tarea; Yo mismo enviaré este correo electrónico
+### Crear una tarea; yo mismo enviaré este correo electrónico {#first-step-create-a-task}
 
-* Esta opción creará una tarea de correo electrónico (y la sincronización con Salesforce) que puede enviar a su conveniencia.
-* Una vez que haya realizado esta selección, al iniciar la campaña de ventas, pondremos estas tareas en cola para usted en el Centro de comandos y en la Fuente activa. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que salga.
+* Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
+* Una vez que haya realizado esta selección, cuando inicie la campaña de ventas, pondremos en cola estas tareas en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
 
-   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico de su contacto, la línea de asunto de su correo electrónico y la plantilla que ha elegido.
-   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa que rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
-## Opciones de envío de paso subsiguiente {#subsequent-step-send-options}
+## Opciones de envío de pasos posteriores {#subsequent-step-send-options}
 
-Para los días o pasos subsiguientes de la campaña de ventas, tendrá las siguientes opciones:
+Para los días o pasos siguientes de la campaña de ventas, tiene las siguientes opciones:
 
-Enviar este correo electrónico al mismo tiempo que el correo electrónico anterior en esta campaña de ventas
+### Envíe este correo electrónico al mismo tiempo que el correo electrónico anterior en esta campaña de ventas {#subsequent-send-at-same-time}
 
-* Esta opción envía el correo electrónico al mismo tiempo que el correo electrónico directamente antes de él.
-* Aún se enviará el día en que esté asociado.
+* Esta opción enviará el correo electrónico al mismo tiempo que el correo electrónico directamente antes de él.
+* Se enviará el día en que esté asociado.
 
-Envíe este correo electrónico a la siguiente hora
+### Enviar este correo electrónico a la siguiente hora {#subsequent-send-at-following-time}
 
-* Cuando inicie su campaña de ventas agregando personas a ella, programaremos el correo electrónico para este momento.
-* Siempre tiene la opción de elegir un nuevo &quot;envío&quot; en el momento en que está iniciando su campaña de ventas.
+* Cuando inicie su campaña de ventas agregando personas, programaremos el correo electrónico para este momento.
+* Siempre tiene la opción de elegir una nueva hora de envío cuando inicie la campaña de ventas.
 
-Crear una tarea; Yo mismo enviaré este correo electrónico
+### Crear una tarea; yo mismo enviaré este correo electrónico {#subsequent-create-a-task}
 
-* Esta opción creará una tarea de correo electrónico (y la sincronización con Salesforce) que puede enviar a su conveniencia.
-* Una vez que haya realizado esta selección, al iniciar la campaña de ventas, las acciones de perspectiva de ventas colocarán estas tareas en la cola para usted en el Centro de comandos y en la fuente activa. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que salga.
+* Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
+* Una vez que haya realizado esta selección, cuando inicie la campaña de ventas, las acciones de información de ventas colocarán estas tareas en cola para usted en el centro de comandos y en la fuente activa. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
 
-   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico de su contacto, la línea de asunto de su correo electrónico y la plantilla que ha elegido.
-   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa que rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
-Enviar este correo electrónico al correo electrónico anterior
+### Cree este correo electrónico como seguimiento del correo electrónico anterior en esta campaña {#subsequent-create-this-email}
 
-* Esta opción de envío será un &quot;seguimiento&quot; del correo electrónico anterior y anexará el cuerpo del correo electrónico anterior a la parte inferior de este.
+* Active esta casilla de verificación si desea que el correo electrónico anterior de la campaña de ventas se adjunte al siguiente correo electrónico que envía la campaña de ventas.
+* Para la copia adjunta del correo electrónico, la plantilla de correo electrónico de la campaña de ventas siempre se envía. Las ediciones que el usuario haya realizado antes de enviarlo no se incluirán en el envío.
+
+>[!NOTE]
+>
+>Esta opción para crear un correo electrónico como seguimiento solo estará disponible en un paso de correo electrónico, cuando el paso anterior también sea un correo electrónico. Si el paso anterior es Llamada, EnMail o Personalizado, la opción para crear un seguimiento no aparecerá.
 
 >[!MORELIKETHIS]
 >
->[Crear una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
->[Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->[Configuración de campañas de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
+>[Creación de una campaña de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Tipos de pasos de campañas de ventas y tareas de recordatorio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Configuración de campañas de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
