@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10100272
-description: 'Publicación de una actividad personalizada: Documentos de Marketo: Documentación del producto'
+description: 'Publicación de una actividad personalizada: documentos de Marketo, documentación del producto'
 title: Publicar una actividad personalizada
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Publicar una actividad personalizada {#publish-a-custom-activity}
 
-Tiene la actividad personalizada exactamente como la desea. ¡Ahora, es hora de publicarlo!
+Tiene la actividad personalizada exactamente como la desea. ¡Ahora es el momento de publicarlo!
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/publish-a-custom-activity-1.png)
 
-1. Haga clic en **Actividades personalizadas de Marketo**.
+1. Clic **[!UICONTROL Actividades personalizadas de Marketo]**.
 
    ![](assets/publish-a-custom-activity-2.png)
 
@@ -26,15 +26,15 @@ Tiene la actividad personalizada exactamente como la desea. ¡Ahora, es hora de 
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Haga clic en el **Acciones de actividad personalizadas** y seleccione **Publicar actividad**.
+1. Haga clic en **[!UICONTROL Acciones de actividad personalizadas]** y seleccione. **[!UICONTROL Actividad de publicación]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Verá que el estado de su actividad personalizada pasa de Borrador...
+   Verá el de su actividad personalizada [!UICONTROL state] ir de [!UICONTROL Borrador]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...a Publicado.
+   ...a [!UICONTROL Publicado].
 
    ![](assets/publish-a-custom-activity-6.png)
 
