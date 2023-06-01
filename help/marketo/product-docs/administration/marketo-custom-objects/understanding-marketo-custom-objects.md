@@ -1,9 +1,9 @@
 ---
 unique-page-id: 10093188
-description: 'Explicación de los objetos personalizados de Marketo: Documentos de Marketo: Documentación del producto'
+description: 'Explicación de los objetos personalizados de Marketo: documentos de Marketo, documentación del producto'
 title: Explicación de los objetos personalizados de Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Explicación de los objetos personalizados de Marketo {#understanding-marketo-custom-objects}
 
-Utilice objetos personalizados para realizar un seguimiento de las métricas específicas de su negocio.
+Utilice objetos personalizados para realizar un seguimiento de métricas específicas de su empresa.
 
 >[!AVAILABILITY]
 >
@@ -20,65 +20,65 @@ Utilice objetos personalizados para realizar un seguimiento de las métricas esp
 
 Utilice objetos personalizados como filtros y déclencheur en sus campañas inteligentes. Por ejemplo:
 
-* **Filtro**: Enviar correos electrónicos solo a los propietarios de una marca de vehículo específica
-* **Déclencheur**: Enviar un correo electrónico cuando se añada un objeto personalizado a una persona o empresa.
+* **Filtrar**: envíe correos electrónicos solo a los propietarios de una marca de vehículo específica
+* **Déclencheur**: envíe un correo electrónico cuando se añada un objeto personalizado a una persona o empresa.
 
 Puede configurar objetos personalizados en una relación de uno a varios o de varios a varios. Por ejemplo:
 
-* **De uno a varios**: Una persona posee varios coches
-* **Varios a varios**: Varios estudiantes están inscritos en varios cursos desde un catálogo de cursos
+* **Uno a varios**: Una persona posee varios coches
+* **Varios a varios**: varios alumnos se inscriben en varios cursos desde un catálogo de cursos
 
-Una estructura de uno a varios utiliza un único campo de vínculo para conectar el objeto personalizado a una persona o empresa.
+Una estructura &quot;uno a varios&quot; utiliza un único campo de vínculo para conectar el objeto personalizado a una persona o compañía.
 
-Muchos a muchos objetos personalizados utilizan dos campos de vínculo, que forman parte de un objeto intermedio. Un campo Vínculo está conectado a la persona o empresa y otro está conectado al objeto personalizado, como el catálogo del curso. Este objeto intermedio puede contener campos personalizados adicionales, como una categoría de curso o una fecha de asistencia, que definen aún más la naturaleza de la conexión.
+Los objetos personalizados &quot;varios a varios&quot; utilizan dos campos de vínculo, que forman parte de un objeto intermedio. Un campo Vínculo está conectado a la persona o empresa y otro al objeto personalizado, como el catálogo de cursos. Este objeto intermedio puede contener campos personalizados adicionales, como una calificación de curso o una fecha de asistencia, que definen aún más la naturaleza de la conexión.
 
 >[!TIP]
 >
->Importe objetos personalizados mediante valores separados por comas (CSV) en la interfaz de usuario para probar y validar una muestra de datos. A continuación, cargue todos los archivos con una API.
+>Importe objetos personalizados con valores separados por comas (CSV) en la interfaz de usuario para probar y validar una muestra de datos. A continuación, cargue todos los archivos con una API.
 
 >[!CAUTION]
 >
->No puede restaurar objetos personalizados, por lo que debe asegurarse de que ya no los necesita antes de eliminarlos.
+>No puede restaurar objetos personalizados, por lo que asegúrese de que ya no los necesita antes de eliminarlos.
 
 ## Acceso a objetos personalizados de Marketo {#accessing-marketo-custom-objects}
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Haga clic en **Objetos personalizados de Marketo**.
+1. Clic **[!UICONTROL Objetos personalizados de Marketo]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. La visualización de objetos personalizados de Marketo muestra todos los objetos personalizados de la derecha, pero solo los aprobados de la cuadrícula principal.
+1. La visualización Objetos personalizados de Marketo muestra todos los objetos personalizados a la derecha, pero solo los aprobados en la cuadrícula principal.
 
    ![](assets/understanding-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >La cuadrícula muestra el nombre del objeto, el número de registros, el número de campos y la fecha de la última actualización.
+   >La cuadrícula muestra el nombre del objeto, el número de registros, el número de campos y la fecha de la actualización más reciente.
 
    >[!TIP]
    >
-   >Marketo actualiza estos campos automáticamente, pero puede actualizar la visualización haciendo clic en el icono de la columna Registros .
+   >Marketo actualiza estos campos automáticamente, pero puede actualizar la visualización haciendo clic en el icono de la columna Registros.
 
-1. Haga clic en el nombre de objeto a la derecha para abrir la página de detalles.
+1. Haga clic en el nombre del objeto a la derecha para abrir la página de detalles.
 
    ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## Ver objetos personalizados asociados a una persona {#view-custom-objects-associated-to-a-person}
 
-Después de crear la estructura de objetos personalizada, al cargar los datos de objetos personalizados específicos, los objetos personalizados se asocian automáticamente a los usuarios de la base de datos mediante el campo de vínculo del objeto personalizado. Puede ver información desde la ficha Objetos personalizados en la página de detalles de la persona.
+Después de crear la estructura de objetos personalizada, al cargar los datos de objetos personalizados específicos, los objetos personalizados se asocian automáticamente a las personas de la base de datos mediante el campo de vínculo del objeto personalizado. Puede ver información desde el [!UICONTROL Objetos personalizados] en la página de detalles de la persona.
 
-1. Vaya a **Base de datos**.
+1. Ir a **[!UICONTROL Base de datos]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Abra la base de datos y haga clic en el botón **People** pestaña . Haga doble clic en el registro de una persona asociada a un objeto personalizado.
+1. Abra la base de datos y haga clic en **[!UICONTROL People]** pestaña. Haga doble clic en el registro de una persona asociada a un objeto personalizado.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. En la página de detalles de la persona, haga clic en el botón **Objetos personalizados** pestaña . Seleccione el objeto en la lista desplegable.
+1. En la página de detalles de la persona, haga clic en **[!UICONTROL Objetos personalizados]** pestaña. Seleccione el objeto de la lista desplegable.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -88,11 +88,11 @@ Después de crear la estructura de objetos personalizada, al cargar los datos de
 
 ## Uso de objetos personalizados con compañías {#using-custom-objects-with-companies}
 
-Un objeto personalizado vinculado a la empresa funciona mejor si sincroniza empresas desde CRM o si crea empresas explícitamente mediante la API. También recomendamos que utilice el ID de empresa como campo de vínculo.
+Un objeto personalizado vinculado a la empresa funciona mejor si sincroniza empresas desde CRM o si crea empresas explícitamente mediante la API. También recomendamos que utilice el ID de la compañía como campo de vínculo.
 
-Si hay varias personas en Marketo que son registros en CRM o solo en Marketo, un objeto personalizado vinculado a una empresa no se asociará con más de un registro individual. Esto se debe a que una empresa con varias personas debajo de ella solo es compatible cuando las empresas se sincronizan desde CRM o si utiliza una API para crear empresas explícitamente.
+Si tiene varias personas en Marketo que son registros de los registros solo de CRM o de Marketo, un objeto personalizado vinculado a una compañía no se asociará con más de un registro individual. Esto se debe a que una empresa con varias personas debajo solo es compatible cuando las empresas están sincronizadas desde CRM o si utiliza una API para crear empresas explícitamente.
 
-Los objetos personalizados solo pueden vincularse directamente a un único registro. Esto significa que, cuando el tipo de objeto personalizado está vinculado por el campo de la empresa, debe asegurarse de que los registros de persona estén asociados a una empresa mediante la conversión de contacto en su CRM o mediante el campo externalCompanyId, si administra empresas mediante las API de REST de Marketo. En el caso de los registros de personas que no están vinculados explícitamente a registros de empresa, los objetos personalizados vinculados mediante empresa se vincularán aleatoriamente a un registro único, incluso si el valor del campo de empresa se comparte entre muchas personas.
+Los objetos personalizados solo pueden vincularse directamente a un único registro. Esto significa que, cuando el tipo de objeto personalizado está vinculado por campo de empresa, debe asegurarse de que los registros de persona estén asociados a una empresa mediante la conversión de contactos en su CRM o mediante el campo externalCompanyId, si administra empresas mediante las API de REST de Marketo. Para los registros de persona que no están vinculados explícitamente a los registros de compañía, los objetos personalizados vinculados mediante compañía se vincularán aleatoriamente a un único registro, incluso si el valor del campo de compañía se comparte entre muchas personas.
 
 Consulte [Importar datos de objeto personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) para obtener más información.
 
