@@ -2,29 +2,33 @@
 description: Límites de uso del producto - Documentos de Marketo - Documentación del producto
 title: Límites de uso del producto
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 15%
+source-wordcount: '231'
+ht-degree: 13%
 
 ---
 
 # Límites de uso del producto {#product-usage-limits}
 
-Los límites siguientes están establecidos para el uso de las capacidades de contratación de ventas ampliadas disponibles con las acciones de perspectiva de ventas.
+A continuación, se muestran los límites para el uso de las funciones de participación en ventas ampliadas disponibles con las acciones de conocimiento de ventas.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions es una aplicación basada en web que se integra con la interfaz de usuario de Salesforce a través de la [Paquete de perspectivas de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
 <table>
   <th>Funcionalidad</th>
   <th>Tasa</th>
   <th>Límite</th>
  <tr>
-  <td>Sincronización de bases de datos de personas de Marketo</td>
-  <td>en curso</td>
+  <td>Sincronización de base de datos de personas Marketo</td>
+  <td>continuo</td>
   <td>1.500.000 personas</td>
  </tr>
  <tr>
   <td>Envíos de correo electrónico de ventas</td>
-  <td>por usuario/día</td>
+  <td>por usuario/por día</td>
   <td>1,000</td>
  </tr>
  <tr>
@@ -54,12 +58,12 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
  </tr>
  <tr>
   <td>Lanzamientos de campañas</td>
-  <td>por usuario/día</td>
+  <td>por usuario/por día</td>
   <td>200</td>
  </tr>
  <tr>
   <td>Campañas en ejecución</td>
-  <td>por usuario/día</td>
+  <td>por usuario/por día</td>
   <td>200</td>
  </tr>
  <tr>
@@ -73,12 +77,12 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
   <td>500</td>
  </tr>
   <td>Llamadas</td>
-  <td>por usuario/mes (compartido entre instancias)</td>
+  <td>por usuario/por mes (compartido entre instancias)</td>
   <td>50 minutos</td>
  </tr>
  <tr>
   <td>Grabaciones de llamadas</td>
-  <td>por usuario/mes (compartido entre instancias)</td>
+  <td>por usuario/por mes (compartido entre instancias)</td>
   <td>50</td>
  </tr>
  <tr>
@@ -97,7 +101,7 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
   <td>25</td>
  </tr>
  <tr>
-  <td>Asientos del usuario</td>
+  <td>Puestos de usuario</td>
   <td>por instancia</td>
   <td>100</td>
  </tr>
@@ -107,17 +111,17 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
   <td>20</td>
  </tr>
  <tr>
-  <td>Llamar a resultados</td>
+  <td>Resultados de llamadas</td>
   <td>por instancia</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>Razones de la llamada</td>
+  <td>Razones de llamada</td>
   <td>por instancia</td>
   <td>15</td>
  </tr>
  <tr>
-  <td>Notificaciones de grabación de llamadas</td>
+  <td>Avisos de grabación de llamadas</td>
   <td>por instancia</td>
   <td>5</td>
  </tr>
@@ -136,7 +140,7 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
   <td>1</td>
  </tr>
  <tr>
-  <td>Mensajería de cancelación de suscripción del equipo</td>
+  <td>Mensajería de cancelación de suscripción de equipo</td>
   <td>por instancia</td>
   <td>1</td>
  </tr>
@@ -146,7 +150,7 @@ Los límites siguientes están establecidos para el uso de las capacidades de co
   <td>1</td>
  </tr>
  <tr>
-  <td>Conexión SFDC</td>
+  <td>Conexión de SFDC</td>
   <td>por usuario</td>
   <td>1</td>
  </tr>
