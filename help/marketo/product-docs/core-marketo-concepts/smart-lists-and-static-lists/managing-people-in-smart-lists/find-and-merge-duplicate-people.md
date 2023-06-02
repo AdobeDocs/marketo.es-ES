@@ -1,85 +1,89 @@
 ---
 unique-page-id: 557339
-description: Buscar y combinar personas duplicadas - Documentos de Marketo - Documentación del producto
+description: 'Buscar y combinar personas duplicadas: documentos de Marketo, documentación del producto'
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 780071242a608706e06f3026150c43441a29faa5
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
 
 # Buscar y combinar personas duplicadas {#find-and-merge-duplicate-people}
 
-Marketo anula automáticamente la duplicación cuando entran nuevos usuarios al sistema. Sin embargo, es posible que su CRM haya enviado duplicados inicialmente a Marketo. Así es como fusionarlos.
+Marketo anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados a Marketo. A continuación se indica cómo combinarlos.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo no desduplicará automáticamente con una sincronización de Salesforce o Microsoft Dynamics, o cuando introduzca personas manualmente.
+>La combinación de personas es permanente, no hay opción de deshacer.
 
 >[!PREREQUISITES]
 >
 >La búsqueda y combinación de duplicados implicará el uso de [listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
+>[!NOTE]
+>
+>Marketo no desduplicará automáticamente una sincronización de Salesforce o Microsoft Dynamics, ni cuando introduzca personas manualmente.
+
 ## Buscar duplicados {#find-duplicates}
 
-1. Vaya a la **Base de datos** .
+1. Vaya a la **Base de datos** área.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
-   >Es posible que la combinación de personas en Marketo no funcione si utiliza una cuenta de persona de Salesforce. Si es posible, combine los registros en Salesforce.
+   >La combinación de personas en Marketo puede no funcionar si utiliza una cuenta de persona de Salesforce. Combine los registros en Salesforce si es posible.
 
-1. Seleccione el **Posibles duplicados** lista inteligente del sistema y haga clic en **People** pestaña .
+1. Seleccione el **Posibles duplicados** lista inteligente del sistema y haga clic en **People** pestaña.
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
    >También puede [Buscar personas duplicadas con lógica personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
 
-## Combinar usuarios manualmente {#merge-people-manually}
+## Combinar personas manualmente {#merge-people-manually}
 
 >[!CAUTION]
 >
->Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, lo hará **not** vuelva a asociarse a la persona ganadora. Vuelva a primario con el objeto personalizado antes de realizar la combinación.
+>Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, **no** se vuelven a asociar con la persona ganadora. Vuelva a obtener la primaria del objeto personalizado antes de realizar la combinación.
 
-1. Para seleccionar los duplicados, mantenga presionada la tecla Ctrl/Cmd y haga clic en y, a continuación, haga clic en **Combinar personas**.
+1. Seleccione los duplicados manteniendo pulsada la tecla Ctrl o Cmd y haciendo clic en y, a continuación, haga clic en **Combinar personas**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
    >Puede tener dos o más duplicados para la misma persona: selecciónelos todos a la vez.
 
-1. Verá los valores entre los registros que _don&#39;t_ coincidencia. Seleccione el valor que desee conservar para cada campo. Haga clic en **Combinar** cuando haya terminado. Si no desea ninguno de estos valores, puede marcar **Personalizado** e introduzca un valor de su elección.
+1. Verá los valores entre los registros que _no lo hagas_ coincide. Seleccione el valor que desee conservar para cada campo. Clic **Combinar** cuando termine. Si no desea ninguno de los dos valores, puede comprobar **Personalizado** e introduzca un valor de su elección.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Al combinar manualmente personas, la primera persona seleccionada será la &quot;ganadora&quot;. Por lo tanto, en la ficha Personas, si combina los ID de registro 198 y 199, y hace clic en 199 primero, 199 será el ID de registro de las personas fusionadas. Esto también se aplica si se combinan más de dos registros.
+   >Al combinar personas manualmente, la primera persona seleccionada será la &quot;ganadora&quot;. Por lo tanto, en la pestaña Personas, si combina los ID de registro 198 y 199 y hace clic primero en 199, 199 será el ID de registro de las personas combinadas. Esto también se aplica si se combinan más de dos registros.
 
    >[!TIP]
    >
-   >La combinación es mejor que la eliminación. Conservará todo el historial (visitas de página, clics en vínculos, aperturas de correo electrónico, rellenos de formulario, etc.).
+   >Combinar es mejor que eliminar. Conservará todo el historial (visitas a la página, clics en vínculos, aperturas de correos electrónicos, rellenos de formularios, etc.).
 
 ## Efecto en Salesforce {#effect-in-salesforce}
 
-Si tiene integración con Salesforce, hay algunas notas sobre el efecto de Fusionar posibles clientes en Salesforce.
+Si tiene integración con Salesforce, hay algunas notas sobre el efecto de Combinar posibles clientes en Salesforce.
 
-* Al combinar solo posibles clientes o solo contactos, se fusionan según las reglas normales de Salesforce.
-* Al combinar Leads y Contactos, todos los Leads se convierten a Contactos antes de fusionarse según las reglas normales de Salesforce.
+* Al combinar solo posibles clientes o solo contactos, se combinan según las reglas normales de Salesforce.
+* Al combinar posibles clientes y contactos, todos los posibles clientes se convierten en contactos antes de la combinación según las reglas normales de Salesforce.
 
-Para conocer los detalles del comportamiento de Salesforce al combinar posibles clientes o contactos, consulte los siguientes documentos de Salesforce:
+Para obtener información específica sobre el comportamiento de Salesforce al combinar posibles clientes o contactos, consulte los siguientes documentos de Salesforce:
 
 * [Combinación de posibles clientes duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [Combinación de contactos duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Combinando contactos duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
 
-## Fusión masiva {#bulk-merging}
+## Combinación masiva {#bulk-merging}
 
-Si tiene demasiados duplicados para combinar manualmente, póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para analizar sus opciones.
+Si tiene demasiados duplicados para combinarlos manualmente, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para discutir las opciones.
 
-Si está conectado a un CRM, los registros se fusionarán allí según las reglas siguientes.
+Si está conectado a un CRM, los registros se combinarán allí según las reglas que se indican a continuación.
