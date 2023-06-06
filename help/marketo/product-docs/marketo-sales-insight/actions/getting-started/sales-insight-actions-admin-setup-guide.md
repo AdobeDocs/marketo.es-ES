@@ -2,7 +2,7 @@
 description: Guía de configuración de administración de acciones de perspectiva de ventas - Documentos de Marketo - Documentación del producto
 title: Guía de configuración de administración de acciones de Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -138,7 +138,7 @@ Los registros de persona que existen en Marketo y Salesforce se sincronizarán c
 
 >[!NOTE]
 >
->Para obtener más información sobre cómo los datos de personas y actividades se sincronizan entre las acciones de Sales Insight, Marketo y Salesforce, [haga clic aquí](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
+>Para obtener más información sobre cómo los datos de personas y actividades se sincronizan entre las acciones de Sales Insight, Marketo y Salesforce, [haga clic aquí](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Invitar usuarios individuales a acciones de MSI {#invite-individual-users-to-msi-actions}
 
