@@ -1,7 +1,7 @@
 ---
 description: Indicadores de campo - Documentos de Marketo - Documentación del producto
 title: Indicadores de campo
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Para agregar un indicador de campo, escriba el texto deseado. Delante de la imag
 
 `{{! Add sentence that references their industry and role}}`
 
-Los usuarios deberán reemplazar este texto con su propia personalización antes de poder enviar el correo electrónico.
+<p>Los usuarios deberán reemplazar este texto con su propia personalización antes de poder enviar el correo electrónico.
 
 >[!NOTE]
 >

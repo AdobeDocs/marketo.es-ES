@@ -1,41 +1,39 @@
 ---
-description: '¿Por qué no se rellenan mis campos dinámicos: documentos de Marketo: documentación del producto?'
+description: '¿Por qué no se rellenan mis campos dinámicos? Documentos de Marketo: documentación del producto'
 title: ¿Por qué no se rellenan mis campos dinámicos?
-hide: true
-hidefromtoc: true
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
 
 # ¿Por qué no se rellenan mis campos dinámicos? {#why-arent-my-dynamic-fields-filling-out}
 
-Los campos dinámicos solo funcionarán cuando utilice una plantilla. Los correos electrónicos individuales individuales que escribas no los rellenarán.
+Los campos dinámicos solo funcionarán cuando se utilice una plantilla. Los correos electrónicos únicos individuales que escriba no los rellenarán.
 
 ## Qué comprobar {#what-to-check}
 
-Existen tres tipos de campos dinámicos en las acciones de perspectiva de ventas: Básico, Personalizado y Salesforce. Básico y Personalizado ambos buscan extraer información de la variable [aplicación web](https://toutapp.com/login). Si la información no existe en la aplicación web, los campos estarán en blanco. Los campos de Salesforce extraen información de [Salesforce.com](https://salesforce.com).
+Existen tres tipos de campos dinámicos en las acciones de información de ventas: Básico, Personalizado y Salesforce. Tanto Básico como Personalizado buscan extraer información de [aplicación web](https://toutapp.com/login). Si la información no existe en la aplicación web, los campos están en blanco. Los campos de Salesforce extraen información de [Salesforce.com](https://salesforce.com).
 
-**Solución de problemas de los campos de Salesforce**
+**Solución de problemas de campos de Salesforce**
 
-Campos de Salesforce: p. ej. `{{sfdc_account_name}}`
+Campos de Salesforce: p. ej., `{{sfdc_account_name}}`
 
-* Asegúrese de que esté correctamente conectado con las acciones de perspectivas de ventas. Vaya a la [Configuración](https://toutapp.com/login) página y haga clic en **Administrar** junto a su CRM.
+* Asegúrese de que está correctamente conectado con las acciones de información de ventas. Vaya a la [Configuración](https://toutapp.com/login) y haga clic en **Administrar** junto a su CRM.
 
 **Solución de problemas de campos básicos y personalizados**
 
-Campos Básicos De Tout: p. ej. `{{company}}`
+Campos básicos de acciones de información de ventas de Marketo: p. ej., `{{company}}`
 
-Tout Campos Personalizados: p. ej. `{{custom_field_favorite_movie}}`
+Campos personalizados de acciones de Marketo Sales Insight: p. ej., `{{custom_field_favorite_movie}}`
 
-* El campo correspondiente debe guardarse para su contacto en la sección [Página Personas](https://toutapp.com/next#relationships) para que haga referencia a nuestro campo dinámico. Por ejemplo, si está enviando un correo electrónico a Mary y usa la variable `{{company}}` , pero su registro de contacto no enumera una empresa, no podremos rellenarlo.
+* El campo correspondiente debe guardarse para el contacto en la [Página Personas](https://toutapp.com/next#relationships) para que nuestro campo dinámico haga referencia a. Por ejemplo, si envía un correo electrónico a Mary y utiliza la variable `{{company}}` field, pero su registro de contacto no enumera una compañía, no vamos a ser capaces de completar eso.
 
-## ¿Por Qué Se Envió Mi Correo Electrónico Sin Rellenar Todos Los Campos Dinámicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
+## ¿Por Qué Se Envió El Correo Electrónico Sin Rellenar Todos Los Campos Dinámicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-Las acciones de perspectiva de ventas evitarán que se envíen sus correos electrónicos si no podemos rellenar todos sus campos dinámicos en el correo electrónico. **Sin embargo**, hay algunas excepciones a esta regla. Algunos campos se envían en blanco o se rellena automáticamente un valor si se encuentra uno. Estos campos y cómo reaccionarán si no pueden rellenar el campo se enumeran a continuación.
+Las acciones de perspectiva de ventas evitarán que se envíen correos electrónicos si no podemos rellenar todos los campos dinámicos en el correo electrónico. **Sin embargo** Sin embargo, existen algunas excepciones a esta regla. Algunos campos enviarán en blanco o rellenarán automáticamente un valor si podemos encontrar uno. A continuación, se enumeran estos campos y cómo reaccionarán si no pueden rellenarlos.
 
 `{{first_name}}` = EN BLANCO
 
@@ -49,4 +47,4 @@ Las acciones de perspectiva de ventas evitarán que se envíen sus correos elect
 
 >[!NOTE]
 >
->La variable `{{first_name}}` para intentar extraer información, el campo buscará tanto en las acciones de perspectivas de ventas como en Salesforce. Todos los demás campos de esta lista solo buscan en Acciones de perspectiva de ventas para rellenar el campo.
+>El `{{first_name}}` buscará tanto en las acciones de perspectiva de ventas como en Salesforce para intentar extraer información. Todos los demás campos de esta lista solo buscan en las acciones de información de ventas para rellenar el campo.
