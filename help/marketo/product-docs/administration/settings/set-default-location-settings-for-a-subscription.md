@@ -1,46 +1,46 @@
 ---
 unique-page-id: 2359902
-description: 'Definir la configuración de ubicación predeterminada para una suscripción: documentos de Marketo: documentación del producto'
-title: Definir la configuración de ubicación predeterminada para una suscripción
+description: Configuración de ubicación predeterminada para una suscripción - Documentos de Marketo - Documentación del producto
+title: Establecer la configuración de ubicación predeterminada para una suscripción
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Definir la configuración de ubicación predeterminada para una suscripción {#set-default-location-settings-for-a-subscription}
+# Establecer la configuración de ubicación predeterminada para una suscripción {#set-default-location-settings-for-a-subscription}
 
-Este artículo describe cómo un administrador vería y editaría la configuración de ubicación predeterminada para una suscripción, incluidos el idioma, la configuración regional y la zona horaria.
+Este artículo describe cómo un administrador vería y editaría la configuración de ubicación predeterminada de una suscripción, incluidos el idioma, la configuración regional y la zona horaria.
 
 >[!NOTE]
 >
->Se requieren derechos de administrador. El idioma no suele ser algo que el administrador cambie. Se especifica en el momento de la compra para que la suscripción se pueda generar en el idioma correspondiente.
+>Se requieren derechos de administrador. Normalmente, el idioma no es algo que el administrador cambiaría. Se especifica en el momento de la compra para que la suscripción se pueda generar en el idioma adecuado.
 
-## Definir la configuración de ubicación predeterminada para una suscripción {#set-default-location-settings-for-a-subscription-1}
+## Establecer la configuración de ubicación predeterminada para una suscripción {#set-default-location-settings-for-a-subscription-1}
 
-Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios siempre pueden [cambiar sus preferencias de idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) en sus cuentas individuales.
+Cuando un administrador cambia la configuración de ubicación predeterminada, los usuarios recién creados heredan esta configuración. Los usuarios siempre pueden [cambiar las preferencias de idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) en sus cuentas individuales.
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Haga clic en **Ubicación**.
+1. Clic **[!UICONTROL Ubicación]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Haga clic en **Editar**.
+1. Clic **[!UICONTROL Editar]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
-   Esta suscripción se creó en inglés. Supongamos que estaba en Londres y quería cambiar la configuración regional y la zona horaria predeterminadas. La configuración regional determina el formato de los números, las fechas y las horas.
+   Esta suscripción se ha creado en inglés. Supongamos que se encuentra en Londres y que desea cambiar la configuración regional y la zona horaria predeterminadas. La configuración regional determina el formato de los números, las fechas y las horas.
 
-1. Seleccione el **Configuración regional** y cambie a **Inglés** (Reino Unido).
+1. Seleccione el **[!UICONTROL Configuración regional]** y cámbielo por **[!UICONTROL Inglés (Reino Unido)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. Finalmente, elija el **Zona horaria**.
+1. Finalmente, elija el **[!UICONTROL Zona horaria]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -48,15 +48,15 @@ Cuando un administrador cambia la configuración de ubicación predeterminada, l
    >
    >Perspectiva de ventas de Marketo para [Salesforce.com](https://salesforce.com/) admite francés, alemán, japonés, portugués y español.
 
-## Definir la configuración de moneda predeterminada para una suscripción {#set-the-default-currency-settings-for-a-subscription}
+## Establecer la configuración de moneda predeterminada para una suscripción {#set-the-default-currency-settings-for-a-subscription}
 
-Si está cambiando la configuración regional predeterminada para sus usuarios, es posible que también desee cambiar la configuración del formato de moneda.
+Si va a cambiar la configuración regional predeterminada de los usuarios, puede que también desee cambiar la configuración del formato de moneda.
 
-1. Haga clic en **Editar** en Configuración de moneda de suscripción.
+1. Clic **[!UICONTROL Editar]** in [!UICONTROL Configuración de moneda de suscripción].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. Seleccione el formato de moneda que desee y haga clic en **Guardar**.
+1. Seleccione el formato de moneda que desee y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
@@ -65,4 +65,3 @@ Si está cambiando la configuración regional predeterminada para sus usuarios, 
 >[!MORELIKETHIS]
 >
 >* [Seleccione su idioma, configuración regional y zona horaria](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
-

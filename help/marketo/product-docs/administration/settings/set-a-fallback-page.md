@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2359920
-description: 'Configurar una página de reserva: Documentos de Marketo: Documentación del producto'
+description: 'Definición de una página de reserva: documentos de Marketo, documentación del producto'
 title: Establecer una página de reserva
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Establecer una página de reserva {#set-a-fallback-page}
 
-Las páginas de reserva son la última línea de defensa si la página de aterrizaje está sin conexión o no se encuentra. Asegúrate de tener uno.
+Las páginas de reserva son la última línea de defensa si la página de aterrizaje está sin conexión o no se encuentra. Asegúrese de que tiene uno.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. Haga clic en **Páginas de aterrizaje**.
+1. Clic **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. En el **Páginas de aterrizaje** , haga clic en **Editar**.
+1. En el **[!UICONTROL Páginas de aterrizaje]** pestaña, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Escriba un **Página de reserva** en el cuadro de diálogo y haga clic en **Guardar**.
+1. Introduzca una **[!UICONTROL Página de reserva]** en el cuadro de diálogo y pulse en **[!UICONTROL Guardar]**.
 
    ![](assets/set-a-fallback-page-4.png)
 
-¡Voilà! Acaba de agregar una página de reserva. No más de 404 páginas.

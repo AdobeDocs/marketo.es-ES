@@ -1,85 +1,85 @@
 ---
 unique-page-id: 2360189
-description: 'Personalización de las direcciones URL de su página de aterrizaje con un CNAME (administración): documentos de Marketo: documentación del producto'
-title: Personalizar las direcciones URL de las páginas de aterrizaje con un CNAME (administración)
+description: 'Personalización de las direcciones URL de su página de aterrizaje con un CNAME (administración): documentos de Marketo, documentación del producto'
+title: Personalización de las direcciones URL de la página de aterrizaje con un CNAME (Administración)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Personalizar las direcciones URL de las páginas de aterrizaje con un CNAME  {#customize-your-landing-page-urls-with-a-cname}
+# Personalización de las direcciones URL de la página de aterrizaje con un CNAME  {#customize-your-landing-page-urls-with-a-cname}
 
-Aunque Marketo aloje sus páginas de aterrizaje, la dirección URL debe personalizarse para su empresa.
+Aunque Marketo aloja sus páginas de aterrizaje, la dirección URL debe personalizarse para su empresa.
 
 >[!NOTE]
 >
->Sin CNAME:
+>No hay CNAME:
 >
 >https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html
 >
 >CNAME de marca:
 >
->https://go.**YourCompany**.com/UnsuscribePage.html
+>https://go.**Su empresa**.com/UnsuscribePage.html
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-¡Vamos a ponerte en marcha!
+¡Vamos a prepararte!
 
 1. Elija un CNAME.
 
    Es la parte frontal de la URL. Ejemplos:
 
-   * **go**.YourCompany.com/NameOfPage.html
+   * **ir**.YourCompany.com/NameOfPage.html
    * **información**.YourCompany.com/NameOfPage.html
    * **páginas**.YourCompany.com/NameOfPage.html
 
-   La palabra (más YourCompany.com) se denomina CNAME. Necesitará esto más tarde, así que tenga en cuenta.
+   La única palabra (más YourCompany.com) se llama CNAME. Lo necesitará más tarde, así que anótelo.
 
 1. Busque la cadena de cuenta.
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Haga clic en **Páginas de aterrizaje**.
+1. Clic **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. En el **Páginas de aterrizaje** , copie la cadena de cuenta en la sección Configuración .
+1. En el **[!UICONTROL Páginas de aterrizaje]** pestaña, copie la cadena de cuenta de la sección Configuración.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
-1. También lo necesitará más tarde, así que tenga en cuenta.
+1. También lo necesitará más tarde, así que anótelo.
 
-1. Envíe la solicitud a TI.
+1. Enviar solicitud al departamento de TI.
 
-1. Pida a su personal de TI que configure el siguiente CNAME (reemplace la palabra [CNAME] y [CADENA DE CUENTA] con el texto del paso anterior):
+1. Solicite a su personal de TI que configure el siguiente CNAME (sustituya la palabra [CNAME] y [CADENA DE CUENTA] con el texto del paso anterior):
 
    [CNAME].YourCompany.com > [CADENA DE CUENTA].mktoweb.com
 
-1. Completar la configuración de CNAME.
+1. Complete la configuración de CNAME.
 
-1. Una vez que su TI haya creado el CNAME, vuelva a la **Administrador** .
+1. Una vez que el equipo de TI haya creado el CNAME, vuelva a la **[!UICONTROL Administrador]** área.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Haga clic en **Páginas de aterrizaje**.
+1. Clic **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. En el **Configuración** , haga clic en **Editar**.
+1. En el **[!UICONTROL Configuración]** , haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Escriba su CNAME en **Nombre de dominio de las páginas de aterrizaje**, introduzca el **Página de reserva**, introduzca el **Página principal** y haga clic en **Guardar**.
+1. Introduzca su CNAME en **[!UICONTROL Nombre de dominio para páginas de aterrizaje]**, introduzca su **[!UICONTROL Página de reserva]**, introduzca su **[!UICONTROL Homepage]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 
 En la página de reserva se redirigirá a las personas si la página de aterrizaje de Marketo no está disponible.
 
-¡Buen trabajo! Las páginas de aterrizaje ahora tienen marca con el dominio de la empresa.
+¡Buen trabajo! Las páginas de aterrizaje ahora están etiquetadas con el dominio de la compañía.

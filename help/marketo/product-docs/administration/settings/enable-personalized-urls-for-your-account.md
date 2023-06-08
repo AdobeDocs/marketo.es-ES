@@ -1,40 +1,40 @@
 ---
 unique-page-id: 2360215
-description: 'Habilitar direcciones URL personalizadas para su cuenta: Marketo Docs: documentación del producto'
-title: Habilitar direcciones URL personalizadas para su cuenta
+description: 'Habilitar direcciones URL personalizadas para su cuenta: documentos de Marketo, documentación del producto'
+title: Habilite direcciones URL personalizadas para su cuenta
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Habilitar direcciones URL personalizadas para su cuenta {#enable-personalized-urls-for-your-account}
+# Habilite direcciones URL personalizadas para su cuenta {#enable-personalized-urls-for-your-account}
 
-Las direcciones URL personalizadas son buenas para las campañas de impresión de correo.
+Las direcciones URL personalizadas son buenas para las campañas de correo impreso.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Haga clic en **Páginas de aterrizaje**.
+1. Clic **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Haga clic en **Editar**.
+1. Clic **[!UICONTROL Editar]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Marque la **Habilitar direcciones URL personalizadas** y haga clic en **Guardar**.
+1. Compruebe la **[!UICONTROL Habilitar direcciones URL personalizadas]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-¡bueno trabajo! Ahora que ha habilitado las direcciones URL en su cuenta, puede [habilitarlos para páginas de aterrizaje individuales](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+¡bueno trabajo! Ahora que ha habilitado los PURL en su cuenta, puede hacer lo siguiente [habilitarlos para páginas de aterrizaje individuales](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

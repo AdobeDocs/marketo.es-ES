@@ -1,60 +1,60 @@
 ---
 unique-page-id: 2359918
-description: 'Editar la configuración de la página de aterrizaje: documentos de Marketo: documentación del producto'
-title: Editar la configuración de la página de aterrizaje
+description: 'Editar configuración de página de aterrizaje: documentos de Marketo, documentación del producto'
+title: Editar configuración de página de aterrizaje
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# Editar la configuración de la página de aterrizaje {#edit-landing-page-settings}
+# Editar configuración de página de aterrizaje {#edit-landing-page-settings}
 
-Puede editar el nombre de dominio y la página de reserva, habilitar o deshabilitar el cumplimentado previo del formulario, evitar el uso indebido de la página de aterrizaje, etc. Así es como.
+Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar el rellenado previo del formulario, evitar el uso indebido de su página de aterrizaje y mucho más. Así es como.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Haga clic en **Páginas de aterrizaje**.
+1. Clic **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. En el **Páginas de aterrizaje** , haga clic en **Editar**.
+1. En el **[!UICONTROL Páginas de aterrizaje]** , haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
-1. Introduzca la información de su dominio y página.
+1. Introduzca su dominio y la información de la página.
 
    ![](assets/edit-landing-page-settings-4.png)
 
    | Término | Definición |
    |---|---|
-   | Nombre de dominio para páginas de aterrizaje | Este es su CNAME. Un CNAME es la primera parte de la dirección URL que se proporciona a las personas para las páginas de aterrizaje. Por ejemplo, en `https://go.yourCompany.com`, la palabra &quot;go&quot; es el CNAME. Se pueden tener múltiples, pero la mayoría de las personas solo usan la una. |
-   | Página de reserva | Aquí es donde debe ir si la página de aterrizaje no existe o no está activa. Más información sobre [páginas de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | Página principal | Introduzca la dirección URL del sitio corporativo. |
+   | [!UICONTROL Nombre de dominio para páginas de aterrizaje] | Este es su CNAME. Un CNAME es la primera parte de la dirección URL que proporciona a las personas para páginas de aterrizaje. Por ejemplo, en `https://go.yourCompany.com`, la palabra &quot;go&quot; es el CNAME. Puede tener varios, pero la mayoría de las personas solo utilizan el uno. |
+   | [!UICONTROL Página de reserva] | Aquí es donde debe ir si la página de aterrizaje no existe o está caída. Más información sobre [páginas de reserva](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Página principal] | Introduzca la URL de su sitio corporativo. |
 
-1. Marque la **Form Prefill** casilla de verificación para permitir que los formularios rellenen previamente la información para personas conocidas (con cookies). Desmarque para bloquear.
+1. Compruebe la **[!UICONTROL Relleno previo de formulario]** casilla de verificación para permitir que los formularios rellenen previamente información de personas conocidas (cookies). Desmarque para bloquear.
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Si desea evitar que un sitio malintencionado aparentemente aloje su contenido, consulte la **No permitir que las páginas de Marketo se incrusten en páginas web externas** casilla de verificación.
+1. Si desea evitar que un sitio malintencionado aparentemente aloje su contenido, consulte la **[!UICONTROL No permitir que las páginas de Marketo se incrusten en páginas web externas]** casilla de verificación
 
    ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
-   >Si desea rellenar previamente `<script>` para que aparezca al final del `<head>` en el código, marque la casilla **Inyectar la secuencia de comandos de prellenado al final de la cabeza** en la ventana Deje sin marcar si desea que aparezca al principio.
+   >Si desea el relleno previo `<script>` etiqueta para que aparezca al final del `<head>` en el código, marque la **[!UICONTROL Inyectar script de relleno previo al final del encabezado]** cuadro. Deje sin marcar si desea que aparezca al principio.
    >
-   >Marque **Eliminar vínculos de favoritos predeterminados** para evitar que Marketo inserte vínculos de favoritos en el código.
+   >Marque **[!UICONTROL Eliminar vínculos de favoritos predeterminados]** para evitar que Marketo inserte vínculos de favicon en el código.
 
-1. Después de realizar las selecciones, haga clic en **Guardar.**
+1. Después de realizar las selecciones, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-landing-page-settings-7.png)
 

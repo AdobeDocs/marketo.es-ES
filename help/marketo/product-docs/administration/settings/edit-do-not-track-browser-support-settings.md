@@ -1,40 +1,40 @@
 ---
 unique-page-id: 6095047
-description: 'Editar la configuración de compatibilidad con navegadores "No rastrear": Documentos de Marketo: Documentación del producto'
-title: Editar la configuración de compatibilidad con navegadores "No rastrear"
+description: 'Editar la configuración de compatibilidad del explorador "No rastrear": documentos de Marketo, documentación del producto'
+title: Editar la configuración de compatibilidad con el explorador "No rastrear"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Editar la configuración de compatibilidad con navegadores &quot;No rastrear&quot; {#edit-do-not-track-browser-support-settings}
+# Editar la configuración de compatibilidad con el explorador &quot;No rastrear&quot; {#edit-do-not-track-browser-support-settings}
 
-&quot;No rastrear&quot; es una solicitud del explorador para que no se rastree en sistemas como Marketo. Puede aceptar esa solicitud con los pasos siguientes.
-
->[!NOTE]
->
->**Se requieren permisos de administrador**
+&quot;No rastrear&quot; es una solicitud del explorador para no rastrearse en sistemas como Marketo. Puede cumplir esa solicitud siguiendo estos pasos.
 
 >[!NOTE]
 >
->&quot;No rastrear&quot; se establecerá en Ignorar de forma predeterminada, por lo que si eso es lo que desea, no tendrá que realizar ningún paso.
+>**Permisos de administración necesarios**
 
-1. Haga clic en **Administrador**.
+>[!NOTE]
+>
+>&quot;No rastrear&quot; se establecerá en Ignorar de forma predeterminada, por lo que si eso es lo que desea, no necesita realizar ningún paso.
+
+1. Clic **[!UICONTROL Administrador]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Haga clic en **Munchkin**.
+1. Clic **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. En **Seguimiento de personas**, haga clic en **Editar**.
+1. En **[!UICONTROL Seguimiento de personas]**, haga clic en **[!UICONTROL Editar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Select **Asistencia** y haga clic en **Guardar**.
+1. Seleccionar **[!UICONTROL Asistencia]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Una práctica recomendada es admitir la función &quot;No rastrear&quot;. En Europa, ¡es la ley!
+   >La práctica recomendada es admitir la función &quot;No rastrear&quot;. ¡En Europa, es la ley!
 
    >[!TIP]
    >

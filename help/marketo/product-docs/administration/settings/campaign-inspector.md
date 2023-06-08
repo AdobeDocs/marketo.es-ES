@@ -1,7 +1,8 @@
 ---
-description: Inspector de campañas - Documentos de Marketo - Documentación del producto
+description: Inspector de campaña - Documentos de Marketo - Documentación del producto
 title: Inspector de campaña
-source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
+exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -10,37 +11,37 @@ ht-degree: 0%
 
 # Inspector de campaña {#campaign-inspector}
 
-Utilice el Inspector de campañas para ver o buscar todas las campañas inteligentes en un solo lugar.
+Utilice el Inspector de campaña para ver o buscar todas las campañas inteligentes en un solo lugar.
 
-## Habilitar el Inspector de campañas {#enable-campaign-inspector}
+## Habilitar el Inspector de campaña {#enable-campaign-inspector}
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Haga clic en **Treasure Chest**.
+1. Clic **[!UICONTROL Cofre del tesoro]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Haga clic en **Editar** junto al Inspector de campañas.
+1. Clic **[!UICONTROL Editar]** junto al Inspector de campaña.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Seleccione el **Habilitado** casilla de verificación y haga clic en **Guardar**.
+1. Seleccione el **[!UICONTROL Habilitado]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/campaign-inspector-4.png)
 
    >[!NOTE]
    >
-   >El espacio de trabajo deseado debe seleccionarse en el árbol para poder ver la pestaña Inspector de campaña después de activarla.
+   >El espacio de trabajo deseado debe estar seleccionado en el árbol para ver la pestaña Inspector de campaña una vez que se ha habilitado.
 
 ## Uso del Inspector de campaña {#using-campaign-inspector}
 
-Una vez activada, la ficha Inspector de campaña se encuentra junto a la pestaña Actividades de marketing .
+Una vez habilitada, la pestaña Inspector de campaña se encuentra junto a la pestaña Actividades de marketing.
 
 ![](assets/campaign-inspector-5.png)
 
-Haga clic en el **Campañas activas** para filtrar por distintos tipos de campañas.
+Haga clic en **[!UICONTROL Campañas activas]** desplegable para filtrar por diferentes tipos de campañas.
 
 ![](assets/campaign-inspector-6.png)
 

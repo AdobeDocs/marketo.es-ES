@@ -1,53 +1,52 @@
 ---
 unique-page-id: 2360297
-description: Restringir inicios de sesión de Marketo basados en IP - Documentos de Marketo - Documentación del producto
-title: Restringir inicios de sesión de Marketo basados en IP
+description: 'Restringir los inicios de sesión de Marketo basados en IP: documentos de Marketo: documentación del producto'
+title: Restringir inicios de sesión de Marketo según la dirección IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# Restringir inicios de sesión de Marketo basados en IP {#restrict-marketo-logins-based-on-ip}
+# Restringir inicios de sesión de Marketo según la dirección IP {#restrict-marketo-logins-based-on-ip}
 
 Puede restringir o permitir que los usuarios accedan a Marketo en función de sus direcciones IP. Así es como.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!NOTE]
 >
 >La información de este artículo solo se aplica a los inicios de sesión directos en login.marketo.com. En este momento no es posible aplicar restricciones de IP a los inicios de sesión de inicio de sesión único (SSO).
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. Haga clic en **Configuración de inicio de sesión**.
+1. Clic **[!UICONTROL Configuración de inicio]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. Haga clic en **Editar restricciones de IP**.
+1. Clic **[!UICONTROL Editar restricciones de IP]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Elija si desea **Permitir** o **Bloque** direcciones específicas, introduzca las direcciones y haga clic en **Guardar**.
+1. Elija si desea **Permitir** o **Bloquear** direcciones específicas, introduzca las direcciones y haga clic en **[!UICONTROL Guardar]**.
 
    >[!NOTE]
    >
    >**Definición**
    >
-   >* **Direcciones IP permitidas**: La adición de direcciones IP permitidas es inclusiva. Incluirá todas las direcciones IP especificadas y excluirá todo lo demás.
-   >* **Bloquear direcciones IP**: Evita que IP específicas accedan a Marketo.
-   >* **Deshabilitar restricciones de IP**: Si activa esta opción, se detendrá el funcionamiento de todas las reglas de restricción. Utilícelo para realizar pruebas.
-
+   >* **[!UICONTROL Direcciones IP permitidas]**: Añadir direcciones IP permitidas es inclusivo. Incluirá todas las direcciones IP especificadas y excluirá todo lo demás.
+   >* **[!UICONTROL Bloquear direcciones IP]**: Evita que direcciones IP específicas accedan a Marketo.
+   >* **[!UICONTROL Deshabilitar restricciones de IP]**: si selecciona esta opción, dejarán de funcionar todas las reglas de restricción. Utilícelo para realizar pruebas.
 
    >[!NOTE]
    >
-   >Puede agregar varias restricciones, pero solo se pueden permitir TODAS o TODAS están bloqueadas. No se pueden combinar y combinar permitidos y bloqueados.
+   >Puede añadir varias restricciones, pero solo se pueden permitir TODAS o bloquear TODAS. No puede combinar los elementos permitidos y bloqueados.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 

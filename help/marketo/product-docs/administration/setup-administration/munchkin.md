@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504874
-description: Munchkin - Marketo Docs - Documentación del producto
-title: Munchkin
+description: "[!DNL Munchkin] - Documentos de Marketo - Documentación del producto"
+title: "[!DNL Munchkin]"
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
-source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Munchkin {#munchkin}
+# [!DNL Munchkin] {#munchkin}
 
-Munchkin es el fragmento JavaScript que usted pone en su sitio web. Rastrea visitas, clics y rellenos de formulario. También tiene una API rica para hacer todo tipo de cosas interesantes.
+[!DNL Munchkin] es el fragmento de JavaScript que se coloca en el sitio web. Rastrea visitas, clics y rellenos de formularios. También tiene una API rica para hacer todo tipo de cosas interesantes.
 
-Consulte la [página para desarrolladores en Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target=&quot;_blank&quot;}.
+Consulte la [página de desarrollador en [!DNL Munchkin]](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"} para obtener más información.

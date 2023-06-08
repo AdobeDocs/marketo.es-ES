@@ -1,10 +1,10 @@
 ---
-description: 'Encabezados de página de aterrizaje: Documentos de Marketo: Documentación del producto'
+description: 'Encabezados de página de aterrizaje: documentos de Marketo, documentación del producto'
 title: Encabezados de página de aterrizaje
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -13,33 +13,33 @@ ht-degree: 0%
 
 Siga los pasos a continuación para personalizar algunos de los encabezados HTTP de los dominios de la página de aterrizaje.
 
-1. En Marketo, haga clic en **Administrador**.
+1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/landing-page-headers-1.png)
 
-1. Haga clic en **Páginas de aterrizaje**.
+1. Clic **[!UICONTROL Páginas de aterrizaje]**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. Haga clic en **Editar** junto a Encabezados HTTP de la página de aterrizaje.
+1. Clic **[!UICONTROL Editar]** junto a Encabezados HTTP de la página de aterrizaje.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Elija la configuración que desee y haga clic en **Guardar** cuando haya terminado.
+1. Elija la configuración que desee y haga clic en **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/landing-page-headers-4.png)
 
 <table>
  <tr>
-  <td><strong>Strict-Transport-Security</strong></td>
-  <td>Utilice esto para garantizar que las conexiones a las páginas de aterrizaje siempre se proporcionen a través de HTTPS (solo debe establecerse para suscripciones con páginas de aterrizaje seguras mediante SSL)</td>
+  <td><strong>[!UICONTROL Strict-Transport-Security]</strong></td>
+  <td>Utilice esto para garantizar que las conexiones a las páginas de destino siempre se proporcionen a través de HTTPS (solo debe configurarse para suscripciones con páginas de destino protegidas por SSL)</td>
  </tr>
  <tr>
-  <td><strong>X-Frame-Options</strong></td>
-  <td>Permite definir si los recursos alojados por Marketo Engage se pueden incrustar en páginas web externas</td>
+  <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
+  <td>Permite definir si se pueden incrustar o no recursos alojados en Marketo Engage en páginas web externas</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->Es importante revisar esta configuración con su equipo de TI para determinar en qué debe configurarse la política de su organización. La configuración incorrecta puede impedir que algunos visitantes accedan a sus páginas de aterrizaje.
+>Es importante revisar esta configuración con su equipo de TI para determinar en qué política de su organización debe configurarse. Una configuración incorrecta puede impedir que algunos visitantes accedan a sus páginas de aterrizaje.
