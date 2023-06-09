@@ -1,62 +1,62 @@
 ---
 unique-page-id: 2360272
-description: 'Creación de una nueva etiqueta de programa y valores de etiqueta: Marketo Docs: documentación del producto'
-title: Crear una etiqueta de programa nueva y valores de etiqueta
+description: Creación de nuevos valores de etiquetas de programas - Documentos de Marketo - Documentación del producto
+title: Creación de una nueva etiqueta de programa y valores de etiqueta
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
-source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Crear una etiqueta de programa nueva y valores de etiqueta {#create-a-new-program-tag-and-tag-values}
+# Creación de una nueva etiqueta de programa y valores de etiqueta {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-Puede crear [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para sus programas y asigne valores a la etiqueta .
+Puede crear funciones personalizadas [etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para sus programas y asigne valores a la etiqueta.
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->Etiqueta del programa: Audiencia de Target
+>Etiqueta de programa: Audiencia de destino
 >
->Valor de la etiqueta del programa: SMB, empresa, mercado medio
+>Valor de etiqueta de programa: SMB, empresa, mercado medio
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Haga clic en **Etiquetas**.
+1. Clic **[!UICONTROL Etiquetas]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Haga clic en **Nuevo** y seleccione **Nuevo tipo de etiqueta**.
+1. Clic **[!UICONTROL Nuevo]** y seleccione **[!UICONTROL Nuevo tipo de etiqueta]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Introduzca la variable **Tipo de etiqueta** y una etiqueta **Valor**. A continuación, haga clic en **Añadir otro**.
+1. Introduzca el **[!UICONTROL Tipo de etiqueta]** y una etiqueta **[!UICONTROL Valor]**. Luego haga clic en **[!UICONTROL Añadir otro]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
-1. Introduzca tantos valores como necesite. Seleccione a qué tipos de programa desea aplicar esta etiqueta.
+1. Introduzca tantos valores como necesite. Seleccione a qué tipos de programas desea aplicar esta etiqueta.
 
    ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
-   >Puede seleccionar varios tipos de programa. Cuando se crea un nuevo programa, este tipo de etiqueta estará disponible.
+   >Puede seleccionar varios tipos de programas. Cuando se crea un nuevo programa, este tipo de etiqueta está disponible.
 
-1. Marque **Requerido** y haga clic en **Crear**.
+1. Marque **[!UICONTROL Requerido]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Si el tipo de etiqueta es **Requerido**, los usuarios deberán introducir un valor para la etiqueta al crear un nuevo programa.
+   >Si el tipo de etiqueta es **[!UICONTROL Requerido]**, los usuarios deberán introducir un valor para la etiqueta al crear un nuevo programa.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

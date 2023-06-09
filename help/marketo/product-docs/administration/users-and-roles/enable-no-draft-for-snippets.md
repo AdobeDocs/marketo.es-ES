@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: Habilitar la opción sin borrador para fragmentos de código - Documentos de Marketo - Documentación del producto
 title: Habilitar la opción Sin borrador para fragmentos
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
-source-git-commit: 247452f2149dee1680bb15800a39f6686aa324f2
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -24,34 +24,34 @@ La opción No borrador se habilita automáticamente para todas las funciones de 
 >
 >**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** área.
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Clic **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Vaya a la **Funciones** , seleccione una función y haga clic en **Editar rol**.
+1. Vaya a la **[!UICONTROL Funciones]** , seleccione una función y haga clic en **[!UICONTROL Editar rol]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Expanda el **Acceder a Design Studio** opción.
+1. Expanda el **[!UICONTROL Acceder a Design Studio]** opción.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Expanda el **Fragmento de acceso** opción.
+1. Expanda el **[!UICONTROL Fragmento de acceso]** opción.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Expanda el **Aprobar fragmento** y compruebe el **Sin Borrador** cuadro. Luego haga clic en **Guardar**.
+1. Expanda el **[!UICONTROL Aprobar fragmento]** y compruebe el **[!UICONTROL Sin Borrador]** cuadro. Luego haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Para desactivar la opción Sin borrador, siga los pasos del 1 al 4 anteriores, desactive la casilla No borrador y haga clic en **Guardar**.
+>Para desactivar la opción Sin borrador, siga los pasos del 1 al 4 anteriores, desactive la casilla No borrador y haga clic en **[!UICONTROL Guardar]**.
 
 >[!MORELIKETHIS]
 >
->[Aprobar un fragmento sin borrador](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Aprobar un fragmento sin borrador](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

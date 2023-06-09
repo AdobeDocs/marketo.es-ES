@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Explicación de los espacios de trabajo y las particiones de persona - Documentos de Marketo - Documentación del producto
 title: Explicación de espacios de trabajo y particiones de persona
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Los espacios de trabajo son áreas independientes en Marketo que contienen recur
 >Algunas razones por las que puede utilizar un espacio de trabajo:
 >
 >* Geografía: los departamentos de marketing de Europa, Asia y América del Norte tienen cada uno un espacio de trabajo
->* Unidad de Negocio: Quicken, Quickbooks y TurboTax cada uno consigue un espacio de trabajo
+>* Unidad de negocio: [!DNL Quicken], [!DNL Quickbooks] y [!DNL TurboTax] cada uno obtenga un espacio de trabajo
 >
 >En cada caso, la separación se debe a que los activos de marketing son completamente diferentes. Si comparten recursos de marketing, es posible que los espacios de trabajo no sean la herramienta adecuada para usted.
 
@@ -43,15 +43,15 @@ A continuación, se muestra cómo compartir recursos entre espacios de trabajo. 
 >
 >La carpeta principal que contiene los recursos es la única carpeta que se puede compartir, no las carpetas secundarias.
 
-1. Haga clic en Database.
+1. Clic **[!UICONTROL Base de datos]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Haga clic con el botón derecho en la carpeta Segmentación y seleccione **Nueva carpeta**.
+1. Haga clic con el botón derecho en la carpeta Segmentación y seleccione **[!UICONTROL Nueva carpeta]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Asigne un nombre a la carpeta y haga clic en **Crear**.
+1. Asigne un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ A continuación, se muestra cómo compartir recursos entre espacios de trabajo. 
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Haga clic con el botón derecho en la carpeta y seleccione **Compartir carpeta**.
+1. Haga clic con el botón derecho en la carpeta y seleccione **[!UICONTROL Compartir carpeta]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Seleccione los espacios de trabajo con los que desea compartir la carpeta y haga clic en **Guardar**. El cuadro de diálogo Compartir carpeta sólo mostrará los espacios de trabajo para los que tenga permiso de visualización.
+1. Seleccione los espacios de trabajo con los que desea compartir la carpeta y haga clic en **[!UICONTROL Guardar]**. El cuadro de diálogo Compartir carpeta sólo mostrará los espacios de trabajo para los que tenga permiso de visualización.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ Puede asignar particiones de persona a  [workspaces](create-a-new-workspace.md) 
 >
 >* Los espacios de trabajo no solo tienen recursos diferentes, sino que tampoco comparten personas
 >* Desea duplicados por otros motivos comerciales
-
 
 >[!CAUTION]
 >

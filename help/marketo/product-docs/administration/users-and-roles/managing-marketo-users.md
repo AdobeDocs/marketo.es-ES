@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2359906
-description: 'Administración de usuarios de Marketo: Documentos de Marketo: Documentación del producto'
+description: 'Administración de usuarios de Marketo: documentos de Marketo, documentación del producto'
 title: Administración de usuarios de Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -14,49 +14,49 @@ ht-degree: 0%
 
 ## Crear usuarios {#create-users}
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Haga clic en **Invitar a nuevo usuario**.
+1. Clic **[!UICONTROL Invitar nuevo usuario]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Introduzca la variable **Dirección de correo electrónico**, **Nombre** y **Apellidos**.
+1. Introduzca el **[!UICONTROL Correo electrónico]**, **[!UICONTROL Nombre]**, y **[!UICONTROL Apellidos]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Opcionalmente, introduzca un motivo para la invitación y seleccione una fecha de caducidad en la **El acceso caduca** utilizando el selector de fechas.
+1. Si lo desea, introduzca un motivo para la invitación y seleccione una fecha de caducidad en la **[!UICONTROL El acceso caduca]** mediante el selector de fechas.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Haga clic en **Siguiente**.
+1. Clic **[!UICONTROL Siguiente]**.
 
    ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
-   >Una fecha de caducidad es buena para los consultores o partes interesadas externas a corto plazo que necesitan acceso a Marketo solo por un breve tiempo.
+   >Una fecha de caducidad es buena para los consultores o partes interesadas externas a corto plazo que solo necesitan acceso a Marketo durante un breve periodo de tiempo.
 
    >[!NOTE]
    >
-   >Cuando llega la fecha de caducidad, el usuario recibe una notificación de caducidad y su cuenta está bloqueada.
+   >Cuando llega la fecha de caducidad, el usuario recibe una notificación de caducidad y su cuenta se bloquea.
 
-1. Seleccione el **Función** de su elección y haga clic en **Siguiente**.
+1. Seleccione el **[!UICONTROL Rol]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Realice modificaciones en el mensaje de invitación si es necesario. Haga clic en **Enviar**.
+1. Edite el mensaje de invitación si es necesario. Clic **Send**.
 
    ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
-   >El correo electrónico o el inicio de sesión deben ser únicos; si ya lo ha utilizado en una instancia de entorno limitado, deberá utilizar una diferente en producción y viceversa.
+   >El correo electrónico/inicio de sesión debe ser único; si ya lo ha utilizado en una instancia de zona protegida, deberá utilizar una diferente en producción y viceversa.
 
    ![](assets/managing-marketo-users-9.png)
 
@@ -64,45 +64,45 @@ ht-degree: 0%
    >
    >Las invitaciones caducan tres días después de que se agregue un nuevo usuario.
 
-El nuevo usuario aparece ahora en la pestaña Usuarios y recibirá un correo electrónico con instrucciones sobre cómo activar su cuenta.
+El nuevo usuario ahora aparece en la pestaña Usuarios y recibirá un correo electrónico con instrucciones sobre cómo activar su cuenta.
 
 ## Eliminar usuarios {#delete-users}
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Seleccione el usuario que desea eliminar y haga clic en **Eliminar usuario**.
+1. Seleccione el usuario que desee eliminar y haga clic en **[!UICONTROL Eliminar usuario]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Confirme haciendo clic en **OK**.
+1. Confirme haciendo clic en **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Restablecer contraseñas de usuario {#reset-user-passwords}
 
-1. Vaya al área Administración .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Seleccione un usuario y haga clic en **Restablecer contraseña**.
+1. Seleccione un usuario y haga clic en **[!UICONTROL Restablecer contraseña]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Haga clic en **Cerrar** para rechazar el mensaje.
+1. Clic **[!UICONTROL Cerrar]** para descartar el mensaje.
 
    ![](assets/managing-marketo-users-17.png)
 
-El usuario recibirá un correo electrónico con instrucciones para restablecer la contraseña.
+El usuario recibirá un correo electrónico con las instrucciones para restablecer la contraseña.
 
 >[!TIP]
 >
@@ -110,19 +110,19 @@ El usuario recibirá un correo electrónico con instrucciones para restablecer l
 
 ## Cambiar permisos y editar información de usuario {#change-permissions-and-edit-user-information}
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Seleccione un usuario y haga clic en **Editar usuario**.
+1. Seleccione un usuario y haga clic en **[!UICONTROL Editar usuario]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Puede editar la información del usuario y cambiar la función asociada. Haga clic en **Guardar**.
+1. Puede editar la información del usuario y cambiar la función asociada. Clic **[!UICONTROL Guardar]**.
 
    ![](assets/managing-marketo-users-21.png)
 
@@ -132,6 +132,6 @@ El usuario recibirá un correo electrónico con instrucciones para restablecer l
 
 >[!NOTE]
 >
->Si se invita a un nuevo usuario como administrador o si se elimina un administrador, todos los administradores actuales recibirán una notificación por correo electrónico.
+>Si se invita a un nuevo usuario como administrador, o si se elimina un administrador, todos los administradores actuales recibirán una notificación por correo electrónico.
 
-¡Increíble trabajo! Ahora sabe cómo crear un usuario, eliminarlo, restablecer la contraseña de un usuario y editar los usuarios.
+¡Increíble trabajo! Ahora sabe cómo crear un usuario, eliminarlo, restablecer la contraseña de un usuario y editar usuarios.

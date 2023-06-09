@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: Permitir al usuario acceso a un espacio de trabajo - Documentos de Marketo - Documentación del producto
 title: Permitir al usuario acceso a un espacio de trabajo
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Los espacios de trabajo se pueden utilizar por cualquier motivo (como unidad de 
 >
 >Más información sobre [workspaces](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vaya a la **Administrador** área.
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. Clic **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. En el **Usuarios** , seleccione el usuario y haga clic en **Editar usuario**.
+1. En el **[!UICONTROL Usuarios]** , seleccione el usuario y haga clic en **[!UICONTROL Editar usuario]**.
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. Seleccione el **Rol y espacio de trabajo** desea que el usuario tenga acceso a.
+1. Seleccione el **[!UICONTROL Roles y espacios de trabajo]** desea que el usuario tenga acceso a.
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

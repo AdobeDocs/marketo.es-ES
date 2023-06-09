@@ -2,7 +2,7 @@
 description: Verificación por correo electrónico - Documentos de Marketo - Documentación del producto
 title: Verificación de correo electrónico
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -29,11 +29,11 @@ Los usuarios recibirán el siguiente correo electrónico cuando se active la ver
 
 >[!NOTE]
 >
->Para reenviar un correo electrónico de verificación a un usuario no verificado, simplemente seleccione su registro y haga clic en **Verificar correo electrónico** botón.
+>Para reenviar un correo electrónico de verificación a un usuario no verificado, simplemente seleccione su registro y haga clic en **[!UICONTROL Verificar correo electrónico]** botón.
 
 ## Cambio de una dirección de correo electrónico {#changing-an-email-address}
 
-Cuando se cambia la dirección de correo electrónico de un usuario, pasa a estar sin verificar. Se les enviará un correo electrónico para que puedan volver a verificarlo. Los usuarios pueden reenviar manualmente ese correo electrónico haciendo clic en **Reenviar verificación**.
+Cuando se cambia la dirección de correo electrónico de un usuario, pasa a estar sin verificar. Se les enviará un correo electrónico para que puedan volver a verificarlo. Los usuarios pueden reenviar manualmente ese correo electrónico haciendo clic en **[!UICONTROL Reenviar verificación]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Cuando se cambia la dirección de correo electrónico de un usuario, pasa a esta
 
 ## Usuarios y funciones {#users-and-roles}
 
-Entrada **Administrador** > **Usuarios y funciones**, la columna Estado de correo electrónico muestra el estado de verificación de cada usuario.
+Entrada **[!UICONTROL Administrador]** > **[!UICONTROL Usuarios y funciones]**, la columna Estado de correo electrónico muestra el estado de verificación de cada usuario.
 
 ![](assets/email-verification-4.png)
 

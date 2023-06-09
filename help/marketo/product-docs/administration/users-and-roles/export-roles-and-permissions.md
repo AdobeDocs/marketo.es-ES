@@ -1,31 +1,31 @@
 ---
-description: 'Funciones y permisos de exportación: documentos de Marketo: documentación del producto'
-title: Roles y permisos de exportación
+description: 'Exportar funciones y permisos: documentos de Marketo, documentación del producto'
+title: Exportar roles y permisos
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Roles y permisos de exportación {#export-roles-and-permissions}
+# Exportar roles y permisos {#export-roles-and-permissions}
 
-A continuación se muestra cómo exportar todas las funciones y sus permisos.
+A continuación, se indica cómo exportar todas las funciones y sus permisos.
 
 >[!NOTE]
 >
->Se requieren permisos de administrador
+>Permisos de administración necesarios
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Select **Usuarios y funciones**.
+1. Seleccionar **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Haga clic en el **Funciones** pestaña .
+1. Haga clic en **[!UICONTROL Funciones]** pestaña.
 
    ![](assets/export-roles-and-permissions-3.png)
 
@@ -35,8 +35,8 @@ A continuación se muestra cómo exportar todas las funciones y sus permisos.
 
 >[!NOTE]
 >
->Asegúrese de que el explorador no bloquee ventanas emergentes de Marketo.
+>Asegúrese de que el explorador no bloquee las ventanas emergentes de Marketo.
 
-Los datos se exportarán como CSV y contendrán funciones, permisos y un recuento de cuántos permisos se han habilitado por grupo.
+Los datos se exportarán como CSV y contendrán funciones, permisos y un recuento de los permisos que se han habilitado por grupo.
 
 ![](assets/export-roles-and-permissions-5.png)

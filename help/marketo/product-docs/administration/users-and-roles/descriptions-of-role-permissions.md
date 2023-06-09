@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Descripciones de los permisos de funciones - Documentos de Marketo - Documentación del producto
 title: Descripciones de los permisos de funciones
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Pista de auditoría de acceso: otorga a los usuarios acceso a la pista de auditoría de recursos y a la pista de auditoría de administración
 * Acceso a canales: otorga a los usuarios acceso solo para modificar la etiqueta Canal, no otras etiquetas personalizadas
 * Límite de comunicación de acceso: otorga a los usuarios acceso para habilitar un límite de comunicación en la administración
-* Acceso a CRM: otorga a los usuarios acceso al CRM, como Salesforce o Microsoft Dynamics, en Administración
-* Acceso [Data.com](https://Data.com) : otorga a los usuarios acceso a la acción de flujo Data.com
+* Acceso a CRM: otorga a los usuarios acceso a CRM, como [!DNL Salesforce] o [!DNL Microsoft Dynamics], en Administración
+* Acceso [[!DNL Data.com]](https://Data.com) : otorga a los usuarios acceso a la acción de flujo Data.com
 * Acceso a la administración de correo electrónico: otorga a los usuarios acceso a la administración de correo electrónico para cambiar la configuración predeterminada, como cancelar la suscripción y personalizar la marca de los dominios
 * Acceso a socios de eventos: otorga a los usuarios acceso a LaunchPoint en administración
 * Acceso a Administración de campos: otorga a los usuarios acceso a Administración de campos en Administración
@@ -45,7 +45,7 @@ Vea y realice cambios en la configuración en la sección Mi cuenta de Admin.
 * Configuración de inicio de sesión con acceso: otorga a los usuarios acceso a la configuración de inicio de sesión en Administración para la configuración de seguridad, restricciones de IP e informes de listas inteligentes
 * Acceso a la actividad personalizada de Marketo: otorga a los usuarios acceso a las actividades personalizadas de Marketo en Administración
 * Acceso al objeto personalizado de Marketo: otorga a los usuarios acceso a los objetos personalizados de Marketo en la administración
-* Acceda a Munchkin: los usuarios de GIves tienen acceso a Munchkin en administración para configurar el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
+* Acceso [!DNL Munchkin] - Acceso de los usuarios de GIves a [!DNL Munchkin] en Administración, para configurar el código de seguimiento, el seguimiento de personas y habilitar la configuración de la API
 * Acceso a Revenue Cycle Analytics: otorga a los usuarios acceso a Revenue Cycle Analytics en Administración para configurar la sincronización de resumen y atribución
 * Acceder a funciones: otorga a los usuarios acceso para administrar y editar funciones, pero no para los usuarios
 * Acceder a la perspectiva de ventas: otorga a los usuarios acceso para administrar la perspectiva de ventas en Administración, para establecer el estado, la configuración de la API, la puntuación de persona y otras configuraciones

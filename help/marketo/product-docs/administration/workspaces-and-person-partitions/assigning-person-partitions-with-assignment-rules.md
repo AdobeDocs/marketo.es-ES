@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Asignación de particiones de persona con reglas de asignación - Documentos de Marketo - Documentación del producto
 title: Asignación de Particiones de Personas con Reglas de Asignación
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -26,19 +26,19 @@ Cuando utilice particiones de persona, configure reglas de asignación para enru
 >
 >Solo las personas creadas en Marketo desde su CRM y mediante la API de SOAP tendrán reglas de asignación aplicadas.
 
-1. Vaya a la **Administrador** área.
+1. Vaya a la **[!UICONTROL Administrador]** área.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Clic **Espacios de trabajo y particiones**.
+1. Clic **[!UICONTROL Espacios de trabajo y particiones]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. En el **Particiones de personas** pestaña, haga clic en **Reglas de asignación**.
+1. En el **[!UICONTROL Particiones de persona]** pestaña, haga clic en **[!UICONTROL Reglas de asignación]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Clic **Agregar opción** para agregar condiciones para enrutar personas en particiones de persona.
+1. Clic **[!UICONTROL Agregar opción]** para agregar condiciones para enrutar personas en particiones de persona.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ Cuando utilice particiones de persona, configure reglas de asignación para enru
    >
    >Puede agregar tantas opciones como desee.
 
-1. Clic **Guardar**.
+1. Clic **[!UICONTROL Guardar]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
