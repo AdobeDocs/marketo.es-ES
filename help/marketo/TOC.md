@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8920'
 ht-degree: 3%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 3%
          + [Añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar una lista a una red de publicidad](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dinámico {#dynamic-chat}
-         + [Información general de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Resumen del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuración inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Agregar o quitar usuarios de chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notificaciones del navegador](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -1346,11 +1346,12 @@ ht-degree: 3%
                + [Registro de respuestas](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnóstico de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Configuración de sincronización de Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-            + Configuración de Salesforce {#salesforce-configuration}
-               + [Registro de atributos de actividad de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Configuración de acciones de perspectiva de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [Desinstalar el paquete de personalización de Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Desinstalar el paquete de personalización de Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+            + Configuración del paquete de Salesforce {#salesforce-package-configuration}
+               + [Registro de atributos de actividad de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Configuración de acciones de perspectiva de ventas en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Desinstalar Marketo Sales Connect de Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+               + [Desinstalar Marketo Sales Connect de Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Actualizar el campo Tipo de actividad al registrar actividades en Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
          + Correo electrónico {#email}
             + Centro de comandos {#command-center}
                + [Información general de búsqueda avanzada](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
