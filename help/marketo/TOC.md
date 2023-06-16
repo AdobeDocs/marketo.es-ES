@@ -622,13 +622,13 @@ ht-degree: 3%
          + [Añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar una lista a una red de publicidad](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Chat dinámico {#dynamic-chat}
-         + [Resumen del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Información general de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuración inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Agregar o quitar usuarios de chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notificaciones del navegador](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuración](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamiento del bot de chat](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Actividades de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Actividades del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Programación de citas {#appointment-scheduling}
             + [Calendario](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Reuniones](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
