@@ -1,53 +1,53 @@
 ---
-description: 'Estado de sincronización de Salesforce: Documentos de Marketo: Documentación del producto'
+description: 'Estado de sincronización de Salesforce: Documentos de Marketo: documentación del producto'
 title: Estado de sincronización de Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
 # Estado de sincronización de Salesforce {#salesforce-sync-status}
 
-Utilice el panel de estado de sincronización para ver las estadísticas de sincronización como parte de los pasos de sincronización y su estado de éxito.
+Utilice el panel Estado de sincronización para ver las estadísticas de sincronización como parte de los pasos de sincronización y su estado de éxito.
 
-Los pasos de sincronización reflejan las operaciones de push o pull por cada tipo de objeto para el esquema de objetos y los propios datos. Las estadísticas cubren nuevos registros, actualizaciones, eliminaciones y recuentos fallidos durante la sincronización. Los usuarios pueden filtrar por fecha, tipo de operación o tipo de objeto. El panel de estado de sincronización muestra el estado de los ciclos de sincronización de los últimos cinco días.
+Los pasos de sincronización reflejan las operaciones de inserción o extracción de cada tipo de objeto para el esquema de objeto y los propios datos. Las estadísticas abarcan nuevos registros, actualizaciones, eliminaciones y recuentos de errores durante la sincronización. Los usuarios pueden filtrar por fecha, tipo de operación o tipo de objeto. El panel Estado de sincronización muestra el estado de los ciclos de sincronización de los últimos cinco días.
 
 >[!NOTE]
 >
->Se requieren permisos de administrador
+>Permisos de administración necesarios
 
 ## Ver estado de sincronización {#view-sync-status}
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. En Integración, haga clic en Salesforce y, a continuación, en la ficha Estado de sincronización.
+1. En Integración, haga clic en Salesforce y, a continuación, en la pestaña Estado de sincronización.
 
    ![](assets/salesforce-sync-status-2.png)
 
-De forma predeterminada, las estadísticas se ordenarán por orden de iniciación más reciente. Puede ordenar por Iniciado en o Terminado en (desde la más reciente hasta la más antigua) haciendo clic en el icono de ordenación.
+De forma predeterminada, las estadísticas se ordenarán por las iniciadas más recientemente. Puede ordenar por Iniciado en o Finalizado en (de más reciente a más antiguo) haciendo clic en el icono ordenar.
 
 ![](assets/salesforce-sync-status-3.png)
 
-## Estado de sincronización de filtros {#filter-sync-status}
+## Estado de sincronización de filtro {#filter-sync-status}
 
 1. Para filtrar los datos, haga clic en el icono de filtro situado en el extremo derecho de la página.
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Seleccione la fecha y el intervalo de tiempo y, a continuación, haga clic en los desplegables para filtrar por Tipo de objeto, Tipo de operación y/o Tipo de estado.
+1. Seleccione la fecha y el intervalo de tiempo y, a continuación, haga clic en las listas desplegables para filtrar por Tipo de objeto, Tipo de operación o Tipo de estado.
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Haga clic en **Aplicar**.
+1. Clic **Aplicar**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Paso opcional**: Para exportar errores de sincronización, haga clic en **Exportar**. Los datos se exportan como CSV.
+**PASO OPCIONAL**: Para exportar los errores de sincronización, haga clic en **Exportar**. Los datos se exportarán como CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -66,19 +66,19 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
    <th>Valores de enumeración</th> 
   </tr> 
   <tr> 
-   <td colspan="1">Comenzar en</td> 
-   <td colspan="1">Fecha y hora de inicio del ciclo de sincronización (zona horaria del usuario)</td> 
+   <td colspan="1">Comenzó el</td> 
+   <td colspan="1">La fecha y hora de inicio del ciclo de sincronización (zona horaria del usuario)</td> 
    <td colspan="1"></td> 
   </tr>  
   <tr> 
-   <td colspan="1">Finalizado en</td> 
-   <td colspan="1">Fecha y hora de finalización del ciclo de sincronización (zona horaria del usuario)</td> 
+   <td colspan="1">Finalizó el</td> 
+   <td colspan="1">La fecha y hora de finalización del ciclo de sincronización (zona horaria del usuario)</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
    <td colspan="1">Objeto</td> 
    <td colspan="1">Tipo de objeto</td> 
-   <td colspan="1">Contacto, persona, tarea, oportunidad, posible cliente, otros como se muestra a continuación</td> 
+   <td colspan="1">Contacto, Persona, Tarea, Oportunidad, Posible cliente, Otros como se muestra a continuación</td> 
   </tr>  
   <tr> 
    <td colspan="1">Operación</td> 
@@ -106,19 +106,19 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
    <td colspan="1"></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Elemento con error</td> 
+   <td colspan="1">Elemento fallido</td> 
    <td colspan="1">Número de registros cuya sincronización falló</td> 
    <td colspan="1"><br></td> 
   </tr>  
   <tr> 
    <td colspan="1">Omitido</td> 
-   <td colspan="1">Recuento de registros omitidos porque no se han realizado cambios en los campos de interés para la sincronización</td> 
+   <td colspan="1">Recuento de registros omitidos porque no se produjeron cambios en los campos de interés de la sincronización</td> 
    <td colspan="1"></td> 
   </tr>  
  </tbody> 
 </table>
 
-&#42;Los datos volvieron al estado de integridad anterior después del error de paso de sincronización.
+&#42;Los datos se revirtieron al estado de integridad anterior después de un error en el paso de sincronización.
 
 ## Tipo de objeto {#object-type}
 
@@ -134,7 +134,7 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
    <td colspan="1">Tipo de cuenta</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Objetos personalizados</td> 
+   <td colspan="1"> objetos personalizados de </td> 
   </tr>  
   <tr> 
    <td colspan="1">Campaña</td> 
@@ -181,12 +181,12 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
  <tbody> 
   <tr> 
    <th>Tipo de operación</th> 
-   <th>Encontrado en estos objetos</th> 
+   <th>Encontrado con estos objetos</th> 
    <th>Observaciones</th> 
    <th>Tipo de operación</th>
   </tr> 
   <tr> 
-   <td colspan="1">Vínculo de inicio con el programa</td> 
+   <td colspan="1">Iniciar vínculo con el programa</td> 
    <td colspan="1">Campaña</td> 
    <td colspan="1">Vinculación de campañas a programas</td> 
    <td colspan="1">Actualizar</td>
@@ -194,44 +194,44 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
   <tr> 
    <td colspan="1">Extraer conversiones</td> 
    <td colspan="1">Persona (posible cliente)*</td> 
-   <td colspan="1">Extraiga las acciones de conversión de SFDC a Marketo. Las unidades (números) son posibles clientes que se convierten a contactos</td> 
-   <td colspan="1">Actualizar, error de elemento u omitido</td>
+   <td colspan="1">Extraer y convertir acciones de SFDC a Marketo. Las unidades (números) son posibles clientes que se convierten en contactos</td> 
+   <td colspan="1">Actualización, elemento fallido u omitido</td>
   </tr> 
   <tr> 
    <td colspan="1">Eliminaciones de extracción</td> 
-   <td colspan="1">Contacto, Persona (Plomo), Oportunidad, Campaña, Miembros De Campaña, Contacto De Oportunidad, Objetos Personalizados, Campañas, Estado Del Miembro De La Campaña, Función De Contacto De Oportunidad</td> 
+   <td colspan="1">Contacto, Persona (Posible Cliente), Oportunidad, Campaña, Miembros De La Campaña, Contacto De Oportunidad, Objetos Personalizados, Campañas, Estado De Miembro De La Campaña, Función De Contacto De Oportunidad</td> 
    <td colspan="1">Registros eliminados de SFDC que se sincronizan con Marketo</td> 
-   <td colspan="1">Eliminado, fallido o omitido</td>
+   <td colspan="1">Eliminado, Elemento fallido u Omitido</td>
   </tr>  
   <tr> 
    <td colspan="1">Actualizaciones de extracción</td> 
-   <td colspan="1">Tarea, Persona (Posible Cliente), Cola Persona (Posible Cliente), Contacto, Evento, Oportunidad, Cuenta, Tipo De Cuenta, Miembros De Campaña, Objetos Personalizados, Campañas, Estado De Miembro De Campaña, Eventos, Estado De Persona, Oportunidad, Función De Contacto De Oportunidad</td> 
-   <td colspan="1">Actualizaciones o registros nuevos en SFDC sincronizados con Marketo, Extraer eventos como actividades</td> 
-   <td colspan="1">Nuevo, actualizado, error de elemento u omitido</td>
+   <td colspan="1">Tarea, Persona (posible cliente), Cola de persona (posible cliente), Contacto, Evento, Oportunidad, Cuenta, Tipo de cuenta, Miembros de campaña, Objetos personalizados, Campañas, Estado de miembro de campaña, Eventos, Estado de persona, Oportunidad, Función de contacto de oportunidad</td> 
+   <td colspan="1">Actualizaciones de nuevos registros en SFDC sincronizados con Marketo, extraer eventos como actividades</td> 
+   <td colspan="1">Elemento nuevo, actualizado, con error u omitido</td>
   </tr>  
   <tr> 
    <td colspan="1">Insertar nuevo</td> 
-   <td colspan="1">Tareas, plantillas de correo electrónico</td> 
+   <td colspan="1">Tareas, Plantillas de correo electrónico</td> 
    <td colspan="1">Tareas push (actividades)</td> 
    <td colspan="1"></td>
   </tr>
   <tr> 
    <td colspan="1">Actualizaciones push</td> 
-   <td colspan="1">Tareas, Plantillas De Correo Electrónico, Persona, Contacto, Campañas</td> 
-   <td colspan="1">Inserción de actualizaciones en SFDC y también eliminación</td> 
-   <td colspan="1">Actualizar, error de elemento u omitido</td>
+   <td colspan="1">Tareas, Plantillas de correo electrónico, Persona, Contacto, Campañas</td> 
+   <td colspan="1">Insertar actualizaciones a SFDC y también eliminaciones</td> 
+   <td colspan="1">Actualización, elemento fallido u omitido</td>
   </tr>  
   <tr> 
-   <td colspan="1">esquema de sincronización</td> 
+   <td colspan="1">Sincronizar esquema</td> 
    <td colspan="1">Miembros de campaña, Objetos personalizados, Campañas, Estado de miembro de campaña, Tareas, Persona, Oportunidad, Función de contacto de oportunidad, Usuarios</td> 
-   <td colspan="1">Sincroniza metadatos de diferentes objetos para decidir qué campos nuevos sincronizar en el siguiente ciclo</td> 
+   <td colspan="1">Sincroniza metadatos para diferentes objetos, para decidir qué campos nuevos sincronizar en el siguiente ciclo</td> 
    <td colspan="1"></td>
   </tr>  
   <tr> 
    <td colspan="1">Sincronizar con el programa</td> 
    <td colspan="1">Campañas</td> 
-   <td colspan="1">Sincroniza el programa de Marketo con campañas SFDC</td> 
-   <td colspan="1">Nuevas, actualizaciones, fallidas u omitidas</td>
+   <td colspan="1">Sincroniza el programa de Marketo con las campañas de SFDC</td> 
+   <td colspan="1">Nuevo, Actualizaciones, Fallido u Omitido</td>
   </tr> 
   <tr> 
    <td colspan="1">Actualizar actividades</td> 
@@ -248,4 +248,4 @@ De forma predeterminada, las estadísticas se ordenarán por orden de iniciació
  </tbody> 
 </table>
 
-&#42;La configuración de marca en el nivel de suscripción decide la etiqueta: &quot;Posible cliente&quot; o &quot;Persona&quot; en el informe.
+&#42;La configuración de marca en el nivel de suscripción decide la etiqueta &quot;Posible cliente&quot; o &quot;Persona&quot; en el informe.

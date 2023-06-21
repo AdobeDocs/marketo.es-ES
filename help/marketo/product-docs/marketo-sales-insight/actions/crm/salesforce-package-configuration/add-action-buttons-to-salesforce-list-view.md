@@ -1,11 +1,9 @@
 ---
 description: 'Añadir botones de acción a la vista de lista de Salesforce: Documentos de Marketo: documentación del producto'
 title: Añadir botones de acción a la vista de lista de Salesforce
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
@@ -49,6 +47,6 @@ Los botones de acción para instalar incluyen:
 
 >[!MORELIKETHIS]
 >
->* Uso del envío masivo de correo electrónico en Salesforce (debe crearse)
->* Uso de la campaña de adición masiva a ventas en Salesforce (debe crearse)
+>* [Uso del envío masivo de correo electrónico de ventas en Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Uso de la campaña de adición masiva a ventas en Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Instalación del paquete de información de ventas de Marketo en la AppExchange de Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
