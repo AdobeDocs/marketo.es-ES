@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8961'
 ht-degree: 2%
 
 ---
@@ -628,7 +628,7 @@ ht-degree: 2%
          + [Notificaciones del navegador](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuración](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamiento del bot de chat](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Actividades del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Actividades de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Programación de citas {#appointment-scheduling}
             + [Calendario](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Reuniones](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -1908,6 +1908,7 @@ ht-degree: 2%
       + 2023 {#2023}
          + [Notas de la versión: Enero de 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Notas de la versión: Marzo de 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)
+         + [Notas de la versión: mayo de 2023](release-notes/previous-releases/2023/release-notes-may-23.md)
       + 2022 {#2022}
          + [Notas de la versión: 22 de enero](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Notas de la versión: Marzo de 2022](release-notes/previous-releases/2022/release-notes-mar-22.md)
