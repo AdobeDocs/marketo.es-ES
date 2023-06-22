@@ -1,7 +1,7 @@
 ---
 description: Uso del envío masivo de correo electrónico de ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Uso del envío masivo de correo electrónico de ventas en Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Aprenda a enviar correos electrónicos masivos en Salesforce para escalar la com
    >Para crear una nueva vista, haga clic en Crear nueva vista y configure los filtros disponibles para reducir la lista de usuarios que añade a una campaña de ventas.
 
 1. Seleccione la lista de contactos o posibles clientes que desee y haga clic en **Enviar correo electrónico de ventas** botón.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. Se abrirá la ventana de composición Acciones (Actions) con los destinatarios seleccionados en la ventana de composición.
 
