@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
-ht-degree: 2%
+source-wordcount: '8963'
+ht-degree: 3%
 
 ---
 
@@ -485,10 +485,10 @@ ht-degree: 2%
          + [Explicación de carpetas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Explicación de notificaciones](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificación](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + No son Recorridos {#not-journeys}
-         + [Resumen de nombres](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [Ficha Nombre](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [Pestaña Configuración](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + Lienzo de participación {#engagement-canvas}
+         + [Resumen del lienzo de participación](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [Pestaña Lienzo de participación](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [Pestaña Configuración](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Introducción a Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelos e información](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
