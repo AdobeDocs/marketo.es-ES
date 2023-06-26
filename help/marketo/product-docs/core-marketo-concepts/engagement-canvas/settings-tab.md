@@ -4,22 +4,24 @@ title: Pestaña Configuración
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---
 
 # Pestaña Configuración {#settings-tab}
 
-La pestaña Configuración es una tienda integral que incluye toda la configuración de la campaña. Incluye los mismos conjuntos de permisos y acceso que la pestaña de programación. No interrumpirá ninguna configuración de campaña existente. Incluye 3 secciones y los modelos correspondientes para editar cada sección.
+La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programación. CAMBIOS EN ESTA PESTAÑA??? No interrumpirá ninguna configuración de campaña existente.
 
-Reglas de calificación que determinan cuántas veces cada persona puede pasar por el flujo de campaña inteligente
+Incluye las tres secciones siguientes.
 
-Ejecuciones individuales que se pueden utilizar para programar ejecuciones únicas inmediatamente o en el futuro
+* **Reglas de calificación**: Determina cuántas veces puede cada persona ejecutar el flujo de campaña inteligente.
 
-Periodicidad que se usa para programar una periodicidad diaria, semanal o mensual
+* **Ejecuciones individuales**: se puede utilizar para programar ejecuciones únicas inmediatamente o en el futuro.
+
+* **Periodicidad**: se utiliza para programar una periodicidad diaria, semanal o mensual.
 
 CAPTURA DE PANTALLA
 
