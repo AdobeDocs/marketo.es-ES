@@ -2,9 +2,9 @@
 description: Uso de una plantilla en la ventana de composición - Documentos de Marketo - Documentación del producto
 title: Uso de una plantilla en la ventana de composición
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -13,53 +13,57 @@ ht-degree: 0%
 
 ## Búsqueda y uso de plantillas {#finding-and-using-templates}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Rellene el campo To .
+1. Rellene el campo Para.
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
-1. Haga clic en el icono de búsqueda de la sección plantilla para abrir el campo de búsqueda de plantilla.
+1. Haga clic en el icono de búsqueda en la sección de la plantilla para abrir el campo de búsqueda de la plantilla.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Seleccione una categoría en la que buscar (o seleccione Todo para buscar en todas las categorías).
+   >[!TIP]
+   >
+   >Se recomienda fijar la categoría &quot;Todas&quot; para acceder rápidamente a la búsqueda de toda la biblioteca de plantillas, ya que a menudo es necesario buscar en todas las plantillas para encontrar lo que está buscando. Cuando haya seleccionado una categoría anclada y haga clic en el icono de búsqueda, la búsqueda se mostrará de forma predeterminada en la categoría anclada seleccionada.
+
+1. Seleccione una categoría para buscar (o seleccione Todo para buscar en todas las categorías).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
-1. Busque por nombre de plantilla, línea de asunto o cuerpo del correo electrónico. Haga clic en la plantilla que desee para seleccionarla.
+1. Busque por nombre de plantilla, línea de asunto o cuerpo del correo electrónico. Haga clic en la plantilla deseada para seleccionarla.
 
    ![](assets/using-a-template-in-the-compose-window-5.png)
 
    >[!NOTE]
    >
-   >Si selecciona otra plantilla, se reemplazará toda la información que hay actualmente en el editor. Si realiza algún cambio, asegúrese de copiarlo antes de seleccionar otra plantilla.
+   >Si se selecciona otra plantilla, se reemplazará toda la información que se encuentra actualmente en el editor. Si realiza cambios, asegúrese de copiarlos antes de seleccionar otra plantilla.
 
 ## Fijar categorías de plantilla en la ventana de composición {#pinning-template-categories-in-the-compose-window}
 
-Favorito **hasta cinco** categorías de plantillas específicas para obtener acceso rápido a las plantillas más utilizadas.
+Favorito **hasta cinco** categorías de plantilla específicas para obtener acceso rápido a las plantillas más utilizadas.
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Haga clic en el **+** junto a Favoritos.
+1. Haga clic en **+** junto a Favoritos.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Haga clic en el **Fijar una categoría** y seleccione la categoría que desee.
+1. Haga clic en **Anclar una categoría** y seleccione la categoría que desee.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
-1. Haga clic en **Guardar cambios** cuando haya terminado (opcional: repita el paso 3 para agregar más).
+1. Clic **Guardar cambios** cuando haya terminado (opcional: repita el paso 3 para agregar más).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
    >[!TIP]
    >
-   >Puede reorganizar las categorías fijadas simplemente arrastrando y soltando antes de guardar los cambios.
+   >Puede reorganizar las categorías ancladas simplemente arrastrando y soltando antes de guardar los cambios.
 
    ![](assets/using-a-template-in-the-compose-window-10.png)
 
@@ -67,4 +71,4 @@ Favorito **hasta cinco** categorías de plantillas específicas para obtener acc
    >
    >**Favoritos** está ahí de forma predeterminada. Contiene plantillas de correo electrónico favoritas, no categorías.
 
-   La categoría seleccionada ahora está fija.
+   La categoría seleccionada está anclada.

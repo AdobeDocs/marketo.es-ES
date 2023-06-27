@@ -2,9 +2,9 @@
 description: Guía de configuración de administración de acciones de perspectiva de ventas - Documentos de Marketo - Documentación del producto
 title: Guía de configuración de administración de acciones de Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 0%
 1. En Marketo, haga clic en **Administrador**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >Si no ve un ID de cliente y un Secreto de cliente en la tarjeta de información de integración, active la instancia de acciones invitando al primer usuario y verá aparecer el ID de cliente y el Secreto de cliente.
 
 1. Clic **Perspectiva de ventas**, entonces **Configuración de acciones**. Seleccione de una lista de administradores de Marketo para invitar y haga clic en **Enviar invitación**.
 

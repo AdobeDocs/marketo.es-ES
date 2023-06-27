@@ -4,16 +4,16 @@ title: Pestaña Configuración
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '267'
 ht-degree: 2%
 
 ---
 
 # Pestaña Configuración {#settings-tab}
 
-La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programación. CAMBIOS EN ESTA PESTAÑA??? No interrumpirá ninguna configuración de campaña existente.
+La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programación. LOS CAMBIOS EN ESTA PESTAÑA NO INTERRUMPIRÁN??? No interrumpirá ninguna configuración de campaña existente.
 
 Incluye las tres secciones siguientes.
 
@@ -25,38 +25,33 @@ Incluye las tres secciones siguientes.
 
 CAPTURA DE PANTALLA
 
-Las reglas de calificación estarán disponibles para todas las campañas (déclencheur y lote) e incluyen las siguientes configuraciones:
+Las reglas de calificación estarán disponibles para todas las campañas (déclencheur y lote) e incluyen la siguiente configuración:
 
-Puede elegir cuántas veces una persona pasa por una campaña
-
-Capacidad para bloquear campañas no operativas si la persona supera el límite de comunicación
-
-Posibilidad de establecer el límite de personas de la campaña de anulación
+* Puede determinar cuántas veces una persona pasa por una campaña
+* La capacidad de bloquear una campaña no operativa si la persona supera su límite de comunicación
+* La capacidad de establecer un límite de personas de una campaña de anulación
 
 CAPTURA DE PANTALLA
 
-Las ejecuciones individuales se pueden utilizar para ejecutar una campaña inmediatamente o para configurar algunas ejecuciones únicas en el futuro. Tenga en cuenta que es más fácil usar el modal de periodicidad si programa una serie de campañas
+Las ejecuciones individuales se pueden utilizar para ejecutar una campaña inmediatamente o para configurar algunas ejecuciones únicas en el futuro.
+
+>[!TIP]
+>
+>Es más fácil usar el modo de periodicidad si está programando una serie de campañas.
 
 CAPTURA DE PANTALLA
 
-El modo de periodicidad incluye la capacidad de configurar una programación recurrente de forma diaria, semanal o mensual. Una vez configurado, podrá ver las siguientes 3 ejecuciones en la pestaña de configuración
+El modo de periodicidad incluye la capacidad de configurar una programación recurrente de forma diaria, semanal o mensual. Una vez configurada, podrá ver las tres ejecuciones siguientes en la pestaña Configuración.
 
 CAPTURA DE PANTALLA
 
 La pestaña Configuración también incluye una breve descripción general de la lista inteligente. Incluye lo siguiente:
 
-Estado de la campaña
-
-Creado el
-
-Última modificación
-
-Modo de lista inteligente
-
-Estado de la lista inteligente:
-
-Personas estimadas que se verán afectadas
-
-Personas estimadas que están bloqueadas de los correos electrónicos
-
-Personas estimadas que están en el paso de espera
+* Estado de la campaña
+* Creado el
+* Última modificación
+* Modo de lista inteligente
+* Estado de la lista inteligente:
+   * Personas estimadas que se verán afectadas
+   * Personas estimadas que están bloqueadas de los correos electrónicos
+   * Personas estimadas que están en un paso de espera

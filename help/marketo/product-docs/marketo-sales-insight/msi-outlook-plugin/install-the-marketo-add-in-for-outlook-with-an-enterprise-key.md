@@ -1,40 +1,40 @@
 ---
 unique-page-id: 11377488
-description: Instalación del complemento de Marketo para Outlook con una clave de empresa - Documentos de Marketo - Documentación del producto
+description: 'Instalación del complemento de Marketo para Outlook con una clave empresarial: documentos de Marketo, documentación del producto'
 title: Instalación del complemento de Marketo para Outlook con una clave de empresa
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Instalación del complemento de Marketo para Outlook con una clave de empresa {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Muchas veces, los representantes de ventas no tienen privilegios administrativos en sus portátiles y sus equipos de TI son responsables de instalar todo el software de forma remota. El complemento de Marketo para Outlook se puede instalar de esta forma con la clave de Enterprise, que se encuentra en la sección Perspectiva de ventas de Admin.
+Muchas veces, los representantes de ventas no tienen privilegios administrativos en sus portátiles, y sus equipos de TI son responsables de instalar todo el software de forma remota. El complemento de Marketo para Outlook se puede instalar de esta manera con la clave de empresa, que se encuentra en la sección de Información de ventas de Administración. Si no ve el botón Ver clave de empresa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitarlo.
 
 >[!PREREQUISITES]
 >
->El administrador debe tener [se ha emitido una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>El administrador debe tener [ha emitido una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
->Si no ve el botón Ver clave de empresa , póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para activarlo.
+>Las funciones de acciones de perspectiva de ventas, como Enviar correo electrónico de ventas, Agregar a la campaña de ventas y Tareas, no están disponibles en los complementos de correo electrónico de perspectiva de ventas para Gmail y Outlook. En este momento, los usuarios solo tienen la capacidad de enviar un correo electrónico rastreable con o sin una plantilla de correo electrónico de Marketo desde su cliente de correo electrónico al utilizar los complementos de correo electrónico de Sales Insight.
 
 1. En Mi Marketo, haga clic en **Administrador** y luego **Perspectiva de ventas**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Haga clic en el **Complemento de correo electrónico** pestaña .
+1. Haga clic en **Complemento de correo electrónico** pestaña.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. Haga clic en **Ver clave de empresa**.
+1. Clic **Ver clave de empresa**.
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Copie la clave de licencia de Outlook Enterprise y péguela en un correo electrónico, junto con [este vínculo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)y envíelo a su departamento de TI para la instalación remota.
+1. Copie la clave de licencia empresarial de Outlook y péguela en un mensaje de correo electrónico junto con [este vínculo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)y envíelo a su departamento de TI para que lo instale de forma remota.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 

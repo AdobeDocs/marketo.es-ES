@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2949716
-description: Envío y seguimiento de un correo electrónico con el complemento de correo electrónico para Outlook - Marketo Docs - Documentación del producto
+description: 'Envío y seguimiento de un correo electrónico con el complemento de correo electrónico para Outlook: documentos de Marketo, documentación del producto'
 title: Envío y seguimiento de un correo electrónico con el complemento de correo electrónico para Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,11 @@ Puede enviar y rastrear correos electrónicos con Marketo directamente desde Out
 
 >[!PREREQUISITES]
 >
->Si aún no lo ha hecho, instale la [Complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Si aún no lo ha hecho, instale el [Complemento de correo electrónico de Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+
+>[!NOTE]
+>
+>Las funciones de acciones de perspectiva de ventas, como Enviar correo electrónico de ventas, Agregar a la campaña de ventas y Tareas, no están disponibles en los complementos de correo electrónico de perspectiva de ventas para Gmail y Outlook. En este momento, los usuarios solo tienen la capacidad de enviar un correo electrónico rastreable con o sin una plantilla de correo electrónico de Marketo desde su cliente de correo electrónico al utilizar los complementos de correo electrónico de Sales Insight.
 
 1. Abra Microsoft Outlook y cree un nuevo correo electrónico.
 
@@ -24,34 +28,34 @@ Puede enviar y rastrear correos electrónicos con Marketo directamente desde Out
 
    >[!CAUTION]
    >
-   >Si incluye varios destinatarios en el correo electrónico, se realizará un seguimiento de toda la actividad bajo el primer destinatario.
+   >Si incluye varios destinatarios en el correo electrónico, se rastreará toda la actividad debajo del primer destinatario.
 
-1. Escriba el correo electrónico como lo haría normalmente y haga clic en **Envío y seguimiento**.
+1. Componga el correo electrónico como lo haría normalmente y haga clic en **Envío y seguimiento**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
    >[!NOTE]
    >
-   >Si envía un correo electrónico a alguien que no existe en la instancia de Marketo, se creará automáticamente un registro de persona para ellos. Su apellido siempre será &#39;mktUnknown&#39; para que pueda encontrarlos fácilmente.
+   >Si envía un correo electrónico a alguien que no existe en su instancia de Marketo, se creará automáticamente un registro de persona para ellos. Su apellido siempre será &quot;mktUnknown&quot; para que pueda encontrarlos fácilmente.
 
    >[!TIP]
    >
    >Si desea utilizar una plantilla de Marketo, consulte [Envío y seguimiento desde Outlook mediante una plantilla](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Eche un vistazo a la vista previa y haga clic en **Enviar**.
+1. Consulte la vista previa y haga clic en **Enviar**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
    >[!CAUTION]
    >
-   >La tecnología antispam suele rechazar las aperturas y los clics que se producen en los 20 segundos posteriores al envío del correo electrónico, por lo que debe esperar al menos ese tiempo para abrirlo o hacer clic mientras realiza la prueba.
+   >La tecnología antispam a menudo rechaza las aperturas y los clics que se producen en un plazo de 20 segundos tras enviar el correo electrónico, por lo que espere al menos ese tiempo para abrir o hacer clic durante la prueba.
 
-   Para ver quién ha recibido los correos electrónicos enviados a través de Outlook, cree una lista inteligente con el filtro &quot;Correo electrónico de ventas enviados&quot;.
+   Para ver quién recibió los mensajes de correo electrónico enviados a través de Outlook, cree una lista inteligente con el filtro &quot;Se envió el correo electrónico de ventas&quot;.
 
    ![](assets/was-sent-sales-email.png)
 
-¡Es tan fácil! Aunque este correo electrónico lo envió Outlook un vendedor, se rastreará en Marketo.
+¡Es así de fácil! Aunque este correo electrónico lo envió Outlook de un vendedor, se rastreará en Marketo.
 
 >[!MORELIKETHIS]
 >
->[Registrar correo entrante desde sus posibles clientes en Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registrar correo entrante de sus posibles clientes en Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
