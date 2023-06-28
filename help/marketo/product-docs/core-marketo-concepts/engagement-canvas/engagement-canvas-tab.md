@@ -4,9 +4,9 @@ title: Pestaña Lienzo de participación
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ CAPTURA DE PANTALLA
 
 CAPTURA DE PANTALLA
 
-* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Al hacer clic en la tarjeta de opción, se expande la campaña asociada a la opción específica y, simultáneamente, se abre el panel deslizable con la siguiente información:
+* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Al hacer clic en la tarjeta de opción, se expandirá la campaña asociada a la opción específica, así como se mostrará un panel deslizable con la siguiente información:
 
-!!!!!!!!!! SEGUNDA FRASE DE CORRECCIÓN GRAMATICAL
-
-* Campaña a la que pertenece la opción
-* Botón &quot;Editar opción&quot;
-* Lista de condiciones de elección asociadas al paso de flujo
-* Botón &quot;Ver lista&quot;, que abre una lista de campañas que utilizan la solicitud o ejecución de campaña específica
+   * Campaña a la que pertenece la opción
+   * Botón &quot;Editar opción&quot;
+   * Lista de condiciones de elección asociadas al paso de flujo
+   * Botón &quot;Ver lista&quot;, que abre una lista de campañas que utilizan la solicitud o ejecución de campaña específica
 
 CAPTURA DE PANTALLA
 
-!!!!!!!!!!!!!!! A CONTINUACIÓN: agregue &quot;a&quot; antes de ¿Anidado?
+## Visualización de una campaña de ejecución anidada {#visualizing-a-nested-execute-campaign}
 
-## Visualización de la campaña de ejecución anidada {#visualizing-nested-execute-campaign}
-
-DETUVO LA EDICIÓN AQUÍ
+SE DETUVO LA EDICIÓN AQUÍ: RECOGER TRAS EL APAGADO
 
 Ejecute campañas que se ejecuten en serie con la campaña principal, es decir, los posibles clientes que cumplan los requisitos para una campaña ejecutable, completen todos los pasos de flujo de la campaña y vuelvan a la campaña principal para continuar por los pasos de flujo de esta campaña.
 

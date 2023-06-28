@@ -4,16 +4,16 @@ title: Pestaña Configuración
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 2%
+source-wordcount: '351'
+ht-degree: 1%
 
 ---
 
 # Pestaña Configuración {#settings-tab}
 
-La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programación. LOS CAMBIOS EN ESTA PESTAÑA NO INTERRUMPIRÁN??? No interrumpirá ninguna configuración de campaña existente.
+La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programación. AL VISITAR ESTA PESTAÑA NO SE INTERRUMPIRÁ??? CONSIDERE LA POSIBILIDAD DE SOLTAR O REFORMULAR - LOPA LO CONFIRMARÁ - No interrumpirá ninguna configuración de campaña existente.
 
 Incluye las tres secciones siguientes.
 
@@ -55,3 +55,9 @@ La pestaña Configuración también incluye una breve descripción general de la
    * Personas estimadas que se verán afectadas
    * Personas estimadas que están bloqueadas de los correos electrónicos
    * Personas estimadas que están en un paso de espera
+
+Conjuntos de permisos y errores en la pestaña Configuración:
+
+Todos los conjuntos de permisos existentes se aplicarán en la pestaña Configuración. Si el botón Editar está deshabilitado, significa que no tiene permisos para realizar ediciones y que debería ponerse en contacto con el administrador de Marketo.
+
+AÑADIR DESCRIPCIÓN SOBRE LA CANCELACIÓN DE EJECUCIONES PROGRAMADAS: CONFIRMAR CON LOPA DESPUÉS DEL APAGADO —> Si un usuario no tiene acceso para editar la configuración de la campaña, tampoco tendrá acceso para cancelar ninguna ejecución programada.

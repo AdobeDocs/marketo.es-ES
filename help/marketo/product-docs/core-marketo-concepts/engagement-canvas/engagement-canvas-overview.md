@@ -4,9 +4,9 @@ title: Resumen del lienzo de participación
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Una vez en el lienzo de participación, verá dos pestañas: [Lienzo de particip
 
 CAPTURA DE PANTALLA
 
-ENCABEZADO
+ENCABEZADO: ¿DESCRIPCIONES DE LA TARJETA? - LOPA LO CONFIRMARÁ
 
 **Déclencheur**: en las campañas que incluyen déclencheur, el lienzo tendrá una tarjeta Información general de Déclencheur. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
 
@@ -43,7 +43,7 @@ ENCABEZADO
 
 ## Campañas anidadas {#nested-campaigns}
 
-* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional. (La campaña anidada también incluirá una píldora de cierre; al hacer clic en esta opción, se contraerán las tarjetas asociadas a la campaña anidada) !!!!!!!!!!!!! - VOLVER A REDACTAR O QUITAR
+* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional. (La campaña anidada también incluirá una píldora de cierre; al hacer clic en esta opción, se contraerán las tarjetas asociadas a la campaña anidada) !!!!!!!!!!!!! - VOLVER A ESCRIBIR O QUITAR - LOPA CONFIRMARÁ
 
 * Si una campaña incluye un paso de flujo de solicitud o ejecución de campaña con opciones, al hacer clic en la tarjeta de flujo se muestra una tarjeta de opciones, así como un panel deslizable con más información sobre las opciones. Al hacer clic en cada tarjeta de opción, se muestran detalles de la campaña a la que se llama, así como un panel deslizable con más información.
 
@@ -55,7 +55,7 @@ CAPTURA DE PANTALLA
 
 La navegación superior incluye las siguientes funciones:
 
-!!!!! LA CONFIRMACIÓN GRAMATICAL Y LA CAPTURA DE PANTALLA ESTÁN OBSOLETAS
+!!!!! LA CAPTURA DE PANTALLA ESTÁ OBSOLETA: COGE UNA NUEVA
 
 * Nombre de la campaña y acceso al modal &quot;Editar campaña&quot;. Puede editar el nombre y la descripción de la campaña aquí.
 
@@ -74,6 +74,10 @@ La navegación superior incluye las siguientes funciones:
 >[!NOTE]
 >
 >Los cambios realizados en una lista inteligente y en una pestaña de flujo abiertas se reflejarán en la pestaña Lienzo de participación tras la actualización. No se actualizará automáticamente. Las actualizaciones y ediciones guardadas automáticamente se reflejarán.
+
+## Preguntas frecuentes {#faq}
+
+LOPA PROPORCIONARÁ
 
 >[!MORELIKETHIS]
 >
