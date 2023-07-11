@@ -2,9 +2,9 @@
 description: Información general sobre seminarios web interactivos - Documentos de Marketo - Documentación del producto
 title: Información general sobre seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuent
 
 Sí, puede controlar qué usuarios de Marketo tienen permiso para crear y enviar seminarios web interactivos. Se puede acceder a ella a través de la sección Seminarios web interactivos del área de Administración de la instancia de Adobe Marketo Engage.
 
-**¿Debo volver a asociar el seminario web de Adobe Connect al programa de eventos de seminarios web interactivos como con los programas de eventos de LaunchPoint?**
+**¿Debo asociar de nuevo el seminario web con tecnología de Adobe Connect al programa de eventos de seminario web interactivo como con los programas de eventos de LaunchPoint?**
 
 No, los programas de eventos de seminarios web interactivos realizan la asociación por usted.

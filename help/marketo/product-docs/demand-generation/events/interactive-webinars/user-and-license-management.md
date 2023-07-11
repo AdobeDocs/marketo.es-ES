@@ -2,9 +2,9 @@
 description: Administración de usuarios y licencias - Documentos de Marketo - Documentación del producto
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Aprenda a añadir y eliminar usuarios, así como a ver sus licencias actuales.
 
 ## Uso de licencias {#license-usage}
 
-Los seminarios web interactivos ofrecen licencias específicas para crear eventos de Adobe Connect. Cada vez que se añada una licencia, aparecerá un nuevo cuadro de uso de licencia. Los administradores de Marketo pueden ver (no editar) las licencias siguiendo los pasos a continuación. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener licencias adicionales.
+Los seminarios web interactivos ofrecen licencias específicas para crear eventos con tecnología de Adobe Connect. Cada vez que se añada una licencia, aparecerá un nuevo cuadro de uso de licencia. Los administradores de Marketo pueden ver (no editar) las licencias siguiendo los pasos a continuación. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener licencias adicionales.
 
 1. Vaya a la **Administrador** área.
 

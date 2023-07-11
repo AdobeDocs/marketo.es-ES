@@ -2,9 +2,9 @@
 description: Flujos de trabajo de eventos - Documentos de Marketo - Documentación del producto
 title: Flujos de trabajo de eventos
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ El panel consta de cuatro widgets.
 
 **Asistencia**: destaca la duración de la asistencia de varios miembros que han asistido al seminario web en comparación con la duración general del seminario web en términos de porcentaje.
 
-**Rendimiento de encuesta**: Muestra varias encuestas iniciadas durante el seminario web en Adobe Connect y la distribución de los miembros que han asistido y respondido a la encuesta en cada una de las respuestas.
+**Rendimiento de encuesta**: Muestra varias encuestas iniciadas durante el seminario web con tecnología de Adobe Connect y la distribución de los miembros que han asistido y respondido a la encuesta en cada una de las respuestas.
 
-**Actividad de descarga de clics y archivos**: Proporciona el recuento de descargas de archivos y vínculos web en los que varios miembros que han asistido al seminario web y han realizado esa acción específica han hecho clic durante el seminario web en Adobe Connect.
+**Actividad de descarga de clics y archivos**: Proporciona el recuento de descargas de archivos y vínculos web en los que se hizo clic durante el seminario web con tecnología de Adobe Connect por parte de varios miembros que han asistido al seminario web y han realizado esa acción específica.
 
 ## Déclencheur y filtros {#triggers-and-filters}
 
