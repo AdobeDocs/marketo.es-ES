@@ -1,32 +1,30 @@
 ---
-description: 'Explicación de la pestaña Contenido: Documentos de Marketo: Documentación del producto'
-title: Explicación de la ficha Contenido
-hide: true
-hidefromtoc: true
+description: 'Explicación de la pestaña Contenido: Documentos de Marketo, documentación del producto'
+title: Explicación de la pestaña Contenido
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Explicación de la ficha Contenido {#understanding-the-content-tab}
+# Explicación de la pestaña Contenido {#understanding-the-content-tab}
 
-La ficha Contenido trata de la participación de correo electrónico de su equipo al utilizar una plantilla. Generamos automáticamente tres métricas que consideramos importantes.
+La pestaña Contenido trata sobre la participación de su equipo por correo electrónico al utilizar una plantilla. Automáticamente propagamos tres métricas que creemos que son importantes.
 
 ## Arma secreta {#secret-weapon}
 
-Se trata de una plantilla de correo electrónico que aún no se ha compartido con el equipo, pero que está recibiendo un alto nivel de participación. Le mostramos la línea de asunto de la plantilla y el creador de la plantilla. Esta es una buena oportunidad para llegar a esta representante y recomendar que compartan la plantilla.
+Se trata de una plantilla de correo electrónico que aún no se ha compartido con el equipo, pero que está recibiendo un alto nivel de participación. Le mostramos la línea de asunto de la plantilla y el creador de la plantilla. Esta es una buena oportunidad para ponerse en contacto con este representante y recomendarle que comparta la plantilla.
 
 ## Mayor participación {#highest-engagement}
 
-Esta es la plantilla compartida que obtiene el nivel más alto de participación en el conjunto.
+Esta es la plantilla compartida que obtiene el nivel más alto de participación en todos los ámbitos.
 
-## Participación menor {#lowest-engagement}
+## Participación mínima {#lowest-engagement}
 
-Se puede compartir o no, esta es la plantilla con la menor cantidad de participación.
+Se puede compartir o no compartir; esta es la plantilla con menos participación.
 
-Desplácese hacia abajo por la página para ver la sección Plantillas que muestra todas las plantillas que su equipo ha estado utilizando (en este lapso de tiempo) con la mayor cantidad de vistas.
+Desplácese hacia abajo por la página para ver la sección Plantillas que muestra todas las plantillas que su equipo ha estado utilizando (en este lapso de tiempo) con la mayoría de las vistas.
 
-También puede ver los archivos adjuntos principales que su equipo ha enviado (con la mayor cantidad de vistas) y los vínculos principales (con la mayor cantidad de clics).
+También puede ver los archivos adjuntos principales enviados por su equipo (con la mayor cantidad de vistas) y los vínculos principales (con la mayor cantidad de clics).

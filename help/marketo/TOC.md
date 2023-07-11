@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 3%
 
 ---
@@ -494,7 +494,7 @@ ht-degree: 3%
          + [Modelos e información](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Filtros predictivos](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
          + [Explicación del seguimiento de objetivos y los registros proyectados](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
-   + Sincronización CRM {#crm-sync}
+   + Sincronización de CRM {#crm-sync}
       + Sincronización de Microsoft Dynamics {#microsoft-dynamics}
          + [Explicación de la sincronización de Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Versiones de complementos de Marketo para Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
@@ -1097,19 +1097,19 @@ ht-degree: 3%
          + [Guía de introducción para administradores de Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [Administrar su perfil](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
          + [Cambiar la contraseña de Sales Connect](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
-         + Configuración de correo electrónico {#email-settings}
-            + [Añadir identidad](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
+         + Configuración del correo electrónico {#email-settings}
+            + [Agregar identidad](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Añadir su firma de correo electrónico](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [Nunca recibió un correo electrónico de verificación](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
-            + [Verifique su correo electrónico](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+            + [Verifique su email](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Administración {#admin}
          + [Administradores adicionales](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [Dominios bloqueados](product-docs/marketo-sales-connect/admin/blocked-domains.md)
-         + [Bloqueo de contenido](product-docs/marketo-sales-connect/admin/content-lockdown.md)
+         + [Bloqueo del contenido](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Crear un subequipo](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
          + [Invitar a usuarios](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Configuración de SSO a través de SAML 2.0 en Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
-         + [Configuración de uso compartido](product-docs/marketo-sales-connect/admin/sharing-settings.md)
+         + [Configuración para compartir](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Detalles de acceso del usuario](product-docs/marketo-sales-connect/admin/user-access-details.md)
       + Analytics {#analytics}
          + [Información general de página de Analytics](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
@@ -1154,7 +1154,7 @@ ht-degree: 3%
             + [Cómo corregir &quot;No se pudo autenticar su solicitud&quot; al conectarse a Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Registro de respuestas](product-docs/marketo-sales-connect/crm/salesforce-integration/reply-logging.md)
             + [Diagnóstico de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
-            + [Configuración de sincronización de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+            + [Configuraciones de sincronización de Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [La Actividad De Seguimiento No Se Muestra](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + Complementos de correo electrónico {#email-plugins}
          + Gmail {#gmail}
@@ -1207,7 +1207,7 @@ ht-degree: 3%
             + [Información general de Live Feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Cancela suscripción {#unsubscribes}
             + [Personalizar mensaje de vínculo de cancelación de suscripción](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
-            + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
+            + [Verificación de cancelación de suscripción de Marketo](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Volver a suscribir y cancelar la suscripción](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
             + [Sincronización de cancelaciones de suscripción con Salesforce](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + [Cancelar suscripción al grupo](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-group.md)
@@ -1305,20 +1305,20 @@ ht-degree: 3%
             + [Guía de configuración de administración de acciones de Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Cambiar la contraseña de ventas de Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [Límites de uso del producto](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
-            + Configuración de correo electrónico {#email-settings}
-               + [Verifique su correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + Configuración del correo electrónico {#email-settings}
+               + [Verifique su email](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Agregar o actualizar la firma del correo electrónico](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
-               + [Añadir identidad](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+               + [Agregar identidad](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Administración {#admin}
             + [Inicio de sesión automático desde Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Dominios bloqueados](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Conectar el nuevo administrador a Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
-            + [Bloqueo de contenido](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Bloqueo del contenido](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
             + [Creación de un equipo](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Cómo configurar el seguimiento de dominios personalizados](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Invitar usuarios y administradores](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Configuración de administración de inicio de sesión](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
-            + [Configuración de uso compartido](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Configuración para compartir](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Sincronización de datos de acción de ventas con Marketo y Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Detalles de acceso del usuario](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1332,7 +1332,6 @@ ht-degree: 3%
             + [La campaña ha finalizado](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Creación de una campaña de ventas](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Configuración de campañas de ventas](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [Opciones de envío de campañas de ventas para pasos de correo electrónico](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Tipos de pasos de campañas de ventas y tareas de recordatorio](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Ver la lista de campañas como otro usuario](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1370,7 +1369,7 @@ ht-degree: 3%
             + Cancela suscripción {#unsubscribes}
                + [Información general de cancelación de suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Personalizar mensaje de vínculo de cancelación de suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
-               + [Comprobación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+               + [Verificación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronización de cancelaciones de suscripción con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + Uso de la ventana de composición {#using-the-compose-window}
                + [Añadir un archivo adjunto o contenido rastreable a su correo electrónico](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
@@ -1382,11 +1381,12 @@ ht-degree: 3%
             + Gmail {#gmail}
                + [Conectar con Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
-               + [Conectar con Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
+               + [Conectarse a Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + Preguntas frecuentes {#faq}
             + [¿Puedo recuperar un contacto o grupo que he eliminado?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [¿Puedo rastrear varios destinatarios con CC/CCO?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Preguntas frecuentes sobre contenido y archivos adjuntos](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [¿Se rastrean las vistas, los clics y las respuestas de los destinatarios enumerados en la sección CC y CCO del correo electrónico?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [¿Las acciones de Sales Insight tienen una aplicación de iPhone o Android?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [¿Cómo puedo realizar la Lista de permitidos de las acciones de Sales Insight en mi servidor?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [¿Cómo soluciono &quot;No pudimos autenticar su solicitud&quot; al conectar con Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 3%
             + [¿Por qué no se sincronizan mis campos de actividades y actividades de ventas con Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [¿Por qué no puedo eliminar un contacto?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [¿Por qué no se empujaron todos mis contactos a las acciones de información de ventas?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [¿Por qué mis correos electrónicos se marcan como correo no deseado?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [¿Por Qué Ha Finalizado Mi Campaña?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [¿Por qué la actividad de seguimiento no se muestra en la actividad de Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integraciones {#integrations}
             + [Integración de Highspot](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)

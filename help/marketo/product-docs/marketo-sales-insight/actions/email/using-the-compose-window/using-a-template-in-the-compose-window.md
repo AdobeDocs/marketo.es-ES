@@ -2,7 +2,7 @@
 description: Uso de una plantilla en la ventana de composición - Documentos de Marketo - Documentación del producto
 title: Uso de una plantilla en la ventana de composición
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. Haga clic en el icono de búsqueda en la sección de la plantilla para abrir el campo de búsqueda de la plantilla.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >Se recomienda fijar la categoría &quot;Todas&quot; para acceder rápidamente a la búsqueda de toda la biblioteca de plantillas, ya que a menudo es necesario buscar en todas las plantillas para encontrar lo que está buscando. Cuando haya seleccionado una categoría anclada y haga clic en el icono de búsqueda, la búsqueda se mostrará de forma predeterminada en la categoría anclada seleccionada.
 
 1. Seleccione una categoría para buscar (o seleccione Todo para buscar en todas las categorías).
 
@@ -56,6 +52,10 @@ Favorito **hasta cinco** categorías de plantilla específicas para obtener acce
 1. Haga clic en **Anclar una categoría** y seleccione la categoría que desee.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >Se recomienda fijar la categoría &quot;Todas&quot; para acceder rápidamente a la búsqueda de toda la biblioteca de plantillas, ya que a menudo es necesario buscar en todas las plantillas para encontrar lo que está buscando. Cuando haya seleccionado una categoría anclada y haga clic en el icono de búsqueda, la búsqueda se mostrará de forma predeterminada en la categoría anclada seleccionada.
 
 1. Clic **Guardar cambios** cuando haya terminado (opcional: repita el paso 3 para agregar más).
 
