@@ -2,9 +2,9 @@
 description: Información general sobre seminarios web interactivos - Documentos de Marketo - Documentación del producto
 title: Información general sobre seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,13 @@ Después del seminario web, acceda a [análisis de rendimiento de eventos](/help
 
 ## Preguntas frecuentes {#faq}
 
-**¿Necesito una licencia de Adobe Connect independiente para utilizar los seminarios web interactivos?**
+**¿Necesito una suscripción independiente para utilizar los seminarios web interactivos?**
 
 No. Para utilizar los seminarios web interactivos sólo se necesita una suscripción de Marketo Engage activa.
 
-**¿Cuáles son las diferentes licencias de los seminarios web interactivos?**
-
-Los seminarios web interactivos tienen tres tipos de licencias.
-
-`1.` Licencia de eventos compartidos: esta licencia está disponible en diferentes capacidades de participantes: 500, 1000 y 1500. Contiene un número limitado de seminarios web que se pueden utilizar y 3 GB de almacenamiento.
-
-`2.` Licencia de salas compartidas - Esta licencia está disponible en diferentes capacidades de los participantes: 200, 500, 1000 y 1500. Contiene un número ilimitado de seminarios web que se pueden utilizar y un almacenamiento ilimitado.
-
-`3.` Licencia de almacenamiento adicional: esta licencia contiene almacenamiento adicional (100 GB o 1 TB) que se puede utilizar en varias licencias de eventos compartidos en las que se ha superado el límite de almacenamiento.
-
-Puede adquirir cualquier combinación de estas licencias.
-
 **He agotado el número incluido de seminarios web interactivos. ¿Cómo puedo obtener más sesiones o más capacidad?**
 
-Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener ayuda.
+Debe ponerse en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener ayuda.
 
 **Como administrador de Marketo, ¿puedo controlar cuáles de mis usuarios de Marketo pueden crear seminarios web interactivos?**
 
