@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2953358
-description: Eliminar Entradas Directamente En El Calendario De Marketing - Documentos de Marketo - Documentación Del Producto
+description: Eliminar entradas directamente en el calendario de marketing - Documentos de Marketo - Documentación del producto
 title: Eliminar entradas directamente en el calendario de marketing
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Eliminar entradas directamente en el calendario de marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Además de [creación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) y [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) , puede eliminarlas directamente en el Calendario de marketing. Así es como.
+Además de [creación](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} Entradas, puede eliminarlas directamente en el Calendario de marketing. Así es como.
 
-1. Vaya a la **Calendario**.
+1. Haga clic en **MU** mosaico.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Seleccione la entrada que desee eliminar y haga clic en **Mostrar enfoque del programa**.
+1. Seleccione la entrada que desee eliminar y haga clic en **[!UICONTROL Mostrar enfoque del programa]**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
@@ -26,8 +26,8 @@ Además de [creación](/help/marketo/product-docs/core-marketo-concepts/marketin
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Según la entrada, es posible que tenga que confirmar la eliminación. ¡Pero eso es todo! Fácil.
+Según la entrada, es posible que tenga que confirmar la eliminación. ¡Pero eso es todo!
 
 >[!MORELIKETHIS]
 >
->[Confirmar entradas directamente en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[Confirmar entradas directamente en el calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

@@ -1,40 +1,40 @@
 ---
 unique-page-id: 1147255
-description: 'Emitir/revocar una licencia del calendario de marketing: Documentos de Marketo: Documentación del producto'
-title: Emitir o revocar una licencia del Calendario de mercadotecnia
+description: Emitir/revocar una licencia de calendario de marketing - Documentos de Marketo - Documentación del producto
+title: Emitir/revocar una licencia de calendario de marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Emitir o revocar una licencia del Calendario de mercadotecnia {#issue-revoke-a-marketing-calendar-license}
+# Emitir/revocar una licencia de calendario de marketing {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-Para usar su [Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) asientos, debe emitir licencias a los usuarios que necesiten acceder. Así es como.
+Para utilizar su [Calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} Para obtener puestos, debe emitir licencias para los usuarios que necesiten acceso. Así es como.
 
-1. Vaya a la **Administrador** para obtener más información.
+1. Vaya a la **[!UICONTROL Administrador]** sección.
 
    ![](assets/adminhand.png)
 
-1. Haga clic en **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/2.png)
 
-1. Seleccione los usuarios y haga clic en **Licencia de emisión.**
+1. Seleccione los usuarios y haga clic en **[!UICONTROL Licencia de emisión]**.
 
    >[!TIP]
    >
-   >Uso **Ctrl/Cmd + clic** para seleccionar varios usuarios de una sola vez.
+   >Uso **Ctrl o Cmd + clic** para seleccionar varios usuarios de una sola vez.
 
    ![](assets/3.png)
 
-1. Marque **Habilitar licencia** y haga clic en **Guardar.**
+1. Marque **[!UICONTROL Habilitar licencia]** y haga clic en **[!UICONTROL Guardar]**.
 
    >[!NOTE]
    >
@@ -42,8 +42,6 @@ Para usar su [Calendario de marketing](/help/marketo/product-docs/core-marketo-c
 
    ![](assets/4.png)
 
-   ¡Bien hecho! Consulte la marca de verificación verde en &quot;¿Calendario?&quot;
+   ¡Bien hecho! Consulte la marca de verificación verde bajo &quot;¿Calendario?&quot;
 
    ![](assets/5.png)
-
-Awesome - ¡Estás listo para llegar a la programación&#39;!
