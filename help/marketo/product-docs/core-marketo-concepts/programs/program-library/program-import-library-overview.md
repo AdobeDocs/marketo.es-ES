@@ -1,53 +1,54 @@
 ---
-description: 'Descripción general de la biblioteca de importación de programas: Documentos de Marketo: Documentación del producto'
-title: Información general de la biblioteca de importación de programas
+description: Descripción general de la biblioteca de importación de programas - Documentos de Marketo - Documentación del producto
+title: Resumen de biblioteca de importación de programas
 hide: true
 hidefromtoc: true
-source-git-commit: aa40c14f1c781b43db224bc4b47df16f00e70122
+exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Información general de la biblioteca de importación de programas {#program-import-library-overview}
+# Resumen de biblioteca de importación de programas {#program-import-library-overview}
 
-Introducción de texto.
+Texto de introducción.
 
-—Información de la biblioteca de importación del programa del Marketo Engage aquí—
+—Programa Marketo Engage Importar información de biblioteca aquí—
 
-* [Administración de consentimiento OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md){target="_blank"}
+* [OP-Content Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md){target="_blank"}
 
-* Administración de la capacidad de los OP-Deliverability
+* Gestión de la capacidad de entrega
 
-* Administración de OP-Data
+* Administración de datos de OP
 
-* API de adquisición de OP
+* API de OP-Acquisition
 
 * OP-Scoring-Demographic
 
-* Comportamiento de OP-Scoring
+* OP-Scoring-Behavior
 
-* Administración de posibles clientes
+* Administración de OP-Lead
 
 * Solicitud WR-AAAA-MM-Demo con perfil progresivo
 
-* Envío por correo electrónico de EM-AAAA-MM-DD
+* EM-AAAA-MM-DD-Envío de correo electrónico
 
-* Boletín NL-AAAA-MM
+* NL-AAAA-MM-Newsletter
 
-* EV-AAAA-MM-DD-Event
+* EV-AAAA-MM-DD-Evento
 
-* TS-AAAA-MM-DD-Tradeshow
+* TS-AAAA-MM-DD-Feria
 
-* WBN-AAAA-MM-DD-Webinar
+* Seminario web sobre WBN-AAAA-MM-DD
 
-* OA-AAAA-MM-Online Advertising with Marketo Landing Page
+* Publicidad en línea OA-AAAA-MM con la página de aterrizaje de Marketo
 
-* Nurtura NUR-AAAA-MM-Simple
+* NUR-AAAA-MM-Nutrición simple
 
-* NUR-AAAA-MM-Derivación avanzada
+* NUR-AAAA-MM-Nutrición por goteo avanzada
 
-* CT-AAAA-MM-Content en la página de aterrizaje de Marketo
+* CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo
 
-* Página de aterrizaje de CT-AAAA-MM-Content que no es de Marketo
+* Página de aterrizaje de contenido que no es de Marketo
