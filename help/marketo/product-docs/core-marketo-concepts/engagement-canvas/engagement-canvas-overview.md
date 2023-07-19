@@ -4,7 +4,7 @@ title: Resumen del lienzo de participación
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ENCABEZADO: ¿DESCRIPCIONES DE LA TARJETA? - LOPA LO CONFIRMARÁ
 
 ## Campañas anidadas {#nested-campaigns}
 
-* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional. (La campaña anidada también incluirá una píldora de cierre; al hacer clic en esta opción, se contraerán las tarjetas asociadas a la campaña anidada) !!!!!!!!!!!!! - VOLVER A ESCRIBIR O QUITAR - LOPA CONFIRMARÁ
+* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional. (La campaña anidada también incluirá una píldora de cierre; al hacer clic en esta opción, se contraerán las tarjetas asociadas a la campaña anidada) !!!!!!!!!!!! - VOLVER A ESCRIBIR O QUITAR - LOPA CONFIRMARÁ
 
 * Si una campaña incluye un paso de flujo de solicitud o ejecución de campaña con opciones, al hacer clic en la tarjeta de flujo se muestra una tarjeta de opciones, así como un panel deslizable con más información sobre las opciones. Al hacer clic en cada tarjeta de opción, se muestran detalles de la campaña a la que se llama, así como un panel deslizable con más información.
 
