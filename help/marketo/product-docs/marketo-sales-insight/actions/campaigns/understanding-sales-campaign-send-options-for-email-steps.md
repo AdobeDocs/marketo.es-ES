@@ -1,11 +1,12 @@
 ---
 description: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico - Documentos de Marketo - Documentación del producto
 title: Explicación de las opciones de envío de campañas de ventas para pasos de correo electrónico
+feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 1934cbd4a941fdfc1110c6934da66e58042aa572
+source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
 workflow-type: tm+mt
 source-wordcount: '681'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -28,7 +29,7 @@ Si es su primer paso y el primer día de su campaña de ventas, tendrá las sigu
 * Cuando inicie su campaña de ventas agregando personas, programaremos el correo electrónico para este momento.
 * Siempre tiene la opción de elegir una nueva hora de envío cuando inicie la campaña de ventas.
 
-### Crear una tarea; yo mismo enviaré este correo electrónico {#first-step-create-a-task}
+### Crear una tarea. Enviaré este email por mi cuenta {#first-step-create-a-task}
 
 * Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
 * Una vez que haya realizado esta selección, cuando inicie la campaña de ventas, pondremos en cola estas tareas en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
@@ -50,7 +51,7 @@ Para los días o pasos siguientes de la campaña de ventas, tiene las siguientes
 * Cuando inicie su campaña de ventas agregando personas, programaremos el correo electrónico para este momento.
 * Siempre tiene la opción de elegir una nueva hora de envío cuando inicie la campaña de ventas.
 
-### Crear una tarea; yo mismo enviaré este correo electrónico {#subsequent-create-a-task}
+### Crear una tarea. Enviaré este email por mi cuenta {#subsequent-create-a-task}
 
 * Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
 * Una vez que haya realizado esta selección, cuando inicie la campaña de ventas, las acciones de información de ventas colocarán estas tareas en cola para usted en el centro de comandos y en la fuente activa. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
