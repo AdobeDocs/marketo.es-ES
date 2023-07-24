@@ -2,10 +2,10 @@
 description: 'Notas de la versión actuales, Documentos de Marketo: documentación del producto'
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 8%
+source-wordcount: '713'
+ht-degree: 7%
 
 ---
 
@@ -45,7 +45,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 </br>
 
-* **Origen del chat para el Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
+* **Origen del chat para Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
 
 <table> 
   <tr> 
@@ -172,3 +172,5 @@ Hay dos mejoras disponibles en Personalización en tiempo real de Marketo Engage
 >Asociarse con su equipo de desarrollo web para determinar si su sitio está cargando su propia biblioteca de consultas JQ o utilizando la versión predeterminada cargada desde la etiqueta JavaScript de personalización web RTP.
 
 * **Actualización a Google Analytics 4**: Marketo era compatible anteriormente con Universal Analytics, que dejará de registrar datos el 1 de julio de 2023. Los usuarios de RTP deberán seguir el proceso de migración en su panel de Google Analytics para completar la asistencia a la integración de Google Analytics 4 en RTP. En adelante, los usuarios tendrán una etiqueta alfanumérica única (ubicada dentro de la variable `<head>` del html) en sus páginas de aterrizaje, lo que permite a Marketo enviar datos a los Google Analytics.
+
+* **_Seminario web sobre lanzamiento de productos_**: Únase a nosotros el 6 de septiembre de 2023, a las 9:00 AM PT / 12:00 PM ET para [seminario web en directo](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} alojado por nuestro equipo de productos, donde verá cómo utilizar todas las innovaciones de productos más recientes.
