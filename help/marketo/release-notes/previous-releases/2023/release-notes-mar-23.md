@@ -94,7 +94,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 </br>
 
-* **Informe de participación en el diálogo para el Dynamic Chat**: Proporciona una vista de la participación del diálogo a lo largo del tiempo, incluida la capacidad de filtrar por tipo de visitante y tipo de participación para proporcionar una mejor visibilidad a los usuarios.
+* **Informe de participación en el diálogo para Dynamic Chat**: Proporciona una vista de la participación del diálogo a lo largo del tiempo, incluida la capacidad de filtrar por tipo de visitante y tipo de participación para proporcionar una mejor visibilidad a los usuarios.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Roles y permisos de Dynamic Chat**: introduce funciones y permisos para el Dynamic Chat, lo que permite a los administradores limitar la visibilidad y el uso de diferentes áreas de la aplicación a determinados tipos de usuarios.
+* **Roles y permisos de Dynamic Chat**: introduce funciones y permisos en Dynamic Chat, lo que permite a los administradores limitar la visibilidad y el uso de diferentes áreas de la aplicación a determinados tipos de usuarios.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Canal de chat como programa para Dynamic Chat**: Crea un nuevo canal de programa de &quot;chat&quot; para rastrear la progresión del programa para las personas adquiridas por el Dynamic Chat. Por ejemplo, un experto en marketing tiene un programa asociado con un cuadro de diálogo de Dynamic Chat para capturar nuevos posibles clientes. Ahora pueden asignar ese programa al canal de chat para que puedan rastrear cuándo los posibles clientes son miembros del programa y cuándo han tenido éxito.
+* **Canal de chat como programa para Dynamic Chat**: Crea un nuevo canal de programa de &quot;chat&quot; para rastrear la progresión del programa para las personas adquiridas por el Dynamic Chat. Por ejemplo, un experto en marketing tiene un programa asociado a un cuadro de diálogo de Dynamic Chat para capturar nuevos posibles clientes. Ahora pueden asignar ese programa al canal de chat para que puedan rastrear cuándo los posibles clientes son miembros del programa y cuándo han tenido éxito.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Atributos deducidos para el Dynamic Chat**: garantiza que los datos de IP deducidos (ciudad, estado, país, etc.) se escribe en el registro de persona de las nuevas personas adquiridas por Dynamic Chat.
+* **Atributos deducidos para el Dynamic Chat**: garantiza que los datos de IP deducidos (ciudad, estado, país, etc.) se escribe en el registro de persona de las nuevas personas adquiridas por el Dynamic Chat.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Compatibilidad adicional con idiomas para Dynamic Chat**: Ahora puede elegir entre nueve idiomas compatibles para mostrar contenido de Dynamic Chat estático en.
+* **Compatibilidad de idioma adicional para Dynamic Chat**: Ahora puede elegir entre nueve idiomas compatibles para mostrar contenido de Dynamic Chat estático en.
 
 <table> 
   <tr> 

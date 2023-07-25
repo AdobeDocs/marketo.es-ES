@@ -46,7 +46,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 </br>
 
-* **Origen del chat para el Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
+* **Origen del chat para Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
 
 <table> 
   <tr> 

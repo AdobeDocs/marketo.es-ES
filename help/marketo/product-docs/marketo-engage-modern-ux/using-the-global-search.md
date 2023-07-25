@@ -48,7 +48,7 @@ Se le redirige directamente al correo electrónico deseado.
   </tr>
   <tr>
    <td>2</td> 
-   <td>Ruta (rutas de exploración) al elemento o destino respectivo</td> 
+   <td>Ruta (rutas de exploración) al elemento o destino correspondiente</td> 
   </tr>
   <tr>
    <td>3</td> 

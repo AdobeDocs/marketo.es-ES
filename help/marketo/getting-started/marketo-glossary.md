@@ -308,7 +308,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Correo electrónico</strong></td> 
-   <td colspan="1">En Marketo, una de las <strong>activos</strong> disponible para su uso para comunicarse con sus clientes. Los correos electrónicos pueden ser de HTML (gráficos, fuentes personalizadas, etc.) o de solo texto (mensajes de texto sin formato especial). Solo los correos electrónicos del HTML pueden registrar "aperturas".</td> 
+   <td colspan="1">En Marketo, una de las <strong>activos</strong> disponible para su uso para comunicarse con sus clientes. Los correos electrónicos pueden ser de HTML (gráficos, fuentes personalizadas, etc.) o de texto solamente (mensajes de texto sin formato especial). Solo los correos electrónicos del HTML pueden registrar "aperturas".</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Email no válido</strong></td> 

@@ -70,7 +70,7 @@ Incluya hasta cinco direcciones CC por destinatario en los correos electrónicos
 
 * **Reinventé Mi Marketo**: personalice su experiencia añadiendo widgets que proporcionen información crítica, notificaciones y vínculos a las áreas visitadas con más frecuencia.
 
-* **Design Studio Vistas de lista y páginas de detalles**: disfrute de un mayor nivel de organización y precisión con vistas de listas de correos electrónicos, páginas de aterrizaje y formularios que se pueden filtrar y buscar. Las páginas de detalles del recurso proporcionan información clave sobre cada recurso, incluidos los programas en los que se utiliza el recurso, el número de fragmentos que se utilizan, etc.
+* **Design Studio Vistas de lista y páginas de detalles**: disfrute de un mayor nivel de organización y precisión con vistas de lista de correos electrónicos, páginas de aterrizaje y formularios que se pueden filtrar y buscar. Las páginas de detalles del recurso proporcionan información clave sobre cada recurso, incluidos los programas en los que se utiliza el recurso, el número de fragmentos que se utilizan, etc.
 
 * **Búsqueda global**: Marketo ahora ofrece una función de búsqueda global más rápida y sólida en toda la plataforma. Las consultas de búsqueda ahora se ejecutan en todos los espacios de trabajo accesibles y pueden buscar recursos (activos y archivados), etiquetas, campañas y programas. Los resultados de búsqueda se proporcionan mediante una superposición y cada resultado incluye su pista de ubicación de archivos para especificar dónde se encuentra el recurso.
 

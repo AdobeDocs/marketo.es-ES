@@ -23,7 +23,7 @@ Conecte Marketo con su cuenta de Box para copiar fácilmente archivos en el estu
 
 ## Complemento de Gmail {#gmail-plugin}
 
-Si utiliza Marketo Sales Insight, así como Gmail, puede instalar nuestro nuevo complemento de Gmail a través de la tienda de Chrome. El complemento le permite registrar mensajes con Marketo, cargar plantillas de correo electrónico de Marketo y enviar mensajes con funciones de seguimiento de Marketo.
+Si utiliza Marketo Sales Insight, así como Gmail, puede instalar nuestro nuevo complemento de Gmail a través de la tienda de Chrome. El complemento le permite registrar mensajes con Marketo, cargar plantillas de correo electrónico de Marketo y enviar mensajes con las funciones de seguimiento de Marketo.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 

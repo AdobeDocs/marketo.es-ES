@@ -21,7 +21,7 @@ Puede enviar mensajes SMS a las personas de sus listas de Vibes y utilizar la ac
 
 >[!NOTE]
 >
->Para completar esta configuración, necesita permisos de administración de Marketo y una cuenta activa de Vibes. Las credenciales solicitadas en el paso 4 a continuación son las credenciales de su cuenta de Vibes.
+>Para completar esta configuración, necesita permisos de administrador de Marketo y una cuenta activa de Vibes. Las credenciales solicitadas en el paso 4 a continuación son las credenciales de su cuenta de Vibes.
 
 1. En Mi Marketo, haga clic en **Administrador** y luego **LaunchPoint**.
 

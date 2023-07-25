@@ -35,7 +35,7 @@ Sí. De forma predeterminada, los correos electrónicos operativos están oculto
 
 ## ¿Insights de correo electrónico captura los pasos recurrentes del flujo de correo electrónico de Smart Campaign programados o ejecutados de nuevo? {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 
-Sí y No. Con la versión inicial de las Perspectivas de correo electrónico, todos los eventos de correo electrónico se capturan y son accesibles para cualquier campaña inteligente recurrente programada o que se vuelva a ejecutar. Pero no podrá diferenciar entre diferentes ejecuciones de esa campaña inteligente. En la próxima versión añadiremos la compatibilidad para capturar la información de ejecución de la campaña inteligente para los eventos Open, Click y Unsubscribe con el fin de diferenciar.
+Sí y No. Con la versión inicial de las Perspectivas de correo electrónico, todos los eventos de correo electrónico se capturan y son accesibles para cualquier campaña inteligente recurrente programada o que se vuelva a ejecutar. Pero no podrá diferenciar entre diferentes ejecuciones de esa campaña inteligente. En la próxima versión añadiremos compatibilidad para capturar la información de ejecución de campañas inteligentes para los eventos Open, Click y Unsubscribe con el fin de diferenciar.
 
 ## ¿Por qué muchas métricas muestran cero cuando filtro por tipo de dispositivo o sistema operativo del dispositivo? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 

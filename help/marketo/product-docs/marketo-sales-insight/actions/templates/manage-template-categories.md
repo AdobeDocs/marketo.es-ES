@@ -1,12 +1,13 @@
 ---
-description: 'Administrar categorías de plantilla: documentos de Marketo: documentación del producto'
+description: 'Administración de categorías de plantillas: documentos de Marketo, documentación del producto'
 title: Administrar categorías de plantilla
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -15,11 +16,11 @@ ht-degree: 0%
 
 ## Crear una categoría {#create-a-category}
 
-1. Haga clic en el **Plantillas** pestaña .
+1. Haga clic en **Plantillas** pestaña.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Haga clic en el **+** junto a **Categorías**.
+1. Haga clic en **+** junto a **Categorías**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -27,13 +28,13 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-3.png)
 
-## Cambiar el nombre de una categoría de plantilla {#rename-a-template-category}
+## Cambiar nombre de categoría de plantilla {#rename-a-template-category}
 
-1. Haga clic en el **Plantillas** pestaña .
+1. Haga clic en **Plantillas** pestaña.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Pase el ratón sobre la plantilla a la que quiera cambiar el nombre y haga clic en los datos (tres puntos). Select **Cambiar nombre**.
+1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccionar **Cambiar nombre**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -43,18 +44,18 @@ ht-degree: 0%
 
 ## Eliminar una categoría de plantilla {#delete-a-template-category}
 
-1. Haga clic en el **Plantillas** pestaña .
+1. Haga clic en **Plantillas** pestaña.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Pase el ratón sobre la plantilla a la que quiera cambiar el nombre y haga clic en los datos (tres puntos). Select **Eliminar**.
+1. Pase el ratón sobre la plantilla cuyo nombre quiera cambiar y haga clic en el punto (tres puntos). Seleccionar **Eliminar**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Clic **Eliminar** para confirmar.
 
    ![](assets/manage-template-categories-9.png)
 
 >[!NOTE]
 >
->Las categorías no se pueden eliminar si aún tienen plantillas en ellas. Mover o eliminar todas las plantillas antes de eliminar una categoría.
+>Las categorías no se pueden eliminar si contienen plantillas. Mueva o elimine todas las plantillas antes de eliminar una categoría.
