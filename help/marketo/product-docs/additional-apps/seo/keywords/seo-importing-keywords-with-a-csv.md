@@ -3,7 +3,8 @@ unique-page-id: 2949206
 description: 'SEO: importación de palabras clave con un CSV - Documentos de Marketo - Documentación del producto'
 title: 'SEO: importación de palabras clave con un CSV'
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -50,4 +51,3 @@ ht-degree: 0%
    >
    >* [Explicación de las palabras clave (vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
    >* [Agregar o quitar palabras clave de una lista](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-

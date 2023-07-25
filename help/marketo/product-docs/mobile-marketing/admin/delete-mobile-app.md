@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7512442
-description: 'Eliminar aplicación móvil: Documentos de Marketo: Documentación del producto'
+description: 'Eliminar aplicación móvil: Documentos de Marketo: documentación del producto'
 title: Eliminar aplicación móvil
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Eliminar aplicación móvil {#delete-mobile-app}
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Select **Aplicaciones móviles**.
+1. Seleccionar **Aplicaciones móviles**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Haga clic en **Acciones de aplicación móvil** y seleccione **Eliminar aplicación**.
+1. Clic **Acciones de aplicación móvil** y seleccione **Eliminar aplicación**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
@@ -32,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 
-¡Ta-da! La notificación push ya no se puede enviar desde esta aplicación móvil.
+¡Ta-da! Ya no se pueden enviar notificaciones push desde esta aplicación móvil.

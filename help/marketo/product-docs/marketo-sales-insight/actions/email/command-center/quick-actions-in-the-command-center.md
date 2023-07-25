@@ -1,8 +1,9 @@
 ---
-description: Acciones rápidas en el Centro de comandos - Documentos de Marketo - Documentación del producto
+description: 'Acciones rápidas en el centro de comandos: documentos de Marketo, documentación del producto'
 title: Acciones rápidas en el centro de comandos
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 5%
@@ -11,18 +12,18 @@ ht-degree: 5%
 
 # Acciones rápidas en el centro de comandos {#quick-actions-in-the-command-center}
 
-Existen dos tipos de columnas de acción rápida en la cuadrícula de correo electrónico. Acciones de correo electrónico, que le permiten realizar acciones en el correo electrónico, y Acciones de seguimiento, que le permiten realizar acciones de participación con unos clics rápidos.
+Existen dos tipos de columnas de acción rápida en la cuadrícula de correo electrónico. Acciones de correo electrónico, que le permite realizar acciones en el correo electrónico, y Acciones de seguimiento, que le permite realizar acciones de participación con unos pocos clics rápidos.
 
 ## Acciones rápidas {#quick-actions}
 
-Las acciones rápidas de correo electrónico son dinámicas y se actualizan en función de las acciones más relevantes para el estado del correo electrónico que está viendo. Hay un máximo de dos acciones rápidas de correo electrónico visibles para cada estado de correo electrónico. Puede ver qué acciones rápidas de correo electrónico estarán disponibles para cada estado a continuación.
+Las acciones rápidas de correo electrónico son dinámicas y se actualizan según las acciones más relevantes para el estado del correo electrónico que esté viendo. Hay un máximo de dos acciones rápidas de correo electrónico visibles para cada estado de correo electrónico. Puede ver qué acciones rápidas de correo electrónico estarán disponibles para cada estado a continuación.
 
-**Entregado**
+**Entregados**
 
 | Estado | Descripción |
 |---|---|
-| Archivar | Añadirá el correo electrónico a la carpeta archivada y detendrá todas las vistas de deshabilitación y rastreo de clics para ese correo electrónico. |
-| Sin errores | Marcará el correo electrónico como correcto para incluirlo en los informes de análisis de plantillas. |
+| Archivar | Añadirá el correo electrónico a la carpeta archivada y detendrá todas las visualizaciones de deshabilitación y el rastreo de clics para ese correo electrónico. |
+| Sin errores | Marcará el correo electrónico como correcto para su inclusión en el análisis de plantillas. |
 
 **Archivado**
 
@@ -34,11 +35,11 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan en f
  <tbody> 
   <tr> 
    <td>Desarchivar</td> 
-   <td>Trasladará el correo electrónico de nuevo a la carpeta entregada y reactivará el rastreo de visualizaciones/clics.</td> 
+   <td>Devolverá el correo electrónico a la carpeta entregada y reactivará el seguimiento de visualizaciones/clics.</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -53,16 +54,16 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan en f
  <tbody> 
   <tr> 
    <td>Editar</td> 
-   <td>Se abrirá el correo electrónico en la ventana de composición que se va a editar.</td> 
+   <td>Abrirá el correo electrónico en la ventana de composición que se va a editar.</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Fallido, rechazado y correo no deseado**
+**Fallo, rechazos y spam**
 
 <table> 
  <colgroup> 
@@ -72,11 +73,11 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan en f
  <tbody> 
   <tr> 
    <td>Reintentar envío</td> 
-   <td>Intentará volver a enviar el correo electrónico inmediatamente.</td> 
+   <td>Intentará reenviar el correo electrónico inmediatamente.</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td><p>Eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
+   <td><p>Se eliminará el correo electrónico.<br><strong>Nota:</strong> Los correos electrónicos enviados como parte de una campaña no se pueden eliminar.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -87,7 +88,7 @@ Las acciones rápidas de correo electrónico son dinámicas y se actualizan en f
 
 | Función | Descripción |
 |---|---|
-| Enviar correo electrónico de seguimiento | Abre la ventana de composición con el cuerpo de correo electrónico en línea seleccionado anexado y listo para enviarse al destinatario. |
-| Realizar llamada | Abre el teléfono de ventas para realizar una llamada al destinatario del correo electrónico. |
+| Enviar correo electrónico de seguimiento | Abre la ventana de composición con el cuerpo de correo electrónico en línea seleccionado anexado y listo para enviarlo al destinatario. |
+| Hacer llamada | Abre el teléfono de ventas para llamar al destinatario del correo electrónico. |
 | Enviar InMail | Redirige a LinkedIn para enviar a la persona un mensaje de InMail. |
-| Crear tarea | Abre la ventana emergente crear tarea para crear una tarea de recordatorio. |
+| Crear tarea | Abre la ventana emergente Crear tarea para crear una tarea de recordatorio. |

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437562
-description: 'Plantilla 11C: Documentos de Marketo: Documentación del producto'
+description: Plantilla 11C - Documentos de Marketo - Documentación del producto
 title: Plantilla 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -19,9 +20,9 @@ Haga clic con el botón derecho para [descargar plantilla 11C](https://experienc
 Esta plantilla incluye el siguiente contenido:
 
 * Un encabezado (opcional)
-* Sección principal con imagen a pantalla completa, encabezado, vídeo y texto en cuerpo
-* Cuatro secciones de cuerpo (opcional)
-* Un pie de página con formulario (opcional)
+* Una sección principal con imagen a pantalla completa, encabezado, vídeo y texto independiente
+* Cuatro secciones del cuerpo (opcional)
+* Pie de página con formulario (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**
 

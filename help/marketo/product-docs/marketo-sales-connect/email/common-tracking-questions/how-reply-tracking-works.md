@@ -1,23 +1,24 @@
 ---
 unique-page-id: 14352482
-description: Cómo funciona el seguimiento de respuestas - Documentos de Marketo - Documentación del producto
-title: Cómo funciona el seguimiento de respuestas
+description: Funcionamiento del seguimiento de respuestas - Documentos de Marketo - Documentación del producto
+title: Funcionamiento del seguimiento de respuestas
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Cómo funciona el seguimiento de respuestas {#how-reply-tracking-works}
+# Funcionamiento del seguimiento de respuestas {#how-reply-tracking-works}
 
-El seguimiento de respuestas se realiza mirando un ID de mensaje que está en cada correo electrónico que envía. Cada correo electrónico contiene un ID de mensaje único que nos permite tener uno de los mejores seguimientos de respuestas.
+El seguimiento de respuestas se realiza mirando un ID de mensaje que aparece en cada correo electrónico que envía. Cada correo electrónico contiene un ID de mensaje único que nos permite tener algunos de los mejores resultados de seguimiento de respuestas.
 
 >[!PREREQUISITES]
 >
->**Conexión con el servidor de correo electrónico:** Sales Connect debe estar conectado a su bandeja de entrada para saber cuándo ha llegado una nueva respuesta. Necesitará tener su cuenta de Conexión de Ventas [conectado a Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si utiliza Outlook, tendremos que integrarlo con su [servidor de intercambio](https://toutapp.com/next#settings/exchange_settings).
+>**Conexión con el servidor de correo electrónico:** Sales Connect debe estar conectado con su bandeja de entrada para que podamos saber cuándo ha llegado una nueva respuesta. Necesitarás tener tu cuenta de Sales Connect [conectado a Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Si utiliza Outlook, tendremos que integrarlo con su [servidor exchange](https://toutapp.com/next#settings/exchange_settings).
 
-Si Sales Connect no puede rastrear la respuesta del cliente potencial a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas o en el registro de la respuesta a Salesforce.  ¿Qué queremos decir con cualquier dirección de correo electrónico que pueda responder?
+Si Sales Connect no puede rastrear la respuesta de su posible cliente a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas ni registrar esa respuesta en Salesforce.  ¿Qué significa que cualquier dirección de correo electrónico puede responder?
 
-Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y responde con kevinf@flynnsarcade.com, podemos rastrear la respuesta. Además, si envía un correo electrónico a flynn@flynnsarcade.com y a CC alan@encom.com, y Alan le reescribe, también detectará la respuesta y finalizará la campaña.
+Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y él responde con kevinf@flynnsarcade.com, podemos rastrear la respuesta. Además, si envías un correo electrónico a flynn@flynnsarcade.com y CC alan@encom.com, y Alan te devuelve una respuesta, también detectará la respuesta y finalizará la campaña.

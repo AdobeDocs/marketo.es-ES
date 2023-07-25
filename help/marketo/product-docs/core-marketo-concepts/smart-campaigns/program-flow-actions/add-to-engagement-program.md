@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147011
-description: 'Agregar al programa de participación: Marketo Docs: documentación del producto'
+description: Agregar al programa de participación - Documentos de Marketo - Documentación del producto
 title: Agregar al programa de participación
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 14%
@@ -12,15 +13,15 @@ ht-degree: 14%
 
 # Agregar al programa de participación {#add-to-engagement-program}
 
-## Resumen {#overview}
+## Información general {#overview}
 
-La campaña inteligente que genere con este paso de flujo será la puerta de entrada a su programa de participación.
+La campaña inteligente que cree con este paso de flujo será la puerta de entrada a su programa de participación.
 
 ![](assets/image2014-9-22-14-3a47-3a32.png)
 
 ## Uso {#usage}
 
-1. Seleccione el programa de participación al que desee agregar la gente.
+1. Seleccione el programa de participación al que desee agregar a las personas.
 
    ![](assets/image2014-9-22-14-3a47-3a36.png)
 
@@ -30,4 +31,4 @@ La campaña inteligente que genere con este paso de flujo será la puerta de ent
 
    >[!NOTE]
    >
-   >No se puede agregar una persona a varios flujos dentro del mismo programa.
+   >No se puede agregar una persona a varias secuencias dentro del mismo programa.

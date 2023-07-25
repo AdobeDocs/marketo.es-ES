@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11379928
-description: Detalles del cambio en pista de auditoría - Documentos de Marketo - Documentación del producto
+description: Cambiar detalles en pista de auditoría - Documentos de Marketo - Documentación del producto
 title: Cambiar detalles en pista de auditoría
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 12%
@@ -12,7 +13,7 @@ ht-degree: 12%
 
 # Cambiar detalles en pista de auditoría {#change-details-in-audit-trail}
 
-La pista de auditoría ofrece una buena cantidad de información sobre quién está haciendo qué en su suscripción a Marketo. Aquí están los detalles.
+La pista de auditoría ofrece una buena perspectiva sobre quién hace qué en su suscripción a Marketo. Aquí están los detalles.
 
 ## Seguimiento de auditoría de recurso {#asset-audit-trail}
 
@@ -24,9 +25,9 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Recurso/Tipo</th> 
-   <th colspan="1">Accion</th> 
-   <th colspan="1">Detalles del cambio</th> 
+   <th colspan="1">Recurso/tipo</th> 
+   <th colspan="1">Acción</th> 
+   <th colspan="1">Cambiar detalles</th> 
   </tr> 
   <tr> 
    <td rowspan="15"><strong>Programa predeterminado</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
@@ -39,7 +40,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña" o "programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
+   <td>Clonado en el "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña" o "programa de participación" <br>Nombre de programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -50,57 +51,57 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
    <td>Nuevo canal "nuevo nombre de canal" Canal antiguo "nombre de canal antiguo" </td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Agregue el valor "token name" del token "token value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Agregar valor de "nombre de token" de token "valor de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Editar token "token name" nuevo valor "new value" antiguo valor "old value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Editar token "nombre de token" nuevo valor "nuevo valor" antiguo valor "antiguo valor"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
+   <td>Modificar token de programa</td> 
    <td>Eliminar token "nombre de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Añadir "nombre de comportamiento" de comportamiento de Analytics</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Añada el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td><p>Editar el comportamiento de Analytics "nombre de comportamiento"</p><p>Comportamiento antiguo "nombre de comportamiento"</p></td> 
+   <td>Modificar configuración del programa</td> 
+   <td><p>Editar comportamiento de análisis "nombre de comportamiento"</p><p>"nombre de comportamiento" del comportamiento antiguo</p></td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Eliminar el comportamiento de Analytics "nombre de comportamiento"</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Eliminar el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Agregar valor de costo de período "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Agregar valor de costo de período "#" mes de programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Editar coste de período Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Editar coste de periodo Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Eliminar coste del periodo. Valor "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Eliminar coste del período. Valor "#" mes del programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td rowspan="19"><strong>Email</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>Correo electrónico</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crear</td> 
    <td>Creado con la plantilla "nombre de plantilla" <br>o <br>Clonado desde "nombre de recurso"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha actualizado "De nombre" a "nuevo de nombre"</td> 
+   <td>Se ha actualizado "Del nombre" a "nuevo desde el nombre"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha actualizado "De correo electrónico" a "newemail@name.com"</td> 
+   <td>Se ha actualizado "Desde correo electrónico" a "newemail@name.com"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -112,7 +113,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha añadido la segmentación "segmentation_name"</td> 
+   <td>Se ha agregado la segmentación "segmentation_name"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -124,11 +125,11 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha eliminado un fragmento</td> 
+   <td>Fragmento eliminado</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Edita el correo electrónico roto de la plantilla "template_name" (NOTA: esto sucede hoy si edita el código directamente)</td> 
+   <td>Las ediciones de correo electrónico interrumpido de la plantilla "template_name" (NOTA: esto sucede hoy si edita el código directamente)</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -136,7 +137,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editar módulo <code>"<module name>" <attribute></code> a "value"</td> 
+   <td>Editar módulo <module name><attribute> a "valor"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -148,23 +149,23 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "estudio de diseño" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "name"</td> 
+   <td>Clonado en "Design studio" en la carpeta "foldername" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre del programa"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "Actividades de marketing" al "nombre del programa"</td> 
+   <td>Se ha movido a "Design studio" en la carpeta "folder name"<br>o<br>Se ha trasladado de "Actividades de marketing" a "Nombre del programa".</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td>Aprobar</td> 
+   <td>Anular la aprobación</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Borrador</td> 
-   <td>El correo electrónico se redactó porque se aprobó el fragmento "nombre de fragmento"<br>o<br>El correo electrónico se redactó porque se aprobó la plantilla "nombre de plantilla"</td> 
+   <td>El correo electrónico se ha redactado porque se ha aprobado el fragmento "nombre del fragmento"<br>o<br>El correo electrónico se ha redactado porque se ha aprobado la plantilla "nombre de plantilla"</td> 
   </tr> 
    <td rowspan="17">Programa de emails</td> 
    <td>Crear</td> 
@@ -176,7 +177,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña o programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
+   <td>Clonado en el "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña o programa de participación" <br>Nombre de programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -188,51 +189,51 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar canal</td> 
-   <td>Canal nuevo "canal nuevo" Canal antiguo "canal antiguo"</td> 
+   <td>Nuevo canal "nuevo canal" Canal antiguo "canal antiguo"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Agregue el valor "token name" del token "token value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Agregar valor de "nombre de token" de token "valor de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Editar token "token name" Nuevo valor "new value" antiguo valor "old value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Editar token "nombre de token" Nuevo valor "nuevo valor" Valor antiguo "valor antiguo"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
+   <td>Modificar token de programa</td> 
    <td>Eliminar token "nombre de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificación de la programación</td> 
-   <td>Establezca la programación para que comience en "fecha de inicio, hora de inicio" y termine en "fecha de finalización, hora de finalización".</td> 
+   <td>Modificar programación</td> 
+   <td>Establezca la programación para que comience en "fecha de inicio, hora de inicio" y termine en "fecha de finalización, hora de finalización"</td> 
   </tr> 
   <tr> 
-   <td>Modificación de la programación</td> 
-   <td>Se ha cambiado la programación a "nueva fecha, nueva hora".</td> 
+   <td>Modificar programación</td> 
+   <td>Se ha cambiado la programación a "nueva fecha, nueva hora"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Añadir "nombre de comportamiento" de comportamiento de Analytics</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Añada el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>Comportamiento antiguo "nombre de comportamiento"</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>"nombre de comportamiento" del comportamiento antiguo</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Eliminar el comportamiento de Analytics "nombre de comportamiento"</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Eliminar el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Agregar valor de costo de período "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Agregar valor de costo de período "#" mes de programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Editar coste de período Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Editar coste de periodo Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Eliminar coste del periodo. Valor "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Eliminar coste del período. Valor "#" mes del programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td rowspan="8">Plantilla de email</td> 
@@ -241,7 +242,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Descripción nueva "descripción nueva", descripción anterior "descripción anterior"</td> 
+   <td>Nueva descripción "nueva descripción", descripción anterior "descripción anterior"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -264,7 +265,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td>Aprobar</td> 
+   <td>Anular la aprobación</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
@@ -278,7 +279,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña o programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
+   <td>Clonado en el "nombre del espacio de trabajo" <br>Ubicación "Carpeta de campaña o programa de participación" <br>Nombre de programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -286,75 +287,75 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar canal</td> 
-   <td>Canal nuevo "canal nuevo" Canal antiguo "canal antiguo"</td> 
+   <td>Nuevo canal "nuevo canal" Canal antiguo "canal antiguo"</td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
-   <td><p>Agregar flujo</p><p>Nombre "name" Colocación "#"</p></td> 
+   <td>Modificar flujo de programa</td> 
+   <td><p>Agregar flujo</p><p>Nombre "name" Ubicación "#"</p></td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
-   <td><p>Editar flujo</p><p>Nombre de la nueva emisión: "nuevo nombre" Nombre de flujo antiguo: "nombre antiguo"</p><p>Nueva ubicación: Colocación antigua "new #" (nuevo #): "old #"</p></td> 
+   <td>Modificar flujo de programa</td> 
+   <td><p>Editar flujo</p><p>Nuevo nombre de la secuencia: "nuevo nombre" Nombre de la secuencia anterior: "antiguo nombre"</p><p>Nueva ubicación: "new #" Ubicación antigua: "old #"</p></td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
+   <td>Modificar flujo de programa</td> 
    <td>Eliminar nombre de flujo "name"</td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
-   <td>Añadir contenido<br>Nombre de flujo "nombre de flujo"<br>Escriba "Correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>Campaña inteligente "nombre de campaña inteligente"</td> 
+   <td>Modificar flujo de programa</td> 
+   <td>Añadir contenido<br>Nombre de flujo "stream name"<br>Escriba "Correo electrónico" o "Programa"<br>Nombre "nombre de correo electrónico" o "nombre de programa"<br>"Nombre de campaña inteligente" de la campaña inteligente</td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
-   <td>Activar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
+   <td>Modificar flujo de programa</td> 
+   <td>Activar contenido<br>Nombre de flujo "nombre de flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
-   <td>Desactivar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
+   <td>Modificar flujo de programa</td> 
+   <td>Desactivar contenido<br>Nombre de flujo "nombre de flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
   </tr> 
   <tr> 
-   <td>Modificación del flujo del programa</td> 
-   <td>Eliminar contenido<br>Nombre del flujo "nombre del flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
+   <td>Modificar flujo de programa</td> 
+   <td>Eliminar contenido<br>Nombre de flujo "nombre de flujo"<br>Nombre de contenido "nombre de correo electrónico" o "nombre de programa"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Agregue el valor "token name" del token "token value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Agregar valor de "nombre de token" de token "valor de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Editar token "token name" Nuevo valor "new value" antiguo valor "old value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Editar token "nombre de token" Nuevo valor "nuevo valor" Valor antiguo "valor antiguo"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
+   <td>Modificar token de programa</td> 
    <td>Eliminar token "nombre de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Añadir "nombre de comportamiento" de comportamiento de Analytics</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Añada el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>Comportamiento antiguo "nombre de comportamiento"</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>"nombre de comportamiento" del comportamiento antiguo</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Eliminar el comportamiento de Analytics "nombre de comportamiento"</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Eliminar el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
+   <td>Modificar configuración del programa</td> 
    <td>Cambiar el estado del programa. Nuevo valor "on/off" Valor antiguo "off/on"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Agregar valor de costo de período "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Agregar valor de costo de período "#" mes de programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Editar coste de período Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Editar coste de periodo Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Eliminar coste del periodo. Valor "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Eliminar coste del período. Valor "#" mes del programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -375,59 +376,59 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en el espacio de trabajo "nombre del espacio de trabajo" <br>Ubicación "carpeta de campaña" o "programa de participación" <br>Nombre del programa clonado "nuevo nombre"</td> 
+   <td>Clonado en el "nombre del espacio de trabajo" <br>Ubicación "carpeta de campaña" o "programa de participación" <br>Nombre de programa clonado "nuevo nombre"</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
-   <td>Canal nuevo "canal nuevo" Canal antiguo "canal antiguo" </td> 
+   <td>Nuevo canal "nuevo canal" Canal antiguo "canal antiguo" </td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Agregue el valor "token name" del token "token value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Agregar valor de "nombre de token" de token "valor de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
-   <td>Editar token "token name" Nuevo valor "new value" antiguo valor "old value"</td> 
+   <td>Modificar token de programa</td> 
+   <td>Editar token "nombre de token" Nuevo valor "nuevo valor" Valor antiguo "valor antiguo"</td> 
   </tr> 
   <tr> 
-   <td>Modificar token del programa</td> 
+   <td>Modificar token de programa</td> 
    <td>Eliminar token "nombre de token"</td> 
   </tr> 
   <tr> 
-   <td>Modificación de la programación</td> 
-   <td>Establezca la programación para que comience en "fecha de inicio, hora de inicio" y termine en "fecha de finalización, hora de finalización".</td> 
+   <td>Modificar programación</td> 
+   <td>Establezca la programación para que comience en "fecha de inicio, hora de inicio" y termine en "fecha de finalización, hora de finalización"</td> 
   </tr> 
   <tr> 
-   <td>Modificación de la programación</td> 
-   <td>Se ha cambiado la programación a "nueva fecha, nueva hora".</td> 
+   <td>Modificar programación</td> 
+   <td>Se ha cambiado la programación a "nueva fecha, nueva hora"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Añadir "nombre de comportamiento" de comportamiento de Analytics</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Añada el comportamiento de análisis "nombre de comportamiento"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Editar el comportamiento de Analytics "nombre de comportamiento"<br>Comportamiento antiguo "nombre de comportamiento"</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Editar comportamiento de análisis "nombre de comportamiento"<br>"nombre de comportamiento" del comportamiento antiguo</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración del programa</td> 
-   <td>Eliminar "nombre de comportamiento" del comportamiento de Analytics</td> 
+   <td>Modificar configuración del programa</td> 
+   <td>Eliminar "nombre de comportamiento" del comportamiento de análisis</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Agregar valor de costo de período "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Agregar valor de costo de período "#" mes de programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Editar coste de período Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Editar coste de periodo Nuevo valor de coste "#", Nuevo mes de programa "aaaa-mm", Valor de coste antiguo "#", Mes de programa antiguo "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Eliminar coste del periodo. Valor "#" mes del programa "aaaa-mm"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Eliminar coste del período. Valor "#" mes del programa "aaaa-mm"</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Modificar la configuración del programa</td> 
-   <td colspan="1">Se ha añadido el asociado de eventos "partner_name"</td> 
+   <td colspan="1">Modificar configuración del programa</td> 
+   <td colspan="1">Se ha añadido el socio de evento "partner_name"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -448,7 +449,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Token modificado "token_name" nuevo valor "token_value" antiguo valor "old_token_value"</td> 
+   <td>Token editado "token_name" nuevo valor "token_value" antiguo valor "old_token_value"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -457,7 +458,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   <tr> 
    <td rowspan="8">Formularios</td> 
    <td>Crear</td> 
-   <td>Próximamente. Más información o Clonado desde "nombre de formulario"</td> 
+   <td>Próximamente. Más información o Clonado en "nombre del formulario"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -481,16 +482,16 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "estudio de diseño" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "name"</td> 
+   <td>Clonado en "Design studio" en la carpeta "foldername" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre del programa"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br>o<br>Se ha movido a "Actividades de marketing" al "nombre del programa"</td> 
+   <td>Se ha movido a "Design studio" en la carpeta "folder name"<br>o<br>Se ha trasladado de "Actividades de marketing" a "Nombre del programa".</td> 
   </tr> 
   <tr> 
    <td>Formularios</td> 
    <td>Aprobar</td> 
-   <td>Utilizado por # assets </td> 
+   <td>Utilizado por # recursos </td> 
   </tr> 
   <tr> 
    <td rowspan="9">Página de aterrizaje</td> 
@@ -507,23 +508,23 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Nueva descripción "descripción nueva" Anterior "descripción anterior"</td> 
+   <td>Nueva descripción "nueva descripción" Anterior "descripción anterior"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha añadido "Imagen", Se ha eliminado "Imagen", Se ha editado el componente de imagen</td> 
+   <td>Se Ha Añadido "Imagen", Se Ha Eliminado "Imagen", Se Ha Editado El Componente De Imagen</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha agregado "Texto enriquecido", Se ha eliminado "Texto enriquecido", Se ha editado el componente Texto enriquecido</td> 
+   <td>Se Ha Añadido "Texto Enriquecido", Se Ha Eliminado "Texto Enriquecido" Y Se Ha Editado El Componente De Texto Enriquecido</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "estudio de diseño" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "name"<br>URL de recursos clonados "www.url.com"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "name"<br>URL de recursos clonados "www.url.com"</td> 
+   <td>Clonado en "Design studio" en la carpeta "foldername"<br>Nombre de recurso clonado "name"<br>URL de recurso clonado "www.url.com"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre del programa" <br>Nombre de recurso clonado "name"<br>URL de recurso clonado "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Design studio" a la carpeta "nombre de carpeta"<br> o<br> Se ha movido a "Actividades de marketing" al "nombre del programa"</td> 
+   <td>Se ha movido a "Design studio" en la carpeta "folder name"<br> o<br> Se ha trasladado de "Actividades de marketing" a "Nombre del programa".</td> 
   </tr> 
   <tr> 
    <td>Aprobar</td> 
@@ -531,16 +532,16 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Borrador</td> 
-   <td>La página de aterrizaje se redactó porque se aprobó la plantilla "nombre de plantilla"</td> 
+   <td>La página de aterrizaje se ha redactado porque se ha aprobado la plantilla "nombre de plantilla"</td> 
   </tr> 
   <tr> 
-   <td>Aprobar</td> 
+   <td>Anular la aprobación</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Plantilla de la página de destino</td> 
+   <td rowspan="8">Plantilla de la página de aterrizaje</td> 
    <td>Crear</td> 
-   <td><p>En blanco<br>o<br>Clonado desde "nombre de recurso"</p></td> 
+   <td><p>Vacío<br>o<br>Clonado desde "nombre de recurso"</p></td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -552,7 +553,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Descripción nueva "descripción nueva" descripción anterior "descripción anterior"</td> 
+   <td>Nueva descripción "nueva descripción" descripción anterior "descripción anterior"</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
@@ -564,10 +565,10 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>Utilizado por # assets </td> 
+   <td>Utilizado por # recursos </td> 
   </tr> 
   <tr> 
-   <td>Aprobar</td> 
+   <td>Anular la aprobación</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
@@ -581,7 +582,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Base de datos de personas" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa"<br>Nombre de recurso clonado "name"</td> 
+   <td>Clonado en "Base de datos de personas" en la carpeta "foldername" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre del programa"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -610,7 +611,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Se ha movido a "Programas" en el programa "nombre del programa"<br>o<br>Se ha movido a "Carpetas" a la carpeta "nombre de carpeta"</td> 
+   <td>Se ha movido de "Programas" a "Nombre de programa".<br>o<br>Se ha movido a Carpetas en la carpeta Nombre de carpeta</td> 
   </tr> 
   <tr> 
    <td>Cambiar nombre</td> 
@@ -618,7 +619,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Nueva descripción "descripción nueva" Anterior "descripción anterior"</td> 
+   <td>Nueva descripción "nueva descripción" Anterior "descripción anterior"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -626,19 +627,19 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Programas" en "nombre de programa" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Carpeta" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "name"</td> 
+   <td>Clonado en "Programas" en el programa "nombre del programa" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Carpeta" en la carpeta "nombre de carpeta"<br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración de listas inteligentes</td> 
-   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de filtros y déclencheur</td> 
+   <td>Modificar configuración de lista inteligente</td> 
+   <td>Muestra la instantánea del estado actual, incluidos los nombres y valores de los filtros y déclencheur</td> 
   </tr> 
   <tr> 
-   <td>Modificación de la programación de campañas</td> 
+   <td>Modificar programación de campaña</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td>Modificación de la acción del paso de flujo</td> 
-   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de cada paso de flujo</td> 
+   <td>Modificar acción de paso de flujo</td> 
+   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de cada paso del flujo</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Lista inteligente</td> 
@@ -655,7 +656,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Nueva descripción "descripción nueva" Anterior "descripción anterior"</td> 
+   <td>Nueva descripción "nueva descripción" Anterior "descripción anterior"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -663,20 +664,20 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado en "Base de datos de personas" en la carpeta "nombre de carpeta" <br>Nombre de recurso clonado "name"<br>o<br>Clonado para "Actividades de marketing" en el programa "nombre de programa" <br>Nombre de recurso clonado "name"</td> 
+   <td>Clonado en "Base de datos de personas" en la carpeta "foldername" <br>Nombre de recurso clonado "name"<br>o<br>Clonado en "Actividades de marketing" en el programa "nombre del programa" <br>Nombre de recurso clonado "name"</td> 
   </tr> 
   <tr> 
-   <td>Modificar la configuración de listas inteligentes</td> 
-   <td>Muestra una instantánea del estado actual, incluidos los nombres y valores de filtros y déclencheur </td> 
+   <td>Modificar configuración de lista inteligente</td> 
+   <td>Muestra la instantánea del estado actual, incluidos los nombres y valores de los filtros y déclencheur </td> 
   </tr> 
   <tr> 
    <td rowspan="11">Fragmento</td> 
    <td>Crear</td> 
-   <td><p>En blanco<br>o<br>Clonado desde "nombre de fragmento"</p></td> 
+   <td><p>Vacío<br>o<br>Clonado desde "nombre de fragmento"</p></td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha añadido la segmentación "segmentation_name"</td> 
+   <td>Se ha agregado la segmentación "segmentation_name"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -696,7 +697,7 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Nueva descripción "descripción nueva" Anterior "descripción anterior"</td> 
+   <td>Nueva descripción "nueva descripción" Anterior "descripción anterior"</td> 
   </tr> 
   <tr> 
    <td>Clonar</td> 
@@ -704,20 +705,20 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Aprobar</td> 
-   <td>Utilizado por # assets</td> 
+   <td>Utilizado por # recursos</td> 
   </tr> 
   <tr> 
    <td>Aprobar sin borrador</td> 
    <td>N/A</td> 
   </tr> 
   <tr> 
-   <td>Aprobar</td> 
+   <td>Anular la aprobación</td> 
    <td><p>N/A</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Pista de auditoría del administrador {#admin-audit-trail}
+## Registro de auditoría de administración {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -728,13 +729,13 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
  <tbody> 
   <tr> 
    <th>Área de administración</th> 
-   <th>Accion</th> 
-   <th>Detalles del cambio</th> 
+   <th>Acción</th> 
+   <th>Cambiar detalles</th> 
   </tr> 
   <tr> 
    <td>Restricciones de IP</td> 
    <td>Editar</td> 
-   <td>Se han editado las restricciones de IP a lo siguiente: "bloque" permitido/bloqueado, dirección IP "#", restricciones IP deshabilitadas ""</td> 
+   <td>Se han editado las restricciones de IP a lo siguiente: permitido/bloqueado "block", dirección IP "#", restricciones de IP desactivadas ""</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Partición</td> 
@@ -746,14 +747,14 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
    <td>partición "nombre de partición" eliminada</td> 
   </tr> 
   <tr> 
-   <td>Seguridad de la contraseña</td> 
+   <td>Seguridad de contraseña</td> 
    <td>Editar</td> 
-   <td>La seguridad de la contraseña cambió a la plantilla: Seguridad estándar, longitud mínima: #, parte inferior superior: #, número: #, mayúsculas y minúsculas mezcladas: # , caducidad : #, tiempo de espera de sesión: #</td> 
+   <td>La seguridad de la contraseña se ha cambiado a la plantilla: Seguridad estándar, longitud mínima: #, parte inferior-superior: #, número: #, mayúsculas y minúsculas mixtas: #, caducidad: #, tiempo de espera de sesión: #</td> 
   </tr> 
   <tr> 
    <td rowspan="3">Rol<br><br></td> 
    <td>Crear</td> 
-   <td>Función creada con "nombre de función" (NOTA: si necesita detalles sobre permisos agregados, póngase en contacto con el servicio de asistencia técnica): <br>muestra una instantánea de los permisos asignados a la función</td> 
+   <td>Función creada con "nombre de función" (NOTA: si necesita añadir detalles sobre los permisos, póngase en contacto con el servicio de asistencia) - <br>muestra una instantánea de los permisos asignados a la función</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
@@ -761,50 +762,50 @@ La pista de auditoría ofrece una buena cantidad de información sobre quién es
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Función editada de "nombre anterior" a "nuevo nombre" (NOTA: si necesita información detallada sobre los permisos editados, póngase en contacto con el servicio de asistencia técnica): <br>muestra una instantánea de los permisos asignados a la función<br></td> 
+   <td>Función editada de "nombre anterior" a "nombre nuevo" (NOTA: si necesita editar los detalles sobre los permisos, póngase en contacto con el servicio de asistencia) - <br>muestra una instantánea de los permisos asignados a la función<br></td> 
   </tr> 
   <tr> 
    <td>Informe de lista inteligente</td> 
    <td>Editar</td> 
-   <td>Se editó SmarList para iniciar sesión y descargarla: "true o false"</td> 
+   <td>SmartList editado para iniciar sesión y descargar: "true o false"</td> 
   </tr> 
   <tr> 
    <td rowspan="7">Usuario<br><br><br><br></td> 
-   <td>Crear (invitar)</td> 
-   <td>Usuario invitado con: Correo electrónico "dirección de correo electrónico", Nombre "nombre y apellido", Acceso caduca "en blanco o con una fecha", Usuario de API "verdadero o falso" - <br>muestra una instantánea de las funciones y espacios de trabajo asignados al usuario</td> 
+   <td>Crear (invitación)</td> 
+   <td>Usuario invitado con: Correo electrónico "dirección de correo electrónico", Nombre "nombre y apellido", Acceso caduca "en blanco o con fecha", Usuario de API "true o false" - <br>muestra una instantánea de los roles y espacios de trabajo asignados al usuario</td> 
   </tr> 
   <tr> 
    <td colspan="1">Eliminar</td> 
-   <td colspan="1">usuario "nombre de usuario" eliminado</td> 
+   <td colspan="1">Usuario de "nombre de usuario" eliminado</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Se ha cambiado el nombre del usuario de "nombre antiguo" a "nuevo nombre" por correo electrónico: "email", apiUser: El acceso "true o false" caduca: "en blanco o con fecha"</td> 
+   <td>Se ha cambiado el nombre del usuario de "nombre antiguo" a "nombre nuevo" con el correo electrónico: "correo electrónico", apiUser: "true o false" el acceso caduca: "en blanco o con una fecha"</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>El usuario se ha editado para el correo electrónico: "email", apiUser: "true o false", el acceso caduca: "en blanco o con fecha"</td> 
+   <td>Se ha editado el usuario para el correo electrónico: "email", apiUser: "true o false", el acceso caduca: "en blanco o con una fecha"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Editar</td> 
-   <td colspan="1">Muestra una instantánea del estado actual, incluidas las funciones y los espacios de trabajo asignados al usuario</td> 
+   <td colspan="1">Muestra una instantánea del estado actual, incluidos los roles y espacios de trabajo asignados al usuario</td> 
   </tr> 
   <tr> 
    <td>Problema</td> 
-   <td>Licencia de calendario emitida por correo electrónico: nombre del "correo electrónico del usuario": "nombre del usuario"</td> 
+   <td>Licencia de calendario emitida para enviar por correo electrónico: nombre del "correo electrónico del usuario": "nombre del usuario"</td> 
   </tr> 
   <tr> 
    <td>Restablecer</td> 
-   <td>Restablecimiento de contraseña para el nombre "nombre" y el correo electrónico "correo electrónico"</td> 
+   <td>Se restableció la contraseña para el nombre "name" y el correo electrónico "email"</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Espacio de trabajo</td> 
    <td>Crear</td> 
-   <td>Espacio de trabajo creado con el nombre "nombre del espacio de trabajo"</td> 
+   <td>Workspace creado con el nombre "workspace name"</td> 
   </tr> 
   <tr> 
    <td>Eliminar</td> 
-   <td>"nombre de espacio de trabajo" espacio de trabajo eliminado</td> 
+   <td>espacio de trabajo "nombre de espacio de trabajo" eliminado</td> 
   </tr> 
  </tbody> 
 </table>

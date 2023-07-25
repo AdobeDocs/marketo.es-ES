@@ -1,47 +1,48 @@
 ---
 unique-page-id: 1147053
-description: 'Abortar una campaña inteligente: Documentos de Marketo: Documentación del producto'
-title: Abortar una campaña inteligente
+description: 'Anulación de una campaña inteligente: documentos de Marketo, documentación del producto'
+title: Anulación de una campaña inteligente
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Abortar una campaña inteligente {#abort-a-smart-campaign}
+# Anulación de una campaña inteligente {#abort-a-smart-campaign}
 
 >[!CAUTION]
 >
->Sólo para uso de emergencia
+>Solo para uso de emergencia
 
-A veces se lanza una campaña inteligente y se da cuenta inmediatamente de que fue un error. Aquí se explica cómo extraer el freno de emergencia y detener la campaña inteligente a mitad de camino.
+A veces se inicia una campaña inteligente y se da cuenta de inmediato de que fue un error. Así es como tirar del freno de emergencia y detener la campaña inteligente a mitad de carrera.
 
-1. Elija la campaña inteligente que desee y haga clic en la **Programación** pestaña .
+1. Seleccione la campaña inteligente que desee y haga clic en **Programación** pestaña.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Haga clic en el **Acciones de campaña** lista desplegable. Select **Anular campaña**.
+1. Haga clic en **Acciones de campaña** menú desplegable. Seleccionar **Anular campaña**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Haga clic en **Anular** para confirmar.
+1. Clic **Anular** para confirmar.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >El aborto no deshace los pasos que ya han finalizado, solo evita que ocurran más (por ejemplo: no se pueden enviar correos electrónicos).
+   >Anular no deshace los pasos que ya han finalizado, solo evita que se produzcan más (por ejemplo: los correos electrónicos no se pueden cancelar).
 
    ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
-   >Eche un vistazo a la **Resultados** de la campaña inteligente para ver qué acciones tuvieron lugar antes de la anulación. También encontrará una  [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con detalles adicionales.
+   >Eche un vistazo a la **Resultados** de la campaña inteligente para ver qué acciones tuvieron lugar antes de la anulación. También encontrará una  [notificación](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) con más detalles.
 
    >[!TIP]
    >
-   >¿Desea eliminar una persona del flujo en una campaña de déclencheur? Consulte [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >¿Desea eliminar a una persona del flujo en una campaña de déclencheur? Desproteger [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
-Compruebe siempre su trabajo, pero este freno de emergencia puede resultar útil en el futuro.
+Siempre revise su trabajo, pero este freno de emergencia puede ser útil en el futuro.

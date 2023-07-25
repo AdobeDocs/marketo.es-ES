@@ -3,7 +3,8 @@ unique-page-id: 11377408
 description: 'Añadir un dominio de promoción de otra marca con espacios de trabajo: documentación de Marketo'
 title: Añadir un dominio de marca adicional con espacios de trabajo
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

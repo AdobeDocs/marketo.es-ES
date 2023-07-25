@@ -3,7 +3,8 @@ unique-page-id: 8160090
 description: Plantilla 3D - Documentos de Marketo - Documentación del producto
 title: Plantilla 3D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -23,7 +24,7 @@ Esta plantilla incluye el siguiente contenido:
 
    * incluye texto a pantalla completa.
 
-* Tres secciones de cuerpo (opcional)
+* Tres secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

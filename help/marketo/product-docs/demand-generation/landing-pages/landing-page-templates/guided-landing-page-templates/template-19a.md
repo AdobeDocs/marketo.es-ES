@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092890
-description: 'Plantilla 19A: Documentos de Marketo: Documentación del producto'
+description: Plantilla 19A - Documentos de Marketo - Documentación del producto
 title: Plantilla 19A
 exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -20,10 +21,10 @@ Esta plantilla incluye el siguiente contenido:
 
 * Una sección principal
 
-   * incluye título a pantalla completa, texto a pantalla completa y botón
+   * incluye título de héroe, texto de héroe y botón
 
-* Cinco secciones de cuerpo (opcional)
-* Pie de página
+* Cinco secciones del cuerpo (opcional)
+* Pie
 
 **Haga clic con el botón derecho para descargar esta plantilla:**
 

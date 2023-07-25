@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2359620
-description: Cambiar estilo y color del botón de envío - Documentos de Marketo - Documentación del producto
-title: Cambiar estilo y color del botón de envío
+description: Cambiar el estilo y el color del botón de envío - Documentos de Marketo - Documentación del producto
+title: Cambiar el estilo y el color del botón Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-# Cambiar estilo y color del botón de envío {#change-submit-button-style-and-color}
+# Cambiar el estilo y el color del botón Enviar {#change-submit-button-style-and-color}
 
-Si encuentra el botón de envío estándar apagado, o si necesita algo más elegante, no dude en elegir entre una amplia gama de estilos de botón listos para usar.
+Si encuentra el botón de envío estándar aburrido o si necesita algo más elegante, no dude en elegir entre una amplia gama de estilos de botones listos para usar.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -22,13 +23,13 @@ Si encuentra el botón de envío estándar apagado, o si necesita algo más eleg
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Seleccione el **Submit** y haga clic en **Editar** junto a Estilo de botón.
+1. Seleccione el **Enviar** y haga clic en **Editar** junto a Estilo de botón.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
    >[!TIP]
    >
-   >¿Sabía que puede arrastrar el botón de envío a la izquierda o a la derecha para cambiar su posición? Es así de fácil. ¡Pruébelo!
+   >¿Sabía que puede arrastrar el botón de envío a la izquierda o a la derecha para cambiar su posición? Es así de fácil. ¡Pruébalo!
 
 1. Elija el estilo de botón que desee (desplácese hacia arriba/abajo).
 
@@ -42,15 +43,15 @@ Si encuentra el botón de envío estándar apagado, o si necesita algo más eleg
    >
    >También puede introducir el código de color manualmente.
 
-1. Haga clic en **Select**.
+1. Clic **Seleccionar**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
@@ -60,4 +61,4 @@ Si encuentra el botón de envío estándar apagado, o si necesita algo más eleg
 
    >[!NOTE]
    >
-   >Al igual que muchos elementos gráficos, el botón puede tener un aspecto diferente en función del explorador que utilice.
+   >Al igual que muchos elementos gráficos, el botón puede tener un aspecto diferente según el explorador que utilice.

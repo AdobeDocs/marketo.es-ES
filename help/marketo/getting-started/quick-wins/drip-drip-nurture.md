@@ -3,7 +3,8 @@ unique-page-id: 2359420
 description: Goteo, Goteo, Nutrición - Marketo Docs - Documentación del Producto
 title: Goteo, Goteo, Nutrición
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
 >
 >* [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 ## Paso 1: Crear un programa de participación {#step-create-an-engagement-program}
 
@@ -60,7 +60,7 @@ Puede crear fácilmente un sistema de nutrición avanzado y sofisticado en Marke
    >
    >¿No ve el editor de correo electrónico? Su navegador probablemente bloqueó la ventana. Habilitar ventanas emergentes de `app.marketo.com` en el explorador y haga clic en **[!UICONTROL Editar borrador]** en la barra de menú superior.
 
-1. Introduzca un asunto.
+1. Ingresar asunto.
 
    ![](assets/drip-drip-nurture-8.png)
 

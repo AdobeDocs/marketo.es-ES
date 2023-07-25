@@ -3,7 +3,8 @@ unique-page-id: 10093188
 description: 'Explicación de los objetos personalizados de Marketo: documentos de Marketo, documentación del producto'
 title: Explicación de los objetos personalizados de Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 0%
@@ -104,4 +105,3 @@ Consulte [Importar datos de objeto personalizados](/help/marketo/product-docs/ad
 >* [Agregar campos de objeto personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Editar y eliminar campos de objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Importar datos de objeto personalizados](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
-

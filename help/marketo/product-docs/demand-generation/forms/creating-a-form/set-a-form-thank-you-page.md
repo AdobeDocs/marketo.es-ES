@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2359573
-description: 'Configurar una página de agradecimiento de formulario: Documentos de Marketo: Documentación del producto'
-title: Establecer una página de agradecimiento de formulario
+description: Página de agradecimiento de Set a Form - Documentos de Marketo - Documentación del producto
+title: Establecer una página de agradecimiento para un formulario
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 1%
 
 ---
 
-# Establecer una página de agradecimiento de formulario {#set-a-form-thank-you-page}
+# Establecer una página de agradecimiento para un formulario {#set-a-form-thank-you-page}
 
-¿Qué sucede cuando alguien rellena un formulario? ¿A dónde se reenvían? Así es como configurarlo.
+¿Qué sucede cuando alguien rellena un formulario? ¿A dónde se reenvían? A continuación se muestra cómo configurarlo.
 
 ## Editar formulario {#edit-form}
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -28,21 +29,21 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Desplácese hacia abajo hasta el **Página de agradecimiento** para obtener más información.
+1. Desplácese hacia abajo hasta el **Página de agradecimiento** sección.
 
 ## Permanecer en la página {#stay-on-page}
 
 La opción Permanecer en la página mantiene al visitante en la misma página cuando se envía el formulario.
 
-1. Select **Permanecer en la página** para **Realizar el seguimiento con**.
+1. Seleccionar **Permanecer en la página** para **Realice Un Seguimiento Con**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
 ## URL externa {#external-url}
 
-La configuración de URL externa permite definir cualquier dirección URL como página de seguimiento. Una vez que el usuario haya enviado el formulario, se le dirigirá a la dirección URL especificada.
+La configuración URL externa permite definir cualquier dirección URL como página de seguimiento. Una vez que el usuario haya enviado el formulario, se le dirigirá a la dirección URL especificada.
 
-1. Select **Dirección URL externa** para **Realizar el seguimiento con**.
+1. Seleccionar **URL externa** para **Realice Un Seguimiento Con**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -52,13 +53,13 @@ La configuración de URL externa permite definir cualquier dirección URL como p
 
 >[!TIP]
 >
->La URL puede ser la de un archivo alojado en algún lugar - si lo hace, el botón &quot;Enviar&quot; se comportará como un botón &quot;Descargar&quot;.
+>La URL puede ser la de un archivo alojado en alguna parte: si lo hace, el botón &quot;Enviar&quot; se comportará como un botón &quot;Descargar&quot;.
 
 ## Página de aterrizaje {#landing-page}
 
-Como seguimiento, puede seleccionar cualquier página de aterrizaje de Marketo aprobada.
+Puede seleccionar cualquier página de aterrizaje de Marketo aprobada como seguimiento.
 
-1. Establezca **Realizar el seguimiento con** a **Página de aterrizaje**.
+1. Establecer **Realice Un Seguimiento Con** hasta **Página de aterrizaje**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -70,17 +71,17 @@ Como seguimiento, puede seleccionar cualquier página de aterrizaje de Marketo a
 
 Puede agregar varias opciones y crear opciones para mostrar a las personas diferentes seguimientos según sus respuestas.
 
-1. Haga clic en **Agregar opción**.
+1. Clic **Agregar opción**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
-1. Seleccione el campo cuya respuesta desea controlar.
+1. Seleccione el campo del que desea supervisar la respuesta.
 
    ![](assets/image2014-9-15-17-3a38-3a12.png)
 
    >[!TIP]
    >
-   >Solo los campos añadidos al formulario están disponibles para esta opción.
+   >Solo los campos agregados al formulario están disponibles para esto.
 
 1. Seleccione el operador lógico que desee.
 
@@ -90,7 +91,7 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Elija la página adecuada para **Realizar el seguimiento con** tipo .
+1. Elija la página adecuada para **Realice Un Seguimiento Con** escriba.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,25 +101,25 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
 
    >[!NOTE]
    >
-   >Debe haber creado/aprobado estas páginas de aterrizaje con antelación.
+   >Debe haber creado o aprobado estas páginas de aterrizaje con antelación.
 
-1. Haga clic en el **+** para añadir otra opción.
+1. Haga clic en **+** firme para agregar otra opción.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
    >[!NOTE]
    >
-   >Puede agregar varias opciones. Sin embargo, si agrega demasiados, puede afectar a la velocidad de carga del formulario, por lo que solo debe añadir lo que necesite.
+   >Puede agregar varias opciones. Sin embargo, si agrega demasiados, puede afectar a la velocidad de carga del formulario, por lo que solo tiene que agregar lo que necesite.
 
-1. Vaya y configure **Opción 2**.
+1. Vaya y configúrelo **Opción 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
    >[!TIP]
    >
-   >Siéntase libre de mezclar y hacer coincidir tipos de seguimiento. Puede utilizar una página de aterrizaje para elegir y una URL para otra.
+   >No dude en mezclar y hacer coincidir los tipos de seguimiento. Puede utilizar una página de aterrizaje para una opción y una dirección URL para otra.
 
-1. Establezca una página predeterminada para todas las demás respuestas.
+1. Establezca una Página predeterminada para todas las demás respuestas.
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
@@ -130,11 +131,11 @@ Puede agregar varias opciones y crear opciones para mostrar a las personas difer
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

@@ -1,88 +1,89 @@
 ---
 unique-page-id: 2951114
-description: 'Notas de la versión, junio de 2012: Documentos de Marketo: Documentación del producto'
+description: Notas de la versión, junio de 2012 - Documentos de Marketo - Documentación del producto
 title: Notas de la versión, junio de 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Junio de 2012 {#release-notes-june}
+# Notas de la versión: junio de 2012 {#release-notes-june}
 
-## Mejoras en la administración de posibles clientes de Marketo {#marketo-lead-management-enhancements}
+## Mejoras en Marketo Lead Management {#marketo-lead-management-enhancements}
 
 ### Cambiar nombre {#rename}
 
-Puede cambiar el nombre de las listas inteligentes, las listas estáticas y las campañas. Si utiliza estos recursos en filtros, déclencheur o flujos, el nombre también se actualizará automáticamente en ellos. Siempre ha podido cambiar el nombre de sus correos electrónicos, formularios y carpetas.
+Puede cambiar el nombre de las listas inteligentes, las listas estáticas y las campañas. Si utiliza estos recursos en filtros, déclencheur o flujos, el nombre también se actualizará automáticamente. Siempre ha podido cambiar el nombre de los correos electrónicos, formularios y carpetas.
 
-Y, además, mejoramos la introducción y visualización de texto descriptivo para los activos.
+Además, hemos mejorado la introducción y visualización del texto de descripción de los recursos.
 
 ![](assets/image2014-9-23-10-3a23-3a10.png)
 
 ## Importar asignación de campos {#import-field-mapping}
 
-¡Hemos hecho mucho más fácil la importación de una lista en Marketo! Durante el proceso de importación, puede asignar el nombre del campo Marketo al nombre del encabezado de columna del archivo de importación. Además, en Administración puede configurar nombres de alias asignados al nombre de campo en Marketo, asegurándose de que los usuarios seleccionen siempre el campo correcto.
+¡Hemos hecho que importar una lista en Marketo sea mucho más fácil! Durante el proceso de importación, se puede asignar el nombre del campo Marketo al nombre del encabezado de columna del archivo de importación. Además, en Administración puede configurar nombres de alias asignados al nombre del campo en Marketo, asegurándose de que los usuarios seleccionen el campo correcto cada vez.
 
-A medida que continúe importando y asignando campos, Marketo recordará y mostrará las asignaciones durante la importación, para facilitar su uso. Y para facilitar aún más la vida, puede hacer clic en el encabezado Valor de muestra para ver los diferentes valores que se rellenarían en el campo. Esto le ayuda a asegurarse de que asigna el campo correcto cada vez.
+A medida que siga importando y asignando campos, Marketo recordará y mostrará las asignaciones durante la importación para facilitar su uso. Y para facilitar aún más la vida, puede hacer clic en el encabezado Valor de muestra para ver los diferentes valores que se rellenarían en el campo. Esto ayuda a garantizar que asigne el campo correcto cada vez.
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
 ## Página de resumen para listas inteligentes y listas estáticas {#summary-page-for-smart-lists-and-static-lists}
 
-¿Alguna vez se ha preguntado dónde se están utilizando sus listas? ¿O quién creó la lista o la modificó por última vez? La nueva página de resumen disponible en listas inteligentes y listas estáticas le proporcionará estos detalles importantes.
+¿Alguna vez se ha preguntado dónde se están utilizando sus listas? ¿O quién creó la lista o quién la modificó por última vez? La nueva página de resumen disponible en listas inteligentes y listas estáticas le proporcionará estos detalles importantes.
 
 ![](assets/image2014-9-23-10-3a23-3a40.png)
 
-En las páginas de resumen de Programa y Campaña existentes, hemos añadido la Fecha/Usuario Creado y la Fecha/Usuario Última Modificación también!
+En las páginas de resumen de Programa y Campaña existentes, también hemos añadido la fecha de creación/usuario y la información de fecha/usuario de la última modificación.
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Utilizado por para Assets {#used-by-for-assets}
+## Utilizado por para recursos {#used-by-for-assets}
 
-Hemos agregado una nueva pestaña a las páginas de resumen de recursos, que se denomina &quot;¡Utilizado por!&quot;.
+Hemos añadido una nueva pestaña a nuestras páginas de resumen de recursos, llamada Utilizada por.
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
 Ejemplo: Utilizado por para listas estáticas
 
-## Líneas de la cuadrícula de la página de aterrizaje {#landing-page-gridlines}
+## Cuadrícula de página de aterrizaje {#landing-page-gridlines}
 
-La adición de líneas de cuadrícula de página de aterrizaje facilita mucho la alineación de texto, gráficos y formularios en la página de aterrizaje. Desactívelo y apóyelo para cualquier página de aterrizaje determinada, y ajuste también la anchura entre líneas.
+La adición de líneas de cuadrícula de página de aterrizaje facilita la alineación de texto, gráficos y formularios en la página de aterrizaje. Actívelo y desactívelo para cualquier página de aterrizaje y ajuste el ancho entre líneas.
 
 ![](assets/image2014-9-23-10-3a24-3a19.png)
 
 ![](assets/image2014-9-23-10-3a24-3a33.png)
 
-## Posibles clientes bloqueados desde correos electrónicos {#leads-blocked-from-mailings}
+## Posibles clientes bloqueados de correos {#leads-blocked-from-mailings}
 
-Al programar una campaña, puede hacer clic en el vínculo para ver la lista de posibles clientes bloqueados en el correo.
+Al programar una campaña, puede hacer clic en el enlace para ver la lista de posibles clientes bloqueados en su correo.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Paso de espera: Token de posible cliente y Mi token {#wait-step-lead-token-and-my-token}
+## Paso de espera: token de posible cliente y mi token {#wait-step-lead-token-and-my-token}
 
-En nuestra versión de mayo, añadimos opciones avanzadas al paso de flujo de espera. Con estos cambios, puede especificar un día, una fecha y una hora laborables. En esta versión, hemos añadido la capacidad de usar un token en el paso de espera. Por ejemplo, puede que desee utilizar `{{lead.Birthday}}` para enviar un correo electrónico en su cumpleaños, o use `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
+En nuestra versión de mayo, añadimos opciones avanzadas al paso Flujo de espera. Con estos cambios, puede especificar un día, una fecha y una hora laborables. En esta versión, hemos añadido la capacidad de utilizar un token en el paso de espera. Por ejemplo, es posible que desee utilizar `{{lead.Birthday}}` para enviar un correo electrónico en su cumpleaños, o utilice `{{my.Event Date}}` para enviar un recordatorio final del seminario web.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
 ## Ver como miniaturas en Design Studio {#view-as-thumbnails-in-design-studio}
 
-Cambie la vista de una lista de imágenes a una vista en miniatura.
+Cambie la vista de una lista de imágenes a una vista de miniaturas.
 
 ![](assets/image2014-9-23-10-3a26-3a13.png)
 
-Nota: A partir de esta versión, la ordenación anterior de las cuadrículas de lista inteligente no se aplicará a la siguiente lista inteligente que vea. Por ejemplo, si ordena una lista inteligente por nombre de empresa, no ordenaremos automáticamente la siguiente lista inteligente vista por este mismo campo.
+Nota: A partir de esta versión, la ordenación anterior de las cuadrículas de listas inteligentes no se aplicará a la siguiente lista inteligente que visualice. Por ejemplo, si ordena una lista inteligente por Nombre de la compañía, no ordenaremos automáticamente la siguiente lista inteligente vista por este mismo campo.
 
-Recordatorio: La actualización del informe Rendimiento del correo electrónico está en curso.
+Recordatorio: la actualización del informe de rendimiento del correo electrónico está en curso.
 
 ## Mejoras de Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nuevas métricas en el análisis de oportunidades del programa  {#new-metrics-in-program-opportunity-analysis}
+### Nuevas métricas en el análisis de oportunidades de programas  {#new-metrics-in-program-opportunity-analysis}
 
-Ahora puede obtener perspectivas sobre el número promedio de toques de marketing antes de crear o cerrar oportunidades, así como el valor promedio de un toque de marketing.
+Ahora puede obtener información sobre la cantidad promedio de toques de marketing antes de crear o cerrar oportunidades, así como el valor promedio de un toque de marketing.
 
 ![](assets/image2014-9-23-10-3a26-3a30.png)
 
@@ -90,18 +91,18 @@ Ahora puede obtener perspectivas sobre el número promedio de toques de marketin
 
 ## Visualización de gráficos múltiples {#displaying-multi-charts}
 
-La función de varios gráficos permite mostrar varios gráficos en un único informe del Explorador de ciclo de ingresos. Por ejemplo, puede utilizar esta función cuando desee mostrar los mismos datos en meses diferentes. Esta función también evita tener que crear filtros e informes independientes.
+La función de varios gráficos le permite mostrar varios gráficos en un único informe del Explorador de ciclos de ingresos. Por ejemplo, puede utilizar esta función cuando desee mostrar los mismos datos en distintos meses. Esta función también evita que tenga que crear filtros e informes independientes.
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
 ## Tipo de gráfico de cuadrícula de calor  {#heat-grid-chart-type}
 
-Las cuadrículas de calor permiten visualizar datos para que pueda identificar patrones de rendimiento de marketing. Este tipo de visualización codificará con colores los resultados para que pueda ver análisis empresariales complejos en una visualización fácil de comprender.
+Las cuadrículas de calor permiten visualizar los datos para identificar patrones de rendimiento de marketing. Este tipo de visualización codificará con colores los resultados para que vea el análisis empresarial complejo en una visualización fácil de entender.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
 ## Tipo de gráfico de dispersión  {#scatter-chart-type}
 
-Los gráficos de puntos ayudan a visualizar datos en varias dimensiones en un gráfico. Este tipo de visualización representa una burbuja en un gráfico en función de los atributos utilizados. A continuación, puede utilizar una medida para codificar con colores la burbuja o utilizar una medida para especificar el tamaño de la burbuja.
+Los gráficos de dispersión le ayudan a visualizar datos en varias dimensiones en un gráfico. Este tipo de visualización trazará una burbuja en un gráfico basado en los atributos utilizados. A continuación, puede utilizar una medida para codificar con colores la burbuja y/o utilizar una medida para especificar el tamaño de la burbuja.
 
 ![](assets/image2014-9-23-10-3a29-3a7.png)

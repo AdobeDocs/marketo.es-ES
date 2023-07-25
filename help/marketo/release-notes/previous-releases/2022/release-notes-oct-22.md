@@ -1,30 +1,32 @@
 ---
-description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: Documentación del producto'
+description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, octubre de 2022
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 3%
 
 ---
 
-# Notas de la versión: Octubre de 2022 {#release-notes-oct-22}
+# Notas de la versión: octubre de 2022 {#release-notes-oct-22}
 
-A continuación encontrará todas las funciones incluidas en la versión del 22 de octubre. Compruebe la disponibilidad de las funciones en su edición de Adobe Marketo Engage.
+A continuación encontrará todas las funciones incluidas en la versión de octubre de 2022. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
->Funciones denotadas por una estrella (![star](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Características indicadas por una estrella (![estrella](assets/yellow-star.png)) son complementos de pago. Póngase en contacto con el Marketo Engage para obtener más información.
 
-## Funciones del ciclo de versión estándar {#standard-release-cycle-features}
+## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones caen dentro del ciclo de versiones estándar y empezarán a lanzarse en **14 de octubre de 2022**, con el despliegue gradual de las funciones restantes en las semanas siguientes. Las características y fechas de la versión están sujetas a cambios. Compruebe el estado de cada función debajo.
+Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **14 de octubre de 2022**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado de cada una de las funciones.
 
 ### Entorno de datos de marketing {#marketing-data-environment}
 
 </br>
 
-* **Sincronización de campos personalizados de miembro del programa**: Capacidad para sincronizar bidireccionalmente los campos ampliables capturados para un miembro del programa (por ejemplo, las preferencias de los asistentes durante el registro de eventos como comida, sesiones, pistas, etc.) con los campos de miembro de Campaign en Salesforce.
+* **Sincronización de campos personalizados de miembro de programa**: capacidad para sincronizar bidireccionalmente campos ampliables capturados para un miembro del programa (por ejemplo, las preferencias de los asistentes durante el registro del evento, como alimentos, sesiones, pistas, etc.) con campos de miembros de Campaign en Salesforce.
 
 <table> 
   <tr> 
@@ -33,12 +35,12 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronización de campos personalizados de miembro del programa</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronización de campos personalizados de miembro de programa</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Integración del Privacy Service de Adobe**: Armonice con el Privacy Service para automatizar el cumplimiento de las normas de privacidad de datos en todos los productos de Experience Cloud. Actualmente, este servicio solo está disponible para los clientes Marketo Engage que hayan incorporado al sistema Identity Management de Adobe.
+* **Integración del Privacy Service de Adobe**: Armonice con Privacy Service para automatizar el cumplimiento de las regulaciones de privacidad de datos en todos los productos de Experience Cloud. Actualmente, este servicio solo está disponible para los clientes de Marketo Engage que han incorporado el sistema Identity Management de Adobe.
 
 <table> 
   <tr> 
@@ -52,13 +54,13 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-### Experiencia de próxima generación {#modern-ux}
+### Experiencia de última generación {#modern-ux}
 
 </br>
 
-* **Pantallas actualizadas en la experiencia de próxima generación**: Ofrecemos pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador:
+* **Pantallas actualizadas en la experiencia de próxima generación**: Estamos ofreciendo pantallas adicionales y actualizadas en la experiencia de próxima generación que ofrecen un diseño actualizado y mejoras de uso accesibles mediante el conmutador de alternancia:
 
-   * Detalles de la plantilla de página de aterrizaje
+   * Detalles de plantilla de página de aterrizaje
    * Lista de plantillas de correo electrónico
 
 <table> 
@@ -68,12 +70,12 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar conmutador</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Conmutador de conmutación</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Mejora utilizada por la pestaña en Detalles de plantilla de correo electrónico**: En la nueva experiencia, verá información adicional relacionada con los recursos que utilizan la plantilla de correo electrónico, incluidos Estado del recurso, Última modificación y Última modificación por. También puede buscar, ordenar y filtrar la lista de recursos que usan.
+* **Pestaña Utilizado por mejorado en Detalles de plantilla de correo electrónico**: en la nueva experiencia, verá información adicional relacionada con los recursos que utilizan la plantilla de correo electrónico, como el estado del recurso, la última modificación y la última modificación de. También puede buscar, ordenar y filtrar la lista de recursos utilizados por los recursos.
 
 <table> 
   <tr> 
@@ -87,7 +89,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-* **Modelos del filtro de recursos de informes**: Nuevo diseño para los modelos de configuración de informes que muestran un nuevo árbol de recursos en el menú de configuración y un filtro para Fecha de creación y modificación.
+* **Modales del filtro de recursos de informe**: nuevo diseño para los modelos de configuración de informes que muestra un nuevo árbol de recursos en el menú de configuración y un filtro para Fecha de creación y modificación.
 
 <table> 
   <tr> 
@@ -105,7 +107,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 
 </br>
 
-* **Importación masiva de posibles clientes: Asociación de vendedores**: Paridad con la API de Lead REST para poder asociar posibles clientes con los vendedores durante el proceso de importación de posibles clientes en masa, lo que reduce la complejidad y el número de llamadas de API necesarias.
+* **Importación masiva de posibles clientes: Asociación de vendedores**: paridad con la API de REST de posibles clientes para poder asociar posibles clientes con vendedores durante el proceso de importación masiva de posibles clientes, lo que reduce la complejidad y el número de llamadas de API necesarias.
 
 <table> 
   <tr> 
@@ -125,7 +127,7 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Integración de perspectivas de ventas con Dynamic Chat**: El panel de perspectivas ahora incluye actividades de chat dinámico en la cuadrícula inteligente junto con un resumen semanal y tarjetas de detalle.
+* **Integración de Sales Insight con Dynamic Chat**: el panel de perspectivas ahora incluye actividades de Dynamic Chat en la cuadrícula inteligente junto con un resumen semanal y tarjetas de detalles.
 
 <table> 
   <tr> 
@@ -139,11 +141,11 @@ Las siguientes funciones caen dentro del ciclo de versiones estándar y empezar�
   </tbody>
 </table>
 
-## Funciones de la versión Agile
+## Funciones de versión de Agile
 
-Las siguientes funciones siguen un formato Agile y se publican en varias fechas anteriores o posteriores a la fecha de lanzamiento estándar. Compruebe el estado de cada función debajo.
+Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado de cada una de las funciones.
 
-* **Organizar automáticamente los flujos de diálogo para la conversación dinámica**: Mejore su lienzo de diálogo lleno organizando todo en el lienzo en un formato limpio y fácil de leer con la pulsación de un botón a través de la organización automática.
+* **Flujos de diálogo de organización automática para el Dynamic Chat**: Mejore su lienzo de diálogo abarrotado organizando todo en el lienzo en un formato limpio y fácil de leer con la presión de un botón a través de la organización automática.
 
 <table> 
   <tr> 
@@ -152,12 +154,12 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Iconos del Diseñador de secuencias</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Iconos del diseñador de secuencias</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Vínculos de reunión para Dynamic Chat**: Opción para incluir automáticamente un vínculo de equipos o reunión para Google y Outlook en cada invitación de calendario que se envíe a los visitantes.
+* **Vínculos de reunión para el Dynamic Chat**: opción para incluir automáticamente un vínculo de equipos o de reunión para Google y Outlook en cada invitación de calendario que se envíe a los visitantes.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
   </tbody>
 </table>
 
-* **Compatibilidad con tipos de datos adicionales para Dynamic Chat**: Tres nuevos tipos de datos (booleano, entero, flotante) le permiten aprovechar los campos de Marketo Engage existentes en Dynamic Chat para cosas como el targeting basado en puntuaciones o preguntar a los visitantes sí/no preguntas.
+* **Compatibilidad con tipos de datos adicionales para Dynamic Chat**: tres nuevos tipos de datos (booleano, entero, flotante) le permiten aprovechar más campos de Marketo Engage existentes en Dynamic Chat para cosas como segmentar según las puntuaciones o hacer preguntas sí/no a los visitantes.
 
 <table> 
   <tr> 
@@ -187,6 +189,6 @@ Las siguientes funciones siguen un formato Agile y se publican en varias fechas 
 
 ## Anuncios {#announcements}
 
-* **Forms 1.0**: La desaprobación de Forms 1.0 se completará con la versión de octubre. Los recursos de Forms 1.0 ya no podrán enviar datos al Marketo Engage y devolverán errores si se intenta hacerlo.
+* **Forms 1.0**: la versión 1.0 de Forms quedará obsoleta y se completará con la versión de octubre. Los recursos de Forms 1.0 ya no podrán enviar datos al Marketo Engage y devolverán los errores si se intenta.
 
-* **Forms sin script**: Forms dejará de funcionar cuando Javascript esté deshabilitado en el explorador. El envío de formularios requerirá que Javascript esté habilitado.
+* **Forms sin script**: Forms dejará de funcionar cuando Javascript esté deshabilitado en el explorador. El envío de formularios requerirá que esté habilitado Javascript.

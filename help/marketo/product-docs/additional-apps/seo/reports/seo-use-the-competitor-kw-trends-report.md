@@ -3,7 +3,8 @@ unique-page-id: 2949270
 description: 'SEO: uso del informe Tendencias de KW de la competencia - Documentos de Marketo - Documentación del producto'
 title: 'SEO: Utilice el informe Tendencias de KW de la competencia'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%

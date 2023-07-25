@@ -1,30 +1,31 @@
 ---
 unique-page-id: 11380787
-description: Información sobre la lista de cuentas - Documentos de Marketo - Documentación del producto
-title: Información de la lista de cuentas
+description: Información de la lista de cuentas - Documentos de Marketo - Documentación del producto
+title: Account List Insights
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
 
 ---
 
-# Información de la lista de cuentas {#account-list-insights}
+# Account List Insights {#account-list-insights}
 
-El panel Lista de cuentas ofrece una vista de las perspectivas agregadas de todas las cuentas con nombre dentro de esa lista.
+El panel Lista de cuentas ofrece una vista de las perspectivas agregadas de todas las cuentas con nombre de esa lista.
 
 >[!NOTE]
 >
->Marketo TAM determina automáticamente las cuentas con mayor nombre dentro de una lista de cuentas en función de la canalización generada o las puntuaciones de participación de la cuenta.
+>Marketo TAM determina automáticamente las cuentas con nombres principales dentro de una lista de cuentas en función de las puntuaciones de participación de cuentas o generadas por la canalización.
 
-## Panel de lista de cuentas {#account-list-dashboard}
+## Tablero de lista de cuentas {#account-list-dashboard}
 
-Para ver el panel de una lista de cuentas, simplemente haga clic en su nombre...
+Para ver el tablero de una lista de cuentas, simplemente haga clic en su nombre...
 
 ![](assets/one-new.png)
 
-...y aparece el tablero.
+...y aparece el tablero de mandos.
 
 ![](assets/two-new-1.png)
 
@@ -32,18 +33,18 @@ Para ver el panel de una lista de cuentas, simplemente haga clic en su nombre...
  <tbody> 
   <tr> 
    <td colspan="1"><strong>En preparación</strong></td> 
-   <td colspan="1">Consulte la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo cada semana, tomamos la canalización el último día.</td> 
+   <td colspan="1">Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td> 
   </tr> 
   <tr> 
    <td><strong>Ingresos</strong></td> 
-   <td><p>Consulte ingresos a lo largo del tiempo. Para determinar los ingresos a lo largo del tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</p></td> 
+   <td><p>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Pestaña Cuentas con nombre {#named-accounts-tab}
 
-Haga clic en el **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
+Haga clic en **Cuentas con nombre** para ver qué cuentas con nombre pertenecen a esa lista de cuentas.
 
 ![](assets/three-1.png)
 
@@ -51,8 +52,8 @@ Haga clic en el **Cuentas con nombre** para ver qué cuentas con nombre pertenec
 >
 >Puede quitar una cuenta con nombre en esta pestaña seleccionándola y haciendo clic en **Eliminar cuentas con nombre**.
 
-## Utilizado por la pestaña {#used-by-tab}
+## Utilizado por ficha {#used-by-tab}
 
-Haga clic en el **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
+Haga clic en **Utilizado por** para ver qué recursos hacen referencia a esa lista de cuentas.
 
 ![](assets/four-2.png)

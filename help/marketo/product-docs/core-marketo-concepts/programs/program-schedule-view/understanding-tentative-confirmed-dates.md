@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147140
-description: 'Explicación de las fechas Tentativas/Confirmadas: Documentos de Marketo: Documentación del producto'
-title: Explicación de las fechas Tentativas/Confirmadas
+description: Explicación de las fechas provisionales o confirmadas - Documentos de Marketo - Documentación del producto
+title: Explicación de las fechas provisionales/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
 
 ---
 
-# Explicación de las fechas Tentativas/Confirmadas {#understanding-tentative-confirmed-dates}
+# Explicación de las fechas provisionales/confirmadas {#understanding-tentative-confirmed-dates}
 
-Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para marcar como **Tentativo** o **Confirmado**. Así es como funcionan.
+Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para marcarse como **Provisional** o **Confirmado**. Así es como funcionan.
 
 ## Tentativo {#tentative}
 
-Las fechas tentativas transmiten la intención. Piensen en esto como _lápiz_ algo en el calendario. Las entradas tentativas no se ejecutarán, solo son marcadores de posición.
+Las fechas provisionales transmiten la intención. Piense en esto como _lapicería_ algo en el calendario. Las entradas provisionales no se ejecutarán, solo son marcadores de posición.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
 >[!NOTE]
 >
->Solo las campañas inteligentes por lotes y los programas de correo electrónico pueden ser tentativos.
+>Solo las campañas inteligentes por lotes y los programas de correo electrónico pueden ser provisionales.
 
 ## Confirmación de entradas {#confirming-entries}
 
-Esto es igual que aprobar un recurso, por lo que las entradas deben estar completamente configuradas para poder confirmarlas. Una vez que todos los patos están en fila, puede confirmar entradas deslizando la pestaña tentativa a la derecha.
+Esto es igual que aprobar un recurso, por lo que las entradas deben configurarse completamente antes de poder confirmarlas. Una vez que todos los patos están en una fila, puede confirmar las entradas deslizando la pestaña tentativa a la derecha.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -36,18 +37,18 @@ Esto es igual que aprobar un recurso, por lo que las entradas deben estar comple
 
 >[!NOTE]
 >
->¿Por qué el perro? Es un Recuperador. Está recuperando sus datos.
+>¿Por qué el perro? Él es un Recuperador. Está recuperando tus datos.
 
 ## Confirmado {#confirmed}
 
-Las entradas confirmadas definitivamente se ejecutarán. Tienen reglas, recursos aprobados y una fecha y hora confirmadas.
+Las entradas confirmadas se ejecutarán sin duda. Tienen reglas, recursos aprobados y una fecha y hora confirmadas.
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
 ## Finalizado  {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Sólo pueden ser en el pasado (obviamente). Una vez que se ha ejecutado una entrada y **Finalizado**, no puede moverla ni hacerla tentativa. (Sin cambiar la realidad ni interrumpir el continuo flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Solo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y es **Finalizado**, no puede moverlo ni convertirlo en provisional. (Sin cambiar la realidad y alterar el continuo del flujo de tiempo).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Estos estados son herramientas poderosas. Cuando clona un programa, todas las fechas de la campaña inteligente y del programa de correo electrónico serán tentativas. Todos se pueden confirmar directamente desde la vista de programación. Genial, ¿verdad?
+Estos estados son herramientas poderosas. Al clonar un programa, todas las fechas de la campaña inteligente y del programa de correo electrónico serán provisionales. Todas se pueden confirmar directamente desde la vista de programación. Genial, ¿verdad?

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147316
-description: 'Crear una persona manualmente: Marketo Docs: documentación del producto'
+description: Creación manual de una persona - Documentos de Marketo - Documentación del producto
 title: Crear una persona manualmente
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Crear una persona manualmente {#create-a-person-manually}
 
-Hay muchas maneras de llevar a una persona a Marketo. Si necesita crear uno manualmente, así es como hacerlo.
+Existen muchas formas de introducir a una persona en Marketo. Si necesita crear uno manualmente, así es como hacerlo.
 
 >[!CAUTION]
 >
->Marketo sí **not** admiten direcciones de correo electrónico que contienen emojis.
+>Marketo lo hace **no** admite direcciones de correo electrónico que contengan emojis.
 
 1. Vaya a la **Base de datos**.
 
@@ -30,4 +31,4 @@ Hay muchas maneras de llevar a una persona a Marketo. Si necesita crear uno manu
 
    ![](assets/three-2.png)
 
-Esta es una forma rápida y sencilla de añadir una sola persona en Marketo.
+Esta es una forma rápida y sencilla de agregar una sola persona en Marketo.

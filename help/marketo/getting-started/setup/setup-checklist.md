@@ -3,10 +3,11 @@ unique-page-id: 2949471
 description: Lista de comprobación de instalación - Documentos de Marketo - Documentación del producto
 title: Configurar lista de comprobación
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -40,7 +41,7 @@ Le damos la bienvenida a Marketo! Siéntase libre de usar la siguiente lista de 
 
 1. Rellene el formulario para enviar una dirección URL para las nuevas plantillas
 
-## Sincronización CRM {#crm-sync}
+## Sincronización de CRM {#crm-sync}
 
 1. Trabaje con su administrador de CRM para sincronizar todos los contactos de CRM con Marketo
 

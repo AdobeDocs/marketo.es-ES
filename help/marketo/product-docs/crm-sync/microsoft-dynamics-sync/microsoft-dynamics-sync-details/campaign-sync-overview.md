@@ -1,37 +1,38 @@
 ---
-description: Información general sobre la sincronización de campañas - Documentos de Marketo - Documentación del producto
-title: Información general sobre la sincronización de campañas
+description: 'Información general sobre la sincronización de Campaign: Documentos de Marketo: documentación del producto'
+title: Información general de sincronización de Campaign
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Información general sobre la sincronización de campañas {#campaign-sync-overview}
+# Información general de sincronización de Campaign {#campaign-sync-overview}
 
-Como parte de Campaign Sync, los usuarios pueden configurar la automatización para que funcione según la pertenencia a una campaña de Dynamics. Los posibles clientes calificados para comportamientos o demografías específicos se pueden convertir en parte de las campañas de Microsoft.
+Como parte de la sincronización de campañas, los usuarios pueden configurar la automatización para que funcione al suscribirse a una campaña de Dynamics. Los posibles clientes cualificados para comportamientos específicos o datos demográficos pueden formar parte de campañas de Microsoft.
 
 >[!PREREQUISITES]
 >
->Actualice a la versión más reciente del complemento Dynamics para Marketo.
+>Actualice a la última versión del complemento de Dynamics para Marketo.
 
 Están disponibles las siguientes acciones de flujo:
 
-* Añadir a Microsoft Campaign
-* Eliminar de Microsoft Campaign
+* Agregar a la campaña Microsoft
+* Eliminar de la campaña Microsoft
 
 >[!NOTE]
 >
->**Eliminar de Microsoft Campaign** solo eliminará las personas agregadas mediante acciones de flujo en Marketo.
+>**Eliminar de Microsoft Campaign** solo eliminará las personas que se hayan añadido mediante acciones de flujo en Marketo.
 
 También hay dos déclencheur:
 
-* Se ha añadido a Microsoft Campaign
-* Eliminado de Microsoft Campaign
+* Añadido a Microsoft Campaign
+* Eliminado de la campaña de Microsoft
 
-Los déclencheur se ejecutarán en función de las acciones de la acción de flujo de Marketo &quot;Añadir a la campaña de Microsoft&quot; y &quot;Eliminado de la campaña de Microsoft&quot;.
+Los déclencheur se ejecutarán en función de las acciones de la acción de flujo de Marketo &quot;Agregar a Microsoft Campaign&quot; y &quot;Eliminado de Microsoft Campaign&quot;.
 
 >[!NOTE]
 >
@@ -40,5 +41,4 @@ Los déclencheur se ejecutarán en función de las acciones de la acción de flu
 >[!MORELIKETHIS]
 >
 >* [Habilitar sincronización de campaña](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [Agregar o quitar personas de la campaña de Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
-
+>* [Adición o eliminación de personas de la campaña de Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

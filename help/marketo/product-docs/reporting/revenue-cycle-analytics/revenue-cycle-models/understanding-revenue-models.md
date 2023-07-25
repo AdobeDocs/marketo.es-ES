@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4718654
-description: 'Explicación de los modelos de ingresos: Documentos de Marketo: Documentación del producto'
+description: Explicación de los modelos de ingresos - Documentos de Marketo - Documentación del producto
 title: Explicación de los modelos de ingresos
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
@@ -12,97 +13,96 @@ ht-degree: 0%
 
 # Explicación de los modelos de ingresos {#understanding-revenue-models}
 
-Los modelos de ciclo de ingresos llevan el marketing al siguiente nivel. Modelan todas las etapas de todo el embudo de ingresos, desde el momento en que interactúa por primera vez con un posible cliente hasta que el cliente principal es un cliente ganado.
+Los modelos del ciclo de ingresos llevan el marketing al siguiente nivel. Modelan todas las etapas de todo el canal de ingresos, desde la primera vez que interactúa con un posible cliente hasta que el posible cliente es un cliente propio.
 
-## Modelo mental (Cómo pensar en esto) {#mental-model-how-to-think-about-this-thing}
+## Modelo mental (cómo pensar en esto) {#mental-model-how-to-think-about-this-thing}
 
-El Modeler es como una serie de baldes con agua en ellos. Hay agujeros en la parte inferior de los baldes.
+El Modelador es como una serie de cubos con agua en ellos. Hay agujeros en la parte inferior de los cubos.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
-El modelador medirá cuánta agua (posibles clientes) entra en el cubo por día y cuánto sale de los agujeros. (Puede haber más de un agujero)
+El modelador medirá la cantidad de agua (cables) que entra en el cubo por día y la cantidad que sale de los agujeros. (Puede haber más de un taladro)
 
-El modelador mide todos la cantidad de posibles clientes en el bloque en un momento determinado. Esto se llama equilibrio de escenario.
+El modelador mide la cantidad de posibles clientes en el bloque en un momento determinado. Esto se llama el balance de etapas.
 
 >[!TIP]
 >
->Para aquellos que tienen una mentalidad más financiera, se puede pensar en las etapas como cuentas con dinero entrando y saliendo con equilibrio al final de cada día.
+>Para aquellos que tienen una mentalidad más financiera, se puede pensar en las etapas como cuentas con dinero que entra y sale con saldo al final de cada día.
 
-Los modelos son generalmente para clientes que se sienten cómodos con las campañas y programas inteligentes y desean llevar sus análisis al siguiente nivel.
+Los modelos suelen ser para clientes que se sienten cómodos con las campañas y los programas inteligentes y desean llevar sus análisis al siguiente nivel.
 
-## Inicio con un nuevo modelo {#starting-with-a-new-model}
+## Empezar con un nuevo modelo {#starting-with-a-new-model}
 
-De forma predeterminada, un nuevo modelo inicia con seis etapas de ingresos. Este modelo está realmente bien por sí solo, pero puede ser profundamente personalizado.
+De forma predeterminada, un nuevo modelo le inicia con seis etapas de ingresos. Este modelo está bien por sí solo, pero puede personalizarse profundamente.
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observe que todos están en un fondo verde. Esto se denomina **Ruta de éxito**. Comprender más acerca de la ruta de éxito [here](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Fíjese que todos están sobre un fondo verde. Esto se denomina **Ruta de éxito**. Más información sobre la ruta de éxito [aquí](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Etapas** son los hitos de un avance hacia sus objetivos.
+**Fases** son los hitos en una progresión de leads hacia sus objetivos.
 
-**Transiciones** se muestran como flechas y controlan cómo se mueven los posibles clientes entre etapas.
+**Transiciones** se muestran como flechas y controlan cómo se mueven los posibles clientes entre las fases.
 
 >[!NOTE]
 >
->El escenario anónimo es especial. Son todas las personas las que visitan su sitio web, pero no están seguros de quiénes son. No puede modificar esta etapa.
+>El escenario anónimo es especial. Son todas las personas que visitan el sitio web, pero no está seguro de quiénes son. No puede modificar esta fase.
 
 ## Personalización {#customization}
 
-Cada compañía es diferente. Puede añadir cosas al modelo arrastrando desde la parte superior derecha.
+Cada compañía es diferente. Puede agregar cosas al modelo arrastrando desde la parte superior derecha.
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Etapa de inventario {#inventory-stage}
+## Fase de inventario {#inventory-stage}
 
-Se parece a una caja y es la más básica de los escenarios. Analytics realizará un seguimiento de la entrada, salida y equilibrio de esta fase.
+Esto parece una caja y es la más básica de las etapas. Analytics realizará un seguimiento de las entradas, las salidas y el equilibrio de esta fase.
 
-## Fase SLA {#sla-stage}
+## Fase de SLA {#sla-stage}
 
-Esto es breve para **Acuerdo de nivel de servicio** etapa. La intención aquí es que algunas etapas querrán imponer un límite de tiempo.
-
->[!NOTE]
->
->**Ejemplo**
->
->Cuando un posible cliente rellena un formulario &quot;Contactar&quot; y envía una alerta a un representante de ventas, es posible que desee un SLA de 72 horas. Podrás hacer un seguimiento de las infracciones y regañar a la rep por dejar un buen plomo incomunicado.
-
-## Fase de portal {#gate-stage}
-
-El paso Puerta está diseñado para situaciones en las que desea filtrar conducen a una de varias opciones. Esta es una opción avanzada. Los principiantes deben evitar las puertas.
+Es la abreviatura de **Contrato de nivel de servicio** escenario. La intención aquí es que algunas etapas querrán aplicar un límite de tiempo.
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->Una puerta podría utilizarse para posibles clientes que formen parte de una **lista de cuentas con nombre** para separarlo del proceso normal.
+>Cuando un posible cliente rellena un formulario de &quot;Contáctenos&quot; y envía una alerta a un representante de ventas, es posible que desee un SLA de 72 horas. Podrás seguir la pista de las infracciones y reprender al representante por dejar incomunicado a un buen líder.
+
+## Fase de puerta {#gate-stage}
+
+Una fase de Puerta está diseñada para situaciones en las que desea filtrar posibles clientes en una de varias opciones. Esta es una opción avanzada. Los principiantes deben evitar las puertas.
+
+>[!NOTE]
+>
+>**Ejemplo**
+>
+>Se puede utilizar una puerta para los posibles clientes que forman parte de una **lista de cuentas con nombre** para separarlo del proceso normal.
 
 ## Transiciones {#transitions}
 
-Aclarar exactamente cómo se mueve un posible cliente de un escenario a otro mediante campañas inteligentes y asegurarse de que los posibles clientes no se queden atrapados en ningún escenario. Asegúrese de utilizar los filtros de déclencheur para las transiciones a (es una forma de evaluarlas).
+Aclarar exactamente cómo un posible cliente pasa de una etapa a otra mediante campañas inteligentes y asegurarse de que los posibles clientes no se queden atascados en ninguna etapa. Asegúrese de utilizar filtros de déclencheur para las transiciones a (es una forma de evaluarlas).
 
 >[!NOTE]
 >
 >**Ejemplo**
 >
->Una transición se puede definir mediante un posible cliente que rellene un formulario.
+>Una transición podría definirse por un posible cliente que rellene un formulario.
 
 Adición de una fase de la ruta de éxito feliz
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
-La perdida es buena para agregar, pero fíjense que no está en la ruta verde. Esto se debe a que no es un &quot;éxito&quot;.
+Perdido es uno bueno para añadir, pero tenga en cuenta que no está en el camino verde. Eso es porque no es un &quot;éxito&quot;.
 
 >[!MORELIKETHIS]
 >
 >* [Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Uso de etapas de inventario del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Uso de Etapas de Inventario del Modelo de Ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Uso de los pasos de la puerta del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Uso de etapas de puerta del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Uso de Fases SLA del Modelo de Ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Uso de etapas SLA del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [Informe del modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [Informe sobre el modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [Aprobar/desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-
+>* [Aprobar o desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

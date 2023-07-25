@@ -3,7 +3,8 @@ unique-page-id: 2359414
 description: 'Puntuación simple: Documentos de Marketo: documentación del producto'
 title: Puntuación simple
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
-
 
 ## Paso 1: Crear una campaña de puntuación {#step-create-a-scoring-campaign}
 

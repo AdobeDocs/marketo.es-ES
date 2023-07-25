@@ -1,35 +1,36 @@
 ---
 unique-page-id: 14746661
 description: Preguntas frecuentes sobre el contenido y los archivos adjuntos - Documentos de Marketo - Documentación del producto
-title: Preguntas frecuentes sobre el contenido y los archivos adjuntos
+title: Preguntas frecuentes sobre contenido y archivos adjuntos
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Preguntas frecuentes sobre el contenido y los archivos adjuntos {#content-and-file-attachment-faq}
+# Preguntas frecuentes sobre contenido y archivos adjuntos {#content-and-file-attachment-faq}
 
-## ¿Cuál es la diferencia entre el contenido y los archivos adjuntos? {#what-is-the-difference-between-content-and-a-file-attachment}
+## ¿Cuál es la diferencia entre el contenido y un archivo adjunto? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **archivo adjunto** es igual que un archivo adjunto que usaría en su cliente de correo electrónico normal.
+A **archivo adjunto** es igual que un archivo adjunto que utilizaría en su cliente de correo electrónico habitual.
 
-**Contenido** es lo que utilizamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) que desea que Sales Connect le siga.
+**Contenido** es lo que usamos para describir cualquier archivo (PPT, PDF, documento de Word, etc.) que le gustaría que Sales Connect le realizara un seguimiento.
 
-Después de hacer clic en ese botón, puede elegir un archivo ya cargado o cargar un nuevo archivo para rastrearlo. A continuación, insertamos un vínculo en el correo electrónico o la plantilla que está utilizando.
+Después de hacer clic en ese botón, puede elegir un archivo que ya se ha cargado o cargar un nuevo archivo para rastrearlo. A continuación, insertamos un vínculo en el correo electrónico o la plantilla que está utilizando.
 
-En el extremo receptor, el destinatario hace clic en el vínculo y el contenido se rellena en el explorador. Esto nos permite hacer un seguimiento de cada vista de página e informar al usuario de Conexión de ventas en la fuente activa.
+En el extremo receptor, el destinatario hace clic en el vínculo y el contenido se rellena en el explorador. Esto nos permite hacer un seguimiento de cada vista de página e informarlas al usuario de Sales Connect en Live Feed.
 
-Las opciones de archivo y contenido están disponibles en: correos electrónicos, plantillas, campañas, Outlook (tanto Windows como Mac), Gmail y OWA.
+Las opciones de archivo y contenido están disponibles en: correos electrónicos únicos, plantillas, campañas, Outlook (tanto Windows como Mac), Gmail y OWA.
 
 ## ¿Quién administra el contenido y dónde se almacena? {#who-manages-the-content-and-where-is-it-stored}
 
-El contenido se puede cargar en el repositorio de Sales Connect a través de cualquier usuario que tenga la capacidad de crear plantillas. Esto significa que los usuarios podrán cargar el contenido que elijan.
+Cualquier usuario con capacidad para crear plantillas puede cargar contenido en el repositorio de Sales Connect. Esto significa que los usuarios podrán cargar el contenido que elijan.
 
-## ¿Los equipos pueden crear u organizar el contenido, los libros de reproducción, las plantillas, etc.? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
+## ¿Pueden los equipos crear/organizar contenido, libros de reproducción, plantillas, etc.? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 
-Los usuarios pueden crear sus propias plantillas, que el equipo puede organizar. Para ello, cree un equipo a través de la página Administración de equipos . A continuación, cuando su equipo vaya a compartir plantillas, libros de juegos o grupos, solo podrán compartir con esos grupos, en lugar de con toda la suscripción de usuarios.
+Los usuarios pueden crear sus propias plantillas y el equipo puede organizarlas. Para ello, cree un equipo a través de la página Administración del equipo. A continuación, cuando su equipo vaya a compartir plantillas, libros de reproducción o grupos, podrá compartirlos únicamente con esos grupos, en lugar de con toda la suscripción de usuarios.
 
 El contenido se puede compartir en toda la organización.

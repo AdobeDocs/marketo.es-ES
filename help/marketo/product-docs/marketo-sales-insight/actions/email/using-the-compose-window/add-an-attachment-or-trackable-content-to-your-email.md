@@ -1,33 +1,34 @@
 ---
-description: 'Añadir un archivo adjunto o contenido rastreable al correo electrónico: documentos de Marketo: documentación del producto'
-title: Añadir un archivo adjunto o contenido rastreable al correo electrónico
+description: 'Añadir un archivo adjunto o contenido rastreable al correo electrónico: documentos de Marketo, documentación del producto'
+title: Añadir un archivo adjunto o contenido rastreable a su correo electrónico
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
-# Añadir un archivo adjunto o contenido rastreable al correo electrónico {#add-an-attachment-or-trackable-content-to-your-email}
+# Añadir un archivo adjunto o contenido rastreable a su correo electrónico {#add-an-attachment-or-trackable-content-to-your-email}
 
-Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de agregar un archivo como archivo adjunto o hacer que un archivo sea un vínculo descargable (y rastreable).
+Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de añadir un archivo como archivo adjunto o de convertir un archivo en un vínculo descargable (y rastreable).
 
 >[!NOTE]
 >
->Normalmente, cualquier archivo de más de 20 MB será demasiado grande para su entrega. El tamaño de un archivo adjunto que puede enviar por correo electrónico varía en función del canal de envío de correo electrónico que utilice.
+>Normalmente, cualquier archivo de más de 20 MB es demasiado grande para enviarlo. El tamaño de un archivo adjunto que puede enviar por correo electrónico varía según el canal de envío de correo electrónico que utilice.
 
 ## Añadir un archivo adjunto {#add-an-attachment}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. Rellene el campo To e introduzca un Subject.
+1. Rellene el campo Para e introduzca un Asunto.
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
-1. Haga clic en el icono de datos adjuntos.
+1. Haga clic en el icono adjunto.
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
@@ -37,7 +38,7 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
 
    El archivo adjunto aparece en la parte inferior del correo electrónico.
 
@@ -49,21 +50,21 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. Rellene el campo To e introduzca un Subject.
+1. Rellene el campo Para e introduzca un Asunto.
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
-1. Haga clic en el punto del correo electrónico en el que desea que aparezca el contenido rastreable y haga clic en el icono de datos adjuntos.
+1. Haga clic en el lugar del correo electrónico en el que desea que aparezca el contenido rastreable y haga clic en el icono de archivo adjunto.
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Seleccione el contenido que desea añadir y haga clic en el botón **Seguimiento del contenido** y haga clic en **Insertar**.
+1. Seleccione el contenido que desee añadir y haga clic en **Se hace un seguimiento del contenido** y haga clic en **Insertar**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
 
    El contenido aparece como un vínculo en el correo electrónico. El destinatario puede hacer clic en el vínculo para descargar el contenido.
 
@@ -71,23 +72,23 @@ Al enviar un correo electrónico a través de Marketo Sales, tiene la opción de
 
    >[!NOTE]
    >
-   >Se notificará a los usuarios en la fuente activa cuando las personas vean su contenido rastreado. Los usuarios también pueden ver el contenido de mayor rendimiento en la sección de contenido de la página Analytics.
+   >Se notificará a los usuarios en la fuente Live Feed cuando las personas estén viendo el contenido rastreado. Los usuarios también pueden ver el contenido de mayor rendimiento en la sección de contenido de la página de Analytics.
 
-## Actualizaciones de contenido rastreables {#trackable-content-updates}
+## Actualizaciones de contenido rastreable {#trackable-content-updates}
 
 **Visor de contenido rastreable**
 
-Cuando un posible cliente haga clic en contenido rastreable del correo electrónico, se abrirá un visor de contenido.
+Cuando un posible cliente hace clic en contenido rastreable en el correo electrónico, se abre un visor de contenido.
 
 ![](assets/add-an-attachment-or-trackable-content-11.png)
 
-Dentro del visualizador de contenido, los posibles clientes pueden hacer lo siguiente.
+Dentro del visor de contenido, los posibles clientes pueden hacer lo siguiente:
 
 * Descargar el documento
 
 ![](assets/add-an-attachment-or-trackable-content-12.png)
 
-* Desplazar la página por el documento
+* Página a través del documento
 
 ![](assets/add-an-attachment-or-trackable-content-13.png)
 
@@ -95,10 +96,10 @@ Dentro del visualizador de contenido, los posibles clientes pueden hacer lo sigu
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**Eventos de contenido rastreables en una fuente en directo**
+**Eventos de contenido rastreables en Live Feed**
 
-Cuando un posible cliente haga clic en el vínculo de nuestro documento, verá un evento de clic. Puede hacer clic en ese vínculo para ver el contenido. Siempre que haya iniciado sesión en su cuenta de Acciones en el explorador, no contaremos estos clics como eventos.
+Cuando un posible cliente haga clic en el vínculo de nuestro documento, verá un evento de clic. Puede hacer clic en ese vínculo para ver el contenido. Siempre que haya iniciado sesión en su cuenta de Actions en el explorador, no contaremos estos clics como eventos.
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 
-Cada vez que el posible cliente avanza a otra página del documento, recibirá un evento Visto en la fuente activa que muestra el nombre del documento.
+Cada vez que el posible cliente avanza a otra página del documento, recibirá un evento Visto en la Fuente en directo que muestra el nombre del documento.

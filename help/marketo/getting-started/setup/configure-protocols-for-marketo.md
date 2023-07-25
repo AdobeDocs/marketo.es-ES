@@ -3,7 +3,8 @@ unique-page-id: 4720433
 description: 'Configuración de protocolos para Marketo: documentos de Marketo: documentación del producto'
 title: Configuración de protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
+feature: Getting Started
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 3%
@@ -126,7 +127,7 @@ Una conexión saliente es la que realiza el Marketo Engage a un servidor en Inte
 
 Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} La acción de flujo se ejecuta como parte de una campaña inteligente y se realiza una solicitud HTTP a un servicio web externo. Si el editor del servicio web utiliza una lista de permitidos en el cortafuegos de la red en la que se encuentra el servicio web externo, el editor debe añadir a su lista de permitidos los bloques de direcciones IP que se indican a continuación.
 
-**Sincronización CRM**
+**Sincronización de CRM**
 
 Marketo Engage [Sincronización de Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} son mecanismos de integración que realizan solicitudes HTTP salientes a las API publicadas por su proveedor de CRM. Debe asegurarse de que su organización de TI no bloquee ninguno de los bloques de direcciones IP siguientes para acceder a las API de proveedor de CRM.
 

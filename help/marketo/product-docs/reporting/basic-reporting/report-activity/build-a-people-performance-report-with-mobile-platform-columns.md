@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2951220
-description: 'Creación de un informe de rendimiento de personas con columnas de plataforma móvil: Documentos de Marketo: Documentación del producto'
+description: 'Creación de un informe de rendimiento de personas con columnas de plataforma móvil: Documentos de Marketo: documentación del producto'
 title: Creación de un informe de rendimiento de personas con columnas de plataforma móvil
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 Siga estos pasos para crear un informe de rendimiento de personas con columnas de plataforma móvil (iOS/Android).
 
-## Crear listas inteligentes para móviles {#create-mobile-smart-lists}
+## Crear listas inteligentes móviles {#create-mobile-smart-lists}
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -28,7 +29,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/three-1.png)
 
-1. Haga clic en **Lista inteligente**.
+1. Clic **Lista inteligente**.
 
    ![](assets/four-1.png)
 
@@ -40,7 +41,7 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/six-1.png)
 
-1. Definir correo electrónico como **es cualquiera**.
+1. Definir correo electrónico como **es cualquier**.
 
    ![](assets/seven.png)
 
@@ -50,19 +51,19 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    >[!TIP]
    >
-   >En este ejemplo se ha utilizado el filtro Correo electrónico abierto . También puede utilizar el filtro Correo electrónico en el que se hizo clic, ya que tiene la restricción Plataforma .
+   >En este ejemplo se ha utilizado el filtro Correo electrónico abierto. También puede utilizar el filtro Correo electrónico en el que se hizo clic, ya que tiene la restricción Plataforma.
 
-1. Establecer plataforma como **iOS**.
+1. Establecer Platform en **iOS**.
 
    ![](assets/nine.png)
 
    >[!NOTE]
    >
-   >Al menos una persona debe haber abierto uno de sus correos electrónicos en un dispositivo iOS para que Marketo pueda sugerirle automáticamente que lo encuentre. Si no aparece, puede escribirlo manualmente y guardarlo.
+   >Al menos una persona debe haber abierto uno de sus correos electrónicos en un dispositivo iOS para que la sugerencia automática de Marketo lo encuentre. Si no aparece, puede escribirlo manualmente y guardarlo.
 
    Ahora cree una segunda lista inteligente para la plataforma &quot;Android&quot;. Una vez hecho esto, pase a la siguiente sección.
 
-## Crear un informe de rendimiento de personas {#create-a-people-performance-report}
+## Creación de un informe de rendimiento de personas {#create-a-people-performance-report}
 
 1. En Actividades de marketing, seleccione el programa que aloja su **iOS** y **Android** listas inteligentes.
 
@@ -72,11 +73,11 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Informe**.
+1. Clic **Informe**.
 
    ![](assets/twelve.png)
 
-1. Definir tipo como **Rendimiento de las personas**.
+1. Establecer tipo en **Rendimiento de personas**.
 
    ![](assets/thirteen.png)
 
@@ -84,24 +85,24 @@ Siga estos pasos para crear un informe de rendimiento de personas con columnas d
 
    ![](assets/fourteen.png)
 
-   ¡Lo estás haciendo bueno! A continuación, vaya a la siguiente sección.
+   ¡Lo estás haciendo bueno! Ahora, a la siguiente sección.
 
 ## Agregar listas inteligentes móviles como columnas {#add-mobile-smart-lists-as-columns}
 
-1. En el informe que acaba de crear, haga clic en **Configuración** y, a continuación, arrastre **Columnas personalizadas** en el lienzo.
+1. En el informe recién creado, haga clic en **Configurar** y luego arrastre **Columnas personalizadas** en el lienzo.
 
    ![](assets/fifteen.png)
 
    >[!NOTE]
    >
-   >De forma predeterminada, el informe Rendimiento de personas está viendo los últimos 7 días. Puede cambiar el intervalo de tiempo haciendo doble clic en él.
+   >De forma predeterminada, el informe Rendimiento de las personas examina los últimos 7 días. Puede cambiar el periodo de tiempo haciendo doble clic en él.
 
 1. Busque y seleccione las listas inteligentes que creó anteriormente y haga clic en **Aplicar**.
 
    ![](assets/sixteen.png)
 
-1. Haga clic en **Informe** para ejecutar el informe y ver sus datos.
+1. Clic **Informe** para ejecutar el informe y ver los datos.
 
    ![](assets/seventeen.png)
 
-   Muy bien, ¿verdad? ¡Bien hecho!
+   Bastante genial, ¿verdad? ¡Bien hecho!

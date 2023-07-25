@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146962
-description: 'Puntuación de cambios: Documentos de Marketo: Documentación del producto'
+description: 'Cambiar puntuación: Documentos de Marketo: documentación del producto'
 title: Cambiar calificación
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -12,9 +13,9 @@ ht-degree: 6%
 
 # Cambiar calificación {#change-score}
 
-## Resumen {#overview}
+## Información general {#overview}
 
-La puntuación es fácil y eficaz para ayudar a su equipo de ventas a priorizar.
+La puntuación de personas es fácil y potente para ayudar a su equipo de ventas a priorizar.
 
 ![](assets/flowstep-changescore.png)
 
@@ -26,7 +27,7 @@ La puntuación es fácil y eficaz para ayudar a su equipo de ventas a priorizar.
 
    >[!TIP]
    >
-   >Puede crear varios campos de puntuación. Consulte [Crear un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obtener más información.
+   >Puede crear varios campos de puntuación. Consulte [Creación de un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obtener más información.
 
 1. Introduzca el cambio de puntuación que desee.
 
@@ -37,6 +38,6 @@ La puntuación es fácil y eficaz para ayudar a su equipo de ventas a priorizar.
    * **+5** para incrementar
    * **-5** disminuirá (se permiten números negativos)
    * **=5** hará que la puntuación sea ese número exacto
-   * **=-5** hará que la puntuación sea un número negativo exacto
+   * **=-5** hará que la puntuación sea ese número negativo exacto
 
-Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el paso del tiempo. ¡Eso es lo que hicimos!
+Obtenga una puntuación básica rápidamente y luego ajuste los resultados con el tiempo. ¡Eso es lo que hicimos!

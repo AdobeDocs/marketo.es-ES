@@ -1,22 +1,23 @@
 ---
 unique-page-id: 11377005
-description: Habilitar RSS para la perspectiva de ventas - Documentos de Marketo - Documentación del producto
-title: Habilitar RSS para la perspectiva de ventas
+description: Habilite RSS para la perspectiva de ventas - Documentos de Marketo - Documentación del producto
+title: Activar RSS para la perspectiva de ventas
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Habilitar RSS para la perspectiva de ventas {#enable-rss-for-sales-insight}
+# Activar RSS para la perspectiva de ventas {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-Si los usuarios de Marketo desean ver su fuente principal no solo en Salesforce, sino también en una fuente RSS, un administrador de Marketo debe habilitarla primero. Es fácil.
+Si los usuarios de Marketo desean ver su fuente principal no solo en Salesforce, sino también en una fuente RSS, un administrador de Marketo debe habilitarla primero. Es muy fácil.
 
 1. En Mi Marketo, haga clic en **Administrador** y luego **Perspectiva de ventas**.
 
@@ -26,12 +27,12 @@ Si los usuarios de Marketo desean ver su fuente principal no solo en Salesforce,
 
    ![](assets/rss-settings-tab.png)
 
-1. En el cuadro de diálogo Editar configuración, marque la casilla **Fuente RSS** casilla de verificación y haga clic en **Guardar**.
+1. En el cuadro de diálogo Editar configuración, marque la **Fuente RSS** y haga clic en **Guardar**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   La fuente RSS ahora se muestra como **Habilitado**.
+   Ahora, la fuente RSS se muestra como **Habilitado**.
 
    ![](assets/rss-final-box.png)
 
-   ¡Un trozo de tarta!
+   ¡Pedazo de torta!

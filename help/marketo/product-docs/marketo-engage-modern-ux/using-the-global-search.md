@@ -1,8 +1,9 @@
 ---
-description: 'Uso de la Búsqueda global: Marketo Docs: Documentación del producto'
+description: 'Uso de la búsqueda global: documentos de Marketo, documentación del producto'
 title: Uso de la búsqueda global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -11,11 +12,11 @@ ht-degree: 3%
 
 # Uso de la búsqueda global {#using-the-global-search}
 
-La potente búsqueda global le ofrece muchas opciones sin límite en los resultados mostrados.
+La potente búsqueda global le ofrece un montón de opciones sin límite en los resultados mostrados.
 
-## Realización de una búsqueda {#performing-a-search}
+## Realizar una búsqueda {#performing-a-search}
 
-1. En Navegación global, haga clic en el icono de búsqueda.
+1. En la navegación global, haga clic en el icono de búsqueda.
 
    ![](assets/using-the-global-search-1.png)
 
@@ -23,7 +24,7 @@ La potente búsqueda global le ofrece muchas opciones sin límite en los resulta
 
    ![](assets/using-the-global-search-2.png)
 
-1. Aparecen los resultados de la búsqueda. Puede hacer clic en cualquier lugar de cualquiera de las rutas de exploración para llevarlas directamente a ese elemento.
+1. Aparecerán los resultados de la búsqueda. Puede hacer clic en cualquier lugar de cualquiera de las rutas de exploración que se van a llevar directamente a ese elemento.
 
    ![](assets/using-the-global-search-3.png)
 
@@ -43,15 +44,15 @@ Se le redirige directamente al correo electrónico deseado.
  <tbody>
   <tr>
    <td>1</td> 
-   <td>Nombre del elemento/destino</td> 
+   <td>Nombre del artículo/destino</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>Ruta (rutas de exploración) al elemento/destino respectivo</td> 
+   <td>Ruta (rutas de exploración) al elemento o destino respectivo</td> 
   </tr>
   <tr>
    <td>3</td> 
-   <td>Fecha y hora de la última modificación del elemento/destino</td> 
+   <td>Fecha y hora de la última modificación del artículo/destino</td> 
   </tr>
   <tr>
    <td>4</td> 
@@ -59,7 +60,7 @@ Se le redirige directamente al correo electrónico deseado.
   </tr>
   <tr>
    <td>5</td> 
-   <td>Implementar filtros centrados para reducir los resultados de búsqueda</td> 
+   <td>Implementación de filtros centrados para reducir los resultados de búsqueda</td> 
   </tr>
  </tbody>
 </table>

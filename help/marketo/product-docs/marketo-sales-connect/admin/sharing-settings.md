@@ -1,28 +1,29 @@
 ---
 unique-page-id: 14746143
 description: Configuración de uso compartido - Documentos de Marketo - Documentación del producto
-title: Configuración de uso compartido
+title: Configuración para compartir
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Configuración de uso compartido {#sharing-settings}
+# Configuración para compartir {#sharing-settings}
 
-Administre mejor las plantillas restringiendo lo que los usuarios pueden compartir y con qué categorías.
+Administre mejor sus plantillas restringiendo lo que los usuarios pueden compartir y con qué categorías.
 
 ![](assets/main.png)
 
-Cuando se crea la cuenta de Conexión de ventas por primera vez, la opción Configuración de uso compartido está activada. Esto da a los administradores de cuentas la oportunidad de crear y organizar las categorías de plantillas antes de abrir las puertas y permitir a los usuarios compartir contenido en las categorías de equipos.
+Cuando se crea la cuenta de Sales Connect por primera vez, se activa la Configuración de uso compartido. Esto ofrece a los administradores de su cuenta la oportunidad de crear y organizar las categorías de plantilla antes de abrir las puertas y permitir a los usuarios compartir contenido en las categorías de equipo.
 
-Cuando la opción Compartir configuración está activada, solo los administradores podrán compartir en las categorías a menos que se proporcionen privilegios de compartir a un equipo o a todos. Con Configuración de uso compartido desactivada, no hay restricciones y todos los usuarios pueden compartir en cualquier categoría de plantilla.
+Cuando la configuración de uso compartido está habilitada, solo los administradores podrán compartir en categorías a menos que se proporcionen privilegios de uso compartido a un equipo o a todos. Con Configuración de uso compartido deshabilitada, no hay restricciones y todos los usuarios pueden compartir en cualquier categoría de plantilla.
 
 ## Configurar la configuración de uso compartido {#configure-your-sharing-settings}
 
-1. En la variable [aplicación web](https://toutapp.com/login), vaya a la página Configuración .
+1. En el [aplicación web](https://toutapp.com/login), vaya a la página Configuración.
 
    ![](assets/one-2.png)
 
@@ -30,30 +31,30 @@ Cuando la opción Compartir configuración está activada, solo los administrado
 
    ![](assets/two-2.png)
 
-1. Asegúrese de **Configuración de uso compartido** están activados. Esto significa que, de forma predeterminada, solo los administradores pueden compartir plantillas en sus categorías de plantillas.
+1. Asegúrese de **Configuración de uso compartido** están activadas. Esto significa que, de forma predeterminada, solo los administradores podrán compartir plantillas en las categorías de plantillas.
 
    ![](assets/three-2.png)
 
-1. Seleccione la categoría de plantilla que desee configurar.
+1. Seleccione la Categoría de plantilla que desee configurar.
 
    ![](assets/four-2.png)
 
-1. Haga clic en **Agregar equipos para acceso**.
+1. Clic **Agregar equipos para obtener acceso**.
 
    ![](assets/five-2.png)
 
-1. Seleccione los equipos que desee agregar.
+1. Seleccione los equipos que desee añadir.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Si no ve ningún equipo, deberá ir a Administración de equipos y crear un equipo de usuarios.
+   >Si no ve ningún equipo, tendrá que ir a Administración de equipos y crear un equipo de usuarios.
 
-1. Haga clic en **Agregar equipos para acceso** para guardar.
+1. Clic **Agregar equipos para obtener acceso** para guardar.
 
    ![](assets/seven-1.png)
 
-1. Ahora que su equipo se ha agregado, puede seleccionar permitir que solo los administradores del equipo compartan o que todos los usuarios de ese equipo. En este ejemplo hemos dado acceso compartido a todos los usuarios del equipo de DEG.
+1. Ahora que se ha añadido su equipo, puede seleccionar permitir que solo los administradores de equipo compartan información sobre todos los usuarios de ese equipo. En este ejemplo, dimos acceso compartido a todos los usuarios del equipo de SDR.
 
    ![](assets/eight-1.png)

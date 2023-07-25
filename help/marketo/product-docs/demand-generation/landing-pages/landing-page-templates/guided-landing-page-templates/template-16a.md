@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437834
-description: 'Plantilla 16A: Documentos de Marketo: Documentación del producto'
+description: Plantilla 16A - Documentos de Marketo - Documentación del producto
 title: Plantilla 16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye título a pantalla completa y texto a pantalla completa
+   * incluye título y texto de héroe
 
 * Seis secciones del cuerpo
 * Pie de página (opcional)

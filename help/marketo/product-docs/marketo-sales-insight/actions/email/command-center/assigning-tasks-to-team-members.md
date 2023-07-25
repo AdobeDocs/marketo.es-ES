@@ -1,17 +1,18 @@
 ---
-description: 'Asignación de tareas a integrantes del equipo: Documentos de Marketo: Documentación del producto'
-title: Asignación de tareas a integrantes del equipo
+description: Asignación de tareas a integrantes del equipo - Documentos de Marketo - Documentación del producto
+title: Asignar tareas a integrantes del equipo
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Asignación de tareas a integrantes del equipo {#assigning-tasks-to-team-members}
+# Asignar tareas a integrantes del equipo {#assigning-tasks-to-team-members}
 
-Si desea colaborar con otros integrantes del equipo, la asignación de tareas puede ser una buena manera de coordinar los esfuerzos de prospección.
+Si desea colaborar con otros integrantes del equipo, asignar tareas puede ser una buena manera de coordinar sus esfuerzos de prospección.
 
 >[!NOTE]
 >
@@ -21,7 +22,7 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Haga clic en **Agregar tarea**.
+1. Clic **Agregar tarea**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -33,11 +34,11 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
    ![](assets/assigning-tasks-to-team-members-4.png)
 
-1. Seleccione la persona del equipo a la que desea asignar la tarea en el campo Asignar tarea .
+1. Seleccione a la persona de su equipo a la que desee asignar la tarea en el campo Asignar tarea.
 
    ![](assets/assigning-tasks-to-team-members-5.png)
 
-1. Agregue a la persona a la que desee ponerse en contacto en el campo de persona.
+1. Añada la persona a la que desee ponerse en contacto en el campo persona.
 
    ![](assets/assigning-tasks-to-team-members-6.png)
 
@@ -49,6 +50,6 @@ Si desea colaborar con otros integrantes del equipo, la asignación de tareas pu
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Añada cualquier detalle importante que sea relevante para su compañero de equipo (opcional) y haga clic en **Crear**.
+1. Añada cualquier detalle importante que sea relevante para su compañero (opcional) y haga clic en **Crear**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

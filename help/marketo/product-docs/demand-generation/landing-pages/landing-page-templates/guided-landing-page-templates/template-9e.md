@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783993
-description: 'Plantilla 9E: Documentos de Marketo: Documentación del producto'
+description: Plantilla 9E - Documentos de Marketo - Documentación del producto
 title: Plantilla 9E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -20,9 +21,9 @@ Esta plantilla incluye el siguiente contenido:
 
 * Una sección principal
 
-   * incluye una imagen a pantalla completa, una imagen de logotipo y un botón
+   * incluye una imagen a pantalla completa, un logotipo y un botón
 
-* Ocho secciones de cuerpo (opcional)
+* Ocho secciones del cuerpo (opcional)
 * Un pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

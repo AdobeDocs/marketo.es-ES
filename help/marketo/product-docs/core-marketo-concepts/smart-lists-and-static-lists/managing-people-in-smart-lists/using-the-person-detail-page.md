@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2953415
-description: 'Uso de la página de detalles de la persona: Marketo Docs: documentación del producto'
-title: Uso de la página de detalles de persona
+description: Uso de la página de detalles de persona - Documentos de Marketo - Documentación del producto
+title: Uso de la página Detalles de Persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 44%
 
 ---
 
-# Uso de la página de detalles de persona {#using-the-person-detail-page}
+# Uso de la página Detalles de Persona {#using-the-person-detail-page}
 
-La página de detalles de la persona contiene toda la información que Marketo conoce sobre una persona. Los datos se pueden editar directamente desde esta página.
+La página de detalles de la persona contiene toda la información que Marketo conoce sobre una persona. Puede editar los datos directamente desde esta página.
 
-## Página de detalles de persona {#getting-to-person-detail-page}
+## Cómo llegar a la página Detalles de Persona {#getting-to-person-detail-page}
 
-Hay muchas maneras de abrir personas específicas. Algunos ejemplos son:
+Hay muchas maneras de abrir a personas específicas. Algunos ejemplos son:
 
-* En el **Base de datos**, puede buscar en Búsqueda rápida
-* Cualquier elemento inteligente **list** o lista
+* Desde el **Base de datos**, puede buscar en Búsqueda rápida
+* Cualquier elemento inteligente **lista** o lista
 * **Miembros** pestaña de un programa
 * **Ver miembros de campaña** en una campaña inteligente
-* Algunas **informes**
+* Algunos **informes**
+  <br> 
 
-   <br> 
-
-1. Haga doble clic en cualquier persona o haga clic en el ID de la izquierda.
+1. Haga doble clic en cualquier persona o haga clic en el ID a la izquierda.
 
    ![](assets/one-1.png)
 
@@ -34,43 +34,43 @@ Hay muchas maneras de abrir personas específicas. Algunos ejemplos son:
 
    ![](assets/two-5.png)
 
-## Organización de páginas - Salesforce {#page-organization-salesforce}
+## Organización de la página - Salesforce {#page-organization-salesforce}
 
 La información de la persona se clasifica en las siguientes pestañas:
 
-| Tabulación | Descripción |
+| Ficha | Descripción |
 |---|---|
 | Información | Información de contacto y campos personalizados sobre una persona. |
-| Información de la empresa | Información y dirección de la empresa de la persona. |
+| Información de empresa | Información y dirección de la empresa de la persona. |
 | Información de oportunidad | Información de oportunidad sincronizada desde Salesforce. |
 | Campo de posible cliente de SFDC | Campos integrados de Salesforce. |
-| Campo personalizado SFDC | Campos de Salesforce personalizados. |
-| Registro de actividades | Todas las actividades relacionadas con la persona. |
+| Campo personalizado de SFDC | Campos personalizados de Salesforce. |
+| Registro de actividad | Todas las actividades relacionadas con la persona. |
 
-## Organización de páginas - Microsoft Dynamics {#page-organization-microsoft-dynamics}
+## Organización de la página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Tabulación | Descripción |
+| Ficha | Descripción |
 |---|---|
 | Información | Información de contacto y campos personalizados sobre una persona. |
-| Información de la empresa | Información y dirección de la empresa de la persona. |
+| Información de empresa | Información y dirección de la empresa de la persona. |
 | Información de oportunidad | Información de oportunidad sincronizada desde Microsoft. |
-| Campos personalizados de Microsoft | Campos personalizados de Microsoft . |
+| Campos personalizados de Microsoft | Campos personalizados de Microsoft. |
 | Campo de posible cliente de Microsoft | Campos integrados de Microsoft. |
-| Registro de actividades | Todas las actividades relacionadas con la persona. |
+| Registro de actividad | Todas las actividades relacionadas con la persona. |
 
 >[!NOTE]
 >
->También puede ver la información de oportunidad [insertado mediante API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instancias que no se sincronizan con un CRM.
+>También puede ver Información de oportunidad [insertado mediante API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instancias que no se sincronizan con un CRM.
 
-## Edición de campos {#editing-a-field}
+## Edición de un campo {#editing-a-field}
 
-Muchos campos son editables. Para actualizar la información de una persona, escriba un valor nuevo y haga clic fuera del campo para guardar.
+Muchos campos son editables. Para actualizar la información de una persona, escriba un nuevo valor y haga clic fuera del campo para guardar.
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Campos predeterminados de Marketo antes de la sincronización con CRM {#marketo-default-fields-prior-to-crm-sync}
+## Campos predeterminados de Marketo anteriores a la sincronización de CRM {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | Dirección | Ingresos anuales | IP anónima | Dirección de facturación | Ciudad de facturación |
 | País de facturación | Código postal de facturación | Estado de facturación | Ciudad | Nombre de la compañía |
@@ -84,7 +84,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 | URL de imagen de Marketo Social para Facebook | URL de perfil de Marketo Social en Facebook | Alcance de Marketo Social en Facebook | Inscripciones referidas desde Facebook de Marketo Social | Visitas referidas desde Facebook de Marketo Social |
 | Sexo de Marketo Social | Última inscripción referida desde Facebook de Marketo Social | Última visita referida desde Facebook de Marketo Social | Nombre de Marketo Social para mostrar en LinkedIn | Identificación de Marketo Social en LinkedIn |
 | URL de imagen de Marketo Social para LinkedIn | URL de perfil de Marketo Social en LinkedIn | Alcance de Marketo Social en LinkedIn | Inscripciones referidas desde LinkedIn de Marketo Social | Visitas referidas desde LinkedIn de Marketo Social |
-| Marketo Social Syndication ID | Inscripciones referidas totales de Marketo Social | Visitas referidas totales de Marketo Social | Nombre de Marketo Social para mostrar en Twitter | Identificación de Marketo Social en Twitter |
+| ID de Marketo Social Syndication | Inscripciones referidas totales de Marketo Social | Visitas referidas totales de Marketo Social | Nombre de Marketo Social para mostrar en Twitter | Identificación de Marketo Social en Twitter |
 | URL de imagen de Marketo Social para Twitter | URL de perfil de Marketo Social en Twitter | Alcance de Marketo Social en Twitter | Inscripciones referidas desde Twitter de Marketo Social | Visitas referidas desde Twitter de Marketo Social |
 | Segundo nombre | Número de teléfono móvil | Cantidad de empleados | Número de teléfono | Código postal |
 | Prioridad | Puntaje relativo | Rol | Saludo | Código SIC |
@@ -93,15 +93,15 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 
 >[!NOTE]
 >
->Algunos campos son _not_ editable:
+>Algunos campos son _no_ editable:
 >
->* Registro de actividades
->* Información de la empresa
->* Oportunidades para los contactos de SFDC
->* Ciertos campos específicos de Marketo, como Fecha de creación y Tipo de origen original.
+>* Registro de actividad
+>* Información de empresa
+>* Oportunidades para contactos de SFDC
+>* Algunos campos específicos de Marketo, como Fecha de creación y Tipo de origen original.
 >
 >Más información sobre [Campos administrados por el sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->[Creación de una ficha personalizada para la página de detalles de la persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Creación de una ficha personalizada para la página de detalles de persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)

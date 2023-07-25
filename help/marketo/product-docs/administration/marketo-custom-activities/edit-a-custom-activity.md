@@ -3,7 +3,8 @@ unique-page-id: 10100269
 description: 'Edición de una actividad personalizada: documentos de Marketo, documentación del producto'
 title: Editar una actividad personalizada
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
-source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
+feature: Custom Activities
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

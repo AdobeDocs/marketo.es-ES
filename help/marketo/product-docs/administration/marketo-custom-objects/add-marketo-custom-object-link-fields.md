@@ -3,7 +3,8 @@ unique-page-id: 10097613
 description: 'Agregar campos de vínculo de objeto personalizado de Marketo: documentos de Marketo, documentación del producto'
 title: Agregar campos de vínculo de objeto personalizado de Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -133,4 +134,3 @@ El siguiente paso es utilizar estos objetos personalizados en filtros en sus cam
 >* [Editar y eliminar un objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Editar y eliminar campos de objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
-

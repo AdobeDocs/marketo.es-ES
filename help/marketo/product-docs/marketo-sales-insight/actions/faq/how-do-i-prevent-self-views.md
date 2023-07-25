@@ -1,35 +1,36 @@
 ---
-description: '¿Cómo puedo evitar las autovisualizaciones? Documentos de Marketo: Documentación del producto'
-title: ¿Cómo puedo evitar las autovisualizaciones?
+description: ¿Cómo evito las visualizaciones automáticas? - Documentos de Marketo - Documentación del producto
+title: ¿Cómo evito las vistas automáticas?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-# ¿Cómo Evito Las Autovisualizaciones? {#how-do-i-prevent-self-views}
+# ¿Cómo evito las auto-visualizaciones? {#how-do-i-prevent-self-views}
 
-Obtener falsos positivos en el seguimiento de vista puede provocar incoherencias en los informes. Esto suele ocurrir cuando los usuarios de Ventas de Marketo invocan accidentalmente el píxel de seguimiento de su cliente de correo electrónico (lo llamamos autovista). A continuación se ofrecen algunos consejos para reducir e incluso eliminar las opiniones personales de forma significativa.
+Obtener falsos positivos en el seguimiento de vistas puede provocar incoherencias en los informes. Esto suele ocurrir cuando los usuarios de Marketo Sales invocan accidentalmente el píxel de seguimiento desde su cliente de correo electrónico (lo llamamos &quot;vista propia&quot;). A continuación se ofrecen algunas sugerencias para reducir significativamente e incluso eliminar las visualizaciones automáticas.
 
 ## Web (Outlook Web App y Gmail) {#web-outlook-web-app-and-gmail}
 
-Marketo Sales almacenará una cookie en su explorador para evitar que se rastreen las vistas al abrir los correos electrónicos de Outlook Web App y Gmail. Si sigue recibiendo autovistas, le recomendamos que haga lo siguiente:
+Marketo Sales almacenará una cookie en su navegador para evitar que se rastreen las vistas al abrir sus correos electrónicos desde Outlook Web App y Gmail. Si sigue recibiendo autovisualizaciones, le recomendamos que haga lo siguiente:
 
-* Asegúrese de tener habilitadas las cookies en su equipo.
+* Asegúrese de que tiene las cookies habilitadas en el equipo.
 
-* Si utiliza un equipo o dispositivo móvil nuevo, asegúrese de haber iniciado sesión en la aplicación web. Esto nos permitirá reconocer el equipo/dispositivo a partir de ahora.
+* Si utiliza un equipo nuevo o un dispositivo móvil, asegúrese de haber iniciado sesión en la aplicación web. Esto nos permitirá reconocer su ordenador/dispositivo a partir de ahora.
 
 ## Escritorio (Windows) {#desktop-windows}
 
-Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su cliente de correo electrónico. Puede reducir significativamente la cantidad de autovistas en Outlook desactivando las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos de cómo.
+Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su cliente de correo electrónico. Puede reducir considerablemente la cantidad de visualizaciones automáticas en Outlook si deshabilita las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos para hacerlo.
 
 1. En Outlook, haga clic en **Archivo** en la barra de menús.
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Haga clic en **Opciones**.
+1. Clic **Opciones**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
@@ -37,25 +38,25 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. En el Centro de confianza de Microsoft Outlook, haga clic en **Configuración del centro de confianza**.
+1. En Centro de confianza de Microsoft Outlook, haga clic en **Configuración del Centro de confianza**.
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Haga clic en Descarga automática en el menú de la izquierda y seleccione la opción **No descargue imágenes automáticamente en el correo electrónico del HTML o en los elementos RSS** en el Navegador.
+1. Haga clic en Descarga automática en el menú de la izquierda y seleccione. **No descargar imágenes automáticamente en el correo electrónico del HTML o en elementos RSS** casilla de verificación.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Haga clic en **OK** en el cuadro de diálogo Centro de confianza.
+1. Clic **OK** en el cuadro de diálogo Centro de confianza.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Haga clic en **OK** en el cuadro de diálogo Opciones de Outlook.
+1. Clic **OK** en el cuadro de diálogo Opciones de Outlook.
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
 ## Escritorio (Mac) {#desktop-mac}
 
-Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su cliente de correo electrónico. Puede reducir significativamente la cantidad de autovistas en Outlook desactivando las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos de cómo.
+Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su cliente de correo electrónico. Puede reducir considerablemente la cantidad de visualizaciones automáticas en Outlook si deshabilita las imágenes para que se descarguen automáticamente. A continuación se muestran los pasos para hacerlo.
 
 1. En Outlook, haga clic en **Outlook** en la barra de menús y seleccione **Preferencias**.
 
@@ -65,6 +66,6 @@ Las vistas se rastrean descargando un pequeño píxel de imagen invisible en su 
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. En Seguridad, haga clic en la **Nunca** botón de opción.
+1. En Seguridad, haga clic en **Nunca** botón de opción.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

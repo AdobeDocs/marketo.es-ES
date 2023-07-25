@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359671
-description: 'Agregar texto de sugerencia a un campo de formulario: Documentos de Marketo: Documentación del producto'
+description: Agregar texto de sugerencia a un campo de formulario - Documentos de Marketo - Documentación del producto
 title: Agregar texto de sugerencia a un campo de formulario
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Agregar texto de sugerencia a un campo de formulario {#add-hint-text-to-a-form-field}
 
-Sugerencias y [instrucciones](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) ayudar a las personas a rellenar formularios. A continuación se explica cómo agregar una sugerencia.
+Sugerencias y [instrucciones](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) ayudar a las personas a rellenar formularios. A continuación se muestra cómo agregar una sugerencia.
 
 >[!NOTE]
 >
 >**Definición**
 >
->Formulario **Sugerencias** es texto dentro del campo que desaparece cuando el visitante empieza a escribir en el campo.
+>Form **Sugerencias** es el texto dentro del campo que desaparece cuando el visitante empieza a escribir en el campo.
 >
->Formulario **Instrucciones** son pequeñas informaciones de objeto que se muestran cuando el visitante pasa el ratón por encima del campo.
+>Form **Instrucciones** Hay pequeñas descripciones que se muestran cuando el visitante pasa el ratón por encima del campo.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -30,22 +31,22 @@ Sugerencias y [instrucciones](/help/marketo/product-docs/demand-generation/forms
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Seleccione el campo e introduzca su **Sugerencia de texto**.
+1. Seleccione el campo e introduzca su **Texto de sugerencia**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >No olvides [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
+   >No te olvides de [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-¡Echa un vistazo! Sigamos adelante y agreguemos algunas [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.
+¡Eche un vistazo! Vamos a seguir adelante y agregar algo [instrucciones](add-tooltip-instructions-to-a-form-field.md) ahora.

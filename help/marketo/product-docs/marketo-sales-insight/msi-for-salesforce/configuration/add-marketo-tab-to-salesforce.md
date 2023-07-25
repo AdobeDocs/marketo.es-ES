@@ -1,28 +1,29 @@
 ---
-description: 'Añadir la pestaña Marketo a Salesforce: Documentos de Marketo: Documentación del producto'
-title: Añadir la ficha Marketo a Salesforce
+description: 'Añadir la pestaña Marketo a Salesforce: Documentos de Marketo: documentación del producto'
+title: Añadir la pestaña Marketo a Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
-source-git-commit: a268bd275f1aeb2aff7c3f7f90a8fd557a1c408d
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Añadir la ficha Marketo a Salesforce {#add-marketo-tab-to-salesforce}
+# Añadir la pestaña Marketo a Salesforce {#add-marketo-tab-to-salesforce}
 
-1. En Salesforce, haga clic en **+** y haga clic en **Personalizar mis fichas**.
+1. En Salesforce, haga clic **+** y haga clic en **Personalizar mis fichas**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Seleccione Marketo en la lista de la izquierda. A continuación, haga clic en **Agregar** para agregarlo al **Pestañas seleccionadas**.
+1. Seleccione Marketo en la lista de la izquierda. Luego haga clic en **Añadir** para agregarlo al **Fichas seleccionadas**.
 
    >[!TIP]
    >
-   >Utilice la variable **Up** y **Down** para reordenar las pestañas.
+   >Utilice el **Arriba** y **Abajo** flecha para reordenar las pestañas.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 
-   ¡Y aquí está su pestaña de Marketo!
+   ¡Y aquí está tu pestaña de Marketo!
 
    ![](assets/add-marketo-tab-to-salesforce-3.png)

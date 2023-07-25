@@ -1,19 +1,20 @@
 ---
-description: Asignación de campos predeterminada de Veva - Documentos de Marketo - Documentación del producto
-title: Asignación de campos de veeva predeterminada
+description: Asignación de campos Veeva predeterminada - Documentos de Marketo - Documentación del producto
+title: Asignación de campos Veeva predeterminada
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 39%
+ht-degree: 40%
 
 ---
 
-# Asignación de campos de veeva predeterminada {#default-veeva-field-mapping}
+# Asignación de campos Veeva predeterminada {#default-veeva-field-mapping}
 
-Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Veva y Marketo. Marketo también sincronizará los campos personalizados en sus cuentas y contactos.
+Al sincronizar inicialmente la cuenta de Marketo Engage con Veeva, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Veeva y Marketo. Marketo también sincronizará los campos personalizados en sus cuentas y contactos.
 
-## Campos de contacto {#contact-fields}
+## Campos de contactos {#contact-fields}
 
 <table>
   <colgroup>
@@ -22,13 +23,13 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
   </colgroup>
   <thead>
     <tr>
-      <th>Campo SFDC</th>
-      <th>Campo Marketo</th>
+      <th>Campo de SFDC</th>
+      <th>Campo de Marketo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Fecha de nacimiento</td>
+      <td>Birthdate</td>
       <td>Fecha de nacimiento</td>
     </tr>
     <tr>
@@ -36,15 +37,15 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
       <td>Fecha de creación en SFDC</td>
     </tr>
     <tr>
-      <td>Descripción del contacto</td>
+      <td>Descripción de contacto</td>
       <td>Notas de la persona</td>
     </tr>
     <tr>
-      <td>Email</td>
+      <td>Correo electrónico</td>
       <td>Dirección de email</td>
     </tr>
     <tr>
-      <td>Fax empresarial</td>
+      <td>Fax del trabajo</td>
       <td>Número de fax</td>
     </tr>
     <tr>
@@ -64,7 +65,7 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
       <td>Apellido</td>
     </tr>
     <tr>
-      <td>Origen del posible cliente</td>
+      <td>Origen del cliente potencial</td>
       <td>Origen</td>
     </tr>
     <tr>
@@ -110,7 +111,7 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
   </tbody>
 </table>
 
-## Campos de la cuenta {#account-fields}
+## Campos de cuentas {#account-fields}
 
 <table>
   <colgroup>
@@ -119,8 +120,8 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
   </colgroup>
   <thead>
     <tr>
-      <th>Campo SFDC</th>
-      <th>Campo Marketo</th>
+      <th>Campo de SFDC</th>
+      <th>Campo de Marketo</th>
     </tr>
   </thead>
   <tbody>
@@ -141,7 +142,7 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
       <td>Código postal de facturación</td>
     </tr>
     <tr>
-      <td>Estado/provincia de facturación</td>
+      <td>Estado o provincia de facturación</td>
       <td>Estado de facturación</td>
     </tr>
     <tr>
@@ -149,7 +150,7 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
       <td>Dirección de facturación</td>
     </tr>
     <tr>
-      <td>Descripción de la cuenta</td>
+      <td>Descripción de cuenta</td>
       <td>Notas de la compañía</td>
     </tr>
     <tr>
@@ -169,7 +170,7 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
       <td>Cantidad de empleados</td>
     </tr>
     <tr>
-      <td>Teléfono de la cuenta</td>
+      <td>Teléfono de cuenta</td>
       <td>Teléfono principal</td>
     </tr>
     <tr>
@@ -177,7 +178,7 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
       <td>Código SIC</td>
     </tr>
     <tr>
-      <td>Sitio de la cuenta</td>
+      <td>Sitio de cuenta</td>
       <td>Sitio</td>
     </tr>
     <tr>
@@ -191,9 +192,9 @@ Cuando sincroniza inicialmente la cuenta de Marketo Engage con Veeva, Marketo re
   </tbody>
 </table>
 
-## Campos del sistema relacionados con Veva en Marketo (solo lectura) {#veeva-related-system-fields-in-marketo}
+## Campos del sistema relacionados con Veeva en Marketo (solo lectura) {#veeva-related-system-fields-in-marketo}
 
-Estos campos se crean en Marketo, pero los clientes no pueden ajustarlos.
+Estos campos se crean en Marketo, pero los clientes no los pueden ajustar.
 
 <table>
   <colgroup>
@@ -208,20 +209,20 @@ Estos campos se crean en Marketo, pero los clientes no pueden ajustarlos.
   </thead>
   <tbody>
     <tr>
-      <td>Id De Véeva</td>
+      <td>Veeva Id</td>
       <td>El ID de Salesforce de 18 caracteres</td>
     </tr>
     <tr>
-      <td>Tipo de veeva</td>
+      <td>Tipo Veeva</td>
       <td>Contacto. Si está vacío, el posible cliente solo existe como persona en Marketo</td>
     </tr>
     <tr>
       <td>Fecha de creación de Veeva</td>
-      <td>Fecha de creación en SFDC (puede diferir de Creado en Marketo)</td>
+      <td>Fecha de creación en SFDC (puede ser diferente de Creación en Marketo)</td>
     </tr>
     <tr>
-      <td>Veva se elimina</td>
-      <td>La persona solía estar en SFDC pero se eliminó y ahora solo reside en Marketo</td>
+      <td>Veeva se ha eliminado</td>
+      <td>La persona solía estar en SFDC, pero se ha eliminado y ahora solo vive en Marketo</td>
     </tr>
   </tbody>
 </table>

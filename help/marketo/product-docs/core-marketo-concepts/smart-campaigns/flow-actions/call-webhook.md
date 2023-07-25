@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147023
-description: 'Llamada a Weblock: Documentos de Marketo: Documentación del producto'
+description: 'Llamar al webhook: documentos de Marketo: documentación del producto'
 title: Llamar a un Webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 7%
@@ -14,26 +15,26 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->[Creación de un vínculo web](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Crear un webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
 
-## Resumen {#overview}
+## Información general {#overview}
 
-Los Webhooks le permiten interactuar con servicios de terceros. Envíe/reciba información llamando a un enlace web en un flujo de campaña inteligente.
+Los webhooks le permiten interactuar con servicios de terceros. Envíe o reciba información llamando a un webhook en un flujo de campaña inteligente.
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->Aprenda sobre las muchas cosas fascinantes que [Enlaces web](https://developers.marketo.com/documentation/webhooks/) puede hacer por usted.
+>Aprenda sobre las muchas cosas fascinantes que [Webhooks](https://developers.marketo.com/documentation/webhooks/) Puedo hacer por ti.
 
 ## Uso {#usage}
 
-Seleccione un **Weblock** en la lista desplegable .
+Seleccione una **Webhook** de la lista desplegable.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-¡Eso es todo! El vínculo web se invocará ahora siempre que las personas entren en el flujo de campaña inteligente.
+¡Eso es todo! Ahora, el webhook se invocará cada vez que las personas entren en el flujo de campañas inteligentes.
 
 >[!MORELIKETHIS]
 >
->[Uso de un vínculo web en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[Uso de un webhook en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)

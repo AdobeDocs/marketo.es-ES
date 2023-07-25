@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2359734
-description: 'Vista previa de una página de aterrizaje con contenido dinámico: documentos de Marketo: documentación del producto'
-title: Vista previa de una página de aterrizaje con contenido dinámico
+description: 'Previsualización de una página de aterrizaje con contenido dinámico: documentos de Marketo, documentación del producto'
+title: Previsualización de una página de aterrizaje con contenido dinámico
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Vista previa de una página de aterrizaje con contenido dinámico {#preview-a-landing-page-with-dynamic-content}
+# Previsualización de una página de aterrizaje con contenido dinámico {#preview-a-landing-page-with-dynamic-content}
 
-Previsualice la página de aterrizaje después de añadir contenido dinámico para asegurarse de que todo tiene el aspecto que debe tener.
+Obtenga una vista previa de la página de aterrizaje después de agregar contenido dinámico para asegurarse de que todo tiene el aspecto que debería.
 
 >[!PREREQUISITES]
 >
 >* [Uso de contenido dinámico en una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [Vista previa de una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [Previsualización de una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-
-1. Seleccione una página de aterrizaje y haga clic en **Vista previa de la página**.
+1. Seleccione una página de aterrizaje y haga clic en **Previsualizar página**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
@@ -28,4 +28,4 @@ Previsualice la página de aterrizaje después de añadir contenido dinámico pa
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-¡Increíble! Ahora puede asegurarse de que las páginas de aterrizaje funcionen correctamente y de que desea que funcionen en distintos segmentos.
+¡Increíble! Ahora puede asegurarse de que las páginas de aterrizaje funcionen según lo desea en todos los segmentos.

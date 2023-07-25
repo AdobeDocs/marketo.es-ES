@@ -1,51 +1,52 @@
 ---
 unique-page-id: 1147352
-description: 'Envío de un correo electrónico de muestra: Documentos de Marketo: Documentación del producto'
-title: Enviar un correo electrónico de ejemplo
+description: 'Enviar un correo electrónico de muestra: documentos de Marketo, documentación del producto'
+title: Enviar correo electrónico de muestra
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
-source-git-commit: 1586b71ec9f9c4f8abc4fd9a3277d5a5f5b88080
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
-# Enviar un correo electrónico de ejemplo {#send-a-sample-email}
+# Enviar correo electrónico de muestra {#send-a-sample-email}
 
-Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un correo electrónico de contenido dinámico, consulte [Vista previa de un correo electrónico con contenido dinámico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+Enviar muestras de un correo electrónico es rápido y sencillo. Para enviar un correo electrónico de contenido dinámico, consulte [Vista previa de un correo electrónico con contenido dinámico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->Debe tener la variable **Acceso a Base de Datos: Ejecutar Acciones de Flujo Único** permiso para enviar correos electrónicos de ejemplo.
+>Debe tener el **Base de datos de Access - Ejecutar acciones de flujo único** permiso para enviar correos electrónicos de ejemplo.
 
-## Enviar un correo electrónico de ejemplo {#send-a-sample-email-1}
+## Enviar correo electrónico de muestra {#send-a-sample-email-1}
 
-1. Busque y seleccione su correo electrónico. Haga clic en el **Acciones de correo electrónico** y seleccione **Enviar muestra**.\
+1. Busque y seleccione su correo electrónico. Haga clic en **Acciones de correo electrónico** y seleccione. **Enviar muestra**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
-   >Mis tokens se resuelven en el valor apropiado para el programa del correo electrónico.
+   >Mis tokens resuelven el valor apropiado para el programa del correo electrónico.
 
-1. Introduzca una o varias direcciones de correo electrónico para la entrega. Para varias direcciones de correo electrónico, utilice comas para separarlas. Haga clic en **Enviar** cuando haya terminado.
+1. Introduzca una o varias direcciones de correo electrónico para la entrega. Para varias direcciones de correo electrónico, utilice comas para separarlas. Clic **Enviar** cuando termine.
 
    ![](assets/two.png)
 
    >[!IMPORTANT]
    >
-   >Si introduce varias direcciones de correo electrónico, todas ellas serán visibles para cada destinatario. El primero introducido será el destinatario principal y cada dirección de correo electrónico posterior será un destinatario CC.
+   >Si introduce varias direcciones de correo electrónico, todos serán visibles para cada destinatario. El primero que introduzca será el destinatario principal y cada dirección de correo electrónico posterior será un destinatario de CC.
 
    >[!TIP]
    >
-   >Si desea resolver los tokens como una persona específica, elija a esa persona en la variable **lista desplegable de personas** en el paso 2.
+   >Si desea resolver tokens como una persona específica, elija dicha persona en la **lista desplegable de personas** en el paso 2.
 
-## Enviar un correo electrónico de ejemplo al editar {#send-a-sample-email-while-editing}
+## Enviar un correo electrónico de muestra durante la edición {#send-a-sample-email-while-editing}
 
-1. Busque su correo electrónico, selecciónelo y haga clic en el botón **Editar borrador** pestaña .
+1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador** pestaña.
 
    ![](assets/three-281-29.jpg)
 
-1. Haga clic en **Acciones de correo electrónico**, seleccione **Enviar muestra**.
+1. Clic **Acciones de correo electrónico**, seleccione **Enviar muestra**.
 
    ![](assets/four.png)
 
@@ -55,40 +56,40 @@ Es rápido y fácil enviar muestras de un correo electrónico. Para enviar un co
 
    >[!NOTE]
    >
-   >El campo de déclencheur solo es aplicable a los que utilizan [secuencia de comandos de correo electrónico](https://developers.marketo.com/documentation/velocity-script/).
+   >El campo déclencheur solo es aplicable a los que utilizan [script de correo electrónico](https://developers.marketo.com/documentation/velocity-script/).
 
-## Envío de un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
+## Enviar un correo electrónico de muestra basado en un segmento {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Aplicar segmentación al correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
+>[Aplicación de la segmentación a su correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Busque su correo electrónico, selecciónelo y haga clic en el botón **Editar borrador** pestaña .
+1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador** pestaña.
 
    ![](assets/three-281-29.jpg)
 
-1. Haga clic en **Vista previa**.
+1. Clic **Previsualizar**.
 
    ![](assets/1.png)
 
-1. Haga clic en el **Ver por** y seleccione **Segmentación**.
+1. Haga clic en **Ver por** y seleccione. **Segmentación**.
 
    ![](assets/2.png)
 
-1. Aparece un menú desplegable con las segmentaciones disponibles. Haga clic en él y seleccione el que desee.
+1. Aparecerá una lista desplegable con las segmentaciones disponibles. Haga clic en él y seleccione el que desee.
 
    ![](assets/3.png)
 
-1. Utilice las flechas para desplazarse por sus opciones (en este caso cambiamos dinámicamente la línea de asunto).
+1. Utilice las flechas para desplazarse por las opciones (en este caso, cambiamos dinámicamente la línea de asunto).
 
    ![](assets/4.png)
 
-1. Haga clic en **Enviar muestra** para recibir un correo electrónico de prueba del segmento en acción.
+1. Clic **Enviar muestra** para recibir un correo electrónico de prueba del segmento en acción.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >También puede enviar un correo electrónico de ejemplo basado en un segmento en el modo de edición del correo electrónico. Haga clic en el **Acciones de correo electrónico** desplegable, seleccione **Enviar muestra** y, a continuación, elija su segmento.
+   >También puede enviar un correo electrónico de ejemplo basado en un segmento en el modo de edición del correo electrónico. Haga clic en **Acciones de correo electrónico** menú desplegable, seleccione **Enviar muestra** y, a continuación, elija el segmento.
 
-Muestreo del contenido antes de lanzar una campaña es muy importante. ¡Medir dos veces, cortar una vez!
+Es muy importante muestrear el contenido antes de lanzar una campaña. Medir dos veces, cortar una vez!

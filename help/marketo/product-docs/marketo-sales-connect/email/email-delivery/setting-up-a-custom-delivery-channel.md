@@ -1,31 +1,31 @@
 ---
 unique-page-id: 14746470
-description: 'Configuración de un canal de entrega personalizado: documentos de Marketo: documentación del producto'
-title: Configuración de un canal de envío personalizado
+description: 'Configuración de un canal de entrega personalizado: documentos de Marketo, documentación del producto'
+title: Configuración de un canal de entrega personalizado
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-# Configuración de un canal de envío personalizado {#setting-up-a-custom-delivery-channel}
+# Configuración de un canal de entrega personalizado {#setting-up-a-custom-delivery-channel}
 
-Marketo Sales Connect le permite integrarse con un servidor SMTP personalizado para el envío de sus correos electrónicos. Esta es una buena opción para aquellos que no desean enviar correos electrónicos masivos desde su canal de entrega de Gmail o Exchange.
+Marketo Sales Connect le permite integrarse con un servidor SMTP personalizado para el envío de sus correos electrónicos. Esta es una buena opción para aquellos que no desean enviar correos electrónicos masivos fuera de su canal de entrega de Gmail o Exchange.
 
-Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso individual, o los administradores pueden configurar un SMTP de equipo para compartirlo entre todos los usuarios de Conexión de ventas de su instancia.
+Los usuarios pueden configurar un servidor SMTP personalizado para su uso individual, o los administradores pueden configurar un SMTP de equipo para compartirlo entre todos los usuarios de Sales Connect de su instancia.
 
 >[!NOTE]
 >
->* Además de configurar el servidor SMTP, su [la identidad de correo electrónico debe verificarse](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes de poder enviar correos electrónicos.
->* Le recomendamos que trabaje con su equipo de TI o con el proveedor de servidores SMTP para obtener las credenciales de servidor correctas para su servidor SMTP.
->* No puede conectar el servidor de Gmail y Exchange con las credenciales del servidor SMTP. Utilice nuestro servicio de conexión de correo electrónico para integrarlo con estos proveedores.
-
+>* Además de configurar el servidor SMTP, su [debe verificarse la identidad del correo electrónico](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes de poder enviar correos electrónicos.
+>* Se recomienda trabajar con su equipo de TI o con el proveedor de servidores SMTP para obtener las credenciales de servidor adecuadas para su servidor SMTP.
+>* No puede conectar el servidor de Gmail y Exchange con las credenciales del servidor SMTP. Utilice nuestro servicio de conexión de correo electrónico para integrarse con estos proveedores.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono del engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Inicie sesión en [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
@@ -33,7 +33,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Haga clic en **Canal de envío personalizado**.
+1. Clic **Canal de envío personalizado**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
@@ -43,7 +43,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    >[!NOTE]
    >
-   >Si este es su único canal de envío, se asigna automáticamente a todas sus identidades de correo electrónico y ya ha terminado aquí. Si este no es el único canal de envío, continúe con el paso 5.
+   >Si este es su único canal de envío, se asigna automáticamente a todas las identidades de correo electrónico y ha terminado aquí. Si este no es el único canal de envío, siga con el paso 5.
 
 1. Mientras sigue en Configuración de correo electrónico, haga clic en **Dirección y firma**.
 
@@ -53,25 +53,25 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. En la tarjeta de entrega, haga clic en **Editar**.
+1. En la tarjeta de envío, haga clic en **Editar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Haga clic en la lista desplegable Canal y seleccione el canal de envío personalizado que acaba de añadir. Haga clic en **Guardar**.
+1. Haga clic en el menú desplegable Canal y elija el canal de entrega personalizado que acaba de añadir. Clic **Guardar**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
    >[!NOTE]
    >
-   >Si el administrador del equipo configura el servidor SMTP del equipo, se aplicará automáticamente solo a su identidad de correo electrónico predeterminada y estará disponible como opción para el resto de identidades de correo electrónico.
+   >Si el administrador del equipo configura el servidor SMTP de equipo, se aplicará automáticamente solo a su identidad de correo electrónico predeterminada y estará disponible como opción para el resto de identidades de correo electrónico.
 
-## Servidor SMTP de equipo {#team-smtp-server}
+## Servidor SMTP del equipo {#team-smtp-server}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Inicie sesión en la [aplicación web](https://toutapp.com/login), haga clic en el icono del engranaje en la parte superior derecha y seleccione **Configuración**.
+1. Inicie sesión en [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje en la parte superior derecha y seleccione **Configuración**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -79,7 +79,7 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Haga clic en **Canal de entrega de equipo**.
+1. Clic **Canal de envío de equipo**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
@@ -89,11 +89,10 @@ Los usuarios pueden configurar un servidor SMTP personalizado para su propio uso
 
    >[!NOTE]
    >
-   >Team SMTP Server será el canal de envío predeterminado de la identidad de correo electrónico predeterminada para todos los integrantes del equipo. Además, estará disponible como opción de canal de envío para todas las demás identidades de correo electrónico.
+   >El servidor SMTP de equipo será el canal de entrega predeterminado de la identidad de correo electrónico predeterminada para todos los integrantes del equipo. Además, estará disponible como opción de canal de envío para todas las demás identidades de correo electrónico.
 
    >[!MORELIKETHIS]
    >
    >* [Conexión de correo electrónico para usuarios de Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
    >* [Conexión de correo electrónico para usuarios de Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

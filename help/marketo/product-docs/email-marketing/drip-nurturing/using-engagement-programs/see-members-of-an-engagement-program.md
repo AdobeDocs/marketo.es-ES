@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359861
-description: 'Consulte Miembros de un programa de participación: Documentos de Marketo: Documentación del producto'
+description: Consulte Miembros de un programa de participación - Documentos de Marketo - Documentación del producto
 title: Consulte Miembros de un programa de participación
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -20,7 +21,7 @@ Puede ver rápidamente los miembros de un programa de participación. Así es co
 
    >[!NOTE]
    >
-   >La variable  [Contenido agotado](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) se actualiza después de cada conversión.
+   >El  [Contenido agotado](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) el valor de la columna se actualiza después de cada conversión.
 
 1. Ahora puede ver todos los miembros del programa.
 

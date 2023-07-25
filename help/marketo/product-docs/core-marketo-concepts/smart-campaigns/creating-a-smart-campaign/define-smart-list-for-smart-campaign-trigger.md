@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1146942
-description: Definición de la lista inteligente para campañas inteligentes | Déclencheur - Documentos de Marketo - Documentación del producto
-title: Definición de la lista inteligente para campañas inteligentes | Déclencheur
+description: Definición de listas inteligentes para campañas inteligentes | Déclencheur - Documentos de Marketo - Documentación del producto
+title: Definición de listas inteligentes para campañas inteligentes | DÉCLENCHEUR
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
-# Definición de la lista inteligente para campañas inteligentes | Déclencheur {#define-smart-list-for-smart-campaign-trigger}
+# Definición de listas inteligentes para campañas inteligentes | DÉCLENCHEUR {#define-smart-list-for-smart-campaign-trigger}
 
-Haga que una campaña inteligente se ejecute en una persona a la vez en función de los eventos en directo añadiendo déclencheur.
+Haga que una campaña inteligente se ejecute de a una persona a la vez en función de los eventos en directo mediante la adición de déclencheur.
 
-1. En la campaña inteligente, haga clic en el botón **Lista inteligente** pestaña .
+1. En la campaña inteligente, haga clic en **Lista inteligente** pestaña.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -24,11 +25,11 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 
    >[!NOTE]
    >
-   >Una campaña inteligente con déclencheur se ejecuta en **Déclencheur** en el menú contextual. Se ejecuta de una persona a la vez en función de los eventos activados y los filtros adicionales.
+   >Se ejecuta una campaña inteligente con déclencheur en **Déclencheur** modo. Se ejecuta en una persona a la vez en función de los eventos activados y los filtros adicionales.
 
    >[!IMPORTANT]
    >
-   >Al utilizar un campo booleano en una lista inteligente de campañas de déclencheur, debe establecerlo explícitamente en &#39;false&#39; para que el campo se evalúe correctamente durante la ejecución de la campaña.
+   >Cuando se utiliza un campo booleano en una lista inteligente de campañas de déclencheur, se debe establecer explícitamente en &quot;false&quot; para que el campo se evalúe correctamente durante la ejecución de la campaña.
 
 1. Haga clic en la lista desplegable y seleccione un operador.
 
@@ -36,11 +37,11 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 
    >[!CAUTION]
    >
-   >Las líneas rojas indican errores o falta información. Si no se corrige, la campaña no será válida y no se ejecutará.
+   >Las líneas rojas onduladas indican errores o falta información. Si no se corrige, la campaña no será válida y no se ejecutará.
 
    >[!TIP]
    >
-   >En una campaña inteligente con déclencheur y filtros, los déclencheur van en la parte superior y, cuando se activan, solo las personas que satisfacen los criterios de filtro pasan por el flujo.
+   >En una campaña inteligente con déclencheur y filtros, los déclencheur se colocan en la parte superior y, cuando se activan, solo las personas que cumplen los criterios de filtro pasan por el flujo.
 
 1. Defina el déclencheur.
 
@@ -48,9 +49,9 @@ Haga que una campaña inteligente se ejecute en una persona a la vez en función
 
    >[!NOTE]
    >
-   >Con varios déclencheur, una persona recorre el flujo si **CUALQUIER** uno de los déclencheur se activa.
+   >Con varios déclencheur, una persona pasa por el flujo si **CUALQUIERA** se activa uno de los déclencheur.
 
-Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definición de la lista inteligente para campañas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Para ejecutar la campaña en un conjunto de personas al mismo tiempo, aprenda a [Definición de listas inteligentes para campañas inteligentes | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >

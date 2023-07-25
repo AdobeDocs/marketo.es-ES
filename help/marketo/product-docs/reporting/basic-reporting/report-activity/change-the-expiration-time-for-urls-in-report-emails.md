@@ -1,37 +1,38 @@
 ---
 unique-page-id: 2360032
-description: 'Cambio del tiempo de caducidad de las direcciones URL en los mensajes de correo electrónico del informe: documentos de Marketo: documentación del producto'
-title: Cambiar el tiempo de caducidad de las direcciones URL en los mensajes de correo electrónico del informe
+description: Cambio del tiempo de caducidad de las direcciones URL en los correos electrónicos de los informes - Documentos de Marketo - Documentación del producto
+title: Cambio del tiempo de caducidad de las direcciones URL en los correos electrónicos del informe
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Cambiar el tiempo de caducidad de las direcciones URL en los mensajes de correo electrónico del informe {#change-the-expiration-time-for-urls-in-report-emails}
+# Cambio del tiempo de caducidad de las direcciones URL en los correos electrónicos del informe {#change-the-expiration-time-for-urls-in-report-emails}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-Los vínculos de los correos electrónicos de suscripción a informes caducan al cabo de tres días. Para cambiar el tiempo de caducidad de estos vínculos, siga estos pasos.
+Los vínculos de los correos electrónicos de suscripción al informe caducan al cabo de tres días. Para cambiar la hora de caducidad de estos vínculos, siga estos pasos.
 
-1. En **Administrador**, haga clic en **Configuración de inicio de sesión**.
+1. En **Administrador**, haga clic en **Configuración de inicio**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Haga clic en el **Editar caducidad de la dirección URL** botón.
+1. Haga clic en **Editar caducidad de URL** botón.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Seleccione en el menú desplegable cuántos días antes de que caduque el vínculo. Haga clic en **Guardar**.
+1. En el menú desplegable, seleccione cuántos días quedan para que caduque el vínculo. Clic **Guardar**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
-   Genial, ha editado la configuración de caducidad del vínculo del correo electrónico.
+   Genial, has editado la configuración de caducidad de los vínculos de correo electrónico.
 
    >[!NOTE]
    >
-   >Recuerde que solo se aplican a los vínculos de informes y alertas, no a los correos electrónicos de marketing.
+   >Recuerde, esto solo se aplica a los vínculos de los informes y las alertas, no a los correos electrónicos de marketing.

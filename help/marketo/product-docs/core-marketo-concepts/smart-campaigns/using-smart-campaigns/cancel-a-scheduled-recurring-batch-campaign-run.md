@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147060
-description: Cancelar una ejecución programada de campaña por lotes recurrentes - Documentos de Marketo - Documentación del producto
-title: Cancelar una ejecución programada de campaña por lotes recurrentes
+description: 'Cancelar una ejecución de campaña de lotes recurrentes programada: documentos de Marketo, documentación del producto'
+title: Cancelar una ejecución programada de campaña por lotes recurrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Cancelar una ejecución programada de campaña por lotes recurrentes {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Cancelar una ejecución programada de campaña por lotes recurrente {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las ejecuciones futuras. Así es como.
 
-1. Seleccione la campaña inteligente y haga clic en el botón **Programación** pestaña .
+1. Seleccione la campaña inteligente y haga clic en **Programación** pestaña.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Haga clic en **Programar repetición**.
+1. Clic **Programar periodicidad**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Para cancelar una sola ejecución, haga clic en el botón ![rojo x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) junto a él. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >Puede cancelar una sola ejecución haciendo clic en ![x roja](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) al lado. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
-1. Definir programación como **Ninguna** y haga clic en **Guardar**.
+1. Establecer horario en **Ninguno** y haga clic en **Guardar**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -34,7 +35,7 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
 
    >[!CAUTION]
    >
-   >Esto cancela ejecuciones futuras, pero si una campaña inteligente se está ejecutando, no puede cancelarla.
+   >Esto cancela ejecuciones futuras, pero si una campaña inteligente está en proceso de ejecución, no puede cancelarla.
 
    >[!MORELIKETHIS]
    >

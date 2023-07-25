@@ -3,7 +3,8 @@ unique-page-id: 2359418
 description: 'Importar una lista de personas: documentos de Marketo, documentación del producto'
 title: Importar una lista de personas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -101,7 +102,6 @@ En este tutorial, aprenderá a importar personas de un archivo de hoja de cálcu
    > * Omitir creación de nueva persona
    > * Omitir actualizaciones de campo de persona
    > * Omitir el registro de actividades
-
 
 1. Asigne su [!UICONTROL Columna de lista] a sus respectivos campos de Marketo y haga clic en **[!UICONTROL Siguiente]**.
 

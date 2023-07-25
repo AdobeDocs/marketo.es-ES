@@ -2,7 +2,8 @@
 description: 'Modificación o eliminación de un seminario web interactivo: documentos de Marketo, documentación del producto'
 title: Modificar o eliminar un seminario web interactivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+feature: Interactive Webinars
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%

@@ -1,21 +1,22 @@
 ---
-description: 'Información general sobre Dynamic Chat: Documentos de Marketo: Documentación del producto'
-title: Información general de conversación dinámica
+description: Información general del Dynamic Chat - Documentos de Marketo - Documentación del producto
+title: Información general de Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '857'
 ht-degree: 2%
 
 ---
 
-# Información general de conversación dinámica {#dynamic-chat-overview}
+# Información general de Dynamic Chat {#dynamic-chat-overview}
 
-Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse tanto a las personas como a las cuentas que visitan su sitio web. Recopile contenido relevante, como nombre, información de contacto y texto libre. Los visitantes del sitio también pueden reservar reuniones con su equipo de ventas. Los datos de participación y actividad de chat dinámico se pueden utilizar para agregar miembros a programas de Marketo y actividades de canales cruzados de déclencheur.
+Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse tanto a las personas como a las cuentas que visitan el sitio web. Recopile contenido relevante, como nombre, información de contacto y texto libre. Los visitantes del sitio también pueden reservar reuniones con su equipo de ventas. Los datos de participación y actividad del Dynamic Chat se pueden utilizar para añadir miembros a programas de Marketo y actividades multicanal de déclencheur.
 
 >[!NOTE]
 >
->El chat dinámico está en proceso de ser lanzado gradualmente y actualmente está en disponibilidad limitada. Esta página se actualizará con detalles de disponibilidad general (GA) a medida que estén disponibles.
+>El Dynamic Chat se está implementando gradualmente y actualmente tiene una disponibilidad limitada. Esta página se actualizará con los detalles de disponibilidad general (GA) a medida que esté disponible.
 
 >[!TIP]
 >
@@ -23,95 +24,95 @@ Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse ta
 
 ## Integraciones {#integrations}
 
-Un componente clave de la conversación dinámica es su capacidad para interactuar de forma nativa con su suscripción a Marketo. Para aprovechar todas las capacidades de esta integración, primero deberá iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) para completar.
+Un componente clave de Dynamic Chat es su capacidad para interactuar de forma nativa con la suscripción de Marketo. Para aprovechar todas las capacidades de esta integración, primero debe iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas en completarse. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) para completar.
 
 Se sincroniza lo siguiente:
 
-* Datos de campo de persona
-* Datos de campo de la empresa
+* Datos del campo de persona
+* Datos de campo de empresa
 * Datos de actividad
 
-## Cuadros de diálogo {#dialogues}
+## Diálogos {#dialogues}
 
-Los cuadros de diálogo representan una sola participación en el chat. Piense en ello como un contenedor con todas las cosas que necesita para tener un diálogo de chat atractivo para los visitantes de su sitio web. En cada cuadro de diálogo, puede especificar en qué páginas desea que aparezca el cuadro de diálogo, a quién desea que se muestre, y el contenido y el flujo del propio cuadro de diálogo. Además, puede encontrar métricas para ver el rendimiento del cuadro de diálogo. [Más información sobre los cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+Los cuadros de diálogo representan una única participación en el chat. Piense en él como un contenedor con todo lo que necesita para tener un diálogo de chat atractivo para los visitantes de su sitio web. En cada cuadro de diálogo, puede especificar en qué página desea que aparezca el cuadro de diálogo, a quién desea que se muestre y el contenido y flujo del propio cuadro de diálogo. Además, puede encontrar métricas para ver el rendimiento de su cuadro de diálogo. [Más información sobre los Cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## Configuración {#configuration}
 
-En la pestaña Configuración , personalice el aspecto de los distintos cuadros de diálogo. Cambie la fuente, los colores, el tiempo de respuesta y mucho más. [Más información sobre la configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+En la pestaña Configuración, personalice el aspecto de los distintos cuadros de diálogo. Cambiar fuente, colores, tiempo de respuesta y mucho más. [Más información sobre la Configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## Calendario {#calendar}
 
-Conecte el calendario de Outlook o Gmail para usarlo en la programación de citas en el bot de chat. [Más información sobre Calendario](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Conecte el calendario de Outlook o Gmail para utilizarlo en la programación de citas en el bot de chat. [Más información sobre el Calendario](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Reuniones {#meetings}
 
-Aquí es donde verá todas las citas que han programado los visitantes del sitio web a través de sus distintos diálogos. [Más información sobre las reuniones](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de los distintos cuadros de diálogo. [Más información sobre las Reuniones](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Enrutando {#routing}
 
-Aquí es donde puede ver una lista de todos los agentes que han conectado sus calendarios, el orden en que se presentarán a los visitantes del sitio web y crear reglas de enrutamiento personalizadas. [Más información sobre el enrutamiento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+Aquí puede ver una lista de todos los agentes que han conectado sus calendarios, el orden en que se presentarán a los visitantes del sitio web y la creación de reglas de enrutamiento personalizadas. [Más información sobre el Enrutamiento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## Preguntas frecuentes {#faq}
 
-**¿Puedo instalar Dynamic Chat en cualquier lugar del sitio web de mi empresa o solo funciona en páginas de aterrizaje de Marketo?**
+**¿Puedo instalar Dynamic Chat en cualquier lugar del sitio web de mi empresa o solo funciona en las páginas de aterrizaje de Marketo?**
 
-El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio web, así como en las páginas de aterrizaje de Marketo.
+El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio web, así como en páginas de aterrizaje de Marketo.
 
-**¿Durante cuánto tiempo se almacenan los datos para los informes?**
+**¿Durante cuánto tiempo se almacenan los datos para la creación de informes?**
 
-90 días (véase la lista completa de límites) [below](#limits-in-dynamic-chat)).
+90 días (ver la lista completa de límites) [abajo](#limits-in-dynamic-chat)).
 
-**¿La conversación dinámica permite el chat en directo?**
+**¿El Dynamic Chat permite el chat en vivo?**
 
 No, solo utiliza respuestas predeterminadas.
 
-**¿Admite Dynamic Chat algún idioma aparte del inglés?**
+**¿Dynamic Chat admite otros idiomas además del inglés?**
 
-Sí. Dynamic Chat admite los siguientes idiomas: Francés, alemán, japonés, español, italiano, portugués de Brasil, coreano, chino simplificado y chino tradicional. Obtenga más información en la [sección inferior](#changing-the-language).
+Sí. Dynamic Chat admite los siguientes idiomas: francés, alemán, japonés, español, italiano, portugués (Brasil), coreano, chino simplificado y chino tradicional. Obtenga más información en la [sección siguiente](#changing-the-language).
 
 **¿Admite la funcionalidad AI/NLP?**
 
-No se admite la funcionalidad AI/NLP.
+No admitimos la funcionalidad de IA/NLP.
 
-**¿Cómo puedo orientarme hacia personas anónimas?**
+**¿Cómo puedo dirigirme a personas anónimas?**
 
-En el cuadro de diálogo, debe utilizar la variable _El correo electrónico de la persona está vacío_ atributo.
+En el cuadro de diálogo, debe utilizar el _Correo electrónico de persona está vacío_ atributo.
 
 ## Cambio de idioma {#changing-the-language}
 
-Siga estos pasos para cambiar el idioma de la conversación dinámica.
+Siga estos pasos para cambiar el idioma del Dynamic Chat.
 
 >[!IMPORTANT]
 >
->Cambiar el idioma en el nivel de perfil cambiará el idioma para _all_ aplicaciones Experience Cloud, no solo chat dinámico.
+>Si cambia el idioma en el nivel de perfil, se cambiará el idioma de _todo_ Aplicaciones Experience Cloud, no solo Dynamic Chat.
 
 1. En la cuenta de Experience Cloud, haga clic en el icono de configuración y seleccione **Preferencias**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. Haga clic en el idioma actual en su dirección de correo electrónico.
+1. Haga clic en el idioma actual debajo de su dirección de correo electrónico.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Elija el nuevo idioma (el segundo idioma es opcional) y haga clic en **Guardar**.
+1. Elija su nuevo idioma (el segundo idioma es opcional) y haga clic en **Guardar**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >Hay algunas docenas de idiomas entre los que elegir, sin embargo, Dynamic Chat solo admite lo siguiente: inglés, francés, alemán, japonés, español, italiano, portugués de Brasil, coreano, chino simplificado y chino tradicional.
+   >Hay algunas docenas de idiomas para elegir, sin embargo, el Dynamic Chat solo admite lo siguiente: inglés, francés, alemán, japonés, español, italiano, portugués de Brasil, coreano, chino simplificado y chino tradicional.
 
-Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto las palabras que haya rellenado personalmente (por ejemplo, respuestas de flujo).
+Al actualizar el idioma, todo cambia en la propia aplicación, excepto las palabras que haya rellenado personalmente (por ejemplo, respuestas de flujo).
 
-## Límites en la conversación dinámica {#limits-in-dynamic-chat}
+## Límites en el Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
   <th>Parámetro</th>
   <th>Descripción</th>
   <th>Límite</th>
  <tr>
-  <td>Diálogos totales</td>
-  <td>Número de diálogos (publicados y borradores)</td>
+  <td>Total de cuadros de diálogo</td>
+  <td>Número de cuadros de diálogo (publicados y en borrador)</td>
   <td>500</td>
  </tr>
  <tr>
@@ -120,8 +121,8 @@ Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto
   <td>25</td>
  </tr>
  <tr>
-  <td>Usuarios totales (administradores y usuarios de marketing)</td>
-  <td>Número de usuarios combinados permitidos por instancia de Dynamic Chat</td>
+  <td>Total de usuarios (administradores y usuarios de marketing)</td>
+  <td>Número de usuarios combinados permitidos por Dynamic Chat</td>
   <td>50</td>
  </tr>
  <tr>
@@ -130,18 +131,18 @@ Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto
   <td>100</td>
  </tr>
  <tr>
-  <td>Direcciones URL de destino por cuadro de diálogo</td>
-  <td>Número de direcciones URL de destino que se pueden agregar a un único cuadro de diálogo</td>
+  <td>URL de destino por cuadro de diálogo</td>
+  <td>Número de direcciones URL de destino que se pueden añadir a un solo cuadro de diálogo</td>
   <td>20</td>
  </tr>
  <tr>
   <td>Atributos por cuadro de diálogo</td>
-  <td>Número de atributos que se pueden añadir a los criterios de audiencia para un único cuadro de diálogo</td>
+  <td>Número de atributos que se pueden añadir a los criterios de audiencia de un solo cuadro de diálogo</td>
   <td>100</td>
  </tr>
  <tr>
   <td>Grupos</td>
-  <td>Número de grupos que se pueden agregar a un único cuadro de diálogo</td>
+  <td>Número de grupos que se pueden agregar a un solo cuadro de diálogo</td>
   <td>10</td>
  </tr>
  <tr>
@@ -155,33 +156,33 @@ Al actualizar el idioma, todo lo que hay en la propia aplicación cambia excepto
   <td>500</td>
  </tr>
  <tr>
-  <td>Período de retención de datos de posible cliente anónimo</td>
-  <td>Duración durante cuánto tiempo se conservará la información de un posible cliente anónimo sin participación</td>
+  <td>Período de retención de datos de posibles clientes anónimos</td>
+  <td>Duración de cuánto tiempo se conservará la información de un posible cliente anónimo sin ninguna participación</td>
   <td>90 días</td>
  </tr>
  <tr>
   <td>Período de retención de actividad de objetivo</td>
-  <td>Cantidad de tiempo que se retienen los datos de actividad de objetivo</td>
+  <td>Cantidad de tiempo que se retienen los datos de actividad de la meta</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Período de retención de actividad del documento</td>
+  <td>Período de retención de actividad de documento</td>
   <td>Cantidad de tiempo que se retienen los datos de actividad del documento</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Interactuado con período de retención de actividad de cuadro de diálogo</td>
-  <td>Se conserva la cantidad de tiempo interaccionado con los datos de actividad del cuadro de diálogo</td>
+  <td>Interactuado con período de retención de actividad de diálogo</td>
+  <td>Se conserva el tiempo interactuado con los datos de la actividad del cuadro de diálogo</td>
   <td>90 días</td>
  </tr>
  <tr>
-  <td>Período de retención de actividad de reserva de reuniones</td>
-  <td>La cantidad de tiempo que la actividad de reserva de reuniones se almacenará en la conversación dinámica</td>
+  <td>Período de retención de actividad de reserva de reunión</td>
+  <td>La cantidad de tiempo que se almacenará la actividad de reserva de reunión en Dynamic Chat</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Conversaciones entabladas</td>
-  <td>Número de conversaciones de chat con las que los visitantes web pueden participar al mes</td>
+  <td>Conversaciones Involucradas</td>
+  <td>Número de conversaciones de chat con las que pueden participar los visitantes web al mes</td>
   <td>250</td>
  </tr>
  <tr>

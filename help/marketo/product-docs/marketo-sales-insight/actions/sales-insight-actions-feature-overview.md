@@ -2,10 +2,11 @@
 description: Información general sobre las acciones de perspectiva de ventas - Documentos de Marketo - Documentación del producto
 title: Información general sobre acciones de Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -130,7 +131,7 @@ Las siguientes acciones masivas están disponibles en la lista desplegable de la
 * Envío de correo electrónico de ventas: capacidad para enviar correos electrónicos personalizados o con plantilla con seguimiento de visualización, clics y respuestas
 * Enviar campaña de ventas: agregue posibles clientes a los libros de reproducción de ventas, que es una secuencia de correos electrónicos y tareas
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 Las siguientes acciones en línea están disponibles para posibles clientes/contactos individuales en la pestaña Resultados más probables:
 
@@ -139,7 +140,7 @@ Las siguientes acciones en línea están disponibles para posibles clientes/cont
 * Marcador de ventas: realice llamadas de ventas usando el marcador dentro de CRM
 * Añadir tarea: cree tareas de correo electrónico, llamada, cliente o LinkedIn para posibles clientes potenciales
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **Pestaña Correo electrónico**
 
@@ -160,9 +161,9 @@ Las siguientes acciones en línea están disponibles para posibles clientes/cont
 * Sincronizar tareas con Salesforce
 * Registrar tareas en la sección Historial de actividades de Salesforce
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
-**Live Feed**
+**Fuente directa**
 
 * Posibilidad de ver actualizaciones en directo sobre las actividades de ventas junto con la capacidad de acoplamiento de pantalla
 * Los botones de correo electrónico, llamada y cadencia incrustados hacen que cada conocimiento del cliente sea procesable
@@ -189,4 +190,4 @@ Los filtros y Déclencheur incluyen:
 * Añadido a la campaña de ventas
 * Se quitó de Campaña de ventas
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

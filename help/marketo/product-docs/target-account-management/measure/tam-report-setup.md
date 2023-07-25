@@ -1,26 +1,27 @@
 ---
 unique-page-id: 11384438
-description: Configuración del informe TAM - Documentos de Marketo - Documentación del producto
-title: Configuración del informe TAM
+description: Configuración de informes TAM - Documentos de Marketo - Documentación del producto
+title: Configuración de informe de TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Configuración del informe TAM {#tam-report-setup}
+# Configuración de informe de TAM {#tam-report-setup}
 
-El informe de ventas de TAM es un correo electrónico personalizado y semanal que se envía al equipo de la cuenta.
+El informe de ventas de TAM es un correo electrónico semanal personalizado que se envía al equipo de la cuenta.
 
 ## Configuración de informes {#report-setup}
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/one-3.png)
 
-1. Haga clic en **Administración de cuentas de Target**.
+1. Clic **Administración de cuentas de Target**.
 
    ![](assets/tam-report-setup-2.png)
 
@@ -28,23 +29,23 @@ El informe de ventas de TAM es un correo electrónico personalizado y semanal qu
 
    ![](assets/three-3.png)
 
-1. Haga clic en el **Día** y seleccione el día de la semana en el que desea que los destinatarios reciban el correo electrónico.
+1. Haga clic en **Día** y seleccione el día de la semana en el que desea que los destinatarios reciban el correo electrónico.
 
    ![](assets/four-4.png)
 
-1. Para determinar el diseño del correo electrónico, haga clic en el botón **Ordenar por** y realice una selección.
+1. Para determinar el diseño del correo electrónico, haga clic en **Ordenar por** y realice una selección.
 
    ![](assets/five-3.png)
 
-1. Marque la **Usuarios** , haga clic en la lista desplegable y seleccione quién desea recibir el correo electrónico.
+1. Compruebe la **Usuarios** , luego haga clic en la lista desplegable y seleccione a quién desea recibir el correo electrónico.
 
    ![](assets/six-2.png)
 
    >[!NOTE]
    >
-   >Las notificaciones solo se enviarán a los propietarios de cuentas o a los integrantes del equipo.
+   >Las notificaciones solo se enviarán a los propietarios de la cuenta o a los integrantes del equipo.
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
    ![](assets/seven-2.png)
 
@@ -52,28 +53,28 @@ El informe de ventas de TAM es un correo electrónico personalizado y semanal qu
 
 ## Cómo cancelar la suscripción {#how-to-unsubscribe}
 
-Cada informe incluye la opción de exclusión. Para ello, haga clic en **Cancelar suscripción** en la parte inferior del correo electrónico.
+Cada informe incluye la opción de exclusión. Para ello, simplemente haga clic en **Cancelar suscripción** al final del correo electrónico.
 
 ![](assets/eight-1.png)
 
 ## Cómo volver a suscribirse {#how-to-resubscribe}
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/one-3.png)
 
-1. Haga clic en **Administración de cuentas de Target**.
+1. Clic **Administración de cuentas de Target**.
 
    ![](assets/tam-report-setup-10.png)
 
-1. En Informe semanal, haga clic en el número que aparece como Cancelación de suscripción.
+1. En Informe semanal, haga clic en el número que aparece como Cancelada la suscripción.
 
    ![](assets/nine.png)
 
-1. Haga clic en el **Usuarios** lista desplegable.
+1. Haga clic en **Usuarios** menú desplegable.
 
    ![](assets/ten.png)
 
-1. Seleccione de nuevo el usuario al que desea recibir los correos electrónicos y haga clic en **Volver a suscribirse**.
+1. Vuelva a seleccionar el usuario que desea que reciba correos electrónicos y haga clic en **Volver a suscribir**.
 
    ![](assets/eleven.png)

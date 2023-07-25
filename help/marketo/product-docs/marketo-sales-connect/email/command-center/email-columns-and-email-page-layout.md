@@ -1,18 +1,19 @@
 ---
 unique-page-id: 37357302
-description: 'Columnas de correo electrónico y diseño de página de correo electrónico: documentos de Marketo: documentación del producto'
+description: 'Columnas de correo electrónico y diseño de página de correo electrónico: documentos de Marketo, documentación del producto'
 title: Columnas de correo electrónico y diseño de página de correo electrónico
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
 # Columnas de correo electrónico y diseño de página de correo electrónico {#email-columns-and-email-page-layout}
 
-Puede configurar cualquiera de las columnas disponibles para que estén visibles en la sección de correo electrónico del Centro de comandos. Los ajustes de configuración se guardarán para cada subcarpeta de correo electrónico (por ejemplo, Entrega, Fallido, Programado, etc.).
+Puede configurar cualquiera de las columnas disponibles para que sean visibles en la sección de correo electrónico del Centro de comandos. Los ajustes de configuración se guardarán para cada subcarpeta de correo electrónico (por ejemplo, Entregado, Fallido, Programado, etc.).
 
 ## Columnas de correo electrónico {#email-columns}
 
@@ -28,23 +29,23 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
   </tr> 
   <tr> 
    <td>Persona</td> 
-   <td>Nombre y correo electrónico de la persona en Conexión de Ventas. Al hacer clic en este campo se abrirá la ficha Acerca de en la vista de detalles de la persona.</td> 
+   <td>Nombre y correo electrónico de la persona en Sales Connect. Al hacer clic en este campo, se abrirá la pestaña Acerca de en la vista de detalles de la persona.</td> 
   </tr> 
   <tr> 
    <td>Nombre</td> 
-   <td>Nombre de la persona en Conexión de Ventas.</td> 
+   <td>Nombre de la persona en Sales Connect.</td> 
   </tr> 
   <tr> 
    <td>Dirección</td> 
-   <td>Dirección de correo electrónico principal de la persona en Conexión de ventas.</td> 
+   <td>Dirección de correo electrónico principal de la persona en Sales Connect.</td> 
   </tr> 
   <tr> 
    <td>Campaña</td> 
-   <td>Si el correo electrónico se envió como parte de una campaña, se mostrará el nombre de la campaña. Al hacer clic en este campo, se le dirigirá a la página de configuración de esa campaña.</td> 
+   <td>Si el correo electrónico se envió como parte de una campaña, se mostrará el nombre de la campaña. Al hacer clic en este campo, accederá a la página de configuración de la campaña.</td> 
   </tr> 
   <tr> 
    <td>Plantilla</td> 
-   <td>Muestra el nombre de la plantilla (si el correo electrónico se envió con uno).</td> 
+   <td>Muestra el nombre de la plantilla (si el correo electrónico se envió con una).</td> 
   </tr> 
   <tr> 
    <td colspan="1">Asunto</td> 
@@ -60,23 +61,23 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
   </tr> 
   <tr> 
    <td>Compañía</td> 
-   <td>Empresa del destinatario del correo electrónico.</td> 
+   <td>Compañía del destinatario del correo electrónico.</td> 
   </tr> 
   <tr> 
-   <td>Estado del correo electrónico</td> 
-   <td>Estado en el que se encuentra el correo electrónico. Los estados incluyen: Borrador, Programado, En Curso, Correo No Deseado, Devuelto, Fallido, Enviado. Los correos electrónicos enviados muestran un flujo de actividad que muestra cuántas vistas, clics y respuestas se han producido en ese correo electrónico.</td> 
+   <td>Estado de email</td> 
+   <td>Estado en el que se encuentra el correo electrónico. Los estados incluyen: Borrador, Programado, En curso, Correo no deseado, Devuelto, Fallido, Enviado. Los correos electrónicos enviados mostrarán un flujo de actividad que indica cuántas vistas, clics y respuestas se han realizado en ese correo electrónico.</td> 
   </tr> 
   <tr> 
    <td>Fecha de creación</td> 
-   <td>Fecha en que se creó el correo electrónico.</td> 
+   <td>Fecha de creación del correo electrónico.</td> 
   </tr> 
   <tr> 
    <td>Última actualización</td> 
-   <td>Fecha en que se actualizó por última vez el correo electrónico.</td> 
+   <td>Fecha de la última actualización del correo electrónico.</td> 
   </tr> 
   <tr> 
    <td>Canal de entrega</td> 
-   <td>Nombre del canal de entrega que se utilizó para enviar el correo electrónico.</td> 
+   <td>Nombre del canal de envío que se utilizó para enviar el correo electrónico.</td> 
   </tr> 
   <tr> 
    <td>Última actividad</td> 
@@ -87,33 +88,33 @@ Puede configurar cualquiera de las columnas disponibles para que estén visibles
    <td>La fecha en la que se envió el correo electrónico.</td> 
   </tr> 
   <tr> 
-   <td>Seguimiento de acciones</td> 
-   <td>Botones de acción rápida que pueden utilizarse para el seguimiento por correo electrónico, teléfono, inMail o tarea.</td> 
+   <td>Acciones de seguimiento</td> 
+   <td>Botones de acción rápida que se pueden utilizar para el seguimiento por correo electrónico, teléfono, inMail o tarea.</td> 
   </tr> 
   <tr> 
-   <td>Correo electrónico del grupo</td> 
+   <td>Email grupal</td> 
    <td>Muestra una marca de verificación si el correo electrónico se envió como parte de un mensaje de correo electrónico de grupo.</td> 
   </tr> 
   <tr> 
-   <td>Fecha de vencimiento de tarea</td> 
-   <td>Muestra la fecha de vencimiento de las tareas relacionadas con el correo electrónico. Las tareas se pueden relacionar con un correo electrónico creando a partir de los botones de acción rápida de la lista de correo electrónico.</td> 
+   <td>Fecha de vencimiento de la tarea</td> 
+   <td>Muestra la fecha de vencimiento de las tareas relacionadas con el correo electrónico. Las tareas pueden relacionarse con un correo electrónico mediante la creación de botones de acción rápida en la lista de correo electrónico.</td> 
   </tr> 
   <tr> 
-   <td>Acción de correo electrónico</td> 
-   <td>Botones de acción rápida que se pueden utilizar para realizar acciones en el correo electrónico. Según el estado del correo electrónico, pueden estar disponibles las siguientes acciones: Archivo, Éxito, Eliminar, Reintentar Enviar, Desarchivar.</td> 
+   <td>Acción de email</td> 
+   <td>Botones de acción rápida que se pueden utilizar para realizar acciones en el correo electrónico. Según el estado del correo electrónico, pueden estar disponibles las siguientes acciones: Archivar, Correcto, Eliminar, Reintentar, Enviar y Desarchivar.</td> 
   </tr> 
   <tr> 
    <td>Tipo de tarea</td> 
-   <td>Muestra el tipo de tarea de una tarea relacionada con el correo electrónico. Las tareas se pueden relacionar con un correo electrónico creando a partir de los botones de acción rápida de la lista de correo electrónico.</td> 
+   <td>Muestra el tipo de tarea de una tarea relacionada con el correo electrónico. Las tareas pueden relacionarse con un correo electrónico mediante la creación de botones de acción rápida en la lista de correo electrónico.</td> 
   </tr> 
   <tr> 
-   <td>Fecha en la que se produjo el error</td> 
-   <td>Muestra la fecha en la que se produjo un error en el correo electrónico si no se entregó.</td> 
+   <td>Error en la fecha</td> 
+   <td>Muestra la fecha en la que se produjo un error en el correo electrónico si este no se entregó.</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Configuración del diseño de página de correo electrónico {#email-page-layout-settings}
+## Configuración de diseño de página de correo electrónico {#email-page-layout-settings}
 
 Puede configurar el diseño siguiendo estos pasos.
 
@@ -121,12 +122,12 @@ Puede configurar el diseño siguiendo estos pasos.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Seleccione el **Correos electrónicos** para obtener más información.
+1. Seleccione el **Correos electrónicos** sección.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. Haga clic en el botón de configuración . Las opciones incluyen: elegir cuántas filas desea, seleccionar qué campos desea que aparezcan y seleccionar si desea que los correos electrónicos de grupo se resuman en un solo elemento de la cuadrícula (o si desea que todos los correos electrónicos que forman parte de una cuadrícula de correo electrónico se muestren como un solo elemento).
+1. Haga clic en el botón de configuración. Las opciones incluyen: elegir cuántas filas desea, seleccionar qué campos desea que aparezcan y seleccionar si desea agrupar los correos electrónicos en un solo elemento de la cuadrícula (o si desea que todos los correos electrónicos que forman parte de una cuadrícula de correo electrónico se muestren como un solo elemento).
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
-1. Simplemente haga clic fuera de la configuración cuando termine.
+1. Simplemente haga clic fuera de la configuración cuando haya terminado.

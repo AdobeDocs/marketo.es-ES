@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2953459
-description: Sincronización SFDC - Sincronización de cuentas - Documentos de Marketo - Documentación del producto
-title: Sincronización SFDC - Sincronización de cuentas
+description: 'Sincronización de SFDC: sincronización de cuentas, documentos de Marketo: documentación del producto'
+title: 'Sincronización de SFDC: sincronización de cuenta'
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Sincronización SFDC: Sincronización de cuentas {#sfdc-sync-account-sync}
+# Sincronización de SFDC: sincronización de cuenta {#sfdc-sync-account-sync}
 
-Marketo también sincroniza la información de su cuenta con Salesforce. ¡Aquí hay algunas cosas específicas que deberías saber!
+Marketo también sincroniza la información de su cuenta con Salesforce. ¡Aquí hay algunas cosas específicas que debe saber!
 
-## ¿Cómo se sincroniza la información? {#which-way-does-the-information-sync}
+## ¿En qué sentido se sincroniza la información? {#which-way-does-the-information-sync}
 
-Solo de una manera: de SFDC a Marketo.
+Solo una forma: de SFDC a Marketo.
 
 ## ¿Cómo funcionan las actualizaciones? {#how-do-the-updates-work}
 
@@ -28,12 +29,12 @@ No. Una cuenta puede tener muchos contactos, un contacto solo puede tener una cu
 
 ## ¿Puedo crear cuentas desde Marketo? {#can-i-create-accounts-from-marketo}
 
-En su mayoría, no. Sin embargo, si usa la variable [Convertir persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) paso de flujo en una persona, creará un nuevo contacto, una nueva cuenta y una nueva oportunidad.
+En su mayoría, no. Sin embargo, si usa la variable [Convertir persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) paso de flujo en una persona, se creará un nuevo contacto, una nueva cuenta y una nueva oportunidad.
 
 >[!CAUTION]
 >
 >Este paso de flujo tiene un caso de uso muy limitado. Si no estás seguro, probablemente no deberías usarlo.
 
-## ¿Un cambio en un campo de cuenta de Salesforce provoca un registro de actividad de valor de datos de cambio para cada contacto?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## ¿Un cambio en un campo de cuenta en Salesforce resulta en un registro de actividad Cambiar valor de datos para cada contacto?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
-En su mayoría, sí. Sin embargo, si una cuenta tiene más de 5000 contactos y un campo en esa cuenta cambia en SFDC, sincronizamos el cambio pero no registramos la actividad de los más de 5000 contactos.
+Sobre todo, sí. Sin embargo, si una cuenta tiene más de 5000 contactos y un campo en esa cuenta cambia en SFDC, sincronizamos el cambio, pero no registramos la actividad de los más de 5000 contactos.

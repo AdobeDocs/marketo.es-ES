@@ -1,34 +1,35 @@
 ---
 unique-page-id: 37356587
-description: 'Añadir un archivo adjunto o contenido rastreable al correo electrónico: documentos de Marketo: documentación del producto'
-title: Añadir un archivo adjunto o contenido rastreable al correo electrónico
+description: 'Añadir un archivo adjunto o contenido rastreable al correo electrónico: documentos de Marketo, documentación del producto'
+title: Añadir un archivo adjunto o contenido rastreable a su correo electrónico
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-# Añadir un archivo adjunto o contenido rastreable al correo electrónico {#add-an-attachment-or-trackable-content-to-your-email}
+# Añadir un archivo adjunto o contenido rastreable a su correo electrónico {#add-an-attachment-or-trackable-content-to-your-email}
 
-Al enviar un correo electrónico a través de Sales Connect, tiene la opción de añadir un archivo como archivo adjunto o hacer que un archivo sea un vínculo descargable (y rastreable).
+Al enviar un correo electrónico a través de Sales Connect, tiene la opción de añadir un archivo como archivo adjunto o de convertir un archivo en un vínculo descargable (y de seguimiento).
 
 >[!NOTE]
 >
->Normalmente, cualquier archivo de más de 20 MB será demasiado grande para su entrega. El tamaño de un archivo adjunto que puede enviar por correo electrónico varía en función del canal de envío de correo electrónico que utilice.
+>Normalmente, cualquier archivo de más de 20 MB es demasiado grande para enviarlo. El tamaño de un archivo adjunto que puede enviar por correo electrónico varía según el canal de envío de correo electrónico que utilice.
 
 ## Añadir un archivo adjunto {#add-an-attachment}
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
 
    ![](assets/one-4.png)
 
-1. Rellene el campo To e introduzca un Subject.
+1. Rellene el campo Para e introduzca un Asunto.
 
    ![](assets/attach-two.png)
 
-1. Haga clic en el icono de datos adjuntos.
+1. Haga clic en el icono adjunto.
 
    ![](assets/attach-three.png)
 
@@ -38,7 +39,7 @@ Al enviar un correo electrónico a través de Sales Connect, tiene la opción de
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
 
    ![](assets/attach-five.png)
 
@@ -50,21 +51,21 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
 
    ![](assets/one-4.png)
 
-1. Rellene el campo To e introduzca un Subject.
+1. Rellene el campo Para e introduzca un Asunto.
 
    ![](assets/two-4.png)
 
-1. Haga clic en el punto del correo electrónico en el que desea que aparezca el contenido rastreable y haga clic en el icono de datos adjuntos.
+1. Haga clic en el lugar del correo electrónico en el que desea que aparezca el contenido rastreable y haga clic en el icono de archivo adjunto.
 
    ![](assets/three-4.png)
 
-1. Seleccione el contenido que desea añadir y haga clic en el botón **Seguimiento del contenido** y haga clic en **Insertar**.
+1. Seleccione el contenido que desee añadir y haga clic en **Se hace un seguimiento del contenido** y haga clic en **Insertar**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Si necesita cargar un archivo, haga clic en el botón **Cargar contenido** en la parte superior derecha de la ventana.
+   >Si necesita cargar un archivo, haga clic en el **Cargar contenido** en la parte superior derecha de la ventana.
 
    El contenido aparece como un vínculo en el correo electrónico. El destinatario puede hacer clic en el vínculo para descargar el contenido.
 
@@ -72,4 +73,4 @@ El archivo adjunto aparece en la parte inferior del correo electrónico.
 
    >[!NOTE]
    >
-   >Se notificará a los usuarios en la fuente activa cuando las personas vean su contenido rastreado. Los usuarios también pueden ver el contenido de mayor rendimiento en la sección de contenido de la página Analytics.
+   >Se notificará a los usuarios en la fuente Live Feed cuando las personas estén viendo el contenido rastreado. Los usuarios también pueden ver el contenido de mayor rendimiento en la sección de contenido de la página de Analytics.

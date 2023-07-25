@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9438200
-description: 'Plantilla 17-D: Documentos de Marketo: Documentación del producto'
+description: 'Plantilla 17-D: Documentos de Marketo: documentación del producto'
 title: Plantilla 17-D
 exl-id: 32ee7caa-3053-4375-9267-c25337f83901
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -20,9 +21,9 @@ Esta plantilla incluye el siguiente contenido:
 
 * Una sección principal
 
-   * incluye título a pantalla completa, texto a pantalla completa y apuestas
+   * incluye título de héroe, texto de héroe y sorteos
 
-* Seis secciones de cuerpo (opcional)
+* Seis secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

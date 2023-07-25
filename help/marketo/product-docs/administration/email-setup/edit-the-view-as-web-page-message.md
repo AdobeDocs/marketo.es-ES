@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: Editar el mensaje "Ver como página web" - Documentos de Marketo - Documentación del producto
 title: Editar el mensaje "Ver como página web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -46,7 +47,6 @@ Si necesita editar el &quot;[Ver como página web](/help/marketo/product-docs/em
 >
 >* Añadir direcciones URL adicionales a cualquiera de los cuadros de HTML
 >* Poner el HTML en la versión de texto
-
 
 Ahí lo tienes. Envíe correos electrónicos de prueba para garantizar el formato.
 

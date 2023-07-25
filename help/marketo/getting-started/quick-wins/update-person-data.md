@@ -3,7 +3,8 @@ unique-page-id: 2359426
 description: 'Actualización de datos de persona: documentos de Marketo, documentación del producto'
 title: Actualizar datos de persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >
 >* [Configuración y adición de una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar una lista de personas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 Imaginemos que en su reciente feria comercial, una persona le dio información de contacto adicional. A continuación, se indica cómo actualizar los datos de persona.
 

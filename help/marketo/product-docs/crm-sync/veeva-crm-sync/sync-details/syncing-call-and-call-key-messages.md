@@ -1,29 +1,30 @@
 ---
-description: Sincronización de mensajes clave de llamada y llamada - Documentos de Marketo - Documentación del producto
-title: Sincronización de mensajes clave de llamada y de llamada
+description: Sincronización de mensajes de clave de llamada y llamada - Documentos de Marketo - Documentación del producto
+title: Sincronización de mensajes de clave de llamada y llamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '503'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Sincronización de mensajes clave de llamada y de llamada {#syncing-call-and-call-key-messages}
+# Sincronización de mensajes de clave de llamada y llamada {#syncing-call-and-call-key-messages}
 
-Los objetos de mensaje clave de llamada y llamada de en Veva CRM se sincronizan de forma predeterminada en Marketo Engage. Marketo sincroniza datos que tienen hasta 6 meses de antigüedad, según la Fecha de creación de la llamada.
+Los objetos de mensajes de clave de llamada y llamada de Veeva CRM se sincronizan de forma predeterminada con el Marketo Engage. Marketo sincroniza datos con una antigüedad de hasta 6 meses, en función de la fecha de creación de la llamada.
 
 >[!NOTE]
 >
->Marketo retiene los datos de llamadas hasta seis meses a partir de la fecha de la llamada.
+>Marketo conserva los datos de la llamada hasta seis meses después de la fecha de la llamada.
 
-**¿Cuáles son los déclencheur o filtros relacionados con los mensajes de clave de llamada y de llamada?**
+**¿Cuáles son los déclencheur relacionados con Call and Call Key Message?**
 
-Desencadenadores:
+Activadores:
 
-* Se ha añadido a la llamada
-* Eliminada de la llamada
-* Se ha agregado al mensaje de clave de llamada
+* Añadido a la llamada
+* Eliminado de la llamada
+* Añadido al mensaje de clave de llamada
 * Eliminado del mensaje de clave de llamada
 * Llamada actualizada
 * Mensaje de clave de llamada actualizado
@@ -31,9 +32,9 @@ Desencadenadores:
 Filtros:
 
 * Tiene llamada
-* Tiene mensaje clave de llamada
+* Tiene mensaje de clave de llamada
 
-Los campos siguientes de los mensajes de llamada y clave de llamada se sincronizan y se pueden utilizar como restricciones y déclencheur.
+Los siguientes campos de los mensajes Call y Call Key están sincronizados y pueden utilizarse como restricciones y déclencheur.
 
 <table>
   <colgroup>
@@ -64,49 +65,49 @@ Los campos siguientes de los mensajes de llamada y clave de llamada se sincroniz
   </thead>
   <tbody>
     <tr>
-      <td>La llamada</td>
-      <td>Contador</td>
+      <td>Llamar a un</td>
+      <td>Contable</td>
       <td>Busque la cuenta a la que está asociada la llamada.</td>
-      <td>Account_vod_c</td>
+      <td>Account_vod__c</td>
       <td>Búsqueda (cuenta)</td>
     </tr>
     <tr>
-      <td>La llamada</td>
+      <td>Llamar a un</td>
       <td>Tipo de llamada</td>
-      <td>Tipo de llamada que se mantiene en el sistema según el tipo y el contenido de la llamada. Este campo se utiliza para generar informes. Los valores válidos son: Detalle solamente, Detalle con muestra, Detalle del grupo, Detalle del grupo con muestra, Solo muestra. Estos valores no deben cambiarse, pero las traducciones de estas listas de selección pueden modificarse. Los asistentes tienen el mismo tipo de llamada que la llamada de encabezado. Para una llamada de grupo con 3 profesionales, los 4 registros tienen el tipo de llamada "Detalle de grupo"</td>
-      <td>Call_Type_vod_c</td>
+      <td>Tipo de llamada que el sistema mantiene en función del tipo y el contenido de la llamada. Este campo se utiliza con fines de creación de informes. Los valores válidos son: Detail Only, Detail with Sample, Group Detail, Group Detail with Sample, Sample Only. Estos valores no deben cambiarse, pero las traducciones de estas listas de selección pueden cambiar. Los asistentes tienen el mismo tipo de llamada que la llamada de encabezado. Para una llamada de grupo con 3 profesionales, los 4 registros tienen el tipo de llamada "Detalle del grupo"</td>
+      <td>Call_Type_vod__c</td>
       <td>Lista de selección</td>
     </tr>
     <tr>
-     <td>La llamada</td>
+     <td>Llamar a un</td>
       <td>Contacto</td>
       <td>Busque el contacto (si lo hay) al que está asociada la llamada.</td>
-      <td>Contact_vod_c</td>
-      <td>Lookup(Contact)</td>
+      <td>Contact_vod__c</td>
+      <td>Búsqueda (contacto)</td>
     </tr>
     <tr>
-      <td>La llamada</td>
+      <td>Llamar a un</td>
       <td>Fecha</td>
-      <td>La fecha de la llamada cuando se guardó o envió por primera vez. Este campo se configura mediante un déclencheur a la fecha actual si no se proporciona el campo de fecha y hora.</td>
-      <td>Call_Date_vod_c</td>
+      <td>La fecha de la llamada en la que se guardó o envió por primera vez. Este campo se establece mediante un déclencheur en la fecha actual si no se proporciona ninguno de los campos fecha y hora.</td>
+      <td>Call_Date_vod__c</td>
       <td>Fecha</td>
     </tr>
     <tr>
-      <td>La llamada</td>
-      <td>¿Es la llamada principal?</td>
-      <td>Campo de fórmula para determinar si el registro de llamada es la llamada principal o un registro de llamada de asistente. 1 indica que el registro es la llamada principal. 0 indica que es una llamada de asistente.</td>
-      <td>Is_Parent_Call_vod_c</td>
+      <td>Llamar a un</td>
+      <td>¿Es la llamada del padre?</td>
+      <td>Campo de fórmula para determinar si el registro de llamada es el registro de llamada principal o de llamada de asistente. 1 indica que el registro es la llamada principal. 0 indica que se trata de una llamada de asistente.</td>
+      <td>Is_Parent_Call_vod__c</td>
       <td>Fórmula (número)</td>
     </tr>
     <tr>
-      <td>La llamada</td>
+      <td>Llamar a un</td>
       <td>Estado</td>
-      <td>Estado de la llamada — Planificada, guardada o enviada. Utilice el área de trabajo de traducción para cambiar los valores de visualización. Los déclencheur de la llamada miran este campo para ver si la llamada está bloqueada (enviada). Este valor se define para el usuario cuando se pulsa el botón Guardar o Enviar.</td>
-      <td>Status_vod_c</td>
+      <td>Estado de la llamada: Planificada, guardada o enviada. Utilice el área de trabajo de traducción para cambiar los valores de visualización. Los déclencheur de la llamada consultan este campo para ver si la llamada está bloqueada (enviada). Este valor se establece para el usuario cuando se pulsa el botón Guardar o Enviar.</td>
+      <td>Status_vod__c</td>
       <td>Lista de selección</td>
     </tr>
     <tr>
-      <td>La llamada</td>
+      <td>Llamar a un</td>
       <td>Tipo de registro</td>
       <td> </td>
       <td>RecordTypeId</td>
@@ -114,29 +115,29 @@ Los campos siguientes de los mensajes de llamada y clave de llamada se sincroniz
     </tr>
     <tr>
       <td>Mensaje de clave de llamada</td>
-      <td>La llamada</td>
-      <td>Busque la llamada . Cada mensaje clave está asociado con una llamada a .</td>
-      <td>Call2_vod_c</td>
+      <td>Llamar a un</td>
+      <td>Busca la llamada. Cada mensaje clave está asociado a una llamada.</td>
+      <td>Llamar a 2_vod__c</td>
       <td>Master-Detail(Call)</td>
     </tr>
     <tr>
       <td>Mensaje de clave de llamada</td>
       <td>Categoría</td>
-      <td>Registra la categoría del mensaje. Se utiliza principalmente para la creación de informes.</td>
-      <td>Category_vod_c</td>
+      <td>Registra la categoría del mensaje. Se utiliza principalmente para informes.</td>
+      <td>Category_vod__c</td>
       <td>Lista de selección</td>
     </tr>
     <tr>
       <td>Mensaje de clave de llamada</td>
       <td>Nombre de presentación CLM</td>
-      <td>Nombre de presentación de CLM marcado</td>
+      <td>Nombre de presentación CLM estampado</td>
       <td>Clm_Presentation_Name_vod__c</td>
       <td>Texto (80)</td>
     </tr>
     <tr>
       <td>Mensaje de clave de llamada</td>
-      <td>Nombre del mensaje clave</td>
-      <td>Nombre del mensaje clave marcado</td>
+      <td>Nombre del mensaje de clave</td>
+      <td>Nombre de mensaje de clave estampada</td>
       <td>Key_Message_Name_vod__c</td>
       <td>Texto (80)</td>
     </tr>
@@ -151,8 +152,8 @@ Los campos siguientes de los mensajes de llamada y clave de llamada se sincroniz
       <td>Mensaje de clave de llamada</td>
       <td>Reacción</a>
       </td>
-      <td>Lista de reacciones al mensaje. Edite la lista de selección para cambiar los valores de reacción.</td>
-      <td>Reaction_vod_c</td>
+      <td>Lista de reproducción del mensaje. Edite la lista de selección para cambiar los valores de reacción.</td>
+      <td>Reaction_vod__c</td>
       <td>Lista de selección</td>
     </tr>
   </tbody>

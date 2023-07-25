@@ -1,33 +1,34 @@
 ---
-description: Resultados de la llamada - Documentos de Marketo - Documentación del producto
-title: Llamar a resultados
+description: Resultados de llamadas - Documentos de Marketo - Documentación del producto
+title: Resultados de llamadas
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Llamar a resultados {#call-outcomes}
+# Resultados de llamadas {#call-outcomes}
 
-Permita que sus equipos de ventas seleccionen resultados de llamadas al realizar llamadas, de modo que su equipo pueda comprender el impacto de sus esfuerzos de participación del cliente.
+Permita que sus equipos de ventas seleccionen los resultados de las llamadas al realizar llamadas, de modo que su equipo pueda comprender el impacto de los esfuerzos de participación de los clientes.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador.**
+>**Permisos de administración necesarios.**
 
-## Habilitar resultados de llamada {#enable-call-outcomes}
+## Habilitar resultados de llamadas {#enable-call-outcomes}
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/call-outcomes-1.png)
 
-1. En Configuración de administración , seleccione **Marcador**.
+1. En Configuración de administración, seleccione **Marcador**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Select **Habilitar resultados de llamada**.
+1. Seleccionar **Habilitar resultados de llamadas**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -39,17 +40,17 @@ Permita que sus equipos de ventas seleccionen resultados de llamadas al realizar
 
 >[!NOTE]
 >
->Puede crear un máximo de 15 resultados de llamadas.
+>Puede crear un máximo de 15 resultados de llamada.
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/call-outcomes-5.png)
 
-1. En Configuración de administración , seleccione **Marcador**.
+1. En Configuración de administración, seleccione **Marcador**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Haga clic en **Administrar resultados de llamada**.
+1. Clic **Administrar resultados de llamadas**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -57,36 +58,35 @@ Permita que sus equipos de ventas seleccionen resultados de llamadas al realizar
 
    ![](assets/call-outcomes-8.png)
 
-1. Haga clic en la lista desplegable Respondido y elija el tipo de resultado (en este ejemplo elegimos Respondido). A continuación, haga clic en **Agregar**.
+1. Haga clic en el menú desplegable Answered y elija el tipo de resultado (en este ejemplo, elegimos Answered). Luego haga clic en **Añadir**.
 
    ![](assets/call-outcomes-9.png)
 
 ## Elegir un resultado de llamada {#choose-a-call-outcome}
 
-Una vez habilitados los resultados de la llamada. Los usuarios pueden seleccionar una mientras realizan una llamada.
+Una vez habilitados los resultados de la llamada. Los usuarios pueden seleccionar una al realizar una llamada.
 
 1. Haga clic en el botón de llamada para iniciar el marcador.
 
    ![](assets/call-outcomes-10.png)
 
-1. Introduzca la información de llamada en el marcador y haga clic en **La llamada**.
+1. Introduzca la información de la llamada en el marcador y haga clic en **Llamada**.
 
    ![](assets/call-outcomes-11.png)
 
-1. Seleccione el resultado de la llamada que mejor describe la llamada.
+1. Seleccione el resultado de la llamada que mejor describa la llamada.
 
    ![](assets/call-outcomes-12.png)
 
-1. Finalice la llamada .
+1. Finalice la llamada.
 
    ![](assets/call-outcomes-13.png)
 
-1. Registre la llamada .
+1. Registre la llamada.
 
    ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
->* [Razones de la llamada de registro y resultados de la llamada a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Razones de la llamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
-
+>* [Registrar motivos de llamada y resultados de llamada a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Razones de llamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

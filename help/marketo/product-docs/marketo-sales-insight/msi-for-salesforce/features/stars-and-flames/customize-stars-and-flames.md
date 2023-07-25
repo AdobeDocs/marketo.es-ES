@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2360303
-description: 'Personalizar estrellas y llamas: Documentos de Marketo: Documentación del producto'
+description: Personalización de estrellas y llamas - Documentos de Marketo - Documentación del producto
 title: Personalizar estrellas y llamas
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Personalizar estrellas y llamas {#customize-stars-and-flames}
 
-Marketo Sales Insight usa estrellas y llamas para priorizar posibles clientes. Marketo decide automáticamente quién recibe 1-2-3 estrellas/llamas. Sin embargo, puede modificar la fórmula. A continuación se muestra cómo:
+Marketo Sales Insight utiliza estrellas y llamas para priorizar los posibles clientes. Marketo decide automáticamente quién recibe 1-2-3 estrellas/llamas. Sin embargo, puede modificar la fórmula. A continuación se muestra cómo:
 
 >[!AVAILABILITY]
 >
@@ -20,7 +21,7 @@ Marketo Sales Insight usa estrellas y llamas para priorizar posibles clientes. M
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 1. En Administración, haga clic en **Perspectiva de ventas**.
 
@@ -36,9 +37,9 @@ Marketo Sales Insight usa estrellas y llamas para priorizar posibles clientes. M
    >
    >**Definición**
    >
-   >**Dinámica** - Es un valor de porcentaje que se deriva de [datos relativos](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Increíble. Se recomienda este método.
+   >**Dinámico** - Es un valor porcentual derivado de [datos relativos](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Cosas increíbles. Se recomienda este método.
    >
-   >**Estático** - Permite definir números de puntuación exactos - no más porcentajes, no más salsas secretas.
+   >**Estático** - Permite definir números de puntuación exactos: no más porcentajes, no más salsas secretas.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
@@ -46,12 +47,12 @@ Marketo Sales Insight usa estrellas y llamas para priorizar posibles clientes. M
 
    >[!TIP]
    >
-   >Simplemente edite el porcentaje inicial, Marketo calculará el porcentaje final por usted.
+   >Solo tiene que editar el porcentaje de inicio, Marketo calculará el porcentaje final por usted.
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
 >
->Una vez que se realicen los cambios, el proceso de volver a calcular las estrellas y las llamas llevará algún tiempo. La paciencia es una virtud.
+>Una vez realizados los cambios, el proceso de recalcular las estrellas y las llamas llevará algún tiempo. La paciencia es una virtud.
 
-¡Sweeeeet! Acaba de personalizar la forma en que Marketo calcula las estrellas y las llamas para adaptarlas mejor a sus necesidades empresariales.
+¡Cariño! Acaba de personalizar la forma en que Marketo calcula las estrellas y las llamas para adaptarlas mejor a sus necesidades empresariales.

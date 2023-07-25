@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7505310
-description: Suscripción a una lista inteligente - Documentos de Marketo - Documentación del producto
+description: 'Suscripción a una lista inteligente: documentos de Marketo, documentación del producto'
 title: Suscripción a una lista inteligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Suscripción a una lista inteligente {#subscribe-to-a-smart-list}
 
-La suscripción a listas inteligentes es una buena forma de realizar un seguimiento de las personas, y los informes se envían directamente a la bandeja de entrada.
+La suscripción a listas inteligentes es una buena manera de realizar un seguimiento de las personas, con informes enviados directamente a la bandeja de entrada.
 
 Puede crear una suscripción a una lista inteligente en dos lugares independientes:
 
@@ -21,17 +22,17 @@ Puede crear una suscripción a una lista inteligente en dos lugares independient
 
 Las suscripciones utilizan la lista completa de personas en el momento en que se ejecuta la suscripción.
 
-Las suscripciones están activas donde se encuentra la lista inteligente, en las actividades de marketing o en la base de datos.
+Las suscripciones se almacenan donde se encuentra su lista inteligente, en las actividades de marketing o en la base de datos.
 
-Puede crear varias suscripciones desde la misma lista inteligente.
+Puede crear varias suscripciones a partir de la misma lista inteligente.
 
-Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lista de suscripciones se encuentra en un espacio de trabajo diferente de los que se muestran en el resto de este artículo:
+Las suscripciones son específicas de Workspace. Por ejemplo, esta lista de suscripciones está en un espacio de trabajo diferente de las que se muestran en el resto de este artículo:
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Está limitado a 100 suscripciones y a un máximo de 100 000 personas por suscripción, entre espacios de trabajo y por instancia de Marketo. Si la lista inteligente contiene más de 100 000 nombres, Marketo ejecutará la suscripción durante los primeros 100 000.
+>Tiene un límite de 100 suscripciones y un máximo de 100 000 personas por suscripción, en espacios de trabajo y por instancia de Marketo. Si la lista inteligente contiene más de 100 000 nombres, Marketo ejecutará la suscripción para los primeros 100 000.
 
 ## Crear una suscripción a una lista inteligente {#create-a-smart-list-subscription}
 
@@ -39,23 +40,23 @@ Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lis
 
    ![](assets/db.png)
 
-1. Seleccione la lista inteligente para la que desea crear una suscripción. Haga clic en **Acciones de lista** y seleccione **Nueva suscripción a listas inteligentes**.
+1. Seleccione la lista inteligente para la que desea crear una suscripción. Clic **Enumerar acciones** y seleccione **Nueva suscripción a lista inteligente**.
 
    ![](assets/three.png)
 
-1. Asigne una suscripción a **Nombre** y, a continuación, seleccione o introduzca las direcciones de correo electrónico del **Destinatarios**.
+1. Asigne un a su suscripción **Nombre**, luego seleccione o introduzca las direcciones de correo electrónico del **Destinatarios**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Haga clic en el **Frecuencia** y seleccione una frecuencia.
+1. Haga clic en **Frecuencia** y seleccione una frecuencia.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Configure las variables **Finalizar entrega** fecha. Puede seleccionar **Nunca** o una fecha de calendario.
+1. Configure las variables **Finalizar envío** fecha. Puede seleccionar **Nunca** o una fecha de calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Haga clic en **Formato** y seleccione en la lista.
+1. Clic **Formato** y elija en la lista.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -63,7 +64,7 @@ Las suscripciones son específicas del espacio de trabajo. Por ejemplo, esta lis
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. La nueva suscripción a la lista inteligente aparece en la parte superior de la lista, en la pestaña Subscriptions . Haga clic en **Enviar** si desea enviar ahora y no esperar hasta el envío de correo electrónico programado.
+1. La nueva suscripción a la lista inteligente aparece en la parte superior de la lista de la pestaña Suscripciones. Clic **Enviar** si desea realizar el envío ahora y no esperar hasta la entrega de correo electrónico programada.
 
    ![](assets/eight.png)
 
@@ -79,28 +80,27 @@ Los destinatarios recibirán un correo electrónico con una opción para descarg
 
 >[!NOTE]
 >
->Si la variable [Administrador de suscripciones seguro](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) está configurada en **Sí**, solo las personas con acceso a la instancia de Marketo podrán descargar el informe.
+>Si la variable [Administrador de suscripción segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) se establece en **Sí**, solo las personas con acceso a la instancia de Marketo podrán descargar el informe.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
-Si un informe tiene 0 personas, los destinatarios seguirán recibiendo un correo electrónico. Sin embargo, el correo electrónico simplemente indica que no hay personas para informar.
+Si un informe no contiene ninguna persona, los destinatarios seguirán recibiendo un correo electrónico. Sin embargo, el correo electrónico simplemente indica que no hay personas de las que informar.
 
 ![](assets/image2015-4-17-16-3a11-3a8.png)
 
 >[!NOTE]
 >
->Al modificar un filtro de lista inteligente en el que ha basado una suscripción, también se actualiza el informe.
+>Al modificar un filtro de lista inteligente en el que se basa una suscripción, también se actualiza el informe.
 
 El correo electrónico también proporciona información adicional sobre los filtros utilizados para crear la lista.
 
 ## Eliminar una suscripción {#delete-a-subscription}
 
-Para eliminar una suscripción, selecciónela en la pestaña suscripciones y haga clic en Eliminar suscripción.
+Para eliminar una suscripción, selecciónela en la pestaña Subscriptions y haga clic en Delete Subscription.
 
 ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
 >* [Editar una suscripción a una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [Asegurar la configuración del administrador de suscripciones](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
-
+>* [Protección de la configuración de administración de suscripciones](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

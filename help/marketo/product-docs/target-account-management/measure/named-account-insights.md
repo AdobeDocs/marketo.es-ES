@@ -1,30 +1,31 @@
 ---
 unique-page-id: 11380785
-description: Perspectivas de la cuenta con nombre - Documentos de Marketo - Documentación del producto
-title: Perspectivas de la cuenta con nombre
+description: Información de la cuenta con nombre - Documentos de Marketo - Documentación del producto
+title: Perspectivas de cuenta con nombre
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 3%
 
 ---
 
-# Perspectivas de la cuenta con nombre {#named-account-insights}
+# Perspectivas de cuenta con nombre {#named-account-insights}
 
-El panel de cuentas con nombre proporciona una vista de 360 grados de una cuenta de destino.
+El Tablero de cuentas con nombre proporciona una vista de 360 grados de una cuenta de destino.
 
 ![](assets/one-1.png)
 
 ## Tablero {#dashboard}
 
-El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentro de una cuenta con nombre, evitando así la necesidad de dirigirse a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+El tablero agrega perspectivas clave a nivel de cuenta de todas las personas de una cuenta con nombre, lo que evita la necesidad de dirigirse a cada persona para evaluar su progreso. Puede profundizar en la actividad de correo electrónico mediante [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
->Los gráficos muestran las perspectivas de los últimos 90 días.
+>Los gráficos muestran datos de los últimos 90 días.
 
-**Participación de la cuenta a lo largo del tiempo** Haga clic en el **Ver** a la derecha para cambiar lo que ve. Además de Puntuación de cuenta, puede ver por Ingresos totales...
+**Participación de cuenta con el tiempo** Haga clic en **Ver** desplegable de la derecha para cambiar por qué ve. Además de Puntuación de cuenta, puede ver por Ingresos totales...
 
 ![](assets/two-new.png)
 
@@ -35,41 +36,41 @@ El panel agrega perspectivas clave a nivel de cuenta de todas las personas dentr
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Puntuación de la cuenta</strong></td> 
-   <td><p>Consulte Participación de semana a semana basada en todas las puntuaciones de cuenta creadas en Administración. Puede comparar estas puntuaciones de cuenta en paralelo. Para determinar la participación semanal, tomamos la participación máxima de cualquier día de la semana.</p></td> 
+   <td><strong>Puntuación de cuenta</strong></td> 
+   <td><p>Consulte la participación de una semana a otra en función de todas las puntuaciones de cuenta que haya creado en Administración. Puede comparar estas puntuaciones de cuenta en paralelo. Para determinar la participación semanal, tomamos la participación máxima de cualquier día de la semana.</p></td> 
   </tr> 
   <tr> 
    <td><strong>En preparación</strong></td> 
-   <td>Consulte la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo cada semana, tomamos la canalización el último día.</td> 
+   <td>Ver la canalización a lo largo del tiempo. Para determinar la canalización a lo largo del tiempo y por semana, utilizamos la canalización en el último día.</td> 
   </tr> 
   <tr> 
    <td><strong>Ingresos</strong></td> 
-   <td>Consulte ingresos a lo largo del tiempo. Para determinar los ingresos a lo largo del tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</td> 
+   <td>Ver ingresos con el tiempo. Para determinar los ingresos en el tiempo por semana, tomamos la suma de todos los ingresos obtenidos en esa semana.</td> 
   </tr> 
  </tbody> 
 </table>
 
 **Momentos interesantes**
 
-Disponible para los usuarios de Marketo Sales Insight, consulte los momentos interesantes resumidos a nivel de cuenta.
+Disponible para los usuarios de Marketo Sales Insight, puede ver los momentos interesantes resumidos a nivel de cuenta.
 
 ![](assets/int-mom.png)
 
 **Personas principales**
 
-Estas personas se calculan en función de prioridades basadas en la actualización o la urgencia mostradas por personas de cuentas con nombre (del mismo modo que [Mejores apuestas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) en Perspectiva de ventas) o Puntuaciones definidas por el usuario. **Prioridad** solo está disponible para los usuarios de Marketo Sales Insight.
+Estas personas se calculan en función de prioridades que se basan en la actualización o la urgencia mostradas por personas de cuentas con nombre (lo mismo que [Recomendaciones](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) en Sales Insight) o puntuaciones definidas por el usuario. **Prioridad** solo está disponible para los usuarios de Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
 **Incluye elementos secundarios**
 
-Haga clic en **Incluye elementos secundarios** para ver y elegir las cuentas secundarias de la cuenta con nombre seleccionada y ver sus análisis acumulados.
+Clic **Incluye elementos secundarios** para ver y elegir las cuentas secundarias de la cuenta con nombre seleccionada y ver sus análisis agregados.
 
 ![](assets/abm.png)
 
 >[!NOTE]
 >
->Al seleccionar cuentas, puede elegir seleccionar todas o seleccionar individualmente hasta 100.
+>Al seleccionar cuentas, puede elegir Seleccionar todo o seleccionar individualmente hasta 100.
 
 ## Jerarquía {#hierarchy}
 
@@ -79,13 +80,13 @@ Ver dónde se encuentra la cuenta con nombre seleccionada en relación con su je
 
 ## Oportunidades {#opportunities}
 
-Una vista resumida de todas las oportunidades abiertas a nivel de cuenta, lo que ayuda a los equipos de marketing a centrarse en cerrar oportunidades específicas.
+Una vista resumida de todas las oportunidades abiertas a nivel de cuenta, que ayuda a los equipos de marketing a centrarse en cerrar oportunidades específicas.
 
 ![](assets/four-1.png)
 
 ## Personas potenciales {#potential-people}
 
-La coincidencia entre posibles clientes y cuenta utiliza una lógica difusa para encontrar coincidencias débiles que se pueden resolver en la pestaña Personas potenciales .
+La coincidencia de cliente potencial con cuenta utiliza la lógica difusa para encontrar coincidencias débiles que se pueden resolver en la pestaña Personas potenciales.
 
 ![](assets/five-1.png)
 
@@ -95,22 +96,22 @@ La coincidencia entre posibles clientes y cuenta utiliza una lógica difusa para
 
 ## Utilizado por {#used-by}
 
-Esta ficha muestra qué campañas inteligentes, campañas web, listas inteligentes o informes hacen referencia actualmente a cuentas o listas de cuentas con nombre específicas.
+Esta pestaña muestra qué campañas inteligentes, campañas web, listas inteligentes o informes hacen referencia actualmente a cuentas con nombre o listas de cuentas específicas.
 
 ![](assets/six-1.png)
 
 ## Equipo de cuenta {#account-team}
 
-Vea miembros del equipo de la cuenta, agregue o elimine miembros, incluso asigne un propietario de cuenta en esta pestaña.
+Vea los miembros del equipo de cuentas, agregue o elimine miembros, e incluso asigne un propietario de cuenta en esta pestaña.
 
 ![](assets/seven-1.png)
 
 >[!NOTE]
 >
->Haga clic en el **Acciones del equipo de la cuenta** para agregar o eliminar miembros de la cuenta, o asignar un propietario de cuenta.
+>Haga clic en **Acciones del equipo de cuenta** desplegable para agregar o quitar miembros de la cuenta, o asignar un propietario de la cuenta.
 
-## Indicadores del PCI {#icp-indicators}
+## Indicadores ICP {#icp-indicators}
 
-Ver los indicadores ICP que seleccionó para exportar al [ajustar el modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Ver los indicadores ICP seleccionados para exportar al [sintonizó su modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

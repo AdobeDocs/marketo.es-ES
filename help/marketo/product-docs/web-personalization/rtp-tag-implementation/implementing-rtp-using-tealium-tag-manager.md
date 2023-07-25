@@ -1,24 +1,25 @@
 ---
 unique-page-id: 9437340
-description: Implementación de RTP mediante el Administrador de etiquetas de torio - Marketo Docs - Documentación del producto
-title: Implementación de RTP mediante el Administrador de etiquetas de Tealium
+description: 'Implementación de RTP con Tealium Tag Manager: Documentos de Marketo, documentación del producto'
+title: Implementación de RTP con Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Implementación de RTP mediante el Administrador de etiquetas de Tealium {#implementing-rtp-using-tealium-tag-manager}
+# Implementación de RTP con Tealium Tag Manager {#implementing-rtp-using-tealium-tag-manager}
 
 Para implementar su etiqueta RTP, siga las instrucciones de instalación a continuación.
 
 1. Inicie sesión en su cuenta de Tealium Tag Manager.
 
-1. Vaya a la pestaña Etiquetas y añada la etiqueta Contenedor personalizado de torio, ubicada en la pestaña Misc del mercado Etiquetas.
+1. Vaya a la pestaña Etiquetas y añada la etiqueta de contenedor personalizada Tealium, ubicada en la pestaña Varios del mercado de etiquetas.
 
-1. En el campo Título , introduzca **Marketo RTP** y haga clic en **Finalizar**.
+1. En el campo Title, introduzca **MARKETO RTP** y haga clic en **Finalizar**.
 
 1. Guarde los cambios.
 
@@ -30,26 +31,26 @@ Para implementar su etiqueta RTP, siga las instrucciones de instalación a conti
 
 1. En el menú Administración, haga clic en **Administrar plantillas** en Administración de cuentas.
 
-1. Select **Contenedor personalizado de tealium: Marketo RTP** en la lista desplegable para abrir la plantilla Etiqueta .
+1. Seleccionar **Contenedor personalizado de Tealium: Marketo RTP** en la lista desplegable para abrir la plantilla de etiqueta.
 
-1. Inicie sesión en su cuenta RTP.
+1. Inicie sesión en su cuenta de RTP.
 
 1. Vaya a Configuración de la cuenta.
 
    >[!NOTE]
    >
-   >Si ya ha recibido la etiqueta JavaScript de Asistencia, continúe con el paso 11.
+   >Si ya ha recibido su etiqueta JavaScript del equipo de asistencia, continúe con el paso 11.
 
 1. En Dominio, busque el dominio correspondiente y haga clic en **Generar etiqueta**.
 
-1. Copie la etiqueta JavaScript de RTP y péguela entre Iniciar código de biblioteca de etiquetas y Finalizar código de biblioteca de etiquetas en la plantilla de perfil de torio.
+1. Copie la etiqueta JavaScript de RTP y péguela entre Start Tag Library Code y End Tag Library Code en la plantilla de perfil de Tealium.
 
    >[!NOTE]
    >
    >**Pasos importantes**
    >
-   >Elimine el `<!-- RTP tag -->` y `<!-- End of RTP tag -->` etiquetas del código que coloque en este archivo.
+   >Retire el `<!-- RTP tag -->` y `<!-- End of RTP tag -->` etiquetas del código que coloque en este archivo.
    >
-   >Eliminar cualquier `<script type='text/javascript'>` y `</script>` etiquetas del código que coloque en este archivo.
+   >Eliminar cualquiera `<script type='text/javascript'>` y `</script>` etiquetas del código que coloque en este archivo.
 
-1. **Haga clic en Guardar plantilla de perfil .** y publicar el nuevo perfil.
+1. **Haga clic en Guardar plantilla de perfil** y publique su nuevo perfil.

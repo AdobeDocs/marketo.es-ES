@@ -1,92 +1,93 @@
 ---
-description: Eliminación del acceso a la perspectiva de ventas - Documentos de Marketo - Documentación del producto
-title: Eliminar acceso a perspectivas de ventas
+description: Acceso a información de ventas - Documentos de Marketo - Documentación del producto
+title: Eliminar acceso a información de ventas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
-# Eliminar acceso a perspectivas de ventas {#remove-sales-insight-access}
+# Eliminar acceso a información de ventas {#remove-sales-insight-access}
 
-Siga estos pasos para eliminar el acceso a las funciones de Perspectiva de ventas en Salesforce. Aplicable a Salesforce Classic y Lightning.
+Siga estos pasos para eliminar el acceso a las funciones de Información sobre ventas en Salesforce. Aplicable a Salesforce Classic y Lightning.
 
-## Resumen {#overview}
+## Información general {#overview}
 
-Se requiere permiso para acceder a todos los objetos mencionados a continuación, clases de ápice y páginas de visualforce para acceder a todas las funciones de perspectivas de ventas. Si se eliminan, se eliminará el acceso a la perspectiva de ventas.
+Se requiere permiso para acceder a los objetos mencionados a continuación, a las clases de Apex y a las páginas de visualforce para acceder a todas las funciones de Sales Insight. Si los elimina, se eliminará el acceso a la perspectiva de ventas.
 
-**Configuración de objetos**
+**Configuración de objeto**
 
 <table> 
  <tbody> 
  <tr> 
-   <td>BestBetsCache</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>BestBestCache</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
-   <td>Mejores apuestas para ver detalles</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Resultados más probables Ver detalles</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
-   <td>Mejores vistas</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Vistas de resultados más probables</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
    <td>EmailActivityCache</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
    <td>GetMethodArgus</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
    <td>GroupedWebActivityCache</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
-   <td>InterestedMomentsCache</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>InterestingMomentsCache</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
-   <td>Configuración de perspectiva de ventas de Marketo</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Configuración de Marketo Sales Insight</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
    <td>ScoringCache</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
    <td>Valores</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
   <tr> 
    <td>WebActivityCache</td> 
-   <td>Leer, Crear, Editar, Eliminar, Ver Todo, Modificar Todo</td> 
+   <td>Leer, Crear, Editar, Eliminar, Ver todo, Modificar todo</td> 
   </tr> 
  </tbody> 
 </table>
 
-* Acceso a clase Apex: 159 Clases Apex que comienzan por &quot;mkto_si&quot;
-* Acceso a la página de fuerza visual: 64 Páginas de VisualForce que comienzan por &quot;mkto_si&quot;
-* Definiciones de configuración personalizadas: Configuración de mkto_si.Marketo y preferencias de usuario de mkto_si
+* Acceso a clases Apex: 159 clases Apex que comienzan con &quot;mkto_si&quot;
+* Acceso a la página de Visualforce: 64 páginas de Visualforce que comienzan con &quot;mkto_si&quot;
+* Definiciones de ajustes personalizados: Configuración de mkto_si.Marketo y Preferencias de mkto_si.User
 
-## Eliminación del acceso a la perspectiva de ventas {#removing-access-to-sales-insight}
+## Eliminación del acceso a Sales Insight {#removing-access-to-sales-insight}
 
 1. Inicie sesión en su cuenta de Salesforce.
 
-1. Haga clic en **Configuración**.
+1. Clic **Configurar**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. En Administrador, haga clic en **Administrar usuarios**, luego **Perfiles**.
+1. En Administrador, haga clic en **Administrar usuarios**, entonces **Perfiles**.
 
-1. Haga clic en el perfil que desee actualizar y luego **Editar**.
+1. Haga clic en el perfil que desea actualizar y, a continuación, **Editar**.
 
-1. Desplácese hacia abajo hasta &quot;Configuración de tabulación personalizada&quot; en Configuración de tabulación.
+1. Desplácese hacia abajo hasta &quot;Configuración de ficha personalizada&quot; en Configuración de ficha.
 
-1. Seleccione la opción &quot;Tabulador oculto&quot; en la lista desplegable de Configuración de la perspectiva de ventas de Marketo y Bandeja de salida de ventas de MSI Marketo.
+1. Seleccione la opción &quot;Pestaña oculta&quot; en la lista desplegable de la Configuración de perspectiva de ventas de Marketo y la Bandeja de salida de ventas de MSI Marketo.
 
    ![](assets/remove-sales-insight-access-2.png)
 
@@ -94,42 +95,42 @@ Se requiere permiso para acceder a todos los objetos mencionados a continuación
 
 1. Desplácese hacia abajo hasta &quot;Permisos de objeto personalizados&quot;.
 
-1. Elimine el acceso &quot;Leer, Crear, Editar, Eliminar&quot; de los siguientes objetos:
+1. Elimine el acceso de &quot;Leer, Crear, Editar, Eliminar&quot; de los siguientes objetos:
 
-   * BestBetsCache
-   * Mejores apuestas para ver detalles
-   * Mejores vistas
+   * BestBestCache
+   * Resultados más probables Ver detalles
+   * Vistas de resultados más probables
    * EmailActivityCache
    * GetMethodArgus
    * GroupedWebActivityCache
-   * InterestedMomentsCache
-   * Configuración de perspectiva de ventas de Marketo
+   * InterestingMomentsCache
+   * Configuración de Marketo Sales Insight
    * ScoringCache
    * Valores
    * WebActivityCache
 
-1. Desplácese hacia abajo hasta la sección &quot;Acceso de clase Apex habilitado&quot;. Haga clic en **Editar**.
+1. Desplácese hacia abajo hasta la sección &quot;Acceso a clase Apex habilitado&quot;. Clic **Editar**.
 
-1. En la sección &quot;Clases Apex Habilitadas&quot;, seleccione todas las clases que empiecen por &quot;mkto_si&quot;. Esto debería sumar hasta 159 clases.
+1. En la sección &quot;Clases Apex habilitadas&quot;, seleccione todas las clases que comienzan por &quot;mkto_si&quot;. Esto debería sumar 159 clases.
 
-1. Haga clic en **Eliminar**, luego **Guardar**.
+1. Clic **Eliminar**, entonces **Guardar**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Desplácese hacia abajo hasta la sección &quot;Acceso a página de fuerza visual habilitado&quot;. Haga clic en **Editar**.
+1. Desplácese hacia abajo hasta la sección &quot;Acceso a la página de VisualForce habilitado&quot;. Clic **Editar**.
 
-1. En la sección &quot;Páginas de fuerza visual habilitadas&quot;, seleccione todas las páginas que empiecen por &quot;mkto_si&quot;. Debería añadir hasta 64 páginas.
+1. En la sección &quot;Páginas Visualforce habilitadas&quot;, seleccione todas las páginas que empiecen por &quot;mkto_si&quot;. Esto debería sumar 64 páginas.
 
-1. Haga clic en **Eliminar**, luego **Guardar**.
+1. Clic **Eliminar**, entonces **Guardar**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Desplácese hacia abajo hasta la sección &quot;Acceso a definiciones de configuración personalizada habilitado&quot;. Haga clic en **Editar**.
+1. Desplácese hacia abajo hasta la sección &quot;Acceso a definiciones de configuración personalizadas habilitadas&quot;. Clic **Editar**.
 
 1. Seleccione &quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; y &quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
 
-1. Haga clic en **Eliminar**, luego **Guardar**.
+1. Clic **Eliminar**, entonces **Guardar**.
 
    ![](assets/remove-sales-insight-access-6.png)
 
-¡Eso es todo! Ha eliminado correctamente el acceso a la perspectiva de ventas. Repita los mismos pasos para cualquier otro perfil para el que desee eliminar el acceso.
+¡Eso es todo! Se ha eliminado correctamente el acceso a la información de ventas. Repita los mismos pasos para cualquier otro perfil para el que desee eliminar el acceso.

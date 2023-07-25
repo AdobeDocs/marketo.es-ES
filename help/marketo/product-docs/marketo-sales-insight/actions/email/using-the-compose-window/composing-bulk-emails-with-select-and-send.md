@@ -1,19 +1,20 @@
 ---
-description: Redacción de correos electrónicos masivos con Select and Send - Marketo Docs - Documentación del producto
-title: Redacción de correos electrónicos masivos con Select y Send
+description: 'Composición de correos electrónicos masivos con selección y envío: documentos de Marketo, documentación del producto'
+title: Redacción de correos electrónicos masivos con selección y envío
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
-# Redacción de correos electrónicos masivos con Select y Send {#composing-bulk-emails-with-select-and-send}
+# Redacción de correos electrónicos masivos con selección y envío {#composing-bulk-emails-with-select-and-send}
 
-A continuación se muestra cómo enviar/editar correos electrónicos mediante la opción Select and Send .
+A continuación, se muestra cómo enviar/editar correos electrónicos con la opción Seleccionar y enviar.
 
 ## Enviando emails {#sending-emails}
 
@@ -27,9 +28,9 @@ A continuación se muestra cómo enviar/editar correos electrónicos mediante la
 
    >[!NOTE]
    >
-   >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y Enviar.
+   >Se puede seleccionar un máximo de 200 personas al utilizar Seleccionar y enviar.
 
-1. Haga clic en el **Correo electrónico seleccionado** botón.
+1. Haga clic en **Correo electrónico seleccionado** botón.
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
@@ -39,19 +40,19 @@ A continuación se muestra cómo enviar/editar correos electrónicos mediante la
 
    >[!NOTE]
    >
-   >Si ha seleccionado una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Vista previa de campos dinámicos**. Asegúrese de que todos los destinatarios de la barra lateral masiva estén seleccionados para la vista previa de todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Vista previa de campos dinámicos**, solo se previsualizará ese correo electrónico.
+   >Si seleccionó una plantilla y desea comprobar que todos los campos dinámicos se rellenan correctamente antes de enviarla, haga clic en **Previsualizar campos dinámicos**. Asegúrese de que todos los destinatarios de la barra lateral por lotes estén seleccionados para previsualizar todos los correos electrónicos. Si selecciona un correo electrónico y hace clic en **Previsualizar campos dinámicos**, solo se previsualizará ese correo electrónico.
 
 ## Edición de correos electrónicos {#editing-emails}
 
 **Ediciones masivas**
 
-1. Siga los pasos del 1 al 3 desde [Sección Envío de correos electrónicos](#sending-emails) arriba.
+1. Siga los pasos del 1 al 3 desde el [Sección Envío de correos electrónicos](#sending-emails) arriba.
 
    >[!NOTE]
    >
-   >Todos los destinatarios se seleccionan de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los destinatarios**. Como recordatorio, se deben seleccionar todos los destinatarios para realizar ediciones masivas.
+   >Todos los destinatarios se seleccionan de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los destinatarios**. Como recordatorio, todos los destinatarios deben estar seleccionados para realizar ediciones masivas.
 
-1. Realice los cambios en el editor. Puede crear un nuevo correo electrónico o editar una plantilla (en este ejemplo estamos creando un nuevo correo electrónico).
+1. Realice los cambios en el editor. Puede crear un correo electrónico nuevo o editar una plantilla (en este ejemplo creamos un correo electrónico nuevo).
 
    ![](assets/composing-bulk-emails-with-select-and-send-5.png)
 
@@ -59,19 +60,19 @@ A continuación se muestra cómo enviar/editar correos electrónicos mediante la
    >
    >Puede hacer clic en un destinatario de correo electrónico específico para ver los cambios propagados a ese correo electrónico.
 
-1. Haga clic en **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviarlo a todos los destinatarios con las actualizaciones de correo electrónico masivas que haya realizado.
+1. Clic **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico realizadas.
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
 **Editar cada correo electrónico**
 
-Completar actualizaciones masivas antes de personalizar cada correo electrónico, ya que al realizar una actualización masiva se sobrescriben los cambios realizados en cada correo electrónico de la barra lateral de composición masiva.
+Complete las Actualizaciones masivas antes de personalizar cada correo electrónico, ya que al realizar una actualización masiva se sobrescriben los cambios realizados en cada correo electrónico en la barra lateral de composición masiva.
 
-1. Siga los pasos 1-4 de la sección [Sección Envío de correos electrónicos](#sending-emails).
+1. Siga los pasos del 1 al 4 desde el [Sección Envío de correos electrónicos](#sending-emails).
 
    >[!NOTE]
    >
-   >Todos los destinatarios se seleccionan de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los destinatarios**. Como recordatorio, se deben seleccionar todos los destinatarios para realizar ediciones masivas.
+   >Todos los destinatarios se seleccionan de forma predeterminada. Si hace clic en un individuo y desea volver a seleccionar a todos, haga clic en **Todos los destinatarios**. Como recordatorio, todos los destinatarios deben estar seleccionados para realizar ediciones masivas.
 
 1. Seleccione un destinatario individual.
 
@@ -83,13 +84,13 @@ Completar actualizaciones masivas antes de personalizar cada correo electrónico
 
    >[!NOTE]
    >
-   >Aquí es donde puede realizar modificaciones en un solo correo electrónico de la barra lateral masiva sin actualizar el resto de los correos electrónicos.
+   >Aquí es donde puede realizar ediciones en un único correo electrónico en la barra lateral masiva sin actualizar el resto de los correos electrónicos.
 
    >[!TIP]
    >
    >Puede hacer clic en otros destinatarios para ver que no se muestran los cambios realizados en el destinatario seleccionado anteriormente.
 
-1. Haga clic en **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviarlo a todos los destinatarios con las actualizaciones de correo electrónico masivas que haya realizado.
+1. Clic **Enviar** (o [Programación](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos los destinatarios con las actualizaciones masivas de correo electrónico realizadas.
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 
@@ -98,4 +99,3 @@ Completar actualizaciones masivas antes de personalizar cada correo electrónico
    >* [Opciones de correo electrónico masivo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
    >* [Uso de una plantilla en la ventana de composición](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
    >* [Campos dinámicos](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
-

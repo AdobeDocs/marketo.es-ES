@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2950530
-description: 'Configuración del flujo de registro/uso compartido de Social: documentos de Marketo: documentación del producto'
-title: Configurar el flujo de registro/uso compartido de Social
+description: Configuración del flujo de registro social/uso compartido - Documentos de Marketo - Documentación del producto
+title: Configurar flujo de registro social/uso compartido
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-# Configurar el flujo de registro/uso compartido de Social {#configure-social-sign-up-share-flow}
+# Configurar flujo de registro social/uso compartido {#configure-social-sign-up-share-flow}
 
-Cuando crea una aplicación social, puede configurar las opciones de red social y las solicitudes que encuentra un usuario a medida que se registra.
+Al crear una aplicación social, puede configurar las opciones de redes sociales y las indicaciones que un usuario encuentra al registrarse.
 
-## Seleccionar redes para uso compartido {#select-networks-for-sharing}
+## Seleccionar redes para compartir {#select-networks-for-sharing}
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -28,13 +29,13 @@ Cuando crea una aplicación social, puede configurar las opciones de red social 
 
    ![](assets/three.png)
 
-1. Seleccione (o anule la selección) las redes con las que una persona puede compartir.
+1. Seleccione (o anule la selección) de las redes en las que una persona puede compartir.
 
    ![](assets/four.png)
 
 ## Configuración del mensaje de Facebook {#configure-the-facebook-message}
 
-1. Vaya a **Flujo de registro** > **Compartir mensajes**.
+1. Ir a **Flujo de registro** > **Compartir mensajes**.
 
    ![](assets/five.png)
 
@@ -46,23 +47,23 @@ Cuando crea una aplicación social, puede configurar las opciones de red social 
    >
    >En un recurso compartido de vídeo, la miniatura se genera automáticamente.
 
-   Si elige **Añadir contenido dinámico**, los valores de la variable **OpenGraph** las etiquetas (og:title, og:caption y og:description) y la miniatura se añaden automáticamente a las publicaciones de Facebook. Consulte el paso siguiente.
+   Si elige **Añadir contenido dinámico**, los valores de la variable de página **OpenGraph** las etiquetas (og:title, og:caption y og:description) y la miniatura se añaden automáticamente a las publicaciones de Facebook. Consulte el paso siguiente.
 
-   Si elige **Añadir contenido estático**, introduzca el título, el rótulo, la descripción y cargue una imagen. Consulte los dos pasos siguientes.
+   Si elige **Añadir contenido estático**, introduzca el título, el pie de ilustración, la descripción y cargue una imagen. Consulte los dos pasos siguientes.
 
-1. En la ventana Ver y editar , haga clic en **Mostrar ediciones** y edite el mensaje y el mensaje compartidos que aparecerán en las publicaciones de Facebook.
+1. En la ventana Ver y editar, haga clic en **Mostrar ediciones** y edite la solicitud y el mensaje para compartir que aparecerán en las publicaciones de Facebook.
 
    >[!TIP]
    >
-   >Para obtener más información, consulte [Editar la configuración de publicación enriquecida de Facebook](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >Para obtener más información, consulte [Editar configuración de publicación enriquecida de Facebook](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-13-3a59-3a57.png)
 
    >[!NOTE]
    >
-   >La variable [compartir URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) se añade automáticamente a todos los mensajes compartidos.
+   >El [compartir URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) se agrega automáticamente a todos los mensajes compartidos.
 
-1. Si elige **Añadir contenido estático** arriba, edite el título, el rótulo y la descripción, y cargue una imagen personalizada (desde su [**Imágenes y archivos de Marketo**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Si elige **Añadir contenido estático** arriba, edite el título, el pie de ilustración y la descripción, y cargue una imagen personalizada (desde su [**Imágenes y archivos de Marketo**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
@@ -72,21 +73,21 @@ Cuando crea una aplicación social, puede configurar las opciones de red social 
    >
    >Si carga una imagen, no la verá aquí hasta que cierre y vuelva a abrir el editor de aplicaciones sociales.
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
-Si elige los valores de las etiquetas de la página (og:title, og:caption y og:description) y la miniatura se añaden automáticamente a las publicaciones de Facebook. Consulte el paso siguiente.
+Si elige los valores de las etiquetas de la página (og:title, og:caption y og:description) y la miniatura se añade automáticamente a las publicaciones de Facebook. Consulte el paso siguiente.
 
 ## Configuración del mensaje de Twitter {#configure-the-twitter-message}
 
-1. Edite el mensaje y el mensaje compartidos que aparecerán en los tweets de Twitter.
+1. Edite la solicitud y el mensaje de uso compartido que aparecerán en los tweets de Twitter.
 
    ![](assets/image2014-9-22-14-3a2-3a31.png)
 
    >[!TIP]
    >
-   >Use {html_title} en el texto del tweet para mostrar automáticamente el título de la página.
+   >Uso {html_title} en el texto del tweet para mostrar automáticamente el título de la página.
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
 ## Configuración del mensaje de LinkedIn {#configure-the-linkedin-message}
 
@@ -96,15 +97,15 @@ Si elige los valores de las etiquetas de la página (og:title, og:caption y og:d
 
    Si elige **Añadir contenido dinámico**, los valores de las etiquetas de páginas (título y descripción) y la miniatura se añaden automáticamente a las publicaciones de LinkedIn. Consulte el paso siguiente.
 
-   Si elige **Añadir contenido estático**, introduzca el título, el rótulo y la descripción, y cargue una imagen. Consulte los dos pasos siguientes.
+   Si elige **Añadir contenido estático**, introduzca el título, el pie de ilustración y la descripción, y cargue una imagen. Consulte los dos pasos siguientes.
 
-1. En el **Ver y editar** ventana, haga clic en **Mostrar ediciones** y edite el mensaje y el mensaje compartidos que aparecerán en las publicaciones de LinkedIn.
+1. En el **Ver y editar** , haga clic en **Mostrar ediciones** y edite la solicitud y el mensaje para compartir que aparecerán en las publicaciones de LinkedIn.
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
    >[!TIP]
    >
-   >Use {html_title} en el texto del anuncio para mostrar automáticamente el título de la página.
+   >Uso {html_title} en el texto de la publicación para mostrar automáticamente el título de la página.
 
 1. Si elige **Añadir contenido estático** arriba, edite el título y la descripción y cargue una imagen personalizada (desde su [**Imágenes y archivos de Marketo**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
@@ -116,4 +117,4 @@ Si elige los valores de las etiquetas de la página (og:title, og:caption y og:d
 
 >[!MORELIKETHIS]
 >
->A continuación, puede hacer clic en **Finalizar** > **Aprobar y cerrar** y coloque la aplicación social en una página de aterrizaje. También puede configurar [captura de persona](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) o [volver a compartir solicitud](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).
+>A continuación, puede hacer clic en **Finalizar** > **Aprobar y cerrar** y coloque la aplicación social en una página de aterrizaje. También puede configurar [captura de personas](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) o el [volver a compartir mensaje](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437559
-description: 'Plantilla 11B: Documentos de Marketo: Documentación del producto'
+description: Plantilla 11B - Documentos de Marketo - Documentación del producto
 title: Plantilla 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -21,9 +22,9 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye título a pantalla completa, texto a pantalla completa e imagen a pantalla completa
+   * incluye título, texto e imagen de héroe
 
-* Cuatro secciones de cuerpo (opcional)
+* Cuatro secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

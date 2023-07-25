@@ -1,35 +1,36 @@
 ---
-description: 'Paso 1 de 3: Añadir campos de Marketo a Veva CRM - Marketo Docs - Documentación del producto'
-title: 'Paso 1 de 3: Añadir campos de Marketo a Veva CRM'
+description: 'Paso 1 de 3: Adición de campos de Marketo a Veeva CRM: Documentos de Marketo: documentación del producto'
+title: 'Paso 1 de 3: Añadir campos de Marketo a Veeva CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 6%
 
 ---
 
-# Paso 1 de 3: Añadir campos de Marketo a Veva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Paso 1 de 3: Agregar campos de Marketo a Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->La instancia de Veva CRM debe tener acceso a las API de Salesforce para sincronizar datos entre Marketo Engage y Veva CRM.
+>La instancia de Veeva CRM debe tener acceso a las API de Salesforce para sincronizar datos entre Marketo Engage y Veeva CRM.
 
-El Marketo Engage utiliza un conjunto de campos para capturar ciertos tipos de información relacionada con el marketing. Si desea estos datos en Veva CRM, siga las instrucciones que se indican a continuación.
+Marketo Engage utiliza un conjunto de campos para capturar determinados tipos de información relacionada con el marketing. Si desea estos datos en Veeva CRM, siga las instrucciones a continuación.
 
-`1.` Cree un campo personalizado en Veva CRM en los objetos de contacto: Puntuación
+`1.` Crear un campo personalizado en Veeva CRM en los objetos de contacto: Puntuación
 
 `2.` Si lo desea, puede crear campos adicionales (consulte la tabla siguiente).
 
-Todos estos campos personalizados son opcionales y no son necesarios para sincronizar Marketo Engage y Veva CRM.
+Todos estos campos personalizados son opcionales y no son necesarios para sincronizar Marketo Engage y Veeva CRM.
 
-## Añadir campos de Marketo a Veva CRM {#add-marketo-fields-to-veeva-crm}
+## Agregar campos de Marketo a Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-Agregue un campo personalizado en el posible cliente y los objetos de contacto en Veva CRM enumerados arriba. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
+Agregue un campo personalizado a los objetos de contacto y posible cliente de Veeva CRM enumerados anteriormente. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
 
-Realice los siguientes pasos para que el campo Score lo añada.
+Siga estos pasos para agregar el campo Score.
 
-1. Inicie sesión en Veeva CRM y haga clic en **Configuración**.
+1. Inicie sesión en Veeva CRM y haga clic en **Configurar**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
@@ -41,19 +42,19 @@ Realice los siguientes pasos para que el campo Score lo añada.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Haga clic en el objeto Contact .
+1. Haga clic en el objeto Contact.
 
 1. Seleccione Campos y relaciones.
 
-1. Haga clic en **Nuevo**.
+1. Clic **Nuevo**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. Elija el tipo de campo apropiado (para Puntuación — número).
+1. Elija el tipo de campo adecuado (para Puntuación — número).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
@@ -72,49 +73,49 @@ Realice los siguientes pasos para que el campo Score lo añada.
    <td>mkto71_Lead_Score</td>
    <td>Número</td>
    <td>Longitud 10<br/>
-Lugares decimales 0</td>
+Cifras decimales 0</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Veeva CRM anexa __c a Nombres de campo cuando los utiliza para crear nombres de API.
+>Veeva CRM anexa __c a los nombres de campo cuando los utiliza para crear nombres de API.
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
 >[!NOTE]
 >
->Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no la necesitan. Una descripción es opcional.
+>Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
 1. Especifique la configuración de acceso y haga clic en **Siguiente**.
 
-1. Establezca todas las funciones como Visible y de Solo lectura.
+1. Establezca todas las funciones en Visible y Solo lectura.
 
-1. Desactive la casilla de verificación de solo lectura para el perfil del usuario de sincronización:
+1. Desactive la casilla de verificación Solo lectura para el perfil del usuario de sincronización:
 
-* Si tiene un usuario con el perfil de un administrador del sistema como usuario de sincronización, desactive la casilla de verificación Solo lectura del perfil del administrador del sistema (como se muestra a continuación).
-* Si ha creado un perfil personalizado para el usuario de sincronización, desactive la casilla de verificación de solo lectura para ese perfil personalizado.
+* Si tiene un usuario con el perfil de un administrador del sistema como usuario de sincronización, desactive la casilla Solo lectura del perfil del administrador del sistema (como se muestra a continuación).
+* Si ha creado un perfil personalizado para el usuario de sincronización, desactive la casilla de verificación Solo lectura para ese perfil personalizado.
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. Elija los diseños de página que deben mostrar el campo.
 
-1. Haga clic en **Guardar y nuevo** para volver atrás y crear cada uno de los otros dos campos personalizados.
+1. Clic **Guardar y nuevo** para volver y crear cada uno de los otros dos campos personalizados.
 
-1. Haga clic en **Guardar** cuando haya terminado con los tres.
+1. Clic **Guardar** cuando haya terminado con las tres.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
 >[!NOTE]
 >
->Al agregar el campo al objeto Contact , también se agregan al objeto Person Account .
+>Al agregar el campo al objeto Contact, también se agregan al objeto Person Account.
 
-OPCIONAL: Utilice el procedimiento anterior para cualquier campo personalizado adicional de la siguiente tabla.
+OPCIONAL: utilice el procedimiento anterior para cualquier campo personalizado adicional de la tabla siguiente.
 
 <table>
  <tbody>
@@ -171,4 +172,4 @@ OPCIONAL: Utilice el procedimiento anterior para cualquier campo personalizado a
 
 >[!NOTE]
 >
->Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Veva CRM cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Veva CRM en la próxima actualización del registro en cualquiera de los sistemas (es decir, una actualización de cualquiera de los campos sincronizados entre Marketo y Veva CRM).
+>Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Veeva CRM cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Veeva CRM la próxima actualización del registro en cualquiera de los sistemas (es decir, una actualización de cualquiera de los campos sincronizados entre Marketo y Veeva CRM).

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2360227
-description: 'Filtrado de recursos en informes de correo electrónico de una campaña: Documentos de Marketo: Documentación del producto'
-title: Filtrado de recursos en informes de correo electrónico de campaña
+description: Filtrado de recursos en informes de correo electrónico de Campaign - Documentos de Marketo - Documentación del producto
+title: Filtrado de recursos en informes de correo electrónico de Campaign
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-# Filtrado de recursos en informes de correo electrónico de campaña {#filter-assets-in-a-campaign-email-reports}
+# Filtrado de recursos en informes de correo electrónico de Campaign {#filter-assets-in-a-campaign-email-reports}
 
-Céntrese en [Rendimiento del correo electrónico de la campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) informe sobre [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) en sus programas (&quot;recursos locales&quot;) o en los que se han archivado.
+Enfoque su [Rendimiento de correo electrónico de campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) informar sobre [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) en sus programas (&quot;recursos locales&quot;) o en los que se han archivado.
 
-1. Vaya a **Analytics** (o **Actividades de marketing**).
+1. Ir a **Analytics** (o **Actividades de marketing**) área.
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -22,12 +23,12 @@ Céntrese en [Rendimiento del correo electrónico de la campaña](/help/marketo/
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Haga clic en el **Configuración** y arrastre sobre un filtro.
+1. Haga clic en **Configurar** y arrastre sobre un filtro.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Campañas**: Campañas inteligentes activas en su cuenta de Marketo.
-   * **Campañas archivadas**: Campañas inteligentes inactivas y retiradas.
+   * **Campañas**: active las campañas inteligentes en su cuenta de Marketo.
+   * **Campañas archivadas**: campañas inteligentes inactivas y retiradas.
 
 1. Elija las carpetas y las campañas inteligentes específicas que desea incluir en el informe.
 
@@ -35,13 +36,13 @@ Céntrese en [Rendimiento del correo electrónico de la campaña](/help/marketo/
 
    >[!TIP]
    >
-   >Si selecciona una carpeta, el informe incluirá todo lo que contenga la carpeta en el momento en que se ejecute el informe.
+   >Si selecciona una carpeta, el informe incluirá todo lo que la carpeta contenga en el momento en que se ejecute el informe.
 
-1. ¡Ya has terminado! Haga clic en el **Informe** para ver el informe filtrado.
+1. ¡Ya terminaste! Haga clic en **Informe** para ver el informe filtrado.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
    >[!MORELIKETHIS]
    >
-   >[Informe Rendimiento del correo electrónico de la campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Informe de rendimiento de correo electrónico de Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[Filtrado de recursos en un informe de correo electrónico](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

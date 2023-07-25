@@ -3,10 +3,11 @@ unique-page-id: 14352422
 description: ¿Qué exploradores y clientes de correo electrónico son compatibles con Sales Connect? - Documentos de Marketo - Documentación del producto
 title: ¿Qué exploradores y clientes de correo electrónico son compatibles con Sales Connect?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

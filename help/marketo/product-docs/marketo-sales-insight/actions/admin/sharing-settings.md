@@ -1,15 +1,16 @@
 ---
 description: Configuración de uso compartido - Documentos de Marketo - Documentación del producto
-title: Configuración de uso compartido
+title: Configuración para compartir
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Configuración de uso compartido {#sharing-settings}
+# Configuración para compartir {#sharing-settings}
 
 Administre mejor sus plantillas restringiendo lo que los usuarios pueden compartir y con qué categorías.
 

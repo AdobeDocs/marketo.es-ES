@@ -3,7 +3,8 @@ unique-page-id: 2359428
 description: 'Redireccionar una página de aterrizaje: documentos de Marketo, documentación del producto'
 title: Redireccionar una página de aterrizaje
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -22,7 +23,6 @@ ht-degree: 0%
 >
 >* [Página de aterrizaje con un formulario](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [Personalización de la dirección URL de la página de aterrizaje con un CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
-
 
 ## Paso 1: Inicio de una nueva regla de redirección {#step-start-a-new-redirect-rule}
 

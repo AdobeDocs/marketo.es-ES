@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2953457
-description: Sincronización SFDC - Sincronización de contactos - Documentos de Marketo - Documentación del producto
-title: Sincronización SFDC - Sincronización de contactos
+description: 'Sincronización de SFDC: sincronización de contactos - Documentos de Marketo - Documentación del producto'
+title: 'Sincronización SFDC: sincronización de contactos'
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Sincronización SFDC: Sincronización de contactos {#sfdc-sync-contact-sync}
+# Sincronización SFDC: sincronización de contactos {#sfdc-sync-contact-sync}
 
-¿Sabía que Marketo sincroniza toda la base de datos con Salesforce? Se sincroniza, luego espera 5 minutos y luego se sincroniza de nuevo, todo el día, todos los días. A continuación se proporcionan algunos detalles sobre cómo trata Marketo específicamente a los contactos de Salesforce.
+¿Sabía que Marketo sincroniza toda su base de datos con Salesforce? Se sincroniza, luego espera 5 minutos y luego se sincroniza de nuevo, todo el día, todos los días. A continuación, se muestran algunos detalles sobre cómo Marketo trata a los contactos de Salesforce específicamente.
 
 ## Dirección de sincronización {#sync-direction}
 
@@ -20,21 +21,21 @@ La sincronización de contactos es bidireccional. Si realiza cambios en un conta
 
 ## ¿Qué sucede si se realizan cambios en ambos sistemas al mismo tiempo? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-Somos buenos y dejamos que Salesforce gane. Es raro que ocurra este tipo de colisión de datos.
+Somos amables y dejamos que Salesforce gane. Es raro que ocurra este tipo de colisión de datos.
 
-## ¿Puedo convertir una persona en un contacto en Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
+## ¿Puedo convertir a una persona en un contacto en Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Sí, use la variable **[Convertir persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** acción de flujo.
+Sí, usar el **[Convertir persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** acción de flujo.
 
 >[!CAUTION]
 >
->La conversión de una persona en Marketo dará como resultado una nueva cuenta y una nueva oportunidad en Salesforce. Si no desea cuentas duplicadas, utilice Salesforce para convertir.
+>Convertir a una persona en Marketo resultará en una nueva cuenta y oportunidad en Salesforce. Si no desea cuentas duplicadas, utilice Salesforce para convertir.
 
-## ¿Puedo forzar manualmente la sincronización de un contacto? {#can-i-manually-force-a-sync-of-a-contact}
+## ¿Puedo forzar manualmente una sincronización de un contacto? {#can-i-manually-force-a-sync-of-a-contact}
 
-Sí, use la variable **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** acción de flujo y se sincronizará en tiempo real.
+Sí, usar el **[Sincronizar persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** acción de flujo y se sincronizará en tiempo real.
 
-## ¿Se sincroniza cada campo estándar con Marketo? {#does-every-single-standard-field-sync-to-marketo}
+## ¿Se sincronizan todos y cada uno de los campos estándar con Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
 No, no todos los campos estándar son útiles. Todos los campos personalizados pueden formar parte de la sincronización.
 
@@ -44,4 +45,4 @@ No, no todos los campos estándar son útiles. Todos los campos personalizados p
 
 ## ¿Marketo respetará las reglas de validación de Salesforce? {#will-marketo-respect-the-salesforce-validation-rules}
 
-Sí, si hay un conflicto, registrará el resultado en el registro de actividades de posibles clientes.
+Sí, si hay un conflicto, registrará el resultado en el registro de actividad de posibles clientes.

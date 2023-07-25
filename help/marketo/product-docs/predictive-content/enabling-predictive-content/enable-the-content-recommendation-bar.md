@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4720108
-description: 'Habilitar la barra de recomendaciones de contenido: documentos de Marketo: documentación del producto'
+description: 'Habilitar la barra de recomendaciones de contenido: documentos de Marketo, documentación del producto'
 title: Habilitar la barra de recomendaciones de contenido
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -12,28 +13,27 @@ ht-degree: 0%
 
 # Habilitar la barra de recomendaciones de contenido {#enable-the-content-recommendation-bar}
 
-El motor de recomendación de contenido utiliza análisis predictivos y algoritmos de aprendizaje automático para ofrecer contenido relevante a cada visitante web. El motor de recomendaciones predice qué contenido tendría mejor rendimiento por visitante. El contenido del motor se controla y supervisa en la página de Recommendations, lo que le ayuda a optimizar el retorno de la inversión del contenido.
+El motor de recomendación de contenido utiliza análisis predictivos y algoritmos de aprendizaje automático para ofrecer contenido relevante a cada visitante web. El motor de recomendaciones predice qué contenido funcionaría mejor por visitante. El contenido del motor se supervisa y controla en la página de Recommendations, lo que le ayuda a optimizar el retorno de la inversión del contenido.
 
 >[!PREREQUISITES]
 >
->Antes de activar el contenido predictivo, debe:
+>Antes de activar Contenido predictivo, debe:
 >
->* **Prepare su contenido predictivo**
-   >
-   >   * [Editar contenido predictivo para correos electrónicos](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) o
-   >   * [Editar contenido predictivo para medios enriquecidos](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) o
-   >   * [Editar contenido predictivo para la barra de recomendaciones](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>* **Preparación del contenido predictivo**
+>
+>   * [Editar contenido predictivo para correos electrónicos](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) o
+>   * [Editar contenido predictivo para medios enriquecidos](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) o
+>   * [Editar contenido predictivo para la barra de recomendaciones](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
 >* [Aprobar un título para contenido predictivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
-
 ## Habilitar y personalizar la barra de recomendaciones de contenido {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vaya a **Configuración de contenido**.
+1. Ir a **Configuración de contenido**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Haga clic en **Barra**.
+1. Clic **Barra**.
 
    ![](assets/content-settings-bar-hand.png)
 
@@ -41,29 +41,28 @@ El motor de recomendación de contenido utiliza análisis predictivos y algoritm
 
    ![](assets/bar-enable.png)
 
-1. Para personalizar una dirección URL, seleccione colores, estilo, formato, flechas para la barra de recomendaciones y páginas para incluir o excluir la barra. Personalizar para adaptarse a la marca de su sitio web. Haga clic en **Guardar**.
+1. Para personalizar una dirección URL, seleccione colores, estilo, formato, flechas para la barra de recomendaciones y páginas para incluir o excluir la barra. Personalice para adaptarlo a la marca de su sitio web. Clic **Guardar**.
 
    ![](assets/bar-customize-details-hands.png)
 
    >[!NOTE]
    >
-   >**Incluir / Excluir dirección URL de visualización**
+   >**Incluir/Excluir URL para mostrar**
    >
-   >* La dirección URL de visualización debe ser la ruta del dominio
-   >* No incluya https:// o https://
-   >* Uso &#42; para comodines
-   >* Utilizar un punto y coma como separador
+   >* La URL para mostrar debe ser la ruta del dominio
+   >* No incluya https:// ni https://
+   >* Uso &#42; para caracteres comodín
+   >* Utilice un punto y coma como separador
    >* Ejemplo: /contact_us&#42;; &#42;action=logout&#42;
    >* Este campo distingue entre mayúsculas y minúsculas
 
+## Consideraciones de barra de recomendaciones {#recommendation-bar-considerations}
 
-## Consideraciones sobre la barra de recomendaciones {#recommendation-bar-considerations}
+* Necesita al menos un fragmento de contenido para que la barra de recomendaciones se establezca en **Activado** en la página Recommendations para que funcione el motor de Recommendations. Si no hay contenido habilitado y la barra está establecida en **Activado**, el efecto Flecha se mostrará en la parte inferior derecha de la página web, pero no aparecerá ningún contenido recomendado.
 
-* Necesita al menos un fragmento de contenido para la barra de recomendaciones configurada en **Activado** en la página Recommendations para que funcione el motor de Recomendaciones . Si no hay contenido habilitado y la barra está configurada en **Activado**, el efecto Flecha se mostrará en la parte inferior derecha de la página web, pero no aparecerá ningún contenido recomendado.
-
-* Cuanto más contenido se ejecute en el motor de recomendaciones, mejor será para que el algoritmo pruebe y aprenda qué contenido funciona mejor. Se recomienda empezar con entre 10 y 20 fragmentos de contenido en ejecución y activos, así como seguir añadiendo nuevos.
-* La parte de contenido que habilite para la recomendación debe incluir la etiqueta Javascript de RTP. Esto ayuda al algoritmo a rastrear y optimizar el contenido recomendado.
+* Cuanto más contenido se ejecute en el motor de recomendación, mejor para el algoritmo para probar y aprender qué contenido funciona mejor. Recomendamos empezar con 10 a 20 piezas de contenido activas y en ejecución, y seguir añadiendo nuevas.
+* El fragmento de contenido que habilite para la recomendación debe incluir la etiqueta Javascript RTP. Esto ayuda al algoritmo a rastrear y optimizar el contenido recomendado.
 
 >[!MORELIKETHIS]
 >
->[Habilitar contenido predictivo para medios enriquecidos en la Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Habilitar contenido predictivo para medios enriquecidos en web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

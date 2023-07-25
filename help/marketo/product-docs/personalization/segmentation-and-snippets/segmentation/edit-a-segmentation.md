@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359474
-description: 'Editar una segmentación: Documentos de Marketo: Documentación del producto'
+description: 'Edición de una segmentación: documentos de Marketo, documentación del producto'
 title: Editar una segmentación
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Editar una segmentación {#edit-a-segmentation}
 
-Realizar cambios en las segmentaciones existentes es fácil. Aquí está la bajada.
+Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja.
 
 ## Crear un borrador de segmentación {#create-a-segmentation-draft}
 
@@ -24,7 +25,7 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
    ![](assets/two.png)
 
-1. La variable **Estado** cambios en Aprobado con borrador. A **Borrador** se crea en la segmentación.
+1. El **Estado** cambios en Aprobado con borrador. A **Borrador** La carpeta se crea en su segmentación.
 
    ![](assets/three.png)
 
@@ -38,17 +39,17 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
    >
    >Solo puede editar segmentos de un borrador y no la segmentación aprobada.
 
-1. **Añadir segmento**, **Editar** existente (cambiar el nombre o cambiar el orden) o **Eliminar** cualquier segmento.
+1. **Añadir segmento**, **Editar** existentes (cambie el nombre o el orden) o **Eliminar** cualquier Segmento.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
    >[!NOTE]
    >
-   >Debe seleccionar un segmento antes de editarlo o eliminarlo.
+   >Debe seleccionar un segmento antes de poder editarlo o eliminarlo.
 
    >[!CAUTION]
    >
-   >La eliminación afecta a todo el contenido dinámico asociado en correos electrónicos, páginas de aterrizaje y fragmentos. **No hay deshacer**. Marque la **Utilizado por** para ver qué utiliza ese segmento.
+   >La eliminación afecta a todo el contenido dinámico asociado en correos electrónicos, páginas de aterrizaje y fragmentos de código. **No hay deshacer**. Compruebe la **Utilizado por** para ver qué utiliza ese segmento.
 
 ## Editar reglas de segmentos {#edit-segment-rules}
 
@@ -62,9 +63,9 @@ Realizar cambios en las segmentaciones existentes es fácil. Aquí está la baja
 
    >[!NOTE]
    >
-   >Recuerde aprobar el borrador de segmentación.
+   >Recuerde aprobar el borrador de la segmentación.
 
-Siéntase libre de experimentar con segmentaciones que no se utilicen en contenido dinámico.
+No dude en experimentar con las segmentaciones que no se utilizan en el contenido dinámico.
 
 >[!MORELIKETHIS]
 >

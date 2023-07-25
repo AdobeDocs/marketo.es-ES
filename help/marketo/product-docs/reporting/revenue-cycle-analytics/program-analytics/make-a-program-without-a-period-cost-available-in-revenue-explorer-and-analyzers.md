@@ -1,30 +1,31 @@
 ---
 unique-page-id: 2360389
-description: Hacer que un programa sin costo de período esté disponible en el Explorador de ingresos y analizadores - Documentos de Marketo - Documentación del producto
-title: Hacer que un programa sin costo de período esté disponible en el Explorador de ingresos y analizadores
+description: Disponibilidad de un programa sin coste de período en el Explorador de ingresos y Analizadores - Documentos de Marketo - Documentación del producto
+title: Disponibilidad de un programa sin coste de período en el Explorador de ingresos y en los analizadores
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Hacer que un programa sin costo de período esté disponible en el Explorador de ingresos y analizadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Disponibilidad de un programa sin coste de período en el Explorador de ingresos y en los analizadores {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Los costos de período de programa le permiten definir &quot;Cuánto dinero&quot; y &quot;Cuándo&quot; para un programa. Esto se muestra en el Explorador de ciclo de ingresos y [analizadores](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
-
->[!NOTE]
->
->**Se requieren permisos de administrador**
-
-Es posible que algunos programas deban incluirse aunque no tengan un costo de período. Aunque puede introducir 0 para el coste del periodo, hemos facilitado la inclusión de estos programas.
+Costos de período del programa le permite definir &quot;Cuánto dinero&quot; y &quot;Cuándo&quot; para un programa. Esto aparece en el Explorador de ciclos de ingresos y [analizadores](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
->El Analizador de programas agrupa el éxito del programa por coste de período. Si no hay ningún coste de período disponible, el éxito del programa no se mostrará, independientemente del comportamiento analítico del programa. Si se configura el comportamiento de análisis, se mostrarán datos para métricas de oportunidad (oportunidades de canalización, ingresos obtenidos, etc.).
+>**Permisos de administración necesarios**
 
-1. En la sección Administración , haga clic en **Etiquetas**.
+Es posible que algunos programas deban incluirse incluso si no tienen un coste de periodo. Aunque puede escribir 0 para el coste del período, hemos facilitado la inclusión de estos programas.
+
+>[!NOTE]
+>
+>El analizador de programas agrupa el éxito del programa por coste de periodo. Si no hay ningún costo de período disponible, no se mostrará Éxito del programa, independientemente del comportamiento de análisis del programa. Si se configura el comportamiento del análisis, los datos se mostrarán para las métricas de oportunidad (oportunidades de canalización, ingresos obtenidos, etc.).
+
+1. En la sección Administración, haga clic en **Etiquetas**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -32,7 +33,7 @@ Es posible que algunos programas deban incluirse aunque no tengan un costo de pe
 
    >[!NOTE]
    >
-   >Todos los programas que utilicen este canal, independientemente del coste de período, estarán disponibles para los analizadores y exploradores de ingresos. Este cambio tendrá efecto al día siguiente.
+   >Todos los programas que utilicen este canal, independientemente del coste del periodo, estarán disponibles para el explorador de ingresos y los analizadores. Este cambio entra en vigor al día siguiente.
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
@@ -42,9 +43,9 @@ Es posible que algunos programas deban incluirse aunque no tengan un costo de pe
 
 >[!TIP]
 >
->¿Ha notado la opción Operativo? Esto hace lo contrario. Excluye estos programas independientemente del costo del período.
+>¿Se ha fijado en la opción Operativo? Esto hace lo contrario. Excluye estos programas independientemente del coste del periodo.
 
-¡Buen trabajo! Ahora, cualquier programa que utilice el canal modificado se incluirá en el explorador de ingresos y en los analizadores sin necesidad de un coste de período.
+¡Buen trabajo! Ahora, cualquier programa que utilice el canal modificado se incluirá en el explorador de ingresos y en los analizadores sin necesidad de un coste de periodo.
 
 >[!MORELIKETHIS]
 >

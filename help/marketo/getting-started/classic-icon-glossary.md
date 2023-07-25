@@ -3,16 +3,17 @@ unique-page-id: 4720476
 description: Glosario de iconos clásicos - Documentos de Marketo - Documentación del producto
 title: Glosario de iconos clásicos
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '562'
 ht-degree: 25%
 
 ---
 
 # Glosario de iconos clásicos {#classic-icon-glossary}
 
-A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glosario de iconos puede ser [se encuentra aquí](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
+A continuación se muestran los iconos antiguos de Marketo Classic. El nuevo glosario de iconos puede ser [encontrado aquí](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **Iconos generales**
 
@@ -52,28 +53,28 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-9-3a20-3a42.png"> 
     </div></td> 
-   <td>Editar/Cambiar el nombre de la carpeta</td> 
+   <td>Editar/cambiar nombre de carpeta</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">La carpeta de origen que compartió con otro espacio de trabajo</td> 
+   <td colspan="1">La carpeta de origen compartida con otro espacio de trabajo</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Carpeta de destino compartida desde otro espacio de trabajo <br>(el cerrojo indica que no se pueden realizar ediciones)</td> 
+   <td colspan="1">Carpeta de destino compartida desde otro espacio de trabajo <br>(el candado indica que no se pueden realizar ediciones)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>Carpeta de archivo o Convertir a carpeta de archivo (esto puede aparecer para cualquier carpeta y programa archivado)</td> 
+   <td>Carpeta de archivo o Convertir en carpeta de archivo (esto puede aparecer para cualquier carpeta y programas archivados)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -94,7 +95,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
-   <td colspan="1">Desencadenante</td> 
+   <td colspan="1">Activador</td> 
   </tr> 
   <tr> 
    <td> 
@@ -168,7 +169,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-10-3a56-3a28.png"> 
     </div></td> 
-   <td>Seguridad/Cierre de sesión</td> 
+   <td>Seguridad/cierre de sesión</td> 
   </tr> 
   <tr> 
    <td> 
@@ -182,7 +183,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-16-3a30-3a56.png"> 
     </div></td> 
-   <td>Configuración de inicio de sesión</td> 
+   <td>Configuración de inicio</td> 
   </tr> 
   <tr> 
    <td> 
@@ -203,7 +204,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-16-3a38-3a39.png"> 
     </div></td> 
-   <td>Email</td> 
+   <td>Correo electrónico</td> 
   </tr> 
   <tr> 
    <td> 
@@ -217,14 +218,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-16-3a45-3a58.png"> 
     </div></td> 
-   <td>Gestión de las actividades sobre el terreno</td> 
+   <td>Administración de campos</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-16-3a47-3a42.png"> 
     </div></td> 
-   <td>Integración</td> 
+   <td>Integración de </td> 
   </tr> 
   <tr> 
    <td> 
@@ -259,7 +260,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-18-3a26-3a58.png"> 
     </div></td> 
-   <td>Servicios Web</td> 
+   <td>Servicios web</td> 
   </tr> 
   <tr> 
    <td> 
@@ -273,14 +274,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Enlaces web</td> 
+   <td>Webhooks</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a46-3a13.png"> 
     </div></td> 
-   <td>Etiquetas - Atributo de programa</td> 
+   <td>Etiquetas: atributo de programa</td> 
   </tr> 
   <tr> 
    <td> 
@@ -294,7 +295,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-8-19-3a20-3a47.png"> 
     </div></td> 
-   <td>Treasure Chest</td> 
+   <td>Cofre del tesoro</td> 
   </tr> 
   <tr> 
    <td> 
@@ -308,7 +309,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>Notificaciones: Alertas importantes para todo el sistema</td> 
+   <td>Notificaciones: Alertas importantes en todo el sistema</td> 
   </tr> 
  </tbody> 
 </table>
@@ -333,7 +334,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-11-3a9-3a4.png"> 
     </div></td> 
-   <td>Programa: tipo predeterminado</td> 
+   <td>Programa - Tipo predeterminado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -347,7 +348,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>Nurtura de participación</td> 
+   <td>Nutrir la participación</td> 
   </tr> 
   <tr> 
    <td> 
@@ -361,7 +362,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>Cambiar la cadencia de participación (en pausa, normal)</td> 
+   <td>Cambiar cadencia de participación (en pausa, normal)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -389,14 +390,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-11-3a14-3a24.png"> 
     </div></td> 
-   <td>Campaña inteligente: por lotes (se ha ejecutado antes)</td> 
+   <td>Campaña inteligente: lote (se ha ejecutado antes)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a43-3a30.png"> 
     </div></td> 
-   <td>Campaña inteligente: Inactiva o nunca ejecutada</td> 
+   <td>Campaña inteligente: inactiva o nunca ejecutada</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +411,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>Programa de correo electrónico <br>(Indicador rojo abajo = aún no se ha enviado el correo electrónico)</td> 
+   <td>Programa de correo electrónico <br>(Indicador rojo abajo = el correo electrónico aún no se ha enviado)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -487,7 +488,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-14-3a43-3a17.png"> 
     </div></td> 
-   <td>Acciones de botón Social</td> 
+   <td>Acciones de botón social</td> 
   </tr> 
   <tr> 
    <td> 
@@ -571,7 +572,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>Acciones de apuestas</td> 
+   <td>Acciones de sorteo</td> 
   </tr> 
   <tr> 
    <td> 
@@ -729,7 +730,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-12-11-3a0-3a49.png"> 
     </div></td> 
-   <td>Convertir en grupo de prueba</td> 
+   <td>Convertir a grupo de prueba</td> 
   </tr> 
   <tr> 
    <td> 
@@ -771,28 +772,28 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-12-3a38-3a15.png"> 
     </div></td> 
-   <td>Página de aterrizaje: aprobada</td> 
+   <td>Página de aterrizaje: aprobado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a41-3a12.png"> 
     </div></td> 
-   <td>Plantilla de página de aterrizaje/correo electrónico: sin aprobar</td> 
+   <td>Plantilla de correo electrónico/página de aterrizaje: no aprobado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a43-3a21.png"> 
     </div></td> 
-   <td>Plantilla de página de aterrizaje/correo electrónico: aprobada</td> 
+   <td>Plantilla de correo electrónico/página de aterrizaje: aprobado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>Correo electrónico: sin aprobar o borrador</td> 
+   <td>Correo electrónico: desaprobado o borrador</td> 
   </tr> 
   <tr> 
    <td> 
@@ -806,7 +807,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-12-3a48-3a22.png"> 
     </div></td> 
-   <td>Forms: sin aprobar</td> 
+   <td>Forms: desaprobado</td> 
   </tr> 
   <tr> 
    <td> 
@@ -820,7 +821,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>Borrador de un activo aprobado (no activo hasta que se apruebe el borrador)</td> 
+   <td>Borrador de un recurso aprobado (no activo hasta que se apruebe el borrador)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -834,14 +835,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>Fragmento: sin aprobar o borrador</td> 
+   <td>Fragmento de código: desaprobado o borrador</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>Fragmento: aprobado</td> 
+   <td>Fragmento de código: aprobado</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -887,21 +888,21 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>Modelo de ciclo de ingresos (RCM): sin aprobar</td> 
+   <td>Modelo de ciclo de ingresos (RCM) - No aprobado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>Modelo de ciclo de ingresos (RCM): aprobado</td> 
+   <td>Modelo del ciclo de ingresos (RCM) - Aprobado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>Modelo de ciclo de ingresos (RCM): aprobado con borrador</td> 
+   <td>Modelo del ciclo de ingresos (RCM) - Aprobado con borrador</td> 
   </tr> 
   <tr> 
    <td> 
@@ -922,7 +923,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-12-3a56-3a29.png"> 
     </div></td> 
-   <td>Nueva suscripción de informe</td> 
+   <td>Nueva suscripción a informe</td> 
   </tr> 
   <tr> 
    <td> 
@@ -943,7 +944,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>Información general sobre momentos interesantes</td> 
+   <td>Resumen de momentos interesantes</td> 
   </tr> 
   <tr> 
    <td> 
@@ -976,7 +977,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
  </tbody> 
 </table>
 
-### Iconos de Mis tokens {#my-tokens-icons}
+### Mis iconos de tokens {#my-tokens-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -989,14 +990,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>Calendario ICS: iCalendarios, (Calendarios integrados)</td> 
+   <td>Calendario ICS - iCalendars, (calendarios integrados)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a20-3a45.png"> 
     </div></td> 
-   <td>Texto enriquecido (no una página de aterrizaje)</td> 
+   <td>Texto enriquecido (no es una página de aterrizaje)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1031,14 +1032,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>Actualizar (Normalmente Ejecutar Recuento, Informe, Lista Inteligente)</td> 
+   <td>Actualizar (Normalmente Número De Ejecuciones, Informe, Lista Inteligente)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>Ver miembros inteligentes (cualificados anteriormente y actuales)</td> 
+   <td>Ver miembros inteligentes (anteriormente cualificados y actuales)</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1056,7 +1057,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>Programar periodicidad de campaña (varias ejecuciones)</td> 
+   <td>Programar periodicidad de la campaña (varias ejecuciones)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1112,7 +1113,7 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>Fecha: con el formato "MM-DD-AAAA"</td> 
+   <td>Fecha - Con el formato "DD/MM/YYYY"</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1144,14 +1145,14 @@ A continuación se muestran los antiguos iconos de Marketo Classic. El nuevo glo
     <div> 
      <img src="assets/image2015-1-5-16-3a37-3a48.png"> 
     </div></td> 
-   <td>Segmentación O Segmento: sin aprobar</td> 
+   <td>Segmentación O Segmento: No Aprobado</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a39-3a5.png"> 
     </div></td> 
-   <td>Segmentación o segmento: aprobado o borrador</td> 
+   <td>Segmentación O Segmento: Aprobado O Borrador</td> 
   </tr> 
   <tr> 
    <td> 

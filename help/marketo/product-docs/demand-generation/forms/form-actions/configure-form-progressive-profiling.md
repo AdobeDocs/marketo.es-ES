@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2359646
-description: 'Configuración de perfiles progresivos de formulario: documentos de Marketo: documentación del producto'
-title: Configurar la creación progresiva de formularios
+description: Configuración del perfil progresivo de formularios - Documentos de Marketo - Documentación del producto
+title: Configurar perfil progresivo de formulario
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-# Configurar la creación progresiva de formularios {#configure-form-progressive-profiling}
+# Configurar perfil progresivo de formulario {#configure-form-progressive-profiling}
 
-Las formas cortas son buenas. Cuando alguien vuelve a un formulario, puede presentar nuevos campos y rellenar progresivamente el perfil del visitante. Así es como.
+¡Las formas cortas son buenas! Cuando alguien vuelve a un formulario, puede presentar nuevos campos y rellenar progresivamente el perfil del visitante. Así es como.
 
 >[!NOTE]
 >
->Para que esta función funcione correctamente, asegúrese de que el relleno previo del formulario esté habilitado para los campos visibles y [disabled](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
+>Para que esta función funcione correctamente, asegúrese de que Rellenar previamente formulario está habilitado para los campos visibles y [inhabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma-1.png)
 
@@ -30,15 +31,15 @@ Las formas cortas son buenas. Cuando alguien vuelve a un formulario, puede prese
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Establezca **Perfiles progresivos** a **Habilitado**.
+1. Establecer **Perfiles progresivos** hasta **Habilitado**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Bien, ahora vamos a configurarlo. Vaya a **Detalles del campo**.
+1. Bien, ahora vamos a configurarlo. Ir a **Detalles del campo**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
-1. Arrastre y suelte todos los campos que formen parte del conjunto de perfiles progresivos.
+1. Arrastre y suelte todos los campos que forman parte del conjunto de perfiles progresivos.
 
    ![](assets/image2014-9-15-12-3a32-3a3.png)
 
@@ -48,54 +49,51 @@ Las formas cortas son buenas. Cuando alguien vuelve a un formulario, puede prese
 
    >[!NOTE]
    >
-   >Los campos fuera de la variable **Perfiles progresivos** siempre se mostrará en el formulario, aunque estén rellenados.
+   >Los campos fuera de **Perfiles progresivos** siempre se mostrará en el formulario, incluso si se han rellenado.
 
-1. Seleccione el **Perfiles progresivos** en la ventana
+1. Seleccione el **Perfiles progresivos** cuadro.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Tenga cuidado al usar los campos obligatorios en Perfiles progresivos. Estos campos podrían seguir en blanco si el visitante introduce una nueva dirección de correo electrónico (que creará una persona nueva) después de enviar previamente datos para los demás campos, ya que se suprimirán en el formulario más reciente.
+   >Tenga cuidado al utilizar los campos obligatorios en la generación progresiva de perfiles. Estos campos podrían permanecer en blanco si el visitante introduce una nueva dirección de correo electrónico (que crearía una nueva persona) después de enviar anteriormente los datos de los demás campos, ya que se suprimirían en el formulario más reciente.
 
-1. Ahora elija cuántos campos en blanco desea que vean las personas de la variable **Perfiles progresivos** en cualquier momento.
+1. Ahora elija cuántos campos en blanco desea que vean los usuarios en **Perfiles progresivos** en cualquier momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Si elige **Número** **de** **En blanco** **Campos** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
+   >Si elige **Número** **de** **Vacío** **Campos** como 1, el visitante verá lo siguiente la primera vez que vea este formulario:
    >
    >* Nombre (vacío)
    >* Apellidos (vacío)
    >* Dirección de correo electrónico (vacía)
    >* Número de teléfono (vacío)
-
    >
-   >Suponiendo que rellenen todos los campos, la segunda vez que visiten verá:
+   >Si rellenan todos los campos, la segunda vez que visiten, verán lo siguiente:
    >
-   >* Nombre (prerellenado)
-   >* Apellidos (rellenado previamente)
-   >* Dirección de correo electrónico (precargada)
+   >* Nombre (rellenado previamente)
+   >* Apellido (rellenado previamente)
+   >* Dirección de correo electrónico (rellenada previamente)
    >* Número de teléfono móvil (vacío)
-
    >
-   >Suponiendo que rellenen el número de teléfono móvil, la tercera vez que visiten verán:
+   >Si rellenan el número de teléfono móvil, la tercera vez que lo visiten verán lo siguiente:
    >
-   >* Nombre (prerellenado)
-   >* Apellidos (rellenado previamente)
-   >* Dirección de correo electrónico (precargada)
+   >* Nombre (rellenado previamente)
+   >* Apellido (rellenado previamente)
+   >* Dirección de correo electrónico (rellenada previamente)
    >* País (vacío)
 
-
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-¡Buen trabajo! El trabajo que acabas de hacer saldrá adelante.
+¡Buen trabajo! El trabajo que acabas de hacer dará sus frutos.
 
-Experimente con esta función y asegúrese de probarla. Es avanzado, pero puede hacer que los formularios sean muy dinámicos de esta manera.
+Experimente con esta función y asegúrese de realizar pruebas. Es avanzado, pero puede hacer que sus formularios sean muy dinámicos de esta manera.

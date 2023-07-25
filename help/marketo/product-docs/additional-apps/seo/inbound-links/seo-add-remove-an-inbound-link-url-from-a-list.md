@@ -3,7 +3,8 @@ unique-page-id: 2949251
 description: 'SEO: Adición o eliminación de una URL de vínculo entrante de una lista: documentos de Marketo: documentación del producto'
 title: 'SEO: Agregar o quitar una URL de vínculo de entrada de una lista'
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

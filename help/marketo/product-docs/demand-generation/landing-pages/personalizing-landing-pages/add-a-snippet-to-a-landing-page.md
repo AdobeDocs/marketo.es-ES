@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359537
-description: 'Adición de un fragmento a una página de aterrizaje: Marketo Docs: documentación del producto'
-title: Agregar un fragmento a una página de aterrizaje
+description: 'Añadir un fragmento a una página de aterrizaje: documentación de Marketo'
+title: Añadir un fragmento a una página de aterrizaje
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Agregar un fragmento a una página de aterrizaje {#add-a-snippet-to-a-landing-page}
+# Añadir un fragmento a una página de aterrizaje {#add-a-snippet-to-a-landing-page}
 
-Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y contener contenido personalizado.
+Los fragmentos de código son pequeños fragmentos de HTML que pueden seguir reglas y albergar contenido personalizado.
 
 >[!PREREQUISITES]
 >
@@ -22,7 +23,7 @@ Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y conte
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. En el editor de páginas de aterrizaje, arrastre el ratón sobre el **Fragmento** elemento.
+1. En el editor de la página de aterrizaje, arrastre el puntero sobre la barra **Fragmento** Elemento.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -32,10 +33,10 @@ Los fragmentos son pequeños fragmentos de HTML que pueden seguir reglas y conte
 
    >[!TIP]
    >
-   >Si no encuentra el fragmento, asegúrese de que se apruebe primero.
+   >Si no encuentra el fragmento, asegúrese de que esté aprobado primero.
 
    >[!NOTE]
    >
-   >Si desea agregar un fragmento a una página de aterrizaje guiada, consulte [este artículo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Si desea agregar un fragmento de código a una página de aterrizaje guiada, consulte [este artículo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-¡Un trabajo increíble! Ahora sabe cómo agregar fragmentos a sus páginas de aterrizaje.
+¡Excelente trabajo! Ahora sabe cómo agregar fragmentos de código a las páginas de aterrizaje.

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4719408
-description: Editar una campaña web existente - Documentos de Marketo - Documentación del producto
+description: 'Edición de una campaña web existente: documentos de Marketo, documentación del producto'
 title: Editar una campaña web existente
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Editar una campaña web existente {#edit-an-existing-web-campaign}
 
-1. Vaya a **Campañas web**.
+1. Ir a **Campañas web**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
@@ -22,10 +23,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña web que desea, use la variable [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña web que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
->* [Eliminar una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [Iniciar/pausar una campaña](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
-
+>* [Eliminación de una campaña web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [Inicio/pausa de una campaña](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

@@ -1,40 +1,41 @@
 ---
 unique-page-id: 1147068
-description: Filtrar los resultados de la campaña inteligente - Documentos de Marketo - Documentación del producto
-title: Filtrar resultados de campaña inteligente
+description: 'Filtrar resultados de campañas inteligentes: documentos de Marketo: documentación del producto'
+title: Filtrar resultados de campañas inteligentes
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Filtrar resultados de campaña inteligente {#filter-smart-campaign-results}
+# Filtrar resultados de campañas inteligentes {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
->[Ver resultados de campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
+>[Ver resultados de campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
-Filtre los resultados de campañas inteligentes para ver las actividades específicas que le interesen.
+Filtre los resultados de las campañas inteligentes para ver las actividades específicas que le importan.
 
 ## Filtrar por filtros guardados {#filter-by-saved-filters}
 
-1. En su campaña inteligente **Resultados** , haga clic en **Filtro** y seleccione un filtro guardado.
+1. En su campaña inteligente **Resultados** pestaña, haga clic en **Filtrar** y seleccione un filtro guardado.
 
    ![](assets/resultsfilter-hands.png)
 
    >[!NOTE]
    >
-   >De forma predeterminada, no hay filtros aplicados y los resultados muestran todas las actividades.
+   >De forma predeterminada, no se aplican filtros y los resultados muestran todas las actividades.
 
 ## Crear un filtro personalizado {#create-a-custom-filter}
 
-1. Haga clic en **Filtro** y luego **Personalizado**.
+1. Haga clic en **Filtrar** y luego **Personalizado**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Seleccione los tipos de actividades que desea ver y, a continuación, haga clic en **Guardar como** .
+1. Seleccione los tipos de actividades que desea ver y haga clic en **Guardar como** .
 
    ![](assets/activityfiltersettings-hands.png)
 

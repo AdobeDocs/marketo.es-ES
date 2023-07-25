@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2950547
-description: 'Configuración de la captura de personas para una aplicación social: Marketo Docs: documentación del producto'
-title: Configurar la captura de personas para una aplicación social
+description: 'Configuración de la captura de personas para una aplicación social: documentos de Marketo, documentación del producto'
+title: Configuración de la captura de personas para una aplicación social
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# Configurar la captura de personas para una aplicación social {#configure-person-capture-for-a-social-app}
+# Configuración de la captura de personas para una aplicación social {#configure-person-capture-for-a-social-app}
 
-Al crear un [oferta de recomendación](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o [apuestas](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede configurar la información que solicita y la información que necesita de las personas para participar.
+Al crear un [oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede configurar qué información solicita y qué información necesita de las personas para participar.
 
 >[!NOTE]
 >
->Solo se solicita esta información a las personas que no la hayan proporcionado anteriormente.
+>A las personas solo se les solicita esta información si no la han proporcionado anteriormente.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma-2.png)
 
@@ -30,20 +31,20 @@ Al crear un [oferta de recomendación](/help/marketo/product-docs/demand-generat
 
    ![](assets/three-1.png)
 
-1. Seleccione la información que va a solicitar e indique los campos que son específicamente necesarios para suscribirse a la oferta.
+1. Seleccione la información que va a solicitar e indique los campos requeridos específicamente para registrarse en la oferta.
 
    ![](assets/image2014-9-22-10-58-24.png)
 
    Incluir opciones de marketing:
 
-   * **Exclusión**: La persona está suscrita de forma predeterminada.
-   * **Opt-in**: La persona puede elegir suscribirse.
+   * **Opción de exclusión**: La persona está suscrita de forma predeterminada.
+   * **Opt-in**: la persona puede optar por suscribirse.
 
    >[!NOTE]
    >
-   >De cualquier manera, los participantes seguirán recibiendo el [_operativa_ correos electrónicos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) de su oferta.
+   >En cualquier caso, los participantes seguirán recibiendo el [_operativo_ correos electrónicos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) de su oferta.
 
-1. En la ventana Ver y editar , haga clic en **Mostrar ediciones** y edite los mensajes en el símbolo del sistema compartido.
+1. En la ventana Ver y editar, haga clic en **Mostrar ediciones** y edite los mensajes en la solicitud de uso compartido.
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 

@@ -1,41 +1,42 @@
 ---
 unique-page-id: 1146974
-description: Editar reglas de calificación en una campaña inteligente - Documentos de Marketo - Documentación del producto
-title: Editar reglas de calificación en una campaña inteligente
+description: 'Edición de reglas de calificación en una campaña inteligente: documentos de Marketo, documentación del producto'
+title: Edición de reglas de calificación en una campaña inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# Editar reglas de calificación en una campaña inteligente {#edit-qualification-rules-in-a-smart-campaign}
+# Edición de reglas de calificación en una campaña inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
-Las reglas de clasificación controlan cuántas veces alguien puede ejecutar el flujo en una campaña inteligente. De forma predeterminada, incluso si alguien déclencheur una campaña inteligente varias veces, solo se envían a través del flujo una vez. A continuación se explica cómo modificar esta configuración.
+Las reglas de calificación controlan cuántas veces alguien puede correr a través del flujo en una campaña inteligente. De forma predeterminada, incluso si alguien déclencheur una campaña inteligente varias veces, solo se envía a través del flujo una vez. A continuación se indica cómo modificar esta configuración.
 
-1. En la campaña inteligente, haga clic en el botón **Programación** pestaña y luego **Editar configuración**.
+1. En la campaña inteligente, haga clic en **Programación** y luego **Editar configuración**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >También puede hacer clic en **Editar** a la derecha de &quot;Configuración de campaña inteligente&quot;.
+   >También puede hacer clic en **Editar** a la derecha de &quot;Configuración de campañas inteligentes&quot;.
 
-1. Elija la frecuencia con la que se ejecutará a su gente a través del flujo de campañas inteligentes: **solo una vez**, **cada vez** o **una vez cada # días**/**semanas**/**meses**.
+1. Elija la frecuencia con la que quiere ejecutar a sus recursos en el flujo de campañas inteligentes: **solo una vez**, **cada vez**, o **una vez cada # días**/**semanas**/**meses**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
-   >Cuando establece una regla para una vez al día, Marketo la convierte a horas. Por ejemplo, si establece la regla para una vez al día y una persona se califica a las 10 p. m. un domingo por la noche, no podrá cumplir los requisitos hasta las 10 p. m. lunes por la noche. Esta lógica también se aplica cuando se utilizan semanas o meses. Un mes siempre se cuenta como 30 días.
+   >Cuando establece una regla para una vez al día, Marketo la convierte en horas. Por ejemplo, si establece la regla para una vez al día y una persona califica a las 10 p. m. un domingo por la noche, no podrá volver a calificar hasta las 10 p. m. del lunes por la noche. Esta lógica también se aplica cuando se utilizan semanas o meses. Un mes siempre se cuenta como 30 días.
 
    >[!NOTE]
    >
-   >Los límites de comunicación no se aplican a las campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicar límites de comunicación a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Los límites de comunicación no se aplican a las campañas inteligentes de forma predeterminada. Obtenga información sobre cómo [aplicación de límites de comunicación a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >[Aplicar límites de comunicación a campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[Aplicación de límites de comunicación a campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
-¡Misión cumplida! Ahora sabe cómo controlar las reglas de calificación en una campaña inteligente.
+¡Misión cumplida! Ahora sabe cómo controlar las reglas de cualificación en una campaña inteligente.

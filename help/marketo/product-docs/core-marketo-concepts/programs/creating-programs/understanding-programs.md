@@ -1,42 +1,42 @@
 ---
 unique-page-id: 1147089
-description: Explicación de los programas - Documentos de Marketo - Documentación del producto
-title: Explicación de los programas
+description: 'Explicación de los programas: documentos de Marketo, documentación del producto'
+title: Explicación de programas
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Explicación de los programas {#understanding-programs}
+# Explicación de programas {#understanding-programs}
 
-Los programas representan una única iniciativa de marketing. Puede pensarlo como un contenedor con todas las cosas que necesita para que el programa funcione - estas se denominan recursos locales e incluyen **páginas de aterrizaje**, **email**, **campañas inteligentes**, y más. Los programas hacen mucho, pero es fácil empezar.
+Los programas representan una única iniciativa de marketing. Puede verlo como un contenedor con todas las cosas que necesita para que el programa funcione: se denominan recursos locales e incluyen **páginas de aterrizaje**, **email**, **campañas inteligentes**, y más. Los programas hacen mucho, pero es fácil empezar.
 
 Existen cuatro tipos de programas:
 
 **Programas de eventos**
 
-**[Eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** tienen una fecha y hora específicas. Le ayudan a coordinar, facilitar y rastrear sus eventos en vivo y en línea.
+**[Eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** tener una fecha y hora específicas. Le ayudan a coordinar, facilitar y rastrear sus eventos en vivo y en línea.
 
 **Programas de participación**
 
-**[Nurturación de taladros](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** se utiliza para alimentar a las personas con un calendario periódico establecido.
+**[Nutrición por goteo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** se utiliza para alimentar a las personas con un horario periódico establecido.
 
 **Programas de email**
 
-La variable **[blast de correo clásico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Tiene excelentes funciones integradas, como pruebas A/B y **[Inicio del encabezado del correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
+El **[explosión de correo clásica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Tiene funciones integradas geniales, como pruebas A/B y **[Head Start de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Programas predeterminados**
 
-Un programa predeterminado es todo lo que no sea un evento, una participación o un programa de correo electrónico. Obtenga creatividad.
+Un programa predeterminado es cualquier cosa que no sea un programa de evento, participación o correo electrónico. Pónganse creativos.
 
-¡Empecemos!
+Comencemos!
 
 >[!MORELIKETHIS]
 >
 >* [Crear un programa](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Información sobre las etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
+>* [Explicación de las etiquetas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
 >* [Explicación de la pertenencia al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-

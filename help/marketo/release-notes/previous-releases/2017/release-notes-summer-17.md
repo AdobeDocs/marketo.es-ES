@@ -1,69 +1,70 @@
 ---
 unique-page-id: 12980993
-description: Notas de la versión - Verano 17 - Marketo Docs - Documentación del producto
-title: Notas de la versión - Verano 17
+description: 'Notas de la versión, verano de 2017, documentación de Marketo: documentación del producto'
+title: Notas de la versión, verano de 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Verano 17 {#release-notes-summer}
+# Notas de la versión: Verano de 2017 {#release-notes-summer}
 
-Las siguientes funciones están incluidas en la versión del verano de 2017. Compruebe la disponibilidad de las funciones en su edición de Marketo.
+Las siguientes funciones se incluyen en la versión de verano de 17. Compruebe la disponibilidad de las funciones en Marketo Edition.
 
-Haga clic en los vínculos de título para ver los artículos detallados de cada función. Nota: Algunas de las funciones incluidas en esta versión no tienen artículos asociados. Si un tema tiene varios subencabezados, los vínculos se colocan allí.
+Haga clic en los vínculos del título para ver los artículos detallados de cada función. Nota: Algunas de las funciones incluidas en esta versión no tienen artículos asociados. Si un tema tiene varios subencabezados, los vínculos se colocan allí.
 
-## [Etapas de conversión sin conexión adicionales de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Fases adicionales de conversión sin conexión de Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Elija hasta 7 etapas de conversión sin conexión adicionales para asignarlas a las etapas del ciclo vital de Marketo (más allá de las 3 disponibles actualmente). Optimice su gasto publicitario de Facebook en función de las conversiones en el recorrido de sus clientes para lograr un mejor ROI.
+Elija hasta 7 fases de conversión sin conexión adicionales para asignarlas a las fases del ciclo vital de Marketo (más allá de las 3 disponibles hoy). Optimice el gasto en publicidad de Facebook en función de las conversiones del recorrido de los clientes para lograr un mejor ROI.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Bloquear plantilla de perspectivas de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [Bloquear plantilla de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
-Garantice la coherencia del mensaje y el contenido al evitar que se editen las plantillas de ventas. Esto ayuda a estandarizar las plantillas y a mantener las comunicaciones profesionales.
+Asegúrese de que el mensaje y el contenido sean coherentes y evite realizar ediciones en las plantillas de ventas. Esto ayuda a estandarizar las plantillas y mantener las comunicaciones profesionales.
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
 ## Mejoras de ABM {#abm-enhancements}
 
-**Fuente de datos para la búsqueda de la empresa japonesa**
+**Fuente de datos para búsqueda de empresa en japonés**
 
-Haga coincidir personas con nombres de empresas japoneses en el idioma local.
+Hacer coincidir personas con nombres de empresas en japonés en el idioma local.
 
 **[Integración de ABM y LeanData](https://docs.marketo.com/x/pKmt)**
 
-La integración LeanData ahora permite la coincidencia de cliente potencial a cuenta en Marketo. Mantenga el marketing y las ventas alineados teniendo los mismos posibles clientes asociados con las cuentas dentro de los sistemas de ventas y marketing del registro. Las opciones más flexibles proporcionan a las operaciones de marketing y ventas un mayor control sobre las reglas de coincidencia entre cliente potencial y cuenta, de modo que puedan lograr el nivel de precisión deseado.
+La integración de LeanData ahora permite la coincidencia de cliente potencial con cuenta en Marketo. Mantenga el marketing y las ventas alineados al tener los mismos posibles clientes asociados a las cuentas dentro de los sistemas de ventas y marketing de registro. Las opciones más flexibles proporcionan a las operaciones de marketing y ventas más control sobre las reglas de coincidencia de cliente potencial con cuenta para que puedan alcanzar el nivel de precisión deseado.
 
-## Mejoras en la personalización web {#web-personalization-enhancements}
+## Mejoras de personalización web {#web-personalization-enhancements}
 
-**[Mejoras en la vista previa de campañas](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
+**[Mejoras en Campaign Preview](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Los profesionales de marketing ahora pueden garantizar que sus campañas web tengan un aspecto bueno en cualquier dispositivo *before* lanzamiento. Con estas mejoras, verá cómo se renderizarán las campañas web en equipos de escritorio, dispositivos móviles y tabletas. El nuevo complemento para Chrome también ofrece vistas previas más coherentes y precisas.
+Los profesionales del marketing ahora pueden asegurarse de que sus campañas web tengan un aspecto bueno en cualquier dispositivo *antes* lanzarlos. Con estas mejoras, vea el rendimiento de sus campañas web en equipos de escritorio, dispositivos móviles y tabletas. El nuevo complemento para Chrome también ofrece previsualizaciones más coherentes y precisas.
 
-**[Mejoras en la campaña de utilidades](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
+**[Mejoras en Widget Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
-Ya están disponibles nuevas opciones para las campañas en utilidades, que incluyen:
+Ya están disponibles nuevas opciones para las campañas de widgets, como las siguientes:
 
 * Activación de campañas (retraso, desplazamiento)
-* Visualización de campañas (cualquier posición alrededor de la pantalla)
-* Cambiar la flecha de expandir/minimizar a cualquier texto de llamada a acción
+* Visualización de campañas (en cualquier posición alrededor de la pantalla)
+* Cambiar la flecha de expansión/minimización a cualquier texto de CTA
 
 ## ContentAI {#contentai}
 
-**[Análisis y sugerencias de ContentAI](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
+**[Análisis de IA de contenido y sugerencias](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-Aumente el retorno en el marketing de contenido con análisis más profundos y sugerencias de contenido con tecnología de IA para aumentar la participación. Los análisis potentes muestran el rendimiento del contenido recomendado, incluidas las vistas populares, de tendencias y basadas en audiencias. También verá sugerencias para incluir contenido adicional.
+Aumente el retorno de su marketing de contenido con análisis más profundos y sugerencias de contenido con tecnología de IA para aumentar la participación. Los potentes análisis muestran el rendimiento del contenido recomendado, incluidas las vistas populares, de tendencias y basadas en audiencias. También verá sugerencias para que se incluya contenido adicional.
 
-## Análisis {#analytics}
+## Analytics {#analytics}
 
-**Mejoras en las perspectivas de correo electrónico**
+**Mejoras de Email Insights**
 
-Saque aún más partido a su experiencia de perspectivas de correo electrónico con nuevas formas de preparar y compartir datos. Ahora puede descargar los resultados de Perspectivas de correo electrónico en Microsoft Excel y PowerPoint para trabajar con los datos fuera de Marketo.
+Saque más partido a la experiencia de las perspectivas de correo electrónico con las nuevas formas de preparar y compartir datos. Ahora puede descargar los resultados de perspectivas de correo electrónico en Microsoft Excel y PowerPoint para trabajar con los datos fuera de Marketo.
 
-## Compatibilidad con la configuración de identidad federada {#federated-identity-configuration-support}
+## Compatibilidad con configuración de identidad federada {#federated-identity-configuration-support}
 
-Mantenga la autenticación (Active Directory) detrás del firewall local mientras continúa utilizando Microsoft Dynamics CRM en la nube.
+Mantenga la autenticación (Active Directory) detrás del firewall local mientras sigue utilizando Microsoft Dynamics CRM en la nube.

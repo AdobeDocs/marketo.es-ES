@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2359963
-description: 'Creación de un informe en un programa: Documentos de Marketo: Documentación del producto'
-title: Crear un informe en un programa
+description: 'Creación de un informe en un programa: documentos de Marketo, documentación del producto'
+title: Creación de un informe en un programa
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Crear un informe en un programa {#create-a-report-in-a-program}
+# Creación de un informe en un programa {#create-a-report-in-a-program}
 
-Ejecute un informe para analizar personas, programas, páginas de aterrizaje, correos electrónicos y recursos sociales.
+Ejecute un informe para analizar las personas, los programas, las páginas de aterrizaje, los correos electrónicos y los activos sociales.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -24,23 +25,23 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
 
    >[!NOTE]
    >
-   >También puede crear informes desde la **Analytics** pestaña .
+   >También puede crear informes desde el **Analytics** pestaña.
 
 1. Haga clic con el botón derecho en el programa y seleccione **Nuevo recurso local**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Haga clic en **Informe**.
+1. Clic **Informe**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Seleccionar el informe **Tipo**.
+1. Selección del informe **Tipo**.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >Consulte [Información general sobre el tipo de informe](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para ver una breve descripción de cada uno.
+   >Consulte [Resumen del tipo de informe](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para obtener una breve descripción de cada uno.
 
 1. Asigne un nombre al informe.
 
@@ -48,22 +49,22 @@ Ejecute un informe para analizar personas, programas, páginas de aterrizaje, co
 
    >[!TIP]
    >
-   >Para facilitar la navegación por los informes más adelante, incluya una referencia al tipo de informe en el nombre.
+   >Para facilitar en gran medida la navegación por los informes más adelante, incluya en el nombre una referencia al tipo de informe.
 
-1. Establezca el lapso de tiempo del informe. Consulte [Cambiar el intervalo de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obtener más información.
+1. Establezca el lapso de tiempo del informe. Consulte [Cambiar un intervalo de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obtener más información.
 
-1. Haga clic en el **Informe** para ver las estadísticas.
+1. Haga clic en **Informe** para ver las estadísticas.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
    >[!NOTE]
    >
-   >De forma predeterminada, los informes abarcan toda la actividad de la cuenta, entre programas.
+   >De forma predeterminada, los informes abarcan toda la actividad de la cuenta, en todos los programas.
 
    >[!NOTE]
    >
-   >Puede terminar rápidamente con muchos informes. Recuerde [eliminar un informe](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) ya no necesitas.
+   >Puede terminar rápidamente con muchos informes. Recuerde lo siguiente [eliminación de un informe](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) ya no lo necesita.
 
    >[!MORELIKETHIS]
    >
-   >Puede [cambio de intervalo de tiempo del informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscripción a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar un informe a Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), y más.
+   >Puede [cambio de un intervalo de tiempo de informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [suscripción a un informe básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportación de un informe a Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar personas en un informe con una lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), y más.

@@ -1,8 +1,9 @@
 ---
-description: Habilitar CAPTCHA en Marketo Forms - Marketo Docs - Documentación del producto
+description: Habilitar CAPTCHA en Marketo Forms - Documentos de Marketo - Documentación del producto
 title: Habilitar CAPTCHA en Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -11,17 +12,17 @@ ht-degree: 0%
 
 # Habilitar CAPTCHA en Marketo Forms {#enable-captcha-in-marketo-forms}
 
-Puede habilitar/deshabilitar CAPTCHA por formulario.
+Puede habilitar/deshabilitar el CAPTCHA por formulario.
 
 1. Busque y seleccione el formulario que desee.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Haga clic en **Editar borrador** (si el formulario ya está aprobado, haga clic en Crear borrador).
+1. Clic **Editar borrador** (si el formulario ya está aprobado, haga clic en Crear borrador).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Haga clic en **Configuración de formulario**, luego **Configuración**.
+1. Clic **Configuración de formulario**, entonces **Configuración**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
@@ -29,19 +30,19 @@ Puede habilitar/deshabilitar CAPTCHA por formulario.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
-Los cambios realizados en esta lista pueden tardar unos minutos en propagarse desde Google.
+Los cambios en esta lista pueden tardar unos minutos en propagarse desde Google.
 
 >[!NOTE]
 >
->Se agregará texto estandarizado, incluidos vínculos a la Política de privacidad y a los Términos de servicio de Google, a los formularios habilitados para CAPTCHA.
+>Se agregará texto estandarizado, incluidos vínculos a la Política de privacidad y los Términos de servicio de Google, a los formularios habilitados para CAPTCHA.
 
 >[!MORELIKETHIS]
 >

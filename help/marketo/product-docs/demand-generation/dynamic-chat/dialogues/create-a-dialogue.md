@@ -1,23 +1,24 @@
 ---
-description: 'Crear un cuadro de diálogo: Documentos de Marketo: Documentación del producto'
+description: 'Creación de un cuadro de diálogo: documentos de Marketo, documentación del producto'
 title: Crear un cuadro de diálogo
 exl-id: 64f8d0c6-8e5c-4892-85ec-729c609f700a
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 6%
 
 ---
 
 # Crear un cuadro de diálogo {#create-a-dialogue}
 
-Así es como crear un nuevo cuadro de diálogo.
+A continuación se muestra cómo crear un nuevo cuadro de diálogo.
 
-1. Haga clic en **Cuadros de diálogo**.
+1. Clic **Cuadros de diálogo**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Haga clic en el **Crear nuevo** botón.
+1. Haga clic en **Crear nuevo** botón.
 
    ![](assets/create-a-dialogue-2.png)
 
@@ -27,11 +28,10 @@ Así es como crear un nuevo cuadro de diálogo.
 
 >[!NOTE]
 >
->La prioridad determina qué diálogo se mostrará a un visitante cuando cumpla los requisitos para varios diálogos simultáneamente.
+>La prioridad determina qué cuadro de diálogo se mostrará a un visitante cuando cumpla los requisitos para varios cuadros de diálogo simultáneamente.
 
 >[!MORELIKETHIS]
 >
->* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
->* [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Informes](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
-
+>* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
+>* [Diseñador de flujo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* Informes de [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}

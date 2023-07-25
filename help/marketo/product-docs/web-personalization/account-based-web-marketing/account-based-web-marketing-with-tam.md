@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11381689
-description: Marketing web basado en cuentas con TAM - Marketo Docs - Documentación del producto
+description: 'Marketing web basado en cuentas con TAM: Documentos de Marketo: documentación del producto'
 title: Marketing web basado en cuentas con TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -14,25 +15,25 @@ ht-degree: 0%
 
 Marketo ofrece un [Administración de cuentas de Target](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM).
 
-Cuando utiliza la personalización web de Marketo y la administración de cuentas de Target (TAM):
+Al utilizar la Personalización web de Marketo y la Administración de cuentas de Target (TAM):
 
-* TAM es la fuente de las listas de cuentas
+* TAM es la fuente de sus Listas de cuentas
 * Las listas de cuentas se administran (se crean, editan y eliminan) en TAM
-* Las listas de cuentas se sincronizan con la personalización web para su uso en Segmentación. Selecciónelos en la lista desplegable
+* Las listas de cuentas se sincronizan con la personalización web para su uso en la segmentación. Selecciónelos en la lista desplegable.
 
-   * **Nota**: La sincronización puede tardar hasta 5 minutos
+   * **Nota**: la sincronización puede tardar hasta 5 minutos
 
-* En la personalización web, puede crear [segmentos dirigidos a cuentas desde la lista de cuentas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) ha creado en TAM y personalizado el contenido para estas cuentas
+* En Personalización web, puede crear lo siguiente [segmentos segmentar cuentas de destino desde la lista de cuentas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) ha creado en TAM y personaliza el contenido de estas cuentas
 
 ## Para clientes ABWM existentes {#for-existing-abwm-customers}
 
 Si ya está utilizando ABWM:
 
-* Puede crear listas de cuentas en ABWM _y_ en TAM
-* Puede crear, editar y eliminar Listas de cuentas en TAM _y_ en ABWM
-* Las listas de cuentas (tanto de ABWM como de TAM) se sincronizan con la personalización web para su uso en la segmentación
+* Puede crear Listas de cuentas en ABWM _y_ en TAM
+* Puede crear, editar y eliminar listas de cuentas en TAM _y_ en ABWM
+* Las listas de cuentas (de ABWM y TAM) se sincronizan con la personalización web para su uso en la segmentación
 
-   * **Nota**: La sincronización puede tardar hasta 5 minutos
+   * **Nota**: la sincronización puede tardar hasta 5 minutos
 
-* En Personalización web, puede crear segmentos dirigidos a cuentas desde Listas de cuentas creadas en _both_ ABWM y TAM y personalice el contenido para estas cuentas
+* En Personalización web, puede crear segmentos segmentando cuentas a partir de Listas de cuentas creadas en _ambos_ ABWM y TAM y personalizar el contenido para estas cuentas
 * Puede cargar archivos CSV en la página Lista de cuentas de personalización web

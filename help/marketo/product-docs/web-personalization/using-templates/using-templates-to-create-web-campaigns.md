@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2949168
-description: Uso de plantillas para crear campañas web - Documentos de Marketo - Documentación del producto
+description: 'Uso de plantillas para crear campañas web: documentos de Marketo, documentación del producto'
 title: Uso de plantillas para crear campañas web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Uso de plantillas para crear campañas web {#using-templates-to-create-web-campaigns}
 
-Acelere y simplifique su proceso de creación de campañas web mediante el uso de nuestras plantillas integradas o [guardar el suyo propio](save-your-campaign-as-a-template.md).
+Agilice y simplifique su proceso de creación de campañas web utilizando nuestras plantillas integradas o [guardar los suyos propios](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
->Las plantillas están optimizadas para todos los dispositivos y experiencias de navegación, tanto para escritorio como para móvil.
+>Las plantillas están optimizadas para todos los dispositivos y experiencias de navegación, tanto para escritorio como para móviles.
 
-1. Vaya a **Campañas web**.
+1. Ir a **Campañas web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Haga clic en **Crear nueva campaña web**.
+1. Clic **Creación de una nueva campaña web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -30,31 +31,31 @@ Acelere y simplifique su proceso de creación de campañas web mediante el uso d
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Seleccione un segmento de Target.
+1. Seleccione un Segmento de destino.
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Haga clic en **Plantillas**.
+1. Clic **Plantillas**.
 
    ![](assets/templates.png)
 
-1. Seleccione el área adecuada para la campaña y seleccione una plantilla que funcione para usted.
+1. Seleccione el área adecuada para que su campaña vea y seleccione una plantilla que le funcione.
 
    >[!NOTE]
    >
-   >Hay algunas plantillas geniales entre las que elegir, y agregaremos más en el futuro.
+   >Hay algunas plantillas interesantes para elegir, y añadiremos más en el futuro.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >Para campañas móviles, seleccione una plantilla de la **mobile** para obtener más información.
+   >Para campañas móviles, seleccione una plantilla del **mobile** sección.
 
 1. Personalice la plantilla.
 
    ![](assets/customize-template.jpg)
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
    ![](assets/click-save-hand.jpg)
 

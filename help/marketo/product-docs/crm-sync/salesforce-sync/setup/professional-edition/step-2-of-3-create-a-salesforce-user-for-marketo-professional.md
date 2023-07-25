@@ -1,16 +1,17 @@
 ---
 unique-page-id: 3571797
-description: 'Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Professional): Marketo Docs: Documentación del producto'
-title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Professional)'
+description: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (profesional) - Documentos de Marketo - Documentación del producto'
+title: 'Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (profesional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 9%
 
 ---
 
-# Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Paso 2 de 3: Crear un usuario de Salesforce para Marketo (profesional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -18,19 +19,19 @@ ht-degree: 9%
 
 >[!PREREQUISITES]
 >
->[Paso 1 de 3: Agregar campos de Marketo a Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>[Paso 1 de 3: Agregar campos de Marketo a Salesforce (profesional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
-En este artículo, personalizará los permisos de campo con un diseño de página de Salesforce y creará un usuario de sincronización Marketo-Salesforce.
+En este artículo, personalizará los permisos de campo con un diseño de página de Salesforce y creará un usuario de sincronización de Marketo-Salesforce.
 
 ## Definir diseños de página {#set-page-layouts}
 
-Salesforce Professional establece la accesibilidad a nivel de campo con los diseños de página, en contraposición a los perfiles de Salesforce Enterprise/Unlimited. Estos pasos permitirán al usuario de sincronización de Marketo actualizar los campos personalizados.
+Salesforce Professional establece la accesibilidad de nivel de campo con Diseños de página, a diferencia de los Perfiles de Salesforce Enterprise/Unlimited. Los siguientes pasos permitirán al usuario de sincronización de Marketo actualizar los campos personalizados.
 
-1. Tipo **diseños de página** en la barra de búsqueda de navegación sin pulsar **Entrar** y haga clic en **Diseño de página** under **Posibles clientes**.
+1. Tipo **diseños de página** en la barra de búsqueda de navegación sin pulsar **Entrar** y haga clic en **Diseño de página** bajo **Posibles clientes**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Haga clic en **Editar** junto a Diseño de posible cliente.
+1. Clic **Editar** junto a Diseño de posibles clientes.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
@@ -42,14 +43,14 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Haga clic y arrastre el campo **Fecha de adquisición** en el **Marketo** para obtener más información.
+1. Haga clic en y arrastre el campo **Fecha de adquisición** en el **Marketo** sección.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
-1. Repita el paso anterior para los campos siguientes:
+1. Repita el paso anterior para los siguientes campos:
 
    * Programa de adquisición
-   * Id Del Programa De Adquisición
+   * ID del programa de adquisición
    * No participar en el correo electrónico
    * Ciudad inferida
    * Compañía inferida
@@ -59,7 +60,7 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
    * Código postal inferido
    * Región del estado inferida
    * Puntaje del cliente potencial
-   * Remitente original
+   * Referente original
    * Motor de búsqueda original
    * Frase de búsqueda original
    * Información de origen original
@@ -67,13 +68,13 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    >[!NOTE]
    >
-   >Estos campos deben estar en el diseño de página para que Marketo pueda leerlos o escribirlos.
+   >Estos campos deben estar en el diseño de página para que Marketo pueda leerlos y escribirlos.
 
    >[!TIP]
    >
-   >Cree dos columnas para los campos arrastrándolas hasta el lado derecho de la página. Puede mover campos de un lado a otro para equilibrar la longitud de las columnas.
+   >Cree dos columnas para los campos arrastrándolas hacia abajo hasta el lado derecho de la página. Puede mover campos de un lado al otro para equilibrar las longitudes de las columnas.
 
-1. Haga clic en **Guardar** cuando termine de agregar campos.
+1. Clic **Guardar** cuando termine de agregar campos.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
@@ -87,33 +88,33 @@ Salesforce Professional establece la accesibilidad a nivel de campo con los dise
 
    >[!NOTE]
    >
-   >Asegúrese de que la variable **Evento de todo el día** se ha agregado al campo **Diseño de página de evento**.
+   >Asegúrese de que la variable **Evento de todo el día** El campo se ha añadido a **Diseño de página de evento**.
 
 ## Crear usuario de sincronización {#create-sync-user}
 
-Marketo requiere credenciales para acceder a Salesforce. Esto se puede hacer mejor con un usuario dedicado creado con los pasos a continuación.
+Marketo requiere credenciales para acceder a Salesforce. Esto se realiza mejor con un usuario dedicado creado con los pasos a continuación.
 
 >[!NOTE]
 >
->Si su organización no tiene licencias adicionales de Salesforce, puede usar una **Usuario de marketing** con la variable **Administrador del sistema** perfil.
+>Si su organización no tiene licencias adicionales de Salesforce, puede utilizar una existente **Usuario de marketing** con el **Administrador del sistema** perfil.
 
-1. Introduzca &quot;usuarios&quot; en la barra de búsqueda de navegación y haga clic en **Usuarios** under **Administrar usuarios**.
+1. Introduzca &quot;usuarios&quot; en la barra de búsqueda de navegación y haga clic en **Usuarios** bajo **Administrar usuarios**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Haga clic en **Nuevo usuario**.
+1. Clic **Nuevo usuario**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Rellene los campos obligatorios, seleccione la opción **Licencia de usuario: Salesforce**, establezca la variable **Perfil: Administrador del sistema**, compruebe **Usuario de marketing** y haga clic en **Guardar**.
+1. Rellene los campos obligatorios y seleccione **Licencia de usuario: Salesforce**, configure el **Perfil: Administrador del sistema**, marque **Usuario de marketing** y haga clic en **Guardar**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
    >[!TIP]
    >
-   >Asegúrese de que la dirección de correo electrónico que ha introducido sea válida. Deberá iniciar sesión como usuario de sincronización para restablecer la contraseña.
+   >Asegúrese de que la dirección de correo electrónico que ha introducido sea válida. Deberá iniciar sesión como el usuario de sincronización para restablecer la contraseña.
 
-¡Excelente! Ahora tiene una cuenta que Marketo puede utilizar para conectarse a Salesforce. Hagámoslo.
+¡Excelente! Ahora tiene una cuenta que Marketo puede utilizar para conectarse a Salesforce. Vamos a hacerlo...
 
 >[!MORELIKETHIS]
 >

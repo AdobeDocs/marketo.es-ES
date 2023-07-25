@@ -3,7 +3,8 @@ unique-page-id: 11377406
 description: 'Editar el dominio de marca predeterminado con espacios de trabajo: documentación de Marketo'
 title: Editar el dominio de marca predeterminado con espacios de trabajo
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

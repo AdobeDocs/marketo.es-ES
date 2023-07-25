@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2953188
-description: 'Filtros preferidos: Documentos de Marketo: Documentación del producto'
-title: Filtros vinculados
+description: Filtros deducidos - Documentos de Marketo - Documentación del producto
+title: Filtros deducidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Filtros vinculados {#inferred-filters}
+# Filtros deducidos {#inferred-filters}
 
-Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las coloca en el sistema. Buscamos su IP en una base de datos especial e infamos todo tipo de información buena.
+Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las introduce en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
 
 >[!NOTE]
 >
->Para garantizar que los valores de campo inferidos permanezcan actualizados, actualizamos periódicamente la base de datos que se utiliza para las búsquedas de direcciones IP. Las actualizaciones de la base de datos pueden introducir nuevos valores de campo inferidos que es posible que deba agregar a las definiciones de filtro de lista inteligente.
+>Para garantizar que los valores de campo deducidos permanezcan actualizados, actualizamos periódicamente la base de datos que se utiliza para las búsquedas de direcciones IP. Las actualizaciones de la base de datos pueden introducir nuevos valores de campo deducidos que es posible que tenga que agregar a las definiciones de filtro de listas inteligentes.
 >
->Las actualizaciones de la base de datos pueden producirse durante un [versión del producto del Marketo Engage](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Cuando se produce una actualización, la variable [Notas de la versión del Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} contendrá una explicación de los cambios realizados en los valores de campo inferidos.
+>Las actualizaciones de bases de datos pueden producirse durante un [Versión del producto de Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} contendrá una explicación de los cambios realizados en los valores de campo deducidos.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -32,17 +33,16 @@ Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/admini
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-Cuando utilice cualquiera de estos filtros en una lista inteligente, los resultados darán a la gente esta información inferida.
+Cuando se utiliza cualquiera de estos filtros en una lista inteligente, los resultados proporcionan a las personas esta información deducida.
 
 >[!TIP]
 >
->Utilice estos filtros en un informe de actividad web. Utilice los territorios de los representantes de ventas y suscríbase a un informe diario personalizado con los visitantes del sitio web en las últimas 24 horas. ¡Les encantará!
+>Utilice estos filtros en un informe de actividad web. Utilice los territorios de los representantes de ventas y suscríbalos a un informe diario personalizado con los visitantes del sitio web en las últimas 24 horas. ¡Les encantará!
 >
->* Página web visitada - Últimas 24 horas
->* El Estado al que se hace referencia es [seleccionar su territorio]
+>* Página web visitada: últimas 24 horas
+>* El estado deducido es [seleccionar su territorio]
 
-
-Estos visitantes anónimos se convierten automáticamente en personas cuando hacen clic en un vínculo de correo electrónico o rellenan un formulario. Sin embargo, mantienen toda la información inferida.
+Estos visitantes anónimos se convierten automáticamente en personas cuando hacen clic en un vínculo de correo electrónico o rellenan un formulario. Sin embargo, conservan toda la información deducida.
 
 >[!NOTE]
 >

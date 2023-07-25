@@ -1,18 +1,19 @@
 ---
 unique-page-id: 11382535
-description: Uso de direcciones URL en mis tokens - Marketo Docs - Documentación del producto
-title: Uso de direcciones URL en mis tokens
+description: 'Uso de URL en Mis tokens: documentos de Marketo, documentación del producto'
+title: Uso de URL en Mis tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Uso de direcciones URL en mis tokens {#using-urls-in-my-tokens}
+# Uso de URL en Mis tokens {#using-urls-in-my-tokens}
 
-Siga los pasos a continuación para usar Mis tokens para insertar direcciones URL en sus correos electrónicos.
+Siga los pasos a continuación para utilizar Mis tokens para insertar direcciones URL en sus correos electrónicos.
 
 1. Seleccione el programa y haga clic en **Mis tokens**.
 
@@ -22,27 +23,27 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    ![](assets/two-4.png)
 
-1. Asigne un nombre único al token, introduzca una dirección URL (sin el icono https://) y haga clic en **Guardar**.
+1. Asigne un nombre único al token, introduzca una dirección URL (sin el https://) y haga clic en **Guardar**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Para asegurarse de que se rastrean los clics en el correo electrónico, haga clic en **not** introduzca https:// dentro del valor del token.
+   >Para asegurarse de que se realiza un seguimiento de los clics en el correo electrónico, haga lo siguiente **no** introduzca https:// dentro del valor del token.
 
 1. Seleccione el correo electrónico en el programa.
 
    ![](assets/four-3.png)
 
-1. Haga clic en **Editar borrador**.
+1. Clic **Editar borrador**.
 
    ![](assets/five-3.png)
 
-1. Haga doble clic en el área de texto que desea editar.
+1. Haga doble clic en el área de texto para editarla.
 
    ![](assets/six-1.png)
 
-1. En cualquier parte del correo electrónico, escriba &quot;https://&quot; (sin dejar espacio después) y haga clic en el icono Insertar token.
+1. En cualquier lugar del correo electrónico, escriba &quot;https://&quot; (sin dejar espacio después) y haga clic en el icono Insertar token.
 
    ![](assets/seven.png)
 
@@ -50,7 +51,7 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
    >
    >Por supuesto, también tiene la opción de introducir &quot;https&quot; si su sitio lo utiliza.
 
-1. Localice su token My, selecciónelo y haga clic en **Insertar**.
+1. Busque su My Token, selecciónelo y haga clic en **Insertar**.
 
    ![](assets/eight.png)
 
@@ -58,16 +59,16 @@ Siga los pasos a continuación para usar Mis tokens para insertar direcciones UR
 
    ![](assets/nine.png)
 
-1. Resalte el texto que desea que se muestre el vínculo y haga clic en el icono Insertar/Editar vínculo .
+1. Resalte el texto que desee que muestre el vínculo y haga clic en el icono Insertar/Editar vínculo.
 
    ![](assets/ten.png)
 
-1. Pulse Ctrl/Cmd+V para pegar el contenido en el **URL** y haga clic en **Insertar**.
+1. Pulse Ctrl/Cmd+V para pegar el contenido en **URL** y haga clic en **Insertar**.
 
    ![](assets/eleven.png)
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
    ![](assets/twelve.png)
 
-   ¡Y ya terminaste! La dirección URL se rellenará después de enviar y, gracias a colocar https:// delante del token, se generará un vínculo rastreable.
+   ¡Y has terminado! La dirección URL se rellenará después del envío y, gracias a que pone https:// delante del token, se generará un vínculo al que se puede realizar un seguimiento.

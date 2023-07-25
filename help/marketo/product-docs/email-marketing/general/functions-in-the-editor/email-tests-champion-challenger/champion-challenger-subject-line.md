@@ -1,32 +1,33 @@
 ---
 unique-page-id: 2359557
-description: 'Champion/Challenger: línea de asunto: Marketo Docs: documentación del producto'
-title: Campeón/Desafío - Línea de sujeto
+description: Champion/Challenger - Línea de asunto - Documentos de Marketo - Documentación del producto
+title: Champion/Challenger - Línea de asunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
-# Campeón/Desafío: Línea de asunto {#champion-challenger-subject-line}
+# Campeón/Challenger: Línea de asunto {#champion-challenger-subject-line}
 
-Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, envíe correos electrónicos con el más efectivo. Así es como hacerlo.
+Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, envíe correos electrónicos con el más efectivo. Así es como se hace.
 
 >[!PREREQUISITES]
 >
->[Añadir un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **Línea de asunto** en el **Tipo de prueba** lista desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Línea de asunto** en el **Tipo de prueba** menú desplegable.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >En una prueba de sujeto, la primera línea de asunto introducida se designa como la **Campeón**. Se llaman a las líneas de asunto siguientes **Desafíos**.
+   >En una prueba de asunto, la primera línea de asunto introducida se designa como la **Campeona**. Se llaman a las líneas de asunto siguientes **Desafíos**.
 
-1. Introduzca las líneas de asunto para el **Desafíos**.
+1. Introduzca las líneas de asunto para la **Desafíos**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -34,7 +35,7 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
    >
    >Si desea más de un aspirante, haga clic en el signo más e introduzca otra línea de asunto.
 
-1. Arrastre el control deslizante para decidir la división porcentual entre las personas que reciben la línea de asunto del campeón frente a las líneas de asunto del aspirante.
+1. Arrastre el control deslizante para decidir el porcentaje de división entre las personas que reciben la línea de asunto de campeón y las líneas de asunto de aspirante.
 
    ![](assets/image2015-8-7-15-3a19-3a50.png)
 
@@ -42,16 +43,16 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
    >
    >**Ejemplo**
    >
-   >En la distribución mostrada arriba, el 10 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con la línea de asunto del aspirante y el 90 % recibe correos electrónicos con la línea de asunto del campeón. Los correos electrónicos con varias líneas de asunto de aspirante comparten el 10 % por igual. Cuando finalice la prueba, puede declarar un ganador manualmente. A partir de entonces, todas las personas futuras recibirán el contenido con mejor rendimiento.
+   >En la distribución que se muestra más arriba, el 10 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con la línea de asunto del aspirante y el 90 % recibe correos electrónicos con la línea de asunto del campeón. Los correos electrónicos con varias líneas de asunto de aspirante comparten el 10 % de forma equitativa. Cuando termine la prueba, puede declarar un ganador manualmente. A partir de ese momento, todas las personas futuras recibirán el contenido con mejor rendimiento.
 
-   Para ganar confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te engañes con resultados inconclusos. [Más información de la que nunca quiso sobre la confianza estadística](https://en.wikipedia.org/wiki/Confidence_interval).
+   Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos. [Más información de la que jamás deseó acerca de la confianza estadística](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
-   Progreso! Sigamos así.
+   Progreso! Vamos a seguir con esto.
 
    >[!MORELIKETHIS]
    >
-   >[Campeón/Desafío: Definir criterios de campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Campeón/Challenger: Definir criterios de campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

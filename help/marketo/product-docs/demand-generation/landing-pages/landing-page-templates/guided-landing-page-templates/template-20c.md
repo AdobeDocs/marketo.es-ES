@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10092916
-description: 'Plantilla 20C: Documentos de Marketo: Documentación del producto'
+description: Plantilla 20C - Documentos de Marketo - Documentación del producto
 title: Plantilla 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -20,9 +21,9 @@ Esta plantilla incluye el siguiente contenido:
 
 * Una sección principal
 
-   * incluye texto y encuesta a pantalla completa
+   * incluye sondeo a pantalla completa y texto
 
-* Cuatro secciones de cuerpo (opcional)
+* Cuatro secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

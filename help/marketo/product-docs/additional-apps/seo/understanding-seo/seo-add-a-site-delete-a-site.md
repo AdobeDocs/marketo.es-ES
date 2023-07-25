@@ -3,7 +3,8 @@ unique-page-id: 2949194
 description: 'SEO: Agregar un sitio/Eliminar un sitio - Documentos de Marketo: documentación del producto'
 title: 'SEO: Agregar un sitio/Eliminar un sitio'
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -40,7 +41,7 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
-   ¡Excelente! Acaba de agregar otro sitio.
+   Excelente! Acaba de agregar otro sitio.
 
    ![](assets/four.png)
 

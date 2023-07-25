@@ -3,7 +3,8 @@ unique-page-id: 6095008
 description: '"Agregar [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio: Documentos de Marketo: documentación del producto'
 title: "Agregar [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: Administration, Integrations
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 1%
@@ -89,7 +90,7 @@ Más información sobre [Función de importación de conversión sin conexión d
    >
    >[Etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} debe estar seleccionado para que esta función funcione. La desactivación debe realizarse dentro de [!DNL AdWords].
 
-¡Excelente! Ahora consulte el artículo relacionado siguiente para aprender a asignar [!DNL AdWords] conversiones sin conexión en el modelo de ingresos.
+Excelente! Ahora consulte el artículo relacionado siguiente para aprender a asignar [!DNL AdWords] conversiones sin conexión en el modelo de ingresos.
 
 >[!MORELIKETHIS]
 >

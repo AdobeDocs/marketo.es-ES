@@ -3,7 +3,8 @@ unique-page-id: 4718672
 description: Uso de transiciones del modelo de ingresos - Documentos de Marketo - Documentación del producto
 title: Uso de transiciones del modelo de ingresos
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 >
 >[Crear un nuevo modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-Al crear el modelo y seleccionar y organizar las etapas de inventario, es hora de establecer las transiciones.
+Cuando crea el modelo y selecciona y organiza las etapas del inventario, es hora de establecer las transiciones.
 
 ![](assets/one-2.png)
 
@@ -26,17 +27,17 @@ Al crear el modelo y seleccionar y organizar las etapas de inventario, es hora d
 
    >[!NOTE]
    >
-   >Las reglas de transición &#39;Anonymous SWIFTNet Known&#39; no se pueden editar.
+   >Las reglas de transición &quot;Anónimo ⇒ conocido&quot; no se pueden editar.
 
 1. Se abrirá una nueva pestaña para la transición seleccionada.
 
    ![](assets/three-1.png)
 
-1. Las transiciones controlan cómo se mueven los posibles clientes entre etapas. Arrastre el déclencheur (o filtro) de su elección desde la derecha y libere en cualquier lugar del lienzo. En este ejemplo, seleccione el déclencheur Rellenar formulario .
+1. Las transiciones controlan cómo se mueven los posibles clientes entre etapas. Arrastre el déclencheur (o filtro) que desee desde la derecha y suéltelo en cualquier lugar del lienzo. En este ejemplo, se selecciona el déclencheur Rellenar formulario.
 
    >[!TIP]
    >
-   >Como el modelador de ingresos está configurando para los informes, se recomienda que las transiciones siempre incluyan déclencheur. De este modo, los informes reflejarán la velocidad real del flujo del modelo/escenario. Los filtros se pueden agregar con los déclencheur para obtener restricciones adicionales.
+   >Dado que el modelador de ingresos le está configurando para la creación de informes, se recomienda que las transiciones siempre incluyan déclencheur. De este modo, los informes reflejarán la velocidad real del flujo de modelo/fase. Se pueden añadir filtros con los déclencheur para restricciones adicionales.
 
    ![](assets/four-2.png)
 
@@ -52,7 +53,7 @@ Al crear el modelo y seleccionar y organizar las etapas de inventario, es hora d
 
    ![](assets/seven.png)
 
-1. Una vez que haya configurado las reglas para todas las transiciones, haga clic en **Validar** para verificar.
+1. Una vez configuradas las reglas para todas las transiciones, haga clic en **Validate** para verificar.
 
    ![](assets/eight.png)
 
@@ -64,4 +65,4 @@ Al crear el modelo y seleccionar y organizar las etapas de inventario, es hora d
 
 >[!MORELIKETHIS]
 >
->[Aprobar/desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[Aprobar o desaprobar un modelo de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

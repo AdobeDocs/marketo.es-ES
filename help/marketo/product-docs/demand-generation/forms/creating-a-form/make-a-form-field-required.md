@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2359569
-description: Hacer que un campo de formulario sea obligatorio - Documentos de Marketo - Documentación del producto
-title: Hacer que un campo de formulario sea obligatorio
+description: Hacer obligatorio el campo de un formulario - Documentos de Marketo - Documentación del producto
+title: Establecer un campo de formulario como obligatorio
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Hacer que un campo de formulario sea obligatorio {#make-a-form-field-required}
+# Establecer un campo de formulario como obligatorio {#make-a-form-field-required}
 
-When [adición de campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) puede que desee hacer que algunos de ellos sean necesarios para que la persona que los rellene. Así es como.
+Cuándo [adición de campos a un formulario](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) es posible que desee hacer que algunos de ellos sean obligatorios para la persona que los rellena. Así es como.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -26,16 +27,16 @@ When [adición de campos a un formulario](/help/marketo/product-docs/demand-gene
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. ¡Bien hecho! Haga clic en **Finalizar**.
+1. ¡Bien hecho! Clic **Finalizar**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->No olvides [aprobar cualquier página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) este formulario persiste para que los cambios se apliquen.
+>No te olvides de [aprobar cualquier página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) este formulario se mantiene para que los cambios se activen.
 
-¿Necesita [reordenar los campos agregados al formulario](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+¿Es necesario [reordene los campos agregados al formulario](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

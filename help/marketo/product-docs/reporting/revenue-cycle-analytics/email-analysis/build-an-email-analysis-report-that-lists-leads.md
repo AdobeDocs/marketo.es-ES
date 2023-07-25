@@ -1,65 +1,66 @@
 ---
 unique-page-id: 2360407
-description: 'Creación de un informe de análisis de correo electrónico que enumere posibles clientes: Documentos de Marketo: Documentación del producto'
-title: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes
+description: Creación de un informe de análisis de correo electrónico que enumere los posibles clientes - Documentos de Marketo - Documentación del producto
+title: Crear un informe de análisis de correo electrónico que enumere los posibles clientes
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Creación de un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
+# Crear un informe de análisis de correo electrónico que enumere los posibles clientes {#build-an-email-analysis-report-that-lists-leads}
 
-Siga estos pasos para crear un informe de análisis de correo electrónico que le muestre todos los posibles clientes a los que se ha enviado un correo electrónico específico. Este informe también incluirá las estadísticas de clics y aperturas.
+Siga estos pasos para crear un informe de análisis de correo electrónico que le mostrará todos los posibles clientes a los que se ha enviado un mensaje de correo electrónico específico. Este informe también incluirá las estadísticas de Clics y Aperturas.
 
 >[!AVAILABILITY]
 >
->No todos han comprado esta función. Póngase en contacto con el equipo de cuentas de Adobe (su administrador de cuentas) para obtener más información.
+>No todos han comprado esta función. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >
->El motor de datos que respalda el análisis de correo electrónico RCA ignora los buenos 12 clics por persona si proceden del mismo correo electrónico y campaña. Tenga esto en cuenta al comparar los informes de análisis de correo electrónico con los informes estándar de Marketo Analytics.
+>El motor de datos que respalda el análisis de correo electrónico de RCA ignora los buenos 12 clics por persona si proceden del mismo correo electrónico y campaña. Tenga esto en cuenta al comparar los informes de análisis de correo electrónico con los informes estándar de Marketo Analytics.
 
 1. Launch **Explorador de ingresos**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Haga clic en **Crear nuevo** then **Informe**.
+1. Clic **Crear nuevo** entonces **Informe**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Seleccione Análisis de correo electrónico y haga clic en **OK**.
+1. Seleccione Email Analysis y haga clic en **OK**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Busque el punto amarillo Nombre del correo electrónico, haga clic con el botón derecho en él y seleccione **Filtro**.
+1. Busque el punto amarillo del nombre del correo electrónico, haga clic con el botón derecho y seleccione **Filtrar**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Haga doble clic en el correo electrónico de su elección en la lista y haga clic en **OK**.
+1. Haga doble clic en el correo electrónico que desee en la lista y haga clic en **OK**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Arrastre el **Nombre del correo electrónico** punto amarillo a **Columnas**.
+1. Arrastre el **Nombre de correo electrónico** punto amarillo encima **Columnas**.
 
    ![](assets/report-that-lists-leads-6.png)
 
    >[!TIP]
    >
-   >Hay muchos atributos de cliente o empresa que puede agregar como columnas, ¡desprotéjelas!
+   >Hay muchos atributos de cliente potencial/empresa que puede agregar como columnas, compruébelos.
 
-1. Busque la **Nombre completo** punto amarillo y arrástrelo a **Filas**.
+1. Busque el **Nombre completo** punto amarillo y arrástrelo hasta **Filas**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Ahora, agregue la variable **Medidas** le interesa hacer doble clic en ellos.
+1. Ahora añada el **Medidas** Si le interesa, haga doble clic en ellas.
 
    ![](assets/report-that-lists-leads-8.png)
 
 >[!NOTE]
 >
->En función de la cantidad de datos que tenga, este informe podría tardar un rato en actualizarse.
+>En función de la cantidad de datos que tenga, este informe puede tardar unos minutos en actualizarse.
 
 ¡Misión completa!

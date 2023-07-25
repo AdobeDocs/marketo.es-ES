@@ -1,8 +1,9 @@
 ---
-description: Plantillas recomendadas - Documentos de Marketo - Documentación del producto
+description: 'Plantillas recomendadas: Documentos de Marketo, documentación del producto'
 title: Plantillas recomendadas
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -11,9 +12,9 @@ ht-degree: 0%
 
 # Plantillas recomendadas {#recommended-templates}
 
-Las plantillas recomendadas de Acción de perspectivas de ventas le ayudan a obtener los mensajes adecuados y a ahorrar tiempo. Esto le proporciona un bueno flujo al enviar correos electrónicos y reduce la incertidumbre al intentar encontrar el correo electrónico adecuado para la persona correcta.
+Las plantillas recomendadas de acción de Sales Insight le ayudan a obtener la mensajería correcta y, al mismo tiempo, le ahorran tiempo. Esto le proporciona el bueno flujo al enviar correos electrónicos y reduce la incertidumbre al intentar encontrar el correo electrónico adecuado para la persona adecuada.
 
-1. Vaya a la pestaña Plantillas .
+1. Vaya a la pestaña Plantillas.
 
    ![](assets/recommended-templates-1.png)
 
@@ -25,7 +26,7 @@ Las plantillas recomendadas de Acción de perspectivas de ventas le ayudan a obt
 
    ![](assets/recommended-templates-3.png)
 
-1. Seleccione el **Crear una plantilla recomendada** casilla de verificación y haga clic en **Guardar**.
+1. Seleccione el **Crear una plantilla recomendada** y haga clic en **Guardar**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -33,26 +34,26 @@ Las plantillas recomendadas de Acción de perspectivas de ventas le ayudan a obt
 >
 >Para obtener más información sobre los criterios de plantilla, consulte a continuación.
 
-## Todos vs. Cualquiera {#all-vs-any}
+## Todo vs. Cualquier {#all-vs-any}
 
-Select **Todo** si desea recomendar la plantilla cuando se cumplan todos los criterios. Select **Cualquiera** si desea recomendar la plantilla cuando se cumpla cualquiera de los criterios.
+Seleccionar **Todo** si desea que la plantilla se recomiende cuando se cumplan todos los criterios. Seleccionar **Cualquiera** si desea que su plantilla se recomiende cuando se cumpla cualquiera de los criterios.
 
-## Criterios de configuración {#setting-criteria}
+## Estableciendo criterios {#setting-criteria}
 
-Los criterios establecen las condiciones para las que se recomiendan las plantillas. Puede establecer un máximo de 3 fragmentos de criterios. Seleccione primero los campos dinámicos a los que desee apuntar en la plantilla.
+Los criterios van a establecer las condiciones para las que se recomendarán las plantillas. Puede establecer un máximo de 3 fragmentos de criterios. En primer lugar, seleccione los campos dinámicos a los que desee señalar en la plantilla.
 
 ## Condiciones {#conditions}
 
-Ahora, seleccione la condición. Cuando se cumplan las condiciones del campo dinámico, se recomienda la plantilla . Elija entre 4 condiciones diferentes.
+Ahora, seleccione la condición. Cuando se cumplan las condiciones del campo dinámico, se recomendará la plantilla. Elija entre 4 condiciones diferentes.
 
-**Es igual a**: El valor debe ser una coincidencia exacta (por ejemplo, Marketo es igual a Marketo)
+**Igual a**: el valor debe coincidir exactamente (por ejemplo, Marketo es igual a Marketo)
 
-**Does not Equal**: El valor debe ser cualquier cosa excepto una coincidencia exacta (por ejemplo, Marketing Nation no es igual a Marketing)
+**Does not Equal**: el valor debe ser cualquier cosa excepto una coincidencia exacta (por ejemplo, País de marketing no es igual a Marketing)
 
-**Contiene**: Solo debe contener el valor (por ejemplo, Marketo Rocks! contiene Marketo)
+**Contains**: solo necesita contener el valor (por ejemplo, Marketo Rocks! contiene Marketo)
 
-**No contiene**: El valor no debe estar en el campo dinámico (por ejemplo, Marketo Rocks! no contiene Awesome)
+**Does Not Contiene**: el valor no debe estar en el campo dinámico (por ejemplo, Marketo Rocks! no contiene Awesome)
 
 ## Aspecto De Una Plantilla Recomendada {#what-a-recommended-template-looks-like}
 
-Ahora que ha asignado su primera plantilla, es hora de asignar el resto. Consulte las plantillas más exitosas y recomiende. No olvide compartir la plantilla con su equipo también. La configuración recomendada para cualquier plantilla también se compartirá con su equipo.
+Ahora que ha asignado su primera plantilla, es hora de asignar el resto. Examine las plantillas de mayor éxito y recomiéndelas. No olvide compartir también la plantilla con su equipo. La configuración recomendada para cualquier plantilla también se compartirá entre su equipo.

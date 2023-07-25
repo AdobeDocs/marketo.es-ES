@@ -2,7 +2,8 @@
 description: "Cambiar los límites de recuperación de objetos personalizados en [!DNL Velocity Scripting] - Documentos de Marketo - Documentación del producto"
 title: "Cambiar los límites de recuperación de objetos personalizados en [!DNL Velocity Scripting]"
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%

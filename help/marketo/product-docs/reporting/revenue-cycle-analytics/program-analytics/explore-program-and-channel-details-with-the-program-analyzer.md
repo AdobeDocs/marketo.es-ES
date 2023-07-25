@@ -1,55 +1,56 @@
 ---
 unique-page-id: 2360437
-description: 'Explorar los detalles del programa y el canal con el Analizador de programas: Marketo Docs: Documentación del producto'
-title: Exploración de los detalles del programa y el canal con el analizador de programas
+description: Explorar los detalles del programa y el canal con el analizador de programas - Documentos de Marketo - Documentación del producto
+title: Exploración de los detalles de programas y canales con el analizador de programas
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# Exploración de los detalles del programa y el canal con el analizador de programas {#explore-program-channel-details-with-the-program-analyzer}
+# Exploración de los detalles de programas y canales con el analizador de programas {#explore-program-channel-details-with-the-program-analyzer}
 
-Puede ver estadísticas detalladas de programas y canales en el Analizador de programas. También puede abrirlos en el Explorador de ciclo de ingresos.
+Puede ver las estadísticas detalladas de programas y canales en el Analizador de programas. También puede abrirlos en el Explorador del ciclo de ingresos.
 
 >[!PREREQUISITES]
 >
->[Crear un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Creación de un analizador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->No todas las ediciones de Marketo incluyen esta funcionalidad. Póngase en contacto con el administrador de cuentas para obtener más información.
+>No todas las ediciones de Marketo incluyen esta funcionalidad. Póngase en contacto con su administrador de cuentas para obtener más información.
 
-1. Haga clic en **Analytics**.
+1. Clic **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
-1. Seleccione el Analizador de programas.
+1. Seleccione el analizador de programas.
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Para ver las estadísticas específicas de un canal o programa (en función de la variable **Ver** seleccione ), haga clic en la burbuja correspondiente.
+1. Para ver las estadísticas específicas de un canal o programa (en función del **Ver** Si selecciona ), haga clic en la burbuja correspondiente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Muchas de las métricas que puede elegir en el analizador de programas están disponibles con cálculos de primer toque (FT) y de varios contactos (MT). Es importante comprender el [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muchas de las métricas que puede elegir en el analizador de programas están disponibles con cálculos de primer toque (FT) y de múltiples contactos (MT). Es importante entender el [diferencia entre la atribución de FT y MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Para comparar todos los programas de un solo canal, haga clic en el nombre del canal en el cuadro de diálogo emergente.
+1. Para comparar todos los programas dentro de un solo canal, haga clic en el nombre del canal en el cuadro de diálogo emergente.
 
    ![](assets/image2015-4-28-12-3a59-3a36.png)
 
-1. Ahora puede comparar los programas individuales dentro de ese canal!
+1. Ahora puede comparar los programas individuales dentro de ese canal.
 
    ![](assets/image2015-4-28-13-3a0-3a14.png)
 
    >[!NOTE]
    >
-   >Al hacer clic en un solo canal, se cambia la vista a Por programa, filtrada únicamente a ese canal. Para volver a todos los canales, seleccione **Ver** > **Por canal**.
+   >Al hacer clic en un solo canal, la vista cambia a Por programa, filtrada únicamente a ese canal. Para volver a todos los canales, seleccione **Ver** > **Por canal**.
 
-1. Para abrir el Explorador de ciclo de ingresos para profundizar aún más en una estadística, haga clic en ese número en el cuadro de diálogo emergente.
+1. Para abrir el Explorador del ciclo de ingresos y profundizar aún más en una estadística, haga clic en ese número en el cuadro de diálogo emergente.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)

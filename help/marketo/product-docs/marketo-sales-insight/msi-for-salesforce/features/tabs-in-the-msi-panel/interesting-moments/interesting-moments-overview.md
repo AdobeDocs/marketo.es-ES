@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2949720
-description: Información general sobre momentos interesantes - Documentos de Marketo - Documentación del producto
-title: Información general sobre momentos interesantes
+description: 'Información general sobre momentos interesantes: documentos de Marketo, documentación del producto'
+title: Resumen de momentos interesantes
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Información general sobre momentos interesantes {#interesting-moments-overview}
+# Resumen de momentos interesantes {#interesting-moments-overview}
 
-Puede utilizar el interesante paso del flujo de tiempo para dar visibilidad a su equipo de ventas sobre las cosas geniales que están haciendo sus posibles clientes en una campaña inteligente.
+Puede utilizar el interesante paso de flujo de momento para dar a su equipo de ventas visibilidad de las cosas interesantes que sus posibles clientes están haciendo en una campaña inteligente.
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
@@ -34,4 +35,3 @@ También puede utilizar tokens en momentos interesantes para crear descripciones
 >
 >* [Uso de momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
 >* [Tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
-

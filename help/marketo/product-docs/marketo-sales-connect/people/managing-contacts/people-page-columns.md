@@ -1,30 +1,31 @@
 ---
 unique-page-id: 30081307
-description: 'Columnas de la página Personas: Documentos de Marketo: Documentación del producto'
+description: Columnas de la página Personas - Documentos de Marketo - Documentación del producto
 title: Columnas de la página Personas
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
 # Columnas de la página Personas {#people-page-columns}
 
-Tiene la opción de personalizar qué información de contacto ve eligiendo qué columnas se muestran.
+Tiene la opción de personalizar la información de contacto que ve eligiendo las columnas que desea mostrar.
 
 ## Cómo seleccionar columnas {#how-to-select-columns}
 
-1. En la página Personas, haga clic en el icono Configuración de lista .
+1. En la página Personas, haga clic en el icono Configuración de lista.
 
    ![](assets/one-5.png)
 
-1. Desplácese por y seleccione las columnas que desee (también puede hacer clic en **Seleccionar todo** si desea todas las columnas). Haga clic fuera de la lista cuando termine.
+1. Desplácese por y seleccione las columnas que desee (también puede hacer clic en **Seleccionar todo** si desea cada columna). Haga clic en para salir de la lista cuando haya terminado.
 
    ![](assets/two-4.png)
 
-## Descripciones de columnas {#column-descriptions}
+## Descripciones de columna {#column-descriptions}
 
 <table> 
  <colgroup> 
@@ -57,11 +58,11 @@ Tiene la opción de personalizar qué información de contacto ve eligiendo qué
    <td colspan="1">Cargo</td> 
   </tr> 
   <tr> 
-   <td>Empresa (predeterminado)</td> 
+   <td>Compañía (predeterminado)</td> 
    <td>Nombre de la compañía</td> 
   </tr> 
   <tr> 
-   <td>Campaign (predeterminado)</td> 
+   <td>Campaña (predeterminado)</td> 
    <td>Campaña de ventas en la que se encuentra la persona</td> 
   </tr> 
   <tr> 
@@ -69,39 +70,39 @@ Tiene la opción de personalizar qué información de contacto ve eligiendo qué
    <td>Número total de campañas de ventas de las que la persona ha formado parte</td> 
   </tr> 
   <tr> 
-   <td># Llamadas</td> 
-   <td>Número total de llamadas que se han realizado a esta persona</td> 
+   <td>N.° de llamadas</td> 
+   <td>Número total de llamadas realizadas a esta persona</td> 
   </tr> 
   <tr> 
    <td># Emails</td> 
    <td>Número total de correos electrónicos enviados a esta persona</td> 
   </tr> 
   <tr> 
-   <td>Fecha de vencimiento de tarea</td> 
+   <td>Fecha de vencimiento de la tarea</td> 
    <td>Fecha de vencimiento de la tarea</td> 
   </tr> 
   <tr> 
    <td># Eventos (predeterminado)</td> 
-   <td>Número total de eventos de participación por persona (vistas, clics y respuestas)</td> 
+   <td>Número total de eventos de participación de la persona (vistas, clics y respuestas)</td> 
   </tr> 
   <tr> 
-   <td># Actividades (predeterminado)</td> 
+   <td>Número de actividades (predeterminado)</td> 
    <td>Número total de actividades realizadas por el usuario para este posible cliente (correos electrónicos, llamadas y tareas)</td> 
   </tr> 
   <tr> 
    <td>Consentimiento</td> 
-   <td><p>Interés legítimo, cumplimiento de un contrato, cumplimiento de una obligación legal, protección de intereses vitales, interés público/autoridad oficial y otros</p></td> 
+   <td><p>Interés legítimo, ejecución de un contrato, cumplimiento de la obligación legal, protección de los intereses vitales, interés público/autoridad oficial y otros</p></td> 
   </tr> 
   <tr> 
-   <td>Abrir tareas</td> 
+   <td>Tareas abiertas</td> 
    <td>Número de tareas abiertas para esta persona</td> 
   </tr> 
   <tr> 
    <td># Vistas</td> 
-   <td>Número total de vistas por esta persona</td> 
+   <td>Número total de vistas realizadas por esta persona</td> 
   </tr> 
   <tr> 
-   <td># de clics</td> 
+   <td># Clics</td> 
    <td>Número total de clics de esta persona</td> 
   </tr> 
   <tr> 
@@ -113,12 +114,12 @@ Tiene la opción de personalizar qué información de contacto ve eligiendo qué
    <td>Fecha en la que se actualizó por última vez el registro de persona</td> 
   </tr> 
   <tr> 
-   <td>Creador</td> 
-   <td>Nombre del usuario que creó la persona</td> 
+   <td>Autor</td> 
+   <td>Nombre del usuario que creó a la persona</td> 
   </tr> 
   <tr> 
    <td>Origen</td> 
-   <td>Origen del lugar desde el que se creó la persona</td> 
+   <td>Origen desde el que se creó la persona</td> 
   </tr> 
   <tr> 
    <td>Grupos (predeterminado)</td> 

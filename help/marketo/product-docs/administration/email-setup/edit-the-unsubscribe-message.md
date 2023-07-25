@@ -3,7 +3,8 @@ unique-page-id: 2360251
 description: Edición del mensaje de cancelación de suscripción - Documentos de Marketo - Documentación del producto
 title: Editar el mensaje de cancelación de suscripción
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -34,7 +35,6 @@ Al enviar correos electrónicos de marketing (que no sean[operativo](/help/marke
    >
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
-
 
 1. Edite el **[!UICONTROL Cancelar suscripción al HTML]** y **[!UICONTROL Cancelar suscripción a texto]** versiones a su gusto y haga clic en **[!UICONTROL Guardar cambios]**.
 

@@ -1,38 +1,39 @@
 ---
 unique-page-id: 6849070
-description: 'Descargar la solución de perspectivas de ventas de Marketo para Microsoft Dynamics: Marketo Docs: Documentación del producto'
-title: Descargar la solución de perspectivas de ventas de Marketo para Microsoft Dynamics
+description: 'Descargue la solución Marketo Sales Insight para Microsoft Dynamics: Documentos de Marketo: Documentación del producto'
+title: Descargue la solución Marketo Sales Insight para Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Descargar la solución de perspectivas de ventas de Marketo para Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Descargue la solución Marketo Sales Insight para Microsoft Dynamics {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!IMPORTANT]
 >
->El complemento de esta página es para aquellos que se sincronizan con el Marketo Engage mediante la solución de sincronización nativa de CRM de Marketo con Dynamics 365. Para aquellos que tienen: una sincronización personalizada, MS Dynamics 365 Online (9.x y posterior) y haya comprado Marketo Sales Insight, la variable [el paquete está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
+>El complemento de esta página es para aquellos que se sincronizan con Marketo Engage mediante la solución nativa de sincronización CRM de Marketo con Dynamics 365. Para aquellos que tienen: una sincronización personalizada, MS Dynamics 365 Online (9.x y superior) y han adquirido Marketo Sales Insight, la variable [el paquete está aquí](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Vaya a la **Administrador** .
+1. Vaya a la **Administrador** área.
 
    ![](assets/mainnavhand.png)
 
-1. Haga clic en **CRM**.
+1. Clic **CRM**.
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
-1. Select **Microsoft**.
+1. Seleccionar **Microsoft**.
 
    ![](assets/image2016-5-3.png)
 
-1. Select **Descargar solución de Marketo**.
+1. Seleccionar **Descargar solución de Marketo**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
@@ -40,4 +41,4 @@ ht-degree: 0%
 
    ![](assets/msd-online.png)
 
-¡Excelente! Se descargará en su dispositivo un archivo zip de la solución.
+Excelente! Se descargará un archivo zip de la solución en el dispositivo.

@@ -1,49 +1,49 @@
 ---
 unique-page-id: 30081815
-description: 'Configuración de la integración de Adobe Experience Manager: Marketo Docs: documentación del producto'
-title: Configuración de la integración de Adobe Experience Manager
+description: Configuración de la integración de Adobe Experience Manager - Documentos de Marketo - Documentación del producto
+title: Configuración de la integración con Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Configuración de la integración de Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
+# Configuración de la integración con Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configure Adobe Experience Manager (AEM) para que pueda acceder, seleccionar e importar AEM recursos en Marketo Engage Design Studio.
+Configure Adobe Experience Manager AEM AEM () para poder acceder a los recursos, seleccionarlos e importarlos en el estudio de diseño de Marketo Engage.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
 >[!IMPORTANT]
 >
->* Esta integración solo funciona con implementaciones locales de AEM y no es compatible con implementaciones de AEM Cloud Service.
+>* AEM Esta integración solo funciona con implementaciones locales de y no es compatible con implementaciones de AEM Cloud Service.
 >
->* Actualmente, esta función solo es totalmente compatible con Firefox. No es compatible con Safari y es posible que no funcione en la última versión de Chrome, en función de la configuración de cookies de SameSite.
-
+>* Actualmente, esta función solo es totalmente compatible con Firefox. Safari no lo admite y es posible que no funcione en la versión más reciente de Chrome, según la configuración de la cookie de SameSite.
 
 1. Vaya a Adobe Experience Manager (la dirección URL es específica de su empresa).
 
    ![](assets/one.png)
 
-1. Puede iniciar sesión con Adobe o con inicio de sesión local. En este ejemplo, iniciaremos sesión localmente.
+1. Puede iniciar sesión con el Adobe o localmente. En este ejemplo, iniciaremos sesión localmente.
 
    ![](assets/two.png)
 
-1. En **Herramientas**, haga clic en **Operaciones** y seleccione **Consola web**.
+1. Entrada **Herramientas**, haga clic en **Operaciones** y seleccione **Consola web**.
 
    ![](assets/2a.png)
 
-1. En el navegador, busque &quot;Política de uso compartido de recursos de origen cruzado de Adobe Granite&quot; (ctrl+f en Windows, cmd+f en Mac).
+1. En su navegador, busque (ctrl+f en Windows, cmd+f en Mac) &quot;Política de uso compartido de recursos de origen cruzado de Adobe Granite&quot;.
 
    ![](assets/three.png)
 
-1. Haga clic en el **+** a la derecha.
+1. Haga clic en **+** Firme a la derecha.
 
    ![](assets/four.png)
 
@@ -51,19 +51,19 @@ Configure Adobe Experience Manager (AEM) para que pueda acceder, seleccionar e i
 
    ![](assets/five-psd.png)
 
-1. En el encabezado de la parte superior de la página, haga clic en **Consola web** y seleccione **Información del sistema**.
+1. En el encabezado situado en la parte superior de la página, haga clic en **Consola web** y seleccione **Información del sistema**.
 
    ![](assets/six.png)
 
-1. En Información del servidor, haga clic en la **Restart** botón.
+1. En Información del servidor, haga clic en **Restart** botón.
 
    ![](assets/seven.png)
 
-1. Haga clic en **OK** para confirmar.
+1. Clic **OK** para confirmar.
 
    ![](assets/eight.png)
 
-1. En el Marketo Engage, haga clic en **Administrador**.
+1. En Marketo Engage, haga clic en **Administrador**.
 
    ![](assets/nine.png)
 
@@ -71,10 +71,10 @@ Configure Adobe Experience Manager (AEM) para que pueda acceder, seleccionar e i
 
    ![](assets/ten.png)
 
-1. Haga clic en **Editar**.
+1. Clic **Editar**.
 
    ![](assets/eleven.png)
 
-1. Introduzca la dirección URL de AEM y haga clic en **OK**.
+1. AEM Introduzca la dirección URL de la y haga clic en **OK**.
 
    ![](assets/twelve.png)

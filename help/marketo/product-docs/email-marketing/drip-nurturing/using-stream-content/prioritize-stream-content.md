@@ -1,33 +1,34 @@
 ---
 unique-page-id: 2359834
-description: 'Priorización del contenido del flujo de trabajo: Documentos de Marketo: Documentación del producto'
-title: Priorización del contenido del flujo
+description: 'Priorización del contenido de la emisión: documentos de Marketo, documentación del producto'
+title: Priorizar contenido de flujo
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Priorización del contenido del flujo {#prioritize-stream-content}
+# Priorizar contenido de flujo {#prioritize-stream-content}
 
-Después de añadir contenido a la emisión, es posible que desee cambiar la prioridad. El contenido siempre se entrega de arriba a abajo en cada emisión y no se envía a la misma persona dos veces.
+Una vez que haya agregado contenido al flujo, es posible que desee cambiar la prioridad. El contenido siempre se entrega de arriba a abajo en cada reparto y no se envía ningún contenido a la misma persona dos veces.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione su programa de participación y haga clic en el botón **Transmisiones** pestaña .
+1. Seleccione el programa de participación y haga clic en **Flujos** pestaña.
 
    ![](assets/cloneasteam-1.jpg)
 
-1. Ahora, simplemente arrastre y suelte el contenido en el orden en que lo desee.
+1. A continuación, simplemente arrastre y suelte el contenido en el orden en que desee.
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
    >[!NOTE]
    >
-   >La prioridad siempre se lee de arriba a abajo en el momento de la conversión.
+   >La prioridad siempre se leerá de arriba a abajo en el momento de la emisión.
 
-   ¡Es tan fácil! Ahora sabe cómo priorizar el contenido del flujo.
+   ¡Es así de fácil! Ahora ya sabe cómo priorizar el contenido del flujo.

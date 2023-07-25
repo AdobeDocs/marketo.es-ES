@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783926
-description: 'Plantilla 5E: Documentos de Marketo: Documentación del producto'
+description: Plantilla 5E - Documentos de Marketo - Documentación del producto
 title: Plantilla 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -21,9 +22,9 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye una apuesta, una imagen a pantalla completa, un título a pantalla completa y 3 viñetas de descripción.
+   * incluye un sorteo, una imagen a pantalla completa, título a pantalla completa y 3 viñetas de descripción.
 
-* Tres secciones de cuerpo (opcional)
+* Tres secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

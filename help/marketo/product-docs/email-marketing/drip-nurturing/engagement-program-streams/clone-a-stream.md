@@ -1,35 +1,36 @@
 ---
 unique-page-id: 2359789
-description: 'Clonar un flujo: Documentos de Marketo: Documentación del producto'
-title: Clonar un flujo
+description: 'Clonar un flujo: documentos de Marketo, documentación del producto'
+title: Clonar una secuencia
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Clonar un flujo {#clone-a-stream}
+# Clonar una secuencia {#clone-a-stream}
 
-Clona un flujo por varios motivos, incluida la prueba de diferentes pedidos y cadencias.
+Clonar un flujo por varios motivos, incluida la prueba de diferentes pedidos y cadencias.
 
-1. Seleccione su programa de participación y vaya a la **Transmisiones** pestaña .
+1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
 
    ![](assets/cloneasteam.jpg)
 
-1. Haga clic en el icono del engranaje de la emisión y, a continuación, haga clic en **Clonar**.
+1. Haga clic en el icono de engranaje de flujo y luego haga clic en **Clonar**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 
    >[!NOTE]
    >
-   >Puede tener hasta 25 transmisiones por programa de participación.
+   >Puede tener hasta 25 flujos por programa de participación.
 
-   ¡Bien hecho! ¿No te gustan las cosas que hacen tu vida más fácil?
+   ¡Bien hecho! ¿No te gustan las cosas que te hacen la vida más fácil?
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]
    >
-   >Todo en el arroyo está clonado excepto para el Cadence. Recuerde configurarlo.
+   >Todo en el arroyo es clonado excepto la cadencia. Recuerde que debe configurarlo.

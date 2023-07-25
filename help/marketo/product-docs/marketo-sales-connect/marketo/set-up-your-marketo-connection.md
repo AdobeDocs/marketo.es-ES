@@ -1,8 +1,9 @@
 ---
-description: 'Configuración de la conexión de Marketo: Marketo Docs: documentación del producto'
+description: 'Configuración de la conexión de Marketo: documentos de Marketo, documentación del producto'
 title: Configurar la conexión de Marketo
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -13,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Al aprovisionar MSC, Marketo enviará automáticamente sus credenciales a Sales Connect y conectará su instancia a Marketo. Este paso es obligatorio **solo si no ve la conexión establecida** después de aprovisionar la instancia de Sales Connect. Si la conexión está establecida, verá las credenciales introducidas en la página Configuración de administración de Marketo .
+>Al aprovisionar MSC, Marketo enviará automáticamente sus credenciales a Sales Connect y conectará su instancia a Marketo. Este paso es obligatorio **solo si no ve la conexión establecida** una vez aprovisionada la instancia de Sales Connect. Si ha establecido la conexión, verá sus credenciales introducidas en la página Configuración de administración de Marketo.
 
-## Adquirir credenciales antes de conectar ventas y conectar con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Adquisición de credenciales antes de conectar Sales Connect con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Tendrá que obtener un conjunto de credenciales desde Marketo. Más adelante, el administrador de conexión de ventas utilizará estas credenciales para conectar Marketo con Conexión de ventas.
+Tendrá que obtener un conjunto de credenciales desde Marketo. El administrador de Sales Connect utilizará estas credenciales más adelante para conectar Marketo con Sales Connect.
 
 1. En Marketo, haga clic en **Administrador**.
 
@@ -27,17 +28,17 @@ Tendrá que obtener un conjunto de credenciales desde Marketo. Más adelante, el
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. Seleccione y envíe las siguientes credenciales de Marketo a su administrador de conexión de ventas: Munchkin ID, Client ID, Client Secret.
+1. Seleccione y envíe las siguientes credenciales de Marketo a su administrador de Sales Connect: ID de Munchkin, ID de cliente y Secreto de cliente.
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
    >[!NOTE]
    >
-   >Cuando copie y pegue la información anterior, asegúrese de que no se agreguen espacios.
+   >Al copiar y pegar la información anterior, asegúrese de que no se añaden espacios.
 
-## Conectar ventas con Marketo {#connect-sales-connect-to-marketo}
+## Conectar Sales Conectar con Marketo {#connect-sales-connect-to-marketo}
 
-1. En Conexión de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 

@@ -1,29 +1,30 @@
 ---
-description: Cambiar la contraseña de conexión de ventas - Documentos de Marketo - Documentación del producto
-title: Cambiar la contraseña de conexión de ventas
+description: Cambio De La Contraseña De Conexión De Ventas - Documentos De Marketo - Documentación Del Producto
+title: Cambiar la contraseña de Sales Connect
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Cambiar la contraseña de conexión de ventas {#change-your-sales-connect-password}
+# Cambiar la contraseña de Sales Connect {#change-your-sales-connect-password}
 
-¿Necesita cambiar su contraseña? Así es como.
+¿Necesita cambiar la contraseña? Así es como.
 
-## Cambiar la contraseña al iniciar sesión {#change-your-password-while-signed-in}
+## Cambiar La Contraseña Al Iniciar Sesión {#change-your-password-while-signed-in}
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. La página Mi perfil se abre de forma predeterminada. En Detalles de la cuenta, seleccione la **Cambiar contraseña** casilla de verificación.
+1. La página Mi perfil se abrirá de forma predeterminada. En Detalles de la cuenta, seleccione **Cambiar contraseña** casilla de verificación
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Escriba la contraseña actual. A continuación, introduzca el nuevo y vuelva a escribirlo para asegurarse de que coinciden. Haga clic en **Guardar** cuando haya terminado.
+1. Introduzca la contraseña actual. A continuación, introduzca el nuevo y vuelva a escribirlo para asegurarse de que coincida. Clic **Guardar** cuando termine.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -32,14 +33,13 @@ ht-degree: 0%
 >Las contraseñas deben:
 >
 >* Incluir al menos nueve caracteres
->* Utilice mayúsculas y minúsculas mixtas (tanto superior como inferior)
+>* Usar mayúsculas y minúsculas mixtas (tanto superiores como inferiores)
 >* Incluir un número
->* Usar un carácter especial
+>* Utilice un carácter especial
 
+## Cambiar la contraseña mientras se cierra la sesión {#change-your-password-while-signed-out}
 
-## Cambiar la contraseña al cerrar la sesión {#change-your-password-while-signed-out}
-
-1. Vaya a la [Inicio de sesión de Conexión de ventas](https://toutapp.com/login) página y haga clic en **Contraseña olvidada**.
+1. Vaya a [Inicio de sesión en Sales Connect](https://toutapp.com/login) y haga clic en **Contraseña olvidada**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
@@ -47,14 +47,14 @@ ht-degree: 0%
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. Enviaremos un correo electrónico para verificar que el propietario de la cuenta desea cambiar la contraseña. Haga clic en **Restablecer contraseña**.
+1. Enviaremos un correo electrónico para verificar que el propietario de la cuenta desea cambiar la contraseña. Clic **Restablecer contraseña**.
 
    ![](assets/change-your-sales-connect-password-6.png)
 
    >[!NOTE]
    >
-   >Asegúrese de comprobar también su carpeta de correo no deseado, ya que este correo electrónico a veces puede terminar allí.
+   >Asegúrese de comprobar también la carpeta de correo no deseado, ya que este correo electrónico a veces puede acabar allí.
 
-1. Escriba y confirme la nueva contraseña. Haga clic en **Establecer contraseña** cuando haya terminado.
+1. Introduzca y confirme la nueva contraseña. Clic **Establecer contraseña** cuando termine.
 
    ![](assets/change-your-sales-connect-password-7.png)

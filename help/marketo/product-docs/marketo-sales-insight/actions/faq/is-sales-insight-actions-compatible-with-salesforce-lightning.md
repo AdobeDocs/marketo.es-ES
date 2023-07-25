@@ -1,22 +1,23 @@
 ---
-description: '¿Son compatibles las acciones de perspectivas de ventas con Salesforce Lightning? : Documentos de Marketo: documentación del producto'
-title: ¿Son compatibles las acciones de perspectivas de ventas con Salesforce Lightning?
+description: ¿Las acciones de Sales Insight son compatibles con Salesforce Lightning? - Documentos de Marketo - Documentación del producto
+title: ¿Las acciones de Sales Insight son compatibles con Salesforce Lightning?
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
-source-git-commit: cccf42eeeda9e06f7c9f8b900a30c4efb2d33f6e
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# ¿Son compatibles las acciones de perspectivas de ventas con Salesforce Lightning? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
+# ¿Las acciones de Sales Insight son compatibles con Salesforce Lightning? {#is-sales-insight-actions-compatible-with-salesforce-lightning}
 
-Sí, Sales Insight Actions es compatible con Salesforce Lightning.
+Sí, las acciones de información de ventas son compatibles con Salesforce Lightning.
 
 Por favor [haga clic aquí](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) para la Guía de instalación y éxito.
 
 >[!NOTE]
 >
->Los botones Acciones de perspectiva de ventas para acciones masivas están disponibles en las vistas de lista de posibles clientes y contactos.
+>Los botones de Acciones de perspectiva de ventas para acciones masivas están disponibles en las vistas de lista de posibles clientes y contactos.

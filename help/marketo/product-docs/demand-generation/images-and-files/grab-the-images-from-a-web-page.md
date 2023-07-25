@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2359866
-description: 'Recopilación de imágenes de una página web: Marketo Docs: documentación del producto'
-title: Agrupar las imágenes desde una página web
+description: Obtener las imágenes de una página web - Documentos de Marketo - Documentación del producto
+title: Obtener las imágenes de una página web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Agrupar las imágenes desde una página web {#grab-the-images-from-a-web-page}
+# Obtener las imágenes de una página web {#grab-the-images-from-a-web-page}
 
-Para añadir imágenes de una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y, a continuación, siga estos sencillos pasos.
+Para agregar imágenes desde una página web, copie la dirección web (URL) de la página que tiene las imágenes que desea y, a continuación, siga estos sencillos pasos.
 
-1. Vaya a **Design Studio**.
+1. Ir a **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Haga clic en **Nuevo** y **Capturar imágenes de la web**.
+1. Haga clic en **Nuevo** y **Captura de imágenes de la web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
@@ -34,7 +35,7 @@ Para añadir imágenes de una página web, copie la dirección web (URL) de la p
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
-1. Las imágenes ahora se importan y están disponibles para su uso en correos electrónicos y páginas de aterrizaje.
+1. Las imágenes se han importado y están disponibles para su uso en correos electrónicos y páginas de aterrizaje.
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
@@ -42,12 +43,11 @@ Para añadir imágenes de una página web, copie la dirección web (URL) de la p
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
-¡Buen trabajo, maestro de imágenes!
+¡Buen trabajo, maestro de imagen!
 
 >[!MORELIKETHIS]
 >
 >* [Agregar imágenes y archivos a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [Organizar las imágenes y los archivos mediante carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [Buscar la URL de una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [Cargar imágenes y archivos desde el cuadro](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-
+>* [Organizar imágenes y archivos mediante carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Buscar la dirección URL de una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Cargar imágenes y archivos desde Box](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

@@ -1,33 +1,34 @@
 ---
 unique-page-id: 14352436
 description: Presencia local del teléfono de ventas - Documentos de Marketo - Documentación del producto
-title: Presencia local de teléfono de ventas
+title: Presencia local del teléfono de ventas
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Presencia local de teléfono de ventas {#sales-phone-local-presence}
+# Presencia local del teléfono de ventas {#sales-phone-local-presence}
 
-Cuando quiera que parezca que llama desde el mismo código de área de otra persona, simplemente compruebe la variable **Presencia local** antes de realizar la llamada.
+Si desea que parezca que está llamando desde el mismo código de área de otra persona, simplemente marque la **Presencia local** antes de realizar la llamada.
 
-## Preguntas frecuentes sobre la presencia local {#local-presence-faq}
+## Preguntas frecuentes sobre presencia local {#local-presence-faq}
 
-**¿Puede mi contacto llamarme de nuevo con este nuevo número?**
+**¿Puede mi contacto llamarme a este nuevo número?**
 
-No, la presencia local solo funciona para las llamadas salientes. El llamador no puede volver a llamar a este número &quot;nuevo&quot;.
+No, la presencia local solo funciona para llamadas salientes. La persona que llama no puede devolverle la llamada a este &quot;nuevo&quot; número.
 
 **¿Puedo llamar a cualquier lugar con presencia local?**
 
-Ofrecemos toda la funcionalidad de teléfono de ventas para llamadas en EE.UU. solamente.
+Ofrecemos toda la funcionalidad de teléfono de ventas solo para llamadas en los EE. UU.
 
-**¿El número de presencia local es siempre el mismo cuando llamo a un código de área?**
+**¿El número de presencia local es siempre el mismo cuando se llama a un código de área?**
 
-Es probable que el número siempre sea el mismo cuando se llama a un código de área.
+Es probable que el número siempre sea el mismo cuando llama a un código de área.
 
-**¿Cambia todo mi número o solo el código de área cuando se usa presencia local?**
+**¿Cambia todo mi número o solo el código de área al usar la presencia local?**
 
-El número completo cambiará.
+Tu número entero cambiará.

@@ -3,7 +3,8 @@ unique-page-id: 15695924
 description: Clasificación y ajuste de perfiles de cuenta - Documentos de Marketo - Documentación del producto
 title: Clasificación y ajuste de perfiles de cuenta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Clasificación y ajuste de perfiles de cuenta {#account-profiling-ranking-and-tuning}
 
-El perfil de cuenta identifica su perfil de cliente ideal (ICP), clasifica a las empresas en la base de datos en función del PCI y agrega datos del indicador ICP a cuentas promocionadas como cuentas con nombre.
+La generación de perfiles de cuenta identifica su perfil de cliente ideal (ICP), clasifica las compañías de su base de datos según ICP y agrega datos del indicador ICP a las cuentas promocionadas como cuentas con nombre.
 
 ## Resultados del modelo {#model-results}
 
@@ -20,7 +21,7 @@ Los resultados muestran todas sus cuentas conocidas desglosadas por grado. A es 
 
 ![](assets/results.png)
 
-Aunque es opcional, se recomienda seleccionar la casilla Promocionar automáticamente , ya que le ahorrará un montón de tiempo. Sin embargo, si desea navegar por cada cuenta y [agregarlos manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simplemente deje la casilla sin marcar.
+Aunque es opcional, le recomendamos que seleccione la casilla Promocionar automáticamente, ya que le ahorrará mucho tiempo. Sin embargo, si desea pasar por cada cuenta y [añadirlos manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), simplemente deje la casilla sin marcar.
 
 <table> 
  <tbody> 
@@ -28,14 +29,14 @@ Aunque es opcional, se recomienda seleccionar la casilla Promocionar automática
    <td><strong>Clasificación</strong></td> 
    <td> 
     <div>
-      Clasificación de cuentas basada en el perfil de cliente ideal. A es el mejor ajuste, D es el menos adecuado. 
+      Clasificación de la cuenta basada en el perfil de cliente ideal. A es el mejor ajuste, D es el menos ajustado. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Tendencia</strong></td> 
    <td> 
     <div>
-      Aumento estimado de la tasa de conversión en comparación con una selección de cuentas no basada en el PCI. 
+      Aumento estimado de la tasa de conversión en comparación con una selección de cuentas no basada en ICP. 
     </div></td> 
   </tr> 
   <tr> 
@@ -46,10 +47,10 @@ Aunque es opcional, se recomienda seleccionar la casilla Promocionar automática
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>% de base modelo</strong></td> 
+   <td><strong>% de base de modelo</strong></td> 
    <td> 
     <div>
-      Porcentaje de cuentas modelo que tienen esta clasificación. 
+      Porcentaje de cuentas en base de modelo que tienen esta clasificación. 
     </div></td> 
   </tr> 
  </tbody> 
@@ -57,15 +58,15 @@ Aunque es opcional, se recomienda seleccionar la casilla Promocionar automática
 
 ## Ajuste de modelo {#model-tuning}
 
-En la ficha Modelo, haga clic en el botón Ajustar modelo.
+En la pestaña Modelo, haga clic en el botón Ajustar modelo.
 
 ![](assets/two.png)
 
-Hay varias pestañas entre las que elegir, lo que permite una personalización detallada.
+Hay varias pestañas entre las que elegir, lo que permite una personalización en profundidad.
 
 ![](assets/tuning-page.png)
 
-**Categorías de indicadores**
+**Categorías de indicador**
 
 <table> 
  <tbody> 
@@ -73,21 +74,21 @@ Hay varias pestañas entre las que elegir, lo que permite una personalización d
    <td><strong>Cumplimiento</strong></td> 
    <td> 
     <div>
-      Certificaciones, puestos relacionados con el cumplimiento/contratación. 
+      Certificaciones, puestos/contratación relacionados con el cumplimiento. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Operaciones</strong></td> 
    <td> 
     <div>
-      Puestos/contratación relacionados con las operaciones. 
+      Posiciones/contrataciones relacionadas con las operaciones. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>HR</strong></td> 
    <td> 
     <div>
-      Software HR o Payroll, puestos/contratación relacionados con HR.
+      Software de RRHH o Nómina, puestos/contratación relacionados con RRHH.
     </div></td> 
   </tr> 
   <tr> 
@@ -101,7 +102,7 @@ Hay varias pestañas entre las que elegir, lo que permite una personalización d
    <td><strong>Ventas</strong></td> 
    <td> 
     <div>
-      Soluciones y software para ventas, posiciones/contratación relacionadas con ventas. 
+      Soluciones y software para ventas, puestos/contratación relacionados con ventas. 
     </div></td> 
   </tr> 
   <tr> 
@@ -115,14 +116,14 @@ Hay varias pestañas entre las que elegir, lo que permite una personalización d
    <td><strong>IT</strong></td> 
    <td> 
     <div>
-      Soluciones de hardware y software, tecnologías, posiciones/contratación relacionadas con TI.
+      Soluciones de hardware y software, tecnologías, puestos/contratación relacionados con TI.
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Finanzas</strong></td> 
    <td> 
     <div>
-      Programas informáticos financieros, puestos relacionados con las finanzas/contratación. 
+      Software financiero, puestos/contratación relacionados con las finanzas. 
     </div></td> 
   </tr> 
   <tr> 
@@ -136,14 +137,14 @@ Hay varias pestañas entre las que elegir, lo que permite una personalización d
    <td><strong>Negocio</strong></td> 
    <td> 
     <div>
-      Listas de Forbes o Inc o sociedades de negocios. 
+      Forbes o Inc listados o asociaciones de negocios. 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>Experiencia del cliente y relaciones</strong></td> 
    <td> 
     <div>
-      Posiciones/contratación de éxito del cliente y relaciones con el cliente.
+      Éxito del cliente y relaciones con el cliente/contratación.
     </div></td> 
   </tr> 
  </tbody> 
@@ -157,15 +158,15 @@ Haga clic en la lista desplegable Agregar indicador ICP para insertar indicadore
 
 ![](assets/add-icp.png)
 
-Si activa la casilla Exportar, podrá ver el indicador ICP en la página de detalles de la cuenta designada, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Marcar la casilla Exportar permite ver el indicador ICP en la página Detalles de la cuenta con nombre, así como utilizar el indicador ICP seleccionado como restricciones en [filtros de cuenta con nombre](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Los indicadores del PCI se incluyen como restricciones en **Miembro de la cuenta con nombre** Filtros y Déclencheur.
+>Los indicadores ICP se incluyen como restricciones en **Miembro de cuenta designada** Filtros y Déclencheur.
 
-Ponderación del indicador es lo que controla el nivel de importancia que cada indicador recibe en su modelo.
+El peso del indicador es lo que controla el nivel de importancia que cada indicador recibe en el modelo.
 
 ![](assets/weightage.png)
 
@@ -173,6 +174,6 @@ Haga clic en Actualizar modelo para que los cambios surtan efecto.
 
 ![](assets/refresh-button.png)
 
-Cuando haya terminado de ajustar el modelo (después de actualizarlo), vuelva a la pestaña Resultados del modelo y haga clic en **Guardar y aplicar clasificaciones**.
+Cuando haya terminado de ajustar el modelo (después de actualizarlo), vuelva a la pestaña Resultados del modelo y haga clic en **Guardar y aplicar rangos**.
 
 ![](assets/ranks.png)

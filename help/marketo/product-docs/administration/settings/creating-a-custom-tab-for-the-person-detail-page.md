@@ -3,7 +3,8 @@ unique-page-id: 2360305
 description: Creación de una pestaña personalizada para la página de detalles de la persona - Documentos de Marketo - Documentación del producto
 title: Creación de una ficha personalizada para la página de detalles de persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

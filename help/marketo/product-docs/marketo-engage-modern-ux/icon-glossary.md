@@ -1,17 +1,18 @@
 ---
-description: Glosario de iconos - Documentos de Marketo - Documentación del producto
-title: Icono Glosario
+description: Icono Glosario - Documentos de Marketo - Documentación del producto
+title: Glosario de iconos
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 52%
+ht-degree: 53%
 
 ---
 
-# Icono Glosario {#new-icon-glossary}
+# Glosario de iconos {#new-icon-glossary}
 
-A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Engage. Si necesita hacer referencia a los iconos de Marketo Classic, pueden ser [se encuentra aquí](/help/marketo/getting-started/classic-icon-glossary.md).
+A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Engage. Si necesita hacer referencia a los iconos de Marketo Classic, pueden ser [encontrado aquí](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## Iconos generales {#general-icons}
 
@@ -19,7 +20,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -30,7 +31,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
    <td><img src="assets/batch-active.png"></td> 
-   <td>Campaña por lotes: activa</td> 
+   <td>Campaña por lotes - activa</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
@@ -45,7 +46,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-email.png"></td> 
    <td><img src="assets/email.png"></td> 
-   <td>Email</td> 
+   <td>Correo electrónico</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -100,7 +101,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
    <td><img src="assets/folder-locked.png"></td> 
-   <td>Carpeta - bloqueada</td> 
+   <td>Carpeta: bloqueada</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td> 
@@ -130,7 +131,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td> 
    <td><img src="assets/landing-page-template.png"></td> 
-   <td>Plantilla de la página de destino</td> 
+   <td>Plantilla de la página de aterrizaje</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td> 
@@ -210,12 +211,12 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
    <td><img src="assets/trigger-active.png"></td> 
-   <td>Déclencheur - activo</td> 
+   <td>Déclencheur: activo</td> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
    <td><img src="assets/trigger-inactive.png"></td> 
-   <td>Déclencheur - inactivo</td> 
+   <td>Déclencheur: inactivo</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
@@ -236,7 +237,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -272,7 +273,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>Utilizado por Nurture</td> 
+   <td>Utilizado por Nutrir</td> 
   </tr>
  </tbody>
 </table>
@@ -283,7 +284,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -315,7 +316,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -326,7 +327,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td> 
    <td><img src="assets/completed.png"></td> 
-   <td>Completado</td> 
+   <td>Finalizaciones</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td> 
@@ -347,7 +348,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -369,7 +370,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -406,7 +407,7 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
@@ -433,23 +434,23 @@ A continuación se muestran los iconos de la nueva interfaz de Adobe Marketo Eng
  <tbody>
   <tr>
    <th>Icono antiguo</th> 
-   <th> Icono Nuevo</th> 
+   <th> Nuevo icono</th> 
    <th>Descripción</th> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
-   <td>Aprobado - en cálculo</td> 
+   <td>Aprobado: en cálculo</td> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
-   <td>Aprobado: en proceso de nuevo cálculo</td> 
+   <td>Aprobado: en recálculo</td> 
   </tr>
   <tr>
    <td><strong>n/a</strong></td> 
    <td><img src="assets/draft-under-calculation.png"></td> 
-   <td>Borrador en curso de cálculo</td> 
+   <td>Borrador: en cálculo</td> 
   </tr>
  </tbody>
 </table>

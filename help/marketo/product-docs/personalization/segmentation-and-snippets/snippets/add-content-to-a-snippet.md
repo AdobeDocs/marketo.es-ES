@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359496
-description: 'Añadir contenido a un fragmento: Documentos de Marketo: Documentación del producto'
+description: 'Añadir contenido a un fragmento de código: documentos de Marketo, documentación del producto'
 title: Añadir contenido a un fragmento
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
@@ -16,11 +17,11 @@ ht-degree: 2%
 >
 >[Crear un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento.
+Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento de código.
 
 >[!NOTE]
 >
->No puede incrustar ninguna [Sintaxis del correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos; it **not** trabajar en un correo electrónico. Los fragmentos solo deben ser contenido del cuerpo (HTML + TEXTO).
+>No puede incrustar ninguno [Sintaxis de correo electrónico de Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) en fragmentos; lo hará **no** trabajar en un correo electrónico. Los fragmentos de código solo deben contener cuerpo (HTML + TEXTO).
 
 1. Vaya a la **Design Studio**.
 
@@ -30,11 +31,11 @@ Puede agregar tokens, imágenes, archivos o texto enriquecido a un fragmento.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
-Puede añadir tres tipos de contenido a un fragmento.
+Puede agregar tres tipos de contenido a un fragmento de código.
 
 ## Añadir token {#add-token}
 
-1. Arrastre y suelte la **Token** elemento.
+1. Arrastre y suelte el **Token** Elemento.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
@@ -42,15 +43,15 @@ Puede añadir tres tipos de contenido a un fragmento.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
-## Agregar imagen/archivo {#add-image-file}
+## Añadir imagen/archivo {#add-image-file}
 
-1. Arrastre y suelte la **Imagen/Archivo** elemento.
+1. Arrastre y suelte el **Imagen/Archivo** Elemento.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
    >[!NOTE]
    >
-   >Puede añadir sus propias imágenes o archivos a Marketo. Más información sobre [imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   >Puede agregar sus propias imágenes o archivos a Marketo. Más información sobre [imágenes y archivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Seleccione el **Imagen** para utilizar y haga clic en **Insertar**.
 
@@ -62,7 +63,7 @@ Puede añadir tres tipos de contenido a un fragmento.
 
 ## Agregar texto {#add-text}
 
-1. Escriba en el área Versión del HTML para agregar texto.
+1. Escriba en el área Versión de HTML para añadir texto.
 
    ![](assets/image2014-9-16-9-3a35-3a43.png)
 
@@ -70,22 +71,21 @@ Puede añadir tres tipos de contenido a un fragmento.
    >
    >Utilice las herramientas de formato para personalizar el texto.
 
-1. Para los correos electrónicos, haga clic en el botón **Versión de texto** pestaña .
+1. En Correos electrónicos, haga clic en **Versión de texto** pestaña.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Haga clic en **Copiar desde el HTML**.
+1. Clic **Copiar del HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 
    >[!NOTE]
    >
-   >Las imágenes, los vínculos y el formato se eliminan en la versión de texto.
+   >Las imágenes, los vínculos y el formato se eliminan de la versión de texto.
 
-¡Genial! Ahora puede crear una variedad de contenido para su fragmento.
+¡Genial! Ahora puede crear una variedad de contenido para su fragmento de código.
 
 >[!MORELIKETHIS]
 >
->* [Vista previa de un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Previsualizar un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
 >* [Aprobar un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
-

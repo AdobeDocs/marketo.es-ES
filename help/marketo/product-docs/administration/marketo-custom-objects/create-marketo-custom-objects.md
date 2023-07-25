@@ -3,7 +3,8 @@ unique-page-id: 10093192
 description: 'Creación de objetos personalizados de Marketo: documentos de Marketo, documentación del producto'
 title: Crear objetos personalizados de Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -147,4 +148,3 @@ Utilice un objeto intermedio para conectar un objeto personalizado a personas o 
 >* [Agregar campos de objeto personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Agregar campos de vínculo de objeto personalizado de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

@@ -1,36 +1,37 @@
 ---
 unique-page-id: 2359504
-description: Usar la prueba A/B "De la dirección" - Documentos de Marketo - Documentación del producto
-title: Usar la prueba A/B "De dirección"
+description: Pruebas A/B "Dirección De Origen" - Documentos de Marketo - Documentación del producto
+title: Usar la prueba A/B "Dirección de origen"
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# Usar la prueba A/B &quot;De dirección&quot; {#use-from-address-a-b-testing}
+# Usar la prueba A/B &quot;Dirección de origen&quot; {#use-from-address-a-b-testing}
 
-Puede probar fácilmente los correos electrónicos A/B. Una prueba interesante es la **De la dirección** prueba. Así es como configurarlo.
+Puede probar fácilmente sus correos electrónicos A/B. Una prueba interesante es la **Dirección desde** prueba. A continuación se muestra cómo configurarlo.
 
 >[!PREREQUISITES]
 >
->[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. En el **Correo electrónico** mosaico, con el correo electrónico seleccionado, haga clic en **Agregar prueba A/B**.
+1. En el **Correo electrónico** mosaico, con el correo electrónico seleccionado, haga clic en **Añadir prueba A/B**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Se abre una nueva ventana, seleccione **De la dirección** para **Tipo de prueba**.
+1. Se abrirá una nueva ventana, seleccione **Dirección desde** para **Tipo de prueba**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. Si tiene información de prueba anterior (como una prueba de sujeto), puede hacer clic en **Restablecer prueba**.
+1. Si tiene información de prueba previa (como una prueba de sujeto), puede hacer clic con seguridad en **Restablecer prueba**.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Escriba la segunda **De la dirección** información que desea probar.
+1. Introduzca el segundo **Dirección desde** información que desea probar.
 
    >[!NOTE]
    >
@@ -40,7 +41,7 @@ Puede probar fácilmente los correos electrónicos A/B. Una prueba interesante e
 
    >[!TIP]
    >
-   >Puede hacer clic en la **+** para agregar tantos de las direcciones como desee.
+   >Puede hacer clic en **+** para agregar todas las direcciones &quot;De&quot; que desee.
 
 1. Utilice el control deslizante para elegir el porcentaje de audiencia que desea en la prueba A/B y haga clic en **Siguiente**.
 
@@ -48,10 +49,10 @@ Puede probar fácilmente los correos electrónicos A/B. Una prueba interesante e
 
    >[!NOTE]
    >
-   >Las diferentes variaciones se envían a partes iguales del tamaño de muestra de prueba elegido.
+   >Las diferentes variaciones enviarán partes iguales del tamaño de muestra de prueba elegido.
 
    >[!CAUTION]
    >
-   >**Le recomendamos que evite establecer el tamaño de la muestra en 100%**. Si utiliza una lista estática, si establece el tamaño de la muestra en 100 %, el correo electrónico se envía a todos los miembros de la audiencia y el ganador no va a nadie. Si está utilizando un **smart** , si establece el tamaño de la muestra en 100 %, el correo electrónico se envía a todos los miembros de la audiencia _en ese momento_. Cuando el programa de correo electrónico se ejecute de nuevo en una fecha posterior, cualquier persona nueva que cumpla los requisitos para la lista inteligente también recibirá el correo electrónico, ya que ahora está incluido en la audiencia.
+   >**Se recomienda evitar establecer el tamaño de la muestra en 100 %**. Si utiliza una lista estática, al establecer el tamaño de la muestra en 100 % se envía el correo electrónico a todos los miembros de la audiencia y el ganador no se lo lleva a nadie. Si utiliza una variable **inteligente** , al establecer el tamaño de la muestra en 100 %, se envía el correo electrónico a todos los miembros de la audiencia _en ese momento_. Cuando el programa de correo electrónico se vuelva a ejecutar más adelante, cualquier nueva persona que cumpla los requisitos para la lista inteligente también recibirá el correo electrónico, ya que ahora se incluye en la audiencia.
 
-   Bien, estamos casi allí. Ahora necesitamos [definir los criterios del ganador de la prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
+   Bien, ya casi llegamos. Ahora necesitamos... [definir los criterios de ganador de la prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

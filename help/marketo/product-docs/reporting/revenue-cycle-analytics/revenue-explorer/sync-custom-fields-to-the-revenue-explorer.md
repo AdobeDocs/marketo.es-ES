@@ -1,32 +1,33 @@
 ---
 unique-page-id: 2360341
-description: 'Sincronizar campos personalizados con el Explorador de ingresos: Documentos de Marketo: Documentación del producto'
-title: Sincronizar campos personalizados con el Explorador de ingresos
+description: 'Sincronización de campos personalizados con el Explorador de ingresos: documentos de Marketo, documentación del producto'
+title: Sincronización de campos personalizados con el Explorador de ingresos
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Sincronizar campos personalizados con el Explorador de ingresos {#sync-custom-fields-to-the-revenue-explorer}
+# Sincronización de campos personalizados con el Explorador de ingresos {#sync-custom-fields-to-the-revenue-explorer}
 
-Revenue Cycle Analytics puede generar informes sobre campos personalizados de Marketo para poder hacerlo, es necesario configurar los campos personalizados que se van a sincronizar.
+El análisis del ciclo de ingresos puede informar sobre campos personalizados de Marketo. Para ello, debe configurar los campos personalizados que se sincronizarán.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Vaya a la **Administrador** para obtener más información.
+1. Vaya a la **Administrador** sección.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Select **Análisis del ciclo de ingresos**.
+1. Seleccionar **Análisis del ciclo de ingresos**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Haga clic en el **Sincronización de campos personalizados** y seleccione el área de análisis que desee.
+1. Haga clic en **Sincronización de campos personalizados** y seleccione el área de análisis que desee.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
@@ -34,7 +35,7 @@ Revenue Cycle Analytics puede generar informes sobre campos personalizados de Ma
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Cambie el **Estado de sincronización** a **Habilitado**.
+1. Cambie el **Estado de sincronización** hasta **Habilitado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
@@ -44,6 +45,6 @@ Revenue Cycle Analytics puede generar informes sobre campos personalizados de Ma
 
    >[!TIP]
    >
-   >Una vez habilitados, los datos estarán disponibles en el ciclo de ingresos de Analytics al día siguiente.
+   >Una vez activados, los datos estarán disponibles en Revenue Cycle Analytics al día siguiente.
 
    ¡Buen trabajo! Ahora sabe cómo agregar campos personalizados a RCA.

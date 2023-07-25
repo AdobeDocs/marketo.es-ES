@@ -1,18 +1,19 @@
 ---
 unique-page-id: 10099411
-description: Información general de análisis de perspectivas de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Información general de análisis de perspectivas de correo electrónico
+description: 'Información general de Analytics de perspectivas de correo electrónico: documentos de Marketo, documentación del producto'
+title: Resumen de Analytics de Email Insights
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Información general de análisis de perspectivas de correo electrónico {#email-insights-analytics-overview}
+# Resumen de Analytics de Email Insights {#email-insights-analytics-overview}
 
-En Analytics, explore los datos acumulados para la entrega y la participación por correo electrónico. Utilice el gráfico de la izquierda para explorar los datos y la información de la derecha para obtener una experiencia más guiada.
+En Analytics, explore los datos agregados para la entrega y la participación por correo electrónico. Utilice el gráfico de la izquierda para explorar los datos y las perspectivas de la derecha para disfrutar de una experiencia más guiada.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -20,15 +21,15 @@ En Analytics, explore los datos acumulados para la entrega y la participación p
 
 ![](assets/filter-field.png)
 
-Los mosaicos de Puntos de interés clave (KPI) le proporcionan una visión rápida de las métricas más populares.
+Los mosaicos de puntos de interés clave (KPI) le proporcionan una visión rápida de las métricas más populares.
 
 ![](assets/kpi.png)
 
-Pase el ratón sobre los mosaicos KPI para obtener más información...
+Pase el ratón sobre los mosaicos de KPI para obtener más información...
 
 ![](assets/kpi-hover.png)
 
-...o ver los detalles sin tener que pasar el ratón por encima ampliando la ventana del navegador (en pantallas más grandes).
+... o vea los detalles sin tener que pasar el ratón por encima de la ventana del navegador (en pantallas más grandes).
 
 ![](assets/kpi-wide.png)
 
@@ -40,21 +41,21 @@ El gráfico muestra los criterios filtrados. Para ocultar uno de los filtros, si
 
 ![](assets/chart1.png)
 
-...y la métrica desaparece del gráfico. Vuelva a hacer clic en la barra de color para que vuelva a aparecer.
+... y la métrica desaparece del gráfico. Vuelva a hacer clic en la barra de color para que vuelva a aparecer.
 
 ![](assets/chart2.png)
 
-Si crea un gráfico que desee usar de nuevo, hágalo como [gráfico rápido](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Si crea un gráfico que desee volver a utilizar, conviértalo en un [gráfico rápido](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
-A la derecha de la página, las métricas guiadas le ayudan a descubrir los controladores relevantes. Haga clic en cualquier métrica para verla en el gráfico de la izquierda de la página.
+En el lado derecho de la página, las métricas guiadas le ayudan a descubrir controladores relevantes. Haga clic en cualquier métrica para verla en el gráfico de la izquierda de la página.
 
 ![](assets/guided-metrics-ps.png)
 
 >[!NOTE]
 >
->¿Ves esa actualización en la esquina superior derecha? Cuando lo vea, deberá hacer clic manualmente en él para actualizar el módulo de perspectivas. Solo se muestra cuando se ha realizado un cambio en los filtros que invalidaría los valores actuales.
+>¿Ves ese Refresh en la esquina superior derecha? Cuando lo vea, tendrá que hacer clic manualmente para actualizar el módulo de Insights. Solo se muestra cuando se ha realizado un cambio en los filtros que invalida los valores actuales.
 
 También puede especificar lo que ve (de izquierda a derecha): Todos, Audiencia, Contenido y Plataforma.
 
@@ -62,4 +63,4 @@ También puede especificar lo que ve (de izquierda a derecha): Todos, Audiencia,
 
 >[!MORELIKETHIS]
 >
->[Información general sobre los envíos de Perspectivas de correo electrónico](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Resumen de envíos de Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

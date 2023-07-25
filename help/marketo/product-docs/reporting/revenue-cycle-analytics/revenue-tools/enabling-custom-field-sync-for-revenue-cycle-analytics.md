@@ -1,36 +1,37 @@
 ---
 unique-page-id: 3571888
-description: 'Activación de la sincronización de campos personalizados para el análisis de ciclo de ingresos: Marketo Docs: documentación del producto'
-title: Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos
+description: Activación de la sincronización de campos personalizados para el análisis del ciclo de ingresos - Documentos de Marketo - Documentación del producto
+title: Habilitar la sincronización de campos personalizados para el ciclo de ingresos de Analytics
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# Habilitación de la sincronización de campos personalizados para el análisis del ciclo de ingresos {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Habilitar la sincronización de campos personalizados para el ciclo de ingresos de Analytics {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-Los siguientes pasos le permitirán utilizar campos personalizados en informes de RCA.
+Los siguientes pasos le permitirán utilizar campos personalizados en informes RCA.
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Análisis del ciclo de ingresos**, luego **Sincronización de campos personalizados**.
+1. Clic **Análisis del ciclo de ingresos**, entonces **Sincronización de campos personalizados**.
 
    ![](assets/two.png)
 
-1. Seleccione su **Nombre del campo** y haga clic en **Editar opción de sincronización**.
+1. Seleccione su **Nombre de campo**, luego haga clic en **Editar opción de sincronización**.
 
    ![](assets/three.png)
 
-1. En Estado de sincronización, seleccione **Habilitado** y haga clic en **Guardar**.
+1. En Estado de sincronización, seleccione **Habilitado**, luego haga clic en **Guardar**.
 
    ![](assets/four.png)
 
-1. La marca de verificación verde le permite saber que el campo está configurado para la sincronización.
+1. La marca de verificación verde le permite saber que el campo está configurado para sincronizarse.
 
    ![](assets/five.png)
 
@@ -38,4 +39,4 @@ Los siguientes pasos le permitirán utilizar campos personalizados en informes d
 
    >[!NOTE]
    >
-   >Una vez activado el campo, los datos estarán disponibles en el ciclo de ingresos de Analytics al día siguiente.
+   >Una vez habilitado el campo, los datos estarán disponibles en Revenue Cycle Analytics al día siguiente.

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2953136
-description: 'Explicación de la atribución: Marketo Docs: Documentación del producto'
+description: 'Explicación de la atribución: Documentos de Marketo: documentación del producto'
 title: Explicación de la atribución
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -14,19 +15,19 @@ ht-degree: 0%
 
 ## ¿Qué es la atribución? {#what-is-attribution}
 
-La atribución es la forma en que Marketo da crédito a los programas que ayudan a influir en las ventas y las oportunidades. Si utiliza el modelador de Marketo, la atribución también puede dar crédito por hacer que alguien avance en su modelo de negocio.
+La atribución es la forma en que Marketo da crédito a los programas que ayudan a influir en las ventas y las oportunidades. Si utiliza el modelador de Marketo, la atribución también puede dar crédito por sacar a alguien adelante en su modelo empresarial.
 
 ## ¿Por qué hacer un seguimiento de esto? {#why-keep-track-of-this}
 
-La atribución le ayuda a medir el éxito del programa. Algunos programas tienen la intención de generar nuevos nombres, mientras que otros están destinados a impulsar las ventas. Al tener un sistema de atribución, se pueden tomar decisiones educadas sobre en qué programas invertir.
+La atribución le ayuda a medir el éxito del programa. Algunos programas están destinados a generar nuevos nombres, mientras que otros están destinados a impulsar las ventas. Al tener un sistema de atribución, se pueden tomar decisiones informadas sobre en qué programas invertir.
 
 ## Atribución de primer toque (FT) {#first-touch-ft-attribution}
 
-La atribución de primer toque (FT) responde a una **pregunta empresarial simple**, &quot;¿Qué programas son buenos para adquirir nuevos nombres rentables?&quot;
+La atribución de primer contacto (FT) responde a un **pregunta simple de negocios**, &quot;¿Qué programas son buenos para adquirir nuevos nombres rentables?&quot;
 
-## Atribución multitáctil {#multi-touch-attribution}
+## Atribución de varios toques {#multi-touch-attribution}
 
-Multi-Touch responde a una **pregunta comercial complicada**, &quot;¿Qué programas son los más influyentes para hacer que la gente avance en el ciclo de ventas a lo largo del tiempo?&quot;
+Respuestas multitáctiles a **cuestión empresarial complicada**, &quot;¿Qué programas influyen más en el avance de las personas en el ciclo de ventas a lo largo del tiempo?&quot;
 
 ## Reglas de atribución {#rules-of-attribution}
 
@@ -40,10 +41,9 @@ En los ejemplos siguientes, puede aplicar estas reglas y comprender todo lo que 
 
 >[!MORELIKETHIS]
 >
->* [Ejemplo de atribución 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Ejemplo de atribución 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Ejemplo de atribución 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->* [Ejemplo de atribución 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Ejemplo 1 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Ejemplo 2 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Ejemplo 3 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Ejemplo 4 de atribución](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
-
-Si está utilizando esta función, está sacando el máximo partido de su inversión en Marketo.
+Si utiliza esta función, definitivamente está aprovechando al máximo su inversión en Marketo.

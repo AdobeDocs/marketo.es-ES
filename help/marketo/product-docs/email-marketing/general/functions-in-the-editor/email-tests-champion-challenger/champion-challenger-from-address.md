@@ -1,32 +1,33 @@
 ---
 unique-page-id: 2359559
-description: Campeón/Desafiante - De Dirección - Marketo Docs - Documentación del producto
-title: Campeón/Desafío - De Dirección
+description: Champion/Challenger - Dirección de origen - Documentos de Marketo - Documentación del producto
+title: Campeón/Challenger - Dirección de origen
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# Campeón/Desafío: De la dirección {#champion-challenger-from-address}
+# Campeón/Challenger: Dirección de origen {#champion-challenger-from-address}
 
-¿Quiere probar un De Dirección diferente sin problemas? Así es como.
+¿Quiere probar una dirección remitente diferente sin complicaciones? Así es como.
 
 >[!PREREQUISITES]
 >
->[Añadir un campeón/Challenger de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Añadir un campeón/aspirante de correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. En el editor de pruebas de correo electrónico, seleccione **De la dirección** en el **Tipo de prueba** lista desplegable.
+1. En el editor de pruebas de correo electrónico, seleccione **Dirección desde** en el **Tipo de prueba** menú desplegable.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >La primera dirección De se designa como la **Campeón**. Se llaman las direcciones posteriores desde **Desafíos**.
+   >La primera dirección remitente se designa como **Campeona**. Se llama a las direcciones remitente subsiguientes **Desafíos**.
 
-1. Introduzca la variable **Desde nombre** (izquierda) y **De la dirección** (derecha) para los aspirantes.
+1. Introduzca el **Nombre desde** (izquierda) y **Dirección desde** (derecha) para los aspirantes.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
    >
    >Si desea más de un aspirante, haga clic en el signo más e introduzca otro nombre y correo electrónico.
 
-1. Arrastre el control deslizante para decidir el porcentaje de división entre las personas que reciben correos electrónicos con el campeón Desde dirección y las que reciben correos electrónicos con el aspirante Desde dirección(es).
+1. Arrastre el control deslizante para decidir la división porcentual entre las personas que reciben correos electrónicos con la dirección de origen del campeón y las que reciben correos electrónicos con las direcciones de origen del aspirante.
 
    ![](assets/image2014-9-15-12-3a53-3a1.png)
 
@@ -42,16 +43,16 @@ ht-degree: 0%
    >
    >**Ejemplo**
    >
-   >En la distribución que se muestra arriba, el 15 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con un aspirante De dirección y el 85 % recibe el correo electrónico con el campeón De dirección. Los correos electrónicos para varios aspirantes de Direcciones comparten el 15 % de forma equitativa. Cuando finalice la prueba, puede declarar un ganador manualmente. A partir de entonces, todas las personas futuras recibirán el contenido con mejor rendimiento.
+   >En la distribución que se muestra más arriba, el 15 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con una dirección de origen del aspirante y el 85 % recibe el correo electrónico con la dirección de origen del campeón. Los correos electrónicos para varias direcciones de origen de aspirante comparten el 15 % de forma equitativa. Cuando termine la prueba, puede declarar un ganador manualmente. A partir de ese momento, todas las personas futuras recibirán el contenido con mejor rendimiento.
 
-   Para ganar confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas como para que la prueba sea válida. No te engañes con resultados inconclusos. [Más información de la que nunca quiso sobre la confianza estadística](https://en.wikipedia.org/wiki/Confidence_interval).
+   Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos. [Más información de la que jamás deseó acerca de la confianza estadística](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
-   Progreso! Sigamos así.
+   Progreso! Vamos a seguir con esto.
 
    >[!MORELIKETHIS]
    >
-   >[Campeón/Desafío: Definir criterios de campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Campeón/Challenger: Definir criterios de campeón](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

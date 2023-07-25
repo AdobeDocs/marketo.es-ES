@@ -3,7 +3,8 @@ unique-page-id: 11370952
 description: Notas de la versión, primavera de 2016, documentación de Marketo, documentación del producto
 title: Notas de la versión, primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%

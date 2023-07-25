@@ -1,23 +1,24 @@
 ---
-description: 'Concesión de acceso de Marketo a usuarios: Documentos de Marketo: Documentación del producto'
-title: Concesión de acceso a Marketo a usuarios
+description: Concesión de acceso de Marketo a usuarios - Documentos de Marketo - Documentación del producto
+title: Conceder acceso a Marketo a los usuarios
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Concesión de acceso a Marketo a usuarios {#grant-marketo-access-to-users}
+# Conceder acceso a Marketo a los usuarios {#grant-marketo-access-to-users}
 
-Siga los pasos de este artículo para otorgar a los usuarios de Acciones de perspectiva de ventas acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en la fuente en directo y acceso a campañas de marketing.
+Siga los pasos de este artículo para otorgar a los usuarios de Acciones de perspectiva de ventas acceso a la conexión de Marketo. Esto desbloqueará funciones como Momentos interesantes en el canal en directo y acceso a Campañas de marketing.
 
-Deberá invitar a los usuarios a [Acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de que sean visibles en la página Marketo > Acceso a equipos (en acciones de perspectiva de ventas), donde se concede acceso a la conexión de Marketo.
+Tendrá que invitar a usuarios a [Acciones de perspectiva de ventas](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de que sean visibles en la página Marketo > Acceso del equipo (en Acciones de perspectiva de ventas), donde se concede acceso a la conexión de Marketo.
 
 >[!CAUTION]
 >
->Espere diez minutos después de conectar las acciones de perspectiva de ventas con Marketo antes de realizar estos pasos.
+>Espere diez minutos después de conectar las acciones de información de ventas con Marketo antes de realizar estos pasos.
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
@@ -27,23 +28,23 @@ Deberá invitar a los usuarios a [Acciones de perspectiva de ventas](/help/marke
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Haga clic en el **Acceso de usuarios** pestaña . Seleccione uno o varios usuarios y haga clic en **Connect**.
+1. Haga clic en **Acceso de usuario** pestaña. Seleccione uno o varios usuarios y haga clic en **Connect**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
    >[!NOTE]
    >
-   >La asignación de espacio de trabajo solo se puede realizar una vez al conceder acceso a los usuarios. Una vez configurado, tendrá que desconectar al usuario para cambiarlo.
+   >La asignación del espacio de trabajo solo se puede realizar una vez en el momento de conceder acceso a los usuarios. Una vez configurado, tendrá que desconectar al usuario para poder cambiarlo.
 
-1. Si la suscripción a Marketo tiene habilitados los espacios de trabajo, podrá asignar espacios de trabajo a cada usuario o conjunto de usuarios de forma masiva. Si no se seleccionan espacios de trabajo, se asignarán al espacio de trabajo predeterminado de Marketo.
+1. Si la suscripción a Marketo tiene espacios de trabajo habilitados, podrá asignar espacios de trabajo a cada usuario o conjunto de usuarios de forma masiva. Si no se selecciona ningún espacio de trabajo, se asigna al espacio de trabajo predeterminado de Marketo.
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **PASO OPCIONAL**: Haga clic en la lista desplegable Espacio de trabajo y seleccione los espacios de trabajo que desee.
+   **PASO OPCIONAL**: haga clic en el menú desplegable Espacio de trabajo y seleccione los espacios de trabajo que desee.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Haga clic en **Connect**.
+1. Clic **Connect**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

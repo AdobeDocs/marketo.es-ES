@@ -1,46 +1,47 @@
 ---
 unique-page-id: 2953144
-description: Información general sobre los informes del programa avanzado - Documentos de Marketo - Documentación del producto
-title: Información general sobre los informes de programas avanzados
+description: Información general avanzada sobre informes de programas - Documentos de Marketo - Documentación del producto
+title: Información general sobre informes de programas avanzados
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# Información general sobre los informes de programas avanzados {#advanced-program-reporting-overview}
+# Información general sobre informes de programas avanzados {#advanced-program-reporting-overview}
 
 **Explorador del ciclo de ingresos** incluye varias áreas de análisis y una amplia gama de nuevas métricas que le permiten medir la eficacia del programa.
 
 ![](assets/rev.png)
 
-Hay muchas cosas buenas aquí. ¡Echémosles un vistazo!
+Hay un montón de cosas aquí. ¡Vamos a echarles un vistazo!
 
 ![](assets/image2015-4-30-10-3a15-3a17.png)
 
 ## ¿Qué es un área de análisis? {#whats-an-analysis-area}
 
-Las áreas de análisis contienen diferentes conjuntos de datos y métricas dentro del Explorador de ingresos. Cada área se relaciona con el sujeto informador que ha elegido ver.
+Cada área de análisis contiene diferentes conjuntos de datos y métricas dentro del Explorador de ingresos. Cada área está relacionada con el tema del sistema de informes que ha elegido ver.
 
-## Áreas de análisis del programa {#program-analysis-areas}
+## Áreas de análisis de programas {#program-analysis-areas}
 
-* **[Análisis de Costes del Programa](understanding-the-program-cost-analysis-area.md)** - Consulte el ROI de todos sus programas.
+* **[Análisis de costos de programas](understanding-the-program-cost-analysis-area.md)** - Ver el ROI de todos tus programas.
 
-* **[Análisis de pertenencia al programa](understanding-the-program-membership-analysis-area.md)** : Consulte los resultados por canal, participación, criterios de éxito, etc.
+* **[Análisis de pertenencia a programas](understanding-the-program-membership-analysis-area.md)** - Ver resultados por canal, participación, criterios de éxito, etc.
 
-* **[Análisis de oportunidades del programa](understanding-the-program-opportunity-analysis-area.md)** - Oportunidades generadas en función de la distribución, sus ingresos y el ROI.
+* **[Análisis de oportunidad de programa](understanding-the-program-opportunity-analysis-area.md)** : Oportunidades generadas en función de la distribución, sus ingresos y el ROI.
 
-* **[Análisis de fase de ingresos del programa](understanding-the-program-revenue-stage-analysis-area.md)** - Nuevos nombres que han alcanzado etapas de éxito específicas dentro del modelo de ciclo de ingresos.
+* **[Análisis de fase de ingresos del programa](understanding-the-program-revenue-stage-analysis-area.md)** : nuevos nombres que han alcanzado fases de éxito específicas dentro del modelo de ciclo de ingresos.
 
 ## Analizadores de programas {#program-analyzers}
 
 * **Analizador de programas** - Identifique rápidamente los programas que son exitosos o no, y enfoque sus recursos apropiadamente.
 
-* **Analizador de influencia de oportunidades** - Probar la contribución de Marketing midiendo el impacto de los programas y los compromisos clave que generaron oportunidades.
+* **Analizador de influencia de oportunidad** - Demostrar la contribución de Marketing midiendo el impacto de los programas y las participaciones clave que generaron oportunidades.
 
-## Opciones del informe {#report-options}
+## Opciones de informe {#report-options}
 
 En cada informe hay varias opciones disponibles para ayudarle a personalizar la experiencia.
 
@@ -48,10 +49,10 @@ En cada informe hay varias opciones disponibles para ayudarle a personalizar la 
 
 >[!CAUTION]
 >
->Aunque tiene la opción de mostrar Filas/Columnas donde la celda Medida se deja en blanco (primera casilla de verificación), le recomendamos que no lo haga, ya que podría ralentizar el procesamiento e incluso podría agotar el tiempo de espera del informe.
+>Aunque tiene la opción de mostrar Filas/Columnas donde la celda Measure se deja en blanco (primera casilla de verificación), no se recomienda hacerlo, ya que podría ralentizar el procesamiento e incluso agotar el tiempo de espera del informe.
 
 >[!NOTE]
 >
->Los datos del Explorador del ciclo de ingresos se actualizan todas las noches desde la instancia de Marketo. Por lo tanto, cualquier cambio en la actividad de persona y cuenta dentro de Marketo se reflejará el siguiente día laborable en el Explorador del ciclo de ingresos.
+>Los datos del Explorador del ciclo de ingresos se actualizan todas las noches desde la instancia de Marketo. Por lo tanto, cualquier cambio en la actividad de persona y cuenta dentro de Marketo se reflejará al siguiente día hábil en el Explorador del ciclo de ingresos.
 
-Familiarizarse con Revenue Analytics le proporcionará una perspectiva completa de sus programas y de su impacto.
+Familiarizarse con Revenue Analytics le proporcionará una perspectiva completa de sus programas y su impacto.

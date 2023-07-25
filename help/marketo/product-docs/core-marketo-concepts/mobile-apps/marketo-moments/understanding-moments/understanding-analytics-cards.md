@@ -1,66 +1,66 @@
 ---
 unique-page-id: 8781988
-description: 'Explicación de las tarjetas de Analytics: Documentos de Marketo: Documentación del producto'
-title: Información sobre las tarjetas de Analytics
+description: 'Explicación de las tarjetas de Analytics: documentos de Marketo, documentación del producto'
+title: Explicación de las tarjetas de Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# Información sobre las tarjetas de Analytics {#understanding-analytics-cards}
+# Explicación de las tarjetas de Analytics {#understanding-analytics-cards}
 
-Al principio de cada mes, Marketo Moments proporciona tres tarjetas de informes diferentes: Posibles clientes adquiridos, nuevos posibles clientes y cancelaciones de suscripción. Cada uno muestra el rendimiento mensual y la tendencia a lo largo de un período de seis meses.
+Al principio de cada mes, Momentos de Marketo proporciona tres tarjetas de informes diferentes: Posibles Clientes Adquiridos, Nuevos Posibles Clientes y Cancelaciones de Suscripción. Cada uno muestra el rendimiento mensual y la tendencia en un periodo de seis meses.
 
 ## Tarjetas de Analytics {#analytics-cards}
 
-Al tocar una tarjeta de Analytics, puede:
+Al pulsar una tarjeta de Analytics puede:
 
-* [Hacerlo favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marque como hecho](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compártala](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Conviértalo en favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Márquelo como listo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compártalo.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Pulse una tarjeta de Analytics para mostrar:
 
-* Un gráfico de los resultados de los últimos seis meses
+* Gráfico de los resultados de los últimos seis meses
 * Una comparación mes tras mes
-* Un gráfico de barras de los tres principales (en función de la tarjeta)
+* Gráfico de barras de los tres más visitados o los tres más visitados (según la tarjeta)
 
-Por ejemplo, echemos un vistazo a los detalles de la tarjeta Análisis de posibles clientes adquiridos:
+Por ejemplo, veamos los detalles de la tarjeta Análisis de posibles clientes adquiridos:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-En este ejemplo, rojo indica que el valor ha disminuido en el intervalo de fechas seleccionado (uh, oh!). El verde indica que el valor ha aumentado (¡ay!).
+En este ejemplo, el rojo indica que el valor ha disminuido en el intervalo de fechas seleccionado (oh oh!). El verde indica que el valor ha aumentado (¡ay!).
 
 ## Posibles clientes adquiridos {#acquired-leads}
 
-La variable **Posibles clientes adquiridos** La tarjeta de muestra un informe de tendencia mes a mes sobre el número de posibles clientes nuevos.
+El **Posibles clientes adquiridos** Esta tarjeta muestra un informe mes tras mes de tendencias sobre la cantidad de nuevos posibles clientes.
 
 >[!NOTE]
 >
->Solo son visibles los posibles clientes con un programa de adquisición definido.
+>Solo están visibles los posibles clientes con un programa de adquisición definido.
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
 ## Nuevos posibles clientes {#new-leads}
 
-La variable **Nuevos posibles clientes** La tarjeta de muestra un informe de tendencia mes a mes sobre la cantidad total de posibles clientes nuevos en su instancia durante los últimos seis meses.
+El **Nuevos posibles clientes** Esta tarjeta muestra un informe mes tras mes de tendencias de la cantidad total de nuevos posibles clientes en su instancia durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Cancela suscripción {#unsubscribes}
 
-La variable **Cancelación de suscripción** La tarjeta de muestra un informe de tendencia mes a mes de la tasa de cancelación de suscripción en los últimos seis meses.
+El **Cancela la suscripción** Esta tarjeta muestra un informe de tendencias mes tras mes de la tasa de cancelación de suscripción de los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
-Ahora ya sabes.
+Ahora ya lo sabes.
 
 >[!MORELIKETHIS]
 >
->* [Explicación de los momentos de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Información sobre las tarjetas de eventos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Información sobre las tarjetas de programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
-
+>* [Explicación de los momentos Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Explicación de las tarjetas de eventos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Explicación de las tarjetas de programa de correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

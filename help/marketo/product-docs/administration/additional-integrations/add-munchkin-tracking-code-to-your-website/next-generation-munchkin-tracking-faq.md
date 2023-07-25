@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "Nueva generación [!DNL Munchkin] Preguntas frecuentes sobre el seguimiento - Documentos de Marketo - Documentación del producto"
 title: "Nueva generación [!DNL Munchkin] Preguntas frecuentes sobre seguimiento"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ Si ya está utilizando este filtro en una lista inteligente (por ejemplo, en una
 >* Tener un momento interesante registrado para ella (con la fecha en la que realmente visitó la página, no cuando se dio a conocer)
 >
 >* Registre una actividad &quot;Nueva persona&quot;, tal como está hoy
-
 
 ## ¿Qué les sucede a mis listas inteligentes que ya tienen el filtro &quot;Es anónimo&quot;? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

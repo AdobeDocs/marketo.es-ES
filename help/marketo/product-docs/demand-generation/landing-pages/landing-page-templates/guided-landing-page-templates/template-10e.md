@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8784011
-description: 'Plantilla 10E: Documentos de Marketo: Documentación del producto'
+description: 'Plantilla 10E: Documentos de Marketo: documentación del producto'
 title: Plantilla 10E
 exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Esta plantilla incluye el siguiente contenido:
 
    * incluye un encabezado a pantalla completa, texto a pantalla completa y un formulario
 
-* Tres secciones de cuerpo (opcional)
+* Tres secciones del cuerpo (opcional)
 * Un pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

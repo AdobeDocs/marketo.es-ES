@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783969
-description: 'Plantilla 8D: Documentos de Marketo: Documentación del producto'
+description: 'Plantilla 8D: Documentos de Marketo: documentación del producto'
 title: Plantilla 8D
 exl-id: 09c22a82-fc20-4b6e-b60b-714dccaae175
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -21,9 +22,9 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye un encabezado a pantalla completa, texto a pantalla completa y una encuesta
+   * incluye un encabezado, texto y una encuesta
 
-* Cinco secciones de cuerpo (opcional)
+* Cinco secciones del cuerpo (opcional)
 * Un pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

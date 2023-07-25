@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352630
-description: 'Eliminación de una plantilla: documentos de Marketo: documentación del producto'
+description: 'Eliminación de una plantilla: documentos de Marketo, documentación del producto'
 title: Eliminar una plantilla
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -20,6 +21,6 @@ Siga estos sencillos pasos para eliminar una plantilla.
 
 1. Seleccione la plantilla que desee eliminar.
 
-1. Haga clic en el menú desplegable de la parte superior derecha y, a continuación, haga clic en **Eliminar**.
+1. Haga clic en el menú desplegable en la parte superior derecha y, a continuación, haga clic en **Eliminar**.
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Clic **Eliminar** para confirmar.

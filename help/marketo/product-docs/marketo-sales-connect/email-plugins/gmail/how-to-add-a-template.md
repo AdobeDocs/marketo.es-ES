@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352439
-description: 'Cómo añadir una plantilla: Documentos de Marketo: Documentación del producto'
+description: 'Adición de una plantilla: documentos de Marketo, documentación del producto'
 title: Cómo añadir una plantilla
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -14,10 +15,10 @@ ht-degree: 0%
 
 1. En un mensaje nuevo, haga clic en **Plantillas**.
 
-1. De forma predeterminada, se mostrarán las plantillas usadas recientemente.
+1. De forma predeterminada, se mostrarán las plantillas utilizadas recientemente.
 
    >[!TIP]
    >
-   >También puede buscar sus plantillas favoritas.
+   >Siéntase libre de buscar sus plantillas favoritas también.
 
-1. Tome una plantilla y personalícela antes de enviarla.
+1. Busque una plantilla y personalícela antes de enviarla.

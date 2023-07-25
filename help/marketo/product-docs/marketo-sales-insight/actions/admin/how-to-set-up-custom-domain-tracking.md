@@ -1,27 +1,28 @@
 ---
-description: Configuración del seguimiento de dominios personalizado - Documentos de Marketo - Documentación del producto
-title: Configuración del seguimiento de dominio personalizado
+description: 'Configuración del seguimiento de dominio personalizado: documentos de Marketo, documentación del producto'
+title: Cómo configurar el seguimiento de dominios personalizados
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Configuración del seguimiento de dominio personalizado {#how-to-set-up-custom-domain-tracking}
+# Cómo configurar el seguimiento de dominios personalizados {#how-to-set-up-custom-domain-tracking}
 
-El seguimiento de dominio personalizado permite que su equipo use su propio nombre de empresa en todos los vínculos rastreables que se agregan a los correos electrónicos de ventas. Una vez que tenga esto configurado, lista de permitidos cualquier vínculo que tenga en su correo electrónico para que aparezca como go.yourcompany.com, de modo que cuando alguien pase el ratón sobre un vínculo, lea go.yourcompany.com en lugar de go.toutapp.com.
+El seguimiento personalizado de dominios permite a su equipo utilizar su propio nombre de empresa en todos los vínculos a los que se puede realizar un seguimiento y que se añaden a los correos electrónicos de ventas. Una vez configurado, lista de permitidos cualquier vínculo que tenga en su correo electrónico para que aparezca como go.yourcompany.com, de modo que cuando alguien pase el ratón sobre un vínculo, lea go.yourcompany.com en lugar de go.toutapp.com.
 
-Necesitará la asistencia de su equipo de TI para configurar un registro CNAME para su dominio que apunte a go.toutapp.com. Este CNAME es lo que aparece en todos sus vínculos de seguimiento (por ejemplo, go.yourcompany.com).
+Necesitará ayuda de su equipo de TI para configurar un registro CNAME para su dominio que apunte a go.toutapp.com. Este CNAME es lo que aparece en todos los vínculos de seguimiento (por ejemplo, go.yourcompany.com).
 
-Una vez que haya confirmado con su equipo de TI que el CNAME está configurado correctamente, puede agregarlo a la página Seguimiento de dominios personalizado en Acciones.
+Una vez que haya confirmado con su equipo de TI que el CNAME está configurado correctamente, puede añadirlo a la página Seguimiento de dominios personalizados en Acciones.
 
 >[!NOTE]
 >
->Si el CNAME no está configurado correctamente y lo activa como su dominio personalizado en Acciones, puede romper los vínculos de seguimiento y los píxeles.
+>Si el CNAME no está configurado correctamente y lo activa como dominio personalizado en Acciones, puede interrumpir los vínculos de seguimiento y los píxeles.
 
-## Habilitar el seguimiento de dominio personalizado {#enable-custom-domain-tracking}
+## Habilitar seguimiento de dominio personalizado {#enable-custom-domain-tracking}
 
 >[!NOTE]
 >
@@ -35,6 +36,6 @@ Una vez que haya confirmado con su equipo de TI que el CNAME está configurado c
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. En la pestaña Seguimiento de dominios personalizado , introduzca su CNAME y haga clic en **Connect**.
+1. En la pestaña Seguimiento de dominios personalizados, introduzca su CNAME y haga clic en **Connect**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

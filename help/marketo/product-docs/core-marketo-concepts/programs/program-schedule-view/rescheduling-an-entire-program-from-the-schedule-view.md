@@ -1,28 +1,29 @@
 ---
 unique-page-id: 1147138
-description: Reprogramación de todo un programa desde la vista de programación - Marketo Docs - Documentación del producto
-title: Reprogramación de un programa completo desde la vista de programación
+description: 'Reprogramación de un programa completo desde la vista de programación: documentos de Marketo, documentación del producto'
+title: Reprogramación de un Programa Completo desde la Vista de Programa
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-# Reprogramación de un programa completo desde la vista de programación {#rescheduling-an-entire-program-from-the-schedule-view}
+# Reprogramación de un Programa Completo desde la Vista de Programa {#rescheduling-an-entire-program-from-the-schedule-view}
 
-Cuando clona un programa o evento con fechas, es probable que desee volver a programar todas las fechas a la vez. Así es como.
+Al clonar un programa o evento con fechas, es probable que desee reprogramar todas las fechas a la vez. Así es como.
 
-1. Seleccione el programa que desee reprogramar.
+1. Seleccione el programa que desea reprogramar.
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleccione la lista desplegable Acción de evento . Choose **Reprogramar entradas**.
+1. Seleccione la lista desplegable Acción del evento. Elegir **Reprogramar entradas**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Seleccione una entrada de anclaje. En función de este movimiento, todas las demás entradas se moverán junto a él.
+1. Seleccione una entrada de anclaje. En función de este movimiento, todas las demás entradas se moverán con él.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
@@ -30,17 +31,17 @@ Cuando clona un programa o evento con fechas, es probable que desee volver a pro
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Haga clic en **Reprogramar**.
+1. Clic **Reprogramar**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. Nuestros recuperadores de datos desaprobarán, reprogramarán y reaprobarán todos sus recursos con las fechas correctas.
+1. Nuestros recuperadores de datos desaprobarán, reprogramarán y volverán a aprobar todos sus recursos con las fechas correctas.
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
 >[!NOTE]
 >
->Los recursos que ya se hayan ejecutado no se moverán.
+>Los recursos que ya se han ejecutado no se moverán.
 
 Ahora todo está reprogramado. Ajuste las fechas específicas según sea necesario.
 

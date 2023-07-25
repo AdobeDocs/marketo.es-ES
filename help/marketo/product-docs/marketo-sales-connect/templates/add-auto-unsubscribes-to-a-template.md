@@ -1,23 +1,24 @@
 ---
 unique-page-id: 14352637
-description: 'Agregar la cancelación automática de suscripciones a una plantilla: Documentos de Marketo: Documentación del producto'
-title: Añadir la cancelación automática de suscripciones a una plantilla
+description: 'Añadir cancelaciones de suscripción automáticas a una plantilla: documentos de Marketo, documentación del producto'
+title: Añadir cancelaciones de suscripción automáticas a una plantilla
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Añadir la cancelación automática de suscripciones a una plantilla {#add-auto-unsubscribes-to-a-template}
+# Añadir cancelaciones de suscripción automáticas a una plantilla {#add-auto-unsubscribes-to-a-template}
 
-1. Seleccione la plantilla y haga clic en **Editar** en la sección Cancelar suscripción .
+1. Seleccione la plantilla y haga clic en **Editar** en la sección Cancelar la suscripción.
 
-1. Seleccione si desea adjuntar la cancelación automática de la suscripción, el bloqueo automático de la cancelación de la suscripción o ambas opciones.
+1. Seleccione si desea anexar la cancelación de suscripción automática, la cancelación de la suscripción del bloque automático o ambas opciones.
 
-   Una vez guardadas estas selecciones, se anexarán automáticamente debajo de la firma cada vez que envíe correos electrónicos con esta plantilla.
+   Una vez guardadas estas selecciones, se añadirán automáticamente debajo de su firma cada vez que envíe correos electrónicos con esta plantilla.
 
 >[!NOTE]
 >
->También puede ajustar el aspecto que tienen estos mensajes de cancelación de suscripción del **Zona horaria y cancelación de suscripciones** en **Configuración**.
+>También puede ajustar la forma en que aparecen estos mensajes de cancelación de suscripción desde el **Zona horaria y cancelaciones de suscripciones** pestaña en **Configuración**.

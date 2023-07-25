@@ -1,23 +1,24 @@
 ---
-description: Vista de detalles de la persona - Documentos de Marketo - Documentación del producto
+description: Vista de detalles de persona - Documentos de Marketo - Documentación del producto
 title: Vista de detalles de persona
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
-source-git-commit: af968d119364172278d48873153a349a983133e4
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
 # Vista de detalles de persona {#person-detail-view}
 
-La vista de detalles de la persona proporciona un perfil detallado de cada persona en su cuenta de ventas de Marketo.
+La vista de detalles de persona proporciona un perfil detallado de cada persona en su cuenta de Marketo Sales.
 
-## Cómo acceder {#how-to-access}
+## Cómo acceder a {#how-to-access}
 
-1. Para acceder a la vista de detalles de la persona, haga clic en el botón **People** pestaña .
+1. Para acceder a la vista de detalles de la persona, haga clic en **People** pestaña.
 
    ![](assets/person-detail-view-1.png)
 
@@ -27,9 +28,9 @@ La vista de detalles de la persona proporciona un perfil detallado de cada perso
 
    >[!TIP]
    >
-   >En casi cualquier lugar donde vea el nombre de una persona, puede hacer clic en él y llegar a su Vista detallada de persona.
+   >En casi cualquier lugar donde se ve el nombre de una persona, se puede hacer clic en él y llegar a su Vista de detalles de la persona.
 
-## Acerca de la pestaña {#about-tab}
+## Pestaña Acerca de {#about-tab}
 
 Incluye toda la información de contacto de la persona.
 
@@ -37,20 +38,20 @@ Incluye toda la información de contacto de la persona.
 
 **Tarjeta de contacto**
 
-* Contiene información de contacto como: dirección de correo electrónico, nombre, empresa, título, número de teléfono y vínculos de medios sociales
+* Contiene información de contacto como: dirección de correo electrónico, nombre, compañía, título, número de teléfono y vínculos a medios sociales
 
 **Grupos**
 
-* Muestra y administra los grupos de los que es miembro esta persona
+* Muestra y administra los grupos a los que pertenece esta persona
 
 **Información de la cuenta**
 
 * Puede agregar una persona a Salesforce
-* Extraer la cuenta y la información de contacto/posible cliente de Salesforce
+* Extracción de información de cuenta y posible cliente/contacto de Salesforce
 
-**Campos personalizados**
+**Campos personalizados de**
 
-* Agregar o quitar campos personalizados que pueden utilizarse como campos dinámicos en las plantillas y campañas
+* Agregue o quite campos personalizados que se puedan usar como campos dinámicos en sus plantillas y campañas
 
 **Cumplimiento**
 
@@ -62,49 +63,49 @@ Incluye toda la información de contacto de la persona.
 
 ## Pestaña Participación {#engagement-tab}
 
-Vea cómo esta persona se involucra con su contacto.
+Vea cómo esta persona interactúa con su alcance.
 
 PICC
 
 **Actividad de ventas de Marketo**
 
-* Consulte las actividades de participación de los correos electrónicos y campañas de ventas
+* Consulte las actividades de participación de sus campañas y correos electrónicos de ventas
 
 **Actividad de marketing**
 
-* Ver cómo se involucra su persona con las campañas de marketing
+* Vea cómo se involucra su persona con las campañas de marketing
 
-## Ficha Historial {#history-tab}
+## Pestaña Historial {#history-tab}
 
-Muestra el historial de alcance. Incluye correos electrónicos, campañas y llamadas.
+Muestra su historial de divulgación. Incluye correos electrónicos, campañas y llamadas.
 
 PICC
 
 **Campañas de ventas**
 
-* Ver las campañas activas o completadas a las que pertenece esta persona
+* Ver todas las campañas activas o completadas a las que pertenece esta persona
 
 **Campañas de marketing**
 
-* Ver las campañas de marketing de las que es miembro esta persona
+* Ver cualquier campaña de marketing a la que esté abonada esta persona
 
-**Correos electrónicos de ventas**
+**Emails de ventas**
 
 * Ver los correos electrónicos que ha enviado a esta persona y las métricas de participación
 
 **Llamadas de venta**
 
-* Ver las llamadas que has hecho a esta persona
+* Ver las llamadas que ha realizado a esta persona
 
-## Ficha Tareas {#tasks-tab}
+## Pestaña Tareas {#tasks-tab}
 
-Administrar tareas asociadas a esta persona.
+Administrar tareas asociadas con esta persona.
 
 PICC
 
-Acciones que se pueden realizar:
+Acciones que puede realizar:
 
 * Editar o eliminar una tarea
-* Consulte la fecha de vencimiento
-* Haga clic en Tipo para iniciar el teléfono de ventas si llama a , Componer correo electrónico si es correo electrónico, Linkedin si es correo electrónico y Nota personalizada si es personalizado.
+* Ver la fecha de vencimiento
+* Haga clic en el Tipo para iniciar el teléfono de ventas si llama, Correo electrónico Maquetar si correo electrónico, LinkedIn si es Inmail y Nota personalizada si es Custom.
 * Marcar una tarea como completada

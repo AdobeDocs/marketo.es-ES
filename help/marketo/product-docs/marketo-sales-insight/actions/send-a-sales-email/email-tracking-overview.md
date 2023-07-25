@@ -1,63 +1,64 @@
 ---
 description: Información general sobre el seguimiento de correo electrónico - Documentos de Marketo - Documentación del producto
-title: Información general sobre el seguimiento de correo electrónico
+title: Resumen de seguimiento de correo electrónico
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
 
 ---
 
-# Información general sobre el seguimiento de correo electrónico {#email-tracking-overview}
+# Resumen de seguimiento de correo electrónico {#email-tracking-overview}
 
-## Cómo funciona el seguimiento de respuestas {#how-reply-tracking-works}
+## Funcionamiento del seguimiento de respuestas {#how-reply-tracking-works}
 
-El seguimiento de respuestas se realiza mirando un ID de mensaje que está en cada correo electrónico que envía. Cada correo electrónico contiene un ID de mensaje único que nos permite tener uno de los mejores seguimientos de respuestas.
+El seguimiento de respuestas se realiza mirando un ID de mensaje que hay en cada correo electrónico que envía. Cada correo electrónico contiene un ID de mensaje único que nos permite tener algunos de los mejores resultados de seguimiento de respuestas.
 
 >[!PREREQUISITES]
 >
->Conexión con el servidor de correo electrónico: Sales Connect debe estar conectado a su bandeja de entrada para saber cuándo ha llegado una nueva respuesta. Necesitará tener la cuenta de Conexión de Ventas conectada a Gmail. Si utiliza Outlook, tendremos que integrarlo con su servidor de intercambio.
+>Conexión con el servidor de correo electrónico: Sales Connect debe estar conectado con su bandeja de entrada para que podamos saber cuándo ha llegado una nueva respuesta. Es necesario que tu cuenta de Sales Connect esté conectada a Gmail. Si utiliza Outlook, tendremos que integrarlo con su servidor de Exchange.
 
-Si Sales Connect no puede rastrear la respuesta del cliente potencial a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas o en el registro de que responde a Salesforce. ¿Qué queremos decir con cualquier dirección de correo electrónico que pueda responder?
+Si Sales Connect no puede rastrear la respuesta de su posible cliente a su correo electrónico, no podrá detener una campaña basada en la detección de respuestas ni registrar esa respuesta en Salesforce. ¿Qué significa que cualquier dirección de correo electrónico puede responder?
 
-Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y responde con kevinf@flynnsarcade.com, podemos rastrear la respuesta. Además, si envía un correo electrónico a flynn@flynnsarcade.com y a CC alan@encom.com, y Alan le reescribe, también detectará la respuesta y finalizará la campaña.
+Esto significa que si envía un correo electrónico a flynn@flynnsarcade.com y él responde con kevinf@flynnsarcade.com, podremos realizar un seguimiento de la respuesta. Además, si envías un correo electrónico a flynn@flynnsarcade.com y CC alan@encom.com, y Alan te devuelve una respuesta, también detectará la respuesta y finalizará la campaña.
 
-## Cómo rastrear los archivos adjuntos de correo electrónico {#how-to-track-your-email-attachments}
+## Seguimiento de los archivos adjuntos del correo electrónico {#how-to-track-your-email-attachments}
 
-Sales Connect ofrece un seguimiento de los archivos adjuntos (.doc, .ppt, .pdf) para que pueda ver cuándo se han abierto o descargado y qué páginas está buscando el destinatario. Le permitiremos utilizar nuestra función de archivos adjuntos rastreables desde ambos [aplicación web](https://toutapp.com/login) y Gmail (o aplicaciones de Google).
+Sales Connect ofrece seguimiento de los archivos adjuntos (.doc, .ppt, .pdf) para que pueda ver cuándo se han abierto o descargado y qué páginas está viendo el destinatario. Le permitiremos utilizar nuestra función de archivos adjuntos a los que se puede realizar un seguimiento desde el [aplicación web](https://toutapp.com/login) y Gmail (o aplicaciones de Google).
 
 >[!NOTE]
 >
->El seguimiento de archivos adjuntos solo está disponible para nuestros planes de equipo (a partir de nuestro plan g3startup).
+>El seguimiento de archivos adjuntos solo está disponible para nuestros planes de equipo (a partir de nuestro plan de inicio g3).
 
 **Cómo enviar el primer archivo adjunto rastreable**
 
-1. Redacte un correo electrónico o edite una plantilla y, a continuación, haga clic en el botón **Contenido** botón.
+1. Componga un correo electrónico o edite una plantilla y, a continuación, haga clic en **Contenido** botón.
 
-1. Cargue el archivo adjunto y envíelo. Admitimos PDF, documentos de Word y presentaciones de PowerPoint.
+1. Cargue el archivo adjunto y envíelo. Admitimos PDF, documentos de Word y presentaciones de Powerpoint.
 
-1. Select **Añadir a correo electrónico**.
+1. Seleccionar **Añadir a correo electrónico**.
 
-1. Haga clic en **Enviar** y activa tu fuente de lanzamiento. Verá los destinatarios a medida que se abren y se desplazan por sus archivos adjuntos.
+1. Clic **Enviar** y activa tu Live Feed. Verá sus destinatarios a medida que abran y pasen página a través de los archivos adjuntos.
 
 >[!TIP]
 >
->Si no desea rastrear un archivo adjunto, simplemente haga clic en Adjuntar archivos y este archivo adjunto no se rastreará.
+>Si no desea rastrear un archivo adjunto, simplemente haga clic en Adjuntar archivos y no se rastreará este archivo adjunto.
 
-## Cómo funciona el seguimiento de vista {#how-view-tracking-works}
+## Funcionamiento del seguimiento de vistas {#how-view-tracking-works}
 
-Para rastrear las aperturas de correo electrónico, colocamos una imagen invisible dentro de los correos electrónicos que envía.
+Rastreamos las aperturas de correos electrónicos colocando una imagen invisible dentro de los correos electrónicos que envía.
 
-Si alguien responde a su correo electrónico pero Sales Connect dice que no se ha visto, es probable que el destinatario no haya activado las imágenes en su cliente de correo electrónico (es decir, haga clic en el mensaje &quot;haga clic aquí para descargar imágenes&quot; del correo electrónico).
+Si alguien responde a su correo electrónico pero Sales Connect indica que no se ha visto, es probable que el destinatario no haya habilitado imágenes en su cliente de correo electrónico (por ejemplo, haga clic en el mensaje &quot;haga clic aquí para descargar imágenes&quot; del correo electrónico).
 
 Algunas sugerencias para obtener mejores estadísticas de seguimiento en los correos electrónicos:
 
-* Incluya una imagen en los correos electrónicos (como un logotipo) para que se anime al destinatario a que active las imágenes para ver el mensaje.
-* Incluya un vínculo como llamada a la acción en el correo electrónico.
+* Incluya una imagen en los correos electrónicos (como un logotipo) para animar al destinatario a permitir que las imágenes vean el mensaje.
+* Incluya un vínculo como una llamada a la acción en el correo electrónico.
 
 ## Probar correo electrónico no mostrado como visto {#test-email-not-showed-as-viewed}
 
-Aunque hayas enviado tu mensaje a otra dirección de correo electrónico, no te registraremos viendo ningún correo electrónico que te hayas enviado en la fuente en directo. Nuestro seguimiento se basa en dispositivos; siempre que utilice un equipo con el que haya iniciado sesión en Conexión de ventas, filtraremos esa actividad.
+Incluso si ha enviado el mensaje a otra dirección de correo electrónico, no registraremos su visualización de los correos electrónicos que se haya enviado a sí mismo en la fuente en directo. Nuestro seguimiento se basa en dispositivos. Siempre y cuando utilice un equipo con el que haya iniciado sesión en Sales Connect, filtraremos esa actividad.
 
-¿La razón? Sales Connect es inteligente y nuestros usuarios activos nunca nos perdonarían si su propia información apareciera en la actividad de la fuente en directo cada vez que miraban un correo electrónico que enviaban.
+¿La razón? Sales Connect es una herramienta inteligente que los usuarios activos no nos perdonarán si aparece su propia información en la Actividad de Live Feed cada vez que consultan un correo electrónico que han enviado.

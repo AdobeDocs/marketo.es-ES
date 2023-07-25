@@ -2,10 +2,11 @@
 description: Glosario de actividades de ventas - Documentos de Marketo - Documentación del producto
 title: Glosario de actividades de ventas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+feature: Marketo Sales Connect
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 11%
+ht-degree: 16%
 
 ---
 
@@ -23,7 +24,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
 
 <table>
  <tr>
-  <th>Actividad de ventas</th>
+  <th>Actividad de venta</th>
   <th>Atributo</th>
  </tr>
  <tr>
@@ -125,7 +126,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
  </tr>
  <tr>
   <th rowspan="11">Llamada de ventas recibida</th>
-  <td>Llamada de ventas realizada por</td>
+  <td>Llamada de Sales realizada por</td>
  </tr>
  <tr>
   <td>Estado de llamada de ventas</td>
@@ -149,10 +150,10 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
   <td>Duración de llamada de ventas</td>
  </tr>
  <tr>
-  <td>URL de registro de llamadas de ventas</td>
+  <td>URL de la grabación de la llamada de Sales</td>
  </tr>
   <tr>
-  <td>Llamada de ventas respondida por</td>
+  <td>Llamada de Sales respondida por</td>
  </tr>
  <tr>
   <td>Identificación de la persona de ventas de Marketo</td>
@@ -242,7 +243,7 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
    <td>Dirección de correo electrónico de la persona que envió el correo electrónico.</td> 
   </tr>
   <tr> 
-   <td><strong>Llamada de ventas respondida por</strong></td> 
+   <td><strong>Llamada de Sales respondida por</strong></td> 
    <td>Nombre de la persona que respondió a la llamada.</td> 
   </tr>
   <tr> 
@@ -250,11 +251,11 @@ Las actividades siguientes se registrarán en Marketo desde Sales Connect.
    <td>Duración de la llamada en segundos.</td> 
   </tr>
   <tr> 
-   <td><strong>Llamada de ventas realizada por</strong></td> 
+   <td><strong>Llamada de Sales realizada por</strong></td> 
    <td>Dirección de correo electrónico del vendedor que realizó la llamada.</td> 
   </tr>
   <tr> 
-   <td><strong>URL de registro de llamadas de ventas</strong></td> 
+   <td><strong>URL de la grabación de la llamada de Sales</strong></td> 
    <td>URL de registro de llamadas.</td> 
   </tr>
   <tr> 

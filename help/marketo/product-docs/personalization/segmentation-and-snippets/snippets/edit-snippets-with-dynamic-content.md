@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2359466
-description: 'Editar fragmentos de código con contenido dinámico: Marketo Docs: documentación del producto'
-title: Editar recortes con contenido dinámico
+description: 'Edición de fragmentos con contenido dinámico: documentos de Marketo, documentación del producto'
+title: Edición de fragmentos con contenido dinámico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Editar recortes con contenido dinámico {#edit-snippets-with-dynamic-content}
+# Edición de fragmentos con contenido dinámico {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >
->* [Crear una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Creación de una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Crear un fragmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-
-Utilice la segmentación en fragmentos para administrar fácilmente el contenido dinámico de los correos electrónicos y las páginas de aterrizaje.
+Utilice la segmentación en fragmentos de código para administrar fácilmente el contenido dinámico de sus correos electrónicos y páginas de aterrizaje.
 
 ## Añadir segmentación {#add-segmentation}
 
@@ -40,7 +40,7 @@ Utilice la segmentación en fragmentos para administrar fácilmente el contenido
 
 ## Aplicar contenido dinámico {#apply-dynamic-content}
 
-1. Haga clic en un **Segmento** y, a continuación, edite el contenido. Repetir para cada segmento
+1. Haga clic en un **Segmento** y luego editar contenido. Repita el proceso para cada segmento
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -48,10 +48,9 @@ Utilice la segmentación en fragmentos para administrar fácilmente el contenido
 >
 >Recuerde aprobar el fragmento antes de utilizarlo.
 
-¿No era tan simple? Ahora todos están configurados para utilizar estos fragmentos en correos electrónicos y páginas de aterrizaje.
+¿No fue así de simple? Ya está todo configurado para utilizar estos fragmentos en correos electrónicos y páginas de aterrizaje.
 
 >[!MORELIKETHIS]
 >
 >* [Añadir un fragmento de código a un correo electrónico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [Agregar un fragmento a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-
+>* [Añadir un fragmento a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

@@ -3,26 +3,27 @@ unique-page-id: 17727591
 description: Conexión de correo electrónico para usuarios de Outlook - Documentos de Marketo - Documentación del producto
 title: Conexión de correo electrónico para usuarios de Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Conexión de correo electrónico para usuarios de Outlook {#email-connection-for-outlook-users}
 
-Aprenda a conectar su cuenta de Conexión de ventas con Outlook.
+Obtenga información sobre cómo conectar su cuenta de Sales Connect con Outlook.
 
 >[!NOTE]
 >
->Cada usuario debe conectarse a Outlook desde su cuenta de Conexión de ventas.
+>Cada usuario debe conectarse a Outlook desde su cuenta de Sales Connect.
 
-## Conexión a Outlook Online {#connecting-to-outlook-online}
+## Conectarse a Outlook Online {#connecting-to-outlook-online}
 
-La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar cumplimiento.
+La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
 
-1. En Conexión de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -30,26 +31,26 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
 
    ![](assets/two.png)
 
-1. Haga clic en el **Conexión de correo electrónico** pestaña .
+1. Haga clic en **Conexión de correo electrónico** pestaña.
 
    ![](assets/three.png)
 
-1. Haga clic en **Introducción**.
+1. Clic **Primeros pasos**.
 
    ![](assets/four.png)
 
-1. Select **Utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccionar **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
-1. Seleccione la versión de Outlook que está utilizando y haga clic en **Siguiente**. En este ejemplo elegimos Outlook Online.
+1. Seleccione la versión de Outlook que está utilizando y haga clic en **Siguiente**. En este ejemplo elegimos Outlook en línea.
 
    ![](assets/six-a.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook en línea</strong></td> 
+      <td><strong>Outlook Online</strong></td> 
       <td>También conocido como Exchange Online</td> 
      </tr>
      <tr>
@@ -63,15 +64,15 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
    >
    >Marketo no admite cuentas híbridas de Exchange en este momento.
 
-1. Haga clic en **OK**.
+1. Clic **OK**.
 
    ![](assets/seven-a.png)
 
-1. Si no ha iniciado sesión en Outlook, introduzca la información de inicio de sesión y haga clic en **Siguiente**. Si lo está, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
+1. Si no ha iniciado sesión en Outlook, escriba la información de inicio de sesión y haga clic en **Siguiente**. Si es así, elija la cuenta a la que desea conectarse y haga clic en **Siguiente**. En este ejemplo, ya hemos iniciado sesión.
 
    ![](assets/eight-a.png)
 
-1. Haga clic en **Accept**.
+1. Clic **Aceptar**.
 
    ![](assets/nine-a.png)
 
@@ -81,11 +82,11 @@ La conexión a Outlook significa que recibirá seguimiento de respuestas, acceso
    >
    >Outlook Online (Office365) aplica sus propios límites de envío. [Obtenga más información aquí](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
-## Conexión a Exchange On-Premise {#connecting-to-exchange-on-premise}
+## Conectarse a Exchange local {#connecting-to-exchange-on-premise}
 
-La conexión a Exchange On-Premise significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar cumplimiento de normas.
+La conexión a Exchange local significa que recibirá seguimiento de respuestas, acceso al canal de entrega de Outlook, la capacidad de programar correos electrónicos en Outlook y enviar conformidad.
 
-1. En Conexión de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -93,15 +94,15 @@ La conexión a Exchange On-Premise significa que recibirá seguimiento de respue
 
    ![](assets/two.png)
 
-1. Haga clic en el **Conexión de correo electrónico** pestaña .
+1. Haga clic en **Conexión de correo electrónico** pestaña.
 
    ![](assets/three.png)
 
-1. Haga clic en **Introducción**.
+1. Clic **Primeros pasos**.
 
    ![](assets/four.png)
 
-1. Select **Utilizo Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
+1. Seleccionar **Uso Outlook para enviar correos electrónicos** y haga clic en **Siguiente**.
 
    ![](assets/five-a.png)
 
@@ -112,7 +113,7 @@ La conexión a Exchange On-Premise significa que recibirá seguimiento de respue
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook en línea</strong></td> 
+      <td><strong>Outlook Online</strong></td> 
       <td>También conocido como Exchange Online</td> 
      </tr>
      <tr>
@@ -122,16 +123,16 @@ La conexión a Exchange On-Premise significa que recibirá seguimiento de respue
     </tbody>
    </table>
 
-1. Introduzca sus credenciales y haga clic en **Connect**.
+1. Introduzca sus credenciales de y haga clic en **Connect**.
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >Si desactiva Autodiscover en la lista desplegable Versión de Exchange , deberá solicitar al departamento de TI la URL de Exchange.
+   >Si desactiva Detección automática en la lista desplegable Versión de Exchange, tendrá que solicitar a su departamento de TI la URL de Exchange.
 
    Puede utilizar esta conexión para rastrear correos electrónicos y también como canal de envío.
 
    >[!NOTE]
    >
-   >Al utilizar Exchange On-Premim, su equipo de TI establecerá su límite de envío de correo electrónico.
+   >Al utilizar Exchange local, su equipo de TI establecerá el límite de envío de correo electrónico.

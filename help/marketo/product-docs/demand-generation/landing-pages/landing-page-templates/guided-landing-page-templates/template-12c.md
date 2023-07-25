@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9437580
-description: 'Plantilla 12C: Documentos de Marketo: Documentación del producto'
+description: 'Plantilla 12C: Documentos de Marketo: documentación del producto'
 title: Plantilla 12C
 exl-id: 23229f5a-6d79-4501-bd3b-56fccc2fa4cd
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -21,9 +22,9 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye título a pantalla completa, texto a pantalla completa y encuesta
+   * incluye título de héroe, texto de héroe y encuesta
 
-* Seis secciones de cuerpo (opcional)
+* Seis secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

@@ -1,111 +1,112 @@
 ---
 unique-page-id: 10092925
-description: Vista previa y prueba de una campaña web - Documentos de Marketo - Documentación del producto
-title: Vista previa y prueba de una campaña web
+description: 'Previsualización y prueba de una campaña web: documentos de Marketo, documentación del producto'
+title: Previsualización y prueba de una campaña web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-# Vista previa y prueba de una campaña web {#preview-and-test-a-web-campaign}
+# Previsualización y prueba de una campaña web {#preview-and-test-a-web-campaign}
 
-Este artículo muestra distintas formas de obtener una vista previa de una campaña web y también cómo probarla con un segmento de simulación de pruebas en directo en el sitio web.
+Este artículo muestra diferentes formas de previsualizar una campaña web y también cómo probarla con un segmento de zona protegida activo en el sitio web.
 
 >[!NOTE]
 >
->La vista previa solo muestra el aspecto que tendrá la campaña en el sitio elegido. Los vínculos y las utilidades no funcionarán como para evitar clics o vistas incorrectas en Analytics.
+>La vista previa solo muestra el aspecto que tendrá la campaña en el sitio elegido. Los vínculos y widgets no funcionarán para evitar clics o vistas erróneos en el análisis.
 
-## Vista preliminar de una campaña web en la página de creación {#preview-a-web-campaign-on-the-creation-page}
+## Vista previa de una campaña web en la página de creación {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vaya a **Campañas web**.
+1. Ir a **Campañas web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Haga clic en **Crear nueva campaña web** o el icono para editar una campaña existente.
+1. Clic **Creación de una nueva campaña web** o el icono para editar una campaña existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. En Vista previa en el sitio, añada la dirección URL de la página y haga clic en **Vista previa**. Se abre una nueva ventana o pestaña que muestra la vista previa de la campaña.
+1. En Vista previa en el sitio, agregue la dirección URL de la página y haga clic en **Previsualizar**. Se abre una nueva ventana/pestaña con la vista previa de la campaña.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Haga clic en **Compartir** para abrir un correo electrónico con una dirección URL fija de la vista previa de la campaña.
+   >Clic **Compartir** para abrir un correo electrónico con una dirección URL fija de la vista previa de la campaña.
 
    >[!NOTE]
    >
-   >También tiene la opción de instalar un complemento del explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia y obtener una vista previa de la campaña. Consulte la siguiente sección.
+   >También tiene la opción de instalar un complemento del explorador (ya sea [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obtener la mejor experiencia al previsualizar la campaña. Consulte la sección siguiente.
 
-## Vista preliminar de una campaña web en la página de creación mediante el complemento del explorador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## Vista previa de una campaña web en la página de creación mediante el complemento del explorador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Siga los pasos 1 y 2 de la sección anterior.
 
-1. Haga clic en el vínculo al complemento del explorador (en este caso, estamos usando Chrome).
+1. Haga clic en el vínculo al complemento del explorador (en este caso se utiliza Chrome).
 
    ![](assets/4-1.png)
 
-1. Se abre una nueva ventana o pestaña. Haga clic en **Añadir a Chrome**.
+1. Se abre una nueva ventana/pestaña. Clic **Añadir a Chrome**.
 
    ![](assets/five.png)
 
-1. Haga clic en **Agregar extensión**.
+1. Clic **Añadir extensión**.
 
    ![](assets/six.png)
 
-1. Vuelva a Marketo. Añada la dirección URL de la página y haga clic en **Vista previa**.
+1. Vuelva a Marketo. Añada la dirección URL de la página y haga clic en **Previsualizar**.
 
    ![](assets/seven.png)
 
-1. Se abre una nueva ventana o pestaña que permite obtener una vista previa del aspecto de la campaña en un escritorio, teléfono o tableta.
+1. Se abre una nueva ventana o pestaña que le permite obtener una vista previa del aspecto de la campaña en un escritorio, un teléfono o una tableta.
 
    ![](assets/campaign-preview.png)
 
-## Vista preliminar de una campaña web en la página Campañas web {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Vista previa de una campaña web en la página de campañas web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Al consultar la lista de sus campañas web, simplemente elija una campaña y haga clic en el botón **Vista previa** icono.
+1. Al ver la lista de sus campañas web, simplemente elija una campaña y haga clic en **Previsualizar** icono.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
-   ¡Fácil!
+   ¡Tranquilo!
 
-## Vista preliminar de una campaña web en el sitio web {#preview-a-web-campaign-on-your-website}
+## Vista previa de una campaña web en el sitio web {#preview-a-web-campaign-on-your-website}
 
-Cree un segmento y una campaña de entorno limitado.
+Cree un segmento y una campaña de zona protegida.
 
-1. Vaya a **Segmentos**.
+1. Ir a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Haga clic en **Crear nuevo**.
+1. Clic **Crear nuevo**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Asigne un nombre al segmento.
 
-1. En Comportamiento, arrastre Incluir páginas al lienzo. Adición del valor &#42;sandbox=1&#42;. Haga clic en **Guardar y definir campaña**.
+1. En Comportamiento, arrastre Incluir páginas al lienzo. Añada el valor &#42;sandbox=1&#42;. Clic **Guardar y definir la campaña**.
 
    ![](assets/segment.png)
 
-1. En la página Definir campaña web , cambie el segmento de destino al segmento de entorno limitado seleccionándolo en la lista.
+1. En la página Definir campaña web, cambie el segmento de Target al segmento de zona protegida seleccionándolo en la lista.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Complete el elemento creativo de la campaña y haga clic en **Launch**.
+1. Complete el elemento creativo de la campaña y haga clic **Launch**.
 
    ![](assets/click-launch.jpg)
 
-1. Vaya a su sitio web, añada el parámetro de URL &quot;?sandbox=1&quot; al final de la dirección URL. Ejemplo: `www.marketo.com?sandbox=1`.
+1. Vaya al sitio web y añada el parámetro de URL &quot;?sandbox=1&quot; al final de la dirección URL. Ejemplo: `www.marketo.com?sandbox=1`.
 
-1. Consulte la reacción de la campaña en su sitio web.
-
->[!NOTE]
->
->Las campañas solo reaccionan una vez durante una sesión de visitante. Para volver a ver la campaña, borre las cookies del explorador.
+1. Consulte la reacción de la campaña en el sitio web.
 
 >[!NOTE]
 >
->No se puede obtener una vista previa de las campañas de redireccionamiento. La única manera de probarlos es mediante un segmento de simulación de pruebas (que se orienta a páginas específicas). &#42;sandbox=redirect&#42;)
+>Las campañas reaccionan solo una vez durante una sesión del visitante. Para volver a ver la campaña, borre las cookies del explorador.
+
+>[!NOTE]
+>
+>No se pueden previsualizar las campañas de redireccionamiento. La única manera de probarlos es usando un segmento de zona protegida (segmentado por páginas específicas: &#42;sandbox=redirect&#42;)

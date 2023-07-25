@@ -1,24 +1,25 @@
 ---
 unique-page-id: 37355755
-description: 'Bloqueo de contenido: Documentos de Marketo: Documentación del producto'
-title: Bloqueo de contenido
+description: 'Bloqueo de contenido: documentos de Marketo, documentación del producto'
+title: Bloqueo del contenido
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Bloqueo de contenido {#content-lockdown}
+# Bloqueo del contenido {#content-lockdown}
 
-Al habilitar el bloqueo de contenido, restrinja a los usuarios que no sean administradores de la edición de plantillas o campañas. Los usuarios no podrán: compartir, clonar, editar o eliminar contenido. Tampoco tendrán la opción de archivar plantillas.
+Al habilitar el bloqueo de contenido, impida que los usuarios que no sean administradores editen plantillas o campañas. Los usuarios no podrán: compartir, clonar, editar ni eliminar contenido. Tampoco tendrán la opción de archivar las plantillas.
 
 >[!NOTE]
 >
->Usuarios **will** podrá editar el contenido de un correo electrónico en el momento del envío o al iniciar una campaña.
+>Usuarios **testamento** seguir pudiendo editar el contenido de un correo electrónico en el momento de enviarlo o al iniciar una campaña.
 
-1. En Conexión de ventas, haga clic en el icono de configuración y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de configuración y seleccione **Configuración**.
 
    ![](assets/one-4.png)
 
@@ -26,6 +27,6 @@ Al habilitar el bloqueo de contenido, restrinja a los usuarios que no sean admin
 
    ![](assets/two-4.png)
 
-1. Desplácese hacia abajo hasta Bloqueo de contenido. Activar cualquiera de los controles deslizantes _disable_ la capacidad de los integrantes del equipo para crear/editar plantillas o campañas.
+1. Desplácese hacia abajo hasta Bloqueo de contenido. Activar cualquiera de los controles deslizantes _disable_ la capacidad de los integrantes del equipo para crear o editar plantillas o campañas.
 
    ![](assets/three-4.png)

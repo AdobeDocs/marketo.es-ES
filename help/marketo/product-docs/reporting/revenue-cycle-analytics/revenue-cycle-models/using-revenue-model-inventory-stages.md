@@ -1,26 +1,27 @@
 ---
 unique-page-id: 4718666
 description: Uso de etapas de inventario del modelo de ingresos - Documentos de Marketo - Documentación del producto
-title: Uso de etapas de inventario del modelo de ingresos
+title: Uso de Etapas de Inventario del Modelo de Ingresos
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# Uso de etapas de inventario del modelo de ingresos {#using-revenue-model-inventory-stages}
+# Uso de Etapas de Inventario del Modelo de Ingresos {#using-revenue-model-inventory-stages}
 
-Todos los posibles clientes y cuentas conocidos residen inicialmente en la fase de inventario. Este grupo de posibles clientes es donde se alimentan los posibles clientes hasta que estén listos para las ventas. No hay límite de tiempo en una etapa de inventario.
+Todos los posibles clientes y cuentas conocidos residen inicialmente en la fase de inventario. Este grupo de clientes potenciales es donde se nutren los posibles clientes hasta que estén listos para las ventas. No hay límite de tiempo en una fase de inventario.
 
 >[!TIP]
 >
->Es una buena idea crear un modelo de práctica en un programa de gráficos o presentaciones y confirmarlo primero con sus colegas.
+>Es una idea buena crear un modelo de práctica en un programa de gráficos o presentación y confirmarlo primero con sus colegas.
 
-## Agregar Una Etapa De Inventario {#add-an-inventory-stage}
+## Agregar Una Fase De Inventario {#add-an-inventory-stage}
 
-1. Para agregar una nueva etapa de inventario del modelo de ciclo de ingresos, haga clic en el botón **Analytics** en el **Mi Marketo** pantalla de inicio.
+1. Para agregar una nueva etapa de inventario del modelo del ciclo de ingresos, haga clic en **Analytics** botón en el **Mi Marketo** pantalla de inicio.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
@@ -28,21 +29,21 @@ Todos los posibles clientes y cuentas conocidos residen inicialmente en la fase 
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Haga clic en **Editar borrador**.
+1. Clic **Editar borrador**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para agregar una nueva etapa de inventario, haga clic en el botón **Inventario** , luego arrastre y suelte en cualquier lugar dentro del lienzo.
+1. Para añadir una nueva etapa de inventario, haga clic en **Inventario** y, a continuación, arrastre y suelte en cualquier lugar del lienzo.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Puede editar el Nombre, agregar una Descripción y ajustar el Tipo después de agregar un escenario. También puede seleccionar **[Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
+1. Puede editar el nombre, añadir una descripción y ajustar el tipo después de añadir una fase. También puede seleccionar **[Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** en este momento.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
-## Editar una etapa de inventario {#edit-an-inventory-stage}
+## Editar una fase de inventario {#edit-an-inventory-stage}
 
-Al seleccionar un icono de inventario, puede editar la variable **Nombre**, agregue un **Descripción** o ajustar el **Tipo**. También puede seleccionar [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Al seleccionar un icono de inventario, puede editar la variable **Nombre**, añada un **Descripción** o ajuste el **Tipo**. También puede seleccionar [Iniciar el seguimiento por cuenta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Haga clic en un icono de inventario.
 
@@ -52,22 +53,22 @@ Al seleccionar un icono de inventario, puede editar la variable **Nombre**, agre
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Seleccione el **Tipo** para editar.
+1. Seleccione el **Tipo** desplegable para editar.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
-## Eliminar Una Etapa De Inventario {#delete-an-inventory-stage}
+## Eliminar Una Fase Del Inventario {#delete-an-inventory-stage}
 
-1. Puede eliminar una etapa de inventario haciendo clic con el botón derecho o controlando el clic en un icono de etapa de inventario.
+1. Puede eliminar una fase de inventario haciendo clic con el botón derecho o controlando la selección de un icono de fase de inventario.
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. También puede eliminar un escenario haciendo clic en él y luego en la **Acciones de fase** menú desplegable, seleccione **Eliminar**.
+1. También puede eliminar una fase haciendo clic en ella y, a continuación, en **Acciones de fase** menú desplegable, seleccione **Eliminar**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Ambos métodos de eliminación le piden que confirme su elección. Haga clic en **Eliminar**.
+1. Ambos métodos de eliminación le piden que confirme su elección. Clic **Eliminar**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 
-¡Felicidades! Ahora entienden el maravilloso mundo de las etapas de inventario.
+¡Felicidades! Ahora comprende el maravilloso mundo de las Etapas de Inventario.

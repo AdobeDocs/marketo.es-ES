@@ -1,28 +1,29 @@
 ---
 unique-page-id: 18317369
-description: Ver la lista de plantillas como otro usuario - Documentos de Marketo - Documentación del producto
-title: Ver la lista de plantillas como otro usuario
+description: Ver lista de plantillas como otro usuario - Documentos de Marketo - Documentación del producto
+title: Ver lista de plantillas como otro usuario
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Ver la lista de plantillas como otro usuario {#view-template-list-as-another-user}
+# Ver lista de plantillas como otro usuario {#view-template-list-as-another-user}
 
 Como administrador, puede ver las plantillas como cualquier usuario.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador**
+>**Permisos de administración necesarios**
 
-1. Haga clic en **Plantillas**.
+1. Clic **Plantillas**.
 
    ![](assets/one.png)
 
-1. Haga clic en el **Ver como** y seleccione el usuario que desee.
+1. Haga clic en **Ver como** y seleccione el usuario que desee.
 
    ![](assets/two.png)
 
@@ -32,4 +33,4 @@ Como administrador, puede ver las plantillas como cualquier usuario.
 
    >[!NOTE]
    >
-   >También puede utilizar filtros o la función de búsqueda, junto con Ver como, para ver qué es lo que más le interesa.
+   >También puede utilizar filtros o la función de búsqueda junto con Ver como para ver qué es lo más relevante para usted.

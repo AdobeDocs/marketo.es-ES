@@ -1,22 +1,23 @@
 ---
 unique-page-id: 13795727
-description: Anular la entrega de programas de correo electrónico programados con el huso horario del destinatario - Marketo Docs - Documentación del producto
-title: Anular la entrega de programas de correo electrónico programados con el huso horario del destinatario
+description: Anular la entrega de programas de correo electrónico programados con la zona horaria del destinatario - Documentos de Marketo - Documentación del producto
+title: Anular la entrega de programas de correo electrónico programados con la zona horaria del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Anular la entrega de programas de correo electrónico programados con el huso horario del destinatario {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# Anular la entrega de programas de correo electrónico programados con la zona horaria del destinatario {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
-En casos de emergencia, puede anular la entrega de un programa de correo electrónico que ya se haya empezado a ejecutar con la zona horaria del destinatario habilitada.
+En casos de emergencia, puede cancelar la entrega de un programa de correo electrónico que ya haya comenzado a ejecutarse con la zona horaria del destinatario habilitada.
 
-Dado que los programas de correo electrónico programados con la zona horaria del destinatario pueden ejecutarse durante un máximo de 24 horas, al cancelar la entrega del programa se cancelarán los envíos subsiguientes después de ese punto.
+Dado que los programas de correo electrónico programados con la zona horaria del destinatario pueden ejecutarse durante un máximo de 24 horas, al cancelar la entrega del programa se cancelarán los envíos posteriores a ese punto.
 
-1. Seleccione el programa de correo electrónico que desea cancelar y haga clic en **Anular entrega** en el mosaico Aprobación del panel de control.
+1. Seleccione el programa de correo electrónico que desea cancelar y haga clic en **Anular envío** en el mosaico Aprobación del panel de control.
 
    ![](assets/ptz-abortdelivery.png)
 
@@ -24,13 +25,13 @@ Dado que los programas de correo electrónico programados con la zona horaria de
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Tras la cancelación, la variable **Resultados** de su programa de correo electrónico se parecerá a la de abajo. Los envíos subsiguientes se cancelan y se mostrarán como &quot;Correo electrónico rechazado leve&quot; en la variable **Tipo de actividad** para abrir el Navegador.
+1. Tras la cancelación, el **Resultados** La cuadrícula del programa de correo electrónico tendrá un aspecto similar al de abajo. Los envíos posteriores se cancelan y aparecen como &quot;Correo electrónico rechazado suave&quot; en la **Tipo de actividad** columna.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 
    >[!NOTE]
    >
-   >Los correos electrónicos cancelados **not** mostrar como un rebote suave *hasta* la hora a la que se programó originalmente para enviarse en sus respectivas zonas horarias. Hasta ese momento, se mostrarán como &quot;Enviar correo electrónico&quot;.
+   >Los correos electrónicos cancelados **no** mostrar como una devolución suave *hasta* la hora en la que se programó originalmente que se enviaran en sus respectivos husos horarios. Hasta ese momento, se seguirán mostrando como &quot;Enviar correo electrónico&quot;.
 
 1. Desde la cuadrícula, puede hacer clic en cualquier correo electrónico para ver los detalles de la actividad. Para un envío cancelado, la ventana emergente de detalles tendrá este aspecto:
 
@@ -39,5 +40,4 @@ Dado que los programas de correo electrónico programados con la zona horaria de
 >[!MORELIKETHIS]
 >
 >* [Explicación de la zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Programar programas de correo electrónico con la zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
-
+>* [Programar programas de correo electrónico con zona horaria del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

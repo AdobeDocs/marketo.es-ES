@@ -1,26 +1,27 @@
 ---
 unique-page-id: 14745793
 description: Personalizaciones de Sales Connect para CRM - Documentos de Marketo - Documentación del producto
-title: Personalizaciones de Conexión de Ventas para CRM
+title: Personalizaciones de Sales Connect para CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '735'
 ht-degree: 1%
 
 ---
 
-# Personalizaciones de Conexión de Ventas para CRM {#sales-connect-customizations-for-crm}
+# Personalizaciones de Sales Connect para CRM {#sales-connect-customizations-for-crm}
 
-La API de metadatos de Salesforce CRM crea los campos y botones siguientes. Una vez creados los campos, los administradores deben configurar los diseños de página en su CRM para exponerlos. Se pueden encontrar instrucciones [here](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+La API de metadatos crea los campos y los botones siguientes en Salesforce CRM. Una vez creados los campos, los administradores deben configurar los diseños de página en su CRM para exponerlos. Se pueden encontrar las instrucciones [aquí](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
->Esto afecta tanto a los clientes de ToutApp como a los de Sales Connect.
+>Esto afecta tanto a los clientes de ToutApp como de Sales Connect.
 
-## Instalación de personalizaciones en Salesforce {#how-to-install-customizations-in-salesforce}
+## Cómo instalar personalizaciones en Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. En Conexión de ventas, haga clic en el icono de engranaje y seleccione **Configuración**.
+1. En Sales Connect, haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/one.png)
 
@@ -28,11 +29,11 @@ La API de metadatos de Salesforce CRM crea los campos y botones siguientes. Una 
 
    ![](assets/two.png)
 
-1. Haga clic en **Personalizaciones de Marketo Sales Connect**.
+1. Clic **Personalizaciones de Marketo Sales Connect**.
 
    ![](assets/three.png)
 
-1. Haga clic en **Conectarse a Salesforce**.
+1. Clic **Conectar con Salesforce**.
 
    ![](assets/four.png)
 
@@ -40,15 +41,15 @@ La API de metadatos de Salesforce CRM crea los campos y botones siguientes. Una 
 
    ![](assets/five.png)
 
-## Actualizar la personalización de Salesforce {#update-salesforce-customization}
+## Actualizar personalización de Salesforce {#update-salesforce-customization}
 
-Las actualizaciones del paquete Personalización de Salesforce incluirán mejoras y correcciones de errores. Para comprobar si hay actualizaciones disponibles o para realizar una actualización, siga los pasos a continuación.
+Las actualizaciones del paquete Personalización de Salesforce incluirán mejoras y correcciones de errores. Para comprobar si hay actualizaciones disponibles o realizar una actualización, siga los pasos a continuación.
 
 >[!NOTE]
 >
->**Se requieren permisos de administrador.**
+>**Permisos de administración necesarios.**
 
-1. En el [aplicación web](https://www.toutapp.com), haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En el [aplicación web](https://www.toutapp.com), haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
@@ -56,11 +57,11 @@ Las actualizaciones del paquete Personalización de Salesforce incluirán mejora
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. La tarjeta de personalización de Conexión de ventas mostrará si hay actualizaciones disponibles. Haga clic en **Actualizar personalizaciones**.
+1. La tarjeta de personalización de Sales Connect le mostrará si hay actualizaciones disponibles. Clic **Actualizar personalizaciones**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Haga clic en **Actualización**.
+1. Clic **Actualizar**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -68,28 +69,28 @@ Las actualizaciones del paquete Personalización de Salesforce incluirán mejora
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-Una vez finalizada, la tarjeta mostrará &quot;Las personalizaciones de Sales Connect están actualizadas&quot;.
+Una vez completada, en la tarjeta se mostrará &quot;Las personalizaciones de Sales Connect están actualizadas&quot;.
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
 ## Campos de actividad personalizada {#custom-activity-fields}
 
-Marketo detectará la creación de los nuevos campos y, a continuación, realizará un rellenado único de datos, una reasignación y una sincronización continua de valores en la variable **new** solo campos. Los campos antiguos no se actualizarán.
+Marketo detectará la creación de los nuevos campos y, a continuación, rellenará una vez los datos, volverá a asignar y realizará una sincronización continua de valores con **nuevo** solo campos de. Los campos antiguos no se actualizarán.
 
 | **Nombre del campo** | **Descripción** |
 |---|---|
-| ID de presencia local de llamada MSE | Como usuario, puede elegir la presencia local como opción cuando realiza llamadas desde el teléfono MSE. Las llamadas entrantes mostrarán un número local para el receptor. |
-| URL de registro de llamada MSE | Las llamadas se pueden registrar y un enlace para la grabación se registrará aquí. |
-| Campaña MSE | Registra el nombre de la campaña MSE de la que es miembro el contacto/posible cliente. |
-| URL de campaña de MSE | Registra la dirección URL de la campaña creada en MSE. Al hacer clic en esto, se abrirá la campaña en la aplicación web MSE. |
-| Etapa actual de la campaña MSE | Si un contacto/posible cliente es parte de una campaña, este campo registrará el nombre del paso en el que se encuentra el contacto/posible cliente. |
-| Archivos adjuntos de correo electrónico de MSE vistos | Registra los datos cuando se envía un correo electrónico con un archivo adjunto y el destinatario lo ve. |
-| Correo electrónico de MSE en el que se hizo clic | Registra una marca de verificación cuando el destinatario hace clic en un vínculo de un correo electrónico. |
+| ID de presencia local de llamada MSE | Como usuario, puede elegir la presencia local como opción cuando realice llamadas desde el teléfono MSE. Las llamadas entrantes mostrarán un número local para el receptor. |
+| URL de grabación de llamadas MSE | Las llamadas se pueden grabar y aquí se registrará un vínculo para la grabación. |
+| Campaña MSE | Registra el nombre de la campaña de MSE a la que pertenece el contacto/posible cliente. |
+| URL de campaña de MSE | Registra la URL de la campaña creada en MSE. Al hacer clic en esta opción, se abre la campaña en la aplicación web de MSE. |
+| Etapa actual de la campaña de MSE | Si un contacto/posible cliente forma parte de una campaña, este campo registrará el nombre de la etapa en la que se encuentra actualmente el contacto/posible cliente. |
+| Archivos adjuntos de correo electrónico MSE vistos | Registra datos cuando se envía un correo electrónico con un archivo adjunto y este lo ve el destinatario. |
+| Correo electrónico MSE pulsado | Registra una marca de verificación cuando el destinatario hace clic en un vínculo de un correo electrónico. |
 | Correo electrónico de MSE respondido | Registra una marca de verificación cuando el destinatario responde a un correo electrónico. |
-| Estado de correo electrónico de MSE | Muestra si se envía/está en curso/si se devuelve un correo electrónico (el seguimiento de los correos electrónicos devueltos depende del canal de envío utilizado). |
-| Plantilla de correo electrónico MSE | Nombre de registro de la plantilla MSE que se utilizó en el correo electrónico enviado al posible cliente o contacto. |
-| URL de plantilla de correo electrónico MSE | Registra la dirección URL de la plantilla creada en MSE. Al hacer clic en esto, se abrirá la plantilla en la aplicación web MSE. |
-| URL de correo electrónico de MSE | Al hacer clic en esta URL, se abrirá el Centro de comandos en MSE y se abrirá la pestaña del historial de vista de detalles de personas , donde podrá ver el correo electrónico enviado. |
+| Estado de correo electrónico MSE | Muestra si un correo electrónico se envía/está en curso/se rechaza (el seguimiento de los correos electrónicos rechazados depende del canal de envío utilizado). |
+| Plantilla de correo electrónico de MSE | Registra el nombre de la plantilla MSE que se utilizó en el correo electrónico enviado al posible cliente/contacto. |
+| URL de plantilla de correo electrónico MSE | Registra la dirección URL de la plantilla creada en MSE. Al hacer clic en esta opción, se abrirá la plantilla en la aplicación web de MSE. |
+| URL de correo electrónico MSE | Al hacer clic en esta URL, se abrirá el Centro de comandos en MSE y se abrirá la pestaña Historial de vista de detalles de personas, donde podrá ver el correo electrónico enviado. |
 | Correo electrónico de MSE visto | Registra una marca de verificación cuando el destinatario ve un correo electrónico. |
 
 ## Campos de registro resumidos {#roll-up-logging-fields}
@@ -105,23 +106,23 @@ Marketo detectará la creación de los nuevos campos y, a continuación, realiza
    <td><strong>Descripción</strong></td> 
   </tr> 
   <tr> 
-   <td>MSE: último compromiso de marketing</td> 
+   <td>MSE: Última participación de marketing</td> 
    <td>Última participación entrante de Marketing. </td> 
   </tr> 
   <tr> 
-   <td>MSE - Última fecha de compromiso de marketing</td> 
-   <td>Marca de tiempo de la participación de Marketing.</td> 
+   <td>MSE - Fecha de la última participación en marketing</td> 
+   <td>Marca de tiempo de la participación del departamento de marketing.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Última descripción de participación de marketing</td> 
+   <td>MSE: Última descripción de la participación de marketing</td> 
    <td>Descripción de la participación.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Última fuente de participación en marketing</td> 
-   <td>Fuente de la participación de Marketing.</td> 
+   <td>MSE: último origen de participación de marketing</td> 
+   <td>Origen de la participación de marketing.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE - Último tipo de compromiso de marketing</td> 
+   <td colspan="1">MSE: último tipo de participación de marketing</td> 
    <td colspan="1">Tipo de participación.</td> 
   </tr> 
   <tr> 
@@ -134,11 +135,11 @@ Marketo detectará la creación de los nuevos campos y, a continuación, realiza
   </tr> 
   <tr> 
    <td colspan="1">MSE - Campaña de ventas actual</td> 
-   <td colspan="1">Registra el nombre de la campaña de MSE a la que pertenece el posible cliente o contacto.</td> 
+   <td colspan="1">Registra el nombre de la campaña de MSE a la que pertenece el posible cliente/contacto.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">MSE: último compromiso de ventas</td> 
-   <td colspan="1">Última contratación entrante de Ventas. </td> 
+   <td colspan="1">MSE: Último acuerdo de ventas</td> 
+   <td colspan="1">Último compromiso entrante de Ventas. </td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE: exclusión</td> 
@@ -151,17 +152,17 @@ Marketo detectará la creación de los nuevos campos y, a continuación, realiza
 
 | **Nombre del botón** | **Descripción** |
 |---|---|
-| Enviar correo electrónico MSE | Enviar correos electrónicos de ventas desde Salesforce. |
-| Añadir a MSE Campaign | Agregue a las campañas MSE desde Salesforce. |
-| Insertar en MSE | Insertar contacto de Salesforce a MSE. |
-| Llame a con MSE | Realizar llamadas de ventas desde Salesforce. |
+| Enviar correo electrónico MSE | Envíe correos electrónicos de ventas desde Salesforce. |
+| Añadir a campaña de MSE | Agregar a campañas MSE desde Salesforce. |
+| Insertar en MSE | Contacto push de Salesforce a MSE. |
+| Llamada con MSE | Realice llamadas de ventas desde Salesforce. |
 
 ## Botones de acción masiva {#bulk-action-buttons}
 
 | **Nombre del botón** | **Descripción** |
 |---|---|
-| Añadir a MSE Campaign | Agregue a las campañas MSE desde Salesforce. |
-| Insertar en MSE | Insertar contacto de Salesforce a MSE. |
+| Añadir a campaña de MSE | Agregar a campañas MSE desde Salesforce. |
+| Insertar en MSE | Contacto push de Salesforce a MSE. |
 
 ## Guías del usuario {#user-guides}
 

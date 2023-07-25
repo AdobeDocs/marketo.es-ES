@@ -1,28 +1,29 @@
 ---
 unique-page-id: 10100644
 description: Configuración del botón Mensaje en la aplicación - Documentos de Marketo - Documentación del producto
-title: Configuración del botón Mensaje en la aplicación
+title: Configurar el botón Mensaje en la aplicación
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Configuración del botón Mensaje en la aplicación {#set-up-the-in-app-message-button}
+# Configurar el botón Mensaje en la aplicación {#set-up-the-in-app-message-button}
 
 Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su propia imagen de botón personalizada.
 
-1. Haga clic en el botón para abrir la ficha Estilo para editarlo.
+1. Haga clic en el botón para abrir la pestaña Estilo y editarla.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Para cambiar el color del botón estándar, haga clic en el botón **Color** botón.
+1. Para cambiar el color del botón estándar, haga clic en **Color** botón.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Haga clic en el cuadrado de selección de color y seleccione el color del botón haciendo clic en él o introduciendo los números hexadecimales o RGB en el selector de color.
+1. Haga clic en el cuadrado de selección de color y seleccione el color del botón haciendo clic en él o introduciendo los números hexadecimales o de RGB en el selector de color.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
@@ -30,19 +31,19 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Si desea utilizar su propia imagen para un botón, haga clic en el botón Imagen y luego en **Seleccionar imagen**.
+1. Si desea utilizar su propia imagen para un botón, haga clic en el botón Imagen y en **Seleccionar imagen**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Elija la imagen y haga clic en **Select**.
+1. Seleccione la imagen y haga clic en **Seleccionar**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Al colocar una imagen personalizada para el botón, considere la posibilidad de borrar el texto del marcador de posición que se le ha colocado si la imagen ya incluye texto.
+   >Al colocar una imagen personalizada para el botón, considere la posibilidad de borrar el texto del marcador de posición colocado sobre él si la imagen ya incluye texto.
 
-1. Haga clic en el cuadrado de selección de color y, a continuación, seleccione el color de fuente haciendo clic en él o introduciendo números hexadecimales o RGB en el selector de color.
+1. Haga clic en el cuadrado de selección de color y, a continuación, seleccione el color de fuente haciendo clic en él o introduciendo números hexadecimales o de RGB en el selector de color.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -58,22 +59,21 @@ Puede utilizar el diseño de botón predeterminado, modificarlo o cargar su prop
 
    ![](assets/image2016-5-6-16-3a46-3a17.png)
 
-1. Marque la casilla para definir la acción de toque del botón.
+1. Marque la casilla para establecer la acción de toque de botón.
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-1. Haga clic en la lista desplegable de cada plataforma y seleccione una acción de toque.
+1. Haga clic en el menú desplegable de cada plataforma y seleccione una acción de toque.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >El botón siempre tiene una acción de toque, por lo que la casilla de verificación Pulsar acción está seleccionada automáticamente, con el mensaje predeterminado &quot;Descartar mensaje&quot;.
+   >El botón siempre tiene una acción de toque, por lo que la casilla de verificación Acción de toque se selecciona automáticamente, con el mensaje predeterminado &quot;Descartar mensaje&quot;.
 
-Casi ahí. El último paso es [configurar el fondo del mensaje en la aplicación y el botón de rechazo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Ya casi está. El último paso es [configurar el fondo del mensaje en la aplicación y el botón desechar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Explicación de los mensajes en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Elija un diseño para el mensaje en la aplicación](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

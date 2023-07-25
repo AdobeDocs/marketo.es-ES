@@ -1,20 +1,21 @@
 ---
 unique-page-id: 10093348
-description: 'Información sobre las tarjetas de campaña inteligentes: Documentos de Marketo: Documentación del producto'
-title: Información sobre las tarjetas de campaña inteligentes
+description: 'Explicación de las tarjetas de campaña inteligentes: Documentos de Marketo, documentación del producto'
+title: Explicación de las tarjetas Smart Campaign
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-# Información sobre las tarjetas de campaña inteligentes {#understanding-smart-campaign-cards}
+# Explicación de las tarjetas Smart Campaign {#understanding-smart-campaign-cards}
 
-Utilice Marketo Moments para ver cada ejecución de sus campañas inteligentes desde su smartphone o iPad. La tarjeta de campaña inteligente Marketo Moments representa una sola ejecución de una campaña; aparece una tarjeta nueva cada vez que se ejecuta la campaña inteligente. Las tarjetas de campaña inteligentes están marcadas con una bombilla en la parte superior izquierda.
+Utilice Momentos de Marketo para ver cada ejecución de sus campañas inteligentes desde su teléfono inteligente o iPad. La tarjeta de campaña inteligente Momentos de Marketo representa una sola ejecución de una campaña; cada vez que se ejecuta la campaña inteligente aparece una nueva tarjeta. Las tarjetas de campaña inteligentes están marcadas con una bombilla en la parte superior izquierda.
 
-En futuras campañas inteligentes que estén programadas pero que aún no se hayan ejecutado, la tarjeta Momentos de Marketo aún no muestra ninguna estadística de campaña. Aparecerán en una versión futura.
+En el caso de futuras campañas inteligentes programadas pero que aún no se han ejecutado, la tarjeta Momentos de Marketo aún no muestra estadísticas de campaña. Aparecerán en una versión futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -24,17 +25,17 @@ En futuras campañas inteligentes que estén programadas pero que aún no se hay
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. La tarjeta de detalles le permite acceder a información sobre los filtros de lista inteligente, Flujo y Resumen de correo electrónico.
+1. La tarjeta de detalles le permite acceder a la información sobre los filtros de lista inteligente, flujo y resumen de correo electrónico.
 
-1. Toque **Lista inteligente**.
+1. Tocar **Lista inteligente**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
-1. Los filtros utilizados por la lista inteligente se muestran aquí.
+1. Aquí se muestran los filtros utilizados por la lista inteligente.
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Toque **Flujo**.
+1. Tocar **Flujo**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -42,11 +43,11 @@ En futuras campañas inteligentes que estén programadas pero que aún no se hay
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Haga clic en **Resumen de correo electrónico**.
+1. Clic **Resumen de correo electrónico**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
-1. Ahora, puede ver la respuesta del destinatario a cada correo electrónico, por número y porcentaje.
+1. Ahora puede ver la respuesta del destinatario a cada correo electrónico, por número y porcentaje.
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
@@ -58,63 +59,63 @@ En futuras campañas inteligentes que estén programadas pero que aún no se hay
    >
    >Observe que el otro punto está resaltado ahora.
 
-## Creación de muestras de correo electrónico y vistas previas {#creating-email-samples-and-previews}
+## Creación de ejemplos de correo electrónico y previsualizaciones {#creating-email-samples-and-previews}
 
-Es una buena idea echar un vistazo a un correo electrónico antes de que salga. O bien, envíe una muestra a otra persona para que la vean con un segundo grupo de ojos.
+Es una buena idea echar un vistazo a un correo electrónico antes de que se publique. O bien, envíe una muestra a otra persona para que le eche un segundo vistazo.
 
-1. Puntee en el menú de acción de tres puntos de un correo electrónico.
+1. Pulse el menú de acción de tres puntos en un correo electrónico.
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Toque [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Vista previa del correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
+1. Tocar [Enviar muestra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Previsualizar correo electrónico](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (haga clic en estos vínculos para obtener más información).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Confirmar una ejecución de campaña inteligente {#confirming-a-smart-campaign-run}
+## Confirmación de una ejecución de campaña inteligente {#confirming-a-smart-campaign-run}
 
-Las tarjetas de las campañas inteligentes sin confirmar aparecen en gris hasta que las confirme. Luego, se vuelven naranjas.
+Las tarjetas de las campañas inteligentes sin confirmar aparecen en gris hasta que se confirman. Luego, se vuelven naranjas.
 
 1. Para confirmar una tarjeta de campaña inteligente sin confirmar, pulse el menú de acción de tres puntos.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Toque **Confirmar**.
+1. Tocar **Confirmar**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toque **Confirmar** para finalizar el trabajo, o **No importa** si tiene pensamientos secundarios.
+1. Tocar **Confirmar** para finalizar el trabajo, o **Olvídese De** si tiene dudas.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
    >[!NOTE]
    >
-   >Ahora tu tarjeta se convertirá en naranja!
+   >¡Ahora tu carta se volverá naranja!
 
 ## Cancelación de una ejecución de campaña inteligente {#canceling-a-smart-campaign-run}
 
 Puede cancelar una ejecución de campaña inteligente programada y confirmada.
 
-1. Puntee en el menú de acción de tres puntos.
+1. Pulse el menú de acción de tres puntos.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Toque **Cancelar ejecución**.
+1. Tocar **Cancelar ejecución**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toque **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **No importa**, y la campaña inteligente se ejecutará según lo programado.
+1. Tocar **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **Olvídese De** y la campaña inteligente se ejecutará según lo programado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
 ## Reprogramación de una campaña inteligente {#rescheduling-a-smart-campaign}
 
-Puede volver a programar una campaña inteligente confirmada que aún no se haya ejecutado.
+Puede reprogramar una campaña inteligente confirmada que aún no se haya ejecutado.
 
-1. Puntee en el menú de acción de tres puntos.
+1. Pulse el menú de acción de tres puntos.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Toque **Reprogramar**.
+1. Tocar **Reprogramar**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
@@ -122,22 +123,22 @@ Puede volver a programar una campaña inteligente confirmada que aún no se haya
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   ¡Un trozo de tarta!
+   ¡Pedazo de torta!
 
-## Otras acciones de campaña inteligente {#other-smart-campaign-actions}
+## Otras acciones de campañas inteligentes {#other-smart-campaign-actions}
 
-Al igual que con otras tarjetas de Momentos de Marketo, puede tocar los tres puntos en cualquier tarjeta de Smart Campaign o tarjeta de detalles para:
+Al igual que con otras tarjetas de Momentos de Marketo, puede pulsar los tres puntos de cualquier tarjeta de campaña inteligente o tarjeta de detalles para lo siguiente:
 
-* [Hacerlo favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Marque como hecho](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Compártala](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Conviértalo en favorito](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Marcar como listo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Compártalo.](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
 >[!NOTE]
 >
->También puede pulsar el botón **Compartir** en una tarjeta de Smart Campaign para compartir, y la variable **Listo** y **Favorito** en la tarjeta de detalles.
+>También puede pulsar el botón **Compartir** en una tarjeta de Smart Campaign para compartir y la variable **Listo** y **Favorito** en la tarjeta de detalles.
 
 ## Eliminar rápidamente una tarjeta de campaña inteligente {#quickly-delete-a-smart-campaign-card}
 
-Si tiene una tarjeta que ya no necesita, tal vez una que utilizó para realizar pruebas, puede deshacerse de ella con un rápido barrido a la izquierda o a la derecha.
+Si tiene una tarjeta que ya no necesita, tal vez una que utilizó para la prueba, puede deshacerse de ella con un rápido barrido a la izquierda o a la derecha.

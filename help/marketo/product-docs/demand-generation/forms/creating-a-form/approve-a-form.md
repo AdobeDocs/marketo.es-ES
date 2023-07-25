@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2359578
-description: 'Aprobar un formulario: Documentos de Marketo: Documentación del producto'
+description: 'Aprobar un formulario: documentos de Marketo, documentación del producto'
 title: Aprobar un formulario
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Aprobar un formulario {#approve-a-form}
 
-Para agregar un formulario a una de las páginas de aterrizaje, debe aprobarse. Así es como hacerlo.
+Para agregar un formulario a una de las páginas de aterrizaje, debe aprobarse. Así es como se hace.
 
 ## Aprobar un formulario {#approve-a-form-1}
 
-A continuación se explica cómo aprobar un formulario existente que esté listo para utilizarse.
+A continuación se indica cómo aprobar un formulario existente que esté listo para utilizarse.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Busque y seleccione el formulario.
+1. Busque y seleccione su formulario.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
@@ -30,11 +31,11 @@ A continuación se explica cómo aprobar un formulario existente que esté listo
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
-1. ¿Ves la marca de verificación verde?
+1. ¿Ves la marca verde?
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Está aprobado y listo para ser [se ha añadido a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Está aprobado y listo para ser [añadido a una página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -48,10 +49,10 @@ Si está realizando cambios en un formulario, puede aprobar la página directame
 >
 >[Editar un formulario](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

@@ -1,18 +1,19 @@
 ---
 unique-page-id: 2359663
 description: Definir un valor de campo de formulario oculto - Documentos de Marketo - Documentación del producto
-title: Definir un valor de campo de formulario oculto
+title: Establecer un valor de campo de formulario oculto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
-# Definir un valor de campo de formulario oculto {#set-a-hidden-form-field-value}
+# Establecer un valor de campo de formulario oculto {#set-a-hidden-form-field-value}
 
-Los campos ocultos se rellenan normalmente de forma dinámica. No se muestran a la persona que rellena el formulario. Así es como se establece el valor.
+Los campos ocultos generalmente se rellenan dinámicamente. No se muestran a la persona que rellena el formulario. A continuación se indica cómo establecer el valor.
 
 >[!PREREQUISITES]
 >
@@ -24,68 +25,68 @@ Los campos ocultos se rellenan normalmente de forma dinámica. No se muestran a 
 
    ![](assets/autofill.png)
 
-## Usar valor predeterminado {#use-default-value}
+## Utilizar valor predeterminado {#use-default-value}
 
-Al seleccionar Usar valor predeterminado , puede codificar en forma rígida un valor específico que se utilizará siempre cuando se envíe este formulario. Introduzca el valor predeterminado y haga clic en Guardar.
+Al seleccionar Utilizar valor predeterminado, puede codificar un valor específico para que se utilice siempre cuando se envíe este formulario. Introduzca el valor predeterminado y haga clic en Guardar.
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
-## Parámetro de URL {#url-parameter}
+## Parámetro URL {#url-parameter}
 
 Si desea capturar los parámetros de URL (cadenas de consulta) de la página en la que se encuentra la persona al rellenar el formulario, puede utilizar **Parámetros de URL** para rellenar el campo oculto.
 
 >[!NOTE]
 >
->Los parámetros son algo técnicos, ¿no? Una vez que los consigues, son poderosos. Esta [Página de Wikipedia en cadenas de consulta](https://en.wikipedia.org/wiki/Query_string) es algo útil.
+>Los parámetros son un poco técnicos, ¿no? Sin embargo, una vez que los tienes, son poderosos. Esta [Página de Wikipedia sobre cadenas de consulta](https://en.wikipedia.org/wiki/Query_string) es de alguna manera útil.
 
-1. Select **Parámetro de URL** para **Obtener tipo de valor**.
+1. Seleccionar **Parámetro URL** para **Obtener tipo de valor**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Introduzca la variable **Nombre del parámetro** y haga clic en **Guardar**.
+1. Introduzca el **Nombre de parámetro** y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
 >[!TIP]
 >
->Puede introducir un valor predeterminado en caso de que no se encuentre el parámetro de URL.
+>Puede introducir un Valor predeterminado en caso de que no se encuentre el parámetro de URL.
 
 ## Valor de cookie {#cookie-value}
 
-Si está almacenando datos en cookies, puede utilizar **Valor de cookie** para recoger los datos cuando se envíe el formulario.
+Si almacena datos en cookies, puede utilizar **Valor de cookie** para recoger datos cuando se envía el formulario.
 
-1. Select **Valor de cookie** para **Obtener valor de**.
+1. Seleccionar **Valor de cookie** para **Obtener valor de**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. Escriba el nombre del parámetro de la cookie que desee y haga clic en **Guardar**.
+1. Introduzca el nombre de parámetro de la cookie que desee y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
    >[!TIP]
    >
-   >Puede introducir un valor predeterminado en caso de que no se encuentre el parámetro o la cookie.
+   >Puede introducir un Valor predeterminado en caso de que no se encuentre el parámetro o la cookie.
 
 ## Parámetro de referente {#referrer-parameter}
 
-Si desea capturar datos de la página de la que provino el visitante antes de rellenar el formulario, puede utilizar **Parámetro de referente**.
+Si desea capturar datos de la página de la que proviene el visitante antes de rellenar el formulario, puede utilizar **Parámetro de referente**.
 
-1. Establezca **Obtener valor de** a **Parámetro de referente**.
+1. Establecer **Obtener valor de** hasta **Parámetro de referente**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Introduzca la variable **Nombre del parámetro** que desea extraer de la dirección URL del referente y hacer clic en **Guardar**.
+1. Introduzca el **Nombre de parámetro** que desee extraer de la dirección URL de referencia y haga clic en **Guardar**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Puede especificar un **Valor predeterminado** en caso de que no se encuentre el parámetro referrer .
+   >Puede introducir un **Valor predeterminado** en caso de que no se encuentre el parámetro referrer.
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)

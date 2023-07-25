@@ -3,7 +3,8 @@ unique-page-id: 11377395
 description: 'Añadir un dominio de promoción de otra marca: documentos de Marketo, documentación del producto'
 title: Añadir un dominio de promoción de otras marcas
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

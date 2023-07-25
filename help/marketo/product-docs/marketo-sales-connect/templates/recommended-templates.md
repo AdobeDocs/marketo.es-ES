@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352510
-description: Plantillas recomendadas - Documentos de Marketo - Documentación del producto
+description: 'Plantillas recomendadas: Documentos de Marketo, documentación del producto'
 title: Plantillas recomendadas
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -12,36 +13,36 @@ ht-degree: 0%
 
 # Plantillas recomendadas {#recommended-templates}
 
-Las plantillas recomendadas de Sales Connect le ayudan a obtener los mensajes adecuados y a ahorrar tiempo. Esto le proporciona un bueno flujo al enviar correos electrónicos y reduce la incertidumbre al intentar encontrar el correo electrónico adecuado para la persona correcta.
+Las plantillas recomendadas de Sales Connect le ayudan a obtener los mensajes adecuados y, al mismo tiempo, le ahorran tiempo. Esto le proporciona el bueno flujo al enviar correos electrónicos y reduce la incertidumbre al intentar encontrar el correo electrónico adecuado para la persona adecuada.
 
-1. Vaya a la pestaña Plantillas .
+1. Vaya a la pestaña Plantillas.
 
 1. Seleccione la plantilla que desee recomendar y haga clic en **Editar**.
 
-1. Para habilitar la funcionalidad Plantilla recomendada en la plantilla, marque **Sugerir automáticamente esta plantilla al**.
+1. Para activar la funcionalidad de plantilla recomendada en la plantilla, marque **Sugerir automáticamente esta plantilla cuando**.
 
-## Todos vs. Cualquiera {#all-vs-any}
+## Todo vs. Cualquier {#all-vs-any}
 
-Ahora es el momento de seleccionar la configuración de criterios. Select **Todo** si desea recomendar la plantilla cuando se cumplan todos los criterios. Select **Cualquiera** si desea recomendar la plantilla cuando se cumpla cualquiera de los criterios.
+Ahora es el momento de seleccionar la configuración de criterios. Seleccionar **Todo** si desea que la plantilla se recomiende cuando se cumplan todos los criterios. Seleccionar **Cualquiera** si desea que su plantilla se recomiende cuando se cumpla cualquiera de los criterios.
 
-## Criterios de configuración {#setting-criteria}
+## Estableciendo criterios {#setting-criteria}
 
-Los criterios establecen las condiciones para las que se recomiendan las plantillas. Puede establecer un máximo de 3 fragmentos de criterios. Seleccione primero los campos dinámicos a los que desee apuntar en la plantilla.
+Los criterios van a establecer las condiciones para las que se recomendarán las plantillas. Puede establecer un máximo de 3 fragmentos de criterios. En primer lugar, seleccione los campos dinámicos a los que desee señalar en la plantilla.
 
 ## Condiciones {#conditions}
 
-Ahora, seleccione la condición. Cuando se cumplan las condiciones del campo dinámico, se recomienda la plantilla . Elija entre 4 condiciones diferentes.
+Ahora, seleccione la condición. Cuando se cumplan las condiciones del campo dinámico, se recomendará la plantilla. Elija entre 4 condiciones diferentes.
 
-**Es igual a**: El valor debe ser una coincidencia exacta (por ejemplo, Marketo es igual a Marketo)
+**Igual a**: el valor debe coincidir exactamente (por ejemplo, Marketo es igual a Marketo)
 
-**Does not Equal**: El valor debe ser cualquier cosa excepto una coincidencia exacta (por ejemplo, Marketing Nation no es igual a Marketing)
+**Does not Equal**: el valor debe ser cualquier cosa excepto una coincidencia exacta (por ejemplo, País de marketing no es igual a Marketing)
 
-**Contiene**: Solo debe contener el valor (por ejemplo, Marketo Rocks! contiene Marketo)
+**Contains**: solo necesita contener el valor (por ejemplo, Marketo Rocks! contiene Marketo)
 
-**No contiene**: El valor no debe estar en el campo dinámico (por ejemplo, Marketo Rocks! no contiene Awesome)
+**Does Not Contiene**: el valor no debe estar en el campo dinámico (por ejemplo, Marketo Rocks! no contiene Awesome)
 
 ## Aspecto De Una Plantilla Recomendada {#what-a-recommended-template-looks-like}
 
-Ahora que los criterios están establecidos, guarde la plantilla. A partir de aquí, Sales Connect hará su magia para que aparezca las mejores plantillas para usted.
+Ahora que los criterios están definidos, guarde la plantilla. A partir de aquí, Sales Connect trabajará su magia para mostrarle las mejores plantillas.
 
-Ahora que ha asignado su primera plantilla, es hora de asignar el resto. Consulte las plantillas más exitosas y recomiende. No olvide compartir la plantilla con su equipo también. La configuración recomendada para cualquier plantilla también se compartirá con su equipo.
+Ahora que ha asignado su primera plantilla, es hora de asignar el resto. Examine las plantillas de mayor éxito y recomiéndelas. No olvide compartir también la plantilla con su equipo. La configuración recomendada para cualquier plantilla también se compartirá entre su equipo.

@@ -1,52 +1,53 @@
 ---
 unique-page-id: 11372975
-description: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Professional) - Marketo Docs: Documentación del producto'
-title: 'Paso 1 de 3: Añadir campos de Marketo a Salesforce (Professional)'
+description: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (profesional): Documentos de Marketo: documentación del producto'
+title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (profesional)'
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 8%
 
 ---
 
-# Paso 1 de 3: Agregar campos de Marketo a Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Paso 1 de 3: Agregar campos de Marketo a Salesforce (profesional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
 >La instancia de Salesforce debe tener acceso a las API de Salesforce para sincronizar datos entre Marketo y Salesforce.
 
-Marketo utiliza un conjunto de campos para capturar ciertos tipos de información relacionada con el marketing. Si desea estos datos en Salesforce, siga las instrucciones que se indican a continuación.
+Marketo utiliza un conjunto de campos para capturar determinados tipos de información relacionada con el marketing. Si desea ver estos datos en Salesforce, siga las instrucciones a continuación.
 
-1. Cree tres campos personalizados en Salesforce en los objetos de contacto y posible cliente: Puntuación, programa de adquisición y fecha de adquisición.
-1. Asigne estos campos personalizados entre posibles clientes y contactos para que, al realizar la conversión en Salesforce, los valores se mantengan.
+1. Cree tres campos personalizados en Salesforce en los objetos de contacto y posible cliente: Puntuación, Programa de adquisición y Fecha de adquisición.
+1. Asigne estos campos personalizados entre posibles clientes y contactos para que, al realizar la conversión en Salesforce, los valores se transfieran.
 1. Si es necesario, puede crear otros campos adicionales (consulte la tabla siguiente).
 
-Todos estos campos personalizados son opcionales y no son necesarios para sincronizar Marketo y Salesforce. Como práctica recomendada, se recomienda crear campos para Puntuación, Programa de adquisición y Fecha de adquisición.
+Todos estos campos personalizados son opcionales y no son necesarios para sincronizar Marketo y Salesforce. Como práctica recomendada, le recomendamos que cree campos para Puntuación, Programa de adquisición y Fecha de adquisición.
 
-## Agregar campos de Marketo a Salesforce {#add-marketo-fields-to-salesforce}
+## Añadir campos de Marketo a Salesforce {#add-marketo-fields-to-salesforce}
 
-Agregue tres campos personalizados en el posible cliente y los objetos de contacto de Salesforce enumerados arriba. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
+Agregue tres campos personalizados a los objetos de contacto y posible cliente de Salesforce que se han indicado anteriormente. Si desea agregar más, consulte la tabla de campos disponibles al final de esta sección.
 
-Realice los siguientes pasos para cada uno de los tres campos personalizados para agregarlos. Comience por **Puntuación**.
+Siga estos pasos para cada uno de los tres campos personalizados para agregarlos. Comience por **Puntuación**.
 
-1. Inicie sesión en Salesforce y haga clic en **Configuración.**
+1. Inicie sesión en Salesforce y haga clic en **Configurar.**
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Haga clic en **Campos**.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Clic **Campos**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Haga clic en **Nuevo** en la sección Campos personalizados y relaciones , en la parte inferior de la página.
+1. Clic **Nuevo** en la sección Campos personalizados y relaciones en la parte inferior de la página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Elija el tipo de campo apropiado (para Puntuación — **number**; Programa de adquisición — **text**; Fecha de adquisición — **Fecha y hora**).
+1. Elija el tipo de campo adecuado (para Puntuación — **número**; Programa de adquisición — **texto**; Fecha de adquisición — **Fecha/hora**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -78,7 +79,7 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <td>Puntuación</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Número</td> 
-   <td>Longitud 10<br>Lugares decimales 0 </td> 
+   <td>Longitud 10<br>Cifras decimales 0 </td> 
   </tr> 
   <tr> 
    <td>Fecha de adquisición</td> 
@@ -97,27 +98,27 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
 >[!NOTE]
 >
->Salesforce anexa __c a Field Names cuando los utiliza para crear API Names.
+>Salesforce anexa __c a los nombres de campo cuando los utiliza para crear nombres de API.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
 >[!NOTE]
 >
->Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no la necesitan. Una descripción es opcional.
+>Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Haga clic en **Siguiente**.
+1. Clic **Siguiente**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
 1. Especifique la configuración de acceso y haga clic en **Siguiente**:
 
-   * Definir todas las funciones como **Visible** y **Solo lectura**
+   * Definir todos los roles en **Visible** y **Solo lectura**
 
-   * Borre la variable **Solo lectura** para el perfil del usuario de sincronización:
+   * Borre la **Solo lectura** casilla de verificación para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** para el perfil del administrador del sistema (como se muestra a continuación)
+      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** casilla de verificación para el perfil del administrador del sistema (como se muestra a continuación)
 
-      * Si creó un _perfil personalizado_ para el usuario de sincronización, borre la **Solo lectura** casilla de verificación de ese perfil personalizado
+      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, borre la etiqueta **Solo lectura** casilla de verificación para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,13 +126,13 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Haga clic en **Guardar y nuevo** para volver atrás y crear cada uno de los otros dos campos personalizados. Haga clic en **Guardar** con ustedes terminaron con los tres.
+1. Clic **Guardar y nuevo** para volver y crear cada uno de los otros dos campos personalizados. Clic **Guardar** con lo que has terminado con los tres.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Contactos**. Haga clic en **Campos**.
-1. Siga los pasos del 3 al 10 para los campos Puntuación, Fecha de adquisición y Programa de adquisición en el objeto de contacto, tal como hizo para el objeto de posible cliente.
-1. Opcionalmente, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
+1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Contactos**. Clic **Campos**.
+1. Realice los pasos del 3 al 10 para los campos Puntuación, Fecha de adquisición y Programa de adquisición del objeto de contacto, tal como lo hizo para el objeto de posible cliente.
+1. De forma opcional, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
 
 <table> 
  <tbody> 
@@ -142,13 +143,13 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
    <th>Atributos de campo</th> 
   </tr> 
   <tr> 
-   <td>Id Del Programa De Adquisición</td> 
+   <td>ID del programa de adquisición</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Número</td> 
-   <td>Longitud 18<br>Lugares decimales 0 </td> 
+   <td>Longitud 18<br>Cifras decimales 0 </td> 
   </tr> 
   <tr> 
-   <td>Remitente original</td> 
+   <td>Referente original</td> 
    <td>mkto71_Original_Referrer</td> 
    <td>Texto</td> 
    <td>Longitud 255</td> 
@@ -224,25 +225,25 @@ Realice los siguientes pasos para cada uno de los tres campos personalizados par
 
 >[!NOTE]
 >
->Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Salesforce cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Salesforce la próxima actualización del registro en cualquier sistema (es decir, una actualización de cualquiera de los campos sincronizados entre Marketo y Salesforce).
+>Los valores de los campos asignados automáticamente por Marketo no estarán disponibles inmediatamente en Salesforce cuando se haya creado el nuevo campo. Marketo sincronizará los datos con Salesforce la próxima vez que se actualice el registro en cualquiera de los sistemas (es decir, cuando se actualice cualquiera de los campos sincronizados entre Marketo y Salesforce).
 
-## Asignar campos personalizados para conversiones  {#map-custom-fields-for-conversions}
+## Asignación de campos personalizados para conversiones  {#map-custom-fields-for-conversions}
 
-Un campo personalizado del objeto de posible cliente de Salesforce debe asignarse a un campo de contacto del objeto de contacto para que los datos se transfieran cuando se produce una conversión.
+Un campo personalizado en el objeto de posible cliente en Salesforce debe asignarse a un campo de contacto en el objeto de contacto para que los datos se transfieran cuando se produzca una conversión.
 
 1. En la esquina superior derecha, haga clic en Configuración.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Escriba &quot;campos&quot; en la búsqueda de navegación sin pulsar Intro. Los campos aparecen bajo diferentes objetos; Haga clic en Campos en Posibles clientes.
+1. Escriba &quot;fields&quot; en la Búsqueda de navegación sin pulsar Intro. Los campos aparecen en objetos diferentes; haga clic en Campos en Posibles clientes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vaya a la sección Campos y relaciones personalizados de posibles clientes y haga clic en Asignar campos de posibles clientes .
+1. Vaya a la sección Campos personalizados y relaciones de posibles clientes y haga clic en Asignar campos de posibles clientes.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
-1. Haga clic en la lista desplegable situada junto al campo que desee asignar.
+1. Haga clic en la lista desplegable junto al campo que desee asignar.
 
    ![](assets/image2016-5-26-16-3a49-3a53.png)
 
@@ -252,10 +253,10 @@ Un campo personalizado del objeto de posible cliente de Salesforce debe asignars
 
 1. Repita los pasos anteriores para cualquier otro campo que haya creado.
 
-1. Haga clic en Guardar cuando termine.
+1. Haga clic en Guardar cuando haya terminado.
 
-Fácil, ¿verdad?
+Suficientemente fácil, ¿verdad?
 
 >[!MORELIKETHIS]
 >
->[Paso 2 de 3: Creación de un usuario de Salesforce para Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[Paso 2 de 3: Crear un usuario de Salesforce para Marketo (profesional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)

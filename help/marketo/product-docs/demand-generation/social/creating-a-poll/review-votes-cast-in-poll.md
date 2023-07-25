@@ -1,24 +1,25 @@
 ---
 unique-page-id: 2359777
-description: Revisar votos emitidos en encuesta - Marketo Docs - Documentación del producto
-title: Revisar votos emitidos en encuesta
+description: Revisar los votos emitidos en la encuesta - Documentos de Marketo - Documentación del producto
+title: Revisar los votos emitidos en la encuesta
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
-# Revisar votos emitidos en encuesta {#review-votes-cast-in-poll}
+# Revisar los votos emitidos en la encuesta {#review-votes-cast-in-poll}
 
-¿Quién votó a favor de qué en su encuesta? Averigüémoslo.
+¿Quién votó por qué en tu encuesta? Vamos a averiguarlo.
 
-1. En **Actividades de marketing**, seleccione la encuesta y haga clic en el botón **Participantes** pestaña .
+1. Entrada **Actividades de marketing**, seleccione la encuesta y haga clic en **Participantes** pestaña.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Haga clic en el número de la variable **Votaciones** para abrir el Navegador.
+1. Haga clic en el número en la **Votos** columna.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 

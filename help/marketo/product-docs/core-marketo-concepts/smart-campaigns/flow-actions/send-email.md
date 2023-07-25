@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146948
-description: 'Enviar correo electrónico: Documentos de Marketo: Documentación del producto'
+description: Enviar correo electrónico - Documentos de Marketo - Documentación del producto
 title: Enviar email
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -12,15 +13,15 @@ ht-degree: 6%
 
 # Enviar email {#send-email}
 
-## Resumen {#overview}
+## Información general {#overview}
 
-La variable **Enviar correo electrónico** el paso de flujo se puede usar como parte de campañas o como un solo paso de flujo para enviar correos electrónicos a sus personas.
+El **Enviar correo electrónico** el paso de flujo se puede utilizar como parte de campañas o como un paso de flujo único para enviar correos electrónicos a sus recursos.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
 ## Uso {#usage}
 
-Puede obtener una vista previa del correo electrónico seleccionado directamente desde el paso de flujo.
+Puede previsualizar el correo electrónico seleccionado directamente desde el paso de flujo.
 
 1. Busque y seleccione el correo electrónico que desea enviar.
 
@@ -30,7 +31,7 @@ Puede obtener una vista previa del correo electrónico seleccionado directamente
    >
    >El correo electrónico debe aprobarse si desea seleccionarlo en el paso de flujo.
 
-1. Haga clic en el icono de vista previa para ver el correo electrónico seleccionado actualmente.
+1. Haga clic en el icono de previsualización para ver el correo electrónico seleccionado actualmente.
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 

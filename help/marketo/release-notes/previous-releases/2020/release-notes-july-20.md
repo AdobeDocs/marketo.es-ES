@@ -1,67 +1,68 @@
 ---
 unique-page-id: 45416698
-description: 'Notas de la versión, julio de 2020: Documentos de Marketo: Documentación del producto'
+description: 'Notas de la versión, julio de 2020: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2020
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Julio de 2020 {#release-notes-july}
+# Notas de la versión: julio de 2020 {#release-notes-july}
 
-La versión del 20 de julio incluye las siguientes funciones. Compruebe la disponibilidad de las funciones en su edición de Marketo.
+Las siguientes funciones se incluyen en la versión de julio de 2020. Compruebe la disponibilidad de las funciones en Marketo Edition.
 
 >[!AVAILABILITY]
 >
->Tenga en cuenta que, según el paquete actual, los elementos con una estrella ( ![(estrella)](assets/yellow-star.png)) puede requerir la compra de un complemento de valor. Póngase en contacto con el representante del Marketo Engage para obtener más información.
+>Tenga en cuenta que, según el paquete actual, los elementos con una estrella ( ![(estrella)](assets/yellow-star.png)) puede requerir la compra de un complemento de valor. Póngase en contacto con el Marketo Engage para obtener más información.
 
-**_Versiones trimestrales_** Las siguientes funciones se lanzarán en **31 de julio de 2020**.
+**_Versiones trimestrales_** Las siguientes funciones se lanzarán el **31 de julio de 2020**.
 
-## Administración {#administration}
+## Administration {#administration}
 
-* **[Exportación &quot;Utilizado por&quot; en Administración de campos](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: Los administradores ahora pueden exportar todos los vínculos de recursos &quot;Utilizados por&quot; para un campo seleccionado a un archivo CSV. Esta mejora puede ayudar tanto a los administradores como a los no administradores a limpiar los campos no utilizados. Además, los recursos ahora se pueden abrir en una nueva pestaña o ventana del explorador.
+* **[Exportación &quot;Utilizada por&quot; en Administración de campos](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: Los administradores ahora pueden exportar todos los vínculos de recursos &quot;Utilizados por&quot; de un campo seleccionado a un archivo CSV. Esta mejora puede ayudar a los administradores y a los no administradores a limpiar los campos no utilizados. Además, los recursos ahora se pueden abrir en una nueva pestaña o ventana del explorador.
 
 ## Account-Based Marketing {#account-based-marketing}
 
 ![(estrella)](assets/yellow-star.png)
 
-* **Interfaz de usuario actualizada para la creación de perfiles de cuenta**: Simplifique la creación de la lista de cuentas objetivo en Perfiles de cuenta con pasos optimizados en una sola pantalla.
+* **Interfaz de usuario actualizada para perfiles de cuenta**: Simplifique la creación de la lista de cuentas de destinatario en Perfil de cuentas con pasos optimizados, todo en una sola pantalla.
 
 <br> 
 
-**_Publicación durante el trimestre_**
+**_Lanzamiento durante todo el trimestre_**
 
-Las siguientes funciones se encuentran en un ciclo no trimestral y se lanzarán durante los próximos meses.
+Las siguientes funciones están en un ciclo no trimestral y se lanzarán durante los próximos meses.
 
-* **Servicio de Forms**: Se está introduciendo una validación más sólida de la sintaxis de los campos de formulario y la capacidad de bloquear patrones de bots comunes con las nuevas funciones de Dominios seguros para páginas de aterrizaje. Bloquear los patrones de bots puede reducir los envíos de formularios no deseados y mejorar la calidad de la base de datos.
+* **Servicio de Forms**: Presentamos una validación más sólida de la sintaxis de los campos de formulario y la capacidad de bloquear patrones de bots comunes con las nuevas funciones Dominios seguros para páginas de aterrizaje. Bloquear patrones de bots puede reducir los envíos de formularios de correo no deseado y mejorar la calidad de la base de datos.
 
 >[!NOTE]
 >
->El despliegue completo de la validación mejorada de la sintaxis de los campos del formulario se ha pospuesto hasta después de nuestra versión de enero de 2021.
+>La implementación completa de la validación de la sintaxis de los campos de formulario mejorados se ha pospuesto hasta después de nuestra versión de enero de 2021.
 
-* **Límite de tamaño de URI de API de recurso aumentado**: El límite de tamaño del identificador uniforme de recursos (URI) se está aumentando de 8 KB a 65 KB antes de eliminar el parámetro &quot;_method&quot;. Al realizar cadenas de consulta largas, este aumento del límite de tamaño permitirá que los datos pasen más fácilmente. La eliminación del parámetro &quot;_method&quot; forma parte de una próxima actualización de seguridad.
+* **Límite de tamaño de URI de Asset API aumentado**: el límite de tamaño del identificador uniforme de recursos (URI) se ha aumentado de 8 KB a 65 KB antes de que se elimine el parámetro &quot;_method&quot;. Al realizar cadenas de consulta largas, este aumento del límite de tamaño permite que los datos pasen más fácilmente. La eliminación del parámetro &quot;_method&quot; forma parte de una próxima actualización de seguridad.
 
 ## Sales Insight {#sales-insight}
 
 ![(estrella)](assets/yellow-star.png)
 
-* **[Perspectiva de ventas habilitada para clientes con integración no nativa de Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: Los clientes Marketo Engage con integraciones de Salesforce CRM no nativas ahora pueden utilizar Sales Insight para ayudar a sus equipos de ventas a comprender, priorizar e interactuar con los posibles clientes y oportunidades más comprometidos a fin de permitir ventas inteligentes y ofertas más rápidas.
+* **[Perspectiva de ventas habilitada para clientes con integración de CRM de Salesforce no nativa](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: Los clientes Marketo Engage con integraciones de CRM de Salesforce no nativas ahora pueden usar el conocimiento de ventas para ayudar a sus equipos de ventas a comprender, priorizar e interactuar con los posibles clientes y las oportunidades más comprometidos a fin de permitir ventas inteligentes y ofertas más rápidas.
 
 ## Conexión de ventas {#sales-connect}
 
 ![(estrella)](assets/yellow-star.png)
 
-* **[Consentimiento de dos partes mejorado para llamadas de venta:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Los administradores ahora tienen bueno control sobre las configuraciones de grabación de llamadas. [Habilitar grabaciones de llamada](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) con la confianza de que cumple con la ley de consentimiento de dos partes. Automatice la notificación de la llamada que se está grabando y active los clips de audio que se reproduzcan antes de la llamada.
+* **[Consentimiento mejorado de dos partes para llamadas de ventas:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Los administradores ahora tienen el bueno control sobre las configuraciones de grabación de llamadas. [Habilitar grabaciones de llamadas](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) con la seguridad de que cumple con la ley de consentimiento bipartita. Automatice la notificación de la llamada que se está grabando y active los clips de audio que se van a reproducir antes de la llamada.
 
 <br> 
 
-## Anuncios y casos de finalización del soporte {#announcements-deprecations}
+## Anuncios y desaprobaciones {#announcements-deprecations}
 
-* **Eliminación del parámetro &quot;_method&quot; de la API de recursos**: A partir de septiembre de 2020, los extremos de la API de Asset ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para evitar las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requerían este parámetro, los límites de URI de las API de Asset aumentarán de 8 KB a 65 KB.
-* **[Asociado de Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Con esta versión de Munchkin JavaScript Client, versión 159, comenzaremos a dejar de utilizar el método Munchkin Associate Lead. Si se invoca, recibirá una advertencia que indica que el método se eliminará en una versión futura. Una vez eliminado, el método ya no funcionará y los intentos de utilizarlo fallarán. A los clientes Marketo Engage que hayan utilizado este método recientemente se les notificará de su uso de forma individual.
-* **Compatibilidad con Internet Explorer**: Como se ha anunciado anteriormente, la compatibilidad con el Marketo Engage de Internet Explorer 11 finaliza el **31 de julio de 2020**. Seguiremos siendo compatibles con Google Chrome, Mozilla Firefox, Apple Safari y Microsoft Edge.
-* **Experiencia predeterminada de Sky**: La opción para que los administradores o usuarios establezcan el Marketo Sky como la experiencia predeterminada se eliminará en esta versión a fin de prepararla para una actualización de la experiencia del usuario principal. En julio estarán disponibles más detalles sobre la actualización de la experiencia principal, prevista para finales de este año. Los usuarios que hayan establecido Marketo Sky como su experiencia predeterminada o a los que se les haya concedido acceso a Marketo Sky, pueden seguir accediendo a Marketo Sky desde un mosaico en la página principal de Mi Marketo.
-* **Compatibilidad con Edge Edge Microsoft Edge de EdgeHTML (que no sea Chromium)**: Marketo Engage dejará de ser compatible con las versiones EdgeHTML de Microsoft Edge a finales de 2020. A partir del 1 de enero de 2021, solo admitiremos la última versión de Chromium de Microsoft Edge.
+* **Eliminación del parámetro &quot;_method&quot; de la API de recursos**: A partir de septiembre de 2020, los puntos de conexión de Asset API ya no aceptarán &quot;_method&quot; para pasar parámetros de consulta en un cuerpo de POST para omitir las limitaciones de longitud de URI. Para dar cabida a las solicitudes que requerían este parámetro, los límites de URI para las API de recursos se aumentarán de 8 KB a 65 KB.
+* **[Plomo asociado de Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Con esta versión del cliente JavaScript de Munchkin, versión 159, comenzaremos la desaprobación del método de posible cliente asociado de Munchkin. Si se invoca, recibirá una advertencia que indica que el método se eliminará en una versión futura. Una vez eliminado, el método deja de funcionar y los intentos de utilizarlo dan error. A los clientes de Marketo Engage que hayan utilizado este método recientemente se les notificará individualmente su uso.
+* **Compatibilidad con Internet Explorer**: Como se anunció anteriormente, la compatibilidad del Marketo Engage con Internet Explorer 11 finaliza el **31 de julio de 2020**. Seguiremos siendo compatibles con Google Chrome, Mozilla Firefox, Apple Safari y Microsoft Edge.
+* **Experiencia predeterminada Sky**: La opción para que los administradores o usuarios establezcan Marketo Sky como experiencia predeterminada se eliminará en esta versión como preparación para una actualización de la experiencia del usuario principal. En julio estarán disponibles más detalles sobre la actualización de la experiencia principal, programada para finales de este año. Los usuarios que hayan establecido Marketo Sky como su experiencia predeterminada o a los que se haya concedido acceso como Marketo Sky, pueden seguir accediendo a Marketo Sky desde un mosaico en la página principal de Mi Marketo.
+* **Compatibilidad con EdgeHTML (no Chromium) de Microsoft Edge**: Marketo Engage dejará de ser compatible con las versiones HTML de Edge de Microsoft Edge a finales de 2020. A partir del 1 de enero de 2021, solo admitiremos la última versión de Chromium de Microsoft Edge.

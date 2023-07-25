@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8160086
-description: 'Plantilla 3C: Documentos de Marketo: Documentación del producto'
+description: 'Plantilla 3C: Documentos de Marketo: documentación del producto'
 title: Plantilla 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -21,9 +22,9 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado con logotipo y 3 botones (opcional)
 * Una sección principal
 
-   * incluye texto a pantalla completa y Encuesta.
+   * incluye texto a pantalla completa y sondeo.
 
-* Tres secciones de cuerpo (opcional)
+* Tres secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

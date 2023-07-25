@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783999
-description: 'Plantilla 10A: Documentos de Marketo: Documentación del producto'
+description: Plantilla 10A - Documentos de Marketo - Documentación del producto
 title: Plantilla 10A
 exl-id: 0fb10231-e667-4b50-8940-3622b3732c66
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -20,9 +21,9 @@ Esta plantilla incluye el siguiente contenido:
 
 * Una sección principal (opcional)
 
-   * Incluye título a pantalla completa y texto a pantalla completa
+   * Incluye título y texto para héroes
 
-* Tres secciones de cuerpo (opcional)
+* Tres secciones del cuerpo (opcional)
 * Un pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

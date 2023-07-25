@@ -1,17 +1,18 @@
 ---
-description: 'Añadir o actualizar su firma de correo electrónico: Documentos de Marketo: Documentación del producto'
-title: Añadir o actualizar la firma de correo electrónico
+description: 'Añadir o actualizar la firma del correo electrónico: documentos de Marketo, documentación del producto'
+title: Agregar o actualizar la firma del correo electrónico
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Añadir o actualizar la firma de correo electrónico {#add-or-update-your-email-signature}
+# Agregar o actualizar la firma del correo electrónico {#add-or-update-your-email-signature}
 
-Queremos que el envío por correo electrónico desde Marketo Sales se sienta como una experiencia perfecta cuando se envía desde su propio cliente de correo electrónico. Una buena manera de hacerlo es agregar su firma de correo electrónico.
+Queremos que los mensajes de correo electrónico de Marketo Sales se sientan como una experiencia perfecta al enviarlos desde su propio cliente de correo electrónico. Una buena manera de hacerlo es añadir su firma de correo electrónico.
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
@@ -21,18 +22,18 @@ Queremos que el envío por correo electrónico desde Marketo Sales se sienta com
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. En el **Dirección y firma** , seleccione la identidad de correo electrónico para la que desea crear una firma.
+1. En el **Dirección y firma** pestaña, seleccione la identidad de correo electrónico para la que desee crear una firma.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. En la tarjeta de firma, haga clic en **Editar**.
+1. En la tarjeta Firma, haga clic en **Editar**.
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Introduzca el texto (o imágenes) deseado y haga clic en **Guardar**.
+1. Introduzca el texto (o imágenes) que desee y haga clic en **Guardar**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 
    >[!TIP]
    >
-   >Asegúrese de que la firma en la pantalla de composición tenga un aspecto similar a la firma enumerada en el cliente de correo electrónico.
+   >Asegúrese de que la firma de la pantalla de redacción sea similar a la que aparece en su cliente de correo electrónico.

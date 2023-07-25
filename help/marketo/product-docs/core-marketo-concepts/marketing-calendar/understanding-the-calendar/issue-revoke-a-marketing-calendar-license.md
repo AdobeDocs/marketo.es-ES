@@ -3,7 +3,8 @@ unique-page-id: 1147255
 description: Emitir/revocar una licencia de calendario de marketing - Documentos de Marketo - Documentación del producto
 title: Emitir/revocar una licencia de calendario de marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

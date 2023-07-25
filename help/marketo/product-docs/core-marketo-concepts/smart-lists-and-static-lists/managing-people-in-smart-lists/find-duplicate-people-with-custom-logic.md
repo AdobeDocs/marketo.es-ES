@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2952636
-description: Buscar personas duplicadas con lógica personalizada - Documentos de Marketo - Documentación del producto
+description: Encontrar personas duplicadas con lógica personalizada - Documentos de Marketo - Documentación del producto
 title: Buscar personas duplicadas con lógica personalizada
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 6%
@@ -12,21 +13,21 @@ ht-degree: 6%
 
 # Buscar personas duplicadas con lógica personalizada {#find-duplicate-people-with-custom-logic}
 
-Marketo tiene una lista inteligente del sistema que encuentra personas duplicadas al hacer coincidir sus direcciones de correo electrónico. Si desea utilizar otro campo con el que buscar duplicados, así es como.
+Marketo tiene una lista inteligente del sistema que busca personas duplicadas haciendo coincidir sus direcciones de correo electrónico. Si desea utilizar otro campo para buscar duplicados con, así es.
 
 >[!PREREQUISITES]
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Vaya a la **Actividades de marketing** .
+1. Vaya a la **Actividades de marketing** área.
 
 ![](assets/ma-2.png)
 
-1. Seleccione la lista inteligente y haga clic en el **Lista inteligente** pestaña .
+1. Seleccione la lista inteligente y haga clic en **Lista inteligente** pestaña.
 
    ![](assets/two-4.png)
 
-1. Busque y arrastre el **Duplicar campos** filtre al lienzo.
+1. Busque y arrastre el **Campos duplicados** filtre en el lienzo.
 
    ![](assets/three-4.png)
 
@@ -39,7 +40,7 @@ Marketo tiene una lista inteligente del sistema que encuentra personas duplicada
 
    >[!NOTE]
    >
-   >Todos los campos, con la excepción de Dirección de correo electrónico, distinguen entre mayúsculas y minúsculas. Así que usar &quot;john doe&quot; en el campo Nombre completo _not_ devuelve resultados para John Doe.
+   >Todos los campos, excepto la dirección de correo electrónico, distinguen entre mayúsculas y minúsculas. Por lo tanto, si utiliza &quot;juan palma&quot; en el campo Nombre completo, _no_ resultados de la devolución para John Doe.
 
    ![](assets/four-2.png)
 

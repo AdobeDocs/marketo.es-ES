@@ -1,21 +1,22 @@
 ---
 unique-page-id: 14352450
-description: 'Cómo instalar la extensión del explorador ToutApp: Marketo Docs: Documentación del producto'
-title: Instalación de la extensión del explorador ToutApp
+description: 'Cómo instalar la extensión del explorador ToutApp: documentos de Marketo: documentación del producto'
+title: Cómo instalar la extensión del explorador ToutApp
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Instalación de la extensión del explorador ToutApp {#how-to-install-the-toutapp-browser-extension}
+# Cómo instalar la extensión del explorador ToutApp {#how-to-install-the-toutapp-browser-extension}
 
-1. Haga clic en **Configuración** en el [aplicación web](https://toutapp.com/next#settings).
+1. Clic **Configuración** en el [aplicación web](https://toutapp.com/next#settings).
 
 1. En Mi cuenta, haga clic en **Configuración de correo electrónico**.
 
-1. Haga clic en **Complementos**.
+1. Clic **Complementos**.
 
 1. En Aplicaciones de Gmail y Google, haga clic en **Instalar**.

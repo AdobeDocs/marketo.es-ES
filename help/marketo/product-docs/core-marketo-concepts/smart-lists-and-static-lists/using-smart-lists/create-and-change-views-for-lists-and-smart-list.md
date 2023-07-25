@@ -1,9 +1,10 @@
 ---
 unique-page-id: 557337
-description: Creación y cambio de vistas para listas y listas inteligentes - Documentos de Marketo - Documentación del producto
+description: 'Creación y cambio de vistas para listas y listas inteligentes: Documentos de Marketo: documentación del producto'
 title: Crear y cambiar vistas para listas y listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -12,29 +13,29 @@ ht-degree: 0%
 
 # Crear y cambiar vistas para listas y listas inteligentes {#create-and-change-views-for-lists-and-smart-list}
 
-Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía que podría editar esas columnas en el contenido de su corazón? Así es como.
+Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabías que podrías editar esas columnas para tu propio contenido? Así es como.
 
 ## Crear una vista {#create-a-view}
 
-1. Vaya a una lista o lista inteligente y haga clic en el botón **People** y haga clic en **Crear** **Ver** en el **Ver** lista desplegable.
+1. Vaya a una lista o lista inteligente y haga clic en **People** y haga clic en **Crear** **Ver** en el **Ver** menú desplegable.
 
    ![](assets/smartlist-createview.png)
 
-1. Asigne un nombre a la vista y busque la columna que desee agregar o eliminar.
+1. Asigne un nombre a la vista y busque la columna que desee añadir o quitar.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. Agregue o elimine las columnas que desee y haga clic en **Crear**.
+1. Añada o elimine las columnas que desee y haga clic en **Crear**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
 >[!TIP]
 >
->Para buscar rápidamente, use el **Buscar** en la ventana
+>Para buscar rápidamente, utilice el **Buscar** cuadro.
 
 ## Cambiar vistas {#switch-views}
 
-1. Haga clic en el **Ver** y, a continuación, seleccione la vista que desee. Cambie de vista si es necesario.
+1. Haga clic en **Ver** y, a continuación, seleccione la vista que desee. Cambie de una vista a otra según sea necesario.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -44,11 +45,11 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía q
 
 ## Editar una vista {#edit-a-view}
 
-1. Asegúrese de que la vista que desea editar esté seleccionada en la sección **Ver** lista desplegable.
+1. Asegúrese de que la vista que desea editar está seleccionada en la **Ver** menú desplegable.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Haga clic en el **Editar** .
+1. Haga clic en **Editar** opción.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -58,18 +59,17 @@ Una lista inteligente muestra un conjunto predeterminado de columnas. ¿Sabía q
 
 ## Eliminar una vista {#delete-a-view}
 
-1. Seleccione el **Editar** para la vista que desea eliminar de la **Ver** lista desplegable.
+1. Seleccione el **Editar** opción para la vista que desea eliminar de la **Ver** menú desplegable.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Haga clic en **Eliminar**.
+1. Clic **Eliminar**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
-Solo usted puede ver las vistas personalizadas que crea en la lista desplegable Ver, así que dígale a sus amigos que necesitan crear las suyas!
+Solo usted puede ver las vistas personalizadas que crea en la lista desplegable Vista, así que dígale a sus amigos que necesitan crear las suyas propias.
 
 >[!MORELIKETHIS]
 >
 >* [Usar listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
 >* [Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-

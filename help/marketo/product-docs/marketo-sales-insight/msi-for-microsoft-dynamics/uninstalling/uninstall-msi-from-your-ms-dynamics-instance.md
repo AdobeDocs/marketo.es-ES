@@ -1,18 +1,19 @@
 ---
 unique-page-id: 37355600
-description: 'Desinstalación de MSI desde la instancia de MS Dynamics: Marketo Docs: documentación del producto'
-title: Desinstalar MSI de su instancia de MS Dynamics
+description: 'Desinstalar MSI de la instancia de MS Dynamics: documentos de Marketo, documentación del producto'
+title: Desinstalar MSI de la instancia de MS Dynamics
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# Desinstalar MSI de su instancia de MS Dynamics {#uninstall-msi-from-your-ms-dynamics-instance}
+# Desinstalar MSI de la instancia de MS Dynamics {#uninstall-msi-from-your-ms-dynamics-instance}
 
-Para desinstalar MSI de su instancia de MS Dynamics, deberá realizar pasos tanto en Marketo como en MS Dynamics.
+Para desinstalar MSI de la instancia de MS Dynamics, deberá realizar los pasos en Marketo y MS Dynamics.
 
 >[!PREREQUISITES]
 >
@@ -22,33 +23,33 @@ Para desinstalar MSI de su instancia de MS Dynamics, deberá realizar pasos tant
 
    ![](assets/one-1.png)
 
-1. Haga clic en **Perspectiva de ventas**.
+1. Clic **Perspectiva de ventas**.
 
    ![](assets/six.png)
 
-1. Haga clic en **Editar sincronización de campos**.
+1. Clic **Editar sincronización de campos**.
 
    ![](assets/seven.png)
 
-1. Seleccione el **Desactivar sincronización** casilla de verificación y haga clic en **Guardar**.
+1. Seleccione el **Deshabilitar sincronización** y haga clic en **Guardar**.
 
    >[!NOTE]
    >
-   >Asegúrese de que [deshabilite la sincronización global de MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) antes de desactivar la sincronización de campos.
+   >Asegúrese de que [deshabilitar la sincronización global de MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) antes de deshabilitar la sincronización de campos.
 
    ![](assets/eight.png)
 
 ## Los siguientes pasos tienen lugar en la instancia de MS Dynamics: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. Haga clic en **Configuración avanzada**.
+1. Clic **Configuración avanzada**.
 
-1. Haga clic en **Soluciones**.
+1. Clic **Soluciones**.
 
-1. Select **Perspectiva de ventas de Marketo** y haga clic en el icono eliminar .
+1. Seleccionar **Perspectiva de ventas de Marketo** y haga clic en el icono eliminar.
 
-1. Cuando aparezca el modal de la solución de desinstalación, haga clic en **OK**.
+1. Cuando aparezca el modal Uninstall Solution, haga clic en **OK**.
 
-   La desinstalación de la solución MS Dynamics suele tardar unos 20 minutos. Sin embargo, si tiene una instancia de MS Dynamics grande, puede tardar un poco más.
+   Normalmente, la solución de MS Dynamics tarda unos 20 minutos en desinstalarse completamente. Sin embargo, si tiene una instancia de MS Dynamics grande, podría tardar más.
 
    >[!NOTE]
    >

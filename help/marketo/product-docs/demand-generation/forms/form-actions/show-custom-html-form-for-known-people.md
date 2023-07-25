@@ -3,7 +3,8 @@ unique-page-id: 2359644
 description: Mostrar formulario de HTML personalizado para personas conocidas - Documentos de Marketo - Documentación del producto
 title: Mostrar formulario de HTML personalizado para personas conocidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # Mostrar formulario de HTML personalizado para personas conocidas {#show-custom-html-form-for-known-people}
 
-Si se coordina a un visitante (persona conocida que proporcionó una dirección de correo electrónico en el pasado), ¿por qué molestarse con el formulario? Simplemente déles el botón de descarga. Así es como.
+Si un visitante está cookie (persona conocida que proporcionó una dirección de correo electrónico en el pasado), ¿por qué molestarse con el formulario? Solo dale el botón de descarga. Así es como.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -26,11 +27,11 @@ Si se coordina a un visitante (persona conocida que proporcionó una dirección 
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Establezca Si **Visitante conocido, mostrar**: a **HTML personalizado**.
+1. Establecer si **Visitante conocido, mostrar**: a **HTML personalizado**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Haga clic en el ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML personalizado** que se mostrará a personas conocidas.
+1. Haga clic en ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar el **HTML personalizado** que se mostrará a las personas conocidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -44,33 +45,33 @@ Si se coordina a un visitante (persona conocida que proporcionó una dirección 
    |---|---|
    | `{{lead.FirstName}}` | Se mostrará el nombre de la persona. |
    | `{{lead.LastName}}` | Se mostrará el apellido de la persona. |
-   | `{{form.Button:default=Download}}` | Se mostrará el botón del formulario. Reemplace el área después de la variable `=` para cambiar el texto del botón. |
-   | `{{form.NotYou:default=Not you?}}` | Se mostrará un vínculo en caso de que la persona sea otra. Reemplace el área después de la variable `=` para cambiar el texto del vínculo. |
+   | `{{form.Button:default=Download}}` | Se mostrará el botón del formulario. Sustituya la zona después de `=` para cambiar el texto del botón. |
+   | `{{form.NotYou:default=Not you?}}` | Se mostrará un vínculo en caso de que la persona sea otra. Sustituya la zona después de `=` para cambiar el texto del vínculo. |
 
    >[!CAUTION]
    >
-   >Solo se pueden utilizar los cuatro tokens anteriores. Cualquier otro token no funcionará aquí.
+   >Solo se pueden utilizar los cuatro tokens anteriores. Aquí no funcionará ningún otro token.
 
-1. Haga clic en **Finalizar**.
+1. Clic **Finalizar**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Haga clic en **Aprobar y cerrar**.
+1. Clic **Aprobar y cerrar**.
 
    >[!NOTE]
    >
-   >El formulario debe aprobarse para utilizarse en páginas de aterrizaje.
+   >El formulario debe aprobarse para poder utilizarse en páginas de aterrizaje.
 
    ![](assets/image2014-9-15-12-3a27-3a53.png)
 
    >[!NOTE]
    >
-   >Recuerde [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por los cambios del formulario.
+   >Recuerde lo siguiente [aprobar el borrador de la página de aterrizaje](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creado por el formulario cambia.
 
-   ¡Un trozo de tarta! Eche un vistazo a lo que una persona vería si regresara al mismo formulario:
+   ¡Pedazo de torta! Vea lo que una persona vería si volviera al mismo formulario:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
-   >Puede dirigir el clic del botón al recurso configurando la página de seguimiento del formulario en la dirección URL del archivo.
+   >Puede dirigir el clic del botón al recurso estableciendo la página de seguimiento del formulario en la dirección URL del archivo.

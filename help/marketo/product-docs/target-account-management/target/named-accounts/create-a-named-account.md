@@ -1,9 +1,10 @@
 ---
 unique-page-id: 12615781
-description: 'Crear una cuenta con nombre: Marketo Docs: documentación del producto'
+description: 'Creación de una cuenta con nombre: documentos de Marketo, documentación del producto'
 title: Crear una cuenta con nombre
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -14,11 +15,11 @@ ht-degree: 0%
 
 Siga estos pasos para crear manualmente una cuenta con nombre.
 
-1. En Cuentas con nombre, haga clic en el botón **Nuevo** y seleccione **Crear cuenta con nombre**.
+1. En Cuentas con nombre, haga clic en **Nuevo** y seleccione. **Crear cuenta con nombre**.
 
    ![](assets/two-1.png)
 
-1. Complete los campos deseados y haga clic en **Crear**.
+1. Rellene los campos deseados y haga clic en **Crear**.
 
    ![](assets/three-1.png)
 

@@ -1,22 +1,23 @@
 ---
 unique-page-id: 4719348
-description: 'Etiquetado de segmentos: Documentos de Marketo: Documentación del producto'
-title: Etiquetado del segmento
+description: 'Etiquetado Del Segmento: Documentos De Marketo: Documentación Del Producto'
+title: Etiquetar El Segmento
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# Etiquetado del segmento {#label-your-segment}
+# Etiquetar El Segmento {#label-your-segment}
 
-¿Tiene tantos segmentos que el desplazamiento se está volviendo complicado? Utilice etiquetas para etiquetar los segmentos de modo que pueda encontrarlos rápidamente.
+¿Tiene tantos segmentos que el desplazamiento se está volviendo engorroso? Utilice etiquetas para etiquetar los segmentos de modo que pueda encontrarlos rápidamente.
 
-## Etiquetar un segmento {#tag-a-segment}
+## Etiquetado de segmentos {#tag-a-segment}
 
-1. Inicie sesión en la personalización web y vaya a **Segmentos**.
+1. Inicie sesión en Web Personalization y vaya a **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -28,12 +29,12 @@ ht-degree: 0%
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. O bien, para crear una etiqueta nueva, haga clic en **Establecer etiqueta**, introduzca el nuevo nombre de etiqueta y haga clic en **Crear nuevo**.
+1. O bien, para crear una etiqueta nueva, haga clic en **Establecer etiqueta**, introduzca el nuevo nombre de la etiqueta y haga clic en **Crear nuevo**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
    >[!NOTE]
    >
-   >El botón Crear nuevo muestra el nombre de la etiqueta nueva. Si la etiqueta es demasiado larga, es posible que &quot;Crear nuevo&quot; no aparezca allí.
+   >El botón Crear nueva muestra el nombre de la etiqueta nueva. Si la etiqueta es demasiado larga, es posible que &quot;Crear nuevo&quot; no aparezca allí.
 
 ¡Genial! Ahora sabe cómo asignar y crear etiquetas para segmentos.

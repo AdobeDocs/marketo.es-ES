@@ -1,52 +1,53 @@
 ---
 unique-page-id: 13795534
-description: Tableros de perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
-title: Tableros de perspectivas de rendimiento
+description: Paneles de perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
+title: Paneles de Performance Insights
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
-# Tableros de perspectivas de rendimiento {#performance-insights-dashboards}
+# Paneles de Performance Insights {#performance-insights-dashboards}
 
-Obtenga más información sobre los paneles disponibles en MPI.
+Obtenga más información acerca de los paneles disponibles en MPI.
 
 ![](assets/1-4.png)
 
-## Compromiso {#engagement}
+## Participación {#engagement}
 
-El panel Participación le ayuda a medir la eficacia de sus programas de nutrición y de adquisición de nombres nuevos.
+El tablero de Engagement le ayuda a medir la efectividad de sus programas de crianza y de adquisición de nuevos nombres.
 
 ![](assets/two-3.png)
 
-Medición del compromiso de la audiencia
+Medición de la participación de audiencia
 
-Elija la **Éxito** para medir la participación de la audiencia en sus programas de formación. El éxito es una medida de la interacción significativa en Marketo.
+Elija la **Éxitos** métrica para medir la participación de la audiencia en sus programas de nutrición. El éxito es una medida de la interacción significativa en Marketo.
 
 ![](assets/3-4.png)
 
-El objetivo de un programa es crear una interacción significativa con la persona o el cliente potencial. El éxito se marca cuando una persona alcanza el estado que logra ese objetivo. Puede asistir a un seminario web, hacer clic en un vínculo de un correo electrónico o rellenar un formulario web. El éxito varía en función del canal del programa.
+El propósito de un programa es crear una interacción significativa con la persona o el cliente potencial. El éxito se marca cuando una persona alcanza el estado que logra ese objetivo. Puede asistir a un seminario web, hacer clic en un vínculo de un correo electrónico o rellenar un formulario web. El éxito varía según el canal del programa.
 
 >[!NOTE]
 >
->En un programa de seminario web, puede haber varios estados, como: Invitado, registrado y asistido. Invitados o registrados no son interacciones significativas porque la gente no ve el seminario web. La asistencia se considera un éxito en este caso.
+>En un programa de seminario web, puede haber varios estados, como Invitado, Registrado y Asistido. Las invitaciones o los registros no son interacciones significativas porque las personas no ven el seminario web. En este caso, la asistencia se considera un éxito.
 
-Medición de la adquisición de nuevos nombres
+Medición de adquisición de nombre nuevo
 
-Elija la **Nuevos nombres** para medir la eficacia de los nuevos programas de adquisición de nombres.
+Elija la **Nuevos nombres** métrica para medir la eficacia de los programas de adquisición de nuevos nombres.
 
 ![](assets/4-3.png)
 
 >[!NOTE]
 >
->Todos los programas deben estar configurados para establecer el programa de adquisición y la fecha de adquisición de posibles clientes a fin de que este panel le proporcione los mejores resultados.
+>Todos los programas deben configurarse para establecer el programa de adquisición y la fecha de adquisición de los posibles clientes a fin de que este panel le proporcione los mejores resultados.
 
 ## En preparación {#pipeline}
 
-El tablero Canalización muestra el rendimiento del canal según las métricas de primer toque y de varios toque.
+El panel Canalización muestra el rendimiento del canal mediante métricas de primer toque y de varios toques.
 
 ![](assets/five-1.png)
 
@@ -54,34 +55,34 @@ El tablero Canalización muestra el rendimiento del canal según las métricas d
  <tbody> 
   <tr> 
    <td><p><strong>Nuevas oportunidades</strong></p></td> 
-   <td><p>La parte del crédito que recibió el programa por influir en la creación de nuevas oportunidades. Puede ser una fracción si hay múltiples pistas involucradas.</p></td> 
+   <td><p>La porción de crédito que recibió el programa por influir en la creación de nuevas oportunidades. Puede ser una fracción si hubo múltiples posibles clientes involucrados.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Canalización creada</strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) que recibió el programa para influir en la creación de oportunidades. Puede ser una fracción del total si hay múltiples posibles clientes implicados.</p></td> 
+   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades. Puede ser una fracción del total si hubo múltiples posibles clientes involucrados.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Canalización abierta</strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades que aún están abiertas. Puede ser una fracción del total si hay múltiples posibles clientes implicados.</p></td> 
+   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades que aún están abiertas. Puede ser una fracción del total si hubo múltiples posibles clientes involucrados.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Ingreso esperado</strong></p></td> 
-   <td><p>La porción de crédito (en valor monetario) que recibió el programa para influir en la creación de oportunidades. Ingresos esperados es la probabilidad de oportunidad multiplicada por el valor de oportunidad. Puede ser una fracción si hay múltiples pistas involucradas.</p></td> 
+   <td><p>La porción de crédito (en valor monetario) que recibió el programa por influir en la creación de oportunidades. Ingresos esperados es la probabilidad de oportunidad multiplicada por el valor de oportunidad. Puede ser una fracción si hubo múltiples posibles clientes involucrados.</p></td> 
   </tr> 
   <tr> 
    <td><p><strong>Costo por oportunidad creada</strong></p></td> 
-   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades se dividió por el número total de nuevas oportunidades creadas.</p></td> 
+   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades dividida por el número total de nuevas oportunidades creadas.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Canalización creada con relación de coste</strong></p></td> 
-   <td><p>La parte del crédito que recibió un programa por influir en la creación de nuevas oportunidades dividida por la parte del costo del programa que influyó en la creación de oportunidades.</p></td> 
+   <td><p><strong>Canalización creada a relación de coste</strong></p></td> 
+   <td><p>La porción de crédito que recibió un programa por influir en la creación de nuevas oportunidades dividida por la porción del costo del programa que influyó en la creación de oportunidades.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Ingresos {#revenue}
 
-El panel Ingresos muestra el rendimiento del canal mediante métricas de primer toque y de varios toque.
+El panel Ingresos muestra el rendimiento del canal mediante métricas de primer toque y de varios toques.
 
 ![](assets/six-1.png)
 
@@ -89,19 +90,19 @@ El panel Ingresos muestra el rendimiento del canal mediante métricas de primer 
  <tbody> 
   <tr> 
    <td><p><strong>Oportunidades ganadas</strong></p></td> 
-   <td><p>La parte del crédito que recibió un programa por influir en una oportunidad ganada.</p></td> 
+   <td><p>La porción de crédito que recibió un programa por influir en una oportunidad ganada.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Ganancias</strong></p></td> 
+   <td><p><strong>Ingresos obtenidos</strong></p></td> 
    <td><p>La porción de crédito (en valor monetario) recibida por influir en una oportunidad ganada.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Costo por oportunidad ganado</strong></p></td> 
-   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades se dividió por el número total de nuevas oportunidades creadas.</p></td> 
+   <td><p><strong>Costo por oportunidad ganada</strong></p></td> 
+   <td><p>La parte del costo del programa que influyó en las nuevas oportunidades dividida por el número total de nuevas oportunidades creadas.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Relación entre ingresos y costos</strong></p></td> 
-   <td><p>La porción del crédito (en valor monetario) recibida por influir en una oportunidad ganada dividida por la porción del costo del programa que influyó en las nuevas oportunidades.</p></td> 
+   <td><p><strong>Relación de ingresos obtenidos y costos</strong></p></td> 
+   <td><p>La porción de crédito (en valor monetario) recibida por influir en una oportunidad ganada dividida por la porción del costo del programa que influyó en nuevas oportunidades.</p></td> 
   </tr> 
  </tbody> 
 </table>

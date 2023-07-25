@@ -1,61 +1,60 @@
 ---
-description: 'Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics - Marketo Docs - Documentación del producto'
+description: 'Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics - Documentos de Marketo - Documentación del producto'
 title: 'Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics'
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
-source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
-# Paso 3 de 4: Configuración de la aplicación cliente en MS Dynamics {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
+# Paso 3 de 4: Configurar la aplicación cliente en MS Dynamics {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 
 >[!PREREQUISITES]
 >
->* [Paso 1 de 4: Instalación de la solución de Marketo con la conexión de control de contraseña del propietario de recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
->* [Paso 2 de 4: Configurar la solución de Marketo con la conexión de control de contraseña del propietario del recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
+>* [Paso 1 de 4: Instalar la solución de Marketo con la conexión de control de contraseña del propietario de los recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>* [Paso 2 de 4: Configurar la solución de Marketo con la conexión de control de contraseña del propietario de los recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 
 1. Vaya a https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
-1. Siga todos los pasos. En el paso 3, introduzca un nombre de aplicación relevante (por ejemplo, &quot;Integración de Marketo&quot;). En Tipos de cuentas compatibles, seleccione Cuenta en este directorio organizativo solamente.
+1. Siga todos los pasos. En el paso 3, introduzca un nombre de aplicación adecuado (por ejemplo, &quot;Integración de Marketo&quot;). En Tipos de cuenta admitidos, seleccione Cuenta solo en este directorio organizativo.
 
-1. Escriba el ID de la aplicación (ClientId). Tendrá que introducirlo más adelante en Marketo.
+1. Anote el ID de la aplicación (ClientId). Tendrá que introducirlo en Marketo más adelante.
 
 1. Conceda el consentimiento del administrador siguiendo los pasos indicados en [este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
-1. Genere un secreto de cliente en el Centro de administración haciendo clic en **Certificados y secretos**.
+1. Genere un Secreto de cliente en el Centro de administración haciendo clic en **Certificados y secretos**.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-1.png)
 
-1. Haga clic en **Nuevo secreto de cliente**.
+1. Clic **Nuevo secreto de cliente**.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-2.png)
 
-1. Añada una descripción del Secreto del cliente y haga clic en **Agregar**.
+1. Añada una descripción del Secreto del cliente y haga clic en **Añadir**.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-3.png)
 
    >[!CAUTION]
    >
-   >Asegúrese de anotar el valor Secreto del cliente (que se ve en la captura de pantalla siguiente), ya que lo necesitará más adelante. Solo se muestra una vez y no podrá recuperarlo de nuevo.
+   >Asegúrese de tomar nota del valor Secreto del cliente (que se muestra en la captura de pantalla siguiente), ya que lo necesitará más adelante. Solo se muestra una vez y no podrá recuperarla de nuevo.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
-## Azure AD Federated con AD FS On-Premim {#azure-ad-federated-with-ad-fs-on-prem}
+## Azure AD Federated con AD FS local {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated Azure AD to ADFS Onprem necesita la creación de una directiva de Home Domain Discovery para la aplicación específica. Con esta directiva, Azure AD redireccionará la solicitud de autenticación al servicio de federación. Para ello, la sincronización hash de contraseña debe habilitarse en AD Connect. Para obtener más información, consulte [OAuth con ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) y [Establecer una directiva secundaria para una aplicación](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
+Federated Azure AD to ADFS Onprem necesita la creación de una directiva de detección de dominio kerberos doméstico para la aplicación específica. Con esta directiva, Azure AD redirigirá la solicitud de autenticación al servicio de federación. La sincronización de hash de contraseña debe habilitarse en AD Connect para esto. Para obtener más información, consulte [OAuth con ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) y [Establecer una directiva de hardware para una aplicación](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
+Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.).
 
 ## Antes de continuar con el paso 4 {#before-proceeding-to-step-4}
 
-* Si desea restringir el número de registros que sincroniza, [configurar un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ahora.
-* Ejecute el [Validar Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proceso. Comprueba que la configuración inicial se haya realizado correctamente.
+* Si desea restringir el número de registros que sincroniza, [configuración de un filtro de sincronización personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) ahora.
+* Ejecute el [Validar sincronización de Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proceso. Comprueba que las configuraciones iniciales se hayan realizado correctamente.
 * Inicie sesión en el usuario de sincronización de Marketo en Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->* [Paso 4 de 4: Conexión de la solución de Marketo con la conexión de control de contraseña del propietario del recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-
+>* [Paso 4 de 4: Conectar la solución de Marketo con la conexión de control de contraseña del propietario de los recursos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)

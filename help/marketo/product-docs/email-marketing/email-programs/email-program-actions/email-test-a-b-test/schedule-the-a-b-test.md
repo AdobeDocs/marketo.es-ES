@@ -1,38 +1,39 @@
 ---
 unique-page-id: 2359547
 description: Programar la prueba A/B - Documentos de Marketo - Documentación del producto
-title: Programar la prueba A/B
+title: Programe la prueba A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
-# Programar la prueba A/B {#schedule-the-a-b-test}
+# Programe la prueba A/B {#schedule-the-a-b-test}
 
-Una vez que haya añadido una prueba A/B a un programa de correo electrónico y haya definido los criterios ganadores, deberá programar cuándo comienza la prueba. Así es como.
+Una vez que haya agregado una prueba A/B a un programa de correo electrónico y haya definido los criterios de ganador que deberá programar cuando comience la prueba. Así es como.
 
 >[!PREREQUISITES]
 >
->[Agregar una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
->Para las pruebas de fecha y hora, solo es necesario configurarlas cuando reciba el resumen de los resultados de la prueba.
+>Para las pruebas de fecha y hora, solo debe configurar cuando reciba el resumen de los resultados de la prueba.
 
 1. Seleccione el **Enviar prueba** fecha.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Seleccione el **Enviar prueba** tiempo.
+1. Seleccione el **Enviar prueba** hora.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >Enviar prueba y enviar ganador deben tener al menos 4 horas de diferencia. Sin embargo, para los envíos más grandes puede que desee esperar 24 horas para permitir tiempo suficiente para obtener buenos resultados.
+   >Enviar prueba y Enviar ganador deben estar separados por lo menos 4 horas. Sin embargo, para envíos más grandes, es posible que desee esperar 24 horas para permitir tiempo suficiente para obtener buenos resultados.
 
 1. Haga lo mismo para **Enviar ganador**. Introduzca los destinatarios de la notificación (opcional) y haga clic en **Siguiente**.
 
@@ -44,22 +45,22 @@ Una vez que haya añadido una prueba A/B a un programa de correo electrónico y 
 
    >[!NOTE]
    >
-   >Si elige declarar un ganador manualmente, debe definir **Envío de informes** fecha y hora en lugar de **Finalizar envío** fecha y hora.
+   >Si elige declarar un ganador manualmente, debe definir lo siguiente **Envío de informe** fecha/hora en lugar de **Finalizar envío** fecha/hora.
 
-   ¡Super! Ya ha terminado, revise el resumen y haga clic en Cerrar.
+   ¡Súper! Ha terminado, revise el resumen y haga clic en Cerrar.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Verá el **Programación** el mosaico ya se ha actualizado.
+   Te darás cuenta de la **Programación** el mosaico se ha actualizado.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
    >[!NOTE]
    >
-   >La programación de una prueba A/B también configura la fecha de envío final o la fecha de envío del informe.
+   >Al programar una prueba A/B también se configura la fecha de envío final o la fecha de envío del informe.
 
-   Suponiendo que ya haya definido la audiencia y haya seleccionado un correo electrónico, el único paso que queda es aprobar el programa.
+   Si ya ha definido la audiencia y ha elegido un correo electrónico, el único paso que queda es aprobar el programa.
 
    >[!MORELIKETHIS]
    >
-   >[Aprobar/Desaprobar un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[Aprobar o desaprobar un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)

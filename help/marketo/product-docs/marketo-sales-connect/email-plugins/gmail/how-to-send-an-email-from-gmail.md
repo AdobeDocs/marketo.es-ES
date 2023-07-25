@@ -1,9 +1,10 @@
 ---
 unique-page-id: 14352440
-description: 'Cómo enviar un correo electrónico desde Gmail: Marketo Docs: documentación del producto'
+description: 'Cómo enviar un correo electrónico desde Gmail: documentos de Marketo, documentación del producto'
 title: Cómo enviar un correo electrónico desde Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->El uso de la funcionalidad &quot;Deshacer enviar&quot; en Gmail impide que el correo electrónico se envíe al usar la extensión de Gmail, pero es posible que siga viendo una actividad en la aplicación web y en Salesforce si está registrando actividades en Salesforce.
+>El uso de la funcionalidad &quot;Deshacer envío&quot; en Gmail impedirá que el correo electrónico se envíe al utilizar la extensión de Gmail, pero es posible que vea una actividad en la aplicación web, así como en Salesforce si está registrando actividades en Salesforce.
 
-1. En Gmail, haga clic en **Componer**.
+1. En Gmail, haga clic en **Escribir**.
 
 1. Introduzca la dirección de correo electrónico del destinatario.
 
@@ -24,4 +25,4 @@ ht-degree: 0%
 
 1. Seleccione una plantilla de correo electrónico o escriba un nuevo mensaje.
 
-1. Cuando el correo electrónico esté listo para enviarse, haga clic en el botón **Enviar y conectar** botón. Al hacer clic en ese botón en lugar del botón de envío normal, se asegura de que el correo electrónico se envíe con el seguimiento aplicado. Conexión de ventas rastreará cuándo se abre su correo electrónico y cuándo alguien hace clic en cualquier vínculo.
+1. Cuando el correo electrónico esté listo para enviarse, haga clic en **Send &amp; Connect** botón. Al hacer clic en ese botón en lugar del botón de envío normal, se asegura de que el correo electrónico se envíe con el seguimiento aplicado. Sales Connect realizará un seguimiento del momento en el que se abre el correo electrónico y del momento en el que alguien hace clic en cualquier vínculo.

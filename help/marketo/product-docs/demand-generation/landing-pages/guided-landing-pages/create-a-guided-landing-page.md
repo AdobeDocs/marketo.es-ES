@@ -1,20 +1,21 @@
 ---
 unique-page-id: 7515266
-description: 'Creación de una página de aterrizaje guiada: Documentos de Marketo: Documentación del producto'
-title: Crear una página de aterrizaje guiada
+description: 'Creación de una página de aterrizaje guiada: documentos de Marketo, documentación del producto'
+title: Creación de una página de aterrizaje guiada
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# Crear una página de aterrizaje guiada {#create-a-guided-landing-page}
+# Creación de una página de aterrizaje guiada {#create-a-guided-landing-page}
 
 >[!NOTE]
 >
->Los modos de página de aterrizaje se definen mediante su plantilla. [Más información](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) acerca de las plantillas de página de aterrizaje guiadas y de formularios libres.
+>Los modos de página de aterrizaje se definen mediante su plantilla. [Más información](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) acerca de las plantillas de página de aterrizaje guiadas y de forma libre.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un programa o en Design Studio para su uso global.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/one-1.png)
 
@@ -32,33 +33,33 @@ Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un p
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Haga clic en el **Nuevo** lista desplegable. Select **Nuevo recurso local**.
+1. Haga clic en **Nuevo** menú desplegable. Seleccionar **Nuevo recurso local**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Select **Página de aterrizaje**.
+1. Seleccionar **Página de aterrizaje**.
 
    ![](assets/four.png)
 
-1. Asigne un nombre a la página de aterrizaje. Haga clic en el **Plantilla** y seleccione **Plantilla guiada**.
+1. Asigne un nombre a la página de aterrizaje. Haga clic en **Plantilla** y seleccione. **Plantilla guiada**.
 
    >[!NOTE]
    >
-   >Las plantillas de página de aterrizaje guiadas tienen la variable ![—](assets/image2015-5-26-9-3a26-3a51.png) junto a ellos. Las plantillas guiadas están estructuradas de modo que puedan permanecer totalmente adaptables.
+   >Las plantillas de página de aterrizaje guiada tienen el ![—](assets/image2015-5-26-9-3a26-3a51.png) junto a ellos. Las plantillas guiadas están estructuradas para que puedan seguir siendo totalmente adaptables.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
 ## Creación de una página de aterrizaje en Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Vaya a **Design Studio**.
+1. Ir a **Design Studio**.
 
    ![](assets/six.png)
 
-1. Haga clic en el **Nuevo** lista desplegable. Select **Nueva página de aterrizaje**.
+1. Haga clic en **Nuevo** menú desplegable. Seleccionar **Nueva página de aterrizaje**.
 
    ![](assets/seven.png)
 
-1. Asigne un nombre a la página de aterrizaje. Haga clic en el **Plantilla** y seleccione **Plantilla guiada**.
+1. Asigne un nombre a la página de aterrizaje. Haga clic en **Plantilla** y seleccione. **Plantilla guiada**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -68,6 +69,6 @@ Las páginas de aterrizaje guiadas se pueden crear como recursos locales de un p
 
 >[!TIP]
 >
->La dirección URL se crea automáticamente a partir de los nombres de programa y de página de aterrizaje. Para cambiar la dirección URL, edite la **Dirección URL de la página** campo .
+>La dirección URL se construye automáticamente a partir de los nombres de programa y página de aterrizaje. Para cambiar la dirección URL, edite **URL de página** field.
 >
->Borre la variable **Abrir en editor** casilla de verificación si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.
+>Borre la **Abrir en el editor** si no desea que el editor se abra inmediatamente después de hacer clic en **Crear**.

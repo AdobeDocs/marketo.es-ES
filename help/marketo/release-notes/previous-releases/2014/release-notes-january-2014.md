@@ -1,51 +1,52 @@
 ---
 unique-page-id: 2951050
-description: 'Notas de la versión, enero de 2014: Documentos de Marketo: Documentación del producto'
+description: 'Notas de la versión, enero de 2014, Documentos de Marketo: documentación del producto'
 title: Notas de la versión, enero de 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-# Notas de la versión: Enero de 2014 {#release-notes-january}
+# Notas de la versión: enero de 2014 {#release-notes-january}
 
-Las siguientes funciones se incluyen en la versión de enero de 2014. Compruebe su [Marketo Edition](https://www.marketo.com/pricing/) para la disponibilidad de las funciones.
+En la versión de enero de 2014 se incluyen las siguientes funciones. Compruebe su [Marketo Edition](https://www.marketo.com/pricing/) para la disponibilidad de funcionalidades.
 
 ## Forms 2.0 {#forms}
 
-Mirando hacia arriba: La documentación de Forms 2.0 estará disponible próximamente.
+Atención: la documentación de Forms 2.0 estará disponible próximamente.
 
-Controle el proceso de creación de formularios y ofrezca un descanso a los desarrolladores web. Forms 2.0 está diseñado para permitir a los especialistas en marketing crear formularios sólidos tanto visual como funcionalmente sin necesidad de conocimientos de programación.
+Tome el control del proceso de creación de formularios y dé un respiro a sus desarrolladores web. Forms 2.0 está diseñado para que los especialistas en marketing puedan crear formularios sólidos, tanto visual como funcionalmente, sin necesidad de tener conocimientos de programación.
 
-**Proporcione a su Forms la configuración visual que merecen:**
+**Dale a tu Forms el cambio visual que se merece:**
 
-Los diseños de temas, la personalización de botones y los diseños flexibles le permiten diseñar formularios de aspecto moderno que se adapten perfectamente a la apariencia de su sitio.
+Los diseños de temas, la personalización de botones y los diseños flexibles le permiten diseñar formularios de aspecto moderno que se adaptan perfectamente al aspecto y la presentación de su sitio.
 
 **Visibilidad condicional y lógica de página de seguimiento:**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-¿Quiere que &quot;Estado&quot; solo se muestre si un usuario selecciona Estados Unidos como &quot;País&quot;? ¿Qué sucede si se presentan diferentes documentos técnicos a los clientes en función de cómo responden a las preguntas que aparecen en el formulario? Cree lógica condicional en los formularios directamente desde el editor. ¡No se requiere javascript!
+¿Quiere que &quot;Estado&quot; aparezca únicamente si un usuario selecciona Estados Unidos como su &quot;País&quot;? ¿Qué le parece presentar distintos documentos a los clientes en función de cómo respondan a las preguntas del formulario? Cree una lógica condicional en los formularios directamente desde el editor. No se requiere JavaScript.
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
-**Incruste Forms fácilmente en sus propias páginas de aterrizaje:**
+**Incruste fácilmente Forms en sus propias páginas de aterrizaje:**
 
-Atrás quedaron los días en que se extraía código html de los formularios colocados en páginas de destino de Marketo y se soltaba en un iFrame. Simplemente, busque el código incrustado y colóquelo en la página de aterrizaje donde desee que se procese el formulario. Dos modos -normal y lightbox- le ofrecen aún más flexibilidad con los formularios de Marketo en su sitio.
+Atrás quedaron los días en que se quitaba el código HTML de los formularios colocados en las páginas de aterrizaje de Marketo y se soltaban en un iFrame. Simplemente, obtenga el código incrustado y colóquelo en la página de aterrizaje donde desee que se represente el formulario. Dos modos (normal y lightbox) le proporcionan aún más flexibilidad con los formularios Marketo en su sitio.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
 ## Límites de comunicación para el programa de correo electrónico {#communication-limits-for-email-program}
 
-[Establecer límites de comunicación en un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantizar que no se comunique de forma excesiva con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
+[Establecer límites de comunicación en un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantizar que no se comunica en exceso con la base de datos. Si una persona supera el límite definido, no recibirá el correo electrónico.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Campos adicionales en el análisis de pertenencia a programas {#additional-fields-in-program-membership-analysis}
+## Campos adicionales en Análisis de pertenencia a programas {#additional-fields-in-program-membership-analysis}
 
-Ahora puede agregar y agrupar su [Análisis de pertenencia al programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) métricas por atributos de cliente potencial y de empresa. Por ejemplo, puede añadir el campo Industry para ver la división de los miembros del programa y los éxitos.
+Ahora puede agregar y agrupar sus [Análisis de pertenencia a programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) métricas por atributos de cliente potencial y compañía. Por ejemplo, puede agregar el campo Sector para ver la división de los miembros del programa y los éxitos.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

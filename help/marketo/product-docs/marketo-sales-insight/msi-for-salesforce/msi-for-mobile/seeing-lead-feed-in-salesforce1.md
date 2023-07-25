@@ -1,38 +1,38 @@
 ---
 unique-page-id: 7512654
-description: Visualización de la fuente de posibles clientes en Salesforce1 - Marketo Docs - Documentación del producto
-title: Visualización de la fuente de posibles clientes en Salesforce1
+description: 'Ver la fuente de posibles clientes en Salesforce1: documentos de Marketo: documentación del producto'
+title: Ver la fuente de posibles clientes en Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Visualización de la fuente de posibles clientes en Salesforce1 {#seeing-lead-feed-in-salesforce}
+# Ver la fuente de posibles clientes en Salesforce1 {#seeing-lead-feed-in-salesforce}
 
-La fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes.
+La Fuente de posibles clientes es una lista actualizada de eventos interesantes realizados por sus posibles clientes.
 
-1. Vaya a la **Marketo** de Salesforce1.
+1. Vaya a la **Marketo** en Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
-1. Puntee en la flecha abajo.
+1. Pulse la flecha hacia abajo.
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Toque **Fuente de posibles clientes**.
+1. Tocar **Fuente de posibles clientes**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
-   ¡Perfecto! ¡Ahora ya sabes cómo llegar a tu Fuente de Posibles Clientes!
+   ¡Perfecto! Ahora ya sabe cómo llegar a su fuente de posibles clientes.
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
 >[!MORELIKETHIS]
 >
 >* [Momentos interesantes en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Enviar acciones de correo electrónico y de campaña y lista de observación de Marketo en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Mejores apuestas en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
-
+>* [Envío de correos electrónicos de Marketo y acciones de Campaign y Watchlist en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Los mejores lugares para comer en Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

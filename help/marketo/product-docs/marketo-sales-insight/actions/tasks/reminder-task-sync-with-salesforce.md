@@ -2,7 +2,8 @@
 description: Sincronización de tareas de recordatorio con Salesforce - Documentos de Marketo - Documentación del producto
 title: Sincronización de tareas de recordatorio con Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 1%
@@ -30,7 +31,7 @@ A continuación se muestra una lista de los campos de tarea de recordatorio de l
   <th>Tarea de Salesforce</th>
  </tr>
  <tr>
-  <td>Nombre de tarea</td>
+  <td>Nombre de la tarea</td>
   <td>Campo de asunto</td>
   <td>Campo de resumen corto diseñado para mostrar el título de la tarea.</td>
  </tr>

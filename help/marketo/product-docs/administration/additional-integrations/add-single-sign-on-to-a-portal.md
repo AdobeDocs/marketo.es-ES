@@ -3,7 +3,8 @@ unique-page-id: 2360356
 description: Agregar el inicio de sesión único a un portal - Documentos de Marketo - Documentación del producto
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 0%
@@ -113,4 +114,3 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 >* [Uso de un ID universal para el inicio de sesión con suscripción](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [Restringir el inicio de sesión del usuario a solo SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Invitación de usuarios de Marketo a dos instancias con ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
-

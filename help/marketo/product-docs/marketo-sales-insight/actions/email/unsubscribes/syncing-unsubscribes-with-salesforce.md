@@ -2,10 +2,11 @@
 description: 'Sincronización de cancelaciones de suscripción con Salesforce: documentación de Marketo: documentación del producto'
 title: Sincronización de cancelaciones de suscripción con Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: ec79f405f975f2179aae94ec5556808785d7c594
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '495'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -53,8 +54,8 @@ Los usuarios pueden decidir si desean sincronizar sus cancelaciones de suscripci
 
    | Campo | Descripción |
    |---|---|
-   | **Sincronizar con el campo de exclusión de Salesforce** | Seleccionado de forma predeterminada, solo actualiza el campo Exclusión de Salesforce. |
-   | **Sincronizar con el campo de exclusión de ventas de Marketo** | Si desea cancelar la suscripción de ventas y marketing por separado, elija esta opción para actualizar las suscripciones adicionales [Campo de exclusión de ventas de Marketo.](#msoo) |
+   | **Sincronizar con el campo No participar en Salesforce** | Seleccionado de forma predeterminada, solo actualiza el campo Exclusión de Salesforce. |
+   | **Sincronizar con el campo No participar en Marketo Sales.** | Si desea cancelar la suscripción de ventas y marketing por separado, elija esta opción para actualizar las suscripciones adicionales [Campo de exclusión de ventas de Marketo.](#msoo) |
 
 ## Instalación del campo de exclusión en el diseño de página {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -94,7 +95,7 @@ La exclusión de correo electrónico es un campo estándar en Salesforce que est
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
-## Opción de exclusión de ventas de Marketo {#marketo-sales-opt-out}
+## No participar de las Marketo Sales {#marketo-sales-opt-out}
 
 El campo de exclusión de ventas de Marketo es un campo personalizado disponible para los usuarios que han instalado el paquete de información de ventas de Marketo [desde la AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 

@@ -2,7 +2,8 @@
 description: 'Enrutamiento: documentos de Marketo: documentación del producto'
 title: Enrutando
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -11,25 +12,25 @@ ht-degree: 1%
 
 # Enrutando {#routing}
 
-Las reuniones reservadas en Dynamic Chat pueden ser enrutadas de dos maneras. Redondeo o uso de una regla personalizada.
+Las reuniones reservadas en Dynamic Chat se pueden organizar de dos maneras. Operación por turnos o uso de una regla personalizada.
 
-Redondeo: Las reuniones se asignan a los agentes secuencialmente. Así que si tiene cinco agentes y el agente tres tomó la última reunión, el agente cuatro tendrá la siguiente, seguido del agente cinco, luego volverá al agente uno.
+Operación por turnos: las reuniones se asignan a los agentes de forma secuencial. Así que si tienes cinco agentes y el agente tres tomó la última reunión, el agente cuatro tendrá la siguiente, seguido por el agente cinco, y luego volverá al agente uno.
 
-Regla personalizada: Puede elegir agentes específicos para recibir reuniones en función de los atributos que seleccione.
+Regla personalizada: puede elegir agentes específicos para recibir reuniones en función de los atributos que seleccione.
 
 ## Crear una regla personalizada {#create-a-custom-rule}
 
-En este ejemplo estamos enviando todas las reuniones de los estados inferidos de CA, OR y WA al agente John.
+En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, OR y WA al agente John.
 
 1. En Dynamic Chat, seleccione **Enrutamiento**.
 
    ![](assets/routing-1.png)
 
-1. Haga clic en el **Reglas personalizadas** pestaña .
+1. Haga clic en **Reglas personalizadas** pestaña.
 
    ![](assets/routing-2.png)
 
-1. Haga clic en **Crear regla**.
+1. Clic **Crear regla**.
 
    ![](assets/routing-3.png)
 
@@ -41,7 +42,7 @@ En este ejemplo estamos enviando todas las reuniones de los estados inferidos de
 
    ![](assets/routing-5.png)
 
-1. Arrastre los atributos que desee.
+1. Arrastre sobre los atributos que desee.
 
    ![](assets/routing-6.png)
 
@@ -49,6 +50,6 @@ En este ejemplo estamos enviando todas las reuniones de los estados inferidos de
 
    ![](assets/routing-7.png)
 
-1. Cuando se seleccionen todos los valores deseados, haga clic en **Guardar**.
+1. Cuando haya seleccionado todos los valores deseados, haga clic en **Guardar**.
 
    ![](assets/routing-8.png)

@@ -2,10 +2,11 @@
 description: Administrar grupos - Documentos de Marketo - Documentación del producto
 title: Administrar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
-## Tipos de grupo {#group-types}
+## Tipos de grupos {#group-types}
 
 <table> 
  <colgroup> 
@@ -27,30 +28,30 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
   </tr> 
   <tr> 
    <td>Todas las personas</td> 
-   <td>Todos los contactos de todos los usuarios que son visibles para usted.</td> 
+   <td>Todos los contactos de todos los usuarios visibles para usted.</td> 
   </tr> 
   <tr> 
    <td>Grupos dinámicos</td> 
-   <td>Mis contactos: Todos los contactos que posea.<br>Cancelación de suscripción: Contactos que han optado por no recibir correspondencia.</td> 
+   <td>Mis contactos: Todos los contactos que posee.<br>Cancelaciones de la suscripción: contactos que han optado por no recibir correspondencia.</td> 
   </tr> 
   <tr> 
    <td>Mis grupos</td> 
-   <td>Grupos que ha creado. Pueden contener sus contactos o contactos que se han compartido con usted.</td> 
+   <td>Grupos que ha creado. Pueden contener sus contactos o los contactos que se han compartido con usted.</td> 
   </tr> 
   <tr> 
    <td>Grupos de equipos</td> 
-   <td>Grupos que han sido compartidos con y/o por usted. Pueden contener contactos propios de sus compañeros de equipo o contactos que ha compartido con ellos.</td> 
+   <td>Grupos que se han compartido con usted o que han compartido con usted. Pueden contener contactos de sus compañeros o contactos que haya compartido con ellos.</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Crear un grupo {#create-a-group}
 
-1. En la página Personas , haga clic en el botón **+** junto a Grupos.
+1. En la página Personas, haga clic en **+** junto a Grupos.
 
    ![](assets/manage-groups-1.png)
 
-1. Asigne un nombre al grupo y haga clic en **Crear**.
+1. Nombre el grupo y haga clic en **Crear**.
 
    ![](assets/manage-groups-2.png)
 
@@ -62,63 +63,63 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
    ![](assets/manage-groups-3.png)
 
-1. Haga clic en **Acciones de grupo** y seleccione **Crear contacto y agregar al grupo**.
+1. Clic **Acciones de grupo** y seleccione **Crear contacto y agregar a grupo**.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >Esto agregará un contacto a la vez. Para agregar varios contactos al mismo tiempo, siga [estos pasos](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >Esto añadirá un contacto a la vez. Para agregar varios contactos al mismo tiempo, siga [estos pasos](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Rellene la información del contacto y haga clic en **Crear** (o **Crear y agregar nuevo** para agregar otro).
 
    ![](assets/manage-groups-5.png)
 
-   ¡Y ya terminaste!
+   ¡Y has terminado!
 
    >[!NOTE]
    >
-   >Es posible que tenga que hacer clic en actualizar para ver si se han agregado nuevos contactos.
+   >Es posible que tenga que actualizar para ver los contactos nuevos agregados.
 
 ## Compartir un grupo {#share-a-group}
 
-1. En la página Personas, busque y seleccione el grupo que desee compartir.
+1. En la página Personas, busque y seleccione el grupo que desea compartir.
 
    ![](assets/manage-groups-6.png)
 
-1. Haga clic en los datos (tres puntos verticales) y seleccione **Compartir**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **Compartir**.
 
    ![](assets/manage-groups-7.png)
 
-1. Haga clic en la lista desplegable, elija el equipo con el que desea compartir el grupo y haga clic en **Compartir**.
+1. Haga clic en el menú desplegable, elija el equipo con el que desea compartir el grupo y haga clic en **Compartir**.
 
    ![](assets/manage-groups-8.png)
 
-   Usted sigue siendo el propietario del grupo, pero ahora aparece debajo de _Grupos de equipos_.
+   Sigue siendo el propietario del grupo, pero ahora aparecerá en _Grupos de equipo_.
 
 ## Dejar de compartir un grupo {#unshare-a-group}
 
-1. En la página Personas, busque y seleccione el grupo que desee dejar de compartir.
+1. En la página Personas, busque y seleccione el grupo que desea dejar de compartir.
 
    ![](assets/manage-groups-9.png)
 
-1. Haga clic en los datos (tres puntos verticales) y seleccione **Compartir**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **Compartir**.
 
    ![](assets/manage-groups-10.png)
 
-1. Haga clic en el **X** junto al equipo con el que compartió el grupo y, a continuación, haga clic en fuera del modal.
+1. Haga clic en **X** junto al equipo con el que compartió el grupo y, a continuación, haga clic en fuera del modal.
 
    ![](assets/manage-groups-11.png)
 
    El grupo ya no se comparte.
 
-## Cambiar el nombre de un grupo {#rename-a-group}
+## Cambiar nombre de grupo {#rename-a-group}
 
 1. En la página Personas, busque y seleccione el grupo cuyo nombre desea cambiar.
 
    ![](assets/manage-groups-12.png)
 
-1. Haga clic en los datos (tres puntos verticales) y seleccione **Editar**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **Editar**.
 
    ![](assets/manage-groups-13.png)
 
@@ -128,14 +129,14 @@ Aprenda a administrar sus grupos en Acciones de perspectiva de ventas.
 
 ## Eliminar un grupo {#delete-a-group}
 
-1. En la página Personas, busque y seleccione el grupo que desee eliminar.
+1. En la página Personas, busque y seleccione el grupo que desea eliminar.
 
    ![](assets/manage-groups-15.png)
 
-1. Haga clic en los datos (tres puntos verticales) y seleccione **Eliminar**.
+1. Haga clic en los puntos (tres puntos verticales) y seleccione **Eliminar**.
 
    ![](assets/manage-groups-16.png)
 
-1. Haga clic en **Eliminar** para confirmar.
+1. Clic **Eliminar** para confirmar.
 
    ![](assets/manage-groups-17.png)

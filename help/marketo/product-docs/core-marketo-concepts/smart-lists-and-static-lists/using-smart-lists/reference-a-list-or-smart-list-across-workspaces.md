@@ -1,30 +1,31 @@
 ---
 unique-page-id: 4720377
-description: 'Hacer referencia a una lista o lista inteligente en varios espacios de trabajo: Documentos de Marketo: Documentación del producto'
-title: Hacer referencia a una lista o lista inteligente en varios espacios de trabajo
+description: 'Hacer referencia a una lista o lista inteligente en espacios de trabajo: documentos de Marketo, documentación del producto'
+title: Hacer referencia a una lista o lista inteligente en espacios de trabajo
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Hacer referencia a una lista o lista inteligente en varios espacios de trabajo {#reference-a-list-or-smart-list-across-workspaces}
+# Hacer referencia a una lista o lista inteligente en espacios de trabajo {#reference-a-list-or-smart-list-across-workspaces}
 
-Las listas y listas inteligentes se pueden compartir y hacer referencia a ellas en todos los espacios de trabajo para facilitar su reutilización desde la base de datos.
+Las listas y listas inteligentes se pueden compartir y se puede hacer referencia a ellas en espacios de trabajo para facilitar su reutilización desde la base de datos.
 
 >[!NOTE]
 >
->Se aplican las reglas de partición de persona (listas inteligentes y listas estáticas en un espacio de trabajo solo muestran personas que son miembros de la lista *y* miembros del espacio de trabajo actual).
+>Se aplican reglas de partición de persona (las listas inteligentes y las listas estáticas de un espacio de trabajo solo muestran a las personas que son miembros de la lista) *y* miembros del espacio de trabajo actual).
 
-## Compartir una lista o una lista inteligente  {#share-a-list-or-smart-list}
+## Compartir una lista o lista inteligente  {#share-a-list-or-smart-list}
 
 1. Vaya a la **Base de datos**.
 
    ![](assets/db-1.png)
 
-1. Haga clic con el botón derecho en una carpeta de campaña. Select **Nueva carpeta**.
+1. Haga clic con el botón derecho en una carpeta de campaña. Seleccionar **Nueva carpeta**.
 
    >[!NOTE]
    >
@@ -40,7 +41,7 @@ Las listas y listas inteligentes se pueden compartir y hacer referencia a ellas 
 
    ![](assets/four-3.png)
 
-1. Elija un **Espacio de trabajo** para compartir con. Select **Guardar**.
+1. Elija una **Workspace** para compartir con. Seleccionar **Guardar**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -48,4 +49,4 @@ Las listas y listas inteligentes se pueden compartir y hacer referencia a ellas 
 
    >[!NOTE]
    >
-   >En Marketing Activities, solo puede compartir carpetas de nivel superior. En la base de datos, puede compartir carpetas de nivel superior así como un nivel inferior.
+   >En las actividades de marketing, solo puede compartir carpetas de nivel superior. En la base de datos, puede compartir carpetas de nivel superior y de un nivel inferior.

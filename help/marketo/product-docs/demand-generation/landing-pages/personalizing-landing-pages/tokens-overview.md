@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2950799
-description: Información general sobre tokens - Documentos de Marketo - Documentación del producto
+description: Información general de tokens - Documentos de Marketo - Documentación del producto
 title: Información general sobre tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -12,15 +13,15 @@ ht-degree: 0%
 
 # Información general sobre tokens {#tokens-overview}
 
-Un token es una variable que se puede utilizar en pasos de flujo de campañas inteligentes de Marketo, correos electrónicos, páginas de aterrizaje, fragmentos y campañas web.
+Un token es una variable que se puede utilizar en pasos, correos electrónicos, páginas de aterrizaje, fragmentos de código y campañas web de campañas inteligentes de Marketo.
 
 ## Explicación de los valores predeterminados {#understanding-default-values}
 
-Al utilizar un token, también desea proporcionar un valor predeterminado. Este es el texto que muestra si una persona no tiene un valor para el campo al que hace referencia.
+Cuando se utiliza un token, también se desea proporcionar un valor predeterminado. Este es el texto que muestra si una persona no tiene un valor para el campo al que hace referencia.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &quot;Saludos, terrling&quot; (valor predeterminado).
+En este ejemplo, el correo electrónico dirá &quot;Greetings, (first name)&quot; o &quot;Greetings, terrling&quot; (valor predeterminado).
 
 ![](assets/two.png)
 
@@ -86,9 +87,9 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Los campos de persona personalizada también funcionan si utiliza su nombre para mostrar, por ejemplo: `{{lead.Custom Field Name}}`
+* Los campos de persona personalizados también funcionan si se utiliza su nombre para mostrar, por ejemplo, `{{lead.Custom Field Name}}`
 
-## Tokens de la empresa {#company-tokens}
+## Tokens de empresa {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -109,7 +110,7 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Los campos personalizados de empresa también funcionan si utiliza su nombre para mostrar, por ejemplo. `{{Company.Custom Field Name}}`
+* Los campos personalizados de empresa también funcionan si utiliza su nombre para mostrar, por ejemplo,. `{{Company.Custom Field Name}}`
 
 ## Tokens de campaña {#campaign-tokens}
 
@@ -121,7 +122,7 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 >[!NOTE]
 >
->Obtenga más información sobre estos tokens en la sección [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Obtenga más información acerca de estos tokens en la [Glosario de tokens del sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -148,9 +149,9 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 >[!NOTE]
 >
->Encontrar más detalles sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en función de los déclencheur utilizados en una campaña inteligente.
+>Más información sobre [tokens para momentos interesantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) en función de los déclencheur utilizados en una campaña inteligente.
 
-## Tokens del programa {#program-tokens}
+## Tokens de programa {#program-tokens}
 
 * `{{program.Name}}`
 * `{{program.Description}}`
@@ -158,14 +159,14 @@ En este ejemplo, el correo electrónico dirá &quot;Saludos, (nombre)&quot; o &q
 
 ## Mis tokens {#my-tokens}
 
-Mis tokens se definen dentro de un programa y comienzan por `{{my.` seguido del nombre creado para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Mis tokens se definen dentro de un programa y comienzan por `{{my.` seguido del nombre que creó para el token. Más información sobre [Mis tokens en un programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token de miembro {#member-token}
 
-Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para direcciones URL únicas para los asistentes a seminarios web. Cada persona tiene una dirección URL única para acceder al seminario web que se puede insertar mediante un `{{member.webinar url}}` token. La variable `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
+Los tokens de miembro se utilizan para insertar valores únicos de socios de servicios integrados. Un uso común de los tokens de miembro es para URL únicas para los asistentes al seminario web. Cada persona tiene una URL única para acceder al seminario web que se puede insertar mediante una `{{member.webinar url}}` token. El `{{member.webinar url}}` resuelve automáticamente la URL de confirmación única de la persona generada por el proveedor de servicios.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->La variable `{{member.webinar url}}` solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del Programa de eventos.
+>El `{{member.webinar url}}` Este token solo se rellenará si la campaña inteligente que envía el correo electrónico es un recurso secundario del programa de eventos.

@@ -4,7 +4,8 @@ title: Desconectar Salesforce De Las Acciones De Perspectiva De Ventas
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Desconectar Salesforce De Las Acciones De Perspectiva De Ventas {#disconnect-salesforce-from-sales-insight-actions}
 
-A veces, es posible que deba desconectar la cuenta de Salesforce de la cuenta de Acciones de perspectivas de ventas. Así es como.
+A veces, es posible que tenga que desconectar su cuenta de Salesforce de su cuenta de acciones de perspectiva de ventas. Así es como.
 
 ## Cómo desconectarse de Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -25,11 +26,11 @@ A veces, es posible que deba desconectar la cuenta de Salesforce de la cuenta de
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. En la pestaña Conexiones y personalizaciones , haga clic en **Desconectar**.
+1. En la pestaña Conexiones y personalizaciones, haga clic en **Desconectar**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
-## Cómo desconectarse de Salesforce como no administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Cómo desconectarse de Salesforce sin ser administrador {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. En Acciones de perspectiva de ventas, haga clic en el icono de engranaje en la esquina superior derecha y seleccione **Configuración**.
 
@@ -39,6 +40,6 @@ A veces, es posible que deba desconectar la cuenta de Salesforce de la cuenta de
 
 PICC
 
-1. En la pestaña Conexiones y personalizaciones , haga clic en **Desconectar**.
+1. En la pestaña Conexiones y personalizaciones, haga clic en **Desconectar**.
 
 PICC

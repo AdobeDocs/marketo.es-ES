@@ -3,7 +3,8 @@ unique-page-id: 4719336
 description: Configuración de usuario - Documentos de Marketo - Documentación del producto
 title: Configuración de usuario
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 1%
@@ -12,9 +13,9 @@ ht-degree: 1%
 
 # Configuración de usuario {#user-settings}
 
-Cambie la configuración, como la zona horaria o los informes de correo electrónico de Personalización web .
+Cambie la configuración, como la zona horaria o los informes de correo electrónico de Web Personalization.
 
-## Perfil de usuario/contraseñas/zonas horarias {#user-profile-passwords-time-zones}
+## Perfil de usuario / Contraseñas / Zonas horarias {#user-profile-passwords-time-zones}
 
 1. Haga clic en su nombre y seleccione **Configuración de usuario**.
 
@@ -26,29 +27,29 @@ Cambie la configuración, como la zona horaria o los informes de correo electró
 
    En la página Configuración de usuario puede:
 
-   * Cambiar la dirección de correo electrónico
-   * Añadir detalles personales (nombre y apellido, número de móvil y zona horaria)
-   * Seleccione el número de filas que desea exportar al exportar tablas en la plataforma. Consulte el campo : &quot;Número máximo de filas en la exportación de Excel (limitado a 10.000)&quot;
-   * Seleccione las Notificaciones móviles para una nueva persona o una lista de observación relacionada con la aplicación móvil
+   * Cambiar su dirección de correo electrónico
+   * Añadir datos personales (nombre y apellido, número de móvil y zona horaria)
+   * Seleccione el número de filas que desee exportar al exportar tablas en la plataforma. Ver campo: &quot;Número máximo de filas en la exportación de Excel (limitado a 10 000)&quot;
+   * Seleccione las notificaciones móviles de una nueva persona o lista de observación relacionada con la aplicación móvil
    * Ajuste la configuración de la región personal haciendo clic en **Editar regiones**.
    * Cambiar la contraseña
-   * Seleccione la configuración de notificación de los informes de correo electrónico para los informes de organizaciones, personas, campañas y rendimiento de los recursos
+   * Seleccione la configuración de notificación de los informes de correo electrónico para los informes de correo electrónico sobre organizaciones, personas, campañas y rendimiento de los recursos
 
-   Haga clic en **Guardar** después de realizar cualquier cambio.
+   Clic **Guardar** después de realizar cualquier cambio.
 
    >[!NOTE]
    >
-   >Al seleccionar la región, solo se mostrarán datos y se enviarán informes por correo electrónico relacionados con organizaciones y personas de la región definida.
+   >Si selecciona su región, solo se mostrarán datos y se enviarán informes de correo electrónico relacionados con las organizaciones y las personas de la región definida.
 
 ## Seleccionar informes de correo electrónico {#select-email-reports}
 
-Seleccione cuál [informe de correo electrónico](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) para asociarlo al usuario y frecuencia (diaria, semanal o trimestral) en la que se enviará el informe.
+Seleccione qué [informe de correo electrónico](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) para asociarlo a su usuario y frecuencia (diaria, semanal o trimestral) de envío del informe.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Hacer clic **Guardar** no le sacará de Configuración de usuario. Para salir, haga clic en el logotipo de Marketo en la parte superior izquierda y seleccione el destino.
+>Clic **Guardar** no le sacará de Configuración de usuario. Para salir, haga clic en el logotipo de Marketo en la esquina superior izquierda y seleccione el destino.
 
 >[!MORELIKETHIS]
 >

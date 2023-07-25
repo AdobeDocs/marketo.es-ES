@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147108
-description: 'Importar un programa: Documentos de Marketo: Documentación del producto'
+description: 'Importación de un programa: documentos de Marketo, documentación del producto'
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 0%
@@ -12,45 +13,45 @@ ht-degree: 0%
 
 # Importar un programa {#import-a-program}
 
-Un programa se puede importar de una suscripción a otra de Marketo. Por ejemplo, puede crear un programa en un simulador para pruebas y luego importarlo a su suscripción activa. Además, puede importar un programa creado previamente desde la biblioteca de programas de Marketo.
+Un programa se puede importar de una suscripción de Marketo a otra. Por ejemplo, puede crear un programa en una zona protegida y luego importarlo en su suscripción activa. Además, puede importar un programa generado previamente desde la Biblioteca de programas de Marketo.
 
-## Importación de un programa {#importing-a-program}
+## Importación de programas {#importing-a-program}
 
-1. Vaya a **Actividades de marketing.**
+1. Ir a **Actividades de marketing.**
 
    ![](assets/import-a-program-1.png)
 
-1. Haga clic en **Nuevo** desplegable . Select **Importar programa**.
+1. Clic **Nuevo** desplegable. Seleccionar **Importar programa**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >Importación de programa solo está disponible para usuarios que tienen roles con permiso de importación de programa habilitado. Más información sobre [administración de funciones y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >La importación de programas solo está disponible para los usuarios que tienen roles con el permiso Importar programa habilitado. Más información sobre [administrar roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Para conectar una cuenta de simulación de pruebas a su suscripción activa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Para conectar una cuenta de zona protegida a su suscripción activa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Seleccionar un Marketo **Suscripción** y un programa para importar. Haga clic en **Siguiente**.
+1. Seleccione una Marketo **Suscripción** y un programa para importar. Clic **Siguiente**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especifique un **Carpeta de campaña** para el programa importado. Haga clic en **Siguiente.**
+1. Especifique un **Carpeta de campaña** para el programa importado. Clic **Siguiente.**
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Asegúrese de **Usar conflicto predeterminado** está seleccionada. Las reglas de conflicto son necesarias cuando se importan programas en una instancia que tiene recursos del mismo nombre.
+   >Asegúrese de **Utilizar conflicto predeterminado** reglas está seleccionado. Se necesitan reglas de conflicto al importar programas en una instancia que tiene recursos del mismo nombre.
 
-1. Elija los detalles del conflicto que desee y haga clic en **Siguiente**.
+1. Seleccione los detalles del conflicto que desee y haga clic en **Siguiente**.
 
    ![](assets/import-a-program-5.png)
 
    >[!NOTE]
    >
-   >Al importar un programa que utilice Pasos de flujo personalizados o reglas de lista inteligente derivadas de un servicio de paso de flujo en una instancia de destino donde haya más de un proveedor de servicios compatible, se pedirá al usuario importador que asigne pasos o reglas al proveedor de servicios correcto en la instancia de destino.
+   >Al importar un programa que utiliza pasos de flujo personalizados o reglas de listas inteligentes derivadas de un servicio de pasos de flujo a una instancia de destino en la que haya más de un proveedor de servicios compatible, se solicitará al usuario importador que asigne pasos o reglas al proveedor de servicios correcto en la instancia de destino.
 
-1. Vista previa de detalles y **Importar** el programa.
+1. Previsualizar detalles y **Importar** el programa.
 
    ![](assets/import-a-program-6.png)
 
@@ -58,26 +59,26 @@ Recibirá una confirmación por correo electrónico una vez que la importación 
 
 >[!NOTE]
 >
->Deberá volver a programar campañas por lotes importadas y activar campañas de déclencheur. El sistema desactiva automáticamente las programaciones de campañas y las campañas de déclencheur en el programa importado.
+>Debe volver a programar las campañas por lotes importadas y activar las campañas de déclencheur. El sistema desactiva automáticamente las programaciones de campaña y las campañas de déclencheur en el programa importado.
 
-## Impacto en los activos externos durante las importaciones de programas {#impact-on-external-assets-during-program-imports}
+## Impacto en los activos externos durante las importaciones del programa {#impact-on-external-assets-during-program-imports}
 
-Los programas utilizan recursos externos como plantillas de correo electrónico, plantillas de página de aterrizaje, imágenes, formularios, tokens y etiquetas de programa. Tiene la capacidad de configurar cómo se gestionan las plantillas de página de aterrizaje y las etiquetas de programa, y Marketo administra automáticamente el resto.
+Los programas utilizan recursos externos como plantillas de correo electrónico, plantillas de página de aterrizaje, imágenes, formularios, tokens y etiquetas de programas. Tiene la capacidad de configurar cómo se gestionan las plantillas de página de aterrizaje y las etiquetas de programa, y Marketo administra automáticamente el resto.
 
-**Plantillas de página de correo electrónico/aterrizaje:** Las plantillas Correo electrónico/Página de aterrizaje se importan en Design Studio. Puede utilizar reglas de conflicto para configurar el comportamiento cuando exista una plantilla con el mismo nombre. Con la regla predeterminada, se anexará un número a una plantilla si existe uno con el mismo nombre. Por ejemplo, si ya tiene una plantilla denominada &quot;Plantilla estándar&quot;, la nueva se llamará &quot;Plantilla estándar - 1&quot;.
+**Plantillas de correo electrónico/página de aterrizaje:** Las plantillas de correo electrónico/página de aterrizaje se importan en Design Studio. Puede utilizar reglas de conflicto para configurar el comportamiento cuando existe una plantilla con el mismo nombre. Con la regla predeterminada, se anexará un número a una plantilla si existe una con el mismo nombre. Por ejemplo, si ya tiene una plantilla denominada &quot;Plantilla estándar&quot;, la nueva se llamará &quot;Plantilla estándar - 1&quot;.
 
-**Páginas de aterrizaje/Forms:** Si existe un formulario o una página de aterrizaje con el mismo nombre en Design Studio, se importarán, pero con un número añadido al nombre (por ejemplo: Página de aterrizaje - 1).
+**Páginas de destino/Forms:** Si existe un formulario o una página de aterrizaje con el mismo nombre en Design Studio, se importarán, pero con un número anexado a su nombre (por ejemplo: Página de aterrizaje - 1).
 
-**Imágenes:** Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño, a menos que exista una que tenga el mismo nombre.
+**Imágenes:** Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño a menos que exista una con el mismo nombre.
 
 **Tokens:** Los tokens que residen fuera de un programa se convertirán en tokens locales durante el proceso de importación.
 
 >[!CAUTION]
 >
->El tipo de imagen de mis tokens no es compatible con las importaciones de programas. Si se importa un programa que tiene un tipo de imagen, mis tokens, **no** tokens llegarán.
+>Tipo de imagen: mis tokens no son compatibles con las importaciones de programas. Si se importa un programa que tiene el tipo de imagen mis tokens, **no** los tokens se transferirán.
 
-**Etiquetas del programa:** Puede utilizar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. Si utiliza la regla predeterminada, se crearán las etiquetas de programa o puede ignorar las etiquetas.
+**Etiquetas de programas:** Puede utilizar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. El uso de la regla predeterminada creará las etiquetas de programa o puede optar por ignorar las etiquetas.
 
 >[!CAUTION]
 >
->Al importar un programa, correos electrónicos/páginas de aterrizaje que contienen [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) se omitirá.
+>Al importar un programa, correos electrónicos/páginas de aterrizaje que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) se omitirá.

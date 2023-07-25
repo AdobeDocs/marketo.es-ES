@@ -1,12 +1,13 @@
 ---
 unique-page-id: 7504218
-description: Informes RTP personalizados en Google Universal Analytics - Marketo Docs - Documentación del producto
+description: 'Informes RTP personalizados en Google Universal Analytics: documentos de Marketo, documentación del producto'
 title: Informes RTP personalizados en Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -14,38 +15,38 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[Integración de RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integración de RTP con Universal Analytics de Google](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-Este artículo explica cómo configurar informes personalizados RTP para Google Universal Analytics (GUA).  Los datos enviados desde RTP a GUA se pueden configurar como dos informes personalizados independientes llamados:
+Este artículo explica cómo configurar informes personalizados de RTP para Google Universal Analytics (GUA).  Los datos enviados desde RTP a GUA pueden configurarse como dos informes personalizados independientes llamados:
 
 * RTP B2B
-* Participación de RTP
+* Compromiso RTP
 
-## Configuración de informes personalizados {#setting-up-a-custom-report}
+## Configuración de un informe personalizado {#setting-up-a-custom-report}
 
-1. Inicie sesión en los Google Analytics.
+1. Inicie sesión en Google Analytics.
 
 1. Haga clic en **Personalización** en el menú superior.
 
-1. Haga clic en **+Nuevo informe personalizado**.
+1. Clic **+Nuevo informe personalizado**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Informe RTP B2B {#rtp-b-b-report}
 
-1. Asigne un nombre al informe **Informe RTP B2B**.
+1. Asignar un nombre al informe **Informe RTP B2B**.
 
-1. Asigne un nombre a la primera ficha **Industria**.
+1. Asigne un nombre a la primera pestaña **Industria**.
 
 >[!NOTE]
 >
->Usted **Duplicar esta pestaña** y crear similares adicionales: paso 5)
+>Lo hará **Duplicar esta pestaña** y cree otros similares: paso 5)
 
 1. Seleccione el **Explorer** tipo de informe.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. En el **Grupos de métricas** , seleccione las métricas que son relevantes para su negocio.
+1. En el **Grupos de métricas** , seleccione las métricas que sean relevantes para su negocio.
 
    a. Recomendamos lo siguiente:
 
@@ -61,7 +62,7 @@ Este artículo explica cómo configurar informes personalizados RTP para Google 
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. En el **Desgloses del Dimension** configure las dimensiones relevantes para cada pestaña como se muestra a continuación.
+1. En el **Profundizar en Dimension** establezca las dimensiones relevantes para cada pestaña como se muestra a continuación.
 
 <table> 
  <thead> 
@@ -72,7 +73,7 @@ Este artículo explica cómo configurar informes personalizados RTP para Google 
     </div></th> 
    <th> 
     <div>
-      Desgloses del Dimension
+      Profundizar en Dimension
     </div></th> 
   </tr> 
  </thead> 
@@ -100,33 +101,33 @@ Este artículo explica cómo configurar informes personalizados RTP para Google 
  </tbody> 
 </table>
 
-1. No establezca ningún filtro y configure este informe para que esté disponible para **Todos los datos del sitio web** (o cambiar si es relevante para una cuenta específica de Analytics).
+1. No establezca ningún filtro y este informe estará disponible para **Todos los datos del sitio web** (o cambie si es relevante para una cuenta de Analytics específica).
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## Informe de participación de RTP {#rtp-engagement-report}
 
-1. Asigne un nombre al informe **Informe de participación de RTP**.
+1. Asignar un nombre al informe **Informe de participación de RTP**.
 
-1. Defina el nombre de la primera ficha como **Toda la participación**.
+1. Establezca el nombre de la primera pestaña en **Todo el compromiso**.
 
 >[!NOTE]
 >
->Duplicará esta pestaña y creará otras similares (paso 5)
+>Duplicará esta pestaña y creará otras similares adicionales (paso 5)
 
 1. Seleccione el **Explorer** tipo de informe.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. En la sección Grupos de métricas , seleccione las métricas que sean relevantes para su negocio. Esta es una recomendación:
+1. En la sección Grupos de métricas, seleccione las métricas que sean relevantes para su negocio. Esta es una recomendación:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Duplique esta pestaña 4 veces y asígneles un nombre:
 
-   1. **Toda la participación**
+   1. **Todo el compromiso**
    1. **Participación por sector**
    1. **Participación por grupo**
    1. **Participación por categoría**
@@ -134,7 +135,7 @@ Este artículo explica cómo configurar informes personalizados RTP para Google 
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. En el **Desgloses del Dimension** defina las dimensiones relevantes para cada pestaña como se muestra a continuación:
+1. En el **Profundizar en Dimension** establezca las dimensiones relevantes para cada pestaña de la siguiente manera:
 
 <table> 
  <thead> 
@@ -145,13 +146,13 @@ Este artículo explica cómo configurar informes personalizados RTP para Google 
     </div></th> 
    <th> 
     <div>
-      Desgloses del Dimension 
+      Profundizar en Dimension 
     </div></th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td>Toda la participación</td> 
+   <td>Todo el compromiso</td> 
    <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -213,21 +214,21 @@ Este artículo explica cómo configurar informes personalizados RTP para Google 
    <td>Etiqueta de evento</td> 
    <td>Regex</td> 
    <td>#</td> 
-   <td colspan="1">Permite filtrar desde la campaña de informes utilizando # en el nombre de la campaña</td> 
+   <td colspan="1">Permite filtrar desde la campaña de informes usando # en el nombre de la campaña</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Configure este informe para que esté disponible para **Todos los datos del sitio web** (o cambiar si es necesario).
+1. Establecer este informe como disponible para **Todos los datos del sitio web** (o cámbielo si es necesario).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
 >[!MORELIKETHIS]
 >
->[Integración de RTP con Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integración de RTP con Universal Analytics de Google](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Tableros RTP personalizados en Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
+>[Paneles RTP personalizados en Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

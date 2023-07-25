@@ -1,26 +1,27 @@
 ---
 unique-page-id: 2359953
-description: 'Personas Que Han Agotado El Contenido: Documentos De Marketo: Documentación Del Producto'
-title: Personas que han agotado el contenido
+description: 'Personas Que Han Agotado El Contenido: Documentos De Marketo, Documentación Del Producto'
+title: Personas Que Tienen Contenido Agotado
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Personas que han agotado el contenido {#people-who-have-exhausted-content}
+# Personas Que Tienen Contenido Agotado {#people-who-have-exhausted-content}
 
-Cuando una persona ha recibido cada parte de contenido en un flujo, ha agotado todas las posibilidades y espera inactivo hasta que se añada más. Se puede encontrar gente que está &quot;agotada&quot; de varias maneras.
+Cuando una persona ha recibido cada fragmento de contenido en un flujo, ha agotado todas las posibilidades y esperará inactivo hasta que se añada más. Puede encontrar personas que están &quot;agotadas&quot; de varias maneras.
 
-## Miembro del filtro del Programa de participación {#member-of-engagement-program-filter}
+## Filtro Miembro del programa de participación {#member-of-engagement-program-filter}
 
-1. Cree una nueva lista inteligente y, a continuación, busque y arrastre el **Miembro del programa de participación** filtro.
+1. Cree una nueva lista inteligente y luego busque y arrastre en **Miembro del programa de participación** filtro.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
-1. Encuentre y seleccione el programa de participación en el que encontrará personas agotadas.
+1. Busque y seleccione el programa de participación en el que buscar personas agotadas.
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
@@ -28,19 +29,19 @@ Cuando una persona ha recibido cada parte de contenido en un flujo, ha agotado t
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Establezca **Contenido agotado** a **true**.
+1. Establecer **Contenido agotado** hasta **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
    Simplemente ejecute esta lista inteligente para ver la lista de personas que han agotado todo el contenido del flujo en el que se encuentran.
 
-## Ficha Miembros {#members-tab}
+## Pestaña Miembros {#members-tab}
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Seleccione su programa de participación y vaya a la **Miembros** pestaña .
+1. Seleccione el programa de participación y vaya a **Miembros** pestaña.
 
    ![](assets/memberstab.jpg)
 
@@ -48,11 +49,11 @@ Cuando una persona ha recibido cada parte de contenido en un flujo, ha agotado t
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
-   Esto le muestra a las personas que han agotado todo el contenido y a las que no lo han hecho.
+   Esto muestra las personas que han agotado todo el contenido y las que no lo han hecho.
 
-## Secuencia {#stream}
+## Stream {#stream}
 
-1. También puede ver el total de personas que han agotado el contenido en la ficha Emisiones del propio flujo.
+1. También puede ver el total de personas que han agotado el contenido en la pestaña Transmisiones en el propio flujo.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

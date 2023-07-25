@@ -1,28 +1,29 @@
 ---
 unique-page-id: 37356590
-description: 'Adición de contenido destacado al correo electrónico: documentos de Marketo: documentación del producto'
-title: Adición de contenido destacado al correo electrónico
+description: 'Adición de contenido de Highspot al correo electrónico: documentos de Marketo, documentación del producto'
+title: Añadir contenido de Highspot al correo electrónico
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Adición de contenido destacado al correo electrónico {#adding-highspot-content-to-your-email}
+# Añadir contenido de Highspot al correo electrónico {#adding-highspot-content-to-your-email}
 
-Si es cliente de Highspot, puede insertar fácilmente contenido de Highspot en sus correos electrónicos de Sales Connect.
+Si eres cliente de Highspot, puedes insertar fácilmente contenido de Highspot en tus correos electrónicos de Sales Connect.
 
-1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Componer** en el encabezado).
+1. Cree su borrador de correo electrónico (hay varias formas de hacerlo, en este ejemplo elegimos **Escribir** en el encabezado).
 
    ![](assets/one-5.png)
 
-1. Rellene el campo To e introduzca un Subject.
+1. Rellene el campo Para e introduzca un Asunto.
 
    ![](assets/two-5.png)
 
-1. Haga clic en el punto del correo electrónico en el que desea insertar el contenido de puntos altos. Haga clic en la lista desplegable de flecha (junto al icono de datos adjuntos) y seleccione **Alta**.
+1. Haga clic en el lugar del correo electrónico en el que desee insertar el contenido de la zona alta. Haga clic en la lista desplegable de flecha (junto al icono de datos adjuntos) y seleccione **Punto álgido**.
 
    ![](assets/three-5.png)
 
@@ -30,13 +31,13 @@ Si es cliente de Highspot, puede insertar fácilmente contenido de Highspot en s
 
    ![](assets/four-5.png)
 
-1. Seleccione el contenido deseado y haga clic en el botón **Añadir contenido** botón.
+1. Seleccione el contenido que desee y haga clic en **Añadir contenido** botón.
 
    ![](assets/five-3.png)
 
    >[!NOTE]
    >
-   >Si no ve el contenido que desea enumerar, utilice la barra de búsqueda situada en la parte superior.
+   >Si no ve el contenido que desea que aparezca en la lista, utilice la barra de búsqueda situada en la parte superior.
 
    ![](assets/six.png)
 

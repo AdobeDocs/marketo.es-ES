@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147122
-description: 'Administrar y ver miembros: documentos de Marketo: documentación del producto'
+description: 'Administración y visualización de miembros: documentos de Marketo, documentación del producto'
 title: Administrar y ver miembros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Administrar y ver miembros {#manage-and-view-members}
 
-Puede administrar y ver a sus miembros en sus programas mediante la pestaña Miembros .
+Puede administrar y ver los miembros de sus programas mediante la ficha Miembros.
 
 >[!NOTE]
 >
@@ -20,19 +21,19 @@ Puede administrar y ver a sus miembros en sus programas mediante la pestaña Mie
 
 ## Buscar un miembro {#search-for-a-member}
 
-En la parte inferior de la sección Miembros, utilice el campo de búsqueda para buscar miembros del programa por nombre, correo electrónico, puesto de trabajo o empresa.
+En la parte inferior de la sección Miembros, utilice el campo de búsqueda para buscar miembros del programa por nombre, correo electrónico, cargo o compañía.
 
-1. Haga clic en el **Miembros** del programa.
+1. Haga clic en **Miembros** de su programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
-1. Utilice el campo de búsqueda para buscar la lista de miembros.
+1. Utilice el campo de búsqueda para buscar en la lista de miembros.
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
 ## Exportar la cuadrícula de miembros {#export-the-members-grid}
 
-Para exportar la lista de miembros, haga clic en el icono de Excel situado junto al campo de búsqueda.
+Puede exportar la lista de miembros haciendo clic en el icono de Excel situado junto al campo de búsqueda.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
@@ -42,17 +43,17 @@ Arrastre y suelte las columnas para cambiar su orden. El par de flechas azules i
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-Haga clic con el botón derecho en el encabezado de la columna para ordenarla alfabéticamente, ya sea ascendente o descendente.
+Haga clic con el botón derecho en el encabezado de columna para ordenar alfabéticamente, ya sea en orden ascendente o descendente.
 
 ![](assets/image2014-10-1-17-3a3-3a28.png)
 
-## Elegir qué columnas son visibles en la cuadrícula {#choose-which-columns-are-visible-in-the-grid}
+## Elija qué columnas están visibles en la cuadrícula {#choose-which-columns-are-visible-in-the-grid}
 
-1. Haga clic en el **Ver** y seleccione **Crear vista**.
+1. Haga clic en **Ver** y seleccione. **Crear vista**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Asigne un nombre a la vista personalizada. Seleccione los títulos de las columnas. Haga clic en **Agregar** y **Eliminar** para mover columnas y crear una vista.
+1. Asigne un nombre a la vista personalizada. Seleccionar títulos de columnas. Clic **Añadir** y **Eliminar** para mover columnas y crear una vista.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -62,27 +63,27 @@ Haga clic con el botón derecho en el encabezado de la columna para ordenarla al
 
 ## Filtrar la cuadrícula de miembros  {#filter-the-members-grid}
 
-1. Haga clic en el **Filtro** y seleccione un paso de progresión para ordenarlo.
+1. Haga clic en **Filtrar** y seleccione un paso de progresión por el que ordenar.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
 ## Administrar estado de persona en la cuadrícula de miembros {#manage-person-status-in-the-members-grid}
 
-Puede cambiar el estado de las personas dentro de la cuadrícula de miembros.
+Puede cambiar el estado de sus personas dentro de la cuadrícula de miembros.
 
-1. Mantenga presionado **Ctrl/Cmd** y seleccione las personas.
+1. Mantenga pulsado **Ctrl/Cmd** y seleccione las personas.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Haga clic en el **Cambiar estado** y seleccione un estado.
+1. Haga clic en **Cambiar estado** y seleccione un estado.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Esto puede tardar un momento. Verá el siguiente mensaje cuando todo esté terminado.
+   Esto puede tardar un momento. ¡Verá el mensaje siguiente cuando haya terminado todo!
 
    ![](assets/changestatusconfirm.png)
 
-Tantas características, pero todas son bastante sencillas. ¡Disfrútelo!
+Muchas características, pero todas son bastante sencillas. ¡Disfrútelo!
 
 >[!MORELIKETHIS]
 >

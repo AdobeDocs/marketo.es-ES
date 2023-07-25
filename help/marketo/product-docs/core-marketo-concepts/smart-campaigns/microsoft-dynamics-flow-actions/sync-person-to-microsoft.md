@@ -1,9 +1,10 @@
 ---
 unique-page-id: 7514027
-description: 'Sincronizar persona con Microsoft: Marketo Docs: documentación del producto'
+description: 'Sincronizar persona con Microsoft: documentos de Marketo: documentación del producto'
 title: Sincronizar persona con Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 13%
@@ -14,7 +15,7 @@ ht-degree: 13%
 
 Esta función solo es para aquellos que integran Marketo con Microsoft Dynamics.
 
-## Resumen {#overview}
+## Información general {#overview}
 
 Este paso de flujo insertará personas creadas por Marketo en su Dynamics CRM.
 
@@ -22,10 +23,10 @@ Este paso de flujo insertará personas creadas por Marketo en su Dynamics CRM.
 
 ## Uso {#usage}
 
-Puede establecer un usuario de Dynamics como propietario de persona.
+Puede establecer un usuario de Dynamics como propietario de la persona.
 
 ![](assets/two.png)
 
 >[!NOTE]
 >
->Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña de déclencheur), el posible cliente o contacto se creará en tiempo real en Dynamics.
+>Al utilizar la acción de flujo &quot;Sincronizar persona con Microsoft&quot; (solo en una campaña de déclencheur), el posible cliente/contacto se creará en tiempo real en Dynamics.

@@ -1,46 +1,47 @@
 ---
 unique-page-id: 2359930
-description: 'Archivar y desarchivar contenido de flujo: Documentos de Marketo: Documentación del producto'
-title: Archivar y desarchivar contenido de flujo
+description: 'Archivar y desarchivar contenido de la emisión: documentos de Marketo, documentación del producto'
+title: Archivar y desarchivar contenido de la emisión
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Archivar y desarchivar contenido de flujo {#archive-and-unarchive-stream-content}
+# Archivar y desarchivar contenido de la emisión {#archive-and-unarchive-stream-content}
 
-Si ya no desea utilizar un fragmento de contenido en un flujo, puede: [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. Así es como archivar contenido.
+Si ya no desea utilizar un fragmento de contenido en un flujo, puede hacer lo siguiente [quitar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archivarlo. A continuación se muestra cómo archivar contenido.
 
 >[!TIP]
 >
->La eliminación destruye toda la historia asociada; el archivado lo conserva.
+>Al eliminar, se destruye todo el historial asociado; el archivado lo conserva.
 
-## Archivar contenido del flujo {#archive-stream-content}
+## Archivar contenido de la emisión {#archive-stream-content}
 
-1. Seleccione su programa de participación y vaya a la **Transmisiones** pestaña .
+1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Pase el ratón sobre el correo electrónico que quiera archivar y luego, en el icono del engranaje, haga clic en **Archivo**.
+1. Pase el ratón sobre el correo electrónico que quiere archivar y, a continuación, debajo del icono de engranaje, haga clic en **Archivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   ¡Eso es todo! Recuerde, archivar si desea preservar la historia.
+   ¡Eso es todo! Recuerde, archivar si desea conservar el historial.
 
-## Desarchivar contenido del flujo {#unarchive-stream-content}
+## Desarchivar contenido de la emisión {#unarchive-stream-content}
 
-1. Seleccione su programa de participación y vaya a la **Transmisiones** pestaña .
+1. Seleccione el programa de participación y vaya a **Flujos** pestaña.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Haga clic en el icono de engranaje de la emisión y, a continuación, haga clic en **Mostrar contenido archivado**.
+1. Haga clic en el icono de engranaje del flujo y luego haga clic en **Mostrar contenido archivado**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Ahora que puede ver el contenido archivado, haga clic en el icono de engranaje del contenido que desea desarchivar y, a continuación, haga clic en **Desarchivar**.
+1. Ahora que puede ver el contenido archivado, haga clic en el icono con forma de engranaje del contenido que desea desarchivar y, a continuación, haga clic en **Desarchivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

@@ -1,8 +1,9 @@
 ---
-description: 'Creación de un equipo: Marketo Docs: documentación del producto'
+description: 'Creación de un equipo: documentos de Marketo, documentación del producto'
 title: Creación de un equipo
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -11,19 +12,19 @@ ht-degree: 0%
 
 # Creación de un equipo {#creating-a-team}
 
-La creación de un equipo le permite agrupar un grupo de usuarios con los que compartir contenido y con los que filtrar los informes.
+La creación de un equipo permite reunir un grupo de usuarios con los que se puede compartir contenido y por los que se pueden filtrar informes.
 
 ## Crear un equipo {#create-a-team}
 
-1. En el [aplicación web](https://toutapp.com/login), haga clic en el icono del engranaje y seleccione **Configuración**.
+1. En el [aplicación web](https://toutapp.com/login), haga clic en el icono de engranaje y seleccione **Configuración**.
 
    ![](assets/creating-a-team-1.png)
 
-1. En Configuración de administración, seleccione **Administración de equipos**.
+1. En Configuración de administración, seleccione **Administración de equipo**.
 
    ![](assets/creating-a-team-2.png)
 
-1. Al lado de Equipos, haga clic en la **+** icono.
+1. Junto a Equipos, haga clic en el botón **+** icono.
 
    ![](assets/creating-a-team-3.png)
 
@@ -41,18 +42,18 @@ La creación de un equipo le permite agrupar un grupo de usuarios con los que co
 
    ![](assets/creating-a-team-5.png)
 
-1. Busque los usuarios que desee agregar a su equipo y seleccione su casilla de verificación.
+1. Busque los usuarios que desea agregar a su equipo y marque su casilla de verificación.
 
    ![](assets/creating-a-team-6.png)
 
-1. Haga clic en **Agregar a equipos**.
+1. Clic **Añadir a equipos**.
 
    ![](assets/creating-a-team-7.png)
 
-1. Haga clic en la lista desplegable y seleccione los equipos que desee.
+1. Haga clic en el menú desplegable y seleccione el equipo que desee.
 
    ![](assets/creating-a-team-8.png)
 
-1. Haga clic en **Agregar** cuando haya terminado.
+1. Clic **Añadir** cuando termine.
 
    ![](assets/creating-a-team-9.png)

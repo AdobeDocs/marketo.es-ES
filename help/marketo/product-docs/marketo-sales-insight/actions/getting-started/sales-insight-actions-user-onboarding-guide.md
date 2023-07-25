@@ -2,7 +2,8 @@
 description: Guía de incorporación del usuario de acciones de perspectiva de ventas - Documentos de Marketo - Documentación del producto
 title: Guía de incorporación del usuario de acciones de Sales Insight
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* Un administrador debe invitar a un usuario a empezar a utilizar MSI-Actions.
 >* Para activar su cuenta con Salesforce, necesitará tener &quot;API habilitada&quot; en los permisos de perfil de Salesforce.
-
 
 Los nuevos usuarios deberán seguir los pasos a continuación.
 

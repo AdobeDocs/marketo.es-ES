@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1900593
-description: 'Creación de un correo electrónico para un programa de correo electrónico: Marketo Docs: documentación del producto'
+description: 'Creación de un mensaje de correo electrónico para un programa de correo electrónico: documentos de Marketo, documentación del producto'
 title: Creación de un correo electrónico para un programa de correo electrónico
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -15,12 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definir una audiencia mediante la importación de una lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
+Una vez que haya creado su programa de correo electrónico y definido su audiencia, querrá decidir qué correo electrónico está enviando. Puede [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o cree uno desde cero. A continuación se indica cómo crear un nuevo correo electrónico.
 
-Una vez creado el programa de correo electrónico y definido la audiencia, debe decidir qué correo electrónico envía. Puede [elegir un correo electrónico existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o crear uno desde cero. A continuación se explica cómo crear un nuevo correo electrónico.
-
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/one.png)
 
@@ -28,7 +28,7 @@ Una vez creado el programa de correo electrónico y definido la audiencia, debe 
 
    ![](assets/newemaildashboard.png)
 
-1. Escriba un **Nombre**, seleccione la plantilla que desee y haga clic en **Crear**.
+1. Introduzca una **Nombre**, seleccione la plantilla que desee y haga clic en **Crear**.
 
    ![](assets/three.png)
 
@@ -38,10 +38,10 @@ Una vez creado el programa de correo electrónico y definido la audiencia, debe 
 
    >[!NOTE]
    >
-   >Obtenga información sobre cómo [editar elementos en un correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
+   >Obtenga información sobre cómo [edición de elementos en un correo electrónico](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
 
 1. No olvide aprobar su correo electrónico.
 
    ![](assets/five.png)
 
-¡Excelente! Ahora que hemos creado un correo electrónico que queremos enviar, vamos a  [añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) o omita directamente a [programar su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Excelente! Ahora que hemos creado un correo electrónico que queremos enviar, vamos a  [añadir una prueba A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) o saltarse directamente a [programación de su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

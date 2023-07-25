@@ -1,25 +1,26 @@
 ---
-description: Acciones masivas en personas - Marketo Docs - Documentación del producto
+description: 'Acciones masivas en personas: documentos de Marketo, documentación del producto'
 title: Acciones masivas en personas
 exl-id: fcd89688-6905-4714-9254-42873eca8428
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
 # Acciones masivas en personas {#bulk-actions-on-people}
 
-Hay algunas cosas que puede hacer con sus contactos de forma masiva para ahorrar tiempo.
+Hay algunas cosas que puedes hacer con tus contactos de forma masiva para ahorrar tiempo.
 
-El primer paso para todas las acciones masivas disponibles es seleccionar dos o más contactos y hacer clic en los datos (tres puntos verticales).
+El primer paso para todas las acciones masivas disponibles es seleccionar dos o más contactos y hacer clic en el punto (tres puntos verticales).
 
 ![](assets/bulk-actions-on-people-1.png)
 
-## Agregar personas al grupo {#add-people-to-group}
+## Agregar Personas al Grupo {#add-people-to-group}
 
-Agregue varias personas a un grupo al mismo tiempo.
+Agregar varias personas a un grupo al mismo tiempo.
 
 ![](assets/bulk-actions-on-people-2.png)
 
@@ -35,18 +36,18 @@ Asignamos automáticamente una fuente a cada contacto que entre en la base de da
 
 ## Autorización {#authorization}
 
-En cumplimiento de [RGPD](https://eugdpr.org/), utilice la autorización para indicar cómo recibió permiso para interactuar con estos contactos.
+De conformidad con [RGPD](https://eugdpr.org/), utilice la autorización para indicar cómo ha recibido permiso para relacionarse con estos contactos.
 
 ![](assets/bulk-actions-on-people-4.png)
 
 ## Cancelar suscripción {#unsubscribe}
 
-Realice una cancelación masiva de la suscripción de los contactos que ya no deseen recibir su correspondencia.
+Realizar una cancelación de suscripción masiva en los contactos que ya no desean recibir correspondencia suya.
 
 ![](assets/bulk-actions-on-people-5.png)
 
 ## Eliminar {#delete}
 
-Eliminar contactos de forma masiva. Se pueden encontrar pasos completos [here](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
+Eliminar contactos de forma masiva. Se pueden encontrar los pasos completos [aquí](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/bulk-actions-on-people-6.png)

@@ -1,21 +1,22 @@
 ---
-description: 'Bloqueo de contenido: Documentos de Marketo: Documentación del producto'
-title: Bloqueo de contenido
+description: 'Bloqueo de contenido: documentos de Marketo, documentación del producto'
+title: Bloqueo del contenido
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Bloqueo de contenido {#content-lockdown}
+# Bloqueo del contenido {#content-lockdown}
 
-Al habilitar el bloqueo de contenido, restrinja a los usuarios que no sean administradores de la edición de plantillas o campañas. Los usuarios no podrán: compartir, clonar, editar o eliminar contenido. Tampoco tendrán la opción de archivar plantillas.
+Al habilitar el bloqueo de contenido, impida que los usuarios que no sean administradores editen plantillas o campañas. Los usuarios no podrán: compartir, clonar, editar ni eliminar contenido. Tampoco tendrán la opción de archivar las plantillas.
 
 >[!NOTE]
 >
->Los usuarios aún podrán editar el contenido de un correo electrónico en el momento del envío o al iniciar una campaña.
+>Los usuarios aún pueden editar el contenido de un correo electrónico en el momento de enviarlo o al iniciar una campaña.
 
 1. Haga clic en el icono del engranaje y seleccione **Configuración**.
 
@@ -25,6 +26,6 @@ Al habilitar el bloqueo de contenido, restrinja a los usuarios que no sean admin
 
    ![](assets/content-lockdown-2.png)
 
-1. Desplácese hacia abajo hasta Bloqueo de contenido. Si activa cualquiera de los controles deslizantes, se deshabilitará la capacidad de los integrantes del equipo para crear o editar plantillas o campañas.
+1. Desplácese hacia abajo hasta Bloqueo de contenido. Activar cualquiera de los deslizadores deshabilitará la capacidad de los integrantes del equipo para crear/editar plantillas y/o campañas.
 
    ![](assets/content-lockdown-3.png)

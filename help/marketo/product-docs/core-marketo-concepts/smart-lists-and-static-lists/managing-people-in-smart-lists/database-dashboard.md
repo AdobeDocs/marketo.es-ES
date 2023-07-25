@@ -1,35 +1,36 @@
 ---
 unique-page-id: 10097447
 description: Tablero de base de datos - Documentos de Marketo - Documentación del producto
-title: Panel de bases de datos
+title: Tablero de base de datos
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Panel de bases de datos {#database-dashboard}
+# Tablero de base de datos {#database-dashboard}
 
-El Tablero de base de datos sirve como una instantánea para ayudarle a determinar rápidamente los atributos clave sobre las personas dentro de un espacio de trabajo.
+El tablero de base de datos sirve como instantánea para ayudarle a determinar rápidamente los atributos clave sobre sus recursos en un espacio de trabajo.
 
 >[!NOTE]
 >
 >Cada espacio de trabajo tiene su propio panel de base de datos.
 
-Para llegar allí, seleccione **Base de datos** de su My Marketo.
+Para llegar, seleccione **Base de datos** desde Mi Marketo.
 
 ![](assets/database-dashboard-1.png)
 
-Los gráficos indican el número total de personas, el número de personas comercializables y las cinco fuentes principales de adquisición de personas. Pase el ratón sobre las áreas verdes para obtener más información.
+Los gráficos indican la cantidad total de personas, la cantidad de personas comercializables, así como las cinco fuentes principales de adquisición de personas. Pase el ratón sobre las zonas verdes para ver más detalles.
 
 ![](assets/database-dashboard-2.png)
 
 >[!TIP]
 >
->¿Quiere obtener información más específica o oportuna sobre su gente? Pruebe un [Informe Rendimiento de las personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>¿Desea obtener información más específica u oportuna sobre su gente? Pruebe un [Informe de rendimiento de personas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Total de personas:** El número de personas que no han pasado mucho tiempo para el espacio de trabajo enumerado.
+**Total de personas:** El número de personas permanentes para el espacio de trabajo enumerado.
 
-**Personas comercializables:** El número de personas que ocupan todo el tiempo en el espacio de trabajo enumerado, _menos lo siguiente_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado con dificultad, personas incluidas en la lista de bloqueados, personas que han dado de baja, personas que actualmente están configuradas como Marketing suspendido.
+**Personas comercializables:** El número de personas permanentes para el espacio de trabajo enumerado, _menos lo siguiente_: personas sin dirección de correo electrónico, personas cuyo correo electrónico ha rebotado intensamente, personas incluidas en la lista de bloqueados, personas que han cancelado la suscripción, personas configuradas actualmente como Marketing suspendido.

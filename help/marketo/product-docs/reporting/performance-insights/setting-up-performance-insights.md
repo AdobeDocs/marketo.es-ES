@@ -3,7 +3,8 @@ unique-page-id: 12981145
 description: Configuración de perspectivas de rendimiento - Documentos de Marketo - Documentación del producto
 title: Configuración de perspectivas de rendimiento
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 2%
@@ -16,29 +17,29 @@ Siga los pasos a continuación para configurar MPI.
 
 ## Configuración de oportunidad {#opportunity-setup}
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/admin.png)
 
-1. Haga clic en **Análisis del ciclo de ingresos**.
+1. Clic **Análisis del ciclo de ingresos**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Si no tiene RCA, deberá seleccionar **Análisis del programa** para el paso 2.
+   >Si no tiene RCA, debe seleccionar lo siguiente **Análisis de programas** para el paso 2.
 
 1. En Atribución, haga clic en **Editar**.
 
    ![](assets/three-1.png)
 
-1. Configuración de atribución .
+1. Se muestra Configuración de atribución.
 
    ![](assets/four-2.png)
 
-   Si la atribución es explícita, asegúrese de que se ha rellenado la función de contacto de oportunidad (a través del extremo de la función de oportunidad o a través de la integración de CRM).
+   Si la Atribución es explícita, asegúrese de que la Función de contacto de oportunidad se haya rellenado (a través del punto de conexión de la Función de oportunidad o a través de la integración de CRM).
 
-   Si Attribution está implícita, asegúrese de que el campo de empresa del posible cliente o contacto sea el mismo que el Nombre de cuenta de la oportunidad.
+   Si la Atribución está implícita, asegúrese de que el campo de empresa del posible cliente/contacto sea el mismo que el Nombre de cuenta de la oportunidad.
 
    >[!NOTE]
    >
@@ -47,24 +48,23 @@ Siga los pasos a continuación para configurar MPI.
    >* Monto de la oportunidad
    >* Es cerrado
    >* Está ganado
-   >* Fecha de creación (puede que no esté establecida en su caso)
-   >* Fecha de cierre (es posible que no esté establecido en su caso)
+   >* Fecha de creación (puede que no se establezca en su caso)
+   >* Fecha de cierre (puede que no se establezca en su caso)
    >* Tipo de oportunidad
-
 
 ## Configuración del programa {#program-setup}
 
 Actualice los costes del programa durante al menos 12 meses. Puede hacerlo manualmente o mediante la API del programa. En este ejemplo lo hacemos manualmente.
 
-1. Haga clic en **Actividades de marketing**.
+1. Clic **Actividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Busque y seleccione el programa.
+1. Busque y seleccione su programa.
 
    ![](assets/select-program.png)
 
-1. Haga clic en el **Configuración** pestaña .
+1. Haga clic en **Configurar** pestaña.
 
    ![](assets/setup-tab.png)
 
@@ -72,25 +72,25 @@ Actualice los costes del programa durante al menos 12 meses. Puede hacerlo manua
 
    ![](assets/period-cost.png)
 
-1. Establezca el Mes del programa para hace al menos 12 meses y haga clic en **Ok**.
+1. Configure el mes del programa como mínimo hace 12 meses y haga clic en **Ok**.
 
    ![](assets/set-period.png)
 
-1. Establezca el coste del periodo y haga clic en **Guardar**.
+1. Configure el coste del periodo y haga clic en **Guardar**.
 
    ![](assets/set-cost.png)
 
-A continuación, revise el comportamiento de los análisis para indicar si se debe incluir un canal en particular en los análisis. Establezca el comportamiento de Analytics (Normal, Inclusivo, Operativo).
+A continuación, revise el comportamiento de Analytics para indicar si algún canal en particular debe incluirse en Analytics. Establezca el Comportamiento de Analytics (Normal, Inclusivo, Operativo).
 
-1. Haga clic en **Administrador**.
+1. Clic **Administrador**.
 
    ![](assets/admin.png)
 
-1. Haga clic en **Etiquetas**.
+1. Clic **Etiquetas**.
 
    ![](assets/tags.png)
 
-1. Haga clic en el **+** para expandir la lista Canal .
+1. Haga clic en **+** para expandir la lista de Canales.
 
    ![](assets/channel.png)
 
@@ -98,23 +98,23 @@ A continuación, revise el comportamiento de los análisis para indicar si se de
 
    ![](assets/channel-click.png)
 
-1. Haga clic en el **Comportamiento de Analytics** y seleccione el comportamiento deseado.
+1. Haga clic en **Comportamiento de Analytics** y seleccione el comportamiento deseado.
 
    ![](assets/edit-channel.png)
 
-1. Establezca los criterios de éxito.
+1. Defina los criterios de éxito.
 
    ![](assets/success.png)
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
    ![](assets/save.png)
 
-## Vincular el programa a la persona {#tie-the-program-to-the-person}
+## Vinculación del programa a la persona {#tie-the-program-to-the-person}
 
-1. Asegúrese de que el Programa de adquisición y la Fecha de adquisición se hayan establecido para cada persona de la base de datos para que funcione la Atribución de primer toque.
-1. Asegúrese de que sus programas estén configurando estados de éxito para su gente.
+1. Asegúrese de que el programa de adquisición y la fecha de adquisición se hayan establecido para cada persona de la base de datos para que funcione la Atribución de primer contacto.
+1. Asegúrese de que los programas establezcan estados de éxito para sus recursos.
 
 >[!NOTE]
 >
->Los cambios realizados no son instantáneos. Se requiere un periodo de pernoctación antes de que los cambios entren en vigor.
+>Los cambios realizados no son instantáneos. Se requiere un período de un día para que los cambios entren en vigor.

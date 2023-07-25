@@ -1,34 +1,35 @@
 ---
 unique-page-id: 2953572
-description: 'Explicación de los programas de correo electrónico: Documentos de Marketo: Documentación del producto'
-title: Explicación de los programas de correo electrónico
+description: Explicación de los programas de correo electrónico - Documentos de Marketo - Documentación del producto
+title: Explicación de programas de correo electrónico
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Explicación de los programas de correo electrónico {#understanding-email-programs}
+# Explicación de programas de correo electrónico {#understanding-email-programs}
 
 Salude a su nuevo amigo de Marketo, el programa de correo electrónico. Envíe correos electrónicos, cree pruebas A/B y realice un seguimiento de los resultados en un solo lugar.
 
 ## Panel de control {#control-panel}
 
-Cuatro cajas te mantienen concentrado. **Audiencia** define el atributo &quot;who&quot; **Correo electrónico** proporciona el elemento &quot;¿qué?&quot; **Programación** define &quot;when&quot; y **Aprobación** lo prepara para irse.
+Cuatro cajas te mantienen concentrado. **Audiencia** define el &quot;quién&quot;, **Correo electrónico** proporciona el &quot;qué&quot;, **Programación** define &quot;cuándo&quot; y **Aprobación** lo prepara para salir.
 
 ![](assets/emailprogram.png)
 
-## Prueba A/B {#a-b-testing}
+## Pruebas A/B {#a-b-testing}
 
-La prueba A/B le permite probar qué correo electrónico es el mejor.
+Las pruebas A/B le permiten probar qué correo electrónico es el mejor.
 
-Obtenga información sobre las siguientes pruebas A/B:
+Obtenga información acerca de las siguientes pruebas A/B:
 
 * [Prueba A/B &quot;Línea de asunto&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [Prueba A/B &quot;Correo electrónico completo&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [Prueba A/B &quot;De dirección&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [Prueba A/B de &quot;correo electrónico completo&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [Prueba A/B &quot;Dirección de origen&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
 * [Prueba A/B &quot;Fecha/Hora&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
@@ -37,9 +38,9 @@ Obtenga información sobre las siguientes pruebas A/B:
 
 >[!TIP]
 >
->Algunos prefieren utilizar programas de correo electrónico en lugar de enviar un correo electrónico a través de una campaña inteligente, ya que el panel de informes detallado del programa.
+>Algunos prefieren utilizar programas de correo electrónico en lugar de enviar un correo electrónico a través de una campaña inteligente debido al tablero de informes detallado del programa.
 
-Disfrute de los frutos de su trabajo. Los tableros muestran el rendimiento de las pruebas A/B y del programa de correo electrónico de un vistazo.
+Disfruta de los frutos de tu trabajo. Los paneles muestran el rendimiento del programa de correo electrónico y de la prueba A/B de un vistazo.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
@@ -59,21 +60,20 @@ Utilice un programa de correo electrónico dentro de un programa predeterminado 
 
 >[!TIP]
 >
->Para obtener un programa de correo electrónico existente en otro programa, debe clonarlo.
+>Para poder clonar un programa de correo electrónico existente en otro programa, debe clonarlo.
 
 >[!NOTE]
 >
->Los programas de correo electrónico no se pueden anidar en [programas de participación](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Tampoco se pueden reenviar y solo se puede ejecutar una prueba a la vez.
+>Los programas de correo electrónico no se pueden anidar en [programas de participación](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Tampoco se pueden volver a enviar y solo se puede ejecutar una prueba a la vez.
 
 ## Configuración de programación {#schedule-settings}
 
-Ahora que comprende los programas de correo electrónico, comience con uno de los artículos relacionados a continuación.
+Ahora que comprende los programas de correo electrónico, empiece con uno de los artículos relacionados que aparecen a continuación.
 
 >[!MORELIKETHIS]
 >
 >* [Crear un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
->* [Definir una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definición de una audiencia con una lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Creación de un correo electrónico para un programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Programar su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
+>* [Programe su programa de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

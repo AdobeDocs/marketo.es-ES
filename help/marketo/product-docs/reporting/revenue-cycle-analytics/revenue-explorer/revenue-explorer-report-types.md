@@ -1,18 +1,19 @@
 ---
 unique-page-id: 7504922
 description: Tipos de informes del Explorador de ingresos - Documentos de Marketo - Documentación del producto
-title: Tipos de informes del Explorador de ingresos
+title: Explorador de ingresos Tipos de informes
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
 
 ---
 
-# Tipos de informes del Explorador de ingresos {#revenue-explorer-report-types}
+# Explorador de ingresos Tipos de informes {#revenue-explorer-report-types}
 
-Los siguientes son los tipos de informes que encontrará si utiliza el análisis de ciclo de ingresos.
+A continuación se indican los tipos de informes que encontrará si utiliza Revenue Cycle Analytics.
 
 <table> 
  <thead> 
@@ -27,36 +28,36 @@ Los siguientes son los tipos de informes que encontrará si utiliza el análisis
    <td>Métricas y atributos relacionados con correos electrónicos específicos enviados</td> 
   </tr> 
   <tr> 
-   <td>Análisis de posibles clientes</td> 
-   <td>Métricas y atributos de posible cliente y empresa relacionados con posibles clientes</td> 
+   <td>Análisis de clientes potenciales</td> 
+   <td>Métricas y atributos de clientes potenciales y de la empresa relacionados con clientes potenciales</td> 
   </tr> 
   <tr> 
-   <td>Análisis de rendimiento del modelo (compañías)</td> 
-   <td>Métricas y atributos relacionados con el modelo de ciclo de ingresos por empresa</td> 
+   <td>Análisis de rendimiento del modelo (Empresas)</td> 
+   <td>Métricas y atributos relacionados con el modelo del ciclo de ingresos por compañía</td> 
   </tr> 
   <tr> 
    <td>Análisis de rendimiento del modelo (posibles clientes)</td> 
-   <td>Métricas y atributos relacionados con el modelo de ciclo de ingresos por posible cliente</td> 
+   <td>Métricas y atributos relacionados con el modelo del ciclo de ingresos por posible cliente</td> 
   </tr> 
   <tr> 
-   <td>Análisis de oportunidades</td> 
-   <td><p>Métricas y atributos de posibles clientes y empresas relacionados con las oportunidades</p></td> 
+   <td>Análisis de oportunidad</td> 
+   <td><p>Métricas y atributos del posible cliente y de la empresa relacionados con las oportunidades</p></td> 
   </tr> 
   <tr> 
-   <td>Análisis de Costes del Programa</td> 
-   <td>Métricas y atributos relacionados con programas con al menos un periodo de coste</td> 
+   <td>Análisis de costos de programas</td> 
+   <td>Métricas y atributos relativos a programas con al menos un período de coste</td> 
   </tr> 
   <tr> 
-   <td>Análisis de pertenencia al programa</td> 
+   <td>Análisis de pertenencia a programas</td> 
    <td>Métricas y atributos relativos a programas con al menos un miembro</td> 
   </tr> 
   <tr> 
-   <td>Análisis de oportunidades del programa</td> 
+   <td>Análisis de oportunidad de programa</td> 
    <td>Métricas y atributos de oportunidad relacionados con programas</td> 
   </tr> 
   <tr> 
    <td>Análisis de fase de ingresos del programa</td> 
-   <td>Métricas y atributos basados en el modelo de ciclo de ingresos</td> 
+   <td>Métricas y atributos basados en el modelo del ciclo de ingresos</td> 
   </tr> 
  </tbody> 
 </table>

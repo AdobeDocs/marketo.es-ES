@@ -1,9 +1,10 @@
 ---
 unique-page-id: 8783966
-description: 'Plantilla 8C: Documentos de Marketo: Documentación del producto'
+description: 'Plantilla 8C: Documentos de Marketo: documentación del producto'
 title: Plantilla 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -21,9 +22,9 @@ Esta plantilla incluye el siguiente contenido:
 * Un encabezado (opcional)
 * Una sección principal
 
-   * incluye un encabezado a pantalla completa, texto a pantalla completa y un vídeo
+   * incluye un encabezado, texto y un vídeo
 
-* Cinco secciones de cuerpo (opcional)
+* Cinco secciones del cuerpo (opcional)
 * Un pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

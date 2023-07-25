@@ -3,7 +3,8 @@ unique-page-id: 11378713
 description: Déclencheur de los cambios de objetos personalizados - Documentos de Marketo - Documentación del producto
 title: Déclencheur de cambios de objetos personalizados
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -56,4 +57,3 @@ En la lista inteligente de una campaña inteligente, puede almacenar en déclenc
    >
    >* [Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
    >* [Explicación de los objetos personalizados de Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

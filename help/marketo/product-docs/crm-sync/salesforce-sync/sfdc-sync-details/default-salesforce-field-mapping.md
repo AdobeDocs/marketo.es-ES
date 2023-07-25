@@ -1,22 +1,23 @@
 ---
 unique-page-id: 4719314
-description: Asignación de campos predeterminada de Salesforce - Documentos de Marketo - Documentación del producto
+description: Asignación de campos de Salesforce predeterminada - Documentos de Marketo - Documentación del producto
 title: Asignación de campos de Salesforce predeterminada
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 53%
+ht-degree: 56%
 
 ---
 
 # Asignación de campos de Salesforce predeterminada {#default-salesforce-field-mapping}
 
-Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketo. Marketo también sincronizará los campos personalizados de posibles clientes, cuentas, oportunidades y contactos.
+Al sincronizar inicialmente la cuenta de Marketo con Salesforce, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketo. Marketo también sincronizará los campos personalizados con los posibles clientes, las cuentas, las oportunidades y los contactos.
 
-## Campos de posibles clientes {#lead-fields}
+## Campos de clientes potenciales {#lead-fields}
 
-| Campo SFDC | Campo Marketo |
+| Campo de SFDC | Campo de Marketo |
 |---|---|
 | Ingresos anuales | Ingresos anuales |
 | Ciudad | Ciudad |
@@ -25,15 +26,15 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo real
 | País | País |
 | Fecha de creación | Fecha de creación en SFDC |
 | Descripción | Notas de la persona |
-| Email | Dirección de email |
+| Correo electrónico | Dirección de email |
 | Fax | Número de fax |
 | Nombre | Nombre |
 | No participar en el correo electrónico | Suscripción cancelada |
 | Industria | Industria |
-| Convertido | SFDC se convierte |
+| Convertido | SFDC se ha convertido |
 | Eliminado | SFDC eliminado |
 | Apellido | Apellido |
-| Origen del posible cliente | Origen |
+| Origen del cliente potencial | Origen |
 | Puntaje del cliente potencial | Puntuación |
 | Teléfono móvil | Número de teléfono móvil |
 | Empleados | Cantidad de empleados |
@@ -47,20 +48,20 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo real
 | Título | Cargo |
 | Sitio web | Sitio web |
 
-## Campos de contacto {#contact-fields}
+## Campos de contactos {#contact-fields}
 
-| Campo SFDC | Campo Marketo |
+| Campo de SFDC | Campo de Marketo |
 |---|---|
-| Fecha de nacimiento | Fecha de nacimiento |
+| Birthdate | Fecha de nacimiento |
 | Fecha de creación | Fecha de creación en SFDC |
-| Descripción del contacto | Notas de la persona |
-| Email | Dirección de email |
-| Fax empresarial | Número de fax |
+| Descripción de contacto | Notas de la persona |
+| Correo electrónico | Dirección de email |
+| Fax del trabajo | Número de fax |
 | Nombre | Nombre |
 | No participar en el correo electrónico | Suscripción cancelada |
 | Eliminado | SFDC eliminado |
 | Apellido | Apellido |
-| Origen del posible cliente | Origen |
+| Origen del cliente potencial | Origen |
 | Puntaje del cliente potencial | Puntuación |
 | MailingCity | Ciudad |
 | MailingCountry | País |
@@ -72,34 +73,34 @@ Cuando sincroniza inicialmente su cuenta de Marketo con Salesforce, Marketo real
 | Saludo | Saludo |
 | Título | Cargo |
 
-## Campos de la cuenta {#account-fields}
+## Campos de cuentas {#account-fields}
 
-| Campo SFDC | Campo Marketo |
+| Campo de SFDC | Campo de Marketo |
 |---|---|
 | Ingresos anuales | Ingresos anuales |
 | Ciudad de facturación | Ciudad de facturación |
 | País de facturación | País de facturación |
 | Código postal de facturación | Código postal de facturación |
-| Estado/provincia de facturación | Estado de facturación |
+| Estado o provincia de facturación | Estado de facturación |
 | Calle de facturación | Dirección de facturación |
-| Descripción de la cuenta | Notas de la compañía |
+| Descripción de cuenta | Notas de la compañía |
 | Industria | Industria |
 | Eliminado | SFDC eliminado |
 | Nombre de la cuenta | Nombre de la compañía |
 | Empleados | Cantidad de empleados |
-| Teléfono de la cuenta | Teléfono principal |
+| Teléfono de cuenta | Teléfono principal |
 | Código SIC | Código SIC |
-| Sitio de la cuenta | Sitio |
+| Sitio de cuenta | Sitio |
 | Tipo de cuenta | Tipo de SFDC |
 | Sitio web | Sitio web |
 
-## Campos del sistema relacionados con Salesforce en Marketo (solo lectura) {#salesforce-related-system-fields-in-marketo-read-only}
+## Campos de sistema relacionados con Salesforce en Marketo (solo lectura) {#salesforce-related-system-fields-in-marketo-read-only}
 
-Estos campos se crean en Marketo, pero los clientes no pueden ajustarlos.
+Estos campos se crean en Marketo, pero los clientes no los pueden ajustar.
 
 | Campo | Descripción |
 |---|---|
 | Identificación de SFDC | El ID de Salesforce de 18 caracteres |
 | Tipo de SFDC | Posible cliente o contacto. Si está vacío, el posible cliente solo existe como persona en Marketo |
-| Fecha de creación en SFDC | Fecha de creación en SFDC (puede diferir de Creado en Marketo) |
-| SFDC se elimina | La persona solía estar en SFDC pero se eliminó y ahora solo reside en Marketo |
+| Fecha de creación en SFDC | Fecha de creación en SFDC (puede ser diferente de Creación en Marketo) |
+| Se ha eliminado el SFDC | La persona solía estar en SFDC, pero se ha eliminado y ahora solo vive en Marketo |

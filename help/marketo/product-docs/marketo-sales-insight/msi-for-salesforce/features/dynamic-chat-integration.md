@@ -1,64 +1,64 @@
 ---
-description: 'Integración de Dynamic Chat: Marketo Docs: Documentación del producto'
+description: Integración de Dynamic Chat - Documentos de Marketo - Documentación del producto
 title: Integración de Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '388'
 ht-degree: 5%
 
 ---
 
 # Integración de Dynamic Chat {#dynamic-chat-integration}
 
-Obtenga más información sobre la integración de Dynamic Chat con la perspectiva de ventas.
+Obtenga más información sobre la integración de Dynamic Chat con Sales Insight.
 
 >[!PREREQUISITES]
 >
->* El paquete de SFDC de Sales Insight debe ser de versión [1.9 o superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;}
+>* El paquete de SFDC de Sales Insight debe ser una versión [1.9 o superior](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Debe tener la variable [Integración con Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} configurado
+>* Debe tener el [Integración de Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} configurar
 
-
-## Ficha Configuración de la perspectiva de ventas de Marketo {#marketo-sales-insight-configuration-tab}
+## Pestaña Configuración de Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
 Siga los pasos a continuación para habilitar la integración de Dynamic Chat.
 
-1. Inicie sesión en su cuenta de Salesforce, haga clic en + al final de la barra de pestañas y haga clic en **Configuración de perspectiva de ventas de Marketo**.
+1. Inicie sesión en su cuenta de Salesforce, haga clic en + al final de la barra de pestañas y luego en **Configuración de Marketo Sales Insight**.
 
-1. Haga clic en para desplegar el &quot;Panel de fuerza visual&quot;.
+1. Haga clic para desplegar el &quot;Panel de fuerza visual&quot;.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Seleccione el **Habilitar datos de chat dinámico** casilla de verificación.
+1. Seleccione el **Habilitar datos del Dynamic Chat** casilla de verificación
 
    ![](assets/dynamic-chat-integration-2.png)
 
-## Descripción general de características {#feature-overview}
+## Descripción general de funciones {#feature-overview}
 
 Los usuarios de Sales Insight pueden aprovechar las siguientes actividades de Dynamic Chat...
 
-Diálogo comprometido: Inició sesión en Marketo y se rellena en Perspectiva de ventas cuando un visitante hace clic en un bot de chat y participa en el Diálogo.
+Diálogo comprometido: Ha iniciado sesión en Marketo y se ha completado en Sales Insight cuando un visitante hace clic en un bot de chat e interactúa con el diálogo.
 
 * Nombre del cuadro de diálogo
 * URL de la página
-* Estado (iniciado/descartado/completado)
+* Estado (Iniciado/Descartado/Completado)
 
-Cita programada: Inició sesión en Marketo y se rellena en Perspectiva de ventas cuando un visitante programa correctamente una cita a través del bot de chat.
+Cita programada: se ha iniciado sesión en Marketo y se ha completado en Sales Insight cuando un visitante programa correctamente una cita a través del bot de chat.
 
 * Nombre del cuadro de diálogo
 * Agente
 * URL de la página
-* Programado el (insertar fecha y hora)
-* Estado (programado, reprogramado, cancelado)
+* Programado el (insertar marca de fecha y hora)
+* Estado (Programado, Reprogramado, Cancelado)
 
-Objetivo alcanzado: Inició sesión en Marketo y se rellena en Perspectiva de ventas cuando un visitante alcanza un objetivo en cualquier flujo de diálogos.
+Meta alcanzada: Se ha iniciado sesión en Marketo y se ha completado en Información de ventas cuando un visitante alcanza una meta en cualquier flujo de diálogo.
 
 * Nombre del cuadro de diálogo
-* Nombre del objetivo
+* Nombre de meta
 * URL de la página
 
-Interactuado con el documento: Inició sesión en Marketo y se rellena en Perspectiva de ventas cuando un visitante interactúa con un documento compartido a través del bot de chat.
+Interactuó con el documento: ha iniciado sesión en Marketo y se rellena en Sales Insight cuando un visitante interactúa con un documento compartido mediante el bot de chat.
 
 * Nombre del cuadro de diálogo
 * Documento
@@ -68,7 +68,7 @@ Las actividades de chat están disponibles en el panel de perspectivas.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Hay una pestaña Chat disponible en los paneles Posibles clientes y Contacto . Incluye las columnas Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
+Hay una pestaña de chat disponible en los paneles Posible cliente y Contacto. Incluye las columnas Tipo de actividad, Nombre del cuadro de diálogo y Fecha.
 
 ![](assets/dynamic-chat-integration-4.png)
 
@@ -80,11 +80,11 @@ Del mismo modo, los paneles Cuenta y Oportunidad incluyen las columnas Nombre, T
 
 ![](assets/dynamic-chat-integration-6.png)
 
-La pestaña Chat también está incluida en su pestaña Marketo global. Incluye tres tipos de actividades (Diálogo con participación, Nombramiento programado, Objetivo alcanzado), junto con las siguientes columnas:
+La pestaña Chat también se incluye en la pestaña Global Marketo. Incluye tres tipos de actividades (diálogo comprometido, cita programada, objetivo alcanzado), junto con las siguientes columnas:
 
 * Persona
 * Cuenta
-* Tipo de actividad (cuadro de diálogo con participación, cita programada, objetivo alcanzado)
+* Tipo de actividad (cuadro de diálogo con participación, cita programada, meta alcanzada)
 * Nombre del cuadro de diálogo
 * Marca de fecha y hora
 
@@ -94,11 +94,11 @@ De nuevo, puede obtener más información sobre un tipo de actividad haciendo cl
 
 >[!NOTE]
 >
->Si la casilla &quot;Habilitar datos de chat dinámico&quot; está desactivada, se deshabilitarán las siguientes funciones:
+>Si la casilla &quot;Habilitar datos del Dynamic Chat&quot; está desactivada, se desactivarán las siguientes funciones:
 >
 >* Fila con actividades de chat en el panel de perspectivas (cuadrícula inteligente y vista de lista semanal)
->* Ficha Chat de los paneles Posible cliente, Contacto, Cuenta y Oportunidad
->* Pestaña Chat de la pestaña Marketo Global
+>* Pestaña Chat en los paneles Posible cliente, Contacto, Cuenta y Oportunidad
+>* Pestaña Chat en la pestaña Global Marketo
 >
 >No es posible desactivar solo una de estas funciones.
 

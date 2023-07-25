@@ -1,18 +1,19 @@
 ---
 unique-page-id: 7504383
-description: 'Adición de campos a un informe del Explorador de ingresos: Documentos de Marketo: Documentación del producto'
+description: Adición de campos a un informe del Explorador de ingresos - Documentos de Marketo - Documentación del producto
 title: Adición de campos a un informe del Explorador de ingresos
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Adición de campos a un informe del Explorador de ingresos {#adding-fields-to-a-revenue-explorer-report}
 
-Personalice los informes del explorador de ingresos arrastrando y soltando campos de dimensión y métrica en el lienzo.
+Personalice los informes del explorador de ingresos arrastrando y soltando los campos de dimensión y métrica en el lienzo.
 
 <table> 
  <tbody> 
@@ -25,13 +26,13 @@ Personalice los informes del explorador de ingresos arrastrando y soltando campo
    <td><p>Los campos amarillos son las dimensiones (filas y columnas) del informe.</p><p>Por ejemplo, puede configurar un informe que muestre el estado del posible cliente o la fecha de creación en columnas.</p></td> 
   </tr> 
   <tr> 
-   <td>Campo azul o Medida</td> 
-   <td><p>Los campos azules son métricas que se analizan en sus datos.</p><p>Por ejemplo, podría ser la puntuación media de posibles clientes para los posibles clientes o el número de días que un posible cliente tuvo una oportunidad.</p></td> 
+   <td>Campo o medida azul</td> 
+   <td><p>Los campos azules son métricas que se analizan en los datos.</p><p>Por ejemplo: esta podría ser la puntuación de posible cliente promedio para sus posibles clientes o el número de días que un posible cliente tuvo una oportunidad.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Busque los campos amarillos que desee usar y arrástrelos a Filas.
+1. Busque los campos amarillos que desee utilizar y arrástrelos a Filas.
 
    ![](assets/image2015-3-24-15-3a22-3a34.png)
 
@@ -39,7 +40,7 @@ Personalice los informes del explorador de ingresos arrastrando y soltando campo
    >
    >Pase el ratón sobre un campo para ver una descripción completa.
 
-1. Busque los campos azules que desee utilizar y arrástrelos a Medidas.
+1. Busque los campos azules que desee utilizar y arrástrelos a Measures.
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
@@ -49,4 +50,4 @@ Personalice los informes del explorador de ingresos arrastrando y soltando campo
 
 >[!MORELIKETHIS]
 >
->[Eliminación de un campo en un informe del Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[Eliminación de un campo en un informe de Explorador de ingresos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

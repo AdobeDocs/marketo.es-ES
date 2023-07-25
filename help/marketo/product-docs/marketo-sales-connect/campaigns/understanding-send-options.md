@@ -1,60 +1,61 @@
 ---
 unique-page-id: 14352621
-description: 'Explicación de las opciones de envío: Documentos de Marketo: Documentación del producto'
-title: Explicación de las opciones de envío
+description: 'Explicación de las opciones de envío: documentos de Marketo, documentación del producto'
+title: Descripción de opciones de envío
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '540'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Explicación de las opciones de envío {#understanding-send-options}
+# Descripción de opciones de envío {#understanding-send-options}
 
-Al crear una campaña, tiene varias opciones sobre cómo se crean sus pasos de correo electrónico en Conexión de ventas. Y, dependiendo de la ubicación del correo electrónico en la campaña, las opciones también difieren.
+Al crear una campaña, tiene varias opciones sobre cómo se crean los pasos de correo electrónico en Sales Connect. Y, según dónde se encuentre el correo electrónico en la campaña, las opciones también difieren.
 
-Si es el primer paso y el primer día de la campaña, tendrá las siguientes opciones:
+Si es el primer paso y el primer día de la campaña, tiene las siguientes opciones:
 
 ![](assets/image2019-10-25-10-43-19.png)
 
 Elegiré cuándo enviar este correo electrónico
 
-* Esta opción le permite elegir el momento de &quot;envío a&quot; para el primer correo electrónico de la campaña al iniciar la campaña añadiendo personas.
+* Esta opción le permite elegir el momento &quot;enviar a las&quot; para el primer correo electrónico de la campaña cuando esta se inicia añadiendo personas.
 
-Envíe este correo electrónico a la siguiente hora
+Enviar este correo electrónico a la siguiente hora
 
-* Cuando inicie la campaña agregando personas a ella, programaremos el correo electrónico para este momento.
-* Siempre tiene la opción de elegir un nuevo &quot;envío&quot; en el momento en que inicia la campaña.
+* Cuando inicie su campaña añadiendo personas a ella, programaremos el correo electrónico para esta hora.
+* Siempre tiene la opción de elegir un nuevo momento &quot;Enviar a las&quot; al iniciar la campaña.
 
-Crear una tarea; Yo mismo enviaré este correo electrónico
+Crear una tarea. Enviaré este email por mi cuenta
 
-* Esta opción creará una tarea de correo electrónico (y la sincronización con Salesforce) que puede enviar a su conveniencia.
-* Una vez que haya realizado esta selección, al iniciar la campaña, pondremos en cola estas tareas en el Centro de comandos y en la Fuente activa. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que salga.
+* Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
+* Una vez que haya realizado esta selección, cuando inicie la campaña, pondremos en cola estas tareas en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
 
-   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico de su contacto, la línea de asunto de su correo electrónico y la plantilla que ha elegido.
-   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa que rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
-Para los días o pasos subsiguientes de la campaña, tendrá las siguientes opciones:
+Para cualquier día o paso posterior de la campaña, tendrá las siguientes opciones:
 
-Envíe este correo electrónico al mismo tiempo que el correo electrónico anterior de esta campaña
+Enviar este email al mismo tiempo que el email anterior de esta campaña
 
-* Esta opción envía el correo electrónico al mismo tiempo que el correo electrónico directamente antes de él.
-* Aún se enviará el día en que esté asociado.
+* Esta opción enviará el correo electrónico al mismo tiempo que el correo electrónico directamente antes de él.
+* Se enviará el día en que esté asociado.
 
-Envíe este correo electrónico a la siguiente hora
+Enviar este correo electrónico a la siguiente hora
 
-* Cuando inicie la campaña agregando personas a ella, programaremos el correo electrónico para este momento.
-* Siempre tiene la opción de elegir un nuevo &quot;envío&quot; en el momento en que inicia la campaña.
+* Cuando inicie su campaña añadiendo personas a ella, programaremos el correo electrónico para esta hora.
+* Siempre tiene la opción de elegir un nuevo momento &quot;Enviar a las&quot; al iniciar la campaña.
 
-Crear una tarea; Yo mismo enviaré este correo electrónico
+Crear una tarea. Enviaré este email por mi cuenta
 
-* Esta opción creará una tarea de correo electrónico (y la sincronización con Salesforce) que puede enviar a su conveniencia.
-* Una vez que haya realizado esta selección, al iniciar la campaña, Tout pondrá estas tareas en cola en el Centro de comandos y en la Fuente activa. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que salga.
+* Esta opción creará una tarea de correo electrónico (y la sincronizará con Salesforce) que puede enviar según le convenga.
+* Una vez que haya hecho esta selección, cuando inicie la campaña, Tout pondrá en cola estas tareas por usted en el Centro de comandos y en la Fuente en directo. A continuación, puede personalizar y enviar (o programar) cada correo electrónico antes de que se publique.
 
-   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico de su contacto, la línea de asunto de su correo electrónico y la plantilla que ha elegido.
-   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa que rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en nuestra aplicación web, se abrirá una ventana de composición con la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
+   * Si abre esta tarea en Gmail o Outlook, se abrirá una ventana de composición nativa y se rellenará dinámicamente la dirección de correo electrónico del contacto, la línea de asunto del correo electrónico y la plantilla que haya elegido.
 
-Enviar este correo electrónico al correo electrónico anterior
+Enlazar este correo electrónico con el anterior
 
-* Esta opción de envío será un &quot;seguimiento&quot; del correo electrónico anterior y anexará el cuerpo del correo electrónico anterior a la parte inferior de este.
+* Esta opción de envío es un &quot;seguimiento&quot; del correo electrónico anterior y adjunta el cuerpo del correo electrónico anterior al final de este correo electrónico.

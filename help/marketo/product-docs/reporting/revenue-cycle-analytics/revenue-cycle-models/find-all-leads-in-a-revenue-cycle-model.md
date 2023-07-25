@@ -1,16 +1,17 @@
 ---
 unique-page-id: 2360423
-description: 'Buscar todos los posibles clientes en un modelo de ciclo de ingresos: Documentos de Marketo: Documentación del producto'
-title: Buscar todos los posibles clientes en un modelo de ciclo de ingresos
+description: Buscar todos los posibles clientes en un modelo del ciclo de ingresos - Documentos de Marketo - Documentación del producto
+title: Buscar todos los posibles clientes en un modelo del ciclo de ingresos
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Buscar todos los posibles clientes en un modelo de ciclo de ingresos {#find-all-leads-in-a-revenue-cycle-model}
+# Buscar todos los posibles clientes en un modelo del ciclo de ingresos {#find-all-leads-in-a-revenue-cycle-model}
 
 Mediante listas inteligentes, puede encontrar fácilmente todos los miembros del modelo de ciclo de ingresos.
 
@@ -18,25 +19,25 @@ Mediante listas inteligentes, puede encontrar fácilmente todos los miembros del
 >
 >[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con los inteligentes seleccionados, haga clic en el **Lista inteligente** pestaña .
+1. Con la lista inteligente seleccionada, haga clic en **Lista inteligente** pestaña.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Busque la **Miembro del modelo de ingresos** filtre y arrástrela al lienzo.
+1. Busque el **Miembro del modelo de ingresos** filtre y arrástrelo al lienzo.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleccione un **Modelo**.
+1. Seleccione una **Modelo**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
-   Esto les daría todos los posibles clientes en ese modelo, independientemente del escenario. Normalmente, desea una fase específica. Utilice el siguiente filtro en su lugar.
+   Esto le daría todos los posibles clientes de ese modelo, independientemente del escenario. Por lo general, usted querrá una etapa específica. Utilice el siguiente filtro en su lugar.
 
-1. Busque la **Etapa de ingresos** filtre y arrástrela al lienzo.
+1. Busque el **Fase de ingresos** filtre y arrástrelo al lienzo.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleccione un **Prueba**.
+1. Seleccione una **Fase**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -46,8 +47,8 @@ Mediante listas inteligentes, puede encontrar fácilmente todos los miembros del
 
    >[!TIP]
    >
-   >No necesita ambos filtros, simplemente elija el que necesita. Sólo les estamos mostrando que son minuciosos.
+   >No necesita ambos filtros, solo elija el que necesita. Solo les estamos mostrando a ambos que sean minuciosos.
 
    >[!CAUTION]
    >
-   >Si la fase de un posible cliente cambia mediante una campaña externa durante la creación inicial del posible cliente, la actividad no se registra en la base de datos. Esto significa que el filtro de lista inteligente no incluirá el posible cliente.
+   >Si una campaña externa cambia la fase de un posible cliente durante la creación inicial de este, la actividad no se registra en la base de datos. Esto significa que el posible cliente no se incluirá en el filtro de lista inteligente.

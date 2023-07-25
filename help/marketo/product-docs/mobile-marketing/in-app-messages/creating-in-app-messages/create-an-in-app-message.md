@@ -1,21 +1,22 @@
 ---
-description: 'Creación de un mensaje en la aplicación: Marketo Docs: documentación del producto'
-title: Crear un mensaje en la aplicación
+description: 'Creación de un mensaje en la aplicación: documentos de Marketo, documentación del producto'
+title: Creación de un mensaje en la aplicación
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Crear un mensaje en la aplicación {#create-an-in-app-message}
+# Creación de un mensaje en la aplicación {#create-an-in-app-message}
 
-Existen varios pasos para crear el mensaje perfecto en la aplicación. Comience aquí y siga los pasos en orden, en estos artículos.
+Hay que seguir varios pasos para crear el mensaje en la aplicación perfecto. Comience aquí y, a continuación, siga los pasos en orden en estos artículos.
 
-Después de crear el mensaje en la aplicación, vaya a [here](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver cómo enviarlo.
+Después de crear el mensaje en la aplicación, vaya a [aquí](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver cómo enviarlo.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![Imagen uno](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
@@ -23,13 +24,13 @@ Después de crear el mensaje en la aplicación, vaya a [here](/help/marketo/prod
 
    ![Imagen dos](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Select **Mensaje en la aplicación**.
+1. Seleccionar **Mensaje en la aplicación**.
 
    ![Imagen tres](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
-1. Escriba un nombre para el mensaje en la aplicación, proporcione una descripción opcional y haga clic en **Crear**.
+1. Introduzca un nombre para el mensaje en la aplicación, proporcione una descripción opcional y haga clic en **Crear**.
 
-   ![Imagen Cuatro](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
+   ![Imagen cuatro](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
 
 >[!NOTE]
 >

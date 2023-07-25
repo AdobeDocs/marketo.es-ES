@@ -3,7 +3,8 @@ unique-page-id: 7504770
 description: Ver la URL del servicio de organización - Documentos de Marketo - Documentación del producto
 title: Ver la URL del servicio de organización
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Ver la URL del servicio de organización {#view-the-organization-service-url}
 
-Marketo necesita la URL del servicio de organización para sincronizar con instancias de Dynamics. Así es como encontrarlo en Dynamics.
+Marketo necesita la URL del servicio de organización para sincronizarse con instancias de Dynamics. A continuación se indica cómo encontrarlo en Dynamics.
 
-1. Inicie sesión en Dynamics. Haga clic en el icono Configuración y seleccione **Configuración avanzada**.
+1. Inicie sesión en Dynamics. Haga clic en el icono Settings y seleccione **Configuración avanzada**.
 
    ![](assets/one.png)
 
-1. Haga clic en **Configuración** y seleccione **Personalizaciones**.
+1. Clic **Configuración** y seleccione **Personalizaciones**.
 
    ![](assets/two.png)
 
-1. Haga clic en **Recursos para desarrolladores**.
+1. Clic **Recursos para desarrolladores**.
 
    ![](assets/three.png)
 
-1. La URL del servicio de organización se encuentra en **Puntos finales de servicio**.
+1. La URL del servicio de organización se encuentra en **Extremos de servicio**.
 
    ![](assets/four.png)
 

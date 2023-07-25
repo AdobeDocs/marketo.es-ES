@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11372054
-description: 'Editar la versión de texto de un mensaje de correo electrónico: documentos de Marketo: documentación del producto'
+description: 'Editar la versión de texto de un correo electrónico: documentos de Marketo, documentación del producto'
 title: Editar la versión de texto de un correo electrónico
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # Editar la versión de texto de un correo electrónico {#edit-the-text-version-of-an-email}
 
-Al crear un correo electrónico, es posible que desee que su versión de texto esté redactada de forma diferente a la versión del HTML. De forma predeterminada, Marketo copia automáticamente el contenido de texto de cualquier elemento de texto enriquecido que haya en el correo electrónico a la versión de texto. Así es como editarlo.
+Al crear un correo electrónico, es posible que desee que su versión de texto esté redactada de forma diferente a la versión del HTML. De forma predeterminada, Marketo copia automáticamente el contenido de texto de cualquier elemento de texto enriquecido del correo electrónico en la versión de texto. A continuación se muestra cómo editarlo.
 
 >[!NOTE]
 >
->Este no es un artículo sobre la creación de un correo electrónico de solo texto. Para obtener más información, consulte [Crear un correo electrónico de solo texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Este no es un artículo sobre la creación de un correo electrónico de solo texto. Para obtener información al respecto, consulte [Crear un correo electrónico de solo texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. En el editor de correo electrónico, haga clic en la **Texto** en la parte inferior del correo electrónico.
+1. En el editor de correo electrónico, haga clic en **Texto** en la parte inferior del correo electrónico.
 
    ![](assets/one-5.png)
 
@@ -30,12 +31,12 @@ Al crear un correo electrónico, es posible que desee que su versión de texto e
 
    ![](assets/three-4.png)
 
-1. Realice los cambios necesarios. Cuando haya terminado, simplemente cierre el editor o vuelva a la versión del HTML. Los cambios se guardarán automáticamente.
+1. Realice las modificaciones que desee. Cuando haya terminado, simplemente cierre el editor o vuelva a la versión de HTML. Los cambios se guardarán automáticamente.
 
    ![](assets/four-4.png)
 
-   Si solo tiene contenido estático, el texto se puede editar en un bloque grande (como se ve en el paso 3). Si tiene contenido dinámico, el texto se desglosará en diferentes secciones editables, como se ve a continuación.
+   Si solo tiene contenido estático, el texto se podrá editar en un bloque grande (mostrado en el paso 3). Si tiene contenido dinámico, el texto se dividirá en diferentes secciones editables, como se ve a continuación.
 
    ![](assets/five-3.png)
 
-¡Ya sabes!
+¡Ya lo sabes!

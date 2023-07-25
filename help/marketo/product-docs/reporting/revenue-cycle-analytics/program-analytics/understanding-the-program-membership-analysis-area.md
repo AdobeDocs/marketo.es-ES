@@ -1,30 +1,31 @@
 ---
 unique-page-id: 4718640
-description: 'Explicación del área de análisis de pertenencia al programa: documentos de Marketo: documentación del producto'
-title: Explicación del área de análisis de pertenencia al programa
+description: Explicación del área de análisis de pertenencia a programas - Documentos de Marketo - Documentación del producto
+title: Explicación del área de análisis de pertenencia a programas
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 8%
 
 ---
 
-# Explicación del área de análisis de pertenencia al programa {#understanding-the-program-membership-analysis-area}
+# Explicación del área de análisis de pertenencia a programas {#understanding-the-program-membership-analysis-area}
 
-El área de análisis de miembros del programa le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal durante un período de tiempo determinado.
+El área Análisis de pertenencia a programas le permite analizar la eficacia de programas individuales o ver resultados resumidos por canal durante un período de tiempo determinado.
 
-## Preguntas comerciales de ejemplo {#example-business-questions}
+## Ejemplo de preguntas comerciales {#example-business-questions}
 
 ¿Cuántas personas participaron en un programa por canal en un mes determinado?
 
 ![](assets/one-2.png)
 
-¿Cuántas personas alcanzaron los criterios de éxito de un programa determinado?
+¿Cuántas personas alcanzaron los criterios de éxito para un programa determinado?
 
 ![](assets/two-2.png)
 
-¿Cuántos nuevos nombres generó cada programa/canal por mes?
+¿Cuántos nombres nuevos generó cada programa/canal al mes?
 
 ![](assets/three-2.png)
 
@@ -32,15 +33,15 @@ El área de análisis de miembros del programa le permite analizar la eficacia d
 
 >[!NOTE]
 >
->Los puntos amarillos son dimensiones y los azules son medidas.
+>Los puntos amarillos son dimensiones y los puntos azules son medidas.
 
-### Membresía {#membership}
+### Suscripción {#membership}
 
 | Medida | Descripción |
 |---|---|
-| % Nuevos Nombres | Porcentaje de posibles clientes adquiridos en un programa |
-| Miembros | Total de posibles clientes en un programa |
-| Nuevos nombres | Total de nuevos nombres adquiridos por un programa |
+| % de nombres nuevos | Porcentaje de posibles clientes adquiridos en un programa |
+| Miembros | Posibles clientes totales en un programa |
+| Nuevos nombres | Total de nombres nuevos adquiridos por un programa |
 
 ### Atributos del programa {#program-attributes}
 
@@ -49,21 +50,21 @@ El área de análisis de miembros del programa le permite analizar la eficacia d
 | Programa Canal | Canal de programa |
 | Nombre del programa | Nombre del programa |
 
-### Intervalo de tiempo de pertenencia al programa {#program-membership-timeframe}
+### Plazo de pertenencia al programa {#program-membership-timeframe}
 
 | Dimensión | Descripción |
 |---|---|
-| Año | Periodo de pertenencia al programa |
-| Trimestre | Periodo de pertenencia al programa |
-| Mes | Periodo de pertenencia al programa |
-| Semana | Periodo de pertenencia al programa |
-| Fecha | Periodo de pertenencia al programa |
+| Año | Plazo de pertenencia al programa |
+| Trimestre | Plazo de pertenencia al programa |
+| Mes | Plazo de pertenencia al programa |
+| Semana | Plazo de pertenencia al programa |
+| Fecha | Plazo de pertenencia al programa |
 
 ### Sin errores {#success}
 
 | Medida | Descripción |
 |---|---|
-| % de éxito (nombres nuevos) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y lograron el progreso del programa |
-| % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en el avance de un programa |
-| Éxito (nombres nuevos) | Número total de nuevos nombres que lograron el éxito en el avance de un programa |
-| Éxito (total) | Número total de posibles clientes que lograron el éxito en el progreso de un programa |
+| % de éxito (nuevos nombres) | Porcentaje de posibles clientes que fueron adquiridos por el programa Y alcanzaron el éxito en la progresión del programa |
+| % de éxito (total) | Porcentaje de posibles clientes que lograron el éxito en la progresión de un programa |
+| Correcto (nuevos nombres) | Número total de nombres nuevos que alcanzaron el éxito en la progresión de un programa |
+| Éxito (total) | Número total de posibles clientes que lograron el éxito en la progresión de un programa |

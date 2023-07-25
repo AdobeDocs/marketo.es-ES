@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2949718
-description: 'Publicación de un mensaje de correo electrónico para la perspectiva de ventas: documentos de Marketo: documentación del producto'
-title: Publicación de un correo electrónico en la perspectiva de ventas
+description: Publicación de un correo electrónico para conocer las ventas - Documentos de Marketo - Documentación del producto
+title: Publicar un correo electrónico en Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-# Publicación de un correo electrónico en la perspectiva de ventas {#publish-an-email-to-sales-insight}
+# Publicar un correo electrónico en Sales Insight {#publish-an-email-to-sales-insight}
 
-Active la configuración Publicar en la perspectiva de ventas para que el correo electrónico esté disponible para el equipo de ventas tanto en la perspectiva de ventas como en el complemento de Outlook y Gmail. También puede darle una fecha de caducidad.
+Habilite la configuración Publicar en perspectiva de ventas para que su equipo de ventas reciba un correo electrónico tanto en perspectiva de ventas como en el complemento de Outlook y Gmail. También puede darle una fecha de caducidad.
 
-1. Busque su correo electrónico, selecciónelo y haga clic en **Editar borrador**.
+1. Busque el correo electrónico, selecciónelo y haga clic en **Editar borrador**.
 
    ![](assets/one.png)
 
@@ -26,23 +27,23 @@ Active la configuración Publicar en la perspectiva de ventas para que el correo
 
    ![](assets/three.png)
 
-1. Para establecer una fecha de caducidad (opcional), marque **Configurar caducidad** y elija una fecha.
+1. Para establecer una fecha de caducidad (opcional), marque **Definir caducidad** y elija una fecha.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >A las 23:59 (CST) en la fecha de caducidad (si lo establece), el correo electrónico que ha puesto a disposición desaparecerá de la perspectiva de ventas, así como de cualquiera de sus complementos. Por supuesto que aún será accesible en Marketo.
+   >A las 23:59 (CST) del día de caducidad (si establece una), el correo electrónico que puso a disposición desaparecerá de Sales Insight y de cualquiera de sus complementos. Por supuesto, seguirá siendo accesible en Marketo.
 
-1. Haga clic en **Guardar**.
+1. Clic **Guardar**.
 
    ![](assets/five.png)
 
-¡Buen trabajo! Ahora sabe cómo hacer que los correos electrónicos estén disponibles para que su equipo de ventas los envíe en CRM y limitar el tiempo disponible, si es necesario.
+¡Buen trabajo! Ahora sabe cómo poner correos electrónicos disponibles para que su equipo de ventas envíe en el lado del CRM y limitar su tiempo disponible, si es necesario.
 
 >[!NOTE]
 >
->[Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) no se resuelve al enviar un correo electrónico desde Sales Insight en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, empresa, etc.). Sin embargo, los valores predeterminados para los tokens funcionarán.
+>[Mis tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) no se resolverá al enviar un correo electrónico desde la perspectiva de ventas en Microsoft Dynamics o Salesforce; solo se rellenarán los tokens estándar (posible cliente, compañía, etc.). Sin embargo, los valores predeterminados para los tokens funcionarán.
 
 >[!TIP]
 >

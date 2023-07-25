@@ -1,9 +1,10 @@
 ---
 unique-page-id: 2949154
-description: Etiquetado de campañas web - Documentos de Marketo - Documentación del producto
+description: 'Etiquetado De Campañas Web: Documentos De Marketo: Documentación Del Producto'
 title: Etiquetado de campañas web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # Etiquetado de campañas web {#label-your-web-campaigns}
 
-¿Tiene tantas campañas que el desplazamiento se está volviendo complicado? Utilice etiquetas para etiquetar sus campañas, de modo que pueda ordenarlas y encontrarlas rápidamente.
+¿Tiene tantas campañas que el desplazamiento se está volviendo engorroso? Utilice etiquetas para etiquetar sus campañas, de modo que pueda ordenarlas y encontrarlas rápidamente.
 
 ## Añadir una etiqueta a una campaña web {#add-a-label-to-a-web-campaign}
 
-1. Inicie sesión en Personalización web y vaya al área Campañas web .
+1. Inicie sesión en Personalización web y vaya al área de Campañas web.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Para facilitar la búsqueda de la campaña que desea, use la variable [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Para facilitar la búsqueda de la campaña que desea, utilice el [función de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Seleccione las campañas que desee etiquetar con una etiqueta.
 
@@ -40,7 +41,7 @@ ht-degree: 0%
 
 ## Filtrar por etiquetas existentes {#filter-by-existing-labels}
 
-1. En la lista desplegable de etiquetas , seleccione la etiqueta que desee utilizar como filtro.
+1. En la lista desplegable etiquetas, seleccione la etiqueta que desee utilizar como filtro.
 
    ![](assets/web-campaigns-my-campaigns-dropdown.jpg)
 

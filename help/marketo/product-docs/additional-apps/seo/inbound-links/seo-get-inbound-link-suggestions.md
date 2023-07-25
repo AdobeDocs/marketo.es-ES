@@ -3,10 +3,11 @@ unique-page-id: 2949228
 description: 'SEO: Obtener sugerencias de vínculos entrantes - Documentos de Marketo: documentación del producto'
 title: 'SEO: Obtener sugerencias de vínculos entrantes'
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +35,7 @@ Marketo puede sugerir qué vínculos entrantes son valiosos para su [optimizaci�
    >
    >¿Sabías que puedes  [añadir el vínculo a una lista nueva o existente](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? ¡Eche un vistazo!
 
-¡Fantástico! Ahora se realizará el seguimiento de estos vínculos añadidos.
+¡Increíble! Ahora se realizará el seguimiento de estos vínculos añadidos.
 
 >[!NOTE]
 >

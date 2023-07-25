@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2359813
-description: 'Configuración De Solicitudes Después Del Uso Compartido: Documentos De Marketo: Documentación Del Producto'
-title: Configurar las solicitudes después del uso compartido
+description: Configuración de indicadores después del uso compartido - Documentos de Marketo - Documentación del producto
+title: Configurar indicadores después del uso compartido
 exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
-# Configurar las solicitudes después del uso compartido {#configure-after-share-prompts}
+# Configurar indicadores después del uso compartido {#configure-after-share-prompts}
 
-En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede elegir qué sucede después de que una persona comparta el contenido en su red social.
+En las aplicaciones de botón social, uso compartido de vídeo y encuestas, puede elegir lo que sucede después de que una persona comparta su contenido en la red social.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -22,7 +23,7 @@ En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. En el editor de aplicaciones sociales, vaya a **Configuración de la aplicación** y luego **Opciones avanzadas**.
+1. En el editor de aplicaciones sociales, vaya a **Configuración de aplicación** y luego **Opciones avanzadas**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -35,9 +36,9 @@ En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede
 
    >[!NOTE]
    >
-   >Si elige **Captura de correo electrónico**, la solicitud solo se muestra si la persona no ha proporcionado ya su información.
+   >Si elige **Captura de correo electrónico**, la solicitud solo se muestra si la persona aún no ha proporcionado su información.
 
-1. Si elige **Mensaje de confirmación:** Vaya a **Flujo compartido** y luego **Mensaje de confirmación**.
+1. Si elige **Mensaje de confirmación:** Ir a **Compartir flujo** y luego **Mensaje de confirmación**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -45,11 +46,11 @@ En las aplicaciones de botón social, uso compartido de vídeo y encuesta, puede
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Si elige **Captura de correo electrónico** (en lugar de confirmación): Vaya a **Flujo compartido** y luego **Captura de correo electrónico**.
+1. Si elige **Captura de correo electrónico** (en lugar de confirmación): Vaya a **Compartir flujo** y luego **Captura de correo electrónico**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Elija si desea incluir una solicitud de marketing y si esa casilla de verificación está seleccionada de forma predeterminada (**Exclusión**) o no (**Opt-in**).
+1. Elija si desea incluir una solicitud de marketing y si la casilla de verificación está seleccionada de forma predeterminada (**Opción de exclusión**) o no (**Opt-in**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

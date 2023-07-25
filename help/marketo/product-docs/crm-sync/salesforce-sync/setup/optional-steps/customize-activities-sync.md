@@ -1,9 +1,10 @@
 ---
 unique-page-id: 4719294
-description: 'Sincronización de actividades de personalización: Documentos de Marketo: documentación del producto'
+description: Personalizar sincronización de actividades - Documentos de Marketo - Documentación del producto
 title: Personalizar sincronización de actividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 4%
@@ -12,23 +13,23 @@ ht-degree: 4%
 
 # Personalizar sincronización de actividades {#customize-activities-sync}
 
-Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial de actividades de Salesforce para determinados eventos. Así es como habilitarlos.
+Si no utiliza Marketo Sales Insight, Marketo puede crear Registros de historial de actividades de Salesforce para determinados eventos. A continuación se indica cómo habilitarlos.
 
-1. Vaya a **Administrador**.
+1. Ir a **Administrador**.
 
    ![](assets/admin.png)
 
-1. Haga clic en **Salesforce** y haga clic en **Editar opciones de sincronización**.
+1. Clic **Salesforce**, luego haga clic en **Editar opciones de sincronización**.
 
    ![](assets/two-1.png)
 
-1. Marque las casillas situadas junto a las actividades que desea que Marketo inserte en Salesforce y haga clic en **Guardar**.
+1. Marque las casillas junto a las actividades que Marketo debe insertar en Salesforce y haga clic en **Guardar**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Una vez habilitado, Marketo inserta el historial de actividades de tres meses. Según la cantidad de datos, _esto puede tardar varios días en completarse_. Las actualizaciones que se producen durante la notificación push inicial de Actividades pueden retrasarse hasta que se complete la sincronización inicial de Actividades.
+   >Una vez habilitado, Marketo insertará un historial de actividades de tres meses. Según la cantidad de datos, _esta operación podría tardar varios días en completarse_. Las actualizaciones que se producen durante la inserción inicial de Actividades se pueden retrasar hasta que se completa la sincronización inicial de Actividades.
 
 <table> 
  <colgroup> 
@@ -44,15 +45,15 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
  <tbody> 
   <tr> 
    <td>Completó el formulario</td> 
-   <td>Se ha rellenado cualquier formulario de Marketo</td> 
+   <td>Rellenó cualquier formulario de Marketo</td> 
   </tr> 
   <tr> 
-   <td>Se ha añadido a la lista</td> 
-   <td><p>Paso de flujo: Se agregó a una lista estática</p></td> 
+   <td>Añadido a la lista</td> 
+   <td><p>Paso de flujo: Se ha añadido a una lista estática</p></td> 
   </tr> 
   <tr> 
    <td>Correo electrónico enviado</td> 
-   <td>Paso de flujo: Se ha enviado un correo electrónico</td> 
+   <td>Paso de flujo: se envió un correo electrónico</td> 
   </tr> 
   <tr> 
    <td>Correo electrónico enviado</td> 
@@ -60,15 +61,15 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
   </tr> 
   <tr> 
    <td>Correo electrónico abierto</td> 
-   <td>Se ha abierto un correo electrónico (sin bloquear imágenes)</td> 
+   <td>Apertura de un correo electrónico (sin bloquear imágenes)</td> 
   </tr> 
   <tr> 
    <td>Hizo clic en el vínculo del email</td> 
-   <td>Se hizo clic en un vínculo de un correo electrónico enviado por Marketo</td> 
+   <td>Se ha hecho clic en un vínculo de un correo electrónico enviado por Marketo</td> 
   </tr> 
   <tr> 
    <td>Eliminado de la lista</td> 
-   <td>Paso de flujo: Se ha eliminado de una lista estática</td> 
+   <td>Paso de flujo: se ha eliminado de una lista estática</td> 
   </tr> 
   <tr> 
    <td>Quitar de flujo</td> 
@@ -80,22 +81,22 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros del historial
   </tr> 
   <tr> 
    <td>Correo electrónico de ventas abierto</td> 
-   <td>Apertura de un correo electrónico enviado a través de Marketo Sales Insight</td> 
+   <td>Se ha abierto un correo electrónico enviado a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Haga clic en el vínculo en el correo electrónico de ventas</td> 
-   <td>Se hizo clic en un vínculo de un correo electrónico enviado a través de Marketo Sales Insight</td> 
+   <td>Haga clic en el vínculo del correo electrónico de ventas</td> 
+   <td>Se ha hecho clic en un vínculo de un correo electrónico enviado a través de Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>Correo electrónico de ventas recibido</td> 
-   <td>El representante de ventas recibió y registró un correo electrónico en el complemento de MSI Outlook</td> 
+   <td>El representante de ventas recibió y registró un correo electrónico en el complemento MSI Outlook</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->&quot;Correo electrónico de ventas recibido&quot; sí **not** media entregada. El estado de entrega no se captura para los correos electrónicos enviados mediante la perspectiva de ventas.
+>&quot;Correo electrónico de ventas recibido&quot; sí **no** media entregada. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
 
 >[!TIP]
 >

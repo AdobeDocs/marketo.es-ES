@@ -1,9 +1,10 @@
 ---
 unique-page-id: 5472678
-description: 'Importar una lista de caracteres no latinos: documentos de Marketo: documentación del producto'
+description: Importación de una lista de caracteres no latinos - Documentos de Marketo - Documentación del producto
 title: Importar una lista de caracteres no latinos
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -12,21 +13,21 @@ ht-degree: 0%
 
 # Importar una lista de caracteres no latinos {#import-a-non-latin-characters-list}
 
-¿Intenta importar un archivo que no esté en inglés? La lista parece perfecta cuando se abre con Excel.
+¿Está intentando importar un archivo que no está en inglés? La lista tiene un aspecto perfecto al abrirla con Excel.
 
 ![](assets/image2015-2-10-9-3a34-3a57.png)
 
-Sin embargo, al importarlo en Marketo, es posible que vea que los caracteres que no están en inglés no se recogen correctamente.
+Sin embargo, al importarlo a Marketo, es posible que vea que los caracteres que no son ingleses no se recogen correctamente.
 
 ![](assets/image2015-2-10-9-3a35-3a49.png)
 
-Esto se debe a que el archivo no se guarda correctamente para que Marketo reconozca todos los caracteres que no sean latinos. La buena noticia es que hay algunos pasos simples que puedes seguir para arreglarlo.
+Esto se debe a que el archivo no se ha guardado correctamente para que Marketo reconozca todos los caracteres no latinos. La buena noticia es que hay algunos pasos simples que puede seguir para solucionarlo.
 
-1. Select **Guardar como...** de la variable **Archivo** en Excel.
+1. Seleccionar **Guardar como...** desde el **Archivo** en Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Choose **Texto Unicode UTF-16 (.txt)** como el **Formato** . Esto codificará el archivo de la forma en que Marketo puede mostrarlos.
+1. Elegir **Texto Unicode UTF-16 (.txt)** como el **Formato** opción. Esto codificará el archivo de la manera en que Marketo puede mostrarlo.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -34,7 +35,7 @@ Esto se debe a que el archivo no se guarda correctamente para que Marketo recono
    >
    >Marketo también es compatible con UTF-8, Shift-JIS o EUC-JP.
 
-1. Excel guardará el nuevo archivo como archivo de texto con la extensión .txt . Pero también convierte todas las comas del archivo en pestañas. Tenemos que volver a cambiarlo.
+1. Excel guardará el nuevo archivo como un archivo de texto con la extensión .txt. Pero también convierte todas las comas del archivo en pestañas. Tenemos que volver a cambiarlo.
 
    >[!TIP]
    >
@@ -42,11 +43,11 @@ Esto se debe a que el archivo no se guarda correctamente para que Marketo recono
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
-1. Seleccione una pestaña del documento y cópiela.
+1. Seleccione una ficha del documento y cópiela.
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Select **Buscar y reemplazar...** de la variable **Editar** para abrir el Navegador.
+1. Seleccionar **Buscar y reemplazar...** desde el **Editar** menú.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
@@ -54,11 +55,11 @@ Esto se debe a que el archivo no se guarda correctamente para que Marketo recono
    >
    >La acción equivalente para los usuarios de Windows es: **Editar > Reemplazar...**
 
-1. Pegue la ficha que ha copiado en el paso 4 en el primer cuadro (que desea reemplazar) y escriba una coma en el segundo cuadro (reemplazar por). Y haga clic en **Todo**.
+1. Pegue la ficha copiada en el paso 4 en el primer cuadro (que se reemplazará) y escriba una coma en el segundo cuadro (reemplazar con). Y haga clic en **Todo**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 
-1. Y voila, todas las comas están de vuelta y estamos listos para rodar.
+1. Y voilà, todas las comas están de vuelta y estamos listos para rodar.
 
    ![](assets/image2015-2-10-10-3a14-3a45.png)
 
@@ -68,6 +69,6 @@ Esto se debe a que el archivo no se guarda correctamente para que Marketo recono
 
    >[!NOTE]
    >
-   >Cualquier campo de fecha y hora que se importe se tratará como Hora central. Si tiene campos de fecha y hora en un huso horario diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
+   >Los campos de fecha y hora que se importen se tratarán como Hora central. Si tiene campos de fecha y hora en una zona horaria diferente, puede utilizar una fórmula de Excel para transformarla a la hora central (América/Chicago).
 
 Sabemos que esto es raro, pero funciona. ¡Feliz importación!

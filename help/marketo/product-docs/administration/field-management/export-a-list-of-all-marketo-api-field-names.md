@@ -3,7 +3,8 @@ unique-page-id: 2360295
 description: 'Exportar una lista de todos los nombres de los campos de la API de Marketo: Documentos de Marketo: documentación del producto'
 title: Exportar una lista de todos los nombres de campo de la API de Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

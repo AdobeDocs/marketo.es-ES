@@ -1,17 +1,18 @@
 ---
-description: 'Ejecutar campaña: Documentos de Marketo: Documentación del producto'
+description: 'Ejecución De Campaign: Documentos De Marketo: Documentación Del Producto'
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '708'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Ejecutar campaña {#execute-campaign}
 
-Una campaña ejecutable, al igual que otras campañas, contiene una lista inteligente, un flujo y una programación. A diferencia de otras campañas, en realidad no la programa ni la activa. Solo se puede llamar a través de otra campaña a través del paso Ejecutar flujo de campaña . Los pasos de flujo de la campaña ejecutable se ejecutan en serie con la campaña principal (a diferencia de la campaña de solicitud, que se ejecuta en paralelo en una campaña de Déclencheur independiente).
+Una campaña ejecutable, como otras campañas, contiene una lista inteligente, un flujo y un programa. A diferencia de otras campañas, en realidad no se programa ni se activa. Solo otra campaña puede llamarla a través del paso Ejecutar flujo de campaña. Los pasos de flujo de la campaña ejecutable se ejecutan en serie con la campaña principal (a diferencia de la campaña de solicitud, que se ejecuta en paralelo en una campaña de Déclencheur independiente).
 
 >[!NOTE]
 >
@@ -19,15 +20,15 @@ Una campaña ejecutable, al igual que otras campañas, contiene una lista inteli
 
 ## Cuándo utilizar Ejecutar campaña {#when-to-use-execute-campaign}
 
-Puede hacer muchas cosas con una campaña ejecutable. Están diseñadas para facilitar tareas operativas comunes, como enrutamiento de posibles clientes, administración del ciclo de vida y puntuación (entre otras), y pueden utilizarse para ejecutar el mismo flujo de trabajo desde lotes o campañas activadas.
+Hay muchas cosas que puede hacer con una campaña ejecutable. Están diseñadas para facilitar tareas operativas comunes, como el enrutamiento de posibles clientes, la administración del ciclo vital y la puntuación (entre otras), y se pueden utilizar para ejecutar el mismo flujo de trabajo desde Lote o Campañas activadas.
 
-También puede utilizarlos cuando necesite ejecutar un flujo independiente, pero debe depender de los resultados de ese flujo en las siguientes opciones de paso de flujo (es decir, si esto sucede, haga eso).
+También puede utilizarlos cuando necesite ejecutar un flujo independiente, pero debe depender de los resultados de ese flujo en las opciones de paso de flujo subsiguientes (es decir, si es así, hágalo).
 
-Ejecutar campaña es una mejora en [Solicitud de campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), ya que puede ejecutarse en serie, mientras que el último solo se ejecuta en paralelo.
+La ejecución de la campaña supone una mejora con [Solicitar campaña](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), ya que puede ejecutarse en serie, mientras que esta última solo se ejecuta en paralelo.
 
 >[!NOTE]
 >
->Los pasos de espera y los Webhooks nunca serán compatibles con las campañas ejecutables. Para estos, deberá usar Campaña de solicitud en su lugar.
+>Los pasos de espera y los webhooks nunca serán compatibles con las campañas ejecutables. Para ello, debe utilizar Solicitar campaña en su lugar.
 
 ## Cómo crear una campaña ejecutable {#how-to-create-an-executable-campaign}
 
@@ -35,81 +36,81 @@ Ejecutar campaña es una mejora en [Solicitud de campaña](/help/marketo/product
 
    ![](assets/execute-campaign-1.png)
 
-1. Asígnele un nombre, seleccione la opción **Ejecutable** y haga clic en **Crear**.
+1. Asigne un nombre y seleccione **Ejecutable** y haga clic en **Crear**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Defina la lista inteligente y el flujo, como cualquier otra campaña inteligente.
 
-También puede clonar una campaña inteligente existente. Si clona una campaña ejecutable existente, tendrá que seleccionar la variable **Ejecutable** después de ponerle nombre.
+También puede clonar una campaña inteligente existente. Si clona una campaña ejecutable existente, aún tendrá que seleccionar la variable **Ejecutable** después de ponerle nombre.
 
 >[!NOTE]
 >
 >No puede clonar una campaña que contenga déclencheur.
 
-## Usar contexto de token de campaña principal {#use-parent-campaign-token-context}
+## Usar contexto de token de la campaña principal {#use-parent-campaign-token-context}
 
-Cuando se establece en true, los siguientes contextos de token se envían a la campaña secundaria (la que se está ejecutando):
+Cuando se establece en true, se envían los siguientes contextos de token a la campaña secundaria (la que se está ejecutando):
 
 * Mis tokens
 * Tokens de campaña
-* Tokens del programa
-* Tokens de miembro
+* Tokens de programa
+* Tokens de miembros
 * [Tokens de déclencheur](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (si se llama desde una campaña activada)
 
 **Interacción de API**
 
-Al utilizar Programar o Solicitar campaña [en la API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), ambos permiten pasar valores para Mis tokens, que anula los valores establecidos para esos tokens en la campaña a la que está llamando. Si esa campaña luego ejecuta otra campaña y establece &quot;Usar contexto principal en verdadero&quot;, utilizará los valores pasados a través de la API, en lugar de los valores configurados en la aplicación.
+Al utilizar Programar o Solicitar campaña [en la API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), ambos permiten pasar valores para Mis tokens, que anulan los valores establecidos para esos tokens en la campaña a la que llama. Si esa campaña ejecuta otra campaña y establece &quot;Use Parent Context to True&quot;, utilizará los valores pasados a través de la API en lugar de los valores establecidos en la aplicación.
 
-## Aspectos a tener en cuenta {#things-to-note}
+## Cosas que hay que tener en cuenta {#things-to-note}
 
-* La lista inteligente filtrará a cualquier persona que no cumpla los requisitos. Si una persona cumple los requisitos, el registro de actividad de la campaña ejecutada resultante los enumerará como &quot;Calificado: TRUE&quot; (y FALSE si no lo hacen)
-* Se aplican las reglas de clasificación de programación de campaña (Configuración de campaña inteligente en la pestaña Programación ).
-* No se pueden llamar a las campañas ejecutables entre espacios de trabajo
-* Si usa la variable [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) acción de flujo dirigida a una campaña ejecutable, se dirige tanto al hijo como al padre
-* Aprovechando la herencia de tokens : por ejemplo, si tiene un único flujo de puntuación común activado por varios recursos diferentes, puede definir una puntuación predeterminada My Token en la campaña secundaria y en la campaña principal para que pueda anular el valor de la campaña de puntuación secundaria en las campañas principales (consulte a continuación un ejemplo visual)
-* Las campañas ejecutables se pueden llamar hasta con tres niveles de profundidad (p. ej., Campaña principal > Secundaria > Secundaria > Secundaria)
+* La lista inteligente filtrará a cualquier persona que no cumpla los requisitos. Si una persona cumple los requisitos, el registro de actividad de Campaña ejecutada resultante los enumerará como &quot;Cualificado: VERDADERO&quot; (y FALSO si no lo hace)
+* Se aplican reglas de calificación de programación de campaña (Configuración de campaña inteligente en la pestaña Programar )
+* No se puede llamar a las campañas ejecutables en espacios de trabajo
+* Si usa el [Eliminar del flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) acción de flujo dirigida a una campaña ejecutable, se dirige tanto al elemento secundario como al principal
+* Aprovechar la herencia de tokens: por ejemplo, si tiene un solo flujo de puntuación común activado por varios recursos diferentes, puede definir una puntuación de Mi token predeterminada en la campaña secundaria y en la campaña principal para que pueda anular el valor de campaña de puntuación secundaria de sus campañas principales (consulte a continuación para ver un ejemplo visual)
+* Las campañas ejecutables pueden llamarse hasta tres niveles (por ejemplo, Campaña principal > Secundario > Secundario > Secundario)
 
 >[!CAUTION]
 >
->No deje inválidas las listas inteligentes para campañas ejecutables ; de lo contrario, **nadie** cumplirá los requisitos para ello. Una práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para que pueda intercambiar la definición de la lista inteligente.
+>No deje nunca inválidas las listas inteligentes de Campañas ejecutables; de lo contrario **nadie** cumplirá los requisitos para ello. La práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
 
-## Ejemplo de herencia de tokens {#token-inheritance-example}
+## Ejemplo de herencia de token {#token-inheritance-example}
 
-A continuación se muestra un ejemplo visual de la herencia de tokens en una campaña ejecutable y dos campañas principales: uno con contexto de token establecido en **True**, el otro para **False**.
+A continuación se muestra un ejemplo visual de herencia de tokens en una campaña ejecutable y dos campañas principales: una con contexto de token establecido en **Verdadero**, el otro a **Falso**.
 
-Campaña secundaria con una puntuación de cambio mediante un token.
+Campaña secundaria con una puntuación de cambio identificada.
 
 ![](assets/execute-campaign-3.png)
 
-La campaña infantil es My Tokens.
+La campaña infantil es Mis tokens.
 
 ![](assets/execute-campaign-4.png)
 
-**Ejemplo 1 - Verdadero**
+**Ejemplo 1: Verdadero**
 
-En el paso Ejecutar campaña de la primera campaña principal, el valor &quot;Usar contexto de token de campaña principal&quot; se establece en **True**.
+En el paso Ejecutar flujo de campaña de la primera campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Verdadero**.
 
 ![](assets/execute-campaign-5.png)
 
-Mis tokens de la campaña principal.
+La campaña de los padres es Mis tokens.
 
 ![](assets/execute-campaign-6.png)
 
-Los resultados: la puntuación ha cambiado en +10.
+Los resultados: la puntuación cambió en +10.
 
 ![](assets/execute-campaign-7.png)
 
 **Ejemplo 2: False**
 
-En el filtro Ejecutar campaña de la segunda campaña principal, el valor &quot;Usar contexto de token de campaña principal&quot; se establece en **False**.
+En el filtro Ejecutar campaña de la segunda campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Falso**.
 
 ![](assets/execute-campaign-8.png)
 
-Mis tokens de la campaña principal.
+La campaña de los padres es Mis tokens.
 
 ![](assets/execute-campaign-9.png)
 
-Los resultados: puntuación sin modificar, ya que se utilizó el valor de puntuación de la campaña secundaria, +0.
+Resultados: la puntuación no se ha modificado porque se ha utilizado el valor de puntuación de la campaña secundaria, +0.
 
 ![](assets/execute-campaign-10.png)

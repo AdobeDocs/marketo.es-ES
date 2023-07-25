@@ -2,7 +2,8 @@
 description: Configuración del administrador de productos - Documentos de Marketo - Documentación del producto
 title: Configuración de administración de productos
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

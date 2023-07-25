@@ -1,9 +1,10 @@
 ---
 unique-page-id: 9438191
-description: 'Plantilla 17A: Documentos de Marketo: Documentación del producto'
+description: Plantilla 17A - Documentos de Marketo - Documentación del producto
 title: Plantilla 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -20,9 +21,9 @@ Esta plantilla incluye el siguiente contenido:
 
 * Una sección principal
 
-   * incluye título a pantalla completa, texto a pantalla completa y dos botones
+   * incluye título de héroe, texto de héroe y dos botones
 
-* Seis secciones de cuerpo (opcional)
+* Seis secciones del cuerpo (opcional)
 * Pie de página (opcional)
 
 **Haga clic con el botón derecho para descargar esta plantilla:**

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1146999
-description: 'Tokens de déclencheur para momentos interesantes: Documentos de Marketo: documentación del producto'
+description: 'Tokens de déclencheur para momentos interesantes: documentos de Marketo, documentación del producto'
 title: Tokens de déclencheur para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 25%
@@ -14,18 +15,18 @@ ht-degree: 25%
 
 >[!PREREQUISITES]
 >
->Aprenda a utilizar la variable [Paso de flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Aprenda a utilizar [Etapa de flujo de momento interesante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponibles {#available-tokens}
 
-Consulte [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens puede poner en un momento interesante.
+Desproteger [Información general sobre tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos los tokens que puede poner en un momento interesante.
 
 ## Tokens de déclencheur {#trigger-tokens}
 
-Según el déclencheur utilizado en una campaña inteligente, hay disponibles tokens de Déclencheur adicionales.
+En función del déclencheur utilizado en una campaña inteligente, hay disponibles tokens de Déclencheur adicionales.
 
-* `{{trigger.Trigger Name}}` que es siempre el déclencheur mismo. Por ejemplo: Clics en vínculo en el correo electrónico.
-* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Vínculo de clics en página web es la propia URL, asunto de los déclencheur de Salesforce, etc.
+* `{{trigger.Trigger Name}}` que siempre es el déclencheur en sí. Por ejemplo: hace clic en Vínculo en el correo electrónico.
+* `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Clicks Link on Webpage es la propia URL, el asunto de Salesforce déclencheur, etc.
 * Hay disponibles déclencheur adicionales basados en restricciones, que se enumeran a continuación.
 
 **Déclencheur de correo electrónico**
@@ -83,7 +84,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Devoluciones de correo electrónico duras</td> 
+   <td>Rechazos de correo electrónico duros</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -117,7 +118,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
    <td><br></td>
   </tr> 
   <tr> 
-   <td>El Correo Electrónico Se Entrega</td> 
+   <td>Se Entrega El Correo Electrónico</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -204,7 +205,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
  </tbody> 
 </table>
 
-**Déclencheur de Salesforce**
+**Salesforce Déclencheur**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -674,7 +675,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
   </tr> 
   <tr>
    <td>Cambios del propietario</td> 
-   <td>Se Elimina De La Campaña De Ventas</td> 
+   <td>Se Ha Eliminado De La Campaña De Ventas</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -782,7 +783,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Vínculo de clics en la página web</td> 
+   <td>Vínculo Clics en la página web</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -803,7 +804,7 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 >[!NOTE]
 >
->Si no tiene un cheque ![(visto)](assets/check.png) entonces devolverá una cadena vacía (nada) en el momento interesante.
+>Si no tiene un cheque ![(marca)](assets/check.png) entonces devolverá una cadena vacía (nada) en el momento interesante.
 
 &#42;El Déclencheur **Página web de visitas** tiene algunos tokens adicionales:
 
@@ -813,6 +814,6 @@ Según el déclencheur utilizado en una campaña inteligente, hay disponibles to
 
 >[!TIP]
 >
->Pruebe siempre sus momentos interesantes para asegurarse de que representan el modo que desea.
+>Pruebe siempre los momentos interesantes para asegurarse de que se representan del modo deseado.
 >
->Además, asegúrese de que es interesante para el vendedor, no sólo para usted!
+>Además, asegúrese de que sea interesante para el vendedor, no solo para usted.

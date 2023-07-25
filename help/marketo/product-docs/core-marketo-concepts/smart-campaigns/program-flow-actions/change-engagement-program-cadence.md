@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147013
-description: Cambio de la secuencia del programa de participación - Documentos de Marketo - Documentación del producto
+description: Cambiar cadencia del programa de participación - Documentos de Marketo - Documentación del producto
 title: Cambiar cadencia del programa de participación
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 9%
@@ -12,15 +13,15 @@ ht-degree: 9%
 
 # Cambiar cadencia del programa de participación {#change-engagement-program-cadence}
 
-1. Resumen
+1. Información general
 
-   Una vez que una persona está siendo nutrida por un programa de participación, puede pausar temporalmente la crianza de la persona mediante este paso de flujo.
+   Una vez que una persona está siendo nutrida por un programa de participación, puede pausar temporalmente la nutrición de la persona mediante este paso de flujo.
 
    ![](assets/image2014-9-22-14-3a48-3a53.png)
 
    >[!NOTE]
    >
-   >Si una persona no es miembro del programa y se ejecuta a través de este paso de flujo, se añade automáticamente como miembro y en la primera emisión.
+   >Si una persona no es miembro del programa y ejecuta este paso de flujo, se agregará automáticamente como miembro y a su primer flujo.
 
 ## Uso {#usage}
 
@@ -28,8 +29,8 @@ ht-degree: 9%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Select **En pausa** como el **Nuevo valor** para impedir que la persona reciba contenido.
+1. Seleccionar **Pausado** como el **Nuevo valor** para impedir que la persona reciba contenido.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-Puede volver a establecer la persona en **Normal** si desea que comiencen a recibir contenido de nuevo.
+Puede devolver la persona a **Normal** si desea que vuelvan a recibir contenido.
