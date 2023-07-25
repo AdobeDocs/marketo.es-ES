@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 7%
 
 ---
@@ -24,7 +24,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 </br>
 
-* **Lienzo de participación**: el lienzo de participación es una herramienta visual que le permite crear y organizar campañas reutilizables. Es totalmente compatible con versiones anteriores, por lo que todas las campañas existentes se pueden ver en esta nueva estructura con solo hacer clic en un botón. Los lienzos se pueden descargar y compartir.
+* **Mapa de participación**: el mapa de participación es una herramienta visual que le permite crear y organizar campañas reutilizables. Es totalmente compatible con versiones anteriores, por lo que todas las campañas existentes se pueden ver en esta nueva estructura con solo hacer clic en un botón. Los lienzos se pueden descargar y compartir.
 
 <table> 
   <tr> 
@@ -38,6 +38,20 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tbody>
 </table>
 
+* **Notificaciones: Error de servicios web**: la notificación de error de servicios web ahora incluye el nombre de la suscripción, lo que facilita a los que administran varias instancias de Marketo Engage. También hemos agregado una columna &quot;Usuario&quot; a la tabla que contiene códigos de error y recuentos, para que pueda identificar fácilmente qué usuario de API fue responsable de generar un error específico al llamar a la API de REST de Marketo.
+
+<table> 
+  <tr> 
+   <td><b>Estado</b></td>
+   <td><b>Actualizaciones de documentación</b></td>
+  </tr>
+  <tr> 
+   <td>Enviado</td>
+   <td>n/a</td>
+  </tr>
+  </tbody>
+</table>
+
 ## Funciones de versión de Agile
 
 Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado de cada una de las funciones.
@@ -46,7 +60,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 </br>
 
-* **Origen del chat para Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
+* **Origen del chat para el Dynamic Chat**: &quot;Chat&quot; ahora se ofrece como fuente de nuevos registros y actividades de personas. Esta fuente se puede utilizar para ayudar a los usuarios a filtrar las actividades en Listas inteligentes/Campañas. El origen también se puede bloquear para que no haya actualizaciones en los campos.
 
 <table> 
   <tr> 

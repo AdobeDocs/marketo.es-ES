@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 3%
@@ -485,10 +485,10 @@ ht-degree: 3%
          + [Explicación de carpetas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Explicación de notificaciones](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificación](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Lienzo de participación {#engagement-canvas}
-         + [Resumen del lienzo de participación](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [Pestaña Lienzo de participación](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [Pestaña Configuración](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + Mapa de participación {#engagement-map}
+         + [Información general del mapa de participación](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [Pestaña Mapa de participación](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [Pestaña Configuración](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Introducción a Predictive Audiences](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modelos e información](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -628,7 +628,7 @@ ht-degree: 3%
          + [Notificaciones del navegador](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuración](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamiento del bot de chat](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Actividades del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Actividades de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Programación de citas {#appointment-scheduling}
             + [Calendario](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Reuniones](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
