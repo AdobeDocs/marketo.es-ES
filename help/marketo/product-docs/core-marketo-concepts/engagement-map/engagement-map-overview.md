@@ -4,9 +4,9 @@ title: Información general del mapa de participación
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Vaya a cualquier campaña existente y haga clic en **Mapa de participación** bo
 
 CAPTURA DE PANTALLA
 
-Una vez en el mapa de participación, verá dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+Una vez en el mapa de participación, verá dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 CAPTURA DE PANTALLA
 
-ENCABEZADO: ¿DESCRIPCIONES DE LA TARJETA? - LOPA LO CONFIRMARÁ
+## Descripciones de tarjeta {#card-descriptions}
 
 **Déclencheur**: En las campañas que incluyen déclencheur, el mapa tendrá una tarjeta Información general de Déclencheur. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
 
@@ -43,7 +43,7 @@ ENCABEZADO: ¿DESCRIPCIONES DE LA TARJETA? - LOPA LO CONFIRMARÁ
 
 ## Campañas anidadas {#nested-campaigns}
 
-* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional. (La campaña anidada también incluirá una píldora de cierre; al hacer clic en esta opción, se contraerán las tarjetas asociadas a la campaña anidada) !!!!!!!!!!!! - VOLVER A ESCRIBIR O QUITAR - LOPA CONFIRMARÁ
+* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional.
 
 * Si una campaña incluye un paso de flujo de solicitud o ejecución de campaña con opciones, al hacer clic en la tarjeta de flujo se muestra una tarjeta de opciones, así como un panel deslizable con más información sobre las opciones. Al hacer clic en cada tarjeta de opción, se muestran detalles de la campaña a la que se llama, así como un panel deslizable con más información.
 

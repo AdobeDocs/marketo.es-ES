@@ -4,16 +4,16 @@ title: Pestaña Configuración
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
 
 # Pestaña Configuración {#settings-tab}
 
-La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programación. AL VISITAR ESTA PESTAÑA NO SE INTERRUMPIRÁ??? CONSIDERE LA POSIBILIDAD DE SOLTAR O REFORMULAR - LOPA LO CONFIRMARÁ - No interrumpirá ninguna configuración de campaña existente.
+La pestaña Configuración es el hogar de todas las configuraciones de campaña, incluidos los mismos conjuntos de permisos y acceso que la pestaña Programar en Campañas inteligentes.
 
 Incluye las tres secciones siguientes.
 
@@ -58,9 +58,13 @@ La pestaña Configuración también incluye una breve descripción general de la
 
 Conjuntos de permisos y errores en la pestaña Configuración:
 
-Todos los conjuntos de permisos existentes se aplicarán en la pestaña Configuración. Si el botón Editar está deshabilitado, significa que no tiene permisos para realizar ediciones y que debería ponerse en contacto con el administrador de Marketo.
+Todos los conjuntos de permisos existentes se aplicarán en la pestaña Configuración. Si el botón Editar está deshabilitado, haga clic en el icono de ayuda para averiguar el motivo.
 
-AÑADIR DESCRIPCIÓN SOBRE LA CANCELACIÓN DE EJECUCIONES PROGRAMADAS: CONFIRMAR CON LOPA DESPUÉS DEL APAGADO —> Si un usuario no tiene acceso para editar la configuración de la campaña, tampoco tendrá acceso para cancelar ninguna ejecución programada.
+>[!NOTE]
+>
+>Si después de hacer clic en el icono de ayuda ve &quot;Se requiere permiso adicional&quot;, póngase en contacto con su administrador de Marketo.
+
+REDUNDANTE COMO SE HA EXPLICADO ANTERIORMENTE, ¿PODEMOS ELIMINAR —> Si un usuario no tiene acceso para editar la configuración de la campaña, tampoco tendrá acceso para cancelar ninguna ejecución programada.
 
 ![](assets/settings-tab-5.png)
 
