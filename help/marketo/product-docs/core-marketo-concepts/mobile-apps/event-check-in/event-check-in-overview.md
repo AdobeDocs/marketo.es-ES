@@ -3,14 +3,18 @@ description: Información general de registro de eventos
 title: Información general de registro de eventos
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Información general de registro de eventos {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>Esta aplicación no es compatible con [Adobe Autenticación de identidad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} en este momento.
 
 La aplicación Marketo Events para iPad o tabletas Android facilita la entrada de personas inmediatamente cuando llegan al evento.
 
@@ -24,9 +28,9 @@ Algunas actividades se realizan antes del evento, como crear una función nueva 
 
 Antes del evento:
 
-* [Crear una nueva función de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para usuarios de iPad o Android para el evento
-* [Invitar a los nuevos usuarios de tableta al evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) y asígneles la nueva función
-* [Creación de un nuevo programa de eventos de Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [Crear una nueva función de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} para usuarios de iPad o Android para el evento
+* [Invitar a los nuevos usuarios de Tablet PC al evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} y asígneles la nueva función
+* [Creación de un nuevo programa de eventos de Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Especificar las fechas del evento
 * Añadir personas al evento
 
@@ -45,5 +49,5 @@ En el evento:
 
 * Inicio de sesión en la aplicación
 * Buscar invitados (y crear nuevas personas)
-* [Facturación de invitados](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (protección inversa, editar registros de persona al registrarse)
+* [Facturación de invitados](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (protección inversa, editar registros de persona al registrarse)
 * Sincronizar la aplicación para tableta de iPad o Android con Marketo

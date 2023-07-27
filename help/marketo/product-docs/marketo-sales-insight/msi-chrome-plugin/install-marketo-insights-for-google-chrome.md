@@ -4,26 +4,26 @@ description: Instalación de Marketo Insights para Google Chrome, documentos de 
 title: Instalar Marketo Insights para Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 # Instalar Marketo Insights para Google Chrome {#install-marketo-insights-for-google-chrome}
 
-Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
+Siga estos pasos para empezar a utilizar el potente complemento de Chrome. No es necesario ser administrador de Marketo para instalar la extensión.
 
 >[!NOTE]
 >
 >Las funciones de acciones de perspectiva de ventas, como Enviar correo electrónico de ventas, Agregar a la campaña de ventas y Tareas, no están disponibles en los complementos de correo electrónico de perspectiva de ventas para Gmail y Outlook. En este momento, los usuarios solo tienen la capacidad de enviar un correo electrónico rastreable con o sin una plantilla de correo electrónico de Marketo desde su cliente de correo electrónico al utilizar los complementos de correo electrónico de Sales Insight.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->No es necesario ser administrador de Marketo para instalar la extensión.
+>Esta extensión no es compatible con [Adobe Autenticación de identidad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} en este momento.
 
-1. Instale el [Marketo Insights para la extensión de Google Chrome Add](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) de la Chrome Web Store.
+1. Instale el [Marketo Insights para la extensión de Google Chrome Add](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} de la Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -41,7 +41,7 @@ Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
 
    >[!NOTE]
    >
-   >El código de registro aparecerá en el correo electrónico enviado después de que un administrador de Marketo [le emite una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Caduca a los 14 días**.
+   >El código de registro aparecerá en el correo electrónico enviado después de que un administrador de Marketo [le emite una licencia de complemento de correo electrónico de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Caduca a los 14 días**.
 
 1. Clic **Permitir** para permitir el acceso sin conexión.
 
@@ -49,4 +49,4 @@ Siga estos pasos para empezar a utilizar el potente complemento de Chrome.
 
 >[!MORELIKETHIS]
 >
->[Uso de Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Uso de Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}

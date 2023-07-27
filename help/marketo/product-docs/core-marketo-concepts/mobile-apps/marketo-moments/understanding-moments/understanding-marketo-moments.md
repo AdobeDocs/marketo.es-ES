@@ -4,9 +4,9 @@ description: 'Explicación de los momentos de Marketo: documentos de Marketo, do
 title: Explicación de los momentos Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 0%
 
 ¡El poder de Marketo está ahora en sus manos, literalmente! Previsualiza y reprograma correos electrónicos directamente desde tu teléfono o iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >Se requiere permiso de acceso a aplicaciones móviles. Póngase en contacto con su administrador de Marketo para [actualizar su función](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Esta aplicación no es compatible con [Adobe Autenticación de identidad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} en este momento.
 
 ## Secuencias {#streams}
 
