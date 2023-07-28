@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
 workflow-type: tm+mt
-source-wordcount: '8996'
+source-wordcount: '9001'
 ht-degree: 3%
 
 ---
@@ -273,7 +273,7 @@ ht-degree: 3%
          + Acciones de flujo {#flow-actions}
             + [Adición de un paso de flujo a una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [Reordenación de los pasos de flujo en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
-            + [Agregar a Lista](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
+            + [Agregar a la lista](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Anexar datos a un campo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Llamar a un Webhook](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
             + [Cambiar valor de datos](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
@@ -289,7 +289,7 @@ ht-degree: 3%
             + [Otorgar crédito al remitente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Momento interesante](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Quitar de Flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
-            + [Quitar de Lista](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
+            + [Quitar de lista](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [Reordenar &quot;Agregar opción&quot; en un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
             + [Solicitar campaña](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Enviar alerta](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
@@ -485,7 +485,7 @@ ht-degree: 3%
          + [Explicación de carpetas](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Explicación de notificaciones](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Tipos de notificación](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Mapa de participación {#engagement-map}
+      + Mapa de interacción {#engagement-map}
          + [Información general del mapa de participación](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
          + [Pestaña Mapa de participación](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
          + [Pestaña Configuración](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
@@ -621,20 +621,20 @@ ht-degree: 3%
          + [Añadir Customer Match de Google como servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar una lista a una red de publicidad](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + Chat dinámico {#dynamic-chat}
-         + [Información general de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+      + Dynamic Chat {#dynamic-chat}
+         + [Resumen del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Configuración inicial](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Agregar o quitar usuarios de chat](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Notificaciones del navegador](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuración](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Comportamiento del bot de chat](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Actividades de Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Actividades del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Programación de citas {#appointment-scheduling}
             + [Calendario](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Reuniones](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Enrutando](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integraciones {#integrations}
-            + [Conexión de Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Conectar el Dynamic Chat a Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [Uso de la tarjeta de documento](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Diálogos {#dialogues}
             + [Resumen del diálogo](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
@@ -892,7 +892,7 @@ ht-degree: 3%
                + [Plantilla 20D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md)
                + [Plantilla 20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
          + Personalización de páginas de aterrizaje {#personalizing-landing-pages}
-            + [Añadir un fragmento a una página de aterrizaje](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+            + [Añadir un fragmento de código a una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Añadir CNAME de página de aterrizaje adicional](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Añadir SSL a las páginas de aterrizaje](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
             + [Añadir texto y tokens a una página de aterrizaje](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
@@ -958,6 +958,8 @@ ht-degree: 3%
          + [Direcciones IP compartidas y dedicadas](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Explicación de cancelación de suscripción](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Utilice sus direcciones IP dedicadas para enviar correos electrónicos](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
+         + Rastreador de bandeja de entrada {#inbox-tracker}
+            + [Tutorials de seguimiento de bandeja de entrada](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Nutrición por goteo {#drip-nurturing}
          + Creación de un programa de participación {#creating-an-engagement-program}
             + [Agregar una secuencia](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
