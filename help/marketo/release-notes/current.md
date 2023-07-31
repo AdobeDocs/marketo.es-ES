@@ -3,7 +3,7 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 8%
@@ -24,7 +24,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 </br>
 
-* **Mapa de participación**: el mapa de participación es una herramienta visual que le permite crear y organizar campañas reutilizables. Es totalmente compatible con versiones anteriores, por lo que todas las campañas existentes se pueden ver en esta nueva estructura con solo hacer clic en un botón. Los lienzos se pueden descargar y compartir.
+* **Mapa de participación**: el mapa de participación es una herramienta visual que le permite crear y organizar campañas reutilizables. Es totalmente compatible con versiones anteriores, por lo que todas las campañas existentes se pueden ver en esta nueva estructura con solo hacer clic en un botón. Los mapas se pueden descargar y compartir.
 
 <table> 
   <tr> 

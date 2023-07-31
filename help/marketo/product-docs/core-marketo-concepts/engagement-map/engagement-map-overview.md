@@ -4,9 +4,9 @@ title: Información general del mapa de participación
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 El mapa de participación le permite crear campañas inteligentes reutilizables con la ayuda de imágenes intuitivas. Ofrece compatibilidad total con versiones anteriores de todas las campañas inteligentes de Marketo Engage existentes, sin la pérdida de ninguna función actual.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-map-overview-1.png)
 
 ## Acceso al mapa de participación {#accessing-engagement-map}
 
 Vaya a cualquier campaña existente y haga clic en **Mapa de participación** botón.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-map-overview-2.png)
 
 Una vez en el mapa de participación, verá dos pestañas: [Mapa de participación](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-CAPTURA DE PANTALLA
+![](assets/engagement-map-overview-3.png)
 
 ## Descripciones de tarjeta {#card-descriptions}
 
@@ -51,11 +51,7 @@ CAPTURA DE PANTALLA
 
 ## Navegación superior {#top-navigation}
 
-CAPTURA DE PANTALLA
-
 La navegación superior incluye las siguientes funciones:
-
-!!!!! LA CAPTURA DE PANTALLA ESTÁ OBSOLETA: COGE UNA NUEVA
 
 * Nombre de la campaña y acceso al modal &quot;Editar campaña&quot;. Puede editar el nombre y la descripción de la campaña aquí.
 

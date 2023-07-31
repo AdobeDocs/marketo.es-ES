@@ -3,7 +3,7 @@ description: 'Explicación de la suscripción de Marketo y la migración de usua
 title: Explicación de la suscripción de Marketo y la migración de usuarios a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 830b8d3fa4ca49834523eb4d5119a9bb9161e04d
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Los administradores de productos de Marketo:
 
 Como administrador de productos de Marketo, se le recomienda asegurarse de que todos los usuarios estén preparados para el día de la migración.
 
-* Compruebe el estado de verificación de correo electrónico de todos los usuarios en el área de Administración de Marketo. Anime a los usuarios que no hayan verificado su dirección de correo electrónico a que lo hagan y ayude a los usuarios a resolver cualquier desafío al completar el proceso de verificación
+* Compruebe el estado de verificación de correo electrónico de todos los usuarios en el área de Administración de Marketo. Anime a los usuarios que no hayan verificado su dirección de correo electrónico a que lo hagan y ayude a los usuarios a resolver cualquier desafío al completar el proceso de verificación.
 
 * Prepare a todos los usuarios para la próxima migración a la identidad de Adobe.
 

@@ -4,9 +4,9 @@ title: Pestaña Configuración
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ Todos los conjuntos de permisos existentes se aplicarán en la pestaña Configur
 >[!NOTE]
 >
 >Si después de hacer clic en el icono de ayuda ve &quot;Se requiere permiso adicional&quot;, póngase en contacto con su administrador de Marketo.
-
-REDUNDANTE COMO SE HA EXPLICADO ANTERIORMENTE, ¿PODEMOS ELIMINAR —> Si un usuario no tiene acceso para editar la configuración de la campaña, tampoco tendrá acceso para cancelar ninguna ejecución programada.
 
 ![](assets/settings-tab-5.png)
 

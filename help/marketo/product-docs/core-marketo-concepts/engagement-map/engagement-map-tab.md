@@ -4,9 +4,9 @@ title: Pestaña Mapa de participación
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ A continuación se muestra un ejemplo de error en un déclencheur que se muestra
 * Error en restricciones (o falta de ellas) en uno o más filtros
 
   ![](assets/engagement-map-tab-20.png)
-
-Si no se introducen valores (atributos), no se producirá un error. Seguirá funcionando como en la pestaña Flujo. Por lo tanto, las campañas existentes no se verán afectadas. Sin embargo, cuando los pasos de flujo no incluyen ningún atributo, estos se mostrarán como advertencias.
-
-^^^REALMENTE LO NECESITAMOS? ¿EL CLIENTE NO VERÁ ADVERTENCIAS???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >
