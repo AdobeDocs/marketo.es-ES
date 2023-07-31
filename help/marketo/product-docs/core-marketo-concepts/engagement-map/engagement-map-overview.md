@@ -4,7 +4,7 @@ title: Información general del mapa de participación
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Información general del mapa de participación {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->Actualmente, esta función está disponible para campañas inteligentes. No está disponible para Programas.
-
 El mapa de participación le permite crear campañas inteligentes reutilizables con la ayuda de imágenes intuitivas. Ofrece compatibilidad total con versiones anteriores de todas las campañas inteligentes de Marketo Engage existentes, sin la pérdida de ninguna función actual.
+
+>[!NOTE]
+>
+>El Mapa de participación está disponible actualmente en Campañas inteligentes. No está disponible en Programas.
 
 ![](assets/engagement-map-overview-1.png)
 
