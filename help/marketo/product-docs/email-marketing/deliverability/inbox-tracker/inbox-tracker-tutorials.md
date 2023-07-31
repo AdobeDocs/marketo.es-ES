@@ -1,23 +1,21 @@
 ---
 description: Tutorials de seguimiento de bandeja de entrada - Documentos de Marketo - Documentación del producto
 title: Tutorials de seguimiento de bandeja de entrada
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Tutorials de seguimiento de bandeja de entrada {#inbox-tracker-tutorials.md}
 
-Inbox Tracker, de MessageBird, es una potente herramienta de terceros...
+Pruebe, supervise y comprenda los problemas de envío con el Powerpack de envío de correo electrónico de Marketo, con tecnología de la plataforma de seguimiento de la bandeja de entrada de MessageBird. Inbox Tracker es una aplicación única que combina la inteligencia de su programa y la previsión de la renderización del correo electrónico / prueba de la bandeja de entrada para maximizar el rendimiento de sus correos electrónicos.
 
-MessageBird ha creado varios vídeos de formación para ayudarle a navegar por la plataforma.
+![](assets/inbox-tracker-tutorials-1.png)
 
-CAPTURA DE PANTALLA
+MessageBird ha creado varios vídeos de formación para ayudarle a sacar el máximo partido a esta potente herramienta.
 
 ## Resumen del rastreador de bandeja de entrada {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ CAPTURA DE PANTALLA
 [Intelliseed (Configurar y descargar)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Sección de entrega del rastreador de bandeja de entrada {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [Información general del panel](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ CAPTURA DE PANTALLA
 [Herramientas de postmaster de Google](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Rastreador de diseño {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [Rastreador de diseño](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
