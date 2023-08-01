@@ -1,12 +1,10 @@
 ---
 description: Información general del mapa de participación - Documentos de Marketo - Documentación del producto
 title: Información general del mapa de participación
-hide: true
-hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -35,7 +33,7 @@ Una vez en el mapa de participación, verá dos pestañas: [Mapa de participaci�
 
 **Déclencheur**: En las campañas que incluyen déclencheur, el mapa tendrá una tarjeta Información general de Déclencheur. Al hacer clic en esta opción, se muestra una tarjeta para cada déclencheur, así como un panel deslizable con información adicional.
 
-**Filtros**: En las campañas que incluyen filtros, el mapa contiene una tarjeta para cada uno. Al hacer clic en ellos, se muestra un panel deslizable con información adicional.
+**Filtros**: en las campañas que incluyen filtros, el mapa contiene una tarjeta Información general de filtro. Al hacer clic en él, se muestra un panel deslizable con información adicional sobre cada filtro.
 
 **Pasos de flujo**: Cada campaña incluirá una tarjeta para cada paso del flujo. Al hacer clic en ellos, se muestra un panel deslizable con información adicional.
 
@@ -45,7 +43,7 @@ Una vez en el mapa de participación, verá dos pestañas: [Mapa de participaci�
 
 * Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña, al hacer clic en la tarjeta de flujo se muestran detalles de la campaña a la que se llama, así como un panel deslizable con información adicional.
 
-* Si una campaña incluye un paso de flujo de solicitud o ejecución de campaña con opciones, al hacer clic en la tarjeta de flujo se muestra una tarjeta de opciones, así como un panel deslizable con más información sobre las opciones. Al hacer clic en cada tarjeta de opción, se muestran detalles de la campaña a la que se llama, así como un panel deslizable con más información.
+* Si una campaña incluye un paso de flujo de Solicitud o Ejecución de campaña con opciones, al hacer clic en la tarjeta de flujo se mostrará una tarjeta para cada opción, así como un panel deslizable con más información sobre las opciones. Al hacer clic en cada tarjeta de opción, se muestran detalles de la campaña a la que se llama, así como un panel deslizable con más información.
 
 * Además, si alguna de las campañas anidadas tiene un paso de flujo Solicitar o Ejecutar campaña, al hacer clic en la tarjeta de flujo se muestran los detalles de la campaña. Lo mismo se aplica cuando el paso de flujo incluye opciones.
 
@@ -59,9 +57,9 @@ La navegación superior incluye las siguientes funciones:
 
 * Botón Activar/Desactivar para campañas de Déclencheur
 
-* Editar lista inteligente: se le dirigirá a la interfaz de la lista inteligente en una nueva pestaña donde podrá agregar o editar su lista inteligente
+* Editar lista inteligente: se le dirigirá a la interfaz de la lista inteligente en una nueva pestaña en la que podrá añadir o editar los pasos de flujo
 
-* Editar flujo: se le dirigirá a la interfaz de flujo en una nueva pestaña donde podrá agregar o editar su lista inteligente
+* Editar flujo: se le dirigirá a la interfaz de flujo en una nueva pestaña donde puede agregar o editar su lista inteligente
 
 * Exportar: esto descargará una imagen de la visualización de la campaña. La versión descargada reflejará cualquier rama que haya expandido
 
@@ -69,7 +67,7 @@ La navegación superior incluye las siguientes funciones:
 
 >[!NOTE]
 >
->Los cambios realizados en una lista inteligente y en una pestaña de flujo abiertas se reflejarán en la pestaña Mapa de participación tras la actualización. No se actualizará automáticamente. Las actualizaciones y ediciones guardadas automáticamente se reflejarán.
+>Los cambios realizados en una lista inteligente y en una pestaña de flujo abiertas se reflejarán en la pestaña Mapa de participación tras la actualización. No se actualizará automáticamente. Las actualizaciones y ediciones guardadas automáticamente se reflejarán al actualizar la pestaña Mapa de participación.
 
 ## Preguntas frecuentes {#faq}
 

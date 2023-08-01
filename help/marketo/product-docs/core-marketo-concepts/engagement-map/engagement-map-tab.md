@@ -1,12 +1,10 @@
 ---
 description: 'Pestaña Mapa de participación: Documentos de Marketo: documentación del producto'
 title: Pestaña Mapa de participación
-hide: true
-hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '902'
 ht-degree: 0%
 
 ---
@@ -19,7 +17,7 @@ Información general sobre el déclencheur: Esta tarjeta muestra la cantidad de 
 
 * Campaña a la que pertenece el déclencheur
 * Lista de nombres de déclencheur
-* Botón &quot;Editar Déclencheur&quot;
+* Editar Déclencheur
 
   ![](assets/engagement-map-tab-1.png)
 
@@ -27,68 +25,56 @@ Detalles del déclencheur: esta tarjeta muestra el nombre del déclencheur. Al h
 
 * Campaña a la que pertenece el déclencheur
 * Lista de restricciones asociadas al déclencheur
-* Botón &quot;Editar Déclencheur&quot;
-
-  ![](assets/engagement-map-tab-2.png)
+* Editar Déclencheur
 
 Filtro: al hacer clic en esta tarjeta, se muestra un panel deslizable con la siguiente información:
 
-* Campaña a la que pertenece el déclencheur
+* Campaña a la que pertenece el filtro
 * Número estimado de personas que cumplen los requisitos para el filtro
 * Lista de filtros y sus restricciones respectivas
-* Botón &quot;Editar filtro&quot;
+* Editar filtro
 
   ![](assets/engagement-map-tab-3.png)
 
-Pasos del flujo: si un paso de flujo incluye opciones, esta tarjeta mostrará el nombre del paso del flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
+Pasos de flujo: si un paso de flujo incluye opciones, esta tarjeta mostrará el nombre del paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
 
-* Campaña a la que pertenece el paso Flujo
+* Campaña a la que pertenece el paso de flujo
 * Lista de condiciones de elección asociadas al paso de flujo
-* Botón &quot;Editar flujo&quot;
-
-  ![](assets/engagement-map-tab-4.png)
+* Editar paso de flujo
 
 Pasos de flujo: Si un paso de flujo sí lo hace _no_ Si incluye cualquier opción, esta tarjeta mostrará los atributos asociados al paso de flujo. Al hacer clic en él, se muestra un panel deslizable con la siguiente información:
 
-* Campaña a la que pertenece el paso Flujo
+* Campaña a la que pertenece el paso de flujo
 * Lista de atributos asociados al paso de flujo
-* Botón &quot;Editar flujo&quot;
+* Editar paso de flujo
 
   ![](assets/engagement-map-tab-5.png)
 
 ## Paso de flujo para ejecutar y solicitar campañas {#flow-step-for-execute-and-request-campaigns}
 
-* Si el paso de flujo Ejecutar o Solicitar campaña no incluye ninguna opción, la tarjeta mostrará el nombre de la campaña. Al hacer clic en la tarjeta, se muestra un panel deslizable con la siguiente información:
+* Si el paso Ejecutar o Solicitar flujo de campaña no incluye ninguna opción, la tarjeta mostrará el nombre de la campaña. Al hacer clic en la tarjeta, se muestra un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece el paso de flujo
-   * Botón &quot;Editar flujo&quot;
+   * Editar paso de flujo
    * Lista de atributos asociados al paso de flujo
    * Botón &quot;Ver lista&quot;, que abre una lista de campañas que utilizan la solicitud o ejecución de campaña específica
 
 >[!NOTE]
 >
->Puede editar los pasos del flujo desde una campaña principal. Para editar campañas anidadas, debe navegar a la campaña a través del vínculo en el panel deslizable.
+>Puede editar los pasos de flujo desde una campaña principal. Para editar campañas anidadas, debe navegar a la campaña a través del vínculo en el panel deslizable.
 
-![](assets/engagement-map-tab-6.png)
-
-![](assets/engagement-map-tab-7.png)
-
-* Si el paso de flujo Ejecutar o Solicitar campaña incluye opciones, la tarjeta mostrará el nombre de la campaña. Al hacer clic en la tarjeta, se muestra un panel deslizable con la siguiente información:
+* Si el paso Ejecutar o Solicitar flujo de campaña incluye opciones, al hacer clic en la tarjeta se muestra un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece el paso de flujo
    * Lista de condiciones de elección asociadas al paso de flujo
-   * Botón &quot;Editar flujo&quot;
+   * Editar paso de flujo
 
-  ![](assets/engagement-map-tab-8.png)
-
-  ![](assets/engagement-map-tab-9.png)
-
-* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Al hacer clic en la tarjeta de opción, se expandirá la campaña asociada a la opción específica, así como se mostrará un panel deslizable con la siguiente información:
+* Si una campaña de ejecución o solicitud incluye opciones, al hacer clic en la tarjeta de flujo se expandirá para mostrar todas las opciones en tarjetas individuales. Haciendo clic en _elección_ expandirá la campaña asociada a la opción específica, así como mostrará un panel deslizable con la siguiente información:
 
    * Campaña a la que pertenece la opción
-   * Botón &quot;Editar opción&quot;
+   * Editar elección
    * Lista de condiciones de elección asociadas al paso de flujo
-   * Botón &quot;Ver lista&quot;, que abre una lista de campañas que utilizan la solicitud o ejecución de campaña específica
+   * Ver lista, que abre una lista de campañas que utilizan la solicitud o ejecución de campaña específica
 
   ![](assets/engagement-map-tab-10.png)
 
@@ -96,24 +82,24 @@ Pasos de flujo: Si un paso de flujo sí lo hace _no_ Si incluye cualquier opció
 
 Ejecute campañas ejecutadas en serie con la campaña principal. Las personas que cumplen los requisitos para una campaña ejecutable completan todos los pasos de flujo de la campaña y vuelven a la campaña principal para continuar con los pasos de flujo de esta campaña.
 
-A continuación se muestra un ejemplo de campaña inteligente, &quot;Campaña A&quot;, que incluye un paso de flujo de ejecución de campaña. Piense en la &quot;Campaña A&quot; como su campaña principal.
+A continuación se muestra un ejemplo de una campaña inteligente, &quot;Campaña A&quot;, que incluye un paso de flujo de ejecución de campaña. Piense en la &quot;Campaña A&quot; como su campaña principal.
 
 ![](assets/engagement-map-tab-11.png)
 
 1. Al hacer clic en la tarjeta Ejecutar flujo de campaña, se expandirá para mostrar los detalles de la &quot;Campaña B&quot;.
 1. La &quot;Campaña B&quot; incluye un filtro que divide la audiencia en dos grupos: cualificada y no cualificada.
 1. La audiencia cualificada pasa por los pasos de flujo asociados a la &quot;Campaña B&quot;.
-1. Toda la audiencia (cualificada y no cualificada) vuelve a la &quot;Campaña A&quot; y pasa al siguiente paso del flujo.
+1. Toda la audiencia (cualificada y no cualificada) vuelve a la &quot;Campaña A&quot; y pasa al siguiente paso de flujo.
 
    ![](assets/engagement-map-tab-12.png)
 
-Puede hacer clic en el paso Ejecutar flujo de campaña en &quot;Campaña B&quot;, que se expandirá para mostrar las tarjetas de opción y la campaña asociada con cada opción.
+Puede hacer clic en el paso Ejecutar flujo de campaña en la &quot;Campaña B&quot;, que se expandirá para mostrar las tarjetas de opción y la campaña asociada con cada opción.
 
 ![](assets/engagement-map-tab-13.png)
 
 ## Visualización de campañas de solicitudes {#visualizing-request-campaign}
 
-Solicitar campañas ejecutadas en paralelo con la campaña principal. Las personas que cumplen los requisitos para una campaña de solicitud completan todos los pasos de flujo de la campaña y luego abandonan la campaña. Al mismo tiempo, el mismo conjunto de personas sigue los pasos de flujo de la campaña principal.
+Solicitar campañas ejecutadas en paralelo con la campaña principal. Las personas que cumplen los requisitos para una campaña de solicitud completan todos los pasos de flujo de la campaña y luego abandonan la campaña. Al mismo tiempo, el mismo conjunto de personas pasa por los pasos de flujo desde la campaña principal.
 
 Este es un ejemplo de campaña inteligente, &quot;Campaña A&quot;, que incluye un paso de flujo de campaña de solicitud. Piense en la &quot;Campaña A&quot; como su campaña principal.
 
@@ -126,7 +112,7 @@ Este es un ejemplo de campaña inteligente, &quot;Campaña A&quot;, que incluye 
 
    ![](assets/engagement-map-tab-15.png)
 
-Puede profundizar en sus campañas anidadas si alguno de los pasos del flujo incluye otra campaña de solicitud haciendo clic en la tarjeta de flujo para ver los detalles de la campaña.
+Puede profundizar en sus campañas anidadas si alguno de los pasos de flujo incluye otra campaña de solicitud haciendo clic en la tarjeta de flujo para ver los detalles de la campaña.
 
 ![](assets/engagement-map-tab-16.png)
 
@@ -136,13 +122,9 @@ Este es un ejemplo de una campaña de solicitudes con opciones.
 
 ## Control de errores {#error-handling}
 
-Los errores en las listas inteligentes y en los pasos de flujo se resaltarán mediante un icono de error en la tarjeta. Además, se mostrará el mensaje de error correspondiente en el panel deslizable.
+Los errores en las listas inteligentes y los pasos de flujo se resaltarán mediante un icono de error en la tarjeta. Además, se mostrará el mensaje de error correspondiente en el panel deslizable.
 
 A continuación se muestra un ejemplo de error en un déclencheur que se muestra en la tarjeta Información general de déclencheur, el panel deslizable y la tarjeta déclencheur de detalles.
-
-![](assets/engagement-map-tab-18.png)
-
-![](assets/engagement-map-tab-19.png)
 
 **Los errores en las tarjetas de filtro pueden incluir:**
 
