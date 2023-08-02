@@ -4,9 +4,9 @@ description: 'Prácticas recomendadas para listas inteligentes: Documentos de Ma
 title: Prácticas recomendadas para listas inteligentes
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Para que sean fáciles de usar y optimizar el rendimiento, hemos creado una list
 
 >[!TIP]
 >
->Marketo se puede utilizar de muchas maneras y ciertas técnicas son mejores para usted y su empresa. Considerar [Marketo professional services](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} para que su inversión brille.
+>Marketo Engage puede ser utilizado de muchas maneras y ciertas técnicas son mejores para usted y su negocio. Póngase en contacto con su representante de ventas de Adobe Professional Services si desea obtener ayuda para sacar el máximo partido a su inversión.

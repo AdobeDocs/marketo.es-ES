@@ -2,9 +2,9 @@
 description: Información general del mapa de participación - Documentos de Marketo - Documentación del producto
 title: Información general del mapa de participación
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,9 @@ La navegación superior incluye las siguientes funciones:
 
 * Botón Activar/Desactivar para campañas de Déclencheur
 
-* Editar lista inteligente: se le dirigirá a la interfaz de la lista inteligente en una nueva pestaña en la que podrá añadir o editar los pasos de flujo
+* Editar lista inteligente: se le dirigirá a la interfaz de la lista inteligente en una nueva pestaña en la que puede añadir o editar sus filtros o déclencheur
 
-* Editar flujo: se le dirigirá a la interfaz de flujo en una nueva pestaña donde puede agregar o editar su lista inteligente
+* Editar flujo: se le dirigirá a la interfaz de flujo en una nueva pestaña en la que podrá añadir o editar los pasos de flujo
 
 * Exportar: esto descargará una imagen de la visualización de la campaña. La versión descargada reflejará cualquier rama que haya expandido
 

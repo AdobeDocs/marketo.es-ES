@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
 source-wordcount: '667'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -32,8 +32,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md">Información general del mapa de participación</a></td>
   </tr>
   </tbody>
 </table>
