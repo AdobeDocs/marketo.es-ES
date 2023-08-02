@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 8%
 
 ---
@@ -223,8 +223,10 @@ La auditoría de una instancia heredada puede parecer una
    <th>Columna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>¿A qué CRM se está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
+<li>¿Es la sincronización personalizada o bidireccional? (KG: corregir la gramática y comprobar la importancia)</li>
+<li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados? Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ La auditoría de una instancia heredada puede parecer una
   </tr>
   <tr> 
    <td>Perspectiva de ventas de Marketo (si corresponde)</td> 
-   <td><li>¿Se ha instalado el paquete MSI?</li>
-<li>¿Ha actualizado a la versión más reciente de Sales Insight?</li>
+   <td><li>Tiene el <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Se ha instalado el paquete MSI</a>?</li>
+<li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">actualizado a la última versión de Sales Insight</a>?</li>
 <li>¿Ha completado la configuración de Sales Insight?</li>
-<li>¿Ha dado acceso a sus usuarios en función del número de puestos que ha adquirido?</li></td>
+<li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acceso dado a los usuarios</a> ¿en función del número de puestos que has comprado?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
