@@ -3,18 +3,20 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 8%
+source-wordcount: '1140'
+ht-degree: 5%
 
 ---
 
 # Heredar documento 1 {#inherit-doc-1}
 
-La auditoría de una instancia heredada puede parecer una
+La auditoría de una instancia heredada puede parecer un...
 
-¿Heredó una instancia de Marketo Engage existente de otro administrador? Si es así, este artículo es para usted.
+¿Heredó una instancia de Marketo Engage existente de otro administrador? Si es así, este artículo es para usted...
+
+La lista de comprobación siguiente se ha combinado con los datos de Marketo Champions para ayudarle a ponerse al día rápidamente en su instancia heredada...
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ La auditoría de una instancia heredada puede parecer una
 <li>¿Cuántos usuarios tienen permisos de administrador?</li>
 <li>¿Alguno de estos usuarios debe cambiarse a otras funciones?</li> 
 <li>¿Quiénes son los usuarios de API en esta instancia?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Funciones</td> 
@@ -47,19 +49,19 @@ La auditoría de una instancia heredada puede parecer una
 <li>¿Con qué frecuencia inician sesión los usuarios?</li>
 <li>¿Cada usuario de API tiene su propia función de usuario? Si no es así, considere implementar esto para facilitar la resolución de problemas.</li> 
 <li>¿Sus funciones de usuario y permisos se alinean con las políticas de privacidad de datos corporativas?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Documentación interna</td> 
    <td><li>¿Los usuarios y las funciones están claramente definidos en su organización?</li>
 <li>¿Cuál es su proceso para agregar un nuevo usuario/administrador?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Zona protegida (si corresponde)</td> 
    <td><li>¿Tiene una instancia de zona protegida? Si es así, revise las categorías anteriores para su zona protegida.</li>
 <li>¿La importación de programas está vinculada a su zona protegida?</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ La auditoría de una instancia heredada puede parecer una
   <tr> 
    <td>Pista de auditoría</td> 
    <td><li>¿Quién está trabajando en la instancia?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -225,23 +227,34 @@ La auditoría de una instancia heredada puede parecer una
   <tr> 
    <td>CRM</td> 
    <td><li>¿A qué CRM se está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
-<li>¿Es la sincronización personalizada o bidireccional? (KG: corregir la gramática y comprobar la importancia)</li>
+<li>¿Es la sincronización personalizada o bidireccional? (KG: CORREGIR LA GRAMÁTICA Y COMPROBAR LA IMPORTANCIA)</li>
 <li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados? Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Páginas de destino</td> 
+   <td><li>¿Cuál es el dominio establecido como?</li>
+<li>¿Cómo se establece la reserva?</li>
+<li>¿Cómo se establece la página principal?</li>
+<li>¿Está habilitado el rellenado previo del formulario?</li>
+<li>¿Las direcciones URL personalizadas están habilitadas?</li>
+<li>¿Hay reglas configuradas para las redirecciones?</li>
+<li>¿Tiene alias de dominio establecidos? ¿Está realizando un seguimiento a través de la documentación de cómo utiliza los alias de dominio?</li>
+<li>¿Están activados los dominios seguros para las páginas de aterrizaje? Confirme si los recursos de la página de aterrizaje contienen una dirección URL "http".</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>¿Su código de seguimiento de Munchkin está en su sitio web (no en Marketo)?</li>
+<li>¿Está habilitada una solicitud de explorador "No rastrear"?</li>
+<li>¿Está configurada la API de Munchkin? Si le falta documentación sobre dónde está el código Munchkin en su sitio web, comience con una vista rápida utilizando el "Informe de análisis web" en "Analytics" básico para comprender dónde se coloca el código Munchkin en su sitio web.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Servicios web</td> 
+   <td><li>¿Están habilitadas las restricciones de IP? ¿Deberían estarlo?</li>
+<li>¿Qué usuarios/aplicaciones realizan llamadas de API en su instancia?</li>
+<li>¿Está alcanzando o cerca de alcanzar su límite de API? Si es así, considere la posibilidad de aumentarla o auditar su instancia para desactivar esas llamadas de API.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ La auditoría de una instancia heredada puede parecer una
    <th>Columna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Cofre del tesoro</td> 
+   <td><li>¿Qué hay en el cofre del tesoro?</li>
+<li>¿Hay funciones que se deben activar o desactivar?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Inspector de campaña</td> 
+   <td><li>¿Está activado el Inspector de campaña?</li>
+<li>Si no es así, puede activarla para identificar fácilmente qué campañas están activas, sincronizarlas con su CRM o eliminar registros.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ La auditoría de una instancia heredada puede parecer una
    <th>Columna 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Actualizaciones de estado del Marketo Engage</td> 
+   <td><li>¿Su instancia está suscrita a las actualizaciones de estado del Marketo Engage?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Contactos autorizados</td> 
+   <td><li>¿Ha configurado los contactos autorizados adecuados en el Portal de asistencia?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Alertas</td> 
+   <td><li>¿Hay alguna alerta activa que se esté enviando a equipos internos desde Marketo Engage?</li>
+<li>En caso afirmativo, ¿funcionan correctamente esas alertas?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Notificaciones</td> 
+   <td><li>¿Está suscrito a las notificaciones de administración correspondientes?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
