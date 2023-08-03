@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1149'
 ht-degree: 5%
 
 ---
@@ -261,7 +261,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
    <td>Perspectiva de ventas de Marketo (si corresponde)</td> 
    <td><li>Tiene el <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Se ha instalado el paquete MSI</a>?</li>
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">actualizado a la última versión de Sales Insight</a>?</li>
-<li>¿Ha completado la configuración de Sales Insight?</li>
+<li>¿Ha completado la configuración de Sales Insight? Usuarios empresariales/ilimitados <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">haga clic aquí</a>, Usuarios profesionales <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">haga clic aquí</a>.</li>
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acceso dado a los usuarios</a> ¿en función del número de puestos que has comprado?</li></td>
    <td>3</td>
   </tr>
