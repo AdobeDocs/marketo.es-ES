@@ -4,10 +4,10 @@ description: 'Tokens de déclencheur para momentos interesantes: documentos de M
 title: Tokens de déclencheur para momentos interesantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 25%
+source-wordcount: '480'
+ht-degree: 23%
 
 ---
 
@@ -29,7 +29,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
 * `{{trigger.Name}}` es el nombre del recurso que activó la campaña. Por ejemplo: Clicks Link on Webpage es la propia URL, el asunto de Salesforce déclencheur, etc.
 * Hay disponibles déclencheur adicionales basados en restricciones, que se enumeran a continuación.
 
-**Déclencheur de correo electrónico**
+### Déclencheur de correo electrónico {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -205,7 +205,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
  </tbody> 
 </table>
 
-**Salesforce Déclencheur**
+### Salesforce Déclencheur {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -534,7 +534,7 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
  </tbody> 
 </table>
 
-**Déclencheur de conexión de ventas**
+### Déclencheur de conexión de ventas {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -711,7 +711,113 @@ En función del déclencheur utilizado en una campaña inteligente, hay disponib
  </tbody> 
 </table>
 
-**Varios**
+### Tokens de Déclencheur de Dynamic Chat {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Interacción con un diálogo</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Reunión programada en un cuadro de diálogo</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Objetivo de diálogo alcanzado</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interactuó con el documento en el diálogo</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Varios {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
