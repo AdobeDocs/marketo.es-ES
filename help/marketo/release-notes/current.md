@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: e07204bc9a0edbd99f4059c6e859f33c75c1f02a
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '666'
 ht-degree: 6%
 
 ---
@@ -170,8 +170,8 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Tokens de Déclencheur de Dynamic Chat</a></td>
   </tr>
   </tbody>
 </table>
