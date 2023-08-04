@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
 
 ## Usuarios y funciones {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Área</th> 
@@ -33,22 +33,22 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr> 
   <tr> 
    <td>Usuarios</td> 
-   <td><li>¿Cuántos usuarios hay?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Cuántos usuarios</a> ¿hay?</li>
 <li>¿Hay algún usuario que debería haber caducado?</li>
 <li>¿Su compañía tiene directivas para eliminar usuarios?</li> 
-<li>¿Cuántos usuarios tienen permisos de administrador?</li>
-<li>¿Alguno de estos usuarios debe cambiarse a otras funciones?</li> 
+<li>Cuántos usuarios tienen <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Permisos de administración</a>?</li>
+<li>Si alguno de estos usuarios se cambia a <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">¿otros roles?</a></li> 
 <li>¿Quiénes son los usuarios de API en esta instancia?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Funciones</td> 
    <td><li>¿Cuántos roles hay?</li>  
-<li>¿Qué permisos/acceso tiene cada función? ¿Se debe realizar algún ajuste?</li>
+<li>Qué <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">permisos/acceso</a> ¿tiene cada función? ¿Se debe realizar algún ajuste?</li>
 <li>¿Cuántos usuarios hay por función?</li>
-<li>¿Con qué frecuencia inician sesión los usuarios?</li>
-<li>¿Cada usuario de API tiene su propia función de usuario? Si no es así, considere implementar esto para facilitar la resolución de problemas.</li> 
-<li>¿Sus funciones de usuario y permisos se alinean con las políticas de privacidad de datos corporativas?</li></td>
+<li>La frecuencia con la que los usuarios <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">iniciar sesión</a>?</li>
+<li>¿Cada usuario de API tiene su <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">función de usuario propio</a>? Si no es así, considere implementar esto para facilitar la resolución de problemas.</li> 
+<li>¿Las funciones de usuario y los permisos se alinean con los datos corporativos? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">políticas de privacidad</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr>
   <tr> 
    <td>Zona protegida (si corresponde)</td> 
-   <td><li>¿Tiene una instancia de zona protegida? Si es así, revise las categorías anteriores para su zona protegida.</li>
-<li>¿La importación de programas está vinculada a su zona protegida?</li></td>
+   <td><li>¿Tiene un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instancia de zona protegida</a>? Si es así, revise las categorías anteriores para su zona protegida.</li>
+<li>Es <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importación de programas</a> ¿está vinculado con su zona protegida?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr> 
   <tr> 
    <td>Pista de auditoría</td> 
-   <td><li>¿Quién está trabajando en la instancia?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Quién está trabajando</a> en la instancia?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">actualizado a la última versión de Sales Insight</a>?</li>
 <li>¿Ha completado la configuración de Sales Insight? Usuarios empresariales/ilimitados <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">haga clic aquí</a>, Usuarios profesionales <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">haga clic aquí</a>.</li>
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acceso dado a los usuarios</a> ¿en función del número de puestos que has comprado?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Punto de inicio (si corresponde)</td> 
+   <td><li>¿Qué servicios tiene configurados (seminario web, publicidad, etc.)? ¿Están a punto de expirar?</li>
+<li>¿Cuántas llamadas de API utilizan sus integraciones de?</li>
+<li>¿Tiene las integraciones adecuadas para sus casos de uso?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks (si procede)</td> 
+   <td><li>¿Qué conexiones ha configurado?</li>
+<li>¿Ya no se utiliza alguno?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Aplicaciones móviles (si corresponde)</td> 
+   <td><li>¿Qué aplicaciones móviles tiene?</li>
+<li>¿Qué dispositivos de prueba se han agregado?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
