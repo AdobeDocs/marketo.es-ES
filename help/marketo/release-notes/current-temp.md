@@ -4,9 +4,9 @@ title: Notas de la versión actual temporales
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 11%
 
 ---
@@ -313,7 +313,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Tokens de déclencheur para nuevas actividades**: nuevos tokens de déclencheur para admitir las nuevas actividades de Dynamic Chat.
+* **Tokens de déclencheur para nuevas actividades**: Hay nuevos tokens de déclencheur disponibles para admitir las nuevas actividades de Dynamic Chat.
 
 <table> 
   <tr> 

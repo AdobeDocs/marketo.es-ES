@@ -4,9 +4,9 @@ description: 'Agregar campos de vínculo de objeto personalizado de Marketo: doc
 title: Agregar campos de vínculo de objeto personalizado de Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Al crear objetos personalizados, debe proporcionar campos de vínculo para conec
 
 * Para una estructura personalizada de uno a varios, utilice el campo de vínculo del objeto personalizado para conectarlo a una persona o compañía.
 * Para una estructura de varios a varios, se utilizan dos campos de vínculo, conectados desde un objeto intermedio creado por separado (que también es un tipo de objeto personalizado). Un vínculo se conecta a personas o empresas de la base de datos y el otro al objeto personalizado. En este caso, el campo de vínculo no se encuentra en el propio objeto personalizado.
+
+>[!IMPORTANT]
+>
+>El Marketo Engage solo admite un objeto edge único para cada objeto bridge en la relación Varios a varios. En el ejemplo que se muestra a continuación, cada inscripción solo puede vincularse a un único curso. Sin embargo, puede haber muchos objetos puente para cada objeto edge, al igual que hay muchas inscripciones de alumnos en cada curso (relación Varios a uno). Si los datos de los objetos personalizados están estructurados de forma que haya más de un registro de objeto Edge para cada registro de objeto Bridge (Uno a varios o Varios a varios), puede crear varios registros de objeto Bridge, cada uno de los cuales hace referencia a un único registro de objeto Edge para representar esos datos en Marketo.
 
 ## Creación de un campo de vínculo para una estructura &quot;uno a varios&quot; {#create-a-link-field-for-a-one-to-many-structure}
 
