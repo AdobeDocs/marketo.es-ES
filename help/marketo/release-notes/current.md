@@ -3,7 +3,7 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 12%
@@ -26,7 +26,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 * **Biblioteca de referencia de Marketo**: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de &quot;ejemplo&quot; y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -40,7 +40,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 * **Utilizado por la columna Recuento para los recursos de Design Studio**: la columna Utilizado por recuento para vistas de lista en Design Studio resalta el recuento/número de recursos que utilizan el recurso en cuestión. Esto es aplicable a fragmentos de código, plantillas de correo electrónico, Forms y plantillas de página de aterrizaje.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -54,7 +54,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 * **Mejoras en las pestañas utilizadas por los recursos de Design Studio**: la pestaña Utilizado por la mejora proporciona una vista más detallada del tipo y el nombre de un recurso, junto con dónde se está utilizando. Esto es aplicable a los detalles de correo electrónico y a los detalles de imágenes y archivos.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -68,7 +68,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 * **Servicio de paso de flujo de fórmula de cómputo**: Compute Formula es un servicio de pasos de flujo creado en la plataforma de tiempo de ejecución de E/S de Adobe para su uso con campañas inteligentes de Marketo Engage. Los clientes de Adobe con tiempo de ejecución de E/S pueden implementar el servicio e instalarlo en sus suscripciones de Marketo Engage, lo que les permite calcular fórmulas similares a Excel en campañas inteligentes de Marketo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -86,7 +86,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Integración de Marketo + Workfront**: Para aquellos que tienen Marketo y Workfront, ahora puede utilizar Workfront Fusion Templates para integrar los dos productos y desbloquear nuevos flujos de trabajo de automatización para optimizar la ejecución de campañas.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -104,7 +104,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Tarjeta de acción en el Diseñador de secuencias**: los especialistas en marketing pueden utilizar tarjetas de acción en el flujo de diálogo para pasar valores ocultos al registro de persona del Marketo Engage cuando los visitantes participan en un diálogo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -118,7 +118,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Página de recursos de flujo de conversación**: la página de recursos de Design Studio ahora enumera los flujos de conversación del Dynamic Chat. Consulte qué flujos se pueden integrar en recursos de Marketo Engage y enlácelos directamente a su editor.
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -132,7 +132,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Forms de conversación con Marketo Engage Forms**: haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de conversación de Dynamic Chat. Califique instantáneamente clientes potenciales mediante los datos de formulario o la suscripción a listas inteligentes para reuniones, reservas de reuniones, vínculos a documentos técnicos o objetivos personalizados.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -146,7 +146,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **SDK de conversaciones**: convierta cualquier formulario, página de aterrizaje o casi cualquier página web en experiencias de reserva de reuniones atractivas.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -160,7 +160,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Configuración de reserva de reunión personalizada**: los agentes pueden establecer configuraciones personalizadas de reserva de reuniones, como disponibilidad, duración de las reuniones y &quot;tiempo de búfer&quot; entre reuniones.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -174,7 +174,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Configuración de reserva**: los administradores pueden establecer una configuración de reserva personalizada para definir lo que los visitantes ven cuando los agentes no están disponibles para chatear.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -188,7 +188,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Tablero de rendimiento global**: compruebe el rendimiento de los cuadros de diálogo, incluidas las métricas de participación y rendimiento (total y a lo largo de un tiempo), las páginas de mayor rendimiento y los cuadros de diálogo de mayor rendimiento.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -202,7 +202,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Chat en vivo**: Los visitantes web pueden chatear con los agentes de ventas en tiempo real para obtener respuestas a sus preguntas.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -216,7 +216,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Tablero de rendimiento de chat en directo**: vea cuántas conversaciones tuvieron sus agentes de ventas en vivo y qué equipos tienen el mejor rendimiento.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -230,7 +230,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Segmentación de listas inteligentes de Marketo Engage**: los especialistas en marketing pueden dirigirse a los miembros de las listas inteligentes de Marketo Engage mediante criterios de audiencia de diálogo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -244,7 +244,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Tablero de rendimiento de reunión**: Ver cuántas reuniones se están reservando y con quién se están reservando.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -258,7 +258,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Nuevas actividades de Dynamic Chat**: nuevas actividades para admitir flujos de conversación, chat en directo y otras nuevas funciones.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -272,7 +272,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Notificaciones de Live Chat en tiempo real**: Cuando los visitantes solicitan chatear en directo, los agentes reciben notificaciones en tiempo real desde la aplicación y el navegador.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -286,7 +286,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Notificaciones de acciones de perspectiva de ventas**: los agentes con acciones de información de ventas recibirán notificaciones de solicitudes de chat en tiempo real en el panel Acciones de información de ventas.
 
-<table>
+<table width="400">
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -300,7 +300,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Equipos**: Cree equipos de agentes a los que se pueda dirigir a los visitantes para realizar reservas de reuniones o charlas en directo.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -314,7 +314,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 * **Tokens de déclencheur para nuevas actividades**: Hay nuevos tokens de déclencheur disponibles para admitir las nuevas actividades de Dynamic Chat.
 
-<table> 
+<table width="400"> 
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
