@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
 workflow-type: tm+mt
-source-wordcount: '9008'
+source-wordcount: '9012'
 ht-degree: 3%
 
 ---
@@ -180,6 +180,7 @@ ht-degree: 3%
          + [Agregar o quitar un administrador de productos](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Agregar o quitar un usuario](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Preguntas frecuentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
+         + [Migración a la identidad de Adobe](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [Inicio de sesión de usuario con Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Explicación de la suscripción de Marketo y la migración de usuarios a Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Configuración {#settings}
