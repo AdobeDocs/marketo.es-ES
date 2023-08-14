@@ -3,10 +3,10 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 15%
+source-wordcount: '383'
+ht-degree: 9%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 15%
   </tr> 
   <tr> 
    <td>Todas las personas</td> 
-   <td><li>¿Cuántas personas existen en la base de datos?</li>
+   <td><li>¿Cuántas personas existen en la <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Si la base de datos está casi llena, ¿recomienda la directiva de su empresa que amplíe el tamaño de la base de datos o que limpie los datos históricos?</li>
-<li>¿Su base de datos general es al menos un 85% comercializable? Si el suyo está por debajo de este umbral, observe las otras listas inteligentes del sistema (Lista de bloqueados, Marketing suspendido, Duplicados, Cancelar suscripción) con el bueno escrutinio.</li></td>
+<li>¿Su base de datos general es al menos un 85% comercializable? Si el suyo está por debajo de este umbral, observe las otras listas inteligentes del sistema (Lista de bloqueados, Marketing suspendido, Duplicados, Cancelación de suscripción) con mayor escrutinio.</li></td>
   </tr>
   <tr> 
    <td>Personas que cancelaron su suscripción</td> 
-   <td><li>¿Cuáles son sus criterios para las personas sin suscripción? ¿Hay demasiadas personas sin suscribirse?</li>
+   <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">personas sin suscribir</a>? ¿Hay demasiadas personas sin suscribirse?</li>
 <li>¿Sus métodos de cancelación de suscripción se ajustan a los requisitos de privacidad de datos?</li>
 <li>¿Está actualizada su preferencia de cancelación de suscripción? ¿Cuánto tiempo han permanecido los registros en su base de datos como no comercializables?</li></td>
   </tr>
@@ -72,16 +72,10 @@ ht-degree: 15%
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Listas inteligentes de grupos</td> 
+   <td><li>¿Qué listas inteligentes de grupo hay? ¿Cómo se utilizan en esta instancia?</li>
+<li>¿Las listas están organizadas en una estructura de carpetas coherente? Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
+<p>Sugerencia: Archive listas inteligentes de grupos que ya no sean necesarias para consultar, crear informes o hacer referencia a fin de ayudar a la organización y al rendimiento.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ ht-degree: 15%
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Listas de grupos</td> 
+   <td><li>¿Qué listas de grupos hay?</li>
+<li>¿Cómo se utilizan en esta instancia?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ ht-degree: 15%
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Segmentación</td> 
+   <td><li>Que <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaciones</a> ¿hay? ¿Cómo se utilizan?</li>
+<li>¿Hay demasiada gente? <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos predeterminados</a>?</li>
+<li>¿Hay una segmentación para la audiencia comercializable? Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
  </tbody> 
 </table>
