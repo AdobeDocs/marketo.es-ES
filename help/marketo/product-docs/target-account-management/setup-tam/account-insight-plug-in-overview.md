@@ -4,9 +4,9 @@ description: 'Información general del complemento de Account Insight: documento
 title: Información general del complemento de Account Insight
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Account Insight es un complemento de Chrome que muestra información de cuentas 
 
 >[!AVAILABILITY]
 >
->La perspectiva de cuenta se incluye para todos los clientes que tienen una perspectiva de ventas de TAM y Marketo. Para los clientes que solo tienen TAM, Account Insight está disponible como complemento comprado. Cada cliente tiene un límite de 250 puestos de Account Insight. Póngase en contacto con su representante de ventas para obtener más información. No está disponible para los clientes que no tienen TAM.
+>* La perspectiva de cuenta se incluye para todos los clientes que tienen una perspectiva de ventas de TAM y Marketo. Para los clientes que solo tienen TAM, Account Insight está disponible como complemento comprado. Cada cliente tiene un límite de 250 puestos de Account Insight. Póngase en contacto con su representante de ventas para obtener más información. No está disponible para los clientes que no tienen TAM.
+>
+>* Este complemento no es compatible con [Adobe Autenticación de identidad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} en este momento.
 
 >[!CAUTION]
 >

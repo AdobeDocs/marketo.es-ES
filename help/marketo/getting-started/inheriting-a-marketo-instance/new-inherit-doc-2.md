@@ -3,9 +3,9 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 9%
 
 ---
@@ -40,13 +40,13 @@ ht-degree: 9%
   </tr>
   <tr> 
    <td>Marketing suspendido</td> 
-   <td><li>¿Cuáles son sus criterios de Marketing suspendido? ¿Hay demasiadas personas que están suspendidas de marketing?</li>
+   <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendido</a>? ¿Hay demasiadas personas que están suspendidas de marketing?</li>
 <li>¿Cuánto tiempo han permanecido los registros en el estado suspendido de marketing?</li>
 <p>Ejemplo de caso de uso suspendido de marketing: Registros que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
   </tr>
    <tr> 
    <td>Lista de bloqueados</td> 
-   <td><li>¿Cuáles son sus criterios de Lista de bloqueados? ¿Hay demasiada gente incluida en la lista de bloqueados?</li></td>
+   <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">registros de inclusión en la lista de bloqueados</a>? ¿Hay demasiada gente incluida en la lista de bloqueados?</li></td>
   </tr>
   <tr> 
    <td>Direcciones de emails rechazadas</td> 
@@ -54,11 +54,11 @@ ht-degree: 9%
   </tr>
   <tr> 
    <td>Duplicados posibles</td> 
-   <td><li>¿Cuántos registros potencialmente duplicados hay? Considere la posibilidad de eliminarlos o combinarlos.</li></td>
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">registros potencialmente duplicados</a> ¿hay? Considere la posibilidad de eliminarlos o combinarlos.</li></td>
   </tr>
    <tr> 
    <td>Sin programa de adquisición</td> 
-   <td><li>¿Cuántas personas no tienen un programa de adquisición? Si hay mucho, considere investigar el por qué.</li></td>
+   <td><li>¿Cuántas personas no tienen un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de adquisición</a>? Si hay mucho, considere investigar el por qué.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ ht-degree: 9%
    <td>Listas inteligentes de grupos</td> 
    <td><li>¿Qué listas inteligentes de grupo hay? ¿Cómo se utilizan en esta instancia?</li>
 <li>¿Las listas están organizadas en una estructura de carpetas coherente? Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
-<p>Sugerencia: Archive listas inteligentes de grupos que ya no sean necesarias para consultar, crear informes o hacer referencia a fin de ayudar a la organización y al rendimiento.</td>
+<p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivar</a> agrupar listas inteligentes que ya no son necesarias para consultar, crear informes o hacer referencia a fin de ayudar con la organización y el rendimiento.</td>
   </tr>
  </tbody> 
 </table>
