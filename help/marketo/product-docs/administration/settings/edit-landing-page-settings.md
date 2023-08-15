@@ -4,10 +4,10 @@ description: 'Editar configuración de página de aterrizaje: documentos de Mark
 title: Editar configuración de página de aterrizaje
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 0%
+source-wordcount: '231'
+ht-degree: 1%
 
 ---
 
@@ -45,10 +45,6 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Si desea evitar que un sitio malintencionado aparentemente aloje su contenido, consulte la **[!UICONTROL No permitir que las páginas de Marketo se incrusten en páginas web externas]** casilla de verificación
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >Si desea el relleno previo `<script>` etiqueta para que aparezca al final del `<head>` en el código, marque la **[!UICONTROL Inyectar script de relleno previo al final del encabezado]** cuadro. Deje sin marcar si desea que aparezca al principio.
@@ -57,6 +53,6 @@ Puede editar su nombre de dominio y página de reserva, habilitar o deshabilitar
 
 1. Después de realizar las selecciones, haga clic en **[!UICONTROL Guardar]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
-   ¡bueno trabajo! Las páginas de aterrizaje ahora tienen la información correcta y deben empezar a funcionar de inmediato.
+   ¡Buen trabajo! Las páginas de aterrizaje ahora tienen la información correcta y deben empezar a funcionar de inmediato.
