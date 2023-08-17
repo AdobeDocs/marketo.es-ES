@@ -4,10 +4,10 @@ description: Explicación de las campañas inteligentes por lotes y Déclencheur
 title: Explicación de las campañas inteligentes por lotes y Déclencheur
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Existen dos tipos de campañas inteligentes: por lotes y por Déclencheur.
 
-## Campaña inteligente por lotes {#batch-smart-campaign}
+## Campaña por lote {#batch-campaign}
 
 >[!NOTE]
 >
 >**Definición**
 >
->Una campaña por lotes se inicia a una hora específica y afecta a un conjunto específico de personas a la vez. Un ejemplo sería enviar un correo electrónico a todas las personas en California.
+>Una campaña por lotes se inicia a una hora específica y afecta a un conjunto específico de personas de una vez. Un ejemplo sería enviar un correo electrónico a todas las personas en California.
 
-Las campañas inteligentes por lotes solo tendrán filtros dentro de la sección de la lista inteligente (es decir, sin déclencheur).
+Las campañas por lotes solo tendrán filtros dentro de la sección de la lista inteligente (es decir, sin déclencheur).
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
@@ -38,27 +38,27 @@ Haciendo clic en **Programación** Esta pestaña confirmará que la campaña int
 
 <br> 
 
-## Déclencheur Smart Campaign {#trigger-smart-campaign}
+## Campaña activadora {#trigger-campaign}
 
 >[!NOTE]
 >
 >**Definición**
 >
->Una campaña inteligente de déclencheur afecta a una persona a la vez en función de un evento activado. Un ejemplo de déclencheur sería hacer clic en un vínculo de un correo electrónico.
+>Una campaña de Déclencheur afecta a una persona a la vez en función de un evento activado. Un ejemplo de déclencheur sería hacer clic en un vínculo de un correo electrónico.
 
 Si una campaña inteligente utiliza al menos un déclencheur dentro de la sección de la lista inteligente, el modo se establecerá automáticamente como activado.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Haciendo clic en **Programación** Esta pestaña confirmará que la campaña inteligente está configurada en &quot;Activada&quot;.
+Haciendo clic en **Programación** Esta pestaña confirma que la campaña inteligente está configurada en &quot;Activada&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Déclencheur de campañas inteligentes**
+**Campañas desencadenadoras**
 
 * No se pueden programar para repeticiones. Solo se pueden establecer como activos o inactivos.
 * Puede configurar más de un déclencheur. Sin embargo, si se activa algún déclencheur, las acciones de campaña se ejecutarán.
 
 >[!TIP]
 >
->Utilice el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) para ver paso a paso qué ha sucedido con sus campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.
+>Utilice el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) para ver paso a paso qué ha sucedido en sus campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.
