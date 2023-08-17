@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 3%
@@ -243,7 +243,7 @@ ht-degree: 3%
       + [Configurar asignación de organización de Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizar una audiencia de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importación de recursos con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Información general sobre la interfaz Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Información general sobre la interfaz de Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Conceptos principales de Marketo {#core-marketo-concepts}
       + Campañas inteligentes {#smart-campaigns}
          + [Explicación de las campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -403,7 +403,7 @@ ht-degree: 3%
             + [Uso de Costes de Período en un Programa](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Biblioteca de programas {#program-library}
             + [Resumen de biblioteca de importación de programas](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Ejemplo del programa de administración de contenido](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Ejemplo del programa de administración de consentimiento](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Informe de rendimiento del programa {#program-performance-report}
             + [Crear un informe de rendimiento del programa](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Agregar columnas de estado de programa a un informe de programa](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -895,7 +895,7 @@ ht-degree: 3%
                + [Plantilla 20D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md)
                + [Plantilla 20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
          + Personalización de páginas de aterrizaje {#personalizing-landing-pages}
-            + [Añadir un fragmento de código a una página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+            + [Añadir un fragmento a una página de aterrizaje](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Añadir CNAME de página de aterrizaje adicional](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Añadir SSL a las páginas de aterrizaje](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
             + [Añadir texto y tokens a una página de aterrizaje](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
