@@ -3,7 +3,7 @@ description: Heredar documento 4 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 4%
@@ -64,7 +64,8 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td>Privacidad y cumplimiento</td> 
-   <td><li>¿Su estrategia de formulario se ajusta a los requisitos de privacidad de datos corporativos y de inclusión? Considerar <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, CASL (Ley antispam de Canadá), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc. para el cumplimiento de la normativa.</li>
+   <td><li>¿Su estrategia de formulario se ajusta a los requisitos de privacidad de datos corporativos y de inclusión? 
+   <br/>Considerar <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, CASL (Ley antispam de Canadá), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc., para el cumplimiento de la regulación.</li>
 <p>Sugerencia: Recuerde consultar siempre a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>Fragmentos</td> 
-   <td><li>¿Cuántos <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragmentos</a> ¿hay? ¿Se están utilizando? Si no es así, considere la posibilidad de utilizarlos para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> y <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">página de aterrizaje</a> contenido de pie de página, logotipos y mucho más.</li></td>
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragmentos</a> ¿hay? ¿Se están utilizando? 
+   <br/>Si no es así, considere la posibilidad de utilizarlos para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> y <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Página de aterrizaje</a> contenido de pie de página, logotipos y mucho más.</li></td>
   </tr>
  </tbody> 
 </table>

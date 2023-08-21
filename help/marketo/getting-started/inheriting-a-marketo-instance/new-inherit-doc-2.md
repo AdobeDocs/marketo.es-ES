@@ -3,7 +3,7 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 9%
@@ -30,7 +30,8 @@ ht-degree: 9%
    <td>Todas las personas</td> 
    <td><li>¿Cuántas personas existen en la <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Si la base de datos está casi llena, ¿recomienda la directiva de su empresa que amplíe el tamaño de la base de datos o que limpie los datos históricos?</li>
-<li>¿Su base de datos general es al menos un 85% comercializable? Si el suyo está por debajo de este umbral, observe las otras listas inteligentes del sistema (Lista de bloqueados, Marketing suspendido, Duplicados, Cancelación de suscripción) con mayor escrutinio.</li></td>
+<li>¿Su base de datos general es al menos un 85% comercializable? 
+<br/>Si el suyo está por debajo de este umbral, observe las otras listas inteligentes del sistema (Lista de bloqueados, Marketing suspendido, Duplicados, Cancelación de suscripción) con mayor escrutinio.</li></td>
   </tr>
   <tr> 
    <td>Personas que cancelaron su suscripción</td> 
@@ -41,8 +42,8 @@ ht-degree: 9%
   <tr> 
    <td>Marketing suspendido</td> 
    <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendido</a>? ¿Hay demasiadas personas que están suspendidas de marketing?</li>
-<li>¿Cuánto tiempo han permanecido los registros en el estado suspendido de marketing?</li>
-<p>Ejemplo de caso de uso suspendido de marketing: Registros que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
+<li>¿Durante cuánto tiempo han permanecido los registros en el estado Suspendido de marketing?</li>
+<p>Ejemplo de caso de uso de marketing suspendido: Registros que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
   </tr>
    <tr> 
    <td>Lista de bloqueados</td> 
@@ -54,11 +55,13 @@ ht-degree: 9%
   </tr>
   <tr> 
    <td>Duplicados posibles</td> 
-   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">registros potencialmente duplicados</a> ¿hay? Considere la posibilidad de eliminarlos o combinarlos.</li></td>
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">registros potencialmente duplicados</a> ¿hay?
+   <br/>Considere la posibilidad de eliminarlos o combinarlos.</li></td>
   </tr>
    <tr> 
    <td>Sin programa de adquisición</td> 
-   <td><li>¿Cuántas personas no tienen un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de adquisición</a>? Si hay mucho, considere investigar el por qué.</li></td>
+   <td><li>¿Cuántas personas no tienen un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de adquisición</a>?
+   <br/>Si hay mucho, considere investigar el por qué.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -73,9 +76,9 @@ ht-degree: 9%
   </tr> 
   <tr> 
    <td>Listas inteligentes de grupos</td> 
-   <td><li>¿Qué listas inteligentes de grupo hay? ¿Cómo se utilizan en esta instancia?</li>
-<li>¿Las listas están organizadas en una estructura de carpetas coherente? Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
-<p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivar</a> agrupar listas inteligentes que ya no son necesarias para consultar, crear informes o hacer referencia a fin de ayudar con la organización y el rendimiento.</td>
+   <td><li>¿Qué grupo de listas inteligentes hay? ¿Cómo se utilizan en esta instancia?</li>
+<li>¿Las listas están organizadas en una estructura de carpetas coherente? <br/>Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
+<p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivar</a> Las listas inteligentes de grupo ya no son necesarias para consultar, crear informes o hacer referencia a fin de ayudar a la organización y al rendimiento.</td>
   </tr>
  </tbody> 
 </table>
@@ -108,7 +111,8 @@ ht-degree: 9%
    <td>Segmentación</td> 
    <td><li>Que <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaciones</a> ¿hay? ¿Cómo se utilizan?</li>
 <li>¿Hay demasiada gente? <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos predeterminados</a>?</li>
-<li>¿Hay una segmentación para la audiencia comercializable? Si no es así, considere la posibilidad de crear uno.</li></td>
+<li>¿Hay una segmentación para la audiencia comercializable? 
+<br/>Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
  </tbody> 
 </table>
