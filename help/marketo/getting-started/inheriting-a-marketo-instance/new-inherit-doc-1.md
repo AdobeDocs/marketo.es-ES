@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1223'
 ht-degree: 2%
 
 ---
@@ -55,7 +55,8 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr>
   <tr> 
    <td>Zona protegida (si corresponde)</td> 
-   <td><li>¿Tiene un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instancia de zona protegida</a>? Si es así, revise las categorías anteriores para su zona protegida.</li>
+   <td><li>¿Tiene un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instancia de zona protegida</a>? 
+   <br/>Si es así, revise las categorías anteriores para su zona protegida.</li>
 <li>Es <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importación de programas</a> ¿está vinculado con su zona protegida?</li></td>
   </tr>
  </tbody> 
@@ -110,8 +111,8 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr> 
   <tr> 
    <td>Configuración de campañas inteligentes</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">¿Tiene una restricción?</a> ¿Cuál es el tamaño de campaña inteligente?</li>
-<li>Si no es así, considere la posibilidad de agregar uno. Se recomienda limitar los límites de las campañas inteligentes al 25 % de la base de datos para evitar una comunicación excesiva o procesar toda la base de datos en flujos de trabajo, esto no solo protege la marca, sino que ayuda a proteger el rendimiento de la instancia.</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">¿Tiene una restricción?</a> ¿Cuál es el tamaño de campaña inteligente? 
+   <br/>Si no es así, considere la posibilidad de agregar uno. Se recomienda limitar los límites de las campañas inteligentes al 25 % de la base de datos para evitar una comunicación excesiva o procesar toda la base de datos en los flujos de trabajo; esto no solo protege la marca, sino que ayuda a proteger el rendimiento de la instancia. KG - ¿ES PRECISO?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -127,7 +128,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   <tr> 
    <td>Límites de comunicación</td> 
    <td><li>¿Hay? <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">límites de comunicación</a> en su lugar? ¿Su empresa tiene políticas en las que podrían ser necesarios límites de comunicación?</li>
-<li>El Adobe recomienda limitar la comunicación a 1 por día y a 3 por 7 días, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativo</a> correos electrónicos bloqueados.</li></td>
+<p>Nota: El Adobe recomienda limitar la comunicación a 1 por día y a 3 por 7 días, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativo</a> correos electrónicos bloqueados. KG - ¿ES PRECISO?</td>
   </tr>
  </tbody> 
 </table>
@@ -171,19 +172,23 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr> 
   <tr> 
    <td>Administración de campos</td> 
-   <td><li>¿Cuántos campos hay? Clic <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportar nombres de campo</a> para revisar una lista de sus campos, campos personalizados y sus nombres de API.</li>
+   <td><li>¿Cuántos campos hay? 
+   <br/>Clic <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Exportar nombres de campo</a> para revisar una lista de sus campos, campos personalizados y sus nombres de API.</li>
 <li>¿Cuántos <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campos personalizados</a> ¿hay?</li>
-<li>¿Cuántos campos se están utilizando? Seleccionar <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportación utilizada por</a> en la lista desplegable Acciones de campo para revisar los activos relacionados de un campo.</li>
+<li>¿Cuántos campos se están utilizando? 
+<br/>Seleccionar <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportación utilizada por</a> en la lista desplegable Acciones de campo para revisar los activos relacionados de un campo.</li>
 <li>¿Cuántos se sincronizan entre Marketo Engage y su CRM?</li>
 <li>¿Los campos de CRM están sincronizados con los objetos adecuados?</li>
 <li>¿Hay alguna <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">conjunto de vistas personalizadas</a> para obtener detalles de la persona? ¿Debería haber?</li>
-<li>¿Tiene una convención de nombres para los campos basada en el origen? Si no es así, considere implementar esto.</li>
-<li>¿Hay algún campo? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">tapado</a>? Asegúrese de comprender por qué lo son.</li></td>
+<li>¿Tiene una convención de nombres para los campos basada en el origen? 
+<br/>Si no es así, considere implementar esto.</li>
+<li>¿Hay algún campo? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">tapado</a>? 
+<br/>Asegúrese de comprender por qué lo son.</li></td>
   </tr>
   <tr> 
    <td>Actividades personalizadas</td> 
    <td><li>¿Hay alguna? <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">actividades personalizadas</a>?</li>
-<li>Si es así, haga clic en ellas para comprender qué actividades no están relacionadas con un formulario, un correo electrónico o una página de aterrizaje de Marketo.</li></td>
+<br/>Si es así, haga clic en ellas para comprender qué actividades no están relacionadas con un formulario, un correo electrónico o una página de aterrizaje de Marketo.</td>
   </tr>
   <tr> 
    <td> objetos personalizados de </td> 
@@ -205,7 +210,8 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
    <td>CRM</td> 
    <td><li>¿A qué CRM se está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
 <li>¿Es la sincronización personalizada o bidireccional? (KG: CORREGIR LA GRAMÁTICA Y COMPROBAR LA IMPORTANCIA)</li>
-<li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados? Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
+<li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados? 
+<p>Nota: Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
   </tr>
   <tr> 
    <td>Páginas de destino</td> 
@@ -216,25 +222,28 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
 <li>Son <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">direcciones URL personalizadas</a> ¿habilitado?</li>
 <li>¿Hay reglas configuradas para <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirecciones</a>?</li>
 <li>¿Tiene alias de dominio establecidos? ¿Está realizando un seguimiento a través de la documentación de cómo utiliza los alias de dominio?</li>
-<li>Es <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Dominios seguros para páginas de destino</a> ¿habilitado? Confirme si los recursos de la página de aterrizaje contienen una dirección URL "http".</li></td>
+<li>Es <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Dominios seguros para páginas de destino</a> ¿habilitado? 
+<br/>Confirme si los recursos de la página de aterrizaje contienen una dirección URL "http".</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Es su <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Código de seguimiento de Munchkin</a> en su sitio web (no en Marketo)?</li>
 <li>Es un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">No rastrear</a> ¿Solicitud de explorador habilitada?</li>
-<li>Es su <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API de Munchkin</a> ¿configurado? Si le falta documentación sobre dónde está el código Munchkin en su sitio web, comience con una vista rápida utilizando el "Informe de análisis web" en "Analytics" básico para comprender dónde se coloca el código Munchkin en su sitio web.</li></td>
+<li>Es su <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API de Munchkin</a> ¿configurado? 
+<p>Sugerencia: Si falta documentación sobre dónde se encuentra el código Munchkin en el sitio web, comience con una vista rápida utilizando el "Informe de análisis web" en "Analytics" básico para comprender dónde se coloca el código Munchkin en el sitio web. KG - ¿ES UN BUEN CONSEJO?</li></td>
   </tr>
   <tr> 
    <td>Servicios web</td> 
    <td><li>Son <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">Restricciones de IP</a> ¿habilitado? ¿Deberían estarlo?</li>
 <li>¿Qué usuarios/aplicaciones realizan llamadas de API en su instancia?</li>
-<li>¿Está alcanzando o cerca de alcanzar su límite de API? Si es así, considere la posibilidad de aumentarla o auditar su instancia para desactivar esas llamadas de API.</li></td>
+<li>¿Está alcanzando o cerca de alcanzar su límite de API? 
+<br/>Si es así, considere la posibilidad de aumentarla o auditar su instancia para desactivar esas llamadas de API.</li></td>
   </tr>
   <tr> 
    <td>Perspectiva de ventas de Marketo (si corresponde)</td> 
    <td><li>Tiene el <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Se ha instalado el paquete MSI</a>?</li>
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">actualizado a la última versión de Sales Insight</a>?</li>
-<li>¿Ha completado la configuración de Sales Insight? Usuarios empresariales/ilimitados <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">haga clic aquí</a>, Usuarios profesionales <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">haga clic aquí</a>.</li>
+<li>¿Ha completado la configuración de Sales Insight? <br/>Usuarios empresariales/ilimitados <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">haga clic aquí</a>, Usuarios profesionales <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">haga clic aquí</a>.</li>
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acceso dado a los usuarios</a> ¿en función del número de puestos que has comprado?</li></td>
   </tr>
   <tr> 
@@ -272,7 +281,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   <tr> 
    <td>Inspector de campaña</td> 
    <td><li>Es <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Inspector de campaña</a> ¿encendida?</li>
-<li>Si no es así, puede activarla para identificar fácilmente qué campañas están activas, sincronizarlas con su CRM o eliminar registros.</li></td>
+<br/>Si no es así, considere activarla para identificar fácilmente qué campañas están activas, sincronizándose con su CRM o eliminando registros.</td>
   </tr>
  </tbody> 
 </table>
