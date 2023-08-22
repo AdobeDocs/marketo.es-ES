@@ -4,10 +4,10 @@ description: 'Configuración del conocimiento de ventas de Marketo en Salesforce
 title: Configuración de Marketo Sales Insight en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 9%
+source-wordcount: '847'
+ht-degree: 8%
 
 ---
 
@@ -147,10 +147,10 @@ A continuación se indican los pasos que debe seguir para configurar Marketo Sal
       <td>Tipo del último momento interesante</td> 
      </tr> 
      <tr> 
-      <td>Última actividad de Marketo por parte de ventas</td> 
+      <td>Última actividad de por parte de ventas</td> 
      </tr> 
      <tr> 
-      <td>Último compromiso de Marketo por parte de ventas</td> 
+      <td>Último compromiso de por parte de ventas</td> 
      </tr> 
      <tr> 
       <td>ID de contacto MSI</td> 
