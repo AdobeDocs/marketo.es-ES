@@ -3,20 +3,16 @@ description: Heredar documento 4 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 4%
+source-wordcount: '506'
+ht-degree: 3%
 
 ---
 
 # Heredar documento 4 {#inherit-doc-4}
 
-¿Heredó una instancia de Marketo Engage existente de otro administrador? Si es así, este artículo es para usted.
-
->[!TIP]
->
->Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario de Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivos globales ayudará a minimizar los errores de datos y a optimizar el flujo de trabajo de la compilación del programa.
 
 ## Páginas de destino {#landing-pages}
 
@@ -35,6 +31,10 @@ ht-degree: 4%
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Plantillas de página de aterrizaje</a> ¿hay? ¿Se están aprovechando?</li></td>
   </tr>
   <tr> 
+   <td>Grupos de prueba</td> 
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Grupos de prueba de página de aterrizaje</a> ¿lo son? ¿Siguen siendo relevantes?</li></td>
+  </tr>
+   <tr> 
    <td>Privacidad y cumplimiento</td> 
    <td><li>¿Todas las páginas de aterrizaje tienen los pies de página adecuados?</li></td>
   </tr>
@@ -88,6 +88,10 @@ ht-degree: 4%
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">plantillas de correo electrónico</a> ¿hay? ¿Se están aprovechando?</li></td>
   </tr>
   <tr> 
+   <td>Pruebas de correo electrónico</td> 
+   <td><li>¿Cómo usa <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">prueba de correo electrónico</a>? ¿Sigue siendo eficaz su método?</li></td>
+  </tr>
+  <tr> 
    <td>Privacidad y cumplimiento</td> 
    <td><li>¿Todos los correos electrónicos tienen los pies de página adecuados? Considere el RGPD, CASL, CAN-SPAM, CCPA, etc. para implicaciones de cumplimiento.</li>
 <p>Sugerencia: Recuerde consultar siempre a su equipo legal sobre estos problemas de cumplimiento. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
@@ -135,3 +139,30 @@ ht-degree: 4%
   </tr>
  </tbody> 
 </table>
+
+## Todos los recursos {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Área</th> 
+   <th>Revisar enfoque</th>
+  </tr> 
+  <tr> 
+   <td>Estado del recurso</td> 
+   <td><li>Cuántos recursos hay en <i>Borrador</i> y <i>Aprobado con borrador</i> ¿status?
+   <br/>Si hay muchos, considere la posibilidad de eliminarlos o aprobarlos.</li></td>
+  </tr>
+  <tr> 
+   <td>Uso compartido de recursos</td> 
+   <td><li>Qué recursos son <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">compartido entre espacios de trabajo</a>?</li>
+   <p>Nota: Es importante saber esto, ya que las acciones realizadas en un espacio de trabajo podrían provocar que otro usuario no pueda acceder a un recurso en un espacio de trabajo diferente.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄ de una instancia heredada: actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Auditar una instancia heredada: Documentar la ► de configuración de la instancia heredada](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
