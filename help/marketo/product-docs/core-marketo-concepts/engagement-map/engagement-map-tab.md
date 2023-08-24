@@ -2,9 +2,9 @@
 description: 'Pestaña Mapa de participación: Documentos de Marketo: documentación del producto'
 title: Pestaña Mapa de participación
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ Este es un ejemplo de una campaña de solicitudes con opciones.
 
 ## Control de errores {#error-handling}
 
-Los errores en las listas inteligentes y los pasos de flujo se resaltarán mediante un icono de error en la tarjeta. Además, se mostrará el mensaje de error correspondiente en el panel deslizable.
+Los errores en las listas inteligentes y los pasos de flujo se resaltarán mediante un icono rojo en la tarjeta. Además, se mostrará el mensaje de error correspondiente en el panel deslizable.
 
-A continuación se muestra un ejemplo de error en un déclencheur que se muestra en la tarjeta Información general de déclencheur, el panel deslizable y la tarjeta déclencheur de detalles.
+Las advertencias de las listas inteligentes y los pasos de flujo se resaltarán mediante un icono naranja en la tarjeta. Además, se mostrará el mensaje de advertencia correspondiente en el panel deslizable.
+
+A continuación se muestra un ejemplo de una advertencia en una tarjeta de opciones que se muestra en la tarjeta del paso Ejecutar flujo de campaña, el panel deslizable y la tarjeta de opciones predeterminada.
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Las advertencias son recomendaciones que se deben revisar, pero no indican errores en la campaña inteligente.
 
 **Los errores en las tarjetas de filtro pueden incluir:**
 
