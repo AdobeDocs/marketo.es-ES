@@ -3,20 +3,16 @@ description: Heredar documento 3 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 2%
 
 ---
 
 # Heredar documento 3 {#inherit-doc-3}
 
-¿Heredó una instancia de Marketo Engage existente de otro administrador? Si es así, este artículo es para usted.
-
->[!TIP]
->
->Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario de Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Las actividades de marketing son el lugar donde su equipo de marketing puede crear campañas inteligentes, crear recursos creativos (como correos electrónicos y páginas de aterrizaje) y ver el rendimiento de los recursos.
 
 ## Organización {#organization}
 
@@ -45,9 +41,9 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>Archivar</td> 
-   <td><li>Son programas antiguos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archivado</a>? 
-   <br/>La práctica recomendada es revisar cada año. KG: ¿ES VERDAD?</li>
-<li>¿Con qué frecuencia revisa y archiva su empresa los programas antiguos?</li></td>
+   <td><li>Son programas antiguos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archivado</a>?</li>
+<li>¿Con qué frecuencia revisa y archiva su empresa los programas antiguos?</li>
+<p>Sugerencia: Es bueno realizar una revisión cada año.</td>
   </tr>
   <tr> 
    <td>Notificaciones</td> 
@@ -83,8 +79,7 @@ ht-degree: 2%
 <li>¿Cuántos <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">la gente está agotada</a>? 
 <br/>Si hay muchas personas agotadas, considere la posibilidad de añadir contenido.</li>
 <li>¿La gente se involucra con el contenido? 
-<br/>Si no es así, considere la posibilidad de actualizarla o realizar pruebas A/B.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Cuántas personas</a> KG - ¿HAY ALGUNA MANERA DE VER TODOS LOS PROGRAMAS A LA VEZ? NO LO CREAS PERO ASEGÚRATE DE que están en más de un Programa de Participación? ¿Deberían ser múltiples?</li></td>
+<br/>Si no es así, considere la posibilidad de actualizarla o realizar pruebas A/B.</li></td>
   </tr>
   <tr> 
    <td>Campañas por lotes</td> 
@@ -169,3 +164,9 @@ ht-degree: 2%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ una instancia heredada: Base de datos](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Auditar una instancia heredada: ► de Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

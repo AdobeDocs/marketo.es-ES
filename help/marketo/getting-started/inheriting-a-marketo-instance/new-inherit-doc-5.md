@@ -3,16 +3,16 @@ description: Heredar documento 5 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 3%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # Heredar documento 5 {#inherit-doc-5}
 
-Texto
+Ahora que ha aprendido las áreas de producto clave para auditar al heredar una instancia establecida, el siguiente paso es crear/actualizar la documentación en la configuración de la instancia y la pila tecnológica. Tanto si la crea mediante una hoja de cálculo como mediante una aplicación de gestión de proyectos, la documentación es un excelente recurso para realizar un seguimiento del progreso y registrar los detalles.
 
 ## Datos {#data}
 
@@ -51,7 +51,7 @@ Texto
   <tr> 
    <td>Organización</td> 
     <td><li>¿Tiene documentación fiable sobre cómo se organiza la instancia de Marketo Engage y por qué?</li>
-   <p>Elemento de acción: cree documentación que contenga la estructura de carpetas, la convención de nomenclatura y los canales/estados KG - STATUTES? se utiliza en su instancia.</td>
+   <p>Elemento de acción: cree documentación que contenga la estructura de carpetas, la convención de nombres y los canales utilizados en la instancia.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Texto
   </tr>
  </tbody> 
 </table>
+
+[◄ de una instancia heredada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

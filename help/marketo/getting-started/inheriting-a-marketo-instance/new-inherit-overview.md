@@ -3,9 +3,9 @@ description: Aprenda a optimizar y escalar una instancia de Marketo Engage exist
 title: Jumpstart es una instancia heredada de Marketo Engage
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 1%
 
 ---
@@ -55,5 +55,3 @@ También puede descargar las listas de comprobación en forma de hoja de cálcul
 * Conéctese con y aprenda de otros usuarios Marketo Engage en **[Nación de marketing](https://nation.marketo.com/){target="_blank"}**.
 
 * Para obtener ayuda práctica para sacar el máximo partido a la instancia de Marketo Engage, póngase en contacto con **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Para mejorar sus aptitudes de Marketo Engage, consulte la **[Catálogo de cursos de Marketo Engage](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

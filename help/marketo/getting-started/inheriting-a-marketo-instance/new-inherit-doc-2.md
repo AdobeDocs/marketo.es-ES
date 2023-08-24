@@ -3,20 +3,16 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 9%
 
 ---
 
 # Heredar documento 2 {#inherit-doc-2}
 
-¿Heredó una instancia de Marketo Engage existente de otro administrador? Si es así, este artículo es para usted.
-
->[!TIP]
->
->Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario de Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Comprenda la cantidad total de personas, las personas comercializables y las fuentes principales de adquisición de personas en su suscripción.
 
 ## Listas inteligentes del sistema {#system-smart-lists}
 
@@ -116,3 +112,9 @@ ht-degree: 9%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ una instancia heredada: Administración](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Auditoría de una instancia heredada: ► de actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

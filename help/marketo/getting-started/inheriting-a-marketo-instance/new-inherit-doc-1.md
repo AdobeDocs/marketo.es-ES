@@ -3,20 +3,18 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 2%
 
 ---
 
 # Heredar documento 1 {#inherit-doc-1}
 
-La auditoría de una instancia heredada puede parecer un...
+Como nuevo administrador de Adobe Marketo Engage, debe realizar varias tareas para comprobar el estado y la viabilidad de la instancia heredada.
 
-¿Heredó una instancia de Marketo Engage existente de otro administrador? Si es así, este artículo es para usted...
-
-La lista de comprobación siguiente se ha combinado con los datos de Marketo Champions para ayudarle a ponerse al día rápidamente en su instancia heredada...
+Las listas de comprobación siguientes (listas de comprobación subsiguientes vinculadas al final de cada artículo) se han combinado con los datos de Marketo Champions para ayudarle a ponerse al día rápidamente. Documente su progreso en la Lista de comprobación de instancias heredadas de Marketo Engage.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   <tr> 
    <td>Configuración de campañas inteligentes</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">¿Tiene una restricción?</a> ¿Cuál es el tamaño de campaña inteligente? 
-   <br/>Si no es así, considere la posibilidad de agregar uno. Se recomienda limitar los límites de las campañas inteligentes al 25 % de la base de datos para evitar una comunicación excesiva o procesar toda la base de datos en los flujos de trabajo; esto no solo protege la marca, sino que ayuda a proteger el rendimiento de la instancia. KG - ¿ES PRECISO?</li></td>
+   <br/>Si no es así, considere la posibilidad de agregar uno. Se recomienda limitar los límites de Smart Campaign al 25 % de la base de datos para evitar una comunicación excesiva o procesar toda la base de datos en los flujos de trabajo; esto no solo protege la marca, sino que ayuda a proteger el rendimiento de la instancia.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   <tr> 
    <td>Límites de comunicación</td> 
    <td><li>¿Hay? <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">límites de comunicación</a> en su lugar? ¿Su empresa tiene políticas en las que podrían ser necesarios límites de comunicación?</li>
-<p>Nota: El Adobe recomienda limitar la comunicación a 1 por día y a 3 por 7 días, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativo</a> correos electrónicos bloqueados. KG - ¿ES PRECISO?</td>
+<p>Nota: El Adobe recomienda limitar la comunicación a 1 por día y a 3 por 7 días, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativo</a> correos electrónicos bloqueados.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   <tr> 
    <td>CRM</td> 
    <td><li>¿A qué CRM se está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
-<li>¿Es la sincronización personalizada o bidireccional? (KG: CORREGIR LA GRAMÁTICA Y COMPROBAR LA IMPORTANCIA)</li>
+<li>¿Está utilizando una sincronización personalizada?</li>
 <li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados? 
 <p>Nota: Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
   </tr>
@@ -313,3 +311,7 @@ La lista de comprobación siguiente se ha combinado con los datos de Marketo Cha
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Auditoría de una Instancia Heredada: ► de Base de Datos](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

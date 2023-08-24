@@ -3,9 +3,9 @@ description: 'Ejecución De Campaign: Documentos De Marketo: Documentación Del 
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 1%
 
 ---
@@ -103,7 +103,7 @@ Los resultados: la puntuación cambió en +10.
 
 **Ejemplo 2: False**
 
-En el filtro Ejecutar campaña de la segunda campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Falso**.
+En el paso Ejecutar flujo de campaña de la segunda campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Falso**.
 
 ![](assets/execute-campaign-8.png)
 
