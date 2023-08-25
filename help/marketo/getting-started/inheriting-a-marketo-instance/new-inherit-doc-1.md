@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1209'
 ht-degree: 2%
 
 ---
@@ -126,7 +126,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   <tr> 
    <td>Límites de comunicación</td> 
    <td><li>¿Hay? <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">límites de comunicación</a> en su lugar? ¿Su empresa tiene políticas en las que podrían ser necesarios límites de comunicación?</li>
-<p>Nota: El Adobe recomienda limitar la comunicación a 1 por día y a 3 por 7 días, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativo</a> correos electrónicos bloqueados.</td>
+<p>Nota: Se recomienda limitar la comunicación a 1 por día y a 3 por 7 días, con <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operativo</a> correos electrónicos bloqueados.</td>
   </tr>
  </tbody> 
 </table>
@@ -228,7 +228,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <td><li>Es su <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Código de seguimiento de Munchkin</a> en su sitio web (no en Marketo)?</li>
 <li>Es un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">No rastrear</a> ¿Solicitud de explorador habilitada?</li>
 <li>Es su <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API de Munchkin</a> ¿configurado? 
-<p>Sugerencia: Si falta documentación sobre dónde se encuentra el código Munchkin en el sitio web, comience con una vista rápida utilizando el "Informe de análisis web" en "Analytics" básico para comprender dónde se coloca el código Munchkin en el sitio web. KG - ¿ES UN BUEN CONSEJO?</li></td>
+<p>Sugerencia: Si falta documentación sobre dónde se encuentra el código munchkin en el sitio web, puede ver todas las direcciones URL creando un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Informe de actividad de página web</a>.</li></td>
   </tr>
   <tr> 
    <td>Servicios web</td> 

@@ -3,9 +3,9 @@ description: Heredar documento 3 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 2%
 
 ---
@@ -96,7 +96,7 @@ Las actividades de marketing son el lugar donde su equipo de marketing puede cre
    <td>Forms local</td> 
    <td><li>¿Cuántos programas tienen local? <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formularios</a>? ¿Deberían convertirse estos formularios en formularios globales?</li>
 <li>¿Están capturando los datos adecuados para sus equipos de marketing y ventas?</li>
-<p>Sugerencia: Limite el número de formularios locales para facilitar la actualización y la alineación con los cambios con las políticas de privacidad de datos y de inclusión/exclusión. Tenga en cuenta al crear un formulario, ¿qué preguntas deben hacerse? Si la información recopilada no cambia y la funcionalidad avanzada del formulario no cambia, considere un formulario global en lugar de un formulario local. KG: VERIFICAR ESTO</td>
+<p>Sugerencia: Limite el número de formularios locales para facilitar la actualización y la alineación con los cambios con las políticas de privacidad de datos y de inclusión/exclusión. Al crear un formulario, ¿qué preguntas se deben hacer? Si la información recopilada no cambia y la funcionalidad avanzada del formulario no cambia, considere un formulario global en lugar de un formulario local.</td>
   </tr>
   <tr> 
    <td>Forms global</td> 
@@ -131,11 +131,11 @@ Las actividades de marketing son el lugar donde su equipo de marketing puede cre
   </tr>
   <tr> 
    <td>Estandarización de datos</td> 
-   <td><li>¿Tiene un programa centralizado para estandarizar los datos entrantes? KG: COMPRUEBE ESTO</li></td>
+   <td><li>¿Tiene un programa centralizado para estandarizar los datos entrantes?</li></td>
   </tr>
   <tr> 
    <td>Administración de devoluciones</td> 
-   <td><li>¿Tiene un programa centralizado con el que trabajar? <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">personas que rebotan</a>? KG - ¿SIGUE SIENDO RELEVANTE ESTE ARTÍCULO DE 2017?</li></td>
+   <td><li>¿Tiene un programa centralizado con el que trabajar? <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">personas que rebotan</a>?</li></td>
   </tr>
   <tr> 
    <td>Privacidad y cumplimiento</td> 
