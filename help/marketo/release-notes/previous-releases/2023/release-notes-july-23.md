@@ -2,10 +2,10 @@
 description: 'Notas de la versión, julio de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2023
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 5%
+source-wordcount: '664'
+ht-degree: 4%
 
 ---
 
@@ -67,8 +67,8 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>
@@ -81,8 +81,8 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   </tbody>
 </table>

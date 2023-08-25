@@ -4,22 +4,22 @@ description: Artículos que hay que verificar - Documentos de Marketo - Document
 title: Elementos que se deben desmarcar
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 639409b6322aae0cb74943bc286e30ea36f19131
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 # Elementos que se deben desmarcar {#items-to-check-off}
 
-Asegúrese de que está correctamente configurado con los tipos adecuados de acceso e información. Realice estos sencillos pasos para que pueda comprobar algunas cosas de su lista de tareas pendientes de inmediato.
+Asegúrese de que está correctamente configurado con los tipos adecuados de acceso e información.
 
 * Vea una breve descripción general de [**qué hace Marketo**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
 
 * **Configure su perfil** en el [**Nación de marketing**](https://nation.marketo.com/){target="_blank"} comunidad de (se requiere nombre de usuario y contraseña).
 
-* Aprenda a interactuar con [**Nación de marketing**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} para obtener respuestas a sus preguntas.
+* Lea más sobre [**Directrices de comunidad de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Clic **[!UICONTROL Sus lugares]** en el perfil de la comunidad de Marketo Nation para consultar la página de cuenta de la empresa.
 
