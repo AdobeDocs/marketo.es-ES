@@ -4,9 +4,9 @@ description: 'Configuración del conocimiento de ventas de Marketo en Salesforce
 title: Configuración de Marketo Sales Insight en Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '937'
 ht-degree: 8%
 
 ---
@@ -81,6 +81,20 @@ A continuación se indican los pasos que debe seguir para configurar Marketo Sal
    >
    >_Usted_ elija su **Nombre de sitio remoto** (La API de Marketo se utiliza aquí). El **URL del sitio remoto** se encuentra en el campo Host de Marketo del cuadro de diálogo Editar configuración de API desde el paso 3 de la sección &quot;Configuración de Sales Insight en Marketo&quot;.
 
+## Conceder acceso al perfil de los usuarios de Sales Insight a objetos de Salesforce estándar {#grant-sales-insight-users-profile-access}
+
+Debido a las mejoras de seguridad de Salesforce, los paquetes de App Exchange ya no pueden conceder permiso a objetos estándar y deberá concederse acceso a los objetos de Salesforce relevantes desde el perfil del usuario de Salesforce.  Siga los pasos a continuación para conceder los permisos necesarios.
+
+1. Clic **Configurar**.
+
+1. Buscar &quot;Perfiles&quot; en Búsqueda rápida.
+
+1. Clic **Editar** junto al perfil que utilizan los usuarios de Salesforce.
+
+1. En la sección Permiso de objeto estándar, habilite el acceso de lectura para los siguientes objetos: Posible cliente, Contacto, Cuenta y Oportunidad.
+
+1. Clic **Guardar**.
+
 ## Personalizar diseños de página {#customize-page-layouts}
 
 1. Clic **Configurar**.
@@ -150,7 +164,7 @@ A continuación se indican los pasos que debe seguir para configurar Marketo Sal
       <td>Última actividad de por parte de ventas</td> 
      </tr> 
      <tr> 
-      <td>Último compromiso de por parte de ventas</td> 
+      <td>Última participación de por parte de ventas</td> 
      </tr> 
      <tr> 
       <td>ID de contacto MSI</td> 
@@ -202,7 +216,7 @@ A continuación se indican los pasos que debe seguir para configurar Marketo Sal
       <td>Última actividad de Marketo por parte de ventas</td> 
      </tr> 
      <tr> 
-      <td>Último compromiso de Marketo por parte de ventas</td> 
+      <td>Última participación de Marketo por parte de ventas</td> 
      </tr> 
      <tr> 
       <td>Puntuación de clientes potenciales de MKTO</td> 
@@ -258,7 +272,7 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
       <th colspan="1" rowspan="1">Campo personalizado de contacto de Salesforce</th> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Participación</p></td> 
+      <td colspan="1" rowspan="1"><p>Compromiso</p></td> 
       <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
      </tr> 
      <tr> 

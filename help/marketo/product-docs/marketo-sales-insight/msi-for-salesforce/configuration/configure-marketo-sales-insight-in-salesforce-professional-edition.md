@@ -4,10 +4,10 @@ description: 'Configuración de Marketo Sales Insight en Salesforce Professional
 title: Configuración de Marketo Sales Insight en Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 4%
+source-wordcount: '962'
+ht-degree: 3%
 
 ---
 
@@ -122,6 +122,20 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
    >
    >Usted elige su **Nombre de sitio remoto** (La API de Marketo se utiliza aquí). El **URL del sitio remoto** se encuentra en el campo Host de Marketo del cuadro de diálogo Editar configuración de API del paso 4.
 
+## Conceder acceso al perfil de los usuarios de Sales Insight a objetos de Salesforce estándar {#grant-sales-insight-users-profile-access}
+
+Debido a las mejoras de seguridad de Salesforce, los paquetes de App Exchange ya no pueden conceder permiso a objetos estándar y deberá concederse acceso a los objetos de Salesforce relevantes desde el perfil del usuario de Salesforce. Siga los pasos a continuación para conceder los permisos necesarios.
+
+1. Clic **Configurar**.
+
+1. Buscar &quot;Perfiles&quot; en Búsqueda rápida.
+
+1. Clic **Editar** junto al perfil que utilizan los usuarios de Salesforce.
+
+1. En la sección Permiso de objeto estándar, habilite el acceso de lectura para los siguientes objetos: Posible cliente, Contacto, Cuenta y Oportunidad.
+
+1. Clic **Guardar**.
+
 ## Personalizar diseños de página {#customize-page-layouts}
 
 1. Clic **Configurar**.
@@ -173,7 +187,7 @@ Estos son los pasos que debe seguir para configurar Marketo Sales Insight en Sal
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1">Participación</td> 
+   <td colspan="1">Compromiso</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p>Valor de puntuación relativa</p></td> 
@@ -236,7 +250,7 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
    <th colspan="1" rowspan="1">Campo personalizado de contacto de Salesforce</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Participación</p></td> 
+   <td colspan="1" rowspan="1"><p>Compromiso</p></td> 
    <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
   </tr> 
   <tr> 
@@ -266,7 +280,7 @@ Los campos de persona de Marketo deben asignarse a los campos de contacto de Sal
  </tbody> 
 </table>
 
-1. Clic **Guardar** cuando haya terminado.
+1. Clic **Guardar** cuando hayas terminado.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
