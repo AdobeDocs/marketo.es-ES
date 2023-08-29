@@ -4,14 +4,18 @@ description: 'Actualización del paquete MSI: documentos de Marketo, documentaci
 title: Actualizar el paquete MSI
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Actualizar el paquete MSI {#upgrading-your-msi-package}
+
+>[!IMPORTANT]
+>
+>Debido a las mejoras de seguridad realizadas por Salesforce, el paquete de perspectivas de ventas ya no puede conceder permisos a objetos estándar. En adelante, el perfil de Salesforce de los usuarios de Sales Insight deberán tener acceso de lectura a los siguientes objetos estándar: posible cliente, contacto, cuenta y oportunidad. [Obtenga información sobre cómo configurarlo aquí](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
 1. Vaya a [esta página en appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 

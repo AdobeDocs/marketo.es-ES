@@ -1,19 +1,19 @@
 ---
-description: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo - Documentos de Marketo - Documentación del producto
-title: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo
+description: EM-AAAA-MM-DD-Envío de correo electrónico único - Documentos de Marketo - Documentación del producto
+title: EM-AAAA-MM-DD-Envío de un solo correo electrónico
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 12%
+source-wordcount: '290'
+ht-degree: 16%
 
 ---
 
-# CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo {#ct-yyyy-mm-content-on-marketo-landing-page}
+# EM-AAAA-MM-DD-Envío de un solo correo electrónico {#em-yyyy-mm-dd-single-email-send}
 
-Este ejemplo está diseñado para ser un programa de contenido que aprovecha una página de aterrizaje de Marketo Engage con un formulario de Marketo Engage que utiliza un programa predeterminado de Marketo Engage. El formulario es para acceder al contenido/oferta. El vínculo a la oferta se puede mostrar en la página de agradecimiento, en un correo electrónico de agradecimiento o en ambos.
+Este ejemplo envía un solo correo electrónico utilizando un programa de correo electrónico de Marketo. El correo electrónico puede incluir o no una prueba A/B.
 
 Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
 
@@ -28,11 +28,11 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <th>Tipo de programa</th>
   </tr> 
   <tr> 
-   <td>Contenido web</td> 
+   <td>Correo electrónico</td> 
    <td>Miembro 01 
 <br/>02-Participación-Éxito</td>
    <td>Inclusivo</td>
-   <td>Predeterminado</td>
+   <td>Correo electrónico</td>
   </tr>
  </tbody> 
 </table>
@@ -52,21 +52,6 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td>01-Correo electrónico-Gracias</td>
   </tr>
   <tr> 
-   <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
-   <td>01 - LP - Registro</td>
-  </tr>
-  <tr> 
-   <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
-   <td>02 - LP - Gracias</td>
-  </tr>
-  <tr> 
-   <td>Formulario</td> 
-   <td> </td>
-   <td>Formulario de registro de contenido</td>
-  </tr>
-  <tr> 
    <td>Informe local</td> 
    <td> </td>
    <td>Rendimiento de correo electrónico</td>
@@ -74,17 +59,13 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Informe local</td> 
    <td> </td>
-   <td>Rendimiento de página de aterrizaje</td>
+   <td>Rendimiento de vínculo de correo electrónico</td>
   </tr>
+  <tr>
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Formulario rellenado en 01</td>
-  </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
-   <td> </td>
-   <td>Participación en el programa 02 (éxito del programa)</td>
+   <td>01: Participación (éxito del programa)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -115,32 +96,6 @@ CAPTURA DE PANTALLA DEL PROGRAMA
    <th>Tipo de token</th> 
    <th>Nombre de token</th>
    <th>Valor</th>
-  </tr> 
-  <tr> 
-   <td>Texto enriquecido</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>Haga doble clic para obtener detalles  
-<br/><code><--My Content Description Here--></code> 
-<br/>Edite esta descripción de contenido en el nivel de programa, en la pestaña Mis tokens. 
-<br/>Aprenderá a hacer lo siguiente: 
-<li>Viñeta 1</li>
-<li>Viñeta 2</li>
-<li>Viñeta 3</li></td>
-  </tr>
-  <tr> 
-   <td>Texto</td> 
-   <td><code>{{my.Content-Title}}</code></td>
-   <td><code><--My Content Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Texto</td> 
-   <td><code>{{my.Content-Type}}</code></td>
-   <td><code><--My Content Type Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Texto</td> 
-   <td><code>{{my.Content-URL}}</code></td>
-   <td>my.ContentURL?without=http://</td>
   </tr>
   <tr> 
    <td>Texto</td> 
@@ -156,11 +111,6 @@ CAPTURA DE PANTALLA DEL PROGRAMA
    <td>Texto</td> 
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
-  </tr>
-  <tr> 
-   <td>Texto</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.thankYouPageURL?sin el http://</td>
   </tr>
  </tbody> 
 </table>
@@ -187,9 +137,6 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 ## Prácticas recomendadas {#best-practices}
 
-* Después de importar el programa de contenido, mueva el formulario de un recurso local a un recurso global ubicado en Design Studio.
-   * Reducir el número de formularios y utilizar más recursos globales de Design Studio permite una mayor escalabilidad en el diseño del programa y en el control administrativo. También proporciona flexibilidad en las actualizaciones de cumplimiento regulares para campos, idioma de inclusión, etc.
-
 * Considere la posibilidad de actualizar las plantillas del programa importado para utilizar plantillas con marca actual o actualizar la plantilla recién importada para reflejar su marca añadiendo un fragmento o la información del logotipo/pie de página correspondiente.
 
 * Considere la posibilidad de actualizar la convención de nombres de este ejemplo de programa para que se ajuste a la convención de nombres.
@@ -200,8 +147,4 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;02-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
-
->[!IMPORTANT]
->
->Mis tokens que hacen referencia a una dirección URL no pueden contener los http:// u https://; de lo contrario, el vínculo no funcionará correctamente dentro del recurso.
+>No olvide activar la campaña &quot;01-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
