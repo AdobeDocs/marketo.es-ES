@@ -4,20 +4,24 @@ description: Navegación por el calendario de marketing - Documentos de Marketo 
 title: Navegación por el calendario de marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
 
 # Navegación por el calendario de marketing {#navigating-the-marketing-calendar}
 
-Navegar por el Calendario de Marketing es fácil como uno, dos, tres!
+Navegar por el calendario de marketing es fácil. Así es como.
 
 >[!PREREQUISITES]
 >
 >Asegúrese de que tiene un [Licencia de calendario de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} : de lo contrario, el mosaico Calendario de marketing no aparecerá en Mi Marketo.
+
+>[!NOTE]
+>
+>Las campañas inteligentes recurrentes no son compatibles con los calendarios de marketing.
 
 1. Vaya a la **Calendario de marketing**.
 
@@ -45,7 +49,7 @@ La vista de agenda muestra todas las entradas como una lista.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   ¡Increíble! Esta es una vista buena para ver todo lo que se ha planificado.
+   ¡Increíble! Esta es una gran vista para ver todo lo que está planificado.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
