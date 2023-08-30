@@ -3,29 +3,59 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1428'
 ht-degree: 2%
 
 ---
 
 # Heredar documento 1 {#inherit-doc-1}
 
-Como nuevo administrador de Adobe Marketo Engage, debe realizar varias tareas para comprobar el estado y la viabilidad de la instancia heredada.
-
-Las listas de comprobación siguientes (listas de comprobación subsiguientes vinculadas al final de cada artículo) se han combinado con los datos de Marketo Champions para ayudarle a ponerse al día rápidamente. Documente su progreso en la Lista de comprobación de instancias heredadas de Marketo Engage.
+Las listas de comprobación siguientes (listas de comprobación subsiguientes vinculadas al final de cada artículo) se han combinado con las aportaciones de Marketo Champions para ayudarle a ponerse al día rápidamente. También puede descargar las listas de comprobación y realizar un seguimiento del progreso.
 
 >[!TIP]
 >
 >Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario de Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">Área</th> 
+   <th>Revisar enfoque</th>
+  </tr> 
+  <tr> 
+   <td>Suscripción</td> 
+   <td><li>La suscripción del Marketo Engage es el <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management System</a> (Adobe IMS) ya? 
+<br/>
+Si es así, ¿su "administrador del sistema de Adobe Admin Console" le ha concedido una función "Administrador de productos de Adobe Admin Console"? Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe del Servicio de atención al cliente</a>.  
+<br/>Si no es así, continúe con la <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">experiencia de permisos y funciones de usuarios heredados</a> en Marketo Engage &gt; Administración &gt; Usuarios y funciones hasta que se renueve la suscripción.</li></td>
+  </tr>
+  <tr> 
+   <td>Perfil del producto</td> 
+   <td>(Suscripciones en Adobe IMS) <b>solamente</b>)
+<p>
+<li>¿Se le ha otorgado una función de 'Administrador de productos Marketo Engage' en Marketo Engage/Administrador/Usuarios y funciones?</li> 
+<li>¿Ha asignado un Marketo Engage a todos los perfiles de producto de los usuarios adecuados en Adobe Admin Console?
+<br/>Si no es así, asegúrese de asignar un Marketo Engage a su perfil de producto de Adobe IMS antes de asignar sus funciones en Marketo Engage/administrador/usuarios y funciones.</li>
+<p>Nota: Si la suscripción tiene más de 75 usuarios y acaba de migrarse a Adobe IMS, tiene la opción de seleccionar usuarios para migrar en lotes y administrar su Adobe Identificar en grupos o todos a la vez. Más información sobre lo que puede esperar de <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Día de migración de Adobe IMS</a>.</td>
+  </tr>
+  <tr> 
+   <td>API de administración de usuarios</td> 
+   <td><li>¿Ha utilizado su suscripción alguna API de administración de usuarios de Marketo?
+<br/>Si es así, deberá utilizar <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">API de IMS de Adobe</a> para invitar, actualizar y eliminar usuarios a partir de ahora.</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## Usuarios y funciones {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -47,6 +77,10 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <li>¿Las funciones de usuario y los permisos se alinean con los datos corporativos? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">políticas de privacidad</a>?</li></td>
   </tr>
   <tr> 
+   <td>Usuarios de asistencia</td> 
+   <td><li>¿Ha configurado el <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contactos autorizados</a> en el Portal de asistencia?</li></td>
+  </tr>
+  <tr> 
    <td>Documentación interna</td> 
    <td><li>¿Los usuarios y las funciones están claramente definidos en su organización?</li>
 <li>¿Cuál es su proceso para agregar un nuevo usuario/administrador?</li></td>
@@ -54,7 +88,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   <tr> 
    <td>Zona protegida (si corresponde)</td> 
    <td><li>¿Tiene un <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">instancia de zona protegida</a>?
-   <br/>Si es así, revise las categorías anteriores para su zona protegida.</li>
+   <br/>  Si es así, revise las categorías anteriores para su zona protegida.</li>
 <li>Es <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Importación de programas</a> ¿está vinculado con su zona protegida?</li></td>
   </tr>
  </tbody> 
@@ -65,7 +99,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -80,21 +114,21 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Espacios de trabajo y particiones</td> 
-   <td><li>¿Cuántos <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">espacios de trabajo o particiones</a> ¿tiene usted?</li>
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Espacios de trabajo o particiones</a> ¿tiene usted?</li>
 <li>¿Cuál es el propósito principal de cada espacio de trabajo y partición?</li>
 <li>Haga lo siguiente <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Workspaces</a> o <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Particiones</a> ¿necesita ser auditado/cambiado?</li>
 <li>¿Cuál es la relación entre sus espacios de trabajo y las particiones?</li>
-<li>Cuántos usuarios <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">tener acceso</a> a cada espacio de trabajo?</li></td>
+<li>Cuántos usuarios <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">tener acceso</a> a cada Workspace?</li></td>
   </tr>
   <tr> 
    <td>Documentación interna</td> 
    <td><li>¿Cómo se definen los espacios de trabajo y las particiones?</li>
-<li>¿Cuál es el proceso para añadir espacios de trabajo a la instancia o añadir usuarios a un espacio de trabajo?</li></td>
+<li>¿Cuál es su proceso para añadir espacios de trabajo a su instancia o añadir usuarios a un espacio de trabajo?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -104,7 +138,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -120,7 +154,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -136,7 +170,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -165,7 +199,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -175,13 +209,13 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <li>¿Cuántos <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campos personalizados</a> ¿hay?</li>
 <li>¿Cuántos campos se están utilizando? 
 <br/>Seleccionar <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exportación utilizada por</a> en la lista desplegable Acciones de campo para revisar los activos relacionados de un campo.</li>
-<li>¿Cuántos se sincronizan entre Marketo Engage y su CRM?</li>
+<li>¿Cuántos campos se sincronizan entre Marketo Engage y su CRM?</li>
 <li>¿Los campos de CRM están sincronizados con los objetos adecuados?</li>
 <li>¿Hay alguna <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">conjunto de vistas personalizadas</a> para obtener detalles de la persona? ¿Debería haber?</li>
 <li>¿Tiene una convención de nombres para los campos basada en el origen? 
 <br/>Si no es así, considere implementar esto.</li>
 <li>¿Hay algún campo? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">tapado</a>? 
-<br/>Asegúrese de comprender por qué lo son.</li></td>
+<br/>Si es así, asegúrese de comprender por qué lo son.</li></td>
   </tr>
   <tr> 
    <td>Actividades personalizadas</td> 
@@ -201,13 +235,13 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>¿A qué CRM se está sincronizando? Salesforce? MS Dynamics? Veeva?</li>
-<li>¿Está utilizando una sincronización personalizada?</li>
+<li>¿Está utilizando un <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">sincronización personalizada</a>?</li>
 <li>[Solo Salesforce] ¿Su instancia tiene implementados los filtros de sincronización personalizados? 
 <p>Nota: Póngase en contacto con el Soporte técnico de Marketo para identificar los filtros de sincronización personalizados o solicitar que se implemente una regla de sincronización personalizada.</li></td>
   </tr>
@@ -219,7 +253,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <li>¿Está habilitado el rellenado previo del formulario?</li>
 <li>Son <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">direcciones URL personalizadas</a> ¿habilitado?</li>
 <li>¿Hay reglas configuradas para <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">redirecciones</a>?</li>
-<li>¿Tiene alias de dominio establecidos? ¿Está realizando un seguimiento a través de la documentación de cómo utiliza los alias de dominio?</li>
+<li>¿Tiene alias de dominio establecidos? ¿Está realizando un seguimiento de cómo utiliza sus alias de dominio?</li>
 <li>Es <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Dominios seguros para páginas de destino</a> ¿habilitado? 
 <br/>Confirme si los recursos de la página de aterrizaje contienen una dirección URL "http".</li></td>
   </tr>
@@ -242,17 +276,18 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <td><li>Tiene el <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">Se ha instalado el paquete MSI</a>?</li>
 <li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">actualizado a la última versión de Sales Insight</a>?</li>
 <li>¿Ha completado la configuración de Sales Insight? <br/>Usuarios empresariales/ilimitados <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">haga clic aquí</a>, Usuarios profesionales <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">haga clic aquí</a>.</li>
-<li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acceso dado a los usuarios</a> ¿en función del número de puestos que has comprado?</li></td>
+<li>¿Tiene usted <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">acceso dado a los usuarios</a> ¿en función del número de puestos que has comprado?</li>
+<li>Son <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Estrellas y llamas</a> ¿personalizado?</li></td>
   </tr>
   <tr> 
    <td>Punto de inicio (si corresponde)</td> 
-   <td><li>¿Qué servicios ha configurado (por ejemplo, <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoom</a>, etc.)? ¿Están a punto de expirar?</li>
+   <td><li>Qué servicios ha configurado (por ejemplo, <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">BrightTALK</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">Zoom</a>, etc.)? ¿Están a punto de expirar?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Cuántas llamadas de API</a> ¿utilizan sus integraciones?</li>
 <li>¿Tiene las integraciones adecuadas para sus casos de uso?</li></td>
   </tr>
   <tr> 
    <td>Webhooks (si procede)</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Qué conexiones</a> ¿lo ha configurado?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Qué conexiones</a> ¿lo has arreglado?</li>
 <li>¿Ya no se utiliza alguno?</li></td>
   </tr>
   <tr> 
@@ -268,7 +303,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -284,21 +319,17 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
  </tbody> 
 </table>
 
-## Varios {#miscellaneous}
+## Alertas y actualizaciones {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Actualizaciones de estado del Marketo Engage</td> 
-   <td><li>¿Su instancia está registrada en? <a href="https://status.adobe.com/" target="_blank">Actualizaciones de estado del Marketo Engage</a>?</li></td>
-  </tr>
-  <tr> 
-   <td>Contactos autorizados</td> 
-   <td><li>¿Ha configurado el <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contactos autorizados</a> en el Portal de asistencia?</li></td>
+   <td><li>¿Está su instancia suscrita a <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Actualizaciones de estado del Marketo Engage</a>?</li></td>
   </tr>
   <tr> 
    <td>Alertas</td> 
