@@ -3,10 +3,10 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 9%
+source-wordcount: '362'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -31,7 +31,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
   </tr>
   <tr> 
    <td>Personas que cancelaron su suscripción</td> 
-   <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">personas sin suscribir</a>? ¿Hay demasiadas personas sin suscribirse?</li>
+   <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">personas sin suscribir</a>? ¿Hay demasiadas personas sin suscribirse?</li>
 <li>¿Sus métodos de cancelación de suscripción se ajustan a los requisitos de privacidad de datos?</li>
 <li>¿Está actualizada su preferencia de cancelación de suscripción? ¿Cuánto tiempo han permanecido los registros en su base de datos como no comercializables?</li></td>
   </tr>
@@ -39,7 +39,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
    <td>Marketing suspendido</td> 
    <td><li>¿Cuáles son sus criterios de? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspendido</a>? ¿Hay demasiadas personas que están suspendidas de marketing?</li>
 <li>¿Durante cuánto tiempo han permanecido los registros en el estado Suspendido de marketing?</li>
-<p>Ejemplo de caso de uso de marketing suspendido: Registros que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
+<p>Ejemplo de caso de uso suspendido de marketing: registros de personas que participan activamente en las ventas en las últimas fases para las que desea suprimir las comunicaciones de marketing.</td>
   </tr>
    <tr> 
    <td>Lista de bloqueados</td> 
@@ -62,35 +62,34 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
  </tbody> 
 </table>
 
-## Listas inteligentes de grupos {#group-smart-lists}
+## Listas inteligentes {#smart-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>Listas inteligentes de grupos</td> 
-   <td><li>¿Qué grupo de listas inteligentes hay? ¿Cómo se utilizan en esta instancia?</li>
+   <td>Listas inteligentes</td> 
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listas inteligentes</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li>
 <li>¿Las listas están organizadas en una estructura de carpetas coherente? <br/>Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
-<p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivar</a> Las listas inteligentes de grupo ya no son necesarias para consultar, crear informes o hacer referencia a fin de ayudar a la organización y al rendimiento.</td>
+<p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivando</a> Las listas inteligentes que ya no son necesarias ayudarán a la organización y al rendimiento.</td>
   </tr>
  </tbody> 
 </table>
 
-## Listas de grupos {#group-lists}
+## Listas estáticas {#static-lists}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>Listas de grupos</td> 
-   <td><li>¿Qué listas de grupos hay?</li>
-<li>¿Cómo se utilizan en esta instancia?</li></td>
+   <td>Listas estáticas</td> 
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listas estáticas</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -100,13 +99,13 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:25%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Segmentación</td> 
    <td><li>Que <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaciones</a> ¿hay? ¿Cómo se utilizan?</li>
-<li>¿Hay demasiada gente? <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos predeterminados</a>?</li>
+<li>Hay demasiada gente en <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos predeterminados</a>?</li>
 <li>¿Hay una segmentación para la audiencia comercializable? 
 <br/>Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
