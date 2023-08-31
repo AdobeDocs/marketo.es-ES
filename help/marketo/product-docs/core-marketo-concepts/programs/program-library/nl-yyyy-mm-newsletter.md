@@ -1,19 +1,19 @@
 ---
-description: EM-AAAA-MM-DD-Envío de correo electrónico único - Documentos de Marketo - Documentación del producto
-title: EM-AAAA-MM-DD-Envío de un solo correo electrónico
+description: NL-AAAA-MM-Newsletter - Documentos de Marketo - Documentación del producto
+title: NL-AAAA-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 16%
+source-wordcount: '282'
+ht-degree: 17%
 
 ---
 
-# EM-AAAA-MM-DD-Envío de un solo correo electrónico {#em-yyyy-mm-dd-single-email-send}
+# NL-AAAA-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-Este ejemplo envía un solo correo electrónico utilizando un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
+En este ejemplo se envía un correo electrónico de newsletter mediante un programa de correo electrónico de Marketo Engage. El correo electrónico puede incluir o no una prueba A/B.
 
 Para obtener más ayuda sobre la estrategia o para personalizar un programa, póngase en contacto con el equipo de cuenta de Adobe o visite el [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
 
@@ -28,7 +28,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <th>Tipo de programa</th>
   </tr> 
   <tr> 
-   <td>Correo electrónico</td> 
+   <td>Boletín informativo</td> 
    <td>Miembro 01 
 <br/>02-Participación-Éxito</td>
    <td>Inclusivo</td>
@@ -49,7 +49,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Correo electrónico</td> 
    <td>Plantilla de correo electrónico de inicio rápido</td>
-   <td>01-Correo electrónico-Gracias</td>
+   <td>01 - Correo electrónico</td>
   </tr>
   <tr> 
    <td>Informe local</td> 
@@ -65,13 +65,13 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>01: Participación (éxito del programa)</td>
+   <td>01 - Participación (éxito del programa)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
    <td>Assets: aloja todos los recursos creativos 
-<br/>(subcarpetas para correo electrónico y páginas de aterrizaje)  </td>
+<br/>(subcarpetas para correos electrónicos)  </td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
