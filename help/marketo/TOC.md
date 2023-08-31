@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
+source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
 workflow-type: tm+mt
-source-wordcount: '9027'
+source-wordcount: '9065'
 ht-degree: 3%
 
 ---
@@ -408,7 +408,24 @@ ht-degree: 3%
             + [Uso de Costes de Período en un Programa](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Biblioteca de programas {#program-library}
             + [Resumen de biblioteca de importación de programas](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Ejemplo del programa de administración de consentimiento](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
+            + [Página de aterrizaje de contenido que no es de Marketo](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
+            + [CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo](product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
+            + [EM-AAAA-MM-DD-Envío de un solo correo electrónico](product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md)
+            + [Programa EV-AAAA-MM-DD-Evento](product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md)
+            + [NL-AAAA-MM-Newsletter](product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md)
+            + [NUR-AAAA-MM-Nutrición avanzada](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md)
+            + [NUR-AAAA-MM-Nutrición simple](product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md)
+            + [OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea](product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [OP-Acquisition-API](product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
+            + [Administración de datos de OP](product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
+            + [Administración de la capacidad de entrega](product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
+            + [Administración de OP-Lead](product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
+            + [OP-Preference Management](product-docs/core-marketo-concepts/programs/program-library/op-preference-management.md)
+            + [OP-Scoring-Behavior](product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
+            + [OP-Scoring-Demographic](product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
+            + [Programa de Ferias Comerciales TS-AAAA-MM-DD](product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md)
+            + [Programa de seminarios web sobre WBN-AAAA-MM-DD](product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md)
+            + [Programa de solicitud web WR-AAAA-MM](product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
          + Informe de rendimiento del programa {#program-performance-report}
             + [Crear un informe de rendimiento del programa](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [Agregar columnas de estado de programa a un informe de programa](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
