@@ -3,10 +3,10 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 8%
+source-wordcount: '365'
+ht-degree: 7%
 
 ---
 
@@ -47,7 +47,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
   </tr>
   <tr> 
    <td>Direcciones de emails rechazadas</td> 
-   <td><li>Texto</li></td>
+   <td><li>KG: ESPERANDO LA ENTREGA</li></td>
   </tr>
   <tr> 
    <td>Duplicados posibles</td> 

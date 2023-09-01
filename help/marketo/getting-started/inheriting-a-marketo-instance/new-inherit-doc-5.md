@@ -3,9 +3,9 @@ description: Heredar documento 5 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
   <tr> 
    <td>Diccionario de datos</td> 
    <td><li>¿Hay un diccionario de datos independiente que explique los campos disponibles?
-   <br/>     Si no es así, considere la posibilidad de crear uno.</li></td>
+   <br/>     Si no es así, considere la posibilidad de crear una en una carpeta accesible para su equipo de operaciones de marketing.</li></td>
   </tr>
   <tr> 
    <td>Organización</td> 
