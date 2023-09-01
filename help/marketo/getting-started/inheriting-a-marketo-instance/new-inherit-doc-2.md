@@ -3,14 +3,14 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 7%
 
 ---
 
-# Heredar documento 2 {#inherit-doc-2}
+# Lista de comprobación de auditoría {#inherit-doc-2}
 
 Comprenda la cantidad total de personas, las personas comercializables y las fuentes principales de adquisición de personas en su suscripción.
 

@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1429'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 
 >[!TIP]
 >
->Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario de Marketo](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Si es un usuario Marketo Engage nuevo y no está familiarizado con muchos de los términos, consulte la [Glosario del Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
