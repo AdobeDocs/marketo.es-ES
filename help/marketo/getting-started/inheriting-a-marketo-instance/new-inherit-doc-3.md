@@ -3,23 +3,23 @@ description: Heredar documento 3 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 3
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 2%
 
 ---
 
 # Heredar documento 3 {#inherit-doc-3}
 
-Las actividades de marketing son el lugar donde su equipo de marketing puede crear campañas inteligentes, crear recursos creativos (como correos electrónicos y páginas de aterrizaje) y ver el rendimiento de los recursos.
+Organice correctamente la sección Actividades de marketing para ayudar a otros a encontrar y administrar varios programas en la instancia de Marketo Engage y garantizar que los usuarios se procesen para pasar de Marketing a Ventas.
 
 ## Organización {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ Las actividades de marketing son el lugar donde su equipo de marketing puede cre
   <tr> 
    <td>Programas</td> 
    <td><li>KG - ¿SIGUE SIENDO RELEVANTE? ¿Existe alguna <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Centro de excelencia</a> con plantillas de programa? 
-   <br/>Si es así, ¿tienen sentido las plantillas de programa para los casos de uso de los equipos?</li>
+   <br/>     Si es así, ¿tienen sentido las plantillas de programa para los casos de uso de los equipos?</li>
 <li>Son tipos de programas similares <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">estructurado de forma coherente</a>?</li>
 <li>Son <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">costes del periodo</a> ¿poner en marcha?</li>
 <li>Son todos los programas <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">Sincronizado con campañas de SFDC</a> (si procede)?</li>
@@ -64,22 +64,22 @@ Las actividades de marketing son el lugar donde su equipo de marketing puede cre
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>¿Se están utilizando tokens en los tipos de programas más utilizados? 
-   <br/>Si no es así, considere la posibilidad de utilizarlos para aumentar la eficacia.</li>
+   <td><li>Son <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> ¿se está utilizando en los tipos de programas más utilizados? 
+   <br/>     Si no es así, considere la posibilidad de utilizarlos para aumentar la eficacia.</li>
 <li>Si se implementan tokens, ¿existen tokens de carpeta globales? ¿Cómo se utilizan?</li></td>
   </tr>
   <tr> 
    <td>Programas de participación</td> 
    <td><li>¿Hay en directo? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programas de participación</a> ¿corriendo?</li>
 <li>¿Cuántos <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">la gente está agotada</a>? 
-<br/>Si hay muchas personas agotadas, considere la posibilidad de añadir contenido.</li>
-<li>¿La gente se involucra con el contenido? 
-<br/>Si no es así, considere la posibilidad de actualizarla o realizar pruebas A/B.</li></td>
+<br/>     Si hay muchas personas agotadas, considere <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adición de contenido</a>.</li>
+<li>Son personas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">interacción con el contenido</a>? 
+<br/>     Si no es así, considere la posibilidad de actualizarla o realizar pruebas A/B.</li></td>
   </tr>
   <tr> 
    <td>Campañas por lotes</td> 
@@ -116,7 +116,7 @@ Las actividades de marketing son el lugar donde su equipo de marketing puede cre
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ Las actividades de marketing son el lugar donde su equipo de marketing puede cre
   <tr> 
    <td>Privacidad y cumplimiento</td> 
    <td><li>¿Tiene programas para asegurarse de que cumple con las leyes de privacidad de datos y correo no deseado? 
-   <br/>Considerar <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, etc.</li>
+   <br/>     Considerar <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, etc.</li>
 <p>Sugerencia: Recuerde consultar siempre a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
   <tr> 

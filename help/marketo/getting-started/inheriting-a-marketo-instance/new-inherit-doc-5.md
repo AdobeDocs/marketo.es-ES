@@ -3,7 +3,7 @@ description: Heredar documento 5 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Diccionario de datos</td> 
    <td><li>¿Hay un diccionario de datos independiente que explique los campos disponibles?
-   <br/>Si no es así, considere la posibilidad de crear uno.</li></td>
+   <br/>     Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
   <tr> 
    <td>Organización</td> 
@@ -60,7 +60,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
   <tr> 
    <td>Manuales</td> 
     <td><li>¿Su organización tiene un manual de usuario o de administrador? 
-    <br/>Si es así, actualícelas en consecuencia.</li></td>
+    <br/>     Si es así, actualícelas en consecuencia.</li></td>
   </tr>
   <tr> 
    <td>Conversaciones con partes interesadas internas</td> 

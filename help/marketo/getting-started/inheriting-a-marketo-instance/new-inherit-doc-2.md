@@ -3,7 +3,7 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 8%
@@ -19,7 +19,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
    <td><li>¿Cuántas personas existen en la <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Si la base de datos está casi llena, ¿recomienda la directiva de su empresa que amplíe el tamaño de la base de datos o que limpie los datos históricos?</li>
 <li>¿Su base de datos general es al menos un 85% comercializable? 
-<br/>Si el suyo está por debajo de este umbral, observe las otras listas inteligentes del sistema (Lista de bloqueados, Marketing suspendido, Duplicados, Cancelación de suscripción) con mayor escrutinio.</li></td>
+<br/>     Si el suyo está por debajo de este umbral, observe las otras listas inteligentes del sistema (Lista de bloqueados, Marketing suspendido, Duplicados, Cancelación de suscripción) con mayor escrutinio.</li></td>
   </tr>
   <tr> 
    <td>Personas que cancelaron su suscripción</td> 
@@ -52,12 +52,12 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
   <tr> 
    <td>Duplicados posibles</td> 
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">registros potencialmente duplicados</a> ¿hay?
-   <br/>Considere la posibilidad de eliminarlos o combinarlos.</li></td>
+   <br/>     Considere la posibilidad de eliminarlos o combinarlos.</li></td>
   </tr>
    <tr> 
    <td>Sin programa de adquisición</td> 
    <td><li>¿Cuántas personas no tienen un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de adquisición</a>?
-   <br/>Si hay mucho, considere investigar el por qué.</li></td>
+   <br/>     Si hay mucho, considere investigar el por qué.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Listas inteligentes</td> 
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listas inteligentes</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li>
-<li>¿Las listas están organizadas en una estructura de carpetas coherente? <br/>Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
+<li>¿Las listas están organizadas en una estructura de carpetas coherente? 
+<br/>     Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
 <p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivando</a> Las listas inteligentes que ya no son necesarias ayudarán a la organización y al rendimiento.</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Área</th> 
+   <th style="width:20%">Área</th> 
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
    <td><li>Que <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaciones</a> ¿hay? ¿Cómo se utilizan?</li>
 <li>Hay demasiada gente en <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos predeterminados</a>?</li>
 <li>¿Hay una segmentación para la audiencia comercializable? 
-<br/>Si no es así, considere la posibilidad de crear uno.</li></td>
+<br/>     Si no es así, considere la posibilidad de crear uno.</li></td>
   </tr>
  </tbody> 
 </table>
