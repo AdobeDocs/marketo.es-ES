@@ -4,7 +4,7 @@ title: OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 12%
@@ -110,8 +110,6 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
-CAPTURA DE PANTALLA DEL PROGRAMA
-
 ## Mis tokens incluidos {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -169,6 +167,8 @@ CAPTURA DE PANTALLA DEL PROGRAMA
   </tr>
  </tbody> 
 </table>
+
+CAPTURA DE PANTALLA DEL PROGRAMA
 
 ## Reglas de conflicto {#conflict-rules}
 

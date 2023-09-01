@@ -4,7 +4,7 @@ title: OP-Scoring-Behavior
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 29%
@@ -155,8 +155,6 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
-CAPTURA DE PANTALLA DEL PROGRAMA
-
 ## Mis tokens incluidos {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -243,6 +241,8 @@ CAPTURA DE PANTALLA DEL PROGRAMA
   </tr>
  </tbody> 
 </table>
+
+CAPTURA DE PANTALLA DEL PROGRAMA
 
 ## Reglas de conflicto {#conflict-rules}
 
