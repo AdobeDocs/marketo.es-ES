@@ -4,9 +4,9 @@ title: Programa de Ferias Comerciales TS-AAAA-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 14%
 
 ---
@@ -52,12 +52,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr> 
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01-Correo electrónico-Gracias</td>
   </tr>
    <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02a- Correo electrónico - Invitación</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>02 - Participación en el programa (éxito)</td>
+   <td>02 - Envío de correos electrónicos de seguimiento</td>
   </tr>
    <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>03 - Envío de correos electrónicos de seguimiento</td>
-  </tr>
-   <tr> 
-   <td>Campaña inteligente</td> 
-   <td> </td>
-   <td>04 - Participación por correo electrónico de seguimiento (éxito)</td>
+   <td>03 - Participación por correo electrónico de seguimiento (éxito)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -219,7 +214,7 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 >[!TIP]
 >
->No olvide activar las campañas &quot;02-Engaged at Show (Program Success)&quot; y &quot;04-Engaged by Follow-up Email (Program Success)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ se envían sus correos electrónicos.
+>No olvide activar la campaña &quot;03 - Participación por correo electrónico de seguimiento (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ se envían sus correos electrónicos.
 
 >[!IMPORTANT]
 >

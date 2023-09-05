@@ -4,9 +4,9 @@ title: CT-AAAA-MM-Contenido en la página de aterrizaje de Marketo
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 12%
 
 ---
@@ -48,23 +48,23 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr> 
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01-Correo electrónico-Gracias</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>02 - LP - Gracias</td>
   </tr>
   <tr> 
    <td>Formulario</td> 
    <td> </td>
-   <td>Formulario de registro de contenido</td>
+   <td>FM - Formulario de registro de contenido</td>
   </tr>
   <tr> 
    <td>Informe local</td> 
@@ -76,21 +76,26 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <td> </td>
    <td>Rendimiento de página de aterrizaje</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Formulario rellenado en 01</td>
+   <td>00 - Programa de adquisición de capturas</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Participación en el programa 02 (éxito del programa)</td>
+   <td>01 - Formulario rellenado</td>
+  </tr>
+  <tr> 
+   <td>Campaña inteligente</td> 
+   <td> </td>
+   <td>02 - Participación (éxito del programa)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
    <td> </td>
    <td>Assets: aloja todos los recursos creativos 
-<br/>(subcarpetas para correo electrónico y páginas de aterrizaje)  </td>
+<br/>(subcarpetas para correos electrónicos, páginas de destino y Forms)  </td>
   </tr>
   <tr> 
    <td>Carpeta</td> 

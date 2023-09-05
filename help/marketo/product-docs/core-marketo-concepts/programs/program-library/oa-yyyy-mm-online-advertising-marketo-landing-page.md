@@ -4,9 +4,9 @@ title: OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 12%
 
 ---
@@ -29,8 +29,8 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr> 
   <tr> 
    <td>Publicidad en línea</td> 
-   <td>Miembro 01 
-<br/>02-Participación-Éxito</td>
+   <td>01 - Miembro 
+<br/>02 - Participación - Éxito</td>
    <td>Inclusivo</td>
    <td>Predeterminado</td>
   </tr>
@@ -53,17 +53,17 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01-Correo electrónico-Gracias</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
    <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>02 - LP - Gracias</td>
   </tr>
    <tr> 
@@ -79,17 +79,17 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>00-Programa de adquisición de capturas</td>
+   <td>00 - Programa de adquisición de capturas</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Formulario rellenado en 01</td>
+   <td>01 - Formulario rellenado</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>Participación en el programa 02 (éxito del programa)</td>
+   <td>02 - Participación (éxito del programa)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -207,7 +207,7 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 >[!TIP]
 >
->No olvide activar la campaña &quot;02-Engaged&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
+>No olvide activar la campaña &quot;02 - Participación (éxito del programa)&quot; para realizar un seguimiento del éxito. Haga esto _antes_ el formulario está activo y se envían correos electrónicos.
 
 >[!IMPORTANT]
 >

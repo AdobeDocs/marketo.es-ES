@@ -4,9 +4,9 @@ title: Programa de seminarios web sobre WBN-AAAA-MM-DD
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 15%
 
 ---
@@ -53,37 +53,37 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr> 
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01 - Correo electrónico - Invitación</td>
   </tr>
    <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02 - Correo electrónico - Recordatorio de invitación</td>
   </tr>
    <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>03 - Correo electrónico - Recordatorio de invitación - Última oportunidad</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>04 - Correo electrónico: confirmación de registro</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>05 - Correo electrónico: recordatorio de asistencia</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>06 -Correo electrónico - Seguimiento - Asistió</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>07 - Correo electrónico - Seguimiento - Sin presentación </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>02 - LP - Gracias</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>03 - LP - Bajo demanda</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>04 - Asistencia (éxito del programa)</td>
+   <td>04 - Envío de correos electrónicos de seguimiento</td>
   </tr>
   <tr> 
    <td>Campaña inteligente</td> 
    <td> </td>
-   <td>05 - Envío de correos electrónicos de seguimiento</td>
-  </tr>
-  <tr> 
-   <td>Campaña inteligente</td> 
-   <td> </td>
-   <td>06 - Asistencia a petición (éxito del programa)</td>
+   <td>05 - Asistencia a petición (éxito del programa)</td>
   </tr>
   <tr> 
    <td>Carpeta</td> 
@@ -333,7 +328,7 @@ CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 >[!TIP]
 >
->No olvide activar las campañas &quot;04 asistencia (éxito del programa)&quot; y &quot;06 asistencia bajo demanda (éxito del programa)&quot; para realizar el seguimiento del éxito. Haga esto _antes_ se envían sus correos electrónicos.
+>No olvide activar la campaña &quot;05 - Asistencia (éxito del programa)&quot; para realizar el seguimiento del éxito. Haga esto _antes_ se envían sus correos electrónicos.
 
 >[!IMPORTANT]
 >
