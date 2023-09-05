@@ -3,9 +3,9 @@ description: Heredar documento 1 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 1
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
 <li>¿Se le ha otorgado una función de 'Administrador de productos Marketo Engage' en Marketo Engage/Administrador/Usuarios y funciones?</li> 
 <li>¿Ha asignado un Marketo Engage a todos los perfiles de producto de los usuarios adecuados en Adobe Admin Console?
 <br/>     Si no es así, asegúrese de asignar un Marketo Engage a su perfil de producto de Adobe IMS antes de asignar sus funciones en Marketo Engage/administrador/usuarios y funciones.</li>
-<p>Nota: Si la suscripción tiene más de 75 usuarios y acaba de migrarse a Adobe IMS, tiene la opción de seleccionar usuarios para migrar en lotes y administrar su Adobe Identificar en grupos o todos a la vez. Más información sobre lo que puede esperar de <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Día de migración de Adobe IMS</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="icono de nota">NOTA: Si su suscripción tiene más de 75 usuarios y acaba de migrarse a Adobe IMS, tiene la opción de seleccionar usuarios para migrar en lotes y administrar su Adobe Identificar en grupos o todos a la vez. Más información sobre lo que puede esperar de <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Día de migración de Adobe IMS</a>.</td>
   </tr>
   <tr> 
    <td>API de administración de usuarios</td> 
@@ -261,7 +261,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <td><li>Es su <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Código de seguimiento de Munchkin</a> en su sitio web (no en Marketo)?</li>
 <li>Es un <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">No rastrear</a> ¿Solicitud de explorador habilitada?</li>
 <li>Es su <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">API de Munchkin</a> ¿configurado? 
-<p>Sugerencia: Si falta documentación sobre dónde se encuentra el código munchkin en el sitio web, puede ver todas las direcciones URL creando un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Informe de actividad de página web</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="icono de nota">SUGERENCIA: Si falta documentación sobre dónde está el código munchkin en el sitio web, puede ver todas las URL creando un <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Informe de actividad de página web</a>.</li></td>
   </tr>
   <tr> 
    <td>Servicios web</td> 
