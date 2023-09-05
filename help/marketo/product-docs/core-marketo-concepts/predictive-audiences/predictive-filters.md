@@ -3,9 +3,9 @@ description: 'Filtros predictivos: documentos de Marketo, documentación del pro
 title: Filtros predictivos
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Como parte de Predictive Audiences, Marketo ofrece un grupo de filtros basados e
 
 >[!NOTE]
 >
->Los filtros &quot;Probabilidad de asistencia&quot; y &quot;Probabilidad de registro&quot; solo se pueden usar en programas de eventos o de correo electrónico. &quot;Probabilidad de cancelar la suscripción&quot;, &quot;Similitud de miembros del programa&quot; y &quot;Similitud de miembros de listas inteligentes&quot; se pueden utilizar en todos los tipos de programas.
+>Los filtros &quot;Probabilidad de asistencia&quot; y &quot;Probabilidad de registro&quot; solo se pueden usar en Programas de eventos. &quot;Probabilidad de cancelar la suscripción&quot;, &quot;Similitud de miembros del programa&quot; y &quot;Similitud de miembros de listas inteligentes&quot; se pueden utilizar en todos los tipos de programas.
 
 ## Probabilidad de asistencia {#likelihood-to-attend}
 

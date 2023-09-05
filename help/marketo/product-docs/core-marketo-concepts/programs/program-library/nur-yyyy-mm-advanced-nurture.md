@@ -4,7 +4,7 @@ title: NUR-AAAA-MM-Nutrición avanzada
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 13%
@@ -71,17 +71,17 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01 - Correo electrónico (activo en programas anidados)</td>
   </tr>
    <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02 - Correo electrónico (activo en programas anidados)</td>
   </tr>
    <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>03 - Correo electrónico (activo en programas anidados)</td>
   </tr>
   <tr> 

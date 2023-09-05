@@ -4,7 +4,7 @@ title: Programa EV-AAAA-MM-DD-Evento
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 16%
@@ -51,47 +51,47 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr> 
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01-Correo electrónico-Gracias</td>
   </tr>
    <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02a- Correo electrónico - Invitación</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02b - Correo electrónico - Recordatorio de invitación</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>02c- Correo electrónico - Recordatorio de invitación Última oportunidad</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>03 - Correo electrónico: recordatorio de asistencia</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>04a - Correo electrónico - Seguimiento - Asistencia</td>
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>04b - Correo electrónico - Seguimiento - NoShow</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>01a - LP - Registro</td>
   </tr>
   <tr> 
    <td>Página de aterrizaje</td> 
-   <td>Plantilla de LP de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Plantilla de LP de inicio rápido</a></td>
    <td>01b - LP - Gracias</td>
   </tr>
   <tr> 

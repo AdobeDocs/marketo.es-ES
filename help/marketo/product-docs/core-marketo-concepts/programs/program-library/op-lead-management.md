@@ -4,7 +4,7 @@ title: Administración de OP-Lead
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 15%
@@ -61,7 +61,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
   </tr>
   <tr> 
    <td>Correo electrónico</td> 
-   <td>Plantilla de correo electrónico de inicio rápido</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Plantilla de correo electrónico de inicio rápido</a></td>
    <td>01: Correo electrónico, ALERTA, MQL</td>
   </tr>
   <tr> 

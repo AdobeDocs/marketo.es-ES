@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 La biblioteca de referencia del Marketo Engage incluye varios programas iniciales que puede importar directamente en la instancia de Marketo para empezar a crear programas que ayuden a su equipo.
 
-La biblioteca incluye programas como correo electrónico, participación, evento, puntuación, capacidad de entrega y funciones operativas. Todos los programas han sido desarrollados por el Equipo de Productos de Adobe y examinados por nuestro equipo global de Servicios Profesionales en un esfuerzo por maximizar la calidad y efectividad.
+La biblioteca incluye programas como correo electrónico, participación, evento, puntuación, capacidad de entrega y funciones operativas. Todos los programas han sido desarrollados por el Equipo de Producto de Adobe y examinados por nuestro [global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} equipo en un esfuerzo por maximizar la calidad y la eficacia.
 
 ## Ejemplos de programas disponibles {#available-program-examples}
 
