@@ -4,9 +4,9 @@ title: Plantilla de correo electrónico de inicio rápido
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Margen inferior del módulo
    * Color de fondo del módulo
    * Alineación del logotipo
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### Módulo de imagen {#image-module}
 
@@ -46,7 +46,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Relleno superior del módulo
    * Margen inferior del módulo
    * Color de fondo del módulo
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Módulo de encabezado {#headline-module}
 
@@ -58,7 +58,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Tamaño de la fuente del titular (que también se puede editar en el editor de texto enriquecido)
    * Color de la fuente del titular (esto también se puede editar en el editor de texto enriquecido)
    * Alineación del texto del titular (esto también se puede editar en el editor de texto enriquecido)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Módulo de subtitular {#subheadline-module}
 
@@ -70,7 +70,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Tamaño de la fuente del subtítulo (que también se puede editar en el editor de texto enriquecido)
    * Color de la fuente del subtítulo (este también se puede editar en el editor de texto enriquecido)
    * Alineación del texto del subtítulo (también se puede editar en el editor de texto enriquecido)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### Módulo de texto libre {#free-text-module}
 
@@ -82,7 +82,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Tamaño de fuente del texto (también se puede editar en el editor de texto enriquecido)
    * Color de la fuente del texto (esto también se puede editar en el editor de texto enriquecido)
    * Alineación del texto (esto también se puede editar en el editor de texto enriquecido)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### Módulo CTA {#cta-module}
 
@@ -97,7 +97,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * URL DE CTA
    * Texto CTA
    * Alineación CTA
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Módulo divisor {#divider-module}
 
@@ -108,7 +108,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Color de divisor
    * Altura del divisor (en píxeles)
    * Anchura del divisor (en %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Módulo de pie {#footer-module}
 
@@ -120,4 +120,4 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Color de fondo del módulo
    * Color del texto
    * Alineación de contenido
-* PICC
+* ![](assets/quick-start-email-template-8.png)

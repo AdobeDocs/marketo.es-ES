@@ -3,9 +3,9 @@ description: Heredar documento 4 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 3%
 
 ---
@@ -60,13 +60,13 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr> 
    <td>Estandarización de datos</td> 
    <td><li>¿Son sus <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">campos de formulario</a> ¿principalmente listas de selección o campos de texto abiertos?</li>
-<p>Sugerencia: Si los campos de texto están abiertos, considere la posibilidad de cambiarlos a listas de selección para evitar que los datos sean confusos.</td>
+<p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Si los campos de texto están abiertos, considere la posibilidad de cambiarlos a listas de selección para evitar que los datos sean confusos.</td>
   </tr>
   <tr> 
    <td>Privacidad y cumplimiento</td> 
    <td><li>¿Su estrategia de formulario se ajusta a los requisitos de privacidad de datos corporativos y de inclusión? 
    <br/>     Considerar <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Reglamento General de Protección de Datos (RGPD)</a>, la Ley contra el correo no deseado de Canadá (CASL), la Ley de Control del Ataque de Pornografía y Marketing No Solicitado de 2003 (CAN-SPAM), la Ley de Privacidad del Consumidor de California (CCPA), etc., para el cumplimiento de la regulación.</li>
-<p>Sugerencia: Recuerde consultar siempre a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
+<p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Recuerde consultar siempre a su equipo legal sobre estos temas. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr> 
    <td>Privacidad y cumplimiento</td> 
    <td><li>¿Todos los correos electrónicos tienen los pies de página adecuados? Considere el RGPD, CASL, CAN-SPAM, CCPA, etc. para implicaciones de cumplimiento.</li>
-<p>Sugerencia: Recuerde consultar siempre a su equipo legal sobre estos problemas de cumplimiento. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
+<p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Recuerde consultar siempre a su equipo legal sobre estos problemas de cumplimiento. Pregunte a su equipo acerca de las iniciativas anteriores para mantener el cumplimiento antes de realizar cualquier cambio.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr> 
    <td>Uso compartido de recursos</td> 
    <td><li>Qué recursos son <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">compartido entre espacios de trabajo</a>?</li>
-   <p>Nota: Es importante saber esto, ya que las acciones realizadas en un espacio de trabajo podrían provocar que otro usuario no pueda acceder a un recurso en un espacio de trabajo diferente.</td>
+   <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: Es importante saber esto, ya que las acciones realizadas en un espacio de trabajo podrían provocar que otro usuario no pueda acceder a un recurso en un espacio de trabajo diferente.</td>
   </tr>
  </tbody> 
 </table>

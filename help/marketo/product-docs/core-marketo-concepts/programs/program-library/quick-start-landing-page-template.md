@@ -4,9 +4,9 @@ title: Plantilla de página de aterrizaje de inicio rápido
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Mostrar u ocultar la sección
    * Relleno superior de la sección
    * Margen inferior de la sección
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Sección de imagen {#image-section}
 
@@ -42,7 +42,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Vínculo de imagen del titular
    * Ancho del banner: uno de los interruptores de la parte inferior derecha permite hacer que la imagen sea de la anchura del contenedor de contenido o de la anchura de todo el navegador
    * Mostrar u ocultar la sección
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### Texto de 2 columnas a la izquierda, formulario a la derecha {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Mostrar u ocultar toda la sección
    * Mostrar u ocultar solo el formulario (al ocultar el formulario, el texto de la columna izquierda rellena el ancho de la página). Esto puede utilizarse para una página de agradecimiento o de confirmación en la que un formulario no esté presente).
    * Mostrar u ocultar el texto de la política de privacidad
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Sección de vídeo {#video-section}
 
@@ -66,7 +66,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Código incrustado de vídeo
    * Mostrar u ocultar titular del vídeo
    * Mostrar u ocultar vídeo
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Sección Pie {#footer-section}
 
@@ -76,7 +76,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    * Color de fondo de la sección
    * Color de iconos sociales
    * Mostrar/ocultar sección
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Variables adicionales {#additional-variables}
 

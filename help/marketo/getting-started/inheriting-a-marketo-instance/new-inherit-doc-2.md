@@ -3,9 +3,9 @@ description: Heredar documento 2 - Documentos de Marketo - Documentación del pr
 title: Heredar documento 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 7%
 
 ---
@@ -75,7 +75,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listas inteligentes</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li>
 <li>¿Las listas están organizadas en una estructura de carpetas coherente? 
 <br/>     Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
-<p>Sugerencia: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivando</a> Las listas inteligentes que ya no son necesarias ayudarán a la organización y al rendimiento.</td>
+<p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivando</a> Las listas inteligentes que ya no son necesarias ayudarán a la organización y al rendimiento.</td>
   </tr>
  </tbody> 
 </table>
