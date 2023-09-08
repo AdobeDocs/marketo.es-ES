@@ -3,9 +3,9 @@ description: Administración de usuarios y licencias - Documentos de Marketo - D
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -107,3 +107,15 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
 * Cada vez que se cree un evento, se contará como &quot;consumido&quot; desde su licencia respectiva (a menos que sea una licencia de sala compartida). Se dará preferencia a &quot;Licencia de evento compartido&quot; si hay &quot;Licencia de evento compartido&quot; y &quot;Licencia de habitación compartida&quot; de la misma capacidad. Si el evento no se ha entregado y si el programa de eventos se elimina antes de la hora programada, el recuento de eventos se reaprovisiona restando un evento de los eventos consumidos.
 
 * Una vez agotada la licencia, el mosaico permanece en la pantalla Seminarios web interactivos de la sección Administración con &quot;Eventos totales&quot; y &quot;Eventos consumidos&quot; con el mismo valor. Solo cuando caduque la licencia se eliminará de la pantalla.
+
+## Acceso del usuario {#user-access}
+
+Los seminarios web interactivos tienen la funcionalidad de regular el uso mediante la concesión de permisos a los usuarios de Marketo Engage para crear y publicar seminarios web interactivos. Sin embargo, un usuario (o no usuario) de un seminario web interactivo podría tener acceso de lectura y edición a los programas de eventos de seminarios web interactivos creados por otros usuarios.
+
+Los usuarios de Marketo a los que se hayan concedido permisos para seminarios web interactivos y que sean propietarios de un programa de eventos de seminarios web interactivos concreto podrán realizar todas las funciones de seminarios web interactivos relacionadas con ese programa. Esto incluye: crear, acceder, modificar, clonar, mover y eliminar ese programa. Sin embargo, una vez que el usuario ya no es un usuario del seminario web interactivo, el propietario del programa podría acceder y mover el programa, pero no realizar ninguna otra función.
+
+Los usuarios de Marketo a los que se han concedido permisos para seminarios web interactivos y son _no_ Los propietarios de un programa de eventos de seminarios web interactivos en particular podrían desempeñar funciones limitadas en esos programas. Los usuarios no administradores de Marketo podrán acceder al programa y clonarlo, pero no podrán realizar otras funciones si tienen permisos para seminarios web interactivos. Sin embargo, los usuarios administradores de Marketo _testamento_ poder realizar todas las funciones, como acceder, modificar, clonar, mover y eliminar ese programa (siempre y cuando tengan permisos para seminarios web interactivos). Una vez revocado este permiso para los usuarios administradores de Marketo y los usuarios no administradores, solo podrían acceder al programa de eventos de seminario web interactivo y no podrían realizar otras funciones.
+
+La restricción de las funciones procesables se indicaría mediante un botón de acción atenuado y un mensaje de desplazamiento. Algunos ejemplos de los botones de acción atenuados son &quot;Diseña tu seminario web&quot; o &quot;Entra en tu seminario web&quot;. En el caso de las funciones no procesables, se enviaría un mensaje en el que se destacarían las restricciones. Consulte el ejemplo siguiente:
+
+![](assets/user-and-license-management-12.png)

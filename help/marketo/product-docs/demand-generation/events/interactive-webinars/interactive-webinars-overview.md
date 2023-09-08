@@ -3,9 +3,9 @@ description: Información general sobre seminarios web interactivos - Documentos
 title: Información general sobre seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Después del seminario web, acceda a [análisis de rendimiento de eventos](/help
 **¿Necesito una suscripción independiente para utilizar los seminarios web interactivos?**
 
 No. Para utilizar los seminarios web interactivos sólo se necesita una suscripción de Marketo Engage activa.
+
+**¿Qué idiomas están disponibles para los seminarios web interactivos?**
+
+Los seminarios web interactivos están disponibles en los seis idiomas admitidos por Marketo: inglés, francés, alemán, japonés, portugués y español. Los mismos idiomas también son compatibles con Adobe Connect durante la entrega del seminario web a través de seminarios web interactivos.
 
 **He agotado el número incluido de seminarios web interactivos. ¿Cómo puedo obtener más sesiones o más capacidad?**
 

@@ -3,9 +3,9 @@ description: 'Diseño de seminarios web interactivos: documentos de Marketo, doc
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 1. Aparecerá la vista previa del seminario web.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >El seminario web se establecerá en el idioma predeterminado en la instancia de Marketo Engage, pero tiene la opción de cambiar los idiomas por seminario web mediante la lista desplegable situada encima de la vista previa.
 
 1. Puede seleccionar diferentes diseños para previsualizarlos. Para continuar, haga clic **Usar plantilla**.
 
