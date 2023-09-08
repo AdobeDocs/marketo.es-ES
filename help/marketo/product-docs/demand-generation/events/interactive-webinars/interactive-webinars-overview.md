@@ -3,10 +3,10 @@ description: Información general sobre seminarios web interactivos - Documentos
 title: Información general sobre seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 2aa7c1cb3d41ef9fa4eb5906d2ac8f631ce8e209
+source-git-commit: 7d01503c6cf7c52e9f30b76cedc33e7150557fae
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: '348'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ La función Seminarios web interactivos es nuestra plataforma integrada de semin
 
 >[!IMPORTANT]
 >
->Los seminarios web interactivos con tecnología de Adobe Connect son una función que integra Adobe Connect. El uso de los seminarios web interactivos estará sujeto a términos y condiciones adicionales.  Revisa tu contrato o [Adobe de contacto](https://nation.marketo.com/t5/support/ct-p/Support) para obtener más información sobre los términos y condiciones adicionales.
+>Los seminarios web interactivos con tecnología de Adobe Connect son una función que integra Adobe Connect. El uso de los seminarios web interactivos estará sujeto a términos y condiciones adicionales. Revise el contrato o póngase en contacto con el Adobe para conocer los términos y condiciones adicionales.
 
 ## ¿Qué son los seminarios web interactivos? {#what-is-interactive-webinars}
 
