@@ -4,9 +4,9 @@ title: NL-AAAA-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '275'
 ht-degree: 17%
 
 ---
@@ -86,6 +86,8 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
+![](assets/nl-yyyy-mm-newsletter-1.png)
+
 ## Mis tokens incluidos {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -113,8 +115,6 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
-CAPTURA DE PANTALLA DEL PROGRAMA
-
 ## Reglas de conflicto {#conflict-rules}
 
 * **Etiquetas del programa**
@@ -132,8 +132,6 @@ CAPTURA DE PANTALLA DEL PROGRAMA
 * **Plantillas de email con el mismo nombre**
    * Conservar ambas plantillas
    * Reemplazar plantilla existente: _Recomendado_
-
-CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 ## Prácticas recomendadas {#best-practices}
 

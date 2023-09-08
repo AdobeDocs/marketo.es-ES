@@ -4,10 +4,10 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 22%
+source-wordcount: '171'
+ht-degree: 23%
 
 ---
 
@@ -61,7 +61,7 @@ Este programa de ejemplo es para procesos operativos para rastrear la adquisici√
  </tbody> 
 </table>
 
-CAPTURA DE PANTALLA DEL PROGRAMA
+![](assets/op-acquisition-api-1.png)
 
 ## Reglas de conflicto {#conflict-rules}
 
@@ -80,8 +80,6 @@ CAPTURA DE PANTALLA DEL PROGRAMA
 * **Plantillas de email con el mismo nombre**
    * Mantener ambas plantillas - _Recomendado_
    * Reemplazar plantilla existente
-
-CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 ## Pr√°cticas recomendadas {#best-practices}
 

@@ -4,9 +4,9 @@ title: Administración de la capacidad de entrega
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '261'
 ht-degree: 19%
 
 ---
@@ -99,7 +99,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
  </tbody> 
 </table>
 
-CAPTURA DE PANTALLA DEL PROGRAMA
+![](assets/op-deliverability-management-1.png)
 
 ## Reglas de conflicto {#conflict-rules}
 
@@ -118,8 +118,6 @@ CAPTURA DE PANTALLA DEL PROGRAMA
 * **Plantillas de email con el mismo nombre**
    * Mantener ambas plantillas - _Recomendado_
    * Reemplazar plantilla existente
-
-CAPTURA DE PANTALLA DE REGLAS DE CONFLICTO
 
 ## Prácticas recomendadas {#best-practices}
 
