@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
+source-git-commit: 5f99c090d53e7b11217be2ae87c9726bf046a592
 workflow-type: tm+mt
-source-wordcount: '9083'
+source-wordcount: '9086'
 ht-degree: 3%
 
 ---
@@ -650,6 +650,7 @@ ht-degree: 3%
       + Dynamic Chat dos {#dynamic-chat-two}
          + Chat automatizado {#automated-chat}
             + [Configuración de flujo de conversación](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Resumen de flujo de conversación](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
       + Dynamic Chat {#dynamic-chat}
          + [Liberar inserciones](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Resumen del Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
