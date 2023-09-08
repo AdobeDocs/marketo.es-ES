@@ -4,9 +4,9 @@ title: Diseñador de flujo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  <tr>
   <td><strong>Objetivo</strong></td>
   <td>Esta es la única tarjeta que los visitantes no verán. Le corresponde a usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo, si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Objetivo inmediatamente después de la captura de información en el flujo).</td>
+ </tr>
+ <tr>
+  <td><strong>Acción</strong></td>
+  <td>De forma similar a los campos ocultos en un formulario, con la tarjeta de acción puede rellenar cualquier atributo de posible cliente o compañía con valores implícitos que desee capturar con un registro de posible cliente. Puede añadir la tarjeta de acción en cualquier momento de la conversación y actualizar los atributos respectivos con un valor o tokens nativos que rellenen automáticamente el valor respectivo.</td>
+ </tr>
+ <tr>
+  <td><strong>Chat en directo</strong></td>
+  <td>Utilice la tarjeta de chat en vivo cuando desee que los visitantes chateen con un agente en vivo.
+  <li>La tarjeta de chat en vivo debe ser la última tarjeta de la sucursal</li>
+  <li>Los visitantes se dirigirán a un agente en cuanto lleguen a esta tarjeta en el flujo, por lo que se recomienda preceder esta tarjeta con una tarjeta de preguntas que pregunte a los visitantes si desean chatear con un agente en directo</li></td>
  </tr>
 </table>
 
