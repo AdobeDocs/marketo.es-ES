@@ -1,16 +1,47 @@
 ---
-description: 'Doc: Documentos de Marketo: documentación del producto'
-title: Doc
+description: Información general del cuadro de diálogo - Documentos de Marketo - Documentación del producto
+title: Resumen del diálogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 22%
+source-wordcount: '166'
+ht-degree: 3%
 
 ---
 
-# Doc {#doc}
+# Resumen del diálogo {#dialogue-overview}
 
-Próximamente
+Los cuadros de diálogo son conversaciones de chat individuales. En cada Diálogo, usted decide dónde se muestra la conversación de chat específica, a quién se mostrará y cuál será el contenido de la conversación. Cada cuadro de diálogo también tiene su propia página de informe, donde puede supervisar la eficacia.
+
+## Criterios de audiencia {#audience-criteria}
+
+El [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} sección de un Diálogo es donde definirá dónde y a quién se mostrará su conversación de chat
+
+![](assets/dialogue-overview-1.png)
+
+## Diseñador de flujo {#stream-designer}
+
+El [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} de un cuadro de diálogo es donde diseñará la conversación que desea tener con los visitantes del sitio web.
+
+![](assets/dialogue-overview-2.png)
+
+## Informes de   {#reports}
+
+El [Informes](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} de un Diálogo es donde podrá ver las métricas sobre el rendimiento de su Diálogo.
+
+![](assets/dialogue-overview-3.png)
+
+## Desactivar/activar todos los cuadros de diálogo {#disable-enable-all-dialogues}
+
+Puede desactivar (y volver a activar) todos los cuadros de diálogo publicados al mismo tiempo.
+
+1. En Dynamic Chat, haga clic en **Configuración** pestaña.
+
+   ![](assets/dialogue-overview-4.png)
+
+1. Alternar el **Chat activado** cambie a off para deshabilitar (y vuelva a activar para volver a habilitar) todos los cuadros de diálogo.
+
+   ![](assets/dialogue-overview-5.png)
+

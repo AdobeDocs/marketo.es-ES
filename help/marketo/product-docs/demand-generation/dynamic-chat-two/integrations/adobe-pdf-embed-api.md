@@ -1,16 +1,49 @@
 ---
-description: 'Doc: Documentos de Marketo: documentación del producto'
-title: Doc
+description: 'API de incrustación de Adobe PDF: documentos de Marketo: documentación del producto'
+title: API de inserción de Adobe PDF
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 2e18242afb1600ca0e63f9ab777a7ba4ad1e5fbc
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 22%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
-# Doc {#doc}
+# API de inserción de Adobe PDF {#adobe-pdf-embed-api}
 
-Próximamente
+La tarjeta de documento permite incrustar documentos del PDF en los cuadros de diálogo y rastrear la actividad de participación de visitantes en los documentos. A continuación se muestra cómo configurarlo.
+
+1. Vaya a [API de incrustación de Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+
+1. Clic **Obtener credenciales**.
+
+   ![](assets/adobe-pdf-embed-api-1.png)
+
+1. Inicie sesión en su cuenta de Adobe.
+
+   ![](assets/adobe-pdf-embed-api-2.png)
+
+1. Introduzca sus credenciales, acepte los términos y haga clic en **Crear credenciales**.
+
+   ![](assets/adobe-pdf-embed-api-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Deberá utilizar el dominio en el que alojará el bot de chat (por ejemplo, si aloja el bot de chat en mycompany.com, asegúrese de introducirlo en el paso 4).
+
+1. Clic **Copiar** para copiar el ID de cliente.
+
+   ![](assets/adobe-pdf-embed-api-4.png)
+
+1. Vuelva al Dynamic Chat y haga clic en **Integraciones**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **Activar**.
+
+   ![](assets/adobe-pdf-embed-api-5.png)
+
+1. Pegue el ID de cliente y haga clic en **Guardar**.
+
+   ![](assets/adobe-pdf-embed-api-6.png)
+
+Ahora puede utilizar la tarjeta de documento en los cuadros de diálogo [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+
