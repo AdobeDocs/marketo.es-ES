@@ -4,9 +4,9 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 69d3dad7837ae4b5a65889c10c0fcb23c46591c1
+source-git-commit: 52ef77889e307ecba514bcfd22066c45b1812306
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 7%
 
 ---
@@ -58,14 +58,14 @@ _Las fechas de lanzamiento están sujetas a cambios_
    <td>Enviado</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Julio de 2023</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-july-23.md">Julio de 2023</a></td>
    <td>21 de julio de 2023</td>
-   <td>En progreso</td>
+   <td>Enviado</td>
   </tr>
   <tr>
-   <td>Septiembre de 2023</td>
+   <td><a href="/help/marketo/release-notes/current.md">Septiembre de 2023</a></td>
    <td>8 de septiembre de 2023</td>
-   <td>Dentro del horario</td>
+   <td>En progreso</td>
   </tr>
   <tr>
    <td>Octubre de 2023</td>

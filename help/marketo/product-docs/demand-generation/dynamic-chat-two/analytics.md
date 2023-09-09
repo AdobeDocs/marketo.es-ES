@@ -4,25 +4,47 @@ title: Analytics
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 52ef77889e307ecba514bcfd22066c45b1812306
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
 # Analytics {#analytics}
 
-Aunque tenemos informes disponibles en cada nivel de diálogo, para obtener la participación general es posible que desee una mejor manera. Hemos introducido 3 nuevos tableros de informes en el Adobe Dynamic Chat:
+Mientras que los informes están disponibles en el nivel de diálogo, compruebe la participación general utilizando los tres paneles siguientes.
+
+Acceda a cada tablero en **Analytics** en la barra de navegación izquierda.
+
+![](assets/analytics-1.png)
 
 ## Tablero de rendimiento global {#global-performance-dashboard}
 
 Vea el rendimiento de sus cuadros de diálogo, incluidas las métricas de participación y rendimiento (total y a lo largo de un tiempo), las páginas de mayor rendimiento y los cuadros de diálogo de mayor rendimiento.
 
+![](assets/analytics-2.png)
+
+Ver cuadros de diálogo, flujos de conversación o todo. Ordenar por visitantes conocidos, visitantes desconocidos o ambos. Seleccione un intervalo de fechas preestablecido o personalizado. Exporte los resultados haciendo clic en un botón.
+
+![](assets/analytics-3.png)
+
 ## Tablero de rendimiento de reunión {#meeting-performance-dashboard}
 
 Ver cuántas reuniones se están reservando y con quién se están reservando.
 
+![](assets/analytics-4.png)
+
+Ver cuadros de diálogo, flujos de conversación o todo. Seleccione un intervalo de fechas preestablecido o personalizado. Exporte los resultados haciendo clic en un botón.
+
+![](assets/analytics-5.png)
+
 ## Tablero de rendimiento de chat en directo {#live-chat-performance-dashboard}
 
 Vea cuántas conversaciones tuvieron sus agentes de ventas en vivo y qué equipos están teniendo el mejor rendimiento.
+
+![](assets/analytics-6.png)
+
+Ver cuadros de diálogo, flujos de conversación o todo. Seleccione un intervalo de fechas preestablecido o personalizado. Exporte los resultados haciendo clic en un botón.
+
+![](assets/analytics-7.png)
