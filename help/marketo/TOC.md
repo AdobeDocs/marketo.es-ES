@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 3%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 3%
       + [Elementos que se deben desmarcar](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Cosas que revisar: habilidades básicas](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Formas de obtener ayuda](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Nuevo documento de herencia 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Nuevo documento de herencia 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Nuevo documento de herencia 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Nuevo documento de herencia 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [Nuevo documento de herencia 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Instancia heredada: Lista de comprobación de sección de administración](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Instancia heredada: Lista de comprobación de base de datos](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Instancia heredada: Lista de comprobación de actividades de marketing](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Instancia heredada: Lista de comprobación de Design Studio](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Instancia heredada: Documentar la configuración](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Documentos del producto {#product-docs}
    + Aplicaciones adicionales {#additional-apps}
       + SEO {#seo}

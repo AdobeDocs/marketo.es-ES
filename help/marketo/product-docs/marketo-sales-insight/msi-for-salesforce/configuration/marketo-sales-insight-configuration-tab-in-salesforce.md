@@ -4,9 +4,9 @@ description: 'Pestaña Configuración de Marketo Sales Insight en Salesforce: Do
 title: Pestaña Configuración de Marketo Sales Insight en Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -63,15 +63,21 @@ Las configuraciones son aplicables a todos los usuarios de MSI y no son específ
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
+## Configuración de soporte {#support-settings}
+
+Si selecciona esta casilla, se habilitará el registro de depuración en la instancia de Salesforce. Puede ayudarle a solucionar problemas.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
 ## Restablecer perspectiva de ventas de Marketo {#reset-marketo-sales-insight}
 
 Si elige hacerlo, se borrarán todas las configuraciones en SFDC y no se podrán restaurar. Tendrá que volver a configurar todo.
 
-![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
 >[!IMPORTANT]
 >
->No seleccione la casilla &quot;Habilitar acciones MSI&quot; a menos que esté usando las funciones de acciones de Sales Insights.
+>No active la casilla &quot;Activar acciones MSI&quot; a menos que esté utilizando las funciones de acciones de Sales Insights.
 
 >[!MORELIKETHIS]
 >
