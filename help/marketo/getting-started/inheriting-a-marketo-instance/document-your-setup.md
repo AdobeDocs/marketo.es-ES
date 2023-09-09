@@ -3,10 +3,10 @@ description: 'Documento de instancia heredada durante la configuración: documen
 title: Documento de instancia heredada de la configuración
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 2%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
    <td>Entrada</td> 
    <td><li>¿Qué sistemas introducen datos en Marketo Engage?</li>
    <li>¿Están cargando datos en programas o en la base de datos? Si los programas, ¿cuáles?</li>
-   <p>Elemento de acción: cree una tabla de asignación de campos/diccionario de datos entre sistemas.</td>
+   <p><img src="assets/action-item-icon.png" alt="icono de elemento de acción">Elemento de acción: cree una tabla de asignación de campos/diccionario de datos entre sistemas.</td>
   </tr>
   <tr> 
    <td>Output</td> 
@@ -51,7 +51,7 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
   <tr> 
    <td>Organización</td> 
     <td><li>¿Tiene documentación fiable sobre cómo se organiza la instancia de Marketo Engage y por qué?</li>
-   <p>Elemento de acción: cree documentación que contenga la estructura de carpetas, la convención de nombres y los canales utilizados en la instancia.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="icono de elemento de acción">Elemento de acción: cree documentación que contenga la estructura de carpetas, la convención de nombres y los canales utilizados en la instancia.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
  </tbody> 
 </table>
 
-[◄ de una instancia heredada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ de una instancia heredada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

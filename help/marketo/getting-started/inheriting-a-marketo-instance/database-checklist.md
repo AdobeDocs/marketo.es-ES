@@ -3,7 +3,7 @@ description: Lista de comprobación de base de datos de instancias heredadas - D
 title: Lista de comprobación de base de datos de instancias heredadas
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 7%
@@ -116,6 +116,6 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 
 <br> 
 
-[◄ una instancia heredada: Administración](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+[◄ una instancia heredada: Administración](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-[Auditoría de una instancia heredada: ► de actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[Auditoría de una instancia heredada: ► de actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
