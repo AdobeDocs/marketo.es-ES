@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '9153'
+source-wordcount: '9156'
 ht-degree: 3%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 3%
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
             + [API de inserción de Adobe PDF](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
          + Chat en directo {#live-chat}
+            + [Información general de Live Chat](product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md)
             + [Bandeja de entrada del agente](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
             + [Notificaciones](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
          + Instalación y configuración {#setup-and-configuration}

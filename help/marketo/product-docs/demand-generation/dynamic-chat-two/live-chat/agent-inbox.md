@@ -4,10 +4,10 @@ title: Bandeja de entrada del agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 2%
+source-wordcount: '319'
+ht-degree: 1%
 
 ---
 
@@ -27,6 +27,10 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 >
 >**Esto anulará** el [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) ha establecido en Configuración de agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
 
+>[!NOTE]
+>
+>Si establece su estado como no disponible, los chats activos no se verán afectados.
+
 ## Aceptación de un chat en directo {#accepting-a-live-chat}
 
 Cuando un chat en vivo se dirige al agente, verá un banner azul en la parte superior de la pantalla pidiéndole que acepte.
@@ -36,7 +40,6 @@ Cuando un chat en vivo se dirige al agente, verá un banner azul en la parte sup
 ### Cosas que hay que tener en cuenta {#things-to-note}
 
 * Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;.
-* TIDBIT DEL EXPLORADOR
 * Hay un límite de 10 chats en vivo por agente en este momento
 
 ## Conversaciones {#conversations}
@@ -44,6 +47,10 @@ Cuando un chat en vivo se dirige al agente, verá un banner azul en la parte sup
 A la izquierda de la pantalla Bandeja de entrada del agente, puede elegir mostrar sólo las conversaciones activas o todas ellas.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Aunque puede ver conversaciones pasadas (inactivas) de usted y de otros agentes, solo podrá ver sus propias conversaciones activas.
 
 ## Información del visitante {#visitor-information}
 
@@ -61,4 +68,18 @@ Debajo de la información del visitante se encuentra el historial de actividades
 >
 >Solo se muestra información de los últimos 90 días.
 
-Conversaciones activas- Todas las conversaciones- Calendario compartido Información del visitante- Actividades recientes del Dynamic Chat
+## Uso compartido de calendarios {#calendar-sharing}
+
+En la parte inferior de la ventana de chat en vivo hay un icono que le permite compartir su calendario o el de otro agente con el visitante del chat.
+
+1. Haga clic en el icono de calendario.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Seleccione el calendario del agente deseado y haga clic en **Enviar**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. El visitante del chat podrá reservar una reunión.
+
+   ![](assets/agent-inbox-9.png)

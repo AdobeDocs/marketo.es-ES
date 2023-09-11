@@ -4,10 +4,10 @@ title: Administración de agentes
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ En la administración de agentes, consulte la lista de agentes de la instancia d
 
 ## Agentes {#agents}
 
-Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye información como su nombre, dirección de correo electrónico, estado de Live Chat y más.
+Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye información como su nombre, dirección de correo electrónico, estado de chat en vivo y más.
 
 PICC2 - NECESITA CAPTURA DE PANTALLA DE CHICOS
 
@@ -63,7 +63,7 @@ Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para q
 
 >[!NOTE]
 >
->Selección de la **Incluir opción de reserva de reunión** La casilla de verificación genera un widget de reserva de reunión para el visitante del chat.
+>Selección de la **Incluir opción de reserva de reunión** Esta casilla de verificación dará al visitante del chat la opción de reservar una reunión cuando no haya agentes disponibles para el chat en vivo.
 
 >[!TIP]
 >
