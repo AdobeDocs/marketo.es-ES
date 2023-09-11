@@ -1,18 +1,16 @@
 ---
-description: 'Doc: Documentos de Marketo: documentación del producto'
-title: Doc
+description: 'Notificaciones: Documentos de Marketo: documentación del producto'
+title: Notificaciones
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Doc {#doc}
-
-Próximamente
+# Notificaciones {#notifications}
 
 Acciones MSI del explorador en la aplicación

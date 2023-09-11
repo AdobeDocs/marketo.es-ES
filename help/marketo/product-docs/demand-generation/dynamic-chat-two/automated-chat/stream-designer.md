@@ -4,7 +4,7 @@ title: Diseñador de flujo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -56,8 +56,8 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  <tr>
   <td><strong>Chat en directo</strong></td>
   <td>Utilice la tarjeta de chat en vivo cuando desee que los visitantes chateen con un agente en vivo.
-  <li>La tarjeta de chat en vivo debe ser la última tarjeta de la sucursal</li>
-  <li>Los visitantes se dirigirán a un agente en cuanto lleguen a esta tarjeta en el flujo, por lo que se recomienda preceder esta tarjeta con una tarjeta de preguntas que pregunte a los visitantes si desean chatear con un agente en directo</li></td>
+  <li>La tarjeta de chat en vivo debe ser la última tarjeta de la sucursal.</li>
+  <li>Los visitantes se dirigirán a un agente en cuanto lleguen a esta tarjeta en el flujo, por lo que se recomienda preceder esta tarjeta con una tarjeta de preguntas que pregunte a los visitantes si desean chatear con un agente en directo.</li></td>
  </tr>
 </table>
 

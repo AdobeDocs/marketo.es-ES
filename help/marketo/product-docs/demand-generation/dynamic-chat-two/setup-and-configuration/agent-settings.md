@@ -4,16 +4,16 @@ title: Configuración del agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Configuración del agente {#agent-settings}
 
-En la pestaña Calendario, conecte el calendario de Outlook o Gmail para utilizarlo en la programación de citas en el bot de chat.
+En la pestaña de configuración del Calendario, conecte el calendario de Outlook o Gmail para utilizarlo en la programación de citas en el bot de chat.
 
 ## Conectar calendario {#connect-calendar}
 
@@ -50,14 +50,14 @@ La configuración con Google concede los siguientes permisos a Dynamic Chat:
 * Cambiar con quién se comparte el calendario
 * Acceso a su nombre, dirección de correo electrónico, preferencia de idioma e imagen de perfil
 
-## Configuración de disponibilidad de Live Chat {#live-chat-availability-settings}
-
-Texto
-
-## Configuración de disponibilidad de reserva de reunión {#meeting-booking-availability-settings}
+## Disponibilidad de reserva de reunión {#meeting-booking-availability}
 
 Texto
 
 ## Duración de la reunión y hora del búfer {#meeting-length-and-buffer-time}
+
+Texto
+
+## Disponibilidad de chat en vivo {#live-chat-availability}
 
 Texto

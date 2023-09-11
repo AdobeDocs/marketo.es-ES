@@ -4,10 +4,10 @@ title: Administración de agentes
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -60,6 +60,10 @@ Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para q
 Seleccione un mensaje estándar (del sistema) o escriba uno personalizado para que los visitantes vean cuándo Live Chat no está disponible.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>Selección de la **Incluir opción de reserva de reunión** La casilla de verificación genera un widget de reserva de reunión para el visitante del chat.
 
 >[!TIP]
 >
