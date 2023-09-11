@@ -4,9 +4,9 @@ title: Resumen del Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '665'
 ht-degree: 2%
 
 ---
@@ -109,90 +109,29 @@ Siga estos pasos para cambiar el idioma del Dynamic Chat.
 
 Al actualizar el idioma, todo cambia en la propia aplicación, excepto las palabras que haya rellenado personalmente (por ejemplo, respuestas de flujo).
 
-## Límites en el Dynamic Chat {#limits-in-dynamic-chat}
+## Límites de retención de datos de Dynamic Chat {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parámetro</th>
-  <th>Descripción</th>
-  <th>Límite</th>
+  <th>Tipo de datos</th>
+  <th>Período de retención</th>
  <tr>
-  <td>Total de cuadros de diálogo</td>
-  <td>Número de cuadros de diálogo (publicados y en borrador)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Calendarios totales</td>
-  <td>Número de calendarios conectados</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Total de usuarios (administradores y usuarios de marketing)</td>
-  <td>Número de usuarios combinados permitidos por Dynamic Chat</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Cuadros de diálogo publicados</td>
-  <td>Número de cuadros de diálogo publicados guardados</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>URL de destino por cuadro de diálogo</td>
-  <td>Número de direcciones URL de destino que se pueden añadir a un solo cuadro de diálogo</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Atributos por cuadro de diálogo</td>
-  <td>Número de atributos que se pueden añadir a los criterios de audiencia de un solo cuadro de diálogo</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Grupos</td>
-  <td>Número de grupos que se pueden agregar a un solo cuadro de diálogo</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Atributos por grupo</td>
-  <td>Número de atributos que se pueden agregar a un grupo</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Tarjetas</td>
-  <td>Número de tarjetas que se pueden agregar al lienzo por cuadro de diálogo</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Período de retención de datos de posibles clientes anónimos</td>
-  <td>Duración de cuánto tiempo se conservará la información de un posible cliente anónimo sin ninguna participación</td>
+  <td>Posible Cliente Anónimo Sin Ninguna Participación</td>
   <td>90 días</td>
  </tr>
  <tr>
-  <td>Período de retención de actividad de objetivo</td>
-  <td>Cantidad de tiempo que se retienen los datos de actividad de la meta</td>
+  <td>Actividad de objetivo</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Período de retención de actividad de documento</td>
-  <td>Cantidad de tiempo que se retienen los datos de actividad del documento</td>
+  <td>Actividad de documento</td>
   <td>24 meses</td>
  </tr>
  <tr>
-  <td>Interactuado con período de retención de actividad de diálogo</td>
-  <td>Se conserva el tiempo interactuado con los datos de la actividad del cuadro de diálogo</td>
+  <td>Interactuó con la actividad de diálogo</td>
   <td>90 días</td>
  </tr>
  <tr>
-  <td>Período de retención de actividad de reserva de reunión</td>
-  <td>La cantidad de tiempo que se almacenará la actividad de reserva de reunión en Dynamic Chat</td>
+  <td>Actividad de reserva de reunión</td>
   <td>24 meses</td>
- </tr>
- <tr>
-  <td>Conversaciones Involucradas</td>
-  <td>Número de conversaciones de chat con las que pueden participar los visitantes web al mes</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Conversaciones activadas</td>
-  <td>Número de conversaciones de chat que se pueden mostrar a los visitantes web por mes</td>
-  <td>25,000</td>
  </tr>
 </table>

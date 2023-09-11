@@ -4,9 +4,9 @@ title: Administración de agentes
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ En la administración de agentes, consulte la lista de agentes de la instancia d
 
 Esta pestaña lista todos los agentes de su instancia de Dynamic Chat e incluye información como su nombre, dirección de correo electrónico, estado de chat en vivo y más.
 
-PICC2 - NECESITA CAPTURA DE PANTALLA DE CHICOS
+![](assets/agent-management-2.png)
 
 ## Equipos {#teams}
 

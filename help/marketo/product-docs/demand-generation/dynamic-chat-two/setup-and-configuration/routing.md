@@ -4,9 +4,9 @@ title: Enrutando
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Regla personalizada: puede elegir agentes específicos para recibir reuniones en
 
 En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, OR y WA al agente John.
 
-1. En Dynamic Chat, seleccione **Enrutamiento**.
+1. En Configuración, haga clic en **Reglas de enrutamiento**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Asigne un nombre a la regla y haga clic en **Siguiente**.
+1. Asigne un nombre a la regla Si lo desea, puede agregar una descripción y establecer su nivel de prioridad. Clic **Siguiente**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, 
 1. Cuando haya seleccionado todos los valores deseados, haga clic en **Guardar**.
 
    ![](assets/routing-8.png)
+
+
+## Enrutamiento de cuenta {#account-routing}
+
+Identifique y cargue su cuenta de Target y sus respectivos propietarios de ventas, y enrute a los visitantes que provengan de esas cuentas directamente al propietario de la cuenta correspondiente.
+
+![](assets/routing-9.png)
+
+Enrutamiento del equipo
+
+Miembro de enrutamiento de listas inteligentes
