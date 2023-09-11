@@ -4,9 +4,9 @@ title: Criterios de audiencia
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,6 @@ La prioridad determina qué diálogo recibe un posible cliente en caso de que cu
 
 ## Eventos {#events}
 
-![](assets/audience-criteria-2.png)
-
 Los eventos le permiten segmentar visitantes en función de su desplazamiento o del tiempo que lleven en la página o sitio. En el ejemplo siguiente, se segmenta a los visitantes que han estado en una página específica durante más de 20 segundos.
 
 1. Coja el **Tiempo en la página** y arrástrelo a la derecha.
@@ -40,8 +38,6 @@ Los eventos le permiten segmentar visitantes en función de su desplazamiento o 
    ![](assets/audience-criteria-5.png)
 
 ## Atributos {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Personas conocidas**
 
@@ -96,6 +92,18 @@ Hay una manera fácil de dirigirse específicamente a personas que aún no está
 1. _Es_ está configurado de forma predeterminada. En el campo Seleccionar valores, escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
    ![](assets/audience-criteria-15.png)
+
+## Abono {#membership}
+
+Utilice listas inteligentes de Marketo Engage para la audiencia de destino del cuadro de diálogo.
+
+1. Bajo Membresía, agarrar **Miembro de lista inteligente** y suéltelo en el lienzo.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Seleccione la lista inteligente que desee.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Agregar grupos {#add-groups}
 

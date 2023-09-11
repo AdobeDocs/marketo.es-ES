@@ -4,10 +4,10 @@ title: Información general de Live Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '238'
+ht-degree: 2%
 
 ---
 
@@ -26,7 +26,7 @@ Utilice la tarjeta de chat en vivo en el [diseñador de secuencias](/help/market
 **Prácticas recomendadas**
 
 * Utilice una tarjeta de preguntas antes de la tarjeta de chat en vivo preguntando al visitante si desea conectarse.
-* Una vez que el visitante acepte conectarse, utilice la tarjeta de captura de información para obtener parte de su información, como nombre/apellido, dirección de correo electrónico, cargo, etc. (se recomienda solicitar al menos el nombre y la dirección de correo electrónico)
+* Una vez que el visitante acepte conectarse, utilice la tarjeta de captura de información para recopilar parte de su información, como nombre/apellido, dirección de correo electrónico, cargo, etc. (se recomienda solicitar al menos el nombre y la dirección de correo electrónico).
 
 ## Opciones de tarjeta de chat en vivo {#live-chat-card-options}
 

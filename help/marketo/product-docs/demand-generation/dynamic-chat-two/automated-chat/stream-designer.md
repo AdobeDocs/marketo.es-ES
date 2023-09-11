@@ -4,9 +4,9 @@ title: Diseñador de flujo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  </tr>
  <tr>
   <td><strong>Planificador de citas</strong></td>
-  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">el siguiente agente en la línea</a>.</td>
+  <td>Proporciona al visitante un calendario de fechas disponibles para programar un seguimiento. La disponibilidad del calendario refleja <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">el siguiente agente en la línea</a>. También existe la opción de transmitir atributos como el nombre o la dirección de correo electrónico del agente.</td>
+ </tr>
+ <tr>
+  <td><strong>Convocatoria de reunión</strong></td>
+  <td>Proporciona al visitante un calendario de fechas disponibles para programar una reunión. Elija la disponibilidad del calendario mediante operación por turnos, la de un agente específico o reglas personalizadas.</td>
  </tr>
  <tr>
   <td><strong>Objetivo</strong></td>
@@ -68,19 +72,19 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Agrega una cuadrícula al fondo para aquellos que prefieren esa vista</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Aumenta el tamaño, creando tarjetas más grandes</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Aleja, crea tarjetas más pequeñas</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Abre una ventana para que usted pruebe su chat (presione el mismo botón para cerrar)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Permite buscar tipos de tarjeta o contenido dentro del flujo</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 >* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* Informes de [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [Uso de la tarjeta de documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-
