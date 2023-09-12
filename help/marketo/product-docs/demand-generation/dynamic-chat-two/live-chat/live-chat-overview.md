@@ -4,9 +4,9 @@ title: Información general de Live Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 2%
 
 ---
@@ -57,5 +57,4 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
 
 >[!MORELIKETHIS]
 >
->* [Bandeja de entrada del agente](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}
->* [Notificaciones](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md){target="_blank"}
+>[Bandeja de entrada del agente](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}

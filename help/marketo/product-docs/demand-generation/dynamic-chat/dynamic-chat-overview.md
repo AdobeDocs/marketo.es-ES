@@ -1,22 +1,18 @@
 ---
 description: Información general del Dynamic Chat - Documentos de Marketo - Documentación del producto
-title: Información general de Dynamic Chat
+title: Resumen del Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '826'
 ht-degree: 2%
 
 ---
 
-# Información general de Dynamic Chat {#dynamic-chat-overview}
+# Resumen del Dynamic Chat {#dynamic-chat-overview}
 
 Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse tanto a las personas como a las cuentas que visitan el sitio web. Recopile contenido relevante, como nombre, información de contacto y texto libre. Los visitantes del sitio también pueden reservar reuniones con su equipo de ventas. Los datos de participación y actividad del Dynamic Chat se pueden utilizar para añadir miembros a programas de Marketo y actividades multicanal de déclencheur.
-
->[!NOTE]
->
->El Dynamic Chat se está implementando gradualmente y actualmente tiene una disponibilidad limitada. Esta página se actualizará con los detalles de disponibilidad general (GA) a medida que esté disponible.
 
 >[!TIP]
 >
@@ -72,7 +68,7 @@ Sí. Dynamic Chat admite los siguientes idiomas: francés, alemán, japonés, es
 
 **¿Admite la funcionalidad AI/NLP?**
 
-No admitimos la funcionalidad de IA/NLP.
+No admitimos la funcionalidad AI/NLP.
 
 **¿Cómo puedo dirigirme a personas anónimas?**
 
