@@ -4,13 +4,19 @@ title: Notificaciones
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '14'
+ht-degree: 21%
 
 ---
 
 # Notificaciones {#notifications}
 
-Acciones MSI del explorador en la aplicación
+PRÓXIMAMENTE
+
+Explorador
+
+En la aplicación
+
+Acciones MSI
