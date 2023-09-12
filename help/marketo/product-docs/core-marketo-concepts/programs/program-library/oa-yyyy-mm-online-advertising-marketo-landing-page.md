@@ -1,10 +1,8 @@
 ---
 description: Página de aterrizaje de Marketo de publicidad en línea de OA-YYYY-MM - Documentos de Marketo - Documentación del producto
 title: OA-YYYY-MM-Página de aterrizaje de Marketo de publicidad en línea
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 12%

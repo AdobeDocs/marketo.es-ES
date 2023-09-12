@@ -4,9 +4,9 @@ title: Enrutando
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -61,6 +61,6 @@ Identifique y cargue su cuenta de Target y sus respectivos propietarios de venta
 
 ![](assets/routing-9.png)
 
-Enrutamiento del equipo
+Enrutamiento del equipo - DELETE ESTAS REFERENCIAS POR AHORA
 
-Miembro de enrutamiento de listas inteligentes
+Miembro de enrutamiento de listas inteligentes: POSIBLEMENTE RETRASADO

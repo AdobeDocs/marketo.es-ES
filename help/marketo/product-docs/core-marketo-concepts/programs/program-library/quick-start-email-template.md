@@ -1,10 +1,8 @@
 ---
 description: 'Plantilla de correo electrónico de inicio rápido: documentos de Marketo, documentación del producto'
 title: Plantilla de correo electrónico de inicio rápido
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%

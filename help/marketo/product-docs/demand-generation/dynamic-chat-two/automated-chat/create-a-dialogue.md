@@ -4,7 +4,7 @@ title: Crear un cuadro de diálogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Crear un cuadro de diálogo {#create-a-dialogue}
 
-A continuación se muestra cómo crear un nuevo cuadro de diálogo.
+A continuación se muestra cómo crear un nuevo Diálogo.
 
 1. Clic **Cuadros de diálogo**.
 

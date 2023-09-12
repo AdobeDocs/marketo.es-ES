@@ -4,30 +4,28 @@ title: Crear un flujo de conversación
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Crear un flujo de conversación {#create-a-conversational-flow}
 
-Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de llamada a la acción, al cargar la página, el tiempo invertido en la página, etc.).
-
-Mencione su diferencia con los Diálogos???????????
+A continuación se muestra cómo crear un nuevo flujo de conversación.
 
 1. En Chat automatizado, haga clic en **Flujos de conversación**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Clic **Crear flujo de conversación**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Elija un Flujo de conversación en blanco o una de las plantillas rellenadas previamente. Introduzca un nombre (la descripción es opcional), cambie el idioma (opcional) y haga clic en **Crear**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >

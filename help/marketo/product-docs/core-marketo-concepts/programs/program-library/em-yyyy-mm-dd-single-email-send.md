@@ -1,10 +1,8 @@
 ---
 description: EM-AAAA-MM-DD-Envío de correo electrónico único - Documentos de Marketo - Documentación del producto
 title: EM-AAAA-MM-DD-Envío de un solo correo electrónico
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 16%
