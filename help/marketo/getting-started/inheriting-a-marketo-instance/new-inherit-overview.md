@@ -3,9 +3,9 @@ description: Aprenda a optimizar y escalar una instancia de Marketo Engage exist
 title: Jumpstart es una instancia heredada de Marketo Engage
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 1%
 
 ¿Desea iniciar un nuevo trabajo o asumir el control de una instancia existente de otro administrador? Ocuparse de una instancia en directo que ha estado ejecutándose durante un tiempo puede parecer un poco intimidante, pero esta guía le ayudará a ponerse en marcha rápidamente.
 
-## Elementos que se deben desmarcar {#items-to-check-off}
+## Prepárese para la nación del marketing {#get-set-up-in-the-marketing-nation}
 
-Asegúrese de que está correctamente configurado con los tipos adecuados de acceso e información.
+Asegúrese de que está correctamente configurado en la Comunidad de Marketo.
 
-* Vea una breve descripción general de **qué hace Marketo** - KG: ENCUENTRE MEJOR VÍDEO O DELETE
+* **[Configure su perfil]**(https://nation.marketo.com/){target="_blank"}.
 
-* **Configure su perfil** en el [**Nación de marketing**](https://nation.marketo.com/){target="_blank"} comunidad de (se requiere nombre de usuario y contraseña).
+* [**Configure su perfil**](https://nation.marketo.com/){target="_blank"}.
 
-* Lea más sobre [**Directrices de comunidad de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[Configure su perfil](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Configure su perfil](https://nation.marketo.com/){target="_blank"}**.
+
+* Lea más sobre [**Directrices de la comunidad de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Clic **[!UICONTROL Sus lugares]** en el perfil de la comunidad de Marketo Nation para consultar la página de cuenta de la empresa.
 
 * Obtenga información sobre cómo [**enviar un caso de asistencia**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Administrar usuarios**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} y elimine a los que han abandonado la compañía.
 
 ## Guías heredadas de auditoría de instancias {#inherited-instance-audit-guides}
 
