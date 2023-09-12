@@ -4,9 +4,9 @@ title: Configuración del agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ Establezca su zona horaria y la disponibilidad de hora/día de la semana para re
  <tbody> 
   <tr> 
    <td><b>Duración de la reunión</b></td>
-   <td>Longitud máxima de la reunión. - ¿QUÉ PASA? ¿SE DETIENE AUTOMÁTICAMENTE COMO ZOOM?</td>
+   <td>Determina la cantidad de tiempo que los visitantes verán en las ranuras de reunión disponibles.</td>
   </tr> 
   <tr> 
    <td><b>Tiempo de espera entre reuniones</b></td>
