@@ -4,9 +4,9 @@ title: Resumen del Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '658'
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio 
 
 **¿Durante cuánto tiempo se almacenan los datos para la creación de informes?**
 
-90 días (ver la lista completa de límites) [abajo](#limits-in-dynamic-chat)).
+90 días.
 
 **¿El Dynamic Chat permite el chat en vivo?**
 
