@@ -4,7 +4,7 @@ title: Prueba de notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
+source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 9%
@@ -22,7 +22,6 @@ A continuación encontrará todas las funciones incluidas en la versión de sept
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
 Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **8 de septiembre de 2023**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
-</br>
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -72,7 +71,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 Todas las funciones a continuación siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado junto a cada función.
 </br>
-<table style="table-layout:auto"> 
+<table style="border: none">
  <tbody> 
   <tr> 
    <th style="width:65%">Función</th> 
@@ -89,7 +88,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 
 ### Dynamic Chat {#dynamic-chat}
 
-<table style="table-layout:auto"> 
+<table style="border: 0px">
  <tbody> 
   <tr> 
    <th style="width:65%">Función</th> 
