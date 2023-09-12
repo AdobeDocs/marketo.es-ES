@@ -4,10 +4,10 @@ title: Prueba de notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 10%
+source-wordcount: '1209'
+ht-degree: 9%
 
 ---
 
@@ -41,8 +41,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 <table>
   <tr> 
-   <td><b>Función</b></td>
-   <td><strong>Utilizado por la columna Recuento para los recursos de Design Studio</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td>
+   <td style="width:20%"><b>Función</b></td>
+   <td style="width:80%"><strong>Utilizado por la columna Recuento para los recursos de Design Studio</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td>
   </tr>
   <tr> 
    <td><b>Estado</b></td>
@@ -58,9 +58,9 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Función</th> 
-   <th>Estado</th>
-   <th>Documentación</th>
+   <th style="width:70%">Función</th> 
+   <th style="width:15%">Estado</th>
+   <th style="width:15%">Documentación</th>
   </tr> 
   <tr> 
    <td><strong>Biblioteca de referencia de Marketo</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td> 
@@ -80,9 +80,44 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
  </tbody> 
 </table>
 
+* espacio
 
+* espacio
 
+* más espacio
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Función</th> 
+   <th style="width:15%">Estado</th>
+   <th style="width:20%">Documentación</th>
+  </tr> 
+  <tr> 
+   <td><strong>Biblioteca de referencia de Marketo</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td> 
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Resumen de biblioteca de importación de programas</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Utilizado por la columna Recuento para los recursos de Design Studio</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* espacio
+
+* espacio
+
+* más espacio
+
+* fin de la prueba... POR AHORA
 
 * **Utilizado por la columna Recuento para los recursos de Design Studio**:
 
