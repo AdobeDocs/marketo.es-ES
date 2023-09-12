@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 515821580741449f71df31dbd0652498fd744783
+source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
 workflow-type: tm+mt
-source-wordcount: '941'
-ht-degree: 12%
+source-wordcount: '942'
+ht-degree: 11%
 
 ---
 
@@ -32,8 +32,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Resumen de biblioteca de importación de programas</a></td>
   </tr>
   </tbody>
 </table>
