@@ -4,7 +4,7 @@ title: Configuración
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Hay varias opciones de personalización diferentes.
 
 Aquí es donde definirá el aspecto del bot de chat donde se mostrarán los cuadros de diálogo, incluidos: colores, fuentes, ubicación del widget del bot y el nombre/avatar del bot de chat.
 
-El color de cada categoría está determinado por una [valor de color hexadecimal](https://color.adobe.com/create/color-wheel) (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
+El color de cada categoría está determinado por una [valor de color hexadecimal](https://color.adobe.com/create/color-wheel){target="_blank"} (por ejemplo, blanco = #ffffff, rojo = #bf1932, etc.).
 
 ![](assets/configuration-3.png)
 

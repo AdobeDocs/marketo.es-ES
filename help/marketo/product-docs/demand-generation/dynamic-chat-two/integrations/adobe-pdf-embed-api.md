@@ -4,7 +4,7 @@ title: API de inserción de Adobe PDF
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
@@ -45,5 +45,5 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Ahora puede utilizar la tarjeta de documento en los cuadros de diálogo [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+Ahora puede utilizar la tarjeta de documento en los cuadros de diálogo [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}!
 

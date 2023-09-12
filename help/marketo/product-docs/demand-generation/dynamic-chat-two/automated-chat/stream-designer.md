@@ -4,9 +4,9 @@ title: Diseñador de flujo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1101'
 ht-degree: 2%
 
 ---
@@ -92,7 +92,7 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 
 Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, crearemos uno para un Diálogo.
 
-1. Después de que... [ha creado su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, haga clic en **Diseñador de secuencias** pestaña.
+1. Después de que... [ha creado su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}, haga clic en **Diseñador de secuencias** pestaña.
 
    ![](assets/stream-designer-6.png)
 
@@ -205,11 +205,10 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
 >[!NOTE]
 >
->Antes de hacer clic en Publicar, recuerde asegurarse de que ha [ha introducido sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target="_blank"}.
+>Antes de hacer clic en Publicar, recuerde asegurarse de que ha [ha introducido sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
->* Informes de [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
->* [Uso de la tarjeta de documento](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
+>* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"}
+>* [API de inserción de Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"}

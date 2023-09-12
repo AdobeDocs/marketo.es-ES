@@ -4,10 +4,10 @@ title: Crear un cuadro de diálogo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '79'
+ht-degree: 5%
 
 ---
 
@@ -31,10 +31,9 @@ A continuación se muestra cómo crear un nuevo Diálogo.
 >
 >La prioridad determina qué cuadro de diálogo se mostrará a un visitante cuando cumpla los requisitos para varios cuadros de diálogo simultáneamente.
 
-A continuación, aprenda a [crear un flujo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+A continuación, aprenda a [crear un flujo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
->* [Diseñador de flujo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* Informes de [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
+>* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md){target="_blank"}
+>* [Diseñador de flujo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

@@ -4,7 +4,7 @@ title: Adobe Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## Dynamic Chat de conexión {#connecting-dynamic-chat}
 
-Una vez que haya completado la [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}Sin embargo, es hora de realizar la sincronización única conectando el Dynamic Chat a su suscripción de Adobe Marketo Engage.
+Una vez que haya completado la [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md){target="_blank"}Sin embargo, es hora de realizar la sincronización única conectando el Dynamic Chat a su suscripción de Adobe Marketo Engage.
 
 1. En Mi Marketo, haga clic en **Dynamic Chat** mosaico.
 
@@ -81,5 +81,5 @@ Después de la sincronización inicial, así es como se elimina un atributo.
 
 >[!MORELIKETHIS]
 >
->[Configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}
+>[Configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md){target="_blank"}
 

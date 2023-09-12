@@ -4,9 +4,9 @@ title: Criterios de audiencia
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Al igual que las listas inteligentes de Marketo Engage, los atributos de Criteri
 
 ## Prioridad {#priority}
 
-La prioridad determina qué diálogo recibe un posible cliente en caso de que cumpla los requisitos para más de uno. Se establece cuando usted primero [cree su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. Para cambiar la prioridad de un cuadro de diálogo existente, ábralo y vaya a **Detalles del diálogo** en la pestaña Criterios de audiencia.
+La prioridad determina qué diálogo recibe un posible cliente en caso de que cumpla los requisitos para más de uno. Se establece cuando usted primero [cree su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. Para cambiar la prioridad de un cuadro de diálogo existente, ábralo y vaya a **Detalles del diálogo** en la pestaña Criterios de audiencia.
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ Hay una manera fácil de dirigirse específicamente a personas que aún no está
 
    >[!NOTE]
    >
-   >Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las introduce en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
+   >Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} las cookies y las introduce en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
 
 1. _Es_ está configurado de forma predeterminada. En el campo Seleccionar valores, escriba NY (también puede hacer clic en la lista desplegable y seleccionar en la lista).
 
@@ -136,7 +136,5 @@ Utilice exclusiones para asegurarse de que el cuadro de diálogo sí **no** apar
 
 >[!MORELIKETHIS]
 >
->* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [Diseñador de flujo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* Informes de [ ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Diseñador de flujo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

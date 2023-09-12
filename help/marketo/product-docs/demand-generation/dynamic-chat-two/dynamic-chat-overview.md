@@ -4,7 +4,7 @@ title: Resumen del Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '627'
 ht-degree: 2%
@@ -17,11 +17,11 @@ Dynamic Chat le permite aprovechar una interfaz fácil de usar para dirigirse ta
 
 >[!TIP]
 >
->Visita [esta página](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) para ver vídeos de tutoriales de Dynamic Chat.
+>Visita [esta página](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} para ver vídeos de tutoriales de Dynamic Chat.
 
 ## Integraciones {#integrations}
 
-Un componente clave de Dynamic Chat es su capacidad para interactuar de forma nativa con la suscripción de Marketo. Para aprovechar todas las capacidades de esta integración, primero debe iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas en completarse. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) para completar.
+Un componente clave de Dynamic Chat es su capacidad para interactuar de forma nativa con la suscripción de Marketo. Para aprovechar todas las capacidades de esta integración, primero debe iniciar la sincronización de datos. Según el tamaño de la base de datos de Marketo, los datos iniciales pueden tardar hasta 24 horas en completarse. [sincronización única](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md){target="_blank"} para completar.
 
 Se sincroniza lo siguiente:
 
@@ -31,27 +31,27 @@ Se sincroniza lo siguiente:
 
 ## Diálogos {#dialogues}
 
-Los cuadros de diálogo representan una única participación en el chat. Piense en él como un contenedor con todo lo que necesita para tener un diálogo de chat atractivo para los visitantes de su sitio web. En cada cuadro de diálogo, puede especificar en qué página desea que aparezca el cuadro de diálogo, a quién desea que se muestre y el contenido y flujo del propio cuadro de diálogo. Además, puede encontrar métricas para ver el rendimiento de su cuadro de diálogo. [Más información sobre los Cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+Los cuadros de diálogo representan una única participación en el chat. Piense en él como un contenedor con todo lo que necesita para tener un diálogo de chat atractivo para los visitantes de su sitio web. En cada cuadro de diálogo, puede especificar en qué página desea que aparezca el cuadro de diálogo, a quién desea que se muestre y el contenido y flujo del propio cuadro de diálogo. Además, puede encontrar métricas para ver el rendimiento de su cuadro de diálogo. [Más información sobre los Cuadros de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## Configuración {#configuration}
 
-En la pestaña Configuración, personalice el aspecto de los distintos cuadros de diálogo. Cambiar fuente, colores, tiempo de respuesta y mucho más. [Más información sobre la Configuración](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+En la pestaña Configuración, personalice el aspecto de los distintos cuadros de diálogo. Cambiar fuente, colores, tiempo de respuesta y mucho más. [Más información sobre la Configuración](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md){target="_blank"}.
 
 ## Calendario {#calendar}
 
-Conecte el calendario de Outlook o Gmail para utilizarlo en la programación de citas en el bot de chat. [Más información sobre el Calendario](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Conecte el calendario de Outlook o Gmail para utilizarlo en la programación de citas en el bot de chat. [Más información sobre el Calendario](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## Reuniones {#meetings}
 
-Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de los distintos cuadros de diálogo. [Más información sobre las Reuniones](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+Aquí es donde verá todas las citas programadas por los visitantes del sitio web a través de los distintos cuadros de diálogo. [Más información sobre las Reuniones](/help/marketo/product-docs/demand-generation/dynamic-chat-two/meeting-list.md){target="_blank"}
 
 ## Enrutando {#routing}
 
-Aquí puede ver una lista de todos los agentes que han conectado sus calendarios, el orden en que se presentarán a los visitantes del sitio web y la creación de reglas de enrutamiento personalizadas. [Más información sobre el Enrutamiento](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+Aquí puede ver una lista de todos los agentes que han conectado sus calendarios, el orden en que se presentarán a los visitantes del sitio web y la creación de reglas de enrutamiento personalizadas. [Más información sobre el Enrutamiento](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md){target="_blank"}
 
 ## Chat en directo {#live-chat}
 
-Ofrezca a sus visitantes web cualificados la posibilidad de conectarse con sus representantes de ventas a través de [chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
+Ofrezca a sus visitantes web cualificados la posibilidad de conectarse con sus representantes de ventas a través de [chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## Preguntas frecuentes {#faq}
 
