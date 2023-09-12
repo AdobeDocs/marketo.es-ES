@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 11%
 
 ---
@@ -328,6 +328,6 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 ## Anuncios {#announcements}
 
-* **Conmutar la desaprobación del conmutador para los recursos de Design Studio**: El conmutador que permite a los usuarios cambiar entre la interfaz clásica y la experiencia de usuario moderna para Design Studio quedará obsoleto, junto con la versión antigua de la experiencia de Design Studio, lo que permitirá a los usuarios migrar completamente a la experiencia de experiencia de usuario moderna.
+* **Conmutar la desaprobación del conmutador para los recursos de Design Studio**: El conmutador que permite a los usuarios cambiar entre la interfaz clásica y la experiencia de usuario moderna para Design Studio quedará obsoleto, junto con la versión antigua de la experiencia de Design Studio, lo que permitirá a los usuarios migrar completamente a la experiencia de experiencia de usuario moderna. [Obtenga más información aquí](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Seminario web sobre lanzamiento de productos_**: Únase a nosotros el 6 de septiembre de 2023, a las 9:00 AM PT / 12:00 PM ET para [seminario web en directo](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} alojado por nuestro equipo de productos, donde verá cómo utilizar todas las innovaciones de productos más recientes.

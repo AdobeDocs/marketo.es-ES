@@ -4,9 +4,9 @@ title: Prueba de notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 9%
 
 ---
@@ -117,11 +117,9 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 * más espacio
 
-* fin de la prueba... POR AHORA
-
 * **Utilizado por la columna Recuento para los recursos de Design Studio**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -135,7 +133,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 * **Mejoras en las pestañas utilizadas por los recursos de Design Studio**: la pestaña Utilizado por la mejora proporciona una vista más detallada del tipo y el nombre de un recurso, junto con dónde se está utilizando. Esto es aplicable a los detalles de correo electrónico y a los detalles de imágenes y archivos.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Estado</b></td>
    <td><b>Actualizaciones de documentación</b></td>
@@ -146,6 +144,12 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   </tbody>
 </table>
+
+* espacio
+
+* más espacio
+
+* fin de la prueba... POR AHORA
 
 * **Servicio de paso de flujo de fórmula de cómputo**: Compute Formula es un servicio de pasos de flujo creado en la plataforma de tiempo de ejecución de E/S de Adobe para su uso con campañas inteligentes de Marketo Engage. Los clientes de Adobe con tiempo de ejecución de E/S pueden implementar el servicio e instalarlo en sus suscripciones de Marketo Engage, lo que les permite calcular fórmulas similares a Excel en campañas inteligentes de Marketo.
 
