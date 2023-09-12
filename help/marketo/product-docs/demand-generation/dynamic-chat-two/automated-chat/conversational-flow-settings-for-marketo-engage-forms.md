@@ -4,9 +4,9 @@ title: Configuración De Flujo De Conversación Para Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de con
 
 >[!AVAILABILITY]
 >
->El miembro de la lista inteligente o de los criterios de miembro de la lista requiere Dynamic Chat Prime. Equipo de cuenta de Adobe !!!!!!!!!!!!!!
+>El miembro de la lista inteligente o de los criterios de miembro de la lista requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Busque y seleccione el formulario (o cree uno nuevo).
 

@@ -4,9 +4,9 @@ title: Bandeja de entrada del agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -25,17 +25,24 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 
 >[!IMPORTANT]
 >
->**Esto anulará** el [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) ha establecido en Configuración de agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
+>**Esto anulará** el [disponibilidad de chat en vivo](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} ha establecido en Configuración de agente. El estado permanecerá hasta que vuelva a cambiarlo o hasta el siguiente bloque de tiempo de su disponibilidad.
 
 >[!NOTE]
 >
 >Si establece su estado como no disponible, los chats activos no se verán afectados.
 
-## Aceptación de un chat en directo {#accepting-a-live-chat}
+## Notificaciones de chat en directo {#live-chat-notifications}
 
-Cuando un chat en vivo se dirige al agente, verá un banner azul en la parte superior de la pantalla pidiéndole que acepte.
+Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte superior de la pantalla pidiéndoles que acepten.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>También tiene la opción de configurar las notificaciones del explorador, que le avisarán en caso de que no haya iniciado sesión en Dynamic Chat.
+>
+>* Habilitar notificaciones del explorador en [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Habilitar notificaciones del explorador en [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Cosas que hay que tener en cuenta {#things-to-note}
 
