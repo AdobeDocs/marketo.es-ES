@@ -4,10 +4,10 @@ title: Enrutando
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ Identifique y cargue su cuenta de Target y sus respectivos propietarios de venta
 
 ![](assets/routing-9.png)
 
-Enrutamiento del equipo - DELETE ESTAS REFERENCIAS POR AHORA
+### Agregar una cuenta {#add-an-account}
 
-Miembro de enrutamiento de listas inteligentes: POSIBLEMENTE RETRASADO
+En este ejemplo, enrutaremos a todos los empleados desde Lego directamente al agente Steven.
+
+1. En la pestaña Enrutamiento de cuenta, haga clic en **+ Agregar cuenta**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >Puede crear varias cuentas a la vez haciendo clic en **Cargar lista de cuentas** y cargando un CSV.
+
+1. Introduzca el nombre de la empresa, el dominio y seleccione el agente deseado.
+
+   ![](assets/routing-11.png)

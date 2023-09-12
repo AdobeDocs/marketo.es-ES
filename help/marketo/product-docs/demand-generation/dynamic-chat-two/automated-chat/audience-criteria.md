@@ -4,16 +4,16 @@ title: Criterios de audiencia
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
 
 # Criterios de audiencia {#audience-criteria}
 
-Al igual que las listas inteligentes de Marketo, los atributos de Criterios de audiencia permiten definir la audiencia de destino. Puede dirigirse a personas conocidas o desconocidas mediante atributos deducidos, persona o compañía (o una combinación de ellos).
+Al igual que las listas inteligentes de Marketo Engage, los atributos de Criterios de audiencia permiten definir la audiencia de destino. Puede dirigirse a personas conocidas o desconocidas mediante atributos deducidos, persona o compañía (o una combinación de ellos).
 
 ## Prioridad {#priority}
 

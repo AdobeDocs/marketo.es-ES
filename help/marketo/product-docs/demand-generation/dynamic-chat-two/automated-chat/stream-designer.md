@@ -4,9 +4,9 @@ title: Diseñador de flujo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ No hay _muchos_ combinaciones de flujo posibles. Este artículo contiene un ejem
 
 >[!PREREQUISITES]
 >
->Para poder usar la tarjeta de documento, primero debe [configúrelo.](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} en su cuenta de Adobe.
+>Para poder usar la tarjeta de documento, primero debe [configúrelo.](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} en su cuenta de Adobe.
 
 ## Tarjetas de diseñador de Stream {#stream-designer-cards}
 
@@ -89,6 +89,8 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 </table>
 
 ## Crear una secuencia {#create-a-stream}
+
+Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, crearemos uno para un Diálogo.
 
 1. Después de que... [ha creado su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}, haga clic en **Diseñador de secuencias** pestaña.
 

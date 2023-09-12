@@ -4,16 +4,16 @@ title: Información general de Live Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
 
 # Información general de Live Chat {#live-chat-overview}
 
-Utilice la tarjeta de chat en vivo en el [diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} cuando desee que los visitantes charlen con un agente activo.
+Utilice la tarjeta de chat en vivo en el [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} cuando desee que los visitantes charlen con un agente activo.
 
 ## Uso de la tarjeta de chat en directo {#using-the-live-chat-card}
 
@@ -23,7 +23,7 @@ Utilice la tarjeta de chat en vivo en el [diseñador de secuencias](/help/market
 >
 >La tarjeta de chat en vivo siempre debe ser la última tarjeta de la sucursal. Si la tarjeta se coloca en un punto aleatorio de la rama, podría sorprender al visitante conectándolo de repente a un agente.
 
-**Prácticas recomendadas**
+### Prácticas recomendadas {#best-practices}
 
 * Utilice una tarjeta de preguntas antes de la tarjeta de chat en vivo preguntando al visitante si desea conectarse.
 * Una vez que el visitante acepte conectarse, utilice la tarjeta de captura de información para recopilar parte de su información, como nombre/apellido, dirección de correo electrónico, cargo, etc. (se recomienda solicitar al menos el nombre y la dirección de correo electrónico).
@@ -46,7 +46,7 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
   </tr>
     <tr> 
    <td><b>Reglas personalizadas</b></td>
-   <td>Todas las reglas personalizadas se someterán al ciclo cuando se considere hacia dónde dirigir al visitante. Si el visitante no cumple ninguno de los criterios, se APLICA UNA REGLA DE RESERVA???</td>
+   <td>Todas las reglas personalizadas se someterán al ciclo cuando se considere hacia dónde dirigir al visitante. Si el visitante no cumple los requisitos para ninguna regla personalizada, obtiene el <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">mensaje de reserva de chat en vivo</a>.</td>
   </tr> 
   <tr> 
    <td><b>Equipo</b></td>

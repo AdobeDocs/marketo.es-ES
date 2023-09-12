@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '9162'
+source-wordcount: '9160'
 ht-degree: 3%
 
 ---
@@ -654,10 +654,9 @@ ht-degree: 3%
          + [Actividades del Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Chat automatizado {#automated-chat}
-            + [Resumen de flujos de conversación](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [Resumen de flujo de conversación](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
             + [Crear un flujo de conversación](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Configuración de flujo de conversación para Marketo Engage Forms](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [SDK de conversaciones](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [Resumen del diálogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Crear un cuadro de diálogo](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Criterios de audiencia](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)

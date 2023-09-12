@@ -4,9 +4,9 @@ title: Configuración del agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ Establezca su zona horaria y la disponibilidad de hora/día de la semana para re
  <tbody> 
   <tr> 
    <td><b>Duración de la reunión</b></td>
-   <td>Longitud máxima de la reunión. - ¿QUÉ PASA? ¿FINALIZACIÓN AUTOMÁTICA?</td>
+   <td>Longitud máxima de la reunión. - ¿QUÉ PASA? ¿SE DETIENE AUTOMÁTICAMENTE COMO ZOOM?</td>
   </tr> 
   <tr> 
    <td><b>Tiempo de espera entre reuniones</b></td>
-   <td>Cantidad de tiempo que se establece como búfer para después de la reunión. Si lo establece para 30 minutos, nadie podrá reservar una reunión con usted hasta 31 minutos después del final programado de una reunión en su calendario. - 31 o 30???????????</td>
+   <td>Cantidad de tiempo que se establece como búfer para después de la reunión. Si lo establece para 30 minutos, nadie podrá reservar una reunión con usted hasta 30 minutos después del final programado de una reunión en su calendario.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Establece tu zona horaria y disponibilidad de hora/día de la semana para recibi
 
 ![](assets/agent-settings-5.png)
 
-Si ha iniciado sesión en la aplicación, recibirá una notificación dentro de la aplicación de un chat entrante. Si no ha iniciado sesión, recibirá una notificación del explorador.
+Si ha iniciado sesión en la aplicación, recibirá una notificación dentro de la aplicación de un chat entrante. Si no ha iniciado sesión, recibirá una notificación del explorador (si ha [configure eso](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->El [alternancia de disponibilidad](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} en la bandeja de entrada del agente **anulará** lo que introduce en la pestaña Disponibilidad de Live Chat. Por lo tanto, si está programado como disponible de 1p a 5p pero necesita tomarse un descanso rápido a 3p, no necesita alterar la configuración de su agente. El estado de la opción de disponibilidad permanecerá hasta que la cambie manualmente o hasta que llegue el siguiente bloque de tiempo de disponibilidad.
+>El [alternancia de disponibilidad](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} en la bandeja de entrada del agente **anulará** lo que introduce en la pestaña Disponibilidad de Live Chat. Por lo tanto, si está programado como disponible de 1p a 5p pero necesita tomarse un descanso rápido a 3p, no necesita alterar la configuración de su agente. El estado de la opción Disponibilidad permanecerá hasta que la cambie manualmente o hasta que llegue el siguiente bloque de tiempo de disponibilidad.
 
 >[!TIP]
 >
