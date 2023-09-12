@@ -4,9 +4,9 @@ title: Enrutando
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Las reuniones reservadas en Dynamic Chat se pueden organizar de dos maneras. Ope
 Operación por turnos: las reuniones se asignan a los agentes de forma secuencial. Así que si tienes cinco agentes y el agente tres tomó la última reunión, el agente cuatro tendrá la siguiente, seguido por el agente cinco, y luego volverá al agente uno.
 
 Regla personalizada: puede elegir agentes específicos para recibir reuniones en función de los atributos que seleccione.
+
+>[!NOTE]
+>
+>El enrutamiento de cuentas recibe la prioridad más alta. Cuando un visitante llega al punto de la conversación para reservar una reunión o iniciar una conversación en directo, [Enrutamiento de cuenta](#account-routing) primero se comprueba antes de considerar otras opciones de enrutamiento.
 
 ## Crear una regla personalizada {#create-a-custom-rule}
 
