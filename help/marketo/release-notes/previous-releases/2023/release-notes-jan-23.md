@@ -3,7 +3,7 @@ description: 'Notas de la versión, enero de 2023: Documentos de Marketo: docume
 title: Notas de la versión, enero de 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 4%
@@ -184,7 +184,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">Reuniones</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Reuniones</a></td>
   </tr>
   </tbody>
 </table>
