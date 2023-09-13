@@ -2,7 +2,7 @@
 description: 'Analytics: Documentos de Marketo: documentación del producto'
 title: Analytics
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
@@ -43,6 +43,6 @@ Vea cuántas conversaciones tuvieron sus agentes de ventas en vivo y qué equipo
 
 ![](assets/analytics-6.png)
 
-Ver cuadros de diálogo, flujos de conversación o todo. Seleccione un intervalo de fechas preestablecido o personalizado. Exporte los resultados haciendo clic en un botón.
+Ver cuadros de diálogo, flujos de conversación o todo. Seleccione un intervalo de fechas preestablecido o personalizado. Exporte los resultados con solo hacer clic en un botón.
 
 ![](assets/analytics-7.png)
