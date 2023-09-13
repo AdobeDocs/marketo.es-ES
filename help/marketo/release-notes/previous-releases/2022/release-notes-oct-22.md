@@ -3,7 +3,7 @@ description: 'Notas de la versión, octubre de 2022: Documentos de Marketo: docu
 title: Notas de la versión, octubre de 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 3%
@@ -154,7 +154,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Iconos del diseñador de secuencias</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer#stream-designer-icons">Iconos del diseñador de secuencias</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,7 +168,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Calendario</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendario</a></td>
   </tr>
   </tbody>
 </table>
