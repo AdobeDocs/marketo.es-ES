@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 4%
 
 ---
@@ -41,8 +41,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
   <tr> 
    <td><strong>Utilizado por la columna Recuento para los recursos de Design Studio</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
    <tr> 
    <td><strong>Mejoras en las pestañas utilizadas por los recursos de Design Studio</strong>: la pestaña Utilizado por la mejora proporciona una vista más detallada del tipo y el nombre de un recurso, junto con dónde se está utilizando. Esto es aplicable a los detalles de correo electrónico y a los detalles de imágenes y archivos.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td> </td> 
