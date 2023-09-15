@@ -3,9 +3,9 @@ description: Aprenda a optimizar y escalar una instancia de Marketo Engage exist
 title: Jumpstart es una instancia heredada de Marketo Engage
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
@@ -16,15 +16,9 @@ ht-degree: 1%
 
 ## Prepárese para la nación del marketing {#get-set-up-in-the-marketing-nation}
 
-Asegúrese de que está correctamente configurado en la Comunidad de Marketo.
-
-* **[Configure su perfil]**(https://nation.marketo.com/){target="_blank"}.
+Asegúrese de que está correctamente configurado en la Comunidad de países de marketing.
 
 * [**Configure su perfil**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Configure su perfil](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Configure su perfil](https://nation.marketo.com/){target="_blank"}**.
 
 * Lea más sobre [**Directrices de la comunidad de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Asegúrese de que está correctamente configurado en la Comunidad de Marketo.
 
 * Obtenga información sobre cómo [**enviar un caso de asistencia**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Guías heredadas de auditoría de instancias {#inherited-instance-audit-guides}
+## Auditoría de la instancia heredada  {#audit-your-inherited-instance}
 
-Las listas de comprobación a continuación se han combinado con la información de Marketo Champions para ayudarle a ponerse al día rápidamente. Aprenda a desplazarse por las diferentes áreas de Marketo Engage y realizar las diversas tareas necesarias para realizar una auditoría, con vínculos a la documentación de ayuda recomendada incluida.
+Adobe Professional Services (con la entrada de Marketo Champions) ha reunido varias listas de comprobación de auditoría de instancias heredadas de Marketo Engage para ayudarle a ponerse al día rápidamente. Aprenda a desplazarse por las diferentes áreas de Marketo Engage y realizar las diversas tareas necesarias para realizar una auditoría, con vínculos a la documentación de ayuda recomendada incluida.
 
 También puede descargar las listas de comprobación en forma de hoja de cálculo.
 
