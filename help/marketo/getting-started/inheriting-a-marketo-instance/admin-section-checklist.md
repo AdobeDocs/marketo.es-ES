@@ -3,9 +3,9 @@ description: Lista de comprobación de administración de instancias heredadas -
 title: Lista de comprobación de administración de instancias heredadas
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
    <td><li>¿Se ha migrado su suscripción de Marketo Engage a <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> ¿todavía? 
 <br/>     Si es así, ¿su "administrador del sistema de Adobe Admin Console" le ha concedido una función "Administrador de productos de Adobe Admin Console"? Si no está seguro de qué persona de su organización tiene privilegios de administrador en la consola, póngase en contacto con <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe del Servicio de atención al cliente</a>.</li>
 <li>¿Ha aceptado la invitación de "Marketo Engage Product Admin"? El correo electrónico se envía cuando se asigna la función en Adobe Admin Console.
-<br/>     Si no es así, busque el <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">correo electrónico de bienvenida</a> en la bandeja de entrada y acepte la invitación para activar el Adobe ID.</li></td>
+<br/>     Si no es así, busque el <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">correo electrónico de bienvenida</a> en la bandeja de entrada y acepte la invitación para activar el Adobe ID.</li></td>
   </tr>
   <tr> 
    <td>Perfil del producto</td> 
