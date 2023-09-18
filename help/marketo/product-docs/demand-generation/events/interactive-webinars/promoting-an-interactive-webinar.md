@@ -1,12 +1,10 @@
 ---
 description: 'Promoción de un seminario web interactivo: documentos de Marketo, documentación del producto'
 title: Promoción de un seminario web interactivo
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
+source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -33,4 +31,6 @@ A los pocos minutos de registrarse, la dirección URL del seminario web del miem
 
 Puede utilizar tokens para incluir la URL del seminario web a los miembros individuales de una campaña de correo electrónico para comunicar que se han registrado en el evento y para utilizar la URL de unión para entrar en el seminario web a la hora programada. Los tokens de calendario se pueden usar en la misma campaña de correo electrónico para garantizar que la programación del seminario web se pueda agregar a los calendarios de los miembros.
 
-Se han proporcionado enlaces en la [Página de información general](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) para crear una página de destino y una campaña de correo electrónico. El resto de las promociones relacionadas con un evento siguen siendo las mismas que los seminarios web de los socios que utilizan la integración de LaunchPoint.
+Los vínculos están disponibles en la parte derecha de la pestaña Información general del programa de evento para crear una página de destino y una campaña de correo electrónico. El resto de las promociones relacionadas con un evento siguen siendo las mismas que los seminarios web de los socios que utilizan la integración de LaunchPoint.
+
+![](assets/promoting-an-interactive-webinar-2.png)
