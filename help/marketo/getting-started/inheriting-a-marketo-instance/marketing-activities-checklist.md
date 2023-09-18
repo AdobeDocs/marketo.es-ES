@@ -3,9 +3,9 @@ description: Lista de comprobación de actividades de marketing de instancia her
 title: Lista de comprobación de actividades de marketing de instancias heredadas
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
  <tbody> 
   <tr> 
    <th style="width:20%">Área</th> 
-   <th>Revisar enfoque</th>
+   <th style="width:80%">Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Convenciones de nomenclatura</td> 
@@ -32,12 +32,12 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
   </tr>
   <tr> 
    <td>Programas</td> 
-   <td><li>KG - ¿SIGUE SIENDO RELEVANTE? ¿Existe alguna <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Centro de excelencia</a> con plantillas de programa? 
-   <br/>     Si es así, ¿tienen sentido las plantillas de programa para los casos de uso de los equipos?</li>
-<li>Son tipos de programas similares <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">estructurado de forma coherente</a>?</li>
+   <td><li>Son tipos de programas similares <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">estructurado de forma coherente</a>?</li>
 <li>Son <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">costes del periodo</a> ¿poner en marcha?</li>
 <li>Son todos los programas <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">Sincronizado con campañas de SFDC</a> (si procede)?</li>
-<li>¿Tiene pasos de flujo para asignar un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de adquisición</a> a la gente?</li></td>
+<li>¿Tiene pasos de flujo para asignar un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de adquisición</a> a la gente?</li>
+<li>¿Existe una ubicación central configurada para las plantillas de programa? 
+   <br/>     Si no es así, elija entre varios ejemplos de programa pregenerados del <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Biblioteca del programa para Marketo Engage</a>.</li></td>
   </tr>
   <tr> 
    <td>Archivar</td> 
@@ -45,14 +45,14 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
 <li>¿Con qué frecuencia revisa y archiva su empresa los programas antiguos?</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Es bueno realizar una revisión cada año.</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Notificaciones</td> 
    <td><li>¿Hay algún error de campaña en <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Pestaña Notificaciones</a> en la parte superior de su instancia?</li>
 <li>¿Es usted? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">suscrito a notificaciones</a> para mantenerse al tanto de cualquier error que pueda surgir en el futuro?</li></td>
   </tr>
   <tr> 
    <td>Suscripciones de listas inteligentes 
-   <br/>(Pestaña Actividades de marketing/Suscripciones)</td> 
+   <br/>(Actividades de marketing/Suscripciones)</td> 
    <td><li>¿Hay en curso? <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Suscripciones de listas inteligentes</a> en su instancia? Si es así, ¿a quién van a ir?</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Considere la posibilidad de configurar suscripciones de listas inteligentes para que vayan a un alias de equipo en lugar de a un individuo. Esto le cubre en caso de que haya personas fuera de la oficina.</td>
   </tr>
@@ -65,7 +65,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
  <tbody> 
   <tr> 
    <th style="width:20%">Área</th> 
-   <th>Revisar enfoque</th>
+   <th style="width:80%">Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
@@ -79,7 +79,8 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
 <li>¿Cuántos <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">la gente está agotada</a>? 
 <br/>     Si hay muchas personas agotadas, considere <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adición de contenido</a>.</li>
 <li>Son personas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">interacción con el contenido</a>? 
-<br/>     Si no es así, considere la posibilidad de actualizarla o realizar pruebas A/B.</li></td>
+<br/>     Si no es así, considere la posibilidad de actualizarla o realizar pruebas A/B.</li>
+<li>¿Ha encontrado alguna persona en varios programas de participación? ¿Deberían estar en más de uno?</li></td>
   </tr>
   <tr> 
    <td>Campañas por lotes</td> 
@@ -117,7 +118,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
  <tbody> 
   <tr> 
    <th style="width:20%">Área</th> 
-   <th>Revisar enfoque</th>
+   <th style="width:80%">Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Puntuación de persona</td> 
@@ -151,7 +152,7 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
   <tr> 
    <td>Entrega de correo electrónico</td> 
    <td><li>Extraer un <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Informe de rendimiento de correo electrónico</a> para envíos en los últimos meses. ¿Qué aspecto tiene la entrega del correo electrónico?</li>
-<li>Si la capacidad de entrega del correo electrónico es deficiente, considere la posibilidad de investigar e implementar prácticas recomendadas de entrega de correo electrónico como <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF y DKIM</a>.</li>
+<li>Si la capacidad de envío de correo electrónico no es tan sólida como le gustaría, considere la posibilidad de investigar e implementar las prácticas recomendadas de envío de correo electrónico como <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF y DKIM</a>.</li>
 <li>¿Se está poniendo en contacto con toda su audiencia comercializable?</li></td>
   </tr>
   <tr> 
