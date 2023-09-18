@@ -3,7 +3,7 @@ description: Lista de comprobación de actividades de marketing de instancia her
 title: Lista de comprobación de actividades de marketing de instancias heredadas
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 2%
@@ -16,11 +16,11 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
 
 ## Organización {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Área</th> 
-   <th style="width:80%">Revisar enfoque</th>
+   <th style="width:30%">Área</th> 
+   <th style="width:70%">Revisar enfoque</th>
   </tr> 
   <tr> 
    <td>Convenciones de nomenclatura</td> 
@@ -61,12 +61,12 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
 
 ## Recursos {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Área</th> 
-   <th style="width:80%">Revisar enfoque</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Área</th>
+   <th style="width:70%">Revisar enfoque</th>
+  </tr>
   <tr> 
    <td>Tokens</td> 
    <td><li>Son <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> ¿se está utilizando en los tipos de programas más utilizados? 
@@ -114,12 +114,12 @@ Organice correctamente la sección Actividades de marketing para ayudar a otros 
 
 ## Programas operativos {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Área</th> 
-   <th style="width:80%">Revisar enfoque</th>
-  </tr> 
+   <th style="width:30%">Área</th> 
+   <th style="width:70%">Revisar enfoque</th>
+  </tr>
   <tr> 
    <td>Puntuación de persona</td> 
    <td><li>¿Tiene una actividad de <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">puntuación de persona</a> programa en su lugar?</li>

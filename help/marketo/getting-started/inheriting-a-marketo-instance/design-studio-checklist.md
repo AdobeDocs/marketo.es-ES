@@ -3,9 +3,9 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,11 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
 <li>¿La mayoría de los programas utilizan formularios globales o locales?</li>
 <li>¿Todos los formularios recopilan los datos adecuados para el marketing y las ventas?</li>
 <li>¿Se aprovechan correctamente los valores ocultos?</li>
-<li>¿Se está utilizando algún formulario de Marketo Engage en su sitio web (no páginas de destino de Marketo Engage)?</li></td>
+<li>¿Se están utilizando formularios de Marketo Engage en páginas de aterrizaje que no sean de Marketo Engage? ¿Cómo se las menciona?</li>
+<p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Actualice las páginas en las que incruste formularios de Marketo Engage con el nuevo código incrustado introducido (requiere páginas de aterrizaje seguras).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Estandarización de datos</td> 
