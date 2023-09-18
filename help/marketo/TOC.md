@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 3%
 
 ---
@@ -707,6 +707,7 @@ ht-degree: 3%
             + [Administración de usuarios y licencias](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Crear un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Diseño de seminarios web interactivos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Promoción de un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Modificar o eliminar un seminario web interactivo](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Flujos de trabajo de eventos](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
