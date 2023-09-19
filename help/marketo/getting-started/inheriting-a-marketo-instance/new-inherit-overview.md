@@ -3,9 +3,9 @@ description: Aprenda a optimizar y escalar una instancia de Marketo Engage exist
 title: Jumpstart es una instancia heredada de Marketo Engage
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ Asegúrese de que está correctamente configurado en la Comunidad de países de 
 * [**Configure su perfil**](https://nation.marketo.com/){target="_blank"}.
 
 * Lea más sobre [**Directrices de la comunidad de marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* Clic **[!UICONTROL Sus lugares]** en el perfil de la comunidad de Marketo Nation para consultar la página de cuenta de la empresa.
 
 * Obtenga información sobre cómo [**enviar un caso de asistencia**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
@@ -46,7 +44,7 @@ Nuestro equipo de la comunidad fusionará sus perfiles de la comunidad en 4-6 d�
 
 Adobe, con la entrada de Marketo Champions, ha reunido varias listas de comprobación de auditoría de instancias heredadas de Marketo Engage para ayudarle a ponerse al día rápidamente. Aprenda a desplazarse por las diferentes áreas de Marketo Engage y realizar las diversas tareas necesarias para realizar una auditoría, con vínculos a la documentación de ayuda recomendada incluida.
 
-También puede descargar las listas de comprobación en forma de hoja de cálculo.
+También puede [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) en forma de hoja de cálculo.
 
 * [Sección Administración](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

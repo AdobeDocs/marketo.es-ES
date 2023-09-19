@@ -3,7 +3,7 @@ description: Lista de comprobación de administración de instancias heredadas -
 title: Lista de comprobación de administración de instancias heredadas
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Instancia heredada: Lista de comprobación de sección de administración {#inherited-instance-admin-section-checklist}
 
-Las listas de comprobación siguientes (listas de comprobación subsiguientes vinculadas al final de cada artículo) han sido elaboradas por Adobe Professional Services con los datos de Marketo Champions para ayudarle a ponerse al día rápidamente. También puede descargar las listas de comprobación y realizar un seguimiento del progreso.
+Las listas de comprobación siguientes (listas de comprobación subsiguientes vinculadas al final de cada artículo) han sido elaboradas por Adobe Professional Services con los datos de Marketo Champions para ayudarle a ponerse al día rápidamente. También puede [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) y realice un seguimiento de su progreso.
 
 >[!TIP]
 >

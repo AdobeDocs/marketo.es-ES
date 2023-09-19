@@ -3,7 +3,7 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 3%
@@ -30,7 +30,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   </tr>
   <tr> 
    <td>Plantillas</td> 
-   <td><li>¿Cuántos <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Plantillas de página de aterrizaje</a> ¿hay? ¿Se están aprovechando?</li></td>
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Plantillas de página de aterrizaje</a> ¿hay? ¿Se están aprovechando?</li></td>
   </tr>
   <tr> 
    <td>Grupos de prueba</td> 
@@ -84,7 +84,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
 <li>¿Se aprovechan correctamente los valores ocultos?</li>
 <li>¿Se están utilizando formularios de Marketo Engage en páginas de aterrizaje que no sean de Marketo Engage? ¿Cómo se las menciona?</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Actualice las páginas en las que incruste formularios de Marketo Engage con el nuevo código incrustado introducido (requiere páginas de aterrizaje seguras).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="miniatura de código"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="miniatura de código"></a>
 </td>
   </tr>
   <tr> 
