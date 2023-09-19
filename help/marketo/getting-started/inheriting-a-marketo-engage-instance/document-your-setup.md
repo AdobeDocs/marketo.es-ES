@@ -2,7 +2,7 @@
 description: 'Documento de instancia heredada durante la configuración: documentos de Marketo, documentación del producto'
 title: Documento de instancia heredada de la configuración
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -71,4 +71,4 @@ Ahora que ha aprendido las áreas de producto clave para auditar al heredar una 
  </tbody> 
 </table>
 
-[◄ de una instancia heredada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[◄ de una instancia heredada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

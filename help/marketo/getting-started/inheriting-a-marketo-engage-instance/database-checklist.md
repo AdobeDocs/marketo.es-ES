@@ -2,7 +2,7 @@
 description: Lista de comprobación de base de datos de instancias heredadas - Documentos de Marketo - Documentación del producto
 title: Lista de comprobación de base de datos de instancias heredadas
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 6%
@@ -11,7 +11,7 @@ ht-degree: 6%
 
 # Instancia heredada: Lista de comprobación de base de datos {#inherited-instance-database-checklist}
 
-Comprenda la cantidad total de personas, las personas comercializables y las fuentes principales de adquisición de personas en su suscripción. Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) y realice un seguimiento de su progreso.
+Comprenda la cantidad total de personas, las personas comercializables y las fuentes principales de adquisición de personas en su suscripción. Recuerde lo siguiente [descargar las listas de comprobación](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) y realice un seguimiento de su progreso.
 
 ## Listas inteligentes del sistema {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
 
 <br> 
 
-[◄ una instancia heredada: Administración](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄ una instancia heredada: Administración](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Auditoría de una instancia heredada: ► de actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Auditoría de una instancia heredada: ► de actividades de marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
