@@ -3,7 +3,7 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 3%
@@ -94,6 +94,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   <tr> 
    <td>Pruebas de correo electrónico</td> 
    <td><li>¿Cómo usa <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">prueba de correo electrónico</a>? ¿Sigue siendo eficaz su método?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>Privacidad y cumplimiento</td> 

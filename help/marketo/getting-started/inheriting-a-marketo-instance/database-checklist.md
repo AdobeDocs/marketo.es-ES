@@ -3,10 +3,10 @@ description: Lista de comprobación de base de datos de instancias heredadas - D
 title: Lista de comprobación de base de datos de instancias heredadas
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 7%
+source-wordcount: '421'
+ht-degree: 6%
 
 ---
 
@@ -74,6 +74,7 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
   <tr> 
    <td>Listas inteligentes</td> 
    <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Listas inteligentes</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li>
+   <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: En la sección Base de Datos, las Listas Inteligentes de Grupo son generadas por el usuario y las Listas Inteligentes de Sistema son listas por defecto creadas por el Marketo Engage.
 <li>¿Las listas están organizadas en una estructura de carpetas coherente? 
 <br/>     Si tiene listas de huérfanos, considere la posibilidad de organizar el árbol para que los recursos sean fáciles de encontrar.</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archivando</a> Las listas inteligentes que ya no son necesarias ayudarán a la organización y al rendimiento.</td>
@@ -91,7 +92,8 @@ Comprenda la cantidad total de personas, las personas comercializables y las fue
   </tr> 
   <tr> 
    <td>Listas estáticas</td> 
-   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listas estáticas</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li></td>
+   <td><li>¿Cuántos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Listas estáticas</a> ¿hay? ¿Cómo se utilizan en esta instancia?</li>
+   <p><img src="assets/note-icon.png" alt="icono de nota"> NOTA: En la sección Base de Datos, las Listas de Grupos son Listas Estáticas.</td>
   </tr>
  </tbody> 
 </table>
