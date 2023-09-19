@@ -3,9 +3,9 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 3%
 
 ---
@@ -41,6 +41,31 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
  </tbody> 
 </table>
 
+## Imágenes y archivos {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Área</th> 
+   <th>Revisar enfoque</th>
+  </tr> 
+  <tr> 
+   <td>Convenciones de nomenclatura</td> 
+   <td><li>Hacer <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">imágenes y archivos</a> ¿tiene convenciones de nomenclatura coherentes?</li></td>
+  </tr>
+  <tr> 
+   <td>Estructura de carpetas</td> 
+   <td><li>Son imágenes y archivos <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organizado adecuadamente</a> y fácil de buscar?</li></td>
+  </tr>
+  <tr> 
+   <td>Imágenes y archivos</td> 
+   <td><li>Hacer cualquier imagen o archivo <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">con referencia en páginas web</a> ¿necesita actualizarse? 
+   <p>Ejemplo: La estructura de URL codificada <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">es posible que haya que actualizar</a>, como <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Póngase en contacto con el desarrollador web para determinar dónde puede necesitar realizar las actualizaciones.</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Formularios {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
 <li>¿Se aprovechan correctamente los valores ocultos?</li>
 <li>¿Se están utilizando formularios de Marketo Engage en páginas de aterrizaje que no sean de Marketo Engage? ¿Cómo se las menciona?</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Actualice las páginas en las que incruste formularios de Marketo Engage con el nuevo código incrustado introducido (requiere páginas de aterrizaje seguras).
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
  </tbody> 
 </table>
 
-## Imágenes y archivos {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Área</th> 
-   <th>Revisar enfoque</th>
-  </tr> 
-  <tr> 
-   <td>Convenciones de nomenclatura</td> 
-   <td><li>Hacer <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">imágenes y archivos</a> ¿tiene convenciones de nomenclatura coherentes?</li></td>
-  </tr>
-  <tr> 
-   <td>Estructura de carpetas</td> 
-   <td><li>Son imágenes y archivos <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">organizado adecuadamente</a> y fácil de buscar?</li></td>
-  </tr>
-  <tr> 
-   <td>Imágenes y archivos</td> 
-   <td><li>Hacer cualquier imagen o archivo <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">con referencia en páginas web</a> ¿necesita actualizarse? 
-   <p>Ejemplo: La estructura de URL codificada <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">es posible que haya que actualizar</a>, como <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>Póngase en contacto con el desarrollador web para determinar dónde puede necesitar realizar las actualizaciones.</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## Todos los recursos {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
   </tr> 
   <tr> 
    <td>Estado del recurso</td> 
-   <td><li>Cuántos recursos hay en <i>Borrador</i> y <i>Aprobado con borrador</i> ¿status?
+   <td><li>Cuántos recursos hay en <i>Borrador</i> y <i>Aprobado con borrador</i> estado (por ejemplo, p. ej., <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">correos electrónicos</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Páginas de aterrizaje</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">formularios</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">fragmentos</a>)?
    <br/>     Si hay muchos, considere la posibilidad de eliminarlos o aprobarlos.</li></td>
   </tr>
   <tr> 
