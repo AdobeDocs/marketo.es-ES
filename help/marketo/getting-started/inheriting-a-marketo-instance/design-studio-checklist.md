@@ -3,7 +3,7 @@ description: 'Lista de comprobación heredada de Instance Design Studio: documen
 title: Lista de comprobación heredada de Instance Design Studio
 hide: true
 hidefromtoc: true
-source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
+source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 3%
@@ -84,9 +84,9 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
 <li>¿Se aprovechan correctamente los valores ocultos?</li>
 <li>¿Se están utilizando formularios de Marketo Engage en páginas de aterrizaje que no sean de Marketo Engage? ¿Cómo se las menciona?</li>
 <p><img src="assets/tip-icon.png" alt="icono de sugerencia">SUGERENCIA: Actualice las páginas en las que incruste formularios de Marketo Engage con el nuevo código incrustado introducido (requiere páginas de aterrizaje seguras).
-<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<blockquote><form id="mktoForm_1"></form></blockquote>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_1"></form>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
 </td>
   </tr>
   <tr> 
