@@ -2,9 +2,9 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 3%
 
 ---
@@ -52,16 +52,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td><strong>Mejoras en las pestañas utilizadas por los recursos de Design Studio</strong>: la pestaña Utilizado por la mejora proporciona una vista más detallada del tipo y el nombre de un recurso, junto con dónde se está utilizando. Esto es aplicable a los detalles de correo electrónico y a los detalles de imágenes y archivos.</td> 
    <td>Enviado</td>
    <td>n/a</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Servicio de paso de flujo de fórmula de cómputo</strong>: Compute Formula es un servicio de pasos de flujo creado en la plataforma de tiempo de ejecución de E/S de Adobe para su uso con campañas inteligentes de Marketo Engage. Los clientes de Adobe con tiempo de ejecución de E/S pueden implementar el servicio e instalarlo en sus suscripciones de Marketo Engage, lo que les permite calcular fórmulas similares a Excel en campañas inteligentes de Marketo.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
   </tr>
  </tbody> 
 </table>
