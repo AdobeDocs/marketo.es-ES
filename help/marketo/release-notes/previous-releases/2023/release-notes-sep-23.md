@@ -2,9 +2,9 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 3%
 
 ---
@@ -39,7 +39,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Utilizado por la columna Recuento para los recursos de Design Studio</strong>: la biblioteca de referencia del programa Marketo Engage permite a los usuarios importar programas de "ejemplo" y otros recursos que representan las prácticas recomendadas por el Adobe. Nuestro equipo de gestión de productos ha actualizado completamente la biblioteca y proporciona herramientas más valiosas para aquellos que desean iniciar su programa rápidamente.</td> 
+   <td><strong>Utilizado por la columna Recuento para los recursos de Design Studio</strong>: la columna Utilizado por recuento para vistas de lista en Design Studio resalta el número de recursos que se están utilizando. Esto es aplicable a fragmentos de código, plantillas de correo electrónico, Forms y plantillas de página de aterrizaje.</td> 
    <td>Enviado</td>
    <td>n/a</td>
   </tr>
