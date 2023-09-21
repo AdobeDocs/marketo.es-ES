@@ -2,10 +2,10 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 3%
+source-wordcount: '872'
+ht-degree: 2%
 
 ---
 
@@ -52,6 +52,26 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td><strong>Mejoras en las pestañas utilizadas por los recursos de Design Studio</strong>: la pestaña Utilizado por la mejora proporciona una vista más detallada del tipo y el nombre de un recurso, junto con dónde se está utilizando. Esto es aplicable a los detalles de correo electrónico y a los detalles de imágenes y archivos.</td> 
    <td>Enviado</td>
    <td>n/a</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Localización para seminarios web interactivos</strong>: Esto le permite ver los detalles del programa de eventos de seminarios web interactivos de Marketo en el idioma deseado, así como elegir el idioma de entrega para que pueda ser diferente del idioma del usuario de Marketo que creó el programa de eventos.</td> 
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Preguntas frecuentes sobre seminarios web interactivos</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Administración de acceso de usuario para seminarios web interactivos</strong>: Administración de acceso de usuarios permite a los usuarios de los seminarios web interactivos acceder únicamente a los programas de eventos a los que están permitidos, lo que ayuda a evitar el acceso no autorizado.</td> 
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Acceso del usuario</a></td>
   </tr>
  </tbody> 
 </table>
