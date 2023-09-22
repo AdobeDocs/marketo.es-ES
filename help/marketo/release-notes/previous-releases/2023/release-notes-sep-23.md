@@ -2,7 +2,7 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 2%
@@ -59,7 +59,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>Localización para seminarios web interactivos</strong>: Esto le permite ver los detalles del programa de eventos de seminarios web interactivos de Marketo en el idioma deseado, así como elegir el idioma de entrega para que pueda ser diferente del idioma del usuario de Marketo que creó el programa de eventos.</td> 
+   <td><strong>Localización para seminarios web interactivos</strong>: Esto le permite ver los detalles del programa de eventos de seminarios web interactivos de Marketo en el idioma deseado, así como elegir el idioma de entrega si lo desea diferente del idioma del usuario de Marketo que creó el programa de eventos.</td> 
    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Preguntas frecuentes sobre seminarios web interactivos</a></td>
   </tr>
