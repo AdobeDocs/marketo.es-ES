@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 3%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 3%
          + Instalación y configuración {#setup-and-configuration}
             + [Configuración inicial](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Agregar o quitar usuarios de chat](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Permisos](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Configuración](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Configuración del agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Administración de agentes](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -980,7 +981,7 @@ ht-degree: 3%
             + [Publicar un sorteo](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Seleccionar ganadores de sorteos](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + Marketing por correo electrónico {#email-marketing}
-      + Entrega {#deliverability}
+      + Capacidad de envío {#deliverability}
          + [Cancelación de suscripción duradera](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Paquete de funciones de entrega de correo electrónico: Cómo importar una lista de semillas](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Devoluciones graves y leves en correos electrónicos](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1811,7 +1812,7 @@ ht-degree: 3%
             + [Definición de Costes de Períodos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Habilitar la sincronización de campos personalizados para el ciclo de ingresos de Analytics](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Informe Personas por Etapa de Ingresos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Atributo {#attribution}
+            + Atribución {#attribution}
                + [Explicación de la atribución](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [Ejemplo 1 de atribución](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [Ejemplo 2 de atribución](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1832,7 +1833,7 @@ ht-degree: 3%
          + [Configurar la perspectiva de cuenta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Información general del complemento de Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Invitar a usuarios a acceder a Account Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Destino {#target}
+      + Target {#target}
          + Cuentas con nombre {#named-accounts}
             + [Resumen de cuenta con nombre](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importar cuentas con nombre](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
