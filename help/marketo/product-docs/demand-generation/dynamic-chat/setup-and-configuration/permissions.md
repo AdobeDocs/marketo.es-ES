@@ -4,9 +4,9 @@ title: Permisos
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 # Permisos {#permissions}
 
 Administre el acceso de los usuarios a las distintas áreas en Dynamic Chat.
+
+## Personalizar permisos {#customize-permissions}
 
 1. En el [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, haga clic en **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ Ahora puede repetir este proceso para todas las demás áreas de Dynamic Chat.
 
 ## Lista de permisos {#list-of-permissions}
 
-A continuación, se muestra una lista de todos los permisos disponibles ordenados por área.
+A continuación, se muestra una lista de todos los permisos disponibles para cada área.
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ A continuación, se muestra una lista de todos los permisos disponibles ordenado
     <td><li>Bandeja de entrada del agente</li>
     <li>Ver mis conversaciones</li>
     <li>Ver todas las conversaciones</li>
-    <li>Ver resumen de conversación<b>*</b></li>
-    <li>Ver respuestas asistidas<b>*</b></li></td>
+    <li>Ver resumen de conversación <b>*</b></li>
+    <li>Ver respuestas asistidas <b>*</b></li></td>
   </tr>
   <tr>
     <td>Reuniones</td>
@@ -96,21 +98,21 @@ A continuación, se muestra una lista de todos los permisos disponibles ordenado
   </tr>
   <tr>
     <td>Configuración del administrador</td>
-    <td><li>Ver espacios de trabajo<b>*</b></li>
-    <li>Administrar espacios de trabajo (crear, editar, eliminar)<b>*</b></li>
+    <td><li>Ver espacios de trabajo <b>*</b></li>
+    <li>Administrar espacios de trabajo (crear, editar, eliminar) <b>*</b></li>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
-    <li>Ver lista de cuentas<b>*</b></li>
-    <li>Administrar cuentas (añadir, editar, eliminar)<b>*</b></li>
+    <li>Ver lista de cuentas <b>*</b></li>
+    <li>Administrar cuentas (añadir, editar, eliminar) <b>*</b></li>
     <li>Administrar configuración del bot de chat</li>
     <li>Administrar configuración de flujos de conversación</li>
     <li>Administración de privacidad y seguridad</li>
     <li>Administrar integraciones</li>
-    <li>Administrar idiomas<b>*</b></li>
+    <li>Administrar idiomas <b>*</b></li>
     <li>Administrar agentes</li>
-    <li>Ver equipos del agente<b>*</b></li>
-    <li>Administrar equipos de agentes (añadir, editar, eliminar)<b>*</b></li>
+    <li>Ver equipos del agente <b>*</b></li>
+    <li>Administrar equipos de agentes (añadir, editar, eliminar) <b>*</b></li>
     <li>Ver límites de uso</li></td>
   </tr>
 </tbody>
