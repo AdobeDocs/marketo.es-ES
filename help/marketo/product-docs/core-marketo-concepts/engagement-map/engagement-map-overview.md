@@ -2,16 +2,16 @@
 description: Información general del mapa de participación - Documentos de Marketo - Documentación del producto
 title: Información general del mapa de participación
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Información general del mapa de participación {#engagement-map-overview}
 
-El mapa de participación le permite crear campañas inteligentes reutilizables con la ayuda de imágenes intuitivas. Ofrece compatibilidad total con versiones anteriores de todas las campañas inteligentes de Marketo Engage existentes, sin la pérdida de ninguna función actual.
+El Mapa de participación le permite visualizar de forma intuitiva sus campañas inteligentes. Ofrece compatibilidad total con versiones anteriores de todas las campañas inteligentes de Marketo Engage existentes, sin la pérdida de ninguna función actual.
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ No. El mapa de participación es totalmente compatible con versiones anteriores.
 
 **¿Tener el Mapa de participación en Marketo Engage significa que perderé acceso a la estructura de carpetas y tendré que volver a aprender a crear una campaña inteligente?**
 
-No. Lo bueno del Mapa de participación es que te ofrece lo mejor de ambos mundos; es complementario a la forma actual de crear campañas. Puede elegir si desea utilizar la IU existente o crear/visualizar en la nueva IU. Todos los usuarios seguirán teniendo el potente conjunto de funciones de Marketo Engage, ahora complementado por una herramienta de creación visual.
+No. Lo bueno del Mapa de participación es que te ofrece lo mejor de ambos mundos; es complementario a la forma actual de crear campañas. Todos los usuarios seguirán teniendo el potente conjunto de funciones de Marketo Engage, ahora complementado por imágenes claras.
 
 **¿Es el mapa de participación un complemento de pago?**
 
@@ -86,10 +86,6 @@ No. Todos los usuarios actuales y nuevos de Marketo Engage con todas las suscrip
 **Como administrador de Marketo Engage, ¿soy responsable de activar o desactivar el Mapa de participación?**
 
 No. El mapa de participación estará disponible para todos los usuarios en sus instancias. No podrá activarlo/desactivarlo para determinados usuarios, espacios de trabajo, etc.
-
-**¿Todo lo que hay actualmente disponible en Campañas inteligentes también está disponible en el Mapa de participación?**
-
-Sí. El Mapa de participación tiene paridad de funciones completa con las Campañas inteligentes.
 
 **¿En qué se diferencia esto de otros creadores visuales?**
 

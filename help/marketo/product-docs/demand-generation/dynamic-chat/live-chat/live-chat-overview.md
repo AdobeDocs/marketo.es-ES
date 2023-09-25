@@ -2,18 +2,20 @@
 description: Información general de Live Chat - Documentos de Marketo - Documentación del producto
 title: Información general de Live Chat
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
 
 # Información general de Live Chat {#live-chat-overview}
 
-Utilice la tarjeta de chat en vivo en el [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} cuando desee que los visitantes charlen con un agente activo.
+El chat en vivo permite a los visitantes del sitio web entablar conversaciones de chat en tiempo real con sus agentes de ventas.
 
 ## Uso de la tarjeta de chat en directo {#using-the-live-chat-card}
+
+Utilice la tarjeta de chat en vivo en el [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} cuando desee que los visitantes charlen con un agente activo.
 
 ![](assets/live-chat-overview-1.png)
 
