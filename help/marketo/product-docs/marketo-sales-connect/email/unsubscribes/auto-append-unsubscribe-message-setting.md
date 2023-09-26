@@ -4,7 +4,7 @@ title: Anexar automáticamente la configuración del mensaje de cancelación de 
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -37,4 +37,4 @@ Asegúrese de que cada correo electrónico enviado incluya un mensaje de cancela
 
 >[!TIP]
 >
->Si desactiva la configuración del mensaje de cancelación de suscripción de datos anexados, le recomendamos que agregue un pie de página de cancelación de suscripción a las plantillas para garantizar que la comunicación tenga una opción de exclusión. Para ello, agregue su propio mensaje personalizado a cada plantilla o utilice el `{{team_unsubscribe}}` campo dinámico.
+>Si desactiva la configuración del mensaje de cancelación de suscripción de datos anexados, le recomendamos que agregue un pie de página de cancelación de suscripción a las plantillas para garantizar que la comunicación tenga una opción de exclusión. Para ello, agregue su propio mensaje personalizado a cada plantilla o utilice el `{{team_unsubscribe}}` [campo dinámico](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.

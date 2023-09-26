@@ -2,16 +2,22 @@
 description: Información general de Live Chat - Documentos de Marketo - Documentación del producto
 title: Información general de Live Chat
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 2%
+source-wordcount: '322'
+ht-degree: 1%
 
 ---
 
 # Información general de Live Chat {#live-chat-overview}
 
 El chat en vivo permite a los visitantes del sitio web entablar conversaciones de chat en tiempo real con sus agentes de ventas.
+
+## Añadir agentes de chat en directo {#add-live-chat-agents}
+
+Para comenzar con el chat en vivo, tendrás que agregar tus agentes de chat en vivo como [usuarios en Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Una vez hecho esto, puede agregar una [tarjeta de chat en vivo](#using-the-live-chat-card) a un cuadro de diálogo nuevo o existente.
+
+Cuando los visitantes soliciten hablar con un agente a través de su cuadro de diálogo, los agentes tendrán varios [opciones de notificación](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} donde pueden comenzar a chatear con el visitante.
 
 ## Uso de la tarjeta de chat en directo {#using-the-live-chat-card}
 
