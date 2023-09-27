@@ -2,9 +2,9 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '889'
 ht-degree: 2%
 
 ---
@@ -267,3 +267,5 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 ## Anuncios {#announcements}
 
 * **Conmutar la desaprobación del conmutador para los recursos de Design Studio**: El conmutador que permite a los usuarios cambiar entre la interfaz clásica y la experiencia de usuario moderna para Design Studio quedará obsoleto, junto con la versión antigua de la experiencia de Design Studio, lo que permitirá a los usuarios migrar completamente a la experiencia de experiencia de usuario moderna. [Obtenga más información aquí](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+
+* **_Seminario web sobre lanzamiento de productos_**: [Seminario web de julio y septiembre de 2023 sobre la versión para Marketo Engage](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
