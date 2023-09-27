@@ -2,9 +2,9 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '937'
 ht-degree: 2%
 
 ---
@@ -265,6 +265,8 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
 <br/>
 
 ## Anuncios {#announcements}
+
+* **Desaprobación de eventos de Marketo y momentos de Marketo**: el Adobe eliminará los eventos de Marketo y los momentos de Marketo de todas las tiendas de aplicaciones a partir del 2 de octubre de 2023. Usuarios existentes: puede seguir utilizando estas aplicaciones hasta que migre la instancia de Marketo Engage a Identidad de Adobe. Estas aplicaciones no admiten el inicio de sesión con Adobe ID.
 
 * **Conmutar la desaprobación del conmutador para los recursos de Design Studio**: El conmutador que permite a los usuarios cambiar entre la interfaz clásica y la experiencia de usuario moderna para Design Studio quedará obsoleto, junto con la versión antigua de la experiencia de Design Studio, lo que permitirá a los usuarios migrar completamente a la experiencia de experiencia de usuario moderna. [Obtenga más información aquí](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
