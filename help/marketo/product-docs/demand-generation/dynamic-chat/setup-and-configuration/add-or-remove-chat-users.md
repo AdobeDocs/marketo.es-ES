@@ -2,10 +2,11 @@
 description: 'Adición o eliminación de usuarios de chat: documentos de Marketo: documentación del producto'
 title: Agregar o quitar usuarios de chat
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -43,7 +44,7 @@ Siga los pasos a continuación para agregar o eliminar usuarios de chat.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -99,5 +100,5 @@ Si la función de Marketo del usuario de chat recién agregado no tiene permiso 
 
 >[!MORELIKETHIS]
 >
->* [Usuarios de Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Usuarios de Adobe Admin Console](https://helpx.adobe.com/es/enterprise/using/users.html){target="_blank"}
 >* [Administrar usuarios individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

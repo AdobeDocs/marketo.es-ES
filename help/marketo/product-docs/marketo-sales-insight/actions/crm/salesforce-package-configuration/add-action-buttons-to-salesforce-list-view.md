@@ -1,10 +1,11 @@
 ---
 description: 'Añadir botones de acción a la vista de lista de Salesforce: Documentos de Marketo: documentación del producto'
 title: Añadir botones de acción a la vista de lista de Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+exl-id: 347cc5d2-dd7a-4221-b00f-812cf484938a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -32,7 +33,7 @@ Los botones de acción para instalar incluyen:
 1. Seleccione Diseños de botones de vista de lista.
 1. Seleccionar **Editar** situado junto al diseño al que desee añadir los botones.
 1. Para cambiar lo que está visible en la página, mueva los botones entre Botones disponibles y Botones seleccionados con el botón Agregar. Los botones de acción incluyen &quot;Añadir a la campaña de ventas&quot; y &quot;Enviar correo electrónico de ventas&quot;.
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 1. Si ha realizado esta acción sólo para contactos o posibles clientes, repita estos pasos para completar esta acción para el otro objeto.
 
 ## En Salesforce Classic {#salesforce-classic}
@@ -42,7 +43,7 @@ Los botones de acción para instalar incluyen:
 1. En el cuadro Búsqueda rápida, busque el objeto que desea editar (cliente potencial o contacto) y selecciónelo.
 1. Haga clic para editar la vista de lista (posible cliente o contacto).
 1. Para cambiar lo que está visible en la página, mueva los botones entre Botones disponibles y Botones seleccionados con el botón Agregar. Los botones de acción incluyen &quot;Añadir a la campaña de ventas&quot; y &quot;Enviar correo electrónico de ventas&quot;.
-1. Clic **Guardar**.
+1. Haga clic en **Guardar**.
 1. Si ha realizado esta acción sólo para contactos o posibles clientes, repita estos pasos para completar esta acción para el otro objeto.
 
 >[!MORELIKETHIS]

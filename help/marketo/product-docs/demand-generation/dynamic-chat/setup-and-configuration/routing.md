@@ -2,10 +2,11 @@
 description: 'Enrutamiento: documentos de Marketo: documentación del producto'
 title: Enrutando
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,7 +38,7 @@ En este ejemplo, se envían todas las reuniones de los estados deducidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Asigne un nombre a la regla Si lo desea, puede agregar una descripción y establecer su nivel de prioridad. Clic **Siguiente**.
+1. Asigne un nombre a la regla Si lo desea, puede agregar una descripción y establecer su nivel de prioridad. Haga clic en **Siguiente**.
 
    ![](assets/routing-4.png)
 

@@ -2,7 +2,8 @@
 description: 'Plantilla de la página de aterrizaje de inicio rápido: documentos de Marketo, documentación del producto'
 title: Plantilla de página de aterrizaje de inicio rápido
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%

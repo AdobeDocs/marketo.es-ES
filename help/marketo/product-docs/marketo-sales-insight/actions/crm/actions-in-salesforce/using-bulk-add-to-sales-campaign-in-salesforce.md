@@ -1,7 +1,8 @@
 ---
 description: Uso de la campaña de adición masiva a ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Uso de la campaña de adición masiva a ventas en Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%

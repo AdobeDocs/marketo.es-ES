@@ -1,7 +1,8 @@
 ---
 description: ¿Se rastrean las vistas, los clics y las respuestas de los destinatarios enumerados en la sección CC y CCO del correo electrónico? - Documentos de Marketo - Documentación del producto
 title: ¿Se rastrean las vistas, los clics y las respuestas de los destinatarios enumerados en la sección CC y CCO del correo electrónico?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 83a76572-7fea-463b-b3fc-b6e9fe58c696
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

@@ -1,7 +1,8 @@
 ---
 description: Uso del envío masivo de correo electrónico de ventas en Salesforce - Documentos de Marketo - Documentación del producto
 title: Uso del envío masivo de correo electrónico de ventas en Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%

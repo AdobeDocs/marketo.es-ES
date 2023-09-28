@@ -2,7 +2,8 @@
 description: NUR-AAAA-MM-Simple Nurture - Documentos de Marketo - Documentación del producto
 title: NUR-AAAA-MM-Nutrición simple
 feature: Programs
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 16%
@@ -26,7 +27,7 @@ Para obtener más ayuda sobre la estrategia o para personalizar un programa, pó
    <th>Tipo de programa</th>
   </tr> 
   <tr> 
-   <td>Cultivar</td> 
+   <td>Acompañamiento</td> 
    <td>01 - Miembro 
 <br/>02 - Participación - Éxito</td>
    <td>Inclusivo</td>
