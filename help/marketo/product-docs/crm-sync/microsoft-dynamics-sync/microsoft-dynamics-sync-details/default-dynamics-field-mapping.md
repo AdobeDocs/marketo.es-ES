@@ -3,7 +3,7 @@ description: 'Asignación de campos de Dynamics predeterminada: documentos de Ma
 title: Asignación de campos de Dynamics predeterminada
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 40%
@@ -200,7 +200,7 @@ Al sincronizar inicialmente la cuenta de Marketo con Microsoft, Marketo realiza 
     </tr>
     <tr>
       <td>Compañía</td>
-      <td>Nombre de la compañía</td>
+      <td>Nombre de la empresa</td>
       <td>companyname</td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ Los campos Contacto a continuación se sincronizan para uso interno.
     </tr>
     <tr>
       <td>parentcustomerid</td>
-      <td>Nombre de la compañía</td>
+      <td>Nombre de la empresa</td>
     </tr>
   </tbody>
 </table>
@@ -579,8 +579,8 @@ Los campos Contacto a continuación se sincronizan para uso interno.
     </tr>
     <tr>
       <td>Compañía</td>
-      <td>name</td>
       <td>Nombre de la cuenta</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Cantidad de empleados</td>

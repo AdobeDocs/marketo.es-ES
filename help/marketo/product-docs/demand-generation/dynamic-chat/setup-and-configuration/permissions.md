@@ -3,7 +3,7 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 4%
@@ -67,7 +67,6 @@ Ahora puede repetir este proceso para cualquiera/todas las demás áreas de Dyna
    ![](assets/permissions-11.png)
 
 1. Ahora siga los pasos 3-6 de la [sección anterior](#edit-existing-permissions) para cada área deseada.
-
 
 ## Lista de permisos {#list-of-permissions}
 
