@@ -3,7 +3,7 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 10%
@@ -75,7 +75,7 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Área del Dynamic Chat</th>
+    <th style="width:25%">Área del Dynamic Chat</th>
     <th>Permisos</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Perfil</th>
+    <th style="width:25%">Perfil</th>
     <th>Permisos predeterminados</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
     <li>Publicar flujos de conversación</li>
-    <p>
+    <br/>
+    <br/>
     <i>Chat en directo</i>
     <li>n/a</li>
-    <p>
+    <br>
     <br/><i>Reuniones</i>
     <li>n/a</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
-    <p>
-    <br/><i>Configuración del agente</i>
+    <br>
+    <br><i>Configuración del agente</i>
     <li>n/a</li>
-    <p>
-    <br/><i>Configuración del administrador</i>
+    <br><i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
