@@ -3,10 +3,10 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 4%
+source-wordcount: '724'
+ht-degree: 10%
 
 ---
 
@@ -91,16 +91,12 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
   </tr>
   <tr>
     <td>Chat en directo</td>
-    <td><li>Bandeja de entrada del agente</li>
-    <li>Ver mis conversaciones</li>
+    <td><li>Ver mis conversaciones</li>
     <li>Ver todas las conversaciones</li>
-    <li>Ver resumen de conversación <b>*</b></li>
-    <li>Ver respuestas asistidas <b>*</b></li></td>
   </tr>
   <tr>
     <td>Reuniones</td>
     <td><li>Administrar todas las reuniones</li>
-    <li>Administrar mis reuniones</li></td>
   </tr>
   <tr>
     <td>Analytics</td>
@@ -117,8 +113,156 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
   </tr>
   <tr>
     <td>Configuración del administrador</td>
-    <td><li>Ver espacios de trabajo <b>*</b></li>
-    <li>Administrar espacios de trabajo (crear, editar, eliminar) <b>*</b></li>
+    <td><li>Ver operación por turnos</li>
+    <li>Ver reglas personalizadas</li>
+    <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
+    <li>Ver lista de cuentas <b>*</b></li>
+    <li>Administrar cuentas (añadir, editar, eliminar) <b>*</b></li>
+    <li>Administrar configuración del bot de chat</li>
+    <li>Administrar configuración de flujos de conversación</li>
+    <li>Administración de privacidad y seguridad</li>
+    <li>Administrar integraciones</li>
+    <li>Administrar agentes</li>
+    <li>Ver equipos del agente <b>*</b></li>
+    <li>Administrar equipos de agentes (añadir, editar, eliminar) <b>*</b></li></td>
+  </tr>
+</tbody>
+</table>
+
+**&#42;** Actualmente solo disponible para usuarios de Dynamic Prime
+
+<p>
+
+## Permisos de perfil predeterminados {#default-profile-permissions}
+
+A continuación se muestran los cinco perfiles predeterminados y los permisos habilitados de forma predeterminada.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:30%">Perfil</th>
+    <th>Permisos predeterminados</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Usuario de marketing</td>
+    <td><i>Administración de conversaciones</i>
+    <p>
+    <li>Ver cuadros de diálogo</li>
+    <li>Administrar cuadros de diálogo (crear, eliminar)</li>
+    <li>Cuadros de diálogo de publicación</li>
+    <li>Ver flujos de conversación</li>
+    <li>Administrar flujos de conversación (crear, eliminar)</li>
+    <li>Publicar flujos de conversación</li>
+    <p>
+    <p><i>Chat en directo</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Reuniones</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Ver informes de rendimiento globales</li>
+    <li>Ver informes de chat en directo</li>
+    <li>Ver informes de reuniones</li>
+    <p>
+    <p><i>Configuración del agente</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Configuración del administrador</i></p>
+    <li>Ver operación por turnos</li>
+    <li>Ver reglas personalizadas</li>
+    <li>Ver lista de cuentas <b>*</b></li>
+    <li>Ver equipos del agente <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Live Agent</b></td>
+    <td><i>Administración de conversaciones</i>
+    <p>
+    <li>Ver cuadros de diálogo</li>
+    <li>Ver flujos de conversación</li>
+    <p>
+    <p><i>Chat en directo</i></p>
+    <li>Ver mis conversaciones</li>
+    <p>
+    <p><i>Reuniones</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Ver informes de rendimiento globales</li>
+    <li>Ver informes de chat en directo</li>
+    <li>Ver informes de reuniones</li>
+    <p>
+    <p><i>Configuración del agente</i></p>
+    <li>Administrar disponibilidad de chat en vivo</li>
+    <li>Conectar el calendario</li>
+    <li>Administrar disponibilidad del calendario</li>
+    <p>
+    <p><i>Configuración del administrador</i></p>
+    <li>Ver operación por turnos</li>
+    <li>Ver reglas personalizadas</li>
+    <li>Ver lista de cuentas <b>*</b></li>
+    <li>Ver equipos del agente <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Agente de calendario</b></td>
+    <td><i>Administración de conversaciones</i>
+    <p>
+    <li>Ver cuadros de diálogo</li>
+    <li>Ver flujos de conversación</li>
+    <p>
+    <p><i>Chat en directo</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Reuniones</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Ver informes de rendimiento globales</li>
+    <li>Ver informes de chat en directo</li>
+    <li>Ver informes de reuniones</li>
+    <p>
+    <p><i>Configuración del agente</i></p>
+    <li>Conectar el calendario</li>
+    <li>Administrar disponibilidad del calendario</li>
+    <p>
+    <p><i>Configuración del administrador</i></p>
+    <li>Ver operación por turnos</li>
+    <li>Ver reglas personalizadas</li>
+    <li>Ver lista de cuentas <b>*</b></li>
+    <li>Ver equipos del agente <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Administrador de marketing</b></td>
+    <td><i>Administración de conversaciones</i>
+    <p>
+    <li>Ver cuadros de diálogo</li>
+    <li>Administrar cuadros de diálogo (crear, eliminar)</li>
+    <li>Cuadros de diálogo de publicación</li>
+    <li>Ver flujos de conversación</li>
+    <li>Administrar flujos de conversación (crear, eliminar)</li>
+    <li>Publicar flujos de conversación</li>
+    <p>
+    <p><i>Chat en directo</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Reuniones</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Ver informes de rendimiento globales</li>
+    <li>Ver informes de chat en directo</li>
+    <li>Ver informes de reuniones</li>
+    <li>Exportar informes</li>
+    <p>
+    <p><i>Configuración del agente</i></p>
+    <li>n/a</li>
+    <p>
+    <p><i>Configuración del administrador</i></p>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
@@ -128,11 +272,44 @@ A continuación, se muestra una lista de todos los permisos disponibles para cad
     <li>Administrar configuración de flujos de conversación</li>
     <li>Administración de privacidad y seguridad</li>
     <li>Administrar integraciones</li>
-    <li>Administrar idiomas <b>*</b></li>
+    <li>Ver equipos del agente <b>*</b></li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Administrador de ventas</b></td>
+    <td><i>Administración de conversaciones</i>
+    <p>
+    <li>Ver cuadros de diálogo</li>
+    <li>Ver flujos de conversación</li>
+    <p>
+    <p><i>Chat en directo</i></p>
+    <li>Ver mis conversaciones</li>
+    <li>Ver todas las conversaciones</li>
+    <p>
+    <p><i>Reuniones</i></p>
+    <li>Administrar todas las reuniones</li>
+    <p>
+    <p><i>Analytics</i></p>
+    <li>Ver informes de rendimiento globales</li>
+    <li>Ver informes de chat en directo</li>
+    <li>Ver informes de reuniones</li>
+    <li>Exportar informes</li>
+    <p>
+    <p><i>Configuración del agente</i></p>
+    <li>Administrar disponibilidad de chat en vivo</li>
+    <li>Conectar el calendario</li>
+    <li>Administrar disponibilidad del calendario</li>
+    <p>
+    <p><i>Configuración del administrador</i></p>
+    <li>Ver operación por turnos</li>
+    <li>Ver reglas personalizadas</li>
+    <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
+    <li>Ver lista de cuentas <b>*</b></li>
+    <li>Administrar cuentas (añadir, editar, eliminar) <b>*</b></li>
     <li>Administrar agentes</li>
     <li>Ver equipos del agente <b>*</b></li>
-    <li>Administrar equipos de agentes (añadir, editar, eliminar) <b>*</b></li>
-    <li>Ver límites de uso</li></td>
+    <li>Administrar equipos de agentes <b>*</b></li>
+    </td>
   </tr>
 </tbody>
 </table>
