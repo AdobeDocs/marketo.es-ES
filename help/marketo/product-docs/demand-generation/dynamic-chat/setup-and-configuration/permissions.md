@@ -3,7 +3,7 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 10%
@@ -148,7 +148,6 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
   <tr>
     <td>Usuario de marketing</td>
     <td><i>Administración de conversaciones</i>
-    <p>
     <li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
     <li>Cuadros de diálogo de publicación</li>
@@ -156,21 +155,21 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Administrar flujos de conversación (crear, eliminar)</li>
     <li>Publicar flujos de conversación</li>
     <p>
-    <p><i>Chat en directo</i></p>
+    <i>Chat en directo</i>
     <li>n/a</li>
     <p>
-    <p><i>Reuniones</i></p>
+    <br/><i>Reuniones</i>
     <li>n/a</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
     <p>
-    <p><i>Configuración del agente</i></p>
+    <br/><i>Configuración del agente</i>
     <li>n/a</li>
     <p>
-    <p><i>Configuración del administrador</i></p>
+    <br/><i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
