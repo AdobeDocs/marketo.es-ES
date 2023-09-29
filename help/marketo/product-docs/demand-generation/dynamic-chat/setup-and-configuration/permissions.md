@@ -3,7 +3,7 @@ description: Permisos - Documentos de Marketo - Documentación del producto
 title: Permisos
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 10%
@@ -154,22 +154,22 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
     <li>Publicar flujos de conversación</li>
-    <br/>
-    <br/>
+    <br>
     <i>Chat en directo</i>
     <li>n/a</li>
     <br>
-    <br/><i>Reuniones</i>
+    <i>Reuniones</i>
     <li>n/a</li>
     <br>
-    <br><i>Analytics</i>
+    <i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
     <br>
-    <br><i>Configuración del agente</i>
+    <i>Configuración del agente</i>
     <li>n/a</li>
-    <br><i>Configuración del administrador</i>
+    <br>
+    <i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
@@ -179,27 +179,26 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
   <tr>
     <td><b>Live Agent</b></td>
     <td><i>Administración de conversaciones</i>
-    <p>
     <li>Ver cuadros de diálogo</li>
     <li>Ver flujos de conversación</li>
-    <p>
-    <p><i>Chat en directo</i></p>
+    <br>
+    <i>Chat en directo</i>
     <li>Ver mis conversaciones</li>
-    <p>
-    <p><i>Reuniones</i></p>
+    <br>
+    <i>Reuniones</i>
     <li>n/a</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
-    <p>
-    <p><i>Configuración del agente</i></p>
+    <br>
+    <i>Configuración del agente</i>
     <li>Administrar disponibilidad de chat en vivo</li>
     <li>Conectar el calendario</li>
     <li>Administrar disponibilidad del calendario</li>
-    <p>
-    <p><i>Configuración del administrador</i></p>
+    <br>
+    <i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
@@ -209,26 +208,25 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
   <tr>
     <td><b>Agente de calendario</b></td>
     <td><i>Administración de conversaciones</i>
-    <p>
     <li>Ver cuadros de diálogo</li>
     <li>Ver flujos de conversación</li>
-    <p>
-    <p><i>Chat en directo</i></p>
+    <br>
+    <i>Chat en directo</i>
     <li>n/a</li>
-    <p>
-    <p><i>Reuniones</i></p>
+    <br>
+    <i>Reuniones</i>
     <li>n/a</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
-    <p>
-    <p><i>Configuración del agente</i></p>
+    <br>
+    <i>Configuración del agente</i>
     <li>Conectar el calendario</li>
     <li>Administrar disponibilidad del calendario</li>
-    <p>
-    <p><i>Configuración del administrador</i></p>
+    <br>
+    <i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Ver lista de cuentas <b>*</b></li>
@@ -238,30 +236,29 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
   <tr>
     <td><b>Administrador de marketing</b></td>
     <td><i>Administración de conversaciones</i>
-    <p>
     <li>Ver cuadros de diálogo</li>
     <li>Administrar cuadros de diálogo (crear, eliminar)</li>
     <li>Cuadros de diálogo de publicación</li>
     <li>Ver flujos de conversación</li>
     <li>Administrar flujos de conversación (crear, eliminar)</li>
     <li>Publicar flujos de conversación</li>
-    <p>
-    <p><i>Chat en directo</i></p>
+    <br>
+    <i>Chat en directo</i>
     <li>n/a</li>
-    <p>
-    <p><i>Reuniones</i></p>
+    <br>
+    <i>Reuniones</i>
     <li>n/a</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
     <li>Exportar informes</li>
-    <p>
-    <p><i>Configuración del agente</i></p>
+    <br>
+    <i>Configuración del agente</i>
     <li>n/a</li>
-    <p>
-    <p><i>Configuración del administrador</i></p>
+    <br>
+    <i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
@@ -277,29 +274,28 @@ A continuación se muestran los cinco perfiles predeterminados y los permisos ha
   <tr>
     <td><b>Administrador de ventas</b></td>
     <td><i>Administración de conversaciones</i>
-    <p>
     <li>Ver cuadros de diálogo</li>
     <li>Ver flujos de conversación</li>
-    <p>
-    <p><i>Chat en directo</i></p>
+    <br>
+    <i>Chat en directo</i>
     <li>Ver mis conversaciones</li>
     <li>Ver todas las conversaciones</li>
-    <p>
-    <p><i>Reuniones</i></p>
+    <br>
+    <i>Reuniones</i>
     <li>Administrar todas las reuniones</li>
-    <p>
-    <p><i>Analytics</i></p>
+    <br>
+    <i>Analytics</i>
     <li>Ver informes de rendimiento globales</li>
     <li>Ver informes de chat en directo</li>
     <li>Ver informes de reuniones</li>
     <li>Exportar informes</li>
-    <p>
-    <p><i>Configuración del agente</i></p>
+    <br>
+    <i>Configuración del agente</i>
     <li>Administrar disponibilidad de chat en vivo</li>
     <li>Conectar el calendario</li>
     <li>Administrar disponibilidad del calendario</li>
-    <p>
-    <p><i>Configuración del administrador</i></p>
+    <br>
+    <i>Configuración del administrador</i>
     <li>Ver operación por turnos</li>
     <li>Ver reglas personalizadas</li>
     <li>Administrar reglas personalizadas (agregar, editar, eliminar)</li>
