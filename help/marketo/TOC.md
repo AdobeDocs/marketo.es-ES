@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 3%
 
 ---
@@ -1408,6 +1408,7 @@ ht-degree: 3%
                + [Personalizar mensaje de vínculo de cancelación de suscripción](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Verificación de cancelación de suscripción de Marketo](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Sincronización de cancelaciones de suscripción con Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+               + [Plantillas de correo electrónico de ventas transaccionales](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
             + Uso de la ventana de composición {#using-the-compose-window}
                + [Añadir un archivo adjunto o contenido rastreable a su correo electrónico](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [Opciones de correo electrónico masivo](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)

@@ -4,9 +4,9 @@ title: Plantillas de correo electrónico de ventas transaccionales
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,32 @@ Si su equipo envía correos electrónicos transaccionales o no comerciales, pued
 
 1. En el encabezado, haga clic en **Plantillas**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Busque la plantilla que desee actualizar.
+1. Busque y seleccione la plantilla que desea actualizar.
 
-PICC
-
-1. Seleccione la plantilla.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Habilite la opción de correo electrónico no comercial en Configuración de plantilla.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Enviar un correo electrónico no comercial {#send-a-non-commercial-email}
 
-Cuando se selecciona una persona sin suscribir, aparece resaltada en naranja.
+>[!NOTE]
+>
+>Cuando se selecciona una persona sin suscribir, aparece resaltada en naranja.
 
-1. En la ventana de composición, seleccione la plantilla no comercial que desee ver.
+1. En el encabezado, haga clic en **Escribir**. Busque y seleccione la plantilla no comercial que desee.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. Los usuarios verán un banner que les mostrará que han seleccionado actualmente una plantilla de correo electrónico no comercial.
+1. Los usuarios verán un banner que les mostrará que han seleccionado una plantilla de correo electrónico no comercial.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Clic **Enviar**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 El correo electrónico se enviará incluso si la persona ha cancelado la suscripción.
