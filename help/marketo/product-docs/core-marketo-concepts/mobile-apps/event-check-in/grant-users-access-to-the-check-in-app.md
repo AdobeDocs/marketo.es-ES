@@ -4,9 +4,9 @@ description: Conceder acceso a los usuarios a la aplicación de registro - Docum
 title: Conceder a los usuarios acceso a la aplicación de registro
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Conceder a los usuarios acceso a la aplicación de registro {#grant-users-access-to-the-check-in-app}
 
 Marketo tiene una función de usuario especial para la aplicación de registro de eventos. A continuación, se indica cómo crear una función nueva con permiso para utilizar la aplicación.
+
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Crear una nueva función de usuario para móvil {#create-a-new-user-role-for-mobile}
 

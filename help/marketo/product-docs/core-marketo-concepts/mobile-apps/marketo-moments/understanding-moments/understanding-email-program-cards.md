@@ -4,9 +4,9 @@ description: Explicación de las tarjetas de programa de correo electrónico - D
 title: Explicación de las tarjetas de programa de correo electrónico
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Explicación de las tarjetas de programa de correo electrónico {#understanding-email-program-cards}
 
 Utilice Momentos de Marketo para ver sus programas de correo electrónico desde su teléfono o iPad.
+
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Tarjetas de programa de correo electrónico {#email-program-cards}
 

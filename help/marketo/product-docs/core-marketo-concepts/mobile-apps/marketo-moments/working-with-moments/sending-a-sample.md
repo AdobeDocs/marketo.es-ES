@@ -4,16 +4,20 @@ description: 'Envío de una muestra: documentos de Marketo, documentación del p
 title: Envío de una muestra
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
 # Envío de una muestra {#sending-a-sample}
 
 Puede compartir una muestra de un momento de correo electrónico directamente con alguien. Hay dos maneras de hacerlo.
+
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## La forma regular {#the-regular-way}
 

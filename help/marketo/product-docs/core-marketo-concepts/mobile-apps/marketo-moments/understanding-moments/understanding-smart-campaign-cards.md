@@ -4,18 +4,22 @@ description: 'Explicación de las tarjetas de campaña inteligentes: Documentos 
 title: Explicación de las tarjetas Smart Campaign
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Explicación de las tarjetas Smart Campaign {#understanding-smart-campaign-cards}
 
-Utilice Momentos de Marketo para ver cada ejecución de sus campañas inteligentes desde su teléfono inteligente o iPad. La tarjeta de campaña inteligente Momentos de Marketo representa una sola ejecución de una campaña; cada vez que se ejecuta la campaña inteligente aparece una nueva tarjeta. Las tarjetas de campaña inteligentes están marcadas con una bombilla en la parte superior izquierda.
+Utilice Momentos de Marketo para ver cada ejecución de sus campañas inteligentes desde su teléfono inteligente o iPad. La tarjeta Campaña inteligente Momentos de Marketo representa una sola ejecución de una campaña; cada vez que se ejecuta la campaña inteligente aparece una tarjeta nueva. Las tarjetas Smart Campaign están marcadas con una bombilla en la parte superior izquierda.
 
-En el caso de futuras campañas inteligentes programadas pero que aún no se han ejecutado, la tarjeta Momentos de Marketo aún no muestra estadísticas de campaña. Aparecerán en una versión futura.
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+Para futuras campañas inteligentes programadas pero que aún no se han ejecutado, la tarjeta Momentos de Marketo aún no muestra estadísticas de campaña. Aparecerán en una versión futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -73,7 +77,7 @@ Es una buena idea echar un vistazo a un correo electrónico antes de que se publ
 
 ## Confirmación de una ejecución de campaña inteligente {#confirming-a-smart-campaign-run}
 
-Las tarjetas de las campañas inteligentes sin confirmar aparecen en gris hasta que se confirman. Luego, se vuelven naranjas.
+Las tarjetas de las campañas inteligentes sin confirmar aparecerán en gris hasta que las confirme. Luego, se vuelven naranjas.
 
 1. Para confirmar una tarjeta de campaña inteligente sin confirmar, pulse el menú de acción de tres puntos.
 
@@ -103,7 +107,7 @@ Puede cancelar una ejecución de campaña inteligente programada y confirmada.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tocar **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **Olvídese De** y la campaña inteligente se ejecutará según lo programado.
+1. Tocar **Cancelar ejecución**. Si decide en el último minuto no cancelar la ejecución, pulse **Olvídese De**, y la campaña inteligente se ejecutará según lo programado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 

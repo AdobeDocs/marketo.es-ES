@@ -4,16 +4,20 @@ description: Explicación de las tarjetas de eventos - Documentos de Marketo - D
 title: Explicación de las tarjetas de eventos
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 1%
 
 ---
 
 # Explicación de las tarjetas de eventos {#understanding-event-cards}
 
 Utilice Momentos de Marketo para ver los programas de eventos en su teléfono o iPad.
+
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Al pulsar cualquier tarjeta de programa de correo electrónico, puede:
 

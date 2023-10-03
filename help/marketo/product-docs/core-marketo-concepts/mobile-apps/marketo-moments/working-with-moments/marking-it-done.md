@@ -4,16 +4,20 @@ description: 'Listo, documentación de Marketo: documentación del producto'
 title: Marcando como listo
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 1%
 
 ---
 
 # Marcando como listo {#marking-it-done}
 
 Marque un programa de correo electrónico, un evento o una tarjeta de análisis como Listo para eliminarlo del flujo. Hay dos maneras de hacerlo.
+
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Pulse el menú de acción.
 

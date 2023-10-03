@@ -3,18 +3,18 @@ description: Información general de registro de eventos
 title: Información general de registro de eventos
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
 # Información general de registro de eventos {#event-check-in-overview}
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Esta aplicación no es compatible con [Adobe Autenticación de identidad](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} en este momento.
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 La aplicación Marketo Events para iPad o tabletas Android facilita la entrada de personas inmediatamente cuando llegan al evento.
 
@@ -22,14 +22,14 @@ Este artículo describe el proceso completo. Los encabezados están vinculados a
 
 Algunas actividades se realizan antes del evento, como crear una función nueva e invitar a asistentes. Algunos ocurren durante el evento, como el registro de asistentes. Después del evento, sincroniza los datos con Marketo y actualiza el estado de la persona.
 
-¡Que tengan un bueno evento!
+¡Que tengas un gran evento!
 
 ## Preparación para su evento
 
 Antes del evento:
 
 * [Crear una nueva función de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} para usuarios de iPad o Android para el evento
-* [Invitar a los nuevos usuarios de Tablet PC al evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} y asígneles la nueva función
+* [Invitar a los nuevos usuarios de tableta al evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} y asígneles la nueva función
 * [Creación de un nuevo programa de eventos de Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Especificar las fechas del evento
 * Añadir personas al evento

@@ -4,16 +4,20 @@ description: 'Personalización de momentos de Marketo: documentos de Marketo, do
 title: Personalización de momentos de Marketo
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
 # Personalización de momentos de Marketo {#personalizing-marketo-moments}
 
-Cuando tiene muchos programas de marketing y campañas inteligentes en marcha, es bueno ver todo, pero es posible que desee centrarse únicamente en su propio trabajo.
+Cuando tiene muchos programas de marketing y campañas inteligentes en marcha, es genial verlo todo, pero es posible que desee centrarse únicamente en su propio trabajo.
+
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Activar **Mostrar solo mis momentos** para mostrar solo sus propios programas de correo electrónico y campañas inteligentes.
 

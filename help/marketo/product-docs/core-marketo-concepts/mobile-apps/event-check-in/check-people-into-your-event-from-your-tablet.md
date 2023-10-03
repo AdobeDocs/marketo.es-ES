@@ -4,9 +4,9 @@ description: 'Registrar a las personas en su evento desde su tableta: documentos
 title: Incorporar personas a su evento desde su tableta
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,15 @@ ht-degree: 0%
 
 Cuando las personas se presenten en su evento, puede encontrar su información en la aplicación. Después de registrarse, se promocionan al estado Asistido cuando se sincroniza con Marketo.
 
+>[!IMPORTANT]
+>
+>El 2 de octubre de 2023, Adobe eliminó la aplicación Eventos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 La aplicación funciona igual tanto en iPad como en Android, excepto por pequeñas diferencias de diseño.
 
 >[!PREREQUISITES]
 >
 >* Cree un evento en Marketo y rellénelo con personas invitadas y registradas.
->* Descargue la aplicación para tableta para [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) o [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 ## Registrar invitados registrados {#check-in-registered-guests}
 
