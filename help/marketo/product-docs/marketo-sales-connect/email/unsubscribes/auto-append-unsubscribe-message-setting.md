@@ -1,11 +1,9 @@
 ---
 description: Configuración del mensaje de cancelación de suscripción anexada automáticamente - Documentos de Marketo - Documentación del producto
 title: Anexar automáticamente la configuración del mensaje de cancelación de suscripción
-hide: true
-hidefromtoc: true
 feature: Marketo Sales Connect
-exl-id: 2d4c96b3-6d27-46e9-abb0-2571f3e03611
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%

@@ -3,10 +3,10 @@ description: 'Campos dinámicos: documentos de Marketo: documentación del produ
 title: Campos dinámicos
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 1%
+source-wordcount: '519'
+ht-degree: 0%
 
 ---
 
@@ -54,14 +54,16 @@ Esta herramienta se utiliza para `auto-personalize your email` y ahorrarte tonel
 
 | Campo dinámico | Ejemplo de lo que aparece en el correo electrónico |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Si no quieres volver a saber de mí, por favor házmelo saber aquí |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | Si ya no desea recibir correos electrónicos de nuestra parte, haga clic aquí |
+| `{{friendly_unsubscribe}}` | ¿Cansado de todos los correos electrónicos? Por favor, hágamelo saber aquí |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, escritor técnico sénior - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Escritor técnico sénior |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Cosas que debe tener en cuenta**:
 
@@ -69,6 +71,7 @@ Esta herramienta se utiliza para `auto-personalize your email` y ahorrarte tonel
 * La diferencia entre `{{company}}` y `{{company_friendly}}` es eso `{{company_friendly}}` eliminará cualquier título formal, como Inc., LLC., etc., del nombre de la compañía de su contacto.
 * Al utilizar `{{company_friendly}}`, asegúrese de separar Inc. o Co. con una coma en los datos de contacto. Así es como las acciones de perspectiva de ventas saben qué eliminar al extraer el valor.
 * Le permitimos personalizar sus plantillas de correo electrónico con atributos predefinidos como `{{my_name}}` o `{{my_title}}`. Estos campos le permiten hacer referencia rápidamente a sí mismo en sus plantillas de correo electrónico.
+* Si usa el `{{my_signature}}` , el sistema no adjuntará automáticamente la firma del usuario para evitar duplicados.
 
 >[!TIP]
 >
