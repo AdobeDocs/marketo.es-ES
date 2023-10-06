@@ -4,16 +4,16 @@ description: 'Ocultar y mostrar un campo: documentos de Marketo, documentación 
 title: Ocultar y mostrar un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
 
 # Ocultar y mostrar un campo {#hide-and-unhide-a-field}
 
-Si ya no utiliza un campo en Marketo, puede ocultarlo de la interfaz de usuario para que ya no se muestre en la aplicación.
+Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de usuario para que ya no se muestre en la aplicación.
 
 ## Ocultar un campo {#hide-a-field}
 
@@ -35,7 +35,8 @@ Si ya no utiliza un campo en Marketo, puede ocultarlo de la interfaz de usuario 
 
    >[!NOTE]
    >
-   >Para ocultar un campo, no debe asociarse con ningún otro recurso (incluidos los archivados). Asegúrese de eliminar el campo de todas las listas inteligentes, opciones de pasos de flujo, formularios, correos electrónicos, etc., antes de ocultarlo.
+   >* Para ocultar un campo, no debe asociarse con ningún otro recurso (incluidos los archivados). Asegúrese de eliminar el campo de todas las listas inteligentes, opciones de pasos de flujo, formularios, correos electrónicos, etc., antes de ocultarlo.
+   >* No puede ocultar los campos estándar (del sistema).
 
 1. Clic **[!UICONTROL Hide]** para confirmar.
 
@@ -59,8 +60,5 @@ Si ya no utiliza un campo en Marketo, puede ocultarlo de la interfaz de usuario 
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   ¡bueno trabajo! Ahora sabe cómo mostrar campos y hacerlos visibles de nuevo en la interfaz de usuario de Marketo.
+   ¡Gran trabajo! Ahora sabe cómo mostrar campos y hacerlos visibles de nuevo.
 
-   >[!TIP]
-   >
-   >¿Necesita que se realice una operación de ocultación/ocultación masiva? Póngase en contacto con Marketo Professional Services: services@marketo.com.
