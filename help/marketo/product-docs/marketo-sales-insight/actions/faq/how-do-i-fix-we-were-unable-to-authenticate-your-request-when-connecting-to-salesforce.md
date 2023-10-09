@@ -3,9 +3,9 @@ description: ¿Cómo soluciono "No hemos podido autenticar su solicitud" al cone
 title: ¿Cómo soluciono "No hemos podido autenticar su solicitud" al conectar con Salesforce?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Este error suele indicar que tiene un dominio personalizado al que no podemos en
 
 Si la instancia a la que intenta conectarse es un dominio de zona protegida de Salesforce y se produce un error, deberá seguir pasos adicionales para actualizar la instancia y que sea compatible con la zona protegida de Salesforce. [Más información](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## Resolver aplicaciones Oauth bloqueadas y otros tipos de error {#resolve-oauth-app-blocked-and-other-error-types}
+## Resolver aplicación Oauth bloqueada {#resolve-oauth-app-blocked}
 
 Si recibe el mensaje de error &quot;No hemos podido autenticar su solicitud&quot; con el tipo de error Aplicación de OAuth bloqueada u otro tipo en la dirección URL, puede haber una restricción en su acceso a la API de Salesforce. Consulte con su administrador de Salesforce para asegurarse de que se cumplan los siguientes requisitos.
 
