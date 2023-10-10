@@ -4,43 +4,45 @@ description: 'Programar una campaña por lotes recurrente: documentos de Marketo
 title: Programar una campaña por lotes recurrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # Programar una campaña por lotes recurrente {#schedule-a-recurring-batch-campaign}
 
-La periodicidad le permite ejecutar una campaña inteligente por lotes en una programación regular. Por ejemplo: una vez a la semana, los lunes a las 12:00 p.m.
+La periodicidad le permite ejecutar una campaña por lotes de forma regular. Por ejemplo: una vez a la semana, los martes a las 10:00 a. m.
 
-1. Seleccione la campaña, vaya a la pestaña Schedule y haga clic en **Programar periodicidad**.
+1. Seleccione la campaña inteligente y vaya a **Programación** y haga clic en **Programar periodicidad**.
 
-   ![](assets/recurrencehands-sendemail.png)
+   ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Haga clic en el menú desplegable Programación y seleccione **Semanalmente**.
+1. Haga clic en **Programación** y seleccione. **Semanalmente**.
 
-   ![](assets/image2014-9-22-11-3a41-3a42.png)
+   ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
-1. Haga clic en el icono de calendario y seleccione el día de la primera ejecución. Para este ejemplo, se utiliza el siguiente lunes disponible.
+1. Haga clic en el icono de calendario y seleccione el día deseado para la primera ejecución.
 
-   ![](assets/image2014-9-22-11-3a41-3a46.png)
+   ![](assets/schedule-a-recurring-batch-campaign-3.png)
 
 1. Seleccione la hora a la que debe ejecutarse.
 
-   ![](assets/image2014-9-22-11-3a41-3a49.png)
+   ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Deje Repetir cada como 1, seleccione Lunes y haga clic en **Guardar**.
+1. Deje Repetir cada como 1, seleccione Martes y haga clic en **Guardar**.
 
-   ![](assets/image2014-9-22-11-3a41-3a53.png)
+   ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
-1. Puede ver las repeticiones programadas en la pestaña Programación para validar.
+   >[!NOTE]
+   >
+   >Para una longitud de ejecución específica, puede hacer clic en el icono de calendario situado junto a **Finalizar el** y elija la fecha de finalización.
 
-   ![](assets/recurrence.jpg)
+Las periodicidades programadas se muestran en la parte inferior de la pestaña Programación.
+
+![](assets/schedule-a-recurring-batch-campaign-6.png)
 
 >[!NOTE]
 >
->La pestaña Schedule muestra las tres instancias siguientes como referencia.
-
-¡Y eso es todo! La campaña por lotes ahora se ejecutará todos los lunes al mediodía.
+>La pestaña Schedule muestra las tres instancias siguientes como referencia. Haciendo clic en rojo **X** cancelará esa ejecución específica.

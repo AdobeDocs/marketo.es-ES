@@ -4,9 +4,9 @@ description: 'Configuración de una campaña inteligente de Déclencheur para ve
 title: Configuración de una campaña inteligente de Déclencheur para ventas con "Se solicita la campaña"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 
 1. Crear un **Campaña inteligente.**
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Buscar y arrastrar **Campaña solicitada** al lienzo.
+1. Busque y arrastre el **Campaña solicitada** déclencheur al lienzo.
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. Las opciones de fuente indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrese de elegir **Ventas** **Insight**.
 
@@ -40,9 +40,9 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
    >
    >**Recordar**, al elegir la perspectiva de ventas, se mostrará mágicamente en el cuadro de ventas. No te excedas. Demasiados serán ignorados por ellos.
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
-Esta es una buena manera de extender su alcance de marketing a otros departamentos. Configure todo tipo de campañas para automatizar.
+Esta es una excelente manera de ampliar su alcance de marketing a otros departamentos. Configure todo tipo de campañas para automatizar.
 
 >[!TIP]
 >
