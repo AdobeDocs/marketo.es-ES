@@ -4,9 +4,9 @@ description: Prioridad de orden de segmentación - Documentos de Marketo - Docum
 title: Prioridad de orden de segmentación
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -20,26 +20,24 @@ Es importante entender cómo **pedido** establece la prioridad para la evaluaci�
 >[Creación de una segmentación](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >[Definir reglas de segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
+>[!NOTE]
+>
+>Solo puede editar una segmentación en modo de borrador.
+
 1. Vaya a la **Base de datos**.
 
-   ![](assets/image2017-3-29-8-3a9-3a33.png)
+   ![](assets/segmentation-order-priority-1.png)
 
 1. Seleccione su **Segmentación**. Entrada **Acciones de segmentación**, haga clic en **Editar segmentos**.
 
-   ![](assets/image2014-9-16-10-3a11-3a55.png)
-
-   >[!NOTE]
-   >
-   >Solo puede editar un borrador de la segmentación.
+   ![](assets/segmentation-order-priority-2.png)
 
    Puede comprobar o editar el orden de los segmentos desde esta pantalla.
 
-   ![](assets/image2014-9-16-10-3a12-3a3.png)
+   ![](assets/segmentation-order-priority-3.png)
 
 >[!NOTE]
 >
 >* Los segmentos son mutuamente excluyentes. Una persona solo puede ser miembro de un segmento a la vez.
 >* Cuando una persona cumple los requisitos para dos segmentos, solo pertenece al primero de la lista.
 >* Si una persona no cumple los requisitos para ningún segmento, se convertirá en miembro del segmento predeterminado.
-
-Genial, ¿eh? Puede utilizar segmentos para contenido dinámico, creación de informes e incluso en listas inteligentes.
