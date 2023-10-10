@@ -4,9 +4,9 @@ description: Uso de un ID universal para el inicio de sesión con suscripción -
 title: Uso de un ID universal para el inicio de sesión con suscripción
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -61,10 +61,10 @@ Si tiene varias suscripciones, puede tener varios perfiles de la comunidad. Le r
 
 ## Plataforma móvil {#mobile-platform}
 
-Los usuarios con ID universal pueden ver sus datos en Momentos de Marketo y en la aplicación de registro de eventos de iPad desde la última suscripción en la que iniciaron sesión. Las suscripciones no se pueden cambiar desde la propia plataforma móvil.
+Los usuarios con ID universal pueden ver sus datos en [Momentos de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} desde la suscripción en la que iniciaron sesión por última vez. Las suscripciones no se pueden cambiar desde la propia plataforma móvil.
 
 >[!MORELIKETHIS]
 >
->* [Agregar el inicio de sesión único a un portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Restringir el inicio de sesión del usuario a solo SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Invitación de usuarios de Marketo a dos instancias con ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Agregar el inicio de sesión único a un portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Restringir el inicio de sesión del usuario a solo SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Invitación de usuarios de Marketo a dos instancias con ID universal](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
