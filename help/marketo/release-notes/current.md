@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 7%
+source-wordcount: '340'
+ht-degree: 6%
 
 ---
 
@@ -53,8 +53,9 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
    <tr> 
    <td><strong>Descargar la grabación y asignar un host compartido en seminarios web interactivos</strong>: Ahora puede añadir un coanfitrión externo para el seminario web en caso de que el host original no esté disponible. Ahora también puede descargar la grabación del seminario web.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Descargar grabación</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Crear un seminario web interactivo</a></li></td>
   </tr>
  </tbody> 
 </table>

@@ -2,9 +2,10 @@
 description: Preguntas frecuentes sobre el Dynamic Chat - Documentos de Marketo - Documentación del producto
 title: Preguntas frecuentes del Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ El fragmento de JavaScript de Dynamic Chat se puede instalar en cualquier sitio 
 
 **¿Dynamic Chat admite otros idiomas además del inglés?**
 
-Sí. Dynamic Chat admite los siguientes idiomas: francés, alemán, japonés, español, italiano, portugués (Brasil), coreano, chino simplificado y chino tradicional. Obtenga más información en [Cambio de idioma](#changing-the-language).
+Sí. Dynamic Chat admite los siguientes idiomas: francés, alemán, japonés, español, italiano, portugués (Brasil), coreano, chino simplificado y chino tradicional. Obtenga más información en [Cambio de idioma](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **¿Admite la funcionalidad AI/NLP?**
 
@@ -80,6 +81,10 @@ Esto probablemente indica que es necesario volver a autenticar la conexión de c
 **¿Cuál es la diferencia entre un Diálogo y un Flujo de Conversación?**
 
 Un cuadro de diálogo es una conversación que se muestra automáticamente a los visitantes web que cumplen un conjunto definido de criterios de segmentación. Un flujo de conversación solo se muestra a los visitantes que realizan una acción específica en la web, como pulsar un botón.
+
+**¿Existe alguna forma de utilizar Dynamic Chat para reservar reuniones directamente desde un correo electrónico?**
+
+Sí! [Descubra cómo](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **¿Puedo usar Dynamic Chat sin Marketo Engage?**
 
