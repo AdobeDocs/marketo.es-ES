@@ -4,7 +4,7 @@ description: Glosario del Marketo Engage - Documentos de Marketo - Documentació
 title: Glosario del Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 3%
@@ -172,7 +172,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">En Marketo puede crear duplicados de varios tipos diferentes de entidades dentro de la instancia. Puede clonar <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programas</a>, un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">recurso dentro de un programa</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">flujo</a>, y más.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Parte frontal de la dirección URL. La única palabra (más YourCompany.com) se denomina CNAME (por ejemplo, <em>información</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td colspan="1">Un tipo de programa en Marketo. Un programa genérico que utilizará cuando un programa de correo electrónico, evento o participación no sea relevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Entrega</strong></td> 
+   <td colspan="1"><strong>Capacidad de envío</strong></td> 
    <td colspan="1">La capacidad de un mensaje de correo electrónico para llegar a la bandeja de entrada del destinatario deseado, que puede verse afectada por <strong>spam</strong> y filtros del lado del cliente. Diferente a "Entregado", que solo indica que el correo electrónico se entregó al servidor de destinatario.</td> 
   </tr> 
   <tr> 
@@ -477,7 +477,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
    <td>Hogar de las mejores soluciones integradas de Marketo, con cientos de socios de tecnología y servicios digitales.</td> 
   </tr> 
   <tr> 
-   <td><strong>Cliente potencial</strong></td> 
+   <td><strong>Posible cliente</strong></td> 
    <td>Entrada <strong>Adobe Marketo Engage</strong>, posible cliente es el término anterior (sustituido por <strong>persona</strong>) se utiliza para describir a un individuo en su Marketo <strong>database</strong> con el que se involucra a través de sus campañas de marketing. En su <strong>CRM</strong>, un posible cliente puede representar un concepto diferente (es decir, un individuo asociado con un <strong>oportunidad</strong>) independientemente de la funcionalidad de Marketo.</td> 
   </tr> 
   <tr> 
