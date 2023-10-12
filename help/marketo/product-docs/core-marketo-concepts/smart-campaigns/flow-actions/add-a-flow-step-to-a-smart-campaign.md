@@ -4,36 +4,32 @@ description: 'Adición de un paso de flujo a una campaña inteligente: documento
 title: Adición de un paso de flujo a una campaña inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Adición de un paso de flujo a una campaña inteligente {#add-a-flow-step-to-a-smart-campaign}
 
-Los pasos de flujo indican a Marketo lo que desea que le ocurra a un grupo de personas cualificadas. ¡Son sus instrucciones, y la campaña inteligente hará su oferta!
+Los pasos de flujo indican a Marketo lo que desea que le ocurra a un grupo de personas cualificadas. ¡Son sus instrucciones, y la Campaña Inteligente hará su oferta!
 
 1. Ir a **Actividades de marketing**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
 1. Seleccione la campaña inteligente y haga clic en **Flujo**.
 
-   ![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
-   Escriba para buscar un paso de flujo y arrástrelo y suéltelo en el lienzo. Puede añadir varios pasos de flujo: repita esto con cada paso que desee que realice la campaña.
+1. Escriba para buscar un paso de flujo y arrástrelo y suéltelo en el lienzo. Puede añadir varios pasos de flujo: repita esto con cada paso que desee que realice la campaña.
 
-   ![](assets/image2014-9-19-16-3a27-3a7.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-3.png)
 
-1. Haga clic en la lista desplegable y elija una opción adecuada.
+1. Haga clic en la opción y el valor deseados.
 
-   ![](assets/four-1.png)
-
-1. Introduzca el valor.
-
-   ![](assets/changescorevalue-cursor.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-4.png)
 
 >[!NOTE]
 >
@@ -43,7 +39,7 @@ Los pasos de flujo indican a Marketo lo que desea que le ocurra a un grupo de pe
 >
 >Aparece una línea ondulada roja en caso de que una entrada no sea válida. Pase el ratón sobre la línea para ver cómo corregirla.
 
-¡Increíble! Asegúrese de [revisión y validación de la campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) antes de programarlo o activarlo.
+¡Increíble! Asegúrese de [revisar y validar la campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) antes de programarlo o activarlo.
 
 >[!MORELIKETHIS]
 >
