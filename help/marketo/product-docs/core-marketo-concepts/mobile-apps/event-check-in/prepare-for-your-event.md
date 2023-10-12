@@ -4,9 +4,9 @@ description: 'Preparación para su evento: Documentos de Marketo, documentación
 title: Preparación para su evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Hay varias cosas que tienes que hacer para prepararte para el evento.
 
 ## Crear una nueva función de Marketo {#create-a-new-marketo-role}
 
-Marketo tiene una función de usuario especial para la aplicación de registro de eventos. [Crear una nueva función de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para usuarios de iPad o Android, con permiso para acceder a la aplicación móvil.
+Marketo tiene una función de usuario especial para la aplicación de registro de eventos. [Crear una nueva función de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para [!DNL iPad] o [!DNL Android] usuarios, con permiso para acceder a la aplicación móvil.
 
 ## Invitar a nuevos usuarios de Tablet PC al evento {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Es muy fácil establecer las fechas de los eventos.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Deslízate para cambiar **Provisional** hasta **Confirmado**.
+1. Deslízate para cambiar **[!UICONTROL Provisional]** hasta **[!UICONTROL Confirmado]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Es muy fácil establecer las fechas de los eventos.
 
 ## Añadir personas al evento {#add-people-to-your-event}
 
-Ahora que conoce el *cuando*, es hora de agregar el *quién*.
+Ahora que conoce el _cuando_, es hora de agregar el *quién*.
 
-1. Si ya tiene una lista de personas, en Mi Marketo, haga clic en **Base de datos** mosaico.
+1. Si ya tiene una lista de personas, en Mi Marketo, haga clic en **[!UICONTROL Base de datos]** mosaico.
 
    ![](assets/db.png)
 
-1. Seleccione una lista con personas y haga clic en **People** pestaña.
+1. Seleccione una lista con personas y haga clic en **[!UICONTROL People]** pestaña.
 
    ![](assets/four.png)
 
-1. Seleccione a las personas del evento en la lista. Uso **Ctrl** (o **Comando** en un Mac) para hacer clic en varias personas, o **Seleccionar todo** para marcar todos ellos.
+1. Seleccione a las personas del evento en la lista. Uso **[!UICONTROL Ctrl]** (o **[!UICONTROL Comando]** en un Mac) para hacer clic en varias personas, o **[!UICONTROL Seleccionar todo]** para marcar todos ellos.
 
    ![](assets/five.png)
 
-1. Clic **Acciones de persona**, pase el ratón sobre **Programas** y seleccione **Cambiar estado del programa**.
+1. Clic **[!UICONTROL Acciones de persona]**, pase el ratón sobre **[!UICONTROL Programas]** y seleccione **[!UICONTROL Cambiar estado del programa]**.
 
    ![](assets/six.png)
 
-1. Haga clic en **Programa** y seleccione el evento.
+1. Haga clic en **[!UICONTROL Programa]** y seleccione el evento.
 
    ![](assets/seven.png)
 
-1. Haga clic en **Nuevo estado** y seleccione. **Jornadas abiertas > Registradas**. Clic **Ejecutar ahora**.
+1. Haga clic en **[!UICONTROL Nuevo estado]** y seleccione. **[!UICONTROL Jornadas] > [!UICONTROL Registrados]**. Clic **[!UICONTROL Ejecutar ahora]**.
 
    ![](assets/eight.png)
 

@@ -4,9 +4,9 @@ description: Explicación de las tarjetas de eventos - Documentos de Marketo - D
 title: Explicación de las tarjetas de eventos
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,9 @@ Al pulsar cualquier tarjeta de programa de correo electrónico, puede:
 * [Marcar un evento como listo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Compartir una tarjeta de momento del evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Hay dos tarjetas de eventos. La tarjeta On-Deck, enviada unas horas antes del evento, muestra cuántas personas están inscritas. La tarjeta Resultados, enviada posteriormente, muestra cuántas asistieron realmente.
+Hay dos tarjetas de eventos. El [!UICONTROL En cubierta] La tarjeta de, enviada unas horas antes del evento, muestra cuántas personas se han registrado. El [!UICONTROL Resultados] La tarjeta de, enviada después de, muestra cuántos asistieron realmente.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-¡Eres bueno!
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 'Envío de una muestra: documentos de Marketo, documentación del p
 title: Envío de una muestra
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,11 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocar **Enviar muestra**.
+1. Tocar **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Introduzca una dirección de correo electrónico y haga clic en **Enviar muestra**.
+1. Introduzca una dirección de correo electrónico y haga clic en **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -38,5 +38,3 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 1. Pulse el icono avión de papel en la pantalla Vista previa de correo electrónico para enviar una muestra directamente desde la vista previa.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)
-
-¡Misión cumplida!

@@ -4,16 +4,16 @@ description: Conceder acceso a los usuarios a la aplicación de registro - Docum
 title: Conceder a los usuarios acceso a la aplicación de registro
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Conceder a los usuarios acceso a la aplicación de registro {#grant-users-access-to-the-check-in-app}
 
-Marketo tiene una función de usuario especial para la aplicación de registro de eventos. A continuación, se indica cómo crear una función nueva con permiso para utilizar la aplicación.
+El Marketo Engage tiene una función de usuario especial para la aplicación de registro de eventos. A continuación, se indica cómo crear una función nueva con permiso para utilizar la aplicación.
 
 >[!IMPORTANT]
 >
@@ -21,19 +21,19 @@ Marketo tiene una función de usuario especial para la aplicación de registro d
 
 ## Crear una nueva función de usuario para móvil {#create-a-new-user-role-for-mobile}
 
-1. Clic **Administrador**.
+1. Clic **[!UICONTROL Administrador]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Clic **Usuarios y funciones**.
+1. Clic **[!UICONTROL Usuarios y funciones]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Haga clic en **Funciones** y haga clic en **Nuevo rol**.
+1. Haga clic en **[!UICONTROL Funciones]** y haga clic en **[!UICONTROL Nuevo rol]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Introduzca un nombre para la nueva función y una descripción opcional. Compruebe la **Acceso a aplicación móvil** y haga clic en **Crear**.
+1. Introduzca un nombre para la nueva función y una descripción opcional. Compruebe la **[!UICONTROL Acceso a aplicación móvil]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo tiene una función de usuario especial para la aplicación de registro d
 
 ## Invitar a nuevos usuarios a la aplicación de registro {#invite-new-users-for-the-check-in-app}
 
-1. Haga clic en **Usuarios** pestaña.
+1. Haga clic en **[!UICONTROL Usuarios]** pestaña.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Clic **Invitar nuevo usuario**.
+1. Clic **[!UICONTROL Invitar nuevo usuario]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Introduzca la información del nuevo usuario. Seleccione las casillas de verificación de todas las funciones apropiadas y la nueva función con el permiso para acceder a la aplicación móvil. Clic **Invitar** cuando hayas terminado.
+1. Introduzca la información del nuevo usuario. Seleccione las casillas de verificación de todas las funciones apropiadas y la nueva función con el permiso para acceder a la aplicación móvil. Clic **[!UICONTROL Invitar]** cuando hayas terminado.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

@@ -4,9 +4,9 @@ description: 'Explicación de las tarjetas de Analytics: documentos de Marketo, 
 title: Explicación de las tarjetas de Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---
@@ -51,17 +51,15 @@ El **Posibles clientes adquiridos** Esta tarjeta muestra un informe mes tras mes
 
 ## Nuevos posibles clientes {#new-leads}
 
-El **Nuevos posibles clientes** Esta tarjeta muestra un informe mes tras mes de tendencias de la cantidad total de nuevos posibles clientes en su instancia durante los últimos seis meses.
+El **[!UICONTROL Nuevos posibles clientes]** Esta tarjeta muestra un informe mes tras mes de tendencias de la cantidad total de nuevos posibles clientes en su instancia durante los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Cancela suscripción {#unsubscribes}
 
-El **Cancela la suscripción** Esta tarjeta muestra un informe de tendencias mes tras mes de la tasa de cancelación de suscripción de los últimos seis meses.
+El **[!UICONTROL Cancela la suscripción]** Esta tarjeta muestra un informe de tendencias mes tras mes de la tasa de cancelación de suscripción de los últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Ahora ya lo sabes.
 
 >[!MORELIKETHIS]
 >

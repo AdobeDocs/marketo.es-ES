@@ -1,45 +1,44 @@
 ---
 unique-page-id: 1147318
-description: Glosario de métodos abreviados del teclado - Documentos de Marketo - Documentación del producto
+description: Glosario de métodos abreviados de teclado - Documentos de Marketo - Documentación del producto
 title: Glosario de métodos abreviados del teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 12%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 # Glosario de métodos abreviados del teclado {#keyboard-shortcuts-glossary}
 
-¿Es una persona con métodos abreviados de teclado? ¡Te hemos cubierto!
+¿Es usted un usuario de métodos abreviados de teclado? ¡Te tenemos cubierto!
 
-## Navegación de área: {#area-navigation}
+## Navegación por áreas {#area-navigation}
 
-| Atajo de teclado | Área |
+| Método abreviado de teclado | Área |
 |---|---|
-| Alt/Opción + A | Análisis |
+| Alt/Opt + A | Analytics |
 | Alt/Opt + C | Calendario |
 | Alt/Opt + D | Estudio de diseño |
-| Alt/Opción + F | Búsqueda global |
+| Alt/Opt + F | Búsqueda global |
 | Alt/Opt + L | Base de datos |
 | Alt/Opt + M | Actividades de marketing |
 | Opt + N | Administración |
 | Opt + O | Mi Marketo |
-| Alt/Opt + S | Menú Superball desplegable |
 
-## Navegación de vista de calendario/programación:  {#calendar-schedule-view-navigation}
+## Navegación de vista de calendario/programación  {#calendar-schedule-view-navigation}
 
-| Atajo de teclado | Accion |
+| Método abreviado de teclado | Acción |
 |---|---|
-| Alt/Opt + flecha arriba | Retroceder en el tiempo |
-| Alt/Opt + flecha abajo | Avanzar en el tiempo |
-| Alt/Opt + T | Vaya a &quot;Hoy&quot; |
+| Alt/Opt + Flecha arriba | Retroceder en el tiempo |
+| Alt/Opt + Flecha abajo | Avanzar en el tiempo |
+| Alt/Opt + T | Ir a &#39;Hoy&#39; |
 
-## Varios: {#miscellaneous}
+## Varios {#miscellaneous}
 
-| Atajo de teclado | Accion |
+| Método abreviado de teclado | Acción |
 |---|---|
 | ESC | Cerrar elemento emergente |
-| Retorno/Intro | Elemento emergente Enviar |
-| Ctrl + Alt/Opt + H | Ocultar/mostrar un campo en el editor de formularios |
+| Devolver/Entrar | Ventana emergente Enviar |
+| Ctrl + Alt/Opción + H | Ocultar/mostrar un campo en el editor de formularios |

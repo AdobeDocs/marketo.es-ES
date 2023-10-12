@@ -4,9 +4,9 @@ description: 'Vista previa de un correo electrónico: documentos de Marketo, doc
 title: Previsualización de un correo electrónico
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Tocar **Previsualizar correo electrónico**.
+1. Tocar **[!UICONTROL Previsualizar correo electrónico]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -34,5 +34,3 @@ Haga clic con el botón derecho en una tarjeta de correo electrónico para previ
    >[!NOTE]
    >
    >Para enviar una muestra directamente desde la página Vista previa de correo electrónico, pulse el icono avión de papel en la parte superior derecha.
-
-   ¡Excelente!

@@ -4,10 +4,10 @@ description: 'Uso compartido de un momento: documentos de Marketo, documentació
 title: Compartir un momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 2%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 2%
 >
 >El 2 de octubre de 2023, Adobe eliminó la aplicación Momentos de Marketo de todas las tiendas de aplicaciones. Si ya tiene la aplicación instalada en su tableta o dispositivo móvil, puede seguir utilizándola por el momento. Una vez que la instancia de Marketo Engage se haya migrado a Identidad de Adobe para la autenticación de Marketo, ya no podrá acceder a la aplicación. [Más información](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-1. Pulse el botón **Compartir** en la tarjeta.
+1. Pulse el botón **[!UICONTROL Compartir]** en la tarjeta.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Pulse el menú de la tarjeta y pulse **Compartir** en la pantalla Detalles.
+1. Pulse el menú de la tarjeta y pulse **[!UICONTROL Compartir]** en la pantalla Detalles.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -37,8 +37,6 @@ ht-degree: 2%
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. Introduzca la dirección del destinatario, un asunto y pulse **Enviar**.
+1. Introduzca la dirección del destinatario, un asunto y pulse **[!UICONTROL Enviar]**.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
-
-   ¡Buen trabajo! 

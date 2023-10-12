@@ -4,9 +4,9 @@ description: Explicación de las tarjetas de programa de correo electrónico - D
 title: Explicación de las tarjetas de programa de correo electrónico
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Una vez enviado el correo electrónico, la tarjeta muestra otra información val
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tocar **Confirmar**.
+1. Tocar **[!UICONTROL Confirmar]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocar **Confirmar** para finalizar el trabajo, o **Olvídese De** si tuvieras dudas.
+1. Tocar **[!UICONTROL Confirmar]** para finalizar el trabajo, o **[!UICONTROL Olvídese De]** si tuvieras dudas.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Una vez enviado el correo electrónico, la tarjeta muestra otra información val
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tocar **Cancelar envío**.
+1. Tocar **[!UICONTROL Cancelar envío]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Puede reprogramar las tarjetas de correo electrónico confirmadas o no confirmad
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tocar **Reprogramar**.
+1. Tocar **[!UICONTROL Reprogramar]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Seleccione una fecha en el calendario y pulse **Reprogramar**.
+1. Seleccione una fecha en el calendario y pulse **[!UICONTROL Reprogramar]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocar **Enviar muestra**.
+1. Tocar **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Introduzca una dirección de correo electrónico y haga clic en **Enviar muestra**.
+1. Introduzca una dirección de correo electrónico y haga clic en **[!UICONTROL Enviar muestra]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,17 +105,13 @@ Puede compartir una muestra de un momento de correo electrónico directamente co
 
 Haga clic con el botón derecho en una tarjeta de correo electrónico para previsualizarla.
 
-1. Tocar **Previsualizar correo electrónico**.
+1. Tocar **[!UICONTROL Previsualizar correo electrónico]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
    De este modo, ¡sabe que su correo electrónico es perfecto antes de tirar del déclencheur!
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
-
-   ¡Excelente!
-
-Y esa es la primicia al ver tus campañas de correo electrónico. ¡Ahora, eres un profesional!
 
 >[!MORELIKETHIS]
 >

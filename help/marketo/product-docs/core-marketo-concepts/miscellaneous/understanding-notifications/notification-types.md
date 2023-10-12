@@ -1,62 +1,62 @@
 ---
 unique-page-id: 2953243
-description: Tipos de notificaciones - Documentos de Marketo - Documentación del producto
+description: 'Tipos de notificación: documentos de Marketo, documentación del producto'
 title: Tipos de notificación
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
 
 # Tipos de notificación {#notification-types}
 
-Existen varios tipos de notificaciones.
+Existen varios tipos de notificación.
 
 ## Error de campaña  {#campaign-failure}
 
-Los errores de campaña le notifican de los errores de sus campañas inteligentes.
+Los errores de Campaign le notifican de los errores que se producen en sus campañas inteligentes.
 
 ## Sincronización de CRM {#crm-sync}
 
-Las notificaciones de sincronización de CRM le advierten de problemas críticos que se han encontrado con la sincronización de CRM, como permisos incorrectos o la sincronización que se está realizando.
+Las notificaciones de sincronización de CRM le avisan de problemas críticos que se encuentran con la sincronización de CRM, como permisos incorrectos o la sincronización no está activa.
 
-**Microsoft Dynamics**
+**[!DNL Microsoft Dynamics]**
 
-Las notificaciones de Dynamics se envían una vez cada 24 horas y contienen posibles clientes que no se pudieron sincronizar en ese período de tiempo. Los motivos típicos del error son posibles clientes duplicados (como se indica más arriba) o errores de coincidencia de longitud de campo.
+Las notificaciones de Dynamics se envían una vez cada 24 horas y contienen posibles clientes que no se sincronizaron en ese período de tiempo. Los motivos habituales del error son los errores de coincidencia de longitud de campo o posibles clientes duplicados (como se ha indicado anteriormente).
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
-**Salesforce**
+**[!DNL Salesforce]**
 
-Si utiliza Salesforce, las notificaciones de error de sincronización se parecen a la que se muestra a continuación. Los errores típicos incluyen credenciales caducadas y límites de API excedidos.
+Si utiliza Salesforce, las notificaciones de error de sincronización se parecerán a la de abajo. Los errores habituales incluyen credenciales caducadas y límites de API excedidos.
 
 ![](assets/salesforcesyncerror.png)
 
-Compromiso
+## Compromiso {#engagement}
 
-Cuando los posibles clientes se agotan en una secuencia, se envía una notificación.  La notificación incluye el número de posibles clientes que se agotaron y alguna otra información.
+Cuando las personas se agotan en un flujo, enviamos una notificación. La notificación incluye el número de personas que se agotaron y alguna otra información.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
-Facebook
+## Facebook {#facebook}
 
-Si intenta enviar posibles clientes a Facebook sin aceptar los términos del servicio o si intenta enviar posibles clientes a Facebook después de eliminar la aplicación de Marketo.
+Si intenta enviar personas a Facebook sin aceptar los Términos de servicio o si intenta enviar personas a Facebook después de eliminar la aplicación de Marketo.
 
-Limpieza de campaña de Déclencheur inactivo
+## Limpieza de campaña de Déclencheur inactivo {#idle-trigger-campaign-cleanup}
 
-Desactivar activó las campañas inteligentes que ya no obtienen ninguna actividad. Más información sobre  [limpieza de campaña de déclencheur automático](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desactive las campañas inteligentes activadas que ya no obtengan ninguna actividad. Más información sobre  [limpieza automática de campaña de déclencheur](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
-LinkedIn
+## LinkedIn {#linkedin}
 
-Cuando Marketo no puede crear una nueva audiencia, iniciar sesión o enviar correos electrónicos a LinkedIn después de tres intentos.
+Cuando Marketo no puede crear una nueva audiencia, inicie sesión o envíe correos electrónicos a LinkedIn después de tres intentos.
 
 ![](assets/linkedin.png)
 
-Servicios Web
+## Servicios web {#web-services}
 
-Recibirá una notificación cuando alcance su cuota diaria. La cuota se restablece cada noche a medianoche, hora central.
+Se le notificará cuando alcance su cuota diaria. La cuota se restablece cada noche a medianoche, hora central.
 
 >[!NOTE]
 >

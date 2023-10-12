@@ -1,11 +1,11 @@
 ---
-description: Solicitudes de privacidad - Documentos de Marketo - Documentación del producto
+description: 'Solicitudes de privacidad: documentos de Marketo, documentación del producto'
 title: Solicitudes de privacidad
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 0%
+source-wordcount: '354'
+ht-degree: 2%
 
 ---
 
@@ -15,59 +15,58 @@ Este documento proporciona información general sobre la administración de soli
 
 >[!NOTE]
 >
->Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para el Marketo Engage solo se aplican a lo siguiente:
+>Las solicitudes de privacidad enviadas a través de la interfaz de usuario del Privacy Service o la API para Marketo Engage solo se aplican a lo siguiente:
 >
->* usuarios Marketo Engage que se han incorporado al sistema Identity Management de Adobe
+>* Usuarios de Marketo Engage que han incorporado Adobe Identity Management System
 >
 >**-o-**
 >
->* usuarios Marketo Engage que utilizan otro producto Experience Cloud que ya se encuentra en el sistema Identity Management de Adobe (por ejemplo, RT-CDP, B2B y B2P Editions, Audience Manager).
+>* Usuarios de Marketo Engage que utilizan otro producto de Experience Cloud que ya se encuentra en el sistema Identity Management de Adobe (por ejemplo, RT-CDP, ediciones B2B y B2P, Audience Manager).
 
+Puede enviar solicitudes individuales para acceder a los datos de consumo y eliminarlos de Marketo Engage de dos formas:
 
-Puede enviar solicitudes individuales para acceder a los datos de consumo y eliminarlos del Marketo Engage de dos maneras:
+* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [aquí](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=es){target="_blank"}.
+* A través de la API de Privacy Service. Consulte la documentación [aquí](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-* A través de [IU de Privacy Service](https://privacyui.cloud.adobe.io/). Consulte la documentación [here](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}.
-* A través de la API de Privacy Service. Consulte la documentación [here](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} e información de API [here](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
-
-La variable [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} admite dos tipos de solicitudes: acceso a los datos y eliminación de datos.
+El [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} admite dos tipos de solicitudes: acceso a datos y eliminación de datos.
 
 Veamos cómo se pueden crear solicitudes de acceso y eliminación.
 
 ## Configuración necesaria para enviar solicitudes de Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-Para realizar solicitudes de acceso y eliminación de datos para el Marketo Engage, debe:
+Para realizar solicitudes de acceso y eliminación de datos para Marketo Engage, debe:
 
-1. Identifique lo siguiente:
+1. Identificar lo siguiente:
 
-   a. ID de organización IMS<br/>
-b. Dirección de correo electrónico de la persona en la que desea actuar
+   a. ID de organización de IMS<br/>
+b. Dirección de correo electrónico de la persona sobre la que desea actuar
 
-   Un ID de organización de IMS es una cadena alfanumérica de 24 caracteres anexada a @AdobeOrg. Si el equipo de marketing o el administrador interno del sistema de Adobe no conocen el ID de organización de IMS de su organización, póngase en contacto con el servicio de atención al cliente de Adobe en gdprsupport@adobe.com. Necesita el ID de organización de IMS para enviar solicitudes a la API de privacidad.
+   Un ID de organización de IMS es una cadena alfanumérica de 24 caracteres anexada a @AdobeOrg. Si el equipo de marketing o el administrador interno del sistema de Adobe no conocen el ID de organización de IMS de su organización, póngase en contacto con el Servicio de atención al cliente de Adobe en `gdprsupport@adobe.com`. Necesita el ID de organización de IMS para enviar solicitudes a la API de privacidad.
 
-1. En Privacy Service, puede enviar solicitudes de acceso y eliminación al Marketo Engage y comprobar el estado de las solicitudes existentes.
+1. En Privacy Service, puede enviar solicitudes de acceso y eliminación a Marketo Engage y comprobar el estado de las solicitudes existentes.
 
 ## Valores de campo requeridos en solicitudes JSON de Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
 
-&quot;companyContexts&quot;:
+&quot;companyContext&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* “Valor”: `<Your IMS Org ID Value>`
+* &quot;Valor&quot;: `<Your IMS Org ID Value>`
 
 &quot;usuarios&quot;:
 
-* &quot;acción&quot;: o **access** o **delete**
-* &quot;userIDs&quot;:
+* &quot;action&quot;: bien **access** o **eliminar**
+* &quot;userID&quot;:
    * &quot;namespace&quot;: **email**
-   * &quot;type&quot;: **standard**
-   * “Valor”: `<Data Subject’s Email Address>`
+   * &quot;tipo&quot;: **standard**
+   * &quot;Valor&quot;: `<Data Subject's Email Address>`
 
 &quot;incluir&quot;:
 
-* **marketing** (que es el producto de Adobe que se aplica a la solicitud)
+* **marketo** (que es el producto de Adobe que se aplica a la solicitud)
 
 &quot;regulación&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** o **nzpa_nzl**  (que es la norma de privacidad que se aplica a la solicitud)
+* **rgpd**, **ccpa**, **pdpa**, **lgpd_bra**, o **nzpa_nzl**  (que es la norma de privacidad que se aplica a la solicitud)
 
 ## Ejemplo 1: Solicitud de eliminación de RGPD {#gdpr-delete-request}
 
@@ -132,7 +131,7 @@ Respuesta JSON
 }
 ```
 
-## Ejemplo 2: Solicitud de acceso a la CCPA {#ccpa-access-request}
+## Ejemplo 2: Solicitud de acceso a CCPA {#ccpa-access-request}
 
 Solicitud JSON
 
