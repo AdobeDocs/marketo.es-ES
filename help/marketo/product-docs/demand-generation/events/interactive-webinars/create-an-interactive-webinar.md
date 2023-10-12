@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,10 @@ Cree un seminario web interactivo en unos sencillos pasos.
 Se creará el seminario web interactivo. Puede agregar moderadores o co-hosts.
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+>[!NOTE]
+>
+>Los co-hosts y los presentadores pueden ser usuarios externos y no necesitan tener acceso al Marketo Engage. Solo debe proporcionarles la dirección URL del seminario web.
 
 <br>
 
