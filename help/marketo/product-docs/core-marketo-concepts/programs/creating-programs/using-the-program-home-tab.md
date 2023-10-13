@@ -4,7 +4,7 @@ description: 'Uso de la pestaña Inicio del programa: Documentos de Marketo: doc
 title: Uso de la pestaña Inicio del programa
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
 ## Vista de resumen {#summary-view}
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Clic **Exportar** en la parte inferior del informe Resumen para descargar.
+1. Clic **[!UICONTROL Exportar]** en la parte inferior del informe Resumen para descargar.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Utilizado por la vista {#used-by-view}
 
-1. En Actividades de marketing, seleccione un programa.
+1. Entrada **[!UICONTROL Actividades de marketing]**, seleccione un programa.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Haga clic en **Ver** menú desplegable. Seleccionar **Utilizado por**.
+1. Haga clic en **[!UICONTROL Ver]** menú desplegable. Seleccionar **[!UICONTROL Utilizado por]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
 ## Vista de abono {#membership-view}
 
-1. En Actividades de marketing, seleccione un programa.
+1. Entrada **[!UICONTROL Actividades de marketing]**, seleccione un programa.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Haga clic en **Ver** menú desplegable. Seleccionar **Suscripción**.
+1. Haga clic en **[!UICONTROL Ver]** menú desplegable. Seleccionar **[!UICONTROL Suscripción]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ La pestaña Inicio del programa le ofrece una vista de alto nivel de lo que suce
 
    >[!NOTE]
    >
-   >**Histórico** significa cualquier persona que haya pasado por el programa, mientras que **Actual** solo incluye a las personas que están actualmente en el programa.
+   >**[!UICONTROL Histórico]** significa cualquier persona que haya pasado por el programa, mientras que **[!UICONTROL Actual]** solo incluye a las personas que están actualmente en el programa.
 
    >[!MORELIKETHIS]
    >
-   >[Explicación de la pertenencia al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[Explicación de la pertenencia al programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

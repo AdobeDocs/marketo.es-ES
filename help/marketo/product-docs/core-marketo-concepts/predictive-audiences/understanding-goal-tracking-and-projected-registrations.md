@@ -3,7 +3,7 @@ description: 'Explicación del seguimiento de objetivos y los registros proyecta
 title: Explicación del seguimiento de objetivos y los registros proyectados
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Explicación del seguimiento de objetivos y los registros proyectados {#understanding-goal-tracking-and-projected-registrations}
 
-A continuación, le indicamos cómo realizar un seguimiento del progreso de su objetivo y comprender las predicciones de Marketo.
+A continuación, le indicamos cómo realizar un seguimiento del progreso de sus objetivos y comprender las predicciones de Marketo.
 
 >[!PREREQUISITES]
 >
@@ -44,17 +44,17 @@ Si no ha habilitado el conmutador, así es como aparecerá en la interfaz de usu
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
-Todos los miembros (registrados y aún no registrados) se clasifican según su probabilidad de registro. Pase el ratón sobre el icono de información para ver cómo se definen estas categorías de probabilidad.
+Todos los miembros (registrados y aún no registrados) se clasifican según su probabilidad de registro. Pase el ratón sobre el icono de información para ver cómo se definen estas categorías de probabilidad.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
->Los números de predicción se actualizan cada 24 horas hasta el día del evento. Cualquier miembro que aparezca como _Procesando_ se incluirá en el siguiente ciclo de cálculo.
+>Los números de predicción se actualizan cada 24 horas hasta el día del evento. Cualquier miembro que aparezca como _Procesando_ se incluirá en el siguiente ciclo de cálculo.
 
 ## Programas similares
 
-Puede obtener información sobre el evento actual si observa el rendimiento de programas similares en el pasado. Esta sección muestra hasta 5 programas similares de los últimos 6 meses, con el número/porcentaje de miembros que fueron _Registrados_ o superior.
+Puede obtener información sobre el evento actual si observa el rendimiento de programas similares en el pasado. Esta sección muestra hasta 5 programas similares de los últimos 6 meses, con el número/porcentaje de miembros que fueron _Registrados_ o superior.
 
 En el cálculo de programas similares se incluyen, entre otros, los siguientes factores:
 
@@ -69,13 +69,13 @@ En el cálculo de programas similares se incluyen, entre otros, los siguientes f
 
 ## Recommendations
 
-En la parte superior de la página Informes, puede encontrar recomendaciones impulsadas por IA/ML en función de su progreso. Vuelva periódicamente para obtener consejos y perspectivas útiles.
+En la parte superior del [!UICONTROL Informes] , puede encontrar recomendaciones impulsadas por IA/ML basadas en su progreso. Vuelva periódicamente para obtener consejos y perspectivas útiles.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Predicciones a nivel de persona
 
-Haga clic en **[!UICONTROL Miembros]** para ver todos los miembros del programa. Pase el ratón sobre **[!UICONTROL Probabilidad de registro]** o **[!UICONTROL Probabilidad de asistencia]** para ver los porcentajes y las categorizaciones exactos. Luego puede tomar medidas con los miembros de una categoría en particular (por ejemplo, todos en la categoría &quot;Menos probable&quot; de registrarse), y específicamente dirigirlos para aumentar potencialmente sus números de registro.
+Haga clic en **[!UICONTROL Miembros]** para ver todos los miembros del programa. Pase el ratón sobre **[!UICONTROL Probabilidad de registro]** o **[!UICONTROL Probabilidad de asistencia]** para ver los porcentajes y las categorizaciones exactos. Luego puede tomar medidas con los miembros de una categoría en particular (por ejemplo, todos en la categoría &quot;Menos probable&quot; de registrarse), y específicamente dirigirlos para aumentar potencialmente sus números de registro.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -107,7 +107,7 @@ El % de conversión para registrarse seguirá este patrón: Muy probable > Proba
 
 R: La práctica recomendada implica lo siguiente:
 
-i. Usted crea un programa y luego una campaña inteligente utiliza filtros predictivos con &quot;bueno que X&quot;, lo que resultaría en una cierta cantidad de personas (digamos 1000) y usted ejecuta la campaña.
+i. Crea un programa y luego una campaña inteligente utiliza filtros predictivos con &quot;mayor que X&quot;, lo que resultaría en una cierta cantidad de personas (digamos 1000) y ejecuta la campaña.
 
 ii. Después de 24 horas, en el [!UICONTROL Informes] pestaña puede ver los registros proyectados que se calculan en función de la probabilidad de registrar valores de todas las personas invitadas actualmente.
 
@@ -129,7 +129,7 @@ R: Tres barras, cada una de las cuales representa un segmento (Muy probable, Pro
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
-Por ejemplo, supongamos que 100 personas tienen probabilidades de registrarse > 50 % y 60 de esas 100 personas registradas. Es muy probable que tenga una conversión del 60 %. Por lo tanto, todos los miembros añadidos al programa tienen probabilidad de registrar valores, luego se colocan en segmentos y según el número de personas registradas en cada tasa de conversión del segmento se calcula.
+Por ejemplo, supongamos que 100 personas tienen probabilidad de registrarse > 50 % y 60 de esas 100 personas registradas. Es muy probable que tenga una conversión del 60 %. Por lo tanto, todos los miembros añadidos al programa tienen probabilidad de registrar valores, luego se colocan en segmentos y según el número de personas registradas en cada tasa de conversión del segmento se calcula.
 
 **P: ¿Qué significa &quot;Registrado y Superior&quot;?**
 

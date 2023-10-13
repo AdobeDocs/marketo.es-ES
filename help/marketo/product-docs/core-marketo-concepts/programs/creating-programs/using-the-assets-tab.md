@@ -4,20 +4,20 @@ description: Uso de la pestaña Recursos - Documentos de Marketo - Documentació
 title: Uso de la pestaña Recursos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 2%
 
 ---
 
 # Uso de la pestaña Recursos {#using-the-assets-tab}
 
-El lienzo de recursos es una representación visual del programa. Puede utilizarlo para agregar recursos locales e interactuar con los existentes.
+El lienzo de recursos es una representación visual del programa de evento o predeterminado. Puede utilizarlo para agregar recursos locales e interactuar con los existentes.
 
 ## Agregando recursos {#adding-assets}
 
-Desde el **Actividades de marketing** , haga clic en el **Assets** pestaña. Elija cualquiera de los siguientes recursos y agréguelos a su programa.
+Haga clic en **[!UICONTROL Assets]** en el programa deseado. Elija cualquiera de los siguientes recursos y agréguelos a su programa.
 
 ![](assets/programassets.png)
 
@@ -41,4 +41,4 @@ Los recursos que no son locales del programa lucirán de esta manera:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-La pestaña Recursos es un pequeño y bueno panel para todo lo que hay dentro del programa y a lo que se hace referencia en él.
+La pestaña de recursos es un pequeño panel ideal para todo lo que hay dentro del programa y a lo que se hace referencia en él.

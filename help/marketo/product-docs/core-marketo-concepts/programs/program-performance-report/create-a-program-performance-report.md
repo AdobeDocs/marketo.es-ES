@@ -4,26 +4,26 @@ description: Creación de un informe de rendimiento del programa - Documentos de
 title: Crear un informe de rendimiento del programa
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '119'
 ht-degree: 3%
 
 ---
 
 # Crear un informe de rendimiento del programa {#create-a-program-performance-report}
 
-Consulte buenas estadísticas de sus programas con este informe.
+Vea excelentes estadísticas sobre sus programas con este informe.
 
-1. [Creación de un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) y seleccione la **Rendimiento del programa** [tipo de informe](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. Haga clic en **Informe** pestaña.
+1. [Creación de un informe en un programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. Haga clic en **[!UICONTROL Informe]** pestaña.
 1. ¡Tú estás ahí! Explore el informe para ver el rendimiento de los programas.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Para buscar los programas con los valores más bajos *Coste por éxito*, por ejemplo, [ordenar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) en esa columna y elija **Orden ascendente**.
+>Para buscar los programas con los valores más bajos *Coste por éxito*, por ejemplo, [ordenar el informe](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} en esa columna y elija **[!UICONTROL Orden ascendente]**.
 
 Las columnas de un informe Rendimiento de programa incluyen:
 

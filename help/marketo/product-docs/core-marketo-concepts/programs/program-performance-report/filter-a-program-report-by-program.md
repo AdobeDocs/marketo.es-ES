@@ -4,7 +4,7 @@ description: 'Filtrado de un informe de programa por programa: Documentos de Mar
 title: Filtrado de un informe de programa por programa
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrado de un informe de programa por programa {#filter-a-program-report-by-program}
 
-Enfoque su [informe de ejecución del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) en programas específicos para comparar su rendimiento.
+Enfoque su [informe de ejecución del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} en programas específicos para comparar su rendimiento.
 
-1. Ir a **Marketing** **Actividades** (o **Analytics**).
+1. Ir a **[!UICONTROL Actividades de marketing]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Enfoque su [informe de ejecución del programa](/help/marketo/product-docs/core-
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Haga clic en **Configurar** pestaña y arrastre **Programas**.
+1. Haga clic en **[!UICONTROL Configurar]** pestaña y arrastre **[!UICONTROL Programas]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ Enfoque su [informe de ejecución del programa](/help/marketo/product-docs/core-
    >
    >Si selecciona una carpeta, el informe incluirá todo lo que la carpeta contenga en el momento en que se ejecute el informe.
 
-1. ¡Eso es todo! Haga clic en **Informe** pestaña para ver _justo_ los programas seleccionados en el informe.
+1. ¡Eso es todo! Haga clic en **[!UICONTROL Informe]** pestaña para ver _justo_ los programas seleccionados en el informe.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
-   >[!NOTE]
-   >
-   >[Filtrado de un informe de programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
+>[!NOTE]
+>
+>[Filtrado de un informe de programa por etiqueta](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

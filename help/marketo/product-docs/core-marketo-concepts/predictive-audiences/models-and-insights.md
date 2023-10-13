@@ -3,7 +3,7 @@ description: Modelos e información - Documentos de Marketo - Documentación del
 title: Modelos e información
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Vaya a **[!UICONTROL Modelos y estado de datos]** sección debajo de **[!UICONTR
 
 ![Imagen uno](assets/models-and-insights-1.png)
 
-* **Estado de formación**: indica si el modelo se está entrenando activamente (mejorando las predicciones). El entrenamiento se realiza automáticamente cada 2 semanas. Cualquier modelo que sea _Procesando_ puede tardar hasta 24 horas en terminar. Para cualquier _Error_ modelos, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Estado de formación**: indica si el modelo se está entrenando activamente (mejorando las predicciones). El entrenamiento se realiza automáticamente cada 2 semanas. Cualquier modelo que sea _Procesando_ puede tardar hasta 24 horas en terminar. Para cualquier _Error_ modelos, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Estado de puntuación**: indica si el modelo está calculando predicciones de forma activa (porcentajes de probabilidad) para los miembros del programa.
 * **Rendimiento**: categorización del estado del modelo en función de la integridad y calidad de los datos (ver a continuación).
 * **Complejidad de datos**: porcentaje de atributos de datos presentes/completos.

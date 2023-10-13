@@ -4,9 +4,9 @@ description: 'Creación de un programa: documentos de Marketo, documentación de
 title: Crear un programa
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Los programas son uno de los elementos más importantes de Marketo. ¡Los vas a usar mucho!
 
-1. Ir a **Actividades de marketing.**
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione la carpeta para el nuevo programa. Seleccionar **Nuevo** y haga clic en **Nuevo programa**.
+1. Seleccione la carpeta para el nuevo programa. Seleccionar **[!UICONTROL Nuevo]** y haga clic en **[!UICONTROL Nuevo programa]**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Introduzca una **Nombre**, seleccione una **[Canal](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** en la lista desplegable y haga clic en **Crear**.
+1. Introduzca una **[!UICONTROL Nombre]**, seleccione una **[[!UICONTROL Canal]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** en la lista desplegable y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
 >[!MORELIKETHIS]
 >
->[Explicación de programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>[Explicación de programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
