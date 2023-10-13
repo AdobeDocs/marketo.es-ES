@@ -4,10 +4,10 @@ description: Edición de entradas en la vista de programación - Documentos de M
 title: Edición de Entradas en la Vista de Programa Programado
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Escriba un nombre nuevo y pulse **Entrar/Volver** en el teclado para confirmar el cambio.
+1. Escriba un nombre nuevo y pulse **[!UICONTROL Entrar/Volver]** en el teclado para confirmar el cambio.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Edite la descripción. Clic **Guardar**.
+1. Edite la descripción. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -53,4 +53,4 @@ Puede realizar modificaciones en los diferentes elementos del programa en la vis
 
 >[!NOTE]
 >
-> Las entradas del programa de correo electrónico y campaña inteligente que ya se han ejecutado no se pueden mover al pasado.
+> Las entradas de los programas de campañas inteligentes y de correo electrónico que ya se han ejecutado no se pueden mover al pasado.

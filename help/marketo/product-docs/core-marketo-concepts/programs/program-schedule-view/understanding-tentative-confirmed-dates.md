@@ -4,7 +4,7 @@ description: Explicación de las fechas provisionales o confirmadas - Documentos
 title: Explicación de las fechas provisionales/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Explicación de las fechas provisionales/confirmadas {#understanding-tentative-confirmed-dates}
 
-Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para marcarse como **Provisional** o **Confirmado**. Así es como funcionan.
+Las campañas inteligentes y los programas de correo electrónico tienen una potente capacidad para marcarse como **[!UICONTROL Provisional]** o **[!UICONTROL Confirmado]**. Así es como funcionan.
 
 ## Tentativo {#tentative}
 
@@ -47,7 +47,7 @@ Las entradas confirmadas se ejecutarán sin duda. Tienen reglas, recursos aproba
 
 ## Finalizado  {#finished}
 
-Las entradas finalizadas ya se han ejecutado. Solo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y es **Finalizado**, no puede moverlo ni convertirlo en provisional. (Sin cambiar la realidad y alterar el continuo del flujo de tiempo).
+Las entradas finalizadas ya se han ejecutado. Solo pueden ser en el pasado (obviamente). Una vez que una entrada se ha ejecutado y es **[!UICONTROL Finalizado]**, no puede moverlo ni convertirlo en provisional. (Sin cambiar la realidad y alterar el continuo del flujo de tiempo).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

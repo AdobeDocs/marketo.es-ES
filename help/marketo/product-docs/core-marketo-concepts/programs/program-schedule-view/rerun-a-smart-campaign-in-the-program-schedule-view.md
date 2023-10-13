@@ -4,7 +4,7 @@ description: Volver a ejecutar una campaña inteligente en la vista de programac
 title: Volver a ejecutar una campaña inteligente en la vista de programación del programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente directamente desde la vista de programación del programa.
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -35,4 +35,4 @@ Puede crear fácilmente nuevas ejecuciones de una campaña inteligente existente
    >
    >También puede hacerlo desde el [enfoque del programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-¡Boom! Así de fácil, has programado otra ejecución para esa campaña inteligente. Si esa campaña inteligente contenía los pasos para enviar correos electrónicos, ¡también los verá!
+¡Boom! Así de fácil, ha programado otra ejecución para esa campaña inteligente. Si esa campaña inteligente contenía los pasos para enviar correos electrónicos, ¡también los verá!

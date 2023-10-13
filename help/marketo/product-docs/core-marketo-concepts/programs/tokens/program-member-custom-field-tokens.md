@@ -4,10 +4,10 @@ description: Tokens de campo personalizado de miembro del programa - Documentos 
 title: Tokens de campo personalizado de miembro de programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
 **Emails**
 
-1. Seleccione el correo electrónico deseado y haga clic en **Editar borrador**.
+1. Seleccione el correo electrónico deseado y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Busque y seleccione el token de campo personalizado de miembro de programa deseado, introduzca un valor predeterminado y haga clic en **Insertar**.
+1. Busque y seleccione el token de campo personalizado de miembro de programa deseado, introduzca un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
 **Páginas de destino**
 
-1. Seleccione la página de aterrizaje y haga clic en **Editar borrador**.
+1. Seleccione la página de aterrizaje y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,17 +75,17 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Introduzca un valor predeterminado y haga clic en **Insertar**.
+1. Introduzca un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. Seleccione el SMS deseado y haga clic en **Editar borrador**.
+1. Seleccione el SMS deseado y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
@@ -97,17 +97,17 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Haga clic en el menú desplegable Acciones de SMS y seleccione **Aprobar y cerrar**.
+1. Haga clic en el menú desplegable Acciones de SMS y seleccione **[!UICONTROL Aprobar y cerrar]**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **Insertar notificaciones**
 
-1. Seleccione la notificación push que desee y haga clic en **Editar borrador**.
+1. Seleccione la notificación push que desee y haga clic en **[!UICONTROL Editar borrador]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Clic **Notificación push**.
+1. Clic **[!UICONTROL Notificación push]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
@@ -115,11 +115,11 @@ Puede insertar tokens de campos personalizados de miembros del programa en corre
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Introduzca un valor predeterminado y haga clic en **Insertar**.
+1. Busque y seleccione el token de campo personalizado del miembro del programa que desee. Introduzca un valor predeterminado y haga clic en **[!UICONTROL Insertar]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clic **Finalizar** para guardar y salir (o **Siguiente** para revisarlo primero).
+1. Clic **[!UICONTROL Finalizar]** para guardar y salir (o **[!UICONTROL Siguiente]** para revisarlo primero).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

@@ -4,7 +4,7 @@ description: Navegación por la vista Programación del programa - Documentos de
 title: Navegación por la vista Programación del programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 
 ## Búsqueda de la vista de programación {#find-the-schedule-view}
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleccione el programa. Haga clic en **Ver** menú desplegable. Seleccionar **Programación**.
+1. Seleccione el programa. Haga clic en **[!UICONTROL Ver]** menú desplegable. Seleccionar **[!UICONTROL Programación]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Estos son los conceptos básicos para ayudarle a navegar por la vista de program
 
 ## Cambio entre modos {#changing-between-modes}
 
-1. Haciendo clic en **3 semanas** o **Mes** cambiará las fechas visibles en la pantalla.
+1. Haciendo clic en **[!UICONTROL 3 semanas]** o **[!UICONTROL Mes]** cambiará las fechas visibles en la pantalla.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Excelente! Ahora que sabe cómo ver su programa, vamos a aprender las otras cosa
 
 >[!MORELIKETHIS]
 >
->[Creación de una Entrada en la Vista de Programa Programado](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Creación de una Entrada en la Vista de Programa Programado](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

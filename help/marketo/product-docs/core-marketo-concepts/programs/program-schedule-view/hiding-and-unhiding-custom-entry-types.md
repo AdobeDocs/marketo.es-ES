@@ -4,7 +4,7 @@ description: 'Ocultar y mostrar tipos de entradas personalizadas: documentos de 
 title: Ocultar y mostrar tipos de entrada personalizados
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Los tipos de entradas personalizadas se pueden ocultar en la sección Administra
 
 ## Ocultar un tipo de entrada personalizada {#hide-a-custom-entry-type}
 
-1. Vaya a la **Administrador** y haga clic en **Entrada de calendario** **Tipos**.
+1. Vaya a la **[!UICONTROL Administrador]** y haga clic en **[!UICONTROL Tipos de entradas de calendario]**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Haga clic con el botón derecho en la entrada personalizada y seleccione **Hide**.
+1. Haga clic con el botón derecho en la entrada personalizada y seleccione **[!UICONTROL Hide]**.
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ Los tipos de entradas personalizadas se pueden ocultar en la sección Administra
 
 Si desea mostrar un tipo de entrada personalizada, también es fácil.
 
-1. Haga clic con el botón derecho en la entrada y seleccione **Mostrar**.
+1. Haga clic con el botón derecho en la entrada y seleccione **[!UICONTROL Mostrar]**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

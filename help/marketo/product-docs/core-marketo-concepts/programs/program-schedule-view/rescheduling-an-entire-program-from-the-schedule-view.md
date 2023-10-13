@@ -4,7 +4,7 @@ description: 'Reprogramación de un programa completo desde la vista de programa
 title: Reprogramación de un Programa Completo desde la Vista de Programa
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Al clonar un programa o evento con fechas, es probable que desee reprogramar tod
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleccione la lista desplegable Acción del evento. Elegir **Reprogramar entradas**.
+1. Seleccione la lista desplegable Acción del evento. Elegir **[!UICONTROL Reprogramar entradas]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Al clonar un programa o evento con fechas, es probable que desee reprogramar tod
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Clic **Reprogramar**.
+1. Clic **[!UICONTROL Reprogramar]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
