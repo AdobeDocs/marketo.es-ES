@@ -4,9 +4,9 @@ description: 'Creación de una nueva campaña inteligente: documentos de Marketo
 title: Creación de una nueva campaña inteligente
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Las campañas inteligentes son la herramienta más importante de Marketo Engage.
 >
 >Más información sobre [Campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Haga clic con el botón derecho en el programa deseado y seleccione **Nueva campaña inteligente**.
+1. Haga clic con el botón derecho en el programa deseado y seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,11 +31,11 @@ Las campañas inteligentes son la herramienta más importante de Marketo Engage.
    >
    >Puede crear campañas inteligentes como recursos locales de cualquier programa.
 
-1. Introduzca el nombre de la campaña inteligente y haga clic en **Crear**.
+1. Introduzca el nombre de la campaña inteligente y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 
-   A continuación, aprenda a definir qué personas desean ejecutar la campaña inteligente con una lista inteligente.
+   A continuación, aprenda a definir qué personas deben ejecutar la campaña inteligente con una lista inteligente.
 
    >[!MORELIKETHIS]
    >

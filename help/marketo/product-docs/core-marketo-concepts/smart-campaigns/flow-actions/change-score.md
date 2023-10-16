@@ -4,7 +4,7 @@ description: 'Cambiar puntuación: Documentos de Marketo: documentación del pro
 title: Cambiar calificación
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 6%
@@ -27,7 +27,7 @@ La puntuación de personas es fácil y potente para ayudar a su equipo de ventas
 
    >[!TIP]
    >
-   >Puede crear varios campos de puntuación. Consulte [Creación de un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) para obtener más información.
+   >Puede crear varios campos de puntuación. Consulte [Creación de un campo personalizado en Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para obtener más información.
 
 1. Introduzca el cambio de puntuación que desee.
 

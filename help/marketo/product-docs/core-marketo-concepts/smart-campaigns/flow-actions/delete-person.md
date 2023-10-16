@@ -4,9 +4,9 @@ description: Eliminar persona - Documentos de Marketo - Documentación del produ
 title: Eliminar persona
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---
@@ -31,10 +31,10 @@ Al arrastrar el paso de flujo, también se establecerá automáticamente para el
 
 ![](assets/two-4.png)
 
-Puede eliminar de Marketo y no de su CRM, de esta manera:
+Puede eliminarlo del Marketo Engage y no de su CRM, de esta forma:
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->Eliminación de la persona de su CRM **solo funciona con Salesforce**. Si elimina a una persona de Marketo y decide mantenerla en Salesforce, se volverá a crear en Marketo si en algún momento se actualiza su registro de Salesforce.
+>Eliminación de la persona de su CRM _solo funciona con[!DNL Salesforce]_. Si elimina a una persona de Marketo y decide mantenerla en [!DNL Salesforce], se volverán a crear en Marketo si sus [!DNL Salesforce] el registro se actualiza.

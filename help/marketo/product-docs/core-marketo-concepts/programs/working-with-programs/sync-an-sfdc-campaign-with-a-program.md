@@ -4,9 +4,9 @@ description: 'Sincronización de una campaña de SFDC con un programa: documento
 title: Sincronización de una campaña de SFDC con un programa
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage le permite sincronizar sus programas con [!DNL Salesforce] campa�
 
 >[!PREREQUISITES]
 >
->Deberá hacer lo siguiente [habilitar [!DNL Salesforce] sincronización de campaña](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) primero.
+>Deberá hacer lo siguiente [habilitar [!DNL Salesforce] sincronización de campaña](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} primero.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketo Engage le permite sincronizar sus programas con [!DNL Salesforce] campa�
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Seleccionar **[!UICONTROL Crear nuevo]** o elija una campaña de Salesforce existente.
+1. Seleccionar **[!UICONTROL Crear nuevo]** o elija una existente [!DNL Salesforce] campaña.
 
    >[!TIP]
    >
-   >Si selecciona una campaña de Salesforce existente, asegúrese de lo siguiente [hacer coincidir los estados de programa de la campaña de Salesforce y del programa de Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Si selecciona una existente [!DNL Salesforce] campaña, asegúrese de lo siguiente [coincidir con los estados de programa del [!DNL Salesforce] campaign y el programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Introduzca un nombre para la nueva campaña y haga clic en **[!UICONTROL Guardar]**.
 

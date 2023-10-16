@@ -4,7 +4,7 @@ description: Explicación de las campañas inteligentes por lotes y Déclencheur
 title: Explicación de las campañas inteligentes por lotes y Déclencheur
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 3%
@@ -27,14 +27,14 @@ Las campañas por lotes solo tendrán filtros dentro de la sección de la lista 
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Haciendo clic en **Programación** Esta pestaña confirmará que la campaña inteligente está configurada en &quot;Lote&quot;.
+Haciendo clic en **[!UICONTROL Programación]** Esta pestaña confirmará que la campaña inteligente está configurada en &quot;Lote&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campañas inteligentes por lotes**
 
 * Se puede programar para recurrencias, como diarias, semanales y mensuales. También puede hacer que se ejecuten solo una vez.
-* Son visibles en la [vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). No se incluirá en la vista nada después de un paso &quot;Espera&quot; dentro de la campaña inteligente.
+* Son visibles en la [vista de programación del programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. No se incluirá en la vista nada después de un paso &quot;Espera&quot; dentro de la campaña inteligente.
 
 <br> 
 
@@ -50,7 +50,7 @@ Si una campaña inteligente utiliza al menos un déclencheur dentro de la secci�
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Haciendo clic en **Programación** Esta pestaña confirma que la campaña inteligente está configurada en &quot;Activada&quot;.
+Haciendo clic en **[!UICONTROL Programación]** Esta pestaña confirma que la campaña inteligente está configurada en &quot;Activada&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
@@ -61,4 +61,4 @@ Haciendo clic en **Programación** Esta pestaña confirma que la campaña inteli
 
 >[!TIP]
 >
->Utilice el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) para ver paso a paso qué ha sucedido en sus campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.
+>Utilice el [registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} para ver paso a paso qué ha sucedido en sus campañas inteligentes. Puede encontrar el registro de actividad en la última pestaña de la página de detalles de una persona.

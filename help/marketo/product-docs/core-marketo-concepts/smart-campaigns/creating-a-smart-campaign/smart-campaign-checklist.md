@@ -4,7 +4,7 @@ description: 'Lista de comprobación de campañas inteligentes: documentos de Ma
 title: Lista de comprobación de campañas inteligentes
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Siga los siguientes pasos para garantizar un funcionamiento sin problemas de la 
 
 ## Eliminación de errores de listas inteligentes {#get-rid-of-smart-list-errors}
 
-En su campaña inteligente, haga clic en **Lista inteligente**. Elimine cualquier línea roja ondulada que vea al corregir los errores.
+En su campaña inteligente, haga clic en **[!UICONTROL Lista inteligente]**. Elimine cualquier línea roja ondulada que vea al corregir los errores.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -25,15 +25,15 @@ En su campaña inteligente, haga clic en **Lista inteligente**. Elimine cualquie
 >
 >Las líneas rojas onduladas indican errores o falta información. Si no se corrige, la campaña no será válida y no se ejecutará.
 >
->Además, **mantenga las cosas simples**. Si tiene docenas o cientos de filtros, es difícil mantenerlos y realizar un seguimiento. Menos filtros también son más rápidos de cargar.
+>Además, mantenga las cosas simples. Si tiene docenas o cientos de filtros, es difícil mantenerlos y realizar un seguimiento. Menos filtros también son más rápidos de cargar.
 
 >[!NOTE]
 >
->Uso de **Miembro de lista inteligente** podría tener errores en esa otra lista. Revisa allí también.
+>Uso de **[!UICONTROL Miembro de lista inteligente]** podría tener errores en esa otra lista. Revisa allí también.
 
 ## Eliminación de errores de flujo {#get-rid-of-flow-errors}
 
-En la campaña inteligente, haga clic en **Flujo**. Elimine las líneas rojas onduladas que vea al corregir los errores.
+En la campaña inteligente, haga clic en **[!UICONTROL Flujo]**. Elimine las líneas rojas onduladas que vea al corregir los errores.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ En la campaña inteligente, haga clic en **Flujo**. Elimine las líneas rojas on
 
 ## Revise la pestaña Programación {#review-the-schedule-tab}
 
-En el **Programación** pestaña, marca **Inteligente** **Lista** **Estado** para cualquier error en la campaña inteligente que deba corregirse.
+En el **[!UICONTROL Programación]** pestaña, marca **[!UICONTROL Estado de lista inteligente]** para cualquier error en la campaña inteligente que deba corregirse.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Comprobar límite de restricciones de persona {#check-person-restrictions-limit}
 
-En el **Programación** pestaña, asegúrese de que el número de personas cualificadas no supere el límite de restricción de personas.
+En el **[!UICONTROL Programación]** pestaña, asegúrese de que el número de personas cualificadas no supere el límite de restricción de personas.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ En el **Programación** pestaña, asegúrese de que el número de personas cuali
 >
 >Si la campaña inteligente sigue fallando, aprenda a [comprender las notificaciones](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para averiguar qué ha fallado y cómo solucionarlo.
 
-¡bueno trabajo! Tenga esta lista de comprobación a mano antes de ejecutar una campaña inteligente.
+¡Buen trabajo! Tenga esta lista de comprobación a mano antes de ejecutar una campaña inteligente.
