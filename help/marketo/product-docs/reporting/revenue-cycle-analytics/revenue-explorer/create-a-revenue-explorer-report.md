@@ -4,9 +4,9 @@ description: Creación de un informe del Explorador de ingresos - Documentos de 
 title: Creación de un informe de explorador de ingresos
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ El informe Explorador de ingresos permite rastrear el ROI de las iniciativas de 
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Vaya a la **Explorador de ingresos** área.
 

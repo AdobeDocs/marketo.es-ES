@@ -4,9 +4,9 @@ description: Emitir una licencia de complemento de correo electrónico de Market
 title: Emitir una licencia de complemento de correo electrónico de Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Todo usuario que desee utilizar el complemento Outlook de correo electrónico de
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >

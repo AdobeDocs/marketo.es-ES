@@ -4,9 +4,9 @@ description: 'Administración de datos de perfil social: documentos de Marketo, 
 title: Administrar datos de perfil social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ Las aplicaciones sociales y de relleno de formularios capturan conjuntos de camp
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Capturado mediante aplicación social {#captured-via-social-app}
 
@@ -29,7 +29,7 @@ Según la configuración de privacidad de la red y del usuario, se recuperan uno
 >
 >La información adicional de las redes sociales aparece en la página Detalles de la persona unos cinco minutos después de que la persona lo autorice.
 
-## Desde Twitter: {#from-twitter}
+## Desde el Twitter: {#from-twitter}
 
 * Nombre (analizado desde Nombre para mostrar)
 * Apellidos (analizado desde Nombre para mostrar)
@@ -58,7 +58,7 @@ Según la configuración de privacidad de la red y del usuario, se recuperan uno
 >
 >Los datos capturados por el relleno de formulario social sobrescriben los campos coincidentes a menos que [bloquear actualizaciones de esos campos en el nivel de formulario](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Desde Twitter: {#from-twitter-1}
+## Desde el Twitter: {#from-twitter-1}
 
 * Nombre (analizado desde Nombre para mostrar)
 * Apellidos (analizado desde Nombre para mostrar)

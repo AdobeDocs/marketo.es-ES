@@ -4,9 +4,9 @@ description: '"Agregar [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio: D
 title: "Agregar [!DNL Google AdWords] as a [!DNL LaunchPoint] Servicio"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Más información sobre [Función de importación de conversión sin conexión d
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >

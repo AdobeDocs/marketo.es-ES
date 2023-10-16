@@ -4,9 +4,9 @@ description: 'Editar configuración de publicación enriquecida de Facebook: doc
 title: Editar configuración de publicación enriquecida de Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Personalice las publicaciones cuando las personas le compartan en Facebook.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 Marketo [aplicaciones sociales](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) permita que los posibles clientes compartan sus páginas de aterrizaje con sus conexiones en redes sociales como Facebook, Twitter, etc. Las etiquetas OpenGraph de facebook (etiquetas OG) le permiten especificar qué información de la página de aterrizaje se incluye en las publicaciones de Facebook.
 

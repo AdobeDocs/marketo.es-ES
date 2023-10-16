@@ -4,9 +4,9 @@ description: Explicación de los programas de eventos - Documentos de Marketo - 
 title: Explicación de los programas de eventos
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## Información general {#overview}
 

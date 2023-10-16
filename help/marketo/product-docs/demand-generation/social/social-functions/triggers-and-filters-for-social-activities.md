@@ -4,10 +4,10 @@ description: Déclencheur y filtros para actividades sociales - Documentos de Ma
 title: Déclencheur y filtros para actividades sociales
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 24%
+source-wordcount: '164'
+ht-degree: 23%
 
 ---
 
@@ -17,7 +17,7 @@ Las aplicaciones sociales de Marketo tienen sus propios déclencheur y filtros e
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Para usar Social _déclencheur_, seleccione la campaña inteligente y haga clic en **Lista inteligente** pestaña. A la derecha, haga clic en + para expandir **Déclencheur**, entonces **Social**.
 

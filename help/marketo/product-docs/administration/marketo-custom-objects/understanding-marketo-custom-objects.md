@@ -4,9 +4,9 @@ description: 'Explicación de los objetos personalizados de Marketo: documentos 
 title: Explicación de los objetos personalizados de Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Utilice objetos personalizados para realizar un seguimiento de métricas especí
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 Utilice objetos personalizados como filtros y déclencheur en sus campañas inteligentes. Por ejemplo:
 

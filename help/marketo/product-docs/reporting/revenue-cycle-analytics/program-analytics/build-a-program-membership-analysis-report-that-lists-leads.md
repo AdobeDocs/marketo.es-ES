@@ -4,9 +4,9 @@ description: Creación de un informe de análisis de pertenencia a programas que
 title: Crear un informe de análisis de pertenencia a programas que enumere los posibles clientes
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Siga estos pasos para crear un informe Análisis de pertenencia a programas que 
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Inicie el Explorador de ingresos.
 

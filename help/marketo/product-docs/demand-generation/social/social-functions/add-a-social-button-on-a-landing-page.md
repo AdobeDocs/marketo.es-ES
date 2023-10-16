@@ -4,9 +4,9 @@ description: 'Adición de un botón social en una página de aterrizaje: documen
 title: Añadir un botón social en una página de aterrizaje
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Un botón social anima a las personas a compartir su contenido con sus amigos. C
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Vaya a la página de aterrizaje y haga clic en **Editar borrador**.
 

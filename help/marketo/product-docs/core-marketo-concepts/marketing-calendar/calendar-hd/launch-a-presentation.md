@@ -4,9 +4,9 @@ description: 'Lanzamiento de una presentación: documentos de Marketo, documenta
 title: Iniciar una presentación
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Una vez que haya establecido las vistas y la frecuencia de rotación para su pre
 >[!AVAILABILITY]
 >
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!PREREQUISITES]
 >

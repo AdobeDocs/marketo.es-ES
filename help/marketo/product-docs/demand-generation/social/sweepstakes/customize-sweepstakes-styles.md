@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2359807
-description: Personalizar estilos de apuestas - Documentos de Marketo - Documentación del producto
-title: Personalizar estilos de apuestas
+description: Personalizar estilos de sorteo - Documentos de Marketo - Documentación del producto
+title: Personalizar estilos de sorteos
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Personalizar estilos de apuestas {#customize-sweepstakes-styles}
+# Personalizar estilos de sorteos {#customize-sweepstakes-styles}
 
-Cuando [crear una apuesta](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede personalizar su aspecto en la página de aterrizaje.
+Cuando usted [crear un sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede personalizar el aspecto de la página de aterrizaje.
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Vaya a **Actividades de marketing**.
+1. Ir a **Actividades de marketing**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Seleccione las apuestas y haga clic en **Editar borrador**.
+1. Seleccione el sorteo y haga clic en **Editar borrador**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. En el editor Apuestas, vaya a **Configuración de la aplicación** > **Aspecto**.
+1. En el editor de Sorteos, vaya a **Configuración de aplicación** > **Aspecto**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -46,7 +46,7 @@ Cuando [crear una apuesta](/help/marketo/product-docs/demand-generation/social/s
 
    >[!NOTE]
    >
-   >Si utiliza una imagen con texto en ella, recuerde quitar el texto del **Botón Entrar** en Texto de arriba.
+   >Si utiliza una imagen con texto, recuerde quitar el texto del **Botón Entrar** en Texto, más arriba.
 
 1. A medida que realiza cada cambio, el resultado se muestra en la vista previa Ver y editar.
 
@@ -54,8 +54,8 @@ Cuando [crear una apuesta](/help/marketo/product-docs/demand-generation/social/s
 
    >[!NOTE]
    >
-   >Pruebe el botón en varios navegadores diferentes, incluidas las versiones anteriores.
+   >Pruebe el botón en varios exploradores diferentes, incluidas versiones anteriores.
 
    >[!MORELIKETHIS]
    >
-   >El siguiente paso es agregar [correos electrónicos de registro y de cumplimiento a sus apuestas](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >El siguiente paso es añadir [inscríbete y envía correos electrónicos a tus sorteos](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

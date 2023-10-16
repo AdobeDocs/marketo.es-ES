@@ -4,9 +4,9 @@ description: "Agregar [!DNL Google AdWords] as a [!DNL Launchpoint] Servicio con
 title: "Agregar [!DNL Google AdWords] as a [!DNL Launchpoint] Servicio con una cuenta de responsable"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Más información sobre [Función de importación de conversión sin conexión d
 
 >[!AVAILABILITY]
 >
->No todos los clientes han comprado esta función. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Más información sobre [Función de importación de conversión sin conexión d
    >
    >[Etiquetado automático](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} debe estar seleccionado para que esta función funcione. Debe activarse en el interior [!DNL AdWords].
 
-1. Clic **[!UICONTROL Siguiente]**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 

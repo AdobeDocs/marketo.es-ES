@@ -4,9 +4,9 @@ description: 'Añadir un vídeo: documentos de Marketo, documentación del produ
 title: Añadir un vídeo
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Coloque vídeos con opciones de uso compartido en redes sociales en sus páginas
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Vaya a la página de aterrizaje y haga clic en **Editar borrador**.
 

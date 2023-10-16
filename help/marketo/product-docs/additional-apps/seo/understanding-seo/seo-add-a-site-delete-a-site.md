@@ -4,9 +4,9 @@ description: 'SEO: Agregar un sitio/Eliminar un sitio - Documentos de Marketo: d
 title: 'SEO: Agregar un sitio/Eliminar un sitio'
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Para que Marketo extraiga datos (vínculos de entrada y recomendaciones) relevan
 
 >[!AVAILABILITY]
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 ## [!UICONTROL Agregar un sitio] {#add-a-site}
 

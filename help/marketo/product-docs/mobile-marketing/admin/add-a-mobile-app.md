@@ -4,10 +4,10 @@ description: 'Añadir una aplicación móvil: documentos de Marketo, documentaci
 title: Añadir una aplicación móvil
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ Las aplicaciones suelen iniciarse en un entorno de espacio aislado, donde se rea
 >[!AVAILABILITY]
 >
 >
->No todos los clientes han adquirido esta funcionalidad. Póngase en contacto con su representante de ventas para obtener más información.
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
 1. Clic **Administrador**.
 
@@ -34,7 +34,7 @@ Las aplicaciones suelen iniciarse en un entorno de espacio aislado, donde se rea
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Ingresar nombre. En el **Tipo** , seleccione el tipo de entorno que está utilizando (zona protegida o producción). Clic **Guardar**.
+1. Ingresar nombre. En el **Tipo** , seleccione el tipo de entorno que está utilizando (zona protegida o producción). Haga clic en **Guardar**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
