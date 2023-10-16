@@ -4,7 +4,7 @@ description: 'Importación de un programa: documentos de Marketo, documentación
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Un programa se puede importar de una suscripción de Marketo a otra. Por ejemplo
 
 ## Importación de programas {#importing-a-program}
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Haga clic en **Nuevo** y seleccione. **Importar programa**.
+1. Haga clic en **[!UICONTROL Nuevo]** y seleccione. **[!UICONTROL Importar programa]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ Un programa se puede importar de una suscripción de Marketo a otra. Por ejemplo
    >
    >Para conectar una cuenta de zona protegida a su suscripción activa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Seleccione una Marketo **Suscripción** y un programa para importar. Haga clic en **Siguiente**.
+1. Seleccione una Marketo **[!UICONTROL Suscripción]** y un programa para importar. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especifique un **Carpeta de campaña** para el programa importado. Haga clic en **Siguiente.**
+1. Especifique un **[!UICONTROL Carpeta de campaña]** para el programa importado. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Asegúrese de **Utilizar conflicto predeterminado** reglas está seleccionado. Se necesitan reglas de conflicto al importar programas en una instancia que tiene recursos del mismo nombre.
+   >Asegúrese de **[!UICONTROL Utilizar conflicto predeterminado]** reglas está seleccionado. Se necesitan reglas de conflicto al importar programas en una instancia que tiene recursos del mismo nombre.
 
-1. Seleccione los detalles del conflicto que desee y haga clic en **Siguiente**.
+1. Seleccione los detalles del conflicto que desee y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ Un programa se puede importar de una suscripción de Marketo a otra. Por ejemplo
    >
    >Al importar un programa que utiliza pasos de flujo personalizados o reglas de listas inteligentes derivadas de un servicio de pasos de flujo a una instancia de destino en la que haya más de un proveedor de servicios compatible, se solicitará al usuario importador que asigne pasos o reglas al proveedor de servicios correcto en la instancia de destino.
 
-1. Previsualizar detalles y **Importar** el programa.
+1. Previsualizar detalles y **[!UICONTROL Importar]** el programa.
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 
 >[!CAUTION]
 >
->Tipo de imagen: mis tokens no son compatibles con las importaciones de programas. Si se importa un programa que tiene el tipo de imagen mis tokens, **no** los tokens se transferirán.
+>Tipo de imagen: mis tokens no son compatibles con las importaciones de programas. Si se importa un programa que tiene el tipo de imagen mis tokens, _no_ los tokens se transferirán.
 
 **Etiquetas de programas:** Puede utilizar reglas de conflicto para controlar cómo se tratarán las etiquetas de programa que no existen en la cuenta de destino. El uso de la regla predeterminada creará las etiquetas de programa o puede optar por ignorar las etiquetas.
 

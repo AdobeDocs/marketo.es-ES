@@ -3,10 +3,10 @@ description: Sincronización de campos personalizados de miembros del programa -
 title: Sincronización de campos personalizados de miembro de programa
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 6%
+source-wordcount: '353'
+ht-degree: 7%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 6%
 
 ## Asignar campos de Salesforce a campos personalizados de miembros del programa {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. En Marketo, haga clic en **Administrador**.
+1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Clic **Salesforce**, luego haga clic en **Editar** junto a Sincronización de campos personalizados de miembro de programa.
+1. Clic **[!DNL Salesforce]**, luego haga clic en **[!UICONTROL Editar]** junto a Sincronización de campos personalizados de miembro de programa.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 6%
 
 1. Para asignaciones de campos adicionales, borre el cuadro de búsqueda y repita los pasos del 3 al 5.
 
-1. Clic **Guardar** cuando termine.
+1. Clic **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 6%
 
 Si alguna vez desea liberar un campo para reemplazarlo o simplemente realizar un cambio general, primero debe realizar una desasignación. Así es como.
 
-1. En Marketo, haga clic en **Administrador**.
+1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Clic **Salesforce**, luego haga clic en **Editar** junto a Sincronización de campos personalizados de miembro de programa.
+1. Clic **[!DNL Salesforce]**, luego haga clic en **[!UICONTROL Editar]** junto a Sincronización de campos personalizados de miembro de programa.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Si alguna vez desea liberar un campo para reemplazarlo o simplemente realizar un
 
    >[!TIP]
    >
-   >Puede seleccionar el **Asignado** para ver solo los campos asignados.
+   >Puede seleccionar el **[!UICONTROL Asignado]** para ver solo los campos asignados.
 
 1. Desasigne haciendo clic en **X** junto al campo.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. La asignación se ha eliminado. Clic **Guardar**.
+1. La asignación se ha eliminado. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

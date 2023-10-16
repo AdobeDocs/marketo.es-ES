@@ -4,9 +4,9 @@ description: 'Eliminación de un programa: documentos de Marketo, documentación
 title: Eliminar un programa
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Puede archivar un programa, pero a veces solo desea deshacerse de él de forma p
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Clic **Acciones de programa**. Clic **Eliminar**.
+1. Haga clic en **[!UICONTROL Acciones de programa]** y seleccione. **[!UICONTROL Eliminar]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Seleccione la opción Delete all. Revise los efectos secundarios de la eliminación del programa y haga clic en **Eliminar** para confirmar.
+1. Seleccione el botón de opción &quot;Eliminar todo...&quot;. Revise los efectos de la eliminación del programa y haga clic en **[!UICONTROL Eliminar]** para confirmar.
 
 >[!TIP]
 >
->**Archivar programas** mantiene los datos del programa, pero lo aparta de su camino. Seleccione esa opción y haga clic en **Siguiente** para ver más detalles sobre el archivado.
+>Archivar programas mantiene los datos del programa, pero lo aparta de su camino. Seleccione esa opción y haga clic en **[!UICONTROL Siguiente]** para ver más detalles sobre el archivado.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Para solucionar el problema, es posible que necesite explorar en profundidad y d
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clic **Utilizado por** para ver dónde está en uso el recurso.
+1. Clic **[!UICONTROL Utilizado por]** para ver dónde está en uso el recurso.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

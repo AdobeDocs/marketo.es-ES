@@ -4,7 +4,7 @@ description: Importación de miembros de una hoja de cálculo a un programa - Do
 title: Importar miembros de una hoja de cálculo a un programa
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,35 +23,35 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
    >[!CAUTION]
    >
-   >Al importar una fecha en un campo de fecha, utilice este formato: 29/9/13 (mes/día/año).
+   >Al importar una fecha en un campo de fecha, utilice este formato: 29/9/24 (mes/día/año).
 
 ## Importar el CSV a Marketo {#import-your-csv-into-marketo}
 
-1. En el programa, vaya a **Miembros** sección.
+1. En el programa, vaya a **[!UICONTROL Miembros]** sección.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Clic **Importar miembros**.
+1. Clic **[!UICONTROL Importar miembros]**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Seleccione el CSV y haga clic en **Siguiente**.
+1. Seleccione el CSV y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/importlist1.png)
 
-1. Asigne los valores de datos de la lista a sus campos de Marketo correspondientes y haga clic en **Siguiente**.
+1. Asigne los valores de datos de la lista a sus campos de Marketo correspondientes y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >Si hay campos que no desea importar, seleccione **IGNORAR** en el menú desplegable Marketo Field.
+   >Si hay campos que no desea importar, seleccione **[!UICONTROL IGNORAR]** en el menú desplegable Marketo Field.
 
-1. Seleccione el **Estado de miembro** para su lista.
+1. Seleccione el **[!UICONTROL Estado de miembro]** para su lista.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Clic **Importar**.
+1. Clic **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
@@ -65,4 +65,4 @@ Puede importar una lista de personas que se convierten automáticamente en miemb
 
 >[!MORELIKETHIS]
 >
->[Administrar y ver miembros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
+>[Administrar y ver miembros](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
