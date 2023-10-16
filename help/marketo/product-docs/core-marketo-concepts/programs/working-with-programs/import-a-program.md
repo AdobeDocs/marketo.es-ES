@@ -4,38 +4,38 @@ description: 'Importación de un programa: documentos de Marketo, documentación
 title: Importar un programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # Importar un programa {#import-a-program}
 
-Un programa se puede importar de una suscripción de Marketo a otra. Por ejemplo, puede crear un programa en una zona protegida y luego importarlo en su suscripción activa. Además, puede importar un programa generado previamente desde la Biblioteca de programas de Marketo.
+Un programa se puede importar de una suscripción de Marketo a otra. Por ejemplo, puede crear un programa en una zona protegida y luego importarlo en su suscripción activa. Además, puede importar un programa generado previamente desde el [Biblioteca del programa Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## Importación de programas {#importing-a-program}
 
-1. Ir a **Actividades de marketing.**
+1. Ir a **Actividades de marketing**.
 
    ![](assets/import-a-program-1.png)
 
-1. Clic **Nuevo** desplegable. Seleccionar **Importar programa**.
+1. Haga clic en **Nuevo** y seleccione. **Importar programa**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >La importación de programas solo está disponible para los usuarios que tienen roles con el permiso Importar programa habilitado. Más información sobre [administrar roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >La importación de programas solo está disponible para los usuarios que tienen roles con el permiso Importar programa habilitado. Más información sobre [administrar roles y permisos de usuario](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Para conectar una cuenta de zona protegida a su suscripción activa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Para conectar una cuenta de zona protegida a su suscripción activa, póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Seleccione una Marketo **Suscripción** y un programa para importar. Clic **Siguiente**.
+1. Seleccione una Marketo **Suscripción** y un programa para importar. Haga clic en **Siguiente**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especifique un **Carpeta de campaña** para el programa importado. Clic **Siguiente.**
+1. Especifique un **Carpeta de campaña** para el programa importado. Haga clic en **Siguiente.**
 
    ![](assets/import-a-program-4.png)
 
@@ -69,7 +69,7 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 
 **Páginas de destino/Forms:** Si existe un formulario o una página de aterrizaje con el mismo nombre en Design Studio, se importarán, pero con un número anexado a su nombre (por ejemplo: Página de aterrizaje - 1).
 
-**Imágenes:** Las imágenes utilizadas por las páginas de aterrizaje se importan en el estudio de diseño a menos que exista una con el mismo nombre.
+**Imágenes:** Las imágenes utilizadas por las páginas de destino se importan en el estudio de diseño a menos que exista una con el mismo nombre.
 
 **Tokens:** Los tokens que residen fuera de un programa se convertirán en tokens locales durante el proceso de importación.
 
@@ -81,4 +81,4 @@ Los programas utilizan recursos externos como plantillas de correo electrónico,
 
 >[!CAUTION]
 >
->Al importar un programa, correos electrónicos/páginas de aterrizaje que contengan [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) se omitirá.
+>Al importar un programa, correos electrónicos/páginas de aterrizaje que contengan lo siguiente [contenido dinámico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} se omitirá.
