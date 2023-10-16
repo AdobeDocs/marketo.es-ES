@@ -4,7 +4,7 @@ description: 'Adición de un paso de flujo a una campaña inteligente: documento
 title: Adición de un paso de flujo a una campaña inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Los pasos de flujo indican a Marketo Engage lo que desea que le ocurra a un grup
 
 >[!NOTE]
 >
->Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reorganización de los pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} para asegurarse de que están en la secuencia correcta.
+>Los pasos de flujo se ejecutan en el orden en que aparecen en la lista. [Reorganización de los pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} para asegurarse de que están en la secuencia correcta.
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ Los pasos de flujo indican a Marketo Engage lo que desea que le ocurra a un grup
 >[!MORELIKETHIS]
 >
 >* [Uso de Agregar opción en un paso de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [Reordenación de los pasos de flujo en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [Reordenación de los pasos de flujo en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
