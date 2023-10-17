@@ -4,9 +4,9 @@ description: Crear tarea en Microsoft - Documentos de Marketo - Documentación d
 title: Crear tarea en Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Como experto en marketing, dispone de información que puede ayudar a las ventas a cerrar acuerdos. Puede crear tareas para que sepan lo que deben hacer y cuándo deben hacerlo.
 
-Crear tarea en Microsoft crea una tarea en Actividades relacionadas con la persona (posible cliente o contacto) en Microsoft.
+Crear tarea en Microsoft crea una tarea en Actividades relacionadas con la persona (posible cliente o contacto) en [!DNL Microsoft].
 
 >[!NOTE]
 >
->Este paso de flujo **solo funciona cuando se utiliza con déclencheur**, no filtros, en su campaña inteligente.
+>Este paso de flujo _solo funciona cuando se utiliza con déclencheur_, no filtros, en su campaña inteligente.
 
 De forma predeterminada, el paso de flujo tendrá este aspecto:
 
@@ -27,7 +27,7 @@ De forma predeterminada, el paso de flujo tendrá este aspecto:
 
 >[!NOTE]
 >
->Cuando el usuario de sincronización de Marketo está creando tareas, **Vence en** es un campo obligatorio para que la tarea se cree en Microsoft. Marketo introducirá cinco días de forma predeterminada si no se introduce ningún valor.
+>Cuando el usuario de sincronización de Marketo está creando tareas, **[!UICONTROL Vence en]** es un campo obligatorio para crear la tarea en [!DNL Microsoft]. Marketo introducirá cinco días de forma predeterminada si no se introduce ningún valor.
 
 Personalice todos los campos para crear la tarea de la manera que desee.
 
@@ -35,8 +35,8 @@ Personalice todos los campos para crear la tarea de la manera que desee.
 
 >[!NOTE]
 >
->El campo &quot;Estado&quot; especificado para la tarea en Acción de flujo actualiza el campo: &quot;Motivo del estado&quot; en Microsoft.
+>El campo &quot;Estado&quot; especificado para la tarea en Acción de flujo actualiza el campo: &quot;Razón del estado&quot; en [!DNL Microsoft].
 
 >[!TIP]
 >
->Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` y `{{system.tokens}}` en el **Asunto** y **Descripción**. Consulte [Tokens para pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) para obtener más información.
+>Puede utilizar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` y `{{system.tokens}}` en el **[!UICONTROL Asunto]** y **[!UICONTROL Descripción]**. Consulte [Tokens para pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} para obtener más información.

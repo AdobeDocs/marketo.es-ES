@@ -4,18 +4,18 @@ description: 'Déclencheur y filtros para campañas móviles inteligentes: Docum
 title: Déclencheur y filtros para campañas inteligentes móviles
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 1%
 
 ---
 
 # Déclencheur y filtros para campañas inteligentes móviles {#triggers-and-filters-for-mobile-smart-campaigns}
 
-Puede configurar déclencheur y filtros para una campaña inteligente de aplicación móvil.
+Puede configurar déclencheur y filtros para una aplicación móvil o campaña inteligente.
 
-Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Utilice filtros de inactividad para rastrear una acción, como pulsar una notificación push, que *no lo hice* suceda.
+Para la mayoría de las actividades, hay un déclencheur, un filtro y un filtro de inactividad. Utilice filtros de inactividad para rastrear una acción, como pulsar una notificación push, que _no lo hice_ suceda.
 
 * La Aplicación Móvil Está/Estaba Instalada
 * Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
@@ -27,7 +27,7 @@ Solo hay filtros para esta actividad:
 
 * Se envió la notificación push: filtro y filtro de inactividad
 
-Buscar por **aplicación móvil** en el panel derecho para ver una lista de todos los déclencheur y filtros de las aplicaciones móviles.
+Busque &quot;aplicación móvil&quot; en el panel derecho para ver una lista de todos los déclencheur y filtros de aplicaciones móviles.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ Se Ha Abierto/Se Ha Abierto La Aplicación Móvil
 
 Tiene/Tuvo Actividad De Aplicación Móvil
 
-Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Deberá trabajar con el desarrollador para configurar el seguimiento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) y [para iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Proporcionan una forma eficaz de realizar un seguimiento de la actividad móvil personalizada. Deberá trabajar con el desarrollador para configurar el seguimiento [para Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * Tiene actividad de aplicación móvil: déclencheur
 
@@ -192,5 +192,5 @@ Notificaciones push con toque o toque
 
 >[!MORELIKETHIS]
 >
->* [Agregar una restricción a un filtro de listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Uso de filtros de inactividad en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Agregar una restricción a un filtro de listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Uso de filtros de inactividad en una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

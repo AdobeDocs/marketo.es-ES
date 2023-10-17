@@ -4,9 +4,9 @@ description: Dar crédito al referente - Documentos de Marketo - Documentación 
 title: Otorgar crédito al remitente
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 ## Información general {#overview}
 
-Al ejecutar un [oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [sorteo](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puede dar crédito al referente mediante diferentes métodos:
+Al ejecutar un [oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, puede dar crédito al referente mediante diferentes métodos:
 
 * Visitas conducidas
 * Suscripciones con referencia
@@ -34,6 +34,6 @@ Si eligió usar la variable **Déclencheur de listas inteligentes** para especif
 
    >[!NOTE]
    >
-   >Asegúrese de que la aplicación de redes sociales esté configurada para utilizar el Déclencheur de listas inteligentes. Consulte  [Especificar objetivo para oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) para obtener más información.
+   >Asegúrese de que la aplicación de redes sociales esté configurada para utilizar el Déclencheur de listas inteligentes. Consulte [Especificar objetivo para oferta de referencia](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} para obtener más información.
 
 ¡Excelente! Cualquier persona procesada por este paso de flujo ahora dará crédito a su referente.

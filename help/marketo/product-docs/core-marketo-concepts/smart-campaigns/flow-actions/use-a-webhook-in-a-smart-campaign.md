@@ -4,28 +4,28 @@ description: 'Uso de un webhook en una campaña inteligente: documentos de Marke
 title: Uso de un webhook en una campaña inteligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Uso de un webhook en una campaña inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para utilizar un [webhook](https://developers.marketo.com/documentation/webhooks/), agréguela a [campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) como una acción de flujo.
+Para utilizar un [webhook](https://developers.marketo.com/documentation/webhooks/){target="_blank"}, add it to a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como una acción de flujo.
 
 >[!AVAILABILITY]
 >
 >No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. [Creación de una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Creación de una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Los webhooks solo se pueden utilizar en campañas de déclencheur.
+   >Los webhooks solo se pueden usar en campañas de Déclencheur.
 
-1. Vaya a la **Flujo** y arrastre en el **Llamar a webhook** acción de flujo.
+1. Vaya a la **[!UICONTROL Flujo]** y arrastre en el **[!UICONTROL Llamar a webhook]** acción de flujo.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -37,6 +37,6 @@ Para utilizar un [webhook](https://developers.marketo.com/documentation/webhooks
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Por último, puede utilizar Webhooks en **Agregar opción** en un paso de flujo.
+1. Por último, puede utilizar Webhooks en **[!UICONTROL Agregar opción]** en un paso de flujo.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)

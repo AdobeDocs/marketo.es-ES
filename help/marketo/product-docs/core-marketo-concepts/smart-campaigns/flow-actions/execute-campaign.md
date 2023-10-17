@@ -3,7 +3,7 @@ description: 'Ejecución De Campaign: Documentos De Marketo: Documentación Del 
 title: Ejecutar campaña
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 1%
@@ -32,17 +32,17 @@ La ejecución de la campaña supone una mejora con [Solicitar campaña](/help/ma
 
 ## Cómo crear una campaña ejecutable {#how-to-create-an-executable-campaign}
 
-1. Haga clic con el botón derecho en el programa deseado y seleccione **Nueva campaña inteligente**.
+1. Haga clic con el botón derecho en el programa deseado y seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Asigne un nombre y seleccione **Ejecutable** y haga clic en **Crear**.
+1. Asigne un nombre y seleccione **[!UICONTROL Ejecutable]** y haga clic en **[!UICONTROL Crear]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Defina la lista inteligente y el flujo, como cualquier otra campaña inteligente.
 
-También puede clonar una campaña inteligente existente. Si clona una campaña ejecutable existente, aún tendrá que seleccionar la variable **Ejecutable** después de ponerle nombre.
+También puede clonar una campaña inteligente existente. Si clona una campaña ejecutable existente, aún tendrá que seleccionar la variable **[!UICONTROL Ejecutable]** después de ponerle nombre.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Al utilizar Programar o Solicitar campaña [en la API](https://developers.market
 
 >[!CAUTION]
 >
->No deje nunca inválidas las listas inteligentes de Campañas ejecutables; de lo contrario **nadie** cumplirá los requisitos para ello. La práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
+>No deje nunca inválidas las listas inteligentes de Campañas ejecutables; de lo contrario _nadie_ cumplirá los requisitos para ello. La práctica recomendada es crear recursos de listas inteligentes independientes, definirlos por completo y asegurarse de que son válidos. A continuación, utilice el filtro &quot;Miembro de la lista inteligente&quot; en la campaña ejecutable para poder intercambiar la definición de la lista inteligente.
 
 ## Ejemplo de herencia de token {#token-inheritance-example}
 
-A continuación se muestra un ejemplo visual de herencia de tokens en una campaña ejecutable y dos campañas principales: una con contexto de token establecido en **Verdadero**, el otro a **Falso**.
+A continuación se muestra un ejemplo visual de herencia de tokens en una campaña ejecutable y dos campañas principales: una con contexto de token establecido en **[!UICONTROL Verdadero]**, el otro a **[!UICONTROL Falso]**.
 
 Campaña secundaria con una puntuación de cambio identificada.
 
@@ -87,7 +87,7 @@ La campaña infantil es Mis tokens.
 
 ![](assets/execute-campaign-4.png)
 
-**Ejemplo 1: Verdadero**
+### Ejemplo 1: Verdadero {#example-one-true}
 
 En el paso Ejecutar flujo de campaña de la primera campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Verdadero**.
 
@@ -101,7 +101,7 @@ Los resultados: la puntuación cambió en +10.
 
 ![](assets/execute-campaign-7.png)
 
-**Ejemplo 2: False**
+### Ejemplo 2: False {#example-two-false}
 
 En el paso Ejecutar flujo de campaña de la segunda campaña principal, &quot;Usar contexto de token de campaña principal&quot; se establece en **Falso**.
 

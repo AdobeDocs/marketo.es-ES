@@ -3,9 +3,9 @@ description: 'Adición o eliminación de personas de la campaña de Dynamics: do
 title: Adición o eliminación de personas de la campaña de Dynamics
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Añadir a Dynamics Campaign {#add-to-dynamics-campaign}
 
-Este paso de flujo se puede utilizar en Marketo Smart Campaigns para agregar personas como posibles clientes o contactos en una campaña de Microsoft. Si el posible cliente aún no existe en Dynamics, se sincronizará automáticamente y se agregará a la campaña.
+Este paso de flujo se puede utilizar en Campañas inteligentes de Marketo Engage para agregar personas como posibles clientes o contactos en una campaña de Microsoft. Si el posible cliente aún no existe en Dynamics, se sincronizará automáticamente y se agregará a la campaña.
 
 >[!NOTE]
 >
 >Esta acción de flujo solo está disponible para campañas de Déclencheur.
 
-En la campaña inteligente, busque y seleccione la campaña de Dynamics a la que desee agregar a sus recursos.
+En su campaña inteligente, busque y seleccione la campaña de Dynamics a la que desee agregar a sus recursos.
 
 ![](assets/add-or-remove-people-from-your-dynamics-campaign-1.png)
 
@@ -29,7 +29,7 @@ En la campaña inteligente, busque y seleccione la campaña de Dynamics a la que
 >Si no puede ver una campaña de Dynamics en la lista de campañas:
 >
 >* Asegúrese de que la sincronización de Campaign funcione
->* La campaña no está activa en Microsoft Dynamics
+>* La campaña no está activa en [!DNL Microsoft Dynamics]
 
 El sistema crea automáticamente una lista de marketing estática específica de la campaña, cada una para posibles clientes y contactos, a la que se agregará la persona. Es una acción única y, una vez para las sincronizaciones posteriores a la campaña, se utiliza la misma lista de marketing. El estándar de nomenclatura adoptado para el nombre estático de la lista de marketing es `Mkto-leads-<uniqueID>` para posibles clientes y `Mkto-contacts-<uniqueID>` para contactos.
 
@@ -52,4 +52,4 @@ En la campaña inteligente, busque y seleccione la campaña de Dynamics de la qu
 >Si no ve una campaña de Dynamics en la lista de campañas:
 >
 >* Asegúrese de que la sincronización de Campaign funcione
->* La campaña no está activa en Microsoft Dynamics
+>* La campaña no está activa en [!DNL Microsoft Dynamics]

@@ -4,10 +4,10 @@ description: 'Uso de una duración en un paso de flujo de espera: documentos de 
 title: Utilizar una duración en un paso de flujo de espera
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a través de una campaña inteligente durante un tiempo determinado. También puede especificar criterios para el día de la semana y la hora en que termina.
 
-1. En su campaña inteligente **Flujo** , arrastre el cursor sobre la pestaña **Esperar** paso de flujo.
+1. En la campaña inteligente **[!UICONTROL Flujo]** , arrastre el cursor sobre la pestaña **[!UICONTROL Esperar]** paso de flujo.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -31,7 +31,7 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Si lo desea, especifique la hora. Clic **Guardar**.
+1. Si lo desea, especifique la hora. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -49,5 +49,5 @@ Puede utilizar el paso Flujo de espera para pausar el recorrido de una persona a
 
    >[!MORELIKETHIS]
    >
-   >* [Usar una fecha específica en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-   >* [Uso de un token de fecha en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+   >* [Usar una fecha específica en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [Uso de un token de fecha en un paso de flujo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

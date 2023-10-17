@@ -3,9 +3,9 @@ description: 'Servicio de pasos de flujo: documentos de Marketo: documentación 
 title: Servicio de paso de flujo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Pasos de flujo de autoservicio es un marco y un conjunto de funciones para la cr
 
 ## Incorporación y administración de servicios {#onboarding-and-managing-services}
 
-La instalación de un paso de flujo personalizado requiere permisos de administración en Marketo (**Administrar webhooks** en la versión del 21 de enero, Cambio en la versión del 11 de marzo). Aparte de la URL de instalación, todos los demás aspectos de un servicio atendido pueden editarse después de completar la incorporación inicial explorando en la pantalla de detalles del servicio desde la cuadrícula de los proveedores de servicios.
+La instalación de un paso de flujo personalizado requiere permisos de administración en Marketo. Aparte de la URL de instalación, todos los demás aspectos de un servicio atendido pueden editarse después de completar la incorporación inicial explorando en la pantalla de detalles del servicio desde la cuadrícula de los proveedores de servicios.
 
 ## URL de instalación {#installation-url}
 
 Para comenzar la instalación, primero deberá obtener la URL del documento de OpenAPI que define su servicio. El proveedor de servicios debe poder proporcionárselo y, por lo general, tendrá una dirección URL que termina en `/openapi.json`. Las direcciones URL completas tendrán este aspecto `https://www.example.com/OpenAPI.json`. Una vez que tenga esta URL, vaya al menú Service Providers en la sección Admin.
 
-Clic **Siguiente** para ir a la sección Introducir Credenciales de Servicio.
+Clic **[!UICONTROL Siguiente]** para ir a la sección Introducir Credenciales de Servicio.
 
 ![](assets/flow-step-service-1.png)
 

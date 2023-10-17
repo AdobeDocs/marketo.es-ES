@@ -4,9 +4,9 @@ description: 'Reordenar la opción de adición en un paso de flujo: documentos d
 title: Reordenar la opción de adición en un paso de flujo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,20 +19,20 @@ Dado que solo se aplica la primera opción coincidente a una persona, el orden i
 
    ![](assets/one.png)
 
-1. Vamos a mover la opción 3 por encima de la opción 2. Haga clic en **Opción 3** luego haga clic en **Mover hacia arriba**.
-
-   >[!NOTE]
-   >
-   >Al reordenar, puede hacer lo siguiente **Mover hacia arriba**, **Mover hacia abajo**, o **Mover a**.
+1. En este ejemplo, subamos la Opción 3 por encima de la Opción 2. Haga clic en **[!UICONTROL Opción 3]** luego haga clic en **[!UICONTROL Mover hacia arriba]**.
 
    ![](assets/two.png)
 
-   ¡Buen trabajo! Ahora sabe cómo mover una opción hacia arriba/hacia abajo en incrementos únicos. ¡Eso es todo! Es así de fácil reorganizar el orden de las opciones de los pasos de flujo.
+   >[!NOTE]
+   >
+   >Al reordenar, puede hacer lo siguiente **[!UICONTROL Mover hacia arriba]**, **[!UICONTROL Mover hacia abajo]**, o **[!UICONTROL Mover a]**.
+
+   ¡Buen trabajo! Ahora sabe cómo mover una opción hacia arriba/hacia abajo en incrementos únicos.
 
    ![](assets/three.png)
 
-1. Si tiene muchas opciones y necesita mover uno o varios niveles hacia arriba o hacia abajo, puede utilizar este método alternativo para ahorrar tiempo. Haga clic en la opción que desee mover y luego en **Mover a**, arrastre el control deslizante hasta la posición a la que desee mover la opción.
+**PASO OPCIONAL**: si tiene muchas opciones y necesita mover uno o varios niveles hacia arriba o hacia abajo, puede utilizar este método alternativo para ahorrar tiempo. Haga clic en la opción que desee mover y luego en **[!UICONTROL Mover a]**, arrastre el control deslizante hasta la posición a la que desee mover la opción.
 
-   ![](assets/four.png)
+![](assets/four.png)
 
 Es así de fácil reorganizar el orden de las opciones de los pasos de flujo.
