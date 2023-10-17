@@ -4,9 +4,9 @@ description: Conceptos básicos de cancelación de suscripción - Documentos de 
 title: Explicación de cancelación de suscripción
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 2%
 # Explicación de cancelación de suscripción {#understanding-unsubscribe}
 
 En realidad, hay varios tipos diferentes de cancelaciones de suscripción integradas en Marketo. Todos se representan mediante campos en el objeto de persona, como Nombre.
-
->[!NOTE]
->
->Marketo está cambiando términos como Lista negra y Lista blanca por Lista de bloqueados y Lista de permitidos en nuestro producto. Durante esta actualización, es posible que vea los términos antiguos en nuestras capturas de pantalla de la interfaz de usuario y la documentación, y los nuevos términos en nuestro texto de documentación. Pedimos disculpas por cualquier confusión.
 
 Todos estos campos están incorporados en la suscripción a Marketo. Todos son de tipo booleano (casilla de verificación). Pueden utilizarse en Forms o [Cambiar valor de datos](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) pasos de flujo.
 

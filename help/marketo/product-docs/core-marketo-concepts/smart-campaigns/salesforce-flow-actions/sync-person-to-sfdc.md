@@ -4,26 +4,22 @@ description: 'Sincronizar persona con SFDC: documentos de Marketo, documentació
 title: Sincronizar persona con SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
 # Sincronizar persona con SFDC {#sync-person-to-sfdc}
 
->[!NOTE]
->
->Solo está disponible cuando se integra con Salesforce.
-
-## Información general {#overview}
-
 Este paso de flujo insertará personas creadas por Marketo como posibles clientes en su Salesforce CRM.
 
 ![](assets/sync-person-to-sfdc.png)
 
-## Uso {#usage}
+>[!NOTE]
+>
+>Solo está disponible cuando se integra con Salesforce.
 
 1. De forma predeterminada, este paso de flujo asignará a los propietarios de posibles clientes en función de las reglas de asignación automática de Salesforce.
 

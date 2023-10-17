@@ -4,20 +4,16 @@ description: Uso de listas inteligentes integradas/del sistema - Documentos de M
 title: Usar listas inteligentes integradas/del sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
 # Usar listas inteligentes integradas/del sistema {#use-built-in-system-smart-lists}
 
 Marketo tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
-
->[!NOTE]
->
->Marketo está cambiando términos como Lista negra y Lista blanca por Lista de bloqueados y Lista de permitidos en nuestro producto. Durante esta actualización, es posible que vea los términos antiguos en nuestras capturas de pantalla de la interfaz de usuario y la documentación, y los nuevos términos en nuestro texto de documentación. Pedimos disculpas por cualquier confusión.
 
 1. Vaya a la **Base de datos**.
 
@@ -42,7 +38,7 @@ Este es un resumen de lo que hacen las listas inteligentes integradas:
 | Todas las personas | Todas las personas de la base de datos de Marketo |
 | Personas que cancelaron su suscripción | A estas personas solo se les pueden enviar correos electrónicos operativos; esto generalmente lo controla la propia persona. |
 | Marketing suspendido | Estas personas solo pueden recibir correos electrónicos operativos; normalmente, usted, el experto en marketing, lo controla. |
-| Lista de bloqueos | Estas personas no recibirán ningún correo electrónico. |
+| Lista de bloqueados | Estas personas no recibirán ningún correo electrónico. |
 | Direcciones de emails rechazadas | Personas con una dirección de correo electrónico que no se puede enviar o que rechazan el correo electrónico. |
 | Duplicados posibles | Personas que podrían estar duplicadas en la base de datos de Marketo. |
 

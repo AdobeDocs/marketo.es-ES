@@ -4,9 +4,9 @@ description: Glosario del Marketo Engage - Documentos de Marketo - Documentació
 title: Glosario del Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 3%
 
 ---
@@ -118,10 +118,6 @@ A continuación encontrará definiciones de muchos de los términos que puede en
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo está cambiando términos como Lista negra y Lista blanca por Lista de bloqueados y Lista de permitidos en nuestro producto. Durante esta actualización, es posible que vea los términos antiguos en nuestras capturas de pantalla de la interfaz de usuario y la documentación, y los nuevos términos en nuestro texto de documentación. Pedimos disculpas por cualquier confusión.
 
 ## C {#c}
 
@@ -585,7 +581,7 @@ A continuación encontrará definiciones de muchos de los términos que puede en
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Abre</strong></td> 
+   <td><strong>Aperturas</strong></td> 
    <td><p>Un registro abierto registra cuándo se descargan las imágenes en un <strong>email</strong>. Aunque no incluya una imagen, Marketo inserta de forma predeterminada un solo píxel de seguimiento en todos los correos electrónicos del HTML. Los correos electrónicos de solo texto no pueden registrar un abierto.</p></td> 
   </tr> 
   <tr> 

@@ -3,7 +3,7 @@ description: Cambiar datos de miembros del programa - Documentos de Marketo - Do
 title: Cambiar datos del miembro del programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 5%
@@ -18,7 +18,7 @@ Puede utilizar Marketo para actualizar el valor de un campo mediante la acción 
 >
 >También puede bloquear la actualización de un campo. Consulte Bloquear actualizaciones de un campo para obtener más información.
 
-1. En la pestaña Flujo de la campaña inteligente, coloque el **Cambiar datos de miembros del programa** paso de flujo y elija el programa deseado.
+1. En la pestaña Flujo de la campaña inteligente, coloque el **[!UICONTROL Cambiar datos de miembros del programa]** paso de flujo y elija el programa deseado.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,15 +32,15 @@ Puede utilizar Marketo para actualizar el valor de un campo mediante la acción 
 
 >[!NOTE]
 >
->También puede utilizar tokens en Nuevo valor.
+>También puede utilizar tokens en [!UICONTROL Nuevo valor].
 
 Ahora ejecute la campaña inteligente y ya está.
 
 >[!TIP]
 >
->Si desea borrar los campos en lugar de actualizarlos, puede introducir &quot;NULL&quot; (sin comillas, todo en mayúsculas) como Nuevo valor.
+>Si desea borrar los campos en lugar de actualizarlos, puede introducir &quot;NULL&quot; (sin comillas, todo en mayúsculas) como [!UICONTROL Nuevo valor].
 
 >[!MORELIKETHIS]
 >
->* [Uso de tokens en pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
->* [Anexar datos a un campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+>* [Uso de tokens en pasos de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [Anexar datos a un campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

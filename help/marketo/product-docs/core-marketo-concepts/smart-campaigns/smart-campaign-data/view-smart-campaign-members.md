@@ -4,7 +4,7 @@ description: 'Ver miembros de campañas inteligentes: documentos de Marketo, doc
 title: Ver miembros de campañas inteligentes
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Ver miembros de campañas inteligentes {#view-smart-campaign-members}
 
-Vea las personas que ya han pasado por el flujo de campaña inteligente; es decir, los miembros de campaña inteligente.
+Vea las personas que ya han pasado por el flujo de campañas inteligentes; es decir, los miembros de campañas inteligentes.
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
 ![](assets/login-marketing-activities.png)
 
-1. En la campaña inteligente, haga clic en **Ver miembros de campaña**.
+1. En la campaña inteligente, haga clic en **[!UICONTROL Ver miembros de campaña]**.
 
    ![](assets/changescore-hands.png)
 
@@ -27,7 +27,7 @@ Vea las personas que ya han pasado por el flujo de campaña inteligente; es deci
 >
 >Puede ver los miembros de la campaña desde cualquier lugar dentro de una campaña inteligente.
 
-1. El **Miembros de campaña** La pestaña muestra las personas que ya han pasado por el flujo de campaña inteligente.
+1. El **[!UICONTROL Miembros de campaña]** La pestaña muestra las personas que ya han pasado por el flujo de campaña inteligente.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -37,4 +37,4 @@ Vea las personas que ya han pasado por el flujo de campaña inteligente; es deci
 
    >[!MORELIKETHIS]
    >
-   >[Ver personas bloqueadas en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+   >[Ver personas bloqueadas en una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
