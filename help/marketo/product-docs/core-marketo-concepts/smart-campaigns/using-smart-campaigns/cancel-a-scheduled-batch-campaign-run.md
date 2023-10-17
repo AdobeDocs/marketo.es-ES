@@ -4,7 +4,7 @@ description: 'Cancelar una ejecución de campaña por lotes programada: document
 title: Cancelar una ejecución de campaña por lotes programada
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Si ha programado una ejecución para una de las campañas por lotes y desea cancelarla, este es el modo.
 
-1. Seleccione la campaña y vaya a **Programación** pestaña.
+1. Seleccione la campaña y vaya a **[!UICONTROL Programación]** pestaña.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
@@ -23,7 +23,7 @@ Si ha programado una ejecución para una de las campañas por lotes y desea canc
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Confirme la cancelación haciendo clic en **OK**.
+1. Confirme la cancelación haciendo clic en **[!UICONTROL OK]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

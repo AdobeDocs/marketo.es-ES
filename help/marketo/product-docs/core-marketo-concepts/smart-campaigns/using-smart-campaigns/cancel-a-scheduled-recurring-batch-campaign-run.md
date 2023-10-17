@@ -4,7 +4,7 @@ description: 'Cancelar una ejecución de campaña de lotes recurrentes programad
 title: Cancelar una ejecución programada de campaña por lotes recurrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
 
    >[!TIP]
    >
-   >Puede cancelar una sola ejecución haciendo clic en ![x roja](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) al lado. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >Puede cancelar una sola ejecución haciendo clic en ![x roja](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) al lado. Obtenga información sobre cómo [cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Establecer horario en **Ninguno** y haga clic en **Guardar**.
+1. Establecer horario en **[!UICONTROL Ninguno]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -39,4 +39,4 @@ Si tiene una campaña por lotes recurrente que ya no desea, puede cancelar las e
 
    >[!MORELIKETHIS]
    >
-   >[Cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+   >[Cancelar una ejecución de campaña por lotes programada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

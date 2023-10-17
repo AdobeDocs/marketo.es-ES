@@ -4,7 +4,7 @@ description: 'Mover una campaña inteligente: documentos de Marketo, documentaci
 title: Mover una campaña inteligente
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,17 +17,17 @@ Mueva una campaña inteligente entre diferentes programas o carpetas mediante la
 
 >[!CAUTION]
 >
->Dado que las reglas no cambiarán, si los pasos de flujo o lista inteligente de la campaña hacen referencia al programa original, debe actualizar manualmente esa información para reflejar su nuevo programa, como lo hará **no** actualización automática.
+>Dado que las reglas no cambiarán, si los pasos de flujo o lista inteligente de la campaña hacen referencia al programa original, debe actualizar manualmente esa información para reflejar su nuevo programa, como lo hará _no_ actualización automática.
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Busque la campaña inteligente que desee mover, haga clic con el botón derecho en ella y seleccione **Mover**.
+1. Busque la campaña inteligente que desee mover, haga clic con el botón derecho en ella y seleccione **[!UICONTROL Mover]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Seleccione el **Hasta** (destino), **Programa**, y opcional **Carpeta**. Seleccionar **Mover**.
+1. Seleccione el **[!UICONTROL Hasta]** (destino), **[!UICONTROL Programa]**, y opcional **[!UICONTROL Carpeta]**. Seleccionar **[!UICONTROL Mover]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

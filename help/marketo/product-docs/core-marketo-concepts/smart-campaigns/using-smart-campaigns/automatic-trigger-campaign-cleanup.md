@@ -4,7 +4,7 @@ description: Limpieza automática de campañas de Déclencheur - Documentos de M
 title: Limpieza automática de campaña de Déclencheur
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Una vez al trimestre, Marketo encontrará campañas inteligentes que han permane
 
 ¡Por supuesto! Una vez al trimestre, recibirá una notificación una semana antes que se mostrarán todas las campañas que planeamos desactivar.
 
-1. Haga clic en **Notificaciones** icono.
+1. Haga clic en **[!UICONTROL Notificaciones]** icono.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Clic **Limpieza de campaña de Déclencheur inactiva programada**. Luego haga clic en **Se desactivarán estas campañas de Déclencheur inactivas** vínculo.
+1. Clic **[!UICONTROL Limpieza de campaña de Déclencheur inactiva programada]**. Luego haga clic en **[!UICONTROL Se desactivarán estas campañas de Déclencheur inactivas]** vínculo.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -41,7 +41,7 @@ Solo desactivaremos las campañas de déclencheur que hayan estado activas duran
 
 ## Esperar! ¡Esta campaña no! {#wait-not-this-campaign}
 
-No se preocupe: el reloj de cualquier campaña inteligente se puede restablecer mediante lo siguiente:
+No se preocupe: el reloj de cualquier campaña inteligente se puede restablecer haciendo lo siguiente:
 
 * Persona que cumple los requisitos para la campaña.
 * Desactivación y reactivación manuales de la campaña.
@@ -52,7 +52,7 @@ Cualquiera restablecerá el contador de 6 meses.
 
 Absolutamente: una semana después de la notificación original, desactivaremos las campañas enumeradas (menos todas que cumplan los requisitos de al menos una persona o que se hayan desactivado/reactivado) y publicaremos una notificación de confirmación.
 
-1. Seleccione el **Limpieza de campaña de Déclencheur inactiva programada** notificación. Haga clic en **Estas campañas de Déclencheur inactivas** vínculo.
+1. Seleccione el **[!UICONTROL Limpieza de campaña de Déclencheur inactiva programada]** notificación. Haga clic en **[!UICONTROL Estas campañas de Déclencheur inactivas]** vínculo.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
