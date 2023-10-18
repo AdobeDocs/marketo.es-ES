@@ -4,9 +4,9 @@ description: 'Buscar imágenes y archivos cargados: documentos de Marketo, docum
 title: Buscar imágenes y archivos cargados
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,21 @@ En Marketo, encontrar imágenes y archivos es muy sencillo.
 
 1. Vaya a la **Design Studio**.
 
-   ![](assets/designstudio-1.png)
+   ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Clic **Imágenes y archivos** para ver una lista completa de todos los archivos cargados.
+1. Clic **Imágenes y archivos** para obtener la lista completa de todos los archivos cargados.
 
-   ![](assets/image2014-9-16-11-3a44-3a4.png)
+   ![](assets/search-uploaded-images-and-files-2.png)
 
-1. En el **Búsqueda rápida** en la parte inferior de la pantalla, escriba el nombre del archivo que está buscando y haga clic en **Entrar**.
+1. En el cuadro Buscar, escriba la palabra con la que comienza el archivo y pulse **Entrar**.
 
-   ![](assets/image2014-9-16-11-3a46-3a32.png)
+   ![](assets/search-uploaded-images-and-files-3.png)
 
->[!TIP]
+>[!NOTE]
 >
->Para iniciar una nueva búsqueda, haga clic en **x** en el **Búsqueda rápida** cuadro.
-
-¡Patea tus pies, has terminado!
+>La búsqueda de imágenes y archivos solo utiliza la funcionalidad &quot;comienza con&quot; en este momento.
 
 >[!MORELIKETHIS]
 >
->* [Reemplazar una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Organizar imágenes y archivos mediante carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Reemplazar una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Organizar imágenes y archivos mediante carpetas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
