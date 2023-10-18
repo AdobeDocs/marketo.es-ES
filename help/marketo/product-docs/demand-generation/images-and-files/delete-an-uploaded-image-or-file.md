@@ -4,43 +4,43 @@ description: 'Eliminar una imagen o un archivo cargados: documentos de Marketo, 
 title: Eliminar una imagen o un archivo cargados
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # Eliminar una imagen o un archivo cargados {#delete-an-uploaded-image-or-file}
 
-1. Vaya a la **Diseño** **Studio**.
+La eliminación de imágenes o archivos es rápida y sencilla.
 
-   ![](assets/designstudio-5.png)
+>[!CAUTION]
+>
+>Una vez eliminadas, las imágenes o los archivos se eliminan por completo del Marketo Engage y no se pueden recuperar.
 
-1. Seleccionar **Imágenes y archivos** en el menú de la izquierda, haga clic en junto al nombre del archivo que desea eliminar.
+1. Vaya a la **[!UICONTROL Design Studio]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a15.png)
+   ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Haga clic en **Acciones de archivo** y seleccione. **Eliminar**.
+1. Seleccionar **[!UICONTROL Imágenes y archivos]**
 
-   ![](assets/image2014-9-16-11-3a18-3a22.png)
+   ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Compruebe que ha seleccionado el archivo correcto y haga clic en **Eliminar**.
+1. Busque y seleccione la imagen o el archivo que desee. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Eliminar]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a30.png)
+   ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-   >[!CAUTION]
+1. Compruebe que ha seleccionado el archivo correcto y haga clic en **[!UICONTROL Eliminar]**.
+
+   ![](assets/delete-an-uploaded-image-or-file-4.png)
+
+   >[!NOTE]
    >
-   >Las imágenes y los archivos eliminados se eliminan completamente de Marketo y no se pueden recuperar.  Ya no se mostrarán en ninguna página de aterrizaje ni en correos electrónicos en los que se hayan utilizado.
-
-1. Se le devolverá a la **Imágenes** y **Archivos** página, donde verá que el archivo se ha eliminado.
-
-   ![](assets/image2014-9-16-11-3a19-3a0.png)
-
-¡Bien hecho!
+   >Los recursos no se eliminarán si están en uso.
 
 >[!MORELIKETHIS]
 >
->* [Reemplazar una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Buscar imágenes y archivos cargados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [Buscar la dirección URL de una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Reemplazar una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Buscar imágenes y archivos cargados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Buscar la dirección URL de una imagen o archivo cargado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

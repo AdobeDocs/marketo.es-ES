@@ -4,7 +4,7 @@ description: Organización de imágenes y archivos mediante carpetas - Documento
 title: Organizar imágenes y archivos mediante carpetas
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -15,24 +15,30 @@ ht-degree: 0%
 
 La creación de carpetas permite mover imágenes y archivos, ver solo el conjunto de imágenes que desee y cargar directamente en una carpeta específica.
 
-1. Vaya a la **Design Studio**.
+1. Vaya a la **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-7.png)
+   ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Clic con el botón derecho en **Imágenes y archivos** en el menú de la izquierda, seleccione **Nueva carpeta**.
+1. Clic con el botón derecho en **[!UICONTROL Imágenes y archivos]** y seleccione **[!UICONTROL Nueva carpeta]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a45.png)
+   ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Cuando aparezca la nueva carpeta, asígnele un nombre.
+1. Asigne un nombre a la carpeta y haga clic en **[!UICONTROL Crear]**.
 
-   ![](assets/image2014-9-16-11-3a25-3a53.png)
+   ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Ir a **Imágenes y archivos**, ahora puede arrastrar y soltar en la carpeta que desee.
+1. Volver atrás a **[!UICONTROL Imágenes y archivos]** y seleccione el recurso que desee mover. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Mover]**.
 
-   ![](assets/image2014-9-16-11-3a26-3a0.png)
+   ![](assets/organize-your-images-and-files-using-folders-4.png)
 
-¡Choca esos cinco! Estás listo para la utopía de carpetas.
+1. Seleccione la carpeta que desee.
+
+   ![](assets/organize-your-images-and-files-using-folders-5.png)
+
+1. Clic **MMover**.
+
+   ![](assets/organize-your-images-and-files-using-folders-6.png)
 
 >[!MORELIKETHIS]
 >
->[Buscar imágenes y archivos cargados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
+>[Buscar imágenes y archivos cargados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
