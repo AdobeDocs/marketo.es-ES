@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '9094'
+source-wordcount: '9098'
 ht-degree: 3%
 
 ---
@@ -766,6 +766,7 @@ ht-degree: 3%
             + [Configuración de reCAPTCHA v3](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
             + [Habilitar CAPTCHA en Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + Imágenes y archivos {#images-and-files}
+         + [Nuevo documento Agregar imágenes](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Agregar imágenes y archivos a Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Eliminar una imagen o un archivo cargados](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [Buscar la dirección URL de una imagen o archivo cargado](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
