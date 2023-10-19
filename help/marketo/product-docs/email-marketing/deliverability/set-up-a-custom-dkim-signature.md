@@ -4,9 +4,9 @@ description: 'Configuración de una firma DKIM personalizada: documentos de Mark
 title: Configurar una firma DKIM personalizada
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '290'
 ht-degree: 1%
 
 ---
@@ -23,31 +23,36 @@ Puede personalizar la firma DKIM para reflejar los dominios que elija. Así es c
 
 1. Vaya a la **Administrador** sección.
 
-   ![](assets/adminhand.png)
+   ![](assets/set-up-a-custom-dkim-signature-1.png)
 
    >[!NOTE]
    >
    >Si configura una firma DKIM personalizada de la forma antigua, seguirá funcionando y debería aparecer aquí.
 
-1. Clic **Correo electrónico** y, a continuación, el **DKIM** y finalmente. **Añadir dominio**.
+1. Clic **Correo electrónico**.
 
-   ![](assets/image2014-9-18-15-3a39-3a30.png)
+   ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Introduzca el dominio que utilizará en los correos electrónicos de Marketo como dirección de origen y haga clic en **Añadir**.
+1, haga clic en **SPF/DKIM** pestaña, luego **Añadir dominio**.
+
+![](assets/set-up-a-custom-dkim-signature-3.png)
+
+1. Introduzca el dominio que utilizará en los correos electrónicos de Marketo como dirección de origen. Elija un Selector y un Tamaño de clave. Clic **Añadir** cuando termine.
+
+   ![](assets/set-up-a-custom-dkim-signature-4.png)
 
    >[!TIP]
    >
-   >Si utiliza un dominio diferente en la dirección remitente, utilizaremos la firma DKIM compartida de Marketo.
-
-   ![](assets/image2014-9-18-15-3a40-3a28.png)
+   >* Recomendamos un tamaño de clave de 2048.
+   >* Si utiliza un dominio diferente en la dirección remitente, se utilizará la firma DKIM compartida de Marketo.
 
 1. Envíe el **Registro de host** y **Valor TXT** a su equipo de TI. Pídale que cree el registro y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketo requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que se está firmando con DKIM.
 
-   ![](assets/image2014-9-18-15-3a40-3a44.png)
+   ![](assets/set-up-a-custom-dkim-signature-5.png)
 
 1. Una vez que confirmen que han creado el registro, vuelva a Marketo, seleccione el dominio y haga clic en **Comprobar DNS**.
 
-   ![](assets/check.png)
+   ![](assets/set-up-a-custom-dkim-signature-6.png)
 
    >[!NOTE]
    >
