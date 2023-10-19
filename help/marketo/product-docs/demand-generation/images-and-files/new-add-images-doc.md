@@ -4,10 +4,10 @@ title: Nuevo documento Agregar imágenes
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 13%
+source-wordcount: '175'
+ht-degree: 10%
 
 ---
 
@@ -19,23 +19,23 @@ Tiene varias opciones para agregar nuevos archivos e imágenes al repositorio de
 
 1. Vaya a la **Design Studio**.
 
-CAPTURA DE PANTALLA
+   ![](assets/add-images-and-files-to-marketo-1.png)
 
 1. Seleccionar **[!UICONTROL Imágenes y archivos]**
 
-CAPTURA DE PANTALLA
+   ![](assets/add-images-and-files-to-marketo-2.png)
 
 1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Cargar imagen o archivo]**.
 
-CAPTURA DE PANTALLA
+   ![](assets/add-images-and-files-to-marketo-3.png)
 
 1. Arrastre y suelte la imagen o el archivo deseados o busque en el equipo.
 
-CAPTURA DE PANTALLA
+   ![](assets/add-images-and-files-to-marketo-4.png)
 
 1. Una vez seleccionado el recurso, haga clic en **Cargar**.
 
-CAPTURA DE PANTALLA
+   ![](assets/add-images-and-files-to-marketo-5.png)
 
 ## Importar imagen o archivo {#import-image-or-file}
 
@@ -45,10 +45,40 @@ Tiene tres opciones para importar una imagen. Vamos a repasar cada uno de ellos.
 
 Texto
 
+1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
+
+1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+
+   ![](assets/add-images-and-files-to-marketo-6.png)
+
+1. Seleccione el **Web** opción.
+
+   ![](assets/add-images-and-files-to-marketo-7.png)
+
+1. Texto
+
+PICC
+
 ### Importar desde Box {#import-from-box}
 
 Texto
 
+1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
+
+1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+
+PICC
+
+1. Texto
+
 ### Importar de Adobe Experience Manager {#import-from-adobe-experience-manager}
 
 Texto
+
+1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
+
+1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+
+PICC
+
+1. Texto
