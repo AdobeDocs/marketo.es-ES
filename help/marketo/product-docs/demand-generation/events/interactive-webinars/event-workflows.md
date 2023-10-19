@@ -3,9 +3,9 @@ description: Flujos de trabajo de eventos - Documentos de Marketo - Documentaci�
 title: Flujos de trabajo de eventos
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Vaya a la pestaña Información general para ver el seminario web grabado, obten
 
 >[!NOTE]
 >
+>* Los seminarios web interactivos no se registran automáticamente. Una vez que comience el seminario web, haga clic en la lista desplegable junto al nombre del seminario web y seleccione **Grabar sesión**.
 >* La grabación se descarga en formato MP4.
 >* Al compartir la grabación, cualquier persona que tenga el vínculo lo podrá ver, por lo que asegúrese de que se comparta con la audiencia a la que va dirigida.
 

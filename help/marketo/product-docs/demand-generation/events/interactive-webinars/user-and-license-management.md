@@ -3,7 +3,7 @@ description: Administración de usuarios y licencias - Documentos de Marketo - D
 title: Administración de usuarios y licencias
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -67,32 +67,32 @@ Los seminarios web interactivos ofrecen licencias específicas para crear evento
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>Fecha de inicio</b></td>
+  <tr>
+   <td width="20%"><b>Fecha de inicio</b></td>
    <td>Fecha de inicio de la licencia.</td>
   </tr>
   <tr> 
-   <td><b>Fecha de caducidad</b></td>
+   <td width="20%"><b>Fecha de caducidad</b></td>
    <td>Fecha de caducidad de la licencia.</td>
   </tr>
   <tr> 
-   <td><b>Tipo</b></td>
+   <td width="20%"><b>Tipo</b></td>
    <td>El tipo de licencia adquirida. Hay tres tipos disponibles: licencia de eventos compartidos, licencia de salas compartidas, licencia de almacenamiento adicional.</td>
   </tr>
   <tr> 
-   <td><b>Capacidad del evento</b></td>
+   <td width="20%"><b>Capacidad del evento</b></td>
    <td>Número máximo de participantes que pueden alojarse en un evento.</td>
   </tr>
   <tr> 
-   <td><b>Eventos totales</b></td>
+   <td width="20%"><b>Eventos totales</b></td>
    <td>Número total de eventos que se han aprovisionado con esta licencia.</td>
   </tr>
   <tr> 
-   <td><b>Eventos consumidos</b></td>
+   <td width="20%"><b>Eventos consumidos</b></td>
    <td>Número total de eventos completados.</td>
   </tr>
   <tr> 
-   <td><b>Capacidad de almacenamiento</b></td>
+   <td width="20%"><b>Capacidad de almacenamiento</b></td>
    <td>Cantidad de almacenamiento disponible para almacenar grabaciones, garantías, heros images, documentación y otros recursos.</td>
   </tr>
   </tbody>

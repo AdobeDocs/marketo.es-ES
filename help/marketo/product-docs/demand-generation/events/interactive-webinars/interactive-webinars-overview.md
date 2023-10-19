@@ -3,10 +3,10 @@ description: Información general sobre seminarios web interactivos - Documentos
 title: Información general sobre seminarios web interactivos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 2%
+source-wordcount: '421'
+ht-degree: 1%
 
 ---
 
@@ -47,3 +47,7 @@ Sí, puede controlar qué usuarios de Marketo tienen permiso para crear y enviar
 **¿Debo asociar de nuevo el seminario web con tecnología de Adobe Connect al programa de eventos de seminario web interactivo como con los programas de eventos de LaunchPoint?**
 
 No, los programas de eventos de seminarios web interactivos realizan la asociación por usted.
+
+**¿Mis seminarios web interactivos se registran automáticamente?**
+
+No lo son. Una vez que comience el seminario web, haga clic en la lista desplegable junto al nombre del seminario web y seleccione **Grabar sesión**.
