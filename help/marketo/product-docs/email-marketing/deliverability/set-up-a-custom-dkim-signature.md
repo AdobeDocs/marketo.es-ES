@@ -4,10 +4,10 @@ description: 'Configuración de una firma DKIM personalizada: documentos de Mark
 title: Configurar una firma DKIM personalizada
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 0%
 
 ---
 
@@ -33,9 +33,9 @@ Puede personalizar la firma DKIM para reflejar los dominios que elija. Así es c
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1, haga clic en **SPF/DKIM** pestaña, luego **Añadir dominio**.
+1. Haga clic en **SPF/DKIM** pestaña, luego **Añadir dominio**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Introduzca el dominio que utilizará en los correos electrónicos de Marketo como dirección de origen. Elija un Selector y un Tamaño de clave. Clic **Añadir** cuando termine.
 
@@ -45,6 +45,18 @@ Puede personalizar la firma DKIM para reflejar los dominios que elija. Así es c
    >
    >* Recomendamos un tamaño de clave de 2048.
    >* Si utiliza un dominio diferente en la dirección remitente, se utilizará la firma DKIM compartida de Marketo.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>Selector</b></td>
+   <td>Cadena o identificador único que se utiliza para localizar la parte de clave pública del registro DKIM. Puede ser una cadena arbitraria o un identificador único para separar e identificar el propósito de esa clave/registro DKIM.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>Tamaño de clave</b></td>
+   <td>El nivel de seguridad con el que desea que se cifre su firma DKIM.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. Envíe el **Registro de host** y **Valor TXT** a su equipo de TI. Pídale que cree el registro y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketo requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que se está firmando con DKIM.
 
