@@ -4,7 +4,7 @@ description: 'Configuración de una campaña inteligente de Déclencheur para ve
 title: Configuración de una campaña inteligente de Déclencheur para ventas con "Se solicita la campaña"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -24,21 +24,21 @@ Una de las mejores características de Marketo es la capacidad de permitir que l
 >
 >Sé creativo. ¿Qué desea automatizar el vendedor? ¡Solo pídeles y ponlo en contacto!
 
-1. Crear un **Campaña inteligente.**
+1. Cree una campaña inteligente.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Busque y arrastre el **Campaña solicitada** déclencheur al lienzo.
+1. Busque y arrastre el **[!UICONTROL Campaña solicitada]** déclencheur al lienzo.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Las opciones de fuente indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrese de elegir **Ventas** **Insight**.
+1. Las opciones de fuente indican qué tipo de solicitud se aceptará. Para la funcionalidad de Salesforce, asegúrese de elegir **[!UICONTROL Perspectiva de ventas]**.
 
    >[!TIP]
    >
-   >Los operadores de origen son para la seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Elegir **Es Cualquiera** en el primer cuadro si desea permitir solicitudes de todas las fuentes.
+   >Los operadores de origen son para la seguridad. Puede restringir la campaña a solicitudes realizadas únicamente por fuentes específicas, como otras campañas inteligentes o desarrolladores. Elegir **[!UICONTROL Es Cualquiera]** en el primer cuadro si desea permitir solicitudes de todas las fuentes.
    >
-   >**Recordar**, al elegir la perspectiva de ventas, se mostrará mágicamente en el cuadro de ventas. No te excedas. Demasiados serán ignorados por ellos.
+   >_Recordar_, al elegir la perspectiva de ventas, se mostrará mágicamente en el cuadro de ventas. No te excedas. Demasiados serán ignorados por ellos.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

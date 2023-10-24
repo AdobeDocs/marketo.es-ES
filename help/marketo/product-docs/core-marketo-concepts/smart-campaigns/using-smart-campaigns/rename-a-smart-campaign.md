@@ -4,9 +4,9 @@ description: 'Cambiar el nombre de una campaña inteligente: documentos de Marke
 title: Cambiar el nombre de una campaña inteligente
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puede cambiar el nombre de una campaña inteligente existente. Así es como.
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 
-1. Seleccione la campaña inteligente y haga clic en su nombre.
+1. Seleccione la campaña inteligente y, a continuación, haga clic en su nombre a la derecha.
 
    ![](assets/rename-a-smart-campaign-2.png)
 
@@ -27,7 +27,7 @@ Puede cambiar el nombre de una campaña inteligente existente. Así es como.
    >
    >Los nombres de campañas inteligentes dentro de los programas siempre se traducen al formato &quot;NombreDePrograma.NombreDeCampaña&quot;.
 
-1. Introduzca el nuevo nombre de la campaña inteligente y haga clic en **Guardar**.
+1. Introduzca el nuevo nombre de la campaña inteligente y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/rename-a-smart-campaign-3.png)
 

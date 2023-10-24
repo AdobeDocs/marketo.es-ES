@@ -3,20 +3,20 @@ description: Anulación de prioridad para campañas de Déclencheur - Documentos
 title: Anulación de prioridad para campañas de Déclencheur
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 8%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
 # Anulación de prioridad para campañas de Déclencheur {#priority-override-for-trigger-campaigns}
 
-Los administradores pueden invalidar la prioridad determinada de campañas de activadores de Marketo para establecer prioridades que se alineen mejor con los objetivos comerciales.
+Los administradores pueden anular la prioridad determinada por el Marketo Engage para las campañas de Déclencheur a fin de establecer prioridades que se ajusten mejor a los objetivos empresariales.
 
 >[!NOTE]
 >
->Esta función solo está disponible para campañas de déclencheur y para usuarios a los que se les ha concedido la [Permiso &quot;Editar prioridad de campaña de Déclencheur&quot;](#grant-priority-override-access).
+>Esta función solo está disponible para campañas de Déclencheur y para usuarios a los que se les ha concedido la [Permiso &quot;Editar prioridad de campaña de Déclencheur&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -36,13 +36,13 @@ Los administradores pueden invalidar la prioridad determinada de campañas de ac
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. En [!UICONTROL Acceso a actividades de marketing], seleccione **[!UICONTROL Editar prioridad de campaña de Déclencheur]**. Clic **[!UICONTROL Guardar]**.
+1. En [!UICONTROL Acceso a actividades de marketing], seleccione **[!UICONTROL Editar prioridad de campaña de Déclencheur]**. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## Invalidar prioridad {#override-priority}
 
-1. Busque la campaña de déclencheur. Haga clic con el botón derecho en él y seleccione **[!UICONTROL Anular prioridad de campaña]**.
+1. Busque la campaña de Déclencheur. Haga clic con el botón derecho en él y seleccione **[!UICONTROL Anular prioridad de campaña]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
@@ -58,4 +58,4 @@ Los administradores pueden invalidar la prioridad determinada de campañas de ac
 >
 >* Puede ver la prioridad predeterminada de su campaña en la [!UICONTROL Cola de campaña] bajo [!UICONTROL Actividades de marketing]. Para aumentar la tasa de ejecución, recomendamos establecer la prioridad de la campaña en un nivel superior al predeterminado.
 >* La prioridad establecida por el usuario solo se aplica a las nuevas personas que cumplen los requisitos para la campaña; las personas que ya están en cola no se verán afectadas.
->* Las anulaciones de prioridad se capturan en [Pista de auditoría](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* Las anulaciones de prioridad se capturan en [Pista de auditoría](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.
