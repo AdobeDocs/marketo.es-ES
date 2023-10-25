@@ -4,9 +4,9 @@ description: SEO - Añadir palabras clave - Documentos de Marketo - Documentaci�
 title: 'SEO: Agregar palabras clave'
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ Las palabras clave son frases que la gente escribe en los motores de búsqueda. 
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[Explicación de las palabras clave (vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 ¡Buen trabajo! Ahora debería ver las nuevas adiciones a la lista de palabras clave.
+
+>[!NOTE]
+>
+>Los datos solo se muestran para palabras clave clasificadas entre 1 y 100.
+
+>[!MORELIKETHIS]
+>
+>[Explicación de las palabras clave (vista de resumen)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

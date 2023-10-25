@@ -4,9 +4,9 @@ description: Explicación del tablero de SEO - Instantánea de SEO - Documentos 
 title: 'Explicación del tablero de SEO: instantánea de SEO'
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,9 @@ Esta sección muestra cómo se clasifica el sitio para el [palabras clave de des
 >
 >También puede ver cómo [lista específica](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) El número de palabras clave está funcionando. Haga clic en la lista desplegable y seleccione cuál le interesa.
 
-¡Rockea! Vamos a seguir moviéndonos.
+>[!NOTE]
+>
+>Los datos solo se muestran para palabras clave clasificadas entre 1 y 100.
 
 ## [!UICONTROL Puntuación media de optimización de la página] {#average-page-optimization-score}
 
