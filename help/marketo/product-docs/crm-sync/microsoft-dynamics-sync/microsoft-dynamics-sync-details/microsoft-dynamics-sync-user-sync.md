@@ -4,16 +4,16 @@ description: 'Sincronización de Microsoft Dynamics: sincronización de usuarios
 title: 'Sincronización de Microsoft Dynamics: sincronización de usuarios'
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Sincronización de Microsoft Dynamics: sincronización de usuarios {#microsoft-dynamics-sync-user-sync}
 
-¿Sabía que Marketo sincroniza toda la base de datos con Dynamics? Se sincroniza, luego espera 5 minutos y luego se sincroniza de nuevo, todo el día, todos los días. A continuación se muestran algunos detalles sobre cómo Marketo trata específicamente las cuentas de Dynamics.
+¿Sabía que Marketo Engage sincroniza toda la base de datos con Dynamics? Se sincroniza, luego espera 5 minutos y luego se sincroniza de nuevo, todo el día, todos los días. A continuación se muestran algunos detalles sobre cómo Marketo trata específicamente las cuentas de Dynamics.
 
 Necesitará un usuario de Microsoft Dynamics CRM específico para la integración. Llamamos a este usuario Usuario de sincronización.
 
@@ -27,4 +27,4 @@ No. Marketo no puede crear usuarios en Dynamics.
 
 ## ¿Qué campos se sincronizarán con Marketo? {#which-fields-will-sync-to-marketo}
 
-Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) durante la configuración. Sin embargo, Marketo solo sincronizará los campos a los que el usuario de sincronización de Dynamics tiene acceso.
+Puede [seleccionar campos para sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante la configuración. Sin embargo, Marketo solo sincronizará los campos a los que el usuario de sincronización de Dynamics tiene acceso.

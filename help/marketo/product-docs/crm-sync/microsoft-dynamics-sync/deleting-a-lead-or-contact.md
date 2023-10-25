@@ -4,9 +4,9 @@ description: 'Eliminación de un posible cliente o contacto: documentos de Marke
 title: Eliminación de un posible cliente o contacto
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hay algunas cosas que hay que saber cuando se trata de eliminar posibles clientes o contactos en Microsoft Dynamics.
 
-* Marketo no elimina automáticamente a las personas solo porque se eliminaron posibles clientes en Dynamics. En su lugar, el indicador del campo &quot;Microsoft is Deleted&quot; se establece en true. Si lo desea, puede eliminar este campo del déclencheur para eliminar el registro en Marketo.
+* El Marketo Engage no elimina automáticamente a las personas solo porque se eliminaron posibles clientes en Dynamics. En su lugar, el indicador del campo &quot;Microsoft is Deleted&quot; se establece en true. Si lo desea, puede eliminar este campo del déclencheur para eliminar el registro en Marketo.
 
 * Acción de flujo &quot;Eliminar persona&quot;: esto solo elimina una persona en Marketo (no está disponible una opción para eliminarla también en Dynamics).
 

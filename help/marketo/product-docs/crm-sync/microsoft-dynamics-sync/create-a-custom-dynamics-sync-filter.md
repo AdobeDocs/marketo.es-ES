@@ -4,7 +4,7 @@ description: 'Creación de un filtro de sincronización de Dynamics personalizad
 title: Crear un filtro de sincronización personalizado de Dynamics
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marketo busca este campo durante la sincronización automática en segundo plano
 
 ## Crear campo SyncToMkto {#create-synctomkto-field}
 
-1. Inicie sesión en Dynamics CRM. Clic **Configuración** y luego haga clic en **Personalizaciones**.
+1. Inicie sesión en Dynamics CRM. Clic **Configuración**, luego haga clic en **Personalizaciones**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -67,7 +67,7 @@ Marketo busca este campo durante la sincronización automática en segundo plano
 
    >[!NOTE]
    >
-   >Elija cualquier nombre para mostrar para este campo, pero el campo Nombre debe ser exactamente **new_synctomkto**. Debe utilizar **nuevo** como prefijo predeterminado. Si ha cambiado el valor predeterminado, vaya aquí para [restablecer el prefijo predeterminado para los nombres de campo personalizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). Puede volver a cambiarlo después de crear los nuevos campos.
+   >Elija cualquier nombre para mostrar para este campo, pero el campo Nombre debe ser exactamente **new_synctomkto**. Debe utilizar **nuevo** como prefijo predeterminado. Si ha cambiado el valor predeterminado, vaya aquí para [restablecer el prefijo predeterminado para los nombres de campo personalizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. Puede volver a cambiarlo después de crear los nuevos campos.
 
    >[!NOTE]
    >
@@ -79,19 +79,19 @@ Marketo busca este campo durante la sincronización automática en segundo plano
 
 Incluso si ya ha realizado la sincronización inicial, entre y seleccione los campos que desea sincronizar con Marketo.
 
-1. Vaya a Administración y seleccione **Microsoft Dynamics**.
+1. Vaya a Administración y seleccione **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clic **Editar** en Detalles de sincronización de campos.
+1. Clic **[!UICONTROL Editar]** en Detalles de sincronización de campos.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Desplácese hacia abajo hasta el campo y compruébelo. El nombre real debe ser new_synctomkto, pero el Nombre para mostrar puede ser cualquier cosa. Clic **Guardar**.
+1. Desplácese hacia abajo hasta el campo y compruébelo. El nombre real debe ser new_synctomkto, pero el Nombre para mostrar puede ser cualquier cosa. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
-Bueno, Ahora ha habilitado el filtro de sincronización para Marketo.
+Genial. Ahora ha habilitado el filtro de sincronización para Marketo.
 
 ## Crear un flujo de trabajo de Dynamics para asignar valores de filtro de sincronización automáticamente {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
@@ -103,7 +103,7 @@ Siempre puede asignar manualmente un valor a los campos SyncToMkto de los regist
 >
 >Un flujo de trabajo de Dynamics solo funciona en registros nuevos creados a partir de ahora, no en datos históricos. Utilice una actualización por lotes para pasar sobre los registros existentes.
 
-1. Vaya a Dynamics CRM. Clic **Configuración** luego haga clic en **Procesos**.
+1. Vaya a Dynamics CRM. Clic **Configuración**, entonces **Procesos**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -129,26 +129,26 @@ Siempre puede asignar manualmente un valor a los campos SyncToMkto de los regist
 
    >[!TIP]
    >
-   >Consulte [Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) para configurar reglas para sincronizar solo registros para personas con direcciones de correo electrónico.
+   >Consulte [Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} para configurar reglas para sincronizar solo registros para personas con direcciones de correo electrónico.
 
 ## Detalles del filtro de sincronización {#sync-filter-details}
 
 Estos son algunos detalles de la implementación que pensamos que debería conocer:
 
-1. Iniciar una operación de sincronización
+* Iniciar una operación de sincronización
 
-   Si la variable **SyncToMkto** el valor cambia de **No** hasta **Sí**, Dynamics notifica a Marketo inmediatamente para que inicie la sincronización de este registro. Si el registro ya existe, Marketo lo actualiza. De lo contrario, Marketo crea el registro.
+  Si la variable **SyncToMkto** el valor cambia de **No** hasta **Sí**, Dynamics notifica a Marketo inmediatamente para que inicie la sincronización de este registro. Si el registro ya existe, Marketo lo actualiza. De lo contrario, Marketo crea el registro.
 
-   >[!TIP]
-   >
-   >A `Create [StartSync]` operación se añade al registro de Marketo cuando esto sucede.
+  >[!TIP]
+  >
+  >A `Create [StartSync]` operación se añade al registro de Marketo cuando esto sucede.
 
-1. Detener una operación de sincronización
+* Detener una operación de sincronización
 
-   Cuando un registro cambia su valor SyncToMkto de Sí a No, se notifica a Marketo que deje de sincronizar este registro. Sin embargo, el registro no se elimina; en su lugar, deja de recibir actualizaciones y se vuelve obsoleto.
+  Cuando un registro cambia su valor SyncToMkto de Sí a No, se notifica a Marketo que deje de sincronizar este registro. Sin embargo, el registro no se elimina; en su lugar, deja de recibir actualizaciones y se vuelve obsoleto.
 
 >[!MORELIKETHIS]
 >
->* [Filtro de sincronización de Microsoft Dynamics: Calificar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Filtro de sincronización de Microsoft Dynamics: Combinar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
+>* [Filtro de sincronización de Microsoft Dynamics: Calificar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Filtro de sincronización de Microsoft Dynamics: Combinar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [Reglas de filtro de sincronización personalizadas para una dirección de correo electrónico](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Filtro de sincronización de Microsoft Dynamics - Combinar - Docume
 title: 'Filtro de sincronización de Microsoft Dynamics: combinar'
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -22,6 +22,6 @@ Cuando un registro es verdadero y uno es falso es cuando se vuelve complicado.
 | Si el filtro de sincronización para el registro de pérdida es: | y el filtro de sincronización para el registro ganador es: | Este es el resultado en Marketo |
 |---|---|---|
 | Verdadero | Verdadero | El registro ganador continúa sincronizándose con Marketo |
-| Falso | Falso | El récord ganador continúa **no** sincronizar con Marketo |
+| Falso | Falso | El récord ganador continúa _no_ sincronizar con Marketo |
 | Falso | Verdadero | El registro ganador se sincronizará con Marketo |
 | Verdadero | Falso | El registro ganador no se sincronizará con Marketo |
