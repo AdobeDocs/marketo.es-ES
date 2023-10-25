@@ -4,7 +4,7 @@ description: Uso de la página de detalles de persona - Documentos de Marketo - 
 title: Uso de la página Detalles de Persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 44%
@@ -20,7 +20,7 @@ La página de detalles de la persona contiene toda la información que Marketo c
 Hay muchas maneras de abrir a personas específicas. Algunos ejemplos son:
 
 * Desde el **Base de datos**, puede buscar en Búsqueda rápida
-* Cualquier elemento inteligente **lista** o lista
+* Cualquiera **Lista inteligente** o lista
 * **Miembros** pestaña de un programa
 * **Ver miembros de campaña** en una campaña inteligente
 * Algunos **informes**
@@ -73,7 +73,7 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 |   |  |  |  |  |
 |---|---|---|---|---|
 | Dirección | Ingresos anuales | IP anónima | Dirección de facturación | Ciudad de facturación |
-| País de facturación | Código postal de facturación | Estado de facturación | Ciudad | Nombre de la compañía |
+| País de facturación | Código postal de facturación | Estado de facturación | Ciudad | Nombre de la empresa |
 | País | Creado en | Fecha de nacimiento | Departamento | No llamar |
 | Causa por la que no se debe llamar | Razón por la que no se debe llamar | Dirección de email | Email no válido | Causa de email no válido |
 | Identificación de compañía externa | Identificación de persona de ventas externa | Número de fax | Nombre | Nombre completo |
@@ -81,13 +81,13 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 | Código de área telefónico inferido | Código postal inferido | Región del estado inferida | Es anónimo | Es cliente |
 | Es socio | Cargo | Apellido | Calificación | Puntuación |
 | Origen de la persona | Estado | Teléfono principal | Nombre de Marketo Social para mostrar en Facebook | Identificación de Marketo Social en Facebook |
-| URL de imagen de Marketo Social para Facebook | URL de perfil de Marketo Social en Facebook | Alcance de Marketo Social en Facebook | Inscripciones referidas desde Facebook de Marketo Social | Visitas referidas desde Facebook de Marketo Social |
+| URL de foto de Marketo Social en Facebook | URL del perfil de Marketo Social en Facebook | Alcance de Marketo Social en Facebook | Inscripciones referidas desde Facebook de Marketo Social | Visitas referidas desde Facebook de Marketo Social |
 | Sexo de Marketo Social | Última inscripción referida desde Facebook de Marketo Social | Última visita referida desde Facebook de Marketo Social | Nombre de Marketo Social para mostrar en LinkedIn | Identificación de Marketo Social en LinkedIn |
-| URL de imagen de Marketo Social para LinkedIn | URL de perfil de Marketo Social en LinkedIn | Alcance de Marketo Social en LinkedIn | Inscripciones referidas desde LinkedIn de Marketo Social | Visitas referidas desde LinkedIn de Marketo Social |
+| URL de imagen de Marketo Social para LinkedIn | URL del perfil de Marketo Social en LinkedIn | Alcance de Marketo Social en LinkedIn | Inscripciones referidas desde LinkedIn de Marketo Social | Visitas referidas desde LinkedIn de Marketo Social |
 | ID de Marketo Social Syndication | Inscripciones referidas totales de Marketo Social | Visitas referidas totales de Marketo Social | Nombre de Marketo Social para mostrar en Twitter | Identificación de Marketo Social en Twitter |
-| URL de imagen de Marketo Social para Twitter | URL de perfil de Marketo Social en Twitter | Alcance de Marketo Social en Twitter | Inscripciones referidas desde Twitter de Marketo Social | Visitas referidas desde Twitter de Marketo Social |
+| URL de imagen de Marketo Social para Twitter | URL del perfil de Marketo Social en Twitter | Alcance de Marketo Social en Twitter | Inscripciones referidas desde Twitter de Marketo Social | Visitas referidas desde Twitter de Marketo Social |
 | Segundo nombre | Número de teléfono móvil | Cantidad de empleados | Número de teléfono | Código postal |
-| Prioridad | Puntaje relativo | Rol | Saludo | Código SIC |
+| Prioridad | Puntaje relativo | Función | Saludo | Código SIC |
 | Sitio | Estado | Suscripción cancelada | Razón de la cancelación de la suscripción | Actualizado en |
 | Urgencia | Sitio web |  |  |  |
 
@@ -100,8 +100,8 @@ Muchos campos son editables. Para actualizar la información de una persona, esc
 >* Oportunidades para contactos de SFDC
 >* Algunos campos específicos de Marketo, como Fecha de creación y Tipo de origen original.
 >
->Más información sobre [Campos administrados por el sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Más información sobre [Campos administrados por el sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Creación de una ficha personalizada para la página de detalles de persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Creación de una ficha personalizada para la página de detalles de persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

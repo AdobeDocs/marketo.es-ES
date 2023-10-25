@@ -4,7 +4,7 @@ description: 'Buscar y combinar personas duplicadas: documentos de Marketo, docu
 title: Buscar y combinar personas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Buscar y combinar personas duplicadas {#find-and-merge-duplicate-people}
 
-Marketo anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados a Marketo. A continuación se indica cómo combinarlos.
+El Marketo Engage anula la duplicación automáticamente cuando nuevas personas entran en el sistema. Sin embargo, es posible que su CRM haya enviado inicialmente duplicados. A continuación se indica cómo combinarlos.
 
 >[!CAUTION]
 >
@@ -21,7 +21,7 @@ Marketo anula la duplicación automáticamente cuando nuevas personas entran en 
 
 >[!PREREQUISITES]
 >
->La búsqueda y combinación de duplicados implicará el uso de [listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>La búsqueda y combinación de duplicados implicará el uso de [Listas inteligentes integradas/del sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo anula la duplicación automáticamente cuando nuevas personas entran en 
 
 ## Buscar duplicados {#find-duplicates}
 
-1. Vaya a la **Base de datos** área.
+1. Vaya a la **[!UICONTROL Base de datos]** área.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,7 +37,7 @@ Marketo anula la duplicación automáticamente cuando nuevas personas entran en 
    >
    >La combinación de personas en Marketo puede no funcionar si utiliza una cuenta de persona de Salesforce. Combine los registros en Salesforce si es posible.
 
-1. Seleccione el **Posibles duplicados** lista inteligente del sistema y haga clic en **People** pestaña.
+1. Seleccione el **[!UICONTROL Posibles duplicados]** System Smart List y haga clic en **[!UICONTROL People]** pestaña.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -49,9 +49,9 @@ Marketo anula la duplicación automáticamente cuando nuevas personas entran en 
 
 >[!CAUTION]
 >
->Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, **no** se vuelven a asociar con la persona ganadora. Vuelva a obtener la primaria del objeto personalizado antes de realizar la combinación.
+>Al combinar personas, si la persona perdedora tiene un objeto personalizado de Marketo, _no_ se vuelven a asociar con la persona ganadora. Vuelva a obtener la primaria del objeto personalizado antes de realizar la combinación.
 
-1. Seleccione los duplicados manteniendo pulsada la tecla Ctrl o Cmd y haciendo clic en y, a continuación, haga clic en **Combinar personas**.
+1. Seleccione los duplicados manteniendo pulsada la tecla Ctrl o Cmd y haciendo clic en y, a continuación, haga clic en **[!UICONTROL Combinar personas]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo anula la duplicación automáticamente cuando nuevas personas entran en 
    >
    >Puede tener dos o más duplicados para la misma persona: selecciónelos todos a la vez.
 
-1. Verá los valores entre los registros que _no lo hagas_ coincide. Seleccione el valor que desee conservar para cada campo. Clic **Combinar** cuando termine. Si no desea ninguno de los dos valores, puede comprobar **Personalizado** e introduzca un valor de su elección.
+1. Verá los valores entre los registros que _no lo hagas_ coincide. Seleccione el valor que desee conservar para cada campo. Clic **[!UICONTROL Combinar]** cuando termine. Si no desea ninguno de los dos valores, puede comprobar **[!UICONTROL Personalizado]** e introduzca un valor de su elección.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

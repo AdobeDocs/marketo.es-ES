@@ -4,30 +4,30 @@ description: 'Localizar el registro de actividad de una persona. Documentos de M
 title: Localizar el registro de actividad de una persona
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 # Localizar el registro de actividad de una persona {#locate-the-activity-log-for-a-person}
 
-El registro de actividad es la fuente fiable definitiva. Esta es la historia completa del recorrido de una persona en Marketo.
+El registro de actividad es la fuente fiable definitiva. Esta es la historia completa del recorrido de una persona en Marketo Engage.
 
-1. Vaya a la **Base de datos**.
+1. Vaya a la **[!UICONTROL Base de datos]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Seleccionar **Todas las personas**.
+1. Seleccionar **[!UICONTROL Todas las personas]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Haga clic en **People** pestaña. Seleccionar una persona **Id** número.
+1. Haga clic en **[!UICONTROL People]** pestaña. Seleccionar una persona **[!UICONTROL Id]** número.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Clic **Registro de actividad**.
+1. Clic **[!UICONTROL Registro de actividad]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ El registro de actividad es la fuente fiable definitiva. Esta es la historia com
 
    >[!MORELIKETHIS]
    >
-   >Más información sobre [filtrado del registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) para ver actividades de personas específicas.
+   >Más información sobre [filtrado del registro de actividad](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} para ver actividades de personas específicas.
