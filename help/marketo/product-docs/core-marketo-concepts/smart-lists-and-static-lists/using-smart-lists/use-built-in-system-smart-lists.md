@@ -4,26 +4,26 @@ description: Uso de listas inteligentes integradas/del sistema - Documentos de M
 title: Usar listas inteligentes integradas/del sistema
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 7%
 
 ---
 
 # Usar listas inteligentes integradas/del sistema {#use-built-in-system-smart-lists}
 
-Marketo tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
+El Marketo Engage tiene algunas listas inteligentes integradas muy útiles. ¡Vamos a echarles un vistazo!
 
-1. Vaya a la **Base de datos**.
+1. Vaya a la **[!UICONTROL Base de datos]**.
 
    ![](assets/db.png)
 
-1. Abra el **Listas inteligentes del sistema** para mostrar la colección.
+1. Abra el **[!UICONTROL Listas inteligentes del sistema]** para mostrar la colección.
 
    ![](assets/two.png)
 
-1. Para ver un ejemplo: Seleccione **Todas las personas**, luego haga clic en **People** pestaña.
+1. Para ver un ejemplo: Seleccione **[!UICONTROL Todas las personas]**, luego haga clic en **[!UICONTROL People]** pestaña.
 
    ![](assets/three.png)
 
@@ -48,4 +48,4 @@ Este es un resumen de lo que hacen las listas inteligentes integradas:
 
 >[!MORELIKETHIS]
 >
->[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

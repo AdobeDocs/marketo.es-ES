@@ -4,7 +4,7 @@ description: Filtros deducidos - Documentos de Marketo - Documentación del prod
 title: Filtros deducidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtros deducidos {#inferred-filters}
 
-Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) las cookies y las introduce en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
+Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} las cookies y las introduce en el sistema. Buscamos su IP en una base de datos especial e inferimos todo tipo de buena información.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Cuando alguien visita su sitio web, [Munchkin](/help/marketo/product-docs/admini
 
 ![](assets/image2015-4-27-13-3a30-3a48.png)
 
-Cuando se utiliza cualquiera de estos filtros en una lista inteligente, los resultados proporcionan a las personas esta información deducida.
+Cuando se utiliza cualquiera de estos filtros en una lista inteligente, los resultados muestran esta información deducida.
 
 >[!TIP]
 >
@@ -46,4 +46,4 @@ Estos visitantes anónimos se convierten automáticamente en personas cuando hac
 
 >[!NOTE]
 >
->Más información sobre [actividad anónima y posibles clientes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Más información sobre [actividad anónima y posibles clientes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

@@ -4,7 +4,7 @@ description: 'Uso del filtro de valor de datos cambiado en una lista inteligente
 title: Usar el filtro de valor de datos cambiado en una lista inteligente
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -17,22 +17,22 @@ Los valores cambian constantemente y se actualizan en la base de datos de Market
 
 >[!PREREQUISITES]
 >
->[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Crear una lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vaya a la **Actividades de marketing** área.
+1. Vaya a la **[!UICONTROL Actividades de marketing]** área.
 
    ![](assets/ma.png)
 
-1. Seleccione la lista inteligente y haga clic en **Lista inteligente** pestaña.
+1. Seleccione la lista inteligente y haga clic en **[!UICONTROL Lista inteligente]** pestaña.
 
    ![](assets/two-1.png)
 
-1. Busque el **Valor de datos cambiado** filtre y arrástrelo al lienzo.
+1. Busque el **[!UICONTROL Valor de datos cambiado]** filtre y arrástrelo al lienzo.
 
    ![](assets/three-1.png)
 
-1. Establecer **Atributo** al campo en el que desea buscar los cambios del valor de los datos.
+1. Establecer **[!UICONTROL Atributo]** al campo en el que desea buscar los cambios del valor de los datos.
 
    ![](assets/four.png)
 
-Este filtro buscará todas las personas que hayan cambiado (cualquier cambio) su estado. Si quieres ponerte aún más elegante, prueba [agregar una restricción a un filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
+Este filtro buscará todas las personas que hayan cambiado (cualquier cambio) su estado. Si quieres ponerte aún más elegante, prueba [agregar una restricción a un filtro de Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
