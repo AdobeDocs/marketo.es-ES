@@ -4,14 +4,14 @@ description: 'SEO: Ver resultados de palabras clave en el motor de búsqueda - D
 title: 'SEO: Ver resultados de palabras clave en el motor de búsqueda'
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# SEO: Ver resultados de palabras clave en el motor de búsqueda {#seo-view-keyword-results-in-search-engine}
+# SEO: Ver resultados de palabras clave en un motor de búsqueda {#seo-view-keyword-results-in-search-engine}
 
 Si desea ver el aspecto de su contenido dentro de un motor de búsqueda, hemos añadido un práctico atajo de teclado.
 
