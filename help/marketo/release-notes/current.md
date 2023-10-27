@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
+source-git-commit: d0302459ac521d6b0dc6dc699fa7d99b38b9f058
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 5%
+source-wordcount: '346'
+ht-degree: 4%
 
 ---
 
@@ -31,8 +31,8 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr> 
   <tr> 
    <td><strong>Nuevo diseño para la configuración de informes en la experiencia de usuario moderna</strong>: Al configurar un recurso de informe, tendrá un <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nuevo árbol de recursos</a> en el menú de configuración, así como la capacidad de filtrar por fecha de creación y modificación.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
    <tr> 
    <td> </td> 
