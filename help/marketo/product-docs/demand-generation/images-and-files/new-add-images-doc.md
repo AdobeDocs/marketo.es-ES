@@ -4,10 +4,10 @@ title: Nuevo documento Agregar imágenes
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 10%
+source-wordcount: '262'
+ht-degree: 7%
 
 ---
 
@@ -51,11 +51,15 @@ Texto
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Seleccione el **Web** opción.
+1. Seleccione el **[!UICONTROL Web]** y haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Texto
+1. Escriba o pegue la dirección URL en la imagen deseada y haga clic en **Siguiente**.
+
+PICC
+
+1. Haga clic en EN BLANCO.
 
 PICC
 
@@ -67,9 +71,27 @@ Texto
 
 1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Texto
+1. Seleccione el **[!UICONTROL Box]** y haga clic en **[!UICONTROL Siguiente]**.
+
+   ![](assets/add-images-and-files-to-marketo-11.png)
+
+   >[!NOTE]
+   >
+   >Si no lo ha hecho anteriormente, se le pedirá que inicie sesión en su cuenta de Box para conceder acceso.
+
+1. Seleccione la carpeta Box que desee y haga clic en **[!UICONTROL Siguiente]**.
+
+   ![](assets/add-images-and-files-to-marketo-12.png)
+
+1. Seleccione las imágenes que desee y haga clic en **[!UICONTROL Siguiente]**.
+
+   ![](assets/add-images-and-files-to-marketo-13.png)
+
+1. Seleccione el Marketo Engage en el que desea guardar la imagen. En este ejemplo lo dejaremos como Imágenes y archivos (predeterminado). Clic **Importar**.
+
+   ![](assets/add-images-and-files-to-marketo-14.png)
 
 ### Importar de Adobe Experience Manager {#import-from-adobe-experience-manager}
 
@@ -78,6 +100,18 @@ Texto
 1. Siga los pasos 1 y 2 [desde arriba](#upload-image-or-file).
 
 1. Haga clic en **[!UICONTROL Acciones de imagen y archivo]** y seleccione. **[!UICONTROL Importar imagen o archivo]**.
+
+   ![](assets/add-images-and-files-to-marketo-15.png)
+
+1. Texto
+
+PICC
+
+1. Texto
+
+PICC
+
+1. Texto
 
 PICC
 
