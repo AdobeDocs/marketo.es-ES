@@ -4,9 +4,9 @@ description: 'Configuración de protocolos para Marketo: documentos de Marketo: 
 title: Configuración de protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 4%
 
 Si usted o su organización utilizan una configuración restrictiva del servidor de seguridad o del servidor proxy, es posible que usted o el administrador de la red tengan que realizar una lista de permitidos de ciertos dominios e intervalos de direcciones IP para garantizar que Adobe Marketo Engage funciona según lo esperado.
 
-## Páginas de aterrizaje de campañas de marca y correos electrónicos {#branded-campaign-landing-pages-and-emails}
-
-Su grupo de marketing utiliza Marketo para crear páginas de aterrizaje de campañas de marca y correos electrónicos. Para garantizar que esas páginas de aterrizaje y correos electrónicos funcionen, necesitan un poco de ayuda del departamento de TI. Configure los siguientes protocolos, con la información que su grupo de marketing debería haberle enviado por correo electrónico.
-
-Este artículo debe compartirse con el departamento de TI de la empresa que desee implementar estos protocolos.
-
-Si su equipo de TI restringe el acceso a la web mediante una lista de permitidos, pídale que añada los siguientes dominios (incluido el asterisco) para permitir todos los recursos y sockets web de Marketo:
+Para obtener ayuda en la implementación de los protocolos siguientes, comparta este artículo con su departamento de TI. Si restringen el acceso a la web mediante una lista de permitidos, asegúrese de que agregan los siguientes dominios (incluido el asterisco) para permitir todos los recursos y sockets web de Marketo:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
