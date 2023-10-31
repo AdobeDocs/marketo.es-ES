@@ -4,14 +4,16 @@ title: Creación de un evento con Webex
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
 
 # Creación de un evento con Webex {#create-an-event-with-webex}
+
+Después de crear un seminario web en Webex, deberá sincronizar el evento con Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 1%
 >* [Crear un nuevo programa de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Configure las variables apropiadas [acciones de flujo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) para rastrear la participación
 
-## Programar un seminario web {#schedule-a-webinar}
+## Programar el seminario web {#schedule-your-webinar}
 
-Primero, cree un seminario web en [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->Usted elige su configuración preferida en Webex, pero solo la siguiente información se puede ver en Marketo Engage: Nombre del seminario web, fecha y hora de inicio y finalización, zona horaria y descripción.
+Programas tu evento y eliges tu configuración preferida en [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Información básica {#basic-information}
 
@@ -71,11 +69,9 @@ Primero, cree un seminario web en [Webex](https://www.webex.com/){target="_blank
 >
 >La integración Marketo-Webex no puede admitir el envío de correos electrónicos de confirmación desde Webex. La confirmación debe enviarse a través de Marketo. Una vez programado el evento, asegúrese de copiar la información del evento en el correo electrónico de confirmación de Marketo y establecer el correo electrónico como _Operativo_.
 
-¡Ahora estamos listos para saltar a Marketo Engage!
-
 ## Sincronizar el evento con el Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. En Marketo, busque y seleccione el Programa de eventos que ha creado. En el **Acciones de evento** menú desplegable, seleccione **Configuración de eventos**.
+1. En Marketo, busque y seleccione el programa de eventos deseado. En el **Acciones de evento** menú desplegable, seleccione **Configuración de eventos**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ Primero, cree un seminario web en [Webex](https://www.webex.com/){target="_blank
 
    ![](assets/create-an-event-with-webex-9.png)
 
-El evento Webex ahora se sincroniza con el evento Marketo. Las personas que se suscriban a su seminario web se enviarán al proveedor del seminario web a través del _Cambiar estado del programa_ paso de flujo cuando el estado Nuevo se establece en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Asegúrese de hacer lo siguiente _Cambiar estado del programa_ paso de flujo #1, y _Enviar correo electrónico_ paso de flujo #2.
+El evento de Webex ahora se sincroniza con el programa de eventos de Marketo. Las personas que se suscriban a su seminario web se enviarán al proveedor del seminario web a través del _Cambiar estado del programa_ paso de flujo cuando el nuevo estado se establece en &quot;Registrado&quot;. Ningún otro estado empujará a la persona. Asegúrese de hacer lo siguiente _Cambiar estado del programa_ paso de flujo #1, y _Enviar correo electrónico_ paso de flujo #2.
 
 ## Cosas que hay que tener en cuenta {#things-to-note}
 
