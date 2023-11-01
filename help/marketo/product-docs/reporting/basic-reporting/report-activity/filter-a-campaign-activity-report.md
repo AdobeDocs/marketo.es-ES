@@ -4,9 +4,9 @@ description: 'Filtrado de un informe de actividad de campaña: documentos de Mar
 title: Filtrado de un informe de actividad de campaña
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrado de un informe de actividad de campaña {#filter-a-campaign-activity-report}
 
 Enfoque su [Informe Actividad de la campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)en específico [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+
+>[!NOTE]
+>
+>El filtrado de recursos en los informes no se admite en el modo satélite (el icono &quot;abrir en una nueva ventana&quot; a la derecha de la página de detalles del recurso).
 
 1. Ir a **Actividades de marketing** (o **Analytics**) y seleccione el informe de actividad de la campaña.
 

@@ -4,9 +4,9 @@ description: Filtrado de recursos en informes de correo electrónico de Campaign
 title: Filtrado de recursos en informes de correo electrónico de Campaign
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrado de recursos en informes de correo electrónico de Campaign {#filter-assets-in-a-campaign-email-reports}
 
 Enfoque su [Rendimiento de correo electrónico de campaña](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) informar sobre [campañas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) en sus programas (&quot;recursos locales&quot;) o en los que se han archivado.
+
+>[!NOTE]
+>
+>El filtrado de recursos en los informes no se admite en el modo satélite (el icono &quot;abrir en una nueva ventana&quot; a la derecha de la página de detalles del recurso).
 
 1. Ir a **Analytics** (o **Actividades de marketing**) área.
 

@@ -4,9 +4,9 @@ description: 'Filtrado de recursos en un informe por correo electrónico: Docume
 title: Filtrado de recursos en un informe de correo electrónico
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Filtrado de recursos en un informe de correo electrónico {#filter-assets-in-an-email-report}
 
 Enfoque su [Rendimiento de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) o [Rendimiento de vínculo de correo electrónico](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) informar sobre correos electrónicos en sus programas (&quot;recursos locales&quot;), en Design Studio (&quot;recursos globales&quot;) o en los que se han archivado.
+
+>[!NOTE]
+>
+>El filtrado de recursos en los informes no se admite en el modo satélite (el icono &quot;abrir en una nueva ventana&quot; a la derecha de la página de detalles del recurso).
 
 1. Ir a **Analytics** (o **Actividades de marketing**) área.
 
