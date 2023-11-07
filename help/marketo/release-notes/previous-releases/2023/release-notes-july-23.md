@@ -2,11 +2,11 @@
 description: 'Notas de la versión, julio de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, julio de 2023
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 4%
+source-wordcount: '654'
+ht-degree: 3%
 
 ---
 
@@ -92,7 +92,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
 
 </br>
 
-* **Cancelar suscripción a anexar configuración**: Ahora tiene más control sobre los mensajes de cancelación de suscripción con las nuevas opciones de configuración para Cancelar la suscripción a la adición. Las nuevas funciones permiten a los administradores controlar cuándo, dónde y qué mensajes de cancelación de suscripción aparecerán en los correos electrónicos de ventas.
+* **Cancelar suscripción a la configuración de datos anexados para acciones de información de ventas**: Ahora tiene más control sobre los mensajes de cancelación de suscripción con las nuevas opciones de configuración para Cancelar la suscripción a la adición. Las nuevas funciones permiten a los administradores controlar cuándo, dónde y qué mensajes de cancelación de suscripción aparecerán en los correos electrónicos de ventas.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
    <td><b>Actualizaciones de documentación</b></td>
   </tr>
   <tr> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Anexar automáticamente la configuración del mensaje de cancelación de suscripción</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Indicadores de campo dinámico**: Ahora puede pedir al equipo de ventas que personalice partes específicas de un correo electrónico aún más con las nuevas peticiones de datos de campo disponibles para añadirlas a las plantillas de correo electrónico en las acciones de perspectiva de ventas.
+* **Peticiones de datos de campo dinámicas para acciones de perspectiva de ventas**: Ahora puede pedir al equipo de ventas que personalice partes específicas de un correo electrónico aún más con las nuevas peticiones de datos de campo disponibles para añadirlas a las plantillas de correo electrónico en las acciones de perspectiva de ventas.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Campos dinámicos predeterminados**: los campos dinámicos predeterminados le permiten configurar un valor de reserva al que un campo dinámico puede resolver si no hay ningún valor disponible para rellenar. Esto ayuda a garantizar que los correos electrónicos se publiquen con toda la personalización completada.
+* **Campos dinámicos predeterminados para acciones de información de ventas**: los campos dinámicos predeterminados le permiten configurar un valor de reserva al que un campo dinámico puede resolver si no hay ningún valor disponible para rellenar. Esto ayuda a garantizar que los correos electrónicos se publiquen con toda la personalización completada.
 
 <table> 
   <tr> 
