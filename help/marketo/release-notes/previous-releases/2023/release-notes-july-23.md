@@ -3,7 +3,7 @@ description: 'Notas de la versión, julio de 2023: Documentos de Marketo: docume
 title: Notas de la versión, julio de 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
+source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 3%
@@ -101,7 +101,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tr>
   <tr> 
    <td>Enviado</td>
-   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Anexar automáticamente la configuración del mensaje de cancelación de suscripción</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Anexar automáticamente la configuración del mensaje de cancelación de suscripción</a></td>
   </tr>
   </tbody>
 </table>
