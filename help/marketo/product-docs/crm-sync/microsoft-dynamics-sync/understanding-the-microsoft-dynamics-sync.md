@@ -4,16 +4,16 @@ description: 'Explicación de la sincronización de Microsoft Dynamics: document
 title: Explicación de la sincronización de Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
 
 # Explicación de la sincronización de Microsoft Dynamics {#understanding-the-microsoft-dynamics-sync}
 
-Marketo y Microsoft Dynamics van juntos. Mantenemos sus datos de ventas y marketing sincronizados.
+Marketo Engage y Microsoft Dynamics van juntos. Mantenemos sus datos de ventas y marketing sincronizados.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ La sincronización entre Marketo y Dynamics es bidireccional para posibles clien
 
 ## ¿Qué se sincroniza entre Marketo y Microsoft Dynamics? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
-* [Leads](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
+* [Clientes potenciales](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [Contactos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
 * [Cuentas](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
 * [Usuarios](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
