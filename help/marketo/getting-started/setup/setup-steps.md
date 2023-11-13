@@ -4,9 +4,9 @@ description: 'Pasos de configuración: documentos de Marketo, documentación del
 title: Pasos de configuración
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ Algunos pasos requieren la ayuda de su equipo de TI.
 
 ## Inicie sesión y cree usuarios de Marketo adicionales {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>Si su suscripción a Marketo se creó el 31 de julio de 2023 o después, o ya se ha migrado a [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} en su lugar.
+
 Iniciar sesión en Marketo [aquí](https://app.marketo.com/){target="_blank"} usando las credenciales que recibió por correo electrónico.
 
 ![](assets/setup-steps-1.png)
@@ -62,13 +66,13 @@ Clic **[!UICONTROL Invitar nuevo usuario]**.
 
 ![](assets/setup-steps-4.png)
 
-Rellene la dirección de correo electrónico, el nombre y los apellidos de sus compañeros. _Establecer una fecha de caducidad para el acceso es opcional_. Clic **[!UICONTROL Siguiente]**.
+Rellene la dirección de correo electrónico, el nombre y los apellidos de sus compañeros. _Establecer una fecha de caducidad para el acceso es opcional_. Haga clic en **[!UICONTROL Siguiente]**.
 
 ![](assets/setup-steps-5.png)
 
 >[!TIP]
 >
->Una fecha de caducidad es buena para las partes interesadas externas o consultores a corto plazo que solo necesitan acceso a Marketo durante un breve periodo.
+>Una fecha de caducidad es ideal para partes interesadas externas o consultores a corto plazo que solo necesitan acceso a Marketo durante un breve periodo.
 
 >[!NOTE]
 >
@@ -140,7 +144,7 @@ Copie el [!UICONTROL Cadena de cuenta] desde la configuración de la página de 
 
 Este es el `[Munchkin ID]`. Guárdelo... Tendrá que darlo a TI en el paso 5.
 
-Configure los ajustes de su dominio para que las páginas de aterrizaje utilicen el dominio de su empresa en lugar del de Marketo (donde están alojadas).
+Configure los ajustes de dominio para que las páginas de aterrizaje utilicen el dominio de su empresa en lugar del de Marketo (donde están alojadas).
 
 ## Garantizar entrega de correo electrónico {#ensure-email-deliverability}
 
@@ -212,7 +216,7 @@ Pegue este texto en el correo electrónico y reemplace los marcadores de posici�
 
 Estimado administrador de TI increíble,
 
-Nuestro equipo de marketing ahora utiliza la plataforma Marketo para comunicarse con nuestros empleados. Para garantizar la buena capacidad de entrega de correos electrónicos, se deben realizar los siguientes cambios:
+Nuestro equipo de marketing ahora utiliza la plataforma Marketo para comunicarse con nuestros empleados. Para garantizar una buena entrega de correos electrónicos, debemos realizar los siguientes cambios:
 
 `1)` Para nuestras páginas de aterrizaje, agregue una Entrada DNS (CNAME) para **[LandingPageCNAME]**.**[CompanyDomain]**.com, apuntando a **[ID de Munchkin]**.mktoweb.com.
 
@@ -313,7 +317,7 @@ Desplácese hacia abajo hasta [!UICONTROL Dominios de marca]. Seleccione el domi
 
 En el campo Dominio, introduzca el dominio de seguimiento de correo electrónico. Debe tener el siguiente formato:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Clic **[!UICONTROL Guardar]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Haga clic en **[!UICONTROL Guardar]**.
 
 ![](assets/setup-steps-21.png)
 
