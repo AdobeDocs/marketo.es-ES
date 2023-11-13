@@ -3,14 +3,14 @@ description: Preguntas frecuentes sobre Adobe Identity Management - Documentos d
 title: PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '780'
-ht-degree: 2%
+source-wordcount: '783'
+ht-degree: 3%
 
 ---
 
-# Preguntas frecuentes {#faq}
+# PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT {#adobe-identity-management-faq}
 
 **¿Qué es la identidad de Adobe?**
 
@@ -72,7 +72,7 @@ Los usuarios incorporados a la identidad de Adobe pueden acceder fácilmente a t
 
 **¿Funciona con SSO?**
 
-Sí. La integración de Marketo con Adobe IMS admite usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Sí. La integración de Marketo con Adobe IMS admite usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **¿Cómo funciona la autorización de dispositivos?**
 
@@ -84,7 +84,7 @@ No. El flujo de trabajo Invitación de usuario ya no está activo cuando una sus
 
 **Para Adobe IMS, ¿tenemos la opción de usar Adobe ID, Enterprise ID o Federated ID?**
 
-Sí, usted determina el tipo de identidad para que su organización la apoye. Puede encontrar más información aquí: [Información general de identidad](https://helpx.adobe.com/enterprise/using/identity.html) y aquí: [Configurar identidad](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Sí, usted determina el tipo de identidad para que su organización la apoye. Puede encontrar más información aquí: [Información general de identidad](https://helpx.adobe.com/enterprise/using/identity.html) y aquí: [Configurar identidad](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **¿Qué tarjetas de producto se admiten en Adobe Admin Console?**
 

@@ -3,22 +3,16 @@ description: 'Información general de Adobe Identity Management: documentos de M
 title: Información general sobre Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Información general sobre Adobe Identity Management {#adobe-identity-management-overview}
 
-Si tiene una cuenta nueva con Adobe Marketo Engage (cuenta nueva, no solo una nueva para una cuenta existente) a partir del 15 de febrero de 2022, puede que se integre con el sistema Identity Management de Adobe, según el paquete de producto comprado. Para saber si lo tiene, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
-
-Las suscripciones de Marketo existentes empezarán a migrarse al sistema Identity Management de Adobe en el segundo semestre de 2023.
-
-Si tiene un [nueva cuenta](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (no solo una nueva instancia para una cuenta existente) con Adobe Marketo Engage a partir del 15 de febrero de 2022, puede integrarse con el sistema Identity Management de Adobe (IMS), según el paquete de producto comprado. Para saber si lo tiene, póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas).
-
-Las suscripciones de Marketo existentes empezarán a migrarse al sistema de Identity Management de Adobe a finales de 2023. Al principio, estas migraciones solo pueden producirse después de volver a contratar la suscripción a Marketo. Adobe planea empezar a migrar usuarios de Marketo fuera de los eventos de recontratación hacia mediados de 2024.
+Todas las nuevas suscripciones de Adobe Marketo Engage (del 31 de julio de 2023 o posterior) están integradas con el sistema Identity Management de Adobe. Las suscripciones de Marketo existentes se están migrando al sistema Identity Management de Adobe tras los eventos de renovación o recontratación. Las migraciones fuera de un evento de renovación o recontratación no son compatibles en este momento.
 
 >[!NOTE]
 >
