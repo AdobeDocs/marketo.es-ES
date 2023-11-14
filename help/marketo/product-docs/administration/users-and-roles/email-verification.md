@@ -3,16 +3,16 @@ description: Verificación por correo electrónico - Documentos de Marketo - Doc
 title: Verificación de correo electrónico
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
 
 # Verificación de correo electrónico {#email-verification}
 
-Las suscripciones a Adobe Marketo Engage requieren que todos los usuarios que no sean solo de API, incluidos los administradores de Marketo Engage, comprueben su dirección de correo electrónico. A los usuarios de inicio de sesión único (SSO) que no se les asigne una función de administrador o que se les asigne una función con el permiso &quot;Omitir SSO&quot; se les verificará automáticamente su correo electrónico cuando su suscripción esté habilitada con la función de verificación por correo electrónico.
+Las suscripciones a Adobe Marketo Engage requieren que todos los usuarios que no sean solo de API, incluidos los administradores de Marketo Engage, comprueben su dirección de correo electrónico.
 
 ## Por qué se introdujo esta función {#why-this-feature-was-introduced}
 
@@ -20,7 +20,7 @@ El Marketo Engage continúa con la implementación de la verificación por corre
 
 ## Invitación de usuario {#user-invite}
 
-Cuando un administrador invita a un usuario, este se verifica automáticamente una vez que hace clic en el vínculo de invitación. Los usuarios de SSO que no tengan asignada la función de administrador se verifican automáticamente.
+Cuando un administrador invita a un usuario, este se verifica automáticamente una vez que hace clic en el vínculo de invitación.
 
 ## Correo electrónico de verificación {#verification-email}
 
