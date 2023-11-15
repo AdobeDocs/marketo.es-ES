@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9103'
 ht-degree: 3%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 3%
       + [Pasos de configuración](getting-started/setup/setup-steps.md)
       + [Configurar lista de comprobación](getting-started/setup/setup-checklist.md)
       + [Configuración de protocolos para Marketo](getting-started/setup/configure-protocols-for-marketo.md)
+      + [Documento de configuración de protocolos actualizado](getting-started/setup/updated-configure-protocols-doc.md)
    + Ganancias rápidas {#quick-wins}
       + [Configuración y adición de una persona](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Enviar un correo electrónico](getting-started/quick-wins/send-an-email.md)
@@ -303,7 +304,7 @@ ht-degree: 3%
             + [Uso de un webhook en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Uso de Agregar opción en un paso de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [Uso de tokens en pasos de flujo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-            + Esperar {#wait}
+            + Espera {#wait}
                + [Información general de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
                + [Uso de un token de fecha en un paso de flujo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [Utilizar una duración en un paso de flujo de espera](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
