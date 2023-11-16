@@ -4,10 +4,10 @@ description: 'Configuración de protocolos para Marketo: documentos de Marketo: 
 title: Configuración de protocolos para Marketo
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
 workflow-type: tm+mt
-source-wordcount: '968'
-ht-degree: 4%
+source-wordcount: '2104'
+ht-degree: 2%
 
 ---
 
@@ -90,7 +90,7 @@ Algunos sistemas antispam utilizan el campo Return-Path de correo electrónico e
 
 ## Paso 3: Configuración de SPF y DKIM {#step-set-up-spf-and-dkim}
 
-Su equipo de marketing también debería haberle enviado información DKIM para añadirla a su registro de recursos DNS (también mostrado a continuación). Siga los pasos para configurar correctamente DKIM y SPF y, a continuación, notifique a su equipo de marketing que se ha actualizado.
+Su equipo de marketing también debería haberle enviado información de DKIM (Domain Keys Identified Mail) para que se añada a su registro de recursos DNS (también mostrado a continuación). Siga los pasos para configurar correctamente DKIM y SPF (Marco de políticas del remitente) y, a continuación, notifique a su equipo de marketing que se ha actualizado.
 
 1. Para configurar SPF, agregue la línea siguiente a las entradas DNS:
 
@@ -110,7 +110,175 @@ Su equipo de marketing también debería haberle enviado información DKIM para 
 
    Copie HostRecord y TXTValue para cada DKIMDomain configurado después de seguir el [instrucciones aquí](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. No olvide verificar cada dominio en Administración > Correo electrónico > DKIM después de que su personal de TI haya completado este paso.
 
-## Paso 4: Configurar registros MX para su dominio {#step-set-up-mx-records-for-your-domain}
+## Paso 4: Configuración de DMARC {#set-up-dmarc}
+
+DMARC (Autenticación de mensajes, creación de informes y conformidad basados en dominio) es un protocolo de autenticación que se utiliza para ayudar a las organizaciones a proteger su dominio contra el uso no autorizado. DMARC amplía los protocolos de autenticación existentes, como SPF y DKIM, para informar a los servidores de destinatarios de qué acciones deben realizar si se produce un error de autenticación en su dominio. Aunque DMARC es actualmente opcional, se recomienda encarecidamente, ya que protegerá mejor la marca y la reputación de su organización. Los principales proveedores, como Google y Yahoo, exigirán el uso de DMARC para remitentes masivos a partir de febrero de 2024.
+
+Para que DMARC funcione, debe tener al menos uno de los siguientes registros TXT DNS:
+
+* Un SPF válido
+* Un registro DKIM válido para su dominio FROM: (recomendado para el Marketo Engage)
+
+Además, debe tener un registro TXT DNS específico de DMARC para su FROM: Domain. De forma opcional, se puede definir una dirección de correo electrónico de su elección para indicar adónde deben ir los informes DMARC dentro de su organización, de modo que pueda monitorizar los informes.
+
+Como práctica recomendada, se recomienda implementar lentamente la implementación de DMARC escalando la política de DMARC de p=none, p=quarantine, p=reject a medida que se comprende el impacto potencial de DMARC y establecer la política de DMARC para una alineación relajada en SPF y DKIM.
+
+### Flujo de trabajo de ejemplo DMARC {#dmarc-example-workflow}
+
+1. Si está configurado para recibir informes DMARC, debe hacer lo siguiente...
+
+   I. Analice los comentarios y los informes que recibe y utiliza (p=ninguno), lo que indica al destinatario que no realice ninguna acción contra los mensajes que no se autentican correctamente, pero que envíe informes por correo electrónico al remitente.
+
+   II. Revise y corrija los problemas con SPF/DKIM si los mensajes legítimos fallan en la autenticación.
+
+   III. Determine si SPF o DKIM están alineados y pasa la autenticación para todos los correos electrónicos legítimos.
+
+   IV. Revise los informes para asegurarse de que los resultados son los esperados en función de las políticas de SPF/DKIM.
+
+1. Ajuste la directiva a (p=quarantine), que indica al servidor de correo electrónico receptor que ponga en cuarentena el correo electrónico que falla en la autenticación (esto generalmente significa colocar esos mensajes en la carpeta de correo no deseado).
+
+   I. Revise los informes para asegurarse de que los resultados son los esperados.
+
+1. Si está satisfecho con el comportamiento de los mensajes en el nivel p=quarantine, puede ajustar la directiva a (p=reject). La directiva p=reject indica al destinatario que deniegue (devuelva) completamente cualquier correo electrónico del dominio que falle en la autenticación. Con esta directiva habilitada, solo los correos electrónicos verificados como 100 % autenticados por el dominio tendrán la oportunidad de colocarse en la bandeja de entrada.
+
+>[!CAUTION]
+>
+>Utilice esta directiva con precaución y determine si es apropiada para su organización.
+
+### Informes DMARC {#dmarc-reporting}
+
+DMARC ofrece la capacidad de recibir informes sobre correos electrónicos que fallan en SPF/DKIM. Existen dos informes diferentes generados por los proveedores de servicios de Internet como parte del proceso de autenticación que los remitentes pueden recibir a través de las etiquetas RUA/RUF en su política DMARC.
+
+* Informes agregados (RUA): no contiene ninguna PII (información de identificación personal) que sea sensible al RGPD (Reglamento general de protección de datos).
+
+* Informes forenses (RUF): contiene direcciones de correo electrónico que son sensibles al RGPD. Antes de utilizar, es mejor comprobar internamente cómo tratar la información que necesita cumplir con el RGPD.
+
+El uso principal de estos informes es recibir una descripción general de los correos electrónicos que se intentan suplantar. Se trata de informes muy técnicos que se digieren mejor con una herramienta de terceros.
+
+### Ejemplo de registros DMARC {#example-dmarc-records}
+
+* Registro mínimo vacío: `v=DMARC1; p=none`
+
+* Registre la dirección a una dirección de correo electrónico para recibir informes: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
+
+### Etiquetas DMARC y lo que hacen {#dmarc-tags-and-what-they-do}
+
+Los registros DMARC tienen varios componentes llamados etiquetas DMARC. Cada etiqueta tiene un valor que especifica un determinado aspecto de DMARC.
+
+<table>
+<thead>
+  <tr>
+    <th>Nombre de etiqueta </th>
+    <th>Obligatorio/Opcional </th>
+    <th>Función </th>
+    <th>Ejemplo </th>
+    <th>Valor predeterminado </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>v</td>
+    <td>Obligatorio</td>
+    <td>Esta etiqueta DMARC especifica la versión. De momento, solo hay una versión, por lo que tendrá un valor fijo de v=DMARC1</td>
+    <td>V=DMARC1 DMARC1</td>
+    <td>DMARC1</td>
+  </tr>
+  <tr>
+    <td>p</td>
+    <td>Obligatorio</td>
+    <td>Muestra la directiva DMARC seleccionada y dirige al receptor a informar, poner en cuarentena o rechazar correo que no supere las comprobaciones de autenticación.</td>
+    <td>p=ninguno, cuarentena o rechazo</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>fo</td>
+    <td>Opcional</td>
+    <td>Permite al propietario del dominio especificar las opciones de creación de informes.</td>
+    <td>0: Generar informe si falla todo 
+    <br>1: Generar un informe si algo falla 
+    <br>d: Generar informe si falla DKIM 
+    <br>s: Generar informe si falla el SPF</td>
+    <td>1 (recomendado para informes DMARC)</td>
+  </tr>
+  <tr>
+    <td>pct</td>
+    <td>Opcional</td>
+    <td>Indica el porcentaje de mensajes sujetos al filtrado.</td>
+    <td>pct=20</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>rua</td>
+    <td>Opcional (recomendado)</td>
+    <td>Identifica dónde se enviarán los informes agregados.</td>
+    <td>rua=mailto:aggrep@example.com</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>tugurio</td>
+    <td>Opcional (recomendado)</td>
+    <td>Identifica dónde se enviarán los informes forenses.</td>
+    <td>ruf=mailto:authfail@example.com</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>sp</td>
+    <td>Opcional</td>
+    <td>Especifica la directiva DMARC para los subdominios del dominio principal.</td>
+    <td>sp=reject</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>adkim</td>
+    <td>Opcional</td>
+    <td>Puede ser Estricto (s) o ® relajado. La alineación relajada significa que el dominio utilizado en la firma DKIM puede ser un subdominio de la dirección "Desde". Alineación estricta significa que el dominio utilizado en la firma DKIM debe coincidir exactamente con el dominio utilizado en la dirección De.</td>
+    <td>adkim=r </td>
+    <td>r</td>
+  </tr>
+  <tr>
+    <td>aspf</td>
+    <td>Opcional</td>
+    <td>Puede ser Estricto (s) o ® relajado. La alineación relajada significa que el dominio ReturnPath puede ser un subdominio de la dirección remitente. La alineación estricta significa que el dominio Return-Path debe coincidir exactamente con la dirección From.</td>
+    <td>aspf=r</td>
+    <td>r</td>
+  </tr>
+</tbody>
+</table>
+
+Para obtener información detallada acerca de DMARC y todas sus opciones, visite [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+
+### DMARC y MARKETO ENGAGE {#dmarc-and-marketo-engage}
+
+Existen dos tipos de alineación para DMARC: alineación DKIM y alineación SPF.
+
+>[!NOTE]
+>
+>Se recomienda realizar la alineación de DMARC en DKIM frente a SPF para Marketo.
+
+* DMARC alineada con DKIM: para configurar DMARC alineada con DKIM debe:
+
+   * Configure DKIM para el dominio FROM: del mensaje. Siga las instrucciones [en este artículo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Configure DMARC para el dominio FROM:/DKIM configurado anteriormente
+
+* SPF alineado con DMARC: para configurar el SPF alineado con DMARC a través de una trayectoria de retorno de marca, debe:
+
+   * Configuración del dominio de rutas de retorno de marca
+      * Configurar el registro SPF adecuado
+      * Cambie el registro MX para que vuelva al MX predeterminado del centro de datos desde el que se enviará el correo
+
+   * Configuración de DMARC para el dominio de rutas de retorno de marca
+
+* Si envía correo desde Marketo a través de una IP dedicada y aún no ha implementado una ruta de retorno de marca, o no está seguro de haberlo hecho, abra una incidencia con [Asistencia de Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* Si envía correo electrónico desde Marketo a través de un grupo compartido de direcciones IP, puede comprobar si cumple los requisitos para obtener direcciones IP fiables de [aplicar aquí](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. La ruta de retorno de marca se ofrece de forma gratuita a quienes envíen desde las IP de confianza de Marketo. Si se aprueba para este programa, póngase en contacto con el Soporte técnico de Marketo para configurar una ruta de retorno de marca.
+
+   * IP de confianza: grupo compartido de IP reservado para usuarios de menor volumen que envían &lt;75 000/mes y que no cumplen los requisitos para una IP dedicada. Estos usuarios también deben cumplir con los requisitos de las prácticas recomendadas.
+
+* Si envía correo desde Marketo a través de direcciones IP compartidas y no cumple los requisitos para obtener direcciones IP fiables y envía más de 100 000 mensajes al mes, deberá ponerse en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para adquirir una dirección IP dedicada.
+
+* No se admite ni se recomienda una alineación SPF estricta en Marketo.
+
+## Paso 5: Configurar registros MX para su dominio {#step-set-up-mx-records-for-your-domain}
 
 Un registro MX le permite recibir correo electrónico en el dominio desde el que envía el correo electrónico para procesar las respuestas y los respondedores automáticos. Si envía desde su dominio corporativo, es probable que ya lo tenga configurado. Si no es así, normalmente puede configurarlo para que se asigne al registro MX de su dominio corporativo.
 
@@ -214,6 +382,5 @@ Las siguientes tablas abarcan todos los servidores de Marketo Engage que realiza
    <tr>
    <td>130.248.168.17</td>
   </tr>
-
-</tbody>
+ </tbody>
 </table>
