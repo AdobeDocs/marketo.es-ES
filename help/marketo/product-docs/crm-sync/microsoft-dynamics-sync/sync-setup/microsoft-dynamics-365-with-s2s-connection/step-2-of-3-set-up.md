@@ -4,7 +4,7 @@ description: 'Paso 2 de 3: Configuración de la solución Marketo con conexión 
 title: 'Paso 2 de 3: Configuración de la solución de Marketo con conexión de servidor a servidor'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 1. Conceda el consentimiento del administrador siguiendo los pasos [en este artículo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. Genere un Secreto de cliente en el Centro de administración haciendo clic en **Certificados y secretos**.
+1. Genere un Secreto de cliente en el Centro de administración haciendo clic en **[!UICONTROL Certificados y secretos]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Haga clic en **Nuevo secreto de cliente** botón.
+1. Haga clic en **[!UICONTROL Nuevo secreto de cliente]** botón.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Introduzca una descripción del secreto de cliente y haga clic en **Añadir**.
+1. Introduzca una descripción del secreto de cliente y haga clic en **[!UICONTROL Añadir]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en
 
 ¡Ya casi está! Todo lo que nos queda es informar a Marketo Solution sobre el nuevo usuario creado.
 
-1. Vuelva a la sección Configuración avanzada y haga clic en ![](assets/image2015-5-13-15-3a49-3a19.png) junto a Configuración y seleccione **Configuración de Marketo**.
+1. Vuelva a la sección Configuración avanzada y haga clic en ![](assets/image2015-5-13-15-3a49-3a19.png) junto a Configuración y seleccione **[!UICONTROL Configuración de Marketo]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Si no lo ve... **Configuración de Marketo** en el menú Configuración, actualice la página. Si eso no funciona, intente lo siguiente [publicación de la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} o cierre la sesión y vuelva a iniciarla.
+   >Si no ve &quot;Configuración de Marketo&quot; en el menú Configuración, actualice la página. Si eso no funciona, intente lo siguiente [publicación de la solución de Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} o cierre la sesión y vuelva a iniciarla.
 
-1. Clic **Predeterminado**.
+1. Clic **[!UICONTROL Predeterminado]**.
 
    ![](assets/fifteen.png)
 
-1. Haga clic en el botón de búsqueda en **Usuario de Marketo** y seleccione el usuario sync que ha creado.
+1. Haga clic en el botón de búsqueda en **[!UICONTROL Usuario de Marketo]** y seleccione el usuario sync que ha creado.
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Referencias adicionales [se puede encontrar aquí](https://docs.microsoft.com/en
 
    ![](assets/seventeen.png)
 
-1. Haga clic en ![](assets/image2015-5-13-15-3a49-3a19-1.png) junto a Configuración y seleccione **Soluciones**.
+1. Haga clic en ![](assets/image2015-5-13-15-3a49-3a19-1.png) junto a Configuración y seleccione **[!UICONTROL Soluciones]**.
 
    ![](assets/eighteen.png)
 
-1. Haga clic en **Publicar todas las personalizaciones** botón.
+1. Haga clic en **[!UICONTROL Publicar todas las personalizaciones]** botón.
 
    ![](assets/nineteen.png)
 

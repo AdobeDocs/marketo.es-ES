@@ -3,9 +3,9 @@ description: 'Estado de sincronización de Salesforce: Documentos de Marketo: do
 title: Estado de sincronización de Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '554'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Utilice el panel Estado de sincronización para ver las estadísticas de sincronización como parte de los pasos de sincronización y su estado de éxito.
 
-Los pasos de sincronización reflejan las operaciones de inserción o extracción de cada tipo de objeto para el esquema de objeto y los propios datos. Las estadísticas abarcan nuevos registros, actualizaciones, eliminaciones y recuentos de errores durante la sincronización. Los usuarios pueden filtrar por fecha, tipo de operación o tipo de objeto. El panel Estado de sincronización muestra el estado de los ciclos de sincronización de los últimos cinco días.
+Los pasos de sincronización reflejan las operaciones de inserción o extracción de cada tipo de objeto para el esquema de objeto y los propios datos. Las estadísticas abarcan nuevos registros, actualizaciones, eliminaciones y recuentos de errores durante la sincronización. Los usuarios pueden filtrar por fecha, tipo de operación o tipo de objeto. El panel Estado de sincronización muestra el estado de los ciclos de sincronización de los últimos cinco días.
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ Los pasos de sincronización reflejan las operaciones de inserción o extracció
 
 ## Ver estado de sincronización {#view-sync-status}
 
-1. Clic **Administrador**.
+1. Clic **[!UICONTROL Administrador]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. En Integración, haga clic en Salesforce y, a continuación, en la pestaña Estado de sincronización.
+1. En [!UICONTROL Integración], haga clic en **Salesforce** y, a continuación, el **[!UICONTROL Estado de sincronización]** pestaña.
 
    ![](assets/salesforce-sync-status-2.png)
 
-De forma predeterminada, las estadísticas se ordenarán por las iniciadas más recientemente. Puede ordenar por Iniciado en o Finalizado en (de más reciente a más antiguo) haciendo clic en el icono ordenar.
+De forma predeterminada, las estadísticas se ordenarán por las iniciadas más recientemente. Puede ordenar por Iniciado en o Finalizado en (de más reciente a más antiguo) haciendo clic en el icono de ordenación.
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,15 +40,15 @@ De forma predeterminada, las estadísticas se ordenarán por las iniciadas más 
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Seleccione la fecha y el intervalo de tiempo y, a continuación, haga clic en las listas desplegables para filtrar por Tipo de objeto, Tipo de operación o Tipo de estado.
+1. Seleccione la fecha y el intervalo de tiempo y, a continuación, haga clic en los menús desplegables por los que filtrar [!UICONTROL Tipo de objeto], [!UICONTROL Tipo de operación], y/o [!UICONTROL Tipo de estado].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Clic **Aplicar**.
+1. Clic **[!UICONTROL Aplicar]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**PASO OPCIONAL**: Para exportar los errores de sincronización, haga clic en **Exportar**. Los datos se exportarán como CSV.
+**PASO OPCIONAL**: Para exportar los errores de sincronización, haga clic en **[!UICONTROL Exportar]**. Los datos se exportarán como CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -141,7 +141,7 @@ De forma predeterminada, las estadísticas se ordenarán por las iniciadas más 
    <td colspan="1">Campaña</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Estado de membresía de la campaña</td> 
+   <td colspan="1">Abonado de la campaña Estado</td> 
   </tr>
   <tr> 
    <td colspan="1">Contacto</td> 
@@ -159,7 +159,7 @@ De forma predeterminada, las estadísticas se ordenarán por las iniciadas más 
    <td colspan="1">Oportunidad</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Rol del contacto y la oportunidad</td> 
+   <td colspan="1">Función de contacto de oportunidad</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tarea</td> 
@@ -190,7 +190,7 @@ De forma predeterminada, las estadísticas se ordenarán por las iniciadas más 
    <td colspan="1">Iniciar vínculo con el programa</td> 
    <td colspan="1">Campaña</td> 
    <td colspan="1">Vinculación de campañas a programas</td> 
-   <td colspan="1">Actualizar</td>
+   <td colspan="1">Actualización</td>
   </tr>  
   <tr> 
    <td colspan="1">Extraer conversiones</td> 

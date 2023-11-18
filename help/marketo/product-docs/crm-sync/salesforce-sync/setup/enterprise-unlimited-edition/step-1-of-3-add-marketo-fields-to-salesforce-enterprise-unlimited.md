@@ -4,9 +4,9 @@ description: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (Enterpris
 title: 'Paso 1 de 3: Adición de campos de Marketo a Salesforce (empresarial/ilimitado)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '781'
 ht-degree: 8%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->Debe tener acceso a las API de Salesforce para sincronizar entre Marketo y Salesforce.
+>Debe tener acceso a las API de Salesforce para sincronizar entre Marketo Engage y Salesforce.
 
 Marketo utiliza un conjunto de campos para capturar determinados tipos de información relacionada con el marketing. Si desea ver estos datos en Salesforce, siga las instrucciones a continuación.
 
@@ -31,27 +31,27 @@ Agregue tres campos personalizados a los objetos de contacto y posible cliente d
 
 Siga estos pasos para cada uno de los tres campos personalizados para agregarlos. Comience con Puntuación.
 
-1. Inicie sesión en Salesforce y haga clic en **Configurar**.
+1. Inicie sesión en Salesforce y haga clic en **[!UICONTROL Configurar]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione **Posibles clientes**. Clic **Campos**.
+1. En el [!UICONTROL Generar] a la izquierda, haga clic en **[!UICONTROL Personalizar]** y seleccione **[!UICONTROL Posibles clientes]**. Clic **[!UICONTROL Campos]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Clic **Nuevo** en la sección Campos personalizados y relaciones en la parte inferior de la página.
+1. Clic **[!UICONTROL Nuevo]** en la sección Campos personalizados y relaciones en la parte inferior de la página.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Elija el tipo de campo adecuado (para Puntuación — número; Programa de adquisición — texto; Fecha/hora de adquisición).
+1. Elija el tipo de campo adecuado (para Puntuación - número; Programa de adquisición - texto; Fecha/hora de adquisición).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Introduzca la Etiqueta de campo, Longitud y Nombre de campo para el campo, como se muestra en la tabla siguiente.
+1. Introduzca el [!UICONTROL Etiqueta de campo], [!UICONTROL Longitud], y [!UICONTROL Nombre de campo] para el campo, como se muestra en la tabla siguiente.
 
 <table> 
  <thead> 
@@ -106,18 +106,18 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 >
 >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Clic **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Especifique la configuración de acceso y haga clic en **Siguiente**:
+1. Especifique la configuración de acceso y haga clic en **[!UICONTROL Siguiente]**:
 
-   * Definir todos los roles en **Visible** y **Solo lectura**
+   * Definir todos los roles en **[!UICONTROL Visible]** y **[!UICONTROL Solo lectura]**
 
-   * Borre la **Solo lectura** casilla de verificación para el perfil del usuario de sincronización:
+   * Borre la **[!UICONTROL Solo lectura]** casilla de verificación para el perfil del usuario de sincronización:
 
-      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **Solo lectura** casilla de verificación para el perfil del administrador del sistema (como se muestra a continuación)
-      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, borre la etiqueta **Solo lectura** casilla de verificación para ese perfil personalizado
+      * Si tiene un usuario con el perfil de un _Administrador del sistema_ como usuario de sincronización, borre la **[!UICONTROL Solo lectura]** casilla de verificación para el perfil del administrador del sistema (como se muestra a continuación)
+      * Si ha creado un _perfil personalizado_ para el usuario de sincronización, borre la etiqueta **[!UICONTROL Solo lectura]** casilla de verificación para ese perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Clic **Guardar y nuevo** para volver y crear cada uno de los otros dos campos personalizados. Clic **Guardar** con lo que has terminado con los tres.
+1. Clic **[!UICONTROL Guardar y nuevo]** para volver y crear cada uno de los otros dos campos personalizados. Clic **[!UICONTROL Guardar]** con lo que has terminado con los tres.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. En el menú Generar de la izquierda, haga clic en **Personalizar** y seleccione Contactos. Haga clic en Campos.
+1. En el menú Generar de la izquierda, haga clic en **[!UICONTROL Personalizar]** y seleccione Contactos. Haga clic en Campos.
 1. Realice los pasos del 3 al 10 para los campos Puntuación, Fecha de adquisición y Programa de adquisición del objeto de contacto, tal como lo hizo para el objeto de posible cliente.
 1. De forma opcional, utilice el procedimiento anterior para cualquier campo personalizado adicional de esta tabla.
 
@@ -244,15 +244,15 @@ Siga estos pasos para cada uno de los tres campos personalizados para agregarlos
 
 Un campo personalizado en el objeto de posible cliente en Salesforce debe asignarse a un campo de contacto en el objeto de contacto para que los datos se transfieran cuando se produzca una conversión.
 
-1. En la esquina superior derecha, haga clic en **Configurar**.
+1. En la esquina superior derecha, haga clic en **[!UICONTROL Configurar]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Escriba &quot;Campos&quot; en la búsqueda de navegación sin pulsar Intro. Los campos aparecen bajo diferentes objetos; haga clic en **Campos** en Posibles clientes.
+1. Escriba &quot;Campos&quot; en la búsqueda de navegación sin pulsar Intro. Los campos aparecen bajo diferentes objetos; haga clic en **[!UICONTROL Campos]** en Posibles clientes.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vaya a la sección Campos personalizados y relaciones de posibles clientes y haga clic en **Asignar campos de posibles clientes**.
+1. Vaya a la sección Campos personalizados y relaciones de posibles clientes y haga clic en **[!UICONTROL Asignar campos de posibles clientes]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,10 +266,8 @@ Un campo personalizado en el objeto de posible cliente en Salesforce debe asigna
 
 1. Repita los pasos anteriores para cualquier otro campo que haya creado.
 
-1. Clic **Guardar** cuando hayas terminado.
-
-   Suficientemente fácil, ¿verdad?
+1. Clic **[!UICONTROL Guardar]** cuando termine.
 
 >[!MORELIKETHIS]
 >
->[Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Paso 2 de 3: Crear un usuario de Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}

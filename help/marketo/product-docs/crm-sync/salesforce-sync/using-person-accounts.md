@@ -4,16 +4,16 @@ description: Uso de cuentas de persona - Documentos de Marketo - Documentación 
 title: Uso de cuentas de persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # Uso de cuentas de persona {#using-person-accounts}
 
-Las cuentas de persona se pueden configurar en Salesforce para adaptarse a las necesidades de su organización. Así es como Marketo trata las cuentas de personas.
+Las cuentas de persona se pueden configurar en Salesforce para adaptarse a las necesidades de su organización. Así trata el Marketo Engage las cuentas de las personas.
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ Una cuenta de persona se sincroniza con Marketo como empresa y como persona.
 
 ## ¿Cómo diferencio las cuentas de empresa y las cuentas de persona? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Utilice el **Es cuenta de persona** filtre en la lista inteligente para separar las cuentas de persona de las cuentas empresariales estándar.
+Utilice el filtro &quot;Es cuenta de persona&quot; de la lista inteligente para separar las cuentas de persona de las cuentas empresariales estándar.
 
 ## ¿Dónde se muestra la información de mis cuentas de persona en Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Las actividades relacionadas con cuentas de persona se muestran en la variable **Cuenta** panel.
+Las actividades relacionadas con cuentas de persona se muestran en la variable **[!UICONTROL Cuenta]** panel.
 
 >[!NOTE]
 >
->Datos de ventas de Marketo **Añadir a Marketo Campaign** y **Enviar correo electrónico** Las opciones de no están disponibles actualmente para cuentas de persona.
+>Datos de ventas de Marketo **[!UICONTROL Añadir a Marketo Campaign]** y **[!UICONTROL Enviar correo electrónico]** Las opciones de no están disponibles actualmente para cuentas de persona.
 
 ## ¿Cómo asocio oportunidades a una cuenta de persona? {#how-do-i-associate-opportunities-to-a-person-account}
 
