@@ -4,7 +4,7 @@ description: Convertir al usuario de sincronización de Marketo en usuario de ma
 title: Convertir al usuario de sincronización de Marketo en usuario de marketing
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Convertir al usuario de sincronización de Marketo en usuario de marketing {#make-marketo-sync-user-a-marketing-user}
 
-El [usuario de sincronización de Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) debe ser un usuario de marketing para que la sincronización de campaña de Salesforce funcione correctamente. A continuación se indica cómo hacer que el usuario sea un usuario de marketing en Salesforce.
+El [usuario de sincronización de Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} debe ser un usuario de marketing para que la sincronización de campaña de Salesforce funcione correctamente. A continuación se indica cómo hacer que el usuario sea un usuario de marketing en Salesforce.
 
 >[!NOTE]
 >
 >**Permisos de administración necesarios**
 
-1. Inicie sesión en Salesforce. Busque usuarios en la barra de búsqueda izquierda y haga clic en **Usuarios** bajo **Administración de usuarios**.
+1. Inicie sesión en Salesforce. Busque usuarios en la barra de búsqueda izquierda y haga clic en **[!UICONTROL Usuarios]** bajo **[!UICONTROL Administración de usuarios]**.
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
@@ -27,11 +27,11 @@ El [usuario de sincronización de Marketo](/help/marketo/product-docs/crm-sync/s
 
    ![](assets/image2015-7-8-14-3a27-3a32.png)
 
-1. Clic **Editar**.
+1. Clic **[!UICONTROL Editar]**.
 
    ![](assets/image2015-7-8-14-3a29-3a7.png)
 
-1. Compruebe la **Usuario de marketing** y haga clic en **Guardar**.
+1. Compruebe la **[!UICONTROL Usuario de marketing]** y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 

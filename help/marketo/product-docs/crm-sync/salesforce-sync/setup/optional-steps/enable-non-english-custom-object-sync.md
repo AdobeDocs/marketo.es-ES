@@ -4,10 +4,10 @@ description: Habilitar la sincronización de objetos personalizados que no esté
 title: Habilitar sincronización de objetos personalizados que no esté en inglés
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
@@ -21,35 +21,35 @@ Si el usuario de sincronización de Marketo está configurado en un idioma disti
 
 ## Dar la vuelta {#getting-around-it}
 
-1. Inicie sesión en Salesforce con el usuario de marketo sync.
+1. Iniciar sesión en [!DNL Salesforce] uso del usuario de marketo sync.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. En el nombre de usuario, vaya a **Configurar**.
+1. En el nombre de usuario, vaya a **[!UICONTROL Configurar]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. En **Información personal**, haga clic en **Mi información personal**.
+1. En **[!UICONTROL Información personal]**, haga clic en **[!UICONTROL Mi información personal]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Clic **Editar**.
+1. Clic **[!UICONTROL Editar]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Cambie el **Idioma** hasta **Inglés**.
+1. Cambie el **[!UICONTROL Idioma]** hasta **[!UICONTROL Inglés]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Clic **Guardar**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Vuelva a Marketo, en **Administración > Salesforce > Objetos** click **Actualizar esquema**.
+1. Vuelva a Marketo, en **[!UICONTROL Administrador]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objetos]**, haga clic en **[!UICONTROL Actualizar esquema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Esto extraerá la lista de objetos en inglés. Seleccione el objeto que desee y haga clic en **Habilitar sincronización**.
+1. Esto extraerá la lista de objetos en inglés. Seleccione el objeto que desee y haga clic en **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

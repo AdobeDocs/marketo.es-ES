@@ -4,7 +4,7 @@ description: Personalizar sincronización de actividades - Documentos de Marketo
 title: Personalizar sincronización de actividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 4%
@@ -13,17 +13,17 @@ ht-degree: 4%
 
 # Personalizar sincronización de actividades {#customize-activities-sync}
 
-Si no utiliza Marketo Sales Insight, Marketo puede crear Registros de historial de actividades de Salesforce para determinados eventos. A continuación se indica cómo habilitarlos.
+Si no utiliza Marketo Sales Insight, Marketo Engage puede crear Registros de historial de actividades de Salesforce para determinados eventos. A continuación se indica cómo habilitarlos.
 
-1. Ir a **Administrador**.
+1. Ir a **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Clic **Salesforce**, luego haga clic en **Editar opciones de sincronización**.
+1. Clic **[!DNL Salesforce]**, luego haga clic en **[!UICONTROL Editar opciones de sincronización]**.
 
    ![](assets/two-1.png)
 
-1. Marque las casillas junto a las actividades que Marketo debe insertar en Salesforce y haga clic en **Guardar**.
+1. Marque las casillas junto a las actividades que Marketo debe insertar en Salesforce y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/three-1.png)
 
@@ -96,8 +96,8 @@ Si no utiliza Marketo Sales Insight, Marketo puede crear Registros de historial 
 
 >[!NOTE]
 >
->&quot;Correo electrónico de ventas recibido&quot; sí **no** media entregada. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
+>&quot;Correo electrónico de ventas recibido&quot; sí _no_ media entregada. El estado de entrega no se captura para los correos electrónicos enviados mediante Sales Insight.
 
 >[!TIP]
 >
->Si está interesado en obtener más información de Marketo en Salesforce, consulte nuestra [Perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) producto.
+>Si está interesado en obtener más información de Marketo en Salesforce, consulte nuestra [Perspectiva de ventas de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} producto.
