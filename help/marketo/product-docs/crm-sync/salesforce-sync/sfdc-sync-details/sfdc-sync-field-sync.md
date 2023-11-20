@@ -4,16 +4,16 @@ description: 'Sincronización de SFDC: sincronización de campos, documentos de 
 title: 'Sincronización de SFDC: sincronización de campos'
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
 # Sincronización de SFDC: sincronización de campos {#sfdc-sync-field-sync}
 
-Marketo sincroniza la información de campo de Salesforce. Aquí están los detalles.
+El Marketo Engage sincroniza la información de campo de Salesforce. Aquí están los detalles.
 
 ## ¿Qué campos se sincronizan? {#which-fields-are-synced}
 
@@ -57,7 +57,7 @@ Los campos de búsqueda de SFDC sincronizan el ID, pero no el nombre al que se h
 
 ## ¿Qué sucede con los campos de fórmula SFDC? {#what-about-sfdc-formula-fields}
 
-Los campos de fórmula se sincronizan, sin embargo, las actualizaciones de las referencias en la fórmula no se sincronizan hasta que se actualice un [Sello de Mod del sistema](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+Los campos de fórmula se sincronizan, sin embargo, las actualizaciones de las referencias en la fórmula no se sincronizan hasta que se actualice un [Sello de Mod del sistema](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## ¿Qué sucede cuando elimino un campo de Salesforce que se estaba sincronizando anteriormente con Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

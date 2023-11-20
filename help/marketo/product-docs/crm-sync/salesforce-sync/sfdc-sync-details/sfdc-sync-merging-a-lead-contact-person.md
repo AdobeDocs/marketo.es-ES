@@ -4,9 +4,9 @@ description: 'Sincronización de SFDC: fusión de un posible cliente/contacto/pe
 title: 'Sincronización de SFDC: combinación de un posible cliente/contacto/persona'
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A veces es mejor simplemente enumerar las reglas. Aquí vamos:
 
-* Cuando combina dos posibles clientes en **Salesforce**, la sincronización normal indica a Marketo y que los posibles clientes se combinan automáticamente como personas en Marketo.
+* Cuando combina dos posibles clientes en **Salesforce**, la sincronización normal indica al Marketo Engage y los posibles clientes se combinan automáticamente como personas en Marketo.
 * Combinación de dos personas en **Marketo** en realidad invoca el mismo proceso que combinarlos como posibles clientes en Salesforce. Sigue funcionando automáticamente.
 * Combinación de un **dirigir (persona) a un contacto** funciona del mismo modo. Termina con un solo contacto en ambos lados.
 * Al combinar, se suma la puntuación predeterminada.
@@ -30,4 +30,4 @@ A veces es mejor simplemente enumerar las reglas. Aquí vamos:
 
 >[!NOTE]
 >
->Inmersión profunda para obtener más información sobre [combinación de personas en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Inmersión profunda para obtener más información sobre [combinación de personas en Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

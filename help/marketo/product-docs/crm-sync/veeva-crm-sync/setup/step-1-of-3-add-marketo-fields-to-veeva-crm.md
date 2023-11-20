@@ -3,10 +3,10 @@ description: 'Paso 1 de 3: Adición de campos de Marketo a Veeva CRM: Documentos
 title: 'Paso 1 de 3: Añadir campos de Marketo a Veeva CRM'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -30,35 +30,35 @@ Agregue un campo personalizado a los objetos de contacto y posible cliente de Ve
 
 Siga estos pasos para agregar el campo Score.
 
-1. Inicie sesión en Veeva CRM y haga clic en **Configurar**.
+1. Inicie sesión en Veeva CRM y haga clic en **[!UICONTROL Configurar]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Haga clic en Objetos y campos y seleccione Administrador de objetos.
+1. Clic **[!UICONTROL Objetos y campos]** y seleccione **[!UICONTROL Administrador de objetos]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. En la barra de búsqueda, busque Contacto.
+1. En la barra de búsqueda, busque &quot;Contacto&quot;.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Haga clic en el objeto Contact.
+1. Haga clic en **[!UICONTROL Contacto]** objeto.
 
-1. Seleccione Campos y relaciones.
+1. Seleccionar **[!UICONTROL Campos y relaciones]**.
 
-1. Clic **Nuevo**.
+1. Clic **[!UICONTROL Nuevo]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. Elija el tipo de campo adecuado (para Puntuación — número).
+1. Elija el tipo de campo adecuado (para Puntuación - número).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Clic **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Introduzca la Etiqueta de campo, Longitud y Nombre de campo para el campo, como se muestra en la tabla siguiente.
+1. Introduzca el **[!UICONTROL Etiqueta de campo]**, **[!UICONTROL Longitud]**, y **[!UICONTROL Nombre de campo]** para el campo, como se muestra en la tabla siguiente.
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Cifras decimales 0</td>
 >
 >Los campos de texto y número requieren una longitud, pero los campos de fecha y hora no. Una descripción es opcional.
 
-1. Clic **Siguiente**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Especifique la configuración de acceso y haga clic en **Siguiente**.
+1. Especifique la configuración de acceso y haga clic en **[!UICONTROL Siguiente]**.
 
 1. Establezca todas las funciones en Visible y Solo lectura.
 
@@ -105,9 +105,9 @@ Cifras decimales 0</td>
 
 1. Elija los diseños de página que deben mostrar el campo.
 
-1. Clic **Guardar y nuevo** para volver y crear cada uno de los otros dos campos personalizados.
+1. Clic **[!UICONTROL Guardar y nuevo]** para volver y crear cada uno de los otros dos campos personalizados.
 
-1. Clic **Guardar** cuando haya terminado con las tres.
+1. Clic **[!UICONTROL Guardar]** cuando hayas terminado con los tres.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

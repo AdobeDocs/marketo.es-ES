@@ -4,7 +4,7 @@ description: 'Cómo hacer coincidir los estados de los programas y los estados d
 title: Igualar estados de programas y estados de campañas de Salesforce antes de la sincronización
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Desde este mensaje de error, puede optar por:
 1. Puede cancelar, corregir los errores de estado e intentar sincronizar una vez reparados. Para corregir los errores de estado, realice una de las siguientes acciones:
 
    * Inicie sesión en Salesforce y elimine los Estados miembros de Campaign incompatibles o cambie su nombre para asignarlos a los Estados de programa de Marketo utilizados para el tipo de canal asociado con su programa de Marketo.
-   * Modifique los estados de programa en Marketo para asignarlos a los estados miembros de la campaña de Salesforce que tiene instalados. Esta es una función de administración de Marketo. Para obtener más información, consulte [Crear un canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Modifique los estados de programa en Marketo para asignarlos a los estados miembros de la campaña de Salesforce que tiene instalados. Esta es una función de administración de Marketo. Para obtener más información, consulte [Crear un canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.

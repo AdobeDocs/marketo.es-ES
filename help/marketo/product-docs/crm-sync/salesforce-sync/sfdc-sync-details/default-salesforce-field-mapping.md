@@ -4,16 +4,16 @@ description: Asignación de campos de Salesforce predeterminada - Documentos de 
 title: Asignación de campos de Salesforce predeterminada
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 56%
+source-wordcount: '363'
+ht-degree: 55%
 
 ---
 
 # Asignación de campos de Salesforce predeterminada {#default-salesforce-field-mapping}
 
-Al sincronizar inicialmente la cuenta de Marketo con Salesforce, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketo. Marketo también sincronizará los campos personalizados con los posibles clientes, las cuentas, las oportunidades y los contactos.
+Al sincronizar inicialmente la cuenta de Marketo Engage con Salesforce, Marketo realiza automáticamente estas asociaciones entre los campos integrados de Salesforce y Marketo. Marketo también sincronizará los campos personalizados con los posibles clientes, las cuentas, las oportunidades y los contactos.
 
 ## Campos de clientes potenciales {#lead-fields}
 
@@ -21,7 +21,7 @@ Al sincronizar inicialmente la cuenta de Marketo con Salesforce, Marketo realiza
 |---|---|
 | Ingresos anuales | Ingresos anuales |
 | Ciudad | Ciudad |
-| Compañía | Nombre de la compañía |
+| Compañía | Nombre de la empresa |
 | Fecha convertida | Fecha de conversión de SFDC |
 | País | País |
 | Fecha de creación | Fecha de creación en SFDC |
@@ -86,7 +86,7 @@ Al sincronizar inicialmente la cuenta de Marketo con Salesforce, Marketo realiza
 | Descripción de cuenta | Notas de la compañía |
 | Industria | Industria |
 | Eliminado | SFDC eliminado |
-| Nombre de la cuenta | Nombre de la compañía |
+| Nombre de la cuenta | Nombre de la empresa |
 | Empleados | Cantidad de empleados |
 | Teléfono de cuenta | Teléfono principal |
 | Código SIC | Código SIC |

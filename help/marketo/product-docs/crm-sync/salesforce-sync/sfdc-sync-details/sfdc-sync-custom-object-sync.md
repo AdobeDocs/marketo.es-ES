@@ -4,16 +4,16 @@ description: 'Sincronización de SFDC: sincronización de objetos personalizada 
 title: 'Sincronización de SFDC: sincronización de objetos personalizada'
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Sincronización SFDC: sincronización de objetos personalizada {#sfdc-sync-custom-object-sync}
 
-Los objetos personalizados creados en su instancia de Salesforce también pueden formar parte de Marketo.  A continuación se muestra cómo configurarlo.
+Los objetos personalizados creados en su instancia de Salesforce también pueden formar parte de Marketo Engage. A continuación se muestra cómo configurarlo.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
 >[!PREREQUISITES]
 >
->Para utilizar un objeto personalizado, debe estar asociado a una [dirigir](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contacto](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) objeto en Salesforce.
+>Para utilizar un objeto personalizado, debe estar asociado a una [dirigir](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} objeto en Salesforce.
 
 >[!IMPORTANT]
 >
@@ -29,15 +29,15 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
 ## Habilitar objeto personalizado  {#enable-custom-object}
 
-1. Clic **Administrador** y el **Sincronización de objetos de Salesforce** vínculo.
+1. Clic **[!UICONTROL Administrador]** y el **[!UICONTROL Sincronización de objetos de Salesforce]** vínculo.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Si este es su primer objeto personalizado, haga clic en **Sincronizar esquema**.
+1. Si este es su primer objeto personalizado, haga clic en **[!UICONTROL Sincronizar esquema]**.
 
    ![](assets/rtaimage-2.png)
 
-1. Clic **Deshabilitar sincronización global**.
+1. Clic **[!UICONTROL Deshabilitar sincronización global]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -55,11 +55,11 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
    >
    >Los objetos personalizados deben tener nombres únicos. Marketo no admite dos objetos personalizados diferentes con el mismo nombre.
 
-1. Clic **Habilitar sincronización**.
+1. Clic **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Clic **Habilitar sincronización** otra vez.
+1. Clic **[!UICONTROL Habilitar sincronización]** otra vez.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -71,11 +71,11 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Clic **Habilitar sincronización**.
+1. Clic **[!UICONTROL Habilitar sincronización]**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para ver todos los objetos personalizados de Salesforce, haga clic en **Administrador** y el **Sincronización de objetos de Salesforce** vínculo (igual que el paso 1 anterior).
+1. Para ver todos los objetos personalizados de Salesforce, haga clic en **[!UICONTROL Administrador]** y el **[!UICONTROL Sincronización de objetos de Salesforce]** vínculo (igual que el paso 1 anterior).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -85,6 +85,6 @@ Los objetos personalizados creados en su instancia de Salesforce también pueden
 
 ### ¿Qué sigue? {#whats-next}
 
-[Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+[Agregar o quitar campos de objetos personalizados como restricciones de listas inteligentes o Déclencheur](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 ¡Excelente! Ahora puede utilizar los datos de este objeto personalizado en campañas inteligentes y listas inteligentes.
