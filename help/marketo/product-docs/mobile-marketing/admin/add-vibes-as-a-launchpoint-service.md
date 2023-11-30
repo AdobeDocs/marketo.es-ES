@@ -4,9 +4,9 @@ description: 'Añadir vibraciones como servicio de LaunchPoint: documentos de Ma
 title: Añadir vibraciones como servicio de LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -23,22 +23,26 @@ Puede enviar mensajes SMS a las personas de sus listas de Vibes y utilizar la ac
 >
 >Para completar esta configuración, necesita permisos de administrador de Marketo y una cuenta activa de Vibes. Las credenciales solicitadas en el paso 4 a continuación son las credenciales de su cuenta de Vibes.
 
-1. En Mi Marketo, haga clic en **Administrador** y luego **LaunchPoint**.
+1. En Mi Marketo, vaya a **Administrador** área.
 
-   ![](assets/image2016-7-27-9-3a31-3a17.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-1.png)
+
+1. Clic **LaunchPoint**.
+
+   ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
 1. Clic **Nuevo** y **Nuevo servicio**.
 
-   ![](assets/image2016-7-27-9-3a34-3a25.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
 1. Introduzca un nombre para mostrar y, en la lista desplegable, seleccione **Vibraciones**.
 
-   ![](assets/new-service-vibes.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
 1. En Configuración, introduzca su nombre de usuario, contraseña y clave de compañía de API de Vibes. Haga clic en **Crear**.
 
-   ![](assets/new-service-vibes-settings-2.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
    El nuevo servicio SMS ahora aparece en la lista Servicios instalados.
 
-   ![](assets/image2016-7-27-9-3a45-3a1.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-6.png)
