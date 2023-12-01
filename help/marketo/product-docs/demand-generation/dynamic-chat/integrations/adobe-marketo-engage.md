@@ -2,10 +2,10 @@
 description: 'Adobe Marketo Engage: Documentos de Marketo: documentación del producto'
 title: Adobe Marketo Engage
 feature: Dynamic Chat
-exl-id: 5e341040-70ff-49f2-a954-b609d24e6006
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
+source-git-commit: a2996605fca9c0fe8172b7e43c3463266d87e178
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 2%
 ## Dynamic Chat de conexión {#connecting-dynamic-chat}
 
 Una vez que haya completado la [configuración inicial](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}Sin embargo, es hora de realizar la sincronización única conectando el Dynamic Chat a su suscripción de Adobe Marketo Engage.
+
+>[!NOTE]
+>
+>El Dynamic Chat admite la sincronización de [nativo de Marketo](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} y campos personalizados de persona y compañía.
 
 1. En Mi Marketo, haga clic en **Dynamic Chat** mosaico.
 
