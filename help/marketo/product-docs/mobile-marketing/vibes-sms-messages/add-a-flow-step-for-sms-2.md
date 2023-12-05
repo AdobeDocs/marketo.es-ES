@@ -4,13 +4,50 @@ title: Añadir un paso de flujo para SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 4%
+source-wordcount: '373'
+ht-degree: 0%
 
 ---
 
-# Añadir un paso de flujo para SMS 2 {#add-a-flow-step-for-sms}
+# Añadir un paso de flujo para SMS {#add-a-flow-step-for-sms}
 
-texto
+El Marketo Engage tiene tres pasos de flujo que puede utilizar en sus campañas inteligentes de SMS:
+
+* **Enviar mensaje SMS** : Esta acción de flujo envía mensajes a las personas de la lista inteligente de Marketo suscritas a una lista de suscripción de Vibes seleccionada por el usuario. No inicia el proceso de suscripción.
+* **Suscribirse a la lista de vibraciones** : Esta acción de flujo inicia el proceso de suscripción de SMS mediante una campaña de adquisición de vibraciones seleccionada por el usuario. A continuación, Vibes envía un mensaje de confirmación; el destinatario debe responder &quot;Y&quot; para confirmar la inclusión en un plazo de 24 horas. Una vez que el usuario se haya suscrito, pasará a ser miembro de su lista de suscripción de Vibes asociada.
+* **Cancelar suscripción a la lista de vibraciones** : Esta acción de flujo cancela la suscripción de cada persona a una lista de suscripción de Vibes seleccionada por el usuario. Cuando un usuario envía un mensaje de texto &quot;stop&quot; a su código, su registro de persona se actualiza para reflejar que ya no es miembro de la lista de suscripción a Vibes.
+
+>[!NOTE]
+>
+>Al enviar mensajes SMS:
+>
+>* Desduplicaciones de Marketo por número de teléfono. Por lo tanto, si varias personas tienen el mismo número de teléfono, solo una persona recibirá el mensaje si son miembros de una sola lista de suscripción a Vibes. La desduplicación se realiza en el nivel de lista de suscripción de Vibes, no en el nivel de programa de Marketo.
+>* Marketo no envía mensajes a personas incluidas en la lista de bloqueados o con Marketing suspendido.
+
+Para obtener información general sobre la configuración de los pasos de flujo, consulte [Adición de un paso de flujo a una campaña inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+
+Estos son los conceptos básicos para utilizar SMS.
+
+1. En Mi Marketo, haga clic en **Actividades de marketing**.
+
+   ![](assets/add-a-flow-step-for-sms-1.png)
+
+1. Busque y seleccione la campaña inteligente a la que desee añadir el flujo de SMS.
+
+   CAPTURA DE PANTALLA
+
+1. En la pestaña Lista inteligente, elija los déclencheur que desee (por ejemplo, &quot;Formulario rellenado&quot;).
+
+   CAPTURA DE PANTALLA
+
+1. En el **Flujo** pestaña, arrastre sobre el paso de flujo (por ejemplo, **Enviar mensaje SMS**). Seleccione el mensaje SMS y la lista Vibes de los desplegables.
+
+   ![](assets/send-sms-message-hands.jpg)
+
+   >[!NOTE]
+   >
+   >El selector Lista de vibraciones actúa como un filtro adicional para la audiencia que ya está identificada en la lista inteligente y se dirige únicamente a los posibles clientes que pertenecen a esa lista de vibraciones.
+   >
+   >El **Suscribirse a la lista de vibraciones** y **Cancelar suscripción a la lista de vibraciones** Los flujos de tienen diferentes requisitos. Para **Suscribirse**, debe seleccionar la lista Vibes y la campaña de adquisición Vibes. Para **Cancelar suscripción**, solo se requiere la lista Vibes.

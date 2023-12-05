@@ -4,9 +4,9 @@ description: 'Creación de un mensaje SMS de vibraciones: documentos de Marketo,
 title: Crear un mensaje SMS de Vibes
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---

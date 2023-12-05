@@ -4,16 +4,16 @@ description: 'Creación de un filtro de sincronización de Dynamics personalizad
 title: Crear un filtro de sincronización personalizado de Dynamics
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
 
 # Crear un filtro de sincronización personalizado de Dynamics {#create-a-custom-dynamics-sync-filter}
 
-¿No desea sincronizar todo el contenido de su Dynamics CRM con Marketo? ¡No te preocupes! Marketo le permite configurar un filtro de sincronización y sincronizar solo parte de los registros.
+¿No desea sincronizar todo el contenido de su Dynamics CRM con el Marketo Engage? ¡No te preocupes! Marketo le permite configurar un filtro de sincronización y sincronizar solo parte de los registros.
 
 ## Información general {#overview}
 
@@ -26,7 +26,7 @@ Debe realizar estos cambios en Dynamics CRM, no en la base de datos o en Marketo
 
 >[!CAUTION]
 >
->Si no asigna el campo y lo deja en blanco/NULL, se sincronizará hacia abajo pero no se actualizará.
+>Si no asigna el campo y lo deja en blanco/NULL, se sincronizará hacia abajo pero no se actualizará. Los registros con un valor de campo de vacío/nulo en Dynamics CRM mostrarán este valor de campo en Marketo como &quot;falso&quot;.
 
 Marketo busca este campo durante la sincronización automática en segundo plano y determina qué registros se sincronizan según esta lógica:
 
