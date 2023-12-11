@@ -1,9 +1,9 @@
 ---
 description: 'Notas de la versión, marzo de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, marzo de 2023
-exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
+exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -90,11 +90,11 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado de cada una de las funciones.
 
-### Chat dinámico {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Informe de participación en el diálogo para Dynamic Chat**: Proporciona una vista de la participación del diálogo a lo largo del tiempo, incluida la capacidad de filtrar por tipo de visitante y tipo de participación para proporcionar una mejor visibilidad a los usuarios.
+* **Informe de participación en el diálogo para el Dynamic Chat**: Proporciona una vista de la participación del diálogo a lo largo del tiempo, incluida la capacidad de filtrar por tipo de visitante y tipo de participación para proporcionar una mejor visibilidad a los usuarios.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Roles y permisos de Dynamic Chat**: introduce funciones y permisos en Dynamic Chat, lo que permite a los administradores limitar la visibilidad y el uso de diferentes áreas de la aplicación a determinados tipos de usuarios.
+* **Roles y permisos de Dynamic Chat**: introduce funciones y permisos para el Dynamic Chat, lo que permite a los administradores limitar la visibilidad y el uso de diferentes áreas de la aplicación a determinados tipos de usuarios.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Las siguientes funciones siguen un formato Agile y se lanzan en varias fechas an
   </tbody>
 </table>
 
-* **Canal de chat como programa para Dynamic Chat**: Crea un nuevo canal de programa de &quot;chat&quot; para rastrear la progresión del programa para las personas adquiridas por el Dynamic Chat. Por ejemplo, un experto en marketing tiene un programa asociado a un cuadro de diálogo de Dynamic Chat para capturar nuevos posibles clientes. Ahora pueden asignar ese programa al canal de chat para que puedan rastrear cuándo los posibles clientes son miembros del programa y cuándo han tenido éxito.
+* **Canal de chat como programa para Dynamic Chat**: Crea un nuevo canal de programa de &quot;chat&quot; para rastrear la progresión del programa para las personas adquiridas por el Dynamic Chat. Por ejemplo, un experto en marketing tiene un programa asociado con un cuadro de diálogo de Dynamic Chat para capturar nuevos posibles clientes. Ahora pueden asignar ese programa al canal de chat para que puedan rastrear cuándo los posibles clientes son miembros del programa y cuándo han tenido éxito.
 
 <table> 
   <tr> 
