@@ -3,9 +3,9 @@ description: 'Notas de la versión, junio de 2022: Documentos de Marketo: docume
 title: Notas de la versión, junio de 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Las siguientes funciones comenzarán a lanzarse el **24 de junio de 2022**, con 
 
 * **Exponer campos CreatedAt/UpdatedAt para objetos personalizados**: Permite inspeccionar estos campos en la pantalla Detalles de persona para obtener más información.
 
-## Orquestación entre canales {#cross-channel-orchestration}
+## Orquestación entre canales {#cross-channel-orchestration}
 
 * **Uso mejorado del Diseñador de secuencias para el Dynamic Chat**: agregue tarjetas directamente desde el lienzo del Diseñador de secuencias sin necesidad de arrastrar y soltar. La interfaz de Dynamic Chat también se ha mejorado para ofrecer una mejor visibilidad del contenido en tarjetas individuales.
 
 * **Reglas avanzadas de enrutamiento de citas para el Dynamic Chat**: el Dynamic Chat ofrece más opciones para el enrutamiento de citas segmentadas. Especifique las citas de los agentes que se deben dirigir en función de los atributos del Marketo Engage, asegurándose de que los posibles clientes se dirijan a los agentes apropiados.
 
-* **Informes de cuadro de diálogo avanzados para Dynamic Chat**: vea el rendimiento de sus campañas de Dynamic Chat en bueno detalle con las nuevas visualizaciones de datos para las métricas de participación y conversión.
+* **Informes de cuadro de diálogo avanzados para Dynamic Chat**: vea el rendimiento de sus campañas de Dynamic Chat con mayor detalle mediante las nuevas visualizaciones de datos para las métricas de participación y conversión.
 
 * **Desincronizar atributos de Marketo Engage no utilizados para el Dynamic Chat**: Desincronice los atributos de Marketo Engage de la suscripción de Dynamic Chat que no se utilicen, lo que le ayuda a facilitar la limpieza de los datos y permite sincronizar atributos alternativos según sea necesario.
 

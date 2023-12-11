@@ -4,9 +4,9 @@ title: Crear un mensaje SMS de Vibes
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -19,72 +19,65 @@ A continuación se muestra cómo crear un mensaje SMS de Vibes.
 >
 >Esta función está disponible como complemento para su cuenta de Adobe Marketo Engage. Para que se pueda aprovisionar correctamente, debe adquirirse a través del Adobe. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Ir a **Actividades de marketing**.
+1. Ir a **[!UICONTROL Actividades de marketing]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. Haga clic con el botón derecho en un programa y seleccione **Nuevo recurso local**.
+1. Haga clic con el botón derecho en el programa deseado y seleccione **[!UICONTROL Nuevo recurso local]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. Clic **Nuevo recurso local**.
+1. Seleccionar **Mensaje SMS**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >También puede hacer clic en el botón **Nuevo** menú desplegable.
-
-1. Clic **Mensaje SMS**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. Introduzca un nombre y una descripción opcional para el nuevo mensaje SMS y haga clic en **Crear**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. Clic **Editar borrador**.
+1. En el editor, haga clic dentro de la burbuja azul y empiece a introducir texto.
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. En el editor de mensajes, haga clic dentro de la burbuja azul y empiece a introducir texto.
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >El límite de caracteres de un mensaje SMS es de 160 caracteres con el conjunto de caracteres ASCII estándar. Si supera los 160 caracteres, el mensaje se dividirá en función del recuento total de caracteres.
 
-1. Clic **Token** en el menú Insertar para agregar un token al mensaje.
+1. Para añadir un token en el mensaje, escriba un saludo rápido y haga clic en **Token**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >Si se añade un token, el mensaje puede superar el límite de caracteres. A continuación, el mensaje se divide, lo que da como resultado mensajes adicionales.
+   >Si se añade un token, el mensaje puede superar el límite de caracteres. A continuación, el mensaje se dividiría, lo que crearía un mensaje adicional.
 
    >[!IMPORTANT]
    >
    >Cumplimiento de SMS: todos los mensajes SMS salientes deben incluir el nombre de la marca o la descripción del programa. Las instrucciones HELP y STOP deben proporcionarse al menos una vez al mes por suscriptor para programas de mensajes recurrentes.
 
-   ?????? El uso del acortador de URL de Marketo hará que se utilicen caracteres X en el ?????? del mensaje
+1. Seleccione el **Token**, introduzca un opcional **Valor predeterminado** y haga clic en **Crear**.
 
-1. Clic **Vínculo** en el menú Insertar para añadir un vínculo al mensaje.
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. Para añadir un vínculo, seleccione en qué parte del mensaje desea que aparezca y haga clic en **Vínculo**.
 
-1. Seleccione un tipo de vínculo. La página de aterrizaje de Marketo es la predeterminada. Si va con eso, debe seleccionar la página de aterrizaje de la lista desplegable y hacer clic en **Insertar**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. Seleccione un tipo de vínculo. La página de aterrizaje de Marketo es la predeterminada. Si va con él, haga clic en el menú desplegable Landing Page y seleccione la página deseada. Clic **Insertar** cuando termine.
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* Los dos vínculos de seguimiento están seleccionados de forma predeterminada.
-   >* El uso del acortador de URL de Marketo dará como resultado que se utilicen caracteres X en el mensaje.??????????????????
+   >Los dos vínculos de seguimiento están seleccionados de forma predeterminada. Desmarcar solo Incluir mkt_tok seguirá permitiendo el seguimiento del vínculo, pero después de redireccionar, la URL de destino no incluirá el parámetro de cadena de consulta mkt_tok. Este parámetro lo utilizan las páginas de aterrizaje de Marketo y Munchkin para garantizar un seguimiento adecuado de las actividades de la persona (como cuando una persona decide excluirse).
 
-1. Si desea utilizar una dirección URL externa en su lugar, haga clic en **URL externa** e introduzca la dirección URL en el campo URL. Clic **Insertar**.
+1. Si desea utilizar una dirección URL externa en su lugar, seleccione **URL externa**, introduzca/pegue la dirección URL y haga clic en **Insertar**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >Si se mantiene seleccionada la opción &quot;Rastrear vínculo&quot;, Marketo modifica automáticamente la dirección URL con fines de seguimiento. Si opta por deshabilitar el seguimiento, la dirección URL se mostrará en el mensaje sin cambios (por ejemplo, `www.adobe.com`).
 
    >[!CAUTION]
    >
@@ -92,18 +85,10 @@ A continuación se muestra cómo crear un mensaje SMS de Vibes.
 
 1. El vínculo se muestra en el mensaje.
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo muestra una vista previa de vínculo del dominio de seguimiento marcado. Si desactiva la casilla de verificación del vínculo mkt_tok, se cambia el vínculo. Desactive también la casilla Rastrear vínculo y la dirección URL se acortará a su longitud básica (por ejemplo, www.mygooglepage.com).
+   >Marketo muestra una vista previa de vínculo del dominio de seguimiento marcado. Si desactiva la casilla de verificación del vínculo mkt_tok, se cambia el vínculo.
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >El recuento de caracteres refleja solo los caracteres contenidos en el mensaje más bajo.
-
-Si inserta más mensajes que el límite de EE. UU., el editor divide el mensaje en secciones. Hay un límite total absoluto de 900 caracteres. Después de alcanzar ese límite, el mensaje se trunca automáticamente cuando se envía a su audiencia.
-
-LÍMITE DE EE. UU????????
+Si inserta más de 160 caracteres, el editor divide el SMS en secciones. Hay un límite general de 900 caracteres por mensaje. Si supera ese límite, el mensaje se truncará tras la entrega.

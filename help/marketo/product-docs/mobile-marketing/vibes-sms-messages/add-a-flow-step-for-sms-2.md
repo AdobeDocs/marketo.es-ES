@@ -4,10 +4,10 @@ title: Añadir un paso de flujo para SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 0%
+source-wordcount: '377'
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,23 @@ ht-degree: 0%
 
 El Marketo Engage tiene tres pasos de flujo que puede utilizar en sus campañas inteligentes de SMS:
 
-* **Enviar mensaje SMS** : Esta acción de flujo envía mensajes a las personas de la lista inteligente de Marketo suscritas a una lista de suscripción de Vibes seleccionada por el usuario. No inicia el proceso de suscripción.
-* **Suscribirse a la lista de vibraciones** : Esta acción de flujo inicia el proceso de suscripción de SMS mediante una campaña de adquisición de vibraciones seleccionada por el usuario. A continuación, Vibes envía un mensaje de confirmación; el destinatario debe responder &quot;Y&quot; para confirmar la inclusión en un plazo de 24 horas. Una vez que el usuario se haya suscrito, pasará a ser miembro de su lista de suscripción de Vibes asociada.
-* **Cancelar suscripción a la lista de vibraciones** : Esta acción de flujo cancela la suscripción de cada persona a una lista de suscripción de Vibes seleccionada por el usuario. Cuando un usuario envía un mensaje de texto &quot;stop&quot; a su código, su registro de persona se actualiza para reflejar que ya no es miembro de la lista de suscripción a Vibes.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">Enviar mensaje SMS</td>
+    <td>Esta acción de flujo envía mensajes a las personas de la lista inteligente de Marketo suscritas a una lista de suscripción de Vibes seleccionada por el usuario. No inicia el proceso de suscripción. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Más información</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Suscribirse a la lista de Vibes</td>
+    <td>Esta acción de flujo inicia el proceso de suscripción de SMS mediante una campaña de adquisición de vibraciones seleccionada por el usuario. A continuación, Vibes envía un mensaje de confirmación y el destinatario debe responder con "Y" en un plazo de 24 horas para confirmar la inclusión. Una vez que el usuario se haya suscrito, pasará a ser miembro de su lista de suscripción de Vibes asociada.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Cancelar suscripción a la lista de Vibes</td>
+    <td>Esta acción de flujo cancela la suscripción de cada persona a una lista de suscripción de Vibes seleccionada por el usuario. Cuando un usuario envía un mensaje de texto "STOP" a su código, el registro de persona se actualiza para reflejar que ya no es miembro de la lista de suscripción a Vibes.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >
