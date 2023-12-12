@@ -2,10 +2,10 @@
 description: 'Notas de la versión, septiembre de 2023: Documentos de Marketo: documentación del producto'
 title: Notas de la versión, septiembre de 2023
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '922'
 ht-degree: 2%
 
 ---
@@ -248,8 +248,8 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
   </tr>
     <tr> 
    <td><strong>Página de recursos de flujo de conversación</strong>: la página de recursos de Design Studio ahora enumera los flujos de conversación del Dynamic Chat. Consulte qué flujos se pueden integrar en recursos de Marketo Engage y enlácelos directamente a su editor.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
+   <td>Enviado</td>
+   <td>n/a</td>
   </tr>
   <tr> 
    <td> </td> 
