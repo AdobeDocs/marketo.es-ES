@@ -3,16 +3,16 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 16c3e72e7b58c81d80f55f1f92ce89da49470035
+source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 4%
+source-wordcount: '565'
+ht-degree: 10%
 
 ---
 
-# Notas de la versión: octubre de 2023 {#release-notes-oct-23}
+# Notas de la versión: enero de 2024 {#release-notes-jan-24}
 
-A continuación encontrará todas las funciones incluidas en la versión de octubre de 2023. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
+A continuación encontrará todas las funciones incluidas en la versión de enero de 2024. Compruebe la disponibilidad de las funciones en Adobe Marketo Engage Edition.
 
 >[!AVAILABILITY]
 >
@@ -20,7 +20,7 @@ A continuación encontrará todas las funciones incluidas en la versión de octu
 
 ## Funciones del ciclo de lanzamiento estándar {#standard-release-cycle-features}
 
-Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **6 de octubre de 2023**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
+Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y comenzarán a lanzarse el **12 de enero de 2024**, con un despliegue gradual de las funciones restantes en las semanas siguientes. Las funciones y fechas del lanzamiento están sujetas a cambios. Compruebe el estado junto a cada función.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -29,10 +29,11 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
   </tr> 
-  <tr> 
-   <td><strong>Nuevo diseño para la configuración de informes en la experiencia de usuario moderna</strong>: Al configurar un recurso de informe, tendrá un <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nuevo árbol de recursos</a> en el menú de configuración, así como la capacidad de filtrar por fecha de creación y modificación.</td> 
-   <td>Enviado</td>
-   <td>n/a</td>
+  </tr>
+    <tr> 
+   <td><strong>Seminarios web a petición para seminarios web interactivos</strong>: los seminarios web bajo demanda le permiten publicar la grabación del seminario web, así como rastrear sus visitas/relojes. Esto le ayudará a obtener más posibles clientes a través de los inscritos que no asistieron al seminario web (no se presentaron), pero que siguen interesados en conocer más detalles y ver la grabación.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -40,10 +41,11 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Servicio de paso de flujo de fórmula de cómputo</strong>: Compute Formula es un servicio de pasos de flujo creado en la plataforma IO Runtime de Adobe para su uso con campañas inteligentes de Marketo Engage. Aquellos con tiempo de ejecución de E/S pueden implementar el servicio e instalarlo en sus suscripciones de Marketo Engage, lo que les permite calcular fórmulas similares a Excel en campañas inteligentes de Marketo Engage.</td> 
-   <td>Enviado</td>
-   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guía del usuario de Compute Formula</a></td>
+  </tr>
+    <tr> 
+   <td><strong>Páginas de aterrizaje de conversación</strong>: incruste un flujo de conversación de Dynamic Chat directamente en una página de aterrizaje de Marketo Engage para que los visitantes puedan programar una reunión a través de Dynamic Chat sin tener que rellenar un formulario ni interactuar con un bot de chat.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -51,11 +53,108 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
   </tr>
+   </tr>
+    <tr> 
+   <td><strong>Filtrado de actividades de bots de correo electrónico</strong>: mejora la captura de la actividad de bots para la participación por correo electrónico, lo que le permite elegir lo agresivo que desea que sea el filtrado de identificación de la actividad de bots.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
+
+## Funciones de versión de Agile {#agile-release-features}
+
+Todas las funciones a continuación siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado junto a cada función.
+
+### Acciones de perspectiva de ventas {#sales-insight-actions}
+
+![(estrella)](assets/yellow-star.png)
+
+<table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Función</th> 
+   <th style="width:15%">Estado</th>
+   <th style="width:20%">Documentación</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>Ventana de composición ampliable</strong>: la ventana de redacción de correo electrónico ahora comprime automáticamente el espacio no utilizado, lo que permite más espacio en el editor. Además, la ventana podrá salir y ampliarse aún más, lo que proporcionará a los usuarios todo el espacio que necesiten para editar sus correos electrónicos.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  </tbody> 
+</table>
+
+### Dynamic Chat {#dynamic-chat}
+
+<table style="border: 0px">
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Función</th> 
+   <th style="width:15%">Estado</th>
+   <th style="width:20%">Documentación</th>
+  </tr> 
+  </tr>
+    <tr> 
+   <td><strong>Interfaz de usuario del bot de chat para Conversational Forms</strong>: Los visitantes del sitio web ahora pueden solicitar chat en vivo en un flujo de conversación.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
    <tr> 
-   <td><strong>Descargar la grabación y asignar un host compartido en seminarios web interactivos</strong>: Ahora puede añadir un coanfitrión externo para el seminario web en caso de que el host original no esté disponible. Ahora también puede descargar la grabación del seminario web.</td> 
-   <td>Enviado</td>
-   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Descargar grabación</a></li>
-   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Crear un seminario web interactivo</a></li></td>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Opciones de color de fuente de Chatbot</strong>: personalice los colores de las fuentes en una configuración de bot de chat.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Opción para repetir el cuadro de diálogo</strong>: Ahora puede reiniciar el cuadro de diálogo al principio después de que un visitante haya llegado al final.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>Finalización manual del chat en vivo</strong>: Tanto los visitantes como los agentes ahora pueden finalizar manualmente una sesión de chat en vivo.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    </tr>
+    <tr> 
+   <td><strong>Actividades recientes del Marketo Engage en la bandeja de entrada del agente</strong>: las actividades recientes del Marketo Engage, como Correo electrónico abierto y Formulario rellenado, se mostrarán para los posibles clientes en la bandeja de entrada del agente.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Bifurcación condicional</strong>: ahora puede mostrar a los visitantes contenido de conversación diferente en función de condiciones predefinidas, como la ubicación del visitante o la disponibilidad del agente en directo.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
  </tbody> 
 </table>
@@ -63,6 +162,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 
 ## Anuncios {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**: En nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: En nuestra versión de enero de 2024, actualizaremos jQuery para Marketo Engage Forms a jQuery 3.x. Esto puede afectar a la implementación de formularios personalizados que depende de versiones anteriores de jQuery. [Obtenga más información aquí](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
-* **Desaprobación de eventos de Marketo y momentos de Marketo**: el Adobe es [eliminación de eventos de Marketo y momentos de Marketo](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} desde todas las tiendas de aplicaciones a partir del 2 de octubre de 2023. Usuarios existentes: puede seguir utilizando estas aplicaciones hasta que migre la instancia de Marketo Engage a Identidad de Adobe. Estas aplicaciones no admiten el inicio de sesión con Adobe ID.
+* **Verificación por correo electrónico para usuarios solo de SSO**: Solo los usuarios de SSO solían verificarse automáticamente, lo que les permitía utilizar una cuenta de correo electrónico inaccesible. A partir de mediados de enero, todos los usuarios de solo SSO existentes pasarán a estar sin verificar y se les pedirá que vuelvan a verificar su correo electrónico mediante un vínculo que enviemos a la cuenta de correo electrónico. Todos los usuarios nuevos de solo SSO deberán verificar sus direcciones de correo electrónico a partir de ahora.
