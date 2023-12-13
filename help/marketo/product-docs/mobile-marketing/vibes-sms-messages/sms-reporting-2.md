@@ -4,16 +4,16 @@ title: Informes de SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Informes de SMS {#sms-reporting}
 
-El Tablero de mensajes SMS proporciona análisis de informes útiles sobre sus mensajes.
+El Tablero de mensajes SMS proporciona análisis útiles sobre sus mensajes.
 
 ## Acceso al panel {#access-the-dashboard}
 
