@@ -4,7 +4,7 @@ title: Uso de las opciones de SMS en una campaña inteligente
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -25,10 +25,10 @@ Después de usted [creación de un mensaje SMS](/help/marketo/product-docs/mobil
 
 ## DÉCLENCHEUR de SMS {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ El **Vínculo de clics en el mensaje SMS** El déclencheur inicia un flujo cuand
 
 ## Filtros SMS {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ Hay tres pasos de flujo de SMS para elegir.
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">Enviar mensaje SMS</td>
+    <td style="width:20%"><b>Enviar mensaje SMS</b></td>
     <td>Esta acción de flujo envía mensajes a las personas de la lista inteligente de Marketo suscritas a una lista de suscripción de Vibes seleccionada por el usuario. No inicia el proceso de suscripción. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">Más información</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">Suscribirse a la lista de Vibes</td>
+    <td style="width:20%"><b>Suscribirse a la lista de Vibes</b></td>
     <td>Esta acción de flujo inicia el proceso de suscripción de SMS mediante una campaña de adquisición de vibraciones seleccionada por el usuario. A continuación, Vibes envía un mensaje de confirmación y el destinatario debe responder con "Y" en un plazo de 24 horas para confirmar la inclusión. Una vez que el usuario se haya suscrito, pasará a ser miembro de su lista de suscripción de Vibes asociada.</td>
   </tr>
   <tr>
-    <td style="width:25%">Cancelar suscripción a la lista de Vibes</td>
+    <td style="width:20%"><b>Cancelar suscripción a la lista de Vibes</b></td>
     <td>Esta acción de flujo cancela la suscripción de cada persona a una lista de suscripción de Vibes seleccionada por el usuario. Cuando un usuario envía un mensaje de texto "STOP" a su código, el registro de persona se actualiza para reflejar que ya no es miembro de la lista de suscripción a Vibes.</td>
   </tr>
   </tbody>
