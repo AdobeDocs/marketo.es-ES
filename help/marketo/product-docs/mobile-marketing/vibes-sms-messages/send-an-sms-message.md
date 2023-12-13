@@ -4,9 +4,9 @@ title: Enviar un mensaje SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8e56b571a34451d6b0436dc041efaf0fd575db36
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ Ha... [creó su mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-s
 >
 >* Desduplicaciones del Marketo Engage por número de teléfono. Por lo tanto, si varias personas tienen el mismo número de teléfono, solo una persona recibirá el mensaje si son miembros de una sola lista de suscripción a Vibes. La desduplicación se realiza en el nivel de lista de suscripción de Vibes, no en el nivel de programa de Marketo.
 >* Marketo no envía mensajes a personas incluidas en la lista de bloqueados o con Marketing suspendido.
+>* Un mensaje SMS no se enviará a nadie que haya cancelado la suscripción si no está en la lista de la base de datos móvil de Vibes.
 
 ## Envío de un SMS por lotes {#send-a-batch-sms}
 

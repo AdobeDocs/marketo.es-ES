@@ -4,7 +4,7 @@ description: 'Uso de mensajes SMS de Vibes en Déclencheur y filtros de listas i
 title: Usar mensajes SMS de Vibes en Déclencheur y filtros de listas inteligentes
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Después de usted [crear un mensaje SMS de Vibes](/help/marketo/product-docs/mob
 
 1. En Mi Marketo, haga clic en **Actividades de marketing**.
 
-   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
+   ![](assets/use-sms-options-in-smart-list-triggers-and-filters-1.png)
 
 1. Elija una campaña inteligente en la que desee utilizar su recurso SMS. Arrastre el cursor sobre un déclencheur, como el popular **Rellena el formulario**.
 
