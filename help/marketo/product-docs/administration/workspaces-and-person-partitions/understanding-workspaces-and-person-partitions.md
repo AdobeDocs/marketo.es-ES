@@ -4,9 +4,9 @@ description: Explicación de los espacios de trabajo y las particiones de person
 title: Explicación de espacios de trabajo y particiones de persona
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 2%
 
 ---
@@ -84,12 +84,16 @@ Puede compartir estos elementos en espacios de trabajo.
 
 ## Clonación en espacios de trabajo {#cloning-across-workspaces}
 
-Para los recursos que no son plantillas, es mejor clonarlos como recursos locales dentro de un programa.  Con el nivel de acceso adecuado, puede arrastrar y soltar estos recursos en otro espacio de trabajo:
+Para los recursos que no son plantillas, es mejor clonarlos como recursos locales dentro de un programa. Con el nivel de acceso adecuado, puede arrastrar y soltar estos recursos en otro espacio de trabajo:
 
 * Programas
 * Emails
 * Páginas de destino
 * Formularios
+
+>[!IMPORTANT]
+>
+>Aunque todos los elementos enumerados arriba se pueden clonar en espacios de trabajo, correos electrónicos, formularios y páginas de aterrizaje _debe estar dentro de un programa_ en el momento de la clonación.
 
 >[!NOTE]
 >
