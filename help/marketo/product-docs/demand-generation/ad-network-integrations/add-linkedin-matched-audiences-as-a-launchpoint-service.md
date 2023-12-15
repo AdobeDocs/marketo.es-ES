@@ -4,10 +4,10 @@ description: 'Añadir audiencias coincidentes de LinkedIn como servicio de Launc
 title: Añadir audiencias coincidentes de LinkedIn como servicio de LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 2%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 2%
 >
 >**Permisos de administración necesarios**
 
-Conecte su cuenta de Marketo con Audiencias coincidentes de LinkedIn para utilizar una lista estática o inteligente de Marketo como segmento de audiencia de LinkedIn.
+Conecte su cuenta de Marketo Engage con Audiencias coincidentes de LinkedIn para utilizar una lista estática de Marketo o una lista inteligente como segmento de audiencia de LinkedIn.
 
-1. Vaya a la **Administrador** sección.
+1. Vaya a la **[!UICONTROL Administrador]** sección.
 
    ![](assets/admin.png)
 
-1. Seleccionar **Launchpoint**.
+1. Seleccionar **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleccionar **Nuevo** y **Nuevo servicio**.
+1. Seleccionar **[!UICONTROL Nuevo]** y **[!UICONTROL Nuevo servicio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Introduzca una **Nombre para mostrar** y elija **Audiencias coincidentes de linkedIn**. Haga clic en **Crear**.
+1. Introduzca una **[!UICONTROL Nombre para mostrar]** y elija **[!UICONTROL Audiencias coincidentes de linkedIn]**. Clic **[!UICONTROL Crear]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Para conectar una cuenta de LinkedIn, haga clic en **Autorizar**.
+1. Para conectar una cuenta de LinkedIn, haga clic en **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -47,18 +47,18 @@ Conecte su cuenta de Marketo con Audiencias coincidentes de LinkedIn para utiliz
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Revise los permisos solicitados y haga clic en **Permitir**.
+1. Revise los permisos solicitados y haga clic en **[!UICONTROL Permitir]**.
 
    ![](assets/li-permissions.png)
 
-1. Su cuenta de LinkedIn ahora está conectada a Marketo. Haga clic en **Crear**.
+1. Su cuenta de LinkedIn ahora está conectada a Marketo. Clic **[!UICONTROL Crear]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   ¡Increíble! Ahora verá Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint en la pestaña Servicios instalados.
+   ¡Fantástico! Ahora verá Audiencias coincidentes de LinkedIn como un servicio de LaunchPoint en la pestaña Servicios instalados.
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[Uso de una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Uso de una lista de Marketo o una lista inteligente como segmento de audiencia de LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

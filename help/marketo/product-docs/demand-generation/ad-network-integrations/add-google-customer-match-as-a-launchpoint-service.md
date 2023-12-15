@@ -4,38 +4,38 @@ description: 'Añadir Customer Match de Google como servicio de LaunchPoint: Doc
 title: Añadir Customer Match de Google como servicio de LaunchPoint
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 0%
 
 ---
 
 # Añadir Customer Match de Google como servicio de LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
 
-Con esta integración, puede enviar una audiencia de Marketo a Google para que se segmente con Google AdWords, así como resegmentar audiencias en YouTube, Search y Gmail.
+Con esta integración, puede enviar una audiencia de Marketo Engage a Google para que se segmente con Google AdWords, así como resegmentar audiencias en YouTube, Search y Gmail.
 
 >[!NOTE]
 >
 >**Permisos de administración necesarios**
 
-1. Ir a **Administrador**.
+1. Ir a **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Clic **LaunchPoint**.
+1. Clic **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleccionar **Nuevo** entonces **Nuevo servicio**.
+1. Seleccionar **[!UICONTROL Nuevo]** entonces **[!UICONTROL Nuevo servicio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Introduzca una **Nombre para mostrar** y seleccione **Coincidencia de clientes de Google** desde el **Servicio** menú desplegable. Haga clic en **Crear**.
+1. Introduzca una **[!UICONTROL Nombre para mostrar]** y seleccione **[!UICONTROL Coincidencia de clientes de Google]** desde el **[!UICONTROL Servicio]** menú desplegable. Clic **[!UICONTROL Crear]**.
 
    ![](assets/chooseservice.png)
 
-1. Para conectar una cuenta de Google AdWords, haga clic en **Autorizar**.
+1. Para conectar una cuenta de Google AdWords, haga clic en **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,15 +47,15 @@ Con esta integración, puede enviar una audiencia de Marketo a Google para que s
 
    ![](assets/chooseaccount.png)
 
-1. Revise los permisos solicitados y haga clic en **Permitir**.
+1. Revise los permisos solicitados y haga clic en **[!UICONTROL Permitir]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Su cuenta de Google AdWords ahora está conectada a Marketo. Haga clic en **Crear**.
+1. Su cuenta de Google AdWords ahora está conectada a Marketo. Clic **[!UICONTROL Crear]**.
 
    ![](assets/authorizesuccess.png)
 
-   ¡Increíble! Ahora verá Audiencias coincidentes de Google como un servicio de LaunchPoint en la pestaña Servicios instalados.
+   ¡Fantástico! Ahora verá Audiencias coincidentes de Google como un servicio de LaunchPoint en la pestaña Servicios instalados.
 
 >[!NOTE]
 >
