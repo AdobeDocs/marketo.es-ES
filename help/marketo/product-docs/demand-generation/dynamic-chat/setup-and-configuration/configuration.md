@@ -2,10 +2,10 @@
 description: Configuración - Documentos de Marketo - Documentación del producto
 title: Configuración
 feature: Dynamic Chat
-exl-id: 824cd1de-a407-4250-8777-33eec0777361
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
+source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Para que el bot de chat aparezca en su sitio web, primero debe instalar el fragm
 
 >[!TIP]
 >
->Si su sitio utiliza una Política de seguridad de contenido, es posible que deba incluir en la lista blanca las siguientes URL para que el bot de chat funcione según lo esperado:
+>Si su sitio utiliza una Política de seguridad de contenido, es posible que necesite realizar la lista de permitidos de las siguientes URL para que el bot de chat funcione según lo esperado:
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
