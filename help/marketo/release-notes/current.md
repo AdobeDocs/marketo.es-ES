@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b51f12d1f2526c5fa8ec9fc97621f3f55330a808
+source-git-commit: e33b6f995ca8535d69505cf38e9b03f2aff09149
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 10%
+source-wordcount: '649'
+ht-degree: 9%
 
 ---
 
@@ -84,6 +84,21 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Actualización API de importación masiva de posibles clientes</strong>: Se ha realizado un ajuste menor en el comportamiento de la API de importación masiva de posibles clientes al <b>id</b> se especifica como <b>lookupField</b> durante la creación del trabajo. Si un registro de persona está vinculado al proporcionado <b>id</b> no se encuentra en la base de datos de Marketo Engage, no se producirá ninguna actualización de registro, ya que no se puede encontrar el registro. El comportamiento actualizado ahora incluye el aumento del recuento en <b>numOfRowsFailed</b> dentro de la respuesta, lo que indica que la operación ha fallado en estos casos.</td> 
+   <td><i>Próximamente</i></td>
+   <td>n/a</td>
+  </tr>
+ </tbody> 
+</table>
+<br/>
   </tbody> 
 </table>
 
