@@ -2,10 +2,10 @@
 description: Bandeja de entrada del agente - Documentos de Marketo - Documentación del producto
 title: Bandeja de entrada del agente
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -32,21 +32,7 @@ En la parte superior derecha de la pantalla Bandeja de entrada del agente, tiene
 
 ## Notificaciones de chat en directo {#live-chat-notifications}
 
-Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte superior de la pantalla pidiéndoles que acepten.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->También tiene la opción de configurar las notificaciones del explorador, que le avisarán en caso de que no haya iniciado sesión en Dynamic Chat.
->
->* Habilitar notificaciones del explorador en [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Habilitar notificaciones del explorador en [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Cosas que hay que tener en cuenta {#things-to-note}
-
-* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;.
-* Hay un límite de 10 chats en vivo por agente en este momento
+Obtenga más información acerca de las notificaciones en la [Información general de Live Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversaciones {#conversations}
 
