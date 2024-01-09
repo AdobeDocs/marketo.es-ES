@@ -3,10 +3,10 @@ description: Información general de Live Chat - Documentos de Marketo - Documen
 title: Información general de Live Chat
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 1%
+source-wordcount: '550'
+ht-degree: 0%
 
 ---
 
@@ -65,6 +65,44 @@ Hacer clic en la tarjeta de chat en vivo en el flujo le permite elegir cómo se 
   </tr>
  </tbody> 
 </table>
+
+## Notificaciones de chat en directo {#live-chat-notifications}
+
+Para recibir notificaciones del navegador para el chat en vivo, todos los agentes de chat en vivo deben activar notificaciones del navegador para el Dynamic Chat cuando se le solicite.
+
+### Activación de notificaciones {#enabling-notifications}
+
+Los agentes de chat en vivo verán un banner en la parte superior de la pantalla cuando inicien sesión que dice &quot;Habilita las notificaciones del navegador para recibir notificaciones de chat en vivo&quot;. Clic **Activar**.
+
+![](assets/live-chat-overview-4.png)
+
+El navegador solicitará a los agentes de chat en vivo que muestren notificaciones. Clic **Permitir**.
+
+![](assets/live-chat-overview-5.png)
+
+Si los agentes no reciben notificaciones del explorador incluso después de permitirlas, es posible que tengan que habilitar las notificaciones para el explorador en la configuración de notificaciones del sistema operativo:
+
+[Pasos para Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Pasos para Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Cuando se enruta un chat en directo a un agente {#when-a-live-chat-is-routed-to-an-agent}
+
+Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte superior de la pantalla pidiéndoles que acepten.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>También tiene la opción de configurar las notificaciones del explorador, que le avisarán en caso de que no haya iniciado sesión en Dynamic Chat.
+>
+>* Habilitar notificaciones del explorador en [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Habilitar notificaciones del explorador en [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Cosas que hay que tener en cuenta {#things-to-note}
+
+* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;
+* Hay un límite de 10 chats en vivo por agente en este momento
 
 >[!MORELIKETHIS]
 >
