@@ -4,9 +4,9 @@ title: Filtrado de actividad de bots de correo electrónico
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ Frente a la actividad de clic en vínculo de correo electrónico y de apertura d
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Elija entre **[!UICONTROL Coincidencia con la lista IAB]**, **[!UICONTROL Coincidencia con el patrón de proximidad]**, o ambas. Elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots]. Establezca la cantidad de segundos para **Duración entre actividades** de 0 a 3 segundos (el valor predeterminado es 0).
+1. Hay dos controles deslizantes para elegir. Puede habilitar solo una o ambas. Si activa **[!UICONTROL Coincidencia con la lista IAB]**, elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Si activa **[!UICONTROL Coincidencia con el patrón de proximidad]**, elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots]. También puede establecer la cantidad de segundos para **Duración entre actividades** (el valor predeterminado es 0, el máximo es 3).
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Con **Duración entre actividades** Si se establece en 0 segundos, identificaremos las actividades de correo electrónico que se produzcan al mismo segundo. Si se producen varias actividades de correo electrónico en la cantidad designada de segundos, se identificarán como actividades de bots.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Si elige [!UICONTROL Filtrar actividad de bots]Sin embargo, puede ver una caída en las aperturas del correo electrónico y los clics a medida que se eliminan las actividades falsas.
 
-**PASO OPCIONAL**: para deshabilitar esta función, simplemente anule la selección de los controles deslizantes. Si lo desactiva, los datos no se restablecen.
+**PASO OPCIONAL**: para desactivar cualquiera de las funciones, simplemente anule la selección del deslizador correspondiente. Si lo hace, los datos no se restablecen.
 
 >[!TIP]
 >
