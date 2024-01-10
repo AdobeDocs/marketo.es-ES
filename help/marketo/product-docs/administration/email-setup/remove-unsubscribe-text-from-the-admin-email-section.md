@@ -4,14 +4,14 @@ description: Eliminar el texto de cancelación de suscripción de la sección de
 title: Eliminar texto de cancelación de suscripción de la sección Correo electrónico del administrador
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Eliminar texto de cancelación de suscripción de la sección Correo electrónico del administrador {#remove-unsubscribe-text-from-the-admin-email-section}
+# Elimine el texto de cancelación de suscripción de la sección Administración > Correo electrónico {#remove-unsubscribe-text-from-the-admin-email-section}
 
 La única razón por la que debería eliminar por completo el contenido de cancelación de suscripción de la **[!UICONTROL Administrador]** > **[!UICONTROL Correo electrónico]** es si elige incorporar el vínculo &quot;Cancelar la suscripción&quot; en las propias plantillas de correo electrónico. El cuadro de texto tiene una validación que no permite guardar sin contenido. Puede evitar esto añadiendo un pequeño comentario del HTML. El comentario del HTML no aparecerá en el cliente de correo electrónico, ya que está procesando el correo electrónico en HTML y los comentarios se omiten. Así es como se hace.
 

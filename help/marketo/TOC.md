@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 2%
@@ -136,7 +136,8 @@ ht-degree: 2%
          + [Habilitar límites de comunicación](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Habilitar restricciones de persona para campañas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Filtrado de actividad de bots de correo electrónico](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Elimine el texto de cancelación de suscripción de la sección &quot;Administración -> Correo electrónico&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Filtrado de actividad de bots de correo electrónico TEMP](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [Quitar texto de cancelación de suscripción](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Administración de campos {#field-management}
          + [Bloquear actualizaciones de campos durante la importación de listas desde orígenes que no son de confianza](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquear actualizaciones de un campo](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -252,7 +253,7 @@ ht-degree: 2%
             + [Explicación de las campañas inteligentes por lotes y Déclencheur](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Creación de una nueva campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
             + [Definición de listas inteligentes para campañas inteligentes | Lote](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-            + [Definición de listas inteligentes para campañas inteligentes | DÉCLENCHEUR](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+            + [Definición de listas inteligentes para campañas inteligentes | Déclencheur](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [Lista de comprobación de campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + Uso de campañas inteligentes {#using-smart-campaigns}
             + [Anulación de una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)

@@ -1,0 +1,123 @@
+---
+description: Filtrado de actividad de bots de correo electrónico - Documentos de Marketo - Documentación del producto
+title: Filtrado de actividad de bots de correo electrónico
+hide: true
+hidefromtoc: true
+feature: Email Setup
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+workflow-type: tm+mt
+source-wordcount: '511'
+ht-degree: 0%
+
+---
+
+# Filtrado de actividad de bots de correo electrónico DOC TEMP{#filtering-email-bot-activity}
+
+A veces, la actividad de bots de correo electrónico puede inflar erróneamente los datos de aperturas y clics en correos electrónicos. Siga los pasos a continuación para solucionarlo.
+
+Utilizamos dos métodos independientes para confirmar la actividad de bots:
+
+* Coincidir con [Lista de bots de Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Las actividades que coincidan con cualquier elemento en la lista IAB UA/IP (agente de usuario/dirección IP) se marcarán como bots.
+* Hacer coincidir con patrón de proximidad: Cuando se producen más de dos actividades al mismo tiempo (en menos de un segundo), se identifican como bots. Los atributos considerados durante la comparación son:
+   * ID de posible cliente (debe ser el mismo)
+   * Recurso de correo electrónico (debe ser el mismo)
+   * Clic en vínculo o correo electrónico abierto
+   * Diferencia horaria (debe ser inferior a un segundo)
+
+Frente a la actividad de clic en vínculo de correo electrónico y de apertura de correo electrónico, los nuevos atributos se rellenarán con los valores siguientes:
+
+* Las actividades identificadas como bots tendrán &quot;Actividad de bots&quot; como &quot;True&quot; y &quot;Patrón de actividad de bots&quot; como patrón/método identificado
+* Las actividades identificadas como no bots tendrán &quot;Actividad de bots&quot; como &quot;Falso&quot; y &quot;Patrón de actividad de bots&quot; como &quot;N/D&quot;
+* Las actividades que se produjeron antes de que introdujéramos estos atributos tendrán &quot;Actividad de bots&quot; como &quot; &quot; (vacío) y &quot;Patrón de actividad de bots&quot; como &quot; &quot; (vacío)
+
+## Seleccionar tipo de filtro {#select-filter-type}
+
+1. Clic **[!UICONTROL Administrador]**.
+
+   ![](assets/filtering-email-bot-activity-1.png)
+
+1. Clic **[!UICONTROL Correo electrónico]**.
+
+   ![](assets/filtering-email-bot-activity-2.png)
+
+1. Haga clic en **[!UICONTROL Actividad de bots]** pestaña.
+
+   ![](assets/filtering-email-bot-activity-3.png)
+
+1. Elija entre **[!UICONTROL Coincidencia con la lista IAB]**, **[!UICONTROL Coincidencia con el patrón de proximidad]**, o ambas. Elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots]. Establezca la cantidad de segundos para **Duración entre actividades** de 0 a 3 segundos (el valor predeterminado es 0).
+
+   ![](assets/filtering-email-bot-activity-temp-4.png)
+
+>[!NOTE]
+>
+>Con **Duración entre actividades** Si se establece en 0 segundos, identificaremos las actividades de correo electrónico que se produzcan al mismo segundo. Si se producen varias actividades de correo electrónico en la cantidad designada de segundos, se identificarán como actividades de bots.
+
+>[!NOTE]
+>
+>* Si elige [!UICONTROL Filtrar actividad de bots]Sin embargo, puede ver una caída en las aperturas del correo electrónico y los clics a medida que se eliminan las actividades falsas.
+
+**PASO OPCIONAL**: para deshabilitar esta función, simplemente anule la selección de los controles deslizantes. Si lo desactiva, los datos no se restablecen.
+
+>[!TIP]
+>
+>Aproveche los datos de actividad de bots en las listas inteligentes mediante los déclencheur booleano &quot;Es actividad de bots&quot; (sí/no) y &quot;Patrón de actividad de bots&quot; en los filtros &quot;Vínculo en el correo electrónico en el que se hizo clic&quot; y &quot;Abrir correo electrónico&quot;, y &quot;Clics en el vínculo en el correo electrónico&quot; y &quot;Abre el correo electrónico&quot;.
+
+## LISTA DE BLOQUEADOS IP {#ip-blocklist}
+
+Hemos compilado una lista de direcciones IP responsables de generar millones de participaciones falsas, ya que las participaciones recibidas de cualquiera de las siguientes IP se filtran automáticamente y no se añaden a la instancia de Marketo Engage. Esto puede reducir las aperturas de correo electrónico, los clics y otras actividades relacionadas. La lista que figura a continuación puede actualizarse periódicamente.
+
+* 40.94.34.52
+* 40.94.34.86
+* 52 34 76 65
+* 54.70.53.60
+* 54 71 187 124
+* 60.28.2.248
+* 64 235 150 252
+* 64 235 153 10
+* 64.235.153.2
+* 64 235 154 105
+* 64 235 154 109
+* 64 235 154 140
+* 64.74.215.1
+* 64 74 215 100
+* 64.74.215.138
+* 64.74.215.139
+* 64.74.215.142
+* 64.74.215.146
+* 64 74 215 150
+* 64.74.215.154
+* 64.74.215.158
+* 64.74.215.162
+* 64.74.215.164
+* 64.74.215.166
+* 64.74.215.170
+* 64.74.215.174
+* 64.74.215.176
+* 64.74.215.178
+* 64.74.215.51
+* 64.74.215.56
+* 64.74.215.58
+* 64.74.215.59
+* 64.74.215.86
+* 64.74.215.98
+* 65 154 226 101
+* 66 249 91 149
+* 70.42.131.106
+* 74 125 217 116
+* 74 217 90 250
+* 104 129 41 4
+* 104.47.55.126
+* 104.47.58.126
+* 104.47.70.126
+* 104.47.73.126
+* 104.47.73.254
+* 104.47.74.126
+* 128 220 160 1
+* 155.70.39.101
+* 162 129 251 14
+* 162 129 251 42
+* 208.52.157.204
+
+>[!NOTE]
+>
+>Analizamos y analizamos meticulosamente cada dirección IP antes de agregarla a esta lista, asegurándonos de que solo las IP más críticas y dañinas estén bloqueadas.
