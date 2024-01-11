@@ -3,10 +3,10 @@ description: Configuración - Documentos de Marketo - Documentación del product
 title: Configuración
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Aprenda a personalizar el aspecto de la ventana de diálogo del bot de chat.
 
-Para empezar, haga clic en **Configuración**.
+Para empezar, haga clic en **Configuración de bots de chat** bajo **Configuración**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ El anclaje permite al visitante del sitio abrir/cerrar el cuadro de diálogo. Pu
 
 ![](assets/configuration-4.png)
 
-### Configuración del agente {#agent-settings}
+### Configuración de bots {#agent-settings}
 
-En la configuración de Agente, puede agregar una etiqueta a su chatbox (por ejemplo: &quot;Adobe Bot&quot;) que aparecerá en la parte superior de la misma. También puede determinar el retraso de la respuesta (en segundos) y cambiar el avatar del chat. Para cargar su propia imagen de avatar, haga clic en **+** botón.
+En Configuración de bots, puede añadir una etiqueta a su cuadro de diálogo (por ejemplo: &quot;Ayudante de Adobe&quot;) que aparecerá en la parte superior. También puede determinar el retraso de la respuesta (en segundos) y cambiar el avatar del chat. Para cargar su propia imagen de avatar, haga clic en **+** botón.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ Para que el bot de chat aparezca en su sitio web, primero debe instalar el fragm
 
 >[!TIP]
 >
->Si su sitio utiliza una Política de seguridad de contenido, es posible que necesite realizar la lista de permitidos de las siguientes URL para que el bot de chat funcione según lo esperado:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Busque debajo del código qué agregar si su sitio utiliza una Política de seguridad de contenido (CSP).
 
 >[!NOTE]
 >

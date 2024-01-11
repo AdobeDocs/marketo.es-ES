@@ -4,9 +4,9 @@ title: Seminarios web bajo demanda
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, la tecnología que activa los seminarios web interactivos, realiz
 
 Marketo proporciona las estadísticas de inspección para los seminarios web bajo demanda en la pestaña Tablero con la ayuda de los siguientes widgets:
 
-* Resumen a petición: Proporciona un resumen diario del recuento de visitantes (no-shows) que ven la grabación después del evento.
+* Resumen a petición: Proporciona un resumen del recuento de visitantes (no-espectadores) que ven la grabación después del evento en un día determinado
 
 * Estadísticas a petición: Este widget proporciona información sobre:
    * Días en los que la grabación bajo demanda está disponible para visualización: ayuda a los especialistas en marketing a realizar acciones, como ejecutar campañas de correo electrónico cerca del final de la duración de disponibilidad de la grabación de 30 días.
