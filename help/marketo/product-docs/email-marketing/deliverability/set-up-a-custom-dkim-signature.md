@@ -4,9 +4,9 @@ description: 'Configuración de una firma DKIM personalizada: documentos de Mark
 title: Configurar una firma DKIM personalizada
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ Puede personalizar la firma DKIM para reflejar los dominios que elija. Así es c
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* Recomendamos un tamaño de clave de 2048.
-   >* Si utiliza un dominio diferente en la dirección remitente, se utilizará la firma DKIM compartida de Marketo.
-
    <table> 
    <tr>
    <td width="20%"><b>Selector</b></td>
@@ -59,6 +54,17 @@ Puede personalizar la firma DKIM para reflejar los dominios que elija. Así es c
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* Recomendamos un tamaño de clave de 2048.
+   >* Si utiliza un dominio diferente en la dirección remitente, se utilizará la firma DKIM compartida de Marketo.
+
+   >[!IMPORTANT]
+   >
+   >Si necesita actualizar el selector DKIM o el tamaño de codificación DKIM para su dominio, debe eliminar el registro existente y volver a publicar el registro recién generado con los nuevos valores.
+   >
+   >Tenga en cuenta que al hacerlo, DKIM no se firmará para su dominio hasta que nuestro sistema publique y valide su nuevo registro. Planifique el cambio en consecuencia, ya que pueden pasar de 24 a 48 horas antes de que el nuevo registro DKIM se propague completamente por Internet.
 
 1. Envíe el **Registro de host** y **Valor TXT** a su equipo de TI. Pídale que cree el registro y asegúrese de que se propaga a todos los servidores de nombres asociados con el dominio de origen. La verificación DKIM de Marketo requiere que la clave DKIM se propague a todos los servidores de nombres asociados con el dominio que se está firmando con DKIM.
 
