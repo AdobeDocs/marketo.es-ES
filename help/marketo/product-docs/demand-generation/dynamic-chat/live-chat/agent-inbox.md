@@ -3,9 +3,9 @@ description: Bandeja de entrada del agente - Documentos de Marketo - Documentaci
 title: Bandeja de entrada del agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -50,11 +50,17 @@ A la derecha de la pantalla de la bandeja de entrada del agente, podrá ver (de 
 
 ![](assets/agent-inbox-5.png)
 
+## Finalizar una sesión {#end-a-session}
+
+Los agentes pueden finalizar manualmente una sesión simplemente haciendo clic en el botón **Finalizar sesión** junto a la información del visitante.
+
+![](assets/agent-inbox-6.png)
+
 ## Historial de actividades {#activity-history}
 
 Debajo de la información del visitante se encuentra el historial de actividades. Vea los tipos de actividades y las fechas, e incluso vea las transcripciones de chat.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ En la parte inferior de la ventana de chat en vivo hay un icono que le permite c
 
 1. Haga clic en el icono de calendario.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Seleccione el calendario del agente deseado y haga clic en **Enviar**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. El visitante del chat podrá reservar una reunión.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)

@@ -3,10 +3,10 @@ description: Filtrado de actividad de bots de correo electrónico - Documentos d
 title: Filtrado de actividad de bots de correo electrónico
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 11%
+source-wordcount: '534'
+ht-degree: 0%
 
 ---
 
@@ -43,15 +43,23 @@ Frente a la actividad de clic en vínculo de correo electrónico y de apertura d
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Elija entre **[!UICONTROL Coincidencia con la lista IAB]**, **[!UICONTROL Coincidencia con el patrón de proximidad]**, o ambas. Elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots].
+1. Hay dos controles deslizantes para elegir. Puede habilitar solo una o ambas. Si activa **[!UICONTROL Coincidencia con la lista IAB]**, elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
+1. Si activa **[!UICONTROL Coincidencia con el patrón de proximidad]**, elija si desea [!UICONTROL registrar actividad de bots] _o_ [!UICONTROL filtrar actividad de bots]. También puede establecer la cantidad de segundos para **Duración entre actividades** (el valor predeterminado es 0, el máximo es 3).
+
+   ![](assets/filtering-email-bot-activity-5.png)
+
 >[!NOTE]
 >
->Si elige [!UICONTROL Filtrar actividad de bots]Sin embargo, puede ver una caída en las aperturas del correo electrónico y los clics a medida que se eliminan las actividades falsas.
+>Con **Duración entre actividades** Si se establece en 0 segundos, identificaremos las actividades de correo electrónico que se produzcan al mismo segundo. Si se producen varias actividades de correo electrónico en la cantidad designada de segundos, se identificarán como actividades de bots.
 
-**PASO OPCIONAL**: para deshabilitar esta función, simplemente anule la selección de los controles deslizantes. Si lo desactiva, los datos no se restablecen.
+>[!IMPORTANT]
+>
+>* Si elige [!UICONTROL Filtrar actividad de bots]Sin embargo, puede ver una caída en las aperturas del correo electrónico y los clics a medida que se eliminan las actividades falsas.
+
+**PASO OPCIONAL**: para desactivar cualquiera de las funciones, simplemente anule la selección del deslizador correspondiente. Si lo hace, los datos no se restablecen.
 
 >[!TIP]
 >
@@ -63,23 +71,23 @@ Hemos compilado una lista de direcciones IP responsables de generar millones de 
 
 * 40.94.34.52
 * 40.94.34.86
-* 52.34.76.65
+* 52 34 76 65
 * 54.70.53.60
-* 54.71.187.124
+* 54 71 187 124
 * 60.28.2.248
-* 64.235.150.252
-* 64.235.153.10
+* 64 235 150 252
+* 64 235 153 10
 * 64.235.153.2
-* 64.235.154.105
-* 64.235.154.109
-* 64.235.154.140
+* 64 235 154 105
+* 64 235 154 109
+* 64 235 154 140
 * 64.74.215.1
-* 64.74.215.100
+* 64 74 215 100
 * 64.74.215.138
 * 64.74.215.139
 * 64.74.215.142
 * 64.74.215.146
-* 64.74.215.150
+* 64 74 215 150
 * 64.74.215.154
 * 64.74.215.158
 * 64.74.215.162
@@ -95,22 +103,22 @@ Hemos compilado una lista de direcciones IP responsables de generar millones de 
 * 64.74.215.59
 * 64.74.215.86
 * 64.74.215.98
-* 65.154.226.101
-* 66.249.91.149
+* 65 154 226 101
+* 66 249 91 149
 * 70.42.131.106
-* 74.125.217.116
-* 74.217.90.250
-* 104.129.41.4
+* 74 125 217 116
+* 74 217 90 250
+* 104 129 41 4
 * 104.47.55.126
 * 104.47.58.126
 * 104.47.70.126
 * 104.47.73.126
 * 104.47.73.254
 * 104.47.74.126
-* 128.220.160.1
+* 128 220 160 1
 * 155.70.39.101
-* 162.129.251.14
-* 162.129.251.42
+* 162 129 251 14
+* 162 129 251 42
 * 208.52.157.204
 
 >[!NOTE]
