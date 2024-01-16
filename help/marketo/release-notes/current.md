@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5f44192438ace61e234925a756def6ca88004cff
+source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 7%
+source-wordcount: '648'
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
   </tr>
     <tr> 
    <td><strong>Seminarios web a petición para seminarios web interactivos</strong>: los seminarios web bajo demanda le permiten publicar la grabación del seminario web, así como rastrear sus visitas/relojes. Esto le ayudará a obtener más posibles clientes a través de los inscritos que no asistieron al seminario web (no se presentaron), pero que siguen interesados en conocer más detalles y ver la grabación.</td> 
-   <td>Envío hoy</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Seminarios web bajo demanda</a></td>
   </tr>
    <tr> 
@@ -56,7 +56,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    </tr>
     <tr> 
    <td><strong>Filtrado de actividad de bots de correo electrónico</strong>: mejora la captura de la actividad de bots para la participación por correo electrónico, lo que le permite elegir lo agresivo que desea que sea el filtrado de identificación de la actividad de bots.</td> 
-   <td>Envío hoy</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrado de actividad de bots de correo electrónico</a></td>
   </tr>
   <tr> 
@@ -125,8 +125,8 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
    </tr>
     <tr> 
    <td><strong>Opciones de color de fuente de Chatbot</strong>: personalice los colores de las fuentes en una configuración de bot de chat.</td> 
-   <td>Envío hoy</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">Configuración</a></td>
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -147,7 +147,7 @@ Todas las funciones a continuación siguen un formato Agile y se lanzan en varia
     </tr>
     <tr> 
    <td><strong>Finalización manual del chat en vivo</strong>: Tanto los visitantes como los agentes ahora pueden finalizar manualmente una sesión de chat en vivo.</td> 
-   <td>Envío hoy</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Bandeja de entrada del agente</a></td>
   </tr>
   <tr> 
