@@ -4,9 +4,9 @@ description: 'Creación de un usuario solo de API: documentos de Marketo, docume
 title: Crear un usuario solo de API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Crear un usuario solo de API {#create-an-api-only-user}
 
 Si desea integrar con Marketo a través de la [API DE REST](https://developers.marketo.com/documentation/rest/){target="_blank"}, deberá crear un usuario solo de API. Así es como.
+
+>[!NOTE]
+>
+>Si va a crear usuarios de solo API en una suscripción que se haya incorporado a Adobe Identity, siga los pasos que aparecen a continuación [se puede encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -59,4 +63,4 @@ Muy bien, entonces! Ahora sigamos adelante y creemos el servicio personalizado.
 
 >[!MORELIKETHIS]
 >
->[Crear un servicio personalizado para utilizarlo con la API de ReST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[Crear un servicio personalizado para utilizarlo con la API de REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
