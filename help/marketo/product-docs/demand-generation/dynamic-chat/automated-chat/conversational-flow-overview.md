@@ -2,10 +2,10 @@
 description: 'Información general sobre el flujo de conversación: documentos de Marketo, documentación del producto'
 title: Resumen de flujo de conversación
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de llamada a la acción, al cargar la página, el tiempo invertido en la página, etc.).
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>Los flujos de conversación y el chat en vivo son funciones de prueba compartidas que tienen un límite de duración combinado de 100 participaciones para aquellos en el paquete Dynamic Chat Select. Cuando se alcance este límite, todos los flujos de conversación publicados dejarán de activarse y los visitantes que soliciten hablar con un agente activo recibirán el mensaje de reserva global. Para aumentar este límite, póngase en contacto con su representante de cuentas para discutir las opciones de actualización de paquetes.
 
 ## Diálogos frente a flujos de conversación {#dialogues-vs-conversational-flows}
 

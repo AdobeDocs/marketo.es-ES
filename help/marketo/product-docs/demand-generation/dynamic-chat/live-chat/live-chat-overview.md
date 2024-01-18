@@ -3,9 +3,9 @@ description: Información general de Live Chat - Documentos de Marketo - Documen
 title: Información general de Live Chat
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Información general de Live Chat {#live-chat-overview}
 
 El chat en vivo permite a los visitantes del sitio web entablar conversaciones de chat en tiempo real con sus agentes de ventas.
+
+>[!NOTE]
+>
+>Los flujos de conversación y el chat en vivo son funciones de prueba compartidas que tienen un límite de duración combinado de 100 participaciones para aquellos en el paquete Dynamic Chat Select. Cuando se alcance este límite, todos los flujos de conversación publicados dejarán de activarse y los visitantes que soliciten hablar con un agente activo recibirán el mensaje de reserva global. Para aumentar este límite, póngase en contacto con su representante de cuentas para discutir las opciones de actualización de paquetes.
 
 ## Añadir agentes de chat en directo {#add-live-chat-agents}
 
