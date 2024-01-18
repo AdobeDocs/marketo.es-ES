@@ -3,9 +3,9 @@ description: Lista de comprobación de administración de instancias heredadas -
 title: Lista de comprobación de administración de instancias heredadas
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 1%
 
 ---
@@ -293,16 +293,16 @@ Las listas de comprobación siguientes (listas de comprobación subsiguientes vi
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (si procede)</td> 
-<td><li>¿Ha aceptado la <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrador de productos de Dynamic Chat</a> ¿invitar? El correo electrónico se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado como administrador del sistema.
+<td>Siga los pasos que se indican a continuación para acceder a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Si aún no ha configurado un Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">aprenda a hacerlo aquí</a>.
+<br/>
+<li>¿Ha aceptado la <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrador de productos de Dynamic Chat</a> ¿invitar? El correo electrónico se envía cuando Dynamic Chat está habilitado en la instancia de Marketo Engage y usted ha sido designado como administrador del sistema.
 <br/>     Si no es así, busque el correo electrónico de bienvenida en la bandeja de entrada y acepte la invitación para configurar su Adobe ID.</li>   
 <li>¿Ha añadido el <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">usuarios deseados</a> al perfil de producto Dynamic Chat en Adobe Admin Console?
-<ul>
 <li>Asegúrese de que los usuarios aptos tengan el perfil de producto de Dynamic Chat añadido a su identidad de Adobe. No puede asignar funciones de "Dynamic Chat de acceso" en Marketo Engage &gt; Administración &gt; Usuarios y funciones si se añaden a un perfil de producto.</li>
 <li>En la pestaña "Perfiles de producto", ¿los permisos de perfil predeterminados están alineados con las necesidades de su organización?<br/> 
 Si no es así, edite los permisos del perfil específico. </li>
 <li>Si tiene más de una suscripción, ¿se añaden los usuarios a las suscripciones correctas?</li>
-</ul>
-</li>
+<br>
 Una vez que haya terminado de auditar la configuración de Usuarios y funciones, inicie sesión en Dynamic Chat para continuar con la auditoría.  
 <li>¿Tiene usted <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">conectó su instancia de Marketo Engage</a> al Dynamic Chat?</li>
 <li>¿Los cinco perfiles predeterminados con permisos predefinidos son aplicables a su organización?<br/> 
