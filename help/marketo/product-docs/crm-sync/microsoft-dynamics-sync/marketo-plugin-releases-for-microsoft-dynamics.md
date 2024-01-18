@@ -4,7 +4,7 @@ description: 'Versiones de complementos de Marketo para Microsoft Dynamics: docu
 title: Versiones de complementos de Marketo para Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,9 +36,9 @@ La primera vez que se sincroniza con Microsoft Dynamics, se descarga la versión
 <table> 
  <tbody> 
   <tr> 
-   <th>Versión</th> 
-   <th>Fecha de lanzamiento</th> 
-   <th>Notas</th> 
+   <th style="width:15%">Versión</th> 
+   <th style="width:20%">Fecha de lanzamiento</th> 
+   <th style="width:65%">Notas</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
