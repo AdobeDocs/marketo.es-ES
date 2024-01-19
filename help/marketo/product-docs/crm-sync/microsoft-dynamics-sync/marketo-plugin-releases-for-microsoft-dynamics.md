@@ -4,9 +4,9 @@ description: 'Versiones de complementos de Marketo para Microsoft Dynamics: docu
 title: Versiones de complementos de Marketo para Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ La primera vez que se sincroniza con Microsoft Dynamics, se descarga la versión
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>19/1/24</td> 
    <td>Corrección de errores: Se han corregido errores relacionados con la sincronización de entidad personalizada.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ La primera vez que se sincroniza con Microsoft Dynamics, se descarga la versión
   <tr> 
    <td>5.0.1.8</td> 
    <td>27/03/23</td> 
-   <td>Corrección de errores: Evita que el complemento sobrescriba otras personalizaciones en los elementos de la IU en MS Dynamics.</td> 
+   <td>Corrección de errores: Evita que el complemento sobrescriba otras personalizaciones en los elementos de la IU en MS Dynamics.
+   <p>
+   Corrección de errores: Se han restablecido los mosaicos de navegación que faltaban en la versión 5.0.1.1.</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
