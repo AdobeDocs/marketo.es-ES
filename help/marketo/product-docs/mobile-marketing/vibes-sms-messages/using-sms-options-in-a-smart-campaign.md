@@ -2,7 +2,7 @@
 description: 'Uso de opciones de SMS en una campaña inteligente: documentos de Marketo, documentación del producto'
 title: Uso de las opciones de SMS en una campaña inteligente
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Uso de las opciones de SMS en una campaña inteligente {#using-sms-options-in-a-smart-campaign}
 
-Después de usted [creación de un mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, querrá usar déclencheur y filtros de listas inteligentes dentro de una campaña inteligente para obtener las ventajas.
+Después de usted [creación de un mensaje SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, querrá usar déclencheur y filtros de listas inteligentes dentro de una campaña inteligente para obtener las ventajas.
 
 >[!NOTE]
 >
