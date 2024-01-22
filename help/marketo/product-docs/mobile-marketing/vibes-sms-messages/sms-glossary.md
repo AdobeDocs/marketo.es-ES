@@ -1,19 +1,17 @@
 ---
-description: 'Doc: Documentos de Marketo: documentación del producto'
-title: Doc
-hide: true
-hidefromtoc: true
+description: 'Glosario de SMS: documentos de Marketo, documentación del producto'
+title: Glosario de SMS
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # Glosario de SMS {#sms-glossary}
 
-A continuación se muestran términos comunes que encontrará al utilizar Vibes mensajes SMS con Marketo Engage.
+A continuación se muestran algunos términos comunes que encontrará al utilizar Vibes mensajes SMS con Marketo Engage.
 
 <table>
 <thead>
