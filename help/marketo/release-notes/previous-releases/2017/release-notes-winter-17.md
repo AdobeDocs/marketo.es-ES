@@ -4,9 +4,9 @@ description: 'Notas de la versión, invierno de 2017, documentación de Marketo:
 title: Notas de la versión, invierno de 2017
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Filtre los fragmentos de contenido predictivo que estén habilitados para correo
 
 **[Filtrar Analytics por fuente](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtre los análisis de contenido predictivo por fuentes específicas: correo electrónico, medios enriquecidos o barra de recomendaciones.
+Filtre los análisis de contenido predictivo para fuentes específicas: correo electrónico, medios enriquecidos o barra de recomendaciones.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -85,7 +85,7 @@ La URL de imagen y los metadatos ahora se utilizan en el proceso de detección a
 
 Los desarrolladores ahora tienen control adicional sobre el envío de notificaciones push con la adición de una nueva llamada de API de SDK que permite a los desarrolladores eliminar tokens push.
 
-## [Integración de LaunchPoint con SMS de Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [Integración de LaunchPoint con SMS de Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Mejore su segmentación con una nueva opción de filtro, &quot;Miembro de la lista de vibraciones&quot;.
 
