@@ -3,9 +3,9 @@ description: 'Notas de la versi처n actuales, Documentos de Marketo: documentaci�
 title: Notas de la versi처n actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 7%
 
 ---
@@ -176,6 +176,8 @@ Todas las funciones a continuaci처n siguen un formato Agile y se lanzan en varia
 <br/>
 
 ## Anuncios {#announcements}
+
+* [Seminario web sobre la versi처n de Marketo Engage de enero de 2024](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **Sincronizar actualizaci처n de API de posibles clientes**: La [API de posible cliente de sincronizaci처n](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}El comportamiento de se ha ajustado ligeramente en relaci처n con las actualizaciones de `unsubscribed` field. Ahora, cuando pases `null` como valor, es igual a pasar un valor de `false`.
 
