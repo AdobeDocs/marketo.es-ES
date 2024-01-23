@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
+source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
 workflow-type: tm+mt
-source-wordcount: '2329'
+source-wordcount: '2269'
 ht-degree: 0%
 
 ---
@@ -71,31 +71,29 @@ En la siguiente sección de la pestaña Estado de la migración, hay dos barras 
 
 A continuación, se muestran tres secciones del estado al administrador.
 
-La primera sección se refiere al estado de verificación por correo electrónico de los usuarios dentro de la suscripción.
+* **Verificación de correo electrónico del usuario**: estado de verificación de los usuarios dentro de la suscripción.
+* **Activación y migración de usuarios**: migración de usuarios y estado de activación (migración y asignación de derechos al producto de Marketo Engage) de los usuarios incluidos en la suscripción.
+* **Confirmación de migración**: estado de finalización de la migración de la suscripción.
 
-La segunda sección trata sobre la migración de usuarios y el estado de activación (es decir, la migración y el derecho al producto de Marketo Engage) de los usuarios dentro de la suscripción.
-
-La tercera sección se refiere al estado de finalización de la migración de la suscripción.
-
-Verificación de correo electrónico del usuario
+**Verificación de correo electrónico del usuario**
 
 En la sección Verificación por correo electrónico del usuario, un administrador puede encontrar el estado actual de la verificación por correo electrónico de los usuarios de la suscripción, antes de la migración a la identidad de Adobe.
 
 Un administrador puede ver el estado de verificación por correo electrónico de la suscripción, el porcentaje de usuarios de la suscripción que han completado la verificación por correo electrónico y el número de usuarios que se han marcado como omitidos. El estado se notificará según el estado de verificación por correo electrónico de todos los usuarios en la suscripción. El administrador puede hacer clic en el número de usuarios omitidos y se desplazará a la pestaña Migración de usuarios para ver los usuarios omitidos.
 
-El correo electrónico de verificación lo puede reenviar un administrador en la pestaña Migración de usuarios de la Consola de migración y en la pestaña Usuarios y funciones del área Administración de Marketo, o el usuario en su Configuración de cuenta. Al igual que los correos electrónicos de invitación de los usuarios, el vínculo del correo electrónico de verificación caducará en tres días. Encontrará más información sobre la verificación por correo electrónico en la Comunidad &lt;nation.marketo.com> y en la documentación de verificación por correo electrónico &lt; https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/email-verification.html?lang=en>.
+El correo electrónico de verificación lo puede reenviar un administrador en la pestaña Migración de usuarios de la Consola de migración y en la pestaña Usuarios y funciones del área Administración de Marketo, o el usuario en su Configuración de cuenta. Al igual que los correos electrónicos de invitación de los usuarios, el vínculo del correo electrónico de verificación caduca en tres días. Encontrará más información sobre la verificación por correo electrónico en la [Comunidad](nation.marketo.com) y en el [documentación de verificación de correo electrónico](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
-IMPORTANTE
+>[!IMPORTANT]
+>
+>Si un usuario Marketo Engage no comprueba su dirección de correo electrónico, no puede migrarse a una Adobe ID y perderá el acceso a la suscripción de Marketo una vez completada la migración. Para recuperar el acceso, un administrador de productos de Marketo tendría que agregarlos como un nuevo usuario.
 
-Si un usuario Marketo Engage no comprueba su dirección de correo electrónico, no puede migrarse a una Adobe ID y perderá el acceso a la suscripción de Marketo una vez completada la migración de la suscripción. Para recuperar el acceso una vez completada la migración de usuarios, un administrador de productos de Marketo tendría que agregarlos como un nuevo usuario.
-
-Activación y migración de usuarios
+**Activación y migración de usuarios**
 
 En la sección Activación y migración de usuarios, un administrador puede encontrar el estado actual de la migración total de usuarios y las autorizaciones para el sistema Identity Management de Adobe.
 
 Un administrador puede ver el porcentaje de usuarios de su suscripción que se han migrado a un Adobe ID o marcado como Omitido. Se informará del estado una vez que todos los usuarios hayan migrado su estado a una Adobe ID incluida en la suscripción o se marcará como Omitido y no se migrará. A medida que los usuarios se migran y tienen derecho a un Marketo Engage, o se omiten, este estado se actualiza.
 
-Confirmación de migración
+**Confirmación de migración**
 
 En la sección Confirmación de migración, se solicitará a un administrador que confirme que se ha completado la migración de usuarios para la suscripción.
 
@@ -103,7 +101,7 @@ Una vez contabilizados todos los usuarios de la suscripción (migrados u omitido
 
 CAPTURA DE PANTALLA
 
-El administrador que realice la migración deberá completar la confirmación de la migración haciendo clic en el botón Completar migración. Se le pedirá que confirme la finalización de la migración.
+El administrador que realice la migración tendrá que completar la confirmación de la migración haciendo clic en **Migración completa** botón.
 
 CAPTURA DE PANTALLA
 
@@ -111,17 +109,17 @@ Una vez confirmada la finalización de la migración de usuarios, la consola de 
 
 ### Caducidad de migración de usuarios {#user-migration-expiration}
 
-El Adobe requiere que los clientes completen las migraciones de autoservicio en un plazo de 30 días. No se bloqueará la migración de usuarios ni la finalización de la migración de los administradores si la fecha de caducidad ha pasado, pero solo podrán migrar usuarios bajo demanda.  Si un administrador necesita más tiempo, puede ampliar la fecha de caducidad de la suscripción.
+El Adobe requiere que los clientes completen las migraciones de autoservicio en un plazo de 30 días. No se bloqueará la migración de usuarios ni la finalización de la migración de los administradores si la fecha de caducidad ha pasado. Sin embargo, solo podrán migrar usuarios bajo demanda. Si un administrador necesita más tiempo, puede ampliar la fecha de caducidad de la suscripción.
 
 CAPTURA DE PANTALLA
 
-Al hacer clic en el botón Extender caducidad, la fecha se actualiza a una semana después. Un administrador puede ampliar su caducidad hasta tres veces.
+Al hacer clic en **Extender caducidad** , la fecha se actualizará a una semana después. Un administrador puede ampliar su caducidad hasta tres veces.
 
 CAPTURA DE PANTALLA
 
 CAPTURA DE PANTALLA
 
-La divulgación por Adobe se producirá después de que un cliente no complete la migración antes de la fecha de caducidad.
+El Adobe se pondrá en contacto si no completa la migración antes de la fecha de caducidad.
 
 ### Pestaña Migración de usuarios {#user-migration-tab}
 
@@ -129,102 +127,98 @@ La pestaña Migración de usuarios proporciona a los administradores las herrami
 
 Los administradores tienen la opción de:
 
-Déclencheur de correos electrónicos de verificación para usuarios no verificados mediante el botón Verificar correo electrónico
-
-Omitir la migración de usuarios para usuarios que el administrador sabe que no pueden verificar o no verificarán su correo electrónico, o que no deben migrar mediante el botón Omitir migración
-
-Migrar usuarios seleccionados bajo demanda mediante el botón &#39;Migrar ahora&#39;
-
-Programar la migración de usuarios para los usuarios seleccionados para una fecha específica mediante el botón &quot;Programar migración&quot;
-
-Migrar todos los usuarios elegibles bajo demanda (no se necesita selección de usuarios) mediante el botón &#39;Migrar todos los usuarios&#39;
+* Déclencheur de correos electrónicos de verificación para usuarios no verificados mediante el botón Verificar correo electrónico
+* Omitir la migración de usuarios para usuarios que el administrador sabe que pueden o no verificar su correo electrónico o que no deben migrarse mediante el botón Omitir migración
+* Migrar usuarios seleccionados bajo demanda mediante el botón &#39;Migrar ahora&#39;
+* Programar la migración de usuarios para los usuarios seleccionados para una fecha específica mediante el botón &quot;Programar migración&quot;
+* Migrar todos los usuarios elegibles bajo demanda (no se necesita selección de usuarios) mediante el botón &#39;Migrar todos los usuarios&#39;
 
 CAPTURA DE PANTALLA
 
-Verificar correo electrónico
+**Verificar correo electrónico**
 
-Se requiere la verificación por correo electrónico para migrar un usuario a una Adobe ID. Si hay usuarios que no han comprobado su dirección de correo electrónico y necesitan migrarse, el administrador puede almacenar en déclencheur el correo electrónico de verificación para enviarlo de nuevo al usuario. Al seleccionar un usuario no verificado, el botón &quot;Verificar correo electrónico&quot; se activará y se le solicitará que envíe el correo electrónico.
-
-CAPTURA DE PANTALLA
-
-Una vez que el administrador haga clic en el botón &quot;Verificar correo electrónico&quot;, recibirá una notificación cuando se envíe el correo electrónico.
+Se requiere la verificación por correo electrónico para migrar un usuario a una Adobe ID. Si hay usuarios que no han comprobado su dirección de correo electrónico y necesitan migrarse, el administrador puede almacenar en déclencheur el correo electrónico de verificación para enviarlo de nuevo al usuario. Al seleccionar un usuario no verificado, se podrá hacer clic en el botón &quot;Verificar correo electrónico&quot;.
 
 CAPTURA DE PANTALLA
 
-Omitir y anular la migración de usuarios
+Cuando el administrador haga clic en **Verificar correo electrónico** botón, recibirán una notificación de que se ha enviado el correo electrónico.
+
+CAPTURA DE PANTALLA
+
+**Omitir y anular la migración de usuarios**
 
 Durante la migración de usuarios, todos los usuarios deben migrarse u omitirse. El Adobe requiere que los administradores reconozcan que un usuario no se migrará y que un administrador tenga que marcar al usuario como omitido. Si el administrador no lo hace, no podrá confirmar la finalización de la migración de usuarios. Todos los usuarios omitidos perderán acceso a Marketo una vez que se complete la migración de usuarios.
 
-IMPORTANTE
+>[!IMPORTANT]
+>
+>Un administrador debe omitir todos los usuarios con correos electrónicos no verificados. Si hay usuarios que han verificado sus correos electrónicos, pero el administrador no desea migrarlos por ningún motivo, deben marcarlos como omitidos.
 
-Un administrador debe omitir todos los usuarios con correos electrónicos no verificados. Si hay usuarios que han verificado sus correos electrónicos, pero el administrador no desea migrarlos por ningún motivo, deben marcarlos como omitidos.
-
-Para omitir un usuario, el administrador puede seleccionar los usuarios deseados. Se activará el botón Omitir migración. Al hacer clic en el botón Omitir migración, la página se actualizará y el estado de verificación y migración del usuario seleccionado se actualizará a Omitido.
-
-CAPTURA DE PANTALLA
-
-Un administrador puede anular la omisión de un usuario omitido anteriormente si se determina que es necesario migrar el usuario.
-
-Para anular la omisión de un usuario, el administrador puede seleccionar el usuario que desee. Se activará el botón &quot;Anular omisión de la migración&quot;. Al hacer clic en el botón &quot;Anular migración&quot;, la página se actualizará.  El estado de verificación del usuario seleccionado se actualizará a su estado actual, ya sea &quot;Verificado&quot; o &quot;No verificado&quot;, y el estado de migración del usuario se actualizará a &quot;No iniciado&quot;.
+Para omitir un usuario, el administrador puede seleccionar los usuarios deseados. Se podrá hacer clic en el botón Omitir migración. Al hacer clic en **Omitir migración** , la página se actualizará y el estado de verificación y migración del usuario seleccionado se actualizará a Omitido.
 
 CAPTURA DE PANTALLA
 
-NOTA
+Un administrador puede anular la omisión de un usuario omitido anteriormente si determina que es necesario migrar el usuario.
 
-El botón &quot;Anular omisión de migración&quot; solo estará activo si todos los usuarios seleccionados tienen un estado de migración &quot;Omitido&quot;.
-
-Migración de usuarios de Marketo a ID de Adobe
-
-Para los clientes que desean un mayor control durante el proceso de migración de usuarios, Marketo admite el enfoque de autoservicio para suscripciones con 75 usuarios o más. Los administradores de productos de Marketo podrán seleccionar usuarios para migrar en lotes o todos los usuarios aptos a la vez. Una vez seleccionados los usuarios, los administradores tienen la opción de &quot;Migrar ahora&quot; o &quot;Programar migración&quot; para una fecha posterior, lo que proporciona a los administradores la flexibilidad y el control definitivos sobre qué usuarios se migran y cuándo. Los administradores también tienen la opción de &quot;Migrar todos los usuarios&quot; en una suscripción.
-
-Por ejemplo, un administrador podría seleccionar un grupo de usuarios &quot;avanzados&quot; que desee migrar primero. Una vez que esas migraciones de usuarios se hayan completado correctamente, pueden seleccionar diferentes grupos en función de aspectos como el espacio de trabajo, la función empresarial o la función para realizar más migraciones de usuarios por lotes de forma satisfactoria. O podrían decidir migrar a todos los demás usuarios de las suscripciones después del éxito del primer lote. El objetivo es proporcionar la mayor flexibilidad a la hora de implementar ID de Adobe para los usuarios.
-
-Todas las migraciones de usuarios se producen simultáneamente y deben completarse correctamente en un plazo de sesenta segundos. Mientras se produce la migración de un usuario para un usuario específico, el usuario puede perder el acceso durante un máximo de 1 minuto, y eso solo si el usuario ha iniciado sesión en la aplicación. Una vez completada la migración de usuarios, el usuario recibirá un correo electrónico sobre cómo iniciar sesión en el Marketo Engage con una identidad de Adobe. El usuario debe aceptar la invitación mediante el vínculo de botón del correo electrónico. Después de aceptar la invitación, el usuario debe iniciar sesión con un Adobe ID. Las instrucciones sobre cómo iniciar sesión en Marketo Engage con un Adobe ID se encuentran aquí. &lt; https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.html>
+Para anular la omisión de un usuario, el administrador puede seleccionar el usuario que desee. Se podrá hacer clic en el botón &quot;Anular migración&quot;. Al hacer clic en **Anular omisión de migración** , la página se actualizará.  El estado de verificación del usuario seleccionado se actualizará a su estado actual, ya sea &quot;Verificado&quot; o &quot;No verificado&quot;, y el estado de migración del usuario se actualizará a &quot;No iniciado&quot;.
 
 CAPTURA DE PANTALLA
 
-Las migraciones de usuarios se procesan de forma independiente, por lo que si falla una migración de usuarios, el Adobe seguirá procesando otras migraciones de usuarios. Si se produce un error de migración de usuario, un administrador no requiere ninguna acción. Ingeniería de Adobe trabajará para abordar el problema lo antes posible. Se enviará al administrador una notificación por correo electrónico sobre el error y se le avisará de que el Adobe está trabajando para resolver el problema inmediatamente. Si la migración de un usuario falla y ese usuario ha iniciado sesión en el Marketo Engage, el usuario podría perder el acceso durante un máximo de 2 minutos, mientras se producen reintentos de migración.  Si la migración de un usuario falla, el usuario puede seguir accediendo al Marketo Engage con su identidad de Marketo hasta que reciba una notificación por correo electrónico de que la migración se ha realizado correctamente y se le invite a iniciar sesión con un Adobe ID.
+>[!NOTE]
+>
+>El botón &quot;Anular omisión de migración&quot; solo estará activo si todos los usuarios seleccionados tienen un estado de migración &quot;Omitido&quot;.
+
+### Migración de usuarios de Marketo a ID de Adobe {#migrating-marketo-users-to-adobe-ids}
+
+Para aquellos que desean un mayor control durante el proceso de migración de usuarios, Marketo admite el enfoque de autoservicio para suscripciones con 75 usuarios o más. Los administradores de productos de Marketo podrán seleccionar usuarios para migrar en lotes o todos los usuarios aptos a la vez. Una vez seleccionados los usuarios, los administradores tienen la opción de &quot;Migrar ahora&quot; o &quot;Programar migración&quot; para una fecha posterior, lo que proporciona a los administradores flexibilidad y control sobre qué usuarios se migran y cuándo. Los administradores también tienen la opción de &quot;Migrar todos los usuarios&quot; en una suscripción.
+
+Por ejemplo, un administrador podría seleccionar un grupo de &quot;usuarios avanzados&quot; que deseara migrar primero. Una vez que esas migraciones de usuarios se hayan completado correctamente, podrían seleccionar diferentes grupos en función de variables como espacio de trabajo/función/función empresarial para realizar más migraciones de usuarios por lotes de. O bien, podrían decidir migrar al resto de los usuarios en las suscripciones después del éxito del primer lote. El objetivo es proporcionar la mayor flexibilidad a la hora de implementar ID de Adobe para los usuarios.
+
+Todas las migraciones de usuarios se producen simultáneamente y deben completarse correctamente en un plazo de sesenta segundos. Mientras se produce la migración de un usuario para un usuario específico, el usuario puede perder el acceso durante un máximo de 1 minuto, y eso solo si el usuario ha iniciado sesión en la aplicación. Una vez completada la migración de usuarios, el usuario recibirá un correo electrónico sobre cómo iniciar sesión en el Marketo Engage con una identidad de Adobe. El usuario debe aceptar la invitación mediante el vínculo de botón del correo electrónico. Después de aceptar la invitación, el usuario debe iniciar sesión con un Adobe ID. Instrucciones sobre cómo iniciar sesión en Marketo Engage con un Adobe ID [se puede encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 CAPTURA DE PANTALLA
 
-Migrar ahora
-
-Un administrador puede seleccionar uno o varios usuarios para migrar bajo demanda. Esto almacenará en déclencheur la migración de los usuarios inmediatamente. Para migrar uno o más usuarios, el administrador selecciona los usuarios deseados y el botón &quot;Migrar ahora&quot; se activará.
+Las migraciones de usuarios se procesan de forma independiente, por lo que si falla una migración de usuarios, el Adobe seguirá procesando otras migraciones de usuarios. Si se produce un error de migración de usuario, un administrador no requiere ninguna acción. Se enviará al administrador una notificación por correo electrónico sobre el error y se le avisará de que el Adobe está trabajando para resolver el problema inmediatamente. Si la migración de un usuario falla y ese usuario ha iniciado sesión en el Marketo Engage, el usuario puede perder el acceso durante un máximo de dos minutos mientras se producen reintentos de migración. Si la migración de un usuario falla, el usuario puede seguir accediendo al Marketo Engage con su identidad de Marketo hasta que reciba una notificación por correo electrónico de que la migración se ha realizado correctamente y se le invite a iniciar sesión con un Adobe ID.
 
 CAPTURA DE PANTALLA
 
-NOTA
+**Migrar ahora**
 
-El botón &quot;Migrar ahora&quot; solo estará activo si todos los usuarios seleccionados tienen un estado de verificación &quot;Verificado&quot;.
-
-Al hacer clic en el botón &quot;Migrar ahora&quot;, se solicitará al administrador que confirme la migración de los usuarios seleccionados. Una vez que el administrador lo confirme, las migraciones de usuarios comenzarán a procesarse lo antes posible.
+Un administrador puede seleccionar uno o varios usuarios para migrar bajo demanda. Esto almacenará en déclencheur la migración de los usuarios inmediatamente. Para migrar uno o más usuarios, el administrador puede seleccionar los usuarios deseados y el botón &#39;Migrar ahora&#39; estará disponible.
 
 CAPTURA DE PANTALLA
 
-Programar migración
+>[!NOTE]
+>
+>El botón &quot;Migrar ahora&quot; solo estará activo si todos los usuarios seleccionados tienen un estado de verificación &quot;Verificado&quot;.
 
-Un administrador puede seleccionar uno o varios usuarios para programar la migración en una fecha posterior. Para programar la migración de uno o más usuarios, el administrador selecciona los usuarios deseados y se activa el botón &quot;Programar migración&quot;.
-
-CAPTURA DE PANTALLA
-
-NOTA
-
-El botón &quot;Programar migración&quot; solo estará activo si todos los usuarios seleccionados tienen un estado de verificación &quot;Verificado&quot;.
-
-Al hacer clic en el botón &quot;Programar migración&quot;, se solicitará al administrador que seleccione la fecha de migración deseada de los usuarios seleccionados. El administrador solo puede seleccionar fechas antes de la fecha de caducidad de la migración de la suscripción. Una vez que el administrador lo confirme, se programará la migración de los usuarios para que comience a procesarse en la fecha seleccionada.
+Al hacer clic en **Migrar ahora** botón, se solicitará al administrador que confirme la migración de los usuarios seleccionados. Una vez que el administrador lo confirme, las migraciones de usuarios comenzarán a procesarse lo antes posible.
 
 CAPTURA DE PANTALLA
 
-NOTA
+**Programar migración**
 
-Todas las suscripciones de Marketo con una zona horaria de EE. UU. se migrarán a partir de la medianoche (hora estándar del Pacífico) de la fecha de inicio de la migración. La migración de usuarios para todas las demás suscripciones comenzará a medianoche del huso horario especificado de la suscripción.
+Un administrador puede seleccionar uno o varios usuarios para programar la migración en una fecha posterior. Para programar la migración de uno o más usuarios, el administrador selecciona los usuarios deseados y se puede hacer clic en el botón &quot;Programar migración&quot;.
 
-Migrar todos los usuarios
+CAPTURA DE PANTALLA
+
+>[!NOTE]
+>
+>El botón &quot;Programar migración&quot; solo estará activo si todos los usuarios seleccionados tienen el estado de verificación &quot;Verificado&quot;.
+
+Al hacer clic en **Programar migración** , se solicitará al administrador que seleccione la fecha de migración deseada de los usuarios seleccionados. El administrador solo puede seleccionar fechas antes de la fecha de caducidad de la migración de la suscripción. Cuando el administrador lo confirme, las migraciones de usuarios se programarán para comenzar a procesarse en la fecha seleccionada.
+
+CAPTURA DE PANTALLA
+
+>[!NOTE]
+>
+>Todas las suscripciones de Marketo con una zona horaria de EE. UU. se migrarán a partir de la medianoche (hora estándar del Pacífico) de la fecha de inicio de la migración. La migración de usuarios para todas las demás suscripciones comenzará a medianoche del huso horario especificado de la suscripción.
+
+**Migrar todos los usuarios**
 
 Un administrador puede seleccionar migrar a todos los usuarios aptos de una suscripción, en cualquier momento. Esto almacenará en déclencheur la migración de los usuarios aptos inmediatamente. Los usuarios aptos son usuarios con correos electrónicos verificados que aún no se han migrado.
 
 CAPTURA DE PANTALLA
 
-Al hacer clic en el botón &quot;Migrar todos los usuarios&quot;, se solicitará al administrador que confirme la migración de todos los usuarios aptos. Una vez que el administrador lo confirme, las migraciones de usuarios comenzarán a procesarse lo antes posible.
+Al hacer clic en **Migrar todos los usuarios** , se solicitará al administrador que confirme la migración de todos los usuarios aptos. Cuando el administrador lo confirme, las migraciones de usuarios comenzarán a procesarse lo antes posible.
 
 CAPTURA DE PANTALLA
