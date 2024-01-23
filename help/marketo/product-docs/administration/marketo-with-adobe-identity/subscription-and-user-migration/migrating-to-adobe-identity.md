@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ En la sección Verificación por correo electrónico del usuario, un administrad
 
 Un administrador puede ver el estado de verificación por correo electrónico de la suscripción, el porcentaje de usuarios de la suscripción que han completado la verificación por correo electrónico y el número de usuarios que se han marcado como omitidos. El estado se notificará según el estado de verificación por correo electrónico de todos los usuarios en la suscripción. El administrador puede hacer clic en el número de usuarios omitidos y se desplazará a la pestaña Migración de usuarios para ver los usuarios omitidos.
 
-El correo electrónico de verificación lo puede reenviar un administrador en la pestaña Migración de usuarios de la Consola de migración y en la pestaña Usuarios y funciones del área Administración de Marketo, o el usuario en su Configuración de cuenta. Al igual que los correos electrónicos de invitación de los usuarios, el vínculo del correo electrónico de verificación caduca en tres días. Encontrará más información sobre la verificación por correo electrónico en la [Comunidad](nation.marketo.com) y en el [documentación de verificación de correo electrónico](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+El correo electrónico de verificación lo puede reenviar un administrador en la pestaña Migración de usuarios de la Consola de migración y en la pestaña Usuarios y funciones del área Administración de Marketo, o el usuario en su Configuración de cuenta. Al igual que los correos electrónicos de invitación de los usuarios, el vínculo del correo electrónico de verificación caduca en tres días. Encontrará más información sobre la verificación por correo electrónico en la [Comunidad](https://nation.marketo.com/) y en el [documentación de verificación de correo electrónico](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
