@@ -4,10 +4,10 @@ description: 'Administración de usuarios de Marketo: documentos de Marketo, doc
 title: Administración de usuarios de Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Una fecha de caducidad es buena para los consultores o partes interesadas externas a corto plazo que solo necesitan acceso a Marketo durante un breve periodo de tiempo.
+   >Una fecha de caducidad es ideal para partes interesadas externas o consultores a corto plazo que solo necesitan acceso a Marketo durante un breve periodo de tiempo.
 
    >[!NOTE]
    >
@@ -68,6 +68,10 @@ ht-degree: 0%
 El nuevo usuario ahora aparece en la pestaña Usuarios y recibirá un correo electrónico con instrucciones sobre cómo activar su cuenta.
 
 ## Eliminar usuarios {#delete-users}
+
+>[!NOTE]
+>
+>Si el usuario que desea eliminar también es un usuario Dynamic Chat, debe [eliminarlos del Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) en el Admin Console antes de poder eliminarlos en el Marketo Engage.
 
 1. Vaya a la **[!UICONTROL Administrador]** área.
 
@@ -123,7 +127,7 @@ El usuario recibirá un correo electrónico con las instrucciones para restablec
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Puede editar la información del usuario y cambiar la función asociada. Clic **[!UICONTROL Guardar]**.
+1. Puede editar la información del usuario y cambiar la función asociada. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/managing-marketo-users-21.png)
 

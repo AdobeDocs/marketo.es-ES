@@ -3,9 +3,9 @@ description: 'Información general de Adobe Identity Management: documentos de M
 title: Información general sobre Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,15 @@ Todas las nuevas suscripciones de Adobe Marketo Engage (del 31 de julio de 2023 
 >[!NOTE]
 >
 >El Soporte de Marketo no puede proporcionar ninguna actualización con respecto a la migración de IMS de Adobe. El equipo de cuenta de Adobe se pondrá en contacto con el calendario estimado en los próximos meses. Para obtener más información, consulte [este artículo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+
+Para las suscripciones integradas en Adobe Identity, Adobe Admin Console se utiliza para la administración de usuarios. Los conceptos relacionados con la identidad, como el inicio de sesión único, también se administran en el Admin Console.
+
+* Encuentre más información acerca de [Adobe Admin Console](https://helpx.adobe.com/es/enterprise/using/admin-console.html){target="_blank"}.
+* Encuentre más información sobre [configuración de la organización de Adobe relacionada con la suscripción a Marketo](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+
+>[!NOTE]
+>
+>Si desea implementar el inicio de sesión único y su suscripción se ha incorporado a Adobe Identity sin SSO implementado en la organización de Adobe, envíe un ticket a [Asistencia de Marketo](https://nation.marketo.com/){target="_blank"} y especifique el tema como &quot;Marketo en Admin Console, implementación de SSO&quot;.
 
 ## Niveles de perfil {#profile-levels}
 

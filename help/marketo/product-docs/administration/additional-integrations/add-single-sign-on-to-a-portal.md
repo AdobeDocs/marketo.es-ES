@@ -4,9 +4,9 @@ description: Agregar el inicio de sesión único a un portal - Documentos de Mar
 title: Agregar el inicio de sesión único a un portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 >
 >**Permisos de administración necesarios**
 
+>[!IMPORTANT]
+>
+>Esto no se aplica a las suscripciones incorporadas a la identidad de Adobe. Para las suscripciones integradas en Adobe Identity, el inicio de sesión único se configura en el nivel de organización de Adobe en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+
 >[!NOTE]
 >
 >¿Es usted? [!DNL Microsoft Azure] ¿usuario? Consulte sus [tutorial de integración](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
@@ -30,7 +34,7 @@ Una vez habilitado el SSO, el IdP puede validar las credenciales de un usuario. 
 ## Cómo enviar la solicitud {#how-to-send-the-request}
 
 * Envíe la solicitud SSO, que es una respuesta SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Como URL de audiencia del SP. Utilizar `http://saml.marketo.com/sp`
+* Como URL de audiencia del SP. Uso `http://saml.marketo.com/sp`
 * Si está utilizando el atributo SPNameQualifier, establezca el elemento NameID para Subject en `http://saml.marketo.com/sp`
 * Si está federando varias suscripciones de Marketo al mismo proveedor de SSO, puede utilizar direcciones URL de SP únicas para cada subgrupo de Marketo con el formato `http://saml.marketo.com/sp/<munchkin_id>`
 
@@ -83,7 +87,7 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Clic **[!UICONTROL Guardar]**.
+1. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -101,7 +105,7 @@ SSO está desactivado de forma predeterminada. Siga estos pasos para habilitar S
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Introduzca una **[!UICONTROL URL de error]**. Dirección URL a la que desea que se dirija al usuario en caso de que falle el inicio de sesión en Marketo. Clic **[!UICONTROL Guardar]**.
+1. Introduzca una **[!UICONTROL URL de error]**. Dirección URL a la que desea que se dirija al usuario en caso de que falle el inicio de sesión en Marketo. Haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

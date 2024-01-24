@@ -3,10 +3,10 @@ description: Preguntas frecuentes sobre Adobe Identity Management - Documentos d
 title: PREGUNTAS FRECUENTES SOBRE ADOBE IDENTITY MANAGEMENT
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1180'
-ht-degree: 2%
+source-wordcount: '1202'
+ht-degree: 0%
 
 ---
 
@@ -60,7 +60,7 @@ Mientras que habrá una tarjeta de producto en Admin Console para [!DNL Sales Co
 
 **¿Dónde puedo obtener más información sobre Adobe Admin Console?**
 
-[https://helpx.adobe.com/es/enterprise/admin-guide.html](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
 
 **¿Sigo yendo a la sección Administración en Marketo para realizar cambios en la cuenta de usuario de mi cuenta?**
 
@@ -73,6 +73,10 @@ Los usuarios incorporados a la identidad de Adobe pueden acceder fácilmente a t
 **¿Funciona con SSO?**
 
 Sí. La integración de Marketo con Adobe IMS admite usuarios de ID universal y SSO. SSO ahora está dirigido por Adobe IMS y se configura en el nivel de organización en Adobe Admin Console. [Obtenga más información aquí](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html){target="_blank"}.
+
+* **Ya me he incorporado a Adobe Identity y ahora quiero implementar SSO. ¿Qué debo hacer?**
+
+Si desea implementar el inicio de sesión único y su suscripción se ha incorporado a Adobe Identity sin SSO implementado en la organización de Adobe, envíe un ticket a [Asistencia de Marketo](https://nation.marketo.com/){target="_blank"} y especifique el tema como &quot;Marketo en Admin Console, implementación de SSO&quot;.
 
 **¿Cómo funciona la autorización de dispositivos?**
 
