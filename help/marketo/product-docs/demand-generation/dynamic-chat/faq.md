@@ -3,7 +3,7 @@ description: Preguntas frecuentes sobre el Dynamic Chat - Documentos de Marketo 
 title: Preguntas frecuentes del Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Un cuadro de diálogo es una conversación que se muestra automáticamente a los
 **¿Qué significan exactamente términos como &quot;Comprometido&quot; o &quot;Personas adquiridas&quot;?**
 
 Hay varios términos utilizados en Dynamic Chat. Las definiciones de muchos de ellos se encuentran en los artículos de ayuda de sus áreas respectivas.
-* Términos de Analytics como &quot;Personas adquiridas&quot; [se puede encontrar aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Definiciones de filtros y Déclencheur de listas inteligentes [se puede encontrar aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Descripciones de las distintas tarjetas del Diseñador de secuencias [se puede encontrar aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Términos de Analytics como &quot;Personas adquiridas&quot; [se puede encontrar aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Definiciones de filtros y Déclencheur de listas inteligentes [se puede encontrar aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Descripciones de las distintas tarjetas del Diseñador de secuencias [se puede encontrar aquí](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **¿Puedo usar Dynamic Chat sin Marketo Engage?**
 
