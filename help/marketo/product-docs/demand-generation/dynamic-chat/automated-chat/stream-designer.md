@@ -3,10 +3,10 @@ description: Diseñador de transmisiones - Documentos de Marketo - Documentació
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 2%
+source-wordcount: '1108'
+ht-degree: 1%
 
 ---
 
@@ -24,36 +24,36 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
 
 <table>
  <tr>
-  <td><strong>Mensaje</strong></td>
+  <td style="width:25%"><strong>Mensaje</strong></td>
   <td>Utilícelo cuando desee realizar una declaración sin necesidad de respuesta (por ejemplo: "¡Hola! Todos los artículos tienen un 25% de descuento hoy con el código SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>Pregunta</strong></td>
+  <td style="width:25%"><strong>Pregunta</strong></td>
   <td>Úselo cuando quiera hacer una pregunta de opción múltiple, de la que proporcione las respuestas disponibles (por ejemplo: ¿Qué tipo de vehículo le interesa? Respuestas = SUV, Compact, Truck, etc.).</td>
  </tr>
  <tr>
-  <td><strong>Documento</strong></td>
+  <td style="width:25%"><strong>Documento</strong></td>
   <td>Permite incrustar documentos del PDF en los cuadros de diálogo y realizar un seguimiento de la actividad de participación de los visitantes en los documentos (cuántas páginas se vieron, si se descargó el documento o los términos de búsqueda utilizados).</td>
  </tr>
  <tr>
-  <td><strong>Captura de información</strong></td>
+  <td style="width:25%"><strong>Captura de información</strong></td>
   <td>Utilícelo cuando desee recopilar información (por ejemplo, nombre, dirección de correo electrónico, cargo, etc.). Después de elegir a qué campo atribuir su respuesta, puede elegir entre dejar que el visitante escriba su respuesta o seleccionar opciones de una lista de selección que determine (sugerencia: esta última puede ayudar con la limpieza de la base de datos). También puede sobrescribir con su respuesta los datos que tenga actualmente enumerados para ellos, o bien, omitir la pregunta por completo si ya tiene un valor para ellos.</td>
  </tr>
  <tr>
-  <td><strong>Convocatoria de reunión</strong></td>
+  <td style="width:25%"><strong>Convocatoria de reunión</strong></td>
   <td>Proporciona al visitante un calendario de fechas disponibles para programar una reunión. Elija la disponibilidad del calendario mediante round robin, un agente específico o mediante reglas personalizadas. Clic <b>Añadir atributo</b> si desea capturar el nombre o la dirección de correo electrónico del agente y asignarlo al registro de persona del visitante del chat para futuras consultas (sugerencia: cree un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para asignar la información del agente a para no sobrescribir un campo de Marketo Engage estándar).</td>
  </tr>
  <tr>
-  <td><strong>Objetivo</strong></td>
+  <td style="width:25%"><strong>Objetivo</strong></td>
   <td>Esta es la única tarjeta que los visitantes no verán. Le corresponde a usted determinar en qué momento se logra un objetivo dentro del chat específico (por ejemplo, si su objetivo es recopilar el correo electrónico del visitante, coloque la tarjeta Objetivo inmediatamente después de la captura de información en el flujo).</td>
  </tr>
  <tr>
-  <td><strong>Acción</strong></td>
+  <td style="width:25%"><strong>Acción</strong></td>
   <td>Al igual que los campos ocultos en un formulario, con la tarjeta de acción puede rellenar cualquier atributo de posible cliente o compañía (que tenga un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de datos de cadena</a>) con valores implícitos que desea capturar con un registro de posibles clientes. Puede añadir la tarjeta de acción en cualquier momento de la conversación y actualizar los atributos respectivos con un valor o tokens nativos que rellenen automáticamente el valor respectivo.</td>
  </tr>
  <tr>
-  <td><strong>Chat en directo</strong></td>
+  <td style="width:25%"><strong>Chat en directo</strong></td>
   <td>Utilice la tarjeta de chat en vivo cuando desee que los visitantes chateen con un agente en vivo.
   <li>La tarjeta de chat en vivo debe ser la última tarjeta de la sucursal.</li>
   <li>Los visitantes se dirigirán a un agente en cuanto lleguen a esta tarjeta en el flujo, por lo que se recomienda preceder esta tarjeta con una tarjeta de preguntas que pregunte a los visitantes si desean chatear con un agente en directo.</li></td>
@@ -66,23 +66,23 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Aumenta el tamaño, creando tarjetas más grandes</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Aleja, crea tarjetas más pequeñas</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Abre una ventana para que usted pruebe su chat (presione el mismo botón para cerrar)</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Permite buscar tipos de tarjeta o contenido dentro del flujo</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Organiza todas las tarjetas del flujo</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    <table>
     <tr>
-     <td><strong>Tipo</strong></td>
+     <td style="width:30%"><strong>Tipo</strong></td>
      <td>El tipo de información que desea capturar: teléfono, texto, correo electrónico.</td>
     </tr>
     <tr>
-     <td><strong>Mensaje de chatbot</strong></td>
+     <td style="width:30%"><strong>Mensaje de chatbot</strong></td>
      <td>El mensaje que ve el visitante pidiéndole que proporcione la información.</td>
     </tr>
     <tr>
-     <td><strong>Marcador de posición</strong></td>
+     <td style="width:30%"><strong>Marcador de posición</strong></td>
      <td>Texto de muestra que ayuda al visitante a ver qué debe introducir.</td>
     </tr>
     <tr>
-     <td><strong>Asignar respuesta al atributo</strong></td>
+     <td style="width:30%"><strong>Asignar respuesta al atributo</strong></td>
      <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro de persona en su suscripción a Marketo.</td>
     </tr>
    </table>
@@ -210,4 +210,4 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 >
 >* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
 >* [Criterios de audiencia](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [API de inserción de Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [API de incrustación de Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
