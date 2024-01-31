@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ A continuación, se muestran tres secciones del estado al administrador.
 * **Activación y migración de usuarios**: migración de usuarios y estado de activación (migración y asignación de derechos al producto de Marketo Engage) de los usuarios incluidos en la suscripción.
 * **Confirmación de migración**: estado de finalización de la migración de la suscripción.
 
-**Verificación de correo electrónico del usuario**
+#### Verificación de correo electrónico del usuario {#user-email-verification}
 
 En la sección Verificación por correo electrónico del usuario, un administrador puede encontrar el estado actual de la verificación por correo electrónico de los usuarios de la suscripción, antes de la migración a la identidad de Adobe.
 
@@ -87,13 +87,13 @@ El correo electrónico de verificación lo puede reenviar un administrador en la
 >
 >Si un usuario Marketo Engage no comprueba su dirección de correo electrónico, no puede migrarse a una Adobe ID y perderá el acceso a la suscripción de Marketo una vez completada la migración. Para recuperar el acceso, un administrador de productos de Marketo tendría que agregarlos como un nuevo usuario.
 
-**Activación y migración de usuarios**
+#### Activación y migración de usuarios {#user-migration-and-activation}
 
 En la sección Activación y migración de usuarios, un administrador puede encontrar el estado actual de la migración total de usuarios y las autorizaciones para el sistema Identity Management de Adobe.
 
 Un administrador puede ver el porcentaje de usuarios de su suscripción que se han migrado a un Adobe ID o marcado como Omitido. Se informará del estado una vez que todos los usuarios hayan migrado su estado a una Adobe ID incluida en la suscripción o se marcará como Omitido y no se migrará. A medida que los usuarios se migran y tienen derecho a un Marketo Engage, o se omiten, este estado se actualiza.
 
-**Confirmación de migración**
+#### Confirmación de migración {#migration-confirmation}
 
 En la sección Confirmación de migración, se solicitará a un administrador que confirme que se ha completado la migración de usuarios para la suscripción.
 
