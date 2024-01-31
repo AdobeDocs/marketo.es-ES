@@ -4,24 +4,25 @@ description: Configuración de la asignación de organizaciones de Adobe - Docum
 title: Configurar asignación de organización de Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Configurar asignación de organización de Adobe {#set-up-adobe-organization-mapping}
 
-Para sincronizarse con aplicaciones de Adobe, como Audience Manager, el conector de Marketo B2B CDP, [!DNL Dynamic Chat], etc., primero debe introducir las credenciales de la organización IMS de Adobe en Marketo.
+Para sincronizarse con aplicaciones de Adobe, como Audience Manager, el conector de Marketo B2B CDP, [!DNL Dynamic Chat], etc., primero debe introducir las credenciales de la organización IMS de Adobe en Marketo Engage.
 
 >[!NOTE]
 >
->Una implementación compatible con HIPAA de una instancia de Marketo no puede utilizar esta integración.
+>* Una implementación compatible con HIPAA de una instancia de Marketo no puede utilizar esta integración.
+>* Para que la integración funcione, Marketo y las demás aplicaciones de Adobe deben estar en la misma organización.
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Para los clientes incorporados a Adobe Business Platform y Identity Management System, el ID de organización asociado con la suscripción ya se rellenará y es un campo de solo lectura.
+>Para los que se hayan incorporado a Adobe Business Platform y Identity Management System, el ID de organización asociado a la suscripción ya se rellenará y es un campo de solo lectura. Como tal, los pasos de este artículo no se aplicarían.
 
 1. En Marketo, haga clic en **[!UICONTROL Administrador]**.
 
