@@ -1,13 +1,11 @@
 ---
 description: 'Migración a la identidad de Adobe: documentos de Marketo, documentación del producto'
 title: Migración a la identidad de Adobe
-hide: true
-hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
+source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
 workflow-type: tm+mt
-source-wordcount: '2249'
+source-wordcount: '2253'
 ht-degree: 0%
 
 ---
@@ -171,7 +169,7 @@ Para anular la omisión de un usuario, el administrador puede seleccionar el usu
 
 Para aquellos que desean un mayor control durante el proceso de migración de usuarios, Marketo admite el enfoque de autoservicio para suscripciones con 75 usuarios o más. Los administradores de productos de Marketo podrán seleccionar usuarios para migrar en lotes o todos los usuarios aptos a la vez. Una vez seleccionados los usuarios, los administradores tienen la opción de &quot;Migrar ahora&quot; o &quot;Programar migración&quot; para una fecha posterior, lo que proporciona a los administradores flexibilidad y control sobre qué usuarios se migran y cuándo. Los administradores también tienen la opción de &quot;Migrar todos los usuarios&quot; en una suscripción.
 
-Por ejemplo, un administrador podría seleccionar un grupo de &quot;usuarios avanzados&quot; que deseara migrar primero. Una vez que esas migraciones de usuarios se hayan completado correctamente, podrían seleccionar diferentes grupos en función de variables como espacio de trabajo/función/función empresarial para realizar más migraciones de usuarios por lotes de. O bien, podrían decidir migrar al resto de los usuarios en las suscripciones después del éxito del primer lote. El objetivo es proporcionar la mayor flexibilidad a la hora de implementar ID de Adobe para los usuarios.
+Por ejemplo, un administrador puede seleccionar el grupo de &quot;usuarios avanzados&quot; que desea migrar en primer lugar. Una vez que esas migraciones de usuarios se completan correctamente, pueden seleccionar diferentes grupos de usuarios en función de variables como espacio de trabajo/empresa o función/función para realizar más migraciones de usuarios por lotes de. O bien, pueden decidir migrar al resto de los usuarios en las suscripciones después del éxito del primer lote. El objetivo es proporcionar la mayor flexibilidad a la hora de implementar ID de Adobe para los usuarios.
 
 Todas las migraciones de usuarios se producen simultáneamente y deben completarse correctamente en un plazo de sesenta segundos. Mientras se produce la migración de un usuario para un usuario específico, el usuario puede perder el acceso durante un máximo de 1 minuto, y eso solo si el usuario ha iniciado sesión en la aplicación. Una vez completada la migración de usuarios, el usuario recibirá un correo electrónico sobre cómo iniciar sesión en el Marketo Engage con una identidad de Adobe. El usuario debe aceptar la invitación mediante el vínculo de botón del correo electrónico. Después de aceptar la invitación, el usuario debe iniciar sesión con un Adobe ID. Instrucciones sobre cómo iniciar sesión en Marketo Engage con un Adobe ID [se puede encontrar aquí](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
