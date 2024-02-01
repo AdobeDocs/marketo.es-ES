@@ -4,24 +4,28 @@ description: Cambio de la URL de la página de aterrizaje - Documentos de Market
 title: Cambio de la dirección URL de la página de aterrizaje
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Cambio de la dirección URL de la página de aterrizaje {#change-the-landing-page-url}
 
-Puede modificar la dirección URL de una página de aterrizaje. Esto puede ayudar a que la URL sea más fácil de recordar y a mejorar la SEO.
+Puede modificar la dirección URL de una página de aterrizaje. Esto puede ayudar a que la URL sea más fácil de recordar y mejorar la SEO.
 
-1. Seleccione la página de aterrizaje. Haga clic en **Acciones de página de aterrizaje** desplegable, desplazarse a **Herramientas de URL** y seleccione **Editar configuración de URL**.
+1. Busque y seleccione la página de aterrizaje que desee.
 
-   ![](assets/one.png)
+   ![](assets/change-the-landing-page-url-1.png)
+
+1. Haga clic en **Acciones de página de aterrizaje** desplegable, desplazarse a **Herramientas de URL** y seleccione **Configuración de URL**.
+
+   ![](assets/change-the-landing-page-url-2.png)
 
 1. Introduzca el **Nueva URL**, elija que se descarte o redirija la URL antigua y haga clic en **Guardar**.
 
-   ![](assets/two.png)
+   ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
