@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1674'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Vuelva a utilizar las salas de Adobe Connect si va a volver a enviar el mismo contenido más tarde. Vaya a **Borrar contenido de los pods** en el menú Paquetes para borrar el historial de conversaciones y los resultados de las encuestas/pruebas de la última sesión. Esto simplemente borra el contenido de la sala. Todos los datos de sesiones anteriores seguirán estando disponibles en Marketo Engage.
 
-* Evite programar sesiones consecutivas. Asegúrese de tener al menos 30 minutos de tiempo de preparación antes del inicio del seminario web. Esto le permitirá cargar cualquier cambio en las presentaciones de última hora, ajustar el micrófono y la cámara, y hacer que los nuevos presentadores se sientan cómodos con la interfaz.
+* Evite programar sesiones consecutivas. Asegúrese de tener al menos 30 minutos de tiempo de preparación antes del inicio del seminario web. Esto le permitirá cargar cualquier cambio de presentación de última hora, ajustar el micrófono y la cámara y hacer que los nuevos presentadores se sientan cómodos con la interfaz.
 
 * Asigne funciones a los integrantes del equipo. Agréguelos como Co-hosts y Presentadores. Los anfitriones y los moderadores pueden entrar en la sala antes que los participantes.
 
@@ -38,9 +38,9 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Diseñe el formulario de registro una vez e intente reutilizarlo en los seminarios web para mantener la coherencia de la descripción.
 
-* Envíe correos electrónicos a su audiencia objetivo. El correo electrónico debe resaltar brevemente la propuesta de valor clave para ellos. Utilice tokens relevantes para almacenar los detalles del evento y así poder reutilizarlo en varias campañas de correo electrónico. Utilice tokens de calendario para la fecha y la hora del evento, y comparta el seminario web Unirse a la URL después del registro.
+* Envíe correos electrónicos a su audiencia objetivo. El correo electrónico debe resaltar brevemente la propuesta de valor clave. Utilice tokens relevantes para almacenar los detalles del evento y así poder reutilizarlo en varias campañas de correo electrónico. Utilice tokens de calendario para la fecha y la hora del evento, y comparta el seminario web Unirse a la URL después del registro.
 
-* Configure los correos electrónicos de invitación de seguimiento. Experimente con el asunto del correo electrónico (por ejemplo, &quot;No se pierda&quot; o &quot;Los puestos se están llenando&quot;).
+* Configure los correos electrónicos de invitación de seguimiento. Experimente con la línea de asunto del correo electrónico (por ejemplo, &quot;No se pierda&quot; o &quot;Los puestos se están llenando&quot;).
 
 * Utilice su sitio web/blog, medios sociales, publicidad de pago y promociones de socios para llegar a una audiencia más amplia y fomentar los registros.
 
@@ -48,37 +48,38 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 ### Diseño de una sala {#designing-a-room}
 
-· Crear un diseño de &quot;lobby&quot; que los participantes vean al entrar al evento antes del inicio. Utilice este &quot;grupo de presión&quot; para proporcionar a los participantes información relevante, como garantías de marketing. Haz que tu audiencia se involucre con juegos rompehielos o charlando con compañeros. Reproduce una música de fondo adecuada y evita el silencio llamativo. Las encuestas y el chat se pueden usar para recopilar más datos sobre los participantes, como su demografía, las expectativas de la sesión.
+* Cree un diseño de &quot;vestíbulo&quot; que los participantes vean al entrar en el evento antes de su inicio. Utilice este grupo de presión para proporcionar a los participantes información relevante, como garantías de marketing. Haz que tu audiencia se involucre con juegos rompehielos o charlando con compañeros. Reproduce una música de fondo adecuada para evitar un silencio llamativo. Las encuestas y el chat se pueden usar para recopilar más datos sobre los participantes, como su demografía o las expectativas de la sesión.
 
-· Use diseños para estructurar y agregar movimiento a una sesión. Por ejemplo, una sala puede tener estos diseños: vestíbulo, agenda e introducción al orador, presentación con un solo orador, discusiones de panel, desgloses, preguntas y respuestas, resumen.
+* Utilice diseños para estructurar y añadir movimiento a una sesión. Por ejemplo, una sala puede tener estos diseños: vestíbulo, agenda e introducción al orador, presentación con un solo orador, discusiones de panel, desgloses, preguntas y respuestas, resumen.
 
-· Planifique las interacciones para aumentar la participación. Las encuestas, las preguntas y respuestas, el chat y las pruebas pueden ayudar a aumentar la participación y, al mismo tiempo, generar datos de origen.
+* Planifique las interacciones para aumentar la participación. Las encuestas, las preguntas y respuestas, el chat y las pruebas pueden ayudar a aumentar la participación y, al mismo tiempo, generar datos de origen.
 
-· Si espera una gran participación, puede ser útil que algunos co-anfitriones asuman la responsabilidad de responder preguntas en el pod de preguntas y respuestas. Incluso puede asignar diferentes áreas temáticas para co-hosts específicos, si es necesario.
+* Si espera una gran participación, puede ser útil que algunos co-anfitriones se encarguen de responder preguntas en el pod de preguntas y respuestas. Incluso puede asignar diferentes áreas temáticas para co-hosts específicos, si es necesario.
 
-· Cargue contenido en un Share Pod en lugar de compartir la pantalla, siempre que sea posible. Los tipos de archivo compatibles que se pueden compartir y presentar en un Share Pod incluyen PPT, PPTX, PDF, MP3, MP4, JPG, PNG, POD (para pods personalizados) y paquetes comprimidos (ZIP) que contienen contenido válido. El contenido persistirá dentro de la sala y estará disponible de inmediato. Esto también reducirá el ancho de banda de Internet necesario para compartir la pantalla.
+* Cuando sea posible, cargue contenido en un compartimiento de Pod en lugar de en una pantalla compartida. Los tipos de archivo compatibles que se pueden compartir y presentar en un Share Pod incluyen: PPT, PPTX, PDF, MP3, MP4, JPG, PNG, POD (para pods personalizados) y paquetes comprimidos (ZIP) que contienen contenido válido. El contenido persistirá dentro de la sala y estará fácilmente disponible. Esto también reducirá el ancho de banda de Internet necesario para compartir la pantalla.
 
-· Si prevé más de 100 participantes, considere la posibilidad de cambiar de un cuadro de diálogo abierto (pod de chat) a uno moderado (pod de preguntas y respuestas). Con audiencias más grandes, una charla animada puede ser difícil de monitorizar para un anfitrión.
+* Si prevé más de 100 participantes, considere la posibilidad de cambiar de un cuadro de diálogo abierto (pod de chat) a uno moderado (pod de preguntas y respuestas). Con audiencias más grandes, una charla animada puede ser difícil de monitorizar para un anfitrión.
 
-· Agregue un pod de archivos en el último diseño para compartir cualquier archivo (como folletos, documentos técnicos) que desee que descarguen los participantes.
+* Agregue un pod de archivos en el último diseño para compartir los archivos (por ejemplo, folletos, documentos técnicos) que desee que descarguen los participantes.
 
-· Use el pod de enlaces web para compartir cualquier URL con los participantes. También puede insertar estos vínculos a los asistentes para que los inicien en un explorador para todos. Esto puede resultar útil si desea iniciar una encuesta de comentarios, una suscripción de prueba del producto o un formulario de registro para el siguiente evento hacia el final de una sesión.
+* Utilice un pod de vínculos web para compartir cualquier dirección URL con los participantes. También puede insertar estos vínculos a los asistentes para que los inicien en un explorador para todos. Esto puede resultar útil si desea iniciar una encuesta de comentarios, una suscripción de prueba del producto o un formulario de registro para el siguiente evento hacia el final de una sesión.
 
-· Establece un fondo de habitación desde las Preferencias de habitación para añadir una personalidad a tu habitación. Este puede ser un fondo de pantalla con el logotipo de su marca. Utilice las opciones de alineación para alinear el logotipo con una esquina.
+* Defina un fondo de habitación en Preferencias de habitación para añadir personalidad a su habitación. Esto puede ser papel tapiz con el logotipo de su marca. Utilice las opciones de alineación para alinear el logotipo con una esquina.
 
-· Active el recordatorio de grabación desde las Preferencias de la sala si desea grabar la sesión. El recordatorio se mostrará 5 minutos después de la reunión si no se ha iniciado la grabación.
+* Active el recordatorio de grabación en las Preferencias de sala si desea grabar la sesión. El recordatorio se mostrará 5 minutos después de la reunión si no se ha iniciado la grabación.
 
-· Habilite el área de Host y Presenter y configúrela con pods relevantes. Esta área solo está visible para los presentadores y los anfitriones, y se puede usar para colaborar entre bastidores. Algunos pods que se pueden incluir aquí serían: o Tablero de participación para monitorizar la participación de los participantes en tiempo real. Haga clic aquí para ver un breve vídeo sobre cómo utilizar el panel de participación.
+* Habilite el área Host y presentador y configúrela con los pods correspondientes. Esta área solo es visible para los anfitriones y presentadores y se puede usar para colaborar entre bastidores. Algunos pods para incluir aquí serían:
+   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk) para ver un breve vídeo sobre cómo utilizar el panel de participación.
+   * Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
+   * Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
 
-o Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
+DETUVO LA EDICIÓN AQUÍ
 
-o Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
-
-· Los pods personalizados son aplicaciones de terceros que pueden utilizarse para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar desde apps.adobeconnect.com como archivos .pod o .zip, que luego se pueden compartir en el pod Compartir.
+* Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar desde apps.adobeconnect.com como archivos .pod o .zip, que luego se pueden compartir en el pod Compartir.
 
 Algunos pods personalizados populares son Countdown Timer, Reloj, Piedra Papel Tijeras, Nube de Palabras, Titulador. o Haga clic aquí para ver un breve vídeo sobre cómo utilizar pods personalizados.
 
-· Privacidad: Para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:
+* Privacidad: para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:
 
 o Ticker de actividades: el Ticker de actividades muestra información sobre quién está hablando en este momento y alerta sobre los asistentes que se unen o abandonan la sala. El marcador de actividad se puede eliminar desmarcando &quot;Mostrar marcador de actividad&quot; en la sección &quot;Barra de menú&quot; en las Preferencias de sala.
 
@@ -92,30 +93,30 @@ o Pod de asistentes: mueva el pod de asistentes al área de Host y Presenter.
 
 B. Entrega
 
-· Realice algunas pruebas en seco para probar la configuración de audio y vídeo y familiarizarse con Adobe Connect si nunca lo ha utilizado antes. No olvide incluir a sus presentadores y co-anfitriones también cuando ensaye.
+* Realice algunas pruebas en seco para probar la configuración de audio y vídeo y familiarizarse con Adobe Connect si nunca lo ha utilizado antes. No olvide incluir a sus presentadores y co-anfitriones también cuando ensaye.
 
-· Pida a los anfitriones y presentadores que lleguen al menos 30 minutos antes de la hora de inicio y asegúrese de que todo funciona correctamente y cualquier coordinación final.
+* Pida a los presentadores y anfitriones que lleguen al menos 30 minutos antes de la hora de inicio y asegúrese de que todo funciona correctamente y de que la coordinación final es la correcta.
 
 o Decida quién moderará los pods de preguntas y respuestas y charlas.
 
 o Rellene los pods de preguntas y respuestas y chat con cualquier pregunta o chat inicial.
 
-· Tener los programas que está compartiendo pantalla abiertos a la ventana apropiada y listos para mostrar - evite iniciar e iniciar sesión en los programas mientras comparte pantalla.
+* Tenga los programas que está compartiendo en pantalla abiertos a la ventana adecuada y listos para mostrarlos. Evite iniciar e iniciar sesión en los programas mientras comparte la pantalla.
 
-· Los participantes pueden entrar a la sala 15 minutos antes del inicio programado. Cambie al diseño del vestíbulo 15 minutos antes del inicio programado para los participantes que llegan temprano. · Utilice el área de presentador y anfitrión como un área de backstage para coordinar en privado. Haga clic aquí para ver un breve vídeo sobre el área Host y Presenter. · Utilice el modo de preparación para realizar cualquier cambio de última hora de forma privada. Haga clic aquí para ver un breve vídeo sobre el modo de preparación.
+* Los participantes pueden entrar a la sala 15 minutos antes del inicio programado. Cambie al diseño del vestíbulo 15 minutos antes del inicio programado para los participantes que llegan temprano. · Utilice el área de presentador y anfitrión como un área de backstage para coordinar en privado. Haga clic aquí para ver un breve vídeo sobre el área Host y Presenter. · Utilice el modo de preparación para realizar cualquier cambio de última hora de forma privada. Haga clic aquí para ver un breve vídeo sobre el modo de preparación.
 
-· Utilice el Tablero de Participación para mantener una pestaña en los niveles de interés de los participantes. Vaya a una encuesta, haga una pregunta de acuerdo o en desacuerdo, envíe una pregunta en el pod de chat o utilice el pod personalizado de Word Cloud para obtener respuestas de los participantes y aumentar los niveles de participación.
+* Utilice el panel de control de participación para mantener una pestaña en los niveles de interés de los participantes. Vaya a una encuesta, haga una pregunta de acuerdo o en desacuerdo, envíe una pregunta en el pod de chat o utilice el pod personalizado de Word Cloud para obtener respuestas de los participantes y aumentar los niveles de participación.
 
-· Mantenga una pestaña en el chat del presentador (Pod de chat en el área de anfitrión y presentador) para coordinar continuamente con su equipo.
+* Mantenga una pestaña en el chat del moderador (Pod de chat en el área de presentador y anfitrión) para coordinar continuamente con su equipo.
 
 C. Entrega posterior - Nilesh
 
-· Una vez entregado el seminario web, los datos de participación junto con la grabación estarán disponibles en Marketo generalmente en un plazo de 1 a 2 horas. Valide la grabación y confirme si la salida completa de vídeo del seminario web se ha capturado correctamente para que se pueda utilizar la misma para compartirla con la audiencia, así como para rastrear los datos del seminario web bajo demanda.
+* Una vez entregado el seminario web, los datos de participación junto con la grabación se pondrán a disposición de Marketo generalmente en un plazo de 1 a 2 horas. Valide la grabación y confirme si la salida completa de vídeo del seminario web se ha capturado correctamente para que se pueda utilizar la misma para compartirla con la audiencia, así como para rastrear los datos del seminario web bajo demanda.
 
-· Cree campañas de nutrición para calificar aún más a los posibles clientes asistentes en función de su participación mediante los filtros y déclencheur de los seminarios web interactivos y haga campañas de agradecimiento por haberle perdido para proporcionar más información sobre el evento, el vínculo de registro, las estadísticas del evento y los eventos futuros para instar a los no espectadores a volver a conectarse con la organización. Las actividades para no-shows que visitan la grabación pueden ser rastreadas como parte de los seminarios web bajo demanda y se pueden crear más campañas de nutrición para no-shows a través de filtros y déclencheur de seminarios web bajo demanda.
+* Cree campañas de nutrición para mejorar la calificación de los posibles clientes asistentes en función de su participación mediante los filtros y déclencheur de los seminarios web interactivos y haga campañas de agradecimiento por haberle perdido para proporcionar más información sobre el evento, el vínculo de registro, las estadísticas del evento y los eventos futuros para instar a los no asistentes a volver a conectarse con la organización. Las actividades para no-shows que visitan la grabación pueden ser rastreadas como parte de los seminarios web bajo demanda y se pueden crear más campañas de nutrición para no-shows a través de filtros y déclencheur de seminarios web bajo demanda.
 
-· Utilice los datos del registro de actividades de cada miembro en la ficha Miembros para ver las actividades de participación realizadas por los distintos asistentes durante el seminario web.
+* Utilice los datos del registro de actividad de cada miembro en la pestaña Miembros para ver las actividades de participación realizadas por los distintos asistentes durante el seminario web.
 
-· Descargue la grabación y publíquela en varias páginas de aterrizaje, micrositios o portales para un mayor alcance de la audiencia.
+* Descargue la grabación y publíquela en varias páginas de aterrizaje, micrositios o portales para un mayor alcance de audiencia.
 
-· Utilice el tablero para obtener una vista agregada del rendimiento del seminario web en términos de estado del programa, distribución de asistencia, respuestas de encuestas, descargas de archivos y clics en vínculos. Identifique las áreas positivas y de mejora durante el seminario web y asegúrese de que las lecciones se puedan utilizar en el próximo seminario web que se realice.
+* Utilice el tablero para obtener una vista agregada del rendimiento del seminario web en términos de estado del programa, distribución de asistencia, respuestas de encuestas, descargas de archivos y clics en vínculos. Identifique las áreas positivas y de mejora durante el seminario web y asegúrese de que las lecciones se puedan utilizar en el próximo seminario web que se realice.
