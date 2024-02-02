@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
+source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -69,54 +69,54 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 * Active el recordatorio de grabación en las Preferencias de sala si desea grabar la sesión. El recordatorio se mostrará 5 minutos después de la reunión si no se ha iniciado la grabación.
 
 * Habilite el área Host y presentador y configúrela con los pods correspondientes. Esta área solo es visible para los anfitriones y presentadores y se puede usar para colaborar entre bastidores. Algunos pods para incluir aquí serían:
-   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk) para ver un breve vídeo sobre cómo utilizar el panel de participación.
+   * Tablero de participación para supervisar la participación de los participantes en tiempo real. [Haga clic aquí](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para ver un breve vídeo sobre cómo utilizar el panel de participación.
    * Pod de chat para permitir conversaciones privadas entre los miembros del equipo de presentación.
    * Pod de notas para publicar mensajes de recordatorio, preguntas para el moderador o respuestas a preguntas estándar que puede copiar y pegar para obtener respuestas rápidas a consultas comunes.
 
-DETUVO LA EDICIÓN AQUÍ
+* Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar desde `apps.adobeconnect.com` como archivos .pod o .zip, que luego se pueden compartir en el pod Compartir.
+   * Algunos pods personalizados populares son Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
+   * Haga clic aquí para ver un breve vídeo sobre cómo utilizar pods personalizados.
 
-* Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar desde apps.adobeconnect.com como archivos .pod o .zip, que luego se pueden compartir en el pod Compartir.
+**Privacidad: para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:**
 
-Algunos pods personalizados populares son Countdown Timer, Reloj, Piedra Papel Tijeras, Nube de Palabras, Titulador. o Haga clic aquí para ver un breve vídeo sobre cómo utilizar pods personalizados.
+* **Ticker de actividades**: el marcador de actividad muestra información sobre quién está hablando en este momento y alerta cuando los asistentes se unen o abandonan la sala. El marcador de actividad se puede eliminar desmarcando &quot;Mostrar marcador de actividad&quot; en la sección &quot;Barra de menú&quot; en las Preferencias de sala.
 
-* Privacidad: para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:
+* **Pod de preguntas y respuestas**: El nombre del participante que envió la pregunta y el nombre del anfitrión/presentador que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
 
-o Ticker de actividades: el Ticker de actividades muestra información sobre quién está hablando en este momento y alerta sobre los asistentes que se unen o abandonan la sala. El marcador de actividad se puede eliminar desmarcando &quot;Mostrar marcador de actividad&quot; en la sección &quot;Barra de menú&quot; en las Preferencias de sala.
+* **Panel de chat**: el panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. [Haga clic aquí](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para obtener más información sobre el uso del Panel de chat.
 
-o Pod de preguntas y respuestas: el nombre del participante que envió la pregunta y el nombre del anfitrión/presentador que respondió pueden estar ocultos. Esto se puede lograr desmarcando las opciones de privacidad en la sección &quot;Pod de preguntas y respuestas&quot; en las Preferencias de la sala.
+* **Chat privado**: desactive el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir a los participantes chatear en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
 
-o Panel de chat: el Panel de chat es un área de chat que no forma parte de las grabaciones de la sesión. Por lo tanto, si no desea que los chats aparezcan en las grabaciones, utilice el Panel de chat en lugar de Pod de chat. Haga clic aquí para obtener más información sobre el uso del Panel de chat.
+* **Pod de asistentes**: mueva el pod Asistentes al área Host y Presenter.
 
-o Chat privado: desactiva el chat privado para evitar que los participantes puedan hacer ping a otro participante. Esto se puede lograr desmarcando &quot;Permitir que los participantes chateen en privado&quot; en la sección &quot;Chat&quot; en las Preferencias de la sala.
+## envío {#delivery}
 
-o Pod de asistentes: mueva el pod de asistentes al área de Host y Presenter.
+* Realice algunas pruebas en seco para probar la configuración de audio/vídeo y familiarizarse con Adobe Connect si no lo ha utilizado antes. No olvide incluir a sus presentadores y co-anfitriones también cuando ensaye.
 
-B. Entrega
+* Pida a los presentadores y anfitriones que lleguen al menos 30 minutos antes de la hora de inicio y asegúrese de que todo funciona correctamente.
+   * Decida quién moderará los pods de preguntas y respuestas y chat.
+   * Rellene los pods de preguntas y respuestas y chat con cualquier pregunta o chat inicial.
 
-* Realice algunas pruebas en seco para probar la configuración de audio y vídeo y familiarizarse con Adobe Connect si nunca lo ha utilizado antes. No olvide incluir a sus presentadores y co-anfitriones también cuando ensaye.
+* Tenga los programas que está compartiendo pantalla abiertos a la ventana adecuada y listos para mostrarlos. Evite iniciar e iniciar sesión en programas mientras comparte la pantalla.
 
-* Pida a los presentadores y anfitriones que lleguen al menos 30 minutos antes de la hora de inicio y asegúrese de que todo funciona correctamente y de que la coordinación final es la correcta.
+* Los participantes pueden entrar a la sala 15 minutos antes del inicio programado. Cambie al diseño del vestíbulo 15 minutos antes del inicio programado para los participantes que llegan temprano.
 
-o Decida quién moderará los pods de preguntas y respuestas y charlas.
+* Utilice el área de host y presentador como área de backstage para coordinarse de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para ver un breve vídeo en el área Host y Presenter.
 
-o Rellene los pods de preguntas y respuestas y chat con cualquier pregunta o chat inicial.
-
-* Tenga los programas que está compartiendo en pantalla abiertos a la ventana adecuada y listos para mostrarlos. Evite iniciar e iniciar sesión en los programas mientras comparte la pantalla.
-
-* Los participantes pueden entrar a la sala 15 minutos antes del inicio programado. Cambie al diseño del vestíbulo 15 minutos antes del inicio programado para los participantes que llegan temprano. · Utilice el área de presentador y anfitrión como un área de backstage para coordinar en privado. Haga clic aquí para ver un breve vídeo sobre el área Host y Presenter. · Utilice el modo de preparación para realizar cualquier cambio de última hora de forma privada. Haga clic aquí para ver un breve vídeo sobre el modo de preparación.
+* Utilice el modo de preparación para realizar cualquier cambio de último minuto de forma privada. [Haga clic aquí](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para ver un breve vídeo sobre el modo de preparación.
 
 * Utilice el panel de control de participación para mantener una pestaña en los niveles de interés de los participantes. Vaya a una encuesta, haga una pregunta de acuerdo o en desacuerdo, envíe una pregunta en el pod de chat o utilice el pod personalizado de Word Cloud para obtener respuestas de los participantes y aumentar los niveles de participación.
 
 * Mantenga una pestaña en el chat del moderador (Pod de chat en el área de presentador y anfitrión) para coordinar continuamente con su equipo.
 
-C. Entrega posterior - Nilesh
+## Posterior a la entrega {#post-delivery}
 
-* Una vez entregado el seminario web, los datos de participación junto con la grabación se pondrán a disposición de Marketo generalmente en un plazo de 1 a 2 horas. Valide la grabación y confirme si la salida completa de vídeo del seminario web se ha capturado correctamente para que se pueda utilizar la misma para compartirla con la audiencia, así como para rastrear los datos del seminario web bajo demanda.
+* Una vez entregado el seminario web, los datos de participación junto con la grabación se pondrán a disposición del Marketo Engage en general en un plazo de 1 a 2 horas. Valide la grabación y confirme si la salida completa de vídeo del seminario web se ha capturado correctamente, de modo que se pueda utilizar la misma para compartirla con la audiencia y rastrear los datos del seminario web bajo demanda.
 
-* Cree campañas de nutrición para mejorar la calificación de los posibles clientes asistentes en función de su participación mediante los filtros y déclencheur de los seminarios web interactivos y haga campañas de agradecimiento por haberle perdido para proporcionar más información sobre el evento, el vínculo de registro, las estadísticas del evento y los eventos futuros para instar a los no asistentes a volver a conectarse con la organización. Las actividades para no-shows que visitan la grabación pueden ser rastreadas como parte de los seminarios web bajo demanda y se pueden crear más campañas de nutrición para no-shows a través de filtros y déclencheur de seminarios web bajo demanda.
+* Cree Campañas de Nutrición para calificar aún más a los posibles clientes asistentes en función de su participación mediante déclencheur/filtros interactivos de seminarios web y tenga campañas de agradecimiento/pérdida para proporcionar más información sobre el evento, el vínculo de grabación, las estadísticas del evento y los eventos futuros para instar a los no asistentes a volver a conectarse con la organización. Las actividades para no-shows que visitan la grabación pueden ser rastreadas como parte de los seminarios web bajo demanda y se pueden crear más campañas de nutrición para no-shows a través de filtros/déclencheur de seminarios web bajo demanda.
 
 * Utilice los datos del registro de actividad de cada miembro en la pestaña Miembros para ver las actividades de participación realizadas por los distintos asistentes durante el seminario web.
 
 * Descargue la grabación y publíquela en varias páginas de aterrizaje, micrositios o portales para un mayor alcance de audiencia.
 
-* Utilice el tablero para obtener una vista agregada del rendimiento del seminario web en términos de estado del programa, distribución de asistencia, respuestas de encuestas, descargas de archivos y clics en vínculos. Identifique las áreas positivas y de mejora durante el seminario web y asegúrese de que las lecciones se puedan utilizar en el próximo seminario web que se realice.
+* Utilice el tablero para obtener una vista agregada del rendimiento del seminario web en términos de estado del programa, distribución de asistencia, respuestas de encuestas, descargas de archivos y clics en vínculos. Identifique las áreas positivas y de mejora durante el seminario web y asegúrese de que las lecciones se puedan utilizar en el siguiente seminario web.
