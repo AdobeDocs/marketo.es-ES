@@ -4,9 +4,9 @@ title: Prácticas recomendadas para seminarios web interactivos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Para ayudar con eso, hemos compilado una lista de prácticas recomendadas que pu
 
 * Los pods personalizados son aplicaciones de terceros que se pueden utilizar para ampliar la funcionalidad de una sala de Adobe Connect. Los pods personalizados se pueden descargar desde `apps.adobeconnect.com` como archivos .pod o .zip, que luego se pueden compartir en el pod Compartir.
    * Algunos pods personalizados populares son Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * Haga clic aquí para ver un breve vídeo sobre cómo utilizar pods personalizados.
+   * [Haga clic aquí](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para ver un breve vídeo sobre cómo utilizar pods personalizados.
 
 **Privacidad: para mantener la confidencialidad de la información de los participantes, compruebe la siguiente configuración:**
 
