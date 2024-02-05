@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 6%
 
 ---
@@ -28,7 +28,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:65%">Función</th> 
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>Seminarios web a petición para seminarios web interactivos</strong>: los seminarios web bajo demanda le permiten publicar la grabación del seminario web, así como rastrear sus visitas/relojes. Esto le ayudará a obtener más posibles clientes a través de los inscritos que no asistieron al seminario web (no se presentaron), pero que siguen interesados en conocer más detalles y ver la grabación.</td> 
@@ -40,8 +39,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>Páginas de aterrizaje de conversación</strong>: incruste un flujo de conversación de Dynamic Chat directamente en una página de aterrizaje de Marketo Engage para que los visitantes puedan programar una reunión a través de Dynamic Chat sin tener que rellenar un formulario ni interactuar con un bot de chat.</td> 
    <td><i>Próximamente</i></td>
@@ -52,8 +49,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>Filtrado de actividad de bots de correo electrónico</strong>: mejora la captura de la actividad de bots para la participación por correo electrónico, lo que le permite elegir lo agresivo que desea que sea el filtrado de identificación de la actividad de bots.</td> 
    <td>Enviado</td>
@@ -63,11 +58,29 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>Actualización API de importación masiva de posibles clientes</strong>: Se ha realizado un ajuste menor en el comportamiento de la API de importación masiva de posibles clientes al <b>id</b> se especifica como <b>lookupField</b> durante la creación del trabajo. Si un registro de persona está vinculado al proporcionado <b>id</b> no se encuentra en la base de datos de Marketo Engage, no se producirá ninguna actualización de registro, ya que no se puede encontrar el registro. El comportamiento actualizado ahora incluye el aumento del recuento en <b>numOfRowsFailed</b> dentro de la respuesta, lo que indica que la operación ha fallado en estos casos.</td> 
+   <td>Enviado</td>
+   <td>n/a</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>Co-hosts para seminarios web interactivos</strong>: los co-hosts de la sección Equipo de seminarios web de los seminarios web interactivos permiten al creador del evento añadir usuarios internos o externos al programa de seminarios web interactivos para compartir las responsabilidades administrativas y de envío.</td> 
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Adición de un equipo de seminario web</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Eliminar un usuario en seminarios web interactivos</strong>: Un administrador de Marketo Engage ahora puede eliminar a un usuario específico en los seminarios web interactivos.</td> 
    <td>Enviado</td>
    <td>n/a</td>
   </tr>

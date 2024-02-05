@@ -3,9 +3,9 @@ description: 'Creación de un seminario web interactivo: documentos de Marketo, 
 title: Crear un seminario web interactivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -50,13 +50,29 @@ Cree un seminario web interactivo en unos sencillos pasos.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Se creará el seminario web interactivo. Puede agregar moderadores o co-hosts.
+Se creará el seminario web interactivo. Ahora tiene la opción de agregar un equipo de seminario web.
 
-![](assets/create-an-interactive-webinar-8.png)
+## Equipo del seminario web {#webinar-team}
+
+Un equipo de seminarios web en seminarios web interactivos consta de todas las funciones que contribuyen al éxito de la entrega del seminario web en Adobe Connect. Esto incluye a presentadores y coanfitriones.
 
 >[!NOTE]
 >
->Los co-hosts y los presentadores pueden ser usuarios externos y no necesitan tener acceso al Marketo Engage. Solo debe proporcionarles la dirección URL del seminario web.
+>Los presentadores y co-presentadores de Marketo se asignan exactamente a las funciones de presentador y co-presentador durante la entrega del seminario web en Adobe Connect.
+
+El presentador es una función externa que participa en la entrega de la experiencia del seminario web, mientras que los coanfitriones pueden actuar como presentadores y gestionar los aspectos administrativos de la entrega del seminario web. Los hosts compartidos pueden ser tanto internos como externos. Los co-hosts externos no tendrán acceso a los programas de eventos de seminarios web interactivos en Marketo, pero tendrán permisos de co-host durante el envío en Adobe Connect. Los co-hosts internos tendrán acceso al programa de eventos de seminarios web interactivos en Marketo, así como permisos de co-host durante la entrega. Esto ayuda a garantizar que los co-anfitriones internos puedan tomar las riendas del programa de evento de seminario web interactivo cuando el creador original del programa de seminario web interactivo ya no forme parte del conjunto de usuarios de los seminarios web interactivos o incluso cuando no sea un usuario de Marketo.
+
+### Adición de un equipo de seminario web {#adding-a-webinar-team}
+
+Para agregar un co-host o presentador, haga clic en **Adición de hosts compartidos** o **Agregar moderadores** en la pantalla Información general.
+
+![](assets/create-an-interactive-webinar-8.png)
+
+Al hacer clic **Agregar moderadores**, se le pedirá que escriba su nombre, apellidos y dirección de correo electrónico. Esta información estará disponible para Adobe Connect durante la entrega del seminario web, por lo que los detalles adecuados se pueden rellenar automáticamente sin que el usuario tenga que introducirlos durante la entrada para la entrega del seminario web. Las direcciones URL de unión se rellenan para todos los moderadores y el creador las puede compartir.
+
+Al hacer clic **Adición de hosts compartidos**, se le pedirá que añada un usuario interno o externo. Si selecciona interno, puede seleccionar el usuario que desee en la lista de todos los usuarios que se han añadido como usuarios de seminarios web interactivos en Marketo Engage. Si selecciona externo, se le pedirá que agregue su nombre, apellidos e ID de correo electrónico (similar al proceso de agregar un moderador). También puede obtener las direcciones URL de unión para que los usuarios internos y externos se compartan con ellos.
+
+Después de agregar un equipo de seminario web, puede hacer clic en el icono Copiar situado junto a cada usuario para copiar (y luego compartir) las URL de unión.
 
 <br>
 
