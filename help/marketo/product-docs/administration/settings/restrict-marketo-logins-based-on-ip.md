@@ -4,9 +4,9 @@ description: 'Restringir los inicios de sesión de Marketo basados en IP: docume
 title: Restringir inicios de sesión de Marketo según la dirección IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Puede restringir o permitir que los usuarios accedan a Marketo en función de su
 >
 >**Permisos de administración necesarios**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->La información de este artículo solo se aplica a los inicios de sesión directos en login.marketo.com. En este momento no es posible aplicar restricciones de IP a los inicios de sesión de inicio de sesión único (SSO).
+>La información de este artículo es para usuarios que inician sesión directamente en login.marketo.com y no se aplica a aquellos que se autentican con Adobe ID. No es posible aplicar restricciones de IP en los inicios de sesión únicos (SSO) en este momento.
 
 1. Vaya a la **[!UICONTROL Administrador]** área.
 
