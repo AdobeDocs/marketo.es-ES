@@ -4,9 +4,9 @@ title: Notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 10%
 
 ---
@@ -41,7 +41,7 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Metadatos de actividad de API</strong>: ahora se incluyen metadatos como agente de usuario, plataforma, explorador y dispositivo en <i>todo</i> actividades basadas en el explorador, lo que ayuda a proporcionar una perspectiva coherente de las actividades basadas en el explorador mediante la API de REST de Marketo.</td> 
+   <td><strong>Metadatos de actividad de API</strong>: los metadatos, como agente de usuario, plataforma y dispositivo, ahora se incluyen en las actividades web y de correo electrónico, lo que ayuda a proporcionar una perspectiva coherente de estas actividades a través de la API de REST de Marketo.</td> 
    <td><i>Próximamente</i></td>
    <td><i>Próximamente</i></td>
   </tr>
