@@ -4,9 +4,9 @@ title: Notas de la versión actual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 10%
 
 ---
@@ -30,6 +30,27 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <th style="width:10%">Estado</th>
    <th style="width:25%">Documentación</th>
   </tr>
+  <tr> 
+   <td><strong>Lógica avanzada de flujo de conversación</strong>: Añada campos adicionales para la evaluación en una sola opción para el seguimiento del flujo de conversación.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Reordenar lógica de flujo de conversación</strong>: en Marketo Engage Forms, ahora puede reordenar las opciones de Flujo de conversación, en lugar de tener que eliminarlas y agregarlas de nuevo.</td> 
+   <td><i>Próximamente</i></td>
+   <td><i>Próximamente</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>Plantillas personalizadas en seminarios web interactivos</strong>: Ahora tiene la capacidad de crear plantillas personalizadas para los diseños de sala en seminarios web interactivos.</td> 
    <td><i>Próximamente</i></td>
@@ -49,42 +70,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
 </table>
 <br/>
 
-## Funciones de versión de Agile {#agile-release-features}
-
-Todas las funciones a continuación siguen un formato Agile y se lanzan en varias fechas antes o después de la fecha de lanzamiento estándar. Compruebe el estado junto a cada función.
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Función</th> 
-   <th style="width:15%">Estado</th>
-   <th style="width:20%">Documentación</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>Lógica avanzada de flujo de conversación</strong>: Añada campos adicionales para la evaluación en una sola opción para el seguimiento del flujo de conversación.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Reordenar lógica de flujo de conversación</strong>: Ahora puede reordenar la lógica en la que se configura la lógica condicional para los flujos de conversación, en lugar de tener que eliminarla y leerla.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## Anuncios {#announcements}
 
-* **Degradación del complemento del explorador de Account Insight**: el Adobe está eliminando el [Complemento del explorador de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) de la Chrome Web Store el 18 de marzo de 2024. Usuarios existentes: puede seguir utilizando el complemento hasta que migre la instancia de Marketo Engage a Identidad de Adobe y Admin Console.
-
-{target="_blank"}
+* **Degradación del complemento del explorador de Account Insight**: el Adobe elimina la administración de cuentas de Target [Complemento del explorador de Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} de la Chrome Web Store el 18 de marzo de 2024. Usuarios existentes: puede seguir utilizando el complemento hasta que migre la instancia de Marketo Engage a Identidad de Adobe y Admin Console.
