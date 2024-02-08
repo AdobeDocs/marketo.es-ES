@@ -4,20 +4,26 @@ title: Agregar un equipo del seminario web
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
+source-git-commit: 0d09fb0bec3b8fb392e503db13c9ab5b265424a5
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 # Agregar un equipo del seminario web {#add-a-webinar-team}
 
+Un equipo de seminarios web en seminarios web interactivos consta de todas las funciones que contribuyen al éxito de la entrega del seminario web en Adobe Connect. Esto incluye a presentadores y coanfitriones.
+
 >[!PREREQUISITES]
 >
 >[Crear un seminario web interactivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
 
-Después de crear el seminario web interactivo, tiene la opción de agregar un copatrocinador o presentador.
+El presentador es una función externa que participa en la entrega de la experiencia del seminario web, mientras que los coanfitriones pueden actuar como presentadores y gestionar los aspectos administrativos de la entrega del seminario web. Los hosts compartidos pueden ser tanto internos como externos. Los co-hosts externos no tendrán acceso a los programas de eventos de seminarios web interactivos en Marketo, pero tendrán permisos de co-host durante el envío en Adobe Connect. Los co-hosts internos tendrán acceso al programa de eventos de seminarios web interactivos en Marketo, así como permisos de co-host durante la entrega. Esto ayuda a garantizar que los co-anfitriones internos puedan tomar las riendas del programa de evento de seminario web interactivo cuando el creador original del programa de seminario web interactivo ya no forme parte del conjunto de usuarios de los seminarios web interactivos o incluso cuando no sea un usuario de Marketo.
+
+>[!NOTE]
+>
+>Los presentadores y co-presentadores de Marketo se asignan exactamente a las funciones de presentador y co-presentador durante la entrega del seminario web en Adobe Connect.
 
 ## Añadir un host compartido {#add-a-co-host}
 
