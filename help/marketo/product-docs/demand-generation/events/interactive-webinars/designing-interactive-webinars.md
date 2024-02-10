@@ -3,9 +3,9 @@ description: 'Diseño de seminarios web interactivos: documentos de Marketo, doc
 title: Diseño de seminarios web interactivos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Aprenda a diseñar un seminario web para adaptarlo a sus necesidades.
 1. Aparecerá la vista previa del seminario web.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >De forma predeterminada, el nombre de la sala indicada en el campo &quot;Nombre de la sala de seminarios web interactivos&quot; es el mismo nombre que el programa de eventos de seminarios web interactivos. Tiene la opción de cambiarlo para reflejar el título del propio seminario web, ya que este nombre es visible para la audiencia.
 
    >[!TIP]
    >
