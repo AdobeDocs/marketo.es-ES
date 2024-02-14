@@ -3,9 +3,9 @@ description: Información general de Live Chat - Documentos de Marketo - Documen
 title: Información general de Live Chat
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ Cuando un chat en vivo se dirige a un agente, verá un banner azul en la parte s
 
 ### Cosas que hay que tener en cuenta {#things-to-note}
 
-* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;
-* Hay un límite de 10 chats en vivo por agente en este momento
+* Los agentes tienen 45 segundos para responder antes de que se agote el tiempo de espera del mensaje &quot;Aceptar chat&quot;. Después, los visitantes recibirán la [mensaje de reserva](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para suscriptores de Dynamic Prime que tienen la opción de enrutamiento configurada como **Equipo**, se intentará con un agente más antes de que aparezca el mensaje de reserva.
+* Hay un límite de 10 chats en vivo por agente en este momento.
 
 >[!MORELIKETHIS]
 >
