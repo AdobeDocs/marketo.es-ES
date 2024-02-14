@@ -1,10 +1,8 @@
 ---
 description: 'Añadir un equipo del seminario web: documentos de Marketo, documentación del producto'
 title: Agregar un equipo del seminario web
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ Un equipo de seminarios web en seminarios web interactivos consta de todas las f
 
 >[!NOTE]
 >
->Los presentadores y co-presentadores de Marketo se asignan exactamente a las funciones de presentador y co-presentador durante la entrega del seminario web en Adobe Connect.
+>Los presentadores y co-anfitriones de Marketo se asignan exactamente a las funciones de presentador y anfitrión durante la entrega del seminario web en Adobe Connect.
 
-El presentador es una función externa que participa en la entrega de la experiencia del seminario web, mientras que los coanfitriones pueden actuar como presentadores y gestionar los aspectos administrativos de la entrega del seminario web. Los hosts compartidos pueden ser tanto internos como externos. Los co-hosts externos no tendrán acceso a los programas de eventos de seminarios web interactivos en Marketo, pero tendrán permisos de co-host durante el envío en Adobe Connect. Los co-hosts internos tendrán acceso al programa de eventos de seminarios web interactivos en Marketo, así como permisos de co-host durante la entrega. Esto ayuda a garantizar que los co-anfitriones internos puedan tomar las riendas del programa de evento de seminario web interactivo cuando el creador original del programa de seminario web interactivo ya no forme parte del conjunto de usuarios de los seminarios web interactivos o incluso cuando no sea un usuario de Marketo.
+El presentador es una función externa que participa en la entrega de la experiencia del seminario web, mientras que los coanfitriones pueden actuar como presentadores y gestionar los aspectos administrativos de la entrega del seminario web. Los hosts compartidos pueden ser tanto internos como externos. Los co-hosts externos no tendrán acceso a los programas de eventos de seminario web interactivo en Marketo, pero tendrán permisos de host durante el envío en Adobe Connect. Los co-hosts internos tendrán acceso al programa de eventos de seminarios web interactivos en Marketo, así como permisos de host durante la entrega. Esto ayuda a garantizar que los co-anfitriones internos puedan tomar las riendas del programa de evento de seminario web interactivo cuando el creador original del programa de seminario web interactivo ya no forme parte del conjunto de usuarios de los seminarios web interactivos o incluso cuando no sea un usuario de Marketo.
 
 >[!PREREQUISITES]
 >

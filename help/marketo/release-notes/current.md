@@ -3,9 +3,9 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '236'
 ht-degree: 10%
 
 ---
@@ -46,16 +46,6 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
    <td><i>Próximamente</i></td>
    </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-    <tr> 
-   <td><strong>Plantillas personalizadas en seminarios web interactivos</strong>: Ahora tiene la capacidad de crear plantillas personalizadas para los diseños de sala en seminarios web interactivos.</td> 
-   <td><i>Próximamente</i></td>
-   <td><i>Próximamente</i></td>
-  </tr>
-   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
