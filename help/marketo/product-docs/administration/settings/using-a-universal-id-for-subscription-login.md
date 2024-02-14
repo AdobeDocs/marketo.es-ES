@@ -4,9 +4,9 @@ description: Uso de un ID universal para el inicio de sesión con suscripción -
 title: Uso de un ID universal para el inicio de sesión con suscripción
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Todas las suscripciones a Marketo incluyen la función de ID universal opcional.
 >
 >Si tiene varios ID de inicio de sesión con suscripción, también puede tener varios perfiles de comunidad. Asegúrese de elegir el ID del ID universal conectado al perfil que desea utilizar y que sea para la instancia de producción, no para la zona protegida.
 
-## Iniciando sesión {#logging-in}
+## Inicio de sesión {#logging-in}
 
 Cuando inicie sesión para aceptar una invitación a una segunda suscripción con un ID universal, verá la página de inicio de sesión de inclusión. En este caso, debe marcar una casilla de verificación para aceptar los términos y condiciones. Después de aceptar, verá la página de restablecimiento normal, no esta, para los inicios de sesión posteriores. Al aceptar los términos y condiciones, permite a Marketo distribuir los datos básicos del perfil (como el nombre, apellidos y dirección de correo electrónico) a los centros de datos de diferentes ubicaciones en las que se aloja la suscripción.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Con un ID universal para varias suscripciones, solo usted puede cambiar la contr
 
 Con un ID universal, puede ver la suscripción en la que ha iniciado sesión y seleccionar otras suscripciones a las que tiene acceso de inicio de sesión. En la mayoría de los casos, puede cambiar entre ellos sin tener que cerrar la sesión y volver a iniciarla.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 Cuando cierra la sesión y vuelve a iniciarla, Marketo inicia sesión automáticamente en la suscripción en la que inició sesión por última vez. A continuación, puede cambiar a una suscripción diferente si es necesario.
 
