@@ -4,9 +4,9 @@ description: Uso de un ID universal para el inicio de sesión con suscripción -
 title: Uso de un ID universal para el inicio de sesión con suscripción
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ Cuando cierra la sesión y vuelve a iniciarla, Marketo inicia sesión automátic
 ## Perfiles de comunidad {#community-profiles}
 
 Si tiene varias suscripciones, puede tener varios perfiles de la comunidad. Le recomendamos que elija el inicio de sesión vinculado a su perfil de comunidad más activo.
-
-## Plataforma móvil {#mobile-platform}
-
-Los usuarios con ID universal pueden ver sus datos en [Momentos de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} desde la suscripción en la que iniciaron sesión por última vez. Las suscripciones no se pueden cambiar desde la propia plataforma móvil.
 
 >[!MORELIKETHIS]
 >

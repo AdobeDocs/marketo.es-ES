@@ -4,10 +4,10 @@ title: NUEVA ÁREA
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 1%
+source-wordcount: '484'
+ht-degree: 4%
 
 ---
 
@@ -64,6 +64,143 @@ Abriendo propaganda
     <td><li>Documente cómo se definen los espacios de trabajo y cómo se relacionan con las particiones de la base de datos (es decir, un espacio de trabajo global que vea a todos, en comparación con los sectores empresariales).</li>
     <li>Importe los registros nuevos a la partición apropiada.</li>
     <li>Defina el valor en CRM que coloca a los usuarios en la partición apropiada.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Configuración de campañas inteligentes {#smart-campaign-settings}
+
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Configuración de campañas inteligentes </td>
+    <td><li>Añadir un <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html">restricción en el tamaño de la campaña inteligente</a>, evitando el envío accidental de toda la base de datos.</li>
+    <li>Habilitar restricciones de persona para campañas inteligentes</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Configuración del correo electrónico {#email-settings}
+
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Valores predeterminados de correo electrónico</td>
+    <td><li>En Dominio de marca, seleccione su dominio y añada su CNAME de correo electrónico. Debe tener el siguiente formato: [EmailTrackingCNAME].[CompanyDomain].com.</li></td>
+  </tr>
+  <tr>
+    <td>SPF/DKIM</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html">Configuración de SPF y DKIM</a> para la entrega de correo electrónico.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Límites de comunicación {#communication-limits}
+
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Límites de comunicación</td>
+    <td><li>Lugar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html">Límites de comunicación</a>.</li>
+    <li>Determine si su empresa requiere una política sobre límites de comunicación.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Etiquetas {tags}
+
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Canales</td>
+    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html">canales</a>.</li></td>
+  </tr>
+  <tr>
+    <td>Etiquetas </td>
+    <td><li>Defina cómo utilizar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html">etiquetas</a>.</li></td>
+  </tr>
+  <tr>
+    <td>Calendario (si procede) </td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html">Puestos del calendario de marketing de problemas</a> para aquellos que necesitan acceso.</li> 
+    <li>Configuración de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html">Calendario</a>.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Administración de bases de datos {#database-management}
+
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Administración de campos</td>
+    <td><li>Implementar la convención de nombres para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">campos personalizados.</a> Por ejemplo, comience por "MKTO".</li>
+    <li>Sea selectivo sobre los campos que sincroniza. Cuantos más campos sincronice, más lento será el ciclo de sincronización.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Bloquear actualizaciones de campos</a> desea que se escriba una vez (es decir, origen del posible cliente original, detalle del origen del posible cliente original, campos de UTM de primer contacto, etc.).</li></td>
+  </tr>
+  <tr>
+    <td>Actividades personalizadas </td>
+    <td><li>Definir <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html" target="_blank" rel="noopener noreferrer">Actividades personalizadas</a> que son específicos de su negocio.</li></td>
+  </tr>
+  <tr>
+    <td>Objetos personalizados </td>
+    <td><li>Revisar cuántos <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html" target="_blank" rel="noopener noreferrer">Objetos personalizados</a> lo necesitas.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html" target="_blank" rel="noopener noreferrer">Sincronizar esos objetos personalizados con su CRM</a>.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Integraciones {#integrations}
+
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>CRM</td>
+    <td><li>Iniciar sincronización de CRM. Elija entre las siguientes opciones, según el CRM que utilice su compañía: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html" target="_blank" rel="noopener noreferrer">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html" target="_blank" rel="noopener noreferrer">Microsoft Dynamics</a>.</li>
+    <li>Identifique el tipo de acceso que necesita para acceder a su CRM.</li>
+    <li>Identifique al administrador de CRM para la resolución de problemas.</li></td>
+  </tr>
+  <tr>
+    <td>Perspectiva de ventas (si corresponde)</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html" target="_blank" rel="noopener noreferrer">Configurar perspectiva de ventas.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions" target="_blank" rel="noopener noreferrer">Emita puestos para los usuarios adecuados.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html" target="_blank" rel="noopener noreferrer">Configuración de la API</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html" target="_blank" rel="noopener noreferrer">Personalizar las puntuaciones de los posibles clientes.</a></li></td>
   </tr>
 </tbody>
 </table>
