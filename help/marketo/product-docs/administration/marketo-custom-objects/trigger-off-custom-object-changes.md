@@ -4,9 +4,9 @@ description: Déclencheur de los cambios de objetos personalizados - Documentos 
 title: Déclencheur de cambios de objetos personalizados
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,12 @@ ht-degree: 0%
 >
 >Esta función solo está disponible:
 >
->* Para clientes de [!DNL Orion] infraestructura
 >* Para su uso únicamente con objetos personalizados de Marketo, no con objetos personalizados sincronizados a través del nativo [!DNL Salesforce] o [!DNL Microsoft Dynamics] integración
 >* Como déclencheur, no como filtro
 >
 >Póngase en contacto con [Asistencia de Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para tener activados los Déclencheur de cambio de objeto personalizado.
 
-En la lista inteligente de una campaña inteligente, puede almacenar en déclencheur una acción de flujo cuando se agrega un objeto personalizado a una persona o compañía. También puede crear una lista inteligente que utilice un *cambiar* en un objeto personalizado como déclencheur. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice un nombre de curso.
+En la lista inteligente de una campaña inteligente, puede almacenar en déclencheur una acción de flujo cuando se agrega un objeto personalizado a una persona o compañía. También puede crear una lista inteligente que utilice un _cambiar_ en un objeto personalizado como déclencheur. Por ejemplo, utilícelo para enviar un correo electrónico cuando se actualice un nombre de curso.
 
 >[!NOTE]
 >

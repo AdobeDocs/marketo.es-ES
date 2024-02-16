@@ -4,7 +4,7 @@ description: 'Programación de versiones. Documentos de Marketo: documentación 
 title: Programación de versiones
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 6%
@@ -25,20 +25,14 @@ ht-degree: 6%
 
 _Las fechas/funciones del lanzamiento están sujetas a cambios_
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup>
+<table>
  <tbody> 
   <tr> 
    <th width="250px">Versión</th>
    <th width="250px">Fecha de lanzamiento</th>
    <th width="250px">Estado</th>
   </tr>
-
-<tr>
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2023/release-notes-sep-23.md">Septiembre de 2023</a></td>
    <td>8 de septiembre de 2023</td>
    <td>Enviado</td>
@@ -49,12 +43,12 @@ _Las fechas/funciones del lanzamiento están sujetas a cambios_
    <td>Enviado</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Enero del 24</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">Enero del 24</a></td>
    <td>12 de enero de 2024</td>
    <td>En progreso</td>
   </tr>
   <tr> 
-   <td>Marzo del 24</td>
+   <td><a href="/help/marketo/release-notes/current.md">Marzo del 24</a></td>
    <td>8 de marzo de 2024</td>
    <td>Dentro del horario</td>
   </tr>
