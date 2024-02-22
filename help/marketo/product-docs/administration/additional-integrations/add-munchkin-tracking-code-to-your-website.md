@@ -4,9 +4,9 @@ description: "Agregar [!DNL Munchkin] Código de seguimiento para su sitio web -
 title: "Agregar [!DNL Munchkin] Código de seguimiento para su sitio web"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ código de seguimiento personalizado de JavaScript de Marketo, denominado [!DNL 
 
 >[!NOTE]
 >
->Los clientes de Adobe Experience Cloud también pueden utilizar la integración de Marketo en Adobe Launch para incluir lo siguiente [!DNL Munchkin] script en sus páginas web. Obtener la aplicación [aquí](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Los usuarios de Adobe Experience Cloud también pueden utilizar la variable [Integración de Marketo en Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir [!DNL Munchkin] script en sus páginas web. Si utiliza Adobe Launch, _el [!DNL Munchkin] el script se añade automáticamente_, por lo que no tendría que añadirlo usted mismo.
 
 1. Vaya a la **[!UICONTROL Administrador]** área.
 
@@ -59,7 +59,7 @@ código de seguimiento personalizado de JavaScript de Marketo, denominado [!DNL 
 
    >[!TIP]
    >
-   >Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), le recomendamos que opte por no rastrear a personas anónimas. [Más información](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >Para los sitios que ven un gran volumen de tráfico (es decir, cientos de miles de visitas al mes), le recomendamos que opte por no rastrear a personas anónimas. [Más información](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## Añadir código de seguimiento al usar varios espacios de trabajo {#add-tracking-code-when-using-multiple-workspaces}
 
