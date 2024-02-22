@@ -4,9 +4,9 @@ description: 'Ocultar y mostrar un campo: documentos de Marketo, documentación 
 title: Ocultar y mostrar un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ Si ya no utiliza un campo en Marketo Engage, puede ocultarlo de la interfaz de u
    >
    >* Para ocultar un campo, no debe asociarse con ningún otro recurso (incluidos los archivados). Asegúrese de eliminar el campo de todas las listas inteligentes, opciones de pasos de flujo, formularios, correos electrónicos, etc., antes de ocultarlo.
    >* No puede ocultar los campos estándar (del sistema).
+   >* No se pueden ocultar los campos de información de oportunidad.
 
 1. Clic **[!UICONTROL Hide]** para confirmar.
 
