@@ -2,8 +2,8 @@
 description: Información general del cuadro de diálogo - Documentos de Marketo - Documentación del producto
 title: Resumen del diálogo
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%
@@ -26,7 +26,7 @@ El [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynam
 
 ![](assets/dialogue-overview-2.png)
 
-## Informes de   {#reports}
+## Informes {#reports}
 
 En la pestaña Informes podrá ver las métricas relacionadas con el rendimiento del cuadro de diálogo.
 
@@ -64,10 +64,10 @@ En la pestaña Informes podrá ver las métricas relacionadas con el rendimiento
 
 Puede desactivar (y volver a activar) todos los cuadros de diálogo publicados al mismo tiempo.
 
-1. En Dynamic Chat, haga clic en **Configuración** pestaña.
+1. En Dynamic Chat, haga clic en **[!UICONTROL Configuración]** pestaña.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Alternar el **Chat activado** cambie a off para deshabilitar (y vuelva a activar para volver a habilitar) todos los cuadros de diálogo.
+1. Alternar el **[!UICONTROL Chat activado]** cambie a off para deshabilitar (y vuelva a activar para volver a habilitar) todos los cuadros de diálogo.
 
    ![](assets/dialogue-overview-5.png)

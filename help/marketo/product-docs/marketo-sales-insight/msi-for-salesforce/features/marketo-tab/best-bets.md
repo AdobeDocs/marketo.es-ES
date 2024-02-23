@@ -3,9 +3,9 @@ description: Recomendaciones - Documentos de Marketo - Documentación del produc
 title: Recomendaciones
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Recomendaciones {#best-bets}
 
 La pestaña Resultados más probables incluye una lista de todos los posibles clientes en función de su prioridad, calculada mediante la urgencia y la puntuación relativa.
+
+>[!CAUTION]
+>
+>Tenga cuidado de no superar los 1000 resultados más probables; de lo contrario, la página podría dejar de cargarse. Si esto sucede, utilice los filtros para reducir el número total de resultados más probables.
 
 **Opciones de filtro**
 

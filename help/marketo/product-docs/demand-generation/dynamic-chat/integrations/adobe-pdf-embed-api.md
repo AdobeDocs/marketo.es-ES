@@ -2,10 +2,10 @@
 description: 'API de incrustación de Adobe PDF: documentos de Marketo: documentación del producto'
 title: API de inserción de Adobe PDF
 feature: Dynamic Chat
-exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
 1. Vaya a [API de incrustación de Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Clic **Obtener credenciales**.
+1. Clic **[!UICONTROL Obtener credenciales]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Introduzca sus credenciales, acepte los términos y haga clic en **Crear credenciales**.
+1. Introduzca sus credenciales, acepte los términos y haga clic en **[!UICONTROL Crear credenciales]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,15 +32,15 @@ La tarjeta de documento permite incrustar documentos del PDF en los cuadros de d
    >
    >Deberá utilizar el dominio en el que alojará el bot de chat (por ejemplo, si aloja el bot de chat en mycompany.com, asegúrese de introducirlo en el paso 4).
 
-1. Clic **Copiar** para copiar el ID de cliente.
+1. Clic **[!UICONTROL Copiar]** para copiar el ID de cliente.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. Vuelva al Dynamic Chat y haga clic en **Integraciones**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **Activar**.
+1. Vuelva al Dynamic Chat y haga clic en **[!UICONTROL Integraciones]**. En la tarjeta de API de incrustación de Adobe PDF, haga clic en **[!UICONTROL Activar]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Pegue el ID de cliente y haga clic en **Guardar**.
+1. Pegue su [!UICONTROL ID de cliente] y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

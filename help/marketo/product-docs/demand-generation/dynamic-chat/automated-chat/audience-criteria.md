@@ -3,10 +3,10 @@ description: Criterios de audiencia - Documentos de Marketo - Documentación del
 title: Criterios de audiencia
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 2%
+source-wordcount: '597'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Al igual que las listas inteligentes de Marketo Engage, los atributos de Criteri
 
 ## Prioridad {#priority}
 
-La prioridad determina qué diálogo recibe un posible cliente en caso de que cumpla los requisitos para más de uno. Se establece cuando usted primero [cree su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Para cambiar la prioridad de un cuadro de diálogo existente, ábralo y vaya a **Detalles del diálogo** en la pestaña Criterios de audiencia.
+La prioridad determina qué diálogo recibe un posible cliente en caso de que cumpla los requisitos para más de uno. Se establece cuando usted primero [cree su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Para cambiar la prioridad de un cuadro de diálogo existente, ábralo y vaya a **[!UICONTROL Detalles del diálogo]** en la pestaña Criterios de audiencia.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ La prioridad determina qué diálogo recibe un posible cliente en caso de que cu
 
 Los eventos le permiten segmentar visitantes en función de su desplazamiento o del tiempo que lleven en la página o sitio. En el ejemplo siguiente, se segmenta a los visitantes que han estado en una página específica durante más de 20 segundos.
 
-1. Coja el **Tiempo en la página** y arrástrelo a la derecha.
+1. Coja el **[!UICONTROL Tiempo en la página]** y arrástrelo a la derecha.
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ Los eventos le permiten segmentar visitantes en función de su desplazamiento o 
 
 **Personas conocidas**
 
-No hay _muchos_ combinaciones de atributos para elegir. En el ejemplo siguiente, se hace referencia a todas las **personas conocidas** en California que trabajan en una empresa con más de 50 empleados.
+No hay _muchos_ combinaciones de atributos para elegir. En el siguiente ejemplo, nos dirigimos a todas las personas conocidas en California que trabajan en una empresa con más de 50 empleados.
 
-1. Coja el **Estado de persona** y arrástrelo a la derecha.
+1. Coja el **[!UICONTROL Estado de persona]** y arrástrelo a la derecha.
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ No hay _muchos_ combinaciones de atributos para elegir. En el ejemplo siguiente,
 
    ![](assets/audience-criteria-8.png)
 
-1. Coja el **Tamaño de empresa** y arrástrelo a donde dice _arrastre y suelte un atributo aquí_.
+1. Coja el **[!UICONTROL Tamaño de empresa]** y arrástrelo a donde dice _arrastre y suelte un atributo aquí_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ No hay _muchos_ combinaciones de atributos para elegir. En el ejemplo siguiente,
    >
    >También puede elegir un atributo haciendo clic en su **+** icono.
 
-1. Haga clic en la lista desplegable del operador y seleccione **Mayor que**.
+1. Haga clic en la lista desplegable del operador y seleccione **[!UICONTROL Mayor que]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ No hay _muchos_ combinaciones de atributos para elegir. En el ejemplo siguiente,
 
 **Personas anónimas**
 
-Hay una manera fácil de dirigirse específicamente a personas que aún no están en la base de datos. En este ejemplo, estamos segmentando todos **personas anónimas** situado en el área de Nueva York.
+Hay una manera fácil de dirigirse específicamente a personas que aún no están en la base de datos. En este ejemplo, estamos dirigiéndonos a todas las personas anónimas ubicadas en el área de Nueva York.
 
-1. Coja el **Correo electrónico de persona** y arrástrelo a la derecha.
+1. Coja el **[!UICONTROL Correo electrónico de persona]** y arrástrelo a la derecha.
 
    ![](assets/audience-criteria-12.png)
 
-1. Haga clic en la lista desplegable del operador y seleccione **Is Empty**.
+1. Haga clic en la lista desplegable del operador y seleccione **[!UICONTROL Is Empty]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Coja el **Estado deducido** y arrástrelo a donde dice _arrastre y suelte un atributo aquí_.
+1. Coja el **[!UICONTROL Estado deducido]** y arrástrelo a donde dice _arrastre y suelte un atributo aquí_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ Utilice listas inteligentes de Marketo Engage para la audiencia de destino del c
 >
 >El miembro de la lista inteligente o de los criterios de miembro de la lista requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
 
-1. Bajo Membresía, agarrar **Miembro de lista inteligente** y suéltelo en el lienzo.
+1. Bajo Membresía, agarrar **[!UICONTROL Miembro de lista inteligente]** y suéltelo en el lienzo.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,11 +133,11 @@ Formatos admitidos:
 
 **Exclusiones**
 
-Utilice exclusiones para asegurarse de que el cuadro de diálogo sí **no** aparecen en una página o área específica del sitio. Las exclusiones siguen el mismo formato que las inclusiones.
+Utilice exclusiones para asegurarse de que el cuadro de diálogo sí _no_ aparecen en una página o área específica del sitio. Las exclusiones siguen el mismo formato que las inclusiones.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
 >* [Crear un cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Diseñador de flujo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Diseñador de secuencias](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

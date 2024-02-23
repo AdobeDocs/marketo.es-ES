@@ -3,7 +3,7 @@ description: Diseñador de transmisiones - Documentos de Marketo - Documentació
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '1108'
 ht-degree: 1%
@@ -91,15 +91,15 @@ En la parte superior derecha del Diseñador de secuencias, verá un puñado de i
 
 Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. En este ejemplo, crearemos uno para un Diálogo.
 
-1. Después de que... [ha creado su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, haga clic en **Diseñador de secuencias** pestaña.
+1. Después de que... [ha creado su cuadro de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, haga clic en **[!UICONTROL Diseñador de secuencias]** pestaña.
 
    ![](assets/stream-designer-6.png)
 
-1. Arrastre y suelte la tarjeta Pregunta.
+1. Arrastre y suelte el [!UICONTROL Pregunta] Tarjeta de.
 
    ![](assets/stream-designer-7.png)
 
-1. En Respuesta del bot de chat, escriba su pregunta como desee.
+1. En [!UICONTROL Respuesta del bot de chat], diga su pregunta como le gustaría.
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
    >
    >Poke está configurado como on de forma predeterminada, lo que muestra la pregunta de apertura junto al icono de chat sin que el visitante tenga que hacer clic en él para verlo. El Poke solo está disponible en la primera carta de la conversación.
 
-1. Introduzca sus respuestas de usuario y haga clic en **Guardar**.
+1. Introduzca sus respuestas de usuario y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Editar valores almacenados** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos de lo que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta de pregunta (por ejemplo: el visitante ve &quot;Optimización del motor de búsqueda&quot;, se almacena ese valor como &quot;SEO&quot;).
+   >**[!UICONTROL Editar valores almacenados]** es un paso opcional para aquellos que deseen almacenar un valor diferente en la base de datos de lo que se muestra a los visitantes en el bot de chat para los atributos asignados en la tarjeta de pregunta (por ejemplo: el visitante ve &quot;Optimización del motor de búsqueda&quot;, se almacena ese valor como &quot;SEO&quot;).
 
 1. Para &quot;Sí&quot; queremos programar una cita, así que debajo de esa opción arrastre sobre la tarjeta Programador de citas.
 
    ![](assets/stream-designer-10.png)
 
-1. En la columna de la derecha, haga clic en **Guardar**.
+1. En la columna de la derecha, haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Como ese es un objetivo, arrastre la tarjeta Objetivo debajo del Programador de citas.
+1. Como es un objetivo, arrastre el [!UICONTROL Meta] debajo del Programador de citas.
 
    ![](assets/stream-designer-12.png)
 
-1. Asigne un nombre a la meta (o elija una existente) y haga clic en **Guardar**.
+1. Asigne un nombre a la meta (o elija una existente) y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Para &quot;No&quot; queremos ver si se unen a la lista de correo, así que debajo de esa opción arrastre sobre otra tarjeta de Pregunta.
+1. Para &quot;No&quot; queremos ver si se unen a la lista de correo, así que debajo de esa opción arrastre sobre otra [!UICONTROL Pregunta] Tarjeta de.
 
    ![](assets/stream-designer-14.png)
 
-1. Introduzca su respuesta y añada opciones de respuesta para el visitante. Clic **Guardar** cuando termine.
+1. Introduzca su respuesta y añada opciones de respuesta para el visitante. Clic **[!UICONTROL Guardar]** cuando termine.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >Para agregar más respuestas, haga clic en **Agregar respuesta**.
+   >Para agregar más respuestas, haga clic en **[!UICONTROL Agregar respuesta]**.
 
 1. Debajo de la respuesta &quot;Sí&quot;, arrastre sobre la tarjeta de captura de información para poder recopilar el correo electrónico del visitante.
 
    ![](assets/stream-designer-16.png)
 
-1. Haga clic en **Tipo** y seleccione. **Correo electrónico**.
+1. Haga clic en **[!UICONTROL Tipo]** y seleccione. **[!UICONTROL Correo electrónico]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Introduzca un mensaje de bot de chat y un marcador de posición. Asegúrese de que el atributo esté asignado al campo correspondiente en Marketo y haga clic en **Guardar**.
+1. Introduzca un mensaje de bot de chat y un marcador de posición. Asegúrese de que el atributo esté asignado al campo correspondiente en Marketo y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
     </tr>
    </table>
 
-1. Como recopilar su correo electrónico es una meta, arrastre la tarjeta Objetivo debajo de Captura de información.
+1. Dado que recopilar su correo electrónico es un objetivo, arrastre el [!UICONTROL Meta] Tarjeta debajo de Captura de información.
 
    ![](assets/stream-designer-19.png)
 
-1. Asigne un nombre a la meta (o elija una existente) y haga clic en **Guardar**.
+1. Asigne un nombre a la meta (o elija una existente) y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    ![](assets/stream-designer-21.png)
 
-1. En este ejemplo crearemos un nuevo documento. Asigne un nombre, introduzca la dirección URL del PDF que ya ha alojado y haga clic en **Guardar**.
+1. En este ejemplo crearemos un nuevo documento. Asigne un nombre, introduzca la dirección URL del PDF que ya ha alojado y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Seleccione el **Previsualizar** para previsualizar el cuadro de diálogo.
+1. Seleccione el **[!UICONTROL Previsualizar]** para previsualizar el cuadro de diálogo.
 
    ![](assets/stream-designer-23.png)
 
-1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **Publish**.
+1. Cuando esté listo para activar el cuadro de diálogo, haga clic en **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Antes de hacer clic en Publicar, recuerde asegurarse de que ha [ha introducido sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de hacer clic [!UICONTROL Publish], recuerde asegurarse de que ha [ha introducido sus direcciones URL de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

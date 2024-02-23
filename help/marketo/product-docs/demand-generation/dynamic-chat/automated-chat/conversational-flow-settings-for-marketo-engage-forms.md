@@ -2,8 +2,8 @@
 description: Configuración Del Flujo De Conversación Para Marketo Engage Forms - Documentos De Marketo - Documentación Del Producto
 title: Configuración De Flujo De Conversación Para Marketo Engage Forms
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de con
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. Clic **Editar borrador**.
+1. Clic **[!UICONTROL Editar borrador]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. En la página de edición del formulario, haga clic en **Configuración de formulario**, entonces **Configuración**.
+1. En la página de edición del formulario, haga clic en **[!UICONTROL Configuración de formulario]**, entonces **[!UICONTROL Configuración]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Haga clic en **Configuración de flujo de conversación** deslizador para activar.
+1. Haga clic en **[!UICONTROL Configuración de flujo de conversación]** deslizador para activar.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Aparecerá un modal Opción predeterminada. Seleccione su preferencia. En este ejemplo estamos eligiendo **Usar flujo de conversación**.
+1. Aparecerá un modal Opción predeterminada. Seleccione su preferencia. En este ejemplo estamos eligiendo **[!UICONTROL Usar flujo de conversación]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ Haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de con
    >
    >El explorador del visitante debe tener la cookie de ser una persona conocida antes del envío del formulario para poder pertenecer a la lista estática/inteligente.
 
-1. Clic **Finalizar** cuando termine.
+1. Clic **[!UICONTROL Finalizar]** cuando termine.
 
    ![](assets/conversational-flow-settings-8.png)
