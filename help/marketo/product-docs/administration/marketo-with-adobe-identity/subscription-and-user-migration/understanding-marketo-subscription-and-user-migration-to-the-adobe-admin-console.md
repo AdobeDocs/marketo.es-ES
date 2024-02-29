@@ -3,9 +3,9 @@ description: 'Explicación de la suscripción de Marketo y la migración de usua
 title: Explicación de la suscripción de Marketo y la migración de usuarios a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,9 @@ Todas las suscripciones de Marketo con una zona horaria de EE. UU. se migrarán 
 
 **El Adobe migrará automáticamente primero a los administradores de Marketo**. Cuando se migran administradores de Marketo a Identidad de Adobe, se les asigna la función Administrador de productos de Adobe dentro de la aplicación de Marketo junto con cualquier otra función que tuvieran anteriormente.
 
-**Si su suscripción a Marketo tiene menos de 75 usuarios**, el Adobe migrará automáticamente al resto de los usuarios. Este flujo de trabajo tiene como objetivo ofrecer el máximo nivel de automatización para minimizar la sobrecarga para los usuarios de Marketo de Adobe. No se requiere ninguna acción por su parte para ejecutar la migración.
+**Si su suscripción a Marketo tiene menos de 75 usuarios y no tiene SSO en Marketo o en su organización de Adobe**, el Adobe migrará automáticamente al resto de los usuarios. Este flujo de trabajo tiene como objetivo ofrecer el máximo nivel de automatización para minimizar la sobrecarga para los usuarios de Marketo de Adobe. No se requiere ninguna acción por su parte para ejecutar la migración.
 
-**Si su suscripción a Marketo tiene más de 75 usuarios**, los administradores de productos de Marketo tendrán acceso al área de migración de usuarios de autoservicio de la consola de migración de Marketo, que se encuentra en el área de administración de Marketo. Para aquellos que necesiten un mayor control durante el proceso de migración de usuarios, los administradores de productos de Marketo podrán empezar a seleccionar usuarios para migrar en lotes o en cualquier momento. Una vez seleccionados los usuarios, los administradores tienen la opción de &quot;Migrar ahora&quot; o &quot;Programar migración&quot; para una fecha posterior, lo que proporciona a los administradores la flexibilidad y el control definitivos sobre los usuarios que se migrarán cuando.
+**Si su suscripción a Marketo tiene más de 75 usuarios o tiene SSO en Marketo o en su organización de Adobe**, los administradores de productos de Marketo tendrán acceso al área de migración de usuarios de autoservicio de la consola de migración de Marketo, que se encuentra en el área de administración de Marketo. Para aquellos que necesiten un mayor control durante el proceso de migración de usuarios, los administradores de productos de Marketo podrán empezar a seleccionar usuarios para migrar en lotes o en cualquier momento. Una vez seleccionados los usuarios, los administradores tienen la opción de &quot;Migrar ahora&quot; o &quot;Programar migración&quot; para una fecha posterior, lo que proporciona a los administradores la flexibilidad y el control definitivos sobre los usuarios que se migrarán cuando.
 
 >[!NOTE]
 >

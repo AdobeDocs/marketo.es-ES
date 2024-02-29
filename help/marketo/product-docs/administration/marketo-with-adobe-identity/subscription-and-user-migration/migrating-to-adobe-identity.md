@@ -3,9 +3,9 @@ description: 'Migración a la identidad de Adobe: documentos de Marketo, documen
 title: Migración a la identidad de Adobe
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ El Adobe migrará automáticamente a todos los administradores de Marketo con co
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Si su suscripción a Marketo tiene menos de 75 usuarios**, el Adobe migrará automáticamente al resto de los usuarios. Este flujo de trabajo pretende ofrecer el máximo nivel de automatización y no se requiere ninguna acción para ejecutar la migración. Una vez finalizada la migración, la consola de migración de Marketo dejará de aparecer en el área de navegación de Administración de Marketo y todos los usuarios accederán a Marketo mediante un Adobe ID.
+**Si su suscripción a Marketo tiene menos de 75 usuarios y no tiene SSO en Marketo o en su organización de Adobe**, el Adobe migrará automáticamente al resto de los usuarios. Este flujo de trabajo pretende ofrecer el máximo nivel de automatización y no se requiere ninguna acción para ejecutar la migración. Una vez finalizada la migración, la consola de migración de Marketo dejará de aparecer en el área de navegación de Administración de Marketo y todos los usuarios accederán a Marketo mediante un Adobe ID.
 
-**Si su suscripción a Marketo tiene 75 usuarios o más**, los administradores de productos de Marketo tendrán acceso a la herramienta de migración de usuarios de autoservicio de la consola de migración cuando comience la migración de usuarios y se les avisará mediante un banner cuando inicien sesión en la página Mi Marketo. El administrador será responsable de completar la migración de usuarios mediante la herramienta de migración de usuarios de autoservicio.
+**Si su suscripción a Marketo tiene 75 o más usuarios o tiene SSO en Marketo o en su organización de Adobe**, los administradores de productos de Marketo tendrán acceso a la herramienta de migración de usuarios de autoservicio de la consola de migración cuando comience la migración de usuarios y se les avisará mediante un banner cuando inicien sesión en la página Mi Marketo. El administrador será responsable de completar la migración de usuarios mediante la herramienta de migración de usuarios de autoservicio.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
