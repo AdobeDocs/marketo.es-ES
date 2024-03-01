@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guía de Marketo
 user-guide-description: Documentación del producto de Marketo
 feature-set: Marketo Engage
-source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
-source-wordcount: '9287'
+source-wordcount: '9288'
 ht-degree: 2%
 
 ---
@@ -124,7 +124,7 @@ ht-degree: 2%
          + [Filtrado en pista de auditoría](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
          + [Historial de inicio de sesión del usuario](product-docs/administration/audit-trail/user-login-history.md)
       + Configuración de correo electrónico {#email-setup}
-         + Agregar varios dominios de personalización de marca {#add-multiple-branding-domains}
+         + añadir varios dominios de marca {#add-multiple-branding-domains}
             + [Añadir un dominio de marca adicional con espacios de trabajo](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
             + [Añadir un dominio de promoción de otras marcas](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
             + [Eliminar un dominio de marca](product-docs/administration/email-setup/add-multiple-branding-domains/delete-a-branding-domain.md)
@@ -334,11 +334,11 @@ ht-degree: 2%
             + [Sincronizar persona con SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + Datos de campaña inteligente {#smart-campaign-data}
             + [Exportación de resultados de campañas inteligentes a Excel](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
-            + [Filtrar resultados de campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
-            + [Ver personas bloqueadas en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
-            + [Ver personas cualificadas en una campaña inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
-            + [Ver miembros de campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
-            + [Ver resultados de campañas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
+            + [Resultados de Filtrar Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+            + [Ver personas bloqueadas en una Campaign inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+            + [Ver personas cualificadas en una Campaign inteligente](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
+            + [Miembros de Ver Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+            + [Resultados de Ver Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
       + Listas inteligentes y listas estáticas {#smart-lists-and-static-lists}
          + [Explicación de las listas inteligentes](product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)
          + Creación de una lista inteligente {#creating-a-smart-list}
@@ -666,6 +666,7 @@ ht-degree: 2%
          + Chat en vivo {#live-chat}
             + [Información general de Live Chat](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Bandeja de entrada del agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [Notificaciones](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + Instalación y configuración {#setup-and-configuration}
             + [Configuración inicial](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Agregar o quitar usuarios de chat](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
@@ -758,11 +759,11 @@ ht-degree: 2%
             + [Cambiar el tamaño de la fuente del formulario](product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
             + [Editar el CSS de una temática de formulario](product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
             + [Cambiar el tamaño de la etiqueta o el ancho del campo en un formulario](product-docs/demand-generation/forms/form-design/resize-label-field-width-in-a-form.md)
-         + Campos de formulario {#form-fields}
-            + [Agregar un conjunto de campos a un formulario](product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-            + [Agregar texto de sugerencia a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)
-            + [Agregar instrucciones de información sobre herramientas a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
-            + [Aplicar máscara de entrada a un campo de un formulario](product-docs/demand-generation/forms/form-fields/apply-input-masking-to-a-field-in-a-form.md)
+         + Campos del formulario {#form-fields}
+            + [añadir un FieldSet a un formulario](product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
+            + [añadir Texto de sugerencias para un campo de formulario](product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)
+            + [añadir instrucciones de información sobre herramientas a un campo de formulario](product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)
+            + [Máscara de entrada de Aplicar a un campo de un formulario](product-docs/demand-generation/forms/form-fields/apply-input-masking-to-a-field-in-a-form.md)
             + [Eliminar un campo de un formulario](product-docs/demand-generation/forms/form-fields/delete-a-field-in-a-form.md)
             + [Deshabilitar el rellenado previo de un campo de formulario](product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)
             + [Alternar dinámicamente la visibilidad de un campo de formulario](product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
@@ -788,7 +789,7 @@ ht-degree: 2%
             + [Aprobar, desaprobar o eliminar una página de aterrizaje](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Informe Rendimiento de página de aterrizaje](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
             + [Grupos de prueba de página de destino](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-            + [Explicación de las páginas de aterrizaje improvisadas y guiadas](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+            + [Información acerca de las páginas de aterrizaje guiadas y de forma libre](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + Páginas de aterrizaje de forma libre {#free-form-landing-pages}
             + [Adición de un vínculo a una imagen de página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [Adición de un vínculo a una imagen en una página de aterrizaje de forma libre](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
@@ -999,11 +1000,11 @@ ht-degree: 2%
          + Rastreador de bandeja de entrada {#inbox-tracker}
             + [Tutorials de seguimiento de bandeja de entrada](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Nutrición por goteo {#drip-nurturing}
-         + Creación de un programa de participación {#creating-an-engagement-program}
-            + [Agregar una secuencia](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
-            + [Añadir contenido a un flujo](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-            + [Añadir personas a un programa de participación](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
-            + [Adición de un programa a un flujo de programa de participación](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+         + Creación de un programa de compromiso {#creating-an-engagement-program}
+            + [añadir una emisión](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+            + [añadir contenido a una emisión](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+            + [añadir personas a un programa de compromiso](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
+            + [Agregar un programa a un flujo de programa de compromiso](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
             + [Creación de un programa de participación](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
             + [Explicación de los programas de participación](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
          + Flujos de programa de participación {#engagement-program-streams}
@@ -1425,7 +1426,7 @@ ht-degree: 2%
                + [Uso de una plantilla en la ventana de composición](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Integraciones de correo electrónico {#email-integrations}
             + Gmail {#gmail}
-               + [Conectar con Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+               + [Conéctate a Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Conectarse a Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + FAQ {#faq}
