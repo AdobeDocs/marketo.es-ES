@@ -1,20 +1,24 @@
 ---
-description: Tutorials de seguimiento de bandeja de entrada - Documentos de Marketo - Documentación del producto
+description: Pruebe, supervise y comprenda los problemas de envío con el Powerpack de envío de correo electrónico del Marketo Engage.
 title: Tutorials de seguimiento de bandeja de entrada
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Tutorials de seguimiento de bandeja de entrada {#inbox-tracker-tutorials.md}
+# Tutorials de seguimiento de bandeja de entrada {#inbox-tracker-tutorials}
 
-Pruebe, supervise y comprenda los problemas de envío con el Powerpack de envío de correo electrónico de Marketo, con tecnología de la plataforma de seguimiento de la bandeja de entrada de MessageBird. Inbox Tracker es una aplicación única que combina la inteligencia de su programa y la previsión de la renderización del correo electrónico / prueba de la bandeja de entrada para maximizar el rendimiento de sus correos electrónicos.
+Pruebe, supervise y comprenda los problemas de envío con el Powerpack de envío de correo electrónico de Marketo Engage, con tecnología de la plataforma de seguimiento de la bandeja de entrada de Bird (anteriormente MessageBird). Inbox Tracker es una aplicación única que combina la inteligencia de su programa y la previsión de la renderización del correo electrónico / prueba de la bandeja de entrada para maximizar el rendimiento de sus correos electrónicos.
 
-MessageBird ha creado varios vídeos de formación para ayudarle a sacar el máximo partido a esta potente herramienta.
+>[!AVAILABILITY]
+>
+>No todos los usuarios de Marketo Engage han adquirido esta funcionalidad. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.
+
+Bird ha creado varios vídeos de formación para ayudarte a sacar el máximo partido a esta potente herramienta.
 
 ## Resumen del rastreador de bandeja de entrada {#inbox-tracker-overview}
 
