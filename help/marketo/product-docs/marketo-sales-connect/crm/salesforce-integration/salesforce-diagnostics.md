@@ -4,9 +4,9 @@ description: 'Diagnóstico de Salesforce: Documentos de Marketo: documentación 
 title: Diagnóstico de Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
@@ -154,7 +154,7 @@ Parte de nuestra integración con Salesforce incluye una página de diagnóstico
 
 **Error:** INVALID_TYPE\
 **Categoría:** Acceso/Validación\
-**Mensaje:** CreatedDate, (SELECT Id FROM Tasks) FROM Posible cliente WHERE Email=&#39;emailid&#39;^ERROR at Row:1:No se admite el tipo de objeto Column:53s &#39;Posible cliente&#39;. Si intenta utilizar un objeto personalizado, asegúrese de anexar &quot;__c&quot; después del nombre de la entidad. Consulte su WSDL o la llamada de descripción para obtener los nombres adecuados
+**Mensaje:** CreatedDate, (SELECT Id FROM Tasks) FROM Posible cliente WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` No se admite el tipo &quot;posible cliente&quot;. Si intenta utilizar un objeto personalizado, asegúrese de anexar &quot;__c&quot; después del nombre de la entidad. Consulte su WSDL o la llamada de descripción para obtener los nombres adecuados
 **Qué está ocurriendo:** Estamos intentando consultar un tipo de objeto de Salesforce al que el usuario no tiene acceso. Es muy probable que esto esté relacionado con que el usuario no tenga el acceso correcto al objeto de posible cliente.\
 **Pasos para solucionar problemas:** Conceda acceso de lectura y actualización al objeto de posible cliente en Salesforce o desactive el registro de correo electrónico y el registro de actividades más recientes en los registros de posibles clientes.
 

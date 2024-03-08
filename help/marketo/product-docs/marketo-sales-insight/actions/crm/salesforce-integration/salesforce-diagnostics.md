@@ -3,9 +3,9 @@ description: 'Diagnóstico de Salesforce: Documentos de Marketo: documentación 
 title: Diagnóstico de Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1374'
 ht-degree: 0%
 
 ---
@@ -143,7 +143,7 @@ Parte de nuestra integración con Salesforce incluye una página de diagnóstico
 
 **Error:** INVALID_TYPE\
 **Categoría:** Acceso/Validación\
-**Mensaje:** CreatedDate, (SELECT Id FROM Tasks) FROM Posible cliente WHERE Email=&#39;emailid&#39;^ERROR at Row:1:No se admite el tipo de objeto Column:53s &#39;Posible cliente&#39;. Si intenta utilizar un objeto personalizado, asegúrese de anexar &quot;__c&quot; después del nombre de la entidad. Consulte su WSDL o la llamada de descripción para obtener los nombres adecuados
+**Mensaje:** CreatedDate, (SELECT Id FROM Tasks) FROM Posible cliente WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` No se admite el tipo &quot;posible cliente&quot;. Si intenta utilizar un objeto personalizado, asegúrese de anexar &quot;__c&quot; después del nombre de la entidad. Consulte su WSDL o la llamada de descripción para obtener los nombres adecuados
 **Qué está ocurriendo:** Estamos intentando consultar un tipo de objeto de Salesforce al que el usuario no tiene acceso. Es muy probable que esto esté relacionado con que el usuario no tenga el acceso correcto al objeto de posible cliente.\
 **Pasos para solucionar problemas:** Conceda acceso de lectura y actualización al objeto de posible cliente en Salesforce o desactive el registro de correo electrónico y el registro de actividades más recientes en los registros de posibles clientes.
 
@@ -180,7 +180,7 @@ Parte de nuestra integración con Salesforce incluye una página de diagnóstico
 
 **Error:** TXN_SECURITY_NO_ACCESS\
 **Categoría:** Acceso/Validación\
-**Mensaje:** La operación solicitada no está permitida debido a una directiva de seguridad de su organización. Póngase en contacto con su administrador o administradora.
+**Mensaje:** La operación solicitada no está permitida debido a una directiva de seguridad de su organización. Póngase en contacto con el administrador.
 **Qué está ocurriendo:** Se ha configurado algún tipo de restricción de seguridad; consulte https://developer.salesforce.com/forums/?id=&quot;id. de registro&quot;\
 **Pasos para solucionar problemas:** Hable con el administrador de Salesforce y vea cuál puede ser la restricción específica.
 
