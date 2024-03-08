@@ -3,9 +3,9 @@ description: Configuración Del Flujo De Conversación Para Marketo Engage Forms
 title: Configuración De Flujo De Conversación Para Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de con
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Seleccione el flujo de conversación y el tipo de envío deseados.
+1. Seleccione el **[!UICONTROL Flujo de conversación]** y **[!UICONTROL Tipo de envío]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Haga que Marketo Engage Forms sea conversacional al integrarlo con Flujos de con
    >
    >[Más información sobre los Flujos de conversación](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **PASO OPCIONAL**: Puede hacer clic en Agregar opción para dirigirse a los visitantes de chat que cumplan un criterio específico.
+   **PASO OPCIONAL**: Puede hacer clic en **[!UICONTROL Agregar opción]** para dirigirse a los visitantes de chat que cumplan un criterio específico. Puede añadir hasta nueve opciones para un total de diez.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >El explorador del visitante debe tener la cookie de ser una persona conocida antes del envío del formulario para poder pertenecer a la lista estática/inteligente.
 
-1. Clic **[!UICONTROL Finalizar]** cuando termine.
+   **PASO OPCIONAL**: haga clic en **+** inicie sesión en cada paso para agregar más atributos, lo que le permite reducir la audiencia de destino (los atributos disponibles son los campos seleccionados para el formulario). En este ejemplo, nos dirigimos a Escritores técnicos de Adobe en California.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >La lógica de criterios establecida en &quot;todo&quot; significa que todos los atributos deben cumplirse para poder calificarse. La lógica de criterios establecida en &quot;cualquiera&quot; significa que cualquiera de los atributos será suficiente.
+
+   **PASO OPCIONAL**: si añade dos o más opciones, puede reordenarlas haciendo clic en sus flechas arriba/abajo.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Clic **[!UICONTROL Finalizar]** cuando termine.
+
+   ![](assets/conversational-flow-settings-10.png)
