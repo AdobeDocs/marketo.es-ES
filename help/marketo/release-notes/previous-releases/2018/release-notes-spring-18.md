@@ -4,9 +4,9 @@ description: Notas de la versión, primavera de 2018, documentación de Marketo,
 title: Notas de la versión, primavera de 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -76,10 +76,6 @@ La navegación optimizada y los flujos de trabajo mejorados le proporcionan visi
 Establezca el objetivo del algoritmo de optimización de ContentAI para obtener más vistas, clics o conversiones.
 
 ## Integración y API {#integration-and-apis}
-
-[Integración de facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Envíe notificaciones del sistema y momentos interesantes a Facebook Workplace.
 
 [API de lista estática](https://developers.marketo.com/rest-api/assets/static-lists/)
 
