@@ -4,7 +4,7 @@ description: 'Agregar campos de objeto personalizados de Marketo: documentos de 
 title: Agregar campos de objeto personalizados de Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Después de crear un objeto personalizado, debe agregarle campos para satisfacer sus necesidades comerciales.
 
-Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculos tienen un trabajo especial, conectar objetos personalizados y se tratan en una [artículo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Los campos definen la información específica que utiliza un objeto personalizado. Los campos de vínculos tienen un trabajo especial, conectar objetos personalizados y se tratan en un [artículo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Vaya a la **[!UICONTROL Administrador]** área.
 
