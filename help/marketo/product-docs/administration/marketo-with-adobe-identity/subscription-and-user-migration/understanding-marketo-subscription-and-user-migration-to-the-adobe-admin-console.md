@@ -3,9 +3,9 @@ description: 'Explicación de la suscripción de Marketo y la migración de usua
 title: Explicación de la suscripción de Marketo y la migración de usuarios a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
 workflow-type: tm+mt
-source-wordcount: '1323'
+source-wordcount: '1327'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,9 @@ ht-degree: 0%
 
 El Adobe está mejorando la forma de administrar las suscripciones y los usuarios de Adobe Marketo Engage, lo que aumenta la productividad para usted y su organización. Como parte de este cambio, el Adobe de está migrando las suscripciones de Marketo Engage y los usuarios a Adobe Admin Console. Se trata de una migración necesaria que no afecta a ningún flujo de trabajo, contenido, integración o recurso de marketing.
 
-Descubra cómo puede utilizar Adobe Admin Console para administrar sus derechos de Adobe en toda la organización con [Guía de administración de Enterprise y equipos](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
+>[!TIP]
+>
+>Descubra cómo puede utilizar Adobe Admin Console para administrar sus derechos de Adobe en toda la organización con [Guía de administración de Enterprise y equipos](https://helpx.adobe.com/es/enterprise/admin-guide.html){target="_blank"}.
 
 ## ¿Qué está cambiando? {#what-is-changing}
 
@@ -26,11 +28,15 @@ Como parte de la migración, la suscripción y la administración de usuarios se
 
 * **Los usuarios iniciarán sesión con la identidad de Adobe**. El Adobe migrará a los usuarios existentes a Adobe Admin Console. Los usuarios iniciarán sesión en sus suscripciones de Marketo con su nueva identidad de Adobe: un Federated ID de Adobe ID o de Adobe (SSO).
 
+## ¿Qué no cambia? {#what-is-not-changing}
+
 * **No hay cambios en la forma de administrar el resto de las funciones** dentro de la propia aplicación de Marketo Engage, incluida la administración de funciones, funciones de usuario, espacios de trabajo, funcionalidad y comportamiento.
 
 ## Cronología del Recorrido de migración {#migration-journey-timeline}
 
 El Adobe migrará primero sus suscripciones de Marketo Engage a Adobe Admin Console y, a continuación, migrará todos los usuarios existentes con direcciones de correo electrónico comprobadas. Si es administrador del sistema o de productos de Marketo, recibirá correos electrónicos que le guiarán a través del recorrido de migración. Esta es una cronología de lo que puede esperar:
+
+![](assets/understanding-marketo-subscription-and-user-migration-1.png)
 
 ### Migración de suscripción completa {#subscription-migration-complete}
 
