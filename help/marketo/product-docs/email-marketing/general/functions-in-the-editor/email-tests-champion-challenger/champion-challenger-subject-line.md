@@ -4,9 +4,9 @@ description: Champion/Challenger - Línea de asunto - Documentos de Marketo - Do
 title: Champion/Challenger - Línea de asunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -43,15 +43,15 @@ Puede probar fácilmente varias líneas de asunto. Cuando termine la prueba, env
    >
    >**Ejemplo**
    >
-   >En la distribución que se muestra más arriba, el 10 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con la línea de asunto del aspirante y el 90 % recibe correos electrónicos con la línea de asunto del campeón. Los correos electrónicos con varias líneas de asunto de aspirante comparten el 10 % de forma equitativa. Cuando termine la prueba, puede declarar un ganador manualmente. A partir de ese momento, todas las personas futuras recibirán el contenido con mejor rendimiento.
+   >En la distribución que se muestra más arriba, el 10 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con la línea de asunto del aspirante y el 90 % recibe correos electrónicos con la línea de asunto del campeón. Los correos electrónicos con varias líneas de asunto de aspirante comparten el 10 % de forma equitativa. Cuando termine la prueba, puede declarar un ganador manualmente. A partir de ese momento, todas las personas futuras recibirán el contenido con mejor rendimiento. En Campañas de Déclencheur, el porcentaje realizado puede diferir del porcentaje seleccionado, ya que es posible que la distribución no se alinee con precisión con los porcentajes elegidos. Esto puede suceder cuando una variante procesa un número significativo de personas canceladas la suscripción o cuando una variante es un correo electrónico operativo mientras que las demás no lo son.
 
-   Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos. [Más información de la que jamás deseó acerca de la confianza estadística](https://en.wikipedia.org/wiki/Confidence_interval).
+   Para obtener confianza estadística, asegúrese de que el porcentaje que elija incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
 1. Clic **Siguiente**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
-   Progreso! Vamos a seguir con esto.
+   ¡Progreso! Vamos a seguir con esto.
 
    >[!MORELIKETHIS]
    >

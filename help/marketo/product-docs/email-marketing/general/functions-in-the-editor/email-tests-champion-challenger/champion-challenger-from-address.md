@@ -4,9 +4,9 @@ description: Champion/Challenger - Dirección de origen - Documentos de Marketo 
 title: Campeón/Challenger - Dirección de origen
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -43,15 +43,15 @@ ht-degree: 0%
    >
    >**Ejemplo**
    >
-   >En la distribución que se muestra más arriba, el 15 % de la audiencia total especificada en la lista inteligente recibe uno de los correos electrónicos con una dirección de origen del aspirante y el 85 % recibe el correo electrónico con la dirección de origen del campeón. Los correos electrónicos para varias direcciones de origen de aspirante comparten el 15 % de forma equitativa. Cuando termine la prueba, puede declarar un ganador manualmente. A partir de ese momento, todas las personas futuras recibirán el contenido con mejor rendimiento.
+   >En la distribución mostrada anteriormente, el 15 % de la audiencia total especificada en la lista inteligente obtiene uno de los correos electrónicos con una dirección de origen del aspirante y el 85 % recibe el correo electrónico con la dirección de origen del campeón. Los correos electrónicos para varias direcciones de origen de aspirante comparten el 15 % de forma equitativa. Cuando termine la prueba, puede declarar un ganador manualmente. A partir de ese momento, todas las personas futuras recibirán el contenido con mejor rendimiento. En Campañas de Déclencheur, el porcentaje realizado puede diferir del porcentaje seleccionado, ya que es posible que la distribución no se alinee con precisión con los porcentajes elegidos. Esto puede suceder cuando una variante procesa un número significativo de personas canceladas la suscripción o cuando una variante es un correo electrónico operativo mientras que las demás no lo son.
 
-   Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos. [Más información de la que jamás deseó acerca de la confianza estadística](https://en.wikipedia.org/wiki/Confidence_interval).
+   Para obtener confianza estadística, asegúrese de elegir un porcentaje que incluya suficientes personas para que la prueba sea válida. No te dejes engañar por resultados inconclusos.
 
 1. Clic **Siguiente**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
-   Progreso! Vamos a seguir con esto.
+   ¡Progreso! Vamos a seguir con esto.
 
    >[!MORELIKETHIS]
    >
