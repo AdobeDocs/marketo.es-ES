@@ -3,10 +3,10 @@ description: 'Notas de la versión actuales, Documentos de Marketo: documentaci�
 title: Notas de la versión actual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 10%
+source-wordcount: '380'
+ht-degree: 13%
 
 ---
 
@@ -68,3 +68,70 @@ Las siguientes funciones entran dentro del ciclo de lanzamiento estándar y come
  </tbody> 
 </table>
 <br/>
+
+## Anuncios {#announcements}
+
+* **Actualización de API de actividades**: El 26 de abril, añadiremos varios atributos nuevos a las actividades basadas en la web y en correo electrónico que se devuelven cuando recupera actividades mediante [API DE REST DE MARKETO](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} extremo para revisar los detalles de atributos de cada actividad.
+
+**Actividades basadas en Web**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Actividad</th> 
+   <th style="width:70%">Atributos añadidos recientemente</th>
+   </tr>
+  <tr> 
+   <td>Visit Webpage</td> 
+   <td>Explorador, plataforma y dispositivo</td>
+  </tr>
+   <tr> 
+   <td>Completar formulario</td> 
+   <td>Explorador, plataforma y dispositivo</td>
+  </tr>
+  <tr> 
+   <td>Haga clic en Vínculo</td> 
+   <td>Explorador, plataforma y dispositivo</td>
+  </tr>
+ </tbody> 
+</table>
+
+**Actividades basadas en correo electrónico**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Actividad</th> 
+   <th style="width:70%">Atributos añadidos recientemente</th>
+  </tr>
+   <tr> 
+   <td>Enviar email</td> 
+   <td>Explorador, plataforma, dispositivo, agente de usuario</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>Email entregado</td> 
+   <td>Explorador, plataforma, dispositivo, agente de usuario</td>
+  </tr>
+   <tr> 
+   <td>Se rechazó el email</td> 
+   <td>Explorador, plataforma, dispositivo, agente de usuario</td>
+  </tr>
+  <tr> 
+   <td>Cancelar suscripción a los correos electrónicos</td> 
+   <td>Explorador, plataforma y dispositivo</td>
+  </tr>
+  <tr> 
+   <td>Abrir correo electrónico</td> 
+   <td>Navegador</td>
+  </tr>
+   <tr> 
+   <td>Hacer clic en el correo electrónico</td> 
+   <td>Navegador</td>
+  </tr>
+  <tr> 
+   <td>Se rechazó temporalmente el email</td> 
+   <td>Explorador, plataforma, dispositivo, agente de usuario</td>
+  </tr>
+ </tbody> 
+</table>

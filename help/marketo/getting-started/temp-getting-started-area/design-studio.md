@@ -4,7 +4,7 @@ title: NUEVO ESTUDIO DE DISEÑO DE ÁREA
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 11%
@@ -141,7 +141,7 @@ TABLA
 <tbody>
   <tr>
     <td>Estructura de carpetas</td>
-    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizar recursos globales</a>(es decir, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje y plantillas de páginas de aterrizaje) adecuada y fácil de buscar.</li></td>
+    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizar recursos globales</a> (es decir, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje y plantillas de páginas de aterrizaje) adecuada y fácil de buscar.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organizar imágenes y archivos mediante carpetas</a></td>
   </tr>
 </tbody>
