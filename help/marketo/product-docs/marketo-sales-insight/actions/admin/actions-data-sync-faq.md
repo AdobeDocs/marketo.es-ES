@@ -3,9 +3,9 @@ description: 'Preguntas frecuentes sobre la sincronización de datos de acciones
 title: Preguntas frecuentes sobre sincronización de datos de acciones
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 7ee5e8e3a32de5d4ff4022361f0d23d1d828ef74
+source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1054'
 ht-degree: 3%
 
 ---
@@ -58,7 +58,7 @@ Hay 11 campos que se sincronizan con las acciones de perspectiva de ventas de Ma
 * ID de posible cliente de Salesforce
 * ID de cuenta de Salesforce
 * ID de oportunidad de Salesforce
-* ID de Marketo
+* Identificación de Marketo
 * Compañía
 * Título
 * Correo electrónico
@@ -96,13 +96,13 @@ Sí, las actividades de participación en ventas se registrarán en Marketo como
 
 A continuación se muestra una lista de las actividades que inician sesión en Marketo:
 
-* Enviar email de ventas
-* Abrir email de ventas
-* Hacer clic en el email de ventas
-* Correo electrónico de respuesta a ventas
+* Enviar correo electrónico de ventas
+* Abrir correo electrónico de ventas
+* Hacer clic en el correo electrónico de ventas
+* Respondió al email de ventas
 * Se rechazó el email de ventas
 * Llamada de ventas recibida
-* Añadir a la campaña de ventas
+* Agregar a la campaña de ventas
 * Se quitó de Campaña de ventas
 
 ## ¿Registran las actividades de ventas en Salesforce? {#do-sales-activities-log-to-salesforce}
@@ -118,7 +118,8 @@ El diagrama anterior muestra qué información se registra en Salesforce. Las ac
 >[!MORELIKETHIS]
 >
 >* [Sincronización de cancelaciones de suscripción con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [Verificación de cancelación de suscripción de Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Configuraciones de sincronización de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Comprobación de cancelación de suscripción de Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [Configuración de sincronización de Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Sincronización de tareas de recordatorio con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Iniciar sincronización de datos](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+
