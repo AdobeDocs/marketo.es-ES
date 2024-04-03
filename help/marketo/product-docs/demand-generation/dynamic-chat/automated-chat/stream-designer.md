@@ -3,9 +3,9 @@ description: Diseñador de transmisiones - Documentos de Marketo - Documentació
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
 
    ![](assets/stream-designer-17.png)
 
-1. Introduzca un mensaje de bot de chat y un marcador de posición. Asegúrese de que el atributo esté asignado al campo correspondiente en Marketo y haga clic en **[!UICONTROL Guardar]**.
+1. Introduzca un mensaje de bot de chat y un marcador de posición. Asegúrese de que el atributo esté asignado al campo apropiado en Marketo Engage y haga clic en **[!UICONTROL Guardar]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ Puede crear flujos para cuadros de diálogo o [Conversational Forms](/help/marke
     </tr>
     <tr>
      <td style="width:30%"><strong>Asignar respuesta al atributo</strong></td>
-     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro de persona en su suscripción a Marketo.</td>
+     <td>Permite sincronizar la respuesta del visitante con el campo correspondiente de su registro Persona en la suscripción del Marketo Engage.</td>
     </tr>
    </table>
 
