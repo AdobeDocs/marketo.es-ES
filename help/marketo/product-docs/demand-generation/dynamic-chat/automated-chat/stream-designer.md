@@ -3,7 +3,7 @@ description: Diseñador de transmisiones - Documentos de Marketo - Documentació
 title: Diseñador de flujo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
+source-git-commit: 04a993ecd700c5aa9b11a5347cf77d8a9c2e6091
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 1%
@@ -51,7 +51,7 @@ El diseñador de secuencias contiene varias tarjetas que puede agregar para dar 
  <tr>
   <td style="width:25%"><strong>Acción*</strong></td>
   <td>Al igual que los campos ocultos en un formulario, con la tarjeta de acción puede rellenar cualquier atributo de posible cliente o compañía (que tenga un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de datos de cadena</a>) con valores implícitos que desea capturar con un registro de posibles clientes. Puede añadir la tarjeta de acción en cualquier momento de la conversación y actualizar los atributos respectivos con un valor o tokens nativos que rellenen automáticamente el valor respectivo.
-  <p>* <i>La tarjeta Acción requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.</i></td>
+  <p><i>* La tarjeta Acción requiere Dynamic Chat Prime. Póngase en contacto con el equipo de cuenta de Adobe (su administrador de cuentas) para obtener más información.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat en directo</strong></td>
