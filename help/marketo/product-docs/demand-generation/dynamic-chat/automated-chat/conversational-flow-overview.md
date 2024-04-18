@@ -3,9 +3,9 @@ description: 'Información general sobre el flujo de conversación: documentos d
 title: Resumen de flujo de conversación
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Déclencheur Diseñe un flujo de conversación y envíeselo a cualquier visitante en función de una acción específica (por ejemplo, hacer clic en un botón de llamada a la acción, al cargar la página, el tiempo invertido en la página, etc.).
 
 ![](assets/conversational-flow-overview-1.png)
-
->[!NOTE]
->
->Los flujos de conversación y el chat en vivo son funciones de prueba compartidas que tienen un límite de duración combinado de 100 participaciones para aquellos en el paquete Dynamic Chat Select. Cuando se alcance este límite, todos los flujos de conversación publicados dejarán de activarse y los visitantes que soliciten hablar con un agente activo recibirán el mensaje de reserva global. Para aumentar este límite, póngase en contacto con su representante de cuentas para discutir las opciones de actualización de paquetes.
 
 ## Diálogos frente a flujos de conversación {#dialogues-vs-conversational-flows}
 

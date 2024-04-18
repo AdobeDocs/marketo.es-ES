@@ -2,11 +2,11 @@
 description: 'Lista de comprobación heredada de Instance Design Studio: documentos de Marketo, documentación del producto'
 title: Lista de comprobación heredada de Instance Design Studio
 feature: Getting Started
-exl-id: 29d96153-0cb7-4a04-8fe9-93748be67cb0
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 3%
+source-wordcount: '578'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>Páginas de aterrizaje globales</td> 
+   <td>Páginas de destino globales</td> 
    <td><li>¿Cuántos globales? <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Páginas de aterrizaje</a> ¿hay? ¿Los utilizan los programas?</li>
    <li>¿Tiene un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro de suscripciones</a> ¿preparado?
    <br/>     Si no es así, considere la posibilidad de crear uno.</li></td>
@@ -73,11 +73,11 @@ Estructurar las plantillas y crear formularios, fragmentos e imágenes y archivo
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Área</th> 
+   <th style="width:20%">Área</th>
    <th>Revisar enfoque</th>
   </tr> 
   <tr> 
-   <td>Forms global</td> 
+   <td>Formularios globales</td> 
    <td><li>¿Cuántos globales? <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formularios</a> ¿hay?</li>
 <li>¿La mayoría de los programas utilizan formularios globales o locales?</li>
 <li>¿Todos los formularios recopilan los datos adecuados para el marketing y las ventas?</li>

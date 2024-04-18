@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ La página de notas de la versión estándar de Marketo Engage [se puede encontr
 
 **Fecha de publicación: 16 de abril de 2024**
 
-### Flujos de conversación ahora disponibles para los usuarios en Seleccionar paquete {#conversational-flows-select-package}
+### Flujos de conversación ahora disponibles para todos los usuarios {#conversational-flows-available-to-all-users}
 
-Cuando lanzamos Conversational Flows el año pasado, los que estaban en el paquete Dynamic Chat Select solo podían aprovechar la capacidad como una prueba de 100 participaciones de por vida. Ahora, los flujos de conversación están totalmente disponibles para todos los que formen parte del paquete Select.
+Convierta sus formularios y páginas de aterrizaje en algo más conversacional y acorte el canal de ventas al permitir que posibles clientes cualificados reserven una reunión o conversen con Ventas inmediatamente después de enviar un formulario con Conversational Forms, ahora totalmente disponible&#42; para todos los usuarios de Dynamic Chat.
 
-Las participaciones en Flujo de conversación se contarán para el límite mensual de 250 conversaciones comprometidas para los usuarios en el paquete Seleccionar.
+_&#42;Anteriormente disponible como función de prueba con 100 participaciones de por vida. Las participaciones en el flujo de conversación ahora se contarán para el límite mensual de 250 conversaciones comprometidas para los usuarios en el paquete Seleccionar._
 
 ### Funciones de devolución de llamada {#callback-functions}
 

@@ -4,10 +4,10 @@ title: NUEVO ESTUDIO DE DISEÑO DE ÁREA
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 11%
+source-wordcount: '326'
+ht-degree: 7%
 
 ---
 
@@ -22,27 +22,22 @@ Texto...
   <tr>
     <th>Área</th>
     <th>Elementos de acción</th>
-    <th>Documentación</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Páginas de destino globales</td>
-    <td>
-    <ul>
-    <li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank"> páginas de aterrizaje globales (forma libre/guías)</a>.</li>
-    <li>Configure su <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn" target="_blank">centro de suscripciones</a> página de aterrizaje dentro del Marketo Engage (si corresponde).</td></li>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.html#product-docs" target="_blank">Explicación de las páginas de aterrizaje improvisadas y guiadas</a><br> <br><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn" target="_blank">Obtenga información sobre la configuración y administración de un centro de suscripciones</a> </td>
+    <td><li>Crear páginas de aterrizaje globales (improvisadas/guiadas).</li>
+    <li>Cree una página de prueba para probar la plantilla de la página de aterrizaje ganadora (si corresponde).</li>
+    <li>Configure la página de aterrizaje del centro de suscripciones en Marketo Engage (si corresponde).</li></td>
   </tr>
   <tr>
     <td>Plantillas</td>
-    <td><li>Cree un diseño para páginas de aterrizaje globales.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.html?lang=en#product-docs" target="_blank">Plantillas de la página de destino</a></td>
+    <td><li>Cree un diseño para las páginas de destino globales.</li></td>
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li>Incluir pie de página adecuado mediante <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragmentos</a> o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> en las páginas de aterrizaje de para el cumplimiento de la privacidad.</li></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Añadir un fragmento a una página de aterrizaje</a></td>
+    <td><li>Incluir pie de página adecuado mediante <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmentos</a> o tokens en las páginas de aterrizaje para el cumplimiento de la privacidad.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,24 +49,20 @@ Texto...
   <tr>
     <th>Área</th>
     <th>Elementos de acción</th>
-    <th>Documentación</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Formularios globales</td>
-    <td><li>Configuración de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formularios globales</a>. Casos de uso de formularios globales: preferencias de suscripción, descarga de contenido cerrado, solicitud de demostración, registro en un seminario web, etc.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html#product-docs" target="_blank">Formularios</a></td>
+    <td><li>Configuración de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">formularios globales</a> para casos de uso como preferencias de suscripción, descarga de contenido cerrado, solicitud de demostración, registro en seminario web, etc.</li></td>
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li>Mantenga sus formularios compatibles con el RGPD.</td>
-    <td><a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD y experto en marketing: Guía práctica para el cliente de Marketo</a></li></td>
+    <td><li>Mantenga sus formularios compatibles con el RGPD.</li></td>
   </tr>
   <tr>
     <td>Estandarización de datos</td>
-    <td><li>Considere la posibilidad de aplicar listas de selección a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">campos de formulario</a> en lugar de abrir campos de texto para evitar datos confusos.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.html?lang=en#product-docs" target="_blank">Campos del formulario</a></td>
+    <td><li>Considere la posibilidad de aplicar listas de selección a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">campos de formulario</a> en lugar de abrir campos de texto para evitar datos confusos.</li></td>
   </tr>
 </tbody>
 </table>
@@ -82,25 +73,22 @@ Texto...
 <thead>
   <tr>
     <th>Área</th>
-    <th>Elementos de acción</th>
-    <th>Documentación</th>
+    <th>Elemento de acción</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Correos electrónicos globales</td>
     <td><li>Crear correos electrónicos globales.</li></td>
-    <td><a href="https://docs.marketo.com/display/public/DOCS/Create+an+Email" target="_blank">Crear un correo electrónico</a></td>
   </tr>
   <tr>
     <td>Plantillas</td>
-    <td><li>Diseño basado en módulos <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">plantilla de correo electrónico</a> con un diseñador/desarrollador o use una herramienta como Knak.io</li></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">Crear una plantilla de correo electrónico</a></td>
+    <td><li>Diseño basado en módulos <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">plantilla de correo electrónico</a> con un diseñador/desarrollador o inserte su propio HTML.</li>
+    <li>Cree una plantilla de correo electrónico probada para probar la plantilla de correo electrónico ganadora (si corresponde).</li></td>
   </tr>
   <tr>
     <td>Privacidad y cumplimiento</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Añadir fragmentos de código</a> o<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview%22%20/l%20%22understanding-default-values" target="_blank"> Tokens</a> a sus plantillas de correo electrónico para controlar el año de copyright, la ubicación global y el idioma específico del cumplimiento normativo.</li></td>
-    <td>Información general sobre tokens</td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Añadir fragmentos de código</a> sus plantillas de correo electrónico para controlar los bloques reutilizables, como el año de copyright, la ubicación global y el idioma específico para el cumplimiento normativo. Añada tokens para personalizar el contenido en función de la audiencia de destino.</li></td>
   </tr>
 </tbody>
 </table>
@@ -111,22 +99,36 @@ Texto...
 <thead>
   <tr>
     <th>Área</th>
-    <th>Elementos de acción</th>
-    <th>Documentación</th>
+    <th>Elemento de acción</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Fragmentos</td>
-    <td><li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Fragmentos</a> para casos de uso de cumplimiento de la privacidad en sus correos electrónicos y páginas de aterrizaje.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.html#product-docs" target="_blank" rel="noopener noreferrer">Fragmentos</a></td>
+    <td><li>Crear <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Fragmentos</a> para crear bloques de contenido reutilizable que se puedan usar en varios casos de uso, como información de contacto, vínculos de medios sociales, información de marca, así como notas de privacidad y conformidad en correos electrónicos y páginas de aterrizaje.</li></td>
   </tr>
 </tbody>
 </table>
 
 ## Imágenes y archivos {#images-and-files}
 
-TABLA
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Elementos de acción</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Convenciones de nomenclatura</td>
+    <td><li>Utilice convenciones de nomenclatura coherentes para imágenes y archivos.</li>  
+    <br>Ejemplos:  
+    <br>Convención de nomenclatura de archivos: Nombre del recurso de tipo (por ejemplo: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-on-Board) 
+    <p>Convención de nomenclatura de imágenes: tipo de imagen-nombre del tipo de recurso-recurso (por ejemplo: Miniatura-Libro blanco-Evaluar-Nube-Computación-Obtenga-su-placa-en-placa)</td>
+  </tr>
+</tbody>
+</table>
 
 ## Organización {#organization}
 
@@ -134,15 +136,13 @@ TABLA
 <thead>
   <tr>
     <th>Área</th>
-    <th>Elemento de acción</th>
-    <th>Documentación</th>
+    <th>Elementos de acción</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Estructura de carpetas</td>
-    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizar recursos globales</a> (es decir, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje y plantillas de páginas de aterrizaje) adecuada y fácil de buscar.</li></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organizar imágenes y archivos mediante carpetas</a></td>
+    <td>Estructura de carpetas </td>
+    <td><li>Cree subcarpetas para cada tipo de recurso y <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizar recursos globales</a> (por ejemplo, flujos de conversación, plantillas de correo electrónico, correos electrónicos, formularios, imágenes y archivos, páginas de aterrizaje, plantillas de página de aterrizaje, fragmentos de código) adecuada y fácil de buscar.</li></td>
   </tr>
 </tbody>
 </table>
